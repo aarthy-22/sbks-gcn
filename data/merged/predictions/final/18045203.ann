@@ -1,0 +1,15 @@
+T15	GENE-N 20 45	human muscarinic receptor
+T7	CHEMICAL 59 69	oxybutynin
+T8	CHEMICAL 74 94	N-desethyloxybutynin
+T1	CHEMICAL 108 118	Oxybutynin
+T10	GENE-N 142 161	muscarinic receptor
+T2	CHEMICAL 264 274	oxybutynin
+T3	CHEMICAL 288 306	desethyloxybutynin
+T4	CHEMICAL 396 424	N-CT(3)-scopolamine chloride
+T5	CHEMICAL 426 434	(3)H-NMS
+T9	GENE-N 447 485	human cloned muscarinic m1-5 receptors
+T6	CHEMICAL 524 532	(3)H-NMS
+T11	GENE-N 544 567	m1, m3 and m4 receptors
+T12	GENE-Y 597 599	m2
+T13	GENE-Y 604 606	m5
+T14	GENE-N 909 928	m1 and m3 receptors

@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 8 10	18
+T2	REACTION_PRODUCT 26 142	trans-5-(3-(3-bromo-4,5-dichlorophenyl)-2,2-dichlorocyclopropane-1-carboxamido)-2-chloro-N-(4-fluorophenyl)benzamide
+T3	REACTION_PRODUCT 144 149	F1005
+T4	SOLVENT 151 166	Dichloromethane
+T5	STARTING_MATERIAL 217 261	5-amino-2-chloro-N-(4-fluorophenyl)benzamide
+T6	STARTING_MATERIAL 263 266	C98
+T7	REAGENT_CATALYST 291 314	4-dimethylaminopyridine
+T8	STARTING_MATERIAL 338 417	trans-3-(3-bromo-4,5-dichlorophenyl)-2,2-dichlorocyclopropane-1-carboxylic acid
+T9	STARTING_MATERIAL 419 422	C29
+T10	REAGENT_CATALYST 450 509	1-ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride
+T11	TEMPERATURE 535 551	room temperature
+T12	TEMPERATURE 589 605	room temperature
+T13	TIME 610 618	72 hours
+T14	OTHER_COMPOUND 650 660	silica gel
+T15	OTHER_COMPOUND 702 715	ethyl acetate
+T16	OTHER_COMPOUND 716 723	hexanes
+T17	REACTION_PRODUCT 746 760	title compound
+T18	YIELD_OTHER 779 786	0.118 g
+T19	YIELD_PERCENT 788 791	45%

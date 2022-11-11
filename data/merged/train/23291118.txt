@@ -1,0 +1,5 @@
+Syntheses and evaluation of the antioxidant activity of novel methoxypsoralen derivatives.
+A series of 5- and 8-methoxypsoralen (MOP) analogs, suitable for structure-antioxidative/anti-inflammatory activity relationship studies, were synthesized using as key-reactions the selective monobromination of MOPs with N-bromosaccharin and either a Heck reaction or a Suzuki coupling or a Suzuki coupling followed by a Wittig reaction to install side-chains of the acrylate- or benzoate- or cinnamate-type, respectively.
+The 8-MOP analogs 19 and 24, incorporating at position 5 of the psoralen nucleus a butyl acrylate or a tert-butyl cinnamate moiety, were the most powerful inhibitors of soybean LOX and inhibited effectively lipid peroxidation.
+Analog 19 was a more potent anti-inflammatory agent than the reference compound indomethacin and of comparable cytocompatibility to 8-MOP whereas analog 24 was a weaker inhibitor of inflammation than indomethacin and significantly more cytotoxic than 8-MOP.
+The results of the biological tests are discussed in terms of structural characteristics.

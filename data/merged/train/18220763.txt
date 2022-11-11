@@ -1,0 +1,6 @@
+Type 2 diabetes and oral antihyperglycemic drugs.
+Type II diabetes is a heterogeneous disease where environment and genetics are important factors for the expression of the disease.
+The high cost for treating complications of diabetes is a burden for public health systems and governments worldwide.
+Type II diabetes has been causing debilitation worldwide for many decades, and a single drug that safely treats the disease has yet to be discovered.
+Sulfonylureas, biguanides, alpha-glucosidase, meglitinides, DPP-4 inhibitors and thiazolidinediones are among the classes of oral hypoglycemic drugs available to treat Type II diabetes, but concerns exist regarding safety and efficacy of these drugs.
+In this article we present the pros and cons of the six classes and discuss some of the latest advances towards the development of new drugs for the treatment of Type II diabetes.

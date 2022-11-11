@@ -1,0 +1,30 @@
+T9	CHEMICAL 39 64	phosphorylated flavonoids
+T8	CHEMICAL 103 114	cholesterol
+T23	GENE-Y 103 123	cholesterol esterase
+T2	CHEMICAL 137 162	phosphorylated flavonoids
+T1	CHEMICAL 234 245	cholesterol
+T10	GENE-Y 234 254	cholesterol esterase
+T11	GENE-Y 256 261	CEase
+T12	GENE-Y 267 287	acetylcholinesterase
+T13	GENE-Y 289 293	AChE
+T14	GENE-Y 390 395	CEase
+T3	CHEMICAL 425 435	flavonoids
+T4	CHEMICAL 456 481	phosphorylated flavonoids
+T15	GENE-Y 524 529	CEase
+T16	GENE-Y 535 539	AChE
+T17	GENE-Y 592 596	AChE
+T18	GENE-Y 641 646	CEase
+T19	GENE-Y 709 714	CEase
+T20	GENE-Y 720 724	AChE
+T5	CHEMICAL 786 794	hydroxyl
+T6	CHEMICAL 819 828	phosphate
+T7	CHEMICAL 856 881	phosphorylated flavonoids
+T21	GENE-Y 917 922	CEase
+T22	GENE-Y 1049 1054	CEase
+R0	CPR-4 Arg1:T2 Arg2:T11
+R1	NOT Arg1:T4 Arg2:T20
+R2	NOT Arg1:T16 Arg2:T6
+R3	NOT Arg1:T17 Arg2:T5
+R4	NOT Arg1:T17 Arg2:T7
+R5	NOT Arg1:T18 Arg2:T6
+R6	NOT Arg1:T18 Arg2:T7

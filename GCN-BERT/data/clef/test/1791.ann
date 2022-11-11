@@ -1,0 +1,25 @@
+T1	EXAMPLE_LABEL 8 10	10
+T2	REACTION_PRODUCT 26 160	trans-2-chloro-N-(4-((4-chlorobenzyl)amino)-2-methylphenyl)-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)benzamide
+T3	REACTION_PRODUCT 162 167	F1010
+T4	STARTING_MATERIAL 169 189	4-Chlorobenzaldehyde
+T5	STARTING_MATERIAL 250 366	trans-N-(4-amino-2-methylphenyl)-2-chloro-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)benzamide
+T6	STARTING_MATERIAL 368 371	DP4
+T7	REAGENT_CATALYST 399 413	sodium acetate
+T8	SOLVENT 439 447	methanol
+T9	SOLVENT 457 462	water
+T10	REAGENT_CATALYST 475 486	acetic acid
+T11	TEMPERATURE 546 552	25° C.
+T12	TIME 557 564	3 hours
+T13	REAGENT_CATALYST 566 589	Sodium cyanoborohydride
+T14	TEMPERATURE 687 706	ambient temperature
+T15	TIME 719 726	4 hours
+T16	OTHER_COMPOUND 767 772	water
+T17	OTHER_COMPOUND 800 813	diethyl ether
+T18	OTHER_COMPOUND 876 881	water
+T19	OTHER_COMPOUND 896 903	aqueous
+T20	OTHER_COMPOUND 904 919	sodium chloride
+T21	OTHER_COMPOUND 951 968	magnesium sulfate
+T22	OTHER_COMPOUND 1040 1050	silica gel
+T23	REACTION_PRODUCT 1085 1099	title compound
+T24	YIELD_OTHER 1118 1125	0.087 g
+T25	YIELD_PERCENT 1127 1130	68%

@@ -1,0 +1,12 @@
+T5	CHEMICAL 43 50	steroid
+T6	GENE-N 189 232	delta 5-3 beta-Hydroxysteroid dehydrogenase
+T1	CHEMICAL 199 218	beta-Hydroxysteroid
+T7	GENE-N 234 252	delta 5-3 beta-HSD
+T2	CHEMICAL 380 397	17 beta-estradiol
+T3	CHEMICAL 462 474	progesterone
+T8	GENE-N 502 520	delta 5-3 beta-HSD
+T9	GENE-N 598 626	human chorionic gonadotropin
+T10	GENE-N 628 631	hCG
+T4	CHEMICAL 671 681	Trilostane
+T11	GENE-N 713 731	delta 5-3 beta-HSD
+T12	GENE-N 777 795	delta 5-3 beta-HSD

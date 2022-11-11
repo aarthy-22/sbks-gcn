@@ -1,0 +1,44 @@
+T27	GENE 32 90	human placental 3 beta-hydroxy-5-ene-steroid dehydrogenase
+T19	CHEMICAL 48 76	3 beta-hydroxy-5-ene-steroid
+T28	GENE 95 123	steroid 5----4-ene-isomerase
+T18	CHEMICAL 130 169	5'-[p-(fluorosulfonyl)benzoyl]adenosine
+T1	CHEMICAL 209 237	3 beta-Hydroxy-5-ene-steroid
+T20	GENE 209 251	3 beta-Hydroxy-5-ene-steroid dehydrogenase
+T24	GENE 256 284	steroid 5----4-ene-isomerase
+T7	CHEMICAL 387 417	alpha-bromoacetoxyprogesterone
+T23	GENE 436 449	dehydrogenase
+T8	CHEMICAL 474 482	steroids
+T9	CHEMICAL 551 555	NADH
+T10	CHEMICAL 626 635	progestin
+T11	CHEMICAL 761 781	3-keto-5-ene-steroid
+T25	GENE 761 791	3-keto-5-ene-steroid isomerase
+T12	CHEMICAL 839 868	diphosphopyridine nucleotides
+T13	CHEMICAL 870 874	NADH
+T14	CHEMICAL 876 880	NAD+
+T15	CHEMICAL 905 915	nucleotide
+T16	CHEMICAL 924 963	5'-[p-(fluorosulfonyl)benzoyl]adenosine
+T17	CHEMICAL 965 968	FSA
+T26	GENE 987 1000	dehydrogenase
+T2	CHEMICAL 1275 1279	NAD+
+T21	GENE 1293 1306	dehydrogenase
+T3	CHEMICAL 1443 1446	FSA
+T4	CHEMICAL 1563 1584	3 beta-hydroxysteroid
+T5	CHEMICAL 1596 1608	pregnenolone
+T22	GENE 1640 1653	dehydrogenase
+T6	CHEMICAL 1675 1678	FSA
+R0	CPR-2 Arg1:T18 Arg2:T27
+R1	CPR-2 Arg1:T18 Arg2:T28
+R2	CPR-9 Arg1:T8 Arg2:T23
+R3	CPR-4 Arg1:T15 Arg2:T26
+R4	CPR-4 Arg1:T16 Arg2:T26
+R5	CPR-4 Arg1:T17 Arg2:T26
+R6	CPR-4 Arg1:T6 Arg2:T22
+R7	NOT Arg1:T19 Arg2:T28
+R8	NOT Arg1:T1 Arg2:T24
+R9	NOT Arg1:T7 Arg2:T23
+R10	NOT Arg1:T25 Arg2:T12
+R11	NOT Arg1:T25 Arg2:T13
+R12	NOT Arg1:T25 Arg2:T14
+R13	NOT Arg1:T2 Arg2:T21
+R14	NOT Arg1:T4 Arg2:T22
+R15	NOT Arg1:T5 Arg2:T22

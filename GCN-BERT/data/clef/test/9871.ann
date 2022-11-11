@@ -1,0 +1,5 @@
+T1	REACTION_PRODUCT 63 158	N-[4-(2-furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]-6-(1-propenyl)pyridine-3-carboxamide
+T2	YIELD_OTHER 160 166	125 mg
+T3	YIELD_PERCENT 168 171	33%
+T4	STARTING_MATERIAL 209 268	2-amino-4-(2-furyl)thiazol-5-yl=tetrahydropyran-4-yl=ketone
+T5	STARTING_MATERIAL 321 349	6-(1-propenyl)nicotinic acid

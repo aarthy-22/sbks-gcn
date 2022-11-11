@@ -1,0 +1,11 @@
+T6	CHEMICAL 0 23	3'-R/S-Hydroxyvoacamine
+T10	GENE-Y 34 54	acetylcholinesterase
+T7	GENE-Y 112 132	acetylcholinesterase
+T3	CHEMICAL 158 176	bisindole alkaloid
+T5	CHEMICAL 177 200	3'-R/S-hydroxyvoacamine
+T1	CHEMICAL 470 474	(1)H
+T2	CHEMICAL 479 484	(13)C
+T8	GENE-Y 568 572	AChE
+T9	GENE-Y 674 678	AChE
+T4	CHEMICAL 733 756	3'-R/S-hydroxyvoacamine
+R0	CPR-4 Arg1:T3 Arg2:T7

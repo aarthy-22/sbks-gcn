@@ -1,0 +1,41 @@
+T1	EXAMPLE_LABEL 8 10	55
+T2	REACTION_PRODUCT 11 145	(2S,3S,4S,5S)-3-tert-butyl-4-[(5-tert-butyl-2-methoxypyridin-3-yl)amino]-1-(cyclohexanecarbonyl)-5-phenylpyrrolidine-2-carboxylic acid
+T3	OTHER_COMPOUND 148 156	nitrogen
+T4	STARTING_MATERIAL 177 277	(2S,3S,4S,5S)-ethyl 4-amino-3-(tert-butyl)-1-(cyclohexanecarbonyl)-5-phenylpyrrolidine-2-carboxylate
+T5	STARTING_MATERIAL 314 354	3-bromo-5-(tert-butyl)-2-methoxypyridine
+T6	OTHER_COMPOUND 392 400	nitrogen
+T7	STARTING_MATERIAL 423 469	2,2'-bis(diphenylphosphino)-1,1'-binaphthalene
+T8	REAGENT_CATALYST 493 533	tris(dibenzylideneacetone)dipalladium(0)
+T9	REAGENT_CATALYST 559 575	cesium carbonate
+T10	SOLVENT 600 607	toluene
+T11	TEMPERATURE 645 652	110° C.
+T12	OTHER_COMPOUND 659 667	aluminum
+T13	TIME 678 686	16 hours
+T14	OTHER_COMPOUND 747 757	silica gel
+T15	OTHER_COMPOUND 787 800	ethyl acetate
+T16	OTHER_COMPOUND 801 809	heptanes
+T17	OTHER_COMPOUND 815 817	40
+T18	REACTION_PRODUCT 834 974	(2S,3S,4S,5S)-ethyl 3-(tert-butyl)-4-((5-(tert-butyl)-2-methoxypyridin-3-yl)amino)-1-(cyclohexanecarbonyl)-5-phenylpyrrolidine-2-carboxylate
+T19	YIELD_OTHER 976 981	16 mg
+T20	YIELD_OTHER 983 993	0.028 mmol
+T21	YIELD_PERCENT 995 1001	20.30%
+T22	SOLVENT 1066 1074	methanol
+T23	REAGENT_CATALYST 1140 1157	lithium hydroxide
+T24	OTHER_COMPOUND 1184 1189	water
+T25	TEMPERATURE 1218 1223	45° C
+T26	TIME 1229 1236	4 hours
+T27	OTHER_COMPOUND 1280 1288	nitrogen
+T28	OTHER_COMPOUND 1331 1338	aqueous
+T29	OTHER_COMPOUND 1339 1342	HCl
+T30	OTHER_COMPOUND 1379 1394	dichloromethane
+T31	OTHER_COMPOUND 1421 1431	silica gel
+T32	OTHER_COMPOUND 1450 1463	ethyl acetate
+T33	OTHER_COMPOUND 1464 1471	ethanol
+T34	OTHER_COMPOUND 1472 1480	heptanes
+T35	OTHER_COMPOUND 1553 1565	acetonitrile
+T36	OTHER_COMPOUND 1566 1571	water
+T37	OTHER_COMPOUND 1572 1592	trifluoroacetic acid
+T38	REACTION_PRODUCT 1608 1746	(2S,3S,4S,5S)-3-(tert-butyl)-4-((5-(tert-butyl)-2-methoxypyridin-3-yl)amino)-1-(cyclohexanecarbonyl)-5-phenylpyrrolidine-2-carboxylic acid
+T39	YIELD_OTHER 1748 1754	4.8 mg
+T40	YIELD_OTHER 1756 1765	8.96 μmol
+T41	YIELD_PERCENT 1767 1772	31.6%

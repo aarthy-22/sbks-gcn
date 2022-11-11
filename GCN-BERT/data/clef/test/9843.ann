@@ -1,0 +1,8 @@
+T1	EXAMPLE_LABEL 8 10	47
+T2	REACTION_PRODUCT 11 89	4-(6-Fluoro-1H-indol-3-yl)-N-(8-methyl-8-azabicyclo[3,2,1]octan-3-yl)benzamide
+T3	REACTION_PRODUCT 95 103	compound
+T4	REACTION_PRODUCT 122 136	Intermediate 3
+T5	STARTING_MATERIAL 141 198	8-methyl-8-azabicyclo[3.2.1]octan-3-amine dihydrochloride
+T6	REACTION_PRODUCT 314 328	title compound
+T7	YIELD_OTHER 330 335	11 mg
+T8	YIELD_PERCENT 337 340	26%

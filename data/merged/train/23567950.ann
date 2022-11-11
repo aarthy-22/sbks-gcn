@@ -1,0 +1,7 @@
+T4	CHEMICAL 45 86	aliphatic amido-quaternary ammonium salts
+T1	CHEMICAL 143 184	aliphatic amido-quaternary ammonium salts
+T5	GENE-Y 268 272	RhoB
+T2	CHEMICAL 328 369	aliphatic amido-quaternary ammonium salts
+T3	CHEMICAL 560 635	N,N-diethyl-N-(2-(N-methyltetradecanamido)ethyl)prop-2-en-1-aminium bromide
+T6	GENE-Y 690 694	RhoB
+R0	NOT Arg1:T5 Arg2:T2

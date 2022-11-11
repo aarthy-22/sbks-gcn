@@ -1,0 +1,12 @@
+T1	EXAMPLE_LABEL 1 2	2
+T2	REACTION_PRODUCT 23 152	1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-t-butyloxycarbon ylamino-piperidine-1-yl]-xanthine
+T3	STARTING_MATERIAL 160 245	1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+T4	REAGENT_CATALYST 265 284	potassium carbonate
+T5	STARTING_MATERIAL 308 348	3-(R)-t-butyloxycarbonyl-aminopiperidine
+T6	SOLVENT 415 437	N,N-dimethylformamides
+T7	TEMPERATURE 453 457	80°C
+T8	TIME 475 482	5 hours
+T9	TEMPERATURE 529 545	room temperature
+T10	OTHER_COMPOUND 584 589	water
+T11	YIELD_OTHER 663 668	2.2 g
+T12	YIELD_PERCENT 705 708	76%

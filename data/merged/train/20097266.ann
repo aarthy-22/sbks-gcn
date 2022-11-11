@@ -1,0 +1,13 @@
+T6	CHEMICAL 103 113	isoflurane
+T4	CHEMICAL 142 165	gamma-aminobutyric acid
+T10	GENE-N 142 175	gamma-aminobutyric acid subtype A
+T13	GENE-N 177 194	GABA(A)) receptor
+T3	CHEMICAL 334 344	isoflurane
+T9	GENE-N 383 439	phospholipase C-related inactive protein (PRIP)-1 and -2
+T11	GENE-Y 506 545	GABA(A) receptors containing the gamma2
+T12	GENE-N 609 625	GABA(A) receptor
+T5	CHEMICAL 1013 1023	isoflurane
+T1	CHEMICAL 1217 1227	isoflurane
+T7	GENE-Y 1335 1358	GABA(A) receptor gamma2
+T8	GENE-N 1414 1431	GABA(A) receptors
+T2	CHEMICAL 1475 1485	isoflurane

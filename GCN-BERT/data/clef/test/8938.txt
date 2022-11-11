@@ -1,0 +1,2 @@
+Synthesis of (R)-2-benzylpent-4-en-1-ol ((R)-11)
+The procedure was similar to that of (S)-11 except the following reagents were used: (RR)-10 (1.83 g, 5.23 mmol) in dry THF (25 mL), Lithium aluminum hydride (595 mg, 15.68 mmol). The reaction afforded (R)-11 in 70% yield (645 mg).

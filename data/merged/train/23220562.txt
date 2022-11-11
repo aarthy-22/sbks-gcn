@@ -1,0 +1,9 @@
+Attenuated expression of the tight junction proteins is involved in clopidogrel-induced gastric injury through p38 MAPK activation.
+Bleeding complications and delayed healing of gastric ulcer associated with use of clopidogrel is a common clinical concern; however, the underlying mechanisms remain to be determined.
+This study aimed to clarify whether clopidogrel could cause the damage of the human gastric epithelial cells and to further elucidate the mechanisms involved.
+After human gastric epithelial cell line GES-1 had been treated with clopidogrel (0.5-2.5 mM), the cell proliferation was examined by MTT assay, apoptosis was measured with DAPI staining and flow cytometry analysis, and the barrier function of the tight junctions (TJ) was evaluated by permeability measurement and transmission electron microscopy.
+Moreover, expression of the TJ proteins occludin and ZO-1 and the phosphorylation of the mitogen-activated protein kinases (MAPK) p38, ERK, and JNK were examined by western blot.
+In addition, three MAPK inhibitors specific to p38, ERK and JNK were used, respectively, to verify the signaling pathways responsible for regulating the expression of the TJ proteins being tested.
+Results showed that clopidogrel significantly increased dextran permeability, induced apoptosis, suppressed GES-1 cell viability, and reduced the expression of the TJ proteins (occludin and ZO-1), acting through p38 MAPK phosphorylation.
+Furthermore, these observed effects were partially abolished by SB-203580 (a p38 MAPK inhibitor), rather than by either U-0126 (an ERK inhibitor) or SP-600125 (a JNK inhibitor), suggesting that clopidogrel-induced disruption in the gastric epithelial cells is mediated by the p38 MAPK pathway.
+It is concluded that attenuated expression of the TJ proteins occludin and ZO-1 in human gastric epithelial cells could be involved in clopidogrel-induced gastric mucosal injury through activation of the p38 MAPK pathway.

@@ -1,0 +1,19 @@
+T15	GENE-N 54 72	nicotinic receptor
+T1	CHEMICAL 242 262	piperidine alkaloids
+T2	CHEMICAL 264 284	microgrewiapines A-C
+T3	CHEMICAL 339 354	microcosamine A
+T4	CHEMICAL 360 423	7'-(3',4'-dihydroxyphenyl)-N-[4-methoxyphenyl)ethyl]propenamide
+T5	CHEMICAL 433 444	liriodenine
+T6	CHEMICAL 505 515	chloroform
+T7	CHEMICAL 612 639	microgrewiapine A 3-acetate
+T11	GENE-N 763 815	human α3β4 or α4β2 nicotinic acetylcholine receptors
+T8	CHEMICAL 792 805	acetylcholine
+T12	GENE-N 817 823	nAChRs
+T13	GENE-N 880 885	nAChR
+T9	CHEMICAL 926 943	microgrewiapine A
+T14	GENE-N 1054 1072	nicotinic receptor
+T10	GENE-N 1108 1132	hα3β4 and hα4β2 receptor
+R0	CPR-6 Arg1:T9 Arg2:T14
+R1	NOT Arg1:T8 Arg2:T12
+R2	NOT Arg1:T8 Arg2:T13
+R3	NOT Arg1:T9 Arg2:T10

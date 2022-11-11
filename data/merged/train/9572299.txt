@@ -1,0 +1,9 @@
+Modulation of the N-methyl-D-aspartate receptor by haloperidol: NR2B-specific interactions.
+The dopaminergic antagonist haloperidol has an eight- to 10-fold higher affinity for NMDA receptors containing the NR2B (epsilon2) subunit, showing the same subunit specificity as ifenprodil, polyamines, and magnesium.
+In the present study, we have compared the effects of mutations altering polyamine and ifenprodil sensitivity on haloperidol sensitivity of NMDA receptors.
+As seen for spermidine stimulation, high-affinity haloperidol inhibition is governed by the region around amino acid 198, based on results from chimeric murine NR2A/NR2B (epislon1/epsilon2) receptors.
+Mutation of epsilon2E201 in this region to asparagine or arginine causes a 10-fold decrease in the ability of haloperidol to inhibit 125I-MK-801 binding.
+Epsilon2E201 does not govern the interactions of ifenprodil, because all of the mutants at epsilon2E201 exhibited wild-type affinity for ifenprodil.
+Mutation of epsilon2R337 causes a 400-fold loss in apparent affinity for ifenprodil but does not change the effects of haloperidol.
+The structural determinants of spermidine stimulation do not perfectly match those for haloperidol inhibition, as mutations of E200 remove haloperidol inhibition but do not alter polyamine stimulation.
+The present results thus demonstrate that although spermidine, haloperidol, and ifenprodil share subunit selectivity and overlapping pharmacology, they also have specific structural determinants.

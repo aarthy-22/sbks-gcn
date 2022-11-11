@@ -1,0 +1,30 @@
+T24	CHEMICAL 27 39	neuroleptics
+T30	GENE-N 43 71	human monoamine transporters
+T25	CHEMICAL 49 58	monoamine
+T1	CHEMICAL 178 190	neuroleptics
+T2	CHEMICAL 228 239	haloperidol
+T26	GENE-N 260 318	human serotonin, norepinephrine, and dopamine transporters
+T3	CHEMICAL 266 275	serotonin
+T4	CHEMICAL 277 291	norepinephrine
+T5	CHEMICAL 297 305	dopamine
+T6	CHEMICAL 324 338	[3H]imipramine
+T7	CHEMICAL 340 354	[3H]nisoxetine
+T8	CHEMICAL 360 372	[3H]WIN35428
+T9	CHEMICAL 394 406	neuroleptics
+T27	GENE-Y 446 473	human serotonin transporter
+T10	CHEMICAL 452 461	serotonin
+T11	CHEMICAL 479 494	triflupromazine
+T12	CHEMICAL 496 508	fluperlapine
+T13	CHEMICAL 510 524	chlorpromazine
+T14	CHEMICAL 530 541	ziprasidone
+T15	CHEMICAL 570 584	norepinephrine
+T28	GENE-Y 570 596	norepinephrine transporter
+T16	CHEMICAL 598 612	chlorpromazine
+T17	CHEMICAL 614 622	zotepine
+T18	CHEMICAL 624 639	chlorprothixene
+T19	CHEMICAL 645 654	promazine
+T29	GENE-Y 679 705	human dopamine transporter
+T20	CHEMICAL 685 693	dopamine
+T21	CHEMICAL 712 720	pimozide
+T22	CHEMICAL 737 748	ziprasidone
+T23	CHEMICAL 889 901	neuroleptics

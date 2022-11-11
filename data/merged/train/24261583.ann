@@ -1,0 +1,11 @@
+T7	CHEMICAL 46 56	macitentan
+T10	GENE-N 80 99	endothelin receptor
+T1	CHEMICAL 179 189	Macitentan
+T9	GENE-N 206 225	endothelin receptor
+T2	CHEMICAL 489 499	macitentan
+T3	CHEMICAL 719 729	macitentan
+T4	CHEMICAL 1010 1020	macitentan
+T5	CHEMICAL 1106 1114	bosentan
+T6	CHEMICAL 1119 1130	ambrisentan
+T8	GENE-N 1190 1200	hemoglobin
+R0	CPR-6 Arg1:T7 Arg2:T10

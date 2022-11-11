@@ -1,0 +1,9 @@
+Structure of acetylcholinesterase complexed with (-)-galanthamine at 2.3 A resolution.
+(-)-Galanthamine (GAL), an alkaloid from the flower, the common snowdrop (Galanthus nivalis), shows anticholinesterase activity.
+This property has made GAL the target of research as to its effectiveness in the treatment of Alzheimer's disease.
+We have solved the X-ray crystal structure of GAL bound in the active site of Torpedo californica acetylcholinesterase (TcAChE) to 2.3 A resolution.
+The inhibitor binds at the base of the active site gorge of TcAChE, interacting with both the choline-binding site (Trp-84) and the acyl-binding pocket (Phe-288, Phe-290).
+The tertiary amine group of GAL does not interact closely with Trp-84; rather, the double bond of its cyclohexene ring stacks against the indole ring.
+The tertiary amine appears to make a non-conventional hydrogen bond, via its N-methyl group, to Asp-72, near the top of the gorge.
+The hydroxyl group of the inhibitor makes a strong hydrogen bond (2.7 A) with Glu-199.
+The relatively tight binding of GAL to TcAChE appears to arise from a number of moderate to weak interactions with the protein, coupled to a low entropy cost for binding due to the rigid nature of the inhibitor.

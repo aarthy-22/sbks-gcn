@@ -1,0 +1,160 @@
+T1	REACTION_PRODUCT 62 94	carbamoyl-cyclohexane derivative
+T2	OTHER_COMPOUND 109 204	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T3	OTHER_COMPOUND 2600 2605	mania
+T4	OTHER_COMPOUND 2790 2800	olanzapine
+T5	OTHER_COMPOUND 2802 2813	risperidone
+T6	OTHER_COMPOUND 2815 2825	quetiapine
+T7	OTHER_COMPOUND 2827 2838	ziprasidone
+T8	OTHER_COMPOUND 2840 2852	aripiprazole
+T9	REACTION_PRODUCT 4923 4951	(thio) carbamoyl-cyclohexane
+T10	OTHER_COMPOUND 4980 4982	D2
+T11	REACTION_PRODUCT 5163 5258	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T12	REACTION_PRODUCT 5305 5414	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine hydrochloride
+T13	REACTION_PRODUCT 5439 5542	trans-1{4-[2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl]-cyclohexyl}-3,3-dimethyl-urea hydrochloride
+T14	REACTION_PRODUCT 5599 5639	(thio)-carbamoyl-cyclohexane derivatives
+T15	OTHER_COMPOUND 5683 5685	D3
+T16	OTHER_COMPOUND 5759 5761	D3
+T17	OTHER_COMPOUND 5858 5860	D2
+T18	REACTION_PRODUCT 6011 6120	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine hydrochloride
+T19	OTHER_COMPOUND 6544 6552	dopamine
+T20	OTHER_COMPOUND 6553 6555	D3
+T21	OTHER_COMPOUND 6559 6561	D2
+T22	OTHER_COMPOUND 6563 6672	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine hydrochloride
+T23	OTHER_COMPOUND 6753 6763	adrenergic
+T24	REACTION_PRODUCT 6889 6998	Trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine hydrochloride
+T25	OTHER_COMPOUND 7068 7084	serotonin 5-HT1A
+T26	OTHER_COMPOUND 7260 7364	trans-1-{4-[2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl]-cyclohexyl}-3,3-dimethyl-urea hydrochloride
+T27	REACTION_PRODUCT 7702 7734	carbamoyl-cyclohexane derivative
+T28	OTHER_COMPOUND 7749 7844	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T29	REACTION_PRODUCT 8172 8204	carbamoyl-cyclohexane derivative
+T30	REACTION_PRODUCT 8219 8314	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T31	OTHER_COMPOUND 8331 8332	/
+T32	OTHER_COMPOUND 8335 8347	hydrates and
+T33	OTHER_COMPOUND 8747 8759	hydrochloric
+T34	OTHER_COMPOUND 8766 8779	sulfuric acid
+T35	OTHER_COMPOUND 8781 8796	phosphoric acid
+T36	OTHER_COMPOUND 8798 8819	methane sulfonic acid
+T37	OTHER_COMPOUND 8821 8842	camphor sulfonic acid
+T38	OTHER_COMPOUND 8857 8868	maleic acid
+T39	OTHER_COMPOUND 8870 8883	succinic acid
+T40	OTHER_COMPOUND 8885 8896	citric acid
+T41	OTHER_COMPOUND 8898 8909	formic acid
+T42	OTHER_COMPOUND 8911 8922	hydrobromic
+T43	OTHER_COMPOUND 8929 8941	benzoic acid
+T44	OTHER_COMPOUND 8958 8965	fumaric
+T45	OTHER_COMPOUND 8972 8986	salicylic acid
+T46	OTHER_COMPOUND 8988 9001	mandelic acid
+T47	OTHER_COMPOUND 9007 9020	carbonic acid
+T48	OTHER_COMPOUND 9178 9185	sodium,
+T49	OTHER_COMPOUND 9231 9244	choline salts
+T50	OTHER_COMPOUND 9423 9435	organic acid
+T51	OTHER_COMPOUND 9509 9520	earth metal
+T52	OTHER_COMPOUND 9769 9777	adipates
+T53	OTHER_COMPOUND 9842 9863	bisulfates, butyrates
+T54	OTHER_COMPOUND 9970 9987	glycerophosphates
+T55	OTHER_COMPOUND 9989 10002	hemisulfates,
+T56	OTHER_COMPOUND 10116 10133	methanesulfonates
+T57	OTHER_COMPOUND 10192 10205	, pectinates,
+T58	OTHER_COMPOUND 10274 10285	succinates,
+T59	OTHER_COMPOUND 10411 10429	hydrochloride salt
+T60	TIME 11620 11625	12 mg
+T61	TIME 12201 12208	decades
+T62	TIME 12210 12215	years
+T63	TIME 12217 12223	months
+T64	TIME 12232 12239	or days
+T65	REACTION_PRODUCT 12458 12553	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T66	REACTION_PRODUCT 12773 12868	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T67	REACTION_PRODUCT 13088 13183	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T68	REACTION_PRODUCT 13189 13221	pharmaceutically acceptable salt
+T69	OTHER_COMPOUND 13330 13341	acute mania
+T70	OTHER_COMPOUND 13364 13371	patient
+T71	REACTION_PRODUCT 13399 13494	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T72	REACTION_PRODUCT 13731 13826	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T73	OTHER_COMPOUND 13905 13911	active
+T74	REACTION_PRODUCT 13939 14048	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine hydrochloride
+T75	OTHER_COMPOUND 14073 14090	active ingredient
+T76	OTHER_COMPOUND 14187 14193	active
+T77	OTHER_COMPOUND 14434 14448	pharmaceutical
+T78	OTHER_COMPOUND 14968 14982	Pharmaceutical
+T79	OTHER_COMPOUND 15153 15159	active
+T80	OTHER_COMPOUND 15639 15644	water
+T81	OTHER_COMPOUND 15915 15922	binders
+T82	OTHER_COMPOUND 16332 16338	medium
+T83	OTHER_COMPOUND 16385 16393	covalent
+T84	OTHER_COMPOUND 16541 16556	polysaccharides
+T85	OTHER_COMPOUND 16605 16624	oral administration
+T86	OTHER_COMPOUND 17284 17293	lubricant
+T87	OTHER_COMPOUND 17562 17569	aqueous
+T88	OTHER_COMPOUND 17584 17589	sugar
+T89	OTHER_COMPOUND 17603 17610	sucrose
+T90	OTHER_COMPOUND 17784 17789	sugar
+T91	OTHER_COMPOUND 17864 17883	polyhydroxy alcohol
+T92	OTHER_COMPOUND 17897 17905	glycerol
+T93	OTHER_COMPOUND 17909 17917	sorbitol
+T94	REACTION_PRODUCT 18446 18541	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T95	OTHER_COMPOUND 19768 19774	active
+T96	OTHER_COMPOUND 20022 20033	dopamine D2
+T97	TIME 21497 21498	1
+T98	OTHER_COMPOUND 22149 22153	SCID
+T99	TIME 22755 22761	4 days
+T100	TIME 23273 23280	2 weeks
+T101	REACTION_PRODUCT 23545 23654	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine hydrochloride
+T102	REACTION_PRODUCT 23750 23859	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine hydrochloride
+T103	REACTION_PRODUCT 23863 23870	placebo
+T104	TIME 24035 24041	7 days
+T105	TIME 24059 24071	3 extra days
+T106	TIME 24321 24329	24 hours
+T107	OTHER_COMPOUND 24419 24514	Trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T108	TIME 25755 25761	2 days
+T109	EXAMPLE_LABEL 26417 26418	3
+T110	TIME 26754 26755	3
+T111	OTHER_COMPOUND 27550 27557	fasting
+T112	OTHER_COMPOUND 27587 27596	prolactin
+T113	OTHER_COMPOUND 27605 27608	TSH
+T114	OTHER_COMPOUND 27610 27617	Free-T4
+T115	OTHER_COMPOUND 27619 27624	β-HCG
+T116	OTHER_COMPOUND 27719 27726	lithium
+T117	OTHER_COMPOUND 27748 27755	lithium
+T118	OTHER_COMPOUND 28255 28262	alcohol
+T119	OTHER_COMPOUND 28295 28315	tetrahydrocannabinol
+T120	OTHER_COMPOUND 28437 28442	drugs
+T121	TIME 28500 28506	4 days
+T122	OTHER_COMPOUND 28871 28886	benzodiazepines
+T123	TIME 28935 28942	8 hours
+T124	OTHER_COMPOUND 29033 29038	PANSS
+T125	OTHER_COMPOUND 29767 29770	SAS
+T126	OTHER_COMPOUND 30444 30447	TSH
+T127	OTHER_COMPOUND 30537 30542	CGI-I
+T128	OTHER_COMPOUND 30598 30602	AIMS
+T129	OTHER_COMPOUND 30608 30611	SAS
+T130	TIME 31107 31114	14 days
+T131	OTHER_COMPOUND 31138 31143	study
+T132	TIME 32015 32022	30 days
+T133	TIME 32319 32327	48 hours
+T134	OTHER_COMPOUND 32701 32704	0-8
+T135	OTHER_COMPOUND 33054 33059	CGI-S
+T136	TIME 33484 33492	24 hours
+T137	OTHER_COMPOUND 33704 33709	CGI-I
+T138	OTHER_COMPOUND 35020 35033	schizophrenia
+T139	OTHER_COMPOUND 35586 35599	schizophrenia
+T140	REACTION_PRODUCT 35665 35774	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine hydrochloride
+T141	OTHER_COMPOUND 35948 35955	placebo
+T142	OTHER_COMPOUND 36273 36281	intended
+T143	REACTION_PRODUCT 36431 36463	carbamoyl-cyclohexane derivative
+T144	REACTION_PRODUCT 36478 36573	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine
+T145	STARTING_MATERIAL 36577 36578	/
+T146	REACTION_PRODUCT 36824 36845	Carbamoyl-cyclohexane
+T147	REACTION_PRODUCT 36899 36931	carbamoyl-cyclohexane derivative
+T148	REACTION_PRODUCT 36935 37044	trans-4-{2-[4-(2,3-dichlorophenyl)-piperazin-1-yl]-ethyl}-N,N-dimethylcarbamoyl-cyclohexylamine hydrochloride
+T149	REACTION_PRODUCT 37104 37136	Carbamoyl-cyclohexane derivative
+T150	REACTION_PRODUCT 37245 37277	Carbamoyl-cyclohexane derivative
+T151	REACTION_PRODUCT 37389 37421	Carbamoyl-cyclohexane derivative
+T152	REACTION_PRODUCT 37528 37560	Carbamoyl-cyclohexane derivative
+T153	OTHER_COMPOUND 37593 37594	2
+T154	REACTION_PRODUCT 37667 37688	Carbamoyl-cyclohexane
+T155	REACTION_PRODUCT 37807 37828	Carbamoyl-cyclohexane
+T156	REACTION_PRODUCT 37996 38017	Carbamoyl-cyclohexane
+T157	REACTION_PRODUCT 38148 38169	Carbamoyl-cyclohexane
+T158	REACTION_PRODUCT 38276 38308	Carbamoyl-cyclohexane derivative
+T159	REACTION_PRODUCT 38405 38426	Carbamoyl-cyclohexane
+T160	REACTION_PRODUCT 38535 38567	Carbamoyl-cyclohexane derivative

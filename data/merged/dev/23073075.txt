@@ -1,0 +1,10 @@
+Fingolimod protects cultured cortical neurons against excitotoxic death.
+Fingolimod (FTY720), a novel drug approved for the treatment of relapsing-remitting multiple sclerosis, activates different sphingosine-1-phosphate receptor (S1PR) subtypes.
+Its primary mechanism of action is to reduce the egress of T lymphocytes from secondary lymphoid organs, thus restraining neuroinflammation and autoimmunity.
+However, recent evidence suggests that the action of FTY720 involves S1PRs expressed by cells resident in the CNS, including neurons.
+Here, we examined the effect of FTY720, its active metabolite, FTY720-P, and sphingosine-1-phosphate (S1P) on neuronal viability using a classical in vitro model of excitotoxic neuronal death.
+Mixed cultures of mouse cortical cells were challenged with toxic concentrations of N-methyl-d-aspartate (NMDA) for 10 min, and neuronal death was assessed 20 h later.
+FTY720, FTY720-P, and S1P were all neuroprotective when applied 18-20 h prior to the NMDA pulse.
+Neuroprotection was attenuated by pertussis toxin, and inhibited by the selective type-1 S1PR (S1P1R) antagonist, W146, and by inhibitors of the mitogen associated protein kinase (MAPK) and the phosphatidylinositol-3-kinase (PtdIns-3-K) pathways.
+Both FTY720 and FTY720-P retained their protective activity in pure cultures of mouse or rat cortical neurons.
+These data offer the first direct demonstration that FTY720 and its active metabolite protect neurons against excitotoxic death.

@@ -1,0 +1,5 @@
+T1	CHEMICAL 502 509	Esmolol
+T4	GENE 536 562	beta 1-adrenergic receptor
+T2	CHEMICAL 840 847	esmolol
+T3	CHEMICAL 938 945	esmolol
+R0	CPR-4 Arg1:T1 Arg2:T4

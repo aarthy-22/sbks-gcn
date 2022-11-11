@@ -1,0 +1,14 @@
+T13	GENE-Y 92 157	phosphorylated and dephosphorylated myosin regulatory light chain
+T1	CHEMICAL 159 166	Calcium
+T2	CHEMICAL 320 326	Ca(2+)
+T7	GENE-Y 363 392	myosin regulatory light chain
+T8	GENE-Y 394 397	RLC
+T4	CHEMICAL 550 560	nucleotide
+T9	GENE-N 598 621	dephosphorylated myosin
+T10	GENE-N 687 693	ATPase
+T11	GENE-N 730 736	myosin
+T12	GENE-N 870 876	ATPase
+T5	GENE-Y 1427 1430	RLC
+T6	GENE-Y 1464 1482	phosphorylated RLC
+T3	CHEMICAL 1845 1851	Ca(2+)
+R0	NOT Arg1:T5 Arg2:T3

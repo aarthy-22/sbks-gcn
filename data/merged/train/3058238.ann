@@ -1,0 +1,24 @@
+T20	CHEMICAL 0 9	Tamoxifen
+T21	CHEMICAL 14 29	fluoxymesterone
+T22	CHEMICAL 37 46	tamoxifen
+T23	CHEMICAL 51 58	danazol
+T2	CHEMICAL 142 151	tamoxifen
+T7	CHEMICAL 156 171	fluoxymesterone
+T14	CHEMICAL 179 188	tamoxifen
+T19	CHEMICAL 193 200	danazol
+T1	CHEMICAL 335 343	estrogen
+T24	GENE-Y 335 352	estrogen receptor
+T3	CHEMICAL 464 473	tamoxifen
+T4	CHEMICAL 478 493	fluoxymesterone
+T5	CHEMICAL 566 575	tamoxifen
+T6	CHEMICAL 580 587	danazol
+T8	CHEMICAL 628 637	tamoxifen
+T9	CHEMICAL 642 657	fluoxymesterone
+T10	CHEMICAL 767 776	tamoxifen
+T11	CHEMICAL 781 796	fluoxymesterone
+T12	CHEMICAL 800 809	tamoxifen
+T13	CHEMICAL 814 821	danazol
+T15	CHEMICAL 897 906	tamoxifen
+T16	CHEMICAL 911 926	fluoxymesterone
+T17	CHEMICAL 938 947	tamoxifen
+T18	CHEMICAL 952 959	danazol

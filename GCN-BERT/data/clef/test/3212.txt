@@ -1,0 +1,4 @@
+Example 2
+N-(2-(2-((2-Methoxy-4-(piperidin-4-yl)phenyl)amino)-6-methylthieno[3,2-d] pyrimidin-7-yl)phenyl)-N-methylmethanesulfonamide (compound 2)
+Preparation of compound 2-d.
+7-Bromo-2,4-dichloro-6-methylthioeno[3,2-d]pyrimidine (5.0 g, 16.89 mmol) was dissolved in tetrahydrofuran (50 mL) and ethanol (50 mL). The reaction solution was cooled to 0°C and sodium borohydride (3.19 g, 84.5 mmol) was added in batches. The reaction mixture was allowed to warm to room temperature and the stirring was continued for 3 hours. Water (500 mL) was then added and extracted with dichloromethane (300 mL × 3). The combined organic phases were dried over anhydrous sodium sulfate, filtered and the filtrate was concentrated under reduced pressure to deliver a yellow liquid 2-d (4 g, yield: 90%). This product was used without further purification.

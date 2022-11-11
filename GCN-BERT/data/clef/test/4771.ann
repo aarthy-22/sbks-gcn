@@ -1,0 +1,26 @@
+T1	EXAMPLE_LABEL 8 10	52
+T2	REACTION_PRODUCT 28 112	2'-amino-6-(2-amino-6-(dimethylamino)pyrimidin-4-yl)-3'-fluoro-[2,4'-bipyridin]-5-ol
+T3	EXAMPLE_LABEL 121 125	52-1
+T4	REACTION_PRODUCT 143 212	6-(6-bromo-3-methoxypyridin-2-yl)-N4,N4-dimethylpyrimidin-2,4-diamine
+T5	REACTION_PRODUCT 214 219	LXXIV
+T6	STARTING_MATERIAL 221 281	2-Amino-6-(6-bromo-3-methoxypyridin-2-yl)pyrimidin-4(1H)-one
+T7	SOLVENT 346 358	acetonitrile
+T8	REAGENT_CATALYST 417 490	(benzotriazole-1-yloxy)tris(dimethylamino)phosphonium hexafluorophosphate
+T9	REAGENT_CATALYST 492 495	BOP
+T10	REAGENT_CATALYST 524 558	1,8-diazabicyclo[5,4,0]undec-7-ene
+T11	REAGENT_CATALYST 560 563	DBU
+T12	TEMPERATURE 619 635	room temperature
+T13	TIME 640 646	10 min
+T14	REAGENT_CATALYST 648 675	Dimethylamine hydrochloride
+T15	TEMPERATURE 766 782	room temperature
+T16	TIME 787 793	24 hrs
+T17	OTHER_COMPOUND 875 887	ethylacetate
+T18	OTHER_COMPOUND 915 920	water
+T19	OTHER_COMPOUND 967 984	magnesium sulfate
+T20	OTHER_COMPOUND 986 991	MgSO4
+T21	OTHER_COMPOUND 1109 1119	silica gel
+T22	OTHER_COMPOUND 1143 1158	dichloromethane
+T23	OTHER_COMPOUND 1159 1167	methanol
+T24	REACTION_PRODUCT 1188 1202	title compound
+T25	YIELD_OTHER 1204 1210	436 mg
+T26	YIELD_PERCENT 1212 1216	99 %

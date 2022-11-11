@@ -1,0 +1,4 @@
+EXAMPLE 48
+Preparation of (S)-7-amino-5-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4 (1H) -one
+Step 1: Preparation of (S)-5-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-1-(4-methoxybenzyl)-3-methyl-7-(methylthio)-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
+65 mg of (S)-5-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-1-(4-methoxybenzyl)-3-methyl-7-(methylthio)-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one was prepared as a white solid by using 40 mg (0.11 mmol, 1.0 equivalent) of 5-chloro-1-(4-methoxybenzyl)-3-methyl-7-(methylthio)-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one and 40 mg (0.13 mmol, 1.2 equivalent) of (S)-2-(1-aminoethyl)-5-chloro-3-phenylquinazoline-4(3H)-one according to the same manner as described in step 5 of Example 34 (0.10 mmol, yield: 94%).

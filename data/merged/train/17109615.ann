@@ -1,0 +1,11 @@
+T8	CHEMICAL 0 10	Trilostane
+T1	CHEMICAL 65 74	tamoxifen
+T10	GENE-Y 80 89	aromatase
+T9	GENE-Y 423 432	aromatase
+T2	CHEMICAL 444 454	Trilostane
+T3	CHEMICAL 568 576	estrogen
+T11	GENE-Y 568 585	estrogen receptor
+T4	CHEMICAL 607 615	estrogen
+T5	CHEMICAL 668 677	estradiol
+T6	CHEMICAL 729 739	trilostane
+T7	CHEMICAL 981 991	trilostane

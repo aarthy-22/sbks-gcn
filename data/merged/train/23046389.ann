@@ -1,0 +1,15 @@
+T9	CHEMICAL 44 54	zoniporide
+T10	CHEMICAL 58 66	aldehyde
+T14	GENE-Y 58 74	aldehyde oxidase
+T3	CHEMICAL 79 87	Aldehyde
+T12	GENE-Y 79 95	Aldehyde oxidase
+T11	GENE-Y 97 99	AO
+T2	CHEMICAL 266 276	zoniporide
+T4	CHEMICAL 607 617	zoniporide
+T5	CHEMICAL 621 636	2-oxozoniporide
+T6	CHEMICAL 720 730	zoniporide
+T7	CHEMICAL 816 826	zoniporide
+T8	CHEMICAL 859 869	zoniporide
+T13	GENE-N 1059 1061	AO
+T1	CHEMICAL 1091 1101	zoniporide
+R0	NOT Arg1:T3 Arg2:T11

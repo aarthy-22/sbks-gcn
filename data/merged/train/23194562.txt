@@ -1,0 +1,8 @@
+The application of Near-Infrared Reflectance Spectroscopy (NIRS) to detect melamine adulteration of soya bean meal.
+Soya bean products are used widely in the animal feed industry as a protein based feed ingredient and have been found to be adulterated with melamine.
+This was highlighted in the Chinese scandal of 2008.
+Dehulled soya (GM and non-GM), soya hulls and toasted soya were contaminated with melamine and spectra were generated using Near Infrared Reflectance Spectroscopy (NIRS).
+By applying chemometrics to the spectral data, excellent calibration models and prediction statistics were obtained.
+The coefficients of determination (R(2)) were found to be 0.89-0.99 depending on the mathematical algorithm used, the data pre-processing applied and the sample type used.
+The corresponding values for the root mean square error of calibration and prediction were found to be 0.081-0.276% and 0.134-0.368%, respectively, again depending on the chemometric treatment applied to the data and sample type.
+In addition, adopting a qualitative approach with the spectral data and applying PCA, it was possible to discriminate between the four samples types and also, by generation of Cooman's plots, possible to distinguish between adulterated and non-adulterated samples.

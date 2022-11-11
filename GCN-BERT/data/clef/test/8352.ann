@@ -1,0 +1,441 @@
+T1	OTHER_COMPOUND 9 81	2-CHLORO-N-(4-CHLORO-3-(PYRIDIN-2-YL)PHENYL)-4-(METHYLSULFONYL)BENZAMIDE
+T2	REACTION_PRODUCT 149 234	vismodegib (2-chloro-N-(4-chloro-3-(pyridin-2- yl)phenyl)-4-(methylsulfonyl)benzamide
+T3	OTHER_COMPOUND 259 269	vismodegib
+T4	OTHER_COMPOUND 344 345	I
+T5	REACTION_PRODUCT 569 579	vismodegib
+T6	REACTION_PRODUCT 625 698	2-chloro-N-(4- chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T7	REACTION_PRODUCT 825 897	2-Chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T8	OTHER_COMPOUND 921 931	vismodegib
+T9	REACTION_PRODUCT 941 952	879085-55-9
+T10	OTHER_COMPOUND 1034 1037	BCC
+T11	REACTION_PRODUCT 1161 1171	Vismodegib
+T12	OTHER_COMPOUND 1362 1369	surgery
+T13	REACTION_PRODUCT 1399 1471	2-Chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T14	OTHER_COMPOUND 1603 1613	Vismodegib
+T15	REACTION_PRODUCT 1642 1716	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T16	OTHER_COMPOUND 1899 1909	vismodegib
+T17	OTHER_COMPOUND 2411 2425	pharmaceutical
+T18	OTHER_COMPOUND 2713 2723	vismodegib
+T19	REACTION_PRODUCT 3151 3155	free
+T20	REACTION_PRODUCT 3173 3246	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T21	OTHER_COMPOUND 3300 3314	pharmaceutical
+T22	OTHER_COMPOUND 3572 3582	vismodegib
+T23	OTHER_COMPOUND 3664 3674	vismodegib
+T24	OTHER_COMPOUND 3684 3699	vismodegib free
+T25	REACTION_PRODUCT 3805 3878	2-chloro-N-(4-chloro-3- (pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T26	OTHER_COMPOUND 3980 3996	vismodegib salts
+T27	OTHER_COMPOUND 4000 4010	vismodegib
+T28	REACTION_PRODUCT 4082 4092	vismodegib
+T29	OTHER_COMPOUND 4133 4134	1
+T30	REACTION_PRODUCT 4138 4212	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methyl- sulfonyl)benzamide
+T31	OTHER_COMPOUND 4214 4215	B
+T32	OTHER_COMPOUND 4243 4317	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methyl- sulfonyl)benzamide
+T33	REACTION_PRODUCT 4348 4422	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methyl- sulfonyl)benzamide
+T34	REACTION_PRODUCT 4453 4527	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methyl- sulfonyl)benzamide
+T35	OTHER_COMPOUND 4529 4530	E
+T36	REACTION_PRODUCT 4558 4632	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methyl- sulfonyl)benzamide
+T37	REACTION_PRODUCT 4647 4719	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T38	STARTING_MATERIAL 4776 4848	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T39	REAGENT_CATALYST 4853 4869	hydrobromic acid
+T40	REACTION_PRODUCT 4886 4984	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide and benzenesulphonic acid
+T41	OTHER_COMPOUND 4986 4987	H
+T42	OTHER_COMPOUND 5001 5073	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T43	OTHER_COMPOUND 5078 5107	4-chlorobenzenesulphonic acid
+T44	OTHER_COMPOUND 5124 5196	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T45	OTHER_COMPOUND 5201 5224	p-toluenesulphonic acid
+T46	OTHER_COMPOUND 5502 5507	water
+T47	OTHER_COMPOUND 5575 5580	water
+T48	OTHER_COMPOUND 6601 6611	vismodegib
+T49	OTHER_COMPOUND 6818 6828	vismodegib
+T50	OTHER_COMPOUND 6842 6852	vismodegib
+T51	OTHER_COMPOUND 6998 7014	vismodegib salts
+T52	TEMPERATURE 7027 7043	room temperature
+T53	TEMPERATURE 7081 7094	15°C and 30°C
+T54	TEMPERATURE 7121 7131	20-25°C or
+T55	TEMPERATURE 7138 7142	25°C
+T56	TEMPERATURE 7218 7234	room temperature
+T57	OTHER_COMPOUND 7309 7319	vismodegib
+T58	OTHER_COMPOUND 7324 7334	vismodegib
+T59	OTHER_COMPOUND 7568 7580	acetonitrile
+T60	OTHER_COMPOUND 7705 7715	vismodegib
+T61	REACTION_PRODUCT 7843 7916	2-chloro-N-(4-chloro-3-(pyridin-2- yl)phenyl)-4-(methylsulfonyl)benzamide
+T62	REACTION_PRODUCT 7944 8017	2-chloro-N-(4-chloro-3- (pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T63	REACTION_PRODUCT 8040 8050	vismodegib
+T64	REACTION_PRODUCT 8244 8317	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T65	REACTION_PRODUCT 8364 8437	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T66	REACTION_PRODUCT 8480 8553	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T67	OTHER_COMPOUND 8600 8673	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T68	REACTION_PRODUCT 8720 8793	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T69	REACTION_PRODUCT 8836 8909	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T70	REACTION_PRODUCT 8956 9029	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T71	OTHER_COMPOUND 9076 9149	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T72	OTHER_COMPOUND 9192 9265	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T73	OTHER_COMPOUND 9308 9309	4
+T74	OTHER_COMPOUND 9313 9386	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T75	OTHER_COMPOUND 9434 9507	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T76	REACTION_PRODUCT 9551 9624	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T77	OTHER_COMPOUND 9667 9668	5
+T78	OTHER_COMPOUND 9672 9745	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T79	REACTION_PRODUCT 9793 9866	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T80	OTHER_COMPOUND 9905 9906	5
+T81	OTHER_COMPOUND 9910 9983	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T82	REACTION_PRODUCT 10029 10102	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T83	OTHER_COMPOUND 10107 10128	benzenesulphonic acid
+T84	REACTION_PRODUCT 10174 10247	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T85	OTHER_COMPOUND 10252 10268	benzenesulphonic
+T86	OTHER_COMPOUND 10317 10390	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T87	OTHER_COMPOUND 10395 10411	benzenesulphonic
+T88	OTHER_COMPOUND 10457 10530	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T89	STARTING_MATERIAL 10535 10556	benzenesulphonic acid
+T90	REACTION_PRODUCT 10601 10674	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T91	REACTION_PRODUCT 10679 10708	4-chlorobenzenesulphonic acid
+T92	REACTION_PRODUCT 10754 10827	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T93	REACTION_PRODUCT 10832 10861	4-chlorobenzenesulphonic acid
+T94	STARTING_MATERIAL 10905 10978	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T95	OTHER_COMPOUND 10983 11012	4-chlorobenzenesulphonic acid
+T96	REACTION_PRODUCT 11053 11126	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T97	STARTING_MATERIAL 11131 11155	4-chlorobenzenesulphonic
+T98	OTHER_COMPOUND 11205 11278	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T99	STARTING_MATERIAL 11283 11301	p-toluenesulphonic
+T100	STARTING_MATERIAL 11352 11425	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T101	OTHER_COMPOUND 11430 11453	p-toluenesulphonic acid
+T102	REACTION_PRODUCT 11497 11570	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T103	STARTING_MATERIAL 11575 11593	p-toluenesulphonic
+T104	REACTION_PRODUCT 11639 11712	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T105	STARTING_MATERIAL 11717 11735	p-toluenesulphonic
+T106	REACTION_PRODUCT 11785 11858	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T107	OTHER_COMPOUND 11863 11879	hydrobromic acid
+T108	REACTION_PRODUCT 11934 12007	2-chloro-N-(4-chloro-3-(pyridin-2- yl)phenyl)-4-(methylsulfonyl)benzamide
+T109	OTHER_COMPOUND 12012 12028	hydrobromic acid
+T110	OTHER_COMPOUND 12064 12068	salt
+T111	REACTION_PRODUCT 12072 12145	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T112	OTHER_COMPOUND 12150 12161	hydrobromic
+T113	REACTION_PRODUCT 12207 12280	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T114	OTHER_COMPOUND 12285 12296	hydrobromic
+T115	REACTION_PRODUCT 12408 12418	vismodegib
+T116	REACTION_PRODUCT 12423 12433	vismodegib
+T117	OTHER_COMPOUND 12730 12802	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T118	STARTING_MATERIAL 12808 12825	benzenesulphonic,
+T119	OTHER_COMPOUND 12875 12886	hydrobromic
+T120	OTHER_COMPOUND 13014 13026	acetonitrile
+T121	REACTION_PRODUCT 13171 13181	vismodegib
+T122	REACTION_PRODUCT 13430 13440	vismodegib
+T123	OTHER_COMPOUND 13619 13691	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T124	OTHER_COMPOUND 13752 13773	benzenesulphonic acid
+T125	OTHER_COMPOUND 13775 13800	4- chlorobenzenesulphonic
+T126	OTHER_COMPOUND 13807 13830	p-toluenesulphonic acid
+T127	OTHER_COMPOUND 13835 13851	hydrobromic acid
+T128	REACTION_PRODUCT 13880 13881	1
+T129	REACTION_PRODUCT 13885 13958	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T130	OTHER_COMPOUND 14251 14256	X-Ray
+T131	OTHER_COMPOUND 14280 14286	X'PERT
+T132	TEMPERATURE 14409 14413	°2Th
+T133	REACTION_PRODUCT 14808 14881	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T134	REACTION_PRODUCT 15195 15268	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T135	TEMPERATURE 15406 15410	20°C
+T136	TEMPERATURE 15414 15419	250°C
+T137	REACTION_PRODUCT 15557 15558	2
+T138	REACTION_PRODUCT 15562 15635	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T139	REACTION_PRODUCT 16589 16590	2
+T140	REACTION_PRODUCT 16594 16667	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T141	OTHER_COMPOUND 16801 16802	2
+T142	REACTION_PRODUCT 16993 16994	2
+T143	REACTION_PRODUCT 16998 17071	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T144	EXAMPLE_LABEL 17134 17135	6
+T145	TEMPERATURE 17208 17212	20°C
+T146	REACTION_PRODUCT 17244 17245	2
+T147	REACTION_PRODUCT 17316 17317	3
+T148	REACTION_PRODUCT 17321 17394	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T149	REACTION_PRODUCT 17857 17858	3
+T150	REACTION_PRODUCT 17862 17935	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T151	REACTION_PRODUCT 18261 18262	3
+T152	REACTION_PRODUCT 18266 18339	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T153	TEMPERATURE 18476 18480	20°C
+T154	TEMPERATURE 18484 18489	250°C
+T155	OTHER_COMPOUND 18512 18513	3
+T156	REACTION_PRODUCT 18622 18695	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T157	OTHER_COMPOUND 19001 19007	X'PERT
+T158	REACTION_PRODUCT 19158 19231	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T159	REACTION_PRODUCT 19366 19367	4
+T160	REACTION_PRODUCT 19559 19560	4
+T161	REACTION_PRODUCT 19564 19637	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T162	TEMPERATURE 19775 19779	20°C
+T163	REACTION_PRODUCT 19811 19812	4
+T164	REACTION_PRODUCT 19897 19898	5
+T165	REACTION_PRODUCT 19902 19975	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T166	REACTION_PRODUCT 20951 21024	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T167	TIME 21090 21092	14
+T168	REACTION_PRODUCT 21159 21160	5
+T169	REACTION_PRODUCT 21351 21352	5
+T170	REACTION_PRODUCT 21356 21432	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamidecan
+T171	TEMPERATURE 21566 21570	20°C
+T172	OTHER_COMPOUND 21585 21596	cyrtsalline
+T173	OTHER_COMPOUND 21762 21763	4
+T174	REACTION_PRODUCT 21767 21840	2-chloro-N-(4-chloro-3-(pyridin-2- yl)phenyl)-4-(methylsulfonyl)benzamide
+T175	OTHER_COMPOUND 22008 22009	1
+T176	OTHER_COMPOUND 22011 22013	2,
+T177	REACTION_PRODUCT 22025 22098	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T178	OTHER_COMPOUND 22280 22292	acetonitrile
+T179	OTHER_COMPOUND 22295 22300	water
+T180	TEMPERATURE 22390 22394	20°C
+T181	TIME 22399 22406	2 weeks
+T182	REACTION_PRODUCT 22466 22467	5
+T183	REACTION_PRODUCT 22471 22544	2-chloro-N-(4-chloro-3-(pyridin-2- yl)phenyl)-4-(methylsulfonyl)benzamide
+T184	OTHER_COMPOUND 22677 22750	2-chloro-N-(4- chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T185	OTHER_COMPOUND 22890 22903	ethyl acetate
+T186	TEMPERATURE 22933 22949	room temperature
+T187	TIME 22954 22961	6 weeks
+T188	REACTION_PRODUCT 23001 23074	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T189	OTHER_COMPOUND 23205 23208	hyd
+T190	REACTION_PRODUCT 23634 23707	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T191	OTHER_COMPOUND 23759 23775	benzenesulphonic
+T192	OTHER_COMPOUND 23782 23811	4-chlorobenzenesulphonic acid
+T193	OTHER_COMPOUND 23813 23831	p-toluenesulphonic
+T194	OTHER_COMPOUND 23841 23857	hydrobromic acid
+T195	OTHER_COMPOUND 23918 23933	tetrahydrofuran
+T196	OTHER_COMPOUND 23935 23948	ethyl acetate
+T197	OTHER_COMPOUND 23950 23957	acetone
+T198	OTHER_COMPOUND 23962 23974	acetonitrile
+T199	OTHER_COMPOUND 23990 24002	acetonitrile
+T200	TEMPERATURE 24049 24060	temperature
+T201	TEMPERATURE 24061 24068	40-60°C
+T202	TEMPERATURE 24096 24100	50°C
+T203	TEMPERATURE 24163 24179	room temperature
+T204	REACTION_PRODUCT 24224 24297	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T205	OTHER_COMPOUND 24302 24323	benzenesulphonic acid
+T206	EXAMPLE_LABEL 24400 24402	16
+T207	REACTION_PRODUCT 24571 24669	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide and benzenesulphonic acid
+T208	REACTION_PRODUCT 24858 24931	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T209	REACTION_PRODUCT 24936 24957	benzenesulphonic acid
+T210	REACTION_PRODUCT 25005 25077	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T211	REACTION_PRODUCT 25082 25103	benzenesulphonic acid
+T212	TEMPERATURE 25246 25249	0°C
+T213	REACTION_PRODUCT 25333 25405	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T214	REACTION_PRODUCT 25410 25431	benzenesulphonic acid
+T215	YIELD_PERCENT 25467 25472	98.8%
+T216	REACTION_PRODUCT 25537 25610	2-chloro-N-(4-chloro-3- (pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T217	REACTION_PRODUCT 25615 25644	4-chlorobenzenesulphonic acid
+T218	REACTION_PRODUCT 25885 25992	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide and 4- chlorobenzenesulphonic acid
+T219	OTHER_COMPOUND 26111 26116	X-Ray
+T220	REACTION_PRODUCT 26181 26254	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T221	REACTION_PRODUCT 26259 26283	4-chlorobenzenesulphonic
+T222	REACTION_PRODUCT 26331 26438	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide and 4- chlorobenzenesulphonic acid
+T223	TEMPERATURE 26585 26597	0°C to 280°C
+T224	REACTION_PRODUCT 26672 26744	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T225	REACTION_PRODUCT 26749 26779	4- chlorobenzenesulphonic acid
+T226	YIELD_PERCENT 26816 26821	98.4%
+T227	REACTION_PRODUCT 26888 26961	2-chloro-N-(4-chloro-3- (pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T228	REACTION_PRODUCT 26966 26989	p-toluenesulphonic acid
+T229	EXAMPLE_LABEL 27060 27062	24
+T230	REACTION_PRODUCT 27233 27334	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide and p- toluenesulphonic acid
+T231	REACTION_PRODUCT 27523 27596	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T232	OTHER_COMPOUND 27601 27624	p-toluenesulphonic acid
+T233	REACTION_PRODUCT 27672 27773	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide and p- toluenesulphonic acid
+T234	TEMPERATURE 27927 27932	280°C
+T235	OTHER_COMPOUND 27984 27989	water
+T236	REACTION_PRODUCT 28019 28120	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide and p- toluenesulphonic acid
+T237	YIELD_PERCENT 28157 28162	98.8%
+T238	REACTION_PRODUCT 28229 28302	2-chloro-N-(4-chloro-3- (pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T239	OTHER_COMPOUND 28307 28323	hydrobromic acid
+T240	EXAMPLE_LABEL 28428 28430	28
+T241	EXAMPLE_LABEL 28596 28598	29
+T242	OTHER_COMPOUND 28640 28644	salt
+T243	REACTION_PRODUCT 28648 28721	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)- 4-(methylsulfonyl)benzamide
+T244	OTHER_COMPOUND 28726 28742	hydrobromic acid
+T245	REACTION_PRODUCT 28756 28828	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T246	OTHER_COMPOUND 28833 28849	hydrobromic acid
+T247	REACTION_PRODUCT 29038 29112	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T248	OTHER_COMPOUND 29117 29133	hydrobromic acid
+T249	STARTING_MATERIAL 29693 29765	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T250	OTHER_COMPOUND 29770 29786	hydrobromic acid
+T251	EXAMPLE_LABEL 29854 29856	31
+T252	TEMPERATURE 29933 29936	0°C
+T253	OTHER_COMPOUND 29997 30002	water
+T254	REACTION_PRODUCT 30067 30141	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T255	OTHER_COMPOUND 30146 30162	hydrobromic acid
+T256	SOLVENT 30189 30194	98.8%
+T257	EXAMPLE_LABEL 30214 30215	1
+T258	STARTING_MATERIAL 30241 30315	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T259	STARTING_MATERIAL 30339 30413	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T260	REAGENT_CATALYST 30434 30437	HCI
+T261	OTHER_COMPOUND 30461 30465	NaOH
+T262	TEMPERATURE 30564 30568	40°C
+T263	YIELD_OTHER 30608 30615	66.5 mg
+T264	YIELD_PERCENT 30617 30620	67%
+T265	STARTING_MATERIAL 30773 30847	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T266	STARTING_MATERIAL 30871 30945	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T267	SOLVENT 30984 30991	acetone
+T268	SOLVENT 30996 31009	ethyl acetate
+T269	TEMPERATURE 31049 31053	50°C
+T270	TEMPERATURE 31091 31107	room temperature
+T271	TEMPERATURE 31179 31183	40°C
+T272	YIELD_OTHER 31223 31230	21.7 mg
+T273	YIELD_PERCENT 31232 31235	22%
+T274	OTHER_COMPOUND 31295 31300	Raman
+T275	STARTING_MATERIAL 31388 31462	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T276	STARTING_MATERIAL 31486 31559	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T277	SOLVENT 31581 31598	isopropyl acetate
+T278	TEMPERATURE 31602 31609	60-70°C
+T279	TIME 31626 31633	4 hours
+T280	TEMPERATURE 31676 31692	room temperature
+T281	TEMPERATURE 31760 31764	40°C
+T282	YIELD_OTHER 31804 31811	55.7 mg
+T283	YIELD_PERCENT 31813 31816	56%
+T284	STARTING_MATERIAL 31969 32043	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T285	STARTING_MATERIAL 32066 32139	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T286	SOLVENT 32188 32200	acetonitrile
+T287	SOLVENT 32205 32210	water
+T288	TEMPERATURE 32237 32241	20°C
+T289	TEMPERATURE 32308 32312	20°C
+T290	TIME 32317 32324	2 weeks
+T291	TIME 32347 32354	2 weeks
+T292	YIELD_OTHER 32442 32447	20 mg
+T293	YIELD_PERCENT 32449 32452	80%
+T294	EXAMPLE_LABEL 32677 32678	5
+T295	STARTING_MATERIAL 32704 32778	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T296	STARTING_MATERIAL 32801 32875	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T297	SOLVENT 32903 32916	ethyl acetate
+T298	TEMPERATURE 32920 32936	room temperature
+T299	TEMPERATURE 33003 33019	room temperature
+T300	TIME 33024 33031	2 weeks
+T301	TIME 33054 33061	2 weeks
+T302	YIELD_OTHER 33149 33154	42 mg
+T303	YIELD_PERCENT 33156 33159	84%
+T304	STARTING_MATERIAL 33313 33387	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T305	STARTING_MATERIAL 33392 33408	benzenesulphonic
+T306	STARTING_MATERIAL 33437 33511	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl- Jbenzamide
+T307	SOLVENT 33537 33549	acetonitrile
+T308	TEMPERATURE 33564 33568	50°C
+T309	STARTING_MATERIAL 33594 33615	benzenesulphonic acid
+T310	SOLVENT 33643 33655	acetonitrile
+T311	TEMPERATURE 33659 33675	room temperature
+T312	STARTING_MATERIAL 33700 33710	counterion
+T313	STARTING_MATERIAL 33754 33757	API
+T314	TEMPERATURE 33761 33765	50°C
+T315	TEMPERATURE 33783 33787	50°C
+T316	TIME 33803 33809	1 hour
+T317	TEMPERATURE 33841 33857	room temperature
+T318	OTHER_COMPOUND 33958 33981	methyl tert-butyl ether
+T319	TEMPERATURE 34007 34023	room temperature
+T320	TIME 34028 34035	5 hours
+T321	REACTION_PRODUCT 34161 34234	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)- 4-(methylsulfonyl)benzamide
+T322	OTHER_COMPOUND 34239 34260	benzenesulphonic acid
+T323	EXAMPLE_LABEL 34397 34398	7
+T324	REACTION_PRODUCT 34422 34496	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T325	STARTING_MATERIAL 34501 34530	4-chlorobenzenesulphonic acid
+T326	STARTING_MATERIAL 34554 34627	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T327	SOLVENT 34653 34665	acetonitrile
+T328	TEMPERATURE 34680 34684	50°C
+T329	STARTING_MATERIAL 34710 34739	4-chlorobenzenesulphonic acid
+T330	SOLVENT 34767 34779	acetonitrile
+T331	TEMPERATURE 34783 34799	room temperature
+T332	STARTING_MATERIAL 34824 34834	counterion
+T333	TEMPERATURE 34885 34889	50°C
+T334	TEMPERATURE 34907 34911	50°C
+T335	TIME 34927 34933	1 hour
+T336	TEMPERATURE 34965 34981	room temperature
+T337	OTHER_COMPOUND 35082 35105	methyl tert-butyl ether
+T338	TEMPERATURE 35131 35147	room temperature
+T339	TIME 35152 35159	5 hours
+T340	REACTION_PRODUCT 35285 35391	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)- 4-(methylsulfonyl)benzamideand 4-chlorobenzenesulphonic acid
+T341	EXAMPLE_LABEL 35528 35529	8
+T342	STARTING_MATERIAL 35553 35627	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T343	STARTING_MATERIAL 35632 35655	p-toluenesulphonic acid
+T344	STARTING_MATERIAL 35679 35753	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T345	SOLVENT 35779 35791	acetonitrile
+T346	TEMPERATURE 35806 35810	50°C
+T347	STARTING_MATERIAL 35836 35859	p-toluenesulphonic acid
+T348	SOLVENT 35887 35899	acetonitrile
+T349	TEMPERATURE 35903 35919	room temperature
+T350	STARTING_MATERIAL 35944 35954	counterion
+T351	STARTING_MATERIAL 35998 36001	API
+T352	TEMPERATURE 36005 36009	50°C
+T353	TEMPERATURE 36027 36031	50°C
+T354	TIME 36047 36053	1 hour
+T355	TEMPERATURE 36085 36101	room temperature
+T356	OTHER_COMPOUND 36202 36225	methyl tert-butyl ether
+T357	TEMPERATURE 36251 36267	room temperature
+T358	TIME 36272 36279	5 hours
+T359	REACTION_PRODUCT 36405 36478	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)- 4-(methylsulfonyl)benzamide
+T360	OTHER_COMPOUND 36483 36506	p-toluenesulphonic acid
+T361	EXAMPLE_LABEL 36643 36644	9
+T362	STARTING_MATERIAL 36668 36742	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T363	STARTING_MATERIAL 36747 36758	hydrobromic
+T364	STARTING_MATERIAL 36787 36861	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T365	SOLVENT 36887 36899	acetonitrile
+T366	TEMPERATURE 36914 36918	50°C
+T367	STARTING_MATERIAL 36944 36960	hydrobromic acid
+T368	SOLVENT 36988 37000	acetontirile
+T369	TEMPERATURE 37004 37020	room temperature
+T370	STARTING_MATERIAL 37099 37102	API
+T371	TEMPERATURE 37106 37110	50°C
+T372	TEMPERATURE 37128 37132	50°C
+T373	TIME 37148 37154	1 hour
+T374	TEMPERATURE 37186 37202	room temperature
+T375	EXAMPLE_LABEL 37439 37441	10
+T376	REACTION_PRODUCT 37457 37529	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T377	REACTION_PRODUCT 37539 37565	benzenesulphonic acid salt
+T378	STARTING_MATERIAL 37600 37604	salt
+T379	STARTING_MATERIAL 37608 37681	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4- (methylsulfonyl)benzamide
+T380	STARTING_MATERIAL 37686 37707	benzenesulphonic acid
+T381	SOLVENT 37735 37750	dichloromethane
+T382	OTHER_COMPOUND 37780 37785	K2C03
+T383	OTHER_COMPOUND 37941 37946	water
+T384	OTHER_COMPOUND 38016 38031	dichloromethane
+T385	OTHER_COMPOUND 38104 38110	Na2S04
+T386	TIME 38144 38159	several minutes
+T387	OTHER_COMPOUND 38204 38219	dichloromethane
+T388	OTHER_COMPOUND 38292 38305	ethyl acetate
+T389	TEMPERATURE 38347 38363	room temperature
+T390	YIELD_OTHER 38439 38444	38 mg
+T391	YIELD_PERCENT 38446 38449	76%
+T392	OTHER_COMPOUND 38513 38542	4-chlorobenzenesulphonic acid
+T393	OTHER_COMPOUND 38544 38568	p- toluenesulphonic acid
+T394	OTHER_COMPOUND 38577 38593	hydrobromic acid
+T395	REACTION_PRODUCT 38602 38675	2-chloro-N-(4-chloro-3-(pyridin-2- yl)phenyl)-4-(methylsulfonyl)benzamide
+T396	OTHER_COMPOUND 38792 38799	acetone
+T397	OTHER_COMPOUND 38800 38812	acetonitrile
+T398	OTHER_COMPOUND 38828 38833	water
+T399	OTHER_COMPOUND 38850 38860	2-propanol
+T400	OTHER_COMPOUND 39246 39250	DMSO
+T401	OTHER_COMPOUND 39358 39361	API
+T402	OTHER_COMPOUND 39893 39898	CuKoc
+T403	TIME 40083 40086	0.5
+T404	OTHER_COMPOUND 40127 40129	Si
+T405	OTHER_COMPOUND 40438 40440	Ni
+T406	OTHER_COMPOUND 40646 40654	nitrogen
+T407	TEMPERATURE 40717 40720	0°C
+T408	TIME 40753 40760	5°C/min
+T409	REACTION_PRODUCT 41188 41260	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T410	OTHER_COMPOUND 41265 41286	benzenesulphonic acid
+T411	REACTION_PRODUCT 41298 41395	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide 4-chlorobenzenesulphonic
+T412	OTHER_COMPOUND 41412 41484	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide
+T413	REACTION_PRODUCT 41489 41512	p-toluenesulphonic acid
+T414	REACTION_PRODUCT 41524 41615	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)benzamide hydrobromic acid 1
+T415	OTHER_COMPOUND 41691 41693	HA
+T416	OTHER_COMPOUND 41753 41755	HA
+T417	OTHER_COMPOUND 41773 41789	hydrobromic acid
+T418	OTHER_COMPOUND 41791 41812	benzenesulphonic acid
+T419	OTHER_COMPOUND 41814 41843	4-chlorobenzenesulphonic acid
+T420	OTHER_COMPOUND 41848 41871	p-toluenesulphonic acid
+T421	OTHER_COMPOUND 41940 41941	I
+T422	OTHER_COMPOUND 41962 41964	HA
+T423	OTHER_COMPOUND 42056 42058	HA
+T424	OTHER_COMPOUND 42062 42078	hydrobromic acid
+T425	OTHER_COMPOUND 42112 42116	CuKa
+T426	OTHER_COMPOUND 42291 42293	HA
+T427	OTHER_COMPOUND 42297 42318	benzenesulphonic acid
+T428	OTHER_COMPOUND 42352 42356	CuKa
+T429	EXAMPLE_LABEL 42387 42388	6
+T430	OTHER_COMPOUND 42429 42431	HA
+T431	REACTION_PRODUCT 42435 42464	4-chlorobenzenesulphonic acid
+T432	OTHER_COMPOUND 42575 42577	HA
+T433	OTHER_COMPOUND 42581 42604	p-toluenesulphonic acid
+T434	OTHER_COMPOUND 42638 42642	CuKa
+T435	EXAMPLE_LABEL 42673 42674	8
+T436	OTHER_COMPOUND 42793 42867	2-chloro-N-(4-chloro-3-(pyridin-2-yl)phenyl)-4-(methylsulfonyl)- benzamide
+T437	OTHER_COMPOUND 42911 42913	HA
+T438	OTHER_COMPOUND 43003 43015	acetonitrile
+T439	TEMPERATURE 43097 43101	50°C
+T440	OTHER_COMPOUND 43106 43108	HA
+T441	REACTION_PRODUCT 43294 43367	2-chloro-N-(4-chloro-3-(pyridin-2- yl)phenyl)-4-(methylsulfonyl)benzamide

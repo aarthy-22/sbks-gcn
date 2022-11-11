@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 8 9	9
+T2	REACTION_PRODUCT 10 107	4-((S)-2-(2-(3-chlorophenyl)acetamido)-2-(2-(thiophen-2-yl)thiazol-4-yl)ethyl)phenylsulfamic acid
+T3	REACTION_PRODUCT 109 111	24
+T4	REACTION_PRODUCT 128 209	(S)-2-(4-nitrophenyl)-1-[(thiophen-2-yl)thiazol-4-yl]ethanamine hydrobromide salt
+T5	REACTION_PRODUCT 211 213	22
+T6	STARTING_MATERIAL 229 294	(S)-tert-butyl 4-bromo-1-(4-nitrophenyl)-3-oxobutan-2-ylcarbamate
+T7	STARTING_MATERIAL 296 297	7
+T8	STARTING_MATERIAL 320 353	thiophen-2-carbothioic acid amide
+T9	SOLVENT 373 378	CH3CN
+T10	TEMPERATURE 391 399	refluxed
+T11	TIME 404 411	5 hours
+T12	TEMPERATURE 447 463	room temperature
+T13	OTHER_COMPOUND 468 481	diethyl ether
+T14	YIELD_OTHER 614 620	7.14 g
+T15	YIELD_PERCENT 622 626	87 %
+T16	REACTION_PRODUCT 641 656	desired product

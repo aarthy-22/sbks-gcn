@@ -1,0 +1,11 @@
+Influence of postmenopausal hormone replacement therapy on platelet serotonin uptake site and serotonin 2A receptor binding.
+OBJECTIVE: To examine whether binding of [3H]paroxetine to the platelet serotonin transporter or binding of [3H]lysergic acid diethylamide (LSD) to the platelet 5-HT(2A) receptor are influenced by postmenopausal estrogen/progestogen treatment.
+METHODS: Twenty-three postmenopausal women with climacteric symptoms completed this double-blind, randomized, crossover study.
+The women received 2 mg of estradiol continuously during four 28-day cycles.
+In the last 14 days of each cycle, 10 mg of medroxyprogesterone acetate, 1 mg of norethindrone acetate, or placebo was given.
+Before treatment, as well as once during the last week of each treatment, blood samples were collected for analysis of [3H]LSD and [3H]paroxetine binding.
+The power of the study setup was 81%.
+The study had an effect size of 0.36, corresponding to the ability to detect a 15% difference in [3H]paroxetine and [3H]LSD binding between treatments with alpha =.05 and beta =.20, based on a previously reported standard deviation within cells of 20% of the mean binding values.
+RESULTS: The number of platelet receptors (B(max)), or the affinity of the radioligand to the receptor (K(d)), for [3H]paroxetine binding did not change during estrogen or estrogen-progestogen treatment, nor did B(max) or K(d) for [3H]LSD binding change during the different treatments.
+However, in a subgroup of depressed patients, the decrease in B(max) for [3H]LSD binding during treatment was significantly more pronounced than in the nondepressed subgroup (P <.05).
+CONCLUSION: Estrogen treatment with or without the addition of progestogen does not affect binding to the serotonin transporter or to the serotonergic 5-HT(2A) receptor in healthy postmenopausal women.

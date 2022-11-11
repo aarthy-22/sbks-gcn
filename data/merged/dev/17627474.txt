@@ -1,0 +1,10 @@
+Regulated function of the prolyl-4-hydroxylase domain (PHD) oxygen sensor proteins.
+Cellular oxygen is sensed by prolyl-4-hydroxylase domain (PHD) proteins that hydroxylate hypoxia-inducible factor (HIF) alpha subunits.
+Under normoxic conditions, hydroxylated HIFalpha is bound by the von Hippel-Lindau (pVHL) tumor suppressor, leading to ubiquitinylation and proteasomal degradation.
+Under hypoxic conditions, hydroxylation becomes reduced, leading to HIFalpha stabilization.
+The authors recently showed that changes in PHD abundance and activity can regulate HIFalpha stability under normoxic as well as under hypoxic conditions.
+Thus, the PHD oxygen sensors themselves represent effectors of cellular signalling pathways as well as potential drug targets.
+Here, a cell-free in vitro microtiter plate-based peptide hydroxylation assay was used to investigate the influence of ferrous iron, Krebs cycle intermediates, transition metals, and vitamin C and other antioxidants on the activity of purified PHD1 to 3.
+PHD activity depends not only on oxygen availability but is also regulated by iron, vitamin C, and Krebs cycle intermediates, suggesting a physiological relevance of their cellular concentrations.
+Copper but not iron, cobalt, or nickel salts catalyzed vitamin C oxidation.
+While vitamin C is essential for PHD activity in vitro, N-acetyl-L-cysteine had no effect, and gallic acid or n-propyl gallate efficiently inhibited the activity of all three PHDs, demonstrating different functions of these antioxidants.

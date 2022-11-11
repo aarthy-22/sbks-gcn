@@ -1,0 +1,16 @@
+T1	OTHER_COMPOUND 494 505	citric acid
+T2	REACTION_PRODUCT 867 881	title compound
+T3	STARTING_MATERIAL 310 313	24b
+T4	EXAMPLE_LABEL 5 6	2
+T5	YIELD_PERCENT 1048 1053	16.6%
+T6	STARTING_MATERIAL 157 309	(E)-methyl 3-(3,5-difluoro-4-((1S,3R/1R,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl -6-(1H-pyrazol-4-yl)-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylate
+T7	REAGENT_CATALYST 385 401	sodium hydroxide
+T8	REACTION_PRODUCT 7 156	(E)-3-(3,5-difluoro-4-((1S,3R/1R,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl-6-(1H-pyra zol-4-yl)-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylic acid
+T9	OTHER_COMPOUND 640 658	sodium bicarbonate
+T10	SOLVENT 359 366	ethanol
+T11	REACTION_PRODUCT 882 1031	(E)-3-(3,5-difluoro-4-((1S,3R/1R,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl-6-(1H-pyra zol-4-yl)-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylic acid
+T12	OTHER_COMPOUND 690 704	sodium sulfate
+T13	OTHER_COMPOUND 581 594	ethyl acetate
+T14	TIME 441 448	2 hours
+T15	YIELD_OTHER 1036 1040	5 mg
+T16	REACTION_PRODUCT 1032 1034	24

@@ -1,0 +1,11 @@
+Predictive factors of sensitivity to elisidepsin, a novel kahalalide f-derived marine compound.
+Elisidepsin (PM02734, Irvalec®) is a synthetic marine-derived cyclic peptide of the Kahalalide F family currently in phase II clinical development.
+Elisidepsin was shown to induce rapid oncosis in ErbB3-expressing cells.
+Other predictive factors of elisidepsin sensitivity remained unknown.
+A panel of 23 cancer cell lines of different origin was assessed for elisidepsin cytotoxicity and correlated with mutational state, mRNA and protein expression of selected genes.
+Elisidepsin showed potent and broad cytotoxic effects in our cancer cell line panel, being active at concentrations ranging from 0.4 to 2 μM that may be relevant for clinical settings.
+We have shown that elisidepsin is more active in cells harboring epithelial phenotype with high E-cadherin and low vimentin expression.
+In addition, high ErbB3 and Muc1 expression was correlated with sensitivity to elisidepsin, whereas the presence of KRAS activating mutations was associated with resistance.
+In DU-PM cells with acquired resistance to elisidepsin, ErbB3 expression was decreased, while Bcl2 was increased.
+DU-PM cells displayed higher sensitivity to ErbB1-inhibitors suggesting possible cross-talk of ErbB1 and ErbB3 signaling pathways.
+Combinations of elisidepsin with lapatinib and several chemotherapies including 5-FU and oxaliplatin resulted in synergistic effects that offer the potential of clinical use of elisidepsin in combination settings.

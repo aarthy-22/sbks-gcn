@@ -1,0 +1,9 @@
+Human brain pyridoxal-5'-phosphate phosphatase: production and characterization of monoclonal antibodies.
+We cloned and expressed human pyridoxal-5\'-phosphate (PLP) phosphatase, the coenzymatically active form of vitamin B6, in Escherichia coli using pET15b vector.
+Monoclonal antibodies (mAb) were generated against purified human brain PLP phosphatase in mice, and four antibodies recognizing different epitopes were obtained, one of which inhibited PLP phosphatase.
+The binding affinities of these four mAbs to PLP phosphatase, as determined using biosensor technology, showed that they had similar binding affinities.
+Using the anti-PLP phosphatase antibodies as probes, we investigated their cross-reactivities in various mammalian and human tissues and cell lines.
+The immunoreactive bands obtained on Western blots had molecular masses of ca.
+33 kDa.
+Similarly fractionated extracts of several mammalian cell lines all produced a single band of molecular mass 33 kDa.
+We believe that these PLP phosphatase mAbs could be used as valuable immunodiagnostic reagents for the detection, identification, and characterization of various neurological diseases related to vitamin B6 abnormalities.

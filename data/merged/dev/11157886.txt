@@ -1,0 +1,14 @@
+Protective effect of halothane anesthesia on retinal light damage: inhibition of metabolic rhodopsin regeneration.
+PURPOSE: To determine whether the volatile anesthetic halothane protects against light-induced photoreceptor degeneration in the rodent retina.
+METHODS: Albino mice and rats were anesthetized with halothane and exposed to high levels of white or blue light.
+Nonanesthetized animals served as controls.
+Retinal morphology was assessed by light microscopy, and apoptosis of photoreceptor cells was verified by detection of fragmented genomic DNA and in situ staining of apoptotic nuclei (TUNEL assay).
+Rhodopsin regeneration after bleaching was determined by measuring rhodopsin levels in retinas of mice or rats at different time points in darkness.
+RESULTS: Halothane anesthesia reversibly inhibited metabolic rhodopsin regeneration and thus prevented rhodopsin from absorbing high numbers of photons during light exposure.
+Consequently, photoreceptors of mice and rats anesthetized with halothane were completely protected against degeneration induced by white light.
+In remarkable contrast, however, halothane anesthesia did not protect against blue-light-induced photoreceptor cell death.
+CONCLUSIONS: After the initial bleach, halothane impeded photon absorption by rhodopsin by inhibiting metabolic rhodopsin regeneration.
+Apparently, the rhodopsin-mediated uptake of the critical number of photons to initiate white light-induced retinal degeneration was prevented.
+In contrast, halothane did not protect the retina against blue light.
+Blue light can efficiently restore functional rhodopsin from bleaching intermediates through a process termed photoreversal of bleaching.
+This process does not depend on the visual cycle via the pigment epithelium but nevertheless enables rhodopsin molecules to absorb the critical number of photons required to induce retinal degeneration.

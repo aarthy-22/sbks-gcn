@@ -1,0 +1,9 @@
+Redesign of carnitine acetyltransferase specificity by protein engineering.
+In eukaryotes, L-carnitine is involved in energy metabolism by facilitating beta-oxidation of fatty acids.
+Carnitine acetyltransferases (CrAT) catalyze the reversible conversion of acetyl-CoA and carnitine to acetylcarnitine and free CoA. To redesign the specificity of rat CrAT toward its substrates, we mutated Met564.
+The M564G mutated CrAT showed higher activity toward longer chain acyl-CoAs: activity toward myristoyl-CoA was 1250-fold higher than that of the wild-type CrAT, and lower activity toward its natural substrate, acetyl-CoA. Kinetic constants of the mutant CrAT showed modification in favor of longer acyl-CoAs as substrates.
+In the reverse case, mutation of the orthologous glycine (Gly553) to methionine in carnitine octanoyltransferase (COT) decreased activity toward its natural substrates, medium- and long-chain acyl-CoAs, and increased activity toward short-chain acyl-CoAs.
+Another CrAT mutant, M564A, was prepared and tested in the same way, with similar results.
+We conclude that Met564 blocks the entry of medium- and long-chain acyl-CoAs to the catalytic site of CrAT.
+Three-dimensional models of wild-type and mutated CrAT and COT support this hypothesis.
+We show for the first time that a single amino acid is able to determine the substrate specificity of CrAT and COT.

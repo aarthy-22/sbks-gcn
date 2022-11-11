@@ -1,0 +1,11 @@
+Medical treatment of acute poisoning with organophosphorus and carbamate pesticides.
+Organophosphorus compounds (OPs) are used as pesticides and developed as warfare nerve agents such as tabun, soman, sarin, VX and others.
+Exposure to even small amounts of an OP can be fatal and death is usually caused by respiratory failure.
+The mechanism of OP poisoning involves inhibition of acetylcholinesterase (AChE) leading to inactivation of the enzyme which has an important role in neurotransmission.
+AChE inhibition results in the accumulation of acetylcholine at cholinergic receptor sites, producing continuous stimulation of cholinergic fibers throughout the nervous systems.
+During more than five decades, pyridinium oximes have been developed as therapeutic agents used in the medical treatment of poisoning with OP.
+They act by reactivation of AChE inhibited by OP.
+However, they differ in their activity in poisoning with pesticides and warfare nerve agents and there is still no universal broad-spectrum oxime capable of protecting against all known OP.
+In spite of enormous efforts devoted to development of new pyridinium oximes as potential antidotes against poisoning with OP only four compounds so far have found its application in human medicine.
+Presently, a combination of an antimuscarinic agent, e.g. atropine, AChE reactivator such as one of the recommended pyridinium oximes (pralidoxime, trimedoxime, obidoxime and HI-6) and diazepam are used for the treatment of OP poisoning in humans.
+In this article the available data related to medical treatment of poisoning with OP pesticides are reviewed and the current recommendations are presented.

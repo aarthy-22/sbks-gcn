@@ -1,0 +1,14 @@
+AT1 antagonism by eprosartan lowers heart rate variability and baroreflex gain.
+INTRODUCTION: Blockade of the renin-angiotensin system (RAS) by ACE inhibitors has been demonstrated to reduce total mortality in cardiovascular diseases.
+This advantage was attributed in part to changes of autonomic cardiovascular control, exemplified by an increase of heart rate variability (HRV) and baroreflex gain (BRG).
+We sought to assess the effects of the angiotensin type 1 (AT1) receptor blocker eprosartan on HRV and BRG.
+MATERIALS AND METHODS: In a double-blind randomized cross-over design 25 young males took eprosartan (600 mg/day) and placebo each for a period of 7 days with a wash-out period of at least 4 weeks in between.
+At the end of the intake phases simultaneous recordings of arterial blood pressure (AP; Finapres) and electrocardiogram (ECG) were taken.
+Power spectra of HRV and arterial blood pressure variability (APV) were calculated by fast Fourier transform (FFT) and served to calculate BRG.
+Ang-II levels were measured by radioimmunoassay.
+RESULTS: Eprosartan tended to lower mean AP, it slightly increased heart rate (HR) (p<0.05), and markedly increased circulating Ang-II levels (p<0.01).
+Eprosartan diminished the total power of HRV (p<0.05) and the BRG (p<0.01).
+The low/high frequency (LF/HF) ratio of HRV and the APV were not altered.
+CONCLUSIONS: AT1 antagonism by eprosartan lowers heart rate variability and baroreflex gain.
+We speculate that these findings are due to the marked increase in circulating angiotensin II (Ang II).
+Further studies are needed to clarify whether angiotensin type 1 (AT1) blockers with potential actions inside the blood-brain barrier (BBB) may have different effects on HRV and BRG.

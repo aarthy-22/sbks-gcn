@@ -1,0 +1,8 @@
+Catalytic properties of mouse carbonic anhydrase V. A cDNA encoding the mouse carbonic anhydrase V gene was isolated by reverse transcription and polymerase chain reaction from BALB/c mouse liver mRNA.
+Vectors containing the full coding sequence as well as two different NH2-terminal truncated genes expressed enzymatically active protein in Escherichia coli.
+The carbonic anhydrase V produced by a vector containing the full coding sequence, which includes a possible NH2-terminal mitochondrial targeting signal, was proteolytically processed by E. coli and contained several amino-terminal ends.
+The two NH2-terminal truncated vectors deleted, respectively, 1) the 29-amino acid putative targeting sequence and 2) 51 amino acids, yielding a protein equivalent to a carbonic anhydrase (CA) V isolated from mouse liver mitochondria; and both vectors produced homogeneous protein fractions.
+These latter two forms of CA V had identical steady-state constants for the hydration of CO2, with maximal values of kcat/Km at 3 x 10(7) M-1 s-1 and kcat at 3 x 10(5) s-1 with an apparent pKa for catalysis of 7.4 determined from kcat/Km.
+In catalytic properties, mouse CA V is closest to CA I; however, in inhibition by acetazolamide, ethoxzolamide, and cyanate, CA V is very similar to CA II.
+Mouse CA V has a tyrosine at position 64, where the highly active isozyme II has histidine serving as a proton shuttle in the catalytic pathway.
+Investigation of a site-specific mutant of CA V containing the replacement Tyr64-->His showed that the unique kinetic properties of CA V are not due to the presence of tyrosine at position 64.

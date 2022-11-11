@@ -1,0 +1,6 @@
+In silico identification of poly(ADP-ribose)polymerase-1 inhibitors and their chemosensitizing effects against cisplatin-resistant human gastric cancer cells.
+Poly(ADP-ribose)polymerase-1 (PARP-1) enzyme is involved in the repair of DNA damages made by certain anticancer agents.
+It is suggested that PARP-1 inhibitors potentiate the cytotoxic effects and circumvent the resistance of DNA-modifying anticancer agents such as cisplatin.
+In this study, we conducted virtual screening of Korea Chemical Bank database targeting PARP-1 and identified several potent PARP-1 inhibitors with submicromolar IC50 values (77-79nM).
+We then examined the chemosensitization of cisplatin by pre-treatment of PARP-1 inhibitors in cisplatin-resistant human gastric cancer cells.
+Our results show that PARP-1 inhibitors suppress the formation of poly(ADP-ribose) and enhance the cytotoxicity of cisplatin.

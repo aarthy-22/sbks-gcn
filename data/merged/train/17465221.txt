@@ -1,0 +1,8 @@
+Methylation-mediated silencing of genes is not altered by selenium treatment of prostate cancer cells.
+BACKGROUND: The role of selenium in reducing the risk of multiple cancers has been described in the literature.
+Although reports have described the antiproliferative and pro-apoptotic function of selenium by up-regulation of genes in these pathways, information is lacking on the target mechanisms of selenium on specific genes.
+This study examines whether selenium treatment alters the methylation status of epigenetically silenced genes in prostate cancer cells.
+MATERIALS AND METHODS: Methylation of glutathione sulfotransferase pi (GSTP1) and Ras associated family 1A (RASSF1A) genes was studied using methylation sensitive PCR (MS-PCR).
+Gene expression was studied using Reverse Transcriptase PCR and Western Blotting.
+RESULTS AND CONCLUSION: Treatment of prostate cancer cells with selenium did not alter the expression of genes that were silenced by DNA methylation.
+Furthermore, the methylation status of these genes remained unaltered after treatment with seleno-DL-methionine.

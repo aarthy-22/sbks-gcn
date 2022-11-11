@@ -1,0 +1,17 @@
+T1	REACTION_PRODUCT 0 124	(6S,8R)-6-(5-bromopyridin-2-yl)-1-fluoro-8-methyl-7-(2,2,2-trifluoroethyl)-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T2	REAGENT_CATALYST 125 144	Trifluroacetic acid
+T3	STARTING_MATERIAL 180 251	(R)-1-(3-fluoro-1H-indazol-4-yl)-N-(2,2,2-trifluoroethyl)propan-2-amine
+T4	STARTING_MATERIAL 276 298	5-bromopicolinaldehyde
+T5	SOLVENT 323 330	toluene
+T6	TEMPERATURE 382 387	90° C
+T7	TIME 393 399	1 hour
+T8	TEMPERATURE 437 453	room temperature
+T9	OTHER_COMPOUND 478 481	DCM
+T10	OTHER_COMPOUND 503 510	aqueous
+T11	OTHER_COMPOUND 511 529	sodium bicarbonate
+T12	OTHER_COMPOUND 633 643	silica gel
+T13	OTHER_COMPOUND 685 698	ethyl acetate
+T14	OTHER_COMPOUND 702 709	heptane
+T15	REACTION_PRODUCT 718 842	(6S,8R)-6-(5-bromopyridin-2-yl)-1-fluoro-8-methyl-7-(2,2,2-trifluoroethyl)-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T16	YIELD_OTHER 844 849	89 mg
+T17	YIELD_PERCENT 851 854	55%

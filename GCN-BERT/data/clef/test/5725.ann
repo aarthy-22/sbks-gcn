@@ -1,0 +1,16 @@
+T1	REACTION_PRODUCT 695 850	(E)-methyl 3-(3,5-difluoro-4 -((1S,3R/1R,3S)-2-isobutyl-3,5-dimethyl-6-(((trifluoromethyl)sulfonyl)oxy)-1,2,3,4-tetr ahydroisoquinolin-1-yl)phenyl)acrylate
+T2	STARTING_MATERIAL 402 436	trifluoromethanesulfonic anhydride
+T3	EXAMPLE_LABEL 5 6	5
+T4	TEMPERATURE 472 475	0°C
+T5	REACTION_PRODUCT 680 694	title compound
+T6	SOLVENT 342 356	dichlormethane
+T7	REACTION_PRODUCT 7 161	(E)-methyl 3-(3,5-difluoro-4-((1S,3R/1R,3S)-2-isobutyl-3,5-dimethyl-6-(((trifluoromethyl)sulfonyl)oxy)-1,2,3 ,4-tetrahydroisoquinolin-1-yl)phenyl)acrylate
+T8	OTHER_COMPOUND 611 621	silica gel
+T9	REACTION_PRODUCT 851 854	92e
+T10	YIELD_OTHER 856 861	2.5 g
+T11	YIELD_PERCENT 869 872	76%
+T12	TIME 515 522	2 hours
+T13	STARTING_MATERIAL 292 295	92d
+T14	TEMPERATURE 526 529	0°C
+T15	REAGENT_CATALYST 363 375	2,6-lutidine
+T16	STARTING_MATERIAL 162 291	(E)-methyl 3-(3,5-difluoro-4-((1S,3R/1R,3S)-6-hydroxy-2-isobutyl-3,5-dimethyl-1, 2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylate

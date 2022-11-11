@@ -1,0 +1,7 @@
+Synthesis and selected immunological properties of substituted quino[3,2-b]benzo[1,4]thiazines.
+A new type of azaphenothiazines - tetracyclic quino[3,2-b]benzo[1,4]thiazines, possessing common substituents (H, CH3, Cl, Br, F, CF3, SCH3) in positions 8-10 and pharmacophoric aminoalkyl substituents in position 6, were obtained from diquinodithiin and 2,2'-dichloro-3,3'-diquinolinyl disulfide in several-step syntheses.
+Sixty one compounds, grouped as the 6H, 6-dialkylaminoalkyl, 6-acylaminoalkyl and sulfonylaminoalkyl derivatives, were tested for cytotoxicity, their effects on phytohemagglutin A (PHA)-induced proliferative response of human peripheral blood mononuclear cells (PBMC) and lipopolysaccharide (LPS)-induced tumor necrosis factor alpha (TNF-α) production by these cells.
+The compounds exhibited differential inhibitory activities in these tests and significantly varied in terms of cytotoxicity.
+The most promising compounds were tested for growth inhibition of leukemia L-1210 cells, colon cancer SV-948 cells and epidermal carcinoma A-341 cells.
+The most active compounds exhibited anticancer activity against these cell lines comparable to that of cisplatin.
+The structure-activity relationship of the compounds were discussed.

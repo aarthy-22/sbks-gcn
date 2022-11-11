@@ -1,0 +1,9 @@
+Charge screening between anionic and cationic surfactants in ionic liquids.
+The aggregation and interfacial behavior of mixtures of anionic (sodium dodecylsulfate, SDS) and cationic (dodecylammonium bromide, DTAB) surfactants were investigated.
+A room-temperature ionic liquid (IL) was explored as a solvent for the SDS/DTAB system and compared to water.
+The critical micelle concentration (cmc) and composition in mixed micelles were determined for both solvents.
+Our experiments showed nearly ideal mixing of SDS/DTAB over the entire composition range and suggest that charge screening is prominent in ILs.
+This behavior is in sharp contrast to the strong electrostatic attraction and a multiphase composition gap in water.
+Two models by Clint and Rubingh, which describe ideal and nonideal micellar behavior, respectively, are discussed on the basis of our results.
+According to Rubingh's model, the composition of mixed micelles is gradually changing with the bulk composition in ILs but tends to be a 1:1 ratio in water.
+The results here are further support of the strong charge screening in ionic liquids.

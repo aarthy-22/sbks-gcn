@@ -1,0 +1,16 @@
+T8	CHEMICAL 59 102	(Z)- and (E)-3,4,3',5'-Tetramethoxystilbene
+T6	CHEMICAL 209 218	stilbenes
+T7	CHEMICAL 220 254	(Z)-3,4,3',5'-tetramethoxystilbene
+T1	CHEMICAL 260 294	(E)-3,4,3',5'-tetramethoxystilbene
+T4	CHEMICAL 304 333	(E)-3,5,4'-trimethoxystilbene
+T5	CHEMICAL 593 625	2,3,5,7-tetramethoxyphenanthrene
+T9	GENE-Y 943 948	Stat3
+T10	GENE-N 950 957	Smad3/4
+T11	GENE-Y 959 962	myc
+T12	GENE-N 964 967	Ets
+T13	GENE-N 969 974	Notch
+T14	GENE-N 980 983	Wnt
+T15	GENE-Y 1092 1096	Ap-1
+T16	GENE-N 1101 1106	NF-κB
+T2	CHEMICAL 1506 1509	PMA
+T3	CHEMICAL 1566 1572	Trolox

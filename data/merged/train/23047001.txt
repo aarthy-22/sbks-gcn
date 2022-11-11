@@ -1,0 +1,7 @@
+Design, synthesis and biological evaluation of benzothiazepinones (BTZs) as novel non-ATP competitive inhibitors of glycogen synthase kinase-3β (GSK-3β).
+Glycogen synthase kinase-3β (GSK-3β) plays a key role in type II diabetes and Alzheimer's diseases, to which non-ATP competitive inhibitors represent an effectively therapeutical approach due to their good specificity.
+Herein, a series of small molecules benzothiazepinones (BTZs) as novel non-ATP competitive inhibitors of GSK-3β have been designed and synthesized.
+The in vitro evaluation performed by luminescent assay showed most BTZ derivatives have inhibitory effects in micromolar scale.
+Among them compounds 6l, 6t and 6v have the IC50 values of 25.0 μM, 27.8 μM and 23.0 μM, respectively.
+Moreover 6v is devoid of any inhibitory activity in the assays to other thirteen protein kinases.
+Besides, SAR is analyzed and a hypothetical enzymatic binding mode is proposed by molecular docking study, which would be useful for new candidates design.

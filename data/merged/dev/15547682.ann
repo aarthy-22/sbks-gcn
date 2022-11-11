@@ -1,0 +1,31 @@
+T14	GENE 54 63	prostasin
+T15	GENE 65 79	alpha-spectrin
+T16	GENE 85 90	Nedd4
+T6	GENE 298 324	mineralocorticoid receptor
+T1	CHEMICAL 369 378	amiloride
+T7	GENE 369 414	amiloride-sensitive epithelial sodium channel
+T2	CHEMICAL 400 406	sodium
+T8	GENE 416 420	ENaC
+T9	GENE 658 672	alpha-spectrin
+T10	GENE 704 734	transmembrane serine proteases
+T3	CHEMICAL 718 724	serine
+T11	GENE 736 761	ubiquitin-protein ligases
+T12	GENE 767 810	serum- and glucocorticoid-regulated kinases
+T4	CHEMICAL 882 888	sodium
+T5	CHEMICAL 906 915	amiloride
+T13	GENE 1079 1088	prostasin
+R0	NOT Arg1:T6 Arg2:T1
+R1	NOT Arg1:T6 Arg2:T2
+R2	NOT Arg1:T1 Arg2:T8
+R3	NOT Arg1:T2 Arg2:T8
+R4	NOT Arg1:T9 Arg2:T3
+R5	NOT Arg1:T9 Arg2:T4
+R6	NOT Arg1:T9 Arg2:T5
+R7	NOT Arg1:T10 Arg2:T4
+R8	NOT Arg1:T10 Arg2:T5
+R9	NOT Arg1:T3 Arg2:T11
+R10	NOT Arg1:T3 Arg2:T12
+R11	NOT Arg1:T11 Arg2:T4
+R12	NOT Arg1:T11 Arg2:T5
+R13	NOT Arg1:T12 Arg2:T4
+R14	NOT Arg1:T12 Arg2:T5

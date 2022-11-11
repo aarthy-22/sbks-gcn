@@ -1,0 +1,11 @@
+Transport by OATP1B1 and OATP1B3 enhances the cytotoxicity of epigallocatechin 3-O-gallate and several quercetin derivatives.
+Organic anion transporting polypeptides (OATPs) 1B1 and 1B3 are transporters that are expressed selectively in human hepatocytes under normal conditions.
+OATP1B3 is also expressed in certain cancers.
+Flavonoids such as green tea catechins and quercetin glycosides have been shown to modulate the function of some OATPs.
+In the present study, the extent to which six substituted quercetin derivatives (1-6) affected the function of OATP1B1 and OATP1B3 was investigated.
+Uptake of the radiolabeled model substrates estradiol 17β-glucuronide, estrone 3-sulfate, and dehydroepiandrosterone sulfate (DHEAS) was determined in the absence and presence of compounds 1-6 using Chinese hamster ovary (CHO) cells stably expressing either OATP1B1 or OATP1B3.
+Several of compounds 1-6 inhibited OATP-mediated uptake of all three model substrates, suggesting that they could also be potential substrates.
+Compound 6 stimulated OATP1B3-mediated estradiol 17β-glucuronide uptake by increasing the apparent affinity of OATP1B3 for its substrate.
+Cytotoxicity assays demonstrated that epigallocatechin 3-O-gallate (EGCG) and most of compounds 1-6 killed preferentially OATP-expressing CHO cells.
+EGCG, 1, and 3 were the most potent cytotoxic compounds, with EGCG and 3 selectively killing OATP1B3-expressing cells.
+Given that OATP1B3 is expressed in several cancers, EGCG and some of the quercetin derivatives studied might be promising lead compounds for the development of novel anticancer drugs.

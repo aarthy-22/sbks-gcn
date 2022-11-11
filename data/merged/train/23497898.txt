@@ -1,0 +1,7 @@
+Stability of sunflower 2S albumins and LTP to physiologically relevant in vitro gastrointestinal digestion.
+In order for a protein to elicit a systemic allergic response it must reach the circulatory system through the intestinal mucosa as a sufficiently large fragment with adequate structural integrity.
+Sunflower LTP and 2S albumins (SFA8 and three mixed fractions of Alb1 and Alb2) were digested in simulated gastric fluid (SGF) for 2h and the conditions were then changed to mimic the intestinal environment for a further 2h digestion.
+The effects of phosphatidylcholine (PC) and emulsification on the digestibility of the proteins were investigated.
+PC protected all of the proteins studied against both gastric and intestinal digestive enzymes but to different extents.
+Emulsification of SFA8 resulted in strong protection against digestion, which was further enhanced by the presence of PC in the SGF.
+These results highlight the importance of considering real food structures such as emulsified systems and also the gastrointestinal environment that proteins are exposed to once consumed when assessing allergenicity.

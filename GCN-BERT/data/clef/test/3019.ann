@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 21 148	methyl 4-(4-(3-fluoro-4-(7-hydroxyhepta-1,3-diyn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
+T3	STARTING_MATERIAL 166 252	7-(2-fluoro-4-(1,2,3,6-tetrahydropyridin-4-yl)phenyl)hepta-4,6-diyn-1-ol hydrochloride
+T4	SOLVENT 271 274	DMF
+T5	REAGENT_CATALYST 298 323	N,N-diisopropylethylamine
+T6	STARTING_MATERIAL 344 395	methyl 4-bromo-2-methyl-2-(methylsulfonyl)butanoate
+T7	TIME 459 464	12 hr
+T8	TEMPERATURE 468 473	60° C
+T9	TEMPERATURE 491 507	room temperature
+T10	OTHER_COMPOUND 528 541	ethyl acetate
+T11	OTHER_COMPOUND 546 551	water
+T12	OTHER_COMPOUND 587 592	brine
+T13	OTHER_COMPOUND 615 620	MgSO4
+T14	REACTION_PRODUCT 715 729	title compound
+T15	YIELD_OTHER 731 737	230 mg
+T16	YIELD_PERCENT 739 742	27%

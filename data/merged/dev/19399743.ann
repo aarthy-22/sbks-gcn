@@ -1,0 +1,5 @@
+T1	CHEMICAL 280 300	phosphatidylinositol
+T3	GENE-Y 280 331	phosphatidylinositol glycan-complementation class A
+T4	GENE-Y 403 407	CD59
+T2	GENE-Y 1230 1232	C5
+R0	NOT Arg1:T1 Arg2:T4

@@ -1,0 +1,23 @@
+T23	GENE-N 33 81	human phenylalanine hydroxylase catalytic domain
+T17	CHEMICAL 39 52	phenylalanine
+T18	CHEMICAL 93 101	catechol
+T10	CHEMICAL 138 157	aromatic amino acid
+T22	GENE-N 138 170	aromatic amino acid hydroxylases
+T6	CHEMICAL 307 315	catechol
+T20	GENE-Y 421 452	human phenylalanine hydroxylase
+T8	CHEMICAL 427 440	phenylalanine
+T21	GENE-Y 454 460	hPheOH
+T9	CHEMICAL 513 521	catechol
+T11	CHEMICAL 575 584	catechols
+T12	CHEMICAL 624 628	iron
+T13	CHEMICAL 671 688	catechol hydroxyl
+T14	CHEMICAL 982 995	catecholamine
+T15	CHEMICAL 1007 1012	PheOH
+T16	CHEMICAL 1082 1090	catechol
+T1	CHEMICAL 1274 1291	catechol hydroxyl
+T2	CHEMICAL 1472 1485	noradrenaline
+T19	GENE-Y 1676 1700	rat tyrosine hydroxylase
+T3	CHEMICAL 1680 1688	tyrosine
+T4	CHEMICAL 1743 1763	7,8-dihydrobiopterin
+T5	CHEMICAL 1807 1816	catechols
+T7	CHEMICAL 1891 1900	catechols

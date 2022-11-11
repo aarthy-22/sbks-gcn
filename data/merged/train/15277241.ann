@@ -1,0 +1,35 @@
+T16	CHEMICAL 18 29	glutathione
+T30	GENE-N 18 46	glutathione transferase zeta
+T17	CHEMICAL 47 65	maleylacetoacetate
+T31	GENE-N 47 75	maleylacetoacetate isomerase
+T29	GENE-N 143 191	alpha, mu, and pi class glutathione transferases
+T15	CHEMICAL 167 178	glutathione
+T1	CHEMICAL 193 204	Glutathione
+T18	GENE-N 193 221	Glutathione transferase zeta
+T24	GENE-N 223 230	GSTZ1-1
+T14	CHEMICAL 285 301	alpha-halo acids
+T3	CHEMICAL 310 329	dichloroacetic acid
+T22	GENE-N 380 387	GSTZ1-1
+T8	CHEMICAL 406 424	maleylacetoacetate
+T23	GENE-N 406 434	maleylacetoacetate isomerase
+T9	CHEMICAL 503 516	phenylalanine
+T10	CHEMICAL 521 529	tyrosine
+T25	GENE-N 565 570	Gstz1
+T26	GENE-N 626 631	Gstz1
+T11	CHEMICAL 681 694	maleylacetone
+T12	CHEMICAL 699 714	alpha-halo acid
+T27	GENE-N 737 741	GSTs
+T28	GENE-N 819 826	GSTZ1-1
+T13	CHEMICAL 1045 1058	phenylalanine
+T19	GENE-N 1266 1273	GSTZ1-1
+T20	GENE-N 1322 1350	alpha, mu, and pi class GSTs
+T2	CHEMICAL 1362 1369	NAD(P)H
+T21	GENE-N 1362 1394	NAD(P)H:quinone oxidoreductase 1
+T4	CHEMICAL 1370 1377	quinone
+T5	CHEMICAL 1519 1534	succinylacetone
+T6	CHEMICAL 1606 1624	maleylacetoacetate
+T7	CHEMICAL 1629 1642	maleylacetone
+R0	CPR-9 Arg1:T14 Arg2:T24
+R1	NOT Arg1:T16 Arg2:T31
+R2	NOT Arg1:T31 Arg2:T15
+R3	NOT Arg1:T11 Arg2:T27

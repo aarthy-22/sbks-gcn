@@ -1,0 +1,4 @@
+EXAMPLE 70
+Preparation of (S)-5-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one
+Step 1: Preparation of 5-chloro-1-(4-methoxybenzyl)pyrimido[4,5-d]pyrimidine-4(1H)-one
+50 mg (0.171 mmol) of 4-chloro-6-((4-methoxybenzyl)amino)pyrimidine-5-carboxamide, 1 mL of triethyl orthoformate, and 10 μL of methanesulfonic acid were mixed together, which was stirred at 50° C. for 2 hours. The reaction mixture was cooled down to room temperature. Ethyl acetate and water were added thereto, followed by extraction. The extracted organic layer was separated, dried (Na2SO4), filtered, and concentrated under reduced pressure. The residue was separated by column chromatography (SiO2, eluent: hexane/ethyl acetate, 4/1-hexane/ethyl acetate, 1/1) to give 10 mg of the target compound 5-chloro-1-(4-methoxybenzyl)pyrimido[4,5-d]pyrimidine-4(1H)-one as a pale yellow liquid (0.033 mmol, yield: 19%).

@@ -1,0 +1,33 @@
+T30	GENE-N 0 31	Beta 1- and beta 2-adrenoceptor
+T23	GENE-N 120 152	beta 1- and beta 2-adrenoceptors
+T20	GENE-N 260 277	beta-adrenoceptor
+T8	CHEMICAL 302 319	[125I](-)pindolol
+T9	CHEMICAL 321 328	125IPIN
+T13	CHEMICAL 826 833	125IPIN
+T14	CHEMICAL 857 864	125IPIN
+T15	CHEMICAL 976 989	l-propranolol
+T16	CHEMICAL 1003 1016	d-propranolol
+T29	GENE-N 1053 1084	beta 1- and beta 2-adrenoceptor
+T1	CHEMICAL 1243 1252	practolol
+T2	CHEMICAL 1254 1262	atenolol
+T3	CHEMICAL 1267 1277	metoprolol
+T4	CHEMICAL 1301 1312	ICI 118,551
+T17	GENE-N 1362 1394	beta 1- and beta 2-adrenoceptors
+T18	GENE-Y 1475 1495	beta 2-adrenoceptors
+T19	GENE-Y 1560 1580	beta 2-adrenoceptors
+T21	GENE-N 1699 1716	beta-adrenoceptor
+T22	GENE-N 1783 1800	beta-adrenoceptor
+T5	CHEMICAL 1827 1839	isoprenaline
+T6	CHEMICAL 1938 1945	125IPIN
+T7	CHEMICAL 2025 2037	isoprenaline
+T24	GENE-Y 2139 2159	beta 1-adrenoceptors
+T25	GENE-Y 2203 2223	beta 2-adrenoceptors
+T10	CHEMICAL 2318 2328	procaterol
+T11	CHEMICAL 2333 2341	zinterol
+T26	GENE-Y 2405 2425	beta 1-adrenoceptors
+T27	GENE-Y 2472 2492	beta 2-adrenoceptors
+T12	CHEMICAL 2498 2509	ICI 118,551
+T28	GENE-Y 2578 2598	beta 1-adrenoceptors
+R0	NOT Arg1:T1 Arg2:T17
+R1	NOT Arg1:T4 Arg2:T17
+R2	NOT Arg1:T11 Arg2:T27

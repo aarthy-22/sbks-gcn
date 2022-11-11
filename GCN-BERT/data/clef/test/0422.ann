@@ -1,0 +1,15 @@
+T1	STARTING_MATERIAL 25 105	2-t-butyldimethylsilyl-7-acetoxy-3-(3,4,5-trimethoxybenzoyl)-6-methoxybenzofuran
+T2	SOLVENT 129 147	1,2-dichloroethane
+T3	TEMPERATURE 158 174	room temperature
+T4	OTHER_COMPOUND 181 189	nitrogen
+T5	REAGENT_CATALYST 200 207	bromine
+T6	TIME 297 307	10 minutes
+T7	OTHER_COMPOUND 366 384	sodium thiosulfate
+T8	OTHER_COMPOUND 410 423	ethyl acetate
+T9	OTHER_COMPOUND 444 461	magnesium sulfate
+T10	OTHER_COMPOUND 550 560	silica gel
+T11	OTHER_COMPOUND 584 597	eluent=Hexane
+T12	OTHER_COMPOUND 598 611	diethyl ether
+T13	REACTION_PRODUCT 636 650	title compound
+T14	YIELD_OTHER 686 691	91 mg
+T15	YIELD_PERCENT 693 696	81%

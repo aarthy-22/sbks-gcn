@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 13 14	3
+T2	REACTION_PRODUCT 16 65	3-methyl-2,4,5,6-tetrahydropyrrolo[3,4-c]pyrazole
+T3	EXAMPLE_LABEL 71 72	1
+T4	REACTION_PRODUCT 74 183	tert-butyl 3-methyl-2-((2-(trimethylsilyl)ethoxy)methyl)-4,6-dihydropyrrolo[3,4-c] pyrazole-5(2H)-carboxylate
+T5	STARTING_MATERIAL 184 283	Tert-butyl 2-((2-(trimethylsilyl)ethoxy)methyl)-4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H)-carboxylate
+T6	SOLVENT 326 341	tetrahydrofuran
+T7	TEMPERATURE 365 371	-78 °C
+T8	STARTING_MATERIAL 414 427	butyl lithium
+T9	SOLVENT 431 446	tetrahydrofuran
+T10	TIME 510 519	1.5 hours
+T11	STARTING_MATERIAL 521 534	Methyl iodide
+T12	TIME 606 613	5 hours
+T13	TEMPERATURE 634 650	room temperature
+T14	OTHER_COMPOUND 652 657	Water
+T15	OTHER_COMPOUND 696 709	ethyl acetate
+T16	OTHER_COMPOUND 807 817	silica gel
+T17	REACTION_PRODUCT 848 956	tert-butyl 3-methyl-2-((2-(trimethylsilyl)ethoxy)methyl)-4,6-dihydropyrrolo[3,4-c]pyrazole-5(2H)-carboxylate
+T18	YIELD_OTHER 958 963	1.5 g
+T19	YIELD_PERCENT 973 977	48 %

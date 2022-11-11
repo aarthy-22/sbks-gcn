@@ -1,0 +1,13 @@
+The role of GH in adipose tissue: lessons from adipose-specific GH receptor gene-disrupted mice.
+GH receptor (GHR) gene-disrupted mice (GHR-/-) have provided countless discoveries as to the numerous actions of GH.
+Many of these discoveries highlight the importance of GH in adipose tissue.
+For example GHR-/- mice are insulin sensitive yet obese with preferential enlargement of the sc adipose depot.
+GHR-/- mice also have elevated levels of leptin, resistin, and adiponectin, compared with controls leading some to suggest that GH may negatively regulate certain adipokines.
+To help clarify the role that GH exerts specifically on adipose tissue in vivo, we selectively disrupted GHR in adipose tissue to produce Fat GHR Knockout (FaGHRKO) mice.
+Surprisingly, FaGHRKOs shared only a few characteristics with global GHR-/- mice.
+Like the GHR-/- mice, FaGHRKO mice are obese with increased total body fat and increased adipocyte size.
+However, FaGHRKO mice have increases in all adipose depots with no improvements in measures of glucose homeostasis.
+Furthermore, resistin and adiponectin levels in FaGHRKO mice are similar to controls (or slightly decreased) unlike the increased levels found in GHR-/- mice, suggesting that GH does not regulate these adipokines directly in adipose tissue in vivo.
+Other features of FaGHRKO mice include decreased levels of adipsin, a near-normal GH/IGF-1 axis, and minimal changes to a large assortment of circulating factors that were measured such as IGF-binding proteins.
+In conclusion, specific removal of GHR in adipose tissue is sufficient to increase adipose tissue and decrease circulating adipsin.
+However, removal of GHR in adipose tissue alone is not sufficient to increase levels of resistin or adiponectin and does not alter glucose metabolism.

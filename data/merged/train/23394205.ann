@@ -1,0 +1,12 @@
+T4	CHEMICAL 13 106	4-{4-[(3R)-3-Methylmorpholin-4-yl]-6-[1-(methylsulfonyl)cyclopropyl]pyrimidin-2-yl}-1H-indole
+T3	CHEMICAL 108 112	AZ20
+T11	GENE-Y 151 169	ATR protein kinase
+T5	GENE-Y 215 218	ATR
+T1	CHEMICAL 457 486	sulfonylmorpholinopyrimidines
+T6	GENE-Y 518 521	ATR
+T2	CHEMICAL 623 627	AZ20
+T7	GENE-Y 644 647	ATR
+T8	GENE-Y 719 722	ATR
+T9	GENE-Y 751 755	Chk1
+T10	GENE-Y 1134 1137	ATR
+R0	CPR-4 Arg1:T2 Arg2:T8

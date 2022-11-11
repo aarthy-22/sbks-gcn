@@ -1,0 +1,11 @@
+T1	STARTING_MATERIAL 0 93	Tert-butyl3-(1-ethyl-2-oxo-1,2-dihydrobenzo[cd]indole-6-sulfonamido)pyrrolidine-1-carboxylate
+T2	SOLVENT 131 134	DCM
+T3	REAGENT_CATALYST 147 167	trifluoroacetic acid
+T4	TEMPERATURE 205 221	room temperature
+T5	TIME 226 229	2 h
+T6	OTHER_COMPOUND 298 307	petroleum
+T7	OTHER_COMPOUND 312 317	ether
+T8	OTHER_COMPOUND 318 331	ethyl acetate
+T9	REACTION_PRODUCT 342 416	1-ethyl-2-oxo-N-(pyrrolidin-3-yl)-1,2-dihydrobenzo[cd]indole-6-sulfonamide
+T10	YIELD_OTHER 418 423	37 mg
+T11	YIELD_PERCENT 425 428	95%

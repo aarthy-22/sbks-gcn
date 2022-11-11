@@ -1,0 +1,13 @@
+The CYP2B6*6 Allele Significantly Alters the N-demethylation of Ketamine Enantiomers In Vitro.
+Ketamine is primarily metabolized to norketamine by hepatic cytochrome P450 (CYP) 2B6 and CYP3A4-mediated N-demethylation.
+However, the relative contribution from each enzyme remains controversial.
+The CYP2B6*6 allele is associated with reduced enzyme expression and activity that may lead to interindividual variability in ketamine metabolism.
+We examined the N-demethylation of individual ketamine enantiomers using human liver microsomes (HLMs) genotyped for the CYP2B6*6 allele, insect cell expressed recombinant CYP2B6 and CYP3A4 enzymes and COS-1 cell expressed recombinant CYP2B6.1 and CYP2B6.6 protein variant.
+Effects of CYP-selective inhibitors on norketamine formation were also determined in HLMs.
+The two-enzyme Michaelis-Menten model best fitted the HLM kinetic data.
+The Km value for the high affinity enzyme and the low affinity enzyme were similar to those for the expressed CYP2B6 and CYP3A4, respectively.
+The intrinsic clearance for both ketamine enantiomers by the high affinity enzyme in HLMs with CYP2B6*1/*1 genotype were at least 2-fold and 6-fold higher, respectively, than those for CYP2B6*1/*6 genotype and CYP2B6*6/*6 genotype.
+The Vmax and Km values for CYP2B6.1 were approximately 160% and 70% of those for CYP2B6.6, respectively.
+ThioTEPA (CYP2B6 inhibitor, 25 μM) and the monoclonal antibody against CYP2B6 but not troleandomycin (CYP3A4 inhibitor, 25 μM) or the monoclonal antibody against CYP3A4 inhibited ketamine N-demethylation at clinically relevant concentrations.
+The degree of inhibition was significantly reduced in HLMs with the CYP2B6*6 allele (gene-dose P<0.05).
+These results indicate a major role of CYP2B6 in ketamine N-demethylation in vitro and a significant impact of the CYP2B6*6 allele on enzyme-ketamine binding and catalytic activity.

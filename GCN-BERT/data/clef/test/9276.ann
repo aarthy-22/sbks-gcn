@@ -1,0 +1,22 @@
+T1	EXAMPLE_LABEL 143 144	1
+T2	YIELD_OTHER 798 803	10 mg
+T3	YIELD_OTHER 916 926	0.033 mmol
+T4	YIELD_PERCENT 935 938	19%
+T5	OTHER_COMPOUND 511 516	water
+T6	STARTING_MATERIAL 316 337	triethyl orthoformate
+T7	TEMPERATURE 415 420	50° C
+T8	REACTION_PRODUCT 161 224	5-chloro-1-(4-methoxybenzyl)pyrimido[4,5-d]pyrimidine-4(1H)-one
+T9	EXAMPLE_LABEL 8 10	70
+T10	OTHER_COMPOUND 737 743	hexane
+T11	OTHER_COMPOUND 763 769	hexane
+T12	OTHER_COMPOUND 744 757	ethyl acetate
+T13	TIME 426 433	2 hours
+T14	OTHER_COMPOUND 26 137	(S)-5-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one
+T15	TEMPERATURE 475 491	room temperature
+T16	OTHER_COMPOUND 611 617	Na2SO4
+T17	REACTION_PRODUCT 827 890	5-chloro-1-(4-methoxybenzyl)pyrimido[4,5-d]pyrimidine-4(1H)-one
+T18	OTHER_COMPOUND 723 727	SiO2
+T19	STARTING_MATERIAL 247 306	4-chloro-6-((4-methoxybenzyl)amino)pyrimidine-5-carboxamide
+T20	REAGENT_CATALYST 352 372	methanesulfonic acid
+T21	OTHER_COMPOUND 770 783	ethyl acetate
+T22	OTHER_COMPOUND 493 506	Ethyl acetate

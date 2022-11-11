@@ -1,0 +1,17 @@
+T16	GENE-Y 47 69	M2 muscarinic receptor
+T14	GENE-N 181 208	G protein-coupled receptors
+T15	GENE-N 223 243	muscarinic receptors
+T12	GENE-N 410 436	G protein-coupled receptor
+T7	CHEMICAL 491 492	C
+T13	GENE-Y 509 533	M(2) muscarinic receptor
+T8	CHEMICAL 602 613	fluorescein
+T9	CHEMICAL 926 939	acetylcholine
+T10	CHEMICAL 944 953	carbachol
+T1	CHEMICAL 1193 1202	gallamine
+T2	CHEMICAL 1207 1219	dimethyl-W84
+T3	CHEMICAL 1513 1522	gallamine
+T4	CHEMICAL 1527 1539	dimethyl-W84
+T5	CHEMICAL 1661 1670	gallamine
+T6	CHEMICAL 1675 1687	dimethyl-W84
+T11	GENE-Y 1753 1766	M(2) receptor
+R0	NOT Arg1:T5 Arg2:T11

@@ -1,0 +1,4 @@
+EXAMPLE 46
+5-benzyl-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione (compound 46)
+46.1: 5-benzyl-1H-pyrimidine-2,4-dione
+20 ml of benzene is added to a solution of 2 g (14 mmol) of 5-hydroxymethyl-1H-pyrimidine-2,4-dione in 40 ml of trifluoroacetic acid. The mixture is heated at 130° C. for 20 minutes in sealed tubes. After cooling, the solvents are evaporated and the residue is taken up in dichloromethane. The product precipitates; it is filtered and dried under vacuum. 2.4 g (84%) of 5-benzyl-1H-pyrimidine-2,4-dione is obtained in the form of a white solid.

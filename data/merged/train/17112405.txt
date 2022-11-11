@@ -1,0 +1,7 @@
+Cysteinyl leukotriene receptor 1 is involved in N-methyl-D-aspartate-mediated neuronal injury in mice.
+AIM: To determine whether cysteinyl leukotriene receptor 1 (CysLT1 receptor) is involved in N-methyl-D-aspartate (NMDA)-induced excitotoxic injury in the mouse brain.
+METHODS: Brain injury was induced by NMDA microinjection (50-150 nmol in 0.5 microL) into the cerebral cortex.
+The changes in CysLT1 receptor expression 24 h after NMDA injection and the effects of a CysLT1 receptor antagonist, pranlukast (0.01 and 0.1 mg/kg), an NMDA receptor antagonist, ketamine (30 mg/kg), and an antioxidant, edaravone (9 mg/kg) were observed.
+RESULTS: In the NMDA-injured brain, the CysLT1 receptor mRNA, and protein expression were upregulated, and the receptor was mainly localized in the neurons and not in the astrocytes.
+Pranlukast, ketamine and edaravone decreased NMDA-induced injury; pranlukast (0.1 mg/kg) and ketamine inhibited the upregulated expression of the CysLT1 receptor.
+CONCLUSION: CysLT1 receptor expression in neurons is upregulated after NMDA injection, and NMDA-induced responses are inhibited by CysLT1 receptor antagonists, indicating that the increased CysLT1 receptor is involved in NMDA excitotoxicity.

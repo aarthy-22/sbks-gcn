@@ -1,0 +1,31 @@
+T16	CHEMICAL 0 12	Caffeic acid
+T17	CHEMICAL 48 66	adenine nucleotide
+T6	CHEMICAL 158 170	caffeic acid
+T25	GENE-N 210 217	NTPDase
+T15	CHEMICAL 219 242	nucleoside triphosphate
+T26	GENE-N 219 261	nucleoside triphosphate diphosphohydrolase
+T19	GENE-N 264 319	Ecto-NPP (nucleotide pyrophosphatase/phosphodiesterase)
+T4	CHEMICAL 274 284	nucleotide
+T20	GENE-Y 321 336	5'-nucleotidase
+T5	CHEMICAL 341 350	adenosine
+T21	GENE-Y 341 360	adenosine deaminase
+T22	GENE-Y 362 365	ADA
+T7	CHEMICAL 523 535	caffeic acid
+T8	CHEMICAL 550 562	caffeic acid
+T9	CHEMICAL 580 592	caffeic acid
+T10	CHEMICAL 630 642	caffeic acid
+T11	CHEMICAL 684 696	caffeic acid
+T12	CHEMICAL 711 714	ATP
+T13	CHEMICAL 740 743	ADP
+T23	GENE-N 864 869	E-NPP
+T24	GENE-Y 874 877	ADA
+T14	CHEMICAL 959 971	Caffeic acid
+T27	GENE-N 1111 1118	NTPDase
+T18	GENE-Y 1123 1126	ADA
+T1	CHEMICAL 1180 1192	caffeic acid
+T2	CHEMICAL 1300 1312	caffeic acid
+T3	CHEMICAL 1382 1394	caffeic acid
+R0	CPR-3 Arg1:T1 Arg2:T18
+R1	NOT Arg1:T6 Arg2:T21
+R2	NOT Arg1:T26 Arg2:T5
+R3	NOT Arg1:T4 Arg2:T21

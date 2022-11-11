@@ -1,0 +1,32 @@
+T28	GENE-Y 14 19	c-fms
+T10	CHEMICAL 23 31	imatinib
+T1	CHEMICAL 70 78	Imatinib
+T13	GENE-N 94 117	protein tyrosine kinase
+T4	CHEMICAL 102 110	tyrosine
+T11	GENE-Y 237 240	bcr
+T12	GENE-Y 241 244	abl
+T3	CHEMICAL 293 296	ATP
+T14	GENE-N 317 330	kinase domain
+T15	GENE-Y 334 337	bcr
+T16	GENE-Y 338 341	abl
+T17	GENE-Y 370 375	c-abl
+T18	GENE-Y 377 416	platelet derived growth factor receptor
+T19	GENE-Y 418 423	PDGFR
+T20	GENE-Y 426 429	abl
+T21	GENE-Y 447 472	stem cell factor receptor
+T22	GENE-Y 474 479	c-kit
+T23	GENE-N 481 505	protein tyrosine kinases
+T5	CHEMICAL 489 497	tyrosine
+T24	GENE-Y 535 540	c-kit
+T6	CHEMICAL 546 554	imatinib
+T7	CHEMICAL 668 676	imatinib
+T25	GENE-N 707 752	macrophage colony stimulating factor receptor
+T26	GENE-Y 754 759	c-fms
+T8	CHEMICAL 911 919	imatinib
+T9	CHEMICAL 956 964	imatinib
+T27	GENE-Y 1019 1024	c-fms
+T2	CHEMICAL 1161 1169	imatinib
+R0	CPR-2 Arg1:T3 Arg2:T16
+R1	CPR-4 Arg1:T6 Arg2:T24
+R2	NOT Arg1:T17 Arg2:T5
+R3	NOT Arg1:T18 Arg2:T5

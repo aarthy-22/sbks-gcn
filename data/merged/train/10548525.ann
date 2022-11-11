@@ -1,0 +1,40 @@
+T32	GENE-Y 51 99	peroxisome proliferator-activated receptor gamma
+T8	CHEMICAL 105 118	rosiglitazone
+T9	CHEMICAL 120 129	BRL 49653
+T4	CHEMICAL 200 218	thiazolidinediones
+T2	CHEMICAL 272 285	rosiglitazone
+T3	CHEMICAL 394 407	Rosiglitazone
+T11	GENE-Y 434 471	p85alphaphosphatidylinositol 3-kinase
+T12	GENE-Y 473 486	p85alphaPI-3K
+T13	GENE-Y 492 512	uncoupling protein-2
+T14	GENE-Y 539 545	leptin
+T15	GENE-Y 577 593	insulin receptor
+T16	GENE-Y 595 600	IRS-1
+T17	GENE-Y 602 608	Glut 4
+T18	GENE-Y 610 628	lipoprotein lipase
+T19	GENE-Y 630 654	hormone-sensitive lipase
+T20	GENE-Y 656 685	acylation-stimulating protein
+T5	CHEMICAL 687 697	fatty acid
+T21	GENE-Y 687 717	fatty acid transport protein-1
+T22	GENE-Y 719 734	angiotensinogen
+T23	GENE-Y 736 769	plasminogen activator inhibitor-1
+T24	GENE-N 775 796	PPARgamma1 and gamma2
+T6	CHEMICAL 818 831	rosiglitazone
+T25	GENE-N 857 860	RXR
+T26	GENE-Y 877 886	PPARgamma
+T7	CHEMICAL 907 920	rosiglitazone
+T27	GENE-Y 940 953	p85alphaPI-3K
+T28	GENE-Y 958 962	UCP2
+T29	GENE-Y 1018 1024	Glut 4
+T30	GENE-Y 1045 1058	p85alphaPI-3K
+T31	GENE-Y 1083 1090	insulin
+T10	GENE-Y 1168 1175	insulin
+T1	CHEMICAL 1202 1220	thiazolidinediones
+R0	CPR-3 Arg1:T9 Arg2:T32
+R1	CPR-3 Arg1:T3 Arg2:T11
+R2	CPR-4 Arg1:T3 Arg2:T14
+R3	CPR-3 Arg1:T7 Arg2:T29
+R4	NOT Arg1:T16 Arg2:T5
+R5	NOT Arg1:T18 Arg2:T5
+R6	NOT Arg1:T19 Arg2:T5
+R7	NOT Arg1:T30 Arg2:T1

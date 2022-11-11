@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 8 10	19
+T2	REACTION_PRODUCT 12 107	(R)-3-((3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-yl)sulfonyl)benzonitrile
+T3	STARTING_MATERIAL 119 188	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T4	OTHER_COMPOUND 264 279	dichloromethane
+T5	OTHER_COMPOUND 281 287	CH2Cl2
+T6	STARTING_MATERIAL 307 338	3-cyanobenzenesulfonyl chloride
+T7	REAGENT_CATALYST 409 434	N,N-diisopropylethylamine
+T8	TEMPERATURE 455 471	room temperature
+T9	TIME 482 488	1 hour
+T10	OTHER_COMPOUND 628 632	MeOH
+T11	OTHER_COMPOUND 633 641	CH2Cl2=0
+T12	YIELD_OTHER 765 772	88.6 mg
+T13	REACTION_PRODUCT 776 871	(R)-3-((3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-yl)sulfonyl)benzonitrile
+T14	YIELD_PERCENT 907 912	72.4%

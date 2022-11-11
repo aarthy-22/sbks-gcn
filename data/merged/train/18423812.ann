@@ -1,0 +1,27 @@
+T23	GENE-Y 39 44	renin
+T24	GENE-Y 45 56	angiotensin
+T10	CHEMICAL 57 68	aldosterone
+T19	GENE-Y 183 188	renin
+T20	GENE-Y 189 200	angiotensin
+T6	CHEMICAL 201 212	aldosterone
+T2	CHEMICAL 356 367	aldosterone
+T12	GENE-Y 356 376	aldosterone receptor
+T15	GENE-Y 394 423	angiotensin-converting enzyme
+T17	GENE-Y 425 428	ACE
+T5	CHEMICAL 444 458	angiotensin II
+T18	GENE-Y 444 481	angiotensin II type 1 (AT-1) receptor
+T21	GENE-Y 570 573	ACE
+T22	GENE-Y 928 931	ACE
+T7	CHEMICAL 942 952	cilazapril
+T8	CHEMICAL 969 979	telmisarta
+T9	CHEMICAL 1007 1026	hydrochlorothiazide
+T1	CHEMICAL 1215 1229	spironolactone
+T11	GENE-Y 2158 2189	N-acetyl-beta-d-glucosaminidase
+T13	GENE-N 2234 2254	type III procollagen
+T3	CHEMICAL 2296 2305	Potassium
+T4	CHEMICAL 2579 2590	aldosterone
+T14	GENE-Y 2579 2599	aldosterone receptor
+T16	GENE-Y 2655 2658	ACE
+R0	NOT Arg1:T24 Arg2:T10
+R1	NOT Arg1:T2 Arg2:T15
+R2	NOT Arg1:T15 Arg2:T5

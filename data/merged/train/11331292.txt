@@ -1,0 +1,9 @@
+Phe-308 and Phe-312 in transmembrane domain 7 are major sites of alpha 1-adrenergic receptor antagonist binding.
+Imidazoline agonists bind like antagonists.
+Although agonist binding in adrenergic receptors is fairly well understood and involves residues located in transmembrane domains 3 through 6, there are few residues reported that are involved in antagonist binding.
+In fact, a major docking site for antagonists has never been reported in any G-protein coupled receptor.
+It has been speculated that antagonist binding is quite diverse depending upon the chemical structure of the antagonist, which can be quite different from agonists.
+We now report the identification of two phenylalanine residues in transmembrane domain 7 of the alpha(1a)-adrenergic receptor (Phe-312 and Phe-308) that are a major site of antagonist affinity.
+Mutation of either Phe-308 or Phe-312 resulted in significant losses of affinity (4-1200-fold) for the antagonists prazosin, WB4101, BMY7378, (+) niguldipine, and 5-methylurapidil, with no changes in affinity for phenethylamine-type agonists such as epinephrine, methoxamine, or phenylephrine.
+Interestingly, both residues are involved in the binding of all imidazoline-type agonists such as oxymetazoline, cirazoline, and clonidine, confirming previous evidence that this class of ligand binds differently than phenethylamine-type agonists and may be more antagonist-like, which may explain their partial agonist properties.
+In modeling these interactions with previous mutagenesis studies and using the current backbone structure of rhodopsin, we conclude that antagonist binding is docked higher in the pocket closer to the extracellular surface than agonist binding and appears skewed toward transmembrane domain 7.

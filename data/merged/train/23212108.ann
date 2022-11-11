@@ -1,0 +1,10 @@
+T1	CHEMICAL 394 398	5-HT
+T3	GENE-Y 394 402	5-HT(1F)
+T4	GENE-N 422 453	calcitonin gene-related peptide
+T5	GENE-N 455 459	CGRP
+T2	CHEMICAL 474 486	nitric oxide
+T6	GENE-N 474 497	nitric oxide synthetase
+T7	GENE-N 514 525	ion channel
+T8	GENE-N 593 597	CGRP
+R0	NOT Arg1:T5 Arg2:T2
+R1	NOT Arg1:T2 Arg2:T7

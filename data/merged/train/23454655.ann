@@ -1,0 +1,19 @@
+T7	CHEMICAL 392 406	deoxynivalenol
+T8	CHEMICAL 408 430	3-acetyldeoxynivalenol
+T9	CHEMICAL 432 455	15-acetyldeoxynivalenol
+T10	CHEMICAL 457 468	zearalenone
+T11	CHEMICAL 470 482	α-zearalenol
+T12	CHEMICAL 484 496	β-zearalenol
+T13	CHEMICAL 498 507	T-2-toxin
+T14	CHEMICAL 509 519	HT-2-toxin
+T15	CHEMICAL 567 593	deoxynivalenol-3-glucoside
+T16	CHEMICAL 595 618	zearalenone-4-glucoside
+T17	CHEMICAL 620 644	α-zearalenol-4-glucoside
+T18	CHEMICAL 646 670	β-zearalenol-4-glucoside
+T19	CHEMICAL 675 696	zearalenone-4-sulfate
+T1	CHEMICAL 1132 1146	deoxynivalenol
+T2	CHEMICAL 1160 1171	zearalenone
+T3	CHEMICAL 1200 1218	HT-2-and T-2-toxin
+T4	CHEMICAL 1430 1444	deoxynivalenol
+T5	CHEMICAL 1446 1457	zearalenone
+T6	CHEMICAL 1473 1491	T-2 and HT-2 toxin

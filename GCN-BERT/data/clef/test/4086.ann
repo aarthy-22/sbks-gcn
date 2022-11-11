@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 8 10	59
+T2	REACTION_PRODUCT 11 105	7-(Cyclopropylmethyl)-1-((3-isopropylisoxazol-5-yl)methyl)-3-methyl-1H-purine-2,6(3H,7H)-dione
+T3	EXAMPLE_LABEL 111 112	1
+T4	REACTION_PRODUCT 113 207	7-(Cyclopropylmethyl)-1-((3-isopropylisoxazol-5-yl)methyl)-3-methyl-1H-purine-2,6(3H,7H)-dione
+T5	STARTING_MATERIAL 208 245	5-(Chloromethyl)-3-isopropylisoxazole
+T6	STARTING_MATERIAL 269 326	7-(cyclopropylmethyl)-3-methyl-1H-purine-2,6(3H,7H)-dione
+T7	REAGENT_CATALYST 350 366	potassium iodide
+T8	REAGENT_CATALYST 392 411	potassium carbonate
+T9	SOLVENT 460 481	N,N-dimethylformamide
+T10	TEMPERATURE 517 522	120°C
+T11	TIME 539 546	3 hours
+T12	TEMPERATURE 584 588	20°C
+T13	REACTION_PRODUCT 640 734	7-(cyclopropylmethyl)-1-((3-isopropylisoxazol-5-yl)methyl)-3-methyl-1H-purine-2,6(3H,7H)-dione
+T14	YIELD_OTHER 736 743	50.0 mg
+T15	YIELD_PERCENT 761 764	31%

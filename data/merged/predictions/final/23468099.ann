@@ -1,0 +1,14 @@
+T1	CHEMICAL 56 63	choline
+T13	GENE 56 81	choline acetyltransferase
+T14	GENE 83 115	78-kDa glucose-regulated protein
+T2	CHEMICAL 90 97	glucose
+T12	GENE 121 178	CCAAT/enhancer-binding protein (C/EBP) homologous protein
+T9	GENE 478 482	Chat
+T10	GENE 484 489	Grp78
+T11	GENE 495 499	chop
+T3	GENE 1303 1308	Grp78
+T4	GENE 1313 1317	chop
+T5	GENE 1485 1490	Grp78
+T6	GENE 1495 1499	chop
+T7	GENE 1704 1709	Grp78
+T8	GENE 1714 1718	chop

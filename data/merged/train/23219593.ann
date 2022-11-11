@@ -1,0 +1,23 @@
+T4	CHEMICAL 0 18	4-tert-Octylphenol
+T22	GENE-N 48 58	cathepsins
+T5	CHEMICAL 142 150	estrogen
+T21	GENE-Y 142 159	estrogen receptor
+T3	CHEMICAL 279 286	steroid
+T20	GENE-N 279 303	steroid hormone receptor
+T15	GENE-N 430 440	Cathepsins
+T16	GENE-N 445 454	proteases
+T17	GENE-N 571 581	cathepsins
+T1	CHEMICAL 682 700	4-tert-octylphenol
+T18	GENE-N 742 760	cathepsins B and D
+T2	CHEMICAL 901 904	MTT
+T19	GENE-N 943 961	cathepsins B and D
+T6	GENE-N 1194 1212	cathepsins B and D
+T7	GENE-N 1306 1316	cathepsins
+T8	GENE-Y 1331 1333	ER
+T9	GENE-Y 1374 1376	ER
+T10	GENE-Y 1411 1414	ERα
+T11	GENE-Y 1573 1575	ER
+T12	GENE-Y 1788 1799	cathepsin B
+T13	GENE-N 2048 2066	cathepsins B and D
+T14	GENE-Y 2075 2077	ER
+R0	NOT Arg1:T1 Arg2:T18

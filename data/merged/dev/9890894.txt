@@ -1,0 +1,11 @@
+Common and specific determinants for fibroblast growth factors in the ectodomain of the receptor kinase complex.
+The assembly and activation of oligomeric complexes of FGF, the transmembrane receptor kinase (FGFR), and heparan sulfate transmit intracellular signals regulating growth and function of cells.
+An understanding of the structural relationships between the three subunits and their redundancy and specificity is essential for understanding the ubiquitous FGF signaling system in health and disease.
+Previously, we reported that a primary heparin or heparan sulfate binding site resides in a distinct sequence in immunoglobulin (Ig)-like module II of the three modules of FGFR.
+Here we report that in the absence of flanking sequences, isolated Ig module II of FGFR1 supports the binding of FGF-1, FGF-2, and FGF-7 in respective order of affinity.
+None of the three FGFs detectably bind Ig module I or the IIIb and IIIc splice variants of Ig module III in the absence of flanking sequences.
+Ig module I and the C-terminus of Ig module III are dispensable for high-affinity binding of FGF-1, FGF-2, and FGF-7.
+Alterations in highly conserved Ig module II in the heparin binding domain and substitution of individual sequence domains spanning the entire sequence of Ig module II with those from Ig module I obliterated FGF binding.
+Addition of a specific number of FGFR sequences to the C-terminus of Ig module II resulted in a gain in affinity for FGF-7.
+Several site-specific alterations in the C-terminus of full-length FGFR1IIIc, an isoform that otherwise absolutely rejects FGF-7, resulted in gain of FGF-7 binding.
+These results suggest that a complex of Ig module II and heparan sulfate is the base common active core of the FGFR ectodomain and that flanking structural domains modify FGF affinity and determine specificity.

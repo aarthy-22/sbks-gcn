@@ -1,0 +1,16 @@
+Ligand binding specificities of the eight types and subtypes of the mouse prostanoid receptors expressed in Chinese hamster ovary cells.
+1. Eight types and subtypes of the mouse prostanoid receptor, the prostaglandin D (DP) receptor, the prostaglandin F (FP) receptor, the prostaglandin I (IP) receptor, the thromboxane A (TP) receptor and the EP1, EP2, EP3 and EP4 subtypes of the prostaglandin E receptor, were stably expressed in Chinese hamster ovary cells.
+Their ligand binding characteristics were examined with thirty two prostanoids and their analogues by determining the Ki values from the displacement curves of radioligand binding to the respective receptors.
+2.
+The DP, IP and TP receptors showed high ligand binding specificity and only bound their own putative ligands with high affinity such as PGD2, BW245C and BW868C for DP, cicaprost, iloprost and isocabacyclin for IP, and S-145, I-BOP and GR 32191 for TP.
+3.
+The FP receptor bound PGF2 alpha and fluprostenol with Ki values of 3-4 nM. In addition, PGD2, 17-phenyl-PGE2, STA2, I-BOP, PGE2 and M&B-28767 bound to this receptor with Ki values less than 100 nM. 4.
+The EP1 receptor bound 17-phenyl-PGE2, sulprostone and iloprost in addition to PGE2 and PGE1, with Ki values of 14-36 nM. 16,16-dimethyl-PGE2 and two putative EP1 antagonists, AH6809 and SC-19220, did not show any significant binding to this receptor.
+M&B-28767, a putative EP3 agonist, and misoprostol, a putative EP2/EP3 agonist, also bound to this receptor with Ki values of 120 nM. 5.
+The EP2 and EP4 receptors showed similar binding profiles.
+They bound 16,16-dimethyl PGE2 and 11-deoxy-PGE1 in addition to PGE2 and PGE1.
+The two receptors were discriminated by butaprost, AH-13205 and AH-6809 that bound to the EP2 receptor but not to the EP4 receptor, and by 1-OH-PGE1 that bound to the EP4 but not to the EP2 receptor.
+6.
+The EP3 receptor showed the broadest binding profile, and bound sulprostone, M&B-28767, GR63799X, 11-deoxy-PGE1, 16,16-dimethyl-PGE2 and 17-phenyl-PGE2, in addition to PGE2 and PGE1, with Ki values of 0.6-3.7 nM. In addition, three IP ligands, iloprost, carbacyclin and isocarbacyclin, and one TP ligand, STA2, bound to this receptor with Ki values comparable to the Ki values of these compounds for the IP and TP receptors, respectively.
+7.
+8-Epi-PGF2 alpha showed only weak binding to the IP, TP, FP, EP2 and EP3 receptor at 10 microM concentration.

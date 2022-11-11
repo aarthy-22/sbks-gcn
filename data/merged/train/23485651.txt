@@ -1,0 +1,11 @@
+Cadmium telluride quantum dots cause oxidative stress leading to extrinsic and intrinsic apoptosis in hepatocellular carcinoma HepG2 cells.
+The mechanisms of toxicity related to human hepatocellular carcinoma HepG2 cell exposures to cadmium telluride quantum dots (CdTe-QDs) were investigated.
+CdTe-QDs caused cytotoxicity in HepG2 cells in a dose- and time-dependent manner.
+Treated cells showed an increase in reactive oxygen species (ROS).
+Altered antioxidant levels were demonstrated by depletion of reduced glutathione (GSH), a decreased ratio of reduced glutathione to oxidized glutathione (GSH/GSSG) and an increased NF-E2-related Factor 2 (Nrf2) activation.
+Enzyme assays showed that superoxide dismutase (SOD) activity was elevated whereas catalase (CAT) and glutathione-S-transferase (GST) activities were depressed.
+Further analyses revealed that CdTe-QD exposure resulted in apoptosis, indicated by changes in levels of caspase-3 activity, poly ADP-ribose polymerase (PARP) cleavage and phosphatidylserine externalization.
+Extrinsic apoptotic pathway markers such as Fas levels and caspase-8 activity increased as a result of CdTe-QD exposure.
+Involvement of the intrinsic/mitochondrial apoptotic pathway was indicated by decreased levels of B-cell lymphoma 2 (Bcl2) protein and mitochondrial cytochrome c, and by increased levels of mitochondrial Bcl-2-associated X protein (Bax) and cytosolic cytochrome c. Further, mitogen-activated protein kinases (MAPKs) such as c-Jun N-terminal kinases (JNK), extracellular signal-regulated kinases (Erk1/2), and p38 were all activated.
+Our findings reveal that CdTe-QDs cause oxidative stress, interfere with antioxidant defenses and activate protein kinases, leading to apoptosis via both extrinsic and intrinsic pathways.
+Since the effects of CdTe-QDs on selected biomarkers were similar or greater compared to those of CdCl2 at equivalent concentrations of cadmium, the study suggests that the toxicity of CdTe-QDs arises from a combination of the effects of cadmium and ROS generated from the NPs.

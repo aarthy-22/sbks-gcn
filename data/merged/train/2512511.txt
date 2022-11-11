@@ -1,0 +1,9 @@
+G protein dependent alterations in [125I]iodocyanopindolol and +/- cyanopindolol binding at 5-HT1B binding sites in rat brain membranes.
+Several manipulations that affect G protein/receptor coupling also alter the binding of [125I]iodocyanopindolol ([125I]ICYP) and [corrected] +/- cyanopindolol (+/- CYP) to rat brain 5-HT1B binding sites in radioligand binding assays.
+Inclusion of 5 mM MgSO4 in these assays results in a small but significant increase in the affinity of [125I]ICYP (from KD = 0.046 nM to KD = 0.037 nM).
+In contrast, 100 microM Gpp(NH)p, GTP, or GDP reduce [125I]ICYP affinity (KD = 0.056 nM with GTP) while ATP and GMP are less effective. +/-
+CYP affinity for 5-HT1B sites labeled by [3H]dihydroergotamine [( 3H]DE) also displays a small but significant reduction (from Ki = 1.4 nM to Ki = 3.5nM) by the inclusion of 100 microM GTP.
+Pre-treatment of the brain membranes with N-ethylmaleimide (NEM) in concentrations known to inactivate many G proteins reduces 5-HT1B specific binding of [125I]ICYP.
+The NEM induced reduction in [125I]ICYP binding can be reversed by reconstitution with purified exogenous G proteins (Go and Gi), demonstrating directly that high affinity binding of [125I]ICYP to 5-HT1B sites is dependent on G proteins.
+The effects of Mg2+ ion, guanine nucleotides, NEM and G protein reconstitution on [125I]ICYP and +/- CYP binding are all hallmarks of agonist binding to G protein linked receptors.
+The effect of GTP, however, is quantitatively much less for the binding of these pindolol derivatives than for the binding of 5-HT, a presumed full agonist at 5-HT1B sites.(ABSTRACT TRUNCATED AT 250 WORDS)

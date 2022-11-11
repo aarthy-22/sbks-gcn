@@ -1,0 +1,11 @@
+Troglitazone reduces plasminogen activator inhibitor-1 expression and secretion in cultured human adipocytes.
+AIMS/HYPOTHESIS: Increased plasma plasminogen activator inhibitor-1 (PAI-1) concentrations are characteristic for subjects with insulin resistance and could contribute to the increased cardiovascular risk in this state.
+In this study, we investigated the effect of troglitazone, a ligand of the nuclear receptor peroxisome proliferator activated receptor-gamma, on PAI-1 expression and secretion in human adipocytes.
+METHODS: We used two models: in vitro differentiated subcutaneous and omental adipocytes cultured under serum-free conditions and isolated subcutaneous and omental fat cells kept in suspension culture.
+Plasminogen activator inhibitor-1 protein was measured by ELISA, PAI-1 mRNA by a semiquantitative RT-PCR technique.
+RESULTS: Exposure of in vitro differentiated subcutaneous adipocytes from young normal-weight females to 1 microgram/ml troglitazone for 72 h caused a reduction of both PAI-1 secretion (by 29 +/- 5%; p < 0.01) and PAI-1 mRNA expression (by 26 +/- 3%; p < 0.05).
+In cultures from severely obese subjects, troglitazone induced a decrease of PAI-1 antigen secretion from newly differentiated omental adipocytes by 49 +/- 8% (p < 0.01) and from subcutaneous adipocytes by 30 +/-
+7% (p < 0.05).
+Exposure of freshly isolated subcutaneous and omental adipocytes in suspension culture to troglitazone induced a similar reduction of PAI-1 concentration in the culture medium (by 35 +/- 11%, p < 0.05, and 33 +/- 8%, p < 0.05 compared with control, respectively).
+CONCLUSION/INTERPRETATION: This study provides evidence that troglitazone reduces PAI-1 production in human adipocytes, probably at the transcriptional level.
+This observation could point to a new beneficial effect of troglitazone, particularly in obese subjects, which could be associated with a reduced cardiovascular risk.

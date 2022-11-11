@@ -1,0 +1,8 @@
+Glutamate stimulates glutamate receptor interacting protein 1 degradation by ubiquitin-proteasome system to regulate surface expression of GluR2.
+The glutamate receptor interacting protein 1 (GRIP1) is a scaffolding protein in postsynaptic density (PSD), tethering AMPA receptors to other signaling proteins.
+Here we report that glutamate stimulation caused a rapid reduction in protein levels of GRIP1, but not that of glutamate receptor (GluR) 1, GluR2 and protein interacting with C kinase 1 (PICK1) in rat primary cortical neuron cultures.
+Down-regulation of GRIP1 by glutamate was blocked by carbobenzoxyl-leucinyl-leucinyl-leucinal (MG132), a proteasome inhibitor and by expression of K48R-ubiquitin, a dominant negative form of ubiquitin.
+The GRIP1 reduction was inhibited by MK-801, an N-methyl-d-aspartate (NMDA) receptor antagonist, but not by 6-cyano-7-nitroquinoxaline-2,3-dione (CNQX), an AMPA receptor antagonist.
+EGTA and 1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetra acetic acid tetrakis (BAPTA), two Ca2+ chelators, but not nifedipine, an L-type Ca2+ channel blocker, prevented GRIP1 degradation.
+Furthermore, MG132 prevented glutamate-stimulated reduction in surface amount of GluR2, and knockdown of GRIP1 by RNAi against GRIP1 reduced surface GluR2 in neurons.
+Our results suggest that glutamate induces GRIP1 degradation by proteasome through an NMDA receptor-Ca2+ pathway and that GRIP1 degradation may play an important role in regulating GluR2 surface expression.

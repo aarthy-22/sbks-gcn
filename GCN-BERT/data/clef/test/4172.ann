@@ -1,0 +1,11 @@
+T1	EXAMPLE_LABEL 1 2	2
+T2	REACTION_PRODUCT 19 133	(2S,5R)-N-(2-cyclopropyl-2-azaspiro[3.3]heptan-6-yl)-6-hydroxyl-7-oxo-1,6-diazabicyclo[3.2 .1]octane-2-carboxamide
+T3	STARTING_MATERIAL 134 255	(2S,5R)-6-(phenylmethoxy)-N-(2-cyclopropyl-2-azaspiro[3.3]heptan-6-yl)-7-oxo-1,6-dia zabicyclo[3.2.1]octane-2-carboxamide
+T4	SOLVENT 292 300	methanol
+T5	REAGENT_CATALYST 310 314	Pd/C
+T6	TEMPERATURE 357 361	25°C
+T7	OTHER_COMPOUND 379 387	hydrogen
+T8	TIME 396 399	16h
+T9	REACTION_PRODUCT 439 453	title compound
+T10	YIELD_OTHER 474 479	0.6 g
+T11	YIELD_PERCENT 487 492	96.8%

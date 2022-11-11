@@ -1,0 +1,27 @@
+T24	GENE-Y 20 39	beta 3-adrenoceptor
+T21	GENE-N 148 165	beta-adrenoceptor
+T6	CHEMICAL 234 250	(-)-Isoprenaline
+T20	GENE-Y 273 293	beta(3)-adrenoceptor
+T7	CHEMICAL 303 409	(+/-)-[4-[3-[(1,1-dimethylethyl)amino]-2-hydroxypropoxy]-1,3-dihydro-2H-benzimida zol-2-one] hydrochloride
+T8	CHEMICAL 411 426	(+/-)-CGP12177A
+T9	CHEMICAL 475 492	(-)-phenylephrine
+T10	CHEMICAL 577 718	(+/-)-2-hydroxy-5-[2-[[2-hydroxy-3-[4-[1-methyl-4-(trifluoromethyl)-1H-imidazol-2 -yl]phenoxy]propyl]amino]ethoxy]-benzamide methanesulfonate
+T11	CHEMICAL 720 729	CGP20712A
+T22	GENE-Y 743 763	beta(1)-adrenoceptor
+T12	CHEMICAL 780 879	(+/-)-1-[2,3-(dihydro-7-methyl-1H-inden-4-yl)oxy]-3-[(1-methylethyl)amino]-2-buta nol hydrochloride
+T13	CHEMICAL 881 893	ICI-118,5511
+T23	GENE-Y 907 927	beta(2)-adrenoceptor
+T14	CHEMICAL 1037 1053	(-)-isoprenaline
+T15	CHEMICAL 1094 1109	(+/-)-CGP12177A
+T16	GENE-N 1144 1178	beta(1)- and beta(2)-adrenoceptors
+T1	CHEMICAL 1199 1208	CGP20712A
+T2	CHEMICAL 1213 1224	ICI-118,551
+T3	CHEMICAL 1286 1302	(-)-isoprenaline
+T4	CHEMICAL 1307 1322	(+/-)-CGP12177A
+T17	GENE-N 1367 1410	beta(1)-, beta(2)- and beta(3)-adrenoceptor
+T5	CHEMICAL 1423 1439	(+/-)-bupranolol
+T18	GENE-Y 1494 1515	beta(3)-adrenoceptors
+T19	GENE-N 1532 1549	beta-adrenoceptor
+R0	CPR-6 Arg1:T12 Arg2:T23
+R1	NOT Arg1:T6 Arg2:T20
+R2	NOT Arg1:T23 Arg2:T14

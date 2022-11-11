@@ -1,0 +1,10 @@
+Conversion of acetylcholinesterase to butyrylcholinesterase: modeling and mutagenesis.
+Torpedo acetylcholinesterase (AcChoEase, EC 3.1.1.7) and human butyrylcholinesterase (BtChoEase, EC 3.1.1.8), while clearly differing in substrate specificity and sensitivity to inhibitors, possess 53% sequence homology; this permitted modeling human BtChoEase on the basis of the three-dimensional structure of Torpedo AcChoEase.
+The modeled BtChoEase structure closely resembled that of AcChoEase in overall features.
+However, six conserved aromatic residues that line the active-site gorge, which is a prominent feature of the AcChoEase structure, are absent in BtChoEase.
+Modeling showed that two such residues, Phe-288 and Phe-290, replaced by leucine and valine, respectively, in BtChoEase, may prevent entrance of butyrylcholine into the acyl-binding pocket.
+Their mutation to leucine and valine in AcChoEase, by site-directed mutagenesis, produced a double mutant that hydrolyzed butyrylthiocholine almost as well as acetylthiocholine.
+The mutated enzyme was also inhibited well by the bulky, BtChoEase-selective organophosphate inhibitor (tetraisopropylpyrophosphoramide, iso-OMPA).
+Trp-279, at the entrance of the active-site gorge in AcChoEase, is absent in BtChoEase.
+Modeling designated it as part of the "peripheral" anionic site, which is lacking in BtChoEase.
+The mutant W279A displayed strongly reduced inhibition by the peripheral site-specific ligand propidium relative to wild-type Torpedo AcChoEase, whereas inhibition by the catalytic-site inhibitor edrophonium was unaffected.

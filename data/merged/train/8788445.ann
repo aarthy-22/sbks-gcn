@@ -1,0 +1,18 @@
+T10	CHEMICAL 0 15	(-)-Pentazocine
+T16	GENE-N 55 69	sigma receptor
+T1	CHEMICAL 78 93	(-)-Pentazocine
+T2	CHEMICAL 243 254	haloperidol
+T11	GENE-Y 361 378	sigma 1 receptors
+T3	CHEMICAL 412 427	(+)-Pentazocine
+T4	CHEMICAL 492 503	haloperidol
+T5	CHEMICAL 530 545	(-)-pentazocine
+T6	CHEMICAL 570 589	nor-binaltorphimine
+T12	GENE-Y 606 634	mu-selective opioid receptor
+T7	CHEMICAL 646 665	beta-funaltrexamine
+T13	GENE-Y 678 701	kappa 1-opioid receptor
+T8	CHEMICAL 780 801	oligodeoxynucleotides
+T14	GENE-Y 823 828	KOR-1
+T15	GENE-Y 854 877	kappa 1-opioid receptor
+T9	CHEMICAL 888 903	(-)-pentazocine
+R0	CPR-6 Arg1:T7 Arg2:T12
+R1	NOT Arg1:T15 Arg2:T9

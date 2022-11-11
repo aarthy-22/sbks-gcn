@@ -1,0 +1,62 @@
+T34	CHEMICAL 0 10	Penicillin
+T54	GENE-N 0 27	Penicillin-binding proteins
+T35	CHEMICAL 40 52	amdinocillin
+T11	CHEMICAL 102 113	penicillins
+T14	CHEMICAL 269 279	penicillin
+T40	GENE-N 269 296	penicillin-binding proteins
+T22	CHEMICAL 362 372	acrylamide
+T23	CHEMICAL 420 444	14C-labeled penicillin G
+T24	CHEMICAL 510 520	penicillin
+T42	GENE-N 510 544	penicillin-binding proteins 1 to 6
+T25	CHEMICAL 618 628	penicillin
+T43	GENE-N 618 646	penicillin-binding protein 1
+T26	CHEMICAL 670 680	penicillin
+T44	GENE-N 670 700	penicillin-binding protein 1Bs
+T45	GENE-N 704 732	peptidoglycan transpeptidase
+T27	CHEMICAL 738 748	penicillin
+T46	GENE-N 738 767	penicillin-binding protein 1A
+T28	CHEMICAL 801 811	penicillin
+T47	GENE-N 801 831	penicillin-binding protein 1Bs
+T29	CHEMICAL 833 843	Penicillin
+T48	GENE-N 833 861	Penicillin-binding protein 2
+T49	GENE-N 867 873	murein
+T30	CHEMICAL 907 917	penicillin
+T50	GENE-N 907 935	penicillin-binding protein 3
+T51	GENE-N 948 954	murein
+T31	CHEMICAL 976 986	Penicillin
+T52	GENE-N 976 1015	Penicillin-binding proteins 4, 5, and 6
+T32	CHEMICAL 1069 1080	penicillins
+T33	CHEMICAL 1084 1094	penicillin
+T53	GENE-N 1084 1114	penicillin-binding protein 1Bs
+T1	CHEMICAL 1142 1152	penicillin
+T36	GENE-N 1142 1170	penicillin-binding protein 2
+T2	CHEMICAL 1208 1218	penicillin
+T37	GENE-N 1208 1236	penicillin-binding protein 3
+T3	CHEMICAL 1262 1274	Amdinocillin
+T4	CHEMICAL 1280 1310	beta-amidino penicillanic acid
+T5	CHEMICAL 1349 1359	penicillin
+T38	GENE-N 1349 1377	penicillin-binding protein 2
+T39	GENE-N 1400 1414	beta-lactamase
+T6	CHEMICAL 1427 1437	ampicillin
+T7	CHEMICAL 1508 1519	penicillins
+T8	CHEMICAL 1521 1533	Amdinocillin
+T9	CHEMICAL 1602 1608	indole
+T10	CHEMICAL 1706 1718	Amdinocillin
+T12	CHEMICAL 1888 1899	penicillins
+T13	CHEMICAL 1909 1919	ampicillin
+T15	CHEMICAL 1921 1934	carbenicillin
+T16	CHEMICAL 1959 1973	cephalosporins
+T17	CHEMICAL 1975 1984	cefazolin
+T18	CHEMICAL 1986 1997	cefamandole
+T19	CHEMICAL 2002 2011	cefoxitin
+T41	GENE-N 2134 2147	peptidoglycan
+T20	CHEMICAL 2176 2188	Amdinocillin
+T21	CHEMICAL 2322 2334	beta-lactams
+R0	CPR-3 Arg1:T12 Arg2:T41
+R1	NOT Arg1:T23 Arg2:T42
+R2	NOT Arg1:T26 Arg2:T45
+R3	NOT Arg1:T26 Arg2:T47
+R4	NOT Arg1:T29 Arg2:T51
+R5	NOT Arg1:T48 Arg2:T30
+R6	NOT Arg1:T33 Arg2:T36
+R7	NOT Arg1:T33 Arg2:T37

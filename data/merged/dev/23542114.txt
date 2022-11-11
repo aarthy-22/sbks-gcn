@@ -1,0 +1,7 @@
+Arsenic trioxide depletes cancer stem-like cells and inhibits repopulation of neurosphere derived from glioblastoma by downregulation of Notch pathway.
+Notch signaling has been demonstrated to have a central role in cancer stem-like cells (CSLCs) in glioblastoma multiforme (GBM).
+We have recently demonstrated the inhibitory effect of arsenic trioxide (ATO) on CSLCs in glioblastoma cell lines.
+In this study we used neurosphere recovery assay that measured neurosphere formation at three time points to assess the capacity of the culture to repopulate after ATO treatment.
+Our results provided strong evidence that ATO depleted CSLCs in GBM, and inhibited neurosphere recovery and secondary neurosphere formation.
+ATO inhibited the phosphorylation and activation of AKT and STAT3 through Notch signaling blockade.
+These data show that the ATO is a promising new approach to decrease glioblastoma proliferation and recurrence by downregulation of Notch pathway.

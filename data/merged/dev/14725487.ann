@@ -1,0 +1,26 @@
+T14	CHEMICAL 0 12	Arformoterol
+T17	CHEMICAL 14 31	(R,R)-eformoterol
+T18	CHEMICAL 33 49	(R,R)-formoterol
+T19	CHEMICAL 51 72	arformoterol tartrate
+T20	CHEMICAL 74 85	eformoterol
+T21	CHEMICAL 96 106	formoterol
+T15	CHEMICAL 117 132	R,R-eformoterol
+T16	CHEMICAL 134 148	R,R-formoterol
+T8	CHEMICAL 183 195	arformoterol
+T9	CHEMICAL 197 211	R,R-formoterol
+T22	GENE 242 262	beta(2)-adrenoceptor
+T2	CHEMICAL 271 281	formoterol
+T4	CHEMICAL 283 294	eformoterol
+T7	CHEMICAL 453 465	arformoterol
+T10	CHEMICAL 742 756	levosalbutamol
+T11	CHEMICAL 761 773	arformoterol
+T12	CHEMICAL 817 829	arformoterol
+T13	CHEMICAL 958 970	arformoterol
+T1	CHEMICAL 1259 1271	arformoterol
+T3	CHEMICAL 1419 1431	arformoterol
+T5	CHEMICAL 1664 1676	arformoterol
+T6	CHEMICAL 1929 1941	arformoterol
+R0	CPR-5 Arg1:T2 Arg2:T22
+R1	CPR-5 Arg1:T4 Arg2:T22
+R2	NOT Arg1:T8 Arg2:T22
+R3	NOT Arg1:T9 Arg2:T22

@@ -1,0 +1,5 @@
+Intermediate 13
+6-cyclobutyl-2-methoxynicotinaldehyde
+Intermediate 13A
+6-bromo-3-(((tert-butyldimethylsilyl)oxy)methyl)-2-methoxypyridine
+(6-Bromo-2-methoxypyridin-3-yl)methanol (1.0 g, 4.59 mmol) in CH2Cl2 (20 mL) was treated with tert-butyldimethylsilyl chloride (TBDMS-C1, 0.829 g, 5.50 mmol) and imidazole (0.468 g, 6.88 mmol), and the reaction mixture was stirred overnight at room temperature. The mixture was then treated with a 5 mL CH3OH and stirred for a few minutes to quench leftover TBDMS-C1. The mixture was diluted with CH2Cl2 and washed twice with saturated aqueous NaHCO3 solution and once with brine. The organic layer was dried over Na2SO4, filtered, and concentrated in vacuo to provide the title compound 6-bromo-3-(((tert-butyldimethylsilyl)oxy)methyl)-2-methoxypyridine (1.453 g, 95% yield).

@@ -1,0 +1,11 @@
+Everolimus: the first approved product for patients with advanced renal cell cancer after sunitinib and/or sorafenib.
+Everolimus (RAD001, Afinitor((R)) Novartis) is the first oral inhibitor of mTOR (mammalian target of rapamycin) to reach the oncology clinic.
+Everolimus 10 mg daily achieves complete inhibition of its target at below the maximum tolerable dose for most patients.
+A phase III randomized placebo-controlled trial has examined the impact of everolimus in patients with clear cell renal cancers and progressive disease on or within 6 months of the VEGFR tyrosine kinase inhibitors sunitinib and/or sorafenib.
+The primary endpoint of progression-free survival was increased from median 1.9 to 4.9 months (hazard ratio 0.33, P < 0.001) and 25% were still progression-free after 10 months of everolimus therapy.
+There was a delay in time to decline of performance status and trends to improvement in quality of life, disease-related symptoms, and overall survival despite crossover of the majority of patients assigned to placebo.
+In 2009, everolimus was approved in the US and Europe as the only validated option for this indication.
+Toxicities are usually mild to moderate and can be managed with dose reduction or interruption if necessary.
+Opportunistic infections and non-infectious pneumonitis are seen as a class effect.
+Management of common practical management issues are discussed.
+Clinical trials are in progress to examine additional roles for everolimus in renal cancer, alone and in combination with other agents.

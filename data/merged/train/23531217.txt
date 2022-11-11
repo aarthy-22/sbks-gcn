@@ -1,0 +1,8 @@
+Study on medicinal chemistry of k203 in wistar rats and beagle dogs.
+K203 is an experimental bis-pyridinium mono-aldoxime type cholinesterase reactivator of potential use in organophosphate/ organophosphonate poisoning.
+Pharmacokinetics of K203 were examined in Wistar rats and beagle dogs using ion-pair HPLC.
+Serum and cerebrospinal fluid concentrations of K203 were determined using ion-pair reversedphase chromatography on octadecyl silica column.
+HPLC with ultraviolet detection was used for determination of serum concentration of K203 higher than 0.1 μg/mL while its low concentrations in cerebrospinal fluid required electrochemical detection (0.015 through 4 μg/mL range).
+In rats the serum levels of K203 followed zero order pharmacokinetics from 15 to 120 minutes post administration.
+Zero order pharmacokinetics was also observed in beagle dogs after low dose (15 μmol/kg) of K203 administration.
+High dose administration (250 μmol/kg) led to subsequent hindered elimination from both cerebrospinal fluid and serum.

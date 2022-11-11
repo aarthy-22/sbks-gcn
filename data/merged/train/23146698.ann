@@ -1,0 +1,22 @@
+T14	CHEMICAL 69 89	carbon tetrachloride
+T1	CHEMICAL 222 242	carbon tetrachloride
+T5	CHEMICAL 273 281	Methanol
+T6	CHEMICAL 480 486	CCl(4)
+T7	CHEMICAL 599 605	CCl(4)
+T15	GENE-N 669 688	serum transaminases
+T16	GENE-N 690 710	alkaline phosphatase
+T8	CHEMICAL 721 730	bilirubin
+T17	GENE-Y 854 862	catalase
+T9	CHEMICAL 864 874	superoxide
+T18	GENE-N 864 884	superoxide dismutase
+T10	CHEMICAL 889 908	reduced glutathione
+T11	CHEMICAL 963 978	malondialdehyde
+T12	CHEMICAL 995 1001	CCl(4)
+T13	CHEMICAL 1096 1102	CCl(4)
+T2	CHEMICAL 1303 1312	sweroside
+T3	CHEMICAL 1314 1326	swertiamarin
+T4	CHEMICAL 1331 1343	gentiopicrin
+R0	NOT Arg1:T7 Arg2:T15
+R1	NOT Arg1:T7 Arg2:T16
+R2	NOT Arg1:T16 Arg2:T8
+R3	NOT Arg1:T18 Arg2:T10

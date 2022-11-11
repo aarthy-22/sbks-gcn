@@ -1,0 +1,11 @@
+T10	GENE-Y 27 49	dipeptidyl peptidase-4
+T5	CHEMICAL 61 72	sitagliptin
+T2	CHEMICAL 143 154	glimepiride
+T3	CHEMICAL 167 178	glimepiride
+T4	CHEMICAL 183 192	metformin
+T1	CHEMICAL 261 272	sitagliptin
+T6	GENE-Y 309 331	dipeptidyl peptidase-4
+T7	GENE-Y 333 338	DPP-4
+T8	GENE-Y 422 446	glycosylated haemoglobin
+T9	GENE-Y 448 455	HbA(1c)
+R0	NOT Arg1:T1 Arg2:T9

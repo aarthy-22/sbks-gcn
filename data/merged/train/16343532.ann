@@ -1,0 +1,33 @@
+T24	GENE-N 22 43	protein phosphatase-1
+T12	CHEMICAL 53 62	motuporin
+T13	CHEMICAL 67 88	dihydromicrocystin-LA
+T8	CHEMICAL 170 182	microcystins
+T4	CHEMICAL 187 197	nodularins
+T5	CHEMICAL 435 438	Ser
+T15	GENE-N 435 463	Ser/Thr protein phosphatases
+T6	CHEMICAL 439 442	Thr
+T7	CHEMICAL 566 577	microcystin
+T16	GENE-N 612 633	protein phosphatase-1
+T17	GENE-N 635 640	PP-1c
+T18	GENE-N 711 732	protein phosphatase-1
+T19	GENE-N 816 827	cyanotoxins
+T9	CHEMICAL 829 838	motuporin
+T10	CHEMICAL 840 851	nodularin-V
+T11	CHEMICAL 857 878	dihydromicrocystin-LA
+T20	GENE-Y 888 932	human protein phosphatase-1c (gamma isoform)
+T21	GENE-N 1021 1041	protein phosphatases
+T22	GENE-N 1096 1116	cyanobacterial toxin
+T23	GENE-N 1117 1128	phosphatase
+T1	CHEMICAL 1182 1194	microcystins
+T2	CHEMICAL 1203 1213	nodularins
+T14	GENE-N 1239 1258	protein phosphatase
+T3	CHEMICAL 1306 1314	cysteine
+R0	CPR-2 Arg1:T12 Arg2:T24
+R1	CPR-2 Arg1:T7 Arg2:T17
+R2	CPR-2 Arg1:T10 Arg2:T20
+R3	CPR-2 Arg1:T11 Arg2:T20
+R4	CPR-2 Arg1:T1 Arg2:T14
+R5	NOT Arg1:T19 Arg2:T10
+R6	NOT Arg1:T19 Arg2:T11
+R7	NOT Arg1:T22 Arg2:T2
+R8	NOT Arg1:T22 Arg2:T3

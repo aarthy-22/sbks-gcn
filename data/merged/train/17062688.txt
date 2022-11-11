@@ -1,0 +1,13 @@
+Bcl-2 expression as a predictive marker of hormone-refractory prostate cancer treated with taxane-based chemotherapy.
+PURPOSE: Bcl-2 inhibits apoptosis, and its overexpression is associated with hormone refractory prostate cancer (HRPC).
+Bak and Bax are in the Bcl-2 family and counteract the antiapoptotic function of Bcl-2.
+Taxane-induced (paclitaxel and its analogue docetaxel) phosphorylation of Bcl-2 abolishes the potential antiapoptotic effect of Bcl-2.
+We hypothesized that (a) survival benefit in HRPC patients treated with taxanes is determined by the presence of Bcl-2 protein and (b) altered expression of Bak and Bax protein caused by genetic mutation is associated with biological aggressiveness of prostate cancer.
+EXPERIMENTAL DESIGN: Forty localized prostate cancer and 30 HRPC cases were used in this study.
+Surgical specimens of localized prostate cancer and biopsy specimens of HRPC were used for immunostaining of Bcl-2, Bak, and Bax as well as DNA extraction.
+Mutations in the Bak and Bax genes were screened by single-strand conformational polymorphism, and confirmed by direct DNA sequencing.
+RESULTS: Bcl-2-positive HRPC showed longer cause-specific survival in comparison with the counterparts.
+Multivariate analysis revealed that the level of Bcl-2 expression before treatment with taxane-based chemotherapy was an independent predictor for cause-specific survival (P < 0.01) and baseline prostate-specific antigen level was an independent predictor for progression-free survival (P < 0.01).
+Bax gene mutation was found in only one HRPC specimen.
+CONCLUSIONS: Bcl-2 expression in addition to prostate-specific antigen measurement before treatment could identify HRPC patients who may benefit from taxane-based chemotherapy.
+Mutation of the Bak and Bax genes is a rare event in prostate cancer.

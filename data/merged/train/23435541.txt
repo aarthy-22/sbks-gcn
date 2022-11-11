@@ -1,0 +1,11 @@
+Attenuation by statins of membrane raft-redox signaling in coronary arterial endothelium.
+Membrane raft (MR)-redox signaling platforms associated with NADPH oxidase are involved in coronary endothelial dysfunction.
+Here, we studied whether statins interfere with the formation of MR-redox signaling platforms to protect the coronary arterial endothelium from oxidized low-density lipoprotein (OxLDL)-induced injury and from acute hypercholesterolemia.
+In cultured human coronary arterial endothelial cells, confocal microscopy detected the formation of an MRs clustering when they were exposed to OxLDL, and such MR platform formation was inhibited markedly by statins, including pravastatin and simvastatin.
+In these MR clusters, NADPH oxidase subunits gp91(phox) and p47(phox) were aggregated and were markedly blocked by both statins.
+In addition, colocalization of acid sphingomyelinase (ASM) and ceramide was induced by OxLDL, which was blocked by statins.
+Electron spin resonance spectrometry showed that OxLDL-induced superoxide (O2(.-)) production in the MR fractions was substantially reduced by statins.
+In coronary artery intima of mice with acute hypercholesterolemia, confocal microscopy revealed a colocalization of gp91(phox), p47(phox), ASM, or ceramide in MR clusters.
+Such colocalization was rarely observed in the arteries of normal mice or significantly reduced by pretreatment of hypercholesterolemic mice with statins.
+Furthermore, O2(.-) production in situ was 3-fold higher in the coronary arteries from hypercholesterolemic mice than in those from normal mice, and such increase was inhibited by statins.
+Our results indicate that blockade of MR-redox signaling platform formation in endothelial cell membrane may be another important therapeutic mechanism of statins in preventing endothelial injury and atherosclerosis and may be associated with their direct action on membrane cholesterol structure and function.

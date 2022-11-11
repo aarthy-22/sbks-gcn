@@ -1,0 +1,16 @@
+Mesalamine modulates intercellular adhesion through inhibition of p-21 activated kinase-1.
+Mesalamine (5-ASA) is widely used for the treatment of ulcerative colitis, a remitting condition characterized by chronic inflammation of the colon.
+Knowledge about the molecular and cellular targets of 5-ASA is limited and a clear understanding of its activity in intestinal homeostasis and interference with neoplastic progression is lacking.
+We sought to identify molecular pathways interfered by 5-ASA, using CRC cell lines with different genetic background.
+Microarray was performed for gene expression profile of 5-ASA-treated and untreated cells (HCT116 and HT29).
+Filtering and analysis of data identified three oncogenic pathways interfered by 5-ASA: MAPK/ERK pathway, cell adhesion and β-catenin/Wnt signaling.
+PAK1 emerged as a consensus target of 5-ASA, orchestrating these pathways.
+We further investigated the effect of 5-ASA on cell adhesion.
+5-ASA increased cell adhesion which was measured by cell adhesion assay and transcellular-resistance measurement.
+Moreover, 5-ASA treatment restored membranous expression of adhesion molecules E-cadherin and β-catenin.
+Role of PAK1 as a mediator of mesalamine activity was validated in vitro and in vivo.
+Inhibition of PAK1 by RNA interference also increased cell adhesion.
+PAK1 expression was elevated in APC(min) polyps and 5-ASA treatment reduced its expression.
+Our data demonstrates novel pharmacological mechanism of mesalamine in modulation of cell adhesion and role of PAK1 in APC(min) polyposis.
+We propose that inhibition of PAK1 expression by 5-ASA can impede with neoplastic progression in colorectal carcinogenesis.
+The mechanism of PAK1 inhibition and induction of membranous translocation of adhesion proteins by 5-ASA might be independent of its known anti-inflammatory action.

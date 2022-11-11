@@ -1,0 +1,36 @@
+T16	CHEMICAL 21 37	ganodermanondiol
+T17	CHEMICAL 81 105	tert-butyl hydroperoxide
+T30	GENE-Y 137 141	Nrf2
+T1	CHEMICAL 172 188	Ganodermanondiol
+T2	CHEMICAL 335 351	ganodermanondiol
+T3	CHEMICAL 360 384	tert-butyl hydroperoxide
+T4	CHEMICAL 386 391	t-BHP
+T5	CHEMICAL 417 433	Ganodermanondiol
+T18	GENE-Y 484 518	nuclear factor-E2-related factor 2
+T19	GENE-Y 520 524	Nrf2
+T6	CHEMICAL 544 548	heme
+T20	GENE-Y 544 560	heme oxygenase-1
+T7	CHEMICAL 584 600	ganodermanondiol
+T8	CHEMICAL 620 631	glutathione
+T9	CHEMICAL 665 674	glutamine
+T21	GENE-Y 665 690	glutamine-cysteine ligase
+T10	CHEMICAL 675 683	cysteine
+T11	CHEMICAL 737 753	ganodermanondiol
+T12	CHEMICAL 795 818	adenosine monophosphate
+T22	GENE-N 795 843	adenosine monophosphate-activated protein kinase
+T23	GENE-N 845 849	AMPK
+T24	GENE-N 868 874	kinase
+T25	GENE-Y 887 891	LKB1
+T13	CHEMICAL 896 902	Ca(2+)
+T26	GENE-N 896 941	Ca(2+)/calmodulin-dependent protein kinase-II
+T27	GENE-N 943 949	CaMKII
+T14	CHEMICAL 978 994	ganodermanondiol
+T15	CHEMICAL 1037 1042	t-BHP
+T28	GENE-Y 1121 1125	Nrf2
+T29	GENE-N 1159 1163	AMPK
+R0	CPR-3 Arg1:T11 Arg2:T23
+R1	NOT Arg1:T17 Arg2:T30
+R2	NOT Arg1:T11 Arg2:T24
+R3	NOT Arg1:T12 Arg2:T24
+R4	NOT Arg1:T23 Arg2:T13
+R5	NOT Arg1:T14 Arg2:T28

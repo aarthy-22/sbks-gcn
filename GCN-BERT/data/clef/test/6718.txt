@@ -1,0 +1,2 @@
+Synthesis Example 4: Synthesis of Compound 6
+Compound 6 (6.0 g, a yield of 83%) was obtained according to the same method as Synthesis Example 1 except for using bromoparabiphenyl instead of the bromobenzene used in Step 1 of Synthesis Example 1 and bromoparabiphenyl instead of bromometabiphenyl in Step 2 thereof. calcd. C54H34N2: C, 91.24; H, 4.82; N, 3.94; found: C, 91.24; H, 4.82; N, 3.94.

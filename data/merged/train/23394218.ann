@@ -1,0 +1,12 @@
+T3	CHEMICAL 13 124	4-amino-N-[(1S)-1-(4-chlorophenyl)-3-hydroxypropyl]-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidine-4-carboxamide
+T2	CHEMICAL 126 133	AZD5363
+T9	GENE-N 180 183	Akt
+T10	GENE-N 184 191	kinases
+T8	GENE-N 284 287	Akt
+T1	CHEMICAL 331 338	AZD5363
+T4	GENE-Y 380 384	hERG
+T5	GENE-N 446 456	AGC kinase
+T6	GENE-N 457 461	ROCK
+T7	GENE-N 641 644	Akt
+R0	NOT Arg1:T1 Arg2:T4
+R1	NOT Arg1:T1 Arg2:T5

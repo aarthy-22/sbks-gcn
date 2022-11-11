@@ -1,0 +1,29 @@
+T26	GENE-Y 25 46	neutral endopeptidase
+T27	GENE-Y 48 60	EC 3.4.24.11
+T10	GENE-Y 108 129	Neutral endopeptidase
+T19	GENE-Y 139 165	atrial natriuretic peptide
+T22	GENE-Y 167 170	ANP
+T23	GENE-Y 176 186	bradykinin
+T25	GENE-Y 204 216	endothelin-1
+T13	GENE-Y 222 236	big-endothelin
+T5	CHEMICAL 261 267	sodium
+T16	GENE-Y 312 315	ANP
+T17	GENE-Y 340 343	ANP
+T18	GENE-Y 417 420	ANP
+T20	GENE-Y 447 468	neutral endopeptidase
+T21	GENE-Y 622 643	neutral endopeptidase
+T6	CHEMICAL 672 685	candoxatrilat
+T7	CHEMICAL 737 741	CCl4
+T8	CHEMICAL 834 847	candoxatrilat
+T9	CHEMICAL 942 955	candoxatrilat
+T24	GENE-Y 1032 1053	neutral endopeptidase
+T1	CHEMICAL 1140 1153	candoxatrilat
+T11	GENE-Y 1179 1182	ANP
+T2	CHEMICAL 1232 1238	sodium
+T12	GENE-Y 1240 1243	ANP
+T3	CHEMICAL 1249 1253	cGMP
+T4	CHEMICAL 1298 1311	Candoxatrilat
+T14	GENE-Y 1457 1462	renin
+T15	GENE-Y 1489 1510	Neutral endopeptidase
+R0	NOT Arg1:T21 Arg2:T6
+R1	NOT Arg1:T11 Arg2:T2

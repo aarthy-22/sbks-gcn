@@ -1,0 +1,34 @@
+T20	GENE-Y 12 18	beta 1
+T21	GENE-Y 43 63	beta 2-adrenoceptors
+T11	CHEMICAL 71 83	isoprenaline
+T17	GENE-N 166 200	beta(1)- and beta(2)-adrenoceptors
+T10	CHEMICAL 208 221	catecholamine
+T2	CHEMICAL 338 350	isoprenaline
+T14	GENE-Y 441 461	beta(1)-adrenoceptor
+T3	CHEMICAL 474 484	bisoprolol
+T15	GENE-Y 555 575	beta(2)-adrenoceptor
+T4	CHEMICAL 584 594	salbutamol
+T16	GENE-Y 633 653	beta(2)-adrenoceptor
+T5	CHEMICAL 693 703	salbutamol
+T18	GENE-Y 754 775	beta(2)-adrenoceptors
+T6	CHEMICAL 815 827	isoprenaline
+T7	CHEMICAL 900 910	bisoprolol
+T8	CHEMICAL 915 925	salbutamol
+T9	CHEMICAL 959 971	isoprenaline
+T19	GENE-Y 1088 1108	beta(1)-adrenoceptor
+T12	GENE-Y 1122 1143	beta(2)-adrenoceptors
+T1	CHEMICAL 1196 1208	isoprenaline
+T13	GENE-N 1268 1286	beta-adrenoceptors
+R0	CPR-6 Arg1:T3 Arg2:T14
+R1	CPR-2 Arg1:T3 Arg2:T16
+R2	CPR-5 Arg1:T4 Arg2:T15
+R3	CPR-2 Arg1:T4 Arg2:T16
+R4	CPR-4 Arg1:T5 Arg2:T18
+R5	NOT Arg1:T20 Arg2:T11
+R6	NOT Arg1:T21 Arg2:T11
+R7	NOT Arg1:T17 Arg2:T10
+R8	NOT Arg1:T14 Arg2:T4
+R9	NOT Arg1:T3 Arg2:T15
+R10	NOT Arg1:T19 Arg2:T1
+R11	NOT Arg1:T12 Arg2:T1
+R12	NOT Arg1:T1 Arg2:T13

@@ -1,0 +1,10 @@
+Glutathione peroxidase 1 and glutathione are required to protect mouse astrocytes from iron-mediated hydrogen peroxide toxicity.
+The enzyme glutathione peroxidase 1 (GPx1) is involved in the cellular detoxification of peroxides.
+To test for the consequences of GPx deficiency in astrocytes, astrocyte-rich primary cultures from wild-type and GPx1-deficient [GPx1(-/-)] mice were exposed to H(2)O(2).
+In GPx1(-/-) astrocytes, the clearance rate of H(2)O(2) was slower than in wild-type cells.
+In contrast to GPx1-deficient astrocytes, wild-type cells exhibited, within 2 min of H(2)O(2) application, a rapid and transient accumulation of cellular glutathione disulfide that amounted to 60% of total glutathione.
+The peroxide treatment did not affect the viability of wild-type astrocytes, whereas 45% of the GPx1(-/-) cells died within 8 hr.
+However, the viability of both types of astrocytes was strongly compromised by lowering cellular glutathione content before peroxide application.
+In contrast, inactivation of catalase caused substantial cell death only in GPx1(-/-) cells but not in wild-type astrocytes.
+The cell death observed was prevented by the iron chelators deferoxamine, 1,10-phenathroline, or 2,2'-dipyridyl, whereas preincubation with ferric ammonium citrate increased the toxicity of peroxide treatments.
+These results demonstrate that GPx1 contributes to the rapid clearance of H(2)O(2) by mouse astrocytes and that both GPx1 and a high concentration of glutathione are required to protect these cells from iron-dependent peroxide damage.

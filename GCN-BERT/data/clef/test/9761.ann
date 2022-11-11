@@ -1,0 +1,381 @@
+T1	REACTION_PRODUCT 49 164	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)- benzonitrile
+T2	REACTION_PRODUCT 170 202	pharmaceutically acceptable salt
+T3	OTHER_COMPOUND 633 747	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T4	REACTION_PRODUCT 780 796	pharmaceutically
+T5	TIME 1406 1413	3 years
+T6	REACTION_PRODUCT 1440 1554	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T7	OTHER_COMPOUND 1661 1666	c-Met
+T8	OTHER_COMPOUND 1701 1710	sorafenib
+T9	OTHER_COMPOUND 1776 1779	HCC
+T10	OTHER_COMPOUND 2085 2094	sorafenib
+T11	OTHER_COMPOUND 2307 2310	HCC
+T12	REACTION_PRODUCT 2373 2487	3-(1-{3-[5-(1-Methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T13	REACTION_PRODUCT 2529 2657	3-(1-{3-[5-(1-Methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T14	OTHER_COMPOUND 2718 2721	THE
+T15	REACTION_PRODUCT 2757 2872	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)- benzonitrile
+T16	REACTION_PRODUCT 3034 3163	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3- yl)-benzonitrile hydrochloride
+T17	OTHER_COMPOUND 3231 3234	HCC
+T18	OTHER_COMPOUND 3261 3268	relates
+T19	REACTION_PRODUCT 3272 3387	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3- yl)-benzonitrile
+T20	REACTION_PRODUCT 3577 3692	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3- yl)-benzonitrile
+T21	OTHER_COMPOUND 3846 3960	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T22	REACTION_PRODUCT 4157 4293	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T23	OTHER_COMPOUND 4454 4568	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T24	OTHER_COMPOUND 4633 4761	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T25	REACTION_PRODUCT 5054 5168	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T26	OTHER_COMPOUND 5214 5221	solvate
+T27	REACTION_PRODUCT 5233 5361	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T28	REACTION_PRODUCT 5432 5546	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T29	REACTION_PRODUCT 5611 5747	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T30	OTHER_COMPOUND 5907 6021	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T31	OTHER_COMPOUND 6027 6043	pharmaceutically
+T32	OTHER_COMPOUND 6063 6064	/
+T33	OTHER_COMPOUND 6092 6104	radiotherapy
+T34	OTHER_COMPOUND 6410 6418	mono- or
+T35	OTHER_COMPOUND 6436 6449	hydrochloride
+T36	OTHER_COMPOUND 6731 6741	medicament
+T37	OTHER_COMPOUND 7785 7794	inorganic
+T38	REACTION_PRODUCT 7885 7999	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T39	REACTION_PRODUCT 8004 8080	N-((S)-2,3-dihydroxy-propyl)-3-(2-fluoro-4-iodo-phenylamino)-isonicotinamide
+T40	OTHER_COMPOUND 8162 8170	carboxyl
+T41	OTHER_COMPOUND 8346 8351	metal
+T42	OTHER_COMPOUND 8374 8393	potassium hydroxide
+T43	OTHER_COMPOUND 8395 8411	sodium hydroxide
+T44	OTHER_COMPOUND 8416 8433	lithium hydroxide
+T45	OTHER_COMPOUND 8476 8492	barium hydroxide
+T46	OTHER_COMPOUND 8497 8514	calcium hydroxide
+T47	OTHER_COMPOUND 8523 8528	metal
+T48	OTHER_COMPOUND 8552 8570	potassium ethoxide
+T49	OTHER_COMPOUND 8575 8591	sodium propoxide
+T50	OTHER_COMPOUND 8628 8639	piperidine,
+T51	OTHER_COMPOUND 8640 8654	diethanolamine
+T52	OTHER_COMPOUND 8659 8676	N-methylglutamine
+T53	OTHER_COMPOUND 8682 8691	aluminium
+T54	OTHER_COMPOUND 8823 8832	compounds
+T55	OTHER_COMPOUND 8866 8873	organic
+T56	OTHER_COMPOUND 8933 8950	hydrogen chloride
+T57	OTHER_COMPOUND 8952 8968	hydrogen bromide
+T58	OTHER_COMPOUND 8972 8987	hydrogen iodide
+T59	OTHER_COMPOUND 8995 9002	mineral
+T60	OTHER_COMPOUND 9050 9057	sulfate
+T61	OTHER_COMPOUND 9059 9079	nitrate or phosphate
+T62	OTHER_COMPOUND 9137 9152	ethanesulfonate
+T63	OTHER_COMPOUND 9154 9170	toluenesulfonate
+T64	OTHER_COMPOUND 9267 9293	trifluoroacetate, tartrate
+T65	OTHER_COMPOUND 9295 9322	maleate, succinate, citrate
+T66	OTHER_COMPOUND 9324 9332	benzoate
+T67	OTHER_COMPOUND 9334 9344	salicylate
+T68	OTHER_COMPOUND 9346 9355	ascorbate
+T69	OTHER_COMPOUND 9530 9546	benzenesulfonate
+T70	OTHER_COMPOUND 9570 9579	bisulfite
+T71	OTHER_COMPOUND 9581 9588	bromide
+T72	OTHER_COMPOUND 9590 9599	butyrate,
+T73	OTHER_COMPOUND 9751 9765	dodecylsulfate
+T74	OTHER_COMPOUND 9767 9782	ethanesulfonate
+T75	OTHER_COMPOUND 9812 9822	mucic acid
+T76	OTHER_COMPOUND 9879 9895	glycerophosphate
+T77	OTHER_COMPOUND 9910 9911	,
+T78	OTHER_COMPOUND 9935 9936	,
+T79	OTHER_COMPOUND 10027 10033	iodide
+T80	OTHER_COMPOUND 10099 10120	, malonate, mandelate
+T81	OTHER_COMPOUND 10218 10229	nicotinate,
+T82	OTHER_COMPOUND 10275 10322	, persulfate, phenylacetate, 3-phenylpropionate
+T83	OTHER_COMPOUND 10482 10491	aluminium
+T84	OTHER_COMPOUND 10512 10529	copper, iron(III)
+T85	OTHER_COMPOUND 10531 10539	iron(II)
+T86	OTHER_COMPOUND 10550 10559	magnesium
+T87	OTHER_COMPOUND 10561 10575	manganese(III)
+T88	OTHER_COMPOUND 10577 10601	manganese(II), potassium
+T89	OTHER_COMPOUND 10732 10740	ammonium
+T90	OTHER_COMPOUND 10765 10785	sodium and potassium
+T91	OTHER_COMPOUND 10822 10829	calcium
+T92	OTHER_COMPOUND 10834 10843	magnesium
+T93	OTHER_COMPOUND 11012 11018	amines
+T94	OTHER_COMPOUND 11163 11177	chloroprocaine
+T95	OTHER_COMPOUND 11179 11186	choline
+T96	OTHER_COMPOUND 11218 11228	benzathine
+T97	OTHER_COMPOUND 11231 11248	dicyclohexylamine
+T98	OTHER_COMPOUND 11266 11278	diethylamine
+T99	OTHER_COMPOUND 11303 11325	2-dimethylaminoethanol
+T100	OTHER_COMPOUND 11341 11356	ethylenediamine
+T101	OTHER_COMPOUND 11444 11458	isopropylamine
+T102	OTHER_COMPOUND 11460 11469	lidocaine
+T103	OTHER_COMPOUND 11512 11522	morpholine
+T104	OTHER_COMPOUND 11585 11596	theobromine
+T105	OTHER_COMPOUND 11598 11613	triethanolamine
+T106	OTHER_COMPOUND 11615 11628	triethylamine
+T107	OTHER_COMPOUND 11630 11644	trimethylamine
+T108	OTHER_COMPOUND 11646 11660	tripropylamine
+T109	OTHER_COMPOUND 11665 11695	tris(hydroxymethyl)methylamine
+T110	OTHER_COMPOUND 11697 11709	tromethamine
+T111	OTHER_COMPOUND 11820 11828	nitrogen
+T112	OTHER_COMPOUND 11887 11899	(C1-C4)alkyl
+T113	OTHER_COMPOUND 11921 11934	methyl, ethyl
+T114	OTHER_COMPOUND 11950 11969	tert-butyl chloride
+T115	OTHER_COMPOUND 11991 12014	di(C1-C4)alkyl sulfates
+T116	OTHER_COMPOUND 12028 12064	dimethyl, diethyl and diamyl sulfate
+T117	OTHER_COMPOUND 12066 12080	(C10-C18)alkyl
+T118	OTHER_COMPOUND 12102 12108	decyl,
+T119	OTHER_COMPOUND 12139 12155	stearyl chloride
+T120	OTHER_COMPOUND 12181 12205	aryl(C1-C4)alkyl halides
+T121	OTHER_COMPOUND 12219 12234	benzyl chloride
+T122	OTHER_COMPOUND 12239 12256	phenethyl bromide
+T123	OTHER_COMPOUND 12453 12461	besylate
+T124	OTHER_COMPOUND 12463 12470	citrate
+T125	OTHER_COMPOUND 12472 12491	fumarate, gluconate
+T126	OTHER_COMPOUND 12532 12546	, hydrobromide
+T127	OTHER_COMPOUND 12561 12570	mandelate
+T128	OTHER_COMPOUND 12572 12590	meglumine, nitrate
+T129	OTHER_COMPOUND 12592 12611	oleate, phosphonate
+T130	OTHER_COMPOUND 12623 12639	sodium phosphate
+T131	OTHER_COMPOUND 12651 12658	sulfate
+T132	OTHER_COMPOUND 12675 12685	, tartrate
+T133	OTHER_COMPOUND 12699 12707	tosylate
+T134	OTHER_COMPOUND 12712 12724	tromethamine
+T135	OTHER_COMPOUND 13647 13653	metals
+T136	OTHER_COMPOUND 13706 13712	metals
+T137	OTHER_COMPOUND 13753 13759	sodium
+T138	OTHER_COMPOUND 13761 13770	potassium
+T139	OTHER_COMPOUND 13772 13781	magnesium
+T140	OTHER_COMPOUND 13786 13793	calcium
+T141	OTHER_COMPOUND 13824 13852	N,N′-dibenzylethylenediamine
+T142	OTHER_COMPOUND 13854 13868	chloroprocaine
+T143	OTHER_COMPOUND 13879 13893	diethanolamine
+T144	OTHER_COMPOUND 13912 13932	N-methyl-D-glucamine
+T145	OTHER_COMPOUND 13937 13945	procaine
+T146	OTHER_COMPOUND 14261 14265	acid
+T147	OTHER_COMPOUND 14284 14293	free acid
+T148	OTHER_COMPOUND 14761 14767	active
+T149	OTHER_COMPOUND 15006 15010	salt
+T150	OTHER_COMPOUND 15104 15110	active
+T151	OTHER_COMPOUND 15372 15380	efficacy
+T152	OTHER_COMPOUND 16652 16656	oral
+T153	OTHER_COMPOUND 17584 17591	ethanol
+T154	OTHER_COMPOUND 17593 17601	glycerol
+T155	OTHER_COMPOUND 17603 17608	water
+T156	OTHER_COMPOUND 17717 17731	pharmaceutical
+T157	OTHER_COMPOUND 17842 17848	starch
+T158	OTHER_COMPOUND 17852 17860	mannitol
+T159	OTHER_COMPOUND 17902 17905	dye
+T160	OTHER_COMPOUND 18048 18056	Glidants
+T161	OTHER_COMPOUND 18111 18123	silicic acid
+T162	OTHER_COMPOUND 18125 18129	talc
+T163	OTHER_COMPOUND 18131 18149	magnesium stearate
+T164	OTHER_COMPOUND 18151 18167	calcium stearate
+T165	OTHER_COMPOUND 18171 18190	polyethylene glycol
+T166	OTHER_COMPOUND 18329 18333	agar
+T167	OTHER_COMPOUND 18335 18352	calcium carbonate
+T168	OTHER_COMPOUND 18356 18372	sodium carbonate
+T169	OTHER_COMPOUND 18658 18664	starch
+T170	OTHER_COMPOUND 18666 18674	gelatine
+T171	OTHER_COMPOUND 18760 18765	maize
+T172	OTHER_COMPOUND 18819 18825	acacia
+T173	OTHER_COMPOUND 18841 18856	sodium alginate
+T174	OTHER_COMPOUND 18858 18880	carboxymethylcellulose
+T175	OTHER_COMPOUND 18882 18901	polyethylene glycol
+T176	OTHER_COMPOUND 18974 18987	sodium oleate
+T177	OTHER_COMPOUND 18989 19004	sodium stearate
+T178	OTHER_COMPOUND 19006 19015	magnesium
+T179	OTHER_COMPOUND 19026 19041	sodium benzoate
+T180	OTHER_COMPOUND 19043 19057	sodium acetate
+T181	OTHER_COMPOUND 19059 19074	sodium chloride
+T182	OTHER_COMPOUND 19150 19156	starch
+T183	OTHER_COMPOUND 19158 19173	methylcellulose
+T184	OTHER_COMPOUND 19175 19180	agar,
+T185	OTHER_COMPOUND 19192 19199	xanthan
+T186	OTHER_COMPOUND 19340 19349	lubricant
+T187	OTHER_COMPOUND 19356 19368	disintegrant
+T188	OTHER_COMPOUND 19509 19516	diluent
+T189	OTHER_COMPOUND 19600 19622	carboxymethylcellulose
+T190	OTHER_COMPOUND 19627 19635	alginate
+T191	OTHER_COMPOUND 19649 19669	polyvinylpyrrolidone
+T192	OTHER_COMPOUND 19718 19726	paraffin
+T193	OTHER_COMPOUND 19779 19794	quaternary salt
+T194	OTHER_COMPOUND 19839 19848	bentonite
+T195	OTHER_COMPOUND 19860 19879	dicalcium phosphate
+T196	OTHER_COMPOUND 19939 19945	binder
+T197	OTHER_COMPOUND 19976 19982	starch
+T198	OTHER_COMPOUND 20299 20311	stearic acid
+T199	OTHER_COMPOUND 20315 20328	stearate salt
+T200	OTHER_COMPOUND 20330 20334	talc
+T201	OTHER_COMPOUND 20338 20345	mineral
+T202	OTHER_COMPOUND 21256 21273	alcoholic vehicle
+T203	OTHER_COMPOUND 21340 21349	non-toxic
+T204	OTHER_COMPOUND 21350 21357	vehicle
+T205	OTHER_COMPOUND 21423 21442	isostearyl alcohols
+T206	OTHER_COMPOUND 21463 21478	sorbitol ethers
+T207	OTHER_COMPOUND 21536 21546	peppermint
+T208	OTHER_COMPOUND 21935 21938	wax
+T209	OTHER_COMPOUND 22064 22081	liposome delivery
+T210	OTHER_COMPOUND 22283 22298	stearylamine or
+T211	OTHER_COMPOUND 22559 22567	polymers
+T212	OTHER_COMPOUND 22629 22656	polyvinylpyrrolidone, pyran
+T213	OTHER_COMPOUND 22666 22740	, polyhydroxypropylmethacrylamidophenol, polyhydroxyethylaspartamidophenol
+T214	OTHER_COMPOUND 22744 22756	polyethylene
+T215	OTHER_COMPOUND 22763 22773	polylysine
+T216	OTHER_COMPOUND 22790 22799	palmitoyl
+T217	OTHER_COMPOUND 22969 22984	polylactic acid
+T218	OTHER_COMPOUND 22986 23036	poly-epsilon-caprolactone, polyhydroxybutyric acid
+T219	OTHER_COMPOUND 23055 23066	polyacetals
+T220	OTHER_COMPOUND 23089 23107	polycyanoacrylates
+T221	OTHER_COMPOUND 23112 23123	crosslinked
+T222	OTHER_COMPOUND 23413 23420	plaster
+T223	OTHER_COMPOUND 24331 24336	water
+T224	OTHER_COMPOUND 24340 24343	oil
+T225	OTHER_COMPOUND 24863 24870	aqueous
+T226	REAGENT_CATALYST 26180 26186	mammal
+T227	OTHER_COMPOUND 27036 27048	radiotherapy
+T228	OTHER_COMPOUND 27867 27871	drug
+T229	OTHER_COMPOUND 27993 27997	drug
+T230	OTHER_COMPOUND 28023 28029	cancer
+T231	OTHER_COMPOUND 28030 28035	cells
+T232	OTHER_COMPOUND 28099 28109	preferably
+T233	OTHER_COMPOUND 28157 28163	organs
+T234	OTHER_COMPOUND 28427 28433	cancer
+T235	OTHER_COMPOUND 28585 28588	TTP
+T236	REACTION_PRODUCT 28637 28765	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T237	OTHER_COMPOUND 28826 28833	mammals
+T238	REACTION_PRODUCT 28931 29067	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T239	REACTION_PRODUCT 29112 29248	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T240	OTHER_COMPOUND 29282 29291	sorafenib
+T241	OTHER_COMPOUND 29397 29402	c-Met
+T242	OTHER_COMPOUND 29410 29413	HGF
+T243	OTHER_COMPOUND 29432 29441	sorafenib
+T244	REACTION_PRODUCT 29575 29711	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T245	OTHER_COMPOUND 29869 29874	c-Met
+T246	OTHER_COMPOUND 29909 29912	HCC
+T247	OTHER_COMPOUND 29931 29936	c-Met
+T248	OTHER_COMPOUND 29992 29995	HCC
+T249	REACTION_PRODUCT 30001 30008	MHCC97H
+T250	OTHER_COMPOUND 30106 30110	nude
+T251	OTHER_COMPOUND 30117 30124	LCI-D20
+T252	OTHER_COMPOUND 30271 30278	MHCC97H
+T253	OTHER_COMPOUND 30296 30301	c-Met
+T254	OTHER_COMPOUND 30306 30309	HGF
+T255	REACTION_PRODUCT 30327 30337	alpha feto
+T256	OTHER_COMPOUND 30347 30350	AFP
+T257	OTHER_COMPOUND 30457 30460	HCC
+T258	REACTION_PRODUCT 30533 30669	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T259	OTHER_COMPOUND 30740 30868	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T260	OTHER_COMPOUND 30903 30910	MHCC97H
+T261	OTHER_COMPOUND 30941 30950	sorafenib
+T262	OTHER_COMPOUND 31050 31055	c-Met
+T263	OTHER_COMPOUND 31104 31111	MHCC97H
+T264	REACTION_PRODUCT 31193 31329	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T265	OTHER_COMPOUND 31601 31608	vehicle
+T266	OTHER_COMPOUND 31771 31776	c-Met
+T267	OTHER_COMPOUND 31862 31865	AFP
+T268	OTHER_COMPOUND 31941 31944	AFP
+T269	OTHER_COMPOUND 31972 31975	AFP
+T270	OTHER_COMPOUND 32016 32152	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T271	REACTION_PRODUCT 32198 32326	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T272	OTHER_COMPOUND 32339 32348	sorafenib
+T273	OTHER_COMPOUND 32448 32461	MHCC97H liver
+T274	OTHER_COMPOUND 32641 32769	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T275	TIME 32824 32825	5
+T276	TIME 32838 32844	2 days
+T277	OTHER_COMPOUND 32862 32871	sorafenib
+T278	REACTION_PRODUCT 32990 33126	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T279	OTHER_COMPOUND 33197 33199	T/
+T280	TIME 33321 33323	24
+T281	TIME 33340 33347	53 days
+T282	OTHER_COMPOUND 33376 33385	sorafenib
+T283	OTHER_COMPOUND 33430 33441	MSC2156119J
+T284	REACTION_PRODUCT 33498 33634	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T285	OTHER_COMPOUND 33664 33668	BalB
+T286	TIME 33800 33806	1 week
+T287	STARTING_MATERIAL 33955 34083	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T288	TIME 34134 34141	5 weeks
+T289	OTHER_COMPOUND 34218 34221	AFP
+T290	REACTION_PRODUCT 34283 34419	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T291	OTHER_COMPOUND 34548 34558	AFP levels
+T292	REACTION_PRODUCT 34666 34802	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T293	REACTION_PRODUCT 34837 34965	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T294	OTHER_COMPOUND 35045 35173	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T295	OTHER_COMPOUND 35185 35188	HCC
+T296	REACTION_PRODUCT 35215 35351	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T297	OTHER_COMPOUND 35427 35438	primary HCC
+T298	REACTION_PRODUCT 35639 35767	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T299	OTHER_COMPOUND 35830 35835	c-Met
+T300	OTHER_COMPOUND 35888 35893	c-Met
+T301	OTHER_COMPOUND 35898 35901	HGF
+T302	OTHER_COMPOUND 35980 35985	c-Met
+T303	OTHER_COMPOUND 35997 36002	c-Met
+T304	OTHER_COMPOUND 36004 36017	phospho c-Met
+T305	OTHER_COMPOUND 36022 36025	HGF
+T306	OTHER_COMPOUND 36047 36183	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T307	OTHER_COMPOUND 36244 36253	sorafenib
+T308	STARTING_MATERIAL 36543 36671	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T309	TIME 36697 36698	5
+T310	TIME 36706 36712	7 days
+T311	STARTING_MATERIAL 36807 36943	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T312	OTHER_COMPOUND 37033 37039	LIM612
+T313	OTHER_COMPOUND 37049 37056	LIM1098
+T314	OTHER_COMPOUND 37058 37064	LIM941
+T315	STARTING_MATERIAL 37094 37103	Sorafenib
+T316	OTHER_COMPOUND 37194 37200	LIM612
+T317	OTHER_COMPOUND 37202 37208	LIM941
+T318	OTHER_COMPOUND 37227 37233	LIM801
+T319	OTHER_COMPOUND 37235 37242	LIM1081
+T320	REACTION_PRODUCT 37275 37411	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride hydrate
+T321	OTHER_COMPOUND 37454 37463	sorafenib
+T322	OTHER_COMPOUND 37479 37485	LIM801
+T323	OTHER_COMPOUND 37490 37496	LIM612
+T324	OTHER_COMPOUND 37530 37535	c-Met
+T325	OTHER_COMPOUND 37566 37575	sorafenib
+T326	REACTION_PRODUCT 37581 37709	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T327	OTHER_COMPOUND 37789 37796	LIM1098
+T328	OTHER_COMPOUND 37801 37807	LIM752
+T329	OTHER_COMPOUND 37872 37885	c-Met phospho
+T330	OTHER_COMPOUND 37943 37948	c-Met
+T331	OTHER_COMPOUND 37950 37963	phospho c-Met
+T332	OTHER_COMPOUND 37969 37977	HGFalpha
+T333	OTHER_COMPOUND 38166 38178	formaldehyde
+T334	TIME 38195 38201	48 hrs
+T335	TEMPERATURE 38205 38207	RT
+T336	OTHER_COMPOUND 38224 38232	paraffin
+T337	OTHER_COMPOUND 38254 38266	formaldehyde
+T338	OTHER_COMPOUND 38273 38281	paraffin
+T339	OTHER_COMPOUND 38292 38296	FFPE
+T340	OTHER_COMPOUND 38321 38331	positively
+T341	OTHER_COMPOUND 38680 38689	Tris-EDTA
+T342	OTHER_COMPOUND 38714 38724	peroxidase
+T343	OTHER_COMPOUND 38757 38774	hydrogen peroxide
+T344	OTHER_COMPOUND 38856 38859	PBS
+T345	OTHER_COMPOUND 38922 38925	HRP
+T346	TIME 38970 38976	16 min
+T347	TEMPERATURE 38980 38985	37° C
+T348	OTHER_COMPOUND 38987 38998	Horseradish
+T349	OTHER_COMPOUND 39030 39070	3,3′-diaminobenzidine tetrahydorchloride
+T350	OTHER_COMPOUND 39072 39075	DAB
+T351	OTHER_COMPOUND 39077 39081	H2O2
+T352	OTHER_COMPOUND 39196 39207	hematoxylin
+T353	OTHER_COMPOUND 39235 39240	water
+T354	OTHER_COMPOUND 39271 39276	glass
+T355	OTHER_COMPOUND 39291 39300	permanent
+T356	OTHER_COMPOUND 39316 39329	Entellan® Neu
+T357	OTHER_COMPOUND 40116 40140	hepatocellular carcinoma
+T358	OTHER_COMPOUND 40142 40145	HCC
+T359	OTHER_COMPOUND 40153 40158	c-Met
+T360	OTHER_COMPOUND 40160 40171	phospho-Met
+T361	OTHER_COMPOUND 40185 40193	HGFalpha
+T362	OTHER_COMPOUND 40330 40335	c-Met
+T363	OTHER_COMPOUND 40358 40365	LIM1098
+T364	OTHER_COMPOUND 40390 40394	pTyr
+T365	OTHER_COMPOUND 40413 40426	pTyr 1349 Met
+T366	OTHER_COMPOUND 40581 40584	HGF
+T367	OTHER_COMPOUND 40600 40603	B-3
+T368	OTHER_COMPOUND 40605 40614	mouse IgG
+T369	OTHER_COMPOUND 40823 40826	IgG
+T370	OTHER_COMPOUND 40938 40946	moderate
+T371	OTHER_COMPOUND 40947 40956	HGF alpha
+T372	REACTION_PRODUCT 40969 40975	LIM612
+T373	OTHER_COMPOUND 40985 40988	HGF
+T374	OTHER_COMPOUND 41024 41035	phospho-Met
+T375	OTHER_COMPOUND 41058 41061	HGF
+T376	OTHER_COMPOUND 41090 41101	phospho-Met
+T377	EXAMPLE_LABEL 41103 41104	1
+T378	OTHER_COMPOUND 41136 41150	hepatocellular
+T379	REACTION_PRODUCT 41236 41350	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile
+T380	REACTION_PRODUCT 41487 41615	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile hydrochloride
+T381	OTHER_COMPOUND 41813 41927	3-(1-{3-[5-(1-methyl-piperidin-4-ylmethoxy)-pyrimidin-2-yl]-benzyl}-6-oxo-1,6-dihydro-pyridazin-3-yl)-benzonitrile

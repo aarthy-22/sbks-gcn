@@ -1,0 +1,22 @@
+T1	EXAMPLE_LABEL 8 10	27
+T2	REACTION_PRODUCT 11 153	(2S,3S,4S,5S)-3-tert-butyl-4-{[(5-tert-butyl-2-methoxypyridin-3-yl)methyl]amino}-1-(cyclohexanecarbonyl)-5-phenylpyrrolidine-2-carboxylic acid
+T3	EXAMPLE_LABEL 162 165	27A
+T4	REACTION_PRODUCT 166 314	(2S,3S,4S,5S)-ethyl 3-(tert-butyl)-4-(((5-(tert-butyl)-2-methoxypyridin-3-yl)methyl)amino)-1-(cyclohexanecarbonyl)-5-phenylpyrrolidine-2-carboxylate
+T5	STARTING_MATERIAL 315 415	(2S,3S,4S,5S)-Ethyl 4-amino-3-(tert-butyl)-1-(cyclohexanecarbonyl)-5-phenylpyrrolidine-2-carboxylate
+T6	STARTING_MATERIAL 417 427	Example 7B
+T7	STARTING_MATERIAL 442 481	5-(tert-butyl)-2-methoxynicotinaldehyde
+T8	SOLVENT 520 528	methanol
+T9	TEMPERATURE 541 557	room temperature
+T10	TIME 562 568	1 hour
+T11	REAGENT_CATALYST 570 593	Sodium cyanoborohydride
+T12	TEMPERATURE 689 705	room temperature
+T13	OTHER_COMPOUND 807 813	CH2Cl2
+T14	OTHER_COMPOUND 818 823	water
+T15	OTHER_COMPOUND 904 910	CH2Cl2
+T16	OTHER_COMPOUND 958 964	Na2SO4
+T17	OTHER_COMPOUND 1051 1061	silica gel
+T18	OTHER_COMPOUND 1100 1113	ethyl acetate
+T19	OTHER_COMPOUND 1114 1122	heptanes
+T20	REACTION_PRODUCT 1138 1152	title compound
+T21	YIELD_OTHER 1153 1160	0.127 g
+T22	YIELD_PERCENT 1163 1166	63%

@@ -1,0 +1,14 @@
+T7	CHEMICAL 20 28	acarbose
+T12	GENE-Y 33 50	alpha-glucosidase
+T2	CHEMICAL 381 388	glucose
+T8	GENE-Y 443 450	insulin
+T9	GENE-Y 615 622	insulin
+T3	CHEMICAL 713 721	Acarbose
+T10	GENE-Y 726 743	alpha-glucosidase
+T4	CHEMICAL 780 792	carbohydrate
+T5	CHEMICAL 883 891	acarbose
+T13	CHEMICAL 883 944	acarbose has been shown to improve insulin resistance in vivo
+T11	GENE-Y 918 925	insulin
+T6	CHEMICAL 974 982	acarbose
+T1	CHEMICAL 1141 1149	acarbose
+R0	CPR-4 Arg1:T3 Arg2:T10

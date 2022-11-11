@@ -1,0 +1,8 @@
+Role of human organic anion transporter 4 in the transport of ochratoxin A. The purpose of this study was to investigate the characteristics of ochratoxin A (OTA) transport by multispecific human organic anion transporter 4 (hOAT4) using mouse proximal tubule cells stably transfected with hOAT4 (S(2) hOAT4).
+Immunohistochemical analysis revealed that hOAT4 protein was localized to the apical side of the proximal tubule.
+S(2) hOAT4 expressed hOAT4 protein in the apical side as well as basolateral side and the cells were cultured on the plastic dish for experiments.
+S(2) hOAT4 exhibited a time- and concentration-dependent, and a saturable increase in OTA uptake, with an apparent K(m) value of 22.9+/-2.44 microM. The OTA uptakes were inhibited by several substrates for the OATs.
+Probenecid, piroxicam, octanoate and citrinin inhibited OTA uptake by hOAT4 in a competitive manner (K(i)=44.4-336.4 microM), with the following order of potency: probenecid > piroxicam > octanoate >citrinin.
+The efflux of OTA by S(2) hOAT4 was higher than that by mock.
+Addition of OTA resulted in slight decrease in viability of S(2) hOAT4 compared with mock.
+These results indicate that hOAT4 mediates the high-affinity transport of OTA on the apical side of the proximal tubule, whereas the transport characteristics of OTA are distinct from those by basolateral OATs.

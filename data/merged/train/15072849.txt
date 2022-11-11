@@ -1,0 +1,8 @@
+Imiquimod, a Toll-like receptor-7 agonist, induces perforin in cytotoxic T lymphocytes in vitro.
+Imiquimod (IMQ), an activator of Toll-like receptor-7 (TLR-7), induces by several routes a profound anti-viral and anti-tumor effect in vivo.
+Physiologically, the immune system is using perforin-containing granules of cytotoxic T lymphocytes (CTL) towards the same biological purpose.
+This functional synergism prompted our current experiments addressing the question whether IMQ may influence perforin-release and/or induce perforin in CTLs in vitro.
+In peripheral lymphocytes of healthy and diseased subjects, IMQ induced a significant increase of perforin(+) CTLs within 12h in all experiments performed.
+This effect was most pronounced in CTLs of patients suffering from atopic dermatitis, a model disorder for subnormal perforin expression: as compared to perforin(+) CTLs detected at time point zero (100%), up to 270% of perforin(+) CTLs were induced by 2.5 microg/ml [corrected] IMQ.
+Perforin release from peripheral blood CTLs after PMA/ionomycin-stimulation was not influenced significantly by IMQ.
+Thus, the biological activity of IMQ appears to exceed its previously known functions, inasmuch as it boosts up significantly the perforin-granule system.

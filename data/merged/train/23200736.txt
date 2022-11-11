@@ -1,0 +1,9 @@
+Tigecycline prevents LPS-induced release of pro-inflammatory and apoptotic mediators in neuronal cells.
+Pro-inflammatory and pro-apoptotic mediators have been involved in the pathogenesis of neurodegenerative diseases.
+Tigecycline (Tig), a glycylcycline antibiotic and an analog of Minocycline, is shown to exert anti-inflammatory effects that are distinct from its anti-microbial activity.
+Its neuroprotective mechanism is unknown.
+In this study, we investigated the direct protective mechanisms of tigecycline against lipopolysaccharide (LPS)-induced Rat pheochromocytoma (PC12) cells.
+The results showed that tigecycline significantly attenuated the expression and the release of nuclear factor-kappa beta (NF-κB), tumor necrosis factor-alpha (TNF-α) and interleukin-1beta (IL-1β), as well as nitric oxide (NO) levels in LPS-induced PC12 cells.
+In addition, tigecycline dose-dependently decreased cytochrome c release and caspase-3 activity.
+This later finding corroborated the results of decreased pro-apoptotic Bad, and increased anti-apoptotic Bcl-2 protein expression thus, confirming a neuroprotective effect of the drug in differentiated PC12 cells induced with LPS.
+The findings of our study suggest new targets for tigecycline and support the potential for tigecycline to be investigated as a therapeutic agent for neurodegenerative disorders.

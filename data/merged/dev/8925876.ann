@@ -1,0 +1,38 @@
+T14	CHEMICAL 27 38	risperidone
+T22	GENE 93 114	alpha 1-adrenoceptors
+T3	CHEMICAL 155 166	risperidone
+T19	GENE 182 203	alpha 1A-adrenoceptor
+T15	GENE 294 315	alpha 1B-adrenoceptor
+T16	GENE 412 432	alpha 1-adrenoceptor
+T1	CHEMICAL 469 477	Prazosin
+T2	CHEMICAL 507 564	2-(2,6-dimethoxyphenoxyethyl)aminomethyl-1,4-benzodioxane
+T4	CHEMICAL 566 573	WB 4101
+T5	CHEMICAL 576 593	5-methyl-urapidil
+T6	CHEMICAL 595 604	indoramin
+T7	CHEMICAL 609 624	(+)-niguldipine
+T17	GENE 661 682	alpha 1A-adrenoceptor
+T8	CHEMICAL 692 701	spiperone
+T9	CHEMICAL 733 744	Risperidone
+T10	CHEMICAL 763 771	prazosin
+T18	GENE 775 797	alpha 1A-adrenoceptors
+T20	GENE 842 893	guinea-pig and mouse splenic alpha 1B-adrenoceptors
+T11	CHEMICAL 918 929	risperidone
+T12	CHEMICAL 963 971	prazosin
+T13	CHEMICAL 1038 1049	risperidone
+T21	GENE 1071 1092	alpha 1-adrenoceptors
+R0	CPR-6 Arg1:T3 Arg2:T19
+R1	CPR-6 Arg1:T3 Arg2:T15
+R2	CPR-6 Arg1:T3 Arg2:T16
+R3	CPR-2 Arg1:T11 Arg2:T20
+R4	CPR-2 Arg1:T12 Arg2:T20
+R5	NOT Arg1:T14 Arg2:T22
+R6	NOT Arg1:T1 Arg2:T17
+R7	NOT Arg1:T2 Arg2:T17
+R8	NOT Arg1:T4 Arg2:T17
+R9	NOT Arg1:T5 Arg2:T17
+R10	NOT Arg1:T6 Arg2:T17
+R11	NOT Arg1:T7 Arg2:T17
+R12	NOT Arg1:T17 Arg2:T8
+R13	NOT Arg1:T9 Arg2:T18
+R14	NOT Arg1:T10 Arg2:T18
+R15	NOT Arg1:T13 Arg2:T21

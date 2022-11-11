@@ -1,0 +1,17 @@
+T1	OTHER_COMPOUND 547 561	sodium sulfate
+T2	REACTION_PRODUCT 8 107	5-(2-Fluoro-6-methoxyphenyl)-3-iodo-1-((2-(trimethylsilyl)ethoxy)methyl)-1H-pyrazolo[3,4-c]pyridine
+T3	OTHER_COMPOUND 526 531	brine
+T4	EXAMPLE_LABEL 5 6	5
+T5	YIELD_OTHER 662 668	650 mg
+T6	SOLVENT 339 354	tetrahydrofuran
+T7	REAGENT_CATALYST 108 111	NaH
+T8	OTHER_COMPOUND 477 490	ethyl acetate
+T9	STARTING_MATERIAL 188 250	5-(2-fluoro-6-methoxyphenyl)-3-iodo-1H-pyrazolo[3,4-c]pyridine
+T10	TEMPERATURE 382 386	r.t.
+T11	STARTING_MATERIAL 274 315	[β-(trimethylsilyl)ethoxy]methyl chloride
+T12	TEMPERATURE 165 169	0° C
+T13	YIELD_PERCENT 670 673	59%
+T14	SOLVENT 115 126	mineral oil
+T15	REACTION_PRODUCT 620 627	product
+T16	TIME 391 394	1 h
+T17	OTHER_COMPOUND 435 440	water

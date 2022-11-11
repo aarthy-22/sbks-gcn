@@ -1,0 +1,11 @@
+Potential of endogenous estrogen receptor beta to influence the selective ER modulator ERbeta complex.
+The ratio of estrogen receptor beta (ERbeta) to ERalpha can alter the estrogen-like properties of tamoxifen.
+Transient transfection of ERbeta cDNA into cells can decrease the estrogen-like properties of the ERalpha:tamoxifen complex, whereas an increase in the amount of ERbeta is associated with tamoxifen-resistant breast cancer.
+We have addressed each of these hypotheses by examining well characterized laboratory models.
+We determined whether changes in endogenous ERbeta are responsible for the estrogen-like or antiestrogenic properties of tamoxifen or raloxifene in MDA-MB-231 cells transfected with cDNAs for ERalpha or mutants D351G, D351Y.
+We found that the amount of ERbeta mRNA in separate, stable transfectants of mutant ERalpha cDNA was always < 2% of ERalpha.
+Since at least a 50:50 mixture of ERalpha:ERbeta is needed to silence the tamoxifen:ERalpha complex, we conclude that insufficient ERbeta mRNA is available for selective ER modulation in stable transfectants of D351G and D351Y ERalpha.
+Similarly, to test the hypothesis that ERbeta is up-regulated and plays an important role during the development of tamoxifen-stimulated tumor growth, we quantitatively analyzed ERbeta and ERalpha mRNA in tamoxifen-naive (MCF-7:E2, ECC1:E2) and tamoxifen-stimulated tumors (MCF-7:TAM, EnCa 101:TAM).
+We found that ERbeta mRNA levels were not significantly elevated in tamoxifen-stimulated tumors and the ERalpha mRNA remained over 99% out of all ER species for all the tumors tested.
+The same results were also obtained when mRNA levels of ERbeta and ERalpha in a series of tamoxifen-naive and tamoxifen-resistant breast cancer was analyzed.
+We conclude that endogenous ERbeta may not play a dominant role in the modulation of the tamoxifen ERalpha complex, or in the development of tamoxifen-stimulated resistant tumor growth.

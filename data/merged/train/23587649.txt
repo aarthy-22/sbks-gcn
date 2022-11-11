@@ -1,0 +1,10 @@
+Acute and chronic interference with BDNF/TrkB-signaling impair LTP selectively at mossy fiber synapses in the CA3 region of mouse hippocampus.
+Brain-derived neurotrophic factor (BDNF) signaling via TrkB crucially regulates synaptic plasticity in the brain.
+Although BDNF is abundant at hippocampal mossy fiber (MF) synapses, which critically contribute to hippocampus dependent memory, its role in MF synaptic plasticity (long-term potentiation, LTP) remained largely unclear.
+Using field potential recordings in CA3 of adult heterozygous BDNF knockout (ko, BDNF+/-) mice we observed impaired (∼50%) NMDAR-independent MF-LTP.
+In contrast to MF synapses, LTP at neighboring associative/commissural (A/C) fiber synapses remained unaffected.
+To exclude that impaired MF-LTP in BDNF+/- mice was due to developmental changes in response to chronically reduced BDNF levels, and to prove the importance of acute availability of BDNF in MF-LTP, we also tested effects of acute interference with BDNF/TrkB signaling.
+Inhibition of TrkB tyrosine kinase signaling with k252a, or with the selective BDNF scavenger TrkB-Fc, both inhibited MF-LTP to the same extent as observed in BDNF+/- mice.
+Basal synaptic transmission, short-term plasticity, and synaptic fatigue during LTP induction were not significantly altered by treatment with k252a or TrkB-Fc, or by chronic BDNF reduction in BDNF+/- mice.
+Since the acute interference with BDNF-signaling did not completely block MF-LTP, our results provide evidence that an additional mechanism besides BDNF induced TrkB signaling contributes to this type of LTP.
+Our results prove for the first time a mechanistic action of acute BDNF/TrkB signaling in presynaptic expression of MF-LTP in adult hippocampus.

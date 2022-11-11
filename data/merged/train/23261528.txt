@@ -1,0 +1,10 @@
+Inhibition of Th1/Th17 responses via suppression of STAT1 and STAT3 activation contributes to the amelioration of murine experimental colitis by a natural flavonoid glucoside icariin.
+Inflammatory bowel disease (IBD) is a chronic inflammatory disorder in the intestine which involves overproduction of pro-inflammatory cytokines and excessive functions of inflammatory cells.
+However, current treatments for IBD may have potential adverse effects including steroid dependence, infections and lymphoma.
+Therefore new therapies or drug candidates for the treatment of IBD are desperately needed.
+In the present study we found that icariin, a major bioactive compound from plants in Epimedium family, exerted protective effect on intestinal inflammation in mice induced by dextran sulfate sodium.
+Oral administration of icariin significantly attenuated the disease progression and alleviated the pathological changes of colitis.
+It also inhibited the production of pro-inflammatory cytokines and expression of p-p65, p-STAT1 and p-STAT3 in colon tissues.
+Further study showed that icariin dose-dependently inhibited the proliferation and activation of T lymphocytes, and suppressed pro-inflammatory cytokine levels of activated T cells.
+Moreover, icariin treatment inhibited the phosphorylations of STAT1 and STAT3 in CD4(+) T cells, which were the crucial transcription factors for Th1 and Th17 respectively.
+Taken together, these results indicate that icariin is a potential therapeutic agent for IBD.

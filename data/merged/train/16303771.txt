@@ -1,0 +1,12 @@
+Tissue-type plasminogen activator acts as a cytokine that triggers intracellular signal transduction and induces matrix metalloproteinase-9 gene expression.
+Tissue-type plasminogen activator (tPA), a serine protease well known for generating plasmin, has been demonstrated to induce matrix metalloproteinase-9 (MMP-9) gene expression and protein secretion in renal interstitial fibroblasts.
+However, exactly how tPA transduces its signal into the nucleus to control gene expression is unknown.
+This study investigated the mechanism by which tPA induces MMP-9 gene expression.
+Both wild-type and non-enzymatic mutant tPA were found to induce MMP-9 expression in rat kidney interstitial fibroblasts (NRK-49F), indicating that the actions of tPA are independent of its proteolytic activity.
+tPA bound to the low density lipoprotein receptor-related protein-1 (LRP-1) in NRK-49F cells, and this binding was competitively abrogated by the LRP-1 antagonist, the receptor-associated protein.
+In mouse embryonic fibroblasts (PEA-13) lacking LRP-1, tPA failed to induce MMP-9 expression.
+Furthermore, tPA induced rapid tyrosine phosphorylation on the beta subunit of LRP-1, which was followed by the activation of Mek1 and its downstream Erk-1 and -2.
+Blockade of Erk-1/2 activation by the Mek1 inhibitor abolished MMP-9 induction by tPA in NRK-49F cells.
+Conversely, overexpression of constitutively activated Mek1 induced Erk-1/2 phosphorylation and MMP-9 expression.
+In mouse obstructed kidney, tPA, LRP-1, and MMP-9 were concomitantly induced in the renal interstitium.
+Collectively, these results suggest that besides its classical proteolytic activity, tPA acts as a cytokine that binds to the cell membrane receptor LRP-1, induces its tyrosine phosphorylation, and triggers intracellular signal transduction, thereby inducing specific gene expression in renal interstitial fibroblasts.

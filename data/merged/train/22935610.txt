@@ -1,0 +1,8 @@
+The prolyl-isomerase Pin1 activates the mitochondrial death program of p53.
+In response to intense stress, the tumor protein p53 (p53) tumor suppressor rapidly mounts a direct mitochondrial death program that precedes transcription-mediated apoptosis.
+By eliminating severely damaged cells, this pathway contributes to tumor suppression as well as to cancer cell killing induced by both genotoxic drugs and non-genotoxic p53-reactivating molecules.
+Here we have explored the role had in this pathway by the prolyl-isomerase Pin1 (peptidylprolyl cis/trans isomerase, NIMA-interacting 1), a crucial transducer of p53's phosphorylation into conformational changes unleashing its pro-apoptotic activity.
+We show that Pin1 promotes stress-induced localization of p53 to mitochondria both in vitro and in vivo.
+In particular, we demonstrate that upon stress-induced phosphorylation of p53 on Ser46 by homeodomain interacting protein kinase 2, Pin1 stimulates its mitochondrial trafficking signal, that is, monoubiquitination.
+This pathway is induced also by the p53-activating molecule RITA, and we demonstrate the strong requirement of Pin1 for the induction of mitochondrial apoptosis by this compound.
+These findings have significant implications for treatment of p53-expressing tumors and for prospective use of p53-activating compounds in clinics.

@@ -1,0 +1,8 @@
+Modulation of cytochrome P450 1 (Cyp1) by vanadium in hepatic tissue and isolated hepatocyte of C57BL/6 mice.
+The objective of the current study was to investigate the effect of vanadium (V(5+)) on Cyp1 expression and activity in C57BL/6 mice liver and isolated hepatocytes.
+For this purpose, C57BL6 mice were injected intraperitoneally with V(5+) (5 mg/kg) in the absence and presence of 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) (15 μg/kg) for 6 and 24 h. Furthermore, isolated hepatocytes from C57BL6 mice were treated with V(5+) (5, 10, and 20 μM) in the absence and presence of TCDD (1 nM) for 3, 6, 12, and 24 h. In vivo, V(5+) alone did not significantly alter Cyp1a1, Cyp1a2, or Cyp1b1 mRNA, protein, or catalytic activity levels.
+Upon co-exposure to V(5+) and TCDD, V(5+) significantly potentiated the TCDD-mediated induction of the Cyp1a1, Cyp1a2, and Cyp1b1 mRNA, protein, and catalytic activity levels at 24 h. In vitro, V(5+) decreased the TCDD-mediated induction of Cyp1a1 mRNA, protein, and catalytic activity levels.
+Furthermore, V(5+) significantly inhibited the TCDD-induced AhR-dependent luciferase activity.
+V(5+) also increased serum hemoglobin (Hb) levels in animals treated for 24 h. Upon treatment of isolated hepatocytes with Hb alone or in the presence of TCDD, there was an increase in the AhR-dependent luciferase activity.
+When isolated hepatocytes were treated for 2 h with V(5+) in the presence of TCDD, followed by replacement of the medium with new medium containing Hb, there was further potentiation to the TCDD-mediated effect.
+The present study demonstrates that there is a differential modulation of Cyp1a1 by V(5+) in C57BL/6 mice livers and isolated hepatocytes and demonstrates Hb as an in vivo specific modulator.

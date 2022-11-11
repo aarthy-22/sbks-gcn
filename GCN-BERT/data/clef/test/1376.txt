@@ -1,0 +1,3 @@
+Reference Example 8
+Synthesis of (E)-methyl 3-(1-methyl-1H-imidazol-2-yl)acrylate
+Methyl (triphenylphosphoranylidene)acetate (33.4 g, 99.9 mmol) was added to a solution of 1-methyl-1H-imidazole-2-carbaldehyde (10.0 g, 90.8 mmol) in dichloromethane (240 mL) at room temperature. The reaction liquid was stirred for 16 hours and then concentrated under reduced pressure. The residue was washed with a mixed solvent of n-hexane/dichloromethane=19/1 and the washing solution was concentrated. The residue was purified by column chromatography (silica gel, n-hexane/ethyl acetate) to obtain (E)-methyl 3-(1-methyl-1H-imidazol-2-yl)acrylate (11.9 g, 71.6 mmol, 79%) as a white solid.

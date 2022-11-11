@@ -1,0 +1,16 @@
+T1	OTHER_COMPOUND 526 538	acetonitrile
+T2	REAGENT_CATALYST 266 292	propylphosphonic anhydride
+T3	YIELD_OTHER 741 747	0.12 g
+T4	OTHER_COMPOUND 445 450	water
+T5	REAGENT_CATALYST 185 193	pyridine
+T6	STARTING_MATERIAL 119 157	2,4-dimethylthiazole-5-carboxylic acid
+T7	SOLVENT 219 231	acetonitrile
+T8	STARTING_MATERIAL 30 92	6-(2-amino-5-methylthiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T9	TEMPERATURE 381 386	50° C
+T10	EXAMPLE_LABEL 8 10	28
+T11	SOLVENT 314 327	ethyl acetate
+T12	REACTION_PRODUCT 638 739	2,4-dimethyl-N-(5-methyl-4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)thiazole-5-carboxamide
+T13	OTHER_COMPOUND 539 544	water
+T14	YIELD_PERCENT 749 752	78%
+T15	TIME 392 398	6 days
+T16	OTHER_COMPOUND 599 614	dichloromethane

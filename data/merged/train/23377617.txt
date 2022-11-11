@@ -1,0 +1,12 @@
+Decreased zinc availability affects glutathione metabolism in neuronal cells and in the developing brain.
+A deficit in zinc (Zn) availability can increase cell oxidant production, affect the antioxidant defense system, and trigger oxidant-sensitive signals in neuronal cells.
+This work tested the hypothesis that a decreased Zn availability can affect glutathione (GSH) metabolism in the developing rat brain and in neuronal cells in culture, as well as the capacity of human neuroblastoma IMR-32 cells to upregulate GSH when challenged with dopamine (DA).
+GSH levels were low in the brain of gestation day 19 (GD19) fetuses from dams fed marginal Zn diets throughout gestation and in Zn-deficient IMR-32 cells.
+γ-Glutamylcysteine synthetase (GCL), the first enzyme in the GSH synthetic pathway, was altered by Zn deficiency (ZD).
+The protein and mRNA levels of the GCL modifier (GCLM) and catalytic (GCLC) subunits were lower in the Zn-deficient GD19 fetal brain and in IMR-32 cells compared with controls.
+The nuclear translocation of transcription factor nuclear factor (erythroid-derived 2)-like 2, which controls GCL transcription, was impaired by ZD.
+Posttranslationally, the caspase-3-dependent GCLC cleavage was high in Zn-deficient IMR-32 cells.
+Cells challenged with DA showed an increase in GCLM and GCLC protein and mRNA levels and a consequent increase in GSH concentration.
+Although Zn-deficient cells partially upregulated GCL subunits after exposure to DA, GSH content remained low.
+In summary, results show that a low Zn availability affects the GSH synthetic pathway in neuronal cells and fetal brain both at transcriptional and posttranslational levels.
+This can in part underlie the GSH depletion associated with ZD and the high sensitivity of Zn-deficient neurons to pro-oxidative stressors.

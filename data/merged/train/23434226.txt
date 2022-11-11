@@ -1,0 +1,5 @@
+Identification and characterization of small molecule inhibitors of signal transducer and activator of transcription 3 (STAT3) signaling pathway by virtual screening.
+Inhibition of the signal transducer and activator of transcription 3 (STAT3) signaling pathway has been considered a novel therapeutic strategy to treat human cancers that harbor aberrantly-active STAT3.
+In this study, a series of small molecules were identified as novel inhibitors of STAT3 signaling pathway through virtual screening.
+A tricyclic scaffold containing compound, 6, was identified as an inhibitor of IL-6/STAT3 signaling with an IC50 of 26.68 μM. In addition, this compound inhibited Tyr705 phosphorylation of STAT3 and had no obvious effect on upstream tyrosine kinases.
+Thus, compound 6 is a potential lead structure and valuable for further drug development.

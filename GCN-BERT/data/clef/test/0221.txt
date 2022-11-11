@@ -1,0 +1,4 @@
+Example 10
+7-(2,3-Dihydro-1-benzofuran-7-yl)-N-[4-(piperidin-4-yl)-2-isopropoxypheny 1]-6-methylthieno[3,2-d]pyrimidin-2-amine (Compound 10)
+Preparation of compound 10-d.
+2-Fluoro-4-bromonitrobenzene (5.0 g, 22.83 mmol) was dissolved in isopropanol (100 mL) and cesium carbonate (37.2 g, 114.16 mmol) was added thereto. The reaction mixture was stirred at 60 °C for 16 hours. The reaction mixture was cooled to room temperature and the reaction mixture was concentrated under reduced pressure. The residue was dissolved in ethyl acetate (150 mL) and then water (150 mL) was added. The separated organic phase was dried over anhydrous sodium sulfate, filtered and the filtrate was concentrated under reduced pressure. The residue was recrystallized from petroleum ether (100 mL) to deliver a yellow solid 10-d (4.7 g, yield: 79%). This product was used without further purification.

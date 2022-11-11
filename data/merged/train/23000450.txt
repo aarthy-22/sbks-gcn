@@ -1,0 +1,9 @@
+-116A and K BCHE gene variants associated with obesity and hypertriglyceridemia in adolescents from Southern Brazil.
+Butyrylcholinesterase (BChE) has been associated to body mass index (BMI), weight, cholesterol and triglyceride levels.
+-116A (rs1126680) and K (A539T, 1615A, rs1803274) BCHE gene variants had previously been associated to BChE activity, weight and BMI variance in adults.
+The present study examined -116A and K variants, BChE activity, anthropometric and biochemical variables associated with obesity in adolescents (120 obese and 150 non-obese from Curitiba, Brazil).
+Both -116A and K variants were found with significantly lower frequencies (p<0.05) in obese adolescents when compared with non-obese adolescents and with the general population.
+Mean BChE activity (KU/L) was significantly higher in obese adolescents when compared with non-obese adolescents and with the general population.
+Analyzing only the obese adolescents, it was found that carriers of the -116A variant showed lower BChE activity and higher triglyceride levels than homozygotes for the usual allele.
+Indeed, obese carriers of the -116A variant had triglyceride levels considered high according to reference values for serum triglycerides in Brazilian adolescents.
+These results show: (1) a protective effect of -116A and K variants on juvenile obesity risk, suggesting a role for the BCHE gene on juvenile onset obesity different from that observed on adult onset obesity and (2) an association of the -116A variant with hypertriglyceridemia in obese adolescents probably because of its effect on lowering BChE activity and consequently diminishing the enzyme capability of maintaining homeostasis on lipid metabolism during the metabolic stress caused by obesity.

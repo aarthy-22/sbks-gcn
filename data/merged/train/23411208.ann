@@ -1,0 +1,20 @@
+T10	CHEMICAL 14 26	α-tocopherol
+T17	GENE-Y 14 45	α-tocopherol-associated protein
+T18	GENE-Y 47 50	TAP
+T1	CHEMICAL 309 321	α-tocopherol
+T2	CHEMICAL 364 373	vitamin E
+T3	CHEMICAL 375 387	α-Tocopherol
+T11	GENE-Y 375 406	α-Tocopherol-associated protein
+T12	GENE-Y 408 411	TAP
+T4	CHEMICAL 446 458	α-tocopherol
+T13	GENE-N 446 475	α-tocopherol binding proteins
+T14	GENE-Y 571 574	TAP
+T15	GENE-Y 620 624	Her2
+T16	GENE-Y 625 628	neu
+T5	CHEMICAL 821 843	α-tocopheryl succinate
+T6	CHEMICAL 845 850	α-TOS
+T7	CHEMICAL 879 891	α-tocopherol
+T8	CHEMICAL 928 939	doxorubicin
+T9	CHEMICAL 1056 1065	vitamin E
+R0	NOT Arg1:T1 Arg2:T11
+R1	NOT Arg1:T1 Arg2:T12

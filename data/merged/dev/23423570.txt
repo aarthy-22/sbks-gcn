@@ -1,0 +1,11 @@
+High-glucose environment enhanced oxidative stress and increased interleukin-8 secretion from keratinocytes: New insights on impaired diabetic wound healing.
+Impaired wound healing frequently occurs in patients with diabetes.
+Interluekin-8 (IL-8) production by keratinocyte is responsible for recruiting neutrophils during healing.
+Intense inflammation is associated with diabetic wounds while reduction of neutrophil infiltration is associated with enhanced healing.
+We hypothesized that increased neutrophil recruitment by keratinocytes may contribute to the delayed healing of diabetic wound.
+Using cultured human keratinocytes and diabetic rat model, the current study showed that high-glucose environment enhanced IL-8 production via epidermal growth factor receptor (EGFR) -extracelluar signal-regulated kinase (ERK) pathway in a reactive oxygen species (ROS)-dependent manner in keratinocytes.
+In addition, diabetic rat skin showed enhanced EGFR, ERK and IL-8 expression as compared to control rats.
+The dermal neutrophil infiltration of the wound, as represented by expression of myeloperoxidase level, was also significantly higher in diabetic rats.
+Treating diabetic rats with dapsone, an agent known to inhibit neutrophil function, was associated with improved healing.
+In conclusion, IL-8 production and neutrophil infiltration are increased in high-glucose environment due to elevated ROS level and contributed to impaired wound healing in diabetic skin.
+Targeting these dysfunctions may present novel therapeutic approaches.

@@ -1,0 +1,11 @@
+Perhexiline.
+Perhexiline, 2-(2,2-dicyclohexylethyl)piperidine, was originally developed as an anti-anginal drug in the 1970s.
+Despite its success, its use diminished due to the occurrence of poorly understood side effects including neurotoxicity and hepatotoxicity in a small proportion of patients.
+Recently, perhexiline's mechanism of action and the molecular basis of its toxicity have been elucidated.
+Perhexiline reduces fatty acid metabolism through the inhibition of carnitine palmitoyltransferase, the enzyme responsible for mitochondrial uptake of long-chain fatty acids.
+The corresponding shift to greater carbohydrate utilization increases myocardial efficiency (work done per unit oxygen consumption) and this oxygen-sparing effect explains its antianginal efficacy.
+Perhexiline's side effects are attributable to high plasma concentrations occurring with standard doses in patients with impaired metabolism due to CYP2D6 mutations.
+Accordingly, dose modification in these poorly metabolizing patients identified through therapeutic plasma monitoring can eliminate any significant side effects.
+Herein we detail perhexiline's pharmacology with particular emphasis on its mechanism of action and its side effects.
+We discuss how therapeutic plasma monitoring has led to perhexiline's safe reintroduction into clinical practice and how recent clinical data attesting to its safety and remarkable efficacy led to a renaissance in its use in both refractory angina and chronic heart failure.
+Finally, we discuss the application of pharmacogenetics in combination with therapeutic plasma monitoring to potentially broaden perhexiline's use in heart failure, aortic stenosis, and other cardiac conditions.

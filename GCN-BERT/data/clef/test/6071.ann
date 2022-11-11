@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 6	5
+T2	REACTION_PRODUCT 23 122	2-(3-(4-2-(benzyloxy)-3-nitrophenyl-1H-pyrazole-1-yl) -1-(methylsulfonyl)azetidin-3-yl)acetonitrile
+T3	STARTING_MATERIAL 126 207	2-(3-(4-2-(benzyloxy)-3-nitrophenyl-1H- pyrazole-1-yl) azetidin-3-yl)acetonitrile
+T4	REAGENT_CATALYST 231 244	triethylamine
+T5	SOLVENT 267 282	dichloromethane
+T6	STARTING_MATERIAL 310 334	methanesulfonyl chloride
+T7	TEMPERATURE 357 360	0°C
+T8	OTHER_COMPOUND 385 393	nitrogen
+T9	TEMPERATURE 422 425	0°C
+T10	TIME 443 449	1 hour
+T11	OTHER_COMPOUND 549 554	water
+T12	OTHER_COMPOUND 587 600	ethyl acetate
+T13	OTHER_COMPOUND 666 670	salt
+T14	OTHER_COMPOUND 705 719	sodium sulfate
+T15	OTHER_COMPOUND 833 837	Et3N
+T16	REACTION_PRODUCT 848 951	2-(3-(4-2-(benzyloxy)-3-nitrophenyl-1H-pyrazole-1-yl)-1-(methylsulfonyl)azetidin-3-yl)a cetonitrile(450
+T17	YIELD_PERCENT 956 961	37.5%

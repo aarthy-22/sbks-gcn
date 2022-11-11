@@ -1,0 +1,7 @@
+Pharmacological profile of antipsychotics at monoamine receptors: atypicality beyond 5-HT2A receptor blockade.
+Antipsychotic drugs (APD) are widely prescribed for the treatment of schizophrenia.
+The APD are differentiated into typical and atypical based on the lower incidence of extra-pyramidal side-effects associated with the newer atypical APD.
+It was suggested that atypicality may arise from an interaction with the 5-hydroxytryptamine (5-HT)(2) receptor and specifically on the 5-HT(2):dopamine D(2) affinity ratio.
+It is now realised that multiple subtypes of these receptors exist and that in addition, atypical APD interact with many monoamine receptors.
+The aim of the present study was to characterise the interaction of APD with a variety of monoamine receptors in terms of both affinity and efficacy.
+The data produced has highlighted that the atypical profile of APD such as olanzapine and clozapine may reflect antagonism of the 5-HT(2A) and 5-HT(2C) receptors, whilst that of, ziprasidone and quetiapine may reflect partial agonist activity at the 5-HT(1A) receptor, and that of aripiprazole may reflect partial agonist activity at the 5-HT(1A) receptor as well as is its claimed partial agonist activity at the dopamine D(2) receptor.

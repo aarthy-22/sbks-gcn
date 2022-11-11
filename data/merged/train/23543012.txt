@@ -1,0 +1,10 @@
+In vitro characterisation of the anti-intravasative properties of the marine product heteronemin.
+Metastases destroy the function of infested organs and are the main reason of cancer-related mortality.
+Heteronemin, a natural product derived from a marine sponge, was tested in vitro regarding its properties to prevent tumour cell intravasation through the lymph-endothelial barrier.
+In three-dimensional (3D) cell cultures consisting of MCF-7 breast cancer cell spheroids that were placed on lymph-endothelial cell (LEC) monolayers, tumour cell spheroids induce "circular chemorepellent-induced defects" (CCIDs) in the LEC monolayer; 12(S)-Hydroxyeicosatetraenoic acid (12(S)-HETE) and NF-κB activity are major factors inducing CCIDs, which are entry gates for tumour emboli intravasating the vasculature.
+This 3D co-culture is a validated model for the investigation of intravasation mechanisms and of drugs preventing CCID formation and hence lymph node metastasis.
+Furthermore, Western blot analyses, NF-κB reporter, EROD, SELE, 12(S)-HETE, and adhesion assays were performed to investigate the properties of heteronemin.
+Five micromolar heteronemin inhibited the directional movement of LECs and, therefore, the formation of CCIDs, which were induced by MCF-7 spheroids.
+Furthermore, heteronemin reduced the adhesion of MCF-7 cells to LECs and suppressed 12(S)-HETE-induced expression of the EMT marker paxillin, which is a regulator of directional cell migration.
+The activity of CYP1A1, which contributed to CCID formation, was also inhibited by heteronemin.
+Hence, heteronemin inhibits important mechanisms contributing to tumour intravasation in vitro and should be tested in vivo.

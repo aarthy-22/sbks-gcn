@@ -1,0 +1,53 @@
+T26	CHEMICAL 0 27	Medroxyprogesterone acetate
+T28	CHEMICAL 36 48	drospirenone
+T29	CHEMICAL 84 101	17 beta-estradiol
+T27	CHEMICAL 105 116	aldosterone
+T25	CHEMICAL 235 244	estrogens
+T3	CHEMICAL 249 259	progestins
+T32	GENE 294 318	nuclear hormone receptor
+T15	CHEMICAL 417 427	progestins
+T16	CHEMICAL 473 485	progesterone
+T33	GENE 473 494	progesterone receptor
+T17	CHEMICAL 529 536	steroid
+T34	GENE 529 546	steroid receptors
+T18	CHEMICAL 625 636	aldosterone
+T19	CHEMICAL 686 702	17beta-estradiol
+T20	CHEMICAL 704 731	medroxyprogesterone acetate
+T21	CHEMICAL 737 749	drospirenone
+T22	CHEMICAL 757 768	progestogen
+T23	CHEMICAL 906 917	aldosterone
+T24	CHEMICAL 1033 1049	17beta-estradiol
+T1	CHEMICAL 1138 1154	17beta-estradiol
+T30	GENE 1204 1215	osteopontin
+T2	CHEMICAL 1264 1266	NO
+T4	CHEMICAL 1361 1388	medroxyprogesterone acetate
+T5	CHEMICAL 1403 1415	drospirenone
+T6	CHEMICAL 1450 1466	17beta-estradiol
+T7	CHEMICAL 1489 1500	aldosterone
+T8	CHEMICAL 1627 1635	estrogen
+T31	GENE 1627 1707	estrogen, progesterone, glucocorticoid, androgen, and mineralocorticoid receptor
+T9	CHEMICAL 1637 1649	progesterone
+T10	CHEMICAL 1667 1675	androgen
+T11	CHEMICAL 1767 1777	progestins
+T12	CHEMICAL 1787 1799	drospirenone
+T13	CHEMICAL 1839 1866	medroxyprogesterone acetate
+T14	CHEMICAL 1881 1892	aldosterone
+R0	CPR-3 Arg1:T1 Arg2:T30
+R1	CPR-4 Arg1:T4 Arg2:T30
+R2	NOT Arg1:T25 Arg2:T32
+R3	NOT Arg1:T3 Arg2:T32
+R4	NOT Arg1:T15 Arg2:T33
+R5	NOT Arg1:T15 Arg2:T34
+R6	NOT Arg1:T16 Arg2:T34
+R7	NOT Arg1:T33 Arg2:T17
+R8	NOT Arg1:T33 Arg2:T18
+R9	NOT Arg1:T33 Arg2:T19
+R10	NOT Arg1:T33 Arg2:T20
+R11	NOT Arg1:T33 Arg2:T21
+R12	NOT Arg1:T33 Arg2:T22
+R13	NOT Arg1:T34 Arg2:T18
+R14	NOT Arg1:T34 Arg2:T19
+R15	NOT Arg1:T34 Arg2:T20
+R16	NOT Arg1:T34 Arg2:T21
+R17	NOT Arg1:T34 Arg2:T22
+R18	NOT Arg1:T30 Arg2:T2

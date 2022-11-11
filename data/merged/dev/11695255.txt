@@ -1,0 +1,9 @@
+Analgesia and COX-2 inhibition.
+While non-steroidal anti-inflammatory drugs (NSAIDs) are the mainstay of therapy for the management of acute pain and rheumatoid arthritis, toxicity associated with chronic administration limits their benefit-to-risk relationship in many patients.
+A series of studies is reviewed that assesses the relationship between cytokines released at the site of tissue injury and NSAID analgesia, and the in vivo selectivity of a selective cyclooxygenase (COX)-2 inhibitor (celecoxib) in comparison to a dual COX-1/COX-2 inhibitor (ketorolac).
+Three replicate studies in the oral surgery model of acute pain used submucosal microdialysis sample collection for the measurement of prostaglandin E2 (PGE2; a product of both COX-1 and COX-2) and thromboxane B2 (as a biomarker for COX-1 activity) with parallel assessments of pain.
+The time course of PGE2 production was consistent with early release due to COX-1 activity followed by increased production 2-3 hours after surgery, consistent with COX-2 expression.
+Ketorolac 30 mg at pain onset suppressed both pain and peripheral PGE2 levels.
+Ketorolac 1 mg either at the site of injury or intramuscularly also produced analgesia but without any effect on peripheral PGE2 levels.
+Celecoxib selectively suppressed PGE2 but not TxB2 at time points consistent with COX-2 activity, while producing analgesia.
+These studies demonstrate the ability to assess the time course and selective effects of COX-2 inhibitors in vivo and suggest that suppression of COX-2 mediated PGE2 is temporally related to NSAID analgesia.

@@ -1,0 +1,12 @@
+Discriminative stimulus effects of the mixed-opioid agonist/antagonist dezocine: cross-substitution by mu and delta opioid agonists.
+The purpose of this investigation was to evaluate the discriminative stimulus effects of the mixed-opioid agonist/antagonist dezocine.
+In pigeons trained to discriminate 1.7 mg/kg dezocine from saline, a series of opioids with activity at the mu opioid receptor substituted completely for the dezocine stimulus with a rank order of potency similar to that obtained in other assays sensitive to the effects of mu agonists (i.e., fentanyl >[-]-cyclazocine >buprenorphine = butorphanol >l-methadone >nalbuphine >[-]-metazocine >morphine).
+(-)-N-allylnormetazocine and (+)-propoxyphene substituted partially for the dezocine stimulus, an effect obtained even when tested up to doses that suppressed responding.
+Naloxone (0.1 - 10 mg/kg) antagonized the stimulus effects of dezocine, (+)-propoxyphene and fentanyl in a dose-related manner, whereas doses of naloxone that antagonized fentanyl's rate-decreasing effects failed to antagonize the rate-decreasing effects of dezocine and (+)-propoxyphene.
+A 10-mg/kg dose of the mu-selective, noncompetitive antagonist beta-funaltrexamine was more effective against the stimulus effects of dezocine and nalbuphine than against morphine and fentanyl.
+As was observed with naloxone, beta-funaltrexamine failed to antagonize dezocine's rate-decreasing effects.
+The delta agonists BW373U86 and SNC80 substituted partially for the dezocine stimulus, and these effects were reversed by doses of the delta-selective antagonist naltrindole (0.1 and 1.0 mg/kg) that had no effect on the dezocine stimulus.
+Naltrindole also antagonized the rate-decreasing effects produced by BW373U86 and SNC80, but not those of dezocine.
+The kappa agonists bremazocine, spiradoline, U50,488 and U69,593 failed to substitute for the dezocine stimulus.
+The kappa-selective antagonist norbinaltorphimine (1.0 mg/kg) failed to antagonize dezocine's stimulus or rate-decreasing effects.
+The present findings indicate that dezocine shares similar stimulus effects with both mu and delta agonists, its stimulus effects are reversed by mu-selective antagonists, and its rate-decreasing effects are not mediated by activity at mu, kappa or delta opioid receptors.

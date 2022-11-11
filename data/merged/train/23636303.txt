@@ -1,0 +1,12 @@
+Involvement of serotonin 5-HT3 receptors in the modulation of noradrenergic transmission by serotonin reuptake inhibitors: a microdialysis study in rat brain.
+RATIONALE: Selective serotonin reuptake inhibitors (SSRIs), in addition to being able to enhance serotonergic neurotransmission, are able to modulate other brain systems involved in depression.
+OBJECTIVES: This study evaluates the neurochemical effect of the SSRI citalopram on brain noradrenergic activity and the serotonin receptor involved in this effect.
+METHODS: Dual-probe microdialysis in the locus coeruleus (LC) and prefrontal cortex (PFC) was performed in freely awake rats.
+RESULTS: Systemic citalopram (10 mg/kg, i.p.) increased noradrenaline (NA) in the LC (E max = 141 ± 13 %) and simultaneously decreased NA in the PFC (Emax = -46 ± 7 %).
+In the local presence into the LC of the α2-adrenoceptor antagonist RS79948 (1 μM), systemic citalopram increased NA in the LC (Emax = 157 ± 25 %) and PFC (Emax = 175 ± 24 %).
+Local citalopram (0.1-100 μM) into the LC induced NA increase in the LC (Emax = 210 ± 25 %) and decrease in the PFC (Emax = -38 ± 9 %).
+Local LC citalopram effect was abolished by LC presence of the 5-HT3 receptor antagonist MDL72222 (1 μM) but not the 5-HT1/2 receptor antagonist methiothepin (1 μM).
+Systemic citalopram in the LC presence of MDL72222 did not modify NA in the LC but increased NA in the PFC (Emax = 158 ± 26 %).
+Local citalopram into the PFC enhanced NA (Emax = 376 ± 18 %) in the area, which was prevented by MDL72222.
+CONCLUSIONS: The SSRI citalopram modulates central noradrenergic neurotransmission by activation, through endogenous serotonin, of 5-HT3 receptors expressed in the somatodendritic (LC) and terminal (PFC) areas, which subsequently promote an enhancement of local NA.
+Therefore, 5-HT3 receptors and somatodendritic α2-adrenoceptors in the LC play an important role in the global effect of SSRIs.

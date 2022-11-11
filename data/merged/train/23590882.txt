@@ -1,0 +1,11 @@
+Interacting Glutamate Receptor-Like Proteins in Phloem Regulate Lateral Root Initiation in Arabidopsis.
+Molecular, genetic, and electrophysiological evidence indicates that at least one of the plant Glu receptor-like molecules, GLR3.4, functions as an amino acid-gated Ca(2+) channel at the plasma membrane.
+The aspect of plant physiology, growth, or development to which GLR3.4 contributes is an open question.
+Protein localization studies performed here provide important information.
+In roots, GLR3.4 and the related GLR3.2 protein were present primarily in the phloem, especially in the vicinity of the sieve plates.
+GLR3.3 was expressed in most cells of the growing primary root but was not enriched in the phloem, including the sieve plate area.
+GLR3.2 and GLR3.4 physically interacted with each other better than with themselves as evidenced by a biophotonic assay performed in human embryonic kidney cells and Nicotiana benthamiana leaf cells.
+GLR3.3 interacted poorly with itself or the other two GLRs.
+Mutations in GLR3.2, GLR3.4, or GLR3.2 and GLR3.4 caused the same and equally severe phenotype, namely, a large overproduction and aberrant placement of lateral root primordia.
+Loss of GLR3.3 did not affect lateral root primordia.
+These results support the hypothesis that apoplastic amino acids acting through heteromeric GLR3.2/GLR3.4 channels affect lateral root development via Ca(2+) signaling in the phloem.

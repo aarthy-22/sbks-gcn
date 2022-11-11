@@ -1,0 +1,17 @@
+T3	CHEMICAL 513 528	porphobilinogen
+T9	GENE-Y 513 537	porphobilinogen synthase
+T10	GENE-Y 539 543	PBGS
+T1	CHEMICAL 1077 1090	phenylalanine
+T4	GENE-Y 1077 1102	phenylalanine hydroxylase
+T5	GENE-Y 1104 1117	HIV integrase
+T2	CHEMICAL 1119 1127	pyruvate
+T6	GENE-N 1119 1134	pyruvate kinase
+T7	GENE-Y 1140 1163	tumor necrosis factor α
+T8	GENE-Y 1225 1238	transthyretin
+R0	NOT Arg1:T3 Arg2:T10
+R1	NOT Arg1:T1 Arg2:T5
+R2	NOT Arg1:T1 Arg2:T6
+R3	NOT Arg1:T1 Arg2:T7
+R4	NOT Arg1:T4 Arg2:T2
+R5	NOT Arg1:T5 Arg2:T2
+R6	NOT Arg1:T2 Arg2:T7

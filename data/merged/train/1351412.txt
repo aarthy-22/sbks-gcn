@@ -1,0 +1,14 @@
+Ocular beta-blockers in glaucoma management.
+Clinical pharmacological aspects.
+Topical beta-blockers reduce the intraocular pressure (IOP) by blockade of sympathetic nerve endings in the ciliary epithelium causing a fall in aqueous humour production.
+Two types of topical beta-blockers are available for use in glaucoma: nonselective, which block both beta 1- and beta 2-adrenoceptors; and cardioselective, which block only beta 1-receptors.
+Of the beta-Blockers commercially available, timolol, levobunolol, metipranolol and carteolol are nonselective, and betaxolol is cardioselective.
+Twice-daily timolol is probably the most effective agent in lowering IOP, although levobunolol is equally effective and can be used once daily with little difference in effect.
+Carteolol is used twice daily and any theoretical advantage in diminished side effects conferred by its partial beta-agonist activity compared with timolol has not been fully substantiated.
+Metipranolol is effective twice daily and does not have partial beta-agonist activity.
+Betaxolol has an effect comparable to timolol in lowering IOP, but is less effective in some patients.
+beta-Blockers can be used with other antiglaucoma medications, but their combined action with epinephrine (adrenaline) is suspect, particularly in the case of the nonselective beta-blockers, and the effect should be assessed in patients on an individual basis.
+Local stinging can be a problem in some patients with betaxolol.
+The most serious side effects of beta-blockers are the exacerbation of chronic obstructive airways disease with nonselective agents and the precipitation of bronchospasm in some patients.
+Betaxolol seems relatively free of adverse respiratory effects, although this may be dose-related and extreme caution should still be exercised in patients with any history of respiratory illness.
+Because of the lower risk of precipitating side effects, betaxolol is probably the beta-blocker of first choice for use in glaucoma; timolol or levobunolol are reserved for patients who do not respond satisfactorily to betaxolol and are quite free of respiratory disease.

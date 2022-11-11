@@ -1,0 +1,15 @@
+T14	GENE-N 14 34	connexin hemichannel
+T2	CHEMICAL 88 95	calcium
+T3	GENE-N 119 128	Connexins
+T12	GENE-N 197 218	gap junction channels
+T6	GENE-N 253 265	hemichannels
+T7	GENE-N 314 322	connexin
+T8	GENE-N 578 599	connexin hemichannels
+T9	GENE-N 723 732	connexins
+T10	GENE-N 744 755	hemichannel
+T11	GENE-N 856 867	hemichannel
+T1	CHEMICAL 937 944	calcium
+T13	GENE-N 1021 1032	hemichannel
+T4	GENE-N 1181 1192	hemichannel
+T5	GENE-N 1256 1279	Connexin based channels
+R0	NOT Arg1:T11 Arg2:T1

@@ -1,0 +1,2 @@
+Synthesis of Compound 46
+Acryloyl chloride (947.1 mg, 10.47 mmol) was added dropwise to a solution of compound 45 (700.5 mg, 4.19 mmol) in pyridine (20 mL) with stirring at 0° C. in an ice bath. The reaction mixture was stirred for 2 hours at 100° C. After cooled to room temperature, the reaction mixture was concentrated under reduced pressure. The residue was purified by column chromatography (MeOH:CH2Cl2=200/1-10/1, v/v) to afford compound 46 (520.4 mg, 45.2%) as a yellow solid. LC-MS m/z (ES+), 276.09 (M+H)+.

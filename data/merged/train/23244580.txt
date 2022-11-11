@@ -1,0 +1,9 @@
+Effects and mechanism of organ protection by cardiotrophin-1.
+Cardiotrophin-1 (CT-1), a member of the interleukin (IL)-6 family, is reported to exhibit a plethora of pleiotropic effects in the heart such as cytoprotective, pro-proliferative and pro-fibrotic ones.
+An extensive research has been devoted on proliferative and profibrotic effects of CT-1 on the heart.
+Thus the present review has been aimed to critically define the cytoprotective effects of CT-1 and the cellular and molecular mechanisms involved in them.
+Although many effects of CT-1 have been described on the heart, CT-1 has now also been reported to exhibit important protective effects in other organs such as liver, kidney or nervous system.
+CT-1 produces its effects through a unique receptor system comprising LIF receptor (LIFRβ) and a common signal transducer, the glycoprotein 130 (gp130).
+The signaling pathway downstream from gp130 is based on at least, three distinct pathways: 1) the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway, 2) the p42/44 mitogen-activated protein kinase (p42/44 MAPK) pathway, also known as the extracellular receptor kinase-1/2 (ERK1/2) pathway, and 3) the phosphatidylinositol 3-OH kinase (PI3K)/Akt pathway.
+Since CT-1 easily achieves its cytoprotective effects via a combination of the above three signaling pathways, it becomes quite necessary to determine which pathway(s) is involved in each particular effect of CT-1.
+In each of its target organs, CT-1 may also display differential mechanisms of cytoprotection, and thus it is relevant to understand how these mechanisms are locally regulated.

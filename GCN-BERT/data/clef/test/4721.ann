@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 8 9	9
+T2	REACTION_PRODUCT 887 1054	5-((6S,8R)-7-((1-fluorocyclopropyl)methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-N-(1-(3-fluoropropyl)azetidin-3-yl)-4-methoxypyridin-2-amine
+T3	OTHER_COMPOUND 817 823	silica
+T4	STARTING_MATERIAL 440 462	1-Fluoro-3-iodopropane
+T5	SOLVENT 178 181	DMF
+T6	REAGENT_CATALYST 193 198	DIPEA
+T7	SOLVENT 484 487	DMF
+T8	YIELD_PERCENT 1064 1067	36%
+T9	OTHER_COMPOUND 866 870	MeOH
+T10	STARTING_MATERIAL 269 418	N-(azetidin-3-yl)-5-((6S,8R)-7-((1-fluorocyclopropyl)methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-4-methoxypyridin-2-amine
+T11	REACTION_PRODUCT 10 177	5-((6S,8R)-7-((1-fluorocyclopropyl)methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-N-(1-(3-fluoropropyl)azetidin-3-yl)-4-methoxypyridin-2-amine
+T12	YIELD_OTHER 1056 1062	9.0 mg
+T13	OTHER_COMPOUND 576 591	sodium chloride
+T14	TIME 519 526	2 hours
+T15	OTHER_COMPOUND 626 631	EtOAC
+T16	OTHER_COMPOUND 704 718	sodium sulfate
+T17	OTHER_COMPOUND 683 688	water
+T18	OTHER_COMPOUND 874 877	DCM
+T19	OTHER_COMPOUND 568 575	aqueous

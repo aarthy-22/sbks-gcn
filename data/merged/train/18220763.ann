@@ -1,0 +1,10 @@
+T1	CHEMICAL 450 463	Sulfonylureas
+T2	CHEMICAL 465 475	biguanides
+T6	GENE-N 477 494	alpha-glucosidase
+T3	CHEMICAL 496 508	meglitinides
+T4	CHEMICAL 510 515	DPP-4
+T7	GENE-Y 510 515	DPP-4
+T5	CHEMICAL 531 549	thiazolidinediones
+R0	NOT Arg1:T1 Arg2:T6
+R1	NOT Arg1:T6 Arg2:T3
+R2	NOT Arg1:T3 Arg2:T7

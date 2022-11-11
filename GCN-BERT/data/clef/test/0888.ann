@@ -1,0 +1,12 @@
+T1	EXAMPLE_LABEL 8 10	34
+T2	REACTION_PRODUCT 11 118	5'-((cyclopropylmethyl)amino)-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide
+T3	REACTION_PRODUCT 120 124	1-32
+T4	STARTING_MATERIAL 139 226	5'-fluoro-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide
+T5	REAGENT_CATALYST 252 274	cyclopropylmethanamine
+T6	TEMPERATURE 296 307	150-180° C.
+T7	TIME 312 319	20 days
+T8	OTHER_COMPOUND 420 430	silica gel
+T9	OTHER_COMPOUND 475 488	Hexanes-EtOAc
+T10	REACTION_PRODUCT 490 504	title compound
+T11	YIELD_OTHER 542 548	8.6 mg
+T12	YIELD_PERCENT 550 553	34%

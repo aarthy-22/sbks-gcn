@@ -1,0 +1,60 @@
+T35	CHEMICAL 11 25	pyridostigmine
+T36	CHEMICAL 27 40	physostigmine
+T37	CHEMICAL 42 54	eptastigmine
+T54	GENE-N 59 77	phosphotriesterase
+T38	CHEMICAL 98 103	sarin
+T20	CHEMICAL 140 156	organophosphorus
+T40	GENE-N 226 246	acetylcholinesterase
+T42	GENE-N 248 252	AChE
+T16	CHEMICAL 311 324	acetylcholine
+T21	CHEMICAL 393 407	pyridostigmine
+T22	CHEMICAL 409 422	physostigmine
+T23	CHEMICAL 424 436	eptastigmine
+T24	CHEMICAL 445 460	organophosphate
+T49	GENE-N 445 470	organophosphate hydrolase
+T50	GENE-N 472 490	phosphotriesterase
+T25	CHEMICAL 501 506	sarin
+T26	CHEMICAL 591 596	sarin
+T27	CHEMICAL 688 702	pyridostigmine
+T28	CHEMICAL 729 742	physostigmine
+T29	CHEMICAL 773 786	physostigmine
+T30	CHEMICAL 798 810	eptastigmine
+T51	GENE-N 839 857	phosphotriesterase
+T31	CHEMICAL 938 943	sarin
+T32	CHEMICAL 945 958	Physostigmine
+T52	GENE-N 986 1004	phosphotriesterase
+T53	GENE-N 1006 1024	Phosphotriesterase
+T33	CHEMICAL 1060 1065	sarin
+T34	CHEMICAL 1099 1104	sarin
+T39	GENE-N 1142 1160	phosphotriesterase
+T1	CHEMICAL 1162 1175	Physostigmine
+T2	CHEMICAL 1199 1208	carbamate
+T3	CHEMICAL 1212 1217	sarin
+T4	CHEMICAL 1253 1266	physostigmine
+T5	CHEMICAL 1271 1285	pyridostigmine
+T6	CHEMICAL 1328 1340	Eptastigmine
+T7	CHEMICAL 1377 1382	sarin
+T41	GENE-N 1402 1420	phosphotriesterase
+T8	CHEMICAL 1425 1438	physostigmine
+T43	GENE-Y 1470 1474	AChE
+T9	CHEMICAL 1506 1511	sarin
+T44	GENE-N 1525 1543	phosphotriesterase
+T10	CHEMICAL 1548 1561	physostigmine
+T11	CHEMICAL 1599 1604	sarin
+T45	GENE-Y 1671 1675	AChE
+T46	GENE-N 1715 1733	phosphotriesterase
+T12	CHEMICAL 1734 1747	physostigmine
+T13	CHEMICAL 1777 1782	sarin
+T47	GENE-N 1821 1839	phosphotriesterase
+T14	CHEMICAL 1840 1854	ephysostigmine
+T48	GENE-N 2006 2024	phosphotriesterase
+T15	CHEMICAL 2029 2042	physostigmine
+T17	CHEMICAL 2086 2091	sarin
+T18	CHEMICAL 2115 2127	eptastigmine
+T19	CHEMICAL 2167 2172	sarin
+R0	NOT Arg1:T22 Arg2:T50
+R1	NOT Arg1:T28 Arg2:T51
+R2	NOT Arg1:T29 Arg2:T51
+R3	NOT Arg1:T51 Arg2:T31
+R4	NOT Arg1:T32 Arg2:T52
+R5	NOT Arg1:T41 Arg2:T8

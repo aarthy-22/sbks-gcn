@@ -1,0 +1,25 @@
+T10	CHEMICAL 60 61	C
+T1	CHEMICAL 82 83	C
+T12	GENE-Y 229 265	peptidylglycine alpha-mono-oxygenase
+T15	GENE-Y 267 270	PAM
+T16	GENE-Y 272 284	EC 1.14.17.3
+T17	GENE-Y 290 318	peptidylamidoglycolate lyase
+T18	GENE-Y 320 323	PGL
+T19	GENE-Y 325 335	EC 4.3.2.5
+T20	GENE-Y 500 503	PAM
+T21	GENE-Y 528 531	PAM
+T8	CHEMICAL 548 644	4-oxo-5-acetamido-6-phenyl-hex-2-enoic acid and 4-oxo-5-acetamido-6-(2-thienyl)-hex-2-enoic acid
+T9	CHEMICAL 995 1043	4-oxo-5-acetamido-6-(2-thienyl)-hex-2-enoic acid
+T2	CHEMICAL 1095 1110	benzoylacrylate
+T11	GENE-Y 1227 1230	PAM
+T3	CHEMICAL 1247 1295	4-oxo-5-acetamido-6-(2-thienyl)-hex-2-enoic acid
+T4	CHEMICAL 1461 1505	2, 4-dioxo-5-acetamido-6-phenylhexanoic acid
+T5	CHEMICAL 1556 1565	ascorbate
+T6	CHEMICAL 1628 1637	ascorbate
+T13	GENE-Y 1652 1655	PAM
+T7	CHEMICAL 1660 1668	dopamine
+T14	GENE-Y 1660 1685	dopamine-beta-hydroxylase
+R0	CPR-1 Arg1:T1 Arg2:T18
+R1	CPR-4 Arg1:T8 Arg2:T21
+R2	CPR-2 Arg1:T4 Arg2:T14
+R3	CPR-4 Arg1:T5 Arg2:T14

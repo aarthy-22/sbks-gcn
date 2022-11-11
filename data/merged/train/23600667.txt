@@ -1,0 +1,7 @@
+Polymer-based protein engineering can rationally tune enzyme activity, pH-dependence, and stability.
+The attachment of inert polymers, such as polyethyleneglycol, to proteins has driven the emergence of a multibillion dollar biotechnology industry.
+In all cases, proteins have been stabilized or altered by covalently coupling the pre-existing polymer to the surface of the protein.
+This approach is inherently limited by a lack of exquisite control of polymer architecture, chain length, site and density of attachment.
+Using a novel water-soluble atom transfer radical polymerization initiator, we have grown temperature- and pH-responsive polymers from the surface of a model protein, the enzyme chymotrypsin.
+Poly(2-(dimethylamino)ethyl methacrylate) changes in conformation with altered temperature and pH. Growing the polymer from the surface of chymotrypsin we were able to demonstrate that changes in temperature or pH can change predictably the conformation of the polymer surrounding the enzyme, which in turn enabled the rational tailoring of enzyme activity and stability.
+Using what we now term "Polymer-Based Protein Engineering" we have increased the activity and stability of chymotrypsin by an order of magnitude at pH's where the enzyme is usually inactive or unstable.

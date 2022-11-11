@@ -1,0 +1,4 @@
+(13) C-Detected Through-Bond Correlation Experiments for Protein Resonance Assignment by Ultra-Fast MAS Solid-State NMR.
+We present two sequences which combine ((1) H,(15) N) and ((15) N,(13) C) selective cross-polarization steps with an efficient variant of the J-based homonuclear transfer scheme, in which a spin-state-selective (S(3) E) block is incorporated to improve both resolution and sensitivity in the direct (13) C dimension.
+We propose these two sequences as a part of a suite of four N-C correlation experiments allowing for the assignment of protein backbone resonances in the solid state.
+We illustrate these experiments under ultra-fast magic angle spinning conditions on two samples of microcrystalline dimeric human superoxide dismutase (SOD, 153×2 amino acids), in its diamagnetic ("empty", Zn(II) ) and paramagnetic (Cu(II) , Zn(II) ) states.

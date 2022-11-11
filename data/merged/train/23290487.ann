@@ -1,0 +1,13 @@
+T12	GENE-Y 109 115	Glut-4
+T6	GENE-Y 435 474	insulin dependent glucose transporter-4
+T1	CHEMICAL 453 460	glucose
+T7	GENE-Y 476 482	Glut-4
+T2	CHEMICAL 599 608	palmatine
+T8	GENE-Y 632 638	Glut-4
+T3	CHEMICAL 676 683	glucose
+T9	GENE-N 698 709	PPARα and γ
+T10	GENE-N 787 794	insulin
+T4	CHEMICAL 813 820	glucose
+T5	CHEMICAL 865 874	palmatine
+T11	GENE-N 933 940	insulin
+R0	NOT Arg1:T1 Arg2:T7

@@ -1,0 +1,9 @@
+Mesenchymal cells regulate the response of acute lymphoblastic leukemia cells to asparaginase.
+Because of their low asparagine synthetase (ASNS) expression and asparagine biosynthesis, acute lymphoblastic leukemia (ALL) cells are exquisitely sensitive to asparagine depletion.
+Consequently, asparaginase is a major component of ALL therapy, but the mechanisms regulating the susceptibility of leukemic cells to this agent are unclear.
+In 288 children with ALL, cellular ASNS expression was more likely to be high in T-lineage ALL and low in B-lineage ALL with TEL-AML1 or hyperdiploidy.
+However, ASNS expression levels in bone marrow-derived mesenchymal cells (MSCs), which form the microenvironment where leukemic cells grow, were on average 20 times higher than those in ALL cells.
+MSCs protected ALL cells from asparaginase cytotoxicity in coculture experiments.
+This protective effect correlated with levels of ASNS expression: downregulation by RNA interference decreased the capacity of MSCs to protect ALL cells from asparaginase, whereas enforced ASNS expression conferred enhanced protection.
+Asparagine secretion by MSCs was directly related to their ASNS expression levels, suggesting a mechanism - increased concentrations of asparagine in the leukemic cell microenvironment - for the protective effects we observed.
+These results provide what we believe to be a new basis for understanding asparaginase resistance in ALL and indicate that MSC niches in the bone marrow can form a safe haven for leukemic cells.

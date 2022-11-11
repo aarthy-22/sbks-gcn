@@ -1,0 +1,10 @@
+T7	CHEMICAL 14 25	dacarbazine
+T8	CHEMICAL 65 76	aphidicolin
+T1	CHEMICAL 119 130	dacarbazine
+T2	CHEMICAL 536 547	dacarbazine
+T3	CHEMICAL 719 730	aphidicolin
+T4	CHEMICAL 754 765	dacarbazine
+T5	CHEMICAL 767 778	Aphidicolin
+T9	GENE-N 806 826	DNA polymerase alpha
+T6	CHEMICAL 906 917	dacarbazine
+R0	CPR-4 Arg1:T5 Arg2:T9

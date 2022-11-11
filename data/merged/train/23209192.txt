@@ -1,0 +1,11 @@
+Cotinine in human placenta predicts induction of gene expression in fetal tissues.
+Maternal cigarette smoking during pregnancy is associated with increased risk of perinatal morbidity and mortality.
+However, the mechanisms underlying adverse birth outcomes following prenatal exposure to cigarette smoke remain unknown due, in part, to the absence or unreliability of information regarding maternal cigarette smoke exposure during pregnancy.
+Our goal was to determine if placental cotinine could be a reliable biomarker of fetal cigarette smoke exposure during pregnancy.
+Cotinine levels were determined in placentas from 47 women who reported smoking during pregnancy and from 10 women who denied cigarette smoke exposure.
+Cotinine levels were significantly higher in placentas from women reporting cigarette smoking (median = 27.2 ng/g) versus women who reported no smoke exposure (2.3 ng/g, P < 0.001).
+Receiver operating characteristic curve analysis identified an optimal cut point of 7.5 ng/g (sensitivity = 78.7%, specificity = 100%) to classify placenta samples from mothers who smoked versus those from mothers who did not.
+Among 415 placentas for which maternal cigarette smoking status was unavailable, 167 had cotinine levels > 7.5 ng/g and would be considered positive for cigarette smoke exposure.
+Data from quantitative reverse-transcription polymerase chain reaction analyses demonstrated that in utero cigarette smoke exposure predicted by cotinine in placenta is associated with changes in the expression of xenobiotic-metabolizing enzymes in fetal tissues.
+CYP1A1 mRNA in fetal lung and liver tissue and CYP1B1 mRNA in fetal lung tissue were significantly induced when cotinine was detected in placenta.
+These findings indicate that cotinine in placenta is a reliable biomarker for fetal exposure and response to maternal cigarette smoking during pregnancy.

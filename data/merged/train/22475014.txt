@@ -1,0 +1,4 @@
+Glaucogenin E, a new C21 steroid from Cynanchum stauntonii.
+Glaucogenin E (1), a new C(21) steroid sapogenin, along with three known ones (2-4) were isolated from the rhizomes of Cynanchum stauntonii (Decne.) Schltr. ex Levl.
+Their structures were established mainly by the spectroscopic analysis, including 2D NMR.
+All the isolated compounds were evaluated for their cytotoxicity against human cancer cell lines HeLa, Bel-7402, SGC-7901 and BGC-823.

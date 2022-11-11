@@ -1,0 +1,8 @@
+T7	GENE-N 98 110	5α-reductase
+T6	GENE-N 199 211	5α-reductase
+T3	CHEMICAL 223 234	finasteride
+T4	CHEMICAL 239 250	dutasteride
+T5	GENE-Y 679 682	PSA
+T1	CHEMICAL 1595 1606	finasteride
+T2	CHEMICAL 1610 1621	dutasteride
+R0	CPR-4 Arg1:T4 Arg2:T6

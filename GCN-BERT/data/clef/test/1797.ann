@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 5 6	B
+T2	REACTION_PRODUCT 7 118	2-((S)-2-((S)-1-((S)-2-Ammonio-4-methylpentanoyl)pyrrolidine-2-carboxamido)-2-phenylethyl)pyridinium dichloride
+T3	STARTING_MATERIAL 119 239	tert-Butyl (S)-4-methyl-1-oxo-1-((S)-2-((S)-1-phenyl-2-(pyridin-2-yl)ethylcarbamoyl)pyrrolidin-1-yl)pentan-2-ylcarbamate
+T4	REAGENT_CATALYST 283 286	HCl
+T5	SOLVENT 299 303	Et2O
+T6	TEMPERATURE 354 356	rt
+T7	TIME 361 365	18 h
+T8	OTHER_COMPOUND 397 401	Et2O
+T9	OTHER_COMPOUND 474 478	Et2O
+T10	OTHER_COMPOUND 530 535	water
+T11	YIELD_OTHER 563 569	130 mg
+T12	YIELD_PERCENT 571 574	69%
+T13	REACTION_PRODUCT 583 597	title compound

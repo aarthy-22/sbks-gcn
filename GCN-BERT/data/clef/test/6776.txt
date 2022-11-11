@@ -1,0 +1,4 @@
+Procedure D
+Preparation of (R)-4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoic acid
+Step 1: (R)-8-(Benzyloxy)-5-(1-((tert-butyldimethylsilyl)oxy)-2-((4-hydroxyphenethyl)amino)ethyl)quinolin-2(1H)-one
+A mixture of (R)-8-(benzyloxy)-5-(2-bromo-1-((tert-butyldimethylsilyl)oxy)ethyl)quinolin-2(1H)-one (1.0 g, 2.05 mmol) in NMP (2 mL) was added with tyramine (1.41 g, 10.2 mmol). The mixture was heated at 80° C. for 18 hours. The mixture was diluted with ethyl acetate and washed sequentially with 10% aqueous potassium hydrogen sulfate and brine (×2). The organic phase was dried over anhydrous magnesium sulfate and the filtrate was evaporated under reduced pressure to afford the title compound (2.58 g, 93%).

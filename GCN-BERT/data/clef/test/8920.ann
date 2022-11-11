@@ -1,0 +1,15 @@
+T1	REACTION_PRODUCT 12 158	(1S,3R)-1-(4-bromo-2,6-difluorophenyl)-2-(3-((tert-butyldiphenylsilyl) oxy)-2,2-difluoropropyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T2	STARTING_MATERIAL 159 191	4-Bromo-2,6-difluorobenzaldehyde
+T3	STARTING_MATERIAL 239 331	(R)-3-(2-((3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)amino)propyl)-2-methylaniline
+T4	REAGENT_CATALYST 355 366	acetic acid
+T5	REAGENT_CATALYST 379 384	water
+T6	TEMPERATURE 436 442	80° C.
+T7	OTHER_COMPOUND 548 553	EtOAc
+T8	OTHER_COMPOUND 568 575	aqueous
+T9	OTHER_COMPOUND 576 582	NaHCO3
+T10	OTHER_COMPOUND 664 670	silica
+T11	OTHER_COMPOUND 714 727	ethyl acetate
+T12	OTHER_COMPOUND 731 738	hexanes
+T13	REACTION_PRODUCT 750 895	(1S,3R)-1-(4-bromo-2,6-difluorophenyl)-2-(3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T14	YIELD_OTHER 897 903	1.33 g
+T15	YIELD_PERCENT 905 910	54.5%

@@ -1,0 +1,7 @@
+T1	YIELD_PERCENT 332 335	58%
+T2	EXAMPLE_LABEL 8 11	28A
+T3	REACTION_PRODUCT 354 368	title compound
+T4	STARTING_MATERIAL 229 250	compound from Ex. 18A
+T5	REACTION_PRODUCT 12 153	3-Methylbut-2-en-1-yl 1-(2-methoxyethyl)-5-methyl-3-(3-methylbut-2-en-1-yl)-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carboxylate
+T6	YIELD_OTHER 324 330	408 mg
+T7	STARTING_MATERIAL 278 303	1-bromo-3-methylbut-2-ene

@@ -1,0 +1,11 @@
+T8	GENE-Y 187 195	incretin
+T7	GENE-N 369 384	leptin receptor
+T9	GENE-N 611 617	leptin
+T10	GENE-N 648 680	glucagon-like peptide-1 receptor
+T5	CHEMICAL 824 830	kaolin
+T1	CHEMICAL 1175 1181	Kaolin
+T2	CHEMICAL 1674 1685	cholesterol
+T3	CHEMICAL 1687 1700	triglycerides
+T6	GENE-N 1705 1712	insulin
+T4	CHEMICAL 1845 1851	kaolin
+R0	NOT Arg1:T10 Arg2:T5

@@ -1,0 +1,26 @@
+T21	CHEMICAL 26 36	bevantolol
+T25	GENE-Y 50 69	beta 1-adrenoceptor
+T1	CHEMICAL 119 129	Bevantolol
+T20	CHEMICAL 207 219	isoprenaline
+T4	CHEMICAL 236 246	Bevantolol
+T10	CHEMICAL 370 382	isoprenaline
+T11	CHEMICAL 413 423	Bevantolol
+T12	CHEMICAL 484 496	phentolamine
+T13	CHEMICAL 512 522	bevantolol
+T24	GENE-N 533 551	alpha-adrenoceptor
+T14	CHEMICAL 561 571	Bevantolol
+T15	CHEMICAL 607 620	noradrenaline
+T16	CHEMICAL 708 720	guanethidine
+T17	CHEMICAL 736 746	bevantolol
+T18	CHEMICAL 757 770	noradrenaline
+T19	CHEMICAL 797 807	bevantolol
+T2	CHEMICAL 1155 1165	bevantolol
+T3	CHEMICAL 1238 1244	sodium
+T5	CHEMICAL 1301 1311	bevantolol
+T6	CHEMICAL 1553 1560	calcium
+T22	GENE-N 1553 1569	calcium channels
+T7	CHEMICAL 1608 1618	Bevantolol
+T8	CHEMICAL 1762 1769	calcium
+T9	CHEMICAL 1836 1843	calcium
+T23	GENE-N 1836 1852	calcium channels
+R0	CPR-6 Arg1:T21 Arg2:T25

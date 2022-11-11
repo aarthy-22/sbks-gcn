@@ -1,0 +1,9 @@
+STZ transport and cytotoxicity.
+Specific enhancement in GLUT2-expressing cells.
+The glucose analog streptozotocin (STZ) has long been used as a tool for creating experimental diabetes because of its relatively specific beta-cell cytotoxic effect, but the mechanism by which systemic injection of STZ causes beta-cell destruction is not well understood.
+In the current study, we have used insulinoma (RIN) and AtT-20ins cell lines engineered for overexpression of GLUT2 or GLUT1 to investigate the role of glucose transporter isoforms in mediating STZ cytotoxicity.
+The in vivo effects of STZ were evaluated by implantation of RIN cells expressing or lacking GLUT2 into athymic nude rats.
+The drug had a potent cytotoxic effect on RIN cells expressing GLUT2, but had no effect on cells lacking GLUT2 expression, as indicated by histological analysis and measurement of the blood glucose levels of treated animals.
+The preferential cytotoxic effect of STZ on GLUT2-expressing cell lines was confirmed by in vitro analysis of GLUT2-expressing and untransfected RIN cells, as well as GLUT2- and GLUT1-overexpressing AtT-20ins cells.
+Consistent with these data, only GLUT2-expressing RIN or AtT-20ins cells transported STZ efficiently.
+We conclude that expression of GLUT2 is required for efficient killing of neuroendocrine cells by STZ, and this effect is related to specific recognition of the drug as a transported substrate by GLUT2 but not GLUT1.

@@ -1,0 +1,11 @@
+Sodium arsenite induces cyclooxygenase-2 expression in human uroepithelial cells through MAPK pathway activation and reactive oxygen species induction.
+Arsenic can induce reactive oxygen species (ROS) leading to oxidative stress and carcinogenesis.
+Bladder is one of the major target organs of arsenic, and cyclooxygenase-2 (COX-2) may play an important role in arsenic-induced bladder cancer.
+However, the mechanism by which arsenic induces COX-2 in bladder cells remains unclear.
+This study aimed at investigating arsenic-mediated intracellular redox status and signaling cascades leading to COX-2 induction in human uroepithelial cells (SV-HUC-1).
+SV-HUC-1 cells were exposed to sodium arsenite and COX-2 expression, mitogen-activated protein kinase (MAPK) phosphorylation, glutathione (GSH) levels, ROS induction and Nrf2 expression were quantified.
+Our results demonstrate that arsenite (1-10 μM) elevates COX-2 expression, GSH levels, ROS and Nrf2 expression.
+Arsenite treatment for 24h stimulates phosphorylation of ERK and p38, but not JNK in SV-HUC-1 cells.
+Induction of Cox-2 mRNA levels by arsenite was attenuated by inhibitors of ERK, p38 and JNK.
+Arsenite-induced ROS generation and COX-2 expression were significantly attenuated by treatment with melatonin (a ROS scavenger), but enhanced by DL-buthionine-(S, R)-sulfoximine (BSO, an inhibitor of gamma-glutamylcysteine synthetase (γ-GCS) resulting in lower GSH and increased ROS levels).
+These data indicate that arsenite promotes an induction of ROS, which results in an induction of COX-2 expression through activation of the MAPK pathway.

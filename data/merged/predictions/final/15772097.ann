@@ -1,0 +1,19 @@
+T18	GENE 61 65	PNPO
+T10	CHEMICAL 80 107	pyridox(am)ine 5'-phosphate
+T19	GENE 80 115	pyridox(am)ine 5'-phosphate oxidase
+T8	CHEMICAL 210 232	pyridoxal 5'-phosphate
+T1	CHEMICAL 257 276	pyridoxal phosphate
+T2	CHEMICAL 278 281	PLP
+T3	CHEMICAL 486 507	aromatic L-amino acid
+T11	GENE 486 521	aromatic L-amino acid decarboxylase
+T4	CHEMICAL 532 535	PLP
+T5	CHEMICAL 598 601	PLP
+T6	CHEMICAL 678 705	pyridox(am)ine 5'-phosphate
+T12	GENE 678 713	pyridox(am)ine 5'-phosphate oxidase
+T13	GENE 715 719	PNPO
+T14	GENE 740 744	PNPO
+T15	GENE 905 908	g>a
+T16	GENE 1004 1009	R229W
+T7	CHEMICAL 1028 1052	pyridox(am)ine phosphate
+T17	GENE 1028 1060	pyridox(am)ine phosphate oxidase
+T9	CHEMICAL 1094 1097	PLP

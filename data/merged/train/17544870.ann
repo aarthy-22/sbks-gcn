@@ -1,0 +1,31 @@
+T17	CHEMICAL 100 111	sibutramine
+T11	CHEMICAL 190 204	norepinephrine
+T2	CHEMICAL 224 243	5-hydroxytryptamine
+T5	CHEMICAL 265 276	sibutramine
+T10	CHEMICAL 481 492	sibutramine
+T12	CHEMICAL 943 957	norepinephrine
+T13	CHEMICAL 962 981	5-hydroxytryptamine
+T14	CHEMICAL 1004 1022	phenylethanolamine
+T15	CHEMICAL 1023 1024	N
+T16	CHEMICAL 1044 1062	guanine nucleotide
+T25	GENE-Y 1044 1097	guanine nucleotide binding protein beta polypeptide 3
+T26	GENE-Y 1099 1121	alpha2A adrenoreceptor
+T18	GENE-Y 1127 1201	solute carrier family 6 [neurotransmitter transporter, serotonin] member 4
+T1	CHEMICAL 1182 1191	serotonin
+T19	GENE-Y 1218 1224	SLC6A4
+T3	CHEMICAL 1364 1375	sibutramine
+T4	CHEMICAL 1424 1435	sibutramine
+T20	GENE-Y 1585 1595	peptide YY
+T6	CHEMICAL 1669 1680	sibutramine
+T21	GENE-Y 1882 1888	SLC6A4
+T7	CHEMICAL 1935 1946	sibutramine
+T8	CHEMICAL 1983 1994	sibutramine
+T22	GENE-Y 2054 2064	peptide YY
+T23	GENE-Y 2102 2108	SLC6A4
+T24	GENE-Y 2152 2158	SLC6A4
+T9	CHEMICAL 2189 2200	sibutramine
+R0	NOT Arg1:T13 Arg2:T18
+R1	NOT Arg1:T14 Arg2:T26
+R2	NOT Arg1:T15 Arg2:T18
+R3	NOT Arg1:T15 Arg2:T19
+R4	NOT Arg1:T16 Arg2:T18

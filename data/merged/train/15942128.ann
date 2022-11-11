@@ -1,0 +1,17 @@
+T9	CHEMICAL 0 11	Butorphanol
+T15	GENE-Y 71 93	kappa-opioid receptors
+T2	CHEMICAL 117 128	butorphanol
+T3	CHEMICAL 130 173	17-cyclobutylmethyl-3,14-dihydroxymorphinan
+T7	CHEMICAL 175 183	tartrate
+T10	GENE-N 355 371	opioid receptors
+T4	CHEMICAL 639 650	butorphanol
+T11	GENE-Y 658 679	kappa-opioid receptor
+T5	CHEMICAL 721 732	butorphanol
+T6	CHEMICAL 816 827	butorphanol
+T12	GENE-N 892 913	brain opioid receptor
+T8	CHEMICAL 1025 1036	butorphanol
+T13	GENE-N 1040 1062	brain opioid receptors
+T14	GENE-Y 1084 1105	kappa-opioid receptor
+T1	CHEMICAL 1197 1208	butorphanol
+R0	NOT Arg1:T4 Arg2:T11
+R1	NOT Arg1:T11 Arg2:T5

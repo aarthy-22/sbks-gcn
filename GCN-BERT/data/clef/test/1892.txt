@@ -1,0 +1,5 @@
+Example 64
+7-(Cyclohexylmethyl)-3-methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+Step 1
+7-(Cyclohexylmethyl)-3-methyl-1H-purine-2,6(3H,7H)-dione
+3-Methyl-1H-purine-2,6(3H,7H)-dione (2.00 g, 12.0 mmol) was dissolved in dimethyl sulfoxide (15 mL), sodium hydride (530 mg, 13.2 mmol, 60%) was slowly added at 0°C. The reaction was warmed to 80°C and stirred for 30 minutes, and then (bromomethyl) cyclohexane (2.34 g, 13.2 mmol) was slowly added under nitrogen atmosphere. The reaction solution was stirred at 80°C for 12 hours, and then cooled to 25°C. The reaction solution was filtered after adding water (150 mL), and the filter cake was rinsed with water (10 mL x 2). The solid was dried under reduced pressure by oil pump to give 7-(cyclohexylmethyl)-3-methyl-1H-purine-2,6(3H,7H)-dione (2.8 g, as a yellow solid) with a yield of 89%.

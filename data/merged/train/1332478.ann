@@ -1,0 +1,14 @@
+T10	CHEMICAL 11 20	ritodrine
+T9	CHEMICAL 146 155	ritodrine
+T2	CHEMICAL 245 251	RU 486
+T3	CHEMICAL 253 265	mifepristone
+T4	CHEMICAL 296 305	ritodrine
+T12	GENE-Y 383 409	beta 2-Adrenergic receptor
+T5	CHEMICAL 448 478	cyclic adenosine monophosphate
+T6	CHEMICAL 553 562	Ritodrine
+T7	CHEMICAL 797 806	ritodrine
+T8	CHEMICAL 887 917	cyclic adenosine monophosphate
+T13	GENE-Y 933 959	beta 2-adrenergic receptor
+T1	CHEMICAL 1112 1121	ritodrine
+T11	GENE-Y 1268 1295	beta 2-adrenergic receptors
+R0	CPR-4 Arg1:T7 Arg2:T13

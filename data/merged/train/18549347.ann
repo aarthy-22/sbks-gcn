@@ -1,0 +1,20 @@
+T14	CHEMICAL 21 31	safinamide
+T3	CHEMICAL 68 76	Dopamine
+T8	CHEMICAL 100 108	levodopa
+T10	CHEMICAL 110 118	dopamine
+T17	GENE-N 110 127	dopamine receptor
+T1	CHEMICAL 156 165	monoamine
+T15	GENE-Y 156 175	monoamine oxidase B
+T6	CHEMICAL 192 200	catechol
+T16	GENE-Y 192 220	catechol-O-methyltransferase
+T9	CHEMICAL 511 521	Safinamide
+T11	CHEMICAL 607 615	dopamine
+T12	CHEMICAL 629 637	levodopa
+T13	CHEMICAL 639 649	Safinamide
+T2	CHEMICAL 1095 1105	safinamide
+T4	CHEMICAL 1306 1316	safinamide
+T5	CHEMICAL 1402 1412	Safinamide
+T7	CHEMICAL 1533 1543	safinamide
+R0	NOT Arg1:T8 Arg2:T17
+R1	NOT Arg1:T17 Arg2:T1
+R2	NOT Arg1:T1 Arg2:T16

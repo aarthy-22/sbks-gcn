@@ -1,0 +1,18 @@
+T5	CHEMICAL 15 43	chloropyramine hydrochloride
+T16	GENE-Y 77 98	focal adhesion kinase
+T15	GENE-Y 103 148	vascular endothelial growth factor receptor 3
+T6	GENE-Y 194 197	FAK
+T4	CHEMICAL 203 211	tyrosine
+T14	GENE-N 203 218	tyrosine kinase
+T7	GENE-Y 309 312	FAK
+T8	GENE-Y 625 628	FAK
+T9	GENE-Y 633 640	VEGFR-3
+T1	CHEMICAL 669 697	chloropyramine hydrochloride
+T10	GENE-Y 763 770	VEGFR-3
+T11	GENE-Y 775 778	FAK
+T2	CHEMICAL 896 924	Chloropyramine hydrochloride
+T3	CHEMICAL 1003 1014	doxorubicin
+T12	GENE-Y 1082 1085	FAK
+T13	GENE-Y 1086 1093	VEGFR-3
+R0	CPR-4 Arg1:T1 Arg2:T11
+R1	NOT Arg1:T8 Arg2:T1

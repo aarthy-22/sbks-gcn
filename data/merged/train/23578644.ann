@@ -1,0 +1,14 @@
+T8	CHEMICAL 11 24	linoleic acid
+T9	CHEMICAL 29 36	calcium
+T6	CHEMICAL 174 187	linoleic acid
+T2	CHEMICAL 243 250	calcium
+T3	CHEMICAL 321 328	calcium
+T4	CHEMICAL 450 457	calcium
+T5	CHEMICAL 494 507	linoleic acid
+T10	GENE-Y 875 894	parathyroid hormone
+T11	GENE-Y 896 899	PTH
+T7	CHEMICAL 939 963	1,25-dihydroxyvitamin D3
+T12	GENE-Y 1045 1080	tartrate resistant acid phosphatase
+T13	GENE-Y 1082 1086	TRAP
+T1	CHEMICAL 1198 1205	calcium
+R0	NOT Arg1:T11 Arg2:T7

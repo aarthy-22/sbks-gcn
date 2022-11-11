@@ -1,0 +1,13 @@
+Dexamethasone-mediated changes in adipose triacylglycerol metabolism are exaggerated, not diminished, in the absence of a functional GR dimerization domain.
+The glucocorticoid (GC) receptor (GR) has multiple effector mechanisms, including dimerization-mediated transactivation of target genes via DNA binding and transcriptional repression mediated by protein-protein interactions.
+Much attention has been focused on developing selective GR modulators that would dissociate adverse effects from therapeutic anti-inflammatory effects.
+The GR(dim/dim) mouse has a mutation in the dimerization domain of GR and has been shown to have attenuated transactivation with intact repression.
+To understand the role of GR dimerization-dependent targets in multiple tissues, we measured metabolic fluxes through several disease-relevant GC target pathways using heavy water labeling and mass spectrometry in wild-type and GR(dim/dim) mice administered the potent GC dexamethasone (DEX).
+Absolute triglyceride synthesis was increased in both wild-type and GR(dim/dim) mice by DEX in the inguinal and epididymal fat depots.
+GR(dim/dim) mice showed an exaggerated response to DEX in both depots.
+De novo lipogenesis was also greatly increased in both depots in response to DEX in GR(dim/dim), but not wild-type mice.
+In contrast, the inhibitory effect of DEX on bone and skin collagen synthesis rates was greater in wild-type compared with GR(dim/dim) mice.
+Wild-type mice were more sensitive to DEX-dependent decreases in insulin sensitivity than GR(dim/dim) mice.
+Wild-type and GR(dim/dim) mice were equally sensitive to DEX-dependent decreases in muscle protein synthesis.
+Chronic elevation of GCs in GR(dim/dim) mice results in severe runting and lethality.
+In conclusion, some metabolic effects of GC treatment are exaggerated in adipose tissue of GR(dim/dim) mice, suggesting that selective GR modulators based on dissociating GR transactivation from repression should be evaluated carefully.

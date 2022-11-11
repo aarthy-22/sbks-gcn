@@ -1,0 +1,35 @@
+T15	CHEMICAL 27 40	prostaglandin
+T27	GENE-N 27 62	prostaglandin endoperoxide synthase
+T28	GENE-N 64 78	cyclooxygenase
+T16	CHEMICAL 92 99	aspirin
+T14	CHEMICAL 114 123	steroidal
+T11	CHEMICAL 156 169	prostaglandin
+T24	GENE-Y 156 199	prostaglandin endoperoxide (PGH) synthase-1
+T22	GENE-Y 204 218	PGH synthase-2
+T1	CHEMICAL 357 364	Aspirin
+T19	GENE-Y 421 435	PGH synthase-1
+T2	CHEMICAL 450 457	aspirin
+T20	GENE-Y 466 480	PGH synthase-2
+T3	CHEMICAL 519 550	15-hydroxyeicosatetraenoic acid
+T4	CHEMICAL 552 559	15-HETE
+T21	GENE-N 676 690	cyclooxygenase
+T5	CHEMICAL 709 715	oxygen
+T6	CHEMICAL 755 767	indomethacin
+T7	CHEMICAL 769 785	sulindac sulfide
+T8	CHEMICAL 791 800	piroxicam
+T23	GENE-Y 826 840	PGH synthase-1
+T9	CHEMICAL 842 851	ibuprofen
+T10	CHEMICAL 853 865	flurbiprofen
+T12	CHEMICAL 871 884	meclofenamate
+T13	CHEMICAL 939 970	6-methoxy-2-naphthylacetic acid
+T25	GENE-Y 996 1010	PGH synthase-2
+T26	GENE-N 1051 1064	PGH synthases
+T17	GENE-N 1161 1175	cyclooxygenase
+T18	GENE-N 1285 1297	PGH synthase
+R0	CPR-4 Arg1:T16 Arg2:T28
+R1	CPR-4 Arg1:T7 Arg2:T23
+R2	CPR-4 Arg1:T8 Arg2:T23
+R3	CPR-4 Arg1:T9 Arg2:T25
+R4	CPR-4 Arg1:T13 Arg2:T25
+R5	NOT Arg1:T27 Arg2:T14
+R6	NOT Arg1:T8 Arg2:T25

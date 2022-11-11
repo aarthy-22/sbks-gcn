@@ -1,0 +1,20 @@
+T16	CHEMICAL 16 29	cystathionine
+T17	CHEMICAL 31 53	cystathionine ketimine
+T18	CHEMICAL 59 104	perhydro-1,4-thiazepine-3,5-dicarboxylic acid
+T15	CHEMICAL 156 177	D, L-propargylglycine
+T14	CHEMICAL 267 280	cystathionine
+T19	GENE-Y 267 292	cystathionine gamma-lyase
+T1	CHEMICAL 304 324	D,L-propargylglycine
+T2	CHEMICAL 330 343	cystathionine
+T3	CHEMICAL 357 379	cystathionine ketimine
+T4	CHEMICAL 381 383	CK
+T5	CHEMICAL 389 434	perhydro-1,4-thiazepine-3,5-dicarboxylic acid
+T6	CHEMICAL 436 442	PHTZDC
+T7	CHEMICAL 512 532	D,L-propargylglycine
+T8	CHEMICAL 568 570	CK
+T9	CHEMICAL 575 581	PHTZDC
+T10	CHEMICAL 674 694	D,L-propargylglycine
+T11	CHEMICAL 745 747	CK
+T12	CHEMICAL 752 758	PHTZDC
+T13	CHEMICAL 882 902	D,L-propargylglycine
+R0	CPR-4 Arg1:T1 Arg2:T19

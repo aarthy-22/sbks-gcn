@@ -1,0 +1,14 @@
+Identification of aldo-keto reductases as NRF2-target marker genes in human cells.
+Transcription factor NF-E2-related factor 2 (NRF2) plays a crucial role in the cellular defense against oxidative/electrophilic stress by up-regulating multiple antioxidant genes.
+Numerous studies with genetically modified animals have demonstrated that Nrf2 is a sensitivity determining factor upon the exposure to environmental chemicals including carcinogens.
+Moreover, recent studies have demonstrated that polymorphism in the human NRF2 promoter is associated with higher risks for developing acute lung injury, gastric mucosal inflammation, and nephritis.
+Therefore, the identification of reliable and effective human target genes of NRF2 may allow the monitoring of NRF2 activity and to predict individual sensitivity to environmental stress-induced damage.
+For this purpose, we investigated genes that are tightly controlled by NRF2 to establish markers for NRF2 activity in human cells.
+Firstly, in the normal human renal epithelial HK-2 cells, the measurement of the expression of 30 previously reported NRF2 target genes in response to NRF2 inducers (sulforaphane, tert-butylhydroquinone, cinnamic aldehyde, and hydrogen peroxide) showed that the aldo-keto reductase (AKR) 1C1 is highly inducible by all treatments.
+Accordantly, the basal and inducible expressions of AKRs were significantly attenuated in NRF2-silenced HK-2 cells.
+Whereas, cells with stable KEAP1 knockdown, which causes a modest NRF2 activation, demonstrated substantially increased levels of AKR1A1, 1B1, 1B10, 1C1, 1C2, and 1C3.
+Secondly, the linkage between NRF2 and the AKRs was confirmed in human monocytic leukemia cell line U937, which can be a model of peripherally available blood cells.
+The treatment of U937 cells with NRF2 inducers including sulforaphane effectively elevated the expression of AKR1B1, 1B10, 1C1, 1C2, and 1C3.
+Whereas, the levels of both the basal and sulforaphane-inducible expression of AKR1C1 were significantly reduced in NRF2-silenced stable U937 cells compared to the control cells.
+Similarly, the inducible expression of AKR1C1 was observed in another human monocytic leukemia cell line THP-1 as well as in human primary blood CD14(+) monocytes.
+In conclusion, together with the high inducibility and NRF2 dependency shown in renal epithelial cells as well as in peripherally available blood cells, current findings suggest that AKRs can be utilized as a marker of NRF2 activity in human cells.

@@ -1,0 +1,10 @@
+T1	EXAMPLE_LABEL 18 19	5
+T2	REACTION_PRODUCT 42 45	139
+T3	YIELD_OTHER 46 52	1.91 g
+T4	YIELD_OTHER 54 63	1.59 mmol
+T5	YIELD_PERCENT 65 74	yield=45%
+T6	REACTION_PRODUCT 88 91	139
+T7	STARTING_MATERIAL 188 241	12-(9-phenyl-9H-carbazol-3-yl)chrysene-6-carbaldehyde
+T8	REACTION_PRODUCT 284 309	4-phenyl-1-naphthaldehyde
+T9	REACTION_PRODUCT 315 399	Intermediate 4-hydroxy-3-(12-(9-phenyl-9H-carbazol-3-yl)chrysen-6-yl)pent-3-en-2-one
+T10	REACTION_PRODUCT 420 485	Intermediate 4-hydroxy-3-(4-phenylnaphthalen-1-yl)pent-3-en-2-one

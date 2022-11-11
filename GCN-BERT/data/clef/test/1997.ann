@@ -1,0 +1,21 @@
+T1	REACTION_PRODUCT 936 1068	(E)-methyl 3-(4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-7,8-dihydroxy-3-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylate
+T2	OTHER_COMPOUND 852 862	silica gel
+T3	STARTING_MATERIAL 353 355	1d
+T4	SOLVENT 401 409	methanol
+T5	STARTING_MATERIAL 416 453	(E)-methyl 3-(4-formylphenyl)acrylate
+T6	YIELD_PERCENT 1088 1091	29%
+T7	EXAMPLE_LABEL 8 10	35
+T8	OTHER_COMPOUND 767 775	methanol
+T9	REACTION_PRODUCT 1069 1072	35b
+T10	REACTION_PRODUCT 149 281	(E)-methyl 3-(4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-7,8-dihydroxy-3-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylate
+T11	YIELD_OTHER 1074 1080	100 mg
+T12	REACTION_PRODUCT 921 935	title compound
+T13	REAGENT_CATALYST 585 596	acetic acid
+T14	TEMPERATURE 665 669	55°C
+T15	STARTING_MATERIAL 292 352	4-(2-((2-fluoro-2-methylpropyl)amino)propyl)benzene-1,2-diol
+T16	OTHER_COMPOUND 793 808	Dichloromethane
+T17	EXAMPLE_LABEL 147 148	1
+T18	OTHER_COMPOUND 11 141	(E)-3-(4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-7,8-dimethoxy-3-methyl-1,2,3,4-t etrahydroisoquinolin-1-yl)phenyl)acrylic acid
+T19	STARTING_MATERIAL 454 457	35a
+T20	OTHER_COMPOUND 780 791	acetic acid
+T21	TIME 686 693	5 hours

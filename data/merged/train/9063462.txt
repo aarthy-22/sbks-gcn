@@ -1,0 +1,13 @@
+Evolution of the aminoacyl-tRNA synthetase family and the organization of the Drosophila glutamyl-prolyl-tRNA synthetase gene.
+Intron/exon structure of the gene, control of expression of the two mRNAs, selective advantage of the multienzyme complex.
+In Drosophila, glutamyl-prolyl-tRNA synthetase is a multifunctional synthetase encoded by a unique gene and composed of three domains: the amino- and carboxy-terminal domains catalyze the aminoacylation of glutamic acid and proline tRNA species, respectively, and the central domain is made of 75 amino acids repeated six times amongst which 46 are highly conserved and constitute the repeated motifs [Cerini, C., Kerjan, P., Astier, M., Gratecos, D., Mirande, M. & Semeriva, M. (1991) EMBO J. 10, 4267-4277].
+The intron/exon organization of the Drosophila gene reveals the presence of six exons among which four are in the 5'-end encoding glutamic acid activity.
+Only one exon encodes the repeated motifs.
+A comparison of introns positions, intron classes and intron/exon boundaries in the Drosophila gene and in its human counterpart is compatible with the intron-early hypothesis presiding, at least in part, to the evolution of the synthetases.
+The full-length fly protein is encoded by a 6.1-kb mRNA which is expressed throughout development.
+In addition, a shorter transcript encompasses the 3'-end of the cDNA and it is especially abundant in 5-10-h embryos until the first larval stage.
+Expression of these two mRNAs seems to be controlled by two independent promoters.
+The 6.1-kb mRNA promoter is probably localized in the 5'-end of the gene.
+The small mRNA promoter resides in the 4th intron and evidence is provided that the mRNA encodes only the domain corresponding to prolyl-tRNA synthetase and is functional in vivo.
+Finally, transgenic flies have been established by using constructs corresponding to the three domains of the protein.
+Overexpression of the repeated motifs leads to a sterility of the flies that suggests a role of these motifs in linking the multienzyme complex to an, as yet, unknown structure of the protein synthesis apparatus.

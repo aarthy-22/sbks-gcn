@@ -1,0 +1,11 @@
+Regulation of a viral proteinase by a peptide and DNA in one-dimensional space: II.
+adenovirus proteinase is activated in an unusual one-dimensional biochemical reaction.
+Late in an adenovirus infection, the viral proteinase (AVP) becomes activated to process virion precursor proteins used in virus assembly.
+AVP is activated by two cofactors, the viral DNA and pVIc, an 11-amino acid peptide originating from the C terminus of the precursor protein pVI.
+There is a conundrum in the activation of AVP in that AVP and pVI are sequence-independent DNA-binding proteins with nm equilibrium dissociation constants such that in the virus particle, they are predicted to be essentially irreversibly bound to the viral DNA.
+Here, we resolve that conundrum by showing that activation of AVP takes place on the one-dimensional contour of DNA.
+In vitro, pVI, a substrate, slides on DNA via one-dimensional diffusion, D(1) = 1.45 × 10(6) bp(2)/s, until it binds to AVP also on the same DNA molecule.
+AVP, partially activated by being bound to DNA, excises pVIc, which binds to the AVP molecule that cut it out.
+pVIc then forms a disulfide bond with AVP forming the fully active AVP-pVIc complex bound to DNA.
+In vivo, in heat-disrupted immature virus, AVP was also activated by pVI in DNA-dependent reactions.
+This activation mechanism illustrates a new paradigm for virion maturation and a new way, by sliding on DNA, for bimolecular complexes to form among proteins not involved in DNA metabolism.

@@ -1,0 +1,16 @@
+Four novel mutations in the thiazide-sensitive Na-Cl co-transporter gene in Japanese patients with Gitelman's syndrome.
+BACKGROUND: Gitelman's syndrome (GS) is an autosomal recessive disorder resulting from inactivating mutations in the thiazide-sensitive Na-Cl co-transporter (NCCT) gene.
+To date, almost 90 mutations have been identified.
+It is possible that there is a population-specific distribution of mutations.
+In this study, we analysed mutations in the NCCT gene of seven Japanese patients with GS.
+METHODS: Peripheral blood mononuclear cells were isolated from patients with GS, their family members and healthy control subjects.
+A mutation analysis of the NCCT gene was performed completely by direct automated sequencing of polymerase chain reaction-amplified DNA products.
+In patients with a deletion or splice site mutation, we undertook cDNA sequence analysis.
+RESULTS: We identified nine mutations.
+Five of them [c.185C>T (Thr60Met), c.1712C>T (Ala569Val), c.1930C>T (Arg642Cys), c.2552T>A (Leu849His) and c.1932delC] have been reported in Japanese patients, but not in GS patients from other ethnic groups.
+The remaining four mutations [c.7A>T (Met1Leu), c.1181_1186+20del26, c.1811_1812delAT and IVS16+1G>A] were novel.
+In cDNA derived from a patient with c.1181_1186+20del26, a deletion of exon 9 and a frameshift at the start of exon 10 were observed.
+In cDNA derived from patients with IVS16+1G>A, an additional 96 bp insertion between exons 16 and 17 was observed.
+Six out of seven patients were compound heterozygotes, and the remaining one carried a single heterozygous mutation.
+CONCLUSIONS: We found four novel mutations in the NCCT gene in seven Japanese patients with GS.
+Moreover, our study suggests that the distribution of mutations in the NCCT gene in Japanese GS patients potentially differs from that in other populations.

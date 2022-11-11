@@ -1,0 +1,4 @@
+Example Compound 7
+2-((1-(4-methoxybenzyl)-3,5-dimethyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(2-methyl-1H-indol-1-yl)acetate
+Step 1: 1-(4-methoxybenzyl)-3,5-dimethyl-4-nitro-1 H-pyrazole
+To a suspension of 3,5-dimethyl-4-nitro-1H-pyrazole (203.4 mg, 1.8 mmol, see international patent application WO 2003057673) and K2CO3 (278 mg, 2.0 mmol) in dry DMF (1 mL), 4-methoxybenzyl chloride (260.5 µL, 1.9 mmol) was added slowly after 15 minutes. The reaction was left stirring overnight The mixture was diluted with water and extracted 3 times with EtOAc. After drying over MgSO4 and being filtered, the organic phase was concentrated and the crude was purified by column chromatography (30% EtOAc in PE) yielding 355 mg (96%) of the title compund.

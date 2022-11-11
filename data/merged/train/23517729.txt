@@ -1,0 +1,16 @@
+Efficient induction of apoptosis in HeLa cells by a novel cationic porphycene photosensitizer.
+In the present study we analyze the photobiological properties of 2,7,12-tris(α-pyridinio-p-tolyl)-17-(p-(methoxymethyl)phenyl) porphycene (Py3MeO-TBPo) in Hela cells, in order to assess its potential as a new photosensitizer for photodynamic therapy of cultured tumor cells.
+Using 0.5 μM Py3MeO-TBPo, flow cytometry studies demonstrated an increase of intracellular drug levels related to the incubation time, reaching a maximum at 18 h. LysoTracker(®) Green (LTG) and MitoTracker(®) Green (MTG) probes were used to identify the subcellular localization.
+Upon exposure to ultraviolet excitation, red porphycene fluorescence was detected as red granules in the cytoplasm that colocalized with LTG.
+No significant toxic effects were detected for Py3MeO-TBPo in the dark at concentrations below 1 μM. In contrast, Py3MeO-TBPo combined with red-light irradiation induced concentration- and fluence-dependent HeLa cells inactivation.
+Besides, all photodynamic protocols assayed induced a clear effect of cell detachment inhibition after trypsin treatment.
+Both apoptotic and necrotic cell death mechanisms can occur in HeLa cells depending on the experimental protocol.
+After 18 h incubation with 0.5 μM Py3MeO-TBPo and subsequent red light irradiation (3.6 J/cm(2)), a high number of cells die by apoptosis, as evaluated by morphological alterations, immunofluorescent relocalization of Bax from cytosol to mitochondria, and TUNEL assay.
+Likewise, immunofluorescence techniques showed that cytochrome c is released from mitochondria into cytosol in cells undergoing apoptosis, which occurs immediately after relocation of Bax in mitochondria.
+The highest amount of apoptosis appeared 24 h after treatment (70%) and this cell death occurred without cell detachment to the substrate.
+In contrast, with 0.75 μM Py3MeO-TBPo and 3.6 J/cm(2) irradiation, morphological changes showed a preferential necrotic cell death.
+Singlet oxygen was identified as the cytotoxic agent involved in cell photoinactivation.
+Moreover, cell cultures pre-exposed to the singlet oxygen scavenger sodium azide showed pronounced protection against the loss of viability induced by Py3MeO-TBPo and light.
+Different changes in distribution and organization of cytoskeletal elements (microtubules and actin microfilaments) as well as the protein vinculin, after apoptotic and necrotic photodynamic treatments have been analyzed.
+Neither of these two cell death mechanisms (apoptosis or necrosis) induced cell detachment.
+In summary, Py3MeO-TBPo appears to meet the requirements for further scrutiny as a very good photosensitizer for photodynamic therapy: it is water soluble, has a high absorption in the red spectral region (where light penetration in tissue is higher), and is able to induce effective high apoptotic rate (70%) related to the more widely studied photosensitizers.

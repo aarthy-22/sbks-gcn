@@ -1,0 +1,40 @@
+T32	GENE-Y 47 62	cholinesterases
+T31	GENE-Y 100 127	human butyrylcholinesterase
+T1	CHEMICAL 129 139	Amino acid
+T17	CHEMICAL 201 220	aromatic amino acid
+T20	GENE-Y 264 284	acetylcholinesterase
+T6	CHEMICAL 301 321	aliphatic amino acid
+T24	GENE-Y 334 355	butyrylcholinesterase
+T25	GENE-N 386 406	acetylcholinesterase
+T26	GENE-Y 437 464	human butyrylcholinesterase
+T7	CHEMICAL 514 525	huperzine A
+T8	CHEMICAL 527 538	edrophonium
+T9	CHEMICAL 544 553	acridines
+T10	CHEMICAL 569 582	bisquaternary
+T11	CHEMICAL 601 609	BW284C51
+T12	CHEMICAL 614 627	decamethonium
+T13	CHEMICAL 671 685	phenothiazines
+T14	CHEMICAL 694 707	ethopropazine
+T15	CHEMICAL 732 741	exocyclic
+T16	CHEMICAL 778 793	(-)-huperzine A
+T27	GENE-Y 799 826	human butyrylcholinesterase
+T28	GENE-Y 916 944	Torpedo acetylcholinesterase
+T29	GENE-N 987 1007	acetylcholinesterase
+T30	GENE-Y 1052 1072	acetylcholinesterase
+T18	CHEMICAL 1124 1135	huperzine A
+T2	CHEMICAL 1159 1172	ethopropazine
+T19	GENE-Y 1178 1199	butyrylcholinesterase
+T3	CHEMICAL 1378 1391	ethopropazine
+T4	CHEMICAL 1483 1496	ethopropazine
+T21	GENE-Y 1504 1524	acetylcholinesterase
+T22	GENE-Y 1663 1684	butyrylcholinesterase
+T23	GENE-Y 1751 1771	acetylcholinesterase
+T5	CHEMICAL 1813 1826	ethopropazine
+R0	CPR-2 Arg1:T9 Arg2:T25
+R1	CPR-2 Arg1:T7 Arg2:T26
+R2	CPR-4 Arg1:T16 Arg2:T29
+R3	CPR-2 Arg1:T5 Arg2:T23
+R4	NOT Arg1:T17 Arg2:T24
+R5	NOT Arg1:T27 Arg2:T18
+R6	NOT Arg1:T30 Arg2:T2
+R7	NOT Arg1:T30 Arg2:T3

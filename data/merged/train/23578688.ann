@@ -1,0 +1,12 @@
+T8	CHEMICAL 28 46	carbamoylmethylene
+T9	CHEMICAL 66 76	BMS-582949
+T11	GENE-Y 89 93	p38α
+T1	CHEMICAL 117 135	carbamoylmethylene
+T6	CHEMICAL 158 168	BMS-582949
+T10	GENE-Y 182 186	p38α
+T2	CHEMICAL 241 274	phosphoryloxymethylene carbamates
+T3	CHEMICAL 293 327	α-aminoacyloxymethylene carbamates
+T4	CHEMICAL 387 399	fumaric acid
+T5	CHEMICAL 408 435	acyloxymethylene carbamates
+T7	CHEMICAL 1053 1069	secondary amides
+R0	CPR-4 Arg1:T9 Arg2:T11

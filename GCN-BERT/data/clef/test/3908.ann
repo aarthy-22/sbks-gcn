@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 8 10	14
+T2	REACTION_PRODUCT 12 99	(R)-N-methyl-N-(1-(phenylsulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T3	STARTING_MATERIAL 111 180	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T4	SOLVENT 257 272	dichloromethane
+T5	SOLVENT 274 280	CH2Cl2
+T6	STARTING_MATERIAL 302 326	benzenesulfonyl chloride
+T7	REAGENT_CATALYST 397 422	N,N-diisopropylethylamine
+T8	TEMPERATURE 453 469	room temperature
+T9	OTHER_COMPOUND 609 613	MeOH
+T10	OTHER_COMPOUND 614 622	CH2Cl2=2
+T11	YIELD_OTHER 735 741	101 mg
+T12	REACTION_PRODUCT 745 832	(R)-N-methyl-N-(1-(phenylsulfonyl)pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T13	YIELD_PERCENT 868 873	84.2%

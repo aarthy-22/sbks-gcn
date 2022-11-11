@@ -1,0 +1,11 @@
+Acrolein induces Alzheimer's disease-like pathologies in vitro and in vivo.
+The pathologic mechanisms of Alzheimer's disease (AD) have not been fully uncovered.
+Acrolein, a ubiquitous dietary pollutant and by-product of oxidative stress, can induce cytotoxicity in neurons, which might play an important role in the etiology of AD.
+Here, we examined the effects of Acrolein on the AD pathologies in vitro and in vivo.
+We found Acrolein induced HT22 cells death in concentration- and time-dependent manners.
+Interestingly, Acrolein increased proteins' levels of amyloid precursor protein (APP), β-secretase (BACE-1) and the amyloid β-peptide transporter receptor for advanced glycation end products, and decreased A-disintegrin and metalloprotease (ADAM) 10 levels.
+In vivo, chronic oral exposure to Acrolein (2.5 mg/kg/day by intragastric gavage for 8 weeks) induced mild cognitive declination and pyknosis/atrophy of hippocampal neurons.
+The activity of superoxide dismutase was down-regulated while the level of malondialdehyde was up-regulated in rat brain.
+Moreover, Acrolein resulted in activation of astrocytes, up-regulation of BACE-1 in cortex and down-regulation of ADAM-10 in hippocampus and cortex.
+Taken together, our findings suggest that exposure to Acrolein induces AD-like pathology in vitro and in vivo.
+Scavenging Acrolein might be beneficial for the therapy of AD.

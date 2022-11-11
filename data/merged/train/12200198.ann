@@ -1,0 +1,35 @@
+T21	CHEMICAL 19 34	propargylamines
+T2	CHEMICAL 227 235	dopamine
+T29	GENE-Y 305 329	type B monoamine oxidase
+T9	CHEMICAL 312 321	monoamine
+T30	GENE-Y 331 336	MAO-B
+T10	CHEMICAL 339 350	(-)deprenyl
+T11	CHEMICAL 352 362	selegiline
+T12	CHEMICAL 512 522	selegiline
+T13	CHEMICAL 563 573	selegiline
+T14	CHEMICAL 582 597	propargylamines
+T15	CHEMICAL 599 630	(R)(+)-N-propargyl-1-aminoindan
+T16	CHEMICAL 632 642	rasagiline
+T17	CHEMICAL 786 796	rasagiline
+T18	CHEMICAL 917 938	N-methyl(R)salsolinol
+T19	CHEMICAL 940 948	NM(R)Sal
+T20	CHEMICAL 951 959	NM(R)Sal
+T1	CHEMICAL 1138 1148	Rasagiline
+T22	GENE-Y 1246 1251	Bcl-2
+T23	GENE-N 1258 1277	neurotrophic factor
+T24	GENE-Y 1279 1322	glial cell line-derived neurotrophic factor
+T25	GENE-Y 1324 1328	GDNF
+T3	CHEMICAL 1359 1374	propargylamines
+T4	CHEMICAL 1433 1443	superoxide
+T26	GENE-N 1433 1453	superoxide dismutase
+T27	GENE-N 1455 1458	SOD
+T28	GENE-Y 1464 1472	catalase
+T5	CHEMICAL 1505 1513	dopamine
+T6	CHEMICAL 1523 1533	Rasagiline
+T7	CHEMICAL 1546 1561	propargylamines
+T8	CHEMICAL 1586 1594	dopamine
+R0	CPR-4 Arg1:T11 Arg2:T30
+R1	CPR-3 Arg1:T1 Arg2:T22
+R2	CPR-3 Arg1:T1 Arg2:T23
+R3	CPR-3 Arg1:T3 Arg2:T26
+R4	CPR-3 Arg1:T3 Arg2:T28

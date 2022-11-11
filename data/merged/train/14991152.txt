@@ -1,0 +1,10 @@
+Genetic analysis of the murine mu opioid receptor: increased complexity of Oprm gene splicing.
+Evidence exists that mu analgesics such as morphine, methadone and fentanyl may act through distinct mu opioid receptor mechanisms.
+It has been proposed that the functional diversity of mu opioid receptors may be related to alternative splicing of the Oprm gene.
+Although a number of mu opioid receptor mRNA splice variants have been reported, their biological relevance has been controversial, due in part to their very low abundance and a general lack of validation from independent laboratories.
+We have identified 11 of 17 proposed exons as well as the majority of exon combinations used to make 21 differentially spliced Oprm mRNAs from mouse whole brain cDNA, using polymerase chain reaction (PCR) conditions different from those used by the single other group that has reported multiple splice forms.
+Alternative splicing was shown to occur at both the 5' and 3' termini.
+Moreover, verification of a short variant, containing exons 1 and 4 only, suggests that splicing also occurs directly between 5' and 3' exons.
+Notably, a novel splice variant, MOR-1T, demonstrates for the first time that exon 4 can be used in combination with further downstream exons to make the 3'-end of MOR-1 splice variants.
+The putative protein encoded by MOR-1T is predicted to be identical to that of MOR-1, implying that the MOR-1 protein can be generated from at least five differentially spliced mRNAs.
+Our results support the view that the Oprm gene undergoes extensive alternative splicing, as a likely major contributor to the diversity of mu opioid receptors.

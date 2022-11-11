@@ -1,0 +1,21 @@
+T12	CHEMICAL 0 9	Bupropion
+T13	GENE-N 37 65	Neuronal nicotinic receptors
+T17	GENE-N 70 95	ligand-gated ion channels
+T6	CHEMICAL 275 284	bupropion
+T7	CHEMICAL 362 370	nicotine
+T8	CHEMICAL 439 448	Bupropion
+T9	CHEMICAL 633 642	bupropion
+T10	CHEMICAL 760 769	bupropion
+T11	CHEMICAL 777 785	nicotine
+T18	GENE-N 800 889	alpha(3)beta(2), alpha(4)beta(2), and alpha(7) neuronal acetylcholine nicotinic receptors
+T19	GENE-N 891 897	nAChRs
+T14	GENE-N 1164 1170	nAChRs
+T1	CHEMICAL 1201 1210	bupropion
+T2	CHEMICAL 1258 1272	[(3)H]nicotine
+T3	CHEMICAL 1379 1388	bupropion
+T15	GENE-N 1403 1448	alpha(3)beta(2) and alpha(4)beta(2) receptors
+T4	CHEMICAL 1491 1500	bupropion
+T16	GENE-N 1683 1698	neuronal nAChRs
+T5	CHEMICAL 1713 1721	nicotine
+R0	CPR-3 Arg1:T5 Arg2:T16
+R1	NOT Arg1:T10 Arg2:T19

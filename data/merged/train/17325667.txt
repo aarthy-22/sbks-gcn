@@ -1,0 +1,12 @@
+A novel tyrosine kinase switch is a mechanism of imatinib resistance in gastrointestinal stromal tumors.
+KIT or alpha-platelet-derived growth factor receptor (alpha-PDGFR) activating mutations are the pathogenic mechanisms that characterize gastrointestinal stromal tumors (GIST).
+Despite excellent responses to imatinib mesylate (IM), patients are relapsing.
+We developed an IM-resistant GIST cell line (GIST-R) from the IM-sensitive GIST882 cell line (GIST-S) by growing these cells in IM.
+Gene expression profiling (GEP) of GIST-S, GIST-R cells and two IM resistant GIST patients demonstrated that KIT is downregulated implying a major role in IM resistance.
+Instead, GIST-R cells have acquired IM resistance by overexpressing the oncogenic receptor tyrosine kinase - AXL - in a 'kinase switch'.
+Further, the two IM resistant GIST patients express AXL and not c-Kit, seen by immunohistochemistry (IHC).
+Real time reverse transcriptase-polymerase chain reaction and Western blotting of the GIST-S and GIST-R cells confirmed the switch from Kit to AXL.
+In GIST-R, AXL is tyrosine phosphorylated and its ligand growth-arrest-specific gene 6 is overexpressed implying autocrine activation.
+The kinase switch is associated with a morphological change from spindle to epithelioid.
+Molecular modeling of the kinase domain of mutant c-Kit (V654A) and AXL showed no binding to IM but efficient binding to MP470, a novel c-Kit/AXL kinase inhibitor.
+MP470 synergizes with docetaxel (taxotere) and is cytotoxic to GIST cells.

@@ -1,0 +1,26 @@
+T13	CHEMICAL 0 8	Androgen
+T26	GENE-Y 0 17	Androgen Receptor
+T1	CHEMICAL 146 154	Androgen
+T22	GENE-Y 185 202	androgen receptor
+T9	CHEMICAL 185 193	androgen
+T15	GENE-Y 253 270	androgen receptor
+T3	CHEMICAL 253 261	androgen
+T21	GENE-Y 334 351	androgen receptor
+T6	CHEMICAL 334 342	androgen
+T7	CHEMICAL 367 375	androgen
+T8	CHEMICAL 478 486	androgen
+T10	CHEMICAL 602 610	androgen
+T23	GENE-Y 602 619	androgen receptor
+T11	CHEMICAL 724 732	androgen
+T24	GENE-Y 724 741	androgen receptor
+T12	CHEMICAL 1016 1024	androgen
+T25	GENE-Y 1016 1033	androgen receptor
+T14	GENE-Y 1160 1177	androgen receptor
+T2	CHEMICAL 1160 1168	androgen
+T16	GENE-N 1333 1344	CAG repeats
+T17	GENE-Y 1362 1379	androgen receptor
+T4	CHEMICAL 1362 1370	androgen
+T18	GENE-N 1463 1474	CAG repeats
+T19	GENE-N 1552 1563	CAG repeats
+T20	GENE-Y 1692 1709	androgen receptor
+T5	CHEMICAL 1692 1700	androgen

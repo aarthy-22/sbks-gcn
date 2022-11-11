@@ -1,0 +1,4 @@
+Cholinesterase confabs and cousins: Approaching forty years.
+In the past four decades of cholinesterase (ChE) research, we have seen substantive evolution of the field from one centered around substrate and inhibitor kinetic profiles and compound characterizations to the analysis of ChE structure, first through the gene families and then by X-ray crystallographic determinations of the free enzymes and their complexes and conjugates.
+Indeed, these endeavors have been facilitated by recombinant DNA technologies, structure determinations and parallel studies in related proteins in the α/β-hydrolase fold family.
+This approach has not only contributed to a fundamental understanding of structure and function of a large family of hydrolase-like proteins possessing functions other than catalysis, but also has been used to develop new practical strategies for scavenging and antidotal activity in cases of organophosphate insecticide or nerve agent exposure.

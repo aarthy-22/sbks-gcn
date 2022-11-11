@@ -1,0 +1,46 @@
+T22	CHEMICAL 16 30	selenocysteine
+T1	CHEMICAL 58 72	Selenocysteine
+T5	CHEMICAL 74 77	Sec
+T34	GENE-N 137 140	UGA
+T4	CHEMICAL 164 174	amino acid
+T6	CHEMICAL 224 227	Sec
+T25	GENE-Y 344 366	mammalian Sec synthase
+T7	CHEMICAL 354 357	Sec
+T26	GENE-Y 368 372	SecS
+T8	CHEMICAL 403 422	pyridoxal phosphate
+T27	GENE-Y 455 476	soluble liver antigen
+T28	GENE-Y 478 482	SecS
+T9	CHEMICAL 492 507	selenophosphate
+T10	CHEMICAL 512 526	O-phosphoseryl
+T11	CHEMICAL 568 581	selenocysteyl
+T12	CHEMICAL 626 629	Sec
+T29	GENE-Y 626 629	Sec
+T13	CHEMICAL 672 680	selenide
+T14	CHEMICAL 682 685	ATP
+T15	CHEMICAL 691 697	serine
+T16	CHEMICAL 720 725	seryl
+T30	GENE-Y 720 741	seryl-tRNA synthetase
+T17	CHEMICAL 743 757	O-phosphoseryl
+T31	GENE-Y 743 779	O-phosphoseryl-tRNA([Ser]Sec) kinase
+T18	CHEMICAL 781 796	selenophosphate
+T32	GENE-N 781 807	selenophosphate synthetase
+T33	GENE-Y 813 817	SecS
+T19	CHEMICAL 849 852	Sec
+T35	GENE-Y 925 929	SecS
+T20	CHEMICAL 968 982	O-phosphoseryl
+T36	GENE-Y 968 1004	O-phosphoseryl-tRNA([Ser]Sec) kinase
+T21	CHEMICAL 1033 1048	selenophosphate
+T37	GENE-Y 1033 1061	selenophosphate synthetase 2
+T2	CHEMICAL 1079 1098	monoselenophosphate
+T3	CHEMICAL 1112 1127	selenophosphate
+T23	GENE-Y 1112 1140	selenophosphate synthetase 1
+T24	GENE-N 1298 1312	selenoproteins
+R0	CPR-9 Arg1:T9 Arg2:T28
+R1	NOT Arg1:T7 Arg2:T27
+R2	NOT Arg1:T13 Arg2:T31
+R3	NOT Arg1:T14 Arg2:T31
+R4	NOT Arg1:T17 Arg2:T32
+R5	NOT Arg1:T17 Arg2:T36
+R6	NOT Arg1:T18 Arg2:T35
+R7	NOT Arg1:T32 Arg2:T20
+R8	NOT Arg1:T2 Arg2:T23

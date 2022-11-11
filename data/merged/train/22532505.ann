@@ -1,0 +1,6 @@
+T3	CHEMICAL 66 78	triglyceride
+T1	CHEMICAL 762 769	alanine
+T4	GENE-N 762 786	alanine aminotransferase
+T2	CHEMICAL 837 843	5' AMP
+T5	GENE-N 837 868	5' AMP-activated protein kinase
+T6	GENE-N 913 920	insulin

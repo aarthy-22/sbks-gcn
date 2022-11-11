@@ -1,0 +1,15 @@
+Group I mGlu receptor stimulation inhibits activation-induced cell death of human T lymphocytes.
+1.
+The effects of L-glutamate on activation-induced cell death (AICD) of human activated (1 microg ml(-1) phytohemagglutinin plus 2 U ml(-1) interleukin-2; 8 days) T lymphocytes were studied by measuring anti-CD3 monoclonal antibody (10 microg ml(-1); 18 h)-induced cell apoptosis (Annexin V and propidium iodide staining).
+2.
+L-Glutamate (1 x 10(-8)-1 x 10(-4) M) significantly (P < or = 0.01) inhibited AICD in a concentration-dependent manner (EC50=6.3 x 10(-8) M; maximum inhibition 54.8+/-6.3% at 1 x 10(-6) M).
+3.
+The L-glutamate inhibitory effect was pharmacologically characterized as mediated by group I mGlu receptors, since mGlu receptor agonists reproduced this effect.
+The EC50 values were: 3.2 x 10(-7) M for (1S,3R)-ACPD; 4.5 x 10(-8) M for quisqualate; 1.0 x 10(-6) M for (S)-3,5-DHPG; 2.0 x 10(-5) M for CHPG.
+4. Group I mGlu receptor antagonists inhibited the effects of quisqualate 1.0 x 10(-6) M. The IC50 values calculated were: 8.7 x 10(-5), 4.3 x 10(-6) and 6.3 x 10(-7) M for AIDA, LY 367385 and MPEP, respectively.
+5.
+L-Glutamate (1 x 10(-6) M; 18 h) significantly (P < or = 0.05) inhibited FasL expression (40.8+/-11.3%) (cytofluorimetric analysis), whereas it did not affect Fas signalling.
+6.
+Expression of both mGlu1 and mGlu5 receptor mRNA by T lymphocytes and T-cell lines, as demonstrated by reverse transcriptase-PCR analysis, suggests that L-glutamate-mediated inhibition of AICD was exerted on T cells.
+7.
+These data depict a novel role for L-glutamate in the regulation of the immune response through group I mGlu receptor-mediated mechanisms.

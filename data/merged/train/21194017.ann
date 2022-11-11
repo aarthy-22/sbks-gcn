@@ -1,0 +1,23 @@
+T21	GENE-N 0 17	GABA(A) receptors
+T4	CHEMICAL 255 278	gamma-aminobutyric acid
+T12	GENE-N 255 295	gamma-aminobutyric acid type A receptors
+T14	GENE-N 297 307	GABA(A)-Rs
+T16	GENE-N 438 447	GABA(A)-R
+T17	GENE-N 531 540	GABA(A)-R
+T8	CHEMICAL 598 608	amino acid
+T9	CHEMICAL 758 771	R(+)etomidate
+T10	CHEMICAL 805 816	amino acids
+T18	GENE-N 857 879	bovine brain GABA(A)-R
+T19	GENE-N 1016 1053	intersubunit etomidate binding pocket
+T11	CHEMICAL 1029 1038	etomidate
+T20	GENE-N 1061 1081	beta/alpha interface
+T1	CHEMICAL 1215 1224	etomidate
+T2	CHEMICAL 1291 1299	steroids
+T3	CHEMICAL 1301 1313	barbiturates
+T5	CHEMICAL 1336 1344	propofol
+T6	CHEMICAL 1354 1362	alcohols
+T7	CHEMICAL 1477 1485	alcohols
+T13	GENE-N 1658 1667	GABA(A)-R
+T15	GENE-N 1856 1865	GABA(A)-R
+R0	NOT Arg1:T4 Arg2:T14
+R1	NOT Arg1:T11 Arg2:T20

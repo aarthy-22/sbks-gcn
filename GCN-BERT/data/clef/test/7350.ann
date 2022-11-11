@@ -1,0 +1,21 @@
+T1	EXAMPLE_LABEL 5 6	8
+T2	REACTION_PRODUCT 23 131	(S)-4-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)pyrido[2,3-d]pyrimidine-5(8H)-one
+T3	STARTING_MATERIAL 154 282	(S)-4-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T4	SOLVENT 327 342	dichloromethane
+T5	REAGENT_CATALYST 361 381	trifluoroacetic acid
+T6	REAGENT_CATALYST 383 386	TFA
+T7	REAGENT_CATALYST 402 422	methanesulfonic acid
+T8	TEMPERATURE 459 464	70° C
+T9	TIME 470 478	10 hours
+T10	OTHER_COMPOUND 490 507	sodiumbicarbonate
+T11	OTHER_COMPOUND 508 515	aqueous
+T12	OTHER_COMPOUND 572 587	Dichloromethane
+T13	OTHER_COMPOUND 592 597	water
+T14	OTHER_COMPOUND 681 687	Na2SO4
+T15	OTHER_COMPOUND 793 797	SiO2
+T16	OTHER_COMPOUND 807 822	dichloromethane
+T17	OTHER_COMPOUND 823 831	methanol
+T18	YIELD_OTHER 847 852	51 mg
+T19	REACTION_PRODUCT 860 984	target compound (S)-4-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)pyrido[2,3-d]pyrimidine-5(8H)-one
+T20	YIELD_OTHER 1009 1019	0.115 mmol
+T21	YIELD_PERCENT 1028 1031	90%

@@ -1,0 +1,8 @@
+Mechanistic investigation of seeded growth in triblock copolymer stabilized gold nanoparticles.
+We report the seeded synthesis of gold nanoparticles (GNPs) via the reduction of HAuCl4 by (L31 and F68) triblock copolymer (TBP) mixtures.
+In the present study, we focused on [TBP]/[Au(III)] ratios of 1-5 (≈1 mM HAuCl4) and seed sizes ~20 nm.
+Under these conditions, the GNP growth rate is dominated by both the TBP and seed concentrations.
+With seeding, the final GNP size distributions are bimodal.
+Increasing the seed concentration (up to ~0.1 nM) decreases the mean particle sizes 10-fold, from ~1000 to 100 nm.
+The particles in the bimodal distribution are formed by the competitive direct growth in solution and the aggregative growth on the seeds.
+By monitoring kinetics of GNP growth, we propose that (1) the surface of the GNP seeds embedded in the TBP cavities form catalytic centers for GNP growth and (2) large GNPs are formed by the aggregation of GNP seeds in an autocatalytic growth process.

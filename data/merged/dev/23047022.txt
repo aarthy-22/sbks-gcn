@@ -1,0 +1,10 @@
+Characterisation of acetylcholinesterase release from neuronal cells.
+Although acetylcholinesterase (AChE) is primarily a hydrolytic enzyme, metabolising the neurotransmitter acetylcholine in cholinergic synapses, it also has some non-catalytic functions in the brain which are far less well characterised.
+AChE was shown to be secreted or shed from the neuronal cell surface like several other membrane proteins, such as the amyloid precursor protein (APP).
+Since AChE does not possess a transmembrane domain, its anchorage in the membrane is established via the Proline Rich Membrane Anchor (PRiMA), a transmembrane protein.
+Both the subunit oligomerisation and membrane anchor of AChE are shared by a related enzyme, butyrylcholinesterase (BChE), the physiological function of which in the brain is unclear.
+In this work, we have assayed the relative activities of AChE and BChE in membrane fractions and culture medium of three different neuronal cell lines, namely the neuroblastoma cell lines SH-SY5Y and NB7 and the mouse basal forebrain cell line SN56.
+In an effort to understand the shedding process of AChE, we have used several pharmacological treatments, which showed that it is likely to be mediated in part by an EDTA- and batimastat-sensitive, but GM6001-insensitive metalloprotease, with the possible additional involvement of a thiol isomerase.
+Cellular release of AChE by SH-SY5Y is significantly enhanced by the muscarinic acetylcholine receptor (mAChR) agonists carbachol or muscarine, with the effect of carbachol blocked by the mAChR antagonist atropine.
+AChE has been implicated in the pathogenesis of Alzheimer's disease and it has been shown that it accelerates formation and increases toxicity of amyloid fibrils, which have been closely linked to the pathology of AD.
+In light of this, greater understanding of AChE and BChE physiology may also benefit AD research.

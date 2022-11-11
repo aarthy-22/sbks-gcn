@@ -1,0 +1,8 @@
+Antidepressant use and glycemic control.
+RATIONALE: Past research on the association of antidepressant medication use with glycemic control abnormalities has produced mixed results.
+OBJECTIVE: To examine the association of antidepressant use with glycemic control abnormalities and screen-positive diabetes in a representative population sample of US adults without a diagnosis of diabetes.
+METHODS: Using data from adult participants of the National Health and Nutrition Examination Survey (NHANES, 2005-2010), the association of antidepressant use with continuous measures of HbA1c, fasting blood sugar, 2-h oral glucose tolerance test, insulin sensitivity and screen-positive diabetes according to HbA1c, fasting blood sugar and 2-h oral glucose tolerance test were assessed.
+RESULTS: Antidepressant use was not associated with increased levels of HbA1c, fasting blood sugar, 2-h oral glucose tolerance test, reduced insulin sensitivity or increased prevalence of screen-positive diabetes.
+Results were mostly consistent across sociodemographic groups and across different lengths of exposure, different classes of antidepressants and levels of body mass index.
+CONCLUSIONS: In this representative population sample, antidepressant use was not associated with an increased risk of abnormalities in glycemic control or undetected diabetes.
+Positive findings from past research may be attributable to detection bias, in that individuals prescribed antidepressants may be more likely to be tested and diagnosed with diabetes.

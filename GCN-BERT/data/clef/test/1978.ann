@@ -1,0 +1,11 @@
+T1	EXAMPLE_LABEL 8 12	105A
+T2	REACTION_PRODUCT 13 119	3-Isopropyl-1-(2-methoxyethyl)-5-methyl-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carbaldehyde
+T3	STARTING_MATERIAL 194 215	compound from Ex. 49A
+T4	STARTING_MATERIAL 242 267	2-bromoethyl methyl ether
+T5	YIELD_OTHER 289 295	0.86 g
+T6	YIELD_PERCENT 297 300	37%
+T7	REACTION_PRODUCT 331 345	title compound
+T8	TEMPERATURE 397 403	100° C
+T9	TIME 409 412	2 h
+T10	OTHER_COMPOUND 418 429	cyclohexane
+T11	OTHER_COMPOUND 430 443	ethyl acetate

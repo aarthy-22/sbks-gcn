@@ -1,0 +1,12 @@
+GLUT2 in pancreatic islets: crucial target molecule in diabetes induced with multiple low doses of streptozotocin in mice.
+In mice, diabetes can be induced by multiple low doses of streptozotocin (MLD-STZ), i.e., 40 mg/kg body wt on each of 5 consecutive days.
+In this model, diabetes develops only when STZ induces both beta-cell toxicity and T-cell-dependent immune reactions.
+The target molecule(s) of MLD-STZ-induced beta-cell toxicity are not known, however.
+In this study, we report that GLUT2 is a target molecule for MLD-STZ toxicity.
+Ex vivo, a gradual decrement of both GLUT2 protein and mRNA expression was found in pancreatic islets isolated from MLD-STZ-treated C57BL/6 male mice, whereas mRNA expression of beta-actin, glucokinase, and proinsulin remained unaffected.
+Significant reduction of both GLUT2 protein and mRNA expression was first noted 1 day after the third STZ injection, clearly preceding the onset of hyperglycemia.
+The extent of reduction increased with the number of STZ injections administered and increased over time, after the last, i.e., fifth, STZ injection.
+The STZ-induced reduction of GLUT2 protein and mRNA was not due to an essential loss of beta-cells, because ex vivo, not only the total RNA yield and protein content in isolated islets, but also proinsulin mRNA expression, failed to differ significantly in the differently treated groups.
+Furthermore, islets isolated from MLD-STZ-treated donors responded to the nonglucose secretagogue arginine in a pattern similar to that of solvent-treated donors.
+Interestingly, the MLD-STZ-induced reduction of both GLUT2 protein and mRNA was prevented by preinjecting mice with 5-thio-D-glucose before each STZ injection.
+Apparently, GLUT2 is a crucial target molecule of MLD-STZ toxicity, and this toxicity seems to precede the immune reactions against beta-cells.

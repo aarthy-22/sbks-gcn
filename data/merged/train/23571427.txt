@@ -1,0 +1,13 @@
+Stereoselective Glucuronidation of Ornidazole in Humans: Predominant Contribution of UDP-Glucuronosyltransferases 1A9 and 2B7.
+Ornidazole [R,S-1-chloro-3-(2-methyl-5-nitro-1H-imidazol-1-yl)propan-2-ol] is a chiral 5-nitroimidazole class antimicrobial agent.
+This study aimed to investigate the principal metabolic pathway of ornidazole in humans and identify the major enzymes involved.
+A total of 19 metabolites were identified in human urine collected from patients with hepatobiliary diseases after an intravenous drip infusion of 500 mg of racemic ornidazole.
+Stereoselective glucuronidation, followed by renal excretion, was the principal metabolic pathway of ornidazole in humans, accounting for 37.3% of the administered dose.
+Screening assays with 12 available human recombinant UDP-glucuronosyltransferases (UGTs) demonstrated that UGT1A9 was the predominant UGT isoform involved in R-ornidazole glucuronidation, whereas S-ornidazole glucuronidation was almost exclusively catalyzed by UGT2B7.
+Chemical inhibition study with niflumic acid and flurbiprofen supported these findings.
+Enzyme kinetic parameters were then determined in human liver microsomes (HLMs), human kidney microsomes (HKMs), UGT1A9 and 2B7.
+The Km values for UGT1A9 (15.6 ± 1.6 mM for R-ornidazole) and 2B7 (3.8 ± 0.9 mM for S-ornidazole) were quite similar to those determined in HLMs and HKMs (20.1 ± 1.4 and 17.7 ± 4.0 mM for R-ornidazole; 6.6 ± 1.3 and 3.2 ± 0.4 mM for S-ornidazole).
+The in vitro intrinsic clearance (CLint) ratios of S- and R-ornidazole were approximately 4.3 in HLMs and 6.5 in HKMs, respectively.
+The hepatic and renal clearances were estimated based on the well-stirred model.
+Overall, stereoselective glucuronidation was the principal metabolic pathway of ornidazole in humans.
+Furthermore, UGT1A9 and 2B7 were the predominant UGT isoforms responsible for R- and S-ornidazole glucuronidation in humans, respectively.

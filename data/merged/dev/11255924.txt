@@ -1,0 +1,16 @@
+On the relationship between the dopamine transporter and the reinforcing effects of local anesthetics in rhesus monkeys: practical and theoretical concerns.
+RATIONALE: Drugs that are self-administered appear to vary in their potency and effectiveness as positive reinforcers.
+Understanding mechanisms that determine relative effectiveness of drugs as reinforcers will enhance our understanding of drug abuse.
+OBJECTIVES: The hypothesis of the present study was that differences among dopamine transporter (DAT) ligands in potency and effectiveness as a positive reinforcers were related to potency and effectiveness as DA uptake inhibitors.
+Accordingly, self-administration of a group of local anesthetics that are DAT ligands was compared to their effects as DA uptake blockers in vitro in brain tissue.
+METHODS: Rhesus monkeys were allowed to self-administer cocaine and other local anesthetics i.v.
+under a progressive-ratio schedule.
+The same compounds were compared in standard in vitro DA uptake assays using monkey caudate tissue.
+RESULTS: The rank order of both potency and effectiveness as reinforcers was cocaine > dimethocaine > procaine > chloroprocaine.
+Tetracaine did not maintain self-administration.
+For inhibiting DA uptake, the potency order was cocaine > dimethocaine > tetracaine > procaine > chloro-procaine.
+At maximum, these compounds were equally effective in blocking DA uptake.
+Lidocaine did not inhibit DA uptake.
+CONCLUSIONS: The potency of local anesthetics as positive reinforcers is likely related to their potency as DA uptake inhibitors.
+Variation in their effectiveness as positive reinforcers was not a function of differences in effectiveness as DA uptake blockers, but may be related to relative potency over the concentrations that are achieved in vivo.
+Effects at sodium channels may limit the reinforcing effects of local anesthetics.

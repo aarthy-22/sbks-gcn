@@ -1,0 +1,10 @@
+Comparative pharmacology of human beta-adrenergic receptor subtypes--characterization of stably transfected receptors in CHO cells.
+Although many beta1-receptor antagonists and beta2-receptor agonists have been used in pharmacotherapy for many years their pharmacological properties at all three known subtypes of beta-adrenergic receptors are not always well characterized.
+The aim of this study was, therefore, to provide comparative binding characteristics of agonists (epinephrine, norepinephrine, isoproterenol, fenoterol, salbutamol, salmeterol, terbutalin, formoterol, broxaterol) and antagonists (propranolol, alprenolol, atenolol, metoprolol, bisoprolol, carvedilol, pindolol, BRL 37344, CGP 20712, SR 59230A, CGP 12177, ICI 118551) at all three subtypes of human beta-adrenergic receptors in an identical cellular background.
+We generated Chinese hamster ovary (CHO) cells stably expressing the three beta-adrenergic receptor subtypes at comparable levels.
+We characterized these receptor subtypes and analyzed the affinity of routinely used drugs as well as experimental compounds in competition binding studies, using the non-selective antagonist 125I-cyanopindolol as a radioligand.
+Furthermore, we analyzed the beta-receptor-mediated adenylyl cyclase activity in isolated membranes from these cell lines.
+The results from our experiments show that all compounds exhibit distinct patterns of selectivity and activity at the three beta-receptor subtypes.
+In particular, a number of beta2- or beta3-receptor agonists that are inverse agonists at the other subtypes were identified.
+In addition, beta1-receptor antagonists with agonistic activity at beta2- and beta3-receptors were found.
+These specific mixtures of agonism, antagonism, and inverse agonism at different subtypes may have important implications for the therapeutic use of the respective compounds.

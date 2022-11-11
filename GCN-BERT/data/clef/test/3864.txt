@@ -1,0 +1,4 @@
+EXAMPLE 39
+Preparation of 3-methyl-5-((1-(2-phenylquinoline-3-yl)ethyl)amino)-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
+Step 1: Preparation of 1-(4-methoxybenzyl)-3-methyl-5-((1-(2-phenylquinoline-3-yl)ethyl)amino)-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
+10 mg of 1-(4-methoxybenzyl)-3-methyl-5-((1-(2-phenylquinoline-3-yl)ethyl)amino)-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one was prepared as a yellow solid by using 8 mg (0.025 mmol) of 5-chloro-1-(4-methoxybenzyl)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one prepared in step 4 of Example 34 and 7.5 mg (0.030 mmol) of 1-(2-phenylquinoline-3-yl)ethane-1-amine according to the same manner as described in step 5 of Example 34 (0.019 mmol, yield: 75%).

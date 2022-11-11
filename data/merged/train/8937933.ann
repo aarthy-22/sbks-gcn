@@ -1,0 +1,19 @@
+T18	GENE-Y 20 27	insulin
+T11	GENE-Y 128 141	human insulin
+T17	GENE-Y 171 178	insulin
+T3	GENE-Y 181 188	insulin
+T7	GENE-Y 230 246	insulin receptor
+T8	GENE-Y 342 349	insulin
+T9	GENE-Y 384 391	insulin
+T10	GENE-Y 509 516	insulin
+T12	GENE-Y 630 637	insulin
+T1	CHEMICAL 765 772	glucose
+T13	GENE-Y 777 784	insulin
+T14	GENE-Y 824 831	insulin
+T2	CHEMICAL 928 935	glucose
+T15	GENE-Y 943 950	insulin
+T16	GENE-Y 956 963	insulin
+T4	GENE-Y 1118 1125	insulin
+T5	GENE-Y 1164 1180	insulin receptor
+T6	GENE-Y 1194 1201	insulin
+R0	NOT Arg1:T1 Arg2:T13

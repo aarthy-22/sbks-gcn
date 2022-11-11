@@ -1,0 +1,33 @@
+T12	CHEMICAL 8 21	retinoic acid
+T30	GENE-N 8 31	retinoic acid receptors
+T1	CHEMICAL 181 194	retinoic acid
+T13	GENE-N 181 204	retinoic acid receptors
+T15	GENE-N 211 232	RARalpha, beta, gamma
+T18	GENE-N 238 259	RXRalpha, beta, gamma
+T8	CHEMICAL 405 412	Alcohol
+T9	CHEMICAL 454 467	retinoic acid
+T24	GENE-N 454 476	retinoic acid receptor
+T10	CHEMICAL 661 674	retinoic acid
+T25	GENE-N 661 684	retinoic acid receptors
+T26	GENE-N 691 712	RARalpha, beta, gamma
+T27	GENE-Y 718 725	RXRbeta
+T11	CHEMICAL 901 908	alcohol
+T28	GENE-N 983 1004	RARalpha, beta, gamma
+T29	GENE-Y 1010 1017	RXRbeta
+T14	GENE-Y 1230 1238	RARgamma
+T2	CHEMICAL 1399 1406	alcohol
+T16	GENE-Y 1421 1429	RARalpha
+T3	CHEMICAL 1566 1573	alcohol
+T4	CHEMICAL 1615 1628	retinoic acid
+T17	GENE-N 1615 1638	retinoic acid receptors
+T19	GENE-Y 1696 1704	RARgamma
+T20	GENE-N 1907 1921	RARalpha, beta
+T21	GENE-Y 1927 1934	RXRbeta
+T5	CHEMICAL 2101 2114	retinoic acid
+T22	GENE-N 2101 2124	retinoic acid receptors
+T6	CHEMICAL 2242 2249	alcohol
+T7	CHEMICAL 2312 2325	retinoic acid
+T23	GENE-N 2312 2334	retinoic acid receptor
+R0	CPR-4 Arg1:T3 Arg2:T16
+R1	NOT Arg1:T10 Arg2:T27
+R2	NOT Arg1:T22 Arg2:T7

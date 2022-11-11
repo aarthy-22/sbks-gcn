@@ -1,0 +1,7 @@
+Synthesis and biological evaluation of some novel resveratrol amide derivatives as potential anti-tumor agents.
+Three series of novel resveratrol amide derivatives (1a-q, 2a-h, 3a-l) were synthesized and evaluated for their biological activities.
+All compounds were characterized by (1)H NMR, (13)C NMR, MS and elemental analysis.
+Furthermore, compound 3e was also characterized by X-ray crystallography.
+All the compounds were evaluated for their anti-tumor activity against MCF-7, A549 and B16-F10 tumor cell lines as well as cyclooxygenase-2 (COX-2)-derived prostaglandin E2 (PGE2) inhibitory activity of murine macrophage RAW 264.7 cell line.
+Among them, compounds 1c, 1g and 3e displayed the most potent COX-2 inhibitory activity with the IC50 values of 1.02, 1.27 and 1.98 μM, respectively.
+Molecular docking studies were performed to position compounds 1c and 3e into the active site of COX-2 to determine the probable binding modes.

@@ -1,0 +1,14 @@
+T13	GENE-N 68 85	soluble esterases
+T1	CHEMICAL 87 103	Organophosphorus
+T2	GENE-N 191 200	esterases
+T4	GENE-Y 210 230	acetylcholinesterase
+T5	GENE-Y 235 261	neuropathy target esterase
+T8	GENE-Y 263 266	NTE
+T9	GENE-N 322 331	esterases
+T10	GENE-N 479 488	esterases
+T11	GENE-N 878 887	esterases
+T12	GENE-N 1058 1067	esterases
+T3	GENE-N 1253 1261	esterase
+T6	GENE-N 1611 1619	esterase
+T7	GENE-N 1728 1736	esterase
+R0	NOT Arg1:T1 Arg2:T2

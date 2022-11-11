@@ -1,0 +1,33 @@
+T22	CHEMICAL 23 33	triterpene
+T23	CHEMICAL 34 45	sipholenols
+T1	CHEMICAL 101 113	Sipholenol A
+T9	CHEMICAL 117 137	sipholane triterpene
+T30	GENE-N 277 291	P-glycoprotein
+T31	GENE-N 293 297	P-gp
+T12	CHEMICAL 336 348	sipholenol A
+T13	CHEMICAL 473 485	Sipholenol A
+T14	CHEMICAL 490 503	sipholenone A
+T15	CHEMICAL 694 699	ester
+T16	CHEMICAL 701 706	ether
+T17	CHEMICAL 708 713	oxime
+T18	CHEMICAL 719 728	carbamate
+T19	CHEMICAL 872 904	Sipholenol A 4β-4-chlorobenzoate
+T20	CHEMICAL 909 954	19,20-anhydrosipholenol A 4β-4-chlorobenzoate
+T21	CHEMICAL 955 961	esters
+T2	CHEMICAL 1164 1173	carbamate
+T3	CHEMICAL 1201 1244	19,20-anhydrosipholenol A 4β-benzoate ester
+T24	GENE-N 1257 1278	human protein kinases
+T25	GENE-Y 1290 1315	protein tyrosine kinase 6
+T4	CHEMICAL 1298 1306	tyrosine
+T26	GENE-Y 1317 1321	PTK6
+T27	GENE-Y 1369 1373	PTK6
+T5	CHEMICAL 1452 1462	sipholanes
+T28	GENE-Y 1507 1511	PTK6
+T6	CHEMICAL 1599 1631	sipholenol A 4β-4-chlorobenzoate
+T7	CHEMICAL 1636 1681	19,20-anhydrosipholenol A 4β-4-chlorobenzoate
+T8	CHEMICAL 1682 1688	esters
+T29	GENE-Y 1735 1739	PTK6
+T10	CHEMICAL 1924 1946	sipholenol A succinate
+T11	CHEMICAL 2025 2048	sipholane triterpenoids
+R0	NOT Arg1:T1 Arg2:T31
+R1	NOT Arg1:T4 Arg2:T26

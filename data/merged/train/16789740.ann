@@ -1,0 +1,16 @@
+T4	CHEMICAL 30 59	anthranilic acid sulfonamides
+T5	CHEMICAL 77 87	methionine
+T14	GENE-Y 77 104	methionine aminopeptidase-2
+T13	GENE-Y 146 153	albumin
+T1	CHEMICAL 163 173	Methionine
+T6	GENE-Y 163 190	Methionine aminopeptidase-2
+T9	GENE-Y 192 198	MetAP2
+T7	GENE-Y 310 316	MetAP2
+T2	CHEMICAL 330 359	anthranilic acid sulfonamides
+T8	GENE-Y 391 403	human MetAP2
+T10	GENE-Y 656 675	human serum albumin
+T11	GENE-Y 808 814	MetAP2
+T12	GENE-N 819 840	domain III of albumin
+T3	CHEMICAL 993 1003	methionine
+R0	CPR-2 Arg1:T2 Arg2:T7
+R1	NOT Arg1:T5 Arg2:T13

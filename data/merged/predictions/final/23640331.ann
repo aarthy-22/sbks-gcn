@@ -1,0 +1,31 @@
+T4	CHEMICAL 0 12	Progesterone
+T28	GENE 0 21	Progesterone receptor
+T29	GENE 30 35	bcl-x
+T30	GENE 55 79	intragenic binding sites
+T31	GENE 89 106	RNA polymerase II
+T1	CHEMICAL 119 126	Steroid
+T5	GENE 119 136	Steroid receptors
+T2	CHEMICAL 271 278	steroid
+T9	GENE 271 302	steroid receptors-binding sites
+T10	GENE 448 453	bcl-x
+T11	GENE 471 517	intragenic progesterone receptor-binding sites
+T3	CHEMICAL 482 494	progesterone
+T12	GENE 519 523	PRbs
+T13	GENE 594 596	PR
+T14	GENE 640 666	histone acetyltransferases
+T15	GENE 667 687	CREB-binding protein
+T16	GENE 689 692	CBP
+T17	GENE 698 702	GCN5
+T18	GENE 730 740	histone H3
+T19	GENE 745 747	H4
+T20	GENE 786 801	SWI/SNF complex
+T21	GENE 860 865	bcl-x
+T22	GENE 920 924	PRbs
+T23	GENE 926 928	PR
+T24	GENE 966 992	positive elongation factor
+T25	GENE 993 998	pTEFb
+T26	GENE 1009 1026	RNA polymerase II
+T27	GENE 1028 1034	Pol II
+T6	GENE 1122 1128	Pol II
+T7	GENE 1279 1281	PR
+T8	GENE 1350 1360	polymerase

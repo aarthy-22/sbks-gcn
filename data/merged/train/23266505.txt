@@ -1,0 +1,13 @@
+Activation of an apoptotic signal transduction pathway involved in the upregulation of calpain and apoptosis-inducing factor in aldosterone-induced primary cultured cardiomyocytes.
+In this study, aldosterone (ALD)-induced apoptosis of cardiomyocyte was evaluated based on the previous studies, and the roles of calpain signaling were clarified.
+Primary cultured rat cardiomyocytes were injured by ALD (0.01-10 μM) for varying time periods.
+Then, the effects of ethylene glycol tetraacetic acid (EGTA) (0.5 mM), calpeptin (2.5 μM), and spironoclactone (10 μM) were evaluated on cardiomyocytes activated by ALD.
+Cardiomyocytes that were injured by ALD were assayed by the MTT and LDH leakage ratio.
+Apoptosis was evaluated by a TUNEL assay, annexin V/PI staining, and caspase-3 activity.
+The expression of cleavage of Bid (tBid), calpain and apoptosis-inducing factor (AIF) was evaluated by western blot analysis.
+ALD increased calpain expression and caspase-3 activity and promoted Bid cleavage.
+It also induced the release of AIF from mitochondria into the cytosol.
+The upregulation of calpain, tBid and caspase-3 activity were further inhibited by treatment with EGTA in the presence of ALD.
+Additionally, AIF levels in the cytosol decreased due to EGTA but not due to calpeptin.
+This was also accompanied by a significant decrease in apoptosis.
+Furthermore, treatment with spironoclactone not only attenuated the pro-apoptotic effect of ALD but reversed the ALD-induced increase of calpain and AIF levels.

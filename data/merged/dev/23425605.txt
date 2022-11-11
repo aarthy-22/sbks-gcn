@@ -1,0 +1,11 @@
+The role of de novo catecholamine synthesis in mediating methylmercury-induced vesicular dopamine release from rat pheochromocytoma (PC12) cells.
+The purpose of this study was to characterize methylmercury (MeHg)-induced dopamine (DA) release from undifferentiated pheochromocytoma (PC12) cells and to examine the potential role for DA synthesis in this process.
+MeHg caused a significant increase in DA release that was both concentration- and time-dependent.
+DA release was significantly increased by 2µM MeHg at 60min and by 5µM MeHg at 30min; 1µM MeHg was without effect.
+Because DA release induced by 5µM MeHg was associated with a significant percentage of cell death at 60 and 120min, 2µM MeHg was chosen for further characterization of release mechanisms.
+MeHg-induced DA release was attenuated but not abolished in the absence of extracellular calcium, whereas the vesicular content depleting drug reserpine (50nM) abolished release.
+Thus, MeHg-induced DA release requires vesicular exocytosis but not extracellular calcium.
+MeHg also increased intracellular DA and the rate of DA storage utilization, suggesting a role for DA synthesis in MeHg-induced DA release.
+The tyrosine hydroxylase inhibitor α-methyltyrosine (300µM, 24h) completely abolished MeHg-induced DA release.
+MeHg significantly increased DA precursor accumulation in cells treated with 3-hydroxybenzylhydrazine (10µM), revealing that MeHg increases tyrosine hydroxylase activity.
+Overall, these data demonstrate that MeHg facilitates DA synthesis, increases intracellular DA, and augments vesicular exocytosis.

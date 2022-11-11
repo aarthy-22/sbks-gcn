@@ -1,0 +1,10 @@
+EphB1 null mice exhibit neuronal loss in substantia nigra pars reticulata and spontaneous locomotor hyperactivity.
+The molecular mechanisms that regulate basal ganglia development are largely unknown.
+Eph receptor tyrosine kinases are potential participants in this process as they regulate development of other CNS regions and are expressed in basal ganglia nuclei, such as the substantia nigra (SN) and striatum.
+To address the role of Eph receptors in the development of these nuclei, we analysed anatomical changes in the SN and striatum of mice with null mutations for EphB1.
+These mice express beta-galactosidase as a marker for cells normally expressing EphB1.
+In situ hybridization data and a direct comparison of SN neurons expressing tyrosine hydroxylase (TH) and/or the beta-gal marker for EphB1 revealed that EphB1 is not expressed in TH+ neurons of pars compacta (SNc), but is restricted to neurons in pars reticulata (SNr).
+Consistent with this, we find that EphB1 null mice exhibit a significant decrease in the volume and number of neurons (40% decrease) in SNr, whereas the volume and number of TH+ neurons in SNc is not significantly affected nor are there changes in the distribution of nigrostriatal dopamine neurons.
+Although EphB1 is expressed in the striatum, EphB1-/- mice exhibit no significant changes in striatal volume and TH fiber density, and have no obvious alterations in striatal patch/matrix organization.
+Behavioral evaluation of EphB1 null mice in an open-field environment revealed that these mice exhibited spontaneous locomotor hyperactivity.
+These results suggest that EphB1 is necessary for the proper formation of SNr, and that neuronal loss in SNr is associated with altered locomotor functions.

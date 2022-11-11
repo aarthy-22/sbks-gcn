@@ -1,0 +1,20 @@
+T13	GENE 14 37	dipeptidyl peptidase-IV
+T14	GENE 39 45	DPP-IV
+T3	CHEMICAL 50 62	atorvastatin
+T4	GENE 64 87	Dipeptidyl peptidase-IV
+T10	GENE 89 95	DPP-IV
+T5	GENE 166 183	incretin hormones
+T6	GENE 184 207	glucagon-like peptide-1
+T7	GENE 209 214	GLP-1
+T8	GENE 220 264	glucose-dependent insulinotropic polypeptide
+T9	GENE 266 269	GIP
+T1	CHEMICAL 325 337	atorvastatin
+T11	GENE 368 382	porcine DPP-IV
+T12	GENE 486 492	DPP-IV
+T2	CHEMICAL 524 536	atorvastatin
+R0	CPR-4 Arg1:T3 Arg2:T13
+R1	CPR-4 Arg1:T3 Arg2:T14
+R2	CPR-4 Arg1:T1 Arg2:T11
+R3	CPR-4 Arg1:T2 Arg2:T12
+R4	NOT Arg1:T1 Arg2:T12
+R5	NOT Arg1:T11 Arg2:T2

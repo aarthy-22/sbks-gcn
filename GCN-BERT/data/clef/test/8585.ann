@@ -1,0 +1,22 @@
+T1	EXAMPLE_LABEL 5 7	21
+T2	REACTION_PRODUCT 24 171	sodium {trans-9-oxo-7-[1-(2-trimethylsilylethoxymethyl)-1H-imidazol-2-yl]-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-10-yl}sulfate
+T3	REACTION_PRODUCT 173 175	6u
+T4	REACTION_PRODUCT 194 330	trans-10-Hydroxy-7-[1-(2-trimethylsilylethoxymethyl)-1H-imidazol-2-yl]-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-9-one
+T5	STARTING_MATERIAL 332 334	6t
+T6	REAGENT_CATALYST 372 380	pyridine
+T7	REAGENT_CATALYST 423 447	sulfur trioxide pyridine
+T8	TIME 497 501	16 h
+T9	OTHER_COMPOUND 556 559	DCM
+T10	OTHER_COMPOUND 650 662	Dowex sodium
+T11	OTHER_COMPOUND 676 697	Dowex® 50WX8 hydrogen
+T12	OTHER_COMPOUND 718 725	aqueous
+T13	OTHER_COMPOUND 741 745	NaOH
+T14	OTHER_COMPOUND 779 784	water
+T15	OTHER_COMPOUND 902 905	DCM
+T16	OTHER_COMPOUND 924 928	PTFE
+T17	OTHER_COMPOUND 1000 1005	water
+T18	REACTION_PRODUCT 1069 1216	sodium {trans-9-oxo-7-[1-(2-trimethylsilylethoxymethyl)-1H-imidazol-2-yl]-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-10-yl}sulfate
+T19	REACTION_PRODUCT 1218 1220	6u
+T20	YIELD_OTHER 1223 1229	0.01 g
+T21	YIELD_OTHER 1231 1241	0.020 mmol
+T22	YIELD_PERCENT 1243 1246	43%

@@ -1,0 +1,8 @@
+The R-enantiomer of the nonsteroidal antiinflammatory drug etodolac binds retinoid X receptor and induces tumor-selective apoptosis.
+Prostate cancer is often slowly progressive, and it can be difficult to treat with conventional cytotoxic drugs.
+Nonsteroidal antiinflammatory drugs inhibit the development of prostate cancer, but the mechanism of chemoprevention is unknown.
+Here, we show that the R-enantiomer of the nonsteroidal antiinflammatory drug etodolac inhibited tumor development and metastasis in the transgenic mouse adenocarcinoma of the prostate (TRAMP) model, by selective induction of apoptosis in the tumor cells.
+This proapoptotic effect was associated with loss of the retinoid X receptor (RXRalpha) protein in the adenocarcinoma cells, but not in normal prostatic epithelium.
+R-etodolac specifically bound recombinant RXRalpha, inhibited RXRalpha transcriptional activity, and induced its degradation by a ubiquitin and proteasome-dependent pathway.
+The apoptotic effect of R-etodolac could be controlled by manipulating cellular RXRalpha levels.
+These results document that pharmacologic antagonism of RXRalpha transactivation is achievable and can have profound inhibitory effects in cancer development.

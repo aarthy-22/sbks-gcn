@@ -1,0 +1,31 @@
+T11	CHEMICAL 0 8	Acrolein
+T7	CHEMICAL 161 169	Acrolein
+T3	CHEMICAL 365 373	Acrolein
+T4	CHEMICAL 427 435	Acrolein
+T5	CHEMICAL 522 530	Acrolein
+T14	GENE 561 586	amyloid precursor protein
+T15	GENE 588 591	APP
+T16	GENE 594 605	β-secretase
+T17	GENE 607 613	BACE-1
+T18	GENE 623 652	amyloid β-peptide transporter
+T19	GENE 653 697	receptor for advanced glycation end products
+T20	GENE 713 756	A-disintegrin and metalloprotease (ADAM) 10
+T6	CHEMICAL 799 807	Acrolein
+T8	CHEMICAL 955 965	superoxide
+T21	GENE 955 975	superoxide dismutase
+T9	CHEMICAL 1014 1029	malondialdehyde
+T10	CHEMICAL 1071 1079	Acrolein
+T12	GENE 1135 1141	BACE-1
+T13	GENE 1175 1182	ADAM-10
+T1	CHEMICAL 1264 1272	Acrolein
+T2	CHEMICAL 1332 1340	Acrolein
+R0	CPR-3 Arg1:T5 Arg2:T14
+R1	CPR-3 Arg1:T5 Arg2:T16
+R2	CPR-3 Arg1:T5 Arg2:T17
+R3	CPR-3 Arg1:T5 Arg2:T18
+R4	CPR-3 Arg1:T5 Arg2:T19
+R5	CPR-4 Arg1:T5 Arg2:T20
+R6	CPR-3 Arg1:T10 Arg2:T12
+R7	CPR-4 Arg1:T10 Arg2:T13
+R8	NOT Arg1:T5 Arg2:T15
+R9	NOT Arg1:T21 Arg2:T9

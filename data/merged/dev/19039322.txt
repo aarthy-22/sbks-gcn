@@ -1,0 +1,10 @@
+Global target profile of the kinase inhibitor bosutinib in primary chronic myeloid leukemia cells.
+The detailed molecular mechanism of action of second-generation BCR-ABL tyrosine kinase inhibitors, including perturbed targets and pathways, should contribute to rationalized therapy in chronic myeloid leukemia (CML) or in other affected diseases.
+Here, we characterized the target profile of the dual SRC/ABL inhibitor bosutinib employing a two-tiered approach using chemical proteomics to identify natural binders in whole cell lysates of primary CML and K562 cells in parallel to in vitro kinase assays against a large recombinant kinase panel.
+The combined strategy resulted in a global survey of bosutinib targets comprised of over 45 novel tyrosine and serine/threonine kinases.
+We have found clear differences in the target patterns of bosutinib in primary CML cells versus the K562 cell line.
+A comparison of bosutinib with dasatinib across the whole kinase panel revealed overlapping, but distinct, inhibition profiles.
+Common among those were the SRC, ABL and TEC family kinases.
+Bosutinib did not inhibit KIT or platelet-derived growth factor receptor, but prominently targeted the apoptosis-linked STE20 kinases.
+Although in vivo bosutinib is inactive against ABL T315I, we found this clinically important mutant to be enzymatically inhibited in the mid-nanomolar range.
+Finally, bosutinib is the first kinase inhibitor shown to target CAMK2G, recently implicated in myeloid leukemia cell proliferation.

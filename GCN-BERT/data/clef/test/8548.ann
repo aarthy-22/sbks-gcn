@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 8 9	4
+T2	REACTION_PRODUCT 23 199	3-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)pyridine 1-oxide
+T3	STARTING_MATERIAL 241 380	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T4	STARTING_MATERIAL 399 424	3-carboxypyridine 1-oxide
+T5	REAGENT_CATALYST 445 458	triethylamine
+T6	REAGENT_CATALYST 483 487	HATU
+T7	OTHER_COMPOUND 566 573	ammonia
+T8	OTHER_COMPOUND 577 585	methanol
+T9	OTHER_COMPOUND 756 766	silica gel
+T10	OTHER_COMPOUND 799 806	ammonia
+T11	OTHER_COMPOUND 810 818	methanol
+T12	OTHER_COMPOUND 823 833	chloroform
+T13	OTHER_COMPOUND 951 959	methanol
+T14	OTHER_COMPOUND 985 1008	tert-butyl methyl ether
+T15	REACTION_PRODUCT 1073 1087	title compound
+T16	YIELD_OTHER 1089 1094	14 mg
+T17	YIELD_PERCENT 1096 1099	31%

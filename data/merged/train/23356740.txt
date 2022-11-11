@@ -1,0 +1,11 @@
+A comparison of the signalling properties of two tyramine receptors from Drosophila.
+In invertebrates, the phenolamines, tyramine and octopamine, mediate many functional roles usually associated with the catecholamines, noradrenaline and adrenaline, in vertebrates.
+The α- and β-adrenergic classes of insect octopamine receptor are better activated by octopamine than tyramine.
+Similarly, the Tyramine 1 subgroup of receptors (or Octopamine/Tyramine receptors) are better activated by tyramine than octopamine.
+However, recently, a new Tyramine 2 subgroup of receptors was identified, which appears to be activated highly preferentially by tyramine.
+We examined immunocytochemically the ability of CG7431, the founding member of this subgroup from Drosophila melanogaster, to be internalized in transfected Chinese hamster ovary (CHO) cells by different agonists.
+It was only internalized after activation by tyramine.
+Conversely, the structurally related receptor, CG16766, was internalized by a number of biogenic amines, including octopamine, dopamine, noradrenaline, adrenaline, which also were able to elevate cyclic AMP levels.
+Studies with synthetic agonists and antagonists confirm that CG16766 has a different pharmacological profile to that of CG7431.
+Species orthologues of CG16766 were only found in Drosophila species, whereas orthologues of CG7431 could be identified in the genomes of a number of insect species.
+We propose that CG16766 represents a new group of tyramine receptors, which we have designated the Tyramine 3 receptors.

@@ -1,0 +1,10 @@
+Modification of radiation damage to mitochondrial system in vivo by Podophyllum hexandrum: mechanistic aspects.
+The present study was undertaken to investigate whether RP-1 treatment protected mitochondrial system against radiation damage and also to unravel the mechanism associated with this process.
+Radioprotection of mitochondrial system by Podophyllum hexandrum (RP-1) was investigated to understand its mechanism of action.
+Levels of superoxide anion (O2-), reduced or oxidized glutathione (GSH or GSSG), thiobarbituric acid reactive substance (TBARS), protein carbonyl (PC), ATP, NADH-ubiquinone oxidoreductase (complex-I), NADH-cytochrome c oxidoreductase (complex I/II), succinate-cytochrome c oxidoreductase (complex II/III) and mitochondrial membrane potential (MMP) were studied in mitochondria isolated from liver of mice belonging to various treatment groups.
+Whole body y-irradiation (10 Gy) significantly (p < 0.01) increased the formation of O2-, PC, and TBARS, upto 24 h as compared to untreated control.
+RP-1 treatment (200 mg/kg b.w.) to mice 2 h before irradiation reduced the radiation-induced O2- generation within 4 h and formation of TBARS and PC upto 24 h significantly (p < 0.01).
+Singularly irradiation or RP-1 treatment significantly (p < 0.01) increased the levels of glutathione within an hour, as compared to untreated control.
+Pre-irradiation administration of RP-1 enhanced levels of GSH induced increase in complex I (upto 16 h), complex I/III (4 h) complex II/III activity (upto 24 h; p < 0.01) and inhibited the radiation-induced decrease in MMP significantly (24 h; p < 0.01).
+The present study indicates that RP-1 itself modulates several mitichondrial perameters due to its influence on the biochemical milieu within and outside the cells.
+However, RP-1 treatment before irradiation modulates radiation induced perturbations such as the increase in electron transport chain enzyme activity, formation of O2-, TBARS and PC to offer radioprotection.

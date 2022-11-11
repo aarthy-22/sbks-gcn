@@ -1,0 +1,2 @@
+Synthesis Example 10: Production of Aromatic Amine Derivative (PH10)
+In the same manner as in Synthesis Example 8 except for using 2.11 g of the intermediate 6 in place of the intermediate 21 and using 1.00 g of 4-bromobiphenyl in place of bromobenzene, 1.49 g (yield: 56%) of a white solid was obtained, which was identified as the following compound (PH10) by FD-MS analysis: m/z=740 (theoretical value: 740 for C54H32N2O2).

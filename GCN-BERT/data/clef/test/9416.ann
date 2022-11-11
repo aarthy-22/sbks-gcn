@@ -1,0 +1,20 @@
+T1	EXAMPLE_LABEL 8 10	33
+T2	REACTION_PRODUCT 11 169	(2S,3S,4S,5S)-3-tert-butyl-1-(cyclohexanecarbonyl)-4-[({2-methoxy-5-[1-(trifluoromethyl)cyclopropyl]phenyl}methyl)amino]-5-phenylpyrrolidine-2-carboxylic acid
+T3	EXAMPLE_LABEL 178 181	33A
+T4	REACTION_PRODUCT 182 266	4,4,5,5-tetramethyl-2-(4-(1-(trifluoromethyl)cyclopropyl)phenyl)-1,3,2-dioxaborolane
+T5	STARTING_MATERIAL 284 333	1-bromo-4-(1-(trifluoromethyl)cyclopropyl)benzene
+T6	SOLVENT 356 363	dioxane
+T7	STARTING_MATERIAL 381 440	4,4,4',4',5,5,5',5'-octamethyl-2,2'-bi(1,3,2-dioxaborolane)
+T8	REAGENT_CATALYST 463 480	potassium acetate
+T9	STARTING_MATERIAL 507 577	dicyclohexyl(4'-ethyl-2',6'-diisopropyl-[1,1'-biphenyl]-2-yl)phosphine
+T10	OTHER_COMPOUND 605 613	nitrogen
+T11	TEMPERATURE 642 649	100° C.
+T12	TIME 654 661	6 hours
+T13	TEMPERATURE 683 688	25° C
+T14	OTHER_COMPOUND 707 720	ethyl acetate
+T15	OTHER_COMPOUND 882 897	petroleum ether
+T16	OTHER_COMPOUND 899 915	ethyl acetate=15
+T17	REACTION_PRODUCT 930 1014	4,4,5,5-tetramethyl-2-(4-(1-(trifluoromethyl)cyclopropyl)phenyl)-1,3,2-dioxaborolane
+T18	YIELD_OTHER 1016 1021	1.8 g
+T19	YIELD_OTHER 1023 1032	4.61 mmol
+T20	YIELD_PERCENT 1034 1039	55.6%

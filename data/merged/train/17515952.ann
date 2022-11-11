@@ -1,0 +1,24 @@
+T5	CHEMICAL 82 91	glutamate
+T17	GENE-Y 1106 1137	glial fibrillary acidic protein
+T6	GENE-Y 1139 1144	ezrin
+T7	GENE-Y 1145 1151	moesin
+T8	GENE-Y 1152 1159	radixin
+T9	GENE-Y 1161 1169	palladin
+T1	CHEMICAL 1172 1179	calcium
+T10	GENE-Y 1192 1225	S100 calcium binding protein beta
+T2	CHEMICAL 1197 1204	calcium
+T11	GENE-Y 1227 1261	chemokine (C-X-C motif) receptor 4
+T12	GENE-Y 1297 1309	Aquaaporin 4
+T13	GENE-Y 1311 1342	Chemokine (C-C- motif) ligand 2
+T14	GENE-Y 1344 1375	Chemokine (C-C- motif) ligand 3
+T15	GENE-Y 1377 1386	Plectin 1
+T16	GENE-N 1388 1431	intermediate filament binding protein 55kDa
+T3	CHEMICAL 1774 1783	glutamate
+T4	CHEMICAL 1805 1814	glutamate
+R0	NOT Arg1:T6 Arg2:T1
+R1	NOT Arg1:T7 Arg2:T2
+R2	NOT Arg1:T8 Arg2:T2
+R3	NOT Arg1:T1 Arg2:T11
+R4	NOT Arg1:T1 Arg2:T15
+R5	NOT Arg1:T2 Arg2:T12
+R6	NOT Arg1:T2 Arg2:T14

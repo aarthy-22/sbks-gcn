@@ -1,0 +1,2 @@
+Example 32: Benzylamine Formylation Reaction Catalyzed by Using One of Ten Thousand of Molar Equivalent of Ruthenium Complex 1a
+Steps similar to those in example 24 were employed, ruthenium complex 1a (1.2 mg, 0.002 mmol) was used as catalyst, and a reaction among benzylamine (2.150 g, 20 mmol) and CO2 and H2 (each at a pressure of 35 atm) was performed to react in a Parr autoclave at 120° C. in an oil bath for 16 hours. N-benzylformamide was separated and obtained as a white solid (2.595 g) in 96% yield.

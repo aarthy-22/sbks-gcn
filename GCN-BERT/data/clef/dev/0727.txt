@@ -1,0 +1,2 @@
+Synthesis of Compound 54
+Compound 53 (41.2 mg, 0.1 mmol) was dissolved in 10 mL DMF and cooled to 0° C. in an ice bath. Et3N (6.9 μL, 0.05 mmol) and the compound 8 (73.7 mg, 0.1 mmol) were added dropwise to the solution and left to stir for 30 minutes. The solution was allowed to warm to room temperature and stirred for another 5 hours. The mixture was concentrated under reduced pressure, and the residue was purified by pre-HPLC to give compound 54 (73 mg, 63.6%) as a white powder. LC-MS m/z (ES+), 1148.47 (M+H)+.

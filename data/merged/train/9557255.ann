@@ -1,0 +1,12 @@
+T1	CHEMICAL 41 50	Adapalene
+T3	CHEMICAL 63 77	naphthoic acid
+T7	CHEMICAL 112 120	retinoid
+T2	CHEMICAL 258 266	retinoid
+T4	CHEMICAL 277 286	adapalene
+T8	GENE-N 307 350	ligand-activated gene transcription factors
+T5	CHEMICAL 351 364	retinoic acid
+T9	GENE-N 351 374	retinoic acid receptors
+T10	GENE-Y 375 383	RAR beta
+T11	GENE-Y 388 397	RAR gamma
+T6	CHEMICAL 446 455	adapalene
+R0	NOT Arg1:T4 Arg2:T8

@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 7 87	rac-(2R,3S,4R,5R)-ethyl 3-(tert-butyl)-4-nitro-5-phenylpyrrolidine-2-carboxylate
+T3	EXAMPLE_LABEL 93 95	2A
+T4	REACTION_PRODUCT 96 133	(E)-ethyl 2-(benzylideneamino)acetate
+T5	STARTING_MATERIAL 150 183	glycine ethyl ester hydrochloride
+T6	REAGENT_CATALYST 208 225	magnesium sulfate
+T7	SOLVENT 249 264	dichloromethane
+T8	REAGENT_CATALYST 283 296	triethylamine
+T9	TEMPERATURE 346 365	ambient temperature
+T10	TIME 370 380	20 minutes
+T11	STARTING_MATERIAL 386 398	benzaldehyde
+T12	OTHER_COMPOUND 539 554	dichloromethane
+T13	OTHER_COMPOUND 611 616	brine
+T14	OTHER_COMPOUND 629 634	MgSO4
+T15	REACTION_PRODUCT 673 710	(E)-ethyl 2-(benzylideneamino)acetate
+T16	YIELD_OTHER 711 716	8.2 g
+T17	YIELD_PERCENT 719 722	91%

@@ -1,0 +1,3 @@
+Example 43A
+Methyl 4-{[(6-bromo-3-methyl-2-phenylquinolin-4-yl)carbonyl]amino}bicyclo[2.2.2]octane-1-carboxylate
+At RT, 214 mg (1.17 mmol) of methyl 4-aminobicyclo[2.2.2]octane-1-carboxylate, 333 mg (0.88 mmol) of HATU and 0.20 ml (1.17 mmol) of DIPEA were added successively to a solution of 200 mg (0.58 mmol) of the compound from Example 3A in 3 ml of DMF. The mixture was then stirred at 60° C. overnight. After cooling to RT, the mixture was purified directly (without further work-up) by preparative HPLC (Method 2). This gave 269 mg (90% of theory, purity 99%) of the title compound

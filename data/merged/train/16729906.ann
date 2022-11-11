@@ -1,0 +1,18 @@
+T7	CHEMICAL 0 9	Sorafenib
+T18	GENE-Y 79 96	interferon-alpha2
+T2	CHEMICAL 434 443	Sorafenib
+T3	CHEMICAL 445 456	BAY 43-9006
+T4	CHEMICAL 549 557	tyrosine
+T8	GENE-N 549 565	tyrosine kinases
+T9	GENE-N 654 661	kinases
+T10	GENE-Y 670 723	vascular endothelial growth factor receptor (VEGFR)-1
+T11	GENE-Y 725 732	VEGFR-2
+T12	GENE-Y 734 741	VEGFR-3
+T13	GENE-Y 743 782	platelet-derived growth factor receptor
+T14	GENE-Y 784 789	Flt-3
+T15	GENE-Y 791 796	c-kit
+T16	GENE-Y 802 805	Raf
+T17	GENE-N 806 813	kinases
+T5	CHEMICAL 882 891	sorafenib
+T6	CHEMICAL 1023 1032	sorafenib
+T1	CHEMICAL 1205 1214	sorafenib

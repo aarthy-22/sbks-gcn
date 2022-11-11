@@ -1,0 +1,7 @@
+The tyrosine kinase inhibitor ZD1839 ("Iressa") inhibits HER2-driven signaling and suppresses the growth of HER2-overexpressing tumor cells.
+The epidermal growth factor receptor (EGFR) is commonly overexpressed in many human tumors and provides a new target for anticancer drug development.
+ZD1839 ("Iressa"), a quinazoline tyrosine kinase inhibitor selective for the EGFR, has shown good activity in preclinical studies and in the early phase of clinical trials.
+However, because it remains unclear which tumor types are the best targets for treatment with this agent, the molecular characteristics that correlate with tumor sensitivity to ZD1839 have been studied.
+In a panel of human breast cancer and other epithelial tumor cell lines, HER2-overexpressing tumors were particularly sensitive to ZD1839.
+Growth inhibition of these tumor cell lines was associated with the dephosphorylation of EGFR, HER2, and HER3, accompanied by the loss of association of HER3 with phosphatidylinositol 3-kinase, and down-regulation of Akt activity.
+These studies suggest that HER2-overexpressing tumors are particularly susceptible to the inhibition of HER family tyrosine kinase signaling and suggest novel strategies to treat these particularly aggressive tumors.

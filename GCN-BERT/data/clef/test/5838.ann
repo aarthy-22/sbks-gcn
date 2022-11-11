@@ -1,0 +1,8 @@
+T1	EXAMPLE_LABEL 18 19	2
+T2	REACTION_PRODUCT 42 44	22
+T3	YIELD_PERCENT 64 73	yield=67%
+T4	REACTION_PRODUCT 87 89	22
+T5	STARTING_MATERIAL 186 220	10-phenylanthracene-9-carbaldehyde
+T6	REACTION_PRODUCT 263 288	4-phenyl-1-naphthaldehyde
+T7	REACTION_PRODUCT 294 359	Intermediate 4-hydroxy-3-(10-phenylanthracen-9-yl)pent-3-en-2-one
+T8	REACTION_PRODUCT 380 445	Intermediate 4-hydroxy-3-(4-phenylnaphthalen-1-yl)pent-3-en-2-one

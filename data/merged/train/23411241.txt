@@ -1,0 +1,6 @@
+Compositional characterisation of soluble apple polysaccharides, and their antioxidant and hepatoprotective effects on acute CCl4-caused liver damage in mice.
+Water-soluble apple peel polysaccharides (APP) and apple flesh polysaccharides (AFP) were isolated from Pink Lady fruits, and their in vitro antioxidant capacities were characterised by DPPH(), HO(), and O(2)(-) systems, and ferric-reducing antioxidant power assay.
+Oral administration of APP at 250 and 500 mg/kg bw in mice was shown to be as effective as AFP in lowering the CCl(4)-caused increases of serum alanine aminotransferase, aspartate aminotransferase and lactic dehydrogenase activities, and hepatic malondialdehyde level, and antagonising the decreases in antioxidant superoxide dismutase and glutathione peroxidase activities caused by CCl(4) (p<0.05).
+Histopathological examinations further confirmed that both APP and AFP could protect the liver from CCl(4)-induced histological alteration.
+HPLC analysis also showed similar profiles of monosaccharide composition for APP and AFP with arabinose, galactose and galacturonic acid being main component monosaccharides.
+All of these findings demonstrate that the extracts of both APP and AFP possess antioxidant and hepatoprotective potential.

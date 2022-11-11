@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 7 158	(E)-methyl 3-(3,5-difluoro-4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl-1,2,3,4-tetrahy drobenzo[4,5]thieno[3,2-c]pyridin-1-yl)phenyl)acrylate
+T3	STARTING_MATERIAL 159 231	N-(1-(benzo[b]thiophen-2-yl)propan-2-yl)-2-fluoro-2-methylpropan-1-amine
+T4	STARTING_MATERIAL 232 234	6b
+T5	STARTING_MATERIAL 259 310	(E)-methyl 3-(3,5-difluoro-4-formylphenyl) acrylate
+T6	STARTING_MATERIAL 311 313	1e
+T7	SOLVENT 360 367	toluene
+T8	REAGENT_CATALYST 374 385	acetic acid
+T9	TEMPERATURE 457 463	reflux
+T10	TIME 468 476	24 hours
+T11	REACTION_PRODUCT 666 680	title compound
+T12	REACTION_PRODUCT 681 832	(E)-methyl 3-(3,5-difluoro-4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl-1,2,3,4-tetrahydrobenzo[4,5]thieno[3,2-c]pyridin-1-yl)phenyl)a crylate
+T13	REACTION_PRODUCT 833 835	6c
+T14	YIELD_OTHER 837 842	32 mg
+T15	YIELD_PERCENT 850 853	22%

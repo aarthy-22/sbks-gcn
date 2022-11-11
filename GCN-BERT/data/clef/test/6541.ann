@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 5 6	5
+T2	REACTION_PRODUCT 23 158	tert-butyl 3-(cyanomethyl)-3-[4-[2-(cyclopropylcarbonylamino) -[1,2,4]triazolo[1,5-a]pyridin-5-yl]pyrazole-1-yl]azetidine-1-carboxylate
+T3	REACTION_PRODUCT 160 174	Intermediate 7
+T4	STARTING_MATERIAL 179 267	N-[5-(1H-pyrazole-4-yl)-[1,2,4]triazolo[1,5-a]pyridin-2-yl] cyclopropane carboxamide(200
+T5	STARTING_MATERIAL 285 343	tert-butyl 3-(cyanomethylene)azetidine-1-carboxylate(144.8
+T6	SOLVENT 374 388	acetonitrile(5
+T7	TEMPERATURE 443 459	room temperature
+T8	TIME 464 472	16 hours
+T9	OTHER_COMPOUND 667 683	ethyl acetate(20
+T10	OTHER_COMPOUND 786 800	sodium sulfate
+T11	OTHER_COMPOUND 940 953	ethyl acetate
+T12	REACTION_PRODUCT 963 1106	tert-butyl 3-(cyanomethyl)-3-[4-[2-(cyclopropylcarbonylamino)-[1,2,4]triazolo[[1,5-a]pyridin-5-yl]p yrazole-1-yl]azetidine-1-carboxylate(170 mg
+T13	YIELD_PERCENT 1108 1113	44.4%

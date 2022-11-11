@@ -1,0 +1,12 @@
+Metabolite ligands of estrogen receptor-beta reduce primate coronary hyperreactivity.
+Previous reports showed that 17beta-estradiol implants attenuate in vivo coronary hyperreactivity (CH), characterized by long-duration vasoconstrictions (in coronary angiographic experiments), in menopausal rhesus monkeys.
+Prolonged Ca2+ contraction signals that correspond with CH in coronary vascular muscle cells (VMC) to the same dual-constrictor stimulus, serotonin + the thromboxane analog U-46619, in estrogen-deprived VMC were suppressed by >72 h in 17beta-estradiol.
+The purpose of this study was to test whether an endogenous estrogen metabolite with estrogen receptor-beta (ER-beta) binding activity, estriol (E3), suppresses in vivo and in vitro CH.
+E3 treatment in vivo for 4 wk significantly attenuated the angiographically evaluated vasoconstrictor response to intracoronary serotonin + U-46619 challenge.
+In vitro treatment of rhesus coronary VMC for >72 h with nanomolar E3 attenuated late Ca2+ signals.
+This reduction of late Ca2+ signals also appeared after >72 h of treatment with subnanomolar 5alpha-androstane-3beta,17beta-diol (3beta-Adiol), an endogenous dihydrotestosterone metabolite with ER-beta binding activity.
+R,R-tetrahydrochrysene, a selective ER-beta antagonist, significantly blocked the E3- and 3beta-Adiol-mediated attenuation of late Ca2+ signal increases.
+ER-beta and thromboxane-prostanoid receptor (TPR) were coexpressed in coronary arteries and aorta.
+In vivo E3 treatment attenuated aortic TPR expression.
+Furthermore, in vitro treatment with E3 or 3beta-Adiol downregulated TPR expression in VMC, which was blocked for both agonists by pretreatment with R,R-tetrahydrochrysene.
+E3- and 3beta-Adiol-mediated reduction in persistent Ca2+ signals is associated with ER-beta-mediated attenuation of TPR expression and may partly explain estrogen benefits in coronary vascular muscle.

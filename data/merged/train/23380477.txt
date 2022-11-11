@@ -1,0 +1,12 @@
+Autophagy takes place in mutated p53 neuroblastoma cells in response to hypoxia mimetic CoCl(2).
+Solid tumors like neuroblastoma exhibit hypoxic areas, which can lead both to cell death or aggressiveness increase.
+Hypoxia is a known stress able to induce stabilization of p53, implicated in cell fate regulation.
+Recently, p53 appeared to be involved in autophagy in an opposite manner, depending on its location: when nuclear, it enhanced transcription of pro-autophagic genes whereas when cytoplasmic, it inhibited the autophagic process.
+Today, we used cobalt chloride, a hypoxia mimetic that inhibits proteasomal HIF-1 degradation and generates reactive oxygen species (ROS).
+We focused on CoCl2-induced cell death in a DNA-binding mutated p53 neuroblastoma cell line (SKNBE(2c)).
+An autophagic signaling was evidenced by an increase of Beclin-1, ATG 5-12, and LC3-II expression whereas the p53(mut) presence decreased with CoCl2 time exposure.
+Activation of the pathway seemed to protect cells from ROS production and, at least in part, from death.
+The autophagic inhibitors activated the apoptotic signaling and the death was enhanced.
+To delineate the eventual implication of the p53(mut) in the autophagic process in response to hypoxia, we monitored signaling in p53(WT)SHSY5Y cells, after either shRNA-p53 down-regulation or transcriptional activity inhibition by pifithrin alpha.
+We did not detect autophagy neither with p53(wt) nor when p53 was lacking whereas such a response was effective with a mutated or inactivated p53.
+To conclude, mutated p53 in neuroblastoma cells could be linked with the switch between apoptotic response and cell death by autophagy in response to hypoxic mimetic stress.

@@ -1,0 +1,23 @@
+T22	GENE-N 0 59	Peroxisome proliferator-activated receptors alpha and gamma
+T11	CHEMICAL 77 89	indomethacin
+T10	CHEMICAL 104 113	steroidal
+T1	CHEMICAL 139 151	Indomethacin
+T2	CHEMICAL 161 170	steroidal
+T19	GENE-N 206 220	cyclooxygenase
+T3	CHEMICAL 404 416	indomethacin
+T16	GENE-N 436 452	insulin promotes
+T4	CHEMICAL 544 556	indomethacin
+T5	CHEMICAL 608 620	indomethacin
+T17	GENE-Y 641 689	peroxisome proliferator-activated receptor gamma
+T18	GENE-Y 691 700	PPARgamma
+T6	CHEMICAL 810 822	indomethacin
+T20	GENE-Y 844 853	PPARgamma
+T7	CHEMICAL 1010 1020	fenoprofen
+T8	CHEMICAL 1022 1031	ibuprofen
+T9	CHEMICAL 1037 1052	flufenamic acid
+T21	GENE-Y 1063 1072	PPARgamma
+T12	GENE-Y 1190 1199	PPARgamma
+T13	GENE-Y 1235 1244	PPARalpha
+T14	GENE-N 1263 1267	PPAR
+T15	GENE-Y 1486 1495	PPARgamma
+R0	CPR-2 Arg1:T9 Arg2:T21

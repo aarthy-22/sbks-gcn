@@ -1,0 +1,14 @@
+Fisetin regulates obesity by targeting mTORC1 signaling.
+Fisetin, a flavonol present in vegetables and fruits, possesses antioxidative and anti-inflammatory properties.
+In this study, we have demonstrated that fisetin prevents diet-induced obesity through regulation of the signaling of mammalian target of rapamycin complex 1 (mTORC1), a central mediator of cellular growth, cellular proliferation and lipid biosynthesis.
+To evaluate whether fisetin regulates mTORC1 signaling, we investigated the phosphorylation and kinase activity of the 70-kDa ribosomal protein S6 kinase 1 (S6K1) and mTORC1 in 3T3-L1 preadipocytes.
+Fisetin treatment of preadipocytes reduced the phosphorylation of S6K1 and mTORC1 in a time- and concentration-dependent manner.
+To further our understanding of how fisetin negatively regulates mTORC1 signaling, we analyzed the phosphorylation of S6K1, mTOR and Akt in fisetin-treated TSC2-knockdown cells.
+The results suggested that fisetin treatment inhibits mTORC1 activity in an Akt-dependent manner.
+Recent studies have shown that adipocyte differentiation is dependent on mTORC1 activity.
+Fisetin treatment inhibited adipocyte differentiation, consistent with the negative effect of fisetin on mTOR.
+The inhibitory effect of fisetin on adipogenesis is dependent of mTOR activity, suggesting that fisetin inhibits adipogenesis and the accumulation of intracellular triglycerides during adipocyte differentiation by targeting mTORC1 signaling.
+Fisetin supplementation in mice fed a high-fat diet (HFD) significantly attenuated HFD-induced increases in body weight and white adipose tissue.
+We also observed that fisetin efficiently suppressed the phosphorylation of Akt, S6K1 and mTORC1 in adipose tissue.
+Collectively, these results suggest that inhibition of mTORC1 signaling by fisetin prevents adipocyte differentiation of 3T3-L1 preadipocytes and obesity in HFD-fed mice.
+Therefore, fisetin may be a useful phytochemical agent for attenuating diet-induced obesity.

@@ -1,0 +1,36 @@
+T17	CHEMICAL 0 11	Sitagliptin
+T1	CHEMICAL 13 24	Sitagliptin
+T22	GENE-Y 34 56	dipeptidyl peptidase-4
+T26	GENE-Y 58 63	DPP-4
+T18	GENE-Y 117 122	DPP-4
+T19	GENE-N 143 160	incretin hormones
+T20	GENE-Y 161 184	glucagon-like peptide-1
+T11	CHEMICAL 189 196	glucose
+T21	GENE-Y 189 233	glucose-dependent insulinotropic polypeptide
+T23	GENE-N 257 265	incretin
+T24	GENE-Y 270 277	insulin
+T25	GENE-Y 300 308	glucagon
+T12	CHEMICAL 325 332	glucose
+T13	CHEMICAL 338 345	glucose
+T14	CHEMICAL 441 452	sitagliptin
+T27	GENE-Y 642 649	insulin
+T28	GENE-Y 718 742	glycosylated haemoglobin
+T29	GENE-Y 744 751	HbA(1c)
+T15	CHEMICAL 785 796	sitagliptin
+T16	CHEMICAL 968 979	sitagliptin
+T30	GENE-Y 989 996	HbA(1c)
+T2	CHEMICAL 1058 1067	metformin
+T3	CHEMICAL 1071 1083	pioglitazone
+T4	CHEMICAL 1107 1116	glipizide
+T5	CHEMICAL 1131 1140	metformin
+T6	CHEMICAL 1142 1153	Sitagliptin
+T7	CHEMICAL 1349 1360	sitagliptin
+T8	CHEMICAL 1419 1428	metformin
+T9	CHEMICAL 1451 1460	glipizide
+T10	CHEMICAL 1462 1473	Sitagliptin
+R0	CPR-4 Arg1:T1 Arg2:T22
+R1	NOT Arg1:T26 Arg2:T11
+R2	NOT Arg1:T19 Arg2:T11
+R3	NOT Arg1:T20 Arg2:T11
+R4	NOT Arg1:T23 Arg2:T12
+R5	NOT Arg1:T24 Arg2:T12

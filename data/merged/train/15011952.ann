@@ -1,0 +1,31 @@
+T28	GENE-N 0 15	DNA polymerases
+T16	GENE-N 54 68	DNA polymerase
+T5	CHEMICAL 191 224	1-beta-D-arabinofuranosylcytosine
+T9	CHEMICAL 226 230	araC
+T10	CHEMICAL 236 267	2'-deoxy-2',2'-difluorocytidine
+T11	CHEMICAL 269 280	gemcitabine
+T23	GENE-N 313 338	mammalian DNA polymerases
+T24	GENE-N 396 435	DNA polymerase alpha, delta and epsilon
+T25	GENE-N 504 542	DNA polymerase beta, delta and epsilon
+T26	GENE-Y 586 606	DNA polymerase gamma
+T27	GENE-Y 798 818	DNA polymerase gamma
+T12	CHEMICAL 890 949	1-(2-Deoxy-2-fluoro-4-thio-beta-D-arabinofuranosyl)cytosine
+T13	CHEMICAL 951 962	4'-thio-FAC
+T14	CHEMICAL 994 998	araC
+T15	CHEMICAL 1003 1014	gemcitabine
+T1	CHEMICAL 1189 1217	triphosphates of 4'-thio-FAC
+T2	CHEMICAL 1222 1233	gemcitabine
+T17	GENE-N 1242 1278	DNA polymerase alpha, beta and gamma
+T3	CHEMICAL 1284 1312	triphosphates of 4'-thio-FAC
+T4	CHEMICAL 1314 1327	4'-thio-FACTP
+T18	GENE-Y 1376 1396	DNA polymerase alpha
+T19	GENE-Y 1444 1463	DNA polymerase beta
+T20	GENE-Y 1494 1514	DNA polymerase gamma
+T6	CHEMICAL 1520 1547	triphosphate of gemcitabine
+T7	CHEMICAL 1549 1555	dFdCTP
+T21	GENE-N 1608 1623	DNA polymerases
+T8	CHEMICAL 1735 1746	gemcitabine
+T22	GENE-N 1800 1815	DNA polymerases
+R0	CPR-4 Arg1:T3 Arg2:T20
+R1	NOT Arg1:T16 Arg2:T11
+R2	NOT Arg1:T1 Arg2:T17

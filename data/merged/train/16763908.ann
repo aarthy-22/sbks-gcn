@@ -1,0 +1,6 @@
+T1	CHEMICAL 241 252	amino acids
+T2	CHEMICAL 257 271	acylcarnitines
+T3	CHEMICAL 928 936	acarbose
+T4	GENE-Y 965 985	maltase glucoamylase
+T5	GENE-Y 1019 1041	acid alpha-glucosidase
+R0	NOT Arg1:T3 Arg2:T5

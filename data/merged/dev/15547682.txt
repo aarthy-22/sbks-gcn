@@ -1,0 +1,7 @@
+Pseudohypoaldosteronism type 1 and the genes encoding prostasin, alpha-spectrin, and Nedd4.
+Pseudohypoaldosteronism type 1 (PHA1), a rare disorder of infancy, presents with potential life-threatening salt wasting and failure to thrive.
+Thus far, PHA1 has been attributed to mutations affecting the mineralocorticoid receptor or any of the three subunits assembling the amiloride-sensitive epithelial sodium channel (ENaC).
+However, a lot of patients with a phenotype resembling PHA1, show no defects in these proteins, making it likely that further genes are involved in the aetiology of this disease.
+Recent studies have elucidated additional participants (alpha-spectrin and members of the families of transmembrane serine proteases, ubiquitin-protein ligases, and serum- and glucocorticoid-regulated kinases, respectively) regulating and/or interacting in the complex pathway of sodium retention in the amiloride-sensitive distal nephron.
+This led us to investigate whether PHA1 can also be associated with mutations in some of these genes.
+Our data suggest that at least the prostasin gene might be excluded as a causative locus.

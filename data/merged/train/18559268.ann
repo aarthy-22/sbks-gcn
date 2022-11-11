@@ -1,0 +1,14 @@
+T7	CHEMICAL 16 22	taxane
+T13	GENE-N 34 46	microtubules
+T6	CHEMICAL 134 144	paclitaxel
+T8	GENE-N 150 161	microtubule
+T3	CHEMICAL 206 213	taxanes
+T1	CHEMICAL 425 436	epothilones
+T2	CHEMICAL 636 646	paclitaxel
+T9	GENE-N 773 784	microtubule
+T4	CHEMICAL 791 800	docetaxel
+T5	CHEMICAL 802 809	Taxanes
+T10	GENE-N 830 842	microtubules
+T11	GENE-N 875 889	P-glycoprotein
+T12	GENE-N 1091 1103	efflux pumps
+R0	CPR-2 Arg1:T7 Arg2:T13

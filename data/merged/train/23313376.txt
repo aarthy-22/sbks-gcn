@@ -1,0 +1,13 @@
+Pterostilbene exerts antitumor activity against human osteosarcoma cells by inhibiting the JAK2/STAT3 signaling pathway.
+Osteosarcoma is a high-grade malignant bone tumor.
+Pterostilbene (PTE) is a natural, dimethylated analog of resveratrol with higher bioavailability.
+While PTE has been shown to have potent antitumor activity against various types of cancer, the molecular mechanisms underlying the effects of PTE remain largely unknown.
+The Janus kinase 2/Signal Transducer and Activator of Transcription 3 (JAK2/STAT3) signaling pathway plays a crucial role in tumorigenesis and immune development.
+In this study, we assessed the antitumor activity of PTE against human osteosarcoma cells and explored the role of JAK2/STAT3 and apoptosis-related signaling pathways on the activity of PTE.
+PTE treatment resulted in a dose- and time-dependent inhibition of osteosarcoma cell viability.
+Additionally, PTE exhibited strong antitumor activity, as evidenced not only by reductions in tumor cell adhesion, migration and mitochondrial membrane potential (MMP) but also by increases in the apoptotic index, reactive oxygen species (ROS) and several biochemical parameters.
+Furthermore, PTE treatment directly inhibited the phosphorylation of JAK2 at Tyr 1007 and the downstream activation of STAT3.
+PTE also down-regulated the expression of STAT3 target genes, including the anti-apoptotic proteins Bcl-xL and Mcl-1, leading to the up-regulation of mitochondrial apoptosis pathway-related proteins (Bax, Bak, cytosolic Cytochrome c, and cleaved Caspase3) and cyclin-dependent kinase inhibitors such as p21 and p27.
+PTE, used in combination with a known JAK2/STAT3 inhibitor, AG490, further decreased the viability of osteosarcoma cells.
+Taken together, PTE is a potent inhibitor of osteosarcoma cell growth that targets the JAK2/STAT3 signaling pathway.
+These data suggest that inhibition of JAK2/STAT3 signaling is a novel mechanism of action for PTE during therapeutic intervention in osteosarcoma cancers.

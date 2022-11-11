@@ -1,0 +1,8 @@
+T1	EXAMPLE_LABEL 8 9	7
+T2	OTHER_COMPOUND 10 138	5-(3-hydroxyphenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T3	OTHER_COMPOUND 168 169	7
+T4	STARTING_MATERIAL 232 259	3-hydroxyphenylboronic acid
+T5	STARTING_MATERIAL 285 401	5-bromo-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T6	YIELD_OTHER 442 447	30 mg
+T7	YIELD_PERCENT 449 452	20%
+T8	REACTION_PRODUCT 457 585	5-(3-hydroxyphenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione

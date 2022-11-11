@@ -1,0 +1,4 @@
+Detailed description of the preferred embodiment
+Example 1
+5- (3,7-Dimethyl-2,6-dioxo-2,3,6,7-tetrahydro-1H-purin-1-yl)pentanamide
+5-(3,7-Dimethyl-2,6-dioxo-2,3,6,7-tetrahydro-1H-purin-1-yl)pentanenitrile (300 mg, 1.03 mmol) was dissolved in dimethyl sulfoxide (5 mL), potassium carbonate (272 mg, 1.97 mmol) and hydrogen peroxide (0.5 mL) were added at 0°C, and the reaction was stirred at 20°C for 12 hours. The reaction was quenched by addition of saturated aqueous sodium thiosulfate solution (20 mL), and extracted with ethyl acetate (20 mL x 3). The organic phases were combined, dried over anhydrous sodium sulfate and filtered, and the filtrate was concentrated under reduced pressure. 5-(3,7-Dimethyl-2,6-dioxo-2,3,6,7-tetrahydro-1H-purin-1-yl)pentanarmide (150 mg) was obtained after purification by preparative HPLC with a yield of 52%.

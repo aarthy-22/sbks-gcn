@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 8 10	70
+T2	REACTION_PRODUCT 11 117	6-((3-Isopropylisoxazol-5-yl)methyl)-4-methyl-1-(2,2,2-trifluoroethyl)-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T3	EXAMPLE_LABEL 123 124	1
+T4	REACTION_PRODUCT 125 162	Methyl 4-nitro-pyrazole-5-carboxylate
+T5	STARTING_MATERIAL 163 197	4-Nitro-pyrazole-5-carboxylic acid
+T6	SOLVENT 234 242	methanol
+T7	REAGENT_CATALYST 256 272	thionyl chloride
+T8	TEMPERATURE 313 316	0°C
+T9	TEMPERATURE 346 350	25°C
+T10	TIME 355 363	18 hours
+T11	REACTION_PRODUCT 434 471	methyl 4-nitro-pyrazole-5-carboxylate
+T12	YIELD_OTHER 473 479	49.0 g
+T13	YIELD_PERCENT 515 519	100%

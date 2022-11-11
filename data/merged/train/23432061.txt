@@ -1,0 +1,6 @@
+Possible Involvement of TRP Channels in Cardiac Hypertrophy and Arrhythmia.
+Over the past 20 years, studies of transient receptor potential (TRP) channels have significantly extended our knowledge regarding the molecular basis of Ca2+ signals in cardiac myocytes.
+The functional significance of cardiac TRP channels is likely connected to the alteration of membrane potential or Ca2+ entry into a noncontractile compartment, where gene expression responsible for various cardiac diseases is induced.
+This review highlights some aspects of TRP channels with anticipated roles in cardiac disease.
+Evidence suggests that (a) increased activities of TRPC1, TRPC3, or TRPC6 are involved in the development of cardiac hypertrophy, where these TRPC channels act as unique sensors for a wide range of hypertrophic stimuli, and (b) mutations in TRPM4 are now recognized as causes of human cardiac conduction disorders.
+Ultimately, TRP channels may become novel pharmacological targets in the treatment of human cardiac disease.

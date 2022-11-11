@@ -1,0 +1,10 @@
+The dynamics of cobalamin utilization in L-1210 mouse leukemia cells: a model of cellular cobalamin metabolism.
+The uptake and metabolism of cobalamin (Cbl) has been studied in L-1210 murine leukemia cells propagating in vitro.
+Extracellular Cbl (protein bound and free) and intracellular Cbl (protein bound and free) were determined after culturing L-1210 cells in the presence of [57Co]cyanocobalamin (CN-Cbl) bound to transcobalamin II (transcobalamin, TC).
+The intracellular pool of free [57Co]Cbl increased during the first 24 h of culture and a substantial fraction of this free pool was effluxed from the cell to the medium.
+Upon depletion of extracellular TC-[57Co]CN-Cbl, the intracellular concentration of free Cbl decreased as did the efflux of Cbl to the medium.
+Internalized [57Co]CN-Cbl was converted to hydroxocobalamin (OH-Cbl), methylcobalamin (Me-Cbl) and 5'-deoxyadenosylcobalamin.
+These Cbl forms were found in both soluble (cytoplasmic) and insoluble (membrane) fractions.
+Intracellular protein-bound [57Co]Cbl fractionated with methionine synthase (MS) and methylmalonyl-CoA mutase (MU) activity.
+The major form of Cbl associated with the two enzymes was OH-Cbl.
+Cells propagated in medium containing N5-methyltetrahydrofolate and homocysteine showed a substantial increase in MS activity which paralleled the increase in the intracellular concentration of Me-Cbl and the Cbl bound to the enzyme.

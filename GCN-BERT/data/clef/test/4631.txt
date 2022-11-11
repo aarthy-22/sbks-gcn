@@ -1,0 +1,5 @@
+Example 70
+(E)-3-(3,5-difluoro-4-((6S,8R/6R,8S)-7-(2-fluoro-2-methylpropyl)-8-methyl-6,7,8,9-tetr ahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)phenyl)acrylic acid
+Step 1
+1-(benzyloxy)-2-methyl-3-(2-nitroprop-1-en-1-yl)benzene
+3-(benzyloxy)-2-methylbenzaldehyde 70a (5 g, 22 mmol, prepared by a method disclosed in patent application "WO2008080015") and ammonium acetate (2 g, 26.5 mmol) were mixed in 100 mL of nitroethane. The reaction was warmed up to 80°C and stirred for 12 hours. The reaction solution was cooled to room temperature and concentrated under reduced pressure. Water was added into the residue, and the reaction solution was extracted with dichloromethane three times. The organic phases were combined, dried over anhydrous sodium sulfate and filtered. The filtrate was concentrated under reduced pressure. The residue was purified by CombiFlash flash preparation instrument with elution system B to obtain the title compound 1-(benzyloxy)-2-metbyl-3-(2-nitroprop-1-en-1-yl)benzene 70b (5.35 g, yield 85%) as a yellow oil.

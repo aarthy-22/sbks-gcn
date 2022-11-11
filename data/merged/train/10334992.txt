@@ -1,0 +1,5 @@
+Identification of a nuclear receptor for bile acids.
+Bile acids are essential for the solubilization and transport of dietary lipids and are the major products of cholesterol catabolism.
+Results presented here show that bile acids are physiological ligands for the farnesoid X receptor (FXR), an orphan nuclear receptor.
+When bound to bile acids, FXR repressed transcription of the gene encoding cholesterol 7alpha-hydroxylase, which is the rate-limiting enzyme in bile acid synthesis, and activated the gene encoding intestinal bile acid-binding protein, which is a candidate bile acid transporter.
+These results demonstrate a mechanism by which bile acids transcriptionally regulate their biosynthesis and enterohepatic transport.

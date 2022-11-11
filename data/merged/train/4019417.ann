@@ -1,0 +1,13 @@
+T8	CHEMICAL 0 11	Glutathione
+T9	CHEMICAL 24 42	maleylacetoacetate
+T12	GENE-N 24 52	maleylacetoacetate isomerase
+T5	CHEMICAL 114 125	glutathione
+T7	CHEMICAL 138 156	maleylacetoacetate
+T11	GENE-N 138 166	maleylacetoacetate isomerase
+T1	CHEMICAL 183 193	L-tyrosine
+T2	CHEMICAL 306 317	glutathione
+T3	CHEMICAL 327 338	glutathione
+T4	CHEMICAL 351 369	maleylacetoacetate
+T10	GENE-N 351 380	maleylacetoacetate isomerases
+T6	CHEMICAL 441 449	tyrosine
+R0	NOT Arg1:T3 Arg2:T10

@@ -1,0 +1,20 @@
+T13	CHEMICAL 44 55	omapatrilat
+T1	CHEMICAL 90 101	Omapatrilat
+T16	GENE-N 139 152	vasopeptidase
+T6	CHEMICAL 261 272	angiotensin
+T14	GENE-Y 261 290	angiotensin-converting enzyme
+T15	GENE-Y 295 316	neutral endopeptidase
+T7	CHEMICAL 345 356	omapatrilat
+T8	CHEMICAL 528 539	Omapatrilat
+T9	CHEMICAL 640 651	Omapatrilat
+T17	GENE-N 821 840	natriuretic peptide
+T10	CHEMICAL 845 849	cGMP
+T18	GENE-N 897 916	natriuretic peptide
+T19	GENE-Y 979 984	renin
+T11	CHEMICAL 1008 1022	angiotensin II
+T20	GENE-Y 1008 1022	angiotensin II
+T12	CHEMICAL 1027 1038	aldosterone
+T2	CHEMICAL 1116 1127	Omapatrilat
+T3	CHEMICAL 1146 1152	sodium
+T4	CHEMICAL 1299 1310	omapatrilat
+T5	CHEMICAL 1371 1382	Omapatrilat

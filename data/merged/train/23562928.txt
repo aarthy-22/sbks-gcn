@@ -1,0 +1,8 @@
+Anti-inflammatory activity of hexane extracts from bones and internal organs of Anguilla japonica suppresses cyclooxygenase-2-dependent prostaglandin D2 generation in mast cells and anaphylaxis in mice.
+The purpose of this study is to investigate the effects of n-hexane extracts from bones and internal organs of Japanese eel, Anguilla japonica (HEE), on cyclooxygenase-2 (COX-2)-dependent prostaglandin D2 (PGD2) generation in stem cell factor (SCF), IL-10, plus LPS-induced mouse bone marrow-derived mast cells (BMMCs) and on passive cutaneous anaphylaxis (PCA) in mice.
+HEE suppressed SCF/IL-10/LPS-induced PGD2 generation, and concomitantly reduced COX-2 protein expression dose-dependently.
+To understand the mechanistic basis for the inhibition of PGD2 generation by HEE, we examined the effects of HEE on upstream signaling pathways essential for COX-2 induction.
+HEE was found to inhibit the translocation of nuclear factor-κB (NF-κB) p65 subunit to the nucleus and its DNA-binding ability through the inhibition of TAK1, IKK and IκB phosphorylation.
+Furthermore, HEE also attenuated mitogen-activated protein kinase (MAPK)-mediated regulation of DNA binding of activator protein-1 (AP-1).
+Moreover, oral administration of HEE inhibited anti-dinitrophenyl (DNP) IgE-induced PCA in a dose dependent manner.
+Taken together, the present study provides new insights into the anti-inflammatory activity of HEE, which could be a promising candidate to be used for an inflammatory therapy.

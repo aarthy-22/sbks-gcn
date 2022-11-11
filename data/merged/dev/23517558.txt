@@ -1,0 +1,13 @@
+Intestinal and hepatic first-pass extraction of the 11β-HSD1 inhibitor AMG 221 in rats with chronic vascular catheters.
+Abstract 1.
+A catheterized rat model was used to define the intestinal and hepatic components of oral bioavailability for an 11β-HSD1 inhibitor, AMG 221.
+These data were integrated with standard in vivo metabolism studies to elucidate the components contributing to the oral disposition of a novel drug candidate.
+2. Intestinal and hepatic extraction ratios of AMG 221 obtained using a five-catheter rat model were 0.56 and 0.32, respectively.
+Therefore, both intestinal and hepatic extraction contributed to the first-pass component of oral bioavailability.
+There was no evidence for significant gut extraction of systemically administered drug.
+3.
+Mass balance data and in vivo metabolite characterization obtained after administration of [(14)C] AMG 221 to rat showed that AMG 221 was completely absorbed from the gut lumen following an oral dose, primarily excreted in urine and was almost completely metabolized prior to excretion.
+4.
+Hepatic bioavailability (FH), measured in two animals at various time points after oral dose administration was somewhat variable but generally characterized by an initial reduction during the absorption phase followed by an increase during the elimination phase, consistent with hepatic distribution of AMG 221.
+5.
+The five-catheter rat model afforded estimates of hepatic and intestinal contribution to oral bioavailability that were used with other data to define the preclinical ADME characteristics of a drug candidate.

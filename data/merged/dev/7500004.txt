@@ -1,0 +1,12 @@
+Sodium-dependent norepinephrine-induced currents in norepinephrine-transporter-transfected HEK-293 cells blocked by cocaine and antidepressants.
+Transport of norepinephrine (NE+) by cocaine- and antidepressant-sensitive transporters in presynaptic terminals is predicted to involve the cotransport of Na+ and Cl-, resulting in a net movement of charge per transport cycle.
+To explore the relationship between catecholamine transport and ion permeation through the NE transporter, we established a human norepinephrine transporter (hNET) cell line suitable for biochemical analysis and patch-clamp recording.
+Stable transfection of hNET cDNA into HEK-293 (human embryonic kidney) cells results in lines exhibiting (1) a high number of transporter copies per cell (10(6)), as detected by radioligand binding and hNET-specific antibodies, (2) high-affinity, Na(+)-dependent transport of NE, and (3) inhibitor sensitivities similar to those of native membranes.
+Whole-cell voltage-clamp of hNET-293 cells reveals NE-induced, Na(+)-dependent currents blocked by antidepressants and cocaine that are absent in parental cells.
+In addition to NE-dependent currents, transfected cells posses an NE-independent mode of charge movement mediated by hNET.
+hNET antagonists without effect in non-transfected cells abolish both NE-dependent and NE-independent modes of charge movement in transfected cells.
+The magnitude of NE-dependent currents in these cells exceeds the expectations of simple carrier models using previous estimates of transport rates.
+To explain our observations, we propose that hNETs function as ion-gated ligand channels with an indefinite stoichiometry relating ion flux to NE transport.
+In this view, external Na+ and NE bind to the transporter with finite affinities in a cooperative fashion.
+However, coupled transport may not predict the magnitude or the kinetics of the total current through the transporter.
+We propose instead that Na+ gates NE transport and also the parallel inward flux of an indeterminate number of ions through a channel-like pore.

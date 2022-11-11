@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 5 7	11
+T2	REACTION_PRODUCT 8 156	(E)-3-(3,5-difluoro-4-((6S,8R/6R,8S)-7-(2-fluoro-2-methylpropyl)-8-methyl-6,7,8,9-tetr ahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)phenyl)acrylic acid
+T3	STARTING_MATERIAL 157 237	(E)-methyl3-(4-((6S,8R/6R,8S)-3-acetyl-7-(2-fluoro-2-methylpropyl)-8-methyl-6,7,
+T4	STARTING_MATERIAL 238 317	8, 9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)-3,5-difluorophenyl)acrylate
+T5	STARTING_MATERIAL 318 321	70k
+T6	SOLVENT 366 374	methanol
+T7	REAGENT_CATALYST 394 410	sodium hydroxide
+T8	TIME 450 457	2 hours
+T9	OTHER_COMPOUND 485 496	citric acid
+T10	OTHER_COMPOUND 587 602	dichloromethane
+T11	OTHER_COMPOUND 671 685	sodium sulfate
+T12	REACTION_PRODUCT 844 858	title compound
+T13	REACTION_PRODUCT 859 1007	(E)-3-(3,5-difluoro-4-((6S,8R/6R,8S)-7-(2-fluoro-2-methylpropyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinolin-6-yl)phenyl)a crylic acid
+T14	REACTION_PRODUCT 1008 1010	70
+T15	YIELD_OTHER 1012 1016	3 mg
+T16	YIELD_PERCENT 1024 1027	68%

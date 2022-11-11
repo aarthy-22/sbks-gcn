@@ -1,0 +1,23 @@
+T21	GENE-Y 6 17	Adiponectin
+T22	GENE-Y 87 94	Insulin
+T13	GENE-Y 213 224	adiponectin
+T9	GENE-Y 306 313	insulin
+T3	CHEMICAL 678 685	glucose
+T14	GENE-Y 777 784	Insulin
+T15	GENE-Y 859 866	insulin
+T16	GENE-Y 915 922	insulin
+T17	GENE-Y 952 959	insulin
+T18	GENE-Y 975 982	insulin
+T4	CHEMICAL 983 990	glucose
+T19	GENE-Y 1019 1026	insulin
+T20	GENE-Y 1059 1070	Adiponectin
+T5	GENE-Y 1234 1245	adiponectin
+T1	CHEMICAL 1310 1317	glucose
+T6	GENE-Y 1336 1347	adiponectin
+T7	GENE-Y 1440 1451	adiponectin
+T8	GENE-Y 1518 1529	Adiponectin
+T10	GENE-Y 1788 1795	insulin
+T2	CHEMICAL 1796 1803	glucose
+T11	GENE-Y 1842 1853	adiponectin
+T12	GENE-Y 1900 1907	insulin
+R0	NOT Arg1:T16 Arg2:T4

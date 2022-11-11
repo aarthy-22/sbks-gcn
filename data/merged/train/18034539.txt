@@ -1,0 +1,9 @@
+Management of psoriasis: the position of retinoid drugs.
+Oral synthetic retinoids have been established as effective systemic therapy for psoriasis since their introduction for clinical use in the 1970s; a compound for topical use, tazarotene has been recently marketed.
+Despite the demonstrated clinical success of retinoid therapy in psoriasis, its mechanism of action has not been fully elucidated, and investigators are confronted with two paradoxes.
+One is that the binding of retinoids to nuclear retinoic acid receptors (RARs) does not match their therapeutic efficacy: acitretin activates the three receptor subtypes, RAR-alpha, -beta and -gamma, without measurable receptor binding, whereas tazarotene preferentially binds to and activates RAR-beta and -gamma in preference to RAR-alpha.
+The other is that there is already increased formation of retinoic acid in the psoriatic lesion.
+Answering these questions should result in better use of these drugs in the treatment of psoriasis.
+Oral administration of acitretin remains one of the first therapeutic choices for severe psoriasis, particularly in association with ultraviolet light therapy, of which it may decrease the carcinogenic risk.
+Topical tazarotene is suitable for moderate plaque psoriasis.
+Its efficacy and tolerability can be enhanced by the addition of topical corticosteroids; its irritative potential is counterbalanced by a sustained therapeutic effect after the treatment is stopped.

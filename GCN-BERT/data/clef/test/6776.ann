@@ -1,0 +1,16 @@
+T1	REACTION_PRODUCT 27 166	(R)-4-(2-((tert-butoxycarbonyl)(2-((tert-butyldimethylsilyl)oxy)-2-(8-hydroxy-2-oxo-1,2-dihydroquinolin-5-yl)ethyl)amino)ethyl)benzoic acid
+T2	EXAMPLE_LABEL 172 173	1
+T3	REACTION_PRODUCT 175 282	(R)-8-(Benzyloxy)-5-(1-((tert-butyldimethylsilyl)oxy)-2-((4-hydroxyphenethyl)amino)ethyl)quinolin-2(1H)-one
+T4	STARTING_MATERIAL 296 381	(R)-8-(benzyloxy)-5-(2-bromo-1-((tert-butyldimethylsilyl)oxy)ethyl)quinolin-2(1H)-one
+T5	SOLVENT 404 407	NMP
+T6	STARTING_MATERIAL 430 438	tyramine
+T7	TEMPERATURE 486 492	80° C.
+T8	TIME 497 505	18 hours
+T9	OTHER_COMPOUND 536 549	ethyl acetate
+T10	OTHER_COMPOUND 583 590	aqueous
+T11	OTHER_COMPOUND 591 617	potassium hydrogen sulfate
+T12	OTHER_COMPOUND 622 627	brine
+T13	OTHER_COMPOUND 677 694	magnesium sulfate
+T14	REACTION_PRODUCT 764 778	title compound
+T15	YIELD_OTHER 780 786	2.58 g
+T16	YIELD_PERCENT 788 791	93%

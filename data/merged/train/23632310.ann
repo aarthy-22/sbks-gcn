@@ -1,0 +1,20 @@
+T6	CHEMICAL 28 45	Glycyrrhizic acid
+T17	GENE-N 102 111	cytokines
+T18	GENE-Y 175 184	ovalbumin
+T2	CHEMICAL 234 251	Glycyrrhizic acid
+T1	CHEMICAL 475 492	glycyrrhizic acid
+T13	GENE-Y 601 610	ovalbumin
+T3	CHEMICAL 706 719	dexamethasone
+T4	CHEMICAL 883 894	hematoxylin
+T5	CHEMICAL 899 904	eosin
+T14	GENE-N 937 946	cytokines
+T15	GENE-N 1104 1146	forkhead/winged helix transcription factor
+T16	GENE-Y 1148 1153	Foxp3
+T7	GENE-Y 1268 1271	OVA
+T8	GENE-Y 1319 1337	interleukin (IL)-4
+T9	GENE-Y 1339 1343	IL-5
+T10	GENE-Y 1345 1350	IL-13
+T11	GENE-Y 1425 1430	IFN-γ
+T12	GENE-Y 1535 1538	OVA
+R0	NOT Arg1:T4 Arg2:T14
+R1	NOT Arg1:T5 Arg2:T15

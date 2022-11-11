@@ -1,0 +1,1352 @@
+T1	OTHER_COMPOUND 949 956	polymer
+T2	OTHER_COMPOUND 1979 2014	ortho-hydroxyl tris-aryl-s-triazine
+T3	OTHER_COMPOUND 2027 2041	hindered amine
+T4	OTHER_COMPOUND 2071 2095	hindered hydroxybenzoate
+T5	OTHER_COMPOUND 2314 2349	ortho-hydroxyl tris-aryl-s-triazine
+T6	OTHER_COMPOUND 2362 2376	hindered amine
+T7	OTHER_COMPOUND 2406 2430	hindered hydroxybenzoate
+T8	OTHER_COMPOUND 2443 2452	phosphite
+T9	OTHER_COMPOUND 2490 2499	thioester
+T10	OTHER_COMPOUND 3299 3313	polybutadienes
+T11	OTHER_COMPOUND 3315 3327	polystyrenes
+T12	OTHER_COMPOUND 3329 3342	acrylonitrile
+T13	OTHER_COMPOUND 3343 3352	butadiene
+T14	OTHER_COMPOUND 3353 3360	styrene
+T15	OTHER_COMPOUND 3362 3383	styrene acrylonitrile
+T16	OTHER_COMPOUND 3385 3415	acrylate styrene acrylonitrile
+T17	OTHER_COMPOUND 3417 3444	cellulosic acetate butyrate
+T18	OTHER_COMPOUND 3446 3456	cellulosic
+T19	OTHER_COMPOUND 3467 3477	polyimides
+T20	OTHER_COMPOUND 3581 3599	polyvinylchlorides
+T21	OTHER_COMPOUND 3601 3615	polycarbonates
+T22	OTHER_COMPOUND 3617 3628	polyketones
+T23	OTHER_COMPOUND 3630 3651	aliphatic polyketones
+T24	OTHER_COMPOUND 3700 3713	polyacrylates
+T25	OTHER_COMPOUND 3730 3744	polyisocyanate
+T26	OTHER_COMPOUND 3773 3786	polyacrylates
+T27	OTHER_COMPOUND 3788 3794	phenol
+T28	OTHER_COMPOUND 3795 3807	formaldehyde
+T29	OTHER_COMPOUND 3809 3813	urea
+T30	OTHER_COMPOUND 3814 3826	formaldehyde
+T31	OTHER_COMPOUND 3831 3839	melamine
+T32	OTHER_COMPOUND 3840 3852	formaldehyde
+T33	OTHER_COMPOUND 3911 3920	polyester
+T34	OTHER_COMPOUND 3929 3944	acrylate resins
+T35	OTHER_COMPOUND 3963 3971	melamine
+T36	OTHER_COMPOUND 3980 3984	urea
+T37	OTHER_COMPOUND 3993 4004	isocyanates
+T38	OTHER_COMPOUND 4006 4019	isocyanurates
+T39	OTHER_COMPOUND 4090 4099	aliphatic
+T40	OTHER_COMPOUND 4101 4115	cycloaliphatic
+T41	OTHER_COMPOUND 4134 4151	aromatic glycidyl
+T42	OTHER_COMPOUND 4205 4211	amines
+T43	OTHER_COMPOUND 4213 4226	polysiloxanes
+T44	OTHER_COMPOUND 4228 4235	Michael
+T45	OTHER_COMPOUND 4271 4277	amines
+T46	OTHER_COMPOUND 4309 4318	methylene
+T47	OTHER_COMPOUND 4330 4339	ketimines
+T48	OTHER_COMPOUND 4371 4390	methylene compounds
+T49	OTHER_COMPOUND 4438 4469	acrylic polyacetoacetate resins
+T50	OTHER_COMPOUND 4471 4484	polyketimines
+T51	OTHER_COMPOUND 4517 4524	acrylic
+T52	OTHER_COMPOUND 4565 4578	epoxymelamine
+T53	OTHER_COMPOUND 4620 4629	cellulose
+T54	OTHER_COMPOUND 4689 4694	waxes
+T55	OTHER_COMPOUND 5115 5128	thermoplastic
+T56	OTHER_COMPOUND 6129 6137	intended
+T57	OTHER_COMPOUND 7003 7012	alicyclic
+T58	OTHER_COMPOUND 7092 7100	hydrogen
+T59	OTHER_COMPOUND 7164 7170	carbon
+T60	OTHER_COMPOUND 7314 7316	N,
+T61	OTHER_COMPOUND 7369 7374	alkyl
+T62	OTHER_COMPOUND 7376 7386	cycloalkyl
+T63	OTHER_COMPOUND 7420 7427	alkenyl
+T64	OTHER_COMPOUND 7438 7453	alkylcycloalkyl
+T65	OTHER_COMPOUND 7472 7489	cycloalkenylalkyl
+T66	OTHER_COMPOUND 7523 7534	, aralkenyl
+T67	OTHER_COMPOUND 7927 7938	hydrocarbyl
+T68	OTHER_COMPOUND 8182 8187	alkyl
+T69	OTHER_COMPOUND 8192 8202	cycloalkyl
+T70	OTHER_COMPOUND 8283 8295	fifty carbon
+T71	OTHER_COMPOUND 8593 8598	C1-14
+T72	OTHER_COMPOUND 8704 8706	C1
+T73	OTHER_COMPOUND 8715 8718	C30
+T74	OTHER_COMPOUND 8719 8730	hydrocarbyl
+T75	OTHER_COMPOUND 8948 8961	methyl, ethyl
+T76	OTHER_COMPOUND 8963 8969	propyl
+T77	OTHER_COMPOUND 8971 8980	isopropyl
+T78	OTHER_COMPOUND 9077 9088	alkoxyalkyl
+T79	OTHER_COMPOUND 9250 9256	oxygen
+T80	OTHER_COMPOUND 9292 9311	propoxy, isopropoxy
+T81	OTHER_COMPOUND 9313 9327	cyclopropyloxy
+T82	OTHER_COMPOUND 9329 9342	cyclohexyloxy
+T83	OTHER_COMPOUND 9357 9361	Acyl
+T84	OTHER_COMPOUND 9372 9378	formyl
+T85	OTHER_COMPOUND 9524 9532	aromatic
+T86	OTHER_COMPOUND 9602 9610	carbonyl
+T87	OTHER_COMPOUND 9643 9649	acetyl
+T88	OTHER_COMPOUND 9651 9658	benzoyl
+T89	OTHER_COMPOUND 9671 9681	isobutyryl
+T90	OTHER_COMPOUND 9683 9699	t-butoxycarbonyl
+T91	OTHER_COMPOUND 10089 10100	carbocyclic
+T92	OTHER_COMPOUND 10160 10168	bicyclic
+T93	OTHER_COMPOUND 10584 10592	c-propyl
+T94	OTHER_COMPOUND 10603 10611	c-pentyl
+T95	OTHER_COMPOUND 10613 10620	c-hexyl
+T96	OTHER_COMPOUND 10711 10720	norbornyl
+T97	OTHER_COMPOUND 10725 10734	adamantyl
+T98	OTHER_COMPOUND 10736 10740	Aryl
+T99	OTHER_COMPOUND 10772 10777	5- or
+T100	OTHER_COMPOUND 10828 10842	bicyclic 9- or
+T101	OTHER_COMPOUND 10882 10891	tricyclic
+T102	REACTION_PRODUCT 10946 10951	6- to
+T103	OTHER_COMPOUND 11026 11032	phenyl
+T104	OTHER_COMPOUND 11041 11048	benzene
+T105	OTHER_COMPOUND 11050 11061	naphthalene
+T106	OTHER_COMPOUND 11063 11069	indane
+T107	OTHER_COMPOUND 11071 11079	tetralin
+T108	OTHER_COMPOUND 11085 11093	fluorene
+T109	OTHER_COMPOUND 11133 11143	cycloalkyl
+T110	OTHER_COMPOUND 11281 11288	hydroxy
+T111	OTHER_COMPOUND 11290 11296	alkoxy
+T112	OTHER_COMPOUND 11298 11305	carboxy
+T113	OTHER_COMPOUND 11340 11354	alkoxycarbonyl
+T114	OTHER_COMPOUND 11357 11368	carboxamido
+T115	OTHER_COMPOUND 11390 11408	alkylaminocarbonyl
+T116	OTHER_COMPOUND 11454 11476	dialkylamino, mercapto
+T117	OTHER_COMPOUND 11489 11507	sulfoxide, sulfone
+T118	OTHER_COMPOUND 11509 11518	acylamino
+T119	OTHER_COMPOUND 11529 11535	phenyl
+T120	OTHER_COMPOUND 11537 11543	benzyl
+T121	OTHER_COMPOUND 11545 11555	halobenzyl
+T122	OTHER_COMPOUND 11557 11567	heteroaryl
+T123	OTHER_COMPOUND 11578 11587	benzyloxy
+T124	OTHER_COMPOUND 11589 11602	heteroaryloxy
+T125	OTHER_COMPOUND 11604 11611	benzoyl
+T126	OTHER_COMPOUND 11613 11624	halobenzoyl
+T127	OTHER_COMPOUND 11774 11809	ortho-hydroxyl tris-aryl-s-triazine
+T128	OTHER_COMPOUND 11822 11830	hindered
+T129	OTHER_COMPOUND 11855 11859	HALS
+T130	OTHER_COMPOUND 11910 11919	phosphite
+T131	REACTION_PRODUCT 12157 12200	ortho-hydroxy tris-aryl-s-triazine compound
+T132	REACTION_PRODUCT 12204 12239	2-(2′-hydroxyphenyl)-1,3,5-triazine
+T133	OTHER_COMPOUND 12347 12353	C6-C10
+T134	OTHER_COMPOUND 12383 12401	C1-C10 hydrocarbyl
+T135	OTHER_COMPOUND 12421 12432	C1-C10 acyl
+T136	OTHER_COMPOUND 12695 12706	C1-C12 acyl
+T137	REACTION_PRODUCT 12724 12759	2-(2′-hydroxyphenyl)-1,3,5-triazine
+T138	REACTION_PRODUCT 12768 13285	4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4-octyloxyphenyl)-s-triazine; 4,6-bis-(2,4-dimethylphenyl)-2-(2,4-dihydroxyphenyl)-s-triazine; 2,4-bis(2,4-dihydroxyphenyl)-6-(4-chlorophenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-hydroxy-ethoxy)phenyl]-6-(4-chlorophenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-hydroxy-4-(2-hydroxy-ethoxy)phenyl]-6-(2,4-dimethylphenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-hydroxyethoxy)phenyl]-6-(4-bromophenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-acetoxyethoxy)phenyl]-6-(4-chlorophenyl)-s-triazine
+T139	REACTION_PRODUCT 13287 13744	2,4-bis(2,4-dihydroxyphenyl)-6-(2,4-dimethylphenyl)-s-triazine; 2,4-bis(4-biphenylyl)-6-[2-hydroxy-4-[(octyloxycarbonyl)ethylideneoxy]phenyl]-s-triazine; 2,4-bis(4-biphenylyl)-6-[2-hydroxy-4-(2-ethylhexyloxy)phenyl]-s-triazine; 2-phenyl-4-[2-hydroxy-4-(3-sec-butyloxy-2-hydroxypropyloxy)phenyl[6-[2-hydroxy-4-(3-sec-amyloxy-2-hydroxypropyloxy)phenyl]-s-triazine; 2,4-bis(2,4-dimethylphenyl)-6-[2-hydroxy-4(-3-benzyloxy-2-hydroxypropyloxy)phenyl]-s-triazine;
+T140	REACTION_PRODUCT 13745 14044	2,4-bis(2-hydroxy-4-n-butyloxyphenyl)-6-(2,4-di-n-butyloxyphenyl)-s-triazine; 2,4-bis(2,4-dimethylphenyl)-6-[2-hydroxy-4-(3-nonyloxy-2-hydroxypropylox-y)-5-α-cumylphenyl]-s-triazine; methylenebis-{2,4-bis(2,4-dimethylphenyl)-6-[2-hydroxy-4-(3-butyloxy-2-hydroxypropoxy)phenyl]-s-triazine}; methylene
+T141	REACTION_PRODUCT 14130 14209	2,4,6-tris(2-hydroxy-4-isooctyloxycarbonyliso-propylideneoxy-phenyl)-s-triazine
+T142	STARTING_MATERIAL 14479 14572	4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4-(3-dodecyloxy-2-hydroxypropoxy)phenyl)-s-triazine
+T143	OTHER_COMPOUND 14673 14773	4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4(3-(2-ethylhexyloxy)-2-hydroxypropoxy)-phenyl)-s-triazine
+T144	REACTION_PRODUCT 14831 14905	2-(4,6-Diphenyl-1,3,5-triazin-2-yl)-5-[2-(2-ethylhexanoyloxy)ethoxy]phenol
+T145	REACTION_PRODUCT 14907 15181	2,4,6-tris(2-hydroxy-4-octyloxyphenyl)-1,3,5-triazine; propanoic acid, 2,2′,2″-[1,3,5-triazine-2,4,6-triyltris[(3-hydroxy-4,1-phenylene)oxy]]tris-1,1′,1″-trioctyl ester; propanoic acid, 2-[4-[4,6-bis([1,1′-biphenyl]-4-yl)-1,3,5-triazin-2yl]-3-hydroxyphenoxyl]-isooctyl ester
+T146	OTHER_COMPOUND 15362 15368	—CH2CN
+T147	OTHER_COMPOUND 15438 15446	hydrogen
+T148	OTHER_COMPOUND 15551 15569	C1-C20 hydrocarbyl
+T149	OTHER_COMPOUND 15693 15703	cycloalkyl
+T150	OTHER_COMPOUND 15717 15720	IIa
+T151	OTHER_COMPOUND 15796 15804	hydrogen
+T152	OTHER_COMPOUND 15817 15828	hydrocarbyl
+T153	OTHER_COMPOUND 15830 15836	—CH2CN
+T154	OTHER_COMPOUND 15970 15974	HALS
+T155	REACTION_PRODUCT 15992 16039	bis(2,2,6,6-tetramethylpiperidin-4-yl) sebacate
+T156	REACTION_PRODUCT 16041 16089	bis (2,2,6,6-tetramethylpiperidin-4-yl)succinate
+T157	REACTION_PRODUCT 16091 16139	bis(1,2,2,6,6-pentamethylpiperidin-4-yl)sebacate
+T158	REACTION_PRODUCT 16200 16289	bis(1,2,2,6,6-pentamethylpiperidin-4-yl)n-butyl 3,5-di-tert-butyl-4-hydroxybenzylmalonate
+T159	REACTION_PRODUCT 16307 16365	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-hydroxypiperidine
+T160	REACTION_PRODUCT 16370 16383	succinic acid
+T161	REACTION_PRODUCT 16385 16427	2,2,6,6-tetramethylpiperidin-4-yl stearate
+T162	REACTION_PRODUCT 16429 16473	2,2,6,6-tetramethylpiperidin-4-yl dodecanate
+T163	REACTION_PRODUCT 16475 16519	1,2,2,6,6-pentamethylpiperidin-4-yl stearate
+T164	REACTION_PRODUCT 16521 16567	1,2,2,6,6-pentamethylpiperidin-4-yl dodecanate
+T165	REACTION_PRODUCT 16585 16698	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine and 4-tert-octylamino-2,6-dichloro-1,3,5-triazine
+T166	REACTION_PRODUCT 16700 16756	tris(2,2,6,6-tetramethylpiperidin-4-yl)nitrilotriacetate
+T167	REACTION_PRODUCT 16834 16873	4-benzoyl-2,2,6,6-tetramethylpiperidine
+T168	REACTION_PRODUCT 16875 17010	4-stearyloxy-2,2,6,6-tetramethylpiperidine; bis(1,2,2,6,6-pentamethylpiperidyl)-2-n-butyl-2-(2-hydroxy-3,5-di-tert-butylbenzyl)malonate
+T169	REACTION_PRODUCT 17012 17079	3-n-octyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decan-2,4-dione
+T170	REACTION_PRODUCT 17081 17133	bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)sebacate
+T171	STARTING_MATERIAL 17135 17188	bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)succinate
+T172	OTHER_COMPOUND 17206 17269	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T173	OTHER_COMPOUND 17274 17314	4-morpholino-2,6-dichloro-1,3,5-triazine
+T174	REACTION_PRODUCT 17332 17395	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T175	REACTION_PRODUCT 17400 17440	4-morpholino-2,6-dichloro-1,3,5-triazine
+T176	REACTION_PRODUCT 17442 17452	methylated
+T177	REACTION_PRODUCT 17470 17546	2-chloro-4,6-bis(4-n-butylamino-2,2,6,6-tetramethylpiperidyl)-1,3,5-triazine
+T178	REACTION_PRODUCT 17551 17584	1,2-bis(3-aminopropylamino)ethane
+T179	REACTION_PRODUCT 17602 17680	2-chloro-4,6-bis(4-n-butylamino-1,2,2,6,6-pentamethylpiperidyl)-1,3,5-triazine
+T180	REACTION_PRODUCT 17685 17719	1,2-bis-(3-aminopropylamino)ethane
+T181	REACTION_PRODUCT 17721 17798	8-acetyl-3-dodecyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decane-2,4-dione
+T182	REACTION_PRODUCT 17800 17867	3-dodecyl-1-(2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione
+T183	REACTION_PRODUCT 17869 17947	3-dodecyl-1-(1-ethanoyl-2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione
+T184	STARTING_MATERIAL 17949 18019	3-dodecyl-1-(1,2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione
+T185	REACTION_PRODUCT 18034 18053	4-hexadecyloxy- and
+T186	REACTION_PRODUCT 18054 18096	4-stearyloxy-2,2,6,6-tetramethylpiperidine
+T187	REACTION_PRODUCT 18114 18177	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T188	OTHER_COMPOUND 18182 18227	4-cyclohexylamino-2,6-dichloro-1,3,5-triazine
+T189	OTHER_COMPOUND 18245 18278	1,2-bis(3-aminopropylamino)ethane
+T190	REACTION_PRODUCT 18315 18357	4-butylamino-2,2,6,6-tetramethylpiperidine
+T191	REACTION_PRODUCT 18359 18426	2-undecyl-7,7,9,9-tetramethyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T192	REACTION_PRODUCT 18428 18454	oxo-piperanzinyl-triazines
+T193	STARTING_MATERIAL 18478 18550	7,7,9,9-tetramethyl-2-cycloundecyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T194	STARTING_MATERIAL 18572 18645	tetrakis(2,2,6,6-tetramethyl-4-piperidyl) butane-1,2,3,4-tetracarboxylate
+T195	STARTING_MATERIAL 18647 18676	1,2,3,4-butanetetracarboxylic
+T196	STARTING_MATERIAL 18683 18733	tetrakis(1,2,2,6,6-pentamethyl-4-piperidinyl)ester
+T197	STARTING_MATERIAL 18735 18769	1,2,3,4-butanetetracarboxylic acid
+T198	STARTING_MATERIAL 18771 18814	1,2,2,6,6-pentamethyl-4-piperdinyl tridecyl
+T199	STARTING_MATERIAL 18822 18906	1,2,3,4-butanetetracarboxylic acid, 2,2,6,6-tetramethyl-4-piperidinyl tridecyl ester
+T200	STARTING_MATERIAL 18908 18942	1,2,3,4-butanetetracarboxylic acid
+T201	STARTING_MATERIAL 18957 19062	2,2,6,6-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]-undecane-3,9-diethanol,1,2,2,6,6-pentamethyl-4-piperdinyl
+T202	REACTION_PRODUCT 19070 19104	1,2,3,4-butanetetracarboxylic acid
+T203	REACTION_PRODUCT 19119 19229	2,2,6,6-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]-undecane-3,9-diethanol, 2,2,6,6-tetramethyl-4-piperdinyl ester
+T204	STARTING_MATERIAL 19231 19291	bis(1-undecanoxy-2,2,6,6-tetramethylpiperidin-4-yl)carbonate
+T205	OTHER_COMPOUND 19293 19355	1-(2-hydroxy-2-methylpropoxy)-2,2,6,6-tetramethyl-4-piperdinol
+T206	REACTION_PRODUCT 19357 19435	1-(2-hydroxy-2-methylpropoxy)-4-octadecanoyloxy-2,2,6,6-tetramethylpiperidine;
+T207	REACTION_PRODUCT 19436 19527	1-(4-octadecanoyloxy-2,2,6,6-tetramethylpiperidin-1yloxy)-2-octadecanoyloxy-2-methylpropane
+T208	STARTING_MATERIAL 19529 19580	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-piperdinol
+T209	OTHER_COMPOUND 19604 19655	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-piperdinol
+T210	OTHER_COMPOUND 19660 19677	dimethylsuccinate
+T211	OTHER_COMPOUND 19764 19797	2,2,6,6-tetramethyl-4-piperidinol
+T212	STARTING_MATERIAL 19823 19889	3-dodecyl-1-(2,2,6,6-tetramethyl-4-piperidyl)pyrrolidine-2,5-dione
+T213	REACTION_PRODUCT 19891 19911	1H-Pyrrole-2,5-dione
+T214	REACTION_PRODUCT 19940 19968	(1-methylethenyl)benzene and
+T215	REACTION_PRODUCT 19969 20027	1-(2,2,6,6-tetramethyl-4-piperidinyl)-1H-pyrrole-2,5-dione
+T216	REACTION_PRODUCT 20029 20041	piperazinone
+T217	STARTING_MATERIAL 20043 20142	1,1′,1″-[1,3,5-triazine-2,4,6-triyltris[(cyclohexylimino)-2,1-ethanediyl]]tris[3,3,5,5-tetramethyl-
+T218	REACTION_PRODUCT 20144 20259	piperazinone, 1,1′,1″-[1,3,5-triazine-2,4,6-triyltris[(cyclohexylimino)-2,1-ethanediyl]]tris[3,3,4,5,5-pentamethyl-
+T219	STARTING_MATERIAL 20285 20357	7,7,9,9-tetramethyl-2-cycloundecyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T220	OTHER_COMPOUND 20362 20377	epichlorohydrin
+T221	STARTING_MATERIAL 20397 20460	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T222	OTHER_COMPOUND 20465 20510	4-cyclohexylamino-2,6-dichloro-1,3,5-triazine
+T223	OTHER_COMPOUND 20530 20563	1,2-bis(3-aminopropylamino)ethane
+T224	OTHER_COMPOUND 20565 20595	2,4,6-trichloro-1,3,5-triazine
+T225	OTHER_COMPOUND 20600 20642	4-butylamino-2,2,6,6-tetramethylpiperidine
+T226	OTHER_COMPOUND 20662 20725	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T227	OTHER_COMPOUND 20730 20770	4-morpholino-2,6-dichloro-1,3,5-triazine
+T228	OTHER_COMPOUND 20790 20870	2-chloro-4,6-bis(4-n-butylamino-2,2,6,6-tetramethylpiperidyl)-1,3,5-triazine and
+T229	OTHER_COMPOUND 20924 21002	2-chloro-4,6-bis(4-n-butylamino-1,2,2,6,6-pentamethylpiperidyl)-1,3,5-triazine
+T230	STARTING_MATERIAL 21007 21041	1,2-bis-(3-aminopropylamino)ethane
+T231	STARTING_MATERIAL 21043 21155	2-[(2-hydroxyethyl)amino]-4,6-bis[N-(1-cyclohexyloxy-2,2,6,6-tetramethylpiperidin-4-yl)butylamino-1,3,5-triazine
+T232	STARTING_MATERIAL 21157 21174	propanedioic acid
+T233	STARTING_MATERIAL 21176 21252	[(4-methoxyphenyl)-methylene]-bis-(1,2,2,6,6-pentamethyl-4-piperidinyl)ester
+T234	REACTION_PRODUCT 21330 21351	benzenepropanoic acid
+T235	REACTION_PRODUCT 21353 21504	3,5-bis(1,1-dimethylethyl)-4-hydroxy-, 1-[2-[3-[3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl]-1-oxopropoxy]ethyl]-2,2,6,6-tetramethyl-4-piperidinyl ester
+T236	STARTING_MATERIAL 21506 21574	N-(1-octyloxy-2,2,6,6-tetramethylpiperidin-4-yl)-N′-dodecyloxalamide
+T237	REACTION_PRODUCT 21634 21683	1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic acid
+T238	OTHER_COMPOUND 21685 21725	bis(1,2,2,6,6-pentamethyl-4-piperidinyl)
+T239	REACTION_PRODUCT 21727 21816	1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic acid, bis(2,2,6,6-tetramethyl-4-piperidinyl)
+T240	STARTING_MATERIAL 21836 21894	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-hydroxypiperidine
+T241	STARTING_MATERIAL 21899 21907	succinic
+T242	STARTING_MATERIAL 21932 21995	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T243	REACTION_PRODUCT 22047 22081	1,2,3,4-butanetetracarboxylic acid
+T244	REACTION_PRODUCT 22083 22133	1,2,2,6,6-pentamethyl-4-piperidinyl tridecyl ester
+T245	STARTING_MATERIAL 22211 22240	1,2,3,4-butanetetracarboxylic
+T246	STARTING_MATERIAL 22247 22295	2,2,6,6-tetramethyl-4-piperidinyl tridecyl ester
+T247	STARTING_MATERIAL 22297 22373	tetrakis(1,2,2,6,6-pentamethylpiperidin-4-yl)-1,2,3,4-butanetetracarboxylate
+T248	REACTION_PRODUCT 22386 22596	2,2,4,4-tetramethyl-21-oxo-7-oxa-3.20-diazaspiro(5.1.11.2)-heneicosane-20-propanoic acid-dodecylester and 2,2,4,4-tetramethyl-21-oxo-7-oxa-3.20-diazaspiro(5.1.11.2)-heneicosane-20-propanoic acid-tetradecylester
+T249	STARTING_MATERIAL 22598 22666	1H,4H,5H,8H-2,3a,4a,6,7a,8a-hexaazacyclopenta[def]fluorene-4,8-dione
+T250	STARTING_MATERIAL 22723 22797	polymethyl[propyl-3-oxy(2′,2′,6′,6′-tetramethyl-4,4′-piperidinyl)]siloxane
+T251	OTHER_COMPOUND 22891 22909	methylmethacrylate
+T252	REACTION_PRODUCT 22915 22976	ethyl acrylate and 2,2,6,6-tetramethylpiperidin-4-yl acrylate
+T253	REACTION_PRODUCT 22997 23021	C20 to C24 alpha-olefins
+T254	REACTION_PRODUCT 23026 23072	(2,2,6,6-tetramethylpiperidin-4-yl)succinimide
+T255	REACTION_PRODUCT 23074 23108	1,2,3,4-butanetetracarboxylic acid
+T256	REACTION_PRODUCT 23123 23236	β,β,β′,β′-tetramethl-2,4,8,10-tetraoxaspiro[5.5]undecane-3,9-diethanol, 1,2,2,6,6-pentamethyl-4-piperidinyl ester
+T257	REACTION_PRODUCT 23238 23281	1,2,3,4-butanetetracarboxylic acid, polymer
+T258	REACTION_PRODUCT 23287 23409	β,β,β′,β′-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]undecane-3,9-diethanol, 2,2,6,6-tetramethyl-4-piperidinyl ester copolymer
+T259	REACTION_PRODUCT 23411 23436	1,3-benzenedicarboxamide,
+T260	REACTION_PRODUCT 23437 23560	N,N′-bis(2,2,6,6-tetramethyl-4-piperidinyl; 1,1′-(1,10-dioxo-1,10-decanediyl)-bis(hexahydro-2,2,4,4,6-pentamethylpyrimidine
+T261	REACTION_PRODUCT 23562 23576	ethane diamide
+T262	REACTION_PRODUCT 23578 23706	N-(1-acetyl-2,2,6,6-tetramethylpiperidinyl)-N′-dodecyl; formamide, N,N′-1,6-hexanediylbis[N-(2,2,6,6-tetramethyl-4-piperidinyl);
+T263	REACTION_PRODUCT 23707 23717	D-glucitol
+T264	REACTION_PRODUCT 23719 23722	1,3
+T265	REACTION_PRODUCT 23723 23861	2,4-bis-O-(2,2,6,6-tetramethyl-4-piperidinylidene)-; 2,2,4,4-tetramethyl-7-oxa-3,20-diaza-21-oxo-dispiro[5.1.11.2]heneicosane; propanamide
+T266	REACTION_PRODUCT 23863 24063	2-methyl-N-(2,2,6,6-tetramethyl-4-piperidinyl)-2-[(2,2,6,6-tetramethyl-4-piperidinyl)amino]-; 7-oxa-3,20-diazadispiro[5.1.11.2]heneicosane-20-propanoic acid, 2,2,4,4-tetramethyl-21-oxo-, dodecyl ester
+T267	REACTION_PRODUCT 24065 24138	N-(2,2,6,6-tetramethylpiperidin-4-yl)-β-aminopropionic acid dodecyl ester
+T268	REACTION_PRODUCT 24140 24195	N-(2,2,6,6-tetramethylpiperidin-4-yl)-N′-aminooxalamide
+T269	REACTION_PRODUCT 24306 24321	4-hexadecyloxy-
+T270	REACTION_PRODUCT 24326 24779	4-stearyloxy-2,2,6,6-tetramethylpiperidine; 3-dodecyl-1-(1,2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione; 3-dodecyl-1-(1-ethanoyl-2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione; bis(2,2,6,6-tetramethylpiperidin-4-yl)succinate; bis(1,2,2,6,6-pentamethylpiperidin-4-yl)n-butyl 3,5-di-tert-butyl-4-hydroxybenzylmalonate; tris(2,2,6,6-tetramethylpiperidin-4-yl)nitrilotriacetate; 1,1′-(1,2-ethanediyl)bis(3,3,5,5-tetramethylpiperazinone);
+T271	REACTION_PRODUCT 24780 24863	4-benzoyl-2,2,6,6-tetramethylpiperidine; 4-stearyloxy-2,2,6,6-tetramethylpiperidine
+T272	REACTION_PRODUCT 24865 25025	bis(1,2,2,6,6-pentamethylpiperidyl)-2-n-butyl-2-(2-hydroxy-3,5-di-tert-butylbenzyl)malonate; 3-n-octyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decan-2,4-dione
+T273	REACTION_PRODUCT 25027 25134	bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)sebacate; bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)succinate
+T274	REACTION_PRODUCT 25136 25213	8-acetyl-3-dodecyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decane-2,4-dione
+T275	REACTION_PRODUCT 25215 25282	3-dodecyl-1-(2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione
+T276	REACTION_PRODUCT 25284 25362	3-dodecyl-1-(1-ethanoyl-2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione
+T277	REACTION_PRODUCT 25449 25511	4-hexadecyloxy- and 4-stearyloxy-2,2,6,6-tetramethylpiperidine
+T278	REACTION_PRODUCT 25513 25580	2-undecyl-7,7,9,9-tetramethyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T279	REACTION_PRODUCT 25582 25767	1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic acid, bis(2,2,6,6-tetramethyl-4-piperidinyl) and 1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic acid, bis(1,2,2,6,6-pentamethyl-4-piperidinyl)
+T280	REACTION_PRODUCT 25769 25835	N1-(β-hydroxyethyl)3,3-pentamethylene-5,5-dimethylpiperazin-2-one;
+T281	REACTION_PRODUCT 25886 25951	Nl-tert-octyl-3,3-pentamethylene-5,5-hexamethylene-diazepin-2-one
+T282	REACTION_PRODUCT 26170 26322	N1-isopropyl-1,4-diazadispiro-(3,3,5,5)pentamethylene-2-piperazinone; N1-isopropyl-1,4-diazadispiro-3,3-pentamethylene-5,5-tetramethylene-2-piperazinone
+T283	REACTION_PRODUCT 26324 26384	N1-isopropyl-5,5-dimethyl-3,3-pentamethylene-2-piperazinone;
+T284	REACTION_PRODUCT 26521 26589	N1-octyl-1,4-diazadispiro-(3,3,5,5)pentamethylene-1,5-diazepin-2-one
+T285	OTHER_COMPOUND 26727 26738	C1-C8 alkyl
+T286	OTHER_COMPOUND 26769 26780	C1-C24alkyl
+T287	OTHER_COMPOUND 26813 26823	C6-C24aryl
+T288	REACTION_PRODUCT 26881 26940	2,4-di-tert-butylphenyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T289	REACTION_PRODUCT 26942 26987	hexadecyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T290	REACTION_PRODUCT 26989 27034	octadecyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T291	REACTION_PRODUCT 27036 27077	octyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T292	REACTION_PRODUCT 27079 27125	tetradecyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T293	REACTION_PRODUCT 27127 27172	behenylyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T294	REACTION_PRODUCT 27174 27242	2-methyl-4,6-di-tert-butylphenyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T295	REACTION_PRODUCT 27246 27320	butyl 3-[3-t-butyl-4-(3,5-di-t-butyl-4-hydroxybenzoyloxy)phenyl]propionate
+T296	OTHER_COMPOUND 27449 27459	zinc oxide
+T297	OTHER_COMPOUND 27461 27476	calcium lactate
+T298	OTHER_COMPOUND 27560 27565	metal
+T299	OTHER_COMPOUND 27626 27642	calcium stearate
+T300	OTHER_COMPOUND 27644 27657	zinc stearate
+T301	OTHER_COMPOUND 27659 27677	magnesium behenate
+T302	OTHER_COMPOUND 27679 27697	magnesium stearate
+T303	OTHER_COMPOUND 27699 27714	sodium stearate
+T304	OTHER_COMPOUND 27716 27734	sodium ricinoleate
+T305	OTHER_COMPOUND 27739 27758	potassium palmitate
+T306	OTHER_COMPOUND 27760 27784	antimony pyrocatecholate
+T307	OTHER_COMPOUND 27786 27806	zinc pyrocatecholate
+T308	OTHER_COMPOUND 27852 27867	magnesium oxide
+T309	OTHER_COMPOUND 27869 27883	aluminum oxide
+T310	OTHER_COMPOUND 27885 27904	magnesium hydroxide
+T311	OTHER_COMPOUND 27906 27924	aluminum hydroxide
+T312	OTHER_COMPOUND 28015 28021	DHT-4A
+T313	OTHER_COMPOUND 28046 28084	magnesium aluminum hydroxide carbonate
+T314	OTHER_COMPOUND 28113 28125	hydrotalcite
+T315	OTHER_COMPOUND 28261 28264	IVc
+T316	OTHER_COMPOUND 28292 28295	IVa
+T317	OTHER_COMPOUND 28308 28312	(IVc
+T318	OTHER_COMPOUND 28329 28337	hydrogen
+T319	OTHER_COMPOUND 28344 28360	C1-4 hydrocarbyl
+T320	OTHER_COMPOUND 28362 28365	R19
+T321	OTHER_COMPOUND 28387 28390	IVa
+T322	OTHER_COMPOUND 28404 28407	IVc
+T323	OTHER_COMPOUND 28465 28476	hydrocarbyl
+T324	OTHER_COMPOUND 28499 28502	IVa
+T325	OTHER_COMPOUND 28516 28519	IVc
+T326	OTHER_COMPOUND 28536 28554	C1-C12 hydrocarbyl
+T327	OTHER_COMPOUND 28592 28595	IVa
+T328	OTHER_COMPOUND 28599 28602	IVb
+T329	OTHER_COMPOUND 28609 28612	IVc
+T330	OTHER_COMPOUND 28638 28644	methyl
+T331	OTHER_COMPOUND 28649 28656	t-butyl
+T332	REACTION_PRODUCT 28719 28810	(1,3,5-Tris(4-t-butyl-3-hydroxy-2,6-dimethylbenzyl)-1,3,5-triazine-2,4,6-(1H,3H,5H)-trione;
+T333	REACTION_PRODUCT 28811 28894	1,3,5-tris(3,5-di-tert-butyl-4-hydroxybenzyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione
+T334	REACTION_PRODUCT 28896 29025	1,1,3-Tris(2′-methyl-4′-hydroxy-5′-t-butylphenyl)butane; Triethylene glycol bis[3-(3-t-butyl-4-hydroxy-5-methylphenyl)propionate]
+T335	REACTION_PRODUCT 29027 29275	4,4′-Thiobis(2-t-butyl-5-methylphenol); 2,2′-Thiodiethylene bis[3-(3-t-butyl-4-hydroxyl-5-methylphenyl)propionate]; Octadecyl 3-(3′-t-butyl-4′-hydroxy-5′-methylphenyl)propionate; Tetrakismethylene(3-t-butyl-4-hydroxy-5-methylhydrocinnamate)methane;
+T336	REACTION_PRODUCT 29276 29418	N,N′-Hexamethylene bis[3-(3-t-butyl-4-hydroxy-5-methylphenyl)propionamide]; Di(4-tertiarybutyl-3-hydroxy-2,6-dimethyl benzyl) thiodipropionate
+T337	REACTION_PRODUCT 29424 29477	octadecyl 3,5-di-(tert)-butyl-4-hydroxyhydrocinnamate
+T338	OTHER_COMPOUND 29559 29587	hindered arylalkyl phosphite
+T339	OTHER_COMPOUND 29593 29610	trisarylphosphite
+T340	REACTION_PRODUCT 29637 29665	hindered arylalkyl phosphite
+T341	OTHER_COMPOUND 29852 29875	C4-C12 alkyl cycloalkyl
+T342	OTHER_COMPOUND 29901 29910	alkylaryl
+T343	OTHER_COMPOUND 30125 30140	tertiary carbon
+T344	REACTION_PRODUCT 30158 30166	hindered
+T345	REACTION_PRODUCT 30167 30186	arylalkyl phosphite
+T346	REACTION_PRODUCT 30196 30257	bis-(2,6-di-t-butyl-4-methlphenyl)pentaerythritol diphosphite
+T347	REACTION_PRODUCT 30259 30310	(bis-(2,4-dicumylphenyl)pentaerythritol diphosphite
+T348	REACTION_PRODUCT 30312 30366	bis-(2,4-di-t-butyl-phenyl)pentaerythritol diphosphite
+T349	REACTION_PRODUCT 30372 30429	bis-(2,4,6-tri-t-butyl-phenyl)pentaerythritol diphosphate
+T350	REACTION_PRODUCT 30435 30452	trisarylphosphite
+T351	OTHER_COMPOUND 30652 30656	aryl
+T352	OTHER_COMPOUND 30696 30713	trisarylphosphite
+T353	OTHER_COMPOUND 30723 30790	tris-(2,4-di-t-butylphenyl)phosphite, tris(4-nonylphenyl) phosphite
+T354	OTHER_COMPOUND 30795 30814	triphenyl phosphite
+T355	REACTION_PRODUCT 30820 30829	thioester
+T356	REACTION_PRODUCT 30842 30895	dilauryl thiodipropionate, distearyl thiodipropionate
+T357	REACTION_PRODUCT 30897 30947	pentaerythrithol tetrakis-(3-dodecylthipropionate)
+T358	REACTION_PRODUCT 30949 30986	tetra-alkyl thioethyl thiodisuccinate
+T359	REACTION_PRODUCT 30988 31067	2,12-dihydroxy-4,10-dithia-7-oxatridecamethylene bis[3-(dodecylthio)propionate]
+T360	REACTION_PRODUCT 31101 31115	alkanoic acids
+T361	REACTION_PRODUCT 31120 31149	dialkyl 3,3′-thiodipropionate
+T362	OTHER_COMPOUND 31349 31384	ortho-hydroxyl tris-aryl-s-triazine
+T363	OTHER_COMPOUND 31649 31673	hindered hydroxybenzoate
+T364	TIME 31692 31693	1
+T365	OTHER_COMPOUND 31895 31922	phenol antioxidant compound
+T366	OTHER_COMPOUND 32033 32042	phosphite
+T367	REACTION_PRODUCT 32369 32413	ortho-hydroxyl tris-aryl-s-triazine compound
+T368	TEMPERATURE 32429 32437	20.00 wt
+T369	OTHER_COMPOUND 32521 32535	hindered amine
+T370	OTHER_COMPOUND 33050 33059	phosphite
+T371	OTHER_COMPOUND 33172 33181	thioester
+T372	REACTION_PRODUCT 33432 33476	ortho-hydroxyl tris-aryl-s-triazine compound
+T373	OTHER_COMPOUND 33500 33514	hindered amine
+T374	OTHER_COMPOUND 33521 33531	stabilizer
+T375	OTHER_COMPOUND 33564 33588	hindered hydroxybenzoate
+T376	OTHER_COMPOUND 33620 33624	acid
+T377	OTHER_COMPOUND 33666 33684	phenol antioxidant
+T378	OTHER_COMPOUND 33717 33735	phosphite compound
+T379	OTHER_COMPOUND 33761 33770	thioester
+T380	REACTION_PRODUCT 34027 34071	ortho-hydroxyl tris-aryl-s-triazine compound
+T381	TIME 34079 34081	30
+T382	OTHER_COMPOUND 34095 34109	hindered amine
+T383	OTHER_COMPOUND 34116 34126	stabilizer
+T384	OTHER_COMPOUND 34160 34184	hindered hydroxybenzoate
+T385	TIME 34238 34239	4
+T386	OTHER_COMPOUND 34253 34268	hindered phenol
+T387	OTHER_COMPOUND 34317 34326	phosphite
+T388	OTHER_COMPOUND 34560 34567	polymer
+T389	OTHER_COMPOUND 34638 34648	stabilized
+T390	OTHER_COMPOUND 34888 34899	polyolefins
+T391	OTHER_COMPOUND 34925 34936	polyketones
+T392	OTHER_COMPOUND 34981 34994	polyurethanes
+T393	OTHER_COMPOUND 35036 35049	polyacrylates
+T394	OTHER_COMPOUND 35051 35068	polymethacrylates
+T395	OTHER_COMPOUND 35070 35081	polyacetals
+T396	OTHER_COMPOUND 35083 35101	polyacrylonitriles
+T397	OTHER_COMPOUND 35119 35131	polystyrenes
+T398	OTHER_COMPOUND 35133 35147	acrylonitrile-
+T399	OTHER_COMPOUND 35147 35156	butadiene
+T400	OTHER_COMPOUND 35157 35164	styrene
+T401	OTHER_COMPOUND 35166 35173	styrene
+T402	OTHER_COMPOUND 35174 35187	acrylonitrile
+T403	OTHER_COMPOUND 35189 35219	acrylate styrene acrylonitrile
+T404	OTHER_COMPOUND 35221 35248	cellulosic acetate butyrate
+T405	OTHER_COMPOUND 35250 35260	cellulosic
+T406	OTHER_COMPOUND 35283 35298	polyamideimides
+T407	OTHER_COMPOUND 35300 35315	polyetherimides
+T408	OTHER_COMPOUND 35317 35335	polyphenylsulfides
+T409	OTHER_COMPOUND 35421 35432	polyketones
+T410	OTHER_COMPOUND 35434 35455	aliphatic polyketones
+T411	OTHER_COMPOUND 35471 35478	olefins
+T412	OTHER_COMPOUND 35504 35517	polyacrylates
+T413	OTHER_COMPOUND 35534 35548	polyisocyanate
+T414	OTHER_COMPOUND 35562 35572	polyesters
+T415	OTHER_COMPOUND 35577 35590	polyacrylates
+T416	OTHER_COMPOUND 35592 35598	phenol
+T417	OTHER_COMPOUND 35599 35611	formaldehyde
+T418	OTHER_COMPOUND 35613 35617	urea
+T419	OTHER_COMPOUND 35618 35630	formaldehyde
+T420	OTHER_COMPOUND 35635 35656	melamine/formaldehyde
+T421	OTHER_COMPOUND 35701 35706	alkyd
+T422	OTHER_COMPOUND 35715 35724	polyester
+T423	OTHER_COMPOUND 35733 35741	acrylate
+T424	OTHER_COMPOUND 35767 35782	melamine resins
+T425	OTHER_COMPOUND 35784 35788	urea
+T426	OTHER_COMPOUND 35797 35808	isocyanates
+T427	OTHER_COMPOUND 35825 35835	carbamates
+T428	OTHER_COMPOUND 35841 35846	epoxy
+T429	OTHER_COMPOUND 35921 35933	heterocyclic
+T430	OTHER_COMPOUND 35938 35955	aromatic glycidyl
+T431	OTHER_COMPOUND 36009 36015	amines
+T432	OTHER_COMPOUND 36017 36030	polysiloxanes
+T433	OTHER_COMPOUND 36032 36039	Michael
+T434	OTHER_COMPOUND 36059 36065	amines
+T435	OTHER_COMPOUND 36067 36074	blocked
+T436	OTHER_COMPOUND 36075 36081	amines
+T437	OTHER_COMPOUND 36113 36122	methylene
+T438	OTHER_COMPOUND 36134 36143	ketimines
+T439	OTHER_COMPOUND 36159 36170	unsaturated
+T440	OTHER_COMPOUND 36175 36184	methylene
+T441	OTHER_COMPOUND 36196 36209	polyketimines
+T442	OTHER_COMPOUND 36230 36241	unsaturated
+T443	OTHER_COMPOUND 36242 36249	acrylic
+T444	OTHER_COMPOUND 36250 36266	polyacetoacetate
+T445	OTHER_COMPOUND 36321 36328	acrylic
+T446	OTHER_COMPOUND 36369 36382	epoxymelamine
+T447	OTHER_COMPOUND 36615 36622	olefins
+T448	OTHER_COMPOUND 36624 36638	acrylonitrile-
+T449	OTHER_COMPOUND 36638 36647	butadiene
+T450	OTHER_COMPOUND 36648 36655	styrene
+T451	OTHER_COMPOUND 36669 36686	polyvinylchloride
+T452	OTHER_COMPOUND 36742 36751	propylene
+T453	OTHER_COMPOUND 36753 36764	isobutylene
+T454	OTHER_COMPOUND 36766 36772	butene
+T455	OTHER_COMPOUND 36774 36788	methylpentene,
+T456	OTHER_COMPOUND 36789 36795	hexene
+T457	OTHER_COMPOUND 36797 36804	heptene
+T458	OTHER_COMPOUND 36806 36812	octene
+T459	OTHER_COMPOUND 36814 36822	isoprene
+T460	OTHER_COMPOUND 36824 36833	butadiene
+T461	OTHER_COMPOUND 36835 36844	hexadiene
+T462	OTHER_COMPOUND 36846 36875	dicyclopentadiene, ethylidene
+T463	OTHER_COMPOUND 36956 36969	polypropylene
+T464	OTHER_COMPOUND 36988 36995	olefins
+T465	OTHER_COMPOUND 37252 37257	vinyl
+T466	OTHER_COMPOUND 37266 37271	vinyl
+T467	REACTION_PRODUCT 39867 39902	ortho-hydroxyl tris-aryl-s-triazine
+T468	OTHER_COMPOUND 40170 40178	hindered
+T469	OTHER_COMPOUND 40478 40493	hydroxybenzoate
+T470	OTHER_COMPOUND 40767 40771	acid
+T471	TIME 40881 40886	0.003
+T472	OTHER_COMPOUND 41043 41058	hindered phenol
+T473	TEMPERATURE 41200 41207	0.25 wt
+T474	OTHER_COMPOUND 41348 41366	phosphite compound
+T475	OTHER_COMPOUND 41631 41640	thioester
+T476	TIME 41749 41754	0.003
+T477	OTHER_COMPOUND 43446 43454	metallic
+T478	OTHER_COMPOUND 43466 43471	metal
+T479	OTHER_COMPOUND 43480 43493	hydrotalcites
+T480	OTHER_COMPOUND 43856 43891	ortho-hydroxyl tris-aryl-s-triazine
+T481	OTHER_COMPOUND 43903 43911	hindered
+T482	OTHER_COMPOUND 43946 43970	hindered hydroxybenzoate
+T483	OTHER_COMPOUND 44034 44052	phenol antioxidant
+T484	EXAMPLE_LABEL 44074 44075	2
+T485	EXAMPLE_LABEL 44204 44205	3
+T486	REACTION_PRODUCT 44318 44362	ortho-hydroxyl tris-aryl-s-triazine compound
+T487	OTHER_COMPOUND 44368 44403	2-(2′-hydroxyphenyl)-1,3,5-triazine
+T488	OTHER_COMPOUND 44585 44596	C1-C10 acyl
+T489	OTHER_COMPOUND 44601 44615	C1-C10 alkoxyl
+T490	OTHER_COMPOUND 44799 44817	C1-C12 hydrocarbyl
+T491	OTHER_COMPOUND 44819 44833	C1-C12 alkoxyl
+T492	OTHER_COMPOUND 44835 44841	C1-C12
+T493	OTHER_COMPOUND 44866 44870	acyl
+T494	EXAMPLE_LABEL 44883 44884	4
+T495	OTHER_COMPOUND 44973 45008	2-(2′-hydroxyphenyl)-1,3,5-triazine
+T496	REACTION_PRODUCT 45032 45105	: 4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4-octyloxyphenyl)-s-triazine;
+T497	REACTION_PRODUCT 45106 45474	4,6-bis-(2,4-dimethylphenyl)-2-(2,4-dihydroxyphenyl)-s-triazine; 2,4-bis(2,4-dihydroxyphenyl)-6-(4-chlorophenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-hydroxy-ethoxy)phenyl]-6-(4-chlorophenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-hydroxy-4-(2-hydroxy-ethoxy)phenyl]6-(2,4-dimethylphenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-hydroxyethoxy)phenyl]-6-(4-bromophenyl)-s-triazine
+T498	REACTION_PRODUCT 45476 46084	2,4-bis[2-hydroxy-4-(2-acetoxyethoxy)phenyl]-6-(4-chlorophenyl)-s-triazine; 2,4-bis(2,4-dihydroxyphenyl)-6-(2,4-dimethylphenyl)-s-triazine; 2,4-bis(4-biphenylyl)-6-[2-hydroxy-4-[(octyloxycarbonyl)ethylideneoxy]phenyl]-s-triazine; 2,4-bis(4-biphenylyl)-6-[2-hydroxy-4-(2-ethylhexyloxy)phenyl]-s-triazine; 2-phenyl-4-[2-hydroxy-4-(3-sec-butyloxy-2-hydroxypropyloxy)phenyl]-6-[2-hydroxy-4-(3-sec-amyloxy-2-hydroxypropyloxy)phenyl]-s-triazine; 2,4-bis(2,4-dimethylphenyl)-6-hydroxy-4(-3-benzyloxy-2-hydroxypropyloxy)phenyl]-s-triazine; 2,4-bis(2-hydroxy-4-n-butyloxyphenyl)-6-(2,4-di-n-butyloxyphenyl)-s-triazine
+T499	STARTING_MATERIAL 46393 46472	2,4,6-tris(2-hydroxy-4-isooctyloxycarbonyliso-propylideneoxy-phenyl)-s-triazine
+T500	REACTION_PRODUCT 46474 46729	2,4-bis(2,4-dimethylphenyl)-6-(2-hydroxy-4-hexyloxy-5-α-cumylphenyl)-s-triazine; 2-(2,4,6-trimethylphenyl)-4,6-bis[2-hydroxy-4-(3-butyloxy-2-hydroxypropyloxy)phenyl]-s-triazine; 2,4,6-tris[2-hydroxy-4-(3-sec-butyloxy-2-hydroxypropyloxy)-phenyl]-s-triazine
+T501	STARTING_MATERIAL 46742 46835	4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4-(3-dodecyloxy-2-hydroxypropoxy)phenyl)-s-triazine
+T502	STARTING_MATERIAL 46840 46934	4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4-(3-tridecyloxy-2-hydroxypropoxy)phenyl)-s-triazine
+T503	STARTING_MATERIAL 46936 47036	4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4(3-(2-ethylhexyloxy)-2-hydroxypropoxy)-phenyl)-s-triazine
+T504	OTHER_COMPOUND 47038 47092	4,6-diphenyl-2-(4-hexyloxy-2-hydroxyphenyl)-s-triazine
+T505	STARTING_MATERIAL 47094 47168	2-(4,6-Diphenyl-1,3,5-triazin-2-yl)-5-[2-(2-ethylhexanoyloxy)ethoxy]phenol
+T506	STARTING_MATERIAL 47170 47223	2,4,6-tris(2-hydroxy-4-octyloxyphenyl)-1,3,5-triazine
+T507	REACTION_PRODUCT 47225 47332	propanoic acid, 2,2′,2″-[1,3,5-triazine-2,4,6-triyltris[(3-hydroxy-4,1-phenylene)oxy]]tris-1,1′,1″-trioctyl
+T508	STARTING_MATERIAL 47340 47354	propanoic acid
+T509	EXAMPLE_LABEL 47483 47484	5
+T510	OTHER_COMPOUND 47597 47605	hindered
+T511	OTHER_COMPOUND 47740 47748	hydrogen
+T512	OTHER_COMPOUND 48057 48063	carbon
+T513	OTHER_COMPOUND 48098 48115	C5-C10 cycloalkyl
+T514	OTHER_COMPOUND 48259 48265	—CH2CN
+T515	OTHER_COMPOUND 48329 48332	IIa
+T516	EXAMPLE_LABEL 48394 48395	6
+T517	OTHER_COMPOUND 48508 48522	hindered amine
+T518	OTHER_COMPOUND 48556 48603	bis(2,2,6,6-tetramethylpiperidin-4-yl) sebacate
+T519	STARTING_MATERIAL 48605 48652	bis(2,2,6,6-tetramethylpiperidin-4-yl)succinate
+T520	STARTING_MATERIAL 48704 48761	bis(1-octyloxy-2,2,6,6-tetramethylpiperidin-4-yl)sebacate
+T521	STARTING_MATERIAL 48763 48810	bis(1,2,2,6,6-pentamethylpiperidin-4-yl)n-butyl
+T522	STARTING_MATERIAL 48870 48946	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-hydroxypiperidine and succinic acid
+T523	OTHER_COMPOUND 48948 48981	2,2,6,6-tetramethylpiperidin-4-yl
+T524	STARTING_MATERIAL 48992 49036	2,2,6,6-tetramethylpiperidin-4-yl dodecanate
+T525	STARTING_MATERIAL 49038 49082	1,2,2,6,6-pentamethylpiperidin-4-yl stearate
+T526	STARTING_MATERIAL 49084 49130	1,2,2,6,6-pentamethylpiperidin-4-yl dodecanate
+T527	REACTION_PRODUCT 49148 49215	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine and
+T528	REACTION_PRODUCT 49216 49261	4-tert-octylamino-2,6-dichloro-1,3,5-triazine
+T529	REACTION_PRODUCT 49263 49320	tris(2,2,6,6-tetramethylpiperidin-4-yl) nitrilotriacetate
+T530	REACTION_PRODUCT 49322 49396	tetrakis(2,2,6,6-tetramethylpiperidin-4-yl)-1,2,3,4-butanetetracarboxylate
+T531	REACTION_PRODUCT 49398 49643	4-benzoyl-2,2,6,6-tetramethylpiperidine; 4-stearyloxy-2,2,6,6-tetramethylpiperidine; bis(1,2,2,6,6-pentamethylpiperidyl)-2-n-butyl-2-(2-hydroxy-3,5-di-tert-butylbenzyl)malonate; 3-n-octyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decan-2,4-dione
+T532	REACTION_PRODUCT 49645 49697	bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)sebacate
+T533	REACTION_PRODUCT 49699 49752	bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)succinate
+T534	OTHER_COMPOUND 49770 49833	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T535	OTHER_COMPOUND 49838 49878	4-morpholino-2,6-dichloro-1,3,5-triazine
+T536	STARTING_MATERIAL 49896 49959	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T537	STARTING_MATERIAL 49964 50004	4-morpholino-2,6-dichloro-1,3,5-triazine
+T538	STARTING_MATERIAL 50034 50110	2-chloro-4,6-bis(4-n-butylamino-2,2,6,6-tetramethylpiperidyl)-1,3,5-triazine
+T539	OTHER_COMPOUND 50115 50148	1,2-bis(3-aminopropylamino)ethane
+T540	REACTION_PRODUCT 50166 50244	2-chloro-4,6-bis(4-n-butylamino-1,2,2,6,6-pentamethylpiperidyl)-1,3,5-triazine
+T541	REACTION_PRODUCT 50249 50283	1,2-bis-(3-aminopropylamino)ethane
+T542	REACTION_PRODUCT 50285 50362	8-acetyl-3-dodecyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decane-2,4-dione
+T543	REACTION_PRODUCT 50364 50431	3-dodecyl-1-(2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione
+T544	STARTING_MATERIAL 50433 50511	3-dodecyl-1-(1-ethanoyl-2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione
+T545	REACTION_PRODUCT 50513 50583	3-dodecyl-1-(1,2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione
+T546	OTHER_COMPOUND 50598 50617	4-hexadecyloxy- and
+T547	OTHER_COMPOUND 50664 50674	condensate
+T548	OTHER_COMPOUND 50678 50741	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T549	OTHER_COMPOUND 50746 50791	4-cyclohexylamino-2,6-dichloro-1,3,5-triazine
+T550	STARTING_MATERIAL 50809 50842	1,2-bis(3-aminopropylamino)ethane
+T551	STARTING_MATERIAL 50844 50874	2,4,6-trichloro-1,3,5-triazine
+T552	REACTION_PRODUCT 50879 50921	4-butylamino-2,2,6,6-tetramethylpiperidine
+T553	OTHER_COMPOUND 50923 50990	2-undecyl-7,7,9,9-tetramethyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T554	REACTION_PRODUCT 50992 51018	oxo-piperanzinyl-triazines
+T555	REACTION_PRODUCT 51042 51209	7,7,9,9-tetramethyl-2-cycloundecyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane and epichlorohydrin; tetrakis(2,2,6,6-tetramethyl-4-piperidyl) butane-1,2,3,4-tetracarboxylate
+T556	REACTION_PRODUCT 51211 51245	1,2,3,4-butanetetracarboxylic acid
+T557	STARTING_MATERIAL 51247 51297	tetrakis(1,2,2,6,6-pentamethyl-4-piperidinyl)ester
+T558	REACTION_PRODUCT 51299 51333	1,2,3,4-butanetetracarboxylic acid
+T559	STARTING_MATERIAL 51335 51384	1,2,2,6,6-pentamethyl-4-piperdinyl tridecyl ester
+T560	REACTION_PRODUCT 51386 51470	1,2,3,4-butanetetracarboxylic acid, 2,2,6,6-tetramethyl-4-piperidinyl tridecyl ester
+T561	STARTING_MATERIAL 51472 51501	1,2,3,4-butanetetracarboxylic
+T562	REACTION_PRODUCT 51521 51632	2,2,6,6-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]-undecane-3,9-diethanol,1,2,2,6,6-pentamethyl-4-piperdinyl ester
+T563	REACTION_PRODUCT 51634 51668	1,2,3,4-butanetetracarboxylic acid
+T564	REACTION_PRODUCT 51670 51677	polymer
+T565	REACTION_PRODUCT 51683 51855	2,2,6,6-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]-undecane-3,9-diethanol, 2,2,6,6-tetramethyl-4-piperdinyl ester; bis(1-undecanoxy-2,2,6,6-tetramethylpiperidin-4-yl)carbonate
+T566	REACTION_PRODUCT 51857 51999	1-(2-hydroxy-2-methylpropoxy)-2,2,6,6-tetramethyl-4-piperdinol; 1-(2-hydroxy-2-methylpropoxy)-4-octadecanoyloxy-2,2,6,6-tetramethylpiperidine;
+T567	REACTION_PRODUCT 52000 52091	1-(4-octadecanoyloxy-2,2,6,6-tetramethylpiperidin-1yloxy)-2-octadecanoyloxy-2-methylpropane
+T568	STARTING_MATERIAL 52168 52219	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-piperdinol
+T569	OTHER_COMPOUND 52224 52241	dimethylsuccinate
+T570	OTHER_COMPOUND 52243 52313	2,2,4,4-tetramethyl-7-oxa-3,20-diazadispiro[5.1.11.2]heneicosan-21-one
+T571	STARTING_MATERIAL 52328 52361	2,2,6,6-tetramethyl-4-piperidinol
+T572	STARTING_MATERIAL 52387 52453	3-dodecyl-1-(2,2,6,6-tetramethyl-4-piperidyl)pyrrolidine-2,5-dione
+T573	REACTION_PRODUCT 52455 52489	1H-Pyrrole-2,5-dione, 1-octadecyl-
+T574	REACTION_PRODUCT 52504 52528	(1-methylethenyl)benzene
+T575	OTHER_COMPOUND 52533 52591	1-(2,2,6,6-tetramethyl-4-piperidinyl)-1H-pyrrole-2,5-dione
+T576	OTHER_COMPOUND 52593 52605	piperazinone
+T577	STARTING_MATERIAL 52708 52823	piperazinone, 1,1′,1″-[1,3,5-triazine-2,4,6-triyltris[(cyclohexylimino)-2,1-ethanediyl]]tris[3,3,4,5,5-pentamethyl-
+T578	OTHER_COMPOUND 52849 52921	7,7,9,9-tetramethyl-2-cycloundecyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T579	OTHER_COMPOUND 52926 52941	epichlorohydrin
+T580	OTHER_COMPOUND 52961 53024	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T581	REACTION_PRODUCT 53029 53074	4-cyclohexylamino-2,6-dichloro-1,3,5-triazine
+T582	OTHER_COMPOUND 53094 53127	1,2-bis(3-aminopropylamino)ethane
+T583	OTHER_COMPOUND 53129 53159	2,4,6-trichloro-1,3,5-triazine
+T584	OTHER_COMPOUND 53164 53206	4-butylamino-2,2,6,6-tetramethylpiperidine
+T585	OTHER_COMPOUND 53226 53289	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T586	OTHER_COMPOUND 53294 53334	4-morpholino-2,6-dichloro-1,3,5-triazine
+T587	OTHER_COMPOUND 53354 53430	2-chloro-4,6-bis(4-n-butylamino-2,2,6,6-tetramethylpiperidyl)-1,3,5-triazine
+T588	OTHER_COMPOUND 53435 53468	1,2-bis(3-aminopropylamino)ethane
+T589	OTHER_COMPOUND 53488 53565	2-chloro-4,6-bis(4-n-butylamino-1,2,2,6,6-pentamethylpiperdyl)-1,3,5-triazine
+T590	OTHER_COMPOUND 53570 53604	1,2-bis-(3-aminopropylamino)ethane
+T591	OTHER_COMPOUND 53606 53718	2-[(2-hydroxyethyl)amino]-4,6-bis[N-(1-cyclohexyloxy-2,2,6,6-tetramethylpiperidin-4-yl)butylamino-1,3,5-triazine
+T592	STARTING_MATERIAL 53818 53892	tetrakis(2,2,6,6-tetramethylpiperidin-4-yl)-1,2,3,4-butanetetracarboxylate
+T593	REACTION_PRODUCT 53894 54068	benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, 1-[2-[3-[3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl]-1-oxopropoxy]ethyl]-2,2,6,6-tetramethyl-4-piperidinyl ester
+T594	REACTION_PRODUCT 54070 54138	N-(1-octyloxy-2,2,6,6-tetramethylpiperidin-4-yl)-N′-dodecyloxalamide
+T595	REACTION_PRODUCT 54199 54248	1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic acid
+T596	REACTION_PRODUCT 54292 54341	1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic acid
+T597	OTHER_COMPOUND 54401 54459	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-hydroxypiperidine
+T598	OTHER_COMPOUND 54497 54560	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T599	REACTION_PRODUCT 54565 54610	4-tert-octylamino-2,6-dichloro-1,3,5-triazine
+T600	REACTION_PRODUCT 54612 54698	1,2,3,4-butanetetracarboxylic acid, 1,2,2,6,6-pentamethyl-4-piperidinyl tridecyl ester
+T601	REACTION_PRODUCT 54776 54860	1,2,3,4-butanetetracarboxylic acid, 2,2,6,6-tetramethyl-4-piperidinyl tridecyl ester
+T602	REACTION_PRODUCT 54951 55052	2,2,4,4-tetramethyl-21-oxo-7-oxa-3.20-diazaspiro(5.1.11.2)-heneicosane-20-propanoic acid-dodecylester
+T603	STARTING_MATERIAL 55163 55286	1H,4H,5H,8H-2,3a,4a,6,7a,8a-hexaazacyclopenta[def]fluorene-4,8-dione, hexahydro-2,6-bis(2,2,6,6-tetramethyl-4-piperidinyl)-
+T604	OTHER_COMPOUND 55456 55474	methylmethacrylate
+T605	REACTION_PRODUCT 55480 55494	ethyl acrylate
+T606	OTHER_COMPOUND 55499 55541	2,2,6,6-tetramethylpiperidin-4-yl acrylate
+T607	STARTING_MATERIAL 55562 55565	C20
+T608	REACTION_PRODUCT 55591 55637	(2,2,6,6-tetramethylpiperidin-4-yl)succinimide
+T609	REACTION_PRODUCT 55639 55673	1,2,3,4-butanetetracarboxylic acid
+T610	REACTION_PRODUCT 55688 55802	β,β,β′,β′-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]undecane-3,9-diethanol, 1,2,2,6,6-pentamethyl-4-piperidinyl ester
+T611	REACTION_PRODUCT 55804 55838	1,2,3,4-butanetetracarboxylic acid
+T612	REACTION_PRODUCT 55853 55959	β,β,β′,β′-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]undecane-3,9-diethanol, 2,2,6,6-tetramethyl-4-piperidinyl
+T613	REACTION_PRODUCT 55977 56001	1,3-benzenedicarboxamide
+T614	REACTION_PRODUCT 56003 56198	N,N′-bis(2,2,6,6-tetramethyl-4-piperidinyl; 1,1′-(1,10-dioxo-1,10-decanediyl)-bis(hexahydro-2,2,4,4,6-pentamethylpyrimidine; ethane diamide, N-(1-acetyl-2,2,6,6-tetramethylpiperidinyl)-N′-dodecyl
+T615	REACTION_PRODUCT 56200 56210	formamide,
+T616	REACTION_PRODUCT 56211 56271	N,N′-1,6-hexanediylbis[N-(2,2,6,6-tetramethyl-4-piperidinyl)
+T617	REACTION_PRODUCT 56273 56288	D-glucitol, 1,3
+T618	REACTION_PRODUCT 56289 56341	2,4-bis-O-(2,2,6,6-tetramethyl-4-piperidinylidene)-;
+T619	REACTION_PRODUCT 56342 56629	2,2,4,4-tetramethyl-7-oxa-3,20-diaza-21-oxo-dispiro[5.1.11.2]heneicosane; propanamide, 2-methyl-N-(2,2,6,6-tetramethyl-4-piperidinyl)-2-[(2,2,6,6-tetramethyl-4-piperidinyl)amino]-; 7-oxa-3,20-diazadispiro[5.1.11.2]heneicosane-20-propanoic acid, 2,2,4,4-tetramethyl-21-oxo-, dodecyl ester
+T620	REACTION_PRODUCT 56631 56704	N-(2,2,6,6-tetramethylpiperidin-4-yl)-β-aminopropionic acid dodecyl ester
+T621	REACTION_PRODUCT 56706 56774	N-(2,2,6,6-tetramethylpiperidin-4-yl)-N′-aminooxalamide; propanamide
+T622	REACTION_PRODUCT 56872 57136	4-hexadecyloxy- and 4-stearyloxy-2,2,6,6-tetramethylpiperidine; 3-dodecyl-1-(1,2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione; 3-dodecyl-1-(1-ethanoyl-2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione; bis(2,2,6,6-tetramethylpiperidin-4-yl)succinate
+T623	REACTION_PRODUCT 57138 57229	bis(1,2,2,6,6-pentamethylpiperidin-4-yl) n-butyl 3,5-di-tert-butyl-4-hydroxybenzylmalonate;
+T624	REACTION_PRODUCT 57230 57431	tris(2,2,6,6-tetramethylpiperidin-4-yl) nitrilotriacetate; 1,1′-(1,2-ethanediyl)bis(3,3,5,5-tetramethylpiperazinone); 4-benzoyl-2,2,6,6-tetramethylpiperidine; 4-stearyloxy-2,2,6,6-tetramethylpiperidine
+T625	REACTION_PRODUCT 57433 57525	bis(1,2,2,6,6-pentamethylpiperidyl)-2-n-butyl-2-(2-hydroxy-3,5-di-tert-butylbenzyl)malonate;
+T626	REACTION_PRODUCT 57526 57593	3-n-octyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decan-2,4-dione
+T627	REACTION_PRODUCT 57595 57702	bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)sebacate; bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)succinate
+T628	REACTION_PRODUCT 57704 57781	8-acetyl-3-dodecyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decane-2,4-dione
+T629	REACTION_PRODUCT 57783 57930	3-dodecyl-1-(2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione; 3-dodecyl-1-(1-ethanoyl-2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione
+T630	REACTION_PRODUCT 57932 58002	3-dodecyl-1-(1,2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione
+T631	REACTION_PRODUCT 58017 58079	4-hexadecyloxy- and 4-stearyloxy-2,2,6,6-tetramethylpiperidine
+T632	REACTION_PRODUCT 58081 58148	2-undecyl-7,7,9,9-tetramethyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T633	REACTION_PRODUCT 58150 58404	1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic acid, bis(2,2,6,6-tetramethyl-4-piperidinyl) and 1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic acid, bis(1,2,2,6,6-pentamethyl-4-piperidinyl); N1-((β-hydroxyethyl)3,3-pentamethylene-5,5-dimethylpiperazin-2-one;
+T634	REACTION_PRODUCT 58405 58521	N1-tert-octyl-3,3,5,5-tetramethyl-diazepin-2-one; N1-tert-octyl-3,3-pentamethylene-5,5-hexamethylene-diazepin-2-one;
+T635	REACTION_PRODUCT 58522 58808	N1-tert-octyl-3,3-pentamethylene-5,5-dimethylpiperazin-2-one; trans-1,2-cyclohexane-bis-(N1-5,5-dimethyl-3,3-pentamethylene-2-piperazinone; trans-1,2-cyclohexane-bis-(N1-3,3,5,5-dispiropentamethylene-2-piperazinone); N1-isopropyl-1,4-diazadispiro-(3,3,5,5)pentamethylene-2-piperazinone;
+T636	REACTION_PRODUCT 58809 59027	N1-isopropyl-1,4-diazadispiro-3,3-pentamethylene-5,5-tetramethylene-2-piperazinone; N1-isopropyl-5,5-dimethyl-3,3-pentamethylene-2-piperazinone; trans-1,2-cyclohexane-bis-N1-(dimethyl-3,3-pentamethylene-2-piperazinone)
+T637	REACTION_PRODUCT 59029 59088	N1-octyl-5,5-dimethyl-3,3-pentamethylene-1,4-diazepin-2-one
+T638	OTHER_COMPOUND 59090 59158	N1-octyl-1,4-diazadispiro-(3,3,5,5)pentamethylene-1,5-diazepin-2-one
+T639	EXAMPLE_LABEL 59193 59194	7
+T640	OTHER_COMPOUND 59365 59370	(III)
+T641	OTHER_COMPOUND 59492 59502	C6-C24aryl
+T642	EXAMPLE_LABEL 59515 59516	8
+T643	REACTION_PRODUCT 59704 59763	2,4-di-tert-butylphenyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T644	REACTION_PRODUCT 59765 59900	hexadecyl 3,5-di-tert-butyl-4-hydroxybenzoate; octadecyl 3,5-di-tert-butyl-4-hydroxybenzoate; octyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T645	REACTION_PRODUCT 59902 59948	tetradecyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T646	REACTION_PRODUCT 59950 59995	behenylyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T647	REACTION_PRODUCT 59997 60065	2-methyl-4,6-di-tert-butylphenyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T648	REACTION_PRODUCT 60070 60144	butyl 3-[3-t-butyl-4-(3,5-di-t-butyl-4-hydroxybenzoyloxy)phenyl]propionate
+T649	OTHER_COMPOUND 60349 60359	zinc oxide
+T650	OTHER_COMPOUND 60361 60376	calcium lactate
+T651	OTHER_COMPOUND 60526 60542	calcium stearate
+T652	OTHER_COMPOUND 60544 60557	zinc stearate
+T653	OTHER_COMPOUND 60559 60577	magnesium behenate
+T654	OTHER_COMPOUND 60579 60597	magnesium stearate
+T655	OTHER_COMPOUND 60599 60614	sodium stearate
+T656	OTHER_COMPOUND 60616 60634	sodium ricinoleate
+T657	OTHER_COMPOUND 60639 60658	potassium palmitate
+T658	OTHER_COMPOUND 60660 60684	antimony pyrocatecholate
+T659	OTHER_COMPOUND 60686 60706	zinc pyrocatecholate
+T660	OTHER_COMPOUND 60978 60981	IVc
+T661	OTHER_COMPOUND 61016 61019	IVb
+T662	OTHER_COMPOUND 61026 61029	IVc
+T663	OTHER_COMPOUND 61046 61054	hydrogen
+T664	OTHER_COMPOUND 61111 61114	IVb
+T665	OTHER_COMPOUND 61223 61226	IVb
+T666	EXAMPLE_LABEL 61283 61285	11
+T667	OTHER_COMPOUND 61396 61399	IVa
+T668	OTHER_COMPOUND 61403 61406	IVb
+T669	OTHER_COMPOUND 61434 61452	methyl and t-butyl
+T670	EXAMPLE_LABEL 61465 61467	12
+T671	REACTION_PRODUCT 61634 62265	(1,3,5-Tris(4-t-butyl-3-hydroxy-2,6-dimethylbenzyl)-1,3,5-triazine-2,4,6-(1H,3H,5H)-trione; 1,3,5-tris(3,5-di-tert-butyl-4-hydroxybenzyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione; 1,1,3-Tris(2′-methyl-4′-hydroxy-5′-t-butylphenyl)butane; Triethylene glycol bis[3-(3-t-butyl-4-hydroxy-5-methylphenyl)propionate]; 4,4′-Thiobis(2-t-butyl-5-methylphenol); 2,2′-Thiodiethylene bis[3-(3-t-butyl-4-hydroxyl-5-methylphenyl)propionate]; Octadecyl 3-(3′-t-butyl-4′-hydroxy-5′-methylphenyl)propionate; Tetrakismethylene(3-t-butyl-4-hydroxy-5-methylhydrocinnamate)methane; N,N′-Hexamethylene bis[3-(3-t-butyl-4-hydroxy-5-methylphenyl)propionamide]
+T672	STARTING_MATERIAL 62267 62316	Di(4-tertiarybutyl-3-hydroxy-2,6-dimethyl benzyl)
+T673	STARTING_MATERIAL 62339 62392	octadecyl 3,5-di-(tert)-butyl-4-hydroxyhydrocinnamate
+T674	EXAMPLE_LABEL 62427 62429	13
+T675	OTHER_COMPOUND 62542 62551	phosphite
+T676	OTHER_COMPOUND 62575 62594	arylalkyl phosphite
+T677	OTHER_COMPOUND 62881 62882	5
+T678	OTHER_COMPOUND 62933 62948	tertiary carbon
+T679	OTHER_COMPOUND 63110 63114	(VI)
+T680	OTHER_COMPOUND 63279 63283	aryl
+T681	EXAMPLE_LABEL 63339 63341	14
+T682	OTHER_COMPOUND 63501 63562	bis-(2,6-di-t-butyl-4-methlphenyl)pentaerythritol diphosphite
+T683	STARTING_MATERIAL 63617 63659	bis-(2,4-di-t-butyl-phenyl)pentaerythritol
+T684	OTHER_COMPOUND 63677 63722	bis-(2,4,6-tri-t-butyl-phenyl)pentaerythritol
+T685	EXAMPLE_LABEL 63769 63771	15
+T686	OTHER_COMPOUND 63861 63878	trisarylphosphite
+T687	OTHER_COMPOUND 63920 63956	tris-(2,4-di-t-butylphenyl)phosphite
+T688	OTHER_COMPOUND 63958 63987	tris(4-nonylphenyl) phosphite
+T689	OTHER_COMPOUND 63992 64011	triphenyl phosphite
+T690	EXAMPLE_LABEL 64046 64048	16
+T691	OTHER_COMPOUND 64134 64136	2-
+T692	OTHER_COMPOUND 64152 64161	thioester
+T693	REACTION_PRODUCT 64212 64237	dilauryl thiodipropionate
+T694	STARTING_MATERIAL 64267 64283	pentaerythrithol
+T695	STARTING_MATERIAL 64319 64356	tetra-alkyl thioethyl thiodisuccinate
+T696	STARTING_MATERIAL 64358 64437	2,12-dihydroxy-4,10-dithia-7-oxatridecamethylene bis[3-(dodecylthio)propionate]
+T697	REACTION_PRODUCT 64491 64521	dialkyl 3,3′-thiodipropionates
+T698	EXAMPLE_LABEL 64556 64558	17
+T699	OTHER_COMPOUND 64663 64677	ortho-hydroxyl
+T700	OTHER_COMPOUND 64711 64774	2-[4,6-bis(2,4-dimethylphenyl)-1,3,5-triazin-2-yl]-5-(octyloxy)
+T701	OTHER_COMPOUND 64843 64854	fatty acids
+T702	OTHER_COMPOUND 64860 64867	C12-C21
+T703	OTHER_COMPOUND 64869 64919	C18 unsaturated 2,2,6,6,-tetramethyl-4-piperidinyl
+T704	OTHER_COMPOUND 64968 65003	3,5-di -tert-butyl-4-hydroxybenzoic
+T705	OTHER_COMPOUND 65010 65019	hexadecyl
+T706	OTHER_COMPOUND 65086 65101	magnesium oxide
+T707	OTHER_COMPOUND 65103 65117	aluminum oxide
+T708	OTHER_COMPOUND 65119 65138	magnesium hydroxide
+T709	OTHER_COMPOUND 65140 65158	aluminum hydroxide
+T710	OTHER_COMPOUND 65226 65264	bis(2,4-dicumylphenyl) pentaerythritol
+T711	OTHER_COMPOUND 65282 65297	hindered phenol
+T712	REACTION_PRODUCT 65322 65407	1,3,5-Tris (4-tert-butyl-3-hydroxy-2,6-dimethyl benzyl)-1,3,5-triazine-2,4,6-(1H, 3H,
+T713	REACTION_PRODUCT 65440 65491	pentaerythrithol tetrakis-(3-dodecylthiopropionate)
+T714	REACTION_PRODUCT 65495 65521	Distearyl thiodipropionate
+T715	EXAMPLE_LABEL 65534 65536	18
+T716	EXAMPLE_LABEL 65698 65700	19
+T717	OTHER_COMPOUND 65860 65871	polyketones
+T718	OTHER_COMPOUND 65916 65929	polyurethanes
+T719	OTHER_COMPOUND 65931 65943	polystyrenes
+T720	OTHER_COMPOUND 66005 66016	polyacetals
+T721	OTHER_COMPOUND 66018 66036	polyacrylonitriles
+T722	OTHER_COMPOUND 66038 66052	polybutadienes
+T723	OTHER_COMPOUND 66054 66066	polystyrenes
+T724	OTHER_COMPOUND 66068 66091	acrylonitrile-butadiene
+T725	OTHER_COMPOUND 66092 66099	styrene
+T726	OTHER_COMPOUND 66101 66108	styrene
+T727	OTHER_COMPOUND 66109 66122	acrylonitrile
+T728	OTHER_COMPOUND 66124 66154	acrylate styrene acrylonitrile
+T729	OTHER_COMPOUND 66156 66183	cellulosic acetate butyrate
+T730	OTHER_COMPOUND 66185 66195	cellulosic
+T731	OTHER_COMPOUND 66235 66250	polyetherimides
+T732	OTHER_COMPOUND 66320 66338	polyvinylchlorides
+T733	OTHER_COMPOUND 66340 66354	polycarbonates
+T734	OTHER_COMPOUND 66369 66390	aliphatic polyketones
+T735	OTHER_COMPOUND 66406 66413	olefins
+T736	OTHER_COMPOUND 66432 66438	linked
+T737	OTHER_COMPOUND 66527 66546	phenol/formaldehyde
+T738	OTHER_COMPOUND 66548 66552	urea
+T739	OTHER_COMPOUND 66553 66565	formaldehyde
+T740	OTHER_COMPOUND 66570 66578	melamine
+T741	OTHER_COMPOUND 66579 66591	formaldehyde
+T742	OTHER_COMPOUND 66636 66641	alkyd
+T743	OTHER_COMPOUND 66650 66659	polyester
+T744	OTHER_COMPOUND 66668 66676	acrylate
+T745	OTHER_COMPOUND 66702 66710	melamine
+T746	OTHER_COMPOUND 66719 66723	urea
+T747	OTHER_COMPOUND 66745 66758	isocyanurates
+T748	OTHER_COMPOUND 66776 66781	epoxy
+T749	OTHER_COMPOUND 66803 66808	epoxy
+T750	OTHER_COMPOUND 66840 66854	cycloaliphatic
+T751	OTHER_COMPOUND 66873 66881	aromatic
+T752	OTHER_COMPOUND 66882 66890	glycidyl
+T753	OTHER_COMPOUND 66944 66950	amines
+T754	OTHER_COMPOUND 66952 66965	polysiloxanes
+T755	OTHER_COMPOUND 66994 67000	amines
+T756	OTHER_COMPOUND 67002 67009	blocked
+T757	OTHER_COMPOUND 67010 67016	amines
+T758	OTHER_COMPOUND 67048 67057	methylene
+T759	OTHER_COMPOUND 67069 67078	ketimines
+T760	OTHER_COMPOUND 67110 67119	methylene
+T761	OTHER_COMPOUND 67177 67201	acrylic polyacetoacetate
+T762	OTHER_COMPOUND 67256 67263	acrylic
+T763	OTHER_COMPOUND 67304 67317	epoxymelamine
+T764	OTHER_COMPOUND 67359 67368	cellulose
+T765	EXAMPLE_LABEL 67472 67474	20
+T766	OTHER_COMPOUND 67629 67636	olefins
+T767	OTHER_COMPOUND 67638 67661	acrylonitrile-butadiene
+T768	OTHER_COMPOUND 67662 67669	styrene
+T769	OTHER_COMPOUND 67683 67700	polyvinylchloride
+T770	OTHER_COMPOUND 67702 67712	polyamides
+T771	OTHER_COMPOUND 67714 67727	polyurethanes
+T772	OTHER_COMPOUND 67756 67765	propylene
+T773	OTHER_COMPOUND 67767 67779	isobutylene,
+T774	OTHER_COMPOUND 67780 67786	butene
+T775	OTHER_COMPOUND 67788 67801	methylpentene
+T776	OTHER_COMPOUND 67803 67809	hexene
+T777	OTHER_COMPOUND 67811 67818	heptene
+T778	OTHER_COMPOUND 67820 67826	octene
+T779	OTHER_COMPOUND 67828 67836	isoprene
+T780	OTHER_COMPOUND 67838 67847	butadiene
+T781	OTHER_COMPOUND 67849 67858	hexadiene
+T782	OTHER_COMPOUND 67860 67877	dicyclopentadiene
+T783	OTHER_COMPOUND 67890 67902	cyclopentene
+T784	OTHER_COMPOUND 67907 67917	norbornene
+T785	EXAMPLE_LABEL 67930 67932	21
+T786	OTHER_COMPOUND 68033 68046	polypropylene
+T787	OTHER_COMPOUND 68050 68062	polyethylene
+T788	EXAMPLE_LABEL 68075 68077	22
+T789	OTHER_COMPOUND 68163 68168	vinyl
+T790	OTHER_COMPOUND 68177 68182	vinyl
+T791	EXAMPLE_LABEL 69020 69022	24
+T792	EXAMPLE_LABEL 69447 69449	25
+T793	TEMPERATURE 69816 69821	60 wt
+T794	EXAMPLE_LABEL 69895 69897	26
+T795	EXAMPLE_LABEL 70352 70354	28
+T796	REACTION_PRODUCT 70439 70483	ortho-hydroxyl tris-aryl-s-triazine compound
+T797	OTHER_COMPOUND 70548 70562	hindered amine
+T798	OTHER_COMPOUND 70661 70685	hydroxybenzoate compound
+T799	OTHER_COMPOUND 70828 70843	hindered phenol
+T800	OTHER_COMPOUND 70879 70884	0.001
+T801	OTHER_COMPOUND 70933 70942	phosphite
+T802	EXAMPLE_LABEL 71067 71069	29
+T803	STARTING_MATERIAL 71140 71175	ortho-hydroxyl tris-aryl-s-triazine
+T804	OTHER_COMPOUND 71355 71379	hindered hydroxybenzoate
+T805	OTHER_COMPOUND 71639 71648	phosphite
+T806	EXAMPLE_LABEL 71773 71775	30
+T807	OTHER_COMPOUND 71912 71921	thioester
+T808	OTHER_COMPOUND 71957 71966	thioester
+T809	EXAMPLE_LABEL 72089 72091	31
+T810	OTHER_COMPOUND 72162 72171	thioester
+T811	EXAMPLE_LABEL 72493 72495	33
+T812	OTHER_COMPOUND 72638 72651	acrylonitrile
+T813	OTHER_COMPOUND 72652 72661	butadiene
+T814	OTHER_COMPOUND 72662 72669	styrene
+T815	OTHER_COMPOUND 72683 72700	polyvinylchloride
+T816	OTHER_COMPOUND 72714 72727	polyurethanes
+T817	OTHER_COMPOUND 72756 72765	propylene
+T818	OTHER_COMPOUND 72767 72778	isobutylene
+T819	OTHER_COMPOUND 72780 72786	butene
+T820	OTHER_COMPOUND 72788 72801	methylpentene
+T821	OTHER_COMPOUND 72803 72809	hexene
+T822	OTHER_COMPOUND 72820 72826	octene
+T823	OTHER_COMPOUND 72828 72847	isoprene, butadiene
+T824	OTHER_COMPOUND 72849 72858	hexadiene
+T825	OTHER_COMPOUND 72860 72877	dicyclopentadiene
+T826	OTHER_COMPOUND 72879 72902	ethylidene cyclopentene
+T827	OTHER_COMPOUND 72907 72917	norbornene
+T828	EXAMPLE_LABEL 72930 72932	34
+T829	OTHER_COMPOUND 73031 73044	polypropylene
+T830	OTHER_COMPOUND 73048 73060	polyethylene
+T831	OTHER_COMPOUND 73157 73162	vinyl
+T832	OTHER_COMPOUND 73171 73176	vinyl
+T833	OTHER_COMPOUND 73365 73369	tile
+T834	EXAMPLE_LABEL 73572 73574	36
+T835	OTHER_COMPOUND 73679 73689	polyesters
+T836	OTHER_COMPOUND 73800 73812	polystyrenes
+T837	OTHER_COMPOUND 73829 73846	polymethacrylates
+T838	OTHER_COMPOUND 73848 73859	polyacetals
+T839	OTHER_COMPOUND 73861 73879	polyacrylonitriles
+T840	OTHER_COMPOUND 73897 73909	polystyrenes
+T841	OTHER_COMPOUND 73925 73934	butadiene
+T842	OTHER_COMPOUND 73935 73942	styrene
+T843	OTHER_COMPOUND 73944 73965	styrene acrylonitrile
+T844	OTHER_COMPOUND 73967 73997	acrylate styrene acrylonitrile
+T845	OTHER_COMPOUND 73999 74026	cellulosic acetate butyrate
+T846	OTHER_COMPOUND 74028 74038	cellulosic
+T847	OTHER_COMPOUND 74049 74059	polyimides
+T848	OTHER_COMPOUND 74115 74142	polyphenyloxidepolysulfones
+T849	OTHER_COMPOUND 74163 74181	polyvinylchlorides
+T850	OTHER_COMPOUND 74199 74210	polyketones
+T851	OTHER_COMPOUND 74212 74221	aliphatic
+T852	OTHER_COMPOUND 74249 74256	olefins
+T853	OTHER_COMPOUND 74282 74295	polyacrylates
+T854	OTHER_COMPOUND 74300 74310	polyesters
+T855	OTHER_COMPOUND 74312 74326	polyisocyanate
+T856	OTHER_COMPOUND 74355 74368	polyacrylates
+T857	OTHER_COMPOUND 74370 74376	phenol
+T858	OTHER_COMPOUND 74377 74389	formaldehyde
+T859	OTHER_COMPOUND 74391 74408	urea/formaldehyde
+T860	OTHER_COMPOUND 74413 74421	melamine
+T861	OTHER_COMPOUND 74422 74441	formaldehyde resins
+T862	OTHER_COMPOUND 74479 74484	alkyd
+T863	OTHER_COMPOUND 74493 74502	polyester
+T864	OTHER_COMPOUND 74511 74519	acrylate
+T865	OTHER_COMPOUND 74545 74553	melamine
+T866	OTHER_COMPOUND 74562 74573	urea resins
+T867	OTHER_COMPOUND 74575 74586	isocyanates
+T868	OTHER_COMPOUND 74603 74613	carbamates
+T869	OTHER_COMPOUND 74619 74624	epoxy
+T870	OTHER_COMPOUND 74683 74697	cycloaliphatic
+T871	OTHER_COMPOUND 74716 74724	aromatic
+T872	OTHER_COMPOUND 74725 74733	glycidyl
+T873	OTHER_COMPOUND 74773 74783	anhydrides
+T874	OTHER_COMPOUND 74787 74793	amines
+T875	OTHER_COMPOUND 74795 74808	polysiloxanes
+T876	OTHER_COMPOUND 74837 74843	amines
+T877	OTHER_COMPOUND 74845 74859	blocked amines
+T878	OTHER_COMPOUND 74891 74910	methylene compounds
+T879	OTHER_COMPOUND 74912 74921	ketimines
+T880	OTHER_COMPOUND 74937 74972	unsaturated and methylene compounds
+T881	OTHER_COMPOUND 74974 74987	polyketimines
+T882	OTHER_COMPOUND 75020 75044	acrylic polyacetoacetate
+T883	OTHER_COMPOUND 75099 75106	acrylic
+T884	OTHER_COMPOUND 75147 75160	epoxymelamine
+T885	OTHER_COMPOUND 75202 75211	cellulose
+T886	OTHER_COMPOUND 75271 75276	waxes
+T887	OTHER_COMPOUND 75868 75873	water
+T888	OTHER_COMPOUND 75980 75982	UV
+T889	OTHER_COMPOUND 77061 77064	TPO
+T890	OTHER_COMPOUND 77073 77091	AHXPT053A1100NT101
+T891	STARTING_MATERIAL 77395 77402	C12-C21
+T892	STARTING_MATERIAL 77427 77461	2,2,6,6,-tetramethyl-4-Piperidinyl
+T893	STARTING_MATERIAL 77554 77593	3,5-di-tert-butyl-4-hydroxybenzoic acid
+T894	STARTING_MATERIAL 77621 77645	hindered hydroxybenzoate
+T895	REACTION_PRODUCT 77713 77757	2-[4,6-bis(2,4-dimethylphenyl)-1,3,5- 0.0700
+T896	REACTION_PRODUCT 77785 77791	phenol
+T897	REACTION_PRODUCT 77795 77830	ortho-hydroxyl tris-aryl-s-triazine
+T898	STARTING_MATERIAL 77898 77902	9228
+T899	STARTING_MATERIAL 77906 77951	bis(2,4-dicumylphenyl) pentaerythritol 0.0548
+T900	REAGENT_CATALYST 78000 78009	phosphite
+T901	STARTING_MATERIAL 78074 78161	1,3,5-Tris (4-tert-butyl-3-hydroxy-2,6-dimethyl 0.0328 benzyl)-1,3,5-triazine-2,4,6-(1H
+T902	STARTING_MATERIAL 78163 78165	3H
+T903	OTHER_COMPOUND 78181 78189	hindered
+T904	OTHER_COMPOUND 78255 78261	DHT-4A
+T905	OTHER_COMPOUND 78278 78281	MgO
+T906	REAGENT_CATALYST 78282 78287	Al2O3
+T907	REACTION_PRODUCT 78392 78418	Distearyl thiodipropionate
+T908	STARTING_MATERIAL 78420 78436	Stearyl chloride
+T909	STARTING_MATERIAL 78438 78460	0.0548 stearyl alcohol
+T910	REACTION_PRODUCT 78462 78487	3, 3′-Thiodipropione acid
+T911	REACTION_PRODUCT 78578 78594	Pentaerythrithol
+T912	OTHER_COMPOUND 78768 78775	polymer
+T913	TIME 79310 79316	24 hrs
+T914	OTHER_COMPOUND 79619 79626	ASTM638
+T915	TEMPERATURE 79857 79863	150° C
+T916	TIME 79880 79888	1000 hrs
+T917	TIME 79986 79992	200 hr
+T918	OTHER_COMPOUND 80037 80052	micro-TRI-Gloss
+T919	TEMPERATURE 80108 80111	60°
+T920	OTHER_COMPOUND 80296 80299	D65
+T921	OTHER_COMPOUND 80872 80885	Xenon Weather
+T922	OTHER_COMPOUND 80899 80909	ASTM-G-155
+T923	OTHER_COMPOUND 80930 80936	PV1303
+T924	OTHER_COMPOUND 80938 80946	SAEJ1885
+T925	OTHER_COMPOUND 80959 80967	SAEJ1960
+T926	OTHER_COMPOUND 80969 80974	J2527
+T927	OTHER_COMPOUND 81336 81346	stabilizer
+T928	EXAMPLE_LABEL 81576 81578	2C
+T929	OTHER_COMPOUND 81962 81969	Polymer
+T930	TIME 81970 81974	0 hr
+T931	TIME 81976 81983	1000 hr
+T932	TIME 81985 81992	1000 hr
+T933	OTHER_COMPOUND 82699 82703	5-14
+T934	TEMPERATURE 82877 82880	60°
+T935	TIME 82925 82932	1200 hr
+T936	TIME 82934 82941	1200 hr
+T937	OTHER_COMPOUND 83684 83689	1C-4C
+T938	OTHER_COMPOUND 84033 84035	1E
+T939	OTHER_COMPOUND 84310 84312	kJ
+T940	OTHER_COMPOUND 85303 85310	Polymer
+T941	OTHER_COMPOUND 85678 85679	F
+T942	OTHER_COMPOUND 85936 85938	14
+T943	OTHER_COMPOUND 86147 86152	1C-4C
+T944	OTHER_COMPOUND 87013 87026	polypropylene
+T945	OTHER_COMPOUND 87028 87039	Profax 6301
+T946	OTHER_COMPOUND 87812 87825	polypropylene
+T947	TIME 88294 88300	10 min
+T948	EXAMPLE_LABEL 88816 88817	1
+T949	OTHER_COMPOUND 88895 88930	ortho-hydroxyl tris-aryl-s-triazine
+T950	OTHER_COMPOUND 88951 88956	amine
+T951	OTHER_COMPOUND 89197 89206	thioester
+T952	REACTION_PRODUCT 89363 89388	dilauryl thiodipropionate
+T953	REACTION_PRODUCT 89390 89416	distearyl thiodipropionate
+T954	STARTING_MATERIAL 89418 89468	pentaerythrithol tetrakis-(3-dodecylthipropionate)
+T955	REACTION_PRODUCT 89470 89491	tetra-alkyl thioethyl
+T956	STARTING_MATERIAL 89509 89588	2,12-dihydroxy-4,10-dithia-7-oxatridecamethylene bis[3-(dodecylthio)propionate]
+T957	EXAMPLE_LABEL 89696 89697	4
+T958	REACTION_PRODUCT 89787 89822	ortho-hydroxyl tris-aryl-s-triazine
+T959	OTHER_COMPOUND 89837 89872	2-(2′-hydroxyphenyl)-1,3,5-triazine
+T960	OTHER_COMPOUND 89903 89906	(I)
+T961	OTHER_COMPOUND 90016 90022	C1-C10
+T962	OTHER_COMPOUND 90047 90052	amino
+T963	OTHER_COMPOUND 90054 90065	C1-C10 acyl
+T964	OTHER_COMPOUND 90070 90084	C1-C10 alkoxyl
+T965	OTHER_COMPOUND 90348 90362	hindered amine
+T966	OTHER_COMPOUND 90601 90609	hydrogen
+T967	OTHER_COMPOUND 90879 90882	IIa
+T968	OTHER_COMPOUND 90992 90998	—CH2CN
+T969	OTHER_COMPOUND 91123 91147	hindered hydroxybenzoate
+T970	OTHER_COMPOUND 91222 91233	C1-C8 alkyl
+T971	OTHER_COMPOUND 91264 91275	C1-C24alkyl
+T972	OTHER_COMPOUND 91314 91322	aryl,(d)
+T973	OTHER_COMPOUND 91383 91393	zinc oxide
+T974	OTHER_COMPOUND 91395 91410	calcium lactate
+T975	OTHER_COMPOUND 91412 91419	natural
+T976	OTHER_COMPOUND 91434 91447	hydrotalcites
+T977	OTHER_COMPOUND 91560 91576	calcium stearate
+T978	OTHER_COMPOUND 91578 91591	zinc stearate
+T979	OTHER_COMPOUND 91593 91611	magnesium behenate
+T980	OTHER_COMPOUND 91613 91631	magnesium stearate
+T981	OTHER_COMPOUND 91633 91648	sodium stearate
+T982	OTHER_COMPOUND 91650 91668	sodium ricinoleate
+T983	OTHER_COMPOUND 91673 91692	potassium palmitate
+T984	OTHER_COMPOUND 91694 91718	antimony pyrocatecholate
+T985	OTHER_COMPOUND 91720 91740	zinc pyrocatecholate
+T986	OTHER_COMPOUND 91875 91878	IVa
+T987	OTHER_COMPOUND 91882 91885	IVb
+T988	OTHER_COMPOUND 91892 91895	IVc
+T989	OTHER_COMPOUND 92089 92107	C1-C20 hydrocarbyl
+T990	OTHER_COMPOUND 92147 92150	IVc
+T991	OTHER_COMPOUND 92198 92207	phosphite
+T992	OTHER_COMPOUND 92222 92250	hindered arylalkyl phosphite
+T993	OTHER_COMPOUND 92399 92411	C1-C12 alkyl
+T994	OTHER_COMPOUND 92481 92490	alkylaryl
+T995	OTHER_COMPOUND 92589 92604	tertiary carbon
+T996	OTHER_COMPOUND 92682 92688	R6 and
+T997	OTHER_COMPOUND 92705 92720	tertiary carbon
+T998	OTHER_COMPOUND 92722 92743	ora trisarylphosphite
+T999	OTHER_COMPOUND 92869 92881	C1-C20 alkyl
+T1000	OTHER_COMPOUND 92902 92914	C4-C20 alkyl
+T1001	OTHER_COMPOUND 92944 92960	C7-C20 alkylaryl
+T1002	REACTION_PRODUCT 93069 93113	2-(2′-hydroxyphenyl)-1,3,5-triazine compound
+T1003	REACTION_PRODUCT 93128 93201	: 4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4-octyloxyphenyl)-s-triazine;
+T1004	REACTION_PRODUCT 93202 93572	4,6-bis-(2,4-dimethylphenyl)-2-(2,4-dihydroxyphenyl)-s-triazine; 2,4-bis(2,4-dihydroxyphenyl)-6-(4-chlorophenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-hydroxy-ethoxy)phenyl]-6-(4-chlorophenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-hydroxy-4-(2-hydroxy-ethoxy)phenyl]-6-(2,4-dimethylphenyl)-s-triazine; 2,4-bis[2-hydroxy-4-(2-hydroxyethoxy)phenyl]-6-(4-bromophenyl)-s-triazine;
+T1005	REACTION_PRODUCT 93573 93801	2,4-bis[2-hydroxy-4-(2-acetoxyethoxy)phenyl]-6-(4-chlorophenyl)-s-triazine; 2,4-bis(2,4-dihydroxyphenyl)-6-(2,4-dimethylphenyl)-s-triazine; 2,4-bis(4-biphenylyl)-6-[2-hydroxy-4-[(octyloxycarbonyl)ethylideneoxy]phenyl]-s-triazine
+T1006	REACTION_PRODUCT 93803 94396	2,4-bis(4-biphenylyl)-6-[2-hydroxy-4-(2-ethylhexyloxy)phenyl]-s-triazine; 2-phenyl-4-[2-hydroxy-4-(3-sec-butyloxy-2-hydroxypropyloxy)phenyl]-6-[2-hydroxy-4-(3-sec-amyloxy-2-hydroxypropyloxy)phenyl]-s-triazine; 2,4-bis(2,4-dimethylphenyl)-6-[2-hydroxy-4(-3-benzyloxy-2-hydroxypropyloxy)phenyl]-s-triazine; 2,4-bis(2-hydroxy-4-n-butyloxyphenyl)-6-(2,4-di-n-butyloxyphenyl)-s-triazine; 2,4-bis(2,4-dimethylphenyl)-6-[2-hydroxy-4-(3-nonyloxy-2-hydroxypropylox-y)-5-α-cumylphenyl]-s-triazine; methylenebis-{2,4-bis (2,4-dimethylphenyl)-6-[2-hydroxy-4-(3-butyloxy-2-hydroxypropoxy)phenyl]-s-triazine
+T1007	REACTION_PRODUCT 94493 94572	2,4,6-tris(2-hydroxy-4-isooctyloxycarbonyliso-propylideneoxy-phenyl)-s-triazine
+T1008	REACTION_PRODUCT 94574 94653	2,4-bis(2,4-dimethylphenyl)-6-(2-hydroxy-4-hexyloxy-5-α-cumylphenyl)-s-triazine
+T1009	REACTION_PRODUCT 94655 94750	2-(2,4,6-trimethylphenyl)-4,6-bis[2-hydroxy-4-(3-butyloxy-2-hydroxypropyloxy)phenyl]-s-triazine
+T1010	REACTION_PRODUCT 94752 94829	2,4,6-tris[2-hydroxy-4-(3-sec-butyloxy-2-hydroxypropyloxy)-phenyl]-s-triazine
+T1011	REACTION_PRODUCT 94842 95136	4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4-(3-dodecyloxy-2-hydroxypropoxy)phenyl)-s-triazine and 4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4-(3-tridecyloxy-2-hydroxypropoxy)phenyl)-s-triazine; 4,6-bis-(2,4-dimethylphenyl)-2-(2-hydroxy-4(3-(2-ethylhexyloxy)-2-hydroxypropoxy)-phenyl)-s-triazine
+T1012	REACTION_PRODUCT 95138 95193	4,6-diphenyl-2-(4-hexyloxy-2-hydroxyphenyl)-s-triazine;
+T1013	REACTION_PRODUCT 95194 95268	2-(4,6-Diphenyl-1,3,5-triazin-2-yl)-5-[2-(2-ethylhexanoyloxy)ethoxy]phenol
+T1014	REACTION_PRODUCT 95270 95323	2,4,6-tris(2-hydroxy-4-octyloxyphenyl)-1,3,5-triazine
+T1015	REACTION_PRODUCT 95325 95438	propanoic acid, 2,2′,2″-[1,3,5-triazine-2,4,6-triyltris[(3-hydroxy-4,1-phenylene)oxy]]tris-1,1′,1″-trioctyl ester
+T1016	REACTION_PRODUCT 95440 95538	propanoic acid, 2-[4-[4,6-bis([1,1′-biphenyl]-4-yl)-1,3,5-triazin-2yl]-3-hydroxyphenoxyl]-isooctyl
+T1017	EXAMPLE_LABEL 95572 95573	6
+T1018	OTHER_COMPOUND 95706 95753	bis(2,2,6,6-tetramethylpiperidin-4-yl) sebacate
+T1019	OTHER_COMPOUND 95755 95802	bis(2,2,6,6-tetramethylpiperidin-4-yl)succinate
+T1020	STARTING_MATERIAL 95854 95911	bis(1-octyloxy-2,2,6,6-tetramethylpiperidin-4-yl)sebacate
+T1021	STARTING_MATERIAL 95913 96003	bis(1,2,2,6,6-pentamethylpiperidin-4-yl) n-butyl 3,5-di-tert-butyl-4-hydroxybenzylmalonate
+T1022	STARTING_MATERIAL 96021 96079	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-hydroxypiperidine
+T1023	STARTING_MATERIAL 96084 96097	succinic acid
+T1024	STARTING_MATERIAL 96099 96132	2,2,6,6-tetramethylpiperidin-4-yl
+T1025	STARTING_MATERIAL 96143 96176	2,2,6,6-tetramethylpiperidin-4-yl
+T1026	OTHER_COMPOUND 96189 96224	1,2,2,6,6-pentamethylpiperidin-4-yl
+T1027	REACTION_PRODUCT 96235 96281	1,2,2,6,6-pentamethylpiperidin-4-yl dodecanate
+T1028	REACTION_PRODUCT 96299 96362	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T1029	REACTION_PRODUCT 96367 96412	4-tert-octylamino-2,6-dichloro-1,3,5-triazine
+T1030	REACTION_PRODUCT 96414 96471	tris(2,2,6,6-tetramethylpiperidin-4-yl) nitrilotriacetate
+T1031	REACTION_PRODUCT 96473 96588	tetrakis(2,2,6,6-tetramethylpiperidin-4-yl)-1,2,3,4-butanetetracarboxylate; 4-benzoyl-2,2,6,6-tetramethylpiperidine
+T1032	REACTION_PRODUCT 96590 96725	4-stearyloxy-2,2,6,6-tetramethylpiperidine; bis(1,2,2,6,6-pentamethylpiperidyl)-2-n-butyl-2-(2-hydroxy-3,5-di-tert-butylbenzyl)malonate
+T1033	REACTION_PRODUCT 96727 96794	3-n-octyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decan-2,4-dione
+T1034	REACTION_PRODUCT 96796 96848	bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)sebacate
+T1035	REACTION_PRODUCT 96921 96984	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T1036	OTHER_COMPOUND 96989 97029	4-morpholino-2,6-dichloro-1,3,5-triazine
+T1037	STARTING_MATERIAL 97047 97110	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T1038	OTHER_COMPOUND 97115 97155	4-morpholino-2,6-dichloro-1,3,5-triazine
+T1039	OTHER_COMPOUND 97185 97261	2-chloro-4,6-bis(4-n-butylamino-2,2,6,6-tetramethylpiperidyl)-1,3,5-triazine
+T1040	OTHER_COMPOUND 97266 97299	1,2-bis(3-aminopropylamino)ethane
+T1041	REACTION_PRODUCT 97317 97399	2-chloro-4,6-bis(4-n-butylamino-1,2,2,6,6-pentamethylpiperidyl)-1,3,5-triazine and
+T1042	REACTION_PRODUCT 97400 97434	1,2-bis-(3-aminopropylamino)ethane
+T1043	REACTION_PRODUCT 97436 97513	8-acetyl-3-dodecyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decane-2,4-dione
+T1044	REACTION_PRODUCT 97515 97583	3-dodecyl-1-(2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione;
+T1045	REACTION_PRODUCT 97584 97662	3-dodecyl-1-(1-ethanoyl-2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione
+T1046	REACTION_PRODUCT 97664 97734	3-dodecyl-1-(1,2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione
+T1047	STARTING_MATERIAL 97749 97764	4-hexadecyloxy-
+T1048	OTHER_COMPOUND 97829 97892	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T1049	REACTION_PRODUCT 97897 97942	4-cyclohexylamino-2,6-dichloro-1,3,5-triazine
+T1050	REACTION_PRODUCT 97960 97993	1,2-bis(3-aminopropylamino)ethane
+T1051	REACTION_PRODUCT 97995 98072	2,4,6-trichloro-1,3,5-triazine and 4-butylamino-2,2,6,6-tetramethylpiperidine
+T1052	REACTION_PRODUCT 98074 98141	2-undecyl-7,7,9,9-tetramethyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T1053	REACTION_PRODUCT 98143 98169	oxo-piperanzinyl-triazines
+T1054	OTHER_COMPOUND 98193 98265	7,7,9,9-tetramethyl-2-cycloundecyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T1055	OTHER_COMPOUND 98270 98285	epichlorohydrin
+T1056	STARTING_MATERIAL 98287 98360	tetrakis(2,2,6,6-tetramethyl-4-piperidyl) butane-1,2,3,4-tetracarboxylate
+T1057	STARTING_MATERIAL 98362 98396	1,2,3,4-butanetetracarboxylic acid
+T1058	STARTING_MATERIAL 98398 98448	tetrakis(1,2,2,6,6-pentamethyl-4-piperidinyl)ester
+T1059	STARTING_MATERIAL 98450 98484	1,2,3,4-butanetetracarboxylic acid
+T1060	STARTING_MATERIAL 98486 98520	1,2,2,6,6-pentamethyl-4-piperdinyl
+T1061	STARTING_MATERIAL 98536 98570	1,2,3,4-butanetetracarboxylic acid
+T1062	STARTING_MATERIAL 98572 98614	2,2,6,6-tetramethyl-4-piperidinyl tridecyl
+T1063	STARTING_MATERIAL 98622 98656	1,2,3,4-butanetetracarboxylic acid
+T1064	STARTING_MATERIAL 98671 98776	2,2,6,6-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]-undecane-3,9-diethano1,1,2,2,6,6-pentamethyl-4-piperdinyl
+T1065	STARTING_MATERIAL 98784 98818	1,2,3,4-butanetetracarboxylic acid
+T1066	OTHER_COMPOUND 98820 98827	polymer
+T1067	REACTION_PRODUCT 98833 98943	2,2,6,6-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]-undecane-3,9-diethanol, 2,2,6,6-tetramethyl-4-piperdinyl ester
+T1068	REACTION_PRODUCT 99007 99148	1-(2-hydroxy-2-methylpropoxy)-2,2,6,6-tetramethyl-4-piperdinol; 1-(2-hydroxy-2-methylpropoxy)-4-octadecanoyloxy-2,2,6,6-tetramethylpiperidine
+T1069	OTHER_COMPOUND 99150 99241	1-(4-octadecanoyloxy-2,2,6,6-tetramethylpiperidin-1yloxy)-2-octadecanoyloxy-2-methylpropane
+T1070	STARTING_MATERIAL 99243 99294	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-piperdinol
+T1071	REACTION_PRODUCT 99318 99369	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-piperdinol
+T1072	OTHER_COMPOUND 99374 99391	dimethylsuccinate
+T1073	STARTING_MATERIAL 99393 99463	2,2,4,4-tetramethyl-7-oxa-3,20-diazadispiro[5.1.11.2]heneicosan-21-one
+T1074	REACTION_PRODUCT 99469 99474	ester
+T1075	REACTION_PRODUCT 99478 99511	2,2,6,6-tetramethyl-4-piperidinol
+T1076	REACTION_PRODUCT 99517 99535	higher fatty acids
+T1077	STARTING_MATERIAL 99537 99603	3-dodecyl-1-(2,2,6,6-tetramethyl-4-piperidyl)pyrrolidine-2,5-dione
+T1078	REACTION_PRODUCT 99605 99639	1H-Pyrrole-2,5-dione, 1-octadecyl-
+T1079	STARTING_MATERIAL 99654 99678	(1-methylethenyl)benzene
+T1080	STARTING_MATERIAL 99683 99740	142,2,6,6-tetramethyl-4-piperidinyl)-1H-pyrrole-2,5-dione
+T1081	OTHER_COMPOUND 99742 99754	piperazinone
+T1082	OTHER_COMPOUND 99756 99855	1,1′,1″-[1,3,5-triazine-2,4,6-triyltris[(cyclohexylimino)-2,1-ethanediyl]]tris[3,3,5,5-tetramethyl-
+T1083	OTHER_COMPOUND 99857 99869	piperazinone
+T1084	OTHER_COMPOUND 99871 99972	1,1′,1″-[1,3,5-triazine-2,4,6-triyltris[(cyclohexylimino)-2,1-ethanediyl]]tris[3,3,4,5,5-pentamethyl-
+T1085	OTHER_COMPOUND 99998 100070	7,7,9,9-tetramethyl-2-cycloundecyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T1086	OTHER_COMPOUND 100075 100090	epichlorohydrin
+T1087	OTHER_COMPOUND 100110 100173	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T1088	OTHER_COMPOUND 100178 100223	4-cyclohexylamino-2,6-dichloro-1,3,5-triazine
+T1089	OTHER_COMPOUND 100243 100276	1,2-bis(3-aminopropylamino)ethane
+T1090	OTHER_COMPOUND 100278 100308	2,4,6-trichloro-1,3,5-triazine
+T1091	OTHER_COMPOUND 100375 100438	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine
+T1092	OTHER_COMPOUND 100443 100483	4-morpholino-2,6-dichloro-1,3,5-triazine
+T1093	OTHER_COMPOUND 100503 100579	2-chloro-4,6-bis(4-n-butylamino-2,2,6,6-tetramethylpiperidyl)-1,3,5-triazine
+T1094	OTHER_COMPOUND 100584 100617	1,2-bis(3-aminopropylamino)ethane
+T1095	REACTION_PRODUCT 100637 100715	2-chloro-4,6-bis(4-n-butylamino-1,2,2,6,6-pentamethylpiperidyl)-1,3,5-triazine
+T1096	REACTION_PRODUCT 100720 100754	1,2-bis-(3-aminopropylamino)ethane
+T1097	REACTION_PRODUCT 100756 100868	2-[(2-hydroxyethyl)amino]-4,6-bis[N-(1-cyclohexyloxy-2,2,6,6-tetramethylpiperidin-4-yl)butylamino-1,3,5-triazine
+T1098	REACTION_PRODUCT 100870 100887	propanedioic acid
+T1099	REACTION_PRODUCT 100968 101042	tetrakis(2,2,6,6-tetramethylpiperidin-4-yl)-1,2,3,4-butanetetracarboxylate
+T1100	REACTION_PRODUCT 101044 101065	benzenepropanoic acid
+T1101	REACTION_PRODUCT 101067 101219	3,5-bis(1,1-dimethylethyl)-4-hydroxy-, 1-[2-[3-[3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl]-1-oxopropoxy]lethyl]-2,2,6,6-tetramethyl-4-piperidinyl ester
+T1102	STARTING_MATERIAL 101221 101289	N-(1-octyloxy-2,2,6,6-tetramethylpiperidin-4-yl)-N′-dodecyloxalamide
+T1103	STARTING_MATERIAL 101350 101394	1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic
+T1104	REACTION_PRODUCT 101443 101492	1,5-dioxaspiro{5,5}undecane-3,3-dicarboxylic acid
+T1105	OTHER_COMPOUND 101552 101610	1-(2-hydroxyethyl)-2,2,6,6-tetramethyl-4-hydroxypiperidine
+T1106	OTHER_COMPOUND 101615 101628	succinic acid
+T1107	REACTION_PRODUCT 101648 101715	N,N′-bis(2,2,6,6-tetramethylpiperidin-4-yl)hexamethylenediamine and
+T1108	REACTION_PRODUCT 101763 101797	1,2,3,4-butanetetracarboxylic acid
+T1109	REACTION_PRODUCT 101799 101849	1,2,2,6,6-pentamethyl-4-piperidinyl tridecyl ester
+T1110	REACTION_PRODUCT 101851 101925	tetrakis(2,2,6,6-tetramethylpiperidin-4-yl)-1,2,3,4-butanetetracarboxylate
+T1111	REACTION_PRODUCT 101927 102011	1,2,3,4-butanetetracarboxylic acid, 2,2,6,6-tetramethyl-4-piperidinyl tridecyl ester
+T1112	REACTION_PRODUCT 102102 102190	2,2,4,4-tetramethyl-21-oxo-7-oxa-3.20-diazaspiro(5.1.11.2)-heneicosane-20-propanoic acid
+T1113	STARTING_MATERIAL 102208 102297	2,2,4,4-tetramethyl-21-oxo-7-oxa-3.20-diazaspiro(5.1.11.2)-heneicosane-20-propanoic acid-
+T1114	STARTING_MATERIAL 102314 102437	1H,4H,5H,8H-2,3a,4a,6,7a,8a-hexaazacyclopenta[def]fluorene-4,8-dione, hexahydro-2,6-bis(2,2,6,6-tetramethyl-4-piperidinyl)-
+T1115	STARTING_MATERIAL 102439 102513	polymethyl[propyl-3-oxy(2′,2′,6′,6′-tetramethyl-4,4′-piperidinyl)]siloxane
+T1116	STARTING_MATERIAL 102515 102592	polymethyl[propyl-3-oxy(1′,2′,2′,6′,6′-pentamethyl-4,4′-piperidinyl)]siloxane
+T1117	OTHER_COMPOUND 102607 102625	methylmethacrylate
+T1118	REACTION_PRODUCT 102631 102645	ethyl acrylate
+T1119	REACTION_PRODUCT 102650 102692	2,2,6,6-tetramethylpiperidin-4-yl acrylate
+T1120	OTHER_COMPOUND 102713 102716	C20
+T1121	REACTION_PRODUCT 102720 102737	C24 alpha-olefins
+T1122	REACTION_PRODUCT 102742 102788	(2,2,6,6-tetramethylpiperidin-4-yl)succinimide
+T1123	REACTION_PRODUCT 102790 102824	1,2,3,4-butanetetracarboxylic acid
+T1124	REACTION_PRODUCT 102839 102953	β,β,β′,β′-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]undecane-3,9-diethanol, 1,2,2,6,6-pentamethyl-4-piperidinyl ester
+T1125	REACTION_PRODUCT 102955 102989	1,2,3,4-butanetetracarboxylic acid
+T1126	REACTION_PRODUCT 103004 103116	β,β,β′,β′-tetramethyl-2,4,8,10-tetraoxaspiro[5.5]undecane-3,9-diethanol, 2,2,6,6-tetramethyl-4-piperidinyl ester
+T1127	REACTION_PRODUCT 103128 103196	1,3-benzenedicarboxamide, N,N′-bis(2,2,6,6-tetramethyl-4-piperidinyl
+T1128	REACTION_PRODUCT 103198 103277	1,1′-(1,10-dioxo-1,10-decanediyl)-bis(hexahydro-2,2,4,4,6-pentamethylpyrimidine
+T1129	REACTION_PRODUCT 103279 103293	ethane diamide
+T1130	OTHER_COMPOUND 103295 103349	N-(1-acetyl-2,2,6,6-tetramethylpiperidinyl)-N′-dodecyl
+T1131	OTHER_COMPOUND 103351 103361	formamide,
+T1132	REACTION_PRODUCT 103362 103435	N,N′-1,6-hexanediylbis[N-(2,2,6,6-tetramethyl-4-piperidinyl); D-glucitol,
+T1133	REACTION_PRODUCT 103436 103578	1,3:2,4-bis-O-(2,2,6,6-tetramethyl-4-piperidinylidene)-; 2,2,4,4-tetramethyl-7-oxa-3,20-diaza-21-oxo-dispiro[5.1.11.2]heneicosane; propanamide
+T1134	REACTION_PRODUCT 103580 103780	2-methyl-N-(2,2,6,6-tetramethyl-4-piperidinyl)-2-[(2,2,6,6-tetramethyl-4-piperidinyl)amino]-; 7-oxa-3,20-diazadispiro[5.1.11.2]heneicosane-20-propanoic acid, 2,2,4,4-tetramethyl-21-oxo-, dodecyl ester
+T1135	REACTION_PRODUCT 103782 103856	N-(2,2,6,6-tetramethylpiperidin-4-yl)-13-aminopropionic acid dodecyl ester
+T1136	REACTION_PRODUCT 103858 103913	N-(2,2,6,6-tetramethylpiperidin-4-yl)-N′-aminooxalamide
+T1137	REACTION_PRODUCT 103915 104011	propanamide, N-(2,2,6,6-tetramethyl-4-piperidinyl)-3-[(2,2,6,6-tetramethyl-4-piperidinyl)amino]-
+T1138	REACTION_PRODUCT 104024 104086	4-hexadecyloxy- and 4-stearyloxy-2,2,6,6-tetramethylpiperidine
+T1139	REACTION_PRODUCT 104088 104380	3-dodecyl-1-(1,2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione; 3-dodecyl-1-(1-ethanoyl-2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione; bis(2,2,6,6-tetramethylpiperidin-4-yl)succinate; bis(1,2,2,6,6-pentamethylpiperidin-4-yl) n-butyl 3,5-di-tert-butyl-4-hydroxybenzylmalonate
+T1140	REACTION_PRODUCT 104382 104439	tris(2,2,6,6-tetramethylpiperidin-4-yl) nitrilotriacetate
+T1141	REACTION_PRODUCT 104441 104498	1,1′-(1,2-ethanediyl)bis(3,3,5,5-tetramethylpiperazinone)
+T1142	REACTION_PRODUCT 104500 104540	4-benzoyl-2,2,6,6-tetramethylpiperidine;
+T1143	REACTION_PRODUCT 104541 104677	4-stearyloxy-2,2,6,6-tetramethylpiperidine; bis(1,2,2,6,6-pentamethylpiperidyl)-2-n-butyl-2-(2-hydroxy-3,5-di-tert-butylbenzyl)malonate;
+T1144	REACTION_PRODUCT 104678 104745	3-n-octyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decan-2,4-dione
+T1145	REACTION_PRODUCT 104747 104854	bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)sebacate; bis(1-octyloxy-2,2,6,6-tetramethylpiperidyl)succinate
+T1146	REACTION_PRODUCT 104856 104933	8-acetyl-3-dodecyl-7,7,9,9-tetramethyl-1,3,8-triazaspiro[4.5]decane-2,4-dione
+T1147	REACTION_PRODUCT 104935 105002	3-dodecyl-1-(2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione
+T1148	REACTION_PRODUCT 105004 105083	3-dodecyl-1-(1-ethanoyl-2,2,6,6-tetramethylpiperidin-4-yl)pyrrolidin-2,5-dione;
+T1149	REACTION_PRODUCT 105084 105154	3-dodecyl-1-(1,2,2,6,6-pentamethylpiperidin-4-yl)pyrrolidine-2,5-dione
+T1150	REACTION_PRODUCT 105169 105184	4-hexadecyloxy-
+T1151	REACTION_PRODUCT 105189 105231	4-stearyloxy-2,2,6,6-tetramethylpiperidine
+T1152	REACTION_PRODUCT 105233 105300	2-undecyl-7,7,9,9-tetramethyl-1-oxa-3,8-diaza-4-oxospiro[4.5]decane
+T1153	REACTION_PRODUCT 105302 105557	1,5-dioxaspiro {5,5}undecane-3,3-dicarboxylic acid, bis(2,2,6,6-tetramethyl-4-piperidinyl) and 1,5-dioxaspiro {5,5}undecane-3,3-dicarboxylic acid, bis(1,2,2,6,6-pentamethyl-4-piperidinyl); N1-(β-hydroxyethyl)3,3-pentamethylene-5,5-dimethylpiperazin-2-one;
+T1154	REACTION_PRODUCT 105675 105814	N1-tert-octyl-3,3-pentamethylene-5,5-dimethylpiperazin-2-one; trans-1,2-cyclohexane-bis-(N1-5,5-dimethyl-3,3-pentamethylene-2-piperazinone;
+T1155	STARTING_MATERIAL 105815 105891	trans-1,2-cyclohexane-bis-(N1-3,3,5,5-dispiropentamethylene-2-piperazinone);
+T1156	STARTING_MATERIAL 105962 106044	N1-isopropyl-1,4-diazadispiro-3,3-pentamethylene-5,5-tetramethylene-2-piperazinone
+T1157	STARTING_MATERIAL 106046 106105	N1-isopropyl-5,5-dimethyl-3,3-pentamethylene-2-piperazinone
+T1158	STARTING_MATERIAL 106108 106181	trans-1,2-cyclohexane-bis-N1-(dimethyl-3,3-pentamethylene-2-piperazinone)
+T1159	OTHER_COMPOUND 106244 106312	N1-octyl-1,4-diazadispiro-(3,3,5,5)pentamethylene-1,5-diazepin-2-one
+T1160	OTHER_COMPOUND 106422 106430	hindered
+T1161	REACTION_PRODUCT 106497 106556	2,4-di-tert-butylphenyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T1162	REACTION_PRODUCT 106558 106603	hexadecyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T1163	REACTION_PRODUCT 106605 106650	octadecyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T1164	REACTION_PRODUCT 106652 106693	octyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T1165	REACTION_PRODUCT 106695 106741	tetradecyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T1166	REACTION_PRODUCT 106743 106788	behenylyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T1167	REACTION_PRODUCT 106790 106858	2-methyl-4,6-di-tert-butylphenyl 3,5-di-tert-butyl-4-hydroxybenzoate
+T1168	REACTION_PRODUCT 106863 106937	butyl 3-[3-t-butyl-4-(3,5-di-t-butyl-4-hydroxybenzoyloxy)phenyl]propionate
+T1169	EXAMPLE_LABEL 106961 106962	8
+T1170	OTHER_COMPOUND 107060 107068	hindered
+T1171	REACTION_PRODUCT 107101 107523	(1,3,5-Tris(4-t-butyl-3-hydroxy-2,6-dimethylbenzyl)-1,3,5-triazine-2,4,6-(1H,3H,5H)-trione; 1,3,5-tris(3,5-di-tert-butyl-4-hydroxybenzyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione; 1,1,3-Tris(2′-methyl-4′-hydroxy-5′-t-butylphenyl)butane; Triethylene glycol bis[3-(3-t-butyl-4-hydroxy-5-methylphenyl)propionate]; 4,4′-Thiobis(2-t-butyl-5-methylphenol); 2,2′-Thiodiethylene bis[3-(3-t-butyl-4-hydroxyl-5-methylphenyl)propionate]
+T1172	REACTION_PRODUCT 107525 107732	Octadecyl 3-(3′-t-butyl-4′-hydroxy-5′-methylphenyl)propionate; Tetrakismethylene(3-t-butyl-4-hydroxy-5-methylhydrocinnamate)methane; N,N′-Hexamethylene bis[3-(3-t-butyl-4-hydroxy-5-methylphenyl)propionamide]
+T1173	REACTION_PRODUCT 107734 107800	Di(4-tertiarybutyl-3-hydroxy-2,6-dimethyl benzyl) thiodipropionate
+T1174	OTHER_COMPOUND 107806 107859	octadecyl 3,5-di-(tert)-butyl-4-hydroxyhydrocinnamate
+T1175	EXAMPLE_LABEL 107883 107884	9
+T1176	STARTING_MATERIAL 108039 108088	bis-(2,6-di-t-butyl-4-methlphenyl)pentaerythritol
+T1177	REAGENT_CATALYST 108102 108153	(bis-(2,4-dicumylphenyl)pentaerythritol diphosphite
+T1178	REAGENT_CATALYST 108155 108209	bis-(2,4-di-t-butyl-phenyl)pentaerythritol diphosphite
+T1179	OTHER_COMPOUND 108215 108272	bis-(2,4,6-tri-t-butyl-phenyl)pentaerythritol diphosphite
+T1180	OTHER_COMPOUND 108383 108400	trisarylphosphite
+T1181	OTHER_COMPOUND 108442 108509	tris-(2,4-di-t-butylphenyl)phosphite, tris(4-nonylphenyl) phosphite
+T1182	OTHER_COMPOUND 108514 108533	triphenyl phosphite
+T1183	OTHER_COMPOUND 108645 108680	ortho-hydroxyl tris-aryl-s-triazine
+T1184	REACTION_PRODUCT 108693 108756	2-[4,6-bis(2,4-dimethylphenyl)-1,3,5-triazin-2-yl]-5-(octyloxy)
+T1185	OTHER_COMPOUND 108768 108782	hindered amine
+T1186	OTHER_COMPOUND 108825 108836	fatty acids
+T1187	OTHER_COMPOUND 108922 108937	hydroxybenzoate
+T1188	OTHER_COMPOUND 108950 108989	3,5-di-tert-butyl-4-hydroxybenzoic acid
+T1189	OTHER_COMPOUND 108991 109000	hexadecyl
+T1190	OTHER_COMPOUND 109067 109082	magnesium oxide
+T1191	OTHER_COMPOUND 109084 109098	aluminum oxide
+T1192	OTHER_COMPOUND 109100 109119	magnesium hydroxide
+T1193	OTHER_COMPOUND 109121 109139	aluminum hydroxide
+T1194	OTHER_COMPOUND 109141 109151	carbonates
+T1195	REACTION_PRODUCT 109207 109245	bis(2,4-dicumylphenyl) pentaerythritol
+T1196	REACTION_PRODUCT 109263 109278	hindered phenol
+T1197	REACTION_PRODUCT 109303 109383	1,3,5-Tris (4-tert-butyl-3-hydroxy-2,6-dimethyl benzyl)-1,3,5-triazine-2,4,6-(1H
+T1198	REACTION_PRODUCT 109385 109399	3H, 5H)-trione
+T1199	REACTION_PRODUCT 109408 109417	thioester
+T1200	REACTION_PRODUCT 109421 109472	pentaerythrithol tetrakis-(3-dodecylthiopropionate)
+T1201	REACTION_PRODUCT 109476 109502	Distearyl thiodipropionate
+T1202	EXAMPLE_LABEL 109504 109506	12
+T1203	EXAMPLE_LABEL 109635 109637	13
+T1204	OTHER_COMPOUND 109864 109876	polystyrenes
+T1205	OTHER_COMPOUND 109904 109917	polyacrylates
+T1206	OTHER_COMPOUND 109919 109936	polymethacrylates
+T1207	OTHER_COMPOUND 109951 109969	polyacrylonitriles
+T1208	OTHER_COMPOUND 109971 109985	polybutadienes
+T1209	OTHER_COMPOUND 109987 109999	polystyrenes
+T1210	OTHER_COMPOUND 110001 110014	acrylonitrile
+T1211	OTHER_COMPOUND 110025 110032	styrene
+T1212	OTHER_COMPOUND 110034 110055	styrene acrylonitrile
+T1213	OTHER_COMPOUND 110057 110087	acrylate styrene acrylonitrile
+T1214	OTHER_COMPOUND 110089 110116	cellulosic acetate butyrate
+T1215	OTHER_COMPOUND 110118 110128	cellulosic
+T1216	OTHER_COMPOUND 110151 110166	polyamideimides
+T1217	OTHER_COMPOUND 110253 110271	polyvinylchlorides
+T1218	OTHER_COMPOUND 110312 110323	polyketones
+T1219	OTHER_COMPOUND 110325 110346	thermoplastic olefins
+T1220	OTHER_COMPOUND 110372 110385	polyacrylates
+T1221	OTHER_COMPOUND 110390 110400	polyesters
+T1222	OTHER_COMPOUND 110445 110458	polyacrylates
+T1223	OTHER_COMPOUND 110460 110466	phenol
+T1224	OTHER_COMPOUND 110467 110479	formaldehyde
+T1225	OTHER_COMPOUND 110481 110485	urea
+T1226	OTHER_COMPOUND 110486 110498	formaldehyde
+T1227	OTHER_COMPOUND 110503 110511	melamine
+T1228	OTHER_COMPOUND 110512 110524	formaldehyde
+T1229	OTHER_COMPOUND 110583 110592	polyester
+T1230	OTHER_COMPOUND 110601 110609	acrylate
+T1231	OTHER_COMPOUND 110635 110650	melamine resins
+T1232	OTHER_COMPOUND 110652 110656	urea
+T1233	OTHER_COMPOUND 110665 110676	isocyanates
+T1234	OTHER_COMPOUND 110678 110691	isocyanurates
+T1235	OTHER_COMPOUND 110709 110714	epoxy
+T1236	OTHER_COMPOUND 110789 110801	heterocyclic
+T1237	OTHER_COMPOUND 110806 110823	aromatic glycidyl
+T1238	OTHER_COMPOUND 110885 110898	polysiloxanes
+T1239	OTHER_COMPOUND 110927 110933	amines
+T1240	OTHER_COMPOUND 110935 110949	blocked amines
+T1241	OTHER_COMPOUND 110965 110976	unsaturated
+T1242	OTHER_COMPOUND 110981 111000	methylene compounds
+T1243	OTHER_COMPOUND 111002 111011	ketimines
+T1244	OTHER_COMPOUND 111043 111052	methylene
+T1245	OTHER_COMPOUND 111064 111077	polyketimines
+T1246	OTHER_COMPOUND 111110 111134	acrylic polyacetoacetate
+T1247	OTHER_COMPOUND 111189 111196	acrylic
+T1248	OTHER_COMPOUND 111237 111250	epoxymelamine
+T1249	OTHER_COMPOUND 111292 111301	cellulose
+T1250	EXAMPLE_LABEL 111394 111396	14
+T1251	OTHER_COMPOUND 111530 111537	olefins
+T1252	OTHER_COMPOUND 111539 111552	acrylonitrile
+T1253	OTHER_COMPOUND 111553 111562	butadiene
+T1254	OTHER_COMPOUND 111563 111570	styrene
+T1255	OTHER_COMPOUND 111584 111601	polyvinylchloride
+T1256	OTHER_COMPOUND 111615 111628	polyurethanes
+T1257	OTHER_COMPOUND 111657 111666	propylene
+T1258	OTHER_COMPOUND 111668 111679	isobutylene
+T1259	OTHER_COMPOUND 111681 111687	butene
+T1260	OTHER_COMPOUND 111689 111702	methylpentene
+T1261	OTHER_COMPOUND 111704 111719	hexene, heptene
+T1262	OTHER_COMPOUND 111721 111727	octene
+T1263	OTHER_COMPOUND 111729 111759	isoprene, butadiene, hexadiene
+T1264	OTHER_COMPOUND 111761 111778	dicyclopentadiene
+T1265	OTHER_COMPOUND 111780 111803	ethylidene cyclopentene
+T1266	OTHER_COMPOUND 111808 111818	norbornene
+T1267	OTHER_COMPOUND 111918 111923	vinyl
+T1268	EXAMPLE_LABEL 112308 112310	16
+T1269	TEMPERATURE 112499 112504	80 wt
+T1270	EXAMPLE_LABEL 112720 112722	17
+T1271	REACTION_PRODUCT 112994 113029	ortho-hydroxyl tris-aryl-s-triazine
+T1272	OTHER_COMPOUND 113103 113111	hindered
+T1273	OTHER_COMPOUND 113112 113117	amine
+T1274	OTHER_COMPOUND 113207 113231	hindered hydroxybenzoate
+T1275	OTHER_COMPOUND 113383 113398	hindered phenol
+T1276	TEMPERATURE 113434 113442	0.001 wt
+T1277	OTHER_COMPOUND 113488 113506	phosphite compound
+T1278	EXAMPLE_LABEL 113611 113613	19
+T1279	OTHER_COMPOUND 113776 113794	thioester compound
+T1280	EXAMPLE_LABEL 113897 113899	20
+T1281	OTHER_COMPOUND 114047 114049	UV
+T1282	OTHER_COMPOUND 114213 114220	olefins
+T1283	OTHER_COMPOUND 114222 114235	acrylonitrile
+T1284	OTHER_COMPOUND 114236 114245	butadiene
+T1285	OTHER_COMPOUND 114246 114253	styrene
+T1286	OTHER_COMPOUND 114267 114284	polyvinylchloride
+T1287	OTHER_COMPOUND 114340 114349	propylene
+T1288	OTHER_COMPOUND 114351 114362	isobutylene
+T1289	OTHER_COMPOUND 114364 114370	butene
+T1290	OTHER_COMPOUND 114372 114385	methylpentene
+T1291	OTHER_COMPOUND 114387 114393	hexene
+T1292	OTHER_COMPOUND 114395 114402	heptene
+T1293	OTHER_COMPOUND 114404 114410	octene
+T1294	OTHER_COMPOUND 114412 114420	isoprene
+T1295	OTHER_COMPOUND 114422 114431	butadiene
+T1296	OTHER_COMPOUND 114433 114442	hexadiene
+T1297	OTHER_COMPOUND 114444 114486	dicyclopentadiene, ethylidene cyclopentene
+T1298	OTHER_COMPOUND 114491 114501	norbornene
+T1299	OTHER_COMPOUND 114583 114588	vinyl
+T1300	OTHER_COMPOUND 114597 114602	vinyl
+T1301	OTHER_COMPOUND 115175 115188	polyurethanes
+T1302	OTHER_COMPOUND 115230 115243	polyacrylates
+T1303	OTHER_COMPOUND 115245 115262	polymethacrylates
+T1304	OTHER_COMPOUND 115264 115275	polyacetals
+T1305	OTHER_COMPOUND 115277 115295	polyacrylonitriles
+T1306	OTHER_COMPOUND 115297 115311	polybutadienes
+T1307	OTHER_COMPOUND 115313 115325	polystyrenes
+T1308	OTHER_COMPOUND 115327 115340	acrylonitrile
+T1309	OTHER_COMPOUND 115341 115350	butadiene
+T1310	OTHER_COMPOUND 115351 115358	styrene
+T1311	OTHER_COMPOUND 115360 115381	styrene acrylonitrile
+T1312	OTHER_COMPOUND 115383 115391	acrylate
+T1313	OTHER_COMPOUND 115392 115399	styrene
+T1314	OTHER_COMPOUND 115400 115413	acrylonitrile
+T1315	OTHER_COMPOUND 115415 115442	cellulosic acetate butyrate
+T1316	OTHER_COMPOUND 115444 115454	cellulosic
+T1317	OTHER_COMPOUND 115465 115476	polyimides,
+T1318	OTHER_COMPOUND 115579 115597	polyvinylchlorides
+T1319	OTHER_COMPOUND 115628 115649	aliphatic polyketones
+T1320	OTHER_COMPOUND 115665 115672	olefins
+T1321	OTHER_COMPOUND 115698 115711	polyacrylates
+T1322	OTHER_COMPOUND 115743 115748	cross
+T1323	OTHER_COMPOUND 115771 115784	polyacrylates
+T1324	OTHER_COMPOUND 115786 115792	phenol
+T1325	OTHER_COMPOUND 115793 115805	formaldehyde
+T1326	OTHER_COMPOUND 115807 115824	urea/formaldehyde
+T1327	OTHER_COMPOUND 115829 115837	melamine
+T1328	OTHER_COMPOUND 115838 115850	formaldehyde
+T1329	OTHER_COMPOUND 115909 115918	polyester
+T1330	OTHER_COMPOUND 115927 115935	acrylate
+T1331	OTHER_COMPOUND 115961 115969	melamine
+T1332	OTHER_COMPOUND 115978 115982	urea
+T1333	OTHER_COMPOUND 115991 116002	isocyanates
+T1334	OTHER_COMPOUND 116004 116017	isocyanurates
+T1335	OTHER_COMPOUND 116035 116040	epoxy
+T1336	OTHER_COMPOUND 116062 116067	epoxy
+T1337	OTHER_COMPOUND 116099 116113	cycloaliphatic
+T1338	OTHER_COMPOUND 116141 116149	glycidyl
+T1339	OTHER_COMPOUND 116189 116199	anhydrides
+T1340	OTHER_COMPOUND 116203 116209	amines
+T1341	OTHER_COMPOUND 116211 116224	polysiloxanes
+T1342	OTHER_COMPOUND 116243 116251	polymers
+T1343	OTHER_COMPOUND 116253 116259	amines
+T1344	OTHER_COMPOUND 116269 116275	amines
+T1345	OTHER_COMPOUND 116307 116316	methylene
+T1346	OTHER_COMPOUND 116328 116337	ketimines
+T1347	OTHER_COMPOUND 116343 116352	activated
+T1348	OTHER_COMPOUND 116369 116378	methylene
+T1349	OTHER_COMPOUND 116436 116460	acrylic polyacetoacetate
+T1350	OTHER_COMPOUND 116515 116522	acrylic
+T1351	OTHER_COMPOUND 116563 116576	epoxymelamine
+T1352	OTHER_COMPOUND 116618 116627	cellulose

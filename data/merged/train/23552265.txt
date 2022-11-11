@@ -1,0 +1,10 @@
+UVA photoirradiation of benzo[a]pyrene metabolites: induction of cytotoxicity, reactive oxygen species, and lipid peroxidation.
+Benzo[a]pyrene (BaP) is a prototype for studying carcinogenesis of polycyclic aromatic hydrocarbons (PAHs).
+We have long been interested in studying the phototoxicity of PAHs.
+In this study, we determined that metabolism of BaP by human skin HaCaT keratinocytes resulted in six identified phase I metabolites, for example, BaP trans-7,8-dihydrodiol (BaP t-7,8-diol), BaP t-4,5-diol, BaP t-9,10-diol, 3-hydroxybenzo[a]pyrene (3-OH-BaP), BaP (7,10/8,9)tetrol, and BaP (7/8,9,10)tetrol.
+The photocytotoxicity of BaP, 3-OH-BaP, BaP t-7,8-diol, BaP trans-7,8-diol-anti-9,10-epoxide (BPDE), and BaP (7,10/8,9)tetrol in the HaCaT keratinocytes was examined.
+When irradiated with 1.0 J/cm(2) UVA light, these compounds when tested at doses of 0.1, 0.2, and 0.5 μM, all induced photocytotoxicity in a dose-dependent manner.
+When photoirradiation was conducted in the presence of a lipid (methyl linoleate), BaP metabolites, BPDE, and three related PAHs, pyrene, 7,8,9,10-tetrahydro-BaP trans-7,8-diol, and 7,8,9,10-tetrahydro-BaP trans-9,10-diol, all induced lipid peroxidation.
+The formation of lipid peroxides by BaP t-7,8-diol was inhibited by NaN3 and enhanced by deuterated methanol, which suggests that singlet oxygen may be involved in the generation of lipid peroxides.
+The formation of lipid hydroperoxides was partially inhibited by superoxide dismutase (SOD).
+Electron spin resonance spin trapping experiments indicated that both singlet oxygen and superoxide radical anion were generated from UVA photoirradiation of BPDE in a light dose responding manner.

@@ -1,0 +1,9 @@
+Glutathione S-transferase M1 and multidrug resistance protein 1 act in synergy to protect melanoma cells from vincristine effects.
+Previous studies have shown that glutathione S-transferases (GSTs) can operate in synergy with efflux transporters, multi-drug resistance proteins (MRPs), to confer resistance to several carcinogens, mutagens and anticancer drugs.
+To address the poorly documented role of the GSTM1 in cancer chemoresistance, we used CAL1 human melanoma cells expressing no endogenous GSTM1 and a high level of MRP1.
+Cells were transfected with an expression vector containing the GSTM1 cDNA, and different clones were selected expressing different levels of GSTM1 (RT-PCR, Western blot, and enzyme activity).
+Cells overexpressing GSTM1 displayed a 3- to 4-fold increase in resistance to anticancer drugs vincristine (VCR) and chlorambucil (CHB) in proliferation, cytotoxic, and clonogenic survival assays.
+Inhibitors of MRP1 (sulfinpyrazone, verapamil) and GST (dicumarol, curcumin) completely reversed the GSTM1-associated resistance to VCR, indicating that a MRP efflux function is necessary to potentiate GSTM1-mediated resistance to VCR.
+Conversely, MRP1 inhibitors had no effect on the sensitivity to CHB.
+Using immunofluorescence assay, GSTM1 was also shown to protect microtubule network integrity from VCR-induced inhibition of microtubule polymerization.
+In conclusion, these results show that GSTM1 alone is involved in melanoma resistance to CHB, whereas it can act in synergy with MRP1 to protect cells from toxic effects of VCR.

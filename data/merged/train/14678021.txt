@@ -1,0 +1,8 @@
+The endocrine pancreas in non-diabetic rats after short-term and long-term treatment with the long-acting GLP-1 derivative NN2211.
+Glucagon-like peptide 1 (GLP-1) and GLP-1 receptor agonists increase the beta-cell mass in rodent models of type 2 diabetes and enhance the proliferation rate of beta cells in vitro, while the long-term effect in vivo in non-diabetic animals is unknown.
+We studied the endocrine pancreas in non-diabetic Sprague-Dawley rats after short- and long-term treatment with NN2211, an acetylated long-acting derivative of GLP-1.
+Four groups of rats (n=6 for each group) received two daily injections with either NN2211 or vehicle for 1 or 6 weeks.
+NN2211-treated rats displayed a 10% lower body weight after both 1 week (p<0.001) and 6 weeks (p<0.005) of treatment.
+The mean beta-cell mass in NN2211-treated rats was increased by 19% after 1 week of treatment (p<0.05), but normalized after 6 weeks of treatment.
+No difference in alpha-cell mass, volume-weighted mean islet volume, or pancreas mass was found after 1 or 6 weeks of treatment.
+We conclude that NN2211 treatment of non-diabetic rats induces a sustained lower body weight, and an only temporary increase in the beta-cell mass, while the alpha-cell mass and the volume-weighted mean islet volume are unaffected by the treatment.

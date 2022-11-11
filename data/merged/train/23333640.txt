@@ -1,0 +1,7 @@
+The inhibition of HIF-2α on the ATM/Chk-2 pathway is involved in the promotion effect of arsenite on benzo(a)pyrene-induced cell transformation.
+Both arsenite and benzo(a)pyrene (BaP) are known human carcinogens.
+Studies on the mode-of-action of arsenite indicate that it can also act as co-carcinogen or as a cancer promoter, and that it can facilitate progression of cancers.
+Some studies on development of lung cancers have suggested a synergism between arsenite exposure and cigarette smoking.
+The mechanism of action for such an effect, however, remains obscure.
+In the present study, we investigated the effects of HIF-2α on arsenite- and BaP-induced cell malignant transformation as well as on signal transduction pathways in human bronchial epithelial (HBE) cells.
+The results show that arsenite accelerates the neoplastic transformation and migration of cells and enhances chromosomal aberrations induced by BaP. HIF-2α is involved in blocking the effects of arsenite in activating the ATM/Chk-2 pathway and in repair of DNA damage induced by BaP. Moreover, blocking of HIF-2α prevents the effects of arsenite on the neoplastic transformation, cell migration, and chromosomal aberrations caused by BaP. These results indicate that the repressive effect of HIF-2α on the ATM/Chk-2 pathway leads to genomic instability, which is involved in arsenite-accelerated, BaP-induced malignant transformation of HBE cells.

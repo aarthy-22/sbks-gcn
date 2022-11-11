@@ -1,0 +1,16 @@
+T16	GENE-Y 61 91	angiotensin II type 1 receptor
+T13	GENE-Y 105 135	Angiotensin II type 1 receptor
+T2	CHEMICAL 325 335	azilsartan
+T3	CHEMICAL 337 348	candesartan
+T4	CHEMICAL 350 360	eprosartan
+T5	CHEMICAL 362 372	irbesartan
+T6	CHEMICAL 374 382	losartan
+T7	CHEMICAL 384 394	olmesartan
+T8	CHEMICAL 396 407	telmisartan
+T9	CHEMICAL 409 418	valsartan
+T10	CHEMICAL 421 431	Azilsartan
+T11	CHEMICAL 453 464	candesartan
+T12	CHEMICAL 470 480	olmesartan
+T14	GENE-Y 1138 1169	angiotensin II type 1 receptors
+T1	CHEMICAL 1195 1206	telmisartan
+T15	GENE-Y 1232 1276	peroxisome proliferator-activated receptor-γ

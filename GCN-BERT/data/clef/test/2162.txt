@@ -1,0 +1,3 @@
+Example 273
+3-(2,2-Dimethylpropyl)-6-[(2,3-dioxopiperazin-1-yl)methyl]-1-(3-fluoropropyl)-5-methylthieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+103 mg (0.22 mmol) of the compound from Example 316A were dissolved in 3.5 ml of ethanol, and 324 mg (2.19 mmol) of diethyl oxalate were added. The mixture was stirred at 80° C. for 21 h. Thereafter, the reaction solution was concentrated on a rotary evaporator. The residue was dissolved in 3 ml of DMSO and this solution was purified by means of preparative HPLC (Method 14). Combination of the product fractions and freeze-drying gave 55 mg (55% of theory) of the title compound

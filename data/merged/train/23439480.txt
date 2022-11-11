@@ -1,0 +1,11 @@
+Ghrelin inhibits sodium metabisulfite induced oxidative stress and apoptosis in rat gastric mucosa.
+This study aimed to investigate the effect of ghrelin administration on sulfite induced oxidative and apoptotic changes in rat gastric mucosa.
+Forty male albino Wistar rats were randomized into control (C), sodium metabisulfite (Na2S2O5) treated (S), ghrelin treated (G) and, Na2S2O5+ghrelin treated (SG) groups.
+Sodium metabisulfite (100mg/kg/day) was given by gastric gavage and, ghrelin (20μg/kg/day) was given intraperitoneally for 5weeks.
+Plasma-S-sulfonate level was increased in S and SG groups.
+Na2S2O5 administration significantly elevated total oxidant status (TOS) levels while depleting total antioxidant status (TAS) levels in gastric mucosa.
+Ghrelin significantly decreased gastric TOS levels in the SG group compared with the S group.
+Additionally, TAS levels were found to be higher in SG group in reference to S group.
+Na2S2O5 administration also markedly increased the number of apoptotic cells, cleaved caspase-3 and PAR expression (PARP activity indicator) and, decreased Ki67 expression (cell proliferation index) in gastric mucosal cells.
+Ghrelin treatment decreased the number apoptotic cells, cytochrome C release, PAR and, caspase-3 expressions while increasing Ki67 expression in gastric mucosa exposed to Na2S2O5.
+In conclusion, we suggest that ghrelin treatment might ameliorate ingested-Na2S2O5 induced gastric mucosal injury stemming from apoptosis and oxidative stress in rats.

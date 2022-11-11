@@ -1,0 +1,7 @@
+Pharmacokinetic aspects of deprenyl effects.
+Deprenyl is a selective, irreversible inhibitor of monoamine oxidase type-B (MAO-B).
+In prolonged treatment (0.05-0.25 mg/kg, sc daily) in spite of the irreversible blocking, selective inhibition pattern of MAO was maintained.
+14C-Deprenyl is well absorbed after oral or subcutaneous administration and penetrates rapidly to the central nervous system.
+When it is given intravenously its highest brain concentration is reached within 30 sec but radioactivity rapidly disappears from the central nervous system.
+Deprenyl is metabolized to amphetamine and methylamphetamine in rats without producing a remarkable sign of psychostimulant activity.
+This could partly be due to the distribution properties of deprenyl e.g. low detectable level of radioactivity in the brain after 1-2 min and partly to the fact that from (-) -deprenyl (-) -amphetamines, which have less psychostimulant activity than the (+) -isomere, are formed.

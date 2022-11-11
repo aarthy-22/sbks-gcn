@@ -1,0 +1,17 @@
+T10	CHEMICAL 0 9	Auranofin
+T1	CHEMICAL 90 99	Auranofin
+T6	CHEMICAL 152 166	selenocysteine
+T15	GENE 152 174	selenocysteine enzymes
+T17	GENE 184 205	thioredoxin reductase
+T3	CHEMICAL 210 221	glutathione
+T12	GENE 210 232	glutathione peroxidase
+T4	CHEMICAL 362 371	Auranofin
+T13	GENE 504 525	thioredoxin reductase
+T5	CHEMICAL 530 541	glutathione
+T14	GENE 530 552	glutathione peroxidase
+T16	GENE 719 740	thioredoxin reductase
+T7	CHEMICAL 794 805	glutathione
+T8	CHEMICAL 866 875	auranofin
+T9	CHEMICAL 960 969	auranofin
+T11	GENE 1208 1217	caspase-3
+T2	CHEMICAL 1250 1259	Auranofin

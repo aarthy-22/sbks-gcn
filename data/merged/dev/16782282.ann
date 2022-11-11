@@ -1,0 +1,62 @@
+T18	CHEMICAL 14 27	retinoic acid
+T35	GENE-N 14 49	retinoic acid receptors alpha, beta
+T19	CHEMICAL 54 62	retinoid
+T36	GENE-Y 54 79	retinoid X receptor alpha
+T11	CHEMICAL 166 179	retinoic acid
+T6	CHEMICAL 318 331	retinoic acid
+T25	GENE-N 348 371	retinoic acid receptors
+T7	CHEMICAL 348 361	retinoic acid
+T26	GENE-N 376 396	retinoid X receptors
+T8	CHEMICAL 376 384	retinoid
+T27	GENE-N 578 601	retinoic acid receptors
+T9	CHEMICAL 578 591	retinoic acid
+T10	CHEMICAL 609 617	retinoid
+T28	GENE-Y 609 634	retinoid X receptor alpha
+T12	CHEMICAL 708 721	retinoic acid
+T29	GENE-Y 708 736	retinoic acid receptor alpha
+T13	CHEMICAL 738 751	retinoic acid
+T30	GENE-Y 738 765	retinoic acid receptor beta
+T14	CHEMICAL 770 778	retinoid
+T31	GENE-Y 770 795	retinoid X receptor alpha
+T15	CHEMICAL 893 906	retinoic acid
+T32	GENE-Y 893 921	retinoic acid receptor alpha
+T16	CHEMICAL 957 970	retinoic acid
+T33	GENE-Y 957 984	retinoic acid receptor beta
+T17	CHEMICAL 1060 1068	retinoid
+T34	GENE-N 1060 1078	retinoid receptors
+T1	CHEMICAL 1169 1182	retinoic acid
+T20	GENE-Y 1169 1197	retinoic acid receptor alpha
+T21	GENE-Y 1202 1227	retinoid X receptor alpha
+T2	CHEMICAL 1202 1210	retinoid
+T22	GENE-Y 1329 1354	retinoid X receptor alpha
+T3	CHEMICAL 1329 1337	retinoid
+T4	CHEMICAL 1476 1489	retinoic acid
+T23	GENE-N 1515 1534	neuregulin receptor
+T24	GENE-Y 1535 1540	ErbB3
+T5	CHEMICAL 1574 1587	retinoic acid
+R0	CPR-2 Arg1:T6 Arg2:T25
+R1	CPR-2 Arg1:T6 Arg2:T26
+R2	CPR-2 Arg1:T4 Arg2:T23
+R3	CPR-2 Arg1:T4 Arg2:T24
+R4	NOT Arg1:T18 Arg2:T36
+R5	NOT Arg1:T35 Arg2:T19
+R6	NOT Arg1:T25 Arg2:T8
+R7	NOT Arg1:T7 Arg2:T26
+R8	NOT Arg1:T27 Arg2:T10
+R9	NOT Arg1:T9 Arg2:T28
+R10	NOT Arg1:T12 Arg2:T30
+R11	NOT Arg1:T12 Arg2:T31
+R12	NOT Arg1:T29 Arg2:T13
+R13	NOT Arg1:T29 Arg2:T14
+R14	NOT Arg1:T13 Arg2:T31
+R15	NOT Arg1:T30 Arg2:T14
+R16	NOT Arg1:T15 Arg2:T33
+R17	NOT Arg1:T32 Arg2:T16
+R18	NOT Arg1:T1 Arg2:T21
+R19	NOT Arg1:T1 Arg2:T22
+R20	NOT Arg1:T20 Arg2:T2
+R21	NOT Arg1:T20 Arg2:T3
+R22	NOT Arg1:T21 Arg2:T3
+R23	NOT Arg1:T2 Arg2:T22
+R24	NOT Arg1:T23 Arg2:T5
+R25	NOT Arg1:T24 Arg2:T5

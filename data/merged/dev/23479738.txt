@@ -1,0 +1,10 @@
+Multilevel regulation of 2-cys peroxiredoxin reaction cycle by s-nitrosylation.
+S-Nitrosothiols (SNOs), formed by nitric oxide (NO)-mediated S-nitrosylation, and hydrogen peroxide (H2O2), a prominent reactive oxygen species, are implicated in diverse physiological and pathological processes.
+Recent research has shown that the cellular action and metabolism of SNOs and H2O2 involve overlapping, thiol-based mechanisms, but how these reactive species may affect each other's fate and function is not well understood.
+In this study we investigated how NO/SNO may affect the redox cycle of mammalian peroxiredoxin-1 (Prx1), a representative of the 2-Cys Prxs, a group of thioredoxin (Trx)-dependent peroxidases.
+We found that, both in a cell-free system and in cells, NO/SNO donors such as S-nitrosocysteine and S-nitrosoglutathione readily induced the S-nitrosylation of Prx1, causing structural and functional alterations.
+In particular, nitrosylation promoted disulfide formation involving the pair of catalytic cysteines (Cys-52 and Cys-173) and disrupted the oligomeric structure of Prx1, leading to loss of peroxidase activity.
+A highly potent inhibition of the peroxidase catalytic reaction by NO/SNO was seen in assays employing the coupled Prx-Trx system.
+In this setting, S-nitrosocysteine (10 μm) effectively blocked the Trx-mediated regeneration of oxidized Prx1.
+This effect appeared to be due to both competition between S-nitrosocysteine and Prx1 for the Trx system and direct modulation by S-nitrosocysteine of Trx reductase activity.
+Our findings that NO/SNO target both Prx and Trx reductase may have implications for understanding the impact of nitrosylation on cellular redox homeostasis.

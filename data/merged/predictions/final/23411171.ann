@@ -1,0 +1,13 @@
+T1	CHEMICAL 445 447	NO
+T6	GENE 452 475	tumor necrosis factor-α
+T7	GENE 477 482	TNF-α
+T8	GENE 629 637	catalase
+T9	GENE 639 642	CAT
+T2	CHEMICAL 645 655	superoxide
+T10	GENE 645 665	superoxide dismutase
+T11	GENE 667 670	SOD
+T3	CHEMICAL 677 688	glutathione
+T12	GENE 677 699	glutathione peroxidase
+T13	GENE 701 704	GPX
+T4	CHEMICAL 757 768	acetic acid
+T5	CHEMICAL 800 808	formalin

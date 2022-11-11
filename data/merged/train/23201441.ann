@@ -1,0 +1,20 @@
+T6	CHEMICAL 80 89	quinolone
+T2	CHEMICAL 292 301	ofloxacin
+T3	CHEMICAL 303 307	OFLX
+T4	CHEMICAL 356 360	OFLX
+T11	GENE-Y 621 675	tumor necrosis factor receptor superfamily, member 12a
+T12	GENE-Y 677 686	Tnfrsf12a
+T5	CHEMICAL 689 702	prostaglandin
+T13	GENE-Y 689 726	prostaglandin-endoperoxide synthase 2
+T14	GENE-Y 728 733	Ptgs2
+T15	GENE-N 736 757	plasminogen activator
+T16	GENE-Y 759 777	urokinase receptor
+T17	GENE-Y 779 784	Plaur
+T18	GENE-Y 791 817	matrix metalloproteinase 3
+T19	GENE-Y 819 823	Mmp3
+T7	GENE-Y 1304 1313	Tnfrsf12a
+T8	GENE-Y 1315 1320	Ptgs2
+T9	GENE-Y 1322 1327	Plaur
+T10	GENE-Y 1333 1337	Mmp3
+T1	CHEMICAL 1368 1372	OFLX
+R0	NOT Arg1:T5 Arg2:T19

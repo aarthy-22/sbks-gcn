@@ -1,0 +1,38 @@
+T32	CHEMICAL 37 46	glutamine
+T38	GENE-Y 37 69	glutamine/amino acid transporter
+T33	CHEMICAL 47 57	amino acid
+T9	CHEMICAL 176 185	glutamine
+T36	GENE-Y 176 208	glutamine/amino acid transporter
+T2	CHEMICAL 186 196	amino acid
+T10	CHEMICAL 616 625	glutamine
+T37	GENE-Y 616 648	glutamine/amino acid transporter
+T11	CHEMICAL 626 636	amino acid
+T12	CHEMICAL 729 732	Na+
+T13	CHEMICAL 776 795	sulfhydryl reagents
+T14	CHEMICAL 796 801	HgCl2
+T15	CHEMICAL 803 811	mersalyl
+T16	CHEMICAL 816 840	p-hydroxymercuribenzoate
+T17	CHEMICAL 849 860	amino acids
+T18	CHEMICAL 861 868	alanine
+T19	CHEMICAL 870 876	serine
+T20	CHEMICAL 878 887	threonine
+T21	CHEMICAL 889 897	cysteine
+T22	CHEMICAL 899 909	asparagine
+T23	CHEMICAL 911 921	methionine
+T24	CHEMICAL 926 932	valine
+T25	CHEMICAL 979 989	amino acid
+T26	CHEMICAL 999 1021	methylaminoisobutyrate
+T27	CHEMICAL 1037 1046	Glutamine
+T28	CHEMICAL 1048 1055	alanine
+T29	CHEMICAL 1057 1063	serine
+T30	CHEMICAL 1065 1075	asparagine
+T31	CHEMICAL 1077 1086	threonine
+T1	CHEMICAL 1284 1293	glutamine
+T3	CHEMICAL 1672 1681	glutamine
+T4	CHEMICAL 1739 1748	glutamine
+T5	CHEMICAL 1794 1818	nucleoside triphosphates
+T6	CHEMICAL 1846 1858	pyrophoshate
+T7	CHEMICAL 1878 1887	glutamine
+T34	GENE-Y 1878 1910	glutamine/amino acid transporter
+T8	CHEMICAL 1888 1898	amino acid
+T35	GENE-Y 1943 1948	ASCT2

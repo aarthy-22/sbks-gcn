@@ -1,0 +1,3 @@
+Example 35
+N-[4-(6-fluoro-1H-indol-3-yl)phenyl]-3-hydroxy-3-methyl-butanamide
+This compound was prepared from Intermediate 5 and 3-hydroxy-3-methyl-butanoic acid according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (9.6 mg, 35%). Data: LCMS (B) Rt : 10.577 min; m/z 327.1 (M+H)+.

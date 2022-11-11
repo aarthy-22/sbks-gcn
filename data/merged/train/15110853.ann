@@ -1,0 +1,20 @@
+T19	GENE-N 0 18	Carbonic anhydrase
+T12	CHEMICAL 31 69	aromatic and heterocyclic sulfonamides
+T13	CHEMICAL 84 93	adamantyl
+T2	CHEMICAL 152 186	aromatic/heterocyclic sulfonamides
+T10	CHEMICAL 201 210	adamantyl
+T1	CHEMICAL 249 288	aromatic/heterocyclic aminosulfonamides
+T3	CHEMICAL 298 312	acyl chlorides
+T4	CHEMICAL 326 353	adamantyl-1-carboxylic acid
+T5	CHEMICAL 358 381	1-adamantyl-acetic acid
+T6	CHEMICAL 442 459	aminosulfonamides
+T7	CHEMICAL 465 485	adamantyl isocyanate
+T8	CHEMICAL 490 514	adamantyl isothiocyanate
+T14	GENE-N 599 607	human CA
+T15	GENE-Y 664 668	CA I
+T16	GENE-Y 674 679	CA II
+T9	CHEMICAL 741 754	acetazolamide
+T11	CHEMICAL 759 772	methazolamide
+T17	GENE-N 804 806	CA
+T18	GENE-N 1060 1062	CA
+R0	CPR-4 Arg1:T11 Arg2:T14

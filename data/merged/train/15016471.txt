@@ -1,0 +1,23 @@
+The role of glutamine transaminase K (GTK) in sulfur and alpha-keto acid metabolism in the brain, and in the possible bioactivation of neurotoxicants.
+Glutamine transaminase K (GTK), which is a freely reversible glutamine (methionine) aromatic amino acid aminotransferase, is present in most mammalian tissues, including brain.
+Quantitatively, the most important amine donor in vivo is glutamine.
+The product of glutamine transamination (i.e., alpha-ketoglutaramate; alphaKGM) is rapidly removed by cyclization and/or conversion to alpha-ketoglutarate.
+Transamination is therefore "pulled" in the direction of glutamine utilization.
+Major biological roles of GTK are to maintain low levels of phenylpyruvate and to close the methionine salvage pathway.
+GTK also catalyzes the transamination of cystathionine, lanthionine, and thialysine to the corresponding alpha-keto acids, which cyclize to ketimines.
+The cyclic ketimines and several metabolites derived therefrom are found in brain.
+It is not clear whether these compounds have a biological function or are metabolic dead-ends.
+However, high-affinity binding of lanthionine ketimine (LK) to brain membranes has been reported.
+Mammalian tissues possess several enzymes capable of catalyzing transamination of kynurenine in vitro.
+Two of these kynurenine aminotransferases (KATs), namely KAT I and KAT II, are present in brain and have been extensively studied.
+KAT I and KAT II are identical to GTK and alpha-aminoadipate aminotransferase, respectively.
+GTK/KAT I is largely cytosolic in kidney, but mostly mitochondrial in brain.
+The same gene codes for both forms, but alternative splicing dictates whether a 32-amino acid mitochondrial-targeting sequence is present in the expressed protein.
+The activity of KAT I is altered by a missense mutation (E61G) in the spontaneously hypertensive rat.
+The symptoms may be due in part to alteration of kynurenine transamination.
+However, owing to strong competition from other amino acid substrates, the turnover of kynurenine to kynurenate by GTK/KAT I in nervous tissue must be slow unless kynurenine and GTK are sequestered in a compartment distinct from the major amino acid pools.
+The possibility is discussed that the spontaneous hypertension in rats carrying the GTK/KAT I mutation may be due in part to disruption of glutamine transamination.
+GTK is one of several pyridoxal 5'-phosphate (PLP)-containing enzymes that can catalyze non-physiological beta-elimination reactions with cysteine S-conjugates containing a good leaving group attached at the sulfur.
+These elimination reactions may contribute to the bioactivation of certain electrophiles, resulting in toxicity to kidney, liver, brain, and possibly other organs.
+On the other hand, the beta-lyase reaction catalyzed by GTK may be useful in the conversion of some cysteine S-conjugate prodrugs to active components in vivo.
+The roles of GTK in (a) brain nitrogen, sulfur, and aromatic amino acid/kynurenine metabolism, (b) brain alpha-keto acid metabolism, (c) bioactivation of certain electrophiles in brain, (d) prodrug targeting, and (e) maintenance of normal blood pressure deserve further study.

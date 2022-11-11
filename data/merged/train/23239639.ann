@@ -1,0 +1,14 @@
+T8	CHEMICAL 13 22	maleimide
+T9	CHEMICAL 38 42	HPMA
+T12	GENE-N 102 122	human immunoglobulin
+T13	GENE-N 124 129	huIgG
+T1	CHEMICAL 256 260	HPMA
+T2	CHEMICAL 335 344	maleimide
+T3	CHEMICAL 360 400	poly(N-(2-hydroxypropyl)-methacrylamide)
+T4	CHEMICAL 402 411	poly-HPMA
+T5	CHEMICAL 514 544	pentafluorophenyl methacrylate
+T6	CHEMICAL 587 592	ester
+T10	GENE-N 779 799	human immunoglobulin
+T11	GENE-N 801 806	huIgG
+T7	CHEMICAL 870 873	SDS
+R0	NOT Arg1:T9 Arg2:T13

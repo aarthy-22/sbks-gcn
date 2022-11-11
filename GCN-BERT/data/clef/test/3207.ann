@@ -1,0 +1,23 @@
+T1	EXAMPLE_LABEL 8 9	6
+T2	REACTION_PRODUCT 26 140	sodium (2S,5R)-2-((2-methyl-2-azaspiro[3.3]heptan-6-yl)carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octa n-6-yl sulfate
+T3	REACTION_PRODUCT 142 153	sodium salt
+T4	REACTION_PRODUCT 166 167	6
+T5	EXAMPLE_LABEL 181 182	1
+T6	REACTION_PRODUCT 199 256	tert-butyl (2-methyl-2-azaspiro[3.3]heptan-6-yl)carbamate
+T7	REACTION_PRODUCT 257 303	Tert-butyl 2-azaspiro[3.3]heptan-6-ylcarbamate
+T8	SOLVENT 338 353	dichloromethane
+T9	TEMPERATURE 372 375	0°C
+T10	REAGENT_CATALYST 381 401	formaldehyde aqueous
+T11	REAGENT_CATALYST 451 462	acetic acid
+T12	REAGENT_CATALYST 487 510	sodium cyanoborohydride
+T13	TEMPERATURE 598 614	room temperature
+T14	TIME 619 621	2h
+T15	OTHER_COMPOUND 641 656	dichloromethane
+T16	OTHER_COMPOUND 678 683	water
+T17	OTHER_COMPOUND 716 730	sodium sulfate
+T18	OTHER_COMPOUND 790 800	silica gel
+T19	OTHER_COMPOUND 824 839	dichloromethane
+T20	OTHER_COMPOUND 842 850	methanol
+T21	REACTION_PRODUCT 880 894	title compound
+T22	YIELD_OTHER 913 919	900 mg
+T23	YIELD_PERCENT 927 932	84.0%

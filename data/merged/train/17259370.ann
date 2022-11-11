@@ -1,0 +1,40 @@
+T17	CHEMICAL 0 13	Rosiglitazone
+T19	CHEMICAL 23 31	acyl-CoA
+T35	GENE-N 23 42	acyl-CoA synthetase
+T20	CHEMICAL 56 66	fatty acid
+T21	CHEMICAL 83 97	diacylglycerol
+T18	CHEMICAL 102 117	triacylglycerol
+T34	GENE-Y 124 172	peroxisome proliferator-activated receptor-gamma
+T1	CHEMICAL 250 263	Rosiglitazone
+T27	GENE-Y 388 443	peroxisome proliferator-activated receptor (PPAR)-gamma
+T7	CHEMICAL 445 458	rosiglitazone
+T8	CHEMICAL 525 544	long-chain acyl-CoA
+T28	GENE-Y 525 564	long-chain acyl-CoA synthetase (ACSL)-4
+T29	GENE-N 600 605	ACSL4
+T9	CHEMICAL 697 710	rosiglitazone
+T30	GENE-N 722 726	ACSL
+T10	CHEMICAL 740 750	fatty acid
+T31	GENE-N 891 896	Acsl4
+T11	CHEMICAL 902 915	rosiglitazone
+T32	GENE-N 926 930	Acsl
+T12	CHEMICAL 969 982	rosiglitazone
+T13	CHEMICAL 1017 1028	fatty acids
+T14	CHEMICAL 1076 1086	fatty acid
+T15	CHEMICAL 1105 1119	diacylglycerol
+T16	CHEMICAL 1124 1139	triacylglycerol
+T33	GENE-Y 1180 1190	PPAR-gamma
+T22	GENE-Y 1261 1266	ACSL4
+T23	GENE-N 1302 1306	ACSL
+T2	CHEMICAL 1356 1366	fatty acid
+T3	CHEMICAL 1408 1421	rosiglitazone
+T24	GENE-N 1431 1435	ACSL
+T4	CHEMICAL 1449 1459	fatty acid
+T25	GENE-N 1533 1543	PPAR-gamma
+T26	GENE-N 1591 1596	ACSL4
+T5	CHEMICAL 1620 1633	rosiglitazone
+T6	CHEMICAL 1672 1683	fatty acids
+R0	CPR-4 Arg1:T17 Arg2:T35
+R1	CPR-4 Arg1:T3 Arg2:T24
+R2	NOT Arg1:T19 Arg2:T34
+R3	NOT Arg1:T12 Arg2:T33
+R4	NOT Arg1:T4 Arg2:T25

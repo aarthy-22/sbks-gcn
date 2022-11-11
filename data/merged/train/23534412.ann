@@ -1,0 +1,12 @@
+T7	CHEMICAL 47 55	coumarin
+T8	CHEMICAL 67 188	3-(5-hydroxy-2,2-dimethyl-chroman-6-yl)-N-{2-[3-(5-hydroxy-2,2-dimethyl-chroman-6-yl)-propionylamino]-ethyl}-propionamide
+T1	CHEMICAL 334 341	seselin
+T9	GENE-N 510 518	collagen
+T2	CHEMICAL 524 535	epinephrine
+T3	CHEMICAL 597 613	arachidonic acid
+T4	CHEMICAL 728 743	ferric chloride
+T5	CHEMICAL 888 891	ADP
+T10	GENE-N 896 904	collagen
+T6	CHEMICAL 1163 1166	ADP
+T11	GENE-N 1171 1179	collagen
+R0	NOT Arg1:T6 Arg2:T11

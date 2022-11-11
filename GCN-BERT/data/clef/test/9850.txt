@@ -1,0 +1,5 @@
+Example 29
+(2S)-3-(4-(4-(4-(6-fluoro-5H-imidazo[5,1-a]isoindol-5-yl)piperidin-1-yl)phenyl)-1H-pyr azol-1-yl)propane-1,2-diol
+Step 1
+(S)-1-((2,2-dimethyl-1,3-dioxolan-4-yl)methyl)-4-(4,4,5,5-tetramethyl-1,3,2-dioxaboro lan-2-yl)-1H-pyrazole 29c
+4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-1H-pyrazole 29a (1 g, 5.15 mmol) was dissolved in 6 mL of N,N-dimethylformamide, then sodium hydride (250 mg, 60%) was added at room temperature. After the reaction was stirred for 20 mins at room temperature, (R)-4-(chloromethyl)-2,2-dimethyl-1,3-dioxolane 29b (1.164 g, 7.73 mmol) was added. The reaction was warmed up to 100°C and stirred for 12 hours. After cooling to room temperature, the mixture was concentrated under reduced pressure, and the resulting residue was purified by silica gel column chromatography with elution system A to obtain the title compound 29c (790 mg, yield 50%) as a yellow oil.

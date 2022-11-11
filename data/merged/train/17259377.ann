@@ -1,0 +1,28 @@
+T15	CHEMICAL 0 10	Salicylate
+T12	CHEMICAL 128 135	aspirin
+T8	CHEMICAL 397 407	salicylate
+T9	CHEMICAL 421 428	aspirin
+T10	CHEMICAL 430 447	sodium salicylate
+T11	CHEMICAL 453 466	sulfasalazine
+T26	GENE-N 589 603	cyclooxygenase
+T27	GENE-N 636 657	nuclear factor-kappaB
+T28	GENE-N 659 668	NF-kappaB
+T13	CHEMICAL 900 910	salicylate
+T14	CHEMICAL 1083 1094	salicylates
+T1	CHEMICAL 1184 1191	aspirin
+T2	CHEMICAL 1220 1230	salicylate
+T16	GENE-N 1278 1287	NF-kappaB
+T3	CHEMICAL 1437 1448	salicylates
+T17	GENE-Y 1497 1500	p50
+T18	GENE-N 1515 1524	NF-kappaB
+T19	GENE-Y 1627 1630	p50
+T20	GENE-Y 1635 1638	p65
+T4	CHEMICAL 1738 1751	Sulfasalazine
+T5	CHEMICAL 1785 1796	salicylates
+T21	GENE-N 1904 1913	NF-kappaB
+T22	GENE-Y 1958 1991	intracellular adhesion molecule-1
+T23	GENE-Y 1993 2024	inducible nitric oxide synthase
+T6	CHEMICAL 2003 2015	nitric oxide
+T24	GENE-Y 2030 2046	cyclooxygenase-2
+T7	CHEMICAL 2072 2083	Salicylates
+T25	GENE-N 2138 2146	NF-kappa

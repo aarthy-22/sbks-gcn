@@ -1,0 +1,5 @@
+PF-04859989 as a template for structure-based drug design: identification of new pyrazole series of irreversible KAT II inhibitors with improved lipophilic efficiency.
+The structure-based design, synthesis, and biological evaluation of a new pyrazole series of irreversible KAT II inhibitors are described herein.
+The modification of the inhibitor scaffold of 1 and 2 from a dihydroquinolinone core to a tetrahydropyrazolopyridinone core led to discovery of a new series of potent KAT II inhibitors with excellent physicochemical properties.
+Compound 20 is the most potent and lipophilically efficient of these new pyrazole analogs, with a k(inact)/K(i) value of 112,000 M(-1)s(-1) and lipophilic efficiency (LipE) of 8.53.
+The X-ray crystal structure of 20 with KAT II demonstrates key features that contribute to this remarkable potency and binding efficiency.

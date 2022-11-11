@@ -1,0 +1,2 @@
+Synthesis Example 7: Synthesis of Compound 27
+Compound 27 (7.2 g, a yield of 85%) was obtained according to the same method as Synthesis Example 1 except for using N-phenyl3-bromoparabiphenyl instead of the bromobenzene in Step 1 of Synthesis Example 1 and 3-bromodibenzofuran in Step 2 thereof calcd. C54H32N2O: C, 89.48; H, 4.45; N, 3.86; 0, 2.21; found: C, 89.48; H, 4.45; N, 3.86; O, 2.20.

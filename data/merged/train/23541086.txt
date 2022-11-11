@@ -1,0 +1,13 @@
+T-Cells from HLA-B*57:01+ Human Subjects Are Activated with Abacavir through Two Independent Pathways and Induce Cell Death by Multiple Mechanisms.
+Susceptibility to abacavir hypersensitivity has been attributed to possession of the specific human leukocyte antigen allele HLA-B*57:01.
+HLA-B*57:01-restricted activation of CD8+ T-cells provides a link between the genetic association and the iatrogenic disease.
+The objectives of this study were to characterize the functionality of drug-responsive CD8+ T-cell clones generated from HLA-B*57:01+ drug-naive subjects and to explore the relationship between abacavir accumulation in antigen presenting cells and the T-cell response.
+Seventy-four CD8+ clones expressing different Vβ receptors were shown to proliferate and kill target cells via different mechanisms when exposed to abacavir.
+Certain clones were activated with abacavir in the absence of antigen presenting cells.
+Analysis of the remaining clones revealed two pathways of drug-dependent T-cell activation.
+Overnight incubation of antigen presenting cells with abacavir, followed by repeated washing to remove soluble drug, activated approximately 50% of the clones, and the response was blocked by glutaraldehyde fixation.
+In contrast, a 1 h antigen presenting cell pulse did not activate any of the clones.
+Accumulation of abacavir in antigen presenting cells was rapid (less than 1 h), and the intracellular concentrations were maintained for 16 h. However, intracellular abacavir was not detectable by mass spectrometry after pulsing.
+These data suggest that T-cells can be activated by abacavir through a direct interaction with surface and intracellular major histocompatibility complex (MHC) molecules.
+With the former, abacavir seemingly participates in the MHC T-cell receptor binding interaction.
+In contrast, the latter pathway likely involves MHC binding peptides displayed as a consequence of abacavir exposure, but not abacavir itself.

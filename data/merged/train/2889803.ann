@@ -1,0 +1,23 @@
+T17	CHEMICAL 0 14	Benzodiazepine
+T21	GENE-N 0 23	Benzodiazepine receptor
+T19	CHEMICAL 35 58	triazolobenzodiazepines
+T18	CHEMICAL 108 118	alprazolam
+T1	CHEMICAL 120 143	Triazolobenzodiazepines
+T2	CHEMICAL 259 269	alprazolam
+T3	CHEMICAL 271 280	triazolam
+T7	CHEMICAL 286 295	estazolam
+T9	CHEMICAL 497 510	[3H]Ro15-1788
+T10	CHEMICAL 547 556	estazolam
+T11	CHEMICAL 561 570	triazolam
+T12	CHEMICAL 662 671	Triazolam
+T13	CHEMICAL 761 770	estazolam
+T14	CHEMICAL 791 801	alprazolam
+T15	CHEMICAL 848 861	[3H]Ro15-1788
+T16	CHEMICAL 950 960	alprazolam
+T4	CHEMICAL 1638 1652	benzodiazepine
+T20	GENE-N 1638 1662	benzodiazepine receptors
+T5	CHEMICAL 1667 1677	clonazepam
+T6	CHEMICAL 1696 1706	alprazolam
+T8	CHEMICAL 1815 1825	alprazolam
+R0	CPR-2 Arg1:T19 Arg2:T21
+R1	NOT Arg1:T20 Arg2:T6

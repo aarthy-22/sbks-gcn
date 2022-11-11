@@ -1,0 +1,20 @@
+T18	GENE-Y 16 36	beta 1-adrenoceptors
+T10	CHEMICAL 53 64	desipramine
+T13	GENE-N 151 168	beta-adrenoceptor
+T6	CHEMICAL 188 199	desipramine
+T3	CHEMICAL 282 297	Desipramine HCl
+T4	CHEMICAL 527 548	(+/- )propranolol HCl
+T14	GENE-N 580 597	beta-adrenoceptor
+T5	CHEMICAL 642 653	desipramine
+T7	CHEMICAL 761 775	ICI118,551 HCl
+T15	GENE-Y 808 827	beta 2-adrenoceptor
+T8	CHEMICAL 948 967	metoprolol tartrate
+T16	GENE-Y 998 1017	beta 1-adrenoceptor
+T9	CHEMICAL 1059 1074	clenbuterol HCl
+T17	GENE-Y 1109 1128	beta 2-adrenoceptor
+T1	CHEMICAL 1255 1266	desipramine
+T2	CHEMICAL 1328 1337	yohimbine
+T11	GENE-N 1342 1362	alpha 2-adrenoceptor
+T12	GENE-Y 1436 1455	beta 2-adrenoceptor
+R0	CPR-6 Arg1:T4 Arg2:T14
+R1	NOT Arg1:T2 Arg2:T12

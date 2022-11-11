@@ -1,0 +1,29 @@
+T29	GENE-Y 25 47	porcine aminoacylase 1
+T5	CHEMICAL 105 115	amino acid
+T23	GENE-Y 128 142	aminoacylase 1
+T12	CHEMICAL 144 160	N-acylamino acid
+T25	GENE-Y 144 175	N-acylamino acid aminohydrolase
+T17	GENE-Y 177 182	ACY-1
+T18	GENE-Y 185 196	EC 3.5.1.14
+T21	GENE-N 209 223	metalloprotein
+T2	CHEMICAL 235 239	Zn2+
+T3	CHEMICAL 292 316	N-acylated L-amino acids
+T4	CHEMICAL 324 339	L-aspartic acid
+T6	CHEMICAL 462 463	N
+T7	CHEMICAL 469 470	C
+T8	CHEMICAL 480 490	amino acid
+T22	GENE-Y 544 564	porcine kidney ACY-1
+T9	CHEMICAL 663 674	amino acids
+T10	CHEMICAL 680 693	acetylalanine
+T11	CHEMICAL 701 702	N
+T24	GENE-Y 729 748	porcine liver ACY-1
+T13	CHEMICAL 770 780	amino acid
+T14	CHEMICAL 807 817	nucleotide
+T26	GENE-Y 892 912	porcine kidney ACY-1
+T27	GENE-Y 952 957	ACY-1
+T15	CHEMICAL 1026 1036	amino acid
+T28	GENE-Y 1049 1062	porcine ACY-1
+T16	GENE-N 1083 1110	Zn2+-binding metalloenzymes
+T1	CHEMICAL 1083 1087	Zn2+
+T19	GENE-Y 1251 1256	ACY-1
+T20	GENE-N 1274 1288	metalloprotein

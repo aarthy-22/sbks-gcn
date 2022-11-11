@@ -1,0 +1,10 @@
+Heterobivalent dual-target probe for targeting GRP and Y1 receptors on tumor cells.
+Receptor targeting ligands for imaging and/or therapy of cancer are limited by heterogeneity of receptor expression by tumor cells, both inter-patient and intra-patient.
+It is often more important for imaging agents to identify local and distant spread of disease than it is to identify a specific receptor presence.
+Two natural hormone peptide receptors, GRPR and Y1, are specifically interesting because expression of GRPR, Y1 or both is up-regulated in most breast cancers.
+We describe here the design and development of a new heterobivalent peptide ligand, truncated bombesin (t-BBN)/BVD15-DO3A, for dual-targeting of GRPR and Y1, and validation of its dual binding capability.
+Such a probe should be useful in imaging cells, tissues and tumors that are GRPR and/or Y1 positive and should target radioisotopes, for example, (68)Ga and/or (177)Lu, to more tumors cells than single GRPR or Y1 targeted probes.
+A GRP targeting ligand, J-G-Abz4-QWAVGHLM-NH(2) (J-G-Abz4-t-BBN), and an Y1 targeting ligand, INP-K[ε-J-(α-DO3A-ε-DGa)-K]-YRLRY-NH(2)([ε-J-(α-DO3A-ε-DGa)-K]-BVD-15), were synthesized and coupled to produce the heterobivalent ligand, t-BBN/BVD15-DO3A.
+Competitive displacement binding assays using t-BBN/BVD15-DO3A against (125)I-Tyr(4)-BBN yielded an IC(50) value of 18 ± 0.7 nM for GRPR in T-47D cells, a human breast cancer cell line.
+A similar assay using t-BBN/BVD15-DO3A against porcine (125)I-NPY showed IC(50) values of 80 ± 11 nM for Y1 receptor in MCF7 cells, another human breast cancer cell line.
+In conclusion, it is possible to construct a single DO3A chelate containing probe that can target both GRPR and Y1 on human tumor cells.

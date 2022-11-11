@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 8 9	4
+T2	REACTION_PRODUCT 11 104	(R)-2-azido-1-(3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-yl)ethane-1-one
+T3	STARTING_MATERIAL 115 133	2-azidoacetic acid
+T4	SOLVENT 211 232	N,N-dimethylformamide
+T5	STARTING_MATERIAL 250 274	dicyclohexylcarbodiimide
+T6	REAGENT_CATALYST 291 316	N,N-diisopropylethylamine
+T7	TIME 380 390	15 minutes
+T8	STARTING_MATERIAL 402 471	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T9	STARTING_MATERIAL 554 572	2-azidoacetic acid
+T10	TEMPERATURE 617 625	refluxed
+T11	TEMPERATURE 668 684	room temperature
+T12	OTHER_COMPOUND 713 724	Celite™ 545
+T13	OTHER_COMPOUND 879 883	MeOH
+T14	OTHER_COMPOUND 884 892	CH2Cl2=2
+T15	YIELD_OTHER 1005 1012	19.3 mg
+T16	REACTION_PRODUCT 1016 1109	(R)-2-azido-1-(3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-yl)ethane-1-one
+T17	YIELD_PERCENT 1145 1150	5.27%

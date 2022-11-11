@@ -1,0 +1,9 @@
+Mechanism of organophosphates (nerve gases and pesticides) and antidotes: electron transfer and oxidative stress.
+Evidence indicates that nerve gas toxins operate in ways in addition to inhibition of acetylcholine esterase.
+Alternative bioactivities are discussed with focus on electron transfer.
+The main class, including pralidoxime (2-PAM), incorporates conjugated iminium and oxime moieties that are electron affinic.
+Various physiological properties of iminium and oxime species are reviewed.
+The organophosphates encompass both nerve gases and insecticides, possessing similar properties, but different activities.
+Toxic manifestations are apparently due, in part, to oxidative stress.
+Alkylation of DNA takes place which may lead to generation of reactive oxygen species.
+Structure-activity relationships are examined, including reduction potentials and the captodative effect.

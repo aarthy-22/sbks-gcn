@@ -1,0 +1,33 @@
+T1	TEMPERATURE 1058 1074	room temperature
+T2	TIME 834 840	30 min
+T3	REAGENT_CATALYST 723 760	lithium 2,2,6,6-tetramethylpiperidine
+T4	OTHER_COMPOUND 1345 1358	ethyl acetate
+T5	YIELD_OTHER 1402 1407	6.2 g
+T6	REACTION_PRODUCT 250 345	(Z)-3,5-dichloro-2-(1-(2-(1-(2,4-dichlorophenyl)ethyl) hydrazono)-2,2,2-trifluoroethyl)pyrazine
+T7	OTHER_COMPOUND 1134 1141	ethanol
+T8	STARTING_MATERIAL 626 646	2,6-dichloropyrazine
+T9	REAGENT_CATALYST 453 459	n-BuLi
+T10	TIME 891 897	30 min
+T11	EXAMPLE_LABEL 8 10	10
+T12	TIME 541 547	30 min
+T13	SOLVENT 419 422	THF
+T14	STARTING_MATERIAL 907 959	(1-(2,4-dichlorophenyl)ethyl)hydrazine hydrochloride
+T15	OTHER_COMPOUND 1308 1318	silica gel
+T16	TEMPERATURE 529 535	−40° C
+T17	TEMPERATURE 879 885	−90° C
+T18	EXAMPLE_LABEL 148 149	1
+T19	REAGENT_CATALYST 363 392	2,2,6,6-tetramethylpiperidine
+T20	YIELD_PERCENT 1409 1412	21%
+T21	OTHER_COMPOUND 1362 1369	hexanes
+T22	SOLVENT 684 687	THF
+T23	TEMPERATURE 435 441	−40° C
+T24	STARTING_MATERIAL 787 807	2,6-dichloropyrazine
+T25	STARTING_MATERIAL 570 598	ethyl 2,2,2-trifluoroacetate
+T26	REACTION_PRODUCT 1386 1400	title compound
+T27	OTHER_COMPOUND 11 142	1-(1-(2,4-Dichlorophenyl)ethyl)-6-(3'-methyl-[1,4'-bipiperidin]-1'-yl)-3-(trifluoromethyl)-1H-pyrazolo[3,4-b]pyrazine hydrochloride
+T28	TIME 1213 1217	24 h
+T29	TEMPERATURE 1192 1208	room temperature
+T30	SOLVENT 470 477	hexanes
+T31	REACTION_PRODUCT 151 245	(E)-3,5-Dichloro-2-(1-(2-(1-(2,4-dichlorophenyl)ethyl)hydrazono)-2,2,2-trifluoroethyl)pyrazine
+T32	TEMPERATURE 844 850	−90° C
+T33	TEMPERATURE 711 717	−90° C

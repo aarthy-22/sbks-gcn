@@ -1,0 +1,9 @@
+N-acetylgalactosamine functionalized mixed micellar nanoparticles for targeted delivery of siRNA to liver.
+Due to its efficient and specific gene silencing ability, RNA interference has shown great potential in the treatment of liver diseases.
+However, achieving in vivo delivery of siRNA to critical liver cells remains the biggest obstacle for this technique to be a real clinic therapeutic modality.
+Here, we describe a promising liver targeting siRNA delivery system based on N-acetylgalactosamine functionalized mixed micellar nanoparticles (Gal-MNP), which can efficiently deliver siRNA to hepatocytes and silence the target gene expression after systemic administration.
+The Gal-MNP were assembled in aqueous solution from mixed N-acetylgalactosamine functionalized poly(ethylene glycol)-b-poly(ε-caprolactone) and cationic poly(ε-caprolactone)-b-poly(2-aminoethyl ethylene phosphate) (PCL-b-PPEEA); the properties of nanoparticles, including particle size, zeta potential and the density of poly(ethylene glycol) could be easily regulated.
+The hepatocyte-targeting effect of Gal-MNP was demonstrated by significant enriching of fluorescent siRNA in primary hepatocytes in vitro and in vivo.
+Successful down-regulation of liver-specific apolipoprotein B (apoB) expression was achieved in mouse liver, at both the transcriptional and protein level, following intravenous injection of Gal-MNP/siapoB to BALB/c mice.
+Systemic delivery of Gal-MNP/siRNA did not induce the innate immune response or positive hepatotoxicity.
+The results of this study suggested therapeutic potential for the Gal-MNP/siRNA system in liver disease.

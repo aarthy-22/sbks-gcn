@@ -1,0 +1,39 @@
+T22	CHEMICAL 0 9	Vitamin E
+T38	GENE 33 59	somatostatinergic receptor
+T23	CHEMICAL 89 104	phosphotyrosine
+T39	GENE 89 116	phosphotyrosine phosphatase
+T1	CHEMICAL 171 180	Vitamin E
+T12	CHEMICAL 496 508	α-tocopherol
+T13	CHEMICAL 546 576	cyclic adenosine monophosphate
+T33	GENE 546 609	cyclic adenosine monophosphate response element binding protein
+T14	CHEMICAL 686 697	tocopherols
+T15	CHEMICAL 725 734	vitamin E
+T16	CHEMICAL 736 748	somatostatin
+T34	GENE 736 748	somatostatin
+T17	CHEMICAL 854 864	tocopherol
+T18	CHEMICAL 872 884	somatostatin
+T35	GENE 872 884	somatostatin
+T19	CHEMICAL 963 975	somatostatin
+T36	GENE 963 975	somatostatin
+T20	CHEMICAL 1004 1013	vitamin-E
+T21	CHEMICAL 1088 1100	somatostatin
+T37	GENE 1088 1109	somatostatin receptor
+T2	CHEMICAL 1215 1227	somatostatin
+T24	GENE 1215 1237	somatostatin receptors
+T3	CHEMICAL 1253 1262	vitamin E
+T4	CHEMICAL 1302 1314	somatostatin
+T25	GENE 1302 1324	somatostatin receptors
+T5	CHEMICAL 1352 1360	adenylyl
+T6	CHEMICAL 1373 1388	phosphotyrosine
+T26	GENE 1373 1400	phosphotyrosine phosphatase
+T27	GENE 1416 1426	Gi protein
+T7	CHEMICAL 1455 1464	vitamin E
+T8	CHEMICAL 1500 1515	phosphotyrosine
+T28	GENE 1500 1527	phosphotyrosine phosphatase
+T29	GENE 1541 1545	PTPη
+T30	GENE 1569 1573	PKCδ
+T31	GENE 1600 1637	extracellular-signal-regulated kinase
+T9	CHEMICAL 1740 1752	α-tocopherol
+T10	CHEMICAL 1885 1894	vitamin E
+T11	CHEMICAL 1914 1926	somatostatin
+T32	GENE 1914 1935	somatostatin receptor

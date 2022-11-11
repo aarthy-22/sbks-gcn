@@ -1,0 +1,11 @@
+Modulation of activity and inhibitor sensitivity of rabbit aldose reductase-like protein (AKR1B19) by oxidized glutathione and SH-reagents.
+Rabbit aldo-keto reductase (AKR) 1B19 is an ortholog of human aldose reductase-like protein (ARLP), AKR1B10, showing 86% amino acid sequence identity.
+AKR1B19 exhibits the highest catalytic efficiency for 4-oxo-2-nonenal, a major product of lipid peroxidation, compared to known reductases of this aldehyde.
+In this study, we found that the reductase activity of AKR1B19 was activated to about 5-fold immediately after the addition of 10 μM SH-reagents (p-chloromercuriphenylsulfonic acid and p-chloromercuribenzoic acid) in the absence or presence of NADPH.
+In addition, a maximum of 3-fold activation of AKR1B19 was induced by incubation with glutathione disulfide (GSSG) for 1h.
+The activated enzyme was converted into the native enzyme by further incubation with dithiothreitol and glutathione.
+The activation was abolished by the C299S mutation of AKR1B19, and the glutathionylated Cys299 was identified by mass spectrometry analysis.
+The Cys299-modified enzyme displayed different kinetic alterations depending on substrates and inhibitors.
+In the reduction of 4-oxo-2-nonenal, the catalytic efficiency was increased.
+Thus, AKR1B10 may be modulated by cellular ratio of GSSG/glutathione and more efficiently act as a detoxifying enzyme for the cytotoxic aldehyde under oxidatively stressed conditions.
+Furthermore, such an activity alteration by GSSG was not detected in AKR1B10 and rat ARLPs, suggesting the presence of a GSSG-binding site near Cys299 in AKR1B19.

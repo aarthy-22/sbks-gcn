@@ -1,0 +1,3 @@
+Example 2
+4-(6-Fluoro-1H-indol-3-yl)-N-isopropyl-benzamide
+This compound was prepared from Intermediate 3 and isopropylamine according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (3 mg, 11%). Data: LCMS (B) Rt: 10.296 min; m/z 297.1 (M+H)+.

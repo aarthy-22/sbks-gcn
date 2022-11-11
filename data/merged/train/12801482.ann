@@ -1,0 +1,21 @@
+T3	CHEMICAL 0 19	Glucosamine sulfate
+T19	GENE-Y 44 52	aggrecan
+T20	GENE-Y 57 83	matrix metalloproteinase-3
+T12	GENE-N 498 514	collagen type II
+T13	GENE-Y 519 527	aggrecan
+T1	CHEMICAL 575 582	sulfate
+T2	CHEMICAL 591 602	glucosamine
+T14	GENE-Y 659 667	aggrecan
+T15	GENE-Y 691 723	matrix metalloproteinase (MMP)-3
+T16	GENE-N 872 880	aggrecan
+T17	GENE-Y 885 890	MMP-3
+T18	GENE-N 1038 1044	casein
+T4	GENE-Y 1237 1245	aggrecan
+T5	GENE-Y 1250 1255	MMP-3
+T6	GENE-Y 1502 1523	aggrecan core protein
+T7	GENE-Y 1683 1691	aggrecan
+T8	GENE-Y 1723 1728	MMP-3
+T9	GENE-Y 1800 1805	MMP-3
+T10	GENE-Y 2109 2117	aggrecan
+T11	GENE-Y 2216 2221	MMP-3
+R0	NOT Arg1:T2 Arg2:T15

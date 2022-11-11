@@ -1,0 +1,13 @@
+Treatment of Niemann-Pick disease type C in two children with miglustat: initial responses and maintenance of effects over 1 year.
+Niemann-Pick disease type C (NP-C) is a lipid storage disorder characterized by the accumulation of unesterified cholesterol and glycolipids in the lysosomal/late endosomal system of certain cells in the central nervous system (CNS) and visceral organs.
+Clinical symptoms include progressive neurological deterioration and visceral organomegaly.
+Miglustat, a small iminosugar molecule approved for the treatment of Gaucher disease, reversibly inhibits glucosylceramide synthase, which catalyses the first committed step in glycosphingolipid synthesis.
+The physicochemical properties of miglustat allow it to cross the blood-brain barrier and suggest possible benefits in lysosomal storage diseases affecting the CNS.
+Here, we present findings in two children with NP-C, aged 14 years (patient 1) and 9 years (patient 2), treated with miglustat for 1 year.
+Before treatment, patient 1 presented with severe difficulties in swallowing and walking, and patient 2 with problems mostly affecting communication and social interaction.
+Videofluoroscopic studies in patient 1 demonstrated a substantial improvement in swallowing by month 6 of treatment, and ambulation index measurements indicated improved walking.
+Mini Mental-State Examination (MMSE) assessments in patient 2 showed cognitive improvement by month 6, which was sustained up to month 12.
+Liver/spleen volume and plasma chitotriosidase activities were stabilized in both cases.
+There was no weight loss during treatment.
+Patient 1 experienced severe but self-limiting paresthesia, which was not associated with peripheral neuropathy.
+We conclude that miglustat can provide therapeutic benefits in CNS symptoms and allows stabilization of systemic disease in childhood-onset NP-C. Further follow-up is crucial to determine the long-term maintenance of these effects.

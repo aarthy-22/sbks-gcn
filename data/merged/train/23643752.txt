@@ -1,0 +1,14 @@
+The fatty acid amide hydrolase inhibitor, URB597, promotes retinal ganglion cell neuroprotection in a rat model of optic nerve axotomy.
+The endocannabinoid, N-arachidonoylethanolamine (AEA), is degraded by the enzyme fatty acid amide hydrolase (FAAH).
+This study examined whether the FAAH inhibitor, URB597, increases retinal ganglion cell (RGC) survival following optic nerve axotomy in young and aged animals.
+URB597 alone, or together with either a CB1 or CB2 receptor antagonist, was administered daily for 1 or 2 weeks post-axotomy.
+Histological assessment of retinas indicated that URB597 increased RGC survival in young retina at 1 and 2 weeks post-axotomy.
+The increase in RGC survival at 2 weeks was accompanied by a reduction in phagocytic microglia.
+The CB1 antagonist, AM281, but not the CB2 antagonist, AM630, ablated URB597-mediated RGC neuroprotection.
+CB1 or CB2 antagonism increased phagocytic microglia in URB597 and vehicle-treated animals.
+In aged animals, URB597 increased RGC survival at 1 week, but not at 2 weeks post-axotomy and had no effect on microglia.
+Retinal Iba-1 positive microglia were also decreased in URB597-treated axotomized young animals and this decrease was mitigated by CB1 but not CB2 antagonism.
+As seen with phagocytotic microglia, the CB2 antagonist, AM630, increased Iba-1 positive microglia in the absence of URB597 treatment.
+Measurement of retinal endocannabinoid levels in URB597-treated animals at 2 weeks post-axotomy revealed a significant increase in AEA levels, accompanied by a decrease by a decrease in the AEA metabolite, N-arachidonoylglycine, in young animals but not aged animals.
+2-arachidonoylglycerol levels were similar across all experimental groups.
+These data demonstrate that URB597-mediated retinal neuroprotective effects are mediated primarily through CB1 receptors and that URB597 neuroprotective efficacy declines with age.

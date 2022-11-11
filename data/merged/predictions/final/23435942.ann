@@ -1,0 +1,25 @@
+T25	GENE 12 26	cholinesterase
+T13	GENE 208 220	beta amyloid
+T14	GENE 222 224	Aβ
+T15	GENE 455 469	Cholinesterase
+T16	GENE 548 568	acetylcholinesterase
+T17	GENE 570 574	AChE
+T10	CHEMICAL 593 606	acetylcholine
+T18	GENE 661 681	acetylcholinesterase
+T19	GENE 686 706	butrylcholinesterase
+T20	GENE 708 713	BuChE
+T21	GENE 741 743	Aβ
+T22	GENE 819 823	AChE
+T23	GENE 828 833	BuChE
+T11	CHEMICAL 959 972	acetylcholine
+T24	GENE 1014 1016	Aβ
+T12	GENE 1076 1090	cholinesterase
+T1	CHEMICAL 1112 1119	tacrine
+T2	CHEMICAL 1121 1130	donepezil
+T3	CHEMICAL 1132 1144	rivastigmine
+T4	CHEMICAL 1146 1157	galantamine
+T5	CHEMICAL 1159 1173	xanthostigmine
+T6	CHEMICAL 1175 1197	para-aminobenzoic acid
+T7	CHEMICAL 1199 1207	coumarin
+T8	CHEMICAL 1209 1218	flavonoid
+T9	CHEMICAL 1224 1241	pyrrolo-isoxazole

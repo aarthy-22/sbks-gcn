@@ -1,0 +1,15 @@
+Reduction of cerebral infarct size by the AT1-receptor blocker candesartan, the HMG-CoA reductase inhibitor rosuvastatin and their combination.
+An experimental study in rats.
+Our purpose was to test the impact of single and/or combined treatment with the AT(1)-receptor blocker candesartan and the HMG-CoA reductase inhibitor rosuvastatin on infarct size and neuroscore in transient cerebral ischemia in rats.
+L-NAME was used to test whether any potential effect was due to activation of endothelial nitric oxide synthase (eNOS).
+Therefore, the middle cerebral artery was occluded for 1 h (MCAO) followed by 7 days reperfusion.
+Rats received candesartan 2h before and daily after MCAO (pretreatment) or daily after MCAO (posttreatment); rosuvastatin was given daily for 7 days before MCAO without or with candesartan pre- and posttreatment.
+In addition, candesartan and rosuvastatin were combined with L-NAME.
+Infarct size and neuroscore at day 7 were compared to those of controls.
+As result, compared to controls (109+/-12 mm(3)) infarct size with candesartan (pretreatment: 21+/-5 mm(3); posttreatment: 68+/-29 mm(3); P<0.05) or rosuvastatin (69+/-14 mm(3); P<0.05) was smaller.
+Combined treatment also reduced infarct size (pretreatment: 37+/-15 mm(3); posttreatment 57+/-20mm(3); P<0.05); but there was no benefit of combined treatment over candesartan pretreatment alone.
+Compared to controls (2.08+/-0.28) only candesartan pretreatment and combined treatment improved the neuroscore (0.97+/-0.05, 1.10+/-0.33; P<0.05).
+L-NAME abolished the reduction in infarct size and improvement in neuroscore.
+In conclusion, both, candesartan or rosuvastatin treatment alone reduced infarct size in transient cerebral ischemia, and the best result was achieved with candesartan pretreatment.
+Combined treatment was superior to rosuvastatin alone, but not to candesartan.
+The therapeutic benefit of both agents was at least in parts mediated by eNOS-activation.

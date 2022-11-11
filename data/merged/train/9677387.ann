@@ -1,0 +1,27 @@
+T23	GENE-Y 47 82	formiminotransferase cyclodeaminase
+T19	GENE-Y 352 387	formiminotransferase cyclodeaminase
+T20	GENE-Y 389 393	FTCD
+T2	CHEMICAL 478 494	tetrahydrofolate
+T3	CHEMICAL 498 528	5,10-methenyl tetrahydrofolate
+T21	GENE-N 651 672	chicken liver protein
+T22	GENE-N 674 677	p60
+T4	CHEMICAL 1004 1011	sucrose
+T5	GENE-N 1162 1165	p60
+T6	GENE-Y 1170 1188	porcine liver FTCD
+T7	GENE-N 1236 1256	formiminotransferase
+T8	GENE-N 1261 1275	cyclodeaminase
+T9	GENE-Y 1370 1374	FTCD
+T10	GENE-N 1404 1417	brain tubulin
+T11	GENE-N 1432 1445	liver tubulin
+T12	GENE-Y 1465 1479	rat liver FTCD
+T1	CHEMICAL 1537 1551	polyglutamates
+T13	GENE-N 1591 1598	tubulin
+T14	GENE-Y 1655 1659	FTCD
+T15	GENE-N 1672 1679	tubulin
+T16	GENE-Y 1755 1759	FTCD
+T17	GENE-Y 1831 1835	FTCD
+T18	GENE-Y 1888 1892	FTCD
+R0	CPR-9 Arg1:T2 Arg2:T19
+R1	CPR-9 Arg1:T2 Arg2:T20
+R2	NOT Arg1:T1 Arg2:T13
+R3	NOT Arg1:T1 Arg2:T15

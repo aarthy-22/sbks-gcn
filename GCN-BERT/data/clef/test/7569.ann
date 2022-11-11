@@ -1,0 +1,18 @@
+T1	STARTING_MATERIAL 159 234	(2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxylic acid
+T2	SOLVENT 370 385	dichloromethane
+T3	REACTION_PRODUCT 836 850	title compound
+T4	REAGENT_CATALYST 395 408	triethylamine
+T5	TEMPERATURE 585 589	25°C
+T6	TIME 594 597	16h
+T7	OTHER_COMPOUND 784 799	petroleum ether
+T8	YIELD_OTHER 852 858	250 mg
+T9	OTHER_COMPOUND 802 815	ethyl acetate
+T10	OTHER_COMPOUND 750 760	silica gel
+T11	OTHER_COMPOUND 670 683	ethyl acetate
+T12	REAGENT_CATALYST 516 539	1-hydroxylbenzotriazole
+T13	REACTION_PRODUCT 19 158	di(tert-butyl) 7-((2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxamido)-3,9-diazabicyclo[3. 3.1]nonane-3,9-dicarboxylate
+T14	REAGENT_CATALYST 432 489	1-ethyl-(3-dimethylaminopropyl)carbodiimide hydrochloride
+T15	YIELD_PERCENT 866 871	31.6%
+T16	EXAMPLE_LABEL 1 2	9
+T17	OTHER_COMPOUND 652 667	petroleum ether
+T18	STARTING_MATERIAL 261 331	di(tert-butyl) 7-amino-3,9-diazabicyclo[3.3.1]nonane-3,9-dicarboxylate

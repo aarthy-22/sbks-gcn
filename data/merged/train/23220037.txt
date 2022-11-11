@@ -1,0 +1,11 @@
+Doxorubicin decreases paraquat accumulation and toxicity in Caco-2 cells.
+P-glycoprotein (P-gp) is an efflux pump belonging to the ATP-binding cassette transporter superfamily expressed in several organs.
+Considering its potential protective effects, the induction of de novo synthesis of P-gp could be used therapeutically in the treatment of intoxications by its substrates.
+The herbicide paraquat (PQ) is a P-gp substrate responsible for thousands of fatal intoxications worldwide that still lacks an effective antidote.
+The aim of the present work was to evaluate the effectiveness of such an antidote by testing whether doxorubicin (DOX), a known P-gp inducer, could efficiently protect Caco-2 cells against PQ cytotoxicity, 6 h after the incubation with the herbicide, reflecting a real-life intoxication scenario.
+Cytotoxicity was evaluated by the MTT assay and PQ intracellular concentrations were measured by gas chromatography-ion trap-mass spectrometry (GC-IT-MS).
+Also, the DOX modulatory effect on choline uptake transport system was assessed by measuring the uptake of [³H]-choline.
+The results show that DOX exerts protective effects against PQ cytotoxicity, preventing the intracellular accumulation of the herbicide.
+These protective effects were not completely prevented by the incubation with the UIC2 antibody, a specific P-gp inhibitor, suggesting the involvement of alternative protection mechanisms.
+In fact, DOX also efficiently inhibited the choline transport system that influences PQ cellular uptake.
+In conclusion, in this cellular model, DOX effectively protects against PQ toxicity by inducing P-gp and through the interaction with the choline transporter, suggesting that compounds presenting this double feature of promoting the efflux and limiting the uptake of PQ could be used as effective antidotes to treat intoxications.

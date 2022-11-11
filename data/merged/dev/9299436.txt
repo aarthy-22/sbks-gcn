@@ -1,0 +1,7 @@
+Adenosine deaminase is a specific partner for the Grb2 isoform Grb3-3.
+Grb3-3 is an isoform of Grb2, thought to arise by alternative splicing, that lacks a functional SH2 domain but retains functional SH3 domains, which allow interaction with other proteins through binding to prolinerich sequences.
+Several evidences suggest that besides common partners for Grb2 and Grb3-3, specific targets could exist.
+In order to find specific partners for Grb3-3, we have screened a human cDNA library by the yeast two-hybrid system with Grb3-3 as a bait.
+We have identified adenosine deaminase, an enzyme involved in purine metabolism whose deficiency is associated with severe combined immunodeficiency, as a Grb3-3 binding protein that is not able to bind to Grb2.
+This interaction has been confirmed in vitro with GST fusion proteins and in vivo by coimmunoprecipitation experiments in NIH3T3 cells stably transfected with Grb3-3.
+The functional significance of this finding is discussed.

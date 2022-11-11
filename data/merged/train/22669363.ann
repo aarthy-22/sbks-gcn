@@ -1,0 +1,9 @@
+T8	GENE-Y 86 96	galsulfase
+T2	GENE-Y 416 437	human arylsulfatase B
+T3	GENE-Y 439 444	rhASB
+T4	GENE-Y 446 481	rhN-acetylgalactosamine 4-sulfatase
+T1	CHEMICAL 448 469	N-acetylgalactosamine
+T5	GENE-Y 483 493	galsulfase
+T6	GENE-Y 635 640	rhASB
+T7	GENE-Y 701 706	rhASB
+R0	NOT Arg1:T2 Arg2:T1

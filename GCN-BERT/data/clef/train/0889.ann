@@ -1,0 +1,38 @@
+T0	YIELD_OTHER 1004 1009	10 mg
+T1	STARTING_MATERIAL 232 234	5b
+T2	STARTING_MATERIAL 159 231	N-(1-(benzo[b]thiophen-3-yl)propan-2-yl)-2-fluoro-2-methylpropan-1-amine
+T3	EXAMPLE_LABEL 5 6	2
+T4	REACTION_PRODUCT 1000 1002	5c
+T5	STARTING_MATERIAL 307 309	1e
+T6	REAGENT_CATALYST 334 360	triisopropylsilyl chloride
+T7	REACTION_PRODUCT 848 999	(E)-methyl 3-(3,5-difluoro-4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl-1,2,3,4-tetrahydrobenzo[4,5]thieno[2,3-c]pyridin-1-yl)phenyl)a crylate
+T17	WORKUP 752 760	purified
+T8	OTHER_COMPOUND 764 774	silica gel
+T18	REACTION_STEP 486 492	heated
+T19	REACTION_STEP 387 396	dissolved
+T9	YIELD_PERCENT 1017 1020	20%
+T10	REACTION_PRODUCT 7 158	(E)-methyl 3-(3,5-difluoro-4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl-1,2,3,4-tetrahy drobenzo[4,5]thieno[2,3-c]pyridin-1-yl)phenyl)acrylate
+T11	OTHER_COMPOUND 638 651	ethyl acetate
+T12	STARTING_MATERIAL 256 306	(E)-methyl 3-(3,5-difluoro-4-formylphenyl)acrylate
+T13	TEMPERATURE 496 501	140°C
+T14	SOLVENT 410 431	N,N-dimethylformamide
+T15	REACTION_PRODUCT 833 847	title compound
+T16	TIME 522 529	6 hours
+T20	REACTION_STEP 822 828	obtain
+T21	REACTION_STEP 509 517	stirring
+T22	WORKUP 623 632	extracted
+R0	ARG1 Arg1:T17 Arg2:T8
+R1	ARGM Arg1:T18 Arg2:T13
+R2	ARG1 Arg1:T19 Arg2:T14
+R3	ARG1 Arg1:T19 Arg2:T6
+R4	ARG1 Arg1:T19 Arg2:T2
+R5	ARG1 Arg1:T19 Arg2:T1
+R6	ARG1 Arg1:T19 Arg2:T12
+R7	ARG1 Arg1:T19 Arg2:T5
+R8	ARG1 Arg1:T20 Arg2:T15
+R9	ARG1 Arg1:T20 Arg2:T7
+R10	ARG1 Arg1:T20 Arg2:T4
+R11	ARGM Arg1:T20 Arg2:T9
+R12	ARGM Arg1:T20 Arg2:T0
+R13	ARGM Arg1:T21 Arg2:T16
+R14	ARG1 Arg1:T22 Arg2:T11

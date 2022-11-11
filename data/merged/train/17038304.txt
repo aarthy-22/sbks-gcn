@@ -1,0 +1,15 @@
+Biotin uptake by rabbit corneal epithelial cells: role of sodium-dependent multivitamin transporter (SMVT).
+PURPOSE: The objective of this research was to investigate the presence of sodium-dependent multivitamin transporter (SMVT) on rabbit corneal epithelial cells.
+METHODS: Primary cultured rabbit corneal epithelial cells (rPCECs)and freshly excised rabbit corneas were used for characterization of biotin uptake and transport, respectively.
+Reverse transcription-polymerase chain reaction (RT-PCR) was performed to confirm the molecular identity of SMVT.
+Liquid chromatography/tandem mass spectrometry (LC-MS/MS) analysis was performed to examine the presence of biotin in rabbit tears.
+RESULTS: Uptake of biotin by rPCECs was found to be time and concentration dependent with Km of 32.52 microM and Vmax of 10.43 pmol min- 1 mg protein- 1.
+Biotin was significantly inhibited in the presence of pantothenic acid and lipoic acid.
+Biotin uptake was found to be energy and Na+ dependent but H+ and Cl- independent.
+The uptake was inhibited by valeric acid in a concentration-dependent manner but not much affected in the presence of biotin methyl ester and biocytin with no free carboxyl group.
+Modulators of both PKC- and PKA-mediated pathways had no effect on biotin uptake, but calcium-calmodulin inhibitor significantly inhibited its uptake.
+Sodium-dependent multivitamin transporter was identified by RT-PCR in rPCECs.
+Transport experiments across the rabbit corneas revealed the functional localization of SMVT on the apical side of the cornea, and thereby corroborating with in vitro results with cultured corneal cells.
+Finally, LC-MS/MS analysis showed the presence of biotin in rabbit tears.
+CONCLUSIONS: Results obtained from both in vitro and exvivo studies suggest the possible role of SMVT expressed on corneal epithelial cells for the uptake of biotin, which co-transports pantothenic acid and lipoic acid.
+Further, the presence of biotin in tears suggests the physiological significance of this transporter in rabbit corneal epithelium.

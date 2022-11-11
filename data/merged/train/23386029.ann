@@ -1,0 +1,16 @@
+T11	CHEMICAL 0 15	Nocapyrones H-J
+T12	CHEMICAL 17 44	3,6-Disubstituted α-Pyrones
+T1	CHEMICAL 110 137	3,6-disubstituted α-pyrones
+T8	CHEMICAL 139 154	nocapyrones H-J
+T2	CHEMICAL 268 319	3-alkylated 6-(1-methyl-1-propenyl)-2H-pyran-2-ones
+T3	CHEMICAL 391 403	Nocapyrone H
+T4	CHEMICAL 452 464	nitric oxide
+T5	CHEMICAL 466 468	NO
+T6	CHEMICAL 471 487	prostaglandin E2
+T7	CHEMICAL 489 493	PGE2
+T13	GENE-Y 499 513	interleukin-1β
+T14	GENE-Y 515 520	IL-1β
+T9	CHEMICAL 533 545	nocapyrone H
+T10	CHEMICAL 589 591	NO
+R0	NOT Arg1:T4 Arg2:T14
+R1	NOT Arg1:T5 Arg2:T14

@@ -1,0 +1,7 @@
+Identification of Dlk1-Dio3 imprinted gene cluster noncoding RNAs as novel candidate biomarkers for liver tumor promotion.
+The molecular events during nongenotoxic carcinogenesis and their temporal order are poorly understood but thought to include long-lasting perturbations of gene expression.
+Here, we have investigated the temporal sequence of molecular and pathological perturbations at early stages of phenobarbital (PB) mediated liver tumor promotion in vivo.
+Molecular profiling (mRNA, microRNA [miRNA], DNA methylation, and proteins) of mouse liver during 13 weeks of PB treatment revealed progressive increases in hepatic expression of long noncoding RNAs and miRNAs originating from the Dlk1-Dio3 imprinted gene cluster, a locus that has recently been associated with stem cell pluripotency in mice and various neoplasms in humans.
+PB induction of the Dlk1-Dio3 cluster noncoding RNA (ncRNA) Meg3 was localized to glutamine synthetase-positive hypertrophic perivenous hepatocytes, suggesting a role for β-catenin signaling in the dysregulation of Dlk1-Dio3 ncRNAs.
+The carcinogenic relevance of Dlk1-Dio3 locus ncRNA induction was further supported by in vivo genetic dependence on constitutive androstane receptor and β-catenin pathways.
+Our data identify Dlk1-Dio3 ncRNAs as novel candidate early biomarkers for mouse liver tumor promotion and provide new opportunities for assessing the carcinogenic potential of novel compounds.

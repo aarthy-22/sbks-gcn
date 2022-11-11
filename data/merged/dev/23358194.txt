@@ -1,0 +1,13 @@
+Transcriptome alterations following developmental atrazine exposure in zebrafish are associated with disruption of neuroendocrine and reproductive system function, cell cycle, and carcinogenesis.
+Atrazine, a herbicide commonly applied to agricultural areas and a common contaminant of potable water supplies, is implicated as an endocrine-disrupting chemical (EDC) and potential carcinogen.
+Studies show that EDCs can cause irreversible changes in tissue formation, decreased reproductive potential, obesity, and cancer.
+The U.S. Environmental Protection Agency considers an atrazine concentration of ≤ 3 ppb in drinking water safe for consumption.
+The specific adverse human health effects associated with a developmental atrazine exposure and the underlying genetic mechanisms of these effects are not well defined.
+In this study, zebrafish embryos were exposed to a range of atrazine concentrations to establish toxicity.
+Morphological, transcriptomic, and protein alterations were then assessed at 72h postfertilization following developmental atrazine exposure at 0, 0.3, 3, or 30 ppb.
+A significant increase in head length was observed in all three atrazine treatments.
+Transcriptomic profiles revealed 21, 62, and 64 genes with altered expression in the 0.3, 3, and 30 ppb atrazine treatments, respectively.
+Altered genes were associated with neuroendocrine and reproductive system development, function, and disease; cell cycle control; and carcinogenesis.
+There was a significant overlap (42 genes) between the 3 and 30 ppb differentially expressed gene lists, with two of these genes (CYP17A1 and SAMHD1) present in all three atrazine treatments.
+Increased transcript levels were translated to significant upregulation in protein expression.
+Overall, this study identifies genetic and molecular targets altered in response to a developmental atrazine exposure to further define the biological pathways and mechanisms of toxicity.

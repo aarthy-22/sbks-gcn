@@ -1,0 +1,12 @@
+Phosphodiesterase-4 inhibitors as a novel approach for the treatment of respiratory disease: cilomilast.
+Phosphodiesterase-4 (PDE4) is an important cAMP-metabolising enzyme in immune and inflammatory cells, airway smooth muscle and pulmonary nerves.
+The phosphodiesterase 4 (PDE4) enzyme plays a significant role in modulating the activity of cAMP, an important second messenger that mediates the relaxation of airway smooth muscle and suppresses inflammatory cell function, thereby attenuating the inflammatory response.
+Selective inhibitors of this enzyme show a broad spectrum of activity in animal models of COPD and asthma.
+These drugs block the hydrolysis of cAMP via inhibition of PDE4 and are attractive candidates for novel anti-inflammatory drugs.
+At present, two second-generation PDE4 inhibitors for the treatment of COPD and asthma patients are being tested in clinical Phase III trials.
+The most advanced compound is the orally active, selective PDE4 inhibitor cilomilast (Ariflo, SB-207499, cis-4-cyano-4-[3-cyclopentyloxy-4-methoxyphenyl]-cyclohexanecarboxylic acid; GlaxoSmithKline).
+Cilomilast shows high selectivity for cAMP-specific PDE4, an isoenzyme that predominates in pro-inflammatory and immune cells and that is 10-fold more selective for PDE4D than for PDE4A, -B or -C. In vitro, cilomilast suppresses the activity of several pro-inflammatory and immune cells that have been implicated in the pathogenesis of asthma and COPD.
+Moreover, it is highly active in animal models of these diseases.
+Cilomilast has been shown to exert potent anti-inflammatory effects both in vitro and in vivo.
+It is orally active and may be effective in the treatment of asthma and COPD; however, complete assessment of the therapeutic value of this novel compound class must await the outcome of longer-term clinical trials.
+This review presents a summary of the preclinical and clinical profile of cilomilast in patients with COPD.

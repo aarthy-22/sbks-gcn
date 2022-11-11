@@ -1,0 +1,42 @@
+T30	CHEMICAL 15 37	fluticasone propionate
+T1	CHEMICAL 89 111	Fluticasone propionate
+T14	CHEMICAL 113 115	FP
+T26	CHEMICAL 165 175	androstane
+T15	CHEMICAL 379 399	17beta-carbothioates
+T16	CHEMICAL 401 403	FP
+T17	CHEMICAL 452 479	beclomethasone dipropionate
+T18	CHEMICAL 481 491	budesonide
+T19	CHEMICAL 497 520	triamcinolone acetonide
+T34	GENE-Y 577 600	glucocorticoid receptor
+T20	CHEMICAL 669 701	beclomethasone-17-monopropionate
+T21	CHEMICAL 703 709	17-BMP
+T22	CHEMICAL 715 733	mometasone furoate
+T23	CHEMICAL 754 764	budesonide
+T24	CHEMICAL 790 801	flunisolide
+T25	CHEMICAL 806 829	triamcinolone acetonide
+T27	CHEMICAL 858 860	FP
+T28	CHEMICAL 984 986	FP
+T35	GENE-N 994 1010	steroid-receptor
+T29	CHEMICAL 1085 1095	budesonide
+T2	CHEMICAL 1097 1103	17-BMP
+T3	CHEMICAL 1109 1132	triamcinolone acetonide
+T4	CHEMICAL 1148 1150	FP
+T31	GENE-Y 1180 1203	glucocorticoid receptor
+T5	CHEMICAL 1241 1248	steroid
+T32	GENE-N 1241 1258	steroid receptors
+T6	CHEMICAL 1260 1262	FP
+T7	CHEMICAL 1283 1310	beclomethasone dipropionate
+T8	CHEMICAL 1312 1322	budesonide
+T9	CHEMICAL 1324 1347	triamcinolone acetonide
+T10	CHEMICAL 1353 1371	mometasone furoate
+T33	GENE-N 1451 1459	cytokine
+T11	CHEMICAL 1473 1482	histamine
+T12	CHEMICAL 1639 1641	FP
+T13	CHEMICAL 1885 1892	steroid
+R0	CPR-2 Arg1:T23 Arg2:T34
+R1	CPR-2 Arg1:T28 Arg2:T35
+R2	CPR-2 Arg1:T2 Arg2:T35
+R3	CPR-2 Arg1:T4 Arg2:T31
+R4	CPR-4 Arg1:T6 Arg2:T33
+R5	CPR-4 Arg1:T8 Arg2:T33
+R6	NOT Arg1:T4 Arg2:T32

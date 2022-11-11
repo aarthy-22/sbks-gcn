@@ -1,0 +1,3 @@
+Example 9
+Synthesis of the Naphthalimide Dye F6
+0.501 g 4-Bromo-1,8-naphthalimide (Sigma-Aldrich) was dissolved in toluene in a single-necked flask. For this purpose, a solution of 0.200 g allylamine hydrochloride in 0.61 mL triethylamine and 1 mL THF:ethanol (1:1) was added. This mixture was heated for 16 hours at 85° C. with stirring. The now yellowish solution was evaporated to dryness and the residue was purified by column chromatography on silica gel 60. The product was eluted with a 10:1 mixture of dichloromethane and ethyl acetate. After the removal of the solvent, a white solid F6a was obtained in a yield of 75% (0.428 g).

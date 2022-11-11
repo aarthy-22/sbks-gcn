@@ -1,0 +1,40 @@
+T22	CHEMICAL 0 7	Ammonia
+T12	CHEMICAL 323 330	ammonia
+T13	CHEMICAL 471 478	ammonia
+T14	CHEMICAL 529 536	ammonia
+T28	GENE-N 552 618	alpha1beta2 and alpha1beta2gamma2s gamma-amino butyric acid type A
+T15	CHEMICAL 587 611	gamma-amino butyric acid
+T29	GENE-Y 620 634	alpha1 glycine
+T16	CHEMICAL 627 634	glycine
+T30	GENE-Y 640 643	NR1
+T31	GENE-Y 644 679	NR2A N-methyl-D-aspartate receptors
+T17	CHEMICAL 649 669	N-methyl-D-aspartate
+T32	GENE-N 689 722	two-pore domain potassium channel
+T18	CHEMICAL 705 714	potassium
+T33	GENE-Y 723 728	TRESK
+T19	CHEMICAL 857 864	ammonia
+T20	CHEMICAL 919 929	isoflurane
+T21	CHEMICAL 988 1005	ammonium chloride
+T1	CHEMICAL 1088 1095	ammonia
+T2	CHEMICAL 1097 1100	NH3
+T3	CHEMICAL 1148 1155	Ammonia
+T23	GENE-Y 1177 1182	TRESK
+T4	CHEMICAL 1196 1203	glycine
+T24	GENE-N 1196 1213	glycine receptors
+T25	GENE-N 1237 1313	alpha1beta2 and alpha1beta2gamma2s gamma-amino butyric acid type A receptors
+T26	GENE-Y 1317 1320	NR1
+T27	GENE-Y 1321 1356	NR2A N-methyl-d-aspartate receptors
+T5	CHEMICAL 1326 1346	N-methyl-d-aspartate
+T6	CHEMICAL 1358 1365	Ammonia
+T7	CHEMICAL 1407 1417	isoflurane
+T8	CHEMICAL 1534 1537	NH3
+T9	CHEMICAL 1597 1600	NH3
+T10	CHEMICAL 1815 1822	ammonia
+T11	CHEMICAL 1904 1911	ammonia
+R0	NOT Arg1:T14 Arg2:T28
+R1	NOT Arg1:T15 Arg2:T29
+R2	NOT Arg1:T15 Arg2:T31
+R3	NOT Arg1:T16 Arg2:T33
+R4	NOT Arg1:T30 Arg2:T17
+R5	NOT Arg1:T17 Arg2:T33
+R6	NOT Arg1:T3 Arg2:T23

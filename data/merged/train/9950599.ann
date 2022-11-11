@@ -1,0 +1,22 @@
+T5	CHEMICAL 464 481	hydrogen peroxide
+T6	CHEMICAL 763 780	hydrogen peroxide
+T7	CHEMICAL 841 874	nicotinamide adenine dinucleotide
+T14	GENE-Y 841 905	nicotinamide adenine dinucleotide (NADH) dehydrogenase subunit 4
+T8	CHEMICAL 876 880	NADH
+T15	GENE-Y 910 922	cytochrome b
+T9	CHEMICAL 976 985	glutamine
+T16	GENE-Y 976 1002	glutamine cyclotransferase
+T17	GENE-Y 1030 1064	cytokine-inducible nuclear protein
+T18	GENE-Y 1066 1095	alternative splicing factor 2
+T1	CHEMICAL 1101 1123	beta-hydroxyisobutyryl
+T10	GENE-Y 1101 1144	beta-hydroxyisobutyryl-coenzyme A hydrolase
+T2	CHEMICAL 1124 1134	coenzyme A
+T3	CHEMICAL 1265 1269	NADH
+T11	GENE-Y 1265 1293	NADH dehydrogenase subunit 4
+T12	GENE-Y 1406 1418	cytochrome b
+T13	GENE-Y 1420 1442	cytochrome oxidase III
+T4	CHEMICAL 1531 1548	hydrogen peroxide
+R0	NOT Arg1:T8 Arg2:T15
+R1	NOT Arg1:T9 Arg2:T10
+R2	NOT Arg1:T17 Arg2:T2
+R3	NOT Arg1:T18 Arg2:T2

@@ -1,0 +1,26 @@
+T14	CHEMICAL 0 10	Oxysterols
+T1	CHEMICAL 51 61	Oxysterols
+T4	CHEMICAL 311 321	oxysterols
+T5	CHEMICAL 433 444	cholesterol
+T6	CHEMICAL 456 486	3-hydroxy-3-methylglutaryl CoA
+T15	GENE-Y 456 496	3-hydroxy-3-methylglutaryl CoA reductase
+T16	GENE-Y 512 519	Insig-1
+T17	GENE-Y 521 528	Insig-2
+T18	GENE-N 533 550	liver X receptors
+T7	CHEMICAL 552 562	Oxysterols
+T8	CHEMICAL 620 631	cholesterol
+T9	CHEMICAL 709 719	oxysterols
+T19	GENE-N 780 819	25- and the 27-cholesterol hydroxylases
+T10	CHEMICAL 795 806	cholesterol
+T11	CHEMICAL 877 888	Cholesterol
+T20	GENE-N 901 913	lipoproteins
+T12	CHEMICAL 987 997	oxysterols
+T13	CHEMICAL 999 1009	Oxysterols
+T21	GENE-N 1025 1028	ERK
+T22	GENE-N 1030 1038	hedgehog
+T23	GENE-N 1043 1046	wnt
+T2	CHEMICAL 1143 1153	oxysterols
+T3	CHEMICAL 1334 1343	oxysterol
+R0	CPR-2 Arg1:T13 Arg2:T21
+R1	CPR-2 Arg1:T13 Arg2:T23
+R2	NOT Arg1:T4 Arg2:T15

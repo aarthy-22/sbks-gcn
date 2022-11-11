@@ -1,0 +1,20 @@
+T1	EXAMPLE_LABEL 5 6	7
+T2	REACTION_PRODUCT 23 184	intermediate triphenyl-[(E)-prop-1-enyl]phosphonium [trans-2-[(tert-butoxycarbonylamino)methyl]-4-oxazol-5-yl-7-oxo-1,6-diazabicyclo[3.2.1]oct-3-en-6-yl] sulfate
+T3	REACTION_PRODUCT 186 189	1 h
+T4	STARTING_MATERIAL 208 313	tert-butyl N-[[trans-6-allyloxy-4-oxazol-5-yl-7-oxo-1,6-diazabicyclo[3.2.1]oct-3-en-2-yl]methyl]carbamate
+T5	STARTING_MATERIAL 315 317	1g
+T6	STARTING_MATERIAL 343 362	glacial acetic acid
+T7	SOLVENT 396 399	DCM
+T8	REAGENT_CATALYST 433 442	Pd(PPh3)4
+T9	TIME 483 486	2 h
+T10	REAGENT_CATALYST 502 534	sulfur trioxide pyridine complex
+T11	REAGENT_CATALYST 562 570	pyridine
+T12	OTHER_COMPOUND 699 702	DCM
+T13	OTHER_COMPOUND 807 817	silica gel
+T14	OTHER_COMPOUND 819 822	DCM
+T15	OTHER_COMPOUND 823 830	acetone
+T16	REACTION_PRODUCT 854 1002	triphenyl-[(E)-prop-1-enyl]phosphonium [trans-2-[(tert-butoxycarbonylamino)methyl]-4-oxazol-5-yl-7-oxo-1,6-diazabicyclo[3.2.1]oct-3-en-6-yl] sulfate
+T17	YIELD_OTHER 1004 1007	1 h
+T18	YIELD_OTHER 1010 1016	560 mg
+T19	YIELD_OTHER 1018 1027	0.78 mmol
+T20	YIELD_PERCENT 1029 1032	67%

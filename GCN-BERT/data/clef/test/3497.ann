@@ -1,0 +1,8 @@
+T1	YIELD_OTHER 293 299	9.6 mg
+T2	REACTION_PRODUCT 277 291	title compound
+T3	YIELD_PERCENT 301 304	35%
+T4	REACTION_PRODUCT 11 77	N-[4-(6-fluoro-1H-indol-3-yl)phenyl]-3-hydroxy-3-methyl-butanamide
+T5	STARTING_MATERIAL 110 124	Intermediate 5
+T6	EXAMPLE_LABEL 8 10	35
+T7	STARTING_MATERIAL 129 161	3-hydroxy-3-methyl-butanoic acid
+T8	REACTION_PRODUCT 83 91	compound

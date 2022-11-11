@@ -1,0 +1,13 @@
+Novel insights on the effect of nicotine in a murine colitis model.
+Studies showed that nicotine has a positive influence on symptoms of ulcerative colitis.
+In the present study, we explored the effect of nicotine treatment using different routes of administration in the dextran sodium sulfate (DSS) colitis mouse model.
+We also investigated the effects of cotinine, a major metabolite of nicotine, in the model.
+C57BL6 adult male mice were given DSS solution freely in the drinking water for seven consecutive days, and tap water was given thereafter.
+Disease severity, length of the colon, colon tissue histology, and inflammatory markers, including colonic myeloperoxidase activity and colonic tumor necrosis factor-α levels, were evaluated.
+The effect of nicotine and cotinine treatments via various different routes of administration were examined the DSS model.
+In addition, we measured the plasma levels of nicotine and cotinine in our treatment protocols.
+Administration of low, but not high, doses of oral nicotine in DSS-treated mice resulted in a significant decrease in disease severity, histologic damage scores, as well as colonic level of tumor necrosis factor-α.
+However, the anti-inflammatory effect of nicotine was not seen after chronic s.c. or minipump infusion of the drug.
+Differences in plasma levels of nicotine and cotinine do not seem to account for this lack of effect.
+Finally, oral cotinine alone failed to show a significant effect in the DSS model of colitis.
+These results highlight that dose and route of administration play a critical role in the protective effect of nicotine in the DSS mouse colitis model.

@@ -1,0 +1,14 @@
+T12	GENE-Y 61 85	human serine dehydratase
+T8	CHEMICAL 67 73	serine
+T1	CHEMICAL 87 95	L-Serine
+T9	GENE-Y 87 107	L-Serine dehydratase
+T11	GENE-Y 109 112	SDH
+T6	CHEMICAL 128 147	pyridoxal phosphate
+T7	CHEMICAL 179 187	L-serine
+T2	CHEMICAL 197 205	pyruvate
+T10	GENE-Y 219 243	human serine dehydratase
+T3	CHEMICAL 225 231	serine
+T4	CHEMICAL 341 352	(NH4)(2)SO4
+T5	CHEMICAL 460 462	Cu
+R0	CPR-9 Arg1:T2 Arg2:T9
+R1	NOT Arg1:T11 Arg2:T6

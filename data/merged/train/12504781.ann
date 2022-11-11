@@ -1,0 +1,24 @@
+T16	CHEMICAL 19 31	sanguinarine
+T17	CHEMICAL 55 70	[3H]candesartan
+T22	GENE-Y 78 108	human angiotensin AT1 receptor
+T18	CHEMICAL 84 95	angiotensin
+T8	CHEMICAL 137 197	5-methyl-2,3,7,8-bis(methylenedioxy)benzo[c]phenanthridinium
+T15	CHEMICAL 199 211	sanguinarine
+T19	GENE-Y 285 317	human angiotensin AT(1) receptor
+T6	CHEMICAL 291 302	angiotensin
+T7	CHEMICAL 377 476	[3H](2-ethoxy-1-[(2'-(1H-tetrazol-5-yl)biphenyl-4-yl)methyl]-1H-benzimidazoline-7 -carboxylic acid)
+T9	CHEMICAL 478 493	[3H]candesartan
+T10	CHEMICAL 540 555	[3H]candesartan
+T11	CHEMICAL 567 579	sanguinarine
+T20	GENE-Y 753 785	human angiotensin AT(1) receptor
+T12	CHEMICAL 759 770	angiotensin
+T21	GENE-Y 787 793	hAT(1)
+T13	CHEMICAL 892 907	[3H]candesartan
+T14	CHEMICAL 930 942	sanguinarine
+T1	CHEMICAL 1150 1240	2-n-butyl-4chloro-5-hydroxymethyl-1-[(2'-(1H-tetrazol-5-yl)biphenyl-4-yl)methyl]i midazole
+T2	CHEMICAL 1242 1250	losartan
+T3	CHEMICAL 1270 1282	sanguinarine
+T4	CHEMICAL 1297 1312	[3H]candesartan
+T5	CHEMICAL 1365 1377	sanguinarine
+R0	NOT Arg1:T15 Arg2:T19
+R1	NOT Arg1:T12 Arg2:T21

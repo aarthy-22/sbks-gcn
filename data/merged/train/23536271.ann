@@ -1,0 +1,21 @@
+T8	CHEMICAL 0 8	β-Ionone
+T19	GENE-N 67 71	MAPK
+T1	CHEMICAL 81 89	β-Ionone
+T3	CHEMICAL 272 280	β-ionone
+T10	GENE-N 372 405	mitogen-activated protein kinases
+T11	GENE-N 407 412	MAPKs
+T4	CHEMICAL 656 664	β-ionone
+T5	CHEMICAL 722 730	β-ionone
+T12	GENE-N 759 796	extracellular signal-regulated kinase
+T13	GENE-N 858 861	p38
+T14	GENE-N 866 891	Jun-amino-terminal kinase
+T6	CHEMICAL 870 875	amino
+T7	CHEMICAL 923 931	β-Ionone
+T15	GENE-N 947 974	cell cycle-related proteins
+T16	GENE-Y 978 982	Cdk4
+T17	GENE-N 984 997	Cyclin B1, D1
+T18	GENE-Y 1012 1015	p27
+T9	GENE-N 1141 1145	MAPK
+T2	CHEMICAL 1257 1265	β-ionone
+R0	CPR-4 Arg1:T5 Arg2:T12
+R1	CPR-3 Arg1:T5 Arg2:T13

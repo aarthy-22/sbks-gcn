@@ -1,0 +1,65 @@
+T41	CHEMICAL 27 46	[3H]-oxotremorine-M
+T42	CHEMICAL 51 79	[3H]-quinuclinidyl benzilate
+T56	GENE-N 91 111	muscarinic receptors
+T55	GENE-Y 140 160	acetylcholinesterase
+T52	GENE-Y 202 222	acetylcholinesterase
+T53	GENE-N 239 260	cholinergic receptors
+T49	GENE-Y 406 426	acetylcholinesterase
+T51	GENE-N 455 475	muscarinic receptors
+T24	CHEMICAL 523 542	[3H]-oxotremorine-M
+T25	CHEMICAL 547 575	[3H]-quinuclinidyl benzilate
+T26	CHEMICAL 612 640	[3H]-quinuclinidyl benzilate
+T27	CHEMICAL 641 660	[3H]-oxotremorine-M
+T54	GENE-Y 851 871	acetylcholinesterase
+T28	CHEMICAL 894 913	[3H]-oxotremorine-M
+T29	CHEMICAL 953 963	ambenonium
+T30	CHEMICAL 964 975	neostigmine
+T31	CHEMICAL 976 990	pyridostigmine
+T32	CHEMICAL 991 998	tacrine
+T33	CHEMICAL 999 1012	physostigmine
+T34	CHEMICAL 1014 1025	edrophonium
+T35	CHEMICAL 1026 1038	galanthamine
+T36	CHEMICAL 1039 1053	desoxypeganine
+T37	CHEMICAL 1068 1078	ambenonium
+T38	CHEMICAL 1083 1090	tacrine
+T39	CHEMICAL 1101 1129	[3H]-quinuclinidyl benzilate
+T40	CHEMICAL 1158 1172	desoxypeganine
+T1	CHEMICAL 1319 1338	[3H]-oxotremorine-M
+T43	GENE-Y 1535 1555	acetylcholinesterase
+T2	CHEMICAL 1590 1597	tacrine
+T3	CHEMICAL 1602 1612	ambenonium
+T4	CHEMICAL 1632 1651	[3H]-oxotremorine-M
+T5	CHEMICAL 1669 1696	[3H]quinuclinidyl benzilate
+T44	GENE-N 1767 1787	muscarinic receptors
+T45	GENE-Y 1840 1860	acetylcholinesterase
+T6	CHEMICAL 1862 1872	ambenonium
+T7	CHEMICAL 1873 1884	neostigmine
+T8	CHEMICAL 1885 1898	physostigmine
+T9	CHEMICAL 1900 1907	tacrine
+T10	CHEMICAL 1908 1922	pyridostigmine
+T11	CHEMICAL 1923 1934	edrophonium
+T12	CHEMICAL 1935 1947	galanthamine
+T13	CHEMICAL 1949 1963	desoxypeganine
+T14	CHEMICAL 1964 1973	parathion
+T15	CHEMICAL 1974 1981	gramine
+T46	GENE-Y 2031 2051	acetylcholinesterase
+T16	CHEMICAL 2067 2086	[3H]-oxotremorine-M
+T17	CHEMICAL 2156 2173	[3H]-oxotremorine
+T18	CHEMICAL 2233 2246	acetylcholine
+T19	CHEMICAL 2352 2371	[3H]-oxotremorine-M
+T47	GENE-N 2381 2401	muscarinic receptors
+T48	GENE-Y 2456 2476	acetylcholinesterase
+T20	CHEMICAL 2517 2530	acetylcholine
+T21	CHEMICAL 2594 2613	[3H]-oxotremorine-M
+T22	CHEMICAL 2681 2694	acetylcholine
+T23	CHEMICAL 2710 2729	[3H]-oxotremorine-M
+T50	GENE-N 2739 2759	muscarinic receptors
+R0	CPR-2 Arg1:T41 Arg2:T56
+R1	CPR-2 Arg1:T25 Arg2:T51
+R2	CPR-2 Arg1:T4 Arg2:T44
+R3	CPR-4 Arg1:T6 Arg2:T46
+R4	CPR-4 Arg1:T10 Arg2:T46
+R5	NOT Arg1:T42 Arg2:T55
+R6	NOT Arg1:T54 Arg2:T31
+R7	NOT Arg1:T54 Arg2:T37
+R8	NOT Arg1:T17 Arg2:T47

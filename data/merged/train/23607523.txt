@@ -1,0 +1,7 @@
+Genetic Insights into Pyralomicin Biosynthesis in Nonomuraea spiralis IMC A-0156.
+The biosynthetic gene cluster for the pyralomicin antibiotics has been cloned and sequenced from Nonomuraea spiralis IMC A-0156.
+The 41 kb gene cluster contains 27 ORFs predicted to encode all of the functions for pyralomicin biosynthesis.
+This includes nonribosomal peptide synthetases (NRPS) and polyketide synthases (PKS) required for the formation of the benzopyranopyrrole core unit, as well as a suite of tailoring enzymes (e.g., four halogenases, an O-methyltransferase, and an N-glycosyltransferase) necessary for further modifications of the core structure.
+The N-glycosyltransferase is predicted to transfer either glucose or a pseudosugar (cyclitol) to the aglycone.
+A gene cassette encoding C7-cyclitol biosynthetic enzymes was identified upstream of the benzopyranopyrrole-specific ORFs.
+Targeted disruption of the gene encoding the N-glycosyltransferase, prlH, abolished pyralomicin production, and recombinant expression of PrlA confirms the activity of this enzyme as a sugar phosphate cyclase involved in the formation of the C7-cyclitol moiety.

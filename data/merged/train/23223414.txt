@@ -1,0 +1,9 @@
+Effect of nuclear vibrations, temperature, co-adsorbed water, and dye orientation on light absorption, charge injection and recombination conditions in organic dyes on TiO2.
+We study the effect of nuclear motions at different temperatures, including the effect of a dye molecule's orientation with respect to the oxide surface, on factors determining the performance of dye sensitized solar cells: light absorption, electron injection, and back-donation.
+We perform ab initio molecular dynamics simulations of aminophenyl acid dyes NK1 and NK7, differing by the electron donating group, in a vacuum and adsorbed in mono- and bi-dentate modes on a dry and a water-covered anatase (101) surface of TiO(2), at 300 and 350 K. Nuclear vibrations and an increase of temperature cause a red shift in the absorption spectra of free dyes.
+This effect is preserved in dyes on dry TiO(2) but largely disappears in the presence of water.
+Averaged over nuclear vibrations, the driving force to injection, ΔG, differs from the static estimate.
+It depends on the adsorption mode and the presence of H(2)O but is almost the same for 300 and 350 K. Recombination to the dye cation is expected to be much enhanced by the approach of the dye oxidation equivalent hole to the surface during dye wagging around TiO(2).
+This effect is somewhat mitigated by the co-adsorbed water.
+The dynamics of ΔG(t) are explained by uncorrelated evolution of the energies of the dye excited state and the conduction band minimum of the oxide due to their respective vibrations, and are almost independent of dye orientation.
+It may therefore be possible to independently control the conditions of recombination and of injection.

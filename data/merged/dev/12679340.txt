@@ -1,0 +1,7 @@
+Yeast epiarginase regulation, an enzyme-enzyme activity control: identification of residues of ornithine carbamoyltransferase and arginase responsible for enzyme catalytic and regulatory activities.
+In the presence of ornithine and arginine, ornithine carbamoyltransferase (OTCase) and arginase form a one-to-one enzyme complex in which the activity of OTCase is inhibited whereas arginase remains catalytically active.
+The mechanism by which these nonallosteric enzymes form a stable complex triggered by the binding of their respective substrates raises the question of how such a cooperative association is induced.
+Analyses of mutations in both enzymes identify residues that are required for their association, some of them being important for catalysis.
+In arginase, two cysteines at the C terminus of the protein are crucial for its epiarginase function but not for its catalytic activity and trimeric structure.
+In OTCase, mutations of putative ornithine binding residues, Asp-182, Asn-184, Asn-185, Cys-289, and Glu-256 greatly reduced the affinity for ornithine and impaired the interaction with arginase.
+The four lysine residues located in the SMG loop, Lys-260, Lys-263, Lys-265, and Lys-268, also play an important role in mediating the sensitivity of OTCase to ornithine and to arginase and appear to be involved in transducing and enhancing the signal given by ornithine for the closure of the catalytic domain.

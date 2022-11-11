@@ -1,0 +1,4 @@
+EXAMPLE 9
+Preparation of (S)-4-(1-(7-fluoro-2-(pyridine-2-yl)quinoline-3-yl)ethylamino)pyrido[2,3-d]pyrimidine-5(8H)-one
+Step 1: Preparation of (S)-4-(1-(7-fluoro-2-(pyridine-2-yl)quinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+245 mg of (S)-4-(1-(7-fluoro-2-(pyridine-2-yl)quinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one was prepared as a pale yellow solid by using 212 mg (0.793 mmol) of (S)-1-(7-fluoro-2-(pyridine-2-yl)quinoline-3-yl)ethane-1-amine according to the same manner as described in step 7 of Example 1 (0.460 mmol, yield: 58%).

@@ -1,0 +1,19 @@
+T18	GENE-N 0 20	Alpha1-adrenoceptors
+T10	GENE-N 91 112	Alpha(1)-adrenoceptor
+T11	GENE-Y 374 397	alpha(1A)-adrenoceptors
+T12	GENE-Y 458 481	alpha(1A)-adrenoceptors
+T13	GENE-N 634 655	alpha(1)-adrenoceptor
+T14	GENE-N 688 709	alpha(1)-adrenoceptor
+T15	GENE-N 748 787	alpha(1A)-, alpha(1B)- and alpha(1D)-AR
+T16	GENE-N 895 917	alpha(1)-adrenoceptors
+T17	GENE-N 1019 1040	alpha(1)-adrenoceptor
+T2	GENE-N 1094 1115	alpha(1)-adrenoceptor
+T3	GENE-N 1134 1145	alpha(1)-AR
+T4	GENE-Y 1217 1239	alpha(1A)-adrenoceptor
+T5	GENE-N 1297 1318	alpha(1)-adrenoceptor
+T1	CHEMICAL 1390 1403	noradrenaline
+T6	GENE-Y 1430 1452	alpha(1A)-adrenoceptor
+T7	GENE-N 1511 1532	alpha(1)-adrenoceptor
+T8	GENE-N 1707 1729	alpha(1)-adrenoceptors
+T9	GENE-Y 1744 1767	alpha(1A)-adrenoceptors
+R0	NOT Arg1:T1 Arg2:T6

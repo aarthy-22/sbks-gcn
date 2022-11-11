@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 6 7	2
+T2	REACTION_PRODUCT 22 118	1-ethyl-N-(3-fluorophenyl)-N-((5-(hydrazinecarbonyl)pyridin-2-yl)methyl)piperidine-4-carboxamide
+T3	STARTING_MATERIAL 119 198	Methyl 6-((1-ethyl-N-(3-fluorophenyl)piperidine-4-carboxamido)methyl)nicotinate
+T4	REAGENT_CATALYST 249 270	hydrazine monohydrate
+T5	SOLVENT 312 319	ethanol
+T6	TEMPERATURE 331 347	room temperature
+T7	TEMPERATURE 383 389	reflux
+T8	TIME 394 402	12 hours
+T9	TEMPERATURE 423 439	room temperature
+T10	OTHER_COMPOUND 610 614	SiO2
+T11	OTHER_COMPOUND 631 639	methanol
+T12	OTHER_COMPOUND 640 655	dichloromethane
+T13	REACTION_PRODUCT 703 717	title compound
+T14	YIELD_OTHER 719 726	0.120 g
+T15	YIELD_PERCENT 728 733	92.3%

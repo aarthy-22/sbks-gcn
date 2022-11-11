@@ -1,0 +1,5 @@
+Example 22
+2,2'-((((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2,6-dimethoxy-4,1-phenylene))bis(methylene))bis(azanediyl))bis(ethan-1-ol) (Cpd 22)
+Step-1
+4,4'-(((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2,6-dimethoxybenzaldehyde)(28)
+To a stirred solution of 3,3'-bis(bromomethyl)-2,2'-dimethylbiphenyl (1 g, 2.732 mmol) in ACN (25 mL) at room temperature were added K2CO3 (1.5 g, 10.928 mmol) and 4-hydroxy-2,6-dimethoxybenzaldehyde (1.4 g, 8.196 mmol) and stirred at 80° C. for 3 h. The reaction mixture was concentrated to remove most of the solvent. The residue was poured into ice-water and the resulting precipitate was filtered and dried in vacuum to get 4,4'-(((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2,6-dimethoxybenzaldehyde) (1.0 g, yield: 64%, LC/MS 69%), [C34H34O8];

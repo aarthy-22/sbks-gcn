@@ -1,0 +1,28 @@
+T1	EXAMPLE_LABEL 0 4	13.4
+T2	REACTION_PRODUCT 6 145	5-(2-chloro-3-fluorophenyl)-3-isopropyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T3	REACTION_PRODUCT 156 158	13
+T4	STARTING_MATERIAL 181 229	3-piperidin-4-yl-3,4-dihydro-1H-quinazolin-2-one
+T5	REAGENT_CATALYST 294 307	triethylamine
+T6	TIME 356 365	5 minutes
+T7	STARTING_MATERIAL 399 492	[5-(2-chloro-3-fluorophenyl)-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T8	REAGENT_CATALYST 514 536	1-hydroxybenzotriazole
+T9	STARTING_MATERIAL 564 623	1-ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride
+T10	SOLVENT 635 652	dimethylformamide
+T11	TEMPERATURE 689 705	room temperature
+T12	TIME 710 718	14 hours
+T13	OTHER_COMPOUND 772 779	aqueous
+T14	OTHER_COMPOUND 792 817	sodium hydrogen carbonate
+T15	OTHER_COMPOUND 840 853	ethyl acetate
+T16	OTHER_COMPOUND 905 912	aqueous
+T17	OTHER_COMPOUND 925 950	sodium hydrogen carbonate
+T18	OTHER_COMPOUND 962 967	water
+T19	OTHER_COMPOUND 994 1001	aqueous
+T20	OTHER_COMPOUND 1014 1029	sodium chloride
+T21	OTHER_COMPOUND 1042 1060	magnesium sulphate
+T22	OTHER_COMPOUND 1143 1153	silica gel
+T23	OTHER_COMPOUND 1183 1198	dichloromethane
+T24	OTHER_COMPOUND 1199 1207	methanol
+T25	OTHER_COMPOUND 1247 1260	ethyl acetate
+T26	YIELD_OTHER 1262 1267	39 mg
+T27	YIELD_PERCENT 1269 1272	16%
+T28	REACTION_PRODUCT 1277 1416	5-(2-chloro-3-fluorophenyl)-3-isopropyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione

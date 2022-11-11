@@ -1,0 +1,24 @@
+T23	GENE-N 17 42	beta-adrenergic receptors
+T24	GENE-N 87 95	cytokine
+T12	GENE-N 140 164	beta-adrenergic receptor
+T9	GENE-N 249 274	beta-adrenergic receptors
+T10	GENE-N 311 319	cytokine
+T11	GENE-N 400 414	beta-receptors
+T13	GENE-N 536 544	cytokine
+T14	GENE-N 597 610	beta-receptor
+T15	GENE-N 795 809	beta-receptors
+T16	GENE-Y 918 934	beta 2-receptors
+T17	GENE-N 964 973	cytokines
+T18	GENE-Y 974 983	TNF-alpha
+T19	GENE-Y 985 989	IL-6
+T20	GENE-Y 995 1000	IL-10
+T21	GENE-Y 1091 1100	TNF-alpha
+T22	GENE-Y 1102 1106	IL-6
+T4	GENE-Y 1111 1116	IL-10
+T1	CHEMICAL 1241 1252	clenbuterol
+T5	GENE-Y 1271 1280	TNF-alpha
+T6	GENE-Y 1285 1289	IL-6
+T7	GENE-Y 1343 1348	IL-10
+T8	GENE-N 1404 1412	cytokine
+T2	CHEMICAL 1481 1492	clenbuterol
+T3	CHEMICAL 1673 1684	clenbuterol

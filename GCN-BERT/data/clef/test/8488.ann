@@ -1,0 +1,17 @@
+T1	REACTION_PRODUCT 15 93	3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl trifluoromethane sulfonate
+T2	STARTING_MATERIAL 108 165	3-((tert-butyldiphenyl silyl)oxy)-2,2-difluoropropan-1-ol
+T3	STARTING_MATERIAL 190 210	2,6-dimethylpyridine
+T4	SOLVENT 235 238	DCM
+T5	TEMPERATURE 261 267	−10° C
+T6	STARTING_MATERIAL 286 320	Trifluoromethanesulfonic anhydride
+T7	TIME 373 383	10 minutes
+T8	TIME 440 447	2 hours
+T9	OTHER_COMPOUND 483 488	water
+T10	OTHER_COMPOUND 490 497	aqueous
+T11	OTHER_COMPOUND 498 501	HCl
+T12	OTHER_COMPOUND 530 537	aqueous
+T13	OTHER_COMPOUND 538 556	sodium bicarbonate
+T14	OTHER_COMPOUND 591 596	MgSO4
+T15	REACTION_PRODUCT 658 735	3-((tert-butyldiphenylsilyl)oxy)-2,2-difluoropropyl trifluoromethanesulfonate
+T16	YIELD_OTHER 737 743	2.68 g
+T17	YIELD_PERCENT 745 749	100%

@@ -1,0 +1,11 @@
+T1	SOLVENT 189 204	dichloromethane
+T2	OTHER_COMPOUND 364 379	dichloromethane
+T3	TEMPERATURE 297 313	room temperature
+T4	STARTING_MATERIAL 80 141	7-amino-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-6-ylmethanol
+T5	YIELD_OTHER 388 394	850 mg
+T6	YIELD_PERCENT 396 399	88%
+T7	TIME 318 324	4 days
+T8	EXAMPLE_LABEL 0 1	D
+T9	REAGENT_CATALYST 206 227	Phosphorus tribromide
+T10	REACTION_PRODUCT 2 79	6-(bromomethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-amine hydrobromide
+T11	STARTING_MATERIAL 142 143	B

@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 1 2	4
+T2	REACTION_PRODUCT 19 120	(2S,5R)-1-(tert-butyl) 2-ethyl 5-(N-(benzyloxy)-2-nitrophenylsulfonamido)piperidine-1,2-dicarboxylate
+T3	STARTING_MATERIAL 121 190	(2S,5S)-1-(tert-butyl) 2-ethyl 5-hydroxylpiperidine-1,2-dicarboxylate
+T4	REAGENT_CATALYST 213 231	triphenylphosphine
+T5	STARTING_MATERIAL 257 296	N-(benzyloxy)-2-nitrophenyl-1-sulfamide
+T6	SOLVENT 337 352	tetrahydrofuran
+T7	TEMPERATURE 374 377	0°C
+T8	REAGENT_CATALYST 379 403	diethyl azodicarboxylate
+T9	OTHER_COMPOUND 452 460	nitrogen
+T10	TEMPERATURE 527 543	room temperature
+T11	OTHER_COMPOUND 619 629	silica gel
+T12	OTHER_COMPOUND 645 658	ethyl acetate
+T13	OTHER_COMPOUND 661 676	petroleum ether
+T14	REACTION_PRODUCT 698 712	title compound
+T15	YIELD_OTHER 730 735	210 g
+T16	YIELD_PERCENT 743 746	78%

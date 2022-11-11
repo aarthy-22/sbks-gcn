@@ -1,0 +1,10 @@
+Effects of ACTH and expression of the melanocortin-2 receptor in the neonatal mouse testis.
+ACTH has been shown to stimulate androgen production by the fetal/neonatal mouse testis through the melanocortin type 2 receptor (MC2R).
+This study was designed to localize the expression of MC2R in the neonatal mouse testis and characterize the effects of ACTH on testicular androgen production.
+Using immunohistochemistry, MC2R was localized to the fetal-type Leydig cell population of the neonatal testis.
+ACTH caused a time-dependent increase in cyclic AMP (cAMP) and testosterone production by isolated cells with an increase in cAMP apparent in < 3 min.
+There was no additive effect of maximally stimulating doses of ACTH and human chorionic gonadotropin (hCG).
+Androgen production in response to ACTH and hCG was reduced by UO126 and dexamethasone, which are the inhibitors of ERK1/2 and phospholipase A2 respectively.
+Expression of mRNA encoding StAR was increased fourfold by both ACTH and hCG, although expression of mRNA encoding for steroidogenic enzymes was not markedly affected.
+The potency of N-terminal fragments of ACTH to stimulate androgen production was similar to that seen previously in the adrenal.
+Data indicate that both LH and ACTH, acting through their respective receptors, stimulate steroidogenesis by fetal-type Leydig cells via arachidonic acid, protein kinase A, and ERK1/2 activation of StAR.

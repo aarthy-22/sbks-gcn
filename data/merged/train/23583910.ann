@@ -1,0 +1,15 @@
+T8	CHEMICAL 0 18	Aminopropylindenes
+T9	CHEMICAL 32 50	Grundmann's ketone
+T14	GENE-Y 75 96	oxidosqualene cyclase
+T1	CHEMICAL 121 139	aminopropylindenes
+T7	CHEMICAL 206 219	oxidosqualene
+T13	GENE-Y 206 230	oxidosqualene cyclase(1)
+T10	GENE-Y 232 235	OSC
+T2	CHEMICAL 261 277	2,3-oxidosqualen
+T3	CHEMICAL 281 291	lanosterol
+T4	CHEMICAL 310 328	Grundmann's ketone
+T11	GENE-N 343 347	OSCs
+T5	CHEMICAL 456 479	N,N-dimethylaminopropyl
+T12	GENE-Y 522 543	Trypanosoma cruzi OSC
+T6	CHEMICAL 618 629	cholesterol
+R0	CPR-9 Arg1:T6 Arg2:T12

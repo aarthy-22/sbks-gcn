@@ -1,0 +1,15 @@
+T11	CHEMICAL 48 80	11,4″-disubstituted azithromycin
+T10	CHEMICAL 128 140	erythromycin
+T1	CHEMICAL 179 211	11,4″-disubstituted azithromycin
+T2	CHEMICAL 376 388	erythromycin
+T3	CHEMICAL 491 503	erythromycin
+T4	CHEMICAL 542 556	erythromycin A
+T5	CHEMICAL 558 572	clarithromycin
+T6	CHEMICAL 576 588	azithromycin
+T12	GENE-N 712 715	erm
+T13	GENE-N 726 729	mef
+T14	GENE-N 743 746	erm
+T15	GENE-N 751 754	mef
+T7	CHEMICAL 854 866	erythromycin
+T8	CHEMICAL 1018 1035	3,5-dinitrophenyl
+T9	CHEMICAL 1057 1065	bisamide

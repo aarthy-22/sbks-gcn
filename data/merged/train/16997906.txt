@@ -1,0 +1,8 @@
+Functional classification of amino acid decarboxylases from the alanine racemase structural family by phylogenetic studies.
+Arginine decarboxylase (ADC) and ornithine decarboxylase (ODC) are involved in the biosynthesis of putrescine, which is the precursor of other polyamines in animals, plants, and bacteria.
+These pyridoxal-5'-phosphate-dependent decarboxylases belong to the alanine racemase (AR) structural family together with diaminopimelate decarboxylase (DapDC), which catalyzes the final step of lysine biosynthesis in bacteria.
+We have constructed a multiple-sequence alignment of decarboxylases in the AR structural family and, based on the alignment, inferred phylogenetic trees.
+The phylogenetic tree consists of 3 distinct clades formed by ADC, DapDC, and ODC that diverged from an ancestral decarboxylase.
+The ancestral decarboxylase probably was able to recognize several substrates, and in archaea and bacteria, ODC may have retained the ability to bind other amino acids.
+Previously, a paralogue of ODC has been proposed to account for ADC activity detected in mammalian cells.
+According to our results, this appears unlikely, emphasizing the need for more caution in functional assignment made using sequence data and illustrating the continuing value of phylogenetic analysis in clarifying relationships and putative functions.

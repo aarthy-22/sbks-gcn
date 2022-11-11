@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 8 10	11
+T2	REACTION_PRODUCT 27 112	N-phenyl-N-(3-(4-(4-(prop-2-ynyl)piperazine-1-carbonyl)phenyl)prop-2-ynyl)pentanamide
+T3	REACTION_PRODUCT 114 121	LMT-833
+T4	STARTING_MATERIAL 127 198	N-phenyl-N-(3-(4-(piperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
+T5	REAGENT_CATALYST 245 264	potassium carbonate
+T6	SOLVENT 303 324	N,N-dimethylformamide
+T7	SOLVENT 326 329	DMF
+T8	TEMPERATURE 353 369	room temperature
+T9	TIME 374 383	5 minutes
+T10	STARTING_MATERIAL 385 402	Propargyl bromide
+T11	TEMPERATURE 464 480	room temperature
+T12	TIME 485 493	17 hours
+T13	OTHER_COMPOUND 625 635	silica gel
+T14	OTHER_COMPOUND 659 665	CH2Cl2
+T15	OTHER_COMPOUND 666 674	MeOH=100
+T16	REACTION_PRODUCT 699 712	final product
+T17	REACTION_PRODUCT 714 800	N-phenyl-N-(3-(4-(4-(prop-2-ynyl)piperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
+T18	YIELD_OTHER 802 807	28 mg
+T19	YIELD_PERCENT 809 812	51%

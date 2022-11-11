@@ -1,0 +1,13 @@
+T11	GENE-N 39 58	muscarinic receptor
+T5	CHEMICAL 76 86	2-carbonyl
+T4	CHEMICAL 102 112	diphenidol
+T1	CHEMICAL 126 136	2-carbonyl
+T3	CHEMICAL 176 186	diphenidol
+T6	GENE-N 312 341	M2 and M3 muscarinic receptor
+T7	GENE-Y 424 426	M2
+T8	GENE-N 492 511	M1 and M4 receptors
+T9	GENE-Y 545 547	M2
+T2	CHEMICAL 706 716	diphenidol
+T10	GENE-Y 729 731	M2
+R0	CPR-6 Arg1:T4 Arg2:T11
+R1	NOT Arg1:T1 Arg2:T6

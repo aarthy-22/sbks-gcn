@@ -1,0 +1,6 @@
+Phenolics content and antioxidant and anti-inflammatory activities of legume fractions.
+Two faba bean (Vicia faba L.) subspecies major and minor and lentil seeds grown in Algeria were separated into cotyledons and hulls.
+These fractions, together with their corresponding whole seeds, were extracted with two solvents, aqueous (70%) acetone and (80%) ethanol, and evaluated for antioxidant activity in relation to their phenolic contents.
+Acetone selectively extracted tannins from faba beans.
+The hulls always exhibited high antioxidant activity, measured using the reducing power (RP), antiradical activity (DPPH) or oxygen radical absorbance capacity (ORAC) assays.
+Aqueous ethanol (80%) extract of lentil hulls exhibited high antioxidant and anti-inflammatory activities preferentially inhibiting 15-LOX (IC(50), 55 μg/ml), with moderate COX-1 (IC(50), 66 μg/ml) and COX-2 (IC(50), 119 μg/ml) inhibitory effects on the COX pathway, whereas faba bean hull extracts exerted relatively mild LOX inhibitory activity.

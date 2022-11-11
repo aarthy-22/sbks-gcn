@@ -1,0 +1,9 @@
+T2	CHEMICAL 30 121	2-methyl-4,5-substitutedbenzo[f]-3,3a,4,5-tetrahydro-pyrazolo[1,5-d][1,4]oxazepin-8(7H)-one
+T9	GENE-N 137 147	telomerase
+T1	CHEMICAL 172 215	4,5-tetrahydropyrazolo[1,5-d][1,4]oxazepine
+T3	GENE-N 371 381	telomerase
+T4	GENE-Y 559 568	Cyclin D1
+T5	GENE-Y 570 574	TERT
+T6	GENE-N 576 587	phospho-AKT
+T7	GENE-N 592 596	PI3K
+T8	GENE-N 597 600	AKT

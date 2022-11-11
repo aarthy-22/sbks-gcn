@@ -1,0 +1,9 @@
+In vitro metabolism of the 5-hydroxytryptamine1B receptor antagonist elzasonan.
+The metabolism of elzasonan has been examined in vitro using hepatic microsomes from human and recombinant heterologously expressed P450 enzymes (rCYP).
+Metabolism occurs primarily via oxidative N-demethylation to form M4 and oxidation reactions to form elzasonan N-oxide (M5) and 5-hydroxyelzasonan metabolite (M3).
+Additionally, elzasonan was shown to be metabolized to the novel cyclized indole metabolite (M6) which undergoes subsequent oxidation to form the iminium ion metabolite (M3a).
+The rCYP data was normalized relative to the levels of each CYP form in native human liver microsomes to better assess the contribution of each rCYP in the metabolism of elzasonan.
+Results demonstrated the involvement of CYP3A4 in the pathways leading to M3a, M3, M5 and M6 and CYP2C8 in the formation of M4.
+Kinetic constants for the formation of M3 were determined and correlation and inhibition studies suggested that CYP3A4 is primarily responsible for the formation of M3 and CYP2C19 plays a very minor role in its formation.
+Cytochrome b5 has shown to be an essential component in P450 3A4 catalyzed 5-hydroxyelzasonan formation and provides insights on the disconnect between human liver microsomes data and that of rCYP.
+Furthermore, rCYP3A4 containing b5 are useful models for predicting the rates for liver microsomes P450-dependent drug oxidations and should be utilized routinely.

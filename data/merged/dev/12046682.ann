@@ -1,0 +1,5 @@
+T3	CHEMICAL 0 11	Thalidomide
+T1	CHEMICAL 33 44	Thalidomide
+T4	GENE-Y 203 212	TNF alpha
+T2	CHEMICAL 491 502	thalidomide
+R0	CPR-4 Arg1:T1 Arg2:T4

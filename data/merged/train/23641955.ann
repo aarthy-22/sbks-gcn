@@ -1,0 +1,19 @@
+T17	GENE-N 6 51	human recombinant UDP-glucuronosyltransferase
+T9	CHEMICAL 24 27	UDP
+T7	CHEMICAL 134 145	laropiprant
+T8	CHEMICAL 147 154	MK-0524
+T3	CHEMICAL 218 234	prostaglandin D2
+T14	GENE-Y 218 245	prostaglandin D2 receptor 1
+T6	CHEMICAL 257 268	laropiprant
+T1	CHEMICAL 285 304	uridine diphosphate
+T10	GENE-N 285 328	uridine diphosphate-glucuronosyltransferase
+T11	GENE-N 330 333	UGT
+T12	GENE-N 440 459	UGT1A1, 1A9 and 2B7
+T13	GENE-N 575 584	human UGT
+T2	CHEMICAL 611 622	laropiprant
+T4	CHEMICAL 687 698	laropiprant
+T5	CHEMICAL 962 973	laropiprant
+T15	GENE-N 990 1009	UGT1A1, 1A9 and 2B7
+T16	GENE-N 1096 1110	UGT1A9 and 2B7
+R0	CPR-6 Arg1:T6 Arg2:T14
+R1	NOT Arg1:T3 Arg2:T10

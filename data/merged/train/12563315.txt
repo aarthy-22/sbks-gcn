@@ -1,0 +1,10 @@
+PUMA-G and HM74 are receptors for nicotinic acid and mediate its anti-lipolytic effect.
+Nicotinic acid (niacin), a vitamin of the B complex, has been used for almost 50 years as a lipid-lowering drug.
+The pharmacological effect of nicotinic acid requires doses that are much higher than those provided by a normal diet.
+Its primary action is to decrease lipolysis in adipose tissue by inhibiting hormone-sensitive triglyceride lipase.
+This anti-lipolytic effect of nicotinic acid involves the inhibition of cyclic adenosine monophosphate (cAMP) accumulation in adipose tissue through a G(i)-protein-mediated inhibition of adenylyl cyclase.
+A G-protein-coupled receptor for nicotinic acid has been proposed in adipocytes.
+Here, we show that the orphan G-protein-coupled receptor, 'protein upregulated in macrophages by interferon-gamma' (mouse PUMA-G, human HM74), is highly expressed in adipose tissue and is a nicotinic acid receptor.
+Binding of nicotinic acid to PUMA-G or HM74 results in a G(i)-mediated decrease in cAMP levels.
+In mice lacking PUMA-G, the nicotinic acid-induced decrease in free fatty acid (FFA) and triglyceride plasma levels was abrogated, indicating that PUMA-G mediates the anti-lipolytic and lipid-lowering effects of nicotinic acid in vivo.
+The identification of the nicotinic acid receptor may be useful in the development of new drugs to treat dyslipidemia.

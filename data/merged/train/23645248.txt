@@ -1,0 +1,12 @@
+Oestrogen action on thyroid progenitor cells: relevant for the pathogenesis of thyroid nodules?
+Benign and malignant thyroid nodules are more prevalent in females than in men.
+Experimental data suggest that the proliferative effect of oestrogen rather than polymorphisms is responsible for this gender difference.
+This study analysed whether both differentiated thyroid cells and thyroid stem and progenitor cells are a target of oestrogen action.
+In thyroid stem/progenitor cells derived from nodular goitres the ability of 17beta-oestradiol to induce thyrosphere formation, the expression of oestrogen receptors and the effect of 17beta-oestradiol on growth, expression of marker of stem cells and thyroid differentiation (TSH receptor, thyroperoxidase, thyroglobulin, sodium iodide symporter expression) were analysed.
+17beta-oestradiol induced thyrosphere formation, albeit to lower extent than other growth factors.
+Thyroid stem and progenitor cells expressed oestrogen receptor alpha and beta with an 8 time higher expression level of oestrogen receptor alpha mRNA compared to differentiated thyrocytes.
+17beta-oestradiol was a potent stimulator of thyroid stem/ progenitor cell growth.
+In contrast, TSH-induced differentiation of progenitor cells, in particular the expression of the sodium iodide symporter, was significantly inhibited by 17beta-oestradiol.
+In conclusion, oestrogen stimulated growth and simultaneously inhibited differentiation of thyroid nodules derived stem/progenitor cells.
+From these data and based on the concept of cellular heterogeneity, we hypothesize a supportive role of oestrogen in the propagation of thyroid stem/progenitor cells leading to a selection of a progeny of growth-prone cells with a decreased differentiation.
+These cells may be the origin of hypo- or non-functioning thyroid nodules in females.

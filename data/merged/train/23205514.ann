@@ -1,0 +1,18 @@
+T13	CHEMICAL 78 89	risperidone
+T12	CHEMICAL 116 136	9-hydroxyrisperidone
+T14	GENE-Y 262 276	P-glycoprotein
+T15	GENE-Y 278 282	P-gp
+T17	GENE-Y 495 499	P-gp
+T4	CHEMICAL 511 522	risperidone
+T5	CHEMICAL 550 570	9-hydroxyrisperidone
+T6	CHEMICAL 618 629	risperidone
+T7	CHEMICAL 634 654	9-hydroxyrisperidone
+T8	CHEMICAL 741 752	risperidone
+T9	CHEMICAL 839 859	9-hydroxyrisperidone
+T10	CHEMICAL 1103 1114	risperidone
+T11	CHEMICAL 1130 1141	risperidone
+T1	CHEMICAL 1146 1166	9-hydroxyrisperidone
+T2	CHEMICAL 1504 1515	risperidone
+T3	CHEMICAL 1520 1540	9-hydroxyrisperidone
+T16	GENE-Y 1556 1560	P-gp
+R0	CPR-9 Arg1:T5 Arg2:T17

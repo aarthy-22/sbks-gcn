@@ -1,0 +1,15 @@
+T1	REAGENT_CATALYST 603 620	lithium hydroxide
+T2	TIME 549 556	2 hours
+T3	OTHER_COMPOUND 835 839	MeCN
+T4	OTHER_COMPOUND 846 862	ammonium acetate
+T5	REAGENT_CATALYST 457 487	Lithium hydroxide (monohydrate
+T6	YIELD_PERCENT 939 942	53%
+T7	REAGENT_CATALYST 707 724	lithium hydroxide
+T8	REACTION_PRODUCT 917 931	title compound
+T9	YIELD_OTHER 932 937	12 mg
+T10	TIME 651 658	an hour
+T11	REACTION_PRODUCT 11 195	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-(N-{(R)-α-[2-(S)-2-(carboxy)-4-(R)-4-(hydroxy)pyrrolidin-1-ylcarbonyl]benzyl}carbamoylmethoxy)-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T12	SOLVENT 437 440	THF
+T13	EXAMPLE_LABEL 8 10	34
+T14	SOLVENT 441 444	H2O
+T15	STARTING_MATERIAL 196 388	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-(N-{(R)-α-[2-(S)-2-(methoxycarbonyl)-4-(R)-4-(hydroxy)pyrrolidin-1-ylcarbonyl]benzyl}carbamoylmethoxy)-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine

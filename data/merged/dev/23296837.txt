@@ -1,0 +1,13 @@
+Neuroprotective and anti-inflammatory properties of a coffee component in the MPTP model of Parkinson's disease.
+Consumption of coffee is associated with reduced risk of Parkinson's disease (PD), an effect that has largely been attributed to caffeine.
+However, coffee contains numerous components that may also be neuroprotective.
+One of these compounds is eicosanoyl-5-hydroxytryptamide (EHT), which ameliorates the phenotype of α-synuclein transgenic mice associated with decreased protein aggregation and phosphorylation, improved neuronal integrity and reduced neuroinflammation.
+Here, we sought to investigate if EHT has an effect in the MPTP model of PD.
+Mice fed a diet containing EHT for four weeks exhibited dose-dependent preservation of nigral dopaminergic neurons following MPTP challenge compared to animals given control feed.
+Reductions in striatal dopamine and tyrosine hydroxylase content were also less pronounced with EHT treatment.
+The neuroinflammatory response to MPTP was markedly attenuated, and indices of oxidative stress and JNK activation were significantly prevented with EHT.
+In cultured primary microglia and astrocytes, EHT had a direct anti-inflammatory effect demonstrated by repression of lipopolysaccharide-induced NFκB activation, iNOS induction, and nitric oxide production.
+EHT also exhibited a robust anti-oxidant activity in vitro.
+Additionally, in SH-SY5Y cells, MPP(+)-induced demethylation of phosphoprotein phosphatase 2A (PP2A), the master regulator of the cellular phosphoregulatory network, and cytotoxicity were ameliorated by EHT.
+These findings indicate that the neuroprotective effect of EHT against MPTP is through several mechanisms including its anti-inflammatory and antioxidant activities as well as its ability to modulate the methylation and hence activity of PP2A.
+Our data, therefore, reveal a strong beneficial effect of a novel component of coffee in multiple endpoints relevant to PD.

@@ -1,0 +1,8 @@
+Effect of protein malnutrition on the metabolism and toxicity of cisplatin, 5-fluorouracil and mitomycin C in rat stomach.
+This study investigated the effect of protein malnutrition on metabolism and toxicity of cisplatin (CP), 5-fluorouracil (FU) and mitomycin C (MMC) in rat stomach.
+Weanling male Wistar rats received a normal (24%) or low (2.5%) protein diet for 28days and were allocated into: normally-fed control, protein-malnourished control (PM), 3 normally-fed drug-treated groups and 3 protein-malnourished drug-treated groups (PM-CP, PM-FU and PM-MMC).
+Cisplatin and MMC were injected intraperitoneally (8mg/kg on day 26 and 1mg/kg/day for 7days, respectively).
+5-Fluorouracil was given orally (50mg/kg/day for 5days).
+Compared with normally-fed counterparts, PM-CP rats exhibited higher glutathione S-transferase, aminopeptidase N and cysteine S-conjugate beta-lyase (CCBL) and lower gamma-glutamyltransferase activities, PM-FU rats exhibited decreased dihydropyrimidine dehydrogenase and cytochrome P450 1A1/2 activities and PM-MMC rats showed higher quinone reductase and depleted xanthine oxidase activities.
+Protein-malnourished drug-treated groups exhibited exacerbated gastrotoxicity, relative to normally-fed counterparts, manifested by lower mucus levels, higher permeability and histopathological deterioration, along with increased oxidative stress in PM-CP rats and exaggerated prostaglandin E2 production in PM-MMC rats.
+Conclusively, protein malnutrition alters CP, FU and MMC metabolism in rat stomach by enhancing CCBL pathway for CP activation, delaying FU elimination and activating two-electron reduction of MMC, potentiating their gastrotoxicity.

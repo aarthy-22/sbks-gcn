@@ -1,0 +1,15 @@
+Effects of octylphenol and bisphenol A on the expression of calcium transport genes in the mouse duodenum and kidney during pregnancy.
+Octylphenol (OP) is the degradative product of alkylphenol ethoxylates that are widely used to produce rubber, pesticides, and paints.
+Bisphenol A (BPA) is an organic compound with two functional phenol groups, and used for manufacturing polycarbonate plastic and epoxy resins, as well as other applications.
+OP and BPA are known as endocrine disruptors (EDs) with estrogenic activities, and may disturb natural calcium (Ca) metabolism.
+In the present study, the effects of OP and BPA on Ca levels in the serum and expression of Ca transport genes in the duodenum, and kidney were investigated in pregnant mice.
+Calbindin refers to several Ca-binding proteins originally described as vitamin D-dependent Ca-binding factors in the intestine, and kidney of birds and mammals.
+Transient receptor potential cation channel, subfamily V, member 6 (TRPV6) and transient receptor potential cation channel, subfamily V, member 5 (TRPV5) are Ca entry channels responsible for Ca absorption in the kidney and intestine, respectively.
+From 6.5 to 16.5 day post coitus (dpc), pregnant mice were given oral doses of 17α-ethynylestradiol (EE, 0.2mg/kg/day), BPA (5 or 50mg/kg/day), or OP (3, 12, or 48 mg/kg/day) dissolved in corn oil.
+Samples of the duodenum, kidney, and blood were obtained from the mice on day 17.5 of pregnancy.
+Serum Ca levels were decreased in the groups treated with OP and BPA.
+The expression levels of Ca transport genes, TRPV5 and calbindin-D9k (CaBP-9k), in the kidney were decreased after treatment with OP and BPA.
+Duodenal expression of TRPV6 was also reduced by BPA and OP administration.
+CaBP-9k expression was differentially regulated by BPA and OP.
+Transcriptional and translational levels of CaBP-9k were decreased by EE and BPA but increased by a high dose of OP.
+Taken together, our findings demonstrate that OP and BPA regulated the expression of genes associated with Ca transport in the pregnant mice, which may result in the decreased serum Ca levels.

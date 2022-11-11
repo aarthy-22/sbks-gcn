@@ -1,0 +1,1489 @@
+T1	REACTION_PRODUCT 29 66	PIPERIDINE)-(PIPERAZINYL)-1 -ALKANONE
+T2	REACTION_PRODUCT 218 230	heterocycle-
+T3	REACTION_PRODUCT 230 284	fused piperidine)-(piperazinyl)-1-alkanone derivatives
+T4	REACTION_PRODUCT 290 345	heterocycle-fused pyrrolidine)-(piperazinyl)-1-alkanone
+T5	OTHER_COMPOUND 490 509	p75NTR neurotrophin
+T6	OTHER_COMPOUND 761 776	necrosis factor
+T7	OTHER_COMPOUND 1035 1048	neurotrophins
+T8	OTHER_COMPOUND 1062 1070	tyrosine
+T9	OTHER_COMPOUND 1080 1083	trk
+T10	OTHER_COMPOUND 1114 1117	trk
+T11	OTHER_COMPOUND 1184 1196	neurotrophin
+T12	OTHER_COMPOUND 1253 1259	p75NTR
+T13	OTHER_COMPOUND 1328 1344	p75NTR-dependent
+T14	OTHER_COMPOUND 1574 1585	Alzheimer’s
+T15	OTHER_COMPOUND 1595 1606	Parkinson’s
+T16	OTHER_COMPOUND 1657 1663	p75NTR
+T17	OTHER_COMPOUND 1809 1812	ALS
+T18	OTHER_COMPOUND 1987 1993	p75NTR
+T19	OTHER_COMPOUND 2318 2324	p75NTR
+T20	OTHER_COMPOUND 2352 2358	neuron
+T21	OTHER_COMPOUND 2391 2404	prion protein
+T22	OTHER_COMPOUND 2453 2473	beta-amyloid protein
+T23	OTHER_COMPOUND 2475 2486	Alzheimer’s
+T24	OTHER_COMPOUND 2545 2549	Nogo
+T25	OTHER_COMPOUND 2625 2631	myelin
+T26	OTHER_COMPOUND 2965 2971	p75NTR
+T27	OTHER_COMPOUND 3226 3232	p75NTR
+T28	OTHER_COMPOUND 3240 3253	neurotrophins
+T29	OTHER_COMPOUND 3551 3557	p75NTR
+T30	OTHER_COMPOUND 3729 3735	p75NTR
+T31	OTHER_COMPOUND 3812 3836	p75NTR-specific antibody
+T32	OTHER_COMPOUND 3843 3873	oligodeoxynucleotide antisense
+T33	OTHER_COMPOUND 4048 4052	rats
+T34	OTHER_COMPOUND 4073 4088	L5 spinal nerve
+T35	OTHER_COMPOUND 4343 4351	Watanabe
+T36	OTHER_COMPOUND 4471 4477	p75NTR
+T37	OTHER_COMPOUND 4708 4714	p75NTR
+T38	OTHER_COMPOUND 4912 4917	trkA/
+T39	OTHER_COMPOUND 4921 4927	p75NTR
+T40	OTHER_COMPOUND 4949 4953	NGF-
+T41	OTHER_COMPOUND 5086 5089	NGF
+T42	OTHER_COMPOUND 5142 5145	NGF
+T43	OTHER_COMPOUND 5149 5153	PC12
+T44	OTHER_COMPOUND 5457 5465	external
+T45	OTHER_COMPOUND 5555 5566	information
+T46	OTHER_COMPOUND 6219 6227	nitrogen
+T47	OTHER_COMPOUND 6229 6236	sulphur
+T48	OTHER_COMPOUND 6273 6279	carbon
+T49	OTHER_COMPOUND 6281 6289	nitrogen
+T50	OTHER_COMPOUND 6802 6804	R7
+T51	OTHER_COMPOUND 6913 6920	halogen
+T52	OTHER_COMPOUND 6929 6947	(C1-C4)alkyl group
+T53	OTHER_COMPOUND 6951 6970	(C1-C4)alkoxy group
+T54	OTHER_COMPOUND 6974 6997	trifluoromethyl radical
+T55	OTHER_COMPOUND 7041 7045	COOH
+T56	OTHER_COMPOUND 7047 7070	COOalkyl, COOcycloalkyl
+T57	OTHER_COMPOUND 7098 7105	CONR5R6
+T58	OTHER_COMPOUND 7161 7167	methyl
+T59	OTHER_COMPOUND 7275 7277	I1
+T60	OTHER_COMPOUND 7392 7400	a carbon
+T61	OTHER_COMPOUND 7402 7410	nitrogen
+T62	OTHER_COMPOUND 7412 7419	sulphur
+T63	OTHER_COMPOUND 7508 7515	sulphur
+T64	OTHER_COMPOUND 7519 7525	oxygen
+T65	OTHER_COMPOUND 7697 7705	hydrogen
+T66	OTHER_COMPOUND 7714 7721	halogen
+T67	OTHER_COMPOUND 7730 7742	(C1-C4)alkyl
+T68	OTHER_COMPOUND 7775 7797	perfluoroalkyl radical
+T69	OTHER_COMPOUND 7829 7834	cyano
+T70	OTHER_COMPOUND 7868 7874	NHCOR5
+T71	OTHER_COMPOUND 8064 8071	halogen
+T72	OTHER_COMPOUND 8080 8092	(C1-C4)alkyl
+T73	OTHER_COMPOUND 8102 8115	(C1-C4)alkoxy
+T74	OTHER_COMPOUND 8151 8167	trifluoromethoxy
+T75	OTHER_COMPOUND 8179 8184	cyano
+T76	OTHER_COMPOUND 8197 8205	COOalkyl
+T77	OTHER_COMPOUND 8402 8410	hydrogen
+T78	OTHER_COMPOUND 8419 8426	halogen
+T79	OTHER_COMPOUND 8507 8523	trifluoromethoxy
+T80	OTHER_COMPOUND 8535 8540	cyano
+T81	OTHER_COMPOUND 8547 8551	COOH
+T82	OTHER_COMPOUND 8553 8562	COOalkyl,
+T83	OTHER_COMPOUND 8587 8595	S02alkyl
+T84	OTHER_COMPOUND 8662 8673	heterocycle
+T85	OTHER_COMPOUND 8815 8821	oxygen
+T86	OTHER_COMPOUND 8825 8832	sulphur
+T87	OTHER_COMPOUND 8875 8886	C1-C6 alkyl
+T88	OTHER_COMPOUND 8970 8981	formula (I)
+T89	OTHER_COMPOUND 8987 8989	I1
+T90	OTHER_COMPOUND 9273 9275	I1
+T91	OTHER_COMPOUND 9799 9802	Hal
+T92	OTHER_COMPOUND 9883 9889	H-W-R2
+T93	OTHER_COMPOUND 9960 9970	medicament
+T94	OTHER_COMPOUND 10004 10007	(I)
+T95	OTHER_COMPOUND 10432 10442	medicament
+T96	OTHER_COMPOUND 10694 10702	epilepsy
+T97	OTHER_COMPOUND 12777 12786	pulmonary
+T98	OTHER_COMPOUND 13002 13006	bone
+T99	OTHER_COMPOUND 13236 13248	Huntington’s
+T100	OTHER_COMPOUND 13257 13263	Down’s
+T101	OTHER_COMPOUND 14199 14203	bone
+T102	OTHER_COMPOUND 14823 14831	fluorine
+T103	OTHER_COMPOUND 14835 14843	chlorine
+T104	OTHER_COMPOUND 14847 14854	bromine
+T105	OTHER_COMPOUND 14861 14867	iodine
+T106	OTHER_COMPOUND 14926 14927	,
+T107	OTHER_COMPOUND 15020 15031	C1-C4 alkyl
+T108	OTHER_COMPOUND 15060 15066	methyl
+T109	OTHER_COMPOUND 15068 15073	ethyl
+T110	OTHER_COMPOUND 15083 15099	isopropyl, butyl
+T111	OTHER_COMPOUND 15101 15121	isobutyl, tert-butyl
+T112	OTHER_COMPOUND 15123 15137	cyclopropyl or
+T113	OTHER_COMPOUND 15138 15148	cyclobutyl
+T114	OTHER_COMPOUND 15207 15212	alkyl
+T115	OTHER_COMPOUND 15284 15292	fluorine
+T116	OTHER_COMPOUND 15313 15327	perfluoroalkyl
+T117	OTHER_COMPOUND 15359 15370	alkyl group
+T118	OTHER_COMPOUND 15388 15396	hydrogen
+T119	OTHER_COMPOUND 15432 15440	fluorine
+T120	OTHER_COMPOUND 15461 15481	trifluoroalkyl group
+T121	OTHER_COMPOUND 15490 15505	trifluoromethyl
+T122	OTHER_COMPOUND 15560 15568	-O-alkyl
+T123	OTHER_COMPOUND 15753 15761	fluorine
+T124	OTHER_COMPOUND 15782 15797	trifluoroalkoxy
+T125	OTHER_COMPOUND 15812 15828	trifluoromethoxy
+T126	OTHER_COMPOUND 15842 15852	cycloalkyl
+T127	OTHER_COMPOUND 15883 15895	cyclic alkyl
+T128	OTHER_COMPOUND 15946 15958	cyclopropyl,
+T129	OTHER_COMPOUND 16061 16063	I1
+T130	OTHER_COMPOUND 16141 16143	I1
+T131	OTHER_COMPOUND 16228 16236	nitrogen
+T132	OTHER_COMPOUND 16305 16311	carbon
+T133	OTHER_COMPOUND 16325 16332	sulphur
+T134	OTHER_COMPOUND 16528 16535	halogen
+T135	OTHER_COMPOUND 16546 16559	(C1-C4) alkyl
+T136	OTHER_COMPOUND 16609 16617	hydrogen
+T137	OTHER_COMPOUND 16703 16711	hydrogen
+T138	OTHER_COMPOUND 16720 16727	halogen
+T139	OTHER_COMPOUND 16736 16742	(C1-C4
+T140	OTHER_COMPOUND 16762 16776	perfluoroalkyl
+T141	OTHER_COMPOUND 16929 16936	halogen
+T142	OTHER_COMPOUND 16945 16957	(C1-C4)alkyl
+T143	OTHER_COMPOUND 16967 16982	trifluoromethyl
+T144	OTHER_COMPOUND 16997 17001	COOH
+T145	OTHER_COMPOUND 17003 17011	COOalkyl
+T146	OTHER_COMPOUND 17078 17089	heterocycle
+T147	OTHER_COMPOUND 17260 17268	hydrogen
+T148	OTHER_COMPOUND 17279 17285	methyl
+T149	REACTION_PRODUCT 17504 17637	6-{3-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic acid methyl ester
+T150	REACTION_PRODUCT 17655 17779	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]piperazin-1 -yljnicotinic acid
+T151	OTHER_COMPOUND 17797 17917	6-{3-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic acid
+T152	REACTION_PRODUCT 17935 18054	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]piperazin-1 -yljnicotinic
+T153	REACTION_PRODUCT 18077 18213	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1 yl]-1-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T154	OTHER_COMPOUND 18232 18371	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T155	OTHER_COMPOUND 18390 18509	4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T156	OTHER_COMPOUND 18528 18650	4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T157	OTHER_COMPOUND 18669 18805	2-[(2S,6R)-2,6-dimethyl-4-(6-trifluoromethylpyridin-3-yl)piperazin-1-yl]-1-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T158	REACTION_PRODUCT 18824 18960	6-{3-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic acid methyl ester
+T159	OTHER_COMPOUND 18975 18977	20
+T160	OTHER_COMPOUND 18979 19048	2-[(2S,6R)-2,6-dimethyl-4-(6-trifluoromethylpyridin-3-yl)piperazin-1-
+T161	OTHER_COMPOUND 19138 19259	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic
+T162	REACTION_PRODUCT 19283 19422	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic acid methyl ester
+T163	OTHER_COMPOUND 19441 19559	6-{3-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic
+T164	REACTION_PRODUCT 19583 19705	6-{2-oxo-4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]piperazin-1 -yl}nicotinic acid methyl ester
+T165	REACTION_PRODUCT 19880 20008	6-{3-[2-oxo-2-(2-phenyl-4,6-dihydropyrrolo[3,4-d]thiazol-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic acid methyl ester
+T166	OTHER_COMPOUND 20110 20112	I1
+T167	OTHER_COMPOUND 20144 20261	1 -(6,7-dihydro-4H-thieno[3,2-c]pyridin-5-yl)-2-[8-(5-fluoropyrimidin-2- yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T168	OTHER_COMPOUND 20263 20264	-
+T169	OTHER_COMPOUND 20281 20409	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1 -(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T170	OTHER_COMPOUND 20429 20550	1-(2-chloro-7,8-dihydro-5H-[1,6]naphthyridin-6-yl)-2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T171	OTHER_COMPOUND 20570 20701	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1 -(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T172	OTHER_COMPOUND 20720 20835	1-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)-2-[4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]ethanone
+T173	OTHER_COMPOUND 20992 21121	2-[(2S,6R)-4-(5-fluoropyrimidin-2-yl)-2,6-dimethylpiperazin-1-yl]-1-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T174	OTHER_COMPOUND 21136 21138	16
+T175	OTHER_COMPOUND 21140 21265	2-((2S,6R)-2,6-dimethyl-4-pyrimidin-5-yl-piperazin-1 -yl)-1 -(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T176	OTHER_COMPOUND 21284 21416	2-[(2S,6R)-4-(5-fluoropyrimidin-2-yl)-2,6-dimethylpiperazin-1-yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T177	REACTION_PRODUCT 21435 21557	2-((2S,6R)-2,6-dimethyl-4-pyrimidin-5-yl-piperazin-1 -yl)-1 -(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T178	OTHER_COMPOUND 21572 21574	26
+T179	OTHER_COMPOUND 21576 21641	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1
+T180	OTHER_COMPOUND 21850 21968	1 -(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-(8-pyridin-3-yl-3,8-diazabicyclo[3.2.1]oct-3-yl)ethanone
+T181	OTHER_COMPOUND 21987 22078	1 -(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)-2-(4-pyridin -3-yl-[1,4]diazepan-1
+T182	OTHER_COMPOUND 22110 22212	1 -(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-(8-pyrimidin-5-yl-3,8-diazabicyclo[3.2.1
+T183	OTHER_COMPOUND 22248 22249	:
+T184	OTHER_COMPOUND 22303 22381	]oct-3-yl]-1 -(2-methyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T185	OTHER_COMPOUND 22392 22394	No
+T186	OTHER_COMPOUND 22400 22533	4-{2-[2-(4-methoxyphenyl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]-2-oxoethyl}-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T187	OTHER_COMPOUND 22552 22684	4-{2-[2-(4-fluorophenyl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]-2-oxoethyl}-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T188	OTHER_COMPOUND 22703 22831	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1 -(2-methyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T189	OTHER_COMPOUND 22850 22976	6-(3-{2-[2-(4-methoxyphenyl)-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl]-2-oxoethyl}-3,8-diazabicyclo[3.2.1]oct-8-yl)nicotinic
+T190	OTHER_COMPOUND 23011 23012	:
+T191	REACTION_PRODUCT 23013 23156	6-(3-{2-[2-(4-fluorophenyl)-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl]-2-oxoethyl}-3,8-diazabicyclo[3.2.1]oct-8-yl)nicotinic acid methyl ester
+T192	OTHER_COMPOUND 23169 23170	.
+T193	OTHER_COMPOUND 23171 23173	39
+T194	OTHER_COMPOUND 23175 23318	6-(3-{2-oxo-2-[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethyl}-3,8-diazabicyclo[3.2.1]oct-8-yl)nicotinic
+T195	OTHER_COMPOUND 23355 23509	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-1-[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T196	OTHER_COMPOUND 23528 23647	4-[2-oxo-2-(2-phenyl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T197	OTHER_COMPOUND 23666 23792	4-[2-oxo-2-(2-thiophen-3-yl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T198	OTHER_COMPOUND 23807 23809	43
+T199	OTHER_COMPOUND 23811 23951	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-1-[2-(4-methoxyphenyl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T200	OTHER_COMPOUND 23962 23964	No
+T201	OTHER_COMPOUND 23966 23968	44
+T202	OTHER_COMPOUND 23970 24092	6-{3-[2-oxo-2-(2-thiophen-3-yl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic
+T203	OTHER_COMPOUND 24116 24250	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-1-[1-(2,2,2-trifluoroethyl)-4,5,6,7-tetrahydro-1H-indazol-5-yl]ethanone
+T204	OTHER_COMPOUND 24269 24409	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-1-[1-(4-methoxyphenyl)-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T205	OTHER_COMPOUND 24428 24548	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-1-(2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T206	REACTION_PRODUCT 24567 24704	6-{3-[2-oxo-2-(1 -phenyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic acid methyl ester
+T207	OTHER_COMPOUND 24723 24841	6-{3-[2-oxo-2-(1-phenyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic
+T208	OTHER_COMPOUND 24865 25000	1 -(1 -tert-butyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T209	OTHER_COMPOUND 25019 25158	1-[1-(4-fluorophenyl)-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]-2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T210	OTHER_COMPOUND 25177 25304	6-{(2R,5S)-2,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinonitrile
+T211	OTHER_COMPOUND 25323 25444	6-{(2R,5S)-2,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic
+T212	OTHER_COMPOUND 25468 25533	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1
+T213	OTHER_COMPOUND 25607 25608	.
+T214	OTHER_COMPOUND 25613 25743	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1 -(2-phenyl-1,4,5,7-tetrahydropyrrolo[2,3-c]pyridin-6-yl)ethanone
+T215	OTHER_COMPOUND 25914 26032	6-{8-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-3-yl}nicotinic
+T216	OTHER_COMPOUND 26065 26067	58
+T217	OTHER_COMPOUND 26069 26134	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1
+T218	OTHER_COMPOUND 26215 26339	6-{(2R,5S)-2,5-dimethyl-4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinonitrile
+T219	OTHER_COMPOUND 26358 26510	2-{8-[5-(5-methyl-[1,2,4]oxadiazol-3-yl)pyridin-2-yl]-3,8-diazabicyclo[3.2.1 ]oct-3-yl}-1 -(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T220	OTHER_COMPOUND 26529 26648	6-{8-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c] pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-3-yl}nicotinic
+T221	OTHER_COMPOUND 26672 26787	6-{8-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-3-yl}nicotinic
+T222	OTHER_COMPOUND 26811 26929	6-{(2R,5S)-2,5-dimethyl-4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic
+T223	OTHER_COMPOUND 26953 27018	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1
+T224	OTHER_COMPOUND 27102 27104	65
+T225	OTHER_COMPOUND 27106 27250	4-{2-oxo-2-[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethyl}-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-
+T226	OTHER_COMPOUND 27273 27412	4-{2-oxo-2-[1-(2,2,2-trifluoroethyl)-1,4,6,7-tetrahydropyrazolo [4,3-c]pyridin-5-yl]ethyl}-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T227	OTHER_COMPOUND 27431 27559	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1 -(2-phenyl-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-6-yl)ethanone
+T228	OTHER_COMPOUND 27578 27727	3-(6-{3-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c] pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}pyridin-3-yl)-4H-[1,2,4]oxadiazol-5-
+T229	OTHER_COMPOUND 27750 27815	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1
+T230	OTHER_COMPOUND 27891 27893	No
+T231	OTHER_COMPOUND 27899 28047	3-(6-{3-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}pyridin-3-yl)-4H-[1,2,4]oxadiazol-5-one
+T232	OTHER_COMPOUND 28058 28060	No
+T233	OTHER_COMPOUND 28062 28064	71
+T234	OTHER_COMPOUND 28066 28194	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1 -(2-phenyl-6,7-dihydro-4H-thiazolo[4,5-c]pyridin-5-yl)ethanone
+T235	OTHER_COMPOUND 28205 28207	No
+T236	OTHER_COMPOUND 28209 28211	72
+T237	OTHER_COMPOUND 28213 28350	2-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]piperazin-1-yl}pyrimidine-5-carboxylic acid
+T238	OTHER_COMPOUND 28369 28503	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1 -(2-pyridin-3-yl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T239	OTHER_COMPOUND 28522 28660	1 -(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)-2-{8-[5-(1 Η-tetrazol-5-yl)pyridin-2-yl]-3,8-diazabicyclo[3.2.1]oct-3-yl}ethanone
+T240	OTHER_COMPOUND 28675 28677	75
+T241	OTHER_COMPOUND 28679 28819	2-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}pyrimidine-5-carboxylic acid
+T242	OTHER_COMPOUND 28838 28969	6-(3-{2-[2-(4-fluorophenyl)-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl]-2-oxoethyl}-3,8-diazabicyclo[3.2.1]oct-8-yl)nicotinonitrile
+T243	OTHER_COMPOUND 28986 28987	:
+T244	OTHER_COMPOUND 28988 29112	6-{3-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinonitrile
+T245	OTHER_COMPOUND 29131 29252	4-[2-oxo-2-(2-phenyl-3,4,6,7-tetrahydroimidazo[4,5-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T246	OTHER_COMPOUND 29267 29269	79
+T247	OTHER_COMPOUND 29271 29403	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic acid ethyl
+T248	OTHER_COMPOUND 29428 29564	1-[2-(4-fluorophenyl)-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl]-2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T249	OTHER_COMPOUND 29739 29858	4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[4,5-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T250	OTHER_COMPOUND 29877 29995	4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-oxazolo[4,5-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T251	OTHER_COMPOUND 30014 30139	4-[2-oxo-2-(2-pyridin-3-yl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T252	OTHER_COMPOUND 30158 30307	2-{8-[5-(2-methyl-2H-tetrazol-5-yl)pyridin-2-yl]-3,8-diazabicyclo [3.2.1]oct-3-yl}-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T253	OTHER_COMPOUND 30324 30325	:
+T254	OTHER_COMPOUND 30326 30479	2-{(2S,6R)-2,6-dimethyl-4-[5-(1 -methyl-1 H-tetrazol-5-yl)pyridin-2-yl]piperazin-1-yl}-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T255	OTHER_COMPOUND 30490 30492	No
+T256	OTHER_COMPOUND 30498 30649	2-{(2S,6R)-2,6-dimethyl-4-[5-(2-methyl-2H-tetrazol-5-yl)pyridin-2-yl]piperazin-1-yl}-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T257	OTHER_COMPOUND 30668 30816	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-1-[1-(4-trifluoromethylphenyl)-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T258	OTHER_COMPOUND 30835 30991	2-{(2S,6R)-2,6-dimethyl-4-[5-(5-methyl[1,2,4]oxadiazol-3-yl)pyridin-2-yl]piperazin-1-yl}-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5- yl)ethanone
+T259	OTHER_COMPOUND 31010 31155	2-[(2S,6R)-2,6-dimethyl-4-(5-[1,3,4]oxadiazol-2-ylpyridin-2-yl)piperazin-1-yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T260	OTHER_COMPOUND 31170 31172	91
+T261	OTHER_COMPOUND 31174 31331	2-{(2S,6R)-2,6-dimethyl-4-[5-(3-methyl-[1,2,4]oxadiazol-5-yl)pyridin-2-yl]piperazin-1-yl}-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5- yl)ethanone
+T262	OTHER_COMPOUND 31342 31344	No
+T263	OTHER_COMPOUND 31350 31487	6-{(3S,5R)-4-[2-(1-tert-butyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-oxoethyl]-3,5-dimethylpiperazin-1-yl}nicotinic acid methyl
+T264	OTHER_COMPOUND 31508 31510	93
+T265	OTHER_COMPOUND 31512 31637	6-{(3S,5R)-4-[2-(1-tert-butyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-oxoethyl]-3,5-dimethylpiperazin-1-yl}nicotinic
+T266	OTHER_COMPOUND 31657 31659	94
+T267	OTHER_COMPOUND 31661 31790	6-{3-[2-(1 -tert-butyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-oxoethyl]-3,8-diazabicyclo[3.2.1 ]oct-8-yl}nicotinic acid
+T268	OTHER_COMPOUND 31809 31874	2-[8-(5-fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1 ]oct-3-yl]-1
+T269	OTHER_COMPOUND 31955 32073	4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-oxazolo[5,4-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T270	OTHER_COMPOUND 32092 32226	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-(2-phenyl-4,7-dihydro-5H-fluoro[2,3-c]pyridin-6-yl)ethanone
+T271	OTHER_COMPOUND 32245 32387	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic acid isopropyl ester
+T272	OTHER_COMPOUND 32406 32542	1-(2-methyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-[8-(5-trifluoromethylpyridin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T273	OTHER_COMPOUND 32562 32701	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-(2-methyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T274	OTHER_COMPOUND 32721 32852	1-(2-phenyl-4,7-dihydro-5H-fluoro[2,3-c]pyridin-6-yl)-2-[8-(5-trifluoromethylpyridin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T275	OTHER_COMPOUND 32867 32870	102
+T276	OTHER_COMPOUND 32872 32998	6-(3-{2-[2-(4-fluorophenyl)-6,7-dihydro-4H-thiazolo[5,4-c] pyridin-5-yl]-2-oxoethyl}-3,8-diazabicyclo[3.2.1]oct-8-yl)nicotinic
+T277	OTHER_COMPOUND 33023 33176	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-
+T278	OTHER_COMPOUND 33208 33282	2-[8-(5-trifluoromethylpyridin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-1- [
+T279	OTHER_COMPOUND 33391 33516	6-{(3S,5R)-4-[2-(2-tert-butyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-oxoethyl]-3,5-dimethylpiperazin-1-yl}nicotinic
+T280	OTHER_COMPOUND 33541 33594	2-(8-pyridin-3-yl-3,8-diazabicyclo[3.2.1 ]oct-3-yl)-1
+T281	OTHER_COMPOUND 33705 33849	2-[5-(6-trifluoromethylpyridazin-3-yl)-2,5-diazabicyclo[2.2.1] hept-2- yl]-1-[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c
+T282	OTHER_COMPOUND 33851 33872	pyridin-5-yl]ethanone
+T283	OTHER_COMPOUND 33892 34038	2-(6'-chloro-2,3,5,6-tetrahydro[1,2']bipyrazinyl-4-yl)-1-[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T284	OTHER_COMPOUND 34058 34059	1
+T285	OTHER_COMPOUND 34214 34352	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-(2-phenyl-3,4,6,7-tetrahydroimidazo[4,5-c]pyridin-5-yl)ethanone
+T286	OTHER_COMPOUND 34372 34530	2-((3S,5R)-3,5-dimethyl-2,3,5,6-tetrahydro[1,2']bipyrazinyl-4-yl)-1-[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5- yl]ethanone
+T287	OTHER_COMPOUND 34545 34548	112
+T288	REACTION_PRODUCT 34550 34707	2-[(2S,6R)-4-(5-chloropyridin-2-yl)-2,6-dimethylpiperazin-1 -yl]-1 [2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5- yl]ethanone
+T289	OTHER_COMPOUND 34722 34725	113
+T290	OTHER_COMPOUND 34727 34773	2-[4-(7-chloroquinolin-4-yl)piperazin-1 -yl]-1
+T291	OTHER_COMPOUND 34859 34968	2-[4-(6-chloropyridin-2-yl)piperazin-1-yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T292	OTHER_COMPOUND 34988 34989	1
+T293	OTHER_COMPOUND 34990 35128	-(2-pyridin-4-yl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)-2-[8-(5-trifluoromethylpyridin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T294	OTHER_COMPOUND 35148 35273	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-3,4,6,7-tetrahydroimidazo[4,5-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic acid
+T295	OTHER_COMPOUND 35288 35291	117
+T296	OTHER_COMPOUND 35293 35435	1-(2-pyridin-2-yl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-[8-(5-trifluoromethylpyridin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T297	OTHER_COMPOUND 35455 35529	2-[(2S,6R)-2,6-dimethyl-4-(5-tnfluoromethylpyridin-2-yl)piperazin-Compound
+T298	OTHER_COMPOUND 35539 35668	4-[2-oxo-2-(2-pyridin-2-yl-2,4,6,7-tetrahydropyrazolo[4,3-c] pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T299	OTHER_COMPOUND 35688 35819	4-{2-[2-(4-fluorophenyl)-3,4,6,7-tetrahydroimidazo[4,5-c]pyridin-5-yl]-2-oxoethyl}-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T300	OTHER_COMPOUND 35839 35962	2-(8-pyridin-3-yl-3,8-diazabicyclo[3.2.1]oct-3-yl)-1-(2-pyridin-2-yl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T301	OTHER_COMPOUND 35982 36134	1-[2-(2,2,2-trifluoroethyl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]-2-[8-(5-trifluoromethylpyridin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T302	OTHER_COMPOUND 36149 36152	123
+T303	OTHER_COMPOUND 36154 36155	1
+T304	OTHER_COMPOUND 36320 36468	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-[2-(4-fluorophenyl)-3,4,6,7-tetrahydroimidazo[4,5-c]pyridin-5-yl]ethanone
+T305	OTHER_COMPOUND 36488 36627	4-{2-oxo-2-[2-(2,2,2-trifluoroethyl)-2,4,6,7-tetrahydropyrazolo [4,3-c]pyridin-5-yl]ethyl}-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T306	OTHER_COMPOUND 36647 36802	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-[2-(2,2,2-trifluoroethyl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T307	OTHER_COMPOUND 36824 36960	-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-[5-(5-trifluoromethylpyridin-2-yl)-2,5-diazabicyclo[2.2.1]hept-2-yl]ethanone
+T308	OTHER_COMPOUND 36980 37098	6-{3-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic
+T309	OTHER_COMPOUND 37104 37120	cyclobutyl ester
+T310	OTHER_COMPOUND 37140 37261	2-((2S,6R)-2,6-dimethyl-4-quinolin-2-ylpiperazin-1-yl)-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T311	OTHER_COMPOUND 37281 37402	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic
+T312	OTHER_COMPOUND 37408 37419	ethyl ester
+T313	OTHER_COMPOUND 37439 37580	2-[(2S,6R)-4-(5-methanesulphonylpyridin-2-yl)-2,6-dimethylpiperazin-1-yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5- yl)ethanone
+T314	OTHER_COMPOUND 37595 37598	132
+T315	OTHER_COMPOUND 37600 37741	2-[(2S,6R)-4-(5-fluoropyrimidin-2-yl)-2,6-dimethylpiperazin-1 -yl]-1-[2-(4-methoxyphenyl)-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl]ethanone
+T316	OTHER_COMPOUND 37761 37762	1
+T317	OTHER_COMPOUND 37918 37920	No
+T318	OTHER_COMPOUND 37927 38044	1-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)-2-{4-[5-(2H-pyrazol-3-yl)pyridin-2-yl]piperazin-1-yl}ethanone
+T319	OTHER_COMPOUND 38064 38200	2-[(2S,6R)-2,6-dimethyl-4-(5-thiazol-2-ylpyridin-2-yl)piperazin-1 yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T320	OTHER_COMPOUND 38220 38350	1-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)-2-[8-(5-thiazol-2-ylpyridin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]ethanone
+T321	OTHER_COMPOUND 38370 38429	2-[8-(5-[1,2,4]oxadiazol-3-ylpyridin-2-yl)-3,8-diazabicyclo
+T322	OTHER_COMPOUND 38430 38513	[3.2.1]oct-3-yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T323	OTHER_COMPOUND 38533 38534	1
+T324	OTHER_COMPOUND 38689 38834	2-[(2S,6R)-2,6-dimethyl-4-(5-[1,2,4]oxadiazol-5-ylpyridin-2-yl)piperazin-1-yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T325	OTHER_COMPOUND 38854 38981	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-pyridin-2-yl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic
+T326	OTHER_COMPOUND 39006 39134	2-((2S,6R)-2,6-dimethyl-4-pyridin-3-ylpiperazin-1 -yl)-1 -(2-pyridin-4-yl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T327	OTHER_COMPOUND 39145 39147	No
+T328	OTHER_COMPOUND 39149 39152	142
+T329	OTHER_COMPOUND 39154 39292	2-((2S,6R)-2,6-dimethyl-4-pyridin-3-ylpiperazin-1 -yl)-1 -[2-(5-fluoropyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T330	OTHER_COMPOUND 39307 39310	143
+T331	OTHER_COMPOUND 39312 39459	2-((2S,6R)-2,6-dimethyl-4-pyridin-3-ylpiperazin-1 -yl)-1 -[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T332	OTHER_COMPOUND 39479 39618	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-pyridin-2-yl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic acid methyl
+T333	REACTION_PRODUCT 39644 39765	2-((2S,6R)-2,6-dimethyl-4-pyridin-3-ylpiperazin-1 -yl)-1 -(2-phenyl-3,4,6,7-tetrahydroimidazo[4,5-c]pyridin-5-yl)ethanone
+T334	OTHER_COMPOUND 39785 39932	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-(2-pyridazin-3-yl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T335	OTHER_COMPOUND 39952 40090	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-(2-ethyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T336	OTHER_COMPOUND 40110 40231	4-[2-(2-ethyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)-2-oxoethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one
+T337	OTHER_COMPOUND 40251 40372	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic
+T338	OTHER_COMPOUND 40397 40523	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic acid
+T339	OTHER_COMPOUND 40576 40578	Pg
+T340	OTHER_COMPOUND 40683 40691	hydroxyl
+T341	OTHER_COMPOUND 41442 41449	halogen
+T342	OTHER_COMPOUND 41468 41476	chlorine
+T343	OTHER_COMPOUND 41515 41520	(III)
+T344	OTHER_COMPOUND 41522 41528	H-W-R2
+T345	OTHER_COMPOUND 41530 41532	HI
+T346	OTHER_COMPOUND 41796 41831	triethylamine, N,N-diisopropylamine
+T347	OTHER_COMPOUND 41833 41854	diisopropylethylamine
+T348	OTHER_COMPOUND 41856 41860	DPEA
+T349	OTHER_COMPOUND 41865 41882	Νmethylmorpholine
+T350	OTHER_COMPOUND 41886 41909	alkali metal carbonates
+T351	OTHER_COMPOUND 41934 41953	potassium carbonate
+T352	OTHER_COMPOUND 41955 41971	sodium carbonate
+T353	OTHER_COMPOUND 41975 41993	sodium bicarbonate
+T354	OTHER_COMPOUND 42038 42044	alkali
+T355	OTHER_COMPOUND 42045 42057	metal iodide
+T356	OTHER_COMPOUND 42066 42082	potassium iodide
+T357	OTHER_COMPOUND 42086 42099	sodium iodide
+T358	SOLVENT 42150 42162	acetonitrile
+T359	SOLVENT 42164 42185	N,N-dimethylformamide
+T360	SOLVENT 42187 42190	DMF
+T361	OTHER_COMPOUND 42193 42213	Νmethylpyrrolidinone
+T362	SOLVENT 42215 42222	toluene
+T363	OTHER_COMPOUND 42226 42237	propan-2-ol
+T364	TEMPERATURE 42268 42287	ambient temperature
+T365	TEMPERATURE 42296 42302	reflux
+T366	TEMPERATURE 42336 42355	ambient temperature
+T367	TEMPERATURE 42399 42400	5
+T368	TEMPERATURE 42405 42409	25°C
+T369	OTHER_COMPOUND 42481 42499	sodium bicarbonate
+T370	OTHER_COMPOUND 42507 42520	sodium iodide
+T371	OTHER_COMPOUND 42542 42545	DMF
+T372	REACTION_PRODUCT 42833 42843	carboxylic
+T373	OTHER_COMPOUND 42858 42863	cyano
+T374	REACTION_PRODUCT 42882 42891	tetrazole
+T375	OTHER_COMPOUND 43035 43052	hydrochloric acid
+T376	OTHER_COMPOUND 43054 43070	hydrobromic acid
+T377	OTHER_COMPOUND 43074 43085	oxalic acid
+T378	OTHER_COMPOUND 43112 43117	(III)
+T379	OTHER_COMPOUND 43233 43236	VIM
+T380	OTHER_COMPOUND 43329 43337	nitrogen
+T381	OTHER_COMPOUND 43346 43347	W
+T382	OTHER_COMPOUND 43369 43375	benzyl
+T383	OTHER_COMPOUND 43534 43538	Pd/C
+T384	OTHER_COMPOUND 43560 43574	chloroformates
+T385	OTHER_COMPOUND 43604 43608	acid
+T386	OTHER_COMPOUND 43687 43694	formula
+T387	OTHER_COMPOUND 43701 43707	Pg-W-H
+T388	OTHER_COMPOUND 43724 43730	Hal-R2
+T389	OTHER_COMPOUND 43801 43808	halogen
+T390	OTHER_COMPOUND 43826 43834	chlorine
+T391	OTHER_COMPOUND 43982 43990	formulae
+T392	REAGENT_CATALYST 44123 44132	palladium
+T393	OTHER_COMPOUND 44224 44231	toluene
+T394	OTHER_COMPOUND 44235 44241	xylene
+T395	TEMPERATURE 44268 44287	ambient temperature
+T396	TEMPERATURE 44292 44297	110°C
+T397	REACTION_PRODUCT 44497 44508	cyano group
+T398	OTHER_COMPOUND 44521 44527	Suzuki
+T399	OTHER_COMPOUND 44607 44609	|X
+T400	OTHER_COMPOUND 44636 44641	-Aryl
+T401	OTHER_COMPOUND 44657 44662	-Aryl
+T402	OTHER_COMPOUND 44709 44714	^B-R7
+T403	OTHER_COMPOUND 44774 44785	iodo, bromo
+T404	OTHER_COMPOUND 44789 44815	trifluoromethanesulphonate
+T405	OTHER_COMPOUND 44833 44844	heterocycle
+T406	OTHER_COMPOUND 44941 44946	boron
+T407	OTHER_COMPOUND 45500 45512	formula (IV)
+T408	OTHER_COMPOUND 45680 45683	Hal
+T409	OTHER_COMPOUND 45801 45804	Hal
+T410	OTHER_COMPOUND 45818 45821	Hal
+T411	OTHER_COMPOUND 45836 45844	chlorine
+T412	OTHER_COMPOUND 45925 45938	triethylamine
+T413	REAGENT_CATALYST 45940 45965	N,N-diisopropylethylamine
+T414	REAGENT_CATALYST 45969 45987	N-methylmorpholine
+T415	OTHER_COMPOUND 46010 46025	dichloromethane
+T416	OTHER_COMPOUND 46027 46037	chloroform
+T417	OTHER_COMPOUND 46039 46054	tetrahydrofuran
+T418	SOLVENT 46056 46063	dioxane
+T419	TEMPERATURE 46124 46127	0°C
+T420	TEMPERATURE 46132 46151	ambient temperature
+T421	OTHER_COMPOUND 46756 46762	Hal-R2
+T422	OTHER_COMPOUND 46765 46772	Pg-W-R2
+T423	OTHER_COMPOUND 46992 46998	methyl
+T424	OTHER_COMPOUND 47000 47005	ethyl
+T425	OTHER_COMPOUND 47009 47015	benzyl
+T426	OTHER_COMPOUND 47066 47069	XIV
+T427	OTHER_COMPOUND 47072 47076	HOOC
+T428	OTHER_COMPOUND 47083 47086	XIV
+T429	SOLVENT 47357 47372	dichloromethane
+T430	SOLVENT 47374 47377	DMF
+T431	SOLVENT 47381 47384	THF
+T432	OTHER_COMPOUND 47420 47428	pyridine
+T433	REAGENT_CATALYST 47430 47443	triethylamine
+T434	REAGENT_CATALYST 47445 47465	N,N-diisopropylamine
+T435	REAGENT_CATALYST 47469 47490	diisopropylethylamine
+T436	REAGENT_CATALYST 47492 47496	DPEA
+T437	REAGENT_CATALYST 47534 47537	BOP
+T438	REAGENT_CATALYST 47539 47542	DBU
+T439	REAGENT_CATALYST 47546 47549	DCC
+T440	TEMPERATURE 47604 47623	ambient temperature
+T441	TEMPERATURE 47632 47650	reflux temperature
+T442	TEMPERATURE 47677 47696	ambient temperature
+T443	TEMPERATURE 47740 47750	5 and 25°C
+T444	REAGENT_CATALYST 47822 47840	sodium bicarbonate
+T445	REAGENT_CATALYST 47845 47858	sodium iodide
+T446	SOLVENT 47881 47884	DMF
+T447	OTHER_COMPOUND 48005 48006	R
+T448	OTHER_COMPOUND 48035 48037	R8
+T449	REACTION_PRODUCT 48171 48187	carboxylic group
+T450	OTHER_COMPOUND 48196 48201	cyano
+T451	REACTION_PRODUCT 48218 48233	tetrazole group
+T452	OTHER_COMPOUND 48371 48388	hydrochloric acid
+T453	OTHER_COMPOUND 48390 48406	hydrobromic acid
+T454	OTHER_COMPOUND 48410 48421	oxalic acid
+T455	REACTION_PRODUCT 48449 48452	XIV
+T456	OTHER_COMPOUND 48510 48514	W-R2
+T457	OTHER_COMPOUND 48645 48651	methyl
+T458	OTHER_COMPOUND 48653 48658	ethyl
+T459	OTHER_COMPOUND 48662 48668	benzyl
+T460	OTHER_COMPOUND 48807 48814	aqueous
+T461	OTHER_COMPOUND 48874 48881	alcohol
+T462	OTHER_COMPOUND 48885 48888	THF
+T463	OTHER_COMPOUND 48898 48906	hydrogen
+T464	OTHER_COMPOUND 49238 49251	methyl, ethyl
+T465	OTHER_COMPOUND 49255 49261	benzyl
+T466	OTHER_COMPOUND 49280 49287	halogen
+T467	OTHER_COMPOUND 49307 49315	chlorine
+T468	OTHER_COMPOUND 49322 49323	η
+T469	REAGENT_CATALYST 49436 49449	triethylamine
+T470	REAGENT_CATALYST 49451 49476	N,N-diisopropylethylamine
+T471	REAGENT_CATALYST 49480 49498	N-methylmorpholine
+T472	SOLVENT 49521 49536	dichloromethane
+T473	OTHER_COMPOUND 49538 49548	chloroform
+T474	SOLVENT 49550 49565	tetrahydrofuran
+T475	SOLVENT 49567 49574	dioxane
+T476	TEMPERATURE 49635 49638	0°C
+T477	TEMPERATURE 49643 49662	ambient temperature
+T478	REACTION_PRODUCT 49689 49694	(XII)
+T479	OTHER_COMPOUND 49758 49763	(III)
+T480	OTHER_COMPOUND 49866 49873	Pg-W-R2
+T481	OTHER_COMPOUND 49875 49878	VIM
+T482	OTHER_COMPOUND 49932 49934	Pg
+T483	OTHER_COMPOUND 49971 49979	nitrogen
+T484	OTHER_COMPOUND 50011 50017	benzyl
+T485	OTHER_COMPOUND 50171 50175	Pd/C
+T486	OTHER_COMPOUND 50197 50211	chloroformates
+T487	OTHER_COMPOUND 50241 50245	acid
+T488	OTHER_COMPOUND 50361 50367	Hal-R2
+T489	OTHER_COMPOUND 50432 50444	halogen atom
+T490	OTHER_COMPOUND 50457 50465	chlorine
+T491	OTHER_COMPOUND 50625 50629	(IV)
+T492	OTHER_COMPOUND 50681 50687	(VIII)
+T493	OTHER_COMPOUND 50757 50775	palladium catalyst
+T494	OTHER_COMPOUND 50805 50814	phosphine
+T495	OTHER_COMPOUND 50858 50865	toluene
+T496	SOLVENT 50869 50875	xylene
+T497	TEMPERATURE 50902 50921	ambient temperature
+T498	TEMPERATURE 50926 50931	110°C
+T499	OTHER_COMPOUND 50969 50975	(VIII)
+T500	OTHER_COMPOUND 50991 50993	R7
+T501	OTHER_COMPOUND 51107 51123	oxadiazole group
+T502	OTHER_COMPOUND 51131 51142	cyano group
+T503	OTHER_COMPOUND 51155 51161	Suzuki
+T504	OTHER_COMPOUND 51450 51457	formula
+T505	REACTION_PRODUCT 51458 51463	(VII)
+T506	OTHER_COMPOUND 52093 52095	I1
+T507	OTHER_COMPOUND 52177 52179	I1
+T508	OTHER_COMPOUND 52263 52265	I1
+T509	OTHER_COMPOUND 52537 52541	acid
+T510	OTHER_COMPOUND 53161 53166	Buchi
+T511	OTHER_COMPOUND 53487 53490	TMS
+T512	TEMPERATURE 53581 53585	40°C
+T513	TEMPERATURE 53595 53599	30°C
+T514	OTHER_COMPOUND 53872 53877	water
+T515	OTHER_COMPOUND 54421 54424	TFA
+T516	OTHER_COMPOUND 54438 54443	CH3CN
+T517	OTHER_COMPOUND 54475 54476	Β
+T518	TIME 54523 54532	5 minutes
+T519	OTHER_COMPOUND 54635 54640	CH3CN
+T520	OTHER_COMPOUND 54641 54644	H20
+T521	OTHER_COMPOUND 54703 54706	TFA
+T522	OTHER_COMPOUND 54720 54725	CH3CN
+T523	OTHER_COMPOUND 54735 54738	TFA
+T524	OTHER_COMPOUND 54929 54934	CH3CN
+T525	OTHER_COMPOUND 54935 54938	H20
+T526	OTHER_COMPOUND 54988 55004	ammonium acetate
+T527	OTHER_COMPOUND 55033 55038	CH3CN
+T528	TIME 55118 55127	5 minutes
+T529	OTHER_COMPOUND 55230 55235	CH3CN
+T530	OTHER_COMPOUND 55236 55239	H20
+T531	OTHER_COMPOUND 55547 55557	Silica gel
+T532	OTHER_COMPOUND 55577 55587	silica gel
+T533	STARTING_MATERIAL 55734 55799	(3R,5S)-3,5-Dimethyl-1 -(5-trifluoromethylpyridin-2-yl)piperazine
+T534	STARTING_MATERIAL 55809 55845	2-chloro-5-(trifluoromethyl)pyridine
+T535	STARTING_MATERIAL 55868 55871	VII
+T536	STARTING_MATERIAL 55884 55915	cis-2,6-dimethylaminopiperazine
+T537	STARTING_MATERIAL 55938 55940	VI
+T538	REAGENT_CATALYST 55954 55973	potassium carbonate
+T539	REAGENT_CATALYST 55987 55990	Nal
+T540	SOLVENT 56014 56017	DMF
+T541	TIME 56089 56095	30 min
+T542	TEMPERATURE 56099 56104	160°C
+T543	OTHER_COMPOUND 56160 56167	aqueous
+T544	OTHER_COMPOUND 56180 56195	sodium chloride
+T545	OTHER_COMPOUND 56240 56253	ethyl acetate
+T546	OTHER_COMPOUND 56287 56293	Na2S04
+T547	YIELD_OTHER 56333 56338	1.1 g
+T548	REACTION_PRODUCT 56380 56393	title product
+T549	REACTION_PRODUCT 56422 56481	2-[8-(5-Fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]octane
+T550	STARTING_MATERIAL 56506 56533	2-chloro-5-fluoropyrimidine
+T551	STARTING_MATERIAL 56556 56559	VII
+T552	STARTING_MATERIAL 56572 56610	1-benzyl-3,8-diazabicyclo[3.2.1]octane
+T553	STARTING_MATERIAL 56633 56635	VI
+T554	REAGENT_CATALYST 56648 56667	potassium carbonate
+T555	REAGENT_CATALYST 56682 56685	Nal
+T556	SOLVENT 56710 56729	N-methylpyrrolidone
+T557	TEMPERATURE 56756 56761	110°C
+T558	TIME 56766 56773	5 hours
+T559	OTHER_COMPOUND 56829 56836	aqueous
+T560	OTHER_COMPOUND 56849 56864	sodium chloride
+T561	OTHER_COMPOUND 56909 56922	ethyl acetate
+T562	OTHER_COMPOUND 56956 56962	Na2S04
+T563	OTHER_COMPOUND 57135 57146	cyclohexane
+T564	OTHER_COMPOUND 57149 57162	ethyl acetate
+T565	YIELD_OTHER 57164 57169	1.4 g
+T566	SOLVENT 57225 57243	1,2-dichloroethane
+T567	STARTING_MATERIAL 57256 57283	1-chloroethyl chloroformate
+T568	TEMPERATURE 57296 57299	0°C
+T569	OTHER_COMPOUND 57340 57348	nitrogen
+T570	TIME 57360 57370	10 minutes
+T571	TEMPERATURE 57374 57377	0°C
+T572	TIME 57387 57394	3 hours
+T573	TEMPERATURE 57398 57402	85°C
+T574	OTHER_COMPOUND 57447 57455	methanol
+T575	TIME 57494 57504	30 minutes
+T576	TEMPERATURE 57512 57530	reflux temperature
+T577	OTHER_COMPOUND 57594 57605	isopropanol
+T578	YIELD_OTHER 57657 57663	900 mg
+T579	REACTION_PRODUCT 57667 57680	title product
+T580	REACTION_PRODUCT 57723 57788	(3R,5S)-3,5-Dimethyl-1 -(6-trifluoromethylpyridin-2-yl)piperazine
+T581	STARTING_MATERIAL 57798 57831	2-trifluoromethyl-5-bromopyridine
+T582	STARTING_MATERIAL 57854 57857	VII
+T583	STARTING_MATERIAL 57870 57896	cis-2,6-dimethylpiperazine
+T584	STARTING_MATERIAL 57919 57921	VI
+T585	REAGENT_CATALYST 57935 57952	palladium acetate
+T586	REAGENT_CATALYST 57964 57981	sodium t-butoxide
+T587	REAGENT_CATALYST 57995 58016	tri-t-butyl phosphine
+T588	SOLVENT 58041 58049	o-xylene
+T589	TEMPERATURE 58077 58082	120°C
+T590	TIME 58087 58094	6 hours
+T591	OTHER_COMPOUND 58138 58144	celite
+T592	YIELD_OTHER 58180 58185	1.8 g
+T593	REACTION_PRODUCT 58227 58240	title product
+T594	EXAMPLE_LABEL 58267 58268	4
+T595	REACTION_PRODUCT 58269 58327	3,8-Diazabicyclo[3.2.1]oct-8-ylnicotinic acid methyl ester
+T596	REACTION_PRODUCT 58352 58377	methyl 6-chloronicotinate
+T597	STARTING_MATERIAL 58400 58403	VII
+T598	STARTING_MATERIAL 58416 58454	1-benzyl-3,8-diazabicyclo[3.2.1]octane
+T599	STARTING_MATERIAL 58477 58479	VI
+T600	REAGENT_CATALYST 58492 58511	potassium carbonate
+T601	REAGENT_CATALYST 58526 58529	Nal
+T602	SOLVENT 58553 58572	N-methylpyrrolidone
+T603	TIME 58601 58608	7 hours
+T604	TEMPERATURE 58612 58617	110°C
+T605	OTHER_COMPOUND 58673 58680	aqueous
+T606	OTHER_COMPOUND 58693 58708	sodium chloride
+T607	OTHER_COMPOUND 58753 58766	ethyl acetate
+T608	OTHER_COMPOUND 58800 58806	Na2S04
+T609	YIELD_OTHER 58846 58851	1.1 g
+T610	OTHER_COMPOUND 58978 58989	cyclohexane
+T611	OTHER_COMPOUND 58992 59005	ethyl acetate
+T612	YIELD_OTHER 59007 59013	520 mg
+T613	TEMPERATURE 59105 59109	40°C
+T614	TIME 59141 59148	2 hours
+T615	SOLVENT 59161 59168	ethanol
+T616	OTHER_COMPOUND 59181 59196	isopropanol.HCI
+T617	REAGENT_CATALYST 59227 59231	Pd/C
+T618	YIELD_OTHER 59310 59316	440 mg
+T619	REACTION_PRODUCT 59324 59337	title product
+T620	REACTION_PRODUCT 59395 59445	6-(2-Oxopiperazin-1-yl)nicotinic acid methyl ester
+T621	REACTION_PRODUCT 59468 59522	6-(2-Benzylaminoethylamino)nicotinic acid methyl ester
+T622	STARTING_MATERIAL 59533 59558	methyl 6-chloronicotinate
+T623	STARTING_MATERIAL 59574 59597	N-benzylethylenediamine
+T624	TEMPERATURE 59612 59617	135°C
+T625	TIME 59622 59629	6 hours
+T626	OTHER_COMPOUND 59694 59699	water
+T627	OTHER_COMPOUND 59735 59748	ethyl acetate
+T628	EXAMPLE_LABEL 59884 59885	b
+T629	REACTION_PRODUCT 59887 59946	6-(4-Benzyl-2-oxopiperazin-1-yl)nicotinic acid methyl ester
+T630	REAGENT_CATALYST 60023 60026	HCI
+T631	STARTING_MATERIAL 60035 60061	trimeric glyoxal dihydrate
+T632	TEMPERATURE 60107 60126	ambient temperature
+T633	TIME 60131 60140	120 hours
+T634	OTHER_COMPOUND 60173 60186	ethyl acetate
+T635	EXAMPLE_LABEL 60322 60323	c
+T636	REACTION_PRODUCT 60325 60390	(6-(2-Oxopiperazin-1-yl)nicotinic acid methyl ester hydrochloride
+T637	STARTING_MATERIAL 60417 60420	1.4
+T638	SOLVENT 60451 60458	ethanol
+T639	OTHER_COMPOUND 60490 60501	isopropanol
+T640	REAGENT_CATALYST 60517 60520	HCI
+T641	REAGENT_CATALYST 60534 60538	Pd/C
+T642	OTHER_COMPOUND 60594 60602	hydrogen
+T643	TIME 60614 60621	4 hours
+T644	TEMPERATURE 60642 60646	40°C
+T645	YIELD_OTHER 60722 60728	0.52 g
+T646	REACTION_PRODUCT 60736 60750	title compound
+T647	EXAMPLE_LABEL 60776 60777	6
+T648	REACTION_PRODUCT 60778 60851	2-Chloro-1 -(2-phenyl-6,7-dihydro-4H-thiazolo[4,5-c]pyridin-5-yl)ethanone
+T649	EXAMPLE_LABEL 60857 60858	a
+T650	STARTING_MATERIAL 60861 60881	2-Bromo-4-piperidone
+T651	STARTING_MATERIAL 60892 60910	1-Boc-4-piperidone
+T652	SOLVENT 60938 60953	dichloromethane
+T653	REAGENT_CATALYST 60962 60969	bromine
+T654	TEMPERATURE 61022 61041	ambient temperature
+T655	TIME 61046 61053	2 hours
+T656	OTHER_COMPOUND 61139 61154	isopropyl ether
+T657	EXAMPLE_LABEL 61209 61210	b
+T658	REACTION_PRODUCT 61212 61263	(2-Phenyl-4,5,6,7-tetrahydrothiazolo[5,4-c]pyridine
+T659	STARTING_MATERIAL 61279 61286	product
+T660	SOLVENT 61350 61353	DMF
+T661	STARTING_MATERIAL 61367 61380	thiobenzamide
+T662	TEMPERATURE 61425 61429	60°C
+T663	TIME 61434 61441	6 hours
+T664	OTHER_COMPOUND 61446 61453	aqueous
+T665	OTHER_COMPOUND 61454 61461	ammonia
+T666	OTHER_COMPOUND 61669 61682	ethyl acetate
+T667	OTHER_COMPOUND 61697 61705	methanol
+T668	YIELD_OTHER 61707 61710	4 g
+T669	REACTION_PRODUCT 61722 61727	solid
+T670	OTHER_COMPOUND 61764 61775	isopropanol
+T671	YIELD_OTHER 61807 61812	2.8 g
+T672	REACTION_PRODUCT 61824 61829	solid
+T673	EXAMPLE_LABEL 61849 61850	c
+T674	STARTING_MATERIAL 61993 62000	product
+T675	SOLVENT 62027 62042	dichloromethane
+T676	REAGENT_CATALYST 62054 62067	triethylamine
+T677	TEMPERATURE 62108 62111	0°C
+T678	TEMPERATURE 62116 62119	0°C
+T679	STARTING_MATERIAL 62131 62152	chloroacetyl chloride
+T680	TIME 62279 62280	1
+T681	TIME 62285 62297	a half hours
+T682	OTHER_COMPOUND 62314 62319	water
+T683	OTHER_COMPOUND 62352 62367	dichloromethane
+T684	OTHER_COMPOUND 62401 62407	Na2S04
+T685	OTHER_COMPOUND 62468 62471	fat
+T686	YIELD_OTHER 62637 62643	1.1 mg
+T687	REACTION_PRODUCT 62651 62664	title product
+T688	REACTION_PRODUCT 62719 62722	7-I
+T689	REACTION_PRODUCT 62727 62807	7-II 2-Chloro-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T690	REACTION_PRODUCT 62809 62812	7-I
+T691	REACTION_PRODUCT 62818 62895	2-chloro-1 -(1 -phenyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T692	REACTION_PRODUCT 62897 62900	7-Μ
+T693	REACTION_PRODUCT 62911 62976	3-[1-Dimethylaminometh-(Z)-ylidene]-4-oxopiperidine-1 -carboxylic
+T694	STARTING_MATERIAL 63009 63027	1-Boc-4-piperidone
+T695	REAGENT_CATALYST 63041 63078	N,N-dimethylformamide dimethylacetate
+T696	TEMPERATURE 63083 63091	refluxed
+T697	YIELD_OTHER 63199 63204	2.4 g
+T698	EXAMPLE_LABEL 63244 63245	b
+T699	REACTION_PRODUCT 63247 63332	2-Phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridine-5-carboxylic acid tert-butyl ester
+T700	REACTION_PRODUCT 63334 63337	b-l
+T701	REACTION_PRODUCT 63343 63428	1-phenyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridine-5-carboxylic acid tert-butyl ester
+T702	REACTION_PRODUCT 63430 63434	b-lI
+T703	SOLVENT 63494 63502	methanol
+T704	STARTING_MATERIAL 63514 63529	phenylhydrazine
+T705	TEMPERATURE 63559 63567	refluxed
+T706	TIME 63572 63579	3 hours
+T707	OTHER_COMPOUND 63753 63766	ethyl acetate
+T708	OTHER_COMPOUND 63771 63782	cyclohexane
+T709	YIELD_OTHER 63784 63789	1.8 g
+T710	EXAMPLE_LABEL 63829 63830	c
+T711	REACTION_PRODUCT 63832 63898	(2-Phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridine- hydrochloride
+T712	REACTION_PRODUCT 63900 63903	c-l
+T713	REACTION_PRODUCT 63909 63976	1-phenyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridine-5- hydrochloride
+T714	REACTION_PRODUCT 63978 63982	c-ll
+T715	STARTING_MATERIAL 64004 64012	products
+T716	STARTING_MATERIAL 64021 64022	b
+T717	STARTING_MATERIAL 64025 64028	b-l
+T718	STARTING_MATERIAL 64033 64037	b-ll
+T719	REAGENT_CATALYST 64078 64098	trifluoroacetic acid
+T720	TEMPERATURE 64102 64105	0°C
+T721	TIME 64144 64151	2 hours
+T722	TEMPERATURE 64155 64174	ambient temperature
+T723	OTHER_COMPOUND 64180 64200	trifluoroacetic acid
+T724	OTHER_COMPOUND 64224 64241	hydrochloric acid
+T725	OTHER_COMPOUND 64352 64363	isopropanol
+T726	YIELD_OTHER 64365 64368	1 g
+T727	REACTION_PRODUCT 64378 64383	solid
+T728	EXAMPLE_LABEL 64402 64403	d
+T729	REACTION_PRODUCT 64405 64480	2-Chloro-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T730	REACTION_PRODUCT 64482 64485	7-I
+T731	REACTION_PRODUCT 64491 64566	2-chloro-1-(1-phenyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T732	REACTION_PRODUCT 64568 64571	7-Ν
+T733	STARTING_MATERIAL 64592 64600	products
+T734	STARTING_MATERIAL 64613 64616	c-l
+T735	STARTING_MATERIAL 64621 64625	c-ll
+T736	SOLVENT 64657 64672	dichloromethane
+T737	REAGENT_CATALYST 64736 64749	triethylamine
+T738	TEMPERATURE 64790 64793	0°C
+T739	TEMPERATURE 64798 64801	0°C
+T740	STARTING_MATERIAL 64813 64834	chloroacetyl chloride
+T741	STARTING_MATERIAL 64886 64897	Hal=Hal'=CI
+T742	TIME 64960 64965	1 and
+T743	TIME 64968 64978	half hours
+T744	OTHER_COMPOUND 64998 65003	water
+T745	OTHER_COMPOUND 65036 65051	dichloromethane
+T746	OTHER_COMPOUND 65085 65091	Na2S04
+T747	OTHER_COMPOUND 65234 65245	cyclohexane
+T748	OTHER_COMPOUND 65248 65261	ethyl acetate
+T749	YIELD_OTHER 65263 65269	0.15 g
+T750	REACTION_PRODUCT 65277 65290	title product
+T751	REACTION_PRODUCT 65291 65294	7-I
+T752	REACTION_PRODUCT 65307 65314	product
+T753	YIELD_OTHER 65359 65365	0.15 g
+T754	REACTION_PRODUCT 65373 65386	title product
+T755	REACTION_PRODUCT 65387 65391	7-II
+T756	EXAMPLE_LABEL 65465 65466	8
+T757	REACTION_PRODUCT 65467 65560	2-Chloro-1 -[1 -(2,2,2-trifluoroethyl)-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T758	OTHER_COMPOUND 65632 65663	(2,2,2-trifluoroethyl)hydrazine
+T759	OTHER_COMPOUND 65675 65690	phenylhydrazine
+T760	REACTION_PRODUCT 65696 65710	title compound
+T761	EXAMPLE_LABEL 65763 65764	9
+T762	REACTION_PRODUCT 65765 65848	2-Chloro-1 -(2-pyridin-2-yl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5- yl)ethanone
+T763	REACTION_PRODUCT 65857 65927	4-(Pyridin-2-ylhydrazono)piperidine-1-carboxylic acid tert-butyl ester
+T764	STARTING_MATERIAL 66013 66029	N-Boc-piperidone
+T765	STARTING_MATERIAL 66041 66062	pyridin-2-ylhydrazine
+T766	SOLVENT 66074 66082	methanol
+T767	SOLVENT 66110 66118	methanol
+T768	OTHER_COMPOUND 66134 66137	HCI
+T769	OTHER_COMPOUND 66176 66184	nitrogen
+T770	TIME 66196 66199	2 h
+T771	TEMPERATURE 66203 66221	reflux temperature
+T772	OTHER_COMPOUND 66307 66322	dichloromethane
+T773	OTHER_COMPOUND 66367 66374	aqueous
+T774	OTHER_COMPOUND 66387 66393	NaHC03
+T775	OTHER_COMPOUND 66427 66433	Na2S04
+T776	YIELD_OTHER 66473 66478	4.0 g
+T777	REACTION_PRODUCT 66486 66499	title product
+T778	EXAMPLE_LABEL 66544 66545	b
+T779	REACTION_PRODUCT 66547 66638	2-Pyridin-2-yl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridine-5-carboxylic acid tert-butyl ester
+T780	REAGENT_CATALYST 66649 66652	DMF
+T781	REAGENT_CATALYST 66705 66710	POCI3
+T782	TEMPERATURE 66731 66734	0°C
+T783	TEMPERATURE 66767 66770	0°C
+T784	TIME 66775 66781	30 min
+T785	REAGENT_CATALYST 66800 66808	pyridine
+T786	STARTING_MATERIAL 66823 66830	product
+T787	STARTING_MATERIAL 66839 66840	a
+T788	SOLVENT 66854 66857	DMF
+T789	TIME 66906 66913	4 hours
+T790	TEMPERATURE 66934 66938	80°C
+T791	OTHER_COMPOUND 66950 66955	water
+T792	OTHER_COMPOUND 67001 67014	ethyl acetate
+T793	OTHER_COMPOUND 67048 67054	Na2S04
+T794	YIELD_OTHER 67090 67095	4.0 g
+T795	REACTION_PRODUCT 67103 67116	title product
+T796	OTHER_COMPOUND 67255 67261	hexane
+T797	OTHER_COMPOUND 67264 67277	ethyl acetate
+T798	YIELD_OTHER 67279 67285	0.78 g
+T799	REACTION_PRODUCT 67293 67300	product
+T800	EXAMPLE_LABEL 67349 67350	c
+T801	REACTION_PRODUCT 67352 67426	2-Pyridin-2-yl-4,5,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridine hydrochloride
+T802	TEMPERATURE 67477 67480	0°C
+T803	REAGENT_CATALYST 67523 67543	trifluoroacetic acid
+T804	TIME 67583 67590	2 hours
+T805	TEMPERATURE 67594 67613	ambient temperature
+T806	OTHER_COMPOUND 67619 67639	trifluoroacetic acid
+T807	OTHER_COMPOUND 67676 67693	hydrochloric acid
+T808	OTHER_COMPOUND 67805 67816	isopropanol
+T809	YIELD_OTHER 67818 67823	0.6 g
+T810	EXAMPLE_LABEL 67859 67860	d
+T811	STARTING_MATERIAL 67862 67953	2-Chloro-1-[1-(2,2,2-trifluoroethyl)-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T812	STARTING_MATERIAL 67967 67974	product
+T813	STARTING_MATERIAL 67983 67984	c
+T814	SOLVENT 68010 68025	dichloromethane
+T815	REAGENT_CATALYST 68098 68111	triethylamine
+T816	TEMPERATURE 68151 68154	0°C
+T817	TEMPERATURE 68159 68162	0°C
+T818	STARTING_MATERIAL 68175 68196	chloroacetyl chloride
+T819	STARTING_MATERIAL 68248 68259	Hal=Hal'=CI
+T820	STARTING_MATERIAL 68264 68267	η=1
+T821	TIME 68322 68327	1 and
+T822	TIME 68330 68340	half hours
+T823	OTHER_COMPOUND 68357 68362	water
+T824	OTHER_COMPOUND 68395 68410	dichloromethane
+T825	OTHER_COMPOUND 68444 68450	Na2S04
+T826	OTHER_COMPOUND 68593 68604	cyclohexane
+T827	OTHER_COMPOUND 68607 68620	ethyl acetate
+T828	YIELD_OTHER 68622 68628	0.19 g
+T829	REACTION_PRODUCT 68636 68649	title product
+T830	EXAMPLE_LABEL 68702 68704	10
+T831	REACTION_PRODUCT 68705 68789	2-(2,2,2-Trifluoroethyl)-4,5,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridine hydrochloride
+T832	STARTING_MATERIAL 68871 68902	(2,2,2-trifluoroethyl)hydrazine
+T833	REACTION_PRODUCT 68914 68933	pyrid-2-ylhydrazine
+T834	REACTION_PRODUCT 68939 68953	title compound
+T835	EXAMPLE_LABEL 69014 69016	11
+T836	REACTION_PRODUCT 69017 69098	6-((3R,5S)-4-Carboxymethyl-3,5-dimethylpiperazin-1 -yl)nicotinic acid ethyl ester
+T837	EXAMPLE_LABEL 69104 69105	a
+T838	REACTION_PRODUCT 69107 69171	6-((3R,5S)-3,5-Dimethylpiperazin-1-yl)nicotinic acid ethyl ester
+T839	REACTION_PRODUCT 69244 69270	nicotinic acid ethyl ester
+T840	OTHER_COMPOUND 69282 69315	2-trifluoromethyl-5-bromopyridine
+T841	REACTION_PRODUCT 69321 69335	title compound
+T842	EXAMPLE_LABEL 69381 69382	b
+T843	REACTION_PRODUCT 69384 69474	6-((3R,5S)-4-Benzyloxycarbonylmethyl-3,5-dimethylpiperazin-1-yl)nicotinic acid ethyl ester
+T844	STARTING_MATERIAL 69574 69581	product
+T845	SOLVENT 69615 69618	THF
+T846	STARTING_MATERIAL 69630 69648	benzylbromoacetate
+T847	REAGENT_CATALYST 69663 69676	triethylamine
+T848	OTHER_COMPOUND 69715 69723	nitrogen
+T849	TEMPERATURE 69744 69763	ambient temperature
+T850	OTHER_COMPOUND 69906 69912	hexane
+T851	OTHER_COMPOUND 69915 69928	ethyl acetate
+T852	YIELD_OTHER 69930 69935	2.9 g
+T853	REACTION_PRODUCT 69943 69956	title product
+T854	EXAMPLE_LABEL 70003 70004	c
+T855	REACTION_PRODUCT 70006 70086	6-((3R,5S)-4-Carboxymethyl-3,5-dimethylpiperazin-1-yl)nicotinic acid ethyl ester
+T856	REACTION_PRODUCT 70100 70107	product
+T857	SOLVENT 70159 70166	ethanol
+T858	REAGENT_CATALYST 70187 70191	Pd/C
+T859	OTHER_COMPOUND 70247 70255	hydrogen
+T860	TIME 70267 70274	4 hours
+T861	TEMPERATURE 70295 70299	40°C
+T862	YIELD_OTHER 70384 70389	2.2 g
+T863	REACTION_PRODUCT 70397 70411	title compound
+T864	EXAMPLE_LABEL 70467 70469	12
+T865	REACTION_PRODUCT 70470 70551	[(2R,6S)-2,6-Dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]acetic acid
+T866	REACTION_PRODUCT 70560 70653	[(2R,6S)-2,6-Dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]acetic acid ethyl ester
+T867	STARTING_MATERIAL 70824 70846	bromoacetic acid ethyl
+T868	REACTION_PRODUCT 70864 70893	bromoacetic acid benzyl ester
+T869	REACTION_PRODUCT 70899 70913	title compound
+T870	EXAMPLE_LABEL 70953 70954	b
+T871	REACTION_PRODUCT 70956 71038	[(2R,6S)-2,6-Dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1 -yl]acetic acid
+T872	STARTING_MATERIAL 71053 71060	product
+T873	SOLVENT 71111 71118	ethanol
+T874	OTHER_COMPOUND 71143 71150	aqueous
+T875	OTHER_COMPOUND 71151 71155	NaOH
+T876	TIME 71209 71216	3 hours
+T877	TEMPERATURE 71237 71241	70°C
+T878	OTHER_COMPOUND 71291 71294	HCI
+T879	OTHER_COMPOUND 71327 71340	ethyl acetate
+T880	OTHER_COMPOUND 71374 71380	Na2S04
+T881	YIELD_OTHER 71420 71425	1.6 g
+T882	REACTION_PRODUCT 71433 71446	title product
+T883	EXAMPLE_LABEL 71502 71504	13
+T884	REACTION_PRODUCT 71505 71570	6-((3R,5S)-3,5-Dimethylpiperazin-1-yl)nicotinic acid methyl ester
+T885	STARTING_MATERIAL 71642 71677	6-chloronicotinic acid methyl ester
+T886	REACTION_PRODUCT 71689 71725	2-chloro-5-(trifluoromethyl)pyridine
+T887	REACTION_PRODUCT 71731 71745	title compound
+T888	STARTING_MATERIAL 71796 71898	2-Chloro-1 -[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3- c]pyridin-5-yl]ethanone
+T889	STARTING_MATERIAL 71906 71999	2-(5-trifluoromethylpyridin-2-yl)-4,5,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridine hydrochloride
+T890	SOLVENT 72025 72040	dichloromethane
+T891	REAGENT_CATALYST 72113 72126	triethylamine
+T892	TEMPERATURE 72166 72169	0°C
+T893	TEMPERATURE 72174 72177	0°C
+T894	STARTING_MATERIAL 72190 72211	chloroacetyl chloride
+T895	STARTING_MATERIAL 72263 72274	Hal=Hal'=CI
+T896	TIME 72337 72342	1 and
+T897	TIME 72345 72355	half hours
+T898	OTHER_COMPOUND 72375 72380	water
+T899	OTHER_COMPOUND 72413 72428	dichloromethane
+T900	OTHER_COMPOUND 72462 72468	Na2S04
+T901	OTHER_COMPOUND 72611 72622	cyclohexane
+T902	OTHER_COMPOUND 72625 72638	ethyl acetate
+T903	YIELD_OTHER 72640 72646	1.08 g
+T904	REACTION_PRODUCT 72654 72668	title compound
+T905	EXAMPLE_LABEL 72725 72727	15
+T906	REACTION_PRODUCT 72728 72772	8-Pyridin-3-yl-3,8-diazabicyclo[3.2.1]octane
+T907	REACTION_PRODUCT 72795 72848	3-Benzyl-8-pyridin-3-yl-3,8-diazabicyclo[3.2.1]octane
+T908	OTHER_COMPOUND 72921 72936	3-bromopyridine
+T909	OTHER_COMPOUND 72948 72981	2-trifluoromethyl-5-bromopyridine
+T910	OTHER_COMPOUND 72986 73024	1-benzyl-3,8-diazabicyclo[3.2.1]octane
+T911	OTHER_COMPOUND 73036 73062	cis-2,6-dimethylpiperazine
+T912	REACTION_PRODUCT 73068 73082	title compound
+T913	EXAMPLE_LABEL 73123 73124	b
+T914	REACTION_PRODUCT 73126 73170	8-Pyridin-3-yl-3,8-diazabicyclo[3.2.1]octane
+T915	SOLVENT 73228 73235	ethanol
+T916	OTHER_COMPOUND 73268 73279	isopropanol
+T917	REAGENT_CATALYST 73295 73298	HCI
+T918	REAGENT_CATALYST 73312 73316	Pd/C
+T919	OTHER_COMPOUND 73372 73380	hydrogen
+T920	TIME 73392 73399	4 hours
+T921	TEMPERATURE 73420 73424	40°C
+T922	YIELD_OTHER 73509 73515	0.84 g
+T923	REACTION_PRODUCT 73523 73537	title compound
+T924	EXAMPLE_LABEL 73563 73565	16
+T925	REACTION_PRODUCT 73566 73637	(3R,5S)-3,5-Dimethyl-1 -(5-[1,2,4]oxadiazol-3-ylpyridin-2-yl)piperazine
+T926	REACTION_PRODUCT 73646 73699	6-((3R,5S)-3,5-Dimethylpiperazin-1-yl)nicotinonitrile
+T927	STARTING_MATERIAL 73771 73795	2-chloro-5-cyanopyridine
+T928	REACTION_PRODUCT 73807 73843	2-chloro-5-(trifluoromethyl)pyridine
+T929	REACTION_PRODUCT 73849 73863	title compound
+T930	EXAMPLE_LABEL 73904 73905	b
+T931	REACTION_PRODUCT 73907 73978	(3R,5S)-3,5-Dimethyl-1 -(5-[1,2,4]oxadiazol-3-ylpyridin-2-yl)piperazine
+T932	SOLVENT 74116 74123	ethanol
+T933	SOLVENT 74128 74135	aqueous
+T934	REAGENT_CATALYST 74148 74175	hydroxylamine hydrochloride
+T935	REAGENT_CATALYST 74221 74227	Na2S04
+T936	SOLVENT 74241 74246	water
+T937	OTHER_COMPOUND 74285 74293	nitrogen
+T938	TIME 74305 74308	4 h
+T939	TEMPERATURE 74329 74333	90°C
+T940	REAGENT_CATALYST 74515 74531	acetic anhydride
+T941	TEMPERATURE 74545 74548	0°C
+T942	OTHER_COMPOUND 74587 74595	nitrogen
+T943	TIME 74607 74616	2.5 hours
+T944	TEMPERATURE 74624 74642	reflux temperature
+T945	OTHER_COMPOUND 74726 74739	ethyl acetate
+T946	OTHER_COMPOUND 74756 74763	aqueous
+T947	OTHER_COMPOUND 74776 74781	K2C03
+T948	OTHER_COMPOUND 74815 74821	Na2S04
+T949	REAGENT_CATALYST 74926 74929	HCI
+T950	OTHER_COMPOUND 74969 74977	nitrogen
+T951	TIME 74989 74992	2 h
+T952	TEMPERATURE 75000 75018	reflux temperature
+T953	OTHER_COMPOUND 75050 75066	sodium hydroxide
+T954	OTHER_COMPOUND 75102 75115	ethyl acetate
+T955	OTHER_COMPOUND 75149 75155	Na2S04
+T956	OTHER_COMPOUND 75298 75311	ethyl acetate
+T957	OTHER_COMPOUND 75314 75322	methanol
+T958	YIELD_OTHER 75324 75329	0.1 g
+T959	REACTION_PRODUCT 75337 75350	title product
+T960	REACTION_PRODUCT 75431 75433	17
+T961	REACTION_PRODUCT 75434 75479	1-[5-(2H-Pyrazol-3-yl)pyridin-2-yl]piperazine
+T962	REACTION_PRODUCT 75488 75555	4-(5-lodopyridin-2-yl)piperazine-1-carboxylic acid tert-butyl ester
+T963	STARTING_MATERIAL 75627 75650	2-fluoro-5-iodopyridine
+T964	OTHER_COMPOUND 75662 75698	2-chloro-5-(trifluoromethyl)pyridine
+T965	STARTING_MATERIAL 75703 75719	N-Boc-piperazine
+T966	OTHER_COMPOUND 75731 75757	cis-2,6-dimethylpiperazine
+T967	REACTION_PRODUCT 75763 75777	title compound
+T968	EXAMPLE_LABEL 75818 75819	b
+T969	STARTING_MATERIAL 75821 75895	4-[5-(2H-Pyrazol-3-yl)pyridin-2-yl]piperazine-1-carboxylic acid tert-butyl
+T970	STARTING_MATERIAL 75943 75969	1H-pyrazole-5-boronic acid
+T971	REAGENT_CATALYST 75981 76019	palladium tetrakis(triphenylphosphine)
+T972	REAGENT_CATALYST 76032 76050	sodium bicarbonate
+T973	SOLVENT 76061 76064	DME
+T974	SOLVENT 76077 76082	water
+T975	TEMPERATURE 76111 76119	refluxed
+T976	TIME 76124 76131	7 hours
+T977	OTHER_COMPOUND 76175 76181	celite
+T978	YIELD_OTHER 76217 76223	0.23 g
+T979	OTHER_COMPOUND 76357 76363	hexane
+T980	OTHER_COMPOUND 76366 76379	ethyl acetate
+T981	YIELD_OTHER 76381 76387	0.11 g
+T982	REACTION_PRODUCT 76395 76409	title compound
+T983	EXAMPLE_LABEL 76463 76464	c
+T984	REACTION_PRODUCT 76466 76528	1-[5-(2H-Pyrazol-3-yl)pyridin-2-yl]piperazine trifluoroacetate
+T985	STARTING_MATERIAL 76550 76551	b
+T986	REAGENT_CATALYST 76595 76615	trifluoroacetic acid
+T987	TEMPERATURE 76619 76622	0°C
+T988	TIME 76671 76678	2 hours
+T989	TEMPERATURE 76682 76701	ambient temperature
+T990	OTHER_COMPOUND 76707 76727	trifluoroacetic acid
+T991	YIELD_OTHER 76763 76770	0.065 g
+T992	REACTION_PRODUCT 76778 76792	title compound
+T993	EXAMPLE_LABEL 76847 76849	18
+T994	REACTION_PRODUCT 76850 76912	(3S,5R)-3,5-Dimethyl-1 -(5-thiazol-2-ylpyridin-2-yl)piperazine
+T995	REACTION_PRODUCT 76921 76980	(3S,5R)-3,5-Dimethyl-1 -(5-iodo-2-ylpyridin-2-yl)piperazine
+T996	OTHER_COMPOUND 77052 77075	2-fluoro-5-iodopyridine
+T997	REACTION_PRODUCT 77087 77123	2-chloro-5-(trifluoromethyl)pyridine
+T998	REACTION_PRODUCT 77129 77143	title compound
+T999	EXAMPLE_LABEL 77184 77185	b
+T1000	REACTION_PRODUCT 77187 77281	(2S,6R)-2,6-Dimethyl-4-(5-iodo-2-ylpyridin-2-yl)piperazine-1 -carboxylic acid tert-butyl ester
+T1001	OTHER_COMPOUND 77316 77324	nitrogen
+T1002	TEMPERATURE 77335 77338	0°C
+T1003	STARTING_MATERIAL 77367 77368	a
+T1004	STARTING_MATERIAL 77381 77388	(Boc)20
+T1005	REAGENT_CATALYST 77401 77414	triethylamine
+T1006	SOLVENT 77427 77430	DMF
+T1007	TEMPERATURE 77457 77462	140°C
+T1008	TIME 77467 77474	4 hours
+T1009	YIELD_OTHER 77507 77513	0.49 g
+T1010	OTHER_COMPOUND 77645 77658	ethyl acetate
+T1011	YIELD_OTHER 77660 77666	0.43 g
+T1012	REACTION_PRODUCT 77674 77688	title compound
+T1013	EXAMPLE_LABEL 77740 77741	c
+T1014	STARTING_MATERIAL 77743 77873	(2S,6R)-2,6-Dimethyl-4-[5-(4,4,5,5-tetramethyl[1,3,2]dioxaborolan-2-yl)pyridin-2-yl]piperazine-1 -carboxylic acid tert-butyl ester
+T1015	STARTING_MATERIAL 77901 77902	b
+T1016	STARTING_MATERIAL 77915 77934	bis(pinacol)diboron
+T1017	REAGENT_CATALYST 77947 77974	palladium Cl2 (dppf)2CH2CI2
+T1018	REAGENT_CATALYST 77986 78003	potassium acetate
+T1019	SOLVENT 78017 78021	DMSO
+T1020	OTHER_COMPOUND 78068 78076	nitrogen
+T1021	TEMPERATURE 78110 78114	85°C
+T1022	TIME 78119 78126	2 hours
+T1023	OTHER_COMPOUND 78158 78165	aqueous
+T1024	OTHER_COMPOUND 78178 78182	NaCI
+T1025	OTHER_COMPOUND 78217 78230	ethyl acetate
+T1026	OTHER_COMPOUND 78264 78270	Na2S04
+T1027	YIELD_OTHER 78310 78316	0.32 g
+T1028	REACTION_PRODUCT 78328 78336	material
+T1029	OTHER_COMPOUND 78445 78456	cyclohexane
+T1030	OTHER_COMPOUND 78459 78472	ethyl acetate
+T1031	YIELD_OTHER 78474 78480	0.28 g
+T1032	REACTION_PRODUCT 78496 78501	solid
+T1033	EXAMPLE_LABEL 78520 78521	d
+T1034	STARTING_MATERIAL 78523 78620	(2S,6R)-2,6-Dimethyl-4-(5-thiazol-2-ylpyridin-2-yl)piperazine-1 -carboxylic acid tert-butyl ester
+T1035	STARTING_MATERIAL 78648 78649	c
+T1036	STARTING_MATERIAL 78663 78678	2-bromothiazole
+T1037	REAGENT_CATALYST 78691 78727	palladium tetrakistriphenylphosphine
+T1038	REAGENT_CATALYST 78729 78738	PdP(Ph3)4
+T1039	REAGENT_CATALYST 78752 78770	sodium bicarbonate
+T1040	SOLVENT 78781 78784	DME
+T1041	SOLVENT 78797 78802	water
+T1042	OTHER_COMPOUND 78849 78857	nitrogen
+T1043	TEMPERATURE 78881 78889	refluxed
+T1044	TIME 78894 78901	7 hours
+T1045	OTHER_COMPOUND 78933 78940	aqueous
+T1046	OTHER_COMPOUND 78953 78957	NaCI
+T1047	OTHER_COMPOUND 78993 79006	ethyl acetate
+T1048	OTHER_COMPOUND 79040 79046	Na2S04
+T1049	YIELD_OTHER 79086 79092	0.36 g
+T1050	OTHER_COMPOUND 79221 79232	cyclohexane
+T1051	OTHER_COMPOUND 79237 79250	ethyl acetate
+T1052	YIELD_OTHER 79252 79257	0.2 g
+T1053	REACTION_PRODUCT 79273 79276	oil
+T1054	EXAMPLE_LABEL 79295 79296	℮
+T1055	REACTION_PRODUCT 79298 79376	(3S,5R)-3,5-Dimethyl-1-(5-thiazol-2-ylpyridin-2-yl)piperazine trifluoroacetate
+T1056	STARTING_MATERIAL 79398 79399	d
+T1057	REAGENT_CATALYST 79440 79460	trifluoroacetic acid
+T1058	TEMPERATURE 79464 79467	0°C
+T1059	TIME 79516 79523	2 hours
+T1060	TEMPERATURE 79527 79546	ambient temperature
+T1061	OTHER_COMPOUND 79552 79572	trifluoroacetic acid
+T1062	YIELD_OTHER 79608 79614	0.15 g
+T1063	REACTION_PRODUCT 79622 79636	title compound
+T1064	EXAMPLE_LABEL 79687 79688	1
+T1065	REACTION_PRODUCT 79705 79843	2-[(2S,6R)-2,6-Dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1 -(2- phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T1066	OTHER_COMPOUND 79915 79916	Ν
+T1067	STARTING_MATERIAL 79991 79994	III
+T1068	REAGENT_CATALYST 80008 80027	potassium carbonate
+T1069	REAGENT_CATALYST 80042 80045	Nal
+T1070	SOLVENT 80069 80072	DMF
+T1071	TIME 80153 80159	30 min
+T1072	TEMPERATURE 80163 80168	160°C
+T1073	OTHER_COMPOUND 80207 80212	water
+T1074	OTHER_COMPOUND 80248 80261	ethyl acetate
+T1075	OTHER_COMPOUND 80295 80301	Na2S04
+T1076	OTHER_COMPOUND 80502 80513	cyclohexane
+T1077	OTHER_COMPOUND 80516 80529	ethyl acetate
+T1078	OTHER_COMPOUND 80605 80616	ethyl ether
+T1079	YIELD_OTHER 80648 80654	0.25 g
+T1080	REACTION_PRODUCT 80662 80675	title product
+T1081	EXAMPLE_LABEL 81023 81024	2
+T1082	REACTION_PRODUCT 81042 81180	2-[(2S,6R)-2,6-Dimethyl-4-(6-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1 -(2- phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone
+T1083	OTHER_COMPOUND 81252 81260	compound
+T1084	REACTION_PRODUCT 81324 81338	title compound
+T1085	EXAMPLE_LABEL 81683 81684	3
+T1086	REACTION_PRODUCT 81698 81700	19
+T1087	REACTION_PRODUCT 81702 81838	6-{3-[2-Oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic acid methyl ester
+T1088	STARTING_MATERIAL 81886 81889	7-I
+T1089	STARTING_MATERIAL 81912 81913	Ν
+T1090	STARTING_MATERIAL 81988 81991	III
+T1091	REAGENT_CATALYST 82005 82026	diisopropylethylamine
+T1092	SOLVENT 82040 82043	DMF
+T1093	TEMPERATURE 82091 82096	100°C
+T1094	TIME 82101 82108	2 hours
+T1095	OTHER_COMPOUND 82147 82152	water
+T1096	OTHER_COMPOUND 82188 82201	ethyl acetate
+T1097	OTHER_COMPOUND 82235 82241	Na2S04
+T1098	OTHER_COMPOUND 82420 82426	hexane
+T1099	OTHER_COMPOUND 82429 82442	ethyl acetate
+T1100	YIELD_OTHER 82452 82457	0.5 g
+T1101	REACTION_PRODUCT 82465 82478	title product
+T1102	OTHER_COMPOUND 82511 82524	diethyl ether
+T1103	YIELD_OTHER 82557 82563	0.45 g
+T1104	REACTION_PRODUCT 82575 82580	solid
+T1105	EXAMPLE_LABEL 82980 82981	4
+T1106	OTHER_COMPOUND 82999 83129	2-[8-(5-Fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-1-(1-phenyl- 1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T1107	OTHER_COMPOUND 83225 83229	7-II
+T1108	OTHER_COMPOUND 83269 83272	7-I
+T1109	REACTION_PRODUCT 83353 83367	title compound
+T1110	EXAMPLE_LABEL 83714 83715	5
+T1111	REACTION_PRODUCT 83729 83731	24
+T1112	STARTING_MATERIAL 83733 83851	6-{3-[2-Oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic
+T1113	SOLVENT 83920 83927	aqueous
+T1114	OTHER_COMPOUND 83928 83932	NaOH
+T1115	SOLVENT 83954 83962	methanol
+T1116	TEMPERATURE 83979 83987	refluxed
+T1117	TIME 83992 83999	3 hours
+T1118	OTHER_COMPOUND 84005 84013	methanol
+T1119	OTHER_COMPOUND 84073 84084	ethyl ether
+T1120	OTHER_COMPOUND 84120 84123	HCI
+T1121	OTHER_COMPOUND 84168 84181	ethyl acetate
+T1122	REACTION_PRODUCT 84264 84272	material
+T1123	OTHER_COMPOUND 84314 84327	diethyl ether
+T1124	YIELD_OTHER 84360 84366	0.45 g
+T1125	REACTION_PRODUCT 84405 84418	title product
+T1126	EXAMPLE_LABEL 84821 84822	6
+T1127	REACTION_PRODUCT 84840 84960	4-[2-Oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-1-(5- trifluoromethylpyridin-2-yl)piperazin-2-one
+T1128	OTHER_COMPOUND 85097 85100	7-I
+T1129	OTHER_COMPOUND 85133 85134	5
+T1130	OTHER_COMPOUND 85150 85158	compound
+T1131	REACTION_PRODUCT 85181 85195	title compound
+T1132	EXAMPLE_LABEL 85483 85484	7
+T1133	REACTION_PRODUCT 85502 85641	6-{(3S,5R)-3,5-Dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic acid methyl ester
+T1134	OTHER_COMPOUND 85751 85754	7-I
+T1135	REACTION_PRODUCT 85877 85891	title compound
+T1136	REACTION_PRODUCT 85893 85902	free base
+T1137	OTHER_COMPOUND 85936 85947	isopropanol
+T1138	OTHER_COMPOUND 85971 85988	hydrochloric acid
+T1139	OTHER_COMPOUND 85992 86003	isopropanol
+T1140	REACTION_PRODUCT 86018 86031	title product
+T1141	EXAMPLE_LABEL 86385 86386	8
+T1142	REACTION_PRODUCT 86400 86402	21
+T1143	REACTION_PRODUCT 86404 86526	6-{(3S,5R)-3,5-Dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1 -yljnicotinic
+T1144	REACTION_PRODUCT 86681 86695	title compound
+T1145	OTHER_COMPOUND 86740 86751	isopropanol
+T1146	OTHER_COMPOUND 86775 86792	hydrochloric acid
+T1147	OTHER_COMPOUND 86796 86807	isopropanol
+T1148	REACTION_PRODUCT 86822 86835	title product
+T1149	EXAMPLE_LABEL 86902 86903	Β
+T1150	REACTION_PRODUCT 87296 87439	2-(8-Pyridin-3-yl-3,8-diazabicyclo[3.2.1]oct-3-yl)-1 -[2-(5-trifluoromethylpyridin-2-yl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone
+T1151	OTHER_COMPOUND 87535 87537	14
+T1152	OTHER_COMPOUND 87577 87580	7-I
+T1153	REACTION_PRODUCT 87662 87676	title compound
+T1154	EXAMPLE_LABEL 87747 87748	Β
+T1155	EXAMPLE_LABEL 88097 88099	10
+T1156	REACTION_PRODUCT 88117 88274	2-{(2S,6R)-2,6-Dimethyl-4-[5-(5-methyl-[1,2,4]oxadiazol-3-yl)pyridin-2-yl]piperazin-1-yl}-1 -(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T1157	OTHER_COMPOUND 88370 88372	16
+T1158	OTHER_COMPOUND 88446 88449	7-I
+T1159	REACTION_PRODUCT 88496 88510	title compound
+T1160	EXAMPLE_LABEL 88889 88891	11
+T1161	REACTION_PRODUCT 88909 89051	2-[8-(5-Fluoropyrimidin-2-yl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-1-[1-(2,2,2-trifluoroethyl)-4,5,6,7-tetrahydro-1H-indazol-5-yl]ethanone oxalate
+T1162	OTHER_COMPOUND 89147 89148	8
+T1163	OTHER_COMPOUND 89188 89191	7-I
+T1164	REACTION_PRODUCT 89272 89286	title compound
+T1165	REACTION_PRODUCT 89288 89297	free base
+T1166	OTHER_COMPOUND 89331 89338	acetone
+T1167	OTHER_COMPOUND 89362 89373	oxalic acid
+T1168	OTHER_COMPOUND 89377 89384	acetone
+T1169	REACTION_PRODUCT 89399 89412	title product
+T1170	STARTING_MATERIAL 89665 89803	6-{(3S,5R)-3,5-Dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic acid ethyl ester
+T1171	STARTING_MATERIAL 89814 89882	2-phenyl-4,5,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridine hydrochloride
+T1172	SOLVENT 89910 89925	dichloromethane
+T1173	STARTING_MATERIAL 90024 90026	11
+T1174	REAGENT_CATALYST 90038 90051	triethylamine
+T1175	REAGENT_CATALYST 90065 90068	BOP
+T1176	TIME 90107 90113	1 hour
+T1177	TEMPERATURE 90134 90141	20-25°C
+T1178	OTHER_COMPOUND 90185 90190	water
+T1179	OTHER_COMPOUND 90226 90241	dichloromethane
+T1180	OTHER_COMPOUND 90275 90281	Na2S04
+T1181	YIELD_OTHER 90321 90327	6.07 g
+T1182	OTHER_COMPOUND 90486 90499	ethyl acetate
+T1183	YIELD_OTHER 90501 90506	1.8 g
+T1184	EXAMPLE_LABEL 90834 90836	13
+T1185	REACTION_PRODUCT 90855 91019	2-[(2S,6R)-2,6-Dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1 -[2-(2,2,2-trifluoroethyl)-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl]ethanone oxalate
+T1186	OTHER_COMPOUND 91116 91118	12
+T1187	OTHER_COMPOUND 91207 91275	2-phenyl-4,5,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridine hydrochloride
+T1188	REACTION_PRODUCT 91281 91295	title compound
+T1189	REACTION_PRODUCT 91297 91301	free
+T1190	OTHER_COMPOUND 91340 91347	acetone
+T1191	OTHER_COMPOUND 91371 91382	oxalic acid
+T1192	OTHER_COMPOUND 91386 91393	acetone
+T1193	REACTION_PRODUCT 91408 91421	title product
+T1194	EXAMPLE_LABEL 91642 91644	14
+T1195	REACTION_PRODUCT 91662 91780	1-(2-Phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)-2-{4-[5-(2H-pyrazol-3- yl)pyridin-2-yl]piperazin-1-yl}ethanone
+T1196	OTHER_COMPOUND 91993 91996	7-I
+T1197	REACTION_PRODUCT 92002 92016	title compound
+T1198	EXAMPLE_LABEL 92343 92345	15
+T1199	REACTION_PRODUCT 92363 92499	2-[(2S,6R)-2,6-Dimethyl-4-(5-thiazol-2-ylpyridin-2-yl)piperazin-1-yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone
+T1200	OTHER_COMPOUND 92595 92598	7-I
+T1201	REACTION_PRODUCT 92721 92735	title compound
+T1202	TEMPERATURE 93386 93389	r.t
+T1203	TEMPERATURE 93441 93444	r.t
+T1204	TEMPERATURE 93505 93508	r.t
+T1205	OTHER_COMPOUND 93531 93534	-0-
+T1206	TEMPERATURE 93567 93570	r.t
+T1207	TEMPERATURE 93626 93629	r.t
+T1208	OTHER_COMPOUND 93667 93670	HCI
+T1209	TEMPERATURE 93688 93691	r.t
+T1210	TEMPERATURE 93741 93744	r.t
+T1211	TEMPERATURE 93794 93797	r.t
+T1212	TEMPERATURE 93849 93852	r.t
+T1213	TEMPERATURE 93914 93917	r.t
+T1214	TEMPERATURE 93971 93974	r.t
+T1215	TEMPERATURE 94029 94032	r.t
+T1216	TEMPERATURE 94090 94093	r.t
+T1217	TEMPERATURE 94150 94153	r.t
+T1218	TEMPERATURE 94209 94212	r.t
+T1219	REACTION_PRODUCT 94236 94238	-Ν
+T1220	TEMPERATURE 94269 94272	r.t
+T1221	TEMPERATURE 94329 94332	r.t
+T1222	TEMPERATURE 94386 94389	r.t
+T1223	TEMPERATURE 94519 94522	r.t
+T1224	OTHER_COMPOUND 94565 94568	HCI
+T1225	TEMPERATURE 94586 94589	r.t
+T1226	TEMPERATURE 94711 94714	r.t
+T1227	TEMPERATURE 94775 94778	r.t
+T1228	TEMPERATURE 94843 94846	r.t
+T1229	OTHER_COMPOUND 94869 94872	-O-
+T1230	TEMPERATURE 94900 94903	r.t
+T1231	TEMPERATURE 94946 94949	r.t
+T1232	TEMPERATURE 95002 95005	r.t
+T1233	OTHER_COMPOUND 95036 95038	xr
+T1234	TEMPERATURE 95061 95064	r.t
+T1235	TEMPERATURE 95112 95115	r.t
+T1236	TEMPERATURE 95171 95174	r.t
+T1237	TEMPERATURE 95222 95225	r.t
+T1238	REACTION_PRODUCT 95254 95262	~^cooch3
+T1239	TEMPERATURE 95285 95288	r.t
+T1240	TEMPERATURE 95342 95345	r.t
+T1241	TEMPERATURE 95402 95405	r.t
+T1242	TEMPERATURE 95453 95456	r.t
+T1243	TEMPERATURE 95515 95518	r.t
+T1244	TEMPERATURE 95578 95581	r.t
+T1245	TEMPERATURE 95636 95639	r.t
+T1246	TEMPERATURE 95687 95690	r.t
+T1247	TEMPERATURE 95733 95736	r.t
+T1248	TEMPERATURE 95793 95796	r.t
+T1249	TEMPERATURE 95861 95864	r.t
+T1250	TEMPERATURE 95927 95930	r.t
+T1251	TEMPERATURE 95996 95999	r.t
+T1252	TEMPERATURE 96060 96063	r.t
+T1253	TEMPERATURE 96122 96125	r.t
+T1254	TEMPERATURE 96179 96182	r.t
+T1255	TEMPERATURE 96239 96242	r.t
+T1256	TEMPERATURE 96308 96311	r.t
+T1257	TEMPERATURE 96371 96374	r.t
+T1258	REACTION_PRODUCT 96397 96402	N-CN-
+T1259	REACTION_PRODUCT 96412 96415	-CN
+T1260	TEMPERATURE 96442 96445	r.t
+T1261	TEMPERATURE 96512 96515	r.t
+T1262	REACTION_PRODUCT 96535 96537	Ou
+T1263	TEMPERATURE 96573 96576	r.t
+T1264	TEMPERATURE 96630 96633	r.t
+T1265	TEMPERATURE 96698 96701	r.t
+T1266	TEMPERATURE 96772 96775	r.t
+T1267	REACTION_PRODUCT 96806 96809	-O-
+T1268	TEMPERATURE 96838 96841	r.t
+T1269	TEMPERATURE 96908 96911	r.t
+T1270	TEMPERATURE 96973 96976	r.t
+T1271	TEMPERATURE 97040 97043	r.t
+T1272	REACTION_PRODUCT 97075 97082	^Qkcooh
+T1273	TEMPERATURE 97109 97112	r.t
+T1274	TEMPERATURE 97165 97168	r.t
+T1275	TEMPERATURE 97228 97231	r.t
+T1276	TEMPERATURE 97295 97298	r.t
+T1277	REACTION_PRODUCT 97328 97331	Ν-'
+T1278	TEMPERATURE 97357 97360	r.t
+T1279	TEMPERATURE 97420 97423	r.t
+T1280	OTHER_COMPOUND 97591 97594	Xr^
+T1281	TEMPERATURE 97620 97623	r.t
+T1282	TEMPERATURE 97685 97688	r.t
+T1283	TEMPERATURE 97771 97774	r.t
+T1284	TEMPERATURE 97839 97842	r.t
+T1285	REACTION_PRODUCT 97945 97947	Ν-
+T1286	TEMPERATURE 97969 97972	r.t
+T1287	TEMPERATURE 98036 98039	r.t
+T1288	TEMPERATURE 98107 98110	r.t
+T1289	TEMPERATURE 98172 98175	r.t
+T1290	TEMPERATURE 98246 98249	r.t
+T1291	OTHER_COMPOUND 98345 98348	N=\
+T1292	TEMPERATURE 98375 98378	r.t
+T1293	TEMPERATURE 98438 98441	r.t
+T1294	TEMPERATURE 98518 98521	r.t
+T1295	REACTION_PRODUCT 98553 98557	-vi-
+T1296	TEMPERATURE 98590 98593	r.t
+T1297	TEMPERATURE 98656 98659	r.t
+T1298	TEMPERATURE 98789 98792	r.t
+T1299	TEMPERATURE 98846 98849	r.t
+T1300	TEMPERATURE 98993 98996	r.t
+T1301	TEMPERATURE 99140 99143	r.t
+T1302	TEMPERATURE 99208 99211	r.t
+T1303	TEMPERATURE 99267 99270	r.t
+T1304	TEMPERATURE 99411 99414	r.t
+T1305	TEMPERATURE 99464 99467	r.t
+T1306	TEMPERATURE 99530 99533	r.t
+T1307	TEMPERATURE 99651 99654	r.t
+T1308	TEMPERATURE 99712 99715	r.t
+T1309	TEMPERATURE 99776 99779	r.t
+T1310	TEMPERATURE 99852 99855	r.t
+T1311	TEMPERATURE 99921 99924	r.t
+T1312	TEMPERATURE 99988 99991	r.t
+T1313	OTHER_COMPOUND 100024 100027	-CN
+T1314	TEMPERATURE 100058 100061	r.t
+T1315	TEMPERATURE 100113 100116	r.t
+T1316	TEMPERATURE 100180 100183	r.t
+T1317	TEMPERATURE 100244 100247	r.t
+T1318	TEMPERATURE 100305 100308	r.t
+T1319	TEMPERATURE 100374 100377	r.t
+T1320	TEMPERATURE 100440 100443	r.t
+T1321	TEMPERATURE 100500 100503	r.t
+T1322	TEMPERATURE 100565 100568	r.t
+T1323	TEMPERATURE 100624 100627	r.t
+T1324	TEMPERATURE 100694 100697	r.t
+T1325	TEMPERATURE 100757 100760	r.t
+T1326	TEMPERATURE 100820 100823	r.t
+T1327	TEMPERATURE 100879 100882	r.t
+T1328	TEMPERATURE 100939 100942	r.t
+T1329	TEMPERATURE 101001 101004	r.t
+T1330	TEMPERATURE 101051 101054	r.t
+T1331	REACTION_PRODUCT 101075 101078	Ν-/
+T1332	TEMPERATURE 101113 101116	r.t
+T1333	TEMPERATURE 101177 101180	r.t
+T1334	TEMPERATURE 101244 101247	r.t
+T1335	TEMPERATURE 101321 101324	r.t
+T1336	TEMPERATURE 101374 101377	r.t
+T1337	TEMPERATURE 101432 101435	r.t
+T1338	TEMPERATURE 101490 101493	r.t
+T1339	TEMPERATURE 101551 101554	r.t
+T1340	TEMPERATURE 101688 101691	r.t
+T1341	TEMPERATURE 101751 101754	r.t
+T1342	TEMPERATURE 101817 101820	r.t
+T1343	TEMPERATURE 101875 101878	r.t
+T1344	TEMPERATURE 101931 101934	r.t
+T1345	TEMPERATURE 102056 102059	r.t
+T1346	TEMPERATURE 102117 102120	r.t
+T1347	TEMPERATURE 102195 102198	r.t
+T1348	TEMPERATURE 102261 102264	r.t
+T1349	TEMPERATURE 102325 102328	r.t
+T1350	TEMPERATURE 102397 102400	r.t
+T1351	TEMPERATURE 102471 102474	r.t
+T1352	TEMPERATURE 102527 102530	r.t
+T1353	TEMPERATURE 102583 102586	r.t
+T1354	TEMPERATURE 102641 102644	r.t
+T1355	TEMPERATURE 102774 102777	r.t
+T1356	TEMPERATURE 102846 102849	r.t
+T1357	OTHER_COMPOUND 103036 103040	DMEM
+T1358	OTHER_COMPOUND 103124 103127	FCS
+T1359	OTHER_COMPOUND 103141 103151	calf serum
+T1360	OTHER_COMPOUND 103185 103200	sodium pyruvate
+T1361	OTHER_COMPOUND 103212 103221	glutamine
+T1362	OTHER_COMPOUND 103259 103267	collagen
+T1363	OTHER_COMPOUND 103406 103418	human p75NTR
+T1364	OTHER_COMPOUND 103429 103436	SK-N-BE
+T1365	OTHER_COMPOUND 103437 103440	Β℮ρ
+T1366	OTHER_COMPOUND 103479 103483	RPMI
+T1367	OTHER_COMPOUND 103510 103513	FCS
+T1368	OTHER_COMPOUND 103520 103535	sodium pyruvate
+T1369	OTHER_COMPOUND 103547 103556	glutamine
+T1370	OTHER_COMPOUND 103573 103580	SK-N-BE
+T1371	OTHER_COMPOUND 103585 103587	75
+T1372	OTHER_COMPOUND 103595 103605	hygromycin
+T1373	OTHER_COMPOUND 103693 103699	p75NTR
+T1374	OTHER_COMPOUND 103730 103736	ligand
+T1375	OTHER_COMPOUND 103820 103827	SK-N-BE
+T1376	TIME 103916 103920	24 h
+T1377	TIME 103948 103951	1 h
+T1378	TEMPERATURE 103955 103959	37°C
+T1379	OTHER_COMPOUND 104110 104116	ΗΕΚ293
+T1380	TIME 104163 104167	48 h
+T1381	OTHER_COMPOUND 104221 104227	p75NTR
+T1382	OTHER_COMPOUND 104238 104251	extracellular
+T1383	OTHER_COMPOUND 104288 104308	alkaline phosphatase
+T1384	OTHER_COMPOUND 104405 104420	p75NTR receptor
+T1385	OTHER_COMPOUND 104448 104459	SK-N-BE Β℮ρ
+T1386	TIME 104571 104577	1 hour
+T1387	TEMPERATURE 104581 104585	37°C
+T1388	OTHER_COMPOUND 104746 104771	CDP-Star chemiluminescent
+T1389	OTHER_COMPOUND 104872 104887	p75NTR receptor
+T1390	OTHER_COMPOUND 105001 105002	9
+T1391	OTHER_COMPOUND 105150 105158	SH-SY-5Y
+T1392	STARTING_MATERIAL 105163 105170	SK-N-BE
+T1393	STARTING_MATERIAL 105175 105177	75
+T1394	SOLVENT 105230 105238	collagen
+T1395	OTHER_COMPOUND 105310 105313	FCS
+T1396	TIME 105319 105323	24 h
+T1397	OTHER_COMPOUND 105387 105390	PBS
+T1398	OTHER_COMPOUND 105403 105412	Phosphate
+T1399	OTHER_COMPOUND 105422 105428	saline
+T1400	OTHER_COMPOUND 105453 105459	medium
+T1401	OTHER_COMPOUND 105477 105480	FCS
+T1402	OTHER_COMPOUND 105502 105505	NGF
+T1403	OTHER_COMPOUND 105545 105565	beta-amyloid peptide
+T1404	STARTING_MATERIAL 105567 105573	Αβ1-40
+T1405	TIME 105738 105746	48 hours
+T1406	OTHER_COMPOUND 105787 105802	SH-SY-5Y strain
+T1407	TIME 105808 105816	24 hours
+T1408	OTHER_COMPOUND 105842 105853	SK-N-BE Β℮ρ
+T1409	OTHER_COMPOUND 105890 105893	DNA
+T1410	OTHER_COMPOUND 106047 106063	oligonucleosomes
+T1411	OTHER_COMPOUND 106342 106343	9
+T1412	OTHER_COMPOUND 106348 106350	11
+T1413	OTHER_COMPOUND 106473 106488	p75NTR receptor
+T1414	OTHER_COMPOUND 106606 106619	neurotrophins
+T1415	OTHER_COMPOUND 106761 106767	p75NTR
+T1416	OTHER_COMPOUND 106950 106956	p75NTR
+T1417	OTHER_COMPOUND 107665 107669	acid
+T1418	OTHER_COMPOUND 107798 107814	p75NTR-dependent
+T1419	OTHER_COMPOUND 107947 107958	Parkinson’s
+T1420	OTHER_COMPOUND 107968 107980	Huntington’s
+T1421	OTHER_COMPOUND 108701 108709	fibrosis
+T1422	OTHER_COMPOUND 109121 109130	pulmonary
+T1423	OTHER_COMPOUND 109924 109928	bone
+T1424	OTHER_COMPOUND 110412 110428	pharmaceutically
+T1425	OTHER_COMPOUND 110821 110826	local
+T1426	OTHER_COMPOUND 110977 110981	unit
+T1427	OTHER_COMPOUND 111373 111384	intraocular
+T1428	OTHER_COMPOUND 111406 111416	intranasal
+T1429	OTHER_COMPOUND 111509 111519	parenteral
+T1430	OTHER_COMPOUND 111594 111605	intravenous
+T1431	OTHER_COMPOUND 111628 111634	rectal
+T1432	OTHER_COMPOUND 112028 112056	Hydroxypropylmethylcellulose
+T1433	OTHER_COMPOUND 112057 112075	Magnesium stearate
+T1434	OTHER_COMPOUND 113204 113212	nitrogen
+T1435	OTHER_COMPOUND 113258 113264	carbon
+T1436	OTHER_COMPOUND 113266 113274	nitrogen
+T1437	OTHER_COMPOUND 113358 113371	carbon atom;-
+T1438	OTHER_COMPOUND 113634 113649	hydrogen atom;-
+T1439	OTHER_COMPOUND 113659 113670	nitrogenous
+T1440	OTHER_COMPOUND 113695 113696	-
+T1441	OTHER_COMPOUND 113697 113699	R2
+T1442	OTHER_COMPOUND 113816 113824	hydrogen
+T1443	OTHER_COMPOUND 113833 113845	halogen atom
+T1444	OTHER_COMPOUND 113849 113861	(C1-C4)alkyl
+T1445	OTHER_COMPOUND 113871 113884	(C1-C4)alkoxy
+T1446	OTHER_COMPOUND 113894 113909	trifluoromethyl
+T1447	OTHER_COMPOUND 113961 113965	COOH
+T1448	OTHER_COMPOUND 113967 113975	COOalkyl
+T1449	OTHER_COMPOUND 113977 113990	COOcycloalkyl
+T1450	OTHER_COMPOUND 114080 114086	methyl
+T1451	REACTION_PRODUCT 114214 114334	6-{3-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic acid
+T1452	OTHER_COMPOUND 114364 114482	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic
+T1453	OTHER_COMPOUND 114504 114619	6-{3-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic
+T1454	OTHER_COMPOUND 114641 114759	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic
+T1455	OTHER_COMPOUND 114781 114926	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1 yl]-1-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone;Compound
+T1456	OTHER_COMPOUND 114935 115083	2-[(2S,6R)-2,6-dimethyl-4-(5-trifluoromethylpyridin-2-yl)piperazin-1-yl]-1-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethanone;Compound
+T1457	OTHER_COMPOUND 115092 115220	4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one;Compound
+T1458	OTHER_COMPOUND 115229 115360	4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-1-(5-trifluoromethylpyridin-2-yl)piperazin-2-one;Compound
+T1459	OTHER_COMPOUND 115369 115514	2-[(2S,6R)-2,6-dimethyl-4-(6-trifluoromethylpyridin-3-yl)piperazin-1-yl]-1-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethanone;Compound
+T1460	OTHER_COMPOUND 115523 115641	6-{3-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic
+T1461	OTHER_COMPOUND 115647 115653	methyl
+T1462	OTHER_COMPOUND 115834 115955	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic
+T1463	REACTION_PRODUCT 115978 116111	6-{(3S,5R)-3,5-dimethyl-4-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]piperazin-1-yl}nicotinic acid methyl
+T1464	OTHER_COMPOUND 116135 116253	6-{3-[2-oxo-2-(2-phenyl-2,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic
+T1465	OTHER_COMPOUND 116278 116382	6-{2-oxo-4-[2-oxo-2-(2-phenyl-6,7-dihydro-4H-thiazolo[5,4-c]pyridin-5-yl)ethyl]piperazin-1 -yl}nicotinic
+T1466	OTHER_COMPOUND 116420 116421	1
+T1467	REACTION_PRODUCT 116577 116699	6-{3-[2-oxo-2-(2-phenyl-4,6-dihydropyrrolo[3,4-d]thiazol-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic acid methyl
+T1468	OTHER_COMPOUND 116723 116841	6-{3-[2-oxo-2-(1-phenyl-1,4,6,7-tetrahydropyrazolo[4,3-c]pyridin-5-yl)ethyl]-3,8-diazabicyclo[3.2.1]oct-8-yl}nicotinic
+T1469	OTHER_COMPOUND 117246 117249	(I)
+T1470	OTHER_COMPOUND 117318 117327	R1O(II)in
+T1471	OTHER_COMPOUND 117422 117429	halogen
+T1472	OTHER_COMPOUND 117481 117486	(III)
+T1473	OTHER_COMPOUND 117487 117495	H-W-R2in
+T1474	OTHER_COMPOUND 117671 117687	pharmaceutically
+T1475	OTHER_COMPOUND 117768 117771	(I)
+T1476	REACTION_PRODUCT 117963 117995	pharmaceutically acceptable salt
+T1477	OTHER_COMPOUND 118270 118281	Alzheimer’s
+T1478	OTHER_COMPOUND 118547 118557	myocardial
+T1479	OTHER_COMPOUND 119180 119189	arthritis
+T1480	OTHER_COMPOUND 119643 119660	neurodegenerative
+T1481	OTHER_COMPOUND 119698 119709	Alzheimer’s
+T1482	OTHER_COMPOUND 120032 120040	cerebral
+T1483	OTHER_COMPOUND 120687 120691	bone
+T1484	EXAMPLE_LABEL 120735 120737	10
+T1485	OTHER_COMPOUND 120893 120905	Huntington’s
+T1486	OTHER_COMPOUND 121761 121770	arthritis
+T1487	EXAMPLE_LABEL 122310 122312	13
+T1488	EXAMPLE_LABEL 122421 122423	14
+T1489	EXAMPLE_LABEL 122548 122550	15

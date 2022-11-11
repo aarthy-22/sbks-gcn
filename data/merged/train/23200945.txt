@@ -1,0 +1,12 @@
+Bradykinetic alcohol dehydrogenases make yeast fitter for growth in the presence of allyl alcohol.
+Previous studies showed that fitter yeast (Saccharomyces cerevisiae) that can grow by fermenting glucose in the presence of allyl alcohol, which is oxidized by alcohol dehydrogenase I (ADH1) to toxic acrolein, had mutations in the ADH1 gene that led to decreased ADH activity.
+These yeast may grow more slowly due to slower reduction of acetaldehyde and a higher NADH/NAD(+) ratio, which should decrease the oxidation of allyl alcohol.
+We determined steady-state kinetic constants for three yeast ADHs with new site-directed substitutions and examined the correlation between catalytic efficiency and growth on selective media of yeast expressing six different ADHs.
+The H15R substitution (a test for electrostatic effects) is on the surface of ADH and has small effects on the kinetics.
+The H44R substitution (affecting interactions with the coenzyme pyrophosphate) was previously shown to decrease affinity for coenzymes 2-4-fold and turnover numbers (V/Et) by 4-6-fold.
+The W82R substitution is distant from the active site, but decreases turnover numbers by 5-6-fold, perhaps by effects on protein dynamics.
+The E67Q substitution near the catalytic zinc was shown previously to increase the Michaelis constant for acetaldehyde and to decrease turnover for ethanol oxidation.
+The W54R substitution, in the substrate binding site, increases kinetic constants (Ks, by >10-fold) while decreasing turnover numbers by 2-7-fold.
+Growth of yeast expressing the different ADHs on YPD plates (yeast extract, peptone and dextrose) plus antimycin to require fermentation, was positively correlated with the log of catalytic efficiency for the sequential bi reaction (V1/KiaKb=KeqV2/KpKiq, varying over 4 orders of magnitude, adjusted for different levels of ADH expression) in the order: WT≈H15R>H44R>W82R>E67Q>W54R.
+Growth on YPD plus 10mM allyl alcohol was inversely correlated with catalytic efficiency.
+The fitter yeast are "bradytrophs" (slow growing) because the ADHs have decreased catalytic efficiency.

@@ -1,0 +1,16 @@
+T15	GENE-Y 33 55	rat beta1-adrenoceptor
+T12	CHEMICAL 89 107	(+/-)cyanopindolol
+T11	CHEMICAL 116 143	(+/-)[125Iodo]cyanopindolol
+T14	GENE-Y 208 232	rat beta(1)-adrenoceptor
+T1	CHEMICAL 260 278	(+/-)cyanopindolol
+T2	CHEMICAL 280 334	4-[3-(t-butylamino]-3-(2'-cyano-indoloxy)-2-propanolol
+T3	CHEMICAL 363 392	(+/-)[(125)Iodo]cyanopindolol
+T4	CHEMICAL 394 453	1-(t-butylamino]-3-(2'-cyano-3'-iodo-indoloxy)-2-propanolol
+T5	CHEMICAL 494 497	Phe
+T6	CHEMICAL 501 504	Ala
+T13	GENE-Y 564 589	rat beta(1)-adrenoceptors
+T7	CHEMICAL 650 668	(+/-)cyanopindolol
+T8	CHEMICAL 678 707	(+/-)[(125)Iodo]cyanopindolol
+T9	CHEMICAL 726 744	(+/-)cyanopindolol
+T10	CHEMICAL 792 821	(+/-)[(125)Iodo]cyanopindolol
+R0	CPR-1 Arg1:T6 Arg2:T13

@@ -1,0 +1,26 @@
+T7	CHEMICAL 0 7	Steroid
+T24	GENE-Y 0 30	Steroid receptor coactivator-1
+T1	CHEMICAL 103 111	Estrogen
+T8	GENE-Y 103 122	Estrogen receptor-α
+T9	GENE-Y 124 127	ERα
+T16	GENE-Y 155 174	proopiomelanocortin
+T20	GENE-Y 179 201	steroidogenic factor-1
+T2	CHEMICAL 254 263	estrogens
+T10	GENE-Y 335 338	ERα
+T3	CHEMICAL 447 454	steroid
+T11	GENE-Y 447 477	steroid receptor coactivator-1
+T12	GENE-Y 479 483	SRC1
+T13	GENE-N 488 504	nuclear receptor
+T14	GENE-Y 550 569	proopiomelanocortin
+T15	GENE-Y 574 596	steroidogenic factor-1
+T17	GENE-Y 658 661	ERα
+T4	CHEMICAL 671 692	propyl pyrazole triol
+T18	GENE-Y 741 745	SRC1
+T19	GENE-Y 750 753	ERα
+T5	CHEMICAL 820 829	estrogens
+T21	GENE-Y 901 905	SRC1
+T22	GENE-Y 955 959	SRC1
+T6	CHEMICAL 1023 1031	estrogen
+T23	GENE-Y 1032 1035	ERα
+R0	NOT Arg1:T1 Arg2:T9
+R1	NOT Arg1:T4 Arg2:T19

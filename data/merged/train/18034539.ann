@@ -1,0 +1,19 @@
+T12	CHEMICAL 41 49	retinoid
+T3	CHEMICAL 72 81	retinoids
+T4	CHEMICAL 232 242	tazarotene
+T5	CHEMICAL 316 324	retinoid
+T6	CHEMICAL 482 491	retinoids
+T7	CHEMICAL 503 516	retinoic acid
+T13	GENE-N 503 526	retinoic acid receptors
+T14	GENE-N 528 532	RARs
+T8	CHEMICAL 577 586	acitretin
+T15	GENE-N 626 653	RAR-alpha, -beta and -gamma
+T9	CHEMICAL 700 710	tazarotene
+T16	GENE-N 749 768	RAR-beta and -gamma
+T17	GENE-Y 786 795	RAR-alpha
+T10	CHEMICAL 855 868	retinoic acid
+T11	CHEMICAL 1017 1026	acitretin
+T1	CHEMICAL 1210 1220	tazarotene
+T2	CHEMICAL 1337 1352	corticosteroids
+R0	NOT Arg1:T7 Arg2:T16
+R1	NOT Arg1:T15 Arg2:T9

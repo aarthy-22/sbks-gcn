@@ -1,0 +1,54 @@
+T36	CHEMICAL 19 40	cysteine S-conjugates
+T27	CHEMICAL 110 121	haloalkenes
+T19	CHEMICAL 161 182	cysteine S-conjugates
+T33	CHEMICAL 197 214	trichloroethylene
+T4	CHEMICAL 219 238	tetrafluoroethylene
+T10	CHEMICAL 256 288	S-(1,2-dichlorovinyl)-L-cysteine
+T12	CHEMICAL 290 294	DCVC
+T13	CHEMICAL 300 339	S-(1,1,2,2-tetrafluoroethyl)-L-cysteine
+T14	CHEMICAL 341 345	TFEC
+T15	CHEMICAL 371 375	DCVC
+T16	CHEMICAL 448 452	TFEC
+T17	CHEMICAL 463 503	haloalkene-derived cysteine S-conjugates
+T18	CHEMICAL 586 597	haloalkenes
+T20	CHEMICAL 753 774	cysteine S-conjugates
+T21	CHEMICAL 794 814	cysteine S-conjugate
+T54	GENE 815 826	beta-lyases
+T22	CHEMICAL 830 838	pyruvate
+T23	CHEMICAL 840 847	ammonia
+T24	CHEMICAL 856 879	alpha-chloroenethiolate
+T25	CHEMICAL 886 890	DCVC
+T26	CHEMICAL 898 925	alpha-difluoroalkylthiolate
+T28	CHEMICAL 932 936	TFEC
+T29	CHEMICAL 957 963	halide
+T30	CHEMICAL 974 989	thioacyl halide
+T31	CHEMICAL 1009 1022	epsilon-amino
+T32	CHEMICAL 1033 1039	lysine
+T34	CHEMICAL 1077 1099	pyridoxal 5'-phosphate
+T35	CHEMICAL 1101 1104	PLP
+T1	CHEMICAL 1134 1154	cysteine S-conjugate
+T37	GENE 1155 1165	beta-lyase
+T38	GENE 1187 1227	mitochondrial aspartate aminotransferase
+T2	CHEMICAL 1201 1210	aspartate
+T39	GENE 1229 1237	mitAspAT
+T40	GENE 1244 1300	mitochondrial branched-chain amino acid aminotransferase
+T3	CHEMICAL 1258 1283	branched-chain amino acid
+T41	GENE 1302 1309	BCAT(m)
+T5	CHEMICAL 1324 1344	cysteine S-conjugate
+T42	GENE 1345 1356	beta-lyases
+T6	CHEMICAL 1391 1395	TFEC
+T7	CHEMICAL 1528 1547	alpha-ketoglutarate
+T43	GENE 1528 1607	alpha-ketoglutarate- and branched-chain alpha-keto acid dehydrogenase complexes
+T8	CHEMICAL 1553 1583	branched-chain alpha-keto acid
+T44	GENE 1609 1614	KGDHC
+T45	GENE 1619 1624	BCDHC
+T9	CHEMICAL 1639 1647	pyruvate
+T46	GENE 1639 1669	pyruvate dehydrogenase complex
+T47	GENE 1671 1675	PDHC
+T48	GENE 1711 1719	mitAspAT
+T49	GENE 1724 1731	BCAT(m)
+T50	GENE 1757 1762	KGDHC
+T51	GENE 1767 1772	BCDHC
+T11	CHEMICAL 1795 1798	PLP
+T52	GENE 1795 1805	PLP enzyme
+T53	GENE 1833 1837	PDHC

@@ -1,0 +1,44 @@
+T18	CHEMICAL 2 7	Na(+)
+T38	GENE-N 2 35	Na(+)/Cl(-)-dependent transporter
+T21	CHEMICAL 8 13	Cl(-)
+T19	CHEMICAL 40 54	catecholamines
+T20	CHEMICAL 72 86	norepinephrine
+T39	GENE-Y 72 98	norepinephrine transporter
+T14	CHEMICAL 248 253	Na(+)
+T36	GENE-N 248 295	Na(+)/Cl(-)-dependent catecholamine transporter
+T16	CHEMICAL 254 259	Cl(-)
+T17	CHEMICAL 270 283	catecholamine
+T24	GENE-N 297 302	meNET
+T30	GENE-Y 389 430	human neuronal norepinephrine transporter
+T6	CHEMICAL 404 418	norepinephrine
+T31	GENE-Y 432 435	NET
+T32	GENE-Y 445 480	human neuronal dopamine transporter
+T7	CHEMICAL 460 468	dopamine
+T33	GENE-Y 482 485	DAT
+T8	CHEMICAL 507 517	amino acid
+T9	CHEMICAL 627 635	dopamine
+T10	CHEMICAL 656 670	norepinephrine
+T34	GENE-N 747 750	NET
+T11	CHEMICAL 786 795	tricyclic
+T12	CHEMICAL 812 823	desipramine
+T13	CHEMICAL 847 860	nortriptyline
+T35	GENE-N 932 937	meNET
+T15	CHEMICAL 974 982	tyrosine
+T37	GENE-N 974 994	tyrosine hydroxylase
+T1	CHEMICAL 1287 1310	gamma-aminobutyric acid
+T22	GENE-N 1287 1322	gamma-aminobutyric acid transporter
+T23	GENE-N 1323 1326	NET
+T2	CHEMICAL 1365 1430	[(125)I]3b-(4-iodophenyl)-tropane-2b-carboxylic acid methyl ester
+T3	CHEMICAL 1454 1467	catecholamine
+T25	GENE-N 1454 1479	catecholamine transporter
+T26	GENE-N 1648 1653	meNET
+T27	GENE-N 1661 1666	meNET
+T4	CHEMICAL 1713 1726	catecholamine
+T28	GENE-N 1713 1738	catecholamine transporter
+T29	GENE-N 1850 1855	meNET
+T5	CHEMICAL 1901 1909	dopamine
+R0	NOT Arg1:T18 Arg2:T39
+R1	NOT Arg1:T17 Arg2:T24
+R2	NOT Arg1:T6 Arg2:T33
+R3	NOT Arg1:T1 Arg2:T23
+R4	NOT Arg1:T22 Arg2:T3

@@ -1,0 +1,12 @@
+T5	CHEMICAL 27 49	mercaptoethylleonurine
+T6	CHEMICAL 54 76	mercaptoethylguanidine
+T7	CHEMICAL 88 105	hydrogen peroxide
+T1	CHEMICAL 169 191	mercaptoethylleonurine
+T4	CHEMICAL 196 218	mercaptoethylguanidine
+T2	CHEMICAL 299 303	H2O2
+T3	CHEMICAL 532 536	H2O2
+T8	GENE-N 615 618	Bax
+T9	GENE-N 651 656	Bcl-2
+T10	GENE-N 766 769	Akt
+T11	GENE-N 774 777	JNK
+R0	CPR-3 Arg1:T3 Arg2:T8

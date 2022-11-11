@@ -1,0 +1,19 @@
+T13	CHEMICAL 27 36	parecoxib
+T18	GENE-Y 75 91	cyclooxygenase-2
+T12	CHEMICAL 200 209	parecoxib
+T15	GENE-Y 237 253	cyclooxygenase-2
+T3	CHEMICAL 287 296	ketorolac
+T16	GENE-N 313 327	cyclooxygenase
+T4	CHEMICAL 380 389	Parecoxib
+T5	CHEMICAL 465 476	acetic acid
+T6	CHEMICAL 518 526	formalin
+T7	CHEMICAL 555 564	ketorolac
+T8	CHEMICAL 768 777	parecoxib
+T9	CHEMICAL 868 877	ketorolac
+T10	CHEMICAL 888 897	ketorolac
+T11	CHEMICAL 1007 1016	parecoxib
+T17	GENE-Y 1095 1111	cyclooxygenase-2
+T1	CHEMICAL 1123 1132	parecoxib
+T2	CHEMICAL 1276 1285	ketorolac
+T14	GENE-Y 1303 1319	cyclooxygenase-1
+R0	NOT Arg1:T15 Arg2:T3

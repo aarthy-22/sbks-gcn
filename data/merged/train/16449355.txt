@@ -1,0 +1,9 @@
+Overexpression of kidney neutral endopeptidase (EC 3.4.24.11) and renal function in experimental cirrhosis.
+Neutral endopeptidase degrades atrial natriuretic peptide (ANP) and bradykinin and may generate endothelin-1 from big-endothelin.
+In advanced cirrhosis, sodium retention is accompanied by elevated plasma ANP levels, and infusion of ANP causes hypotension, but in normal humans increasing the concentration of ANP through the inhibition of neutral endopeptidase, localized in renal proximal tubule cells, causes natriuresis without any arterial pressure drop.
+The purpose of this study was the assessment of kidney neutral endopeptidase expression and responses to candoxatrilat (a specific inhibitor of this enzyme) in rats with CCl4-induced cirrhosis.
+Two groups of control rats (n = 5) were injected with vehicle or 3 mg/kg candoxatrilat.
+Three groups of cirrhotic rats with ascites (n = 10) received vehicle alone or 3 or 10 mg/kg candoxatrilat.
+In cirrhotic rats, Western blot analysis revealed a 170% increase in renal neutral endopeptidase protein content (P < 0.03), mainly in the proximal nephron and macula densa, and both candoxatrilat dosages increased plasma ANP levels, urinary volume, and urinary excretion of sodium, ANP, and cGMP compared with vehicle alone (all P < 0.03).
+Candoxatrilat (10 mg/kg) also reduced tubular solute-free water reabsorption (P < 0.03) in cirrhotic rats, but renal blood flow, arterial pressure, and plasma renin activity were unaffected.
+Neutral endopeptidase inhibition has natriuretic and aquaretic actions in cirrhosis without any effect on blood pressure and kidney perfusion due to a significant overexpression of this enzyme in renal cortex.

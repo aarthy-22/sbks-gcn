@@ -1,0 +1,8 @@
+The role of rasagiline in the treatment of Parkinson's disease.
+Parkinson's disease (PD) is the second most common neurodegenerative disorder, affecting 1% to 2% of people older than 60 years.
+Treatment of PD consists of symptomatic therapies while neuroprotective strategies have remained elusive.
+Rasagiline is a novel, potent, and irreversible monoamine oxidase type B (MAO-B) inhibitor which has been approved for treatment of PD.
+Rasagiline inhibits MAO-B more potently than selegiline and has the advantage of once-daily dosing.
+In several large, randomized, placebo-controlled trials, rasagiline has demonstrated efficacy as monotherapy in early PD and as adjunctive therapy in advanced PD.
+In addition, rasagiline has been shown to have neuroprotective effects in in vitro and in vivo studies.
+The recently completed delayed-start ADAGIO (Attenuation of Disease Progression with Azilect Given Once-daily) trial suggests a potential disease-modifying effect for rasagiline 1 mg/day, though the clinical import of this finding has yet to be established.

@@ -1,0 +1,12 @@
+Participation of beta-adrenergic receptors on macrophages in modulation of LPS-induced cytokine release.
+For several years it is known that beta-adrenergic receptor agonists have anti-inflammatory effects.
+However, little is known about the role of beta-adrenergic receptors on macrophages in the modulation of cytokine production by beta-agonists during inflammation.
+In this study, the presence of beta-receptors on PMA-differentiated U937 human macrophages, and the participation of these receptors in the modulation of LPS-mediated cytokine production by beta-agonists was investigated.
+Total beta-receptor expression on undifferentiated (monocyte) and PMA-differentiated U937 cells was established using receptor binding studies on membrane fractions with a radio ligand.
+The expression of beta-receptors proved to be significantly lower on monocytes than on macrophages, additionally a predominant expression of beta 2-receptors was found.
+Production of the cytokines TNF-alpha, IL-6, and IL-10 by LPS-stimulated differentiated U937 cells was measured in time.
+Peak concentrations for TNF-alpha, IL-6 and IL-10 occurred at 3, 12 and 9 hrs, respectively.
+When differentiated U937 cells were incubated with both LPS and the beta-agonist clenbuterol the production of TNF-alpha and IL-6 was significantly reduced.
+However the production of IL-10 was increased.
+To study the mechanism of modulation of cytokine production in more detail, U937 macrophages were incubated with LPS/clenbuterol in combination with selective beta 1- and beta 2-antagonists.
+These results indicated that the beta 2- and not the beta 1-receptor is involved in the anti-inflammatory activity of clenbuterol.

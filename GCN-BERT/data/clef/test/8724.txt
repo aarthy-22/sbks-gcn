@@ -1,0 +1,2 @@
+Step 1. tert-Butyl 3-(3-bromobenzamido)-5-(2-fluoro-6-methoxyphenyl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate
+3-Bromobenzoyl chloride (206 mg, 0.939 mmol) was added to a solution of tert-butyl 3-amino-5-(2-fluoro-6-methoxyphenyl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate (Example 1, Step 4, 306 mg, 0.854 mmol) and DIPEA (224 μL, 1.281 mmol) in THF (6 mL). The reaction mixture was stirred at 60° C. for 2 h. Then methanol (1 mL) was added, and the solvents were evaporated in vacuo. Obtained crude product was purified by Biotage Isolera™ (360 mg, 87%).

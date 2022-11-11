@@ -1,0 +1,19 @@
+Crosstalk between presynaptic angiotensin receptors, bradykinin receptors and alpha 2-autoreceptors in sympathetic neurons: a study in alpha 2-adrenoceptor-deficient mice.
+1.
+In mouse atria, angiotensin II and bradykinin lose much or all of their noradrenaline release-enhancing effect when presynaptic alpha(2)-autoinhibition does not operate either because of stimulation with very brief pulse trains or because of treatment with alpha(2) antagonists.
+We now studied this operational condition in alpha(2)-adrenoceptor-deficient mice.
+Release of (3)H-noradrenaline was elicited by electrical stimulation.
+2.
+In tissues from wild-type (WT) mice, angiotensin II and bradykinin increased the overflow of tritium evoked by 120 pulses at 3 Hz.
+This enhancement did not occur or was much reduced when tissues were stimulated by 120 pulses at 3 Hz in the presence of rauwolscine and phentolamine, or when they were stimulated by 20 pulses at 50 Hz.
+3.
+In tissues from mice lacking the alpha(2A)-adrenoceptor (alpha(2A)KO) or the alpha(2B)-adrenoceptor (alpha(2B)KO), the concentration-response curves of angiotensin II and bradykinin (120 pulses at 3 Hz) were unchanged.
+In tissues from mice lacking the alpha(2C)-adrenoceptor (alpha(2C)KO) or both the alpha(2A)- and the alpha(2C)-adrenoceptor (alpha(2AC)KO), the concentration-response curves were shifted to the same extent downwards.
+4.
+As in WT tissues, angiotensin II and bradykinin lost most or all of their effect in alpha(2A)KO and alpha(2AC)KO tissues when rauwolscine and phentolamine were present or trains consisted of 20 pulses at 50 Hz.
+5. Rauwolscine and phentolamine increased tritium overflow evoked by 120 pulses at 3 Hz up to seven-fold in WT and alpha(2B)KO tissues, three-fold in alpha(2A)KO and alpha(2C)KO tissues, and two-fold in alpha(2AC)KO tissues.
+6.
+Results confirm that angiotensin II and bradykinin require ongoing alpha(2)-autoinhibition for the full extent of their release-enhancing effect.
+Specifically, they require ongoing alpha(2C)-autoinhibition.
+The peptide effects that remain in alpha(2C)-autoreceptor-deficient mice seem to be because of alpha(2B)-autoinhibition.
+The results hence also suggest that in addition to alpha(2A)- and alpha(2C)- mouse postganglionic sympathetic neurons possess alpha(2B)-autoreceptors.

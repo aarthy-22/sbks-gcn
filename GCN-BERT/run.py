@@ -6,7 +6,7 @@ import train_test
 from func import re_number, extract_entites, CLEF_convert
 # read the config file
 config = configparser.ConfigParser()
-config.read('configs/n2c2.ini')
+config.read('configs/drugprot.ini')
 
 # read parameters from the config file
 if config.getboolean('SEGMENTATION', 'no_relation'):

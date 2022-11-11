@@ -1,0 +1,13 @@
+T5	CHEMICAL 4 19	17-β-oestradiol
+T10	GENE-Y 67 91	cannabinoid CB2 receptor
+T2	CHEMICAL 426 436	Oestrogens
+T8	GENE-Y 798 801	CB2
+T3	CHEMICAL 911 926	17-β-oestradiol
+T4	CHEMICAL 1016 1026	oestrogens
+T9	GENE-Y 1061 1064	CB2
+T1	CHEMICAL 1123 1133	oestrogens
+T6	GENE-N 1123 1152	oestrogens responsive element
+T7	GENE-Y 1160 1163	CB2
+R0	NOT Arg1:T3 Arg2:T7
+R1	NOT Arg1:T4 Arg2:T6
+R2	NOT Arg1:T9 Arg2:T1

@@ -1,0 +1,16 @@
+T8	CHEMICAL 17 26	aminoacyl
+T13	GENE-N 17 42	aminoacyl-tRNA synthetase
+T9	CHEMICAL 89 97	glutamyl
+T14	GENE-Y 89 120	glutamyl-prolyl-tRNA synthetase
+T4	CHEMICAL 265 273	glutamyl
+T11	GENE-Y 265 296	glutamyl-prolyl-tRNA synthetase
+T1	CHEMICAL 389 394	amino
+T3	CHEMICAL 400 407	carboxy
+T5	CHEMICAL 456 469	glutamic acid
+T6	CHEMICAL 547 558	amino acids
+T7	CHEMICAL 890 903	glutamic acid
+T12	GENE-N 1186 1197	synthetases
+T2	CHEMICAL 1732 1738	prolyl
+T10	GENE-Y 1732 1754	prolyl-tRNA synthetase
+R0	CPR-1 Arg1:T1 Arg2:T11
+R1	CPR-1 Arg1:T6 Arg2:T11

@@ -1,0 +1,16 @@
+T1	OTHER_COMPOUND 587 595	n-hexane
+T2	EXAMPLE_LABEL 18 20	10
+T3	YIELD_OTHER 696 705	1.37 mmol
+T4	OTHER_COMPOUND 596 609	ethyl acetate
+T5	YIELD_PERCENT 707 710	78%
+T6	SOLVENT 267 282	dichloromethane
+T7	REACTION_PRODUCT 34 98	(E)-methyl 3-(1-(2,2,2-trifluoroethyl)-1H-imidazol-2-yl)acrylate
+T8	REACTION_PRODUCT 621 685	(E)-methyl 3-(1-(2,2,2-trifluoroethyl)-1H-imidazol-2-yl)acrylate
+T9	OTHER_COMPOUND 575 585	silica gel
+T10	TIME 349 357	16 hours
+T11	TEMPERATURE 295 311	room temperature
+T12	STARTING_MATERIAL 190 242	1-(2,2,2-trifluoroethyl)-1H-imidazole-2-carbaldehyde
+T13	STARTING_MATERIAL 99 141	Methyl (triphenylphosphoranylidene)acetate
+T14	YIELD_OTHER 687 694	0.320 g
+T15	OTHER_COMPOUND 460 475	dichloromethane
+T16	OTHER_COMPOUND 451 459	n-hexane

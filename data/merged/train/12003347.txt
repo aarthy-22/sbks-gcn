@@ -1,0 +1,10 @@
+Tetrahydrobiopterin in nitric oxide synthesis: a novel biological role for pteridines.
+Ever since the discovery that (6R)-5,6,7,8-tetrahydro-L-biopterin (BH4) is a cofactor of NOS, its function has been the object of intense research and occasional controversy.
+Only in the last couple of years a consensus has been reached on what constitutes the main role of BH4 in NO synthesis.
+In this review we aim to provide an outline of the various ways in which BH4 affects NOS catalysis.
+First we give a brief general description of the structure and catalytic mechanism of NOS, with special emphasis on those aspects of catalysis that are actively debated, and that directly or indirectly involve BH4.
+Foremost among those issues is uncoupled catalysis, i.e. the NOS-catalyzed oxidation of NADPH in the absence of substrate or pterin that does not result in NO production.
+We also shortly discuss the ongoing debate on whether NO is the actual reaction product of NOS catalysis, as well as the phenomenon of NO-mediated autoinhibition.
+We describe the function of BH4 in aromatic amino acid hydroxylation, and discuss the allosteric and structural effects that BH4 exerts on NOS.
+Next we turn our attention to what is now becoming accepted as the central function of BH4: its capacity to act as a 1-electron donor during reductive activation of the oxyferrous complex of the heme.
+Finally, we illustrate how BH4 might transform the NOS dimer into an efficient S-nitrosoglutathione synthase,and briefly touch on some more speculative aspects of the role of BH4 in NO synthesis.

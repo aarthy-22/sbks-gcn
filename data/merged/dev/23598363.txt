@@ -1,0 +1,15 @@
+Rescue of platinum-damaged oocytes from programmed cell death through inactivation of the p53 family signaling network.
+Non-proliferating oocytes within avascular regions of the ovary are exquisitely susceptible to chemotherapy.
+Early menopause and sterility are unintended consequences of chemotherapy, and efforts to understand the oocyte apoptotic pathway may provide new targets for mitigating this outcome.
+Recently, the c-Abl kinase inhibitor imatinib mesylate (imatinib) has become the focus of research as a fertoprotective drug against cisplatin.
+However, the mechanism by which imatinib protects oocytes is not fully understood, and reports of the drug's efficacy have been contradictory.
+Using in vitro culture and subrenal grafting of mouse ovaries, we demonstrated that imatinib inhibits the cisplatin-induced apoptosis of oocytes within primordial follicles.
+We found that, before apoptosis, cisplatin induces c-Abl and TAp73 expression in the oocyte.
+Oocytes undergoing apoptosis showed downregulation of TAp63 and upregulation of Bax.
+While imatinib was unable to block cisplatin-induced DNA damage and damage response, such as the upregulation of p53, imatinib inhibited the cisplatin-induced nuclear accumulation of c-Abl/TAp73 and the subsequent downregulation of TAp63 and upregulation of Bax, thereby abrogating oocyte cell death.
+Surprisingly, the conditional deletion of Trp63, but not ΔNp63, in oocytes inhibited apoptosis, as well as the accumulation of c-Abl and TAp73 caused by cisplatin.
+These data suggest that TAp63 is the master regulator of cisplatin-induced oocyte death.
+The expression kinetics of TAp63, c-Abl and TAp73 suggest that cisplatin activates TAp63-dependent expression of c-Abl and TAp73 and, in turn, the activation of TAp73 by c-Abl-induced BAX expression.
+Our findings indicate that imatinib protects oocytes from cisplatin-induced cell death by inhibiting c-Abl kinase, which would otherwise activate TAp73-BAX-mediated apoptosis.
+Thus, imatinib and other c-Abl kinase inhibitors provide an intriguing new way to halt cisplatin-induced oocyte death in early follicles and perhaps conserve the endocrine function of the ovary against chemotherapy.
+Cell Death and Differentiation advance online publication, 19 April 2013; doi:10.1038/cdd.2013.31.

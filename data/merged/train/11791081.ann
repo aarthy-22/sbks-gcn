@@ -1,0 +1,27 @@
+T23	CHEMICAL 0 12	Progestogens
+T10	CHEMICAL 104 115	progestogen
+T11	CHEMICAL 321 333	progestogens
+T12	CHEMICAL 366 378	progestogens
+T13	CHEMICAL 480 492	progesterone
+T14	CHEMICAL 538 557	19-norprogesterones
+T15	CHEMICAL 559 568	Nestorone
+T16	CHEMICAL 570 589	nomegestrol acetate
+T17	CHEMICAL 591 603	trimegestone
+T18	CHEMICAL 625 633	androgen
+T24	GENE-Y 625 642	androgen receptor
+T19	CHEMICAL 729 741	drospirenone
+T20	CHEMICAL 745 754	dienogest
+T21	CHEMICAL 826 838	Drospirenone
+T22	CHEMICAL 852 866	spironolactone
+T25	GENE-Y 884 910	mineralocorticoid receptor
+T1	CHEMICAL 1144 1156	progestogens
+T2	CHEMICAL 1296 1308	progestogens
+T3	CHEMICAL 1336 1345	estrogens
+T4	CHEMICAL 1534 1545	progestogen
+T5	CHEMICAL 1612 1623	progestogen
+T6	CHEMICAL 1767 1778	progestogen
+T7	CHEMICAL 2034 2043	estrogens
+T8	CHEMICAL 2073 2085	progestogens
+T9	CHEMICAL 2262 2272	progestins
+R0	CPR-2 Arg1:T22 Arg2:T25
+R1	NOT Arg1:T15 Arg2:T24

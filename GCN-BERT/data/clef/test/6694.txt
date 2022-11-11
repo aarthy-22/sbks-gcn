@@ -1,0 +1,5 @@
+Example 83
+1-Methyl-3-(4-(3-methylisoxazol-5-yl)butyl)quinazoline-2,4(1H,3H)-dione
+Step 1
+1-Methylquinazoline-2,4-dione
+2-(Methylamino)benzoic acid (4.50 g, 0.0300 mol) and acetic acid (0.3 mL) were dissolved in water (158 mL), a solution of sodium isocyanate (2.76 g, 42.0 mmol) in water (54 mL) was added slowly at room temperature. The reaction mixture was heated to 40°C and added with sodium hydroxide (34.8 g, 0.870 mol). The temperature was raised to 75°C and the reaction solution was stirred for 4 hours, cooled to room temperature, filtered and the filter cake was dissolved in boiling water (10 mL). The system was adjusted to pH 1-2 with 50% sulfuric acid solution (15 mL), filtered and the filter cake was washed with a small amount of water (3 mL) and dried under reduced pressure to give 1-methylquinazoline-2,4-dione (3.64 g, as a yellow solid) with a yield of 69%.

@@ -1,0 +1,7 @@
+Niemann-Pick C1 Like 1 protein is critical for intestinal cholesterol absorption.
+Dietary cholesterol consumption and intestinal cholesterol absorption contribute to plasma cholesterol levels, a risk factor for coronary heart disease.
+The molecular mechanism of sterol uptake from the lumen of the small intestine is poorly defined.
+We show that Niemann-Pick C1 Like 1(NPC1L1) protein plays a critical role in the absorption of intestinal cholesterol.
+NPC1L1 expression is enriched in the small intestine and is in the brush border membrane of enterocytes.
+Although otherwise phenotypically normal, NPC1L1-deficient mice exhibit a substantial reduction in absorbed cholesterol, which is unaffected by dietary supplementation of bile acids.
+Ezetimibe, a drug that inhibits cholesterol absorption, had no effect in NPC1L1 knockout mice, suggesting that NPC1L1 resides in an ezetimibe-sensitive pathway responsible for intestinal cholesterol absorption.

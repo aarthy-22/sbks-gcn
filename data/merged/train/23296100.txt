@@ -1,0 +1,13 @@
+Manganese-induced oxidative DNA damage in neuronal SH-SY5Y cells: attenuation of thymine base lesions by glutathione and N-acetylcysteine.
+Manganese (Mn) is an essential trace element required for normal function and development.
+However, exposure to this metal at elevated levels may cause manganism, a progressive neurodegenerative disorder with neurological symptoms similar to idiopathic Parkinson's disease (IPD).
+Elevated body burdens of Mn from exposure to parental nutrition, vapors in mines and smelters and welding fumes have been associated with neurological health concerns.
+The underlying mechanism of Mn neurotoxicity remains unclear.
+Accordingly, the present study was designed to investigate the toxic effects of Mn(2+) in human neuroblastoma SH-SY5Y cells.
+Mn(2+) caused a concentration dependent decrease in SH-SY5Y cellular viability compared to controls.
+The LD50 value was 12.98 μM Mn(2+) (p<0.001 for control vs. 24h Mn treatment).
+Both TUNEL and annexin V/propidium iodide (PI) apoptosis assays confirmed the induction of apoptosis in the cells following exposure to Mn(2+) (2 μM, 62 μM or 125 μM).
+In addition, Mn(2+) induced both the formation and accumulation of DNA single strand breaks (via alkaline comet assay analysis) and oxidatively modified thymine bases (via gas chromatography/mass spectrometry analysis).
+Pre-incubation of the cells with characteristic antioxidants, either 1mM N-acetylcysteine (NAC) or 1mM glutathione (GSH) reduced the level of DNA strand breaks and the formation of thymine base lesions, suggesting protection against oxidative cellular damage.
+Our findings indicate that (1) exposure of SH-SY5Y cells to Mn promotes both the formation and accumulation of oxidative DNA damage, (2) SH-SY5Y cells with accumulated DNA damage are more likely to die via an apoptotic pathway and (3) the accumulated levels of DNA damage can be abrogated by the addition of exogenous chemical antioxidants.
+This is the first known report of Mn(2+)-induction and antioxidant protection of thymine lesions in this SH-SY5Y cell line and contributes new information to the potential use of antioxidants as a therapeutic strategy for protection against Mn(2+)-induced oxidative DNA damage.

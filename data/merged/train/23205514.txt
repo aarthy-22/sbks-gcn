@@ -1,0 +1,8 @@
+Effects of single or repeated silymarin administration on pharmacokinetics of risperidone and its major metabolite, 9-hydroxyrisperidone in rats.
+1. The interactions between herbal dietary supplements and therapeutic drugs have emerged as an important issue and P-glycoprotein (P-gp) has been reported as one of the significant factors of these interactions.
+2. The objective of this article is to examine the effects of single and repeated administrations of silymarin on pharmacokinetics of a P-gp substrate, risperidone, and its major metabolite, 9-hydroxyrisperidone, in rats.
+3.
+ To determine the plasma levels of risperidone and 9-hydroxyrisperidone in rats, a HPLC method was developed using a liquid-liquid acid back extraction.
+When risperidone (6 mg/kg) was co-administered with silymarin (40 mg/kg) to rats orally, the C(max) of 9-hydroxyrisperidone was significantly increased to1.3-fold (p < 0.05), while the other pharmacokinetic parameters did not show any significant differences.
+Expanding the experiment where rats were repeatedly administered with silymarin for 5 days prior to giving risperidone, the C(max) of risperidone and 9-hydroxyrisperidone were significantly increased to 2.4-fold (p < 0.001) and 1.7-fold (p < 0.001), respectively, and the AUC(0-t), as well to 1.7-fold (p < 0.05) and 2.1-fold (p < 0.01), respectively.
+4. The repeated exposures of silymarin, compared to single administration of silymarin, increased oral bioavailability and affected the pharmacokinetics of risperidone and 9-hydroxyrisperidone, by inhibiting P-gp.

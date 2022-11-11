@@ -1,0 +1,16 @@
+T1	REACTION_PRODUCT 22 147	(8-Chloro-1-(2,6-dichlorophenyl)-5-(2,3-dihydroxypropoxy)-4-oxo-1,4-dihydro-1,6-naphthyridin-2-yl)methyl dihydrogen phosphate
+T2	EXAMPLE_LABEL 153 154	1
+T3	REACTION_PRODUCT 156 299	2-(((tert-Butyldimethylsilyl)oxy)methyl)-8-chloro-1-(2,6-dichlorophenyl)-5-((2,2-dimethyl-1,3-dioxolan-4-yl)methoxy)-1,6-naphthyridin-4(1H)-one
+T4	STARTING_MATERIAL 313 416	2-(((tert-butyldimethylsilyl)oxy)methyl)-5,8-dichloro-1-(2,6-dichlorophenyl)-1,6-naphthyridin-4(1H)-one
+T5	STARTING_MATERIAL 437 477	(2,2-dimethyl-1,3-dioxolan-4-yl)methanol
+T6	REAGENT_CATALYST 499 504	K2CO3
+T7	REAGENT_CATALYST 530 534	DMAP
+T8	SOLVENT 559 562	ACN
+T9	TEMPERATURE 585 590	80° C
+T10	OTHER_COMPOUND 657 660	ACN
+T11	OTHER_COMPOUND 730 740	silica gel
+T12	OTHER_COMPOUND 764 769	EtOAc
+T13	OTHER_COMPOUND 773 780	heptane
+T14	REACTION_PRODUCT 794 808	title compound
+T15	YIELD_OTHER 810 816	2.99 g
+T16	YIELD_PERCENT 818 821	72%

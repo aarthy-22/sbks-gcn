@@ -1,0 +1,22 @@
+T1	REACTION_PRODUCT 184 217	bicyclo[1.1.1]pentan-1-ylmethanol
+T2	EXAMPLE_LABEL 180 183	56A
+T3	TIME 716 724	0.5 hour
+T4	EXAMPLE_LABEL 8 10	56
+T5	OTHER_COMPOUND 11 171	(2S,3S,4S,5S)-3-(bicyclo[1.1.1]pentan-1-yl)-1-(cyclohexanecarbonyl)-4-({[2-hydroxy-5-(trifluoromethyl)phenyl]methyl}amino)-5-phenylpyrrolidine-2-carboxylic acid
+T6	YIELD_PERCENT 1025 1028	91%
+T7	REAGENT_CATALYST 549 575	sodium sulfate decahydrate
+T8	TEMPERATURE 324 328	0° C
+T9	STARTING_MATERIAL 235 274	bicyclo[1.1.1]pentane-1-carboxylic acid
+T10	OTHER_COMPOUND 841 855	sodium sulfate
+T11	OTHER_COMPOUND 731 736	water
+T12	REACTION_PRODUCT 972 1005	bicyclo[1.1.1]pentan-1-ylmethanol
+T13	TIME 489 497	16 hours
+T14	SOLVENT 297 312	tetrahydrofuran
+T15	OTHER_COMPOUND 918 923	ether
+T16	YIELD_OTHER 1007 1012	3.2 g
+T17	OTHER_COMPOUND 656 660	NaOH
+T18	OTHER_COMPOUND 648 655	aqueous
+T19	TEMPERATURE 462 467	24° C
+T20	TIME 802 809	2 hours
+T21	TIME 631 637	1 hour
+T22	REAGENT_CATALYST 340 364	lithium aluminum hydride

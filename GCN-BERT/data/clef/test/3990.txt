@@ -1,0 +1,2 @@
+[Reaction Scheme 2-3] Synthesis of [Intermediate 2-c]
+In a 500-mL reactor, Intermediate 2-b (16 g, 35 mmol), tetrakis(triphenylphosphine)palladium (0.8 g, 0.7 mmol), potassium acetate (4.1 g, 42 mmol), and dimethylformamide (200 mL) were placed and refluxed together for 12 hours. The reaction mixture was cooled to room temperature, and the organic layer was extracted and concentrated at a reduced pressure. Purification by column chromatography afforded Intermediate 2-c (6 g): yield 46%

@@ -1,0 +1,11 @@
+Exposure of zebrafish embryos/larvae to TDCPP alters concentrations of thyroid hormones and transcriptions of genes involved in the hypothalamic-pituitary-thyroid axis.
+Tris(1,3-dichloro-2-propyl) phosphate (TDCPP) has been frequently detected in the environment and in various biota, including fish, and has been implicated in disruption of the thyroid endocrine system.
+In the present study, zebrafish (Danio rerio) embryos were exposed to different concentrations of TDCPP (10, 50, 100, 300 and 600 μg/L) from 2 h post-fertilization (hpf) to 144 hpf.
+Developmental endpoints, and whole-body concentrations of thyroid hormones and transcriptional profiles of genes involved in the hypothalamic-pituitary-thyroid (HPT) axis were examined.
+Exposure to TDCPP caused a dose-dependent developmental toxicity, including decreased body weight, reduced hatching, survival and heartbeat rates, and increased malformation (spinal curvature).
+Treatment with the positive control chemical 3,3',5-triiodo-l-thyronine (T3) significantly decreased whole-body thyroxin (T4) concentrations, increased whole-body T3 concentrations, and upregulated mRNA expression involved in the HPT axis as a compensatory mechanism.
+These results suggested that the HPT axis in 144-hpf zebrafish larvae was responsive to chemical exposure and could be used to evaluate the effects of chemicals on the thyroid endocrine system.
+TDCPP exposure significantly decreased whole-body T4 concentrations and increased whole-body T3 concentrations, indicating thyroid endocrine disruption.
+The upregulation of genes related to thyroid hormone metabolism (dio1 and ugt1ab) might be responsible for decreased T4 concentrations.
+Treatment with TDCPP also significantly increased transcription of genes involved in thyroid hormone synthesis (tshβ, slc5a5 and tg) and thyroid development (hhex, nkx2.1 and pax8) as a compensatory mechanism for decreased T4 concentrations.
+Taken together, these results suggest that TDCPP alters the transcription of genes involved in the HPT axis and changes whole-body concentrations of thyroid hormones in zebrafish embryos/larvae, thus causing an endocrine disruption of the thyroid system.

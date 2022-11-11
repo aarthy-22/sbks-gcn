@@ -1,0 +1,11 @@
+Xestospongin C induces monocytic differentiation of HL60 cells through activation of the ERK pathway.
+Xestospongin C (XC), which is a group of macrocyclic bis-1-oxaquinolizidines, is a potent inhibitor of sarcoendoplasmic reticulum calcium transport ATPase and IP3 receptor.
+Nevertheless, very less information is available regarding whether XC induces AML differentiation.
+We investigated the potential role of XC in the differentiation of human leukemia HL60 cells and mechanisms underlying XC actin.
+XC treatment inhibited proliferation by inducing G1-phase cell cycle arrest in the HL60 cells.
+In addition, XC induced differentiation of HL60 cells into the CD14(+) monocytic lineage, which was indicated by morphological changes, nitroblue tetrazolium reduction assay, and expressions of CD11b and CD14 surface antigens.
+Our results also showed that XC promotes phagocytic activity and granularity in HL60 cells, suggesting that the cells are functionally activated.
+Furthermore, XC enhanced tumor necrosis factor (TNF)-α-mediated cytotoxic effect by increasing the numbers of TNF receptors.
+Moreover, we showed that XC activates extracellular signal-regulated kinase (ERK) pathway in the differentiation stages.
+Inhibition of ERK activation using PD98059 significantly decreased NBT+HL60 cells induced by XC treatment.
+Taken together, the results show that XC promotes monocytic differentiation of HL60 cells via ERK pathway activation, suggesting that XC could be a candidate for use as a differentiation-inducing agent for AML treatment.

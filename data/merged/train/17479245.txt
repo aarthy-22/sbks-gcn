@@ -1,0 +1,14 @@
+Glucagon receptor antagonism improves islet function in mice with insulin resistance induced by a high-fat diet.
+AIMS/HYPOTHESIS: Increased glucagon secretion predicts deterioration of glucose tolerance, and high glucagon levels contribute to hyperglycaemia in type 2 diabetes.
+Inhibition of glucagon action may therefore be a potential novel target to reduce hyperglycaemia.
+Here, we investigated whether chronic treatment with a glucagon receptor antagonist (GRA) improves islet dysfunction in female mice on a high-fat diet (HFD).
+MATERIALS AND METHODS: After 8 weeks of HFD, mice were treated with a small molecule GRA (300 mg/kg, gavage once daily) for up to 30 days.
+Insulin secretion was studied after oral and intravenous administration of glucose and glucagon secretion after intravenous arginine.
+Islet morphology was examined and insulin secretion and glucose oxidation were measured in isolated islets.
+RESULTS: Fasting plasma glucose levels were reduced by GRA (6.0 +/- 0.2 vs 7.4 +/- 0.5 mmol/l; p = 0.017).
+The acute insulin response to intravenous glucose was augmented (1,300 +/- 110 vs 790 +/- 64 pmol/l; p < 0.001).
+The early insulin response to oral glucose was reduced in mice on HFD + GRA (1,890 +/- 160 vs 3,040 +/- 420 pmol/l; p = 0.012), but glucose excursions were improved.
+Intravenous arginine significantly increased the acute glucagon response (129 +/- 12 vs 36 +/- 6 ng/l in controls; p < 0.01), notably without affecting plasma glucose.
+GRA caused a modest increase in alpha cell mass, while beta cell mass was similar to that in mice on HFD + vehicle.
+Isolated islets displayed improved glucose-stimulated insulin secretion after GRA treatment (0.061 +/- 0.007 vs 0.030 +/- 0.004 pmol islet(-1) h(-1) at 16.7 mmol/l glucose; p < 0.001), without affecting islet glucose oxidation.
+CONCLUSIONS/INTERPRETATION: Chronic glucagon receptor antagonism in HFD-fed mice improves islet sensitivity to glucose and increases insulin secretion, suggesting improvement of key defects underlying impaired glucose tolerance and type 2 diabetes.

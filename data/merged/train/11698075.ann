@@ -1,0 +1,19 @@
+T16	CHEMICAL 0 14	[3H]dofetilide
+T19	GENE-Y 26 30	HERG
+T8	CHEMICAL 141 155	[3H]dofetilide
+T17	GENE-Y 261 312	human ether-a-go-go related gene (HERG) K+ channels
+T1	CHEMICAL 267 272	ether
+T2	CHEMICAL 301 303	K+
+T3	CHEMICAL 352 362	dofetilide
+T4	CHEMICAL 364 373	clofilium
+T5	CHEMICAL 375 453	4'-[[1-[2-(6-methyl-2-pyridyl)ethyl]-4-piperidyl]carbonyl]methanesulfonanilide
+T6	CHEMICAL 455 461	E-4031
+T7	CHEMICAL 464 575	N-methyl-N-[2-[methyl-(1-methyl-1H-benzimidazol-2-yl)amino]ethyl]-4-[(methylsulfo nyl)amino]benzene-sulfonamide
+T9	CHEMICAL 577 588	WAY-123,398
+T10	CHEMICAL 594 603	d-sotalol
+T11	CHEMICAL 618 632	[3H]dofetilide
+T12	CHEMICAL 692 700	pimozide
+T13	CHEMICAL 702 713	terfenadine
+T14	CHEMICAL 718 729	haloperidol
+T15	CHEMICAL 827 841	[3H]dofetilide
+T18	GENE-Y 862 866	HERG

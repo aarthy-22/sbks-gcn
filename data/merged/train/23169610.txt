@@ -1,0 +1,10 @@
+The role of cytochrome P450-dependent metabolism in the regulation of mouse hepatic growth hormone signaling components and target genes by 3-methylcholanthrene.
+3-Methylcholanthrene (MC) is a readily metabolized aryl hydrocarbon receptor (AHR) agonist.
+MC disrupts expression of mouse hepatic growth hormone (GH) signaling components and suppresses cytochrome P450 2D9 (Cyp2d9), a male-specific gene controlled by pulsatile GH via signal transducer and activator of transcription 5b (STAT5b).
+To determine if these effects of MC depend on hepatic microsomal P450-mediated activity, we examined biologic responses to MC treatment in liver Cpr-null (LCN) mice with hepatocyte-specific conditional deletion of NADPH-cytochrome P450 oxidoreductase (POR).
+MC caused mild induction of Por and a hepatic inflammatory marker in wild-type mice, whereas MC caused strong induction of AHR target genes, Cyp1a1, Cyp1a2, and Cyp1b1 in wild-type and LCN mice.
+Two mouse hepatic STAT5b target genes, Cyp2d9 and major urinary protein 2 (Mup2), were suppressed by MC in wild-type mice, and the CYP2D9 mRNA response was maintained in LCN mice.
+In wild-type mice only, MC decreased hepatic GH receptor (GHR) mRNA but increased GHR protein levels.
+There was an apparent impairment of STAT5 phosphorylation by MC in wild-type and LCN mice, but large interanimal variation prevented achievement of statistical significance.
+In vehicle-treated mice, basal levels of MUP2 mRNA, GHR mRNA, GHR protein, and the activation status of extracellular signal-regulated kinase 2 and Akt were influenced by hepatic Por genetic status.
+These results indicate that the effects of MC on hepatic GH signaling components and target genes are complex, involving aspects that are both dependent and independent of hepatic microsomal P450-mediated activity.

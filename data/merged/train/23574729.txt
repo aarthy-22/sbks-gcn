@@ -1,0 +1,8 @@
+Proposed diagnostic criteria for subclinical Cushing's syndrome associated with adrenal incidentaloma.
+Subclinical Cushing's syndrome (SCS) associated with adrenal incidentaloma is usually characterized by autonomous cortisol secretion without overt symptoms of Cushing's syndrome (CS).
+Although the diagnostic criteria for SCS differ among countries, the 1 mg dexamethasone suppression test (DST) is essential to confirm the presence and the extent of cortisol overproduction.
+Since 1995, SCS has been diagnosed in Japan based on serum cortisol levels ≥3 μg/dl (measured by radioimmunoassay [RIA]) after a 1 mg DST.
+However, the increasing use of enzyme immunoassays (EIA) instead of RIA has hindered the diagnosis of SCS because of the differing sensitivities of commercially available assays, particularly for serum cortisol levels of around 3 μg/dl.
+One way to overcome this problem is to lower the cortisol threshold level after a 1 mg DST.
+In the present study, we examined the clinical applicability of lowering the cortisol threshold to 1.8 μg/dl, similar to the American Endocrine Society's guidelines for CS, by reanalyzing 119 patients with adrenal incidentaloma.
+Our findings indicate that serum cortisol levels ≥1.8 μg/dl after 1 mg DST are useful to confirm the diagnosis of SCS if both of the following criteria are met: (1) basal ACTH level <10 pg/ml (or poor plasma ACTH response to corticotrophin-releasing hormone) and (2) serum cortisol ≥5 μg/dl at 21:00 to 23:00 h. If only one of (1) and (2) are met, we recommend that other clinical features are considered in the diagnosis of SCS, including serum dehydroepiandrosterone sulfate levels, urine free cortisol levels, adrenal scintigraphy, and clinical manifestation.

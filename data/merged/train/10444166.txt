@@ -1,0 +1,11 @@
+Common resistance mechanisms to deoxynucleoside analogues in variants of the human erythroleukaemic line K562.
+Resistant variants of the human leukaemic line K562 were developed using selection with the deoxynucleoside analogues cytosine arabinoside, 2-chlorodeoxyadenosine, fludarabine and gemcitabine.
+The resistant lines displayed a high degree of cross resistance to all deoxynucleoside analogues, with little or no cross resistance to other agents.
+There was a profound accumulation defect of all nucleoside analogues in the resistant variants but no significant defect in nucleoside transport in any of the variants.
+5' nucleotidase activity was strongly increased and deoxycytidine kinase activity was moderately reduced in all of the resistant variants, resulting in reduced accumulation of triphosphate analogues.
+In addition a deletion in one of the alleles of the deoxycytidine kinase was detected in the fludarabine-resistant line.
+Ribonucleotide reductase activity was found to be strongly increased in the gemcitabine-selected line and purine nucleoside phosphorylase was increased in the 2-chlorodeoxyadenosine-selected line.
+Free nucleotide pools were increased in the 2-chlorodeoxyadenosine-selected line.
+There was no expression of the mdr1 gene by the resistant lines.
+Karyotypic analysis and FISH experiments using a 6q21 specific probe showed alterations in the 6(q16-q22) region which contains the 5'-nucleotidase gene.
+Early events in the activation and degradation of deoxynucleoside analogues appear to constitute common mechanisms of resistance to these compounds.

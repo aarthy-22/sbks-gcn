@@ -1,0 +1,28 @@
+T6	CHEMICAL 0 16	Dihydrolipoamide
+T22	GENE-Y 0 32	Dihydrolipoamide acyltransferase
+T1	CHEMICAL 340 344	NADH
+T7	GENE-N 340 365	NADH-dependent peroxidase
+T2	CHEMICAL 370 383	peroxynitrite
+T8	GENE-N 370 393	peroxynitrite reductase
+T9	GENE-Y 413 417	ahpC
+T10	GENE-Y 419 423	ahpD
+T11	GENE-Y 425 428	lpd
+T12	GENE-Y 434 438	dlaT
+T3	CHEMICAL 479 492	peroxynitrite
+T13	GENE-Y 479 510	peroxynitrite reductase complex
+T14	GENE-Y 512 516	dlaT
+T15	GENE-Y 543 581	E2 component of pyruvate dehydrogenase
+T4	CHEMICAL 559 567	pyruvate
+T16	GENE-Y 624 628	dlaT
+T17	GENE-Y 678 692	H37RvDeltadlaT
+T18	GENE-Y 736 742	DlaT's
+T19	GENE-Y 809 823	H37RvDeltadlaT
+T5	CHEMICAL 914 928	sodium nitrite
+T20	GENE-Y 977 991	H37RvDeltadlaT
+T21	GENE-Y 1015 1019	dlaT
+R0	NOT Arg1:T1 Arg2:T8
+R1	NOT Arg1:T1 Arg2:T11
+R2	NOT Arg1:T10 Arg2:T4
+R3	NOT Arg1:T11 Arg2:T3
+R4	NOT Arg1:T11 Arg2:T4
+R5	NOT Arg1:T3 Arg2:T14

@@ -1,0 +1,19 @@
+T2	CHEMICAL 315 324	bromfenac
+T5	CHEMICAL 329 341	troglitazone
+T16	GENE-Y 607 623	cyclooxygenase-2
+T10	CHEMICAL 801 812	angiotensin
+T17	GENE-N 801 821	angiotensin receptor
+T18	GENE-Y 826 843	converting enzyme
+T11	CHEMICAL 910 918	acarbose
+T12	CHEMICAL 920 930	gliclazide
+T13	CHEMICAL 932 941	metformin
+T19	GENE-Y 947 960	human insulin
+T14	CHEMICAL 1026 1044	thiazolidinediones
+T15	CHEMICAL 1097 1109	troglitazone
+T1	CHEMICAL 1513 1526	valproic acid
+T3	CHEMICAL 1559 1568	carnitine
+T4	CHEMICAL 1583 1596	valproic acid
+T6	CHEMICAL 1749 1758	serotonin
+T7	CHEMICAL 1977 1991	chlorpromazine
+T8	CHEMICAL 1993 2002	phenytoin
+T9	CHEMICAL 2008 2018	methyldopa

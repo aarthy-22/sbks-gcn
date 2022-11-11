@@ -1,0 +1,16 @@
+T13	GENE-Y 14 46	epidermal growth factor receptor
+T5	CHEMICAL 71 80	oestrogen
+T14	GENE-Y 71 89	oestrogen receptor
+T1	CHEMICAL 224 233	oestrogen
+T6	GENE-Y 224 242	oestrogen receptor
+T7	GENE-Y 244 246	ER
+T8	GENE-Y 379 381	ER
+T9	GENE-Y 583 615	epidermal growth factor receptor
+T10	GENE-Y 652 654	ER
+T11	GENE-Y 790 822	epidermal growth factor receptor
+T2	CHEMICAL 833 841	tyrosine
+T12	GENE-N 833 848	tyrosine kinase
+T3	CHEMICAL 860 867	ZD 1839
+T4	CHEMICAL 869 875	Iressa
+R0	CPR-4 Arg1:T4 Arg2:T11
+R1	NOT Arg1:T13 Arg2:T5

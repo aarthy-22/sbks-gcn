@@ -1,0 +1,11 @@
+An overview of transcriptional regulation in response to toxicological insult.
+The completion of the human genome project and the subsequent advent of DNA microarray and high-throughput sequencing technologies have led to a renaissance in molecular toxicology.
+Toxicogenomic data sets, from both in vivo and in vitro studies, are growing exponentially, providing a wealth of information on regulation of stress pathways at the transcriptome level.
+Through such studies, we are now beginning to appreciate the diversity and complexity of biological responses to xenobiotics.
+In this review, we aim to consolidate and summarise the major toxicologically relevant transcription factor-governed molecular pathways.
+It is becoming clear that different chemical entities can cause oxidative, genotoxic and proteotoxic stress, which induce cellular responses in an effort to restore homoeostasis.
+Primary among the response pathways involved are NFE2L2 (Nrf2), NFE2L1 (Nrf1), p53, heat shock factor and the unfolded protein response.
+Additionally, more specific mechanisms exist where xenobiotics act as ligands, including the aryl hydrocarbon receptor, metal-responsive transcription factor-1 and the nuclear receptor family of transcription factors.
+Other pathways including the immunomodulatory transcription factors NF-κB and STAT together with the hypoxia-inducible transcription factor HIF are also implicated in cellular responses to xenobiotic exposure.
+A less specific but equally important aspect to cellular injury controlled by transcriptional activity is loss of tissue-specific gene expression, resulting in dedifferentiation of target cells and compromise of tissue function.
+Here, we review these pathways and the genes they regulate in order to provide an overview of this growing field of molecular toxicology.

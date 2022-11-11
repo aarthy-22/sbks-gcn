@@ -1,0 +1,23 @@
+T1	EXAMPLE_LABEL 5 6	C
+T2	REACTION_PRODUCT 8 108	Ethyl 7-chloro-6-(difluoromethyl)-4-methyl-2-(trifluoromethyl)pyrazolo[1,5 -a]pyridine-3-carboxylate
+T3	STARTING_MATERIAL 127 184	2-chloro-3-(difluoromethyl)-5-methylpyridin-1-ium-1-amine
+T4	STARTING_MATERIAL 186 217	2,4,6-trimethylbenzenesulfonate
+T5	REAGENT_CATALYST 238 259	N,N-dimethylformamide
+T6	STARTING_MATERIAL 278 311	ethyl 4,4,4-trifluoro-2-butynoate
+T7	REAGENT_CATALYST 337 350	triethylamine
+T8	TEMPERATURE 373 377	0° C
+T9	TEMPERATURE 415 431	room temperature
+T10	TIME 436 440	18 h
+T11	STARTING_MATERIAL 476 515	2,3-dichloro-5,6-dicyano-p-benzoquinone
+T12	TEMPERATURE 538 542	0° C
+T13	TEMPERATURE 584 600	room temperature
+T14	TIME 605 608	1 h
+T15	OTHER_COMPOUND 647 652	water
+T16	OTHER_COMPOUND 709 714	water
+T17	OTHER_COMPOUND 745 749	SiO2
+T18	OTHER_COMPOUND 764 772	n-hexane
+T19	OTHER_COMPOUND 773 788	dichloromethane
+T20	REACTION_PRODUCT 809 823	title compound
+T21	YIELD_OTHER 825 831	2.60 g
+T22	YIELD_OTHER 833 842	7.29 mmol
+T23	YIELD_PERCENT 844 847	56%

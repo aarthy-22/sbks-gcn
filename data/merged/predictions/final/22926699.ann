@@ -1,0 +1,14 @@
+T9	GENE 939 945	NFE2L2
+T10	GENE 947 951	Nrf2
+T11	GENE 954 960	NFE2L1
+T12	GENE 962 966	Nrf1
+T13	GENE 969 972	p53
+T14	GENE 974 991	heat shock factor
+T1	CHEMICAL 1120 1136	aryl hydrocarbon
+T2	GENE 1120 1145	aryl hydrocarbon receptor
+T3	GENE 1147 1186	metal-responsive transcription factor-1
+T4	GENE 1195 1211	nuclear receptor
+T5	GENE 1313 1318	NF-κB
+T6	GENE 1323 1327	STAT
+T7	GENE 1346 1384	hypoxia-inducible transcription factor
+T8	GENE 1385 1388	HIF

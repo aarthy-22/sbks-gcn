@@ -1,0 +1,12 @@
+The Protective Effects of α-Lipoic Acid on Kidneys in Type 2 Diabetic Goto-Kakisaki Rats via Reducing Oxidative Stress.
+To evaluate the protective effects of α-lipoic acid on the kidneys of Goto-Kakisaki (GK) diabetic rats, ten GK diabetic rats were randomly divided into a diabetic control group and a lipoic acid-treated diabetic group with α-lipoic acid 35 mg·Kg-1 intraperitoneal injections.
+Four healthy Wistar rats served as normal controls.
+Malonaldehyde (MDA), ascorbic acid (vitamin C), vitamin E, glutathione (GSH) and superoxide dismutase (SOD) levels in renal homogenate, and urine protein excretion were measured.
+The expression of mRNA for NF-κB, NADPH oxidase subunits p22phox and p47phox in renal tissue was examined by realtime PCR.
+Pathological changes in renal tissue were evaluated by light and electron microscopy.
+There were significant increases in urine protein excretion, MDA levels and the expression of mRNA of NF-κB, p22phox and p47phox, and significant decreases in GSH, SOD, vitamin C and vitamin E levels in the diabetic control group compared with the normal control group.
+Pathological changes of renal tissue were more progressive in the diabetic control group than in the normal control group.
+All the parameters above were improved in the α-lipoic acid-treated diabetic group.
+Oxidative stress is increased in the kidney of type 2 diabetic GK rats.
+It is associated with the progression of diabetic nephropathy.
+α-lipoic acid can protect renal function in diabetic rats via its antioxidant activity.

@@ -1,0 +1,3 @@
+Step 3
+3-Ethynyl-4-(methoxymethoxy)benzaldehyde (31)
+To a solution of 4-(methoxymethoxy)-3-((trimethylsilyl)ethynyl)benzaldehyde (3.3 g, 12.59 mmol) in MeOH (30 mL) was added KF (1.46 g, 25.19 mmol) at room temperature and stirred for 5 h. The reaction mixture was concentrated under reduced pressure, the residue was partitioned between water (20 mL) and ethyl acetate (20 mL); the organic layer was separated and concentrated under reduced pressure to afford 3-ethynyl-4-(methoxymethoxy)benzaldehyde as a yellow solid (1.38 g, yield=57%), [C11H10O3];

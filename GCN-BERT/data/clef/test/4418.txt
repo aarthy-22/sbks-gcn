@@ -1,0 +1,5 @@
+Example 19
+(2S,2'S)-1,1'-(((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-fluoro-4,1-phenylene))bis(methylene))bis(piperidine-2-carboxylic acid) (Cpd 19)
+Step 1
+4,4'-(((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-fluorobenzaldehyde)(25)
+To a stirred solution of 3,3'-bis(bromomethyl)-2,2'-dimethylbiphenyl 21 (1 g, 2.732 mmol) in ACN (20 mL) at room temperature were added K2CO3 (1.5 g, 10.928 mmol) and 3-fluoro-4-hydroxybenzaldehyde (1.1 g, 8.196 mmol) and stirred at 80° C. for 3 h. The reaction mixture was concentrated to remove most of the solvent. The residue was poured into ice-water and the resulting precipitate was filtered and dried in vacuum to get 4,4'-(((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-fluorobenzaldehyde) (1.1 g, yield: 84%, LC/MS; 93%);

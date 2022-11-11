@@ -1,0 +1,33 @@
+T1	EXAMPLE_LABEL 8 10	82
+T2	REACTION_PRODUCT 11 175	(2S,3S,4S,5S)-3-tert-butyl-4-{[6-methyl-4-(trifluoromethyl)pyridin-2-yl]amino}-1-{[(propan-2-yl)oxy]carbonyl}-5-[2-(propan-2-yl)phenyl]pyrrolidine-2-carboxylic acid
+T3	EXAMPLE_LABEL 184 187	82A
+T4	REACTION_PRODUCT 188 300	(2S,3R,4S,5S)-2-tert-butyl 1-isopropyl 3-(tert-butyl)-5-(2-isopropylphenyl)-4-nitropyrrolidine-1,2-dicarboxylate
+T5	STARTING_MATERIAL 301 395	(2S,3R,4S,5S)-tert-Butyl 3-(tert-butyl)-5-(2-isopropylphenyl)-4-nitropyrrolidine-2-carboxylate
+T6	STARTING_MATERIAL 397 401	Core
+T7	STARTING_MATERIAL 402 403	9
+T8	SOLVENT 440 447	toluene
+T9	REAGENT_CATALYST 462 475	triethylamine
+T10	STARTING_MATERIAL 538 565	isopropyl carbonochloridate
+T11	TEMPERATURE 635 641	˜10° C
+T12	TEMPERATURE 723 739	room temperature
+T13	TIME 761 768	2-3 min
+T14	OTHER_COMPOUND 845 850	water
+T15	TEMPERATURE 868 884	room temperature
+T16	TIME 889 895	1 hour
+T17	OTHER_COMPOUND 910 923	diethyl ether
+T18	OTHER_COMPOUND 951 958	aqueous
+T19	OTHER_COMPOUND 959 977	sodium bicarbonate
+T20	TIME 982 992	20 minutes
+T21	OTHER_COMPOUND 1073 1080	aqueous
+T22	OTHER_COMPOUND 1081 1084	HCl
+T23	OTHER_COMPOUND 1089 1094	brine
+T24	OTHER_COMPOUND 1111 1125	sodium sulfate
+T25	OTHER_COMPOUND 1204 1212	heptanes
+T26	OTHER_COMPOUND 1337 1350	ethyl acetate
+T27	OTHER_COMPOUND 1351 1359	heptanes
+T28	TIME 1377 1379	20
+T29	REACTION_PRODUCT 1399 1414	desired product
+T30	REACTION_PRODUCT 1415 1527	(2S,3R,4S,5S)-2-tert-butyl 1-isopropyl 3-(tert-butyl)-5-(2-isopropylphenyl)-4-nitropyrrolidine-1,2-dicarboxylate
+T31	YIELD_OTHER 1529 1535	1.55 g
+T32	YIELD_OTHER 1537 1546	3.25 mmol
+T33	YIELD_PERCENT 1548 1551	85%

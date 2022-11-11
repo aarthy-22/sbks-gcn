@@ -1,0 +1,17 @@
+T12	CHEMICAL 25 35	mivacurium
+T10	CHEMICAL 77 87	Mivacurium
+T15	GENE-Y 113 127	cholinesterase
+T16	GENE-Y 156 176	Acetylcholinesterase
+T13	GENE-Y 255 269	cholinesterase
+T4	CHEMICAL 310 320	mivacurium
+T14	GENE-Y 355 375	acetylcholinesterase
+T5	CHEMICAL 392 402	mivacurium
+T6	CHEMICAL 510 520	mivacurium
+T7	CHEMICAL 716 727	neostigmine
+T8	CHEMICAL 757 768	edrophonium
+T9	CHEMICAL 817 827	mivacurium
+T11	CHEMICAL 1038 1049	neostigmine
+T1	CHEMICAL 1534 1545	edrophonium
+T2	CHEMICAL 1704 1715	Neostigmine
+T3	CHEMICAL 1736 1746	mivacurium
+R0	CPR-9 Arg1:T4 Arg2:T16

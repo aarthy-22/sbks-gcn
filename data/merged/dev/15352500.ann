@@ -1,0 +1,15 @@
+T12	CHEMICAL 28 37	histamine
+T14	GENE 28 49	histamine H1-receptor
+T13	CHEMICAL 62 74	fexofenadine
+T2	CHEMICAL 186 212	fexofenadine hydrochloride
+T8	CHEMICAL 256 273	tetraphenylborate
+T9	CHEMICAL 278 296	tetraiodomercurate
+T10	CHEMICAL 593 605	fexofenadine
+T11	CHEMICAL 990 1002	fexofenadine
+T1	CHEMICAL 1136 1145	citrizine
+T3	CHEMICAL 1189 1201	fexofenadine
+T4	CHEMICAL 1247 1259	fexofenadine
+T5	CHEMICAL 1410 1422	fexofenadine
+T6	CHEMICAL 1558 1570	fexofenadine
+T7	CHEMICAL 1576 1596	phosphomolybdic acid
+R0	CPR-6 Arg1:T13 Arg2:T14

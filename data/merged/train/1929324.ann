@@ -1,0 +1,32 @@
+T28	CHEMICAL 25 38	fenpropimorph
+T29	CHEMICAL 81 94	fenpropimorph
+T1	CHEMICAL 114 127	Fenpropimorph
+T7	CHEMICAL 265 276	morpholines
+T8	CHEMICAL 278 289	fenpropidin
+T9	CHEMICAL 291 300	dodemorph
+T10	CHEMICAL 302 312	tridemorph
+T11	CHEMICAL 318 330	15-azasterol
+T12	CHEMICAL 356 362	azoles
+T13	CHEMICAL 364 374	miconazole
+T14	CHEMICAL 376 388	clotrimazole
+T15	CHEMICAL 390 402	ketoconazole
+T16	CHEMICAL 408 416	nystatin
+T17	CHEMICAL 436 449	fenpropimorph
+T18	CHEMICAL 551 564	fenpropimorph
+T19	CHEMICAL 566 576	ignosterol
+T20	CHEMICAL 578 605	ergosta-8,14-dien-3 beta-ol
+T21	CHEMICAL 621 627	sterol
+T22	CHEMICAL 695 708	fenpropimorph
+T30	GENE-Y 837 841	erg3
+T31	GENE-Y 842 847	erg11
+T23	CHEMICAL 865 884	14-methylfecosterol
+T24	CHEMICAL 886 934	14 alpha-methyl-ergosta-8,24(28)-dien- 3-beta-ol
+T25	CHEMICAL 949 955	sterol
+T26	CHEMICAL 986 999	fenpropimorph
+T27	CHEMICAL 1077 1090	fenpropimorph
+T2	CHEMICAL 1152 1162	ignosterol
+T3	CHEMICAL 1188 1194	sterol
+T4	CHEMICAL 1254 1267	fenpropimorph
+T5	CHEMICAL 1301 1314	fenpropimorph
+T6	CHEMICAL 1368 1393	C-5,6-unsaturated sterols
+R0	CPR-9 Arg1:T23 Arg2:T30

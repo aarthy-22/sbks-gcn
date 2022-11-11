@@ -1,0 +1,14 @@
+An exploratory study on pharmacogenetics of inosine-monophosphate dehydrogenase II in peripheral mononuclear cells from liver-transplant recipients.
+Mycophenolate mofetil (MMF) is an immunosuppressant used for the prophylaxis of rejection in renal, pancreas, and liver transplantation.
+It inhibits the inducible isoform of the enzyme inosine-monophosphate dehydrogenase (IMPDH II) via its active metabolite mycophenolic acid (MPA).
+IMPDH II is necessary for de novo purine synthesis in activated lymphocytes.
+The aims of the present study were to evaluate the feasibility of a real-time polymerase chain reaction (PCR) quantitative assessment of IMPDH II gene expression in liver transplant recipients as well as to provide a preliminary evaluation of possible correlations with drug tolerability.
+RNA was extracted from peripheral blood mononuclear cells of liver recipients after at least 6 months of MMF administration.
+IMPDH II gene expression was assessed using quantitative, real-time PCR and normalized using glyceraldheyde-3-phosphate dehydrogenase (GAPDH).
+Finally, adverse events associated with MMF administration were recorded.
+Real-time PCR quantitation of IMPDH II gene expression was reliable, sensitive, and specific.
+The intrapatient variability for both IMPDH II and GAPDH assays was lower than 0.6% in all patients.
+The results demonstrated a wide interpatient variability, with the mean value +/- standard deviation of 0.949 +/-
+0.525 (95% confidence interval, 0.669-1.229) and a median value of 0.797.
+Patients with treatment-related toxicities displayed a trend to a higher level of IMPDH II expression than those without toxicity (mean, 1.126 vs 0.771).
+In conclusion, pharmacogenetic analysis of IMPDH II may represent a novel approach to MMF therapeutic monitoring.

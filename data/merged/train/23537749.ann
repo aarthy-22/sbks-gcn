@@ -1,0 +1,17 @@
+T1	CHEMICAL 240 251	beta-lactam
+T7	CHEMICAL 540 550	ampicillin
+T8	CHEMICAL 552 564	piperacillin
+T9	CHEMICAL 566 575	cefazolin
+T10	CHEMICAL 577 587	cefuroxime
+T11	CHEMICAL 589 602	carbenicillin
+T12	CHEMICAL 604 615	ceftazidime
+T13	CHEMICAL 617 626	meropenem
+T14	GENE-Y 687 701	beta-lactamase
+T2	CHEMICAL 1367 1379	piperacillin
+T3	CHEMICAL 1399 1411	piperacillin
+T4	CHEMICAL 1426 1438	piperacillin
+T5	CHEMICAL 1465 1474	meropenem
+T6	CHEMICAL 1850 1861	beta-lactam
+R0	NOT Arg1:T7 Arg2:T14
+R1	NOT Arg1:T12 Arg2:T14
+R2	NOT Arg1:T13 Arg2:T14

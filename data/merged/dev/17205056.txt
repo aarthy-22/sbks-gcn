@@ -1,0 +1,10 @@
+Antitumor activity of sorafenib in FLT3-driven leukemic cells.
+Activating internal tandem duplication (ITD) insertions in the juxtamembrane domain of the FLT3 tyrosine kinase are found in about one fourth of patients with acute myeloid leukemia and have been shown to be an independent negative prognostic factor for survival.
+We show that sorafenib (BAY 43-9006, Nexavar) potently inhibits FLT3 enzymatic and signaling activities.
+In HEK293 cells stably transfected with FLT3-WT or FLT3-ITD, sorafenib blocked basal and ligand dependent FLT3-mediated tyrosine autophosphorylation as well as extracellular signal-regulated kinase1/2 and Stat5 phosphorylation.
+In leukemia cell lines MV4-11 and EOL-1, sorafenib treatment resulted in decreased cell proliferation and inhibition of FLT3 signaling.
+The growth of the FLT3-independent RS4-11 cell line was only weakly inhibited by sorafenib.
+Cell cycle arrest and induction of apoptosis were observed upon treatment with sorafenib in MV4-11 and EOL-1 cells.
+The antitumor efficacy of sorafenib was evaluated against the MV4-11 leukemia grown subcutaneously in NCr nu/nu mice.
+Doses of 3 and 10 mg/kg administered orally for 14 days resulted in six and nine out of 10 animals with complete responses, respectively.
+The demonstration that sorafenib exhibits potent target inhibition and efficacy in FLT3-driven models suggests that this compound may have a therapeutic benefit for patients with FLT3-driven leukemias.

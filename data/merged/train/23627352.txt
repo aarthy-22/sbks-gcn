@@ -1,0 +1,8 @@
+Design, synthesis and molecular modeling of novel pyrido[2,3-d]pyrimidine analogs as antifolates: Application of Buchwald-Hartwig aminations of heterocycles.
+Opportunistic infections caused by Pneumocystis jirovecii (P. jirovecii, pj), Toxoplasma gondii (T. gondii, tg) and Mycobacterium avium (M. avium, ma) are the principal causes of morbidity and mortality in patients with acquired immunodeficiency syndrome (AIDS).
+The absence of any animal models for human Pneumocystis jirovecii pneumonia and the lack of crystal structures of pjDHFR and tgDHFR make the design of inhibitors challenging.
+A novel series of pyrido[2,3-d]pyrimidines as selective and potent DHFR inhibitors against these opportunistic infections are presented.
+Buchwald-Hartwig coupling reaction of substituted anilines with pivaloyl protected 2,4-diamino-6-bromo-pyrido[2,3-d]pyrimidine was successfully explored to synthesize these analogs.
+Compound 26 was the most selective inhibitor with excellent potency against pjDHFR.
+Molecular modeling studies with a pjDHFR homology model explained the potency and selectivity of 26.
+Structural data are also reported for 26 with pcDHFR and 16 and 22 with variants of pcDHFR.

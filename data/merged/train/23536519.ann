@@ -1,0 +1,24 @@
+T8	CHEMICAL 0 11	Resveratrol
+T4	CHEMICAL 212 223	resveratrol
+T2	CHEMICAL 371 382	Resveratrol
+T3	CHEMICAL 676 687	Resveratrol
+T9	GENE-N 725 743	glycolytic enzymes
+T10	GENE-N 745 760	pyruvate kinase
+T11	GENE-N 765 786	lactate dehydrogenase
+T5	CHEMICAL 825 832	citrate
+T12	GENE-Y 825 841	citrate synthase
+T6	CHEMICAL 869 876	glucose
+T7	CHEMICAL 933 944	resveratrol
+T13	GENE-Y 978 984	leptin
+T14	GENE-Y 989 994	c-Myc
+T15	GENE-Y 1025 1059	vascular endothelial growth factor
+T16	GENE-N 1084 1100	caspases 3 and 8
+T17	GENE-Y 1125 1128	Bax
+T18	GENE-Y 1129 1133	BCl2
+T1	CHEMICAL 1210 1221	resveratrol
+R0	CPR-3 Arg1:T3 Arg2:T12
+R1	CPR-4 Arg1:T7 Arg2:T14
+R2	NOT Arg1:T3 Arg2:T9
+R3	NOT Arg1:T9 Arg2:T6
+R4	NOT Arg1:T10 Arg2:T6
+R5	NOT Arg1:T12 Arg2:T6

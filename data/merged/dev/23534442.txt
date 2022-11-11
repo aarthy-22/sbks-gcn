@@ -1,0 +1,8 @@
+Novel analgesic/anti-inflammatory agents: 1,5-diarylpyrrole nitrooxyalkyl ethers and related compounds as cyclooxygenase-2 inhibiting nitric oxide donors.
+A series of 3-substituted 1,5-diarylpyrroles bearing a nitrooxyalkyl side chain linked to different spacers were designed.
+New classes of pyrrole-derived nitrooxyalkyl inverse esters, carbonates, and ethers (7-10) as COX-2 selective inhibitors and NO donors were synthesized and are herein reported.
+By taking into account the metabolic conversion of nitrooxyalkyl ethers (9, 10) into corresponding alcohols, derivatives 17 and 18 were also studied.
+Nitrooxy derivatives showed NO-dependent vasorelaxing properties, while most of the compounds proved to be very potent and selective COX-2 inhibitors in in vitro experimental models.
+Further in vivo studies on compounds 9a,c and 17a highlighted good anti-inflammatory and antinociceptive activities.
+Compound 9c was able to inhibit glycosaminoglycan (GAG) release induced by interleukin-1β (IL-1β), showing cartilage protective properties.
+Finally, molecular modeling and (1)H- and (13)C-NMR studies performed on compounds 6c,d, 9c, and 10b allowed the right conformation of nitrooxyalkyl ester and ether side chain of these molecules within the COX-2 active site to be assessed.

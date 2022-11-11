@@ -1,0 +1,11 @@
+A pilot study of IL-1 inhibition by anakinra in acute gout.
+Monosodium urate crystals stimulate monocytes and macrophages to release IL-1beta through the NALP3 component of the inflammasome.
+The effectiveness of IL-1 inhibition in hereditary autoinflammatory syndromes with mutations in the NALP3 protein suggested that IL-1 inhibition might also be effective in relieving the inflammatory manifestations of acute gout.
+The effectiveness of IL-1 inhibition was first evaluated in a mouse model of monosodium urate crystal-induced inflammation.
+IL-1 inhibition prevented peritoneal neutrophil accumulation but TNF blockade had no effect.
+Based on these findings, we performed a pilot, open-labeled study (trial registration number ISRCTN10862635) in 10 patients with gout who could not tolerate or had failed standard antiinflammatory therapies.
+All patients received 100 mg anakinra daily for 3 days.
+All 10 patients with acute gout responded rapidly to anakinra.
+No adverse effects were observed.
+IL-1 blockade appears to be an effective therapy for acute gouty arthritis.
+The clinical findings need to be confirmed in a controlled study.

@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 7 8	8
+T2	REACTION_PRODUCT 9 204	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-[N-((R)-α-{N-[(S)-1-(t-butoxycarbonyl)-4-(benzyloxycarbonylamino)butyl]carbamoyl}benzyl)carbamoylmethoxy]-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T3	STARTING_MATERIAL 205 337	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-[N-((R)-α-carboxybenzyl) carbamoylmethoxy]-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T4	STARTING_MATERIAL 371 420	tert-butyl N5-[(benzyloxy)carbonyl]-L-ornithinate
+T5	STARTING_MATERIAL 442 461	N-methyl morpholine
+T6	SOLVENT 490 493	DCM
+T7	TEMPERATURE 529 545	room temperature
+T8	TIME 550 556	10 min
+T9	REAGENT_CATALYST 570 574	TBTU
+T10	TIME 645 654	1.5 hours
+T11	OTHER_COMPOUND 756 759	DCM
+T12	OTHER_COMPOUND 760 765	EtOAc
+T13	REACTION_PRODUCT 793 807	title compound
+T14	YIELD_OTHER 808 813	57 mg
+T15	YIELD_PERCENT 815 818	72%

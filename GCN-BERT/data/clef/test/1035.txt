@@ -1,0 +1,4 @@
+[EXAMPLE 25]
+Synthesis of compound I-056
+Step 1 Synthesis of compound 56a
+To a suspension of the compound 54b (2.43 g, 10 mmol) in dichloromethane (24 mL), trichloroacetyl isocyanate (1.42 mL, 12 mmol) and triethylamine (1.66 mL, 12 mmol) were added under ice cooling. Under ice cooling, the mixture was stirred for 1 hour. Then, dilute hydrochloric acid was added to the mixture, followed by extraction with ethyl acetate. The organic layer was washed by water, an aqueous solution of sodium hydrogen carbonate, and brine in this order and dried over anhydrous magnesium sulfate. After filtration, the filtrate was concentrated under reduced pressure. Isopropyl acetate was added to the residue. The resulting solid was collected by filtration and dried under reduced pressure to afford the compound 56a (2.74 g, yield 69%) as a white solid.

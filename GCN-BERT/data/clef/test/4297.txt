@@ -1,0 +1,4 @@
+Embodiment 18
+2-{[8-(4-Cyanophenyl)isoquinolin-2-yl]thio}-2-methyl propionic acid (Compound 18)
+Synthesis of compound 18-b
+8-Bromo-2-chloroquinazoline (110mg, 0.45mmol) was added to a suspension of ethyl 2-methyl-2-mercaptopropionate (80mg, 0.54mmol), potassium carbonate (124mg, 0.9mmol) in DMF (3mL). The mixture was stirred for 3hrs at 130°C, cooled to room temperature, followed by adding water (20mL), being extracted with EA (30mL×3). The organic phases were combined, washed in turn with water (20mL×3) and saturated brine (20mL), dried over anhydrous sodium sulfate, filtered, and concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 6:1) to give colorless oil 18-b (108mg, yield 67.5%).

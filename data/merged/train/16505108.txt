@@ -1,0 +1,13 @@
+Recombinant epoetins do not stimulate tumor growth in erythropoietin receptor-positive breast carcinoma models.
+We investigated the significance of erythropoietin receptor (EPOR) expression following treatment with recombinant human erythropoietin (rHuEPO; epoetin alpha) and the effect of recombinant epoetins (epoetin alpha, epoetin beta, and darbepoetin alpha) alone or in combination with anticancer therapy on tumor growth in two well-established preclinical models of breast carcinoma (MDA-MB-231 and MCF-7 cell lines).
+Expression and localization of EPOR under hypoxic and normoxic conditions in MDA-MB-231 and MCF-7 cells were evaluated by immunoblotting, flow cytometry, and immunohistochemistry.
+EPOR binding was evaluated using [125I]rHuEPO.
+Proliferation, migration, and signaling in MDA-MB-231 and MCF-7 cells following treatment with rHuEPO were evaluated.
+Tumor growth was assessed following administration of recombinant epoetins alone and in combination with paclitaxel (anticancer therapy) in orthotopically implanted MDA-MB-231 and MCF-7 breast carcinoma xenograft models in athymic mice.
+EPOR expression was detected in both tumor cell lines.
+EPOR localization was found to be exclusively cytosolic and no specific [125I]rHuEPO binding was observed.
+There was no stimulated migration, proliferation, or activation of mitogen-activated protein kinase and AKT following rHuEPO treatment.
+In mice, treatment with recombinant epoetins alone and in combination with paclitaxel resulted in equivalent tumor burdens compared with vehicle-treated controls.
+Results from our study suggest that although EPOR expression was observed in two well-established breast carcinoma cell lines, it was localized to a cytosolic distribution and did not transduce a signaling cascade in tumors that leads to tumor growth.
+The addition of recombinant epoetins to paclitaxel did not affect the outcome of paclitaxel therapy in breast carcinoma xenograft models.
+These results show that recombinant epoetins do not evoke a physiologic response on EPOR-bearing tumor cells as assessed by numerous variables, including growth, migration, and cytotoxic challenge in preclinical in vivo tumor models.

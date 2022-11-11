@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 8 9	1
+T2	REACTION_PRODUCT 25 162	trans-2-Chloro-5-(2,2-dichloro-3-(3,4-dichlorophenyl)cyclopropane-1-carboxamido)-N-(2-methyl-4-(2,2,2-trifluoroacetamido)phenyl)benzamide
+T3	REACTION_PRODUCT 164 169	F1061
+T4	STARTING_MATERIAL 188 304	trans-N-(4-amino-2-methylphenyl)-2-chloro-5-(2,2-dichloro-3-(3,4-dichlorophenyl)cyclopropane-1-carboxamido)benzamide
+T5	STARTING_MATERIAL 306 309	DP1
+T6	REAGENT_CATALYST 337 350	triethylamine
+T7	SOLVENT 377 392	dichloromethane
+T8	REAGENT_CATALYST 412 437	trifluoroacetic anhydride
+T9	TEMPERATURE 498 514	room temperature
+T10	TIME 519 527	18 hours
+T11	OTHER_COMPOUND 577 584	Celite®
+T12	OTHER_COMPOUND 652 665	ethyl acetate
+T13	OTHER_COMPOUND 666 673	hexanes
+T14	REACTION_PRODUCT 697 711	title compound
+T15	YIELD_OTHER 730 737	0.080 g
+T16	YIELD_PERCENT 739 742	68%

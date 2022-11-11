@@ -1,0 +1,17 @@
+T5	GENE-N 232 260	insulin-like growth factor-I
+T6	GENE-N 262 267	IGF-I
+T7	GENE-N 270 314	insulin-like growth factor binding protein-3
+T8	GENE-N 316 323	IGFBP-3
+T9	GENE-N 326 356	growth hormone binding protein
+T10	GENE-N 358 362	GHBP
+T1	CHEMICAL 365 395	dehydroepiandrosterone sulfate
+T2	CHEMICAL 397 402	DHEAS
+T3	CHEMICAL 405 417	testosterone
+T4	CHEMICAL 419 428	estradiol
+R0	NOT Arg1:T5 Arg2:T2
+R1	NOT Arg1:T6 Arg2:T2
+R2	NOT Arg1:T7 Arg2:T3
+R3	NOT Arg1:T8 Arg2:T1
+R4	NOT Arg1:T9 Arg2:T2
+R5	NOT Arg1:T9 Arg2:T4
+R6	NOT Arg1:T10 Arg2:T2

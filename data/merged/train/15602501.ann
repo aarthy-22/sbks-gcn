@@ -1,0 +1,19 @@
+T11	CHEMICAL 0 8	Dopamine
+T18	GENE-Y 0 20	Dopamine transporter
+T12	CHEMICAL 76 87	amphetamine
+T5	CHEMICAL 291 299	dopamine
+T13	GENE-Y 291 311	dopamine transporter
+T6	CHEMICAL 336 347	amphetamine
+T7	CHEMICAL 371 379	dopamine
+T14	GENE-Y 371 391	dopamine transporter
+T15	GENE-Y 398 402	DAT1
+T16	GENE-Y 509 513	DAT1
+T8	CHEMICAL 551 562	amphetamine
+T9	CHEMICAL 693 706	D-amphetamine
+T17	GENE-Y 829 833	DAT1
+T10	CHEMICAL 1044 1055	amphetamine
+T1	CHEMICAL 1158 1169	amphetamine
+T2	CHEMICAL 1297 1308	amphetamine
+T3	CHEMICAL 1423 1434	amphetamine
+T4	CHEMICAL 1550 1565	methylphenidate
+R0	NOT Arg1:T13 Arg2:T6

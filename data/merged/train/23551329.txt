@@ -1,0 +1,12 @@
+Low-Dose Dexamethasone Treatment Promotes Pro-Survival Signalling Pathway In Adult Rat Prefrontal Cortex.
+Synthetic glucocorticoid dexamethasone (DEX), a highly potent anti-inflammatory and immunosuppressive agent, is widely used in treatments of brain cancer, inflammatory and autoimmune diseases.
+The objective of the current study was to determine whether a low-dose subchronic DEX treatment (100 μg/kg for 8 consecutive days) exerts long-term effects on apoptosis in the adult rat prefrontal cortex (PFC) by examining the expression of cell death-promoting molecules (poly (ADP-ribose) polymerase (PARP), p53, procaspase 3, cleaved caspase 3, Bax) and cell-survival molecules (AKT, Bcl-2).
+Our results revealed that body, thymus and adrenal weight as well corticosterone level in the serum and PFC were reduced a day following last DEX injection.
+In PFC, DEX caused activation of AKT, augmentation of pro-survival Bcl-2 protein and enhanced Bcl-2/Bax protein ratio,
+as well Bcl-2 translocation to mitochondria.
+The unaltered profile in the protein expression of apoptotic molecules PARP, procaspase 3 and Bax was detected, while the p53 protein was decreased.
+Results of RT-PCR analysis showed decrease of p53 mRNA level and no significant difference in Bcl-2 and Bax mRNA expressions in DEX-treated rats.
+Finally, the DNA fragmentation assay and Fluoro-Jade staining demonstrated no considerable changes in the apoptosis in rat PFC.
+Our findings support the concept that a low-dose DEX creates the hypocorticoid state in the brain and indicate that subchronic DEX treatment activates pro-survival signalling pathway but does not change apoptotic markers in rat PFC.
+This mechanism might be relevant for DEX-induced apoptosis resistance observed during and after chemotherapy of patients with brain tumours.
+© 2013 British Society for Neuroendocrinology.

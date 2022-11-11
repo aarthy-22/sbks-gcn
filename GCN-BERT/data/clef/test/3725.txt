@@ -1,0 +1,2 @@
+Step 3: isoindoline-5-sulfonamide
+To a solution of 1-oxoisoindoline-5-sulfonamide (288 mg, 1.36 mmol) in tetrahydrofuran (15 mL) was added a solution of borane in tetrahydrofuran (1M, 6.8 mL, 6.8 mmol), and stirred at room temperature for 2 hours and then stirred under reflux overnight. After cooling, methanol was carefully added dropwise to quench the excess borane. The resulting mixture was evaporated, concentrated and then purified by silica gel column chromatography to give isoindoline-5-sulfonamide (162 mg). Yield: 60%.

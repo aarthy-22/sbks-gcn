@@ -1,0 +1,11 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 23 132	2-[3-[4-([1,2,4]triazolo[1,5-a]pyridin-5-)pyrazole-1-] -1-(trifluoromethylsulfonyl)azetidine- 3-]acetonitrile
+T3	STARTING_MATERIAL 133 189	2-[3-[4-([1,2,4]triazolo[1,5-a]pyridin- 5-) pyrazole-1-]
+T4	STARTING_MATERIAL 190 200	azetidine-
+T5	STARTING_MATERIAL 264 271	DMAP(13
+T6	REAGENT_CATALYST 292 300	Et3N(109
+T7	STARTING_MATERIAL 332 368	trifluoromethanesulfonyl chloride(47
+T8	TEMPERATURE 405 409	15°C
+T9	TEMPERATURE 447 451	15°C
+T10	TIME 469 476	4 hours
+T11	REACTION_PRODUCT 665 778	2-[3-[4-([1,2,4]triazolo[1,5-a]pyridin-5-) pyrazole-1-] -1-(trifluoromethylsulfonyl)azetidine- 3-]acetonitrile(25

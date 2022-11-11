@@ -1,0 +1,9 @@
+Metformin directly inhibits ghrelin secretion through AMP-activated protein kinase in rat primary gastric cells.
+The antidiabetic drug Metformin causes weight loss in both diabetic and non-diabetic individuals.
+Metformin treatment is also associated with lower circulating levels of the orexigenic hormone ghrelin.
+To test whether Metformin directly affects ghrelin cells, rat primary stomach cells were treated with Metformin and the levels of ghrelin secretion, proghrelin gene expression and activation of adenosine monophosphate-activated protein kinase (AMPK) were examined.
+Metformin significantly reduced ghrelin secretion and proghrelin mRNA production and both these effects were blocked by co-incubation with the AMPK inhibitor compound C. Furthermore, the AMPK activator 5-amino-1-β-D-ribofuranosyl-imidazole-4-carboxamide (AICAR) significantly inhibited ghrelin secretion.
+Additionally, ghrelin cells were shown to express AMPK.
+Finally, Metformin treatment caused a significant increase in the level of phosphorylated (active) AMPK.
+Our results show that Metformin directly inhibits stomach ghrelin production and secretion through AMPK.
+This reduction in ghrelin secretion may be one of the key components in Metformin's mechanism of weight loss.

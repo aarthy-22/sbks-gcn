@@ -1,0 +1,5 @@
+Mutations in the follicle-stimulating hormone-beta (FSH beta) and FSH receptor genes in mice and humans.
+Follicle-stimulating hormone (FSH), a dimeric glycoprotein synthesized in the anterior pituitary gland, is important for the production of sex steroids and gametes.
+FSH-beta (FSH beta) and FSH receptor (FSHR) knockout mice display impaired ovarian follicular development and infertility in females and small testes, oligospermia, and fertility in males.
+Humans with FSH beta gene mutations tend to have a more severe phenotype than those with FSHR gene mutations, although infertility and varying degrees of impaired sex steroid production occur in both types of mutations.
+Data from human and mouse mutations in the FSH beta and FSHR genes suggest that FSH is necessary for normal pubertal development and fertility in males and females.

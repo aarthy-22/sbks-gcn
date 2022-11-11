@@ -1,0 +1,10 @@
+Betaxolol, a beta(1)-adrenoceptor antagonist, reduces Na(+) influx into cortical synaptosomes by direct interaction with Na(+) channels: comparison with other beta-adrenoceptor antagonists.
+Betaxolol, a beta(1)-adrenoceptor antagonist used for the treatment of glaucoma, is known to be neuroprotective in paradigms of ischaemia/excitotoxicity.
+In this study, we examined whether betaxolol and other beta-adrenoceptor antagonists interact directly with neurotoxin binding to sites 1 and 2 of the voltage-sensitive sodium channel (Na(+) channel) in rat cerebrocortical synaptosomes.
+Betaxolol inhibited specific [(3)H]-batrachotoxinin-A 20-alpha-benzoate ([(3)H]-BTX-B) binding to neurotoxin site 2 in a concentration-dependent manner with an IC(50) value of 9.8 microM. Comparison of all the beta-adrenoceptor antagonists tested revealed a potency order of propranolol>betaxolol approximately levobetaxolol>levobunolol approximately carteolol>/=timolol>atenolol.
+None of the drugs caused a significant inhibition of [(3)H]-saxitoxin binding to neurotoxin receptor site 1, even at concentrations as high as 250 microM. Saturation experiments showed that betaxolol increased the K(D) of [(3)H]-BTX-B binding but had no effect on the B(max).
+The association kinetics of [(3)H]-BTX-B were unaffected by betaxolol, but the drug significantly accelerated the dissociation rate of the radioligand.
+These findings argue for a competitive, indirect, allosteric mode of inhibition of [(3)H]-BTX-B binding by betaxolol.
+Betaxolol inhibited veratridine-stimulated Na(+) influx in rat cortical synaptosomes with an IC(50) value of 28.
+3 microM. Carteolol, levobunolol, timolol and atenolol were significantly less effective than betaxolol at reducing veratridine-evoked Na(+) influx.
+The ability of betaxolol to interact with neurotoxin site 2 of the Na(+) channel and inhibit Na(+) influx may have a role in its neuroprotective action in paradigms of excitotoxicity/ischaemia and in its therapeutic effect in glaucoma.

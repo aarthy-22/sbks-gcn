@@ -1,0 +1,12 @@
+Immunomodulatory properties of multi-walled carbon nanotubes in peripheral blood mononuclear cells from healthy subjects and allergic patients.
+In the present study, we investigated the immunomodulatory activity of multi-walled carbon nanotubes (MWCNTs) in peripheral blood mononuclear cells (PBMCs) from healthy donors and mite-allergic subjects.
+Freshly prepared PBMCs, stimulated or not with Toll-like receptor (TLR)1-9 agonists, a T cell mitogen (phytohemagglutinin A) or mite allergen extract were cultured in the presence or absence of MWCNTs.
+Secretion of TNF-α, IL-2, IL-5, IL-6, IL-12/23p40 or IFN-γ was quantified in the culture supernatants by ELISA.
+Basal secretion of all the cytokines was not altered by MWCNTs in PBMCs from both healthy donors and allergic subjects.
+In PBMCs from healthy donors, TNF-α, IL-6 and IL-12/23p40 secretion in response to the TLR4 agonist, lipopolysaccharide was however increased in a dose-dependent manner by MWCNTs.
+Significant increases in the release of these cytokines were also observed in PBMCs stimulated with a TLR2 or TLR3 agonist.
+MWCNTs also increased the release of IL-2 and IFN-γ by PBMCs stimulated with a T cell mitogen.
+In contrast, MWCNTs inhibited allergen-induced IL-5 secretion by PBMCs from mite-allergic subjects.
+As well, MWCNTs altered the capacity of PBMC-derived monocytes to differentiate into functional dendritic cells.
+All together, our data suggest that according to its immune cell target, MWCNTs may either promote or suppress immune responses in humans.
+Further investigations are necessary to fully understand the complexity behind interactions of engineered nanoparticles with the immune system.

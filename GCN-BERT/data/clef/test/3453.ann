@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 8 10	21
+T2	REACTION_PRODUCT 25 113	4-isopropoxy-N-(1-(quinolin-5-yl)-3-(trifluoromethyl)-1H-pyrazol-5-yl)benzenesulfonamide
+T3	STARTING_MATERIAL 130 166	4-isopropoxybenzenesulfonyl chloride
+T4	STARTING_MATERIAL 192 248	1-(quinolin-5-yl)-3-(trifluoromethyl)-1H-pyrazol-5-amine
+T5	REAGENT_CATALYST 306 314	pyridine
+T6	TEMPERATURE 338 344	80° C.
+T7	TIME 349 352	4 h
+T8	TEMPERATURE 385 401	room temperature
+T9	OTHER_COMPOUND 520 536	acetonitrile-H2O
+T10	OTHER_COMPOUND 547 550	TFA
+T11	REACTION_PRODUCT 574 588	title compound
+T12	YIELD_OTHER 607 614	0.025 g
+T13	YIELD_OTHER 616 626	0.052 mmol
+T14	YIELD_PERCENT 628 631	47%

@@ -1,0 +1,20 @@
+T11	CHEMICAL 28 39	pristimerin
+T1	CHEMICAL 116 127	Pristimerin
+T2	CHEMICAL 131 158	quinonemethide triterpenoid
+T3	CHEMICAL 359 370	pristimerin
+T4	CHEMICAL 397 408	Pristimerin
+T5	CHEMICAL 447 459	nitric oxide
+T6	CHEMICAL 461 463	NO
+T7	CHEMICAL 469 485	prostaglandin E2
+T12	GENE-Y 514 535	inducible NO synthase
+T8	CHEMICAL 524 526	NO
+T13	GENE-Y 540 556	cyclooxygenase-2
+T9	CHEMICAL 640 651	pristimerin
+T14	GENE-N 694 703	cytokines
+T15	GENE-Y 713 736	tumor necrosis factor-α
+T16	GENE-Y 741 754	interleukin-6
+T10	CHEMICAL 832 843	pristimerin
+T17	GENE-N 883 900	nuclear factor-κB
+T18	GENE-N 909 941	mitogen-activated protein kinase
+R0	CPR-9 Arg1:T6 Arg2:T12
+R1	NOT Arg1:T8 Arg2:T13

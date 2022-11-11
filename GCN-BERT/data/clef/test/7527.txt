@@ -1,0 +1,4 @@
+3. Synthesis of Compound 4
+(Synthesis of Compound E)
+15.0 g of Compound D, 4.60 g of phenylboronic acid, 126 ml of toluene, 63 mL of ethanol, and 32 ml of a 2 M aqueous tripotassium phosphate solution were added to a vessel, followed by filling the remaining space of the vessel with argon. Then, 2.18 g of Pd(PPh3)4 was added thereto, followed by refluxing for about 2 hours. After air cooling, water was added, an organic layer was separated, and solvents were distilled. The crude product thus obtained was separated using silica gel column chromatography (using hexane and toluene) to obtain 9.25 g (yield 62%) of Compound E as a white solid compound.
+The molecular weight of Compound E measured by FAB-MS was 472.

@@ -1,0 +1,47 @@
+T37	GENE-Y 15 47	transforming growth factor-alpha
+T36	GENE-N 143 171	alpha- and beta-adrenoceptor
+T29	GENE-Y 213 245	transforming growth factor alpha
+T31	GENE-Y 247 256	TGF-alpha
+T20	GENE-N 368 395	alpha and beta adrenoceptor
+T27	GENE-Y 412 421	TGF-alpha
+T28	GENE-Y 441 450	TGF-alpha
+T30	GENE-Y 666 675	TGF-alpha
+T32	GENE-Y 872 881	TGF-alpha
+T33	GENE-Y 1014 1034	beta(2) adrenoceptor
+T14	CHEMICAL 1043 1057	metaproterenol
+T34	GENE-Y 1122 1131	TGF-alpha
+T35	GENE-N 1154 1175	alpha(2) adrenoceptor
+T1	CHEMICAL 1184 1231	5-bromo-6-[2-imidazolin-2-yl-amino]-quinoxaline
+T2	CHEMICAL 1233 1241	UK-14304
+T15	GENE-N 1268 1289	alpha(1) adrenoceptor
+T3	CHEMICAL 1298 1311	phenylephrine
+T16	GENE-Y 1360 1369	TGF-alpha
+T17	GENE-Y 1407 1416	TGF-alpha
+T18	GENE-Y 1481 1513	epidermal growth factor receptor
+T4	CHEMICAL 1625 1634	genistein
+T5	CHEMICAL 1647 1727	1-6[[17beta-3methoxyestra-1,3, 5(10)-trien-17-yl]amino]hexyl]-1H-pyrrol2,5-dione
+T6	CHEMICAL 1729 1736	U-73122
+T7	CHEMICAL 1748 1758	wortmannin
+T8	CHEMICAL 1775 1786	sphingosine
+T9	CHEMICAL 1803 1829	2'-amino-3'-methoxyflavone
+T10	CHEMICAL 1831 1838	PD98059
+T11	CHEMICAL 1859 1868	rapamycin
+T19	GENE-Y 2014 2023	TGF-alpha
+T12	CHEMICAL 2050 2058	tyrosine
+T21	GENE-N 2050 2065	tyrosine kinase
+T22	GENE-N 2067 2082	phospholipase C
+T23	GENE-N 2084 2113	phosphatidylinositol 3-kinase
+T24	GENE-N 2115 2131	protein kinase C
+T25	GENE-N 2133 2172	mitogen-activated protein kinase kinase
+T13	CHEMICAL 2178 2187	ribosomal
+T26	GENE-N 2178 2209	ribosomal protein p70 S6 kinase
+R0	CPR-5 Arg1:T14 Arg2:T33
+R1	CPR-5 Arg1:T1 Arg2:T35
+R2	CPR-4 Arg1:T4 Arg2:T17
+R3	CPR-4 Arg1:T6 Arg2:T17
+R4	NOT Arg1:T33 Arg2:T1
+R5	NOT Arg1:T34 Arg2:T1
+R6	NOT Arg1:T35 Arg2:T3
+R7	NOT Arg1:T19 Arg2:T13
+R8	NOT Arg1:T12 Arg2:T26
+R9	NOT Arg1:T23 Arg2:T13

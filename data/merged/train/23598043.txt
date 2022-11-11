@@ -1,0 +1,10 @@
+Microglial disruption in young mice with early chronic lead exposure.
+The mechanisms by which early chronic lead (Pb) exposure alter brain development have not been identified.
+We examined neuroimmune system effects in C57BL/6J mice with Pb exposure, including levels that may be common among children in lower socioeconomic income environments.
+Pups were exposed via dams' drinking water from birth to post-natal day 28 to low, high or no Pb conditions.
+We compared gene expression of neuroinflammatory markers (study 1); and microglial mean cell body volume and mean cell body number in dentate gyrus, and dentate gyrus volume (study 2).
+Blood Pb levels in exposed animals at sacrifice (post-natal day 28) ranged from 2.66 to 20.31μg/dL. Only interleukin-6 (IL6) differed between groups and reductions were dose-dependent.
+Microglia cell body number also differed between groups and reductions were dose-dependent.
+As compared with controls, microglia cell body volume was greater but highly variable in only low-dose animals; dentate gyri volumes in low- and high-dose animals were reduced.
+The results did not support a model of increased neuroinflammation.
+Instead, early chronic exposure to Pb disrupted microglia via damage to, loss of, or lack of proliferation of microglia in the developing brains of Pb-exposed animals.

@@ -1,0 +1,10 @@
+Amphetamine-type central nervous system stimulants release norepinephrine more potently than they release dopamine and serotonin.
+A large body of evidence supports the hypothesis that mesolimbic dopamine (DA) mediates, in animal models, the reinforcing effects of central nervous system stimulants such as cocaine and amphetamine.
+The role DA plays in mediating amphetamine-type subjective effects of stimulants in humans remains to be established.
+Both amphetamine and cocaine increase norepinephrine (NE) via stimulation of release and inhibition of reuptake, respectively.
+If increases in NE mediate amphetamine-type subjective effects of stimulants in humans, then one would predict that stimulant medications that produce amphetamine-type subjective effects in humans should share the ability to increase NE.
+To test this hypothesis, we determined, using in vitro methods, the neurochemical mechanism of action of amphetamine, 3,4-methylenedioxymethamphetamine (MDMA), (+)-methamphetamine, ephedrine, phentermine, and aminorex.
+As expected, their rank order of potency for DA release was similar to their rank order of potency in published self-administration studies.
+Interestingly, the results demonstrated that the most potent effect of these stimulants is to release NE.
+Importantly, the oral dose of these stimulants, which produce amphetamine-type subjective effects in humans, correlated with the their potency in releasing NE, not DA, and did not decrease plasma prolactin, an effect mediated by DA release.
+These results suggest that NE may contribute to the amphetamine-type subjective effects of stimulants in humans.

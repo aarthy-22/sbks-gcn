@@ -1,0 +1,13 @@
+T1	REACTION_PRODUCT 25 121	3-[4-(4-amino-piperidin-1-yl)-3-(3-chloro-5-methyl-phenyl)-cinnolin-6-yl]-2-hydroxy-benzonitrile
+T2	STARTING_MATERIAL 140 270	{1-[3-(3-chloro-5-methyl-phenyl)-6-(3-cyano-2-methoxymethoxy-phenyl)-cinnolin-4-yl]-piperidin-4-yl}-carbamic acid tert-butyl ester
+T3	SOLVENT 297 304	dioxane
+T4	REAGENT_CATALYST 328 331	HCl
+T5	SOLVENT 335 342	dioxane
+T6	TEMPERATURE 380 382	RT
+T7	TIME 387 391	1 hr
+T8	OTHER_COMPOUND 454 461	dioxane
+T9	OTHER_COMPOUND 466 473	hexanes
+T10	REACTION_PRODUCT 488 502	title compound
+T11	REACTION_PRODUCT 506 516	2 HCl salt
+T12	YIELD_OTHER 518 525	25.7 mg
+T13	YIELD_PERCENT 527 532	84.4%

@@ -1,0 +1,29 @@
+T18	CHEMICAL 89 100	vasopressin
+T29	GENE-Y 89 113	vasopressin V1a receptor
+T17	CHEMICAL 144 155	vasopressin
+T28	GENE-Y 144 155	vasopressin
+T10	CHEMICAL 221 232	vasopressin
+T25	GENE-Y 221 236	vasopressin V1a
+T9	CHEMICAL 551 562	vasopressin
+T24	GENE-Y 551 562	vasopressin
+T11	CHEMICAL 635 643	atosiban
+T12	CHEMICAL 849 860	vasopressin
+T26	GENE-Y 849 860	vasopressin
+T13	CHEMICAL 919 927	atosiban
+T14	CHEMICAL 958 969	Vasopressin
+T27	GENE-Y 958 969	Vasopressin
+T15	CHEMICAL 1069 1080	vasopressin
+T16	CHEMICAL 1135 1143	atosiban
+T1	CHEMICAL 1273 1284	vasopressin
+T2	CHEMICAL 1299 1307	atosiban
+T3	CHEMICAL 1410 1421	vasopressin
+T19	GENE-Y 1410 1421	vasopressin
+T4	CHEMICAL 1453 1461	atosiban
+T5	CHEMICAL 1556 1567	vasopressin
+T20	GENE-Y 1556 1567	vasopressin
+T6	CHEMICAL 1593 1601	Atosiban
+T7	CHEMICAL 1610 1621	vasopressin
+T21	GENE-Y 1610 1621	vasopressin
+T8	CHEMICAL 1862 1873	vasopressin
+T22	GENE-Y 1862 1873	vasopressin
+T23	GENE-Y 1982 1999	V1a-like receptor

@@ -1,0 +1,11 @@
+T1	EXAMPLE_LABEL 8 10	85
+T2	REACTION_PRODUCT 11 102	6-(6-Methanesulfinyl-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T3	STARTING_MATERIAL 103 193	5-Methyl-6-(6-methylsulfanyl-pyridin-2-ylmethyl)-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T4	STARTING_MATERIAL 203 205	16
+T5	SOLVENT 249 264	dichloromethane
+T6	REAGENT_CATALYST 266 292	3-chloroperoxybenzoic acid
+T7	TEMPERATURE 354 370	room temperature
+T8	TIME 375 385	30 minutes
+T9	OTHER_COMPOUND 497 515	ammonium hydroxide
+T10	YIELD_OTHER 525 530	75 mg
+T11	YIELD_PERCENT 532 535	35%

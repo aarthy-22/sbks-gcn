@@ -1,0 +1,11 @@
+Structure of human microsomal cytochrome P450 2C8.
+Evidence for a peripheral fatty acid binding site.
+A 2.7-Angstrom molecular structure of human microsomal cytochrome P450 2C8 (CYP2C8) was determined by x-ray crystallography.
+The membrane protein was modified for crystallization by replacement of the hydrophobic N-terminal transmembrane domain with a short hydrophilic sequence before residue 28.
+The structure of the native sequence is complete from residue 28 to the beginning of a C-terminal histidine tag used for purification.
+CYP2C8 is one of the principal hepatic drug-metabolizing enzymes that oxidizes therapeutic drugs such as taxol and cerivastatin and endobiotics such as retinoic acid and arachidonic acid.
+Consistent with the relatively large size of its preferred substrates, the active site volume is twice that observed for the structure of CYP2C5.
+The extended active site cavity is bounded by the beta1 sheet and helix F' that have not previously been implicated in substrate recognition by mammalian P450s.
+CYP2C8 crystallized as a symmetric dimer formed by the interaction of helices F, F', G', and G. Two molecules of palmitic acid are bound in the dimer interface.
+The dimer is observed in solution, and mass spectrometry confirmed the association of palmitic acid with the enzyme.
+This novel finding identifies a peripheral binding site in P450s that may contribute to drug-drug interactions in P450 metabolism.

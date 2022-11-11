@@ -1,0 +1,25 @@
+T25	GENE-N 8 43	tachykinin and bradykinin receptors
+T18	CHEMICAL 23 33	bradykinin
+T19	CHEMICAL 70 82	formaldehyde
+T11	CHEMICAL 165 174	CP-99,994
+T12	CHEMICAL 175 232	[(+)-(2s,3s)-3-(2-methoxybenzylamino)-2-phenylpiperidine]
+T20	GENE-Y 236 259	tachykinin NK1 receptor
+T5	CHEMICAL 272 279	HOE 140
+T6	CHEMICAL 280 320	(D-Arg[Hyp3,Thi5,D-Tic7,Oic8]bradykinin)
+T23	GENE-Y 324 346	bradykinin B2 receptor
+T7	CHEMICAL 324 334	bradykinin
+T8	CHEMICAL 363 372	ketotifen
+T9	CHEMICAL 373 473	(4-(1-methyl-4-piperidylidene)4 H-benzo[4,5]cycloheptal[1,2-b]thiophen-10(9H)-one hydrogen fumarate)
+T10	CHEMICAL 477 486	histamine
+T24	GENE-Y 477 498	histamine H1 receptor
+T13	CHEMICAL 593 605	formaldehyde
+T14	CHEMICAL 624 638	Evans blue dye
+T15	CHEMICAL 848 860	formaldehyde
+T16	CHEMICAL 952 964	formaldehyde
+T17	CHEMICAL 1085 1094	CP-99,994
+T1	CHEMICAL 1150 1157	HOE 140
+T2	CHEMICAL 1180 1189	ketotifen
+T3	CHEMICAL 1255 1267	formaldehyde
+T21	GENE-Y 1316 1328	NK1 receptor
+T22	GENE-N 1356 1376	bradykinin receptors
+T4	CHEMICAL 1356 1366	bradykinin

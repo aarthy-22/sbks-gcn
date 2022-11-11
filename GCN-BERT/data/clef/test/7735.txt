@@ -1,0 +1,2 @@
+4-Bromo-2-isopropylaniline (2)
+To a solution of 2-isopropylaniline (2.70 g, 2.83 mL, 20 mmol) and NH4OAc (154 mg, 2 mmol) in acetonitrile (100 mL) was added N-bromosuccinimide (3.74 g, 21 mmol). The mixture was stirred at room temperature for 10 min followed by concentration in vacuo. After addition of H2O and extraction with ethyl acetate, the organic layer was dried (MgSO4), evaporated and the residue was purified by flash column chromatography (cyclohexane/ethyl acetate 10:1) to give 2 (3.45 g, 81%) as a brown oil.

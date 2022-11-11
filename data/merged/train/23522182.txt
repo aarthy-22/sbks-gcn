@@ -1,0 +1,14 @@
+Dose-ranging study with the glucokinase activator AZD1656 as monotherapy in Japanese patients with type 2 diabetes mellitus.
+AIM: To assess the glucose-lowering effects of monotherapy with the glucokinase activator AZD1656 in Japanese patients with type 2 diabetes mellitus.
+METHODS: This was a randomized, double-blind, placebo-controlled study performed in Japan (NCT01152385).
+Patients (n = 224) were randomized to AZD1656 (40-200, 20-140 or 10-80 mg titrated doses) or placebo.
+The primary variable was the placebo-corrected change from baseline to 4 months in glycated haemoglobin (HbA1c).
+Effects on fasting plasma glucose (FPG) and safety were also assessed.
+RESULTS: HbA1c was reduced numerically from baseline by 0.3-0.8% with AZD1656 and by 0.1% with placebo over the first 2 months of treatment, after which effects of AZD1656 started to decline.
+The changes from baseline to 4 months in HbA1c were not significant for the AZD1656 40-200 mg group versus placebo [mean (95% CI) placebo-corrected change: -0.22 (-0.65, 0.20)%; p = 0.30].
+Formal significance testing was not carried out for the other two AZD1656 dose groups.
+A higher percentage of patients on AZD1656 achieved HbA1c ≤ 7% after 4 months versus placebo, but responder rates were low.
+Results for FPG reflected those for HbA1c.
+Cases of hypoglycaemia were rare with AZD1656 (one patient) and no safety concerns were raised.
+CONCLUSIONS: Although initially favourable plasma glucose reductions were observed, there was a loss of effect over time with sustained AZD1656 treatment.
+The study design did not allow an evaluation of the reasons for this lack of long-term efficacy.

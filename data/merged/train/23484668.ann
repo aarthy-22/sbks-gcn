@@ -1,0 +1,18 @@
+T11	CHEMICAL 0 16	Diarylheptanoids
+T12	CHEMICAL 21 31	Flavonoids
+T17	GENE-N 104 113	Cytokines
+T1	CHEMICAL 164 180	diarylheptanoids
+T5	CHEMICAL 182 245	(3S,5R)-3-hydroxy-5-methoxy-1,7-bis(4-hydroxyphenyl)-6E-heptene
+T9	CHEMICAL 251 314	(3S,5S)-3-hydroxy-5-methoxy-1,7-bis(4-hydroxyphenyl)-6E-heptene
+T2	CHEMICAL 324 379	(3S)-3-hydroxy-1,7-bis(4-hydroxyphenyl)-6E-hepten-5-one
+T3	CHEMICAL 394 414	flavonoid glycosides
+T4	CHEMICAL 416 495	3,7,3'-tri-O-methylquercetin-4'-O-β-d-apiofuranosyl-(1→2)-O-β-d-glucopyranoside
+T6	CHEMICAL 501 609	7,3'-di-O-methylquercetin-4'-O-β-d-glucopyranosyl-3-O-[6‴-(3-hydroxy-3-methylglutaroyl)]-α-d-glucopyranoside
+T7	CHEMICAL 615 779	7,3'-di-O-methylquercetin-4'-O-β-d-glucopyranosyl-3-O-[(6'''''→5'''')-O-1'''''-(sinap-4-yl)-β-d-glucopyranosyl-6‴-(3-hydroxy-3-methylglutaroyl)]-α-d-glucopyranoside
+T8	CHEMICAL 789 904	(2S)-5-hydroxy-7,3'-dimethoxyflavanone-4'-O-β-d-apiofuranosyl-(1→5)-O-β-d-apiofuranosyl-(1→2)-O-β-d-glucopyranoside
+T14	GENE-Y 1066 1071	TNF-α
+T15	GENE-Y 1073 1077	IL-6
+T16	GENE-Y 1083 1091	IL-12p40
+T10	CHEMICAL 1153 1169	(+)-Medioresinol
+T13	GENE-Y 1233 1241	IL-12p40
+R0	NOT Arg1:T14 Arg2:T10

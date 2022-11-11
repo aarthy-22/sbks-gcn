@@ -1,0 +1,9 @@
+Haloperidol promotes mTORC1-dependent phosphorylation of ribosomal protein S6 via dopamine- and cAMP-regulated phosphoprotein of 32 kDa and inhibition of protein phosphatase-1.
+The ribosomal protein S6 (rpS6) is a component of the small 40S ribosomal subunit, involved in multiple physiological functions.
+Here, we examined the effects produced by haloperidol, a typical antipsychotic drug, on the phosphorylation of rpS6 at Ser240/244 in the striatum, a brain region involved in neurodegenerative and neuropsychiatric disorders.
+Administration of haloperidol increased Ser240/244 phosphorylation in a subpopulation of GABA-ergic medium spiny neurons (MSNs), which express dopamine D2 receptors (D2Rs).
+This effect was prevented by rapamycin, an inhibitor of the mammalian target of rapamycin complex 1 (mTORC1), or by PF470867, a selective inhibitor of the p70 ribosomal S6 kinase 1 (S6K1).
+We also found that the effect of haloperidol on Ser240/244 phosphorylation was prevented by functional inactivation of dopamine- and cAMP-regulated phosphoprotein of 32 kDa (DARPP-32), an endogenous inhibitor of protein phosphatase-1 (PP-1).
+In line with this observation, incubation of striatal slices with okadaic acid and calyculin A, two inhibitors of PP-1, increased Ser240/244 phosphorylation.
+These results show that haloperidol promotes mTORC1- and S6K1-dependent phosphorylation of rpS6 at Ser240/244, in a subpopulation of striatal MSNs expressing D2Rs.
+They also indicate that this effect is exerted by suppressing dephosphorylation at Ser240/244, through PKA-dependent activation of DARPP-32 and inhibition of PP-1.

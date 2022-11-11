@@ -1,0 +1,10 @@
+T9	GENE-N 129 135	serpin
+T6	CHEMICAL 205 220	pentasaccharide
+T3	CHEMICAL 248 255	sulfate
+T8	GENE-N 320 344	blood clotting proteases
+T4	CHEMICAL 397 412	pentasaccharide
+T5	CHEMICAL 677 692	pentasaccharide
+T7	CHEMICAL 934 949	pentasaccharide
+T1	CHEMICAL 1187 1202	pentasaccharide
+T2	CHEMICAL 1329 1344	pentasaccharide
+R0	NOT Arg1:T6 Arg2:T8

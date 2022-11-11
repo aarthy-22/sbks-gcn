@@ -1,0 +1,18 @@
+The effects of prostaglandin analogues on IOP in prostanoid FP-receptor-deficient mice.
+PURPOSE: This study was designed to clarify the involvement of the prostanoid FP receptor in the intraocular pressure (IOP)-lowering effects of latanoprost, travoprost, bimatoprost, and unoprostone with the use of FP-receptor-deficient (FPKO) mice.
+METHODS: FPKO and wild-type (WT) mice were bred and acclimatized under a 12-hour light-dark cycle.
+IOP was measured under general anesthesia by a microneedle METHOD: To evaluate the effects of each drug, a single drop (3 muL) of each drug solution was topically applied in a masked manner to a randomly selected eye.
+IOP reduction was evaluated by the difference in IOP between the treated eye and the untreated contralateral eye in the same mouse.
+First, the diurnal variation and baseline IOP in WT and FPKO mice were measured.
+Then, to determine the window feasible for demonstrating the most marked ocular hypotensive effect, 0.005% latanoprost was applied to WT mice during the day or at night.
+The time when the ocular hypotensive effect was larger was selected for further studies to evaluate the effects of latanoprost (0.005%), travoprost (0.004%), bimatoprost (0.03%), and unoprostone (0.12%).
+In addition, bunazosin (0.1%) was also applied to demonstrate functional uveoscleral outflow in FPKO mice.
+All experiments were conducted under a masked study design.
+RESULTS: The baseline IOP (mean +/- SEM) in WT and FPKO mice was 15.0 +/- 0.2 and 15.0 +/- 0.3 mm Hg, respectively, during the day, and 18.9 +/- 0.4 and 19.2 +/- 0.4 mm Hg, respectively, at night.
+In WT mice, latanoprost significantly lowered IOP both during the day and at night, at 2 to 6 hours and 1 to 6 hours after application, respectively.
+Maximal IOP reduction was observed at 3 hours after drug instillation both during the day (10.9 +/- 1.8%) and at night (23.2 +/- 1.1%).
+At 3 hours after instillation, latanoprost (10.9 +/- 1.8% and 23.2 +/- 1.1%, daytime and nighttime, respectively), travoprost (15.9 +/- 1.4% and 26.1 +/- 1.2%) and bimatoprost (8.8 +/- 2.0 and 19.8 +/- 1.5%) significantly lowered IOP in WT mice both during the day and at night; isopropyl unoprostone significantly lowered IOP at night (13.7 +/- 1.9%) but not during the day (5.3 +/- 3.2%).
+In FPKO mice, latanoprost, travoprost, bimatoprost, and unoprostone showed no significant IOP-lowering effect.
+Bunazosin significantly lowered IOP in both WT (22.1 +/- 1.6%) and FPKO mice (22.2 +/- 2.1%).
+CONCLUSIONS: A single application of latanoprost, travoprost, bimatoprost, or unoprostone had no effect on IOP in FPKO mice with presumed functional uveoscleral outflow pathways.
+The prostanoid FP receptor plays a crucial role in the mechanism of early IOP lowering of all commercially available prostaglandin analogues.

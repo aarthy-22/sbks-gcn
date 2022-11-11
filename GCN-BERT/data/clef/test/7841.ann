@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 6 7	2
+T2	REACTION_PRODUCT 22 101	N-(3-fluorophenyl)-N-((5-(hydrazinecarbonyl)pyridin-2-yl)methyl)isonicotinamide
+T3	STARTING_MATERIAL 102 164	Methyl 6-((N-(3-fluorophenyl)isonicotinamido)methyl)nicotinate
+T4	REAGENT_CATALYST 215 236	hydrazine monohydrate
+T5	SOLVENT 275 282	ethanol
+T6	TEMPERATURE 347 352	120°C
+T7	TIME 357 363	1 hour
+T8	TEMPERATURE 384 400	room temperature
+T9	OTHER_COMPOUND 428 433	Water
+T10	OTHER_COMPOUND 497 510	ethyl acetate
+T11	OTHER_COMPOUND 556 563	aqueous
+T12	OTHER_COMPOUND 564 579	sodium chloride
+T13	OTHER_COMPOUND 601 618	magnesium sulfate
+T14	REACTION_PRODUCT 690 704	title compound
+T15	YIELD_OTHER 744 751	0.220 g
+T16	YIELD_PERCENT 753 758	79.4%

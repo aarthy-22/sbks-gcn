@@ -1,0 +1,27 @@
+T1	EXAMPLE_LABEL 0 3	1.6
+T2	REACTION_PRODUCT 5 112	5-bromo-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T3	REAGENT_CATALYST 134 156	1-hydroxybenzotriazole
+T4	STARTING_MATERIAL 182 241	1-ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride
+T5	STARTING_MATERIAL 288 349	(5-bromo-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl)-acetic acid
+T6	SOLVENT 362 379	dimethylformamide
+T7	TEMPERATURE 399 415	room temperature
+T8	TIME 420 430	10 minutes
+T9	STARTING_MATERIAL 453 501	3-piperidin-4-yl-3,4-dihydro-1H-quinazolin-2-one
+T10	TEMPERATURE 552 568	room temperature
+T11	TIME 573 581	18 hours
+T12	OTHER_COMPOUND 610 617	aqueous
+T13	OTHER_COMPOUND 630 655	sodium hydrogen carbonate
+T14	OTHER_COMPOUND 682 695	ethyl acetate
+T15	OTHER_COMPOUND 727 740	ethyl acetate
+T16	OTHER_COMPOUND 755 764	n-butanol
+T17	OTHER_COMPOUND 826 833	aqueous
+T18	OTHER_COMPOUND 846 871	sodium hydrogen carbonate
+T19	OTHER_COMPOUND 898 905	aqueous
+T20	OTHER_COMPOUND 918 933	sodium chloride
+T21	OTHER_COMPOUND 946 964	magnesium sulphate
+T22	OTHER_COMPOUND 1039 1046	heptane
+T23	OTHER_COMPOUND 1047 1060	ethyl acetate
+T24	OTHER_COMPOUND 1100 1108	nitrogen
+T25	YIELD_OTHER 1110 1116	900 mg
+T26	YIELD_PERCENT 1118 1121	97%
+T27	REACTION_PRODUCT 1126 1233	5-bromo-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione

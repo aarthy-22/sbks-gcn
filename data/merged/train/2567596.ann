@@ -1,0 +1,26 @@
+T14	CHEMICAL 25 39	[3H]mepyramine
+T13	CHEMICAL 100 109	histamine
+T23	GENE-Y 100 122	histamine H1-receptors
+T11	CHEMICAL 227 236	histamine
+T22	GENE-Y 227 239	histamine H1
+T2	CHEMICAL 251 265	[3H]mepyramine
+T18	GENE-Y 596 598	H1
+T4	CHEMICAL 622 632	mepyramine
+T5	CHEMICAL 719 728	histamine
+T19	GENE-Y 719 740	histamine H1-receptor
+T6	CHEMICAL 764 780	chlorpheniramine
+T7	CHEMICAL 785 796	pheniramine
+T20	GENE-Y 826 828	H2
+T8	CHEMICAL 847 864	4-methylhistamine
+T21	GENE-Y 913 915	H1
+T9	CHEMICAL 978 994	ethylenediamines
+T10	CHEMICAL 1031 1045	[3H]mepyramine
+T12	CHEMICAL 1076 1091	ethylenediamine
+T1	CHEMICAL 1164 1173	histamine
+T15	GENE-Y 1164 1185	histamine H1-receptor
+T3	CHEMICAL 1320 1334	[3H]mepyramine
+T16	GENE-Y 1387 1398	H1-receptor
+T17	GENE-Y 1411 1422	H1-receptor
+R0	NOT Arg1:T18 Arg2:T6
+R1	NOT Arg1:T19 Arg2:T6
+R2	NOT Arg1:T10 Arg2:T15

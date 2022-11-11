@@ -1,0 +1,20 @@
+T1	EXAMPLE_LABEL 0 5	164.2
+T2	REACTION_PRODUCT 7 74	4-[1-(2-chloro-pyridin-3-yl)-ureido]-piperidine-1-ethyl carboxylate
+T3	STARTING_MATERIAL 97 158	4-(2-chloro-pyridin-3-ylamino)-piperidine-1-ethyl carboxylate
+T4	SOLVENT 186 201	tetrahydrofuran
+T5	SOLVENT 202 219	isopropyl acetate
+T6	STARTING_MATERIAL 279 305	chlorosulphonyl isocyanate
+T7	SOLVENT 319 334	tetrahydrofuran
+T8	TIME 372 378	1 hour
+T9	TEMPERATURE 382 398	room temperature
+T10	OTHER_COMPOUND 433 438	water
+T11	TIME 459 463	18 h
+T12	TEMPERATURE 467 483	room temperature
+T13	OTHER_COMPOUND 535 551	sodium hydroxide
+T14	OTHER_COMPOUND 589 602	ethyl acetate
+T15	OTHER_COMPOUND 673 688	sodium chloride
+T16	OTHER_COMPOUND 704 719	sodium sulphate
+T17	OTHER_COMPOUND 785 790	ether
+T18	YIELD_OTHER 804 808	32 g
+T19	YIELD_PERCENT 810 813	74%
+T20	REACTION_PRODUCT 818 885	4-[1-(2-chloro-pyridin-3-yl)-ureido]-piperidine-1-ethyl carboxylate

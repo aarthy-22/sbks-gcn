@@ -1,0 +1,11 @@
+Anandamide deficiency and heightened neuropathic pain in aged mice.
+Damaging of peripheral nerves may result in chronic neuropathic pain for which the likelihood is increased in the elderly.
+We assessed in mice if age-dependent alterations of endocannabinoids contributed to the heightened vulnerability to neuropathic pain at old age.
+We assessed nociception, endocannabinoids and the therapeutic efficacy of R-flurbiprofen in young and aged mice in the spared nerve injury model of neuropathic pain.
+R-flurbiprofen was used because it is able to reduce neuropathic pain in young mice in part by increasing anandamide.
+Aged mice developed stronger nociceptive hypersensitivity after sciatic nerve injury than young mice.
+This was associated with low anandamide levels in the dorsal root ganglia, spinal cord, thalamus and cortex, which further decreased after nerve injury.
+In aged mice, R-flurbiprofen had only weak antinociceptive efficacy and it failed to restore normal anandamide levels after nerve injury.
+In terms of the mechanisms, we found that fatty acid amide hydrolase (FAAH) which degrades anandamide, was upregulated after nerve injury at both ages, so that this upregulation likely did not account for the age-dependent differences.
+However, enzymes contributing to oxidative metabolism of anandamide, namely cyclooxygenase-1 and Cyp2D6, were increased in the brain of aged mice, possibly enhancing the oxidative breakdown of anandamide.
+This may overwhelm the capacity of R-flurbiprofen to restore anandamide homeostasis and may contribute to the heightened risk for neuropathic pain at old age.

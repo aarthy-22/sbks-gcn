@@ -1,0 +1,9 @@
+Soluble polysialylated NCAM: a novel player of the innate immune system in the lung.
+Posttranslational modification of the neural cell adhesion molecule (NCAM) by polysialic acid (polySia) is well studied in the nervous system and described as a dynamic modulator of plastic processes like precursor cell migration, axon fasciculation, and synaptic plasticity.
+Here, we describe a novel function of polysialylated NCAM (polySia-NCAM) in innate immunity of the lung.
+In mature lung tissue of healthy donors, polySia was exclusively attached to the transmembrane isoform NCAM-140 and located to intracellular compartments of epithelial cells.
+In patients with chronic obstructive pulmonary disease, however, increased polySia levels and processing of the NCAM carrier were observed.
+Processing of polysialylated NCAM was reproduced in a mouse model by bleomycin administration leading to an activation of the inflammasome and secretion of interleukin (IL)-1β.
+As shown in a cell culture model, polySia-NCAM-140 was kept in the late trans-Golgi apparatus of lung epithelial cells and stimulation by IL-1β or lipopolysaccharide induced metalloprotease-mediated ectodomain shedding, resulting in the secretion of soluble polySia-NCAM.
+Interestingly, polySia chains of secreted NCAM neutralized the cytotoxic activity of extracellular histones as well as DNA/histone-network-containing "neutrophil extracellular traps", which are formed during invasion of microorganisms.
+Thus, shedding of polySia-NCAM by lung epithelial cells may provide a host-protective mechanism to reduce tissue damage during inflammatory processes.

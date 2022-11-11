@@ -1,0 +1,10 @@
+The molecular genetic approach to "Bartter's syndrome".
+The term "Bartter's syndrome" comprises a set of autosomal recessively inherited renal tubular disorders characterized by hypokalemia, metabolic alkalosis, hyperreninism, and hyperaldosteronism but normal blood pressure.
+Additional clinical and biochemical features led to a classification into phenotypically different tubulopathies: Gitelman's syndrome, hyperprostaglandin E syndrome (antenatal Bartter's syndrome), and classic Bartter's syndrome.
+Gitelman's syndrome results from mutations in the SLC12A3 gene encoding the human thiazide-sensitive sodium chloride cotransporter, leading to impaired reabsorption of sodium chloride in the distal convoluted tubule.
+Genetic heterogeneity of hyperprostaglandin E syndrome has been demonstrated by identification of mutations in the SLC12A1 gene as well as in the KCNJ1 gene.
+Mutations in SLC12A1 coding for the bumetanide-sensitive sodium potassium 2 chloride cotransporter (NKCC2) cause defective reabsorption of sodium chloride in the thick ascending limb of Henle's loop.
+Mutations in KCNJ1 leading to loss of function of the potassium channel ROMK disrupt potassium recycling back to the tubule lumen and inhibit thereby the NKCC2 activity.
+A third gene for hyperprostaglandin E syndrome has been mapped to the short arm of chromosome 1, and it remains to be evaluated whether other genes are involved in the pathogenesis of this disease.
+Classic Bartter's syndrome has been demonstrated to result from defective chloride transport across the basolateral membrane in the distal nephron due to mutations in the chloride channel gene CLCNKB.
+This article reviews the molecular genetic approach that has led to identification of genetic defects underlying the different hypokalemic tubulopathies.

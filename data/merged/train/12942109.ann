@@ -1,0 +1,15 @@
+T11	CHEMICAL 19 29	tazarotene
+T1	CHEMICAL 62 72	Tazarotene
+T6	CHEMICAL 79 98	acetylenic retinoid
+T10	CHEMICAL 123 139	tazarotenic acid
+T3	CHEMICAL 175 183	retinoid
+T12	GENE-N 175 193	retinoid receptors
+T13	GENE-Y 194 201	RARbeta
+T14	GENE-Y 206 214	RARgamma
+T7	CHEMICAL 266 276	tazarotene
+T8	CHEMICAL 570 580	tazarotene
+T9	CHEMICAL 643 659	tazarotenic acid
+T2	CHEMICAL 1143 1153	tazarotene
+T4	CHEMICAL 1209 1219	tazarotene
+T5	CHEMICAL 1330 1339	retinoids
+R0	CPR-2 Arg1:T10 Arg2:T14

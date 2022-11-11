@@ -1,0 +1,38 @@
+T11	CHEMICAL 12 20	dopamine
+T34	GENE-Y 12 23	dopamine D2
+T38	GENE-N 88 90	Gq
+T35	GENE-N 132 148	protein kinase C
+T36	GENE-N 150 183	G protein-coupled receptor kinase
+T37	GENE-N 189 196	dynamin
+T5	CHEMICAL 380 388	dopamine
+T19	GENE-N 509 524	phospholipase C
+T20	GENE-N 529 569	conventional subtype of protein kinase C
+T21	GENE-N 571 575	cPKC
+T22	GENE-Y 611 613	D2
+T23	GENE-N 618 638	D1-like DA receptors
+T24	GENE-Y 646 648	D2
+T25	GENE-N 691 698	5-HT(2)
+T6	CHEMICAL 691 695	5-HT
+T26	GENE-N 702 723	neurotensin receptors
+T7	CHEMICAL 702 713	neurotensin
+T27	GENE-Y 875 910	G protein-coupled receptor kinase-2
+T28	GENE-Y 912 916	GRK2
+T29	GENE-N 921 928	dynamin
+T30	GENE-Y 1047 1051	GRK2
+T31	GENE-N 1083 1090	dynamin
+T32	GENE-Y 1118 1120	D2
+T8	CHEMICAL 1129 1139	quinpirole
+T9	CHEMICAL 1156 1165	serotonin
+T10	CHEMICAL 1181 1192	neurotensin
+T33	GENE-Y 1181 1192	neurotensin
+T1	CHEMICAL 1204 1213	Serotonin
+T12	GENE-Y 1225 1236	neurotensin
+T2	CHEMICAL 1225 1236	neurotensin
+T13	GENE-N 1300 1304	cPKC
+T3	CHEMICAL 1316 1409	5,6,7,13-tetrahydro-13-methyl-5-oxo-12H-indolo[2,3-a]pyrrolo[3,4c]carbazole-12-propanenitrile
+T4	CHEMICAL 1411 1417	Gö6976
+T14	GENE-N 1472 1476	cPKC
+T15	GENE-Y 1478 1482	GRK2
+T16	GENE-N 1488 1495	dynamin
+T17	GENE-Y 1543 1545	D2
+T18	GENE-Y 1668 1679	D2 receptor

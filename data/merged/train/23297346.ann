@@ -1,0 +1,21 @@
+T13	CHEMICAL 0 16	Hydrogen sulfide
+T1	CHEMICAL 105 121	Hydrogen sulfide
+T5	CHEMICAL 123 128	H(2)S
+T12	CHEMICAL 191 203	nitric oxide
+T2	CHEMICAL 208 223	carbon monoxide
+T3	CHEMICAL 260 273	cystathionine
+T14	GENE-Y 260 281	cystathionine-γ-lyase
+T4	CHEMICAL 283 296	cystathionine
+T15	GENE-Y 283 307	cystathionine-β-synthase
+T6	CHEMICAL 313 331	3-mercaptopyruvate
+T16	GENE-Y 313 349	3-mercaptopyruvate sulfurtransferase
+T7	CHEMICAL 351 356	H(2)S
+T8	CHEMICAL 551 556	H(2)S
+T17	GENE-Y 627 632	SIRT1
+T18	GENE-Y 685 691	Klotho
+T9	CHEMICAL 703 708	H(2)S
+T10	CHEMICAL 862 867	H(2)S
+T11	CHEMICAL 968 973	H(2)S
+R0	NOT Arg1:T3 Arg2:T16
+R1	NOT Arg1:T4 Arg2:T16
+R2	NOT Arg1:T8 Arg2:T18

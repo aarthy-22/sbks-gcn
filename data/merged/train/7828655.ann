@@ -1,0 +1,74 @@
+T28	CHEMICAL 0 8	Dopamine
+T53	GENE-N 0 17	Dopamine receptor
+T29	CHEMICAL 37 45	dopamine
+T54	GENE-Y 37 57	dopamine D2 receptor
+T30	CHEMICAL 62 75	glutamic acid
+T55	GENE-N 62 89	glutamic acid decarboxylase
+T20	CHEMICAL 192 200	dopamine
+T47	GENE-Y 192 213	dopamine D2 receptors
+T26	CHEMICAL 218 231	glutamic acid
+T51	GENE-N 218 245	glutamic acid decarboxylase
+T9	CHEMICAL 336 344	dopamine
+T39	GENE-Y 336 347	dopamine D1
+T10	CHEMICAL 352 360	dopamine
+T40	GENE-Y 352 372	dopamine D2 receptor
+T11	CHEMICAL 384 430	N-ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline
+T12	CHEMICAL 432 436	EEDQ
+T41	GENE-Y 471 491	D2 dopamine receptor
+T13	CHEMICAL 474 482	dopamine
+T14	CHEMICAL 503 525	fluphenazine-N-mustard
+T15	CHEMICAL 575 583	Dopamine
+T42	GENE-Y 575 586	Dopamine D1
+T16	CHEMICAL 591 599	dopamine
+T43	GENE-Y 591 612	dopamine D2 receptors
+T17	CHEMICAL 662 670	dopamine
+T44	GENE-Y 662 673	dopamine D1
+T18	CHEMICAL 678 686	dopamine
+T45	GENE-Y 678 698	dopamine D2 receptor
+T19	CHEMICAL 708 721	glutamic acid
+T46	GENE-N 708 735	glutamic acid decarboxylase
+T21	CHEMICAL 837 841	EEDQ
+T22	CHEMICAL 875 883	dopamine
+T48	GENE-Y 875 886	dopamine D2
+T23	CHEMICAL 891 899	dopamine
+T49	GENE-Y 891 912	dopamine D1 receptors
+T24	CHEMICAL 958 966	dopamine
+T50	GENE-Y 958 978	dopamine D2 receptor
+T25	CHEMICAL 1033 1055	fluphenazine-N-mustard
+T27	CHEMICAL 1088 1096	dopamine
+T52	GENE-Y 1088 1109	dopamine D2 receptors
+T1	CHEMICAL 1163 1171	dopamine
+T31	GENE-Y 1163 1184	dopamine D1 receptors
+T2	CHEMICAL 1210 1218	dopamine
+T32	GENE-Y 1210 1230	dopamine D2 receptor
+T3	CHEMICAL 1285 1293	dopamine
+T33	GENE-Y 1285 1306	dopamine D1 receptors
+T4	CHEMICAL 1332 1340	dopamine
+T34	GENE-Y 1332 1352	dopamine D2 receptor
+T5	CHEMICAL 1407 1415	dopamine
+T35	GENE-Y 1407 1427	dopamine D1 receptor
+T6	CHEMICAL 1510 1518	dopamine
+T36	GENE-N 1510 1527	dopamine receptor
+T7	CHEMICAL 1541 1554	Glutamic acid
+T37	GENE-N 1541 1568	Glutamic acid decarboxylase
+T8	CHEMICAL 1698 1706	dopamine
+T38	GENE-N 1698 1715	dopamine receptor
+R0	CPR-6 Arg1:T11 Arg2:T39
+R1	CPR-6 Arg1:T12 Arg2:T39
+R2	CPR-6 Arg1:T14 Arg2:T41
+R3	CPR-4 Arg1:T21 Arg2:T48
+R4	NOT Arg1:T53 Arg2:T30
+R5	NOT Arg1:T29 Arg2:T55
+R6	NOT Arg1:T47 Arg2:T26
+R7	NOT Arg1:T47 Arg2:T9
+R8	NOT Arg1:T47 Arg2:T11
+R9	NOT Arg1:T26 Arg2:T41
+R10	NOT Arg1:T51 Arg2:T9
+R11	NOT Arg1:T15 Arg2:T45
+R12	NOT Arg1:T16 Arg2:T46
+R13	NOT Arg1:T17 Arg2:T45
+R14	NOT Arg1:T22 Arg2:T50
+R15	NOT Arg1:T23 Arg2:T50
+R16	NOT Arg1:T49 Arg2:T24
+R17	NOT Arg1:T27 Arg2:T32
+R18	NOT Arg1:T3 Arg2:T34

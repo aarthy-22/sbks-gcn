@@ -1,0 +1,31 @@
+T22	CHEMICAL 0 19	N2-acetylphenelzine
+T23	CHEMICAL 42 46	GABA
+T24	CHEMICAL 48 55	alanine
+T25	CHEMICAL 69 75	amines
+T7	CHEMICAL 109 128	N2-acetylphenelzine
+T19	CHEMICAL 157 167	phenelzine
+T1	CHEMICAL 184 203	N2-Acetylphenelzine
+T2	CHEMICAL 240 249	monoamine
+T26	GENE-N 240 266	monoamine oxidase-A and -B
+T3	CHEMICAL 313 326	noradrenaline
+T4	CHEMICAL 331 350	5-hydroxytryptamine
+T5	CHEMICAL 369 386	homovanillic acid
+T6	CHEMICAL 388 417	5-hydroxyindole-3-acetic acid
+T8	CHEMICAL 423 455	3,4-dihydroxyphenylacetic acetic
+T9	CHEMICAL 501 511	Phenelzine
+T10	CHEMICAL 529 538	monoamine
+T27	GENE-N 529 546	monoamine oxidase
+T11	CHEMICAL 565 584	N2-acetylphenelzine
+T12	CHEMICAL 637 656	N2-acetylphenelzine
+T13	CHEMICAL 700 710	amino acid
+T14	CHEMICAL 729 736	alanine
+T15	CHEMICAL 741 764	gamma-aminobutyric acid
+T16	CHEMICAL 774 784	phenelzine
+T17	CHEMICAL 827 837	phenelzine
+T18	CHEMICAL 845 847	N2
+T28	GENE-N 906 918	transaminase
+T20	CHEMICAL 931 954	gamma-aminobutyric acid
+T21	CHEMICAL 959 966	alanine
+R0	CPR-4 Arg1:T20 Arg2:T28
+R1	CPR-4 Arg1:T21 Arg2:T28
+R2	NOT Arg1:T26 Arg2:T4

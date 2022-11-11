@@ -1,0 +1,21 @@
+T15	CHEMICAL 61 81	arginine vasopressin
+T20	GENE-Y 61 81	arginine vasopressin
+T14	CHEMICAL 103 110	proline
+T12	CHEMICAL 229 249	arginine vasopressin
+T18	GENE-Y 229 249	arginine vasopressin
+T1	CHEMICAL 266 267	N
+T2	CHEMICAL 303 310	proline
+T3	CHEMICAL 324 350	indoline-2-carboxylic acid
+T4	CHEMICAL 352 355	Ica
+T5	CHEMICAL 361 424	(2S,4R)-4-(naphthalene-2-ylmethyl)pyrrolidine-2-carboxylic acid
+T16	GENE-Y 566 589	human oxytocin receptor
+T6	CHEMICAL 572 580	oxytocin
+T7	CHEMICAL 595 598	Ica
+T8	CHEMICAL 684 712	[Mpa(1), Ica(2), D-Arg(8)]VP
+T9	CHEMICAL 717 750	[Mpa(1),Ica(2),Val(4),D-Arg(8)]VP
+T10	CHEMICAL 832 895	(2S,4R)-4-(naphthalene-2-ylmethyl)pyrrolidine-2-carboxylic acid
+T11	CHEMICAL 1007 1027	arginine vasopressin
+T17	GENE-Y 1007 1027	arginine vasopressin
+T13	CHEMICAL 1127 1147	arginine vasopressin
+T19	GENE-Y 1127 1147	arginine vasopressin
+R0	NOT Arg1:T18 Arg2:T4

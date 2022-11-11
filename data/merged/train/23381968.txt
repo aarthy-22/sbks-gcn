@@ -1,0 +1,7 @@
+Different effects of clopidogrel and clarithromycin on the enantioselective pharmacokinetics of sibutramine and its active metabolites in healthy subjects.
+In this study, we assessed the effects of clopidogrel and clarithromycin, known CYP2B6 and CYP3A inhibitors, respectively, on the enantioselective disposition of racemic sibutramine in conjunction with CYP2B6 polymorphisms in humans.
+Sibutramine showed enantioselective plasma profiles with consistently higher concentrations of R-enantiomers.
+Clopidogrel and clarithromycin significantly increased the sibutramine plasma concentration, but their effects differed between enantiomers; a 2.2-fold versus 4.1-fold increase in the AUC in S-enantiomer and 1.8-fold versus 2.0-fold for the R-enantiomer, respectively.
+The AUCs of S- and R-desmethyl metabolites changed significantly during the clopidogrel phase (P < .001 and P < .001, respectively) but not during the clarithromycin phase (P = .099 and P = .090, respectively).
+Exposure to sibutramine was higher in subjects with the CYP2B6*6/*6 genotype, but no statistical difference was observed among the CYP2B6 genotypes.
+These results suggest that the enantioselective disposition of sibutramine and its active metabolites are influenced by the altered genetic and environmental factors of CYP2B6 and CYP3A activity in vivo.

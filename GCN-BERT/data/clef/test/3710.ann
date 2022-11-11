@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 5 6	9
+T2	REACTION_PRODUCT 7 109	1-(Cyclopropylmethyl)-6-(3-isopropylisoxazol-5-yl)methyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T3	STARTING_MATERIAL 110 156	3-Isopropylisoxazole-5-methyl methanesulfonate
+T4	STARTING_MATERIAL 180 246	1-(cyclopropylmethyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T5	REAGENT_CATALYST 270 286	potassium iodide
+T6	REAGENT_CATALYST 312 331	potassium carbonate
+T7	SOLVENT 372 393	N,N-dimethylformamide
+T8	TEMPERATURE 438 443	120°C
+T9	TIME 460 467	3 hours
+T10	TEMPERATURE 488 504	room temperature
+T11	REACTION_PRODUCT 626 728	1-(cyclopropylmethyl)-6-(3-isopropylisoxazol-5-yl)methyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T12	YIELD_OTHER 730 736	8.0 mg
+T13	YIELD_PERCENT 754 757	17%

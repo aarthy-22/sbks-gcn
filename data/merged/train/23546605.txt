@@ -1,0 +1,12 @@
+Ovarian Expression of Insulin-Like Peptide 3 (INSL3) and Its Receptor (RXFP2) During Development of Bovine Antral Follicles and Corpora Lutea and Measurement of Circulating INSL3 Levels During Synchronized Estrous Cycles.
+Insulin-like peptide 3 (INSL3), a major product of testicular Leydig cells, is also expressed by the ovary, but its functional role remains poorly understood.
+Here, we quantified expression of INSL3 and its receptor RXFP2 in theca interna cell (TIC) and granulosa cell compartments of developing bovine antral follicles and in corpora lutea (CL).
+INSL3 and RXFP2 mRNA levels were much higher in TIC than granulosa cell and increased progressively during follicle maturation with INSL3 peaking in large (11-18 mm) estrogen-active follicles and RXFP2 peaking in 9- to 10-mm follicles before declining in larger (11-18 mm) follicles.
+Expression of both INSL3 and RXFP2 in CL was much lower than in TIC.
+In situ hybridization and immunohistochemistry confirmed abundant expression of INSL3 mRNA and protein in TIC.
+These observations indicate follicular TIC rather than CL as the primary site of both INSL3 production and action, implying a predominantly autocrine/paracrine role in TIC.
+To corroborate the above findings, we showed that in vitro exposure of TIC to a luteinizing concentration of LH greatly attenuated expression of both INSL3 and its receptor while increasing progesterone secretion and expression of STAR and CYP11A1.
+Moreover, in vivo, a significant cyclic variation in plasma INSL3 was observed during synchronized estrous cycles.
+INSL3 and estradiol-17β followed a similar pattern, both increasing after luteolysis, before falling sharply after the LH surge.
+Thus, theca-derived INSL3, likely from the dominant preovulatory follicle, is detectable in peripheral blood of cattle, and expression is down-regulated during luteinization induced by the preovulatory LH surge.
+Collectively, these findings underscore the likely role of INSL3 as an important intrafollicular modulator of TIC function/steroidogenesis, while raising doubts about its potential contribution to CL function.

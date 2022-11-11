@@ -1,0 +1,24 @@
+T12	CHEMICAL 100 106	2-NBDG
+T14	GENE-Y 135 142	insulin
+T13	GENE-Y 155 162	insulin
+T1	CHEMICAL 248 269	4-hydroxybenzaldehyde
+T2	CHEMICAL 271 295	myricetin-3-O-rhamnoside
+T3	CHEMICAL 297 321	europetin-3-O-rhamnoside
+T4	CHEMICAL 323 332	phloretin
+T5	CHEMICAL 334 346	myrigalone-G
+T6	CHEMICAL 351 363	myrigalone-B
+T7	CHEMICAL 586 593	glucose
+T15	GENE-Y 614 625	adiponectin
+T8	CHEMICAL 681 705	myricetin-3-O-rhamnoside
+T9	CHEMICAL 710 734	europetin-3-O-rhamnoside
+T16	GENE-Y 742 749	insulin
+T17	GENE-Y 759 766	insulin
+T10	CHEMICAL 871 884	rosiglitazone
+T11	CHEMICAL 957 963	2-NBDG
+T18	GENE-Y 986 997	adiponectin
+R0	NOT Arg1:T14 Arg2:T2
+R1	NOT Arg1:T14 Arg2:T3
+R2	NOT Arg1:T14 Arg2:T5
+R3	NOT Arg1:T14 Arg2:T6
+R4	NOT Arg1:T13 Arg2:T4
+R5	NOT Arg1:T10 Arg2:T18

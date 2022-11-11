@@ -1,0 +1,7 @@
+T1	EXAMPLE_LABEL 0 4	15.3
+T2	REACTION_PRODUCT 6 78	3-[1-(2-bromo-propionyl)-piperidin-4-yl]-3,4-dihydro-1H-quinazolin-2-one
+T3	STARTING_MATERIAL 140 161	2-bromopropionic acid
+T4	STARTING_MATERIAL 187 235	3-piperidin-4-yl-3,4-dihydro-1H-quinazolin-2-one
+T5	YIELD_OTHER 276 282	400 mg
+T6	YIELD_PERCENT 284 287	94%
+T7	REACTION_PRODUCT 292 364	3-[1-(2-bromo-propionyl)-piperidin-4-yl]-3,4-dihydro-1H-quinazolin-2-one

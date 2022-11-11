@@ -1,0 +1,10 @@
+T1	EXAMPLE_LABEL 8 9	3
+T2	REAGENT_CATALYST 269 273	BDFP
+T3	OTHER_COMPOUND 375 397	compound of example 47
+T4	REAGENT_CATALYST 158 174	cesium carbonate
+T5	YIELD_OTHER 407 412	84 mg
+T6	REACTION_PRODUCT 11 86	9-(But-2-ynyl)-6-chloro-8-(2,6-dichloropyridin-3-yl)-9H-pyrido[3,4-b]indole
+T7	REACTION_PRODUCT 426 490	title compound in the form of its salt with trifluoroacetic acid
+T8	STARTING_MATERIAL 87 136	8-Bromo-9-but-2-ynyl-6-chloro-pyrido[3,4-b]indole
+T9	STARTING_MATERIAL 196 244	2,6-dichloropyridin-3-boronic acid pinacol ester
+T10	YIELD_PERCENT 414 417	16%

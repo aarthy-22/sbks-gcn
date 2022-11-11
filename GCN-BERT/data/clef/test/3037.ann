@@ -1,0 +1,10 @@
+T1	EXAMPLE_LABEL 8 10	20
+T2	REACTION_PRODUCT 27 98	N-phenyl-N-(3-(4-(piperidine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
+T3	REACTION_PRODUCT 100 107	LMT-683
+T4	EXAMPLE_LABEL 114 115	1
+T5	REACTION_PRODUCT 132 172	(4-bromophenyl)(piperidin-1-yl)methanone
+T6	REACTION_PRODUCT 173 213	(4-bromophenyl)(piperidin-1-yl)methanone
+T7	YIELD_OTHER 228 236	458.2 mg
+T8	YIELD_PERCENT 238 242	100%
+T9	STARTING_MATERIAL 311 330	4-bromobenzoic acid
+T10	REAGENT_CATALYST 355 365	piperidine

@@ -1,0 +1,2 @@
+Step 2: Preparation of 2-amino-6-chlorobenzaldehyde
+2.30 g (14.6 mmol) of (2-amino-6-chlorophenyl)methanol prepared in step 1, MnO2 (10 equivalent), and diethylether (50 mL) were mixed together, which was stirred at room temperature for 6 hours. The reaction mixture was filtered with celite pad, and concentrated under reduced pressure. The residue was separated by column chromatography (SiO2, eluent: hexane/CH2Cl2, 5/1-CH2Cl2) to give 2.27 g of the target compound 2-amino-6-chlorobenzaldehyde as a yellow solid (14.6 mmol, yield: 10%).

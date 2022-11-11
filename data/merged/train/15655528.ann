@@ -1,0 +1,22 @@
+T20	GENE-N 19 36	beta-adrenoceptor
+T21	GENE-N 56 98	human beta1, beta2 and beta3 adrenoceptors
+T11	GENE-N 100 117	Beta-adrenoceptor
+T9	CHEMICAL 453 466	catecholamine
+T16	GENE-Y 501 520	beta1-adrenoceptors
+T17	GENE-Y 591 609	beta2-adrenoceptor
+T18	GENE-N 703 726	human beta-adrenoceptor
+T10	CHEMICAL 737 751	(3)H-CGP 12177
+T19	GENE-N 842 888	human beta1-, beta2- or the beta3-adrenoceptor
+T1	CHEMICAL 1124 1134	CGP 20712A
+T2	CHEMICAL 1236 1246	ICI 118551
+T3	CHEMICAL 1348 1357	CL 316243
+T12	GENE-Y 1442 1460	beta2-adrenoceptor
+T4	CHEMICAL 1572 1582	salbutamol
+T5	CHEMICAL 1584 1595	terbutaline
+T6	CHEMICAL 1600 1610	salmeterol
+T13	GENE-N 1706 1735	beta1 and beta3 adrenoceptors
+T7	CHEMICAL 1794 1804	bisoprolol
+T8	CHEMICAL 1834 1841	timolol
+T14	GENE-Y 1941 1959	beta2-adrenoceptor
+T15	GENE-Y 2235 2253	beta2-adrenoceptor
+R0	NOT Arg1:T10 Arg2:T19

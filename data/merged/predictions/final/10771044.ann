@@ -1,0 +1,26 @@
+T26	GENE 27 48	alpha(1)-adrenoceptor
+T7	CHEMICAL 117 124	JTH-601
+T13	CHEMICAL 151 216	N-[2-(4-hydroxy-2-isopropyl-5-methylphenoxy)ethyl]-N-methylaminom
+T3	CHEMICAL 217 222	ethyl
+T6	CHEMICAL 246 290	4-methoxy-2,5,6-trimethylphenol hemifumarate
+T23	GENE 299 321	alpha(1L)-adrenoceptor
+T8	CHEMICAL 436 449	phenylephrine
+T9	CHEMICAL 454 467	noradrenaline
+T10	CHEMICAL 585 592	JTH-601
+T11	CHEMICAL 594 602	prazosin
+T24	GENE 620 641	alpha(1)-adrenoceptor
+T12	CHEMICAL 659 669	tamsulosin
+T25	GENE 674 696	alpha(1A)-adrenoceptor
+T14	CHEMICAL 869 877	prazosin
+T15	CHEMICAL 898 908	tamsulosin
+T16	CHEMICAL 999 1006	JTH-601
+T17	CHEMICAL 1018 1026	prazosin
+T18	CHEMICAL 1041 1051	tamsulosin
+T19	CHEMICAL 1089 1096	JTH-601
+T1	CHEMICAL 1210 1220	Tamsulosin
+T2	CHEMICAL 1293 1300	JTH-601
+T4	CHEMICAL 1366 1373	JTH-601
+T20	GENE 1485 1507	alpha(1L)-adrenoceptor
+T21	GENE 1566 1588	alpha(1)-adrenoceptors
+T5	CHEMICAL 1590 1597	JTH-601
+T22	GENE 1629 1650	alpha(1)-adrenoceptor

@@ -1,0 +1,19 @@
+T16	CHEMICAL 14 23	genistein
+T18	GENE-Y 38 44	leptin
+T8	CHEMICAL 90 103	isoflavonoids
+T3	CHEMICAL 229 242	isoflavonoids
+T4	CHEMICAL 369 377	daidzein
+T5	CHEMICAL 381 402	O-desmethylangolensin
+T6	CHEMICAL 418 451	2-(4-hydroxyphenyl)propionic acid
+T7	CHEMICAL 457 466	genistein
+T9	CHEMICAL 507 540	2-(4-hydroxyphenyl)propionic acid
+T10	CHEMICAL 671 708	(S)-2-(4-hydroxyphenyl)propionic acid
+T11	CHEMICAL 714 735	(S)-2-phenylpropionic
+T12	CHEMICAL 891 897	2-HPPA
+T17	GENE-Y 929 935	leptin
+T13	CHEMICAL 971 980	genistein
+T14	CHEMICAL 1010 1031	O-desmethylangolensin
+T15	CHEMICAL 1073 1086	isoflavonoids
+T1	CHEMICAL 1124 1132	daidzein
+T2	CHEMICAL 1150 1159	genistein
+R0	CPR-4 Arg1:T12 Arg2:T17

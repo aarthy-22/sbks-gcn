@@ -1,0 +1,17 @@
+T7	CHEMICAL 45 58	phlorotannins
+T8	CHEMICAL 67 78	polyphenols
+T1	CHEMICAL 374 387	phlorotannins
+T2	CHEMICAL 396 407	polyphenols
+T3	CHEMICAL 561 574	phlorotannins
+T9	GENE-N 662 675	α-glucosidase
+T10	GENE-N 680 689	α-amylase
+T4	CHEMICAL 709 716	glucose
+T11	GENE-Y 751 782	protein tyrosine phosphatase 1B
+T5	CHEMICAL 759 767	tyrosine
+T12	GENE-Y 784 790	PTP 1B
+T13	GENE-N 826 833	insulin
+T6	CHEMICAL 1034 1047	phlorotannins
+R0	CPR-4 Arg1:T3 Arg2:T9
+R1	CPR-4 Arg1:T3 Arg2:T10
+R2	NOT Arg1:T4 Arg2:T11
+R3	NOT Arg1:T4 Arg2:T13

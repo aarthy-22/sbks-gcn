@@ -1,0 +1,21 @@
+T17	GENE-N 4 43	bovine ATP-binding cassette transporter
+T6	CHEMICAL 11 14	ATP
+T18	GENE-Y 44 49	ABCG2
+T19	GENE-N 50 59	Tyr581Ser
+T7	CHEMICAL 139 151	danofloxacin
+T12	GENE-Y 157 218	bovine adenosine triphosphate-binding cassette transporter G2
+T2	CHEMICAL 164 186	adenosine triphosphate
+T13	GENE-Y 220 225	ABCG2
+T16	GENE-Y 226 258	breast cancer resistance protein
+T8	GENE-N 273 282	Tyr581Ser
+T9	GENE-N 284 289	Y581S
+T3	CHEMICAL 743 755	danofloxacin
+T4	CHEMICAL 805 817	Danofloxacin
+T14	GENE-N 855 862	Y/Y 581
+T15	GENE-N 882 889	Y/S 581
+T5	CHEMICAL 1081 1093	danofloxacin
+T1	CHEMICAL 1202 1214	danofloxacin
+T10	GENE-N 1642 1647	Y581S
+T11	GENE-Y 1760 1765	ABCG2
+R0	NOT Arg1:T17 Arg2:T7
+R1	NOT Arg1:T19 Arg2:T7

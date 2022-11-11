@@ -1,0 +1,14 @@
+Cysteamine-induced reduction in gastrointestinal somatostatin: evidence for a region-specific loss in immunoreactivity.
+Administration of cysteamine (beta-mercaptoethylamine; 2-aminoethanethiol) to rats has been shown to decrease the levels of somatostatin-like immunoreactivity (SLI) in the gastrointestinal tract and pancreas but its mode of action is unclear.
+In the current study the effect of cysteamine on gastrointestinal and pancreatic SLI has been studied using two antisera with different regional specificities.
+In addition, the in vitro effect of cysteamine on SS-14 and SS-28 has been studied by high-performance liquid chromatography (HPLC).
+Characterization of the two antisera (AS 26.3.2 and AS 1001) with a range of analogs of SS-14 revealed that both were directed against the midportion of the molecule but that AS 1001 was also sensitive to changes at the N- and C-termini.
+Tissue extracts from cysteamine-treated rats measured with AS 26.3.2 showed no significant change for the stomach, jejunum or pancreas but duodenal levels were reduced.
+With AS 1001 SLI levels were reduced in all tissues.
+Gel permeation chromatography of stomach extracts measured with AS 1001 showed a reduction in both SS-14 and SS-28.
+With AS 26.3.2 an increase in SLI eluting prior to the SS-14 peak occurred explaining why no significant reduction in total SLI was detected.
+With duodenal extracts the elution profiles with AS 1001 reflected the large reduction in total SLI whereas with AS 26.3.2 a smaller reduction occurred.
+Both SS-14 and SS-28 were reduced.
+HPLC analysis of SS-14 and SS-28 following incubation with cysteamine in vitro showed a time-dependent decrease in both somatostatin species with absorbance at 280 nm was measured.
+New peptide peaks which developed were not all detectable by radioimmunoassay with either antibody.
+The results suggest that cysteamine causes a change in the structure of somatostatin which probably first involves a reduction of the disulphide bridge and then the N- and C-terminal regions of the molecule thus making it unmeasurable by antisera sensitive to changes in these regions.

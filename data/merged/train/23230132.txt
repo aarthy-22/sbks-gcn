@@ -1,0 +1,14 @@
+Involvement of UDP-glucuronosyltransferases UGT1A9 and UGT2B7 in ethanol glucuronidation, and interactions with common drugs of abuse.
+Ethyl glucuronide (EtG) determination is increasingly used in clinical and forensic toxicology to document ethanol consumption.
+The enzymes involved in EtG production, as well as potential interactions with common drugs of abuse, have not been extensively studied.
+Activities of human liver (HLM), kidney (HKM), and intestinal (HIM) microsomes, as well as of 12 major human recombinant UDP-glucuronosyltransferases (UGTs), toward ethanol (50 and 500 mM) were evaluated in vitro using liquid chromatography-tandem mass spectrometry.
+Enzyme kinetic parameters were determined for pooled microsomes and recombinant UGTs with significant activity.
+Individual contributions of UGTs were estimated using the relative activity factor approach, proposed for scaling activities obtained with cDNA-expressed enzymes to HLM.
+Interaction of morphine, codeine, lorazepam, oxazepam, nicotine, cotinine, cannabinol, and cannabidiol (5, 10, 15 mg/l) with ethanol (1.15, 4.6, 11.5 g/l; i.e., 25, 100, 250 mM) glucuronidation was assessed using pooled HLM.
+Ethanol glucuronidation intrinsic clearance (Cl(int)) was 4 and 12.7 times higher for HLM than for HKM and HIM, respectively.
+All recombinant UGTs, except UGT1A1, 1A6, and 1A10, produced EtG in detectable amounts.
+UGT1A9 and 2B7 were the most active enzymes, each accounting for 17 and 33% of HLM Cl(int), respectively.
+Only cannabinol and cannabidiol significantly affected ethanol glucuronidation.
+Cannabinol increased ethanol glucuronidation in a concentration-dependent manner, whereas cannabidiol significantly inhibited EtG formation in a noncompetitive manner (IC(50) = 1.17 mg/l; inhibition constant (K(i)) = 3.1 mg/l).
+UGT1A9 and 2B7 are the main enzymes involved in ethanol glucuronidation.
+In addition, our results suggest that cannabinol and cannabidiol could significantly alter ethanol glucuronidation.

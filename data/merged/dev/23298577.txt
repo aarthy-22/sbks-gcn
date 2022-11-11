@@ -1,0 +1,9 @@
+Synthesis, characterization and targeting potential of zidovudine loaded sialic acid conjugated-mannosylated poly(propyleneimine) dendrimers.
+The present investigation was aimed at exploring dual targeting of anti-HIV drug, zidovudine (ZDV) via sialic acid conjugated-mannosylated poly(propyleneimine) (PPI) dendritic nano-constructs.
+Fourth generation PPI dendrimers, sialic acid conjugated PPI dendrimers (SPPI), mannose conjugated PPI dendrimers (MPPI) and dual ligand system i.e. sialic acid conjugated-mannosylated PPI dendrimers (SMPPI) were synthesized and characterized by FT-IR and (1)H NMR spectroscopies and were further confirmed by size exclusion chromatography and differential scanning calorimetry.
+Various parameters like drug loading, pH dependent in vitro release, hemolytic toxicity, macrophage uptake and cytotoxicity concerning PPI, SPPI, MPPI and SMPPI dendrimers were evaluated.
+ZDV loaded SMPPI, SPPI and MPPI have shown reduced hemolytic toxicity, cytotoxicity and in vitro drug release at pH 7.4.
+Extremely significant (P<0.001) increase in cellular uptake of ZDV by macrophage cells was observed in case of SMPPI as compared to PPI and free drug.
+The in vivo blood level and tissue distribution studies in albino rats also demonstrated potential of dual targeted system towards sialoadhesin and carbohydrate receptors.
+The drug concentration in lymph nodes was increased to about 28 times in case of SMPPI (1335 ± 17.6 ng/g) as compared to free drug (48 ± 5.8 ng/g) at 6th hr.
+The results suggested that such dual ligand dendritic system (SMPPI) hold potential to enhance biocompatibility and site specific delivery of antiretroviral drug, ZDV.

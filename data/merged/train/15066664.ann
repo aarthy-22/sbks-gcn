@@ -1,0 +1,36 @@
+T36	GENE-Y 9 21	human NaV1.5
+T26	CHEMICAL 22 28	sodium
+T35	GENE-N 22 37	sodium channels
+T27	CHEMICAL 47 71	alpha-hydroxyphenylamide
+T28	CHEMICAL 85 94	phenytoin
+T29	GENE-N 96 130	Voltage-gated sodium (Na) channels
+T7	CHEMICAL 110 116	sodium
+T11	CHEMICAL 118 120	Na
+T25	CHEMICAL 189 198	Phenytoin
+T2	CHEMICAL 200 217	diphenylhydantoin
+T4	CHEMICAL 219 222	DPH
+T8	CHEMICAL 242 248	sodium
+T30	GENE-N 242 256	sodium channel
+T12	CHEMICAL 434 458	alpha-hydroxyphenylamide
+T13	CHEMICAL 472 489	diphenylhydantoin
+T32	GENE-Y 528 542	human Na(V)1.5
+T14	CHEMICAL 543 549	sodium
+T33	GENE-N 543 558	sodium channels
+T15	CHEMICAL 610 616	Phenyl
+T16	CHEMICAL 660 671	para-methyl
+T17	CHEMICAL 673 684	para-fluoro
+T18	CHEMICAL 686 697	para-chloro
+T19	CHEMICAL 699 711	ortho-chloro
+T20	CHEMICAL 716 727	meta-chloro
+T21	CHEMICAL 748 754	phenyl
+T22	CHEMICAL 873 890	diphenylhydantoin
+T23	CHEMICAL 902 908	chloro
+T24	CHEMICAL 921 945	alpha-hydroxyphenylamide
+T34	GENE-Y 1036 1044	Na(V)1.5
+T1	CHEMICAL 1108 1114	chloro
+T3	CHEMICAL 1193 1222	ortho-, meta- and para-chloro
+T5	CHEMICAL 1458 1475	diphenylhydantoin
+T6	CHEMICAL 1489 1513	alpha-hydroxyphenlyamide
+T9	CHEMICAL 1587 1593	phenyl
+T10	CHEMICAL 1705 1711	sodium
+T31	GENE-N 1705 1719	sodium channel

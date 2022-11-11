@@ -1,0 +1,8 @@
+T1	CHEMICAL 321 344	thymidine monophosphate
+T3	GENE-Y 321 351	thymidine monophosphate kinase
+T4	GENE-Y 353 357	TMPK
+T2	CHEMICAL 464 486	thymidine triphosphate
+T5	GENE-Y 690 710	M. tuberculosis TMPK
+T6	GENE-Y 712 718	mtTMPK
+T7	GENE-Y 811 817	mtTMPK
+T8	GENE-Y 1086 1092	mtTMPK

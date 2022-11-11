@@ -1,0 +1,14 @@
+Metabolism of 2,2',3,3',6,6'-hexachlorobiphenyl (PCB 136) atropisomers in tissue slices from phenobarbital or dexamethasone-induced rats is sex-dependent.
+Abstract 1.
+Chiral polychlorinated biphenyls (PCBs) such as PCB 136 enantioselectively sensitize the ryanodine receptor (RyR).
+In light of recent evidence that PCBs cause developmental neurotoxicity via RyR-dependent mechanisms, this suggests that enantioselective PCB metabolism may influence the developmental neurotoxicity of chiral PCBs.
+However, enantioselective disposition of PCBs has not been fully characterized.
+2.
+The effect of sex and cytochrome P450 (P450) enzyme induction on the enantioselective metabolism of PCB 136 was studied using liver tissue slices prepared from naïve control (CTL), phenobarbital (PB; CYP2B inducer) or dexamethasone (DEX; CYP3A inducer) pretreated adult Sprague-Dawley rats.
+PCB 136 metabolism was also examined in hippocampal slices derived from untreated rat pups.
+3.
+In liver tissue slices, hydroxylated PCB (OH-PCB) profiles depended on sex and inducer pretreatment, and OH-PCB levels followed the rank orders male > female and PB > DEX > CTL.
+In contrast, the enantiomeric enrichment of PCB 136 and its metabolites was independent of sex and inducer pretreatment.
+Only small amounts of PCB 136 partitioned into hippocampal tissue slices and no OH-PCB metabolites were detected.
+4.
+Our results suggest that enantioselective metabolism, sex and induction status of P450 enzymes in the liver may modulate the neurotoxic outcomes of developmental exposure to chiral PCBs.

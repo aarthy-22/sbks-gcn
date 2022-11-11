@@ -1,0 +1,14 @@
+T7	CHEMICAL 31 45	angiotensin-II
+T12	GENE-Y 31 45	angiotensin-II
+T8	CHEMICAL 57 67	tasosartan
+T2	CHEMICAL 134 148	angiotensin-II
+T10	GENE-N 134 164	angiotensin-II (A-II) receptor
+T4	CHEMICAL 150 154	A-II
+T6	CHEMICAL 176 186	tasosartan
+T9	GENE-N 326 345	human A-II receptor
+T1	CHEMICAL 332 336	A-II
+T3	CHEMICAL 458 472	angiotensin-II
+T11	GENE-Y 458 472	angiotensin-II
+T5	CHEMICAL 658 674	carboxylic acids
+R0	NOT Arg1:T9 Arg2:T3
+R1	NOT Arg1:T1 Arg2:T11

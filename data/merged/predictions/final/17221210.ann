@@ -1,0 +1,27 @@
+T25	GENE-N 558 567	glypicans
+T26	GENE-N 569 578	syndecans
+T9	CHEMICAL 879 887	chlorate
+T27	GENE-N 1064 1087	glypicans 1, 2, 3 and 5
+T10	GENE-Y 1092 1127	heparan sulphate 2-sulfotransferase
+T1	CHEMICAL 1100 1108	sulphate
+T2	CHEMICAL 1219 1227	chlorate
+T3	CHEMICAL 1306 1314	Chlorate
+T4	CHEMICAL 1467 1475	chlorate
+T11	GENE-N 1522 1529	Insulin
+T5	CHEMICAL 1579 1587	chlorate
+T12	GENE-Y 1680 1719	pancreatic and duodenal homeobox gene 1
+T13	GENE-Y 1721 1725	Pdx1
+T14	GENE-Y 1728 1773	proprotein convertase subtilisin/kexin type 1
+T15	GENE-Y 1775 1780	Pcsk1
+T16	GENE-Y 1802 1828	pro-hormone convertase 1/3
+T17	GENE-Y 1831 1876	proprotein convertase subtilisin/kexin type 2
+T18	GENE-Y 1878 1883	Pcsk2
+T19	GENE-Y 1905 1929	pro-hormone convertase 2
+T20	GENE-Y 1935 2002	solute carrier family 2 (facilitated glucose transporter), member 2
+T6	CHEMICAL 1972 1979	glucose
+T21	GENE-Y 2004 2010	Slc2a1
+T22	GENE-Y 2032 2053	glucose transporter 2
+T7	CHEMICAL 2032 2039	glucose
+T8	CHEMICAL 2080 2088	chlorate
+T23	GENE-Y 2138 2150	neurogenin 3
+T24	GENE-Y 2152 2159	Neurog3

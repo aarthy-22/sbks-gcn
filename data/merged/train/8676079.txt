@@ -1,0 +1,12 @@
+The role of gp130-mediated signals in osteoclast development: regulation of interleukin 11 production by osteoblasts and distribution of its receptor in bone marrow cultures.
+Interleukin (IL)-11 is a multifunctional cytokine whose role in osteoclast development has not been fully elucidated.
+We examined IL-11 production by primary osteoblasts and the effects of rat monoclonal anti-mouse glycoprotein 130 (gp130) antibody on osteoclast formation, using a coculture of mouse osteoblasts and bone marrow cells.
+IL-1, TNF alpha, PGE2, parathyroid hormone (PTH) and 1 alpha,25-dihydroxyvitamin D3 (1 alpha,25(OH)2D3) similarly induced production of IL-11 by osteoblasts, but IL-6, IL-4, and TGF beta did not.
+Primary osteoblasts constitutively expressed mRNAs for both IL-11 receptor (IL-11R alpha) and gp130.
+Osteotropic factors did not modulate IL-11R alpha mRNA at 24 h, but steady-state gp130 mRNA expression in osteoblasts was upregulated by 1 alpha,25(OH)2D3, PTH, or IL-1.
+In cocultures, the formation of multinucleated osteoclast-like cells (OCLs) in response to IL-11, or IL-6 together with its soluble IL-6 receptor was dose-dependently inhibited by rat monoclonal anti-mouse gp130 antibody.
+Furthermore, adding anti-gp130 antibody abolished OCL formation induced by IL-1, and partially inhibited OCL formation induced by PGE2, PTH, or 1 alpha,25(OH)2D3.
+During osteoclast formation in marrow cultures, a sequential relationship existed between the expression of calcitonin receptor mRNA and IL-11R alpha mRNA.
+Osteoblasts as well as OCLs expressed transcripts for IL-11R alpha, as indicated by RT-PCR analysis and in situ hybridization.
+These results suggest a central role of gp130-coupled cytokines, especially IL-11, in osteoclast development.
+Since osteoblasts and mature osteoclasts expressed IL-11R alpha mRNA, both bone-forming and bone-resorbing cells are potential targets of IL-11.

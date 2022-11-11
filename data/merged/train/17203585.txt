@@ -1,0 +1,12 @@
+Differential expression of glycans in the hippocampus of rats trained on an inhibitory learning paradigm.
+The glycan chains of glycoconjugates play important roles in cell-cell and cell-matrix interactions.
+In the CNS, previous studies on learning and memory suggest the importance of oligosaccharides attached to glycoconjugates in the modulation of synaptic connections.
+We studied the hippocampal glycan distribution of rats subject to an inhibitory avoidance task.
+The expression of glycans was examined by lectin-histochemistry using Vicia villosa lectin (VVL) for terminal alpha/beta N-acetylgalactosamine (alpha/beta GalNAc); Galanthus nivalus lectin (GNL) for terminal mannose alpha-1,3 (Man alpha-1,3); Peanut agglutinin (PNA) for galactose beta-1,3N-acetylgalactosamine (Gal beta-1,3 GalNAc); Erythrina cristagalli lectin (ECL) for galactose beta-1,4 N-acetylglucosamine (Gal beta-1,4 GlcNAc); Sambucus nigra lectin (SNA) for sialic acid alpha-2.6 galactose (SA alpha-2,6 Gal); Maackia amurensis lectin II (MAL II) for sialic acid alpha-2,3 (SA alpha-2,3); Wheat germ agglutinin (WGA) for terminal N-acetylglucosamine with/ without sialic acid (GlcNAc wo SA); succynilated WGA (sWGA) for terminal N-acetylglucosamine without sialic acid (terminal GlcNAc without SA); Griffonia simplicifolia lectin II (GSL II) for terminal alpha/beta N-acetylglucosamine (alpha/beta GlcNAc terminal); and Lotus tetragonolobus lectin (LTL) alpha-fucose.
+Two groups of 10 animals were examined: non-trained (Control) and Trained rats.
+ECL, sWGA and GSL II were negative for both groups in all the hippocampal subfields studied.
+For both groups, VVL was negative in CA4 and granular cells of the Dentate Gyrus (DG) and LTL was negative in the CA4 subfield.
+Expression of alpha/beta GalNAc, alpha-fucose and GlcNAc in other hippocampal subflields was positive, with no differences between groups.
+However, expression of Man alpha-1,3 was significantly higher in the CA1, CA2, CA3, and CA4 subfields in the Trained group.
+On the other hand, expression of Gal beta-1,3 GalNAc was significantly low in CA4 and DG in the Trained group.
+In conclusion, the results here presented indicate that the exposure of rats to an associative behavioral paradigm related to declarative memory, involves some regulatory mechanism/s for the differential patterns of glycan expression.

@@ -1,0 +1,11 @@
+Progesterone receptor requires a co-chaperone for signalling in uterine biology and implantation.
+Embryo implantation is absolutely dependent on the preparation of the uterus to the receptive stage and attainment by the blastocyst of implantation competency.
+Co-ordinated effects of progesterone and oestrogen are essential for these processes and determine the window of implantation.
+In rodents, a generalized stromal edema occurs before blastocyst attachment followed by uterine luminal closure.
+This leads to apposition of the blastocyst trophectoderm against the luminal epithelium and ultimately attachment.
+Progesterone is essential for luminal closure, which must occur for successful implantation.
+More importantly, progesterone is critical for almost every stage of pregnancy, including ovulation, fertilization, implantation, decidualization and pregnancy maintenance.
+Progesterone exerts its effects on target tissues primarily via nuclear progesterone receptor (PR) whose optimal activity is potentiated by an immunophilin co-chaperone, FK-506 binding protein 4 (FKBP52).
+While mice lacking PR are infertile due to complete failure of ovulation, fertilization, and implantation, female mice with targeted deletion of the Fkbp52 gene are infertile specifically because of implantation failure resulting from compromised uterine receptivity.
+This review highlights the evolution of knowledge about progesterone signalling during early pregnancy.
+Future studies are likely to provide a better understanding of FKBP52-PR signalling in promoting uterine receptivity for implantation and may reveal new targets for improving infertility.

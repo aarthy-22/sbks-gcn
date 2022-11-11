@@ -1,0 +1,6 @@
+Plerixafor, a CXCR4 antagonist for the mobilization of hematopoietic stem cells.
+Stem cells harvested from peripheral blood are the most commonly used graft source in hematopoietic stem cell transplantation.
+While G-CSF is the most frequently used agent for stem cell mobilization, the use of G-CSF alone results in suboptimal stem cell yields in a significant proportion of patients undergoing autologous transplantation.
+Plerixafor (AMD3100, Genzyme Corporation) is a bicyclam molecule that antagonizes the binding of the chemokine stromal cell-derived factor-1 (SDF-1) to its cognate receptor CXCR4.
+Plerixafor results in the rapid and reversible mobilization of hematopoietic stem cells into the peripheral circulation and is synergistic when combined with G-CSF.
+In clinical studies of autologous stem cell transplantation, the combination of plerixafor and G-CSF allows the collection of large numbers of stem cells in fewer apheresis sessions and can salvage those who fail G-CSF mobilization alone.

@@ -1,0 +1,12 @@
+Thiazolidinediones (TZDs) affect osteoblast viability and biomarkers independently of the TZD effects on aromatase.
+Thiazolidinediones (TZDs) are insulin sensitizers used for treatment of diabetes.
+We have previously reported that TZDs reduce estrogen synthesis by inhibiting aromatase activity in human granulosa cells (HGC).
+Multiple clinical trials demonstrated that TZDs increase the risk of fractures in postmenopausal women with type 2 diabetes.
+We studied mouse osteoblasts alone or in a co-culture with HGC to determine whether TZD inhibition of aromatase plays a role in their effects on bone metabolism.
+Mouse osteoblasts were cultured with and without HGC, and incubated in a medium with or without testosterone, pioglitazone or rosiglitazone.
+Cell growth, oleic acid uptake, alkaline phosphatase activity, and osteocalcin production were measured.
+TZDs inhibited estradiol production by up to 84% in HGC/mouse osteoblast co-cultures.
+TZDs induced mouse osteoblast death and increased oleic acid uptake.
+TZDs also inhibited alkaline phosphatase activity (58-75%, p<0.046) and osteocalcin production (52-75%, p<0.031).
+For all the parameters, there were no significant differences between the osteoblast cultures alone and the HCG/osteoblast co-cultures.
+TZD effects on osteoblast viability, oleic acid uptake, alkaline phosphatase and osteocalcin production are independent of their effects on aromatase.

@@ -1,0 +1,10 @@
+Alpha(1) and beta(2) adrenoreceptor agonists inhibit pentylenetetrazole-induced seizures in mice lacking norepinephrine.
+It has been known for many years that norepinephrine (NE) is a potent endogenous anticonvulsant, yet there is confusion as to which receptor(s) mediate this effect.
+This is probably due to multiple factors, including the importance of distinct signaling pathways for different seizure paradigms, a lack of comprehensive pharmacological studies, and difficulty in interpreting existing pharmacological results due to the presence of endogenous NE.
+We sought to circumvent these problems by testing the anticonvulsant activity of selective agonists for most known adrenoreceptors (ARs) in dopamine beta-hydroxylase knockout (Dbh -/-) mice that lack endogenous NE.
+Dbh -/- mice are hypersensitive to pentylenetetrazole (PTZ)-induced seizures, demonstrating that endogenous NE inhibits PTZ-induced seizures in the wild type.
+Pretreatment of Dbh -/- mice with an alpha(1)AR or beta(2)AR, but not an alpha(2)AR or beta(1)AR agonist significantly protected against PTZ-induced seizures.
+In contrast, only the beta(2)AR agonist showed anticonvulsant activity in heterozygous controls.
+Furthermore, an alpha(1)AR antagonist exacerbated PTZ-induced seizures in control mice, whereas a beta(2)AR antagonist had no effect.
+We conclude that activation of the alpha(1)AR is primarily responsible for the anticonvulsant activity of endogenous NE in the murine PTZ model of epilepsy.
+Endogenous NE probably does not activate the beta(2)AR under these conditions, but exogenous activation of the beta(2)AR produces an anticonvulsant effect.

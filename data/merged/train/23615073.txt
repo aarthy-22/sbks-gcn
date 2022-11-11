@@ -1,0 +1,7 @@
+Vitamin C forestalls cigarette smoke induced NF-κB activation in alveolar epithelial cells.
+Cigarette smoking causes cellular oxidative stress resulting in inflammatory diseases of lung wherein transcription factor NF-κB plays an important role.
+It is possible that vitamin C, an antioxidant, may prevent cigarette smoke (CS)-induced NF-κB activation that involves degradation of I-κBε and nuclear translocation of c-Rel/p50 in alveolar epithelial cells.
+Therefore, to examine the hypothesis, we verified the effect of vitamin C on CS-induced expression of NF-κB driven luciferase reporter and NF-κB binding at its target DNA by EMSA in alveolar epithelial A549 cells.
+We also examined the level of I-κBε and sub-cellular distribution of c-Rel by western blotting and immunofluorescence respectively in CSE-treated A549 cells with or without vitamin C pretreatment.
+We observed a significant reduction in CSE induced luciferase expression, NF-κB DNA binding, I-κBε degradation and c-Rel nuclear translocation in cells pretreated with vitamin C. To further validate the result, we examined sub-cellular distribution of c-Rel in lungs of CS-exposed guinea pigs treated or untreated with vitamin C. Result showed that vitamin C treatment resulted in markedly reduced c-Rel nuclear translocation.
+All these results demonstrate that vitamin C prevents CS(E)-induced NF-κB activation and thus it could be used for the prevention of CS-induced inflammatory diseases.

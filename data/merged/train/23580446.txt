@@ -1,0 +1,10 @@
+Pharmacological Inhibition of Platelet-tumor Cell Cross-talk Prevents Platelet-induced Overexpression of Cyclooxygenase-2 in HT29 Human Colon Carcinoma Cells.
+Cyclooxygenase(COX)-2-derived prostanoids can influence several processes that are linked to carcinogenesis.
+We aimed to address the hypothesis that platelets contribute to aberrant COX-2 expression in HT29 colon carcinoma cells and to reveal the role of platelet-induced COX-2 on the expression of proteins involved in malignancy and marker genes of epithelial-mesenchymal transition(EMT).
+Human platelets co-cultured with HT29 cells rapidly adhered to cancer cells and induced COX-2 mRNA expression, but not protein synthesis which required the late release of platelet PDGF and COX-2 mRNA stabilization.
+Platelet-induced COX-2-dependent PGE2 synthesis in HT29 cells was involved in downregulation of p21(WAF1/CIP1) and upregulation of cyclinB1, since these effects were prevented by rofecoxib(a selective COX-2 inhibitor) and rescued by exogenous PGE2.
+Galectin-3, highly expressed in HT29 cells, is unique among galectins because it contains a collagen-like domain.
+Thus, we studied the role of galectin-3 and platelet collagen receptors in platelet-induced COX-2 overexpression.
+Inhibitors of galectin-3 function(β-lactose, a dominant-negative form of galectin-3,Gal-3C, and anti-galectin-3 antibody M3/38) or collagen receptor-mediated platelet adhesion(revacept, a dimeric collagen receptor GPVI-Fc) prevented aberrant COX-2 expression.
+Inhibition of platelet-cancer cell interaction by revacept was more effective than rofecoxib in preventing platelet-induced mRNA changes of EMT markers suggesting that direct cell-cell contact and aberrant COX-2 expression synergistically induced gene expression modifications associated with EMT.
+In conclusion, our findings provide the rationale for testing blockers of collagen binding sites, such as revacept, and galectin-3 inhibitors in the prevention of colon cancer metastasis in animal models followed by studies in patients.

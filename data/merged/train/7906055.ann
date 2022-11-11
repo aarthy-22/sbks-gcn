@@ -1,0 +1,24 @@
+T15	CHEMICAL 0 8	Agmatine
+T16	CHEMICAL 24 33	clonidine
+T1	CHEMICAL 69 78	Clonidine
+T19	GENE-N 115 159	alpha 2-adrenergic and imidazoline receptors
+T14	CHEMICAL 138 149	imidazoline
+T2	CHEMICAL 187 198	imidazoline
+T17	GENE-N 187 208	imidazoline receptors
+T3	CHEMICAL 218 227	clonidine
+T4	CHEMICAL 300 309	clonidine
+T5	CHEMICAL 386 394	agmatine
+T6	CHEMICAL 396 419	decarboxylated arginine
+T7	CHEMICAL 456 464	Agmatine
+T18	GENE-N 474 518	alpha 2-adrenergic and imidazoline receptors
+T8	CHEMICAL 497 508	imidazoline
+T9	CHEMICAL 545 559	catecholamines
+T10	CHEMICAL 616 624	arginine
+T20	GENE-Y 616 638	arginine decarboxylase
+T11	CHEMICAL 661 669	Agmatine
+T12	CHEMICAL 720 731	imidazoline
+T21	GENE-N 720 741	imidazoline receptors
+T13	CHEMICAL 745 761	noncatecholamine
+T22	GENE-N 772 800	alpha 2-adrenergic receptors
+R0	CPR-2 Arg1:T1 Arg2:T19
+R1	NOT Arg1:T12 Arg2:T22

@@ -1,0 +1,23 @@
+T21	GENE-Y 83 97	5-lipoxygenase
+T7	CHEMICAL 117 123	oxygen
+T20	GENE-N 190 199	cytokines
+T10	GENE-Y 210 228	interleukin 1-beta
+T11	GENE-Y 233 260	tumor necrosis factor-alpha
+T2	CHEMICAL 289 305	arachidonic acid
+T16	GENE-Y 329 343	5-lipoxygenase
+T17	GENE-Y 345 350	5-Lox
+T18	GENE-Y 353 358	5-Lox
+T3	CHEMICAL 574 585	fatty acids
+T4	CHEMICAL 753 769	arachidonic acid
+T19	GENE-Y 792 797	5-Lox
+T5	CHEMICAL 819 835	leukotriene B(4)
+T6	CHEMICAL 837 843	LTB(4)
+T8	CHEMICAL 1078 1099	eicosapentaenoic acid
+T9	CHEMICAL 1100 1119	docosaesaenoic acid
+T12	GENE-Y 1418 1423	5-Lox
+T13	GENE-Y 1465 1470	5-Lox
+T1	CHEMICAL 1650 1659	vitamin E
+T14	GENE-Y 1727 1732	5-Lox
+T15	GENE-Y 1761 1766	5-Lox
+R0	NOT Arg1:T7 Arg2:T10
+R1	NOT Arg1:T10 Arg2:T2

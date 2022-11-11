@@ -1,0 +1,12 @@
+Nucleotide sequence of the gene for human factor IX (antihemophilic factor B).
+Two different human genomic DNA libraries were screened for the gene for blood coagulation factor IX by employing a cDNA for the human protein as a hybridization probe.
+Five overlapping lambda phages were identified that contained the gene for factor IX.
+The complete DNA sequence of about 38 kilobases for the gene and the adjacent 5' and 3' flanking regions was established by the dideoxy chain termination and chemical degradation methods.
+The gene contained about 33.5 kilobases of DNA, including seven introns and eight exons within the coding and 3' noncoding regions of the gene.
+The eight exons code for a prepro leader sequence and 415 amino acids that make up the mature protein circulating in plasma.
+The intervening sequences range in size from 188 to 9473 nucleotides and contain four Alu repetitive sequences, including one in intron A and three in intron F. A fifth Alu repetitive sequence was found immediately flanking the 3' end of the gene.
+A 50 base pair insert in intron A was found in a clone from one of the genomic libraries but was absent in clones from the other library.
+Intron A as well as the 3' noncoding region of the gene also contained alternating purine-pyrimidine sequences that provide potential left-handed helical DNA or Z-DNA structures for the gene.
+KpnI repetitive sequences were identified in intron D and the region flanking the 5' end of the gene.
+The 5' flanking region also contained a 1.9-kb HindIII subfamily repeat.
+The seven introns in the gene for factor IX were located in essentially the same position as the seven introns in the gene for human protein C, while the first three were found in positions identical with those in the gene for human prothrombin.

@@ -1,0 +1,11 @@
+T6	GENE 159 222	human alpha4 or beta2 neuronal nicotinic acetylcholine receptor
+T7	GENE 455 461	Chrna4
+T8	GENE 462 467	S252F
+T9	GENE 473 479	Chrna4
+T1	CHEMICAL 734 742	nicotine
+T2	CHEMICAL 878 886	nicotine
+T3	CHEMICAL 1020 1030	picrotoxin
+T4	CHEMICAL 1048 1071	gamma-aminobutyric acid
+T10	GENE 1048 1080	gamma-aminobutyric acid receptor
+T5	GENE 1371 1422	alpha4-containing nicotinic acetylcholine receptors
+R0	CPR-6 Arg1:T3 Arg2:T10

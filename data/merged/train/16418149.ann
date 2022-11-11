@@ -1,0 +1,20 @@
+T11	CHEMICAL 10 24	cyproheptadine
+T19	GENE-Y 34 40	leptin
+T12	GENE-Y 49 55	Leptin
+T4	CHEMICAL 65 75	amino acid
+T5	CHEMICAL 318 332	Cyproheptadine
+T6	CHEMICAL 338 348	piperidine
+T7	CHEMICAL 349 362	antihistamine
+T15	GENE-Y 426 431	5-HT2
+T16	GENE-Y 470 476	leptin
+T8	CHEMICAL 481 495	cyproheptadine
+T9	CHEMICAL 671 685	cyproheptadine
+T10	CHEMICAL 786 800	cyproheptadine
+T17	GENE-Y 946 952	leptin
+T18	GENE-Y 979 985	leptin
+T13	GENE-Y 1147 1153	leptin
+T1	CHEMICAL 1191 1205	cyproheptadine
+T14	GENE-Y 1317 1323	leptin
+T2	CHEMICAL 1328 1342	cyproheptadine
+T3	CHEMICAL 1394 1408	cyproheptadine
+R0	NOT Arg1:T11 Arg2:T19

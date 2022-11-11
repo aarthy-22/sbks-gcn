@@ -1,0 +1,9 @@
+The effect of ligand binding on the proteolytic pattern of methylmalonate semialdehyde dehydrogenase.
+Native rat liver methylmalonate semialdehyde dehydrogenase was proteolyzed by lysylendopeptidase C, chymotrypsin, and trypsin to generate different cleavage fragments of molecular masses: 50, 8, 55, 44, 39, 53, 45, and 40 kDa.
+A proteolytic cleavage map of MMSDH was constructed based on sequencing data and a comparison of appearance and degradation rates of the different protein fragments as shown by SDS-PAGE.
+NAD+ was highly effective as a protector against proteolysis in both the N-terminal and the C-terminal parts of the intact enzyme.
+NADH did not efficiently protect the intact enzyme; however, it stabilized proteolytic fragment L50 from further degradation.
+This suggests that the NAD(+)-binding domain is not destroyed by cleavage of the N-terminal part of MMSDH.
+CoA had no effect on the proteolytic cleavage patterns of MMSDH.
+However, CoA esters reduced the protective effect of NAD+ with an order of effectiveness of acetyl-CoA greater than propionyl-CoA greater than butyryl-CoA. p-Nitrophenyl acetate, substrate for esterase activity by the enzyme, partially prevented the protective effect of NAD+ against proteolysis.
+These results suggest that S-acylation of the enzyme prevents a stabilizing conformational change induced in MMSDH by NAD+ binding.

@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 7 98	7-(Cyclobutylmethyl)-3-methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+T3	STARTING_MATERIAL 99 155	7-(Cyclobutylmethyl)-3-methyl-1H-purine-2,6(3H,7H)-dione
+T4	STARTING_MATERIAL 178 212	5-(4-bromobutyl)-3-methylisoxazole
+T5	REAGENT_CATALYST 239 255	potassium iodide
+T6	SOLVENT 295 316	N,N-dimethylformamide
+T7	REAGENT_CATALYST 325 344	potassium carbonate
+T8	TEMPERATURE 379 383	25°C
+T9	TEMPERATURE 412 418	reflux
+T10	TEMPERATURE 422 427	130°C
+T11	TIME 432 439	3 hours
+T12	TEMPERATURE 477 481	25°C
+T13	REACTION_PRODUCT 613 704	7-(cyclobutylmethyl)-3-methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+T14	YIELD_OTHER 706 713	64.0 mg
+T15	YIELD_PERCENT 731 734	40%

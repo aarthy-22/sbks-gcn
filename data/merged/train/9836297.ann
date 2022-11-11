@@ -1,0 +1,49 @@
+T34	CHEMICAL 56 70	catecholamines
+T44	GENE-N 76 95	alpha-adrenoceptors
+T29	CHEMICAL 101 115	catecholamines
+T42	GENE-N 157 177	alpha 2-adrenoceptor
+T33	CHEMICAL 187 201	[3H]-clonidine
+T37	GENE-Y 232 253	alpha 2a-adrenoceptor
+T40	GENE-N 333 353	alpha 2-adrenoceptor
+T25	CHEMICAL 396 403	alanine
+T28	CHEMICAL 479 493	catecholamines
+T41	GENE-Y 502 523	alpha 2a-adrenoceptor
+T30	CHEMICAL 595 641	(-)- and (+)-enantiomers of the catecholamines
+T31	CHEMICAL 839 853	catecholamines
+T32	CHEMICAL 914 927	beta-hydroxyl
+T43	GENE-Y 941 962	alpha 2a-adrenoceptor
+T1	CHEMICAL 1129 1166	(-)-enantiomers of the catecholamines
+T35	GENE-Y 1175 1196	alpha 2a-adrenoceptor
+T2	CHEMICAL 1286 1304	(-)-norepinephrine
+T3	CHEMICAL 1309 1324	(-)-epinephrine
+T36	GENE-Y 1365 1386	alpha 2a-adrenoceptor
+T4	CHEMICAL 1543 1556	beta-hydroxyl
+T5	CHEMICAL 1571 1585	catecholamines
+T6	CHEMICAL 1630 1658	(+/-)-6-fluoronorepinephrine
+T7	CHEMICAL 1759 1796	(+)-enantiomers of the catecholamines
+T8	CHEMICAL 1809 1817	dopamine
+T9	CHEMICAL 1822 1829	epinine
+T10	CHEMICAL 1870 1884	norepinephrine
+T11	CHEMICAL 1889 1900	epinephrine
+T12	CHEMICAL 1916 1929	beta-hydroxyl
+T13	CHEMICAL 1989 1996	alanine
+T14	CHEMICAL 2105 2118	beta-hydroxyl
+T15	CHEMICAL 2128 2141	isoproterenol
+T38	GENE-N 2151 2170	beta 2-adrenoceptor
+T39	GENE-Y 2180 2201	alpha 2a-adrenoceptor
+T16	CHEMICAL 2217 2225	hydroxyl
+T17	CHEMICAL 2234 2245	amino acids
+T18	CHEMICAL 2317 2328	amino acids
+T19	CHEMICAL 2379 2392	beta-hydroxyl
+T20	CHEMICAL 2404 2417	catecholamine
+T21	CHEMICAL 2525 2536	amino acids
+T22	CHEMICAL 2540 2551	Ala-Phe-Ala
+T23	CHEMICAL 2580 2617	(-)-enantiomers of the catecholamines
+T24	CHEMICAL 2946 2983	(+)-enantiomers of the catecholamines
+T26	CHEMICAL 3185 3198	beta-hydroxyl
+T27	CHEMICAL 3212 3226	catecholamines
+R0	CPR-4 Arg1:T29 Arg2:T40
+R1	NOT Arg1:T29 Arg2:T42
+R2	NOT Arg1:T31 Arg2:T43
+R3	NOT Arg1:T1 Arg2:T35
+R4	NOT Arg1:T36 Arg2:T4

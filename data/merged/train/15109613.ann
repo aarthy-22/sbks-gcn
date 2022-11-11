@@ -1,0 +1,12 @@
+T7	CHEMICAL 24 39	thyroid hormone
+T8	CHEMICAL 98 109	cholesterol
+T6	CHEMICAL 195 210	thyroid hormone
+T12	GENE-N 195 219	thyroid hormone receptor
+T9	GENE-Y 276 320	beta-isoform of the thyroid hormone receptor
+T1	CHEMICAL 296 311	thyroid hormone
+T2	CHEMICAL 427 438	cholesterol
+T3	CHEMICAL 530 542	atorvastatin
+T4	CHEMICAL 567 574	HMG-CoA
+T10	GENE-Y 567 584	HMG-CoA reductase
+T5	CHEMICAL 623 635	triglyceride
+T11	GENE-N 640 655	lipoprotein (a)

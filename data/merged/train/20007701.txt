@@ -1,0 +1,10 @@
+Directed evolution reveals hidden properties of VMAT, a neurotransmitter transporter.
+The vesicular neurotransmitter transporter VMAT2 is responsible for the transport of monoamines into synaptic and storage vesicles.
+VMAT2 is the target of many psychoactive drugs and is essential for proper neurotransmission and survival.
+Here we describe a new expression system in Saccharomyces cerevisiae that takes advantage of the polyspecificity of VMAT2.
+Expression of rVMAT2 confers resistance to acriflavine and to the parkinsonian toxin 1-methyl-4-phenylpyridinium (MPP(+)) by their removal into the yeast vacuole.
+This expression system allowed identification of a new substrate, acriflavine, and isolation of mutants with modified affinity to tetrabenazine (TBZ), a non-competitive inhibitor of VMAT2 that is used in the treatment of various movement disorders including Tourette syndrome and Huntington chorea.
+Whereas one type of mutant obtained displayed decreased affinity to TBZ, a second type showed only a slight decrease in the affinity to TBZ, displayed a higher K(m) to the neurotransmitter serotonin, but conferred increased resistance to acriflavine and MPP(+).
+A protein where both types of mutations were combined (with only three amino acid replacements) lost most of the properties of the neurotransmitter transporter (TBZ-insensitive, no transport of neurotransmitter) but displayed enhanced resistance to the above toxicants.
+The work described here shows that in the case of rVMAT2, loss of traits acquired in evolution of function (such as serotonin transport and TBZ binding) bring about an improvement in older functions such as resistance to toxic compounds.
+A process that has taken millions of years of evolution can be reversed by three mutations.

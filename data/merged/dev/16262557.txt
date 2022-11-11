@@ -1,0 +1,4 @@
+The unexpected side effects of new nonsteroidal anti-inflammatory drugs.
+Conventional nonselective NSAIDs are classically associated with a risk of gastrointestinal disorders.
+These drugs have a broad range of relative selectivity towards the COX family, mainly towards two isoforms of these enzymes: COX-1 and -2.
+As examples, ketorolac, flurbiprofen, ketoprofen and indomethacin have increased COX-1 selectivity when compared with naproxen and ibuprofen.

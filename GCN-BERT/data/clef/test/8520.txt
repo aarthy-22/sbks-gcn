@@ -1,0 +1,4 @@
+[Example 11]
+Synthesis of compound 1-0011
+Step 1
+The compound 22 (7.2 g, 39.3 mmol) was dissolved in tetrahydrofuran (28 mL). A 1 mol/L aqueous solution of sodium hydroxide (56 mL, 56 mmol) was added to the solution. The mixture was stirred at room temperature for 1.5 hours. A 2 mol/L hydrochloric acid solution (6 mL, 12 mmol) was added to the mixture. The mixture was extracted with ethyl acetate. The organic layer was washed by water and brine, and dried over anhydrous sodium sulfate. The solvent was evaporated under reduced pressure. Ethyl acetate-hexane was added to the obtained residue. The precipitated solids were filtered to give the compound 23 (3.4 g, yield 53%).

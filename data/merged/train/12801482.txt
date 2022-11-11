@@ -1,0 +1,16 @@
+Glucosamine sulfate modulates the levels of aggrecan and matrix metalloproteinase-3 synthesized by cultured human osteoarthritis articular chondrocytes.
+OBJECTIVE: The functional integrity of articular cartilage is determined by a balance between chondrocyte biosynthesis of extracellular matrix and its degradation.
+In osteoarthritis (OA), the balance is disturbed by an increase in matrix degradative enzymes and a decrease in biosynthesis of constitutive extracellular matrix molecules, such as collagen type II and aggrecan.
+In this study, we examined the effects of the sulfate salt of glucosamine (GS) on the mRNA and protein levels of the proteoglycan aggrecan and on the activity of matrix metalloproteinase (MMP)-3 in cultured human OA articular chondrocytes.
+DESIGN: Freshly isolated chondrocytes were obtained from knee cartilage of patients with OA.
+Levels of aggrecan and MMP-3 were determined in culture media by employing Western blots after incubation with GS at concentrations ranging from 0.2 to 200 microM. Zymography (casein) was performed to confirm that effects observed at the protein level were reflected at the level of enzymatic activity.
+Northern hybridizations were used to examine effects of GS on levels of aggrecan and MMP-3 mRNA.
+Glycosaminoglycan (GAG) assays were performed on the cell layers to determine levels of cell-associated GAG component of proteoglycans.
+RESULTS: Treatment of OA chondrocytes with GS (1.0-150 microM) resulted in a dose-dependent increase in aggrecan core protein levels, which reached 120% at 150 microM GS.
+These effects appeared to be due to increased expression of the corresponding gene as indicated by an increase in aggrecan mRNA levels in response to GS.
+MMP-3 levels decreased (18-65%) as determined by Western blots.
+Reduction of MMP-3 protein was accompanied by a parallel reduction in enzymatic activity.
+GS caused a dose-dependent increase (25-140%) in cell-associated GAG content.
+Chondrocytes obtained from 40% of OA patients failed to respond to GS.
+CONCLUSIONS: The results indicate that GS can stimulate mRNA and protein levels of aggrecan core protein and, at the same time, inhibit production and enzymatic activity of matrix-degrading MMP-3 in chondrocytes from OA articular cartilage.
+These results provide a cogent molecular mechanism to support clinical observations suggesting that GS may have a beneficial effect in the prevention of articular cartilage loss in some patients with OA.

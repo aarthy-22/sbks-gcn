@@ -1,0 +1,10 @@
+Synthesis and in Vitro Characterisation of Ifenprodil-Based Fluorescein Conjugates as GluN1/GluN2B N-Methyl-D-aspartate Receptor Antagonists.
+GluN2B-containing NMDA receptors are involved in many important physiological functions and play a pivotal role in mediating pain as well as in several neurodegenerative disorders.
+We aimed to develop fluorescent probes to target the GluN2B subunit selectively in order to allow better understanding of the relationships between receptor localisation and physiological importance.
+Ifenprodil, known as the GluNR2B antagonist of reference, was chosen as the template for the elaboration of probes.
+We had previously reported a fluorescein conjugate that was shown (by confocal microscopy imaging of DS-red-labelled cortical neurons) to bind specifically to GluN2B.
+To elaborate this probe, we explored the influence of both the nature and the attachment point of the spacer between the fluorophore and the parent compound, ifenprodil.
+We performed chemical modifications of ifenprodil at the benzylic position and on the phenol ring by introducing secondary amine or amide functions and evaluated alkyl chains from two to 20 bonds either including or not including secondary amide functions as spacers.
+The previously developed probe was found to display the greatest activity in the inhibition of NMDA-induced Ca(2+) influx by calcium imaging experiments on HEK293 cells transfected with the cDNA encoding for GluN1-1A and GluN2B.
+Further investigations revealed that this probe had a neuroprotective effect equivalent to that of ifenprodil in a standard test for neurotoxicity.
+Despite effects of lesser amplitude with these probes relative to ifenprodil, we demonstrated that they displaced [(3) H]ifenprodil in mouse brain slices in a similar manner.

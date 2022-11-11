@@ -1,0 +1,10 @@
+T1	YIELD_PERCENT 219 222	99%
+T2	REACTION_PRODUCT 117 153	(4-bromophenyl)(morpholino)methanone
+T3	STARTING_MATERIAL 329 339	morpholine
+T4	EXAMPLE_LABEL 8 10	19
+T5	REACTION_PRODUCT 154 190	(4-bromophenyl)(morpholino)methanone
+T6	STARTING_MATERIAL 285 304	4-bromobenzoic acid
+T7	OTHER_COMPOUND 100 107	LMT-682
+T8	YIELD_OTHER 205 211	455 mg
+T9	EXAMPLE_LABEL 114 115	1
+T10	OTHER_COMPOUND 27 98	N-(3-(4-(morpholine-4-carbonyl)phenyl)prop-2-ynyl)-N-phenylpentaneamide

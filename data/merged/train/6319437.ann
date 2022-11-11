@@ -1,0 +1,60 @@
+T44	GENE-Y 8 29	alpha 2-macroglobulin
+T43	GENE-Y 34 57	epidermal growth factor
+T20	CHEMICAL 85 99	phenothiazines
+T19	CHEMICAL 104 128	naphthalene sulfonamides
+T14	CHEMICAL 157 180	naphthalenesulfonamides
+T16	CHEMICAL 188 238	N-6(-aminohexyl)-5-chloro-1-naphthalenesulfonamide
+T1	CHEMICAL 240 243	W-7
+T2	CHEMICAL 250 264	phenothiazines
+T5	CHEMICAL 272 287	trifluoperazine
+T6	CHEMICAL 289 292	TFP
+T30	GENE-Y 339 360	alpha 2-macroglobulin
+T33	GENE-Y 366 389	epidermal growth factor
+T37	GENE-Y 391 394	EGF
+T38	GENE-Y 424 455	alpha 2-macroglobulin receptors
+T39	GENE-Y 585 597	EGF receptor
+T40	GENE-Y 620 641	alpha 2-macroglobulin
+T41	GENE-Y 651 664	EGF receptors
+T15	CHEMICAL 701 704	W-7
+T17	CHEMICAL 929 932	W-7
+T42	GENE-Y 971 991	beta 2-microglobulin
+T18	CHEMICAL 1108 1111	W-7
+T21	GENE-Y 1215 1236	alpha 2-macroglobulin
+T22	GENE-Y 1241 1254	EGF receptors
+T3	CHEMICAL 1466 1469	TFP
+T4	CHEMICAL 1474 1477	W-7
+T23	GENE-N 1503 1513	calmodulin
+T24	GENE-N 1566 1576	calmodulin
+T25	GENE-N 1657 1667	calmodulin
+T7	CHEMICAL 1748 1760	Promethazine
+T8	CHEMICAL 1764 1777	phenothiazine
+T9	CHEMICAL 1844 1847	TFP
+T26	GENE-N 1920 1930	calmodulin
+T27	GENE-N 2000 2010	calmodulin
+T10	CHEMICAL 2053 2056	W-7
+T28	GENE-N 2130 2140	calmodulin
+T11	CHEMICAL 2204 2213	rhodamine
+T29	GENE-Y 2222 2243	alpha 2-macroglobulin
+T12	CHEMICAL 2261 2264	W-7
+T31	GENE-N 2379 2390	calcineurin
+T32	GENE-N 2394 2420	calmodulin-binding protein
+T13	CHEMICAL 2510 2519	rhodamine
+T34	GENE-Y 2528 2549	alpha 2-macroglobulin
+T35	GENE-N 2660 2682	cytoplasmic calmodulin
+T36	GENE-N 2728 2738	calmodulin
+R0	CPR-4 Arg1:T4 Arg2:T23
+R1	CPR-4 Arg1:T9 Arg2:T26
+R2	NOT Arg1:T1 Arg2:T30
+R3	NOT Arg1:T1 Arg2:T37
+R4	NOT Arg1:T5 Arg2:T30
+R5	NOT Arg1:T40 Arg2:T15
+R6	NOT Arg1:T3 Arg2:T24
+R7	NOT Arg1:T4 Arg2:T24
+R8	NOT Arg1:T25 Arg2:T11
+R9	NOT Arg1:T8 Arg2:T27
+R10	NOT Arg1:T8 Arg2:T34
+R11	NOT Arg1:T9 Arg2:T29
+R12	NOT Arg1:T26 Arg2:T12
+R13	NOT Arg1:T27 Arg2:T12
+R14	NOT Arg1:T12 Arg2:T32
+R15	NOT Arg1:T32 Arg2:T13

@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 18 21	C-4
+T2	REACTION_PRODUCT 36 106	[4-[5-(trifluoromethyl)-2-pyridyl]-2-pyridyl]methylamine hydrochloride
+T3	REACTION_PRODUCT 108 111	C-4
+T4	EXAMPLE_LABEL 119 120	1
+T5	REACTION_PRODUCT 135 185	tert-butyl N-[(4-chloro-2-pyridyl)methyl]carbamate
+T6	STARTING_MATERIAL 203 234	(4-chloro-2-pyridyl)methylamine
+T7	SOLVENT 255 270	dichloromethane
+T8	REAGENT_CATALYST 291 304	triethylamine
+T9	STARTING_MATERIAL 327 352	di-tert-butyl dicarbonate
+T10	TEMPERATURE 402 418	room temperature
+T11	TIME 423 427	2 hr
+T12	OTHER_COMPOUND 497 507	silica gel
+T13	OTHER_COMPOUND 531 546	petroleum ether
+T14	OTHER_COMPOUND 547 560	ethyl acetate
+T15	REACTION_PRODUCT 574 588	title compound
+T16	YIELD_OTHER 590 594	45 g
+T17	YIELD_OTHER 596 604	0.18 mol
+T18	YIELD_PERCENT 606 609	92%

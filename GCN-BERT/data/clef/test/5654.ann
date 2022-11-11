@@ -1,0 +1,11 @@
+T1	EXAMPLE_LABEL 8 10	13
+T2	REACTION_PRODUCT 24 173	tert-butyl (R)-4-(6-(6-(benzoyloxy)ethyl-8-(1-methoxy-2-methylpropan-2-ylamino)pyrido[3,4-d]pyrimidin-2-ylamino)pyridin-3-yl)piperazine-1-carboxylate
+T3	STARTING_MATERIAL 178 285	(R)-1-(8-(1-methoxy-2-methylpropan-2-ylamino)-2-(methylsulfinyl)pyrido[3,4-d]pyrimidin-6-yl) ethyl benzoate
+T4	STARTING_MATERIAL 337 395	tert-butyl 4-(6-aminopyridin-3-yl)piperazine-1-carboxylate
+T5	SOLVENT 469 476	toluene
+T6	TEMPERATURE 525 530	120°C
+T7	TEMPERATURE 624 640	room temperature
+T8	OTHER_COMPOUND 742 752	silica gel
+T9	REACTION_PRODUCT 788 802	title compound
+T10	YIELD_OTHER 804 810	850 mg
+T11	YIELD_PERCENT 812 815	30%

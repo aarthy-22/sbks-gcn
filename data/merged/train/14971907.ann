@@ -1,0 +1,40 @@
+T17	CHEMICAL 0 8	Carbonic
+T31	GENE-N 0 18	Carbonic anhydrase
+T32	GENE-N 45 68	mitochondrial isozyme V
+T27	GENE-Y 148 195	mitochondrial isozyme carbonic anhydrase (CA) V
+T7	CHEMICAL 170 178	carbonic
+T1	CHEMICAL 232 270	aromatic and heterocyclic sulfonamides
+T23	GENE-Y 326 330	CA I
+T24	GENE-Y 335 340	CA II
+T25	GENE-Y 372 377	CA IV
+T26	GENE-Y 456 460	CA V
+T3	CHEMICAL 553 575	acylated sulfanilamide
+T4	CHEMICAL 577 602	ureido-benzenesulfonamide
+T5	CHEMICAL 604 635	1,3,4-thiadiazole-2-sulfonamide
+T6	CHEMICAL 641 657	aminobenzolamide
+T8	CHEMICAL 708 721	acetazolamide
+T9	CHEMICAL 723 736	methazolamide
+T10	CHEMICAL 738 751	ethoxzolamide
+T11	CHEMICAL 753 764	dorzolamide
+T12	CHEMICAL 766 778	brinzolamide
+T13	CHEMICAL 784 794	topiramate
+T28	GENE-Y 833 837	CA V
+T14	CHEMICAL 930 942	sulfonamides
+T15	CHEMICAL 956 982	ureido-benzenesulfonamides
+T16	CHEMICAL 991 1014	acylated sulfanilamides
+T29	GENE-Y 1042 1046	CA V
+T30	GENE-Y 1076 1081	CA II
+T18	GENE-Y 1198 1203	CA II
+T19	GENE-Y 1284 1288	CA V
+T20	GENE-Y 1316 1321	CA II
+T21	GENE-Y 1326 1330	CA V
+T2	CHEMICAL 1407 1419	sulfonamides
+T22	GENE-N 1490 1492	CA
+R0	CPR-4 Arg1:T3 Arg2:T26
+R1	CPR-4 Arg1:T5 Arg2:T26
+R2	CPR-2 Arg1:T14 Arg2:T29
+R3	CPR-4 Arg1:T2 Arg2:T20
+R4	NOT Arg1:T8 Arg2:T28
+R5	NOT Arg1:T8 Arg2:T29
+R6	NOT Arg1:T10 Arg2:T30
+R7	NOT Arg1:T28 Arg2:T16

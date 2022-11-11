@@ -1,0 +1,12 @@
+Modulation of cellular insulin signaling and PTP1B effects by lipid metabolites in skeletal muscle cells.
+Normal glucose regulation is achieved by having adequate insulin secretion and effective glucose uptake/disposal.
+Excess lipids in peripheral tissues - skeletal muscle, liver and adipose tissue - may attenuate insulin signaling through the protein kinase B (AKt) pathway and up-regulate protein tyrosine phosphatase 1B (PTP1B), a negative regulator of insulin signaling.
+We studied accumulation of lipid metabolites [triglycerides (TAGs), diglycerides (DAGs)] and ceramides in relation to insulin signaling and expression and phosphorylation of PTP1B by preincubating rat skeletal muscle cells (L6 myotubes) with three saturated and three unsaturated free fatty acids (FFAs) (200 μM).
+Cells were also evaluated in the presence of wortmannin, an inhibitor of phosphatidylinositol 3-kinases and thus AKt (0-100 nM).
+Unsaturated FFAs increased DAGs, TAGs and PTP1B expression significantly, but cells remained insulin sensitive as assessed by robust AKt and PTP1B phosphorylation at serine (Ser) 50, Ser 398 and tyrosine 152.
+Saturated palmitic and stearic acids increased ceramides, up-regulated PTP1B, and had AKt and PTP1B phosphorylation at Ser 50 impaired.
+We show a significant correlation between phosphorylation levels of AKt and of PTP1B at Ser 50 (R(2)=0.84, P<.05).
+The same was observed with increasing wortmannin dose (R(2)=0.73, P<.05).
+Only FFAs that increased ceramides caused impairment of AKt and PTP1B phosphorylation at Ser 50.
+PTP1B overexpression in the presence of excess lipids may not directly cause insulin resistance unless it is accompanied by decreased PTP1B phosphorylation.
+A clear relationship between PTP1B phosphorylation levels at Ser 50 and its negative effect on insulin signaling is shown.

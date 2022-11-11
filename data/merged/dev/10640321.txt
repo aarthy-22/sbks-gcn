@@ -1,0 +1,8 @@
+The antitussive activity of delta-opioid receptor stimulation in guinea pigs.
+In this study, the activity of the delta-opioid receptor subtype-selective agonist, SB 227122, was investigated in a guinea pig model of citric acid-induced cough.
+Parenteral administration of selective agonists of the delta-opioid receptor (SB 227122), mu-opioid receptor (codeine and hydrocodone), and kappa-opioid receptor (BRL 52974) produced dose-related inhibition of citric acid-induced cough with ED(50) values of 7.3, 5.2, 5.1, and 5.3 mg/kg, respectively.
+The nonselective opioid receptor antagonist, naloxone (3 mg/kg, i.m.), attenuated the antitussive effects of codeine or SB 227122, indicating that the antitussive activity of both compounds is opioid receptor-mediated.
+The delta-receptor antagonist, SB 244525 (10 mg/kg, i.p.), inhibited the antitussive effect of SB 227122 (20 mg/kg, i.p.).
+In contrast, combined pretreatment with beta-funaltrexamine (mu-receptor antagonist; 20 mg/kg, s.c.) and norbinaltorphimine (kappa-receptor antagonist; 20 mg/kg, s.c.), at doses that inhibited the antitussive activity of mu- and kappa-receptor agonists, respectively, was without effect on the antitussive response of SB 227122 (20 mg/kg, i.p.).
+The sigma-receptor antagonist rimcazole (3 mg/kg, i.p.) inhibited the antitussive effect of dextromethorphan (30 mg/kg, i.p.), a sigma-receptor agonist, but not that of SB 227122.
+These studies provide compelling evidence that the antitussive effects of SB 227122 in this guinea pig cough model are mediated by agonist activity at the delta-opioid receptor.

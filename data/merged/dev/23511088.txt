@@ -1,0 +1,9 @@
+Derivatives of Dictyostelium discoideum differentiation-inducing factor-3 suppress the activities of Trypanosoma cruzi in vitro and in vivo.
+Chagas disease (human American trypanosomiasis), which is caused by the protozoan parasite Trypanosoma cruzi, is responsible for numerous deaths each year; however, established treatments for the disease are limited.
+Differentiation-inducing factor-1 (DIF-1) and DIF-3 are chlorinated alkylphenones originally found in the cellular slime mold Dictyostelium discoideum that have been shown to possess pharmacological activities.
+Here, we investigated the effects of DIF-3 derivatives on the infection rate and growth of T. cruzi by using an in vitro assay system utilizing host human fibrosarcoma HT1080 cells.
+Certain DIF-3 derivatives, such as butoxy-DIF-3 (Bu-DIF-3), at micro-molar levels strongly suppressed both the infection rate and growth of T. cruzi in HT1080 cells and exhibited little toxicity for HT1080 cells.
+For example, the IC50 of DIF-3 and Bu-DIF-3 versus the growth of T. cruzi in HT1080 cells were 3.95 and 0.72μM, respectively, and the LD50 of the two compounds versus HT1080 cells were both greater than 100μM.
+We also examined the effects of DIF-3 and Bu-DIF-3 on T. cruzi activity in C57BL/6 mice.
+Intraperitoneally administered Bu-DIF-3 (50mg/kg) significantly suppressed the number of trypomastigotes in blood with no apparent adverse effects.
+These results strongly suggest that DIF-3 derivatives could be new lead compounds in the development of anti-trypanosomiasis drugs.

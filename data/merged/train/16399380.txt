@@ -1,0 +1,14 @@
+Characterization of the omega class of glutathione transferases.
+The Omega class of cytosolic glutathione transferases was initially recognized by bioinformatic analysis of human sequence databases, and orthologous sequences were subsequently discovered in mouse, rat, pig, Caenorhabditis elegans, Schistosoma mansoni, and Drosophila melanogaster.
+In humans and mice, two GSTO genes have been recognized and their genetic structures and expression patterns identified.
+In both species, GSTO1 mRNA is expressed in liver and heart as well as a range of other tissues.
+GSTO2 is expressed predominantly in the testis, although moderate levels of expression are seen in other tissues.
+Extensive immunohistochemistry of rat and human tissue sections has demonstrated cellular and subcellular specificity in the expression of GSTO1-1.
+The crystal structure of recombinant human GSTO1-1 has been determined, and it adopts the canonical GST fold.
+A cysteine residue in place of the catalytic tyrosine or serine residues found in other GSTs was shown to form a mixed disulfide with glutathione.
+Omega class GSTs have dehydroascorbate reductase and thioltransferase activities and also catalyze the reduction of monomethylarsonate, an intermediate in the pathway of arsenic biotransformation.
+Other diverse actions of human GSTO1-1 include modulation of ryanodine receptors and interaction with cytokine release inhibitory drugs.
+In addition, GSTO1 has been linked to the age at onset of both Alzheimer's and Parkinson's diseases.
+Several polymorphisms have been identified in the coding regions of the human GSTO1 and GSTO2 genes.
+Our laboratory has expressed recombinant human GSTO1-1 and GSTO2-2 proteins, as well as a number of polymorphic variants.
+The expression and purification of these proteins and determination of their enzymatic activity is described.

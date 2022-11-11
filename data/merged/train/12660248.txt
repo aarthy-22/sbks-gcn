@@ -1,0 +1,11 @@
+L-methionine availability regulates expression of the methionine adenosyltransferase 2A gene in human hepatocarcinoma cells: role of S-adenosylmethionine.
+In mammals, methionine adenosyltransferase (MAT), the enzyme responsible for S-adenosylmethionine (AdoMet) synthesis, is encoded by two genes, MAT1A and MAT2A.
+In liver, MAT1A expression is associated with high AdoMet levels and a differentiated phenotype, whereas MAT2A expression is associated with lower AdoMet levels and a dedifferentiated phenotype.
+In the current study, we examined regulation of MAT2A gene expression by l-methionine availability using HepG2 cells.
+In l-methionine-deficient cells, MAT2A gene expression is rapidly induced, and methionine adenosyltransferase activity is increased.
+Restoration of l-methionine rapidly down-regulates MAT2A mRNA levels; for this effect, l-methionine needs to be converted into AdoMet.
+This novel action of AdoMet is not mediated through a methyl transfer reaction.
+MAT2A gene expression was also regulated by 5'-methylthioadenosine, but this was dependent on 5'-methylthioadenosine conversion to methionine through the salvage pathway.
+The transcription rate of the MAT2A gene remained unchanged during l-methionine starvation; however, its mRNA half-life was significantly increased (from 100 min to more than 3 h).
+The effect of l-methionine withdrawal on MAT2A mRNA stabilization requires both gene transcription and protein synthesis.
+We conclude that MAT2A gene expression is modulated as an adaptive response of the cell to l-methionine availability through its conversion to AdoMet.

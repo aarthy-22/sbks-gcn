@@ -1,0 +1,10 @@
+The impact of hypoxic treatment on the expression of phosphoglycerate kinase and the cytotoxicity of troxacitabine and gemcitabine.
+beta-L-Dioxolane-cytidine (L-OddC, Troxacitabine, BCH-4556), a novel L-configuration deoxycytidine analog, is under clinical trials for treating cancer.
+The cytotoxicity of L-OddC is dependent on the amount of the triphosphate form (L-OddCTP) in nuclear DNA.
+Phosphoglycerate kinase (PGK), a downstream protein of hypoxia-inducible-factor-1alpha (HIF-1alpha), is responsible for the phosphorylation of the diphosphate to the triphosphate of L-OddC. In this study, we studied the impact of hypoxia on the metabolism and the cytotoxicity of L-OddC and beta-d-2',2'-difluorodeoxycytidine (dFdC) in several human tumor cell lines including HepG2, Hep3B, A673, Panc-1, and RKO.
+Hypoxic treatment induced the protein expression of PGK 3-fold but had no effect on the protein expression of APE-1, dCK, CMPK, and nM23 H1.
+Hypoxic treatment increased L-OddCTP formation and incorporation of L-OddC into DNA, but it decreased the uptake and incorporation of dFdC, which correlated with the reduction of hENT1, hENT2, and hCNT2 expression.
+Using a clonogenic assay, hypoxic treatment of cells made them 2- to 3-fold more susceptible to L-OddC but not to dFdC after exposure to drugs for one generation.
+Dimethyloxallyl glycine enhanced the cytotoxicity of L-OddC but not dFdC in Panc-1 cells under normoxic conditions.
+Overexpression or down-regulation of PGK using transient transfection of pcDNA5-PGK or inducible shRNA in RKO cells affected the cytotoxicity of L-OddC but not that of dFdC. The knockdown of HIF-1alpha in inducible shRNA in RKO cells reduced the cytotoxicity of L-OddC but not dFdC under hypoxic conditions.
+In conclusion, hypoxia is an important factor that may potentiate the activity of L-OddC.

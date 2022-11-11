@@ -1,0 +1,13 @@
+Reduced satiating effect of d-fenfluramine in serotonin 5-HT(2C) receptor mutant mice.
+RATIONALE: d-Fenfluramine stimulates the release of serotonin (5-HT) and is a potent inhibitor of the re-uptake of 5-HT into nerve terminals.
+Administration of d-fenfluramine suppresses food intake in both animals and humans.
+OBJECTIVE: We have investigated the role of the 5-HT2C receptor in mediating the effect of d-fenfluramine on mouse food intake and the behavioural satiety sequence.
+METHODS: Mutant mice lacking serotonin 5-HT2C receptors and wild-type animals were habituated to a daily presentation of wet mash.
+Animals were non-deprived and received d-fenfluramine (3-30 mg/kg) 30 min prior to being assessed for the presence of stereotypy and presented with wet mash.
+The behaviour of animals was observed for the subsequent 40 min and food intake was recorded.
+RESULTS: d-Fenfluramine dose-dependently inhibited the consumption of a palatable wet mash by the mice.
+d-Fenfluramine (3 mg/kg) significantly reduced the amount of wet mash consumed by wild-type mice and induced a temporal advance in the behavioural satiety sequence consistent with an enhancement of satiety.
+Mutant mice were less sensitive to the satiating effects of 3 mg/kg d-fenfluramine.
+Hence, this dose of d-fenfluramine had a reduced effect on both food consumption and the behavioural satiety sequence in the 5-HT2C mutant mice.
+In contrast, mutant mice showed an increased sensitivity to the stereotypy induced by high doses of d-fenfluramine (10, 30 mg/kg) compared to that of wild-type littermates.
+CONCLUSION: These data demonstrate a role for the 5-HT2C receptor in mediating d-fenfluramine-induced satiety.

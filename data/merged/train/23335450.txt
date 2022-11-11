@@ -1,0 +1,11 @@
+TGF-β1 Conjugated to Gold Nanoparticles Results in Protein Conformational Changes and Attenuates the Biological Function.
+Gold nanoparticles (AuNPs) are widely used as carriers or therapeutic agents due to their great biocompatibility and unique physical properties.
+Transforming growth factor-beta 1 (TGF-β1), a member of the cysteine-knot structural superfamily, plays a pivotal role in many diseases and is known as an immunosuppressive agent that attenuates immune response resulting in tumor growth.
+The results reported herein reflect strong interactions between TGF-β1 and the surface of AuNPs when incubated with serum-containing medium, and demonstrate a time- and dose-dependent pattern.
+Compared with other serum proteins that can also bind to the AuNP surface, AuNP-TGFβ1 conjugate is a thermodynamically favored compound.
+Epithelial cells undergo epithelial-mesenchymal transition (EMT) upon treatment with TGF-β1; however, treatment with AuNPs reverses this effect, as detected by cell morphology and expression levels of EMT markers.
+TGF-β1 is found to bind to AuNPs through S-Au bonds by X-ray photoelectron spectroscopy.
+Fourier transform infrared spectroscopy is employed to analyze the conformational changes of TGF-β1 on the surface of AuNPs.
+The results indicate that TGF-β1 undergoes significant conformational changes at both secondary and tertiary structural levels after conjugation to the AuNP surface, which results in the deactivation of TGF-β1 protein.
+An in vivo experiment also shows that addition of AuNPs attenuates the growth of TGF-β1-secreting murine bladder tumor 2 cells in syngeneic C3H/HeN mice, but not in immunocompromised NOD-SCID mice, and this is associated with an increase in the number of tumor-infiltrating CD4(+) and CD8(+) T lymphocytes and a decrease in the number of intrasplenic Foxp3(+) lymphocytes.
+The findings demonstrate that AuNPs may be a promising agent for modulating tumor immunity through inhibiting immunosuppressive TGF-β1 signaling.

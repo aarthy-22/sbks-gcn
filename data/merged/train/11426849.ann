@@ -1,0 +1,28 @@
+T15	CHEMICAL 11 20	fenoterol
+T27	GENE-N 24 41	beta-adrenoceptor
+T28	GENE-Y 46 68	muscarinic M2 receptor
+T26	GENE-Y 191 209	beta2-adrenoceptor
+T1	CHEMICAL 218 227	fenoterol
+T7	CHEMICAL 267 279	isoprenaline
+T8	CHEMICAL 288 296	adenylyl
+T21	GENE-N 288 304	adenylyl cyclase
+T9	CHEMICAL 505 517	isoprenaline
+T10	CHEMICAL 565 577	methacholine
+T11	CHEMICAL 745 754	gallamine
+T22	GENE-Y 763 785	muscarinic M2 receptor
+T23	GENE-N 801 816	pertussis toxin
+T24	GENE-N 841 851	G(i alpha)
+T25	GENE-Y 853 875	muscarinic M2 receptor
+T12	CHEMICAL 930 942	isoprenaline
+T13	CHEMICAL 1009 1021	methacholine
+T14	CHEMICAL 1051 1060	fenoterol
+T16	GENE-Y 1131 1153	muscarinic M2 receptor
+T2	CHEMICAL 1186 1195	forskolin
+T3	CHEMICAL 1207 1215	adenylyl
+T17	GENE-N 1207 1223	adenylyl cyclase
+T4	CHEMICAL 1244 1253	fenoterol
+T5	CHEMICAL 1295 1304	fenoterol
+T18	GENE-Y 1356 1374	beta2-adrenoceptor
+T6	CHEMICAL 1428 1440	methacholine
+T19	GENE-N 1464 1481	beta-adrenoceptor
+T20	GENE-Y 1512 1534	muscarinic M2 receptor

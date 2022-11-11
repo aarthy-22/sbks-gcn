@@ -1,0 +1,10 @@
+The structure of serine palmitoyltransferase; gateway to sphingolipid biosynthesis.
+Sphingolipid biosynthesis commences with the condensation of L-serine and palmitoyl-CoA to produce 3-ketodihydrosphingosine (KDS).
+This reaction is catalysed by the PLP-dependent enzyme serine palmitoyltransferase (SPT; EC 2.3.1.50), which is a membrane-bound heterodimer (SPT1/SPT2) in eukaryotes such as humans and yeast and a cytoplasmic homodimer in the Gram-negative bacterium Sphingomonas paucimobilis.
+Unusually, the outer membrane of S. paucimobilis contains glycosphingolipid (GSL) instead of lipopolysaccharide (LPS), and SPT catalyses the first step of the GSL biosynthetic pathway in this organism.
+We report here the crystal structure of the holo-form of S. paucimobilis SPT at 1.3 A resolution.
+The enzyme is a symmetrical homodimer with two active sites and a monomeric tertiary structure consisting of three domains.
+The PLP cofactor is bound covalently to a lysine residue (Lys265) as an internal aldimine/Schiff base and the active site is composed of residues from both subunits, located at the bottom of a deep cleft.
+Models of the human SPT1/SPT2 heterodimer were generated from the bacterial structure by bioinformatics analysis.
+Mutations in the human SPT1-encoding subunit have been shown to cause a neuropathological disease known as hereditary sensory and autonomic neuropathy type I (HSAN1).
+Our models provide an understanding of how these mutations may affect the activity of the enzyme.

@@ -1,0 +1,7 @@
+Clinical pharmacology and pharmacogenetics of thiopurines.
+The thiopurine drugs-azathioprine (AZA), 6-mercaptopurine (6-MP), and thioguanine-are widely used to treat malignancies, rheumatic diseases, dermatologic conditions, inflammatory bowel disease, and solid organ transplant rejection.
+However, thiopurine drugs have a relatively narrow therapeutic index and are capable of causing life-threatening toxicity, most often myelosuppression.
+Thiopurine S-methyltransferase (TPMT; EC 2.1.1.67), an enzyme that catalyzes S-methylation of these drugs, exhibits a genetic polymorphism in 10% of Caucasians, with 1/300 individuals having complete deficiency.
+Patients with intermediate or deficient TPMT activity are at risk for excessive toxicity after receiving standard doses of thiopurine medications.
+This report reviews the recent advances in the knowledge of the mechanism of action as well as the molecular basis and interethnic variations of TPMT and inosine triphosphate pyrophosphatase (ITPase; EC 3.6.1.19), another enzyme implicated in thiopurine toxicity.
+In addition, an update on pharmacokinetics, metabolism, drug-drug interactions, safety, and tolerability of thiopurine drugs is provided.

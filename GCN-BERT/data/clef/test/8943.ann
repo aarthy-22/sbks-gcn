@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 23 118	4-Amino-5-cyano-6-((1-(1-methyl-4-oxo-2-phenyl-1,4-dihydroquinolin-3-yl)methyl)amino)pyrimidine
+T3	STARTING_MATERIAL 125 191	3-(1-aminoethyl)-1-methyl-2-phenylquinolin-4(1H)-one hydrochloride
+T4	SOLVENT 212 223	isopropanol
+T5	STARTING_MATERIAL 294 328	4-Amino-5-cyano-6-chloropyrimidine
+T6	REAGENT_CATALYST 351 370	potassium carbonate
+T7	TEMPERATURE 435 439	80°C
+T8	TEMPERATURE 475 481	reflux
+T9	TIME 486 488	5h
+T10	OTHER_COMPOUND 682 695	ethyl acetate
+T11	OTHER_COMPOUND 745 753	methanol
+T12	OTHER_COMPOUND 758 768	silica gel
+T13	YIELD_OTHER 879 884	0.79g
+T14	YIELD_PERCENT 931 936	68.5%

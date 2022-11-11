@@ -1,0 +1,7 @@
+Thymidylate kinase: an old topic brings new perspectives.
+Thymidylate kinase (TMPK) is a key enzyme for pyrimidine synthesis that catalyzes the phosphorylation of thymidine 5'-monophosphate (dTMP) in the presence of ATP and Mg(2+) to form thymidine 5'-diphosphate (dTDP), which is then converted to thymidine 5'-triphosphate (dTTP) by nucleoside-diphosphate kinase (NDK).
+TMPK has an important function in cell proliferation and its enzyme kinetics and related structures have been determined in various organisms.
+TMPK is well recognized as a potential drug target, with the most notable function being in the activation of anti-HIV nucleoside prodrugs.
+Recent studies have shown that TMPK is a validated target for antibiotic development against gram-positive bacterium of Staphylococcus aureus.
+In addition, inhibition of human TMPK increases the potential of anticancer agent doxorubicin toward colon cancer cells regardless of p53 status.
+Following the rapid expanding knowledge on TMPKs and the rising interests in TMPKs as a drug target, in this review we try to describe current research on TMPKs in various organisms of eukaryotes, prokaryotes and viruses and to provide information for designing new potential inhibitors against TMPKs.

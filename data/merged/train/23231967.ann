@@ -1,0 +1,11 @@
+T5	CHEMICAL 21 30	adenosine
+T11	GENE-Y 21 42	adenosine A3 receptor
+T6	CHEMICAL 58 69	methoxyaryl
+T7	CHEMICAL 90 127	N-(2,6-diarylpyrimidin-4-yl)acetamide
+T2	CHEMICAL 163 176	methoxyphenyl
+T4	CHEMICAL 206 243	N-(2,6-diarylpyrimidin-4-yl)acetamide
+T8	GENE-Y 297 320	A(3) adenosine receptor
+T1	CHEMICAL 302 311	adenosine
+T3	CHEMICAL 477 486	adenosine
+T9	GENE-N 477 496	adenosine receptors
+T10	GENE-Y 647 653	A(3)AR

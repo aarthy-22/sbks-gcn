@@ -1,0 +1,15 @@
+T12	GENE-Y 0 30	Gonadotropin-releasing hormone
+T4	GENE-Y 80 117	Luteinizing hormone-releasing hormone
+T7	GENE-Y 119 123	LHRH
+T5	GENE-Y 294 298	LHRH
+T6	GENE-N 343 345	LH
+T1	CHEMICAL 372 384	testosterone
+T8	GENE-Y 507 553	Gonadotropin-releasing hormone (GnRH) receptor
+T9	GENE-Y 635 648	GnRH receptor
+T10	GENE-Y 682 686	LHRH
+T2	CHEMICAL 848 860	testosterone
+T11	GENE-Y 885 889	LHRH
+T3	CHEMICAL 1052 1064	testosterone
+R0	NOT Arg1:T5 Arg2:T1
+R1	NOT Arg1:T6 Arg2:T1
+R2	NOT Arg1:T2 Arg2:T11

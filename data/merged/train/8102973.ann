@@ -1,0 +1,43 @@
+T21	CHEMICAL 0 8	Dopamine
+T35	GENE-Y 0 11	Dopamine D4
+T36	GENE-Y 19 30	D2 receptor
+T22	CHEMICAL 46 54	dopamine
+T37	GENE-N 46 63	dopamine receptor
+T7	CHEMICAL 116 124	dopamine
+T27	GENE-Y 116 136	dopamine D4 receptor
+T12	CHEMICAL 181 189	dopamine
+T33	GENE-Y 181 201	dopamine D2 receptor
+T4	CHEMICAL 272 281	clozapine
+T5	CHEMICAL 438 446	dopamine
+T25	GENE-Y 438 458	dopamine D4 receptor
+T6	CHEMICAL 470 478	dopamine
+T26	GENE-Y 470 490	dopamine D2 receptor
+T8	CHEMICAL 636 644	dopamine
+T28	GENE-Y 636 647	dopamine D2
+T29	GENE-Y 652 663	D4 receptor
+T9	CHEMICAL 700 709	clozapine
+T10	CHEMICAL 731 739	dopamine
+T30	GENE-Y 731 742	dopamine D4
+T31	GENE-Y 751 762	D2 receptor
+T11	CHEMICAL 804 812	dopamine
+T32	GENE-Y 804 824	dopamine D4 receptor
+T13	CHEMICAL 842 857	(+)-apomorphine
+T14	CHEMICAL 865 892	(+)-N-propyl-norapomorphine
+T15	CHEMICAL 909 918	melperone
+T16	CHEMICAL 974 982	dopamine
+T34	GENE-Y 974 994	dopamine D2 receptor
+T17	CHEMICAL 1000 1011	haloperidol
+T18	CHEMICAL 1020 1034	chlorpromazine
+T19	CHEMICAL 1044 1059	trifluoperazine
+T20	CHEMICAL 1072 1082	raclopride
+T1	CHEMICAL 1176 1184	dopamine
+T23	GENE-Y 1176 1196	dopamine D4 receptor
+T2	CHEMICAL 1220 1229	clozapine
+T3	CHEMICAL 1279 1287	dopamine
+T24	GENE-Y 1279 1299	dopamine D2 receptor
+R0	CPR-6 Arg1:T14 Arg2:T32
+R1	CPR-3 Arg1:T18 Arg2:T34
+R2	CPR-6 Arg1:T20 Arg2:T34
+R3	NOT Arg1:T35 Arg2:T22
+R4	NOT Arg1:T25 Arg2:T6
+R5	NOT Arg1:T2 Arg2:T24

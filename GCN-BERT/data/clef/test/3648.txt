@@ -1,0 +1,5 @@
+Example 73
+(E)-3-(3,5-difluoro-4-((1R,3R/1S,3S)-5-fluoro-2-(2-fluoro-2-methylpropyl)-3-methyl-1, 2,3,4-tetrahydrobenzofuro[2,3-c]pyridin-1-yl)phenyl)acrylic acid
+Step 1
+1-(4-fluorobenzofuran-3-yl)propan-2-one
+4-fluorobenzofuran-3(2H)-one 73a (500 mg, 3.29 mmol, prepared with a well-known method disclosed in "Journal of Medicinal Chemistry, 2011, 54(15), 5395-5402"), acetonyltriphenylphosphonium chloride (1.754 g, 4.93 mmol), and N,N-diisopropylethylamine (1.27 g, 9.87 mmol) were dissolved in 15 mL of dimethylbenzene. The reaction was warmed up to 140°C and stirred for 12 hours at 140°C, then the reaction was stopped. The reaction solution was cooled to room temperature and concentrated under reduced pressure. The residue was purified by CombiFlash flash preparation instrument with elution system B to obtain the title compound 1-(4-fluorobenzofuran-3-yl)propan-2-one 73b (350mg, yield 55%) as a light yellow solid.

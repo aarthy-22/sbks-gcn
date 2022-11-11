@@ -1,0 +1,39 @@
+T20	CHEMICAL 0 3	ATP
+T33	GENE-Y 0 35	ATP-binding cassette transporter A1
+T21	CHEMICAL 59 75	alpha-tocopherol
+T1	CHEMICAL 87 96	Vitamin E
+T3	CHEMICAL 98 114	alpha-tocopherol
+T18	CHEMICAL 182 198	alpha-Tocopherol
+T32	GENE-Y 182 215	alpha-Tocopherol transfer protein
+T24	GENE-Y 217 226	alpha-TTP
+T9	CHEMICAL 287 296	vitamin E
+T10	CHEMICAL 359 375	alpha-tocopherol
+T11	CHEMICAL 412 428	alpha-tocopherol
+T12	CHEMICAL 486 502	alpha-tocopherol
+T13	CHEMICAL 595 611	alpha-tocopherol
+T14	CHEMICAL 705 721	alpha-tocopherol
+T15	CHEMICAL 770 800	[(3)H]alpha-tocopheryl acetate
+T16	CHEMICAL 841 857	alpha-tocopherol
+T26	GENE-Y 841 874	alpha-tocopherol transfer protein
+T27	GENE-Y 876 885	alpha-TTP
+T28	GENE-Y 944 962	apolipoprotein A-I
+T29	GENE-Y 964 970	apoA-I
+T17	CHEMICAL 998 1001	ATP
+T30	GENE-Y 998 1033	ATP-binding cassette transporter A1
+T31	GENE-Y 1035 1040	ABCA1
+T19	CHEMICAL 1069 1085	alpha-tocopherol
+T2	CHEMICAL 1132 1140	probucol
+T22	GENE-Y 1203 1208	ABCA1
+T4	CHEMICAL 1225 1241	alpha-tocopherol
+T23	GENE-Y 1260 1265	ABCA1
+T5	CHEMICAL 1290 1306	alpha-tocopherol
+T6	CHEMICAL 1364 1372	probucol
+T7	CHEMICAL 1402 1418	alpha-tocopherol
+T25	GENE-Y 1471 1476	ABCA1
+T8	CHEMICAL 1514 1530	alpha-tocopherol
+R0	CPR-9 Arg1:T10 Arg2:T24
+R1	CPR-9 Arg1:T11 Arg2:T24
+R2	CPR-9 Arg1:T19 Arg2:T31
+R3	CPR-4 Arg1:T2 Arg2:T22
+R4	NOT Arg1:T32 Arg2:T9
+R5	NOT Arg1:T15 Arg2:T27

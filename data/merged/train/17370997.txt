@@ -1,0 +1,8 @@
+Direct identification of nonreducing GlcNAc residues on N-glycans of glycoproteins using a novel chemoenzymatic method.
+The mutant beta1,4-galactosyltransferase (beta4Gal-T1), beta4Gal-T1-Y289L, in contrast to wild-type beta4Gal-T1, can transfer GalNAc from the sugar donor UDP-GalNAc to the acceptor, GlcNAc, with efficiency as good as that of galactose from UDP-Gal.
+Furthermore, the mutant can also transfer a modified sugar, C2 keto galactose, from its UDP derivative to O-GlcNAc modification on proteins that provided a functional handle for developing a highly sensitive chemoenzymatic method for detecting O-GlcNAc post-translational modification on proteins.
+We report herein that the modified sugar, C2 keto galactose, can be transferred to free GlcNAc residues on N-linked glycoproteins, such as ovalbumin or asialo-agalacto IgG1.
+The transfer is strictly dependent on the presence of both the mutant enzyme and the ketone derivative of the galactose.
+Moreover, the PNGase F treatment of the glycoproteins, which cleaves the N-linked oligosaccharide chain, shows that the modified sugar has been transferred to the N-glycan chains of the glycoproteins and not to the protein portion.
+The application of the mutant galactosyltransferase, beta4Gal-T1-Y289L, to produce glycoconjugates carrying sugar moieties with reactive groups, is demonstrated.
+We envision a broad potential for this technology such as the possibilities to link cargo molecules to glycoproteins, such as monoclonal antibodies, via glycan chains, thereby assisting in the glycotargeting of drugs to the site of action or used as biological probes.

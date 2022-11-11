@@ -1,0 +1,22 @@
+T20	GENE-Y 18 30	AT1-receptor
+T18	CHEMICAL 40 61	candesartan cilexetil
+T21	GENE-Y 71 74	ACE
+T19	CHEMICAL 86 96	lisinopril
+T17	CHEMICAL 133 152	hydrochlorothiazide
+T8	CHEMICAL 195 216	candesartan cilexetil
+T13	CHEMICAL 221 231	lisinopril
+T16	CHEMICAL 258 277	hydrochlorothiazide
+T11	CHEMICAL 550 571	candesartan cilexetil
+T12	CHEMICAL 572 591	hydrochlorothiazide
+T14	CHEMICAL 627 637	lisinopril
+T15	CHEMICAL 638 657	hydrochlorothiazide
+T1	CHEMICAL 1325 1335	lisinopril
+T2	CHEMICAL 1527 1537	lisinopril
+T3	CHEMICAL 1562 1583	candesartan cilexetil
+T4	CHEMICAL 1630 1651	candesartan cilexetil
+T5	CHEMICAL 1656 1675	hydrochlorothiazide
+T6	CHEMICAL 1690 1700	lisinopril
+T7	CHEMICAL 1705 1724	hydrochlorothiazide
+T9	CHEMICAL 1830 1851	candesartan cilexetil
+T10	CHEMICAL 1893 1903	lisinopril
+R0	NOT Arg1:T20 Arg2:T17

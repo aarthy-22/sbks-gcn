@@ -1,0 +1,14 @@
+Tyrosine hydroxylase binds tetrahydrobiopterin cofactor with negative cooperativity, as shown by kinetic analyses and surface plasmon resonance detection.
+Kinetic studies of tetrameric recombinant human tyrosine hydroxylase isoform 1 (hTH1) have revealed properties so far not reported for this enzyme.
+Firstly, with the natural cofactor (6R)-Lerythro-5,6,7, 8-tetrahydrobiopterin (H4biopterin) a time-dependent change (burst) in enzyme activity was observed, with a half-time of about 20 s for the kinetic transient.
+Secondly, nonhyperbolic saturation behaviour was found for H4biopterin with a pronounced negative cooperativity (0.39 < h < 0.58; [S]0.5 = 24 +/- 4 microM).
+On phosphorylation of Ser40 by protein kinase A, the affinity for H4biopterin increased ([S]0.5 = 11 +/- 2 microM) and the negative cooperativity was amplified (h = 0.27 +/- 0.03).
+The dimeric C-terminal deletion mutant (Delta473-528) of hTH1 also showed negative cooperativity of H4biopterin binding (h = 0.4).
+Cooperativity was not observed with the cofactor analogues 6-methyl-5,6,7,8-tetrahydropterin (h = 0.9 +/- 0.1; Km = 62.7 +/- 5.7 microM) and 3-methyl-5,6,7, 8-tetrahydropterin (H43-methyl-pterin)(h = 1.0 +/- 0.1; Km = 687 +/- 50 microM).
+In the presence of 1 mM H43-methyl-pterin, used as a competitive cofactor analogue to BH4, hyperbolic saturation curves were also found for H4biopterin (h = 1.0), thus confirming the genuine nature of the kinetic negative cooperativity.
+This cooperativity was confirmed by real-time biospecific interaction analysis by surface plasmon resonance detection.
+The equilibrium binding of H4biopterin to the immobilized iron-free apoenzyme results in a saturable positive resonance unit (DeltaRU) response with negative cooperativity (h = 0.52-0.56).
+Infrared spectroscopic studies revealed a reduced thermal stability both of the apo-and the holo-hTH1 on binding of H4biopterin and Lerythro-dihydrobiopterin (H2biopterin).
+Moreover, the ligand-bound forms of the enzyme also showed a decreased resistance to limited tryptic proteolysis.
+These findings indicate that the binding of H4biopterin at the active site induces a destabilizing conformational change in the enzyme which could be related to the observed negative cooperativity.
+Thus, our studies provide new insight into the regulation of TH by the concentration of H4biopterin which may have significant implications for the physiological regulation of catecholamine biosynthesis in neuroendocrine cells.

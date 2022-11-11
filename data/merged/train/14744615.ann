@@ -1,0 +1,39 @@
+T25	GENE-Y 0 6	5-HT1B
+T26	GENE-N 21 46	alpha 2A/2C-adrenoceptors
+T15	CHEMICAL 92 109	dihydroergotamine
+T1	CHEMICAL 111 128	Dihydroergotamine
+T24	GENE-N 204 225	5-HT(1B/1D) receptors
+T19	GENE-N 230 252	alpha(2)-adrenoceptors
+T4	CHEMICAL 362 379	dihydroergotamine
+T5	CHEMICAL 595 603	SB224289
+T20	GENE-Y 605 613	5-HT(1B)
+T6	CHEMICAL 615 765	2,3,6,7-tetrahydro-1'-methyl-5-[2'-methyl-4' (5-methyl-1,2,4-oxadiazol-3-yl)biphenyl-4-carbonyl]furo[2,3-f]indole-3-spiro-4'-p iperidine hydrochloride
+T7	CHEMICAL 768 779	rauwolscine
+T21	GENE-N 781 789	alpha(2)
+T8	CHEMICAL 792 800	BRL44408
+T22	GENE-Y 802 811	alpha(2A)
+T9	CHEMICAL 813 878	2-[2H-(1-methyl-1,3-dihydroisoindole)methyl]-4,5-dihydroimidazole
+T10	CHEMICAL 883 888	MK912
+T23	GENE-N 890 899	alpha(2C)
+T11	CHEMICAL 901 1016	(2S,12bS)-1'3'-dimethylspiro(1,3,4,5',6,6',7,12b-octahydro-2Hbenzo[b]furo[2,3-a]q uinazoline)-2,4'-pyrimidin-2'-one
+T12	CHEMICAL 1046 1054	SB224289
+T13	CHEMICAL 1060 1071	rauwolscine
+T14	CHEMICAL 1098 1106	BRL15572
+T2	CHEMICAL 1118 1204	1-(3-chlorophenyl)-4-[3,3-diphenyl (2-(S,R) hydroxypropanyl) piperazine] hydrochloride
+T3	CHEMICAL 1209 1217	imiloxan
+T16	GENE-Y 1219 1228	alpha(2B)
+T17	GENE-Y 1270 1278	5-HT(1B)
+T18	GENE-N 1293 1319	alpha(2A/2C)-adrenoceptors
+R0	CPR-6 Arg1:T9 Arg2:T23
+R1	CPR-6 Arg1:T3 Arg2:T16
+R2	NOT Arg1:T20 Arg2:T13
+R3	NOT Arg1:T6 Arg2:T23
+R4	NOT Arg1:T6 Arg2:T16
+R5	NOT Arg1:T7 Arg2:T22
+R6	NOT Arg1:T22 Arg2:T12
+R7	NOT Arg1:T22 Arg2:T14
+R8	NOT Arg1:T9 Arg2:T16
+R9	NOT Arg1:T10 Arg2:T16
+R10	NOT Arg1:T23 Arg2:T12
+R11	NOT Arg1:T23 Arg2:T3
+R12	NOT Arg1:T11 Arg2:T16

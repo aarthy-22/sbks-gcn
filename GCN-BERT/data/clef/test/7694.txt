@@ -1,0 +1,4 @@
+Example 85
+6-(6-Methanesulfinyl-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+5-Methyl-6-(6-methylsulfanyl-pyridin-2-ylmethyl)-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (example 16) (200 mg, 0.70 mmol) is dissolved in 10 mL dichloromethane. 3-chloroperoxybenzoic acid (274.5 mg, 1.60 mmol) is added and the mixture is stirred at room temperature for 30 minutes. The reaction mixture is concentrated under reduced pressure and the residue is purified by RP-HPLC (modifier: ammonium hydroxide).
+Yield: 75 mg (35% of theory)

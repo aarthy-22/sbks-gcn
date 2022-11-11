@@ -1,0 +1,8 @@
+T1	CHEMICAL 334 342	tyrosine
+T3	GENE-N 334 349	tyrosine kinase
+T4	GENE-N 351 354	Trk
+T5	GENE-N 563 575	Trk receptor
+T6	GENE-N 891 894	Trk
+T7	GENE-N 895 901	kinase
+T8	GENE-N 965 969	TrkA
+T2	CHEMICAL 975 987	lestaurtinib

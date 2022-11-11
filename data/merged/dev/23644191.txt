@@ -1,0 +1,7 @@
+Designing, structural elucidation, comparison of DNA binding, cleavage, radical scavenging activity and anticancer activity of copper(I) complex with 5-dimethyl-2-phenyl-4-[(pyridin-2-ylmethylene)-amino]-1,2-dihydro-pyrazol-3-one Schiff base ligand.
+A novel copper(I) Schiff base complex has been synthesized and fully characterized by spectral, analytical and structural modes.
+Single crystal X-ray diffraction studies revealed that the copper(I) complex [CuCl(PPh3)L] has a distorted tetrahedral geometry around the central copper(I) ion.
+The interaction of the ligand and the complex with CT-DNA has been explored by absorption titration method which revealed that the compounds could interact with CT-DNA through intercalation.
+A gel electrophoresis assay demonstrated the ability of the complex to cleave the pBR322 DNA.
+The antioxidative properties showed that the copper(I) complex has a strong radical-scavenging potency than ligands.
+Further the cytotoxic effect of the compounds examined on cancerous cell lines showed that the complex exhibited substantial anticancer activity.

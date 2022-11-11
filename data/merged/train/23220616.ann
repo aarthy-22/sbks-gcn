@@ -1,0 +1,33 @@
+T27	CHEMICAL 22 40	sulfur amino acids
+T23	CHEMICAL 140 158	sulfur amino acids
+T4	CHEMICAL 168 185	sulfur amino acid
+T8	CHEMICAL 235 245	methionine
+T31	GENE-Y 317 355	betaine homocysteine methyltransferase
+T9	CHEMICAL 325 337	homocysteine
+T10	CHEMICAL 395 405	methionine
+T11	CHEMICAL 433 439	sulfur
+T12	CHEMICAL 451 461	methionine
+T13	CHEMICAL 485 505	S-adenosylmethionine
+T14	CHEMICAL 507 519	homocysteine
+T15	CHEMICAL 521 529	cysteine
+T16	CHEMICAL 535 546	hypotaurine
+T17	CHEMICAL 581 603	S-adenosylhomocysteine
+T18	CHEMICAL 605 615	putrescine
+T19	CHEMICAL 621 631	spermidine
+T20	CHEMICAL 696 706	methionine
+T32	GENE-Y 696 732	methionine adenosyltransferase I/III
+T21	CHEMICAL 737 757	S-adenosylmethionine
+T22	CHEMICAL 846 855	polyamine
+T24	CHEMICAL 905 915	methionine
+T25	CHEMICAL 975 995	S-adenosylmethionine
+T26	CHEMICAL 1007 1019	homocysteine
+T1	CHEMICAL 1087 1097	methionine
+T28	GENE-Y 1126 1164	betaine homocysteine methyltransferase
+T2	CHEMICAL 1134 1146	homocysteine
+T3	CHEMICAL 1166 1177	Glutathione
+T5	CHEMICAL 1231 1249	γ-glutamylcysteine
+T29	GENE-Y 1231 1256	γ-glutamylcysteine ligase
+T6	CHEMICAL 1289 1300	hypotaurine
+T7	CHEMICAL 1346 1354	cysteine
+T30	GENE-Y 1346 1366	cysteine dioxygenase
+R0	NOT Arg1:T3 Arg2:T29

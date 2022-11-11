@@ -1,0 +1,25 @@
+T16	CHEMICAL 58 68	gentamicin
+T17	CHEMICAL 72 86	aminoglycoside
+T25	GENE-N 72 103	aminoglycoside binding receptor
+T14	CHEMICAL 190 205	aminoglycosides
+T4	CHEMICAL 243 257	aminoglycoside
+T8	CHEMICAL 320 330	gentamicin
+T9	CHEMICAL 423 433	gentamicin
+T20	GENE-Y 517 524	megalin
+T10	CHEMICAL 586 601	aminoglycosides
+T21	GENE-Y 603 615	cytochrome c
+T11	CHEMICAL 635 645	gentamicin
+T22	GENE-Y 714 726	cytochrome c
+T12	CHEMICAL 730 740	gentamicin
+T23	GENE-Y 807 814	megalin
+T13	CHEMICAL 829 839	gentamicin
+T24	GENE-Y 983 995	cytochrome c
+T15	CHEMICAL 1097 1107	gentamicin
+T1	CHEMICAL 1136 1146	gentamicin
+T2	CHEMICAL 1214 1224	gentamicin
+T18	GENE-Y 1277 1316	neural Wiskott-Aldrich syndrome protein
+T19	GENE-Y 1318 1324	N-WASP
+T3	CHEMICAL 1374 1389	aminoglycosides
+T5	CHEMICAL 1401 1411	gentamicin
+T6	CHEMICAL 1542 1556	aminoglycoside
+T7	CHEMICAL 1621 1635	aminoglycoside

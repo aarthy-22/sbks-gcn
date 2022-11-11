@@ -1,0 +1,53 @@
+T37	CHEMICAL 11 23	progestagens
+T29	CHEMICAL 133 145	progestagens
+T12	CHEMICAL 228 240	progesterone
+T40	GENE-N 228 274	progesterone, androgen and oestrogen receptors
+T15	CHEMICAL 242 250	androgen
+T16	CHEMICAL 255 264	oestrogen
+T19	CHEMICAL 310 322	progestagens
+T20	CHEMICAL 331 343	progesterone
+T42	GENE-Y 331 353	progesterone receptors
+T21	CHEMICAL 417 429	progesterone
+T43	GENE-Y 417 439	progesterone receptors
+T22	CHEMICAL 511 523	progesterone
+T44	GENE-Y 511 532	progesterone receptor
+T23	CHEMICAL 601 619	3-keto-desogestrel
+T24	CHEMICAL 645 656	desogestrel
+T25	CHEMICAL 666 678	progesterone
+T45	GENE-Y 666 687	progesterone receptor
+T26	CHEMICAL 728 742	levonorgestrel
+T27	CHEMICAL 747 755	Org 2058
+T28	CHEMICAL 777 805	medroxy-progesterone acetate
+T30	CHEMICAL 807 810	MPA
+T31	CHEMICAL 831 845	norethisterone
+T32	CHEMICAL 866 878	progesterone
+T33	CHEMICAL 883 902	cyproterone acetate
+T34	CHEMICAL 976 985	molybdate
+T35	CHEMICAL 1022 1040	3-keto-desogestrel
+T36	CHEMICAL 1045 1053	Org 2058
+T1	CHEMICAL 1106 1124	3-keto-desogestrel
+T2	CHEMICAL 1197 1209	progesterone
+T38	GENE-Y 1197 1218	progesterone receptor
+T3	CHEMICAL 1261 1279	3-keto-desogestrel
+T39	GENE-Y 1288 1305	androgen receptor
+T4	CHEMICAL 1345 1359	levonorgestrel
+T5	CHEMICAL 1380 1394	norethisterone
+T6	CHEMICAL 1399 1426	medroxyprogesterone acetate
+T7	CHEMICAL 1428 1431	MPA
+T8	CHEMICAL 1478 1490	progestagens
+T9	CHEMICAL 1579 1588	molybdate
+T10	CHEMICAL 1654 1666	progestagens
+T11	CHEMICAL 1722 1734	progestagens
+T13	CHEMICAL 1762 1775	norethinodrel
+T14	CHEMICAL 1836 1845	oestrogen
+T41	GENE-Y 1836 1854	oestrogen receptor
+T17	CHEMICAL 2006 2018	progestagens
+T18	CHEMICAL 2076 2085	molybdate
+R0	NOT Arg1:T29 Arg2:T40
+R1	NOT Arg1:T19 Arg2:T43
+R2	NOT Arg1:T23 Arg2:T45
+R3	NOT Arg1:T45 Arg2:T26
+R4	NOT Arg1:T45 Arg2:T30
+R5	NOT Arg1:T45 Arg2:T31
+R6	NOT Arg1:T39 Arg2:T4
+R7	NOT Arg1:T13 Arg2:T41

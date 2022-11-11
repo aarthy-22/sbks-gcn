@@ -1,0 +1,8 @@
+3-Hydroxypyridin-2-thione as Novel Zinc Binding Group for Selective Histone Deacetylase Inhibition.
+Small molecules bearing hydroxamic acid as the zinc binding group (ZBG) have been the most effective histone deacetylase inhibitors (HDACi) to date.
+However, concerns about the pharmacokinetic liabilities of the hydroxamic acid moiety have stimulated research efforts aimed at finding alternative nonhydroxamate ZBGs.
+We have identified 3-hydroxypyridin-2-thione (3-HPT) as a novel ZBG that is compatible with HDAC inhibition.
+3-HPT inhibits HDAC 6 and HDAC 8 with an IC50 of 681 and 3675 nM, respectively.
+Remarkably, 3-HPT gives no inhibition of HDAC 1.
+Subsequent optimization led to several novel 3HPT-based HDACi that are selective for HDAC 6 and HDAC 8.
+Furthermore, a subset of these inhibitors induces apoptosis in various cancer cell lines.

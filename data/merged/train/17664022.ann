@@ -1,0 +1,35 @@
+T21	CHEMICAL 40 49	clonidine
+T22	CHEMICAL 55 68	oxymetazoline
+T10	CHEMICAL 145 154	clonidine
+T26	GENE-N 170 189	alpha2-adrenoceptor
+T18	CHEMICAL 203 216	oxymetazoline
+T30	GENE-Y 218 238	alpha2A-adrenoceptor
+T11	CHEMICAL 405 418	oxymetazoline
+T12	CHEMICAL 483 492	clonidine
+T25	GENE-N 584 591	insulin
+T13	CHEMICAL 615 624	clonidine
+T14	CHEMICAL 657 670	oxymetazoline
+T15	CHEMICAL 766 775	clonidine
+T27	GENE-N 813 832	alpha2-adrenoceptor
+T16	CHEMICAL 844 853	yohimbine
+T28	GENE-Y 884 904	alpha2A-adrenoceptor
+T17	CHEMICAL 926 935	BRL 44408
+T19	CHEMICAL 973 986	oxymetazoline
+T20	CHEMICAL 1016 1024	Prazosin
+T29	GENE-N 1026 1058	alpha1- and alpha2B-adrenoceptor
+T1	CHEMICAL 1137 1150	oxymetazoline
+T23	GENE-N 1257 1277	muscarinic receptors
+T2	CHEMICAL 1300 1309	carbachol
+T3	CHEMICAL 1339 1352	hexamethonium
+T4	CHEMICAL 1377 1386	clonidine
+T5	CHEMICAL 1467 1480	oxymetazoline
+T6	CHEMICAL 1634 1643	clonidine
+T7	CHEMICAL 1648 1661	oxymetazoline
+T8	CHEMICAL 1669 1678	clonidine
+T24	GENE-N 1737 1757	alpha2-adrenoceptors
+T9	CHEMICAL 1799 1812	oxymetazoline
+R0	CPR-5 Arg1:T15 Arg2:T27
+R1	CPR-6 Arg1:T17 Arg2:T28
+R2	CPR-4 Arg1:T5 Arg2:T23
+R3	NOT Arg1:T10 Arg2:T30
+R4	NOT Arg1:T25 Arg2:T13

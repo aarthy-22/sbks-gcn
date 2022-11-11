@@ -1,0 +1,7 @@
+The role of renal chloride channel mutations in kidney stone disease and nephrocalcinosis.
+Recent advances in molecular biology have characterised a new class of chloride channels (CLCs) that are referred to as voltage-gated CLCs.
+To date nine such voltage-gated CLCs (CLC-1 to CLC-7, CLC-Ka and CLC-Kb, which are encoded by the genes CLCN1 to CLCN7, CLC-Ka and CLC-Kb, respectively) have been identified in mammals.
+Mutations in two of these, CLC-5 and CLC-Kb, have been defined in the hypercalciuric nephrolithiasis disorders of Dent's disease and a form of Bartter's syndrome, respectively.
+In addition, other forms of Bartter's syndrome have been defined with mutations involving the bumetanide-sensitive sodium-potassium-chloride cotransporter (NKCC2) and the potassium channel ROMK.
+Finally, mutations of the thiazide-sensitive sodium-chloride cotransporter (NCCT) are associated with Gitelman's syndrome, in which hypocalciuria and hypomagnesaemia are notable features.
+These molecular genetic studies have increased our understanding of the renal tubular mechanisms that regulate mineral homeostasis.

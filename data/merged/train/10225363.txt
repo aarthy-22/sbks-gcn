@@ -1,0 +1,9 @@
+Both 5-HT1B and 5-HT1F receptors modulate c-fos expression within rat trigeminal nucleus caudalis.
+A possible mechanism of action of antimigraine drugs such as sumatriptan is inhibition of the trigeminovascular pathway.
+Sumatriptan's effects might be mediated by 5-HT1B, 5-HT1D or 5-HT1F receptors.
+To establish the relative importance of these subtypes, we compared the effects of sumatriptan with those of a selective 5-HT1F receptor agonist (LY 344864) on c-fos protein expression in the trigeminal nucleus caudalis.
+c-fos expression was induced in urethane-anaesthetized rats by intracisternal capsaicin administration.
+Sumatriptan and LY 344864 decreased the number of capsaicin-induced c-fos-like immunoreactive cells within trigeminal nucleus caudalis (ID50 = 0.04 and 0.6 mg kg(-1)).
+The effect of sumatriptan, but not of LY 344864, was prevented by pretreatment with the antagonist SDZ 21-009, which displays high affinity for rat 5-HT1B receptors.
+LY 344864 appears to attenuate c-fos-like immunoreactivity via 5-HT1F receptors, while sumatriptan acts via 5-HT1B receptors.
+The fact that activation of 5-HT1F receptors is sufficient to modulate the activity of the trigeminal system suggests that this receptor may be a target for antimigraine drugs with improved safety profile.

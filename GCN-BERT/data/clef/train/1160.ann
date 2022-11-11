@@ -1,0 +1,15 @@
+T0	REACTION_PRODUCT 11 162	5-(3-chloro-2-fluorophenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T1	STARTING_MATERIAL 259 390	5-bromo-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T2	REACTION_PRODUCT 509 660	5-(3-chloro-2-fluorophenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T3	EXAMPLE_LABEL 8 10	29
+T4	YIELD_OTHER 494 499	65 mg
+T8	REACTION_STEP 664 672	obtained
+T5	YIELD_PERCENT 501 504	57%
+T9	REACTION_STEP 224 232	starting
+T6	REACTION_PRODUCT 196 198	29
+T7	STARTING_MATERIAL 456 492	3-chloro-2-fluorophenyl boronic acid
+R0	ARGM Arg1:T8 Arg2:T5
+R1	ARGM Arg1:T8 Arg2:T4
+R2	ARG1 Arg1:T8 Arg2:T2
+R3	ARG1 Arg1:T9 Arg2:T1
+R4	ARG1 Arg1:T9 Arg2:T7

@@ -1,0 +1,9 @@
+Promoter polymorphisms regulating corticotrophin-releasing hormone transcription in vitro.
+To investigate whether polymorphisms in the corticotrophin-releasing hormone (CRH) promoter are associated with altered CRH gene regulation, we studied the reactivity of three recently described promoter variants in vitro.
+The 3625 bp variants A1B1, A2B1 and A2B2 of the human CRH promoter were cloned in the 5' region to a luciferase reporter gene and transiently transfected into both mouse anterior pituitary cells AtT-20D16vF2 and pheochromocytoma cells PC12.
+Incubation with 8-Br-cAMP alone or in combination with cytokines significantly enhanced the promoter activity in both cell lines studied by up to 22-fold.
+However, dexamethasone antagonised cAMP effects on CRH expression in AtT-20 cells while showing no effect on PC12 cells, indicating that tissue-specific factors play a crucial role.
+Among the haplotypes studied, A1B1 exhibited the greatest reactivity on various stimuli.
+Electric mobility shift assay (EMSA) was performed to study whether the described polymorphic nucleotide sequences in the 5' region of the hCRH gene interfere with binding of nuclear proteins.
+A specific DNA protein complex was detected at position -2353 bp for the wild type sequence only, possibly interfering with a binding site for the activating transcription factor 6 (ATF6).
+Taken together, this is the first study to demonstrate that CRH promoter reactivity varies between the compound promoter alleles.

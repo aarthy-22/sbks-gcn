@@ -1,0 +1,3 @@
+Preparation Example 3 Preparation of Compound 3
+9.46 g of Compound 3 was prepared in the same manner as in Preparation Example 1, except that Compound A (10 g, 31.53 mmol) and para-bromobenzene-D5 (4.59 g, 34.69 mmol) were used. (75%)
+MS[M+H]+=399

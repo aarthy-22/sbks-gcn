@@ -1,0 +1,12 @@
+T8	CHEMICAL 18 45	sulfonylphosphoramidic acid
+T11	GENE-Y 65 70	COX-2
+T9	CHEMICAL 91 100	cimicoxib
+T7	CHEMICAL 122 133	sulfonamide
+T5	CHEMICAL 210 225	phosphoramidate
+T10	GENE-Y 245 250	COX-2
+T1	CHEMICAL 271 280	cimicoxib
+T2	CHEMICAL 304 331	sulfonylphosphoramidic acid
+T3	CHEMICAL 670 690	phosphoramidic acids
+T4	CHEMICAL 711 722	sulfonamido
+T6	CHEMICAL 926 934	UR-14048
+R0	CPR-4 Arg1:T1 Arg2:T10

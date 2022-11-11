@@ -1,0 +1,17 @@
+T17	GENE-N 12 53	alpha 1- and alpha 2-adrenergic receptors
+T12	GENE-N 59 79	adrenergic receptors
+T14	GENE-N 114 141	G protein-coupled receptors
+T8	GENE-N 174 222	adrenergic receptors: alpha 1, alpha 2, and beta
+T11	GENE-N 303 354	alpha 1-adrenergic receptors, alpha 1A and alpha 1B
+T3	CHEMICAL 448 454	WB4101
+T4	CHEMICAL 459 471	phentolamine
+T5	CHEMICAL 505 525	chloroethylclonidine
+T6	CHEMICAL 630 637	calcium
+T13	GENE-N 630 645	calcium channel
+T15	GENE-Y 659 676	alpha 1B receptor
+T7	CHEMICAL 724 746	inositol trisphosphate
+T16	GENE-N 895 922	alpha 2-adrenergic receptor
+T1	CHEMICAL 1265 1274	adenylate
+T9	GENE-N 1265 1282	adenylate cyclase
+T2	CHEMICAL 1313 1317	cAMP
+T10	GENE-N 1325 1352	alpha 2-adrenergic receptor

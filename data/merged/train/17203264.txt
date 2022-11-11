@@ -1,0 +1,10 @@
+Fluorescent sensing layer for the determination of L-malic acid in wine.
+An enzymatic method for determining L-malic acid in wine based on an L-malate sensing layer with nicotinamide adenine dinucleotide (NAD+), L-malate dehydrogenase (L-MDH) and diaphorase (DI), immobilized by sol-gel technology, was constructed and evaluated.
+The sol-gel glass was prepared with tetramethoxysilane (TMOS), water and HCl.
+L-MDH catalyzes the reaction between L-malate and NAD+, producing NADH, whose fluorescence (lambdaexc=340 nm, lambdaem=430 nm) could be directly related to the amount of L-malate.
+NADH is converted to NAD+ by applying hexacyanoferrate(III) as oxidant in the presence of DI.
+Some parameters affecting sol-gel encapsulation and the pH of the enzymatic reaction were studied.
+The sensing layer has a dynamic range of 0.1-1.0 g/L of L-malate and a long-term storage stability of 25 days.
+It exhibits acceptable reproducibility [sr(%) approximately 10] and allows six regenerations.
+The content of L-malic acid was determined for different types of wine, and polyvinylpolypyrrolidone (PVPP) was used as a bleaching agent with red wine.
+The results obtained for the wine samples using the sensing layer are comparable to those obtained from a reference method based on UV-vis molecular absorption spectrometry, if the matrix effect is corrected for.

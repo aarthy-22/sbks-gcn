@@ -1,0 +1,17 @@
+T12	CHEMICAL 65 81	cyclophosphamide
+T13	CHEMICAL 93 106	roxithromycin
+T3	CHEMICAL 236 252	cyclophosphamide
+T4	CHEMICAL 421 437	cyclophosphamide
+T5	CHEMICAL 469 482	roxithromycin
+T6	CHEMICAL 690 706	cyclophosphamide
+T7	CHEMICAL 742 755	roxithromycin
+T14	GENE-Y 765 771	CYP3A4
+T8	CHEMICAL 796 812	cyclophosphamide
+T9	CHEMICAL 891 904	roxithromycin
+T15	GENE-N 945 959	P-glycoprotein
+T10	CHEMICAL 997 1013	cyclophosphamide
+T11	CHEMICAL 1057 1073	cyclophosphamide
+T1	CHEMICAL 1113 1126	roxithromycin
+T2	CHEMICAL 1231 1247	cyclophosphamide
+R0	CPR-4 Arg1:T9 Arg2:T15
+R1	CPR-9 Arg1:T10 Arg2:T15

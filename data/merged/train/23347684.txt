@@ -1,0 +1,4 @@
+Synthesis of 2-aminomethyl-4-phenyl-1-azabicyclo[2.2.1]heptanes via LiAlH₄-induced reductive cyclization of 2-(4-chloro-2-cyano-2-phenylbutyl)aziridines and evaluation of their antimalarial activity.
+2-(4-Chloro-2-cyano-2-phenylbutyl)aziridines were employed for the one-step stereoselective construction of both endo- and exo-2-aminomethyl-4-phenyl-1-azabicyclo[2.2.1]heptanes as new azaheterobicyclic scaffolds via a double LiAlH(4)-induced reductive cyclization protocol.
+Antiplasmodial assessment of these 1-azabicyclo[2.2.1]heptanes revealed moderate to good activities in the micromolar range, with the exo-isomers being the most promising structures.
+Furthermore, the proposed mode of action was supported by ligand docking studies, pointing to a strong binding interaction with the enzyme plasmepsin II.

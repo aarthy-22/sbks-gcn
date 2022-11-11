@@ -1,0 +1,25 @@
+T12	CHEMICAL 48 84	N-acetylglucosamine-1-phosphodiester
+T23	GENE-Y 48 114	N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase
+T13	CHEMICAL 91 92	N
+T1	CHEMICAL 116 152	N-Acetylglucosamine-1-phosphodiester
+T14	GENE-Y 116 182	N-Acetylglucosamine-1-phosphodiester alpha-N-Acetylglucosaminidase
+T9	CHEMICAL 159 160	N
+T20	GENE-Y 184 195	EC 3.1.4.45
+T22	GENE-Y 197 227	phosphodiester alpha-GlcNAcase
+T8	CHEMICAL 279 298	mannose 6-phosphate
+T18	GENE-Y 453 483	phosphodiester alpha-GlcNAcase
+T19	GENE-Y 576 606	phosphodiester alpha-GlcNAcase
+T21	GENE-Y 804 834	phosphodiester alpha-GlcNAcase
+T10	CHEMICAL 878 922	[3H]GlcNAc-alpha-phosphomannose-alpha-methyl
+T11	CHEMICAL 968 1012	[3H]GlcNAc-alpha-phosphomannose-alpha-methyl
+T2	CHEMICAL 1143 1146	SDS
+T3	CHEMICAL 1147 1161	polyacrylamide
+T4	CHEMICAL 1244 1258	phosphodiester
+T15	GENE-Y 1244 1274	phosphodiester alpha-GlcNAcase
+T5	CHEMICAL 1365 1374	disulfide
+T6	CHEMICAL 1563 1568	amino
+T16	GENE-Y 1623 1653	phosphodiester alpha-GlcNAcase
+T17	GENE-N 1659 1696	type I membrane-spanning glycoprotein
+T7	CHEMICAL 1706 1711	amino
+R0	CPR-9 Arg1:T8 Arg2:T22
+R1	CPR-1 Arg1:T7 Arg2:T16

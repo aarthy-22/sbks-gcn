@@ -1,0 +1,15 @@
+Biological activity of AC3174, a peptide analog of exendin-4.
+Exenatide, the active ingredient of BYETTA (exenatide injection), is an incretin mimetic that has been developed for the treatment of patients with type 2 diabetes.
+Exenatide binds to and activates the known GLP-1 receptor with a potency comparable to that of the mammalian incretin GLP-1(7-36), thereby acting as a glucoregulatory agent.
+AC3174 is an analog of exenatide with leucine substituted for methionine at position 14, [Leu(14)]exendin-4.
+The purpose of these studies was to evaluate the glucoregulatory activity and pharmacokinetics of AC3174.
+In RINm5f cell membranes, the potency of AC3174 for the displacement of [(125)I]GLP-1 and activation of adenylate cyclase was similar to that of exenatide and GLP-1.
+In vivo, AC3174, administered as a single IP injection, significantly decreased plasma glucose concentration and glucose excursion following the administration of an oral glucose challenge in both non-diabetic (C57BL/6) and diabetic db/db mice (P<0.05 vs. vehicle-treated).
+The magnitude of glucose lowering of AC3174 was comparable to exenatide.
+The ED(50) values of AC3174 for glucose lowering (60 minute post-dose) were 1.2 microg/kg in db/db mice and 1.3 microg/kg in C57BL/6 mice.
+AC3174 has insulinotropic activity in vivo.
+Administration of AC3174 resulted in a 4-fold increase in insulin concentrations in normal mice following an IP glucose challenge.
+AC3174 was also shown to inhibit food intake and decrease gastric emptying in rodent models.
+AC3174 was stable in human plasma (>90% of parent peptide was present after 5 h of incubation).
+In rats, the in vivo half-life of AC3174 was 42-43 min following SC administration.
+In summary, AC3174 is an analog of exenatide that binds to the GLP-1 receptor in vitro and shares many of the biological and glucoregulatory activities of exenatide and GLP-1 in vivo.

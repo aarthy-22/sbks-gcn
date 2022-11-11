@@ -1,0 +1,11 @@
+Induction of hepatic multidrug resistance-associated protein 3 by ethynylestradiol is independent of cholestasis and mediated by estrogen receptor.
+Multidrug resistance-associated protein 3 (Mrp3; Abcc3) expression and activity are up-regulated in rat liver after in vivo repeated administration of ethynylestradiol (EE), a cholestatic synthetic estrogen, whereas multidrug resistance-associated protein 2 (Mrp2) is down-regulated.
+This study was undertaken to determine whether Mrp3 induction results from a direct effect of EE, independent of accumulation of any endogenous common Mrp2/Mrp3 substrates resulting from cholestasis and the potential mediation of estrogen receptor (ER).
+In in vivo studies, male rats were given a single, noncholestatic dose of EE (5 mg/kg s.c.), and basal bile flow and the biliary excretion rate of bile salts and glutathione were measured 5 hours later.
+This treatment increased Mrp3 mRNA by 4-fold, detected by real-time polymerase chain reaction, despite the absence of cholestasis.
+Primary culture of rat hepatocytes incubated with EE (1-10 µM) for 5 hours exhibited a 3-fold increase in Mrp3 mRNA (10 µM), consistent with in vivo findings.
+The increase in Mrp3 mRNA by EE was prevented by actinomycin D, indicating transcriptional regulation.
+When hepatocytes were incubated with an ER antagonist [7α,17β-[9-[(4,4,5,5,5-Pentafluoropentyl)sulfinyl]nonyl]estra-1,3,5(10)-triene-3,17-diol (ICI182/780), 1 µM], in addition to EE, induction of Mrp3 mRNA was abolished, implicating ER as a key mediator.
+EE induced an increase in ER-α phosphorylation at 30 minutes and expression of c-Jun, a well-known ER target gene, at 60 minutes, as detected by Western blotting of nuclear extracts.
+These increases were prevented by ICI182/780.
+In summary, EE increased the expression of hepatic Mrp3 transcriptionally and independently of any cholestatic manifestation and required participation of an ER, most likely ER-α, through its phosphorylation.

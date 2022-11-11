@@ -1,0 +1,27 @@
+T11	CHEMICAL 0 9	Sunitinib
+T12	CHEMICAL 11 20	sorafenib
+T27	GENE 25 29	mTOR
+T19	GENE 396 413	von Hippel-Lindau
+T20	GENE 415 418	VHL
+T21	GENE 498 501	VHL
+T22	GENE 616 640	hypoxia inducible factor
+T23	GENE 642 645	HIF
+T24	GENE 669 698	mammalian target of rapamycin
+T10	CHEMICAL 689 698	rapamycin
+T25	GENE 700 704	mTOR
+T26	GENE 838 842	mTOR
+T1	CHEMICAL 1064 1073	sorafenib
+T2	CHEMICAL 1075 1084	sunitinib
+T3	CHEMICAL 1089 1101	temsirolimus
+T4	CHEMICAL 1103 1112	Sorafenib
+T5	CHEMICAL 1117 1126	sunitinib
+T13	GENE 1189 1243	vascular endothelial growth factor receptors -2 and -3
+T14	GENE 1245 1252	VEGFR-2
+T15	GENE 1254 1261	VEGFR-3
+T16	GENE 1267 1311	platelet-derived growth factor receptor beta
+T17	GENE 1313 1323	PDGFR-beta
+T6	CHEMICAL 1332 1344	temsirolimus
+T18	GENE 1351 1355	mTOR
+T7	CHEMICAL 1460 1469	sorafenib
+T8	CHEMICAL 1513 1522	sunitinib
+T9	CHEMICAL 1594 1606	temsirolimus

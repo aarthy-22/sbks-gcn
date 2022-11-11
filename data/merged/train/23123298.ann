@@ -1,0 +1,24 @@
+T15	CHEMICAL 0 9	Helenalin
+T16	CHEMICAL 67 73	oxygen
+T1	CHEMICAL 168 177	Helenalin
+T4	CHEMICAL 181 202	sesquiterpene lactone
+T3	CHEMICAL 288 297	helenalin
+T5	CHEMICAL 358 367	Helenalin
+T6	CHEMICAL 582 591	helenalin
+T17	GENE-Y 666 724	regulated in development and DNA damage responses (REDD) 1
+T18	GENE-Y 726 759	activating transcription factor-4
+T19	GENE-Y 761 765	ATF4
+T20	GENE-Y 778 827	CCAAT enhancer-binding protein-homologous protein
+T21	GENE-Y 829 833	CHOP
+T22	GENE-Y 864 868	ATF4
+T23	GENE-Y 876 880	CHOP
+T7	CHEMICAL 918 927	helenalin
+T8	CHEMICAL 972 981	Helenalin
+T9	CHEMICAL 1029 1035	oxygen
+T10	CHEMICAL 1080 1095	N-acetylcystine
+T11	CHEMICAL 1097 1100	NAC
+T12	CHEMICAL 1107 1130	glutathione ethyl ester
+T13	CHEMICAL 1132 1135	GEE
+T14	CHEMICAL 1146 1155	helenalin
+T2	CHEMICAL 1191 1200	helenalin
+R0	NOT Arg1:T22 Arg2:T7

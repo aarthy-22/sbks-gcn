@@ -1,0 +1,11 @@
+Minocycline inhibits the production of inducible nitric oxide synthase in articular chondrocytes.
+OBJECTIVE: To determine the in vitro effects of tetracyclines and nonsteroidal antiiflammatory drugs on interleukin 1alpha (IL-1alpha) induced NO production and biosynthesis of inducible NO synthase (iNOS) by articular chondrocytes.
+METHODS: Bovine chondrocytes were cultured in alginate beads.
+Cells were treated with IL-lalpha in the presence or absence of drugs at various concentrations.
+Expression of mRNA for iNOS was analyzed by reverse transcription polymerase chain reaction-ELISA.
+Protein synthesis of iNOS was determined by immunoprecipitation.
+NO production was taken as a measure for the activity of the enzyme.
+RESULTS: Minocycline dose dependently reduced IL-1 stimulated NO production by inhibition of the mRNA expression (IC50 = 69.9 microM) and protein synthesis (IC50 = 37.11 microM) of iNOS.
+Diclofenac-Na at a concentration of 10 microM only weakly reduced nitrite accumulation and mRNA expression of iNOS.
+No effects were observed for tetracycline, doxycycline, and meloxicam.
+CONCLUSION: Inhibition of iNOS in articular chondrocytes may be a new mechanism by which minocycline could exert its beneficial effects in the treatment of joint diseases.

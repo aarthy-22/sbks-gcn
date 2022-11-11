@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 8 11	119
+T2	REACTION_PRODUCT 12 111	6-(6-Amino-5-difluoromethoxy-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T3	STARTING_MATERIAL 112 211	6-(6-Bromo-5-difluoromethoxy-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T4	STARTING_MATERIAL 249 274	2,4-dimethoxy-benzylamine
+T5	REAGENT_CATALYST 303 328	N,N-diisopropylethylamine
+T6	SOLVENT 361 378	dimethylsulfoxide
+T7	TEMPERATURE 394 401	120° C.
+T8	TIME 406 414	18 hours
+T9	OTHER_COMPOUND 462 480	ammonium hydroxide
+T10	SOLVENT 516 531	dichloromethane
+T11	OTHER_COMPOUND 556 576	trifluoroacetic acid
+T12	TEMPERATURE 589 605	room temperature
+T13	TIME 610 613	3 h
+T14	YIELD_OTHER 662 667	24 mg
+T15	YIELD_PERCENT 669 672	35%

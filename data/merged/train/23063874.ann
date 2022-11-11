@@ -1,0 +1,42 @@
+T42	GENE-Y 14 19	IL-18
+T39	GENE-Y 354 368	interleukin-18
+T40	GENE-Y 370 375	IL-18
+T41	GENE-N 757 772	cytochrome P450
+T23	CHEMICAL 846 882	2-bromo-2-bromomethyl glutaronitrile
+T24	CHEMICAL 884 898	cinnamaldehyde
+T25	CHEMICAL 900 906	citral
+T26	CHEMICAL 908 922	diethylmaleate
+T27	CHEMICAL 924 944	dinitrochlorobenzene
+T28	CHEMICAL 946 953	glyoxal
+T29	CHEMICAL 955 978	2-mercaptobenzothiazole
+T30	CHEMICAL 980 994	nickel sulfate
+T31	CHEMICAL 996 1016	4-nitrobenzylbromide
+T32	CHEMICAL 1018 1027	oxazolone
+T33	CHEMICAL 1029 1041	penicillin G
+T34	CHEMICAL 1043 1053	resorcinol
+T35	CHEMICAL 1055 1083	tetramethylthiuram disulfide
+T1	CHEMICAL 1107 1123	cinnamyl alcohol
+T2	CHEMICAL 1125 1132	eugenol
+T3	CHEMICAL 1134 1144	isoeugenol
+T4	CHEMICAL 1146 1162	p-phenylediamine
+T5	CHEMICAL 1191 1219	ammonium hexachloroplatinate
+T6	CHEMICAL 1221 1249	diphenylmethane diisocyanate
+T7	CHEMICAL 1251 1265	glutaraldehyde
+T8	CHEMICAL 1267 1292	hexamethylenediisocyanate
+T9	CHEMICAL 1294 1310	maleic anhydride
+T10	CHEMICAL 1312 1333	trimellitic anhydride
+T11	CHEMICAL 1353 1365	benzaldehyde
+T12	CHEMICAL 1367 1381	cholorobenzene
+T13	CHEMICAL 1383 1398	diethylphtalate
+T14	CHEMICAL 1400 1417	hydrobenzoic acid
+T15	CHEMICAL 1419 1430	lactic acid
+T16	CHEMICAL 1432 1445	octanoic acid
+T17	CHEMICAL 1447 1453	phenol
+T18	CHEMICAL 1455 1469	salicylic acid
+T19	CHEMICAL 1471 1493	sodium lauryl sulphate
+T20	CHEMICAL 1495 1508	sulfamic acid
+T36	GENE-Y 1527 1532	IL-18
+T21	CHEMICAL 1644 1647	MTT
+T37	GENE-Y 1753 1758	IL-18
+T22	CHEMICAL 1806 1819	sulfamic acid
+T38	GENE-Y 1982 1987	IL-18

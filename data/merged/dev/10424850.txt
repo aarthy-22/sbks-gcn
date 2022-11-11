@@ -1,0 +1,7 @@
+Desipramine treatment decreases 3H-nisoxetine binding and norepinephrine transporter mRNA in SK-N-SHSY5Y cells.
+The antidepressant desipramine has been shown to decrease synaptic membrane concentrations of the norepinephrine re-uptake transporter (NET) in vivo and in vitro, on both an acute and a chronic basis.
+The possible contribution of decreased NET synthesis to the chronic downregulation of the NETs has not been definitively established.
+In this study, we treated SK-N-SHSY5Y cells with 100 nM desipramine for 24 or 72 h, and measured 3H-nisoxetine binding (as an estimate of NETs) and NET mRNA by quantitative reverse transcription polymerase chain reaction.
+Similar to what has been reported previously, membrane 3H-nisoxetine binding was significantly decreased at both 24 and 72 h (approximately 50% at both time points).
+However, a significant decrease (64 +/- 8% of paired control) of NET mRNA was observed only at the 72-h time point.
+We conclude that decreased NET synthesis may contribute to the chronic, but not acute, effect of desipramine to downregulate the NET.

@@ -1,0 +1,39 @@
+T0	REACTION_PRODUCT 813 835	compound of Example 20
+T17	REACTION_STEP 474 481	stirred
+T1	YIELD_OTHER 764 775	0.0861 mmol
+T2	TEMPERATURE 614 630	room temperature
+T3	SOLVENT 366 379	diethyl ether
+T4	REACTION_PRODUCT 24 135	(R)-1-(3-(dimethylamino)piperidin-1-yl)-3-(1-(2,2,2-trifluoroethyl)-1H-imidazol-2-yl)propan-1-one Hydrochloride
+T18	WORKUP 605 610	dried
+T5	TIME 506 516	30 minutes
+T6	TEMPERATURE 392 396	0° C
+T7	TIME 458 464	1 hour
+T8	YIELD_OTHER 754 762	0.0349 g
+T19	WORKUP 575 581	washed
+T9	STARTING_MATERIAL 242 339	(R)-1-(3-(dimethylamino)piperidin-1-yl)-3-(1-(2,2,2-trifluoroethyl)-1H-imidazol-2-yl)propan-1-one
+T20	REACTION_STEP 422 429	stirred
+T10	REAGENT_CATALYST 150 167	hydrogen chloride
+T11	EXAMPLE_LABEL 8 10	20
+T12	OTHER_COMPOUND 587 600	diethyl ether
+T13	SOLVENT 171 184	diethyl ether
+T21	REACTION_STEP 219 224	added
+T14	REACTION_PRODUCT 641 752	(R)-1-(3-(dimethylamino)piperidin-1-yl)-3-(1-(2,2,2-trifluoroethyl)-1H-imidazol-2-yl)propan-1-one hydrochloride
+T15	TEMPERATURE 485 501	room temperature
+T16	YIELD_PERCENT 777 780	36%
+T22	REACTION_STEP 634 640	obtain
+R0	ARGM Arg1:T17 Arg2:T15
+R1	ARGM Arg1:T17 Arg2:T5
+R2	ARGM Arg1:T18 Arg2:T2
+R3	ARG1 Arg1:T19 Arg2:T12
+R4	ARGM Arg1:T20 Arg2:T7
+R5	ARGM Arg1:T20 Arg2:T6
+R6	ARG1 Arg1:T21 Arg2:T10
+R7	ARG1 Arg1:T21 Arg2:T13
+R8	ARG1 Arg1:T21 Arg2:T9
+R9	ARG1 Arg1:T21 Arg2:T3
+R10	ARGM Arg1:T21 Arg2:T6
+R11	ARG1 Arg1:T22 Arg2:T14
+R12	ARGM Arg1:T22 Arg2:T8
+R13	ARGM Arg1:T22 Arg2:T1
+R14	ARGM Arg1:T22 Arg2:T16
+R15	ARG1 Arg1:T22 Arg2:T0

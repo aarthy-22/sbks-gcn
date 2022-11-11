@@ -1,0 +1,28 @@
+T14	CHEMICAL 13 35	thiazolidine-2,4-dione
+T15	CHEMICAL 36 56	biphenylcarbonitrile
+T25	GENE-N 72 80	PPAR α/γ
+T9	CHEMICAL 179 201	thiazolidine-2,4-dione
+T12	CHEMICAL 206 221	barbituric acid
+T10	CHEMICAL 370 374	(1)H
+T11	CHEMICAL 376 381	(13)C
+T18	GENE-Y 435 479	peroxisome proliferator-activated receptor α
+T19	GENE-Y 484 528	peroxisome proliferator-activated receptor γ
+T20	GENE-N 605 647	peroxisome proliferator-activated receptor
+T21	GENE-Y 673 679	GLUT-4
+T22	GENE-N 779 786	insulin
+T13	CHEMICAL 881 888	glucose
+T23	GENE-Y 992 1036	peroxisome proliferator-activated receptor α
+T24	GENE-Y 1041 1085	peroxisome proliferator-activated receptor γ
+T16	GENE-Y 1212 1256	peroxisome proliferator-activated receptor γ
+T1	CHEMICAL 1267 1270	Tyr
+T2	CHEMICAL 1276 1279	His
+T3	CHEMICAL 1285 1288	Ser
+T4	CHEMICAL 1294 1297	His
+T17	GENE-Y 1307 1351	peroxisome proliferator-activated receptor α
+T5	CHEMICAL 1362 1365	Tyr
+T6	CHEMICAL 1371 1374	His
+T7	CHEMICAL 1380 1383	Ser
+T8	CHEMICAL 1392 1395	Tyr
+R0	CPR-1 Arg1:T3 Arg2:T16
+R1	CPR-1 Arg1:T5 Arg2:T17
+R2	NOT Arg1:T14 Arg2:T25

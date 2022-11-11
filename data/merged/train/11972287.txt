@@ -1,0 +1,8 @@
+Central 5-HT3 receptor stimulation by m-CPBG increases blood glucose in rats.
+The aim of the present study was to investigate the role of central 5-HT3 receptors on the control of blood glucose in stressed and non-stressed rats in both fasted and fed states.
+Adult Wistar male rats had each their third ventricle cannulated 7 days before the experiments.
+Injections of m-CPBG, a selective 5-HT3 receptor agonist, induced a significant increase in blood glucose in non-stressed rats in both fasted and in fed states.
+The same procedure was unable to modify stress-induced hyperglycemia.
+The hyperglycemic effect of m-CPBG central administration was blocked by pretreatment with ondansetron, a specific 5-HT3 receptor antagonist, indicating that the effects here obtained with m-CPBG were a result of its interaction with 5-HT3 receptors.
+Third ventricle injections of ondansetron alone were not able to modify blood glucose in non-stressed animals and did not change the hyperglycemic responses observed after immobilization stress.
+We conclude that pharmacological activation of the central 5-HT3 receptor induces a hyperglycemic effect in non-stressed animals.

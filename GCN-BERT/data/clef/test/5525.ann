@@ -1,0 +1,22 @@
+T1	OTHER_COMPOUND 655 673	magnesium sulphate
+T2	SOLVENT 316 331	dichloromethane
+T3	REACTION_PRODUCT 843 925	(5-bromomethyl-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl)-methyl acetate
+T4	STARTING_MATERIAL 219 303	(5-hydroxymethyl-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl)-methyl acetate
+T5	OTHER_COMPOUND 465 470	water
+T6	TIME 385 395	30 minutes
+T7	OTHER_COMPOUND 629 634	water
+T8	OTHER_COMPOUND 517 542	sodium hydrogen carbonate
+T9	OTHER_COMPOUND 748 758	silica gel
+T10	EXAMPLE_LABEL 0 4	81.5
+T11	REAGENT_CATALYST 124 145	phosphorus tribromide
+T12	TEMPERATURE 416 432	room temperature
+T13	OTHER_COMPOUND 788 803	dichloromethane
+T14	OTHER_COMPOUND 574 589	dichloromethane
+T15	YIELD_OTHER 827 833	0.41 g
+T16	YIELD_PERCENT 835 838	29%
+T17	SOLVENT 157 172	dichloromethane
+T18	REACTION_PRODUCT 6 88	(5-bromomethyl-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl)-methyl acetate
+T19	OTHER_COMPOUND 804 812	methanol
+T20	TEMPERATURE 343 347	0° C
+T21	OTHER_COMPOUND 497 504	aqueous
+T22	TEMPERATURE 375 379	0° C

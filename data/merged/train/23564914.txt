@@ -1,0 +1,7 @@
+Effects of Intraduodenal Glutamine on Incretin Hormone and Insulin Release, the Glycemic Response to an Intraduodenal Glucose Infusion, and Antropyloroduodenal Motility in Health and Type 2 Diabetes.
+OBJECTIVEGlutamine reduces postprandial glycemia when given before oral glucose.
+We evaluated whether this is mediated by stimulation of insulin and/or slowing of gastric emptying.
+RESEARCH DESIGN AND METHODSTen healthy subjects were studied during intraduodenal (ID) infusion of glutamine (7.5 or 15 g) or saline over 30 min, followed by glucose (75 g over 100 min), while recording antropyloroduodenal pressures.
+Ten patients with type 2 diabetes mellitus (T2DM) were also studied with 15 g glutamine or saline.
+RESULTSID glutamine stimulated glucagon-like peptide 1 (GLP-1; healthy: P < 0.05; T2DM: P < 0.05), glucose-dependent insulinotropic polypeptide (GIP; P = 0.098; P < 0.05), glucagon (P < 0.01; P < 0.001), insulin (P = 0.05; P < 0.01), and phasic pyloric pressures (P < 0.05; P < 0.05), but did not lower blood glucose (P = 0.077; P = 0.5).CONCLUSIONSGlutamine does not lower glycemia after ID glucose, despite stimulating GLP-1, GIP, and insulin, probably due to increased glucagon.
+Its capacity for pyloric stimulation suggests that delayed gastric emptying is a major mechanism for lowering glycemia when glutamine is given before oral glucose.

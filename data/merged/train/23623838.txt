@@ -1,0 +1,11 @@
+Maternal nicotine exposure during lactation alters hypothalamic neuropeptides expression in the adult rat progeny.
+Maternal exposure to nicotine during lactation causes hyperleptinemia in the pups and, at adulthood, these animals are overweight and hyperleptinemic, while, in their hypothalamus, the leptin signaling pathway is reduced, evidencing a central leptin resistance.
+Then, we evaluated the expression of pro-opiomelanocortin (POMC), alpha-melanocyte stimulating hormone (α-MSH), cocaine and amphetamine-regulated transcript (CART), neuropeptide Y (NPY), agouti-related peptide (AgRP) and others in different hypothalamic nuclei in order to better understand the mechanisms underlying the obese phenotype observed in these animals at adulthood.
+On the 2nd postnatal day (P2), dams were subcutaneously implanted with osmotic minipumps releasing nicotine (NIC-6mg/kg/day) or saline for 14days.
+Offspring were killed in P180 and immunohistochemistry and Western blot analysis were carried out.
+Significance data had p<0.05.
+Adult NIC offspring showed more intense NPY staining in the paraventricular nucleus (PVN) (+21%) and increased number of POMC-positive cells in the: arcuate nucleus (+33%), as an increase in fiber density of α-MSH in PVN (+85%).
+However, the number of CART-positive cells was reduced in the PVN (-25%).
+CRH staining was more intense in NIC offspring (+136%).
+Orexins and AgRP were not altered.
+Thus, maternal nicotine exposure changes hypothalamic neuropeptides in the adult progeny that is partially compatible with leptin resistance.

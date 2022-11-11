@@ -1,0 +1,16 @@
+T5	CHEMICAL 65 82	(S)-Phenylalanine
+T4	CHEMICAL 102 120	2-Cyanopyrrolidine
+T10	GENE 138 160	Dipeptidyl Peptidase 4
+T1	CHEMICAL 191 208	(S)-phenylalanine
+T3	CHEMICAL 228 246	2-cyanopyrrolidine
+T6	GENE 395 417	dipeptidyl peptidase 4
+T7	GENE 419 424	DPP-4
+T2	CHEMICAL 454 491	cyclopropyl-substituted phenylalanine
+T8	GENE 533 538	DPP-4
+T9	GENE 752 757	DPP-4
+R0	CPR-4 Arg1:T5 Arg2:T10
+R1	CPR-4 Arg1:T4 Arg2:T10
+R2	CPR-4 Arg1:T2 Arg2:T8
+R3	NOT Arg1:T6 Arg2:T2
+R4	NOT Arg1:T7 Arg2:T2
+R5	NOT Arg1:T2 Arg2:T9

@@ -1,0 +1,10 @@
+Effects of a serotonin 5-HT(4) receptor antagonist SB-207266 on gastrointestinal motor and sensory function in humans.
+BACKGROUND: Serotonin 5-HT(4) receptors are located on enteric cholinergic neurones and may regulate peristalsis.
+5-HT(4) receptors on primary afferent neurones have been postulated to modulate visceral sensation.
+While 5-HT(4) agonists are used as prokinetic agents, the physiological role of 5-HT(4) receptors in the human gut is unknown.
+AIMS: Our aim was to characterise the role of 5-HT(4) receptors in regulating gastrointestinal motor and sensory function in healthy subjects under baseline and stimulated conditions with a 5-HT(4) receptor antagonist.
+METHODS: Part A compared the effects of placebo to four doses of a 5-HT(4) receptor antagonist (SB-207266) on the cisapride mediated increase in plasma aldosterone (a 5-HT(4) mediated response) and orocaecal transit in 18 subjects.
+In part B, 52 healthy subjects received placebo, or 0.05, 0.5, or 5 mg of SB-207266 for 10-12 days; gastric, small bowel, and colonic transit were measured by scintigraphy on days 7-9, and fasting and postprandial colonic motor function, compliance, and sensation during distensions were assessed on day 12.
+RESULTS: Part A: 0.5, 5, and 20 mg doses of SB-207266 had significant and quantitatively similar effects, antagonising the cisapride mediated increase in plasma aldosterone and acceleration of orocaecal transit.
+Part B: SB-207266 tended to delay colonic transit (geometric centre of isotope at 24 (p=0.06) and 48 hours (p=0.08)), but did not have dose related effects on transit, fasting or postprandial colonic motor activity, compliance, or sensation.
+CONCLUSION: 5-HT(4) receptors are involved in the regulation of cisapride stimulated orocaecal transit; SB 207266 tends to modulate colonic transit but not sensory functions or compliance in healthy human subjects.

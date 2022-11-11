@@ -1,0 +1,37 @@
+T35	GENE-N 0 13	Streptokinase
+T36	GENE-Y 96 125	protease-activated receptor-1
+T2	GENE-N 127 140	Streptokinase
+T9	GENE-N 259 268	proteases
+T13	GENE-N 272 285	streptokinase
+T16	GENE-N 332 345	Streptokinase
+T17	GENE-N 370 379	human IgG
+T18	GENE-Y 530 547	Fc receptor, IV.3
+T19	GENE-N 574 587	streptokinase
+T20	GENE-Y 662 688	platelet thrombin receptor
+T21	GENE-Y 690 719	protease-activated receptor-1
+T22	GENE-Y 721 726	PAR-1
+T23	GENE-Y 766 774	thrombin
+T1	CHEMICAL 786 795	Ro46-6240
+T24	GENE-Y 819 830	plasminogen
+T25	GENE-Y 852 863	plasminogen
+T26	GENE-N 901 908	S(741)A
+T27	GENE-Y 909 920	plasminogen
+T28	GENE-N 974 982	protease
+T29	GENE-Y 992 997	PAR-1
+T30	GENE-N 1002 1015	streptokinase
+T31	GENE-Y 1016 1027	plasminogen
+T32	GENE-N 1029 1042	Streptokinase
+T33	GENE-Y 1043 1054	plasminogen
+T34	GENE-Y 1100 1105	PAR-1
+T3	GENE-Y 1134 1139	PAR-1
+T4	GENE-Y 1221 1226	PAR-1
+T5	GENE-N 1270 1283	streptokinase
+T6	GENE-Y 1285 1296	plasminogen
+T7	GENE-Y 1408 1412	IV.3
+T8	GENE-Y 1447 1452	PAR-1
+T10	GENE-N 1480 1491	Fc receptor
+T11	GENE-Y 1496 1501	PAR-1
+T12	GENE-N 1570 1583	Streptokinase
+T14	GENE-N 1651 1662	Fc receptor
+T15	GENE-Y 1692 1697	PAR-1
+R0	NOT Arg1:T22 Arg2:T1

@@ -1,0 +1,11 @@
+Cigarette smoke-induced kinin B1 receptor promotes NADPH oxidase activity in cultured human alveolar epithelial cells.
+Pulmonary inflammation is an important pathological feature of tobacco smoke-related lung diseases.
+Kinin B1 receptor (B1R) is up-regulated in the rat trachea chronically exposed to cigarette-smoke.
+This study aimed at determining (1) whether exposure to total particulate matter of the cigarette smoke (TPM) can induce B1R in human alveolar epithelial A549 cells, (2) the mechanism of B1R induction, (3) the functionality of de novo synthesized B1R, and (4) the role of B1R in TPM-induced increase of superoxide anion (O(2)((-))) level.
+Results show that A549 cells exposed to 10 mug/ml TPM increased O(2)((-)) level along with B1R (protein and mRNA) and IL-1beta mRNA.
+In contrast, B2R and TNF-alpha mRNA were not affected by TPM.
+The increasing effect of TPM on O(2)((-)) level was not significantly affected by the B1R antagonist SSR240612.
+TPM-increased B1R mRNA was prevented by co-treatments with N-acetyl-l-cysteine (potent antioxidant), diphenyleneiodonium (NADPH oxidase inhibitor), IL-1Ra (interleukin-1R antagonist) and SN-50 (specific inhibitor of NF-kB activation) but not by pentoxifylline (TNF-alpha release inhibitor), indomethacin and niflumic acid (COX-1 and -2 inhibitors).
+Stimulation of B1R with a selective agonist (des-Arg(9)-BK, 10 muM; 30 min) increased O(2)((-))production which was prevented by apocynin and diphenyleneiodonium (NADPH oxidase inhibitors).
+Data suggest that the increased expression of B1R by TPM in A549 cells is mediated by oxidative stress, IL-1beta and NF-kB but not by cyclooxygenases or TNF-alpha.
+The amplification of O(2)((-)) levels via the activation of B1R-NADPH oxidase may exacerbate pulmonary inflammation and contribute to the chronicity of tobacco smoke-related lung diseases.

@@ -1,0 +1,37 @@
+T26	CHEMICAL 14 25	nomifensine
+T27	CHEMICAL 31 52	dihydroisoquinolinium
+T34	GENE-Y 71 92	human myeloperoxidase
+T35	GENE-N 94 104	hemoglobin
+T25	CHEMICAL 106 115	monoamine
+T32	GENE-Y 106 125	monoamine oxidase A
+T33	GENE-N 131 146	cytochrome P450
+T1	CHEMICAL 156 167	Nomifensine
+T6	CHEMICAL 285 323	N-methyl-8-aminotetrahydroisoquinoline
+T13	CHEMICAL 382 403	dihydroisoquinolinium
+T14	CHEMICAL 408 422	isoquinolinium
+T15	CHEMICAL 541 552	nomifensine
+T16	CHEMICAL 558 579	dihydroisoquinolinium
+T17	CHEMICAL 662 667	NADPH
+T18	CHEMICAL 682 703	dihydroisoquinolinium
+T19	CHEMICAL 793 809	t-butyl peroxide
+T20	CHEMICAL 820 841	dihydroisoquinolinium
+T21	CHEMICAL 871 880	Monoamine
+T28	GENE-Y 871 890	Monoamine oxidase A
+T22	CHEMICAL 900 909	monoamine
+T29	GENE-Y 900 919	monoamine oxidase B
+T30	GENE-N 957 973	human hemoglobin
+T23	CHEMICAL 992 996	H2O2
+T31	GENE-Y 998 1019	Human myeloperoxidase
+T24	CHEMICAL 1063 1067	H2O2
+T2	CHEMICAL 1164 1177	acetaminophen
+T3	CHEMICAL 1315 1336	dihydroisoquinolinium
+T4	CHEMICAL 1345 1358	carbinolamine
+T5	CHEMICAL 1401 1422	dihydroisoquinolinium
+T7	CHEMICAL 1451 1458	cyanide
+T8	CHEMICAL 1463 1474	borohydride
+T9	CHEMICAL 1484 1495	glutathione
+T10	CHEMICAL 1543 1554	nomifensine
+T11	CHEMICAL 1555 1576	dihydroisoquinolinium
+T12	CHEMICAL 1667 1678	nomifensine
+R0	CPR-9 Arg1:T27 Arg2:T34
+R1	NOT Arg1:T22 Arg2:T30

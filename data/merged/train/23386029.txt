@@ -1,0 +1,5 @@
+Nocapyrones H-J, 3,6-Disubstituted α-Pyrones from the Marine Actinomycete Nocardiopsis sp. KMF-001.
+Three new 3,6-disubstituted α-pyrones, nocapyrones H-J (1-3), were isolated from the marine actinomycete Nocardiopsis sp. KMF-001.
+Their structures were assigned to be 3-alkylated 6-(1-methyl-1-propenyl)-2H-pyran-2-ones on the basis of UV, MS, NMR, and high resolution (HR)-FAB-MS analyses.
+Nocapyrone H (1) reduced the pro-inflammatory factor such as nitric oxide (NO), prostaglandin E2 (PGE2) and interleukin-1β (IL-1β).
+Moreover, nocapyrone H showed 5.82% stronger inhibitory effect on NO production than chrysin at a concentration of 10 µm in lipopolysaccharide (LPS)-stimulated BV-2 microglial cells.

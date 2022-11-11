@@ -1,0 +1,44 @@
+T19	CHEMICAL 0 22	17 beta-hydroxysteroid
+T42	GENE-Y 0 44	17 beta-hydroxysteroid dehydrogenase type XI
+T17	CHEMICAL 172 179	alcohol
+T41	GENE-N 172 193	alcohol dehydrogenase
+T2	CHEMICAL 240 262	17 beta-hydroxysteroid
+T25	GENE-N 240 276	17 beta-hydroxysteroid dehydrogenase
+T28	GENE-Y 278 291	17 beta HSDXI
+T8	CHEMICAL 314 354	5 alpha-androstane-3 alpha, 17 beta-diol
+T12	CHEMICAL 358 370	androsterone
+T13	CHEMICAL 445 468	gamma-aminobutyric acid
+T35	GENE-Y 488 501	17 beta HSDXI
+T36	GENE-Y 519 576	human retinal short-chain dehydrogenase/reductase retSDR2
+T14	CHEMICAL 525 532	retinal
+T37	GENE-Y 685 698	17 beta HSDXI
+T15	CHEMICAL 730 737	retinol
+T38	GENE-Y 758 765	retSDR1
+T16	CHEMICAL 836 846	adenosines
+T39	GENE-N 927 932	C719T
+T40	GENE-Y 936 949	17 beta HSDXI
+T18	CHEMICAL 981 991	adenosines
+T1	CHEMICAL 1086 1096	adenosines
+T20	GENE-N 1127 1132	C719T
+T21	GENE-Y 1233 1246	17 beta HSDXI
+T22	GENE-Y 1356 1369	17 beta HSDXI
+T23	GENE-Y 1543 1556	17 beta HSDXI
+T24	GENE-Y 1604 1624	17 alpha-hydroxylase
+T26	GENE-Y 1670 1683	17 beta HSDXI
+T3	CHEMICAL 1880 1884	cAMP
+T27	GENE-Y 1900 1913	17 beta HSDXI
+T4	CHEMICAL 2009 2032	All-trans-retinoic acid
+T29	GENE-Y 2048 2061	17 beta HSDXI
+T5	CHEMICAL 2106 2114	retinoid
+T6	CHEMICAL 2129 2133	cAMP
+T7	CHEMICAL 2172 2176	cAMP
+T30	GENE-N 2238 2260	17 beta HSDXI promoter
+T31	GENE-Y 2303 2325	steroidogenic factor-1
+T32	GENE-Y 2388 2410	steroidogenic factor-1
+T33	GENE-Y 2512 2525	17 beta HSDXI
+T9	CHEMICAL 2529 2537	androgen
+T10	CHEMICAL 2654 2694	5 alpha-androstane-3 alpha, 17 beta-diol
+T34	GENE-Y 2703 2716	17 beta HSDXI
+T11	CHEMICAL 2768 2775	steroid
+R0	CPR-9 Arg1:T9 Arg2:T33
+R1	NOT Arg1:T40 Arg2:T1

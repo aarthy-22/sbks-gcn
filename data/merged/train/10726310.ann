@@ -1,0 +1,19 @@
+T16	GENE-Y 1 12	Plasminogen
+T17	GENE-N 67 80	streptokinase
+T9	GENE-Y 87 98	plasminogen
+T7	GENE-N 112 125	streptokinase
+T4	GENE-N 214 227	streptokinase
+T5	GENE-Y 293 304	plasminogen
+T6	GENE-N 318 331	streptokinase
+T8	GENE-N 456 469	streptokinase
+T1	CHEMICAL 594 614	6-aminohexanoic acid
+T10	GENE-N 628 660	human Glu- and mini-plasminogens
+T2	CHEMICAL 634 637	Glu
+T11	GENE-N 662 689	pig and bovine plasminogens
+T12	GENE-N 750 784	human, bovine and pig plasminogens
+T13	GENE-N 810 834	plasminogen alpha-domain
+T14	GENE-N 1040 1053	streptokinase
+T15	GENE-Y 1075 1086	plasminogen
+T3	GENE-N 1088 1101	streptokinase
+R0	NOT Arg1:T1 Arg2:T10
+R1	NOT Arg1:T2 Arg2:T11

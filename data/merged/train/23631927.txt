@@ -1,0 +1,10 @@
+Spatial memory deficits in maternal iron deficiency paradigms are associated with altered glucocorticoid levels.
+"The goal of this study was to examine the effect of maternal iron deficiency on the developing hippocampus in order to define a developmental window for this effect, and to see whether iron deficiency causes changes in glucocorticoid levels.
+The study was carried out using pre-natal, post-natal, and pre+post-natal iron deficiency paradigm.
+Iron deficient pregnant dams and their pups displayed elevated corticosterone which, in turn, differentially affected glucocorticoid receptor (GR) expression in the CA1 and the dentate gyrus.
+Brain Derived Neurotrophic Factor (BDNF) was reduced in the hippocampi of pups following elevated corticosterone levels.
+Reduced neurogenesis at P7 was seen in pups born to iron deficient mothers, and these pups had reduced numbers of hippocampal pyramidal and granule cells as adults.
+Hippocampal subdivision volumes also were altered.
+The structural and molecular defects in the pups were correlated with radial arm maze performance; reference memory function was especially affected.
+Pups from dams that were iron deficient throughout pregnancy and lactation displayed the complete spectrum of defects, while pups from dams that were iron deficient only during pregnancy or during lactation displayed subsets of defects.
+These findings show that maternal iron deficiency is associated with altered levels of corticosterone and GR expression, and with spatial memory deficits in their pups."

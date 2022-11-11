@@ -1,0 +1,42 @@
+T24	CHEMICAL 41 53	progesterone
+T1	CHEMICAL 88 95	Digoxin
+T13	CHEMICAL 119 128	digitoxin
+T34	GENE-N 173 201	human chorionic gonadotropin
+T26	GENE-N 203 206	hCG
+T8	CHEMICAL 230 242	progesterone
+T9	CHEMICAL 269 276	Digoxin
+T10	CHEMICAL 291 300	digitoxin
+T11	CHEMICAL 350 359	forskolin
+T12	CHEMICAL 364 410	8-bromo-cyclic 3' : 5'-adenosine monophosphate
+T14	CHEMICAL 412 421	8-Br-cAMP
+T15	CHEMICAL 426 438	progesterone
+T16	CHEMICAL 473 480	Digoxin
+T17	CHEMICAL 495 504	digitoxin
+T29	GENE-Y 526 568	cytochrome P450 side chain cleavage enzyme
+T30	GENE-Y 570 590	cytochrome P450(scc)
+T18	CHEMICAL 616 639	25-hydroxyl cholesterol
+T19	CHEMICAL 643 655	pregnenolone
+T20	CHEMICAL 718 738	3beta-hydroxysteroid
+T31	GENE-N 718 752	3beta-hydroxysteroid dehydrogenase
+T32	GENE-N 754 763	3beta-HSD
+T21	CHEMICAL 774 786	progesterone
+T33	GENE-Y 802 809	P450scc
+T22	CHEMICAL 888 895	Digoxin
+T23	CHEMICAL 910 919	digitoxin
+T35	GENE-Y 977 984	P450scc
+T36	GENE-Y 989 1034	steroidogenic acute regulatory (StAR) protein
+T2	CHEMICAL 1092 1099	digoxin
+T3	CHEMICAL 1104 1113	digitoxin
+T4	CHEMICAL 1127 1139	progesterone
+T5	CHEMICAL 1173 1178	Na(+)
+T25	GENE-N 1173 1190	Na(+),K(+)-ATPase
+T6	CHEMICAL 1179 1183	K(+)
+T7	CHEMICAL 1246 1256	cyclic AMP
+T27	GENE-Y 1266 1283	cytochrome P450sc
+T28	GENE-Y 1289 1293	StAR
+R0	CPR-4 Arg1:T22 Arg2:T35
+R1	NOT Arg1:T26 Arg2:T8
+R2	NOT Arg1:T17 Arg2:T32
+R3	NOT Arg1:T21 Arg2:T33
+R4	NOT Arg1:T2 Arg2:T27
+R5	NOT Arg1:T5 Arg2:T27

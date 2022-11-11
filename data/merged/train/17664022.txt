@@ -1,0 +1,9 @@
+Pre- and postsynaptic mechanisms in the clonidine- and oxymetazoline-induced inhibition of gastric motility in the rat.
+The inhibitory effect of clonidine (non-selective alpha2-adrenoceptor agonist) and oxymetazoline (alpha2A-adrenoceptor selective agonist) was compared on basal and stimulated gastric motor activity (gastric tone and contractions) using the balloon method in the rat.
+It was shown that oxymetazoline (0.2-1.7 micromol/kg, i.v.) decreased the basal motility, while clonidine (1.9-3.8 micromol/kg, i.v.) failed to affect it.
+When motility was stimulated centrally by insulin (5 IU/rat, i.v.), both clonidine (1.9-3.8 micromol/kg, i.v.) and oxymetazoline (0.1-3.4 micromol/kg, i.v.) inhibited the gastric motor activity.
+However, while the effect of clonidine was antagonized by the non-selective alpha2-adrenoceptor antagonist yohimbine (5 micromol/kg, i.v.) and the alpha2A-adrenoceptor selective antagonist BRL 44408 (3 micromol/kg, i.v.), the effect of oxymetazoline was only partially affected.
+Prazosin (alpha1- and alpha2B-adrenoceptor antagonist, 0.07-0.28 micromol/kg, i.v.) also failed to reverse the effect of oxymetazoline.
+Furthermore, when gastric motility was stimulated peripherally by activation of postsynaptic cholinergic muscarinic receptors by the combination of carbachol (0.14 micromol/kg, i.v.) and hexamethonium (37 micromol/kg, i.v.), clonidine (3.8 micromol/kg, i.v.) failed to affect the increased motor activity, however, oxymetazoline (0.8-3.4 micromol/kg, i.v.)
+exerted a pronounced inhibition.
+These results suggest that different mechanisms may be involved in the inhibitory effect of clonidine and oxymetazoline; while clonidine reduces the gastric motility by activation of presynaptic alpha2-adrenoceptors, postsynaptic component in the effect of oxymetazoline has also been raised.

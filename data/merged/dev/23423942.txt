@@ -1,0 +1,9 @@
+Use of gene expression data to determine effects on gonad phenotype in japanese medaka after exposure to trenbolone or estradiol.
+Various aquatic bioassays using one of several fish species have been developed or are in the process of being developed by organizations like the US Environmental Protection Agency and the Office of Economic Cooperation and Development for testing potential endocrine-disrupting chemicals (EDCs).
+Often, these involve assessment of the gonad phenotype of individuals as a key endpoint that is inputted into a risk or hazard assessment.
+Typically, gonad phenotype is determined histologically, which involves specialized and time-consuming techniques.
+The methods detailed here utilize an entirely different methodology, reverse-transcription quantitative polymerase chain reaction, to determine the relative expression levels of 4 genes after exposure to either 17β-estradiol or 17β-trenbolone and, by extension, the effects of EDCs on the phenotypic status of the gonad.
+The 4 genes quantified, Sox9b, protamine, Fig1α, and ZPC1, are all involved in gonad development and maintenance in Japanese medaka (Oryzias latipes); these data were then inputted into a permutational multivariate analysis of variance to determine whether significant differences exist between treatment groups.
+This information in conjunction with the sexual genotype, which can be determined in medaka, can be used to determine adverse effects of exposure to EDCs in a similar fashion to the histologically determined gonad phenotype.
+Environ Toxicol Chem 2013;32:1344-1353.
+© 2013 SETAC.

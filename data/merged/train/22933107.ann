@@ -1,0 +1,11 @@
+T8	CHEMICAL 0 9	Manganese
+T9	CHEMICAL 92 108	cyclophosphamide
+T2	CHEMICAL 422 431	manganese
+T3	CHEMICAL 668 677	manganese
+T4	CHEMICAL 774 790	cyclophosphamide
+T10	GENE-N 810 825	T-cell receptor
+T5	CHEMICAL 942 958	cyclophosphamide
+T6	CHEMICAL 1026 1035	manganese
+T7	CHEMICAL 1066 1082	cyclophosphamide
+T1	CHEMICAL 1426 1433	glucose
+R0	NOT Arg1:T10 Arg2:T5

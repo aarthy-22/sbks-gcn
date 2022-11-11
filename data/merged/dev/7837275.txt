@@ -1,0 +1,11 @@
+Conformational transitions linked to active site ligation in human thrombin: effect on the interaction with fibrinogen and the cleavable platelet receptor.
+An experimental strategy based on solution viscosity perturbation allowed us to study the energetics of amide-substrates, p-aminobenzamidine (p-ABZ) and proflavin binding to the catalytic site of two proteolyzed forms of alpha-thrombin, i.e. zeta- and gamma T-thrombin.
+These thrombin derivatives are cleaved at the Leu144-Gly150 loop and at the fibrinogen recognition exosite (FRS), respectively.
+A phenomenological analysis of thermodynamic data showed that the amide substrates and p-ABZ interactions with zeta-thrombin were respectively, associated with a chemical compensation (i.e. the linear relationship between entropy and enthalpy of binding) and a hydrophobic phenomenon (i.e. a change in the standard heat capacity).
+The latter was slightly lower than that previously observed for a alpha-thrombin (0.78 +/- 0.25 versus 1.01 +/- 0.17 kcal/mol K).
+Both phenomenon were absent in gamma T-thrombin.
+The interaction of a alpha-, zeta- and gamma T-thrombin with macromolecular substrates that "bridge-bind" to both the catalytic site (CS) and fibrinogen recognition exosite (FRS), such as fibrinogen and the cleavable platelet receptor (CPR), was also evaluated.
+These interactions were studied by following fibrinopeptide A (FpA) release and by measuring intraplatelet Ca2+ changes induced by thrombin-CPR interaction.
+It was found that the free energy of activation (RT ln Kcat/Km) for both fibrinogen and CPR hydrolysis followed the same hierarchy, i.e. alpha > zeta > gamma.
+Moreover, the values of delta Cp for alpha-, zeta- and gamma T-thrombin interaction with p-ABZ were found to be linearly correlated to the free energy of activation for both fibrinogen and CPR cleavage.
+In conclusion, these data demonstrate that: (1) the Leu144-Gly150 loop and the FRS are both involved in the conformational transition linked to the binding of p-aminobenzamidine to the thrombin active site; (2) the extent of thrombin's capacity to undergo conformational transitions in alpha-, zeta- and gamma T forms is positively correlated to the free energy of activation for hydrolysis of macromolecular substrates interacting with both the catalytic domain and the FRS.

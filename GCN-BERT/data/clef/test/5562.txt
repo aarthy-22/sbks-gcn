@@ -1,0 +1,2 @@
+(Reference Example 2) Synthesis of 4-Cyanofuroxan Compound
+Tetrahydrofuran (0.75 mL) was added to tetrabutylammonium cyanide (105 mg), and then 3-(4-methylphenyl)-4-nitrofuroxan (66 mg) was added thereto at room temperature. After stirring the mixture for 30 minutes, the solvent was distilled off under reduced pressure. The obtained residue was purified by silica gel chromatography to obtain 54 mg (89% yield) of 4-cyano-3-(4-methylphenyl)furoxan.

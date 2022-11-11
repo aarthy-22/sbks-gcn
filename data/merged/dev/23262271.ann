@@ -1,0 +1,13 @@
+T8	GENE 20 30	tyrosinase
+T7	GENE 190 200	tyrosinase
+T1	CHEMICAL 297 315	flavanol glucoside
+T2	CHEMICAL 317 365	(2S,3S)-2,3-trans-dihydromorin-7-O-β-d-glucoside
+T3	CHEMICAL 522 540	trans-dihydromorin
+T4	CHEMICAL 546 560	oxyresveratrol
+T5	CHEMICAL 570 581	steppogenin
+T6	GENE 621 631	tyrosinase
+R0	CPR-4 Arg1:T3 Arg2:T6
+R1	CPR-4 Arg1:T4 Arg2:T6
+R2	CPR-4 Arg1:T5 Arg2:T6
+R3	NOT Arg1:T7 Arg2:T1
+R4	NOT Arg1:T7 Arg2:T2

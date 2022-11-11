@@ -1,0 +1,17 @@
+T9	CHEMICAL 146 156	methionine
+T1	CHEMICAL 178 203	Methylenetetrahydrofolate
+T14	GENE-Y 178 213	Methylenetetrahydrofolate reductase
+T2	CHEMICAL 233 255	methyltetrahydrofolate
+T3	CHEMICAL 301 317	hydroxocobalamin
+T4	CHEMICAL 356 362	methyl
+T5	CHEMICAL 368 386	adenosyl cobalamin
+T6	CHEMICAL 407 417	methionine
+T15	GENE-Y 407 426	methionine synthase
+T7	CHEMICAL 466 482	methyl cobalamin
+T8	CHEMICAL 808 817	Cobalamin
+T10	CHEMICAL 888 904	hydroxocobalamin
+T11	CHEMICAL 929 954	methylenetetrahydrofolate
+T12	CHEMICAL 973 979	folate
+T13	CHEMICAL 1051 1058	betaine
+R0	NOT Arg1:T14 Arg2:T5
+R1	NOT Arg1:T3 Arg2:T15

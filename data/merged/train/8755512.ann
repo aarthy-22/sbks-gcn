@@ -1,0 +1,18 @@
+T7	CHEMICAL 11 22	thalidomide
+T14	GENE-N 26 50	alpha1-acid glycoprotein
+T15	GENE-Y 88 115	tumor necrosis factor alpha
+T2	CHEMICAL 385 396	thalidomide
+T10	GENE-Y 446 473	tumor necrosis factor alpha
+T3	CHEMICAL 549 560	thalidomide
+T4	CHEMICAL 655 666	thalidomide
+T11	GENE-Y 937 961	alpha1-acid glycoprotein
+T12	GENE-Y 963 966	AGP
+T5	CHEMICAL 997 1008	thalidomide
+T13	GENE-N 1042 1051	human AGP
+T6	CHEMICAL 1074 1085	thalidomide
+T8	GENE-Y 1208 1235	tumor necrosis factor alpha
+T9	GENE-N 1274 1277	AGP
+T1	CHEMICAL 1330 1341	thalidomide
+R0	CPR-4 Arg1:T2 Arg2:T10
+R1	CPR-2 Arg1:T5 Arg2:T13
+R2	NOT Arg1:T6 Arg2:T9

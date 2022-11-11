@@ -1,0 +1,52 @@
+T43	GENE-Y 40 51	osteocalcin
+T12	CHEMICAL 60 75	free fatty acid
+T11	CHEMICAL 132 152	phosphatidylinositol
+T40	GENE-N 132 161	phosphatidylinositol 3-kinase
+T41	GENE-N 162 165	Akt
+T42	GENE-Y 185 211	Uncarboxylated osteocalcin
+T27	GENE-Y 284 295	osteocalcin
+T29	GENE-Y 297 299	OC
+T31	GENE-N 313 341	osteoblast-specific proteins
+T23	GENE-Y 479 505	uncarboxylated osteocalcin
+T24	GENE-Y 507 511	ucOC
+T25	GENE-Y 532 543	osteocalcin
+T26	GENE-Y 580 587	insulin
+T28	GENE-Y 723 727	ucOC
+T4	CHEMICAL 729 742	Linoleic acid
+T5	CHEMICAL 777 792	free fatty acid
+T6	CHEMICAL 861 880	deoxyribonucleotide
+T30	GENE-Y 861 892	deoxyribonucleotide transferase
+T7	CHEMICAL 902 927	deoxyuridine triphosphate
+T32	GENE-Y 992 1001	caspase 3
+T8	CHEMICAL 1011 1028	poly (ADP-ribose)
+T33	GENE-N 1011 1039	poly (ADP-ribose) polymerase
+T34	GENE-Y 1044 1050	Bcl-xL
+T35	GENE-N 1076 1079	Akt
+T36	GENE-Y 1084 1117	endothelial nitric oxide synthase
+T9	CHEMICAL 1096 1108	nitric oxide
+T37	GENE-Y 1119 1123	eNOS
+T10	CHEMICAL 1149 1151	NO
+T38	GENE-Y 1191 1195	ucOC
+T39	GENE-Y 1199 1206	insulin
+T13	GENE-Y 1251 1255	ucOC
+T14	GENE-Y 1300 1307	insulin
+T1	CHEMICAL 1386 1406	phosphatidylinositol
+T15	GENE-N 1386 1415	phosphatidylinositol 3-kinase
+T16	GENE-N 1417 1427	PI3-kinase
+T2	CHEMICAL 1440 1450	wortmannin
+T17	GENE-Y 1465 1469	ucOC
+T18	GENE-N 1546 1549	Akt
+T19	GENE-Y 1554 1558	eNOS
+T3	CHEMICAL 1563 1575	nitric oxide
+T20	GENE-N 1614 1624	PI3-kinase
+T21	GENE-Y 1720 1724	ucOC
+T22	GENE-Y 1789 1793	ucOC
+R0	CPR-4 Arg1:T2 Arg2:T16
+R1	NOT Arg1:T30 Arg2:T10
+R2	NOT Arg1:T7 Arg2:T37
+R3	NOT Arg1:T7 Arg2:T38
+R4	NOT Arg1:T8 Arg2:T34
+R5	NOT Arg1:T8 Arg2:T37
+R6	NOT Arg1:T36 Arg2:T10
+R7	NOT Arg1:T9 Arg2:T37
+R8	NOT Arg1:T13 Arg2:T1

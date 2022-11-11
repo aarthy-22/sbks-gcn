@@ -1,0 +1,11 @@
+The discriminative stimulus effects of clozapine in pigeons: involvement of 5-hydroxytryptamine1C and 5-hydroxytryptamine2 receptors.
+Pigeons were trained to discriminate i.m.
+injections of the atypical antipsychotic clozapine (1.0 mg/kg) from saline in a two-key operant procedure.
+In substitution tests, compounds that shared antagonistic action at 5-hydroxytryptamine (5-HT)1C and 5-HT2 receptors produced discriminative stimulus effects similar to clozapine: cyproheptadine, metergoline, mianserin, pizotifen and fluperlapine.
+5-HT antagonists selective for 5-HT2 vs. 5-HT1C receptors (e.g., ketanserin, pirenperone, risperidone and methiothepin) failed to produce substantial clozapine-appropriate responding.
+Other serotonergic compounds failed to produce substantial clozapine-appropriate responding: the 5-HT3 antagonist, ondansetron; the 5-HT1A agonists, (+-)-8-hydroxy-2-(di-n-propylamino)tetralin and BMY 14802; the 5-HT1A/1B agonist, RU24969; the 5-HT1A partial agonist, NAN190; the 5-HT1C/2 antagonist, mesulergine; the 5-HT1 agonist, I-5-hydroxytryptophane; and the 5-HT1C/2 agonist, quipazine.
+Other reference compounds such as the typical antipsychotics, chlorpromazine and thioridazine; the selective dopamine D-2 antagonists, droperidol and sulpiride; the dopamine D-1 antagonist, SCH 23390; the antimuscarinics, atropine and scopolamine; the antihistamines, pyrilamine and diphenhydramine; the alpha-1 antagonist, prazosin; and the antidepressants, imipramine and chloromipramine also failed to produce clozapine-appropriate responding.
+Promethazine, cinanserin and amitriptyline produced only partial generalization to the clozapine cue.
+The results suggest that blockade of both 5-HT2 and/or 5-HT1C receptors is important in the pharmacological mediation of the discriminative stimulus effects of clozapine.
+Blockade of 5-HT2 receptors appears not to be sufficient to produce clozapine-like discriminative stimulus effects.
+The precise role of 5-HT1C receptors in the clozapine discriminative stimulus is unclear due to the lack of compounds selective for this receptor.(ABSTRACT TRUNCATED AT 250 WORDS)

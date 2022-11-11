@@ -1,0 +1,11 @@
+Expression of WWOX and FHIT is downregulated by exposure to arsenite in human uroepithelial cells.
+Ecological studies in Taiwan, Chile, Argentina, Bangladesh, and Mexico have confirmed significant dose-dependent associations between ingestion of arsenic-contaminated drinking water and the risk of various human malignancies.
+The FHIT and WWOX genes are active in common fragile sites FRA3B and FRA16D, respectively.
+Reduced expression of FHIT or WWOX is known to be an early indicator of carcinogen-induced cancers.
+However, the effect of arsenite on the expressions and molecular mechanisms of these markers is still unclear.
+The aims of this study were (i) to observe the expression of ATR, WWOX and FHIT proteins in urothelial carcinoma (UC) between endemic and non-endemic areas of blackfoot disease (BFD) by immunohistochemical analyses; (ii) to compare expression of these genes between arsenite-treated SV-HUC-1 human epithelial cells and rat uroepithelial cells; and (iii) to determine the role of DNMT and MEK inhibitors on expressions of WWOX and FHIT in response to arsenite in SV-HUC-1.
+The experiments revealed that expressions of ATR, WWOX and FHIT in UC significantly differed between BFD areas and non-BFD areas (p=0.003, 0.009 and 0.021, respectively).
+In fact, the results for the arsenite-treated groups showed that ATR, WWOX and FHIT are downregulated by arsenite in SV-HUC-1.
+However, the inhibitors suppressed the effects of arsenite on WWOX and FHIT proteins and mRNA expression.
+In conclusion, arsenite decreased expressions of ATR, WWOX and FHIT via ERK1/2 activation in SV-HUC-1 cells.
+These findings confirm that dysregulations of these markers may contribute to arsenite-induced carcinogenesis.

@@ -1,0 +1,8 @@
+Synthesis and structure-activity relationships of 2-amino-3-carboxy-4-phenylthiophenes as novel atypical protein kinase C inhibitors.
+Recent evidence suggests atypical protein kinase C (aPKC) isoforms are required for both TNF- and VEGF-induced breakdown of the blood-retinal barrier (BRB) and endothelial permeability to 70kDa dextran or albumin.
+A chemical library screen revealed a series of novel small molecule phenylthiophene based inhibitors of aPKC isoforms that effectively block permeability in cell culture and in vivo.
+In an effort to further elucidate the structural requirements of this series of inhibitors, we detail in this study a structure-activity relationship (SAR) built on screening hit 1, which expands on our initial pharmacophore model.
+The biological activity of our analogues was evaluated in models of bona fide aPKC-dependent signaling including NFκB driven-gene transcription as a marker for an inflammatory response and VEGF/TNF-induced vascular endothelial permeability.
+The EC50 for the most efficacious inhibitors (6, 32) was in the low nanomolar range in these two cellular assays.
+Our study demonstrates the key structural elements that confer inhibitory activity and highlights the requirement for electron-donating moieties off the C-4 aryl moiety of the 2-amino-3-carboxy-4-phenylthiophene backbone.
+These studies suggest that this class has potential for further development into small molecule aPKC inhibitors with therapeutic efficacy in a host of diseases involving increased vascular permeability and inflammation.

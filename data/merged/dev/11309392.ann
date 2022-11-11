@@ -1,0 +1,42 @@
+T31	GENE-Y 8 35	diacylglycerol kinase-theta
+T9	CHEMICAL 8 22	diacylglycerol
+T30	GENE-Y 64 78	alpha-thrombin
+T25	GENE-Y 306 320	alpha-thrombin
+T3	CHEMICAL 415 429	diacylglycerol
+T4	CHEMICAL 507 526	phosphatidylcholine
+T5	CHEMICAL 539 556	phosphatidic acid
+T26	GENE-N 558 579	Diacylglycerol kinase
+T6	CHEMICAL 558 572	Diacylglycerol
+T27	GENE-N 581 584	DGK
+T7	CHEMICAL 614 628	diacylglycerol
+T8	CHEMICAL 632 649	phosphatidic acid
+T28	GENE-Y 962 976	alpha-thrombin
+T29	GENE-N 1041 1044	DGK
+T10	GENE-Y 1131 1140	DGK-theta
+T11	GENE-Y 1145 1154	DGK-delta
+T1	CHEMICAL 1225 1243	phosphatidylserine
+T12	GENE-Y 1253 1262	DGK-delta
+T13	GENE-Y 1396 1400	RhoA
+T14	GENE-Y 1410 1419	DGK-theta
+T15	GENE-Y 1594 1608	alpha-thrombin
+T16	GENE-Y 1632 1636	RhoA
+T2	CHEMICAL 1688 1706	phosphatidylserine
+T17	GENE-Y 1773 1782	DGK-theta
+T18	GENE-Y 1806 1820	alpha-thrombin
+T19	GENE-Y 1890 1899	DGK-theta
+T20	GENE-Y 1929 1943	alpha-thrombin
+T21	GENE-Y 2025 2039	alpha-thrombin
+T22	GENE-Y 2069 2078	DGK-theta
+T23	GENE-Y 2293 2302	DGK-theta
+T24	GENE-Y 2342 2351	DGK-delta
+R0	CPR-9 Arg1:T7 Arg2:T26
+R1	CPR-9 Arg1:T8 Arg2:T26
+R2	CPR-9 Arg1:T7 Arg2:T27
+R3	CPR-9 Arg1:T8 Arg2:T27
+R4	CPR-4 Arg1:T1 Arg2:T12
+R5	NOT Arg1:T9 Arg2:T30
+R6	NOT Arg1:T25 Arg2:T3
+R7	NOT Arg1:T25 Arg2:T4
+R8	NOT Arg1:T25 Arg2:T5
+R9	NOT Arg1:T6 Arg2:T27
+R10	NOT Arg1:T16 Arg2:T2

@@ -1,0 +1,12 @@
+[Use of biosensors for detecting organophosphorus agents].
+The present paper reviews the use of electrochemical biosensors for detecting organophosphorus pesticides and nerve agents.
+Acetylcholine esterase (AChE)-immobilized electrodes have been used for detecting AChE inhibitors including organophosphorus and carbamate pesticides.
+The sensors are composed of AChE and choline oxidase (ChOx) for converting the AChE-generated choline into betaine and hydrogen peroxide (H(2)O(2)), which is electrochemically oxidized at the electrode surface to produce the output signal of the sensor.
+In the presence of AChE inhibitors, the suppressed output signal of the sensor can be observed.
+If the sensors are operated in the presence of acetylthiocholine as a substrate of AChE, one can eliminate ChOx from the sensor design because enzymatically generated thiocholine is electrochemically active and thus directly oxidized at the electrode without using ChOx.
+Electron-transfer mediators such as tetracyanoquinodimethane have often been used for catalytically oxidizing thiocholine at the electrode set at less positive potential, which is effective in circumventing possible interference arising from oxidizing compounds in the sample solution.
+One of the drawbacks of the AChE-based biosensors in detecting organophosphorus pesticides and nerve agents arises from the fact that the sensors indirectly detect the signal based on the inhibition of the AChE-catalyzed reaction.
+On the other hand, for directly obtaining the output signal, organophosphorus hydrolase (OPH) is immobilized on the electrode surface to prepare amperometric biosensors.
+OPH catalyzes the hydrolysis reaction of organophosphorus compounds to produce electrochemically active compounds such as p-nitrophenol and thiols from parathion and VX, respectively.
+Thus OPH-based sensors can be used for detecting these compounds directly.
+These biosensors would be useful for in-site measurements of organophosphorus pesticides and nerve agents because portable-type biosensors are easily fabricated at relatively low cost.

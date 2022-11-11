@@ -1,0 +1,8 @@
+T4	CHEMICAL 75 88	polyglutamate
+T3	CHEMICAL 889 902	polyglutamate
+T5	GENE-N 1302 1311	cytokines
+T1	CHEMICAL 1350 1363	polyglutamate
+T6	GENE-N 1401 1410	cytokines
+T2	CHEMICAL 1477 1490	polyglutamate
+R0	CPR-4 Arg1:T1 Arg2:T6
+R1	NOT Arg1:T5 Arg2:T1

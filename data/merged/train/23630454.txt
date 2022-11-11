@@ -1,0 +1,15 @@
+PICK1 Deficiency Impairs Secretory Vesicle Biogenesis and Leads to Growth Retardation and Decreased Glucose Tolerance.
+Secretory vesicles in endocrine cells store hormones such as growth hormone (GH) and insulin before their release into the bloodstream.
+The molecular mechanisms governing budding of immature secretory vesicles from the trans-Golgi network (TGN) and their subsequent maturation remain unclear.
+Here, we identify the lipid binding BAR (Bin/amphiphysin/Rvs) domain protein PICK1 (protein interacting with C kinase 1) as a key component early in the biogenesis of secretory vesicles in GH-producing cells.
+Both PICK1-deficient Drosophila and mice displayed somatic growth retardation.
+Growth retardation was rescued in flies by reintroducing PICK1 in neurosecretory cells producing somatotropic peptides.
+PICK1-deficient mice were characterized by decreased body weight and length, increased fat accumulation, impaired GH secretion, and decreased storage of GH in the pituitary.
+Decreased GH storage was supported by electron microscopy showing prominent reduction in secretory vesicle number.
+Evidence was also obtained for impaired insulin secretion associated with decreased glucose tolerance.
+PICK1 localized in cells to immature secretory vesicles, and the PICK1 BAR domain was shown by live imaging to associate with vesicles budding from the TGN and to possess membrane-sculpting properties in vitro.
+In mouse pituitary, PICK1 co-localized with the BAR domain protein ICA69, and PICK1 deficiency abolished ICA69 protein expression.
+In the Drosophila brain, PICK1 and ICA69 co-immunoprecipitated and showed mutually dependent expression.
+Finally, both in a Drosophila model of type 2 diabetes and in high-fat-diet-induced obese mice, we observed up-regulation of PICK1 mRNA expression.
+Our findings suggest that PICK1, together with ICA69, is critical during budding of immature secretory vesicles from the TGN and thus for vesicular storage of GH and possibly other hormones.
+The data link two BAR domain proteins to membrane remodeling processes in the secretory pathway of peptidergic endocrine cells and support an important role of PICK1/ICA69 in maintenance of metabolic homeostasis.

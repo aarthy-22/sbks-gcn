@@ -1,0 +1,26 @@
+T16	GENE-Y 556 563	SLC12A3
+T17	GENE-Y 582 636	human thiazide-sensitive sodium chloride cotransporter
+T5	CHEMICAL 588 596	thiazide
+T6	CHEMICAL 607 622	sodium chloride
+T7	CHEMICAL 674 689	sodium chloride
+T18	GENE-Y 838 845	SLC12A1
+T19	GENE-Y 869 874	KCNJ1
+T20	GENE-Y 894 901	SLC12A1
+T8	CHEMICAL 917 927	bumetanide
+T21	GENE-Y 917 979	bumetanide-sensitive sodium potassium 2 chloride cotransporter
+T9	CHEMICAL 938 965	sodium potassium 2 chloride
+T22	GENE-Y 981 986	NKCC2
+T10	CHEMICAL 1020 1035	sodium chloride
+T11	GENE-Y 1094 1099	KCNJ1
+T1	CHEMICAL 1135 1144	potassium
+T12	GENE-Y 1135 1157	potassium channel ROMK
+T2	CHEMICAL 1166 1175	potassium
+T13	GENE-Y 1235 1240	NKCC2
+T3	CHEMICAL 1523 1531	chloride
+T4	CHEMICAL 1620 1628	chloride
+T14	GENE-N 1620 1636	chloride channel
+T15	GENE-Y 1642 1648	CLCNKB
+R0	CPR-9 Arg1:T3 Arg2:T14
+R1	NOT Arg1:T8 Arg2:T22
+R2	NOT Arg1:T11 Arg2:T1
+R3	NOT Arg1:T2 Arg2:T13

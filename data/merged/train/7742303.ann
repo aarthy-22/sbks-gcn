@@ -1,0 +1,11 @@
+T11	GENE-N 93 117	class II tRNA synthetase
+T9	GENE-N 167 192	class II tRNA synthetases
+T1	CHEMICAL 250 258	aspartyl
+T6	GENE-N 250 274	aspartyl-tRNA synthetase
+T7	GENE-N 385 416	class II alanyl-tRNA synthetase
+T2	CHEMICAL 394 400	alanyl
+T8	GENE-N 418 423	AlaRS
+T3	CHEMICAL 755 762	alanine
+T10	GENE-N 829 834	AlaRS
+T4	CHEMICAL 1094 1104	amino acid
+T5	GENE-N 1414 1438	class II tRNA synthetase

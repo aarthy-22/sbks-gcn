@@ -1,0 +1,8 @@
+Epithelial glycoprotein-330 mediates endocytosis of plasminogen activator-plasminogen activator inhibitor type-1 complexes.
+Epithelial glycoprotein 330 (gp330) is structurally similar to the multifunctional alpha 2-macroglobulin receptor/low density lipoprotein receptor-related protein (alpha 2MR/LRP), gp330 and alpha 2MR/LRP bind Ca2+ with high affinity, and both receptors bind and mediate endocytosis of alpha 2MR-associated protein (RAP).
+In the present report, we describe that affinity-purified gp330 from rabbit renal cortex binds plasminogen activator inhibitor type-1 (PAI-1) complexed with urokinase-type plasminogen activator (uPA).
+alpha 2M-methylamine, which binds with high affinity to alpha 2MR/LRP, did not bind to gp330.
+The apparent Kd for binding of uPA.PAI-1 complexes was about 0.8 nM at 4 degrees C. The binding was calcium-dependent and inhibited by recombinant RAP (rRAP) and tissue type plasminogen activator-PAI-1 complexes.
+Thin sections of rabbit renal proximal tubules bound 125I-labeled uPA.PAI-1 and rRAP in the apical part of proximal tubules corresponding to the localization of gp330.
+The binding of 125I-uPA.PAI-1 complexes in tubules was abolished by excess unlabeled rRAP, and a rRAP-inhibitable endocytosis and degradation of labeled uPA.PAI-1 complexes was demonstrated by perfusion of isolated rabbit proximal tubules.
+The results establish an endocytotic function of gp330 and suggest that gp330 is an important component of the fibrinolytic system in gp330-containing epithelial as found in, for example, kidney and lung.

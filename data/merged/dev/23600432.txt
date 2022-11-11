@@ -1,0 +1,12 @@
+5-Lipoxygenase inhibitors: a review of recent patents (2010 - 2012).
+Introduction: 5-Lipoxygenase (5-LO) is a crucial enzyme of the arachidonic acid (AA) cascade and catalyzes the formation of bioactive leukotrienes (LTs) with the help of FLAP, the 5-LO-activating protein.
+LTs are inflammatory mediators playing a pathophysiological role in different diseases like asthma, allergic rhinitis as well as cardiovascular diseases and certain types of cancer.
+With the rising number of indications for anti-LT therapy, 5-LO inhibitor drug development becomes increasingly important.
+Areas covered: Here, both recent findings regarding the pathophysiological role of 5-LO and the patents claimed for 5-LO inhibitors are discussed.
+Focusing on direct inhibitors, several patents disclosing FLAP antagonists are also subject of this review.
+Novel compounds include 1,5-diarylpyrazoles, indolizines and indoles and several natural product extracts.
+Expert opinion: Evaluation of the patent activities revealed only quite moderate action.
+Nevertheless, several auspicious drug-like molecules were disclosed.
+It seems that in the near future, FLAP inhibitors can be expected to enter the market for the treatment of asthma.
+With the resolved structure of 5-LO, structure-based drug design is now applicable.
+Together with the identification of downstream enzyme inhibitors and dual-targeting drugs within the AA cascade, several tools are at hand to cope with 5-LOs increasing pathophysiological roles.

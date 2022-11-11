@@ -1,0 +1,7 @@
+T6	GENE-Y 0 13	Transaldolase
+T5	GENE-Y 100 113	Transaldolase
+T1	CHEMICAL 165 182	pentose phosphate
+T3	GENE-Y 812 817	TALDO
+T4	GENE-Y 1007 1020	transaldolase
+T2	GENE-Y 1091 1104	transaldolase
+R0	NOT Arg1:T5 Arg2:T1

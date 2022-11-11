@@ -1,0 +1,42 @@
+T0	EXAMPLE_LABEL 5 6	3
+T18	WORKUP 625 631	washed
+T19	WORKUP 565 574	extracted
+T20	REACTION_STEP 298 307	dissolved
+T1	YIELD_PERCENT 1041 1044	28%
+T2	STARTING_MATERIAL 138 270	(E)-methyl 3-(4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-7,8-dimethoxy-3-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylate
+T3	REACTION_PRODUCT 880 894	title compound
+T4	REACTION_PRODUCT 7 137	(E)-3-(4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-7,8-dimethoxy-3-methyl-1,2,3,4-t etrahydroisoquinolin-1-yl)phenyl)acrylic acid
+T5	REACTION_PRODUCT 1025 1027	35
+T6	REAGENT_CATALYST 390 406	sodium hydroxide
+T7	SOLVENT 352 360	methanol
+T8	SOLVENT 332 347	tetrahydrofuran
+T9	TEMPERATURE 468 484	room temperature
+T21	REACTION_STEP 869 875	obtain
+T10	REACTION_PRODUCT 895 1024	(E)-3-(4-((1R,3R/1S,3S)-2-(2-fluoro-2-methylpropyl)-7,8-dimethoxy-3-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylic acid
+T11	OTHER_COMPOUND 580 593	ethyl acetate
+T22	REACTION_STEP 420 425	added
+T12	OTHER_COMPOUND 647 662	sodium chloride
+T23	REACTION_STEP 444 451	stirred
+T13	STARTING_MATERIAL 271 274	35c
+T14	OTHER_COMPOUND 702 716	sodium sulfate
+T24	WORKUP 511 516	added
+T25	WORKUP 681 686	dried
+T15	OTHER_COMPOUND 489 506	hydrochloric acid
+T16	TIME 456 464	10 hours
+T17	YIELD_OTHER 1029 1033	5 mg
+R0	ARG1 Arg1:T18 Arg2:T12
+R1	ARG1 Arg1:T19 Arg2:T11
+R2	ARG1 Arg1:T20 Arg2:T2
+R3	ARG1 Arg1:T20 Arg2:T13
+R4	ARG1 Arg1:T20 Arg2:T8
+R5	ARG1 Arg1:T20 Arg2:T7
+R6	ARG1 Arg1:T21 Arg2:T3
+R7	ARG1 Arg1:T21 Arg2:T10
+R8	ARG1 Arg1:T21 Arg2:T5
+R9	ARGM Arg1:T21 Arg2:T17
+R10	ARGM Arg1:T21 Arg2:T1
+R11	ARG1 Arg1:T22 Arg2:T6
+R12	ARGM Arg1:T23 Arg2:T16
+R13	ARGM Arg1:T23 Arg2:T9
+R14	ARG1 Arg1:T24 Arg2:T15
+R15	ARG1 Arg1:T25 Arg2:T14

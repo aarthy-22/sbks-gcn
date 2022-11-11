@@ -1,0 +1,12 @@
+Association of ATP-binding cassette transporter variants with the risk of Alzheimer's disease.
+Aim: A number of studies have demonstrated that ABCB1 and BCRP (ABCG2) actively transport Aβ.
+We aimed to investigate the association of genetic variants of selected multidrug transporters with Alzheimer's disease (AD) in histopathologically confirmed AD cases and controls.
+Materials & methods: DNA from brain tissue of 71 AD cases with Consortium to Establish a Registry for Alzheimer's Disease (CERAD) neuropathological stages B/C and 81 controls was genotyped for selected variants in ABCA1, ABCA7, ABCB1, ABCC2 and ABCG2.
+In addition, the APOE4 status was analyzed.
+Results: The novel ABCA7 SNP, rs3752246, tended to be associated with AD in our study.
+Variants in ABCB1 were significantly less frequent in AD cases older than 65 years of age and among females.
+This association of ABCB1 2677G>T (rs2032582) was more pronounced in APOE4-negative cases (p = 0.005).
+However, only ABCC2 3972C>T (rs3740066) was significantly associated with AD risk after logistic regression analysis including all variants.
+Other transporters showed a lack of association.
+Conclusion: Our results support the hypothesis that ABCB1 and possibly other ABC-transporters are involved in the process of Aβ accumulation in the aging brain and may modulate the risk for AD in an allele-specific manner, and thus might represent a new target for prevention and treatment of AD.
+Original submitted 8 October 2012; Revision submitted 22 January 2013.

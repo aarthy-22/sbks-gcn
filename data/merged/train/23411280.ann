@@ -1,0 +1,19 @@
+T18	GENE-N 71 100	human histidine decarboxylase
+T11	CHEMICAL 77 86	histidine
+T1	CHEMICAL 102 111	Histidine
+T12	GENE-Y 102 125	Histidine decarboxylase
+T15	GENE-Y 127 130	HDC
+T8	CHEMICAL 159 168	histamine
+T10	CHEMICAL 182 187	amine
+T13	GENE-Y 209 212	HDC
+T2	CHEMICAL 250 259	histamine
+T14	GENE-Y 351 354	HDC
+T3	CHEMICAL 364 377	ethyl acetate
+T4	CHEMICAL 448 457	Rugosin D
+T5	CHEMICAL 459 468	rugosin A
+T6	CHEMICAL 470 492	rugosin A methyl ester
+T7	CHEMICAL 517 534	tellimagrandin II
+T9	CHEMICAL 722 744	histidine methyl ester
+T16	GENE-Y 854 857	HDC
+T17	GENE-Y 960 963	HDC
+R0	CPR-4 Arg1:T3 Arg2:T14

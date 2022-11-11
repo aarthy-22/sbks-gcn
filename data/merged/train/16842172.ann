@@ -1,0 +1,10 @@
+T2	CHEMICAL 62 70	dopamine
+T4	CHEMICAL 438 446	dopamine
+T9	GENE-Y 438 459	dopamine D1 receptors
+T5	CHEMICAL 766 774	dopamine
+T10	GENE-Y 766 786	dopamine D2 receptor
+T6	CHEMICAL 804 817	bromocriptine
+T7	CHEMICAL 822 831	pergolide
+T1	CHEMICAL 1307 1309	DA
+T8	GENE-N 1307 1318	DA receptor
+T3	CHEMICAL 1758 1766	dopamine

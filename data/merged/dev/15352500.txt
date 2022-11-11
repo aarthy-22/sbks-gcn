@@ -1,0 +1,9 @@
+A novel membrane sensor for histamine H1-receptor antagonist "fexofenadine".
+The construction and general performance of thirteen new polymeric membrane sensors for the determination of fexofenadine hydrochloride based on its ion exchange with reineckate, tetraphenylborate and tetraiodomercurate have been studied.
+The effects of membrane composition, type of plasticizer, pH value of sample solution and concentration of the analyte in the sensor internal solution have been thoroughly investigated.
+The novel sensor based on reineckate exchanger shows a stable, potentiometric response for fexofenadine in the concentration range of 1 x 10(-2) - 2.5 x 10(-6) M at 25 degrees C that is independent of pH in the range of 2.0 - 4.5.
+The sensor possesses a Nernstian cationic slope of 62.3+/-0.7 mV/concentration decade and a lower detection limit of 1.3 x 10(-6) M with a fast response time of 20 - 40 s. Selectivity coefficients for a number of interfering ions and excipients relative to fexofenadine were investigated.
+There is negligible interference from almost all studied cations, anions, and pharmaceutical excipients, however, citrizine that has a structure homologous to that of fexofenadine was found to interfere.
+The determination of fexofenadine in aqueous solution shows an average recovery of 99.83% with a mean relative standard deviation (RSD) of 0.5%.
+Direct potentiometric determination of fexofenadine in tablets gave results that compare favorably with those obtained by standard spectrophotometric methods.
+Potentiometric titration of fexofenadine with phosphomolybdic acid as a titrant has been monitored with the proposed sensor as an end point indicator electrode.

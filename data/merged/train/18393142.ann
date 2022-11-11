@@ -1,0 +1,12 @@
+T9	GENE-Y 70 79	factor Xa
+T10	GENE-Y 84 94	factor IIa
+T8	GENE-Y 156 166	factor IIa
+T1	CHEMICAL 242 251	vitamin K
+T2	CHEMICAL 364 379	pentasaccharide
+T3	CHEMICAL 395 406	idraparinux
+T7	GENE-Y 458 467	factor Xa
+T4	CHEMICAL 469 480	rivaroxaban
+T5	CHEMICAL 485 493	apixaban
+T6	CHEMICAL 504 514	dabigatran
+R0	CPR-4 Arg1:T5 Arg2:T7
+R1	NOT Arg1:T7 Arg2:T6

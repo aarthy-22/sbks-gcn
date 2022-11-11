@@ -1,0 +1,11 @@
+Zinc-dependent lysosomal enlargement in TRPML1-deficient cells involves MTF-1 transcription factor and ZnT4 (Slc30a4) transporter.
+Zinc is critical for a multitude of cellular processes, including gene expression, secretion and enzymatic activities.
+Cellular zinc is controlled by zinc-chelating proteins and by zinc transporters.
+The recent identification of zinc permeability of the lysosomal ion channel TRPML1 (transient receptor potential mucolipin 1), and the evidence of abnormal zinc levels in cells deficient in TRPML1, suggested a role for TRPML1 in zinc transport.
+In the present study we provide new evidence for such a role and identify additional cellular components responsible for it.
+In agreement with the previously published data, an acute siRNA (small interfering RNA)-driven TRPML1 KD (knockdown) leads to the build-up of large cytoplasmic vesicles positive for LysoTracker™ and zinc staining, when cells are exposed to high concentrations of zinc.
+We now show that lysosomal enlargement and zinc build-up in TRPML1-KD cells exposed to zinc are ameliorated by KD of the zinc-sensitive transcription factor MTF-1 (metal-regulatory-element-binding transcription factor-1) or the zinc transporter ZnT4.
+TRPML1 KD is associated with a build-up of cytoplasmic zinc and with enhanced transcriptional response of mRNA for MT2a (metallothionein 2a).
+TRPML1 KD did not suppress lysosomal secretion, but it did delay zinc leak from the lysosomes into the cytoplasm.
+These results underscore a role for TRPML1 in zinc metabolism.
+Furthermore, they suggest that TRPML1 works in concert with ZnT4 to regulate zinc translocation between the cytoplasm and lysosomes.

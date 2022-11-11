@@ -1,0 +1,29 @@
+T26	GENE-N 53 80	Src homology 2 (SH2) domain
+T6	CHEMICAL 84 85	C
+T27	GENE-Y 84 105	C-terminal Src kinase
+T21	GENE-Y 107 110	Csk
+T22	GENE-Y 116 135	Csk-binding protein
+T23	GENE-Y 137 140	Cbp
+T24	GENE-Y 142 203	phosphoprotein associated with glycosphingolipid microdomains
+T25	GENE-Y 205 208	PAG
+T9	GENE-N 225 253	Src homology 2 (SH2) domains
+T4	CHEMICAL 274 282	tyrosine
+T15	GENE-N 274 289	tyrosine kinase
+T8	GENE-N 320 331	SH2 domains
+T1	CHEMICAL 509 524	phosphotyrosine
+T2	CHEMICAL 543 554	amino acids
+T10	GENE-N 657 667	SH2 domain
+T3	CHEMICAL 671 672	C
+T11	GENE-Y 671 692	C-terminal Src kinase
+T12	GENE-Y 694 697	Csk
+T13	GENE-Y 744 763	Csk-binding protein
+T14	GENE-Y 765 768	Cbp
+T5	CHEMICAL 904 919	phosphotyrosine
+T16	GENE-Y 940 943	Cbp
+T17	GENE-Y 1094 1097	Cbp
+T18	GENE-Y 1098 1101	Csk
+T19	GENE-Y 1179 1182	Cbp
+T20	GENE-Y 1195 1198	Csk
+T7	GENE-N 1261 1271	SH2 domain
+R0	CPR-1 Arg1:T5 Arg2:T16
+R1	NOT Arg1:T10 Arg2:T3

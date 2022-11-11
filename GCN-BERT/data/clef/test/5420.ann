@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 8 10	17
+T2	REACTION_PRODUCT 24 202	4-((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indole-3-carbonyl)quinolin-2(1H)-one
+T3	STARTING_MATERIAL 244 383	(1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-2,3,3a,4,5,6,7,11c-octahydro-1H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-10-ol
+T4	STARTING_MATERIAL 402 446	2-oxo-1,2-dihydroquinoline-4-carboxylic acid
+T5	REAGENT_CATALYST 467 480	triethylamine
+T6	REAGENT_CATALYST 505 509	HATU
+T7	OTHER_COMPOUND 588 595	ammonia
+T8	OTHER_COMPOUND 599 607	methanol
+T9	OTHER_COMPOUND 749 756	aqueous
+T10	OTHER_COMPOUND 757 764	ammonia
+T11	OTHER_COMPOUND 805 818	ethyl acetate
+T12	OTHER_COMPOUND 867 884	magnesium sulfate
+T13	OTHER_COMPOUND 1063 1078	aminosilica gel
+T14	OTHER_COMPOUND 1092 1100	methanol
+T15	OTHER_COMPOUND 1105 1115	chloroform
+T16	REACTION_PRODUCT 1188 1202	title compound
+T17	YIELD_OTHER 1204 1209	28 mg
+T18	YIELD_PERCENT 1211 1214	56%

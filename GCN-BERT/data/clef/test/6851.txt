@@ -1,0 +1,3 @@
+Example 21
+4-(6-Fluoro-1H-indol-3-yl)-N-(2-hydroxy-1-methyl-propyl)benzamide
+This compound was prepared from Intermediate 3 and 2-amino-3-butanol according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (5.8 mg, 20%). Data: LCMS (B) Rt: 8.859 min; m/z327.2 (M+H)+.

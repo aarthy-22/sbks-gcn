@@ -1,0 +1,12 @@
+Pharmacological therapy of Cushing's syndrome: drugs and indications.
+OBJECTIVE: To review the main pharmacological properties and clinical applications of the drugs used in the medical therapy of Cushing's syndrome.
+DATA SOURCES: Search for articles were performed in the following dababases: MEDLINE, EMBASE, Cochrane Database of systematic Reviews and The Cochrane Central Register of Controlled Trials (CENTRAL).
+Search terms included Cushing's syndrome and drug therapy.
+DATA SYNTHESIS: Available data suggest that neuromodulatory compounds affect corticotropin (ACTH) or ACTH-releasing hormone (CRH) synthesis and release.
+They include serotonin antagonists, dopaminergic agonists, valproic acid, reserpine, somatostatin analogs and thiazolidinediones.
+These agents have been effective in a limited number of patients with ACTH-dependent Cushing's syndrome.
+Inhibitors of steroidogenesis reduce cortisol production by blocking one (metyrapone, trilostane) or several (aminoglutethimide, ketoconazole, fluconazole, etomidate) enzymes involved in steroid biosynthesis.
+Mitotane is a steroidogenesis inhibitor with adrenolitic properties.
+Mifepriston'e blocks glucocorticoid receptor activation without modifying cortisol synthesis.
+CONCLUSION: Agents that inhibit steroidogenesis are useful in all forms of Cushing's syndrome and are effective in about 70% of patients.
+Main indications for drug therapy include preparation for surgery, persistence or recurrence after surgery, while awaiting for the effect of radiation therapy, occult ectopic ACTH syndrome, severe hypercortisolism and malignancy related hypercortisolism.

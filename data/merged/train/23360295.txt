@@ -1,0 +1,8 @@
+Effects of polymer end-group chemistry and order of deposition on controlled protein delivery from layer-by-layer assembly.
+Layer-by-layer (LBL) assembly is an attractive platform for controlled release of biologics given its mild fabrication process and versatility in coating substrates of any shape.
+Proteins can be incorporated into LBL coatings by sequentially depositing oppositely charged polyelectrolytes, which self-assemble into nanoscale films on medical devices or tissue engineering scaffolds.
+However, previously reported LBL platforms often require the use of a few hundred layers to avoid burst release, which hinders their broad translation due to the lengthy fabrication process, cost, and batch-to-batch variability.
+Here we report a biodegradable LBL platform composed of only 10 layers with tunable protein release kinetics, which is an order of magnitude less than previously reported LBL platforms.
+We performed a combinatorial study to examine the effects of polymer chemistry and order of deposition of poly(β-amino) esters on protein release kinetics under 81 LBL assembly conditions.
+Using the optimal "polyelectrolyte couples" for constructing the LBL film, basic fibroblast growth factor (bFGF) was released gradually over 14 days with retained biological activity to stimulate cell proliferation.
+The method reported herein is applicable for coating various substrates including metals, polymers, and ceramics and may be used for a broad range of biomedical and tissue engineering applications.

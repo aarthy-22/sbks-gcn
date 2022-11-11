@@ -1,0 +1,13 @@
+Vitamin D receptor: key roles in bone mineral pathophysiology, molecular mechanism of action, and novel nutritional ligands.
+The vitamin D hormone, 1,25-dihydroxyvitamin D(3) [1,25(OH)(2)D(3)], binds with high affinity to the nuclear vitamin D receptor (VDR), which recruits its retinoid X receptor (RXR) heterodimeric partner to recognize vitamin D responsive elements (VDREs) in target genes.
+1,25(OH)(2)D(3) is known primarily as a regulator of calcium, but it also controls phosphate (re)absorption at the intestine and kidney.
+Fibroblast growth factor 23 (FGF23) is a phosphaturic hormone produced in osteoblasts that, like PTH, lowers serum phosphate by inhibiting renal reabsorption through Npt2a/Npt2c.
+Real-time PCR and reporter gene transfection assays were used to probe VDR-mediated transcriptional control by 1,25(OH)(2)D(3).
+Reporter gene and mammalian two-hybrid transfections, plus competitive receptor binding assays, were used to discover novel VDR ligands.
+1,25(OH)(2)D(3) induces FGF23 78-fold in osteoblasts, and because FGF23 in turn represses 1,25(OH)(2)D(3) synthesis, a reciprocal relationship is established, with FGF23 indirectly curtailing 1,25(OH)(2)D(3)-mediated intestinal absorption and counterbalancing renal reabsorption of phosphate, thereby reversing hyperphosphatemia and preventing ectopic calcification.
+Therefore, a 1,25(OH)(2)D(3)-FGF23 axis regulating phosphate is comparable in importance to the 1,25(OH)(2)D(3)-PTH axis that regulates calcium.
+1,25(OH)(2)D(3) also elicits regulation of LRP5, Runx2, PHEX, TRPV6, and Npt2c, all anabolic toward bone, and RANKL, which is catabolic.
+Regulation of mouse RANKL by 1,25(OH)(2)D(3) supports a cloverleaf model, whereby VDR-RXR heterodimers bound to multiple VDREs are juxtapositioned through chromatin looping to form a supercomplex, potentially allowing simultaneous interactions with multiple co-modulators and chromatin remodeling enzymes.
+VDR also selectively binds certain omega3/omega6 polyunsaturated fatty acids (PUFAs) with low affinity, leading to transcriptionally active VDR-RXR complexes.
+Moreover, the turmeric-derived polyphenol, curcumin, activates transcription of a VDRE reporter construct in human colon cancer cells.
+Activation of VDR by PUFAs and curcumin may elicit unique, 1,25(OH)(2)D(3)-independent signaling pathways to orchestrate the bioeffects of these lipids in intestine, bone, skin/hair follicle, and other VDR-containing tissues.

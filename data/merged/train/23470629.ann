@@ -1,0 +1,19 @@
+T10	CHEMICAL 39 65	3β-Hydroxy-Δ(5)-bile Acids
+T11	CHEMICAL 69 78	Bile Salt
+T15	GENE-Y 69 90	Bile Salt Export Pump
+T16	GENE-N 95 135	Multidrug Resistance-Associated Proteins
+T1	CHEMICAL 273 299	3β-hydroxy-Δ(5)-bile acids
+T2	CHEMICAL 419 429	bile acids
+T3	CHEMICAL 532 558	3β-hydroxy-Δ(5)-bile acids
+T12	GENE-N 713 764	human multidrug resistance-associated protein 2-, 3
+T13	GENE-Y 771 798	human bile salt export pump
+T4	CHEMICAL 777 786	bile salt
+T5	CHEMICAL 835 861	3β-hydroxy-Δ(5)-bile acids
+T14	GENE-Y 899 946	human multidrug resistance-associated protein 3
+T6	CHEMICAL 976 1002	3β-hydroxy-Δ(5)-bile acids
+T7	CHEMICAL 1021 1031	bile acids
+T8	CHEMICAL 1040 1056	glycocholic acid
+T9	CHEMICAL 1061 1092	taurolithocholic acid 3-sulfate
+R0	CPR-9 Arg1:T5 Arg2:T13
+R1	CPR-9 Arg1:T6 Arg2:T14
+R2	CPR-9 Arg1:T7 Arg2:T14

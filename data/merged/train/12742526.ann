@@ -1,0 +1,29 @@
+T14	CHEMICAL 8 18	methionine
+T15	GENE-Y 103 117	growth hormone
+T16	GENE-Y 119 128	prolactin
+T19	GENE-N 134 161	thyroid-stimulating hormone
+T6	CHEMICAL 288 298	methionine
+T7	CHEMICAL 474 484	methionine
+T8	CHEMICAL 503 513	methionine
+T9	CHEMICAL 624 634	methionine
+T17	GENE-N 735 771	liver methionine adenosyltransferase
+T10	CHEMICAL 741 751	methionine
+T18	GENE-N 773 776	MAT
+T11	CHEMICAL 849 862	cystathionine
+T20	GENE-N 849 871	cystathionine synthase
+T21	GENE-Y 887 900	cystathionase
+T12	CHEMICAL 921 928	glycine
+T22	GENE-Y 921 948	glycine N-methyltransferase
+T13	CHEMICAL 929 930	N
+T23	GENE-Y 950 954	GNMT
+T24	GENE-N 1012 1015	MAT
+T25	GENE-Y 1020 1024	GNMT
+T1	CHEMICAL 1067 1087	S-adenosylmethionine
+T2	CHEMICAL 1121 1143	S-adenosylhomocysteine
+T3	CHEMICAL 1294 1304	methionine
+T4	CHEMICAL 1314 1324	methionine
+T5	CHEMICAL 1472 1482	methionine
+R0	NOT Arg1:T10 Arg2:T23
+R1	NOT Arg1:T18 Arg2:T11
+R2	NOT Arg1:T11 Arg2:T21
+R3	NOT Arg1:T12 Arg2:T23

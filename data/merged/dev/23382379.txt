@@ -1,0 +1,13 @@
+Mammalian myosin-18A, a highly divergent myosin.
+The Mus musculus myosin-18A gene is expressed as two alternatively spliced isoforms, α and β, with reported roles in Golgi localization, in maintenance of cytoskeleton, and as receptors for immunological surfactant proteins.
+Both myosin-18A isoforms feature a myosin motor domain, a single predicted IQ motif, and a long coiled-coil reminiscent of myosin-2.
+The myosin-18Aα isoform, additionally, has an N-terminal PDZ domain.
+Recombinant heavy meromyosin- and subfragment-1 (S1)-like constructs for both myosin-18Aα and -18β species were purified from the baculovirus/Sf9 cell expression system.
+These constructs bound both essential and regulatory light chains, indicating an additional noncanonical light chain binding site in the neck.
+Myosin-18Aα-S1 and -18Aβ-S1 molecules bound actin weakly with Kd values of 4.9 and 54 μm, respectively.
+The actin binding data could be modeled by assuming an equilibrium between two myosin conformations, a competent and an incompetent form to bind actin.
+Actin binding was unchanged by presence of nucleotide.
+Both myosin-18A isoforms bound N-methylanthraniloyl-nucleotides, but the rate of ATP hydrolysis was very slow (<0.002 s(-1)) and not significantly enhanced by actin.
+Phosphorylation of the regulatory light chain had no effect on ATP hydrolysis, and neither did the addition of tropomyosin or of GOLPH3, a myosin-18A binding partner.
+Electron microscopy of myosin-18A-S1 showed that the lever is strongly angled with respect to the long axis of the motor domain, suggesting a pre-power stroke conformation regardless of the presence of ATP.
+These data lead us to conclude that myosin-18A does not operate as a traditional molecular motor in cells.

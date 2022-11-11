@@ -1,0 +1,6 @@
+Peroxide-eliminating oxidoreductases as biosensors of antioxidant components of medicinal plants.
+A simple in vitro test system based on the use of peroxide-eliminating oxidoreductases (glutathione reductase, glutathione peroxidase) is described.
+The system allows detection of antioxidant properties of aqueous extracts from raw medicinal plants.
+The system was used for testing water extract of Baikalskii-6 tea.
+Antioxidant and, presumably, adaptogenic activity of this tea was detected.
+In addition to activation of glutathione reductase and glutathione peroxidase, the preparation inhibits erythrocyte catalase and therefore should not be used for detection of antioxidant activity in in vitro screening tests.

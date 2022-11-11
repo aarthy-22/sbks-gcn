@@ -1,0 +1,66 @@
+T21	CHEMICAL 24 30	folate
+T5	CHEMICAL 137 143	Folate
+T3	CHEMICAL 244 254	folic acid
+T9	CHEMICAL 476 482	folate
+T10	CHEMICAL 580 586	folate
+T11	CHEMICAL 732 738	folate
+T30	GENE-Y 732 749	folate receptor 1
+T12	CHEMICAL 751 757	folate
+T31	GENE-Y 751 768	folate receptor 2
+T32	GENE-Y 770 803	solute carrier family 19 member 1
+T33	GENE-Y 805 822	transcobalamin II
+T13	CHEMICAL 824 849	methylenetetrahydrofolate
+T34	GENE-Y 824 865	methylenetetrahydrofolate dehydrogenase 1
+T14	CHEMICAL 867 887	serine hydroxymethyl
+T35	GENE-Y 867 901	serine hydroxymethyl-transferase 1
+T15	CHEMICAL 900 933	1, 5,10-methylenetetrahydrofolate
+T36	GENE-Y 903 943	5,10-methylenetetrahydrofolate reductase
+T37	GENE-Y 945 950	MTHFR
+T16	CHEMICAL 953 991	5-methyltetrahydrofolate-homo-cysteine
+T38	GENE-Y 953 1009	5-methyltetrahydrofolate-homo-cysteine methyltransferase
+T17	CHEMICAL 1011 1035	5-methyltetrahydrofolate
+T39	GENE-Y 1011 1076	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+T18	CHEMICAL 1036 1048	homocysteine
+T19	CHEMICAL 1078 1085	betaine
+T40	GENE-Y 1078 1116	betaine-homocysteine methyltransferase
+T20	CHEMICAL 1086 1098	homocysteine
+T41	GENE-Y 1118 1122	BHMT
+T1	CHEMICAL 1129 1142	cystathionine
+T22	GENE-Y 1129 1156	cystathionine-beta-synthase
+T2	CHEMICAL 1179 1189	nucleotide
+T23	GENE-Y 1214 1218	BHMT
+T4	CHEMICAL 1324 1330	folate
+T24	GENE-Y 1389 1393	BHMT
+T25	GENE-Y 1495 1500	MTHFR
+T6	CHEMICAL 1573 1579	folate
+T26	GENE-Y 1684 1689	MTHFR
+T27	GENE-Y 1694 1698	BHMT
+T28	GENE-Y 1733 1737	BHMT
+T29	GENE-Y 1801 1806	MTHFR
+T7	CHEMICAL 1870 1876	folate
+T8	CHEMICAL 1881 1891	methionine
+R0	NOT Arg1:T11 Arg2:T41
+R1	NOT Arg1:T30 Arg2:T14
+R2	NOT Arg1:T30 Arg2:T17
+R3	NOT Arg1:T12 Arg2:T38
+R4	NOT Arg1:T12 Arg2:T22
+R5	NOT Arg1:T31 Arg2:T15
+R6	NOT Arg1:T32 Arg2:T13
+R7	NOT Arg1:T32 Arg2:T17
+R8	NOT Arg1:T32 Arg2:T19
+R9	NOT Arg1:T33 Arg2:T16
+R10	NOT Arg1:T34 Arg2:T14
+R11	NOT Arg1:T14 Arg2:T39
+R12	NOT Arg1:T35 Arg2:T16
+R13	NOT Arg1:T35 Arg2:T18
+R14	NOT Arg1:T35 Arg2:T1
+R15	NOT Arg1:T15 Arg2:T39
+R16	NOT Arg1:T15 Arg2:T41
+R17	NOT Arg1:T36 Arg2:T18
+R18	NOT Arg1:T36 Arg2:T1
+R19	NOT Arg1:T37 Arg2:T18
+R20	NOT Arg1:T16 Arg2:T39
+R21	NOT Arg1:T38 Arg2:T17
+R22	NOT Arg1:T38 Arg2:T19
+R23	NOT Arg1:T38 Arg2:T1
+R24	NOT Arg1:T18 Arg2:T41

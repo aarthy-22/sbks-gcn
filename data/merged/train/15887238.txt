@@ -1,0 +1,13 @@
+Induction of heparin-binding EGF-like growth factor and activation of EGF receptor in imatinib mesylate-treated squamous carcinoma cells.
+Imatinib mesylate is a tyrosine kinase inhibitor of the ABL, platelet-derived growth factor receptor (PDGFR), and c-kit kinases.
+Inhibition of BCR-ABL and c-kit accounts for its clinical activity in leukemia and sarcoma, respectively.
+In this report, we describe other cellular targets for imatinib.
+Treatment of head and neck squamous carcinoma cells with clinically relevant concentrations of imatinib-induced changes in cell morphology and growth similar to changes associated with epidermal growth factor receptor (EGFR) activation.
+Imatinib-induced changes were blocked with the EGFR antagonist cetuximab, which suggested direct involvement of EGFR in this process.
+Western blot analysis of cells incubated with imatinib demonstrated activation of EGFR and downstream signaling that was reduced by inhibition of mitogen-activated protein/extracellular signal-regulated kinase kinase 1 (MEK1) and EGFR, but not Her2/ErbB2.
+An in vitro kinase assay showed that imatinib did not directly affect EGFR kinase activity, suggesting involvement of EGFR-activating molecules.
+Inhibitors and neutralizing antibodies against heparin-binding epidermal growth factor-like growth factor (HB-EGF), and to a lesser extent transforming growth factor-alpha, reduced imatinib-mediated mitogen activated protein kinase (MAPK) activation.
+Imatinib stimulated the rapid release of soluble HB-EGF and the subsequent induction of membrane-bound HB-EGF, which correlated with biphasic MAPK activation.
+Together, these results suggested that imatinib affects EGFR activation and signaling pathways through rapid release and increased expression of endogenous EGFR-activating ligands.
+Although, imatinib primarily inhibits tyrosine kinases, it also stimulates the activity of EGFR tyrosine kinase in head and neck squamous tumors.
+This finding demonstrates the need for careful use of this drug in cancer patients.

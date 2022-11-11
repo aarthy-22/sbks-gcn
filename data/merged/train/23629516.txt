@@ -1,0 +1,9 @@
+In ovo effects of two organophosphate flame retardants, TCPP and TDCPP, on pipping success, development, mRNA expression and thyroid hormone levels in chicken embryos.
+Tris(1-chloro-2-propyl) phosphate (TCPP) and tris(1,3-dichloro-2-propyl) phosphate (TDCPP) are organic flame retardants detected in the environment and biota for which toxicological data for avian species are limited.
+In this study, domestic chicken eggs were injected with TCPP or TDCPP (maximum dose = 51600 and 45000 ng/g egg, respectively) to determine dose-dependent effects on pipping success, development, hepatic messenger RNA (mRNA) expression levels of genes associated with xenobiotic metabolism and the thyroid hormone (TH) pathway, and TH levels following 20-22 days of incubation.
+Neither compound reduced pipping success; however, TCPP significantly delayed pipping at 9240 and 51600 ng/g and reduced tarsus length at 51600 ng/g.
+TDCPP exposure resulted in significant decreases in head plus bill length, embryo mass and gallbladder size at 45000 ng/g and reduced plasma free T4 levels at 7640 ng/g.
+Type I deiodinase, liver fatty-acid binding protein and cytochrome P450 (CYP) 3A37 mRNA levels were significantly induced by TCPP, while TDCPP induced CYP3A37 and CYP2H1.
+Chemical analysis of egg contents at incubation days 0, 5, 11, 18, and 19 revealed that >92% of the injected TCPP or TDCPP concentration was detectable up to day 5; however, <1% was detected by day 19.
+The observed phenotypic responses to TCPP and TDCPP exposure may be associated with disruption of the TH-axis, which is critical for normal growth and development in birds.
+The effects of TDCPP on the gallbladder indicate that the disturbance of lipid metabolism is a likely target in its mechanism of toxicity.

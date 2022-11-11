@@ -1,0 +1,12 @@
+ABA3 is a molybdenum cofactor sulfurase required for activation of aldehyde oxidase and xanthine dehydrogenase in Arabidopsis thaliana.
+The xanthine oxidase class of molybdenum enzyzmes requires a terminal sulfur ligand at the active site.
+It has been proposed that a special sulfurase catalyzes the insertion of this ligand thereby activating the enzymes.
+Previous analyses of mutants in plants indicated that the genetic locus aba3 is involved in this step leading to activation of the molybdenum enzymes aldehyde oxidase and xanthine dehydrogenase.
+Here we report the cloning of the aba3 gene from Arabidopsis thaliana and the biochemical characterization of the purified protein.
+ABA3 is a two-domain protein with a N-terminal NifS-like sulfurase domain and a C-terminal domain that might be involved in recognizing the target enzymes.
+Molecular analysis of three aba3 mutants identified mutations in both domains.
+ABA3 contains highly conserved binding motifs for pyridoxal phosphate and for a persulfide.
+The purified recombinant protein possesses a cysteine desulfurase activity, is yellow in color, and shows a NifS-like change in absorbance in the presence of L-cysteine.
+Pretreatment of ABA3 with a thiol-specific alkylating reagent inhibited its desulfurase activity.
+These data indicate a transsulfuration reaction similar to bacterial NifS. In a fully defined in vitro system, the purified protein was able to activate aldehyde oxidase by using L-cysteine as sulfur donor.
+Finally, we show that the expression of the aba3 gene is inducible by drought-stress.

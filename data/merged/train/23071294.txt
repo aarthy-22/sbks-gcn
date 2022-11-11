@@ -1,0 +1,10 @@
+ApoE derived from adipose tissue does not suppress atherosclerosis or correct hyperlipidemia in apoE knockout mice.
+The synthesis of apoE by adipocytes has profound effects on adipose tissue lipid flux and gene expression.
+Using adipose tissue transplantation from wild-type (WT) to apoE knockout (EKO) mice, we show that adipose tissue also contributes to circulating apoE. Different from circulating apoE produced by bone marrow transplantation (BMT), however, adipose tissue-derived apoE does not correct hyperlipidemia or suppress atherosclerosis.
+ApoE secreted by macrophages has a more acidic isoform distribution, and it increases binding of reconstituted VLDL particles to hepatocytes and fibroblasts more effectively than apoE secreted by adipocytes.
+The incremental binding can be entirely accounted for by binding to the LDL receptor.
+After BMT into EKO hosts, plasma cholesterol and macrophage-derived apoE are largely within IDL/LDL- and HDL-sized particles.
+After adipose tissue transplantation, most cholesterol and adipocyte apoE remain in VLDL.
+After BMT, circulating apoE no longer demonstrates predominance of acidic isoforms compared with that circulating after fat transplantation.
+In conclusion, fat transplantation provides circulating apoE levels similar to those provided by bone marrow transplantation, but it does not suppress hyperlipidemia or atherosclerosis.
+A potential mechanism contributing to this difference is differential binding to cell surface lipoprotein receptors.

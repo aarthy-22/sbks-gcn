@@ -1,0 +1,9 @@
+Characterization of an allosteric citalopram-binding site at the serotonin transporter.
+The serotonin transporter (SERT), which belongs to a family of sodium/chloride-dependent transporters, is the major pharmacological target in the treatment of several clinical disorders, including depression and anxiety.
+In the present study we show that the dissociation rate, of [3H]S-citalopram from human SERT, is retarded by the presence of serotonin, as well as by several antidepressants, when present in the dissociation buffer.
+Dissociation of [3H]S-citalopram from SERT is most potently inhibited by S-citalopram followed by R-citalopram, sertraline, serotonin and paroxetine.
+EC50 values for S- and R-citalopram are 3.6 +/- 0.4 microm and 19.4 +/- 2.3 microm, respectively.
+Fluoxetine, venlafaxine and duloxetine have no significant effect on the dissociation of [3H]S-citalopram.
+Allosteric modulation of dissociation is independent of temperature, or the presence of Na+ in the dissociation buffer.
+Dissociation of [3H]S-citalopram from a complex with the SERT double-mutant, N208Q/N217Q, which has been suggested to be unable to self-assemble into oligomeric complexes, is retarded to an extent similar to that found with the wild-type, raising the possibility that the allosteric mechanism is mediated within a single subunit.
+A species-scanning mutagenesis study comparing human and bovine SERT revealed that Met180, Tyr495 and Ser513 are important residues in mediating the allosteric effect, as well as contributing to high-affinity binding at the primary site.

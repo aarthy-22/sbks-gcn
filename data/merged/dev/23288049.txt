@@ -1,0 +1,11 @@
+Toxicity of the flame-retardant BDE-49 on brain mitochondria and neuronal progenitor striatal cells enhanced by a PTEN-deficient background.
+Polybrominated diphenyl ethers (PBDEs) represent an important group of flame retardants extensively used, tonnage of which in the environment has been steadily increasing over the past 25 years.
+PBDEs or metabolites can induce neurotoxicity and mitochondrial dysfunction (MD) through a variety of mechanisms.
+Recently, PBDEs with < 5 Br substitutions (i.e., 2,2',4,4'-tetrabromodiphenyl ether [BDE-47] and 2,2',4,5'-tetrabromodiphenyl ether [BDE-49]) have gained interest because of their high bioaccumulation.
+In particular, congeners such as BDE-49 arise as one of the most biologically active, with concentrations typically lower than those observed for BDE-47 in biological tissues; however, its potential to cause MD at biologically relevant concentrations is unknown.
+To this end, the effect of BDE-49 was studied in brain mitochondria and neuronal progenitor striatal cells (NPC).
+BDE-49 uncoupled mitochondria at concentrations < 0.1 nM, whereas at > 1 nM, it inhibited the electron transport at Complex V (mixed type inhibition; IC(50) = 6 nM) and
+Complex IV (noncompetitive inhibition; IC(50) = 40 nM).
+These concentrations are easily achieved in plasma concentrations considering that BDE-49 (this study, 400-fold) and other PBDEs accumulate 1-3 orders of magnitude in the cells, particularly in mitochondria and microsomes.
+Similar effects were observed in NPC and exacerbated with PTEN (negative modulator of the PI3K/Akt pathway) deficiency, background associated with autism-like behavior, schizophrenia, and epilepsy.
+PBDE-mediated MD per se or enhanced by a background that confers susceptibility to this exposure may have profound implications in the energy balance of brain.

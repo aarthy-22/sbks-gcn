@@ -1,0 +1,12 @@
+Transplacental exposure to inorganic arsenic at a hepatocarcinogenic dose induces fetal gene expression changes in mice indicative of aberrant estrogen signaling and disrupted steroid metabolism.
+Exposure to inorganic arsenic in utero in C3H mice produces hepatocellular carcinoma in male offspring when they reach adulthood.
+To help define the molecular events associated with the fetal onset of arsenic hepatocarcinogenesis, pregnant C3H mice were given drinking water containing 0 (control) or 85 ppm arsenic from day 8 to 18 of gestation.
+At the end of the arsenic exposure period, male fetal livers were removed and RNA isolated for microarray analysis using 22K oligo chips.
+Arsenic exposure in utero produced significant (p<0.001) alterations in expression of 187 genes, with approximately 25% of aberrantly expressed genes related to either estrogen signaling or steroid metabolism.
+Real-time RT-PCR on selected genes confirmed these changes.
+Various genes controlled by estrogen, including X-inactive-specific transcript, anterior gradient-2, trefoil factor-1, CRP-ductin, ghrelin, and small proline-rich protein-2A, were dramatically over-expressed.
+Estrogen-regulated genes including cytokeratin 1-19 and Cyp2a4 were over-expressed, although Cyp3a25 was suppressed.
+Several genes involved with steroid metabolism also showed remarkable expression changes, including increased expression of 17beta-hydroxysteroid dehydrogenase-7 (HSD17beta7; involved in estradiol production) and decreased expression of HSD17beta5 (involved in testosterone production).
+The expression of key genes important in methionine metabolism, such as methionine adenosyltransferase-1a, betaine-homocysteine methyltransferase and thioether S-methyltransferase, were suppressed.
+Thus, exposure of mouse fetus to inorganic arsenic during a critical period in development significantly alters the expression of various genes encoding estrogen signaling and steroid or methionine metabolism.
+These alterations could disrupt genetic programming at the very early life stage, which could impact tumor formation much later in adulthood.

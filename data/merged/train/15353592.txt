@@ -1,0 +1,11 @@
+Different functional roles of T1R subunits in the heteromeric taste receptors.
+The T1R receptors, a family of taste-specific class C G protein-coupled receptors, mediate mammalian sweet and umami tastes.
+The structure-function relationships of T1R receptors remain largely unknown.
+In this study, we demonstrate the different functional roles of T1R extracellular and transmembrane domains in ligand recognition and G protein coupling.
+Similar to other family C G protein-coupled receptors, the N-terminal Venus flytrap domain of T1R2 is required for recognizing sweeteners, such as aspartame and neotame.
+The G protein coupling requires the transmembrane domain of T1R2.
+Surprisingly, the C-terminal transmembrane domain of T1R3 is required for recognizing sweetener cyclamate and sweet taste inhibitor lactisole.
+Because T1R3 is the common subunit in the sweet taste receptor and the umami taste receptor, we tested the interaction of lactisole and cyclamate with the umami taste receptor.
+Lactisole inhibits the activity of the human T1R1/T1R3 receptor, and, as predicted, blocked the umami taste of l-glutamate in human taste tests.
+Cyclamate does not activate the T1R1/T1R3 receptor by itself, but potentiates the receptor's response to l-glutamate.
+Taken together, these findings demonstrate the different functional roles of T1R3 and T1R2 and the presence of multiple ligand binding sites on the sweet taste receptor.

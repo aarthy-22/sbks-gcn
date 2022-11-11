@@ -1,0 +1,6 @@
+Mechanistic Aspects of hSOD1 Maturation from the Solution Structure of Cu(I) -Loaded hCCS Domain 1 and Analysis of Disulfide-Free hSOD1 Mutants.
+Superoxide dismutase 1 (SOD1) maturation within the cell is mainly accomplished with the SOD1-specific chaperone, CCS, a dimeric protein with three distinct domains in each monomer.
+We recently showed that the first domain of human CCS (hCCSD1) is responsible for copper transfer to its protein partner, human SOD1 (hSOD1).
+The NMR solution structure of the copper(I)-loaded form of hCCSD1 reported here contributes further to characterization of the copper-transfer mechanism to hSOD1.
+NMR spectroscopy was also used to examine the hSOD1 mutants C57A, C146A, and C57A/C146A, which are unable to form the structurally conserved disulfide bond in SOD1, in order to investigate the role of these cysteines during hSOD1 copper acquisition.
+Together, the information on both hCCS and hSOD1, along with a sequence analysis of eukaryotic CCSD1, allows us to propose important mechanistic aspects regarding the copper-transfer process from hCCS to hSOD1.

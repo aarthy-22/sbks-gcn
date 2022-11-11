@@ -1,0 +1,20 @@
+T1	EXAMPLE_LABEL 8 10	28
+T2	REACTION_PRODUCT 26 153	trans-2,2-dichloro-N-(4-chloro-3-(2-(pyridin-2-yl)hydrazine-1-carbonyl)phenyl)-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamide
+T3	REACTION_PRODUCT 155 160	F2502
+T4	STARTING_MATERIAL 179 271	trans-2-chloro-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)benzoic acid
+T5	STARTING_MATERIAL 273 276	C12
+T6	STARTING_MATERIAL 304 334	2-(1-methylhydrazinyl)pyridine
+T7	SOLVENT 360 373	ethyl acetate
+T8	TEMPERATURE 384 400	room temperature
+T9	REAGENT_CATALYST 425 446	diisopropylethylamine
+T10	REAGENT_CATALYST 474 537	2,4,6-tripropyl-1,3,5,2,4,6-trioxatriphosphinane 2,4,6-trioxide
+T11	REAGENT_CATALYST 539 543	T3P®
+T12	SOLVENT 587 600	ethyl acetate
+T13	TIME 639 647	18 hours
+T14	TEMPERATURE 651 667	room temperature
+T15	OTHER_COMPOUND 708 716	nitrogen
+T16	OTHER_COMPOUND 769 782	ethyl acetate
+T17	OTHER_COMPOUND 784 791	hexanes
+T18	REACTION_PRODUCT 815 829	title compound
+T19	YIELD_OTHER 849 856	0.019 g
+T20	YIELD_PERCENT 858 861	20%

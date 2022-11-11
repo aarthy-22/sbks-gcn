@@ -1,0 +1,3 @@
+Example 68
+Preparation of tert-Butyl-N-((tert-butoxy)carbonyl)-(3,5-difluoro-4-nitrophenyl)carbamate (C189)
+To a solution of 3,5-difluoro-4-nitroaniline (1.0 g, 5.74 mmol) in dichloromethane (25.0 mL) was added di-tert-butyl dicarbonate (2.63 g, 12.1 mmol) followed by 4-dimethylaminopyridine (0.070 g, 0.574 mmol). The reaction mixture was stirred for 48 hours at room temperature. The reaction mixture was quenched with water and poured through a phase separator. The organic layer was concentrated. Purification by flash column chromatography using 0-20% ethyl acetate/hexanes as eluent afforded the title compound as a yellow solid (1.79 g, 83%):

@@ -1,0 +1,19 @@
+T16	GENE-Y 61 91	human 5-HT6 serotonin receptor
+T7	CHEMICAL 73 82	serotonin
+T13	GENE-Y 143 173	human 5-HT6 serotonin receptor
+T5	CHEMICAL 155 164	serotonin
+T10	GENE-Y 323 334	human 5-HT6
+T2	CHEMICAL 354 364	amino-acid
+T11	GENE-Y 443 461	rat 5-HT6 receptor
+T12	GENE-Y 579 590	human 5-HT6
+T3	CHEMICAL 591 601	amino acid
+T14	GENE-Y 673 693	human 5-HT6 receptor
+T4	CHEMICAL 719 727	adenylyl
+T15	GENE-N 719 735	adenylyl cyclase
+T6	CHEMICAL 877 886	clozapine
+T1	CHEMICAL 1111 1120	serotonin
+T8	GENE-Y 1111 1142	serotonin 5-HT1D alpha receptor
+T9	GENE-Y 1235 1255	human 5-HT6 receptor
+R0	CPR-1 Arg1:T3 Arg2:T12
+R1	CPR-2 Arg1:T6 Arg2:T14
+R2	NOT Arg1:T14 Arg2:T4

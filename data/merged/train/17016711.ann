@@ -1,0 +1,25 @@
+T15	CHEMICAL 23 36	dexamethasone
+T16	CHEMICAL 41 53	prednisolone
+T5	CHEMICAL 314 327	dexamethasone
+T6	CHEMICAL 332 344	prednisolone
+T7	CHEMICAL 444 457	Dexamethasone
+T18	GENE-Y 465 488	glucocorticoid receptor
+T19	GENE-Y 490 492	GR
+T8	CHEMICAL 510 522	prednisolone
+T20	GENE-Y 535 537	GR
+T21	GENE-Y 542 568	mineralocorticoid receptor
+T22	GENE-Y 570 572	MR
+T9	CHEMICAL 681 693	prednisolone
+T10	CHEMICAL 704 717	dexamethasone
+T11	CHEMICAL 913 921	cortisol
+T12	CHEMICAL 990 998	cortisol
+T13	CHEMICAL 1057 1069	prednisolone
+T14	CHEMICAL 1074 1087	dexamethasone
+T1	CHEMICAL 1185 1198	dexamethasone
+T2	CHEMICAL 1274 1287	dexamethasone
+T3	CHEMICAL 1425 1437	prednisolone
+T4	CHEMICAL 1574 1586	prednisolone
+T17	GENE-Y 1594 1596	MR
+R0	CPR-2 Arg1:T7 Arg2:T18
+R1	NOT Arg1:T7 Arg2:T21
+R2	NOT Arg1:T7 Arg2:T22

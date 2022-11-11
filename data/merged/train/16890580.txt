@@ -1,0 +1,11 @@
+Association of enzyme and transporter genotypes with the pharmacokinetics of imatinib.
+OBJECTIVE: Our objective was to explore the relationships between imatinib pharmacokinetics and 9 allelic variants in 7 genes coding for adenosine triphosphate-binding cassette transporters (ABCB1 and ABCG2) and enzymes (cytochrome P450 [CYP] 2C9, CYP2C19, CYP2D6, CYP3A4, and CYP3A5) of putative relevance for imatinib.
+METHODS: Imatinib transport in vitro was studied by use of human embryonic kidney 293 cells transfected with wild-type ABCG2 and an ABCG2 Q141K clone.
+Steady-state pharmacokinetics of imatinib was obtained in 82 patients with gastrointestinal stromal tumors treated with oral imatinib at doses ranging from 100 to 1000 mg/d.
+Genotyping was carried out via direct sequencing or restriction fragment length polymorphism-based techniques.
+RESULTS: Human embryonic kidney 293 cells transfected with ABCG2 Q141K exhibited greater drug accumulation in vitro in comparison with cells expressing wild-type ABCG2 (P = .028).
+However, pharmacokinetic parameters of imatinib in vivo were not statistically significantly different in 16 patients who were heterozygous for ABCG2 421C>A compared with 66 patients carrying the wild-type sequence (P = .479).
+The apparent oral clearance of imatinib was potentially reduced in individuals with at least 1 CYP2D6*4 allele (median, 7.78 versus 10.6 L/h; P = .0695).
+Pharmacokinetic parameters were not related to any of the other multiple-variant genotypes (P >or= .230), possibly because of the low allele frequencies.
+CONCLUSIONS: This study indicates that common genetic variants in the evaluated genes have only a limited impact on the pharmacokinetics of imatinib.
+Further investigation is required to quantitatively assess the clinical significance of homozygous variant ABCG2 and CYP2D6 genotypes in patients treated with imatinib.

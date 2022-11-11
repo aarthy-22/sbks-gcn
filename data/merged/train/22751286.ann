@@ -1,0 +1,10 @@
+T6	CHEMICAL 63 72	cisplatin
+T1	CHEMICAL 147 156	Cisplatin
+T2	CHEMICAL 162 193	cis-diamminedichloroplatinum II
+T3	CHEMICAL 369 399	ω-3 polyunsaturated fatty acid
+T4	CHEMICAL 982 992	sulfhydryl
+T7	GENE-N 1097 1100	SOD
+T8	GENE-Y 1102 1110	catalase
+T5	CHEMICAL 1115 1126	glutathione
+T9	GENE-N 1115 1137	glutathione peroxidase
+R0	NOT Arg1:T8 Arg2:T5

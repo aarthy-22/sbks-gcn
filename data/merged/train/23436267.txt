@@ -1,0 +1,9 @@
+Inhibitory effect of ketoconazole on the pharmacokinetics of a multireceptor tyrosine kinase inhibitor BMS-690514 in healthy participants: assessing the mechanism of the interaction with physiologically-based pharmacokinetic simulations.
+BMS-690514, a selective inhibitor of the ErbB and vascular endothelial growth factor receptors, has shown antitumor activity in early clinical development.
+The compound is metabolized by multiple enzymes, with CYP3A4 responsible for the largest fraction (34%) of metabolism.
+It is also a substrate of P-glycoprotein (P-gp) in vitro.
+To assess the effect of ketoconazole on BMS-690514 pharmacokinetics, 17 healthy volunteers received 200 mg BMS-690514 alone followed by 100 mg BMS-690514 with ketoconazole (400 mg once daily for 4 days).
+The AUC(∞) of 100 mg BMS-690514 concomitantly administered with ketoconazole was similar to that of 200 mg BMS-690514 alone.
+The dose-normalized C(max) and AUC(∞) of BMS-690514 from the 100-mg BMS-690514/400-mg ketoconazole treatment increased by 55% and 127%, respectively, relative to those from 200 mg BMS-690514 alone.
+Prediction of the drug-drug interaction (DDI) using a population-based simulator (Simcyp) indicated that, in addition to CYP3A4 inhibition, the inhibition of P-gp by ketoconazole in the intestine, liver, and kidneys must be invoked to fully account for the DDI observed.
+This finding suggests that the inhibition of P-gp by ketoconazole, along with its effect on CYP3A4, needs to be considered when designing a DDI study of ketoconazole with a victim drug that is a dual substrate.

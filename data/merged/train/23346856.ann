@@ -1,0 +1,18 @@
+T18	CHEMICAL 24 34	amino acid
+T1	CHEMICAL 116 123	Leucine
+T17	CHEMICAL 124 134	isoleucine
+T6	CHEMICAL 351 361	amino acid
+T7	CHEMICAL 392 432	Boc-L-leucine methacryloyloxyethyl ester
+T8	CHEMICAL 434 448	Boc-L-Leu-HEMA
+T9	CHEMICAL 455 491	Boc-L-leucine acryloyloxyethyl ester
+T10	CHEMICAL 493 506	Boc-L-Leu-HEA
+T11	CHEMICAL 513 556	Boc-L-isoleucine methacryloyloxyethyl ester
+T12	CHEMICAL 558 572	Boc-L-Ile-HEMA
+T13	CHEMICAL 583 622	Boc-L-isoleucine acryloyloxyethyl ester
+T14	CHEMICAL 624 637	Boc-L-Ile-HEA
+T15	CHEMICAL 733 755	N, N-dimethylformamide
+T16	CHEMICAL 757 760	DMF
+T2	CHEMICAL 1127 1148	methyl (meth)acrylate
+T3	CHEMICAL 1175 1178	Boc
+T4	CHEMICAL 1298 1311	primary amine
+T5	CHEMICAL 1696 1701	amine

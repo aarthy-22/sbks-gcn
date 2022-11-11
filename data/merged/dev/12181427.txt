@@ -1,0 +1,9 @@
+Identification of interaction sites of cyclic nucleotide phosphodiesterase type 3A with milrinone and cilostazol using molecular modeling and site-directed mutagenesis.
+To identify amino acid residues involved in PDE3-selective inhibitor binding, we selected eight presumed interacting residues in the substrate-binding pocket of PDE3A using a model created on basis of homology to the PDE4B crystal structure.
+We changed the residues to alanine using site-directed mutagenesis technique, expressed the mutants in a baculovirus/Sf9 cell system, and analyzed the kinetic characteristics of inhibition of the mutant enzymes by milrinone and cilostazol, specific inhibitors of PDE3.
+The mutants displayed differential sensitivity to the inhibitors.
+Mutants Y751A, D950A, and F1004A had reduced sensitivity to milrinone (K(i) changed from 0.66 microM for the recombinant PDE3A to 7.5 to 156 microM for the mutants), and diminished sensitivity to cilostazol (K(i) of the mutants were 18- to 371-fold higher than that of the recombinant PDE3A).
+In contrast, the mutants T844A, F972A and Q975A showed increased K(i) for cilostazol but no difference for milrinone from the recombinant PDE3A.
+Molecular models show that the PDE3 inhibitors cilostazol and milrinone share some of common residues but interact with distinct residues at the active site, suggesting that selective inhibitors can be designed with flexible size against PDE3 active site.
+Our study implies that highly conserved residuals Y751, D950 and F1004 in the PDE families are key residues for binding of both substrate and inhibitors, and nonconserved T844 may be responsible for the cilostazol selectivity of PDE3A.
+Detailed knowledge of the structure of inhibitory sites should contribute to development of more potent and specific inhibitory drugs.

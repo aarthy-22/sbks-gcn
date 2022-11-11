@@ -1,0 +1,10 @@
+T6	CHEMICAL 84 97	phosphoserine
+T1	CHEMICAL 284 306	pyridoxal-5'-phosphate
+T2	CHEMICAL 324 337	phosphoserine
+T7	GENE-Y 324 354	phosphoserine aminotransferase
+T4	CHEMICAL 802 824	pyridoxal-5'-phosphate
+T5	CHEMICAL 1115 1128	phosphoserine
+T9	GENE-Y 1115 1145	phosphoserine aminotransferase
+T3	CHEMICAL 1853 1866	phosphoserine
+T8	GENE-Y 1853 1883	phosphoserine aminotransferase
+R0	NOT Arg1:T4 Arg2:T9

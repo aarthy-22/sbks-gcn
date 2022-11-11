@@ -1,0 +1,10 @@
+Neuroprotective Effects of Cilostazol on Retinal Ganglion Cell damage in Diabetic Rats.
+Neurodegeneration is an important component of diabetic retinopathy with increasing evidence that retinal ganglion cell (RGC) death occurs early in diabetes.
+We investigated the effects of cilostazol, which has been widely used to manage diabetic complications, on retinal ganglion cell death in diabetic retina.
+Four-week-old Otsuka Long-Evans Tokushima Fatty (OLETF) rats and Long-Evans Tokushima Otsuka (LETO) rats as matched nondiabetic controls were treated with daily oral cilostazol at 30mg/kg or 0.9 % saline solution.
+In OLETF rats at the age of 40 weeks, glial fibrillary acidic protein (GFAP) immunofluorescence staining was upregulated in vertical sections and showed a more ramified pattern in whole-mount retinas compared with that in LETO rats.
+Vascular endothelial growth factor (VEGF) expression was limited to the ganglion cell layer in LETO rats, but extended into the outer plexiform layer in OLETF rats.
+Immunofluorescence staining and western blotting demonstrated that cilostazol treatment reduced GFAP and VEGF expression in the retinas of OLETF rats.
+Terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNLEL) staining revealed an increase in the RGC layer in OLETF compared with LETO rats (P<0.05), and cilostazol treatment reduced the number of TUNEL-positive cells in OLETF rats (P<0.05).
+Relieving retinal ischemia by systemic cilostazol treatment had a noticeable protective effect on RGCs in diabetic rats.
+Cilostazol treatment may be useful for the management of diabetic retinal vascular dysfunction and neuronal degeneration.

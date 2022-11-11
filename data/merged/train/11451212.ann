@@ -1,0 +1,30 @@
+T17	CHEMICAL 37 57	olmesartan medoxomil
+T18	CHEMICAL 62 76	angiotensin II
+T27	GENE-Y 62 94	angiotensin II type AT1 receptor
+T1	CHEMICAL 107 127	Olmesartan medoxomil
+T11	CHEMICAL 149 167	angiotensin (A) II
+T24	GENE-Y 149 167	angiotensin (A) II
+T7	CHEMICAL 347 357	olmesartan
+T8	CHEMICAL 359 367	RNH-6270
+T9	CHEMICAL 380 390	olmesartan
+T21	GENE-Y 437 453	All AT1 receptor
+T22	GENE-Y 505 508	AT2
+T23	GENE-N 513 526	AT4 receptors
+T10	CHEMICAL 528 538	Olmesartan
+T12	CHEMICAL 665 673	losartan
+T13	CHEMICAL 726 736	olmesartan
+T25	GENE-Y 785 788	All
+T14	CHEMICAL 839 859	olmesartan medoxomil
+T26	GENE-Y 874 877	All
+T15	CHEMICAL 1002 1012	olmesartan
+T16	CHEMICAL 1071 1092	candesartan cilexetil
+T2	CHEMICAL 1114 1122	losartan
+T3	CHEMICAL 1146 1166	olmesartan medoxomil
+T19	GENE-N 1296 1301	renin
+T20	GENE-N 1343 1348	renin
+T4	CHEMICAL 1453 1463	olmesartan
+T5	CHEMICAL 1658 1678	olmesartan medoxomil
+T6	CHEMICAL 1864 1884	Olmesartan medoxomil
+R0	CPR-6 Arg1:T1 Arg2:T24
+R1	CPR-4 Arg1:T13 Arg2:T25
+R2	NOT Arg1:T9 Arg2:T23

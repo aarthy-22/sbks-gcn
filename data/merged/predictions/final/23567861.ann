@@ -1,0 +1,40 @@
+T14	CHEMICAL 14 41	7-O-galloyl-d-sedoheptulose
+T9	CHEMICAL 196 223	7-O-galloyl-d-sedoheptulose
+T4	CHEMICAL 670 677	glucose
+T31	GENE 679 685	leptin
+T32	GENE 687 694	insulin
+T33	GENE 696 705	C-peptide
+T34	GENE 707 715	resistin
+T35	GENE 717 740	tumor necrosis factor-α
+T36	GENE 742 755	interleukin-6
+T5	CHEMICAL 757 770	triglycerides
+T6	CHEMICAL 778 789	cholesterol
+T7	CHEMICAL 806 817	fatty acids
+T37	GENE 819 843	high-density lipoprotein
+T8	CHEMICAL 844 855	cholesterol
+T38	GENE 862 885	low-density lipoprotein
+T10	CHEMICAL 886 897	cholesterol
+T39	GENE 898 921	low-density lipoprotein
+T11	CHEMICAL 922 933	cholesterol
+T12	CHEMICAL 944 950	oxygen
+T13	CHEMICAL 970 989	thiobarbituric acid
+T40	GENE 1053 1064	adiponectin
+T15	GENE 1324 1374	peroxisome proliferator activated receptor (PPAR)α
+T16	GENE 1376 1381	PPARγ
+T17	GENE 1387 1404	B-cell lymphoma 2
+T1	CHEMICAL 1509 1515	sterol
+T18	GENE 1509 1552	sterol regulatory element binding protein-1
+T19	GENE 1554 1574	nuclear factor-kappa
+T20	GENE 1583 1599	cyclooxygenase-2
+T21	GENE 1601 1632	inducible nitric oxide synthase
+T2	CHEMICAL 1611 1623	nitric oxide
+T22	GENE 1634 1664	monocyte chemotactic protein-1
+T23	GENE 1666 1699	intracellular adhesion molecule-1
+T24	GENE 1701 1715	phosphor c-Jun
+T3	CHEMICAL 1716 1717	N
+T25	GENE 1727 1733	kinase
+T26	GENE 1735 1754	activator protein-1
+T27	GENE 1756 1785	transforming growth factor-β1
+T28	GENE 1787 1790	Bax
+T29	GENE 1792 1804	cytochrome c
+T30	GENE 1810 1819	caspase-3

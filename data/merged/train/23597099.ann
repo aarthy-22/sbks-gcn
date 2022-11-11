@@ -1,0 +1,10 @@
+T6	CHEMICAL 0 16	2-Methoxyjuglone
+T4	CHEMICAL 232 239	ethanol
+T1	CHEMICAL 423 428	EtOAc
+T2	CHEMICAL 457 473	2-methoxyjuglone
+T3	CHEMICAL 774 790	propidium iodide
+T5	CHEMICAL 915 931	propidium iodide
+T9	GENE-N 1062 1088	apoptosis-related proteins
+T10	GENE-Y 1156 1168	cytochrome c
+T7	GENE-Y 1197 1206	caspase-9
+T8	GENE-Y 1211 1220	caspase-3

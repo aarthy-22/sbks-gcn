@@ -1,0 +1,11 @@
+Role of Asp104 in the SHV beta-lactamase.
+Among the TEM-type extended-spectrum beta-lactamases (ESBLs), an amino acid change at Ambler position 104 (Glu to Lys) results in increased resistance to ceftazidime and cefotaxime when found with other substitutions (e.g., Gly238Ser and Arg164Ser).
+To examine the role of Asp104 in SHV beta-lactamases, site saturation mutagenesis was performed.
+Our goal was to investigate the properties of amino acid residues at this position that affect resistance to penicillins and oxyimino-cephalosporins.
+Unexpectedly, 58% of amino acid variants at position 104 in SHV expressed in Escherichia coli DH10B resulted in beta-lactamases with lowered resistance to ampicillin.
+In contrast, increased resistance to cefotaxime was demonstrated only for the Asp104Arg and Asp104Lys beta-lactamases.
+When all 19 substitutions were introduced into the SHV-2 (Gly238Ser) ESBL, the most significant increases in cefotaxime and ceftazidime resistance were noted for both the doubly substituted Asp104Lys Gly238Ser and the doubly substituted Asp104Arg Gly238Ser beta-lactamases.
+Correspondingly, the overall catalytic efficiency (kcat/Km) of hydrolysis for cefotaxime was increased from 0.60 +/-
+0.07 microM(-1) s(-1) (mean +/- standard deviation) for Gly238Ser to 1.70 +/- 0.01 microM(-1) s(-1) for the Asp104Lys and Gly238Ser beta-lactamase (threefold increase).
+We also showed that (i) k3 was the rate-limiting step for the hydrolysis of cefotaxime by Asp104Lys, (ii) the Km for cefotaxime of the doubly substituted Asp104Lys Gly238Ser variant approached that of the Gly238Ser beta-lactamase as pH increased, and (iii) Lys at position 104 functions in an energetically additive manner with the Gly238Ser substitution to enhance catalysis of cephalothin.
+Based on this analysis, we propose that the amino acid at Ambler position 104 in SHV-1 beta-lactamase plays a major role in substrate binding and recognition of oxyimino-cephalosporins and influences the interactions of Tyr105 with penicillins.

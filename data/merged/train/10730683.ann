@@ -1,0 +1,15 @@
+T10	CHEMICAL 0 8	Orlistat
+T14	GENE-N 16 22	lipase
+T1	CHEMICAL 64 72	Orlistat
+T11	GENE-N 228 258	gastric and pancreatic lipases
+T2	CHEMICAL 391 399	orlistat
+T3	CHEMICAL 488 496	Orlistat
+T4	CHEMICAL 552 563	cholesterol
+T12	GENE-N 565 588	low-density lipoprotein
+T5	CHEMICAL 618 625	glucose
+T13	GENE-Y 630 637	insulin
+T6	CHEMICAL 789 797	orlistat
+T7	CHEMICAL 841 849	vitamins
+T8	CHEMICAL 871 878	vitamin
+T9	CHEMICAL 954 961	vitamin
+R0	NOT Arg1:T4 Arg2:T13

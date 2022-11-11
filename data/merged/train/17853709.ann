@@ -1,0 +1,48 @@
+T48	GENE-Y 1 15	Lipoprotein(a)
+T14	GENE-Y 217 222	Lp(a)
+T17	GENE-N 223 234	lipoprotein
+T33	GENE-Y 270 281	plasminogen
+T39	GENE-Y 381 386	LP(A)
+T40	GENE-N 387 398	LIPOPROTEIN
+T41	GENE-N 630 642	lipoproteins
+T42	GENE-Y 651 656	Lp(a)
+T43	GENE-N 657 668	lipoprotein
+T44	GENE-Y 913 920	Plasmin
+T45	GENE-Y 987 998	plasminogen
+T46	GENE-Y 1025 1058	tissue-type plasminogen activator
+T47	GENE-Y 1060 1064	t-PA
+T3	GENE-Y 1070 1101	urokinase plasminogen activator
+T4	GENE-Y 1103 1107	u-PA
+T5	GENE-Y 1143 1154	plasminogen
+T6	GENE-Y 1159 1177	alpha2-antiplasmin
+T7	GENE-N 1182 1222	plasminogen activator inhibitors 1 and 2
+T8	GENE-Y 1224 1228	PA-1
+T9	GENE-Y 1233 1238	PAI-2
+T10	GENE-Y 1266 1271	Lp(a)
+T11	GENE-Y 1276 1287	plasminogen
+T12	GENE-N 1292 1298	apo(a)
+T13	GENE-Y 1303 1314	plasminogen
+T15	GENE-Y 1569 1574	Lp(a)
+T16	GENE-Y 1579 1590	plasminogen
+T1	CHEMICAL 1609 1612	Arg
+T2	CHEMICAL 1618 1621	Ser
+T18	GENE-N 1666 1672	apo(a)
+T19	GENE-N 1676 1698	plasminogen activators
+T20	GENE-Y 1700 1705	LP(A)
+T21	GENE-Y 1724 1729	Lp(a)
+T22	GENE-N 1730 1741	lipoprotein
+T23	GENE-Y 1765 1776	plasminogen
+T24	GENE-N 1780 1793	streptokinase
+T25	GENE-Y 1833 1844	plasminogen
+T26	GENE-N 1864 1885	plasminogen receptors
+T27	GENE-Y 1951 1962	plasminogen
+T28	GENE-Y 1978 1989	tetranectin
+T29	GENE-Y 1994 2008	thrombospondin
+T30	GENE-Y 2016 2021	Lp(a)
+T31	GENE-Y 2045 2077	transforming growth factor alpha
+T32	GENE-Y 2079 2088	TGF-alpha
+T34	GENE-Y 2121 2126	PAI-1
+T35	GENE-Y 2173 2186	tissue factor
+T36	GENE-N 2300 2317	apolipoprotein(a)
+T37	GENE-Y 2344 2349	Lp(a)
+T38	GENE-N 2350 2361	lipoprotein

@@ -1,0 +1,11 @@
+In vivo blockade of platelet ADP receptor P2Y12 reduces embolus and thrombus formation but not thrombus stability.
+OBJECTIVE: ADP is a key platelet agonist in thromboembolism.
+One of the receptors involved in ADP-induced platelet activation is the P2Y12 receptor, which is a target for antithrombotic drugs.
+METHODS AND RESULTS: Here, we present first evidence for a differential role of this receptor in thrombus and embolus formation in vivo.
+Anesthetized rabbits were treated with the selective P2Y12 antagonists AR-C69931 MX (3 microg x kg x min(-1) IV) or clopidogrel (25 mg/kg orally).
+Efficacy of these treatments was monitored by aggregation and thrombin generation measurements in blood samples ex vivo.
+Mesenteric arterioles were mechanically injured; thrombus growth and subsequent embolus formation were visualized by real-time intravital microscopy.
+AR-C69931 MX and clopidogrel significantly (P<0.05) reduced the total duration of embolization (by 52% and 36%, respectively), and fewer and smaller emboli were produced.
+The size of the initial thrombus was significantly reduced (P<0.005), but its stability was unaffected: plug formation was still effective.
+CONCLUSIONS: These findings demonstrate that ADP and its P2Y12 receptor are involved in thrombus growth and especially in the formation of emboli on the downstream side of the initial thrombus.
+This may explain the beneficial effects of P2Y12 receptor antagonists in secondary prevention of ischemic events in patients with arterial thrombosis.

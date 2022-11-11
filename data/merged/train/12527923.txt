@@ -1,0 +1,10 @@
+A novel matrix metalloproteinase inhibitor, FYK-1388 suppresses tumor growth, metastasis and angiogenesis by human fibrosarcoma cell line.
+The matrix metalloproteinases (MMPs) are likely to contribute to tumor cell invasion, metastasis and angiogenesis.
+Several MMP inhibitors have been developed, recently and their anti-tumor efficacy is being evaluated in clinical trials.
+FYK-1388 is a novel broad MMP inhibitor which blocks the activity of MMP-1, -2, -3, -7, -9, -13 and -14 (MT-MMP-1).
+It is especially effective against MMP-2 and -9 more so than other MMP inhibitors such as Marimastat, Ro 32-3555 and D-2163.
+Here, we investigated the anti-tumor efficacy of FYK-1388 using the human fibrosarcoma cell line HT-1080.
+These cells produced MMP-2 and -9, which FYK-1388 inhibited at a dose of 10(-8) M. FYK-1388 at 0.2 mg/mouse/day significantly suppressed tumor growth when given by s.c. injection for 22 days, experimental lung metastasis after 5 days s.c. injection and also suppressed tumor-induced angiogenesis in the dorsal air sac assay after 7 days s.c.
+injection.
+In the MTT assay, FYK-1388 had no effect on the in vitro growth of HT-1080 cells.
+These results suggest that FYK-1388 possesses anti-tumor efficacy as a result of inhibiting angiogenesis through the suppression of MMP-2 and -9 activity.

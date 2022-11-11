@@ -1,0 +1,11 @@
+T4	GENE-N 81 106	ligand-gated ion channels
+T5	GENE-N 108 113	LGICs
+T1	CHEMICAL 309 320	amino acids
+T6	GENE-N 602 627	aminoacyl-tRNA synthetase
+T7	GENE-N 629 633	aaRS
+T2	CHEMICAL 743 744	N
+T3	CHEMICAL 764 784	N-methyl-D-aspartate
+T8	GENE-N 764 794	N-methyl-D-aspartate receptors
+T9	GENE-N 796 802	NMDARs
+T10	GENE-N 987 992	LGICs
+R0	NOT Arg1:T3 Arg2:T9

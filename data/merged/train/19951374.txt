@@ -1,0 +1,11 @@
+Role of muscarinic receptor activation in regulating immune cell activity in nasal mucosa.
+BACKGROUND: The prevalence of airway inflammatory disorders keeps rising; its pathogenic mechanism is still not fully understood.
+OBJECTIVE: The present study aimed to investigate the role of muscarinic receptor (M receptor) in regulating the immune cell activity in nasal mucosa by using surgical removed nasal mucosa from patients with nasal polyposis (NP) as a study platform.
+METHODS: Human nasal mucosal sample was collected from inferior turbinectomy of 86 patients with NP or/and allergic rhinitis.
+Expression of tumor necrosis factor alpha (TNF-alpha), M receptor, OX40 ligand was measured in nasal mucosa by enzyme-linked immunosorbent assay, flow cytometry, and Western blotting assay.
+RESULTS: When compared with non-NP (nNP) nasal mucosa, contents of TNF-alpha and TNF-alpha+ cells markedly increased in NP nasal mucosa; immune staining colocalized M3 receptor+ and TNF-alpha+ cells in NP nasal mucosa; exposure of isolated CD4+ T cells to methacholine induced the release of TNF-alpha.
+We also found CD11c+/M3 receptor+ cells in NP nasal mucosa.
+Methacholine increased the expression of OX40L in dendritic cells.
+Staphylococcal (S) aureus and S. enterotoxin B (SEB) were detected in NP nasal mucosa.
+Exposure of dendritic cells or naive CD4+ T cells to SEB initiated the expression of M3 receptor at mRNA and protein levels.
+CONCLUSIONS: The present data demonstrate that parasympathetic activity has the capacity to activate dendritic cells to release OX40 ligand, the latter induces CD4+ T cells to produce IL-4 and TNF-alpha that may further contribute to the pathogenesis of NP.

@@ -1,0 +1,17 @@
+T13	GENE-Y 16 32	cyclooxygenase-2
+T14	GENE-Y 34 39	COX-2
+T5	CHEMICAL 51 60	carprofen
+T15	GENE-N 80 95	gamma-secretase
+T1	CHEMICAL 108 122	N-sulfonylated
+T2	CHEMICAL 127 138	N-alkylated
+T4	CHEMICAL 139 148	carprofen
+T6	GENE-N 218 233	gamma-secretase
+T7	GENE-Y 342 347	COX-2
+T3	CHEMICAL 358 367	carprofen
+T8	GENE-N 382 397	gamma-secretase
+T9	GENE-Y 473 480	Abeta42
+T10	GENE-Y 500 507	Abeta38
+T11	GENE-N 605 620	gamma-secretase
+T12	GENE-N 637 643	e-site
+R0	CPR-4 Arg1:T5 Arg2:T14
+R1	CPR-4 Arg1:T3 Arg2:T7

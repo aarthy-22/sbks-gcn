@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 7 9	26
+T2	REACTION_PRODUCT 10 204	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-(N-{(R)-α-[N-((S)-1-{N-[(S)-1-(t-butoxycarbonyl)ethyl]carbamoyl}ethyl)carbamoyl]benzyl}carbamoylmethoxy)-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T3	STARTING_MATERIAL 205 336	1,1-Dioxo-3,3-dibutyl-5-phenyl-7-methylthio-8-[N-(R)-α-carboxybenzyl) carbamoylmethoxy]-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepine
+T4	STARTING_MATERIAL 346 348	25
+T5	STARTING_MATERIAL 370 415	tert-butyl L-alanyl-L-alaninate hydrochloride
+T6	REAGENT_CATALYST 441 459	N-methylmorpholine
+T7	SOLVENT 496 499	DMF
+T8	REAGENT_CATALYST 508 512	TBTU
+T9	TIME 574 583	2-3 hours
+T10	OTHER_COMPOUND 696 702	Silica
+T11	OTHER_COMPOUND 750 753	DCM
+T12	OTHER_COMPOUND 754 759	EtOAc
+T13	YIELD_OTHER 796 801	34 mg
+T14	YIELD_PERCENT 803 806	45%
+T15	REACTION_PRODUCT 815 829	title compound

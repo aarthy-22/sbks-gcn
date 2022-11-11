@@ -1,0 +1,19 @@
+T16	CHEMICAL 0 19	8-Hydroxycalamenene
+T2	CHEMICAL 252 271	8-hydroxycalamenene
+T3	CHEMICAL 294 300	hexane
+T4	CHEMICAL 350 369	8-hydroxycalamenene
+T17	GENE-N 519 531	cleaved PARP
+T18	GENE-Y 536 545	caspase-3
+T5	CHEMICAL 558 588	l-buthionine-(S,R)-sulfoximine
+T6	CHEMICAL 590 593	BSO
+T7	CHEMICAL 600 609	glutamate
+T8	CHEMICAL 625 636	glutathione
+T9	CHEMICAL 641 652	glutathione
+T19	GENE-N 641 666	glutathione S-transferase
+T10	CHEMICAL 653 654	S
+T11	CHEMICAL 703 722	8-hydroxycalamenene
+T12	CHEMICAL 809 818	glutamate
+T13	CHEMICAL 819 822	BSO
+T14	CHEMICAL 850 870	N-methyl-d-aspartate
+T15	CHEMICAL 1009 1028	8-hydroxycalamenene
+T1	CHEMICAL 1134 1153	8-hydroxycalamenene

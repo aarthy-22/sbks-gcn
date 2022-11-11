@@ -1,0 +1,11 @@
+T1	SOLVENT 315 333	dimethyl sulfoxide
+T2	STARTING_MATERIAL 107 197	6-(5-Bromo-6-fluoro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+T3	STARTING_MATERIAL 207 209	22
+T4	OTHER_COMPOUND 430 448	ammonium hydroxide
+T5	YIELD_OTHER 458 462	8 mg
+T6	TEMPERATURE 360 366	100° C
+T7	REACTION_PRODUCT 12 106	6-(7-Amino-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-6-ylmethyl)-3-methanesulfonyl-pyridin-2-ol
+T8	TIME 350 356	1 hour
+T9	EXAMPLE_LABEL 8 11	159
+T10	STARTING_MATERIAL 238 261	sodium methanesulfinate
+T11	YIELD_PERCENT 464 467	16%

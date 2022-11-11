@@ -1,0 +1,12 @@
+T12	GENE-Y 52 71	human collagenase 1
+T5	GENE-Y 545 562	human collagenase
+T6	GENE-Y 564 590	matrix metalloproteinase-1
+T7	GENE-Y 592 597	MMP-1
+T8	GENE-N 620 635	Col2a1 promoter
+T9	GENE-N 851 867	type II collagen
+T10	GENE-Y 888 899	fibronectin
+T11	GENE-Y 904 921	alpha(5)-integrin
+T2	CHEMICAL 1066 1083	bromodeoxyuridine
+T1	CHEMICAL 1085 1089	BrdU
+T3	GENE-N 1358 1373	type X collagen
+T4	GENE-N 1414 1430	type II collagen

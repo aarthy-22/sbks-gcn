@@ -1,0 +1,8 @@
+A novel vasopressin dual V1A/V2 receptor antagonist, conivaptan hydrochloride, improves hyponatremia in rats with syndrome of inappropriate secretion of antidiuretic hormone (SIADH).
+We investigated the effects of intravenous administration of conivaptan hydrochloride, a dual vasopressin V1A and V2 receptor antagonist, on blood electrolytes and plasma osmolality in rats with an experimental syndrome of inappropriate secretion of antidiuretic hormone (SIADH).
+The experimental SIADH rat model was developed by means of continuous administration of arginine vasopressin (AVP) via a subcutaneously implanted osmotic mini pump, and hyponatremia was induced by additional water loading.
+This model possesses similar characteristics to those observed in patients with SIADH, specifically decreases in blood sodium concentration and plasma osmolality.
+In this experimental model, intravenous administration of conivaptan (0.1, 1 mg/kg) significantly increased blood sodium concentration and plasma osmolality.
+On the other hand, intravenous administration of furosemide (10 mg/kg) did not increase either blood sodium concentration or plasma osmolality in the SIADH rats.
+Moreover, furosemide significantly lowered blood potassium concentration.
+These results show that conivaptan improves hyponatremia in rats with SIADH, supporting the therapeutic potential of conivaptan in treatment of patients with hyponatremia associated with SIADH.

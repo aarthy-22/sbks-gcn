@@ -1,0 +1,6 @@
+In vitro biological activity of essential oils and isolated furanosesquiterpenes from the neglected vegetable Smyrnium olusatrum L. (Apiaceae).
+Smyrnium olusatrum, better known as Alexanders or wild celery, is a biennal herb used in cuisine for many centuries by Romans in many dishes, where it has now been replaced by celery.
+In order to provide additional evidences so that this forgotten vegetable can be reconsidered in the human diet, as well as in pharmaceutics, the essential oils obtained from different parts and its main isolated furanosesquiterpenes were in vitro biologically assayed for antiproliferative activity on human tumor cell lines by MTT assay, for antioxidant potential by DPPH, ABTS and FRAP assays, and for antimicrobial activity by the agar disc diffusion method.
+The essential oils showed cytotoxic effects on tested human tumor cell lines, related to the furanosesquiterpenoid content; the IC(50) values on colon carcinoma, glioblastoma, and breast adenocarcinoma cells were 8.51, 13.35, and 14.81 μg/ml, respectively.
+Isofuranodiene and 1β-acetoxyfuranoeudesm-4(15)-ene resulted the most active constituents.
+The essential oils possessed also radical scavenging activity.

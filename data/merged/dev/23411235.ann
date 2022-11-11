@@ -1,0 +1,25 @@
+T13	CHEMICAL 24 46	phytosteryl phenolates
+T11	CHEMICAL 159 181	phytosteryl phenolates
+T1	CHEMICAL 356 366	β-carotene
+T2	CHEMICAL 367 376	linoleate
+T14	GENE-N 394 417	low-density lipoprotein
+T3	CHEMICAL 418 429	cholesterol
+T15	GENE-N 431 434	LDL
+T4	CHEMICAL 479 501	phytosteryl phenolates
+T5	CHEMICAL 570 584	phenolic acids
+T6	CHEMICAL 598 608	β-carotene
+T7	CHEMICAL 609 618	linoleate
+T8	CHEMICAL 652 674	phytosteryl phenolates
+T9	CHEMICAL 719 740	phytosteryl ferulates
+T16	GENE-N 772 775	LDL
+T10	CHEMICAL 791 813	phytosteryl phenolates
+T12	CHEMICAL 1047 1069	phytosteryl phenolates
+R0	CPR-4 Arg1:T10 Arg2:T16
+R1	NOT Arg1:T11 Arg2:T14
+R2	NOT Arg1:T11 Arg2:T15
+R3	NOT Arg1:T1 Arg2:T14
+R4	NOT Arg1:T1 Arg2:T15
+R5	NOT Arg1:T2 Arg2:T14
+R6	NOT Arg1:T2 Arg2:T15
+R7	NOT Arg1:T14 Arg2:T3
+R8	NOT Arg1:T3 Arg2:T15

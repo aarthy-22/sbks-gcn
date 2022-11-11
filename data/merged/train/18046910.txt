@@ -1,0 +1,10 @@
+Utility of tolcapone in fluctuating Parkinson's disease.
+Fluctuating Parkinson's disease (PD) represents a clinical management challenge.
+The primary utility of levodopa in patients with PD is moderated by the "wearing off" phenomena seen with long-term use.
+COMT inhibitors slow down the rapid metabolism of levodopa, resulting in a more-sustained response to dopaminergic therapy.
+Tolcapone is a selective, reversible catechol-O-methyltransferase (COMT) inhibitor, shown to have both peripheral and central effects.
+In clinical trials, tolcapone has been shown to reduce "off" time, increase "on" time, improve patient and clinician assessments of disease severity, and improve patient quality of life.
+In a SWITCH study, tolcapone was associated with greater duration of "on" time than remaining on entacapone.
+Adverse effects of tolcapone are related to the class, with the exception of rare cases of hepatotoxicity.
+Tolcapone has been recently reintroduced on the European market and recent guidance from the US Food and Drug Administration has reduced the hepatic monitoring requirements for patients initiating tolcapone therapy.
+With proper monitoring, tolcapone is an effective, well-tolerated drug useful in the management of patients with fluctuating PD.

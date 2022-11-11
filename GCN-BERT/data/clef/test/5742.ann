@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 8 9	1
+T2	REACTION_PRODUCT 11 175	N-(2-((2-(dimethylamino)ethyl)(methyl)amino)-4-methoxy-5-(4-(3-methyl-2-oxo-2,3-dihydro-1H-benzo[d]imidazol-1-yl)pyrimidin-2-ylamino)phenyl)acrylamide hydrochloride
+T3	EXAMPLE_LABEL 181 182	1
+T4	REACTION_PRODUCT 184 230	N1-(2-chloropyrimidin-4-yl)benzene-1,2-diamine
+T5	STARTING_MATERIAL 231 249	O-phenylenediamine
+T6	STARTING_MATERIAL 272 294	2,4-dichloropyrimidine
+T7	SOLVENT 341 348	ethanol
+T8	REAGENT_CATALYST 362 383	diisopropylethylamine
+T9	TEMPERATURE 460 466	reflux
+T10	TIME 471 478	3 hours
+T11	OTHER_COMPOUND 588 603	dichloromethane
+T12	OTHER_COMPOUND 626 631	water
+T13	OTHER_COMPOUND 651 656	brine
+T14	OTHER_COMPOUND 773 775	EA
+T15	OTHER_COMPOUND 777 779	PE
+T16	REACTION_PRODUCT 800 814	title compound
+T17	YIELD_OTHER 816 822	5.32 g
+T18	YIELD_PERCENT 824 827	80%

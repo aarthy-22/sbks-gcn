@@ -1,0 +1,11 @@
+T1	EXAMPLE_LABEL 20 21	9
+T2	REACTION_PRODUCT 36 76	racemic 3-aminoquinuclidine.monomesylate
+T3	OTHER_COMPOUND 77 87	2-propanol
+T4	STARTING_MATERIAL 118 145	racemic 3-aminoquinuclidine
+T5	STARTING_MATERIAL 272 284	mesylic acid
+T6	TEMPERATURE 341 357	room temperature
+T7	TEMPERATURE 437 442	60° C
+T8	REACTION_PRODUCT 455 495	racemic 3-aminoquinuclidine.monomesylate
+T9	YIELD_OTHER 497 503	4.46 g
+T10	YIELD_OTHER 505 514	20.1 mmol
+T11	YIELD_PERCENT 516 525	yield=85%

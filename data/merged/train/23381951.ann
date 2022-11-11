@@ -1,0 +1,9 @@
+T6	CHEMICAL 20 31	Allopurinol
+T1	CHEMICAL 58 69	Allopurinol
+T7	GENE-Y 580 611	human leukocyte antigen (HLA) B
+T2	CHEMICAL 629 640	allopurinol
+T3	CHEMICAL 759 767	abacavir
+T4	CHEMICAL 772 785	carbamazepine
+T5	CHEMICAL 902 913	allopurinol
+T8	GENE-Y 990 995	HLA-B
+R0	NOT Arg1:T7 Arg2:T2

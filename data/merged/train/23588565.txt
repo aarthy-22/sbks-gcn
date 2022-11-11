@@ -1,0 +1,11 @@
+Population pharmacokinetics analysis of cyclophosphamide with genetic effects in patients undergoing hematopoietic stem cell transplantation.
+PURPOSE: To build a population pharmacokinetic (PK) model of cyclophosphamide (CY) and its metabolite, 4-hydroxycyclophosphamide (HCY), in patients undergoing allogeneic haematopoietic stem cell transplantation (HSCT) and to identify covariates, including genetic polymorphisms, which affect CY and HCY PK parameters.
+METHOD: The study cohort comprised 21 patients undergoing HSCT who received CY intravenously between 2009 and 2011.
+Clinical characteristics and CY and HCY concentration data were collected for all patients, and ABCB1, ABCC2, GSTA1, GSTM1, GSTP1, GSTT1, CYP2B6, CYP2C19, and CYP3A5 genotyping was performed.
+A hypothetical enzyme compartment was conducted using the NONMEM program.
+RESULTS: A population PK analysis showed that the ABCC2 1249 genotype and aspartate aminotransferase levels significantly affected non-induced clearance (CL UI) and induced clearance (CL I) of CY, respectively.
+The final estimate of the mean CL UI and CL I of CY was 15.5 and 0.683 L/h, respectively, and the mean volume of distribution (V 1) of CY was 88.0 L. The inter-individual variability for CL UI, CL I, and V 1 of CY was 52.8, 200, and 18.0 %, respectively.
+Additionally, the CL UI of CY was significantly decreased to approximately 51 % in patients with the 1249 GA heterozygous genotype compared to those with the 1249 GG wild-type genotype (p < 0.05).
+There were only three heterozygous GA variants of ABCC2 1249 in the study patients.
+CONCLUSIONS: The population PK model developed in this study implies an influence of genetic factors on the clearance of CY.
+Clearance was moderately reduced in patients with the ABCC2 1249GA heterozygous genotype.

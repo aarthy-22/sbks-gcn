@@ -1,0 +1,8 @@
+Substrates of IAP ubiquitin ligases identified with a designed orthogonal E3 ligase, the NEDDylator.
+Inhibitors of Apoptosis Protein (IAPs) are guardian ubiquitin ligases that keep classic proapoptotic proteins in check.
+Systematic identification of additional IAP substrates is challenged by the heterogeneity and sheer number of ubiquitinated proteins (>5,000).
+Here we report a powerful catalytic tagging tool, the NEDDylator, which fuses a NEDD8 E2-conjugating enzyme, Ubc12, to the ubiquitin ligase, XIAP or cIAP1.
+This permits transfer of the rare ubiquitin homolog NEDD8 to the ubiquitin E3 substrates, allowing them to be efficiently purified for LC-MS/MS identification.
+We have identified >50 potential IAP substrates of both cytosolic and mitochondrial origin that bear hallmark N-terminal IAP binding motifs.
+These substrates include the recently discovered protein phosphatase PGAM5, which we show is proteolytically processed, accumulates in cytosol during apoptosis, and sensitizes cells to death.
+These studies reveal mechanisms and antagonistic partners for specific IAPs, and provide a powerful technology for labeling binding partners in transient protein-protein complexes.

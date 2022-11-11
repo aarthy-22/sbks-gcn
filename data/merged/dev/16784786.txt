@@ -1,0 +1,10 @@
+Cell biology of molybdenum.
+The transition element molybdenum (Mo) is of essential importance for (nearly) all biological systems as it is required by enzymes catalyzing diverse key reactions in the global carbon, sulfur and nitrogen metabolism.
+The metal itself is biologically inactive unless it is complexed by a special cofactor.
+With the exception of bacterial nitrogenase, where Mo is a constituent of the FeMo-cofactor, Mo is bound to a pterin, thus forming the molybdenum cofactor (Moco) which is the active compound at the catalytic site of all other Mo-enzymes.
+In eukaryotes, the most prominent Mo-enzymes are (1) sulfite oxidase, which catalyzes the final step in the degradation of sulfur-containing amino acids and is involved in detoxifying excess sulfite, (2) xanthine dehydrogenase, which is involved in purine catabolism and reactive oxygen production, (3) aldehyde oxidase, which oxidizes a variety of aldehydes and is essential for the biosynthesis of the phytohormone abscisic acid, and in autotrophic organisms also (4) nitrate reductase, which catalyzes the key step in inorganic nitrogen assimilation.
+All Mo-enzymes, except plant sulfite oxidase, need at least one more redox active center, many of them involving iron in electron transfer.
+The biosynthesis of Moco involves the complex interaction of six proteins and is a process of four steps, which also includes iron as well as copper in an indispensable way.
+Moco as released after synthesis is likely to be distributed to the apoproteins of Mo-enzymes by putative Moco-carrier proteins.
+Xanthine dehydrogenase and aldehyde oxidase, but not sulfite oxidase and nitrate reductase, require the post-translational sulfuration of their Mo-site for becoming active.
+This final maturation step is catalyzed by a Moco-sulfurase enzyme, which mobilizes sulfur from l-cysteine in a pyridoxal phosphate-dependent manner as typical for cysteine desulfurases.

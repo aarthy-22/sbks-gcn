@@ -1,0 +1,12 @@
+Effects of baicalein on apoptosis, cell cycle arrest, migration and invasion of osteosarcoma cells.
+Baicalein is a bioactive flavonoid that is widely used in ancient China.
+However, its effects on the most common primary malignant bone tumor, osteosarcoma, remain unknown.
+In the present study, we investigated the effects of baicalein in osteosarcoma cells.
+Our results indicate baicalein might be an efficacious anti-osteosarcoma drug.
+We found that baicalein could inhibit cell proliferation in a time- and dose-dependent manner.
+Additionally, we demonstrated that baicalein promotes osteosarcoma cell apoptosis, and our mechanistic studies suggest that this is mediated by caspase activation, especially caspase-3.
+We also showed that the down-regulation of Bcl-2 and concurrent increase in Bax and Bim levels contribute to the apoptosis induced by baicalein.
+In addition, we observed that baicalein induces G1 cell cycle arrest by decreasing cyclin D1 and cyclin-dependent kinase 4 (CDK4).
+Furthermore, our data verifies that baicalein can reduce osteosarcoma cell adhesion, migration and invasion in vitro, which indicates its potential to inhibit osteosarcoma metastasis.
+The decrease in expression of matrix metalloproteinases (MMP)-2 and MMP-9 may contribute to the effects of baicalein.
+Taken together, our results provide evidence that baicalein plays important roles in anti-osteosarcoma therapy, and thus may serve as a novel and efficient candidate agent for osteosarcoma treatment.

@@ -1,0 +1,5 @@
+Example 61
+3-Methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-7-((3-methyloxetan-3-yl)methyl)-1H-purine-2,6(3H,7H)-dione
+Step 1
+3-Methyl-7-((3-methyloxetan-3-yl)methyl)-1H-purine-2,6(3H,7H)-dione
+3-Methyl-1H-purine-2,6(3H,7H)-dione (4.00 g, 24.1 mmol) was dissolved in methanol (30 mL). An aqueous solution (15 mL) of potassium hydroxide (1.48 g, 26.5 mmol) was added and the mixture was heated to 80°C and stirred for 1.5 hours, and then cooled to 50°C. 3-(Chloromethyl)-3-methyloxetane (3.77 g, 31.3 mmol) and potassium iodide (4.80 g, 28.9 mmol) were added and the reaction was stirred at 50°C for 24 hours. The reaction solution was cooled to room temperature, filtered, and the filter cake was washed successively with water (30 mL) and methanol (30 mL), and dried to give 3-methyl-7-((3-methyloxetan-3-yl)methyl)-1H-purine-2,6(3H,7H)-dione (2.40 g, as a white solid) with a yield of 40%.

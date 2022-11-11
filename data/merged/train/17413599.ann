@@ -1,0 +1,14 @@
+T10	CHEMICAL 0 12	Lubiprostone
+T11	CHEMICAL 16 24	chloride
+T14	GENE-N 16 32	chloride channel
+T9	CHEMICAL 102 114	lubiprostone
+T1	CHEMICAL 192 204	Lubiprostone
+T2	CHEMICAL 225 233	prostone
+T3	CHEMICAL 237 256	bicyclic fatty acid
+T4	CHEMICAL 271 287	prostaglandin E1
+T5	CHEMICAL 289 301	Lubiprostone
+T6	CHEMICAL 323 331	chloride
+T12	GENE-N 323 339	chloride channel
+T13	GENE-Y 341 346	ClC-2
+T7	CHEMICAL 521 529	chloride
+T8	CHEMICAL 615 627	lubiprostone

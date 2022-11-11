@@ -1,0 +1,9 @@
+Controlled synthesis of amino acid-based pH-responsive chiral polymers and self-assembly of their block copolymers.
+Leucine/isoleucine side chain polymers are of interest due to their hydrophobicity and reported role in the formation of α-helical structures.
+The synthesis and reversible addition-fragmentation chain transfer (RAFT) polymerization of amino acid-based chiral monomers, namely Boc-L-leucine methacryloyloxyethyl ester (Boc-L-Leu-HEMA, 1a), Boc-L-leucine acryloyloxyethyl ester (Boc-L-Leu-HEA, 1b), Boc-L-isoleucine methacryloyloxyethyl ester (Boc-L-Ile-HEMA, 1c), and Boc-L-isoleucine acryloyloxyethyl ester (Boc-L-Ile-HEA, 1d), are reported.
+The controlled nature of the polymerization of the said chiral monomers in N, N-dimethylformamide (DMF) at 70 °C is evident from the formation of narrow polydisperse polymers, the molecular weight controlled by the monomer/chain transfer agent (CTA) molar ratio and the linear relationship between molecular weight and monomer conversion.
+The resulting well-defined polymers were used as macro-CTAs to prepare corresponding diblock copolymers by RAFT polymerization of methyl (meth)acrylate monomers.
+Deprotection of Boc groups in the homopolymers and block copolymers under acidic conditions produced cationic, pH-responsive polymers with primary amine moieties at the side chains.
+The optical activity of the homopolymers and block copolymers were studied using circular dichroism (CD) spectroscopy and specific rotation measurements.
+The self-assembling nature of the block copolymers to produce highly ordered structures was illustrated through dynamic light scattering (DLS) and atomic force microscopy (AFM) studies.
+The side chain amine functionality instills pH-responsive behavior, which makes these cationic polymers attractive candidates for drug delivery applications, as well as for conjugation of biomolecules.

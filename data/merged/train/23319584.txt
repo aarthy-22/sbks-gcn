@@ -1,0 +1,16 @@
+Comparison of orientation and rotational motion of skeletal muscle cross-bridges containing phosphorylated and dephosphorylated myosin regulatory light chain.
+Calcium binding to thin filaments is a major element controlling active force generation in striated muscles.
+Recent evidence suggests that processes other than Ca(2+) binding, such as phosphorylation of myosin regulatory light chain (RLC) also controls contraction of vertebrate striated muscle (Cooke, R. (2011) Biophys.
+Rev. 3, 33-45).
+Electron paramagnetic resonance (EPR) studies using nucleotide analog spin label probes showed that dephosphorylated myosin heads are highly ordered in the relaxed fibers and have very low ATPase activity.
+This ordered structure of myosin cross-bridges disappears with the phosphorylation of RLC (Stewart, M. (2010) Proc.
+Natl.
+Acad.
+Sci.
+U.S.A. 107, 430-435).
+The slower ATPase activity in the dephosporylated moiety has been defined as a new super-relaxed state (SRX).
+It can be observed in both skeletal and cardiac muscle fibers (Hooijman, P., Stewart, M. A., and Cooke, R. (2011) Biophys.
+J. 100, 1969-1976).
+Given the importance of the finding that suggests a novel pathway of regulation of skeletal muscle, we aim to examine the effects of phosphorylation on cross-bridge orientation and rotational motion.
+We find that: (i) relaxed cross-bridges, but not active ones, are statistically better ordered in muscle where the RLC is dephosporylated compared with phosphorylated RLC; (ii) relaxed phosphorylated and dephosphorylated cross-bridges rotate equally slowly; and (iii) active phosphorylated cross-bridges rotate considerably faster than dephosphorylated ones during isometric contraction but the duty cycle remained the same, suggesting that both phosphorylated and dephosphorylated muscles develop the same isometric tension at full Ca(2+) saturation.
+A simple theory was developed to account for this fact.

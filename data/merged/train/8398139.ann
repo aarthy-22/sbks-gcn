@@ -1,0 +1,18 @@
+T5	CHEMICAL 8 16	adenylyl
+T16	GENE-N 8 24	adenylyl cyclase
+T4	CHEMICAL 36 45	serotonin
+T14	GENE-N 36 54	serotonin receptor
+T15	GENE-Y 56 61	5-HT7
+T3	CHEMICAL 178 187	serotonin
+T9	GENE-N 178 196	serotonin receptor
+T13	GENE-Y 212 217	5-HT7
+T1	CHEMICAL 258 266	adenylyl
+T6	GENE-N 258 274	adenylyl cyclase
+T7	GENE-Y 276 281	5-HT7
+T8	GENE-Y 379 384	5-HT7
+T2	CHEMICAL 656 665	serotonin
+T10	GENE-Y 741 746	5-HT7
+T11	GENE-N 850 868	serotonin receptor
+T12	GENE-Y 870 875	5-HT7
+R0	NOT Arg1:T3 Arg2:T13
+R1	NOT Arg1:T13 Arg2:T1

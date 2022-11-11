@@ -1,0 +1,3 @@
+Example 97A
+3-Ethyl-5-methyl-1-(3-methylbutyl)-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carbaldehyde
+Analogously to the method described in Ex. 54A, 500 mg (2.10 mmol) of the compound from Ex. 48A and 414 μl (3.15 mmol) of 1-iodo-3-methylbutane were used to obtain 398 mg (59% of theory, 97% purity) of the title compound The reaction in the microwave was effected here at 60° C. for 60 min, and the MPLC purification was conducted using a Biotage cartridge with 50 g of silica gel and cyclohexane/ethyl acetate 10:1-5:1 as eluent.

@@ -1,0 +1,9 @@
+Interferon-gamma is causatively involved in experimental inflammatory bowel disease in mice.
+Cytokines may be crucially involved in the pathogenesis of inflammatory bowel diseases (IBD), but it remains controversial whether interferon (IFN)-gamma, a typical proinflammatory cytokine, is an essential mediator to cause the disorders.
+In the present study, IFN-gamma(-/-) and wild-type (WT) C57BL/6 mice were fed 2.5% dextran sodium sulphate (DSS) in drinking water for 7 days, in order to investigate DSS-induced intestinal inflammation.
+The DSS-treated WT mice exhibited a robust production of IFN-gamma in the gut, a remarkable loss of body weight, as well as high rate of mortality (60%).
+In striking contrast, IFN-gamma deficient mice did not develop DSS-induced colitis, as indicated by the maintenance of body weight and survival rate of 100%.
+Severe intestinal inflammation was demonstrated exclusively in WT animals in terms of the shortening of the bowel as well as the elevation of the disease activity index, myeloperoxidase (MPO) activity and serum haptoglobin level.
+Histological study of DSS-treated WT intestine revealed disruption of mucosal epithelium and massive infiltration of inflammatory cells, while the organ from IFN-gamma(-/-) mice remained virtually normal in appearance.
+Enzyme-linked immunosorbent assay (ELISA) analyses indicated abundant production of three chemokines, i.e. monokine induced by interferon-gamma (MIG), interferon-inducible protein 10 (IP-10) and monocyte chemoattractant protein-1 (MCP-1), in the DSS-irritated intestine of WT but not of IFN-gamma(-/-) mice.
+The present results demonstrate clearly that IFN-gamma plays indispensable roles in the initiation of DSS colitis, and some chemokines are produced in an IFN-gamma-dependent fashion.

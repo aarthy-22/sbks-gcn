@@ -1,0 +1,42 @@
+T34	GENE-Y 0 30	alpha(1B) adrenergic receptors
+T20	CHEMICAL 34 65	gonadotrophin-releasing hormone
+T35	GENE-Y 34 65	gonadotrophin-releasing hormone
+T12	CHEMICAL 136 142	amines
+T19	CHEMICAL 198 213	[(3)H]-prazosin
+T24	GENE-N 223 245	alpha(1) adrenoceptors
+T9	CHEMICAL 295 303	prazosin
+T10	CHEMICAL 376 384	prazosin
+T11	CHEMICAL 425 440	[(3)H]-prazosin
+T13	CHEMICAL 492 500	prazosin
+T14	CHEMICAL 544 552	prazosin
+T15	CHEMICAL 683 696	noradrenaline
+T16	CHEMICAL 819 827	prazosin
+T17	CHEMICAL 971 1002	gonadotrophin-releasing hormone
+T31	GENE-Y 971 1002	gonadotrophin-releasing hormone
+T18	CHEMICAL 1004 1008	GnRH
+T32	GENE-Y 1004 1008	GnRH
+T33	GENE-N 1093 1115	alpha(1) adrenoceptors
+T21	GENE-Y 1223 1258	alpha(1B) sub-type of adrenoceptors
+T1	CHEMICAL 1273 1277	GnRH
+T22	GENE-Y 1273 1277	GnRH
+T23	GENE-Y 1318 1340	alpha(1b) adrenoceptor
+T25	GENE-Y 1392 1415	alpha(1B) adrenoceptors
+T2	CHEMICAL 1417 1432	[(3)H]-prazosin
+T3	CHEMICAL 1461 1469	prazosin
+T4	CHEMICAL 1511 1519	prazosin
+T5	CHEMICAL 1584 1599	[(3)H]-prazosin
+T26	GENE-N 1638 1646	alpha(1)
+T6	CHEMICAL 1707 1722	[(3)H]-prazosin
+T7	CHEMICAL 1735 1743	prazosin
+T27	GENE-N 1783 1805	alpha(1) adrenoceptors
+T28	GENE-Y 1921 1943	alpha(1b) adrenoceptor
+T29	GENE-Y 1980 2003	alpha(1B) adrenoceptors
+T8	CHEMICAL 2013 2021	prazosin
+T30	GENE-N 2051 2073	alpha(1) adrenoceptors
+R0	NOT Arg1:T24 Arg2:T11
+R1	NOT Arg1:T17 Arg2:T33
+R2	NOT Arg1:T17 Arg2:T22
+R3	NOT Arg1:T23 Arg2:T5
+R4	NOT Arg1:T23 Arg2:T6
+R5	NOT Arg1:T25 Arg2:T4
+R6	NOT Arg1:T3 Arg2:T26

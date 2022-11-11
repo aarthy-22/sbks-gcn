@@ -1,0 +1,10 @@
+T1	EXAMPLE_LABEL 8 11	90A
+T2	REACTION_PRODUCT 12 130	3-Ethyl-5-methyl-2,4-dioxo-1-(tetrahydro-2H-pyran-2-ylmethyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carbaldehyde
+T3	STARTING_MATERIAL 216 233	compound from Ex.
+T4	STARTING_MATERIAL 234 237	48A
+T5	STARTING_MATERIAL 265 307	racemic 2-(bromomethyl)tetrahydro-2H-pyran
+T6	YIELD_OTHER 329 335	590 mg
+T7	YIELD_PERCENT 337 340	61%
+T8	REACTION_PRODUCT 359 373	title compound
+T9	TEMPERATURE 411 416	70° C
+T10	TIME 444 448	43 h

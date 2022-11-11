@@ -1,0 +1,18 @@
+Safety of selegiline (deprenyl) in the treatment of Parkinson's disease.
+Selegiline (deprenyl), a selective, irreversible inhibitor of monoamine oxidase type B (MAO-B) is widely used in the treatment of Parkinson's disease.
+As the first MAO-B inhibitor approved for the treatment of Parkinson's disease, concerns were raised about the safety of the drug based on the adverse effect profiles of older, nonselective MAO inhibitors.
+Unlike the nonselective MAO inhibitors, selegiline does not significantly potentiate tyramine-induced hypertension (the 'cheese effect') at the dosages (5 to 10 mg daily) used for the treatment of Parkinson's disease.
+Selegiline has been well tolerated when given alone.
+The most frequent adverse events seen during monotherapy have been insomnia, nausea, benign cardiac arrhythmias, dizziness and headache.
+When combined with levodopa, selegiline can potentiate the typical adverse effects of levodopa, if the dose of levodopa is not reduced sufficiently.
+Thus, the most common adverse effects associated with this combination are nausea, dizziness, fatigue, constipation and insomnia.
+At the later stages of Parkinson's disease when fluctuations in disability occur, peak dose dyskinesias, psychiatric complications like hallucinations and insomnia, and orthostatic hypotension are further potentiated by selegiline.
+Mortality was recently reported to be increased when selegiline and levodopa were given together in comparison with treatment with levodopa alone, but a large meta-analysis of 5 long term studies and 4 separate studies did not support this conclusion.
+Selegiline seems to be generally well tolerated in combination with other drugs.
+However, when pethidine (meperidine) has been given to patients who are receiving selegiline therapy, severe adverse effects have been reported.
+Thus, the concomitant use of these drugs is not recommended.
+A low tyramine diet is recommended if selegiline is used together with nonselective MAO inhibitors or the selective, reversible MAO-A inhibitor, moclobemide.
+Several adverse effects have been reported when fluoxetine and selegiline have been used together.
+A recent survey revealed that the incidence of a true serotonin syndrome is, however, very low with this combination.
+Concomitant use of selegiline and other selective serotonin (5-hydroxytryptamine; 5-HT) reuptake inhibitors (SSRIs) like citalopram, which have generally less interactions than fluoxetine, seems to be well tolerated.
+Nevertheless, caution is advised when combining a SSRI or a tricyclic antidepressant and selegiline.

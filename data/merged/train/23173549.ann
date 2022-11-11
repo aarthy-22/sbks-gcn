@@ -1,0 +1,15 @@
+T13	GENE-N 0 19	Xenobiotic receptor
+T7	GENE-N 58 75	nuclear receptors
+T4	GENE-Y 76 95	pregnane X receptor
+T9	GENE-Y 97 129	constitutive androstane receptor
+T2	CHEMICAL 110 120	androstane
+T11	GENE-Y 135 183	peroxisome proliferator-activated receptor alpha
+T5	GENE-Y 396 424	Per-Sim-ARNT domain receptor
+T1	CHEMICAL 425 441	aryl hydrocarbon
+T6	GENE-Y 425 450	aryl hydrocarbon receptor
+T8	GENE-N 488 505	nuclear receptors
+T10	GENE-N 714 733	xenobiotic receptor
+T12	GENE-N 931 950	xenobiotic receptor
+T3	GENE-N 1398 1417	xenobiotic receptor
+R0	NOT Arg1:T4 Arg2:T2
+R1	NOT Arg1:T1 Arg2:T8

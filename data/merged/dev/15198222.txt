@@ -1,0 +1,10 @@
+Determination of expression of cyclooxygenase-1 and -2 isozymes in canine tissues and their differential sensitivity to nonsteroidal anti-inflammatory drugs.
+OBJECTIVE: To evaluate cyclooxygenase isozyme distribution in tissues from dogs and determine the differential sensitivity of canine cyclooxygenase (COX)-1 and -2 isozymes to nonsteroidal anti-inflammatory drugs (NSAIDs).
+SAMPLE POPULATION: Canine tissue samples (stomach, duodenum, ileum, jejunum, colon, spleen, cerebral cortex, lung, ovary, kidney, and liver) were obtained from 2 dogs for northern and western blot analyses, and blood for whole blood COX assays was obtained from 15 dogs.
+PROCEDURE: 11 NSAIDs were evaluated to determine their COX-2 selectivity in whole blood assays.
+The concentrations of the drug needed to inhibit 50% of enzyme activity (IC50) were then calculated for comparison.
+Expression and tissue distribution of COX isozymes were determined by northern and western blot analysis.
+RESULTS: Aspirin, diclofenac, indomethacin, ketoprofen, meclofenamic acid, and piroxicam had little selectivity toward COX isozymes, whereas NS398, carprofen, tolfenamic acid, nimesulide, and etodolac had more than 5 times greater preference for inhibiting COX-2 than COX-1.
+All canine tissues examined, including those from the gastrointestinal tract, coexpressed COX-1 and -2 mRNA, although protein expression was observed only for COX-1.
+CONCLUSIONS AND CLINICAL RELEVANCE: Canine COX-2 was selectively inhibited by etodolac, nimesulide, and NS398; tolfenamic acid and carprofen also appeared to be preferential COX-2 inhibitors in dogs.
+The roles of COX-1 as a constitutive housekeeping enzyme and COX-2 as a proinflammatory inducible enzyme (as determined in humans) appear to apply to dogs; therefore, COX-2-selective inhibitors should prove useful in reducing the adverse effects associated with nonselective NSAIDs.

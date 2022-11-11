@@ -1,0 +1,7 @@
+Direct inhibitory effect of digitalis on progesterone release from rat granulosa cells.
+Digoxin (10(-7) - 10(-5) M) or digitoxin (10(-7) - 10(-5) M) decreased the basal and human chorionic gonadotropin (hCG)-stimulated release of progesterone from rat granulosa cells.
+Digoxin (10(-5) M) or digitoxin (10(-5) M) attenuated the stimulatory effects of forskolin and 8-bromo-cyclic 3' : 5'-adenosine monophosphate (8-Br-cAMP) on progesterone release from rat granulosa cells.
+Digoxin (10(-5) M) or digitoxin (10(-5) M) inhibited cytochrome P450 side chain cleavage enzyme (cytochrome P450(scc)) activity (conversion of 25-hydroxyl cholesterol to pregnenolone) in rat granulosa cells but did not influence the activity of 3beta-hydroxysteroid dehydrogenase (3beta-HSD).
+Neither progesterone production nor P450scc activity in rat granulosa cells was altered by the administration of ouabain.
+Digoxin (10(-5) M) or digitoxin (10(-5) M), but not ouabain, decreased the expression of P450scc and steroidogenic acute regulatory (StAR) protein in rat granulosa cells.
+The present results suggest that digoxin and digitoxin decrease the progesterone release by granulosa cells via a Na(+),K(+)-ATPase-independent mechanism involving the inhibition of post-cyclic AMP pathway, cytochrome P450scc and StAR protein functions.

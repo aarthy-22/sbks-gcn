@@ -1,0 +1,46 @@
+T24	CHEMICAL 25 36	cannabinoid
+T39	GENE-Y 25 51	cannabinoid CB(1) receptor
+T25	CHEMICAL 75 88	noradrenaline
+T17	CHEMICAL 176 187	cannabinoid
+T32	GENE-Y 176 203	cannabinoid CB(1) receptors
+T6	CHEMICAL 270 282	WIN-55,212-2
+T11	CHEMICAL 306 323	[3H]noradrenaline
+T12	CHEMICAL 455 468	noradrenaline
+T13	CHEMICAL 493 505	WIN-55,212-2
+T14	CHEMICAL 568 579	Cannabinoid
+T31	GENE-Y 568 594	Cannabinoid CB(1) receptor
+T15	CHEMICAL 606 616	SR 141716A
+T16	CHEMICAL 638 650	WIN-55,212-2
+T18	CHEMICAL 693 706	noradrenaline
+T33	GENE-N 746 768	alpha(2)-adrenoceptors
+T19	CHEMICAL 778 787	BRL-44408
+T34	GENE-Y 792 814	alpha(2B)-adrenoceptor
+T20	CHEMICAL 820 828	prazosin
+T35	GENE-N 833 869	alpha(1)- and alpha(2B)-adrenoceptor
+T21	CHEMICAL 912 931	[(3)H]noradrenaline
+T36	GENE-Y 958 975	alpha(2B) subtype
+T22	CHEMICAL 1031 1044	noradrenaline
+T37	GENE-N 1073 1094	alpha(2)-adrenoceptor
+T23	CHEMICAL 1107 1118	cannabinoid
+T38	GENE-Y 1107 1133	cannabinoid CB(1) receptor
+T1	CHEMICAL 1148 1160	WIN-55,212-2
+T2	CHEMICAL 1214 1233	[(3)H]noradrenaline
+T3	CHEMICAL 1273 1274	C
+T26	GENE-Y 1291 1321	rat cannabinoid CB(1) receptor
+T4	CHEMICAL 1295 1306	cannabinoid
+T27	GENE-Y 1339 1353	neuropeptide Y
+T5	CHEMICAL 1398 1409	cannabinoid
+T28	GENE-Y 1398 1425	cannabinoid CB(1) receptors
+T29	GENE-Y 1455 1469	neuropeptide Y
+T7	CHEMICAL 1613 1623	adrenaline
+T30	GENE-Y 1662 1682	beta(2)-adrenoceptor
+T8	CHEMICAL 1750 1763	noradrenaline
+T9	CHEMICAL 1775 1787	cannabinoids
+T10	CHEMICAL 1857 1870	noradrenaline
+R0	CPR-3 Arg1:T1 Arg2:T38
+R1	CPR-3 Arg1:T7 Arg2:T30
+R2	NOT Arg1:T20 Arg2:T36
+R3	NOT Arg1:T38 Arg2:T2
+R4	NOT Arg1:T26 Arg2:T5
+R5	NOT Arg1:T4 Arg2:T27
+R6	NOT Arg1:T4 Arg2:T29

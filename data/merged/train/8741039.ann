@@ -1,0 +1,8 @@
+T7	CHEMICAL 9 20	vitamin B12
+T5	CHEMICAL 843 861	methylmalonic acid
+T6	CHEMICAL 969 976	lactate
+T1	CHEMICAL 1236 1247	vitamin B12
+T2	CHEMICAL 1306 1321	[14C]propionate
+T3	CHEMICAL 1466 1482	hydroxocobalamin
+T4	CHEMICAL 1494 1511	methylmalonyl-CoA
+T8	GENE-Y 1494 1518	methylmalonyl-CoA mutase

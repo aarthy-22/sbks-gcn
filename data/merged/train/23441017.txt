@@ -1,0 +1,11 @@
+Phase stability and elastic properties of chromium borides with various stoichiometries.
+Phase stability is important to the application of materials.
+By first-principles calculations, we establish the phase stability of chromium borides with various stoichiometries.
+Moreover, the phases of CrB3 and CrB4 have been predicted by using a newly developed particle swarm optimization (PSO) algorithm.
+Formation enthalpy-pressure diagrams reveal that the MoB-type structure is more energetically favorable than the TiI-type structure for CrB. For CrB2 , the WB2 -type structure is preferred at zero pressure.
+The predicted new phase of CrB3 belongs to the hexagonal P-6m2 space group and it transforms into an orthorhombic phase as the pressure exceeds 93 GPa.
+The predicted CrB4 (space group: Pnnm) phase is more energetically favorable than the previously proposed Immm structure.
+The mechanical and thermodynamic stabilities of predicted CrB3 and CrB4 are verified by the calculated elastic constants and formation enthalpies.
+The full phonon dispersion calculations confirm the dynamic stability of WB2 -type CrB2 and predicted CrB3 .
+The large shear moduli, large Young's moduli, low Poisson ratios, and low bulk and shear modulus ratios of CrB4 PSC and CrB4 PSD indicate that they are potential hard materials.
+Analyses of Debye temperature, electronic localization function, and electronic structure provide further understanding of the chemical and physical properties of these borides.

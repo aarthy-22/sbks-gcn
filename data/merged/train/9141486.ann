@@ -1,0 +1,11 @@
+T6	CHEMICAL 20 29	vitamin K
+T11	GENE-N 20 51	vitamin K-dependent carboxylase
+T5	CHEMICAL 155 177	gamma-carboxyglutamate
+T1	CHEMICAL 192 206	gamma-glutamyl
+T7	GENE-N 192 218	gamma-glutamyl carboxylase
+T2	CHEMICAL 335 344	vitamin K
+T3	CHEMICAL 359 375	ammonium sulfate
+T4	CHEMICAL 449 458	vitamin K
+T8	GENE-N 489 507	bovine carboxylase
+T9	GENE-Y 593 602	factor IX
+T10	GENE-N 727 744	gamma-carboxylase

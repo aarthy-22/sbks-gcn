@@ -1,0 +1,43 @@
+T35	GENE-Y 19 37	beta2-adrenoceptor
+T36	GENE-Y 73 91	beta2-adrenoceptor
+T28	GENE-Y 274 294	beta(2)-adrenoceptor
+T10	CHEMICAL 305 315	salbutamol
+T12	CHEMICAL 320 331	terbutaline
+T31	GENE-Y 361 381	beta(2)-adrenoceptor
+T32	GENE-N 437 454	beta-adrenoceptor
+T13	CHEMICAL 464 476	isoprenaline
+T33	GENE-Y 496 516	beta(2)-adrenoceptor
+T14	CHEMICAL 527 537	salbutamol
+T15	CHEMICAL 542 553	terbutaline
+T34	GENE-N 569 572	IgE
+T16	CHEMICAL 593 602	histamine
+T17	CHEMICAL 614 624	Salbutamol
+T18	CHEMICAL 648 659	terbutaline
+T19	CHEMICAL 720 729	histamine
+T20	CHEMICAL 783 795	isoprenaline
+T21	CHEMICAL 818 830	Isoprenaline
+T22	CHEMICAL 843 853	salbutamol
+T23	CHEMICAL 869 880	terbutaline
+T24	CHEMICAL 912 916	cAMP
+T25	CHEMICAL 1040 1050	salbutamol
+T26	CHEMICAL 1065 1076	terbutaline
+T1	CHEMICAL 1142 1152	salbutamol
+T2	CHEMICAL 1157 1168	terbutaline
+T3	CHEMICAL 1203 1212	histamine
+T4	CHEMICAL 1231 1241	salbutamol
+T5	CHEMICAL 1289 1300	terbutaline
+T6	CHEMICAL 1383 1406	iodinated cyanopindolol
+T27	GENE-Y 1436 1456	beta(2)-adrenoceptor
+T7	CHEMICAL 1530 1540	salbutamol
+T8	CHEMICAL 1555 1566	terbutaline
+T29	GENE-Y 1601 1621	beta(2)-adrenoceptor
+T9	CHEMICAL 1844 1854	salbutamol
+T30	GENE-Y 1899 1919	beta(2)-adrenoceptor
+T11	CHEMICAL 1952 1963	terbutaline
+R0	CPR-5 Arg1:T14 Arg2:T33
+R1	NOT Arg1:T10 Arg2:T31
+R2	NOT Arg1:T12 Arg2:T31
+R3	NOT Arg1:T32 Arg2:T14
+R4	NOT Arg1:T32 Arg2:T15
+R5	NOT Arg1:T14 Arg2:T34
+R6	NOT Arg1:T15 Arg2:T34

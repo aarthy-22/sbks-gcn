@@ -1,0 +1,13 @@
+Sitagliptin: Profile of a novel DPP-4 inhibitor for the treatment of type 2 diabetes.
+Novel therapeutic strategies for type 2 diabetes are needed, since the current treatment options neither address all pathophysiological mechanisms nor achieve the glycemic target goals.
+A general islet-cell dysfunction including insulin- and glucagon-secretion defects contributes to the pathophysiology of type 2 diabetes.
+Improving islet function by incretin hormone action is a novel therapeutic approach.
+Glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic peptide (GIP) are important incretin hormones contributing to 50-70% of the stimulation of insulin secretion after a meal.
+Dipeptidyl-peptidase IV (DPP-4) inhibitors inhibit the degradation of GLP-1 and GIP as well as that of other regulatory peptides.
+Sitagliptin, a DPP-4 inhibitor, is orally active and has been shown to be efficacious and safe in clinical studies.
+Sitagliptin has received approval in Mexico, the United States and other countries.
+Like other DPP-4 inhibitors, sitagliptin reduces hemoglobin A1c (HbA1c), fasting and postprandial glucose by glucose-dependent stimulation of insulin secretion and inhibition of glucagon secretion.
+Sitagliptin is weight neutral.
+Indirect measures show a possible improvement of beta-cell function.
+Sitagliptin does not cause a higher rate of hypoglycemia in comparison to metformin or placebo.
+This article gives an overview of the mechanisms of action, pharmacology and clinical trial results of sitagliptin.

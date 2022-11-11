@@ -1,0 +1,14 @@
+T1	REAGENT_CATALYST 305 318	triethylamine
+T2	OTHER_COMPOUND 499 513	sodium sulfate
+T3	STARTING_MATERIAL 251 283	2-(dimethylamino)nicotinaldehyde
+T4	EXAMPLE_LABEL 5 7	4B
+T5	SOLVENT 192 207	dichloromethane
+T6	TIME 392 400	16 hours
+T7	YIELD_OTHER 569 575	5.76 g
+T8	TEMPERATURE 371 387	room temperature
+T9	REAGENT_CATALYST 136 153	magnesium sulfate
+T10	REACTION_PRODUCT 8 76	(E)-ethyl 2-(((2-(dimethylamino)pyridin-3-yl)methylene)amino)acetate
+T11	OTHER_COMPOUND 481 486	water
+T12	REACTION_PRODUCT 562 567	imine
+T13	YIELD_PERCENT 577 580	92%
+T14	STARTING_MATERIAL 77 111	Ethyl 2-aminoacetate hydrochloride

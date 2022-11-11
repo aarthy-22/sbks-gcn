@@ -1,0 +1,36 @@
+T26	GENE-N 16 21	L263F
+T27	GENE-Y 25 71	human inosine 5'-monophosphate dehydrogenase 2
+T11	CHEMICAL 31 55	inosine 5'-monophosphate
+T21	GENE-Y 145 185	Inosine 5'-monophosphate dehydrogenase 2
+T7	CHEMICAL 145 169	Inosine 5'-monophosphate
+T16	GENE-Y 261 267	IMPDH2
+T8	CHEMICAL 436 453	mycophenolic acid
+T22	GENE-Y 540 546	IMPDH2
+T23	GENE-Y 675 681	IMPDH2
+T24	GENE-Y 841 879	inosine 5'-monophosphate dehydrogenase
+T9	CHEMICAL 841 865	inosine 5'-monophosphate
+T10	CHEMICAL 1012 1045	nicotinamide adenine dinucleotide
+T25	GENE-Y 1112 1118	IMPDH2
+T12	GENE-N 1220 1225	L263F
+T13	GENE-N 1286 1324	inosine 5'-monophosphate dehydrogenase
+T1	CHEMICAL 1286 1310	inosine 5'-monophosphate
+T14	GENE-N 1337 1342	L263F
+T2	CHEMICAL 1401 1418	mycophenolic acid
+T15	GENE-N 1437 1442	L263F
+T3	CHEMICAL 1509 1533	inosine 5'-monophosphate
+T4	CHEMICAL 1538 1571	nicotinamide adenine dinucleotide
+T17	GENE-Y 1615 1621	IMPDH2
+T18	GENE-N 1679 1684	L263F
+T19	GENE-N 1713 1751	inosine 5'-monophosphate dehydrogenase
+T5	CHEMICAL 1713 1737	inosine 5'-monophosphate
+T20	GENE-N 1878 1916	inosine 5'-monophosphate dehydrogenase
+T6	CHEMICAL 1878 1902	inosine 5'-monophosphate
+R0	CPR-2 Arg1:T8 Arg2:T16
+R1	CPR-4 Arg1:T2 Arg2:T15
+R2	NOT Arg1:T3 Arg2:T15
+R3	NOT Arg1:T4 Arg2:T15
+R4	NOT Arg1:T26 Arg2:T11
+R5	NOT Arg1:T12 Arg2:T1
+R6	NOT Arg1:T1 Arg2:T14
+R7	NOT Arg1:T17 Arg2:T5
+R8	NOT Arg1:T18 Arg2:T5

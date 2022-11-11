@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 8 10	17
+T2	REACTION_PRODUCT 25 173	N-hydroxy-4-(4-(4-(3-((S)-2-(hydroxymethyl)pyrrolidin-1-yl)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+T3	EXAMPLE_LABEL 179 180	1
+T4	REACTION_PRODUCT 195 242	(R)-(1-(prop-2-yn-1-yl)pyrrolidin-2-yl)methanol
+T5	STARTING_MATERIAL 260 277	3-bromoprop-1-yne
+T6	SOLVENT 293 300	toluene
+T7	STARTING_MATERIAL 324 351	(R)-pyrrolidin-2-ylmethanol
+T8	REAGENT_CATALYST 374 384	K2CO3(6.97
+T9	TIME 423 428	15 hr
+T10	TEMPERATURE 432 448	room temperature
+T11	OTHER_COMPOUND 468 481	ethyl acetate
+T12	OTHER_COMPOUND 486 491	water
+T13	OTHER_COMPOUND 536 541	MgSO4
+T14	REACTION_PRODUCT 636 650	title compound
+T15	YIELD_OTHER 652 655	2 g
+T16	YIELD_PERCENT 657 660	57%

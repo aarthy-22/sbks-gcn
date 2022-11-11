@@ -1,0 +1,9 @@
+CTNNA3 (α-catenin) gene variants are associated with diisocyanate asthma: a replication study in a caucasian worker population.
+Recently, a genome-wide association study (GWAS) conducted in Korean subjects identified four CTNNA3 (alpha-T catenin) single nucleotide polymorphisms (SNPs) (rs10762058, rs7088181, rs1786929, and rs4378283) associated with diisocyanate-induced occupational asthma (DA).
+The CTNNA3 gene codes for a cadherin involved in formation of stretch-resistant cell-cell adhesions.
+We conducted a candidate gene association study to replicate these findings in Caucasian workers.
+Genotyping was performed on DNA using a 5' nuclease PCR assay collected from 410 diisocyanate-exposed and predominantly Canadian workers including 132 workers with DA confirmed by a specific inhalation challenge (DA+); 131 symptomatic workers in whom DA was excluded by a negative challenge (DA-); and 147 hexamethylene diisocyanate-exposed asymptomatic workers (AWs).
+As in the Korean study, highly linked CTNNA3 rs7088181 and rs10762058 SNPs (but not rs4378283 and rs1786929) were significantly associated with DA+ when compared with AWs but not in comparison with DA- workers (p ≤ 0.05).
+After adjusting for potentially confounding variables of age, smoking status, and duration of exposure, minor allele homozygotes of rs7088181 and rs10762058 SNPs were at increased risk for DA compared with AWs (OR = 9.05 [95% CI: 1.69, 48.54] and OR = 6.82 [95% CI: 1.65, 28.24], respectively).
+In conclusion, we replicated results from the only reported GWAS study of DA demonstrating an association between two closely linked CTNNA3 gene SNPs and DA.
+These findings lend further support to the clinical relevance of these genotypes in predicting susceptibility to DA and the potential importance of catenins in the disease process.

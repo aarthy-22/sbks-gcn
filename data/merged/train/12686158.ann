@@ -1,0 +1,27 @@
+T19	CHEMICAL 0 21	5-Aminolevulinic acid
+T25	GENE-N 0 30	5-Aminolevulinic acid synthase
+T1	CHEMICAL 67 88	5-Aminolevulinic acid
+T20	GENE-N 67 97	5-Aminolevulinic acid synthase
+T22	GENE-N 99 103	ALAS
+T2	CHEMICAL 171 193	pyridoxal 5'-phosphate
+T6	CHEMICAL 225 232	glycine
+T7	CHEMICAL 237 249	succinyl-CoA
+T8	CHEMICAL 259 280	5-aminolevulinic acid
+T9	CHEMICAL 282 305	5-amino-4-oxopentanoate
+T21	GENE-Y 348 375	Rhodobacter spheroides ALAS
+T10	CHEMICAL 418 428	amino acid
+T11	CHEMICAL 512 519	glycine
+T12	CHEMICAL 530 540	amino acid
+T13	CHEMICAL 682 689	alanine
+T14	CHEMICAL 691 697	serine
+T15	CHEMICAL 701 710	threonine
+T16	CHEMICAL 751 772	5-aminolevulinic acid
+T23	GENE-N 751 781	5-aminolevulinic acid synthase
+T24	GENE-Y 787 814	human erythrocytes (ALAS 2)
+T17	CHEMICAL 999 1011	vitamin B(6)
+T18	CHEMICAL 1013 1023	pyridoxine
+T3	CHEMICAL 1194 1202	arginine
+T4	CHEMICAL 1229 1236	glycine
+T5	CHEMICAL 1237 1245	carboxyl
+R0	NOT Arg1:T22 Arg2:T2
+R1	NOT Arg1:T16 Arg2:T24

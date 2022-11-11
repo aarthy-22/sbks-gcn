@@ -1,0 +1,20 @@
+T20	GENE-Y 9 30	rat brain calpastatin
+T2	CHEMICAL 110 111	N
+T8	GENE-Y 153 174	rat brain calpastatin
+T7	GENE-N 331 355	rat calpastatin L-domain
+T9	GENE-N 429 438	XL-domain
+T10	GENE-N 442 460	calpastatin type I
+T11	GENE-Y 573 584	calpastatin
+T12	GENE-N 658 670	XL-L-domains
+T13	GENE-Y 693 714	rat brain calpastatin
+T14	GENE-Y 842 853	calpastatin
+T15	GENE-N 915 923	L-domain
+T16	GENE-N 994 1001	calpain
+T17	GENE-N 1045 1054	XL-domain
+T18	GENE-N 1114 1121	calpain
+T19	GENE-Y 1122 1133	calpastatin
+T1	CHEMICAL 1160 1167	calcium
+T3	GENE-Y 1196 1207	calpastatin
+T4	GENE-N 1222 1229	calpain
+T5	GENE-Y 1270 1281	calpastatin
+T6	GENE-N 1314 1323	XL-domain

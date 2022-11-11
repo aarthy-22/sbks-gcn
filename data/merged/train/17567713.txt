@@ -1,0 +1,10 @@
+Artificial sweeteners and salts producing a metallic taste sensation activate TRPV1 receptors.
+Throughout the world many people use artificial sweeteners (AS) for the purpose of reducing caloric intake.
+The most prominently used of these molecules include saccharin, aspartame (Nutrasweet), acesulfame-K, and cyclamate.
+Despite the caloric advantage they provide, one key concern in their use is their aversive aftertaste that has been characterized on a sensory level as bitter and/or metallic.
+Recently, it has been shown that the activation of particular T2R bitter taste receptors is partially involved with the bitter aftertaste sensation of saccharin and acesulfame-K. To more fully understand the biology behind these phenomena we have addressed the question of whether AS could stimulate transient receptor potential vanilloid-1 (TRPV1) receptors, as these receptors are activated by a large range of structurally different chemicals.
+Moreover, TRPV1 receptors and/or their variants are found in taste receptor cells and in nerve terminals throughout the oral cavity.
+Hence, TRPV1 activation could be involved in the AS aftertaste or even contribute to the poorly understood metallic taste sensation.
+Using Ca(2+) imaging on TRPV1 receptors heterologously expressed in the human embryonic kidney (HEK) 293 cells and on dissociated primary sensory neurons, we find that in both systems, AS activate TRPV1 receptors, and, moreover, they sensitize these channels to acid and heat.
+We also found that TRPV1 receptors are activated by CuSO(4), ZnSO(4), and FeSO(4), three salts known to produce a metallic taste sensation.
+In summary, our results identify a novel group of compounds that activate TRPV1 and, consequently, provide a molecular mechanism that may account for off tastes of sweeteners and metallic tasting salts.

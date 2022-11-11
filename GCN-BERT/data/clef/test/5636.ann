@@ -1,0 +1,7 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 23 71	5-(hydroxymethyl)-2- trifluoromethylbenzonitrile
+T3	OTHER_COMPOUND 120 121	f
+T4	OTHER_COMPOUND 157 158	k
+T5	REACTION_PRODUCT 192 194	I'
+T6	REACTION_PRODUCT 196 243	5-(hydroxymethyl)-2-trifluoromethylbenzonitrile
+T7	YIELD_OTHER 245 250	1.2 g

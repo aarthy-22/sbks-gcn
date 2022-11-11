@@ -1,0 +1,17 @@
+T16	GENE-Y 59 94	phosphorylated acetylcholinesterase
+T5	CHEMICAL 177 208	diisopropyl phosphorofluoridate
+T14	GENE-Y 225 258	bovine serum acetylcholinesterase
+T10	GENE-Y 314 332	anticholinesterase
+T11	GENE-Y 468 488	acetylcholinesterase
+T12	GENE-Y 862 882	acetylcholinesterase
+T6	CHEMICAL 915 924	guanidine
+T13	GENE-Y 971 989	anticholinesterase
+T15	GENE-N 1076 1112	phosphorylated acetylcholinesterases
+T7	CHEMICAL 1128 1144	organophosphates
+T1	CHEMICAL 1212 1218	oxygen
+T2	CHEMICAL 1235 1236	P
+T3	CHEMICAL 1243 1254	CH3P(O)(O-)
+T8	GENE-Y 1255 1259	AChE
+T4	CHEMICAL 1333 1349	organophosphoryl
+T9	GENE-Y 1364 1384	acetylcholinesterase
+R0	NOT Arg1:T2 Arg2:T9

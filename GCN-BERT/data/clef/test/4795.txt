@@ -1,0 +1,2 @@
+Synthesis of Compound 46
+The compound 45 (0.22 g, 0.55 mmol) was dissolved in 5.5 mL of DMF, NaN3 (0.18 g, 5.0 eq.) was added, and the mixture was stirred in an oil bath at 50° C. for 24 hours. After the completion of reaction, H2O was added, and the mixture was subjected to extraction with EtOAc. The organic layer was washed with brine, dried by adding anhydrous sodium sulfate, and then distilled under reduced pressure. Then, the residue was purified by column chromatography (hexane:EtOAc=1:1) to isolate and obtain a compound 46 (0.12 g, 61%) as a white crystal.

@@ -1,0 +1,30 @@
+T24	GENE 27 45	beta2-adrenoceptor
+T18	CHEMICAL 56 66	formoterol
+T19	CHEMICAL 71 81	salmeterol
+T20	GENE 147 167	beta(2)-Adrenoceptor
+T22	GENE 321 341	beta(1)-adrenoceptor
+T10	CHEMICAL 376 386	formoterol
+T11	CHEMICAL 391 401	salmeterol
+T23	GENE 522 542	beta(2)-adrenoceptor
+T12	CHEMICAL 588 598	formoterol
+T13	CHEMICAL 603 613	salmeterol
+T14	CHEMICAL 718 728	Formoterol
+T15	CHEMICAL 733 743	salmeterol
+T16	CHEMICAL 1059 1069	Formoterol
+T17	CHEMICAL 1091 1101	salmeterol
+T1	CHEMICAL 1204 1214	salmeterol
+T2	CHEMICAL 1251 1261	formoterol
+T3	CHEMICAL 1323 1333	formoterol
+T4	CHEMICAL 1437 1447	formoterol
+T5	CHEMICAL 1516 1526	formoterol
+T6	CHEMICAL 1576 1586	salmeterol
+T21	GENE 1612 1629	beta-adrenoceptor
+T7	CHEMICAL 1713 1723	formoterol
+T8	CHEMICAL 1876 1886	formoterol
+T9	CHEMICAL 1891 1901	salmeterol
+R0	CPR-5 Arg1:T18 Arg2:T24
+R1	CPR-5 Arg1:T19 Arg2:T24
+R2	CPR-5 Arg1:T10 Arg2:T23
+R3	CPR-5 Arg1:T11 Arg2:T23
+R4	NOT Arg1:T5 Arg2:T21
+R5	NOT Arg1:T6 Arg2:T21

@@ -1,0 +1,14 @@
+T6	CHEMICAL 0 10	Vandetanib
+T2	CHEMICAL 332 342	Vandetanib
+T3	CHEMICAL 344 352	Caprelsa
+T4	CHEMICAL 391 399	tyrosine
+T7	GENE-N 391 406	tyrosine kinase
+T8	GENE-N 466 504	growth-factor receptor tyrosine kinase
+T5	CHEMICAL 489 497	tyrosine
+T9	GENE-Y 505 508	RET
+T10	GENE-N 565 617	vascular endothelial growth-factor receptors 2 and 3
+T11	GENE-Y 623 656	epidermal growth-factor receptors
+T1	CHEMICAL 1338 1348	Vandetanib
+R0	CPR-4 Arg1:T2 Arg2:T9
+R1	CPR-4 Arg1:T3 Arg2:T11
+R2	NOT Arg1:T3 Arg2:T10

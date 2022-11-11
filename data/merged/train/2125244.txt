@@ -1,0 +1,4 @@
+Stoichiometry of estramustine phosphate binding to MAP2 measured by the disassembly of chick brain MAP2:tubulin microtubules.
+The concentration of estramustine phosphate required to inhibit the assembly or to induce the disassembly of chick brain MAP2:tubulin microtubules is markedly dependent upon the microtubule protein concentration.
+Analysis of this relationship shows that estramustine phosphate and tubulin compete for common MAP2 sites, that MAP2 can bind 5-6 moles.mole-1 estramustine phosphate, and that the Kd of these sites is congruent to 20 microM estramustine phosphate.
+It is proposed that two molecules of estramustine phosphate interact with each of the three tubulin-binding sites of MAP2 and inhibit the MAP2:tubulin interaction by neutralising two highly conserved basic residues.

@@ -1,0 +1,3 @@
+(Example 14)
+The first step
+To a solution of Compound 35 (500mg, 1.21mmol) and pyridine (0.292mL, 3.62mmol) in dichloromethane (5mL) was added dropwise 2-chloroethane sulfonyl chloride (0.189mL, 1.81mmol) under ice-cooling, and the mixture was stirred for 2 hours at room temperature. The reaction mixture was extracted with ethyl acetate after addition of saturated aqueous sodium hydrogencarbonate solution. The organic layer was dried over anhydrous sodium sulfate, and concentrated under reduced pressure. The resulting residue was purified by silica gel chromatography (hexane-ethyl acetate) to yield compound 66 (342mg, yield 56%).

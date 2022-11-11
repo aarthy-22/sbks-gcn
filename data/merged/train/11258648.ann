@@ -1,0 +1,22 @@
+T3	CHEMICAL 19 29	budesonide
+T19	GENE-Y 43 66	glucocorticoid receptor
+T20	GENE-N 92 100	cytokine
+T2	CHEMICAL 190 200	budesonide
+T18	GENE-Y 223 246	glucocorticoid receptor
+T6	GENE-Y 248 250	GR
+T7	GENE-N 292 300	cytokine
+T1	CHEMICAL 460 468	steroids
+T8	GENE-Y 748 750	GR
+T9	GENE-N 868 877	cytokines
+T10	GENE-Y 878 895	interleukin 1beta
+T11	GENE-Y 897 910	interleukin 2
+T12	GENE-Y 912 925	interleukin 4
+T13	GENE-Y 927 940	interleukin 5
+T14	GENE-Y 942 955	interleukin 6
+T15	GENE-Y 957 971	interleukin 10
+T16	GENE-Y 973 1000	tumor necrosis factor alpha
+T17	GENE-Y 1006 1022	interferon gamma
+T4	GENE-Y 1251 1253	GR
+T5	GENE-N 1262 1271	cytokines
+R0	NOT Arg1:T3 Arg2:T20
+R1	NOT Arg1:T2 Arg2:T7

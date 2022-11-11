@@ -1,0 +1,12 @@
+T9	CHEMICAL 0 11	Perhexiline
+T1	CHEMICAL 13 24	Perhexiline
+T2	CHEMICAL 26 61	2-(2,2-dicyclohexylethyl)piperidine
+T3	CHEMICAL 406 417	Perhexiline
+T4	CHEMICAL 426 436	fatty acid
+T5	CHEMICAL 474 483	carnitine
+T10	GENE-N 474 504	carnitine palmitoyltransferase
+T6	CHEMICAL 557 579	long-chain fatty acids
+T7	CHEMICAL 693 699	oxygen
+T8	CHEMICAL 722 728	oxygen
+T11	GENE-Y 927 933	CYP2D6
+R0	CPR-9 Arg1:T6 Arg2:T10

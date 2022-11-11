@@ -1,0 +1,13 @@
+Subtypes of alpha 1- and alpha 2-adrenergic receptors.
+The adrenergic receptors are members of the superfamily of G protein-coupled receptors.
+There are three major types of adrenergic receptors: alpha 1, alpha 2, and beta.
+Each of these three major types can be divided into three subtypes.
+Within the alpha 1-adrenergic receptors, alpha 1A and alpha 1B subtypes have been defined pharmacologically on the basis of reversible antagonists, such as WB4101 and phentolamine, and the irreversible antagonist chloroethylclonidine.
+In at least some tissues the mechanism of action of the alpha 1A subtype is related to activation of a calcium channel, whereas the alpha 1B receptor exerts its effect through the second messenger inositol trisphosphate.
+Both of these receptor subtypes as well as a third, the alpha 1C, have been identified by molecular cloning.
+Three pharmacological subtypes of the alpha 2-adrenergic receptor have also been identified.
+Prototypic tissues and cell lines in continuous culture have been developed for each of these subtypes, which facilitated their study.
+The definition of the alpha 2 subtypes has been based on radioligand binding data and more limited functional data.
+All three subtypes have been shown to inhibit the activation of adenylate cyclase and thus reduce the levels of cAMP.
+Three alpha 2-adrenergic receptor subtypes have been identified by molecular cloning in both the human and rat species.
+There is reasonable agreement between the pharmacological identified subtypes and those identified by molecular cloning.

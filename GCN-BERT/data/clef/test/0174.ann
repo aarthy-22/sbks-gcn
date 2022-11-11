@@ -1,0 +1,9 @@
+T1	EXAMPLE_LABEL 5 6	6
+T2	REACTION_PRODUCT 23 103	4-(3-(4-(7H-purin-2-yl)piperazine-1-carbonyl>4-fluorobenzyl)phthalazin-1(2H)-one
+T3	OTHER_COMPOUND 153 154	1
+T4	OTHER_COMPOUND 189 190	a
+T5	OTHER_COMPOUND 220 221	f
+T6	REACTION_PRODUCT 243 244	8
+T7	REACTION_PRODUCT 247 328	4-(3-(4-(7H-purin-2-yl)piperazine-1-carbonyl)-4-fluorobenzyl)phthalazin-1(2H)-one
+T8	YIELD_OTHER 330 335	88 mg
+T9	YIELD_PERCENT 343 346	74%

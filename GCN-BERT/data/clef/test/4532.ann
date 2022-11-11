@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 8 10	33
+T2	REACTION_PRODUCT 11 115	5'-((2-methoxyethyl)amino)-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide
+T3	REACTION_PRODUCT 117 121	1-31
+T4	SOLVENT 126 129	NMP
+T5	STARTING_MATERIAL 151 238	5'-fluoro-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide
+T6	STARTING_MATERIAL 264 286	2-methoxyethan-1-amine
+T7	TEMPERATURE 308 319	140-150° C.
+T8	TIME 324 331	13 days
+T9	OTHER_COMPOUND 426 436	silica gel
+T10	OTHER_COMPOUND 481 494	Hexanes-EtOAc
+T11	REACTION_PRODUCT 496 510	title compound
+T12	YIELD_OTHER 546 551	14 mg
+T13	YIELD_PERCENT 553 556	54%

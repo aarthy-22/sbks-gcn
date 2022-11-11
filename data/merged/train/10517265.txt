@@ -1,0 +1,8 @@
+CCK-mediated response in the activation of 5-HT receptor types in the guinea-pig ileum.
+The possible interaction between cholecystokinin (CCK) and 5-hydroxytryptamine (5-HT) was evaluated in vitro in the longitudinal muscle-myenteric plexus of the guinea-pig ileum.
+Devazepide and L-365,260 were used to block CCKA and CCK(B) receptors and ondansetron and tropisetron to block 5-HT3 and 5-HT4 receptors, respectively.
+The CCK receptor antagonists blocked, in a dose-dependent manner, the response to 5-HT and to the selective agonists at 5-HT3 and 5-HT4 receptors, 2-methyl-5-hydroxytryptamine (2-Me-5-HT) and 5-methoxytryptamine (5-MeOT), respectively.
+The blockade was almost complete on the first phase of the concentration response curve to 5-HT and for all the concentrations of 5-MeOT tested.
+In the 2-Me-5-HT-induced contractile response there was a component with the same sensitivity to devazepide and to the selective NK1 receptor antagonist, GR 82334, and another resistant component that was abolished by atropine.
+However, the blockade of the NK1 receptor did not produce a significant increase in the inhibition obtained when atropine or devazepide were separately tested on the 5-MeOT-induced response.
+These results suggest that CCK is involved in the 5-HT-induced contractile response, particularly in the response induced by 5-HT4 receptor stimulation.

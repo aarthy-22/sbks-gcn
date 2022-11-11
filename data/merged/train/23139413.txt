@@ -1,0 +1,13 @@
+Long range effect of mutations on specific conformational changes in the extracellular loop 2 of angiotensin II type 1 receptor.
+The topology of the second extracellular loop (ECL2) and its interaction with ligands is unique in each G protein-coupled receptor.
+When the orthosteric ligand pocket located in the transmembrane (TM) domain is occupied, ligand-specific conformational changes occur in the ECL2.
+In more than 90% of G protein-coupled receptors, ECL2 is tethered to the third TM helix via a disulfide bond.
+Therefore, understanding the extent to which the TM domain and ECL2 conformations are coupled is useful.
+To investigate this, we examined conformational changes in ECL2 of the angiotensin II type 1 receptor (AT1R) by introducing mutations in distant sites that alter the activation state equilibrium of the AT1R.
+Differential accessibility of reporter cysteines introduced at four conformation-sensitive sites in ECL2 of these mutants was measured.
+Binding of the agonist angiotensin II (AngII) and inverse agonist losartan in wild-type AT1R changed the accessibility of reporter cysteines, and the pattern was consistent with ligand-specific "lid" conformations of ECL2.
+Without agonist stimulation, the ECL2 in the gain of function mutant N111G assumed a lid conformation similar to AngII-bound wild-type AT1R.
+In the presence of inverse agonists, the conformation of ECL2 in the N111G mutant was similar to the inactive state of wild-type AT1R.
+In contrast, AngII did not induce a lid conformation in ECL2 in the loss of function D281A mutant, which is consistent with the reduced AngII binding affinity in this mutant.
+However, a lid conformation was induced by [Sar(1),Gln(2),Ile(8)] AngII, a specific analog that binds to the D281A mutant with better affinity than AngII.
+These results provide evidence for the emerging paradigm of domain coupling facilitated by long range interactions at distant sites on the same receptor.

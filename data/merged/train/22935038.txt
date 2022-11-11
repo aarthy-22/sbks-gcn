@@ -1,0 +1,15 @@
+Postpartum corticosterone administration reduces dendritic complexity and increases the density of mushroom spines of hippocampal CA3 arbours in dams.
+Postpartum depression (PPD) affects approximately 15% of mothers after giving birth.
+A complete understanding of depression during the postpartum period has yet to be established, although disruptions in the hypothalamic-pituitary-adrenal axis and stress during the postpartum may be involved.
+To model these components in rats, we administered high corticosterone (CORT) postpartum, which increases immobility in the forced swim test (FST), and reduces maternal care, body weight and hippocampal cell proliferation in dams.
+The hippocampus is altered in response to chronic stress, exposure to high glucocorticoids and in major depression in humans.
+In the present study, we examined whether high CORT reduced dendritic complexity and spines in the CA3 region of the hippocampus.
+Additionally, housing complexity was manipulated so that dams and litters were housed either with tubes (complex) or without tubes (impoverished) to investigate the consequences of new animal care regulations.
+Dams received 40 mg/kg/day of CORT or oil starting on day 2 postpartum for 23 days.
+Maternal behaviours were assessed on postpartum days 2-8 and dams were tested using the FST on days 21 and 22.
+Dams were killed on day 24 and brains were processed for Golgi impregnation.
+Pyramidal cells in the CA3 subfield were traced using a camera lucida and analysed for branch points and dendritic complexity, as well as spine density and type on both basal and apical arbours.
+As previously established, high CORT postpartum reduced maternal care and increased immobility in the FST, which is a measure of depressive-like behaviour.
+High CORT postpartum reduced the complexity of basal arbours and increased mushroom spines on both apical and basal dendrites.
+Housing complexity had no effect on spines of CA3 pyramidal cells but modest effects on cell morphology.
+These data show that chronic high CORT in postpartum females alters hippocampal morphology and may provide insight regarding the neurobiological consequences of high stress or CORT during the postpartum period, as well as be relevant for postpartum stress or depression.

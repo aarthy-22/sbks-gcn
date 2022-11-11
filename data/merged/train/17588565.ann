@@ -1,0 +1,22 @@
+T16	CHEMICAL 53 63	vecuronium
+T17	CHEMICAL 68 79	pancuronium
+T21	GENE-Y 97 126	human muscarinic M2 receptors
+T20	GENE-N 201 234	nicotinic-acetylcholine receptors
+T15	CHEMICAL 211 224	acetylcholine
+T1	CHEMICAL 330 340	vecuronium
+T2	CHEMICAL 358 367	gallamine
+T3	CHEMICAL 372 383	pancuronium
+T4	CHEMICAL 403 411	atropine
+T5	CHEMICAL 420 445	[(3)H]N-methylscopolamine
+T18	GENE-Y 515 544	human muscarinic M2 receptors
+T6	CHEMICAL 568 578	vecuronium
+T7	CHEMICAL 589 597	atropine
+T8	CHEMICAL 631 640	gallamine
+T9	CHEMICAL 650 658	atropine
+T10	CHEMICAL 692 703	pancuronium
+T11	CHEMICAL 712 720	atropine
+T12	CHEMICAL 780 790	vecuronium
+T13	CHEMICAL 792 801	gallamine
+T14	CHEMICAL 806 817	pancuronium
+T19	GENE-Y 858 880	muscarinic M2 receptor
+R0	NOT Arg1:T13 Arg2:T19

@@ -1,0 +1,23 @@
+T17	GENE-Y 40 45	HGPRT
+T18	GENE-Y 47 51	APRT
+T19	GENE-Y 55 59	XPRT
+T14	GENE-N 147 172	phosphoribosyltransferase
+T5	CHEMICAL 182 202	hypoxanthine-guanine
+T15	GENE-Y 182 228	hypoxanthine-guanine phosphoribosyltransferase
+T9	GENE-Y 230 235	HGPRT
+T2	CHEMICAL 238 245	adenine
+T10	GENE-Y 238 271	adenine phosphoribosyltransferase
+T11	GENE-Y 273 277	APRT
+T3	CHEMICAL 284 292	xanthine
+T12	GENE-Y 284 318	xanthine phosphoribosyltransferase
+T13	GENE-Y 320 324	XPRT
+T4	CHEMICAL 362 368	purine
+T16	GENE-N 930 956	phosphoribosyltransferases
+T6	CHEMICAL 974 980	purine
+T7	CHEMICAL 1021 1027	purine
+T1	CHEMICAL 1166 1173	adenine
+T8	GENE-Y 1166 1188	adenine aminohydrolase
+R0	NOT Arg1:T14 Arg2:T2
+R1	NOT Arg1:T9 Arg2:T3
+R2	NOT Arg1:T9 Arg2:T4
+R3	NOT Arg1:T16 Arg2:T6

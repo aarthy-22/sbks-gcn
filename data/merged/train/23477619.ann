@@ -1,0 +1,15 @@
+T7	CHEMICAL 15 23	Aldehyde
+T13	GENE-N 15 37	Aldehyde Dehydrogenase
+T6	CHEMICAL 125 171	4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanone
+T8	CHEMICAL 173 176	NNK
+T1	CHEMICAL 381 389	Aldehyde
+T9	GENE-N 381 403	Aldehyde dehydrogenase
+T10	GENE-N 405 409	ALDH
+T11	GENE-N 515 519	ALDH
+T2	CHEMICAL 585 631	4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone
+T3	CHEMICAL 659 672	O(6)-methyl-G
+T4	CHEMICAL 674 681	7-POB-G
+T5	CHEMICAL 687 698	O(2)-POB-dT
+T12	GENE-N 729 733	ALDH
+R0	NOT Arg1:T13 Arg2:T6
+R1	NOT Arg1:T5 Arg2:T12

@@ -1,0 +1,7 @@
+An angiotensin II AT1 receptor antagonist, telmisartan augments glucose uptake and GLUT4 protein expression in 3T3-L1 adipocytes.
+Evidence has accumulated that some of the angiotensin II AT1 receptor antagonists have insulin-sensitizing property.
+We thus examined the effect of telmisartan on insulin action using 3T3-L1 adipocytes.
+With standard differentiation inducers, a higher dose of telmisartan effectively facilitated differentiation of 3T3-L1 preadipocytes.
+Treatment of both differentiating adipocytes and fully differentiated adipocytes with telmisartan caused a dose-dependent increase in mRNA levels for PPARgamma target genes such as aP2 and adiponectin.
+By contrast, telmisartan attenuated 11beta-hydroxysteroid dehydrogenase type 1 mRNA level in differentiated adipocytes.
+Of note, we demonstrated for the first time that telmisartan augmented GLUT4 protein expression and 2-deoxy glucose uptake both in basal and insulin-stimulated state of adipocytes, which may contribute, at least partly, to its insulin-sensitizing ability.

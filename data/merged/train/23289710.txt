@@ -1,0 +1,7 @@
+Mammalian Trit1 is a tRNA([Ser]Sec)-isopentenyl transferase required for full selenoprotein expression.
+Selenoproteins are proteins carrying the rare amino acid Sec (selenocysteine).
+Full expression of selenoproteins requires modification of tRNA([Ser]Sec), including N(6)-isopentenylation of base A(37).
+We show that Trit1 is a dimethylallyl:tRNA([Ser]Sec) transferase.
+Knockdown of Trit1 reduces expression of selenoproteins.
+Incubation of in vitro transcribed tRNA[Ser]Sec with recombinant Trit1 transfers [(14)C]dimethylallyl pyrophosphate to tRNA([Ser]Sec).
+37A>G tRNA([Ser]Sec) is resistant to isopentenylation by Trit1.

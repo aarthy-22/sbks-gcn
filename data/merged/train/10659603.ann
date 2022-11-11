@@ -1,0 +1,15 @@
+T11	GENE-N 330 338	5-HT1B/D
+T1	CHEMICAL 349 357	triptans
+T2	CHEMICAL 374 385	sumatriptan
+T12	GENE-Y 441 447	5-HT1D
+T13	GENE-Y 452 458	5-HT1F
+T3	CHEMICAL 631 644	valproic acid
+T4	CHEMICAL 646 656	gabapentin
+T5	CHEMICAL 661 671	topiramate
+T6	CHEMICAL 673 680	calcium
+T7	CHEMICAL 702 714	cyclandelate
+T8	CHEMICAL 719 728	dotarizin
+T9	CHEMICAL 758 768	riboflavin
+T14	GENE-N 864 884	neurokinin receptors
+T15	GENE-N 906 931	neuronal calcium channels
+T10	CHEMICAL 915 922	calcium

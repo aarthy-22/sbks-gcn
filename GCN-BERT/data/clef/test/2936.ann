@@ -1,0 +1,9 @@
+T1	EXAMPLE_LABEL 8 10	74
+T2	REACTION_PRODUCT 11 184	3-(3-isopropyl-2,4-dioxo-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1,2,3,4-tetrahydro-pyrimidin-5-yl)-methyl benzoic acetate
+T3	OTHER_COMPOUND 218 220	74
+T4	EXAMPLE_LABEL 222 226	74.1
+T5	REACTION_PRODUCT 228 301	(5-bromo-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl)-acetic acid
+T6	REACTION_PRODUCT 362 438	(5-bromo-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl)-methyl acetate
+T7	YIELD_OTHER 480 485	1.8 g
+T8	YIELD_PERCENT 487 491	100%
+T9	REACTION_PRODUCT 496 569	(5-bromo-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl)-acetic acid

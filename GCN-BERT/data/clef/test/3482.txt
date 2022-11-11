@@ -1,0 +1,4 @@
+Synthesis of Intermediate Compound (iv)
+The Intermediate Compound (iii) was dissolved in tetrahydrofuran (0.05 M, solvent), cooled to a temperature of 0° C., and then stirred for 0.5 hours. Then, methylmagnesium bromide (1.05 equiv.) was slowly added thereto dropwise and then additionally stirred at room temperature for 6 hours. An organic layer was obtained by performing an extraction process on the reaction mixture three times by using ethyl acetate and water. The obtained organic layer was dried by using magnesium sulfate, and the solvent was evaporated therefrom. The obtained residue was separated and purified by silica gel column chromatography to obtain Intermediate Compound (iv). The obtained compound was confirmed by using 1H NMR, 13C NMR, and HR-EIMS.
+Yield: 3.85 g (6.64 mmol, 75%).
+HR-EIMS (m/z) [M+1]+ calcd for C42H32N2O 581.2515; found, 581.2520.

@@ -1,0 +1,6 @@
+Combination chemotherapy with a substance P receptor antagonist (aprepitant) and melarsoprol in a mouse model of human African trypanosomiasis.
+Drug therapy for late-stage (encephalitic) human African trypanosomiasis (HAT) is currently very unsatisfactory with the most commonly used drug, melarsoprol, having a 5% overall mortality.
+There is evidence in a mouse model of HAT that Substance P (SP) receptor antagonism reduces the neuroinflammatory reaction to CNS trypanosome infection.
+In this study we investigated the effects of combination chemotherapy with melarsoprol and a humanised SP receptor antagonist aprepitant (EMEND) in this mouse model.
+The melarsoprol/aprepitant drug combination did not produce any clinical signs of illness in mice with CNS trypanosome infection.
+This lack of any additional or unexpected CNS toxicity in the mouse model of CNS HAT provides valuable safety data for the future possible use of this drug combination in patients with late-stage HAT.

@@ -1,0 +1,34 @@
+T31	GENE-Y 47 76	human alpha(2A)-adrenoceptors
+T11	CHEMICAL 124 135	imidazoline
+T27	GENE-N 124 144	imidazoline receptor
+T13	CHEMICAL 152 163	rilmenidine
+T21	GENE-Y 242 265	alpha(2A)-adrenoceptors
+T25	GENE-N 352 375	alpha(2A)-adrenoceptors
+T10	CHEMICAL 401 412	rilmenidine
+T26	GENE-N 422 445	alpha(2A)-adrenoceptors
+T28	GENE-N 705 726	alpha(2)-adrenoceptor
+T12	CHEMICAL 781 801	[(3)H]norepinephrine
+T29	GENE-N 850 871	alpha(2)-adrenoceptor
+T14	CHEMICAL 903 913	moxonidine
+T15	CHEMICAL 947 958	rilmenidine
+T16	CHEMICAL 963 976	oxymetazoline
+T30	GENE-N 1070 1092	alpha(2)-autoreceptors
+T1	CHEMICAL 1121 1132	rauwolscine
+T2	CHEMICAL 1134 1146	phentolamine
+T3	CHEMICAL 1152 1160	idazoxan
+T4	CHEMICAL 1175 1183	prazosin
+T5	CHEMICAL 1238 1248	amino acid
+T17	GENE-Y 1265 1294	rabbit alpha(2A)-adrenoceptor
+T18	GENE-N 1381 1402	alpha(2)-adrenoceptor
+T19	GENE-N 1465 1487	alpha(2A)-adrenoceptor
+T20	GENE-N 1593 1616	alpha(2A)-autoreceptors
+T6	CHEMICAL 1642 1653	rilmenidine
+T7	CHEMICAL 1658 1671	oxymetazoline
+T8	CHEMICAL 1770 1781	rilmenidine
+T22	GENE-Y 1785 1814	human alpha(2A)-adrenoceptors
+T23	GENE-Y 1957 1980	alpha(2A)-adrenoceptors
+T24	GENE-Y 2003 2029	I(1)-imidazoline receptors
+T9	CHEMICAL 2008 2019	imidazoline
+R0	CPR-6 Arg1:T15 Arg2:T30
+R1	CPR-1 Arg1:T5 Arg2:T17
+R2	NOT Arg1:T8 Arg2:T23

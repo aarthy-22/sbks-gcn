@@ -1,0 +1,27 @@
+T16	GENE-Y 585 590	K-Ras
+T17	GENE-N 615 637	tumor suppressor genes
+T18	GENE-Y 647 651	TP53
+T19	GENE-Y 656 665	p16(INK4)
+T20	GENE-Y 827 832	Bcl-2
+T21	GENE-Y 834 837	Akt
+T22	GENE-Y 839 843	mdm2
+T23	GENE-Y 849 881	epidermal growth factor receptor
+T24	GENE-Y 1035 1038	p53
+T1	CHEMICAL 1078 1092	5-fluorouracil
+T10	GENE-Y 1102 1107	Bcl-2
+T2	CHEMICAL 1165 1176	gemcitabine
+T3	CHEMICAL 1487 1498	thymidylate
+T11	GENE-Y 1487 1507	thymidylate synthase
+T12	GENE-Y 1512 1556	human equilibrative nucleoside transporter-1
+T4	CHEMICAL 1532 1542	nucleoside
+T5	CHEMICAL 1581 1595	5-fluorouracil
+T6	CHEMICAL 1601 1612	gemcitabine
+T7	CHEMICAL 1980 1991	gemcitabine
+T8	CHEMICAL 1992 2002	nucleoside
+T13	GENE-N 1992 2015	nucleoside transporters
+T14	GENE-Y 2048 2080	epidermal growth factor receptor
+T9	CHEMICAL 2121 2129	tyrosine
+T15	GENE-N 2121 2136	tyrosine kinase
+R0	NOT Arg1:T24 Arg2:T1
+R1	NOT Arg1:T11 Arg2:T6
+R2	NOT Arg1:T12 Arg2:T5

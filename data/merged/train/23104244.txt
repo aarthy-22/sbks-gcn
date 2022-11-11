@@ -1,0 +1,10 @@
+Cytochrome P450-mediated herb-drug interaction potential of Galgeun-tang.
+We evaluated the herb-drug interaction potential of Galgeun-tang (GGT) extracts, mediated by cytochrome P450 (CYP) inhibition/induction.
+Further, the effects of fermentation on the CYP-mediated herb-drug interaction potential of GGT extracts were determined.
+As measured by LC-ESI/MS/MS, GGT extracts (0-300μg/mL) showed no inhibitory activity toward eight CYP isoforms (1A2, 2A6, 2B6, 2C9, 2C19, 2D6, 2E1, and 3A4) in pooled human liver microsomes, suggesting that GGT may have low potential for herb-drug interactions mediated by CYP inhibition.
+Hepatic CYP expression and activity in rats treated with GGT extracts twice per day for 1week was examined.
+Among the tested CYP isoforms (1A1, 1A2, 1B1, 2B1, 2C11, 2E1, 3A1, 3A2, and 4A1), CYP1B1 and 4A1 were increased by GGT extracts.
+Hepatic activities of 7-ethoxyresorufin-O-deethylase, 7-pentoxyresorufin-O-depentylase, and chlorzoxazone 6-hydroxylase, but not midazolam hydroxylase were also elevated.
+These results raise the possibility that GGT extracts may increase the toxicity of environmental toxicants through the elevating CYP-dependent metabolic activation.
+Interestingly, the increases in CYP1B1 and CYP4A1 levels, and 7-ethoxyresorufin-O-deethylase, 7-pentoxyresorufin-O-depentylase, and chlorzoxazone 6-hydroxylase activities were attenuated by fermentation of GGT extract using Lactobacillus plantarum KFRI 402, but not 144.
+Further studies are needed to identify the CYP regulatory component(s) from GGT and determination its metabolism.

@@ -1,0 +1,3 @@
+Reference Example 20
+N-[4-(2-Furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]-6-propylpyridine-3-carboxamide (compound (IW))
+step 1 In the same manner as in step 1 of Reference Example 2, methyl 6-(1-propenyl)nicotinate (327 mg, 37%) was obtained as a colorless transparent oil from methyl 6-chloronicotinate (862 mg, 6.48 mmol) and allyltributyltin (2.20 mL, 7.09 mmol).

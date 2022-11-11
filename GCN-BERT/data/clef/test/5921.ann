@@ -1,0 +1,17 @@
+T1	REACTION_PRODUCT 13 110	8-(3-aminophenyl)-2-((2-(methoxymethoxy)-4-(4-methyl-1-piperazinyl)phenyl)amino)-7(8H)pteridinone
+T2	STARTING_MATERIAL 111 230	tert-butyl (3-((2-((2-(methoxymethoxy)-4-(4-methyl-1-piperazinyl)phenyl)amino)-7-oxo-8(7H)-pteri dinyl)phenyl)carbamate
+T3	OTHER_COMPOUND 304 322	methylene chloride
+T4	REAGENT_CATALYST 345 365	trifluoroacetic acid
+T5	TIME 450 456	1 hour
+T6	TIME 480 486	1 hour
+T7	TEMPERATURE 490 506	room temperature
+T8	OTHER_COMPOUND 552 570	sodium bicarbonate
+T9	OTHER_COMPOUND 660 675	dichloromethane
+T10	OTHER_COMPOUND 721 726	water
+T11	OTHER_COMPOUND 741 756	sodium chloride
+T12	OTHER_COMPOUND 869 879	silica gel
+T13	OTHER_COMPOUND 881 896	dichloromethane
+T14	OTHER_COMPOUND 899 907	methanol
+T15	REACTION_PRODUCT 932 1029	8-(3-aminophenyl)-2-((2-(methoxymethoxy)-4-(4-methyl-1-piperazinyl)phenyl)amino)-7(8H)pteridinone
+T16	YIELD_OTHER 1049 1055	132 mg
+T17	YIELD_PERCENT 1063 1066	35%

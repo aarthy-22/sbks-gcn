@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 7	22
+T2	REACTION_PRODUCT 24 172	sodium and 2,2,2-trifluoroacetate [trans-7-(1H-imidazol-3-ium--2-yl)-9-oxo-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-10-yl]sulfate
+T3	EXAMPLE_LABEL 182 183	6
+T4	REACTION_PRODUCT 185 332	Sodium {trans-9-oxo-7-[1-(2-trimethylsilylethoxymethyl)-1H-imidazol-2-yl]-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-10-yl}sulfate
+T5	STARTING_MATERIAL 334 336	6u
+T6	REAGENT_CATALYST 376 379	TFA
+T7	TEMPERATURE 403 406	0°C
+T8	TIME 450 453	2 h
+T9	TEMPERATURE 457 459	rt
+T10	OTHER_COMPOUND 544 548	Et2O
+T11	OTHER_COMPOUND 628 633	water
+T12	OTHER_COMPOUND 640 641	®
+T13	REACTION_PRODUCT 697 845	sodium and 2,2,2-trifluoroacetate [trans-7-(1H-imidazol-3-ium--2-yl)-9-oxo-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-10-yl]sulfate
+T14	REACTION_PRODUCT 855 856	6
+T15	YIELD_OTHER 859 865	0.06 g
+T16	YIELD_OTHER 867 877	0.012 mmol
+T17	YIELD_PERCENT 879 882	62%

@@ -1,0 +1,11 @@
+Identification of transporters associated with Etoposide sensitivity of stomach cancer cell lines and methotrexate sensitivity of breast cancer cell lines by quantitative targeted absolute proteomics.
+Membrane transporter proteins may influence the sensitivity of cancer cells to anticancer drugs that can be recognized as substrates.
+The purpose of this study was to identify proteins that play a key role in the drug sensitivity of stomach and breast cancer cell lines by measuring the absolute protein expression levels of multiple transporters and other membrane proteins and examining their correlation to drug sensitivity.
+Absolute protein expression levels of 90 membrane proteins were examined by quantitative targeted absolute proteomics using liquid chromatography-linked tandem mass spectrometry.
+Among them, 11 and 14 membrane proteins, including transporters, were present in quantifiable amounts in membrane fraction of stomach cancer and breast cancer cell lines, respectively.
+In stomach cancer cell lines, the protein expression level of multidrug resistance-associated protein 1 (MRP1) was inversely correlated with etoposide sensitivity.
+MK571, an MRP inhibitor, increased both the cell-to-medium ratio of etoposide and the etoposide sensitivity of MRP1-expressing stomach cancer cell lines.
+In breast cancer cell lines, the protein expression level of reduced folate carrier 1 (RFC1) was directly correlated with methotrexate (MTX) sensitivity.
+Initial uptake rate and steady-state cell-to-medium ratio of [(3)H]MTX were correlated with both RFC1 expression level and MTX sensitivity.
+These results suggest that MRP1 modulates the etoposide sensitivity of stomach cancer cell lines and RFC1 modulates the MTX sensitivity of breast cancer cell lines.
+Our results indicate that absolute quantification of multiple membrane proteins could be a useful strategy for identification of candidate proteins involved in drug sensitivity.

@@ -1,0 +1,26 @@
+T6	CHEMICAL 14 26	estramustine
+T22	GENE-Y 33 39	MAP-1A
+T23	GENE-N 51 70	type IV collagenase
+T1	CHEMICAL 82 94	Estramustine
+T12	GENE-N 111 122	microtubule
+T16	GENE-N 142 147	MAP-1
+T18	GENE-Y 152 157	MAP-2
+T19	GENE-N 159 190	microtubule-associated proteins
+T2	CHEMICAL 235 247	estramustine
+T9	GENE-Y 267 273	MAP-1A
+T10	GENE-Y 319 325	MAP-1A
+T11	GENE-N 357 376	type IV collagenase
+T3	CHEMICAL 449 461	estramustine
+T13	GENE-N 470 489	type IV collagenase
+T14	GENE-Y 529 535	MAP-1A
+T15	GENE-N 536 547	microtubule
+T4	CHEMICAL 662 674	estramustine
+T17	GENE-N 713 732	type IV collagenase
+T20	GENE-N 866 885	type IV collagenase
+T5	CHEMICAL 930 946	[3H]estramustine
+T21	GENE-Y 1043 1049	MAP-1A
+T7	GENE-Y 1126 1132	MAP-1A
+T8	GENE-N 1174 1185	microtubule
+R0	CPR-2 Arg1:T2 Arg2:T9
+R1	CPR-4 Arg1:T2 Arg2:T11
+R2	NOT Arg1:T2 Arg2:T10

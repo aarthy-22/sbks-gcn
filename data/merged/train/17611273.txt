@@ -1,0 +1,11 @@
+Methylphenidate administration to juvenile rats alters brain areas involved in cognition, motivated behaviors, appetite, and stress.
+Thousands of children receive methylphenidate (MPH; Ritalin) for attention deficit/hyperactivity disorder (ADHD), yet the long-term neurochemical consequences of MPH treatment are unknown.
+To mimic clinical Ritalin treatment in children, male rats were injected with MPH (5 mg/kg) or vehicle twice daily from postnatal day 7 (PND7)-PND35.
+At the end of administration (PND35) or in adulthood (PND135), brain sections from littermate pairs were immunocytochemically labeled for neurotransmitters and cytological markers in 16 regions implicated in MPH effects and/or ADHD etiology.
+At PND35, the medial prefrontal cortex (mPFC) of rats given MPH showed 55% greater immunoreactivity (-ir) for the catecholamine marker tyrosine hydroxylase (TH), 60% more Nissl-stained cells, and 40% less norepinephrine transporter (NET)-ir density.
+In hippocampal dentate gyrus, MPH-receiving rats showed a 51% decrease in NET-ir density and a 61% expanded distribution of the new-cell marker PSA-NCAM (polysialylated form of neural cell adhesion molecule).
+In medial striatum, TH-ir decreased by 21%, and in hypothalamus neuropeptide Y-ir increased by 10% in MPH-exposed rats.
+At PND135, MPH-exposed rats exhibited decreased anxiety in the elevated plus-maze and a trend for decreased TH-ir in the mPFC.
+Neither PND35 nor PND135 rats showed major structural differences with MPH exposure.
+These findings suggest that developmental exposure to high therapeutic doses of MPH has short-term effects on select neurotransmitters in brain regions involved in motivated behaviors, cognition, appetite, and stress.
+Although the observed neuroanatomical changes largely resolve with time, chronic modulation of young brains with MPH may exert effects on brain neurochemistry that modify some behaviors even in adulthood.

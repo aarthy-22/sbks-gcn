@@ -1,0 +1,13 @@
+Fumarate reductase is essential for Helicobacter pylori colonization of the mouse stomach.
+Fumarate reductase (FRD) is the key enzyme in fumarate respiration induced by anaerobic growth of bacteria.
+In Helicobacter pylori, this enzyme appears to be constitutively expressed under microaerobic conditions and is not essential for its survival in vitro.
+In this study, the role of FRD in the colonization of H. pylori was investigated using a mouse model.
+The frdA gene coding for subunit A of FRD, and two control genes, copA and copP associated with the export of copper out of H. pylori, were inactivated by insertion of the chloramphenicol acetyltransferase cassette into these individual genes.
+The isogenic mutants of H. pylori strain AH244 were obtained by natural transformation.
+Seventy-five ICR mice (15 mice/group) were orogastrically dosed with either the wild type H. pylori strain AH244, its isogenic mutants, or Brucella broth (negative control).
+Five mice from each group were killed at 2, 4 and 8 weeks post-inoculation (WPI), respectively.
+H. pylori colonization was not detected in mouse gastric mucosa infected with the frdA mutant at any time point in the study by both quantitative culture and PCR.
+In contrast, the mice inoculated with either wild type AH244, copA or copPH.
+pylori mutants became readily infected.
+These data indicate that FRD plays a crucial role in H. pylori survival in the gastric mucosa of mice.
+Given that FRD, present in all H. pylori strains, is immunogenic in H. pylori -infected patients and H. pylori growth in vitro can be inhibited by three anthelmintics (morantel, oxantel and thiabendazole), this enzyme could potentially be used both as a novel drug target as well as in the development of vaccines for H. pylori prevention and eradication.

@@ -1,0 +1,20 @@
+T10	CHEMICAL 59 69	L-arginine
+T18	GENE-N 59 81	L-arginine transporter
+T19	GENE-Y 87 93	SLC7A1
+T9	CHEMICAL 208 220	nitric oxide
+T6	CHEMICAL 420 428	arginine
+T7	CHEMICAL 536 544	arginine
+T16	GENE-N 536 641	arginine transporter, solute carrier family 7 (cationic amino acid transporter, y+ system), member 1 gene
+T8	CHEMICAL 583 602	cationic amino acid
+T17	GENE-Y 643 649	SLC7A1
+T1	CHEMICAL 1159 1169	L-arginine
+T11	GENE-N 1159 1181	L-arginine transporter
+T12	GENE-Y 1182 1188	SLC7A1
+T13	GENE-Y 1194 1200	Slc7A1
+T2	CHEMICAL 1301 1314	acetylcholine
+T14	GENE-Y 1347 1353	Slc7A1
+T3	CHEMICAL 1455 1467	nitric oxide
+T15	GENE-Y 1604 1610	SLC7A1
+T4	CHEMICAL 1711 1721	L-arginine
+T5	CHEMICAL 1727 1739	nitric oxide
+R0	NOT Arg1:T13 Arg2:T2

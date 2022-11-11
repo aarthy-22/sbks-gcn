@@ -1,0 +1,6 @@
+Dendronized albumin core-shell transporters with high drug loading capacity.
+We describe the synthesis of a core-shell biohybrid consisting of a human serum albumin (HSA) core that serves as a reservoir for lipophilic molecules and a cationized shell region consisting of ethynyl-G2.0-PAMAM or ethynyl-G3.0-PAMAM dendrons.
+The binding capacity of lipophilic guests was quantified applying electron paramagnetic resonance (EPR) spectroscopy, and five to six out of seven pockets were still available compared with HSA.
+The attachment of ethynyl-G2.0-PAMAM dendrons to HSA yielded a nontoxic core-shell macromolecule that was clearly uptaken by A549 human epithelial cells due to the presence of the dendritic PAMAM shell.
+Significantly higher loading of doxorubicin was observed for dendronized G2-DHSA compared with the native protein due to the availability of binding pockets of the HSA core, and interaction with the dendritic shell.
+Dendronized G2-DHSA-doxorubicin displayed significant cytotoxicity resulting from high drug loading and high stability under different conditions, thus demonstrating its great potential as a transporter for drug molecules.

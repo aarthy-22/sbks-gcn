@@ -1,0 +1,11 @@
+Characterization of the head-twitch response induced by hallucinogens in mice : Detection of the behavior based on the dynamics of head movement.
+RATIONALE: The head-twitch response (HTR) is a rapid side-to-side rotational head movement that occurs in rats and mice after administration of serotonergic hallucinogens and other 5-HT(2A) agonists.
+The HTR is widely used as a behavioral assay for 5-HT(2A) activation and to probe for interactions between the 5-HT(2A) receptor and other transmitter systems.
+OBJECTIVE: High-speed video recordings were used to analyze the head movement that occurs during head twitches in C57BL/6J mice.
+Experiments were also conducted in C57BL/6J mice to determine whether a head-mounted magnet and a magnetometer coil could be used to detect the HTR induced by serotonergic hallucinations based on the dynamics of the response.
+RESULTS: Head movement during the HTR was highly rhythmic and occurred within a specific frequency range (mean head movement frequency of 90.3 Hz).
+Head twitches produced wave-like oscillations of magnetometer coil voltage that matched the frequency of head movement during the response.
+The magnetometer coil detected the HTR induced by the serotonergic hallucinogens 2,5-dimethoxy-4-iodoamphetamine (DOI; 0.25, 0.5, and 1.0 mg/kg, i.p.) and lysergic acid diethylamide (LSD; 0.05, 0.1, 0.2, and 0.4 mg/kg, i.p.) with extremely high sensitivity and specificity.
+Magnetometer coil recordings demonstrated that the non-hallucinogenic compounds (+)-amphetamine (2.5 and 5.0 mg/kg, i.p.) and lisuride (0.8, 1.6, and 3.2 mg/kg, i.p.) did not induce the HTR.
+CONCLUSIONS: These studies confirm that a magnetometer coil can be used to detect the HTR induced by hallucinogens.
+The use of magnetometer-based HTR detection provides a high-throughput, semi-automated assay for this behavior, and offers several advantages over traditional assessment methods.

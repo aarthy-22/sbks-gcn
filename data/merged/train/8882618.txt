@@ -1,0 +1,27 @@
+Interactions of 2,3-benzodiazepines and cyclothiazide at AMPA receptors: patch clamp recordings in cultured neurones and area CA1 in hippocampal slices.
+1.
+The 2,3-benzodiazepines GYKI 52466, GYKI 53405 and GYKI 53655 antagonized AMPA-induced currents in cultured superior colliculus neurones in a non use-dependent manner (steady state IC50s: GYKI 52466 9.8 +/- 0.6 microM; GYKI 53405 3.1 +/- 0.6 microM; GYKI 53655 0.8 +/- 0.1 microM).
+2.
+Higher concentrations of all three antagonists slowed the onset kinetics and quickened the offset kinetics of AMPA-induced currents indicative of an allosteric interaction with the AMPA recognition site.
+3.
+Cyclothiazide (3-300 microM) dramatically slowed desensitization of AMPA-induced currents and potentiated steady state currents (EC50 10.0 +/- 2.5 microM) to a much greater degree than peak currents.
+Both tau on and tau off were also increased by cyclothiazide in a concentration-dependent manner (EC50: tau on 42.1 +/- 4.5 microM; tau off 31.6 +/- 6.6 microM).
+4.
+Cyclothiazide (10-100 microM) shifted the concentration-response curves of the 2,3-benzodiazepines to the right.
+For example, with 10 microM cyclothiazide the IC50s of GYKI 52466 and GYKI 53405 on steady-state AMPA-induced currents were 57.9 +/- 9.5 and 41.6 +/- 1.5 microM, respectively.
+5.
+GYKI 53405 and GYKI 52466 concentration-dependently reversed the effects of cyclothiazide (100 microM) on offset kinetics (GYKI 53405 IC50 16.6 +/- 4.2 microM).
+However, the 2,3-benzodiazepines were unable to reintroduce desensitization in the presence of cyclothiazide and even concentration-dependently slowed the onset kinetics of AMPA responses further (GYKI 53405 EC50 8.0 +/- 2.8 microM).
+6.
+GYKI 52466 decreased the peak amplitude of hippocampal area CA1 AMPA receptor-mediated excitatory postsynaptic currents (e.p.s.cs) (IC50 10.8 +/- 0.8 microM) with no apparent effect on response kinetics.
+Cyclothiazide prolonged the decay time constant of AMPA receptor-mediated e.p.s.cs (EC50 35.7 +/- 6.5 microM) with less pronounced effects in slowing e.p.s.c.
+onset kinetics and increasing e.p.s.c.
+amplitude.
+7.
+Cyclothiazide (330 microM) shifted the concentration-response curve for the effects of GYKI 52466 on AMPA receptor-mediated e.p.s.c.
+peak amplitude to the right (GYKI 52466 IC50 26.9 +/- 9.4 microM).
+Likewise, GYKI 52466 (30-100 microM)) shifted the concentration-response curve for the effects of cyclothiazide on AMPA receptor-mediated e.p.s.c.
+decay time constants to the right.
+8.
+In conclusion, cyclothiazide and the 2,3-benzodiazepines seem to bind to different sites on AMPA receptors but exert strong allosteric interactions with one another and with other domains such as the agonist recognition site.
+The interactions of GYKI 52466 and cyclothiazide on AMPA receptor-mediated e.p.s.cs in area CA1 of hippocampal slices provide evidence that the decay time constant of these synaptic events are not governed by desensitization.

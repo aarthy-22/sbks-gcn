@@ -1,0 +1,1054 @@
+T1	OTHER_COMPOUND 248 256	pyrazole
+T2	REACTION_PRODUCT 278 288	conjugates
+T3	REACTION_PRODUCT 401 440	pyrazole linked benzimidazole conjugate
+T4	REACTION_PRODUCT 560 599	pyrazole linked benzimidazole conjugate
+T5	OTHER_COMPOUND 703 712	β-tubulin
+T6	OTHER_COMPOUND 894 905	Colchicines
+T7	OTHER_COMPOUND 912 926	combretastatin
+T8	OTHER_COMPOUND 932 942	nocodazole
+T9	OTHER_COMPOUND 944 946	S3
+T10	OTHER_COMPOUND 952 968	podophyllotoxins
+T11	OTHER_COMPOUND 970 972	S4
+T12	OTHER_COMPOUND 1085 1092	tubulin
+T13	REACTION_PRODUCT 1094 1107	Benzimidazole
+T14	OTHER_COMPOUND 1231 1234	B12
+T15	REACTION_PRODUCT 1381 1402	2-aryl benzimidazoles
+T16	OTHER_COMPOUND 1435 1439	EGFR
+T17	OTHER_COMPOUND 1441 1448	VEGFR-2
+T18	OTHER_COMPOUND 1453 1458	PDGFR
+T19	OTHER_COMPOUND 1591 1604	benzimidazole
+T20	OTHER_COMPOUND 1758 1782	terphenyl benzimidazoles
+T21	OTHER_COMPOUND 1795 1802	tubulin
+T22	OTHER_COMPOUND 1965 1989	terphenyl benzimidazoles
+T23	OTHER_COMPOUND 2082 2090	pyrazole
+T24	OTHER_COMPOUND 2241 2250	pyrazoles
+T25	REACTION_PRODUCT 2521 2552	9-aza-anthrapyrazole derivative
+T26	REACTION_PRODUCT 2644 2688	tri and tetra substituted pyrazole derivates
+T27	OTHER_COMPOUND 2764 2779	p38α MAP kinase
+T28	OTHER_COMPOUND 2781 2784	Abu
+T29	REACTION_PRODUCT 2907 2941	Tri- and tetrasubstituted pyrazole
+T30	OTHER_COMPOUND 3099 3106	methoxy
+T31	OTHER_COMPOUND 3123 3137	combretastatin
+T32	OTHER_COMPOUND 3163 3170	tubulin
+T33	OTHER_COMPOUND 3210 3220	colchicine
+T34	OTHER_COMPOUND 3341 3348	tubulin
+T35	REACTION_PRODUCT 3450 3481	4,5-dihydropyrazole derivatives
+T36	OTHER_COMPOUND 3622 3632	anticancer
+T37	REACTION_PRODUCT 3899 3907	pyrazole
+T38	REACTION_PRODUCT 3912 3925	benzimidazole
+T39	OTHER_COMPOUND 4359 4361	Cl
+T40	OTHER_COMPOUND 4366 4369	CH3
+T41	OTHER_COMPOUND 4371 4375	OCH3
+T42	OTHER_COMPOUND 4380 4390	3,4(OCH2O)
+T43	OTHER_COMPOUND 4483 4485	Cl
+T44	OTHER_COMPOUND 4490 4493	CH3
+T45	OTHER_COMPOUND 4495 4499	OCH3
+T46	OTHER_COMPOUND 4504 4514	3,4(OCH2O)
+T47	OTHER_COMPOUND 4607 4609	Cl
+T48	OTHER_COMPOUND 4614 4617	CH3
+T49	OTHER_COMPOUND 4731 4733	Cl
+T50	OTHER_COMPOUND 4743 4747	OCH3
+T51	OTHER_COMPOUND 4752 4762	3,4(OCH2O)
+T52	OTHER_COMPOUND 4979 4981	Br
+T53	OTHER_COMPOUND 4983 4985	Cl
+T54	OTHER_COMPOUND 4987 4988	F
+T55	OTHER_COMPOUND 5001 5004	NO2
+T56	OTHER_COMPOUND 5009 5012	CF3
+T57	OTHER_COMPOUND 5105 5107	Br
+T58	OTHER_COMPOUND 5116 5119	CH3
+T59	OTHER_COMPOUND 5125 5128	CF3
+T60	REACTION_PRODUCT 5191 5199	pyrazole
+T61	OTHER_COMPOUND 5306 5308	R2
+T62	OTHER_COMPOUND 5334 5356	pyrazole-benzimidazole
+T63	OTHER_COMPOUND 5412 5415	CH3
+T64	OTHER_COMPOUND 5426 5436	3,4(OCH2O)
+T65	REACTION_PRODUCT 5505 5513	pyrazole
+T66	OTHER_COMPOUND 5579 5581	Cl
+T67	OTHER_COMPOUND 5597 5600	NO2
+T68	OTHER_COMPOUND 5605 5608	CF3
+T69	OTHER_COMPOUND 5677 5686	pyrazole-
+T70	OTHER_COMPOUND 5747 5749	Br
+T71	OTHER_COMPOUND 5751 5753	Cl
+T72	OTHER_COMPOUND 5755 5756	F
+T73	OTHER_COMPOUND 5758 5761	CH3
+T74	OTHER_COMPOUND 5767 5770	CF3
+T75	REACTION_PRODUCT 5831 5839	pyrazole
+T76	REACTION_PRODUCT 5926 5948	pyrazole-benzimidazole
+T77	OTHER_COMPOUND 6171 6179	pyrazole
+T78	OTHER_COMPOUND 6270 6276	6a-14a
+T79	OTHER_COMPOUND 6287 6293	6b-14b
+T80	OTHER_COMPOUND 6295 6310	formulae 6c-14c
+T81	OTHER_COMPOUND 6321 6327	6d-14d
+T82	OTHER_COMPOUND 6329 6344	formulae 6e-14e
+T83	OTHER_COMPOUND 6346 6361	formulae 6f-14f
+T84	OTHER_COMPOUND 6372 6378	6g-14g
+T85	OTHER_COMPOUND 6389 6395	6h-14h
+T86	OTHER_COMPOUND 6440 6447	6k-14k,
+T87	OTHER_COMPOUND 6457 6463	6l-14l
+T88	OTHER_COMPOUND 6495 6501	6n-14n
+T89	OTHER_COMPOUND 6568 6570	X1
+T90	OTHER_COMPOUND 6601 6603	Br
+T91	OTHER_COMPOUND 6605 6607	Cl
+T92	OTHER_COMPOUND 6751 6766	pyrazole linked
+T93	OTHER_COMPOUND 6803 6804	A
+T94	OTHER_COMPOUND 6850 6856	6a-14a
+T95	OTHER_COMPOUND 6874 6880	6d-14d
+T96	OTHER_COMPOUND 6882 6888	6e-14e
+T97	OTHER_COMPOUND 6890 6897	6f-14f,
+T98	OTHER_COMPOUND 6906 6920	6h-14h, 6i-14i
+T99	OTHER_COMPOUND 6922 6928	6j-14j
+T100	OTHER_COMPOUND 6930 6936	6k-14k
+T101	OTHER_COMPOUND 6938 6944	6l-14l
+T102	OTHER_COMPOUND 6952 6953	,
+T103	OTHER_COMPOUND 7072 7080	pyrazole
+T104	OTHER_COMPOUND 7088 7112	benzimidazole conjugates
+T105	REACTION_PRODUCT 7195 8200	2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6a);2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6c);2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6e);2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6g);2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6i);2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6k);2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6l);2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6m);2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (6n);5-fluoro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T106	REACTION_PRODUCT 8201 8678	(7a);5-fluoro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (7b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (7c);2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (7d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (7e);5-fluoro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (7f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T107	REACTION_PRODUCT 8679 9273	(7g);5-fluoro-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (7h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (7i);2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (7j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (7k);5-fluoro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (7l);5-fluoro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (7m);2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (7n);5-chloro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T108	REACTION_PRODUCT 9274 10831	(8a);5-chloro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8b);5-chloro-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8c);5-chloro-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8d);5-chloro-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8e);5-chloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-chloro-1H-benzo[d]imidazole (8g);5-chloro-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8h);5-chloro-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8i);5-chloro-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8j);5-chloro-2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8k);5-chloro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8l);5-chloro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8m);5-chloro-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (8n);5-methoxy-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (9a);5-methoxy-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (9b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole (9c);2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole (9d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole (9e);5-methoxy-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (9f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T109	REACTION_PRODUCT 10832 12856	(9g);2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole (9h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole (9i);2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole (9j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole (9k);2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole (9l);5-methoxy-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (9m);2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole (9n);5,6-dichloro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10a);5,6-dichloro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10b);5,6-dichloro-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10c);5,6-dichloro-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10d);5,6-dichloro-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10e);5,6-dichloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5,6-dichloro-1H-benzo[d]imidazole (10g);5,6-dichloro-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10h);5,6-dichloro-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10i);5,6-dichloro-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10j);5,6-dichloro-2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10k);5,6-dichloro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10l);5,6-dichloro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10m);5,6-dichloro-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10n);2-(3-phenyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11a);2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11c);2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T110	REACTION_PRODUCT 12857 13041	(11d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11e);5-(trifluoromethyl)-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T111	REACTION_PRODUCT 13042 13489	(11f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11g);2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11f);2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T112	REACTION_PRODUCT 13490 13891	(11k);2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11l);2-(3-p-tolyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11m);2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (11n);5-nitro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (12a);2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T113	REACTION_PRODUCT 13892 15343	(12b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12c);2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12e);5-nitro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (12f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12g);2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12i);2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12k);2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12l);5-nitro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (12m);2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole (12n);5-chloro-6-fluoro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (13a);5-chloro-6-fluoro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (13b);5-chloro-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole (13c);5-chloro-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole (13d);5-chloro-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole (13e);5-chloro-6-fluoro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T114	REACTION_PRODUCT 15344 17294	(13 f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-chloro-6-fluoro-1H-benzo[d]imidazole (13g);5-chloro-6-fluoro-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (13h);5-chloro-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole (13i);5-chloro-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole (13j);6-chloro-2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (13k);6-chloro-5-fluoro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (13l);6-chloro-5-fluoro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (13m);6-chloro-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (13n);6-bromo-2-(3-phenyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14a);6-bromo-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14b);6-bromo-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14c);6-bromo-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14d);6-bromo-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14e);6-bromo-5-(trifluoromethyl)-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (14f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-6-bromo-5-(trifluoromethyl)-1H-benzo[d]imidazole (14g);6-bromo-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14h);6-bromo-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14i);6-bromo-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14j);6-bromo-2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14k);6-bromo-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14l);6-bromo-2-(3-p-tolyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T115	REACTION_PRODUCT 17398 17401	14n
+T116	REACTION_PRODUCT 17553 17585	pyrazole-benzimidazole conjugate
+T117	OTHER_COMPOUND 17589 17596	Formula
+T118	REACTION_PRODUCT 17690 17722	pyrazole-benzimidazole conjugate
+T119	OTHER_COMPOUND 17734 17735	A
+T120	REACTION_PRODUCT 18059 18067	pyrazole
+T121	REACTION_PRODUCT 18165 18198	3-aryl-1H-pyrazole-5-carbaldehyde
+T122	OTHER_COMPOUND 18211 18215	5a-n
+T123	OTHER_COMPOUND 18261 18265	OCH3
+T124	OTHER_COMPOUND 18397 18402	water
+T125	OTHER_COMPOUND 18429 18436	ethanol
+T126	OTHER_COMPOUND 18440 18448	methanol
+T127	OTHER_COMPOUND 18492 18499	Na2S2O5
+T128	TEMPERATURE 18533 18548	85° C. to 90° C
+T129	TIME 18590 18597	3 hours
+T130	TIME 18607 18614	4 hours
+T131	OTHER_COMPOUND 18680 18685	water
+T132	OTHER_COMPOUND 18738 18747	water;(d)
+T133	OTHER_COMPOUND 18797 18807	Na2SO4;(e)
+T134	OTHER_COMPOUND 19082 19095	ethyl acetate
+T135	OTHER_COMPOUND 19097 19107	chloroform
+T136	OTHER_COMPOUND 19109 19124	dichloromethane
+T137	OTHER_COMPOUND 19627 19635	pyrazole
+T138	OTHER_COMPOUND 19636 19649	benzimidazole
+T139	OTHER_COMPOUND 19782 19784	R2
+T140	OTHER_COMPOUND 19903 19905	Cl
+T141	OTHER_COMPOUND 19990 19992	Cl
+T142	OTHER_COMPOUND 20077 20079	Cl
+T143	OTHER_COMPOUND 20084 20087	CH3
+T144	OTHER_COMPOUND 20130 20132	X1
+T145	OTHER_COMPOUND 20257 20259	Br
+T146	OTHER_COMPOUND 20261 20263	Cl
+T147	REACTION_PRODUCT 20299 20321	pyrazole-benzimidazole
+T148	OTHER_COMPOUND 20454 20458	OCH3
+T149	OTHER_COMPOUND 20463 20473	3,4(OCH2O)
+T150	REACTION_PRODUCT 20503 20511	pyrazole
+T151	REACTION_PRODUCT 20512 20525	benzimidazole
+T152	OTHER_COMPOUND 20558 20560	Cl
+T153	REACTION_PRODUCT 20615 20623	pyrazole
+T154	OTHER_COMPOUND 20666 20668	Br
+T155	OTHER_COMPOUND 20686 20689	CF3
+T156	REACTION_PRODUCT 20756 20775	o-phenylenediamines
+T157	OTHER_COMPOUND 20822 20858	3-phenyl-1H-pyrazole-5-carbaldehydes
+T158	OTHER_COMPOUND 20883 20904	sodium metabisulphite
+T159	OTHER_COMPOUND 20908 20915	ethanol
+T160	OTHER_COMPOUND 20916 20924	methanol
+T161	TEMPERATURE 20966 20971	85° C
+T162	TIME 20983 20990	3 hours
+T163	TIME 21000 21007	4 hours
+T164	OTHER_COMPOUND 21093 21095	Cl
+T165	OTHER_COMPOUND 21105 21109	OCH3
+T166	OTHER_COMPOUND 21114 21124	3,4(OCH2O)
+T167	OTHER_COMPOUND 21260 21265	NaOEt
+T168	OTHER_COMPOUND 21267 21271	EtOH
+T169	TIME 21282 21284	4h
+T170	TEMPERATURE 21311 21319	0° C. to
+T171	TEMPERATURE 21326 21331	21° C
+T172	OTHER_COMPOUND 21347 21359	NH2-NH2.2HCl
+T173	OTHER_COMPOUND 21361 21365	EtOH
+T174	TIME 21375 21378	3 h
+T175	TEMPERATURE 21380 21386	reflux
+T176	REAGENT_CATALYST 21403 21409	LiAlH4
+T177	SOLVENT 21411 21414	THF
+T178	TIME 21426 21430	1 to
+T179	TIME 21437 21444	2 hours
+T180	TEMPERATURE 21471 21491	0° C. to about 21° C
+T181	OTHER_COMPOUND 21508 21511	IBX
+T182	OTHER_COMPOUND 21517 21521	DMSO
+T183	TIME 21532 21538	1 hour
+T184	TEMPERATURE 21548 21562	room temperate
+T185	OTHER_COMPOUND 21581 21588	Na2S2O5
+T186	OTHER_COMPOUND 21590 21594	EtOH
+T187	OTHER_COMPOUND 21596 21615	o-phenylenediamines
+T188	TIME 21626 21633	3 hours
+T189	TIME 21643 21650	4 hours
+T190	TEMPERATURE 21662 21678	room temperature
+T191	TEMPERATURE 21680 21686	70-80%
+T192	REACTION_PRODUCT 21711 21759	3-substituted phenyl-1H-pyrazole-5-carbaldehydes
+T193	OTHER_COMPOUND 21767 21775	formulae
+T194	STARTING_MATERIAL 21873 21879	1(a-n)
+T195	STARTING_MATERIAL 21893 21908	diethyl oxalate
+T196	OTHER_COMPOUND 21928 21945	sodium ethanolate
+T197	OTHER_COMPOUND 21949 21956	ethanol
+T198	REACTION_PRODUCT 21965 22013	ethyl 2,4-dioxo-4-(substituted phenyl)butanoates
+T199	OTHER_COMPOUND 22053 22065	NH2-NH2.2HCl
+T200	OTHER_COMPOUND 22069 22076	ethanol
+T201	REACTION_PRODUCT 22088 22141	ethyl 3-substituted phenyl-1H-pyrazole-5-carboxylates
+T202	REACTION_PRODUCT 22142 22148	3(a-n)
+T203	REACTION_PRODUCT 22178 22190	carboxylates
+T204	REACTION_PRODUCT 22207 22244	(3-substituted phenyl-1H-pyrazol-5-yl
+T205	OTHER_COMPOUND 22266 22272	LiAlH4
+T206	OTHER_COMPOUND 22273 22276	THF
+T207	REACTION_PRODUCT 22313 22326	3-substituted
+T208	REAGENT_CATALYST 22365 22368	IBX
+T209	OTHER_COMPOUND 22372 22376	DMSO
+T210	STARTING_MATERIAL 22383 22431	3-substituted phenyl-1H-pyrazole-5-carbaldehydes
+T211	STARTING_MATERIAL 22433 22437	5a-n
+T212	STARTING_MATERIAL 22476 22495	o-phenylenediamines
+T213	STARTING_MATERIAL 22506 22510	1-10
+T214	SOLVENT 22526 22533	ethanol
+T215	REAGENT_CATALYST 22565 22572	Na2S2O5
+T216	TEMPERATURE 22653 22658	85° C
+T217	TIME 22664 22669	3-4 h
+T218	TEMPERATURE 22780 22796	room temperature
+T219	OTHER_COMPOUND 22818 22823	water
+T220	OTHER_COMPOUND 22861 22874	ethyl acetate
+T221	OTHER_COMPOUND 22922 22927	water
+T222	OTHER_COMPOUND 22929 22934	brine
+T223	OTHER_COMPOUND 22969 22975	Na2SO4
+T224	OTHER_COMPOUND 23100 23113	ethyl acetate
+T225	OTHER_COMPOUND 23114 23120	hexane
+T226	REACTION_PRODUCT 23156 23165	pyrazole-
+T227	OTHER_COMPOUND 23268 23330	2-(3-phenyl-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T228	REACTION_PRODUCT 23341 23347	6a-14a
+T229	REACTION_PRODUCT 23350 23423	2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T230	OTHER_COMPOUND 23434 23440	6b-14b
+T231	REACTION_PRODUCT 23443 23520	2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T232	REACTION_PRODUCT 23531 23537	6c-14c
+T233	REACTION_PRODUCT 23540 23617	2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T234	OTHER_COMPOUND 23619 23627	formulae
+T235	OTHER_COMPOUND 23628 23634	6d-14d
+T236	REACTION_PRODUCT 23637 23714	2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T237	REACTION_PRODUCT 23725 23731	6e-14e
+T238	REACTION_PRODUCT 23732 23814	: 2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T239	REACTION_PRODUCT 23816 23831	formulae 6f-14f
+T240	REACTION_PRODUCT 23834 23916	2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T241	REACTION_PRODUCT 23927 23933	6g-14g
+T242	REACTION_PRODUCT 23936 24008	2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T243	REACTION_PRODUCT 24019 24025	6h-14h
+T244	REACTION_PRODUCT 24026 24104	: 2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T245	REACTION_PRODUCT 24115 24121	6i-14i
+T246	REACTION_PRODUCT 24124 24196	2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T247	OTHER_COMPOUND 24198 24206	formulae
+T248	REACTION_PRODUCT 24207 24213	6j-14j
+T249	REACTION_PRODUCT 24216 24292	2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T250	REACTION_PRODUCT 24303 24309	6k-14k
+T251	REACTION_PRODUCT 24312 24394	2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T252	REACTION_PRODUCT 24405 24411	6l-14l
+T253	REACTION_PRODUCT 24414 24477	2-(3-p-tolyl-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T254	REACTION_PRODUCT 24488 24494	6m-14m
+T255	REACTION_PRODUCT 24497 24573	2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-substituted-1H-benzo[d]imidazoles
+T256	OTHER_COMPOUND 24584 24590	6n-14n
+T257	OTHER_COMPOUND 24694 24697	CF3
+T258	OTHER_COMPOUND 24766 24768	Br
+T259	OTHER_COMPOUND 24770 24772	Cl
+T260	OTHER_COMPOUND 24777 24780	CH3
+T261	OTHER_COMPOUND 24786 24789	CF3
+T262	OTHER_COMPOUND 24815 24844	pyrazole linked benzimidazole
+T263	REACTION_PRODUCT 24938 24987	2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T264	OTHER_COMPOUND 25003 25068	(6a);2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T265	REACTION_PRODUCT 25084 25153	(6b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T266	REACTION_PRODUCT 25254 25323	(6d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T267	REACTION_PRODUCT 25339 25411	(6e);2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T268	OTHER_COMPOUND 25419 25426	formula
+T269	REACTION_PRODUCT 25427 25501	(6f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T270	REACTION_PRODUCT 25509 25581	formula (6g);2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T271	REACTION_PRODUCT 25597 25672	(6h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole having
+T272	REACTION_PRODUCT 25681 25745	(6i);2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T273	REACTION_PRODUCT 25753 25829	formula (6j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T274	REACTION_PRODUCT 25845 25919	(6k);2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T275	OTHER_COMPOUND 26006 26074	(6m);2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T276	REACTION_PRODUCT 26090 26153	(6n);5-fluoro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T277	REACTION_PRODUCT 26161 26243	formula (7a);5-fluoro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T278	OTHER_COMPOUND 26259 26337	(7b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T279	OTHER_COMPOUND 26353 26431	(7c);2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T280	REACTION_PRODUCT 26439 26525	formula (7d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T281	REACTION_PRODUCT 26541 26622	(7e);5-fluoro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T282	REACTION_PRODUCT 26826 26903	(7h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T283	REACTION_PRODUCT 26919 26992	(7i);2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T284	REACTION_PRODUCT 27000 27085	formula (7j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T285	REACTION_PRODUCT 27101 27184	(7k);5-fluoro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T286	OTHER_COMPOUND 27365 27436	formula (7n);5-chloro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T287	REACTION_PRODUCT 27452 27526	(8a);5-chloro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T288	REACTION_PRODUCT 27534 27620	formula (8b);5-chloro-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T289	REACTION_PRODUCT 27636 27808	(8c);5-chloro-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole having formula (8d);5-chloro-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T290	REACTION_PRODUCT 27824 27905	(8e);5-chloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T291	REACTION_PRODUCT 27921 28004	(8f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-chloro-1H-benzo[d]imidazole
+T292	REACTION_PRODUCT 28020 28093	(8g);5-chloro-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T293	OTHER_COMPOUND 28109 28186	(8h);5-chloro-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T294	OTHER_COMPOUND 28194 28201	formula
+T295	OTHER_COMPOUND 28202 28275	(8i);5-chloro-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T296	REACTION_PRODUCT 28291 28368	(8j);5-chloro-2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T297	REACTION_PRODUCT 28384 28474	(8k);5-chloro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole having
+T298	REACTION_PRODUCT 28483 28547	(8l);5-chloro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T299	REACTION_PRODUCT 28563 28640	(8m);5-chloro-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T300	REACTION_PRODUCT 28656 28720	(8n);5-methoxy-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T301	REACTION_PRODUCT 28736 28811	(9a);5-methoxy-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T302	REACTION_PRODUCT 28827 28906	(9b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T303	REACTION_PRODUCT 29017 29103	(9d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole having
+T304	REACTION_PRODUCT 29104 29194	formula (9e);5-methoxy-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T305	REACTION_PRODUCT 29210 29294	(9f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T306	OTHER_COMPOUND 29310 29384	(9g);2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T307	OTHER_COMPOUND 29400 29478	(9h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T308	OTHER_COMPOUND 29584 29662	(9j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T309	OTHER_COMPOUND 29678 29762	(9k);2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T310	OTHER_COMPOUND 29770 29843	formula (9l);5-methoxy-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T311	OTHER_COMPOUND 29859 29937	(9m);2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T312	OTHER_COMPOUND 29945 30020	formula (9n);5,6-dichloro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T313	OTHER_COMPOUND 30036 30115	(10a);5,6-dichloro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T314	OTHER_COMPOUND 30131 30214	(10b);5,6-dichloro-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T315	REACTION_PRODUCT 30230 30313	(10c);5,6-dichloro-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T316	REACTION_PRODUCT 30329 30412	(10d);5,6-dichloro-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T317	REACTION_PRODUCT 30428 30514	(10e);5,6-dichloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T318	OTHER_COMPOUND 30530 30618	(10f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5,6-dichloro-1H-benzo[d]imidazole
+T319	REACTION_PRODUCT 30626 30712	formula (10g);5,6-dichloro-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T320	REACTION_PRODUCT 30720 30727	formula
+T321	REACTION_PRODUCT 30728 30810	(10h);5,6-dichloro-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T322	REACTION_PRODUCT 30826 30904	(10i);5,6-dichloro-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T323	REACTION_PRODUCT 30920 31002	(10j);5,6-dichloro-2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T324	REACTION_PRODUCT 31018 31106	(10k);5,6-dichloro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T325	REACTION_PRODUCT 31122 31191	(10l);5,6-dichloro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T326	REACTION_PRODUCT 31207 31289	(10m);5,6-dichloro-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T327	REACTION_PRODUCT 31305 31380	(10n);2-(3-phenyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T328	OTHER_COMPOUND 31396 31482	(11a);2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T329	REACTION_PRODUCT 31490 31595	formula (11b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole having
+T330	REACTION_PRODUCT 31596 31694	formula (11c);2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T331	REACTION_PRODUCT 31702 31800	formula (11d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T332	REACTION_PRODUCT 31925 32027	(11f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole having
+T333	REACTION_PRODUCT 32028 32035	formula
+T334	REACTION_PRODUCT 32036 32121	(11g);2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T335	REACTION_PRODUCT 32137 32226	(11h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T336	REACTION_PRODUCT 32242 32327	(11i);2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T337	REACTION_PRODUCT 32343 32439	(11j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole having
+T338	REACTION_PRODUCT 32448 32543	(11k);2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T339	OTHER_COMPOUND 32559 32635	(11l);2-(3-p-tolyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T340	REACTION_PRODUCT 32651 32747	(11m);2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole having
+T341	REACTION_PRODUCT 32756 32819	(11n);5-nitro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T342	REACTION_PRODUCT 32827 32834	formula
+T343	REACTION_PRODUCT 32835 32909	(12a);2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T344	REACTION_PRODUCT 32917 33003	formula (12b);2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T345	REACTION_PRODUCT 33019 33097	(12c);2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T346	OTHER_COMPOUND 33113 33191	(12d);2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T347	OTHER_COMPOUND 33199 33206	formula
+T348	REACTION_PRODUCT 33207 33288	(12e);5-nitro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T349	REACTION_PRODUCT 33395 33476	formula (12g);2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T350	REACTION_PRODUCT 33484 33569	formula (12h);2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T351	OTHER_COMPOUND 33577 33584	formula
+T352	REACTION_PRODUCT 33674 33751	(12j);2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T353	REACTION_PRODUCT 33767 33850	(12k);2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T354	REACTION_PRODUCT 33858 33930	formula (12l);5-nitro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T355	REACTION_PRODUCT 33946 34023	(12m);2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T356	REACTION_PRODUCT 34031 34112	formula (12n);5-chloro-6-fluoro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T357	REACTION_PRODUCT 34128 34212	(13a);5-chloro-6-fluoro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T358	REACTION_PRODUCT 34228 34316	(13b);5-chloro-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole
+T359	REACTION_PRODUCT 34428 34524	formula (13d);5-chloro-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole
+T360	REACTION_PRODUCT 34532 34631	formula (13e);5-chloro-6-fluoro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T361	REACTION_PRODUCT 34647 34740	(13f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-chloro-6-fluoro-1H-benzo[d]imidazole
+T362	OTHER_COMPOUND 34847 34942	formula (13h);5-chloro-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole
+T363	REACTION_PRODUCT 34958 35041	(13i);5-chloro-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole
+T364	REACTION_PRODUCT 35049 35144	formula (13j);6-chloro-2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T365	REACTION_PRODUCT 35160 35253	(13k);6-chloro-5-fluoro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T366	OTHER_COMPOUND 35359 35446	(13m);6-chloro-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T367	OTHER_COMPOUND 35462 35545	(13n);6-bromo-2-(3-phenyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T368	REACTION_PRODUCT 35785 35883	(14c);6-bromo-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T369	REACTION_PRODUCT 35899 35997	(14d);6-bromo-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T370	REACTION_PRODUCT 36013 36114	(14e);6-bromo-5-(trifluoromethyl)-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T371	REACTION_PRODUCT 36130 36233	(14f);2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-6-bromo-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T372	REACTION_PRODUCT 36249 36342	(14g);6-bromo-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T373	REACTION_PRODUCT 36358 36455	(14h);6-bromo-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T374	REACTION_PRODUCT 36471 36564	(14i);6-bromo-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T375	OTHER_COMPOUND 36913 36916	14m
+T376	OTHER_COMPOUND 36919 37013	and6-bromo-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T377	OTHER_COMPOUND 37030 37033	14n
+T378	OTHER_COMPOUND 37149 37159	anticancer
+T379	OTHER_COMPOUND 37268 37304	3-phenyl-1H-pyrazole-5-carbaldehydes
+T380	OTHER_COMPOUND 37317 37323	5(a-n)
+T381	REACTION_PRODUCT 37328 37369	ethyl 3-phenyl-1H-pyrazole-5-carboxylates
+T382	REACTION_PRODUCT 37370 37376	4(a-n)
+T383	OTHER_COMPOUND 37550 37597	heteroaromatic linked 4β-amido podophyllotoxins
+T384	REACTION_PRODUCT 37792 37800	pyrazole
+T385	OTHER_COMPOUND 37858 37890	nonspecific alkaline phosphatase
+T386	OTHER_COMPOUND 37892 37896	TNAP
+T387	REACTION_PRODUCT 37947 37969	pyrazole-benzimidazole
+T388	OTHER_COMPOUND 38111 38121	biological
+T389	OTHER_COMPOUND 38260 38279	o-phenylenediamines
+T390	OTHER_COMPOUND 38316 38317	9
+T391	OTHER_COMPOUND 38326 38362	3-phenyl-1H-pyrazole-5-carbaldehydes
+T392	OTHER_COMPOUND 38475 38481	6a-14a
+T393	OTHER_COMPOUND 38485 38491	6n-14n
+T394	TEMPERATURE 38548 38554	85° C.
+T395	TIME 38559 38564	3-4 h
+T396	OTHER_COMPOUND 38590 38596	6a-14a
+T397	OTHER_COMPOUND 38600 38609	6n-14n);2
+T398	REACTION_PRODUCT 38624 38653	pyrazole linked benzimidazole
+T399	OTHER_COMPOUND 38740 38753	ethyl acetate
+T400	OTHER_COMPOUND 38755 38761	hexane
+T401	STARTING_MATERIAL 38927 38987	2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T402	STARTING_MATERIAL 38989 38991	6b
+T403	STARTING_MATERIAL 38993 39039	3-(4-methoxyphenyl)-1H-pyrazole-5-carbaldehyde
+T404	STARTING_MATERIAL 39041 39043	5b
+T405	SOLVENT 39067 39074	ethanol
+T406	STARTING_MATERIAL 39093 39111	o-phenylenediamine
+T407	STARTING_MATERIAL 39113 39114	1
+T408	REAGENT_CATALYST 39159 39166	Na2S2O5
+T409	TEMPERATURE 39228 39234	85° C.
+T410	TIME 39239 39242	3 h
+T411	TEMPERATURE 39332 39348	room temperature
+T412	TEMPERATURE 39350 39355	28° C
+T413	OTHER_COMPOUND 39377 39390	ethyl acetate
+T414	OTHER_COMPOUND 39447 39452	water
+T415	OTHER_COMPOUND 39454 39459	brine
+T416	OTHER_COMPOUND 39494 39500	Na2SO4
+T417	OTHER_COMPOUND 39625 39638	ethyl acetate
+T418	OTHER_COMPOUND 39639 39645	hexane
+T419	REACTION_PRODUCT 39677 39737	2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T420	REACTION_PRODUCT 39739 39741	6b
+T421	YIELD_OTHER 39744 39750	266 mg
+T422	YIELD_PERCENT 39752 39755	78%
+T423	OTHER_COMPOUND 39772 39777	CDCl3
+T424	OTHER_COMPOUND 39778 39782	DMSO
+T425	OTHER_COMPOUND 39818 39821	ArH
+T426	OTHER_COMPOUND 39852 39855	ArH
+T427	OTHER_COMPOUND 39889 39892	ArH
+T428	EXAMPLE_LABEL 39955 39956	2
+T429	STARTING_MATERIAL 39957 40021	2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T430	STARTING_MATERIAL 40023 40025	6c
+T431	STARTING_MATERIAL 40027 40077	3-(3,4-dimethoxyphenyl)-1H-pyrazole-5-carbaldehyde
+T432	STARTING_MATERIAL 40079 40081	5c
+T433	SOLVENT 40105 40112	ethanol
+T434	STARTING_MATERIAL 40131 40149	o-phenylenediamine
+T435	STARTING_MATERIAL 40151 40152	1
+T436	REAGENT_CATALYST 40197 40204	Na2S2O5
+T437	TEMPERATURE 40266 40272	85° C.
+T438	TIME 40277 40280	3 h
+T439	TEMPERATURE 40370 40386	room temperature
+T440	TEMPERATURE 40388 40393	30° C
+T441	OTHER_COMPOUND 40415 40428	ethyl acetate
+T442	OTHER_COMPOUND 40485 40490	water
+T443	OTHER_COMPOUND 40492 40497	brine
+T444	OTHER_COMPOUND 40532 40538	Na2SO4
+T445	OTHER_COMPOUND 40663 40676	ethyl acetate
+T446	OTHER_COMPOUND 40677 40683	hexane
+T447	REACTION_PRODUCT 40698 40711	pure compound
+T448	REACTION_PRODUCT 40715 40779	2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T449	REACTION_PRODUCT 40781 40783	6c
+T450	YIELD_OTHER 40786 40792	255 mg
+T451	YIELD_PERCENT 40794 40799	79.5%
+T452	OTHER_COMPOUND 40816 40821	CDCl3
+T453	OTHER_COMPOUND 40822 40826	DMSO
+T454	OTHER_COMPOUND 40842 40846	OCH3
+T455	OTHER_COMPOUND 40915 40918	ArH
+T456	STARTING_MATERIAL 40994 41061	2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T457	STARTING_MATERIAL 41063 41065	6f
+T458	STARTING_MATERIAL 41067 41120	3-(3,4,5-trimethoxyphenyl)-1H-pyrazole-5-carbaldehyde
+T459	STARTING_MATERIAL 41122 41124	5f
+T460	SOLVENT 41148 41155	ethanol
+T461	STARTING_MATERIAL 41174 41192	o-phenylenediamine
+T462	STARTING_MATERIAL 41194 41195	1
+T463	REAGENT_CATALYST 41240 41247	Na2S2O5
+T464	TEMPERATURE 41309 41315	85° C.
+T465	TIME 41320 41323	4 h
+T466	TEMPERATURE 41413 41429	room temperature
+T467	TEMPERATURE 41431 41436	30° C
+T468	OTHER_COMPOUND 41458 41471	ethyl acetate
+T469	OTHER_COMPOUND 41528 41533	water
+T470	OTHER_COMPOUND 41535 41540	brine
+T471	OTHER_COMPOUND 41575 41581	Na2SO4
+T472	OTHER_COMPOUND 41706 41719	ethyl acetate
+T473	OTHER_COMPOUND 41720 41726	hexane
+T474	REACTION_PRODUCT 41746 41754	compound
+T475	REACTION_PRODUCT 41758 41825	2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T476	REACTION_PRODUCT 41827 41829	60
+T477	YIELD_OTHER 41831 41837	259 mg
+T478	YIELD_PERCENT 41839 41842	54%
+T479	OTHER_COMPOUND 41859 41864	CDCl3
+T480	OTHER_COMPOUND 41865 41869	DMSO
+T481	STARTING_MATERIAL 42003 42072	2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T482	STARTING_MATERIAL 42074 42076	6g
+T483	STARTING_MATERIAL 42078 42133	3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazole-5-carbaldehyde
+T484	STARTING_MATERIAL 42135 42137	5g
+T485	SOLVENT 42161 42168	ethanol
+T486	STARTING_MATERIAL 42187 42205	o-phenylenediamine
+T487	STARTING_MATERIAL 42207 42208	1
+T488	REAGENT_CATALYST 42253 42260	Na2S2O5
+T489	TEMPERATURE 42322 42327	85° C
+T490	TIME 42333 42336	3 h
+T491	TEMPERATURE 42426 42442	room temperature
+T492	TEMPERATURE 42444 42449	30° C
+T493	OTHER_COMPOUND 42471 42484	ethyl acetate
+T494	OTHER_COMPOUND 42541 42546	water
+T495	OTHER_COMPOUND 42548 42553	brine
+T496	OTHER_COMPOUND 42588 42594	Na2SO4
+T497	OTHER_COMPOUND 42719 42732	ethyl acetate
+T498	OTHER_COMPOUND 42733 42739	hexane
+T499	REACTION_PRODUCT 42771 42840	2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T500	REACTION_PRODUCT 42842 42844	6g
+T501	YIELD_OTHER 42847 42853	210 mg
+T502	YIELD_PERCENT 42855 42860	53.3%
+T503	OTHER_COMPOUND 42877 42882	CDCl3
+T504	OTHER_COMPOUND 42883 42887	DMSO
+T505	OTHER_COMPOUND 42903 42908	OCH2O
+T506	OTHER_COMPOUND 42977 42980	ArH
+T507	OTHER_COMPOUND 42995 42998	ArH
+T508	EXAMPLE_LABEL 43054 43055	5
+T509	STARTING_MATERIAL 43056 43125	5-fluoro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T510	STARTING_MATERIAL 43127 43129	7b
+T511	STARTING_MATERIAL 43131 43177	3-(4-methoxyphenyl)-1H-pyrazole-5-carbaldehyde
+T512	STARTING_MATERIAL 43179 43181	5b
+T513	SOLVENT 43205 43212	ethanol
+T514	STARTING_MATERIAL 43231 43258	4-fluorobenzene-1,2-diamine
+T515	REAGENT_CATALYST 43306 43313	Na2S2O5
+T516	TEMPERATURE 43375 43381	85° C.
+T517	TIME 43386 43389	3 h
+T518	TEMPERATURE 43479 43495	room temperature
+T519	TEMPERATURE 43497 43502	33° C
+T520	OTHER_COMPOUND 43524 43537	ethyl acetate
+T521	OTHER_COMPOUND 43594 43599	water
+T522	OTHER_COMPOUND 43601 43606	brine
+T523	OTHER_COMPOUND 43641 43647	Na2SO4
+T524	OTHER_COMPOUND 43772 43785	ethyl acetate
+T525	OTHER_COMPOUND 43786 43792	hexane
+T526	REACTION_PRODUCT 43807 43820	pure compound
+T527	REACTION_PRODUCT 43824 43893	5-fluoro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T528	REACTION_PRODUCT 43895 43897	7b
+T529	YIELD_OTHER 43900 43906	236 mg
+T530	YIELD_PERCENT 43908 43913	76.7%
+T531	OTHER_COMPOUND 43930 43935	CDCl3
+T532	OTHER_COMPOUND 43936 43940	DMSO
+T533	OTHER_COMPOUND 43956 43960	OCH3
+T534	OTHER_COMPOUND 44028 44031	ArH
+T535	EXAMPLE_LABEL 44091 44092	6
+T536	STARTING_MATERIAL 44093 44171	2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T537	STARTING_MATERIAL 44173 44175	7g
+T538	STARTING_MATERIAL 44177 44230	3-(3,4,5-trimethoxyphenyl)-1H-pyrazole-5-carbaldehyde
+T539	STARTING_MATERIAL 44232 44234	5f
+T540	SOLVENT 44258 44265	ethanol
+T541	STARTING_MATERIAL 44284 44311	4-fluorobenzene-1,2-diamine
+T542	STARTING_MATERIAL 44313 44314	2
+T543	REAGENT_CATALYST 44359 44366	Na2S2O5
+T544	TEMPERATURE 44428 44434	85° C.
+T545	TIME 44439 44442	4 h
+T546	TEMPERATURE 44532 44548	room temperature
+T547	TEMPERATURE 44550 44555	28° C
+T548	OTHER_COMPOUND 44577 44590	ethyl acetate
+T549	OTHER_COMPOUND 44647 44652	water
+T550	OTHER_COMPOUND 44654 44659	brine
+T551	OTHER_COMPOUND 44694 44700	Na2SO4
+T552	OTHER_COMPOUND 44825 44838	ethyl acetate
+T553	OTHER_COMPOUND 44839 44845	hexane
+T554	REACTION_PRODUCT 44877 44955	2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T555	REACTION_PRODUCT 44957 44959	7g
+T556	YIELD_OTHER 44962 44968	257 mg
+T557	YIELD_PERCENT 44970 44973	80%
+T558	OTHER_COMPOUND 44990 44995	CDCl3
+T559	OTHER_COMPOUND 44996 45000	DMSO
+T560	OTHER_COMPOUND 45016 45021	OCH2O
+T561	OTHER_COMPOUND 45066 45069	ArH
+T562	EXAMPLE_LABEL 45153 45154	7
+T563	STARTING_MATERIAL 45155 45231	5-chloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T564	STARTING_MATERIAL 45233 45235	8f
+T565	STARTING_MATERIAL 45237 45290	3-(3,4,5-trimethoxyphenyl)-1H-pyrazole-5-carbaldehyde
+T566	STARTING_MATERIAL 45292 45294	5f
+T567	SOLVENT 45318 45325	ethanol
+T568	STARTING_MATERIAL 45344 45371	4-chlorobenzene-1,2-diamine
+T569	STARTING_MATERIAL 45373 45374	3
+T570	REAGENT_CATALYST 45421 45428	Na2S2O5
+T571	TEMPERATURE 45490 45495	85° C
+T572	TIME 45501 45504	4 h
+T573	TEMPERATURE 45594 45610	room temperature
+T574	TEMPERATURE 45612 45617	30° C
+T575	OTHER_COMPOUND 45639 45652	ethyl acetate
+T576	OTHER_COMPOUND 45709 45714	water
+T577	OTHER_COMPOUND 45716 45721	brine
+T578	OTHER_COMPOUND 45756 45762	Na2SO4
+T579	OTHER_COMPOUND 45887 45900	ethyl acetate
+T580	OTHER_COMPOUND 45901 45907	hexane
+T581	REACTION_PRODUCT 45939 46015	5-chloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T582	REACTION_PRODUCT 46017 46019	80
+T583	YIELD_OTHER 46021 46027	291 mg
+T584	YIELD_PERCENT 46029 46032	76%
+T585	OTHER_COMPOUND 46049 46054	CDCl3
+T586	OTHER_COMPOUND 46055 46059	DMSO
+T587	REACTION_PRODUCT 46239 46316	5-methoxy-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T588	STARTING_MATERIAL 46318 46320	9f
+T589	STARTING_MATERIAL 46322 46375	3-(3,4,5-trimethoxyphenyl)-1H-pyrazole-5-carbaldehyde
+T590	STARTING_MATERIAL 46377 46379	5f
+T591	SOLVENT 46403 46410	ethanol
+T592	STARTING_MATERIAL 46429 46457	4-methoxybenzene-1,2-diamine
+T593	STARTING_MATERIAL 46459 46460	4
+T594	REAGENT_CATALYST 46505 46512	Na2S2O5
+T595	TEMPERATURE 46574 46580	85° C.
+T596	TIME 46585 46588	4 h
+T597	TEMPERATURE 46678 46694	room temperature
+T598	TEMPERATURE 46696 46701	35° C
+T599	OTHER_COMPOUND 46723 46736	ethyl acetate
+T600	OTHER_COMPOUND 46793 46798	water
+T601	OTHER_COMPOUND 46800 46805	brine
+T602	OTHER_COMPOUND 46840 46846	Na2SO4
+T603	OTHER_COMPOUND 46971 46984	ethyl acetate
+T604	OTHER_COMPOUND 46985 46991	hexane
+T605	REACTION_PRODUCT 47023 47099	5-methoxy-2-(3-(,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T606	REACTION_PRODUCT 47101 47103	90
+T607	YIELD_OTHER 47105 47111	292 mg
+T608	YIELD_PERCENT 47113 47115	77
+T609	OTHER_COMPOUND 47132 47137	CDCl3
+T610	OTHER_COMPOUND 47138 47142	DMSO
+T611	OTHER_COMPOUND 47178 47182	OCH3
+T612	OTHER_COMPOUND 47239 47242	ArH
+T613	EXAMPLE_LABEL 47293 47294	9
+T614	REACTION_PRODUCT 47295 47368	5,6-dichloro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T615	STARTING_MATERIAL 47370 47373	10b
+T616	STARTING_MATERIAL 47375 47421	3-(4-methoxyphenyl)-1H-pyrazole-5-carbaldehyde
+T617	STARTING_MATERIAL 47423 47425	5b
+T618	SOLVENT 47449 47456	ethanol
+T619	STARTING_MATERIAL 47475 47506	4,5-dichlorobenzene-1,2-diamine
+T620	REAGENT_CATALYST 47554 47561	Na2S2O5
+T621	TEMPERATURE 47623 47629	85° C.
+T622	TIME 47634 47637	3 h
+T623	TEMPERATURE 47727 47743	room temperature
+T624	TEMPERATURE 47745 47751	30° C.
+T625	OTHER_COMPOUND 47772 47785	ethyl acetate
+T626	OTHER_COMPOUND 47842 47847	water
+T627	OTHER_COMPOUND 47849 47854	brine
+T628	OTHER_COMPOUND 47889 47895	Na2SO4
+T629	OTHER_COMPOUND 48020 48033	ethyl acetate
+T630	OTHER_COMPOUND 48034 48040	hexane
+T631	REACTION_PRODUCT 48072 48145	5,6-dichloro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T632	REACTION_PRODUCT 48147 48150	10b
+T633	YIELD_OTHER 48153 48159	270 mg
+T634	YIELD_PERCENT 48161 48166	75.4%
+T635	OTHER_COMPOUND 48183 48188	CDCl3
+T636	OTHER_COMPOUND 48189 48193	DMSO
+T637	OTHER_COMPOUND 48209 48213	OCH3
+T638	OTHER_COMPOUND 48257 48260	ArH
+T639	EXAMPLE_LABEL 48340 48342	10
+T640	STARTING_MATERIAL 48343 48423	5,6-dichloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T641	STARTING_MATERIAL 48425 48428	10f
+T642	STARTING_MATERIAL 48430 48476	3-(4-methoxyphenyl)-1H-pyrazole-5-carbaldehyde
+T643	STARTING_MATERIAL 48478 48480	5b
+T644	SOLVENT 48504 48511	ethanol
+T645	STARTING_MATERIAL 48530 48561	4,5-dichlorobenzene-1,2-diamine
+T646	STARTING_MATERIAL 48563 48564	5
+T647	REAGENT_CATALYST 48609 48616	Na2S2O5
+T648	TEMPERATURE 48678 48684	85° C.
+T649	TIME 48689 48692	4 h
+T650	TEMPERATURE 48782 48798	room temperature
+T651	TEMPERATURE 48800 48805	33° C
+T652	OTHER_COMPOUND 48827 48840	ethyl acetate
+T653	OTHER_COMPOUND 48897 48902	water
+T654	OTHER_COMPOUND 48904 48909	brine
+T655	OTHER_COMPOUND 48944 48950	Na2SO4
+T656	OTHER_COMPOUND 49075 49088	ethyl acetate
+T657	OTHER_COMPOUND 49089 49095	hexane
+T658	REACTION_PRODUCT 49110 49114	pure
+T659	REACTION_PRODUCT 49127 49207	5,6-dichloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T660	REACTION_PRODUCT 49209 49210	1
+T661	YIELD_OTHER 49216 49222	330 mg
+T662	YIELD_PERCENT 49224 49227	79%
+T663	OTHER_COMPOUND 49244 49249	CDCl3
+T664	OTHER_COMPOUND 49250 49254	DMSO
+T665	OTHER_COMPOUND 49309 49312	ArH
+T666	REACTION_PRODUCT 49531 49560	pyrazole linked benzimidazole
+T667	REACTION_PRODUCT 49573 49575	6f
+T668	REACTION_PRODUCT 49577 49579	6g
+T669	REACTION_PRODUCT 49585 49587	8f
+T670	REACTION_PRODUCT 49589 49591	9f
+T671	REACTION_PRODUCT 49596 49599	10f
+T672	TIME 50012 50016	48 h
+T673	OTHER_COMPOUND 50063 50079	sulforhodamine B
+T674	OTHER_COMPOUND 50081 50084	SRB
+T675	OTHER_COMPOUND 50147 50157	Nocodazole
+T676	OTHER_COMPOUND 50347 50350	TGI
+T677	OTHER_COMPOUND 50403 50408	death
+T678	OTHER_COMPOUND 50484 50488	DMSO
+T679	REACTION_PRODUCT 50563 50565	6f
+T680	REACTION_PRODUCT 50567 50569	6g
+T681	REACTION_PRODUCT 50571 50573	7g
+T682	REACTION_PRODUCT 50579 50581	9f
+T683	REACTION_PRODUCT 50586 50589	10f
+T684	OTHER_COMPOUND 50725 50731	Hop-62
+T685	OTHER_COMPOUND 50733 50741	NCI-H226
+T686	OTHER_COMPOUND 50761 50768	HCT-116
+T687	OTHER_COMPOUND 50770 50773	HCT
+T688	OTHER_COMPOUND 50789 50792	CNS
+T689	OTHER_COMPOUND 50823 50830	UACC-62
+T690	OTHER_COMPOUND 50832 50835	M14
+T691	OTHER_COMPOUND 50870 50878	prostate
+T692	OTHER_COMPOUND 50880 50883	PC3
+T693	OTHER_COMPOUND 50901 50911	MDA-MB-435
+T694	OTHER_COMPOUND 51012 51021	untreated
+T695	REACTION_PRODUCT 51076 51078	6f
+T696	OTHER_COMPOUND 51080 51082	6g
+T697	OTHER_COMPOUND 51088 51090	8f
+T698	STARTING_MATERIAL 51092 51094	9f
+T699	REACTION_PRODUCT 51099 51102	10f
+T700	OTHER_COMPOUND 51259 51293	pyrazole- benzimidazole conjugates
+T701	OTHER_COMPOUND 51295 51297	6f
+T702	OTHER_COMPOUND 51303 51305	7g
+T703	OTHER_COMPOUND 51307 51309	8f
+T704	OTHER_COMPOUND 51311 51313	9f
+T705	OTHER_COMPOUND 51318 51321	10f
+T706	OTHER_COMPOUND 51937 51939	6f
+T707	REACTION_PRODUCT 51941 51943	6g
+T708	REACTION_PRODUCT 51949 51951	8f
+T709	STARTING_MATERIAL 51953 51955	9f
+T710	REACTION_PRODUCT 51960 51963	10f
+T711	REACTION_PRODUCT 52129 52131	8f
+T712	REACTION_PRODUCT 52136 52138	9f
+T713	OTHER_COMPOUND 52175 52177	6f
+T714	OTHER_COMPOUND 52179 52181	6g
+T715	REACTION_PRODUCT 52183 52185	7g
+T716	OTHER_COMPOUND 52190 52193	10f
+T717	OTHER_COMPOUND 52273 52275	6f
+T718	OTHER_COMPOUND 52293 52302	RPMI-8226
+T719	OTHER_COMPOUND 52382 52390	NCI-H226
+T720	OTHER_COMPOUND 52441 52443	6f
+T721	OTHER_COMPOUND 52529 52531	6f
+T722	OTHER_COMPOUND 52566 52574	SK-MEL-5
+T723	OTHER_COMPOUND 52625 52632	OVCAR-4
+T724	OTHER_COMPOUND 52637 52644	OVCAR-5
+T725	OTHER_COMPOUND 52650 52658	affected
+T726	REACTION_PRODUCT 52675 52677	6f
+T727	REACTION_PRODUCT 52763 52768	T-47D
+T728	OTHER_COMPOUND 52804 52806	6f
+T729	OTHER_COMPOUND 52861 52863	6g
+T730	OTHER_COMPOUND 52952 52958	SNB-75
+T731	OTHER_COMPOUND 53039 53041	6g
+T732	OTHER_COMPOUND 53050 53055	renal
+T733	OTHER_COMPOUND 53073 53078	TK-10
+T734	OTHER_COMPOUND 53135 53143	SK-MEL-5
+T735	OTHER_COMPOUND 53194 53196	7g
+T736	OTHER_COMPOUND 53282 53284	7g
+T737	OTHER_COMPOUND 53463 53465	8f
+T738	OTHER_COMPOUND 53474 53492	leukemia RPMI-8226
+T739	OTHER_COMPOUND 53582 53589	OVCAR-5
+T740	OTHER_COMPOUND 53616 53618	8f
+T741	OTHER_COMPOUND 53701 53703	9f
+T742	OTHER_COMPOUND 53712 53720	leukemia
+T743	OTHER_COMPOUND 53721 53730	RPMI-8226
+T744	OTHER_COMPOUND 53732 53738	MOLT-4
+T745	OTHER_COMPOUND 53743 53751	CCRF-CEM
+T746	OTHER_COMPOUND 53849 53857	NCI-H226
+T747	OTHER_COMPOUND 53859 53866	NCI-H23
+T748	OTHER_COMPOUND 53871 53879	NCI-H522
+T749	OTHER_COMPOUND 53917 53919	9f
+T750	OTHER_COMPOUND 54011 54013	9f
+T751	OTHER_COMPOUND 54053 54061	SK-MEL-5
+T752	OTHER_COMPOUND 54066 54073	UACC-62
+T753	OTHER_COMPOUND 54155 54157	9f
+T754	OTHER_COMPOUND 54174 54181	OVCAR-4
+T755	OTHER_COMPOUND 54186 54193	OVCAR-8
+T756	OTHER_COMPOUND 54261 54265	PC-3
+T757	REACTION_PRODUCT 54295 54297	9f
+T758	OTHER_COMPOUND 54353 54359	BT-549
+T759	OTHER_COMPOUND 54361 54366	T-47D
+T760	OTHER_COMPOUND 54371 54381	MDA-MB-468
+T761	OTHER_COMPOUND 54412 54414	9f
+T762	OTHER_COMPOUND 54504 54507	10f
+T763	OTHER_COMPOUND 54525 54534	RPMI-8226
+T764	REACTION_PRODUCT 54579 54581	9f
+T765	OTHER_COMPOUND 54655 54663	leukemia
+T766	REACTION_PRODUCT 54685 54687	6f
+T767	STARTING_MATERIAL 54693 54695	7g
+T768	OTHER_COMPOUND 54697 54699	8f
+T769	OTHER_COMPOUND 54701 54703	9f
+T770	REACTION_PRODUCT 54708 54711	10f
+T771	REACTION_PRODUCT 54850 54852	6f
+T772	REACTION_PRODUCT 54854 54856	6g
+T773	REACTION_PRODUCT 54858 54860	7g
+T774	OTHER_COMPOUND 54862 54864	8f
+T775	OTHER_COMPOUND 54866 54868	9f
+T776	OTHER_COMPOUND 54873 54876	10f
+T777	OTHER_COMPOUND 54978 54980	6f
+T778	OTHER_COMPOUND 54982 54984	6g
+T779	OTHER_COMPOUND 54986 54988	7g
+T780	OTHER_COMPOUND 54990 54992	8f
+T781	OTHER_COMPOUND 54994 54996	9f
+T782	REACTION_PRODUCT 55001 55004	10f
+T783	OTHER_COMPOUND 57488 57490	6f
+T784	OTHER_COMPOUND 57496 57498	7g
+T785	OTHER_COMPOUND 57500 57502	8f
+T786	OTHER_COMPOUND 57504 57506	9f
+T787	OTHER_COMPOUND 57511 57514	10f
+T788	OTHER_COMPOUND 57586 57588	7e
+T789	OTHER_COMPOUND 57590 57592	8e
+T790	OTHER_COMPOUND 57594 57597	10e
+T791	OTHER_COMPOUND 57604 57607	12e
+T792	REACTION_PRODUCT 57617 57619	8f
+T793	OTHER_COMPOUND 57952 57954	6f
+T794	OTHER_COMPOUND 57956 57958	6g
+T795	OTHER_COMPOUND 57960 57962	7g
+T796	OTHER_COMPOUND 57964 57966	8f
+T797	OTHER_COMPOUND 57968 57970	9f
+T798	OTHER_COMPOUND 57975 57978	10f
+T799	REACTION_PRODUCT 58184 58210	pyrazole and benzimidazole
+T800	OTHER_COMPOUND 58435 58443	scaffold
+T801	OTHER_COMPOUND 58525 58538	ethyl acetate
+T802	OTHER_COMPOUND 58543 58549	hexane
+T803	REACTION_PRODUCT 58702 58712	conjugates
+T804	REACTION_PRODUCT 58722 58724	6f
+T805	STARTING_MATERIAL 58726 58728	6g
+T806	OTHER_COMPOUND 58734 58736	8f
+T807	OTHER_COMPOUND 58738 58740	9f
+T808	OTHER_COMPOUND 58745 58748	10f
+T809	OTHER_COMPOUND 58840 58846	cancer
+T810	REACTION_PRODUCT 58894 58909	pyrazole linked
+T811	REACTION_PRODUCT 59038 59053	pyrazole linked
+T812	REACTION_PRODUCT 59054 59078	benzimidazole conjugates
+T813	OTHER_COMPOUND 59080 59081	1
+T814	REACTION_PRODUCT 59111 59140	pyrazole linked benzimidazole
+T815	OTHER_COMPOUND 59211 59213	Cl
+T816	OTHER_COMPOUND 59223 59227	OCH3
+T817	OTHER_COMPOUND 59272 59274	Cl
+T818	OTHER_COMPOUND 59333 59335	Cl
+T819	OTHER_COMPOUND 59345 59349	OCH3
+T820	OTHER_COMPOUND 59394 59396	Cl
+T821	OTHER_COMPOUND 59401 59404	CH3
+T822	OTHER_COMPOUND 59406 59410	OCH3
+T823	OTHER_COMPOUND 59455 59457	Cl
+T824	OTHER_COMPOUND 59462 59465	CH3
+T825	OTHER_COMPOUND 59538 59541	NO2
+T826	OTHER_COMPOUND 59583 59585	Br
+T827	OTHER_COMPOUND 59603 59606	CF3
+T828	REACTION_PRODUCT 59761 59790	pyrazole linked benzimidazole
+T829	OTHER_COMPOUND 59872 59874	Br
+T830	OTHER_COMPOUND 59880 59881	F
+T831	OTHER_COMPOUND 59883 59886	CH3
+T832	OTHER_COMPOUND 59888 59892	OCH3
+T833	OTHER_COMPOUND 59894 59897	NO2
+T834	OTHER_COMPOUND 59960 59963	CF3
+T835	REACTION_PRODUCT 60025 60054	pyrazole linked benzimidazole
+T836	OTHER_COMPOUND 60080 60129	2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T837	REACTION_PRODUCT 60131 60133	6a
+T838	STARTING_MATERIAL 60136 60196	2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T839	REACTION_PRODUCT 60198 60201	6b)
+T840	REACTION_PRODUCT 60203 60267	2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T841	REACTION_PRODUCT 60269 60271	6c
+T842	REACTION_PRODUCT 60274 60338	2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T843	REACTION_PRODUCT 60340 60342	6d
+T844	REACTION_PRODUCT 60411 60413	6e
+T845	REACTION_PRODUCT 60414 60483	, 2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T846	REACTION_PRODUCT 60485 60487	6f
+T847	REACTION_PRODUCT 60561 60563	6g
+T848	REACTION_PRODUCT 60627 60629	6h
+T849	STARTING_MATERIAL 60632 60695	2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T850	STARTING_MATERIAL 60697 60699	6i
+T851	STARTING_MATERIAL 60763 60765	6j
+T852	STARTING_MATERIAL 60768 60831	2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T853	REACTION_PRODUCT 60833 60835	6k
+T854	REACTION_PRODUCT 60909 60911	6l
+T855	STARTING_MATERIAL 60914 60964	2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T856	OTHER_COMPOUND 60966 60968	6m
+T857	REACTION_PRODUCT 60971 61034	2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T858	STARTING_MATERIAL 61036 61038	6n
+T859	STARTING_MATERIAL 61041 61101	5-fluoro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (
+T860	REACTION_PRODUCT 61177 61179	7b
+T861	STARTING_MATERIAL 61182 61255	2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T862	STARTING_MATERIAL 61257 61259	7c
+T863	STARTING_MATERIAL 61262 61335	2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T864	STARTING_MATERIAL 61337 61339	7d
+T865	REACTION_PRODUCT 61417 61419	7e
+T866	REACTION_PRODUCT 61500 61502	7f
+T867	REACTION_PRODUCT 61503 61583	, 2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T868	OTHER_COMPOUND 61739 61741	7i
+T869	OTHER_COMPOUND 61744 61812	2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T870	STARTING_MATERIAL 61814 61816	7j
+T871	OTHER_COMPOUND 61893 61895	7k
+T872	STARTING_MATERIAL 61898 61976	5-fluoro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T873	STARTING_MATERIAL 61983 62042	5-fluoro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T874	STARTING_MATERIAL 62049 62121	2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T875	OTHER_COMPOUND 62123 62125	7n
+T876	STARTING_MATERIAL 62128 62186	5-chloro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T877	REACTION_PRODUCT 62188 62190	8a
+T878	STARTING_MATERIAL 62264 62266	8b
+T879	REACTION_PRODUCT 62344 62422	8c), 5-chloro-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T880	STARTING_MATERIAL 62424 62426	8d
+T881	REACTION_PRODUCT 62427 62502	, 5-chloro-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T882	OTHER_COMPOUND 62504 62506	8e
+T883	REACTION_PRODUCT 62509 62585	5-chloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T884	REACTION_PRODUCT 62587 62589	8f
+T885	REACTION_PRODUCT 62672 62674	8g
+T886	STARTING_MATERIAL 62677 62745	5-chloro-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T887	REACTION_PRODUCT 62829 62899	, 5-chloro-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T888	REACTION_PRODUCT 62901 62903	8j
+T889	STARTING_MATERIAL 62985 63063	5-chloro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T890	STARTING_MATERIAL 63065 63067	8l
+T891	REACTION_PRODUCT 63131 63133	8m
+T892	STARTING_MATERIAL 63136 63208	5-chloro-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T893	STARTING_MATERIAL 63276 63278	9a
+T894	STARTING_MATERIAL 63281 63351	5-methoxy-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T895	STARTING_MATERIAL 63353 63355	9b
+T896	STARTING_MATERIAL 63437 63438	,
+T897	STARTING_MATERIAL 63520 63594	2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T898	REACTION_PRODUCT 63596 63598	9e
+T899	REACTION_PRODUCT 63601 63678	5-methoxy-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T900	REACTION_PRODUCT 63685 63764	2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T901	REACTION_PRODUCT 63766 63768	9g
+T902	STARTING_MATERIAL 63771 63840	2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T903	OTHER_COMPOUND 63847 63920	2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T904	OTHER_COMPOUND 63927 63996	2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T905	OTHER_COMPOUND 63998 64000	9j
+T906	STARTING_MATERIAL 64003 64076	2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-methoxy-1H-benzo[d]imidazole
+T907	OTHER_COMPOUND 64078 64080	9k
+T908	STARTING_MATERIAL 64164 64166	9l
+T909	STARTING_MATERIAL 64169 64229	5-methoxy-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T910	STARTING_MATERIAL 64231 64233	9m
+T911	STARTING_MATERIAL 64311 64313	9n
+T912	OTHER_COMPOUND 64380 64383	10a
+T913	STARTING_MATERIAL 64386 64464	5,6-dichloro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (10b
+T914	STARTING_MATERIAL 64467 64544	5,6-dichloro-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T915	STARTING_MATERIAL 64546 64549	10c
+T916	REACTION_PRODUCT 64552 64631	5,6-dichloro-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole (
+T917	OTHER_COMPOUND 64635 64714	, 5,6-dichloro-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T918	OTHER_COMPOUND 64716 64719	10e
+T919	REACTION_PRODUCT 64722 64802	5,6-dichloro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T920	REACTION_PRODUCT 64804 64807	10f
+T921	STARTING_MATERIAL 64810 64892	2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5,6-dichloro-1H-benzo[d]imidazole
+T922	STARTING_MATERIAL 64900 64972	5,6-dichloro-2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T923	OTHER_COMPOUND 64974 64977	10h
+T924	STARTING_MATERIAL 64980 65056	5,6-dichloro-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T925	STARTING_MATERIAL 65058 65061	10i
+T926	STARTING_MATERIAL 65062 65136	, 5,6-dichloro-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T927	STARTING_MATERIAL 65138 65141	10j
+T928	STARTING_MATERIAL 65222 65225	10k
+T929	STARTING_MATERIAL 65228 65310	5,6-dichloro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T930	STARTING_MATERIAL 65312 65315	10l
+T931	REACTION_PRODUCT 65383 65386	10m
+T932	STARTING_MATERIAL 65389 65465	5,6-dichloro-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T933	REACTION_PRODUCT 65467 65470	10n
+T934	STARTING_MATERIAL 65550 65630	2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T935	STARTING_MATERIAL 65632 65635	11b
+T936	STARTING_MATERIAL 65638 65722	2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T937	STARTING_MATERIAL 65728 65729	,
+T938	STARTING_MATERIAL 65816 65819	11d
+T939	STARTING_MATERIAL 65822 65906	2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T940	STARTING_MATERIAL 65912 66001	, 5-(trifluoromethyl)-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T941	STARTING_MATERIAL 66009 66098	2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T942	STARTING_MATERIAL 66104 66185	, 2-(3-(4-fluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T943	STARTING_MATERIAL 66187 66190	11h
+T944	STARTING_MATERIAL 66278 66281	11i
+T945	REACTION_PRODUCT 66365 66368	11j
+T946	OTHER_COMPOUND 66371 66454	2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T947	REACTION_PRODUCT 66456 66459	11k
+T948	STARTING_MATERIAL 66462 66551	2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T949	REACTION_PRODUCT 66557 66631	, 2-(3-p-tolyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (
+T950	REACTION_PRODUCT 66631 66634	11m
+T951	REACTION_PRODUCT 66635 66720	, 2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T952	REACTION_PRODUCT 66722 66725	11n
+T953	REACTION_PRODUCT 66728 66785	5-nitro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T954	REACTION_PRODUCT 66787 66790	12a
+T955	REACTION_PRODUCT 66791 66861	, 2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T956	OTHER_COMPOUND 66863 66866	12b
+T957	OTHER_COMPOUND 66943 66946	12c
+T958	STARTING_MATERIAL 66949 67021	2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T959	STARTING_MATERIAL 67023 67026	12d
+T960	OTHER_COMPOUND 67109 67184	5-nitro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T961	REACTION_PRODUCT 67271 67274	12g
+T962	REACTION_PRODUCT 67346 67349	12h
+T963	REACTION_PRODUCT 67352 67423	2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T964	REACTION_PRODUCT 67425 67428	12i
+T965	REACTION_PRODUCT 67429 67498	, 2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T966	REACTION_PRODUCT 67500 67503	12j
+T967	REACTION_PRODUCT 67579 67582	12k
+T968	REACTION_PRODUCT 67583 67662	, 2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-nitro-1H-benzo[d]imidazole
+T969	STARTING_MATERIAL 67670 67728	5-nitro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T970	OTHER_COMPOUND 67730 67733	12m
+T971	OTHER_COMPOUND 67813 67882	, 5-chloro-6-fluoro-2-(3-phenyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T972	OTHER_COMPOUND 67890 67968	5-chloro-6-fluoro-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T973	OTHER_COMPOUND 67970 67973	13b
+T974	STARTING_MATERIAL 67976 68058	5-chloro-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole
+T975	REACTION_PRODUCT 68060 68063	13c
+T976	REACTION_PRODUCT 68150 68153	13d
+T977	REACTION_PRODUCT 68156 68238	5-chloro-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole
+T978	REACTION_PRODUCT 68244 68331	, 5-chloro-6-fluoro-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T979	REACTION_PRODUCT 68333 68336	13f
+T980	REACTION_PRODUCT 68428 68431	13g
+T981	REACTION_PRODUCT 68513 68518	13h),
+T982	REACTION_PRODUCT 68519 68600	5-chloro-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole
+T983	REACTION_PRODUCT 68602 68605	13i
+T984	REACTION_PRODUCT 68606 68685	, 5-chloro-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-6-fluoro-1H-benzo[d]imidazole
+T985	REACTION_PRODUCT 68687 68690	13j
+T986	REACTION_PRODUCT 68693 68776	6-chloro-2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole (
+T987	STARTING_MATERIAL 68782 68869	6-chloro-5-fluoro-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T988	STARTING_MATERIAL 68871 68874	13l
+T989	STARTING_MATERIAL 68877 68945	6-chloro-5-fluoro-2-(3-p-tolyl-1H-pyrazol-5-yl)-1H-benzo[d]imidazole
+T990	STARTING_MATERIAL 68947 68950	13m
+T991	STARTING_MATERIAL 68953 69034	6-chloro-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-fluoro-1H-benzo[d]imidazole
+T992	STARTING_MATERIAL 69036 69039	13n
+T993	REACTION_PRODUCT 69040 69119	, 6-bromo-2-(3-phenyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T994	REACTION_PRODUCT 69121 69124	14a
+T995	STARTING_MATERIAL 69127 69215	6-bromo-2-(3-(4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T996	STARTING_MATERIAL 69217 69220	14b
+T997	STARTING_MATERIAL 69223 69315	6-bromo-2-(3-(3,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T998	REACTION_PRODUCT 69317 69320	14c
+T999	REACTION_PRODUCT 69321 69420	, 6-bromo-2-(3-(3,5-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (14d
+T1000	REACTION_PRODUCT 69421 69517	, 6-bromo-2-(3-(2,4-dimethoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole (
+T1001	REACTION_PRODUCT 69517 69520	14e
+T1002	REACTION_PRODUCT 69521 69622	, 6-bromo-5-(trifluoromethyl)-2-(3-(3,4,5-trimethoxyphenyl)-1H-pyrazol-5-yl)-1H-benzo[d]imidazole 14f
+T1003	REACTION_PRODUCT 69623 69722	, 2-(3-(benzo[d][1,3]dioxol-5-yl)-1H-pyrazol-5-yl)-6-bromo-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T1004	REACTION_PRODUCT 69724 69727	14g
+T1005	REACTION_PRODUCT 69819 69822	14h
+T1006	REACTION_PRODUCT 69823 69916	, 6-bromo-2-(3-(3,4-difluorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T1007	REACTION_PRODUCT 69918 69921	14i
+T1008	REACTION_PRODUCT 69922 70011	, 6-bromo-2-(3-(4-chlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T1009	REACTION_PRODUCT 70013 70017	14j)
+T1010	REACTION_PRODUCT 70017 70110	, 6-bromo-2-(3-(3,4-dichlorophenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T1011	REACTION_PRODUCT 70112 70115	14k
+T1012	REACTION_PRODUCT 70116 70215	, 6-bromo-2-(3-(2-fluoro-4-methoxyphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T1013	REACTION_PRODUCT 70217 70220	14l
+T1014	STARTING_MATERIAL 70223 70301	6-bromo-2-(3-p-tolyl-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T1015	REACTION_PRODUCT 70303 70306	14m
+T1016	REACTION_PRODUCT 70309 70404	and 6-bromo-2-(3-(3,4-dimethylphenyl)-1H-pyrazol-5-yl)-5-(trifluoromethyl)-1H-benzo[d]imidazole
+T1017	STARTING_MATERIAL 70406 70409	14n
+T1018	EXAMPLE_LABEL 70495 70496	6
+T1019	REACTION_PRODUCT 70809 70849	pyrazole linked benzimidazole conjugates
+T1020	OTHER_COMPOUND 70919 70921	Cl
+T1021	OTHER_COMPOUND 70923 70924	F
+T1022	OTHER_COMPOUND 70926 70929	CH3
+T1023	OTHER_COMPOUND 70985 70987	Cl
+T1024	OTHER_COMPOUND 70997 71001	OCH3
+T1025	OTHER_COMPOUND 71003 71006	NO2
+T1026	OTHER_COMPOUND 71049 71051	Br
+T1027	OTHER_COMPOUND 71053 71055	Cl
+T1028	REACTION_PRODUCT 71110 71143	3-aryl-1H-pyrazole-5-carbaldehyde
+T1029	OTHER_COMPOUND 71147 71154	formula
+T1030	OTHER_COMPOUND 71156 71160	5a-n
+T1031	OTHER_COMPOUND 71217 71219	Cl
+T1032	OTHER_COMPOUND 71221 71222	F
+T1033	OTHER_COMPOUND 71224 71227	CH3
+T1034	OTHER_COMPOUND 71238 71248	3,4(OCH2O)
+T1035	REACTION_PRODUCT 71264 71297	3-aryl-1H-pyrazole-5-carbaldehyde
+T1036	OTHER_COMPOUND 71310 71314	5a-n
+T1037	OTHER_COMPOUND 71332 71340	selected
+T1038	TEMPERATURE 71512 71534	85° C. and about 90° C
+T1039	TIME 71576 71583	3 hours
+T1040	TIME 71593 71594	4
+T1041	OTHER_COMPOUND 71625 71630	water
+T1042	OTHER_COMPOUND 71708 71713	water
+T1043	OTHER_COMPOUND 71833 71839	Na2SO4
+T1044	OTHER_COMPOUND 72019 72024	water
+T1045	OTHER_COMPOUND 72057 72064	ethanol
+T1046	OTHER_COMPOUND 72066 72074	methanol
+T1047	EXAMPLE_LABEL 72096 72097	9
+T1048	OTHER_COMPOUND 72136 72141	water
+T1049	OTHER_COMPOUND 72171 72184	ethyl acetate
+T1050	OTHER_COMPOUND 72259 72264	brine
+T1051	EXAMPLE_LABEL 72371 72373	12
+T1052	OTHER_COMPOUND 72477 72490	ethyl acetate
+T1053	OTHER_COMPOUND 72492 72502	chloroform
+T1054	OTHER_COMPOUND 72504 72519	dichloromethane

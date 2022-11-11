@@ -1,0 +1,13 @@
+T7	CHEMICAL 0 8	Dopamine
+T12	GENE-Y 0 20	Dopamine D2 receptor
+T8	CHEMICAL 34 45	risperidone
+T5	CHEMICAL 164 172	dopamine
+T9	GENE-Y 164 184	dopamine D2 receptor
+T6	CHEMICAL 198 209	risperidone
+T2	CHEMICAL 342 353	(123)I-IBZM
+T3	CHEMICAL 481 492	risperidone
+T4	CHEMICAL 525 536	Risperidone
+T10	GENE-Y 958 969	D2 receptor
+T11	GENE-Y 1107 1118	D2 receptor
+T1	CHEMICAL 1164 1175	risperidone
+R0	CPR-2 Arg1:T1 Arg2:T11

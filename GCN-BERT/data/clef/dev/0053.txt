@@ -1,0 +1,5 @@
+Intermediate 10
+3-(bromomethyl)-5-(tert-butyl)-2-methoxypyridine
+Intermediate 10A
+(5-bromo-2-methoxypyridin-3-yl)methanol
+5-Bromo-2-methoxynicotinaldehyde (2 g, 9.26 mmol) was suspended in methanol (40 mL) and cooled to 0° C. Sodium borohydride (0.350 g, 9.26 mmol) was added, causing bubbling. The reaction mixture was stirred at 0° C. for 15 minutes, the flask was removed from the ice bath, and the mixture was allowed to stir at room temperature for 2 hours. The reaction mixture was concentrated, and the crude material was taken up in methyl tert-butyl ether and saturated aqueous sodium bicarbonate. The phases were separated, and the organic layer was dried over Na2SO4, filtered and concentrated to afford the title compound (1.876 g, 8.60 mmol, 93% yield).

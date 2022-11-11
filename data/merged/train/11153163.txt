@@ -1,0 +1,13 @@
+Renal damage induced by the treatment with non-opioid analgesics--theoretical assumption or clinical significance.
+Non-opioid analgesics are some of the most widely used therapeutic agents in clinical practice today.
+The number of patients at risk for adverse events related to the use of these agents is rapidly expanding.
+While the gastrointestinal toxicity of these medications is well known, it has become increasingly apparent that the kidney is also an important target for untoward clinical events.
+Evidence of the nephrotoxicity of analgesic preparations is not sufficiently completed and available in our region.
+Analgesic-related renal injury has been classified based on mechanism of action into "classic" analgesic nephropathy and NSAID-related renal toxicity.
+From clinical point of view the renal side effects induced by analgesics can be classified into hemodynamic (functional) side effects and idiosyncratic side effects.
+The common link in both types of side effects seems to be renal ischemia related to prostaglandin synthesis inhibition.
+Key enzyme in this process is cyclooxygenase occurring in two isoforms: COX-1 and COX-2.
+Antiinflammatory effect of NSAIDs is mediated by COX-2 inhibition, while the side effects (gastrotoxicity, nephrotoxicity) by inhibition of COX-1.
+COX-1 was more inhibited by indomethacin and piroxicam and COX-2 by 6-MNA (active metabolite of nabumetone), diclofenac and ibuprofen.
+Nimesulide and meloxicam selectively block COX-2 and are recommended to patients at risk or treated with diuretics.
+(Tab. 2, Fig. 2, Ref. 38.)

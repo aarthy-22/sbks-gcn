@@ -1,0 +1,24 @@
+T12	CHEMICAL 0 10	Rasagiline
+T20	GENE-Y 28 43	alpha-synuclein
+T1	CHEMICAL 107 117	Rasagiline
+T6	CHEMICAL 123 137	propargylamine
+T7	CHEMICAL 155 164	monoamine
+T16	GENE-Y 155 180	monoamine oxidase (MAO) B
+T14	GENE-Y 374 389	alpha-synuclein
+T15	GENE-Y 527 542	alpha-synuclein
+T8	CHEMICAL 716 726	rasagiline
+T9	CHEMICAL 759 769	rasagiline
+T10	CHEMICAL 855 863	paraquat
+T17	GENE-N 888 892	A53T
+T18	GENE-Y 900 915	alpha-synuclein
+T19	GENE-Y 984 993	caspase 3
+T11	CHEMICAL 1021 1031	superoxide
+T2	CHEMICAL 1115 1125	Rasagiline
+T3	CHEMICAL 1158 1169	glutathione
+T4	CHEMICAL 1209 1219	rasagiline
+T13	GENE-Y 1323 1338	alpha-synuclein
+T5	CHEMICAL 1445 1455	rasagiline
+R0	CPR-4 Arg1:T1 Arg2:T16
+R1	NOT Arg1:T10 Arg2:T17
+R2	NOT Arg1:T10 Arg2:T18
+R3	NOT Arg1:T19 Arg2:T11

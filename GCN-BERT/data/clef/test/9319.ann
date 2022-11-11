@@ -1,0 +1,11 @@
+T1	EXAMPLE_LABEL 8 11	454
+T2	REACTION_PRODUCT 12 167	[1-{[3-(2-Methoxypropyl)-5-methyl-2,4-dioxo-1-(3,3,3-trifluoropropyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidin-6-yl]methyl}imidazolidin-2-ylidene]cyanamide
+T3	STARTING_MATERIAL 217 239	compound from Ex. 458A
+T4	SOLVENT 267 270	DMF
+T5	STARTING_MATERIAL 298 334	dimethyl N-cyanodithioiminocarbonate
+T6	REAGENT_CATALYST 361 380	potassium carbonate
+T7	TEMPERATURE 420 425	80° C
+T8	TIME 513 516	4 h
+T9	YIELD_OTHER 717 723	317 mg
+T10	YIELD_PERCENT 725 728	54%
+T11	REACTION_PRODUCT 747 761	title compound

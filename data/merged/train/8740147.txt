@@ -1,0 +1,14 @@
+Amezinium and debrisoquine are substrates of uptake1 and potent inhibitors of monoamine oxidase in perfused lungs of rats.
+Previous studies have resulted in the classification of amezinium as a selective inhibitor of neuronal monoamine oxidase (MAO), because it is a much more potent MAO inhibitor in intact tissues, in which it is accumulated in noradrenergic neurones by uptake1, than in tissue homogenates.
+In the present study, the effects of amezinium on the deamination of noradrenaline were investigated in intact lungs of rats, since the pulmonary endothelial cells are a site where the catecholamine transporter is non-neuronal uptake1.
+In addition, another drug that is both a substrate of uptake1 and a MAO inhibitor, debrisoquine, was investigated in the study.
+The first aim of the study was to show whether amezinium and debrisoquine are substrates of uptake1 in rat lungs.
+After loading of isolated perfused lungs with 3H-noradrenaline (MAO and catechol-O-methyltransferase (COMT) inhibited), the efflux of 3H-noradrenaline was measured for 30 min.
+When 1 mumol/l amezinium or 15 mumol/l debrisoquine was added for the last 15 min of efflux, there was a rapid and marked increase in the fractional rate of loss of 3H-noradrenaline, which was reduced by about 70% when 1 mumol/l desipramine was present throughout the efflux period.
+These results showed that both drugs were substrates for uptake1 in rat lungs.
+In lungs perfused with 1 nmol/l 3H-noradrenaline (COMT inhibited), 10, 30 and 300 nmol/l amezinium caused 58%, 76% and 74% inhibition of noradrenaline deamination, respectively, and 30, 300 and 3000 nmol/l debrisoquine caused 56%, 89% and 96% inhibition of noradrenaline deamination, respectively.
+When MAO-B was also inhibited, 10 nmol/l amezinium caused 84% inhibition of the deamination of noradrenaline by MAO-A in the lungs.
+In contrast, in hearts perfused with 10 nmol/l 3H-noradrenaline under conditions where the amine was accumulated by uptake2 (COMT, uptake1 and vesicular transport inhibited), 10 nmol/l amezinium had no effect and 300 nmol/l amezinium caused only 36% inhibition of deamination of noradrenaline.
+The results when considered with previous reports in the literature show that amezinium is about 1000 times more potent and debrisoquine is about 20 times more potent for MAO inhibition in rat lungs than in tissue homogenates, and the reason for their high potencies in the intact lungs is transport and accumulation of the drugs in the pulmonary endothelial cells by uptake1.
+Amezinium is much less potent as a MAO inhibitor in cells with the uptake2 transporter, such as the myocardial cells of the heart.
+The results also confirmed previous reports that amezinium is highly selective for MAO-A.

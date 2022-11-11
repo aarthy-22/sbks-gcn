@@ -1,0 +1,19 @@
+[Efalizumab].
+Efalizumab (Raptiva, Serono) is a humanised monoclonal antibody (IgG1) produced by biotechnology.
+This antibody has a novel place among biotherapies for psoriasis.
+It is bound to the CD11a subunit of a surface molecule of the T lymphocyte LFA-1 (Leucocyte Function-associated Antigen-1).
+This molecule is essential for binding of T lymphocytes to the ICAM-1 molecule (Intercellular Adhesion Molecule-1) found on antigen-presenting cells, endothelial cells and keratinocytes.
+Binding of efalizumab to CD11a prevents binding of LFA-1 to ICAM-1, thus inhibiting several steps in the immunological process responsible for formation of psoriatic plaque (activation of naive T lymphocytes to memory T lymphocytes, lymphocyte migration and reactivation of T lymphocytes in skin).
+Efalizumab was approved in the United States by the FDA (Food and Drug Administration) in 2003 for the treatment of moderate-to-severe psoriasis requiring systemic therapy.
+It may be used as first-line therapy in the United States in this indication.
+In France, marketing authorisation (MA) was granted more recently in September 2005.
+The indications are moderate-to-severe cutaneous plaque psoriasis in adults in cases of failure, intolerance or contraindication of at least two systemic treatments including phototherapy, methotrexate and cyclosporine.
+Current clinical trial data is available for 3500 patients with plaque psoriasis.
+A 75% improvement in PASI score was seen in between 22 and 39% of patients treated with efalizumab (vs. 2 to 5% for patients on placebo) in a single weekly subcutaneous injection (1 mg/kg).
+A study in good responders confirms the continuing long-term efficacy of prescription of the drug up to 36 months (with at least a 75% improvement in PASI score in 53% of patients).
+However, it is not effective against joint involvement in psoriasis.
+The most common side-effects (incidence >1/100) are influenza-like syndrome, risk of outbreak of cutaneous psoriasis during or after discontinuation of treatment, worsening of arthralgia, minor hypersensitivity reactions, reversible changes in laboratory values (hyperlymphocytosis, elevated alkaline phosphatases and transaminases).
+Because of rare cases of thrombocytopenia (incidence<1/100), reversible on discontinuation of treatment, monthly monitoring of platelet counts is required over the first 3 months of therapy.
+There are currently no randomised studies comparing the various systemic treatments (standard therapy and biotherapy) for psoriasis.
+However, on extrapolation of the available results concerning efficacy (PASI-75 after 12 weeks of treatment), efalizumab appears to be less efficacious than anti-TNF alpha agents.
+This drug constitutes an additional treatment option and its position in the therapeutic arsenal will depend upon its long-term benefit/risk ratio in relation to other biotherapies.

@@ -1,0 +1,2 @@
+Step 3: 2-(benzylamino)(2,2-d2)ethan-1-ol
+To a solution of methyl 2-(benzylamino)(d2)acetate [Example 4, Step 2] (7.5 g, 41.38 mmol, 1.00 equiv) in methanol (100 mL) was slowly added NaBH4 (4.72 g, 124.77 mmol, 3.00 equiv). Then the mixture was stirred at room temperature overnight. The reaction was quenched by the addition of H2O (10 mL). The resulting solution was extracted with DCM (3×50 mL). The organic layers were dried over anhydrous sodium sulfate and concentrated under vacuum. This resulted in 5 g (79%) of 2-(benzylamino)(2,2-d2)ethan-1-ol as colorless oil.

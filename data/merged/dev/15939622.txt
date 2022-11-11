@@ -1,0 +1,5 @@
+COX-1 and COX-2 inhibition in horse blood by phenylbutazone, flunixin, carprofen and meloxicam: an in vitro analysis.
+We report on the inhibitory activity of the NSAIDs meloxicam, carprofen, phenylbutazone and flunixin, on blood cyclooxygenases in the horse using in vitro enzyme-linked assays.
+As expected, comparison of IC50 indicated that meloxicam and carprofen are more selective inhibitors of COX-2 than phenylbutazone and flunixin; meloxicam was the most advantageous for horses of four NSAIDs examined.
+However at IC80, phenylbutazone (+134.4%) and flunixin (+29.7%) had greater COX-2 selectivity than at IC50, and meloxicam (-41.2%) and carprofen (-12.9%) had lower COX-2 selectivity than at IC50.
+We therefore propose that the selectivity of NSAIDs should be assessed at the 80% as well as 50% inhibition level.

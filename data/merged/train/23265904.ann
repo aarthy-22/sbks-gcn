@@ -1,0 +1,19 @@
+T14	CHEMICAL 42 54	stearoyl-CoA
+T17	GENE-Y 42 65	stearoyl-CoA desaturase
+T18	GENE-Y 67 71	SCD1
+T3	CHEMICAL 96 129	benzo-fused spirocyclic oxazepine
+T12	CHEMICAL 159 178	stearoyl-coenzyme A
+T16	GENE-Y 159 197	stearoyl-coenzyme A (CoA) desaturase 1
+T2	CHEMICAL 180 183	CoA
+T15	GENE-Y 199 203	SCD1
+T4	CHEMICAL 424 433	oxazepine
+T5	CHEMICAL 443 451	benzylic
+T6	CHEMICAL 489 499	piperidine
+T7	CHEMICAL 650 660	piperidine
+T8	CHEMICAL 661 669	nitrogen
+T9	CHEMICAL 749 763	glycine amides
+T10	CHEMICAL 784 790	amides
+T11	CHEMICAL 796 805	thiazoles
+T13	CHEMICAL 1025 1045	5-carboxy-2-thiazole
+T1	CHEMICAL 1075 1097	spirocyclic piperidine
+R0	CPR-4 Arg1:T3 Arg2:T16

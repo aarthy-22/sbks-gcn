@@ -1,0 +1,46 @@
+T19	CHEMICAL 0 8	Arginine
+T40	GENE-N 23 31	arginase
+T10	CHEMICAL 77 85	Arginine
+T8	CHEMICAL 213 221	arginine
+T11	CHEMICAL 319 327	arginine
+T12	CHEMICAL 467 475	arginine
+T13	CHEMICAL 515 523	arginine
+T25	GENE-Y 545 576	inducible nitric oxide synthase
+T14	CHEMICAL 555 567	nitric oxide
+T26	GENE-N 585 593	arginase
+T27	GENE-N 604 621	arginase I and II
+T28	GENE-Y 624 655	Inducible nitric oxide synthase
+T15	CHEMICAL 634 646	nitric oxide
+T29	GENE-N 681 690	cytokines
+T30	GENE-N 692 705	interleukin-1
+T31	GENE-Y 707 728	tumor necrosis factor
+T32	GENE-Y 733 749	gamma-interferon
+T33	GENE-N 758 767	arginases
+T34	GENE-N 795 804	cytokines
+T35	GENE-N 841 867	interleukins 4, 10, and 13
+T36	GENE-N 869 900	transforming growth factor-beta
+T16	CHEMICAL 905 921	prostaglandin E2
+T37	GENE-Y 941 972	inducible nitric oxide synthase
+T17	CHEMICAL 951 963	nitric oxide
+T38	GENE-N 977 995	arginases I and II
+T39	GENE-N 997 1005	Arginase
+T18	CHEMICAL 1051 1060	ornithine
+T1	CHEMICAL 1077 1084	proline
+T2	CHEMICAL 1089 1099	polyamines
+T20	GENE-N 1175 1183	Arginase
+T3	CHEMICAL 1197 1209	nitric oxide
+T21	GENE-N 1197 1218	nitric oxide synthase
+T4	CHEMICAL 1245 1253	arginine
+T5	CHEMICAL 1315 1325	polyamines
+T6	CHEMICAL 1391 1399	arginine
+T22	GENE-N 1447 1456	arginases
+T7	CHEMICAL 1490 1498	arginine
+T9	CHEMICAL 1636 1644	arginine
+T23	GENE-N 1689 1697	arginase
+T24	GENE-N 1714 1722	arginase
+R0	NOT Arg1:T12 Arg2:T26
+R1	NOT Arg1:T15 Arg2:T30
+R2	NOT Arg1:T15 Arg2:T31
+R3	NOT Arg1:T15 Arg2:T34
+R4	NOT Arg1:T21 Arg2:T5
+R5	NOT Arg1:T6 Arg2:T22

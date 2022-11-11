@@ -1,0 +1,16 @@
+T8	CHEMICAL 0 10	Conivaptan
+T1	CHEMICAL 51 61	Conivaptan
+T4	CHEMICAL 73 84	vasopressin
+T11	GENE-N 73 93	vasopressin receptor
+T9	GENE-Y 217 222	renin
+T2	CHEMICAL 223 234	angiotensin
+T10	GENE-Y 223 234	angiotensin
+T3	CHEMICAL 235 246	aldosterone
+T5	CHEMICAL 317 337	Arginine vasopressin
+T12	GENE-Y 317 337	Arginine vasopressin
+T6	CHEMICAL 370 380	Conivaptan
+T13	GENE-Y 534 539	V(1a)
+T14	GENE-Y 544 558	V(2) receptors
+T7	CHEMICAL 674 684	conivaptan
+R0	CPR-6 Arg1:T1 Arg2:T11
+R1	NOT Arg1:T6 Arg2:T14

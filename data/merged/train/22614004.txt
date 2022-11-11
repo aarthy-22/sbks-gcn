@@ -1,0 +1,10 @@
+Mitochondrial activation by inhibition of PDKII suppresses HIF1a signaling and angiogenesis in cancer.
+Most solid tumors are characterized by a metabolic shift from glucose oxidation to glycolysis, in part due to actively suppressed mitochondrial function, a state that favors resistance to apoptosis.
+Suppressed mitochondrial function may also contribute to the activation of hypoxia-inducible factor 1α (HIF1α) and angiogenesis.
+We have previously shown that the inhibitor of pyruvate dehydrogenase kinase (PDK) dichloroacetate (DCA) activates glucose oxidation and induces apoptosis in cancer cells in vitro and in vivo.
+We hypothesized that DCA will also reverse the 'pseudohypoxic' mitochondrial signals that lead to HIF1α activation in cancer, even in the absence of hypoxia and inhibit cancer angiogenesis.
+We show that inhibition of PDKII inhibits HIF1α in cancer cells using several techniques, including HIF1α luciferase reporter assays.
+Using pharmacologic and molecular approaches that suppress the prolyl-hydroxylase (PHD)-mediated inhibition of HIF1α, we show that DCA inhibits HIF1α by both a PHD-dependent mechanism (that involves a DCA-induced increase in the production of mitochondria-derived α-ketoglutarate) and a PHD-independent mechanism, involving activation of p53 via mitochondrial-derived H(2)O(2), as well as activation of GSK3β.
+Effective inhibition of HIF1α is shown by a decrease in the expression of several HIF1α regulated gene products as well as inhibition of angiogenesis in vitro in matrigel assays.
+More importantly, in rat xenotransplant models of non-small cell lung cancer and breast cancer, we show effective inhibition of angiogenesis and tumor perfusion in vivo, assessed by contrast-enhanced ultrasonography, nuclear imaging techniques and histology.
+This work suggests that mitochondria-targeting metabolic modulators that increase pyruvate dehydrogenase activity, in addition to the recently described pro-apoptotic and anti-proliferative effects, suppress angiogenesis as well, normalizing the pseudo-hypoxic signals that lead to normoxic HIF1α activation in solid tumors.

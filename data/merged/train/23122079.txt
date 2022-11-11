@@ -1,0 +1,8 @@
+Phillyrin attenuates high glucose-induced lipid accumulation in human HepG2 hepatocytes through the activation of LKB1/AMP-activated protein kinase-dependent signalling.
+Phillyrin, an active constituent found in many medicinal plants and certain functional foods, has anti-obesity activity in vivo.
+The aim of our study was to provide new data on the molecular mechanism(s) underlying the role of phillyrin in the prevention of high glucose-induced lipid accumulation in human HepG2 hepatocytes.
+We found that phillyrin suppressed high glucose-induced lipid accumulation in HepG2 cells.
+Phillyrin strongly inhibited high glucose-induced fatty acid synthase (FAS) expression by modulating sterol regulatory element-binding protein-1c (SREBP-1c) activation.
+Moreover, use of the pharmacological AMP-activated protein kinase (AMPK) inhibitor compound C revealed that AMPK is essential for suppressing SREBP-1c expression in phillyrin-treated cells.
+Finally, we found that liver kinase B1 (LKB1) phosphorylation is required for the phillyrin-enhanced activation of AMPK in HepG2 hepatocytes.
+These results indicate that phillyrin prevents lipid accumulation in HepG2 cells by blocking the expression of SREBP-1c and FAS through LKB1/AMPK activation, suggesting that phillyrin is a novel AMPK activator with a role in the prevention and treatment of obesity.

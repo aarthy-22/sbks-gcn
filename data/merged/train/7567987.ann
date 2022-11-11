@@ -1,0 +1,23 @@
+T11	CHEMICAL 0 21	Aromatic-L-amino-acid
+T20	GENE-Y 0 35	Aromatic-L-amino-acid decarboxylase
+T12	CHEMICAL 39 58	pyridoxal phosphate
+T17	GENE-Y 178 185	insulin
+T1	CHEMICAL 418 427	glutamate
+T13	GENE-Y 418 441	glutamate decarboxylase
+T2	CHEMICAL 589 610	aromatic-L-amino-acid
+T14	GENE-Y 589 624	aromatic-L-amino-acid decarboxylase
+T15	GENE-Y 626 637	EC 4.1.1.28
+T3	CHEMICAL 781 802	Aromatic L-amino acid
+T16	GENE-Y 781 816	Aromatic L-amino acid decarboxylase
+T4	CHEMICAL 850 871	L-5-hydroxytryptophan
+T5	CHEMICAL 875 884	serotonin
+T6	CHEMICAL 897 925	L-3,4-dihydroxyphenylalanine
+T7	CHEMICAL 929 937	dopamine
+T8	CHEMICAL 954 973	pyridoxal phosphate
+T9	CHEMICAL 998 1019	aromatic L-amino acid
+T18	GENE-Y 998 1033	aromatic L-amino acid decarboxylase
+T10	CHEMICAL 1038 1047	glutamate
+T19	GENE-Y 1038 1061	glutamate decarboxylase
+R0	CPR-9 Arg1:T6 Arg2:T16
+R1	NOT Arg1:T8 Arg2:T19
+R2	NOT Arg1:T18 Arg2:T10

@@ -1,0 +1,14 @@
+Mifepristone alters expression of endometrial steroid receptors and their cofactors in new users of medroxyprogesterone acetate.
+OBJECTIVE: To evaluate the effect of mifepristone on the expression of endometrial steroid receptors and their co-factors in depot medroxyprogesterone acetate (DMPA) users.
+DESIGN: A prospective, randomized, placebo-controlled trial.
+SETTING: Reproductive research center.
+PATIENT(S): Fifty healthy women with regular menstrual cycle.
+INTERVENTION(S): One hundred fifty milligrams of DMPA were given every 3 months.
+Two pills (25 mg each) of placebo or mifepristone were administered every 14 days during the DMPA therapy.
+Four endometrial biopsy specimens were obtained from each patient.
+MAIN OUTCOME MEASURE(S): The expression of estrogen receptor subtypes alpha and beta (ERalpha and ERbeta), progesterone receptors A and B (PRAB and PRB), and androgen receptor messenger RNA and protein was detected by real-time polymerase chain reaction and immunohistochemistry, respectively.
+Steroid receptor coactivator 1 (SRC-1), silencing mediator for retinoid and thyroid-hormone receptors, and cell proliferation were evaluated by immunohistochemistry.
+RESULT(S): The expression of endometrial ERalpha, PRAB, PRB, and SRC-1 was increased significantly after 1 week of mifepristone, but the increase was no longer seen after 10 weeks.
+A positive correlation between endometrial ERalpha, PRAB, PRB, and SRC-1 production and proliferation was demonstrated.
+CONCLUSION(S): Short-term exposure of mifepristone in new starters of DMPA increases the expression of endometrial ERalpha, PRAB, PRB, and SRC-1 and promotes cell proliferation.
+Prolonged exposure to mifepristone does not alter the suppression of these receptors that are caused by DMPA and continues to result in endometrial atrophy.

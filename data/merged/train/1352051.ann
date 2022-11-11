@@ -1,0 +1,9 @@
+T3	CHEMICAL 532 543	haloperidol
+T4	CHEMICAL 545 559	chlorpromazine
+T5	CHEMICAL 561 570	clozapine
+T6	CHEMICAL 572 584	prothipendyl
+T7	CHEMICAL 589 601	thioridazine
+T1	CHEMICAL 1294 1302	dopamine
+T8	GENE-Y 1294 1314	dopamine-D1-receptor
+T2	CHEMICAL 1439 1447	dopamine
+T9	GENE-Y 1439 1459	dopamine-D2 receptor

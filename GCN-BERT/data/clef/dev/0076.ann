@@ -1,0 +1,14 @@
+T0	STARTING_MATERIAL 158 218	(3R,4R)-1-(2-aminoethyl)pyrrolidine-3,4-diol dihydrochloride
+T7	REACTION_STEP 125 133	prepared
+T1	REACTION_PRODUCT 12 106	2-Chloro-N-[2-[(3R,4R)-3,4-dihydroxypyrrolidin-1-yl]ethyl]-4-(6-fluoro-1H-indol-3-yl)benzamide
+T2	YIELD_OTHER 350 356	6.7 mg
+T3	EXAMPLE_LABEL 8 11	116
+T4	YIELD_PERCENT 358 361	19%
+T5	STARTING_MATERIAL 139 153	Intermediate 6
+T6	REACTION_PRODUCT 334 348	title compound
+T8	REACTION_STEP 323 329	afford
+R0	ARG1 Arg1:T7 Arg2:T5
+R1	ARG1 Arg1:T7 Arg2:T0
+R2	ARG1 Arg1:T8 Arg2:T6
+R3	ARGM Arg1:T8 Arg2:T2
+R4	ARGM Arg1:T8 Arg2:T4

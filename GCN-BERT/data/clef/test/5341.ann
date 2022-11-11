@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 8 9	2
+T2	REACTION_PRODUCT 10 162	(2R,2'R)-1,1'-(((((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-bromo-4,1-phenylene))bis(methylene))bis(piperidine-2-carboxylic
+T3	REACTION_PRODUCT 174 175	2
+T4	REACTION_PRODUCT 217 374	(2R,2'R)-1,1'-(((((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-bromo-4,1-phenylene))bis(methylene))bis(piperidine-2-carboxylic acid
+T5	REACTION_PRODUCT 394 478	4,4'-(2,2'-dimethylbiphenyl-3,3'-diyl)bis(methylene)bis(oxy)bis(3-bromobenzaldehyde)
+T6	REACTION_PRODUCT 483 515	(R)-piperidine-2-carboxylic acid
+T7	OTHER_COMPOUND 582 585	TFA
+T8	OTHER_COMPOUND 589 592	H2O
+T9	OTHER_COMPOUND 594 597	ACN
+T10	OTHER_COMPOUND 728 731	ACN
+T11	OTHER_COMPOUND 732 735	H2O
+T12	OTHER_COMPOUND 736 740	MeOH
+T13	OTHER_COMPOUND 741 744	THF
+T14	REACTION_PRODUCT 756 913	(2R,2'R)-1,1'-(((((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-bromo-4,1-phenylene))bis(methylene))bis(piperidine-2-carboxylic acid
+T15	YIELD_OTHER 916 921	250 g
+T16	YIELD_PERCENT 923 926	20%

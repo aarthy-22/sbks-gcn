@@ -1,0 +1,21 @@
+T1	EXAMPLE_LABEL 8 10	35
+T2	REACTION_PRODUCT 26 150	trans-N-(3-(2-Benzylldenehydrazine-1-carbonyl)-4-chlorophenyl)-2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamide
+T3	REACTION_PRODUCT 152 157	F3001
+T4	STARTING_MATERIAL 176 298	trans-2,2-dichloro-N-(4-chloro-3-(hydrazinecarbonyl)phenyl)-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamide hydrochloride
+T5	STARTING_MATERIAL 300 305	F2567
+T6	SOLVENT 331 338	ethanol
+T7	REAGENT_CATALYST 358 383	sodium acetate trihydrate
+T8	TEMPERATURE 407 423	room temperature
+T9	TIME 456 462	15 min
+T10	STARTING_MATERIAL 464 476	Benzaldehyde
+T11	REAGENT_CATALYST 518 529	acetic acid
+T12	TEMPERATURE 580 596	room temperature
+T13	TIME 601 609	16 hours
+T14	OTHER_COMPOUND 648 653	water
+T15	OTHER_COMPOUND 681 694	ethyl acetate
+T16	OTHER_COMPOUND 749 763	sodium sulfate
+T17	OTHER_COMPOUND 866 879	ethyl acetate
+T18	OTHER_COMPOUND 880 895	petroleum ether
+T19	REACTION_PRODUCT 919 933	title compound
+T20	YIELD_OTHER 957 964	0.110 g
+T21	YIELD_PERCENT 966 969	35%

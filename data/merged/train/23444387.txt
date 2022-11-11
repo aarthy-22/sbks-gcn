@@ -1,0 +1,14 @@
+Significance of reductive metabolism in human intestine and quantitative prediction of intestinal first-pass metabolism by cytosolic reductive enzymes.
+The number of new drug candidates that are cleared via non-cytochrome P450 (P450) enzymes has increased.
+However, unlike oxidation by P450, the roles of reductive enzymes are less understood.
+The metabolism in intestine is especially not well known.
+The purposes of this study were to investigate the significance of reductive metabolism in human intestine, and to establish a quantitative prediction method of intestinal first-pass metabolism by cytosolic reductive enzymes, using haloperidol, mebendazole, and ziprasidone.
+First, we estimated the metabolic activities for these compounds in intestine and liver using subcellular fractions.
+Metabolic activities were detected in human intestinal cytosol (HIC) for all three compounds, and the intrinsic clearance values were higher than those in human liver cytosol for haloperidol and mebendazole.
+These metabolic activities in HIC were NADPH- and/or NADH-dependent.
+Furthermore, the metabolic activities for all three compounds in HIC were largely inhibited by menadione, which has been used as a carbonyl reductase (CBR)-selective chemical inhibitor.
+Therefore, considering subcellular location, cofactor requirement, and chemical inhibition, these compounds might be metabolized by CBRs in human intestine.
+Subsequently, we tried to quantitatively predict intestinal availability (Fg) for these compounds using human intestinal S9 (HIS9).
+Our prediction model using apparent permeability of parallel artificial membrane permeability assay and metabolic activities in HIS9 could predict Fg in humans for the three compounds well.
+In conclusion, CBRs might have higher metabolic activities in human intestine than in human liver.
+Furthermore, our prediction method of human Fg using HIS9 is applicable to substrates of cytosolic reductive enzymes.

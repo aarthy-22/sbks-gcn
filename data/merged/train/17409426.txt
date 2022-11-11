@@ -1,0 +1,13 @@
+Nonsteroidal anti-inflammatory drugs induce colorectal cancer cell apoptosis by suppressing 14-3-3epsilon.
+To determine the role of 14-3-3 in colorectal cancer apoptosis induced by nonsteroidal anti-inflammatory drugs (NSAIDs), we evaluated the effects of sulindac on 14-3-3epsilon protein expression in colorectal cancer cells.
+Sulindac sulfide inhibited 14-3-3epsilon proteins in HT-29 and DLD-1 cells in a time- and concentration-dependent manner.
+Sulindac sulfone at 600 mumol/L inhibited 14-3-3epsilon protein expression in HT-29.
+Indomethacin and SC-236, a selective cyclooxygenase-2 (COX-2) inhibitor, exerted a similar effect as sulindac.
+Sulindac suppressed 14-3-3epsilon promoter activity.
+As 14-3-3epsilon promoter activation is mediated by peroxisome proliferator-activated receptor delta (PPARdelta), we determined the correlation between 14-3-3epsilon inhibition and PPARdelta suppression by NSAIDs.
+Sulindac sulfide inhibited PPARdelta protein expression and PPARdelta transcriptional activity.
+Overexpression of PPARdelta by adenoviral transfer rescued 14-3-3epsilon proteins from elimination by sulindac or indomethacin.
+NSAID-induced 14-3-3epsilon suppression was associated with reduced cytosolic Bad with elevation of mitochondrial Bad and increase in apoptosis which was rescued by Ad-PPARdelta transduction.
+Stable expression of 14-3-3epsilon in HT-29 significantly protected cells from apoptosis.
+Our findings shed light on a novel mechanism by which NSAIDs induce colorectal cancer apoptosis via the PPARdelta/14-3-3epsilon transcriptional pathway.
+These results suggest that 14-3-3epsilon is a target for the prevention and therapy of colorectal cancer.

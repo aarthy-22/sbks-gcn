@@ -1,0 +1,20 @@
+T12	CHEMICAL 33 40	aspirin
+T1	CHEMICAL 83 90	Aspirin
+T5	CHEMICAL 232 239	aspirin
+T14	GENE-Y 250 266	cyclooxygenase-1
+T15	GENE-Y 268 273	COX-1
+T16	GENE-Y 382 387	COX-2
+T17	GENE-Y 455 460	COX-1
+T6	CHEMICAL 563 570	aspirin
+T7	CHEMICAL 614 621	aspirin
+T8	CHEMICAL 824 831	aspirin
+T9	CHEMICAL 944 960	arachidonic acid
+T10	CHEMICAL 979 1000	cysteinyl leukotriene
+T18	GENE-Y 979 1012	cysteinyl leukotriene 1 receptors
+T11	CHEMICAL 1053 1066	acetaminophen
+T13	GENE-Y 1131 1136	COX-1
+T2	CHEMICAL 1157 1174	sodium salicylate
+T3	CHEMICAL 1178 1209	choline magnesium trisalicylate
+T4	CHEMICAL 1398 1405	aspirin
+R0	CPR-4 Arg1:T3 Arg2:T13
+R1	NOT Arg1:T9 Arg2:T18

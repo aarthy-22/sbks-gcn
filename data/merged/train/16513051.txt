@@ -1,0 +1,7 @@
+[5'-adenosine monophosphate-activated protein kinase and lifestyle-mediated diseases].
+5'-adenosine monophosphate-activated protein kinase (AMPK) is an enzyme activated when cellular energy status is threatened.
+AMPK activates energy-providing processes, while energy-consuming processes are inhibited.
+AMPK is also involved in regulation of gene expression and in appetite control.
+Pharmacological activation of AMPK in animal models of the metabolic syndrome leads to marked amelioration of symptoms.
+Some antidiabetic drugs activate AMPK, and activation also occurs during physical exercise.
+It is likely that part of the effect of physical activity in preventing the development of diseases related to a sedentary lifestyle is due to activation of AMPK.

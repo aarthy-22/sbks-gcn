@@ -1,0 +1,13 @@
+Protective effect of vitamin E and epicatechin against nicotine-induced oxidative stress in rats.
+Nicotine is a major pharmacologically active and addictive component of tobacco smoke, which is regarded to be a primary risk factor in the development of cardiovascular and pulmonary diseases.
+Epicatechin is one of the most potent antioxidants present in the human diet.
+Particularly high levels of this compound are found in tea, apples and chocolate.
+It has been reported that tea extracts and/or its constituents have antibacterial, antiviral, antioxidative, antitumor and antimutagenic activities.
+Vitamin E is a major lipid-soluble antioxidant vitamin and free radical scavenger, presents as an integral component of cellular membranes and has important biological functions.
+The primary mechanism by which vitamin E is proposed to prevent cancer is through their antioxidant properties.
+The goal of this study is to evaluate the effect of epicatechin alone or combined with vitamin E in inhibiting the oxidative stress induced by nicotine in rats.
+Results obtained indicated that there was a significant elevation in the levels of malondialdhyde (MDA) in nicotine injected rats.
+The combined treatment (epicatechin + Vit E) group showed a potential reduction of these parameters more than individual treatment.
+The activities of superoxide dismutase, catalase and glutathione peroxidase were found significantly higher in combined treated than untreated rats.
+In nicotine group, a negative significant correlation between reduced glutathione and MDA (r = -0.92) was observed.
+In conclusion, these results suggested that the supplementation of diet with epicatechin and vitamin E provided antioxidant defense with strong chemopreventive activity against nicotine-induced carcinogenesis.

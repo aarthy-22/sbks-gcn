@@ -1,0 +1,12 @@
+Alcohol cirrhosis alters nuclear receptor and drug transporter expression in human liver.
+Unsafe use of alcohol results in approximately 2.5 million deaths worldwide, with cirrhosis contributing to 16.6% of reported deaths.
+Serum insulin levels are often elevated in alcoholism and may result in diabetes, which is why alcoholic liver disease and diabetes often are present together.
+Because there is a sizable population with these diseases alone or in combination, the purpose of this study was to determine whether transporter expression in human liver is affected by alcoholic cirrhosis, diabetes, and alcoholic cirrhosis coexisting with diabetes.
+Transporters aid in hepatobiliary excretion of many drugs and toxic chemicals and can be determinants of drug-induced liver injury.
+Drug transporter expression and transcription factor-relative mRNA and protein expression in normal, diabetic, cirrhotic, and cirrhosis with diabetes human livers were quantified.
+Cirrhosis significantly increased ABCC4, 5, ABCG2, and solute carrier organic anion (SLCO) 2B1 mRNA expression and decreased SLCO1B3 mRNA expression in the liver.
+ABCC1, 3-5, and ABCG2 protein expression was also upregulated by alcoholic cirrhosis.
+ABCC3-5 and ABCG2 protein expression was also upregulated in diabetic cirrhosis.
+Cirrhosis increased nuclear factor E2-related factor 2 mRNA expression, whereas it decreased pregnane-X-receptor and farnesoid-X-receptor mRNA expression in comparison with normal livers.
+Hierarchical cluster analysis indicated that expressions of ABCC2, 3, and 6; SLCO1B1 and 1B3; and ABCC4 and 5 were more closely related in the livers from this cohort.
+Overall, alcoholic cirrhosis altered transporter expression in human liver.

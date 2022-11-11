@@ -1,0 +1,29 @@
+T12	CHEMICAL 37 57	hexose monophosphate
+T5	CHEMICAL 159 179	hexose monophosphate
+T22	GENE-N 211 221	hydrolases
+T4	CHEMICAL 373 384	glutathione
+T18	GENE-N 373 395	glutathione peroxidase
+T6	CHEMICAL 542 544	Se
+T7	CHEMICAL 567 578	glutathione
+T19	GENE-N 567 589	glutathione peroxidase
+T8	CHEMICAL 829 849	hexose monophosphate
+T9	CHEMICAL 857 876	glucose-6-phosphate
+T20	GENE-Y 857 890	glucose-6-phosphate dehydrogenase
+T10	CHEMICAL 895 913	6-phosphogluconate
+T21	GENE-Y 895 927	6-phosphogluconate dehydrogenase
+T23	GENE-N 1052 1071	lysosomal hydrolase
+T24	GENE-N 1073 1101	beta-N-acetylglucosaminidase
+T11	CHEMICAL 1078 1079	N
+T13	GENE-N 1171 1192	nonlysosomal protease
+T14	GENE-N 1194 1211	alkaline protease
+T1	CHEMICAL 1286 1288	Se
+T2	CHEMICAL 1299 1310	glutathione
+T15	GENE-N 1299 1321	glutathione peroxidase
+T3	CHEMICAL 1323 1341	6-phosphogluconate
+T16	GENE-Y 1323 1355	6-phosphogluconate dehydrogenase
+T17	GENE-N 1368 1378	hydrolases
+R0	NOT Arg1:T9 Arg2:T21
+R1	NOT Arg1:T1 Arg2:T15
+R2	NOT Arg1:T2 Arg2:T17
+R3	NOT Arg1:T15 Arg2:T3
+R4	NOT Arg1:T3 Arg2:T17

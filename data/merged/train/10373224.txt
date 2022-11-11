@@ -1,0 +1,14 @@
+Mechanistic differences of various AT1-receptor blockers in isolated vessels of different origin.
+The functional inhibitory characteristics of the angiotensin II type 1 receptor blockers (ARB) candesartan; irbesartan; and losartan and its active metabolite EXP 3174 (EXP) were studied in rabbit aortic strips and rat portal vein preparations in vitro.
+Moreover, plasma-protein binding was determined, and the binding was high (>98.
+5%) for all ARBs.
+These values were needed to relate the concentrations of the ARBs used in vitro to the nonprotein bound concentrations in clinical use.
+In both vascular preparations, candesartan caused a marked decrease in the maximal contractile response of the angiotensin II (Ang II) concentration-response curve.
+Losartan, EXP, and irbesartan caused a rightward parallel shift without any major effects on the maximal response to Ang II.
+The inhibitory effect of candesartan developed slowly (maximal effect after >30 minutes) and lasted >2 hours despite repeated washing of the vessels.
+The effect of losartan, irbesartan, and EXP had a faster onset, and most of the inhibitory effect disappeared after washing.
+The duration of the inhibitory effects of the ARBs were not related to lipophilicity of the compounds.
+Cooling of the rat portal vein preparations to 4 degrees C before administration of candesartan prevented the persistent inhibition of Ang II response seen at 37 degrees C. For the other ARBs studied, the magnitude of inhibition and the speed of recovery of the Ang II response were independent of the incubation temperature before washing.
+In addition, when candesartan was given to conscious rats, the inhibitory effect on Ang II-induced blood pressure responses persisted during the 24-hour period despite nondetectable plasma concentrations of candesartan at 24 hours.
+It is concluded that functional inhibitory characteristics of candesartan differ from those of the other ARBs tested.
+At clinically relevant concentrations, candesartan is an insurmountable and long-lasting antagonist of the vascular contractile responses to Ang II.

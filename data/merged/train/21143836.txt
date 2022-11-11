@@ -1,0 +1,11 @@
+ASIC3 channels integrate agmatine and multiple inflammatory signals through the nonproton ligand sensing domain.
+BACKGROUND: Acid-sensing ion channels (ASICs) have long been known to sense extracellular protons and contribute to sensory perception.
+Peripheral ASIC3 channels represent natural sensors of acidic and inflammatory pain.
+We recently reported the use of a synthetic compound, 2-guanidine-4-methylquinazoline (GMQ), to identify a novel nonproton sensing domain in the ASIC3 channel, and proposed that, based on its structural similarity with GMQ, the arginine metabolite agmatine (AGM) may be an endogenous nonproton ligand for ASIC3 channels.
+RESULTS: Here, we present further evidence for the physiological correlation between AGM and ASIC3.
+Among arginine metabolites, only AGM and its analog arcaine (ARC) activated ASIC3 channels at neutral pH in a sustained manner similar to GMQ.
+In addition to the homomeric ASIC3 channels, AGM also activated heteromeric ASIC3 plus ASIC1b channels, extending its potential physiological relevance.
+Importantly, the process of activation by AGM was highly sensitive to mild acidosis, hyperosmolarity, arachidonic acid (AA), lactic acid and reduced extracellular Ca2+.
+AGM-induced ASIC3 channel activation was not through the chelation of extracellular Ca2+ as occurs with increased lactate, but rather through a direct interaction with the newly identified nonproton ligand sensing domain.
+Finally, AGM cooperated with the multiple inflammatory signals to cause pain-related behaviors in an ASIC3-dependent manner.
+CONCLUSIONS: Nonproton ligand sensing domain might represent a novel mechanism for activation or sensitization of ASIC3 channels underlying inflammatory pain-sensing under in vivo conditions.

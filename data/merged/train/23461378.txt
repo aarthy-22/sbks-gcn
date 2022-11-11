@@ -1,0 +1,14 @@
+Dissecting the relative contribution of OATP1B1-mediated uptake of xenobiotics into human hepatocytes using siRNA.
+Abstract 1.
+Organic anion transporting polypeptide 1B1 plays a pivotal role in the disposition of many anionic drugs.
+Significant overlap in substrate specificity between individual OATP isoforms has hampered the identification of the relative importance of individual isoforms for hepatic uptake of xenobiotics.
+2.
+The present study focused on the use of siRNA technology to decrease OATP1B1 selectively in human hepatocytes.
+Following delivery of siRNA by the novel lipid, AtuFECT01, mRNA expression of OATP1B1 was reduced by 94%-98% with no significant toxicity.
+Off-target effects were also shown to be minimal as evidenced by the expression of common drug metabolizing enzymes, transporters, nuclear receptors and associated co-regulators.
+Uptake of estrone-3-sulfate (5 nM) by OATP1B1 was reduced by 82%-95%.
+This methodology was subsequently used to assess the relative contribution of OATP1B1 uptake in human hepatocytes for olmesartan (42%-62%), valsartan (28%-81%), rosuvastatin (64%-72%), pitavastatin (84%-98%) and lopinavir (64%-89%).
+These data are consistent with previous values obtained using a relative activity factor approach.
+3.
+The siRNA approach provides a robust and reproducible method for assessing the relative contribution of OATP1B1 to hepatic uptake of new chemical entities.
+The technique also has potential utility in facilitating detailed characterization of drug-drug interactions involving hepatic drug transporters.

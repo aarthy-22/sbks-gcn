@@ -1,0 +1,8 @@
+Segmental and complementary expression of L-serine biosynthetic enzyme 3-phosphoglycerate dehydrogenase and neutral amino acid transporter ASCT1 in the mouse kidney.
+3-Phosphoglycerate dehydrogenase (Phgdh) is the initial step enzyme in the phosphorylated pathway of L-serine biosynthesis.
+We have previously revealed in the brain that Phgdh is preferentially expressed in glial cells, but not in neurons, and that glia-borne L-serine exerts strong neurotrophic actions to neuronal survive, differentiation, and development.
+To investigate whether such an L-serine-meditated intercellular relationship is constructed in peripheral organs and tissues, we examined the kidney, which is one of the organs with the highest expression of Phgdh mRNA in the body.
+We found that Phgdh was distributed highly in the renal papilla and inner layer of the outer zone and moderately in the cortex, whereas it was almost negative in the outer layer of the outer zone.
+This heterogeneous distribution was due to selective expression in distinct tubular segments, i.e., the Bowman's capsule, proximal tubule, and thin limbs of the Henle's loop.
+Interestingly, neutral amino acid transporter ASCT1, which preferentially transports alanine, serine, cysteine, and threonine, was selectively expressed in Phgdh-negative tubular segments, i.e., the distal tubule and collecting duct.
+Therefore, either Phgdh or ASCT1 is provided to each segment of renal tubules, suggesting that metabolic interplay mediated by L-serine biosynthesis and supply may exist in the kidney too.

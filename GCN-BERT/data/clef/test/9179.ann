@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 7	23
+T2	REACTION_PRODUCT 8 98	(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-5-(2,6-difluorophenyl)-4-nitropyrrolidine-2-carboxylate
+T3	EXAMPLE_LABEL 104 107	23A
+T4	REACTION_PRODUCT 108 159	(E)-ethyl 2-((2,6-difluorobenzylidene)amino)acetate
+T5	STARTING_MATERIAL 173 207	ethyl 2-aminoacetate hydrochloride
+T6	REAGENT_CATALYST 233 250	magnesium sulfate
+T7	SOLVENT 274 289	dichloromethane
+T8	REAGENT_CATALYST 330 343	triethylamine
+T9	TIME 380 390	30 minutes
+T10	STARTING_MATERIAL 408 432	2,6-difluorobenzaldehyde
+T11	SOLVENT 479 494	dichloromethane
+T12	TEMPERATURE 531 550	ambient temperature
+T13	OTHER_COMPOUND 626 633	toluene
+T14	REACTION_PRODUCT 716 767	(E)-ethyl 2-((2,6-difluorobenzylidene)amino)acetate
+T15	YIELD_OTHER 769 774	2.9 g
+T16	YIELD_OTHER 776 786	12.76 mmol
+T17	YIELD_PERCENT 788 791	96%

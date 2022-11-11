@@ -1,0 +1,24 @@
+T11	CHEMICAL 15 25	tamsulosin
+T20	GENE-N 68 103	alpha 1A- and alpha 1D-adrenoceptor
+T16	GENE-N 136 156	alpha 1-adrenoceptor
+T6	CHEMICAL 168 178	tamsulosin
+T19	GENE-N 212 232	alpha 1-adrenoceptor
+T14	GENE-N 273 296	human prostate receptor
+T15	GENE-Y 308 330	alpha 1D-adrenoceptors
+T3	CHEMICAL 349 359	tamsulosin
+T17	GENE-N 439 460	alpha 1B-adrenoceptor
+T4	CHEMICAL 515 525	tamsulosin
+T5	CHEMICAL 626 636	Tamsulosin
+T18	GENE-N 682 703	alpha 1A-adrenoceptor
+T7	CHEMICAL 788 801	phenylephrine
+T8	CHEMICAL 965 975	tamsulosin
+T9	CHEMICAL 1028 1047	5-hydroxytryptamine
+T10	CHEMICAL 1049 1053	5-HT
+T1	CHEMICAL 1143 1153	tamsulosin
+T12	GENE-Y 1283 1304	alpha 1B-adrenoceptor
+T2	CHEMICAL 1335 1345	tamsulosin
+T13	GENE-N 1390 1411	alpha 1-adrenoceptors
+R0	CPR-2 Arg1:T3 Arg2:T15
+R1	CPR-6 Arg1:T5 Arg2:T18
+R2	NOT Arg1:T18 Arg2:T8
+R3	NOT Arg1:T1 Arg2:T12

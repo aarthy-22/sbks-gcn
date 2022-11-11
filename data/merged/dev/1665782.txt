@@ -1,0 +1,11 @@
+Chronic effect of [D-Pen2,D-Pen5]enkephalin on rat brain opioid receptors.
+In previous studies, we have demonstrated that chronic etorphine or [D-Ala2,D-Leu5]enkephalin (DADLE) treatment of rats results in the reduction of mu- and delta-opioid receptor binding activities as tolerance develops.
+As both etorphine and DADLE are relatively non-specific opioid ligands, interacting with both mu- and delta-receptors, these studies could not determine whether down-regulation of a specific receptor type occurs.
+Therefore, in the present studies, animals were rendered tolerant to the delta-opioid receptor-selective agonist [D-Pen2,D-Pen5]enkephalin (DPDPE), and receptor binding activities were measured.
+Treating Sprague-Dawley rats with increasing doses of DPDPE (80-160-240-320 micrograms/kg) i.c.v.
+for 1 to 4 days resulted in a time-dependent increase in the AD50 of DPDPE to elicit an antinociceptive response.
+When delta-receptor binding was determined by using [3H]DPDPE, a 40-50% decrease in binding in the midbrain and cortex, and 25-35% decrease in binding in the striatum were observed after 3 or 4 days of DPDPE treatment.
+Scatchard analysis of the [3H]DPDPE saturation binding data revealed a decrease in Bmax values and no significant change in Kd values.
+To our surprise, when mu-receptor binding was determined by using [3H]Tyr-D-Ala-Gly-MePhe-Gly-ol (DAMGO), a 10-15% decrease in binding was also observed in the midbrain and cortex after 4 days of DPDPE treatment.
+Our conclusion is that chronic DPDPE treatment preferentially reduces delta-opioid receptor binding activity.
+Its minor effect on the mu-opioid receptor maybe due to an interaction between delta cx and mu cx binding sites.

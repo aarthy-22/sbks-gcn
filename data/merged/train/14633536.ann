@@ -1,0 +1,17 @@
+T8	CHEMICAL 117 125	dopamine
+T17	GENE-Y 117 137	dopamine D2 receptor
+T13	CHEMICAL 159 173	chlorpromazine
+T14	CHEMICAL 178 189	haloperidol
+T9	CHEMICAL 528 539	ondansetron
+T10	CHEMICAL 552 566	metoclopramide
+T11	CHEMICAL 578 592	metoclopramide
+T12	CHEMICAL 608 618	droperidol
+T15	CHEMICAL 1063 1074	bupivacaine
+T1	CHEMICAL 1118 1132	Metoclopramide
+T2	CHEMICAL 1228 1238	droperidol
+T3	CHEMICAL 1400 1410	droperidol
+T4	CHEMICAL 1412 1423	Ondansetron
+T5	CHEMICAL 1643 1651	dopamine
+T16	GENE-Y 1643 1663	dopamine D2 receptor
+T6	CHEMICAL 1913 1923	droperidol
+T7	CHEMICAL 1928 1942	metoclopramide

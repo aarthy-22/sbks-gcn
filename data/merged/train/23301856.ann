@@ -1,0 +1,16 @@
+T12	CHEMICAL 23 59	(99m)Tc-EDDA/tricine-HYNIC-Q-Litorin
+T15	GENE-Y 63 97	gastrin-releasing peptide receptor
+T11	CHEMICAL 134 142	Bombesin
+T14	GENE-Y 191 225	gastrin-releasing peptide receptor
+T13	GENE-Y 227 231	GRPr
+T1	CHEMICAL 395 416	hydrazinonicotinamide
+T2	CHEMICAL 418 423	HYNIC
+T3	CHEMICAL 427 434	Litorin
+T4	CHEMICAL 436 443	(99m)Tc
+T5	CHEMICAL 498 505	tricine
+T6	CHEMICAL 510 539	ethylenediamine diacetic acid
+T7	CHEMICAL 541 545	EDDA
+T8	CHEMICAL 650 658	cysteine
+T9	CHEMICAL 708 736	(99m)Tc-EDDA-HYNIC-Q-Litorin
+T10	CHEMICAL 741 772	(99m)Tc-tricine-HYNIC-Q-Litorin
+R0	CPR-2 Arg1:T11 Arg2:T13

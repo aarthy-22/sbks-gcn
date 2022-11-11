@@ -1,0 +1,5 @@
+Synthesis and cytotoxicity of 3-aryl acrylic amide derivatives of the simplified saframycin-ecteinascidin skeleton prepared from l-dopa.
+Twenty four compounds with diversified 3-aryl acrylic amide side chains of the simplified saframycin-ecteinascidin pentacyclic skeleton were synthesized via a 14-step stereospecific route starting from l-dopa.
+The cytotoxicities of these compounds were tested against eight human tumor cell lines including HCT-8, BEL-7402, BGC-803, A549, A2780, MCF-7, MX-1, and MDA-MB-231.
+Most of these compounds exhibited potent antitumor activity, and a preliminary structure-activity relationship (SAR) was discussed.
+Compound 28 with 3-thiophenyl acrylic amide side chain exhibited selective cytotoxicity against MDA-MB-231 cell line with the IC50 value of 50 nM.

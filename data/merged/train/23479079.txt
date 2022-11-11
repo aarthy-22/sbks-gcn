@@ -1,0 +1,12 @@
+Sulfide induces apoptosis and Rho kinase-dependent cell blebbing in Jurkat cells.
+Hydrogen sulfide (H2S) is a toxic gaseous substance, and accidental exposure to high concentrations of H2S has been reported to be lethal to humans.
+Inhaled and absorbed H2S is partially dissolved within the circulation and causes toxic effects on lymphocytes.
+However, the mechanisms involved in H2S toxicity have not been well documented.
+In this study, we examined the cellular uptake and injury of sulfide-exposed human T lymphocytes (Jurkat).
+Cells were exposed to a H2S donor, sodium hydroxysulfide (NaHS), at pH 6.0, 7.0, or 8.0 for 1 h at 37 °C in a sealed conical tube to avoid the loss of dissolved H2S gas.
+Cytotoxicity and cellular sulfide concentrations increased dramatically as the pH of the NaHS solution decreased.
+Sulfide enhanced the cleavage of caspase-3 and poly (ADP-ribose) polymerase and induced early cellular apoptosis.
+A pan-caspase inhibitor reduced sulfide-induced apoptosis.
+These results indicate that sulfide induces pH-dependent and caspase-dependent apoptosis.
+We also found that blebbing of the plasma membrane occurred in sulfide-exposed cells.
+Both ROCK-1 and ROCK-2 (Rho kinases) were activated by sulfide, and sulfide-induced cell blebbing was suppressed by a ROCK inhibitor, suggesting that a Rho pathway is involved in sulfide-induced blebbing in lymphocytes.

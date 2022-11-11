@@ -1,0 +1,27 @@
+T11	REACTION_STEP 399 407	stirring
+T0	EXAMPLE_LABEL 5 6	2
+T12	REACTION_STEP 465 473	obtained
+T1	REACTION_PRODUCT 8 126	tert-Butyl 5-(2,6-difluoro-4-(2-oxoethyl)phenyl)-3-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate
+T2	SOLVENT 380 383	DCM
+T13	REACTION_STEP 492 500	purified
+T3	REACTION_PRODUCT 480 487	product
+T4	YIELD_PERCENT 530 533	84%
+T5	REAGENT_CATALYST 346 354	pyridine
+T6	STARTING_MATERIAL 198 320	tert-butyl 5-(2,6-difluoro-3-(2-hydroxyethyl)phenyl)-3-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate
+T7	TEMPERATURE 411 415	r.t.
+T8	REAGENT_CATALYST 127 150	Dess-Martin periodinane
+T9	YIELD_OTHER 522 528	653 mg
+T10	TIME 420 423	1 h
+T14	REACTION_STEP 175 180	added
+R0	ARGM Arg1:T11 Arg2:T7
+R1	ARGM Arg1:T11 Arg2:T10
+R2	ARGM Arg1:T12 Arg2:T9
+R3	ARGM Arg1:T12 Arg2:T4
+R4	ARG1 Arg1:T12 Arg2:T3
+R5	ARG1 Arg1:T13 Arg2:T3
+R6	ARGM Arg1:T13 Arg2:T9
+R7	ARGM Arg1:T13 Arg2:T4
+R8	ARG1 Arg1:T14 Arg2:T8
+R9	ARG1 Arg1:T14 Arg2:T6
+R10	ARG1 Arg1:T14 Arg2:T5
+R11	ARG1 Arg1:T14 Arg2:T2

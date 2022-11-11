@@ -1,0 +1,31 @@
+T10	CHEMICAL 37 50	glutamic acid
+T27	GENE-Y 37 67	glutamic acid decarboxylase 65
+T28	GENE-N 71 78	calpain
+T3	CHEMICAL 109 124	l-glutamic acid
+T19	GENE-Y 109 149	l-glutamic acid decarboxylase isoform 65
+T22	GENE-Y 151 156	GAD65
+T1	CHEMICAL 231 241	amino acid
+T2	CHEMICAL 256 257	N
+T18	GENE-Y 268 284	GAD65(Delta1-69)
+T20	GENE-Y 472 477	GAD65
+T21	GENE-Y 633 654	human GAD65(Delta1-69
+T4	CHEMICAL 711 718	calcium
+T5	CHEMICAL 730 737	Calcium
+T6	CHEMICAL 765 769	EDTA
+T7	CHEMICAL 774 859	1,2-bis-(o-aminphenoxy)-ethane-N,N,N',N'-tetra-acetic acid tetra-acetoxy-methyl ester
+T23	GENE-Y 886 891	GAD65
+T24	GENE-N 930 937	calpain
+T8	CHEMICAL 941 948	calcium
+T25	GENE-N 941 976	calcium-dependent cysteine protease
+T9	CHEMICAL 959 967	cysteine
+T26	GENE-Y 1076 1081	GAD65
+T11	GENE-Y 1095 1100	GAD65
+T12	GENE-N 1125 1132	calpain
+T13	GENE-Y 1175 1186	calpastatin
+T14	GENE-N 1267 1274	calpain
+T15	GENE-Y 1294 1303	rat GAD65
+T16	GENE-Y 1333 1338	GAD65
+T17	GENE-N 1368 1375	calpain
+R0	NOT Arg1:T5 Arg2:T23
+R1	NOT Arg1:T24 Arg2:T8
+R2	NOT Arg1:T9 Arg2:T11

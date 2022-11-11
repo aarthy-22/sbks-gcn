@@ -1,0 +1,22 @@
+T9	CHEMICAL 28 40	nicotinamide
+T2	CHEMICAL 110 117	BRN-103
+T4	CHEMICAL 121 133	nicotinamide
+T13	GENE-Y 155 189	vascular endothelial growth factor
+T10	GENE-Y 191 195	VEGF
+T1	CHEMICAL 358 370	nicotinamide
+T3	CHEMICAL 442 551	2-{1-[1-(6-chloro-5-fluoropyrimidin-4-yl)ethyl]piperidin-4-ylamino}-N-(3-chlorophenyl) pyridine-3-carboxamide
+T5	CHEMICAL 553 560	BRN-250
+T6	CHEMICAL 755 762	BRN-250
+T11	GENE-Y 777 781	VEGF
+T7	CHEMICAL 824 832	tyrosine
+T12	GENE-N 824 839	tyrosine kinase
+T14	GENE-Y 852 867	VEGF receptor 2
+T15	GENE-Y 869 875	VEGFR2
+T16	GENE-N 914 917	AKT
+T8	CHEMICAL 971 978	BRN-250
+R0	CPR-4 Arg1:T6 Arg2:T14
+R1	CPR-4 Arg1:T6 Arg2:T16
+R2	NOT Arg1:T3 Arg2:T11
+R3	NOT Arg1:T3 Arg2:T15
+R4	NOT Arg1:T5 Arg2:T15
+R5	NOT Arg1:T7 Arg2:T16

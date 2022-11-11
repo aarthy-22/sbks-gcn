@@ -1,0 +1,10 @@
+T2	GENE-Y 1352 1356	NM23
+T3	GENE-Y 1358 1367	annexin-1
+T4	GENE-N 1369 1390	protein phosphatase-1
+T5	GENE-Y 1392 1412	ferritin light chain
+T6	GENE-Y 1414 1432	proteasome alpha-6
+T7	GENE-Y 1438 1442	NAGK
+T1	CHEMICAL 1444 1464	N-acetyl glucosamine
+T8	GENE-Y 1444 1471	N-acetyl glucosamine kinase
+R0	NOT Arg1:T3 Arg2:T1
+R1	NOT Arg1:T6 Arg2:T1

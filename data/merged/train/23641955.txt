@@ -1,0 +1,9 @@
+Using human recombinant UDP-glucuronosyltransferase isoforms and a relative activity factor approach to model total body clearance of laropiprant (MK-0524) in humans.
+Abstract 1.
+  A major pathway of elimination of the prostaglandin D2 receptor 1 antagonist laropiprant in humans is by uridine diphosphate-glucuronosyltransferase (UGT)-mediated biotransformation.
+In this study, liver and kidney relative activity factors were developed for UGT1A1, 1A9 and 2B7 to allow for in vitro-in vivo extrapolation of intrinsic clearance data to whole organ clearance using recombinant human UGT isoforms applying this to laropiprant as a model substrate.
+2.  The total body metabolic clearance of laropiprant determined using this approach (5.0 L/hr) agreed well with the value determined in vivo following intravenous administration to healthy human volunteers (5.1 L/hr).
+3.
+  The results suggest that approximately 36%, 36% and 28% of the hepatic metabolic clearance of laropiprant was mediated by UGT1A1, 1A9 and 2B7, respectively.
+Likewise, 80% and 20% of the renal metabolic clearance was mediated by UGT1A9 and 2B7, respectively.
+Furthermore, the data suggested that the contribution of the kidney to the overall total metabolic clearance was minor relative to the liver (∼ 12%).

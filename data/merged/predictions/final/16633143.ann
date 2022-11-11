@@ -1,0 +1,19 @@
+T17	CHEMICAL 0 10	Reboxetine
+T18	CHEMICAL 18 29	fluvoxamine
+T3	CHEMICAL 305 319	norepinephrine
+T7	CHEMICAL 324 333	serotonin
+T10	CHEMICAL 484 494	Reboxetine
+T11	CHEMICAL 508 522	norepinephrine
+T19	GENE 590 622	human norepinephrine transporter
+T12	CHEMICAL 596 610	norepinephrine
+T13	CHEMICAL 920 929	serotonin
+T14	CHEMICAL 949 960	fluvoxamine
+T15	CHEMICAL 1118 1128	reboxetine
+T16	CHEMICAL 1141 1152	fluvoxamine
+T1	CHEMICAL 1480 1490	reboxetine
+T2	CHEMICAL 1507 1518	fluvoxamine
+T4	CHEMICAL 1632 1642	reboxetine
+T5	CHEMICAL 1647 1658	fluvoxamine
+T6	CHEMICAL 1752 1762	Reboxetine
+T8	CHEMICAL 1802 1813	fluvoxamine
+T9	CHEMICAL 1940 1950	reboxetine

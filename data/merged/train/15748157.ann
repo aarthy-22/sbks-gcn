@@ -1,0 +1,34 @@
+T26	CHEMICAL 27 39	atorvastatin
+T27	CHEMICAL 48 57	glutamate
+T1	CHEMICAL 111 118	Statins
+T24	CHEMICAL 120 157	3-hydroxy-3-methylglutaryl-coenzyme A
+T32	GENE-Y 120 177	3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase
+T15	CHEMICAL 159 166	HMG-CoA
+T23	CHEMICAL 196 207	cholesterol
+T10	CHEMICAL 367 379	atorvastatin
+T11	CHEMICAL 482 494	atorvastatin
+T12	CHEMICAL 519 528	glutamate
+T13	CHEMICAL 535 541	oxygen
+T14	CHEMICAL 542 549	glucose
+T16	CHEMICAL 609 621	Atorvastatin
+T17	CHEMICAL 651 660	glutamate
+T18	CHEMICAL 700 716	propidium iodide
+T19	CHEMICAL 758 765	lactate
+T30	GENE-N 758 779	lactate dehydrogenase
+T20	CHEMICAL 799 810	tetrazolium
+T21	CHEMICAL 836 842	oxygen
+T22	CHEMICAL 843 850	glucose
+T25	CHEMICAL 1076 1106	3-hydroxy-3-methylglutaryl-CoA
+T31	GENE-Y 1076 1116	3-hydroxy-3-methylglutaryl-CoA reductase
+T2	CHEMICAL 1154 1164	mevalonate
+T3	CHEMICAL 1174 1185	isoprenoids
+T4	CHEMICAL 1232 1244	Atorvastatin
+T5	CHEMICAL 1260 1269	glutamate
+T6	CHEMICAL 1304 1311	calcium
+T7	CHEMICAL 1355 1359	NMDA
+T28	GENE-N 1355 1368	NMDA receptor
+T8	CHEMICAL 1395 1407	atorvastatin
+T9	CHEMICAL 1464 1494	3-hydroxy-3-methylglutaryl-CoA
+T29	GENE-Y 1464 1504	3-hydroxy-3-methylglutaryl-CoA reductase
+R0	NOT Arg1:T30 Arg2:T21
+R1	NOT Arg1:T5 Arg2:T28

@@ -1,0 +1,4 @@
+[EXAMPLE 24]
+Synthesis of compound I-055
+Step 1 Synthesis of compound 55a
+To a suspension of the compound 54b (1.21 g, 5.0 mmol) in dichloromethane (12 mL), methanesulfonyl chloride (0.468 mL, 6.0 mmol) and triethylamine (1.73 mL, 12.5 mmol) were added under ice cooling. Under ice cooling, the mixture was stirred for 1 hour. Then, dilute hydrochloric acid was added to the mixture, followed by extraction with ethyl acetate. The organic layer was washed by water, an aqueous solution of sodium hydrogen carbonate, and brine in this order and dried over anhydrous magnesium sulfate. After filtration, the filtrate was concentrated under reduced pressure. Isopropyl acetate was added to the residue. The resulting solid was collected by filtration and dried under reduced pressure to afford the compound 55a (1.15 g, yield 81%) as a white solid.

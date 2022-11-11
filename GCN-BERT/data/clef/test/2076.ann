@@ -1,0 +1,7 @@
+T1	EXAMPLE_LABEL 8 12	405A
+T2	REACTION_PRODUCT 13 134	6-{[(2-Aminoethyl)amino]methyl}-3-(2-methoxyethyl)-5-methyl-1-(oxetan-2-ylmethyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+T3	STARTING_MATERIAL 221 243	compound from Ex. 380A
+T4	STARTING_MATERIAL 270 287	1,2-diaminoethane
+T5	YIELD_PERCENT 317 320	66%
+T6	REACTION_PRODUCT 339 353	title compound
+T7	TIME 387 391	18 h

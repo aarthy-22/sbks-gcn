@@ -1,0 +1,12 @@
+T1	YIELD_PERCENT 640 642	6%
+T2	REACTION_PRODUCT 593 607	title compound
+T3	STARTING_MATERIAL 363 383	trifluoroacetic acid
+T4	SOLVENT 331 346	dichloromethane
+T5	TEMPERATURE 437 440	0°C
+T6	TEMPERATURE 359 362	0°C
+T7	REACTION_PRODUCT 20 145	(2S,5R)-2-((2-azaspiro[3.5]nonane-7-yl)carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl hydrogen sulfate · trifluoroacetate
+T8	STARTING_MATERIAL 146 293	Tetra(n-butyl)ammonium (2S,5R)-2-((2-(tert-butyloxycarbonyl)-2-azaspiro[3.5]nonane-7-yl) carbamoyl)-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl sulfate
+T9	TIME 445 448	1 h
+T10	OTHER_COMPOUND 454 465	ethyl ether
+T11	YIELD_OTHER 627 632	12 mg
+T12	EXAMPLE_LABEL 1 3	10

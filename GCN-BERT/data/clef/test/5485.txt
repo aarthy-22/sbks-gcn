@@ -1,0 +1,2 @@
+Step 1. 5-(Trifluoromethyl)pyrazin-2-amine
+2-Chloro-5-(trifluoromethyl)pyrazine (5.0 g, 27 mmol) (Oakwood Products, 075803) was stirred in ammonium hydroxide (190 mL, 2.7 mol) and heated to 80° C. for 3.5 h in a sealed pressure vessel. After cooling to rt, the aqueous mixture was extracted with DCM (4×). The extracts were combined, dried over sodium sulfate, filtered, and concentrated to afford the title compound as a white solid (4.0 g, 90%).

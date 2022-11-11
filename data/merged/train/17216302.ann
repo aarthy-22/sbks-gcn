@@ -1,0 +1,8 @@
+T5	CHEMICAL 0 22	Pyridoxal 5'-phosphate
+T1	CHEMICAL 270 297	pyridox(am)ine-5'-phosphate
+T6	GENE-Y 270 305	pyridox(am)ine-5'-phosphate oxidase
+T7	GENE-Y 307 311	PNPO
+T2	CHEMICAL 396 418	pyridoxal 5'-phosphate
+T3	CHEMICAL 420 423	PLP
+T4	CHEMICAL 693 696	PLP
+T8	GENE-Y 850 854	PNPO

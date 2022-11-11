@@ -1,0 +1,20 @@
+T9	CHEMICAL 7 22	tranexamic acid
+T6	CHEMICAL 149 164	tranexamic acid
+T5	CHEMICAL 366 381	Tranexamic acid
+T7	CHEMICAL 639 654	tranexamic acid
+T14	GENE-Y 786 797	prothrombin
+T15	GENE-Y 827 841	thromboplastin
+T16	GENE-Y 855 866	plasminogen
+T17	GENE-Y 868 888	beta-thromboglobulin
+T18	GENE-N 893 903	fibrinogen
+T19	GENE-N 981 1012	fibrinogen degradation products
+T20	GENE-N 1014 1017	FDP
+T8	CHEMICAL 1044 1059	tranexamic acid
+T1	CHEMICAL 1323 1338	tranexamic acid
+T2	CHEMICAL 1436 1451	tranexamic acid
+T10	GENE-Y 1524 1535	plasminogen
+T3	CHEMICAL 1572 1587	tranexamic acid
+T11	GENE-Y 1648 1668	beta-thromboglobulin
+T12	GENE-N 1670 1680	fibrinogen
+T13	GENE-N 1685 1688	FDP
+T4	CHEMICAL 1900 1915	tranexamic acid

@@ -1,0 +1,7 @@
+Expression of cAMP-responsive element binding proteins (CREBs) in fast- and slow-twitch muscles: A signaling pathway to account for the synaptic expression of collagen-tailed subunit (ColQ) of acetylcholinesterase at the rat neuromuscular junction.
+The gene encoding the collagen-tailed subunit (ColQ) of acetylcholinesterase (AChE) contains two distinct promoters that drive the production of two ColQ mRNAs, ColQ-1 and ColQ-1a, in slow- and fast-twitch muscles, respectively.
+ColQ-1a is expressed at the neuromuscular junction (NMJ) in fast-twitch muscle, and this expression depends on trophic factors supplied by motor neurons signaling via a cAMP-dependent pathway in muscle.
+To further elucidate the molecular basis of ColQ-1a's synaptic expression, here we investigated the expression and localization of cAMP-responsive element binding protein (CREB) at the synaptic and extra-synaptic regions of fast- and slow-twitch muscles from adult rats.
+The total amount of active, phosphorylated CREB (P-CREB) present in slow-twitch soleus muscle was higher than that in fast-twitch tibialis muscle, but P-CREB was predominantly expressed in the fast-twitch muscle at NMJs.
+In contrast, P-CREB was detected in both synaptic and extra-synaptic regions of slow-twitch muscle.
+These results reveal, for the first time, the differential distribution of P-CREB in fast- and slow-twitch muscles, which might support the crucial role of cAMP-dependent signaling in controlling the synapse-specific expression of ColQ-1a in fast-twitch muscles.

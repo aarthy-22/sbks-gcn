@@ -1,0 +1,7 @@
+Quantitative Determination of Lateral Concentration and Depth Profile of Histidine-Tagged Recombinant Proteins Probed by Grazing Incidence X-ray Fluorescence.
+We have demonstrated that the complementary combination of grazing incidence X-ray fluorescence (GIXF) with specular X-ray reflectivity (XRR) can be used to quantitatively determine the density profiles of Ni(2)(+) ions complexed with chelator headgroups as well as S atoms in recombinant proteins anchored to lipid monolayers at the air/water interface.
+First, we prepared phospholipid monolayers incorporating chelator lipid anchors at different molar fractions at the air/water interface.
+The fine-structures perpendicular to the global plane of monolayers were characterized by XRR in the presence of Ni(2)(+) ions, yielding the thickness, roughness, and electron density of the stratified lipid monolayers.
+X-ray fluorescence intensities from Ni Kα core levels recorded at the incidence angles below and above the critical angle of total reflection allow for the determination of the position and lateral density of Ni(2)(+) ions associated with chelator headgroups with a high spatial accuracy (±5 Å).
+The coupling of histidine-tagged Xenopus cadherin 11 (Xcad-11) can also be identified by changes in the fines-structures using XRR.
+Although fluorescence intensities from S Kα level were much weaker than Ni Kα signals, we could detect the location of S atoms in recombinant Xcad-11 proteins.

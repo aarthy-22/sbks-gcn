@@ -1,0 +1,9 @@
+An Arg/Ser substitution in the second epidermal growth factor-like module of factor IX introduces an O-linked carbohydrate and markedly impairs activation by factor XIa and factor VIIa/Tissue factor and catalytic efficiency of factor IXa.
+Factor IXR94S is a naturally occurring hemophilia B defect, which results from an Arg 94 to Ser mutation in the second epidermal growth factor (EGF)-like module of factor IX.
+Recombinant factor IXR94S was activated by factor XIa/calcium with an approximately 50-fold reduced rate and by factor VIIa/tissue factor/phospholipid/calcium with an approximately 20-fold reduced rate compared with wild-type factor IX.
+The apparent molecular mass of the light chain of factor IXaR94S was approximately 6 kD higher than that of plasma or wild-type factor IX, which was not corrected by N-glycosidase F digestion.
+This result indicated the presence of additional O-linked carbohydrate in the mutant light chain, probably at new Ser 94.
+The initial rate of activation of factor X by factor IXaR94S in the presence of polylysine was 7% +/- 1% of the initial rate of activation of factor X by plasma factor IXa, and the kc/Km for activation of factor X by factor IXaR94S/factor VIIIa/phospholipid/calcium was 4% +/- 1% of the kc/Km for activation of factor X by plasma factor IXa/factor VIIIa/phospholipid/calcium.
+The reduced efficiency of activation of factor X by factor IXaR94S in the tenase enzyme complex was due to a 58-fold +/-
+12-fold decrease in kcat with little effect on Km.
+In conclusion, the R94S mutation had introduced an O-linked carbohydrate, which markedly impaired both activation by factor XIa and turnover of factor X in the tenase enzyme complex.

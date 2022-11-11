@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 8 82	2-methyl-N-(1-(3-nitro-4-(thiophen-3-yl)phenyl)ethyl)propane-2-sulfinamide
+T3	STARTING_MATERIAL 100 179	2-methyl-N-(1-(3-nitro-4-(thiophen-3-yl)phenyl)ethylidene)propane-2-sulfinamide
+T4	SOLVENT 217 232	tetrahydrofuran
+T5	TEMPERATURE 274 278	0 °C
+T6	REAGENT_CATALYST 280 298	Sodium borohydride
+T7	TEMPERATURE 401 417	room temperature
+T8	TIME 434 441	2 hours
+T9	OTHER_COMPOUND 453 460	aqueous
+T10	OTHER_COMPOUND 473 490	ammonium chloride
+T11	OTHER_COMPOUND 569 582	ethyl acetate
+T12	OTHER_COMPOUND 627 642	sodium sulphate
+T13	REACTION_PRODUCT 704 778	2-methyl-N-(1-(3-nitro-4-(thiophen-3-yl)phenyl)ethyl)propane-2-sulfinamide
+T14	YIELD_OTHER 780 786	200 mg
+T15	YIELD_PERCENT 794 799	66.3%

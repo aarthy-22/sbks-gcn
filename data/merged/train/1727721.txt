@@ -1,0 +1,13 @@
+Localization of an 11 beta hydroxysteroid dehydrogenase activity to the distal nephron.
+Evidence for the existence of two species of dehydrogenase in the rat kidney.
+An 11 beta hydroxysteroid dehydrogenase (11 beta HSD) activity has been localized in the rat kidney by a histochemical technique which links steroid metabolism with the production of a color reaction.
+Oxidation of 11 beta-hydroxyandrostenedione was observed in cortical distal convoluted tubules and in medullary collecting ducts.
+Carbenoxolone abolished staining, no reaction was obtained with androstenedione hydroxylated at the 17 or 19 position, and oxidation of 11 beta-hydroxyandrostenedione was nicotinamide-adenine dinucleotide (NAD) dependent.
+These results demonstrate the presence of a dehydrogenase activity separate from the nicotinamide-adenine dinucleotide phosphate (NADP)-dependent 11 beta hydroxysteroid dehydrogenase recently purified and cloned from rat liver.
+We have named this activity 11 beta HSD2 to distinguish it from the NADP-dependent 11 beta HSD.
+Histological studies showed that 11 beta HSD2 activity does not correlate with the immunocytochemical localization of the previously defined 11 beta HSD enzyme, but rather the 11 beta HSD2 activity is localized in the distal tubules of the rat kidney.
+In this respect 11 beta HSD2 colocalizes with the mineralocorticoid receptor.
+No reaction product was obtained using cortisol or corticosterone as substrate with either NAD or NADP as cofactor.
+Furthermore incubation of tissue sections with 11 beta androstenedione in the presence of deoxycorticosterone completely inhibited cytochemical staining.
+We interpret these results as evidence of 20 reductase activity which uses the reduced cofactor at the expense of the color reaction.
+These results support the crucial role played by an 11 beta hydroxysteroid dehydrogenase in the local protection of type I receptors in mineralocorticoid selective tissues.

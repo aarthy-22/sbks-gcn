@@ -1,0 +1,7 @@
+Small Molecule Regulation of Protein Conformation by Binding in the Flap of HIV Protease.
+The fragment indole-6-carboxylic acid (1F1), previously identified as a flap site binder in a fragment-based screen against HIV protease (PR), has been cocrystallized with pepstatin-inhibited PR and with apo-PR.
+Another fragment, 3-indolepropionic acid (1F1-N), predicted by AutoDock calculations and confirmed in a novel inhibition of nucleation crystallization assay, exploits the same interactions in the flap site in two crystal structures.
+Both 1F1 and 1F1-N bind to the closed form of apo-PR and to pepstatin:PR.
+In solution, 1F1 and 1F1-N raise the Tm of apo-PR by 3.5-5 °C as assayed by differential scanning fluorimetry (DSF) and show equivalent low-micromolar binding constants to both apo-PR and pepstatin:PR, assayed by backscattering interferometry (BSI).
+The observed signal intensities in BSI are greater for each fragment upon binding to apo-PR than to pepstatin-bound PR, consistent with greater conformational change in the former binding event.
+Together, these data indicate that fragment binding in the flap site favors a closed conformation of HIV PR.

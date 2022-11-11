@@ -1,0 +1,12 @@
+WNT6 is a novel target gene of caveolin-1 promoting chemoresistance to epirubicin in human gastric cancer cells.
+Resistance to chemotherapy is a major obstacle for curative treatment of human gastric cancer (GC).
+However, the underlying molecular mechanisms are largely unknown.
+Wingless-type MMTV integration site family members (WNTs) are secreted glycoproteins involved in embryogenesis and, on inappropriate expression in the adult, in cancer.
+Here, we show expression of WNT6 in GC patient specimens, human GC cell lines and in a mouse model of GC.
+In human GC cells, WNT6 expression was enhanced by caveolin-1 (Cav1), a scaffold protein of plasma membrane caveolae.
+WNT6 knock-down and overexpression experiments demonstrated that WNT6 increased the resistance to apoptotic cell death induced by the anthracycline chemotherapeutics epirubicin (Epi) and doxorubicin (Dox).
+Epi increased the activity of the human WNT6 promoter through Cav1-dependent binding of β-catenin to the proximal WNT6 promoter.
+Epi increased both WNT6/Wnt6 and Cav1 expression in human GC cells and within the tumor area of a murine model of GC (CEA424-SV40 TAg).
+In GC patients, WNT6 expression was positively associated with the tumor stage and the nodal status, and inversely correlated with the response to ECF (Epi, cisplatin, 5-fluorouracil) chemotherapy.
+These results showed that WNT6 and Cav1 are upregulated by chemotherapeutics and enhance the resistance of GC cells to anthracycline drugs.
+Understanding the molecular mechanisms driving WNT6/Cav1-induced drug resistance will provide benefits in developing new therapies for GC.

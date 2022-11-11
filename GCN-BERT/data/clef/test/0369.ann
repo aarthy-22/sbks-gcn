@@ -1,0 +1,16 @@
+T1	REACTION_PRODUCT 22 115	tert-butyl 3-((2-fluoro-4-(hydrazinecarbonyl)benzyl)(phenyl)carbamoyl)azetidine-1-carboxylate
+T2	STARTING_MATERIAL 116 207	Tert-butyl 3-((2-fluoro-4-(methoxycarbonyl)benzyl)(phenyl)carbamoyl)azetidine-1-carboxylate
+T3	REAGENT_CATALYST 258 279	hydrazine monohydrate
+T4	SOLVENT 319 326	ethanol
+T5	TEMPERATURE 339 355	room temperature
+T6	TEMPERATURE 387 393	reflux
+T7	TIME 398 406	12 hours
+T8	TEMPERATURE 426 442	room temperature
+T9	OTHER_COMPOUND 532 537	water
+T10	OTHER_COMPOUND 596 611	dichloromethane
+T11	OTHER_COMPOUND 657 664	aqueous
+T12	OTHER_COMPOUND 665 680	sodium chloride
+T13	OTHER_COMPOUND 702 719	magnesium sulfate
+T14	REACTION_PRODUCT 791 805	title compound
+T15	YIELD_OTHER 845 852	2.400 g
+T16	YIELD_PERCENT 854 859	96.0%

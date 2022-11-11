@@ -1,0 +1,4 @@
+Example 15
+7-(2-Methylphenyl)-N-[4-(piperidin-4-yl)-2,3-dihydro-1-benzofuran-7-yl]-6-methylthieno[3,2-d]pyrimidin-2-amine (Compound 15)
+Preparation of compound 15-d.
+7-Aminobenzo-2,3-dihydrofuran (3 g, 22.22 mmol) was dissolved in N, N-dimethylformamide (7 mL) and the reaction solution was cooled to 0°C. A solution of N-bromosuccinimide (3.93 g, 22.22 mmol) in N,N-dimethylformamide (7 mL) was then added dropwise to the above solution over 30 minutes. After the addition, stirring was continued for 30 minutes. The reaction mixture was poured into water (100 mL) and extracted with ethyl acetate (100 mL). The organic phase was washed with saturated sodium chloride solution (50 mL × 2), dried over anhydrous sodium sulfate, filtered, and the filtrate was concentrated under reduced pressure. And the residue was purified by silica gel column chromatography (petroleum ether: ethyl acetate = 10: 1) to deliver a yellow solid15-d (2.5 g, yield: 53%).

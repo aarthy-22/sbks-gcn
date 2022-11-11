@@ -1,0 +1,14 @@
+Pharmacological activators of AMP-activated protein kinase have different effects on Na+ transport processes across human lung epithelial cells.
+BACKGROUND AND PURPOSE: AMP-activated protein kinase (AMPK) is activated by metformin, phenformin, and the AMP mimetic, 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside (AICAR).
+We have completed an extensive study of the pharmacological effects of these drugs on AMPK activation, adenine nucleotide concentration, transepithelial amiloride-sensitive (I(amiloride)) and ouabain-sensitive basolateral (I(ouabain)) short circuit current in H441 lung epithelial cells.
+EXPERIMENTAL APPROACH: H441 cells were grown on permeable filters at air interface.
+I(amiloride), I(ouabain) and transepithelial resistance were measured in Ussing chambers.
+AMPK activity was measured as the amount of radiolabelled phosphate transferred to the SAMS peptide.
+Adenine nucleotide concentration was analysed by reverse phase HPLC and NAD(P)H autofluorescence was measured using confocal microscopy.
+KEY RESULTS: Phenformin, AICAR and metformin increased AMPK (alpha1) activity and decreased I(amiloride).
+The AMPK inhibitor Compound C prevented the action of metformin and AICAR but not phenformin.
+Phenformin and AICAR decreased I(ouabain) across H441 monolayers and decreased monolayer resistance.
+The decrease in I(amiloride) was closely related to I(ouabain) with phenformin, but not in AICAR treated monolayers.
+Metformin and phenformin increased the cellular AMP:ATP ratio but only phenformin and AICAR decreased cellular ATP.
+CONCLUSIONS AND IMPLICATIONS: Activation of alpha1-AMPK is associated with inhibition of apical amiloride-sensitive Na(+) channels (ENaC), which has important implications for the clinical use of metformin.
+Additional pharmacological effects evoked by AICAR and phenformin on I(ouabain), with potential secondary effects on apical Na+ conductance, ENaC activity and monolayer resistance, have important consequences for their use as pharmacological activators of AMPK in cell systems where Na+K+ATPase is an important component.

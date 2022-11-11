@@ -1,0 +1,11 @@
+Phosphorylation of ribosomal protein S3 and antiapoptotic TRAF2 protein mediates radioresistance in non-small cell lung cancer cells.
+Radioresistance is considered as a main factor restricting efficacy of radiotherapy.
+However, the exact molecular mechanism of radioresistance has not been explained yet.
+In this study, to elucidate radioresistance mechanism in lung cancer, we compared radiation responses in two types of non-small cell lung cancer (NSCLC) cells with different radiosensitivity and identified key molecules conferring radioresistance.
+In radioresistant NSCLC cells, ionizing radiation (IR) led to casein kinase 2α (CK2α)- and PKC-mediated phosphorylation of rpS3 and TRAF2, respectively, which induced dissociation of rpS3-TRAF2 complex and NF-κB activation, resulting in significant up-regulation of prosurvival genes (cIAP1, cIAP2, and survivin).
+Also, dissociated phospho-rpS3 translocated into nucleus and bound with NF-κB complex (p65 and p50), contributing to p65 DNA binding property and specificity.
+However, in radiosensitive NSCLC cells, IR-mediated rpS3 phosphorylation was not detected due to the absence of CK2α overexpression.
+Consequently, IR-induced rpS3-TRAF2 complex dissociation, NF-κB activation, and prosurvival gene expression were not presented.
+Taken together, our findings revealed a novel radioresistance mechanism through functional orchestration of rpS3, TRAF2, and NF-κB in NSCLC cells.
+Moreover, we provided the first evidence for the function of rpS3 as a new TRAF2-binding protein and demonstrated that phosphorylation of both rpS3 and TRAF2 is a key control point of radioresistance in NSCLC cells.
+These results suggest that regulation of rpS3 and TRAF2 in combination with radiotherapy could have high pharmacological therapeutic potency for radioresistance of NSCLC.

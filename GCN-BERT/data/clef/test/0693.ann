@@ -1,0 +1,11 @@
+T1	REAGENT_CATALYST 453 466	Triethylamine
+T2	YIELD_OTHER 763 769	1.7 mg
+T3	STARTING_MATERIAL 184 341	5-((3R,5S,6R)-5-tert-butoxycarbonylamino-6-(2, 5-difluorophenyl)tetrahydro-2H-pyran-3-yl)-3-methyl-1-methylsulfonyl-1,4,5,6-tetrahydropyrrolo[3, 4-c]pyrazole
+T4	EXAMPLE_LABEL 5 6	3
+T5	SOLVENT 148 163	dichloromethane
+T6	TEMPERATURE 425 441	room temperature
+T7	REACTION_PRODUCT 625 761	5-((3R,5S,6R)-5-amino-6-(2,5-difluorophenyl)tetrahydro-2H-pyran-3-yl)-3-methyl-1-methylsulfonyl-1,4,5,6-tetrahydropyrrolo[3,4-c]pyrazole
+T8	OTHER_COMPOUND 584 594	silica gel
+T9	YIELD_PERCENT 779 782	13%
+T10	REAGENT_CATALYST 367 387	benzenesulfonic acid
+T11	REACTION_PRODUCT 8 144	5-((3R,5S,6R)-5-amino-6-(2,5-difluorophenyl)tetrahydro-2H-pyran-3-yl)-3-methyl-1-methylsulfonyl-1,4,5,6-tetrahydropyrrolo[3,4-c]pyrazole

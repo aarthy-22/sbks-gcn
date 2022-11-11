@@ -1,0 +1,10 @@
+Long-term potentiation: Peeling the onion.
+Since the discovery of long-term potentiation (LTP), thousands of papers have been published on this phenomenon.
+With this massive amount of information, it is often difficult, especially for someone not directly involved in the field, not to be overwhelmed.
+The goal of this review is to peel away as many layers as possible, and probe the core properties of LTP.
+We would argue that the many dozens of proteins that have been implicated in the phenomenon are not essential, but rather modulate, often in indirect ways, the threshold and/or magnitude of LTP.
+What is required is NMDA receptor activation followed by CaMKII activation.
+The consequence of CaMKII activation is the rapid recruitment of AMPA receptors to the synapse.
+This recruitment is independent of AMPA receptor subunit type, but absolutely requires an adequate pool of surface receptors.
+An important unresolved issue is how exactly CaMKII activation leads to modifications in the PSD to allow rapid enrichment.
+This article is part of a Special Issue entitled 'GluR-dep synaptic plasticity'.

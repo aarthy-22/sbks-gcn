@@ -1,0 +1,36 @@
+T21	CHEMICAL 30 37	alcohol
+T1	CHEMICAL 49 56	Alcohol
+T16	CHEMICAL 273 280	ethanol
+T29	GENE-N 297 335	opioid receptors (mu, delta and kappa)
+T31	GENE-N 382 397	opioid peptides
+T32	GENE-Y 399 413	beta-endorphin
+T18	CHEMICAL 415 426	enkephalins
+T33	GENE-N 415 426	enkephalins
+T34	GENE-Y 431 441	dynorphins
+T35	GENE-N 500 522	mu- and delta-receptor
+T36	GENE-N 812 827	kappa-receptors
+T19	CHEMICAL 934 942	dopamine
+T20	CHEMICAL 1003 1010	alcohol
+T2	CHEMICAL 1086 1094	dopamine
+T3	CHEMICAL 1174 1182	dopamine
+T4	CHEMICAL 1187 1194	alcohol
+T5	CHEMICAL 1203 1211	aldehyde
+T6	CHEMICAL 1213 1236	tetrahydroisoquinolines
+T7	CHEMICAL 1354 1361	alcohol
+T22	GENE-N 1391 1407	opioid receptors
+T23	GENE-N 1434 1448	opioid peptide
+T24	GENE-Y 1503 1517	beta-endorphin
+T8	CHEMICAL 1569 1576	alcohol
+T9	CHEMICAL 1635 1642	alcohol
+T10	CHEMICAL 1783 1790	alcohol
+T11	CHEMICAL 1843 1851	naloxone
+T12	CHEMICAL 1856 1866	naltrexone
+T25	GENE-N 1898 1914	opioid receptors
+T13	CHEMICAL 1944 1951	alcohol
+T26	GENE-N 2053 2074	mu- or delta-receptor
+T14	CHEMICAL 2163 2170	alcohol
+T15	CHEMICAL 2285 2292	alcohol
+T27	GENE-Y 2438 2457	mu-opioid receptors
+T28	GENE-Y 2476 2490	delta-receptor
+T30	GENE-Y 2547 2561	beta-endorphin
+T17	CHEMICAL 2584 2591	alcohol

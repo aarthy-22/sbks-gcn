@@ -1,0 +1,22 @@
+T17	CHEMICAL 0 8	Androgen
+T1	CHEMICAL 21 29	Androgen
+T18	GENE-Y 21 39	Androgen receptors
+T2	CHEMICAL 141 150	androgens
+T3	CHEMICAL 313 322	androgens
+T4	CHEMICAL 324 336	testosterone
+T5	CHEMICAL 341 360	dihydrotestosterone
+T6	CHEMICAL 376 384	androgen
+T7	CHEMICAL 397 419	dehydroepiandrosterone
+T8	CHEMICAL 421 425	DHEA
+T9	CHEMICAL 428 458	dehydroepiandrosterone sulfate
+T10	CHEMICAL 460 465	DHEAS
+T11	CHEMICAL 472 487	androstenedione
+T12	CHEMICAL 521 529	androgen
+T19	GENE-Y 521 538	androgen receptor
+T13	CHEMICAL 569 585	C- (19) steroids
+T14	CHEMICAL 599 607	androgen
+T15	CHEMICAL 628 636	androgen
+T16	CHEMICAL 704 713	androgens
+R0	NOT Arg1:T18 Arg2:T2
+R1	NOT Arg1:T7 Arg2:T19
+R2	NOT Arg1:T19 Arg2:T14

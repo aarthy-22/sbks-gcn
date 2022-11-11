@@ -1,0 +1,8 @@
+The molecular mystique of tetrodotoxin.
+In many respects tetrodotoxin (TTX) is the quintessential natural toxin.
+It is unequivocally toxic to mammals with LD(50) values for mice in the range of 10 μg/kg (intraperitoneal), 16 μg/kg (subcutaneous), and 332 μg/kg (oral) (Kao, 1966).
+Its biothreat status is recognized by its listing as a "Select Agent" by the US Department of Health and Human Services which includes regulated agents "determined to have the potential to pose a severe threat to both human and animal health" (http://www.selectagents.gov/).
+It has a well-defined cellular target (i.e., NaV channels) and pharmacological mode of action (i.e., block of nerve and muscle action potentials), and it is an indispensable chemical tool in neuroscience.
+It is widely distributed in marine and terrestrial ecosystems where it plays a role in the chemical ecology of predator-prey relationships and drives evolutionary selection of TTX-resistance (Hanifin, 2010; Williams, 2010; Zimmer and Ferrer, 2007).
+Lastly, TTX has acquired a certain mystique in scientific lore attributable to many fascinating aspects of its natural history and molecular interactions as presented in selected summary below.
+Additional information may be found in other excellent reviews (Fozzard and Lipkind, 2010; Kao, 1966; Lee and Ruben, 2008; Narahashi, 2001, 2008).

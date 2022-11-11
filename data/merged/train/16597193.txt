@@ -1,0 +1,11 @@
+Suppression of adrenal function by low-dose prednisone: assessment with 24-hour urinary steroid hormone profiles--a review of five cases.
+The impact of the synthetic glucocorticoid prednisone on adrenal steroid hormone production was examined using 24-hour urinary steroid hormone profiling.
+Five women, who were chronically taking low-dose prednisone, were tested, and the relevant literature was reviewed.
+As expected, adrenal glucocorticoid production, measured by urinary terminal cortisol and cortisone metabolites, was markedly suppressed compared to reference range values (p=0.03).
+Urinary cortisol and cortisone, reflecting circulating glucocorticoids, were decreased to a lesser extent than their terminal metabolites.
+Urinary dehydroepiandrosterone (DHEA) excretion was dramatically suppressed (p=0.03), while the downstream androgen metabolites androsterone and etiocholanolone were suppressed to a lesser extent.
+Aldosterone and tetrahydrocorticosterone production demonstrated modest suppression after prednisone administration, but allo-tetrahydrocorticosterone, which is highly sensitive to adrenocorticotropic hormone (ACTH) secretion, was suppressed to a greater extent.
+Prednisone administration results in a decrease in ACTH secretion by the anterior pituitary, suppressing synthesis of glucocorticoids, DHEA, and DHEA metabolites.
+Decreased glucocorticoid synthesis is adaptive, because prednisone is active at the glucocorticoid receptor, but suppression of DHEA synthesis is not mitigated by prednisone.
+DHEA is an important sex hormone precursor, neurosteroid, and endocrine and immune modulator; therefore, DHEA depletion may have significant adverse consequences in terms of sex hormone production, bone health, endocrine and immune system function, and neuropsychiatric status.
+Studies of DHEA replacement in patients taking prednisone for lupus demonstrate amelioration of some of these adverse effects.

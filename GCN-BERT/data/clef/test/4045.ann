@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 36 166	tert-butyl 7-(allyloxyamino)-3-[3-[tert-butyl(dimethyl)silyl]oxypropyl]-2-oxo-6,7-dihydro-4H-thiazolo[4,5-c]pyridine-5-carboxylate
+T3	REACTION_PRODUCT 168 171	10d
+T4	STARTING_MATERIAL 227 382	tert-butyl 7-[allyloxy-(2-nitrophenyl)sulfonyl-amino]-3-[3-[tert-butyl(dimethyl)silyl]oxypropyl]-2-oxo-6,7-dihydro-4H-thiazolo[4,5-c]pyridine-5-carboxylate
+T5	STARTING_MATERIAL 384 387	10c
+T6	REACTION_PRODUCT 426 556	tert-butyl 7-(allyloxyamino)-3-[3-[tert-butyl(dimethyl)silyl]oxypropyl]-2-oxo-6,7-dihydro-4H-thiazolo[4,5-c]pyridine-5-carboxylate
+T7	REACTION_PRODUCT 558 561	10d
+T8	YIELD_OTHER 564 570	334 mg
+T9	YIELD_OTHER 572 582	0.669 mmol
+T10	YIELD_PERCENT 584 587	78%
+T11	OTHER_COMPOUND 613 623	silica gel
+T12	OTHER_COMPOUND 625 628	DCM
+T13	OTHER_COMPOUND 629 634	EtOAc

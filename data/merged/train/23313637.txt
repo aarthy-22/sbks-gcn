@@ -1,0 +1,8 @@
+Synthesis of quinoline derivatives: discovery of a potent and selective phosphodiesterase 5 inhibitor for the treatment of Alzheimer's disease.
+Phosphodiesterase type 5 (PDE5) mediates the degradation of cGMP in a variety of tissues including brain.
+Recent studies have demonstrated the importance of the nitric oxide/cGMP/cAMP-responsive element-binding protein (CREB) pathway to the process of learning and memory.
+Thus, PDE5 inhibitors (PDE5Is) are thought to be promising new therapeutic agents for the treatment of Alzheimer's disease (AD), a neurodegenerative disorder characterized by memory loss.
+To explore this possibility, a series of quinoline derivatives were synthesized and evaluated.
+We found that compound 7a selectively inhibits PDE5 with an IC(50) of 0.27 nM and readily crosses the blood brain barrier.
+In an in vivo mouse model of AD, compound 7a rescues synaptic and memory defects.
+Quinoline-based, CNS-permeant PDE5Is have potential for AD therapeutic development.

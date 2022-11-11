@@ -1,0 +1,18 @@
+T10	GENE-Y 557 564	insulin
+T4	CHEMICAL 816 823	glucose
+T11	GENE-N 946 954	incretin
+T12	GENE-N 975 979	PPAR
+T5	CHEMICAL 1033 1039	sodium
+T13	GENE-Y 1033 1071	sodium-coupled glucose cotransporter 2
+T6	CHEMICAL 1048 1055	glucose
+T7	GENE-N 1084 1108	free fatty acid receptor
+T1	CHEMICAL 1089 1099	fatty acid
+T2	CHEMICAL 1119 1138	11-β-hydroxysteroid
+T8	GENE-Y 1119 1159	11-β-hydroxysteroid dehydrogenase type 1
+T9	GENE-Y 1172 1183	glucokinase
+T3	CHEMICAL 1423 1430	glucose
+R0	NOT Arg1:T11 Arg2:T5
+R1	NOT Arg1:T12 Arg2:T6
+R2	NOT Arg1:T5 Arg2:T7
+R3	NOT Arg1:T5 Arg2:T8
+R4	NOT Arg1:T13 Arg2:T1

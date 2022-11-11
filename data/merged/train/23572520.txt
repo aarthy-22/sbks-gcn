@@ -1,0 +1,9 @@
+S-nitrosation of glutathione transferase P1-1 is controlled by the conformation of a dynamic active-site helix.
+S-nitrosation is a post-translational modification of protein cysteine residues which occurs in response to cellular oxidative stress.
+Although it is increasingly being linked to physiologically important processes, the molecular basis for protein regulation by this modification remains poorly understood.
+We used transient kinetic methods to determine a minimal mechanism for spontaneous GSNO-mediated transnitrosation of human glutathione transferase (GST) P1-1, a major detoxification enzyme and key regulator of cell proliferation.
+C47 of GSTP1-1 is S-nitrosated in two steps, with the chemical step limited by a pre-equilibrium between the open and closed conformations of helix α2 at the active site.
+C101, in contrast, is S-nitrosated in a single step but is subject to negative cooperativity due to steric hindrance at the dimer interface.
+Despite the presence of a GSNO binding site at the active site of GSTP1-1, isothermal titration calorimetry as well as nitrosation experiments using CysNO demonstrate that GSNO binding does not precede S-nitrosation of GSTP1-1.
+Kinetics experiments using the cellular reductant GSH show that C101-NO is substantially more resistant to denitrosation than C47-NO, suggesting a potential role for C101-NO in long term nitric oxide storage or transfer.
+These results constitute the first report of the molecular mechanism of spontaneous protein transnitrosation, providing insight into the post-translational control of GSTP1-1 as well as the process of protein transnitrosation in general.

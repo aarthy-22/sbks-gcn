@@ -1,0 +1,8 @@
+T7	GENE-N 30 40	insulinase
+T4	CHEMICAL 57 67	bacitracin
+T1	CHEMICAL 69 79	Bacitracin
+T6	GENE-N 124 134	insulinase
+T5	GENE-Y 275 285	insulinase
+T2	CHEMICAL 718 730	bacitracin A
+T3	CHEMICAL 894 904	acrylamide
+R0	CPR-4 Arg1:T4 Arg2:T7

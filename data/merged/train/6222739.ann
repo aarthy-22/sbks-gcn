@@ -1,0 +1,35 @@
+T22	CHEMICAL 11 21	progestins
+T31	GENE-Y 29 52	glucocorticoid receptor
+T13	CHEMICAL 198 208	progestins
+T21	CHEMICAL 255 272	[3H]dexamethasone
+T26	GENE-Y 296 319	glucocorticoid receptor
+T11	CHEMICAL 465 478	dexamethasone
+T12	CHEMICAL 554 564	progestins
+T14	CHEMICAL 572 580	pregnane
+T15	CHEMICAL 597 614	megestrol acetate
+T16	CHEMICAL 619 646	medroxyprogesterone acetate
+T17	CHEMICAL 816 824	cortisol
+T18	CHEMICAL 892 919	medroxyprogesterone acetate
+T29	GENE-Y 927 950	glucocorticoid receptor
+T19	CHEMICAL 1032 1039	steroid
+T20	CHEMICAL 1085 1097	progesterone
+T30	GENE-Y 1085 1106	progesterone receptor
+T1	CHEMICAL 1212 1224	progesterone
+T23	GENE-Y 1212 1233	progesterone receptor
+T2	CHEMICAL 1250 1262	[3H]Org 2058
+T3	CHEMICAL 1273 1300	Medroxyprogesterone acetate
+T4	CHEMICAL 1305 1322	megestrol acetate
+T24	GENE-N 1473 1487	concanavalin A
+T25	GENE-N 1492 1511	phytohaemagglutinin
+T27	GENE-N 1544 1558	immunoglobulin
+T5	CHEMICAL 1620 1629	progestin
+T6	CHEMICAL 1757 1767	progestins
+T7	CHEMICAL 1792 1810	19-nortestosterone
+T8	CHEMICAL 1812 1826	norethisterone
+T9	CHEMICAL 1831 1843	d-norgestrel
+T28	GENE-Y 1899 1922	glucocorticoid receptor
+T10	CHEMICAL 2031 2041	progestins
+R0	CPR-2 Arg1:T13 Arg2:T26
+R1	CPR-2 Arg1:T19 Arg2:T29
+R2	NOT Arg1:T20 Arg2:T23
+R3	NOT Arg1:T30 Arg2:T1

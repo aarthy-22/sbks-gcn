@@ -1,0 +1,18 @@
+T6	CHEMICAL 16 36	5-hydroxytryptamines
+T17	GENE-N 75 91	phospholipase A2
+T18	GENE-Y 96 120	leukotriene A4 hydrolase
+T8	GENE-N 157 175	phospholipase A(2)
+T12	GENE-N 177 183	PLA(2)
+T13	GENE-Y 189 215	leukotriene A(4) hydrolase
+T16	GENE-Y 217 224	LTA(4)H
+T1	CHEMICAL 242 258	arachidonic acid
+T2	CHEMICAL 449 456	JMC08-4
+T7	GENE-Y 462 510	human nonpancreatic secretory phospholipase A(2)
+T9	GENE-Y 512 523	hnps-PLA(2)
+T10	GENE-Y 529 561	human leukotriene A(4) hydrolase
+T11	GENE-Y 563 572	LTA(4)H-h
+T3	CHEMICAL 620 627	JMC08-4
+T4	CHEMICAL 729 748	5-hydroxytryptamine
+T5	CHEMICAL 864 871	JMC08-4
+T14	GENE-Y 947 958	hnps-PLA(2)
+T15	GENE-Y 963 972	LTA(4)H-h

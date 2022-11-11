@@ -1,0 +1,13 @@
+T4	CHEMICAL 544 558	thyroxine (T4)
+T5	CHEMICAL 578 589	thyrotropin
+T9	GENE-Y 578 589	thyrotropin
+T6	CHEMICAL 645 666	triiodothyronine (T3)
+T7	CHEMICAL 697 708	thyrotropin
+T10	GENE-Y 697 726	thyrotropin-releasing hormone
+T11	GENE-Y 747 760	thyroglobulin
+T8	CHEMICAL 825 836	thyrotropin
+T12	GENE-Y 825 845	thyrotropin receptor
+T13	GENE-Y 914 929	thyroperoxidase
+T1	CHEMICAL 1208 1219	Carbimazole
+T2	CHEMICAL 1221 1232	methimazole
+T3	CHEMICAL 1237 1247	thiamazole

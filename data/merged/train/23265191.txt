@@ -1,0 +1,8 @@
+Mammalian frataxin controls sulfur production and iron entry during de novo Fe4S4 cluster assembly.
+Iron-sulfur (Fe-S) cluster-containing proteins are essential components of cells.
+In eukaryotes, Fe-S clusters are synthesized by the mitochondrial iron-sulfur cluster (ISC) machinery and the cytosolic iron-sulfur assembly (CIA) system.
+In the mammalian ISC machinery, preassembly of the Fe-S cluster on the scaffold protein (ISCU) involves a cysteine desulfurase complex (NFS1/ISD11) and frataxin (FXN), the protein deficient in Friedreich's ataxia.
+Here, by comparing the biochemical and spectroscopic properties of quaternary (ISCU/NFS1/ISD11/FXN) and ternary (ISCU/NFS1/ISD11) complexes, we show that FXN stabilizes the quaternary complex and controls iron entry to the complex through activation of cysteine desulfurization.
+Furthermore, we show for the first time that in the presence of iron and L-cysteine, an [Fe(4)S(4)] cluster is formed within the quaternary complex that can be transferred to mammalian aconitase (mACO2) to generate an active enzyme.
+In the absence of FXN, although the ternary complex can assemble an Fe-S cluster, the cluster is inefficiently transferred to ACO2.
+Taken together, these data help to unravel further the Fe-S cluster assembly process and the molecular basis of Friedreich's ataxia.

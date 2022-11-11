@@ -1,0 +1,10 @@
+Trimethylamine-N-oxide, a metabolite associated with atherosclerosis, exhibits complex genetic and dietary regulation.
+Circulating trimethylamine-N-oxide (TMAO) levels are strongly associated with atherosclerosis.
+We now examine genetic, dietary, and hormonal factors regulating TMAO levels.
+We demonstrate that two flavin mono-oxygenase family members, FMO1 and FMO3, oxidize trimethylamine (TMA), derived from gut flora metabolism of choline, to TMAO.
+Further, we show that FMO3 exhibits 10-fold higher specific activity than FMO1.
+FMO3 overexpression in mice significantly increases plasma TMAO levels while silencing FMO3 decreases TMAO levels.
+In both humans and mice, hepatic FMO3 expression is reduced in males compared to females.
+In mice, this reduction in FMO3 expression is due primarily to downregulation by androgens.
+FMO3 expression is induced by dietary bile acids by a mechanism that involves the farnesoid X receptor (FXR), a bile acid-activated nuclear receptor.
+Analysis of natural genetic variation among inbred strains of mice indicates that FMO3 and TMAO are significantly correlated, and TMAO levels explain 11% of the variation in atherosclerosis.

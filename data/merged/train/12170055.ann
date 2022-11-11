@@ -1,0 +1,47 @@
+T26	CHEMICAL 0 10	Meperidine
+T41	GENE-Y 42 64	alpha(2B)-adrenoceptor
+T15	CHEMICAL 105 115	meperidine
+T36	GENE-N 292 314	alpha(2) adrenoceptors
+T14	CHEMICAL 324 333	clonidine
+T16	CHEMICAL 416 426	meperidine
+T37	GENE-N 442 464	alpha(2) adrenoceptors
+T17	CHEMICAL 511 521	meperidine
+T38	GENE-N 555 576	alpha(2)-adrenoceptor
+T18	CHEMICAL 640 650	meperidine
+T19	CHEMICAL 674 683	forskolin
+T20	CHEMICAL 695 725	cyclic adenosine monophosphate
+T39	GENE-N 761 782	alpha(2)-adrenoceptor
+T21	CHEMICAL 887 895	naloxone
+T40	GENE-N 904 925	alpha(2)-adrenoceptor
+T22	CHEMICAL 938 947	yohimbine
+T23	CHEMICAL 952 960	RX821002
+T24	CHEMICAL 994 1004	meperidine
+T25	CHEMICAL 1061 1071	meperidine
+T27	GENE-Y 1088 1110	alpha(2B) adrenoceptor
+T1	CHEMICAL 1170 1180	Meperidine
+T28	GENE-N 1194 1213	alpha2-adrenoceptor
+T2	CHEMICAL 1374 1382	Morphine
+T3	CHEMICAL 1443 1453	Meperidine
+T4	CHEMICAL 1482 1491	forskolin
+T5	CHEMICAL 1503 1533	cyclic adenosine monophosphate
+T29	GENE-Y 1598 1620	alpha(2B) adrenoceptor
+T30	GENE-N 1763 1782	alpha2-adrenoceptor
+T6	CHEMICAL 1791 1806	dexmedetomidine
+T7	CHEMICAL 1832 1842	meperidine
+T8	CHEMICAL 1858 1866	naloxone
+T31	GENE-N 1882 1902	alpha 2-adrenoceptor
+T9	CHEMICAL 1915 1924	yohimbine
+T10	CHEMICAL 1929 1937	RX821002
+T11	CHEMICAL 1978 1988	meperidine
+T32	GENE-Y 2006 2028	alpha(2B)-adrenoceptor
+T12	CHEMICAL 2050 2060	Meperidine
+T33	GENE-N 2088 2108	alpha2 adrenoceptors
+T34	GENE-Y 2170 2192	alpha(2B)-adrenoceptor
+T35	GENE-Y 2220 2238	alpha(2B) receptor
+T13	CHEMICAL 2300 2310	meperidine
+R0	CPR-6 Arg1:T22 Arg2:T40
+R1	CPR-3 Arg1:T3 Arg2:T29
+R2	CPR-6 Arg1:T9 Arg2:T31
+R3	CPR-5 Arg1:T12 Arg2:T34
+R4	NOT Arg1:T16 Arg2:T37
+R5	NOT Arg1:T4 Arg2:T30

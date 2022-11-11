@@ -1,0 +1,16 @@
+T1	OTHER_COMPOUND 569 579	silica gel
+T2	OTHER_COMPOUND 603 618	petroleum ether
+T3	REAGENT_CATALYST 317 330	triethylamine
+T4	REAGENT_CATALYST 351 355	HOBT
+T5	STARTING_MATERIAL 144 219	(2R,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxylic acid
+T6	SOLVENT 424 427	DCM
+T7	TEMPERATURE 448 452	25°C
+T8	YIELD_OTHER 665 671	0.15 g
+T9	YIELD_PERCENT 683 688	73.4%
+T10	STARTING_MATERIAL 241 296	tert-butyl 6-amino-2-azaspiro[3.3]heptane-2-carboxylate
+T11	REACTION_PRODUCT 19 143	tert-butyl 6-((2R,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxamido)-2-azaspiro[3.3]hept ane-2-carboxylate
+T12	REAGENT_CATALYST 376 380	EDCI
+T13	OTHER_COMPOUND 621 634	ethyl acetate
+T14	EXAMPLE_LABEL 1 2	8
+T15	REACTION_PRODUCT 656 663	product
+T16	TIME 457 460	3 h

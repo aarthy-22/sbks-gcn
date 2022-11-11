@@ -1,0 +1,5 @@
+Example 27
+(2S,2'S)-1,1'-(((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-ethyl-4,1-phenylene))bis(methylene))bis(piperidine-2-carboxylic acid) di-trifluoroacetic acid salt (Cpd 27)
+Step 1
+3-Ethyl-4-(methoxymethoxy)benzaldehyde (34)
+To a solution of 3-ethynyl-4-(methoxymethoxy)benzaldehyde (1 g, 5.263 mmol) in ethanol (50 mL) was added 10% Pd/C (160 mg) in a Parr shaker. The reaction mixture was stirred at room temperature for 12 h under hydrogen (50 psi). The reaction mixture was filtered through celite pad and the filtrate was evaporated to give a crude product, which was in turn was purified by GRACE flash chromatography, eluting with pet-ether: EtOAc (80:20) to afford 3-ethyl-4-(methoxymethoxy)benzaldehyde (600 mg, 60%, LC/MS, 90%) as an off white solid.

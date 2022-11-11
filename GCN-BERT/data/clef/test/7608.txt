@@ -1,0 +1,2 @@
+Synthesis Example 6: Production of Aromatic Amine Derivative (PH6)
+In the same manner as in Synthesis Example 2 except for using 4.8 g of the intermediate 16 in place of the intermediate 5, 3.6 g (yield: 53%) of a white solid was obtained, which was identified as the following compound (PH6) by FD-MS analysis: m/z=680 (theoretical value: 680 for C48H28N2O S).

@@ -1,0 +1,69 @@
+T37	CHEMICAL 23 31	oxytocin
+T61	GENE-Y 23 40	oxytocin receptor
+T38	CHEMICAL 59 67	oxytocin
+T62	GENE-Y 59 76	oxytocin receptor
+T39	CHEMICAL 88 97	barusiban
+T35	CHEMICAL 128 136	oxytocin
+T60	GENE-Y 128 136	oxytocin
+T36	CHEMICAL 141 151	carbetocin
+T24	CHEMICAL 193 201	oxytocin
+T52	GENE-Y 193 210	oxytocin receptor
+T28	CHEMICAL 215 224	barusiban
+T32	CHEMICAL 245 253	oxytocin
+T58	GENE-Y 245 262	oxytocin receptor
+T12	CHEMICAL 305 316	vasopressin
+T45	GENE-N 305 338	vasopressin V1A/oxytocin receptor
+T19	CHEMICAL 350 358	atosiban
+T20	CHEMICAL 376 384	oxytocin
+T50	GENE-Y 376 384	oxytocin
+T21	CHEMICAL 389 399	carbetocin
+T22	CHEMICAL 447 455	oxytocin
+T51	GENE-N 447 480	oxytocin/vasopressin V2 receptors
+T23	CHEMICAL 456 467	vasopressin
+T25	CHEMICAL 591 599	oxytocin
+T53	GENE-Y 591 608	oxytocin receptor
+T26	CHEMICAL 626 637	vasopressin
+T54	GENE-Y 626 649	vasopressin V2 receptor
+T27	CHEMICAL 750 758	oxytocin
+T55	GENE-Y 750 767	oxytocin receptor
+T29	CHEMICAL 876 884	oxytocin
+T56	GENE-Y 876 893	oxytocin receptor
+T57	GENE-Y 929 952	V2 vasopressin receptor
+T30	CHEMICAL 932 943	vasopressin
+T31	CHEMICAL 1073 1082	barusiban
+T33	CHEMICAL 1137 1145	oxytocin
+T59	GENE-Y 1137 1145	oxytocin
+T34	CHEMICAL 1147 1164	[Arg8]vasopressin
+T40	GENE-Y 1153 1164	vasopressin
+T1	CHEMICAL 1166 1176	carbetocin
+T2	CHEMICAL 1182 1190	atosiban
+T3	CHEMICAL 1230 1238	oxytocin
+T41	GENE-Y 1230 1238	oxytocin
+T4	CHEMICAL 1243 1253	carbetocin
+T5	CHEMICAL 1348 1349	N
+T6	CHEMICAL 1412 1420	oxytocin
+T42	GENE-Y 1412 1429	oxytocin receptor
+T7	CHEMICAL 1439 1450	vasopressin
+T43	GENE-N 1439 1472	vasopressin V1A/oxytocin receptor
+T8	CHEMICAL 1455 1463	oxytocin
+T9	CHEMICAL 1484 1492	atosiban
+T10	CHEMICAL 1596 1607	vasopressin
+T44	GENE-Y 1596 1619	vasopressin V2 receptor
+T11	CHEMICAL 1649 1658	barusiban
+T13	CHEMICAL 1751 1759	oxytocin
+T14	CHEMICAL 1776 1787	vasopressin
+T46	GENE-Y 1776 1799	vasopressin V2 receptor
+T15	CHEMICAL 1823 1832	barusiban
+T16	CHEMICAL 1902 1910	oxytocin
+T47	GENE-Y 1902 1919	oxytocin receptor
+T17	CHEMICAL 1931 1973	d(CH2)5[Tyr-(Me)2,Thr4,Orn8,Tyr9]vasotocin
+T48	GENE-N 1964 1973	vasotocin
+T18	CHEMICAL 2090 2098	oxytocin
+T49	GENE-Y 2090 2107	oxytocin receptor
+R0	CPR-6 Arg1:T39 Arg2:T62
+R1	CPR-6 Arg1:T28 Arg2:T58
+R2	CPR-5 Arg1:T20 Arg2:T45
+R3	NOT Arg1:T61 Arg2:T36
+R4	NOT Arg1:T24 Arg2:T58
+R5	NOT Arg1:T31 Arg2:T59
+R6	NOT Arg1:T40 Arg2:T1

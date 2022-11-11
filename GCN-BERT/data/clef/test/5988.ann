@@ -1,0 +1,20 @@
+T1	YIELD_OTHER 1003 1010	0.030 g
+T2	YIELD_PERCENT 1012 1017	55.7%
+T3	STARTING_MATERIAL 353 379	thiomorpholine 1,1-dioxide
+T4	OTHER_COMPOUND 581 586	Water
+T5	EXAMPLE_LABEL 8 10	93
+T6	REACTION_PRODUCT 41 170	N-(3-chloro-4-fluorophenyl)-N-(4-(5-(difluoromethyl)-1,3,4-oxadiazol-2-yl)-2-fluorobenzyl)-2-(1,1-dioxidothiomorpholino)acetamide
+T7	OTHER_COMPOUND 717 732	sodium chloride
+T8	OTHER_COMPOUND 754 771	magnesium sulfate
+T9	OTHER_COMPOUND 650 663	ethyl acetate
+T10	TEMPERATURE 496 512	room temperature
+T11	TIME 571 579	18 hours
+T12	OTHER_COMPOUND 709 716	aqueous
+T13	SOLVENT 473 485	acetonitrile
+T14	REACTION_PRODUCT 987 1001	title compound
+T15	REACTION_PRODUCT 34 39	11610
+T16	STARTING_MATERIAL 171 293	2-((3-chloro-4-fluorophenyl)(4-(5-(difluoromethyl)-1,3,4-oxadiazol-2-yl)-2-fluorobenzyl)amino)-2-oxoethyl methanesulfonate
+T17	OTHER_COMPOUND 894 898	SiO2
+T18	OTHER_COMPOUND 916 924	methanol
+T19	OTHER_COMPOUND 925 940	dichloromethane
+T20	REAGENT_CATALYST 406 431	N,N-diisopropylethylamine

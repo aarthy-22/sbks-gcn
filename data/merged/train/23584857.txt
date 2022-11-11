@@ -1,0 +1,10 @@
+Induction of the metabolic regulator Txnip in fasting-induced and natural torpor.
+Torpor is a physiological state characterised by controlled lowering of metabolic rate and core body temperature, allowing substantial energy savings during periods of reduced food availability or harsh environmental conditions.
+The hypothalamus coordinates energy homeostasis and thermoregulation, and plays a key role in directing torpor.
+We recently showed that mice lacking the orphan G protein coupled receptor Gpr50 readily enter torpor in response to fasting, and have now used these mice to conduct a microarray analysis of hypothalamic gene expression changes related to the torpor state.
+This revealed a strong induction of thioredoxin interacting protein (Txnip) in the hypothalamus of torpid mice, which was confirmed by quantitative RT-PCR and Western blot analyses.
+In situ hybridisation identified the ependyma lining the third ventricle as the principal site of torpor-related expression of Txnip.
+To characterise further the relationship between Txnip and torpor, we profiled Txnip expression in mice during prolonged fasting, cold exposure, and 2-deoxyglucose-induced hypometabolism, as well as in naturally occurring torpor bouts in the Siberian hamster.
+Strikingly, pronounced upregulation of Txnip expression was only observed in WT mice when driven into torpor, and during torpor in the Siberian hamster.
+Increase of Txnip was not limited to the hypothalamus, with exaggerated expression in white adipose tissue, brown adipose tissue, and liver also demonstrated in torpid mice.
+Given the recent identification of Txnip as a molecular nutrient sensor important in the regulation of energy metabolism, our data suggest that elevated Txnip expression is critical to regulating energy expenditure and fuel utilisation during the extreme hypometabolic state of torpor.

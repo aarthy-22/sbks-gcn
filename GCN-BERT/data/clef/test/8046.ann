@@ -1,0 +1,22 @@
+T1	STARTING_MATERIAL 366 393	dimethylamine hydrochloride
+T2	EXAMPLE_LABEL 8 9	3
+T3	OTHER_COMPOUND 175 176	3
+T4	REACTION_PRODUCT 822 829	product
+T5	SOLVENT 303 318	dichloromethane
+T6	OTHER_COMPOUND 534 547	ethyl acetate
+T7	STARTING_MATERIAL 236 267	2-Nitrobenzenesulfonyl chloride
+T8	REACTION_PRODUCT 197 235	N,N-dimethyl-2-nitrobenzenesulfonamide
+T9	YIELD_OTHER 831 837	2.53 g
+T10	EXAMPLE_LABEL 179 180	1
+T11	TEMPERATURE 460 476	room temperature
+T12	YIELD_PERCENT 846 849	55%
+T13	OTHER_COMPOUND 487 492	Water
+T14	REAGENT_CATALYST 332 345	triethylamine
+T15	OTHER_COMPOUND 616 620	NaCl
+T16	OTHER_COMPOUND 790 803	ethyl acetate
+T17	OTHER_COMPOUND 621 628	aqueous
+T18	OTHER_COMPOUND 24 164	2-((5-chloro-2-((7-methyl-8-(piperidin-4-yl)-2,3-dihydrobenzo[b]1,41di oxin-5-yl)amino)pyrimidin-4-yl)amino)-N,N-dimethylbenzenesulfonam ide
+T19	OTHER_COMPOUND 660 675	sodium sulphate
+T20	OTHER_COMPOUND 739 749	silica gel
+T21	TIME 481 485	12 h
+T22	OTHER_COMPOUND 773 788	petroleum ether

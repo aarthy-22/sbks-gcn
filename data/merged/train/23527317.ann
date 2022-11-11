@@ -1,0 +1,13 @@
+T9	CHEMICAL 24 25	N
+T10	CHEMICAL 42 54	nor-lobelane
+T12	GENE-Y 79 84	VMAT2
+T8	CHEMICAL 147 162	methamphetamine
+T1	CHEMICAL 182 183	N
+T5	CHEMICAL 196 204	lobelane
+T7	CHEMICAL 255 281	[(3)H]dihydrotetrabenazine
+T11	GENE-N 306 337	vesicular monoamine transporter
+T2	CHEMICAL 316 325	monoamine
+T3	CHEMICAL 376 390	[(3)H]dopamine
+T4	CHEMICAL 431 455	N-1,2(R)-dihydroxypropyl
+T6	CHEMICAL 538 553	methamphetamine
+R0	CPR-2 Arg1:T1 Arg2:T11

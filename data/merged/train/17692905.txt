@@ -1,0 +1,13 @@
+Endothelial capillary tube formation and cell proliferation induced by tumor cells are affected by low molecular weight heparins and unfractionated heparin.
+BACKGROUND: Clinical studies suggest a survival advantage in cancer patients receiving low molecular weight heparin (LMWH).
+A suggested mechanism for this beneficial effect may reside in the antiangiogenic activity of heparins.
+OBJECTIVES: In this study we investigated whether two different LMWHs, i.e. enoxaparin and dalteparin, and unfractionated heparin (UFH), affect the angiogenic potential of human microvascular endothelial cells (HMEC-1) promoted by tumor cells.
+METHODS: HMEC-1 cells were incubated with tumor cell conditioned media (TCM) derived from human breast cancer and leukemic cells (i.e. MCF-7, MDA.MB.231, and NB4 cell lines) or recombinant cytokines (i.e. VEGF, FGF-2, TNF-alpha) +/-heparins.
+Capillary-like tube formation in Matrigel and cell proliferation were evaluated.
+RESULTS: All three TCM induced a significant (p<0.05) increase in total length of tubes formed by HMEC-1 in Matrigel.
+These increases were significantly counteracted (62 to 100% mean inhibition) by enoxaparin and dalteparin, but were significantly less affected by UFH.
+Similarly, the tube formation induced by standard VEGF, FGF-2, or TNF-alpha was 100% inhibited by enoxaparin, and 70-90% by dalteparin, whereas minor or no inhibition was observed with UFH.
+VEGF was the most active cytokine in TCM of both breast cancer and leukemic cells.
+EC proliferation was significantly increased by standard angiogenic factors, and slightly affected by breast cancer TCM (p=ns).
+The addition of heparins significantly counteracted the proliferative stimuli.
+CONCLUSIONS: These results support a major role for LMWH compared to UFH in inhibiting the proangiogenic effect exerted by tumor cells or purified angiogenic factors on microvascular endothelium.

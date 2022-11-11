@@ -1,0 +1,13 @@
+T8	CHEMICAL 58 66	selenium
+T2	CHEMICAL 127 135	selenium
+T1	CHEMICAL 299 307	selenium
+T3	CHEMICAL 404 412	selenium
+T4	CHEMICAL 460 468	selenium
+T5	CHEMICAL 606 617	glutathione
+T9	GENE-Y 606 637	glutathione sulfotransferase pi
+T10	GENE-Y 639 644	GSTP1
+T11	GENE-Y 650 674	Ras associated family 1A
+T12	GENE-Y 676 683	RASSF1A
+T6	CHEMICAL 891 899	selenium
+T7	CHEMICAL 1068 1088	seleno-DL-methionine
+R0	NOT Arg1:T5 Arg2:T12

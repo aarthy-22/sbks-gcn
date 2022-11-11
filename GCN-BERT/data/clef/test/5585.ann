@@ -1,0 +1,12 @@
+T1	STARTING_MATERIAL 17 78	tert-butyl (1-(but-3-yn-1-ylsulfonyl)piperidin-4-yl)carbamate
+T2	STARTING_MATERIAL 80 83	13a
+T3	SOLVENT 106 109	DCM
+T4	REAGENT_CATALYST 127 147	methanesulfonic acid
+T5	TEMPERATURE 206 222	room temperature
+T6	TIME 227 237	30 minutes
+T7	OTHER_COMPOUND 298 309	ethyl ether
+T8	TEMPERATURE 383 399	room temperature
+T9	REACTION_PRODUCT 408 467	1-(but-3-yn-1-ylsulfonyl)piperidin-4-amine methanesulfonate
+T10	REACTION_PRODUCT 469 484	Intermediate 13
+T11	YIELD_OTHER 486 492	248 mg
+T12	YIELD_PERCENT 494 497	99%

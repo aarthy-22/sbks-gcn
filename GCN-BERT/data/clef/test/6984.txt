@@ -1,0 +1,3 @@
+Example 114
+N-(3,3-difluorocyclobutyl)-4-(6-fluoro-1H-indol-3-yl)benzamide
+This compound was prepared from Intermediate 3 and 3,3-difluorocyclobutanamine hydrochloride according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (14.7 mg, 39%). Data: LCMS (B) Rt: 12.785 min; m/z 343.0 (M+H)+.

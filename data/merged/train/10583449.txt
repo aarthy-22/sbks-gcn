@@ -1,0 +1,10 @@
+Pretreatment renal vascular tone predicts the effect of specific renin inhibition on natriuresis in essential hypertension.
+BACKGROUND: In essential hypertension an elevated renal vascular resistance (RVR) may be a marker of renin-angiotensin-aldosterone system-mediated impairment of renal sodium excretion.
+This hypothesis was tested by investigating whether, in subjects with essential hypertension, the natriuretic response to specific renin-angiotensin-aldosterone system (RAAS) blockade by renin-inhibitor remikiren could be predicted from pretreatment renal vascular tone.
+MATERIALS AND METHODS: Renal hemodynamics, and the effects of single (n = 17) and multiple doses (n = 8, 8 days) of remikiren (600 mg day-1) on sodium excretion were studied under conditions of carefully controlled sodium balance.
+RESULTS: Pretreatment renal vascular tone showed considerable individual differences: filtration fraction (FF) ranged from 21.2 to 30.3% and RVR from 18.8 to 33.5 10-2 mmHg min mL-1 in the single dose study, and FF from 20.8 to 24.9% and RVR from 14.8 to 28.8 10-2 mmHg min mL-1 in the multiple dose study.
+Remikiren induced a fall in blood pressure, FF and RVR, with considerable interindividual variability in natriuretic response.
+During single dose, cumulative sodium loss was 5.1 mmol per 5 h (-8.8 to +24.6), whereas after 8 days treatment cumulative sodium loss was 72 +/- 30 mmol (-46 to +187).
+The natriuretic response to remikiren during single as well as multiple dose significantly correlated with pretreatment renal vascular tone (estimated from FF and RVR) but not with remikiren-induced changes in renal hemodynamics or in hormonal parameters.
+Cumulative sodium loss was largest in patients with a higher pretreatment FF and RVR (r = 0.74, P < 0.001 and r = 0.52, P < 0.05, respectively, single dose; and r = 0.75, P < 0.05 and r = 0.73, P < 0.05, respectively, multiple dose).
+CONCLUSION: These data support the hypothesis that in essential hypertension an elevated renal vascular tone is a marker of RAAS-mediated impairment of sodium excretion.

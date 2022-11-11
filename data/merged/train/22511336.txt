@@ -1,0 +1,8 @@
+Anti-hyperglycemic effect of fermented ginseng in type 2 diabetes mellitus mouse model.
+Ginseng has shown an efficacy in preventing and managing various health conditions.
+This study aimed to evaluate the effect of the fermented ginseng extract (FGE) in type 2 diabetes mellitus murine model.
+FGE was provided to male C57BL/ksJ-db/db mice for 8 weeks at 0.1% (w/w) dose in contrast to water for the control group.
+Potential anti-diabetic mechanisms were investigated with blood glucose, serum insulin, serum adiponectin, hemoglobin A1c (HbA1c), glucose tolerance, insulin secretion assay, quantitative real-time polymerase chain reaction, and hematoxylin-eosin staining.
+Compared with the control group, the FGE group had lower levels of blood glucose after 6 and 9 h fasting, HbA1c, and the area under the curve in an oral glucose tolerance test and higher levels of adiponectin and serum insulin (p < 0.05).
+The FGE group had higher levels of peroxisome proliferator-activated receptor gamma 2 and glucose transporter protein 2 mRNAs, a lower level of tumor necrosis factor-α (TNF-α) (p < 0.05), and less lymphocytes in pancreas than the control group had.
+The FGE exerted anti-diabetic effects in type 2 diabetic mice.

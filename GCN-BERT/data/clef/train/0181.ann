@@ -1,0 +1,11 @@
+T0	STARTING_MATERIAL 321 347	tetrahydrofuroylpiperazine
+T1	YIELD_OTHER 382 387	14 mg
+T2	EXAMPLE_LABEL 8 9	8
+T3	REACTION_PRODUCT 26 130	2-(2-(4-(2-tetrahydrofuroyl)piperazinyl)ethyl)-2,4-dihydro-7-methoxy-4,4-dimethylchromeno[4,3-c]pyrazole
+T6	REACTION_STEP 157 165	prepared
+T4	STARTING_MATERIAL 223 297	2-(2-bromoethyl)-7-methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole
+T5	YIELD_PERCENT 389 392	36%
+R0	ARG1 Arg1:T6 Arg2:T4
+R1	ARG1 Arg1:T6 Arg2:T0
+R2	ARGM Arg1:T6 Arg2:T1
+R3	ARGM Arg1:T6 Arg2:T5

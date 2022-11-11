@@ -1,0 +1,22 @@
+T1	TIME 435 443	15 hours
+T2	YIELD_OTHER 1069 1079	0.052 mmol
+T3	OTHER_COMPOUND 878 886	methanol
+T4	OTHER_COMPOUND 816 820	SiO2
+T5	YIELD_PERCENT 1088 1091	46%
+T6	EXAMPLE_LABEL 8 10	10
+T7	REAGENT_CATALYST 319 330	acetic acid
+T8	YIELD_OTHER 902 907	25 mg
+T9	REACTION_PRODUCT 931 1044	(S)-4-((1-(4,8-dichloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)pyrido[2,3-d]pyrimidine-5(8H)-one
+T10	OTHER_COMPOUND 513 530	sodiumbicarbonate
+T11	OTHER_COMPOUND 615 620	water
+T12	OTHER_COMPOUND 862 877	dichloromethane
+T13	REACTION_PRODUCT 26 139	(S)-4-((1-(4,8-dichloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)pyrido[2,3-d]pyrimidine-5(8H)-one
+T14	OTHER_COMPOUND 531 538	aqueous
+T15	OTHER_COMPOUND 830 845	dichloromethane
+T16	TEMPERATURE 424 429	50° C
+T17	OTHER_COMPOUND 704 710	Na2SO4
+T18	OTHER_COMPOUND 595 610	Dichloromethane
+T19	REAGENT_CATALYST 384 387	NCS
+T20	OTHER_COMPOUND 846 854	methanol
+T21	STARTING_MATERIAL 162 271	(S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)pyrido[2,3-d]pyrimidine-5(8H)-one
+T22	REAGENT_CATALYST 363 382	N-chlorosuccinimide

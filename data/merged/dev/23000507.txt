@@ -1,0 +1,14 @@
+Experimental tooth movement-induced osteoclast activation is regulated by sympathetic signaling.
+Experimental tooth movement (ETM) changes the distribution of sensory nerve fibers in periodontal ligament and the bone architecture through the stimulation of bone remodeling.
+As the sympathetic nervous system is involved in bone remodeling, we examined whether ETM is controlled by sympathetic signaling or not.
+In male mice, elastic rubber was inserted between upper left first molar (M1) and second molar (M2) for 3 or 5 days.
+Nerve fibers immunoreactive for not only sensory neuromarkers, such as calcitonin gene-related peptide (CGRP), but also sympathetic neuromarkers, such as tyrosine hydroxylase (TH) and neuropeptide Y (NPY) were increased in the periodontal ligament during ETM.
+To elucidate the effect of the sympathetic signal mediated by ETM, mice were intraperitoneally injected with a β-antagonist, propranolol (PRO: 20 μg/g/day), or a β-agonist, isoproterenol (ISO: 5 μg/g/day) from 7 days before ETM.
+PRO treatment suppressed the amount of tooth movement by 12.9% in 3-day ETM and by 32.2% in 5-day ETM compared with vehicle treatment.
+On the other hand, ISO treatment increased it.
+Furthermore, ETM remarkably increased the osteoclast number on the bone surface (alveolar socket) (Oc.N/BS) in all drug treatments.
+PRO treatment suppressed Oc.
+N/BS by 39.4% in 3-day ETM, while ISO treatment increased it by 32.1% in 3-day ETM compared with vehicle treatment.
+Chemical sympathectomy using 6-hydroxydopamine (6-OHDA: 250 μg/g) showed results similar to those for PRO treatment in terms of both the amount of tooth movement and osteoclast parameters.
+Our data showed that blockade of sympathetic signaling inhibited the tooth movement and osteoclast increase induced by ETM, and stimulation of sympathetic signaling accelerated these responses.
+These data suggest that the mechano-adaptive response induced by ETM is controlled by sympathetic signaling through osteoclast activation.

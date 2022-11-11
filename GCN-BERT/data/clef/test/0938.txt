@@ -1,0 +1,5 @@
+Core 26
+(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-4-nitro-5-(2-(trifluoromethyl)phenyl)pyrrolidine-2-carboxylate
+Core 26A
+(E)-ethyl 2-((2-(trifluoromethyl)benzylidene)amino)acetate
+A slurry of ethyl 2-aminoacetate hydrochloride (6.01 g, 43.1 mmol) and magnesium sulfate (5.88 g, 48.8 mmol) in dichloromethane (100 mL) was stirred at 0° C. Triethylamine (6.00 mL, 43.1 mmol) was added drop wise and the mixture was stirred at room temperature for 1 hour. 2-(Trifluoromethyl)benzaldehyde (5 g, 28.7 mmol) was added. After 15 hours, the solid was filtered and washed with dichloromethane (3×200 mL). The dichloromethane layer was washed with water (2×100 mL), dried (Na2SO4), filtered, and concentrated, to provide (E)-ethyl 2-((2-(trifluoromethyl)benzylidene)amino)acetate (7.2 g, 25.8 mmol, 90% yield).

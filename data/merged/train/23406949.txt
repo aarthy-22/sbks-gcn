@@ -1,0 +1,17 @@
+Evaluation of oxidant-antioxidant status in oral toxicity of fish oil methyl esters and diesel fuel in male rats.
+This study was conducted to compare the effects of oral toxicity induced by fish oil biodiesel and diesel fuel.
+Diesel and fish oil biodiesel were administered by oral gavage to rats.
+For this purpose, 35 rats were divided into five groups.
+Sunflower oil of 250 mg kg(-1)
+was administered to the rats in the control group by oral gavage.
+The rats in the D250 and D500 groups were administered by oral gavage 250 mg kg(-1) and 500 mg kg(-1) of diesel fuel dissolved in equal amounts of sunflower oil, respectively.
+The rats in the F250 and F500 groups were administered by oral gavage 250 mg kg(-1) and 500 mg kg(-1) of fish oil biodiesel dissolved in equal amounts of sunflower oil, respectively.
+At the end of the study, malondialdehyde (MDA) and reduced glutathione (GSH) levels were measured in the whole blood; catalase (CAT) activity level was measured in erythrocytes; and nitrite (NO(2)) and nitrate (NO(3)) levels were measured in the serum.
+It was observed that the whole blood MDA levels of the diesel groups were considerably different from those in the control and fish oil biodiesel groups (p < 0.001).
+GSH levels in the control group were observed to be considerably different from those in all other groups (p < 0.001).
+Serum NO(3) concentrations in the diesel groups were found to be considerably different from those in the control and biodiesel groups.
+Serum NO(2) concentrations in one of the diesel groups were significantly different from those in the control and biodiesel groups (p < 0.01 and p < 0.05, respectively).
+The CAT activity of the control group was observed to be different from that in the other groups.
+According to these results, both fish oil biodiesel and diesel fuel are thought to cause lipid peroxidation.
+It was observed that fish oil biodiesel does not induce as much oxidative damage as does the diesel fuel.
+It is suggested that fish oil biodiesel should be preferred as an alternative to the diesel.

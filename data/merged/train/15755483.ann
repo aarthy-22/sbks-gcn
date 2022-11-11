@@ -1,0 +1,18 @@
+T14	CHEMICAL 109 116	aspirin
+T13	CHEMICAL 178 215	3-hydroxy-3-methylglutaryl-coenzyme A
+T17	GENE-Y 178 235	3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase
+T2	CHEMICAL 217 224	HMG-CoA
+T9	CHEMICAL 650 661	clopidogrel
+T10	CHEMICAL 663 674	ticlopidine
+T11	CHEMICAL 679 692	atorvastatine
+T12	CHEMICAL 822 833	clopidogrel
+T15	CHEMICAL 974 985	ticlopidine
+T1	CHEMICAL 1129 1142	atorvastatine
+T3	CHEMICAL 1309 1313	NADH
+T4	CHEMICAL 1527 1547	acetylsalicylic acid
+T5	CHEMICAL 1549 1560	clopidogrel
+T6	CHEMICAL 1566 1577	ticlopidine
+T7	CHEMICAL 1583 1590	HMG-CoA
+T16	GENE-Y 1583 1600	HMG-CoA reductase
+T8	CHEMICAL 1602 1615	atorvastatine
+R0	NOT Arg1:T6 Arg2:T16

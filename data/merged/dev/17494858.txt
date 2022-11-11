@@ -1,0 +1,10 @@
+Distinct patterns of mutations occurring in de novo AML versus AML arising in the setting of severe congenital neutropenia.
+Severe congenital neutropenia (SCN) is an inborn disorder of granulopoiesis.
+Like most other bone marrow failure syndromes, it is associated with a marked propensity to transform into a myelodysplastic syndrome (MDS) or acute leukemia, with a cumulative rate of transformation to MDS/leukemia that exceeds 20%.
+The genetic (and/or epigenetic) changes that contribute to malignant transformation in SCN are largely unknown.
+In this study, we performed mutational profiling of 14 genes previously implicated in leukemogenesis using 14 MDS/leukemia samples from patients with SCN.
+We used high-throughput exon-based resequencing of whole-genome-amplified genomic DNA with a semiautomated method to detect mutations.
+The sensitivity and specificity of the sequencing pipeline was validated by determining the frequency of mutations in these 14 genes using 188 de novo AML samples.
+As expected, mutations of tyrosine kinase genes (FLT3, KIT, and JAK2) were common in de novo AML, with a cumulative frequency of 30%.
+In contrast, no mutations in these genes were detected in the SCN samples; instead, mutations of CSF3R, encoding the G-CSF receptor, were common.
+These data support the hypothesis that mutations of CSF3R may provide the "activated tyrosine kinase signal" that is thought to be important for leukemogenesis.

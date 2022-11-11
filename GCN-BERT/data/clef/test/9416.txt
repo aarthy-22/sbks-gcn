@@ -1,0 +1,5 @@
+Example 33
+(2S,3S,4S,5S)-3-tert-butyl-1-(cyclohexanecarbonyl)-4-[({2-methoxy-5-[1-(trifluoromethyl)cyclopropyl]phenyl}methyl)amino]-5-phenylpyrrolidine-2-carboxylic acid
+Example 33A
+4,4,5,5-tetramethyl-2-(4-(1-(trifluoromethyl)cyclopropyl)phenyl)-1,3,2-dioxaborolane
+To a solution of 1-bromo-4-(1-(trifluoromethyl)cyclopropyl)benzene (2.2 g, 8.30 mmol) in dioxane (6 mL) was added 4,4,4',4',5,5,5',5'-octamethyl-2,2'-bi(1,3,2-dioxaborolane) (2.64 g, 10.40 mmol), potassium acetate (2.42 g, 24.66 mmol), and dicyclohexyl(4'-ethyl-2',6'-diisopropyl-[1,1'-biphenyl]-2-yl)phosphine (220 mg, 0.475 mmol) under nitrogen. The mixture was stirred at 100° C. for 6 hours, then cooled down to 25° C. and diluted with ethyl acetate (50 mL). The insoluble matter was separated by filtration and the filtrate was concentrated under reduced pressure. The mixture was purified by preparative TLC (petroleum ether: ethyl acetate=15:1) to provide 4,4,5,5-tetramethyl-2-(4-(1-(trifluoromethyl)cyclopropyl)phenyl)-1,3,2-dioxaborolane (1.8 g, 4.61 mmol, 55.6% yield).

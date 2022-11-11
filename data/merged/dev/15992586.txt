@@ -1,0 +1,10 @@
+2-[4-(3,4-Dimethylphenyl)piperazin-1-ylmethyl]-1H benzoimidazole (A-381393), a selective dopamine D4 receptor antagonist.
+2-[4-(3,4-Dimethylphenlyl)piperazin-1-ylmethyl]-1H benzoimidazole (A-381393) was identified as a potent dopamine D4 receptor antagonist with excellent receptor selectivity.
+[3H]-spiperone competition binding assays showed that A-381393 potently bound to membrane from cells expressing recombinant human dopamine D4.4 receptor (Ki=1.5 nM), which was 20-fold higher than that of clozapine (Ki=30.4 nM).
+A-381393 exhibited highly selective binding for the dopamine D4.4 receptor (>2700-fold) when compared to D1, D2, D3 and D5 dopamine receptors.
+Furthermore, in comparison to clozapine and L-745870, A-381393 exhibits better receptor selectivity, showing no affinity up to 10 microM for a panel of more than 70 receptors and channels, with the exception of moderate affinity for 5-HT2A (Ki=370 nM).
+A-381393 potently inhibited the functional activity of agonist-induced GTP-gamma-S binding assay and 1 microM dopamine induced-Ca2+ flux in human dopamine D4.4 receptor expressing cells, but not in human dopamine D2L or D3 receptor cells.
+In contrast to L-745870, A-381393 did not exhibit any significant intrinsic activity in a D4.4 receptor.
+In vivo, A-381393 has good brain penetration after subcutaneous administration.
+A-381393 inhibited penile erection induced by the selective D4 agonist PD168077 in conscious rats.
+Thus, A-381393 is a novel selective D4 antagonist that will enhance the ability to study dopamine D4 receptors both in vitro and in vivo.

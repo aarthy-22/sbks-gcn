@@ -1,0 +1,15 @@
+T13	GENE-Y 244 264	acetylcholinesterase
+T14	GENE-Y 266 270	AChE
+T1	CHEMICAL 552 565	valproic acid
+T2	CHEMICAL 567 580	retinoic acid
+T3	CHEMICAL 582 590	caffeine
+T4	CHEMICAL 592 609	sodium salicylate
+T5	CHEMICAL 611 618	glucose
+T6	CHEMICAL 620 631	hydroxyurea
+T7	CHEMICAL 633 651	methoxyacetic acid
+T8	CHEMICAL 653 663	boric acid
+T9	CHEMICAL 668 683	paraoxon-methyl
+T15	GENE-Y 737 741	AChE
+T10	CHEMICAL 1001 1032	valproic and methoxyacetic acid
+T11	GENE-Y 1161 1165	AChE
+T12	GENE-Y 1250 1254	AChE

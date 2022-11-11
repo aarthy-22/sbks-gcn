@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 8 10	45
+T2	STARTING_MATERIAL 30 83	6-(2-aminothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one
+T3	STARTING_MATERIAL 110 157	2-ethyl-4-methyl-1,3-thiazole-5-carboxylic acid
+T4	REAGENT_CATALYST 185 193	pyridine
+T5	SOLVENT 219 231	acetonitrile
+T6	REAGENT_CATALYST 266 292	propylphosphonic anhydride
+T7	SOLVENT 314 327	ethyl acetate
+T8	TEMPERATURE 381 387	50° C.
+T9	TIME 392 398	5 days
+T10	OTHER_COMPOUND 513 525	acetonitrile
+T11	OTHER_COMPOUND 526 531	water
+T12	REACTION_PRODUCT 540 636	2-ethyl-4-methyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)thiazole-5-carboxamide
+T13	YIELD_OTHER 638 645	0.094 g
+T14	YIELD_PERCENT 647 650	58%

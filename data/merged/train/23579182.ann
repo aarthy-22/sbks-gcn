@@ -1,0 +1,6 @@
+T1	CHEMICAL 802 803	N
+T4	GENE-Y 802 841	N-terminal probrain natriuretic peptide
+T5	GENE-Y 843 852	NT-proBNP
+T2	GENE-Y 1260 1269	NT-proBNP
+T3	GENE-Y 1526 1535	NT-proBNP
+R0	NOT Arg1:T1 Arg2:T5

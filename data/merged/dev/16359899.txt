@@ -1,0 +1,9 @@
+From an inborn error patient to a search for regulatory meaning: a biotin conducted voyage.
+This article summarizes some findings of a research that I have pursued for the past 25 years, whose roots are immersed in the field of inherited metabolic disorders, and deal with different aspects of the vitamin biotin, starting with a patient with multiple carboxylase deficiency (MCD).
+Several of MCD clinical manifestations resemble those of infant malnutrition; we demonstrated that about one-third of infants with this common nutritional disorder were indeed biotin-deficient, and that this deficiency is metabolically significant, by studying urine instead of blood, studying urinary organic acids by gas chromatography-mass spectrometry.
+Remarkably, the metabolic abnormalities became apparent only after protein feeding was started, suggesting that this phenomenon may contribute to the worsening of malnourished individuals when they are abruptly fed.
+Afterwards, we studied biotin deficiency at the tissue level.
+Carboxylase activities and masses were significantly reduced in liver, kidney, muscle, adipose tissue, intestine, and spleen, but brain and heart were spared; their mRNAs remained unchanged.
+On the other hand, holocarboxylase synthetase (HCS) mRNA levels were markedly low in the deficient animals, and increased upon biotin injection.
+Over 2000 human genes have been identified that depend on biotin for expression.
+To probe into the "logic" of this enigma, we have started comparative studies among evolutionarily distant organisms, such as mouse and Saccharomyces cerevisiae, and we are now looking for biotin effects on specific genes and proteins, such as HCS and hexokinases, and on their proteomes.

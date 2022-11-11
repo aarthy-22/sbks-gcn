@@ -1,0 +1,36 @@
+T18	CHEMICAL 14 27	retinoic acid
+T35	GENE-N 14 49	retinoic acid receptors alpha, beta
+T19	CHEMICAL 54 62	retinoid
+T36	GENE-Y 54 79	retinoid X receptor alpha
+T11	CHEMICAL 166 179	retinoic acid
+T6	CHEMICAL 318 331	retinoic acid
+T25	GENE-N 348 371	retinoic acid receptors
+T7	CHEMICAL 348 361	retinoic acid
+T26	GENE-N 376 396	retinoid X receptors
+T8	CHEMICAL 376 384	retinoid
+T27	GENE-N 578 601	retinoic acid receptors
+T9	CHEMICAL 578 591	retinoic acid
+T10	CHEMICAL 609 617	retinoid
+T28	GENE-Y 609 634	retinoid X receptor alpha
+T12	CHEMICAL 708 721	retinoic acid
+T29	GENE-Y 708 736	retinoic acid receptor alpha
+T13	CHEMICAL 738 751	retinoic acid
+T30	GENE-Y 738 765	retinoic acid receptor beta
+T14	CHEMICAL 770 778	retinoid
+T31	GENE-Y 770 795	retinoid X receptor alpha
+T15	CHEMICAL 893 906	retinoic acid
+T32	GENE-Y 893 921	retinoic acid receptor alpha
+T16	CHEMICAL 957 970	retinoic acid
+T33	GENE-Y 957 984	retinoic acid receptor beta
+T17	CHEMICAL 1060 1068	retinoid
+T34	GENE-N 1060 1078	retinoid receptors
+T1	CHEMICAL 1169 1182	retinoic acid
+T20	GENE-Y 1169 1197	retinoic acid receptor alpha
+T21	GENE-Y 1202 1227	retinoid X receptor alpha
+T2	CHEMICAL 1202 1210	retinoid
+T22	GENE-Y 1329 1354	retinoid X receptor alpha
+T3	CHEMICAL 1329 1337	retinoid
+T4	CHEMICAL 1476 1489	retinoic acid
+T23	GENE-N 1515 1534	neuregulin receptor
+T24	GENE-Y 1535 1540	ErbB3
+T5	CHEMICAL 1574 1587	retinoic acid

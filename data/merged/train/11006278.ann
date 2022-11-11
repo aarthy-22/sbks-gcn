@@ -1,0 +1,26 @@
+T9	CHEMICAL 0 16	Arachidonic acid
+T24	GENE-Y 95 141	human prostaglandin endoperoxide H2 synthase-2
+T10	CHEMICAL 101 130	prostaglandin endoperoxide H2
+T23	GENE-Y 143 159	cyclooxygenase-2
+T1	CHEMICAL 281 297	arachidonic acid
+T16	GENE-N 377 430	human prostaglandin endoperoxide H(2) synthase enzyme
+T4	CHEMICAL 383 414	prostaglandin endoperoxide H(2)
+T17	GENE-Y 432 438	PGHS-2
+T5	CHEMICAL 500 509	nitroxide
+T18	GENE-Y 564 570	PGHS-2
+T19	GENE-Y 750 756	PGHS-2
+T20	GENE-Y 842 848	PGHS-2
+T21	GENE-Y 931 937	PGHS-2
+T6	CHEMICAL 953 969	arachidonic acid
+T7	CHEMICAL 971 983	flurbiprofen
+T8	CHEMICAL 989 997	SC-58125
+T22	GENE-Y 1140 1146	PGHS-2
+T11	GENE-Y 1217 1223	PGHS-2
+T12	GENE-Y 1339 1345	PGHS-2
+T2	CHEMICAL 1528 1537	steroidal
+T13	GENE-N 1589 1593	PGHS
+T3	CHEMICAL 1688 1700	arachidonate
+T14	GENE-Y 1744 1750	PGHS-2
+T15	GENE-N 1856 1870	cyclooxygenase
+R0	CPR-2 Arg1:T7 Arg2:T21
+R1	NOT Arg1:T10 Arg2:T23

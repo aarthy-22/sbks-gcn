@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 19 21	23
+T2	REACTION_PRODUCT 36 83	(E)-methyl 3-(1-ethyl-1H-imidazol-2-yl)acrylate
+T3	STARTING_MATERIAL 85 127	Methyl (triphenylphosphoranylidene)acetate
+T4	STARTING_MATERIAL 175 210	1-ethyl-1H-imidazole-2-carbaldehyde
+T5	SOLVENT 234 249	dichloromethane
+T6	TEMPERATURE 263 279	room temperature
+T7	TIME 317 325	16 hours
+T8	OTHER_COMPOUND 414 420	hexane
+T9	OTHER_COMPOUND 421 436	dichloromethane
+T10	OTHER_COMPOUND 544 554	silica gel
+T11	OTHER_COMPOUND 556 562	hexane
+T12	OTHER_COMPOUND 563 576	ethyl acetate
+T13	REACTION_PRODUCT 588 635	(E)-methyl 3-(1-ethyl-1H-imidazol-2-yl)acrylate
+T14	YIELD_OTHER 637 644	0.670 g
+T15	YIELD_OTHER 646 655	3.72 mmol
+T16	YIELD_PERCENT 657 660	39%

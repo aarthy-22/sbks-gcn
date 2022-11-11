@@ -1,0 +1,51 @@
+T28	CHEMICAL 96 106	carvedilol
+T27	CHEMICAL 206 224	racemic carvedilol
+T34	GENE-N 246 263	beta adrenoceptor
+T18	CHEMICAL 353 363	carvedilol
+T21	CHEMICAL 564 574	carvedilol
+T22	CHEMICAL 700 710	carvedilol
+T23	CHEMICAL 771 781	Carvedilol
+T45	GENE-Y 839 858	beta 1 adrenoceptor
+T24	CHEMICAL 902 915	isoproterenol
+T25	CHEMICAL 935 945	carvedilol
+T46	GENE-Y 990 1009	beta 2 adrenoceptor
+T26	CHEMICAL 1045 1055	salbutamol
+T29	GENE-Y 1143 1157	angiotensin II
+T1	CHEMICAL 1165 1175	carvedilol
+T30	GENE-N 1188 1219	beta 1 and beta 2 adrenoceptors
+T31	GENE-Y 1294 1313	beta 1 adrenoceptor
+T2	CHEMICAL 1323 1333	Carvedilol
+T32	GENE-N 1373 1393	alpha 1 adrenoceptor
+T3	CHEMICAL 1423 1433	cirazoline
+T33	GENE-Y 1478 1498	alpha 2 adrenoceptor
+T4	CHEMICAL 1528 1536	B-HT 933
+T5	CHEMICAL 1554 1564	carvedilol
+T35	GENE-N 1576 1596	alpha 1 adrenoceptor
+T6	CHEMICAL 1635 1645	Carvedilol
+T36	GENE-Y 1696 1710	angiotensin II
+T7	CHEMICAL 1799 1806	calcium
+T37	GENE-N 1799 1814	calcium channel
+T8	CHEMICAL 1826 1836	BAY-K-8644
+T38	GENE-N 1879 1913	voltage dependent calcium channels
+T9	CHEMICAL 1897 1904	calcium
+T10	CHEMICAL 1964 1971	calcium
+T11	CHEMICAL 2004 2014	carvedilol
+T12	CHEMICAL 2046 2056	carvedilol
+T13	CHEMICAL 2067 2074	calcium
+T39	GENE-N 2067 2082	calcium channel
+T14	CHEMICAL 2224 2234	carvedilol
+T40	GENE-N 2316 2336	alpha 1 adrenoceptor
+T15	CHEMICAL 2349 2357	prazosin
+T41	GENE-N 2394 2411	beta adrenoceptor
+T16	CHEMICAL 2424 2435	propranolol
+T17	CHEMICAL 2525 2535	carvedilol
+T42	GENE-N 2572 2602	beta and alpha 1 adrenoceptors
+T19	CHEMICAL 2631 2641	carvedilol
+T43	GENE-N 2690 2731	beta 1, beta 2, and alpha 1 adrenoceptors
+T20	CHEMICAL 2745 2752	calcium
+T44	GENE-N 2745 2761	calcium channels
+R0	CPR-4 Arg1:T1 Arg2:T31
+R1	CPR-4 Arg1:T11 Arg2:T38
+R2	NOT Arg1:T2 Arg2:T33
+R3	NOT Arg1:T8 Arg2:T39
+R4	NOT Arg1:T11 Arg2:T39

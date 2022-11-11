@@ -1,0 +1,18 @@
+T5	CHEMICAL 42 55	gambogic acid
+T1	CHEMICAL 85 98	Gambogic acid
+T9	GENE-N 950 961	nucleoporin
+T10	GENE-Y 966 980	nucleophosmin;
+T4	CHEMICAL 999 1006	steroid
+T11	GENE-Y 999 1029	steroid receptor coactivator-3
+T12	GENE-Y 1031 1036	SRC-3
+T13	GENE-Y 1083 1108	death inducer-obliterator
+T6	GENE-Y 1110 1115	DIO-1
+T7	GENE-Y 1136 1140	HERG
+T2	CHEMICAL 1141 1150	potassium
+T8	GENE-N 1141 1158	potassium channel
+T3	CHEMICAL 1193 1199	oxygen
+R0	NOT Arg1:T9 Arg2:T4
+R1	NOT Arg1:T11 Arg2:T2
+R2	NOT Arg1:T11 Arg2:T3
+R3	NOT Arg1:T12 Arg2:T2
+R4	NOT Arg1:T8 Arg2:T3

@@ -1,0 +1,10 @@
+Transferrin conjugation does not increase the efficiency of liposomal Foscan during in vitro photodynamic therapy of oesophageal cancer.
+Photodynamic therapy (PDT) is based on the delivery of photocytotoxic agents to a target tissue, followed by irradiation.
+In order to increase the efficiency of PDT in oesophageal cancer therapy, polyethylene glycol (PEG)-grafted, transferrin (Tf)-conjugated liposome formulations of 5,10,15,20-tetra(m-hydroxyphenyl)chlorin (Foscan), a second-generation photosensitiser, were prepared.
+Expression of transferrin receptors (CD71) in the oesophageal cancer cell line, OE21, was confirmed by immunoblot and confocal laser scanning microscopy.
+The anti-proliferative effect of Foscan liposomes was evaluated and compared with plain formulations (i.e., without Tf) as well as with free drug.
+In addition, the intracellular accumulation was studied using high content analysis.
+Surprisingly, delivering Foscan by transferrin-conjugated PEG-liposomes to oesophageal cancer cells did not improve the photocytotoxicity or the intracellular accumulation of Foscan when compared to unmodified liposomes or indeed free photosensitiser.
+Tf-targeted drugs and drug delivery systems have shown improved the therapy of many cancers.
+Our study, however, did not corroborate these findings.
+If this is due to the tumour type, the choice of in vitro model or the delivery systems remains to be confirmed.

@@ -1,0 +1,10 @@
+Reaction between peroxynitrite and triphenylphosphonium-substituted arylboronic acid isomers - Identification of diagnostic marker products and biological implications.
+</i>Aromatic boronic acids react rapidly with peroxynitrite (ONOO<sup>-</sup>) to yield phenols as major products.
+This reaction was used to monitor ONOO<sup>-</sup> formation in cellular systems.
+Previously, we proposed that the reaction between ONOO<sup>-</sup> and arylboronates (PhB(OH)<sub>2</sub>) yields a phenolic product (major pathway) and a radical pair PhB(OH)<sub>2</sub>O<sup>•-</sup>…<sup>•</sup>NO<sub>2</sub> (minor pathway).
+[Sikora A. <i>et al., Chem Res Toxicol</i> 24, 687-97].
+In this study, we investigated the influence of a bulky triphenylphosphonium (TPP) group on the reaction between ONOO<sup>-</sup> and mitochondria-targeted arylboronate isomers (<i>o</i>-, <i>m</i>-, and <i>p</i>-MitoPhB(OH)<sub>2</sub>).
+Results from the electron paramagnetic resonance (EPR) spin-trapping experiments unequivocally showed the presence of a phenyl radical intermediate from <i>meta</i> and <i>para</i> isomers, and not from the <i>ortho</i> isomer.
+The yield of <i>o</i>-MitoPhNO<sub>2</sub> formed from the reaction between <i>o</i>-MitoPhB(OH)<sub>2</sub> and ONOO<sup>-</sup> was not diminished by phenyl radical scavengers, suggesting a rapid fragmentation of the <i>o</i>-MitoPhB(OH)<sub>2</sub>O<sup>•-</sup> radical anion with subsequent reaction of the resulting phenyl radical with <sup>•</sup>NO<sub>2</sub> in the solvent cage.
+The DFT quantum mechanical calculations showed that the energy barrier for the dissociation of <i>o</i>-MitoPhB(OH)<sub>2</sub>O<sup>•-</sup> radical anion is significantly lower than that of <i>m</i>-MitoPhB(OH)<sub>2</sub>O<sup>•-</sup> and <i>p</i>-MitoPhB(OH)<sub>2</sub>O<sup>•-</sup> radical anions.
+We conclude that the reaction of ONOO<sup>-</sup> with <i>ortho</i>-MitoPhB(OH)<sub>2</sub> forming the minor nitrated product, <i>o</i>-MitoPhNO<sub>2</sub>, and the corresponding major phenolic product (<i>o</i>-MitoPhOH) can be employed as a diagnostic tool to specifically detect ONOO<sup>-</sup> in biological systems.

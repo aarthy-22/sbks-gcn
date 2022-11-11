@@ -1,0 +1,3 @@
+Step 3
+(2,2'-Difluorobiphenyl-3,3'-diyl)dimethanol (19)
+To a stirred solution of dimethyl 2,2'-difluorobiphenyl-3,3'-dicarboxylate (3 g, 9.8 mmol) in THF (25 mL) at 0° C., LiAlH4 ((2 M in THF, 24.5 mL, 5 eq) was added drop-wise and stirred at 0° C. for 10 min. The reaction mixture was quenched with saturated NH4Cl solution (25 mL) at 0° C. and filtered through celite pad and the celite pad was washed with methanol: CH2Cl2 (15:85) (50 mL). The organic layer was separated, dried over Na2SO4 and concentrated under reduced pressure to get the crude compound as a brown oily liquid, which upon trituration with pentane afforded (2,2'-difluorobiphenyl-3,3'-diyl)dimethanol (2.4 g, yield: 96%) as an off-white solid.

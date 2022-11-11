@@ -1,0 +1,22 @@
+T22	GENE-Y 51 84	guinea pig alpha(1a)-adrenoceptor
+T21	GENE-Y 142 175	guinea pig alpha(1A)-adrenoceptor
+T3	CHEMICAL 194 204	nucleotide
+T5	CHEMICAL 270 280	amino-acid
+T6	CHEMICAL 428 442	[(3)H]prazosin
+T7	CHEMICAL 447 463	[(3)H]tamsulosin
+T8	CHEMICAL 478 498	Chloroethylclonidine
+T9	CHEMICAL 621 637	[(3)H]tamsulosin
+T10	CHEMICAL 692 705	oxymetazoline
+T11	CHEMICAL 708 719	epinephrine
+T12	CHEMICAL 720 734	norepinephrine
+T13	CHEMICAL 735 746	methoxamine
+T14	CHEMICAL 773 781	prazosin
+T15	CHEMICAL 786 803	5-methyl-urapidil
+T16	CHEMICAL 804 815	benoxathian
+T17	CHEMICAL 816 828	phentolamine
+T18	CHEMICAL 830 838	BMY 7378
+T19	CHEMICAL 840 918	8-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-8-azaspiro[4,5]decane-7,9-dione
+T20	CHEMICAL 950 977	[(125)I-aryl]azido-prazosin
+T1	CHEMICAL 1099 1110	epinephrine
+T2	CHEMICAL 1135 1160	[(3)H]inositol phosphates
+T4	CHEMICAL 1181 1189	prazosin

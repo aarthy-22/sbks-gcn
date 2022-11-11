@@ -1,0 +1,9 @@
+Supra-normal stimulation of dopamine D1 receptors in the prelimbic cortex blocks behavioral expression of both aversive and rewarding associative memories through a cyclic-AMP-dependent signaling pathway.
+Dopamine (DA) receptor transmission through either D(1) or D(2)-like subtypes is involved critically in the processing of emotional information within the medial prefrontal cortex (mPFC).
+However the functional role of specific DA D(1)-like receptor transmission in the expression of emotionally salient associative memories (either aversive or rewarding) is not currently understood.
+Here we demonstrate that specific activation of DA D(1) receptors in the prelimbic (PLC) division of the mPFC causes a transient block in the behavioral expression of both aversive and rewarding associative memories.
+We report that intra-PLC microinfusions of a selective D(1) receptor agonist block the spontaneous expression of an associative olfactory fear memory, without altering the stability of the original memory trace.
+Furthermore, using an unbiased place conditioning procedure (CPP), intra-PLC D(1) receptor activation blocks the spontaneous expression of an associative morphine (5 mg/kg; i.p.) reward memory, while leaving morphine-primed memory expression intact.
+Interestingly, both intra-PLC D(1)-receptor mediated block of either fear-related or reward-related associative memories were dependent upon downstream cyclic-AMP (cAMP) signaling as both effects were rescued by co-administration of a cAMP signaling inhibitor.
+The blockade of both rewarding and aversive associative memories is mediated through a D(1)-specific signaling pathway, as neither forms of spontaneous memory expression were blocked by intra-PLC microinfusions of a D(2)-like receptor agonist.
+Our results demonstrate that the spontaneous expression of either rewarding or aversive emotionally salient memories shares a common, D(1)-receptor mediated substrate within the mPFC.

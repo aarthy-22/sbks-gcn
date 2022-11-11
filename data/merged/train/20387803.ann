@@ -1,0 +1,16 @@
+T11	GENE-N 155 172	nuclear receptors
+T12	GENE-Y 344 373	human estrogen receptor alpha
+T1	CHEMICAL 350 358	estrogen
+T13	GENE-Y 375 382	ERalpha
+T2	CHEMICAL 389 405	17beta-estradiol
+T3	CHEMICAL 407 425	diethylstilbestrol
+T4	CHEMICAL 427 437	raloxifene
+T5	CHEMICAL 439 457	4-hydroxytamoxifen
+T6	CHEMICAL 459 468	tamoxifen
+T7	CHEMICAL 474 483	genistein
+T8	CHEMICAL 916 928	ginsenosides
+T14	GENE-Y 992 999	ERalpha
+T9	CHEMICAL 1005 1011	Rb1(S)
+T10	CHEMICAL 1016 1025	20(S)-Rg3
+T15	GENE-Y 1048 1096	peroxisome proliferator-activated receptor gamma
+R0	NOT Arg1:T13 Arg2:T3

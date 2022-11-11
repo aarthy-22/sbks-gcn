@@ -1,0 +1,16 @@
+Androgen antagonistic effect of estramustine phosphate (EMP) metabolites on wild-type and mutated androgen receptor.
+Estramustine phosphate is used frequently, alone or in combination with other antitumor agents, for the treatment of hormone-refractory prostate cancer.
+Estramustine phosphate is metabolically activated in vivo, and its metabolites, estramustine, estromustine, estrone, and beta-estradiol inhibit the assembly of microtubules [for review see: Kreis W,
+In: Concepts, Mechanisms, and New Targets for Chemotherapy (Ed.
+Muggia FM), pp. 163-184.
+Kluwer Academic Publishers, Boston, 1995].
+We investigated, by displacement of [3H]methyltrienolone in the presence of 2.5 mM of triamcinolone acetonide, the binding of estramustine phosphate and its metabolites, estramustine, estromustine, estrone, and beta-estradiol, as well as other antiandrogen agents including alpha-estradiol, bicalutamide, and hydroxyflutamide, to the mutated androgen receptor (m-AR) in LNCaP cells and to the wild-type androgen receptor in wild-type AR cDNA expression plasmid (w-pAR0) cDNA-transfected HeLa cells.
+Analogous to the antiandrogens, bicalutamide and hydroxyflutamide, binding of estramustine phosphate metabolites to the androgen receptor was observed.
+The EC50 values (in microM) were: estramustine phosphate, > 10; estramustine, 3.129 +/- 0.312; estromustine; 2.612 +/- 0.584; estrone, 0.800 +/- 0.090; alpha-estradiol, 1.051 +/- 0.096; beta-estradiol, 0.523 +/- 0.028; bicalutamide, 4.920 +/- 0.361; and hydroxyflutamide, 0.254 +/- 0.012.
+The transactivation assay demonstrated that, analogous to bicalutamide, estramustine could not induce luciferase activity in either w-pAR0 or m-pARL transfected HeLa cells.
+In contrast, a strong induction of the reporter activity by dihydrotestosterone was observed.
+Down-regulation of prostate-specific antigen (PSA) expression, an AR-target gene, by estramustine and bicalutamide was accompanied by the blockade of the mutated androgen receptor.
+Exposure of LNCaP cells to estramustine for 24 hr caused transcriptional inhibition of PSA in a concentration-dependent manner.
+The levels of PSA mRNA decreased 56 and 90% when LNCaP cells were treated with 5 and 10 microM of estramustine, respectively (IC50 = 10.97 +/- 1.68 microM).
+Binding of hydroxyflutamide to m-AR in LNCaP cells resulted in a concentration-dependent stimulation of PSA expression, suggesting that hydroxyflutamide acted as an agonist of the m-AR.
+Our data indicate that estramustine phosphate metabolites perform as androgen antagonists of AR, an additional mechanism involved in the therapeutic effect of estramustine phosphate in patients with prostate cancer.

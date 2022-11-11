@@ -1,0 +1,7 @@
+Sphingosine 1-phosphate receptor 1 (S1P(1)) upregulation and amelioration of experimental autoimmune encephalomyelitis by an S1P(1) antagonist.
+Sphingosine 1-phosphate receptor 1 (S1P(1)) is a G protein-coupled receptor that is critical for proper lymphocyte development and recirculation.
+Agonists to S1P(1) are currently in use clinically for the treatment of multiple sclerosis, and these drugs may act on both S1P(1) expressed on lymphocytes and S1P(1) expressed within the central nervous system.
+Agonists to S1P(1) and deficiency in S1P(1)
+both cause lymphocyte sequestration in the lymph nodes.
+In the present study, we show that S1P(1) antagonism induces lymphocyte sequestration in the lymph nodes similar to that observed with S1P(1) agonists while upregulating S1P(1) on lymphocytes and endothelial cells.
+Additionally, we show that S1P(1) antagonism reverses experimental autoimmune encephalomyelitis in mice without acting on S1P(1) expressed within the central nervous system, demonstrating that lymphocyte sequestration via S1P(1) antagonism is sufficient to alleviate autoimmune pathology.

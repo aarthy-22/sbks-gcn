@@ -1,0 +1,10 @@
+EphB4 enhances the process of endochondral ossification and inhibits remodeling during bone fracture repair.
+Previous reports have identified a role for the tyrosine kinase receptor EphB4 and its ligand, ephrinB2, as potential mediators of both bone formation by osteoblasts and bone resorption by osteoclasts.
+In the present study, we examined the role of EphB4 during bone repair after traumatic injury.
+We performed femoral fractures with internal fixation in transgenic mice that overexpress EphB4 under the collagen type 1 promoter (Col1-EphB4) and investigated the bone repair process up to 12 weeks postfracture.
+The data indicated that Col1-EphB4 mice exhibited stiffer and stronger bones after fracture compared with wild-type mice.
+The fractured bones of Col1-EphB4 transgenic mice displayed significantly greater tissue and bone volume 2 weeks postfracture compared with that of wild-type mice.
+These findings correlated with increased chondrogenesis and mineral formation within the callus site at 2 weeks postfracture, as demonstrated by increased safranin O and von Kossa staining, respectively.
+Interestingly, Col1-EphB4 mice were found to possess significantly greater numbers of clonogenic mesenchymal stromal progenitor cells (CFU-F), with an increased capacity to form mineralized nodules in vitro under osteogenic conditions, when compared with those of the wild-type control mice.
+Furthermore, Col1-EphB4 mice had significantly lower numbers of TRAP-positive multinucleated osteoclasts within the callus site.
+Taken together, these observations suggest that EphB4 promotes endochondral ossification while inhibiting osteoclast development during callus formation and may represent a novel drug target for the repair of fractured bones.

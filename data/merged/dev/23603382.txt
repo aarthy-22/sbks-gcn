@@ -1,0 +1,10 @@
+Protective effects of selenium on oxidative damage and oxidative stress related gene expression in rat liver under chronic poisoning of arsenic.
+Arsenic (As) is a toxic metalloid existing widely in the environment, and chronic exposure to it through contaminated drinking water has become a global problem of public health.
+The present study focused on the protective effects of selenium on oxidative damage of chronic arsenic poisoning in rat liver.
+Rats were divided into four groups at random and given designed treatments for 20weeks.
+The oxidative damage of liver tissue was evaluated by lipid peroxidation and antioxidant enzymes.
+Oxidative stress related genes were detected to reflect the liver stress state at the molecular level.
+Compared to the control and Na2SeO3 groups, the MDA content in liver tissue was decreased and the activities of antioxidant enzymes were increased in the Na2SeO3 intervention group.
+The mRNA levels of SOD1, CAT, GPx and Txnrd1 were increased significantly (P<0.05) in the combined Na2SeO3+NaAsO2 treatment group.
+The expressions of HSP70 and HO-1 were significantly (P<0.05) increased in the NaAsO2 group and reduced in the combined treatment group.
+The results indicate that long-term intake of NaAsO2 causes oxidative damage in the rat liver, and Na2SeO3 protects liver cells by adjusting the expression of oxidative stress related genes to improve the activities of antioxidant enzymes.

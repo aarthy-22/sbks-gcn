@@ -1,0 +1,25 @@
+T6	CHEMICAL 32 56	aflatoxin B1-8,9-epoxide
+T21	GENE-N 60 98	alpha-class glutathione S-transferases
+T7	CHEMICAL 72 83	glutathione
+T18	GENE-Y 171 213	human glutathione S-transferase (GST) A1-1
+T4	CHEMICAL 177 188	glutathione
+T8	GENE-Y 261 270	rat GSTA3
+T9	GENE-Y 275 284	rat GSTA5
+T2	CHEMICAL 303 328	S-aflatoxinyl-glutathione
+T3	CHEMICAL 499 524	aflatoxin-exo-8,9-epoxide
+T10	GENE-N 535 551	Alpha-class GSTs
+T11	GENE-Y 597 610	human GSTA1-1
+T12	GENE-Y 631 642	rat GSTA3-3
+T13	GENE-Y 666 677	rat GSTA5-5
+T14	GENE-Y 712 723	rat GSTA5-5
+T15	GENE-Y 749 756	GSTA1-1
+T16	GENE-Y 778 791	human GSTA1-1
+T17	GENE-Y 796 807	rat GSTA3-3
+T19	GENE-Y 831 842	rat GSTA5-5
+T20	GENE-N 890 894	GSTs
+T5	CHEMICAL 972 997	aflatoxin-exo-8,9-epoxide
+T1	CHEMICAL 1171 1196	aflatoxin-exo-8,9-epoxide
+R0	CPR-2 Arg1:T2 Arg2:T8
+R1	CPR-2 Arg1:T2 Arg2:T9
+R2	NOT Arg1:T6 Arg2:T21
+R3	NOT Arg1:T4 Arg2:T9

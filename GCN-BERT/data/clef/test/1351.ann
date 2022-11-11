@@ -1,0 +1,9 @@
+T1	EXAMPLE_LABEL 20 21	5
+T2	REACTION_PRODUCT 37 99	(S)-2-(1-aminoethyl)-5-chloro-3-(m-tolyl)quinazoline-4(3H)-one
+T3	EXAMPLE_LABEL 105 106	1
+T4	REACTION_PRODUCT 123 212	tert-butyl (S)-(1-(5-chloro-4-oxo-3-(m-tolyl)-3,4-dihydroquinazoline-2-yl)ethyl)carbamate
+T5	YIELD_OTHER 213 218	5.1 g
+T6	REACTION_PRODUCT 222 311	tert-butyl (S)-(1-(5-chloro-4-oxo-3-(m-tolyl)-3,4-dihydroquinazoline-2-yl)ethyl)carbamate
+T7	STARTING_MATERIAL 374 385	m-toluidine
+T8	YIELD_OTHER 464 474	12.29 mmol
+T9	YIELD_PERCENT 483 486	70%

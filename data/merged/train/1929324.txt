@@ -1,0 +1,10 @@
+Physiological effects of fenpropimorph on wild-type Saccharomyces cerevisiae and fenpropimorph-resistant mutants.
+Fenpropimorph-resistant mutants of Saccharomyces cerevisiae were isolated by a gradient selection procedure.
+The mutants were cross-resistant to other morpholines (fenpropidin, dodemorph, tridemorph) and 15-azasterol, but were susceptible to azoles (miconazole, clotrimazole, ketoconazole) and nystatin.
+In the absence of fenpropimorph, the major sterol produced by the mutants and the parental strain was ergosterol.
+In the presence of fenpropimorph, ignosterol (ergosta-8,14-dien-3 beta-ol) was the major sterol produced by the mutants and the parental strain.
+The resistance to fenpropimorph involves two recessive genes, each of which allows a semiresistance, when they are isolated apart from one another.
+Strain JR4 (erg3 erg11), which produces 14-methylfecosterol [14 alpha-methyl-ergosta-8,24(28)-dien- 3-beta-ol) as the major sterol in the presence or absence of fenpropimorph, was also found to be resistant to the drug.
+The growth inhibitory effect of fenpropimorph on wild-type cells appears to be linked to the production of ignosterol.
+The uptake of exogenous sterol by wild-type cells was greatly enhanced in the presence of fenpropimorph.
+The growth inhibition caused by fenpropimorph could only be overcome with bulk levels of exogenous C-5,6-unsaturated sterols.

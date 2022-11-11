@@ -1,0 +1,20 @@
+T20	GENE-Y 0 16	Aldose Reductase
+T12	GENE-Y 284 300	aldose reductase
+T4	CHEMICAL 284 290	aldose
+T13	GENE-Y 302 304	AR
+T5	CHEMICAL 310 320	galactitol
+T6	CHEMICAL 365 372	glucose
+T7	CHEMICAL 431 451	caffeoylquinic acids
+T8	CHEMICAL 458 466	phenolic
+T14	GENE-Y 755 766	rat lens AR
+T15	GENE-Y 768 771	rAR
+T16	GENE-Y 789 797	human AR
+T17	GENE-Y 799 803	rhAR
+T9	CHEMICAL 838 869	methyl-3,5-di-O-caffeoylquinate
+T18	GENE-Y 946 949	rAR
+T19	GENE-Y 954 958	rhAR
+T10	CHEMICAL 1057 1088	methyl-3,5-di-O-caffeoylquinate
+T11	GENE-Y 1122 1126	rhAR
+T1	CHEMICAL 1141 1172	methyl-3,5-di-O-caffeoylquinate
+T2	CHEMICAL 1183 1193	galactitol
+T3	CHEMICAL 1279 1286	glucose

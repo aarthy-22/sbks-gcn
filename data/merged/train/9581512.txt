@@ -1,0 +1,6 @@
+Inhibition of eukaryote serine/threonine-specific protein kinases by piceatannol.
+The protein tyrosine kinase (PTK) inhibitor piceatannol is also an inhibitor of the rat liver cyclic AMP-dependent protein kinase (PKA) catalytic subunit (cAK), rat brain Ca(2+)- and phospholipid-dependent protein kinase C (PKC), avian gizzard Ca(2+)-calmodulin-dependent myosin light chain kinae (MLCK), and of wheat embryo Ca(2+)-dependent protein kinase (CDPK) (IC50 values 3, 8, 12, and 19 microM, respectively).
+However, a number of piceatannol-related compounds with fewer or no phenolic hydroxy substituents are inactive or very poor inhibitors of these serine/threonine protein kinases.
+Similarly, the PTK inhibitor ellagic acid is a potent inhibitor of cAK and of PKC (IC50 values 2 and 8 microM, respectively), whereas the non-phenolic perylene is ineffective as a protein kinase inhibitor.
+Ellagic acid is a competitive inhibitor of both cAK and of PKC but piceatannol inhibits these enzymes in a fashion that is competitive and non-competitive, respectively.
+Interaction with calmodulin may contribute to the inhibition of MLCK and CDPK by piceatannol.

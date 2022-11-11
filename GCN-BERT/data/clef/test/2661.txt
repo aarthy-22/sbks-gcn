@@ -1,0 +1,3 @@
+Example 10
+Synthesis of (R)-1-(5-chloro-2-(methylsulfonyl)-8-(((S)-tetrahydro-2H-pyran-3-yl)amino)pyrido[3,4-d]pyrimidin-6-yl)ethyl benzoate
+A mixture of (R)-1-(2-(methylsulfonyl)-8-(((S)-tetrahydro-2H-pyran-3-yl)amino)pyrido[3,4-d]pyrimidin-6-yl)ethyl benzoate synthesized in Example 8 (268 mg, 0.587 mmol) and N-chlorosuccinimide (96 mg, 0.72 mmol) in 1,2-dichloroethane (2.9 mL) was stirred at 65°C overnight. The reaction was monitored by LC/MS. After completion of the reaction, the reaction mixture was cooled to room temperature. The reaction mixture was directly purified by silica gel column chromatography to yield the title compound (255 mg, 89%).

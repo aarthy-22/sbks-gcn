@@ -1,0 +1,11 @@
+Hepatic metabolism of sulfur amino acids in db/db mice.
+To determine the effect of type-2 diabetes and obesity on the hepatic metabolism of sulfur amino acids, hepatic sulfur amino acid metabolism was determined in db/db mice.
+Hepatic methionine was markedly decreased in db/db mice, although the hepatic activity of betaine homocysteine methyltransferase was increased.
+The decrease in hepatic methionine was reflected by decreased sulfur-containing methionine metabolites, including S-adenosylmethionine, homocysteine, cysteine, and hypotaurine in liver and plasma.
+In contrast, S-adenosylhomocysteine, putrescine, and spermidine were increased in db/db mice.
+The hepatic level and activity of methionine adenosyltransferase I/III, an S-adenosylmethionine synthesizing enzyme, were significantly increased.
+These results suggest that increased polyamine synthesis, in conjunction with decreased hepatic methionine levels, is partly responsible for the reduction in hepatic S-adenosylmethionine.
+Decreased homocysteine in liver and plasma may be attributable to the decrease in hepatic methionine and upregulation of hepatic betaine homocysteine methyltransferase.
+Glutathione in liver and plasma did not change despite decreased γ-glutamylcysteine ligase activity.
+The decreased hepatic hypotaurine may be attributable to the downregulation of cysteine dioxygenase.
+The major finding of this study is that db/db mice exhibited decreases in hepatic methionine and its sulfurcontaining metabolites.

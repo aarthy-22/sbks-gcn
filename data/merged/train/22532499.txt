@@ -1,0 +1,7 @@
+Effect of water extracts from edible myrtaceae plants on uptake of 2-(n-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)amino)-2-deoxyglucose in TNF-α-treated FL83B mouse hepatocytes.
+This study investigated the glucose uptake activity of the water extracts from the leaves and fruit of edible Myrtaceae plants, including guava (Psidium guajava Linn.), wax apples [Syzygium samarangense (Blume) Merr. and L.M. Perry], Pu-Tau [Syzygium jambo (L.) Alston], and Kan-Shi Pu-Tau (Syzygium cumini Linn.) in FL83B mouse hepatocytes.
+The fluorescent dye 2-(n-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)amino)-2-deoxyglucose was used to estimate the uptake ability of the cells.
+Glucose uptake test showed that pink wax apple fruit extract (PWFE) exhibits the highest glucose uptake activity, at an increment of 21% in the insulin-resistant FL83B mouse hepatocytes as compared with the TNF-α-treated control group.
+Vescalagin was isolated using column chromatography of PWFE.
+This compound, at the concentration of 6.25 µg/mL, exhibits the same glucose uptake improvement in insulin-resistant cells as PWFE at a 100-µg/mL dose.
+We postulate that vescalagin is an active component in PWFE that may alleviate the insulin resistance in mouse hepatocytes.

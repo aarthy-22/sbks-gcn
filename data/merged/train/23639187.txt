@@ -1,0 +1,16 @@
+Amelioration of palmitate-induced insulin resistance in C2C12 muscle cells by rooibos (Aspalathus linearis).
+Increased levels of free fatty acids (FFAs), specifically saturated free fatty acids such as palmitate are associated with insulin resistance of muscle, fat and liver.
+Skeletal muscle, responsible for up to 80% of the glucose disposal from the peripheral circulation, is particularly vulnerable to increased levels of saturated FFAs.
+Rooibos (Aspalathus linearis) and its unique dihydrochalcone C-glucoside, aspalathin, shown to reduce hyperglycemia in diabetic rats, could play a role in preventing or ameliorating the development of insulin resistance.
+This study aims to establish whether rooibos can ameliorate experimentally-induced insulin-resistance in C2C12 skeletal muscle cells.
+Palmitate-induced insulin resistant C2C12 cells were treated with an aspalathin-enriched green (unfermented) rooibos extract (GRE), previously shown for its blood glucose lowering effect in vitro and in vivo or an aqueous extract of fermented rooibos (FRE).
+Glucose uptake and mitochondrial activity were measured using 2-deoxy-[(3)H]-d-glucose, MTT and ATP assays, respectively.
+Expression of proteins relevant to glucose metabolism was analysed by Western blot.
+GRE contained higher levels of all compounds, except the enolic phenylpyruvic acid-2-O-glucoside and luteolin-7-O-glucoside.
+Both rooibos extracts increased glucose uptake, mitochondrial activity and ATP production.
+Compared to FRE, GRE was more effective at increasing glucose uptake and ATP production.
+At a mechanistic level both extracts down-regulated PKC θ activation, which is associated with palmitate-induced insulin resistance.
+Furthermore, the extracts increased activation of key regulatory proteins (AKT and AMPK) involved in insulin-dependent and non-insulin regulated signalling pathways.
+Protein levels of the glucose transporter (GLUT4) involved in glucose transport via these two pathways were also increased.
+This in vitro study therefore confirms that rooibos can ameliorate palmitate-induced insulin resistance in C2C12 skeletal muscle cells.
+Inhibition of PKC θ activation and increased activation of AMPK and AKT offer a plausible mechanistic explanation for this ameliorative effect.

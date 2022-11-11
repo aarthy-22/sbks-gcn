@@ -1,0 +1,7 @@
+Beta 2- but not beta 1-adrenoceptors are involved in desipramine enhancement of aggressive behavior in long-term isolated mice.
+The effects of several beta-adrenoceptor antagonists on the desipramine-induced increase in aggressive behavior in long-term isolated mice were examined.
+Desipramine HCl (10 mg/kg, IP) significantly increased the duration of aggressive behavior in isolated mice but did not significantly change the latency to the first attack consistent with our previous reports.
+Intraperitoneal administration of (+/- )propranolol HCl (2.5-10 mg/kg), a nonselective beta-adrenoceptor antagonist, dose dependently attenuated the desipramine-induced enhancement of aggressive behavior without significantly affecting the basal aggressive responses.
+ICI118,551 HCl (1.25-5 mg/kg, IP), a selective beta 2-adrenoceptor antagonist, also blocked the desipramine-induced enhancement of aggressive behavior in a dose-dependent manner, whereas metoprolol tartrate (5-20 mg/kg, IP), a selective beta 1-adrenoceptor antagonist, did not affect it.
+Moreover, clenbuterol HCl (0.1-0.5 mg/kg, IP), a lipophilic beta 2-adrenoceptor agonist, significantly increased the duration of basal aggressive behavior.
+Taken together with our previous finding that the desipramine-induced enhancement of aggressive behavior can be blocked by yohimbine, an alpha 2-adrenoceptor antagonist, the present results indicate that not only alpha 2- but also beta 2-adrenoceptor stimulation plays important roles in modulation of aggressive behavior in long-term isolated mice.

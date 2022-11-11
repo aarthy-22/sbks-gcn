@@ -1,0 +1,3 @@
+Example 22. Preparation of N-phenyl-N-(3-(3-(piperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide (LMT-837)
+Step 1: Preparation of tert-butyl 4-(3-bromobenzoyl)piperazine-1-carboxylate
+Tert-butyl 4-(3-bromobenzoyl)piperazine-1-carboxylate was obtained (2.75 g, 99% yield) by the same method described in Step 2 of Example 1 using 3-bromobenzoic acid (1.50 g, 7.46 mmol) and tert-butyl piperazine-1-carboxylate (1.67 g, 8.95 mmol).

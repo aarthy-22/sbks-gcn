@@ -1,0 +1,2 @@
+Synthesis Example 10: Synthesis of Compound 41
+Compound 41 (5.32 g, a yield of 75%) was obtained according to the same method as Synthesis Example 1 except for using 2-bromo-4-phenylquinazoline instead of the bromometabiphenyl in Step 2 of Synthesis Example 1. calcd. C50H30N4: C, 87.44; H, 4.40; N, 8.16; found: C, 87.44; H, 4.40; N, 8.16.

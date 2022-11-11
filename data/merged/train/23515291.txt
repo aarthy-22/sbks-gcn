@@ -1,0 +1,12 @@
+Insulin-Like Growth Factor Binding Protein 2 (IGFBP-2) Promotes Growth and Survival of Breast Epithelial Cells: Novel Regulation of the Estrogen Receptor.
+In breast tumors IGF binding protein-2 (IGFBP-2) is elevated, and the presence of IGFBP-2 has been shown to correlate with malignancy.
+However, how IGFBP-2 contributes to the malignant state is still unclear.
+Silencing IGFBP-2 blocked cell proliferation and in MCF-7 cells increased cell death, indicating that IGFBP-2 was acting in both a mitogenic and a survival capacity.
+Exogenous IGFBP-2 acting via integrin receptors to reduce phosphatase and tensin homolog deleted from chromosome 10 (PTEN) levels protected these cells against death induced by various chemotherapeutic agents.
+This was dependent on a functional estrogen receptor (ER)-α because silencing ER-α blocked the ability of IGFBP-2 to confer cell survival.
+Loss of IGFBP-2 increased levels of PTEN and improved chemosensitivity of the cells, confirming its role as a survival factor.
+Silencing IGFBP-2 had no effect on the response to IGF-II, but responses to estrogen and tamoxifen were no longer observed due to loss of ER-α, which could be prevented by the inhibition of PTEN.
+Conversely, exogenous IGFBP-2 increased ER-α mRNA and protein in both normal and cancer cells via its interaction with integrin receptors.
+These actions of IGFBP-2 on ER-α involved the IGF-I receptor and activation of phosphatidylinositol 3-kinase in the cancer cells but were independent of this in normal breast cells.
+The production of IGFBP-2 by breast cancer cells enhances their proliferative potential, increases their survival, and protects them against chemotherapy-induced death.
+IGFBP-2 not only modulates IGFs and directly regulates PTEN but also has a role in maintaining ER-α expression.

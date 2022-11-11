@@ -1,0 +1,2 @@
+(2) Preparation of tert-butyl 8-amino-3-azabicyclo[3.2.1]octane-3-carboxylate
+Tert-butyl 8-(2,4-dimethoxybenzylamino)-3-azabicyclo[3.2.1]octane-3-carboxylate (0.8 g, 2.12 mmol) was dissolved in methanol (10 mL), and Pd/C (0.1 g) was added. The reaction system was stirred and reacted at 25 °C under compressed hydrogen gas for 16 h, filtered, and the filtrate was concentrated in vacuum to obtain the title compound as colorless oil (0.46 g, yield 95.8 %).

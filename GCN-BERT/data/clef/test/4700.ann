@@ -1,0 +1,14 @@
+T1	TEMPERATURE 436 452	room temperature
+T2	SOLVENT 273 279	CH2Cl2
+T3	EXAMPLE_LABEL 8 9	7
+T4	TIME 463 470	5 hours
+T5	OTHER_COMPOUND 610 614	MeOH
+T6	YIELD_PERCENT 870 875	75.4%
+T7	REAGENT_CATALYST 389 414	N,N-diisopropylethylamine
+T8	REACTION_PRODUCT 11 98	(R)-3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)-N-phenylpyrrolidine-1-carboxamide
+T9	SOLVENT 256 271	dichloromethane
+T10	STARTING_MATERIAL 110 179	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T11	OTHER_COMPOUND 615 621	CH2Cl2
+T12	YIELD_OTHER 736 743	81.5 mg
+T13	STARTING_MATERIAL 301 318	phenyl isocyanate
+T14	REACTION_PRODUCT 747 834	(R)-3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)-N-phenylpyrrolidine-1-carboxamide

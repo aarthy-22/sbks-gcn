@@ -1,0 +1,8 @@
+Simvastatin regulates non-neuronal cholinergic activity in T lymphocytes via CD11a-mediated pathways.
+Lymphocyte function associated antigen-1 (LFA-1; CD11a/CD18) is an important mediator of leukocyte migration and T cell activation.
+We previously showed that antithymocyte globulin stimulates an independent, non-neuronal cholinergic system in T cells via LFA-1-mediated pathways, as evidenced by increases in acetylcholine (ACh) synthesis and choline acetyltransferase (ChAT) mRNA expression.
+The cholesterol-lowering drug simvastatin inhibits LFA-1 signaling by binding to an allosteric site on CD11a (LFA-1 alpha chain), which leads to immunomodulation.
+In the present study, we investigated whether simvastatin modulates lymphocytic cholinergic activity in T cells.
+We found that anti-CD11a monoclonal antibody (mAb) increased ChAT activity, ACh synthesis and release, and expression of ChAT and M5 muscarinic ACh receptor mRNA in MOLT-3 cells, a human leukemic T cell line.
+Simvastatin abolished these anti-CD11a mAb-induced increases in lymphocytic cholinergic activity in a manner independent of its cholesterol-lowering activity.
+These results indicate that LFA-1 contributes to the regulation of lymphocytic cholinergic activity via CD11a-mediated pathways, and suggest that simvastatin exerts its immunosuppressive effects in part via modification of lymphocytic cholinergic activity.

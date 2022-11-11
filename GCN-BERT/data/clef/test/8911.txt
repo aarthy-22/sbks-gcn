@@ -1,0 +1,2 @@
+w. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-2-(3-(4-ETHYLPHENYL)UREIDO)-N-((2S,6S,9S,11AS,17S,18S,20AS)-9-((R)-1-HYDROXYETHYL)-2,6,10,18-TETRAMETHYL-5,8,11,16,20-PENTAOXOHEXADECAHYDRO-1H,5H,16H-DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-17-YL)PROPANAMIDE (COMPOUND 37)
+Compound 37 was synthesized from macrocycle C (100 mg, 0.14 mmol), 1-ethyl-4-isocyanatobenzene (24.7 mg, 0.168 mmol) and triethylamine (92 μL, 0.671 mmol) as a light yellow solid (49.6 mg, 43%) following the general synthesis pathway described herein above;

@@ -1,0 +1,11 @@
+Structural Characterization of an LPA1 Second Extracellular Loop Mimetic with a Self-Assembling Coiled-Coil Folding Constraint.
+G protein-coupled receptor (GPCR) structures are of interest as a means to understand biological signal transduction and as tools for therapeutic discovery.
+The growing number of GPCR crystal structures demonstrates that the extracellular loops (EL) connecting the membrane-spanning helices show tremendous structural variability relative to the more structurally-conserved seven transmembrane α-helical domains.
+The EL of the LPA(1) receptor have not yet been conclusively resolved, and bear limited sequence identity to known structures.
+This study involved development of a peptide to characterize the intrinsic structure of the LPA(1) GPCR second EL.
+The loop was embedded between two helices that assemble into a coiled-coil, which served as a receptor-mimetic folding constraint (LPA(1)-CC-EL2 peptide).
+The ensemble of structures from multi-dimensional NMR experiments demonstrated that a robust coiled-coil formed without noticeable deformation due to the EL2 sequence.
+In contrast, the EL2 sequence showed well-defined structure only near its C-terminal residues.
+The NMR ensemble was combined with a computational model of the LPA(1) receptor that had previously been validated.
+The resulting hybrid models were evaluated using docking.
+Nine different hybrid models interacted with LPA 18:1 as expected, based on prior mutagenesis studies, and one was additionally consistent with antagonist affinity trends.

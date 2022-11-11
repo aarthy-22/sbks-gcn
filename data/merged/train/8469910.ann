@@ -1,0 +1,39 @@
+T15	CHEMICAL 18 34	arachidonic acid
+T16	CHEMICAL 60 72	thyroliberin
+T29	GENE-Y 60 72	thyroliberin
+T17	CHEMICAL 74 77	TRH
+T30	GENE-Y 74 77	TRH
+T31	GENE-Y 90 99	prolactin
+T14	CHEMICAL 147 165	inositolphosphates
+T6	CHEMICAL 197 213	arachidonic acid
+T18	GENE-Y 331 347	phospholipase A2
+T1	CHEMICAL 352 366	diacylglycerol
+T19	GENE-N 352 373	diacylglycerol lipase
+T2	CHEMICAL 384 394	quinacrine
+T3	CHEMICAL 426 438	thyroliberin
+T20	GENE-Y 426 438	thyroliberin
+T21	GENE-Y 450 459	prolactin
+T22	GENE-Y 461 465	rPRL
+T23	GENE-N 557 569	lipoxygenase
+T4	CHEMICAL 580 590	nafazatrom
+T5	CHEMICAL 642 654	thyroliberin
+T24	GENE-Y 642 654	thyroliberin
+T25	GENE-Y 666 670	rPRL
+T26	GENE-N 693 708	cyclo-oxygenase
+T7	CHEMICAL 719 731	indomethacin
+T27	GENE-Y 754 758	rPRL
+T8	CHEMICAL 793 809	arachidonic acid
+T9	CHEMICAL 822 832	quinacrine
+T10	CHEMICAL 834 838	ETYA
+T11	CHEMICAL 843 853	nafazatrom
+T12	CHEMICAL 892 914	inositolpolyphosphates
+T13	CHEMICAL 935 951	arachidonic acid
+T28	GENE-N 1006 1021	phospholipase C
+R0	CPR-4 Arg1:T4 Arg2:T25
+R1	CPR-3 Arg1:T5 Arg2:T25
+R2	CPR-4 Arg1:T7 Arg2:T26
+R3	NOT Arg1:T1 Arg2:T21
+R4	NOT Arg1:T4 Arg2:T26
+R5	NOT Arg1:T5 Arg2:T26
+R6	NOT Arg1:T24 Arg2:T7
+R7	NOT Arg1:T13 Arg2:T28

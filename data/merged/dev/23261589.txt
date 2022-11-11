@@ -1,0 +1,15 @@
+Salsolinol induced apoptotic changes in neural stem cells: amelioration by neurotrophin support.
+Salsolinol (SAL), a catechol isoquinoline has invited considerable attention due to its structural similarity with dopaminergic neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP).
+Its high endogenous presence in Parkinsonian brain implicated its possible association with the disease process.
+SAL is also present in alcohol beverages and certain food materials and can get access to brain especially in conditions of immature or impaired BBB.
+Besides this, the effect of SAL on neural stem cells (NSCs) which are potential candidates for adult neurogenesis and transplantation mediated rejuvenating attempts for Parkinson's disease (PD) brain has not been known so far.
+NSCs in both the cases have to overcome suppressive cues of diseased brain for their survival and function.
+In this study we explored the toxicity of SAL toward NSCs focusing on apoptosis and status of PI3K survival signaling.
+NSCs cultured from embryonic day 11 rat fetal brain including those differentiated to TH(+ve) colonies, when challenged with SAL (1-100μM), elicited a concentration and time dependent cell death/loss of mitochondrial viability.
+10μM SAL on which significant mitochondrial impairment initiated was further used to study mechanism of toxicity.
+Morphological impairment, enhanced TUNEL positivity, cleaved caspase-3 and decreased Bcl-2:Bax suggested apoptosis.
+Sal toxicity coincided with reduced pAkt level and its downstream effectors: pCREB, pGSK-3β, Bcl-2 and neurotrophins GDNF, BDNF suggesting repressed PI3K/Akt signaling.
+Multiple neurotrophic factor support in the form of Olfactory Ensheathing Cell's Conditioned Media (OEC CM) potentially protected NSCs against SAL through activating PI3K/Akt pathway.
+This was confirmed on adding LY294002 the PI3K inhibitor which abolished the protection.
+We inferred that SAL exerts substantial toxicity toward NSCs.
+These findings will lead to better understanding of endogenous threats that might affect the fate of transplanted NSCs and their probable antidotes.

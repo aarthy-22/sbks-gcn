@@ -1,0 +1,9 @@
+Mouse brain serine racemase catalyzes specific elimination of L-serine to pyruvate.
+D-Serine was previously identified in mammalian brain and was shown to be a co-agonist at the 'glycine' site of the N-methyl-D-aspartate (NMDA)-type receptors.
+Racemization of serine is catalyzed by serine racemase, a pyridoxal 5'-phosphate-dependent enzyme expressed mainly in brain and liver.
+NMDA receptor overactivation has been implicated in a number of pathological conditions and inhibitors of serine racemase are thus potentially interesting targets for therapy.
+We expressed recombinant mouse serine racemase in insect cells and purified it to near homogeneity.
+The enzyme is a non-covalent homodimer in solution and requires divalent cations Mg(2+), Ca(2+) or Mn(2+) for activity but not for dimerization.
+In addition to the racemization it also catalyzes specific elimination of L-Ser to pyruvate.
+D-Serine is eliminated much less efficiently.
+Both L-serine racemization and elimination activities of serine racemase are of comparable magnitude, display alkaline pH optimum and are negligible below pH 6.5.

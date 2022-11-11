@@ -1,0 +1,17 @@
+T11	CHEMICAL 0 9	Sorafenib
+T1	CHEMICAL 217 226	sorafenib
+T13	GENE-Y 259 263	BRaf
+T14	GENE-Y 265 310	vascular endothelial growth factor receptor-2
+T15	GENE-Y 316 360	platelet-derived growth factor receptor-beta
+T16	GENE-N 361 367	kinase
+T5	CHEMICAL 504 513	sorafenib
+T6	CHEMICAL 579 588	sorafenib
+T7	CHEMICAL 628 637	sorafenib
+T8	CHEMICAL 762 771	sorafenib
+T9	CHEMICAL 814 823	Sorafenib
+T10	CHEMICAL 880 889	Sorafenib
+T2	CHEMICAL 1137 1146	Sorafenib
+T3	CHEMICAL 1291 1300	sorafenib
+T12	GENE-Y 1364 1368	BRAF
+T4	CHEMICAL 1464 1473	sorafenib
+R0	CPR-4 Arg1:T1 Arg2:T13

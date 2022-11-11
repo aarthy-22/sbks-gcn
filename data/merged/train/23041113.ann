@@ -1,0 +1,19 @@
+T2	CHEMICAL 0 12	Phlorotannin
+T18	GENE-Y 58 70	beta-amyloid
+T19	GENE-N 85 111	alpha- and gamma-secretase
+T3	GENE-Y 137 149	Beta-amyloid
+T9	GENE-Y 151 153	Aβ
+T4	GENE-Y 251 276	amyloid precursor protein
+T8	GENE-Y 278 281	APP
+T10	GENE-Y 414 416	Aβ
+T11	GENE-Y 483 486	APP
+T12	GENE-Y 546 548	Aβ
+T1	CHEMICAL 570 577	butanol
+T13	GENE-N 657 691	alpha-, beta-, and gamma-secretase
+T14	GENE-N 750 765	alpha-secretase
+T15	GENE-N 942 957	Gamma-secretase
+T16	GENE-Y 1049 1054	PSEN1
+T17	GENE-Y 1116 1121	PSEN1
+T5	GENE-N 1385 1400	gamma-secretase
+T6	GENE-N 1405 1420	alpha-secretase
+T7	GENE-Y 1448 1450	Aβ

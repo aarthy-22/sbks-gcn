@@ -1,0 +1,13 @@
+Molecular cloning of a novel diacylglycerol kinase isozyme with a pleckstrin homology domain and a C-terminal tail similar to those of the EPH family of protein-tyrosine kinases.
+A fourth member of the diacylglycerol kinase (DGK) gene family termed DGK delta was cloned from the human testis cDNA library.
+The cDNA sequence contains an open reading frame of 3,507 nucleotides encoding a putative DGK protein of 130,006 Da.
+Interestingly, the new DGK isozyme contains a pleckstrin homology domain found in a number of proteins involved in signal transduction.
+Furthermore, the C-terminal tail of this isozyme is very similar to those of the EPH family of receptor tyrosine kinases.
+The primary structure of the delta-isozyme also has two cysteine-rich zinc finger-like structures (C3 region) and the C-terminal C4 region, both of which have been commonly found in the three isozymes previously cloned (DGKs alpha, beta and gamma).
+However, DGK delta lacks the EF-hand motifs (C2) and contains a long Glu- and Ser-rich insertion (317 residues), which divides the C4 region into two portions.
+Taken together, these structural features of DGK delta indicate that this isozyme belongs to a DGK subfamily distinct from that consisting of DGKs alpha, beta, and gamma.
+Increased DGK activity without marked preference to arachidonoyl type of diacylglycerol was detected in the particulate fraction of COS-7 cells expressing the transfected DGKdelta cDNA.
+The enzyme activity was independent of phosphatidylserine, which is a common activator for the previously sequenced DGKs.
+Northern blot analysis showed that the DGK delta mRNA (approximately 6.3 kilobases) is most abundant in human skeletal muscle but undetectable in the brain, thymus, and retina.
+This expression pattern is different from those of the previously cloned DGKs.
+Our results show that the DGK gene family consists of at least two subfamilies consisting of enzymes with distinct structural characteristics and that each cell type probably expresses its own characteristic repertoire of DGKs whose functions may be regulated through different signal transduction pathways.

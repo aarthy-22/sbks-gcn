@@ -1,0 +1,40 @@
+T12	CHEMICAL 81 97	phenoxybenzamine
+T22	GENE 102 112	calmodulin
+T1	CHEMICAL 114 130	Phenoxybenzamine
+T7	CHEMICAL 176 194	(chloroethyl)amine
+T21	GENE 209 219	calmodulin
+T2	CHEMICAL 239 246	calcium
+T3	CHEMICAL 289 303	chlorpromazine
+T16	GENE 352 362	calmodulin
+T4	CHEMICAL 367 383	phenoxybenzamine
+T5	CHEMICAL 629 646	cyclic nucleotide
+T17	GENE 629 664	cyclic nucleotide phosphodiesterase
+T18	GENE 669 694	myosin light chain kinase
+T6	CHEMICAL 704 718	chlorpromazine
+T8	CHEMICAL 745 761	phenoxybenzamine
+T19	GENE 762 772	calmodulin
+T9	CHEMICAL 814 830	phenoxybenzamine
+T10	CHEMICAL 919 935	phenoxybenzamine
+T20	GENE 945 956	calmodulins
+T11	CHEMICAL 1041 1057	phenoxybenzamine
+T13	GENE 1178 1188	calmodulin
+T14	GENE 1239 1249	calmodulin
+T15	GENE 1436 1446	calmodulin
+R0	CPR-2 Arg1:T12 Arg2:T22
+R1	CPR-2 Arg1:T1 Arg2:T21
+R2	CPR-2 Arg1:T7 Arg2:T21
+R3	CPR-2 Arg1:T4 Arg2:T16
+R4	CPR-2 Arg1:T6 Arg2:T19
+R5	CPR-2 Arg1:T8 Arg2:T19
+R6	CPR-2 Arg1:T10 Arg2:T20
+R7	CPR-2 Arg1:T11 Arg2:T20
+R8	NOT Arg1:T21 Arg2:T2
+R9	NOT Arg1:T5 Arg2:T18
+R10	NOT Arg1:T5 Arg2:T19
+R11	NOT Arg1:T17 Arg2:T6
+R12	NOT Arg1:T17 Arg2:T8
+R13	NOT Arg1:T17 Arg2:T9
+R14	NOT Arg1:T18 Arg2:T6
+R15	NOT Arg1:T18 Arg2:T8
+R16	NOT Arg1:T18 Arg2:T9
+R17	NOT Arg1:T19 Arg2:T9

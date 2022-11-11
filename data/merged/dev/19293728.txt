@@ -1,0 +1,12 @@
+D1-like receptors inhibit insulin-induced vascular smooth muscle cell proliferation via down-regulation of insulin receptor expression.
+OBJECTIVE: Vascular smooth muscle cell (VSMC) proliferation is central to the development of vascular diseases, including hypertension, which is regulated by numerous hormones and humoral factors.
+Our previous study showed that the stimulatory effect of norepinephrine on VSMC proliferation is inhibited by D1-like receptors and the D3 dopamine receptor, a member of the D2-like receptor family.
+Insulin is a proliferative hormone but it is not known if there is any interaction between insulin and D1-like receptors.
+We hypothesized that Dl-like receptors may have an inhibitory effect on the insulin-induced VSMC proliferation; aberrant insulin and Dl-like receptor functions could be involved in the pathogenesis of essential hypertension.
+METHODS: VSMC proliferation was determined by [H]-thymidine incorporation; insulin receptor mRNA and protein expressions were determined by RT-PCR, immunoblotting, and immunohistochemistry.
+RESULTS: Insulin increased VSMC proliferation in immortalized aortic A10 cells, determined by [H]-thymidine incorporation.
+Although the D1-like receptor, by itself, had no effect on VSMC proliferation, stimulation with fenoldopam, a D1-like receptor agonist, inhibited the stimulatory effect of insulin.
+The inhibitory effect of fenoldopam on insulin-mediated VSMC proliferation was receptor specific, because its effect could be blocked by SCH23390, a D1-like receptor antagonist.
+Fenoldopam also inhibited insulin receptor mRNA and protein expression, which was time dependent and concentration dependent.
+A PKC or MAP kinase inhibitor blocked the inhibitory effect of fenoldopam on insulin receptor expression, indicating that PKC and MAP kinase were involved in the signaling pathway.
+CONCLUSION: The inhibitory effect of D1-like receptors on insulin-mediated VSMC proliferation may play an important role in the regulation of blood pressure.

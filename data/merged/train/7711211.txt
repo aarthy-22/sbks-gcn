@@ -1,0 +1,8 @@
+Norethisterone metabolites modulate the uteroglobin and progesterone receptor gene expression in prepubertal rabbits.
+Norethisterone (NET) is a synthetic progestin, used as a contraceptive agent, that is biotransformed at target tissues into 5 alpha-NET and 3 beta,5 alpha-NET, which possess different pharmacological properties.
+The effects of these metabolites on the expression of uteroglobin (UG) and progesterone receptor (PR) genes, both regulated by progesterone (P4), were evaluated in the uterus of prepubertal female rabbits that were simultaneously treated with P4 (1.0 mg) for 5 consecutive days.
+As determined by Western and Northern blot analyses, 5 alpha-NET inhibited the P4-induced UG gene expression in a dose-dependent manner.
+A similar inhibition was observed with the administration of RU-486.
+The estrogenic agent 3 beta,5 alpha-NET and estradiol at a dose of 1.0 mg also inhibited the UG gene expression induced by P4.
+Both 5 alpha-NET and 3 beta,5 alpha-NET blocked the PR down-regulation induced by P4 as assessed by Western and Northern blot methods.
+The inhibition of UG synthesis and PR down-regulation by 5 alpha-NET and 3 beta,5 alpha-NET indicates that these NET metabolites possess antiprogestational properties.

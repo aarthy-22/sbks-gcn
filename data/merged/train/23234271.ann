@@ -1,0 +1,11 @@
+T6	CHEMICAL 24 43	diazatricyclodecane
+T9	GENE-Y 60 90	G-protein-coupled receptor 119
+T7	GENE-Y 104 110	GPR119
+T2	CHEMICAL 131 168	2,6-diazatricyclo[3.3.1.1∼3,7∼]decane
+T1	CHEMICAL 288 302	diazatricyclic
+T3	CHEMICAL 559 592	3-oxa-7-aza-bicyclo[3.3.1]nonanes
+T4	CHEMICAL 610 619	carbamate
+T5	CHEMICAL 637 650	diazatricylic
+T8	GENE-Y 721 727	GPR119
+R0	NOT Arg1:T4 Arg2:T8
+R1	NOT Arg1:T5 Arg2:T8

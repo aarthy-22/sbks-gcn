@@ -1,0 +1,10 @@
+In vivo and in vitro characterization of naltrindole-derived ligands at the κ-opioid receptor.
+Accumulating evidence supports a role for κ-opioid receptor antagonists in the treatment of mood disorders.
+Standard κ-antagonists have an unusual pharmacodynamic action, with a single injection blocking receptor signaling for several weeks.
+Here, we have characterized the κ-selective properties of two ligands, 5'-(2-aminomethyl) naltrindole (5'-AMN) and N-((Naltrindol-5-yl) methyl) pentanimidamide (5'-MABN), to identify whether modifications of the naltrindole side chain produces short-acting κ-antagonists.
+Opioid receptor binding affinity and activity were assessed using [(3)H]-diprenorphine binding, guanosine-5'-O-(3-[35S]-thio) triphosphate ([(35)S]-GTPγS) binding and isolated guinea-pig ileum.
+Pharmacodynamic profiles of 5'-AMN and 5'-MABN (1-10 mg/kg) were investigated using the tail-withdrawal assay and diuresis.
+Efficacy was also determined in depression- and anxiety-related behavioral paradigms in CD-1 mice.
+Both 5'-AMN and 5'-MABN had high affinity for κ-receptors (K (i) 1.36 ± 0.98 and 0.27 ± 0.08, respectively) and were revealed as potent κ-antagonists (pA(2) 7.43 and 8.18, respectively) and μ-receptor antagonists (pA(2) 7.62 and 7.85, respectively) in the ileum.
+Contrary to our hypothesis, in vivo, 5'-AMN and 5'-MABN displayed long-lasting antagonist effects in mice, reducing the antinociceptive actions of U50,488 (10 mg/kg) at 28 and 21 days post-injection, respectively.
+Interestingly, while 5'-AMN and 5'-MABN were not κ-selective, both compounds did show significant antidepressant- and anxiolytic-like effects at 7-14 days post-injection in mice.

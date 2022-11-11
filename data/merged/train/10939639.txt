@@ -1,0 +1,6 @@
+Schisandrin B protects against menadione-induced hepatotoxicity by enhancing DT-diaphorase activity.
+Pretreating mice with schisandrin B (Sch B), a dibenzocyclooctadiene derivative isolated from the fruit of Schisandra chinensis, at a daily dose of 1 mmol/kg for 3 days protected against menadione-induced hepatic oxidative damage in mice, as evidenced by decreases in plasma alanine aminotransferase activity (78%) and hepatic malondialdehyde level (70%), when compared with the menadione intoxicated control.
+In order to define the biochemical mechanism involved in the hepatoprotection afforded by Sch B pretreatment, we examined the activity of DT-diaphorase (DTD) in hepatocytes isolated from Sch B pretreated rats.
+Hepatocytes isolated from Sch B pretreated (a daily dose of 1 mmol/kg for 3 days) rats showed a significant increase (25%) in DTD activity.
+The increase in DTD activity was associated with the enhanced rate of menadione elimination in the hepatocyte culture.
+The ensemble of results suggests that the ability of Sch B pretreatment to enhance hepatocellular DTD activity may at least in part be attributed to the protection against menadione hepatotoxicity.

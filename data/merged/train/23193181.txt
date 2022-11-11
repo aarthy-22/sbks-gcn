@@ -1,0 +1,10 @@
+High-dose resveratrol supplementation in obese men: an investigator-initiated, randomized, placebo-controlled clinical trial of substrate metabolism, insulin sensitivity, and body composition.
+Obesity, diabetes, hypertension, and hyperlipidemia constitute risk factors for morbidity and premature mortality.
+Based on animal and in vitro studies, resveratrol reverts these risk factors via stimulation of silent mating type information regulation 2 homolog 1 (SIRT1), but data in human subjects are scarce.
+The objective of this study was to examine the metabolic effects of high-dose resveratrol in obese human subjects.
+In a randomized, placebo-controlled, double-blinded, and parallel-group design, 24 obese but otherwise healthy men were randomly assigned to 4 weeks of resveratrol or placebo treatment.
+Extensive metabolic examinations including assessment of glucose turnover and insulin sensitivity (hyperinsulinemic euglycemic clamp) were performed before and after the treatment.
+Insulin sensitivity, the primary outcome measure, deteriorated insignificantly in both groups.
+Endogenous glucose production and the turnover and oxidation rates of glucose remained unchanged.
+Resveratrol supplementation also had no effect on blood pressure; resting energy expenditure; oxidation rates of lipid; ectopic or visceral fat content; or inflammatory and metabolic biomarkers.
+The lack of effect disagrees with persuasive data obtained from rodent models and raises doubt about the justification of resveratrol as a human nutritional supplement in metabolic disorders.

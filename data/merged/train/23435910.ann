@@ -1,0 +1,30 @@
+T18	CHEMICAL 10 22	sinapic acid
+T19	CHEMICAL 31 50	dimethylnitrosamine
+T1	CHEMICAL 85 97	Sinapic acid
+T8	CHEMICAL 117 132	phenylpropanoid
+T5	CHEMICAL 334 346	sinapic acid
+T6	CHEMICAL 350 369	dimethylnitrosamine
+T7	CHEMICAL 371 374	DMN
+T9	CHEMICAL 414 426	Sinapic acid
+T10	CHEMICAL 448 451	DMN
+T11	CHEMICAL 547 554	alanine
+T21	GENE-N 547 567	alanine transaminase
+T12	CHEMICAL 569 578	aspartate
+T22	GENE-Y 569 591	aspartate transaminase
+T13	CHEMICAL 603 618	malondialdehyde
+T14	CHEMICAL 641 653	sinapic acid
+T15	CHEMICAL 670 684	hydroxyproline
+T23	GENE-N 749 764	type I collagen
+T24	GENE-N 799 807	collagen
+T25	GENE-Y 898 919	α-smooth muscle actin
+T26	GENE-Y 924 953	transforming growth factor-β1
+T27	GENE-Y 955 961	TGF-β1
+T16	CHEMICAL 998 1010	sinapic acid
+T17	CHEMICAL 1012 1024	Sinapic acid
+T2	CHEMICAL 1091 1103	sinapic acid
+T3	CHEMICAL 1163 1166	DMN
+T20	GENE-Y 1284 1290	TGF-β1
+T4	CHEMICAL 1377 1389	sinapic acid
+R0	NOT Arg1:T21 Arg2:T12
+R1	NOT Arg1:T22 Arg2:T13
+R2	NOT Arg1:T15 Arg2:T24

@@ -1,0 +1,4 @@
+Synthesis, structure-activity relationships, and in vivo efficacy of the novel potent and selective anaplastic lymphoma kinase (ALK) inhibitor 5-chloro-N2-(2-isopropoxy-5-methyl-4-(piperidin-4-yl)phenyl)-N4-(2-(isopropylsulf onyl)phenyl)pyrimidine-2,4-diamine (LDK378) currently in phase 1 and phase 2 clinical trials.
+The synthesis, preclinical profile, and in vivo efficacy in rat xenograft models of the novel and selective anaplastic lymphoma kinase inhibitor 15b (LDK378) are described.
+In this initial report, preliminary structure-activity relationships (SARs) are described as well as the rational design strategy employed to overcome the development deficiencies of the first generation ALK inhibitor 4 (TAE684).
+Compound 15b is currently in phase 1 and phase 2 clinical trials with substantial antitumor activity being observed in ALK-positive cancer patients.

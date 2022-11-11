@@ -1,0 +1,14 @@
+Contribution of enzymic alpha, gamma-elimination reaction in detoxification pathway of selenomethionine in mouse liver.
+The objective of this study was to clarify the detoxification pathways of selenomethionine (SeMet) in mouse liver.
+It has been postulated that SeMet may be metabolized to selenocysteine (SeCyH) via a pathway similar to methionine (Met).
+CySeH may be decomposed to H(2)Se, which is consequently methylated to CH(3)SeH, (CH(3))(2)Se, and (CH(3))(3)Se(+).
+In this study, we estimated that the median lethal single oral dose (LD(50)) was 67.0 mg/kg.
+We also found that (CH(3))(3)Se(+) was quickly produced in mouse liver after single oral administration of SeMet.
+This result suggested the existence of a quick alpha,gamma-elimination pathway.
+We measured the amounts of alpha-ketobutyrate, NH(3), and CH(3)SeH produced by enzymic alpha,gamma-elimination reaction of SeMet in the liver of periodate-oxidized adenosine (PAD) or D,L-propargylglycine (PPG)-treated mice in order to verify the existence of alpha,gamma-elimination enzyme.
+PAD is an inhibitor of S-adenosylhomocysteinase (EC 3.3.1.1), which is necessary for conversion of SeMet to SeCyH. PPG is an effective inhibitor of the pyridoxal 5'-phosphate (PLP)-containing enzyme bacterial L-methionine gamma-lyase (EC 4.4.1.11) contributing to the alpha,gamma-elimination reaction of SeMet and cystathionine gamma-lyase (EC 4.4.1.1) relating to conversion of SeMet to SeCyH. When SeMet was incubated with the S9 fraction from liver of PAD-treated mice, the formation of alpha-ketobutyrate was much the same as that from nontreated mouse liver.
+However, the amount of alpha-ketobutyrate formed significantly decreased in the reaction of SeMet with S9 fraction from the liver of PPG-treated mice.
+In an in vivo experiment using mice treated with PAD before a toxic dosage of SeMet, the amount of SeMet in the liver decreased and the amount of acid-volatile Se derived from CH(3)SeH increased gradually.
+This phenomenon was not observed in the PPG-pretreated group.
+Furthermore, the protein fraction that had the alpha,gamma-elimination enzyme activity was found in mouse liver cytosol by gel chromatographic technique.
+The results of this study indicated that SeMet was directly metabolized to CH(3)SeH by an alpha,gamma-elimination enzyme analogous to bacterial L-methionine gamma-lyase, in addition to the generally acceptable pathway via SeCyH.

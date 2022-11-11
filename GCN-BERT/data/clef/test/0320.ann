@@ -1,0 +1,27 @@
+T1	EXAMPLE_LABEL 9 11	12
+T2	REACTION_PRODUCT 26 111	3-(4-(dimethylamino)piperidin-1-yl)-1-(1-methyl-1H-imidazol-2-yl)-3-oxopropyl acetate
+T3	REAGENT_CATALYST 113 121	Pyridine
+T4	REAGENT_CATALYST 148 164	acetic anhydride
+T5	STARTING_MATERIAL 215 302	1-(4-(dimethylamino)piperidin-1-yl)-3-hydroxy-3-(1-methyl-1H-imidazol-2-yl)propan-1-one
+T6	SOLVENT 328 343	dichloromethane
+T7	TEMPERATURE 356 359	0°C
+T8	TEMPERATURE 399 415	room temperature
+T9	TIME 420 427	2 hours
+T10	STARTING_MATERIAL 438 454	acetic anhydride
+T11	TEMPERATURE 490 506	room temperature
+T12	TIME 571 577	1 hour
+T13	OTHER_COMPOUND 591 598	aqueous
+T14	OTHER_COMPOUND 611 635	sodium hydrogencarbonate
+T15	OTHER_COMPOUND 712 722	chloroform
+T16	OTHER_COMPOUND 764 771	aqueous
+T17	OTHER_COMPOUND 784 799	sodium chloride
+T18	OTHER_COMPOUND 830 844	sodium sulfate
+T19	OTHER_COMPOUND 970 972	NH
+T20	OTHER_COMPOUND 973 983	silica gel
+T21	OTHER_COMPOUND 985 995	chloroform
+T22	OTHER_COMPOUND 996 1004	methanol
+T23	REACTION_PRODUCT 1016 1101	3-(4-(dimethylamino)piperidin-1-yl)-1-(1-methyl-1H-imidazol-2-yl)-3-oxopropyl acetate
+T24	YIELD_OTHER 1103 1110	0.114 g
+T25	YIELD_OTHER 1112 1122	0.353 mmol
+T26	YIELD_PERCENT 1124 1127	82%
+T27	REACTION_PRODUCT 1161 1183	compound of Example 12

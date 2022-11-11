@@ -1,0 +1,11 @@
+Development of potent and selective indomethacin analogues for the inhibition of AKR1C3 (Type 5 17β-hydroxysteroid dehydrogenase/prostaglandin F synthase) in castrate-resistant prostate cancer.
+Castrate-resistant prostate cancer (CRPC) is a fatal, metastatic form of prostate cancer.
+CRPC is characterized by reactivation of the androgen axis due to changes in androgen receptor signaling and/or adaptive intratumoral androgen biosynthesis.
+AKR1C3 is upregulated in CRPC where it catalyzes the formation of potent androgens.
+This makes AKR1C3 a target for the treatment of CRPC.
+AKR1C3 inhibitors should not inhibit AKR1C1/AKR1C2, which inactivate 5α-dihydrotestosterone.
+Indomethacin, used to inhibit cyclooxygenase, also inhibits AKR1C3 and displays selectivity over AKR1C1/AKR1C2.
+Parallel synthetic strategies were used to generate libraries of indomethacin analogues, which exhibit reduced cyclooxygenase inhibitory activity but retain AKR1C3 inhibitory potency and selectivity.
+The lead compounds inhibited AKR1C3 with nanomolar potency, displayed >100-fold selectivity over AKR1C1/AKR1C2, and blocked testosterone formation in LNCaP-AKR1C3 cells.
+The AKR1C3·NADP(+)·2'-des-methyl-indomethacin crystal structure was determined, and it revealed a unique inhibitor binding mode.
+The compounds reported are promising agents for the development of therapeutics for CRPC.

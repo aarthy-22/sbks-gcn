@@ -1,0 +1,9 @@
+Enhanced heterodimerization of Bax by Bcl-2 mutants improves irradiated cell survival.
+B Cell Lymphoma-2 (Bcl-2) protein suppresses ionizing radiation-induced apoptosis in hemato-lymphoid system.
+To enhance the survival of irradiated cells, we have compared the effects and mechanism of Bcl-2 and its functional variants, D34A (caspase-3 resistant) and S70E (mimics phosphorylation on S70).
+Bcl-2 and its mutants were transfected into hematopoietic cell line and assessed for cell survival, clonogenicity and cell cycle perturbations upon exposure to ionizing radiation.
+The electrostatic potential of BH3 cleft of Bcl-2/mutants and their heterodimerization with Bcl-2 associated X protein (Bax) were computationally evaluated.
+Correspondingly, these results were verified by co-immunoprecipitation and western blotting.
+The mutants afford higher radioprotective effect than Bcl-2 in apoptotic and clonogenic assays at D(0) (radiation dose at which 37 % cell survival was observed).
+The computational and functional analysis indicates that mutants have higher propensity to neutralize Bax protein by heterodimerization and have increased caspase-9 suppression capability, which is responsible for enhanced survival.
+This study implies potential of Bcl-2 mutants or their chemical/peptide mimics to elicit radioprotective effect in cells exposed to radiation.

@@ -1,0 +1,22 @@
+T8	CHEMICAL 11 27	Xanthurenic acid
+T21	GENE-N 51 91	Group II metabotropic glutamate receptor
+T9	CHEMICAL 73 82	glutamate
+T1	CHEMICAL 142 158	Xanthurenic acid
+T6	CHEMICAL 189 199	tryptophan
+T7	CHEMICAL 232 251	3-hydroxykynurenine
+T14	GENE-Y 309 314	mGlu2
+T16	GENE-Y 319 324	mGlu3
+T17	GENE-N 326 364	metabotropic glutamate (mGlu) receptor
+T4	CHEMICAL 339 348	glutamate
+T18	GENE-N 397 419	Group II mGlu receptor
+T5	CHEMICAL 536 546	kynurenine
+T19	GENE-N 643 665	Group II mGlu receptor
+T20	GENE-N 773 795	Group II mGlu receptor
+T10	GENE-N 1156 1178	Group II mGlu receptor
+T11	GENE-N 1423 1437	mGlu receptors
+T12	GENE-N 1446 1464	Group II receptors
+T2	CHEMICAL 1469 1479	kynurenine
+T13	GENE-N 1746 1768	Group II mGlu receptor
+T15	GENE-N 1827 1859	Metabotropic Glutamate Receptors
+T3	CHEMICAL 1840 1849	Glutamate
+R0	CPR-2 Arg1:T1 Arg2:T17

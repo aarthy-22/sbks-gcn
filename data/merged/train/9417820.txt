@@ -1,0 +1,6 @@
+Analysis of NMDA receptors in the human spinal cord.
+NMDA receptors in postmortem human spinal cord were analyzed using [3H]MK-801 ligand binding and immunoblotting with NMDA receptor subunit-specific antibodies.
+The average KD for [3H]MK-801 binding was 1.77 nM with a Bmax of 0.103 pmol/mg.
+The EC50 for stimulation of -3H-MK-801 binding with L-glutamate was 0.34 microM. None of these parameters were affected by postmortem intervals up to 72 h. Immunoblotting of native NMDA receptors showed that NR1, NR2A, NR2C, and NR2D subunits could all be found in the human spinal cord of which NR1 was preferentially located to the dorsal half.
+Immunoprecipitation of solubilized receptors revealed that NR1, NR2C, and NR2D subunits coprecipitated with the NR2A subunit, indicating that native human spinal cord NMDA receptors are heteroligimeric receptors assembled by at least three different receptor subunits.
+These results provide a basis for the development of drugs selectively aimed at spinal cord NMDA receptors for the future treatment of spinal cord disorders.

@@ -1,0 +1,10 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 8 116	tert-Butyl 5-(3-formyl-2-methylphenyl)-3-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate
+T3	REAGENT_CATALYST 117 140	Dess-Martin periodinane
+T4	STARTING_MATERIAL 189 306	tert-butyl 5-(3-(hydroxymethyl)-2-methylphenyl)-3-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate
+T5	REAGENT_CATALYST 332 340	pyridine
+T6	SOLVENT 366 369	DCM
+T7	TEMPERATURE 396 400	r.t.
+T8	TIME 405 408	1 h
+T9	YIELD_OTHER 507 513	170 mg
+T10	YIELD_PERCENT 515 518	90%

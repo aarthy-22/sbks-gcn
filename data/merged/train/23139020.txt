@@ -1,0 +1,14 @@
+Determination of the dominant arachidonic acid cytochrome p450 monooxygenases in rat heart, lung, kidney, and liver: protein expression and metabolite kinetics.
+Cytochrome P450 (P450)-derived arachidonic acid (AA) metabolites serve pivotal physiological roles.
+Therefore, it is important to determine the dominant P450 AA monooxygenases in different organs.
+We investigated the P450 AA monooxygenases protein expression as well as regioselectivity, immunoinhibition, and kinetic profile of AA epoxygenation and hydroxylation in rat heart, lung, kidney, and liver.
+Thereafter, the predominant P450 epoxygenases and P450 hydroxylases in these organs were characterized.
+Microsomes from heart, lung, kidney, and liver were incubated with AA.
+The protein expression of CYP2B1/2, CYP2C11, CYP2C23, CYP2J3, CYP4A1/2/3, and CYP4Fs in the heart, lung, kidney, and liver were determined by Western blot analysis.
+The levels of AA metabolites were determined by liquid chromatography-electrospray ionization mass spectroscopy.
+This was followed by determination of regioselectivity, immunoinhibition effect, and the kinetic profile of AA metabolism.
+AA was metabolized to epoxyeicosatrienoic acids and 19- and 20-hydroxyeicosatetraenoic acid in the heart, lung, kidney, and liver but with varying metabolic activities and regioselectivity.
+Anti-P450 antibodies were found to differentially inhibit AA epoxygenation and hydroxylation in these organs.
+Our data suggest that the predominant epoxygenases are CYP2C11, CYP2B1, CYP2C23, and CYP2C11/CYP2C23 for the heart, lung, kidney, and liver, respectively.
+On the other hand, CYP4A1 is the major ω-hydroxylase in the heart and kidney; whereas CYP4A2 and/or CYP4F1/4 are probably the major hydroxlases in the lung and liver.
+These results provide important insights into the activities of P450 epoxygenases and P450 hydroxylases-mediated AA metabolism in different organs and their associated P450 protein levels.

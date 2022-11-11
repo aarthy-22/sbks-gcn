@@ -1,0 +1,2 @@
+l. PREPARATION OF (S)-N-((2R,6S,8AS,14AS,20S,23AS)-2,6-DIMETHYL-5,8,14,19,23-PENTAOXOOCTADECADYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-2-(3-(1-METHYL-1H-INDOL-6-YL)UREIDO)-3-PHENYLPROPANAMIDE (COMPOUND 12).
+Compound 12 was synthesized from compound C (80 mg, 0.128 mmol), 6-isocyanato-1-methyl-1H-indole (26.5 mg, 0.154 mmol) and triethylamine (84 μL, 0.615 mmol) following the general synthesis method as described herein above. Compound 12 was provided as a white solid (45 mg, 44.1%);

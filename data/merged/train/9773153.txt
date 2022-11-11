@@ -1,0 +1,32 @@
+[In vivo selectivity of nonsteroidal anti-inflammatory drugs on COX-1-COX-2 and gastrointestinal ulcers, in rats].
+UNLABELLED: This work was aimed to study COX-1 and COX-2 selectivity in 16 non-steroidal anti-inflammatory drugs (NSAIDs), at ulcerogenic doses in 2 experimental models: 1) provided subcutaneously (sc), after solid food(SF), (antrum ulcers and intestinal erosions); and 2) orally (O) (fundic and intestinal erosions).
+METHODS: 17 groups of female Wistar rats (n = 7 each group), weighing 200 g, 36 h fasting with water ad libitum, were submitted to the following experiments: 1.
+SF (Cargill chow) during 1 h, and then sc: 1.1 ml saline; 2.
+diclofenac (Di); 3.
+indomethacine (Indo); 4.
+Ketorolac (Ke); 5.
+meloxicam (Mel); 6.
+Pyroxicam (P); 7.
+tenoxicam (T).
+The dose for the aforementioned drugs was 60 mg/kg; 8.
+aceclofenac (Ace); 9. 200 mg/kg nimesulide (Ni); 10. mefenamic acid (Mac); 11.
+aspirin (A); 12.
+etodolac (E); 13.
+ibuprophen (Ibu); 14.
+nabumetone (Na); 15.
+naproxene (Nap); 16.
+ketoprophen (Ket); 17. paracetamol (Pa), 500 mg/kg.
+II.
+The drugs where administered by orogastric tubing to the same groups of fasting animals.
+After 24 h the animals were killed by ether overdose.
+Laparotomy was performed and the stomach and the small intestine was removed.
+The percentage of antum ulcer, and fundic and intestinal erosion (mm2) was tabulated by planimetry.
+Blood and histological samples were obtained.
+RESULTS: The NSAIDs Indo, Ibu, Ke, Ket, P and Te yielded an antrum ulcer area: 5-29% and intestinal erosion, 101-395 mm2, similar to Indo (p > 0.50).
+In contrast there were neither ulcers nor intestinal erosions with Mac, A, Di, E and Nap (p > 0.50).
+While there were absence of ulcers with Ace, Me, Na, Ni and Pa and slight intestinal erosion (0-23 mm2; p < 0.01).
+II.
+There were differences in the following oral (NAIDs: Ace, Me, NA, Ni and Pa, yielding 0-5% fundic erosion and 0-22 mm2 intestinal erosion (p < 0.001).
+The other NSADs yielded 33-90% fundic erosion and 116-550 mm2 intestinal erosion, similarly to Indo (p > 0.50).
+HISTOLOGY: Leukocyte infiltrate in the gastrointestinal mucosa with all the NSADs, except Ibu and Pa. There was also neutrophilia (5000-20,000), but not with Ibu and Pa (700-1200).
+CONCLUSIONS: COX-2-COX-1 selectivity was demonstrated "in vivo" in aceclofenac, meloxicam, nabumetone, nimesulide and paracetamol.

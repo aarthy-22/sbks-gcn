@@ -1,0 +1,31 @@
+T15	CHEMICAL 17 33	dimethylarginine
+T25	GENE-Y 17 56	dimethylarginine dimethylaminohydrolase
+T1	CHEMICAL 81 97	Dimethylarginine
+T16	GENE-Y 81 120	Dimethylarginine dimethylaminohydrolase
+T20	GENE-Y 122 126	DDAH
+T8	CHEMICAL 151 167	dimethylarginine
+T14	CHEMICAL 180 192	L-citrulline
+T18	GENE-Y 330 334	DDAH
+T2	CHEMICAL 345 357	L-citrulline
+T3	CHEMICAL 421 425	urea
+T19	GENE-N 431 437	urease
+T4	CHEMICAL 457 461	urea
+T5	CHEMICAL 519 538	sulfosalicylic acid
+T21	GENE-N 572 580	protease
+T6	CHEMICAL 641 650	phosphate
+T22	GENE-N 744 752	Arginase
+T7	CHEMICAL 756 768	nitric oxide
+T23	GENE-N 756 777	nitric oxide synthase
+T9	CHEMICAL 817 829	L-citrulline
+T10	CHEMICAL 856 868	L-citrulline
+T24	GENE-Y 897 901	DDAH
+T11	CHEMICAL 980 996	dimethylarginine
+T12	CHEMICAL 1047 1057	superoxide
+T13	CHEMICAL 1062 1074	nitric oxide
+T17	GENE-Y 1098 1102	DDAH
+R0	CPR-9 Arg1:T8 Arg2:T20
+R1	CPR-9 Arg1:T11 Arg2:T24
+R2	CPR-4 Arg1:T12 Arg2:T17
+R3	CPR-4 Arg1:T13 Arg2:T17
+R4	NOT Arg1:T19 Arg2:T4
+R5	NOT Arg1:T5 Arg2:T21

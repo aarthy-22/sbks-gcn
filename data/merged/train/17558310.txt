@@ -1,0 +1,8 @@
+The 1976C>T polymorphism in the adenosine A2A receptor gene does not affect the vasodilator response to adenosine in humans in vivo.
+The 1976C>T polymorphism in the adenosine A2A receptor gene (ADORA2A) modulates the psychological response to administration of the adenosine receptor antagonist caffeine.
+We quantified the vascular response to adenosine and caffeine to determine the relevance of this variant allele in the physiological response to these agents.
+We selected 10 study participants with the TT genotype and 10 CC controls, matched for activities of other proteins involved in the metabolism of adenosine.
+The vasodilator response to the intrabrachial administration of adenosine (0.5, 1.5, 5.0, 15.0, and 50.0 microg/min/dl; venous occlusion plethysmography) was not different between the groups (P=0.4).
+In addition, the effect of subsequent administration of caffeine (90 microg/min/dl) was not different (P=0.7).
+We conclude that the 1976C>T polymorphism does not affect the vascular response to adenosine and caffeine in humans in vivo.
+Therefore, this polymorphism does not contribute to the variation in the effects of adenosine receptor stimulation.

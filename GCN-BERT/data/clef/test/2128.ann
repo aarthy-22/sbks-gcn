@@ -1,0 +1,7 @@
+T1	REACTION_PRODUCT 310 324	title compound
+T2	YIELD_PERCENT 288 291	57%
+T3	YIELD_OTHER 280 286	273 mg
+T4	STARTING_MATERIAL 246 259	1-iodopropane
+T5	EXAMPLE_LABEL 8 11	24A
+T6	STARTING_MATERIAL 197 218	compound from Ex. 18A
+T7	REACTION_PRODUCT 12 121	Propyl 1-(2-methoxyethyl)-5-methyl-2,4-dioxo-3-propyl-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carboxylate

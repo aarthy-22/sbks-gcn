@@ -1,0 +1,12 @@
+Nicotinic acetylcholine receptor regulation of spinal norepinephrine release.
+BACKGROUND: Neuronal nicotinic acetylcholine receptor (nAChR) agonists produce antinociception in animals.
+nAChRs exist almost exclusively on presynaptic terminals in the central nervous system and stimulate neurotransmitter release.
+This study tested whether nAChR agonists stimulate spinal release of the neurotransmitter norepinephrine either by direct actions on noradrenergic terminals or indirectly by stimulating release of other neurotransmitters to induce norepinephrine release.
+METHODS: Adult male rats were anesthetized and microdialysis probes inserted in the L2-L4 dermatomes of the spinal cord.
+Probes were perfused with artificial cerebrospinal fluid containing nicotine, the specific alpha(4)beta(2*) nAChR agonist metanicotine, or nicotine plus nAChR antagonists and norepinephrine measured in the microdialysates.
+The effects of specific glutamate receptor antagonists and nitric oxide synthase inhibitors were also examined.
+To determine direct effects on noradrenergic terminals, synaptosomes were prepared from spinal cord and incubated with nAChR agonists and antagonists.
+RESULTS: Both nicotine and metanicotine induced norepinephrine release in spinal microdialsyates, an effect reduced by nicotinic antagonists but not glutamate antagonists or nitric oxide synthase inhibitors.
+Both of the nicotinic agonists stimulated norepinephrine release in synaptosomes, and the effect of metanicotine was blocked at lower concentrations of alpha(4)beta(2*)- than alpha(7*)-preferring nAChR antagonists.
+CONCLUSION: These results suggest that one mechanism by which nAChR agonists act for analgesia is to stimulate spinal norepinephrine release.
+They do so by actions on alpha(4)beta(2*) nAChRs, and perhaps other subtypes, most likely located on noradrenergic terminals, rather than by indirectly stimulating norepinephrine release through glutamate release or nitric oxide synthesis.

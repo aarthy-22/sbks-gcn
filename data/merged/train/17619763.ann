@@ -1,0 +1,17 @@
+T5	GENE-Y 325 359	vascular endothelial growth factor
+T6	GENE-Y 361 365	VEGF
+T7	GENE-N 387 392	VEGFR
+T8	GENE-Y 427 456	mammalian target of rapamycin
+T1	CHEMICAL 447 456	rapamycin
+T9	GENE-Y 458 462	mTOR
+T2	CHEMICAL 465 471	Sutent
+T3	CHEMICAL 476 485	sorafenib
+T10	GENE-N 525 530	VEGFR
+T11	GENE-N 535 574	platelet derived growth factor receptor
+T12	GENE-N 576 581	PDGFR
+T4	CHEMICAL 584 596	Temsirolimus
+T13	GENE-Y 603 607	mTOR
+T14	GENE-Y 668 672	VEGF
+R0	CPR-4 Arg1:T3 Arg2:T11
+R1	CPR-4 Arg1:T4 Arg2:T13
+R2	NOT Arg1:T5 Arg2:T1

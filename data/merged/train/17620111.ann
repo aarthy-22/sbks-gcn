@@ -1,0 +1,13 @@
+T8	CHEMICAL 60 67	codeine
+T2	CHEMICAL 131 138	codeine
+T12	GENE-Y 187 205	mu-opioid receptor
+T9	GENE-Y 247 268	kappa-opioid receptor
+T10	GENE-Y 394 409	delta-receptors
+T11	GENE-N 459 486	Peripheral opioid receptors
+T3	CHEMICAL 696 703	codeine
+T4	CHEMICAL 831 838	codeine
+T5	CHEMICAL 886 889	SO2
+T6	CHEMICAL 980 987	codeine
+T13	GENE-N 1015 1026	neurokinins
+T7	CHEMICAL 1062 1069	codeine
+T1	CHEMICAL 1439 1446	codeine

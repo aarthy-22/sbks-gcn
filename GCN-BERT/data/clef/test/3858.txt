@@ -1,0 +1,3 @@
+Example 15: Synthesis of N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(3-(pyrrolidin-1-yl)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+Step 1: Synthesis of 1-(prop-2-yn-1-yl)pyrrolidine
+To a solution of pyrrolidine (1.5 ml, 1 eq) in toluene (30 ml) was added with K2CO3(4.97 g, 2 eq) and 3-bromoprop-1-yne (2.4 ml, 1.5 eq). The mixture was stirred for 15 hr at room temperature and filtered off, and the filtrate was concentrated in vacuo. The resulting residue was purified with column chromatography to prepare the title compound (0.32 g, 16%).

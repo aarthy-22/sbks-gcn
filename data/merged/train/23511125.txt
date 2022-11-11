@@ -1,0 +1,11 @@
+Acetylcholinesterase inhibition reveals endogenous nicotinic modulation of glutamate inputs to CA1 stratum radiatum interneurons in hippocampal slices.
+The involvement of brain nicotinic acetylcholine receptors (nAChRs) in the neurotoxicological effects of soman, a potent acetylcholinesterase (AChE) inhibitor and a chemical warfare agent, is not clear.
+This is partly due to a poor understanding of the role of AChE in brain nAChR-mediated functions.
+To test the hypothesis that AChE inhibition builds sufficient acetylcholine (ACh) in the brain and facilitates nAChR-dependent glutamate transmission, we used whole-cell patch-clamp technique to record spontaneous glutamate excitatory postsynaptic currents (EPSCs) from CA1 stratum radiatum interneurons (SRI) in hippocampal slices.
+First, the frequency, amplitude and kinetics of EPSCs recorded from slices of control guinea pigs were compared to those recorded from slices of guinea pigs after a single injection of the irreversible AChE inhibitor soman (25.2μg/kg, s.c.).
+Second, EPSCs were recorded from rat hippocampal slices before and after their superfusion with the reversible AChE inhibitor donepezil (100nM).
+The frequency of EPSCs was significantly higher in slices taken from guinea pigs 24h but not 7 days after the soman injection than in slices from control animals.
+In 52% of the rat hippocampal slices tested, bath application of donepezil increased the frequency of EPSCs.
+Further, exposure to donepezil increased both burst-like and large-amplitude EPSCs, and increased the proportion of short (20-100ms) inter-event intervals.
+Donepezil's effects were suppressed significantly in presence of 10μM mecamylamine or 10nM methyllycaconitine.
+These results support the concept that AChE inhibition is able to recruit nAChR-dependent glutamate transmission in the hippocampus and such a mechanism can contribute to the acute neurotoxicological actions of soman.

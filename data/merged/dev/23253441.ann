@@ -1,0 +1,11 @@
+T3	CHEMICAL 23 36	oxadiazepines
+T6	GENE-N 40 55	gamma secretase
+T2	CHEMICAL 162 172	oxadiazine
+T4	GENE-Y 207 211	hERG
+T1	CHEMICAL 313 326	oxadiazepines
+T5	GENE-Y 360 364	hERG
+R0	CPR-2 Arg1:T3 Arg2:T6
+R1	CPR-2 Arg1:T2 Arg2:T4
+R2	CPR-4 Arg1:T1 Arg2:T5
+R3	NOT Arg1:T2 Arg2:T5
+R4	NOT Arg1:T4 Arg2:T1

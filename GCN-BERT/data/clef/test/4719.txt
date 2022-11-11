@@ -1,0 +1,3 @@
+Example Compound 69
+2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(2-(benzyloxy)phenyl)acetate
+2-(2-(benzyloxy)phenyl)acetic acid (402.8 mg, 1.7 mmol) was dissolved in DCM (35 mL), and added DCC (339.0 mg, 1.6 mmol) and DMAP (40.5 mg, 0.3 mmol) followed by N-(3,5-dimethyl-1-phenyl-1 H-pyrazol-4-yl)-2-hydroxyacetamide (401.9 mg, 1.6 mmol), synthesized as reported in Example 1. The mixture was left stirring overnight. The suspension was filtered over cotton to remove the bulk of DCU and purified by column chromatography (75% EtOAc in PE) to yield 99.9 mg of the clean title compound (13%, low yield due to co-polarity of DCU).

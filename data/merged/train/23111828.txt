@@ -1,0 +1,12 @@
+Griseofulvin inhibits the growth of adrenocortical cancer cells in vitro.
+Supernumerary centrosomes and aneuploidy are associated with a malignant phenotype of tumor cells.
+Centrosomal clustering is a mechanism used by cancer cells with supernumerary centrosomes to solve the threatening problem of multipolar spindles.
+Griseofulvin is an antifungal substance that interferes with the microtubule apparatus and inhibits centrosomal clustering.
+It has also been demonstrated that griseofulvin inhibits the growth of tumor cells in vitro and in vivo.
+However, it is not yet known whether treatment with griseofulvin inhibits growth of adrenocortical tumor cells.
+We studied the viability and antiproliferative effects of griseofulvin on cultured NCI-H295R adrenocortical carcinoma cells using Wst-1-, BrdUrd-, and [3H]-thymidine assays.
+For the detection of apoptosis we used a caspase 3/7 cleavage assay and light microscopy techniques.
+We observed that incubation with griseofulvin for 24-48 h leads to a decrease in the viability and proliferation of NCI-H295R cells in a dose-dependent manner.
+Significant effects could be observed after incubation with griseofulvin as measured by Wst-1-, BrdUrd-, and [3H]dT- uptake assays.
+Apoptosis of NCI-H295R cells was increased in a dose-dependent manner up to 4.5-fold after incubation with griseofulvin 40 μM for 24 h as shown by caspase 3/7 cleavage assay and light microscopy.
+With regard to new treatment strategies for adrenocortical cancer, griseofulvin, and possibly other agents, which interfere with the microtubule apparatus and inhibit centrosomal clustering, may turn out to be interesting targets for further research.

@@ -1,0 +1,9 @@
+cAMP regulation of airway smooth muscle function.
+Agonists activating β(2)-adrenoceptors (β(2)ARs) on airway smooth muscle (ASM) are the drug of choice for rescue from acute bronchoconstriction in patients with both asthma and chronic obstructive pulmonary disease (COPD).
+Moreover, the use of long-acting β-agonists combined with inhaled corticosteroids constitutes an important maintenance therapy for these diseases.
+β-Agonists are effective bronchodilators due primarily to their ability to antagonize ASM contraction.
+The presumed cellular mechanism of action involves the generation of intracellular cAMP, which in turn can activate the effector molecules cAMP-dependent protein kinase (PKA) and Epac.
+Other agents such as prostaglandin E(2) and phosphodiesterase inhibitors that also increase intracellular cAMP levels in ASM, can also antagonize ASM contraction, and inhibit other ASM functions including proliferation and migration.
+Therefore, β(2)ARs and cAMP are key players in combating the pathophysiology of airway narrowing and remodeling.
+However, limitations of β-agonist therapy due to drug tachyphylaxis related to β(2)AR desensitization, and recent findings regarding the manner in which β(2)ARs and cAMP signal, have raised new and interesting questions about these well-studied molecules.
+In this review we discuss current concepts regarding β(2)ARs and cAMP in the regulation of ASM cell functions and their therapeutic roles in asthma and COPD.

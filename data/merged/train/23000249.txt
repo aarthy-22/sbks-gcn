@@ -1,0 +1,12 @@
+Snake venom metalloproteinases.
+Recent proteomic analyses of snake venoms show that metalloproteinases represent major components in most of the Crotalid and Viperid venoms.
+In this chapter we discuss the multiple activities of the SVMPs.
+In addition to hemorrhagic activity, members of the SVMP family also have fibrin(ogen)olytic activity, act as prothrombin activators, activate blood coagulation factor X, possess apoptotic activity, inhibit platelet aggregation, are pro-inflammatory and inactivate blood serine proteinase inhibitors.
+Clearly the SVMPs have multiple functions in addition to their well-known hemorrhagic activity.
+The realization that there are structural variations in the SVMPs and the early studies that led to their classification represents an important event in our understanding of the structural forms of the SVMPs.
+The SVMPs were subdivided into the P-I, P-II and P-III protein classes.
+The noticeable characteristic that distinguished the different classes was their size (molecular weight) differences and domain structure: Class I (P-I), the small SVMPs, have molecular masses of 20-30 kDa, contain only a pro domain and the proteinase domain; Class II (P-II), the medium size SVMPs, molecular masses of 30-60 kDa, contain the pro domain, proteinase domain and disintegrin domain; Class III (P-III), the large SVMPs, have molecular masses of 60-100 kDa, contain pro, proteinase, disintegrin-like and cysteine-rich domain structure.
+Another significant advance in the SVMP field was the characterization of the crystal structure of the first P-I class SVMP.
+The structures of other P-I SVMPs soon followed and the structures of P-III SVMPs have also been determined.
+The active site of the metalloproteinase domain has a consensus HEXXHXXGXXHD sequence and a Met-turn.
+The "Met-turn" structure contains a conserved Met residue that forms a hydrophobic basement for the three zinc-binding histidines in the consensus sequence.

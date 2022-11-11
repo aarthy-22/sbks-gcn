@@ -1,0 +1,5 @@
+Core 33
+(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-5-(4-fluorophenyl)-4-nitropyrrolidine-2-carboxylate
+Core 33A
+(E)-ethyl 2-((4-fluorobenzylidene)amino)acetate
+To a mixture of ethyl 2-aminoacetate hydrochloride (33.7 g, 242 mmol) and magnesium sulfate (33.0 g, 274 mmol) in dichloromethane (320 mL) was added triethylamine (33.7 mL, 242 mmol). The mixture was stirred at room temperature for 20 minutes and then 4-fluorobenzaldehyde (20.00 g, 161 mmol) was added dropwise. The resulting mixture was stirred at 25° C. for 20 hours. LC/MS indicated the completion of the reaction. The solid was filtered off and washed with dichloromethane (200 mL). The combined filtrates were washed with water (150 mL) and brine (150 mL), dried over Na2SO4, filtered and concentrated to provide (E)-ethyl 2-((4-fluorobenzylidene)amino)acetate (30 g, 129 mmol, 80% yield).

@@ -1,0 +1,11 @@
+T1	YIELD_PERCENT 468 471	99%
+T2	EXAMPLE_LABEL 5 6	2
+T3	SOLVENT 232 247	dichloromethane
+T4	REACTION_PRODUCT 8 74	2-(Methylsulfonyl)-1-((S)-pyrrolidin-2-yl)ethan-1-ol hydrochloride
+T5	REAGENT_CATALYST 266 269	HCl
+T6	YIELD_OTHER 460 466	1.08 g
+T7	TEMPERATURE 357 373	room temperature
+T8	REACTION_PRODUCT 444 458	title compound
+T9	TIME 350 353	1 h
+T10	SOLVENT 278 289	1,4-dioxane
+T11	STARTING_MATERIAL 75 153	tert-Butyl (2S)-2-(1-hydroxy-2-(methylsulfonyl)ethyl)pyrrolidine-1-carboxylate

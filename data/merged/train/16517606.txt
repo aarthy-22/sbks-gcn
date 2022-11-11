@@ -1,0 +1,9 @@
+Novel tumor necrosis factor-responsive mammalian neutral sphingomyelinase-3 is a C-tail-anchored protein.
+Two genes encoding neutral sphingomyelinases-1 and -2 (sphingomyelin phosphodiesterases-2 and -3) have been recently identified that hydrolyze sphingomyelin to phosphorylcholine and ceramide.
+Data bank searches using a peptide sequence derived from a previously purified bovine neutral sphingomyelinase (nSMase) allowed us to identify a cDNA encoding a novel human sphingomyelinase, nSMase3, that shows only a little homology to nSMase1 and -2.
+nSMase3 was biochemically characterized by overexpression in a yeast strain, JK9-3ddeltaIsc1p, lacking endogenous SMase activity.
+Similar to nSMase2, nSMase3 is Mg2+-dependent and shows optimal activity at pH 7, which is enhanced in the presence of phosphatidylserine and inhibited by scyphostatin.
+nSMase3 is ubiquitously expressed as a 4.6-kb mRNA species.
+nSMase3 lacks an N-terminal signal peptide, yet contains a 23-amino-acid transmembrane domain close to the C terminus, which is indicative for the family of C-tail-anchored integral membrane proteins.
+Cellular localization studies with hemagglutinin-tagged nSMase3 demonstrated colocalization with markers of the endoplasmic reticulum as well as with Golgi markers.
+Tumor necrosis factor stimulates rapid activation of nSMase3 in MCF7 cells with peak activity at 1.5 min, which was impaired by expression of dominant negative FAN.

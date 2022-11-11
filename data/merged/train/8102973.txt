@@ -1,0 +1,8 @@
+Dopamine D4 versus D2 receptor selectivity of dopamine receptor antagonists: possible therapeutic implications.
+The dopamine D4 receptor, which is considered a close variant of the dopamine D2 receptor, has recently been cloned.
+Receptor binding studies demonstrated that clozapine, which is an effective antipsychotic agent but atypical in that it lacks the usual side effects of other antipsychotic agents, has high selectivity for the dopamine D4 receptor versus the dopamine D2 receptor.
+Comparative binding affinity studies have been carried out for a number of interesting dopaminergic agents using membranes prepared from cloned dopamine D2 and D4 receptor containing cells.
+It was found that clozapine is selective for the dopamine D4 vs. the D2 receptor by a factor of 2.8.
+Other compounds with dopamine D4 receptor selectivity were (+)-apomorphine (8.7), (+)-N-propyl-norapomorphine (NPA) (2.4) and melperone (1.3).
+Compounds with considerable selectivity for the dopamine D2 receptor were haloperidol (0.31), chlorpromazine (0.084), trifluoperazine (0.034) and raclopride (0.001).
+Overall, the results with the antipsychotic agents tested, support the concept that dopamine D4 receptor selectivity may confer clozapine-like antipsychotic efficacy and furthermore that dopamine D2 receptor selectivity may confer side effect liability (extrapyramidal side effects and tardive dyskinesia).

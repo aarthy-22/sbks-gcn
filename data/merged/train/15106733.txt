@@ -1,0 +1,10 @@
+Salicylate regulates COX-2 expression through ERK and subsequent NF-kappaB activation in osteoblasts.
+The expression of cyclooxygenase-2 (COX-2) is a characteristic response to inflammation and can be inhibited with sodium salicylate.
+TNF-alpha plus IFN-gamma can induce extracellular signal-regulated kinase (ERK), IKK, IkappaB degradation and NF-kappaB activation.
+The inhibition of the ERK pathway with selective inhibitor, PD098059, blocked cytokine-induced COX-2 expression and PGE2 release.
+Salicylate treatment inhibited COX-2 expression induced by TNF-alpha/IFN-gamma and regulated the activation of ERK, IKK and IkappaB degradation and subsequent NF-kappaB activation in MC3T3E1 osteoblasts.
+As well, antioxidant-catalase, N-acetyl-cysteine or reduced glutathione-attenuated COX-2 expression in combined cytokines-treated cells.
+These antioxidants also inhibited the activation of ERK, IKK and NF-kappaB in MC3T3E1 osteoblasts.
+In addition, TNF-alpha/IFN-gamma stimulated ROS release in the osteoblasts.
+However salicylate had no obvious effect on ROS release in DCFDA assay.
+The results showed that salicylate inhibited the activation of ERK and IKK, IkappaB degradation and NF-kappaB activation independent of ROS release and suggested that salicylate exerts its anti-inflammatory action in part through inhibition of the ERK, IKK, IkappaB, NF-kappaB and resultant COX-2 expression pathway.

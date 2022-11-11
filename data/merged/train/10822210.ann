@@ -1,0 +1,17 @@
+T10	CHEMICAL 0 10	Irbesartan
+T5	CHEMICAL 99 113	angiotensin II
+T15	GENE-Y 99 135	angiotensin II type 1 (AT1) receptor
+T12	GENE-Y 318 321	AT1
+T13	GENE-Y 403 408	renin
+T4	CHEMICAL 409 420	angiotensin
+T14	GENE-Y 409 420	angiotensin
+T6	CHEMICAL 449 460	angiotensin
+T16	GENE-Y 449 478	angiotensin-converting enzyme
+T7	CHEMICAL 850 864	angiotensin II
+T17	GENE-Y 850 864	angiotensin II
+T8	CHEMICAL 950 960	irbesartan
+T9	CHEMICAL 1028 1038	Irbesartan
+T1	CHEMICAL 1363 1377	angiotensin II
+T11	GENE-Y 1363 1377	angiotensin II
+T2	CHEMICAL 1530 1540	irbesartan
+T3	CHEMICAL 1555 1563	losartan

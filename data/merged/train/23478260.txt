@@ -1,0 +1,8 @@
+Age-Related Macular Degeneration-Associated Silent Polymorphisms in HtrA1 Impair Its Ability To Antagonize Insulin-Like Growth Factor 1.
+Synonymous single nucleotide polymorphisms (SNPs) within a transcript's coding region produce no change in the amino acid sequence of the protein product and are therefore intuitively assumed to have a neutral effect on protein function.
+We report that two common variants of high-temperature requirement A1 (HTRA1) that increase the inherited risk of neovascular age-related macular degeneration (NvAMD) harbor synonymous SNPs within exon 1 of HTRA1 that convert common codons for Ala34 and Gly36 to less frequently used codons.
+The frequent-to-rare codon conversion reduced the mRNA translation rate and appeared to compromise HtrA1's conformation and function.
+The protein product generated from the SNP-containing cDNA displayed enhanced susceptibility to proteolysis and a reduced affinity for an anti-HtrA1 antibody.
+The NvAMD-associated synonymous polymorphisms lie within HtrA1's putative insulin-like growth factor 1 (IGF-1) binding domain.
+They reduced HtrA1's abilities to associate with IGF-1 and to ameliorate IGF-1-stimulated signaling events and cellular responses.
+These observations highlight the relevance of synonymous codon usage to protein function and implicate homeostatic protein quality control mechanisms that may go awry in NvAMD.

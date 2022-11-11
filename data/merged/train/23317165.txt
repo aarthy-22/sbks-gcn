@@ -1,0 +1,10 @@
+Recent Developments of p38α MAP Kinase Inhibitors as Antiinflammatory Agents Based on the Imidazole Scaffolds.
+Rheumatoid arthritis (RA) and other chronic inflammatory diseases are always the major therapeutic challenges.
+Recent research efforts provided new insights into the molecular basis of these diseases and new opportunities for developing improved anti-inflammatory drugs.
+The p38 mitogen-activated protein (MAP) kinase plays a central role in the regulation of the biosynthesis and release of several proinflammatory cytokines including tumor necrosis factor alpha (TNF-α) and interleukin-1 beta (IL-1β).
+Hence, inhibition of the p38 MAP kinase is regarded as a promising therapeutic strategy for controlling inflammatory diseases.
+A diverse range of p38α MAP kinase inhibitors have been developed as potential anti-inflammatory agents, and some of them have entered the phase II clinical trials.
+The imidazole derivatives are known as competitive inhibitors at the ATP binding site of the p38α MAP kinase.
+Modifications on the imidazole scaffold have led to a large amount of potent p38α MAP kinase inhibitors.
+This review will summarize the developments of small molecule p38α MAP kinase inhibitors based on the imidazole core scaffolds in recent 10 years.
+Variations at the N1, C2, C4 and C5 positions of imidazole were introduced, and the structure-activity relationships of these imidazole inhibitors were also discussed.

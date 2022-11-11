@@ -1,0 +1,9 @@
+Evidence that hypophagia induced by d-fenfluramine and d-norfenfluramine in the rat is mediated by 5-HT2C receptors.
+The present series of studies is the first to investigate the pharmacological mechanisms underlying d-fenfluramine- and d-norfenfluramine-induced hypophagia in the rat using highly selective serotonin 5-HT2 receptor antagonists.
+Administration of d-fenfluramine, and its major metabolite d-norfenfluramine, suppresses food intake in animals.
+Both compounds stimulate the release of serotonin and are potent inhibitors of the re-uptake of 5-HT into nerve terminals.
+In addition, d-norfenfluramine also acts as a direct 5-HT(2B/2C) receptor agonist.
+Pre-treatment with the selective 5-HT2C receptor antagonist, SB-242084 (0.3-3 mg/kg), dose-dependently inhibited both d-fenfluramine- (3 mg/kg) and d-norfenfluramine-induced (2 mg/kg) hypophagia.
+In contrast, the hypophagic effect of d-fenfluramine and d-norfenfluramine was unaffected by prior treatment with the highly selective 5-HT2B receptor antagonists, SB-215505 (0.3-3 mg/kg) and RS-127445 (1-3 mg/kg) or the 5-HT2A receptor antagonists MDL 100,907 (0.003-0.03 mg/kg) and ketanserin (0.2, 0.5 mg/kg).
+In addition, the 5-HT1A receptor antagonist WAY-100635 (0.3, 1 mg/kg) and the 5-HT1B receptor antagonists GR-127935 (1, 2 mg/kg) and SB-224289 (2-10 mg/kg) did not affect d-fenfluramine-induced hypophagia.
+These data provide unequivocal evidence for an important role of the 5-HT2C receptor in the mediation of d-fenfluramine and d-norfenfluramine-induced hypophagia in the rat and do not support the involvement of 5-HT1A/1B/2A/2B receptors.

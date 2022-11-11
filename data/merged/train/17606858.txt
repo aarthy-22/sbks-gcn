@@ -1,0 +1,15 @@
+Effects of fenofibrate on cardiac remodeling in aldosterone-induced hypertension.
+Hypertension and cardiac remodeling are associated with myocardial fibrosis, left ventricular (LV) hypertrophy, and diastolic heart failure.
+Fenofibrate suppresses aldosterone-mediated increases in myocyte matrix metalloproteinase activity and extracellular signal-regulated kinase phosphorylation.
+It is unknown whether the peroxisome proliferator-activated receptor-alpha agonist, fenofibrate, improves cardiac remodeling in a model of aldosterone-induced hypertension and LV hypertrophy.
+Twelve-week-old uninephrectomized FVB mice received 1% NaCl drinking water.
+Miniosmotic pumps delivered saline or aldosterone for 4 weeks.
+Mice were either untreated (n=14) or treated with fenofibrate 100 mg/kg per day (n=12) for 1 week before and 4 weeks after surgery.
+Aldosterone increased systolic blood pressure in untreated mice versus saline-untreated mice (134+/-3 versus 91+/-3 mm Hg; P<0.01).
+This was unaffected by fenofibrate (131+/-3 mm Hg).
+Aldosterone increased LV end-diastolic and end-systolic dimensions, which were significantly attenuated by fenofibrate (3.8+/-0.1 versus 3.5+/-0.1 mm, and 1.5+/-0.1 versus 1.15+/-0.1 mm, respectively).
+Fenofibrate also decreased aldosterone-induced LV hypertrophy (LV weight/body weight, 4.1+/-0.2 versus 4.6+/-0.1 mg/g) and improved percent LV fractional shortening (67+/-7% versus 60+/-2%).
+Additionally, fenofibrate ameliorated the increased matrix metalloproteinase-2/tissue inhibitors of metalloproteinase-2 ratio and fibrosis seen in aldosterone-untreated hearts (P<0.05 for both).
+Furthermore, in aldosterone-untreated hearts, fenofibrate decreased transforming growth factor-beta, collagen type III (P<0.05 for both), and collagen type I (P<0.01) protein expression.
+Conversely fenofibrate increased peroxisome proliferator-activated receptor-alpha, peroxisome proliferator-activated receptor-gamma coactivator-1alpha expression, and acetyl coenzyme A carboxylase phosphorylation (P<0.05 for all) in aldosterone-infused hearts; uncoupling protein-3 and medium-chain acyl coenzyme A dehydrogenase protein expression decreased with fenofibrate (P<0.05 and P<0.01, respectively, versus aldosterone-infused), suggesting that improved myocardial remodeling is independent of fatty acid oxidation.
+Thus, fenofibrate improved aldosterone-induced LV hypertrophy independently of an effect on blood pressure with decreased fibrosis and altered extracellular matrix.

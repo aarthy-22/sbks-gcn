@@ -1,0 +1,14 @@
+Fibroblast growth factor overexpressing breast carcinoma cells as models of angiogenesis and metastasis.
+Progression of breast cancer from an estrogen-dependent, slowly growing tumor amenable to tamoxifen treatment to an aggressive, metastatic, estrogen-independent phenotype has been mimicked by the transfection of MCF-7 breast carcinoma cells with fibroblast growth factors 1 or 4.
+FGF-transfected cells are aggressively tumorigenic in ovariectomized or tamoxifen-treated nude mice, conditions under which the parental cells would not produce tumors.
+When detection of metastasis was enhanced by lacZ transfection, the FGF-transfected MCF-7 cells were reliably metastatic to lymph nodes and frequently metastatic to lungs, in further contrast to parental cells.
+An antiangiogenic drug, AGM-1470, given to mice bearing tumors produced by FGF-transfected MCF-7 cells, produced a decrease in tumor size.
+The decreased tumor size was not as marked as that produced by treatment with pentosan polysulfate, an agent which would abrogate all autocrine or paracrine effects of the transfected FGF.
+Thus, increased angiogenesis may be a component of the phenotypic change produced by the FGF transfection, but other autocrine or paracrine effects may also be important.
+Since a clonal FGF-4 and lacZ doubly-transfected cell line, MKL-4, progressively lost expression of the transfected lacZ gene in individual cells, we performed successive rounds of fluorescence-activated cell sorting to select high-expressing cells.
+High-expressing cell populations thus obtained rapidly lost expression of beta-gal activity in continued culture.
+High beta-gal expressing clonal cell lines of MKL-4 cells established by either one or two rounds of low-density cloning also lost lacZ expression with continued culture.
+Southern analysis of DNA from lacZ transfected cell lines showed the transfected sequences to be present and grossly intact in both high and low expressing populations.
+However, Northern analysis revealed that high-expressing populations of MKL-4 cells contained the most lacZ mRNA, implying that in the unstable MKL-4 cell line, individual cells are down-regulating mRNA levels of lacZ. Stable lacZ expression has been obtained in other FGF-transfected and parental MCF-7 cell lines using the same expression vector.
+Thus, the MKL-4 cell line is down-regulating mRNA encoding the transfected gene through a mechanism not dependent on the CMV promotor utilized in the expression vector.
+This evidence suggests that lacZ expression is not a benign modification in certain cells.

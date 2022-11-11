@@ -1,0 +1,14 @@
+T10	CHEMICAL 10 22	rivastigmine
+T2	CHEMICAL 36 48	Rivastigmine
+T6	CHEMICAL 54 63	carbamate
+T12	GENE-Y 94 114	acetylcholinesterase
+T13	GENE-Y 119 140	butyrylcholinesterase
+T11	GENE-Y 192 213	Butyrylcholinesterase
+T7	CHEMICAL 340 352	rivastigmine
+T8	CHEMICAL 466 478	Rivastigmine
+T9	CHEMICAL 756 768	rivastigmine
+T1	CHEMICAL 1242 1254	Rivastigmine
+T3	CHEMICAL 1467 1479	rivastigmine
+T4	CHEMICAL 1649 1661	rivastigmine
+T5	CHEMICAL 1778 1790	Rivastigmine
+R0	CPR-4 Arg1:T2 Arg2:T12

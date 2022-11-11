@@ -1,0 +1,59 @@
+T49	GENE-N 15 24	NF-kappaB
+T19	CHEMICAL 37 50	sulfasalazine
+T50	GENE-N 87 117	IkappaB kinases alpha and beta
+T34	GENE-N 152 161	NF-kappaB
+T36	GENE-Y 162 165	Rel
+T11	CHEMICAL 312 333	5-aminosalicylic acid
+T12	CHEMICAL 339 352	sulfasalazine
+T32	GENE-N 369 378	NF-kappaB
+T33	GENE-Y 379 382	Rel
+T13	CHEMICAL 463 476	sulfasalazine
+T35	GENE-N 486 495	NF-kappaB
+T14	CHEMICAL 532 545	sulfasalazine
+T37	GENE-N 566 575	NF-kappaB
+T15	CHEMICAL 699 712	sulfasalazine
+T38	GENE-N 716 730	IkappaB kinase
+T39	GENE-N 732 735	IKK
+T40	GENE-N 790 809	IKK-alpha and -beta
+T41	GENE-N 829 838	NF-kappaB
+T42	GENE-Y 839 842	Rel
+T43	GENE-Y 863 890	tumor necrosis factor alpha
+T16	CHEMICAL 892 928	12-O-tetradecanoylphorbol-13-acetate
+T44	GENE-Y 951 976	NF-kappaB-inducing kinase
+T45	GENE-Y 978 987	IKK-alpha
+T46	GENE-Y 989 997	IKK-beta
+T47	GENE-Y 1024 1033	IKK-alpha
+T48	GENE-Y 1038 1046	IKK-beta
+T17	CHEMICAL 1089 1102	sulfasalazine
+T18	CHEMICAL 1104 1117	Sulfasalazine
+T20	GENE-Y 1128 1155	tumor necrosis factor alpha
+T21	GENE-N 1189 1192	IKK
+T22	GENE-Y 1280 1289	IKK-alpha
+T23	GENE-Y 1294 1302	IKK-beta
+T1	CHEMICAL 1342 1355	sulfasalazine
+T2	CHEMICAL 1357 1378	5-aminosalicylic acid
+T3	CHEMICAL 1384 1397	sulfapyridine
+T4	CHEMICAL 1401 1422	4-aminosalicylic acid
+T24	GENE-N 1452 1501	extracellular signal-related kinase (ERK) 1 and 2
+T25	GENE-Y 1503 1534	c-Jun-N-terminal kinase (JNK) 1
+T5	CHEMICAL 1509 1510	N
+T26	GENE-N 1540 1543	p38
+T6	CHEMICAL 1562 1575	sulfasalazine
+T27	GENE-N 1622 1641	IKK-alpha and -beta
+T28	GENE-N 1698 1702	IKKs
+T7	CHEMICAL 1736 1758	adenosine triphosphate
+T8	CHEMICAL 1793 1806	sulfasalazine
+T29	GENE-N 1832 1851	IKK-alpha and -beta
+T9	CHEMICAL 1868 1890	adenosine triphosphate
+T30	GENE-N 1919 1928	NF-kappaB
+T31	GENE-N 1961 1965	IKKs
+T10	CHEMICAL 2047 2060	sulfasalazine
+R0	CPR-3 Arg1:T16 Arg2:T41
+R1	CPR-4 Arg1:T18 Arg2:T22
+R2	CPR-4 Arg1:T7 Arg2:T28
+R3	NOT Arg1:T11 Arg2:T32
+R4	NOT Arg1:T16 Arg2:T44
+R5	NOT Arg1:T25 Arg2:T6
+R6	NOT Arg1:T27 Arg2:T7
+R7	NOT Arg1:T8 Arg2:T29
+R8	NOT Arg1:T29 Arg2:T9

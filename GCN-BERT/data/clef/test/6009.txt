@@ -1,0 +1,2 @@
+Step 2: 5-bromo-2-[2-bromo(d4)ethoxy]benzamide
+To a solution of 5-bromo-2-hydroxybenzamide [Example 5, Step 1] (3.2 g, 14.81 mmol, 1.00 equiv) in DMA (25 mL) was added potassium carbonate (6.16 g, 44.57 mmol, 3.00 equiv) and dibromo(d4)ethane (5.72 g, 29.81 mmol, 2.00 equiv). The resulting solution was stirred for 5 h at room temperature. The reaction mixture was filtered. The filtrate was washed with water (50 mL). The organic layer was concentrated under vacuum to afford 2 g (41%) of 5-bromo-2-[2-bromo(d4)ethoxy]benzamide as a yellow solid.

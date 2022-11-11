@@ -1,0 +1,42 @@
+T27	CHEMICAL 43 63	choline alphoscerate
+T35	GENE-Y 72 86	cholinesterase
+T28	CHEMICAL 97 109	rivastigmine
+T12	CHEMICAL 221 228	choline
+T16	CHEMICAL 232 252	choline alphoscerate
+T34	GENE-Y 262 276	cholinesterase
+T3	CHEMICAL 287 299	rivastigmine
+T4	CHEMICAL 303 316	acetylcholine
+T5	CHEMICAL 328 349	[(3)H]hemicholinium-3
+T6	CHEMICAL 421 434	Acetylcholine
+T7	CHEMICAL 534 554	Choline alphoscerate
+T8	CHEMICAL 558 570	rivastigmine
+T9	CHEMICAL 580 587	choline
+T10	CHEMICAL 598 611	acetylcholine
+T11	CHEMICAL 630 651	[(3)H]hemicholinium-3
+T30	GENE-N 694 717	cholinergic transporter
+T13	CHEMICAL 738 758	choline alphoscerate
+T14	CHEMICAL 764 776	rivastigmine
+T15	CHEMICAL 809 822	acetylcholine
+T17	CHEMICAL 834 855	[(3)H]hemicholinium-3
+T18	CHEMICAL 865 877	Rivastigmine
+T19	CHEMICAL 914 921	choline
+T20	CHEMICAL 925 945	choline alphoscerate
+T31	GENE-Y 956 976	acetylcholinesterase
+T32	GENE-Y 978 982	AChE
+T21	CHEMICAL 993 1000	choline
+T22	CHEMICAL 1004 1024	choline alphoscerate
+T33	GENE-Y 1046 1050	AChE
+T23	CHEMICAL 1061 1081	Choline alphoscerate
+T24	CHEMICAL 1085 1097	rivastigmine
+T25	CHEMICAL 1131 1138	choline
+T26	CHEMICAL 1149 1162	acetylcholine
+T1	CHEMICAL 1292 1305	acetylcholine
+T2	CHEMICAL 1314 1334	choline alphoscerate
+T29	GENE-Y 1344 1358	cholinesterase
+R0	CPR-4 Arg1:T18 Arg2:T31
+R1	NOT Arg1:T18 Arg2:T33
+R2	NOT Arg1:T19 Arg2:T33
+R3	NOT Arg1:T20 Arg2:T33
+R4	NOT Arg1:T32 Arg2:T21
+R5	NOT Arg1:T21 Arg2:T33
+R6	NOT Arg1:T1 Arg2:T29

@@ -1,0 +1,11 @@
+ERP evidence suggests executive dysfunction in ecstasy polydrug users.
+BACKGROUND: Deficits in executive functions such as access to semantic/long-term memory have been shown in ecstasy users in previous research.
+Equally, there have been many reports of equivocal findings in this area.
+The current study sought to further investigate behavioural and electro-physiological measures of this executive function in ecstasy users.
+METHOD: Twenty ecstasy-polydrug users, 20 non-ecstasy-polydrug users and 20 drug-naïve controls were recruited.
+Participants completed background questionnaires about their drug use, sleep quality, fluid intelligence and mood state.
+Each individual also completed a semantic retrieval task whilst 64 channel Electroencephalography (EEG) measures were recorded.
+RESULTS: Analysis of Variance (ANOVA) revealed no between-group differences in behavioural performance on the task.
+Mixed ANOVA on event-related potential (ERP) components P2, N2 and P3 revealed significant between-group differences in the N2 component.
+Subsequent exploratory univariate ANOVAs on the N2 component revealed marginally significant between-group differences, generally showing greater negativity at occipito-parietal electrodes in ecstasy users compared to drug-naïve controls.
+Despite absence of behavioural differences, differences in N2 magnitude are evidence of abnormal executive functioning in ecstasy-polydrug users.

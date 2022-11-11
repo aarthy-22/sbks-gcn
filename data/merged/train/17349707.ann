@@ -1,0 +1,42 @@
+T18	CHEMICAL 14 40	N-acetyl-D-neuraminic acid
+T35	GENE-Y 79 130	Anabaena sp. CH1 N-acetyl-D-glucosamine 2-epimerase
+T20	CHEMICAL 96 118	N-acetyl-D-glucosamine
+T34	GENE-Y 135 184	Escherichia coli N-acetyl-D-neuraminic acid lyase
+T19	CHEMICAL 152 178	N-acetyl-D-neuraminic acid
+T1	CHEMICAL 186 212	N-acetyl-d-neuraminic acid
+T10	CHEMICAL 214 219	NeuAc
+T12	CHEMICAL 221 232	sialic acid
+T8	CHEMICAL 372 377	NeuAc
+T24	GENE-Y 399 450	Anabaena sp. CH1 N-acetyl-d-glucosamine 2-epimerase
+T9	CHEMICAL 416 438	N-acetyl-d-glucosamine
+T25	GENE-Y 452 456	bage
+T26	GENE-Y 462 511	Escherichia coli N-acetyl-d-neuraminic acid lyase
+T11	CHEMICAL 479 505	N-acetyl-d-neuraminic acid
+T27	GENE-Y 513 517	nanA
+T28	GENE-Y 582 601	bGlcNAc 2-epimerase
+T29	GENE-Y 683 687	bage
+T13	CHEMICAL 707 713	nickel
+T30	GENE-Y 773 792	bGlcNAc 2-epimerase
+T31	GENE-Y 882 901	bGlcNAc 2-epimerase
+T14	CHEMICAL 967 970	ATP
+T32	GENE-Y 1018 1037	bGlcNAc 2-epimerase
+T15	CHEMICAL 1081 1103	N-acetyl-d-glucosamine
+T16	CHEMICAL 1107 1128	N-acetyl-d-manosamine
+T33	GENE-Y 1169 1211	porcine N-acetyl-d-glucosamine 2-epimerase
+T17	CHEMICAL 1177 1199	N-acetyl-d-glucosamine
+T21	GENE-Y 1284 1287	age
+T2	CHEMICAL 1319 1324	NeuAc
+T22	GENE-Y 1319 1330	NeuAc lyase
+T3	CHEMICAL 1400 1406	GlcNAc
+T4	CHEMICAL 1423 1428	NeuAc
+T5	CHEMICAL 1510 1516	GlcNAc
+T6	CHEMICAL 1713 1716	ATP
+T7	CHEMICAL 1752 1758	GlcNAc
+T23	GENE-Y 1752 1770	GlcNAc 2-epimerase
+R0	CPR-9 Arg1:T18 Arg2:T35
+R1	NOT Arg1:T35 Arg2:T19
+R2	NOT Arg1:T20 Arg2:T34
+R3	NOT Arg1:T8 Arg2:T27
+R4	NOT Arg1:T24 Arg2:T11
+R5	NOT Arg1:T9 Arg2:T26
+R6	NOT Arg1:T28 Arg2:T13

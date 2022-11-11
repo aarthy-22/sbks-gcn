@@ -1,0 +1,17 @@
+T15	GENE-N 22 44	group I mGlu receptors
+T16	GENE-Y 49 56	PKMzeta
+T5	GENE-Y 311 315	PKMζ
+T6	GENE-N 321 327	kinase
+T7	GENE-Y 412 416	PKMζ
+T8	GENE-N 738 776	metabotropic glutamate (mGlu) receptor
+T2	CHEMICAL 751 760	glutamate
+T9	GENE-N 778 787	PI3Kinase
+T10	GENE-Y 792 821	mammalian target of rapamycin
+T3	CHEMICAL 812 821	rapamycin
+T11	GENE-Y 823 827	mTOR
+T12	GENE-N 933 946	mGlu receptor
+T13	GENE-Y 949 953	mTOR
+T14	GENE-Y 959 963	PKMζ
+T4	GENE-N 1235 1267	Metabotropic Glutamate Receptors
+T1	CHEMICAL 1248 1257	Glutamate
+R0	NOT Arg1:T8 Arg2:T3

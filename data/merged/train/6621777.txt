@@ -1,0 +1,9 @@
+The effect of various amino acids and drugs on the para- and meta-hydroxyphenylacetic acid concentrations in the mouse caudate nucleus.
+Injection of L-p-tyrosine (800 mg/kg, 2 h) increased the mouse striatal para-hydroxyphenylacetic acid (p-HPAA) concentrations.
+A smaller dose of D,L-m-tyrosine (20 mg/kg, 2 h) produced a larger increase in mouse striatal meta-hydroxyphenylacetic acid (m-HPAA) concentrations.
+The administration of L-phenylalanine to mice caused a slight increase in the p-HPAA concentration in the corpus striatum after 2 h while a larger dose of L-phenylalanine (800 mg/kg) produced a greater increase.
+Eight hours following L-phenylalanine injection, p-HPAA concentrations were still elevated.
+With D-phenylalanine a significant increase was observed at eight hours after drug administration.
+Two drugs which reduce dopamine synthesis, alpha-methyl-para-tyrosine and apomorphine, decreased m-HPAA striatal concentrations without affecting p-HPAA concentrations.
+From these results, it is proposed that tyrosine hydroxylase activity determines p-HPAA concentrations by regulating p-tyrosine availability.
+This enzyme may also synthesize m-tyrosine which is subsequently decarboxylated to form m-tyramine and then oxidatively deaminated to form m-HPAA.

@@ -1,0 +1,9 @@
+T1	EXAMPLE_LABEL 8 12	417A
+T2	REACTION_PRODUCT 13 179	tert-Butyl 2-{[5-methyl-2,4-dioxo-1-(tetrahydrofuran-2-ylmethyl)-3-(2,2,2-trifluoroethyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidin-6-yl]methylene}hydrazinecarboxylate
+T3	REACTION_PRODUCT 181 189	racemate
+T4	STARTING_MATERIAL 266 282	compound from Ex
+T5	STARTING_MATERIAL 284 288	125A
+T6	STARTING_MATERIAL 315 346	tert-butyl hydrazinecarboxylate
+T7	YIELD_OTHER 367 373	1.39 g
+T8	YIELD_PERCENT 375 378	95%
+T9	REACTION_PRODUCT 397 411	title compound

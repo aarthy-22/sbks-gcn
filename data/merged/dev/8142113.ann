@@ -1,0 +1,21 @@
+T13	CHEMICAL 0 9	Adapalene
+T14	CHEMICAL 38 46	retinoid
+T1	CHEMICAL 57 66	Adapalene
+T11	CHEMICAL 146 155	tretinoin
+T2	CHEMICAL 265 278	retinoic acid
+T15	GENE 265 288	retinoic acid receptors
+T16	GENE 311 320	RAR alpha
+T17	GENE 358 367	RXR alpha
+T3	CHEMICAL 408 417	adapalene
+T4	CHEMICAL 434 443	tretinoin
+T5	CHEMICAL 555 564	adapalene
+T6	CHEMICAL 606 619	retinoic acid
+T18	GENE 606 635	retinoic acid binding protein
+T7	CHEMICAL 644 653	Adapalene
+T8	CHEMICAL 889 898	adapalene
+T9	CHEMICAL 935 944	tretinoin
+T10	CHEMICAL 950 959	adapalene
+T12	CHEMICAL 1028 1037	adapalene
+R0	NOT Arg1:T2 Arg2:T16
+R1	NOT Arg1:T2 Arg2:T17
+R2	NOT Arg1:T5 Arg2:T18

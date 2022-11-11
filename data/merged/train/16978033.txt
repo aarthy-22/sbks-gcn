@@ -1,0 +1,17 @@
+Immunotherapy for De Novo renal transplantation: what's in the pipeline? Immunosuppressive drugs have been traditionally developed to prevent acute rejection and to improve short-term kidney transplant outcomes.
+There is still a medical need to improve outcomes among subgroups of patients at higher risk for graft loss and to reduce cardiovascular, infectious and malignancy-associated morbidity and mortality, and improve long-term adherence.
+Several new immunosuppressive agents and formulations are undergoing clinical investigation and are discussed in this review.
+A modified release tacrolimus formulation (MR4) for once-daily administration is undergoing phase III trials.
+It has been developed to be administered de novo or for maintenance using the same therapeutic target tacrolimus trough concentrations as for the original formulation.
+Belatacept (LEA29Y), a second generation cytotoxic-T-lymphocyte-associated antigen immunoglobulin (CTLA4-Ig), blocks the interaction between CD80/86 and CD28 costimulatory pathways.
+In phase II trials, belatacept was as effective as ciclosporin (cyclosporine) when administered in combination with basiliximab, mycophenolate mofetil (MMF) and corticosteroids.
+Currently, belatacept is undergoing phase III trials including one study in recipients of organs from expanded criteria donors.
+Inhibitors of the Janus protein tyrosine kinase (JAK)-3 show some selectivity for cells of the lymphoid lineage and have been shown to be effective in late preclinical transplant models.
+The most frequent adverse effects have been related to nonspecific binding to JAK2 kinases.
+CP-690550, a JAK3 inhibitor is currently in phase II clinical trials.
+FK778, is a synthetic malononitrilamide that targets the critical enzyme of the de novo pyrimidine synthesis, dihydroorotic acid dehydrogenase, and receptor-associated tyrosine kinases has completed phase II trials.
+FK778 also shows antiviral activities that have been tested in patients with polyomavirus nephropathy.
+Fingolimod (FTY720), a synthetic sphingosine phosphate receptor modulator that reduces the recirculation of lymphocytes to blood and peripheral tissues including inflammatory lesions and graft sites is undergoing phase III trials.
+Although the efficacy of fingolimod is similar to MMF in patients receiving full doses of ciclosporin, safety issues such as a negative chronotropic effect, macular oedema, pulmonary adverse reactions and graft function resulted in premature discontinuation of the development programme for kidney transplantation.
+Because there was no clear clinical benefit over treatment options, the clinical development programme of FK778 was discontinued.
+Finally, a new evolving strategy with powerful induction-induced prolonged T-cell depletion followed by low-dose immunosuppressive monotherapy is showing promising results.

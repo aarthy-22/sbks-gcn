@@ -1,0 +1,21 @@
+T18	GENE-Y 6 29	glucocorticoid receptor
+T4	CHEMICAL 364 378	corticosteroid
+T13	GENE-Y 413 445	corticotrophin releasing hormone
+T14	GENE-Y 447 450	CRH
+T15	GENE-Y 459 479	Pro-opiomelanocortin
+T16	GENE-Y 481 485	POMC
+T5	CHEMICAL 795 807	prednisolone
+T6	CHEMICAL 846 854	cortisol
+T7	CHEMICAL 1023 1035	Prednisolone
+T8	CHEMICAL 1060 1068	cortisol
+T17	GENE-Y 1104 1107	CRH
+T9	GENE-Y 1196 1200	POMC
+T1	CHEMICAL 1267 1281	corticosteroid
+T2	CHEMICAL 1367 1379	Prednisolone
+T10	GENE-Y 1414 1437	glucocorticoid receptor
+T11	GENE-Y 1473 1499	mineralocorticoid receptor
+T12	GENE-Y 1525 1548	glucocorticoid receptor
+T3	CHEMICAL 1583 1595	prednisolone
+R0	CPR-2 Arg1:T4 Arg2:T13
+R1	NOT Arg1:T1 Arg2:T9
+R2	CPR-2 Arg1:T2 Arg2:T12

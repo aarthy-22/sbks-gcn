@@ -1,0 +1,12 @@
+T3	CHEMICAL 24 67	bicyclic pyrazinone and pyrimidinone amides
+T11	GENE-Y 78 80	TF
+T12	GENE-Y 81 86	FVIIa
+T1	CHEMICAL 99 142	Bicyclic pyrazinone and pyrimidinone amides
+T9	GENE-Y 183 185	TF
+T10	GENE-Y 186 191	FVIIa
+T4	GENE-Y 251 256	FVIIa
+T5	GENE-Y 378 383	FVIIa
+T2	CHEMICAL 429 437	hydrogen
+T6	GENE-Y 572 577	FVIIa
+T7	GENE-N 612 625	FIXa, Xa, XIa
+T8	GENE-N 630 642	chymotrypsin

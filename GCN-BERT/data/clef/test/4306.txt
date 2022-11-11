@@ -1,0 +1,2 @@
+Step 1. Methyl (2S,5R)-5-((tert-butoxycarbonyl)amino)tetrahydro-2H-pyran-2-carboxylate
+A solution of (2S,5R)-5-((tert-butoxycarbonyl)amino)tetrahydro-2H-pyran-2-carboxylic acid (0.199 g, 0.811 mmol) [Advanced ChemBlocks, I-9006] in methanol (1.62 mL) at 0° C. was treated with (trimethylsilyl)diazomethane solution in diethyl ether (0.811 mL, 1.62 mmol) and stirred for 2 h. The reaction mixture was concentrated to give the desired product (210 mg, 100%) as a white solid that was used without further purification. LCMS for C12H21NO5Na (M+Na)+: m/z=282.1; Found: 282.0.

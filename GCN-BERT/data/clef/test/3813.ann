@@ -1,0 +1,16 @@
+T1	STARTING_MATERIAL 237 344	5-fluoro-6-[7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-2-oxoimidazo[4,5-c]quinolin-1-yl]pyridine-3-nitrile
+T2	OTHER_COMPOUND 169 172	138
+T3	OTHER_COMPOUND 615 622	aqueous
+T4	YIELD_PERCENT 673 676	61%
+T5	OTHER_COMPOUND 592 602	silica gel
+T6	YIELD_OTHER 666 671	70 mg
+T7	OTHER_COMPOUND 592 598	silica
+T8	OTHER_COMPOUND 644 649	CH3CN
+T9	REACTION_PRODUCT 681 796	5-fluoro-6-[7-methoxy-3-methyl-8-(1-methylpyrazol-4-yl)-2-oxoimidazo[4,5-c]quinolin-1-yl]pyridine-3-carboxylic acid
+T10	OTHER_COMPOUND 24 150	5-fluoro-6-[7-methoxy-3-methyl-8-(1-methyl-1H-pyrazol-4-yl)-2-oxo-2,3-dihydroimidazo[4,5-c]quinolin-1-yl]-N-methylnicotinamide
+T11	TEMPERATURE 446 451	80° C
+T12	SOLVENT 220 225	water
+T13	EXAMPLE_LABEL 8 10	10
+T14	REAGENT_CATALYST 191 204	sulfuric acid
+T15	OTHER_COMPOUND 623 630	NH4HCO3
+T16	OTHER_COMPOUND 464 480	Sodium hydroxide

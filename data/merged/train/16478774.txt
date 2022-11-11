@@ -1,0 +1,13 @@
+Infusion of ACTH stimulates expression of adrenal ACTH receptor and steroidogenic acute regulatory protein mRNA in fetal sheep.
+The late-gestation plasma cortisol surge in the sheep fetus is critical for stimulating organ development and parturition.
+Increased adrenal responsiveness is one of the key reasons for the surge; however, the underlying mechanisms are not fully understood.
+Our recent studies suggest that ACTH-mediated increased expression of ACTH receptor (ACTH-R) and steroid acute regulatory protein (StAR) may play a role in enhancing responsiveness.
+Hence, we examined effects of ACTH infusion in fetal sheep on mRNA expression of these two mediators of adrenal responsiveness and assessed the functional consequences of this treatment in vitro.
+Fetuses of approximately 118 and 138 days of gestational age (dGA) were infused with ACTH-(1-24) for 24 h. Controls received saline infusion.
+Arterial blood was sampled throughout the infusion.
+Adrenals were isolated and analyzed for ACTH-R and StAR mRNA, or cells were cultured for 48 h. Cells were stimulated with ACTH, and medium was collected for cortisol measurement.
+Fetal plasma ACTH and cortisol concentrations increased over the infusion period in both groups.
+ACTH-R mRNA levels were significantly higher in ACTH-infused fetuses in both the 118 and 138 dGA groups.
+StAR mRNA increased significantly in both the 118 and 138 dGA groups.
+Adrenal cells from ACTH-infused fetuses were significantly more responsive to ACTH stimulation in terms of cortisol secretion than those from saline-infused controls.
+These findings demonstrate that increases in circulating ACTH levels promote increased expression of ACTH-R and StAR mRNA and are coupled to heightened adrenal responsiveness.

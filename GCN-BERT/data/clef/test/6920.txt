@@ -1,0 +1,2 @@
+Step 1. 5-Chloro-3-iodo-1H-pyrazolo[3,4-c]pyridine
+To a solution of 5-chloro-1H-pyrazolo[3,4-c]pyridine (2.012 g, 13.10 mmol) in DMF (40.0 mL) was added N-iodosuccinimide (4.47 g, 19.9 mmol). The mixture was then heated to 80° C. for 1 h. After cooling to room temperature, the mixture was concentrated in vacuo. The resulting residue was purified on silica gel (120 g, 0-100% EtOAc in hexanes) to give the desired product as a white solid (3.16 g, 86%).

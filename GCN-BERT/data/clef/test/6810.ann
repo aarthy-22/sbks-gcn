@@ -1,0 +1,21 @@
+T1	EXAMPLE_LABEL 20 21	5
+T2	REACTION_PRODUCT 38 141	tert-butyl 6-((2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxamido)-2-azaspiro[3.3]h
+T3	REACTION_PRODUCT 142 162	eptane-2-carboxylate
+T4	STARTING_MATERIAL 163 238	(2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxylic acid
+T5	STARTING_MATERIAL 263 318	tert-butyl 6-amino-2-azaspiro[3.3]heptane-2-carboxylate
+T6	SOLVENT 355 370	dichloromethane
+T7	TEMPERATURE 391 394	0°C
+T8	OTHER_COMPOUND 415 423	nitrogen
+T9	REAGENT_CATALYST 438 461	1-hydroxylbenzotriazole
+T10	REAGENT_CATALYST 483 496	triethylamine
+T11	STARTING_MATERIAL 521 578	1-ethyl-(3-dimethylaminopropyl)carbodiimide hydrochloride
+T12	TEMPERATURE 651 655	25°C
+T13	TIME 672 676	16 h
+T14	OTHER_COMPOUND 733 738	water
+T15	OTHER_COMPOUND 752 767	dichloromethane
+T16	OTHER_COMPOUND 891 901	silica gel
+T17	OTHER_COMPOUND 925 940	petroleum ether
+T18	OTHER_COMPOUND 943 956	ethyl acetate
+T19	REACTION_PRODUCT 985 999	title compound
+T20	YIELD_OTHER 1001 1006	4.5 g
+T21	YIELD_PERCENT 1014 1019	70.3%

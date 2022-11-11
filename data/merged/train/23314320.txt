@@ -1,0 +1,12 @@
+A physiologically based pharmacokinetic model for the oxime TMB-4: simulation of rodent and human data.
+Multiple oximes have been synthesized and evaluated for use as countermeasures against chemical warfare nerve agents.
+The current U.S. military and civilian oxime countermeasure, 2-[(hydroxyimino)methyl]-1-methylpyridin-1-ium chloride (2-PAM), is under consideration for replacement with a more effective acetylcholinesterase reactivator, 1,1'-methylenebis{4-hydroxyiminomethyl}pyridinium dimethanesulfonate (MMB-4).
+Kinetic data in the scientific literature for MMB-4 are limited; therefore, a physiologically based pharmacokinetic (PBPK) model was developed for a structurally related oxime, 1,1'-trimethylenebis{4-hydroximinomethyl}pyridinium dibromide.
+Based on a previous model structure for the organophosphate diisopropylfluorophosphate, the model includes key sites of acetylcholinesterase inhibition (brain and diaphragm), as well as fat, kidney, liver, rapidly perfused tissues and slowly perfused tissues.
+All tissue compartments are diffusion limited.
+Model parameters were collected from the literature, predicted using quantitative structure-property relationships or, when necessary, fit to available pharmacokinetic data from the literature.
+The model was parameterized using rat plasma, tissue and urine time course data from intramuscular administration, as well as human blood and urine data from intravenous and intramuscular administration; sensitivity analyses were performed.
+The PBPK model successfully simulates rat and human data sets and has been evaluated by predicting intravenous mouse and intramuscular human data not used in the development of the model.
+Monte Carlo analyses were performed to quantify human population kinetic variability in the human evaluation data set.
+The model identifies potential pharmacokinetic differences between rodents and humans, indicated by differences in model parameters between species.
+The PBPK model can be used to optimize the dosing regimen to improve oxime therapeutic efficacy in a human population.

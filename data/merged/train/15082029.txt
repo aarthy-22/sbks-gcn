@@ -1,0 +1,12 @@
+Evidence that the granulocyte colony-stimulating factor (G-CSF) receptor plays a role in the pharmacokinetics of G-CSF and PegG-CSF using a G-CSF-R KO model.
+The covalent attachment of polyethylene glycol to filgrastim results in a new molecule pegfilgrastim, which has a significantly longer half-life than filgrastim.
+It is likely that the clearance of both filgrastim and pegfilgrastim involves granulocyte colony simulating factor (G-CSF) receptor binding, but the pharmacokinetics of these drugs have not been compared in mice with and without a functional G-CSF receptor.
+We sought to clarify the role of receptor-mediated clearance of filgrastim and pegfilgrastim using wild-type (WT) mice or mice with a non-functional G-CSF-R (knockout, KO).
+We administered single doses of filgrastim or pegfilgrastim (10 or 100 microg kg(-1)) intravenously to WT and KO mice.
+Plasma levels of protein were measured by enzyme-linked immunosorbent assay (ELISA) at preset time points, and AUC, MRT, CL, V(d), and T(1/2) were calculated.
+When compared with WT mice, the G-CSF-R KO mice had significantly greater AUC, longer MRT, longer T(1/2), and lower clearance.
+This was the case whether animals received 10 or 100 microg kg(-1) and whether they received filgrastim or pegfilgrastim.
+The volume of protein distribution was identical among WT and KO mice.
+However, the V(d) was larger after pegfilgrastim dosing than after filgrastim dosing.
+In both WT and KO mice, increasing the dose of figrastim or pegfilgrastim resulted in a proportional increase in the AUC.
+A functional G-CSF-R is an important mechanism in the plasma clearance of both filgrastim and pegfilgrastim.

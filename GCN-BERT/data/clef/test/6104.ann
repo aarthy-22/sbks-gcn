@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 8 9	6
+T2	REACTION_PRODUCT 23 170	1-[5-(dimethylphosphinoylmethoxy)-3-fluoropyridin-2-yl]-8-(1,3-dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one
+T3	STARTING_MATERIAL 171 280	8-(1,3-Dimethylpyrazol-4-yl)-1-(3-fluoro-5-hydroxy-2-pyridyl)-7-methoxy-3-methylimidazo-[4,5-c]quinolin-2-one
+T4	REAGENT_CATALYST 306 339	chloro(dimethylphosphoryl)methane
+T5	REAGENT_CATALYST 367 386	potassium carbonate
+T6	REAGENT_CATALYST 410 432	N,N-dimethyl-formamide
+T7	OTHER_COMPOUND 521 526	argon
+T8	OTHER_COMPOUND 542 547	argon
+T9	TEMPERATURE 605 612	180° C.
+T10	TIME 617 624	2 hours
+T11	YIELD_OTHER 745 752	11.7 mg
+T12	YIELD_PERCENT 754 757	12%
+T13	REACTION_PRODUCT 762 909	1-[5-(dimethylphosphinoylmethoxy)-3-fluoropyridin-2-yl]-8-(1,3-dimethyl-1H-pyrazol-4-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one

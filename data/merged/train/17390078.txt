@@ -1,0 +1,13 @@
+Gene expression signature of parathion-transformed human breast epithelial cells.
+Environmental substances seem to be involved in the etiology of breast cancers.
+Many studies have found an association between human cancer and exposure to agricultural pesticides such as the organophosphorous pesticides.
+Parathion is a cholinesterase inhibitor that induces the hydrolysis of body choline esters, including acetylcholine at cholinergic synapses.
+The primary target of action in insects is the nervous system whereby pesticides inhibit the release of the enzyme acetylcholinesterase at the synaptic junction.
+Atropine is a parasympatholytic alkaloid used as an antidote to acetylcholinesterase inhibitors.
+The aim of this study was to determine the effect of parathion and atropine on cell transformation of human breast epithelial cells in vitro.
+These studies showed that parathion alone was able to induce malignant transformation of an immortalized human breast epithelial cell line, MCF-10F as indicated by increased cell proliferation, anchorage independency and invasive capabilities.
+There was also an increase in c-kit, Trio, Rho-A, Rac-3, EGFR, Notch-4, Dvl-2, Ezrin, beta catenin and mutant p53 protein expression in the parathion-treated cells.
+However, atropine significantly inhibited this increase.
+In a human cell cycle array of 96 genes, 13 of them were altered by parathion treatment.
+Among the genes affected were the cyclins, such as cyclin D3, the cyclin-dependent kinases (CDKs) such as CDK41 and the minichromosome maintenance deficient (MCM) MCM2 and MCM3.
+It is suggested that parathion influences human breast epithelial cell transformation and is an initiator factor in the transformation process in breast cancer.

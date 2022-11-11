@@ -1,0 +1,4 @@
+Embodiment 10
+2{[4-(5-Cyanonaphthalen-1-yl)isoquinolin-6-yl]thio}-2-methylpropionic acid (Compound 10)
+Synthesis of compound 10-e
+5-Bromo-1-naphthoic acid (980mg, 3.92mmol) was added to thionyl chloride (5mL). The mixture was stirred at 85°C for 2hrs, concentrated under reduced pressure. The residue was dissolved in anhydrous THF (10mL), the solution was added dropwise into 25%-28% aqueous ammonia (20mL) at 0°C. The mixture was warmed to room temperature and further stirred for 2hrs, followed by being extracted with EA (60mL×3). The organic phases were combined, dried over anhydrous sodium sulfate, filtered, and concentrated under reduced pressure to give white solid 10-e (950mg, yield 97%). The product was used directly for the next step without further purification.

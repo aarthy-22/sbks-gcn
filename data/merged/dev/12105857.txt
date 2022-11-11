@@ -1,0 +1,16 @@
+Thalidomide prevents alcoholic liver injury in rats through suppression of Kupffer cell sensitization and TNF-alpha production.
+BACKGROUND & AIMS: Sensitization of Kupffer cells (KCs) to lipopolysaccharide (LPS) and overproduction of tumor necrosis factor (TNF) alpha are critical for progression of alcoholic liver injury.
+Thalidomide has been shown to suppress TNF-alpha production from macrophages.
+Accordingly, the purpose of this study was to determine whether thalidomide could prevent alcohol-induced liver injury.
+METHODS: Rats were given ethanol (5 g/kg body wt) and thalidomide (5 mg/kg) once every 24 hours intragastrically.
+To assess the sensitization of Kupffer cells, LPS (5 mg/kg intravenously) was administered and liver histology was evaluated 24 hours later.
+KCs were isolated after 4 weeks of ethanol treatment and intracellular Ca2+ ([Ca2+]i) was measured using fura-2, whereas TNF-alpha was evaluated by reverse-transcription polymerase chain reaction and enzyme-linked immunosorbent assay.
+CD14 was determined by Western and fluorescence staining.
+RESULTS: Treatment with ethanol for 8 weeks caused marked steatosis, necrosis, and inflammation in the liver.
+These pathologic parameters were diminished markedly by treatment with thalidomide.
+In the 4-week ethanol group, the LPS-induced liver damage was aggravated and KCs were sensitized to LPS.
+Coadministration of thalidomide with ethanol prevented the KC sensitization completely.
+Furthermore, thalidomide abolished the LPS-induced increase in CD14 expression and [Ca2+]i elevation in KCs.
+Gut permeability was increased about 10-fold after 4 weeks of ethanol exposure, which was not affected by thalidomide.
+Moreover, thalidomide reduced the LPS-induced TNF-alpha production by KCs by decreasing TNF-alpha messenger RNA.
+CONCLUSIONS: These results collectively indicate that thalidomide prevents alcoholic liver injury through suppression of TNF-alpha production and abolishment of KC sensitization.

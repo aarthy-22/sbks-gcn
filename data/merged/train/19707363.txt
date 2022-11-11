@@ -1,0 +1,9 @@
+Review of the use of idursulfase in the treatment of mucopolysaccharidosis II.
+Mucopolysaccharidosis type II (MPS II, Hunter syndrome) is a heterogeneous, progressive X-linked recessively inherited lysosomal storage disease that is caused by a deficiency of the enzyme iduronate-2-sulfatase, resulting in abnormal tissue accumulation of the glycosaminoglycans, dermatan sulfate and heparan sulfate.
+The disorder results from mutations in IDS, which is located at Xq28.
+Over 300 pathogenic mutations have been identified to date.
+The management of MPS II requires multidisciplinary care because of the many affected organ systems.
+Replacement of functional enzyme to involved tissues has been a focus of various therapies for several decades.
+The transplantation of hematopoietic stem cells provides enzymatic reconstitution in many target tissues, but the clinical response has been disappointing.
+Recently, enzyme replacement therapy with recombinant human iduronate-2-sulfatase (idursulfase, Elaprase((R)); Shire HGT Pharmaceuticals, Cambridge MA, USA), was approved by the in the US and Europe as a safe and effective treatment for individuals with MPS II.
+This review presents a comprehensive overview of MPS II and summarizes the recent literature on therapy for the disease.

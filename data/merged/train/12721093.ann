@@ -1,0 +1,60 @@
+T17	CHEMICAL 30 41	angiotensin
+T54	GENE-N 30 51	angiotensin receptors
+T18	CHEMICAL 53 63	bradykinin
+T55	GENE-N 53 73	bradykinin receptors
+T56	GENE-N 78 99	alpha 2-autoreceptors
+T53	GENE-N 135 155	alpha 2-adrenoceptor
+T7	CHEMICAL 191 205	angiotensin II
+T37	GENE-Y 191 205	angiotensin II
+T9	CHEMICAL 210 220	bradykinin
+T44	GENE-Y 210 220	bradykinin
+T14	CHEMICAL 247 260	noradrenaline
+T26	GENE-N 303 311	alpha(2)
+T42	GENE-N 432 440	alpha(2)
+T43	GENE-N 499 520	alpha(2)-adrenoceptor
+T8	CHEMICAL 548 566	(3)H-noradrenaline
+T10	CHEMICAL 647 661	angiotensin II
+T45	GENE-Y 647 661	angiotensin II
+T11	CHEMICAL 666 676	bradykinin
+T46	GENE-Y 666 676	bradykinin
+T12	CHEMICAL 862 873	rauwolscine
+T13	CHEMICAL 878 890	phentolamine
+T47	GENE-Y 980 1002	alpha(2A)-adrenoceptor
+T48	GENE-Y 1004 1013	alpha(2A)
+T49	GENE-Y 1024 1046	alpha(2B)-adrenoceptor
+T50	GENE-Y 1048 1057	alpha(2B)
+T15	CHEMICAL 1099 1113	angiotensin II
+T51	GENE-Y 1099 1113	angiotensin II
+T16	CHEMICAL 1118 1128	bradykinin
+T52	GENE-Y 1118 1128	bradykinin
+T19	GENE-Y 1199 1221	alpha(2C)-adrenoceptor
+T20	GENE-Y 1223 1232	alpha(2C)
+T21	GENE-N 1248 1289	alpha(2A)- and the alpha(2C)-adrenoceptor
+T22	GENE-N 1291 1301	alpha(2AC)
+T23	GENE-Y 1404 1418	angiotensin II
+T24	GENE-Y 1423 1433	bradykinin
+T25	GENE-Y 1470 1479	alpha(2A)
+T27	GENE-N 1486 1496	alpha(2AC)
+T1	CHEMICAL 1512 1523	rauwolscine
+T2	CHEMICAL 1528 1540	phentolamine
+T3	CHEMICAL 1600 1611	Rauwolscine
+T4	CHEMICAL 1616 1628	phentolamine
+T28	GENE-Y 1712 1721	alpha(2B)
+T29	GENE-Y 1747 1756	alpha(2A)
+T30	GENE-Y 1763 1772	alpha(2C)
+T31	GENE-N 1800 1810	alpha(2AC)
+T5	CHEMICAL 1846 1860	angiotensin II
+T32	GENE-Y 1846 1860	angiotensin II
+T6	CHEMICAL 1865 1875	bradykinin
+T33	GENE-Y 1865 1875	bradykinin
+T34	GENE-N 1892 1900	alpha(2)
+T35	GENE-Y 2006 2015	alpha(2C)
+T36	GENE-Y 2067 2089	alpha(2C)-autoreceptor
+T38	GENE-Y 2127 2136	alpha(2B)
+T39	GENE-Y 2204 2213	alpha(2A)
+T40	GENE-Y 2219 2228	alpha(2C)
+T41	GENE-Y 2279 2302	alpha(2B)-autoreceptors
+R0	NOT Arg1:T14 Arg2:T42
+R1	NOT Arg1:T24 Arg2:T2
+R2	NOT Arg1:T25 Arg2:T1
+R3	NOT Arg1:T6 Arg2:T34

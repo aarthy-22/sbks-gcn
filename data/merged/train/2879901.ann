@@ -1,0 +1,29 @@
+T15	CHEMICAL 38 50	prednisolone
+T13	CHEMICAL 143 155	prednisolone
+T6	CHEMICAL 242 258	steroid hormones
+T8	CHEMICAL 268 283	corticosteroids
+T19	GENE-N 292 311	cytosolic receptors
+T9	CHEMICAL 320 327	steroid
+T20	GENE-N 320 336	steroid-receptor
+T10	CHEMICAL 600 612	Prednisolone
+T11	CHEMICAL 740 752	prednisolone
+T21	GENE-Y 825 848	glucocorticoid receptor
+T12	CHEMICAL 868 876	tyrosine
+T22	GENE-Y 868 893	tyrosine aminotransferase
+T23	GENE-Y 895 898	TAT
+T14	CHEMICAL 986 998	prednisolone
+T24	GENE-Y 1014 1037	glucocorticoid receptor
+T1	CHEMICAL 1136 1148	prednisolone
+T16	GENE-Y 1266 1269	TAT
+T2	CHEMICAL 1302 1309	steroid
+T3	CHEMICAL 1378 1385	Steroid
+T17	GENE-Y 1495 1498	TAT
+T4	CHEMICAL 1551 1563	prednisolone
+T18	GENE-Y 1646 1649	TAT
+T5	CHEMICAL 1681 1693	prednisolone
+T7	CHEMICAL 1859 1873	corticosteroid
+R0	CPR-2 Arg1:T14 Arg2:T24
+R1	NOT Arg1:T6 Arg2:T19
+R2	NOT Arg1:T19 Arg2:T9
+R3	NOT Arg1:T11 Arg2:T22
+R4	NOT Arg1:T24 Arg2:T1

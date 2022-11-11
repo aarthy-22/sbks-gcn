@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 8 12	52-3
+T2	REACTION_PRODUCT 30 114	2'-amino-6-(2-amino-6-(dimethylamino)pyrimidin-4-yl)-3'-fluoro-[2,4'-bipyridin]-5-ol
+T3	REACTION_PRODUCT 116 121	LXXVI
+T4	STARTING_MATERIAL 123 212	6-(2'-Amino-3'-fluoro-5-methoxy-[2,4'-bipyridin]-6-yl-N4,N4-dimethylpyrimidin-2,4-diamine
+T5	REAGENT_CATALYST 238 260	pyridine hydrochloride
+T6	REAGENT_CATALYST 262 274	Pyridine HCl
+T7	TEMPERATURE 331 337	170 °C
+T8	TIME 342 347	2 hrs
+T9	TEMPERATURE 385 401	room temperature
+T10	OTHER_COMPOUND 427 431	NaOH
+T11	OTHER_COMPOUND 497 509	diethylether
+T12	REACTION_PRODUCT 533 547	title compound
+T13	YIELD_OTHER 549 554	22 mg
+T14	YIELD_PERCENT 556 560	24 %

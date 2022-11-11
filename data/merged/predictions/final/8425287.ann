@@ -1,0 +1,42 @@
+T32	CHEMICAL 25 38	catecholamine
+T33	CHEMICAL 86 95	adenosine
+T31	CHEMICAL 100 113	acetylcholine
+T29	CHEMICAL 251 261	nucleoside
+T30	CHEMICAL 262 271	adenosine
+T12	CHEMICAL 336 349	catecholamine
+T22	CHEMICAL 471 480	adenosine
+T23	CHEMICAL 578 591	catecholamine
+T24	CHEMICAL 601 605	cAMP
+T25	CHEMICAL 641 648	calcium
+T26	CHEMICAL 756 765	adenosine
+T27	CHEMICAL 844 853	adenylate
+T40	GENE-N 844 861	adenylate cyclase
+T28	CHEMICAL 922 931	adenosine
+T41	GENE-N 1012 1026	chemoreceptors
+T1	CHEMICAL 1268 1281	catecholamine
+T2	CHEMICAL 1308 1317	adenosine
+T3	CHEMICAL 1322 1335	acetylcholine
+T4	CHEMICAL 1389 1401	Dipyridamole
+T5	CHEMICAL 1423 1433	nucleoside
+T6	CHEMICAL 1495 1504	adenosine
+T7	CHEMICAL 1567 1580	catecholamine
+T8	CHEMICAL 1673 1686	aminophylline
+T42	CHEMICAL 1690 1701	competitive
+T34	GENE-Y 1702 1723	adenosine A1-receptor
+T9	CHEMICAL 1702 1711	adenosine
+T10	CHEMICAL 1736 1747	Edrophonium
+T35	GENE-Y 1764 1778	cholinesterase
+T11	CHEMICAL 1821 1834	acetylcholine
+T36	GENE-N 1842 1873	muscarinic cholinergic receptor
+T13	CHEMICAL 1946 1954	atropine
+T14	CHEMICAL 2004 2016	dipyridamole
+T15	CHEMICAL 2021 2032	edrophonium
+T16	CHEMICAL 2096 2105	Adenosine
+T17	CHEMICAL 2143 2156	catecholamine
+T18	CHEMICAL 2242 2251	adenosine
+T19	CHEMICAL 2533 2542	adenosine
+T37	GENE-Y 2533 2545	adenosine A1
+T38	GENE-N 2549 2580	muscarinic cholinergic receptor
+T20	CHEMICAL 2613 2622	adenylate
+T39	GENE-N 2613 2630	adenylate cyclase
+T21	CHEMICAL 2730 2743	catecholamine

@@ -1,0 +1,18 @@
+T7	CHEMICAL 0 11	Indoleamine
+T17	GENE-Y 0 27	Indoleamine 2,3-dioxygenase
+T8	CHEMICAL 82 99	tsitsikammamine A
+T1	CHEMICAL 101 117	Tsitsikammamines
+T5	CHEMICAL 171 190	pyrroloiminoquinone
+T10	GENE-N 328 341	topoisomerase
+T2	CHEMICAL 407 418	Indoleamine
+T11	GENE-Y 407 434	Indoleamine 2,3-dioxygenase
+T12	GENE-Y 436 440	IDO1
+T3	CHEMICAL 617 632	tsitsikammamine
+T13	GENE-Y 653 657	IDO1
+T4	CHEMICAL 659 676	Tsitsikammamine A
+T6	CHEMICAL 848 858	tryptophan
+T14	GENE-Y 848 874	tryptophan 2,3-dioxygenase
+T15	GENE-Y 876 879	TDO
+T16	GENE-Y 918 922	IDO1
+T9	GENE-Y 1140 1144	IDO1
+R0	NOT Arg1:T17 Arg2:T5

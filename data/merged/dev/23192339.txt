@@ -1,0 +1,14 @@
+Transcriptional regulatory factor X6 (Rfx6) increases gastric inhibitory polypeptide (GIP) expression in enteroendocrine K-cells and is involved in GIP hypersecretion in high fat diet-induced obesity.
+Gastric inhibitory polypeptide (GIP) is an incretin released from enteroendocrine K-cells in response to nutrient ingestion.
+GIP potentiates glucose-stimulated insulin secretion and induces energy accumulation into adipose tissue, resulting in obesity.
+Plasma GIP levels are reported to be increased in the obese state.
+However, the molecular mechanisms of GIP secretion and high fat diet (HFD)-induced GIP hypersecretion remain unclear, primarily due to difficulties in separating K-cells from other intestinal epithelial cells in vivo.
+In this study, GIP-GFP knock-in mice that enable us to visualize K-cells by enhanced GFP were established.
+Microarray analysis of isolated K-cells from these mice revealed that transcriptional regulatory factor X6 (Rfx6) is expressed exclusively in K-cells.
+In vitro experiments using the mouse intestinal cell line STC-1 showed that knockdown of Rfx6 decreased mRNA expression, cellular content, and secretion of GIP.
+Rfx6 bound to the region in the gip promoter that regulates gip promoter activity, and overexpression of Rfx6 increased GIP mRNA expression.
+HFD induced obesity and GIP hypersecretion in GIP-GFP heterozygous mice in vivo.
+Immunohistochemical and flow cytometry analysis showed no significant difference in K-cell number between control fat diet-fed (CFD) and HFD-fed mice.
+However, GIP content in the upper small intestine and GIP mRNA expression in K-cells were significantly increased in HFD-fed mice compared with those in CFD-fed mice.
+Furthermore, expression levels of Rfx6 mRNA were increased in K-cells of HFD-fed mice.
+These results suggest that Rfx6 increases GIP expression and content in K-cells and is involved in GIP hypersecretion in HFD-induced obesity.

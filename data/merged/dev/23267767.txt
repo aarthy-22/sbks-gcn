@@ -1,0 +1,5 @@
+Development of hypoxia-inducible factor (HIF)-1α inhibitors: effect of ortho-carborane substituents on HIF transcriptional activity under hypoxia.
+A series of substituted ortho-carboranylphenoxyacetanilides were synthesized and evaluated for their ability to inhibit hypoxia-induced HIF-1 transcriptional activity using a cell-based reporter assay in HeLa cells expressing the HRE-dependent firefly luciferase reporter construct (HRE-Luc) and constitutively expressing CMV-driven Renilla luciferase reporter, and their ability to inhibit cell growth (GI(50)) using the MTT assay.
+Among the compounds synthesized, 1g and 1l showed significant inhibition of hypoxia-induced HIF-1 transcriptional activity (IC(50): 1.9 ± 0.4 and 1.4 ± 0.2 μM, respectively).
+Both compounds suppressed HIF-1α accumulation in a concentration-dependent manner.
+The porcine heart malate dehydrogenase (MDH) refolding assay revealed that compound 1l inhibited human Hsp60 chaperone activity (IC(50): 6.80 ± 0.25 μM) and this inhibition activity was higher than that of ETB (IC(50): 10.9 ± 0.63 μM).

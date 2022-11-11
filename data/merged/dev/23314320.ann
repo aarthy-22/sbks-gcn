@@ -1,0 +1,23 @@
+T13	CHEMICAL 54 59	oxime
+T14	CHEMICAL 60 65	TMB-4
+T12	CHEMICAL 113 119	oximes
+T1	CHEMICAL 261 266	oxime
+T2	CHEMICAL 283 338	2-[(hydroxyimino)methyl]-1-methylpyridin-1-ium chloride
+T4	CHEMICAL 340 345	2-PAM
+T15	GENE 409 429	acetylcholinesterase
+T5	CHEMICAL 443 511	1,1'-methylenebis{4-hydroxyiminomethyl}pyridinium dimethanesulfonate
+T6	CHEMICAL 513 518	MMB-4
+T7	CHEMICAL 567 572	MMB-4
+T8	CHEMICAL 691 696	oxime
+T9	CHEMICAL 698 759	1,1'-trimethylenebis{4-hydroximinomethyl}pyridinium dibromide
+T10	CHEMICAL 805 820	organophosphate
+T11	CHEMICAL 821 847	diisopropylfluorophosphate
+T16	GENE 881 901	acetylcholinesterase
+T3	CHEMICAL 2028 2033	oxime
+R0	CPR-3 Arg1:T5 Arg2:T15
+R1	CPR-3 Arg1:T6 Arg2:T15
+R2	NOT Arg1:T1 Arg2:T15
+R3	NOT Arg1:T2 Arg2:T15
+R4	NOT Arg1:T4 Arg2:T15
+R5	NOT Arg1:T10 Arg2:T16
+R6	NOT Arg1:T11 Arg2:T16

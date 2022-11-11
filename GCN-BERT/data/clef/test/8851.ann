@@ -1,0 +1,440 @@
+T1	OTHER_COMPOUND 75 98	sphingosine 1 phosphate
+T2	OTHER_COMPOUND 100 103	S1P
+T3	OTHER_COMPOUND 273 278	nerve
+T4	OTHER_COMPOUND 705 717	polymyositis
+T5	OTHER_COMPOUND 823 840	anti-inflammatory
+T6	OTHER_COMPOUND 1224 1227	S1P
+T7	OTHER_COMPOUND 1349 1365	1H-tetrazol-5-yl
+T8	OTHER_COMPOUND 1421 1435	C2-3alkenylene
+T9	OTHER_COMPOUND 1442 1451	C6-10aryl
+T10	OTHER_COMPOUND 1455 1469	C2-9heteroaryl
+T11	OTHER_COMPOUND 1475 1489	C3-9heteroaryl
+T12	OTHER_COMPOUND 1547 1554	halogen
+T13	OTHER_COMPOUND 1556 1559	—OH
+T14	OTHER_COMPOUND 1561 1565	—NO2
+T15	OTHER_COMPOUND 1607 1616	C1-6alkyl
+T16	OTHER_COMPOUND 1621 1625	halo
+T17	OTHER_COMPOUND 1638 1648	C1-6alkoxy
+T18	OTHER_COMPOUND 1877 1886	methylene
+T19	OTHER_COMPOUND 2223 2232	azetidine
+T20	OTHER_COMPOUND 2234 2236	R1
+T21	OTHER_COMPOUND 2240 2249	C6-10aryl
+T22	OTHER_COMPOUND 2253 2267	C2-9heteroaryl
+T23	OTHER_COMPOUND 2272 2286	C3-9heteroaryl
+T24	OTHER_COMPOUND 2336 2354	C6-10arylC1-4alkyl
+T25	OTHER_COMPOUND 2372 2395	C3-9heteroarylC1-4alkyl
+T26	OTHER_COMPOUND 2397 2411	C3-8cycloalkyl
+T27	OTHER_COMPOUND 2413 2458	C3-8cycloalkylC1-4alkyl, C3-8heterocycloalkyl
+T28	OTHER_COMPOUND 2462 2491	C3-8heterocycloalkylC1-4alkyl
+T29	OTHER_COMPOUND 2557 2559	R1
+T30	OTHER_COMPOUND 2619 2628	C1-6alkyl
+T31	OTHER_COMPOUND 2645 2671	halo substituted-C1-6alkyl
+T32	OTHER_COMPOUND 2675 2686	-C1-6alkoxy
+T33	OTHER_COMPOUND 2736 2745	methylene
+T34	OTHER_COMPOUND 2787 2790	—S—
+T35	OTHER_COMPOUND 2792 2798	—S(O)—
+T36	OTHER_COMPOUND 2850 2858	hydrogen
+T37	OTHER_COMPOUND 2862 2871	C1-6alkyl
+T38	OTHER_COMPOUND 2936 2947	C2-6alkynyl
+T39	OTHER_COMPOUND 2992 2999	halogen
+T40	OTHER_COMPOUND 3016 3026	C1-6alkoxy
+T41	OTHER_COMPOUND 3030 3034	halo
+T42	OTHER_COMPOUND 3060 3070	C1-6alkoxy
+T43	OTHER_COMPOUND 3708 3723	dermatomyositis
+T44	OTHER_COMPOUND 4182 4185	S1P
+T45	OTHER_COMPOUND 4351 4354	S1P
+T46	OTHER_COMPOUND 4491 4503	polymyositis
+T47	OTHER_COMPOUND 4725 4727	1(
+T48	OTHER_COMPOUND 4805 4813	cytokine
+T49	OTHER_COMPOUND 4895 4899	DMSO
+T50	OTHER_COMPOUND 4946 4947	A
+T51	OTHER_COMPOUND 5002 5003	A
+T52	OTHER_COMPOUND 5103 5107	DMSO
+T53	OTHER_COMPOUND 5174 5175	A
+T54	OTHER_COMPOUND 5230 5231	A
+T55	OTHER_COMPOUND 5371 5373	Ib
+T56	OTHER_COMPOUND 5444 5446	05
+T57	OTHER_COMPOUND 5572 5575	S1P
+T58	OTHER_COMPOUND 5630 5632	Ib
+T59	OTHER_COMPOUND 5674 5686	—OP(O)(OR5)2
+T60	OTHER_COMPOUND 5760 5769	C1-6alkyl
+T61	OTHER_COMPOUND 5800 5814	C2-3alkenylene
+T62	OTHER_COMPOUND 5854 5868	C3-9heteroaryl
+T63	OTHER_COMPOUND 5926 5933	halogen
+T64	OTHER_COMPOUND 5935 5938	—OH
+T65	OTHER_COMPOUND 5969 5973	halo
+T66	OTHER_COMPOUND 6000 6004	halo
+T67	OTHER_COMPOUND 6017 6027	C1-6alkoxy
+T68	OTHER_COMPOUND 6164 6166	Ib
+T69	OTHER_COMPOUND 6213 6222	C1-6alkyl
+T70	OTHER_COMPOUND 6256 6265	methylene
+T71	OTHER_COMPOUND 6297 6298	O
+T72	OTHER_COMPOUND 6602 6611	azetidine
+T73	OTHER_COMPOUND 6651 6665	C3-9heteroaryl
+T74	OTHER_COMPOUND 6693 6702	C1-6alkyl
+T75	OTHER_COMPOUND 6704 6713	C8-18aryl
+T76	OTHER_COMPOUND 6715 6733	C6-10arylC1-4alkyl
+T77	OTHER_COMPOUND 6735 6749	C3-9heteroaryl
+T78	OTHER_COMPOUND 6792 6815	C3-8cycloalkylC1-4alkyl
+T79	OTHER_COMPOUND 6817 6837	C3-8heterocycloalkyl
+T80	OTHER_COMPOUND 6841 6870	C3-8heterocycloalkylC1-4alkyl
+T81	OTHER_COMPOUND 6916 6932	heterocycloalkyl
+T82	OTHER_COMPOUND 6936 6938	R1
+T83	OTHER_COMPOUND 7024 7028	halo
+T84	OTHER_COMPOUND 7054 7065	-C1-6alkoxy
+T85	OTHER_COMPOUND 7115 7124	methylene
+T86	OTHER_COMPOUND 7188 7193	—NR5—
+T87	OTHER_COMPOUND 7198 7201	—O—
+T88	OTHER_COMPOUND 7241 7250	C1-6alkyl
+T89	OTHER_COMPOUND 7300 7311	C2-6alkenyl
+T90	OTHER_COMPOUND 7315 7326	C2-6alkynyl
+T91	OTHER_COMPOUND 7371 7378	halogen
+T92	OTHER_COMPOUND 7380 7382	OH
+T93	OTHER_COMPOUND 7409 7413	halo
+T94	OTHER_COMPOUND 7426 7435	C1-6alkyl
+T95	OTHER_COMPOUND 7439 7449	C1-6alkoxy
+T96	OTHER_COMPOUND 7693 7695	R1
+T97	OTHER_COMPOUND 7719 7726	thienyl
+T98	OTHER_COMPOUND 7753 7762	C6-10aryl
+T99	OTHER_COMPOUND 7764 7773	C6-10aryl
+T100	OTHER_COMPOUND 7775 7784	C1-4alkyl
+T101	OTHER_COMPOUND 7827 7841	C3-8cycloalkyl
+T102	OTHER_COMPOUND 7843 7866	C3-8cycloalkylC1-4alkyl
+T103	OTHER_COMPOUND 7923 7932	C1-6alkyl
+T104	OTHER_COMPOUND 8102 8106	halo
+T105	OTHER_COMPOUND 8210 8219	methylene
+T106	OTHER_COMPOUND 8293 8296	—O—
+T107	OTHER_COMPOUND 8324 8333	C1-6alkyl
+T108	OTHER_COMPOUND 8402 8411	C1-6alkyl
+T109	OTHER_COMPOUND 8502 8514	—C(R2)═NOWR1
+T110	OTHER_COMPOUND 8523 8530	—CR3R4—
+T111	OTHER_COMPOUND 8543 8550	—CR3R4—
+T112	OTHER_COMPOUND 8555 8567	—C(R2)═NOWR1
+T113	OTHER_COMPOUND 8571 8578	Formula
+T114	OTHER_COMPOUND 8579 8581	Ia
+T115	OTHER_COMPOUND 8618 8625	—CR3R4—
+T116	OTHER_COMPOUND 8698 8702	aryl
+T117	OTHER_COMPOUND 8807 8816	C1-6alkyl
+T118	OTHER_COMPOUND 8818 8828	C1-6alkoxy
+T119	OTHER_COMPOUND 8861 8865	halo
+T120	OTHER_COMPOUND 8878 8888	C1-6alkoxy
+T121	OTHER_COMPOUND 8915 8917	R1
+T122	OTHER_COMPOUND 9002 9011	C6-10aryl
+T123	OTHER_COMPOUND 9013 9031	C6-10arylC1-4alkyl
+T124	OTHER_COMPOUND 9033 9047	C2-9heteroaryl
+T125	OTHER_COMPOUND 9074 9088	C3-8cycloalkyl
+T126	OTHER_COMPOUND 9115 9135	C3-8heterocycloalkyl
+T127	OTHER_COMPOUND 9225 9241	heterocycloalkyl
+T128	OTHER_COMPOUND 9321 9325	halo
+T129	OTHER_COMPOUND 9327 9336	C1-6alkyl
+T130	OTHER_COMPOUND 9381 9385	halo
+T131	OTHER_COMPOUND 9541 9544	—O—
+T132	OTHER_COMPOUND 9560 9568	hydrogen
+T133	OTHER_COMPOUND 9572 9581	C1-6alkyl
+T134	OTHER_COMPOUND 9622 9632	C1-6alkoxy
+T135	OTHER_COMPOUND 9634 9638	halo
+T136	OTHER_COMPOUND 9670 9692	substituted-C1-6alkoxy
+T137	OTHER_COMPOUND 9871 9873	Ib
+T138	OTHER_COMPOUND 9889 9891	R6
+T139	OTHER_COMPOUND 9907 9915	hydrogen
+T140	OTHER_COMPOUND 9920 9929	C1-6alkyl
+T141	OTHER_COMPOUND 9954 9962	hydrogen
+T142	OTHER_COMPOUND 10006 10012	phenyl
+T143	OTHER_COMPOUND 10014 10032	pyridinyl, thienyl
+T144	OTHER_COMPOUND 10037 10044	furanyl
+T145	OTHER_COMPOUND 10058 10064	phenyl
+T146	OTHER_COMPOUND 10077 10087	thienyl or
+T147	OTHER_COMPOUND 10160 10166	methyl
+T148	OTHER_COMPOUND 10168 10173	ethyl
+T149	OTHER_COMPOUND 10175 10186	cyclopropyl
+T150	OTHER_COMPOUND 10188 10195	chloro,
+T151	OTHER_COMPOUND 10214 10221	methoxy
+T152	OTHER_COMPOUND 10237 10243	phenyl
+T153	OTHER_COMPOUND 10245 10247	R6
+T154	OTHER_COMPOUND 10284 10285	Y
+T155	REACTION_PRODUCT 10294 10325	3,4-dihydro-1H-isoquinolin-2-yl
+T156	OTHER_COMPOUND 10365 10374	methylene
+T157	OTHER_COMPOUND 10421 10427	phenyl
+T158	OTHER_COMPOUND 10441 10468	thienyl, 3,3-dimethyl-butyl
+T159	OTHER_COMPOUND 10481 10492	cyclopentyl
+T160	OTHER_COMPOUND 10582 10597	trifluoromethyl
+T161	OTHER_COMPOUND 10599 10606	methoxy
+T162	OTHER_COMPOUND 10608 10614	fluoro
+T163	OTHER_COMPOUND 10616 10632	trifluoromethoxy
+T164	OTHER_COMPOUND 10637 10643	methyl
+T165	OTHER_COMPOUND 10667 10682	trifluoromethyl
+T166	OTHER_COMPOUND 10692 10706	methyl, chloro
+T167	OTHER_COMPOUND 10720 10725	ethyl
+T168	REACTION_PRODUCT 10773 10861	3-{4-[1-(2-Trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T169	REACTION_PRODUCT 10863 11069	3-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-ethyl-benzylamino}-propionic acid, 1-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid
+T170	REACTION_PRODUCT 11071 11301	3-({2-Chloro-6-[1-(4-cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-pyridin-3-ylmethyl}-amino)-propionic acid, 3-({6-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-ethyl-pyridin-3-ylmethyl}-amino)-propionic acid,
+T171	REACTION_PRODUCT 11302 11372	3-{4-[1-(Biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T172	REACTION_PRODUCT 11374 11442	4-{4-[1-(Biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-butyric acid
+T173	REACTION_PRODUCT 11444 11522	1-{4-[1-(Biphenyl-4-ylmethoxyimino)-ethyl]-benzyl}-azetidine-3-carboxylic acid
+T174	REACTION_PRODUCT 11524 11670	1-{4-[1-(Biphenyl-4-ylmethoxyimino)-ethyl]-benzyl}-piperidine-3-carboxylic acid, {4-[1-(Biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-acetic acid
+T175	REACTION_PRODUCT 11672 11755	3-{4-[1-(Biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-cyclopentanecarboxylic acid
+T176	REACTION_PRODUCT 11757 11847	3-{4-[1-(4′-Trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid,
+T177	REACTION_PRODUCT 11848 11924	3-{4-[1-(5-Phenyl-furan-2-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T178	REACTION_PRODUCT 11926 12016	3-{-4-[1-(3′-Trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T179	REACTION_PRODUCT 12018 12108	3-{-4-[1-(3-Trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid,
+T180	REACTION_PRODUCT 12109 12191	3-{-4-[1-(4′-Methoxy-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T181	REACTION_PRODUCT 12193 12264	3-{-4-[1-(Biphenyl-3-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T182	REACTION_PRODUCT 12266 12436	3-{4-[1-(4-Thiophen-2-yl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid, 3-{4-[1-(4-Thiophen-2-yl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid
+T183	REACTION_PRODUCT 12438 12518	3-{4-[1-(4′-Fluoro-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T184	REACTION_PRODUCT 12520 12610	3-{4-[1-(4′-Trifluoromethoxy-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T185	REACTION_PRODUCT 12612 12702	3-{4-[1-(3′-Trifluoromethoxy-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T186	REACTION_PRODUCT 12704 12801	1-{4-[1-(2-Trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzyl}-azetidine-3-carboxylic acid,
+T187	REACTION_PRODUCT 12802 12900	1-{4-[1-(2-Trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzyl}-pyrrolidine-3-carboxylic acid
+T188	REACTION_PRODUCT 12902 13082	1-{4-[1-(2-Trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzyl}-piperidine-3-carboxylic acid, 3-{4-[1-(3′-Methoxy-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T189	REACTION_PRODUCT 13084 13183	2-Hydroxy-3-{4-[1-(2-trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid,
+T190	REACTION_PRODUCT 13184 13264	3-{4-[1-(4′-Methyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T191	REACTION_PRODUCT 13266 13345	3-{4-[1-(4-Phenyl-thiophen-2-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T192	REACTION_PRODUCT 13347 13428	1-{4-[1-(Biphenyl-4-ylmethoxyimino)-ethyl]-benzyl}-pyrrolidine-3-carboxylic acid,
+T193	REACTION_PRODUCT 13429 13501	3-{4-[1-(4-Furan-3-yl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid
+T194	REACTION_PRODUCT 13503 13692	3-{4-[1-(4-Thiophen-3-yl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid, 3-{4-[1-(4-Thiophen-3-yl-2-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid,
+T195	REACTION_PRODUCT 13693 14033	2-Fluoro-3-{4-[1-(2-trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid, 3-{4-[1-(2-Trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-butyric acid, 3-{4-[1-(5-Phenyl-thiophen-2-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid, 3-{4-[1-(4-Cyclohexyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid
+T196	REACTION_PRODUCT 14035 14215	3-{4-[1-(3-Fluoro-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid, 3-{4-[1-(4′-Fluoro-2-trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid,
+T197	REACTION_PRODUCT 14216 14314	3-{4-[1-(4′-Methyl-2-trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T198	REACTION_PRODUCT 14316 14406	3-{4-[1-(4-Furan-2-yl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid
+T199	REACTION_PRODUCT 14408 14506	3-{4-[1-(2′-Fluoro-2-trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid
+T200	REACTION_PRODUCT 14508 14608	3-(4-{1-[4-(3,3-Dimethyl-butyl)-3-trifluoromethyl-benzyloxyimino]-ethyl}-benzylamino)-propionic acid
+T201	REACTION_PRODUCT 14610 14776	3-{4-[1-(4-Furan-3-yl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid, 3-{4-[1-(4-Pyridin-3-yl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid
+T202	REACTION_PRODUCT 14778 14853	3-{4-[1-(4-Pyridin-4-yl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid,
+T203	REACTION_PRODUCT 14854 15048	3-{4-[1-(2-Fluoro-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid, 3-({2-Methoxy-6-[1-(2-trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-pyridin-3-ylmethyl}-amino)-propionic acid
+T204	REACTION_PRODUCT 15050 15148	3-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-ethyl-benzylamino}-propionic acid
+T205	REACTION_PRODUCT 15150 15240	3-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid
+T206	REACTION_PRODUCT 15242 15340	3-{2-Bromo-4-[1-(4-cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid
+T207	REACTION_PRODUCT 15342 15434	3-{4-[1-(4-Cyclopentyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid,
+T208	REACTION_PRODUCT 15435 15535	3-{2-Chloro-4-[1-(4-cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid,
+T209	REACTION_PRODUCT 15536 15642	3-({6-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-pyridin-3-ylmethyl}-amino)-propionic acid,
+T210	REACTION_PRODUCT 15643 15750	3-({5-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-thiophen-2-ylmethyl}-amino)-propionic acid,
+T211	REACTION_PRODUCT 15751 15962	3-({5-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-pyridin-2-ylmethyl}-amino)-propionic acid, 3-({5-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-furan-2-ylmethyl}-amino)-propionic acid,
+T212	REACTION_PRODUCT 15963 16068	3-({2-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-pyridin-4-ylmethyl}-amino)-propionic acid
+T213	REACTION_PRODUCT 16070 16152	3-{4-[1-(4-Cyclohexyl-3-fluoro-benzyloxyimino)-ethyl]-benzylamino}-propionic acid,
+T214	REACTION_PRODUCT 16153 16373	3-{2-Chloro-4-[1-(4-cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid, 1-{6-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-ethyl-pyridin-3-ylmethyl}-azetidine-3-carboxylic acid,
+T215	REACTION_PRODUCT 16374 16476	3-{2-Ethyl-4-[1-(4-piperidin-1-yl-3-trifluoromethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid
+T216	REACTION_PRODUCT 16478 16659	3-{4-[1-(4-Cyclohexyl-3-methyl-benzyloxyimino)-ethyl]-2-ethyl-benzylamino}-propionic acid, 3-{4-[1-(3-Chloro-4-cyclohexyl-benzyloxyimino)-ethyl]-2-ethyl-benzylamino}-propionic acid,
+T217	REACTION_PRODUCT 16660 16751	3-{4-[1-(4-Cyclohexyl-3-methoxy-benzyloxyimino)-ethyl]-2-ethyl-benzylamino}-propionic acid,
+T218	REACTION_PRODUCT 16752 16851	1-{4-[1-(4-Cyclohexyl-3-methoxy-benzyloxyimino)-ethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid,
+T219	REACTION_PRODUCT 16852 17061	3-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-methyl-benzylamino}-propionic acid, 1-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-methyl-benzyl}-azetidine-3-carboxylic acid,
+T220	REACTION_PRODUCT 17062 17281	3-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-cyclopropyl-benzylamino}-propionic acid, 1-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-cyclopropyl-benzyl}-azetidine-3-carboxylic acid,
+T221	REACTION_PRODUCT 17282 17575	3-{2-Ethyl-4-[1-(2-trifluoromethyl-biphenyl-4-ylmethoxyimino)-ethyl]-benzylamino}-propionic acid, 1-{4-[1-(4-Cyclohexyl-3-ethyl-benzyloxyimino)-ethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid, 1-{4-[1-(4-Cyclohexyl-3-methyl-benzyloxyimino)-ethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid
+T222	REACTION_PRODUCT 17577 17675	1-{2-Chloro-4-[1-(4-cyclohexyl-3-ethyl-benzyloxyimino)-ethyl]-benzyl}-azetidine-3-carboxylic acid,
+T223	REACTION_PRODUCT 17676 17976	3-{2-Chloro-4-[1-(4-cyclohexyl-3-ethyl-benzyloxyimino)-ethyl]-benzylamino}-propionic acid, 3-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-fluoro-benzylamino}-propionic acid, 1-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-fluoro-benzyl}-azetidine-3-carboxylic acid,
+T224	REACTION_PRODUCT 17977 18189	3-{6-[1-(4-Cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-3,4-dihydro-1H-isoquinolin-2-yl}-propionic acid, 3-{6-[1-(4-Cyclohexyl-3-ethyl-benzyloxyimino)-ethyl]-3,4-dihydro-1H-isoquinolin-2-yl}-propionic acid
+T225	REACTION_PRODUCT 18191 18286	3-{4-[1-(2-Trifluoromethyl-biphenyl-4-yl)-ethylideneaminooxymethyl]-benzylamino}-propionic acid
+T226	REACTION_PRODUCT 18288 18389	3-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-phenyl)-ethylideneaminooxymethyl]-benzylamino}-propionic acid
+T227	REACTION_PRODUCT 18391 18500	3-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-phenyl)-ethylideneaminooxymethyl]-2-ethyl-benzylamino}-propionic acid
+T228	REACTION_PRODUCT 18502 18619	1-{4-[1-(4-Cyclohexyl-3-trifluoromethyl-phenyl)-ethylideneaminooxymethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid
+T229	REACTION_PRODUCT 18624 18731	1-{4-[1-(4-Cyclohexyl-3-ethyl-phenyl)-ethylideneaminooxymethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid
+T230	REACTION_PRODUCT 18804 18809	amine
+T231	OTHER_COMPOUND 19287 19295	hydroxyl
+T232	OTHER_COMPOUND 19393 19398	amine
+T233	OTHER_COMPOUND 19447 19454	glycine
+T234	OTHER_COMPOUND 19461 19468	L-amino
+T235	OTHER_COMPOUND 19618 19620	Ia
+T236	OTHER_COMPOUND 19624 19626	Ib
+T237	OTHER_COMPOUND 19848 19850	Ia
+T238	OTHER_COMPOUND 19854 19856	Ib
+T239	OTHER_COMPOUND 20128 20130	Ia
+T240	OTHER_COMPOUND 20134 20136	Ib
+T241	OTHER_COMPOUND 20150 20154	free
+T242	OTHER_COMPOUND 20215 20228	organic acids
+T243	OTHER_COMPOUND 20320 20333	ammonium salt
+T244	OTHER_COMPOUND 20363 20370	lithium
+T245	OTHER_COMPOUND 20372 20389	sodium, potassium
+T246	OTHER_COMPOUND 20391 20404	calcium, zinc
+T247	OTHER_COMPOUND 20408 20417	magnesium
+T248	OTHER_COMPOUND 20468 20470	Ib
+T249	REACTION_PRODUCT 20578 20580	Ia
+T250	REACTION_PRODUCT 20589 20695	1-{4-[1-(4-cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid
+T251	REACTION_PRODUCT 20706 20707	A
+T252	OTHER_COMPOUND 20819 20826	alkynyl
+T253	OTHER_COMPOUND 20856 20860	Halo
+T254	OTHER_COMPOUND 20864 20871	halogen
+T255	OTHER_COMPOUND 20878 20879	F
+T256	OTHER_COMPOUND 20910 20912	Cl
+T257	OTHER_COMPOUND 20931 20936	alkyl
+T258	OTHER_COMPOUND 21162 21180	trifluoromethyl or
+T259	OTHER_COMPOUND 21181 21197	trifluoromethoxy
+T260	OTHER_COMPOUND 21407 21410	C═C
+T261	OTHER_COMPOUND 21862 21868	—S(O)—
+T262	OTHER_COMPOUND 21890 21893	—O—
+T263	OTHER_COMPOUND 21922 21931	C1-6alkyl
+T264	OTHER_COMPOUND 21955 21962	—CH2—O—
+T265	OTHER_COMPOUND 22004 22010	—CH2—O
+T266	OTHER_COMPOUND 22183 22189	phenyl
+T267	OTHER_COMPOUND 22191 22199	biphenyl
+T268	OTHER_COMPOUND 22252 22258	phenyl
+T269	REACTION_PRODUCT 22268 22276	bicyclic
+T270	OTHER_COMPOUND 22323 22353	1,2,3,4-tetrahydro-naphthalene
+T271	OTHER_COMPOUND 22388 22392	aryl
+T272	OTHER_COMPOUND 22612 22622	oxadiazole
+T273	OTHER_COMPOUND 22624 22632	triazole
+T274	REACTION_PRODUCT 22648 22660	C9heteroaryl
+T275	OTHER_COMPOUND 22670 22679	quinoline
+T276	OTHER_COMPOUND 22681 22709	1,2,3,4-tetrahydro-quinoline
+T277	OTHER_COMPOUND 22777 22784	thienyl
+T278	OTHER_COMPOUND 22786 22796	pyridinyl,
+T279	OTHER_COMPOUND 22818 22830	benzoxazolyl
+T280	OTHER_COMPOUND 22834 22852	benzo[1,3]dioxolyl
+T281	OTHER_COMPOUND 22865 22881	thienyl, furanyl
+T282	OTHER_COMPOUND 22885 22894	pyridinyl
+T283	OTHER_COMPOUND 22977 23031	2,3-dihydro-1H-isoindole, 1,2,3,4-tetrahydro-quinoline
+T284	OTHER_COMPOUND 23153 23165	polymyositis
+T285	OTHER_COMPOUND 23184 23190	nerve-
+T286	OTHER_COMPOUND 23402 23414	polymyositis
+T287	OTHER_COMPOUND 23613 23625	polymyositis
+T288	OTHER_COMPOUND 23700 23725	therapeutically effective
+T289	OTHER_COMPOUND 23738 23750	S1P receptor
+T290	OTHER_COMPOUND 23817 23819	Ia
+T291	OTHER_COMPOUND 23823 23825	Ib
+T292	REACTION_PRODUCT 23841 23846	A.1.2
+T293	OTHER_COMPOUND 24232 24234	Ia
+T294	OTHER_COMPOUND 24238 24240	Ib
+T295	OTHER_COMPOUND 24256 24261	A.1.3
+T296	OTHER_COMPOUND 24341 24349	myopathy
+T297	OTHER_COMPOUND 24356 24368	polymyositis
+T298	OTHER_COMPOUND 24573 24576	S1P
+T299	OTHER_COMPOUND 24642 24644	Ia
+T300	OTHER_COMPOUND 24648 24650	Ib
+T301	REACTION_PRODUCT 24666 24671	A.1.4
+T302	OTHER_COMPOUND 24992 25004	S1P receptor
+T303	OTHER_COMPOUND 25071 25072	I
+T304	REACTION_PRODUCT 25094 25097	A.2
+T305	OTHER_COMPOUND 25187 25190	S1P
+T306	OTHER_COMPOUND 25256 25258	Ia
+T307	OTHER_COMPOUND 25280 25281	A
+T308	OTHER_COMPOUND 25361 25369	diluents
+T309	OTHER_COMPOUND 25464 25466	Ia
+T310	OTHER_COMPOUND 25470 25472	Ib
+T311	REACTION_PRODUCT 25488 25489	A
+T312	OTHER_COMPOUND 25634 25636	Ia
+T313	OTHER_COMPOUND 25640 25642	Ib
+T314	REACTION_PRODUCT 25658 25659	A
+T315	OTHER_COMPOUND 25846 25853	formula
+T316	OTHER_COMPOUND 25854 25856	Ia
+T317	OTHER_COMPOUND 25860 25862	Ib
+T318	OTHER_COMPOUND 25878 25879	A
+T319	OTHER_COMPOUND 25963 25966	S1P
+T320	OTHER_COMPOUND 26032 26034	Ia
+T321	OTHER_COMPOUND 26038 26040	Ib
+T322	OTHER_COMPOUND 26056 26057	A
+T323	REACTION_PRODUCT 26358 26464	1-{4-[1-(4-cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid
+T324	OTHER_COMPOUND 27622 27624	Ia
+T325	OTHER_COMPOUND 27628 27630	Ib
+T326	OTHER_COMPOUND 27767 27783	immunomodulating
+T327	OTHER_COMPOUND 27863 27865	Ia
+T328	REACTION_PRODUCT 27934 27947	cyclosporin A
+T329	OTHER_COMPOUND 27962 27971	ascomycin
+T330	REACTION_PRODUCT 28014 28021	ABT-281
+T331	OTHER_COMPOUND 28023 28029	ASM981
+T332	OTHER_COMPOUND 28054 28070	cyclophosphamide
+T333	OTHER_COMPOUND 28072 28084	azathioprene
+T334	OTHER_COMPOUND 28086 28098	methotrexate
+T335	OTHER_COMPOUND 28100 28111	leflunomide
+T336	OTHER_COMPOUND 28113 28123	mizoribine
+T337	OTHER_COMPOUND 28144 28165	mycophenolate mofetil
+T338	OTHER_COMPOUND 28167 28186	15-deoxyspergualine
+T339	OTHER_COMPOUND 28361 28364	CD3
+T340	OTHER_COMPOUND 28366 28369	CD4
+T341	OTHER_COMPOUND 28381 28385	CD25
+T342	OTHER_COMPOUND 28387 28391	CD28
+T343	OTHER_COMPOUND 28393 28397	CD40
+T344	OTHER_COMPOUND 28405 28410	CD58,
+T345	OTHER_COMPOUND 28417 28421	CD86
+T346	OTHER_COMPOUND 28567 28572	CTLA4
+T347	OTHER_COMPOUND 28636 28641	CTLA4
+T348	OTHER_COMPOUND 28674 28683	non-CTLA4
+T349	REACTION_PRODUCT 28707 28714	CTLA4Ig
+T350	REACTION_PRODUCT 28740 28745	68629
+T351	OTHER_COMPOUND 28773 28779	LEA29Y
+T352	OTHER_COMPOUND 28816 28821	LFA-1
+T353	OTHER_COMPOUND 28861 28867	VCAM-4
+T354	OTHER_COMPOUND 28883 28888	VLA-4
+T355	OTHER_COMPOUND 29114 29117	S1P
+T356	REACTION_PRODUCT 29161 29267	1-{4-[1-(4-cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid
+T357	REACTION_PRODUCT 29278 29279	A
+T358	OTHER_COMPOUND 29311 29323	inflammatory
+T359	OTHER_COMPOUND 29339 29351	polymyositis
+T360	OTHER_COMPOUND 29758 29761	FCS
+T361	OTHER_COMPOUND 29771 29781	gentamycin
+T362	TEMPERATURE 29785 29791	37° C.
+T363	OTHER_COMPOUND 29796 29799	CO2
+T364	TIME 29807 29815	4-5 days
+T365	OTHER_COMPOUND 29882 29890	matrigel
+T366	TEMPERATURE 29919 29926	37° C.,
+T367	OTHER_COMPOUND 29930 29933	CO2
+T368	TIME 29938 29945	one day
+T369	OTHER_COMPOUND 29977 29981	SkBM
+T370	OTHER_COMPOUND 30020 30024	SkBM
+T371	OTHER_COMPOUND 30041 30049	SB431542
+T372	OTHER_COMPOUND 30051 30056	ALK4/
+T373	OTHER_COMPOUND 30069 30074	Sigma
+T374	TIME 30087 30093	4 days
+T375	OTHER_COMPOUND 30095 30103	SB431542
+T376	OTHER_COMPOUND 30268 30273	IL-1β
+T377	OTHER_COMPOUND 30283 30287	IFNγ
+T378	TIME 30302 30306	24 h
+T379	OTHER_COMPOUND 30310 30314	SkBM
+T380	OTHER_COMPOUND 30325 30335	gentamycin
+T381	OTHER_COMPOUND 30354 30357	CSB
+T382	OTHER_COMPOUND 30384 30388	EGTA
+T383	OTHER_COMPOUND 30395 30404	MgCl 6H20
+T384	OTHER_COMPOUND 30412 30420	PEG35000
+T385	OTHER_COMPOUND 30422 30427	Fluka
+T386	OTHER_COMPOUND 30454 30470	paraformaldehyde
+T387	OTHER_COMPOUND 30512 30515	CSB
+T388	TIME 30520 30526	15 min
+T389	TEMPERATURE 30530 30546	room temperature
+T390	OTHER_COMPOUND 30575 30578	CSB
+T391	OTHER_COMPOUND 30604 30616	Triton X-100
+T392	TIME 30642 30648	20 min
+T393	TEMPERATURE 30652 30668	room temperature
+T394	OTHER_COMPOUND 30682 30685	CSB
+T395	OTHER_COMPOUND 30714 30718	goat
+T396	OTHER_COMPOUND 30719 30724	serum
+T397	TIME 30777 30783	20 min
+T398	TEMPERATURE 30787 30803	room temperature
+T399	OTHER_COMPOUND 30823 30834	anti-myosin
+T400	OTHER_COMPOUND 30891 30894	PBS
+T401	OTHER_COMPOUND 30911 30915	goat
+T402	OTHER_COMPOUND 30916 30921	serum
+T403	TIME 30935 30938	1 h
+T404	TEMPERATURE 30942 30958	room temperature
+T405	OTHER_COMPOUND 30993 30996	CSB
+T406	OTHER_COMPOUND 31039 31061	Alexa Fluor 488 F(ab′)
+T407	OTHER_COMPOUND 31100 31103	PBS
+T408	TIME 31117 31120	1 h
+T409	TEMPERATURE 31124 31140	room temperature
+T410	OTHER_COMPOUND 31172 31175	CSB
+T411	OTHER_COMPOUND 31195 31198	PBS
+T412	OTHER_COMPOUND 31240 31245	water
+T413	OTHER_COMPOUND 31256 31277	ProLong Gold antifade
+T414	OTHER_COMPOUND 31291 31295	DAPI
+T415	OTHER_COMPOUND 31330 31338	myotubes
+T416	TIME 31543 31549	4 days
+T417	OTHER_COMPOUND 31567 31575	cytokine
+T418	TIME 31589 31593	24 h
+T419	OTHER_COMPOUND 31744 31751	vehicle
+T420	OTHER_COMPOUND 31782 31783	A
+T421	OTHER_COMPOUND 31916 31917	A
+T422	OTHER_COMPOUND 32291 32294	tTA
+T423	OTHER_COMPOUND 32319 32341	muscle creatine kinase
+T424	OTHER_COMPOUND 32364 32376	tetracycline
+T425	OTHER_COMPOUND 32409 32411	H+
+T426	OTHER_COMPOUND 32454 32473	tetracycline analog
+T427	OTHER_COMPOUND 32477 32480	tTA
+T428	OTHER_COMPOUND 32601 32606	H-2Kb
+T429	OTHER_COMPOUND 32649 32668	tetracycline analog
+T430	OTHER_COMPOUND 32726 32739	tetracycline-
+T431	OTHER_COMPOUND 32771 32773	H+
+T432	OTHER_COMPOUND 33251 33253	CK
+T433	OTHER_COMPOUND 33255 33258	GOT
+T434	TIME 33467 33468	3
+T435	TIME 33608 33616	2 months
+T436	OTHER_COMPOUND 33840 33844	H+T+
+T437	OTHER_COMPOUND 33870 33882	tetracycline
+T438	OTHER_COMPOUND 34185 34195	prednisone
+T439	EXAMPLE_LABEL 34220 34221	1
+T440	REACTION_PRODUCT 34367 34473	1-{4-[1-(4-cyclohexyl-3-trifluoromethyl-benzyloxyimino)-ethyl]-2-ethyl-benzyl}-azetidine-3-carboxylic acid

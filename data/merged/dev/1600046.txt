@@ -1,0 +1,9 @@
+Review article: 5-hydroxytryptamine agonists and antagonists in the modulation of gastrointestinal motility and sensation: clinical implications.
+Serotonin (5-hydroxytryptamine; 5-HT) is found in the enteric nervous system where it has been implicated in controlling gastrointestinal motor function.
+A number of receptor or recognition sites have been identified in the gut, but recently most attention has focused on the 5-HT3 and 5-HT4 receptors.
+The functional role of the 5-HT3 receptor remains incompletely understood, but it is probably involved in the modulation of colonic motility and visceral pain in the gut.
+A number of selective 5-HT3 antagonists have been developed including ondansetron, granisetron, tropisetron renzapride and zacopride.
+While the substituted benzamide prokinetics (for example, metoclopramide, cisapride) also block 5-HT3 receptors in high concentrations, their prokinetic action is believed to be on the basis of their agonist effects on the putative 5-HT4 receptor.
+Some 5-HT3 antagonists have 5-HT4 agonist activity (for example, renzapride, zacopride) and others do not (for example, ondansetron, granisetron), while tropisetron in high concentrations is a 5-HT4 antagonist.
+Based on the pharmacological data, it has been suggested that specific 5-HT antagonists and agonists may prove to be beneficial in a number of gastrointestinal disorders including the irritable bowel syndrome, functional dyspepsia, non-cardiac chest pain, gastrooesophageal reflux and refractory nausea.
+In this review, the rationale for the use of these compounds is discussed, and the available experimental evidence is summarized.

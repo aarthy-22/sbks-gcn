@@ -1,0 +1,23 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 23 132	methyl 2-(1-(N-(2-methoxy-2-oxoethyl)-4-toluenesulfonylamino)ethyl)-6-(4-(trifluoromethyl)phenoxy) nicotinate
+T3	STARTING_MATERIAL 187 252	methyl 2-(1-bromoethyl)-6-(4-(trifluoromethyl)phenoxy) nicotinate
+T4	STARTING_MATERIAL 293 330	p-toluenesulfonylglycine methyl ester
+T5	REAGENT_CATALYST 355 374	potassium carbonate
+T6	REAGENT_CATALYST 399 412	sodium iodide
+T7	SOLVENT 445 467	N, N-dimethylformamide
+T8	TEMPERATURE 516 521	50 °C
+T9	TIME 526 534	10 hours
+T10	OTHER_COMPOUND 566 581	petroleum ether
+T11	OTHER_COMPOUND 588 601	ethyl acetate
+T12	OTHER_COMPOUND 712 725	ethyl acetate
+T13	OTHER_COMPOUND 730 735	water
+T14	OTHER_COMPOUND 752 765	ethyl acetate
+T15	OTHER_COMPOUND 835 840	brine
+T16	OTHER_COMPOUND 863 877	sodium sulfate
+T17	OTHER_COMPOUND 927 937	silica gel
+T18	OTHER_COMPOUND 987 997	silica gel
+T19	OTHER_COMPOUND 1022 1037	petroleum ether
+T20	OTHER_COMPOUND 1044 1057	ethyl acetate
+T21	YIELD_OTHER 1115 1121	1.08 g
+T22	REACTION_PRODUCT 1125 1234	methyl 2-(1-(N-(2-methoxy-2-oxoethyl)-4-toluenesulfonylamino)ethyl)-6-(4-(trifluoromethyl)phenoxy) nicotinate
+T23	YIELD_PERCENT 1236 1242	54.29%

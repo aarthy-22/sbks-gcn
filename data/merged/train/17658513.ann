@@ -1,0 +1,28 @@
+T25	GENE-N 40 59	alpha1-adrenoceptor
+T18	GENE-N 109 130	alpha(1)-adrenoceptor
+T19	GENE-N 422 472	alpha(1A)-, alpha(1B)- and alpha(1D)-adrenoceptors
+T20	GENE-N 508 529	alpha(1)-Adrenoceptor
+T8	CHEMICAL 566 579	phenylephrine
+T21	GENE-N 581 602	alpha(1)-adrenoceptor
+T22	GENE-N 774 824	alpha(1a)-, alpha(1b)- and alpha(1d)-adrenoceptors
+T23	GENE-N 911 949	alpha(1A)- and alpha(1D)-adrenoceptors
+T9	CHEMICAL 973 986	Noradrenaline
+T10	CHEMICAL 991 1004	phenylephrine
+T24	GENE-N 1006 1027	alpha(1)-adrenoceptor
+T1	CHEMICAL 1164 1172	Prazosin
+T11	GENE-N 1187 1208	alpha(1)-adrenoceptor
+T2	CHEMICAL 1222 1231	silodosin
+T12	GENE-N 1243 1265	alpha(1A)-adrenoceptor
+T3	CHEMICAL 1282 1290	BMY-7378
+T4	CHEMICAL 1292 1386	8-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-8-azaspiro[4.5]decane-7,9-dione dihydrochloride
+T13	GENE-N 1399 1421	alpha(1D)-adrenoceptor
+T5	CHEMICAL 1464 1477	phenylephrine
+T6	CHEMICAL 1570 1590	Chloroethylclonidine
+T7	CHEMICAL 1683 1696	phenylephrine
+T14	GENE-N 1724 1762	alpha(1A)- and alpha(1D)-adrenoceptors
+T15	GENE-Y 1792 1814	alpha(1B)-adrenoceptor
+T16	GENE-N 1859 1882	alpha(1A)-adrenoceptors
+T17	GENE-N 1924 1946	alpha(1A)-adrenoceptor
+R0	CPR-5 Arg1:T5 Arg2:T11
+R1	NOT Arg1:T11 Arg2:T3
+R2	NOT Arg1:T12 Arg2:T3

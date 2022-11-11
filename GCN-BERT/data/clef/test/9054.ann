@@ -1,0 +1,16 @@
+T1	REACTION_PRODUCT 18 144	5-chloro-N4-(2-(isopropylsulfonyl)phenyl)-N2-(6-methyl-5-(1,2,3,6-tetrahy dropyridine-4-yl)chroman-8-yl)pyrimidine-2,4-diamine
+T2	STARTING_MATERIAL 145 226	Tert-butyl 4-(8-amino-6-methylchroman-5-yl)-3,6-dihydropyridine-1(2H)-carboxylate
+T3	STARTING_MATERIAL 246 307	2,5-dichloro-N-(2-(isopropylsulfonyl)phenyl)pyrimidin-4-amine
+T4	STARTING_MATERIAL 332 355	p-toluene sulfonic acid
+T5	SOLVENT 398 419	tertiary amyl alcohol
+T6	TEMPERATURE 439 444	120°C
+T7	TIME 449 453	12 h
+T8	TEMPERATURE 491 507	room temperature
+T9	OTHER_COMPOUND 518 531	ethyl acetate
+T10	OTHER_COMPOUND 596 614	sodium bicarbonate
+T11	OTHER_COMPOUND 672 687	sodium sulphate
+T12	OTHER_COMPOUND 765 780	petroleum ether
+T13	OTHER_COMPOUND 782 797	ethyl acetate=1
+T14	REACTION_PRODUCT 806 811	final
+T15	YIELD_OTHER 812 825	product(70 mg
+T16	YIELD_PERCENT 834 837	56%

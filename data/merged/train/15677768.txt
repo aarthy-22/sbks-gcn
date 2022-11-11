@@ -1,0 +1,11 @@
+Normal lung development in RAIG1-deficient mice despite unique lung epithelium-specific expression.
+RAIG1, 2, and 3 and GPCR5d represent a new subfamily of orphan G protein-coupled receptors.
+RAIG1 is expressed abundantly and specifically in the lung during development and in adult mice.
+During lung development, RAIG1 expression is initiated at E14.5 and gradually increases, reaching its highest levels at E18.
+High levels of expression are maintained in adult lungs.
+Given its abundant lung-specific expression and role in retinoic acid signaling, we hypothesized that RAIG1 plays a role in epithelial cell differentiation during lung development.
+To determine RAIG1 function and track endogenous RAIG1 spatial expression, a null allele of Raig1 was generated and the lacZ gene was "knocked-in." Although expression was detected in both proximal and distal epithelium during embryogenesis, it became restricted to type I and type II pneumocytes and the most distal bronchiolar cells in postnatal lungs.
+This is the first gene known to have this unique epithelial cell expression pattern.
+Despite this high level of expression, targeted inactivation of Raig1 did not cause significant developmental defects.
+Epithelial cell differentiation was normal and lung structure was intact.
+Analysis of other family members demonstrated some overlapping embryonic expression of RAIG3 mRNA that could have led to functional redundancy in the single RAIG1 null mutant mouse.

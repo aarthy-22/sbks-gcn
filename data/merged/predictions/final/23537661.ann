@@ -1,0 +1,18 @@
+T18	GENE-N 143 175	glucocorticoid receptor promoter
+T15	GENE-N 429 471	glucocorticoid receptor (GR) gene promoter
+T2	CHEMICAL 813 838	polychlorinated biphenyls
+T3	CHEMICAL 840 844	PCBs
+T4	CHEMICAL 847 861	organochlorine
+T5	CHEMICAL 878 891	methylmercury
+T16	GENE-Y 1131 1156	aryl hydrocarbon receptor
+T6	CHEMICAL 1136 1147	hydrocarbon
+T17	GENE-Y 1158 1161	AhR
+T7	CHEMICAL 1173 1186	non-ortho PCB
+T8	CHEMICAL 1189 1206	PC-dibenzodioxins
+T1	CHEMICAL 1211 1227	PC-dibenzofurans
+T9	GENE-Y 1255 1258	AhR
+T10	GENE-Y 1302 1304	GR
+T11	GENE-Y 1367 1370	AhR
+T12	GENE-N 1527 1538	GR promoter
+T13	GENE-Y 1594 1597	AhR
+T14	GENE-Y 1603 1606	AhR

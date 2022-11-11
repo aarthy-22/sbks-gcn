@@ -1,0 +1,7 @@
+Molecular aspects of cyclophilins mediating therapeutic actions of their ligands.
+Cyclosporine A (CsA) is an immunosuppressive cyclic peptide that binds with a high affinity to 18 kDa human cyclophilin-A (hCyPA).
+CsA and its several natural derivatives have some pharmacological potential in treatment of diverse immune disorders.
+More than 20 paralogues of CyPA are expressed in the human body while expression levels and functions of numerous ORFs encoding cyclophilin-like sequences remain unknown.
+Certain derivatives of CsA devoid of immunosuppressive activity may have some potential in treatments of Alzheimer diseases, Hepatitis C and HIV infections, amyotrophic lateral sclerosis, congenital muscular dystrophy, asthma and various parasitic infections.
+Here, we discuss structural and functional aspects of the human cyclophilins and their interaction with various intra-cellular targets that can be under the control of CsA or its complexes with diverse cyclophilins that are selectively expressed in different cellular compartments.
+Some molecular aspects of the cyclophilins expressed in parasites invading humans and causing diseases were also analyzed.

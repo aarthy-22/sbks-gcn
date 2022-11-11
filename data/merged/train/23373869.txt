@@ -1,0 +1,14 @@
+REMNANT UPTAKE AS A POSTOPERATIVE ONCOLOGIC QUALITY INDICATOR.
+BACKGROUND: The purpose of this study was to examine the utility of remnant uptake on postoperative radioiodine scans as an oncologic indicator after thyroidectomy for differentiated thyroid cancer (DTC).
+METHODS: We conducted a retrospective review of patients undergoing total thyroidectomy for DTC and subsequent radioactive iodine (RAI) treatment.
+Of the eight surgeons included, three were considered high volume, performing at least 20 thyroidectomies per year.
+Patients with distant metastases at diagnosis or poorly differentiated variants were excluded.
+To control for the effect of varying RAI doses, the remnant uptake was analyzed as a ratio of the percentage uptake to the dose received (uptake to dose ratio, UDR).
+Multivariate logistic regression was used to determine the influence of UDR on recurrence.
+RESULTS: Of the 223 patients who met inclusion criteria, 21 patients (9.42%) experienced a recurrence.
+Those who recurred had a ten-fold higher UDR compared to those who did not recur (0.030 vs. 0.003, p = 0.001).
+Similarly, patients with increasing postoperative thyroglobulin measurements (0.339 vs. 0.003, p<0.001) also had significantly greater UDRs compared to those with stable thyroglobulin.
+The UDRs of high volume surgeons were significantly smaller than low volume surgeons (0.003 vs. 0.025, p = 0.002).
+When combined with other known predictors for recurrence, UDR (OR 3.71, C.I 1.05 - 13.10, p = 0.041)
+was significantly associated with recurrence.
+High volume surgeons maintained a low level of permanent complications across all UDRs whereas low volume surgeons had greater permanent complications associated with higher uptake.

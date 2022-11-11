@@ -1,0 +1,19 @@
+T3	CHEMICAL 0 10	Vegfrecine
+T16	GENE-N 28 58	VEGF Receptor Tyrosine Kinases
+T4	CHEMICAL 42 50	Tyrosine
+T5	GENE-N 130 160	VEGF receptor tyrosine kinases
+T1	CHEMICAL 144 152	tyrosine
+T2	CHEMICAL 162 172	vegfrecine
+T6	GENE-N 390 433	vascular endothelial growth factor receptor
+T7	GENE-N 435 440	VEGFR
+T8	GENE-N 442 458	tyrosine kinases
+T9	GENE-N 490 530	platelet-derived growth factor receptors
+T10	GENE-N 532 538	PDGFRs
+T11	GENE-N 541 574	fibroblast growth factor receptor
+T12	GENE-N 576 580	FGFR
+T13	GENE-Y 587 619	epidermal growth factor receptor
+T14	GENE-Y 621 625	EGFR
+T15	GENE-N 690 695	VEGFR
+R0	CPR-4 Arg1:T3 Arg2:T16
+R1	NOT Arg1:T16 Arg2:T1
+R2	NOT Arg1:T4 Arg2:T5

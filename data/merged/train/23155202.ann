@@ -1,0 +1,28 @@
+T22	CHEMICAL 33 43	artemether
+T23	CHEMICAL 48 60	lumefantrine
+T2	CHEMICAL 166 177	artemisinin
+T17	CHEMICAL 220 231	artemisinin
+T19	CHEMICAL 244 254	artemether
+T5	CHEMICAL 275 287	lumefantrine
+T8	CHEMICAL 289 299	artemether
+T11	CHEMICAL 300 312	lumefantrine
+T12	CHEMICAL 569 577	Tween 80
+T13	CHEMICAL 608 618	artemether
+T14	CHEMICAL 661 673	lumefantrine
+T15	CHEMICAL 723 733	artemether
+T16	CHEMICAL 760 772	lumefantrine
+T18	CHEMICAL 1030 1040	artemether
+T20	CHEMICAL 1045 1057	lumefantrine
+T21	CHEMICAL 1145 1156	glutathione
+T1	CHEMICAL 1158 1177	glucose-6-phosphate
+T24	GENE-N 1158 1191	glucose-6-phosphate dehydrogenase
+T25	GENE-N 1193 1197	G6PD
+T3	CHEMICAL 1237 1248	glutathione
+T26	GENE-N 1237 1259	glutathione peroxidase
+T4	CHEMICAL 1264 1275	glutathione
+T27	GENE-N 1264 1289	glutathione-s-transferase
+T6	CHEMICAL 1421 1436	malondialdehyde
+T7	CHEMICAL 1438 1441	MDA
+T9	CHEMICAL 1526 1536	artemether
+T10	CHEMICAL 1541 1553	lumefantrine
+R0	NOT Arg1:T21 Arg2:T25

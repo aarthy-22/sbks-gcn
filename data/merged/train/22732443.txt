@@ -1,0 +1,9 @@
+Hippocampal long-term depression mediates spatial reversal learning in the Morris water maze.
+Synaptic plasticity at hippocampal excitatory synapses has been proposed as the cellular mechanism underlying spatial learning and memory.
+However, most previous studies have focused on the role of long-term potentiation (LTP) in learning and memory, and much less is known about the role of long-term depression (LTD).
+Here, we report that hippocampal-dependent spatial learning in the Morris water maze facilitated hippocampal CA1 LTD induction in vivo.
+The LTD can be blocked by systemic application of the selective GluN2B antagonist Ro25-6981 (6 mg/kg, i.p.) or a synthetic peptide Tat-GluA2(3Y) (3 μmol/kg, i.p.) that interferes with the endocytosis of AMPA receptors.
+In addition, systemic or intrahippocampal administration of these two mechanistically and structurally distinct inhibitors impaired spatial reversal learning of a novel target location, when the hidden platform was moved to the quadrant opposite the initial target location.
+Notably, acute elevated-platform stress, which facilitates hippocampal LTD induction, enhanced both acquisition and retrieval of spatial reversal memory.
+The present study demonstrates that reversal learning is impaired by blocking hippocampal LTD, and enhanced by facilitating hippocampal LTD, suggesting that hippocampal LTD may be necessary and sufficient to mediate new information processing.
+This article is part of a Special Issue entitled 'Cognitive Enhancers'.

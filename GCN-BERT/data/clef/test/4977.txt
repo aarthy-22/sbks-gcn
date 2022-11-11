@@ -1,0 +1,2 @@
+Synthesis of compound 12-e
+At 0°C, a solution of N-bromosuccinimide (1.55g, 8.7mmol) in DCM (5mL) was added dropwise to a solution of compound 12-f (1.4g, 8.7mmol) in DCM (50mL). The reaction solution was stirred for 30mins, concentrated under reduced pressure to remove the solvent. The residue was purified by silica column chromatography (PE:EA = 15:1) to give compound 12-e (1.45g, yield 70%).

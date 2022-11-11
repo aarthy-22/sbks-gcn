@@ -1,0 +1,25 @@
+T22	CHEMICAL 0 12	Palonosetron
+T1	CHEMICAL 56 68	Palonosetron
+T15	CHEMICAL 92 101	serotonin
+T25	GENE-N 92 116	serotonin 5-HT3 receptor
+T23	GENE-N 204 218	5-HT3 receptor
+T13	CHEMICAL 244 256	palonosetron
+T16	CHEMICAL 540 552	palonosetron
+T17	CHEMICAL 697 709	palonosetron
+T18	CHEMICAL 896 908	palonosetron
+T19	CHEMICAL 940 951	ondansetron
+T20	CHEMICAL 994 1005	ondansetron
+T21	CHEMICAL 1010 1020	dolasetron
+T2	CHEMICAL 1073 1084	ondansetron
+T3	CHEMICAL 1088 1099	granisetron
+T4	CHEMICAL 1211 1223	palonosetron
+T5	CHEMICAL 1229 1240	ondansetron
+T6	CHEMICAL 1244 1254	dolasetron
+T7	CHEMICAL 1315 1327	palonosetron
+T8	CHEMICAL 1359 1371	palonosetron
+T9	CHEMICAL 1449 1461	palonosetron
+T10	CHEMICAL 1546 1558	Palonosetron
+T11	CHEMICAL 1620 1632	palonosetron
+T12	CHEMICAL 1794 1806	palonosetron
+T24	GENE-N 1871 1884	5-HT3 recepto
+T14	CHEMICAL 1956 1968	palonosetron

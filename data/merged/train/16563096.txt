@@ -1,0 +1,5 @@
+Tailor-made chemotherapy for non-small cell lung cancer patients.
+The selection of the most effective chemotherapy treatment based on evaluation of biomarkers, that is, 'tailor-made chemotherapy', can improve the clinical outcome of non-small cell lung cancer patients, including early-stage tumors with a high metastatic potential and advanced-stage tumors with a low proliferation rate.
+Therefore, treatment would be chosen according to which drugs would be most effective in combating specific tumors.
+For example: 5-fluorouracil-derived agents would be used for tumors with a low expression of thymidylate synthase; gefitinib and erlotinib for tumors with epidermal growth factor receptor (EGFR) mutations or increased EGFR gene copy numbers; cisplatin and carboplatin for tumors with a low expression of excision repair cross complementing-1; and gemcitabine for tumors with a low expression of ribonucleotide reductase.
+The remaining populations of non-small cell lung cancers require chemotherapy using other drugs based on an evaluation of other targeted molecules.

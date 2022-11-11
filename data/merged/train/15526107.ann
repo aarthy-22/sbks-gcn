@@ -1,0 +1,32 @@
+T29	GENE-Y 0 19	Beta 2-adrenoceptor
+T17	CHEMICAL 67 76	carteolol
+T25	GENE-N 146 163	beta-adrenoceptor
+T28	GENE-N 191 224	beta(1)- or beta(2)-adrenoceptors
+T24	GENE-N 283 300	beta-adrenoceptor
+T11	CHEMICAL 309 318	carteolol
+T12	CHEMICAL 406 415	carteolol
+T13	CHEMICAL 596 605	Carteolol
+T26	GENE-Y 731 751	beta(1)-adrenoceptor
+T14	CHEMICAL 760 770	bisoprolol
+T15	CHEMICAL 795 804	carteolol
+T27	GENE-Y 983 1003	beta(2)-adrenoceptor
+T16	CHEMICAL 1016 1046	(-)-[(125)I]-iodocyanopindolol
+T1	CHEMICAL 1097 1109	isoprenaline
+T2	CHEMICAL 1141 1151	cyclic AMP
+T3	CHEMICAL 1162 1171	Carteolol
+T18	GENE-Y 1205 1225	beta(2)-adrenoceptor
+T4	CHEMICAL 1268 1277	carteolol
+T19	GENE-Y 1289 1309	beta(2)-adrenoceptor
+T5	CHEMICAL 1411 1420	carteolol
+T6	CHEMICAL 1510 1519	carteolol
+T20	GENE-Y 1547 1567	beta(1)-adrenoceptor
+T7	CHEMICAL 1576 1586	bisoprolol
+T8	CHEMICAL 1606 1615	carteolol
+T21	GENE-Y 1651 1671	beta(2)-adrenoceptor
+T9	CHEMICAL 1734 1743	carteolol
+T22	GENE-Y 1759 1780	beta(2)-adrenoceptors
+T10	CHEMICAL 1835 1846	propranolol
+T23	GENE-Y 1870 1890	beta(1)-adrenoceptor
+R0	CPR-4 Arg1:T14 Arg2:T26
+R1	NOT Arg1:T27 Arg2:T1
+R2	NOT Arg1:T4 Arg2:T19

@@ -1,0 +1,35 @@
+T26	CHEMICAL 0 16	(+/-)-tamsulosin
+T35	GENE 21 42	alpha 1A-adrenoceptor
+T27	CHEMICAL 122 141	inositol phosphates
+T13	CHEMICAL 176 192	(+/-)-tamsulosin
+T34	GENE 206 227	alpha 1A-adrenoceptor
+T6	CHEMICAL 297 316	inositol phosphates
+T30	GENE 338 359	alpha 1-adrenoceptors
+T32	GENE 407 428	alpha 1A-adrenoceptor
+T17	CHEMICAL 436 449	oxymetazoline
+T18	CHEMICAL 488 501	Phenylephrine
+T33	GENE 567 588	alpha 1-adrenoceptors
+T19	CHEMICAL 615 631	(+/-)-bupranolol
+T20	CHEMICAL 635 647	S(-)-timolol
+T21	CHEMICAL 683 699	(+/-)-tamsulosin
+T22	CHEMICAL 717 730	phenylephrine
+T23	CHEMICAL 775 791	(+/-)-tamsulosin
+T24	CHEMICAL 1143 1156	phenylephrine
+T25	CHEMICAL 1158 1174	(+/-)-Tamsulosin
+T1	CHEMICAL 1232 1245	phenylephrine
+T28	GENE 1273 1295	alpha 1B-adrenoceptors
+T2	CHEMICAL 1314 1333	chlorethylclonidine
+T3	CHEMICAL 1367 1383	(+/-)-tamsulosin
+T4	CHEMICAL 1434 1453	chlorethylclonidine
+T5	CHEMICAL 1455 1471	(+/-)-Tamsulosin
+T29	GENE 1572 1593	alpha 1-adrenoceptors
+T7	CHEMICAL 1630 1653	[3H]inositol phosphates
+T8	CHEMICAL 1684 1697	phenylephrine
+T9	CHEMICAL 1699 1712	Oxymetazoline
+T10	CHEMICAL 1758 1771	phenylephrine
+T11	CHEMICAL 1834 1856	inositol monophosphate
+T12	CHEMICAL 1868 1881	phenylephrine
+T14	CHEMICAL 1955 1971	(+/-)-tamsulosin
+T15	CHEMICAL 1977 1990	oxymetazoline
+T31	GENE 2012 2033	alpha 1-adrenoceptors
+T16	CHEMICAL 2116 2135	inositol phosphates

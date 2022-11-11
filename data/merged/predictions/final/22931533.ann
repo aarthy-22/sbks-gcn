@@ -1,0 +1,15 @@
+T15	GENE 26 41	opioid receptor
+T1	CHEMICAL 97 107	Morphinans
+T2	CHEMICAL 293 304	Galantamine
+T8	GENE 334 354	acetylcholinesterase
+T9	GENE 356 360	AChE
+T10	GENE 410 443	nicotinic acetylcholine receptors
+T3	CHEMICAL 420 433	acetylcholine
+T11	GENE 445 450	nAChR
+T4	CHEMICAL 505 514	morphinan
+T5	CHEMICAL 563 570	codeine
+T6	CHEMICAL 575 584	eseroline
+T7	CHEMICAL 591 602	galantamine
+T12	GENE 613 618	nAChR
+T13	GENE 665 669	AChE
+T14	GENE 723 728	nAChR

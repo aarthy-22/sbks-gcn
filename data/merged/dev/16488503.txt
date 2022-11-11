@@ -1,0 +1,10 @@
+Inhibition of gentamicin binding to rat renal brush-border membrane by megalin ligands and basic peptides.
+Our previous studies showed that coadministration of cytochrome c and a 20-residue basic peptide, N-WASP181-200 (NISHTKEKKKGKAKKKRLTK, pI=10.87) inhibits renal accumulation of gentamicin.
+In this study, we examined effects of ligands of megalin, an endocytic receptor involved in renal uptake of gentamicin, and basic peptides including N-WASP180-200 and its mutant peptides on gentamicin binding to isolated rat renal brush-border membrane (BBM).
+Gentamicin binding to BBM was inhibited by megalin ligands, basic peptide fragments of cytochrome c, and N-WASP181-200 in a concentration-dependent manner.
+Klotz plot analysis showed that N-WASP181-200 inhibited the binding of gentamicin in a competitive manner.
+By substituting glycines for lysines in N-WASP181-200 at positions 9 and 15, the inhibitory effect on gentamicin binding to BBM was reduced, which may be related to a decrease in the alpha-helix content in the peptide.
+Gentamicin binding to BBM treated with trypsin, in which megalin completely disappeared, was significantly but not completely decreased compared with the native BBM.
+In addition, treatment of BBM with trypsin led to a decrease in the inhibitory effect of N-WASP181-200 on gentamicin binding.
+These observations support that megalin ligands and basic peptides including N-WASP181-200 decrease renal accumulation of gentamicin by inhibiting its binding to BBM of proximal tubule cells, partly interacting with megalin.
+In addition, the alpha-helix conformation may play an important role in the inhibitory effect of N-WASP181-200 on the binding of gentamicin to BBM.

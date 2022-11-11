@@ -1,0 +1,13 @@
+Pharmacokinetic study of Growth Hormone-Releasing Peptide 6 (GHRP-6) in nine male healthy volunteers.
+GHRP-6 is a growth hormone secretagogue that also enhances tissue viability in different organs.
+In the present work, we studied the pharmacokinetics of this short therapeutic hexapeptide (His-(D-Trp)-Ala-Trp-(D-Phe)-Lys-NH(2,) MW=872.44 Da) in nine male healthy volunteers after a single intravenous bolus administration of 100, 200 and 400 μg/kg of body weight.
+GHRP-6 was quantified in human plasma by a specific LC-MS method, previously developed and validated following FDA guidelines, using (13)C(3)Ala-GHRP-6 as internal standard (Gil et al., 2012, J. Pharm.
+Biomed.
+Anal.
+60, 19-25).
+The Lower Limit of Quantification (5 ng/mL) was reached in all subjects at 12h post-administration, which was sufficient for modeling a pharmacokinetic profile including over 85% of the Area under the Curve (AUC).
+Disposition of GHRP-6 best fitted a bi-exponential function with R(2) higher than 0.99, according to a mathematic modeling and confirmed by an Akaike index (AIC) lower than that of the corresponding one-compartment model for all subjects.
+Averaging all three dose levels, the distribution and elimination half-life of GHRP-6 were 7.6 ± 1.9 min and 2.5 ± 1.1h, respectively.
+These values are coherent with existing data for other drugs whose disposition also fits this model.
+Dose dependence analysis revealed a noticeable trend for AUC to increase proportionally with administered dose.
+Atypical GHRP-6 concentration spikes were observed during the elimination phase in four out of the nine subjects studied.

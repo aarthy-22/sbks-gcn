@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 5 6	5
+T2	REACTION_PRODUCT 8 143	Tert-butyl 1'-(1-((R)-1-(2,4-dichlorophenyl)ethyl)-3-methyl-1H-pyrazolo[3,4-b]pyrazin-6-yl)-3'-methyl-[3,4'-bipiperidine]-1-carboxylate
+T3	STARTING_MATERIAL 157 211	tert-butyl 3'-methyl-[3,4'-bipiperidine]-1-carboxylate
+T4	REAGENT_CATALYST 238 259	diisopropylethylamine
+T5	SOLVENT 284 287	DMF
+T6	STARTING_MATERIAL 305 385	(R)-6-chloro-1-(1-(2,4-dichlorophenyl)ethyl)-3-methyl-1H-pyrazolo[3,4-b]pyrazine
+T7	TEMPERATURE 434 439	80° C
+T8	TIME 445 449	12 h
+T9	TEMPERATURE 473 489	room temperature
+T10	OTHER_COMPOUND 522 527	water
+T11	OTHER_COMPOUND 547 560	ethyl acetate
+T12	OTHER_COMPOUND 597 611	sodium sulfate
+T13	OTHER_COMPOUND 669 679	silica gel
+T14	REACTION_PRODUCT 705 840	tert-butyl 1'-(1-((R)-1-(2,4-dichlorophenyl)ethyl)-3-methyl-1H-pyrazolo[3,4-b]pyrazin-6-yl)-3'-methyl-[3,4'-bipiperidine]-1-carboxylate
+T15	YIELD_OTHER 842 849	86.6 mg
+T16	YIELD_PERCENT 851 854	42%

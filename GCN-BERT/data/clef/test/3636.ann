@@ -1,0 +1,6 @@
+T1	EXAMPLE_LABEL 0 4	68.2
+T2	REACTION_PRODUCT 6 94	[5-(2,3-dimethylphenyl)-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T3	REACTION_PRODUCT 157 248	[5-(2,3-dimethylphenyl)-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-methyl acetate
+T4	YIELD_OTHER 250 256	190 mg
+T5	YIELD_PERCENT 258 261	99%
+T6	REACTION_PRODUCT 266 354	[5-(2,3-dimethylphenyl)-3-isopropyl-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid

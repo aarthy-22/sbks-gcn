@@ -1,0 +1,3 @@
+Example 85
+(3-Aminopyrazol-1-yl)-[4-(6-fluoro-1H-indol-3-yl)phenyl]methanone
+This compound was prepared from Intermediate 3 and 3-aminopyrazole according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (5 mg, 15%). Data: LCMS (B) Rt: 11.261 min; m/z 321.1 (M+H)+.

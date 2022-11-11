@@ -1,0 +1,9 @@
+T1	EXAMPLE_LABEL 5 6	1
+T2	REACTION_PRODUCT 23 86	t-butyl 4-(5-amino-6-nitropiperidin-3-yl)piperazine-1-carbonate
+T3	REACTION_PRODUCT 172 206	mono-t-butoxycarbonyl (mono-t-Boc)
+T4	STARTING_MATERIAL 217 227	piperazine
+T5	OTHER_COMPOUND 276 307	5-bromo-2-nitro-3-aminopyridine
+T6	REACTION_PRODUCT 327 328	s
+T7	REACTION_PRODUCT 330 393	t-butyl 4-(5-amino-6-nitropiperidin-3-yl)piperazine-1-carbonate
+T8	YIELD_OTHER 395 400	0.7 g
+T9	YIELD_PERCENT 408 411	82%

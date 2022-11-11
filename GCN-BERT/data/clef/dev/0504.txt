@@ -1,0 +1,2 @@
+Step 5. 3-Bromo-N-(4-methoxybenzyl)-6-(trifluoromethyl)imidazo[1,2-a]pyrazin-8-amine
+A mixture of 3-bromo-8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyrazine (0.35 g, 1.2 mmol), N,N-diisopropylethylamine (0.40 mL, 2.3 mmol), and 4-methoxybenzylamine (0.17 mL, 1.3 mmol) in iPrOH (5.0 mL) was heated at 110° C. for 15 min in a microwave. The resulting white suspension was washed with water (3×). The resulting white solid was dried in vacuo overnight to afford the title compound as a white solid (0.53 g, 99%).

@@ -1,0 +1,10 @@
+SOM230 inhibits insulin-like growth factor-I action in mammary gland development by pituitary independent mechanism: mediated through somatostatin subtype receptor 3?
+Somatostatin analogs (SAs) treat acromegaly by lowering pituitary GH secretion, which, in turn, lowers systemic IGF-I. The profound systemic effect is often greater than expected in the face of only partial GH suppression.
+Here we report that the SA SOM230 can also act by a nonpituitary-mediated inhibition of IGF-I action.
+SOM230 inhibited mammary development in intact and hypophysectomized female rats, a process requiring IGF-I. IGF-I overcame this inhibition.
+SOM230 also inhibited other actions of IGF-I (inhibition of apoptosis, phosphorylation of insulin receptor substrate-1, and cell division).
+SOM230 did not reduce IGF-I mRNA abundance in mammary gland but did stimulate IGF binding protein 5 (IGFBP5).
+IGFBP5 was 3.75 times higher in mammary epithelium of SOM230 than in placebo animals (P < 0.001).
+Administration of IGFBP-5 also inhibited GH-induced mammary development (P < 0.001).
+Measurement of sstr(1-5) (somatostatin subtype receptor) by real-time RT-PCR revealed that the mammary glands had an abundance of sstr(3) and lower amounts of sstr(4) and sstr(5) but no sstr(1) or sstr(2.) That mammary development was also inhibited to a lesser degree than SOM230 by octreotide, whose main action is through sstr(2), strongly suggests that sstr(3) is at least in part mediating the effects of the SAs.
+We conclude that 1) SAs inhibit IGF-I action in the mammary gland through a novel nonpituitary mechanism; 2) IGFBP-5, here shown to inhibit pubertal mammary development, might mediate the effect; and 3) Measurement of available sstr receptors in the mammary gland suggests that sstr(3) mediates the SA activity, but sstr(5) is also a possible mediator.

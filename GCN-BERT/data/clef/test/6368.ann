@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 8 146	tert-Butyl 5-(4-((tert-butoxycarbonyl(methyl)amino)methyl)-2-fluoro-6-methylphenyl)-6-cyano-3-iodo-H-pyrazolo[4,3-b]pyridine-1-carboxylate
+T3	STARTING_MATERIAL 164 260	tert-butyl (4-(6-cyano-1H-pyrazolo[4,3-b]pyridin-5-yl)-3-fluoro-5-methylbenzyl)(methyl)carbamate
+T4	SOLVENT 287 290	DMF
+T5	REAGENT_CATALYST 310 327	N-iodosuccinimide
+T6	TEMPERATURE 379 384	80° C
+T7	TIME 390 393	2 h
+T8	TEMPERATURE 412 428	room temperature
+T9	STARTING_MATERIAL 430 443	Boc-anhydride
+T10	REAGENT_CATALYST 489 493	DMAP
+T11	TEMPERATURE 553 569	room temperature
+T12	TIME 574 580	30 min
+T13	OTHER_COMPOUND 633 643	silica gel
+T14	OTHER_COMPOUND 658 663	EtOAc
+T15	OTHER_COMPOUND 667 674	hexanes
+T16	REACTION_PRODUCT 688 703	desired product
+T17	YIELD_OTHER 729 737	269.3 mg
+T18	YIELD_PERCENT 739 742	68%

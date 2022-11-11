@@ -1,0 +1,13 @@
+T5	CHEMICAL 18 33	O6-alkylguanine
+T11	GENE-Y 18 54	O6-alkylguanine-DNA alkyltransferase
+T3	CHEMICAL 104 145	6-(benzyloxy)-2-(aryldiazenyl)-9H-purines
+T4	CHEMICAL 161 177	O6-benzylguanine
+T1	CHEMICAL 179 196	O(6)-Alkylguanine
+T6	GENE-Y 179 217	O(6)-Alkylguanine-DNA alkyltransferase
+T8	GENE-Y 219 222	AGT
+T2	CHEMICAL 300 307	guanine
+T7	GENE-Y 483 486	AGT
+T9	GENE-Y 620 623	AGT
+T10	GENE-Y 666 669	AGT
+R0	CPR-9 Arg1:T2 Arg2:T6
+R1	NOT Arg1:T1 Arg2:T8

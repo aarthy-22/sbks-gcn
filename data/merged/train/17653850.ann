@@ -1,0 +1,20 @@
+T12	CHEMICAL 0 8	Agmatine
+T13	CHEMICAL 13 24	imidazoline
+T18	GENE-N 13 34	imidazoline receptors
+T1	CHEMICAL 94 102	Agmatine
+T4	CHEMICAL 120 125	amine
+T10	CHEMICAL 179 189	L-arginine
+T11	CHEMICAL 193 201	arginine
+T17	GENE-Y 193 215	arginine decarboxylase
+T2	CHEMICAL 217 225	Agmatine
+T3	CHEMICAL 324 332	Agmatine
+T5	CHEMICAL 404 415	imidazoline
+T14	GENE-N 404 425	imidazoline receptors
+T6	CHEMICAL 524 532	agmatine
+T7	CHEMICAL 543 554	imidazoline
+T15	GENE-N 543 564	imidazoline receptors
+T8	CHEMICAL 682 690	agmatine
+T9	CHEMICAL 695 706	imidazoline
+T16	GENE-N 695 716	imidazoline receptors
+R0	CPR-9 Arg1:T1 Arg2:T17
+R1	NOT Arg1:T6 Arg2:T15

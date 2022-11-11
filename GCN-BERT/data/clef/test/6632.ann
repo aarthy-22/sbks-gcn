@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 5 6	6
+T2	REACTION_PRODUCT 7 59	4-(3-Methylisoxazol-5-yl)cyclohexyl methanesulfonate
+T3	STARTING_MATERIAL 60 97	4-(3-Methylisoxazol-5-yl)cyclohexanol
+T4	REAGENT_CATALYST 123 136	triethylamine
+T5	SOLVENT 175 190	dichloromethane
+T6	STARTING_MATERIAL 200 224	methanesulfonyl chloride
+T7	TEMPERATURE 260 263	0°C
+T8	TEMPERATURE 302 306	25°C
+T9	TIME 311 318	2 hours
+T10	OTHER_COMPOUND 333 348	dichloromethane
+T11	OTHER_COMPOUND 380 398	sodium bicarbonate
+T12	OTHER_COMPOUND 442 456	sodium sulfate
+T13	OTHER_COMPOUND 546 556	silica gel
+T14	OTHER_COMPOUND 584 599	petroleum ether
+T15	OTHER_COMPOUND 602 615	ethyl acetate
+T16	REACTION_PRODUCT 635 687	4-(3-methylisoxazol-5-yl)cyclohexyl methanesulfonate
+T17	YIELD_OTHER 689 695	100 mg
+T18	YIELD_PERCENT 733 736	50%

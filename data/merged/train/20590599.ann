@@ -1,0 +1,24 @@
+T22	GENE-N 19 36	beta-adrenoceptor
+T23	GENE-N 49 93	human beta1-, beta2- and beta3-adrenoceptors
+T19	GENE-N 611 628	beta-adrenoceptor
+T20	GENE-N 651 675	human beta-adrenoceptors
+T21	GENE-N 867 913	human beta(1), beta(2) or beta(3)-adrenoceptor
+T11	CHEMICAL 941 957	[(3)H]-CGP 12177
+T12	CHEMICAL 982 993	[(3)H]-cAMP
+T1	CHEMICAL 1130 1140	salmeterol
+T2	CHEMICAL 1145 1155	formoterol
+T13	GENE-Y 1165 1185	beta(2)-adrenoceptor
+T14	GENE-Y 1195 1202	beta(1)
+T15	GENE-Y 1206 1213	beta(3)
+T3	CHEMICAL 1235 1247	isoprenaline
+T4	CHEMICAL 1317 1327	salmeterol
+T5	CHEMICAL 1329 1339	formoterol
+T6	CHEMICAL 1344 1356	isoprenaline
+T7	CHEMICAL 1425 1435	denopamine
+T16	GENE-Y 1440 1447	beta(1)
+T8	CHEMICAL 1449 1460	clenbuterol
+T9	CHEMICAL 1462 1471	AZ 40140d
+T10	CHEMICAL 1473 1483	salbutamol
+T17	GENE-Y 1488 1495	beta(2)
+T18	GENE-N 1624 1658	beta(1)- and beta(3)-adrenoceptors
+R0	CPR-2 Arg1:T8 Arg2:T17

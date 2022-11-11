@@ -1,0 +1,10 @@
+Importance of UDP-glucuronosyltransferases 2A2 and 2A3 in tobacco carcinogen metabolism.
+UDP-glucuronosyltransferase A1 (UGT2A1) is expressed in the lung and exhibits activity against polycyclic aromatic hydrocarbons (PAHs), suggesting UGT2A1 involvement in the local metabolism of PAH tobacco carcinogens.
+The goal of the present study was to investigate the importance of two additional UGT2A enzymes, UGT2A2 and UGT2A3, in tobacco carcinogen metabolism.
+Real-time polymerase chain reaction suggested that wild-type UGT2A2 had the highest expression in the breast, followed by trachea > larynx > kidney.
+A novel splice variant of UGT2A2 lacking exon 3 (termed UGT2A2Δexon3) was investigated, with UGT2A2Δexon3 expression determined to be 25-50% that of wild-type UGT2A2 in all tissues examined.
+UGT2A3 was determined to be well expressed in the liver and colon, followed by pancreas > kidney > lung > tonsil > trachea > larynx.
+Cell homogenates prepared from human embryonic kidney (HEK)293 cells overexpressing wild-type UGT2A2 (termed UGT2A2_i1) exhibited glucuronidation activity, as observed by reverse-phase ultra-pressure liquid chromatography, against 1-hydroxy-(OH)-pyrene, 1-naphthol, and hydroxylated benzo(a)pyrene metabolites, whereas homogenates prepared from HEK293 cells overexpressing UGT2A3 only showed activity against simple PAHs like 1-OH-pyrene and 1-naphthol.
+Activity assays showed the UGT2A2Δexon3 protein (termed UGT2A2_i2) exhibited no detectable glucuronidation activity against all substrates examined; however, coexpression studies suggested that UGT2A2_i2 negatively modulates UGT2A2_i1 activity.
+Both UGT2A2 and UGT2A3 exhibited no detectable activity against complex PAH proximate carcinogens, tobacco-specific nitrosamines, or heterocyclic amines.
+These data suggest that, although UGT2A1 is the only UGT2A enzyme active against PAH proximate carcinogens (including PAH diols), both UGTs 2A1 and 2A2 play an important role in the local detoxification of procarcinogenic monohydroxylated PAH metabolites.

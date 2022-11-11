@@ -1,0 +1,16 @@
+T14	GENE-N 35 63	mu and kappa opioid receptor
+T4	GENE-N 71 87	Opioid receptors
+T1	CHEMICAL 178 186	morphine
+T2	CHEMICAL 191 199	fentanyl
+T5	GENE-N 211 237	endogenous opioid peptides
+T3	CHEMICAL 238 249	enkephalins
+T6	GENE-Y 238 249	enkephalins
+T7	GENE-N 254 264	endorphins
+T8	GENE-N 286 319	mu and the kappa opioid receptors
+T9	GENE-Y 420 431	mu receptor
+T10	GENE-Y 437 441	Oprm
+T11	GENE-Y 460 474	kappa receptor
+T12	GENE-Y 480 485	Oprk1
+T13	GENE-N 595 611	opioid receptors
+R0	CPR-2 Arg1:T2 Arg2:T4
+R1	NOT Arg1:T1 Arg2:T5

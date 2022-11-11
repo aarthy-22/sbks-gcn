@@ -1,0 +1,49 @@
+T44	GENE-Y 23 81	human placental 3 beta-hydroxy-5-ene-steroid dehydrogenase
+T31	CHEMICAL 39 67	3 beta-hydroxy-5-ene-steroid
+T32	CHEMICAL 86 93	steroid
+T45	GENE-N 86 114	steroid 5----4-ene-isomerase
+T30	CHEMICAL 118 150	2 alpha-bromoacetoxyprogesterone
+T43	GENE-N 174 187	dehydrogenase
+T37	GENE-Y 243 301	human placental 3 beta-hydroxy-5-ene-steroid dehydrogenase
+T20	CHEMICAL 259 287	3 beta-hydroxy-5-ene-steroid
+T26	CHEMICAL 306 313	steroid
+T42	GENE-N 306 334	steroid 5----4-ene-isomerase
+T2	CHEMICAL 353 365	progesterone
+T5	CHEMICAL 371 383	pregnenolone
+T9	CHEMICAL 388 403	androstenedione
+T15	CHEMICAL 415 445	dehydroepiandrosterone sulfate
+T18	CHEMICAL 517 520	NH2
+T19	CHEMICAL 571 603	2 alpha-bromoacetoxyprogesterone
+T21	CHEMICAL 636 644	pregnene
+T39	GENE-N 636 673	pregnene and androstene dehydrogenase
+T22	CHEMICAL 649 659	androstene
+T23	CHEMICAL 840 847	steroid
+T40	GENE-N 896 909	dehydrogenase
+T24	CHEMICAL 983 995	Pregnenolone
+T25	CHEMICAL 1000 1022	dehydroepiandrosterone
+T41	GENE-N 1035 1048	dehydrogenase
+T27	CHEMICAL 1065 1086	5-pregnene-3,20-dione
+T28	CHEMICAL 1088 1100	progesterone
+T29	CHEMICAL 1106 1121	androstenedione
+T1	CHEMICAL 1330 1362	2 alpha-bromoacetoxyprogesterone
+T33	GENE-N 1379 1392	dehydrogenase
+T3	CHEMICAL 1554 1566	Pregnenolone
+T34	GENE-N 1591 1604	dehydrogenase
+T4	CHEMICAL 1670 1702	2 alpha-bromoacetoxyprogesterone
+T6	CHEMICAL 1711 1715	NADH
+T7	CHEMICAL 1794 1798	NAD+
+T8	CHEMICAL 1838 1842	NADH
+T10	CHEMICAL 1866 1870	NAD+
+T35	GENE-N 1884 1897	dehydrogenase
+T11	CHEMICAL 1957 1961	NAD+
+T12	CHEMICAL 1966 1970	NADH
+T13	CHEMICAL 2000 2004	NADH
+T14	CHEMICAL 2096 2100	NADH
+T36	GENE-N 2167 2180	dehydrogenase
+T16	CHEMICAL 2340 2348	pregnene
+T38	GENE-N 2340 2377	pregnene and androstene dehydrogenase
+T17	CHEMICAL 2353 2363	androstene
+R0	CPR-9 Arg1:T15 Arg2:T42
+R1	CPR-3 Arg1:T3 Arg2:T34
+R2	CPR-9 Arg1:T10 Arg2:T35
+R3	NOT Arg1:T41 Arg2:T27

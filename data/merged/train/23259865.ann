@@ -1,0 +1,21 @@
+T4	CHEMICAL 39 58	indenoisoquinolines
+T19	GENE-Y 77 108	tyrosyl-DNA phosphodiesterase I
+T16	GENE-Y 110 114	Tdp1
+T17	GENE-Y 120 135	topoisomerase I
+T18	GENE-Y 137 141	Top1
+T5	GENE-Y 144 175	Tyrosyl-DNA phosphodiesterase I
+T9	GENE-Y 177 181	Tdp1
+T6	GENE-Y 248 263	topoisomerase I
+T7	GENE-Y 265 269	Top1
+T1	CHEMICAL 281 293	camptothecin
+T2	CHEMICAL 416 435	indenoisoquinolines
+T8	GENE-Y 469 473	Tdp1
+T10	GENE-Y 478 482	Top1
+T3	CHEMICAL 639 658	indenoisoquinolines
+T11	GENE-Y 667 671	Tdp1
+T12	GENE-Y 866 870	Tdp1
+T13	GENE-Y 871 875	Top1
+T14	GENE-Y 915 919	Top1
+T15	GENE-Y 924 928	Tdp1
+R0	CPR-4 Arg1:T4 Arg2:T19
+R1	NOT Arg1:T5 Arg2:T1

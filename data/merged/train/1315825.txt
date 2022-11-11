@@ -1,0 +1,19 @@
+Candoxatril, an orally active neutral endopeptidase inhibitor, raises plasma atrial natriuretic factor and is natriuretic in essential hypertension.
+OBJECTIVE: Candoxatril (UK79,300) is an orally available inhibitor of the neutral endopeptidase (E.C.3.4.24.11) which degrades atrial natriuretic factor (ANF).
+This study was designed to establish initial safety and efficacy data in essential hypertension for this novel class of drug.
+DESIGN: A prospective, double-blind, placebo-controlled, single-dose comparison of candoxatril with placebo in a crossover manner.
+Three doses of candoxatril (10, 50 and 200 mg) were used, with four subjects at each dose level.
+SETTING: The Medical Research Council Blood Pressure Unit, Western Infirmary, Glasgow, UK (a hospital clinical research unit).
+PATIENTS: Twelve patients with untreated essential hypertension.
+Diastolic blood pressure was greater than 95 mmHg on three separate occasions before entry to the study.
+INTERVENTION: Candoxatril or matching placebo was administered orally in the fasting state.
+Serial measurements of urinary volume and electrolyte excretion were taken (on each hour, urine volume was replaced with an equivalent volume of water by mouth).
+Blood pressure and heart rate were recorded for 12 h after drug administration and serial blood samples were taken for measurement of plasma ANF and neurohormone concentrations.
+MAIN OUTCOME MEASURES: Urine volume and electrolyte concentration; blood pressure; heart rate; plasma atrial natriuretic factor.
+RESULTS: Plasma ANF concentrations rose significantly in all patients within 2 h of candoxatril administration compared with placebo although peak and integrated ANF levels were similar at all three doses.
+A significant natriuresis was only seen after 200 mg candoxatril, with a greater cumulative urine sodium excretion over 12 h compared with placebo; this was associated with a greater diuresis over 12 h compared with placebo.
+After a single oral dose of candoxatril, blood pressure and heart rate remained unchanged.
+CONCLUSIONS: Candoxatril in a single dose caused no adverse effects in essential hypertension.
+The drug caused a rise in basal ANF levels at all doses, but natriuresis was only seen with the highest dose used.
+No change in blood pressure was recorded after acute dosing, and the results of chronic studies with this compound are awaited.
+Oral inhibitors of ANF degradation may have therapeutic potential in cardiovascular disorders.

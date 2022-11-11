@@ -1,0 +1,9 @@
+AKRs expression in peripheral blood lymphocytes from smokers: The role of body mass index.
+Aldo-keto reductases (AKRs) metabolize a wide range of substrates, including polycyclic aromatic hydrocarbons (PAHs), generating metabolites (o-quinones) and reactive oxygen species (ROS), which are capable of initiating and promoting carcinogenesis.
+Exposure to PAHs, their metabolites, and ROS further increase AKRs isoform expression that may amplify oxidative damage.
+Human AKR enzymes are highly polymorphic, and allelic variants may contribute to different AKRs expression in individuals.
+Despite the importance of AKRs in PAHs metabolism, there are no studies that evaluate, in general human populations, the effect of PAHs on AKRs expression in peripheral blood lymphocytes (PBLs).
+The aim of this study was to determine the effect of tobacco smoke exposure, and AKR1A1*2 and AKR1C3*2 polymorphisms, on AKR1A1 and AKR1C1-AKR1C3 messenger RNA (mRNA) levels in PBLs from smokers.
+In the smoker group, there is a statistically significant positive association between AKR1A1, AKR1C1, and AKR1C3 mRNA induction and urine cotinine levels in individuals with a body mass index (BMI) less than 25.
+However, AKR1A1*2 and AKR1C3*2 alleles did not influence AKR1A1 and AKR1C1-AKR1C3 mRNA levels.
+These results suggest that AKRs induction by PAHs in smokers' PBLs is associated with BMI; therefore, the role of adipose tissue accumulation in PAHs' effects needs further investigation.

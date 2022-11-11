@@ -1,0 +1,22 @@
+T18	CHEMICAL 0 22	Frovatriptan succinate
+T21	GENE-N 26 35	5-HT1B/1D
+T1	CHEMICAL 67 89	Frovatriptan succinate
+T13	CHEMICAL 116 125	serotonin
+T20	GENE-N 116 134	serotonin receptor
+T8	CHEMICAL 282 294	frovatriptan
+T9	CHEMICAL 333 342	serotonin
+T10	CHEMICAL 361 373	frovatriptan
+T11	CHEMICAL 465 474	serotonin
+T19	GENE-N 465 494	serotonin receptors 1B and 1D
+T12	CHEMICAL 529 541	frovatriptan
+T14	CHEMICAL 633 645	frovatriptan
+T15	CHEMICAL 724 736	frovatriptan
+T16	CHEMICAL 864 876	frovatriptan
+T17	CHEMICAL 1008 1020	frovatriptan
+T2	CHEMICAL 1169 1181	frovatriptan
+T3	CHEMICAL 1267 1279	frovatriptan
+T4	CHEMICAL 1354 1366	Frovatriptan
+T5	CHEMICAL 1527 1539	frovatriptan
+T6	CHEMICAL 1686 1695	serotonin
+T7	CHEMICAL 1786 1798	frovatriptan
+R0	CPR-5 Arg1:T1 Arg2:T20

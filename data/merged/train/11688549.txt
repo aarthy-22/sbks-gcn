@@ -1,0 +1,6 @@
+Neonatal red blood cells: amiloride-insensitive Na+-H+ transport isoform would express Na+-Li+ exchange.
+Neonatal red cells (umbilical cord blood) were in vitro incubated in isotonic media (thiocyanate as predominant anion).
+This experimental condition was selected as it was known that this chaotropic anion induced activation of Na+-H+ exchange.
+The transport amiloride-sensitive mechanism, that decreased the acidic intracellular pH change occurring in this medium, would correspond to Na+-H+ exchange (NHE1 isoform).
+However, the Na+-Li+ exchange, also determined in the cells in the above-mentioned medium was not affected by amiloride.
+The present data suggest that an amiloride insensitive Na+-H+ exchange isoform would express Na+-Li+ countertransport in these cells.

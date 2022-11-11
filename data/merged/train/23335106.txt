@@ -1,0 +1,5 @@
+Fast, reversible, and general photomechanical motion in single crystals of various azo compounds using visible light.
+Pseudostilbene-type single crystals exhibit ubiquitous, fast, and reversible photomechanical motion under visible-light irradiation.
+Push-pull substituents impart extremely rapid switching using just one wavelength of light by shortening the lifetime of the cis-form.
+This results in a bending motion in the microsecond regime.
+The influence of crystal density, thickness, and molecular orientation on optimization of the photomechanical effect is investigated.

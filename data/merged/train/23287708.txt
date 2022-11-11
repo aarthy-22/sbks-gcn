@@ -1,0 +1,9 @@
+Sunset yellow FCF, a permitted food dye, alters functional responses of splenocytes at non-cytotoxic dose.
+Sunset yellow FCF (SY), a permitted food color, is extensively used in various food preparations and quite often exceeds the permissible levels (100-200 mg/kg).
+Several toxicity studies on SY are reported, however immunomodulatory properties have not been explored yet.
+To investigate the immunotoxic properties of SY, splenocytes were isolated, cultured and subjected to mitogen stimulated proliferation assay (lipopolysaccharide, LPS or concanavalin A, Con A), mixed lymphocyte reaction (MLR) assay, immunophenotypic analysis of cell surface receptor expression and assay for cytokines release in the culture supernatants were performed in the presence of SY.
+Since SY did not exhibit any cytotoxicity up to 250 μg/ml, this dose was used for further studies.
+It was observed that SY (250 μg/ml) significantly (p<0.05) suppressed the mitogen induced proliferation of splenocytes and MLR response.
+Further, immunophenotypic analysis revealed that SY alters the relative expression of CD3e/CD4/CD8 in T cells and CD19 in B-cells.
+Consistent with the suppression of T-cell and B-cell responses and altered surface receptor expression, SY also lowered the expression of IL2, IL4, IL6, IL-17, IFN-γ and TNF-α cytokines.
+These results suggest that non-cytotoxic dose of SY may have immunomodulatory effects.

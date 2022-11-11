@@ -1,0 +1,20 @@
+T1	OTHER_COMPOUND 1003 1015	acetonitrile
+T2	REACTION_PRODUCT 8 139	((2S)-1-(4-(1-((R)-1-(2,4-Dichlorophenyl)ethyl)-3-methyl-1H-pyrazolo[3,4-b]pyrazin-6-yl)cyclohex-3-en-1-yl)pyrrolidin-2-yl)methanol
+T3	EXAMPLE_LABEL 5 6	6
+T4	YIELD_OTHER 1167 1172	73 mg
+T5	OTHER_COMPOUND 644 669	potassium sodium tartrate
+T6	TIME 538 541	2 h
+T7	OTHER_COMPOUND 1019 1024	water
+T8	SOLVENT 438 453	dichloromethane
+T9	OTHER_COMPOUND 1055 1075	trifluoroacetic acid
+T10	TEMPERATURE 569 573	0° C
+T11	YIELD_PERCENT 1174 1177	26%
+T12	REACTION_PRODUCT 1121 1135	title compound
+T13	OTHER_COMPOUND 785 799	sodium sulfate
+T14	TEMPERATURE 526 532	−78° C
+T15	TEMPERATURE 371 377	−78° C
+T16	STARTING_MATERIAL 140 258	Methyl (4-(1-((R)-1-(2,4-dichlorophenyl)ethyl)-3-methyl-1H-pyrazolo[3,4-b]pyrazin-6-yl)cyclohex-3-en-1-yl)-L-prolinate
+T17	REAGENT_CATALYST 379 405	Diisobutylaluminum hydride
+T18	OTHER_COMPOUND 614 621	aqueous
+T19	OTHER_COMPOUND 710 725	dichloromethane
+T20	SOLVENT 317 332	dichloromethane

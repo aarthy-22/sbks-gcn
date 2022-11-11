@@ -1,0 +1,11 @@
+T1	EXAMPLE_LABEL 8 12	181A
+T2	REACTION_PRODUCT 13 126	6-(Chloromethyl)-1-(2-methoxyethyl)-3-(2-phenylethyl)-5-(trifluoromethyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+T3	STARTING_MATERIAL 153 175	compound from Ex. 174A
+T4	SOLVENT 203 213	chloroform
+T5	REAGENT_CATALYST 241 257	thionyl chloride
+T6	TEMPERATURE 387 392	80° C
+T7	TIME 398 404	30 min
+T8	OTHER_COMPOUND 523 530	toluene
+T9	YIELD_OTHER 597 603	1.34 g
+T10	YIELD_PERCENT 605 608	99%
+T11	REACTION_PRODUCT 627 641	title compound

@@ -1,0 +1,14 @@
+Metabolic pathways of inhaled glucocorticoids by the CYP3A enzymes.
+Asthma is one of the most prevalent diseases in the world, for which the mainstay treatment has been inhaled glucocorticoids (GCs).
+Despite the widespread use of these drugs, approximately 30% of asthma sufferers exhibit some degree of steroid insensitivity or are refractory to inhaled GCs.
+One hypothesis to explain this phenomenon is interpatient variability in the clearance of these compounds.
+The objective of this research is to determine how metabolism of GCs by the CYP3A family of enzymes could affect their effectiveness in asthmatic patients.
+In this work, the metabolism of four frequently prescribed inhaled GCs, triamcinolone acetonide, flunisolide, budesonide, and fluticasone propionate, by the CYP3A family of enzymes was studied to identify differences in their rates of clearance and to identify their metabolites.
+Both interenzyme and interdrug variability in rates of metabolism and metabolic fate were observed.
+CYP3A4 was the most efficient metabolic catalyst for all the compounds, and CYP3A7 had the slowest rates.
+CYP3A5, which is particularly relevant to GC metabolism in the lungs, was also shown to efficiently metabolize triamcinolone acetonide, budesonide, and fluticasone propionate.
+In contrast, flunisolide was only metabolized via CYP3A4, with no significant turnover by CYP3A5 or CYP3A7.
+Common metabolites included 6β-hydroxylation and Δ(6)-dehydrogenation for triamcinolone acetonide, budesonide, and flunisolide.
+The structure of Δ(6)-flunisolide was unambiguously established by NMR analysis.
+Metabolism also occurred on the D-ring substituents, including the 21-carboxy metabolites for triamcinolone acetonide and flunisolide.
+The novel metabolite 21-nortriamcinolone acetonide was also identified by liquid chromatography-mass spectrometry and NMR analysis.

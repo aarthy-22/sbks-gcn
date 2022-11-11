@@ -1,0 +1,15 @@
+NADPH Oxidase NOX5-S and Nuclear Factor κB1 Mediate Acid-Induced Microsomal Prostaglandin E Synthase-1 Expression in Barrett's Esophageal Adenocarcinoma Cells.
+The mechanisms of progression from Barrett's esophagus (BE) to esophageal adenocarcinoma (EA) are not known.
+Cycloxygenase-2 (COX-2)-derived prostaglandin E2 (PGE2) has been shown to be important in esophageal tumorigenesis.
+We have shown that COX-2 mediates acid-induced PGE2 production.
+The prostaglandin E synthase (PGES) responsible for acid-induced PGE2 production in BE, however, is not known.
+We found that microsomal PGES1 (mPGES1), mPGES2, and cytosolic PGES (cPGES) were present in FLO EA cells.
+Pulsed acid treatment significantly increased mPGES1 mRNA and protein levels but had little or no effect on mPGES2 or cPGES mRNA.
+Knockdown of mPGES1 by mPGES1 small interfering RNA (siRNA) blocked acid-induced increase in PGE2 production and thymidine incorporation.
+Knockdown of NADPH oxidase, NOX5-S, a variant lacking calcium-binding domains, by NOX5 siRNA significantly inhibited acid-induced increase in mPGES1 expression, thymidine incorporation, and PGE2 production.
+Overexpression of NOX5-S significantly increased the luciferase activity in FLO cells transfected with a nuclear factor κB (NF-κB) in vivo activation reporter plasmid pNF-κB-Luc.
+Knockdown of NF-κB1 p50 by p50 siRNA significantly decreased acid-induced increase in mPGES1 expression, thymidine incorporation, and PGE2 production.
+Two novel NF-κB binding elements, GGAGTCTCCC and CGGGACACCC, were identified in the mPGES1 gene promoter.
+We conclude that mPGES1 mediates acid-induced increase in PGE2 production and cell proliferation.
+Acid-induced mPGES1 expression depends on activation of NOX5-S and NF-κB1 p50.
+Microsomal PGES1 may be a potential target to prevent or treat EA.

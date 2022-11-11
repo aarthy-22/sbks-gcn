@@ -1,0 +1,37 @@
+T33	GENE-Y 74 81	insulin
+T19	GENE-Y 145 158	human insulin
+T18	GENE-Y 387 394	insulin
+T20	GENE-Y 465 472	insulin
+T21	GENE-Y 477 491	IGF-I receptor
+T22	GENE-Y 552 559	insulin
+T23	GENE-Y 575 588	human insulin
+T24	GENE-Y 591 598	insulin
+T25	GENE-Y 621 634	human insulin
+T26	GENE-Y 637 644	insulin
+T27	GENE-Y 676 689	human insulin
+T28	GENE-Y 692 699	insulin
+T2	CHEMICAL 724 745	epsilon-tetradecanoyl
+T29	GENE-Y 761 768	insulin
+T30	GENE-Y 785 792	insulin
+T31	GENE-Y 868 884	insulin receptor
+T32	GENE-Y 973 995	human insulin receptor
+T3	GENE-Y 1174 1190	insulin receptor
+T4	GENE-Y 1257 1271	IGF-I receptor
+T5	GENE-Y 1293 1309	insulin receptor
+T6	GENE-Y 1340 1347	insulin
+T7	GENE-Y 1384 1397	human insulin
+T8	GENE-Y 1448 1462	IGF-I receptor
+T9	GENE-Y 1514 1521	insulin
+T10	GENE-Y 1581 1594	human insulin
+T11	GENE-Y 1665 1672	insulin
+T12	GENE-Y 1712 1726	IGF-I receptor
+T13	GENE-Y 1772 1785	human insulin
+T1	CHEMICAL 1807 1817	fatty acid
+T14	GENE-Y 1843 1850	insulin
+T15	GENE-Y 2077 2084	insulin
+T16	GENE-Y 2139 2146	insulin
+T17	GENE-Y 2225 2238	human insulin
+R0	CPR-1 Arg1:T1 Arg2:T14
+R1	NOT Arg1:T23 Arg2:T2
+R2	NOT Arg1:T24 Arg2:T2
+R3	NOT Arg1:T27 Arg2:T2

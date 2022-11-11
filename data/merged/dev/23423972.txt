@@ -1,0 +1,16 @@
+Absorption, distribution, and biotransformation of hexahydro-1,3,5-trinitro-1,3,5-triazine in B6C3F1 mice (Mus musculus).
+Absorption, distribution, and biotransformation are 3 critical aspects affecting toxicant action in animals.
+In the present study, B6C3F1 mice (Mus musculus) were exposed for 28 d to contaminated feed that contained 1 of 5 different hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX) concentrations: 0 mg/kg, 0.5 mg/kg, 5 mg/kg, 50 mg/kg, and 500 mg/kg.
+The authors quantified RDX and its reductive transformation products hexahydro-1-nitroso-3,5-dinitro-1,3,5-triazine (MNX), hexahydro-1,3-dinitroso-5-nitro-1,3,5-triazine (DNX), and hexahydro-1,3,5-trinitroso-1,3,5-triazine (TNX) in the stomach, intestine, plasma, liver, and brain of these mice.
+Average RDX concentrations followed a dose-dependent pattern for all matrices tested.
+No controls had concentrations above limits of detection.
+Average RDX concentrations in tissues of exposed mice ranged from 11.1 ng/mL to 182 ng/mL, 25.6 ng/g to 3319 ng/g, 123 ng/g to 233 ng/g, 144 ng/g to 35 900 ng/g, and 51.1 ng/g to 2697 ng/g in the plasma, brain, liver, stomach, and intestine, respectively.
+A considerable amount of RDX was present in the brain, especially in the highest-exposure group.
+This is consistent with the widely observed central nervous system effects caused by γ-aminobutyric acid inhibition associated with RDX exposure.
+N-nitroso metabolites of RDX were also present in tested tissues in a dose-dependent pattern.
+Average MNX concentrations in the stomachs of mice exposed to RDX ranged from nondetectable in control exposures to 490 ng/g in the highest-exposure groups.
+In the brain, MNX accumulated at a maximum average concentration of 165.1 ng/g, suggesting the potential formation of MNX from RDX within the brain.
+At higher exposures, DNX and TNX were present in the stomach, plasma, and brain of mice.
+The presence of RDX metabolites at notable amounts in different tissues suggests that RDX can transform into its N-nitroso metabolites in vivo by an undefined mechanism.
+Environ Toxicol Chem 2013;32:1295-1303.
+© 2013 SETAC.

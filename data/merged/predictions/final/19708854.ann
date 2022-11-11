@@ -1,0 +1,11 @@
+T8	CHEMICAL 0 10	Vapreotide
+T9	CHEMICAL 14 26	somatostatin
+T11	GENE 14 26	somatostatin
+T3	CHEMICAL 433 443	vapreotide
+T4	CHEMICAL 589 599	vapreotide
+T5	CHEMICAL 610 622	somatostatin
+T10	GENE 610 622	somatostatin
+T6	CHEMICAL 922 932	vapreotide
+T7	CHEMICAL 1056 1066	vapreotide
+T1	CHEMICAL 1089 1099	Vapreotide
+T2	CHEMICAL 1297 1307	vapreotide

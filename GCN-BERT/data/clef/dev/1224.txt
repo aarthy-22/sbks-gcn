@@ -1,0 +1,5 @@
+Intermediate 24
+2-methoxy-3,3-dimethyl-butyric acid
+Intermediate 24A
+2-hydroxy-3,3-dimethyl-butyric acid benzyl ester
+Benzyl bromide (CAS#100-39-0, 0.65 mL, 5.5 mmol, 1.5 eq) was added to a solution of 2-hydroxy-3,3-dimethylbutyric acid (472 mg, 3.6 mmol, 1.0 eq) and triethylamine (0.76 mL, 5.5 mmol, 1.5 eq) in N,N-dimethylformamide (5 mL). The reaction mixture was stirred at room temperature overnight then partitioned between water and ethyl acetate. The organic layer was washed with brine, dried on Na2SO4, filtered and concentrated in vacuo. The residue was purified by flash chromatography on silica gel (heptane/dichloromethane 100/0 to 0/100) to provide the title compound (595 mg, 75%).

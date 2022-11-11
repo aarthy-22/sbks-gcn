@@ -1,0 +1,12 @@
+Linking GABA(A) receptor subunits to alcohol-induced conditioned taste aversion and recovery from acute alcohol intoxication.
+GABA type A receptors (GABA(A)-R) are important for ethanol actions and it is of interest to link individual subunits with specific ethanol behaviors.
+We studied null mutant mice for six different GABA(A)-R subunits (α1, α2, α3, α4, α5 and δ).
+Only mice lacking the α2 subunit showed reduction of conditioned taste aversion (CTA) to ethanol.
+These results are in agreement with data from knock-in mice with mutation of the ethanol-sensitive site in the α2-subunit (Blednov et al., 2011).
+All together, they indicate that aversive property of ethanol is dependent on ethanol action on α2-containing GABA(A)-R. Deletion of the α2-subunit led to faster recovery whereas absence of the α3-subunit slowed recovery from ethanol-induced incoordination (rotarod).
+Deletion of the other four subunits did not affect this behavior.
+Similar changes in this behavior for the α2 and α3 null mutants were found for flurazepam motor incoordination.
+However, no differences in recovery were found in motor-incoordinating effects of an α1-selective modulator (zolpidem) or an α4-selective agonist (gaboxadol).
+Therefore, recovery of rotarod incoordination is under control of two GABA(A)-R subunits: α2 and α3.
+For motor activity, α3 null mice demonstrated higher activation by ethanol (1 g/kg) whereas both α2 (-/-) and α3 (-/Y) knockout mice were less sensitive to ethanol-induced reduction of motor activity (1.5 g/kg).
+These studies demonstrate that the effects of ethanol at GABAergic synapses containing α2 subunit are important for specific behavioral effects of ethanol which may be relevant to the genetic linkage of the α2 subunit with human alcoholism.

@@ -1,0 +1,5 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 8 101	2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(7-chloro-1H-indol-1-yl)acetate
+T3	YIELD_OTHER 160 165	46 mg
+T4	YIELD_PERCENT 167 170	55%
+T5	REACTION_PRODUCT 179 193	title compound

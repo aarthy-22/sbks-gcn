@@ -1,0 +1,5 @@
+Embodiment 12
+N-(2-((2-(Dimethylamino)ethyl)(methyl)amino)-4-methoxy-5-((4-(1-oxo-2,3-dihydro-1H-pyrrolo[1,2-a]indol-9-yl)pyrimidin-2-yl)amino)phenyl)acrylamide
+Embodiment 12A
+Methyl 1-oxo-2,3-dihydro-1H-pyrrolo[1,2-a]indole-2-carboxylate
+Ethyl indole 2-carboxylate (4.00g, 21.14mmol) and methyl acrylate (3.28g, 38.05mmol) were added to toluene (200mL). NaH (60%, 974.13mg, 40.59mmol) was added to the mixture and the reaction mixture was warmed to 100 °C and stirred for 16 hours. LCMS showed the reaction was complete and saturated aqueous NH4Cl solution (100mL) was added to the reaction mixture. The resulting reaction mixture was extracted with EA (300mL × 3), the organic phase was dried over anhydrous sodium sulfate and concentrated to deliver the title compound (yellow oil, 3.73g, yield 76.97%).

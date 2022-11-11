@@ -1,0 +1,11 @@
+The effect of estradiol on in vivo tumorigenesis is modulated by the human epidermal growth factor receptor 2/phosphatidylinositol 3-kinase/Akt1 pathway.
+To determine whether the epidermal growth factor receptor 2 (ErbB2) and Akt1 can alter the in vivo growth of MCF-7 cells, parental cells or cells stably transfected with constitutively active Akt1 (myr-Akt1) or dominant-negative Akt1 mutants (K179M-Akt1 and R25C-Akt1) were implanted into athymic nude mice.
+Tumor growth was monitored in the presence or absence of the antiestrogen tamoxifen and the selective ErbB2 inhibitor, AG825.
+MCF-7 [parental or empty vector transfected, cytomegalovirus (CMV)] and myr-Akt1 cells formed tumors upon estradiol supplementation after 20-30 d (59-, 29-, and 17-fold increase in tumor volume, respectively).
+Tamoxifen and AG825 blocked the estradiol effect by 93 and 96% in MCF-7 xenografts, 88 and 81% in CMV xenografts, and 91% in myr-Akt1 xenografts.
+Furthermore, AG825 suppressed the growth of established tumors in CMV and myr-Akt1 inoculated animals by 68 and 75%, respectively, as compared with continued estrogen supplementation, suggesting a role for ErbB2.
+When K179M-Akt1 or R25C-Akt1 cells were injected into ovariectomized animals, tumor growth was reduced upon estradiol treatment by 95% and 98%, respectively, supporting a role for Akt1.
+In contrast to ovariectomized animals, in intact animals, myr-Akt1 cells could establish tumors without estradiol priming after 40-50 d (20-fold increase in tumor volume).
+Loss of Akt1 phosphorylation was associated with tumor growth inhibition.
+Immunohistochemical assays showed that in tumors from parental and CMV xenografts, estradiol decreased estrogen receptor-alpha expression and induced progesterone receptor expression and Akt phosphorylation, effects that were inhibited by tamoxifen, AG825, and R25C-Akt1 by 89, 82, and 77% for progesterone receptor expression and 48, 66, and 73% for pAkt expression, respectively.
+Cumulatively, our results suggest that Akt1 and ErbB2 are involved in in vivo tumorigenesis and modulation of estrogen receptor-alpha expression and activity.

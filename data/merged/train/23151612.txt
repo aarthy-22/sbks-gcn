@@ -1,0 +1,8 @@
+A review of anti-inflammatory agents for symptoms of schizophrenia.
+Schizophrenia is a chronic debilitating mental disorder that affects about 1% of the US population.
+The pathophysiology and etiology remain unknown, thus new treatment targets have been challenging and few novel treatments with new mechanisms of action have come to market in the past few decades.
+Increasing attention has been paid to the role of inflammation in schizophrenia and new data suggests that decreasing inflammation and inflammatory biomarkers may play some role in schizophrenia treatment.
+This review summarizes the clinical trial literature regarding medications that possess anti-inflammatory properties that have been tested for schizophrenia symptoms and covers such medications as non-steroidal anti-inflammatory agents, such as the cyclo-oxygenase-2 (COX-2) inhibitors and aspirin, omega-3 fatty acids, neurosteroids and minocycline.
+Overall, there is accumulating evidence, albeit mostly adjunctive treatments, that agents working on inflammatory pathways have some benefits in people with schizophrenia.
+In the next few years the field will begin to see data on many treatments with anti-inflammatory properties that are currently under study.
+Hopefully advancements in understanding inflammation and effective treatments having anti-inflammatory properties may help revolutionize our understanding and provide new targets for prevention and treatment in schizophrenia.

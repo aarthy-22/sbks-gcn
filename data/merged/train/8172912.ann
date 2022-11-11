@@ -1,0 +1,29 @@
+T21	CHEMICAL 28 39	glimepiride
+T22	CHEMICAL 44 57	glibenclamide
+T23	CHEMICAL 77 89	sulfonylurea
+T26	GENE-N 77 98	sulfonylurea receptor
+T1	CHEMICAL 128 139	Glimepiride
+T8	CHEMICAL 151 163	sulfonylurea
+T25	GENE-Y 190 197	insulin
+T7	CHEMICAL 294 307	glibenclamide
+T9	CHEMICAL 395 406	glimepiride
+T10	CHEMICAL 411 424	glibenclamide
+T11	CHEMICAL 442 454	sulfonylurea
+T24	GENE-N 442 463	sulfonylurea receptor
+T12	CHEMICAL 492 508	[3H]sulfonylurea
+T13	CHEMICAL 633 644	glimepiride
+T14	CHEMICAL 682 695	glibenclamide
+T15	CHEMICAL 783 794	glimepiride
+T16	CHEMICAL 807 820	glibenclamide
+T17	CHEMICAL 881 897	[3H]sulfonylurea
+T18	CHEMICAL 1019 1035	[3H]sulfonylurea
+T19	CHEMICAL 1095 1106	glimepiride
+T20	CHEMICAL 1119 1132	glibenclamide
+T2	CHEMICAL 1167 1178	glimepiride
+T3	CHEMICAL 1349 1362	glibenclamide
+T4	CHEMICAL 1448 1459	glimepiride
+T5	CHEMICAL 1484 1497	glibenclamide
+T6	CHEMICAL 1642 1654	sulfonylurea
+R0	NOT Arg1:T25 Arg2:T9
+R1	NOT Arg1:T25 Arg2:T10
+R2	NOT Arg1:T7 Arg2:T24

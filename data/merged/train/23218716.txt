@@ -1,0 +1,8 @@
+Indoleamine 2,3-dioxygenase inhibitory activity of derivatives of marine alkaloid tsitsikammamine A. Tsitsikammamines are marine alkaloids whose structure is based on the pyrroloiminoquinone scaffold.
+These and related compounds have attracted attention due to various interesting biological properties, including cytotoxicity, topoisomerase inhibition, antimicrobial, antifungal and antimalarial activity.
+Indoleamine 2,3-dioxygenase (IDO1) is a well-established therapeutic target as an important factor in the tumor immune evasion mechanism.
+In this preliminary communication, we report the inhibitory activity of tsitsikammamine derivatives against IDO1.
+Tsitsikammamine A analogue 11b displays submicromolar potency in an enzymatic assay.
+A number of derivatives are also active in a cellular assay while showing little or no activity towards tryptophan 2,3-dioxygenase (TDO), a functionally related enzyme.
+This IDO1 inhibitory activity is rationalized by molecular modeling studies.
+An interest is thus established in this class of compounds as a potential source of lead compounds for the development of new pharmaceutically useful IDO1 inhibitors.

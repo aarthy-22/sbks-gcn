@@ -1,0 +1,18 @@
+T15	CHEMICAL 0 9	Tricyclic
+T7	CHEMICAL 113 122	tricyclic
+T18	GENE-N 168 194	human cloned CNS receptors
+T16	GENE-N 205 220	cytochrome P450
+T8	CHEMICAL 477 486	serotonin
+T9	CHEMICAL 538 547	monoamine
+T17	GENE-N 538 555	monoamine oxidase
+T10	CHEMICAL 739 752	nortriptyline
+T11	CHEMICAL 757 768	desipramine
+T12	CHEMICAL 830 843	noradrenaline
+T13	CHEMICAL 974 986	Clomipramine
+T14	CHEMICAL 1075 1084	serotonin
+T1	CHEMICAL 1089 1102	noradrenaline
+T2	CHEMICAL 1358 1368	duloxetine
+T3	CHEMICAL 1373 1384	venlafaxine
+T4	CHEMICAL 1464 1474	sertraline
+T5	CHEMICAL 1479 1492	nortriptyline
+T6	CHEMICAL 1540 1551	venlafaxine

@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 8 87	2-methyl-N-(1-(3-nitro-4-(thiophen-3-yl)phenyl)ethylidene)propane-2-sulfinamide
+T3	STARTING_MATERIAL 122 165	1-(3-nitro-4-(thiophen-3-yl)phenyl)ethanone
+T4	STARTING_MATERIAL 187 208	tert-butylsulfinamide
+T5	REAGENT_CATALYST 233 252	tetraethyl titanate
+T6	SOLVENT 283 298	tetrahydrofuran
+T7	TIME 346 354	12 hours
+T8	TEMPERATURE 358 364	reflux
+T9	TEMPERATURE 381 397	room temperature
+T10	OTHER_COMPOUND 503 513	silica gel
+T11	REACTION_PRODUCT 524 603	2-methyl-N-(1-(3-nitro-4-(thiophen-3-yl)phenyl)ethylidene)propane-2-sulfinamide
+T12	YIELD_OTHER 605 611	300 mg
+T13	YIELD_PERCENT 619 624	42.3%

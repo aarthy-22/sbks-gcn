@@ -1,0 +1,9 @@
+Arterial stiffness is inversely related to plasma adiponectin levels in young normotensive patients with type 1 diabetes.
+OBJECTIVE This study investigated the association between arterial stiffness and plasma adiponectin in patients with type 1 diabetes.
+RESEARCH DESIGN AND METHODS Participants were normotensive patients with type 1 diabetes who were up to age 40 years.
+Subjects on statins with macrovascular disease or overt nephropathy were excluded.
+Large artery stiffness was assessed by measurement of carotid-femoral pulse wave velocity (PWV), whereas plasma adiponectin was measured by radioimmunoassay.
+RESULTS Data from 80 patients (age 27.1 ± 6.1 years, BMI 24.2 ± 3.1 kg/m(2), HbA(1c) 7.5 ± 1.6%, 39 men, adiponectin 13.9 ± 6.7 μg/mL, and PWV 5.6 ± 0.9 m/s) were analyzed.
+Log adiponectin inversely correlated with age-adjusted PWV (r = -0.291, P = 0.009) and waist circumference (r = -0.427, P < 0.001).
+In a fully adjusted model, age, expiration/inspiration index, and log adiponectin were independently associated with PWV, explaining 39.6% of its variance.
+CONCLUSIONS Arterial stiffness is inversely related to adiponectin concentration in young patients with type 1 diabetes without major complications.

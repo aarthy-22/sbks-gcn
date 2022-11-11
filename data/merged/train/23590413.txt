@@ -1,0 +1,12 @@
+Canagliflozin , an inhibitor of sodium-glucose cotransporter 2, for the treatment of type 2 diabetes mellitus.
+INTRODUCTION: Canagliflozin is an orally administered sodium glucose cotransporter 2 inhibitor proposed for the treatment of type 2 diabetes.
+Canagliflozin improves glycemic control in an insulin-independent fashion through inhibition of glucose reuptake in the kidney.
+AREAS COVERED: This article reviews the available data on the pharmacodynamics, the pharmacokinetics and metabolism, and the efficacy and safety of canagliflozin.
+Relevant articles were identified via PubMed using the search term canagliflozin with no date restriction.
+The authors also discuss the abstracts from canagliflozin studies presented at large diabetes conferences.
+EXPERT OPINION: Canagliflozin offers a relatively modest reduction in HbA1c, FPG, and PPG.
+It has a low incidence of hypoglycemia and a reduction in body weight.
+Dose adjustment may be recommended in the elderly, those on loop diuretics, and those with an estimated glomerular filtration rate (eGFR) < 60 ml/min/1.73 m(2) if there are concerns or symptoms of volume-related side effects.
+Issues remain with observed increases in low-density lipoprotein cholesterol (LDL-C) and the odds of heart attack and stroke.
+Canagliflozin offers a novel mechanism of action, a modest glycemic control, and a favorable side-effect profile.
+It was approved by the US Food and Drug Administration in April 2013 and is undergoing evaluation by the European Medicines Agency.

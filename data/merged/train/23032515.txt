@@ -1,0 +1,9 @@
+8-Hydroxycalamenene isolated from the rhizomes of Reynoutria elliptica exerts neuroprotective effects both in vitro and in vivo.
+Retinal ganglion cells (RGCs) death caused by oxidative stress is a common risk factor for glaucoma.
+In the present study, 8-hydroxycalamenene was isolated from the hexane fraction of Reynoutria elliptica.
+We showed that 8-hydroxycalamenene attenuated the cell death of transformed RGC-5 cells.
+This compound also produced a dose-dependent decrease in the expression of apoptotic proteins (cleaved PARP and caspase-3) induced by l-buthionine-(S,R)-sulfoximine (BSO) plus glutamate and stimulated glutathione and glutathione S-transferase activity.
+Moreover, the addition of 8-hydroxycalamenene to cell cultures restored the reduced mitochondrial membrane potential resulting from glutamate/BSO treatment.
+The presence of N-methyl-d-aspartate in the retina of rats affected the thickness of the inner plexiform layer (IPL) and increased the number of TUNEL-positive RGCs.
+However, 8-hydroxycalamenene protected against thinning of the IPL and reduced TUNEL-positive cells in the ganglion cell layer.
+Thus, 8-hydroxycalamenene isolated from R. elliptica exerts neuroprotective effects both in vitro and in vivo.

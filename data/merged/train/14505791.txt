@@ -1,0 +1,10 @@
+Compared pharmacological characteristics in humans of racemic cetirizine and levocetirizine, two histamine H1-receptor antagonists.
+The potent histamine H(1)-receptor antagonist cetirizine (Zyrtec) is a racemic mixture of levocetirizine (now available under the trademark Xyzal and dextrocetirizine.
+In this Commentary, we examine some biological properties of cetirizine and levocetirizine, namely enantioselectivity in pharmacological activity and pharmacokinetic properties, with emphasis on the possibility of racemization, the compared behavior of the two enantiomers, and the potential for interactions with other drugs.
+Recent data demonstrate that the antihistaminergic activity of the racemate is primarily due to levocetirizine.
+Levocetirizine is rapidly and extensively absorbed, poorly metabolized, and not subject to racemization.
+Its pharmacokinetic characteristics are comparable after administration alone or in the racemate.
+Its apparent volume of distribution is smaller than that of dextrocetirizine (0.41 L kg(-1) vs. 0.60 L kg(-1)).
+Moreover, the non-renal (mostly hepatic) clearance of levocetirizine is also significantly lower than that of dextrocetirizine (11.8 mL min(-1) vs. 29.2 mL min(-1)).
+Our conclusion is that levocetirizine is indeed the eutomer of cetirizine.
+The evidence reviewed here confirms preclinical findings and offers a rationale for the chiral switch from the racemate to levocetirizine.

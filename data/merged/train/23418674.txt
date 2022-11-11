@@ -1,0 +1,9 @@
+Development of a cell-based high-throughput peroxisome proliferator-activated receptors (PPARs) screening model and its application for evaluation of the extracts from Rhizoma Coptis.
+To date, peroxisome proliferator-activated receptors (PPARs) are becoming the new therapeutic targets for the treatment of metabolic diseases, such as Type 2 diabetes, obesity, and cardiovascular disease.
+In this study, a cell-based high-throughput PPARs (PPARα/β/γ) model was developed for the screening of PPARs agonists.
+The screening conditions were evaluated through analyzing the expression value of luciferase.
+Finally, 24 h of drug acting time, 5 times of the dilution factor of luciferase zymolyte, and about 2 × 10(4) cells/ well on HeLa cells in 96-well plates were used, respectively.
+Furthermore, the quality of high-throughput screening (HTS) in stability and reliability was evaluated by the Z'-factor.
+Additionally, different extracts of Rhizoma Coptis and berberine were tested by the developed method.
+The results suggested that both the EtOAc extract and berberine were able to activate PPARα/β/γ, and Rhizoma Coptis contains potential natural agonists of PPARs besides berberine.
+In conclusion, the developed HTS assay is a simple, rapid, stable, and specific method for the screening of PPARs natural agonists.

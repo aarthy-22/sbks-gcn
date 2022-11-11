@@ -1,0 +1,9 @@
+[Effects and the mechanism of carvedilol on gap junctional intercellular communication in rat myocardium].
+OBJECTIVE: To examine the effects of carvedilol on myocardial ischemia and reperfusion injury and on gap junctional intercellular communication (GJIC).
+METHODS: The left coronary artery was occluded for 30 min and reperfused for 4 h. The activity of creatine phosphokinase (CK), lactate dehydrogenase (LDH) and the infarct size were measured.
+Isolated buffer-perfused hearts were divided randomly into four groups, sham operation (SO), myocardial ischemia and reperfusion (IR), carvedilol (CV) and heptanol (a gap junctional inhibitor) (HT).
+The effect of carvedilol on GJIC was measured by a modification of Scrape-loading and dye transfer method, and the state of CX43 phosphorylation was evaluated by Western blot.
+RESULTS: Compared with the SO group, Increased CK, LDH and infarct size were found in the IR group after 4 h reperfusion.
+GJIC in the IR group was not inhibited, but dephosphorylated CX43 was increased after 30 minutes of ischemia.
+Carvedilol decreased CK, LDH and infarct size compared with the IR rats; after 30 minutes of ischemia, both carvedilol and heptanol significantly reduced the GJIC, associated with a significant augmentation of dephosphorylated CX43.
+CONCLUSIONS: These results suggest that carvedilol reduces GJIC during ischemia presumably by dephosphorylating Cx43, which may be one of the mechanisms of lessening myocardial ischemia-reperfusion injury.

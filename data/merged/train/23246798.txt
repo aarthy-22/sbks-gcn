@@ -1,0 +1,17 @@
+Preparation of highly porous gastroretentive metformin tablets using a sublimation method.
+The present investigation is aimed to formulate floating gastroretentive tablets containing metformin using a sublimation material.
+In this study, the release of the drug from a matrix tablet was highly dependent on the polymer concentrations.
+In all formulations, initial rapid drug release was observed, possibly due to the properties of the drug and polymer.
+The effect of the amount of PEO on swelling and eroding of the tablets was determined.
+The water-uptake and erosion behavior of the gastroretentive (GR) tablets were highly dependent on the amount of PEO.
+The water-uptake increased with increasing PEO concentration in the tablet matrix.
+The weight loss from tablets decreased with increasing amounts of PEO.
+Camphor was used as the sublimation material to prepare GR tablets that are low-density and easily floatable.
+Camphor was changed to pores in the tablet during the sublimation process.
+SEM revealed that the GR tablets have a highly porous morphology.
+Floating properties of tablets and tablet density were affected by the sublimation of camphor.
+Prepared floating gastroretentive tablets floated for over 24 h and had no floating lag time.
+However, as the amount of camphor in the tablet matrix increased, the crushing strength of the tablet decreased after sublimation.
+Release profiles of the drug from the GR tablets were not affected by tablet density or porosity.
+In pharmacokinetic studies, the mean plasma concentration of the GR tablets after oral administration was greater than the concentration of glucophase XR.
+Also, the mean AUC(0-∞) values for the GR tablets were significantly greater than the plasma concentrations of glucophase XR.

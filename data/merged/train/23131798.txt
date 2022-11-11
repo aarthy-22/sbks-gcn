@@ -1,0 +1,7 @@
+Discovery of novel cannabinoid receptor ligands by a virtual screening approach: further development of 2,4,6-trisubstituted 1,3,5-triazines as CB2 agonists.
+3D ligand-based virtual screening was employed to identify novel scaffolds for cannabinoid receptor ligand development.
+A total of 112 compounds with diverse structures were purchased from commercial vendors.
+12 CB1 receptor antagonists/inverse agonists and 10 CB2 receptor agonists were identified in vitro.
+One of the CB2 agonists, N-cyclopentyl-4-ethoxy-6-(4-methylpiperidin-1-yl)-1,3,5-triazin-2-amine (19, -logEC(50)=7.5, E(max)=255%) was selected for further development.
+As far as we are aware, the compound's 1,3,5-triazine scaffold represents a new core structure for CB2 agonists.
+A library of fifty-seven 2,4,6-trisubstituted-1,3,5-triazines was created to clarify the structure-activity relationship study of the analogs.

@@ -1,0 +1,55 @@
+T48	GENE-Y 15 41	zebrafish retinol saturase
+T26	CHEMICAL 25 32	retinol
+T27	CHEMICAL 56 86	all-trans-13,14-dihydroretinol
+T28	CHEMICAL 91 120	all-trans-7,8- dihydroretinol
+T8	CHEMICAL 136 145	vitamin A
+T17	CHEMICAL 147 164	all-trans-retinol
+T24	CHEMICAL 192 212	11-cis-retinaldehyde
+T4	CHEMICAL 242 265	all-trans-retinoic acid
+T15	CHEMICAL 334 347	retinoic acid
+T36	GENE-N 334 356	retinoic acid receptor
+T18	CHEMICAL 399 407	retinoid
+T19	CHEMICAL 545 562	all-trans-retinol
+T20	CHEMICAL 574 604	all-trans-13,14-dihydroretinol
+T21	CHEMICAL 660 677	all-trans-retinol
+T22	CHEMICAL 693 723	all-trans-13,14-dihydroretinol
+T23	CHEMICAL 751 787	all-trans-13,14-dihydroretinoic acid
+T38	GENE-Y 821 826	Cyp26
+T39	GENE-Y 887 893	RetSat
+T40	GENE-Y 933 951	zebrafish RetSat A
+T41	GENE-Y 953 962	zRetSat A
+T25	CHEMICAL 974 981	retinol
+T42	GENE-Y 974 990	retinol saturase
+T43	GENE-Y 1009 1027	zebrafish RetSat B
+T44	GENE-Y 1029 1038	zRetSat B
+T45	GENE-Y 1086 1098	mouse RetSat
+T46	GENE-Y 1100 1107	mRetSat
+T47	GENE-Y 1110 1119	zRetSat A
+T1	CHEMICAL 1203 1220	all-trans-retinol
+T2	CHEMICAL 1239 1269	all-trans-13,14-dihydroretinol
+T3	CHEMICAL 1273 1301	all-trans-7,8-dihydroretinol
+T29	GENE-Y 1317 1326	zRetSat A
+T5	CHEMICAL 1375 1405	all-trans-3,4-didehydroretinol
+T6	CHEMICAL 1407 1417	vitamin A2
+T7	CHEMICAL 1448 1457	vitamin A
+T30	GENE-Y 1503 1512	zRetSat A
+T31	GENE-N 1658 1688	bacterial phytoene desaturases
+T9	CHEMICAL 1668 1676	phytoene
+T32	GENE-N 1693 1720	plant carotenoid isomerases
+T33	GENE-Y 1736 1745	zRetSat A
+T34	GENE-Y 1831 1840	zRetSat B
+T10	CHEMICAL 1922 1939	all-trans-retinol
+T11	CHEMICAL 1941 1971	all-trans-13,14-dihydroretinol
+T12	CHEMICAL 1976 2004	all-trans-7,8-dihydroretinol
+T13	CHEMICAL 2058 2071	retinoic acid
+T35	GENE-Y 2093 2100	Cyp26A1
+T14	CHEMICAL 2146 2161	dihydroretinoid
+T37	GENE-Y 2260 2266	RetSat
+T16	CHEMICAL 2320 2335	dihydroretinoid
+R0	CPR-9 Arg1:T3 Arg2:T47
+R1	CPR-9 Arg1:T6 Arg2:T29
+R2	CPR-2 Arg1:T11 Arg2:T35
+R3	CPR-2 Arg1:T12 Arg2:T35
+R4	NOT Arg1:T40 Arg2:T25
+R5	NOT Arg1:T25 Arg2:T43
+R6	NOT Arg1:T46 Arg2:T2

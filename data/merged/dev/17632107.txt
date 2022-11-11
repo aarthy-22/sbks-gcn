@@ -1,0 +1,9 @@
+Ligand-dependent transcriptional activities of four torafugu pufferfish Takifugu rubripes peroxisome proliferator-activated receptors.
+Structural and functional properties were investigated for four peroxisome proliferator-activated receptors (PPARs), PPARalpha1, PPARalpha2, PPARbeta, and PPARgamma, from torafugu pufferfish Takifugu rubripes and determined for their transcriptional activity by the reporter assay using reporter plasmids containing three copies of the acyl-CoA oxidase PPAR response element.
+Although torafugu PPARs showed a high similarity in the primary structure to other vertebrate counterparts, torafugu PPARalpha2 and gamma contained additional sequences of 21 and 28 amino acids, respectively, as in the case of other teleost fish species when compared with African clawed frog counterparts.
+The transcriptional activity of torafugu PPARalpha1 was enhanced 4.5- and 11.5-fold by Wy-14643 and 5,8,11,14-eicosatetraynoic acid (ETYA) each at 10 microM, respectively, whereas that of PPARalpha2, 4.5- and 7.3-fold at the same concentration of the respective ligands, respectively.
+The activities of torafugu PPARalpha1 and alpha2 were also enhanced 5.6- and 6.3-fold by ETYA at 1 microM, respectively, but not by Wy-14643 at this concentration.
+Furthermore, the activities of the two torafugu PPARalphas were enhanced 4.3- and 7.6-fold by arachidonic acid, 4.4- and 5.2-fold by docosahexaenoic acid, and 6.7- and 8.0-fold by eicosapentaenoic acid each at 50 microM, respectively.
+On the other hand, the activities of torafugu PPARbeta and gamma were not changed by Wy-14643, ETYA, rosiglitazone, nor PUFAs.
+These results suggest that the activities of torafugu PPARbeta and gamma require undefined ligands.
+Alternatively, the molecular mechanisms involved in their activation are different from those of other vertebrates.

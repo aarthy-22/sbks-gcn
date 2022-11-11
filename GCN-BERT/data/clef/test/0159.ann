@@ -1,0 +1,23 @@
+T1	REACTION_PRODUCT 860 895	5-(4-chlorobutyl)-3-methylisoxazole
+T2	SOLVENT 237 244	ethanol
+T3	STARTING_MATERIAL 165 189	8-Chlorooctane-2,4-dione
+T4	REACTION_PRODUCT 93 128	5-(4-Chlorobutyl)-3-methylisoxazole
+T5	OTHER_COMPOUND 517 530	ethyl acetate
+T6	EXAMPLE_LABEL 8 10	20
+T7	OTHER_COMPOUND 428 433	Water
+T8	REACTION_PRODUCT 900 935	3-(4-chlorobutyl)-5-methylisoxazole
+T9	OTHER_COMPOUND 814 827	ethyl acetate
+T10	YIELD_PERCENT 978 981	92%
+T11	OTHER_COMPOUND 600 615	sodium chloride
+T12	OTHER_COMPOUND 796 811	petroleum ether
+T13	TEMPERATURE 397 402	100°C
+T14	OTHER_COMPOUND 340 348	nitrogen
+T15	EXAMPLE_LABEL 91 92	1
+T16	OTHER_COMPOUND 757 767	silica gel
+T17	REAGENT_CATALYST 256 283	hydroxylamine hydrochloride
+T18	OTHER_COMPOUND 11 85	3,7-Dimethyl-1-(4-(5-methylisoxazol-3-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+T19	TIME 419 426	3 hours
+T20	YIELD_OTHER 937 943	900 mg
+T21	OTHER_COMPOUND 659 676	magnesium sulfate
+T22	REACTION_PRODUCT 129 164	3-(4-Chlorobutyl)-5-methylisoxazole
+T23	TEMPERATURE 317 333	room temperature

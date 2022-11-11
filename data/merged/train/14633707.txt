@@ -1,0 +1,12 @@
+Epidermal growth factor receptor autocrine signaling in RIE-1 cells transformed by the Ras oncogene enhances radiation resistance.
+Oncogenic forms of the small GTPase Ras increase the resistance of cells to killing by ionizing radiation (IR).
+Although not all of the signaling pathways for radioresistance are well defined, it is now clear that Ras-dependent signaling pathways involved in radioresistance include those mediated by phosphatidylinositol 3'-kinase (PI3-K) and Raf.
+Nevertheless, PI3-K and Raf together are not sufficient to reconstitute all of the resistance conferred by Ras, indicating that other effectors must also contribute.
+We show here that Ras-driven autocrine signaling through the epidermal growth factor receptor (EGFR) also contributes to radioresistance in Ras-transformed cells.
+Conditioned media (CM) collected from RIE-1 rat intestinal epithelial cells expressing oncogenic Ras increased the survival of irradiated cells.
+Ras-CM contains elevated levels of the EGFR ligand transforming growth factor alpha (TGF-alpha).
+Both Ras-CM and TGF-alpha stimulated EGFR phosphorylation, and exogenous TGF-alpha mimicked the effects of Ras-CM to increase radioresistance.
+Blocking EGFR signaling with the EGFR/HER-2 kinase inhibitor (KI) GW572016 decreased the postradiation survival of irradiated Ras-transformed cells and normal cells but had no effect on the survival of unirradiated cells.
+Ras-CM and TGF-alpha also increase PI3-K activity downstream of the EGFR and increase postradiation survival, both of which are abrogated by GW572016.
+Thus, Ras utilizes autocrine signaling through EGFR to increase radioresistance, and the EGFR KI GW572016 acts as a radiosensitizer.
+The observation that Ras-transformed cells can be sensitized to killing by ionizing radiation with GW572016 demonstrates that EGFR KIs could potentially be used to radiosensitize tumors in which radioresistance is dependent on Ras-driven autocrine signaling through EGFR.

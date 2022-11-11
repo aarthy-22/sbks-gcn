@@ -1,0 +1,13 @@
+Transforming growth factor β integrates Smad 3 to mechanistic target of rapamycin complexes to arrest deptor abundance for glomerular mesangial cell hypertrophy.
+In many renal diseases, transforming growth factor β (TGFβ)-stimulated canonical Smad 3 and noncanonical mechanistic target of rapamycin (mTOR) promote increased protein synthesis and mesangial cell hypertrophy.
+The cellular underpinnings involving these signaling molecules to regulate mesangial cell hypertrophy are not fully understood.
+Deptor has recently been identified as an mTOR interacting protein and functions as an endogenous inhibitor of the kinase activity for both TORC1 and TORC2.
+Prolonged incubation of mesangial cells with TGFβ reduced the levels of deptor concomitant with an increase in TORC1 and TORC2 activity.
+Sustained TGFβ activation was required to inhibit association of deptor with mTOR, whereas rapid activation had no effect.
+Using the mTOR inhibitor PP242, we found that TGFβ-induced both early and sustained activation of TORC1 and TORC2 was necessary for deptor suppression.
+PP242-induced reversal of deptor suppression by TGFβ was associated with a significant inhibition of TGFβ-stimulated protein synthesis and hypertrophy.
+Interestingly, expression of siRNA against Smad 3 or Smad 7, which blocks TGFβ receptor-specific Smad 3 signaling, prevented TGFβ-induced suppression of deptor abundance and TORC1/2 activities.
+Furthermore, overexpression of Smad 3 decreased deptor expression similar to TGFβ stimulation concomitant with increased TORC1 and TORC2 activities.
+Finally, knockdown of deptor reversed Smad 7-mediated inhibition of protein synthesis and mesangial cell hypertrophy induced by TGFβ.
+These data reveal the requirement of both early and late activation of mTOR for TGFβ-induced protein synthesis.
+Our results support that TGFβ-stimulated Smad 3 acts as a key node to instill a feedback loop between deptor down-regulation and TORC1/2 activation in driving mesangial cell hypertrophy.

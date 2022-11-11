@@ -1,0 +1,20 @@
+T3	CHEMICAL 229 249	cytosine arabinoside
+T4	CHEMICAL 251 273	2-chlorodeoxyadenosine
+T5	CHEMICAL 275 286	fludarabine
+T6	CHEMICAL 291 302	gemcitabine
+T15	GENE-Y 623 638	5' nucleotidase
+T7	CHEMICAL 675 688	deoxycytidine
+T16	GENE-Y 675 695	deoxycytidine kinase
+T8	CHEMICAL 799 811	triphosphate
+T9	CHEMICAL 875 888	deoxycytidine
+T17	GENE-Y 875 895	deoxycytidine kinase
+T10	CHEMICAL 916 927	fludarabine
+T18	GENE-N 944 968	Ribonucleotide reductase
+T11	CHEMICAL 1020 1031	gemcitabine
+T19	GENE-Y 1050 1081	purine nucleoside phosphorylase
+T12	CHEMICAL 1103 1125	2-chlorodeoxyadenosine
+T1	CHEMICAL 1146 1156	nucleotide
+T2	CHEMICAL 1185 1207	2-chlorodeoxyadenosine
+T13	GENE-Y 1254 1258	mdr1
+T14	GENE-Y 1420 1435	5'-nucleotidase
+R0	NOT Arg1:T15 Arg2:T8

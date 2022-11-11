@@ -1,0 +1,30 @@
+T27	GENE-Y 30 84	Onchocerca volvulus S-adenosylmethionine decarboxylase
+T17	CHEMICAL 50 70	S-adenosylmethionine
+T1	CHEMICAL 111 131	S-Adenosylmethionine
+T18	GENE-Y 111 145	S-Adenosylmethionine decarboxylase
+T23	GENE-Y 147 155	AdoMetDC
+T14	CHEMICAL 176 185	polyamine
+T5	CHEMICAL 262 272	putrescine
+T22	GENE-Y 278 286	AdoMetDC
+T7	CHEMICAL 368 378	putrescine
+T8	CHEMICAL 414 424	polyamines
+T9	CHEMICAL 425 435	spermidine
+T10	CHEMICAL 440 448	spermine
+T11	CHEMICAL 458 466	diamines
+T12	CHEMICAL 479 489	polyamines
+T13	CHEMICAL 494 503	polyamine
+T24	GENE-N 588 605	nematode AdoMetDC
+T25	GENE-N 836 853	nematode AdoMetDC
+T15	CHEMICAL 885 894	polyamine
+T16	CHEMICAL 974 984	putrescine
+T26	GENE-N 1068 1076	AdoMetDC
+T2	CHEMICAL 1119 1128	polyamine
+T19	GENE-Y 1183 1191	AdoMetDC
+T3	CHEMICAL 1251 1261	putrescine
+T20	GENE-Y 1342 1362	O. volvulus AdoMetDC
+T4	CHEMICAL 1522 1532	putrescine
+T21	GENE-Y 1544 1558	human AdoMetDC
+T6	CHEMICAL 1682 1692	putrescine
+R0	CPR-3 Arg1:T16 Arg2:T26
+R1	CPR-4 Arg1:T2 Arg2:T19
+R2	CPR-3 Arg1:T4 Arg2:T21

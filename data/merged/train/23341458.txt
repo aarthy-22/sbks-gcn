@@ -1,0 +1,12 @@
+The factor VII-activating protease (FSAP) enhances the activity of bone morphogenetic protein-2 (BMP-2).
+Factor VII-activating protease (FSAP) is a circulating protease involved in the pathogenesis of atherosclerosis, calcification, and fibrotic processes.
+To understand how FSAP controls the balance of local growth factors, we have investigated its effect on the regulation of bone morphogenetic proteins (BMPs).
+BMP-2 is produced as a large pro-form and secreted as a mature heparin-binding growth factor after intracellular processing by pro-protein convertases (PCs).
+In this study, we discovered that FSAP enhances the biological activity of mature BMP-2 as well as its pro-form, as shown by osteogenic differentiation of C2C12 myoblasts.
+These findings were complemented by knockdown of FSAP in hepatocytes, which revealed BMP-2 processing by endogenous FSAP.
+N-terminal sequencing indicated that pro-BMP-2 was cleaved by FSAP at the canonical PC cleavage site, giving rise to mature BMP-2 (Arg(282)↓Gln(283)), as well as in the N-terminal heparin binding region of mature BMP-2, generating a truncated mature BMP-2 peptide (Arg(289)↓Lys(290)).
+Similarly, mature BMP-2 was also cleaved to a truncated peptide within its N-terminal region (Arg(289)↓Lys(290)).
+Plasmin exhibited a similar activity, but it was weaker compared with FSAP.
+Thrombin, Factor VIIa, Factor Xa, and activated protein C were not effective.
+These results were further supported by the observation that the mutation of the heparin binding region of BMP-2 inhibited the processing by FSAP but not by PC.
+Thus, the proteolysis and activation of pro-BMP-2 and mature BMP-2 by FSAP can regulate cell differentiation and calcification in vasculature and may explain why polymorphisms in the gene encoding for FSAP are related to vascular diseases.

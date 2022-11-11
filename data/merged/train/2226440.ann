@@ -1,0 +1,41 @@
+T23	CHEMICAL 38 53	L-noradrenaline
+T24	CHEMICAL 81 94	phenylalanine
+T31	GENE-Y 81 110	phenylalanine 4-monooxygenase
+T1	CHEMICAL 112 126	Catecholamines
+T11	CHEMICAL 128 138	adrenaline
+T15	CHEMICAL 140 153	noradrenaline
+T16	CHEMICAL 158 166	dopamine
+T21	CHEMICAL 193 206	phenylalanine
+T30	GENE-Y 193 222	phenylalanine 4-monooxygenase
+T3	CHEMICAL 224 237	phenylalanine
+T25	GENE-Y 224 249	phenylalanine hydroxylase
+T26	GENE-Y 251 263	EC 1.14.16.1
+T17	CHEMICAL 601 614	catecholamine
+T18	CHEMICAL 660 675	L-noradrenaline
+T19	CHEMICAL 679 692	phenylalanine
+T29	GENE-Y 679 704	phenylalanine hydroxylase
+T20	CHEMICAL 899 914	L-noradrenaline
+T22	CHEMICAL 976 991	L-noradrenaline
+T2	CHEMICAL 1168 1183	L-phenylalanine
+T4	CHEMICAL 1254 1270	N-ethylmaleimide
+T5	CHEMICAL 1305 1320	L-phenylalanine
+T6	CHEMICAL 1375 1390	L-noradrenaline
+T7	CHEMICAL 1471 1486	L-noradrenaline
+T8	CHEMICAL 1515 1530	L-phenylalanine
+T9	CHEMICAL 1664 1678	catecholamines
+T10	CHEMICAL 1682 1695	phenylalanine
+T27	GENE-Y 1682 1707	phenylalanine hydroxylase
+T12	CHEMICAL 1815 1823	tyrosine
+T28	GENE-Y 1815 1835	tyrosine hydroxylase
+T13	CHEMICAL 1867 1880	catecholamine
+T14	CHEMICAL 1881 1888	Fe(III)
+R0	CPR-4 Arg1:T1 Arg2:T26
+R1	CPR-4 Arg1:T15 Arg2:T30
+R2	CPR-4 Arg1:T15 Arg2:T25
+R3	CPR-4 Arg1:T16 Arg2:T25
+R4	CPR-2 Arg1:T18 Arg2:T29
+R5	CPR-2 Arg1:T22 Arg2:T29
+R6	CPR-2 Arg1:T9 Arg2:T28
+R7	NOT Arg1:T21 Arg2:T25
+R8	NOT Arg1:T27 Arg2:T13
+R9	NOT Arg1:T28 Arg2:T14

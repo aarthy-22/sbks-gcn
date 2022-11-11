@@ -1,0 +1,11 @@
+T7	CHEMICAL 23 32	miglustat
+T8	GENE 200 218	glucocerebrosidase
+T4	CHEMICAL 680 689	Miglustat
+T5	CHEMICAL 694 705	imino sugar
+T9	GENE 731 756	glucosylceramide synthase
+T6	CHEMICAL 1021 1030	miglustat
+T1	CHEMICAL 1100 1109	miglustat
+T2	CHEMICAL 1252 1261	miglustat
+T3	CHEMICAL 1587 1596	miglustat
+R0	CPR-4 Arg1:T4 Arg2:T9
+R1	CPR-4 Arg1:T5 Arg2:T9

@@ -1,0 +1,9 @@
+Mechanism of the haemostatic effect of ethanolamine oleate in the injection sclerotherapy for oesophageal varices.
+Changes in coagulation and fibrinolysis were investigated in 20 patients with oesophageal varices, who underwent endoscopic injection sclerotherapy (EIS) with 5 per cent ethanolamine oleate (EO), by means of serial determination of plasma fibrinopeptide A (FPA) and fibrinopeptide B beta 15-42 (B beta 15-42).
+One hour after the completion of EIS, the value of FPA was significantly increased to 38.1 +/- 11.1 ng/ml (mean +/- s.e.m.) from a pre-EIS value of 7.1 +/- 1.4 ng/ml (P less than 0.01) and it gradually returned to normal range by 48 h after EIS.
+A very similar change was observed in the value of B beta 15-42 (P less than 0.01).
+These observations indicated that EIS provokes transient activation of coagulation and fibrinolysis.
+In vitro studies, however, revealed that EO inhibits fibrin clot formation because of the Ca2+-chelating ability of its constituent ethanolamine, although oleate or benzyl alcohol exhibited procoagulant activity in FPA formation in vitro.
+Nevertheless, an external application of EO or oleate over decapsulized kidney of rat resulted in a significant accumulation of 125I-labelled fibrin(ogen).
+From these results it was suggested that intravascular injection of EO, which exerts an inhibitory effect on coagulation in vitro, activates the local coagulation system.
+The activation may be accelerated by an acute inflammatory process provoked by oleate, which is supported by such clinical manifestations as mild fever, retrosternal pain leukocytosis and an increase in plasma fibrinogen level which was observed in all during the period.

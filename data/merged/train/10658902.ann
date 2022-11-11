@@ -1,0 +1,56 @@
+T52	GENE-N 26 68	human and rat dihydroorotate dehydrogenase
+T39	CHEMICAL 40 54	dihydroorotate
+T40	CHEMICAL 72 82	atovaquone
+T41	CHEMICAL 84 91	lawsone
+T37	CHEMICAL 105 121	brequinar sodium
+T38	CHEMICAL 126 140	polyporic acid
+T18	CHEMICAL 164 178	dihydroorotate
+T47	GENE-Y 164 192	dihydroorotate dehydrogenase
+T50	GENE-Y 194 206	EC 1.3.99.11
+T8	CHEMICAL 273 294	uridine monophosphate
+T22	CHEMICAL 379 387	isoxazol
+T23	CHEMICAL 389 397	triazine
+T26	CHEMICAL 399 415	cinchoninic acid
+T27	CHEMICAL 420 436	(naphtho)quinone
+T28	CHEMICAL 642 656	dihydroorotate
+T49	GENE-Y 642 670	dihydroorotate dehydrogenase
+T51	GENE-N 757 799	human and rat dihydroorotate dehydrogenase
+T29	CHEMICAL 771 785	dihydroorotate
+T30	CHEMICAL 818 836	1,4-Naphthoquinone
+T31	CHEMICAL 838 864	5,8-hydroxy-naphthoquinone
+T32	CHEMICAL 891 897	juglon
+T33	CHEMICAL 899 908	plumbagin
+T34	CHEMICAL 913 927	polyporic acid
+T35	CHEMICAL 929 936	quinone
+T36	CHEMICAL 1125 1132	lawsone
+T1	CHEMICAL 1193 1213	dichloroally-lawsone
+T2	CHEMICAL 1230 1238	lapachol
+T3	CHEMICAL 1259 1269	atovaquone
+T4	CHEMICAL 1314 1321	quinone
+T5	CHEMICAL 1342 1356	dihydroorotate
+T42	GENE-Y 1342 1370	dihydroorotate dehydrogenase
+T6	CHEMICAL 1372 1382	atovaquone
+T7	CHEMICAL 1406 1426	dichloroally-lawsone
+T43	GENE-Y 1485 1519	human dihydroorotate dehydrogenase
+T9	CHEMICAL 1491 1505	dihydroorotate
+T10	CHEMICAL 1521 1531	Atovaquone
+T11	CHEMICAL 1597 1618	Dichloroally]-lawsone
+T44	GENE-N 1755 1794	mammalian dihydroorotate dehydrogenases
+T12	CHEMICAL 1765 1779	dihydroorotate
+T13	CHEMICAL 1815 1824	brequinar
+T45	GENE-Y 1887 1921	human dihydroorotate dehydrogenase
+T14	CHEMICAL 1893 1907	dihydroorotate
+T46	GENE-N 1976 2017	human and rat dihyroorotate dehydrogenase
+T15	CHEMICAL 1990 2003	dihyroorotate
+T16	CHEMICAL 2039 2047	isoxazol
+T17	CHEMICAL 2052 2068	cinchoninic acid
+T19	CHEMICAL 2437 2451	dihydroorotate
+T20	CHEMICAL 2453 2463	atovaquone
+T48	GENE-Y 2498 2532	human dihydroorotate dehydrogenase
+T21	CHEMICAL 2504 2518	dihydroorotate
+T24	CHEMICAL 2639 2653	polyporic acid
+T25	CHEMICAL 2665 2672	quinone
+R0	CPR-9 Arg1:T8 Arg2:T47
+R1	CPR-4 Arg1:T17 Arg2:T46
+R2	NOT Arg1:T4 Arg2:T43
+R3	NOT Arg1:T42 Arg2:T9

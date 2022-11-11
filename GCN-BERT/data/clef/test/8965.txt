@@ -1,0 +1,2 @@
+Preparation Example 2-4 : Preparation of 1-(6-bromo-3-methoxy-pyridin-2-yl)-3-dimethylamino-propenone (LX)
+1-(6-Bromo-3-methoxy-pyridin-2-yl)-ethanone (3.18 g, 0.014 mol) was dissolved in N,N-dimethylformamide dimethyl acetal (DMFDMA) (18.53 ml) and the solution was stirred with reflux for 18 hrs. After completion of the reaction, N,N-dimethylformamide dimethyl acetal (DMFDMA) was removed by drying under reduced pressure, and the resulting solution was recrystallized with ethylacetate/hexane to give the brown title compound (3.55 g, 90 %).

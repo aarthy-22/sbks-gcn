@@ -1,0 +1,12 @@
+Kinetic mechanism of quinone oxidoreductase 2 and its inhibition by the antimalarial quinolines.
+Quinone oxidoreductase 2 (QR2) purified from human red blood cells was recently shown to be a potential target of the quinoline antimalarial compounds [Graves et al., (2002) Mol.
+Pharmacol. 62, 1364].
+QR2 catalyzes the two-electron reduction of menadione via the oxidation of N-alkylated or N-ribosylated nicotinamides.
+To investigate the mechanism and consequences of inhibition of QR2 by the quinolines further, we have used steady-state and transient-state kinetics to define the mechanism of QR2.
+Importantly, we have shown that QR2 when isolated from an overproducing strain of E. coli is kinetically equivalent to the enzyme from the native human red blood cell source.
+We observe ping-pong kinetics consistent with one substrate/inhibitor binding site that shows selectivity for the oxidation state of the FAD cofactor, suggesting that selective inhibition of the liver versus red blood cell forms of malaria may be possible.
+The reductant N-methyldihydronicotinamide and the inhibitor primaquine bind exclusively to the oxidized enzyme.
+In contrast, the inhibitors quinacrine and chloroquine bind exclusively to the reduced enzyme.
+The quinone substrate menadione, on the other hand, binds nonspecifically to both forms of the enzyme.
+Single-turnover kinetics of the reductive half-reaction are chemically and kinetically competent and confirm the inhibitor selectivity seen in the steady-state experiments.
+Our studies shed light on the possible in vivo potency of the quinolines and provide a foundation for future studies aimed at creating more potent QR2 inhibitors and at understanding the physiological significance of QR2.

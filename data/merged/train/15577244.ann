@@ -1,0 +1,9 @@
+T8	GENE-Y 0 10	Tyrosinase
+T2	CHEMICAL 116 132	coumarinolignoid
+T1	CHEMICAL 133 154	8'-epi-cleomiscosin A
+T5	CHEMICAL 191 258	8-O-beta-D-glucopyranosyl-6-hydroxy-2-methyl-4H-1-benzopyrane-4-one
+T6	GENE-Y 406 416	Tyrosinase
+T7	GENE-Y 694 704	tyrosinase
+T3	CHEMICAL 756 766	kojic acid
+T4	CHEMICAL 791 801	L-mimosine
+R0	CPR-4 Arg1:T3 Arg2:T7

@@ -1,0 +1,5 @@
+[Construction of the flavinogenic yeast Candida famata strains with high riboflavin kinase activity using gene engineering].
+The recombinant strains of the flavinogenic yeast Candida famata, which contain the DNA fragment consisting of the FMN1 gene (encoding the riboflavin kinase, enzyme that converts riboflavin to flavinmononucleotide) driven by the strong promoters (the regulated RIB1 or constitutive TEF1 promoter) were isolated.
+Riboflavin kinase activity in the isolated transformants was tested.
+The 6-8-fold increase of the riboflavin kinase activity was shown in the recombinant strains containing the integrated Debaryomyces hansenii FMN1 gene under the strong constitutive TEF1 promoter.
+The recombinant strains can be used for the following construction of flavinmononucleotide overproducers.

@@ -1,0 +1,12 @@
+The role of the carbohydrate response element-binding protein in male fructose-fed rats.
+By 2030, nearly half of Americans will have nonalcoholic fatty liver disease.
+In part, this epidemic is fueled by the increasing consumption of caloric sweeteners coupled with an innate capacity to convert sugar into fat via hepatic de novo lipogenesis.
+In addition to serving as substrates, monosaccharides also increase the expression of key enzymes involved in de novo lipogenesis via the carbohydrate response element-binding protein (ChREBP).
+To determine whether ChREBP is a potential therapeutic target, we decreased hepatic expression of ChREBP with a specific antisense oligonucleotide (ASO) in male Sprague-Dawley rats fed either a high-fructose or high-fat diet.
+ChREBP ASO treatment decreased plasma triglyceride concentrations compared with control ASO treatment in both diet groups.
+The reduction was more pronounced in the fructose-fed group and attributed to decreased hepatic expression of ACC2, FAS, SCD1, and MTTP and a decrease in the rate of hepatic triglyceride secretion.
+This was associated with an increase in insulin-stimulated peripheral glucose uptake, as assessed by the hyperinsulinemic-euglycemic clamp.
+In contrast, ChREBP ASO did not alter hepatic lipid content or hepatic insulin sensitivity.
+Interestingly, fructose-fed rats treated with ChREBP ASO had increased plasma uric acid, alanine transaminase, and aspartate aminotransferase concentrations.
+This was associated with decreased expression of fructose aldolase and fructokinase, reminiscent of inherited disorders of fructose metabolism.
+In summary, these studies suggest that targeting ChREBP may prevent fructose-induced hypertriglyceridemia but without the improvements in hepatic steatosis and hepatic insulin responsiveness.

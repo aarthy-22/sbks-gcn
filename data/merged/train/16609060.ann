@@ -1,0 +1,24 @@
+T1	CHEMICAL 199 210	Dacarbazine
+T2	CHEMICAL 680 689	sorafenib
+T12	GENE-Y 694 698	BRAF
+T13	GENE-N 700 719	farnesyltransferase
+T14	GENE-Y 735 739	NRAS
+T3	CHEMICAL 741 751	PD-0325901
+T15	GENE-N 756 788	mitogen-activated protein kinase
+T16	GENE-N 789 833	extracellular signal-regulated kinase kinase
+T4	CHEMICAL 835 844	rapamycin
+T17	GENE-Y 859 888	mammalian target of rapamycin
+T5	CHEMICAL 879 888	rapamycin
+T18	GENE-Y 921 955	vascular endothelial growth factor
+T19	GENE-N 996 1002	kinase
+T20	GENE-N 1039 1072	fibroblast growth factor receptor
+T6	GENE-Y 1074 1079	c-kit
+T7	GENE-N 1085 1124	platelet-derived growth factor receptor
+T8	GENE-Y 1155 1160	c-met
+T9	GENE-N 1165 1168	Akt
+T10	GENE-N 1287 1297	chaperones
+T11	GENE-N 1302 1313	proteasomes
+R0	CPR-4 Arg1:T3 Arg2:T15
+R1	NOT Arg1:T12 Arg2:T5
+R2	NOT Arg1:T13 Arg2:T5
+R3	NOT Arg1:T15 Arg2:T5

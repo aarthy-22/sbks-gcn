@@ -1,0 +1,24 @@
+T11	CHEMICAL 12 20	retinoid
+T22	GENE-N 12 31	retinoid X receptor
+T12	CHEMICAL 40 50	bexarotene
+T13	CHEMICAL 52 59	LGD1069
+T14	CHEMICAL 61 70	targretin
+T6	CHEMICAL 175 183	retinoid
+T21	GENE-N 175 194	retinoid X receptor
+T9	CHEMICAL 203 213	bexarotene
+T4	CHEMICAL 332 342	bexarotene
+T5	CHEMICAL 480 490	bexarotene
+T18	GENE-Y 534 568	vascular endothelial growth factor
+T19	GENE-Y 570 593	epidermal growth factor
+T20	GENE-N 604 628	fibroblast growth factor
+T7	CHEMICAL 811 821	bexarotene
+T8	CHEMICAL 844 854	bexarotene
+T10	CHEMICAL 948 958	bexarotene
+T1	CHEMICAL 1227 1237	bexarotene
+T15	GENE-N 1288 1313	matrix metalloproteinases
+T16	GENE-N 1352 1377	matrix metalloproteinases
+T2	CHEMICAL 1394 1404	bexarotene
+T17	GENE-Y 1506 1554	peroxisome proliferator-activated receptor gamma
+T3	CHEMICAL 1600 1610	bexarotene
+R0	CPR-5 Arg1:T14 Arg2:T22
+R1	NOT Arg1:T5 Arg2:T20

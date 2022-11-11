@@ -1,0 +1,12 @@
+T1	EXAMPLE_LABEL 5 6	9
+T2	REACTION_PRODUCT 7 76	4-Methyl-1-(2,2,2-trifluoroethyl)-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T3	STARTING_MATERIAL 77 139	4-(Methylamino)-2-(2,2,2-trifluoroethyl)pyrazole-5-carboxamide
+T4	STARTING_MATERIAL 164 187	1,1-carbonyldiimidazole
+T5	SOLVENT 226 247	N,N-dimethylformamide
+T6	TEMPERATURE 287 292	140°C
+T7	TIME 297 303	1 hour
+T8	TEMPERATURE 322 338	room temperature
+T9	OTHER_COMPOUND 340 345	water
+T10	REACTION_PRODUCT 471 540	4-methyl-1-(2,2,2-trifluoroethyl)-pyrazolo[4,3-d]pyrimidine-5,7-dione
+T11	YIELD_OTHER 542 548	1.80 g
+T12	YIELD_PERCENT 584 587	60%

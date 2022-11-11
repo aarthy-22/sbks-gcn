@@ -1,0 +1,10 @@
+T5	CHEMICAL 17 25	dopamine
+T9	GENE 17 37	dopamine transporter
+T10	GENE 39 45	SLC6A3
+T6	CHEMICAL 88 101	D-amphetamine
+T2	CHEMICAL 385 398	d-amphetamine
+T3	CHEMICAL 429 437	dopamine
+T7	GENE 429 449	dopamine transporter
+T8	GENE 451 457	SLC6A3
+T4	CHEMICAL 662 675	d-amphetamine
+T1	CHEMICAL 1378 1389	amphetamine

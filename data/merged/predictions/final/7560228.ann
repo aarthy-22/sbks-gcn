@@ -1,0 +1,29 @@
+T18	CHEMICAL 14 23	triclosan
+T1	CHEMICAL 63 72	Triclosan
+T3	CHEMICAL 74 115	2,4,4',-trichloro-2'-hydroxydiphenylether
+T10	CHEMICAL 261 270	triclosan
+T11	CHEMICAL 575 584	triclosan
+T12	CHEMICAL 719 728	triclosan
+T13	CHEMICAL 769 785	arachidonic acid
+T24	GENE 798 815	cyclo-oxygenase 1
+T25	GENE 817 834	cyclo-oxygenase 2
+T26	GENE 836 850	5-lipoxygenase
+T27	GENE 855 870	15-lipoxygenase
+T14	CHEMICAL 957 971	prostaglandins
+T15	CHEMICAL 973 985	leukotrienes
+T16	CHEMICAL 990 998	lipoxins
+T17	CHEMICAL 1000 1009	Triclosan
+T28	GENE 1025 1041	cyclooxygenase 1
+T29	GENE 1046 1063	cyclo-oxygenase 2
+T2	CHEMICAL 1125 1134	Triclosan
+T19	GENE 1150 1164	5-lipoxygenase
+T20	GENE 1197 1212	15-lipoxygenase
+T4	CHEMICAL 1240 1249	triclosan
+T5	CHEMICAL 1285 1294	triclosan
+T21	GENE 1331 1346	cyclo-oxygenase
+T22	GENE 1351 1363	lipoxygenase
+T6	CHEMICAL 1376 1392	arachidonic acid
+T7	CHEMICAL 1474 1483	triclosan
+T23	GENE 1494 1503	IL-1 beta
+T8	CHEMICAL 1512 1528	prostaglandin E2
+T9	CHEMICAL 1687 1696	triclosan

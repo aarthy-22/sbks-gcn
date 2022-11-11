@@ -1,0 +1,9 @@
+Effects of clopidogrel and clarithromycin on the disposition of sibutramine and its active metabolites M1 and M2 in relation to CYP2B6*6 polymorphism.
+Plasma concentrations of sibutramine and its two active metabolites after single oral dose of sibutramine were determined in Korean healthy male subjects with different CYP2B6 genotypes (CYP2B6*1/*1, *1/*6 and *6/*6), either alone or after four-day pretreatment with clopidogrel or clarithromycin.
+The pretreatment with clopidogrel and clarithromycin raised the mean area under the concentration-time curve (AUC) of sibutramine by 163% and 255%, respectively.
+Co-administration of clarithromycin, combined with CYP2B6*6/*6 genotype, led to highest concentration of sibutramine.
+The molar sum AUC (M1 + M2) was raised by 35% in the clopidogrel phase but not significantly affected by clarithromycin or CYP2B6 genotype.
+The CYP2B6*6/*6 subjects in the clopidogrel phase showed the highest molar AUC (M1 + M2) among three genotype groups throughout the three phases.
+The exposure of sibutramine and its metabolites seemed to be associated with the CYP2B6 genotype.
+The treatment of clopidogrel significantly altered the disposition of active metabolites as well as sibutramine, but clarithromycin only affects the disposition of sibutramine.
+These results suggest that the perturbation of CYP2B6 activity may contribute to the inter-individual variation of sibutramine drug responses although the clinical relevance is remained to be established.

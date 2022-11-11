@@ -1,0 +1,7 @@
+A computational study of water and CO migration sites and channels inside myoglobin.
+Pathways are computed for transport of H2O and CO in myoglobin (Mb), using the single sweep and zero-temperature string methods in a fully atomistic, explicitly solvated model system.
+Our predictions of sites and barriers in the pathways for CO transport agree with previous studies.
+For H2O, we predict a binding site in the distal pocket (DP), in agreement with crystallographic observations, and another one close to Leu 29 which explains the importance of this residue in controlling the pocket's hydrophobicity, as well as disordered minima in the largely apolar xenon cavities.
+In particular, H2O can occupy and transition among the xenon cavities, Xe4, Xe2, and Xe3.
+Our results support the hypothesis that the thermodynamically most favorable entry/exit portal for H2O is the so-called histidine gate (HG), the same as for CO.
+This result, along with the observation of water occupation of both DP and apolar Xe cavities, suggest that water and small gas molecules like CO compete for access to the protein interior, and therefore models of gas molecule transport within proteins should also explicitly consider water transport.

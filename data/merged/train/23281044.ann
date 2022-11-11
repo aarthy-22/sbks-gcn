@@ -1,0 +1,14 @@
+T9	CHEMICAL 13 36	benzo[e]pyridoindolones
+T14	GENE-N 61 75	aurora kinases
+T10	GENE-N 77 91	Aurora kinases
+T1	CHEMICAL 209 230	benzo[e]pyridoindoles
+T2	CHEMICAL 232 236	BePI
+T12	GENE-N 250 263	aurora kinase
+T3	CHEMICAL 379 383	BePI
+T4	CHEMICAL 546 562	Tetracyclic BePI
+T5	CHEMICAL 646 649	oxo
+T6	CHEMICAL 663 671	pyridine
+T13	GENE-Y 706 721	aurora kinase B
+T7	CHEMICAL 751 774	benzo[e]pyridoindolones
+T8	CHEMICAL 931 935	BePI
+T11	GENE-N 1240 1253	aurora kinase

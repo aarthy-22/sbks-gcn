@@ -1,0 +1,11 @@
+Leptin fragments induce Fos immunoreactivity in rat hypothalamus.
+Leptin presents an important role in energy balance and neuroendocrine control in mammals.
+In an attempt to identify regions of the leptin molecule responsible for its bioactivity, we have synthesized six peptides based on the protein three-dimensional structure.
+Fragments were synthesized by the solid-phase methodology, purified by reverse-phase high-performance liquid chromatography (RP-HPLC), and characterized by liquid chromatography-electrospray ionization mass spectrometry (LC/ESI-MS).
+They were injected intravenously and their ability to induce Fos immunoreactivity (Fos-ir) in rat hypothalamus was compared with that of the recombinant human leptin and saline.
+Fragment Ac-[Ser117]Lep116-140-NH2 (V) induced Fos-ir in hypothalamic nuclei that express leptin receptor long form.
+No similar ability was observed for the other five fragments.
+To investigate whether Fos-ir was induced in the same neuronal group activated by leptin, we proceeded with a dual-label immunohistochemistry for cocaine- and amphetamine-regulated transcript (CART), a neuropeptide related to leptin action in rat hypothalamus.
+We found that Ac-[Ser117]Lep116-140-NH2 (V) differentially activates CART neurons through the rostrocaudal extension of the arcuate nucleus.
+These results suggest that this fragment acts in the same group of neurons that mediate leptin response.
+This approach may offer the basis for the development of leptin-related compounds, having potential application in human or veterinary medicine.

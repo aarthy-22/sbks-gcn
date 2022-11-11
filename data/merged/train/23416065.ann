@@ -1,0 +1,34 @@
+T27	GENE-Y 0 19	Human serum albumin
+T17	CHEMICAL 38 48	diflunisal
+T23	GENE-Y 62 78	cyclooxygenase-2
+T5	CHEMICAL 90 100	diflunisal
+T2	CHEMICAL 183 193	diflunisal
+T3	CHEMICAL 254 264	diflunisal
+T19	GENE-Y 283 302	human serum albumin
+T20	GENE-Y 304 307	HSA
+T4	CHEMICAL 344 354	diflunisal
+T21	GENE-Y 358 365	albumin
+T6	CHEMICAL 407 423	acetyldiflunisal
+T22	GENE-Y 450 453	HSA
+T7	CHEMICAL 469 479	fatty acid
+T8	CHEMICAL 484 500	acetyldiflunisal
+T9	CHEMICAL 515 531	acetyldiflunisal
+T24	GENE-N 545 558	IIA subdomain
+T10	CHEMICAL 596 602	lysine
+T11	CHEMICAL 641 657	acetyldiflunisal
+T12	CHEMICAL 669 672	Lys
+T25	GENE-Y 681 699	acetylated albumin
+T13	CHEMICAL 740 750	diflunisal
+T14	CHEMICAL 830 840	diflunisal
+T26	GENE-Y 870 888	acetylated albumin
+T15	CHEMICAL 937 953	acetyldiflunisal
+T16	CHEMICAL 966 976	diflunisal
+T18	GENE-Y 1065 1068	HSA
+T1	CHEMICAL 1136 1146	diflunisal
+R0	CPR-2 Arg1:T4 Arg2:T21
+R1	CPR-2 Arg1:T7 Arg2:T22
+R2	CPR-2 Arg1:T9 Arg2:T24
+R3	NOT Arg1:T2 Arg2:T19
+R4	NOT Arg1:T25 Arg2:T13
+R5	NOT Arg1:T14 Arg2:T26
+R6	NOT Arg1:T18 Arg2:T1

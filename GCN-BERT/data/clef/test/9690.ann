@@ -1,0 +1,12 @@
+T1	EXAMPLE_LABEL 5 6	5
+T2	REACTION_PRODUCT 23 95	4-Amino-5-cyano-6-(4-oxo-2-phenyl-4H-chromen-3-yl) methylaminopyrimidine
+T3	STARTING_MATERIAL 96 149	3-Aminomethyl-2-phenyl-4H-chromen-4-one hydrochloride
+T4	STARTING_MATERIAL 168 202	4-amino-5-cyano-6-chloropyrimidine
+T5	REAGENT_CATALYST 224 243	potassium carbonate
+T6	SOLVENT 287 290	DMF
+T7	TEMPERATURE 306 322	room temperature
+T8	OTHER_COMPOUND 399 404	Water
+T9	OTHER_COMPOUND 486 499	ethyl acetate
+T10	OTHER_COMPOUND 522 536	sodium sulfate
+T11	YIELD_OTHER 624 628	12mg
+T12	YIELD_PERCENT 654 659	11.6%

@@ -1,0 +1,10 @@
+GPR109A (PUMA-G/HM74A) mediates nicotinic acid-induced flushing.
+Nicotinic acid (niacin) has long been used as an antidyslipidemic drug.
+Its special profile of actions, especially the rise in HDL-cholesterol levels induced by nicotinic acid, is unique among the currently available pharmacological tools to treat lipid disorders.
+Recently, a G-protein-coupled receptor, termed GPR109A (HM74A in humans, PUMA-G in mice), was described and shown to mediate the nicotinic acid-induced antilipolytic effects in adipocytes.
+One of the major problems of the pharmacotherapeutical use of nicotinic acid is a strong flushing response.
+This side effect, although harmless, strongly affects patient compliance.
+In the present study, we show that mice lacking PUMA-G did not show nicotinic acid-induced flushing.
+In addition, flushing in response to nicotinic acid was also abrogated in the absence of cyclooxygenase type 1, and mice lacking prostaglandin D(2) (PGD(2)) and prostaglandin E(2) (PGE(2)) receptors had reduced flushing responses.
+The mouse orthologue of GPR109A, PUMA-G, is highly expressed in macrophages and other immune cells, and transplantation of wild-type bone marrow into irradiated PUMA-G-deficient mice restored the nicotinic acid-induced flushing response.
+Our data clearly indicate that GPR109A mediates nicotinic acid-induced flushing and that this effect involves release of PGE(2) and PGD(2), most likely from immune cells of the skin.

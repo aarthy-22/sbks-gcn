@@ -1,0 +1,13 @@
+T12	GENE-Y 68 118	signal transducer and activator of transcription 3
+T11	GENE-Y 120 125	STAT3
+T3	GENE-Y 185 235	signal transducer and activator of transcription 3
+T10	GENE-Y 237 242	STAT3
+T4	GENE-Y 364 369	STAT3
+T5	GENE-Y 453 458	STAT3
+T6	GENE-Y 583 587	IL-6
+T7	GENE-Y 588 593	STAT3
+T1	CHEMICAL 667 670	Tyr
+T8	GENE-Y 693 698	STAT3
+T2	CHEMICAL 737 745	tyrosine
+T9	GENE-N 737 753	tyrosine kinases
+R0	NOT Arg1:T6 Arg2:T2

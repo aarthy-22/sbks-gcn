@@ -1,0 +1,22 @@
+T6	CHEMICAL 0 7	Mercury
+T19	GENE-Y 34 50	cyclooxygenase-2
+T20	GENE-Y 55 86	inducible nitric oxide synthase
+T7	CHEMICAL 65 77	nitric oxide
+T8	GENE-N 88 105	Nuclear factor-κB
+T10	GENE-N 107 112	NF-κB
+T9	GENE-N 248 253	NF-κB
+T11	GENE-N 322 331	cytokines
+T12	GENE-Y 333 349	cyclooxygenase-2
+T13	GENE-Y 351 356	COX-2
+T14	GENE-Y 363 394	inducible nitric oxide synthase
+T1	CHEMICAL 373 385	nitric oxide
+T15	GENE-Y 396 400	iNOS
+T2	CHEMICAL 428 435	mercury
+T3	CHEMICAL 483 490	mercury
+T4	CHEMICAL 737 744	mercury
+T16	GENE-N 759 764	NF-κB
+T17	GENE-Y 816 821	COX-2
+T18	GENE-Y 826 830	iNOS
+T5	CHEMICAL 857 864	mercury
+R0	CPR-3 Arg1:T4 Arg2:T16
+R1	NOT Arg1:T13 Arg2:T1

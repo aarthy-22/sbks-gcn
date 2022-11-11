@@ -1,0 +1,13 @@
+Distinct pharmacological properties and distribution in neurons and endocrine cells of two isoforms of the human vesicular monoamine transporter.
+A second isoform of the human vesicular monoamine transporter (hVMAT) has been cloned from a pheochromocytoma cDNA library.
+The contribution of the two transporter isoforms to monoamine storage in human neuroendocrine tissues was examined with isoform-specific polyclonal antibodies against hVMAT1 and hVMAT2.
+Central, peripheral, and enteric neurons express only VMAT2.
+VMAT1 is expressed exclusively in neuroendocrine, including chromaffin and enterochromaffin, cells.
+VMAT1 and VMAT2 are coexpressed in all chromaffin cells of the adrenal medulla.
+VMAT2 alone is expressed in histamine-storing enterochromaffin-like cells of the oxyntic mucosa of the stomach.
+The transport characteristics and pharmacology of each VMAT isoform have been directly compared after expression in digitonin-permeabilized fibroblastic (CV-1) cells, providing information about substrate feature recognition by each transporter and the role of vesicular monoamine storage in the mechanism of action of psychopharmacologic and neurotoxic agents in human.
+Serotonin has a similar affinity for both transporters.
+Catecholamines exhibit a 3-fold higher affinity, and histamine exhibits a 30-fold higher affinity, for VMAT2.
+Reserpine and ketanserin are slightly more potent inhibitors of VMAT2-mediated transport than of VMAT1-mediated transport, whereas tetrabenazine binds to and inhibits only VMAT2.
+N-methyl-4-phenylpyridinium, phenylethylamine, amphetamine, and methylenedioxymethamphetamine are all more potent inhibitors of VMAT2 than of VMAT1, whereas fenfluramine is a more potent inhibitor of VMAT1-mediated monamine transport than of VMAT2-mediated monoamine transport.
+The unique distributions of hVMAT1 and hVMAT2 provide new markers for multiple neuroendocrine lineages, and examination of their transport properties provides mechanistic insights into the pharmacology and physiology of amine storage in cardiovascular, endocrine, and central nervous system function.

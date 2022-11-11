@@ -1,0 +1,3 @@
+Example 32
+N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-5'-((tetrahydro-2H-pyran-4-yl)amino)-[2,3'-bipyridine]-6-carboxamide (I-30)
+An NMP (1.5 mL) solution of 5'-fluoro-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide (30 mg, 0.08 mmol) and tetrahydro-2H-pyran-4-amine 40 mg, 0.4 mmol) was heated at 150° C. for 19 days until 50% of desired product was formed, as monitored by LC-MS. Solvent was removed in vacuo, after silica gel chromatography and further trituration from Hexanes-EtOAc, title compound was obtained as a light beige color solid: 5 mg (14% yield);

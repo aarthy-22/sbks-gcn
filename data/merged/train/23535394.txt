@@ -1,0 +1,10 @@
+An overview on the marine neurotoxin, saxitoxin: genetics, molecular targets, methods of detection and ecological functions.
+Marine neurotoxins are natural products produced by phytoplankton and select species of invertebrates and fish.
+These compounds interact with voltage-gated sodium, potassium and calcium channels and modulate the flux of these ions into various cell types.
+This review provides a summary of marine neurotoxins, including their structures, molecular targets and pharmacologies.
+Saxitoxin and its derivatives, collectively referred to as paralytic shellfish toxins (PSTs), are unique among neurotoxins in that they are found in both marine and freshwater environments by organisms inhabiting two kingdoms of life.
+Prokaryotic cyanobacteria are responsible for PST production in freshwater systems, while eukaryotic dinoflagellates are the main producers in marine waters.
+Bioaccumulation by filter-feeding bivalves and fish and subsequent transfer through the food web results in the potentially fatal human illnesses, paralytic shellfish poisoning and saxitoxin pufferfish poisoning.
+These illnesses are a result of saxitoxin's ability to bind to the voltage-gated sodium channel, blocking the passage of nerve impulses and leading to death via respiratory paralysis.
+Recent advances in saxitoxin research are discussed, including the molecular biology of toxin synthesis, new protein targets, association with metal-binding motifs and methods of detection.
+The eco-evolutionary role(s) PSTs may serve for phytoplankton species that produce them are also discussed.

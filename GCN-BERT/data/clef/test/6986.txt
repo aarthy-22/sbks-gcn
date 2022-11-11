@@ -1,0 +1,3 @@
+Example 340
+1-(2-Methoxyethyl)-5-methyl-6-[(2-oxo-2,3-dihydro-1H-imidazol-1-yl)methyl]-3-(2,2,2-trifluoroethyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+Analogously to the process described in Ex. 339, 454 mg (1.03 mmol) of the compound from Ex. 409A gave 140 mg (32% of theory) of the title compound It was possible here to dispense with the purification by means of preparative HPLC; the product precipitated on dilution with water, after being filtered off with suction, was stirred with a little acetonitrile at RT, filtered off with suction again and dried.

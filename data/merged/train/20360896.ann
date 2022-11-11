@@ -1,0 +1,9 @@
+T5	CHEMICAL 243 252	tamoxifen
+T6	CHEMICAL 607 616	tamoxifen
+T9	GENE-Y 621 630	aromatase
+T7	GENE-Y 1171 1180	aromatase
+T1	CHEMICAL 1193 1202	letrozole
+T2	CHEMICAL 1204 1215	anastrozole
+T3	CHEMICAL 1217 1227	exemestane
+T4	CHEMICAL 1327 1336	tamoxifen
+T8	GENE-Y 1355 1372	estrogen receptor

@@ -1,0 +1,20 @@
+T1	EXAMPLE_LABEL 0 4	42.2
+T2	REACTION_PRODUCT 6 77	1-benzhydryl-3-methyl-5-(6-methyl-pyridin-2-yl)-1H-pyrimidine-2,4-dione
+T3	REAGENT_CATALYST 96 100	iron
+T4	STARTING_MATERIAL 148 225	1-benzhydryl-3-methyl-5-(6-methyl-1-oxy-pyridin-2-yl)-1H-pyrimidine-2,4-dione
+T5	REAGENT_CATALYST 239 250	acetic acid
+T6	TEMPERATURE 286 291	70° C
+T7	TIME 314 321	4 hours
+T8	OTHER_COMPOUND 341 347	Celite
+T9	OTHER_COMPOUND 401 408	aqueous
+T10	OTHER_COMPOUND 421 446	sodium hydrogen carbonate
+T11	OTHER_COMPOUND 478 491	ethyl acetate
+T12	OTHER_COMPOUND 538 545	aqueous
+T13	OTHER_COMPOUND 558 583	sodium hydrogen carbonate
+T14	OTHER_COMPOUND 595 600	water
+T15	OTHER_COMPOUND 622 629	aqueous
+T16	OTHER_COMPOUND 642 657	sodium chloride
+T17	OTHER_COMPOUND 670 688	magnesium sulphate
+T18	YIELD_OTHER 730 736	120 mg
+T19	YIELD_PERCENT 738 742	100%
+T20	REACTION_PRODUCT 747 818	1-benzhydryl-3-methyl-5-(6-methyl-pyridin-2-yl)-1H-pyrimidine-2,4-dione

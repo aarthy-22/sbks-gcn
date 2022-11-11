@@ -1,0 +1,7 @@
+Alcohol modulates expression of DNA methyltranferases and methyl CpG-/CpG domain-binding proteins in murine embryonic fibroblasts.
+Fetal alcohol syndrome (FAS), presenting with a constellation of neuro-/psychological, craniofacial and cardiac abnormalities, occurs frequently in offspring of women who consume alcohol during pregnancy, with a prevalence of 1-3 per 1000 livebirths.
+The present study was designed to test the hypothesis that alcohol alters global DNA methylation, and modulates expression of the DNA methyltransferases (DNMTs) and various methyl CpG-binding proteins.
+Murine embryonic fibroblasts (MEFs), utilized as an in vitro embryonic model system, demonstrated ∼5% reduction in global DNA methylation following exposure to 200mM ethanol.
+In addition, ethanol induced degradation of DNA methyltransferases (DNMT-1, DNMT-3a, and DNMT-3b), as well as the methyl CpG-binding proteins (MeCP-2, MBD-2 and MBD-3), in MEF cells by the proteasomal pathway.
+Such degradation could be completely rescued by pretreatment of MEF cells with the proteasomal inhibitor, MG-132.
+These data support a potential epigenetic molecular mechanism underlying the pathogenesis of FAS during mammalian development.

@@ -1,0 +1,16 @@
+A proposed proton shuttle mechanism for saccharopine dehydrogenase from Saccharomyces cerevisiae.
+Saccharopine dehydrogenase [N6-(glutaryl-2)-L-lysine:NAD oxidoreductase (L-lysine forming)] catalyzes the final step in the alpha-aminoadipate pathway for lysine biosynthesis.
+It catalyzes the reversible pyridine nucleotide-dependent oxidative deamination of saccharopine to generate alpha-Kg and lysine using NAD+ as an oxidizing agent.
+The proton shuttle chemical mechanism is proposed on the basis of the pH dependence of kinetic parameters, dissociation constants for competitive inhibitors, and isotope effects.
+In the direction of lysine formation, once NAD+ and saccharopine bind, a group with a pKa of 6.2 accepts a proton from the secondary amine of saccharopine as it is oxidized.
+This protonated general base then does not participate in the reaction again until lysine is formed at the completion of the reaction.
+A general base with a pKa of 7.2 accepts a proton from H2O as it attacks the Schiff base carbon of saccharopine to form the carbinolamine intermediate.
+The same residue then serves as a general acid and donates a proton to the carbinolamine nitrogen to give the protonated carbinolamine.
+Collapse of the carbinolamine is then facilitated by the same group accepting a proton from the carbinolamine hydroxyl to generate alpha-Kg and lysine.
+The amine nitrogen is then protonated by the group that originally accepted a proton from the secondary amine of saccharopine, and products are released.
+In the reverse reaction direction, finite primary deuterium kinetic isotope effects were observed for all parameters with the exception of V2/K(NADH), consistent with a steady-state random mechanism and indicative of a contribution from hydride transfer to rate limitation.
+The pH dependence, as determined from the primary isotope effect on DV2 and D(V2/K(Lys)), suggests that a step other than hydride transfer becomes rate-limiting as the pH is increased.
+This step is likely protonation/deprotonation of the carbinolamine nitrogen formed as an intermediate in imine hydrolysis.
+The observed solvent isotope effect indicates that proton transfer also contributes to rate limitation.
+A concerted proton and hydride transfer is suggested by multiple substrate/solvent isotope effects, as well as a proton transfer in another step, likely hydrolysis of the carbinolamine.
+In agreement, dome-shaped proton inventories are observed for V2 and V2/K(Lys), suggesting that proton transfer exists in at least two sequential transition states.

@@ -1,0 +1,11 @@
+Neurochemical effects of the monoamine oxidase inhibitor phenelzine on brain GABA and alanine: A comparison with vigabatrin.
+PURPOSE: To compare phenelzine (PLZ), an antidepressant drug with anxiolytic properties which inhibits monoamine oxidase (MAO) but also elevates rat brain levels of the amino acids ?
+-aminobutyric acid (GABA) and alanine (ALA), with vigabatrin (VIG), an anticonvulsant which elevates brain GABA by inhibition of GABA transaminase (GABA-T), with regard to their actions on brain levels of GABA and ALA and on activities of MAO, GABA-T and ALA transaminase (ALA-T).
+METHODS: Male rats were administered PLZ (10 mg/kg) or VIG (1,000 mg/kg) i.p., and the rats were euthanized 4 hours later and the brains removed for analysis of levels of GABA and ALA (by electron capture gas chromatography after derivatization) and activities of MAO, GABA-T and ALA-T (radiochemical assays).
+RESULTS: Both PLZ and VIG inhibited GABA-T and elevated GABA levels.
+Only PLZ inhibited MAO and ALA-T and elevated ALA levels.
+The effects of PLZ on both amino acids and their transaminases were blocked by pre-treatment with the MAO inhibitor tranylcypromine.
+This pretreament had no effect on the inhibition of GABA-T or the elevation of brain GABA levels produced by VIG.
+CONCLUSIONS: At the doses studied, PLZ was as effective as VIG at elevating brain GABA levels, but, unlike VIG, also inhibited MAO and ALA-T (and increased brain ALA levels).
+Pretreatment of rats with the MAO inhibitor tranylcypromine prevented the increase in brain GABA and ALA levels with PLZ, but did not block the effect of VIG on GABA.
+These observations with tranylcypromine and PLZ support the hypothesis that an active metabolite of PLZ produced by the actions of MAO on this drug plays a major role in its GABA- and ALA-elevating actions.

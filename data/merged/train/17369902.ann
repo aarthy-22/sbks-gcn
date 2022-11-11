@@ -1,0 +1,17 @@
+T6	CHEMICAL 0 8	Peroxide
+T13	GENE-N 0 36	Peroxide-eliminating oxidoreductases
+T4	CHEMICAL 148 156	peroxide
+T10	GENE-N 148 184	peroxide-eliminating oxidoreductases
+T5	CHEMICAL 186 197	glutathione
+T12	GENE-N 186 207	glutathione reductase
+T1	CHEMICAL 209 220	glutathione
+T7	GENE-N 209 231	glutathione peroxidase
+T2	CHEMICAL 520 531	glutathione
+T8	GENE-N 520 541	glutathione reductase
+T3	CHEMICAL 546 557	glutathione
+T9	GENE-N 546 568	glutathione peroxidase
+T11	GENE-Y 607 615	catalase
+R0	NOT Arg1:T10 Arg2:T5
+R1	NOT Arg1:T12 Arg2:T1
+R2	NOT Arg1:T2 Arg2:T11
+R3	NOT Arg1:T3 Arg2:T11

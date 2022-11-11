@@ -1,0 +1,19 @@
+T14	CHEMICAL 0 10	Alprenolol
+T15	CHEMICAL 15 44	bromoacetylalprenololmenthane
+T19	GENE-Y 98 118	beta 1-adrenoceptors
+T2	CHEMICAL 164 174	alprenolol
+T5	CHEMICAL 179 208	bromoacetylalprenololmenthane
+T12	CHEMICAL 210 214	BAAM
+T13	CHEMICAL 235 245	Alprenolol
+T1	CHEMICAL 250 254	BAAM
+T16	GENE-N 412 429	beta-adrenoceptor
+T3	CHEMICAL 499 509	Alprenolol
+T4	CHEMICAL 514 518	BAAM
+T6	CHEMICAL 558 570	isoprenaline
+T17	GENE-Y 591 610	beta 1-adrenoceptor
+T7	CHEMICAL 663 675	isoprenaline
+T8	CHEMICAL 691 701	alprenolol
+T9	CHEMICAL 706 710	BAAM
+T10	CHEMICAL 819 829	alprenolol
+T11	CHEMICAL 834 838	BAAM
+T18	GENE-Y 873 892	beta 1-adrenoceptor

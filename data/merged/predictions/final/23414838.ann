@@ -1,0 +1,10 @@
+T6	CHEMICAL 31 40	quinolone
+T10	GENE-Y 41 76	α7 nicotinic acetylcholine receptor
+T7	CHEMICAL 54 67	acetylcholine
+T4	CHEMICAL 160 169	quinolone
+T9	GENE-Y 170 205	α7 nicotinic acetylcholine receptor
+T5	CHEMICAL 183 196	acetylcholine
+T8	GENE-N 207 212	nAChR
+T1	CHEMICAL 262 315	4-phenyl-1-(quinuclidin-3-ylmethyl)quinolin-2(1H)-one
+T2	CHEMICAL 488 508	4-fluoroquinuclidine
+T3	CHEMICAL 546 558	quinuclidine

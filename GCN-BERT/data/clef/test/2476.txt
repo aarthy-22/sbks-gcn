@@ -1,0 +1,2 @@
+Intermediate 61: 8-Bromo-3-chloro-2-cyclopropyl-7-(trifluoromethyl)imidazo[1,2-c]pyrimidine
+To a solution of 8-bromo-2-cyclopropyl-7-(trifluoromethyl)imidazo[1,2-c]pyrimidine (Intermediate 49, 113 mg, 0.37 mmol) in DCM (3.5 mL) was added N-chlorosuccinimide (198 mg, 1.5 mmol) and the mixture was heated to 40° C. for 20 h. After cooling to rt, the crude reaction mixture was transferred to a silica gel column and purified by flash chromatography (0-50% EtOAc/hexanes) to afford the title compound as white solid (88 mg, 70% yield).

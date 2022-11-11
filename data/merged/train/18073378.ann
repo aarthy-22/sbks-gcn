@@ -1,0 +1,17 @@
+T11	CHEMICAL 31 42	anastrozole
+T2	CHEMICAL 316 325	tamoxifen
+T12	GENE-Y 376 385	aromatase
+T6	CHEMICAL 396 405	letrozole
+T13	GENE-Y 524 533	aromatase
+T7	CHEMICAL 545 556	anastrozole
+T14	GENE-N 748 764	hormone receptor
+T8	CHEMICAL 827 836	tamoxifen
+T15	GENE-Y 858 867	aromatase
+T9	CHEMICAL 878 895	aminoglutethimide
+T10	CHEMICAL 1056 1067	anastrozole
+T1	CHEMICAL 1459 1470	anastrozole
+T3	CHEMICAL 1739 1750	Anastrozole
+T4	CHEMICAL 1885 1894	tamoxifen
+T5	CHEMICAL 1923 1934	anastrozole
+R0	CPR-4 Arg1:T9 Arg2:T15
+R1	NOT Arg1:T14 Arg2:T8

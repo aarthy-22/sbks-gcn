@@ -1,0 +1,8 @@
+L-proline accumulation and freeze tolerance of Saccharomyces cerevisiae are caused by a mutation in the PRO1 gene encoding gamma-glutamyl kinase.
+We previously isolated a mutant which showed a high tolerance to freezing that correlated with higher levels of intracellular L-proline derived from L-proline analogue-resistant mutants.
+The mutation responsible for the analogue resistance and L-proline accumulation was a single nuclear dominant mutation.
+By introducing the mutant-derived genomic library into a non-L-proline-utilizing strain, the mutant was found to carry an allele of the wild-type PRO1 gene encoding gamma-glutamyl kinase, which resulted in a single amino acid replacement; Asp (GAC) at position 154 was replaced by Asn (AAC).
+Interestingly, the allele of PRO1 was shown to enhance the activities of gamma-glutamyl kinase and gamma-glutamyl phosphate reductase, both of which catalyze the first two steps of L-proline synthesis from L-glutamate and which together may form a complex in vivo.
+When cultured in liquid minimal medium, yeast cells expressing the mutated gamma-glutamyl kinase were found to accumulate intracellular L-proline and showed a prominent increase in cell viability after freezing at -20 degrees C compared to the viability of cells harboring the wild-type PRO1 gene.
+These results suggest that the altered gamma-glutamyl kinase results in stabilization of the complex or has an indirect effect on gamma-glutamyl phosphate reductase activity, which leads to an increase in L-proline production in Saccharomyces cerevisiae.
+The approach described in this paper could be a practical method for breeding novel freeze-tolerant yeast strains.

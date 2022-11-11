@@ -1,0 +1,28 @@
+T15	CHEMICAL 8 19	vasopressin
+T24	GENE-Y 8 19	vasopressin
+T22	GENE-Y 25 28	V1A
+T23	GENE-Y 29 40	V2 receptor
+T14	CHEMICAL 53 77	conivaptan hydrochloride
+T21	GENE-Y 153 173	antidiuretic hormone
+T6	CHEMICAL 244 268	conivaptan hydrochloride
+T12	CHEMICAL 277 288	vasopressin
+T20	GENE-Y 277 292	vasopressin V1A
+T16	GENE-Y 297 308	V2 receptor
+T17	GENE-Y 433 453	antidiuretic hormone
+T4	CHEMICAL 551 571	arginine vasopressin
+T18	GENE-Y 551 571	arginine vasopressin
+T5	CHEMICAL 573 576	AVP
+T19	GENE-Y 573 576	AVP
+T7	CHEMICAL 805 811	sodium
+T8	CHEMICAL 907 917	conivaptan
+T9	CHEMICAL 963 969	sodium
+T10	CHEMICAL 1056 1066	furosemide
+T11	CHEMICAL 1108 1114	sodium
+T13	CHEMICAL 1179 1189	furosemide
+T1	CHEMICAL 1218 1227	potassium
+T2	CHEMICAL 1267 1277	conivaptan
+T3	CHEMICAL 1360 1370	conivaptan
+R0	CPR-6 Arg1:T14 Arg2:T22
+R1	CPR-6 Arg1:T14 Arg2:T23
+R2	NOT Arg1:T14 Arg2:T21
+R3	NOT Arg1:T18 Arg2:T5

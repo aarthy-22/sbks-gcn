@@ -1,0 +1,8 @@
+Synthesis and NIR optical properties of hollow gold nanospheres with LSPR greater than one micrometer.
+Optical analysis in the near infrared region is of significant biological importance due to better tissue penetration and reduced autofluorescence.
+In this work, an improved synthesis of hollow gold nanospheres (HGNs), which provides a tunable localized surface plasmon resonance (LSPR) from 610 nm up to 1320 nm, is demonstrated.
+The scattering properties of these nanoparticles are shown using surface enhanced Raman scattering (SERS) at 1064 nm excitation wavelength and are compared to citrate reduced gold and silver nanoparticles of similar physical sizes and surface properties.
+After the addition of salts, a strong signal was observed from hollow gold with a LSPR of 650 nm and a weaker, yet observable, signal from HGNs with a LSPR of 775 nm.
+However, no obvious signals were observed in the case of standard citrate reduced gold, silver or HGNs with a LSPR of 1080 nm.
+The absorption properties of HGNs were investigated by monitoring their photothermal activity.
+In this case, different nanoparticle suspensions including citrate reduced gold, silver, and HGNs were illuminated by a continuous laser at 785 nm excitation wavelength and the absorption efficiency of HGNs with a LSPR of 775 nm was calculated to be 0.81% which is more than 5 times higher than the absorption efficiency of citrate reduced gold nanoparticles under similar conditions.

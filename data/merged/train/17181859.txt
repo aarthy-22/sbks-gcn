@@ -1,0 +1,12 @@
+Genetic polymorphisms in the cyclooxygenase-2 gene, use of nonsteroidal anti-inflammatory drugs, and breast cancer risk.
+INTRODUCTION: The association between use of nonsteroidal anti-inflammatory drugs (NSAIDs) and breast cancer risk remains unclear.
+Inconsistencies in previously reported findings may be partly due to differences in expression of cyclooxygenase (COX)-2.
+We hypothesized that genetic polymorphisms (COX-2 .926, COX-2 .5209, and COX-2 .8473) may reduce overall breast cancer risk or risk for subtypes of breast cancer by modulating the inflammatory response and may interact with aspirin or any NSAID use.
+METHODS: We conducted a population-based, case-control study in which we genotyped 1,067 breast cancer cases and 1,110 control individuals included in the Long Island Breast Cancer Study Project.
+RESULTS: No major effects of the three COX-2 variant alleles on breast cancer risk were found.
+A total of eight distinct haplotypes and 18 diplotypes were observed in the population.
+Overall, no significant associations between COX-2 haplotypes/diplotypes and breast cancer risk were observed.
+Among women who used aspirin or any NSAID there was little evidence for an interaction with the at-risk COX-2 genotypes, with one exception.
+Among women with hormone receptor positive breast cancer, the reduced risk for any NSAID use was only evident among those who had at least one variant C allele of COX-2 .8473 (odds ratio = 0.7, 95% confidence interval = 0.5 to 1.0; P for the interaction = 0.02).
+There was no corresponding interaction for aspirin use, possibly because of limited power.
+CONCLUSION: These data provide modest evidence that the C allele of COX-2 .8473 may interact with NSAIDs to reduce risk for hormone receptor positive breast cancer.

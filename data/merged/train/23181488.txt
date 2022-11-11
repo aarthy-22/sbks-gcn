@@ -1,0 +1,12 @@
+Conformational landscape of diisopropyl ketone: quantum chemical calculations validated by microwave spectroscopy.
+We report on the gas-phase structure of the most abundant conformer of diisopropyl ketone, (CH(3))(2)HC-CO-CH(CH(3))(2), as observed by molecular beam Fourier transform microwave spectroscopy.
+The gas-phase structures of five conformers of diisopropyl ketone were optimized using ab initio calculations at the MP2/6-311++G(d,p) level of theory.
+The natures of the stationary points were verified using harmonic frequency calculations.
+The only conformer observed in the supersonic jet possesses C(2) symmetry and appears as an enantiomeric pair.
+From the microwave spectrum, a set of three highly accurate rotational constants, five centrifugal distortion constants, and three sextic centrifugal distortion constants were determined.
+The structure of the observed conformer was optimized again at different levels of theory using the HF, MP2, and B3LYP methods.
+The theoretical constants of the C(2) conformer were subsequently validated using the experimental constants.
+To understand the transitions of one conformer to the others, the isopropyl groups were rotated against each other.
+The resulting two-dimensional potential energy surface shows nicely the symmetry of the conformational landscape and also indicates the enantiomeric pairs of the conformers.
+The barriers to internal rotation of the methyl groups were determined to be 1052 and 905 cm(-1) at the MP2/6-311++G(d,p) and the B3LYP/6-311++G(d,p) levels, respectively.
+In agreement with the theoretical predictions, no internal rotation patterns could be observed in the microwave spectrum.

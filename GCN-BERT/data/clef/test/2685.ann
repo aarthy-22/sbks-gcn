@@ -1,0 +1,16 @@
+T1	REAGENT_CATALYST 1078 1081	HCl
+T2	REACTION_PRODUCT 10 120	1-(1-(2,4-Dichlorophenyl)ethyl)-6-(3'-ethyl-[1,4'-bipiperidin]-1'-yl)-1H-pyrazolo[3,4-b]pyrazine hydrochloride
+T3	STARTING_MATERIAL 160 237	(Z)-3,5-dichloro-2-((2-(1-(2,4-dichlorophenyl)ethyl)hydrazono)methyl)pyrazine
+T4	EXAMPLE_LABEL 8 9	9
+T5	REACTION_PRODUCT 1193 1207	title compound
+T6	OTHER_COMPOUND 707 719	acetonitrile
+T7	OTHER_COMPOUND 1012 1020	methanol
+T8	YIELD_PERCENT 1216 1219	31%
+T9	OTHER_COMPOUND 992 1007	dichloromethane
+T10	OTHER_COMPOUND 433 483	3'-methyl-1,4'-bipiperidine 2,2,2-trifluoroacetate
+T11	OTHER_COMPOUND 723 728	water
+T12	STARTING_MATERIAL 242 319	(E)-3,5-dichloro-2-((2-(1-(2,4-dichlorophenyl)ethyl)hydrazono)methyl)pyrazine
+T13	SOLVENT 1089 1102	diethyl ether
+T14	OTHER_COMPOUND 759 779	trifluoroacetic acid
+T15	STARTING_MATERIAL 489 515	3'-ethyl-1,4'-bipiperidine
+T16	YIELD_OTHER 1209 1214	42 mg

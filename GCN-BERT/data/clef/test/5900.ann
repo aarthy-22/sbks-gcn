@@ -1,0 +1,10 @@
+T1	EXAMPLE_LABEL 8 10	97
+T2	REACTION_PRODUCT 26 147	(S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-7,8-dihydropyrido[2,3-d]pyrimidine-5(6H)-one
+T3	EXAMPLE_LABEL 153 154	1
+T4	REACTION_PRODUCT 171 312	(S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)-7,8-dihydropyrido[2,3-d]pyrimidine-5(6H)-one
+T5	YIELD_OTHER 313 319	326 mg
+T6	REACTION_PRODUCT 323 464	(S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)-7,8-dihydropyrido[2,3-d]pyrimidine-5(6H)-one
+T7	STARTING_MATERIAL 527 600	4-chloro-8-(4-methoxybenzyl)-7,8-dihydropyrido[2,3-d]pyrimidine-5(6H)-one
+T8	STARTING_MATERIAL 628 688	(S)-3-(1-aminoethyl)-8-chloro-2-phenylisoquinoline-1(2H)-one
+T9	YIELD_OTHER 756 766	0.576 mmol
+T10	YIELD_PERCENT 775 778	87%

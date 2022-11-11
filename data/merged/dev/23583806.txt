@@ -1,0 +1,13 @@
+Short-term heating reduces the anti-inflammatory effects of fresh raw garlic extracts on the LPS-induced production of NO and pro-inflammatory cytokines by downregulating allicin activity in RAW 264.7 macrophages.
+Garlic has a variety of biologic activities, including anti-inflammatory properties.
+Although garlic has several biologic activities, some people dislike eating fresh raw garlic because of its strong taste and smell.
+Therefore, garlic formulations involving heating procedures have been developed.
+In this study, we investigated whether short-term heating affects the anti-inflammatory properties of garlic.
+Fresh and heated raw garlic extracts (FRGE and HRGE) were prepared with incubation at 25°C and 95°C, respectively, for 2h.
+Treatment with FRGE and HRGE significantly reduced the LPS-induced increase in the pro-inflammatory cytokine concentration (TNF-α, IL-1β, and IL-6) and NO through HO-1 upregulation in RAW 264.7 macrophages.
+The anti-inflammatory effect was greater in FRGE than in HRGE.
+The allicin concentration was higher in FRGE than in HRGE.
+Allicin treatment showed reduced production of pro-inflammatory cytokines and NO and increased HO-1 activity.
+The results show that the decrease in LPS-induced NO and pro-inflammatory cytokines in RAW 264.7 macrophages through HO-1 induction was greater for FRGE compared with HRGE.
+Additionally, the results indicate that allicin is responsible for the anti-inflammatory effect of FRGE.
+Our results suggest a potential therapeutic use of allicin in the treatment of chronic inflammatory disease.

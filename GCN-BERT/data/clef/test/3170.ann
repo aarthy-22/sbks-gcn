@@ -1,0 +1,9 @@
+T1	EXAMPLE_LABEL 8 9	8
+T2	REACTION_PRODUCT 26 109	N-(3-(4-(4-cyclohexylpiperazine-1-carbonyl)phenyl)prop-2-ynyl)-N-phenylpentaneamide
+T3	REACTION_PRODUCT 111 118	LMT-830
+T4	REACTION_PRODUCT 122 135	final product
+T5	REACTION_PRODUCT 137 220	N-(3-(4-(4-cyclohexylpiperazine-1-carbonyl)phenyl)prop-2-ynyl)-N-phenylpentaneamide
+T6	YIELD_OTHER 236 241	20 mg
+T7	YIELD_PERCENT 243 246	33%
+T8	STARTING_MATERIAL 306 377	N-phenyl-N-(3-(4-(piperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
+T9	STARTING_MATERIAL 424 439	iodocyclohexane

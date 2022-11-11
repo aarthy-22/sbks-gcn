@@ -1,0 +1,11 @@
+Effect of bisphenol-A on insulin signal transduction and glucose oxidation in skeletal muscle of adult male albino rat.
+The estrogenic monomer bisphenol-A (BPA) is an endocrine-disrupting chemical used in the production of epoxy resins, plastic food and beverage containers, leading to ubiquitous human exposure.
+Environmentally relevant doses of BPA have profound effects on mice endocrine pancreas.
+It increases pancreatic insulin content and favors postprandial hyperinsulinemia and insulin resistance in male mice.
+Skeletal muscle plays a crucial role in maintaining systemic glucose metabolism.
+In the present study, we investigated the possible effects of BPA on insulin-signaling molecules and glucose oxidation in skeletal muscle of male rat.
+Adult male Wistar albino rats were divided into three groups.
+Group I: control (vehicle treated) and groups II and III were administered with BPA orally (20 and 200 mg/kg bw/day, respectively).
+Although there was no change in the levels of insulin receptor (IR), Akt (protein kinase B) and glucose transporter-4 (GLUT4) messenger RNA, BPA significantly decreased the IR, Akt and GLUT4 protein levels (both plasma membrane and cytosolic fraction) of the gastrocnemius muscle.
+There was an increase in serum insulin and decrease in serum testosterone levels but fasting blood glucose level remained unaltered.
+In conclusion, BPA has adverse effects on phosphorylation of Akt, GLUT4 translocation and (14)C-glucose oxidation.

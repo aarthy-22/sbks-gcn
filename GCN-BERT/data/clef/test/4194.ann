@@ -1,0 +1,25 @@
+T1	EXAMPLE_LABEL 8 9	6
+T2	REACTION_PRODUCT 10 175	N,N'-(((((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-bromo-4,1-phenylene))bis(methylene))bis(azanediyl))bis(ethane-2,1-diyl))diacetamide
+T3	REACTION_PRODUCT 177 180	Cpd
+T4	REACTION_PRODUCT 181 182	6
+T5	STARTING_MATERIAL 201 299	4,4'-(((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-bromobenzaldehyde) 5
+T6	REAGENT_CATALYST 323 326	DMF
+T7	STARTING_MATERIAL 346 371	N-(2-aminoethyl)acetamide
+T8	REAGENT_CATALYST 397 425	sodium triacetoxyborohydride
+T9	TEMPERATURE 483 499	room temperature
+T10	TIME 504 507	5 h
+T11	OTHER_COMPOUND 555 560	water
+T12	OTHER_COMPOUND 592 598	CH2Cl2
+T13	OTHER_COMPOUND 602 606	MeOH
+T14	OTHER_COMPOUND 655 660	brine
+T15	OTHER_COMPOUND 673 679	Na2SO4
+T16	OTHER_COMPOUND 778 798	Ammonium bicarbonate
+T17	OTHER_COMPOUND 802 805	H2O
+T18	OTHER_COMPOUND 806 809	ACN
+T19	OTHER_COMPOUND 940 943	ACN
+T20	OTHER_COMPOUND 944 947	H2O
+T21	OTHER_COMPOUND 948 951	THF
+T22	OTHER_COMPOUND 952 956	MeOH
+T23	REACTION_PRODUCT 968 1133	N,N'-(((((((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-bromo-4,1-phenylene))bis(methylene))bis(azanediyl))bis(ethane-2,1-diyl))diacetamide
+T24	YIELD_OTHER 1135 1140	80 mg
+T25	YIELD_PERCENT 1149 1152	15%

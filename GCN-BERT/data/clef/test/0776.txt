@@ -1,0 +1,5 @@
+Example 30
+5-(4-((1H-imidazol-1-yl)methyl)phenyl)-4-methylisoxazol-3-ol
+Compound 30A
+1-(4-(((tert-butyldimethylsilyl)oxy)methyl)phenyl)propan-1-one
+To a solution of 1-(4-(hydroxymethyl)phenyl)propan-1-one (3.2 g, 19.5 mmol) and imidazole (2.65 g, 39.0 mmol) in DMF (50 mL) was added tert-butyldimethylsilyl chloride (4.4 g, 29.2 mmol) at 0 °C under N2 atmosphere. The mixture was stirred at 20 °C for 9 hours, diluted with EtOAc (200 mL) and washed with water (200 mL*2). The organic layer was dried over anhydrous Na2SO4, filtered and concentrated under reduced pressure. The residue was purified by silica gel column chromatography to give Compound 30A (yellow oil, 4.9 g, 84% yield).

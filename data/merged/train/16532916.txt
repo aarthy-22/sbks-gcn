@@ -1,0 +1,16 @@
+Intrauterine pressure, ischemia markers, and experienced pain during administration of a vasopressin V1a receptor antagonist in spontaneous and vasopressin-induced dysmenorrhea.
+BACKGROUND: A model to study the effect of vasopressin V1a antagonist in dysmenorrhea.
+METHODS: A double-blind, randomized, placebo-controlled, cross-over trial was performed.
+Eight patients with primary dysmenorrhea and eight tuballigated, healthy subjects participated on days 1-2 of two consecutive menstruations.
+At each menstruation a bolus injection of 10 pmol/kg of vasopressin was administered before and during infusion of either 300 microg/min of atosiban or placebo.
+Intrauterine pressure was measured as area under the curve throughout the experiments.
+Ischemia markers in plasma and pain recorded by a visual analog scale were measured before and after each vasopressin injection as well as before and after the start of either atosiban or placebo infusion.
+RESULTS: Vasopressin injections elevated area under the curve in both healthy volunteers and dysmenorrhea subjects.
+The vasopressin-induced rise in area under the curve was lower during atosiban administration than during infusion of placebo in both groups.
+None of the ischemia markers differed between or within groups at vasopressin injections or atosiban/placebo infusions.
+In subjects with dysmenorrhea the increase in pain following the administration of vasopressin was significantly lower during atosiban than during placebo infusion.
+Healthy volunteers experienced only slight discomfort after the vasopressin injections.
+CONCLUSIONS: Atosiban reduces vasopressin-induced intrauterine pressure in both healthy volunteers and dysmenorrheics, and reported pain in subjects with dysmenorrhea.
+The ischemia markers are not a useful biomarker index in women with dysmenorrhea.
+The dysmenorrhea pain evoked by vasopressin correlated poorly with area under the curve, which may suggest that the effect is mediated by more than one V1a-like receptor.
+We conclude that this model with recordings in healthy women is useful in the evaluation of drug candidates for primary dysmenorrhea.

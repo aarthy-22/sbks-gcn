@@ -1,0 +1,18 @@
+T12	GENE-N 526 543	5 alpha-reductase
+T2	CHEMICAL 554 565	finasteride
+T13	GENE-N 570 590	alpha 1-adrenoceptor
+T3	CHEMICAL 609 618	alfuzosin
+T4	CHEMICAL 620 629	doxazosin
+T5	CHEMICAL 631 639	prazosin
+T6	CHEMICAL 641 651	tamsulosin
+T7	CHEMICAL 656 665	terazosin
+T8	CHEMICAL 901 912	Finasteride
+T9	GENE-N 1122 1142	alpha 1-adrenoceptor
+T1	CHEMICAL 1385 1396	finasteride
+T10	GENE-N 1451 1471	alpha 1-adrenoceptor
+T11	GENE-Y 1811 1832	alpha 1A-adrenoceptor
+R0	CPR-6 Arg1:T7 Arg2:T13
+R1	NOT Arg1:T12 Arg2:T3
+R2	NOT Arg1:T12 Arg2:T5
+R3	NOT Arg1:T12 Arg2:T7
+R4	NOT Arg1:T2 Arg2:T13

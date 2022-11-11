@@ -1,0 +1,4 @@
+T1	REACTION_PRODUCT 94 205	tert-Butyl N-[5-[(5-amino-2-chloro-3-fluoro-benzoyl)amino]-2,4-difluoro-phenyl]-N-tert-butoxycarbonyl-carbamate
+T2	REACTION_PRODUCT 207 211	C245
+T3	YIELD_OTHER 247 254	3.125 g
+T4	YIELD_PERCENT 256 259	79%

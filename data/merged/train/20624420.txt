@@ -1,0 +1,9 @@
+Identification of neuronal target areas for nerve agents and specification of receptors for pharmacological treatment.
+In order to shorten the list of candidate drugs with anticonvulsant potential against nerve agents, critical subreceptors in seizure controlling brain regions should be specified.
+Epileptiform activity does not spread randomly throughout the brain, but appears to be generated and propagated by specific anatomical routes.
+Nerve agents evoke seizure activity in the forebrain that progresses to the hind brain resulting in tonic-clonic convulsions.
+In some recent studies, it was shown that lesion of the area tempestas (AT), medial septum (MS), perirhinal cortex (PRC), or posterior piriform cortex (PPC) produces anticonvulsant effects (prevention of convulsions or delayed onset of convulsions) in rats exposed to soman, whereas damage to nucleus accumbens, nucleus basalis magnocellularis, amygdala, hippocampus, or entorhinal cortex does not cause anticonvulsant impact.
+These results are in compliance with findings that seizures can be generated in AT, MS, PRC, and PPC by means of nerve agents, chemoconvulsants, or kindling.
+Results from microinfusion studies show that anticonvulsant efficacy is obtained by GABA(A) modulators or cholinergic antagonists (M1-M5) in AT, cholinergic antagonists (M1-M5) in MS, combined glutamatergic (NMDA) and cholinergic antagonist (M1-M4), AMPA antagonist, or modulators of metabotropic glutamate receptors (mGluR5, mGluR2/3) in PRC, and cholinergic antagonist (M1-M5) or GABA(A) agonist in PPC.
+Calculation of impact factors for the most potent drugs (percentage of positive effects in the seizure controlling sites) showed that scopolamine and procyclidine were ranking highest (75) followed by muscimol (50), NBQX (33), and caramiphen (33).
+Potential strategies for prophylactic and post-exposure treatments are discussed.

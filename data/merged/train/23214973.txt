@@ -1,0 +1,9 @@
+Preparation of functionalized alkynyl magnetic microspheres for the selective enrichment of cell glycoproteins based on click chemistry.
+Functionalized alkynyl polyvinyl alcohol magnetic microspheres (PVA MMs) were developed for the specific enrichment of sialic acid-rich glycoproteins by click chemistry.
+The capture capability for proteins was evaluated through a novel dual-labeled bovine serum albumin (BSA) that utilizes fluorescence resonance energy transfer (FRET).
+The PVA MM parameters, including the size and coverage of functionalized groups, were optimized by response surface methodology.
+The optimal parameters obtained were 1.25-6.31 μm in size and 48.53-73.05% in coverage.
+Then, the optimal PVA MMs were synthesized, and the morphology and surface chemical properties were characterized by transmission electron microscopy (TEM), scanning electron microscopy (SEM), and Fourier transform infrared spectroscopy (FT-IR).
+To capture glycoproteins from the cell surface, a bioorthogonal chemical method was applied to metabolically label them with an azide group.
+The functionalized alkynyl PVA MMs showed a high specificity and strong binding capability for glycoproteins through a [3 + 2] cycloaddition reaction.
+The results indicated that the functionalized alkynyl PVA MMs could be applied to the enrichment of cell glycoproteins, and the merits of the MMs suggested an attractive and potential way to facilitate glycoprotein research.

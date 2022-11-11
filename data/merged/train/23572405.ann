@@ -1,0 +1,28 @@
+T24	GENE-Y 12 20	glucagon
+T25	GENE-Y 24 31	ghrelin
+T26	GENE-Y 58 65	insulin
+T1	CHEMICAL 318 325	glucose
+T12	GENE-Y 409 416	ghrelin
+T13	GENE-Y 418 424	leptin
+T14	GENE-Y 426 437	adiponectin
+T15	GENE-Y 439 446	insulin
+T16	GENE-Y 448 456	glucagon
+T2	CHEMICAL 458 465	glucose
+T17	GENE-Y 825 832	ghrelin
+T18	GENE-Y 862 869	insulin
+T19	GENE-Y 880 888	glucagon
+T20	GENE-Y 894 900	leptin
+T21	GENE-Y 938 949	adiponectin
+T3	CHEMICAL 965 972	glucose
+T22	GENE-Y 1063 1071	glucagon
+T23	GENE-Y 1075 1082	ghrelin
+T4	GENE-Y 1140 1148	glucagon
+T5	GENE-Y 1219 1226	ghrelin
+T6	GENE-Y 1242 1248	leptin
+T7	GENE-Y 1250 1257	insulin
+T8	GENE-Y 1259 1267	glucagon
+T9	GENE-Y 1283 1294	adiponectin
+T10	GENE-Y 1429 1437	glucagon
+T11	GENE-Y 1441 1448	ghrelin
+R0	NOT Arg1:T13 Arg2:T2
+R1	NOT Arg1:T16 Arg2:T2

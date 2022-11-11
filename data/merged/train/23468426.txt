@@ -1,0 +1,9 @@
+The interaction of isopenicillin N synthase with homologated substrate analogues δ-(L-α-aminoadipoyl)-L-homocysteinyl-D-Xaa characterised by protein crystallography.
+Isopenicillin N synthase (IPNS) converts the linear tripeptide δ-(L-α-aminoadipoyl)-L-cysteinyl-D-valine (ACV) into bicyclic isopenicillin N (IPN) in the central step in the biosynthesis of penicillin and cephalosporin antibiotics.
+Solution-phase incubation experiments have shown that IPNS turns over analogues with a diverse range of side chains in the third (valinyl) position of the substrate, but copes less well with changes in the second (cysteinyl) residue.
+IPNS thus converts the homologated tripeptides δ-(L-α-aminoadipoyl)-L-homocysteinyl-D-valine (AhCV) and δ-(L-α-aminoadipoyl)-L-homocysteinyl-D-allylglycine (AhCaG) into monocyclic hydroxy-lactam products; this suggests that the additional methylene unit in these substrates induces conformational changes that preclude second ring closure after initial lactam formation.
+To investigate this and solution-phase results with other tripeptides δ-(L-α-aminoadipoyl)-L-homocysteinyl-D-Xaa, we have crystallised AhCV and δ-(L-α-aminoadipoyl)-L-homocysteinyl-D-S-methylcysteine (AhCmC) with IPNS and solved crystal structures for the resulting complexes.
+The IPNS:Fe(II):AhCV complex shows diffuse electron density for several regions of the substrate, revealing considerable conformational freedom within the active site.
+The substrate is more clearly resolved in the IPNS:Fe(II):AhCmC complex, by virtue of thioether coordination to iron.
+AhCmC occupies two distinct conformations, both distorted relative to the natural substrate ACV, in order to accommodate the extra methylene group in the second residue.
+Attempts to turn these substrates over within crystalline IPNS using hyperbaric oxygenation give rise to product mixtures.

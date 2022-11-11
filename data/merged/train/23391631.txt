@@ -1,0 +1,12 @@
+The role of aryl hydrocarbon receptor signaling pathway in cardiotoxicity of acute lead intoxication in vivo and in vitro rat model.
+Lead (Pb(2+)) is a naturally occurring systemic toxicant heavy metal that affects several organs in the body including the kidneys, liver, and central nervous system.
+However, Pb(2+)-induced cardiotoxicity has never been investigated yet and the exact mechanism of Pb(2+) associated cardiotoxicity has not been studied.
+The current study was designed to investigate the potential effect of Pb(2+) to induce cardiotoxicity in vivo and in vitro rat model and to explore the molecular mechanisms and the role of aryl hydrocarbon receptor (AhR) and regulated gene, cytochrome P4501A1 (CYP1A1), in Pb(2+)-mediated cardiotoxicity.
+For these purposes, Wistar albino rats were treated with Pb(2+) (25, 50 and 100mg/kg, i.p.) for three days and the effects on physiological and histopathological parameters of cardiotoxicity were determined.
+At the in vitro level, rat cardiomyocyte H9c2 cell lines were incubated with increasing concentration of Pb(2+) (25, 50, and 100μM) and the expression of hypertrophic genes, α- and β-myosin heavy chain (α-MHC and β-MHC), brain Natriuretic Peptide (BNP), and CYP1A1 were determined at the mRNA and protein levels using real-time PCR and Western blot analysis, respectively.
+The results showed that Pb(2+) significantly induced cardiotoxicity and heart failure as evidenced by increase cardiac enzymes, lactate dehydrogenase and creatine kinase and changes in histopathology in vivo.
+In addition, Pb(2+) treatment induced β-MHC and BNP whereas inhibited α-MHC mRNA and protein levels in vivo in a dose-dependent manner.
+In contrast, at the in vitro level, Pb(2+) treatment induced both β-MHC and α-MHC mRNA levels in time- and dose-dependent manner.
+Importantly, these changes were accompanied with a proportional increase in the expression of CYP1A1 mRNA and protein expression levels, suggesting a role for the CYP1A1 in cardiotoxicity.
+The direct evidence for the involvement of CYP1A1 in the induction of cardiotoxicity by Pb(2+) was evidenced by the ability of AhR antagonist, resveratrol, to significantly inhibit the Pb(2+)-modulated effect on β-MHC and α-MHC mRNAs.
+It was concluded that acute lead exposure induced cardiotoxicity through AhR/CYP1A1-mediated mechanism.

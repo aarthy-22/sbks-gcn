@@ -1,0 +1,8 @@
+Organization and expression of the SLC36 cluster of amino acid transporter genes.
+Three closely related genes encoding amino acid transport proteins are clustered on 5q32 in humans, and Chromosome (Chr) 11 in mice.
+The human SLC36A1 gene, which encodes the lysosomal amino acid transporter LYAAT1/PAT1, generates multiple alternative mRNAs, some of which encode truncated proteins.
+SLC36A1 is expressed in numerous tissues, whereas expression of SLC36A2, which encodes the glycine transporter tramdorinl/PAT2, is most abundant in kidney and muscle.
+Expression of a third gene, SLC36A3, is restricted to testis.
+Mouse Slc36a2 also is expressed in bone and fat tissue.
+Polymorphisms in human SLC36A2 exclude it as a candidate locus for a peripheral neuropathy that has been mapped to 5q31-33.
+SLC36A2 is a candidate gene for 5q-myelodysplastic syndrome, on the basis of its chromosomal location and its expression in bone.

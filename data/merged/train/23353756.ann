@@ -1,0 +1,15 @@
+T9	CHEMICAL 76 95	4-phenylpiperidines
+T8	CHEMICAL 100 119	4-phenylpiperazines
+T2	CHEMICAL 133 186	mono-substituted 4-phenylpiperidines and -piperazines
+T3	CHEMICAL 437 467	3,4-dihydroxyphenylacetic acid
+T4	CHEMICAL 469 474	DOPAC
+T5	CHEMICAL 797 805	dopamine
+T12	GENE-Y 797 825	dopamine D2 (DA D2) receptor
+T6	CHEMICAL 830 839	monoamine
+T13	GENE-Y 830 849	monoamine oxidase A
+T14	GENE-Y 851 856	MAO A
+T7	CHEMICAL 1036 1041	DOPAC
+T1	CHEMICAL 1138 1143	DOPAC
+T10	GENE-Y 1166 1171	DA D2
+T11	GENE-Y 1176 1181	MAO A
+R0	CPR-2 Arg1:T1 Arg2:T10

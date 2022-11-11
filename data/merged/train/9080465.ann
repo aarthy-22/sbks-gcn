@@ -1,0 +1,35 @@
+T13	CHEMICAL 11 19	SR 48692
+T16	CHEMICAL 23 34	neurotensin
+T28	GENE-Y 23 34	neurotensin
+T19	CHEMICAL 43 50	calcium
+T20	CHEMICAL 61 69	chloride
+T14	CHEMICAL 149 162	levocabastine
+T27	GENE-Y 150 193	evocabastine-sensitive neurotensin receptor
+T15	CHEMICAL 173 184	neurotensin
+T17	CHEMICAL 234 247	levocabastine
+T29	GENE-Y 234 280	levocabastine insensitive neurotensin receptor
+T18	CHEMICAL 260 271	neurotensin
+T2	CHEMICAL 305 313	SR 48692
+T6	CHEMICAL 321 327	Ca(2+)
+T9	CHEMICAL 338 341	Cl-
+T12	CHEMICAL 361 372	neurotensin
+T26	GENE-Y 361 372	neurotensin
+T21	GENE-Y 421 471	rodent high and low affinity neurotensin receptors
+T1	CHEMICAL 450 461	neurotensin
+T3	CHEMICAL 523 531	SR 48692
+T4	CHEMICAL 589 600	neurotensin
+T22	GENE-Y 624 662	rat high affinity neurotensin receptor
+T5	CHEMICAL 642 653	neurotensin
+T23	GENE-Y 716 755	mouse low affinity neurotensin receptor
+T7	CHEMICAL 735 746	neurotensin
+T8	CHEMICAL 796 807	neurotensin
+T24	GENE-Y 796 807	neurotensin
+T25	GENE-Y 916 954	rat high affinity neurotensin receptor
+T10	CHEMICAL 934 945	neurotensin
+T11	CHEMICAL 1056 1064	SR 48692
+R0	NOT Arg1:T28 Arg2:T14
+R1	NOT Arg1:T28 Arg2:T15
+R2	NOT Arg1:T3 Arg2:T23
+R3	NOT Arg1:T4 Arg2:T23
+R4	NOT Arg1:T5 Arg2:T24
+R5	NOT Arg1:T7 Arg2:T24

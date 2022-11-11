@@ -1,0 +1,35 @@
+T33	GENE-Y 0 31	Human stearoyl-CoA desaturase 1
+T8	CHEMICAL 6 18	stearoyl-CoA
+T35	GENE-Y 33 38	SCD-1
+T9	CHEMICAL 83 98	thyroid hormone
+T34	GENE-N 125 149	thyroid hormone receptor
+T7	CHEMICAL 125 140	thyroid hormone
+T10	GENE-Y 172 197	Stearoyl-CoA desaturase-1
+T1	CHEMICAL 172 184	Stearoyl-CoA
+T22	GENE-Y 199 204	SCD-1
+T6	CHEMICAL 245 257	triglyceride
+T2	CHEMICAL 282 294	carbohydrate
+T3	CHEMICAL 311 324	carbohydrates
+T19	GENE-Y 334 339	SCD-1
+T20	GENE-Y 368 418	sterol response element binding protein (SREBP)-1c
+T4	CHEMICAL 368 374	sterol
+T21	GENE-Y 433 441	SREBP-1c
+T5	CHEMICAL 499 514	thyroid hormone
+T23	GENE-N 541 566	mouse SCD-1 gene promoter
+T24	GENE-Y 574 582	SREBP-1c
+T25	GENE-Y 638 646	SREBP-1c
+T26	GENE-Y 731 742	human SCD-1
+T27	GENE-Y 773 781	SREBP-1c
+T28	GENE-N 868 903	mouse and human SCD-1 gene promoter
+T29	GENE-Y 917 924	SREBP-1
+T30	GENE-N 968 987	SCD-1 gene promoter
+T31	GENE-Y 1084 1092	SREBP-1c
+T32	GENE-Y 1120 1128	SREBP-1c
+T11	GENE-N 1250 1275	human SCD-1 gene promoter
+T12	GENE-N 1333 1339	site A
+T13	GENE-Y 1396 1409	TH receptor-β
+T14	GENE-Y 1472 1476	TR-β
+T15	GENE-N 1503 1509	site A
+T16	GENE-Y 1550 1561	human SCD-1
+T17	GENE-N 1611 1622	TH receptor
+T18	GENE-N 1630 1649	SCD-1 gene promoter

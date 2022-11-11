@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 8 10	11
+T2	REACTION_PRODUCT 11 157	(S)-4-[4-cyano-2-(methylsulfonyl)phenyl]-6-methyl-2-oxo-1-[3-(trifluormethyl)phenyl]-1,2,3,4-tetra-hydropyrimidine-5-carboxylic Acid, Quinine Salt
+T3	REACTION_PRODUCT 159 163	XXIV
+T4	STARTING_MATERIAL 165 299	(rac)-4-[4-cyano-2-(methylsulfonyl)phenyl]-6-methyl-2-oxo-1-[3-trifluoromethyl)phenyl]-1,2,3,4-tetra-hydropyrimidine-5-carboxylic acid
+T5	STARTING_MATERIAL 301 305	XXII
+T6	TEMPERATURE 344 349	20° C
+T7	SOLVENT 367 378	isopropanol
+T8	SOLVENT 379 384	water
+T9	STARTING_MATERIAL 416 427	(−)-quinine
+T10	TEMPERATURE 479 485	50° C.
+T11	TIME 502 505	1 h
+T12	TEMPERATURE 509 514	50° C
+T13	TEMPERATURE 533 537	5° C
+T14	OTHER_COMPOUND 608 619	isopropanol
+T15	OTHER_COMPOUND 620 625	water
+T16	TEMPERATURE 659 664	40° C
+T17	YIELD_OTHER 684 689	432 g
+T18	YIELD_PERCENT 691 694	46%

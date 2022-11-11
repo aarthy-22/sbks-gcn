@@ -1,0 +1,12 @@
+Mechanism of specific membrane targeting by C2 domains: localized pools of target lipids enhance Ca2+ affinity.
+The C2 domain is a ubiquitous, conserved protein signaling motif widely found in eukaryotic signaling proteins.
+Although considerable functional diversity exists, most C2 domains are activated by Ca2+ binding and then dock to a specific cellular membrane.
+The C2 domains of protein kinase Calpha (PKCalpha) and cytosolic phospholipase A2alpha (cPLA2alpha), for example, are known to dock to different membrane surfaces during an intracellular Ca2+ signal.
+Ca2+ activation targets the PKCalpha C2 domain to the plasma membrane and the cPLA2alpha C2 domain to the internal membranes, with no detectable spatial overlap.
+It is crucial to determine how such targeting specificity is achieved at physiological bulk Ca2+ concentrations that during a typical signaling event rarely exceed 1 muM. For the isolated PKCalpha C2 domain in the presence of physiological Ca2+ levels, the target lipids phosphatidylserine (PS) and phosphatidylinositol-4,5-bisphosphate (PIP2) are together sufficient to recruit the PKCalpha C2 domain to a lipid mixture mimicking the plasma membrane inner leaflet.
+For the cPLA2alpha C2 domain, the target lipid phosphatidylcholine (PC) appears to be sufficient to drive membrane targeting to an internal membrane mimic at physiological Ca2+ levels, although the results do not rule out a second, unknown target molecule.
+Stopped-flow kinetic studies provide additional information about the fundamental molecular events that occur during Ca2+-activated membrane docking.
+In principle, C2 domain-directed intracellular targeting, which requires coincidence detection of multiple signals (Ca2+ and one or more target lipids), can exhibit two different mechanisms: messenger-activated target affinity (MATA) and target-activated messenger affinity (TAMA).
+The C2 domains studied here both utilize the TAMA mechanism, in which the C2 domain Ca2+ affinity is too low to be activated by physiological Ca2+ signals in most regions of the cell.
+Only when the C2 domain nears its target membrane, which provides a high local concentration of target lipid, is the effective Ca2+ affinity increased by the coupled binding equilibrium to a level that enables substantial Ca2+ activation and target docking.
+Overall, the findings emphasize the importance of using physiological ligand concentrations in targeting studies because super-physiological concentrations can drive docking interactions even when an important targeting molecule is missing.

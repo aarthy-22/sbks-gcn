@@ -1,0 +1,10 @@
+T8	CHEMICAL 56 72	isomalyngamide A
+T3	CHEMICAL 110 139	glycosylated isomalyngamide A
+T1	CHEMICAL 330 337	mannose
+T2	CHEMICAL 342 351	galactose
+T4	CHEMICAL 558 565	lactose
+T5	CHEMICAL 630 644	monosaccharide
+T6	CHEMICAL 657 669	disaccharide
+T7	CHEMICAL 688 704	isomalyngamide A
+T9	GENE-Y 931 936	p-FAK
+T10	GENE-Y 941 949	paxillin

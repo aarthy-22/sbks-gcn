@@ -1,0 +1,9 @@
+Protective effects of protein transduction domain-metallothionein fusion proteins against hypoxia- and oxidative stress-induced apoptosis in an ischemia/reperfusion rat model.
+Ischemic heart diseases caused by insufficient oxygen supply to the cardiac muscle require pharmaceutical agents for the prevention of the progress and recurrence.
+Metallothionein (MT) has a potential as a protein therapeutic for the treatment of this disease due to its anti-oxidative effects under stressful conditions.
+In spite of its therapeutic potential, efficient delivery systems need to be developed to overcome limitations such as low transduction efficiency, instability and short half-life in the body.
+To enhance intra-cellular transduction efficiency, Tat sequence as a protein transduction domain (PTD) was fused with MT in a recombinant method.
+Anti-apoptotic and anti-oxidative effects of Tat-MT fusion protein were evaluated under hyperglycemia and hypoxia stress conditions in cultured H9c2 cells.
+Recovery of cardiac functions by anti-apoptotic and anti-fibrotic effects of Tat-MT was confirmed in an ischemia/reperfusion (I/R) rat myocardial infarction model.
+Tat-MT fusion protein effectively protected H9c2 cells under stressful conditions by reducing intracellular ROS production and inhibiting caspase-3 activation.
+Tat-MT fusion protein inhibited apoptosis, reduced fibrosis area and enhanced cardiac functions in I/R. Tat-MT fusion protein could be a promising therapeutic for the treatment of ischemic heart diseases.

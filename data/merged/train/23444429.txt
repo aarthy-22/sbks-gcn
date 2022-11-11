@@ -1,0 +1,8 @@
+Defective DNA damage response and repair in liver cells expressing hepatitis B virus surface antigen.
+Hepatitis B virus (HBV) is implicated in liver cancer.
+The aim of this study was to find out whether HBV or its components [HBV surface antigen (HBsAg), HBV core protein (HBc), and HBV X protein (HBx)] could interfere with the host DNA damage response and repair pathway.
+The full HBV genome or individual HBV open-reading frame (ORF) was introduced into HepG2 cells to examine the effect on host genomic stability, DNA repair efficacy in response to double-strand DNA damage, and DNA damage-induced cell death.
+Responses to apoptosis induction in the HBV ORF-transfected HepG2 cells were also compared with those in HBV-positive and HBV-negative human hepatocellular carcinoma (HCC) cells.
+In the absence of HBV replication, accumulation of HBsAg in liver cells without other HBV proteins enhanced DNA repair protein and tumor suppressor promyelocytic leukemia (PML) degradation, which resulted in resistance to apoptosis induction and deficient double-strand DNA repair.
+However, HBsAg-positive cells exhibited increased cell death with exposure to the poly(ADP-ribose) polymerase inhibitor that blocks single-strand DNA repair.
+These results indicate that suppression of PML by HBsAg disrupts cellular mechanisms that respond to double-strand DNA damage for DNA repair or apoptosis induction, which may facilitate hepatocarcinogenesis and open up a synthetic lethality strategy for HBsAg-positive HCC treatment.-Chung, Y.-L. Defective DNA damage response and repair in liver cells expressing hepatitis B virus surface antigen.

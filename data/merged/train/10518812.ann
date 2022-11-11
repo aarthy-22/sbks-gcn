@@ -1,0 +1,21 @@
+T17	CHEMICAL 66 74	steroids
+T6	CHEMICAL 153 168	corticosteroids
+T5	CHEMICAL 280 288	steroids
+T7	CHEMICAL 676 694	mometasone furoate
+T8	CHEMICAL 710 717	steroid
+T18	GENE-Y 783 806	glucocorticoid receptor
+T9	CHEMICAL 820 842	fluticasone propionate
+T10	CHEMICAL 844 854	budesonide
+T11	CHEMICAL 856 879	triamcinolone acetonide
+T12	CHEMICAL 885 898	dexamethasone
+T13	CHEMICAL 900 918	Mometasone furoate
+T19	GENE-Y 968 972	IL-4
+T20	GENE-Y 977 981	IL-5
+T14	CHEMICAL 1027 1049	fluticasone propionate
+T15	CHEMICAL 1068 1086	mometasone furoate
+T16	CHEMICAL 1091 1113	fluticasone propionate
+T1	CHEMICAL 1288 1296	steroids
+T2	CHEMICAL 1318 1336	mometasone furoate
+T3	CHEMICAL 1495 1503	cortisol
+T4	CHEMICAL 1534 1556	fluticasone propionate
+R0	CPR-4 Arg1:T14 Arg2:T19

@@ -1,0 +1,48 @@
+T21	REACTION_STEP 329 334	added
+T0	OTHER_COMPOUND 863 868	water
+T1	REAGENT_CATALYST 253 284	ammonium molybdate tetrahydrate
+T2	YIELD_OTHER 1082 1087	18 mg
+T3	SOLVENT 576 583	ethanol
+T4	REACTION_PRODUCT 11 176	5-(2-chloro-3-methanesulphonyl-phenyl)-3-isopropyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T5	REACTION_PRODUCT 1097 1262	5-(2-chloro-3-methanesulphonyl-phenyl)-3-isopropyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T22	WORKUP 1007 1014	removed
+T6	OTHER_COMPOUND 832 851	sodium thiosulphate
+T7	OTHER_COMPOUND 881 899	magnesium sulphate
+T8	TIME 641 648	2 hours
+T9	EXAMPLE_LABEL 8 10	78
+T10	OTHER_COMPOUND 684 691	aqueous
+T23	REACTION_STEP 609 616	stirred
+T11	OTHER_COMPOUND 812 819	aqueous
+T12	OTHER_COMPOUND 704 729	sodium hydrogen carbonate
+T24	WORKUP 739 748	extracted
+T25	REACTION_STEP 1266 1274	obtained
+T26	WORKUP 790 796	washed
+T27	WORKUP 656 666	hydrolysed
+T13	REACTION_PRODUCT 210 212	78
+T14	OTHER_COMPOUND 969 982	diethyl ether
+T28	WORKUP 870 875	dried
+T15	STARTING_MATERIAL 357 521	5-(2-chloro-3-methylsulphanyl-phenyl)-3-isopropyl-1-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T16	REAGENT_CATALYST 308 325	hydrogen peroxide
+T17	YIELD_PERCENT 1089 1092	76%
+T18	OTHER_COMPOUND 1021 1029	nitrogen
+T19	OTHER_COMPOUND 754 767	ethyl acetate
+T29	WORKUP 953 965	precipitates
+T20	TEMPERATURE 620 636	room temperature
+R0	ARG1 Arg1:T21 Arg2:T1
+R1	ARG1 Arg1:T21 Arg2:T15
+R2	ARG1 Arg1:T21 Arg2:T3
+R3	ARG1 Arg1:T21 Arg2:T16
+R4	ARG1 Arg1:T22 Arg2:T18
+R5	ARGM Arg1:T23 Arg2:T20
+R6	ARGM Arg1:T23 Arg2:T8
+R7	ARG1 Arg1:T24 Arg2:T19
+R8	ARG1 Arg1:T25 Arg2:T5
+R9	ARGM Arg1:T25 Arg2:T17
+R10	ARGM Arg1:T25 Arg2:T2
+R11	ARG1 Arg1:T26 Arg2:T11
+R12	ARG1 Arg1:T26 Arg2:T6
+R13	ARG1 Arg1:T26 Arg2:T0
+R14	ARG1 Arg1:T27 Arg2:T10
+R15	ARG1 Arg1:T27 Arg2:T12
+R16	ARG1 Arg1:T28 Arg2:T7
+R17	ARG1 Arg1:T29 Arg2:T14

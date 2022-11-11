@@ -1,0 +1,10 @@
+Carnosine inhibits Aβ(42) aggregation by perturbing the H-bond network in and around the central hydrophobic cluster.
+Aggregation of the amyloid-β peptide (Aβ) into fibrillar structures is a hallmark of Alzheimer's disease.
+Thus, preventing self-assembly of the Aβ peptide is an attractive therapeutic strategy.
+Here, we used experimental techniques and atomistic simulations to investigate the influence of carnosine, a dipeptide naturally occurring in the brain, on Aβ aggregation.
+Scanning force microscopy, circular dichroism and thioflavin T fluorescence experiments showed that carnosine does not modify the conformational features of Aβ42 but nonetheless inhibits amyloid growth.
+Molecular dynamics (MD) simulations indicated that carnosine interacts transiently with monomeric Aβ42 by salt bridges with charged side chains, and van der Waals contacts with residues in and around the central hydrophobic cluster ((17)LVFFA(21)).
+NMR experiments on the nonaggregative fragment Aβ12-28 did not evidence specific intermolecular interactions between the peptide and carnosine, in agreement with MD simulations.
+However, a close inspection of the spectra revealed that carnosine interferes with the local propensity of the peptide to form backbone hydrogen bonds close to the central hydrophobic cluster (residues E22, S26 and N27).
+Finally, MD simulations of aggregation-prone Aβ heptapeptide segments show that carnosine reduces the propensity to form intermolecular backbone hydrogen bonds in the region 18-24.
+Taken together, the experimental and simulation results (cumulative MD sampling of 0.2 ms) suggest that, despite the inability of carnosine to form stable contacts with Aβ, it might block the pathway toward toxic aggregates by perturbing the hydrogen bond network near residues with key roles in fibrillogenesis.

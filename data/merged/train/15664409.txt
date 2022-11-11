@@ -1,0 +1,13 @@
+Cloning, sequencing, structural and molecular biological characterization of placental protein 20 (PP20)/human thiamin pyrophosphokinase (hTPK).
+Full-length cDNAs of placental protein 20 (PP20) were cloned by screening a human placental cDNA library, which encode a 243 amino acid protein, identical to human thiamin pyrophosphokinase (hTPK) as confirmed by protein sequence analysis.
+Genomic alignment showed that the PP20/hTPK gene contains 9 exons.
+It is abundantly expressed in placenta, as numerous EST clones were identified.
+As thiamine metabolism deficiencies have been seen in placental infarcts previously, these indicate that PP20/hTPK may have a role in placental diseases.
+Analysis of the 1kb promoter region showed numerous putative transcription factor binding sites, which might be responsible for the ubiquitous PP20/hTPK expression.
+This may also be in accordance with the presence of the protein in tissues responsible for the regulation of the exquisite balance between cell division, differentiation and survival.
+TPK activity of the purified and recombinant protein was proved by mass spectrometry with electrospray ionization.
+By Western blot, PP20/hTPK was found in all human normal and tumorous adult and fetal tissues in nearly equal amounts, but not in sera.
+By immunohistochemical and immunofluorescent confocal imaging methods, diffuse labelling in the cytoplasm of the syncytiotrophoblasts and weak staining of the trophoblasts were observed, and the amount of PP20/hTPK decreased from the first trimester to the end of gestation.
+A 3D model of PP20/hTPK was computed (PDB No.: 1OLY) by homology modelling.
+A high degree of structural homology showed that the thiamin binding site was highly similar to that of the mouse enzyme, but highly different from the bacterial ones.
+Comparison of the catalytic centre sequences revealed differences, raising the possibility of designing new drugs which specifically inhibit bacterial and fungal enzymes without affecting PP20/hTPK and offering the possibility for safe antimicrobial therapy during pregnancy.

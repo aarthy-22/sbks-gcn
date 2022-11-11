@@ -1,0 +1,12 @@
+Mechanism of interaction of niflumic acid with heterologously expressed kidney CLC-K chloride channels.
+CLC-K Cl(-) channels belong to the CLC protein family.
+In kidney and inner ear, they are involved in transepithelial salt transport.
+Mutations in ClC-Kb lead to Bartter's syndrome, and mutations in the associated subunit barttin produce Bartter's syndrome and deafness.
+We have previously found that 3-phenyl-CPP blocks hClC-Ka and rClC-K1 from the extracellular side in the pore entrance.
+Recently, we have shown that niflumic acid (NFA), a nonsteroidal anti-inflammatory fenamate, produces biphasic behavior on human CLC-K channels that suggests the presence of two functionally different binding sites: an activating site and a blocking site.
+Here, we investigate in more detail the interaction of NFA on CLC-K channels.
+Mutants that altered block by 3-phenyl-2-(p-chlorophenoxy)propionic acid (CPP) had no effect on NFA block, indicating that the inhibition binding site of NFA is different from that of 3-phenyl-CPP and flufenamic acid.
+Moreover, NFA does not compete with extracellular Cl(-) ions, suggesting that the binding sites of NFA are not located deep in the pore.
+Differently from ClC-Ka, on the rat homologue ClC-K1, NFA has only an inhibitory effect.
+We developed a quantitative model to describe the complex action of NFA on ClC-Ka.
+The model predicts that ClC-Ka possesses two NFA binding sites: when only one site is occupied, NFA increases ClC-Ka currents, whereas the occupation of both binding sites leads to channel block.

@@ -1,0 +1,12 @@
+T1	STARTING_MATERIAL 4 128	8-(1,3-Dimethylpyrazol-4-yl)-1-[3-fluoro-5-(methylsulfanylmethoxy)-2-pyridyl]-7-methoxy-3-methylimidazo[4,5-c]quinolin-2-one
+T2	SOLVENT 154 158	MeOH
+T3	REAGENT_CATALYST 187 212	potassium peroxodisulfate
+T4	SOLVENT 241 246	water
+T5	TEMPERATURE 342 347	25° C
+T6	TIME 353 360	3 hours
+T7	OTHER_COMPOUND 394 404	silica gel
+T8	OTHER_COMPOUND 410 415	EtOAc
+T9	OTHER_COMPOUND 416 420	MeOH
+T10	YIELD_OTHER 502 507	15 mg
+T11	YIELD_PERCENT 509 512	18%
+T12	REACTION_PRODUCT 517 657	8-(1,3-dimethyl-1H-pyrazol-4-yl)-1-(3-fluoro-5-methylsulfonylmethoxypyridin-2-yl)-7-methoxy-3-methyl-1,3-dihydroimidazo[4,5-c]quinolin-2-one

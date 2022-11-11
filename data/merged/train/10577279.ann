@@ -1,0 +1,14 @@
+T13	GENE-N 24 73	erythroid-specific gamma-Aminolevulinate synthase
+T7	CHEMICAL 43 64	gamma-Aminolevulinate
+T6	CHEMICAL 111 121	pyridoxine
+T10	GENE-N 182 187	G663A
+T11	GENE-Y 206 255	erythroid-specific delta-aminolevulinate synthase
+T5	CHEMICAL 225 246	delta-aminolevulinate
+T8	GENE-Y 262 267	ALAS2
+T1	CHEMICAL 308 318	pyridoxine
+T2	CHEMICAL 375 396	delta-aminolevulinate
+T9	GENE-Y 375 405	delta-aminolevulinate synthase
+T3	CHEMICAL 526 548	pyridoxal 5'-phosphate
+T4	CHEMICAL 606 616	pyridoxine
+T12	GENE-N 811 816	G663A
+R0	NOT Arg1:T13 Arg2:T6

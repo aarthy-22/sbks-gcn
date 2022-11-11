@@ -1,0 +1,4 @@
+Example 13
+(S)-4-[4-cyano-2-(methylsulfonyl)phenyl]-6-methyl-2-oxo-1-[3-(trifluormethyl)phenyl]-1,2,3,4-tetra-hydropyrimidine-5-carboxylic Acid, Allyl Ester (X)
+(S)-4-[4-cyano-2-(methylsulfonyl)phenyl]-6-methyl-2-oxo-1-[3-(trifluormethyl)phenyl]-1,2,3,4-tetra-hydropyrimidine-5-carboxylic acid (XI) (250 g, 0.521 mol) was prepared at 20° C. in acetone (1.5 l) and combined with potassium carbonate (72 g; 0.521 mol). After 10 min of stirring, allyl bromide was added (79 g; 652 mol) and the mixture was stirred under reflux for 6 h. After cooling, 1.4 l of water was added to the reaction mixture and stirring was done for 60 min. The product was filtered off, washed twice with water (0.6 l) and twice with MtBE (0.6 l). Drying was done at 40° C. in vacuum.
+Yield: 258 g (95% of theory) of a cream-colored solid.

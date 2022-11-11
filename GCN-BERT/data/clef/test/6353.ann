@@ -1,0 +1,19 @@
+T1	REACTION_PRODUCT 15 142	(6S,8R)-6-(4-bromo-2-methoxyphenyl)-7-((1-fluorocyclopropyl) methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T2	REAGENT_CATALYST 143 154	Acetic acid
+T3	STARTING_MATERIAL 190 308	(1S,3R)-1-(4-bromo-2-methoxyphenyl)-2-((1-fluorocyclopropyl)methyl)-3,5-dimethyl-1,2,3,4-tetrahydroisoquinolin-6-amine
+T4	SOLVENT 333 338	CHCl3
+T5	TEMPERATURE 388 392	0° C
+T6	STARTING_MATERIAL 394 411	Isopentyl nitrite
+T7	SOLVENT 436 441	CHCl3
+T8	TEMPERATURE 517 521	0° C
+T9	TIME 535 542	2 hours
+T10	OTHER_COMPOUND 559 566	aqueous
+T11	OTHER_COMPOUND 567 573	NaHCO3
+T12	OTHER_COMPOUND 591 596	water
+T13	TEMPERATURE 644 648	0° C
+T14	TIME 654 664	10 minutes
+T15	OTHER_COMPOUND 791 804	ethyl acetate
+T16	OTHER_COMPOUND 808 815	hexanes
+T17	REACTION_PRODUCT 827 953	(6S,8R)-6-(4-bromo-2-methoxyphenyl)-7-((1-fluorocyclopropyl)methyl)-8-methyl-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T18	YIELD_OTHER 955 962	0.299 g
+T19	YIELD_PERCENT 964 969	49.2%

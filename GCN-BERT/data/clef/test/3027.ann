@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 8 9	2
+T2	REACTION_PRODUCT 11 147	5-((3R,5S,6R)-5-amino-6-(2,5-difluorophenyl)tetrahydro-2H-pyran-3-yl)-3-methyl-1-methylsulfonyl-1,4,5,6-tetrahydropyrrolo[3,4-c]pyrazole
+T3	EXAMPLE_LABEL 153 154	1
+T4	REACTION_PRODUCT 156 294	5-((3R,5S,6R)-5-tert-butoxycarbonylamino-6-(2,5-difluorophenyl)tetrahydro-2H-pyran-3-yl)-3-methyl-1,4,5,6-tetrahydropyrrolo[3,4-c]pyrazole
+T5	SOLVENT 298 316	1,2-dichloroethane
+T6	STARTING_MATERIAL 336 417	tert-butyl (2R,3S)-2-(2,5-di-fluorophenyl)-5-oxotetrahydro-2H-pyran-3-ylcarbamate
+T7	STARTING_MATERIAL 436 486	3-methyl-2,4,5,6-tetrahydropyrrolo[3, 4-c]pyrazole
+T8	REAGENT_CATALYST 508 527	glacial acetic acid
+T9	TEMPERATURE 562 578	room temperature
+T10	TIME 583 590	2 hours
+T11	REAGENT_CATALYST 622 650	sodium triacetoxyborohydride
+T12	TEMPERATURE 696 712	room temperature
+T13	OTHER_COMPOUND 746 764	sodium bicarbonate
+T14	OTHER_COMPOUND 830 845	dichloromethane
+T15	OTHER_COMPOUND 869 874	brine
+T16	OTHER_COMPOUND 917 927	silica gel
+T17	REACTION_PRODUCT 958 1097	5-((3R,5S,6R)-5-tert-butoxycarbonylamino-6-(2,5-difluorophenyl) tetrahydro-2H-pyran-3-yl)-3-methyl-1,4,5,6-tetrahydropyrrolo[3,4-c]pyrazole
+T18	YIELD_OTHER 1099 1105	145 mg
+T19	YIELD_PERCENT 1115 1118	33%

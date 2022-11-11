@@ -1,0 +1,14 @@
+Differential anti-ischemic efficacy and therapeutic time window of trans- and cis-hinokiresinols: Stereo-specific antioxidant and anti-inflammatory activities.
+During cerebral ischemia, neurons are injured by various mechanisms including excitotoxicity, oxidative stress, and inflammatory responses.
+Thus, pharmacological manipulation of multiple cytotoxic pathways has been pursued for the treatment of ischemic injury.
+Cis-hinokiresinol, a naturally occurring phenylpropanoid, was previously reported to possess anti-oxidant, anti-inflammatory and estrogen-like activities.
+In the present study, we investigated anti-ischemic effects of trans- and cis-hinokiresinols using in vitro as well as in vivo experimental models.
+The ORAC and DPPH assays showed that two isomers had similar free radical scavenging activities.
+However, only trans-hinokiresinol significantly decreased neuronal injury in cultured cortical neurons exposed to oxygen-glucose deprivation (75 min) followed by re-oxygenation (9 h).
+The differential neuroprotective effect could be due to the stereo-specific augmentation of Cu/Zn-SOD activity by trans-hinokiresinol, when compared with cis-hinokiresinol.
+Similarly, in rats subjected to transient middle cerebral artery occlusion (1.5 h) followed by 24-h reperfusion, pre-ischemic treatment with trans-hinokiresinol, but not with cis-isomer, reduced cerebral infarct volume.
+Interestingly, however, post-ischemic treatment with both hinokiresinols (2 and 7 h after onset of ischemia) significantly reduced cerebral infarct.
+When administered after onset of ischemia, trans-hinokiresinol, but not its cis-isomer reduced nitrotyrosine immunoreactivity in ischemic regions.
+In contrast, both hinokiresinols suppressed neutrophil infiltration and IL-1β release to a similar extent.
+The observed differential anti-oxidant, but comparable anti-inflammatory, activities may explain the stereo-specific anti-ischemic activities and different therapeutic time windows of the hinokiresinols examined.
+More detailed delineation of the anti-ischemic mechanism(s) of hinokiresinols may provide a better strategy for development of efficacious regimens for cerebral ischemic stroke.

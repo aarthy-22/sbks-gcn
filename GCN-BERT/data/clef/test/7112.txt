@@ -1,0 +1,3 @@
+Step 2
+Biphenyl-3,3'-diyldimethanol (9)
+To a stirred solution of biphenyl-3,3'-dicarbaldehyde (6 g, 28.5 mmol) in MeOH (100 mL) at 0° C. was added NaBH4 (5.28 g, 142.85 mmol) portion wise at 0° C. The resulting reaction mixture was stirred at 0° C. for 2 h. The reaction mixture was quenched with sat.NH4Cl and extracted with ethyl acetate (2×1 L). The combined organic layer was dried over Na2SO4 and concentrated to give the crude product, which was purified on a silica gel column, eluting with ethyl acetate in pet ether (0-35%) to get biphenyl-3,3'-diyldimethanol (5.9 g, 96%, LC/MS-91%) as an off white solid. [C14H14O2];

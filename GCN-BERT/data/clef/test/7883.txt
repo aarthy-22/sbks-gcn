@@ -1,0 +1,3 @@
+EXAMPLE 87
+Preparation of (S)-7-amino-5-((1-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydropyrrolo[2,1-f][1,2,4]triazine-2-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one
+20 mg of (S)-7-amino-5-((1-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydropyrrolo[2,1-f][1,2,4]triazine-2-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one was prepared as a white solid by using 86 mg (0.172 mmol) of (S)-5-((1-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydropyrrolo[2,1-f][1,2,4]triazine-2-yl)ethyl)amino)-7-(methylthio)pyrimido[4,5-d]pyrimidine-4(1H)-one according to the same manner as described in step 4 of Example 15 (0.043 mmol, yield: 25%).

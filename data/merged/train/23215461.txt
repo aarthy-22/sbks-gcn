@@ -1,0 +1,7 @@
+Recombinant human fibrinogen that produces thick fibrin fibers with increased wound adhesion and clot density.
+Human fibrinogen is a biomaterial used in surgical tissue sealants, scaffolding for tissue engineering, and wound healing.
+Here we report on the post-translational structure and functionality of recombinant human FI (rFI) made at commodity levels in the milk of transgenic dairy cows.
+Relative to plasma-derived fibrinogen (pdFI), rFI predominately contained a simplified, neutral carbohydrate structure and >4-fold higher levels of the γ'-chain transcriptional variant that has been reported to bind thrombin and Factor XIII.
+In spite of these differences, rFI and pdFI were kinetically similar with respect to the thrombin-catalyzed formation of protofibrils and Factor XIIIa-mediated formation of cross-linked fibrin polymer.
+However, electron microscopy showed rFI produced fibrin with much thicker fibers with less branching than pdFI.
+In vivo studies in a swine liver transection model showed that, relative to pdFI, rFI made a denser, more strongly wound-adherent fibrin clot that more rapidly established hemostasis.

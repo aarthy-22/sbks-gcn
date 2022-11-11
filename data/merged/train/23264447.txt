@@ -1,0 +1,12 @@
+Long-lasting inhibitory effect of apple and orange juices, but not grapefruit juice, on OATP2B1-mediated drug absorption.
+Enzyme-based grapefruit juice (GFJ)-drug interactions are mainly due to mechanism-based irreversible inhibition of metabolizing enzyme CYP3A4 by GFJ components, but the transporter organic anion transporting polypeptide (OATP)2B1 is also a putative site of interaction between drugs and fruit juices (FJ) in the absorption process.
+Here we aimed to investigate the effect of preincubation with FJ on OATP2B1-mediated transport of drugs in vitro.
+When OATP2B1-expressing Xenopus oocytes were preincubated with GFJ, orange juice (OJ), or apple juice (AJ), AJ induced a remarkable decrease in OATP2B1-mediated estrone-3-sulfate uptake in a concentration-dependent manner (IC(50) = 1.5%).
+A similar but less potent effect was observed with OJ (IC(50) = 21%), whereas GFJ had no effect.
+Similar results were obtained in preincubation studies using fexofenadine.
+Preincubation with OJ and AJ resulted in time-dependent inhibition of OATP2B1.
+Again, AJ had the more potent effect; its action lasted for at least 240 minutes, suggesting that AJ irreversibly inhibits OATP2B1-mediated drug uptake.
+Kinetic analysis revealed that coincubation and preincubation with AJ reduced OATP2B1-mediated estrone-3-sulfate uptake via competitive and noncompetitive mechanisms, respectively.
+Thus, OATP2B1 is functionally impaired through both competitive and long-lasting inhibition mechanisms by AJ and OJ, but not GFJ.
+Interestingly, although GFJ but not AJ is able to irreversibly inhibit CYP3A4, in the case of OATP2B1, AJ but not GFJ has a long-lasting inhibitory effect.
+Accordingly, complex FJ-drug interactions may occur in vivo, and their clinical significance should be examined.

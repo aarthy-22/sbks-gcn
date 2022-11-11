@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 21 171	4-(4-(4-((4-(dimethylamino)phenyl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide
+T3	STARTING_MATERIAL 189 308	4-(4-(4-((4-(dimethylamino)phenyl)ethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoic acid
+T4	SOLVENT 327 330	DMF
+T5	REAGENT_CATALYST 354 358	HATU
+T6	REAGENT_CATALYST 377 381	HOBT
+T7	REAGENT_CATALYST 399 403	Et3N
+T8	STARTING_MATERIAL 421 476	O-(tetrahydro-2H-pyran-2-yl)hydroxylamine hydrochloride
+T9	TIME 508 512	1 hr
+T10	TEMPERATURE 516 532	room temperature
+T11	OTHER_COMPOUND 565 578	ethyl acetate
+T12	OTHER_COMPOUND 583 588	water
+T13	OTHER_COMPOUND 624 629	brine
+T14	OTHER_COMPOUND 652 657	MgSO4
+T15	REACTION_PRODUCT 752 766	title compound
+T16	YIELD_OTHER 768 774	200 mg
+T17	YIELD_PERCENT 776 779	87%

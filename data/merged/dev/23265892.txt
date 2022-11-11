@@ -1,0 +1,4 @@
+Structure activity relationship studies of tricyclic bispyran sulfone γ-secretase inhibitors.
+An investigation is detailed of the structure activity relationships (SAR) of two sulfone side chains of compound (-)-1a (SCH 900229), a potent, PS1-selective γ-secretase inhibitor and clinical candidate for the treatment of Alzheimer's disease.
+Specifically, 4-CF(3) and 4-Br substituted arylsulfone analogs, (-)-1b and (-)-1c, are equipotent to compound (-)-1a.
+On the right hand side chain, linker size and terminal substituents of the pendant sulfone group are also investigated.

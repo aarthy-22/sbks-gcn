@@ -1,0 +1,16 @@
+T1	TIME 421 425	2 hr
+T2	EXAMPLE_LABEL 5 6	2
+T3	REACTION_PRODUCT 667 681	title compound
+T4	OTHER_COMPOUND 470 476	NaHCO3
+T5	OTHER_COMPOUND 567 572	MgSO4
+T6	STARTING_MATERIAL 161 271	methyl 4-(4-(4'-formyl-[1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
+T7	OTHER_COMPOUND 517 522	water
+T8	SOLVENT 290 293	THF
+T9	YIELD_PERCENT 691 694	78%
+T10	TEMPERATURE 429 445	room temperature
+T11	REAGENT_CATALYST 348 376	sodium triacetoxyborohydride
+T12	YIELD_OTHER 683 689	450 mg
+T13	OTHER_COMPOUND 497 512	dichloromethane
+T14	STARTING_MATERIAL 317 327	morpholine
+T15	OTHER_COMPOUND 466 468	aq
+T16	REACTION_PRODUCT 21 143	methyl 2-methyl-2-(methylsulfonyl)-4-(4-(4'-(morpholinomethyl)-[1,1'-biphenyl]-4-yl)-3,6-dihydropyridin-1(2H)-yl)butanoate

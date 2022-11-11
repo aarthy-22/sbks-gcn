@@ -1,0 +1,24 @@
+T24	GENE-Y 47 60	phospholamban
+T23	GENE-Y 118 131	phospholamban
+T16	GENE-N 176 188	Ca(2+)ATPase
+T4	CHEMICAL 176 182	Ca(2+)
+T19	GENE-Y 193 206	phospholamban
+T14	GENE-N 351 363	Ca(2+)ATPase
+T3	CHEMICAL 351 357	Ca(2+)
+T15	GENE-Y 367 380	phospholamban
+T17	GENE-Y 679 692	phospholamban
+T18	GENE-N 709 721	Ca(2+)ATPase
+T5	CHEMICAL 709 715	Ca(2+)
+T20	GENE-Y 754 767	phospholamban
+T21	GENE-N 869 890	C-Y-W-E-L-E-W-L-P-C-A
+T22	GENE-Y 912 932	phospholamban (1-36)
+T6	CHEMICAL 994 1000	Ca(2+)
+T7	CHEMICAL 1114 1121	alanine
+T8	GENE-N 1136 1151	cyclic peptides
+T1	CHEMICAL 1173 1183	amino acid
+T9	GENE-Y 1224 1237	phospholamban
+T2	CHEMICAL 1286 1293	alanine
+T10	GENE-N 1302 1317	cyclic peptides
+T11	GENE-Y 1326 1346	phospholamban (1-36)
+T12	GENE-Y 1433 1446	phospholamban
+T13	GENE-Y 1637 1650	phospholamban

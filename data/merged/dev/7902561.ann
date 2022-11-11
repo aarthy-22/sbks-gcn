@@ -1,0 +1,32 @@
+T1	CHEMICAL 67 82	dexfenfluramine
+T13	CHEMICAL 118 137	5-hydroxytryptamine
+T16	CHEMICAL 139 143	5-HT
+T2	CHEMICAL 250 254	5-HT
+T17	GENE-Y 275 281	5-HT1B
+T3	CHEMICAL 324 339	dexfenfluramine
+T4	CHEMICAL 372 376	5-HT
+T5	CHEMICAL 403 413	fluoxetine
+T6	CHEMICAL 418 428	sertraline
+T7	CHEMICAL 478 493	(+)-amphetamine
+T8	CHEMICAL 495 506	phentermine
+T9	CHEMICAL 508 522	diethylpropion
+T10	CHEMICAL 527 546	phenylpropanolamine
+T11	CHEMICAL 614 627	noradrenaline
+T12	CHEMICAL 635 643	dopamine
+T14	CHEMICAL 711 730	phenylpropanolamine
+T18	GENE-N 754 775	alpha 1-adrenoceptors
+T19	GENE-N 804 835	beta- and alpha 1-adrenoceptors
+T20	GENE-Y 840 861	D1 dopamine receptors
+T15	CHEMICAL 843 851	dopamine
+R0	CPR-3 Arg1:T14 Arg2:T18
+R1	NOT Arg1:T17 Arg2:T3
+R2	NOT Arg1:T17 Arg2:T4
+R3	NOT Arg1:T17 Arg2:T5
+R4	NOT Arg1:T17 Arg2:T6
+R5	NOT Arg1:T7 Arg2:T18
+R6	NOT Arg1:T8 Arg2:T18
+R7	NOT Arg1:T9 Arg2:T18
+R8	NOT Arg1:T10 Arg2:T18
+R9	NOT Arg1:T11 Arg2:T18
+R10	NOT Arg1:T12 Arg2:T18
+R11	NOT Arg1:T19 Arg2:T15

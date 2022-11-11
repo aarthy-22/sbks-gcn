@@ -1,0 +1,38 @@
+T27	CHEMICAL 15 38	Delta(5)-androstenediol
+T28	CHEMICAL 47 55	androgen
+T34	GENE-Y 47 64	androgen receptor
+T29	CHEMICAL 94 102	steroids
+T13	CHEMICAL 169 199	androst-5-ene-3beta,7beta-diol
+T21	CHEMICAL 201 224	Delta(5)-androstenediol
+T25	CHEMICAL 228 233	Adiol
+T7	CHEMICAL 316 332	hydroxyflutamide
+T8	CHEMICAL 334 341	Eulexin
+T9	CHEMICAL 347 359	bicalutamide
+T10	CHEMICAL 361 368	Casodex
+T11	CHEMICAL 400 405	Adiol
+T12	CHEMICAL 414 422	androgen
+T30	GENE-Y 414 431	androgen receptor
+T31	GENE-Y 433 435	AR
+T14	CHEMICAL 559 567	steroids
+T15	CHEMICAL 578 583	Adiol
+T16	CHEMICAL 630 652	dehydroepiandrosterone
+T17	CHEMICAL 665 673	steroids
+T18	CHEMICAL 679 734	4, 1,3,5(10)-estratriene-17alpha-ethynyl-3, 17beta-diol
+T19	CHEMICAL 740 774	6, 17alpha-ethynyl-androstene-diol
+T20	CHEMICAL 780 827	8, 3beta, 17beta-dihydroxy-androst-5-ene-16-one
+T22	CHEMICAL 837 887	10, 3beta-methylcarbonate-androst-5-ene-7,17-dione
+T23	CHEMICAL 947 952	Adiol
+T32	GENE-Y 961 963	AR
+T24	CHEMICAL 1063 1079	hydroxyflutamide
+T26	CHEMICAL 1104 1109	Adiol
+T33	GENE-Y 1118 1120	AR
+T1	CHEMICAL 1190 1195	Adiol
+T2	CHEMICAL 1196 1204	steroids
+T3	CHEMICAL 1243 1255	progesterone
+T4	CHEMICAL 1326 1334	steroids
+T5	CHEMICAL 1351 1356	Adiol
+T6	CHEMICAL 1439 1447	androgen
+R0	CPR-4 Arg1:T22 Arg2:T32
+R1	NOT Arg1:T8 Arg2:T30
+R2	NOT Arg1:T9 Arg2:T30
+R3	NOT Arg1:T10 Arg2:T30

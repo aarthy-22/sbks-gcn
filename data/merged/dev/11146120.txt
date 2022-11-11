@@ -1,0 +1,11 @@
+Pharmacological modulation of nerve growth factor synthesis: a mechanistic comparison of vitamin D receptor and beta(2)-adrenoceptor agonists.
+Increasing nerve growth factor (NGF) in the PNS is a rational strategy for treating certain neurodegenerative disorders.
+The present studies were undertaken to compare two compounds, a vitamin D(3) analogue (CB1093) with minimal calcaemic effects, and clenbuterol, a long-acting beta(2)-adrenoceptor agonist, both of which induce NGF synthesis in vivo.
+Clenbuterol caused significant increases in both NGF mRNA and protein in 3T3 cells; with maxima at 10 nM and at 8-12 h exposure.
+Effects of clenbuterol on NGF mRNA were antagonized by propranolol.
+Mobility shift assays on whole cell extracts showed that clenbuterol increased AP1 binding in 3T3 cells prior to increasing NGF synthesis.
+Clenbuterol was without effect on NGF mRNA levels in L929 cells, whereas CB1093 caused significant increases in both NGF mRNA and protein levels in both 3T3 and L929 cells.
+Stimulation was almost maximal at 24 h exposure and was sustained for at least 72 h. The magnitude of the increase was much greater in L929 (700% increase) than in 3T3 cells (80%).
+Binding to the vitamin D nuclear receptor (VDR), which acts as a transcription factor itself, was increased as early as 30 min after exposure to of CB1093 and maintained up to 24 h. Increased VDR binding preceded increased NGF mRNA.
+A 150% increase in AP-1 binding was also evident.
+This study demonstrates that CB1093 and clenbuterol stimulate NGF levels in vitro and that AP-1 binding could be a commonality between the mechanism of NGF induction of these two compounds.

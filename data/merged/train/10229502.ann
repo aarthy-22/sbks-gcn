@@ -1,0 +1,27 @@
+T25	GENE-Y 87 116	insulin-like growth factor-II
+T22	GENE-Y 118 160	insulin-like growth factor receptor type 1
+T23	GENE-Y 162 173	cathepsin D
+T24	GENE-Y 179 184	Ki-67
+T2	GENE-Y 186 221	Insulin-like growth factor (IGF)-II
+T7	GENE-N 309 329	IGF binding proteins
+T9	GENE-N 334 363	IGF binding protein proteases
+T10	GENE-N 420 423	IGF
+T11	GENE-N 436 456	IGF binding proteins
+T12	GENE-Y 458 469	Cathepsin D
+T13	GENE-N 474 502	IGF binding protein protease
+T14	GENE-Y 552 558	IGF-II
+T1	CHEMICAL 842 850	formalin
+T15	GENE-Y 931 937	IGF-II
+T16	GENE-Y 939 958	IGF receptor type 1
+T17	GENE-Y 960 971	cathepsin D
+T18	GENE-Y 977 982	Ki-67
+T19	GENE-Y 1051 1057	IGF-II
+T20	GENE-Y 1115 1134	IGF receptor type I
+T21	GENE-Y 1175 1186	cathepsin D
+T3	GENE-Y 1192 1197	Ki-67
+T4	GENE-Y 1281 1287	IGF-II
+T5	GENE-Y 1292 1311	IGF receptor type 1
+T6	GENE-Y 1394 1400	IGF-II
+T8	GENE-Y 1460 1471	Cathepsin D
+R0	NOT Arg1:T1 Arg2:T16
+R1	NOT Arg1:T1 Arg2:T17

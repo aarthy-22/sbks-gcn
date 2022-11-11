@@ -1,0 +1,5 @@
+Thermodynamic determination of the binding constants of angiotensin-converting enzyme inhibitors by a displacement method.
+Somatic angiotensin I-converting enzyme (s-ACE) plays a central role in blood pressure regulation and has been the target of most antihypertensive drugs.
+A displacement isothermal titration calorimetry method has been used to accurately determine the binding constant of three strong s-ACE inhibitors.
+Under the experimental conditions studied in this work, the relative potency of the inhibitors was determined to be enalaprilat>lisinopril>captopril.
+We analyze the thermodynamic behaviour of the binding process using the new structural information provided by the ACE structures, as well as the conformational changes that occur upon binding.

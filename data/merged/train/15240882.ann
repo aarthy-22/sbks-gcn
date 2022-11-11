@@ -1,0 +1,16 @@
+T7	CHEMICAL 0 15	Thyroid hormone
+T15	GENE-Y 0 30	Thyroid hormone receptor alpha
+T1	CHEMICAL 107 123	Thyroid hormones
+T8	GENE-Y 257 264	TRalpha
+T9	GENE-Y 269 275	TRbeta
+T3	CHEMICAL 295 311	triiodothyronine
+T4	CHEMICAL 313 315	T3
+T5	CHEMICAL 429 444	thyroid hormone
+T10	GENE-N 429 457	thyroid hormone aporeceptors
+T11	GENE-Y 659 666	TRalpha
+T12	GENE-Y 728 734	TRbeta
+T6	CHEMICAL 841 843	T3
+T13	GENE-Y 886 893	TRalpha
+T14	GENE-Y 1073 1080	TRalpha
+T2	CHEMICAL 1137 1139	T3
+R0	NOT Arg1:T6 Arg2:T13

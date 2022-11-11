@@ -1,0 +1,11 @@
+Withdrawal from free-choice ethanol consumption results in increased packing density of glutamine synthetase-immunoreactive astrocytes in the prelimbic cortex of alcohol-preferring rats.
+Excess activation of glutamatergic neurotransmission in the cerebral cortex following ethanol withdrawal is considered to contribute to significant behavioural disturbances, and to alcohol craving.
+Astrocytes may play a role in these manifestations because astrocytes are essential in the regulation of released glutamate and its conversion to glutamine through the enzyme glutamine synthetase (GS).
+However, it is unclear if withdrawal from free-choice ethanol drinking causes changes in the numbers of astrocytes expressing GS or the cytoskeletal protein of astrocytes glial fibrillary acidic protein (GFAP).
+Alcohol-preferring (P) rats exposed to free-choice ethanol drinking were either maintained without forced interruption of ethanol drinking, subjected to a 3-day withdrawal period at the end of 2 months, or subjected to three 3-day withdrawal periods along 6 months.
+At 2 months, P rats were also compared with alcohol-naive alcohol non-preferring rats (NP) rats.
+Packing density of GS and GFAP-immunoreactive (IR) astrocytes was measured in sections from the prelimbic cortex (PLC) using the optical disector probe.
+An alcohol deprivation effect was observed in P rats with withdrawals during a 6-month ethanol drinking period.
+Ethanol withdrawal significantly increased the packing density of GS- and GFAP-IR astrocytes in the PLC of P rats as compared with P rats with continuous access to ethanol.
+In addition, there was a positive correlation between the pre-withdrawal ethanol consumption and the packing density of GS-IR astrocytes.
+The present results suggest the involvement of astrocytes in the regulation of the glutamatergic activation associated with withdrawal from free-choice ethanol consumption and point to differential adaptations of GS and GFAP to prolonged alcohol drinking in the PLC of P rats.

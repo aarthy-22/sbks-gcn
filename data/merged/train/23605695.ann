@@ -1,0 +1,29 @@
+T18	CHEMICAL 0 11	Pasireotide
+T1	CHEMICAL 55 66	Pasireotide
+T5	CHEMICAL 68 76	Signifor
+T13	CHEMICAL 103 115	somatostatin
+T23	GENE-Y 103 115	somatostatin
+T16	CHEMICAL 139 151	somatostatin
+T24	GENE-N 139 161	somatostatin receptors
+T20	GENE-Y 190 203	corticotropin
+T9	CHEMICAL 267 278	Pasireotide
+T10	CHEMICAL 346 358	somatostatin
+T21	GENE-Y 346 358	somatostatin
+T11	CHEMICAL 400 412	somatostatin
+T22	GENE-Y 400 431	somatostatin receptor subtype 5
+T12	CHEMICAL 497 508	Pasireotide
+T14	CHEMICAL 670 681	pasireotide
+T15	CHEMICAL 746 754	cortisol
+T17	CHEMICAL 1013 1024	pasireotide
+T2	CHEMICAL 1103 1114	pasireotide
+T3	CHEMICAL 1176 1184	cortisol
+T4	CHEMICAL 1323 1334	Pasireotide
+T6	CHEMICAL 1397 1409	somatostatin
+T19	GENE-Y 1397 1409	somatostatin
+T7	CHEMICAL 1536 1543	glucose
+T8	CHEMICAL 1611 1622	pasireotide
+R0	CPR-4 Arg1:T1 Arg2:T20
+R1	NOT Arg1:T1 Arg2:T23
+R2	NOT Arg1:T13 Arg2:T24
+R3	NOT Arg1:T23 Arg2:T16
+R4	NOT Arg1:T21 Arg2:T11

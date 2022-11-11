@@ -1,0 +1,15 @@
+Thymidylate synthase expression in resectable and unresectable pancreatic cancer: role as predictive or prognostic marker?
+BACKGROUND AND AIMS: Thymidylate synthase (TS) is an important enzyme for DNA synthesis and the target for 5-fluorouracil (5-FU).
+Its expression may determine the outcome of patients with gastrointestinal cancers.
+We examined the prognostic and predictive value of TS-protein expression in patients with ductal adenocarcinoma of the pancreas.
+METHODS: TS expression from 131 patients with ductal adenocarcinoma of the pancreas was analyzed by immunohistochemistry in paraffin-embedded primary tumour specimens or biopsies.
+RESULTS: The median disease-specific survival among all patients (n=131) was 13 months.
+The invasion depth, the presence of metastases, grading and Union Internationale Contre le Cancer [International Union Against Cancer] (UICC) stage were associated with survival.
+Among resected patients (n=98), a difference in median survival was seen in the group receiving postoperative adjuvant treatment (21.1 months) compared with the group treated by surgery alone (12.4 months) (p=0.025).
+Low- and high-TS immunoreactivity was present in 74 (56%) and 56 (43%) of the cancers, respectively.
+One sample was not evaluable.
+No difference in median survival was observed among low- and high-TS-expressing tumours.
+Among patients undergoing resection and receiving postoperative intra-arterial chemotherapy (n=23), a marked trend to a longer median survival was seen for the group with low-TS-expressing tumours compared with the corresponding high-TS group (25.0 vs 16.0 months) (p=0.3834).
+There was no difference in survival among all palliative treated patients with low- and high-TS-expressing tumours.
+CONCLUSION: Especially patients undergoing tumour resection with low-TS values seemed to have taken advantage from an intensified postoperative chemotherapeutic protocol.
+However due to the heterogeneous group of patients in the present report, larger trials of more homogenous patient populations will be necessary to confirm this hypothesis.

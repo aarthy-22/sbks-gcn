@@ -1,0 +1,6 @@
+Example 11: Synthesis of (R)-3-aminoquinuclidine.monooxalate
+Ethanol solution (14.86 g) containing oxalic acid (2.86 g: 31.8 mmol) was charged into a 50 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and ethanol solution (12 g) containing (R)-3-aminoquinuclidine (4.00 g: 31.7 mmol) was added thereto while stirring at room temperature. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain (R)-3-aminoquinuclidine.monooxalate (3.14 g: 14.5 mmol, yield=46%) as a white crystal.
+Endothermic peak top temperature in DSC: 282° C.
+Elemental analysis: C7H14N2.C2H2O4
+Theoretical value: C, 49.99%, H, 7.46%, N, 12.96%
+Actual measured value: C, 50.1%, H, 7.4%, N, 13.1%

@@ -1,0 +1,31 @@
+T18	CHEMICAL 14 23	capsaicin
+T19	CHEMICAL 53 63	carvedilol
+T15	CHEMICAL 209 219	carvedilol
+T20	GENE-N 236 253	beta-adrenoceptor
+T7	CHEMICAL 276 285	capsaicin
+T25	GENE-N 354 385	calcitonin gene-related peptide
+T26	GENE-N 387 391	CGRP
+T9	CHEMICAL 478 488	Carvedilol
+T27	GENE-N 650 654	CGRP
+T10	CHEMICAL 709 719	carvedilol
+T11	CHEMICAL 761 772	capsazepine
+T12	CHEMICAL 791 800	capsaicin
+T13	CHEMICAL 821 830	cavedilol
+T28	GENE-N 905 909	CGRP
+T14	CHEMICAL 939 947	Prazosin
+T29	GENE-N 961 982	alpha(1)-adrenoceptor
+T16	CHEMICAL 999 1009	bisoprolol
+T30	GENE-Y 1023 1043	beta(1)-adrenoceptor
+T17	CHEMICAL 1076 1087	capsazepine
+T21	GENE-N 1210 1214	CGRP
+T1	CHEMICAL 1242 1253	ICI 118,551
+T2	CHEMICAL 1255 1340	(+/-)-1-[2,3-(dihydro-7-methyl-1H-inden-4-yl)oxy]-3-[(1-methylethyl)amino]-2-but anol
+T22	GENE-Y 1355 1375	beta(2)-adrenoceptor
+T3	CHEMICAL 1416 1425	capsaicin
+T4	CHEMICAL 1464 1474	carvedilol
+T5	CHEMICAL 1504 1515	ICI 118,551
+T6	CHEMICAL 1571 1581	carvedilol
+T8	CHEMICAL 1642 1652	carvedilol
+T23	GENE-N 1708 1712	CGRP
+T24	GENE-Y 1856 1876	beta(2)-adrenoceptor
+R0	CPR-3 Arg1:T8 Arg2:T23

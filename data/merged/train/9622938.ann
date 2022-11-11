@@ -1,0 +1,17 @@
+T10	CHEMICAL 36 66	delta1-pyrroline 5-carboxylate
+T16	GENE-Y 36 77	delta1-pyrroline 5-carboxylate synthetase
+T1	CHEMICAL 91 122	delta 1-pyrroline 5-carboxylate
+T11	GENE-Y 91 133	delta 1-pyrroline 5-carboxylate synthetase
+T13	GENE-Y 135 149	P5C synthetase
+T8	CHEMICAL 165 168	ATP
+T9	CHEMICAL 177 184	NAD(P)H
+T2	CHEMICAL 209 220	L-glutamate
+T3	CHEMICAL 224 246	glutamate semialdehyde
+T4	CHEMICAL 248 251	GSA
+T5	CHEMICAL 290 297	proline
+T12	GENE-Y 514 534	human P5C synthetase
+T6	CHEMICAL 653 664	amino acids
+T14	GENE-N 702 707	L396S
+T7	CHEMICAL 727 737	amino acid
+T15	GENE-Y 807 821	P5C synthetase
+R0	CPR-9 Arg1:T2 Arg2:T13

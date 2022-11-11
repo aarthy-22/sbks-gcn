@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 7 136	(E)-methyl 3-(3,5-difluoro-4-((1S,3R/1R,3S)-6-hydroxy-2-isobutyl-3,5-dimethyl-1,2, 3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylate
+T3	STARTING_MATERIAL 137 179	3-(2-(isobutylamino)propyl)-2-methylphenol
+T4	STARTING_MATERIAL 180 183	92c
+T5	SOLVENT 230 238	methanol
+T6	STARTING_MATERIAL 245 295	(E)-methyl 3-(3,5-difluoro-4-formylphenyl)acrylate
+T7	STARTING_MATERIAL 296 298	1e
+T8	REAGENT_CATALYST 323 334	acetic acid
+T9	TEMPERATURE 406 410	60°C
+T10	TIME 427 435	12 hours
+T11	TEMPERATURE 452 468	room temperature
+T12	OTHER_COMPOUND 548 558	silica gel
+T13	REACTION_PRODUCT 617 631	title compound
+T14	REACTION_PRODUCT 632 761	(E)-methyl 3-(3,5-difluoro-4-((1S,3R/1R,3S)-6-hydroxy-2-isobutyl-3,5-dimethyl-1,2,3,4-tetrahydroi soquinolin-1-yl)phenyl)acrylate
+T15	REACTION_PRODUCT 762 765	92d
+T16	YIELD_OTHER 767 771	2.5g
+T17	YIELD_PERCENT 779 782	34%

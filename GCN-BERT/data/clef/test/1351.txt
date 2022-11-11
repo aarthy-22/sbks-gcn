@@ -1,0 +1,4 @@
+PREPARATIVE EXAMPLE 5
+Preparation of (S)-2-(1-aminoethyl)-5-chloro-3-(m-tolyl)quinazoline-4(3H)-one
+Step 1: Preparation of tert-butyl (S)-(1-(5-chloro-4-oxo-3-(m-tolyl)-3,4-dihydroquinazoline-2-yl)ethyl)carbamate
+5.1 g of tert-butyl (S)-(1-(5-chloro-4-oxo-3-(m-tolyl)-3,4-dihydroquinazoline-2-yl)ethyl)carbamate was prepared as a white solid by using 1.88 g (17.56 mmol) of m-toluidine according to the same manner as described in step 2 of Preparative Example 1 (12.29 mmol, yield: 70%).

@@ -1,0 +1,28 @@
+T11	CHEMICAL 0 8	Chloride
+T24	GENE-N 0 17	Chloride channels
+T1	CHEMICAL 138 146	chloride
+T12	GENE-N 138 174	chloride channels and cotransporters
+T2	CHEMICAL 221 224	Cl-
+T13	GENE-N 295 325	voltage-gated chloride channel
+T3	CHEMICAL 309 317	chloride
+T14	GENE-Y 327 332	CLC-5
+T15	GENE-N 503 533	voltage-gated chloride channel
+T4	CHEMICAL 517 525	chloride
+T16	GENE-Y 535 541	CLC-Kb
+T5	CHEMICAL 666 676	bumetanide
+T17	GENE-N 666 726	bumetanide-sensitive sodium-potassium-chloride cotransporter
+T6	CHEMICAL 687 712	sodium-potassium-chloride
+T18	GENE-Y 728 733	NKCC2
+T7	CHEMICAL 743 752	potassium
+T19	GENE-N 743 760	potassium channel
+T20	GENE-Y 762 766	ROMK
+T8	CHEMICAL 794 802	thiazide
+T21	GENE-Y 794 842	thiazide-sensitive sodium-chloride cotransporter
+T9	CHEMICAL 813 828	sodium-chloride
+T22	GENE-Y 844 848	NCCT
+T10	CHEMICAL 1014 1022	chloride
+T23	GENE-N 1014 1031	chloride channels
+R0	NOT Arg1:T3 Arg2:T14
+R1	NOT Arg1:T15 Arg2:T7
+R2	NOT Arg1:T4 Arg2:T16
+R3	NOT Arg1:T4 Arg2:T19

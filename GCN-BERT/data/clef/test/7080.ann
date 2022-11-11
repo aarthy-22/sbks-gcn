@@ -1,0 +1,12 @@
+T1	EXAMPLE_LABEL 5 6	7
+T2	REACTION_PRODUCT 36 152	10-allyloxy-5-(3-(tert-butoxycarbonylamino)propyl)-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undec-2(6)-ene-4,9-dione
+T3	YIELD_PERCENT 154 157	10g
+T4	REACTION_PRODUCT 213 320	10-allyloxy-5-(3-methylsulfonyloxypropyl)-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undec-2(6)-ene-4,9-dione
+T5	STARTING_MATERIAL 322 325	10f
+T6	REACTION_PRODUCT 364 480	10-allyloxy-5-(3-(tert-butoxycarbonylamino)propyl)-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undec-2(6)-ene-4,9-dione
+T7	YIELD_OTHER 482 485	10g
+T8	YIELD_OTHER 488 494	189 mg
+T9	YIELD_PERCENT 507 510	66%
+T10	OTHER_COMPOUND 536 546	silica gel
+T11	OTHER_COMPOUND 548 551	DCM
+T12	OTHER_COMPOUND 552 559	Acetone

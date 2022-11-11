@@ -1,0 +1,8 @@
+Visualization and virtual screening of the chemical universe database GDB-17.
+The chemical universe database GDB-17 contains 166.4 billion molecules of up to 17 atoms of C, N, O, S, and halogens obeying rules for chemical stability, synthetic feasibility, and medicinal chemistry.
+GDB-17 was analyzed using 42 integer value descriptors of molecular structure which we term "Molecular Quantum Numbers" (MQN).
+Principal component analysis and representation of the (PC1, PC2)-plane provided a graphical overview of the GDB-17 chemical space.
+Rapid ligand-based virtual screening (LBVS) of GDB-17 using the city-block distance CBD(MQN) as a similarity search measure was enabled by a hashed MQN-fingerprint.
+LBVS of the entire GDB-17 and of selected subsets identified shape similar, scaffold hopping analogs (ROCS > 1.6 and T(SF) < 0.5) of 15 drugs.
+Over 97% of these analogs occurred within CBD(MQN) ≤ 12 from each drug, a constraint which might help focus advanced virtual screening.
+An MQN-searchable 50 million subset of GDB-17 is publicly available at www.gdb.unibe.ch .

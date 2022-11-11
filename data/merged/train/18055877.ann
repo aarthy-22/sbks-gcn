@@ -1,0 +1,42 @@
+T14	CHEMICAL 0 11	Thionamides
+T34	GENE-N 45 66	nuclear factor-kappaB
+T35	GENE-Y 85 89	Rac1
+T36	GENE-Y 94 126	inhibitor of kappaB kinase alpha
+T1	CHEMICAL 128 139	Thionamides
+T22	GENE-Y 159 177	thyroid peroxidase
+T8	CHEMICAL 363 373	thionamide
+T9	CHEMICAL 382 408	heterocyclic thioderivates
+T10	CHEMICAL 533 557	heterocyclic thionamides
+T11	CHEMICAL 558 569	carbimazole
+T12	CHEMICAL 574 590	propylthiouracil
+T23	GENE-N 632 641	cytokines
+T24	GENE-Y 642 674	tumor necrosis factor (TNF)alpha
+T25	GENE-Y 679 700	interferon (IFN)gamma
+T26	GENE-N 730 756	nuclear factor (NF)-kappaB
+T27	GENE-Y 817 825	TNFalpha
+T28	GENE-Y 830 838	IFNgamma
+T29	GENE-N 854 863	NF-kappaB
+T30	GENE-N 927 936	NF-kappaB
+T31	GENE-Y 1020 1054	inhibitor of kappaB (IkappaB)alpha
+T32	GENE-N 1086 1095	NF-kappaB
+T13	CHEMICAL 1105 1116	Carbimazole
+T33	GENE-N 1127 1136	NF-kappaB
+T15	GENE-N 1151 1157	GTPase
+T16	GENE-Y 1158 1163	Rac-1
+T2	CHEMICAL 1173 1189	propylthiouracil
+T17	GENE-Y 1223 1235	IkappaBalpha
+T18	GENE-N 1243 1249	kinase
+T19	GENE-Y 1250 1282	inhibitor of kappaB kinase alpha
+T20	GENE-N 1313 1322	NF-kappaB
+T3	CHEMICAL 1413 1423	thionamide
+T4	CHEMICAL 1435 1441	sulfur
+T5	CHEMICAL 1491 1504	thioureylenes
+T6	CHEMICAL 1520 1532	heterocyclic
+T21	GENE-N 1592 1601	NF-kappaB
+T7	CHEMICAL 1756 1769	thioureylenes
+R0	CPR-4 Arg1:T14 Arg2:T34
+R1	CPR-4 Arg1:T10 Arg2:T23
+R2	CPR-4 Arg1:T11 Arg2:T24
+R3	CPR-4 Arg1:T13 Arg2:T15
+R4	CPR-4 Arg1:T2 Arg2:T17
+R5	CPR-4 Arg1:T2 Arg2:T18

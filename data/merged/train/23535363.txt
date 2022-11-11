@@ -1,0 +1,11 @@
+Interferon-γ Promoter Is Hypermethylated in Blood DNA from Workers with Confirmed Diisocyanate Asthma.
+Risk factors have not been identified that determine susceptibility for development of diisocyanate-induced occupational asthma (DA).
+We hypothesized that diisocyanate (DI) exposure could modify gene promoter regions regulating transcription of cytokine mediators and thereby influence expression of DA.
+A cross-sectional study was designed to investigate the promoter methylation status of candidate genes in DI-exposed workers.
+Subjects consisted of 131 workers in three groups: 40 cases with DA confirmed by a positive specific inhalation challenge (SIC) (DA+), 41 exposed workers with lower respiratory symptoms and negative SIC (DA-), and 50 asymptomatic exposed workers (AWs).
+We studied four candidate genes (GSTM1, DUSP22, IFN-γ, and IL-4) for which altered promoter methylation has been previously investigated for relationships with a variety of other environmental exposures.
+Methylation status was determined using methylation-specific quantitative PCR performed on genomic DNA extracted from whole blood.
+Results showed that relative methylation of IFN-γ promoter was significantly increased in DA+ in comparison with both comparator groups (DA- and AW), and it exhibited good sensitivity (77.5%) and specificity (80%) for identifying DA workers in a multivariate predictive model after adjusting for type of DI exposure, smoking status, methacholine PC20, and gender.
+IL-4 promoter was slightly less methylated only in DA+ compared with AW among nonsmoking workers.
+Both GSTM1 and DUSP22 promoter methylations were found not associated with DA.
+Our finding suggests that exposure to occupational chemicals could play a heretofore undefined mechanistic role via epigenetic modification of specific genes in the promoter region.

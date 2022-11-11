@@ -1,0 +1,12 @@
+Enhanced beta cell function and anti-inflammatory effect after chronic treatment with the dipeptidyl peptidase-4 inhibitor vildagliptin in an advanced-aged diet-induced obesity mouse model.
+AIMS/HYPOTHESIS: Studies have shown that dipeptidyl peptidase-4 (DPP4) inhibitors stimulate insulin secretion and increase beta cell mass in rodents.
+However, in these models hyperglycaemia has been induced early on in life and the treatment periods have been short.
+To explore the long-term effects of DPP4 inhibition on insulin secretion and beta cell mass, we have generated a high-fat diet (HFD)-induced-obesity model in mice of advanced age (10 months old).
+METHODS: After 1 month of HFD alone, the mice were given the DPP4 inhibitor vildagliptin for a further 11 months.
+At multiple time points throughout the study, OGTTs were performed and beta cell area and long-term survival were evaluated.
+RESULTS: Beta cell function and glucose tolerance were significantly improved by vildagliptin with both diets.
+In contrast, in spite of the long treatment period, beta cell area was not significantly different between vildagliptin-treated mice and controls.
+Mice of advanced age chronically fed an HFD displayed clear and extensive pancreatic inflammation and peri-insulitis, mainly formed by CD3-positive T cells, which were completely prevented by vildagliptin treatment.
+Chronic vildagliptin treatment also improved survival rates for HFD-fed mice.
+CONCLUSIONS/INTERPRETATION: In a unique advanced-aged HFD-induced-obesity mouse model, insulin secretion was improved and the extensive peri-insulitis prevented by chronic DPP4 inhibition.
+The improved survival rates for obese mice chronically treated with vildagliptin suggest that chronic DPP4 inhibition potentially results in additional quality-adjusted life-years for individuals with type 2 diabetes, which is the primary goal of any diabetes therapy.

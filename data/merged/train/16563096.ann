@@ -1,0 +1,20 @@
+T1	CHEMICAL 518 532	5-fluorouracil
+T2	CHEMICAL 598 609	thymidylate
+T9	GENE-Y 598 618	thymidylate synthase
+T3	CHEMICAL 620 629	gefitinib
+T4	CHEMICAL 634 643	erlotinib
+T10	GENE-Y 660 692	epidermal growth factor receptor
+T11	GENE-Y 694 698	EGFR
+T12	GENE-Y 723 727	EGFR
+T5	CHEMICAL 747 756	cisplatin
+T6	CHEMICAL 761 772	carboplatin
+T13	GENE-Y 809 846	excision repair cross complementing-1
+T7	CHEMICAL 852 863	gemcitabine
+T8	CHEMICAL 900 914	ribonucleotide
+T14	GENE-N 900 924	ribonucleotide reductase
+R0	NOT Arg1:T2 Arg2:T13
+R1	NOT Arg1:T9 Arg2:T5
+R2	NOT Arg1:T4 Arg2:T11
+R3	NOT Arg1:T10 Arg2:T8
+R4	NOT Arg1:T12 Arg2:T5
+R5	NOT Arg1:T6 Arg2:T13

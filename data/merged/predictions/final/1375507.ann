@@ -1,0 +1,34 @@
+T20	CHEMICAL 0 12	Prostacyclin
+T34	GENE 31 44	tissue factor
+T21	CHEMICAL 101 111	cyclic AMP
+T27	GENE 157 170	tissue factor
+T12	CHEMICAL 348 360	prostacyclin
+T28	GENE 441 454	tissue factor
+T29	GENE 567 585	interleukin-1 beta
+T30	GENE 598 625	tumor necrosis factor-alpha
+T31	GENE 655 668	tissue factor
+T13	CHEMICAL 726 734	iloprost
+T14	CHEMICAL 736 746	ciprostene
+T15	CHEMICAL 752 763	carbacyclin
+T32	GENE 802 815	tissue factor
+T16	CHEMICAL 868 876	Iloprost
+T17	CHEMICAL 995 1003	iloprost
+T18	CHEMICAL 1028 1040	prostacyclin
+T33	GENE 1028 1049	prostacyclin receptor
+T19	CHEMICAL 1078 1087	cicaprost
+T22	GENE 1137 1150	tissue factor
+T1	CHEMICAL 1163 1174	Carbacyclin
+T2	CHEMICAL 1179 1189	ciprostene
+T23	GENE 1273 1286	tissue factor
+T3	CHEMICAL 1359 1367	Iloprost
+T4	CHEMICAL 1417 1427	cyclic AMP
+T5	CHEMICAL 1460 1482	isobutylmethylxanthine
+T24	GENE 1500 1517	phosphodiesterase
+T25	GENE 1557 1570	tissue factor
+T6	CHEMICAL 1607 1629	isobutylmethylxanthine
+T7	CHEMICAL 1646 1655	forskolin
+T8	CHEMICAL 1661 1680	ibutyryl cyclic AMP
+T9	CHEMICAL 1689 1709	dibutyryl cyclic GMP
+T10	CHEMICAL 1738 1750	prostacyclin
+T26	GENE 1785 1798	tissue factor
+T11	CHEMICAL 1882 1892	cyclic AMP

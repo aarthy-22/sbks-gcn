@@ -1,0 +1,31 @@
+T20	CHEMICAL 0 28	Ceramide phosphoethanolamine
+T21	CHEMICAL 80 92	ethanolamine
+T28	GENE-N 80 111	ethanolamine phosphotransferase
+T1	CHEMICAL 132 145	Sphingomyelin
+T5	CHEMICAL 328 342	phosphocholine
+T6	CHEMICAL 348 367	phosphatidylcholine
+T7	CHEMICAL 373 381	ceramide
+T23	GENE-N 407 418	SM synthase
+T8	CHEMICAL 499 527	ceramide phosphoethanolamine
+T9	CHEMICAL 529 532	CPE
+T10	CHEMICAL 560 572	sphingolipid
+T11	CHEMICAL 592 595	CPE
+T24	GENE-Y 592 604	CPE synthase
+T12	CHEMICAL 765 768	CDP
+T13	CHEMICAL 769 781	ethanolamine
+T14	CHEMICAL 782 790	ceramide
+T25	GENE-N 782 822	ceramide ethanolamine phosphotransferase
+T15	CHEMICAL 791 803	ethanolamine
+T16	CHEMICAL 853 856	CPE
+T17	CHEMICAL 883 886	CPE
+T26	GENE-Y 883 895	CPE synthase
+T18	CHEMICAL 932 935	CDP
+T27	GENE-N 932 962	CDP-alcohol phosphotransferase
+T19	CHEMICAL 936 943	alcohol
+T2	CHEMICAL 1256 1259	CDP
+T22	GENE-N 1256 1287	CDP-alcohol phosphotransferases
+T3	CHEMICAL 1260 1267	alcohol
+T4	CHEMICAL 1368 1371	CPE
+R0	CPR-9 Arg1:T7 Arg2:T23
+R1	CPR-9 Arg1:T16 Arg2:T25
+R2	NOT Arg1:T26 Arg2:T18

@@ -1,0 +1,40 @@
+T37	GENE-N 0 32	Nicotinic acetylcholine receptor
+T20	CHEMICAL 10 23	acetylcholine
+T21	CHEMICAL 54 68	norepinephrine
+T24	GENE-N 90 131	Neuronal nicotinic acetylcholine receptor
+T12	CHEMICAL 109 122	acetylcholine
+T32	GENE-N 133 138	nAChR
+T23	GENE-N 185 191	nAChRs
+T31	GENE-N 338 343	nAChR
+T13	CHEMICAL 402 416	norepinephrine
+T14	CHEMICAL 543 557	norepinephrine
+T33	GENE-Y 779 801	alpha(4)beta(2*) nAChR
+T15	CHEMICAL 810 822	metanicotine
+T16	CHEMICAL 827 835	nicotine
+T34	GENE-N 841 846	nAChR
+T17	CHEMICAL 863 877	norepinephrine
+T18	CHEMICAL 935 944	glutamate
+T35	GENE-N 935 953	glutamate receptor
+T19	CHEMICAL 970 982	nitric oxide
+T36	GENE-N 970 991	nitric oxide synthase
+T22	GENE-N 1142 1147	nAChR
+T1	CHEMICAL 1188 1196	nicotine
+T2	CHEMICAL 1201 1213	metanicotine
+T3	CHEMICAL 1222 1236	norepinephrine
+T4	CHEMICAL 1323 1332	glutamate
+T5	CHEMICAL 1348 1360	nitric oxide
+T25	GENE-N 1348 1369	nitric oxide synthase
+T6	CHEMICAL 1424 1438	norepinephrine
+T7	CHEMICAL 1482 1494	metanicotine
+T26	GENE-Y 1534 1550	alpha(4)beta(2*)
+T27	GENE-Y 1557 1566	alpha(7*)
+T28	GENE-N 1578 1583	nAChR
+T29	GENE-N 1659 1664	nAChR
+T8	CHEMICAL 1715 1729	norepinephrine
+T30	GENE-Y 1764 1787	alpha(4)beta(2*) nAChRs
+T9	CHEMICAL 1903 1917	norepinephrine
+T10	CHEMICAL 1934 1943	glutamate
+T11	CHEMICAL 1955 1967	nitric oxide
+R0	NOT Arg1:T33 Arg2:T17
+R1	NOT Arg1:T18 Arg2:T36
+R2	NOT Arg1:T7 Arg2:T27

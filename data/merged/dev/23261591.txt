@@ -1,0 +1,8 @@
+Central nervous system damage due to acute paraquat poisoning: an experimental study with rat model.
+Paraquat (PQ) is a common herbicide and PQ poisoning is a major medical problem in Asia.
+However, few studies have focused on the acute neurotoxic changes caused by PQ.
+Here we report the acute neurotoxicological findings of rats treated with lethal dose of PQ.
+In substantia nigra (SN) and striatum we found obvious microglia (labeled by Iba-1) activation within one week.
+In SN and hippocampus, we detected increased oxidative stress in the neurons based on NeuN/8-OHdG immunofluorescence double labeling and laser cofocal microscopy.
+Moreover, we provided ultrastructural evidences of astrocyte edema and neurons apoptosis in rat brain by electron microscopy.
+Further studies will be needed with non-lethal dose of PQ to confirm these results and demonstrate the direct CNS toxicity of PQ.

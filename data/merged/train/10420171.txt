@@ -1,0 +1,14 @@
+Discovery of novel peptidic dopamine transporter ligands by screening a positional scanning combinatorial hexapeptide library.
+The acute reinforcing effects of cocaine are thought by some to result from cocaine binding to the dopamine (DA) transporter, which inhibits DA uptake and increases synaptic DA levels in the mesolimbic system.
+Other data suggest that neurotransmitters other than DA contribute to cocaine reinforcement and addiction.
+These considerations illustrate the need to have additional research tools with which to test the "DA hypothesis.
+" One strategy is to identify drugs which bind to the DA transporter (DAT ligands) but which do not inhibit DA uptake as effectively as cocaine.
+The purpose of the present study was to identify members of a novel structural class of DAT ligands and to characterize their interactions at the DA transporter.
+A positional scanning hexapeptide D-amino acid library was screened for inhibition of [(125)I]RTI-55 binding to rat caudate DA transporters.
+Based on the results, 12 peptides were synthesized.
+All 12 peptides inhibited [(125)I]RTI-55 binding to DA transporters with IC(50) values, which ranged from 1.8 microM to 12 microM. The two most potent peptides (TPI-669-1 and TPI-669-4) were prepared in larger quantities and were characterized further for activity at the DAT and 5-HT transporter.
+Both peptides inhibited DA and 5-HT uptake and transporter binding with IC(50)/K(i) values in the low micromolar range.
+In vivo microdialysis studies demonstrated that both peptides increase extracellular DA and 5-HT in the nucleus accumbens of rats.
+These data demonstrate that peptides can function as inhibitors of biogenic amine transport.
+Future work will focus on developing more potent and selective peptides.
+Published 1999 Wiley-Liss, Inc.

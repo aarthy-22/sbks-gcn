@@ -1,0 +1,8 @@
+Suppression of ZIP8 expression is a common feature of cadmium-resistant and manganese-resistant RBL-2H3 cells.
+Rat basophilic leukemia RBL-2H3 cells show markedly high sensitivity to both CdCl2 and MnCl2 compared with other rat cell lines, due to efficient accumulation of cadmium and manganese.
+To clarify the roles of metal transporters in hyperaccumulation of cadmium and manganese in RBL-2H3 cells, Cd-resistant and Mn-resistant cells were developed from RBL-2H3 cells by continuous exposure to CdCl2 and MnCl2, respectively.
+The established Cd-resistant (RBL-Cdr) and Mn-resistant (RBL-Mnr) cells exhibited about 20 times higher LC50 values of CdCl2 and MnCl2, respectively, than parental RBL-2H3 cells, and showed cross-resistance to each metal.
+The resistance to cadmium and manganese was primarily conferred by a marked decrease in the uptake of both metals.
+RBL-Cdr cells also showed cross-resistance to HgCl2 and AgNO3 probably due to enhanced expression of metallothionein.
+Among the possible transporters involved in the uptake of Cd(2+) and Mn(2+), the expression of ZIP8 (Zrt-, Irt-related protein 8), encoded by Slc39a8, showed a marked suppression in both RBL-Cdr and RBL-Mnr cells.
+These results suggest that ZIP8 plays a pivotal role in the transport and toxicity of Cd(2+) and Mn(2+) in RBL-2H3 cells.

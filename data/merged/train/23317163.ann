@@ -1,0 +1,11 @@
+T2	GENE-Y 1296 1328	epidermal growth factor receptor
+T3	GENE-Y 1330 1334	EGFR
+T4	GENE-Y 1340 1369	protease activated receptor-1
+T5	GENE-Y 1371 1376	PAR-1
+T6	GENE-N 1467 1500	muscarinic acetylcholine receptor
+T1	CHEMICAL 1478 1491	acetylcholine
+T7	GENE-N 1502 1508	mAChRs
+T8	GENE-Y 1514 1531	β(2) adrenoceptor
+T9	GENE-Y 1533 1539	β(2)AR
+R0	NOT Arg1:T2 Arg2:T1
+R1	NOT Arg1:T1 Arg2:T7

@@ -1,0 +1,57 @@
+T42	CHEMICAL 15 27	progesterone
+T53	GENE-N 15 49	progesterone and androgen receptor
+T43	CHEMICAL 32 40	androgen
+T44	CHEMICAL 61 73	progestagens
+T34	CHEMICAL 176 190	norethisterone
+T37	CHEMICAL 192 206	levonorgestrel
+T2	CHEMICAL 208 226	3-keto-desogestrel
+T10	CHEMICAL 231 240	gestodene
+T47	GENE-N 250 291	human progesterone and androgen receptors
+T16	CHEMICAL 256 268	progesterone
+T21	CHEMICAL 273 281	androgen
+T22	CHEMICAL 370 382	progesterone
+T49	GENE-Y 370 391	progesterone receptor
+T23	CHEMICAL 398 406	Org 2058
+T24	CHEMICAL 411 419	Org 3236
+T25	CHEMICAL 424 442	3-keto-desogestrel
+T26	CHEMICAL 553 565	progesterone
+T50	GENE-Y 553 574	progesterone receptor
+T27	CHEMICAL 617 631	norethisterone
+T28	CHEMICAL 647 661	levonorgestrel
+T29	CHEMICAL 672 691	3-keto-destogestrel
+T30	CHEMICAL 702 711	gestodene
+T31	CHEMICAL 748 760	progestagens
+T32	CHEMICAL 811 829	3-keto-desogestrel
+T33	CHEMICAL 834 843	gestodene
+T35	CHEMICAL 850 858	Org 2058
+T36	CHEMICAL 896 908	progesterone
+T51	GENE-Y 896 917	progesterone receptor
+T38	CHEMICAL 994 1003	gestodene
+T39	CHEMICAL 1008 1026	3-keto-desogestrel
+T40	CHEMICAL 1037 1049	progestagens
+T41	CHEMICAL 1096 1104	androgen
+T52	GENE-Y 1096 1113	androgen receptor
+T1	CHEMICAL 1120 1139	dihydrotestosterone
+T3	CHEMICAL 1206 1220	norethisterone
+T4	CHEMICAL 1231 1249	3 keto-desogestrel
+T5	CHEMICAL 1260 1274	levonorgestrel
+T6	CHEMICAL 1279 1288	gestodene
+T7	CHEMICAL 1313 1331	3-keto-desogestrel
+T8	CHEMICAL 1336 1350	levonorgestrel
+T9	CHEMICAL 1354 1363	gestodene
+T11	CHEMICAL 1435 1447	progesterone
+T45	GENE-Y 1435 1456	progesterone receptor
+T46	GENE-Y 1468 1485	androgen receptor
+T12	CHEMICAL 1532 1550	3-keto-desogestrel
+T13	CHEMICAL 1555 1564	gestodene
+T14	CHEMICAL 1574 1588	levonorgestrel
+T15	CHEMICAL 1593 1607	norethisterone
+T17	CHEMICAL 1669 1696	18-methyl in norethisterone
+T18	CHEMICAL 1698 1711	levonorgestel
+T19	CHEMICAL 1747 1759	progesterone
+T48	GENE-N 1747 1782	progesterone and androgen receptors
+T20	CHEMICAL 1764 1772	androgen
+R0	CPR-3 Arg1:T28 Arg2:T50
+R1	NOT Arg1:T53 Arg2:T44
+R2	NOT Arg1:T10 Arg2:T47
+R3	NOT Arg1:T46 Arg2:T14

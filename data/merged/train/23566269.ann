@@ -1,0 +1,21 @@
+T13	CHEMICAL 0 28	4-Hydroxypyridazin-3(2H)-one
+T14	CHEMICAL 50 62	d-Amino Acid
+T20	GENE-Y 50 70	d-Amino Acid Oxidase
+T1	CHEMICAL 83 95	d-Amino acid
+T15	GENE-Y 83 103	d-Amino acid oxidase
+T18	GENE-Y 105 109	DAAO
+T8	CHEMICAL 138 151	d-amino acids
+T11	CHEMICAL 162 170	d-serine
+T4	CHEMICAL 191 211	N-methyl-d-aspartate
+T16	GENE-N 191 220	N-methyl-d-aspartate receptor
+T6	CHEMICAL 248 276	4-hydroxypyridazin-3(2H)-one
+T17	GENE-Y 298 302	DAAO
+T7	CHEMICAL 619 622	Tyr
+T9	CHEMICAL 713 741	3-hydroxy-pyridine-2(1H)-one
+T10	CHEMICAL 813 858	3-Hydroxy-5-(2-phenylethyl)pyridine-2(1H)-one
+T19	GENE-Y 942 952	human DAAO
+T12	CHEMICAL 1023 1051	4-hydroxypyridazin-3(2H)-one
+T2	CHEMICAL 1093 1121	3-hydroxy-pyridine-2(1H)-one
+T3	CHEMICAL 1153 1213	6-[2-(3,5-Difluorophenyl)ethyl]-4-hydroxypyridazin-3(2H)-one
+T5	CHEMICAL 1248 1254	MK-801
+R0	NOT Arg1:T1 Arg2:T18

@@ -1,0 +1,27 @@
+T18	CHEMICAL 58 65	ammonia
+T6	CHEMICAL 286 293	ammonia
+T7	CHEMICAL 308 317	glutamine
+T8	CHEMICAL 375 378	ATP
+T9	CHEMICAL 396 405	glutamine
+T22	GENE-Y 396 416	glutamine synthetase
+T10	CHEMICAL 441 450	glutamine
+T23	GENE-Y 441 461	glutamine synthetase
+T11	CHEMICAL 605 614	Glutamine
+T24	GENE-Y 605 625	Glutamine synthetase
+T12	CHEMICAL 732 741	Glutamine
+T25	GENE-Y 732 752	Glutamine synthetase
+T13	CHEMICAL 766 775	glutamine
+T14	CHEMICAL 861 864	13C
+T15	CHEMICAL 916 925	Glutamine
+T26	GENE-Y 916 936	Glutamine synthetase
+T16	CHEMICAL 1067 1076	glutamine
+T17	CHEMICAL 1120 1127	ammonia
+T1	CHEMICAL 1221 1230	glutamine
+T19	GENE-Y 1221 1241	glutamine synthetase
+T2	CHEMICAL 1383 1392	glutamine
+T20	GENE-Y 1383 1403	glutamine synthetase
+T3	CHEMICAL 1457 1464	ammonia
+T4	CHEMICAL 1594 1603	glutamine
+T21	GENE-Y 1594 1614	glutamine synthetase
+T5	CHEMICAL 1639 1646	ammonia
+R0	NOT Arg1:T26 Arg2:T17

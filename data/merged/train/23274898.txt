@@ -1,0 +1,10 @@
+Electrical Stimuli Release ATP to Increase GLUT4 Translocation and Glucose Uptake via PI3Kγ-Akt-AS160 in Skeletal Muscle Cells.
+Skeletal muscle glucose uptake in response to exercise is preserved in insulin-resistant conditions, but the signals involved are debated.
+ATP is released from skeletal muscle by contractile activity and can autocrinely signal through purinergic receptors, and we hypothesized it may influence glucose uptake.
+Electrical stimulation, ATP, and insulin each increased fluorescent 2-NBD-Glucose (2-NBDG) uptake in primary myotubes, but only electrical stimulation and ATP-dependent 2-NBDG uptake were inhibited by adenosine-phosphate phosphatase and by purinergic receptor blockade (suramin).
+Electrical stimulation transiently elevated extracellular ATP and caused Akt phosphorylation that was additive to insulin and inhibited by suramin.
+Exogenous ATP transiently activated Akt and, inhibiting phosphatidylinositol 3-kinase (PI3K) or Akt as well as dominant-negative Akt mutant, reduced ATP-dependent 2-NBDG uptake and Akt phosphorylation.
+ATP-dependent 2-NBDG uptake was also inhibited by the G protein βγ subunit-interacting peptide βark-ct and by the phosphatidylinositol 3-kinase-γ (PI3Kγ) inhibitor AS605240.
+ATP caused translocation of GLUT4myc-eGFP to the cell surface, mechanistically mediated by increased exocytosis involving AS160/Rab8A reduced by dominant-negative Akt or PI3Kγ kinase-dead mutants, and potentiated by myristoylated PI3Kγ.
+ATP stimulated 2-NBDG uptake in normal and insulin-resistant adult muscle fibers, resembling the reported effect of exercise.
+Hence, the ATP-induced pathway may be tapped to bypass insulin resistance.

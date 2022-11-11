@@ -1,0 +1,56 @@
+T25	CHEMICAL 0 13	Valproic acid
+T27	CHEMICAL 49 65	arachidonic acid
+T28	CHEMICAL 69 85	arachidonoyl-CoA
+T36	GENE-N 89 143	brain microsomal long-chain fatty acyl-CoA synthetases
+T26	CHEMICAL 106 131	long-chain fatty acyl-CoA
+T16	CHEMICAL 233 240	lithium
+T19	CHEMICAL 245 258	carbamazepine
+T7	CHEMICAL 323 339	arachidonic acid
+T11	CHEMICAL 349 369	docosahexaenoic acid
+T12	CHEMICAL 427 443	arachidonic acid
+T31	GENE-N 454 472	phospholipase A(2)
+T13	CHEMICAL 491 504	valproic acid
+T14	CHEMICAL 539 555	arachidonic acid
+T15	CHEMICAL 560 580	docosahexaenoic acid
+T32	GENE-N 609 627	phospholipase A(2)
+T33	GENE-N 753 811	rat brain microsomal long-chain fatty acyl-CoA synthetases
+T17	CHEMICAL 774 799	long-chain fatty acyl-CoA
+T34	GENE-N 813 817	Acsl
+T18	CHEMICAL 842 855	valproic acid
+T35	GENE-N 890 894	Acsl
+T20	CHEMICAL 1016 1029	valproic acid
+T21	CHEMICAL 1057 1073	arachidonoyl-CoA
+T22	CHEMICAL 1075 1088	palmitoyl-CoA
+T23	CHEMICAL 1094 1113	docosahexaenoyl-CoA
+T24	CHEMICAL 1143 1159	arachidonoyl-CoA
+T1	CHEMICAL 1233 1246	palmitoyl-CoA
+T2	CHEMICAL 1261 1280	docosahexaenoyl-CoA
+T3	CHEMICAL 1331 1344	valproic acid
+T4	CHEMICAL 1425 1441	arachidonoyl-CoA
+T29	GENE-N 1550 1571	brain microsomal Acsl
+T5	CHEMICAL 1588 1600	valproyl-CoA
+T6	CHEMICAL 1637 1650	valproic acid
+T30	GENE-N 1690 1711	brain microsomal Acsl
+T8	CHEMICAL 1796 1809	valproic acid
+T9	CHEMICAL 1857 1873	arachidonic acid
+T10	CHEMICAL 1897 1913	arachidonoyl-CoA
+R0	CPR-4 Arg1:T25 Arg2:T36
+R1	CPR-9 Arg1:T27 Arg2:T36
+R2	CPR-9 Arg1:T28 Arg2:T36
+R3	CPR-4 Arg1:T16 Arg2:T31
+R4	CPR-4 Arg1:T19 Arg2:T31
+R5	CPR-2 Arg1:T12 Arg2:T31
+R6	NOT Arg1:T13 Arg2:T32
+R7	CPR-4 Arg1:T18 Arg2:T35
+R8	NOT Arg1:T5 Arg2:T29
+R9	CPR-4 Arg1:T6 Arg2:T30
+R10	NOT Arg1:T7 Arg2:T31
+R11	NOT Arg1:T11 Arg2:T31
+R12	NOT Arg1:T14 Arg2:T32
+R13	NOT Arg1:T15 Arg2:T32
+R14	NOT Arg1:T33 Arg2:T18
+R15	NOT Arg1:T17 Arg2:T34
+R16	NOT Arg1:T17 Arg2:T35
+R17	NOT Arg1:T34 Arg2:T18
+R18	NOT Arg1:T29 Arg2:T6
+R19	NOT Arg1:T5 Arg2:T30

@@ -1,0 +1,7 @@
+More than cool: promiscuous relationships of menthol and other sensory compounds.
+Several temperature-activated transient receptor potential (thermoTRP) ion channels are the molecular receptors of natural compounds that evoke thermal and pain sensations.
+Menthol, popularly known for its cooling effect, activates TRPM8--a cold-activated thermoTRP ion channel.
+However, human physiological studies demonstrate a paradoxical role of menthol in modulation of warm sensation, and here, we show that menthol also activates heat-activated TRPV3.
+We further show that menthol inhibits TRPA1, potentially explaining the use of menthol as an analgesic.
+Similar to menthol, both camphor and cinnamaldehyde (initially reported to be specific activators of TRPV3 and TRPA1, respectively) also modulate other thermoTRPs.
+Therefore, we find that many "sensory compounds" presumed to be specific have a promiscuous relationship with thermoTRPs.

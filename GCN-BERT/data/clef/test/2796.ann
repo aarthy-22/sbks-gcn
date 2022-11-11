@@ -1,0 +1,12 @@
+T1	EXAMPLE_LABEL 8 10	16
+T2	REACTION_PRODUCT 25 149	4-(4-(4-(3-(diethylamino)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-N-hydroxy-2-methyl-2-(methylsulfonyl)butanamide
+T3	EXAMPLE_LABEL 155 156	1
+T4	REACTION_PRODUCT 171 199	N,N-diethylprop-2-yn-1-amine
+T5	REAGENT_CATALYST 217 229	diethylamine
+T6	SOLVENT 249 256	toluene
+T7	STARTING_MATERIAL 304 321	3-bromoprop-1-yne
+T8	TIME 369 374	15 hr
+T9	TEMPERATURE 378 394	room temperature
+T10	REACTION_PRODUCT 534 548	title compound
+T11	YIELD_OTHER 550 556	0.46 g
+T12	YIELD_PERCENT 558 561	94%

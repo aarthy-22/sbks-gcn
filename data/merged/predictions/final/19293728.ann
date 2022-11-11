@@ -1,0 +1,37 @@
+T35	GENE-N 0 17	D1-like receptors
+T37	GENE-Y 26 33	insulin
+T36	GENE-Y 107 123	insulin receptor
+T7	CHEMICAL 390 404	norepinephrine
+T23	GENE-N 443 460	D1-like receptors
+T24	GENE-Y 469 489	D3 dopamine receptor
+T8	CHEMICAL 472 480	dopamine
+T25	GENE-N 507 523	D2-like receptor
+T26	GENE-Y 532 539	Insulin
+T27	GENE-Y 623 630	insulin
+T28	GENE-N 635 652	D1-like receptors
+T29	GENE-N 675 692	Dl-like receptors
+T30	GENE-Y 730 737	insulin
+T31	GENE-Y 775 782	insulin
+T32	GENE-N 787 803	Dl-like receptor
+T9	CHEMICAL 925 938	[H]-thymidine
+T33	GENE-Y 954 970	insulin receptor
+T34	GENE-Y 1078 1085	Insulin
+T1	CHEMICAL 1163 1176	[H]-thymidine
+T10	GENE-N 1205 1221	D1-like receptor
+T2	CHEMICAL 1288 1298	fenoldopam
+T11	GENE-N 1302 1318	D1-like receptor
+T12	GENE-Y 1364 1371	insulin
+T3	CHEMICAL 1398 1408	fenoldopam
+T13	GENE-Y 1412 1419	insulin
+T4	CHEMICAL 1510 1518	SCH23390
+T14	GENE-N 1522 1538	D1-like receptor
+T5	CHEMICAL 1551 1561	Fenoldopam
+T15	GENE-Y 1577 1593	insulin receptor
+T16	GENE-N 1679 1682	PKC
+T17	GENE-N 1686 1696	MAP kinase
+T6	CHEMICAL 1740 1750	fenoldopam
+T18	GENE-Y 1754 1770	insulin receptor
+T19	GENE-N 1799 1802	PKC
+T20	GENE-N 1807 1817	MAP kinase
+T21	GENE-N 1895 1912	D1-like receptors
+T22	GENE-Y 1916 1923	insulin

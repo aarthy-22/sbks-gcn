@@ -1,0 +1,5 @@
+Example 11
+(2S,2'S)-1,1'-(((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-methyl-4,1-phenylene))bis(methylene))bis(piperidine-2-carboxylic acid) (Cpd 11)
+Step 1
+3,3'-Bis(bromomethyl)-2,2'-dimethylbiphenyl (21)
+To a solution of (2,2'-dimethylbiphenyl-3,3'-diyl)dimethanol (10 g, 41.32 mmol) and Ph3P (33 g, 123.96 mmol, 3 eq.) in CH2Cl2 (100 mL) at 0° C., NBS (165.28 g, 30 mmol, 4 eq.) was added slowly. The reaction mixture was stirred at 0° C. for 2 h. The reaction mixture was diluted with CH2Cl2 (100 mL), washed with water (2×100 mL), brine, dried over Na2SO4, and concentrated to provide the crude product, which was then purified on a silica gel column, eluting with ethyl acetate in pet ether (1:100-20:80) to obtained 3,3'-bis(bromomethyl)-2,2'-dimethylbiphenyl as a white solid (10 g, yield=66%), [C16H16 Br2];

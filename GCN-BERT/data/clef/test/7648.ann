@@ -1,0 +1,13 @@
+T1	REACTION_PRODUCT 8 149	tert-Butyl 5-(4-(2-chloroacetamido)-2-(difluoromethoxy)-6-fluorophenyl)-3-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate
+T2	REAGENT_CATALYST 402 427	N,N-diisopropylethylamine
+T3	EXAMPLE_LABEL 5 6	6
+T4	TEMPERATURE 567 571	r.t.
+T5	REACTION_PRODUCT 618 625	product
+T6	SOLVENT 362 383	N,N-dimethylformamide
+T7	STARTING_MATERIAL 167 294	tert-butyl 5-(4-amino-2-(difluoromethoxy)-6-fluorophenyl)-3-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate
+T8	STARTING_MATERIAL 320 339	2-chloroacetic acid
+T9	TIME 576 579	2 h
+T10	REAGENT_CATALYST 452 527	N,N,N',N'-tetramethyl-O-(7-azabenzotriazol-1-yl)uronium hexafluorophosphate
+T11	OTHER_COMPOUND 581 586	water
+T12	YIELD_OTHER 721 727	209 mg
+T13	YIELD_PERCENT 729 732	96%

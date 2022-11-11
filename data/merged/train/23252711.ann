@@ -1,0 +1,37 @@
+T6	CHEMICAL 49 106	4-(thiazol-5-yl)-2-(phenylamino)pyrimidine-5-carbonitrile
+T30	GENE-Y 107 111	CDK9
+T7	GENE-Y 166 191	Cyclin-dependent kinase 9
+T15	GENE-Y 192 200	cyclin T
+T18	GENE-N 206 220	protein kinase
+T26	GENE-Y 250 292	positive transcription elongation factor b
+T16	GENE-Y 461 465	CDK9
+T17	GENE-N 499 502	CDK
+T3	CHEMICAL 552 609	4-(thiazol-5-yl)-2-(phenylamino)pyrimidine-5-carbonitrile
+T19	GENE-Y 635 639	CDK9
+T20	GENE-Y 640 648	cyclin T
+T21	GENE-Y 653 657	CDK2
+T22	GENE-Y 658 666	cyclin A
+T23	GENE-N 693 696	CDK
+T24	GENE-N 727 730	CDK
+T25	GENE-N 731 737	cyclin
+T4	CHEMICAL 1040 1041	C
+T27	GENE-N 1040 1062	C-terminal tail region
+T28	GENE-Y 1066 1070	CDK9
+T29	GENE-Y 1098 1102	CDK9
+T5	CHEMICAL 1123 1169	5,6-dichlorobenzimidazone-1-β-d-ribofuranoside
+T1	CHEMICAL 1171 1174	DRB
+T8	GENE-Y 1235 1239	CDK9
+T9	GENE-Y 1240 1248	cyclin T
+T10	GENE-Y 1252 1256	CDK2
+T11	GENE-Y 1257 1265	cyclin A
+T12	GENE-Y 1308 1312	CDK9
+T13	GENE-Y 1313 1321	cyclin T
+T2	CHEMICAL 1340 1397	4-(thiazol-5-yl)-2-(phenylamino)pyrimidine-5-carbonitrile
+T14	GENE-Y 1451 1455	CDK9
+R0	CPR-2 Arg1:T3 Arg2:T20
+R1	CPR-2 Arg1:T3 Arg2:T22
+R2	CPR-4 Arg1:T5 Arg2:T29
+R3	CPR-4 Arg1:T1 Arg2:T29
+R4	CPR-2 Arg1:T1 Arg2:T29
+R5	CPR-4 Arg1:T2 Arg2:T12
+R6	NOT Arg1:T27 Arg2:T5

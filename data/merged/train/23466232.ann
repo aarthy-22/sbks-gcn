@@ -1,0 +1,14 @@
+T4	CHEMICAL 16 68	N2-substituted-5-(p-toluenesulfonylamino)phthalimide
+T14	GENE-N 82 95	α-glucosidase
+T1	CHEMICAL 147 152	sugar
+T9	GENE-N 158 171	α-glycosidase
+T3	CHEMICAL 194 231	5-(p-toluenesulfonylamino)phthalimide
+T5	GENE-Y 419 438	yeast α-glycosidase
+T6	GENE-N 443 471	rat intestinal α-glycosidase
+T7	GENE-Y 539 558	yeast α-glycosidase
+T8	GENE-N 570 598	rat intestinal α-glycosidase
+T10	GENE-N 697 719	rat intestinal maltase
+T11	GENE-N 724 731	lactase
+T12	GENE-N 786 810	rat intestinal α-amylase
+T2	CHEMICAL 867 904	5-(p-toluenesulfonylamino)phthalimide
+T13	GENE-N 949 962	α-glucosidase

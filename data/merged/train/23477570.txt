@@ -1,0 +1,12 @@
+In situ forming reduction-sensitive degradable nanogels for facile loading and triggered intracellular release of proteins.
+In situ forming reduction-sensitive degradable nanogels were designed and developed based on poly(ethylene glycol)-b-poly(2-(hydroxyethyl) methacrylate-co-acryloyl carbonate) (PEG-P(HEMA-co-AC)) block copolymers for efficient loading as well as triggered intracellular release of proteins.
+PEG-P(HEMA-co-AC) copolymers were prepared with controlled Mn of 9.1, 9.5, and 9.9 kg/mol and varying numbers of AC units per molecule of 7, 9 and 11, respectively (denoted as copolymer 1, 2, and 3) by reversible addition-fragmentation chain transfer copolymerization.
+These copolymers were freely soluble in phosphate buffer but formed disulfide-cross-linked nanogels with defined sizes ranging from 72.5 to 124.1 nm in the presence of cystamine via ring-opening reaction with cyclic carbonate groups.
+The sizes of nanogels decreased with increasing AC units as a result of increased cross-linking density.
+Dynamic light scattering studies showed that these nanogels though stable at physiological conditions were rapidly dissociated in response to 10 mM dithiothreitol (DTT).
+Interestingly, FITC-labeled cytochrome C (FITC-CC) could be readily loaded into nanogels with remarkable loading efficiencies (up to 98.2%) and loading contents (up to 48.2 wt.%).
+The in vitro release studies showed that release of FITC-CC was minimal under physiological conditions but significantly enhanced under reductive conditions in the presence of 10 mM DTT with about 96.8% of FITC-CC released in 22 h from nanogel 1.
+In contrast, protein release from 1,4-butanediamine cross-linked nanogels (reduction-insensitive control) remained low under otherwise the same conditions.
+MTT assays showed that these nanogels were nontoxic to HeLa cells up to a tested concentration of 2 mg/mL. Confocal microscopy results showed that nanogel 1 delivered and released FITC-CC into the perinuclei region of HeLa cells following 8 h incubation.
+CC-loaded reductively degradable nanogels demonstrated apparently better apoptotic activity than free CC as well as reduction-insensitive controls.
+These in situ forming, surfactant and oil-free, and reduction-sensitive degradable nanogels are highly promising for targeted protein therapy.

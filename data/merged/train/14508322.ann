@@ -1,0 +1,42 @@
+T35	GENE-Y 14 36	alpha 2B-adrenoceptors
+T18	CHEMICAL 76 85	etomidate
+T11	CHEMICAL 126 135	etomidate
+T34	GENE-N 181 200	alpha2-adrenoceptor
+T4	CHEMICAL 230 245	dexmedetomidine
+T9	CHEMICAL 320 329	etomidate
+T27	GENE-N 335 355	alpha2-adrenoceptors
+T28	GENE-N 383 402	alpha2-adrenoceptor
+T10	CHEMICAL 475 484	etomidate
+T12	CHEMICAL 509 524	dexmedetomidine
+T29	GENE-N 563 578	alpha2-receptor
+T30	GENE-N 618 633	alpha2-receptor
+T13	CHEMICAL 645 657	[3H]RX821002
+T31	GENE-N 673 689	alpha2-receptors
+T14	CHEMICAL 693 702	etomidate
+T15	CHEMICAL 882 891	etomidate
+T32	GENE-Y 912 928	alpha2A-receptor
+T16	CHEMICAL 984 993	etomidate
+T33	GENE-Y 1023 1039	alpha2A-receptor
+T17	CHEMICAL 1074 1083	etomidate
+T1	CHEMICAL 1206 1215	Etomidate
+T19	GENE-N 1329 1345	alpha2-receptors
+T2	CHEMICAL 1347 1356	etomidate
+T3	CHEMICAL 1401 1413	[3H]RX821002
+T20	GENE-N 1440 1470	alpha2B- and alpha2C-receptors
+T21	GENE-Y 1481 1498	alpha2A-receptors
+T22	GENE-Y 1565 1581	alpha2B-receptor
+T5	CHEMICAL 1607 1616	etomidate
+T23	GENE-N 1658 1694	extracellular signal-related kinases
+T24	GENE-N 1695 1701	ERK1/2
+T6	CHEMICAL 1744 1753	etomidate
+T25	GENE-N 1776 1796	alpha2-adrenoceptors
+T26	GENE-Y 1836 1852	alpha2B-receptor
+T7	CHEMICAL 1905 1914	etomidate
+T8	CHEMICAL 2009 2018	etomidate
+R0	CPR-2 Arg1:T14 Arg2:T31
+R1	CPR-6 Arg1:T3 Arg2:T19
+R2	CPR-2 Arg1:T2 Arg2:T20
+R3	CPR-5 Arg1:T6 Arg2:T25
+R4	CPR-2 Arg1:T6 Arg2:T26
+R5	NOT Arg1:T15 Arg2:T33
+R6	NOT Arg1:T32 Arg2:T16

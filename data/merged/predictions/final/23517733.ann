@@ -1,0 +1,21 @@
+T17	CHEMICAL 63 94	quino[3,2-b]benzo[1,4]thiazines
+T9	CHEMICAL 110 127	azaphenothiazines
+T13	CHEMICAL 130 173	tetracyclic quino[3,2-b]benzo[1,4]thiazines
+T2	CHEMICAL 207 208	H
+T3	CHEMICAL 210 213	CH3
+T4	CHEMICAL 215 217	Cl
+T5	CHEMICAL 219 221	Br
+T6	CHEMICAL 223 224	F
+T7	CHEMICAL 226 229	CF3
+T8	CHEMICAL 231 235	SCH3
+T10	CHEMICAL 274 284	aminoalkyl
+T11	CHEMICAL 332 346	diquinodithiin
+T12	CHEMICAL 351 392	2,2'-dichloro-3,3'-diquinolinyl disulfide
+T14	CHEMICAL 460 479	6-dialkylaminoalkyl
+T15	CHEMICAL 481 497	6-acylaminoalkyl
+T16	CHEMICAL 502 520	sulfonylaminoalkyl
+T18	GENE-N 581 599	phytohemagglutin A
+T19	GENE-N 601 604	PHA
+T20	GENE-Y 725 752	tumor necrosis factor alpha
+T21	GENE-Y 754 759	TNF-α
+T1	CHEMICAL 1168 1177	cisplatin

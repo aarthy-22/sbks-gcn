@@ -1,0 +1,11 @@
+T1	CHEMICAL 773 782	steroidal
+T6	GENE-Y 821 838	cyclo-oxygenase-2
+T7	GENE-Y 840 845	COX-2
+T2	CHEMICAL 862 869	aspirin
+T3	CHEMICAL 871 890	omega-3 fatty acids
+T4	CHEMICAL 892 905	neurosteroids
+T5	CHEMICAL 910 921	minocycline
+R0	NOT Arg1:T6 Arg2:T2
+R1	NOT Arg1:T6 Arg2:T4
+R2	NOT Arg1:T6 Arg2:T5
+R3	NOT Arg1:T7 Arg2:T5

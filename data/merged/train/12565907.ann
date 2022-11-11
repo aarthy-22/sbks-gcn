@@ -1,0 +1,27 @@
+T22	GENE-Y 34 38	DCoH
+T23	GENE-Y 39 50	HNF-1 alpha
+T24	GENE-Y 68 78	tyrosinase
+T1	CHEMICAL 236 257	6-tetrahydrobiopterin
+T2	CHEMICAL 259 265	6BH(4)
+T3	CHEMICAL 285 300	L-phenylalanine
+T4	CHEMICAL 305 318	phenylalanine
+T10	GENE-Y 305 330	phenylalanine hydroxylase
+T5	CHEMICAL 334 344	L-tyrosine
+T6	CHEMICAL 367 373	L-Dopa
+T7	CHEMICAL 378 386	tyrosine
+T11	GENE-Y 378 398	tyrosine hydroxylase
+T8	CHEMICAL 433 446	catecholamine
+T9	CHEMICAL 523 546	pterin-4a-carbinolamine
+T12	GENE-Y 523 558	pterin-4a-carbinolamine dehydratase
+T13	GENE-Y 560 563	PCD
+T14	GENE-Y 689 716	hepatocyte nuclear factor 1
+T15	GENE-Y 718 723	HNF-1
+T16	GENE-Y 810 814	DCoH
+T17	GENE-Y 815 826	HNF-1 alpha
+T18	GENE-Y 934 944	tyrosinase
+T19	GENE-Y 1032 1036	DCoH
+T20	GENE-Y 1037 1042	HNF-1
+T21	GENE-N 1058 1083	human tyrosinase promoter
+R0	CPR-9 Arg1:T2 Arg2:T10
+R1	CPR-9 Arg1:T2 Arg2:T11
+R2	CPR-9 Arg1:T5 Arg2:T10

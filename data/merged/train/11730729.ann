@@ -1,0 +1,32 @@
+T20	CHEMICAL 10 19	fenoterol
+T29	GENE-Y 41 61	beta(2)-adrenoceptor
+T10	CHEMICAL 181 190	fenoterol
+T28	GENE-Y 212 232	beta(2)-adrenoceptor
+T21	GENE-N 245 264	muscarinic receptor
+T6	CHEMICAL 278 287	histamine
+T8	CHEMICAL 407 416	fenoterol
+T26	GENE-N 585 604	muscarinic receptor
+T9	CHEMICAL 613 625	methacholine
+T27	GENE-N 639 658	muscarinic receptor
+T11	CHEMICAL 667 725	4-(m-chlorophenyl-carbamoyloxy)-2-butynyltrimethylammonium
+T12	CHEMICAL 727 736	McN-A-343
+T13	CHEMICAL 742 751	histamine
+T14	CHEMICAL 753 762	Fenoterol
+T15	CHEMICAL 824 836	methacholine
+T16	CHEMICAL 913 922	Fenoterol
+T17	CHEMICAL 966 975	McN-A-343
+T18	CHEMICAL 980 989	histamine
+T19	CHEMICAL 1107 1114	timolol
+T1	CHEMICAL 1308 1317	McN-A-343
+T2	CHEMICAL 1322 1331	histamine
+T3	CHEMICAL 1335 1344	fenoterol
+T4	CHEMICAL 1426 1435	fenoterol
+T22	GENE-Y 1457 1477	beta(2)-adrenoceptor
+T23	GENE-N 1495 1514	muscarinic receptor
+T5	CHEMICAL 1528 1537	histamine
+T7	CHEMICAL 1638 1645	timolol
+T24	GENE-Y 1663 1683	beta(2)-adrenoceptor
+T25	GENE-N 1722 1739	beta-adrenoceptor
+R0	CPR-5 Arg1:T11 Arg2:T27
+R1	CPR-3 Arg1:T4 Arg2:T22
+R2	NOT Arg1:T21 Arg2:T6

@@ -1,0 +1,14 @@
+Cerivastatin, an inhibitor of HMG-CoA reductase, inhibits the signaling pathways involved in the invasiveness and metastatic properties of highly invasive breast cancer cell lines: an in vitro study.
+Cerivastatin is used in the treatment of hypercholesterolemia to inhibit 3-hydroxy 3-methylglutaryl coenzyme A reductase and thus prevent the synthesis of cholesterol precursors, such as farnesyl pyrophosphate (FPP) and geranylgeranyl pyrophosphate (GGPP), responsible, respectively, for translocation of Ras and Rho to the cell membrane, a step required for their cell signaling, leading to cell proliferation and migration.
+Recently, it has been suggested that non lipid-related effects of statins could play a beneficial role in cancer therapy.
+In this study, we have investigated the mechanisms by which statins inhibit cancer and the types of cancers which could benefit from this therapy.
+In MDA-MB-231 cells, an aggressive breast cancer cell line with spontaneous activation of Ras and NFkappaB and overexpression of RhoA, cerivastatin induced inhibition of both cell proliferation and invasion through Matrigel.
+This anti-proliferative effect was related to G(1)/S arrest due to an increase in p21(Waf1/Cip1).
+The anti-invasive effect was observed from 18 h and could be explained by RhoA delocalization from the cell membrane, resulting in disorganization of the actin fibers and disappearance of focal adhesion sites.
+The importance of RhoA inactivation in both these inhibitory effects was proved by their reversion by GGPP but not by FPP.
+Moreover, cerivastatin was also shown to induce inactivation of NFkappaB, in a RhoA inhibition-dependent manner, resulting in a decrease in urokinase and metalloproteinase-9 expression,
+two proteases involved in cell migration.
+The participation of Ras inactivation is considered a subsidiary mechanism for the effects of cerivastatin, as they were not rescued by FPP.
+Prolonged treatment of MDA-MB-231 cells with high doses of cerivastatin induced a loss of cell attachment.
+Interestingly, the effect of cerivastatin was considerably lower on poorly invasive MCF-7 cells.
+In conclusion, our results suggest that cerivastatin inhibits cell signaling pathways involved in the invasiveness and metastatic properties of highly invasive cancers.

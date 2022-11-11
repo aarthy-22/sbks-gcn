@@ -1,0 +1,9 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 23 86	5-(piperazine-1-yl)-2-trifluoromethyl-1H-imidazo[4,5-b]pyridine
+T3	OTHER_COMPOUND 135 136	d
+T4	REACTION_PRODUCT 170 171	i
+T5	OTHER_COMPOUND 205 225	trifluoroacetic acid
+T6	REACTION_PRODUCT 246 247	j
+T7	REACTION_PRODUCT 249 312	5-(piperazine-1-yl)-2-trifluoromethyl-1H-imidazo[4,5-b]pyridine
+T8	YIELD_OTHER 314 320	269 mg
+T9	YIELD_PERCENT 328 331	78%

@@ -1,0 +1,9 @@
+Administration of the optimized β-Lapachone-poloxamer-cyclodextrin ternary system induces apoptosis, DNA damage and reduces tumor growth in a human breast adenocarcinoma xenograft mouse model.
+β-Lapachone (β-Lap) is a 1,2-orthonaphthoquinone that selectively induces cell death in human cancer cells through NAD(P)H:quinone oxidoreductase-1 (NQO1).
+NQO1 is overexpressed in a variety of tumors, as compared to normal adjacent tissue.
+However, the low solubility and non-specific distribution of β-Lap limit its suitability for clinical assays.
+We formulated β-Lap in an optimal random methylated-β-cyclodextrin/poloxamer 407 mixture (i.e., β-Lap ternary system) and, using human breast adenocarcinoma MCF-7 cells and immunodeficient mice, performed in vitro and in vivo evaluation of its anti-tumor effects on proliferation, cell cycle, apoptosis, DNA damage, and tumor growth.
+This ternary system is fluid at room temperature, gels over 29°C, and provides a significant amount of drug, thus facilitating intratumoral delivery, in situ gelation, and the formation of a depot for time-release.
+Administration of β-Lap ternary system to MCF-7 cells induces an increase in apoptosis and DNA damage, while producing no changes in cell cycle.
+Moreover, in a mouse xenograft tumor model, intratumoral injection of the system significantly reduces tumor volume, while increasing apoptosis and DNA damage without visible toxicity to liver or kidney.
+These anti-tumoral effects and lack of visible toxicity make this system a promising new therapeutic agent for breast cancer treatment.

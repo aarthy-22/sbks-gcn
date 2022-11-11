@@ -1,0 +1,8 @@
+[Acetylsalicylic acid resistance--clinical diagnosis with unclear mechanism].
+A review on the subject of aspirin resistance and its role in vascular diseases is presented.
+Although the clinical diagnosis of aspirin resistance is frequently made, little is known about its biochemical background.
+Only a few follow-up studies, with varying design, have dealt with the possible association between an aspirin resistant phenotype and clinical outcome in patients with atherothrombosis.
+However, it was recently shown that ibuprofen acts as a competitive inhibitor in the blockage of COX-1.
+This pharmacodynamic interaction results in secondary aspirin resistance, which may have clinical significance in patients taking both medicines.
+With the complex nature of vascular diseases in mind, it is not surprising that aspirin used as a single preventive strategy fails in many cases.
+At present, there is no clear evidence that treatment failure is associated with a particular aspirin resistant phenotype.

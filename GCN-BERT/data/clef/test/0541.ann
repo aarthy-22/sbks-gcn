@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 8 79	N-cyclopropyl-2,2-difluoro-2-(3-nitro-4-(thiophen-3-yl)phenyl)acetamide
+T3	STARTING_MATERIAL 97 156	2,2-difluoro-2-(3-nitro-4-(thiophen-3-yl)phenyl)acetic acid
+T4	STARTING_MATERIAL 180 255	2-(7-azabenzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphate
+T5	REAGENT_CATALYST 280 301	diisopropylethylamine
+T6	SOLVENT 327 348	N,N-dimethylformamide
+T7	STARTING_MATERIAL 367 383	cyclopropylamine
+T8	TIME 443 452	3.0 hours
+T9	TEMPERATURE 473 478	50 °C
+T10	TEMPERATURE 499 515	room temperature
+T11	OTHER_COMPOUND 554 559	water
+T12	OTHER_COMPOUND 580 593	ethyl acetate
+T13	OTHER_COMPOUND 663 678	sodium sulphate
+T14	OTHER_COMPOUND 680 693	Ethyl acetate
+T15	OTHER_COMPOUND 807 817	silica gel
+T16	REACTION_PRODUCT 828 899	N-cyclopropyl-2,2-difluoro-2-(3-nitro-4-(thiophen-3-yl)phenyl)acetamide
+T17	YIELD_OTHER 901 907	153 mg
+T18	YIELD_PERCENT 915 920	67.7%

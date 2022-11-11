@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 66 68	90
+T2	REACTION_PRODUCT 70 196	1-(4-(3-Amino-3-methylbut-1-yn-1-yl)-2,6-dichlorophenyl)-8-chloro-5-(2,3-dihydroxypropoxy)-2-methyl-1,6-naphthyridin-4(1H)-one
+T3	EXAMPLE_LABEL 202 203	1
+T4	REACTION_PRODUCT 205 324	1-(4-Bromo-2,6-dichlorophenyl)-8-chloro-5-((2,2-dimethyl-1,3-dioxolan-4-yl)methoxy)-2-methyl-1,6-naphthyridin-4(1H)-one
+T5	STARTING_MATERIAL 338 417	1-(4-bromo-2,6-dichlorophenyl)-5,8-dichloro-2-methyl-1,6-naphthyridin-4(1H)-one
+T6	STARTING_MATERIAL 432 433	4
+T7	STARTING_MATERIAL 455 495	(2,2-dimethyl-1,3-dioxolan-4-yl)methanol
+T8	REAGENT_CATALYST 518 523	K2CO3
+T9	REAGENT_CATALYST 549 553	DMAP
+T10	SOLVENT 577 589	acetonitrile
+T11	TEMPERATURE 613 619	75° C.
+T12	OTHER_COMPOUND 739 749	silica-gel
+T13	OTHER_COMPOUND 773 778	EtOAc
+T14	OTHER_COMPOUND 779 786	heptane
+T15	REACTION_PRODUCT 802 816	title compound
+T16	YIELD_OTHER 818 825	0.212 g
+T17	YIELD_PERCENT 827 830	88%

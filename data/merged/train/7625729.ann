@@ -1,0 +1,51 @@
+T43	CHEMICAL 0 12	Drospirenone
+T44	CHEMICAL 22 33	progestogen
+T1	CHEMICAL 90 102	Drospirenone
+T9	CHEMICAL 104 112	ZK 30595
+T21	CHEMICAL 114 204	6 beta, 7 beta, 15 beta, 16 beta-dimethylen-3-oxo-17 alpha-pregn-4-ene-21, 17-carbolactone
+T6	CHEMICAL 217 228	progestogen
+T12	CHEMICAL 257 269	Drospirenone
+T29	CHEMICAL 369 381	progesterone
+T34	CHEMICAL 533 545	drospirenone
+T35	CHEMICAL 697 709	progesterone
+T36	CHEMICAL 746 758	progesterone
+T48	GENE-N 746 793	progesterone and the mineralocorticoid receptor
+T37	CHEMICAL 821 829	androgen
+T49	GENE-N 821 858	androgen and glucocorticoid receptors
+T38	CHEMICAL 898 906	estrogen
+T50	GENE-Y 898 915	estrogen receptor
+T39	CHEMICAL 917 932	Steroid hormone
+T40	CHEMICAL 974 986	progesterone
+T41	CHEMICAL 991 1003	drospirenone
+T42	CHEMICAL 1061 1076	steroid hormone
+T51	GENE-N 1061 1086	steroid hormone receptors
+T2	CHEMICAL 1212 1220	androgen
+T45	GENE-Y 1212 1229	androgen receptor
+T3	CHEMICAL 1272 1284	progesterone
+T4	CHEMICAL 1289 1301	drospirenone
+T5	CHEMICAL 1325 1333	androgen
+T46	GENE-Y 1429 1455	mineralocorticoid receptor
+T7	CHEMICAL 1474 1485	aldosterone
+T8	CHEMICAL 1509 1521	Drospirenone
+T47	GENE-Y 1537 1560	glucocorticoid receptor
+T10	CHEMICAL 1585 1597	Progesterone
+T11	CHEMICAL 1634 1646	Drospirenone
+T13	CHEMICAL 1933 1945	drospirenone
+T14	CHEMICAL 1983 1995	testosterone
+T15	CHEMICAL 2071 2083	drospirenone
+T16	CHEMICAL 2124 2146	norethisterone acetate
+T17	CHEMICAL 2180 2192	progestogens
+T18	CHEMICAL 2209 2221	Drospirenone
+T19	CHEMICAL 2228 2240	progesterone
+T20	CHEMICAL 2342 2365	testosterone propionate
+T22	CHEMICAL 2509 2521	drospirenone
+T23	CHEMICAL 2548 2567	cyproterone acetate
+T24	CHEMICAL 2569 2581	Drospirenone
+T25	CHEMICAL 2588 2600	progesterone
+T26	CHEMICAL 2674 2680	sodium
+T27	CHEMICAL 2793 2804	progestogen
+T28	CHEMICAL 2813 2825	Drospirenone
+T30	CHEMICAL 2884 2898	spironolactone
+T31	CHEMICAL 3023 3035	Drospirenone
+T32	CHEMICAL 3124 3136	drospirenone
+T33	CHEMICAL 3143 3155	progesterone

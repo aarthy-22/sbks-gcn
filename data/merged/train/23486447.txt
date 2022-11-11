@@ -1,0 +1,5 @@
+Clinical Pharmacogenetics Implementation Consortium Guideline for CYP2D6 and CYP2C19 Genotypes and Dosing of Tricyclic Antidepressants.
+Polymorphisms in CYP2D6 and CYP2C19 affect the efficacy and safety of tricyclics, with some drugs being affected by CYP2D6 only, and others by both polymorphic enzymes.
+Amitriptyline, clomipramine, doxepin, imipramine, and trimipramine are demethylated by CYP2C19 to pharmacologically active metabolites.
+These drugs and their metabolites, along with desipramine and nortriptyline, undergo hydroxylation by CYP2D6 to less active metabolites.
+Evidence from published literature is presented for CYP2D6 and CYP2C19 genotype-directed dosing of tricyclic antidepressants.

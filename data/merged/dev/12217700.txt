@@ -1,0 +1,13 @@
+Enzymatic catalysis in crystals of Escherichia coli maltodextrin phosphorylase.
+The bacterial enzyme maltodextrin phosphorylase (MalP) catalyses the phosphorolysis of an alpha-1,4-glycosidic bond in maltodextrins, removing the non-reducing glucosyl residues of linear oligosaccharides as glucose-1-phosphate (Glc1P).
+In contrast to the well-studied muscle glycogen phosphorylase (GP), MalP exhibits no allosteric properties and has a higher affinity for linear oligosaccharides than GP.
+We have used MalP as a model system to study catalysis in the crystal in the direction of maltodextrin synthesis.
+The 2.0A crystal structure of the MalP/Glc1P binary complex shows that the Glc1P substrate adopts a conformation seen previously with both inactive and active forms of mammalian GP, with the phosphate group not in close contact with the 5'-phosphate group of the essential pyridoxal phosphate (PLP) cofactor.
+In the active MalP enzyme, the residue Arg569 stabilizes the negative-charged Glc1P, whereas in the inactive form of GP this key residue is held away from the catalytic site by loop 280s and an allosteric transition of the mammalian enzyme is required for activation.
+The comparison between MalP structures shows that His377, through a hydrogen bond with the 6-hydroxyl group of Glc1P substrate, triggers a conformational change of the 380s loop.
+This mobile region folds over the catalytic site and contributes to the specific recognition of the oligosaccharide and to the synergism between substrates in promoting the formation of the MalP ternary complex.
+The structures solved after the diffusion of oligosaccharides (either maltotetraose, G4 or maltopentaose, G5) into MalP/Glc1P crystals show the formation of phosphate and elongation of the oligosaccharide chain.
+These structures, refined at 1.8A and at 2.2A, confirm that only when an oligosaccharide is bound to the catalytic site will Glc1P bend its phosphate group down so it can contact the PLP 5' phosphate group and promote catalysis.
+The relatively large oligosaccharide substrates can diffuse quickly into the MalP/Glc1P crystals and the enzymatic reaction can occur without significant crystal damage.
+These structures obtained before and after catalysis have been used as frames of a molecular movie.
+This movie reveals the relative positions of substrates in the catalytic channel and shows a minimal movement of the protein, involving mainly Arg569, which tracks the substrate phosphate group.

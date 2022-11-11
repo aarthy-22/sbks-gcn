@@ -1,0 +1,41 @@
+T28	CHEMICAL 13 23	sildenafil
+T29	CHEMICAL 89 97	bosentan
+T27	CHEMICAL 102 113	ambrisentan
+T34	GENE-Y 154 175	endothelin-1 receptor
+T20	CHEMICAL 188 196	bosentan
+T24	CHEMICAL 200 211	ambrisentan
+T36	GENE-Y 221 240	phosphodiesterase 5
+T5	CHEMICAL 252 262	sildenafil
+T6	CHEMICAL 266 275	tadalafil
+T15	CHEMICAL 420 428	bosentan
+T16	CHEMICAL 449 459	sildenafil
+T35	GENE-N 535 574	organic anion transporting polypeptides
+T17	CHEMICAL 625 635	sildenafil
+T18	CHEMICAL 640 649	tadalafil
+T19	CHEMICAL 705 713	bosentan
+T21	CHEMICAL 717 728	ambrisentan
+T22	CHEMICAL 801 809	bosentan
+T23	CHEMICAL 814 825	ambrisentan
+T25	CHEMICAL 975 985	sildenafil
+T26	CHEMICAL 989 998	tadalafil
+T1	CHEMICAL 1137 1145	bosentan
+T2	CHEMICAL 1150 1161	ambrisentan
+T3	CHEMICAL 1230 1240	sildenafil
+T4	CHEMICAL 1244 1253	tadalafil
+T30	GENE-N 1280 1294	P-glycoprotein
+T31	GENE-N 1395 1399	P-gp
+T7	CHEMICAL 1530 1539	tadalafil
+T8	CHEMICAL 1553 1564	ambrisentan
+T9	CHEMICAL 1577 1587	sildenafil
+T10	CHEMICAL 1604 1612	pregnane
+T32	GENE-Y 1604 1623	pregnane X receptor
+T11	CHEMICAL 1677 1687	sildenafil
+T12	CHEMICAL 1692 1701	tadalafil
+T13	CHEMICAL 1748 1756	bosentan
+T14	CHEMICAL 1761 1772	ambrisentan
+T33	GENE-Y 1840 1861	endothelin-1 receptor
+R0	CPR-4 Arg1:T5 Arg2:T36
+R1	NOT Arg1:T34 Arg2:T6
+R2	NOT Arg1:T15 Arg2:T35
+R3	NOT Arg1:T9 Arg2:T32
+R4	NOT Arg1:T12 Arg2:T33

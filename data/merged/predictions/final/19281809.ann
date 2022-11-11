@@ -1,0 +1,38 @@
+T28	CHEMICAL 0 22	Sergliflozin etabonate
+T38	GENE-Y 36 41	SGLT2
+T29	CHEMICAL 82 96	streptozotocin
+T11	CHEMICAL 159 165	sodium
+T32	GENE-N 159 187	sodium glucose cotransporter
+T13	CHEMICAL 166 173	glucose
+T35	GENE-Y 189 194	SGLT2
+T25	CHEMICAL 227 234	glucose
+T12	CHEMICAL 362 384	sergliflozin etabonate
+T33	GENE-Y 404 409	SGLT2
+T34	GENE-Y 460 465	SGLT2
+T14	CHEMICAL 484 491	glucose
+T15	CHEMICAL 536 543	glucose
+T16	CHEMICAL 613 635	sergliflozin etabonate
+T17	CHEMICAL 694 706	sulfonylurea
+T18	CHEMICAL 708 718	gliclazide
+T36	GENE-Y 727 744	alpha-glucosidase
+T19	CHEMICAL 756 765	voglibose
+T20	CHEMICAL 768 790	Sergliflozin etabonate
+T21	CHEMICAL 809 816	glucose
+T22	CHEMICAL 892 899	glucose
+T23	CHEMICAL 906 913	sucrose
+T37	GENE-N 939 946	insulin
+T24	CHEMICAL 973 995	Sergliflozin etabonate
+T26	CHEMICAL 1049 1063	streptozotocin
+T27	CHEMICAL 1095 1105	gliclazide
+T1	CHEMICAL 1156 1170	streptozotocin
+T2	CHEMICAL 1236 1258	sergliflozin etabonate
+T3	CHEMICAL 1315 1337	Sergliflozin etabonate
+T4	CHEMICAL 1364 1371	glucose
+T5	CHEMICAL 1406 1416	gliclazide
+T6	CHEMICAL 1441 1463	sergliflozin etabonate
+T30	GENE-N 1486 1505	glycated hemoglobin
+T7	CHEMICAL 1525 1532	glucose
+T8	CHEMICAL 1575 1582	glucose
+T9	CHEMICAL 1626 1648	sergliflozin etabonate
+T10	CHEMICAL 1721 1743	sergliflozin etabonate
+T31	GENE-N 1804 1811	insulin

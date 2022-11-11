@@ -1,0 +1,17 @@
+T5	CHEMICAL 66 72	biotin
+T6	GENE-N 100 108	histones
+T2	CHEMICAL 238 244	lysine
+T3	CHEMICAL 309 323	vitamin biotin
+T7	GENE-Y 338 349	biotinidase
+T8	GENE-Y 354 380	holocarboxylase synthetase
+T9	GENE-N 399 407	histones
+T10	GENE-N 596 607	histone H2A
+T11	GENE-N 628 638	histone H3
+T12	GENE-Y 658 668	histone H4
+T13	GENE-Y 710 720	histone H4
+T14	GENE-Y 795 805	histone H4
+T15	GENE-N 931 939	histones
+T4	CHEMICAL 993 999	biotin
+T16	GENE-N 1030 1052	histone debiotinylases
+T1	CHEMICAL 1103 1109	biotin
+R0	NOT Arg1:T3 Arg2:T8

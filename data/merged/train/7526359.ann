@@ -1,0 +1,18 @@
+T9	CHEMICAL 25 40	deoxypyridoxine
+T8	CHEMICAL 113 119	serine
+T18	GENE-N 113 144	serine hydroxymethyltransferase
+T1	CHEMICAL 162 168	serine
+T11	GENE-N 162 193	serine hydroxymethyltransferase
+T14	GENE-N 195 199	SHMT
+T2	CHEMICAL 335 341	serine
+T12	GENE-N 335 366	serine hydroxymethyltransferase
+T3	CHEMICAL 426 443	4-deoxypyridoxine
+T4	CHEMICAL 474 484	vitamin B6
+T13	GENE-N 553 557	SHMT
+T5	CHEMICAL 668 679	actinomycin
+T6	CHEMICAL 681 691	cytarabine
+T15	GENE-N 693 705	asparaginase
+T7	CHEMICAL 710 722	cyclosporine
+T16	GENE-N 839 843	SHMT
+T17	GENE-N 1005 1009	SHMT
+T10	GENE-N 1152 1156	SHMT

@@ -1,0 +1,22 @@
+T7	CHEMICAL 33 47	gamma-glutamyl
+T20	GENE-Y 33 59	gamma-glutamyl carboxylase
+T2	CHEMICAL 82 95	glutamic acid
+T3	CHEMICAL 108 134	gamma-carboxyglutamic acid
+T5	CHEMICAL 136 139	Gla
+T6	CHEMICAL 148 157	vitamin K
+T16	GENE-Y 148 194	vitamin K-dependent gamma-glutamyl carboxylase
+T1	CHEMICAL 168 182	gamma-glutamyl
+T9	GENE-Y 196 213	gamma-carboxylase
+T10	GENE-Y 443 460	gamma-carboxylase
+T11	GENE-Y 462 466	Ggcx
+T4	CHEMICAL 582 591	vitamin K
+T12	GENE-N 582 624	vitamin K-dependent clotting factors IX, X
+T13	GENE-Y 630 641	prothrombin
+T14	GENE-Y 657 661	Ggcx
+T15	GENE-Y 743 747	Ggcx
+T17	GENE-Y 987 998	prothrombin
+T18	GENE-Y 1004 1012	factor V
+T19	GENE-Y 1014 1016	F5
+T8	GENE-N 1082 1093	carboxylase
+R0	CPR-9 Arg1:T2 Arg2:T16
+R1	NOT Arg1:T1 Arg2:T9

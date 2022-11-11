@@ -1,0 +1,24 @@
+T14	CHEMICAL 82 95	retinoic acid
+T1	CHEMICAL 97 110	Retinoic acid
+T7	CHEMICAL 112 114	RA
+T8	CHEMICAL 131 143	isotretinoin
+T10	CHEMICAL 145 153	Accutane
+T12	CHEMICAL 159 168	tretinoin
+T13	CHEMICAL 170 177	Retin-A
+T9	CHEMICAL 550 552	RA
+T11	CHEMICAL 618 630	all-trans RA
+T24	GENE-Y 1091 1137	nicotinic acetylcholine receptor subunit alpha
+T2	CHEMICAL 1101 1114	acetylcholine
+T15	GENE-Y 1139 1144	NAChR
+T16	GENE-Y 1147 1180	transforming growth factor beta 2
+T17	GENE-Y 1182 1192	TGF beta 2
+T18	GENE-Y 1195 1235	type 1 cellular retinoid binding protein
+T3	CHEMICAL 1211 1219	retinoid
+T19	GENE-Y 1237 1243	CRBP-1
+T20	GENE-Y 1246 1274	retinoic acid receptor gamma
+T4	CHEMICAL 1246 1259	retinoic acid
+T21	GENE-Y 1276 1285	RAR gamma
+T22	GENE-N 1292 1329	cAMP response element binding protein
+T5	CHEMICAL 1292 1296	cAMP
+T23	GENE-N 1331 1335	CREB
+T6	CHEMICAL 1406 1408	RA

@@ -1,0 +1,11 @@
+T4	CHEMICAL 5 14	histamine
+T9	GENE-Y 5 26	histamine H3 receptor
+T2	CHEMICAL 100 109	histamine
+T6	GENE-Y 100 121	histamine H3 receptor
+T1	CHEMICAL 203 212	histamine
+T5	GENE-Y 297 314	human H3 receptor
+T7	GENE-Y 565 576	H3 receptor
+T3	CHEMICAL 609 618	histamine
+T8	GENE-Y 817 828	H3 receptor
+R0	NOT Arg1:T6 Arg2:T1
+R1	NOT Arg1:T7 Arg2:T3

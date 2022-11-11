@@ -1,0 +1,11 @@
+Mesoporous Silica Nanoparticles Act as a Self-Adjuvant for Ovalbumin Model Antigen in Mice.
+Immunization to the model protein antigen ovalbumin (OVA) is investigated using MCM-41 mesoporous silica nanoparticles as a novel vaccine delivery vehicle and adjuvant system in mice.
+The effects of amino surface functionalization and adsorption time on OVA adsorption to nanoparticles are assessed.
+Amino-functionalized MCM-41 (AM-41) shows an effect on the amount of OVA binding, with 2.5-fold increase in binding capacity (72 mg OVA/g AM-41) compared to nonfunctionalized MCM-41 (29 mg OVA/g MCM-41).
+Immunization studies in mice with a 10 μg dose of OVA adsorbed to AM-41 elicits both antibody and cell-mediated immune responses following three subcutaneous injections.
+Immunizations at a lower 2 μg dose of OVA adsorbed to AM-41 particles results in an antibody response but not cell-mediated immunity.
+The level of antibody responses following immunization with nanoformulations containing either 2 μg or 10 μg of OVA are only slightly lower than that in mice which receive 50 μg OVA adjuvanted with QuilA, a crude mixture of saponins extracted from the bark of the Quillaja saponaria Molina tree.
+This is a significant result, since it demonstrates that AM-41 nanoparticles are self-adjuvanting and elicit immune responses at reduced antigen doses in vivo compared to a conventional delivery system.
+Importantly, there are no local or systemic negative effects in animals injected with AM-41.
+Histopathological studies of a range of tissue organs show no changes in histopathology of the animals receiving nanoparticles over a six week period.
+These results establish the biocompatible MCM-41 silica nanoparticles as a new method for vaccine delivery which incorporates a self-adjuvant effect.

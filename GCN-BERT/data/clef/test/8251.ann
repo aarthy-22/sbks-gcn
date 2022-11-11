@@ -1,0 +1,8 @@
+T1	REACTION_PRODUCT 37 109	(S)-5-chloro-3-(pyridine-3-yl)-2-(pyrrolidine-2-yl)quinazoline-4(3H)-one
+T2	EXAMPLE_LABEL 115 116	1
+T3	REACTION_PRODUCT 133 237	tert-butyl (S)-2-(5-chloro-4-oxo-3-(pyridine-3-yl)-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate
+T4	YIELD_OTHER 238 244	3.82 g
+T5	REACTION_PRODUCT 248 352	tert-butyl (S)-2-(5-chloro-4-oxo-3-(pyridine-3-yl)-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate
+T6	STARTING_MATERIAL 415 430	3-aminopyridine
+T7	YIELD_OTHER 509 518	8.95 mmol
+T8	YIELD_PERCENT 527 530	51%

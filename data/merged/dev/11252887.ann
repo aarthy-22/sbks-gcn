@@ -1,0 +1,29 @@
+T10	CHEMICAL 0 11	Gemcitabine
+T11	CHEMICAL 16 35	Pemetrexed disodium
+T1	CHEMICAL 63 82	Pemetrexed disodium
+T4	CHEMICAL 84 90	Alimta
+T6	CHEMICAL 92 100	LY231514
+T14	GENE-Y 153 173	thymidylate synthase
+T9	CHEMICAL 153 164	thymidylate
+T12	GENE-Y 175 198	dihydrofolate reductase
+T2	CHEMICAL 175 188	dihydrofolate
+T13	GENE-Y 204 249	glycinamide ribonucleotide formyl transferase
+T3	CHEMICAL 204 237	glycinamide ribonucleotide formyl
+T5	CHEMICAL 340 359	Pemetrexed disodium
+T7	CHEMICAL 424 435	gemcitabine
+T8	CHEMICAL 437 443	Gemzar
+R0	CPR-4 Arg1:T1 Arg2:T14
+R1	CPR-4 Arg1:T1 Arg2:T12
+R2	CPR-4 Arg1:T1 Arg2:T13
+R3	CPR-4 Arg1:T4 Arg2:T14
+R4	CPR-4 Arg1:T4 Arg2:T12
+R5	CPR-4 Arg1:T4 Arg2:T13
+R6	CPR-4 Arg1:T6 Arg2:T14
+R7	CPR-4 Arg1:T6 Arg2:T12
+R8	CPR-4 Arg1:T6 Arg2:T13
+R9	NOT Arg1:T14 Arg2:T2
+R10	NOT Arg1:T14 Arg2:T3
+R11	NOT Arg1:T9 Arg2:T12
+R12	NOT Arg1:T9 Arg2:T13
+R13	NOT Arg1:T12 Arg2:T3
+R14	NOT Arg1:T2 Arg2:T13

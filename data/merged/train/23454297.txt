@@ -1,0 +1,10 @@
+Caffeic acid treatment alters the extracellular adenine nucleotide hydrolysis in platelets and lymphocytes of adult rats.
+This study evaluated the effects of caffeic acid on ectonucleotidase activities such as NTPDase (nucleoside triphosphate diphosphohydrolase), Ecto-NPP (nucleotide pyrophosphatase/phosphodiesterase), 5'-nucleotidase and adenosine deaminase (ADA) in platelets and lymphocytes of rats, as well as in the profile of platelet aggregation.
+Animals were divided into five groups: I (control);
+II (oil); III (caffeic acid 10mg/kg); IV (caffeic acid 50mg/kg); and V (caffeic acid 100mg/kg).
+Animals were treated with caffeic acid diluted in oil for 30days.
+In platelets, caffeic acid decreased the ATP hydrolysis and increased ADP hydrolysis in groups III, IV and V when compared to control (P<0.05).
+The 5'-nucleotidase activity was decreased, while E-NPP and ADA activities were increased in platelets of rats of groups III, IV and V (P<0.05).
+Caffeic acid reduced significantly the platelet aggregation in the animals of groups III, IV and V in relation to group I (P<0.05).
+In lymphocytes, the NTPDase and ADA activities were increased in all groups treated with caffeic acid when compared to control (P<0.05).
+These findings demonstrated that the enzymes were altered in tissues by caffeic acid and this compound decreased the platelet aggregation suggesting that caffeic acid should be considered a potentially therapeutic agent in disorders related to the purinergic system.

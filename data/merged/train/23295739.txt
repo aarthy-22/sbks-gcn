@@ -1,0 +1,10 @@
+Adaptive changes in basal and stress-induced HPA activity in lactating and post-lactating female rats.
+Lactation represents a period of marked adaptation of the hypothalamo-pituitary-adrenal HPA axis.
+We characterized basal and stress-induced HPA activity during lactation and experimental weaning using dynamic blood sampling in rats.
+Pulsatile and diurnal corticosterone release occurred at all reproductive stages studied (virgin; day 10 of lactation; 3 and 14 days after experimental weaning on day 10 of lactation).
+However, in lactating rats the diurnal peak was significantly reduced, resulting in a flattened rhythm, and three days after weaning, basal HPA activity was markedly suppressed: the number of pulses and underlying basal levels of corticosterone were reduced and the diurnal rise phase delayed.
+Marked changes in the HPA response to 10 min noise stress also occurred at these times: being completely absent in lactating animals, but restored and highly prolonged in early weaned animals.
+Injection of methylprednisolone (2 mg, iv) was used to determine whether changes in fast glucocorticoid suppression correlated with these adaptive changes.
+Methylprednisolone induced a rapid suppression of corticosterone in virgin animals, but this effect was markedly attenuated in lactating and early weaned animals and was accompanied by significant changes in relative expression of hippocampal glucocorticoid and mineralocorticoid receptor mRNA.
+All effects were reversed or partially reversed 14 days after experimental weaning.
+Thus, the presence of the pups has an important influence on regulation of the HPA axis, and while postpartum adaptations are reversible, acute weaning evokes marked reorganisation of basal and stress-induced HPA activity.

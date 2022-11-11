@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 5 7	19
+T2	REACTION_PRODUCT 24 161	trans-10-allyloxy-7-[1-(2-trimethylsilylethoxymethyl)-1H-imidazol-2-yl]-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-9-one
+T3	REACTION_PRODUCT 163 165	6s
+T4	REACTION_PRODUCT 184 288	trans-10-allyloxy-7-(1H-imidazol-2-yl)-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-9-one
+T5	STARTING_MATERIAL 290 292	6r
+T6	SOLVENT 329 332	DMF
+T7	STARTING_MATERIAL 387 426	(2-(chloromethoxy)ethyl)trimethylsilane
+T8	REAGENT_CATALYST 454 457	TEA
+T9	TIME 500 504	16 h
+T10	TEMPERATURE 508 510	rt
+T11	OTHER_COMPOUND 603 613	silica gel
+T12	OTHER_COMPOUND 615 618	DCM
+T13	OTHER_COMPOUND 619 626	Acetone
+T14	REACTION_PRODUCT 651 788	trans-10-allyloxy-7-[1-(2-trimethylsilylethoxymethyl)-1H-imidazol-2-yl]-3-thia-5,8,10-triaza-tricyclo[6.2.1.02,6]undeca-2(6),4-dien-9-one
+T15	REACTION_PRODUCT 790 792	6s
+T16	YIELD_OTHER 795 802	0.043 g
+T17	YIELD_OTHER 804 812	0.1 mmol
+T18	YIELD_PERCENT 814 817	51%

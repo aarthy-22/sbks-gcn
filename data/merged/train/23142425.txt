@@ -1,0 +1,13 @@
+4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK) metabolism-related enzymes gene polymorphisms, NNK metabolites levels and urothelial carcinoma.
+Gene polymorphisms of the 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK) metabolism-related enzymes-cytochrome P450 (CYP) monooxygenase 2A13 (CYP2A13) and UDP-glucuronosyltransferases (UGT)-2B7 could contribute to the levels of NNK-related metabolites in urine, thereby increasing the susceptibility to urothelial carcinoma (UC).
+Therefore, our study aimed to evaluate the roles of two gene polymorphisms (CYP2A13 and UGT2B7) of NNK metabolism-related enzymes in the carcinogenesis of UC in Taiwan.
+A hospital-based pilot case-control study was conducted.
+There were 121 UC cases and 121 age- and sex-matched healthy participants recruited from March 2007 to April 2009.
+Urine samples were analyzed for NNK-related metabolites using the liquid chromatography-tandem mass spectrometry method.
+Genotyping was conducted using a polymerase chain reaction-restriction fragment length polymorphism technique.
+ANCOVA and multivariate logistic regression were applied for data analyses.
+In healthy controls, former smokers had significantly higher total NNAL and higher NNAL-Gluc than never smokers or current smokers.
+Subjects carrying the UGT2B7 268 His/Tyr or Tyr/Tyr genotype had significantly lower total NNAL than those carrying His/His genotype.
+However, no association was seen between gene polymorphisms of CYP2A13 and UGT2B7 and UC risk after adjustment for age and sex.
+Significant dose -response associations between total NNAL, free NNAL, the ratios of free NNAL/total NNAL and NNAL-Gluc/total NNAL and UC risk were observed.
+In the future, large-scale studies will be required to verify the association between the single nucleotide polymorphisms of NNK metabolism-related enzymes and UC risk.

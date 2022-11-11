@@ -1,0 +1,30 @@
+T15	CHEMICAL 2 9	cocaine
+T27	GENE-Y 20 52	Drosophila serotonin transporter
+T16	CHEMICAL 31 40	serotonin
+T4	CHEMICAL 120 127	cocaine
+T20	GENE-Y 153 212	Drosophila serotonin (5-hydroxytryptamine; 5HT) transporter
+T8	CHEMICAL 164 173	serotonin
+T10	CHEMICAL 175 194	5-hydroxytryptamine
+T13	CHEMICAL 196 199	5HT
+T17	GENE-Y 227 233	dSERT1
+T18	GENE-Y 278 284	dSERT1
+T1	CHEMICAL 317 327	monoamines
+T2	CHEMICAL 335 338	Na+
+T3	CHEMICAL 343 346	Cl-
+T19	GENE-Y 468 474	dSERT1
+T21	GENE-N 479 535	mammalian 5HT, norepinephrine, and dopamine transporters
+T5	CHEMICAL 489 492	5HT
+T6	CHEMICAL 494 508	norepinephrine
+T7	CHEMICAL 514 522	dopamine
+T22	GENE-Y 586 592	dSERT1
+T23	GENE-N 665 701	mammalian catecholamine transporters
+T9	CHEMICAL 675 688	catecholamine
+T24	GENE-N 710 736	mammalian 5HT transporters
+T11	CHEMICAL 720 723	5HT
+T12	CHEMICAL 788 791	5HT
+T25	GENE-Y 861 867	dSERT1
+T14	CHEMICAL 924 927	5HT
+T26	GENE-Y 924 940	5HT transporters
+R0	CPR-2 Arg1:T4 Arg2:T20
+R1	NOT Arg1:T1 Arg2:T18
+R2	NOT Arg1:T22 Arg2:T9

@@ -1,0 +1,2 @@
+Preparation Example 3-5 : Preparation of 4-(6-bromo-3-methoxypyridin-2-yl)-6-methylpyrimidin-2-amine (LXIX)
+1-(6-Bromo-3-methoxypyridin-2-yl)butan-1,3-dione (2.51 g, 9.22 mmole) and guanidine carbonate (1.83 g, 20.28 mmole) were dissolved in ethanol (EtOH). The resulting solution was stirred with reflux for 20 hrs, cooled to room temperature, and evaporated under reduced pressure to concentrate. The resulting residue was isolated and purified by silica gel column chromatography (ethylacetate/methanol = 9/1) to give the title compound (680 mg, 25 %).

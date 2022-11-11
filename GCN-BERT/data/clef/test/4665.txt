@@ -1,0 +1,2 @@
+Synthesis of compound 9-d
+At -5°C, compound 9-e (1.50mg, 3.18mmol) was added to a mixture of AlCl3 (2.0g, 15mmol) in DCM (20mL). The mixture was reacted for 16hrs at room temperature, followed by adding 2M HCl aqueous solution (20mL), extracted with DCM (30mL×3). The organic phases were combined, washed in turn with water (10mL×3) and saturated brine (20mL), dried over anhydrous magnesium sulfate, filtered, concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 7:1) to give compound 9-d (220mg, yield 31%).

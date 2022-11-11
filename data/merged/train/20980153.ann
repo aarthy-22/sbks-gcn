@@ -1,0 +1,30 @@
+T11	CHEMICAL 44 67	benzyl ester meperidine
+T12	CHEMICAL 72 85	normeperidine
+T10	CHEMICAL 111 120	serotonin
+T20	GENE-Y 111 132	serotonin transporter
+T3	CHEMICAL 154 199	benzyl esters of meperidine and normeperidine
+T1	CHEMICAL 255 264	serotonin
+T13	GENE-N 255 306	serotonin, dopamine and norepinephrine transporters
+T2	CHEMICAL 266 274	dopamine
+T4	CHEMICAL 279 293	norepinephrine
+T5	CHEMICAL 312 333	4-methoxybenzyl ester
+T6	CHEMICAL 341 360	4-nitrobenzyl ester
+T7	CHEMICAL 371 381	meperidine
+T8	CHEMICAL 393 414	4-methoxybenzyl ester
+T9	CHEMICAL 426 439	normeperidine
+T14	GENE-Y 497 501	SERT
+T15	GENE-Y 530 534	SERT
+T16	GENE-Y 548 551	DAT
+T17	GENE-Y 552 556	SERT
+T18	GENE-Y 567 570	NET
+T19	GENE-Y 571 575	SERT
+R0	CPR-2 Arg1:T11 Arg2:T20
+R1	CPR-2 Arg1:T7 Arg2:T14
+R2	CPR-2 Arg1:T8 Arg2:T19
+R3	CPR-2 Arg1:T9 Arg2:T14
+R4	CPR-2 Arg1:T9 Arg2:T19
+R5	NOT Arg1:T3 Arg2:T13
+R6	NOT Arg1:T5 Arg2:T18
+R7	NOT Arg1:T6 Arg2:T16
+R8	NOT Arg1:T7 Arg2:T18
+R9	NOT Arg1:T9 Arg2:T16

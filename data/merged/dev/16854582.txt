@@ -1,0 +1,11 @@
+Effect of keratinocyte growth factor on cell viability in primary cultured human prostate cancer stromal cells.
+In normal prostate, keratinocyte growth factor (KGF), also known as fibroblast growth factor-7 (FGF-7) serves as a paracrine growth factor synthesized in stromal cells that acts on epithelial cells through its receptor, KGFR.
+KGF and KGFR were found in human cancer epithelial cells as well as stromal cells.
+Since KGF expressed in epithelial cells of benign prostatic hyperplasia (BPH) and in prostate cancer, it has been suggested that KGF might act as an autocrine factor in BPH and prostate cancer.
+To investigate the roles of KGF in cancerous stroma, primary cultured human prostate cancer stromal cells (PCSCs) were isolated and evaluated.
+These PCSCs possessed estrogen receptors and KGFR, but not androgen receptor as determined by RT-PCR and Western blot, respectively.
+KGF exhibited mitogenic and anti-apoptotic effects that correlated with induction of cyclin-D1, Bcl-2, Bcl-xL and phospho-Akt expression in PCSCs, where treatment with KGF antiserum abolished cell proliferation and anti-apoptotic protein expression.
+PCSCs exposed to KGF for various time periods resulted in phosphorylation of Akt and subsequent up-regulation of Bcl-2.
+KGF modulated dynamic protein expression indicated that KGF triggered cell cycle machinery and then activated anti-apoptotic actions in PCSCs.
+Cell proliferation analysis indicated that tamoxifen or ICI 182,780 reduced cell viability in a dose-dependent manner; however, KGF prevented this inhibition, which further demonstrated KGF triggered anti-apoptotic machinery through activating Bcl-2 and phospho-Akt expression.
+In summary, KGF has an autocrine effect and serves as a survival factor in primary cultured human prostate cancer stromal cells.

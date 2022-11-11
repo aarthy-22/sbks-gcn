@@ -1,0 +1,9 @@
+T3	CHEMICAL 12 30	imidazopyridazines
+T8	GENE-Y 70 126	Plasmodium falciparum calcium-dependent protein kinase 1
+T4	CHEMICAL 92 99	calcium
+T7	GENE-Y 128 135	PfCDPK1
+T1	CHEMICAL 150 168	imidazopyridazines
+T6	GENE-Y 200 256	Plasmodium falciparum calcium-dependent protein kinase 1
+T2	CHEMICAL 222 229	calcium
+T5	GENE-Y 258 265	PfCDPK1
+R0	CPR-4 Arg1:T1 Arg2:T5

@@ -1,0 +1,10 @@
+Temporal profile of brain and pituitary GnRHs, GnRH-R and gonadotropin mRNA expression and content during early development in European sea bass (Dicentrarchus labrax L.).
+A likely endocrine control mechanism for sexual differentiation in size-graded populations of European sea bass (Dicentrarchus labrax) is proposed by evaluating the brain expression and pituitary content of two forms of gonadotropin-releasing hormone (GnRH), namely sea bream (sbGnRH) and salmon (sGnRH), the pituitary expression of one subtype of GnRH receptor (dlGnRH-R-2A) and the three gonadotropin (GtH) subunits, namely glycoprotein alpha (GPalpha), follicle-stimulating hormone beta (FSHbeta) and luteinizing hormone beta (LHbeta), as well as the pituitary and plasma LH levels between 50 and 300 days post-hatching (dph).
+Four gradings were conducted between 2 and 8 months after hatching, resulting in a population of large and small individuals, having 96.5% females (female-dominant population) and 69.2% males (male-dominant population), respectively, after the last grading.
+The onset of gonadal differentiation was different in the two sexes, and coincided with a peak of expression of sbGnRH or sGnRH.
+Furthermore, the expression of these GnRHs was correlated with the expression of dlGnRH-R-2A.
+Sex-related differences in the brain and pituitary content of sbGnRH were also found at the time of sexual differentiation.
+Moreover, the observed sexual dimorphism at the transcriptional or synthesis level of these GnRH forms suggests that a different neuro-hormonal regulation is operating according to sex.
+At the onset of sex differentiation, FSHbeta transcriptional activity reached maximal values, which were maintained until the completion of the process.
+The present study suggests a role for sbGnRH, sGnRH and the dlGnRH-R-2A during gonadal differentiation, possibly through enhancement of FSHbeta gene expression.
+In males, a different endocrine regulation seems to exist also during spermiogenesis and spermiation, when gene transcription, peptide synthesis and release of LH are of greater importance.

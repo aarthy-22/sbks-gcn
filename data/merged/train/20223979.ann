@@ -1,0 +1,20 @@
+T7	CHEMICAL 38 49	thalidomide
+T2	CHEMICAL 86 97	thalidomide
+T1	CHEMICAL 224 235	thalidomide
+T8	GENE-N 405 413	cereblon
+T9	GENE-N 415 419	CRBN
+T3	CHEMICAL 426 437	thalidomide
+T10	GENE-N 426 453	thalidomide-binding protein
+T11	GENE-N 455 459	CRBN
+T12	GENE-N 469 496	E3 ubiquitin ligase complex
+T13	GENE-N 502 531	damaged DNA binding protein 1
+T14	GENE-N 533 537	DDB1
+T15	GENE-N 543 548	Cul4A
+T16	GENE-N 608 632	fibroblast growth factor
+T17	GENE-N 633 637	Fgf8
+T4	CHEMICAL 663 674	Thalidomide
+T18	GENE-N 723 727	CRBN
+T19	GENE-N 758 774	ubiquitin ligase
+T5	CHEMICAL 816 827	thalidomide
+T6	CHEMICAL 888 899	thalidomide
+R0	NOT Arg1:T9 Arg2:T3

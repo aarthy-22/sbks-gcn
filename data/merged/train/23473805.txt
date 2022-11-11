@@ -1,0 +1,14 @@
+Lipid raft modulation by Rp1 reverses multidrug resistance via inactivating MDR-1 and Src inhibition.
+Multidrug resistance (MDR) is a major obstacle to effective cancer therapy.
+The membrane transporter MDR-1 (P-gp, ABCB1), a member of the ATP-binding cassette (ABC) transporter family, effluxes anti-cancer drugs from cancer cells.
+Increased activity of MDR-1 is known to be the main mechanism for multidrug resistance.
+MDR-1 is known to be localized in the cholesterol- and sphingolipid-enriched plasma membrane microdomains, known as lipid rafts.
+Disruption of lipid rafts by cholesterol depletion alters lipid raft functions, indicating that cholesterol is critical for raft function.
+Because ginsenosides are structurally similar to cholesterol, in this study, we investigated the effect of Rp1, a novel ginsenoside derivative, on drug resistance using drug-sensitive OVCAR-8 and drug-resistant NCI/ADR-RES and DXR cells.
+Rp1 treatment resulted in an accumulation of doxorubicin or rhodamine 123 by decreasing MDR-1 activity in doxorubicin-resistant cells.
+Rp1 synergistically induced cell death with actinomycin D in DXR cells.
+Rp1 appeared to redistribute lipid rafts and MDR-1 protein.
+Moreover, Rp1 reversed resistance to actinomycin D by decreasing MDR-1 protein levels and Src phosphorylation with modulation of lipid rafts.
+Addition of cholesterol attenuated Rp1-induced raft aggregation and MDR-1 redistribution.
+Rp1 and actinomycin D reduced Src activity, and overexpression of active Src decreased the synergistic effect of Rp1 with actinomycin D. Rp1-induced drug sensitization was also observed with several anti-cancer drugs, including doxorubicin.
+These data suggest that lipid raft-modulating agents can be used to inhibit MDR-1 activity and thus overcome drug resistance.

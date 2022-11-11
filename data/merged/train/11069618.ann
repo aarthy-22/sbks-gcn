@@ -1,0 +1,25 @@
+T24	GENE-Y 0 41	Human peptidylarginine deiminase type III
+T5	CHEMICAL 65 75	nucleotide
+T6	GENE-N 188 214	Peptidylarginine deiminase
+T1	CHEMICAL 299 307	arginine
+T2	CHEMICAL 311 321	citrulline
+T3	CHEMICAL 341 348	calcium
+T15	GENE-N 367 393	peptidylarginine deiminase
+T19	GENE-Y 770 779	filaggrin
+T20	GENE-Y 781 793	trichohyalin
+T21	GENE-N 799 806	keratin
+T22	GENE-N 826 852	peptidylarginine deiminase
+T23	GENE-Y 903 944	human peptidylarginine deiminase type III
+T4	CHEMICAL 1151 1162	amino acids
+T7	GENE-Y 1237 1278	human peptidylarginine deiminase type III
+T8	GENE-Y 1333 1374	human peptidylarginine deiminase type III
+T9	GENE-Y 1478 1520	rodent peptidylarginine deiminase type III
+T10	GENE-Y 1636 1645	filaggrin
+T11	GENE-Y 1650 1662	trichohyalin
+T12	GENE-Y 1753 1762	filaggrin
+T13	GENE-Y 1767 1779	trichohyalin
+T14	GENE-Y 1869 1905	peptidyl-arginine deiminase type III
+T16	GENE-Y 2029 2064	Peptidylarginine deiminase type III
+T17	GENE-Y 2351 2392	human peptidylarginine deiminase type III
+T18	GENE-Y 2509 2521	trichohyalin
+R0	NOT Arg1:T24 Arg2:T5

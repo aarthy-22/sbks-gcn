@@ -1,0 +1,24 @@
+T18	GENE-Y 0 7	Galanin
+T8	CHEMICAL 19 29	cyclic AMP
+T19	GENE-N 19 64	cyclic AMP regulatory element-binding protein
+T20	GENE-N 66 70	CREB
+T6	CHEMICAL 107 115	morphine
+T7	CHEMICAL 120 128	naloxone
+T5	CHEMICAL 195 203	morphine
+T1	CHEMICAL 390 394	cAMP
+T9	GENE-Y 523 530	galanin
+T2	CHEMICAL 559 563	cAMP
+T10	GENE-Y 640 647	galanin
+T3	CHEMICAL 695 699	cAMP
+T4	CHEMICAL 881 885	cAMP
+T11	GENE-N 881 920	cAMP regulatory element-binding protein
+T12	GENE-N 922 926	CREB
+T13	GENE-Y 942 949	galanin
+T14	GENE-N 974 978	CREB
+T15	GENE-Y 1013 1020	galanin
+T16	GENE-N 1029 1076	extracellular signal-regulated kinase (ERK) 1/2
+T17	GENE-N 1134 1151	galanin receptors
+R0	CPR-3 Arg1:T6 Arg2:T20
+R1	NOT Arg1:T18 Arg2:T7
+R2	NOT Arg1:T10 Arg2:T4
+R3	NOT Arg1:T4 Arg2:T12

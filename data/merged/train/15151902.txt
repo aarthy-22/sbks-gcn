@@ -1,0 +1,11 @@
+Involvement of G protein betagamma-subunits in diverse signaling induced by G(i/o)-coupled receptors: study using the Xenopus oocyte expression system.
+We studied the functions of betagamma-subunits of G(i/o) protein using the Xenopus oocyte expression system.
+Isoproterenol (ISO) elicited cAMP production and slowly activating Cl(-) currents in oocytes expressing beta(2)-adrenoceptor and the protein kinase A-dependent Cl(-) channel encoded by the cystic fibrosis transmembrane conductance regulator (CFTR) gene.
+5-Hydroxytryptamine (5-HT), [d-Ala(2), d-Leu(5)]-enkephalin (DADLE), and baclofen enhanced ISO-induced cAMP levels and CFTR currents in oocytes expressing beta(2)-adrenoceptor-CFTR and 5-HT(1A) receptor (5-HT(1A)R), delta-opioid receptor, or GABA(B) receptor, respectively.
+5-HT also enhanced pituitary adenylate cyclase activating peptide (PACAP) 38-induced cAMP levels and CFTR currents in oocytes expressing PACAP receptor, CFTR and 5-HT(1A)R. The 5-HT-induced enhancement of G(s)-coupled receptor-mediated currents was abrogated by pretreatment with pertussis toxin (PTX) and coexpression of G transducin alpha (G(t)alpha).
+The 5-HT-induced enhancement was further augmented by coexpression of the Gbetagamma-activated form of adenylate cyclase (AC) type II but not AC type III.
+Thus betagamma-subunits of G(i/o) protein contribute to the enhancement of G(s)-coupled receptor-mediated responses.
+5-HT and DADLE did not elicit any currents in oocytes expressing 5-HT(1A)R or delta-opioid receptor alone.
+They elicited Ca(2+)-activated Cl(-) currents in oocytes coexpressing these receptors with the Gbetagamma-activated form of phospholipase C (PLC)-beta2 but not with PLC-beta1.
+These currents were inhibited by pretreatment with PTX and coexpression of G(t)alpha, suggesting that betagamma-subunits of G(i/o) protein activate PLC-beta2 and then cause intracellular Ca(2+) mobilization.
+Our results indicate that betagamma-subunits of G(i/o) protein participate in diverse intracellular signals, enhancement of G(s)-coupled receptor-mediated responses, and intracellular Ca(2+) mobilization.

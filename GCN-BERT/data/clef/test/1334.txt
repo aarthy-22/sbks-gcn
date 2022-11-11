@@ -1,0 +1,2 @@
+(5) Preparation of (2S,5R)-6-hydroxyl-7-oxo-N-(spiro[3.3]heptan-2-yl)-1,6-diazabicyclo[3.2.1]octane-2-carboxa mide
+(2S,5R)-6-(benzyloxy)-7-oxo-N-(spiro[3.3]heptan-2-yl)-1,6-diazabicyclo[3.2.1]octane-2-carboxamide (371 mg, 1.0 mmol) was dissolved in methanol (15 mL), Pd/C catalyst (9.6 mg, 10%) was added, purged with hydrogen gas, reacted for 1h. After reaction, suck filtration, vacuum concentration were performed to obtain colorless oil product (225 mg, yield 80.6%).

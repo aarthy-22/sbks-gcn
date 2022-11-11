@@ -1,0 +1,20 @@
+T16	CHEMICAL 0 20	Steroidal glycosides
+T10	CHEMICAL 445 465	steroidal glycosides
+T11	CHEMICAL 899 926	methyl thiazole tetrazolium
+T12	CHEMICAL 928 931	MTT
+T13	CHEMICAL 981 1001	steroidal glycosides
+T14	CHEMICAL 1003 1015	nitric oxide
+T15	CHEMICAL 1017 1019	NO
+T18	GENE-Y 1061 1094	transforming growth factor beta-1
+T19	GENE-Y 1096 1101	TGF-β
+T1	CHEMICAL 1194 1218	steroidal glycoalkaloids
+T2	CHEMICAL 1239 1241	NO
+T17	GENE-Y 1257 1273	TGF-β receptor I
+T3	CHEMICAL 1343 1363	steroidal glycosides
+T4	CHEMICAL 1451 1458	hydroxy
+T5	CHEMICAL 1475 1482	glucose
+T6	CHEMICAL 1639 1663	steroidal glycoalkaloids
+T7	CHEMICAL 1685 1703	furostanol saponin
+T8	CHEMICAL 1865 1885	steroidal glycosides
+T9	CHEMICAL 2045 2065	steroidal glycosides
+R0	NOT Arg1:T13 Arg2:T18

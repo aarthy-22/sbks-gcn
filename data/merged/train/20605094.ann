@@ -1,0 +1,19 @@
+T15	GENE-N 0 18	Carbonic anhydrase
+T16	GENE-Y 62 78	human isoform II
+T10	CHEMICAL 97 106	adamantyl
+T9	CHEMICAL 119 132	acetazolamide
+T4	CHEMICAL 260 290	1,3,4-thiadiazole-sulfonamides
+T11	GENE-N 324 326	CA
+T12	GENE-N 328 338	EC 4.2.1.1
+T13	GENE-N 341 348	CA I-XV
+T1	CHEMICAL 394 425	1,3,4-thiadiazole-2-sulfonamide
+T14	GENE-Y 559 565	hCA II
+T2	CHEMICAL 582 640	5-(1-adamantylcarboxamido)-1,3,4-thiadiazole-2-sulfonamide
+T3	CHEMICAL 653 662	adamantyl
+T5	CHEMICAL 785 795	amino acid
+T6	CHEMICAL 896 909	5-carboxamide
+T7	CHEMICAL 915 925	sufonamide
+T8	CHEMICAL 938 970	1,3,4-thiadiazole-2-sulfonamides
+R0	CPR-2 Arg1:T10 Arg2:T16
+R1	CPR-2 Arg1:T9 Arg2:T16
+R2	CPR-4 Arg1:T3 Arg2:T14

@@ -1,0 +1,24 @@
+T22	GENE-Y 0 23	Prohormone convertase-1
+T23	GENE-N 37 47	prorelaxin
+T24	GENE-Y 65 72	insulin
+T3	GENE-N 93 100	Relaxin
+T1	CHEMICAL 301 310	disulfide
+T2	CHEMICAL 456 466	amino acid
+T10	GENE-Y 579 586	insulin
+T11	GENE-Y 591 610	nerve growth factor
+T12	GENE-Y 612 638	Human type 2 preprorelaxin
+T13	GENE-N 700 740	prohormone convertase-processing enzymes
+T14	GENE-Y 741 745	mPC1
+T15	GENE-Y 749 753	mPC2
+T16	GENE-Y 828 838	yeast kex2
+T17	GENE-Y 839 876	alpha-mating factor-converting enzyme
+T18	GENE-N 908 918	Prorelaxin
+T19	GENE-Y 1026 1030	mPC1
+T20	GENE-Y 1034 1038	kex2
+T21	GENE-Y 1053 1057	mPC2
+T4	GENE-N 1202 1209	relaxin
+T5	GENE-N 1308 1315	relaxin
+T6	GENE-N 1385 1392	relaxin
+T7	GENE-N 1530 1537	relaxin
+T8	GENE-Y 1571 1575	mPC1
+T9	GENE-N 1598 1608	prorelaxin

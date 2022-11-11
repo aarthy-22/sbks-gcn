@@ -1,0 +1,25 @@
+T23	GENE-Y 14 28	5-lipoxygenase
+T20	CHEMICAL 40 56	arachidonic acid
+T21	CHEMICAL 92 105	sulfasalazine
+T19	CHEMICAL 110 131	5-aminosalicylic acid
+T5	CHEMICAL 156 169	sulfasalazine
+T7	CHEMICAL 171 192	5-aminosalicylic acid
+T11	CHEMICAL 198 226	acetyl-5-aminosalicylic acid
+T2	CHEMICAL 241 257	arachidonic acid
+T6	CHEMICAL 378 401	[1-14C]arachidonic acid
+T8	CHEMICAL 551 575	calcium ionophore A23187
+T9	CHEMICAL 590 601	eicosanoids
+T10	CHEMICAL 781 795	leukotriene B4
+T12	CHEMICAL 800 830	5-hydroxyeicosatetraenoic acid
+T13	CHEMICAL 832 838	5-HETE
+T14	CHEMICAL 883 896	sulfasalazine
+T15	CHEMICAL 901 922	5-aminosalicylic acid
+T16	CHEMICAL 928 974	acetylated derivative of 5-aminosalicylic acid
+T17	CHEMICAL 1036 1052	arachidonic acid
+T18	CHEMICAL 1098 1111	sulfasalazine
+T1	CHEMICAL 1139 1160	5-aminosalicylic acid
+T22	GENE-N 1180 1192	lipoxygenase
+T3	CHEMICAL 1216 1223	steroid
+T4	CHEMICAL 1243 1259	arachidonic acid
+R0	CPR-4 Arg1:T19 Arg2:T23
+R1	CPR-9 Arg1:T4 Arg2:T22

@@ -1,0 +1,15 @@
+T12	GENE-Y 12 19	SLC19A2
+T13	GENE-N 25 59	high affinity thiamine transporter
+T8	CHEMICAL 39 47	thiamine
+T9	GENE-N 174 208	high-affinity thiamine transporter
+T5	CHEMICAL 188 196	thiamine
+T11	GENE-Y 209 216	Slc19a2
+T2	CHEMICAL 257 265	thiamine
+T3	CHEMICAL 548 556	thiamine
+T4	CHEMICAL 590 598	thiamine
+T10	GENE-Y 605 612	Slc19a2
+T6	CHEMICAL 966 974	thiamine
+T7	CHEMICAL 1050 1058	thiamine
+T1	CHEMICAL 1189 1197	thiamine
+R0	NOT Arg1:T12 Arg2:T8
+R1	NOT Arg1:T9 Arg2:T2

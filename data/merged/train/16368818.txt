@@ -1,0 +1,7 @@
+Cyclooxygenase-1 inhibition shortens the duration of diazepam-induced loss of righting reflex in mice.
+Cyclooxygenase-1 (COX-1) inhibition by a selective inhibitor valeryl salicylate, or nonselective inhibitors at 10 mg/kg, including aspirin, ibuprofen, indomethacin, and picroxicam, attenuated by 29%-46% the duration of loss of righting reflex induced by diazepam (20 mg/kg) in mice.
+On the other hand, arachidonic acid (20 mg/kg) increased the duration of diazepam-induced loss of righting reflex by 48%.
+This effect of arachidonic acid was abolished by aspirin.
+However, aspirin at 10 mg/kg also did not alter the effects of diazepam (5 mg/kg) on spontaneous activity and rotarod performance.
+These findings strongly suggest that one or more COX products, most likely prostaglandins, play a significant role in modulating the hypnotic effect of diazepam.
+Elucidating the mechanism involved may further our understanding of the pharmacology of benzodiazepines.

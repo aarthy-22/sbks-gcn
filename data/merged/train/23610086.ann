@@ -1,0 +1,29 @@
+T24	CHEMICAL 40 83	Imidazo- and 2-Methylimidazo[2,1-b]thiazole
+T26	GENE-Y 114 130	Ghrelin Receptor
+T25	GENE-Y 190 206	ghrelin receptor
+T21	CHEMICAL 225 342	1-(2-(2-chloro-4-(2H-1,2,3-triazol-2-yl)benzyl)-2,7-diazaspiro[3.5]nonan-7-yl)-2-(imidazo[2,1-b]thiazol-6-yl)ethanone
+T11	CHEMICAL 351 476	1-(2-(2-chloro-4-(2H-1,2,3-triazol-2-yl)benzyl)-2,7-diazaspiro[3.5]nonan-7-yl)-2-(2-methylimidazo[2,1-b]thiazol-6-yl)ethanone
+T12	CHEMICAL 501 523	imidazo[2,1-b]thiazole
+T13	CHEMICAL 602 607	NADPH
+T14	CHEMICAL 613 624	glutathione
+T15	CHEMICAL 670 681	glutathione
+T16	CHEMICAL 851 863	glutathionyl
+T17	CHEMICAL 878 883	thiol
+T18	CHEMICAL 906 914	thiazole
+T19	CHEMICAL 944 955	glutathione
+T20	CHEMICAL 991 1013	imidazo[2,1-b]thiazole
+T22	CHEMICAL 1080 1091	glutathione
+T23	CHEMICAL 1106 1113	S-oxide
+T1	CHEMICAL 1198 1209	glutathione
+T2	CHEMICAL 1236 1255	glutathione-S-oxide
+T3	CHEMICAL 1283 1313	2-methylimidazo[2,1-b]thiazole
+T4	CHEMICAL 1324 1335	glutathione
+T5	CHEMICAL 1416 1424	thiazole
+T6	CHEMICAL 1526 1529	18O
+T7	CHEMICAL 1565 1582	potassium cyanide
+T8	CHEMICAL 1753 1761	thiazole
+T9	CHEMICAL 1774 1791	1,2,4-thiadiazole
+T10	CHEMICAL 1807 1941	-(2-(2-chloro-4-(2H-1,2,3-triazol-2-yl)benzyl)-2,7-diazaspiro[3.5]nonan-7-yl)-2-(2-methylimidazo[2,1-b][1,3,4]thiadiazol-6-yl)ethanone
+R0	CPR-5 Arg1:T24 Arg2:T26
+R1	CPR-5 Arg1:T21 Arg2:T25
+R2	CPR-5 Arg1:T12 Arg2:T25

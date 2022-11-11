@@ -1,0 +1,10 @@
+Inhibition of platelet receptors involved in neutrophil-platelet interaction in model cardiopulmonary bypass.
+We investigated the interactions between neutrophils, platelets, and artificial surfaces, and whether blocking of relevant receptors on platelets reduced unwanted activation responses in model cardiopulmonary bypass.
+Isolated neutrophils and platelets resuspended in heparin-anticoagulated plasma were recirculated with and without blocking antibodies to CD62P, CD42b, or junctional adhesion molecule C (JAM-C) in polyvinyl chloride tubing using a roller pump.
+Platelet adhesion to the tubing was inhibited by anti-CD42b and anti-CD62P, and adhesion of neutrophils by anti-JAM-C. Formation of platelet-neutrophil and platelet aggregates was reduced by anti-CD62P.
+Anti-JAM-C decreased platelet-neutrophil aggregation at low concentrations and platelet macroaggregates at high concentrations.
+Anti-CD62P increased neutrophil CD11b expression but not degranulation.
+Anti-JAM-C substantially increased neutrophil degranulation and slightly increased CD11b expression.
+Platelet activation increased when CD62P was blocked and decreased with anti-CD42b antibody.
+High-dose anti-JAM-C reduced platelet activation.
+In conclusion, inhibiting platelet and neutrophil-platelet interactions had useful effects but no single blocking antibody seemed capable of inducing only beneficial effects.

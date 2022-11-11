@@ -1,0 +1,14 @@
+Cystathionase mediates senescence evasion in melanocytes and melanoma cells.
+The development of malignant melanoma is a highly complex process, which is still poorly understood.
+A majority of human melanomas are found to express a few oncogenic proteins, such as mutant RAS and BRAF variants.
+However, these oncogenes are also found in nevi, and it is now a well-accepted fact that their expression alone leads to senescence.
+This renders the understanding of senescence escape mechanisms an important point to understand tumor development.
+Here, we approached the question of senescence evasion by expressing the transcription factor v-myc myelocytomatosis viral oncogene homolog (c-MYC), which is known to act synergistically with many oncogenes, in melanocytes.
+We observed that MYC drives the evasion of reactive-oxygen stress-induced melanocyte senescence, caused by activated receptor tyrosine kinase signaling.
+Conversely, MIZ1, the growth suppressing interaction partner of MYC, is involved in mediating melanocyte senescence.
+Both, MYC overexpression and Miz1 knockdown led to a strong reduction of endogenous reactive-oxygen species (ROS), DNA damage and senescence.
+We identified the cystathionase (CTH) gene product as mediator of the ROS-related MYC and MIZ1 effects.
+Blocking CTH enzymatic activity in MYC-overexpressing and Miz1 knockdown cells increased intracellular stress and senescence.
+Importantly, pharmacological inhibition of CTH in human melanoma cells also reconstituted senescence in the majority of cell lines, and CTH knockdown reduced tumorigenic effects such as proliferation, H(2)O(2) resistance and soft agar growth.
+Thus, we identified CTH as new MYC target gene with an important function in senescence evasion.
+Oncogene advance online publication, 28 January 2013; doi:10.1038/onc.2012.641.

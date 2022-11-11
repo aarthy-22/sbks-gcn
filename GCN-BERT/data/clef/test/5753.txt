@@ -1,0 +1,5 @@
+Example 12
+(2S,2'S)-1,1'-(((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-chloro-4,1-phenylene))bis(methylene))bis(piperidine-2-carboxylic acid) (Cpd 12)
+Step 1
+4,4'-(2,2'-dimethylbiphenyl-3,3'-diyl)bis(methylene)bis(oxy)bis(3-chlorobenzaldehyde) (23)
+To a stirred solution of 3,3'-bis(bromomethyl)-2,2'-dimethylbiphenyl (1.1 g, 3.00 mmol) in ACN (20 mL) at room temperature were added K2CO3 (1.6 g, 12.02 mmol) and 3-chloro-4-hydroxybenzaldehyde (1.4 g, 9.01 mmol) and stirred at 80° C. for 3 h. The solvent was removed by rotavaporation. The residue was poured into ice-water and the resulting precipitate was filtered and dried in vacuum to get 4,4'-(((2,2'-dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-chlorobenzaldehyde) (1.1 g, yield: 70%, LC-MS 87%), [C30H24C12O4];

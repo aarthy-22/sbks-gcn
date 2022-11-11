@@ -1,0 +1,30 @@
+T1	REACTION_PRODUCT 15 134	(6S,8R)-6-(4-bromo-2-methoxyphenyl)-8-methyl-7-(2,2,2-trifluoroethyl)-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T2	REAGENT_CATALYST 149 163	sodium nitrite
+T3	SOLVENT 188 193	water
+T4	TIME 228 237	5 minutes
+T5	STARTING_MATERIAL 263 374	(1S,3R)-1-(4-bromo-2-methoxyphenyl)-3,5-dimethyl-2-(2,2,2-trifluoroethyl)-1,2,3,4-tetrahydroisoquinolin-6-amine
+T6	REAGENT_CATALYST 415 429	propionic acid
+T7	TEMPERATURE 454 460	−15° C
+T8	OTHER_COMPOUND 505 520	sodium chloride
+T9	OTHER_COMPOUND 536 543	aqueous
+T10	OTHER_COMPOUND 544 559	sodium chloride
+T11	TIME 567 577	20 minutes
+T12	OTHER_COMPOUND 608 615	toluene
+T13	TEMPERATURE 652 658	−70° C
+T14	TIME 730 739	5 minutes
+T15	TEMPERATURE 785 801	room temperature
+T16	TIME 870 879	1.5 hours
+T17	OTHER_COMPOUND 901 906	water
+T18	OTHER_COMPOUND 961 974	ethyl acetate
+T19	OTHER_COMPOUND 1020 1034	sodium sulfate
+T20	OTHER_COMPOUND 1161 1166	EtOAc
+T21	OTHER_COMPOUND 1201 1208	aqueous
+T22	OTHER_COMPOUND 1209 1227	sodium bicarbonate
+T23	OTHER_COMPOUND 1235 1254	potassium carbonate
+T24	OTHER_COMPOUND 1416 1430	sodium sulfate
+T25	OTHER_COMPOUND 1522 1528	silica
+T26	OTHER_COMPOUND 1571 1584	ethyl acetate
+T27	OTHER_COMPOUND 1588 1595	hexanes
+T28	REACTION_PRODUCT 1607 1726	(6S,8R)-6-(4-bromo-2-methoxyphenyl)-8-methyl-7-(2,2,2-trifluoroethyl)-6,7,8,9-tetrahydro-3H-pyrazolo[4,3-f]isoquinoline
+T29	YIELD_OTHER 1728 1734	1.96 g
+T30	YIELD_PERCENT 1736 1739	75%

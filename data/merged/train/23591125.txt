@@ -1,0 +1,7 @@
+Cerebral ischemia-induced difference in sensitivity to depression and potential therapeutics in rats.
+The 'vascular depression' hypothesis has recently attracted significant research attention, although the causal relationship between vascular-related injuries and depression has not been established.
+Here, we show that one episode of cerebral ischemia was sufficient to greatly increase the sensitivity of rats to potentially depressogenic events, evaluated at below-threshold intensities in the open space swim test.
+The induced 'ischemic depression' was lasting and sensitive to an acute administration of brain-derived neurotrophic factor or bryostatin-1, a relatively selective activator of protein kinase Cε, during the induction phase.
+Chronic treatment with bryostatin-1 (5 weeks) after the induction of depressive behavior reversed the depressive immobility and produced a lasting therapeutic effect, which remained effective 3 weeks after discontinuation of the treatment.
+Similar treatment with alaproclate, a selective serotonin reuptake inhibitor, in contrast, produced temporary relief from the depressive symptoms, with the therapeutic effect disappearing soon after the end of the treatment.
+The results strongly suggest that cerebral ischemia has a direct role in shaping the sensitivity of an individual to depressogenic events and that bryostatin-1-like agents may be developed as therapeutics for treating ischemic depression in humans.

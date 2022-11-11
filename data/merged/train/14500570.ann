@@ -1,0 +1,30 @@
+T18	CHEMICAL 12 23	malonyl CoA
+T19	CHEMICAL 25 28	AMP
+T30	GENE-N 25 53	AMP-activated protein kinase
+T8	CHEMICAL 112 115	AMP
+T26	GENE-N 112 140	AMP-activated protein kinase
+T28	GENE-N 142 146	AMPK
+T14	CHEMICAL 152 170	malonyl coenzyme A
+T1	CHEMICAL 172 175	CoA
+T25	GENE-N 242 246	AMPK
+T6	CHEMICAL 281 292	malonyl CoA
+T7	CHEMICAL 343 355	triglyceride
+T9	CHEMICAL 508 518	fatty acid
+T10	CHEMICAL 561 572	fatty acids
+T11	CHEMICAL 659 670	Malonyl CoA
+T12	CHEMICAL 740 749	carnitine
+T27	GENE-N 740 770	carnitine palmitoyltransferase
+T13	CHEMICAL 813 838	long-chain fatty acyl CoA
+T29	GENE-N 902 906	AMPK
+T15	CHEMICAL 936 946	fatty acid
+T16	CHEMICAL 992 1003	malonyl CoA
+T17	CHEMICAL 1057 1069	triglyceride
+T20	GENE-Y 1171 1238	peroxisome proliferator-activated receptor gamma coactivator-1alpha
+T21	GENE-Y 1240 1249	PGC1alpha
+T22	GENE-Y 1345 1351	leptin
+T2	CHEMICAL 1366 1406	5'-aminoimidazole 4-carboxamide riboside
+T3	CHEMICAL 1408 1413	AICAR
+T4	CHEMICAL 1441 1450	metformin
+T23	GENE-N 1511 1515	AMPK
+T5	CHEMICAL 1596 1607	malonyl CoA
+T24	GENE-N 1612 1616	AMPK

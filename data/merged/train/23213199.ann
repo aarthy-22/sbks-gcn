@@ -1,0 +1,21 @@
+T11	CHEMICAL 0 9	Estradiol
+T19	GENE-N 65 82	mitochondrial PTP
+T20	GENE-Y 87 92	MnSOD
+T1	CHEMICAL 94 107	17β-Estradiol
+T3	CHEMICAL 287 295	H(2)O(2)
+T4	CHEMICAL 365 373	estrogen
+T12	GENE-Y 365 383	estrogen receptors
+T13	GENE-N 526 568	mitochondrial permeability transition pore
+T14	GENE-N 570 574	MPTP
+T5	CHEMICAL 583 590	calcein
+T6	CHEMICAL 591 609	acetoxymethylester
+T7	CHEMICAL 610 616	cobalt
+T15	GENE-N 707 711	MPTP
+T8	CHEMICAL 731 739	H(2)O(2)
+T9	CHEMICAL 832 840	H(2)O(2)
+T16	GENE-Y 866 869	Bax
+T10	CHEMICAL 919 926	steroid
+T17	GENE-Y 984 989	Bcl-2
+T18	GENE-Y 1081 1125	mitochondrial manganese superoxide dismutase
+T2	CHEMICAL 1105 1115	superoxide
+R0	NOT Arg1:T9 Arg2:T16

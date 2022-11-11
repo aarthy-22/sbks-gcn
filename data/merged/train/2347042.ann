@@ -1,0 +1,36 @@
+T24	CHEMICAL 54 64	L-cysteine
+T25	CHEMICAL 77 141	L-cysteine, ethyl ester, S-(N-methylcarbamate) monohydrochloride
+T19	CHEMICAL 184 194	L-cysteine
+T20	CHEMICAL 206 270	L-cysteine, ethyl ester, S-(N-methylcarbamate) monohydrochloride
+T6	CHEMICAL 272 282	NSC 303861
+T21	CHEMICAL 948 959	L-glutamine
+T22	CHEMICAL 1059 1070	L-glutamine
+T23	CHEMICAL 1075 1086	L-glutamate
+T1	CHEMICAL 1208 1219	L-glutamine
+T2	CHEMICAL 1241 1258	purine nucleotide
+T26	GENE-Y 1273 1303	amidophosphoribosyltransferase
+T3	CHEMICAL 1305 1309	FGAM
+T27	GENE-Y 1305 1318	FGAM synthase
+T4	CHEMICAL 1324 1327	GMP
+T28	GENE-Y 1324 1336	GMP synthase
+T5	CHEMICAL 1422 1432	pyrimidine
+T7	CHEMICAL 1455 1473	carbamoylphosphate
+T29	GENE-Y 1455 1485	carbamoylphosphate synthase II
+T8	CHEMICAL 1490 1493	CTP
+T30	GENE-Y 1490 1502	CTP synthase
+T9	CHEMICAL 1523 1533	nucleotide
+T10	CHEMICAL 1601 1618	purine nucleotide
+T11	CHEMICAL 1743 1746	IMP
+T12	CHEMICAL 1783 1793	adenylates
+T13	CHEMICAL 1817 1827	guanylates
+T14	CHEMICAL 1849 1852	NAD
+T15	CHEMICAL 1898 1919	pyrimidine nucleotide
+T16	CHEMICAL 1969 1979	L-cysteine
+T17	CHEMICAL 2033 2044	L-glutamine
+T18	CHEMICAL 2094 2111	purine nucleotide
+R0	NOT Arg1:T22 Arg2:T28
+R1	NOT Arg1:T23 Arg2:T27
+R2	NOT Arg1:T1 Arg2:T29
+R3	NOT Arg1:T27 Arg2:T8
+R4	NOT Arg1:T28 Arg2:T8
+R5	NOT Arg1:T29 Arg2:T8

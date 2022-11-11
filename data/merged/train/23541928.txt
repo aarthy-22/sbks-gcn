@@ -1,0 +1,9 @@
+Osteochondral tissue regeneration using a bilayered composite hydrogel with modulating dual growth factor release kinetics in a rabbit model.
+Biodegradable oligo(poly(ethylene glycol) fumarate) (OPF) composite hydrogels have been investigated for the delivery of growth factors (GFs) with the aid of gelatin microparticles (GMPs) and stem cell populations for osteochondral tissue regeneration.
+In this study, a bilayered OPF composite hydrogel that mimics the distinctive hierarchical structure of native osteochondral tissue was utilized to investigate the effect of transforming growth factor-β3 (TGF-β3) with varying release kinetics and/or insulin-like growth factor-1 (IGF-1) on osteochondral tissue regeneration in a rabbit full-thickness osteochondral defect model.
+The four groups investigated included (i) a blank control (no GFs), (ii) GMP-loaded IGF-1 alone, (iii) GMP-loaded IGF-1 and gel-loaded TGF-β3, and (iv) GMP-loaded IGF-1 and GMP-loaded TGF-β3 in OPF composite hydrogels.
+The results of an in vitro release study demonstrated that TGF-β3 release kinetics could be modulated by the GF incorporation method.
+At 12weeks post-implantation, the quality of tissue repair in both chondral and subchondral layers was analyzed based on quantitative histological scoring.
+All groups incorporating GFs resulted in a significant improvement in cartilage morphology compared to the control.
+Single delivery of IGF-1 showed higher scores in subchondral bone morphology as well as chondrocyte and glycosaminoglycan amount in adjacent cartilage tissue when compared to a dual delivery of IGF-1 and TGF-β3, independent of the TGF-β3 release kinetics.
+The results suggest that although the dual delivery of TGF-β3 and IGF-1 may not synergistically enhance the quality of engineered tissue, the delivery of IGF-1 alone from bilayered composite hydrogels positively affects osteochondral tissue repair and holds promise for osteochondral tissue engineering applications.

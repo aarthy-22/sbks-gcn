@@ -1,0 +1,6 @@
+Optimization of a 1,5-dihydrobenzo[b][1,4]diazepine-2,4-dione series of HIV capsid assembly inhibitors 2: Structure-activity relationships (SAR) of the C3-phenyl moiety.
+Detailed structure-activity relationships of the C3-phenyl moiety that allow for the optimization of antiviral potency of a series of 1,5-dihydrobenzo[b][1,4]diazepine-2,4-dione inhibitors of HIV capsid (CA) assembly are described.
+Combination of favorable substitutions gave additive SAR and allowed for the identification of the most potent compound in the series, analog 27.
+Productive SAR also transferred to the benzotriazepine and spirobenzodiazepine scaffolds, providing a solution to the labile stereocenter at the C3 position.
+The molecular basis of how compound 27 inhibits mature CA assembly is rationalized using high-resolution structural information.
+Our understanding of how compound 27 may inhibit immature Gag assembly is also discussed.

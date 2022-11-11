@@ -1,0 +1,8 @@
+Systematic evaluation of 640 FDA drugs for their effect on CD4(+)Foxp3(+) regulatory T cells using a novel cell-based high throughput screening assay.
+Regulatory T cells (Treg), which play a pivotal role in maintaining immune homeostasis by suppressing the proliferation of effector T cells, have great therapeutic potential for autoimmune diseases and transplantation.
+However, progress on their clinical application has been hampered by the lack of high throughput screening (HTS) strategies for the systematic and rapid evaluation of existing drugs and the identification of novel drug candidates.
+In this report, we present an innovative in vitro HTS assay using CD4(+) T cells from Foxp3-GFP transgenic mice that specifically express the GFP signal in Foxp3(+) Treg cells detectable by FACS analysis in a high throughput manner.
+Systematic evaluation of 640 FDA-approved drugs revealed that 70 drugs increased the number of Treg cells with suppression function only in the presence of TGFβ, 75 drugs increased Treg numbers even in the absence of TGFβ, and 32 drugs increased Treg numbers synergistically with TGFβ.
+The identified Treg-promoting drugs include those previously known to induce Treg (rapamycin and retinoic acid), statins, glucocorticoids and drugs in many other categories.
+Furthermore, Treg cells cultured with the identified drugs possess surface and intracellular markers characteristic of natural Treg cells and possess suppressive function.
+These results suggest that this Treg HTS assay can be used to screen compound libraries to identify novel chemical entities for Treg-based immune therapies.

@@ -1,0 +1,2 @@
+Example 9: Synthesis of Compound 9
+To a three-necked flask was added compound 18 (4.16 g, 5 mmol) and DCM (40 mL), and a solution of HCl in dioxane (4 M/L, 40 mL) was added dropwise with stirring at 10° C. After that the mixture was stirred for 5 hours. Then the solvent was distilled off to give the product of Compound 9 hydrochloride (4.2 g, yield 100%), in which the content of compound 9 is 98.5% and the content of defluorinated impurity is 0.12% (220 nm).

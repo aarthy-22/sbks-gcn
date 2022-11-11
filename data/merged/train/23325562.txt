@@ -1,0 +1,10 @@
+Activation of AMP-activated Protein Kinase and Phosphorylation of Glycogen Synthase Kinase3 β Mediate Ursolic Acid Induced Apoptosis in HepG2 Liver Cancer Cells.
+Despite the antitumour effect of ursolic acid observed in several cancers, the underlying mechanism remains unclear.
+Thus, in the present study, the roles of AMP-activated protein kinase (AMPK) and glycogen synthase kinase 3 beta (GSK3β) were examined in ursolic acid induced apoptosis in HepG2 hepatocellular carcinoma cells.
+Ursolic acid significantly exerted cytotoxicity, increased the sub-G1 population and the number of ethidium homodimer and terminal deoxynucleotidyl transferase(TdT) mediated dUTP nick end labeling positive cells in HepG2 cells.
+Also, ursolic acid enhanced the cleavages of poly-ADP-ribose polymerase (PARP) and caspase3, attenuated the expression of astrocyte elevated gene (AEG1) and survivin in HepG2 cells.
+Interestingly, ursolic acid increased the phosphorylation of AMPK and coenzyme A carboxylase and also enhanced phosphorylation of GSK3β at inactive form serine 9, whereas ursolic acid attenuated the phosphorylation of AKT and mTOR in HepG2 cells.
+Conversely, AMPK inhibitor compound C or GSK3β inhibitor SB216763 blocked the cleavages of PARP and caspase 3 induced by ursolic acid in HepG2 cells.
+Furthermore, proteosomal inhibitor MG132 suppressed AMPK activation, GSK3β phosphorylation, cleaved PARP and deceased AEG-1 induced by ursolic acid in HepG2 cells.
+Overall, our findings suggest that ursolic acid induced apoptosis in HepG2 cells via AMPK activation and GSK3β phosphorylation as a potent chemopreventive agent.
+Copyright © 2013 John Wiley & Sons, Ltd.

@@ -1,0 +1,10 @@
+Quantification and regulation of the subcellular distribution of bile acid coenzyme A:amino acid N-acyltransferase activity in rat liver.
+Bile acid coenzyme A:amino acid N-acyltransferase (BAT) is responsible for the amidation of bile acids with the amino acids glycine and taurine.
+To quantify total BAT activity in liver subcellular organelles, livers from young adult male and female Sprague-Dawley rats were fractionated into multiple subcellular compartments.
+In male and female rats, 65-75% of total liver BAT activity was found in the cytosol, 15-17% was found in the peroxisomes, and 5-10% was found in the heavy mitochondrial fraction.
+After clofibrate treatment, male rats displayed an increase in peroxisomal BAT specific activity and a decrease in cytosolic BAT specific activity, whereas females showed an opposite response.
+However, there was no overall change in BAT specific activity in whole liver homogenate.
+Treatment with rosiglitazone or cholestyramine had no effect on BAT activity in any subcellular compartment.
+These experiments indicate that the majority of BAT activity in the rat liver resides in the cytosol.
+Approximately 15% of BAT activity is present in the peroxisomal matrix.
+These data support the novel finding that clofibrate treatment does not directly regulate BAT activity but does alter the subcellular localization of BAT.

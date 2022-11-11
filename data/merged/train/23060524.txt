@@ -1,0 +1,8 @@
+TLR4 antagonist reduces early-stage atherosclerosis in diabetic apolipoprotein E-deficient mice.
+Although it has been reported that deficiency of toll-like receptor 4 (TLR4) is associated with reduced atherosclerosis in atherosclerosis-prone mice and attenuated pro-inflammatory state in diabetic mice, it remains undetermined whether treatment with a TLR4 antagonist reduces atherosclerosis in nondiabetic or diabetic mice that have TLR4 expression.
+In this study, we determined the effect of Rhodobacter sphaeroides lipopolysaccharide (Rs-LPS), an established TLR4 antagonist, on early-stage atherosclerosis in nondiabetic and streptozotocin-induced diabetic apolipoprotein E-deficient (Apoe(-/-)) mice.
+Analysis of atherosclerotic lesions of both en face aortas and cross sections of aortic roots showed that administration of Rs-LPS in 14-week-old diabetic Apoe(-/-) mice for 10 weeks significantly reduced atherosclerotic lesions.
+Although atherosclerotic lesions in nondiabetic Apoe(-/-) mice appeared to be decreased by Rs-LPS treatment, the difference was not statistically significant.
+Metabolic study showed that Rs-LPS significantly lowered serum levels of cholesterol and triglycerides in nondiabetic mice but not in diabetic mice.
+Furthermore, immunohistochemistry studies showed that Rs-LPS inhibited the expression of interleukin 6 and matrix metalloproteinase-9 and reduced the content of monocytes and macrophages in atherosclerotic plaques.
+Taken together, this study demonstrated for the first time that TLR4 antagonist inhibited vascular inflammation and atherogenesis in diabetic Apoe(-/-) mice and lowered serum cholesterol and triglyceride levels in nondiabetic Apoe(-/-) mice.

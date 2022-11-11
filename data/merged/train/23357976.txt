@@ -1,0 +1,7 @@
+Longer HSD11B2 CA-repeat in impaired glucose tolerance and type 2 diabetes.
+Type 2 11β-hydroxysteroid dehydrogenase encoded by the HSD11B2 gene converts cortisol to inactive cortisone, and alteration in this enzymatic activity might affect glucose homeostasis by affecting circulating levels or tissue availability of glucocorticoids.
+We investigated the association of HSD11B2 variant with glucose homeostasis.
+Subjects with normal glucose tolerance (n=585), impaired glucose tolerance (n=202) and type 2 diabetes (n=355) were genotyped for a highly polymorphic CA-repeat polymorphism in the first intron of HSD11B2.
+Allele and genotype frequencies differed between normal and impaired glucose tolerance (P = 0.0014 and 0.0407, respectively; 4DF) or type 2 diabetes (P = 0.0053 and 0.0078), with significant linear trends between the repeat length and the phenotype fraction.
+In normal subjects, total CA-repeat length was negatively correlated with fasting insulin and HOMA-β.
+Thus, subjects having more CA repeats are susceptible to developing abnormal glucose tolerance, whereas normal subjects carrying more CA repeats appeared to have frugal characteristics in insulin secretion.

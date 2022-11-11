@@ -1,0 +1,5 @@
+Discovery of 4-phenyl-2-phenylaminopyridine based TNIK inhibitors.
+A series of compounds based on a 4-phenyl-2-phenylaminopyridine scaffold that are potent and selective inhibitors of Traf2- and Nck-interacting kinase (TNIK) activity are described.
+These compounds were used as tools to test the importance of TNIK kinase activity in signaling and proliferation in Wnt-activated colorectal cancer cells.
+The results indicate that pharmacological inhibition of TNIK kinase activity has minimal effects on either Wnt/TCF4/β-catenin-driven transcription or viability.
+The findings suggest that the kinase activity of TNIK may be less important to Wnt signaling than other aspects of TNIK function, such as its putative role in stabilizing the TCF4/β-catenin transcriptional complex.

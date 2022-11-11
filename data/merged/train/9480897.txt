@@ -1,0 +1,7 @@
+Identification of cDNAs encoding two human alpha class glutathione transferases (GSTA3 and GSTA4) and the heterologous expression of GSTA4-4.
+The Expressed Sequence Tag database has been searched for examples of previously undescribed human Alpha class glutathione transferases.
+An incomplete transcript of the previously described GSTA3 gene was identified in a cDNA library derived from 8-9 week placenta.
+This indicates that the GSTA3 gene is functional and is possibly under specific developmental regulation.
+A second cDNA, termed GSTA4, was identified in a brain cDNA library.
+The encoded GSTA4-4 enzyme was expressed in Escherichia coli and was found to be immunologically distinct from GSTA1-1 and to have high activity with alk-2-enals.
+Although GSTA4-4 appears to be functionally similar to the mouse GST5.7 and rat GST8-8 Alpha class enzymes, sequence comparisons and phylogenetic analysis suggest that GSTA4-4 may be a member of a distinct Alpha class subgroup.

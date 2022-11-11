@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 5 7	53
+T2	REACTION_PRODUCT 8 116	rac-(4R,6R,7R)-7-amino-5-cyclohexanecarbonyl-6-phenyl-5-aza-spiro[2.4]heptane-4-carboxylic acid methyl ester
+T3	EXAMPLE_LABEL 122 125	53A
+T4	REACTION_PRODUCT 126 180	(2-(benzyloxy)-2-oxoethyl)triphenylphosphonium bromide
+T5	STARTING_MATERIAL 194 215	benzyl 2-bromoacetate
+T6	REAGENT_CATALYST 240 258	triphenylphosphine
+T7	SOLVENT 283 290	toluene
+T8	TEMPERATURE 315 331	room temperature
+T9	TIME 336 342	3 days
+T10	OTHER_COMPOUND 404 417	diethyl ether
+T11	REACTION_PRODUCT 433 447	title compound
+T12	REACTION_PRODUCT 448 502	(2-(benzyloxy)-2-oxoethyl)triphenylphosphonium bromide
+T13	YIELD_OTHER 504 508	20 g
+T14	YIELD_OTHER 510 519	40.3 mmol
+T15	YIELD_PERCENT 521 524	96%

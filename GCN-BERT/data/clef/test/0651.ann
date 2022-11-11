@@ -1,0 +1,25 @@
+T1	STARTING_MATERIAL 306 372	2-bromo-4-(((tert-butyldimethylsilyl)oxy)methyl)-5-methoxypyridine
+T2	OTHER_COMPOUND 468 476	nitrogen
+T3	REACTION_PRODUCT 17 90	2-(tert-butyl)-4-(((tert-butyldimethylsilyl)oxy)methyl)-5-methoxypyridine
+T4	TEMPERATURE 763 779	room temperature
+T5	REAGENT_CATALYST 204 256	1,3-dicyclohexyl-1H-imidazol-3-ium tetrafluoroborate
+T6	TIME 662 673	100 minutes
+T7	YIELD_PERCENT 1186 1189	29%
+T8	OTHER_COMPOUND 939 944	brine
+T9	OTHER_COMPOUND 957 963	Na2SO4
+T10	OTHER_COMPOUND 827 832	NH4Cl
+T11	REACTION_PRODUCT 1102 1175	2-(tert-butyl)-4-(((tert-butyldimethylsilyl)oxy)methyl)-5-methoxypyridine
+T12	OTHER_COMPOUND 1002 1012	Silica gel
+T13	OTHER_COMPOUND 819 826	aqueous
+T14	REACTION_PRODUCT 1087 1101	title compound
+T15	OTHER_COMPOUND 1051 1064	ethyl acetate
+T16	REAGENT_CATALYST 139 177	nickel chloride dimethoxyethane adduct
+T17	TEMPERATURE 521 527	−10° C
+T18	SOLVENT 398 413	tetrahydrofuran
+T19	YIELD_OTHER 1177 1184	0.178 g
+T20	OTHER_COMPOUND 877 890	ethyl acetate
+T21	EXAMPLE_LABEL 13 16	11B
+T22	STARTING_MATERIAL 529 557	tert-Butylmagnesium chloride
+T23	TEMPERATURE 650 656	−10° C
+T24	OTHER_COMPOUND 1065 1072	heptane
+T25	SOLVENT 566 581	tetrahydrofuran

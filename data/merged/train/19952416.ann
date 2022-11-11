@@ -1,0 +1,16 @@
+T13	CHEMICAL 45 62	4,5-diaryloxazole
+T1	CHEMICAL 121 138	4,5-diaryloxazole
+T11	CHEMICAL 189 198	oxaprozin
+T14	GENE-Y 203 219	cyclooxygenase-2
+T2	CHEMICAL 333 342	oxaprozin
+T3	CHEMICAL 353 438	3-(4-(4-fluorophenyl)-5-(4-aminosulfonyl-3-fluorophenyl)-oxazole-2-yl) propanoic acid
+T4	CHEMICAL 440 447	NC-2142
+T5	CHEMICAL 541 548	NC-2142
+T6	CHEMICAL 657 664	NC-2142
+T7	CHEMICAL 701 710	oxaprozin
+T8	CHEMICAL 722 735	aminosulfonyl
+T9	CHEMICAL 766 773	benzene
+T10	CHEMICAL 782 791	oxaprozin
+T12	CHEMICAL 993 1002	oxaprozin
+R0	NOT Arg1:T1 Arg2:T14
+R1	NOT Arg1:T11 Arg2:T14

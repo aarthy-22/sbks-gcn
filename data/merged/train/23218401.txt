@@ -1,0 +1,9 @@
+Ameliorative effect of aspalathin from rooibos (Aspalathus linearis) on acute oxidative stress in Caenorhabditis elegans.
+Rooibos leaves and fine stems (Aspalathus linearis; Fabaceae) are increasingly enjoyed as herbal tea, largely in fermented (oxidised) red-brown form, but also in unfermented (unoxidised) green form.
+Rooibos is rich in antioxidant polyphenols, with the dihydrochalcone, aspalathin, as a major active ingredient.
+We used Caenorhabditis elegans as model organism to investigate the effect of rooibos extracts against oxidative stress in vivo.
+In a high glucose environment, C. elegans treated with rooibos extract exhibited an extended lifespan.
+Furthermore, green rooibos was a more potent antioxidant than red rooibos, probably due to its substantially higher aspalathin content.
+In addition, rooibos decreased acute oxidative damage caused by the superoxide anion radical generator, juglone, with aspalathin playing a major role in improving the survival rate of C. elegans.
+Quantitative real-time PCR results demonstrated that aspalathin targets stress and ageing related genes, reducing the endogenous intracellular level of ROS.
+These findings suggest that rooibos increases stress resistance and promotes longevity under stress, probably mediated via a regulation of the DAF-16/FOXO insulin-like signalling pathway, supporting some of the health claims put forward for rooibos tea.

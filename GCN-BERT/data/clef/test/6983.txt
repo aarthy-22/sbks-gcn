@@ -1,0 +1,4 @@
+Example 19
+N-[2-(2-{[2-Methoxy-4-(piperidin-4-yl)phenyl]amino}quinazolin-8-yl)-N-me thylmethanesulfonamide (Compound 19)
+Preparation of compound 19-f.
+2-Amino-3-bromobenzoic acid (5.0 g, 23.26 mmol) was mixed with urea (7.0 g, 116.28 mmol) and the mixture was heated at 210°C for 2 hours. The reaction mixture was cooled to 90°C and then water (50 mL) was added and stirred for 30 minutes. The reaction mixture was cooled to room temperature and filtered, and the filter cake was dried in vacuo to deliver a yellow solid 19-f (5.5 g, yield: 98%). This product was used without further purification.

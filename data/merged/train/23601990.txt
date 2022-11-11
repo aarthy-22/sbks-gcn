@@ -1,0 +1,5 @@
+Synthesis and biological evaluation of phosphorylated flavonoids as potent and selective inhibitors of cholesterol esterase.
+A series of phosphorylated flavonoids were synthesized and investigated in vitro as inhibitors of pancreatic cholesterol esterase (CEase) and acetylcholinesterase (AChE).
+The results showed that most of the synthesized compounds exhibited nanomolar potency against CEase, much better than the parent flavonoids.
+Furthermore, these phosphorylated flavonoids demonstrated good to high selectivity for CEase over AChE, which only showed micromolar potency inhibition of AChE. The most selective and potent inhibitor of CEase (3e) had IC50 value of 0.72 nM and 11800-fold selectivity for CEase over AChE. The structure-activity relationships revealed that the free hydroxyl group at position 5 and phosphate group at position 7 of the phosphorylated flavonoids are favorable to the inhibition of CEase.
+The inhibition mechanism and kinetic characterization studies indicated that they are irreversible competitive inhibitors of CEase.

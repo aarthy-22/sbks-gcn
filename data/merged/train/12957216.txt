@@ -1,0 +1,11 @@
+Zuclopenthixol facilitates memory retrieval in rats: possible involvement of noradrenergic and serotonergic mechanisms.
+Although disturbed memory function often coexists with psychosis, the cognitive effects of antipsychotic medications with diverse pharmacodynamic properties are rarely investigated.
+The neurocognitive profile of zuclopenthixol, a thioxanthene dopaminergic antagonist and a conventional neuroleptic agent, has yet to be investigated despite the effect of the drug on a variety of neurotransmitter systems involved in mediation of learning and memory processes.
+In this study, the effect of zuclopenthixol was tested on memory retrieval 24 h after training using an inhibitory avoidance task in rats.
+Acute administration of zuclopenthixol (0.7 and 1.4 mg/kg i.p.) before retrieval testing increased step-through latency during the test session.
+The same doses of zuclopenthixol did not affect the ambulatory activity of rats in the openfield test and therefore the facilitatory effect of the drug on memory function could not be confounded with any motoric properties.
+This study also investigated the effect of zuclopenthixol on cortical and hippocampal monoaminergic neurotransmitters' levels together with acetylcholinesterase enzyme (AChE) activity, both of which are known to be important in control of cognitive function.
+Administration of zuclopenthixol (0.7 and 1.4 mg/kg i.p.) neither affected dopamine (DA) level nor AChE activity in rat cortex and hippocampus.
+On the other hand, the lower dose of zuclopenthixol elevated cortical norepinephrine (NE) level, while the higher dose elevated both cortical and hippocampal NE level together with hippocampal serotonin (5-HT) level.
+These results may suggest the involvement of adrenergic and serotonergic mechanisms in the facilitatory effect of zuclopenthixol on retrieval memory.
+Zuclopenthixol may therefore be a better alternative than other commonly used antipsychotic medications reported to impair cognitive function of schizophrenic patients.

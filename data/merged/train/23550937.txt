@@ -1,0 +1,9 @@
+Monocarbonyl Curcumin Analogues: Heterocyclic Pleiotropic Kinase Inhibitors That Mediate Anticancer Properties.
+Curcumin is a biologically active component of curry powder.
+A structurally related class of mimetics possesses similar anti-inflammatory and anticancer properties.
+Mechanism has been examined by exploring kinase inhibition trends.
+In a screen of 50 kinases relevant to many forms of cancer, one member of the series (4, EF31) showed ≥85% inhibition for 10 of the enzymes at 5 μM, while 22 of the proteins were blocked at ≥40%.
+IC50 values for an expanded set of curcumin analogues established a rank order of potencies, and analyses of IKKβ and AKT2 enzyme kinetics for 4 revealed a mixed inhibition model, ATP competition dominating.
+Our curcumin mimetics are generally selective for Ser/Thr kinases.
+Both selectivity and potency trends are compatible with protein sequence comparisons, while modeled kinase binding site geometries deliver a reasonable correlation with mixed inhibition.
+Overall, these analogues are shown to be pleiotropic inhibitors that operate at multiple points along cell signaling pathways.

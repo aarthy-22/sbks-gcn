@@ -1,0 +1,27 @@
+T8	CHEMICAL 11 33	5-aza-2'-deoxycytidine
+T25	GENE-N 37 53	fetal hemoglobin
+T9	GENE-N 153 169	Fetal hemoglobin
+T15	GENE-N 171 174	HbF
+T21	GENE-N 204 221	sickle hemoglobin
+T22	GENE-N 223 226	HbS
+T16	GENE-N 350 353	HbF
+T17	GENE-N 372 384	gamma-globin
+T18	GENE-N 386 389	HbF
+T2	CHEMICAL 436 444	cytosine
+T3	CHEMICAL 452 474	5-aza-2'-deoxycytidine
+T4	CHEMICAL 476 486	decitabine
+T19	GENE-N 521 542	DNA methyltransferase
+T5	CHEMICAL 572 582	decitabine
+T20	GENE-N 598 601	HbF
+T6	CHEMICAL 745 756	hydroxyurea
+T7	CHEMICAL 766 776	decitabine
+T23	GENE-N 907 910	HbF
+T24	GENE-N 952 962	hemoglobin
+T10	GENE-N 1160 1186	gamma-Globin gene promoter
+T1	CHEMICAL 1440 1450	decitabine
+T11	GENE-N 1484 1487	HbF
+T12	GENE-N 1498 1508	hemoglobin
+T13	GENE-N 1595 1607	hemoglobin F
+T14	GENE-N 1618 1628	hemoglobin
+R0	CPR-4 Arg1:T2 Arg2:T19
+R1	CPR-4 Arg1:T4 Arg2:T19

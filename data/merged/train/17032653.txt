@@ -1,0 +1,6 @@
+Retinol dehydrogenase (RDH12) protects photoreceptors from light-induced degeneration in mice.
+RDH12 has been suggested to be one of the retinol dehydrogenases (RDH) involved in the vitamin A recycling system (visual cycle) in the eye.
+Loss of function mutations in the RDH12 gene were recently reported to be associated with autosomal recessive childhood-onset severe retinal dystrophy.
+Here we show that RDH12 localizes to the photoreceptor inner segments and that deletion of this gene in mice slows the kinetics of all-trans-retinal reduction, delaying dark adaptation.
+However, accelerated 11-cis-retinal production and increased susceptibility to light-induced photoreceptor apoptosis were also observed in Rdh12(-/-) mice, suggesting that RDH12 plays a unique, nonredundant role in the photoreceptor inner segments to regulate the flow of retinoids in the eye.
+Thus, severe visual impairments of individuals with null mutations in RDH12 may likely be caused by light damage(1).

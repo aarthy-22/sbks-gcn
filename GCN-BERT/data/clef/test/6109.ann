@@ -1,0 +1,24 @@
+T1	EXAMPLE_LABEL 0 3	1.8
+T2	REACTION_PRODUCT 5 136	5-(3,4-difluorophenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T3	REACTION_PRODUCT 147 148	1
+T4	REAGENT_CATALYST 171 211	tetrakis(triphenylphosphine)palladium(0)
+T5	STARTING_MATERIAL 237 267	2,3-difluorophenylboronic acid
+T6	STARTING_MATERIAL 316 432	5-bromo-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione
+T7	SOLVENT 459 466	aqueous
+T8	REAGENT_CATALYST 479 498	potassium carbonate
+T9	SOLVENT 511 528	dimethylformamide
+T10	SOLVENT 541 546	water
+T11	OTHER_COMPOUND 573 581	nitrogen
+T12	TEMPERATURE 617 623	90° C.
+T13	TIME 628 635	2 hours
+T14	OTHER_COMPOUND 679 684	water
+T15	OTHER_COMPOUND 736 749	ethyl acetate
+T16	OTHER_COMPOUND 784 789	water
+T17	OTHER_COMPOUND 828 843	sodium chloride
+T18	OTHER_COMPOUND 856 874	magnesium sulphate
+T19	OTHER_COMPOUND 958 968	silica gel
+T20	OTHER_COMPOUND 998 1013	dichloromethane
+T21	OTHER_COMPOUND 1014 1022	methanol
+T22	YIELD_OTHER 1037 1042	60 mg
+T23	YIELD_PERCENT 1044 1047	36%
+T24	REACTION_PRODUCT 1052 1183	5-(3,4-difluorophenyl)-3-methyl-1-{2-oxo-2-[4-(2-oxo-1,4-dihydro-2H-quinazolin-3-yl)-piperidin-1-yl]-ethyl}-1H-pyrimidine-2,4-dione

@@ -1,0 +1,2 @@
+Synthesis of Compound 35
+To a solution of 4-aminobutyric acid (82.4 mg, 0.8 mmol) and DIPEA (489 μL, 2.8 mmol) in DMF (10 mL), a solution of compound 34 (260.7 mg, 0.73 mmol) in DMF (10 mL) was added at 0° C. in an ice bath. The mixture was stirred for 10 minutes at 0° C. and then stirred at room temperature overnight. The solvent was removed in vacuo when the reaction was completed. The solid residue was purified by column chromatography (CH2Cl2:MeOH=10:1, v/v) to yield the compound 35 (192.3 mg, 76.2%). LC-MS m/z (ES+), 346.14 (M+H)+.

@@ -1,0 +1,25 @@
+T24	GENE-N 15 25	kisspeptin
+T5	GENE-N 85 95	Kisspeptin
+T1	CHEMICAL 104 114	amino acid
+T18	GENE-Y 147 153	KiSS-1
+T23	GENE-N 177 203	G protein-coupled receptor
+T9	GENE-Y 204 209	GPR54
+T12	GENE-Y 333 338	GPR54
+T13	GENE-N 429 439	kisspeptin
+T2	CHEMICAL 528 559	gonadotrophin releasing hormone
+T14	GENE-Y 528 559	gonadotrophin releasing hormone
+T3	CHEMICAL 561 565	GnRH
+T15	GENE-Y 561 565	GnRH
+T16	GENE-Y 625 630	GPR54
+T17	GENE-Y 709 714	GPR54
+T19	GENE-N 870 889	luteinising hormone
+T20	GENE-N 891 893	LH
+T21	GENE-N 937 965	follicle stimulating hormone
+T22	GENE-N 967 970	FSH
+T4	CHEMICAL 976 988	testosterone
+T6	GENE-N 1175 1185	kisspeptin
+T7	GENE-N 1239 1249	kisspeptin
+T8	GENE-Y 1250 1255	GPR54
+T10	GENE-N 1358 1368	kisspeptin
+T11	GENE-N 1524 1536	kisspeptin's
+R0	NOT Arg1:T19 Arg2:T4

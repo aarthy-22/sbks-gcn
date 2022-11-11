@@ -1,0 +1,5 @@
+Core 2
+rac-(2R,3S,4R,5R)-ethyl 3-(tert-butyl)-4-nitro-5-phenylpyrrolidine-2-carboxylate
+Core 2A
+(E)-ethyl 2-(benzylideneamino)acetate
+To a mixture of glycine ethyl ester hydrochloride (7.23 g, 51.8 mmol) and magnesium sulfate (7.09 g, 58.9 mmol) in dichloromethane (80 mL) was added triethylamine (7.22 mL, 51.8 mmol). The mixture was stirred at ambient temperature for 20 minutes, and benzaldehyde (4.79 mL, 47.1 mmol) was added dropwise. The mixture was stirred overnight. The reaction mixture was filtered and the solid was washed with dichloromethane (20 mL×2). The combined organic layers were washed with brine, dried over MgSO4, filtered and concentrated to provide (E)-ethyl 2-(benzylideneamino)acetate 8.2 g, (91% yield).

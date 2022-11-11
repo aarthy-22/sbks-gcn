@@ -1,0 +1,30 @@
+T27	GENE-N 56 65	peptidase
+T15	GENE-N 374 383	peptidase
+T5	CHEMICAL 547 555	cysteine
+T16	GENE-N 547 576	cysteine and serine peptidase
+T6	CHEMICAL 560 566	serine
+T17	GENE-N 592 618	B. bauhinioides kallikrein
+T7	CHEMICAL 641 647	serine
+T18	GENE-N 641 657	serine peptidase
+T19	GENE-Y 731 756	human neutrophil elastase
+T20	GENE-Y 757 768	cathepsin G
+T8	CHEMICAL 777 785	cysteine
+T21	GENE-N 777 796	cysteine proteinase
+T22	GENE-Y 797 808	cathepsin L
+T23	GENE-N 822 848	B. bauhinioides kallikrein
+T24	GENE-N 868 885	plasma kallikrein
+T25	GENE-Y 890 897	plasmin
+T26	GENE-N 977 1003	B. bauhinioides kallikrein
+T1	CHEMICAL 1162 1176	5-fluorouracil
+T9	GENE-N 1267 1293	B. bauhinioides kallikrein
+T2	CHEMICAL 1329 1343	5-fluorouracil
+T10	GENE-N 1645 1671	B. bauhinioides kallikrein
+T11	GENE-N 1725 1751	B. bauhinioides kallikrein
+T3	CHEMICAL 1874 1888	5-fluorouracil
+T12	GENE-N 2018 2044	B. bauhinioides kallikrein
+T13	GENE-N 2104 2113	peptidase
+T14	GENE-N 2153 2162	peptidase
+T4	CHEMICAL 2262 2276	5-fluorouracil
+R0	NOT Arg1:T16 Arg2:T7
+R1	NOT Arg1:T17 Arg2:T7
+R2	NOT Arg1:T19 Arg2:T8

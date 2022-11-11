@@ -1,0 +1,51 @@
+T27	CHEMICAL 11 22	fenofibrate
+T28	CHEMICAL 48 59	aldosterone
+T5	CHEMICAL 223 234	Fenofibrate
+T9	CHEMICAL 246 257	aldosterone
+T39	GENE-N 288 312	matrix metalloproteinase
+T40	GENE-N 326 363	extracellular signal-regulated kinase
+T41	GENE-Y 407 455	peroxisome proliferator-activated receptor-alpha
+T19	CHEMICAL 465 476	fenofibrate
+T20	CHEMICAL 520 531	aldosterone
+T21	CHEMICAL 628 632	NaCl
+T22	CHEMICAL 687 698	aldosterone
+T23	CHEMICAL 762 773	fenofibrate
+T24	CHEMICAL 844 855	Aldosterone
+T25	CHEMICAL 999 1010	fenofibrate
+T26	CHEMICAL 1028 1039	Aldosterone
+T1	CHEMICAL 1135 1146	fenofibrate
+T2	CHEMICAL 1230 1241	Fenofibrate
+T3	CHEMICAL 1257 1268	aldosterone
+T4	CHEMICAL 1435 1446	fenofibrate
+T29	GENE-Y 1473 1499	matrix metalloproteinase-2
+T30	GENE-Y 1500 1540	tissue inhibitors of metalloproteinase-2
+T6	CHEMICAL 1568 1579	aldosterone
+T7	CHEMICAL 1632 1643	aldosterone
+T8	CHEMICAL 1662 1673	fenofibrate
+T31	GENE-N 1684 1715	transforming growth factor-beta
+T32	GENE-N 1717 1734	collagen type III
+T33	GENE-N 1758 1773	collagen type I
+T10	CHEMICAL 1814 1825	fenofibrate
+T34	GENE-Y 1836 1884	peroxisome proliferator-activated receptor-alpha
+T35	GENE-Y 1886 1953	peroxisome proliferator-activated receptor-gamma coactivator-1alpha
+T11	CHEMICAL 1970 1987	acetyl coenzyme A
+T36	GENE-N 1970 1999	acetyl coenzyme A carboxylase
+T12	CHEMICAL 2036 2047	aldosterone
+T37	GENE-Y 2064 2084	uncoupling protein-3
+T38	GENE-Y 2089 2131	medium-chain acyl coenzyme A dehydrogenase
+T13	CHEMICAL 2102 2117	acyl coenzyme A
+T14	CHEMICAL 2166 2177	fenofibrate
+T15	CHEMICAL 2219 2230	aldosterone
+T16	CHEMICAL 2306 2316	fatty acid
+T17	CHEMICAL 2334 2345	fenofibrate
+T18	CHEMICAL 2355 2366	aldosterone
+R0	CPR-4 Arg1:T5 Arg2:T39
+R1	CPR-5 Arg1:T19 Arg2:T41
+R2	CPR-4 Arg1:T4 Arg2:T30
+R3	NOT Arg1:T7 Arg2:T32
+R4	NOT Arg1:T10 Arg2:T37
+R5	NOT Arg1:T34 Arg2:T12
+R6	NOT Arg1:T34 Arg2:T13
+R7	NOT Arg1:T34 Arg2:T16
+R8	NOT Arg1:T35 Arg2:T15
+R9	NOT Arg1:T37 Arg2:T16

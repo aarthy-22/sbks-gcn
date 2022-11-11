@@ -1,0 +1,11 @@
+T11	GENE-N 33 53	supercoiling domains
+T1	CHEMICAL 335 365	biotinylated trimethylpsoralen
+T2	GENE-N 439 459	supercoiling domains
+T3	GENE-N 497 511	RNA polymerase
+T4	GENE-N 516 529	topoisomerase
+T5	GENE-Y 581 585	CTCF
+T6	GENE-N 619 637	Underwound domains
+T7	GENE-Y 683 698	topoisomerase I
+T8	GENE-Y 728 735	DNase I
+T9	GENE-Y 768 784	topoisomerase II
+T10	GENE-N 869 887	underwound domains

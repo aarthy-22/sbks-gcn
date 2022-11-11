@@ -1,0 +1,14 @@
+T1	OTHER_COMPOUND 542 554	acetonitrile
+T2	REACTION_PRODUCT 569 671	2-cyclopentyl-4-methyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinolin-6-yl)thiazol-2-yl)thiazole-5-carboxamide
+T3	TIME 421 427	5 days
+T4	STARTING_MATERIAL 30 106	6-(2-amino-5-chlorothiazol-4-yl)-3,4-dihydroquinolin-2(1H)-one hydrochloride
+T5	EXAMPLE_LABEL 8 10	55
+T6	REAGENT_CATALYST 295 321	propylphosphonic anhydride
+T7	REAGENT_CATALYST 214 222	pyridine
+T8	OTHER_COMPOUND 555 560	water
+T9	STARTING_MATERIAL 133 186	2-cyclopentyl-4-methyl-1,3-thiazole-5-carboxylic acid
+T10	YIELD_PERCENT 682 685	80%
+T11	SOLVENT 248 260	acetonitrile
+T12	YIELD_OTHER 673 680	0.143 g
+T13	TEMPERATURE 410 415	50° C
+T14	SOLVENT 343 356	ethyl acetate

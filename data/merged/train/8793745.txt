@@ -1,0 +1,15 @@
+AMPA receptor heterogeneity in rat hippocampal neurons revealed by differential sensitivity to cyclothiazide.
+1.
+The kinetics of onset of alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptor desensitization by glutamate, and the extent of attenuation of AMPA receptor desensitization by cyclothiazide, showed pronounced cell-to-cell variation in cultures of rat hippocampal neurons.
+Cultures prepared from area CA1 stratum radiatum tended to show weaker modulation by cyclothiazide than cultures prepared from the whole hippocampus.
+2.
+Kinetic analysis of concentration jump responses to glutamate revealed multiple populations of receptors with fast (approximately 400 ms), intermediate (approximately 2-4 s), and slow (> 20 s) time constants for recovery from modulation by cyclothiazide.
+The amplitudes of these components varied widely between cells, suggesting the existence of at least three populations of AMPA receptor subtypes, the relative density of which varied from cell to cell.
+3.
+The complex patterns of sensitivity to cyclothiazide seen in hippocampal neurons could be reconstituted by assembly of recombinant AMPA receptor subunits generated from cDNAs encoding the flip (i) and flop (o) splice variants of the GluR-A and GluR-B subunits.
+Recovery from modulation by cyclothiazide was slower for GluR-AiBi and GluR-AoBi than for GluR-AiBo and GluR-AoBo.
+4.
+Coexpression of the flip and flop splice variants of GluR-A, in the absence of GluR-B, revealed that heteromeric AMPA receptors with intermediate sensitivity to cyclothiazide, similar to responses observed for the combinations GluR-AoBi or GluR-AiBo, could be generated independently of the presence of the GluR-B subunit.
+However, recovery from modulation by cyclothiazide was twofold slower for GluR-AiBi than for homomeric GluR-Ai, indicating that the GluR-A and GluR-B subunits are not functionally equivalent in controlling sensitivity to cyclothiazide.
+5.
+These results demonstrate that AMPA receptors expressed in hippocampal neurons are assembled in a variety of subunit and splice variant combinations that might serve as a mechanism to fine-tune the kinetics of synaptic transmission.

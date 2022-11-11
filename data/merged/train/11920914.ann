@@ -1,0 +1,29 @@
+T22	GENE-Y 49 69	acetylcholinesterase
+T16	CHEMICAL 81 97	organophosphates
+T19	GENE-Y 126 152	mouse acetylcholinesterase
+T20	GENE-Y 154 158	AChE
+T21	GENE-Y 160 170	EC 3.1.1.7
+T13	CHEMICAL 175 183	paraoxon
+T14	CHEMICAL 185 192	haloxon
+T15	CHEMICAL 194 198	DDVP
+T2	CHEMICAL 226 257	alkyl methylphosphonyl thioates
+T3	CHEMICAL 271 306	alkyl methylphosphonyl thiocholines
+T18	GENE-Y 352 356	AChE
+T4	CHEMICAL 385 394	gallamine
+T5	CHEMICAL 396 410	d-tubocurarine
+T6	CHEMICAL 412 421	propidium
+T7	CHEMICAL 423 431	atropine
+T8	CHEMICAL 451 459	coumarin
+T9	CHEMICAL 485 494	coumarins
+T10	CHEMICAL 572 588	organophosphates
+T11	CHEMICAL 627 643	organophosphates
+T12	CHEMICAL 851 855	DDVP
+T17	GENE-Y 1142 1146	AChE
+T1	CHEMICAL 1211 1226	organophosphate
+R0	CPR-4 Arg1:T16 Arg2:T22
+R1	CPR-4 Arg1:T13 Arg2:T19
+R2	CPR-4 Arg1:T15 Arg2:T19
+R3	CPR-4 Arg1:T15 Arg2:T20
+R4	NOT Arg1:T20 Arg2:T7
+R5	NOT Arg1:T20 Arg2:T8
+R6	NOT Arg1:T2 Arg2:T18

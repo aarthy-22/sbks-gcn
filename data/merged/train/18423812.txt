@@ -1,0 +1,16 @@
+Triple pharmacological blockade of the renin-angiotensin-aldosterone system in nondiabetic CKD: an open-label crossover randomized controlled trial.
+BACKGROUND: Agents inhibiting the renin-angiotensin-aldosterone (RAAS) system have an important role in slowing the progression of chronic kidney disease.
+We evaluated the hypothesis that the addition of an aldosterone receptor antagonist to an angiotensin-converting enzyme (ACE) inhibitor and angiotensin II type 1 (AT-1) receptor blocker (ARB) (triple RAAS blockade) may provide an additional benefit compared with an ACE inhibitor and ARB (double RAAS blockade).
+DESIGN: Randomized open controlled crossover study.
+SETTING & PARTICIPANTS: 18 whites (7 women, 11 men) from the Outpatient Department of Nephrology with chronic nondiabetic proteinuric kidney diseases, mean age 42.4 +/- 1.9 years (SEM).
+INTERVENTIONS: In the 8-week run-in period, all participants received the ACE inhibitor cilazapril (5 mg), the ARB telmisartan (80 mg), and the diuretic hydrochlorothiazide (12.5 mg) as double RAAS blockade to achieve the target blood pressure of less than 130/80 mm Hg.
+Participants were then randomly assigned to 2 treatment sequences, either the addition of spironolactone (25 mg) (triple RAAS blockade) through 8 weeks followed by double RAAS blockade through 8 weeks (sequence 1) or double RAAS blockade followed by triple RAAS blockade (sequence 2).
+MAIN OUTCOME MEASURES: 24-hour urine protein excretion (primary end point) and markers of tubular injury and fibrosis (secondary end points).
+Analysis was performed using analysis of variance for repeated measurements.
+RESULTS: At baseline, mean serum creatinine level was 1.16 +/- 0.09 mg/dL (103 +/- 8 micromol/L), estimated glomerular filtration rate was 107.8 mL/min (95% confidence interval, 93 to 140.9 [1.8 mL/s; 95% confidence interval, 1.55 to 2.35; Cockcroft-Gault formula), and 24-hour mean proteinuria was 0.97 +/- 0.18 g. Mean urine protein excretion was 0.7 g/24 h (95% confidence interval, 0.48 to 0.92) less after triple RAAS blockade than after double RAAS blockade (P = 0.01), without change in blood pressure.
+Urine excretion of N-acetyl-beta-d-glucosaminidase (P = 0.02) and amino-terminal propeptide of type III procollagen (P = 0.05) also significantly decreased.
+Potassium levels increased significantly after triple therapy (P = 0.02).
+However, no patient was withdrawn because of adverse effects.
+LIMITATIONS: Absence of blinding, small sample size, short treatment period, absence of histological assessment.
+CONCLUSIONS: Administration of an aldosterone receptor antagonist in addition to double RAAS blockade with an ACE inhibitor and ARB may slow the progression of chronic kidney disease.
+Additional studies are necessary to confirm this result.

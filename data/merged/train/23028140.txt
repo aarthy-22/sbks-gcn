@@ -1,0 +1,11 @@
+Autoinhibition of CYP3A4 leads to important role of CYP2C8 in imatinib metabolism: variability in CYP2C8 activity may alter plasma concentrations and response.
+Recent data suggest that the role of CYP3A4 in imatinib metabolism is smaller than presumed.
+This study aimed to evaluate the quantitative importance of different cytochrome P450 (P450) enzymes in imatinib pharmacokinetics.
+First, the metabolism of imatinib was investigated using recombinant P450 enzymes and human liver microsomes with P450 isoform-selective inhibitors.
+Thereafter, an in silico model for imatinib was constructed to perform pharmacokinetic simulations to assess the roles of P450 enzymes in imatinib elimination at clinically used imatinib doses.
+In vitro, CYP2C8 inhibitors and CYP3A4 inhibitors inhibited the depletion of 0.1 µM imatinib by 45 and 80%, respectively, and the formation of the main metabolite of imatinib, N-desmethylimatinib, by >50%.
+Likewise, recombinant CYP2C8 and CYP3A4 metabolized imatinib extensively, whereas other isoforms had minor effect on imatinib concentrations.
+In the beginning of imatinib treatment, the fractions of its hepatic clearance mediated by CYP2C8 and CYP3A4 were predicted to approximate 40 and 60%, respectively.
+During long-term treatment with imatinib 400 mg once or twice daily, up to 65 or 75% of its hepatic elimination was predicted to occur via CYP2C8, and only about 35 or 25% by CYP3A4, due to dose- and time-dependent autoinactivation of CYP3A4 by imatinib.
+Thus, although CYP2C8 and CYP3A4 are the main enzymes in imatinib metabolism in vitro, in silico predictions indicate that imatinib inhibits its own CYP3A4-mediated metabolism, assigning a key role for CYP2C8.
+During multiple dosing, pharmacogenetic polymorphisms and drug interactions affecting CYP2C8 activity may cause marked interindividual variation in the exposure and response to imatinib.

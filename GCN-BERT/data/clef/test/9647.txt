@@ -1,0 +1,3 @@
+Example 1
+Preparation of trans-2-Chloro-5-(2,2-dichloro-3-(3,4-dichlorophenyl)cyclopropane-1-carboxamido)-N-(2-methyl-4-(2,2,2-trifluoroacetamido)phenyl)benzamide (F1061)
+To a solution of trans-N-(4-amino-2-methylphenyl)-2-chloro-5-(2,2-dichloro-3-(3,4-dichlorophenyl)cyclopropane-1-carboxamido)benzamide (DP1) (0.100 g, 0.179 mmol) and triethylamine (0.037 mL, 0.269 mmol) in dichloromethane (2.0 mL) was added trifluoroacetic anhydride (0.030 mL, 0.215 mmol). The reaction mixture was stirred at room temperature for 18 hours. The reaction mixture was directly loaded onto a Celite® cartridge. Purification by flash column chromatography using 0-40% ethyl acetate/hexanes as eluent afforded the title compound as a white solid (0.080 g, 68%).

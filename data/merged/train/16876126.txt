@@ -1,0 +1,7 @@
+RNA interference-triggered reversal of ABCC2-dependent cisplatin resistance in human cancer cells.
+The adenosine triphosphate binding cassette (ABC)-transporter ABCC2 (MRP2/cMOAT) can mediate resistance against the commonly used anticancer drugs cisplatin and paclitaxel.
+To overcome the ABCC2-depending drug resistance, two specific anti-ABCC2 small interfering RNAs (siRNAs) were designed for transient triggering of the gene-silencing RNA interference (RNAi) pathway in the cisplatin-resistant human ovarian carcinoma cell line A2780RCIS.
+Since both siRNAs showed biological activity, for stable inhibition of ABCC2 a corresponding short hairpin RNA (shRNA)-encoding expression vector was designed.
+By treatment of A2780RCIS cells with this construct, the expressions of the targeted ABCC2 encoding mRNA and transport protein were inhibited.
+These effects were accompanied by reversal of resistance against cisplatin and paclitaxel.
+Thus, the data demonstrate the utility of the analyzed RNAs as powerful laboratory tools and indicate that siRNA- and shRNA-mediated RNAi-based gene therapeutic approaches may be applicable in preventing and reversing ABCC2-depending drug resistance.

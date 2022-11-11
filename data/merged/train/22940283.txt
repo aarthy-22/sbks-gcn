@@ -1,0 +1,11 @@
+Relation between dynamics, activity and thermal stability within the cholinesterase family.
+Incoherent neutron scattering is one of the most powerful tools for studying dynamics in biological matter.
+Using the cold neutron backscattering spectrometer IN16 at the Institut Laue Langevin (ILL, Grenoble, France), temperature dependence of cholinesterases' dynamics (human butyrylcholinesterase from plasma: hBChE; recombinant human acetylcholinesterase: hAChE and recombinant mouse acetylcholinesterase: mAChE) was examined using elastic incoherent neutron scattering (EINS).
+The dynamics was characterized by the averaged atomic mean square displacement (MSD), associated with the sample flexibility at a given temperature.
+We found MSD values of hAChE above the dynamical transition temperature (around 200K) larger than for mAChE and hBChE, implying that hAChE is more flexible than the other ChEs.
+Activation energies for thermodynamical transition were extracted through the frequency window model (FWM) (Becker et al. 2004) [1] and turned out to increase from hBChE to mAChE and finally to hAChE, inversely to the MSDs relations.
+Between 280 and 316K, catalytic studies of these enzymes were carried out using thiocholine esters: at the same temperature, the hAChE activity was systematically higher than the mAChE or hBChE ones.
+Our results thus suggest a strong correlation between dynamics and activity within the ChE family.
+We also studied and compared the ChEs thermal inactivation kinetics.
+Here, no direct correlation with the dynamics was observed, thus suggesting that relations between enzyme dynamics and catalytic stability are more complex.
+Finally, the possible relation between flexibility and protein ability to grow in crystals is discussed.

@@ -1,0 +1,44 @@
+T32	CHEMICAL 18 29	leukotriene
+T41	GENE-N 18 40	leukotriene synthetase
+T33	CHEMICAL 75 93	diethylcarbamazine
+T30	CHEMICAL 117 135	diethylcarbamazine
+T31	CHEMICAL 140 149	piriprost
+T40	GENE-Y 153 167	5-lipoxygenase
+T1	CHEMICAL 179 197	Diethylcarbamazine
+T18	CHEMICAL 225 252	sulfidopeptide leukotrienes
+T12	CHEMICAL 389 403	leukotriene C4
+T13	CHEMICAL 405 409	LTC4
+T37	GENE-Y 414 428	LTC synthetase
+T14	CHEMICAL 527 531	LTA4
+T15	CHEMICAL 535 546	glutathione
+T16	CHEMICAL 579 583	LTA4
+T17	CHEMICAL 587 591	LTC4
+T19	CHEMICAL 709 722	leukotriene C
+T38	GENE-Y 709 733	leukotriene C synthetase
+T20	CHEMICAL 780 784	LTA4
+T21	CHEMICAL 852 856	LTA4
+T22	CHEMICAL 885 889	LTA4
+T23	CHEMICAL 944 957	leukotriene C
+T39	GENE-Y 944 968	leukotriene C synthetase
+T24	CHEMICAL 981 999	diethylcarbamazine
+T25	CHEMICAL 1032 1036	LTA4
+T26	CHEMICAL 1053 1071	diethylcarbamazine
+T27	CHEMICAL 1073 1082	piriprost
+T28	CHEMICAL 1084 1092	U-60,257
+T29	CHEMICAL 1094 1150	6,9-deepoxy-6,9-(phenylimino)-delta 6,8-prostaglandin I1
+T2	CHEMICAL 1185 1211	sulfidopeptide leuktrienes
+T34	GENE-Y 1232 1246	5-lipoxygenase
+T3	CHEMICAL 1289 1300	leukotriene
+T35	GENE-N 1289 1311	leukotriene synthetase
+T4	CHEMICAL 1369 1378	piriprost
+T5	CHEMICAL 1429 1440	leukotriene
+T6	CHEMICAL 1513 1531	diethylcarbamazine
+T7	CHEMICAL 1596 1605	piriprost
+T8	CHEMICAL 1610 1628	diethylcarbamazine
+T9	CHEMICAL 1637 1648	leukotriene
+T10	CHEMICAL 1814 1818	LTA4
+T11	CHEMICAL 1826 1839	leukotriene C
+T36	GENE-Y 1826 1850	leukotriene C synthetase
+R0	CPR-9 Arg1:T10 Arg2:T36
+R1	NOT Arg1:T27 Arg2:T35
+R2	NOT Arg1:T2 Arg2:T35

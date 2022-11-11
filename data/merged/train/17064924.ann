@@ -1,0 +1,46 @@
+T20	CHEMICAL 8 17	adenosine
+T1	CHEMICAL 100 103	ATP
+T6	CHEMICAL 114 125	nucleotides
+T4	CHEMICAL 274 283	adenosine
+T21	GENE-Y 274 290	adenosine kinase
+T22	GENE-Y 292 294	AK
+T5	CHEMICAL 300 307	adenine
+T23	GENE-N 300 333	adenine phosphoribosyltransferase
+T24	GENE-N 335 339	APRT
+T7	CHEMICAL 423 435	glycineamide
+T25	GENE-Y 423 468	glycineamide ribonucleotide formyltransferase
+T26	GENE-Y 470 474	GART
+T8	CHEMICAL 480 496	5-aminoimidazole
+T27	GENE-Y 480 522	5-aminoimidazole ribonucleotide synthetase
+T28	GENE-Y 524 528	AIRS
+T9	CHEMICAL 554 563	adenosine
+T29	GENE-Y 554 570	adenosine kinase
+T10	CHEMICAL 572 575	ATP
+T30	GENE-Y 572 607	ATP:adenosine 5'-phosphotransferase
+T11	CHEMICAL 576 585	adenosine
+T31	GENE-N 609 620	EC 2.7.1.20
+T12	CHEMICAL 626 633	adenine
+T32	GENE-Y 626 659	adenine phosphoribosyltransferase
+T13	CHEMICAL 661 664	AMP
+T33	GENE-N 661 707	AMP:pyrophosphate phospho-d-ribosyltransferase
+T14	CHEMICAL 665 678	pyrophosphate
+T34	GENE-N 709 719	EC 2.4.2.7
+T15	CHEMICAL 748 757	Adenosine
+T35	GENE-N 748 770	Adenosine nucleosidase
+T16	CHEMICAL 772 781	adenosine
+T36	GENE-N 772 795	adenosine ribohydrolase
+T37	GENE-N 797 807	EC 3.2.2.7
+T17	CHEMICAL 930 939	adenosine
+T18	CHEMICAL 1034 1052	[8-(14)C]adenosine
+T19	CHEMICAL 1058 1069	nucleotides
+T2	CHEMICAL 1221 1230	adenosine
+T3	CHEMICAL 1301 1308	adenine
+R0	NOT Arg1:T21 Arg2:T8
+R1	NOT Arg1:T22 Arg2:T7
+R2	NOT Arg1:T22 Arg2:T8
+R3	NOT Arg1:T23 Arg2:T8
+R4	NOT Arg1:T7 Arg2:T26
+R5	NOT Arg1:T26 Arg2:T8
+R6	NOT Arg1:T9 Arg2:T30
+R7	NOT Arg1:T30 Arg2:T14
+R8	NOT Arg1:T12 Arg2:T34

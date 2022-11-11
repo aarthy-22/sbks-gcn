@@ -1,0 +1,8 @@
+The anticoagulant thrombin mutant W215A/E217A has a collapsed primary specificity pocket.
+The thrombin mutant W215A/E217A features a drastically impaired catalytic activity toward chromogenic and natural substrates but efficiently activates the anticoagulant protein C in the presence of thrombomodulin.
+As the remarkable anticoagulant properties of this mutant continue to be unraveled in preclinical studies, we solved the x-ray crystal structures of its free form and its complex with the active site inhibitor H-d-Phe-Pro-Arg-CH(2)Cl (PPACK).
+The PPACK-bound structure of W215A/E217A is identical to the structure of the PPACK-bound slow form of thrombin.
+On the other hand, the structure of the free form reveals a collapse of the 215-217 strand that crushes the primary specificity pocket.
+The collapse results from abrogation of the stacking interaction between Phe-227 and Trp-215 and the polar interactions of Glu-217 with Thr-172 and Lys-224.
+Other notable changes are a rotation of the carboxylate group of Asp-189, breakage of the H-bond between the catalytic residues Ser-195 and His-57, breakage of the ion pair between Asp-222 and Arg-187, and significant disorder in the 186- and 220-loops that define the Na(+) site.
+These findings explain the impaired catalytic activity of W215A/E217A and demonstrate that the analysis of the molecular basis of substrate recognition by thrombin and other proteases requires crystallization of both the free and bound forms of the enzyme.

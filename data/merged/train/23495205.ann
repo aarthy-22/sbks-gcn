@@ -1,0 +1,23 @@
+T22	GENE-Y 81 90	Aromatase
+T23	GENE-Y 91 100	Sulfatase
+T16	CHEMICAL 111 182	4-{[(4-Cyanophenyl)(4H-1,2,4-triazol-4-yl)amino]methyl}phenyl sulfamate
+T1	CHEMICAL 184 255	4-{[(4-Cyanophenyl)(4H-1,2,4-triazol-4-yl)amino]methyl}phenyl sulfamate
+T15	CHEMICAL 283 284	F
+T2	CHEMICAL 286 288	Cl
+T3	CHEMICAL 290 292	Br
+T17	GENE-Y 332 341	aromatase
+T18	GENE-Y 346 355	sulfatase
+T4	CHEMICAL 535 542	halogen
+T5	CHEMICAL 570 577	halogen
+T6	CHEMICAL 604 611	halogen
+T7	CHEMICAL 651 660	methylene
+T8	CHEMICAL 675 692	difluoromethylene
+T9	CHEMICAL 720 736	para-cyanophenyl
+T10	CHEMICAL 793 802	triazolyl
+T11	CHEMICAL 817 827	imidazolyl
+T12	CHEMICAL 882 891	imidazole
+T19	GENE-Y 928 937	aromatase
+T13	CHEMICAL 942 949	steroid
+T20	GENE-Y 942 959	steroid sulfatase
+T14	CHEMICAL 1032 1038	phenol
+T21	GENE-Y 1065 1074	aromatase

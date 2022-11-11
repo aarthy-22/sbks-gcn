@@ -1,0 +1,20 @@
+T17	GENE-N 20 38	alpha-adrenoceptor
+T12	GENE-N 117 135	alpha-adrenoceptor
+T11	GENE-N 330 351	alpha 1-adrenoceptors
+T1	CHEMICAL 482 493	methoxamine
+T13	GENE-N 495 515	alpha 2-adrenoceptor
+T2	CHEMICAL 646 653	BHT 933
+T3	CHEMICAL 692 699	WB 4101
+T14	GENE-Y 715 736	alpha 1A-adrenoceptor
+T4	CHEMICAL 758 776	clorethylclonidine
+T5	CHEMICAL 778 781	CEC
+T15	GENE-Y 786 807	alpha 1B-adrenoceptor
+T6	CHEMICAL 904 915	methoxamine
+T7	CHEMICAL 960 967	BHT 933
+T16	GENE-N 972 992	alpha 2-adrenoceptor
+T8	CHEMICAL 1022 1029	WB 4101
+T9	CHEMICAL 1042 1045	CEC
+T10	GENE-N 1085 1106	alpha 2-adrenoceptors
+R0	CPR-3 Arg1:T1 Arg2:T11
+R1	CPR-6 Arg1:T4 Arg2:T15
+R2	NOT Arg1:T14 Arg2:T5

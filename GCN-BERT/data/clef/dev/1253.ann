@@ -1,0 +1,13 @@
+T0	STARTING_MATERIAL 237 278	(4-bromophenyl)(piperidine-1-yl)methanone
+T1	REACTION_PRODUCT 81 138	(4-(3-hydroxyprop-1-ynyl)phenyl)(piperidin-1-yl)methanone
+T2	YIELD_OTHER 153 159	374 mg
+T3	EXAMPLE_LABEL 5 6	2
+T4	REACTION_PRODUCT 23 80	(4-(3-hydroxyprop-1-ynyl)phenyl)(piperidin-1-yl)methanone
+T7	REACTION_STEP 143 151	obtained
+T5	YIELD_PERCENT 167 170	90%
+T6	STARTING_MATERIAL 324 341	propargyl alcohol
+R0	ARG1 Arg1:T7 Arg2:T1
+R1	ARGM Arg1:T7 Arg2:T2
+R2	ARGM Arg1:T7 Arg2:T5
+R3	ARG1 Arg1:T7 Arg2:T0
+R4	ARG1 Arg1:T7 Arg2:T6

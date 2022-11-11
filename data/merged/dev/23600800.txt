@@ -1,0 +1,14 @@
+CASK is a new intracellular modulator of P2X3 receptors.
+ATP-gated P2X3 receptors of sensory ganglion neurons are important transducers of painful stimuli and are modulated by extracellular algogenic substances, via changes in the receptor phosphorylation state.
+The present study investigated the role of calcium/calmodulin-dependent serine protein kinase CASK in interacting and controlling P2X3 receptor expression and function in mouse trigeminal ganglia.
+Most ganglion neurons in situ or in culture co-expressed P2X3 and CASK.
+CASK was immunoprecipitated with P2X3 receptors from trigeminal ganglia and from P2X3/CASK-cotransfected HEK cells.
+Recombinant P2X3/CASK expression in HEK cells increased serine phosphorylation of P2X3 receptors, typically associated with receptor upregulation.
+CASK deletion mutants also enhanced P2X3 subunit expression.
+After silencing CASK, cell surface P2X3 receptor expression was decreased, which is consistent with depressed P2X3 currents.
+The reduction of P2X3 expression levels was reversed by the proteasomal inhibitor MG-132.
+Moreover, neuronal CASK/P2X3 interaction was upregulated by NGF signaling and downregulated by P2X3 agonist-induced desensitization.
+These data suggest a novel interaction between CASK and P2X3 receptors with positive outcome for receptor stability and function.
+As CASK-mediated control of P2X3 receptors was dependent on the receptor activation state, CASK represents an intracellular gateway to regulate purinergic nociceptive signaling.
+This article is protected by copyright.
+All rights reserved.

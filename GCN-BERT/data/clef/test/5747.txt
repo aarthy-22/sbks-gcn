@@ -1,0 +1,2 @@
+Synthesis of Compound 34
+The compound 33 (0.58 g, 1.4 mmol) was dissolved in 14 mL of DMF, NaN3 (0.46 g, 5.0 eq.) was added, and the mixture was stirred in an oil bath at 50° C. for 24 hours. After the completion of reaction, H2O was added, and the mixture was subjected to extraction with EtOAc. The organic layer was washed with brine, dried by adding anhydrous sodium sulfate, and then distilled under reduced pressure. Then, the residue was purified by column chromatography (Hexane:EtOAc=1:1) to isolate and obtain a compound 34 (0.48 g, 91%) as a white crystal.

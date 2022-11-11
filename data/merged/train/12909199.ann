@@ -1,0 +1,25 @@
+T20	CHEMICAL 45 54	bupropion
+T6	CHEMICAL 92 101	bupropion
+T1	CHEMICAL 169 180	(-)nicotine
+T3	CHEMICAL 186 200	(+)amphetamine
+T4	CHEMICAL 215 246	(+)- and (-)threohydrobupropion
+T5	CHEMICAL 284 304	R,R-hydroxybupropion
+T7	CHEMICAL 348 359	(-)nicotine
+T8	CHEMICAL 425 436	(-)nicotine
+T9	CHEMICAL 472 492	S,S-Hydroxybupropion
+T10	CHEMICAL 525 536	(-)nicotine
+T11	CHEMICAL 541 555	(+)amphetamine
+T12	CHEMICAL 573 593	S,S-hydroxybupropion
+T13	CHEMICAL 664 673	bupropion
+T14	CHEMICAL 692 701	Bupropion
+T21	GENE-N 742 779	nicotinic acetylcholinergic receptors
+T15	CHEMICAL 801 812	(-)nicotine
+T22	GENE-Y 854 897	alpha3beta4 nicotinic cholinergic receptors
+T16	CHEMICAL 899 919	S,S-Hydroxybupropion
+T17	CHEMICAL 946 954	dopamine
+T23	GENE-Y 946 966	dopamine transporter
+T18	CHEMICAL 981 990	bupropion
+T19	CHEMICAL 1026 1040	norepinephrine
+T24	GENE-Y 1026 1052	norepinephrine transporter
+T2	CHEMICAL 1156 1165	bupropion
+R0	NOT Arg1:T21 Arg2:T15

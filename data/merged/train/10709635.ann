@@ -1,0 +1,20 @@
+T13	CHEMICAL 0 9	Carnitine
+T14	CHEMICAL 40 59	gamma-butyrobetaine
+T18	GENE-Y 40 71	gamma-butyrobetaine hydroxylase
+T1	CHEMICAL 88 107	gamma-Butyrobetaine
+T15	GENE-Y 88 119	gamma-Butyrobetaine hydroxylase
+T10	CHEMICAL 146 155	carnitine
+T12	CHEMICAL 187 198	L-carnitine
+T2	CHEMICAL 204 223	gamma-butyrobetaine
+T3	CHEMICAL 249 253	Fe2+
+T4	CHEMICAL 255 274	alpha-ketoglutarate
+T5	CHEMICAL 276 285	ascorbate
+T6	CHEMICAL 290 296	oxygen
+T7	CHEMICAL 364 383	gamma-butyrobetaine
+T16	GENE-Y 364 395	gamma-butyrobetaine hydroxylase
+T8	CHEMICAL 490 509	gamma-butyrobetaine
+T17	GENE-Y 490 521	gamma-butyrobetaine hydroxylase
+T9	CHEMICAL 661 669	glycerol
+T11	CHEMICAL 680 683	DTT
+R0	NOT Arg1:T15 Arg2:T5
+R1	NOT Arg1:T15 Arg2:T6

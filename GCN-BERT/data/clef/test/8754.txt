@@ -1,0 +1,3 @@
+Example 70
+Preparation of N-(3-amino-2-chloro-6-fluorophenyl)acetamide (C194)
+Step 1: Preparation of N-(2-chloro-6-fluorophenyl)acetamide. Acetic anhydride (10 g, 99 mmol) was added dropwise to a stirred solution of 2-chloro-6-fluoroaniline (12.5 g, 86 mmol), in glacial acetic acid (50 mL). The resulting gold solution was heated at 90° C. for 2 hours, then cooled and quenched with water (500 mL). The resulting solid was collected by vacuum filtration, washed with water (100 mL) and hexanes (100 mL) and dried in vacuo at 40° C. to a constant weight to give the title compound as a tan solid (14.87 g, 88%):

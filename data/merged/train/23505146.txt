@@ -1,0 +1,6 @@
+Diverse effects of macromolecular crowding on the sequential glycan-processing pathway involved in glycoprotein quality control.
+Compared with in vitro conditions, the intracellular environment is highly crowded with biomolecules; this has numerous effects on protein functions, including enzymatic activity.
+We examined the effects of macromolecular crowding on glycan processing of N-glycoprotein in the endoplasmic reticulum as a model sequential metabolic pathway.
+Experiments with synthetic substrates of physiological glycan structure clearly showed that the first half of the pathway (glucose trimming) was accelerated, whereas the second (mannose trimming) was decelerated under molecular crowding conditions.
+Furthermore, calreticulin, a lectin-like molecular chaperone, bound more strongly to a glycan-processing intermediate under these conditions.
+This study demonstrates the diverse effects of molecular crowding on sequential enzymatic processing, and the importance of the effects of macromolecular crowding on in vitro assays for understanding sequential metabolic pathways.

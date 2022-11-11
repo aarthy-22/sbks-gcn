@@ -1,0 +1,15 @@
+T3	CHEMICAL 538 546	fentanyl
+T4	CHEMICAL 548 561	hydromorphone
+T5	CHEMICAL 567 575	morphine
+T6	CHEMICAL 895 903	Fentanyl
+T7	CHEMICAL 954 962	morphine
+T8	CHEMICAL 967 980	hydromorphone
+T9	CHEMICAL 1014 1022	Fentanyl
+T10	GENE-N 1060 1075	opioid receptor
+T1	CHEMICAL 1087 1095	naloxone
+T11	GENE-N 1124 1139	opioid receptor
+T12	GENE-N 1221 1268	endothelial and inducible nitric oxide synthase
+T2	CHEMICAL 1247 1259	nitric oxide
+T13	GENE-N 1277 1328	vascular endothelial-derived growth factor receptor
+T14	GENE-Y 1329 1333	Flk1
+R0	NOT Arg1:T1 Arg2:T11

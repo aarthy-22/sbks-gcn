@@ -1,0 +1,23 @@
+T20	CHEMICAL 20 40	olmesartan medoxomil
+T21	CHEMICAL 46 65	hydrochlorothiazide
+T5	CHEMICAL 235 249	angiotensin II
+T22	GENE-Y 235 271	angiotensin II type 1 (AT1) receptor
+T23	GENE-Y 369 381	AT1 receptor
+T13	CHEMICAL 393 413	olmesartan medoxomil
+T14	CHEMICAL 422 430	thiazide
+T15	CHEMICAL 440 459	hydrochlorothiazide
+T16	CHEMICAL 668 688	olmesartan medoxomil
+T17	CHEMICAL 719 738	hydrochlorothiazide
+T18	CHEMICAL 772 792	olmesartan medoxomil
+T19	CHEMICAL 815 834	hydrochlorothiazide
+T1	CHEMICAL 1367 1377	olmesartan
+T2	CHEMICAL 1404 1424	olmesartan medoxomil
+T3	CHEMICAL 1430 1449	hydrochlorothiazide
+T4	CHEMICAL 1455 1465	olmesartan
+T6	CHEMICAL 1627 1646	hydrochlorothiazide
+T7	CHEMICAL 1868 1878	olmesartan
+T8	CHEMICAL 1883 1902	hydrochlorothiazide
+T9	CHEMICAL 1974 1994	olmesartan medoxomil
+T10	CHEMICAL 1999 2018	hydrochlorothiazide
+T11	CHEMICAL 2170 2190	olmesartan medoxomil
+T12	CHEMICAL 2201 2220	hydrochlorothiazide

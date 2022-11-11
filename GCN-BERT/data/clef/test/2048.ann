@@ -1,0 +1,21 @@
+T1	REACTION_PRODUCT 0 196	(N-(8-((3,4,6-O-triacetyl-2-acetylamino-2-deoxy-β-D-galactopyranosyl)oxy)-3,6-dioxaoctanoyl)-3-(((4,4',4″-trimethoxytrityl)oxy)methyl)azetidin-3-yl)methyl (2-cyanoethyl) diisopropylphosphoramidite
+T2	REACTION_PRODUCT 197 200	14k
+T3	STARTING_MATERIAL 210 213	10k
+T4	REAGENT_CATALYST 239 294	2-cyanoethyl N,N,N',N'-tetraisopropylphosphorodiamidite
+T5	SOLVENT 344 356	acetonitrile
+T6	TIME 435 438	1 h
+T7	TEMPERATURE 459 465	−10° C
+T8	REAGENT_CATALYST 468 480	1H-tetrazole
+T9	SOLVENT 513 525	acetonitrile
+T10	OTHER_COMPOUND 615 628	triethylamine
+T11	OTHER_COMPOUND 669 676	aqueous
+T12	OTHER_COMPOUND 677 695	sodium bicarbonate
+T13	OTHER_COMPOUND 728 731	DCM
+T14	OTHER_COMPOUND 772 778	Na2SO4
+T15	OTHER_COMPOUND 846 856	silica gel
+T16	OTHER_COMPOUND 868 872	Et3N
+T17	OTHER_COMPOUND 881 894	ethyl acetate
+T18	OTHER_COMPOUND 898 905	hexanes
+T19	REACTION_PRODUCT 916 919	14k
+T20	YIELD_OTHER 921 928	0.692 g
+T21	YIELD_PERCENT 930 935	84.2%

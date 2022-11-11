@@ -1,0 +1,7 @@
+Carbonic anhydrase inhibitors.
+Inhibition of mitochondrial isozyme V with aromatic and heterocyclic sulfonamides.
+The first inhibition study of the mitochondrial isozyme carbonic anhydrase (CA) V (of murine origin) with a series of aromatic and heterocyclic sulfonamides is reported.
+Inhibition data of the cytosolic isozymes CA I and CA II and the membrane-bound isozyme CA IV with these inhibitors are also provided for comparison.
+Several low nanomolar CA V inhibitors were detected (KI values in the range of 4-15 nM), most of them belonging to the acylated sulfanilamide, ureido-benzenesulfonamide, 1,3,4-thiadiazole-2-sulfonamide, and aminobenzolamide type of compounds.
+The clinically used inhibitors acetazolamide, methazolamide, ethoxzolamide, dorzolamide, brinzolamide, and topiramate on the other hand were less effective CA V inhibitors, showing inhibition constants in the range of 47-63 nM. Some of the investigated sulfonamides, such as the ureido-benzenesulfonamides and the acylated sulfanilamides showed higher affinity for CA V than for the other isozymes, CA II included, which is a remarkable result, since most compounds investigated up to now inhibited the cytosolic isozyme CA II better.
+These results prompt us to hypothesize that the selective inhibition of CA V, or the dual inhibition of CA II and CA V, may lead to the development of novel pharmacological applications for such sulfonamides, for example in the treatment or prevention of obesity, by inhibiting CA-mediated lipogenetic processes.

@@ -1,0 +1,8 @@
+Roles of rifampicin in drug-drug interactions: underlying molecular mechanisms involving the nuclear pregnane X receptor.
+Rifampicin, an important drug in the treatment of tuberculosis, is used extensively despite its broad effects on drug-drug interactions, creating serious problems.
+The clinical importance of such interactions includes autoinduction leading to suboptimal or failed treatment.
+The concomitantly administered effects of rifampicin on other drugs can result in their altered metabolism or transportation that are metabolised by cytochromes P450 or transported by p-glycoprotein in the gastrointestinal tract and liver.
+This review paper summarises recent findings with emphases on the molecular mechanisms used to explain these broad drug-drug interactions.
+In general, rifampicin can act on a pattern: rifampicin activates the nuclear pregnane X receptor that in turn affects cytochromes P450, glucuronosyltransferases and p-glycoprotein activities.
+This pattern of action may explain many of the rifampicin inducing drug-drug interactions.
+However, effects through other mechanisms have also been reported and these make any explanation of such drug-drug interactions more complex.

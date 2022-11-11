@@ -1,0 +1,11 @@
+COMPLETE ARTIFICIAL SALIVA ALTERS EXPRESSION OF PROINFLAMMATORY CYTOKINES IN HUMAN DERMAL FIBROBLASTS.
+Complete artificial saliva (CAS) is a saliva substitute often used as a vehicle for test articles, including smokeless tobacco products.
+In the course of a study employing normal adult human dermal fibroblasts (HDFa) as a model in vitro, we discovered that CAS as a vehicle introduced a significant change in the expression of proinflammatory cytokines.
+To determine the effects of CAS on gene expression, real-time quantitative reverse-transcriptase polymerase chain reaction (qRT-PCR) gene array analysis was used.
+Results indicate that robust changes in the expression of the proinflammatory cytokine interleukin 8 (IL8) and the vascular cell adhesion molecule 1 (VCAM1) occur within 5 hours of exposure to CAS.
+To determine whether CAS also alters cytokine release into the culture media, cytometric bead array (CBA) assays for human inflammatory cytokines were performed.
+Analysis shows that CAS induced the release of IL8 and interleukin 6 (IL6).
+This study focused on determining which components in CAS were responsible for the proinflammatory response in HDFa.
+The following components were investigated: α-amylase, lysozyme, acid phosphatase, and urea.
+Results demonstrated that enzymatically active α-amylase induced gene expression for proinflammatory cytokines IL8, IL6, tumor necrosis factor-α (TNFα), and interleukin 1α (IL1α), and for VCAM1.
+Therefore, it is important to carefully evaluate the "vehicle effects" of CAS and its components in in vitro toxicology research.

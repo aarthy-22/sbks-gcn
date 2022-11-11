@@ -1,0 +1,9 @@
+Quercetin reduces high-fat diet-induced fat accumulation in the liver by regulating lipid metabolism genes.
+To understand the molecular mechanisms underlying the influence of quercetin on the physiological effects of hyperlipidemia, we investigated its role in the prevention of high-fat diet (HFD)-induced obesity and found that it regulated hepatic gene expression related to lipid metabolism.
+Quercetin supplementation in mice significantly reduced the HFD-induced gains in body weight, liver weight, and white adipose tissue weight compared with the mice fed only with HFD.
+It also significantly reduced HFD-induced increases in serum lipids, including cholesterol, triglyceride, and thiobarbituric acid-reactive substance (TBARS).
+Consistent with the reduced liver weight and white adipose tissue weight, hepatic lipid accumulation and the size of lipid droplets in the epididymal fat pads were also reduced by quercetin supplementation.
+To further investigate how quercetin may reduce obesity, we analyzed lipid metabolism-related genes in the liver.
+Quercetin supplementation altered expression profiles of several lipid metabolism-related genes, including Fnta, Pon1, Pparg, Aldh1b1, Apoa4, Abcg5, Gpam, Acaca, Cd36, Fdft1, and Fasn, relative to those in HFD control mice.
+The expression patterns of these genes observed by quantitative reverse transcriptase-polymerase chain reaction were confirmed by immunoblot assays.
+Collectively, our results indicate that quercetin prevents HFD-induced obesity in C57B1/6 mice, and its anti-obesity effects may be related to the regulation of lipogenesis at the level of transcription.

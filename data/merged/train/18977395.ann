@@ -1,0 +1,16 @@
+T14	CHEMICAL 0 11	Minocycline
+T1	CHEMICAL 44 55	Minocycline
+T10	CHEMICAL 95 107	tetracycline
+T7	CHEMICAL 282 293	minocycline
+T8	CHEMICAL 481 492	kainic acid
+T9	CHEMICAL 548 559	Minocycline
+T11	CHEMICAL 673 684	minocycline
+T12	CHEMICAL 813 826	Tetracyclines
+T13	CHEMICAL 1023 1035	tetracycline
+T2	CHEMICAL 1048 1059	minocycline
+T3	CHEMICAL 1226 1237	minocycline
+T4	CHEMICAL 1360 1371	minocycline
+T15	GENE-Y 1483 1495	cytochrome c
+T16	GENE-N 1541 1557	caspase-1 and -3
+T5	CHEMICAL 1770 1781	minocycline
+T6	CHEMICAL 2049 2060	minocycline

@@ -1,0 +1,8 @@
+Pirfenidone inhibits TGF-beta expression in malignant glioma cells.
+Due to its immunosuppressive properties, the cytokine transforming growth factor (TGF)-beta has become a promising target in the experimental treatment of human malignant gliomas.
+Here, we report that the antifibrotic drug 5-methyl-1-phenyl-2-(1H)-pyridone (pirfenidone, PFD) elicits growth-inhibitory effects and reduces TGF-beta2 protein levels in human glioma cell lines.
+This reduction in TGF-beta2 is biologically relevant since PFD treatment reduces the growth inhibition of TGF-beta-sensitive CCL-64 cells mediated by conditioned media of glioma cells.
+The downregulation of TGF-beta is mediated at multiple levels.
+PFD leads to a reduction of TGF-beta2 mRNA levels and of the mature TGF-beta2 protein due to decreased expression and direct inhibition of the TGF-beta pro-protein convertase furin.
+In addition, PFD reduces the protein levels of the matrix metalloproteinase (MMP)-11, a TGF-beta target gene and furin substrate involved in carcinogenesis.
+These data define PFD or PFD-related agents as promising agents for human cancers associated with enhanced TGF-beta activity.

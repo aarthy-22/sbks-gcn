@@ -1,0 +1,56 @@
+T38	CHEMICAL 12 28	allopregnanolone
+T51	GENE-Y 52 103	human 3 alpha-hydroxysteroid dehydrogenase type III
+T39	CHEMICAL 58 80	3 alpha-hydroxysteroid
+T50	GENE-Y 105 111	AKR1C2
+T1	CHEMICAL 114 130	Allopregnanolone
+T40	GENE-N 233 249	GABA(A) receptor
+T9	CHEMICAL 268 294	5alpha-dihydroprogesterone
+T14	CHEMICAL 296 306	5alpha-DHP
+T23	CHEMICAL 326 342	allopregnanolone
+T28	CHEMICAL 373 394	3alpha-hydroxysteroid
+T45	GENE-N 373 409	3alpha-hydroxysteroid dehydrogenases
+T46	GENE-N 411 422	3alpha-HSDs
+T29	CHEMICAL 458 474	allopregnanolone
+T30	CHEMICAL 531 547	allopregnanolone
+T47	GENE-N 660 676	human 3alpha-HSD
+T31	CHEMICAL 687 703	allopregnanolone
+T32	CHEMICAL 773 783	5alpha-DHP
+T48	GENE-Y 807 832	human 3alpha-HSD type III
+T33	CHEMICAL 905 915	fluoxetine
+T49	GENE-Y 962 981	3alpha-HSD type III
+T34	CHEMICAL 992 1008	allopregnanolone
+T35	CHEMICAL 1037 1047	5alpha-DHP
+T36	CHEMICAL 1080 1096	allopregnanolone
+T37	CHEMICAL 1101 1138	5alpha,20alpha-tetrahydroprogesterone
+T2	CHEMICAL 1214 1223	5beta-DHP
+T3	CHEMICAL 1259 1271	pregnanolone
+T4	CHEMICAL 1293 1302	5Beta-DHP
+T5	CHEMICAL 1380 1390	5alpha-DHP
+T6	CHEMICAL 1469 1479	5alpha-DHP
+T7	CHEMICAL 1494 1510	allopregnanolone
+T41	GENE-Y 1536 1555	3alpha-HSD type III
+T8	CHEMICAL 1620 1653	nicotinamide adenine dinucleotide
+T10	CHEMICAL 1678 1685	steroid
+T11	CHEMICAL 1714 1721	steroid
+T12	CHEMICAL 1769 1779	fluoxetine
+T13	CHEMICAL 1824 1840	allopregnanolone
+T42	GENE-Y 1878 1897	3alpha-HSD type III
+T43	GENE-Y 1967 1992	human 3alpha-HSD type III
+T15	CHEMICAL 2054 2064	fluoxetine
+T16	CHEMICAL 2066 2076	paroxetine
+T17	CHEMICAL 2078 2088	sertraline
+T18	CHEMICAL 2090 2103	norfluoxetine
+T19	CHEMICAL 2105 2118	carbamazepine
+T20	CHEMICAL 2120 2129	clozapine
+T21	CHEMICAL 2131 2143	flurbiprofen
+T22	CHEMICAL 2149 2168	sulfobromophthalein
+T44	GENE-Y 2237 2256	3alpha-HSD type III
+T24	CHEMICAL 2260 2276	allopregnanolone
+T25	CHEMICAL 2333 2343	fluoxetine
+T26	CHEMICAL 2381 2391	fluoxetine
+T27	CHEMICAL 2402 2418	allopregnanolone
+R0	CPR-9 Arg1:T38 Arg2:T50
+R1	CPR-9 Arg1:T14 Arg2:T46
+R2	NOT Arg1:T12 Arg2:T43
+R3	NOT Arg1:T13 Arg2:T43
+R4	NOT Arg1:T44 Arg2:T26

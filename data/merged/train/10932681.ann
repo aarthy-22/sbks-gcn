@@ -1,0 +1,23 @@
+T1	CHEMICAL 185 195	Monoamines
+T16	GENE-N 206 229	noradrenergic receptors
+T2	CHEMICAL 231 240	serotonin
+T17	GENE-N 231 250	serotonin receptors
+T3	CHEMICAL 252 260	dopamine
+T18	GENE-N 252 270	dopamine receptors
+T4	CHEMICAL 275 284	histamine
+T19	GENE-N 275 294	histamine receptors
+T5	CHEMICAL 389 400	phentermine
+T6	CHEMICAL 402 416	diethylpropion
+T7	CHEMICAL 418 440	mazindol benzphetamine
+T8	CHEMICAL 445 460	phendimetrazine
+T9	CHEMICAL 499 510	Sibutramine
+T10	CHEMICAL 514 528	norepinephrine
+T11	CHEMICAL 529 538	serotonin
+T12	CHEMICAL 591 599	Orlistat
+T20	GENE-Y 609 626	pancreatic lipase
+T13	CHEMICAL 648 660	triglyceride
+T14	CHEMICAL 769 778	ephedrine
+T15	CHEMICAL 783 791	caffeine
+T21	GENE-Y 858 864	Leptin
+R0	NOT Arg1:T1 Arg2:T18
+R1	NOT Arg1:T17 Arg2:T3

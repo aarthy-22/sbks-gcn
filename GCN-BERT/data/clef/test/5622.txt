@@ -1,0 +1,5 @@
+Example 95
+1-Methyl-3 -(4-(3 -methylisoxazol-5-yl)butyl)pyrido [4,3-d]pyrimidine-2,4-dione
+Step 1
+4-(Methylamino)nicotinic acid
+4-Chloronicotinic acid (7.00 g, 44.3 mmol) was dissolved in dioxane (14 mL) and 30% methylamine aqueous solution (55.2 g, 444 mmol) was added. The reaction solution was warmed to 100 °C in a microwave and stirred for 50 minutes. Hydrochloric acid aqueous solution (4 N, 5 mL) was added to adjust pH value to 3. The reaction solution was filtered and the filter cake was dried to give 4-(methylamino) nicotinic acid (5.00 g, white solid) with a yield of 74%.

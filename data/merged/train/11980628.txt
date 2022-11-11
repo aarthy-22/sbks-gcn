@@ -1,0 +1,19 @@
+SOM230: a novel somatostatin peptidomimetic with broad somatotropin release inhibiting factor (SRIF) receptor binding and a unique antisecretory profile.
+OBJECTIVE: The aim of the present study was to identify a small, metabolically stable somatotropin release inhibiting factor (SRIF) analog with a more universal binding profile similar to that of natural somatostatin, resulting in improved pharmacological properties and hence new therapeutic uses.
+DESIGN: A rational drug design approach was followed by synthesizing alanine-substituted SRIF-14 analogs to determine the importance of single amino acids in SRIF-14 for SRIF receptor subtype binding.
+The incorporation of structural elements of SRIF-14 in a stable cyclohexapeptide template in the form of modified unnatural amino acids resulted in the identification of the novel cyclohexapeptide SOM230.
+RESULTS: SOM230 binds with high affinity to SRIF receptor subtypes sst1, sst2, sst3 and sst5 and displays a 30- to 40-fold higher affinity for sst1 and sst5 than Sandostatin (octreotide; SMS 201-995) or Somatuline (BIM 23014).
+In vitro, SOM230 effectively inhibited the growth hormone releasing hormone (GHRH)-induced growth hormone (GH) release in primary cultures of rat pituitary cells with an IC(50) of 0.4+/-0.1 nmol/l (n=5).
+In vivo, SOM230 also potently suppressed GH secretion in rats.
+The ED(50) values determined at 1 h and 6 h post injection of SOM230 indicated its very long duration of action in vivo.
+This property was also reflected in pharmacokinetic studies comparing plasma levels of SMS 201-995 and SOM230 after subcutaneous application.
+Whereas SMS 201-995 had a terminal elimination half life of 2 h, this was markedly prolonged in SOM230-treated animals (t(1/2)=23 h).
+Furthermore, in rats SOM230 demonstrated a much higher efficacy in lowering plasma insulin-like growth factor-I (IGF-I) levels compared with SMS 201-995.
+The infusion of 10 microg/kg/h of SOM230 using subcutaneously implanted minipumps decreased plasma IGF-I levels far more effectively than SMS 201-995.
+After 126 days of continuous infusion of SOM230 plasma IGF-I levels were decreased by 75% of placebo-treated control animals.
+For comparison SMS 201-995, when used under the same experimental conditions, resulted in only a 28% reduction of plasma IGF-I levels, indicating a much higher efficacy for SOM230 in this animal model.
+It is important to note that the inhibitory effect of SOM230 was relatively selective for GH and IGF-I in that insulin and glucagon secretion was inhibited only at higher doses of SOM230.
+This lack of potent inhibition of insulin and glucagon release was also reflected in the lack of effect on plasma glucose levels.
+Even after high dose treatment over 126 days no obvious adverse side effects were noticed, including changes in plasma glucose levels.
+CONCLUSION: We have identified a novel short synthetic SRIF peptidomimetic, which exhibits high affinity binding to four of the five human SRIF receptor subtypes and has potent, long lasting inhibitory effects on GH and IGF-I release.
+Therefore SOM230 is a promising development candidate for effective GH and IGF-I inhibition and is currently under evaluation in phase 1 clinical trials.

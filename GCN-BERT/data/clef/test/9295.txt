@@ -1,0 +1,2 @@
+d. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-2-(3-(P-TOLYL)UREIDO)-N-((2R,6S,8AS,14AS,20S,21S,23AS)-2,6,21-TRIMETHYL-5,8,14,19,23-PENTAOXOOCTADECAHYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)PROPANAMIDE (COMPOUND 18)
+Compound 18 was synthesized from compound C (90 mg, 0.127 mmol), p-tolylisocyanate (19 μL, 0.152 mmol) and triethylamine (83 μL, 0.607 mmol) as a white-off solid (39.8 mg, 39%) following the general synthesis pathway described herein above;

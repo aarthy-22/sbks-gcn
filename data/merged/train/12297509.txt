@@ -1,0 +1,12 @@
+Signaling through Gi family members in platelets.
+Redundancy and specificity in the regulation of adenylyl cyclase and other effectors.
+Platelet responses at sites of vascular injury are regulated by intracellular cAMP levels, which rise rapidly when prostacyclin (PGI(2)) is released from endothelial cells.
+Platelet agonists such as ADP and epinephrine suppress PGI(2)-stimulated cAMP formation by activating receptors coupled to G(i) family members, four of which are present in platelets.
+To address questions about the specificity of receptor:G protein coupling, the regulation of cAMP formation in vivo and the contribution of G(i)-mediated pathways that do not involve adenylyl cyclase, we studied platelets from mice that lacked the alpha subunits of one or more of the three most abundantly expressed G(i) family members and compared the results with platelets from mice that lacked the PGI(2) receptor, IP.
+As reported previously, loss of G(i2)alpha or G(z)alpha inhibited aggregation in response to ADP and epinephrine, respectively, producing defects that could not be reversed by adding an adenylyl cyclase inhibitor.
+Platelets that lacked both G(i2)alpha and G(z)alpha showed impaired responses to both agonists, but the impairment was no greater than in the individual knockouts.
+Loss of G(i3)alpha had no effect either alone or in combination with G(z)alpha.
+Loss of either G(z)alpha or G(i2)alpha impaired the ability of ADP and epinephrine to inhibit PGI(2)-stimulated adenylyl cyclase activity and caused a 40%-50% rise in basal cAMP levels, whereas loss of G(i3)alpha did not.
+Conversely, deletion of IP abolished responses to PGI(2) and caused cAMP levels to fall by 30%, effects that did not translate into enhanced responsiveness to agonists ex vivo.
+From these results we conclude that 1) cAMP levels in circulating platelets reflect ongoing signaling through G(i2), G(z), and IP, but not G(i3); 2) platelet epinephrine (alpha(2A)-adrenergic) and ADP (P2Y12) receptors display strong preferences among G(i) family members with little evidence of redundancy; and 3) these receptor preferences do not extend to G(i3).
+Finally, the failure of ADP and epinephrine to inhibit basal, as opposed to PGI(2)-stimulated, cAMP formation highlights the need during platelet activation for G(i) signaling pathways that involve effectors other than adenylyl cyclase.

@@ -1,0 +1,11 @@
+Covalent linkage of apolipoprotein e to albumin nanoparticles strongly enhances drug transport into the brain.
+Drug delivery to the brain is becoming more and more important but is severely restricted by the blood-brain barrier.
+Nanoparticles coated with polysorbates have previously been shown to enable the transport of several drugs across the blood-brain barrier, which under normal circumstances is impermeable to these compounds.
+Apolipoprotein E was suggested to mediate this drug transport across the blood-brain barrier.
+In the present study, apolipoprotein E was coupled by chemical methods to nanoparticles made of human serum albumin (HSA-NP).
+Loperamide, which does not cross the blood-brain barrier but exerts antinociceptive effects after direct injection into the brain, was used as model drug.
+Apolipoprotein E was chemically bound via linkers to loperamide-loaded HSA-NP.
+This preparation induced antinociceptive effects in the tail-flick test in ICR mice after i.v.
+injection.
+In contrast, nanoparticles linked to apolipoprotein E variants that do not recognize lipoprotein receptors failed to induce these effects.
+These results indicate that apolipoprotein E attached to the surface of nanoparticles facilitates transport of drugs across the blood-brain barrier, probably after interaction with lipoprotein receptors on the brain capillary endothelial cell membranes.

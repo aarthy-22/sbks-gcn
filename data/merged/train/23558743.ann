@@ -1,0 +1,17 @@
+T16	GENE-Y 0 22	Human polymerase kappa
+T6	GENE-N 158 169	Polymerases
+T8	GENE-N 187 191	DinB
+T12	GENE-N 205 251	Y-family translesion synthesis DNA polymerases
+T4	CHEMICAL 319 329	guanosines
+T7	GENE-N 337 353	DinB polymerases
+T9	GENE-Y 479 505	Human DNA polymerase kappa
+T10	GENE-Y 507 512	hPolκ
+T11	GENE-N 530 534	DinB
+T13	GENE-Y 738 743	hPolκ
+T14	GENE-Y 896 901	hPolκ
+T5	CHEMICAL 1070 1080	nucleotide
+T15	GENE-Y 1121 1126	hPolκ
+T1	CHEMICAL 1377 1387	nucleotide
+T2	CHEMICAL 1431 1441	nucleotide
+T3	CHEMICAL 1474 1484	nucleotide
+R0	NOT Arg1:T8 Arg2:T4

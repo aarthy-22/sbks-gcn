@@ -1,0 +1,9 @@
+β-Eudesmol induces JNK-dependent apoptosis through the mitochondrial pathway in HL60 cells.
+β-eudesmol, a natural sesquiterpenol present in a variety of Chinese herbs, is known to inhibit the proliferation of human tumor cells.
+However, the molecular mechanisms of the effect of β-eudesmol on human tumor cells are unknown.
+In the present study, we report the cytotoxic effect of β-eudesmol on the human leukemia HL60 cells and its molecular mechanisms.
+The cytotoxic effect of β-eudesmol on HL60 cells was associated with apoptosis, which was characterized by the presence of DNA fragmentation.
+β-eudesmol-induced apoptosis was accompanied by cleavage of caspase-3, caspase-9, and poly (ADP-ribose) polymerase; downregulation of Bcl-2 expression; release of cytochrome c from mitochondria; and decrease in mitochondrial membrane potential (MMP).
+Activation of c-Jun N-terminal kinases (JNK) mitogen-activated protein kinases was observed in β-eudesmol-treated HL60 cells, and the inhibitor of JNK blocked the β-eudesmol-induced apoptosis, downregulation of Bcl-2, and the loss of MMP.
+These data suggest that β-eudesmol induces apoptosis in HL60 cells via the mitochondrial apoptotic pathway, which is controlled through JNK signaling.
+Copyright © 2012 John Wiley & Sons, Ltd.

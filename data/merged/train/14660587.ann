@@ -1,0 +1,34 @@
+T32	GENE-N 15 58	factor IX gamma-carboxyglutamic acid domain
+T10	CHEMICAL 31 51	carboxyglutamic acid
+T11	CHEMICAL 66 75	vitamin K
+T33	GENE-Y 66 112	vitamin K-dependent gamma-glutamyl carboxylase
+T12	CHEMICAL 86 100	gamma-glutamyl
+T4	CHEMICAL 264 273	vitamin K
+T8	CHEMICAL 315 329	gamma-glutamyl
+T27	GENE-Y 315 341	gamma-glutamyl carboxylase
+T1	CHEMICAL 374 388	glutamic acids
+T2	CHEMICAL 396 422	gamma-carboxyglutamic acid
+T17	GENE-N 396 435	gamma-carboxyglutamic acid (Gla) domain
+T3	CHEMICAL 424 427	Gla
+T5	CHEMICAL 537 540	Gla
+T18	GENE-N 537 547	Gla domain
+T19	GENE-N 677 688	carboxylase
+T6	CHEMICAL 736 739	Gla
+T20	GENE-N 736 759	Gla domain of factor IX
+T21	GENE-N 761 772	FIXproGla41
+T7	CHEMICAL 823 826	Gla
+T22	GENE-N 823 833	Gla domain
+T23	GENE-Y 897 920	propeptide of factor IX
+T24	GENE-Y 922 930	proFIX18
+T25	GENE-N 933 944	FIXproGla41
+T26	GENE-N 950 974	carboxylated FIXproGla41
+T28	GENE-Y 1116 1124	proFIX18
+T29	GENE-N 1146 1151	FLEEL
+T9	CHEMICAL 1170 1173	Gla
+T30	GENE-N 1170 1180	Gla domain
+T31	GENE-Y 1200 1203	FIX
+T13	GENE-N 1262 1273	FIXproGla41
+T14	GENE-N 1504 1515	FIXproGla41
+T15	GENE-N 1553 1558	FLEEL
+T16	GENE-N 1567 1577	Gla domain
+R0	NOT Arg1:T27 Arg2:T2

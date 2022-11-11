@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 8 96	N-(3-chloro-4-fluorophenyl)-N-(3,4-dimethoxybenzyl)-7-fluoro-6-nitroquinazoline -4-amine
+T3	SOLVENT 100 112	acetonitrile
+T4	STARTING_MATERIAL 132 168	4-chloro-7-fluoro-6-nitroquinazoline
+T5	STARTING_MATERIAL 191 239	3-chloro-N-(3,4-dimethoxybenzyl)-4-fluoroaniline
+T6	TEMPERATURE 263 271	refluxed
+T7	TIME 276 283	3 hours
+T8	OTHER_COMPOUND 342 358	sodium carbonate
+T9	OTHER_COMPOUND 388 401	ethyl acetate
+T10	OTHER_COMPOUND 458 463	brine
+T11	OTHER_COMPOUND 486 500	sodium sulfate
+T12	REACTION_PRODUCT 542 556	title compound
+T13	YIELD_OTHER 558 563	3.6 g
+T14	YIELD_PERCENT 565 568	80%

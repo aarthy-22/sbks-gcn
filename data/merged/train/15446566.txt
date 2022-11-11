@@ -1,0 +1,14 @@
+[A case report of metastatic pancreatic cancer that responded remarkably to the combination of thalidomide, celecoxib and irinotecan].
+The prognosis of pancreatic cancer with metastases or recurrence is quite poor.
+Chemotherapy has not resulted in a significant survival benefit; median survival is 3-6 months.
+Various chemotherapeutic agents have been evaluated and the standard chemotherapy of pancreatic cancer is gemcitabine.
+The response rate, however, is low at 13%.
+Thalidomide and celecoxib have different mechanisms of action and activity in various malignant tumors.
+Both have been evaluated and shown to demonstrate activity against solid tumors.
+Thalidomide decreased the stability of TNF-mRNA and COX-2 mRNA.
+COX-2 is a bifunctional enzyme possessing both cyclooxygenase and peroxidase activities.
+Although celecoxib inhibits PG biosynthesis, most do not affect the peroxidase activity of COX, which can generate proximate carcinogens.
+Because thalidomide does not completely inhibit COX-2 expression or PG biosynthesis, a therapeutic strategy combining celecoxib with thalidomide might be more effective than using either agent alone.
+Differences in the mechanism of action of gemcitabine and irinotecan suggest that a change of gemcitabine to irinotecan could provide clinically efficacious outcomes.
+In order to accomplish new treatment strategies, we have been using thalidomide, celecoxib and irinotecan in low-doses.
+We believe this combination represents a viable treatment for patients of pancreatic cancer with recurrence or metastases.

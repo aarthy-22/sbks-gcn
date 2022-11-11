@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 5 6	1
+T2	REACTION_PRODUCT 8 102	Ethyl 2-fluoro-3-(3-(4-(4-methylpiperazin-1-yl)phenyl)-1H-pyrazolo[4,3-b]pyridin-5-yl)benzoate
+T3	STARTING_MATERIAL 120 192	5-chloro-3-(4-(4-methylpiperazin-1-yl)phenyl)-1H-pyrazolo[4,3-b]pyridine
+T4	SOLVENT 235 246	1,4-dioxane
+T5	SOLVENT 258 263	water
+T6	STARTING_MATERIAL 281 351	ethyl 2-fluoro-3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)benzoate
+T7	REAGENT_CATALYST 376 395	potassium phosphate
+T8	STARTING_MATERIAL 429 536	(2'-aminobiphenyl-2-yl)(chloro)(dicyclohexyl(2',4',6'-triisopropylbiphenyl-2-yl)phosphoranylidene)palladium
+T9	OTHER_COMPOUND 596 604	nitrogen
+T10	TIME 609 615	5 mins
+T11	TEMPERATURE 669 675	90° C.
+T12	TIME 680 688	15 hours
+T13	TEMPERATURE 712 716	r.t.
+T14	OTHER_COMPOUND 784 794	silica gel
+T15	OTHER_COMPOUND 822 830	methanol
+T16	OTHER_COMPOUND 834 837	DCM
+T17	REACTION_PRODUCT 848 863	desired product
+T18	YIELD_OTHER 884 890	151 mg
+T19	YIELD_PERCENT 892 895	55%

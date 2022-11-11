@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 8 9	2
+T2	REACTION_PRODUCT 11 98	(R)-3-(3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-yl)propanenitrile
+T3	STARTING_MATERIAL 110 179	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T4	SOLVENT 256 271	dichloromethane
+T5	SOLVENT 273 279	CH2Cl2
+T6	STARTING_MATERIAL 301 321	3-bromopropionitrile
+T7	REAGENT_CATALYST 392 417	N,N-diisopropylethylamine
+T8	TEMPERATURE 439 455	room temperature
+T9	TIME 466 473	5 hours
+T10	OTHER_COMPOUND 613 617	MeOH
+T11	OTHER_COMPOUND 618 626	CH2Cl2=2
+T12	YIELD_OTHER 739 746	55.3 mg
+T13	REACTION_PRODUCT 750 837	(R)-3-(3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-yl)propanenitrile
+T14	YIELD_PERCENT 873 878	74.7%

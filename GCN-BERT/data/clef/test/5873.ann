@@ -1,0 +1,23 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 37 174	tert butyl (2S,4S,5S)-5-(allyloxyamino)-4-[tert-butyl(dimethyl)silyl]oxy-2-[[tert-butyl(dimethyl)silyl]oxymethyl]piperidine-1-carboxylate
+T3	REACTION_PRODUCT 176 178	4d
+T4	STARTING_MATERIAL 197 312	tert-butyl (2S,4S,5S)-5-(allyloxyamino)-2-[[tert-butyl(dimethyl)silyl]oxymethyl]-4-hydroxy-piperidine-1-carboxylate
+T5	STARTING_MATERIAL 314 316	4c
+T6	SOLVENT 351 354	DCM
+T7	TEMPERATURE 389 392	0°C
+T8	REAGENT_CATALYST 403 415	2,6-lutidine
+T9	REAGENT_CATALYST 450 458	TBDMSOTf
+T10	TIME 509 512	2 h
+T11	TEMPERATURE 516 520	20°C
+T12	OTHER_COMPOUND 562 565	DCM
+T13	OTHER_COMPOUND 589 613	sodium hydrogencarbonate
+T14	OTHER_COMPOUND 614 621	aqueous
+T15	OTHER_COMPOUND 665 671	Na2SO4
+T16	OTHER_COMPOUND 750 760	silica gel
+T17	OTHER_COMPOUND 762 773	cyclohexane
+T18	OTHER_COMPOUND 774 779	EtOAc
+T19	REACTION_PRODUCT 815 953	tert-butyl (2S,4S,5S)-5-(allyloxyamino)-4-[tert-butyl(dimethyl)silyl]oxy-2-[[tert-butyl(dimethyl)silyl]oxymethyl] piperidine-1-carboxylate
+T20	REACTION_PRODUCT 955 957	4d
+T21	YIELD_OTHER 960 966	2.92 g
+T22	YIELD_OTHER 968 977	5.50 mmol
+T23	YIELD_PERCENT 979 982	87%

@@ -1,0 +1,6 @@
+PGE(1) stimulation of HEK293 cells generates multiple contiguous domains with different [cAMP]: role of compartmentalized phosphodiesterases.
+There is a growing appreciation that the cyclic adenosine monophosphate (cAMP)-protein kinase A (PKA) signaling pathway is organized to form transduction units that function to deliver specific messages.
+Such organization results in the local activation of PKA subsets through the generation of confined intracellular gradients of cAMP, but the mechanisms responsible for limiting the diffusion of cAMP largely remain to be clarified.
+In this study, by performing real-time imaging of cAMP, we show that prostaglandin 1 stimulation generates multiple contiguous, intracellular domains with different cAMP concentration in human embryonic kidney 293 cells.
+By using pharmacological and genetic manipulation of phosphodiesterases (PDEs), we demonstrate that compartmentalized PDE4B and PDE4D are responsible for selectively modulating the concentration of cAMP in individual subcellular compartments.
+We propose a model whereby compartmentalized PDEs, rather than representing an enzymatic barrier to cAMP diffusion, act as a sink to drain the second messenger from discrete locations, resulting in multiple and simultaneous domains with different cAMP concentrations irrespective of their distance from the site of cAMP synthesis.

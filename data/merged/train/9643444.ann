@@ -1,0 +1,28 @@
+T25	GENE-Y 35 59	insulin-degrading enzyme
+T24	GENE-N 164 171	insulin
+T17	GENE-Y 238 262	insulin-degrading enzyme
+T21	GENE-Y 264 267	IDE
+T22	GENE-Y 269 281	EC 3.4.22.11
+T9	GENE-N 286 293	insulin
+T13	GENE-Y 432 435	IDE
+T14	GENE-N 437 444	Insulin
+T15	GENE-N 614 621	insulin
+T16	GENE-N 666 673	insulin
+T4	CHEMICAL 777 793	N-Ethylmaleimide
+T5	CHEMICAL 795 822	p-chloromercuribenzoic acid
+T6	CHEMICAL 827 846	1,10-phenanthroline
+T18	GENE-N 857 864	insulin
+T19	GENE-Y 981 984	IDE
+T20	GENE-N 1014 1021	insulin
+T7	CHEMICAL 1113 1135	sodium dodecylsulphate
+T23	GENE-Y 1168 1171	IDE
+T8	GENE-N 1231 1238	insulin
+T1	CHEMICAL 1261 1277	N-ethylmaleimide
+T2	CHEMICAL 1279 1306	p-chloromercuribenzoic acid
+T3	CHEMICAL 1312 1331	1,10-phenanthroline
+T10	GENE-N 1387 1394	insulin
+T11	GENE-Y 1464 1467	IDE
+T12	GENE-N 1536 1543	insulin
+R0	CPR-3 Arg1:T2 Arg2:T10
+R1	NOT Arg1:T15 Arg2:T4
+R2	NOT Arg1:T8 Arg2:T3

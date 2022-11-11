@@ -1,0 +1,11 @@
+Effect of serum on diesel exhaust particles (DEP)-induced apoptosis of airway epithelial cells in vitro.
+Patients with chronic airway diseases may be more susceptible to adverse effects of air pollutants including diesel exhaust particles (DEP).
+We investigated effects of foetal calf serum (FCS) on DEP-induced changes in airway epithelial cell apoptosis and inflammation.
+DEP (50-200 μg/ml) increased A549 cell viability in the absence of FCS.
+In the presence of 3.3%FCS, DEP (50-400 μg/ml) decreased A549 cell viability.
+N-acetylcysteine (NAC, 33 mM) and the c-jun N-terminal kinase (JNK) inhibitor (SP600125, 33 μM) further decreased the viability in the presence of DEP (200 μg/ml) and 3.3% FCS.
+Under serum-free (SF) condition, DEP (50 μg/ml) reduced apoptotic cells; however, when 3.3% FCS added to the culture medium, this effect was abolished.
+DEP (200 μg/ml) induced mRNA expression of p21(CIP1/WAF1) both in absence or presence of 3.3% FCS and enhanced JNK2 mRNA expression only in the presence of 3.3% FCS.
+Under SF condition, DEP (50 μg/ml) induced mRNA expression for p27 and p53, whereas cyclin E mRNA expression was inhibited by DEP (50 and 200 μg/ml).
+Furthermore, DEP (200 μg/ml) decreased the release of interleukin (IL)-8 in the absence of FCS.
+In conclusion, FCS modulates effects of DEP on cell death, cell cycle and apoptosis regulating proteins, and IL-8 release by activating oxidant stress pathways, JNK and NF-κB. Extravasation of serum, as occurs in the inflamed airways of patients with chronic airway diseases such as asthma and COPD, may render airway epithelial cells more susceptible to the deleterious effects of DEP.

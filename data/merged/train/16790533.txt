@@ -1,0 +1,13 @@
+A potential role for cyclized quinones derived from dopamine, DOPA, and 3,4-dihydroxyphenylacetic acid in proteasomal inhibition.
+We examined the ability of oxidation products of dopamine, DOPA, and 3,4-dihydroxyphenylacetic acid (DOPAC) to inhibit proteasomal activity.
+Dopamine, DOPA, and DOPAC underwent tyrosinase-catalyzed oxidation to generate aminochrome, dopachrome, and furanoquinone, respectively.
+In these studies, the oxidation of dopamine by tyrosinase generated product(s) that inhibited the proteasome, and proteasomal inhibition correlated with the presence of the UV-visible spectrum of aminochrome.
+The addition of superoxide dismutase and catalase did not prevent proteasomal inhibition.
+The addition of NADH and the quinone reductase NAD(P)H:quinone oxidoreductase 1 (NQO1) protected against aminochrome-induced proteasome inhibition.
+Although NQO1 protected against dopamine-induced proteasomal inhibition, the metabolism of aminochrome by NQO1 led to oxygen uptake because of the generation of a redox-labile cyclized hydroquinone, further demonstrating the lack of involvement of oxygen radicals in proteasomal inhibition.
+DOPA underwent tyrosinase-catalyzed oxidation to form dopachrome, and similar to aminochrome, proteasomal inhibition correlated with the presence of a dopachrome UV-visible spectrum.
+The inclusion of NQO1 did not protect against proteasomal inhibition induced by dopachrome.
+Oxidation of DOPAC by tyrosinase generated furanoquinone, which was a poor proteasome inhibitor.
+These studies demonstrate that oxidation products, including cyclized quinones derived from dopamine and related compounds, rather than oxygen radicals have the ability to inhibit the proteasome.
+They also suggest an important protective role for NQO1 in protecting against dopamine-induced proteasomal inhibition.
+The ability of endogenous intermediates formed during dopaminergic metabolism to cause proteasomal inhibition provides a potential basis for the selectivity of dopaminergic neuron damage in Parkinson's disease.

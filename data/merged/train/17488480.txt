@@ -1,0 +1,12 @@
+Hydrogen sulfide acts as a mediator of inflammation in acute pancreatitis: in vitro studies using isolated mouse pancreatic acinar cells.
+Hydrogen sulphide (H(2)S) is synthesized from L-cysteine via the action of cystathionine-gamma-lyase (CSE) and cystathionine-beta-synthase (CBS).
+We have earlier shown that H(2)S acts as a mediator of inflammation.
+However the mechanism remains unclear.
+In this study, we investigated the presence of H(2)S and the expression of H(2)S synthesizing enzymes, CSE and CBS, in isolated mouse pancreatic acini.
+Pancreatic acinar cells from mice were incubated with or without caerulein (10(-7) M for 30 and 60 min).
+Caerulein increased the levels of H(2)S and CSE mRNA expression while CBS mRNA expression was decreased.
+In addition, cells pre-treated with DL-propargylglycine (PAG, 3 mM), a CSE inhibitor, reduced the formation of H(2)S in caerulein treated cells, suggesting that CSE may be the main enzyme involved in H(2)S formation in mouse acinar cells.
+Furthermore, substance P (SP) concentration in the acini and expression of SP gene (preprotachykinin-A, PPT-A) and neurokinin-1 receptor (NK-1R), the primary receptor for SP, are increased in secretagogue caerulein-treated acinar cells.
+Inhibition of endogenous production of H(2)S by PAG significantly suppressed SP concentration, PPT-A expression and NK1-R expression in the acini.
+To determine whether H(2)S itself provoked inflammation in acinar cells, the cells were treated with H(2)S donor drug, sodium hydrosulphide (NaHS), (10, 50 and 100 muM), that resulted in a significant increase in SP concentration and expression of PPT-A and NK1-R in acinar cells.
+These results suggest that the pro-inflammatory effect of H(2)S may be mediated by SP-NK-1R related pathway in mouse pancreatic acinar cells.

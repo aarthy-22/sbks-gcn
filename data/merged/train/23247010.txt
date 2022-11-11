@@ -1,0 +1,15 @@
+Regulation of human carbonyl reductase 1 (CBR1, SDR21C1) gene by transcription factor Nrf2.
+Monomeric carbonyl reductase 1 (CBR1, SDR21C1) is a member of the short-chain dehydrogenase/reductase superfamily and is involved in the metabolism of anthracycline anti-cancer drugs, prostaglandins, and isatin, which is an endogenous inhibitor of monoamine oxidases.
+Additionally, cancer progression may be partly regulated by CBR1.
+In the present study, we screened more than 10 drugs for the induction of the human CBR1 gene to investigate its regulation.
+Of the drugs, butylated hydroxyanisole (BHA) was found to be an inducer.
+BHA induced the mRNA and protein expression of CBR1 in hepatoma HepG2 cells.
+In a luciferase reporter gene assay, the promoter region between -2062 bp and the transcription start site of CBR1 was also activated by BHA.
+The transcription factor Nrf2 is known to be activated by BHA.
+There are 2 anti-oxidant responsive elements (ARE) that are bound by Nrf2 in this region.
+Mutation analyses revealed that one of the AREs participates in the gene regulation of CBR1 by Nrf2.
+Electrophoretic mobility shift assay revealed that Nrf2 binds the site.
+Moreover, to determine whether the functional ARE of CBR1 is conserved with the promoter region of homologues in other species, the nucleotide sequences of the functional AREs of the Chcr1 and Chcr2 genes, which are the Chinese hamster homologues of CBR1, were determined.
+The region has 2 AREs, and these genes were also induced by the forced expression of Nrf2 (cotransfection of pNrf2) in the luciferase reporter gene assay.
+In conclusion, Nrf2 is a novel transcriptional regulator of CBR1 genes in humans and the Chinese hamster.
+Because the regulation of CBR1 appears to be important for diseases, the induction of CBR1 by Nrf2 may be a therapeutic target.

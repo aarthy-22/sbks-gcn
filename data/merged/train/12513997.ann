@@ -1,0 +1,40 @@
+T18	CHEMICAL 0 9	L-proline
+T31	GENE-Y 104 108	PRO1
+T19	CHEMICAL 123 137	gamma-glutamyl
+T32	GENE-Y 123 144	gamma-glutamyl kinase
+T3	CHEMICAL 272 281	L-proline
+T6	CHEMICAL 295 304	L-proline
+T7	CHEMICAL 390 399	L-proline
+T8	CHEMICAL 514 523	L-proline
+T23	GENE-Y 599 603	PRO1
+T9	CHEMICAL 618 632	gamma-glutamyl
+T24	GENE-Y 618 639	gamma-glutamyl kinase
+T10	CHEMICAL 668 678	amino acid
+T11	CHEMICAL 692 695	Asp
+T25	GENE-N 697 700	GAC
+T12	CHEMICAL 734 737	Asn
+T26	GENE-N 739 742	AAC
+T27	GENE-Y 774 778	PRO1
+T13	CHEMICAL 818 832	gamma-glutamyl
+T28	GENE-Y 818 839	gamma-glutamyl kinase
+T14	CHEMICAL 844 868	gamma-glutamyl phosphate
+T29	GENE-Y 844 878	gamma-glutamyl phosphate reductase
+T15	CHEMICAL 926 935	L-proline
+T16	CHEMICAL 951 962	L-glutamate
+T17	CHEMICAL 1085 1099	gamma-glutamyl
+T30	GENE-Y 1085 1106	gamma-glutamyl kinase
+T1	CHEMICAL 1146 1155	L-proline
+T20	GENE-Y 1297 1301	PRO1
+T2	CHEMICAL 1347 1361	gamma-glutamyl
+T21	GENE-Y 1347 1368	gamma-glutamyl kinase
+T4	CHEMICAL 1438 1462	gamma-glutamyl phosphate
+T22	GENE-Y 1438 1472	gamma-glutamyl phosphate reductase
+T5	CHEMICAL 1513 1522	L-proline
+R0	CPR-9 Arg1:T16 Arg2:T28
+R1	CPR-9 Arg1:T16 Arg2:T29
+R2	CPR-9 Arg1:T5 Arg2:T22
+R3	NOT Arg1:T18 Arg2:T31
+R4	NOT Arg1:T8 Arg2:T25
+R5	NOT Arg1:T23 Arg2:T11
+R6	NOT Arg1:T11 Arg2:T26
+R7	NOT Arg1:T13 Arg2:T29

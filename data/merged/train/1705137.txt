@@ -1,0 +1,19 @@
+Comparison of the monoamine oxidase inhibiting properties of two reversible and selective monoamine oxidase-A inhibitors moclobemide and toloxatone, and assessment of their effect on psychometric performance in healthy subjects.
+1.
+The effects of two reversible, predominantly monoamine oxidase-A (MAO-A) inhibitors, moclobemide (150 mg three times daily) and toloxatone (400-200-400 mg day-1) on monoamine metabolites and psychometric performance were compared in a double-blind placebo controlled crossover study in 12 healthy subjects.
+2. After 7 days of moclobemide/toloxatone/placebo administration subjects were hospitalized for 24 h on day 8.
+Blood samples were drawn every 2 h for determination of plasma noradrenaline (NA), 3,4-dihydroxyphenylglycol (DHPG), homovanillic acid (HVA) and 5-hydroxyindolacetic acid (5-HIAA).
+Urine was collected for measurements of normetanephrine and 3-methoxytyramine excretion.
+Psychometric performance (short- and long-term memory, critical flicker fusion frequency, choice reaction time) and subjective feelings were assessed before each drug intake (in the morning, at noon, in the evening).
+3.
+Compared with placebo, both reversible monoamine oxidase inhibitors decreased the plasma concentration of DHPG and HVA.
+The overall fall in DHPG (AUC from 0 to 24 h) was 44% during moclobemide and 12% during toloxatone (P less than 0.001) and the overall decrease in HVA was 38% and 20% (P less than 0.005) on moclobemide and toloxatone, respectively. 4.
+Before the next drug intake, MAO-A inhibition, as judged by the decrease of plasma DHPG concentration, was significantly different from placebo with moclobemide but not with toloxatone.
+5.
+Moclobemide, but not toloxatone, exerted a moderate, but significant inhibition of the deamination of 5-hydroxytryptamine (5-HT) as judged by the fall in plasma 5-HIAA concentration.
+Neither drug influenced plasma NA concentration.
+6.
+A significant rise in urinary excretion of normetanephrine was observed on moclobemide and to a lesser extent on toloxatone.
+The urinary excretion of 3-methoxytyramine was significantly raised by moclobemide but not by toloxatone.
+7.
+Neither moclobemide nor toloxatone altered memory function, vigilance, subjective feelings or sleep characteristics of the subjects.

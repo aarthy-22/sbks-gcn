@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 5 8	1-6
+T2	REACTION_PRODUCT 10 123	3-(5-Amino-2-methylphenyl)-1-methyl-7-((6-methylpyridin-3-yl)amino)-3,4-dihydropyrimido[4,5-d]pyrimidin-2(1H)-one
+T3	STARTING_MATERIAL 124 237	1-Methyl-3-(2-methyl-5-nitrophenyl)-7-((6-methylpyridin-3-yl)amino)-3,4-dihydropyrimido[4,5-d]pyrimidin-2(1H)-one
+T4	REAGENT_CATALYST 264 281	ammonium chloride
+T5	SOLVENT 336 339	THF
+T6	SOLVENT 340 348	methanol
+T7	SOLVENT 349 354	water
+T8	REAGENT_CATALYST 378 389	iron powder
+T9	TEMPERATURE 435 440	80° C
+T10	TIME 446 453	2 hours
+T11	TEMPERATURE 523 539	room temperature
+T12	OTHER_COMPOUND 561 567	celite
+T13	OTHER_COMPOUND 605 620	dichloromethane
+T14	OTHER_COMPOUND 625 630	water
+T15	OTHER_COMPOUND 686 703	magnesium sulfate
+T16	REACTION_PRODUCT 735 751	desired compound
+T17	YIELD_OTHER 753 761	189.5 mg
+T18	YIELD_PERCENT 763 768	95.2%

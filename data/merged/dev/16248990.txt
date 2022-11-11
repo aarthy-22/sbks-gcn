@@ -1,0 +1,10 @@
+Nicotinic-receptor potentiator drugs, huprine X and galantamine, increase ACh release by blocking AChE activity but not acting on nicotinic receptors.
+The main goal of the present study was to analyse the effects of (+/-)-huprine X ((+/-)-HX) and galantamine (GAL), with potentiating action on nicotinic receptors, and huperzine A (HPA), devoid of nicotinic activity, on [3H]-acetylcholine ([3H]-ACh) release in striatal slices of rat brain.
+All compounds are non-covalent and reversible inhibitors of AChE. Addition of (+/-)-HX (0.01 microM), GAL (10 microM) and HPA (0.1 microM) to the superfusion medium decreased the release of the ACh neurotransmitter to a similar extent: 36%, 30% and 34%, respectively (P<0.01).
+This effect was reverted in the presence of atropine (ATR; 0.1 microM), which blocks the pre-synaptic muscarinic M2 receptor.
+After that, a wide range of concentrations of drugs, concomitantly with ATR (0.1 microM), was studied in the presence of haloperidol (HAL; 0.01 microM), a dopamine D2 antagonist.
+In these conditions, a dose-dependent increase of [3H]-ACh release was observed in the presence of (+/-)-HX, GAL and HPA.
+To test the role of nicotinic receptors in the drugs' effects on [3H]-ACh release, mecamylamine (MEC) 100 microM was used to block such receptors.
+MEC alone significantly decreased neurotransmitter release by 18% (P<0.05), but no change was obtained in the presence of both ATR and MEC.
+Under these conditions, (+/-)-HX, GAL and HPA increased the release of [3H]-ACh by 37%, 25% and 38%, respectively (P<0.01).
+Taking into account all of these data, the present results suggest that the effects induced by (+/-)-HX and GAL nicotinic-receptor potentiators seem to be mainly due to their ability in inhibiting acetylcholinesterase activity, but not by interaction on the nicotinic receptors.

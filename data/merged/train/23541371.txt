@@ -1,0 +1,8 @@
+Endothelin-3 Expression in the Subfornical Organ Enhances the Sensitivity of Nax, the Brain Sodium-Level Sensor, to Suppress Salt Intake.
+Salt homeostasis is essential to survival, but brain mechanisms for salt-intake control have not been fully elucidated.
+Here, we found that the sensitivity of Nax channels to [Na(+)]o is dose-dependently enhanced by endothelin-3 (ET-3).
+Nax channels began to open when [Na(+)]o exceeded ∼150 mM without ET-3, but opened fully at a physiological [Na(+)]o (135-145 mM) with 1 nM ET-3.
+Importantly, ET-3 was expressed in the subfornical organ (SFO) along with Nax, and the level was robustly increased by dehydration.
+Pharmacological experiments revealed that endothelin receptor B (ETBR) signaling is involved in this modulation of Nax gating through protein kinase C and ERK1/2 activation.
+ ETBR agonists increased the firing rate of GABAergic neurons via lactate in the SFO, and an ETBR antagonist attenuated salt aversion during dehydration.
+These results indicate that ET-3 expression in the SFO is tightly coupled with body-fluid homeostasis through modulation of the [Na(+)]o sensitivity of Nax.

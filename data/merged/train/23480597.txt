@@ -1,0 +1,8 @@
+A Novel CUG(exp)·MBNL1 Inhibitor with Therapeutic Potential for Myotonic Dystrophy Type 1.
+Myotonic dystrophy type 1 (DM1) is caused by an expanded CUG repeat (CUG(exp)) that sequesters muscleblind-like 1 protein (MBNL1), a protein that regulates alternative splicing.
+CUG(exp) RNA is a validated drug target for this currently untreatable disease.
+Herein, we develop a bioactive small molecule (1) that targets CUG(exp) RNA and is able to inhibit the CUG(exp)·MBNL1 interaction in cells that model DM1.
+The core of this small molecule is based on ligand 2, which was previously reported to be active in an in vitro assay.
+A polyamine-derivative side chain was conjugated to this core to make it aqueous-soluble and cell-penetrable.
+In a DM1 cell model this conjugate was found to disperse CUG(exp) ribonuclear foci, release MBNL1, and partially reverse the mis-splicing of the insulin receptor pre-mRNA.
+Direct evidence for ribonuclear foci dispersion by this ligand was obtained in a live DM1 cell model using time-lapse confocal microscopy.

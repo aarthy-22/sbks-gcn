@@ -1,0 +1,26 @@
+T22	GENE-Y 15 58	nuclear factor erythroid 2-related factor 2
+T23	GENE-N 63 100	extracellular signal-regulated kinase
+T10	CHEMICAL 116 125	bleomycin
+T14	GENE-Y 400 443	nuclear factor erythroid 2-related factor 2
+T15	GENE-Y 445 449	Nrf2
+T3	CHEMICAL 549 558	bleomycin
+T16	GENE-N 594 602	collagen
+T17	GENE-N 646 650	Nrf2
+T4	CHEMICAL 720 730	superoxide
+T18	GENE-N 720 740	superoxide dismutase
+T19	GENE-N 742 750	catalase
+T5	CHEMICAL 765 776	glutathione
+T6	CHEMICAL 781 800	thiobarbituric acid
+T7	CHEMICAL 851 860	bleomycin
+T20	GENE-Y 872 876	Nrf2
+T21	GENE-N 892 927	extracellular signal-related kinase
+T8	CHEMICAL 978 984	oxygen
+T9	CHEMICAL 1116 1125	bleomycin
+T11	GENE-Y 1175 1179	Nrf2
+T12	GENE-Y 1263 1267	Nrf2
+T1	CHEMICAL 1279 1307	caffeic acid phenethyl ester
+T2	CHEMICAL 1337 1346	bleomycin
+T13	GENE-N 1384 1392	collagen
+R0	CPR-3 Arg1:T9 Arg2:T11
+R1	NOT Arg1:T23 Arg2:T10
+R2	NOT Arg1:T18 Arg2:T5

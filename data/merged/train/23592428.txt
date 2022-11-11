@@ -1,0 +1,13 @@
+Selective Smad4 Knockout in Ovarian Preovulatory Follicles Results in Multiple Defects in Ovulation.
+The TGF-β signaling pathway is involved with multiple processes in the mammalian ovary, including primordial follicle formation, granulosa cell (GC) proliferation, follicle atresia, ovulation, and feedback regulation between the pituitary and ovary.
+The transcriptional factor SMAD4 is the central component of the canonical TGF-β signaling pathway.
+Smad4 knockout using Amhr2-Cre, which is expressed in GCs of immature developing follicles, causes premature luteinization.
+In this study, we specifically depleted Smad4 in GCs of preovulatory follicles using Cyp19-Cre mice.
+As different from results with Smad4(fl/fl);Amhr2-Cre mice, Smad4 depletion in preovulatory follicles did not cause premature luteinization or suppress GC proliferation; rather, it increased follicle atresia.
+In addition, Nppc and Npr2 expressions were reduced by Smad4 depletion; thus, their effect of maintaining oocyte meiotic arrest was weakened in Smad4 conditional knockout mice.
+Smad4(fl/fl);Cyp19-Cre female mice were subfertile and had irregular estrous cycles and ovulation defects.
+Smad4 knockout also blocked luteinizing hormone (LH)-induced cumulus expansion and follicle rupture, but not oocyte meiotic resumption.
+Our results also indicated that SMAD4 was required for LH-stimulated activation of ERK1/2 and the expressions of ovulation-related genes.
+The defects arising from SMAD4 depletion could not be rescued by intra-ovarian mediators of LH actions, such as EGF-like factors and prostaglandin E2.
+Furthermore, corpus lutea did not form in Smad4(fl/fl);Cyp19-Cre female mice, indicating that SMAD4 was crucial for GCs terminal differentiation.
+Thus, by characterizing the ovarian phenotypes of preovulatory follicle-specific Smad4 knockout mice, we identified the developmental stage-specific functions of the canonical TGF-β signaling pathway in ovulation and luteinization.

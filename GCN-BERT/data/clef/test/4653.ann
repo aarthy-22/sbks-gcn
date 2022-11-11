@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 10	8-1-1
+T2	REACTION_PRODUCT 27 112	(S)-5-chloro-3-phenyl-2-(pyrrolidine-2-yl)pyrrolo[2,1-f][1,2,4]triazine-4(3H)-one(9a)
+T3	STARTING_MATERIAL 113 230	Tert-butyl (S)-2-(5-chloro-4-oxo-3-phenyl-3,4-dihydropyrrolo[2,1-f][1,2,4]triazine-2-yl)pyrrolidine-1-carboxylate(8a)
+T4	REAGENT_CATALYST 267 287	trifluoroacetic acid
+T5	SOLVENT 297 312	dichloromethane
+T6	TEMPERATURE 324 328	0° C
+T7	TEMPERATURE 355 371	room temperature
+T8	TIME 376 386	30 minutes
+T9	OTHER_COMPOUND 430 436	NaHCO3
+T10	TEMPERATURE 440 444	0° C
+T11	OTHER_COMPOUND 476 491	dichloromethane
+T12	OTHER_COMPOUND 537 542	brine
+T13	OTHER_COMPOUND 562 567	MgSO4
+T14	YIELD_OTHER 634 639	96 mg
+T15	REACTION_PRODUCT 647 748	target compound (S)-5-chloro-3-phenyl-2-(pyrrolidine-2-yl)pyrrolo[2,1-f][1,2,4]triazine-4(3H)-one(9a)
+T16	YIELD_OTHER 780 789	0.30 mmol
+T17	YIELD_PERCENT 798 801	97%

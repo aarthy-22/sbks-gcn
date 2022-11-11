@@ -1,0 +1,5 @@
+Example 26
+6-fluoro-5-(1-(3-fluorophenyl)piperidin-3-yl)-5H-imidazo[5,1-a]isoindole trifluoroacetate
+Step 1
+tert-butyl 3-((2-bromo-6-fluorophenyl)(hydroxy)methyl)piperidine-1-carboxylate 26b
+15 mL of tetrahydrofuran was added into a flask, then the solution was cooled to -78°C under argon atmosphere. Lithium diisopropylamide (9.3 mL, 18.6 mmol) was added, 1-bromo-3-fluorobenzene 1a (2.5 g, 14.3 mmol) was added dropwise, the resulting mixture was stirred for 1 hour at -78°C. Then 5 mL of a pre-prepared solution of tert-butyl 3-formylpiperidine-1-carboxylate 26a (3.0 g, 14.3 mmol) in tetrahydrofuran was added dropwise. The reaction was continuely stirred for 1 hour at -78°C. After the completion of the reaction, 15 mL of methanol was added dropwise to quench the reaction at -78°C. The reaction solution was concentrated under reduced pressure, and the resulting residue was purified by silica gel column chromatography with eluent system B to obtain compound 26b (3.9 g, yield 34%) as a light yellow solid.

@@ -1,0 +1,6 @@
+Assessment of developmental delay in the zebrafish embryo teratogenicity assay.
+In this study we analyzed some aspects of the assessment of developmental delay in the zebrafish embryotoxicity/teratogenicity test and explored the suitability of acetylcholinesterase (AChE) activity as a biochemical marker and as a higher throughput alternative to morphological endpoints such as head-trunk angle, tail length and morphological score.
+Embryos were exposed from 4 to 52 h post-fertilization (hpf) to a selection of known embryotoxic/teratogen compounds (valproic acid, retinoic acid, caffeine, sodium salicylate, glucose, hydroxyurea, methoxyacetic acid, boric acid and paraoxon-methyl) over a concentration range.
+They were evaluated for AChE activity, head-trunk angle, tail length and several qualitative parameters integrated in a morphological score.
+In general, the different patterns of the concentration-response curves allowed distinguishing between chemicals that produced growth retardation (valproic and methoxyacetic acid) and chemicals that produced non-growth-delay related malformations.
+An acceptable correlation between the morphological score, AChE activity and head-trunk angle as markers of developmental delay was observed, being AChE activity particularly sensitive to detect delay in the absence of malformations.

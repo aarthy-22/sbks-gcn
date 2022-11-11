@@ -1,0 +1,6 @@
+Trim24-repressed VL30 retrotransposons regulate gene expression by producing noncoding RNA.
+Trim24 (Tif1α) and Trim33 (Tif1γ) interact to form a co-repressor complex that suppresses murine hepatocellular carcinoma.
+Here we show that Trim24 and Trim33 cooperatively repress retinoic acid receptor-dependent activity of VL30-class endogenous retroviruses (ERVs) in liver.
+In Trim24-knockout hepatocytes, VL30 derepression leads to accumulation of reverse-transcribed VL30 cDNA in the cytoplasm that correlates with activation of the viral-defense interferon responses mimicking the preneoplastic inflammatory state seen in human liver following exogenous viral infection.
+Furthermore, upon derepression, VL30 long terminal repeats (LTRs) act as promoter and enhancer elements deregulating expression of neighboring genes and generating enhancer RNAs that are required for LTR enhancer activity in hepatocytes in vivo.
+These data reinforce the role of the TRIM family of proteins in retroviral restriction and antiviral defense and provide an example of an ERV-derived oncogenic regulatory network.

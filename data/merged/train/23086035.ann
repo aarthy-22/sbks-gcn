@@ -1,0 +1,15 @@
+T13	GENE-Y 0 6	PGC-1α
+T4	CHEMICAL 16 23	glucose
+T6	GENE-Y 330 389	peroxisome proliferator-activated receptor γ coactivator 1α
+T7	GENE-Y 391 397	PGC-1α
+T8	GENE-Y 565 571	PGC-1α
+T9	GENE-Y 604 611	insulin
+T10	GENE-Y 667 673	PGC-1α
+T1	CHEMICAL 727 734	glucose
+T2	CHEMICAL 806 820	acylcarnitines
+T3	CHEMICAL 825 836	sphingosine
+T11	GENE-Y 912 919	insulin
+T12	GENE-Y 956 962	PGC-1α
+T5	GENE-Y 1119 1125	PGC-1α
+R0	NOT Arg1:T10 Arg2:T1
+R1	NOT Arg1:T10 Arg2:T2

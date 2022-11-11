@@ -1,0 +1,11 @@
+Repression of mammary adipogenesis by genistein limits mammosphere formationof human MCF-7 cells.
+Mammary adipose tissue may contribute to breast cancer development and progression by altering neighboring epithelial cell behavior and phenotype through paracrine signaling.
+Dietary exposure to soy foods is associated with lower mammary tumor risk and reduced body weight and adiposity in humans and in rodent breast cancer models.
+Despite the suggested linkage between obesity and breast cancer, the local influence of bioactive dietary components on mammary adiposity for anti-tumor effects remains unknown.
+Herein, we report that post-weaning dietary exposure to soy protein isolate and its bioactive isoflavone genistein lowered mammary adiposity and increased mammary tumor suppressor PTEN and E-cadherin expression in female mice, relative to control casein diet.
+To ascertain genistein's role in mammary adipose deposition that may affect underlying epithelial cell phenotype, we evaluated genistein's effects on SV40-immortalized mouse mammary stromal fibroblast-like (MSF) cells during differentiation to adipocytes.
+MSF cultured in differentiation medium with 40 nM genistein showed reductions in mature adipocyte numbers, triglyceride accumulation, and PPARγ and fatty acid synthase transcript levels.
+Genistein inhibition of adipose differentiation was accompanied by increased estrogen receptor (ER)-β gene expression and was modestly recapitulated by ERβ selective agonist 2,3-bis (4-hydroxyphenyl)-propionitrile (DPN).
+Reduction of ERβ expression by siRNA targeting increased PPARγ transcript levels and stromal fibroblast differentiation into mature adipocytes; the latter was reversed by genistein but not DPN.
+Conditioned medium from genistein-treated adipocytes diminished anchorage-independent mammosphere formation of human MCF-7 breast cancer cells.
+Our results suggest a mechanistic pathway to support direct regulation by genistein of mammary adiposity for breast cancer prevention.

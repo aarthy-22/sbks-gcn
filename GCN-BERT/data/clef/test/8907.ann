@@ -1,0 +1,985 @@
+T1	OTHER_COMPOUND 1707 1721	photosensitive
+T2	OTHER_COMPOUND 1774 1782	nitrogen
+T3	OTHER_COMPOUND 1786 1800	carbon dioxide
+T4	OTHER_COMPOUND 2640 2654	photosensitive
+T5	OTHER_COMPOUND 3508 3522	photosensitive
+T6	OTHER_COMPOUND 3738 3752	alkylene oxide
+T7	OTHER_COMPOUND 5396 5398	10
+T8	OTHER_COMPOUND 5584 5589	photo
+T9	OTHER_COMPOUND 6074 6075	C
+T10	OTHER_COMPOUND 6108 6109	B
+T11	OTHER_COMPOUND 6313 6314	C
+T12	OTHER_COMPOUND 6820 6828	acryloyl
+T13	OTHER_COMPOUND 6838 6839	a
+T14	OTHER_COMPOUND 6840 6858	methacryloyl group
+T15	OTHER_COMPOUND 6943 6954	vinyl ether
+T16	OTHER_COMPOUND 6965 6976	epoxy group
+T17	OTHER_COMPOUND 6984 6998	oxetanyl group
+T18	OTHER_COMPOUND 7002 7012	preferable
+T19	OTHER_COMPOUND 7038 7039	A
+T20	OTHER_COMPOUND 7078 7092	monofunctional
+T21	OTHER_COMPOUND 7093 7106	(meth)acrylic
+T22	OTHER_COMPOUND 7127 7135	acryloyl
+T23	OTHER_COMPOUND 7145 7163	methacryloyl group
+T24	REACTION_PRODUCT 7201 7228	phenoxyethyl (meth)acrylate
+T25	REACTION_PRODUCT 7230 7303	phenoxy-2-methylethyl (meth) acrylate, phenoxyethoxyethyl (meth) acrylate
+T26	REACTION_PRODUCT 7305 7336	3-phenoxy-2-hydroxypropyl (meth
+T27	REACTION_PRODUCT 7348 7384	2-phenylphenoxyethyl (meth) acrylate
+T28	REACTION_PRODUCT 7386 7422	4-phenylphenoxyethyl (meth) acrylate
+T29	REACTION_PRODUCT 7424 7473	3-(2-phenylphenyl)-2-hydroxypropyl (meth)acrylate
+T30	REACTION_PRODUCT 7475 7489	(meth)acrylate
+T31	OTHER_COMPOUND 7493 7495	EO
+T32	STARTING_MATERIAL 7520 7539	2-bromophenoxyethyl
+T33	REACTION_PRODUCT 7557 7595	2,4-dibromophenoxyethyl (meth)acrylate
+T34	REACTION_PRODUCT 7597 7638	2,4,6-tribromophenoxyethyl (meth)acrylate
+T35	OTHER_COMPOUND 7640 7642	EO
+T36	REACTION_PRODUCT 7652 7674	phenoxy (meth)acrylate
+T37	REACTION_PRODUCT 7676 7711	PO modified phenoxy (meth) acrylate
+T38	REACTION_PRODUCT 7713 7748	polyoxyethylene nonylphenyl ether (
+T39	REACTION_PRODUCT 7748 7752	meth
+T40	REACTION_PRODUCT 7764 7789	isobornyl (meth) acrylate
+T41	REACTION_PRODUCT 7791 7818	1-adamanthyl (meth)acrylate
+T42	REACTION_PRODUCT 7820 7856	2-methyl-2-adamanthyl (meth)acrylate
+T43	REACTION_PRODUCT 7858 7894	2-ethyl-2-adamanthyl (meth) acrylate
+T44	REACTION_PRODUCT 7896 7918	bornyl (meth) acrylate
+T45	REACTION_PRODUCT 7920 7984	tricyclodecanyl (meth) acrylate, dicyclopentenyl (meth) acrylate
+T46	REACTION_PRODUCT 7986 8017	dicyclopentenyl (meth) acrylate
+T47	REACTION_PRODUCT 8019 8101	cyclohexyl (meth) acrylate, 4-butylcyclohexyl (meth) acrylate, acryloyl morpholine
+T48	REACTION_PRODUCT 8103 8133	2-hydroxyethyl (meth) acrylate
+T49	REACTION_PRODUCT 8135 8197	2-hydroxypropyl (meth) acrylate, 2-hydroxybutyl (meth)acrylate
+T50	REACTION_PRODUCT 8199 8220	methyl (meth)acrylate
+T51	OTHER_COMPOUND 8222 8242	ethyl (meth)acrylate
+T52	OTHER_COMPOUND 8244 8265	propyl (meth)acrylate
+T53	STARTING_MATERIAL 8267 8276	isopropyl
+T54	OTHER_COMPOUND 8293 8313	butyl (meth)acrylate
+T55	OTHER_COMPOUND 8315 8334	amyl (meth)acrylate
+T56	OTHER_COMPOUND 8336 8359	isobutyl (meth)acrylate
+T57	OTHER_COMPOUND 8361 8368	t-butyl
+T58	OTHER_COMPOUND 8385 8406	pentyl (meth)acrylate
+T59	STARTING_MATERIAL 8408 8415	isoamyl
+T60	STARTING_MATERIAL 8432 8452	hexyl (meth)acrylate
+T61	STARTING_MATERIAL 8454 8460	heptyl
+T62	STARTING_MATERIAL 8477 8482	octyl
+T63	STARTING_MATERIAL 8499 8507	isooctyl
+T64	STARTING_MATERIAL 8524 8551	2-ethylhexyl (meth)acrylate
+T65	REACTION_PRODUCT 8575 8595	decyl (meth)acrylate
+T66	STARTING_MATERIAL 8597 8620	isodecyl (meth)acrylate
+T67	REACTION_PRODUCT 8622 8644	undecyl (meth)acrylate
+T68	REACTION_PRODUCT 8646 8668	dodecyl (meth)acrylate
+T69	REACTION_PRODUCT 8670 8691	lauryl (meth)acrylate
+T70	REACTION_PRODUCT 8693 8715	stearyl (meth)acrylate
+T71	REACTION_PRODUCT 8717 8742	isostearyl (meth)acrylate
+T72	REACTION_PRODUCT 8744 8802	benzyl (meth) acrylate, tetrahydrofurfuryl (meth) acrylate
+T73	REACTION_PRODUCT 8804 8872	butoxyethyl (meth) acrylate, ethoxydiethylene glycol (meth) acrylate
+T74	REACTION_PRODUCT 8874 8893	polyethylene glycol
+T75	REACTION_PRODUCT 8914 8953	polypropylene glycol mono(meth)acrylate
+T76	REACTION_PRODUCT 8955 8992	methoxyethylene glycol (meth)acrylate
+T77	REACTION_PRODUCT 8994 9048	ethoxyethyl (meth)acrylate, methoxypolyethylene glycol
+T78	REACTION_PRODUCT 9050 9109	meth) acrylate, methoxypolypropylene glycol (meth) acrylate
+T79	REACTION_PRODUCT 9111 9171	diacetone (meth)acrylamide, isobutoxymethyl (meth)acrylamide
+T80	REACTION_PRODUCT 9173 9300	N,N-dimethyl (meth) acrylamide, t-octyl (meth) acrylamide, dimethylaminoethyl (meth) acrylate, diethylaminoethyl (meth)acrylate
+T81	STARTING_MATERIAL 9302 9361	7-amino-3,7-dimethyloctyl (meth)acrylate, N,N-diethyl (meth
+T82	OTHER_COMPOUND 9379 9419	N,N-dimethylaminopropyl (meth)acrylamide
+T83	OTHER_COMPOUND 9483 9497	acryloyl group
+T84	OTHER_COMPOUND 9501 9513	methacryloyl
+T85	OTHER_COMPOUND 9696 9702	Aronix
+T86	OTHER_COMPOUND 9703 9707	M101
+T87	OTHER_COMPOUND 9721 9725	M111
+T88	OTHER_COMPOUND 9746 9753	TO-1317
+T89	OTHER_COMPOUND 9814 9821	MEDOL10
+T90	OTHER_COMPOUND 9823 9831	MIBDOL10
+T91	OTHER_COMPOUND 9833 9840	CHDOL10
+T92	OTHER_COMPOUND 9842 9849	MMDOL30
+T93	OTHER_COMPOUND 9851 9858	MEDOL30
+T94	OTHER_COMPOUND 9879 9881	LA
+T95	OTHER_COMPOUND 9883 9887	IBXA
+T96	OTHER_COMPOUND 9889 9894	2-MTA
+T97	OTHER_COMPOUND 9896 9899	HPA
+T98	OTHER_COMPOUND 9901 9908	Biscoat
+T99	OTHER_COMPOUND 9909 9913	#150
+T100	OTHER_COMPOUND 9927 9931	#190
+T101	OTHER_COMPOUND 9945 9949	#220
+T102	OTHER_COMPOUND 9951 9956	#2000
+T103	OTHER_COMPOUND 10037 10045	Acrylate
+T104	OTHER_COMPOUND 10052 10056	EC-A
+T105	OTHER_COMPOUND 10058 10063	DMP-A
+T106	OTHER_COMPOUND 10065 10070	THF-A
+T107	OTHER_COMPOUND 10072 10077	HOP-A
+T108	OTHER_COMPOUND 10079 10086	HOA-MPE
+T109	OTHER_COMPOUND 10088 10095	HOA-MPL
+T110	OTHER_COMPOUND 10097 10101	PO-A
+T111	OTHER_COMPOUND 10103 10109	P-200A
+T112	OTHER_COMPOUND 10111 10117	NP-4EA
+T113	OTHER_COMPOUND 10131 10142	epoxy ester
+T114	OTHER_COMPOUND 10143 10149	M-600A
+T115	OTHER_COMPOUND 10198 10205	KAYARAD
+T116	OTHER_COMPOUND 10214 10219	R-564
+T117	OTHER_COMPOUND 10225 10231	R-128H
+T118	OTHER_COMPOUND 10249 10262	Nippon Kayaku
+T119	OTHER_COMPOUND 10275 10283	NK ester
+T120	OTHER_COMPOUND 10284 10291	AMP-10G
+T121	OTHER_COMPOUND 10375 10379	513A
+T122	OTHER_COMPOUND 10430 10433	PHE
+T123	OTHER_COMPOUND 10435 10438	CEA
+T124	OTHER_COMPOUND 10454 10459	BR-31
+T125	OTHER_COMPOUND 10461 10467	BR-31M
+T126	OTHER_COMPOUND 10473 10478	BR-32
+T127	OTHER_COMPOUND 10499 10500	-
+T128	OTHER_COMPOUND 10531 10533	VP
+T129	OTHER_COMPOUND 10550 10554	BASF
+T130	OTHER_COMPOUND 10561 10565	ACMO
+T131	OTHER_COMPOUND 10567 10571	DMAA
+T132	OTHER_COMPOUND 10577 10583	DMAPAA
+T133	OTHER_COMPOUND 10686 10699	(meth)acrylic
+T134	OTHER_COMPOUND 10755 10769	polyfunctional
+T135	OTHER_COMPOUND 10813 10828	acryloyl groups
+T136	OTHER_COMPOUND 10832 10844	methacryloyl
+T137	OTHER_COMPOUND 10889 10924	trimethylolpropane di(meth)acrylate
+T138	OTHER_COMPOUND 10926 10962	trimethylolpropane tri(meth)acrylate
+T139	OTHER_COMPOUND 10964 10966	EO
+T140	OTHER_COMPOUND 10976 10994	trimethylolpropane
+T141	OTHER_COMPOUND 11014 11016	PO
+T142	OTHER_COMPOUND 11026 11044	trimethylolpropane
+T143	OTHER_COMPOUND 11064 11066	EO
+T144	OTHER_COMPOUND 11068 11070	PO
+T145	OTHER_COMPOUND 11118 11151	pentaerythritol tri(meth)acrylate
+T146	OTHER_COMPOUND 11153 11188	pentaerythritol tetra(meth)acrylate
+T147	OTHER_COMPOUND 11190 11205	ethylene glycol
+T148	OTHER_COMPOUND 11224 11244	tetraethylene glycol
+T149	OTHER_COMPOUND 11263 11282	polyethylene glycol
+T150	REACTION_PRODUCT 11301 11321	polypropylene glycol
+T151	STARTING_MATERIAL 11340 11354	1,4-butanediol
+T152	OTHER_COMPOUND 11373 11387	1,6-hexanediol
+T153	REACTION_PRODUCT 11406 11422	neopentyl glycol
+T154	REACTION_PRODUCT 11441 11474	tris(2-hydroxy ethyl)isocyanurate
+T155	OTHER_COMPOUND 11494 11523	tris(acryloyloxy)isocyanurate
+T156	OTHER_COMPOUND 11525 11557	bis(hydroxymethyl)tricyclodecane
+T157	REACTION_PRODUCT 11576 11613	dipentaerythritol penta(meth)acrylate
+T158	OTHER_COMPOUND 11615 11651	dipentaerythritol hexa(meth)acrylate
+T159	OTHER_COMPOUND 11653 11655	EO
+T160	OTHER_COMPOUND 11707 11709	PO
+T161	OTHER_COMPOUND 11765 11767	EO
+T162	OTHER_COMPOUND 11769 11771	PO
+T163	OTHER_COMPOUND 11781 11821	2,2-bis(4-(meth)(acryloxy)phenyl)propane
+T164	OTHER_COMPOUND 11851 11864	(meth)acrylic
+T165	OTHER_COMPOUND 11894 11909	acryloyl groups
+T166	OTHER_COMPOUND 11913 11925	methacryloyl
+T167	OTHER_COMPOUND 12032 12045	(meth)acrylic
+T168	OTHER_COMPOUND 12120 12126	SA1002
+T169	OTHER_COMPOUND 12131 12137	SA2007
+T170	OTHER_COMPOUND 12155 12165	Mitsubishi
+T171	OTHER_COMPOUND 12247 12250	GPT
+T172	OTHER_COMPOUND 12256 12259	3PA
+T173	OTHER_COMPOUND 12322 12330	Acrylate
+T174	OTHER_COMPOUND 12331 12336	4EG-A
+T175	OTHER_COMPOUND 12338 12343	9EG-A
+T176	OTHER_COMPOUND 12345 12349	NP-A
+T177	OTHER_COMPOUND 12351 12356	DCP-A
+T178	OTHER_COMPOUND 12358 12364	BP-4EA
+T179	OTHER_COMPOUND 12366 12372	BP-4PA
+T180	OTHER_COMPOUND 12374 12380	TMP-A,
+T181	OTHER_COMPOUND 12381 12386	PE-3A
+T182	OTHER_COMPOUND 12388 12393	PE-4A
+T183	OTHER_COMPOUND 12399 12405	DPE-6A
+T184	OTHER_COMPOUND 12462 12468	PET-30
+T185	OTHER_COMPOUND 12470 12475	TMPTA
+T186	OTHER_COMPOUND 12477 12482	R-604
+T187	OTHER_COMPOUND 12484 12488	DPHA
+T188	OTHER_COMPOUND 12490 12497	DPCA-20
+T189	OTHER_COMPOUND 12499 12502	-30
+T190	OTHER_COMPOUND 12515 12521	HX-620
+T191	OTHER_COMPOUND 12534 12539	D-330
+T192	OTHER_COMPOUND 12583 12589	Aronix
+T193	OTHER_COMPOUND 12614 12618	M240
+T194	OTHER_COMPOUND 12626 12630	M309
+T195	OTHER_COMPOUND 12644 12648	M325
+T196	OTHER_COMPOUND 12717 12722	VR-60
+T197	OTHER_COMPOUND 12847 12860	(meth)acrylic
+T198	OTHER_COMPOUND 13098 13112	(meth)acrylate
+T199	OTHER_COMPOUND 13127 13135	acrylate
+T200	OTHER_COMPOUND 13142 13154	methacrylate
+T201	REACTION_PRODUCT 13182 13196	(meth)acryloyl
+T202	OTHER_COMPOUND 13217 13225	acryloyl
+T203	OTHER_COMPOUND 13238 13256	methacryloyl group
+T204	OTHER_COMPOUND 13280 13282	EO
+T205	OTHER_COMPOUND 13294 13302	ethylene
+T206	OTHER_COMPOUND 13392 13406	ethylene oxide
+T207	OTHER_COMPOUND 13427 13429	PO
+T208	OTHER_COMPOUND 13441 13450	propylene
+T209	OTHER_COMPOUND 13466 13468	PO
+T210	OTHER_COMPOUND 13539 13554	propylene oxide
+T211	OTHER_COMPOUND 13645 13656	vinyl ether
+T212	OTHER_COMPOUND 13700 13718	methyl vinyl ether
+T213	OTHER_COMPOUND 13720 13737	ethyl vinyl ether
+T214	OTHER_COMPOUND 13739 13757	propyl vinyl ether
+T215	OTHER_COMPOUND 13759 13778	n-butyl vinyl ether
+T216	OTHER_COMPOUND 13780 13799	t-butyl vinyl ether
+T217	OTHER_COMPOUND 13801 13825	2-ethylhexyl vinyl ether
+T218	OTHER_COMPOUND 13827 13846	n-nonyl vinyl ether
+T219	OTHER_COMPOUND 13848 13866	lauryl vinyl ether
+T220	OTHER_COMPOUND 13868 13890	cyclohexyl vinyl ether
+T221	OTHER_COMPOUND 13892 13920	cyclohexylmethyl vinyl ether
+T222	OTHER_COMPOUND 13922 13958	4-methylcyclohexylmethyl vinyl ether
+T223	OTHER_COMPOUND 13960 13978	benzyl vinyl ether
+T224	OTHER_COMPOUND 13980 14007	dicyclopentenyl vinyl ether
+T225	OTHER_COMPOUND 14009 14044	2-dicyclopentenoxyethyl vinyl ether
+T226	OTHER_COMPOUND 14046 14070	methoxyethyl vinyl ether
+T227	OTHER_COMPOUND 14072 14095	ethoxyethyl vinyl ether
+T228	OTHER_COMPOUND 14097 14120	butoxyethyl vinyl ether
+T229	OTHER_COMPOUND 14122 14152	methoxyethoxyethyl vinyl ether
+T230	OTHER_COMPOUND 14154 14183	ethoxyethoxyethyl vinyl ether
+T231	OTHER_COMPOUND 14185 14225	methoxy(polyethylene glycol) vinyl ether
+T232	OTHER_COMPOUND 14227 14257	tetrahydrofurfuryl vinyl ether
+T233	OTHER_COMPOUND 14259 14285	2-hydroxyethyl vinyl ether
+T234	REACTION_PRODUCT 14287 14342	2-hydroxypropyl vinyl ether, 4-hydroxybutyl vinyl ether
+T235	REACTION_PRODUCT 14344 14389	4-hydroxymethyl-cyclohexyl-methyl vinyl ether
+T236	REACTION_PRODUCT 14391 14424	diethylene glycol monovinyl ether
+T237	REACTION_PRODUCT 14426 14459	poly(ethylene glycol) vinyl ether
+T238	REACTION_PRODUCT 14461 14484	chloroethyl vinyl ether
+T239	REACTION_PRODUCT 14486 14509	chlorobutyl vinyl ether
+T240	OTHER_COMPOUND 14511 14540	chloroethoxyethyl vinyl ether
+T241	OTHER_COMPOUND 14542 14565	phenylethyl vinyl ether
+T242	REACTION_PRODUCT 14571 14611	phenoxy(polyethylene glycol) vinyl ether
+T243	OTHER_COMPOUND 14646 14657	vinyl ether
+T244	OTHER_COMPOUND 14739 14750	vinyl ether
+T245	OTHER_COMPOUND 14795 14809	divinyl ethers
+T246	OTHER_COMPOUND 14819 14842	ethylene glycol divinyl
+T247	OTHER_COMPOUND 14850 14881	diethylene glycol divinyl ether
+T248	OTHER_COMPOUND 14883 14902	polyethylene glycol
+T249	OTHER_COMPOUND 14918 14942	propylene glycol divinyl
+T250	OTHER_COMPOUND 14950 14979	butylene glycol divinyl ether
+T251	OTHER_COMPOUND 14981 15005	hexanediol divinyl ether
+T252	OTHER_COMPOUND 15007 15027	bisphenol A alkylene
+T253	OTHER_COMPOUND 15053 15064	bisphenol F
+T254	OTHER_COMPOUND 15099 15108	polyvinyl
+T255	OTHER_COMPOUND 15125 15157	trimethylolethane trivinyl ether
+T256	OTHER_COMPOUND 15159 15192	trimethylolpropane trivinyl ether
+T257	OTHER_COMPOUND 15194 15231	ditrimethylolpropane tetravinyl ether
+T258	OTHER_COMPOUND 15233 15256	glycerol trivinyl ether
+T259	OTHER_COMPOUND 15258 15290	pentaerythritol tetravinyl ether
+T260	OTHER_COMPOUND 15292 15326	dipentaerythritol pentavinyl ether
+T261	OTHER_COMPOUND 15328 15361	dipentaerythritol hexavinyl ether
+T262	OTHER_COMPOUND 15363 15377	ethylene oxide
+T263	OTHER_COMPOUND 15388 15421	trimethylolpropane trivinyl ether
+T264	OTHER_COMPOUND 15423 15432	propylene
+T265	OTHER_COMPOUND 15449 15482	trimethylolpropane trivinyl ether
+T266	OTHER_COMPOUND 15484 15492	ethylene
+T267	OTHER_COMPOUND 15509 15546	ditrimethylolpropane tetravinyl ether
+T268	OTHER_COMPOUND 15548 15563	propylene oxide
+T269	OTHER_COMPOUND 15574 15611	ditrimethylolpropane tetravinyl ether
+T270	OTHER_COMPOUND 15613 15627	ethylene oxide
+T271	OTHER_COMPOUND 15638 15670	pentaerythritol tetravinyl ether
+T272	OTHER_COMPOUND 15672 15687	propylene oxide
+T273	OTHER_COMPOUND 15698 15730	pentaerythritol tetravinyl ether
+T274	OTHER_COMPOUND 15732 15746	ethylene oxide
+T275	OTHER_COMPOUND 15757 15790	dipentaerythritol hexavinyl ether
+T276	OTHER_COMPOUND 15796 15811	propylene oxide
+T277	OTHER_COMPOUND 15822 15849	dipentaerythritol hexavinyl
+T278	OTHER_COMPOUND 15899 15910	vinyl ether
+T279	OTHER_COMPOUND 15984 15989	epoxy
+T280	OTHER_COMPOUND 16033 16054	phenyl glycidyl ether
+T281	OTHER_COMPOUND 16056 16089	p-tert-butylphenyl glycidyl ether
+T282	OTHER_COMPOUND 16091 16111	butyl glycidyl ether
+T283	OTHER_COMPOUND 16113 16140	2-ethylhexyl glycidyl ether
+T284	OTHER_COMPOUND 16142 16162	allyl glycidyl ether
+T285	OTHER_COMPOUND 16164 16182	1,2-butylene oxide
+T286	OTHER_COMPOUND 16184 16197	1,3-butadiene
+T287	OTHER_COMPOUND 16208 16226	1,2-epoxy dodecane
+T288	OTHER_COMPOUND 16228 16243	epichlorohydrin
+T289	OTHER_COMPOUND 16245 16261	1,2-epoxy decane
+T290	OTHER_COMPOUND 16263 16270	styrene
+T291	OTHER_COMPOUND 16278 16289	cyclohexene
+T292	REACTION_PRODUCT 16297 16338	3-methacryloyloxymethyl cyclohexene oxide
+T293	REACTION_PRODUCT 16340 16371	3-acryloyloxymethyl cyclohexene
+T294	OTHER_COMPOUND 16383 16401	3-vinylcyclohexene
+T295	OTHER_COMPOUND 16529 16534	epoxy
+T296	OTHER_COMPOUND 16579 16607	bisphenol A diglycidyl ether
+T297	OTHER_COMPOUND 16609 16637	bisphenol F diglycidyl ether
+T298	OTHER_COMPOUND 16639 16667	bisphenol S diglycidyl ether
+T299	OTHER_COMPOUND 16680 16708	bisphenol A diglycidyl ether
+T300	OTHER_COMPOUND 16710 16720	brominated
+T301	REACTION_PRODUCT 16721 16749	bisphenol F diglycidyl ether
+T302	OTHER_COMPOUND 16751 16761	brominated
+T303	OTHER_COMPOUND 16762 16771	bisphenol
+T304	OTHER_COMPOUND 16792 16805	epoxy novolac
+T305	OTHER_COMPOUND 16813 16825	hydrogenated
+T306	OTHER_COMPOUND 16826 16837	bisphenol A
+T307	REACTION_PRODUCT 16912 17002	bisphenol S diglycidyl ether, 3,4-epoxycyclohexylmethyl-3′,4′-epoxycyclohexane carboxylate
+T308	REACTION_PRODUCT 17004 17071	2-(3,4-epoxycyclohexyl-5,5-spiro-3,4-epoxy)cyclohexane-meth-dioxane
+T309	REACTION_PRODUCT 17073 17282	bis(3,4-epoxycyclohexylmethyl)adipate, vinylcyclohexene oxide, 4-vinylepoxycyclohexane, bis(3,4-epoxy-6-methylcyclohexylmethyl)adipate, 3,4-epoxy-6-methylcyclohexyl-3′,4′-epoxy-6′-methylcyclohexane carboxylate
+T310	STARTING_MATERIAL 17284 17318	methylenebis(3,4-epoxycyclohexane)
+T311	REACTION_PRODUCT 17320 17348	dicyclopentadiene diepoxide,
+T312	OTHER_COMPOUND 17387 17402	ethylene glycol
+T313	REACTION_PRODUCT 17404 17448	ethylenebis(3,4-epoxycyclohexane carboxylate
+T314	OTHER_COMPOUND 17451 17482	dioctyl epoxyhexahydrophthalate
+T315	OTHER_COMPOUND 17484 17523	di-2-ethylhexyl epoxyhexahydrophthalate
+T316	OTHER_COMPOUND 17525 17556	1,4-butanediol diglycidyl ether
+T317	OTHER_COMPOUND 17558 17589	1,6-hexanediol diglycidyl ether
+T318	OTHER_COMPOUND 17591 17617	glycerol triglycidyl ether
+T319	OTHER_COMPOUND 17619 17655	trimethylolpropane triglycidyl ether
+T320	OTHER_COMPOUND 17657 17676	polyethylene glycol
+T321	OTHER_COMPOUND 17695 17732	polypropylene glycol diglycidyl ether
+T322	OTHER_COMPOUND 17734 17754	1,1,3-tetradecadiene
+T323	OTHER_COMPOUND 17764 17772	limonene
+T324	OTHER_COMPOUND 17782 17804	1,2,7,8-diepoxy octane
+T325	OTHER_COMPOUND 17810 17837	1,2,5,6-diepoxy cyclooctane
+T326	OTHER_COMPOUND 17881 17886	epoxy
+T327	OTHER_COMPOUND 17961 17975	oxetanyl group
+T328	REACTION_PRODUCT 18013 18044	3-ethyl-3-hydroxymethyloxetane,
+T329	REACTION_PRODUCT 18045 18081	3-(meth)aryloxymethyl 3-ethyloxetane
+T330	REACTION_PRODUCT 18083 18123	(3-ethyl-3-oxetanylmethoxy)methylbenzene
+T331	REACTION_PRODUCT 18125 18178	4-fluoro-[1-(3-ethyl-3-oxetanylmethoxy)methyl]benzene
+T332	REACTION_PRODUCT 18180 18234	4-methoxy-[1-(3-ethyl-3-oxetanylmethoxy)methyl]benzene
+T333	REACTION_PRODUCT 18236 18284	[1-(3-ethyl-3-oxetanylmethoxy)ethyl]phenyl ether
+T334	REACTION_PRODUCT 18286 18328	isobutoxymethyl (3-ethyl-3-oxetanylmethyl)
+T335	REACTION_PRODUCT 18336 18353	isobornyloxyethyl
+T336	OTHER_COMPOUND 18355 18380	3-ethyl-3-oxetanylmethyl)
+T337	REACTION_PRODUCT 18388 18430	isobornyl (3-ethyl-3-oxetanylmethyl) ether
+T338	REACTION_PRODUCT 18432 18534	2-ethylhexyl (3-ethyl-3-oxetanylmethyl) ether, ethyldiethylene glycol (3-ethyl-3-oxetanylmethyl) ether
+T339	REACTION_PRODUCT 18536 18586	dicyclopentadiene (3-ethyl-3-oxetanylmethyl) ether
+T340	REACTION_PRODUCT 18588 18644	dicyclopentenyloxyethyl (3-ethyl-3-oxetanylmethyl) ether
+T341	REACTION_PRODUCT 18646 18694	dicyclopentenyl (3-ethyl-3-oxetanylmethyl) ether
+T342	REACTION_PRODUCT 18696 18798	tetrahydrofurfuryl (3-ethyl-3-oxetanylmethyl) ether, tetrabromophenyl (3-ethyl-3-oxetanylmethyl) ether
+T343	REACTION_PRODUCT 18800 18857	2-tetrabromophenoxyethyl (3-ethyl-3-oxetanylmethyl) ether
+T344	STARTING_MATERIAL 18859 18873	tribromophenyl
+T345	REACTION_PRODUCT 18875 18906	3-ethyl-3-oxetanylmethyl) ether
+T346	REACTION_PRODUCT 18908 18957	2-tribromophenoxyethyl (3-ethyl-3-oxetanylmethyl)
+T347	REACTION_PRODUCT 18965 19012	2-hydroxyethyl (3-ethyl-3-oxetanylmethyl) ether
+T348	REACTION_PRODUCT 19014 19062	2-hydroxypropyl (3-ethyl-3-oxetanylmethyl) ether
+T349	REACTION_PRODUCT 19062 19108	, butoxyethyl (3-ethyl-3-oxetanylmethyl) ether
+T350	OTHER_COMPOUND 19110 19127	pentachlorophenyl
+T351	REACTION_PRODUCT 19217 19223	bornyl
+T352	OTHER_COMPOUND 19291 19305	oxetanyl group
+T353	OTHER_COMPOUND 19381 19389	oxetanyl
+T354	OTHER_COMPOUND 19434 19457	polyfunctional oxetanes
+T355	REACTION_PRODUCT 19467 19499	3,7-bis(3-oxetanyl)-5-oxa-nonane
+T356	REACTION_PRODUCT 19501 19573	3,3′-(1,3-(2-methylenyl)propanediyl bis(oxymethylene))bis(3-ethyloxetane
+T357	REACTION_PRODUCT 19576 19625	1,4-bis[(3-ethyl-3-oxetanylmethoxy)methyl]benzene
+T358	REACTION_PRODUCT 19627 19675	1,2-bis[(3-ethyl-3-oxetanylmethoxy)methyl]ethane
+T359	REACTION_PRODUCT 19677 19743	1,3-bis[(3-ethyl-3-oxetanylmethoxy)methyl]propane, ethylene glycol
+T360	REACTION_PRODUCT 19780 19831	dicyclopentenyl bis(3-ethyl-3-oxetanylmethyl) ether
+T361	REACTION_PRODUCT 19833 19887	triethylene glycol bis(3-ethyl-3-oxetanylmethyl) ether
+T362	REACTION_PRODUCT 19889 20009	tetraethylene glycol bis(3-ethyl-3-oxetanylmethyl) ether, tricyclodecanediyldimethylene (3-ethyl-3-oxetanylmethyl) ether
+T363	REACTION_PRODUCT 20011 20066	trimethylolpropane tris(3-ethyl-3-oxetanylmethyl) ether
+T364	REACTION_PRODUCT 20068 20109	1,4-bis(3-ethyl-3-oxetanylmethoxy)butane,
+T365	REACTION_PRODUCT 20110 20150	1,6-bis(3-ethyl-3-oxetanylmethoxy)hexane
+T366	REACTION_PRODUCT 20152 20204	pentaerythritol tris(3-ethyl-3-oxetanylmethyl) ether
+T367	REACTION_PRODUCT 20206 20262	pentaerythritol tetrakis(3-ethyl-3-oxetanylmethyl) ether
+T368	REACTION_PRODUCT 20264 20319	polyethylene glycol bis(3-ethyl-3-oxetanylmethyl) ether
+T369	REACTION_PRODUCT 20321 20378	dipentaerythritol hexakis(3-ethyl-3-oxetanylmethyl) ether
+T370	REACTION_PRODUCT 20380 20438	dipentaerythritol pentakis(3-ethyl-3-oxetanylmethyl) ether
+T371	REACTION_PRODUCT 20440 20498	dipentaerythritol tetrakis(3-ethyl-3-oxetanylmethyl) ether
+T372	REACTION_PRODUCT 20500 20579	caprolactone modified dipentaerythritol hexakis(3-ethyl-3-oxetanylmethyl) ether
+T373	OTHER_COMPOUND 20581 20593	caprolactone
+T374	REACTION_PRODUCT 20603 20661	dipentaerythritol pentakis(3-ethyl-3-oxetanylmethyl) ether
+T375	REACTION_PRODUCT 20663 20724	ditrimethylolpropane tetrakis(3-ethyl-3-oxetanylmethyl) ether
+T376	OTHER_COMPOUND 20726 20728	EO
+T377	OTHER_COMPOUND 20738 20747	bisphenol
+T378	REACTION_PRODUCT 20748 20785	A bis(3-ethyl-3-oxetanylmethyl) ether
+T379	OTHER_COMPOUND 20787 20789	PO
+T380	REACTION_PRODUCT 20799 20846	bisphenol A bis(3-ethyl-3-oxetanylmethyl) ether
+T381	OTHER_COMPOUND 20848 20850	EO
+T382	REACTION_PRODUCT 20873 20920	bisphenol A bis(3-ethyl-3-oxetanylmethyl) ether
+T383	OTHER_COMPOUND 20922 20924	PO
+T384	REACTION_PRODUCT 20947 20988	bisphenol A bis(3-ethyl-3-oxetanylmethyl)
+T385	OTHER_COMPOUND 21000 21002	EO
+T386	REACTION_PRODUCT 21012 21049	bisphenol F (3-ethyl-3-oxetanylmethyl
+T387	OTHER_COMPOUND 21100 21115	oxetanyl groups
+T388	OTHER_COMPOUND 21325 21327	EO
+T389	OTHER_COMPOUND 21339 21353	ethylene oxide
+T390	OTHER_COMPOUND 21363 21365	EO
+T391	OTHER_COMPOUND 21437 21451	ethylene oxide
+T392	OTHER_COMPOUND 21472 21474	PO
+T393	OTHER_COMPOUND 21486 21501	propylene oxide
+T394	OTHER_COMPOUND 21584 21593	propylene
+T395	OTHER_COMPOUND 21679 21687	hydrogen
+T396	OTHER_COMPOUND 21735 21747	benzene ring
+T397	OTHER_COMPOUND 21867 21868	B
+T398	OTHER_COMPOUND 22377 22381	rays
+T399	OTHER_COMPOUND 22598 22607	initiator
+T400	OTHER_COMPOUND 22666 22673	radical
+T401	OTHER_COMPOUND 22721 22750	2,4,5-triarylimidazole dimers
+T402	REACTION_PRODUCT 22785 22833	a 2-(o-chlorophenyl)-4,5-diphenylimidazole dimer
+T403	OTHER_COMPOUND 22837 22891	2-(o-chlorophenyl)-4,5-di(methoxypheny)imidazole dimer
+T404	OTHER_COMPOUND 22895 22941	2-(o-fluorophenyl)-4,5-diphenylimidazole dimer
+T405	OTHER_COMPOUND 22949 22995	2-(o- or p-methoxypheny)-4,5-diphenylimidazole
+T406	OTHER_COMPOUND 23003 23015	benzophenone
+T407	OTHER_COMPOUND 23037 23049	benzophenone
+T408	STARTING_MATERIAL 23051 23092	N,N′-tetramethyl-4,4′-diaminobenzophenone
+T409	REACTION_PRODUCT 23094 23108	Michler ketone
+T410	OTHER_COMPOUND 23111 23151	N,N′-tetraethyl-4,4′-diaminobenzophenone
+T411	OTHER_COMPOUND 23153 23193	4-methoxy-4′-(dimethylamino)benzophenone
+T412	REACTION_PRODUCT 23195 23214	4-chlorobenzophenon
+T413	OTHER_COMPOUND 23248 23272	4,4′-diaminobenzophenone
+T414	OTHER_COMPOUND 23274 23289	aromatic ketone
+T415	OTHER_COMPOUND 23311 23432	2-benzyl-2-dimethylamino-1-(4-morpholino-phenyl)-butanone-1,2-methyl-1-[4-(methylthio)phenyl]-2-morpholino-propanone-1-on
+T416	OTHER_COMPOUND 23434 23442	quinones
+T417	OTHER_COMPOUND 23452 23472	2-ethylanthraquinone
+T418	OTHER_COMPOUND 23474 23493	phenanthrenequinone
+T419	OTHER_COMPOUND 23519 23542	octamethylanthraquinone
+T420	STARTING_MATERIAL 23567 23588	2,3-benzanthraquinone
+T421	OTHER_COMPOUND 23590 23612	2-phenylanthraquinone,
+T422	OTHER_COMPOUND 23640 23661	1-chloroanthraquinone
+T423	OTHER_COMPOUND 23663 23684	2-methylanthraquinone
+T424	OTHER_COMPOUND 23686 23704	1,4-naphthoquinone
+T425	OTHER_COMPOUND 23706 23730	9,10-phenanthrenequinone
+T426	OTHER_COMPOUND 23732 23759	2-methyl-1,4-naphthoquinone
+T427	OTHER_COMPOUND 23761 23790	and 2,3-dimethylanthraquinone
+T428	OTHER_COMPOUND 23792 23799	benzoin
+T429	OTHER_COMPOUND 23827 23847	benzoin methyl ether
+T430	OTHER_COMPOUND 23849 23868	benzoin ethyl ether
+T431	OTHER_COMPOUND 23874 23894	benzoin phenyl ether
+T432	OTHER_COMPOUND 23896 23903	benzoin
+T433	OTHER_COMPOUND 23925 23932	benzoin
+T434	OTHER_COMPOUND 23934 23961	methylbenzoin, ethylbenzoin
+T435	OTHER_COMPOUND 23967 23980	propylbenzoin
+T436	REACTION_PRODUCT 23982 24000	benzyl derivatives
+T437	REACTION_PRODUCT 24007 24031	as benzyl dimethyl ketal
+T438	OTHER_COMPOUND 24063 24079	9-phenylacridine
+T439	OTHER_COMPOUND 24084 24114	1,7-bis(9,9′-acridinyl)heptane
+T440	OTHER_COMPOUND 24116 24131	N-phenylglycine
+T441	OTHER_COMPOUND 24153 24168	N-phenylglycine
+T442	OTHER_COMPOUND 24170 24182	acetophenone
+T443	OTHER_COMPOUND 24204 24216	acetophenone
+T444	OTHER_COMPOUND 24218 24238	3-methylacetophenone
+T445	REACTION_PRODUCT 24240 24299	acetophenone benzylketal, 1-hydroxycyclohexyl phenyl ketone
+T446	REACTION_PRODUCT 24305 24339	2,2-dimethoxy-2-phenylacetophenone
+T447	OTHER_COMPOUND 24375 24387	thioxanthone
+T448	OTHER_COMPOUND 24389 24408	diethylthioxanthone
+T449	OTHER_COMPOUND 24410 24433	2-isopropylthioxanthone
+T450	OTHER_COMPOUND 24439 24459	2-chlorothioxanthone
+T451	OTHER_COMPOUND 24461 24469	xanthone
+T452	OTHER_COMPOUND 24471 24481	fluorenone
+T453	OTHER_COMPOUND 24483 24496	benzaldehyde,
+T454	OTHER_COMPOUND 24497 24505	fluorene
+T455	OTHER_COMPOUND 24507 24520	anthraquinone
+T456	OTHER_COMPOUND 24522 24536	triphenylamine
+T457	OTHER_COMPOUND 24538 24547	carbazole
+T458	OTHER_COMPOUND 24549 24601	1-(4-isopropylphenyl)-2-hydroxy-2-methylpropane-1-on
+T459	REACTION_PRODUCT 24603 24642	2-hydroxy-2-methyl-1-phenylpropane-1-on
+T460	REACTION_PRODUCT 24644 24691	(2,4,6-trimethylbenzoyl)diphenylphosphine oxide
+T461	REACTION_PRODUCT 24697 24759	bis(2,6-dimethoxybenzoyl)-2,4,4-trimethylpentylphosphine oxide
+T462	OTHER_COMPOUND 25037 25045	Irgacure
+T463	OTHER_COMPOUND 25046 25049	184
+T464	OTHER_COMPOUND 25087 25095	CGI-1700
+T465	OTHER_COMPOUND 25111 25118	CG24-61
+T466	OTHER_COMPOUND 25120 25132	Darocur 1116
+T467	OTHER_COMPOUND 25137 25141	1173
+T468	OTHER_COMPOUND 25172 25183	Lucirin TPO
+T469	OTHER_COMPOUND 25185 25191	LR8893
+T470	OTHER_COMPOUND 25197 25203	LR8970
+T471	OTHER_COMPOUND 25221 25225	BASF
+T472	OTHER_COMPOUND 25232 25246	Yubekuriru P36
+T473	OTHER_COMPOUND 25264 25267	UCB
+T474	OTHER_COMPOUND 25484 25491	sulfone
+T475	OTHER_COMPOUND 25504 25523	sulfonic acid ester
+T476	OTHER_COMPOUND 25536 25556	sulfonimide compound
+T477	OTHER_COMPOUND 25564 25576	diazomethane
+T478	OTHER_COMPOUND 25743 25753	onium salt
+T479	OTHER_COMPOUND 25790 25795	onium
+T480	OTHER_COMPOUND 25827 25835	iodonium
+T481	OTHER_COMPOUND 25844 25853	sulfonium
+T482	OTHER_COMPOUND 25901 25914	ammonium salt
+T483	OTHER_COMPOUND 25920 25937	a pyridinium salt
+T484	OTHER_COMPOUND 26043 26099	bis(4-t-butylphenyl)iodonium perfluoro-n-butanesulfonate
+T485	OTHER_COMPOUND 26101 26219	bis(4-t-butylphenyl)iodonium trifluoromethanesulfonate, bis(4-t-butylphenyl)iodonium 2-trifluoromethylbenzenesulfonate
+T486	REACTION_PRODUCT 26221 26265	bis(4-t-butylphenyl)iodonium pyrenesulfonate
+T487	REACTION_PRODUCT 26267 26371	bis(4-t-butylphenyl)iodonium n-dodecylbenzenesulfonate, bis(4-t-butylphenyl)iodonium p-toluenesulfonate,
+T488	REACTION_PRODUCT 26372 26658	bis(4-t-butylphenyl)iodonium benzenesulfonate, bis(4-t-butylphenyl)iodonium 10-camphorsulfonate, bis(4-t-butylphenyl)iodonium n-octanesulfonate, diphenyliodonium perfluoro-n-butanesulfonate, diphenyliodonium trifluoromethanesulfonate, diphenyliodonium 2-trifluoromethylbenzenesulfonate,
+T489	REACTION_PRODUCT 26659 26691	diphenyliodonium pyrenesulfonate
+T490	REACTION_PRODUCT 26693 26735	diphenyliodonium n-dodecylbenzenesulfonate
+T491	REACTION_PRODUCT 26809 26845	diphenyliodonium 10-camphorsulfonate
+T492	REACTION_PRODUCT 26847 26881	diphenyliodonium n-octanesulfonate
+T493	REACTION_PRODUCT 26883 26929	triphenylsulfonium perfluoro-n-butanesulfonate
+T494	OTHER_COMPOUND 26931 26975	triphenylsulfonium trifluoromethanesulfonate
+T495	REACTION_PRODUCT 26977 27029	triphenylsulfonium 2-trifluoromethylbenzenesulfonate
+T496	OTHER_COMPOUND 27031 27111	triphenylsulfonium pyrenesulfonate, triphenylsulfonium n-dodecylbenzenesulfonate
+T497	OTHER_COMPOUND 27113 27150	triphenylsulfonium p-toluenesulfonate
+T498	OTHER_COMPOUND 27152 27170	triphenylsulfonium
+T499	OTHER_COMPOUND 27189 27227	triphenylsulfonium 10-camphorsulfonate
+T500	OTHER_COMPOUND 27229 27265	triphenylsulfonium n-octanesulfonate
+T501	REACTION_PRODUCT 27267 27575	diphenyl(4-t-butylphenyl)sulfonium perfluoro-n-butanesulfonate, diphenyl(4-t-butylphenyl)sulfonium trifluoromethanesulfonate, diphenyl(4-t-butylphenyl)sulfonium 2-trifluoromethylbenzenesulfonate, diphenyl(4-t-butylphenyl)sulfonium pyrenesulfonate, diphenyl(4-t-butylphenyl)sulfonium n-dodecylbenzenesulfonate
+T502	REACTION_PRODUCT 27577 27739	diphenyl(4-t-butylphenyl)sulfonium p-toluenesulfonate, diphenyl(4-t-butylphenyl)sulfonium benzenesulfonate, diphenyl(4-t-butylphenyl)sulfonium 10-camphorsulfonate
+T503	REACTION_PRODUCT 27741 27793	diphenyl(4-t-butylphenyl)sulfonium n-octanesulfonate
+T504	REACTION_PRODUCT 27795 27974	tris(4-methoxypheny)sulfonium perfluoro-n-butanesulfonate, tris(4-methoxypheny)sulfonium trifluoromethanesulfonate, tris(4-methoxypheny)sulfonium 2-trifluoromethylbenzenesulfonate
+T505	REACTION_PRODUCT 27976 28021	tris(4-methoxypheny)sulfonium pyrenesulfonate
+T506	REACTION_PRODUCT 28023 28078	tris(4-methoxypheny)sulfonium n-dodecylbenzenesulfonate
+T507	REACTION_PRODUCT 28080 28128	tris(4-methoxypheny)sulfonium p-toluenesulfonate
+T508	OTHER_COMPOUND 28130 28176	tris(4-methoxypheny)sulfonium benzenesulfonate
+T509	OTHER_COMPOUND 28178 28227	tris(4-methoxypheny)sulfonium 10-camphorsulfonate
+T510	OTHER_COMPOUND 28233 28280	tris(4-methoxypheny)sulfonium n-octanesulfonate
+T511	OTHER_COMPOUND 28363 28370	sulfone
+T512	OTHER_COMPOUND 28419 28432	β-ketosulfone
+T513	OTHER_COMPOUND 28436 28453	β-sulfonylsulfone
+T514	OTHER_COMPOUND 28462 28469	α-diazo
+T515	REACTION_PRODUCT 28545 28568	phenacyl phenyl sulfone
+T516	REACTION_PRODUCT 28570 28594	mesityl phenacyl sulfone
+T517	OTHER_COMPOUND 28596 28622	bis(phenylsulfonyl)methane
+T518	OTHER_COMPOUND 28628 28649	4-trisphenacylsulfone
+T519	OTHER_COMPOUND 28738 28746	sulfonic
+T520	OTHER_COMPOUND 28781 28795	alkyl sulfonic
+T521	REACTION_PRODUCT 28822 28836	alkyl sulfonic
+T522	REACTION_PRODUCT 28852 28870	aryl sulfonic acid
+T523	OTHER_COMPOUND 28885 28899	iminosulfonate
+T524	OTHER_COMPOUND 28948 28956	sulfonic
+T525	REACTION_PRODUCT 28987 29032	α-methylolbenzoin perfluoro-n-butanesulfonate
+T526	REACTION_PRODUCT 29034 29077	α-methylolbenzoin trifluoromethanesulfonate
+T527	OTHER_COMPOUND 29083 29134	α-methylolbenzoin 2-trifluoromethylbenzenesulfonate
+T528	OTHER_COMPOUND 29175 29188	sulfonic acid
+T529	OTHER_COMPOUND 29258 29269	sulfonimide
+T530	OTHER_COMPOUND 29289 29331	N-(trifluoromethylsulfonyloxy)succinimide,
+T531	REACTION_PRODUCT 29332 29373	N-(trifluoromethylsulfonyloxy)phthalimide
+T532	STARTING_MATERIAL 29424 29655	N-(trifluoromethylsulfonyloxy)bicyclo[2.2.1]hept-5-ene-2,3-dicarboximide, N-(trifluoromethylsulfonyloxy)-7-oxabicyclo[2.2.1]hept-5-ene-2,3-dicarboximide, N-(trifluoromethylsulfonyloxy)bicyclo[2.2.1]heptane-5,6-oxy-2,3-dicarboximide
+T533	OTHER_COMPOUND 29778 29820	N-(10-camphorsulfonyloxy)diphenylmaleimide
+T534	OTHER_COMPOUND 29966 30038	N-(10-camphorsulfonyloxy)bicyclo[2.2.1]heptane-5,6-oxy-2,3-dicarboximide
+T535	OTHER_COMPOUND 30040 30078	N-(10-camphorsulfonyloxy)naphthylimide
+T536	REACTION_PRODUCT 30122 30444	N-(4-methylphenylsulfonyloxyl)phthalimide, N-(4-methylphenylsulfonyloxy) diphenylmaleimide, N-(4-methylphenylsulfonyloxyl)bicyclo[2.2.1]hept-5-ene-2,3-dicarboximide, N-(4-methylphenylsulfonyloxy)-7-oxabicyclo[2.2.1]hept-5-ene-2,3-dicarboximide, N-(4-methylphenylsulfonyloxyl)bicyclo[2.2.1]heptane-5,6-oxy-2,3-dicarboximide
+T537	REACTION_PRODUCT 30491 30592	N-(2-trifluoromethylphenylsulfonyloxy)succinimide, N-(2-trifluoromethylphenylsulfonyloxyl)phthalimide
+T538	STARTING_MATERIAL 30651 30732	N-(2-trifluoromethylphenylsulfonyloxyl)bicyclo[2.2.1]hept-5-ene-2,3-dicarboximide
+T539	OTHER_COMPOUND 30964 31004	N-(4-fluorophenylsulfonyloxy)succinimide
+T540	OTHER_COMPOUND 31006 31047	N-(4-fluorophenylsulfonyloxyl)phthalimide
+T541	OTHER_COMPOUND 31049 31095	N-(4-fluorophenylsulfonyloxy)diphenylmaleimide
+T542	OTHER_COMPOUND 31171 31248	N-(4-fluorophenylsulfonyloxy)-7-oxabicyclo[2.2.1]hept-5-ene-2,3-dicarboximide
+T543	OTHER_COMPOUND 31250 31327	N-(4-fluorophenylsulfonyloxyl)bicyclo[2.2.1]heptane-5,6-oxy-2,3-dicarboximide
+T544	OTHER_COMPOUND 31333 31376	N-(4-fluorophenylsulfonyloxyl)naphthylimide
+T545	OTHER_COMPOUND 31492 31504	diazomethane
+T546	OTHER_COMPOUND 31524 31564	bis(trifluoromethylsulfonyl)diazomethane
+T547	OTHER_COMPOUND 31566 31601	bis(cyclohexylsulfonyl)diazomethane
+T548	OTHER_COMPOUND 31603 31670	bis(phenylsulfonyl)diazomethane, bis(p-toluenesulfonyl)diazomethane
+T549	OTHER_COMPOUND 31672 31717	methylsulfonyl p-toluenesulfonyl diazomethane
+T550	OTHER_COMPOUND 31719 31778	(cyclohexylsulfonyl)(1,1-dimethylethylsulfonyl)diazomethane
+T551	OTHER_COMPOUND 31784 31826	bis(1,1-dimethylethylsulfonyl)diazomethane
+T552	OTHER_COMPOUND 31867 31879	diazomethane
+T553	OTHER_COMPOUND 32218 32219	B
+T554	OTHER_COMPOUND 32636 32645	initiator
+T555	OTHER_COMPOUND 32785 32799	Photosensitive
+T556	OTHER_COMPOUND 32979 32990	ultraviolet
+T557	OTHER_COMPOUND 33132 33136	azo-
+T558	OTHER_COMPOUND 33155 33161	azobis
+T559	OTHER_COMPOUND 33180 33189	diazonium
+T560	OTHER_COMPOUND 33238 33257	diazonaphthoquinone
+T561	OTHER_COMPOUND 33276 33290	sulfohydrazide
+T562	OTHER_COMPOUND 33307 33316	a hydrazo
+T563	OTHER_COMPOUND 33333 33334	a
+T564	OTHER_COMPOUND 33335 33356	nitrobenzyl carbamate
+T565	REACTION_PRODUCT 33375 33392	benzoin carbamate
+T566	OTHER_COMPOUND 33415 33440	diazomethanesulfonic acid
+T567	OTHER_COMPOUND 33531 33545	carbon dioxide
+T568	OTHER_COMPOUND 33547 33562	carbon monoxide
+T569	OTHER_COMPOUND 33564 33572	nitrogen
+T570	OTHER_COMPOUND 33574 33580	oxygen
+T571	OTHER_COMPOUND 33586 33594	hydrogen
+T572	OTHER_COMPOUND 33631 33645	carbon dioxide
+T573	OTHER_COMPOUND 33649 33657	nitrogen
+T574	OTHER_COMPOUND 33703 33711	nitrogen
+T575	OTHER_COMPOUND 33776 33779	azo
+T576	OTHER_COMPOUND 33799 33805	azobis
+T577	OTHER_COMPOUND 33824 33838	diazonium salt
+T578	OTHER_COMPOUND 33857 33876	diazonaphthoquinone
+T579	OTHER_COMPOUND 33902 33944	2-diazo-1,2-naphthoquinone-5-sulfonic acid
+T580	REACTION_PRODUCT 33973 33994	nitrobenzyl carbamate
+T581	OTHER_COMPOUND 34054 34068	carbon dioxide
+T582	OTHER_COMPOUND 34132 34149	benzoin carbamate
+T583	OTHER_COMPOUND 34264 34278	photosensitive
+T584	OTHER_COMPOUND 34687 34688	C
+T585	OTHER_COMPOUND 34739 34753	alkylene oxide
+T586	OTHER_COMPOUND 35025 35033	alkylene
+T587	OTHER_COMPOUND 35175 35189	ethylene oxide
+T588	OTHER_COMPOUND 35199 35214	propylene oxide
+T589	OTHER_COMPOUND 35228 35242	butylene oxide
+T590	OTHER_COMPOUND 35384 35385	C
+T591	OTHER_COMPOUND 35498 35508	(O—RA—)nYA
+T592	OTHER_COMPOUND 35510 35514	1),[
+T593	OTHER_COMPOUND 35533 35558	[in-line-formulae]RG1-XA—
+T594	OTHER_COMPOUND 35566 35567	—
+T595	OTHER_COMPOUND 35567 35569	XB
+T596	OTHER_COMPOUND 35570 35573	RG1
+T597	OTHER_COMPOUND 35636 35646	(O—RB—)mYB
+T598	OTHER_COMPOUND 35690 35693	RG1
+T599	OTHER_COMPOUND 35824 35827	RG1
+T600	OTHER_COMPOUND 36074 36075	P
+T601	OTHER_COMPOUND 36102 36121	diazonaphthoquinone
+T602	OTHER_COMPOUND 36155 36163	nitrogen
+T603	OTHER_COMPOUND 36218 36219	(
+T604	REACTION_PRODUCT 36235 36256	nitrobenzyl carbamate
+T605	OTHER_COMPOUND 36286 36300	carbon dioxide
+T606	REACTION_PRODUCT 36372 36389	benzoin carbamate
+T607	OTHER_COMPOUND 36419 36433	carbon dioxide
+T608	OTHER_COMPOUND 36506 36511	azide
+T609	OTHER_COMPOUND 36541 36549	nitrogen
+T610	OTHER_COMPOUND 36687 36713	2-diazo-1,2-naphthoquinone
+T611	OTHER_COMPOUND 36898 36904	oxygen
+T612	OTHER_COMPOUND 36913 36924	sulfur atom
+T613	OTHER_COMPOUND 36929 36937	alkylene
+T614	OTHER_COMPOUND 36947 36956	phenylene
+T615	OTHER_COMPOUND 36966 36977	naphthylene
+T616	OTHER_COMPOUND 37019 37028	thioether
+T617	OTHER_COMPOUND 37038 37046	sulfonyl
+T618	OTHER_COMPOUND 37056 37077	secondary amino group
+T619	OTHER_COMPOUND 37081 37101	tertiary amino group
+T620	OTHER_COMPOUND 37121 37129	urethane
+T621	OTHER_COMPOUND 37331 37339	alkylene
+T622	OTHER_COMPOUND 37354 37362	alkylene
+T623	OTHER_COMPOUND 37384 37386	RA
+T624	OTHER_COMPOUND 37419 37433	ethylene group
+T625	OTHER_COMPOUND 37437 37454	n-propylene group
+T626	OTHER_COMPOUND 37459 37476	i-propylene group
+T627	OTHER_COMPOUND 37484 37492	butylene
+T628	OTHER_COMPOUND 37655 37657	YA
+T629	OTHER_COMPOUND 37674 37682	hydrogen
+T630	OTHER_COMPOUND 37691 37698	halogen
+T631	OTHER_COMPOUND 37742 37750	carboxyl
+T632	OTHER_COMPOUND 37760 37771	thiol group
+T633	OTHER_COMPOUND 37775 37788	pyridyl group
+T634	OTHER_COMPOUND 37813 37818	sulfo
+T635	OTHER_COMPOUND 37965 37968	RG1
+T636	OTHER_COMPOUND 37973 37977	RG1′
+T637	OTHER_COMPOUND 38188 38191	RG1
+T638	OTHER_COMPOUND 38470 38476	oxygen
+T639	OTHER_COMPOUND 38485 38491	sulfur
+T640	OTHER_COMPOUND 38519 38534	phenylene group
+T641	OTHER_COMPOUND 38538 38549	naphthylene
+T642	OTHER_COMPOUND 38591 38600	thioether
+T643	OTHER_COMPOUND 38610 38618	sulfonyl
+T644	OTHER_COMPOUND 38653 38661	tertiary
+T645	OTHER_COMPOUND 38662 38667	amino
+T646	OTHER_COMPOUND 38693 38707	urethane group
+T647	OTHER_COMPOUND 38976 38984	alkylene
+T648	OTHER_COMPOUND 39022 39030	alkylene
+T649	OTHER_COMPOUND 39052 39054	RA
+T650	OTHER_COMPOUND 39072 39080	ethylene
+T651	OTHER_COMPOUND 39090 39107	n-propylene group
+T652	OTHER_COMPOUND 39112 39129	i-propylene group
+T653	OTHER_COMPOUND 39137 39145	butylene
+T654	OTHER_COMPOUND 39292 39295	RG2
+T655	OTHER_COMPOUND 39424 39427	RG2
+T656	OTHER_COMPOUND 39539 39541	XA
+T657	OTHER_COMPOUND 39546 39548	XB
+T658	OTHER_COMPOUND 39731 39737	azobis
+T659	OTHER_COMPOUND 39767 39775	nitrogen
+T660	OTHER_COMPOUND 39847 39873	diazomethane sulfonic acid
+T661	OTHER_COMPOUND 39903 39911	nitrogen
+T662	OTHER_COMPOUND 39953 39955	RA
+T663	OTHER_COMPOUND 39981 39989	alkylene
+T664	OTHER_COMPOUND 40085 40099	ethylene group
+T665	OTHER_COMPOUND 40103 40120	n-propylene group
+T666	OTHER_COMPOUND 40125 40142	i-propylene group
+T667	OTHER_COMPOUND 40150 40158	butylene
+T668	OTHER_COMPOUND 40196 40198	RA
+T669	OTHER_COMPOUND 40276 40278	XA
+T670	OTHER_COMPOUND 40283 40285	XB
+T671	OTHER_COMPOUND 40438 40449	oxygen atom
+T672	OTHER_COMPOUND 40453 40459	sulfur
+T673	OTHER_COMPOUND 40469 40477	alkylene
+T674	OTHER_COMPOUND 40506 40517	naphthylene
+T675	OTHER_COMPOUND 40544 40549	ether
+T676	OTHER_COMPOUND 40596 40611	secondary amino
+T677	OTHER_COMPOUND 40636 40641	group
+T678	OTHER_COMPOUND 40661 40675	urethane group
+T679	OTHER_COMPOUND 40847 40849	XA
+T680	OTHER_COMPOUND 40854 40856	XB
+T681	OTHER_COMPOUND 41054 41056	YB
+T682	OTHER_COMPOUND 41073 41081	hydrogen
+T683	OTHER_COMPOUND 41090 41097	halogen
+T684	OTHER_COMPOUND 41123 41131	hydroxyl
+T685	OTHER_COMPOUND 41141 41155	carboxyl group
+T686	OTHER_COMPOUND 41159 41170	thiol group
+T687	OTHER_COMPOUND 41174 41181	pyridyl
+T688	OTHER_COMPOUND 41212 41223	sulfo group
+T689	OTHER_COMPOUND 41663 41677	photosensitive
+T690	OTHER_COMPOUND 41729 41730	C
+T691	OTHER_COMPOUND 41791 41792	A
+T692	OTHER_COMPOUND 41866 41867	C
+T693	OTHER_COMPOUND 42044 42062	photosensitive gas
+T694	OTHER_COMPOUND 42110 42111	C
+T695	OTHER_COMPOUND 42855 42869	photosensitive
+T696	OTHER_COMPOUND 43213 43214	C
+T697	REACTION_PRODUCT 43344 43439	hexa(ethylene oxide)monomethyl ether 12-(2-diazo-1,2-naphthoquinone-5-sulfonylamino)dodecanoate
+T698	OTHER_COMPOUND 43699 43700	A
+T699	OTHER_COMPOUND 44582 44583	A
+T700	OTHER_COMPOUND 44641 44651	Surfactant
+T701	OTHER_COMPOUND 44664 44665	D
+T702	OTHER_COMPOUND 44815 44825	surfactant
+T703	OTHER_COMPOUND 44838 44839	D
+T704	OTHER_COMPOUND 44862 44872	surfactant
+T705	OTHER_COMPOUND 44874 44875	D
+T706	OTHER_COMPOUND 44971 44982	fluorinated
+T707	OTHER_COMPOUND 44983 44993	surfactant
+T708	OTHER_COMPOUND 45024 45025	D
+T709	OTHER_COMPOUND 45132 45138	resist
+T710	OTHER_COMPOUND 45437 45463	[in-line-formulae]Rf1-Rc-X
+T711	OTHER_COMPOUND 45507 45510	Rf1
+T712	OTHER_COMPOUND 45598 45606	fluorine
+T713	OTHER_COMPOUND 45654 45662	fluorine
+T714	OTHER_COMPOUND 45700 45703	Rf1
+T715	OTHER_COMPOUND 45724 45730	oxygen
+T716	OTHER_COMPOUND 45835 45838	Rf1
+T717	OTHER_COMPOUND 45855 45869	perfluoroalkyl
+T718	OTHER_COMPOUND 45882 45900	perfluoropolyether
+T719	OTHER_COMPOUND 46082 46101	poly(alkylene oxide
+T720	OTHER_COMPOUND 46114 46133	poly(ethylene oxide
+T721	OTHER_COMPOUND 46140 46160	poly(propylene oxide
+T722	OTHER_COMPOUND 46170 46178	alkylene
+T723	OTHER_COMPOUND 46348 46356	hydroxyl
+T724	OTHER_COMPOUND 46366 46374	carboxyl
+T725	OTHER_COMPOUND 46384 46395	sulfo group
+T726	OTHER_COMPOUND 46419 46425	alkoxy
+T727	OTHER_COMPOUND 46512 46523	fluorinated
+T728	OTHER_COMPOUND 46524 46535	surfactants
+T729	OTHER_COMPOUND 46739 46749	surfactant
+T730	OTHER_COMPOUND 46780 46781	D
+T731	OTHER_COMPOUND 46863 46864	A
+T732	OTHER_COMPOUND 47529 47530	D
+T733	OTHER_COMPOUND 47685 47686	A
+T734	OTHER_COMPOUND 47744 47758	photosensitive
+T735	OTHER_COMPOUND 48236 48244	hydrogen
+T736	OTHER_COMPOUND 48294 48302	hydrogen
+T737	OTHER_COMPOUND 48435 48436	B
+T738	REAGENT_CATALYST 48551 48565	hydrogen donor
+T739	OTHER_COMPOUND 48653 48662	initiator
+T740	OTHER_COMPOUND 48694 48702	hydrogen
+T741	OTHER_COMPOUND 48719 48724	amine
+T742	OTHER_COMPOUND 48744 48795	N-butylamine, di-n-butylamine, tri-n-butylphosphine
+T743	OTHER_COMPOUND 48797 48810	allylthiourea
+T744	OTHER_COMPOUND 48812 48853	s-benzyl isothiuronium-p-toluenesulfinate
+T745	OTHER_COMPOUND 48855 48868	triethylamine
+T746	OTHER_COMPOUND 48870 48900	diethylaminoethyl methacrylate
+T747	OTHER_COMPOUND 48902 48922	triethylenetetramine
+T748	STARTING_MATERIAL 48924 48989	4,4′-bis(dialkylamino)benzophenone, N,N-dimethylaminobenzoic acid
+T749	STARTING_MATERIAL 49003 49046	N,N-dimethylaminobenzoic acid isoamyl ester
+T750	OTHER_COMPOUND 49082 49097	triethanolamine
+T751	OTHER_COMPOUND 49103 49118	N-phenylglycine
+T752	OTHER_COMPOUND 49124 49132	mercapto
+T753	OTHER_COMPOUND 49152 49185	2-mercapto-N-phenylbenzoimidazole
+T754	OTHER_COMPOUND 49190 49212	mercaptopropionic acid
+T755	OTHER_COMPOUND 49704 49705	B
+T756	OTHER_COMPOUND 49767 49777	anthracene
+T757	OTHER_COMPOUND 49793 49806	anthraquinone
+T758	OTHER_COMPOUND 49821 49827	pyrene
+T759	OTHER_COMPOUND 49842 49850	perylene
+T760	OTHER_COMPOUND 49865 49874	carbazole
+T761	OTHER_COMPOUND 49889 49901	benzophenone
+T762	OTHER_COMPOUND 49916 49928	thioxanthone
+T763	OTHER_COMPOUND 49943 49962	xanthone derivative
+T764	OTHER_COMPOUND 49989 50002	phenothiazine
+T765	OTHER_COMPOUND 50017 50031	camphorquinone
+T766	OTHER_COMPOUND 50047 50055	acridine
+T767	OTHER_COMPOUND 50105 50114	quinoline
+T768	OTHER_COMPOUND 50145 50161	ketocoumarin dye
+T769	OTHER_COMPOUND 50165 50181	thioxanthene dye
+T770	OTHER_COMPOUND 50202 50208	oxonol
+T771	OTHER_COMPOUND 50252 50265	pyrylium salt
+T772	OTHER_COMPOUND 50594 50595	A
+T773	OTHER_COMPOUND 50939 50949	sensitizer
+T774	TEMPERATURE 51490 51506	0° C. to 100° C.
+T775	TEMPERATURE 51639 51644	23° C
+T776	TEMPERATURE 51714 51718	1 to
+T777	TEMPERATURE 51743 51747	5 to
+T778	TEMPERATURE 52165 52166	1
+T779	TEMPERATURE 52562 52567	23° C
+T780	TEMPERATURE 52644 52649	70 mN
+T781	OTHER_COMPOUND 54006 54024	polyethylene resin
+T782	OTHER_COMPOUND 54035 54048	polypropylene
+T783	OTHER_COMPOUND 54096 54101	nylon
+T784	OTHER_COMPOUND 54352 54357	metal
+T785	OTHER_COMPOUND 54537 54542	metal
+T786	OTHER_COMPOUND 55954 55960	quartz
+T787	OTHER_COMPOUND 55962 55968	Quartz
+T788	OTHER_COMPOUND 56036 56050	ethylene oxide
+T789	OTHER_COMPOUND 56054 56069	propylene oxide
+T790	OTHER_COMPOUND 56076 56090	hydroxyl group
+T791	OTHER_COMPOUND 56135 56145	surfactant
+T792	OTHER_COMPOUND 56176 56177	D
+T793	OTHER_COMPOUND 56813 56815	12
+T794	OTHER_COMPOUND 57063 57069	detail
+T795	OTHER_COMPOUND 57389 57402	silicon wafer
+T796	OTHER_COMPOUND 57471 57478	silicon
+T797	OTHER_COMPOUND 57558 57566	aluminum
+T798	OTHER_COMPOUND 57570 57587	titanium-tungsten
+T799	OTHER_COMPOUND 57598 57620	aluminum-silicon alloy
+T800	OTHER_COMPOUND 57625 57654	aluminum-copper-silicon alloy
+T801	OTHER_COMPOUND 57656 57669	silicon oxide
+T802	OTHER_COMPOUND 57675 57690	silicon nitride
+T803	OTHER_COMPOUND 57923 57929	silane
+T804	OTHER_COMPOUND 57952 57960	silazane
+T805	OTHER_COMPOUND 58294 58298	wire
+T806	OTHER_COMPOUND 59435 59441	quartz
+T807	OTHER_COMPOUND 59483 59487	PMMA
+T808	OTHER_COMPOUND 59493 59506	polycarbonate
+T809	OTHER_COMPOUND 59577 59599	poly(dimethyl siloxane
+T810	OTHER_COMPOUND 59632 59637	metal
+T811	OTHER_COMPOUND 59967 59968	3
+T812	OTHER_COMPOUND 60275 60283	silicone
+T813	OTHER_COMPOUND 60312 60320	fluorine
+T814	OTHER_COMPOUND 60349 60361	polyethylene
+T815	OTHER_COMPOUND 60390 60403	polypropylene
+T816	OTHER_COMPOUND 60432 60440	paraffin
+T817	OTHER_COMPOUND 60469 60475	montan
+T818	OTHER_COMPOUND 60521 60524	wax
+T819	OTHER_COMPOUND 60646 60656	OPTOOL DSX
+T820	OTHER_COMPOUND 60673 60679	Daikin
+T821	OTHER_COMPOUND 60886 60897	fluorinated
+T822	TEMPERATURE 61309 61315	30 MPa
+T823	TIME 61530 61531	1
+T824	TIME 61559 61560	1
+T825	TIME 61564 61575	300 seconds
+T826	TIME 61593 61594	1
+T827	TIME 61598 61609	180 seconds
+T828	TIME 61636 61637	1
+T829	TIME 61641 61652	120 seconds
+T830	OTHER_COMPOUND 61815 61821	oxygen
+T831	OTHER_COMPOUND 62072 62080	nitrogen
+T832	OTHER_COMPOUND 62082 62096	carbon dioxide
+T833	OTHER_COMPOUND 62098 62104	helium
+T834	OTHER_COMPOUND 62106 62111	argon
+T835	OTHER_COMPOUND 62378 62384	oxygen
+T836	OTHER_COMPOUND 62664 62666	11
+T837	OTHER_COMPOUND 62729 62731	12
+T838	OTHER_COMPOUND 62869 62870	A
+T839	OTHER_COMPOUND 63232 63233	A
+T840	OTHER_COMPOUND 63881 63883	12
+T841	OTHER_COMPOUND 64706 64713	mercury
+T842	OTHER_COMPOUND 64743 64750	mercury
+T843	OTHER_COMPOUND 64772 64779	mercury
+T844	OTHER_COMPOUND 64804 64811	carbon-
+T845	OTHER_COMPOUND 64840 64852	metal halide
+T846	OTHER_COMPOUND 64861 64866	xenon
+T847	OTHER_COMPOUND 64875 64878	KrF
+T848	OTHER_COMPOUND 64897 64900	ArF
+T849	OTHER_COMPOUND 64981 64988	mercury
+T850	OTHER_COMPOUND 65203 65204	1
+T851	TEMPERATURE 65609 65626	40° C. to 200° C.
+T852	OTHER_COMPOUND 65969 65970	2
+T853	OTHER_COMPOUND 66231 66233	12
+T854	EXAMPLE_LABEL 66875 66879	1(e)
+T855	OTHER_COMPOUND 67974 67980	oxygen
+T856	OTHER_COMPOUND 67995 67997	O2
+T857	OTHER_COMPOUND 67999 68001	CO
+T858	OTHER_COMPOUND 68006 68009	CO2
+T859	OTHER_COMPOUND 68033 68035	He
+T860	OTHER_COMPOUND 68037 68039	N2
+T861	OTHER_COMPOUND 68044 68046	Ar
+T862	OTHER_COMPOUND 68050 68058	chlorine
+T863	OTHER_COMPOUND 68072 68075	Cl2
+T864	OTHER_COMPOUND 68079 68083	BCl3
+T865	OTHER_COMPOUND 68104 68106	H2
+T866	OTHER_COMPOUND 68110 68113	NH3
+T867	OTHER_COMPOUND 68288 68290	12
+T868	OTHER_COMPOUND 68410 68411	3
+T869	OTHER_COMPOUND 68535 68544	substrate
+T870	OTHER_COMPOUND 68768 68770	12
+T871	OTHER_COMPOUND 69276 69279	LSI
+T872	OTHER_COMPOUND 69297 69301	DRAM
+T873	OTHER_COMPOUND 69305 69310	SDRAM
+T874	OTHER_COMPOUND 69314 69319	RDRAM
+T875	OTHER_COMPOUND 69326 69333	D-RDRAM
+T876	OTHER_COMPOUND 69373 69375	12
+T877	OTHER_COMPOUND 69479 69481	12
+T878	OTHER_COMPOUND 69758 69760	12
+T879	EXAMPLE_LABEL 70641 70642	1
+T880	REACTION_PRODUCT 70656 70692	Hexa(Ethylene Oxide)Monomethyl Ether
+T881	REACTION_PRODUCT 70693 70751	12-(2-Diazo-1,2-Naphthoquinone-5-Sulfonylamino)Dodecanoate
+T882	REACTION_PRODUCT 70753 70759	NIT-29
+T883	REACTION_PRODUCT 70761 70856	Hexa(ethylene oxide)monomethyl ether 12-(2-diazo-1,2-naphthoquinone-5-sulfonylamino)dodecanoate
+T884	REACTION_PRODUCT 70858 70864	NIT-29
+T885	YIELD_PERCENT 70996 70999	86%
+T886	EXAMPLE_LABEL 71009 71010	1
+T887	OTHER_COMPOUND 71078 71079	B
+T888	OTHER_COMPOUND 71083 71084	C
+T889	EXAMPLE_LABEL 71146 71149	1-1
+T890	REACTION_PRODUCT 71200 71218	isobornyl acrylate
+T891	STARTING_MATERIAL 71232 71237	IB-XA
+T892	REACTION_PRODUCT 71312 71364	(2-methyl-2-ethyl-1,3-dioxolane-4-yl)methyl acrylate
+T893	STARTING_MATERIAL 71378 71386	MEDOL-10
+T894	STARTING_MATERIAL 71468 71489	hexanediol diacrylate
+T895	OTHER_COMPOUND 71610 71611	B
+T896	REAGENT_CATALYST 71631 71639	Irgacure
+T897	REACTION_PRODUCT 71781 71845	Pentadeca(ethylene glycol) mono-1H,1H,2H,2H-perfluorooctyl ether
+T898	REACTION_PRODUCT 71847 71848	F
+T899	REACTION_PRODUCT 71849 71861	(CF2)6CH2CH2
+T900	OTHER_COMPOUND 72007 72019	polyethylene
+T901	OTHER_COMPOUND 72104 72107	a-1
+T902	OTHER_COMPOUND 72254 72257	a-1
+T903	OTHER_COMPOUND 72327 72340	silicon wafer
+T904	OTHER_COMPOUND 72640 72653	silicon wafer
+T905	OTHER_COMPOUND 72723 72726	a-1
+T906	TIME 72793 72803	30 seconds
+T907	OTHER_COMPOUND 72924 72926	UV
+T908	OTHER_COMPOUND 72945 72951	quartz
+T909	OTHER_COMPOUND 73136 73143	mercury
+T910	OTHER_COMPOUND 73552 73558	quartz
+T911	TIME 73598 73608	60 seconds
+T912	EXAMPLE_LABEL 73701 73702	3
+T913	EXAMPLE_LABEL 74073 74076	4-1
+T914	OTHER_COMPOUND 74539 74542	b-2
+T915	EXAMPLE_LABEL 74968 74969	2
+T916	REACTION_PRODUCT 74998 75001	a-2
+T917	OTHER_COMPOUND 75107 75113	NIT-40
+T918	OTHER_COMPOUND 75178 75179	C
+T919	OTHER_COMPOUND 75244 75246	UV
+T920	OTHER_COMPOUND 75349 75352	a-2
+T921	OTHER_COMPOUND 75410 75413	a-1
+T922	TIME 75605 75608	240
+T923	TIME 75677 75688	240 seconds
+T924	EXAMPLE_LABEL 75983 75984	3
+T925	REACTION_PRODUCT 76013 76016	a-3
+T926	OTHER_COMPOUND 76122 76128	NIT-42
+T927	OTHER_COMPOUND 76193 76194	C
+T928	OTHER_COMPOUND 76259 76266	UV rays
+T929	OTHER_COMPOUND 76364 76367	a-3
+T930	OTHER_COMPOUND 76425 76428	a-1
+T931	OTHER_COMPOUND 76574 76580	quartz
+T932	TIME 76620 76631	240 seconds
+T933	EXAMPLE_LABEL 77010 77011	1
+T934	REACTION_PRODUCT 77040 77043	b−1
+T935	STARTING_MATERIAL 77146 77188	2-diazo-1,2-naphthoquinone-5-sulfonic acid
+T936	OTHER_COMPOUND 77189 77203	p-cresol ester
+T937	OTHER_COMPOUND 77205 77209	PC-5
+T938	OTHER_COMPOUND 77424 77427	b-1
+T939	OTHER_COMPOUND 77485 77488	a-1
+T940	TIME 77621 77632	600 seconds
+T941	OTHER_COMPOUND 77935 77938	b-2
+T942	STARTING_MATERIAL 78042 78084	2,2′-azobis-(N-butyl-2-methylpropionamide)
+T943	OTHER_COMPOUND 78086 78093	VAm-110
+T944	OTHER_COMPOUND 78175 78176	C
+T945	OTHER_COMPOUND 78324 78327	b-2
+T946	OTHER_COMPOUND 78385 78388	a-1
+T947	TIME 78503 78514	600 seconds
+T948	TIME 78876 78887	600 seconds
+T949	EXAMPLE_LABEL 79056 79057	3
+T950	OTHER_COMPOUND 79133 79135	UV
+T951	TIME 79145 79156	240 seconds
+T952	EXAMPLE_LABEL 79493 79494	4
+T953	OTHER_COMPOUND 79523 79526	b-4
+T954	OTHER_COMPOUND 79623 79624	D
+T955	TIME 79702 79713	240 seconds
+T956	EXAMPLE_LABEL 80548 80549	1
+T957	OTHER_COMPOUND 81038 81052	alkylene oxide
+T958	OTHER_COMPOUND 81318 81324	RG1-XA
+T959	OTHER_COMPOUND 81365 81368	RG1
+T960	OTHER_COMPOUND 81501 81503	RA
+T961	OTHER_COMPOUND 81517 81534	divalent alkylene
+T962	OTHER_COMPOUND 81793 81799	RG1-XA
+T963	OTHER_COMPOUND 81809 81811	XB
+T964	OTHER_COMPOUND 81846 81849	RG1
+T965	OTHER_COMPOUND 81854 81858	RG1′
+T966	OTHER_COMPOUND 82158 82166	alkylene
+T967	OTHER_COMPOUND 82380 82390	YA(—RA—O)n
+T968	OTHER_COMPOUND 82391 82393	XA
+T969	OTHER_COMPOUND 82441 82444	RG2
+T970	OTHER_COMPOUND 82540 82542	RA
+T971	EXAMPLE_LABEL 82923 82924	5
+T972	OTHER_COMPOUND 82989 83003	alkylene oxide
+T973	OTHER_COMPOUND 83016 83030	ethylene oxide
+T974	EXAMPLE_LABEL 83038 83039	6
+T975	REACTION_PRODUCT 83151 83177	2-diazo-1,2-naphthoquinone
+T976	OTHER_COMPOUND 83411 83416	alkyl
+T977	EXAMPLE_LABEL 83538 83539	8
+T978	EXAMPLE_LABEL 83891 83892	9
+T979	OTHER_COMPOUND 83978 83988	surfactant
+T980	OTHER_COMPOUND 84076 84090	photosensitive
+T981	OTHER_COMPOUND 84221 84232	fluorinated
+T982	OTHER_COMPOUND 84233 84243	surfactant
+T983	EXAMPLE_LABEL 84982 84984	13
+T984	OTHER_COMPOUND 85131 85137	quartz
+T985	EXAMPLE_LABEL 85320 85322	15

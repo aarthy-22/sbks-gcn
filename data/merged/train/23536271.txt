@@ -1,0 +1,7 @@
+β-Ionone arrests cell cycle of gastric carcinoma cancer cells by a MAPK pathway.
+β-Ionone is an end ring analog of β-carotenoid which has been shown to possess potent anti-proliferative activity both in vitro and in vivo.
+To investigate the possible inhibitory effects of β-ionone, we studied cell growth characteristics, DNA synthesis, cell cycle progression, as well as mitogen-activated protein kinases (MAPKs) pathways in the human gastric adenocarcinoma cancer cell line (SGC-7901).
+Our results show that cell growth and DNA synthesis were inhibited, and the cell cycle was arrested at the G0/G1 phase in a dose-dependent manner in cells treated with β-ionone (25, 50, 100 and 200 μmol/L) for 24 h. We found that the β-ionone significantly decreased the extracellular signal-regulated kinase protein expression and significantly increased the levels of p38 and Jun-amino-terminal kinase protein expression (P < 0.01).
+β-Ionone also inhibited cell cycle-related proteins of Cdk4, Cyclin B1, D1 and increased p27 protein expression in SGC-7901 cells.
+These results suggested that the cell cycle arrest observed may be regulated through a MAPK pathway by transcriptional down-regulation of cell cycle proteins.
+These results demonstrate potent ability of β-ionone to arrest cell cycle of SGC-7901 cells and decrease proliferation.

@@ -1,0 +1,14 @@
+High-dose methotrexate in pediatric acute lymphoblastic leukemia: impact of ABCC2 polymorphisms on plasma concentrations.
+OBJECTIVE: The adenosine triphosphate-binding cassette (ABC) class transporter ABCC2 (MRP2 [multidrug resistance related protein 2] or cMOAT [canalicular multispecific organic anion transporter]) is involved in the cellular outward transport and elimination of methotrexate.
+We hypothesized that common genetic variations may contribute to the variability of high-dose methotrexate pharmacokinetics.
+METHODS: Polymorphisms in all 32 exons of the ABCC2 gene were analyzed in a reference group of 59 healthy white subjects by polymerase chain reaction, single-strand conformation polymorphism, and sequencing.
+Subsequently, we assessed the association of polymorphisms with the methotrexate plasma concentrations in 44 pediatric patients with acute lymphoblastic leukemia (ALL) (29 male and 15 female patients; mean age, 6.8+/-4.8 years).
+Patients received 4 cycles of 5000 mg/m2 body surface area according to the ALL-Berlin-Frankfurt-Muenster (BFM) 95 or ALL-BFM 2000 protocol.
+RESULTS: In the reference group we detected 8 frequent single-nucleotide polymorphisms.
+Five of these were in complete linkage disequilibrium.
+Overall, 5 new polymorphisms are described.
+The genotype distribution of the patient cohort was not significantly different from the reference collective.
+The mean plasma methotrexate area under the curve from 36 to 48 hours after the start of the infusion was significantly 2-fold higher in female patients carrying at least 1 -24T allele as compared with all other patients (14.2+/-12.8 h.micromol/L versus 6.9+/-4.2 h.micromol/L, P<.001).
+The risk to have 2 or more cycles necessitating an intensification of folinate rescue was 9-fold (95% confidence interval, 1.8- to 44-fold) in female patients carrying at least 1 T allele (P=.0067).
+CONCLUSION: The data suggest a hitherto unknown gender-specific impact of the -24C>T ABCC2 gene polymorphism on high-dose methotrexate pharmacokinetics.
+Whereas a nonfunctional MRP2 variant has been described in a patient with severe impairment of methotrexate excretion, our study is the first to suggest that a frequent ABCC2 polymorphism contributes to variability of methotrexate kinetics.

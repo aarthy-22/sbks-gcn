@@ -1,0 +1,38 @@
+T20	CHEMICAL 19 41	11 beta hydroxysteroid
+T35	GENE-Y 19 55	11 beta hydroxysteroid dehydrogenase
+T34	GENE-N 133 146	dehydrogenase
+T10	CHEMICAL 169 191	11 beta hydroxysteroid
+T27	GENE-Y 169 205	11 beta hydroxysteroid dehydrogenase
+T28	GENE-Y 207 218	11 beta HSD
+T6	CHEMICAL 307 314	steroid
+T9	CHEMICAL 380 410	11 beta-hydroxyandrostenedione
+T11	CHEMICAL 497 510	Carbenoxolone
+T12	CHEMICAL 561 576	androstenedione
+T13	CHEMICAL 633 663	11 beta-hydroxyandrostenedione
+T14	CHEMICAL 668 701	nicotinamide-adenine dinucleotide
+T15	CHEMICAL 703 706	NAD
+T29	GENE-N 763 776	dehydrogenase
+T16	CHEMICAL 804 847	nicotinamide-adenine dinucleotide phosphate
+T17	CHEMICAL 849 853	NADP
+T18	CHEMICAL 865 887	11 beta hydroxysteroid
+T30	GENE-Y 865 901	11 beta hydroxysteroid dehydrogenase
+T31	GENE-Y 975 987	11 beta HSD2
+T19	CHEMICAL 1015 1019	NADP
+T32	GENE-Y 1030 1041	11 beta HSD
+T33	GENE-Y 1076 1088	11 beta HSD2
+T21	GENE-Y 1184 1195	11 beta HSD
+T22	GENE-Y 1219 1231	11 beta HSD2
+T23	GENE-Y 1311 1323	11 beta HSD2
+T24	GENE-Y 1345 1371	mineralocorticoid receptor
+T1	CHEMICAL 1412 1420	cortisol
+T2	CHEMICAL 1424 1438	corticosterone
+T3	CHEMICAL 1464 1467	NAD
+T4	CHEMICAL 1471 1475	NADP
+T5	CHEMICAL 1536 1559	11 beta androstenedione
+T7	CHEMICAL 1579 1598	deoxycorticosterone
+T25	GENE-N 1685 1697	20 reductase
+T8	CHEMICAL 1829 1851	11 beta hydroxysteroid
+T26	GENE-Y 1829 1865	11 beta hydroxysteroid dehydrogenase
+R0	NOT Arg1:T27 Arg2:T6
+R1	NOT Arg1:T29 Arg2:T17
+R2	NOT Arg1:T29 Arg2:T18

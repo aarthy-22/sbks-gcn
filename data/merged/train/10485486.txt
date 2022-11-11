@@ -1,0 +1,10 @@
+Inhibition of ATM and ATR kinase activities by the radiosensitizing agent, caffeine.
+Caffeine exposure sensitizes tumor cells to ionizing radiation and other genotoxic agents.
+The radiosensitizing effects of caffeine are associated with the disruption of multiple DNA damage-responsive cell cycle checkpoints.
+The similarity of these checkpoint defects to those seen in ataxia-telangiectasia (A-T) suggested that caffeine might inhibit one or more components in an A-T mutated (ATM)-dependent checkpoint pathway in DNA-damaged cells.
+We now show that caffeine inhibits the catalytic activity of both ATM and the related kinase, ATM and Rad3-related (ATR), at drug concentrations similar to those that induce radiosensitization.
+Moreover, like ATM-deficient cells, caffeine-treated A549 lung carcinoma cells irradiated in G2 fail to arrest progression into mitosis, and S-phase-irradiated cells exhibit radioresistant DNA synthesis.
+Similar concentrations of caffeine also inhibit gamma- and UV radiation-induced phosphorylation of p53 on Ser15, a modification that may be directly mediated by the ATM and ATR kinases.
+DNA-dependent protein kinase, another ATM-related protein involved in DNA damage repair, was resistant to the inhibitory effects of caffeine.
+Likewise, the catalytic activity of the G2 checkpoint kinase, hChk1, was only marginally suppressed by caffeine but was inhibited potently by the structurally distinct radiosensitizer, UCN-01.
+These data suggest that the radiosensitizing effects of caffeine are related to inhibition of the protein kinase activities of ATM and ATR and that both proteins are relevant targets for the development of novel anticancer agents.

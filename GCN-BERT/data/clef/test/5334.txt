@@ -1,0 +1,5 @@
+Example 56
+(2S,3S,4S,5S)-3-(bicyclo[1.1.1]pentan-1-yl)-1-(cyclohexanecarbonyl)-4-({[2-hydroxy-5-(trifluoromethyl)phenyl]methyl}amino)-5-phenylpyrrolidine-2-carboxylic acid
+Example 56A
+bicyclo[1.1.1]pentan-1-ylmethanol
+To a solution of bicyclo[1.1.1]pentane-1-carboxylic acid (4.0 g, 35.7 mmol) in tetrahydrofuran (89 mL) at 0° C. was added lithium aluminum hydride (1.801 g, 47.4 mmol) in portions and the reaction bubbled vigorously. The reaction was warmed to 24° C. and was stirred for 16 hours. The reaction was cooled in an ice bath and 4 g of sodium sulfate decahydrate was added in portions and the reaction was stirred for 1 hour. Then 15% aqueous NaOH solution (2 mL) was added. The mixture was stirred for 0.5 hour, 2 mL water was added, and ice-bath was removed. The mixture was stirred for 2 hours, and dried with 40 g anhydrous sodium sulfate. The suspension was filtered and the filtrate was washed with ether. The solvent was removed in vacuo to give crude bicyclo[1.1.1]pentan-1-ylmethanol (3.2 g, 32.6 mmol, 91% yield).

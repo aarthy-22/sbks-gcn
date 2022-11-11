@@ -1,0 +1,9 @@
+Apoptotic cell death in rat epididymis following epichlorohydrin treatment.
+Epichlorohydrin (ECH) is an antifertility agent that acts both as an epididymal toxicant and an agent capable of directly affecting sperm motility.
+This study identified the time course of apoptotic cell death in rat epididymides after ECH treatment.
+Rats were administrated with a single oral dose of ECH (50 mg/kg).
+ECH-induced apoptotic changes were evaluated by terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) assay and its related mechanism was confirmed by Western blot analysis and colorimetric assay.
+The TUNEL assay showed that the number of apoptotic cells increased at 8 h, reached a maximum level at 12 h, and then decreased progressively.
+The Western blot analysis demonstrated no significant changes in proapoptotic Bcl-2-associated X (Bax) and anti-apoptotic Bcl-2 expression during the time course of the study.
+However, phospho-p38 mitogen-activated protein kinase (p-p38 MAPK) and phospho-c-Jun amino-terminal kinase (p-JNK) expression increased at 8-24 h. Caspase-3 and caspase-8 activities also increased at 8-48 h and 12-48 h, respectively, in the same manner as p-p38 MAPK and p-JNK expression.
+These results indicate that ECH induced apoptotic changes in rat epididymides and that the apoptotic cell death may be related more to the MAPK pathway than to the mitochondrial pathway.

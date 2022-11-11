@@ -1,0 +1,7 @@
+Thyroid hormone receptor alpha is a molecular switch of cardiac function between fetal and postnatal life.
+Thyroid hormones are involved in the regulation of many physiological processes and regulate gene transcription by binding to their nuclear receptors TRalpha and TRbeta.
+In the absence of triiodothyronine (T3), the unliganded receptors (aporeceptors) do bind DNA and repress the transcription of target genes.
+The role of thyroid hormone aporeceptors as repressors was observed in hypothyroid adult mice, but its physiological relevance in nonpathological hypothyroid conditions remained to be determined.
+Here we show that, in the normal mouse fetus, TRalpha aporeceptors repress heart rate as well as the expression of TRbeta and several genes encoding ion channels involved in cardiac contractile activity.
+Right after birth, when T3 concentration sharply increases, liganded TRalpha (holoreceptors) turn on the expression of some of these same genes concomitantly with heart rate increase.
+These data describe a physiological situation under which conversion of TRalpha from apo-receptors into holo-receptors, upon changes in T3 availability, plays a determinant role in a developmental process.

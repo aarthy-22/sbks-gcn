@@ -1,0 +1,21 @@
+T20	GENE-Y 0 16	Cyclooxygenase-1
+T16	CHEMICAL 53 61	diazepam
+T17	GENE-Y 103 119	Cyclooxygenase-1
+T18	GENE-Y 121 126	COX-1
+T12	CHEMICAL 164 182	valeryl salicylate
+T1	CHEMICAL 234 241	aspirin
+T2	CHEMICAL 243 252	ibuprofen
+T3	CHEMICAL 254 266	indomethacin
+T4	CHEMICAL 272 282	picroxicam
+T5	CHEMICAL 357 365	diazepam
+T6	CHEMICAL 405 421	arachidonic acid
+T7	CHEMICAL 459 467	diazepam
+T8	CHEMICAL 523 539	arachidonic acid
+T9	CHEMICAL 557 564	aspirin
+T10	CHEMICAL 575 582	aspirin
+T11	CHEMICAL 629 637	diazepam
+T19	GENE-N 746 749	COX
+T13	CHEMICAL 772 786	prostaglandins
+T14	CHEMICAL 849 857	diazepam
+T15	CHEMICAL 947 962	benzodiazepines
+R0	NOT Arg1:T20 Arg2:T16

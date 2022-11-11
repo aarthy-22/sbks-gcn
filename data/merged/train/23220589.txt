@@ -1,0 +1,13 @@
+In vitro investigation of efficacy of new reactivators on OPC inhibited rat brain acetylcholinesterase.
+Organophosphorus compounds (OPC) were developed as warfare nerve agents.
+They are also widely used as pesticides.
+The drug therapy of intoxication with OPC includes mainly combination of cholinesterase (ChE) reactivators and cholinolytics.
+There is no single ChE reactivator having an ability to reactivate sufficiently the inhibited enzyme due to the high variability of chemical structure of the inhibitors.
+The difficulties in reactivation of ChE activity and slight antidote effect regarding intoxication with some OPC are some of the reasons for continuous efforts to obtain new reactivators of ChE. The aim of the present study was to evaluate the efficacy of some ChE reactivators against OPC intoxication (tabun, paraoxon and dichlorvos) in in vitro experiments and to compare their activity to that known for some currently used oximes (obidoxime, HI-6, 2-PAM).
+Experiments were carried out using rat brain acetylcholinesterase (AChE).
+Reactivators showed different activity in the reactivation of rat brain AChE after dichlorvos, paraoxon and tabun inhibition.
+AChE was easier reactivated after paraoxon treatment.
+The best effect showed BT-07-4M, obidoxime, TMB-4 and BT-08 from the group of symmetric oximes, and Toxidin, BT-05 and BT-03 from asymmetric compounds.
+The reactivation of brain AChE inhibited with tabun demonstrated better activity of new compound BT-07-4M, TMB-4 and obidoxime from symmetric oximes, and BT-05 and BT-03 possessing asymmetric structure.
+All compounds showed low activity toward inhibition of AChE caused by dichlorvos.
+Comparison of two main structure types (symmetric/asymmetric) showed that the symmetric compounds reactivated better AChE, inhibited with this OPC, than asymmetric ones.

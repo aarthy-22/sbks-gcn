@@ -1,0 +1,11 @@
+Effect of ifenprodil on GluN1/GluN2B N-methyl-D-aspartate receptor gating.
+Ifenprodil is an allosteric inhibitor of GluN1/GluN2B N-methyl-D-aspartate receptors.
+Despite its widespread use as a prototype for drug development and a subtype-selective tool for physiologic experiments, its precise effect on GluN1/GluN2B gating is yet to be fully understood.
+Interestingly, recent crystallographic evidence identified that ifenprodil, unlike zinc, binds at the interface of the GluN1/GluN2B amino terminal domain dimer by an induced-fit mechanism.
+To delineate the effect of this unique binding on GluN1/GluN2B receptor gating, we recorded steady-state currents from cell-attached and outside-out patches.
+At pH 7.9 in cell-attached patches, ifenprodil increased the occupancy of the long-lived shut conformations, thereby reducing the open probability of the receptor with no change in the mean open time.
+In addition, ifenprodil selectively affected the area of shut time constants, but not the time constants themselves.
+Kinetic analyses suggested that ifenprodil prevents the transition of the receptor to an open state and increases its dwell time in an intrinsically occurring closed conformation or desensitized state.
+We found distinct differences in the action of ifenprodil at GluN1/GluN2B in comparison with previous studies on the effect of zinc on GluN1/GluN2A gating, which may arise due to their unique binding sites.
+Our data also uncover the potential pH-dependent action of ifenprodil on gating.
+At a low pH (pH 7.4), but not pH 7.9, ifenprodil reduces the mean open time of GluN1/GluN2B receptors, which may be responsible for its usefulness as a context-dependent inhibitor in conditions like ischemia and stroke, when the pH of the extracellular milieu becomes acidic.

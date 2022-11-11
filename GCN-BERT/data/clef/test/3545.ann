@@ -1,0 +1,20 @@
+T1	EXAMPLE_LABEL 8 10	66
+T2	REACTION_PRODUCT 34 39	11328
+T3	REACTION_PRODUCT 41 153	1-butyl-N-(4-(5-(difluoromethyl)-1,3,4-oxadiazol-2-yl)-2-fluorobenzyl)-N-(3-fluorophenyl)azetidine-3-carboxamide
+T4	STARTING_MATERIAL 154 272	N-(4-(5-(difluoromethyl)-1,3,4-oxadiazol-2-yl)-2-fluorobenzyl)-N-(3-fluorophenyl)azetidine-3-carboxamide hydrochloride
+T5	STARTING_MATERIAL 337 350	butyraldehyde
+T6	SOLVENT 391 406	dichloromethane
+T7	TEMPERATURE 418 434	room temperature
+T8	REAGENT_CATALYST 440 468	sodium triacetoxyborohydride
+T9	TIME 570 578	18 hours
+T10	OTHER_COMPOUND 580 585	Water
+T11	OTHER_COMPOUND 649 664	dichloromethane
+T12	OTHER_COMPOUND 710 717	aqueous
+T13	OTHER_COMPOUND 718 733	sodium chloride
+T14	OTHER_COMPOUND 755 772	magnesium sulfate
+T15	OTHER_COMPOUND 895 899	SiO2
+T16	OTHER_COMPOUND 916 924	methanol
+T17	OTHER_COMPOUND 925 940	dichloromethane
+T18	REACTION_PRODUCT 988 1002	title compound
+T19	YIELD_OTHER 1004 1011	0.020 g
+T20	YIELD_PERCENT 1013 1018	38.4%

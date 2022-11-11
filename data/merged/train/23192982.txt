@@ -1,0 +1,10 @@
+MLL histone methylases regulate expression of HDLR-SR-B1 in presence of estrogen and control plasma cholesterol in vivo.
+High-density lipoprotein receptors scavenger receptor class B type I [HDLR-SR-B1 (SR-B1)] is a key player in reverse cholesterol transport and maintaining blood cholesterol.
+We demonstrated that human SR-B1 is transcriptionally activated by 17β-estradiol (E2) in HEPG2 and JAR cells.
+SR-B1 promoter contains multiple estrogen response elements (ERE half-sites) along with some Sp1 binding sites.
+Knockdown of estrogen receptor (ER)α and ERβ down-regulated E2-induced SR-B1 expression.
+ERs were bound to SR-B1 promoter EREs in an E2-dependent manner.
+Along with ERs, mixed-lineage leukemia (MLL) histone methylases, especially MLL1 and MLL2, play key roles in E2-mediated SR-B1 activation.
+MLL1 and MLL2 bind to SR-B1 promoter in an E2-dependent manner and control the assembly of transcription pre-initiation complex and RNA polymerase II (RNAPII) recruitment.
+ERs and MLLs play critical roles in determining the cholesterol uptake by steroidogenic tissues/cells, and their knockdown suppressed the E2-induced cholesterol uptake efficiencies of the cells.
+Intriguingly, MLL2 knockdown in mice resulted in a 33% increase in plasma cholesterol level and also reduced SR-B1 expression in mice liver, demonstrating its crucial functions in controlling plasma cholesterol in vivo.

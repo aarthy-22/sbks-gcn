@@ -1,0 +1,12 @@
+Apomorphine induces trophic factors that support fetal rat mesencephalic dopaminergic neurons in cultures.
+Apomorphine, the catechol-derived dopamine D1/D2 receptor agonist, is currently in use as an antiparkinsonian drug.
+It has previously been reported that apomorphine was able to elicit expression of the enzyme tyrosine hydroxylase, a marker for DA neurons, in the fetal rat cerebrocortical cultures whilst in the presence of brain-derived neurotrophic factor.
+The present study demonstrated that treatment of fetal rat ventral mesencephalic cultures with apomorphine caused a marked increase in the number of dopaminergic neurons.
+The action of apomorphine can be mimicked by dopamine receptor (D1 and D2) agonists or blocked by preincubation with D1/D2 receptor antagonists.
+Incubation of recipient mesencephalic cultures with the conditioned medium derived from apomorphine-stimulated donor mesencephalic cultures elicited a 3.72-fold increase in the number of TH-positive neurons.
+Increased mRNA expression levels of brain-derived neurotrophic factor and glial cell line-derived neurotrophic factor were also found in the apomorphine-treated mesencephalic cells along with concomitant protein expression increases in the conditioned medium.
+Moreover, the trophic activity observed could be partially neutralized by antibodies against either brain-derived neurotrophic factor or glial cell line-derived neurotrophic factor.
+Cultured fetal striatal cells, but not hippocampal cells, also responded to apomorphine treatment.
+The membrane filtration studies revealed that both <30 kDa and >50 kDa fractions contained trophic activities.
+The latter characterization distinguishes them from most known neurotrophic factors.
+These results suggest that the apomorphine-modulated development of dopaminergic neurons may be mediated by activation of the dopamine receptor subtypes D1 and D2 thereby increasing the production of multiple growth factors.

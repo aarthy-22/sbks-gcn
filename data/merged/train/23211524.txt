@@ -1,0 +1,11 @@
+GATA2-induced silencing and LIM-homeodomain protein-induced activation are mediated by a bi-functional response element in the rat GnRH receptor gene.
+GATA2 transcription factor and LIM homeodomain proteins Islet1 (ISL1) and LIM homeobox 3 (LHX3) are suspected to be involved in gonadotrope cell fate and maintenance.
+The GnRH receptor gene (Gnrhr), crucial for gonadotrope function, is expressed in the pituitary gland from embryonic day 13.5 onward, well before LH and FSH β-subunits.
+This expression pattern together with the presence of WGATAR and TAAT motifs in Gnrhr promoter sequences suggests the involvement of early transcription factors in promoter activation.
+In this study, using a well-characterized transgenic mouse model, GATA2 was found colocalized with Gnrhr promoter activity in the pituitary.
+Transient transfection of Gnrhr promoter luciferase fusion constructs together with either GATA2 expression vectors or small interfering RNA in gonadotrope cell lines indicated that GATA2, which typically acts as a trans-activator, unexpectedly repressed Gnrhr promoter activity.
+Using DNA chromatography affinity and EMSA, we demonstrated that GATA2 operates via a response element containing a peculiar palindromic GATA motif that overlaps a critical TAAT motif involved in LHX3/ISL1 trans-activation.
+Indeed, despite the inhibitory action of GATA2, this element displayed a clear-cut enhancer activity in gonadotrope cells.
+Chromatin immunoprecipitation assays indicated that GATA2, LHX3, and ISL1 interact with a Gnrhr promoter fragment encompassing this element.
+The trans-repressive action of GATA2 on Gnrhr promoter activity is likely balanced or even hindered by trans-activating effects of LIM homeodomain proteins via this novel bifunctional LIM/GATA response element.
+Such a hierarchical interplay may contribute to finely adjust Gnrhr gene expression in gonadotrope cell lineage during pituitary development as well as in the adult animal.

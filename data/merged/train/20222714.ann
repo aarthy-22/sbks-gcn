@@ -1,0 +1,9 @@
+T8	GENE-N 69 85	human sialidases
+T4	GENE-N 276 301	influenza virus sialidase
+T1	CHEMICAL 402 411	zanamivir
+T2	CHEMICAL 413 424	oseltamivir
+T3	CHEMICAL 426 435	peramivir
+T5	GENE-Y 495 520	human cytosolic sialidase
+T6	GENE-Y 521 525	Neu2
+T7	GENE-N 531 556	influenza virus sialidase
+R0	CPR-4 Arg1:T2 Arg2:T4

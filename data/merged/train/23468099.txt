@@ -1,0 +1,13 @@
+Effects of chronic social defeat stress on behavior and choline acetyltransferase, 78-kDa glucose-regulated protein, and CCAAT/enhancer-binding protein (C/EBP) homologous protein in adult mice.
+RATIONALE: Social defeat stress induces physiological and behavioral symptoms, including anxiety, anhedonia, immune deficits, and altered expression of key brain genes.
+OBJECTIVES: The present study investigated the effects of social defeat stress on the behaviors and expressions of Chat, Grp78, and chop in the brains of adult mice.
+METHODS: Adult mice were divided into susceptible and unsusceptible groups after 10 days of social defeat stress.
+In experiment 1, behavioral tests were conducted, and brains were processed for Western blotting at day 27 after stress.
+In experiment 2, social avoidance tests were conducted, and brains were processed for Western blotting at day 12 after stress.
+RESULTS: The results indicate decreased and increased locomotion and anxiety behavior in all defeated mice.
+Decrease in social interaction, increased immobility, and impaired memory performance were only observed in susceptible mice.
+A decrease in the Chat level at days 12 and 27 was noted in the prefrontal cortex (PFC), amygdala (Amyg), and dorsal hippocampus (HIP) in defeated mice.
+The expression levels of Grp78 and chop measured on days 12 and 27 were significantly greater in the Amyg of susceptible mice.
+In the PFC and HIP, defeated mice displayed different patterns in the levels of Grp78 and chop expressions measured on days 12 and 27.
+CONCLUSIONS: The present study demonstrated that chronic social defeat stress in mice produces stress-related behaviors.
+Different response patterns were noted for Grp78 and chop expression among the groups in terms of brain regions and time-course effects.

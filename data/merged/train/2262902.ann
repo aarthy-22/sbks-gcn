@@ -1,0 +1,54 @@
+T32	CHEMICAL 44 51	ethanol
+T22	CHEMICAL 139 146	ethanol
+T24	CHEMICAL 151 160	adenosine
+T40	GENE-N 151 160	adenosine
+T10	CHEMICAL 261 270	adenosine
+T37	GENE-N 261 270	adenosine
+T13	CHEMICAL 281 312	N6-(R-phenylisopropyl)adenosine
+T14	CHEMICAL 314 319	R-PIA
+T15	CHEMICAL 322 353	N6-(S-phenylisopropyl)adenosine
+T16	CHEMICAL 355 394	5'-(N-cyclopropyl)-carboxamidoadenosine
+T17	CHEMICAL 409 421	theophylline
+T18	CHEMICAL 426 455	8-p-(sulfophenyl)theophylline
+T19	CHEMICAL 467 479	enprofylline
+T20	CHEMICAL 483 490	ethanol
+T21	CHEMICAL 553 562	Adenosine
+T39	GENE-N 553 562	Adenosine
+T23	CHEMICAL 647 654	ethanol
+T25	CHEMICAL 727 736	adenosine
+T41	GENE-N 727 736	adenosine
+T26	CHEMICAL 766 773	ethanol
+T27	CHEMICAL 818 827	adenosine
+T42	GENE-N 818 827	adenosine
+T28	CHEMICAL 869 881	Enprofylline
+T29	CHEMICAL 890 899	adenosine
+T43	GENE-N 890 899	adenosine
+T30	CHEMICAL 935 945	cyclic AMP
+T44	GENE-N 935 963	cyclic AMP phosphodiesterase
+T45	GENE-N 1051 1069	adenosine receptor
+T31	CHEMICAL 1086 1093	ethanol
+T1	CHEMICAL 1094 1103	adenosine
+T33	GENE-N 1094 1103	adenosine
+T2	CHEMICAL 1141 1172	N6-(S-phenylisopropyl)adenosine
+T3	CHEMICAL 1280 1289	adenosine
+T34	GENE-Y 1280 1292	adenosine A1
+T4	CHEMICAL 1311 1350	5'-(N-cyclopropyl)-carboxamidoadenosine
+T5	CHEMICAL 1467 1476	adenosine
+T35	GENE-N 1467 1479	adenosine A2
+T6	CHEMICAL 1530 1539	[3H]R-PIA
+T7	CHEMICAL 1615 1624	adenosine
+T36	GENE-N 1615 1633	adenosine receptor
+T8	CHEMICAL 1693 1700	ethanol
+T9	CHEMICAL 1745 1754	[3H]R-PIA
+T11	CHEMICAL 1858 1865	ethanol
+T12	CHEMICAL 1866 1875	adenosine
+T38	GENE-N 1866 1875	adenosine
+R0	NOT Arg1:T37 Arg2:T20
+R1	NOT Arg1:T39 Arg2:T25
+R2	NOT Arg1:T41 Arg2:T26
+R3	NOT Arg1:T26 Arg2:T42
+R4	NOT Arg1:T28 Arg2:T33
+R5	NOT Arg1:T30 Arg2:T33
+R6	NOT Arg1:T45 Arg2:T31
+R7	NOT Arg1:T6 Arg2:T36
+R8	NOT Arg1:T36 Arg2:T8

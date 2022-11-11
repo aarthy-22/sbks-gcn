@@ -1,0 +1,10 @@
+FGFR4 genetic polymorphisms determine the chemotherapy response of Chinese patients with non-small cell lung cancer.
+Aim:To investigate the relationship of fibroblast growth factor receptor 4 (FGFR4) gene polymorphisms with the response of Chinese patients with non-small cell lung cancer (NSCLC) to chemotherapy.
+Methods:A total of 629 patients with Stage III (A+B) or IV NSCLC, as well as 729 age- and gender-matched healthy controls were recruited.
+All the patients received platinum-based chemotherapy, and the therapeutic effects were evaluated.
+Three polymorphisms in the FGFR4 gene (rs351855G/A, rs145302848C/G, and rs147603016G/A) were genotyped, and the association between the 3 polymorphisms and the chemotherapy effect was analyzed using SPSS software, version 16.0.Results:The genotype frequencies of rs145302848C/G and rs147603016G/A were not significantly different between NSCLC patients and healthy controls on one hand, and between the responders and non-responders to the chemotherapy on the other hand.
+The distribution of AA genotype and A-allele of rs351855G/A was significantly lower in NSCLC patients than in healthy controls.
+Using patients with the GG genotype as a reference, the AA carrier had a significantly reduced risk for the development of NSCLC after normalizing to age, sex and smoking habits.
+In NSCLC patients, this genotype occurred more frequently in the responders to the chemotherapy than in non-responders.
+The chance of being a responder was significantly increased with the AA genotype as compared to G genotype.
+The AA genotype of rs351855G/A had a better prognosis compared with GA and GG genotype carriers: the overall survival of patients with the AA genotype of rs351855G/A was significantly longer than those with the GG+GA genotype (21.1 vs 16.5 months).Conclusion:The rs351855G/A polymorphisms of FGFR4 gene can be used to predict the occurrence, chemotherapy response and prognosis of NSCLC.

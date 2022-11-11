@@ -1,0 +1,14 @@
+Effect of Wine Polyphenol Resveratrol on the Contractions Elicited Electrically or by Norepinephrine in the Rat Portal Vein.
+We investigated the effects of resveratrol on rat portal vein (RPV) contractility without endothelium.
+Contractions were produced by electrical field stimulation of perivascular nerves (EFS), norepinephrine (NE), adenosine 5'-triphosphate (ATP), high K(+) solution and by calcium chloride (CaCl(2) ) in Ca(2+) -free and high K(+) , Ca(2+) -free solution.
+The EFS-evoked contractions were more sensitive to resveratrol and to NS1619-selective openers of big calcium-sensitive (BK(Ca) ) channels, than NE-evoked contractions.
+Effects of resveratrol on the ATP-evoked contractions were weak.
+Blockers of BK(Ca) channels partly inhibited the effect of resveratrol only in EFS-contracted preparations.
+Western blotting showed that RPV expressed K(Ca) 1.1 protein.
+Inhibitors of ATP- and voltage-sensitive K(+) channels did not modify the effects of resveratrol.
+None of the antagonists of K(+) channels affected the resveratrol inhibition of NE-evoked contractions and effect of high concentrations of resveratrol on the EFS-evoked contractions.
+Resveratrol more potently inhibited CaCl(2) than potassium chloride contractions of RPV.
+Thus, BK(Ca) channels partly mediate the inhibitory effect of resveratrol on the neurogenic contractions of RPV.
+The smooth muscle Ca(2+) channels and/or Ca(2+) mobilizing through cells might be involved in the effects of resveratrol on the contractility of RPV.
+Our results are important for better understanding the impact of resveratrol on the portal circulation.
+Copyright © 2013 John Wiley & Sons, Ltd.

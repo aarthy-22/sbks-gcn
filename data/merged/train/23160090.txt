@@ -1,0 +1,6 @@
+Hydroxysafflor yellow a inhibits lipopolysaccharide-induced inflammatory signal transduction in human alveolar epithelial A549 cells.
+Hydroxysafflor yellow A (HSYA) is an active ingredient obtained from the flower of Carthamus tinctorius L. The present study investigated the effects of HSYA on lipopolysaccharide (LPS)-induced inflammatory signal transduction in human alveolar epithelial A549 cells.
+A549 cells stimulated with LPS were incubated with three doses of HSYA (1, 4 and 16μmol/L).
+HSYA suppressed the expression of TLR-4, Myd88, ICAM-1, TNFα, IL-1β and IL-6 at the mRNA and protein level, and inhibited the adhesion of leukocytes to A549 cells.
+HSYA treatment also decreased NF-κB p65 nuclear translocation and inhibited the phosphorylation of p38 mitogen-activated protein kinase (p38 MAPK).
+These findings suggest that HSYA effectively inhibits LPS-induced inflammatory signal transduction in A549 cells.

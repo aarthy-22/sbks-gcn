@@ -1,0 +1,26 @@
+T22	GENE-Y 40 60	acetylcholinesterase
+T19	GENE-Y 77 97	acetylcholinesterase
+T17	GENE-Y 99 103	AChE
+T18	GENE-Y 109 130	butyrylcholinesterase
+T20	GENE-Y 132 137	BuChE
+T1	CHEMICAL 176 199	pyrano[2,3-b]quinolines
+T3	CHEMICAL 208 227	[1,8]naphthyridines
+T4	CHEMICAL 236 294	4-amino-2,3-diaryl-5,6,7,8-tetrahydrofuro[2,3-b]quinolines
+T5	CHEMICAL 304 379	4-amino-6,7,8,9-tetrahydro-2,3-diphenyl-5H-cyclohepta[e]furo[2,3-b]pyridine
+T6	CHEMICAL 386 447	4-amino-5,6,7,8-tetrahydro-2,3-diphenylthieno[2,3-b]quinoline
+T7	CHEMICAL 454 531	4-amino-6,7,8,9-tetrahydro-2,3-diphenyl-5H-cyclohepta[e]thieno[2,3-b]pyridine
+T8	CHEMICAL 572 579	tacrine
+T9	CHEMICAL 656 703	ethyl [6-amino-5-cyano-4H-pyran]-3-carboxylates
+T10	CHEMICAL 713 759	ethyl [6-amino-5-cyanopyridine]-3-carboxylates
+T11	CHEMICAL 768 800	2-amino-3-cyano-4,5-diarylfurans
+T12	CHEMICAL 813 850	2-amino-3-cyano-4,5-diphenylthiophene
+T13	CHEMICAL 899 906	ketones
+T21	GENE-Y 992 996	AChE
+T14	CHEMICAL 1070 1077	tacrine
+T15	GENE-Y 1083 1088	BuChE
+T2	CHEMICAL 1179 1186	tacrine
+T16	GENE-Y 1251 1255	AChE
+R0	CPR-4 Arg1:T6 Arg2:T19
+R1	CPR-4 Arg1:T5 Arg2:T18
+R2	CPR-4 Arg1:T14 Arg2:T21
+R3	CPR-4 Arg1:T2 Arg2:T15

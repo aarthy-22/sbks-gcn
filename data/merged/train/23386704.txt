@@ -1,0 +1,11 @@
+Serum levels of 25-hydroxyvitamin D and the CYP3A biomarker 4β-hydroxycholesterol in a high-dose vitamin D supplementation study.
+The primary aim was to study the relationship between individual serum levels of 25-hydroxyvitamin D and 4β-hydroxycholesterol, which is an endogenous biomarker of the drug-metabolizing CYP3A enzymes.
+In addition, the relationship between this biomarker and inflammation, measured as C-reactive protein (CRP), was investigated.
+Serum samples were used from a recently performed clinical trial in patients with antibody deficiency or increased susceptibility to respiratory tract infections that were randomized to either placebo or high-dose (4000 IU/day) vitamin D for 12 months.
+One hundred sixteen patients were included in the final analyses, and serum samples collected 6 months after study start were analyzed.
+At this time point, 25-hydroxyvitamin D levels were found to range between 10 and 284 nM. Individual levels of 25-hydroxyvitamin D as well as CRP were compared with 4β-hydroxycholesterol levels.
+In addition, all participants were genotyped for two polymorphisms (Taq1 and Foq1) in the vitamin D receptor gene.
+There was no significant correlation between individual serum levels of 25-hydroxyvitamin D and 4β-hydroxycholesterol.
+However, a moderate, but statistically significant, negative correlation between CRP and 4β-hydroxycholesterol levels was observed.
+This study in patients with highly variable serum levels of 25-hydroxyvitamin D could not reveal any relationship between vitamin D and 4β-hydroxycholesterol, an endogenous biomarker of CYP3A activity.
+However, the negative correlation between CRP and 4β-hydroxycholesterol supports earlier experimental results that inflammation may suppress hepatic CYP3A activity, a finding of potentially high clinical relevance that warrants further exploration.

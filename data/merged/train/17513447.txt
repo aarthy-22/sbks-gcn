@@ -1,0 +1,15 @@
+Arginine and immunity.
+For many years, dietary arginine supplementation, often combined with other substances, has been used as a mechanism to boost the immune system.
+Considerable controversy, however, exists as to the benefits and indications of dietary arginine due in part to a poor understanding of the role played by this amino acid in maintaining immune function.
+Emerging knowledge promises to clear this controversy and allow for arginine's safe use.
+In myeloid cells, arginine is mainly metabolized either by inducible nitric oxide (NO) synthases (iNOS) or by arginase 1, enzymes that are stimulated by T helper 1 or 2 cytokines, respectively.
+Thus, activation of iNOS or arginase (or both) reflects the type of inflammatory response in a specific disease process.
+Myeloid suppressor cells (MSC) expressing arginase have been described in trauma (in both mice and humans), intra-abdominal sepsis, certain infections, and prominently, cancer.
+Myeloid cells expressing arginase have been shown to accumulate in patients with cancer.
+Arginase 1 expression is also detected in mononuclear cells after trauma or surgery.
+MSC efficiently deplete arginine and generate ornithine.
+Through arginine depletion, MSC may control NO production and regulate other arginine-dependent biological processes.
+Low circulating arginine has been documented in trauma and cancer, suggesting that MSC may exert a systemic effect and cause a state of arginine deficiency.
+Simultaneously, T lymphocytes depend on arginine for proliferation, zeta-chain peptide and T-cell receptor complex expression, and the development of memory.
+T-cells cocultured with MSC exhibit the molecular and functional effects associated with arginine deficiency.
+Not surprisingly, T-cell abnormalities, including decreased proliferation and loss of the zeta-chain, are observed in cancer and after trauma.

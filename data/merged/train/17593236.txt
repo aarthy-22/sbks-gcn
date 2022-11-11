@@ -1,0 +1,17 @@
+Efficacy and safety of the dipeptidyl peptidase-4 inhibitor, sitagliptin, in patients with type 2 diabetes mellitus inadequately controlled on glimepiride alone or on glimepiride and metformin.
+AIM: To assess the efficacy and safety of a 24-week treatment with sitagliptin, a highly selective once-daily oral dipeptidyl peptidase-4 (DPP-4) inhibitor, in patients with type 2 diabetes who had inadequate glycaemic control [glycosylated haemoglobin (HbA(1c)) >or=7.5% and <or=10.5%] while on glimepiride alone or in combination with metformin.
+METHODS: After a screening, diet/exercise run-in and drug wash-off period, a glimepiride +/- metformin dose titration/stabilization period and a 2-week, single-blind placebo run-in, 441 patients (of ages 18-75 years) were randomized to receive the addition of sitagliptin 100 mg once daily or placebo in a 1 : 1 ratio for 24 weeks.
+Of these patients, 212 were on glimepiride (>or=4 mg/day) monotherapy and 229 were on glimepiride (>or=4 mg/day) plus metformin (>or=1,500 mg/day) combination therapy.
+Patients exceeding pre-specified glycaemic thresholds during the double-blind treatment period were provided open-label rescue therapy (pioglitazone) until study end.
+The primary efficacy analysis evaluated the change in HbA(1c) from baseline to Week 24.
+Secondary efficacy endpoints included fasting plasma glucose (FPG), 2-h post-meal glucose and lipid measurements.
+RESULTS: Mean baseline HbA(1c) was 8.34% in the sitagliptin and placebo groups.
+After 24 weeks, sitagliptin reduced HbA(1c) by 0.74% (p < 0.001) relative to placebo.
+In the subset of patients on glimepiride plus metformin, sitagliptin reduced HbA(1c) by 0.89% relative to placebo, compared with a reduction of 0.57% in the subset of patients on glimepiride alone.
+The addition of sitagliptin reduced FPG by 20.1 mg/dl (p < 0.001) and increased homeostasis model assessment-beta, a marker of beta-cell function, by 12% (p < 0.05) relative to placebo.
+In patients who underwent a meal tolerance test (n = 134), sitagliptin decreased 2-h post-prandial glucose (PPG) by 36.1 mg/dl (p < 0.001) relative to placebo.
+The addition of sitagliptin was generally well tolerated, although there was a higher incidence of overall (60 vs. 47%) and drug-related adverse experiences (AEs) (15 vs. 7%) in the sitagliptin group than in the placebo group.
+This was largely because of a higher incidence of hypoglycaemia AEs (12 vs. 2%, respectively) in the sitagliptin group compared with the placebo group.
+Body weight modestly increased with sitagliptin relative to placebo (+0.8 vs. -0.4 kg; p < 0.001).
+CONCLUSIONS: Sitagliptin 100 mg once daily significantly improved glycaemic control and beta-cell function in patients with type 2 diabetes who had inadequate glycaemic control with glimepiride or glimepiride plus metformin therapy.
+The addition of sitagliptin was generally well tolerated, with a modest increase in hypoglycaemia and body weight, consistent with glimepiride therapy and the observed degree of glycaemic improvement.

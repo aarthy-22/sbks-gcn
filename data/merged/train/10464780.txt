@@ -1,0 +1,12 @@
+[The relation between metabolism of biopterin and dystonia-parkinsonism].
+Tetrahydrobiopterin (BH4) is an essential cofactor for tyrosine hydroxylase.
+BH4 can be synthesized from GTP through three enzymatic reactions.
+The rate-limiting step of the BH4 synthesis is catalyzed by GTP cyclohydrolase I (GCH).
+Recently, we found that GCH is a causative gene for hereditary progressive dystonia/dopa-responsive dystonia (HPD/DRD).
+However, several problems still remain to be solved.
+The first concern is the presence of asymptomatic carriers in the disease.
+The difference between symptomatic and asymptomatic carriers is unknown.
+Second, we cannot find any mutation in the coding region of the GCH gene in about 40% of the patients.
+What kind of mutation would be present in these patients.
+The last concern is the molecular mechanism how the enzymatic activity is decreased to less than 20% of normal values.
+Further studies are required to solve the questions.

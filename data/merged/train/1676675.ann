@@ -1,0 +1,24 @@
+T23	GENE-Y 37 56	beta 1-adrenoceptor
+T17	CHEMICAL 72 82	bisoprolol
+T21	GENE-Y 134 153	beta 1-adrenoceptor
+T16	CHEMICAL 169 179	bisoprolol
+T3	CHEMICAL 193 201	atenolol
+T4	CHEMICAL 206 213	nadolol
+T11	CHEMICAL 285 295	bisoprolol
+T12	CHEMICAL 333 341	atenolol
+T13	CHEMICAL 370 377	nadolol
+T20	GENE-Y 457 476	Beta 2-adrenoceptor
+T14	CHEMICAL 572 584	isoprenaline
+T15	CHEMICAL 648 660	isoprenaline
+T22	GENE-Y 1000 1019	beta 1-adrenoceptor
+T1	CHEMICAL 1092 1102	bisoprolol
+T2	CHEMICAL 1107 1115	atenolol
+T5	CHEMICAL 1317 1329	isoprenaline
+T6	CHEMICAL 1355 1365	bisoprolol
+T7	CHEMICAL 1370 1378	atenolol
+T8	CHEMICAL 1575 1587	isoprenaline
+T9	CHEMICAL 1645 1655	bisoprolol
+T10	CHEMICAL 1668 1676	atenolol
+T18	GENE-N 1714 1745	beta 1 and beta 2-adrenoceptors
+T19	GENE-Y 1786 1805	beta 1-adrenoceptor
+R0	NOT Arg1:T21 Arg2:T3

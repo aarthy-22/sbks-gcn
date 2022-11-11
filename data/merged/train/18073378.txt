@@ -1,0 +1,11 @@
+Extended adjuvant therapy with anastrozole among postmenopausal breast cancer patients: results from the randomized Austrian Breast and Colorectal Cancer Study Group Trial 6a.
+BACKGROUND: Clinical trial data have shown that among breast cancer patients who were disease free after 5 years of adjuvant treatment with tamoxifen, further extended treatment with the nonsteroidal aromatase inhibitor letrozole reduces breast cancer recurrence.
+We examined the efficacy and tolerability of extended adjuvant therapy with another aromatase inhibitor, anastrozole, for 3 years among women who had completed 5 years of adjuvant therapy.
+METHODS: Austrian Breast and Colorectal Cancer Study Group (ABCSG) Trial 6a is an extension of ABCSG Trial 6, in which hormone receptor-positive postmenopausal patients received 5 years of adjuvant tamoxifen, with or without the aromatase inhibitor aminoglutethimide, for the first 2 years of therapy.
+For ABCSG Trial 6a, patients who were disease free at the end of Trial 6 were randomly assigned to receive either 3 years of anastrozole or no further treatment.
+Efficacy data were analyzed with the use of a Cox proportional hazards regression model with two-sided P values and Kaplan-Meier curves, and tolerability data were estimated using logistic regression analysis with odds ratios and 95% confidence intervals (CIs).
+RESULTS: ABCSG Trial 6a included 856 patients.
+At a median follow-up of 62.3 months, women who received anastrozole (n = 387) had a statistically significantly reduced risk of recurrence (locoregional recurrence, contralateral breast cancer, or distant metastasis) compared with women who received no further treatment (n = 469; hazard ratio = 0.62; 95% CI = 0.40 to 0.96, P = .031).
+Anastrozole was well tolerated, and no unexpected adverse events were reported.
+CONCLUSIONS: These data confirm the benefit of extending adjuvant tamoxifen therapy beyond 5 years with anastrozole compared with no further treatment.
+Further research is required to define the optimum length of extended adjuvant therapy and to investigate the possibility of tailoring this period to suit different disease types.

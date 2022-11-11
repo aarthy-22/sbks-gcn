@@ -1,0 +1,2 @@
+Step 1: 3-chloro-4-fluorobenzoyl chloride
+To a solution of 3-chloro-4-fluorobenzoic acid (15 g, 86.2 mmol, 1.00 equiv) in dichloromethane (150 mL) under an inert atmosphere of nitrogen was added N,N-dimethylformamide (315 mg, 4.3 mmol, 0.05 equiv). Then thionyl chloride (50.8 g, 431 mmol, 5 equiv) was added at 0° C. The reaction solution was stirred for 4 h at 45° C. The resulting mixture was concentrated under vacuum to afford 15 g (91%) of 3-chloro-4-fluorobenzoyl chloride as brown oil.

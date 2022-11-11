@@ -1,0 +1,21 @@
+T9	CHEMICAL 0 8	Curcumin
+T5	CHEMICAL 146 154	curcumin
+T4	CHEMICAL 319 327	curcumin
+T13	GENE-Y 478 498	acetylcholinesterase
+T14	GENE-Y 793 813	acetylcholinesterase
+T6	CHEMICAL 900 910	superoxide
+T15	GENE-N 900 920	superoxide dismutase
+T16	GENE-Y 922 930	catalase
+T7	CHEMICAL 932 943	glutathione
+T17	GENE-N 949 970	mitochondrial complex
+T8	CHEMICAL 1045 1052	nitrite
+T18	GENE-Y 1058 1078	acetylcholinesterase
+T10	GENE-N 1180 1183	SOD
+T1	CHEMICAL 1185 1188	GSH
+T11	GENE-Y 1190 1198	catalase
+T12	GENE-N 1204 1225	mitochondrial complex
+T2	CHEMICAL 1431 1439	curcumin
+T3	CHEMICAL 1495 1503	curcumin
+R0	NOT Arg1:T15 Arg2:T7
+R1	NOT Arg1:T15 Arg2:T8
+R2	NOT Arg1:T16 Arg2:T8

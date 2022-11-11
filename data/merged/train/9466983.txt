@@ -1,0 +1,16 @@
+Differential interactions of heparin and heparan sulfate glycosaminoglycans with the selectins.
+Implications for the use of unfractionated and low molecular weight heparins as therapeutic agents.
+The selectins are calcium-dependent C-type lectins that bind certain sialylated, fucosylated, sulfated glycoprotein ligands.
+L-selectin also recognizes endothelial proteoglycans in a calcium-dependent manner, via heparan sulfate (HS) glycosaminoglycan chains enriched in unsubstituted glucosamine units.
+We now show that these HS chains can also bind P-selectin, but not E-selectin.
+However, while L-selectin binding requires micromolar levels of free calcium, P-selectin recognition is largely divalent cation-independent.
+Despite this, HS chains bound to P-selectin are eluted by ethylenediamine tetraacetic acid (EDTA), but only at high concentrations.
+Porcine intestinal mucosal (mast cell-derived) heparin (PIM-heparin) shows similar properties, with no binding to E-selectin, calcium-dependent binding of a subfraction to L-selectin and to P-selectin, and calcium-independent binding of a larger fraction to P-selectin, the latter being disrupted by high EDTA concentrations.
+Analysis of defined heparin fragment pools shows a size dependence for interaction, with tetradecasaccharides showing easily detectable binding to L- and P-selectin affinity columns.
+L-selectin binding fragments include more heavily sulfated and epimerized regions and, as with the endothelial HS chains, they are enriched in free amino groups.
+The P-selectin binding component includes this fraction as well as some less highly modified regions.
+Thus, endothelium-derived HS chains and mast cell-derived heparins could play a role in modulating the biology of selectins in vivo.
+Notably, P- and L-selectin binding to sialyl-Lewisx and to HL-60 cells (which are known to carry the native ligand PSGL-1) is inhibited by unfractionated pharmaceutical heparin preparations at concentrations 12-50-fold lower than those recommended for effective anticoagulation in vivo.
+In contrast, two low molecular weight heparins currently considered as clinical replacements for unfractionated heparin are much poorer inhibitors.
+Thus, patients undergoing heparin therapy for other reasons may be experiencing clinically significant inhibition of L- and P-selectin function, and the current switchover to low-molecular weight heparins may come at some loss of this effect.
+Low-dose unfractionated heparin should be investigated as a treatment option for acute and chronic diseases in which P- and L-selectin play pathological roles.

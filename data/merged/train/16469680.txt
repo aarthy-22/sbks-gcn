@@ -1,0 +1,11 @@
+Prevalence and mechanism of nonsteroidal anti-inflammatory drug-induced clinical relapse in patients with inflammatory bowel disease.
+BACKGROUND & AIMS: It has been variably suggested that nonselective NSAIDs and cyclooxygenase (COX)-2 selective inhibitors aggravate or ameliorate clinical disease activity in patients with inflammatory bowel disease.
+We assessed the effect of these drugs in patients with inflammatory bowel disease (n = 209) and the possible mechanisms.
+METHODS: First, patients with quiescent Crohn's disease and ulcerative colitis received the non-NSAID analgesic acetaminophen (n = 26) and the conventional NSAIDs naproxen (n = 32), diclofenac (n = 29), and indomethacin (n = 22) for 4 weeks.
+The Harvey-Bradshaw index was used to define relapse.
+Second, to assess the mechanism of relapse, intestinal inflammation was quantitated (fecal calprotectin) before and during treatment (20 patients/group) with acetaminophen, naproxen (topical effect, COX-1 and -2 inhibitor), nabumetone (COX-1 and -2 inhibitor), nimesulide (selective COX-2 inhibitor), and low-dose aspirin (selective COX-1 inhibition).
+RESULTS: Nonselective NSAIDs were associated with a 17%-28% relapse rate within 9 days of ingestion.
+No patient had an early relapse on acetaminophen, nimesulide, or aspirin, whereas those on naproxen and nabumetone (20%) experienced relapse.
+These clinical relapses were associated with escalating intestinal inflammatory activity.
+CONCLUSIONS: NSAID ingestion is associated with frequent and early clinical relapse of quiescent inflammatory bowel disease, and the mechanism appears to be due to dual inhibition of the COX enzymes.
+Selective COX-2 inhibition with nimesulide and COX-1 inhibition with low-dose aspirin appear to be well-tolerated in the short-term.

@@ -1,0 +1,20 @@
+T15	CHEMICAL 10 22	ketoconazole
+T16	CHEMICAL 57 68	ambrisentan
+T1	CHEMICAL 70 81	Ambrisentan
+T19	GENE 88 132	endothelin type A (ET(A))-selective receptor
+T18	GENE 236 242	CYP3A4
+T4	CHEMICAL 262 274	ketoconazole
+T20	GENE 311 317	CYP3A4
+T5	CHEMICAL 359 370	ambrisentan
+T6	CHEMICAL 401 428	4-hydroxymethyl ambrisentan
+T7	CHEMICAL 566 577	ambrisentan
+T8	CHEMICAL 610 622	ketoconazole
+T9	CHEMICAL 692 704	ketoconazole
+T10	CHEMICAL 718 729	ambrisentan
+T11	CHEMICAL 826 853	4-hydroxymethyl ambrisentan
+T12	CHEMICAL 983 994	ambrisentan
+T13	CHEMICAL 999 1011	ketoconazole
+T14	CHEMICAL 1044 1056	ketoconazole
+T2	CHEMICAL 1139 1150	ambrisentan
+T3	CHEMICAL 1177 1188	ambrisentan
+T17	GENE 1269 1275	CYP3A4

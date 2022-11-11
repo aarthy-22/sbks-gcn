@@ -1,0 +1,3 @@
+3-[7-(4-Cyanonaphthalen-1-yl)thieno[3,2-c]pyridin-2-yl]propionic acid (Compound 30)
+Synthesis of compound 30-d
+At -78°C, a solution of 1.0M diisobutylaluminum hydride in DCM (58mL, 58mmol) was slowly added to a solution of compound 29-b (5.7g, 20mmol) in DCM (50mL). The mixture was stirred for 1h, warmed to room temperature, followed by adding saturated NH4Cl aq. solution (300mL). The organic phase was seperated, the aqueous phase was extracted with DCM (50mL×3). The organic phases were combined, washed in turn with water (50mL) and saturated brine (50mL), dried over anhydrous sodium sulfate, filtered and concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 3:1) to give light yellow solid 30-d (4g, yield 83%).

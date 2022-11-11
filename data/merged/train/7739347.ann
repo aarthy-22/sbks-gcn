@@ -1,0 +1,24 @@
+T20	GENE-N 0 15	Opioid receptor
+T14	CHEMICAL 32 40	adenylyl
+T21	GENE-N 32 48	adenylyl cyclase
+T15	CHEMICAL 63 79	dihydroetorphine
+T13	CHEMICAL 104 113	etorphine
+T9	CHEMICAL 168 184	dihydroetorphine
+T1	CHEMICAL 216 232	dihydroetorphine
+T16	GENE-N 255 270	opioid receptor
+T2	CHEMICAL 300 308	adenylyl
+T17	GENE-N 300 316	adenylyl cyclase
+T3	CHEMICAL 340 349	etorphine
+T4	CHEMICAL 351 367	Dihydroetorphine
+T5	CHEMICAL 372 381	etorphine
+T18	GENE-N 435 477	(mu, delta, and kappa) of opioid receptors
+T6	CHEMICAL 550 559	forskolin
+T7	CHEMICAL 571 579	adenylyl
+T19	GENE-N 571 587	adenylyl cyclase
+T8	CHEMICAL 598 614	dihydroetorphine
+T10	CHEMICAL 653 657	DTNB
+T11	CHEMICAL 686 695	etorphine
+T12	CHEMICAL 790 806	dihydroetorphine
+R0	CPR-4 Arg1:T4 Arg2:T19
+R1	NOT Arg1:T9 Arg2:T17
+R2	NOT Arg1:T16 Arg2:T2

@@ -1,0 +1,16 @@
+T12	GENE-Y 0 5	RDH12
+T3	CHEMICAL 9 16	retinol
+T13	GENE-N 9 30	retinol dehydrogenase
+T2	CHEMICAL 115 122	retinol
+T10	GENE-N 115 137	retinol dehydrogenases
+T8	GENE-N 139 143	RDHs
+T11	GENE-N 191 214	human and murine RDH 12
+T4	GENE-Y 219 230	human RDH13
+T5	GENE-Y 232 237	RDH12
+T6	GENE-Y 326 338	murine Rdh12
+T7	GENE-Y 343 354	human RDH13
+T9	GENE-Y 417 434	human type 12 RDH
+T1	CHEMICAL 466 480	androstanediol
+R0	CPR-9 Arg1:T1 Arg2:T9
+R1	NOT Arg1:T2 Arg2:T11
+R2	NOT Arg1:T7 Arg2:T1

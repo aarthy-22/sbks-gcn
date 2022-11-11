@@ -1,0 +1,24 @@
+T18	CHEMICAL 0 16	Monoacylglycerol
+T23	GENE-Y 0 23	Monoacylglycerol lipase
+T19	CHEMICAL 61 75	corticosterone
+T4	CHEMICAL 259 281	2-arachidonoylglycerol
+T6	CHEMICAL 295 309	corticosterone
+T7	CHEMICAL 417 433	monoacylglycerol
+T22	GENE-Y 417 440	monoacylglycerol lipase
+T8	CHEMICAL 451 457	JZL184
+T9	CHEMICAL 486 500	corticosterone
+T10	CHEMICAL 650 664	corticosterone
+T11	CHEMICAL 693 699	JZL184
+T12	CHEMICAL 739 753	corticosterone
+T13	CHEMICAL 774 784	metyrapone
+T14	CHEMICAL 852 858	JZL184
+T15	CHEMICAL 876 890	corticosterone
+T16	CHEMICAL 948 954	JZL184
+T17	CHEMICAL 1013 1027	corticosterone
+T1	CHEMICAL 1154 1164	metyrapone
+T2	CHEMICAL 1284 1300	monoacylglycerol
+T20	GENE-Y 1284 1307	monoacylglycerol lipase
+T3	CHEMICAL 1358 1372	corticosterone
+T5	CHEMICAL 1471 1487	monoacylglycerol
+T21	GENE-Y 1471 1494	monoacylglycerol lipase
+R0	NOT Arg1:T22 Arg2:T9

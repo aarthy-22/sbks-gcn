@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 1 5	91-2
+T2	REACTION_PRODUCT 20 126	(S)-3-chloro-N-(2-hydroxy-1-[3- {4-(trifluoromethoxy)phenyl}-1,2,4-oxadiazol-5-yl]ethyl)benzenesulfonamide
+T3	REACTION_PRODUCT 137 139	91
+T4	REAGENT_CATALYST 172 199	tetrabutylammonium fluoride
+T5	SOLVENT 203 218	tetrahydrofuran
+T6	STARTING_MATERIAL 246 373	N-{2-[(tert-butyldimethylsilyl)oxy]-1-{3-[4-(trifluoromethoxy)phenyl]-1,2,4-oxadiazol-5-yl}ethyl}-3-chlorobenzene-1-sulfonamide
+T7	SOLVENT 396 411	tetrahydrofuran
+T8	TEMPERATURE 461 477	room temperature
+T9	OTHER_COMPOUND 491 496	water
+T10	OTHER_COMPOUND 564 577	ethyl acetate
+T11	OTHER_COMPOUND 626 631	brine
+T12	OTHER_COMPOUND 663 680	magnesium sulfate
+T13	OTHER_COMPOUND 778 788	silica gel
+T14	OTHER_COMPOUND 812 818	hexane
+T15	OTHER_COMPOUND 819 832	ethyl acetate
+T16	REACTION_PRODUCT 878 892	title compound
+T17	YIELD_OTHER 893 898	51 mg
+T18	YIELD_PERCENT 906 909	55%

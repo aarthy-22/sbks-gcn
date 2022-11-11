@@ -1,0 +1,4 @@
+EXAMPLE A:
+6-(4-bromophenyl)-1H-quinazoline-2,4-dione
+15.47 g (75 mmol) of 4-bromobenzeneboronic acid, 18 g (75 mmol) of 6-bromo-1H-quinazoline-2,4-dione (75 mmol) and 110 mL of a 2M NaHCO3-containing aqueous solution (163 mmol) are suspended in 500 mL of dimethoxyethane. 3.0 g (3.45 mmol) of
+tetrakis(triphenylphosphine)palladium(0) are added to this suspension, and the reaction mixture is heated under reflux for 22 h. After cooling, the organic phase is removed, filtered through silica gel, washed four times with 400 mL of water and then concentrated to dryness. This is followed by recrystallization in toluene. The yield is 16.5 g (52 mmol), corresponding to 70% of theory.

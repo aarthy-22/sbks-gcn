@@ -1,0 +1,15 @@
+T15	GENE-N 48 92	mycobacterium protein tyrosine phosphatase B
+T4	CHEMICAL 70 78	tyrosine
+T3	CHEMICAL 102 140	6-Hydroxy-benzofuran-5-carboxylic acid
+T5	GENE-N 151 214	Mycobacterium tuberculosis (Mtb) protein tyrosine phosphatase B
+T10	GENE-N 216 221	mPTPB
+T6	GENE-N 376 381	mPTPB
+T1	CHEMICAL 525 550	benzofuran salicylic acid
+T7	GENE-N 612 617	mPTPB
+T8	GENE-N 663 667	PTPs
+T9	GENE-N 770 791	bacterial phosphatase
+T11	GENE-Y 848 852	IL-6
+T12	GENE-Y 890 902	interferon-γ
+T13	GENE-N 967 972	mPTPB
+T2	CHEMICAL 1072 1086	salicylic acid
+T14	GENE-N 1125 1128	PTP

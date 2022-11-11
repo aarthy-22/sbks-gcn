@@ -1,0 +1,10 @@
+T1	EXAMPLE_LABEL 8 11	114
+T2	REACTION_PRODUCT 12 192	3-(5-(2-chloro-3-fluorophenyl)-2,6-dioxo-3-{2-oxo-2-[4-(2-oxo-1,2,4,5-tetrahydro-benzo[d][1,3]diazepin-3-yl)-piperidin-1-yl]-ethyl}-3,6-dihydro-2H-pyrimidin-1-yl)-methyl propionate
+T3	OTHER_COMPOUND 226 229	114
+T4	EXAMPLE_LABEL 231 236	114.1
+T5	REACTION_PRODUCT 238 320	3-(3-benzhydryl-5-bromo-2,6-dioxo-3,6-dihydro-2H-pyrimidin-1-yl)-methyl propionate
+T6	STARTING_MATERIAL 379 423	1-benzhydryl-5-bromo-1H-pyrimidine-2,4-dione
+T7	REACTION_PRODUCT 478 502	methyl 3-bromopropionate
+T8	YIELD_OTHER 504 509	1.1 g
+T9	YIELD_PERCENT 511 514	85%
+T10	REACTION_PRODUCT 519 601	3-(3-benzhydryl-5-bromo-2,6-dioxo-3,6-dihydro-2H-pyrimidin-1-yl)-methyl propionate

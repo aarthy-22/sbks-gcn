@@ -1,0 +1,28 @@
+T27	GENE-Y 26 38	human Cav3.2
+T28	GENE-N 39 59	T-type Ca2+ channels
+T18	CHEMICAL 46 50	Ca2+
+T22	GENE-N 156 171	calcium channel
+T6	CHEMICAL 156 163	calcium
+T8	CHEMICAL 185 192	calcium
+T19	GENE-N 265 287	L-type Ca(2+) channels
+T4	CHEMICAL 272 278	Ca(2+)
+T20	GENE-N 380 402	T-type Ca(2+) channels
+T5	CHEMICAL 387 393	Ca(2+)
+T21	GENE-N 404 419	T-type channels
+T7	CHEMICAL 455 466	aldosterone
+T23	GENE-Y 690 698	Ca(v)3.2
+T24	GENE-N 699 713	T-type channel
+T9	CHEMICAL 772 789	phenylalkylamines
+T10	CHEMICAL 797 807	mibefradil
+T11	CHEMICAL 813 829	dihydropyridines
+T12	CHEMICAL 837 848	efonidipine
+T13	CHEMICAL 891 897	Ca(2+)
+T25	GENE-Y 951 959	Ca(v)3.2
+T14	CHEMICAL 1041 1052	efonidipine
+T15	CHEMICAL 1054 1064	felodipine
+T16	CHEMICAL 1066 1076	isradipine
+T17	CHEMICAL 1082 1094	nitrendipine
+T26	GENE-N 1106 1115	T-channel
+T1	CHEMICAL 1183 1199	dihydropyridines
+T2	CHEMICAL 1209 1219	amlodipine
+T3	CHEMICAL 1224 1234	nifedipine

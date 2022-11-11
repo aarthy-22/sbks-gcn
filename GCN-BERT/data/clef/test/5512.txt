@@ -1,0 +1,2 @@
+(10)Preparation of tert-butyl 3-(8-amino-6-methyl-2,3-dihydrobenzo[b][1,4]dioxin-5-yl)pyrrolidin-1-carbo xylate
+Tert-butyl3-(8-amino-7-bromo-6-methyl-2,3-dihydrobenzo[b][1,4]dioxin -5-yl)-2,5-dihydro-1H-pyrrole-1-carboxylate (200 mg, 0.49 mmol) was dissolved in methanol (20 mL). Under the protection of nitrogen gas, to the system, Pd/C (200 mg) was added, and then the system was reacted at the atmosphere of hydrogen gas at room temperature under stirring for 16 h. After the reaction, the resultant mixture was filtrated to prepare the product (100mg, yield: 61 %).

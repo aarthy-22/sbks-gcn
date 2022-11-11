@@ -1,0 +1,9 @@
+A dilated cardiomyopathy troponin C mutation lowers contractile force by reducing strong myosin-actin binding.
+In this study we explore the mechanisms by which a double mutation (E59D/D75Y) in cardiac troponin C (CTnC) associated with dilated cardiomyopathy reduces the Ca(2+)-activated maximal tension of cardiac muscle.
+Studying the single mutants (i.e. E59D or D75Y) indicates that D75Y, but not E59D, causes a reduction in the calcium affinity of CTnC in troponin complex, regulated thin filaments (RTF), and the Ca(2+) sensitivity of contraction and ATPase in cardiac muscle preparations.
+However, both D75Y and E59D are required to reduce the actomyosin ATPase activity and maximal force in muscle fibers, indicating that E59D enhances the effects of D75Y.
+Part of the reduction in force/ATPase may be due to a defect in the interactions between CTnC and cardiac troponin T, which are known to be necessary for ATPase activation.
+An additional mechanism for the reduction in force/ATPase comes from measurements of the binding stoichiometry of myosin subfragment-1 (S-1) to the RTF.
+Using wild type RTFs, 4.8 mol S-1 was bound per mol filament (seven actins), whereas with E59D/D75Y RTFs, the number of binding sites was reduced by approximately 23% to 3.7.
+Altogether, these results suggest that the reduction in force and ATPase activation is possibly due to a thin filament conformation that promotes fewer accessible S-1-binding sites.
+In the absence of any family segregation data, the functional results presented here support the concept that this is likely a dilated cardiomyopathy-causing mutation.

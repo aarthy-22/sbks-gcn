@@ -1,0 +1,12 @@
+Comparison of inhibitory effects of meloxicam and diclofenac on human thromboxane biosynthesis after single doses and at steady state.
+OBJECTIVE: To evaluate the extent of human cyclooxygenase-1 (COX-1) inhibition by meloxicam, which has been reported to preferentially inhibit cyclooxygenase-2 (COX-2).
+The effects of meloxicam were compared with those of diclofenac, a nonselective COX inhibitor.
+METHODS: COX-1 inhibition was determined by measuring thromboxane B2 (TXB2)-generation from clotting whole blood ex vivo after single oral doses of 7.5 and 15 mg meloxicam and 75 mg diclofenac and at steady state (15 mg meloxicam daily and 150 mg diclofenac daily).
+The effect was expressed as percentage inhibition of serum TXB2 generation and was directly related to the serum drug concentration with use of a standard sigmoidal E(max) model.
+RESULTS: In terms of inhibition of TXB2 generation, diclofenac was about 1 order of magnitude more potent than meloxicam, indicated by a diclofenac EC50 (concentration of drug required to cause 50% of maximum effect) that was about 10 times lower than that of meloxicam (EC50 diclofenac single doses: 37.50+/-29.64; EC50 meloxicam single doses: 677.50+/-189.08).
+However, serum concentrations of meloxicam after administration of 15 mg were approximately 10-fold higher than those of diclofenac.
+Therefore there was no statistically significant difference in the area under the effect time curve (P = .115) and the mean effect (P = .424) between meloxicam and diclofenac.
+The EC50 of both drugs was significantly higher at steady state (diclofenac steady state: 87.07+/-55.24 ng/mL; meloxicam steady state: 1850.12+/-829.93 ng/mL) than after a single dose (P < .001).
+CONCLUSION: These data show that meloxicam inhibits TXB2 generation at clinically relevant doses, although less potently than diclofenac.
+Thus our data suggest that the COX-2 preference of meloxicam observed in vitro may not result in clinical advantages when the higher dose of 15 mg is needed.
+Because of the increase in EC50 at steady state, COX-1 is relatively spared when the lower dose of 7.5 mg is administered.

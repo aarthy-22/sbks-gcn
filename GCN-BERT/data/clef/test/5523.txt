@@ -1,0 +1,5 @@
+Core 2
+rac-(2R,3S,4R,5R)-ethyl 3-(tert-butyl)-5-(2-methoxyphenyl)-4-nitropyrrolidine-2-carboxylate
+Core 2A
+(E)-ethyl 2-((2-methoxybenzylidene)amino)acetate
+To a mixture of ethyl 2-aminoacetate hydrochloride (10.76 g, 77.12 mmol) and magnesium sulfate (10.61 g, 88.2 mmol) in dichloromethane (100 mL) was added triethylamine (11.2 mL, 80.8 mmol). The mixture was stirred at room temperature for 20 minutes and then 2-methoxybenzaldehyde (10.0 g, 73.45 mmol) was added dropwise. The resulting mixture was stirred at room temperature overnight. The solid was filtered off and washed with dichloromethane (300 mL). The combined filtrate was washed with water (150 mL) and brine (150 mL), dried over magnesium sulfate, filtered and concentrated to provide the title compound (E)-ethyl 2-((2-methoxybenzylidene)amino)acetate (16 g, 50.60 mmol, 68.9% yield).

@@ -1,0 +1,18 @@
+T10	CHEMICAL 0 9	Vitamin A
+T11	CHEMICAL 14 22	retinoid
+T1	CHEMICAL 67 76	Vitamin A
+T2	CHEMICAL 80 87	retinol
+T7	CHEMICAL 125 132	vitamin
+T3	CHEMICAL 230 239	vitamin A
+T4	CHEMICAL 285 308	all-trans retinoic acid
+T5	CHEMICAL 310 314	atRA
+T12	GENE 405 422	nuclear receptors
+T13	GENE 424 428	RARs
+T14	GENE 430 434	RXRs
+T15	GENE 439 446	PPARβ/δ
+T16	GENE 449 497	polymorphic retinoic acid (RA) response elements
+T6	CHEMICAL 461 474	retinoic acid
+T17	GENE 614 620	kinase
+T8	CHEMICAL 735 744	vitamin A
+T18	GENE 785 789	RARs
+T9	CHEMICAL 933 942	vitamin A

@@ -1,0 +1,11 @@
+Deep brain stimulation, histone deacetylase inhibitors and glutamatergic drugs rescue resistance to fear extinction in a genetic mouse model.
+Anxiety disorders are characterized by persistent, excessive fear.
+Therapeutic interventions that reverse deficits in fear extinction represent a tractable approach to treating these disorders.
+We previously reported that 129S1/SvImJ (S1) mice show no extinction learning following normal fear conditioning.
+We now demonstrate that weak fear conditioning does permit fear reduction during massed extinction training in S1 mice, but reveals specific deficiency in extinction memory consolidation/retrieval.
+Rescue of this impaired extinction consolidation/retrieval was achieved with d-cycloserine (N-methly-d-aspartate partial agonist) or MS-275 (histone deacetylase (HDAC) inhibitor), applied after extinction training.
+We next examined the ability of different drugs and non-pharmacological manipulations to rescue the extreme fear extinction deficit in S1 following normal fear conditioning with the ultimate aim to produce low fear levels in extinction retrieval tests.
+Results showed that deep brain stimulation (DBS) by applying high frequency stimulation to the nucleus accumbens (ventral striatum) during extinction training, indeed significantly reduced fear during extinction retrieval compared to sham stimulation controls.
+Rescue of both impaired extinction acquisition and deficient extinction consolidation/retrieval was achieved with prior extinction training administration of valproic acid (a GABAergic enhancer and HDAC inhibitor) or AMN082 [metabotropic glutamate receptor 7 (mGlu7) agonist], while MS-275 or PEPA (AMPA receptor potentiator) failed to affect extinction acquisition in S1 mice.
+Collectively, these data identify potential beneficial effects of DBS and various drug treatments, including those with HDAC inhibiting or mGlu7 agonism properties, as adjuncts to overcome treatment resistance in exposure-based therapies.
+This article is part of a Special Issue entitled 'Cognitive Enhancers'.

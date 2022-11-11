@@ -1,0 +1,13 @@
+Mass spectrometry method to identify aging pathways of Sp- and Rp-tabun adducts on human butyrylcholinesterase based on the acid labile P-N bond.
+The phosphoramidate nerve agent tabun inhibits butyrylcholinesterase (BChE) and acetylcholinesterase by making a covalent bond on the active site serine.
+The adduct loses an alkyl group in a process called aging.
+The mechanism of aging of the tabun adduct is controversial.
+Some studies claim that aging proceeds through deamination, whereas crystal structure studies show aging by O-dealkylation.
+Our goal was to develop a method that clearly distinguishes between deamination and O-dealkylation.
+We began by studying the tetraisopropyl pyrophosphoramide adduct of BChE because this adduct has two P-N bonds.
+Mass spectra showed that the P-N bonds were stable during trypsin digestion at pH 8 but were cleaved during pepsin digestion at pH 2.
+The P-N bond in tabun was also acid labile, whereas the P-O bond was stable.
+A scheme to distinguish aging by deamination from aging by O-dealkylation was based on the acid labile P-N bond.
+BChE was inhibited with Sp- and Rp-tabun thiocholine nerve agent model compounds to make adducts identical to those of tabun with known stereochemistry.
+After aging and digestion with pepsin at pH 2, peptide FGES198AGAAS from Sp-tabun thiocholine had a mass of 902.2 m/z in negative mode, indicating that it had aged by deamination, whereas peptide FGES198AGAAS from Rp-tabun thiocholine had a mass of 874.2 m/z in negative mode, indicating that it had aged by O-dealkylation.
+BChE inhibited by authentic, racemic tabun yielded both 902.2 and 874.2 m/z peptides, indicating that both stereoisomers reacted with BChE and aged either by deamination or dealkylation.

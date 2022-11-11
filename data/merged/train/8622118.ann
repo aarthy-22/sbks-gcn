@@ -1,0 +1,26 @@
+T24	GENE-N 46 86	molluscan glutamate-gated cation channel
+T14	CHEMICAL 56 65	glutamate
+T17	GENE-N 274 284	Lym-eGluR2
+T18	GENE-N 368 414	mammalian kainate-selective glutamate receptor
+T2	CHEMICAL 378 385	kainate
+T3	CHEMICAL 396 405	glutamate
+T19	GENE-Y 415 420	GluR5
+T20	GENE-Y 422 427	GluR6
+T21	GENE-Y 433 438	GluR7
+T4	CHEMICAL 620 631	L-glutamate
+T5	CHEMICAL 678 687	glutamate
+T22	GENE-N 678 696	glutamate receptor
+T6	CHEMICAL 730 739	glutamate
+T7	CHEMICAL 743 750	kainate
+T8	CHEMICAL 753 762	ibotenate
+T9	CHEMICAL 765 769	AMPA
+T23	GENE-N 808 835	mammalian non-NMDA receptor
+T10	CHEMICAL 822 826	NMDA
+T11	CHEMICAL 848 975	6,7-dinitroquinoxaline-2,3-dione, 6-cyano-7-nitroquinoxaline-2,3-dione, and 1-(4-chlorobenzoyl)piperazine-2,3-dicarboxylic acid
+T12	CHEMICAL 1074 1080	sodium
+T13	CHEMICAL 1085 1094	potassium
+T15	GENE-N 1145 1155	Lym-eGluR2
+T16	GENE-N 1342 1352	Lym-eGluR2
+T1	CHEMICAL 1523 1532	glutamate
+R0	CPR-5 Arg1:T9 Arg2:T22
+R1	NOT Arg1:T17 Arg2:T3

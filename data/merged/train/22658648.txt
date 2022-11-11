@@ -1,0 +1,10 @@
+Chronic treatment with myo-inositol reduces white adipose tissue accretion and improves insulin sensitivity in female mice.
+Type 2 diabetes is a complex disease characterized by a state of insulin resistance in peripheral tissues such as skeletal muscle, adipose tissue or liver.
+Some inositol isomers have been reported to possess insulin-mimetic activity and to be efficient in lowering blood glucose level.
+The aim of the present study was to assess in mice the metabolic effects of a chronic treatment with myo-inositol, the most common stereoisomer of inositol.
+Mice given myo-inositol treatment (0.9 or 1.2 mg g(-1) day(-1), 15 days, orally or intraperitoneally)
+exhibited an improved glucose tolerance due to a greater insulin sensitivity.
+Mice treated with myo-inositol exhibited a decreased white adipose tissue accretion (-33%, P<.005) compared with controls.
+The decrease in white adipose tissue deposition was due to a decrease in adipose cell volume (-33%, P<.05), while no change was noticed in total adipocyte number.
+In skeletal muscle, in vivo as well as ex vivo myo-inositol treatment increased protein kinase B/Akt phosphorylation under baseline and insulin-stimulated conditions, suggesting a synergistic action of myo-inositol treatment and insulin on proteins of the insulin signalling pathway.
+Myo-inositol could therefore constitute a viable nutritional strategy for the prevention and/or treatment of insulin resistance and type 2 diabetes.

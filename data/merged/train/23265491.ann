@@ -1,0 +1,15 @@
+T11	CHEMICAL 102 112	isoflavone
+T6	CHEMICAL 165 175	isoflavone
+T7	CHEMICAL 177 204	genistein-7-O-gentiobioside
+T3	CHEMICAL 272 279	alcohol
+T4	CHEMICAL 312 339	genistein-7-O-gentiobioside
+T5	CHEMICAL 584 594	isoflavone
+T12	GENE-Y 624 640	heme oxygenase-1
+T13	GENE-Y 642 646	HO-1
+T8	CHEMICAL 892 903	glutathione
+T9	CHEMICAL 975 985	isoflavone
+T10	CHEMICAL 1029 1040	glutathione
+T1	CHEMICAL 1146 1156	isoflavone
+T2	CHEMICAL 1218 1229	isoflavones
+R0	CPR-3 Arg1:T5 Arg2:T12
+R1	CPR-3 Arg1:T5 Arg2:T13

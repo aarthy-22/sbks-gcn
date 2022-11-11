@@ -1,0 +1,18 @@
+T8	CHEMICAL 9 19	rifampicin
+T15	GENE-Y 93 120	nuclear pregnane X receptor
+T7	CHEMICAL 101 109	pregnane
+T1	CHEMICAL 122 132	Rifampicin
+T2	CHEMICAL 439 449	rifampicin
+T9	GENE-N 546 562	cytochromes P450
+T10	GENE-N 581 595	p-glycoprotein
+T3	CHEMICAL 788 798	rifampicin
+T4	CHEMICAL 821 831	rifampicin
+T11	GENE-Y 846 873	nuclear pregnane X receptor
+T5	CHEMICAL 854 862	pregnane
+T12	GENE-N 895 911	cytochromes P450
+T13	GENE-N 913 937	glucuronosyltransferases
+T14	GENE-N 942 956	p-glycoprotein
+T6	CHEMICAL 1016 1026	rifampicin
+R0	CPR-9 Arg1:T2 Arg2:T9
+R1	CPR-2 Arg1:T4 Arg2:T12
+R2	NOT Arg1:T5 Arg2:T13

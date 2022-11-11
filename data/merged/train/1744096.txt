@@ -1,0 +1,10 @@
+Mechanism of conversion of human apo- to holomethionine synthase by various forms of cobalamin.
+Methionine synthase catalyzes the conversion of N5-methyltetrahydrofolate and homocysteine to tetrahydrofolate and methionine.
+Methylcobalamin (Me-Cbl) is tightly bound to methionine synthase and is required for enzymatic activity.
+When added to crude tissue homogenates, Me-Cbl stimulates methionine synthase but similar stimulation is observed with hydroxocobalamin, cyanocobalamin (CN-Cbl), and adenosyl-Cbl, although the mechanisms involved are unknown.
+We prepared human apomethionine synthase and studied its activation in the presence of [14C]CN-Cbl and [14CH3]Me-Cbl with concentrations of 2-mercaptoethanol ranging from 0.15 to 100 mM. We observed that the removal of the labeled upper axial ligands from CN-Cbl and Me-Cbl both paralleled the activation of human apomethionine synthase.
+Spectral studies employing CN-Cbl and Me-Cbl showed that both forms of Cbl must be converted to Cob(II)alamin before they can bind to human apomethionine synthase and convert it to its activated holoenzyme form.
+Studies with 14 different Cbl analogues with alterations in various portions of the corrin ring and the nucleotide showed that all of the analogues were able to fully activate human methionine synthase when they were reduced with 2-mercaptoethanol.
+Full activation occurred at lower concentrations of many of the Cbl analogues than occurred with Cbl itself.
+We conclude that Me-Cbl and other forms of Cob(III)alamin do not bind to human apomethionine synthase and that all must first be reduced to Cob(II)alamin before such binding can occur.
+The fact that human methionine synthase shows little absolute specificity for alterations in various portions of the Cbl molecule suggests that the potent inhibition of mammalian methionine synthase activity observed in vivo with various Cbl analogues is due to inhibition of intracellular Cbl transport or to inhibition of the enzymatic formation of Cob(II)alamin rather than to direct inhibition of mammalian methionine synthase itself.

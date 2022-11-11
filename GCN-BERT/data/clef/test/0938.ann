@@ -1,0 +1,21 @@
+T1	EXAMPLE_LABEL 5 7	26
+T2	REACTION_PRODUCT 8 105	(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-4-nitro-5-(2-(trifluoromethyl)phenyl)pyrrolidine-2-carboxylate
+T3	EXAMPLE_LABEL 111 114	26A
+T4	REACTION_PRODUCT 115 173	(E)-ethyl 2-((2-(trifluoromethyl)benzylidene)amino)acetate
+T5	STARTING_MATERIAL 186 220	ethyl 2-aminoacetate hydrochloride
+T6	REAGENT_CATALYST 245 262	magnesium sulfate
+T7	SOLVENT 286 301	dichloromethane
+T8	TEMPERATURE 326 330	0° C
+T9	REAGENT_CATALYST 332 345	Triethylamine
+T10	TEMPERATURE 418 434	room temperature
+T11	TIME 439 445	1 hour
+T12	STARTING_MATERIAL 447 478	2-(Trifluoromethyl)benzaldehyde
+T13	TIME 513 521	15 hours
+T14	OTHER_COMPOUND 562 577	dichloromethane
+T15	OTHER_COMPOUND 594 609	dichloromethane
+T16	OTHER_COMPOUND 632 637	water
+T17	OTHER_COMPOUND 657 663	Na2SO4
+T18	REACTION_PRODUCT 705 763	(E)-ethyl 2-((2-(trifluoromethyl)benzylidene)amino)acetate
+T19	YIELD_OTHER 765 770	7.2 g
+T20	YIELD_OTHER 772 781	25.8 mmol
+T21	YIELD_PERCENT 783 786	90%

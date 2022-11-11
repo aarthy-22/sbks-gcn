@@ -1,0 +1,5 @@
+Core 4
+rac-(2R,3S,4R,5R)-benzyl 3-(tert-butyl)-4-nitro-5-phenylpyrrolidine-2-carboxylate
+Core 4A
+(E)-benzyl 2-(benzylideneamino)acetate
+To a mixture of benzyl 2-aminoacetate hydrochloride (CAS#2462-31-9) (5 g, 21.00 mmol) and magnesium sulfate (3.16 g, 26.2 mmol) in dichloromethane (80 mL) was added triethylamine (3.22 mL, 23.10 mmol). The mixture was stirred for 20 minutes, benzaldehyde (2.348 mL, 23.10 mmol) was added dropwise, and the mixture was stirred at ambient temperature overnight. The mixture was filtered and the solid was washed with dichloromethane. The combined organic layers were washed with brine, dried over MgSO4, filtered, and concentrated to yield (E)-benzyl 2-(benzylideneamino)acetate (5.3 g, 100% yield).

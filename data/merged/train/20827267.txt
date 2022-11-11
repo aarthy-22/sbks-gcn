@@ -1,0 +1,8 @@
+Estrogen receptor genotypes, menopausal status, and the effects of tamoxifen on lipid levels: revised and updated results.
+We previously reported that the ESR1 XbaI genotypes were associated with baseline and tamoxifen-induced serum lipid profiles.
+The analysis in that study was carried out by PCR followed by restriction-enzyme digestion.
+After reanalysis using more robust TaqMan assays, the findings related to ~10% of the genotypes for the ESR1 XbaI single-nucleotide polymorphism (SNP) were revised.
+For the other genotypes (i.e., ESR1 PvuII, ESR2, and CYP2D6), the results were nearly identical to those in the previous study.
+Upon reanalysis, previously reported associations between the ESR1 Xba1 genotypes and baseline triglyceride and low-density lipoprotein (LDL) cholesterol levels were no longer observed.
+Previously reported associations between the ESR1 XbaI genotypes and tamoxifen-induced changes in levels of total cholesterol, triglycerides, and high-density lipoprotein (HDL) cholesterol were also no longer observed.
+However, the following observations from the original report did not change: (i) the levels of circulating lipids are lower in women taking tamoxifen; (ii) there is an association between the ESR2-02 genotypes and changes in triglyceride levels; and (iii) neither ESR1 PvuII nor CYP2D6 is associated with any changes in serum lipid concentrations in patients receiving treatment with tamoxifen.

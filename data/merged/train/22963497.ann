@@ -1,0 +1,21 @@
+T8	CHEMICAL 30 39	phoenixin
+T9	GENE-N 156 175	luteinising hormone
+T10	GENE-N 180 208	follicle-stimulating hormone
+T1	CHEMICAL 260 291	gonadotrophin-releasing hormone
+T11	GENE-Y 260 291	gonadotrophin-releasing hormone
+T2	CHEMICAL 293 297	GnRH
+T12	GENE-Y 293 297	GnRH
+T13	GENE-N 315 332	releasing factors
+T14	GENE-N 334 336	RF
+T3	CHEMICAL 437 446	phoenixin
+T15	GENE-N 473 486	gonadotrophin
+T4	CHEMICAL 533 537	GnRH
+T16	GENE-Y 533 546	GnRH receptor
+T5	CHEMICAL 616 625	phoenixin
+T6	CHEMICAL 727 731	GnRH
+T17	GENE-Y 727 740	GnRH receptor
+T7	CHEMICAL 770 779	Phoenixin
+T18	GENE-N 912 915	RFs
+R0	CPR-4 Arg1:T5 Arg2:T17
+R1	NOT Arg1:T10 Arg2:T1
+R2	NOT Arg1:T15 Arg2:T4

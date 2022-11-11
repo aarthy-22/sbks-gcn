@@ -1,0 +1,21 @@
+T8	CHEMICAL 4 39	2-(aryloxy)-3-phenylpropanoic acids
+T19	GENE-N 43 89	peroxisome proliferator-activated receptor α/γ
+T7	CHEMICAL 137 146	carnitine
+T2	CHEMICAL 210 245	2-(aryloxy)-3-phenylpropanoic acids
+T1	CHEMICAL 314 322	biphenyl
+T10	GENE-N 357 403	peroxisome proliferator-activated receptor α/γ
+T11	GENE-N 405 412	PPARα/γ
+T12	GENE-Y 495 500	PPARα
+T13	GENE-Y 525 530	PPARγ
+T14	GENE-Y 619 624	PPARγ
+T15	GENE-Y 911 916	PPARα
+T16	GENE-Y 921 926	PPARγ
+T17	GENE-Y 967 1002	mitochondrial acylcarnitine carrier
+T3	CHEMICAL 981 994	acylcarnitine
+T4	CHEMICAL 1007 1016	carnitine
+T18	GENE-Y 1007 1040	carnitine-palmitoyl-transferase 1
+T5	CHEMICAL 1017 1026	palmitoyl
+T6	CHEMICAL 1084 1093	carnitine
+T9	GENE-Y 1248 1253	PPARα
+R0	NOT Arg1:T2 Arg2:T13
+R1	NOT Arg1:T3 Arg2:T18

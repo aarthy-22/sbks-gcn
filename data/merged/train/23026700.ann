@@ -1,0 +1,25 @@
+T1	CHEMICAL 354 361	ethanol
+T2	CHEMICAL 661 664	AMP
+T10	GENE-N 661 689	AMP-activated protein kinase
+T11	GENE-N 691 695	AMPK
+T3	CHEMICAL 742 752	acetyl-CoA
+T12	GENE-Y 742 764	acetyl-CoA carboxylase
+T4	CHEMICAL 802 821	carnitine palmitoyl
+T13	GENE-Y 802 835	carnitine palmitoyl transferase 1
+T5	CHEMICAL 856 862	sterol
+T14	GENE-Y 856 899	sterol regulatory element binding protein 1
+T6	CHEMICAL 904 914	fatty acid
+T15	GENE-Y 904 923	fatty acid synthase
+T16	GENE-N 970 974	AMPK
+T7	CHEMICAL 1035 1047	triglyceride
+T17	GENE-Y 1090 1097	insulin
+T8	GENE-N 1185 1189	AMPK
+T9	GENE-N 1229 1233	AMPK
+R0	NOT Arg1:T2 Arg2:T11
+R1	NOT Arg1:T2 Arg2:T12
+R2	NOT Arg1:T2 Arg2:T13
+R3	NOT Arg1:T2 Arg2:T15
+R4	NOT Arg1:T11 Arg2:T5
+R5	NOT Arg1:T3 Arg2:T15
+R6	NOT Arg1:T12 Arg2:T6
+R7	NOT Arg1:T4 Arg2:T15

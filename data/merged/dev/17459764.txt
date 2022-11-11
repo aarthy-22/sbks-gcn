@@ -1,0 +1,9 @@
+n-3 and n-6 polyunsaturated fatty acids induce the expression of COX-2 via PPARgamma activation in human keratinocyte HaCaT cells.
+Polyunsaturated fatty acids (PUFA) n-3 inhibit inflammation, in vivo and in vitro in keratinocytes.
+We examined in HaCaT keratinocyte cell line whether eicosapentaenoic acid (EPA) a n-3 PUFA, gamma-linoleic acid (GLA) a n-6 PUFA, and arachidic acid a saturated fatty acid, modulate expression of cyclooxygenase-2 (COX-2), an enzyme pivotal to skin inflammation and reparation.
+We demonstrate that only treatment of HaCaT with GLA and EPA or a PPARgamma ligand (roziglitazone), induced COX-2 expression (protein and mRNA).
+Moreover stimulation of COX-2 promoter activity was increased by those PUFAs or rosiglitazone.
+The inhibitory effects of GW9662 and T0070907 (PPARgamma antagonists), on COX-2 expression and on stimulation of COX-2 promoter activity by EPA and GLA suggest that PPARgamma is implicated in COX-2 induction.
+Finally, PLA2 inhibitor methyl arachidonyl fluorophosphonate blocked the PUFA effects on COX-2 induction, promoter activity and arachidonic acid mobilization suggesting involvement of AA metabolites in PPAR activation.
+These findings demonstrate that n-3 and n-6 PUFA increased PPARgamma activity is necessary for the COX-2 induction in HaCaT human keratinocyte cells.
+Given the anti-inflammatory properties of EPA, we suggest that induction of COX-2 in keratinocytes may be important in the anti-inflammatory and protective mechanism of action of PUFAs n-3 or n-6.

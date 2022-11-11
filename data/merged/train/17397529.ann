@@ -1,0 +1,33 @@
+T20	CHEMICAL 35 46	glutathione
+T1	CHEMICAL 48 59	Glutathione
+T6	CHEMICAL 65 75	tripeptide
+T12	CHEMICAL 88 97	glutamate
+T15	CHEMICAL 99 107	cysteine
+T17	CHEMICAL 112 119	glycine
+T18	CHEMICAL 121 132	Glutathione
+T11	CHEMICAL 394 406	leukotrienes
+T13	CHEMICAL 454 465	Glutathione
+T14	CHEMICAL 489 503	gamma-glutamyl
+T16	CHEMICAL 622 633	Glutathione
+T29	GENE-Y 622 644	Glutathione synthetase
+T19	CHEMICAL 873 895	Gamma-glutamylcysteine
+T30	GENE-Y 873 906	Gamma-glutamylcysteine synthetase
+T2	CHEMICAL 1067 1081	Gamma-glutamyl
+T21	GENE-Y 1067 1096	Gamma-glutamyl transpeptidase
+T22	GENE-Y 1176 1190	5-Oxoprolinase
+T23	GENE-N 1290 1301	Dipeptidase
+T3	CHEMICAL 1590 1604	gamma-glutamyl
+T4	CHEMICAL 1635 1646	glutathione
+T24	GENE-Y 1635 1657	glutathione synthetase
+T5	CHEMICAL 1662 1684	gamma-glutamylcysteine
+T25	GENE-Y 1662 1695	gamma-glutamylcysteine synthetase
+T7	CHEMICAL 1776 1787	glutathione
+T8	CHEMICAL 1966 1977	glutathione
+T9	CHEMICAL 2071 2077	oxygen
+T10	CHEMICAL 2125 2139	gamma-glutamyl
+T26	GENE-Y 2125 2154	gamma-glutamyl transpeptidase
+T27	GENE-Y 2156 2170	5-oxoprolinase
+T28	GENE-N 2175 2186	dipeptidase
+R0	NOT Arg1:T3 Arg2:T24
+R1	NOT Arg1:T4 Arg2:T25
+R2	NOT Arg1:T24 Arg2:T5

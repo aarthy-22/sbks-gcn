@@ -1,0 +1,10 @@
+Repressive Epigenetic Changes at the Mglu2 Promoter in Frontal Cortex of 5-HT2A Knockout Mice.
+Serotonin 5-HT2A and metabotropic glutamate 2 (mGlu2) are G protein-coupled receptors suspected in the pathophysiology of psychiatric disorders such as schizophrenia, depression and suicide.
+Previous findings demonstrate that mGlu2 mRNA expression is down-regulated in brain cortical regions of 5-HT2A knockout (KO) mice.
+However, the molecular mechanism responsible for this alteration remains unknown.
+We show here repressive epigenetic changes at the promoter region of the mGlu2 gene in frontal cortex of 5-HT2A-KO mice.
+Disruption of 5-HT2A receptor-dependent signaling in mice was associated with decreased acetylation of histone H3 (H3ac) and H4 (H4ac), and increased tri-methylation of histone H3 at lysine 27 (H3K27me3) at the mGlu2 promoter-epigenetic changes that correlate with transcriptional repression.
+Neither methylation of histone H3 at lysine 4 (H3K4me1/2/3) nor tri-methylation of histone H3 at lysine 9 (H3K9me3) was affected.
+We found that Egr1, a transcription factor whose promoter activity was positively regulated by the 5-HT2A receptor agonist TCB-2, binds less to the mGlu2 promoter in frontal cortex of 5-HT2A-KO as compared to wild-type mice.
+Furthermore, expression of mGlu2 was increased by viral-mediated gene transfer of Flag-tagged Egr1 in mouse frontal cortex.
+Together, these observations suggest that 5-HT2A receptor-dependent signaling epigenetically affects mGlu2 transcription in mouse frontal cortex.

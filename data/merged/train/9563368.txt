@@ -1,0 +1,11 @@
+Development of fluticasone propionate and comparison with other inhaled corticosteroids.
+Fluticasone propionate (FP) is a trifluorinated glucocorticoid based on the androstane nucleus.
+It was selected for development from structure-activity relationships (topical anti-inflammatory, cutaneous vasoconstriction, and hypothalamic-pituitary-adrenal axis suppression) of a series of 17beta-carbothioates.
+FP is 3-, 300-, and 1000-fold more lipophilic than beclomethasone dipropionate, budesonide, and triamcinolone acetonide, respectively.
+FP has an absolute affinity (KD) for the glucocorticoid receptor of 0.5 nmol/L and a relative receptor affinity 1.5-fold higher than beclomethasone-17-monopropionate (17-BMP) and mometasone furoate, 3-fold higher than budesonide, and 20-fold higher than flunisolide and triamcinolone acetonide.
+The rate of association of FP with the receptor is faster and the rate of dissociation slower than other corticosteroids.
+The resulting half-life of the FP active steroid-receptor complex is >10 hours, compared with approximately 5, 7.5, and 4 hours for budesonide, 17-BMP, and triamcinolone acetonide, respectively.
+FP has high selectivity for the glucocorticoid receptor, with little or no activity at other steroid receptors.
+FP is more potent than beclomethasone dipropionate, budesonide, triamcinolone acetonide, and mometasone furoate in inhibiting human T-cell migration and proliferation, inhibiting CD4+ T-cell cytokine and basophil histamine release, attenuating adhesion molecule expression, stimulating inflammatory cell apoptosis, and inducing cellular antiprotease release.
+In asthma patients, FP decreases the number of CD3+, CD4+, CD8+, and CD25+ T cells, mast cells, and eosinophils in bronchial biopsies, in addition to suppressing CD1a-dendritic and IgE+ cells and HLA-DR.
+FP, therefore, has a good pharmacologic profile for a topical steroid with increased intrinsic glucocorticoid potency and potent anti-inflammatory activity.

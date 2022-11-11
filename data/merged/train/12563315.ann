@@ -1,0 +1,41 @@
+T36	GENE-Y 0 6	PUMA-G
+T37	GENE-Y 11 15	HM74
+T20	CHEMICAL 34 48	nicotinic acid
+T1	CHEMICAL 88 102	Nicotinic acid
+T8	CHEMICAL 104 110	niacin
+T9	CHEMICAL 115 131	vitamin of the B
+T7	CHEMICAL 231 245	nicotinic acid
+T23	GENE-Y 396 433	hormone-sensitive triglyceride lipase
+T10	CHEMICAL 414 426	triglyceride
+T11	CHEMICAL 465 479	nicotinic acid
+T12	CHEMICAL 507 537	cyclic adenosine monophosphate
+T13	CHEMICAL 539 543	cAMP
+T24	GENE-N 586 598	G(i)-protein
+T14	CHEMICAL 622 630	adenylyl
+T25	GENE-N 622 638	adenylyl cyclase
+T26	GENE-N 642 668	G-protein-coupled receptor
+T15	CHEMICAL 673 687	nicotinic acid
+T27	GENE-N 744 777	orphan G-protein-coupled receptor
+T28	GENE-Y 818 834	interferon-gamma
+T29	GENE-Y 837 849	mouse PUMA-G
+T30	GENE-Y 851 861	human HM74
+T16	CHEMICAL 911 925	nicotinic acid
+T31	GENE-Y 911 934	nicotinic acid receptor
+T17	CHEMICAL 947 961	nicotinic acid
+T32	GENE-Y 965 971	PUMA-G
+T33	GENE-Y 975 979	HM74
+T34	GENE-N 993 997	G(i)
+T18	CHEMICAL 1019 1023	cAMP
+T35	GENE-Y 1048 1054	PUMA-G
+T19	CHEMICAL 1060 1074	nicotinic acid
+T2	CHEMICAL 1100 1110	fatty acid
+T3	CHEMICAL 1112 1115	FFA
+T4	CHEMICAL 1121 1133	triglyceride
+T21	GENE-Y 1179 1185	PUMA-G
+T5	CHEMICAL 1244 1258	nicotinic acid
+T6	CHEMICAL 1294 1308	nicotinic acid
+T22	GENE-Y 1294 1317	nicotinic acid receptor
+R0	NOT Arg1:T11 Arg2:T24
+R1	NOT Arg1:T12 Arg2:T24
+R2	NOT Arg1:T24 Arg2:T14
+R3	NOT Arg1:T26 Arg2:T15

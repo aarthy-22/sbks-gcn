@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 23 72	5-bromo-[1,2,4] triazolo[1,5-a]pyridin-2-amine(3)
+T3	REAGENT_CATALYST 73 100	Hydroxylamine hydrochloride
+T4	REAGENT_CATALYST 123 149	diisopropylethylamine(54.1
+T5	TEMPERATURE 257 261	25°C
+T6	TIME 266 272	1 hour
+T7	STARTING_MATERIAL 274 335	ethyl-N-[(6-bromo-2-pyridyl)thiocarbamoyl] carbamic acid(51.0
+T8	OTHER_COMPOUND 399 407	nitrogen
+T9	TEMPERATURE 444 449	80 °C
+T10	TIME 471 478	3 hours
+T11	OTHER_COMPOUND 675 680	water
+T12	TIME 685 691	10 min
+T13	REACTION_PRODUCT 756 807	5-bromo-[1,2,4] triazolo[1,5-a]pyridin-2-amine(32 g
+T14	YIELD_PERCENT 809 814	85.1%

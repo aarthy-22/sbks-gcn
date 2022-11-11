@@ -1,0 +1,9 @@
+A selective antagonist reveals a potential role of G protein-coupled receptor 55 in platelet and endothelial cell function.
+The G protein coupled receptor 55 (GPR55) is a lysophosphatidylinositol (LPI) receptor that is also responsive to certain cannabinoids.
+Although GPR55 has been implicated in several (patho)physiological functions, its role is still enigmatic mainly owing to the lack of selective GPR55 antagonists.
+Here we show that the compound CID16020046 ((4-[4-(3-hydroxyphenyl)-3-(4-methylphenyl)-6-oxo-1H,4H,5H,6H-pyrrolo [3,4-c] pyrazol-5-yl] benzoic acid) is a selective GPR55 antagonist.
+In yeast cells expressing human GPR55, CID16020046 antagonized agonist-induced receptor activation.
+In HEK293 cells stably expressing human GPR55 (HEK-GPR55), the compound behaved as an antagonist on LPI-mediated Ca2+ release and extracellular signal-regulated kinases (ERK1/2) activation, but not in HEK293 cells expressing cannabinoid receptor 1 or 2 (CB1 or CB2).
+CID16020046 concentration-dependently inhibited LPI-induced activation of nuclear factor of activated T-cells (NFAT), nuclear factor kappa of activated B cells (NF-κB) and serum response element (SRE), translocation of NFAT and NF-κB, and GPR55 internalization.
+It reduced LPI-induced wound healing in primary human lung microvascular endothelial cells (HMVEC-L) and reversed LPI-inhibited platelet aggregation, suggesting a novel role for GPR55 in platelet and endothelial cell function.
+CID16020046 is therefore a valuable tool to study GPR55-mediated mechanisms in primary cells and tissues.

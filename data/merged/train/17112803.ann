@@ -1,0 +1,24 @@
+T10	CHEMICAL 10 22	methotrexate
+T22	GENE-Y 76 81	ABCC2
+T3	CHEMICAL 137 159	adenosine triphosphate
+T13	GENE-N 137 200	adenosine triphosphate-binding cassette (ABC) class transporter
+T19	GENE-Y 201 206	ABCC2
+T20	GENE-Y 208 212	MRP2
+T21	GENE-Y 214 252	multidrug resistance related protein 2
+T11	GENE-Y 257 262	cMOAT
+T12	GENE-Y 264 315	canalicular multispecific organic anion transporter
+T7	CHEMICAL 383 395	methotrexate
+T8	CHEMICAL 491 503	methotrexate
+T18	GENE-Y 568 573	ABCC2
+T9	CHEMICAL 798 810	methotrexate
+T1	CHEMICAL 1162 1172	nucleotide
+T2	CHEMICAL 1414 1426	methotrexate
+T14	GENE-N 1962 1968	-24C>T
+T15	GENE-Y 1969 1974	ABCC2
+T4	CHEMICAL 2006 2018	methotrexate
+T16	GENE-Y 2061 2065	MRP2
+T5	CHEMICAL 2132 2144	methotrexate
+T17	GENE-Y 2206 2211	ABCC2
+T6	CHEMICAL 2255 2267	methotrexate
+R0	NOT Arg1:T16 Arg2:T6
+R1	NOT Arg1:T17 Arg2:T6

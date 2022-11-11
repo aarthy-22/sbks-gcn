@@ -1,0 +1,22 @@
+T20	GENE-N 74 90	interferon-alpha
+T2	GENE-N 132 142	interferon
+T13	GENE-N 176 193	type I interferon
+T17	GENE-N 195 198	IFN
+T5	GENE-N 231 247	interferon-alpha
+T1	CHEMICAL 311 321	amino acid
+T8	GENE-N 438 446	cytokine
+T9	GENE-N 462 472	interferon
+T10	GENE-N 521 531	interferon
+T11	GENE-N 575 593	type I interferons
+T12	GENE-N 634 644	interferon
+T14	GENE-Y 704 716	IFN-alpha 2a
+T15	GENE-Y 721 733	IFN-alpha 2b
+T16	GENE-N 843 860	type I interferon
+T18	GENE-N 1084 1093	IFN-alpha
+T19	GENE-N 1118 1128	interferon
+T3	GENE-Y 1168 1177	IL-1 beta
+T4	GENE-N 1197 1206	IFN-alpha
+T6	GENE-N 1305 1331	type I interferon receptor
+T7	GENE-N 1421 1431	interferon
+R0	CPR-1 Arg1:T1 Arg2:T5
+R1	NOT Arg1:T13 Arg2:T1

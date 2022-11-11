@@ -1,0 +1,3 @@
+Synthesis of 1-(5-chloropyridin-2-yl)-4-{3-[4-(difluoromethoxy)phenyl]-1,2,4-oxadiazol-5-yl}pyrrolidin-2-one (Compound 62)
+(62-1) Synthesis of 1-[(4-methoxyphenyl)methyl]-5-oxopyrrolidine-3-carboxylic acid (Compound 62-1)
+A mixed solution of itaconic acid (2.6 g, 20 mmol) and (4-methoxyphenyl)methanamine (2.7 g, 20 mmol) in DMF (3 mL) was stirred at 100 °C for 22 hours. After cooling to room temperature, the solvent was evaporated off under reduced pressure, water (30 mL) was added to the obtained residue, and the mixture was stirred for 20 minutes to crystallize. The insolubles were collected by filtration followed by washing with water to obtain 4.5 g (yield 89 %) of the title compound

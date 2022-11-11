@@ -1,0 +1,9 @@
+Silibinin protects H9c2 cardiac cells from oxidative stress and inhibits phenylephrine-induced hypertrophy: potential mechanisms.
+Cardiac hypertrophy is the main response of the heart to various extrinsic and intrinsic stimuli, and it is characterized by specific molecular and phenotypic changes.
+Recent in vitro and in vivo studies indicate the involvement of reactive oxygen species in the hypertrophic response.
+In this study, silibinin, a plant flavonolignan extracted from milk thistle with potent antioxidant activity, was evaluated for its effects in (a) preventing hydrogen peroxide (H2O2)-induced cellular damage and (b) blocking the phenylephrine-induced hypertrophic response.
+Using the in vitro model of embryonic rat heart-derived H9c2 cells, we showed that silibinin has a rather safe profile as concentrations up to 200μM did not affect cell viability.
+Pretreatment of H9c2 cells with silibinin resulted in better protection of H9c2 cells under conditions of H2O2-induced cellular stress compared to untreated cells as indicated by cell viability and DNA fragmentation assays.
+Furthermore, silibinin attenuated the phenylephrine-induced hypertrophic response as evidenced by the measurement of cell surface, up-regulation of atrial natriuretic peptide and increase of cellular protein levels.
+Moreover, silibinin repressed the phenylephrine-induced phosphorylation of ERK1/2 kinases, while it appeared to inhibit the weakly activated by phenylephrine phosphorylation of Akt.
+Based on our results, silibinin may attenuate the phenylephrine-induced hypertrophic response of H9c2 cells via antioxidant mechanisms involving mainly the inhibition of the intracellular signaling pathways mediated by ERK1/2 MAPKs and Akt.

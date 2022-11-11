@@ -1,0 +1,13 @@
+Cyclopenta[c]phenanthrenes - Chemistry and biological activity.
+Despite cyclopenta-fused polycyclic aromatic hydrocarbons (CP-PAHs) having been detected in the environment, the ability of these compounds to induce cellular and tissue responses remains poorly characterized.
+In this review, we look at the chemistry and biological activity of the cyclopenta[c]phenanthrenes (CP[c]Ph) as potential chemicals of concern in the process of risk assessment.
+The first part of the review deals with the environmental occurrence and chemistry of CP-PAHs, focusing on available methods of CP[c]Ph chemical synthesis.
+The most interesting structural feature of the CP[c]Ph is the presence of a pseudo fjord-region constructed by the cyclopentane ring.
+This compound can be treated either as a structurally similar one to B[c]Ph, or as a phenanthrene skeleton with an electrodonating alkyl substituent in the bay-region of the molecule.
+The second thread, providing available data on the adverse effects of CP[c]Ph compounds on cells and tissues of living organisms, mainly fish, improves our understanding of these possible environmental hazards.
+The data show that CP[c]Ph is less potent at inducing CYP1A gene expression in rainbow trout than benzo[a]pyrene (B[a]P), a well-known Ah-receptor agonist.
+Interestingly, the CP[c]Ph dependent up-regulation of CYP1A mRNA is positively correlated with the incidences of clastogenic changes in rainbow trout erythrocytes.
+CP[c]Ph has, comparably to B[a]P, a potential to repress expression of tumor suppressor p53, in the head kidney of rainbow trout.
+Furthermore, estrogen responsive genes in fish liver, ERα and VTG, are not induced by CP[c]Ph, suggesting that the compound has no endocrine disrupting potential.
+However, some CP[c]Phs show mutagenic activity when investigated in the Ames test, and exhibit genotoxic properties in in vitro micronucleus assay.
+The above characteristics suggest that CP-PAHs are chemicals of concern for which potential pathways of exposure should be further identified.

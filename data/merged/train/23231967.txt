@@ -1,0 +1,4 @@
+Selective and potent adenosine A3 receptor antagonists by methoxyaryl substitution on the N-(2,6-diarylpyrimidin-4-yl)acetamide scaffold.
+The influence of diverse methoxyphenyl substitution patterns on the N-(2,6-diarylpyrimidin-4-yl)acetamide scaffold is herein explored in order to modulate the A(3) adenosine receptor antagonistic profile.
+As a result, novel ligands exhibiting excellent potency (K(i) on A(3) AR < 20 nM) and selectivity profiles (above 100-fold within the adenosine receptors family) are reported.
+Moreover, our joint theoretical and experimental approach allows the identification of novel pharmacophoric elements conferring A(3)AR selectivity, first established by a robust computational model and thereafter characterizing the most salient features of the structure-activity and structure-selectivity relationships in this series.

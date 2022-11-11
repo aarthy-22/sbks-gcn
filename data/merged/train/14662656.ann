@@ -1,0 +1,24 @@
+T21	GENE-N 14 23	complex I
+T22	GENE-N 68 88	cytochrome c oxidase
+T9	CHEMICAL 141 147	lactic
+T15	GENE-Y 327 339	human NDUFV1
+T16	GENE-Y 364 428	51 kDa active site subunit of the NADH-ubiquinone oxidoreductase
+T7	CHEMICAL 398 402	NADH
+T17	GENE-N 432 441	complex I
+T18	GENE-Y 742 747	nuo-1
+T19	GENE-Y 784 790	NDUFV1
+T20	GENE-N 853 862	complex I
+T8	CHEMICAL 913 917	NADH
+T10	GENE-Y 1169 1175	NDUFV1
+T1	CHEMICAL 1233 1243	riboflavin
+T2	CHEMICAL 1248 1256	thiamine
+T3	CHEMICAL 1265 1287	sodium dichloroacetate
+T4	CHEMICAL 1309 1317	pyruvate
+T11	GENE-N 1309 1339	pyruvate dehydrogenase complex
+T12	GENE-N 1409 1429	cytochrome c oxidase
+T13	GENE-N 1506 1524	complexes I and IV
+T14	GENE-N 1552 1561	complex I
+T5	CHEMICAL 1651 1655	NADH
+T6	CHEMICAL 1698 1704	oxygen
+R0	NOT Arg1:T21 Arg2:T9
+R1	NOT Arg1:T22 Arg2:T9

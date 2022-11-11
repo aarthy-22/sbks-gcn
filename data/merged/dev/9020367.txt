@@ -1,0 +1,8 @@
+Clonal CD8+ and CD52- T cells are induced in responding B cell lymphoma patients treated with Campath-1H (anti-CD52).
+Five patients with non-Hodgkin's lymphoma (NHL) and 4 patients with chronic lymphocytic leukaemia (CLL) were treated with the CDR-grafted (rat x human) monoclonal antibody (mAb) Campath-1H (anti-CD52).
+Tumour regression was noted preferentially in peripheral blood and in the bone marrow but lymph nodes were less affected.
+Normal blood B and T cells were profoundly reduced in all patients whereas CD16+ NK cells and CD14+ monocytes decreased marginally.
+In all responding CLL patients CD52-negative T but not B cells appeared during treatment and persisted for several months (4-19+) during unmaintained follow-up.
+Clonal T cells defined as a predominance of a single T cell receptor (TCR) V gene usage, in one case verified by TCR CDR3 fragment analysis and nucleotide sequencing, emerged within the CD52-/CD8+ cell population during Campath-1H therapy in 2 CLL patients, both achieving a long-lasting remission.
+The increase in CD8+ T cell expansions (up to 23-fold) during unmaintained remission and follow-up suggest that the clonal CD8+ cells may represent regulatory T cells controlling the growth of the tumour B cell clone.
+Clonal T cells might thus be a target for an immune therapeutic intervention in B cell tumours.

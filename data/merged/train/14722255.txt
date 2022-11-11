@@ -1,0 +1,12 @@
+The antileukemia drug 2-chloro-2'-deoxyadenosine: an intrinsic transcriptional antagonist.
+The nucleoside analog 2-chloro-2'-deoxyadenosine (CldAdo; cladribine) is effective in the treatment of hairy cell leukemia and chronic lymphocytic leukemia.
+CldAdo is phosphorylated and incorporated into cellular DNA but is not an absolute chain terminator.
+We demonstrated by in vitro gel-shift assays that binding interactions of the human TATA box-binding protein (TBP) were disrupted on 2-chlorodeoxyadenosine monophosphate (CldAMP)-substituted TATA box consensus sequences.
+We hypothesized that human RNA polymerase II (pol II) transcriptional processes would therefore be affected by 2-chlorodeoxyadenosine triphosphate (CldATP) incorporation into a promoter TATA element.
+Double-stranded DNA templates containing the adenovirus major late promoter and coding sequences were enzymatically synthesized as control or with site-specific CldAMP residues, incubated with HeLa extract, and the synthesis of radiolabeled 44-base transcripts was assessed.
+With increasing amounts of HeLa extract, CldAMP substitution for dAMP within the TATA box decreased in vitro pol II transcription by approximately 35% compared with control substrates.
+Time-course studies showed that transcript production increased in a linear fashion on control substrates.
+In contrast, transcription on CldAMP-substituted TATA sequences reached a plateau after 20 min.
+Furthermore, CldAMP-substituted promoter sequences trapped or sequestered TBP, preventing its dissociation from DNA and subsequent binding to additional TATA elements to reinitiate transcription.
+CldAdo thus represents the first example of a nucleoside analog that acts as a transcriptional antagonist.
+CldATP incorporation into gene regulatory sequences may provide a novel strategy to modulate specific protein/DNA interactions.

@@ -1,0 +1,28 @@
+T28	GENE-Y 0 31	Phosphoinositide 3-kinase gamma
+T4	CHEMICAL 66 79	isoproterenol
+T23	GENE-Y 167 198	phosphoinositide 3-kinase gamma
+T27	GENE-Y 200 209	PI3Kgamma
+T10	GENE-N 234 261	G-protein-coupled receptors
+T17	GENE-N 359 402	G-protein-coupled beta-adrenergic receptors
+T18	GENE-Y 481 490	PI3Kgamma
+T19	GENE-Y 594 603	PI3Kgamma
+T20	GENE-N 630 657	G-protein-coupled receptors
+T2	CHEMICAL 689 702	isoproterenol
+T21	GENE-N 706 730	beta-adrenergic receptor
+T22	GENE-Y 745 754	PI3Kgamma
+T3	CHEMICAL 795 808	isoproterenol
+T24	GENE-Y 821 830	PI3Kgamma
+T25	GENE-N 968 992	beta-adrenergic receptor
+T26	GENE-Y 1067 1076	PI3Kgamma
+T5	GENE-Y 1179 1188	PI3Kgamma
+T6	GENE-N 1218 1221	Akt
+T7	GENE-Y 1222 1238	protein kinase B
+T8	GENE-N 1243 1284	extracellular signal-regulated kinase 1/2
+T1	CHEMICAL 1339 1352	isoproterenol
+T9	GENE-N 1354 1390	beta1- and beta2-adrenergic receptor
+T11	GENE-Y 1438 1447	PI3Kgamma
+T12	GENE-Y 1492 1501	PI3Kgamma
+T13	GENE-N 1549 1574	beta-adrenergic receptors
+T14	GENE-Y 1650 1659	PI3Kgamma
+T15	GENE-N 1764 1788	beta-adrenergic receptor
+T16	GENE-Y 1816 1825	PI3Kgamma

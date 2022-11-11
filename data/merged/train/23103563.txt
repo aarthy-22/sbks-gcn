@@ -1,0 +1,11 @@
+Ibandronate increases the expression of the pro-apoptotic gene FAS by epigenetic mechanisms in tumor cells.
+There is growing evidence that aminobisphosphonates like ibandronate show anticancer activity by an unknown mechanism.
+Biochemically, they prevent posttranslational isoprenylation of small GTPases, thus inhibiting their activity.
+In tumor cells, activated RAS-GTPase, the founding member of the gene family, down-regulates the expression of the pro-apoptotic gene FAS via epigenetic DNA-methylation by DNMT1.
+We compared ibandronate treatment in neoplastic human U-2 osteosarcoma and in mouse CCL-51 breast cancer cells as well as in the immortalized non-neoplastic MC3T3-E1 osteoblastic cells.
+Ibandronate attenuated cell proliferation in all cell lines tested.
+In the neoplastic cells we found up-regulation of caspases suggesting apoptosis.
+Further we found stimulation of FAS-expression as a result of epigenetic DNA demethylation that was due to down-regulation of DNMT1, which was rescued by re-isoprenylation by both geranylgeranyl-pyrophosphate and farnesylpyrophosphate.
+In contrast, ibandronate did not affect FAS and DNMT1 expression in MC3T3-E1 non-neoplastic cells.
+Data suggest that bisphosphonates via modulation of the activity of small-GTPases induce apoptosis in neoplastic cells by DNA-CpG-demethylation and stimulation of FAS-expression.
+In conclusion the shown epigenetic mechanism underlying the anti-neoplastic activity of farnesyl-transferase-inhibition, also explains the clinical success of other drugs, which target this pathway.

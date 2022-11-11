@@ -1,0 +1,11 @@
+Merit of quinacrine in the decrease of ingested sulfite-induced toxic action in rat brain.
+We aimed at investigating the effects of sulfite-induced lipid peroxidation and apoptosis mediated by secretory phospholipase A2 (sPLA2) on somatosensory evoked potentials (SEP) alterations in rats.
+Thirty male albino Wistar rats were randomized into three experimental groups as follows; control (C), sodium metabisulfite treated (S), sodium metabisulfite+quinacrine treated (SQ).
+Sodium metabisulfite (100 mg/kg/day) was given by gastric gavage for 5 weeks and 10 mg/kg/day quinacrine was applied as a single dose of intraperitoneal injection for the same period.
+The latencies of SEP components were significantly prolonged in the S group and returned to control levels following quinacrine administration.
+Plasma-S-sulfonate level was increased in S and SQ groups.
+TBARS levels in the S group were significantly higher than those detected in controls.
+Quinacrine significantly decreased brain TBARS levels in the SQ group compared with the S group.
+Quinacrine treatment did not have an effect on the increased sPLA2 level of the sulfite administered group.
+Immunohistochemistry showed that sulfite caused an increase in caspase-3 and TUNEL positive cells, restored to control levels via quinacrine administration.
+This study showed that sPLA2 might play a role in ingested sulfite-induced SEP alterations, oxidative stress, apoptotic cell death and DNA damage in the brain.

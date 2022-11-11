@@ -1,0 +1,2 @@
+(step 2) Synthesis of tert-butyl N-[(2-chloro-4-pyridyl)methyl]carbamate
+To (2-chloro-4-pyridyl)methylamine (14 g, 0.10 mol) was added dichloromethane (120 mL) for dissolution, triethylamine (28 mL, 0.20 mol) and di-tert-butyl dicarbonate (26 g, 0.12 mol) were added, and the mixture was stirred at room temperature for 2 hr. The solvent was evaporated from the reaction mixture and the obtained residue was purified by silica gel column chromatography (petroleum ether/ethyl acetate) to give the title compound (22 g, 0.091 mmol, 91%).

@@ -1,0 +1,12 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 8 86	benzyl 1-((tert-butoxycarbonyl)amino)-3-azabicyclo[3.1.1]heptane-3-carboxylate
+T3	REACTION_PRODUCT 104 167	3-((benzyloxy)carbonyl)-3-azabicyclo[3.1.1]heptane-1-carboxylic
+T4	REAGENT_CATALYST 198 211	triethylamine
+T5	SOLVENT 237 249	tert-butanol
+T6	STARTING_MATERIAL 269 294	diphenyl phosphoryl azide
+T7	TEMPERATURE 349 354	85° C
+T8	OTHER_COMPOUND 607 620	ethyl acetate
+T9	OTHER_COMPOUND 621 628	hexanes
+T10	REACTION_PRODUCT 644 659	desired product
+T11	YIELD_OTHER 661 666	45 mg
+T12	YIELD_PERCENT 668 671	24%

@@ -1,0 +1,8 @@
+T1	CHEMICAL 691 705	levonorgestrel
+T5	GENE-Y 737 746	aromatase
+T2	CHEMICAL 818 826	estrogen
+T6	GENE-N 818 852	estrogen and progesterone receptor
+T3	CHEMICAL 831 843	progesterone
+T4	GENE-N 1116 1146	gonadotropin-releasing hormone
+R0	NOT Arg1:T1 Arg2:T6
+R1	NOT Arg1:T5 Arg2:T3

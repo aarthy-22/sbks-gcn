@@ -1,0 +1,10 @@
+T9	GENE-N 24 36	phosphatases
+T2	GENE-N 296 303	kinases
+T3	GENE-N 308 320	phosphatases
+T4	GENE-Y 500 504	PTEN
+T5	GENE-N 506 517	phosphatase
+T6	GENE-N 522 528	tensin
+T1	CHEMICAL 650 670	phosphatidylinositol
+T7	GENE-N 650 680	phosphatidylinositol 3--kinase
+T8	GENE-N 836 847	phosphatase
+R0	NOT Arg1:T5 Arg2:T1

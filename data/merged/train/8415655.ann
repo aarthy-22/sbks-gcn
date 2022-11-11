@@ -1,0 +1,17 @@
+T7	CHEMICAL 32 47	prostaglandin D
+T13	GENE-Y 32 56	prostaglandin D synthase
+T1	CHEMICAL 136 147	Glutathione
+T3	CHEMICAL 160 175	prostaglandin D
+T9	GENE-Y 160 184	prostaglandin D synthase
+T4	CHEMICAL 186 202	prostaglandin-H2
+T10	GENE-Y 186 214	prostaglandin-H2 D-isomerase
+T6	CHEMICAL 216 287	(5Z,13E)-(15S)-9 alpha,11 alpha-epidioxy-15-hydroxyprosta-5,13-dienoate
+T12	GENE-Y 216 299	(5Z,13E)-(15S)-9 alpha,11 alpha-epidioxy-15-hydroxyprosta-5,13-dienoate D-isomerase
+T8	GENE-Y 301 312	EC 5.3.99.2
+T2	CHEMICAL 359 375	prostaglandin D2
+T5	CHEMICAL 745 760	prostaglandin D
+T11	GENE-Y 745 769	prostaglandin D synthase
+R0	NOT Arg1:T1 Arg2:T8
+R1	NOT Arg1:T3 Arg2:T8
+R2	NOT Arg1:T4 Arg2:T12
+R3	NOT Arg1:T10 Arg2:T6

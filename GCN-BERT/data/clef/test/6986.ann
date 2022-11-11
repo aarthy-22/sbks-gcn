@@ -1,0 +1,8 @@
+T1	EXAMPLE_LABEL 8 11	340
+T2	REACTION_PRODUCT 12 151	1-(2-Methoxyethyl)-5-methyl-6-[(2-oxo-2,3-dihydro-1H-imidazol-1-yl)methyl]-3-(2,2,2-trifluoroethyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+T3	YIELD_OTHER 255 261	140 mg
+T4	YIELD_PERCENT 263 266	32%
+T5	REACTION_PRODUCT 285 299	title compound
+T6	OTHER_COMPOUND 427 432	water
+T7	OTHER_COMPOUND 499 511	acetonitrile
+T8	TEMPERATURE 515 517	RT

@@ -1,0 +1,14 @@
+[Mammalian target of rapamycin, its mode of action and clinical response in metastatic clear cell carcinoma].
+The mammalian target of rapamycin(mTOR)and its molecular pathways are supposed to be activated frequently in human renal cell carcinoma as well as other cancers.
+It has a kinase activity for 40S ribosomal protein kinase and eukaryotic translation initiation factor 4E-binding protein 1.
+These proteins, when phosphorylated, promote protein translation and RNA transcription in the nutrient-rich condition.
+mTOR inhibitors such as Temsirolimus (CCI779) and Everolimus (RAD001) are effective for suppressing cell growth with inhibiting mTOR kinase activity.
+Rapamycin and its related analogs such as Temsirolimus and Everolimus are less toxic for humans compared with other anti-VEGFR inhibitors and has been used as an immunosuppressive agent.
+These agents have an inhibitory activity against the mTORC1 complex.
+Since they do not have inhibitory activity against mTORC2 complex, the ability of mTOR inhibition by Temsirolimus is supposed to be 40 to 50% of full inhibition in mTOR kinase.
+Temsirolimus has modest anticancer activity against advanced clinical RCC patients with poor risk.
+The objective response rate was only 7%, 26% of patients experienced minor responses and another 17% of patients had stable disease that lasted 6 months.
+The median time to tumor progression and median survival for the study patients were 5.8 and 15.0 months, respectively.
+The overall survival of patients treated with Temsirolimus alone was statistically longer than in those treated with IFN alone in the 626 cases in phase II study.
+Combinations of mTOR with other anti- VEGFR agents were not effective.
+Vertical therapies of mTOR inhibitor in combination with AKT inhibitors, or newly development of stronger mTOR kinase which can suppress both mTORC1 and mTORC2 are planned at present.

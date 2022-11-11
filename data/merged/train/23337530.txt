@@ -1,0 +1,9 @@
+Anagliptin, a DPP-4 inhibitor, suppresses proliferation of vascular smooth muscles and monocyte inflammatory reaction and attenuates atherosclerosis in male apo E-deficient mice.
+Dipeptyl peptidase-4 (DPP-4) inhibitors modulate the progression of atherosclerosis.
+To gain insights into their mechanism of action, 9-wk-old male apolipoprotein E (apoE)-deficient mice were fed a DPP-4 inhibitor, anagliptin-containing diet.
+The effects of anagliptin were investigated in, a monocyte cell line, human THP-1 cells, and rat smooth muscle cells (SMCs).
+Treatment with anagliptin for 16 wk significantly reduced accumulation of monocytes and macrophages in the vascular wall, SMC content in plaque areas, and oil red O-stained area around the aortic valve without affecting glucose tolerance or body weight.
+Serum DPP-4 concentrations were significantly higher in apoE-deficient mice than control mice, and the levels increased with aging, suggesting the involvement of DPP-4 in the progression of atherosclerosis.
+Indeed, soluble DPP-4 augmented cultured SMC proliferation, and anagliptin suppressed the proliferation by inhibiting ERK phosphorylation.
+In THP-1 cells, anagliptin reduced lipopolysaccharide-induced TNF-α production with inhibiting ERK phosphorylation and nuclear translocation of nuclear factor-κB. Quantitative analysis also showed that anagliptin reduced the area of atherosclerotic lesion in apoE-deficient mice.
+These results indicated that the anti-atherosclerotic effect of anagliptin is mediated, at least in part, through its direct inhibition of SMC proliferation and inflammatory reaction of monocytes.

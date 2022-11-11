@@ -1,0 +1,49 @@
+T33	CHEMICAL 14 25	venlafaxine
+T34	CHEMICAL 66 75	serotonin
+T42	GENE-N 66 107	serotonin and norepinephrine transporters
+T35	CHEMICAL 80 94	norepinephrine
+T7	CHEMICAL 248 257	serotonin
+T36	GENE-N 248 321	serotonin (5-hydroxytryptamine, 5-HT) and the norepinephrine transporters
+T8	CHEMICAL 259 278	5-hydroxytryptamine
+T9	CHEMICAL 280 284	5-HT
+T10	CHEMICAL 294 308	norepinephrine
+T11	CHEMICAL 350 369	[3H]cyanoimipramine
+T12	CHEMICAL 374 388	[3H]nisoxetine
+T13	CHEMICAL 418 422	5-HT
+T14	CHEMICAL 443 453	paroxetine
+T15	CHEMICAL 455 464	indalpine
+T16	CHEMICAL 469 480	fluvoxamine
+T17	CHEMICAL 515 519	5-HT
+T37	GENE-Y 515 531	5-HT transporter
+T18	CHEMICAL 545 559	norepinephrine
+T19	CHEMICAL 579 590	desipramine
+T20	CHEMICAL 619 633	norepinephrine
+T38	GENE-Y 619 645	norepinephrine transporter
+T21	CHEMICAL 647 657	Duloxetine
+T22	CHEMICAL 666 670	5-HT
+T23	CHEMICAL 675 689	norepinephrine
+T24	CHEMICAL 749 753	5-HT
+T39	GENE-N 749 789	5-HT and the norepinephrine transporters
+T25	CHEMICAL 762 776	norepinephrine
+T26	CHEMICAL 806 817	venlafaxine
+T27	CHEMICAL 826 830	5-HT
+T28	CHEMICAL 835 849	norepinephrine
+T29	CHEMICAL 913 917	5-HT
+T40	GENE-Y 913 929	5-HT transporter
+T30	CHEMICAL 975 989	norepinephrine
+T41	GENE-Y 975 1001	norepinephrine transporter
+T31	CHEMICAL 1055 1066	venlafaxine
+T32	CHEMICAL 1100 1104	5-HT
+T1	CHEMICAL 1109 1123	norepinephrine
+T2	CHEMICAL 1222 1226	5-HT
+T3	CHEMICAL 1231 1245	norepinephrine
+T4	CHEMICAL 1269 1280	venlafaxine
+T5	CHEMICAL 1330 1349	[3H]cyanoimipramine
+T6	CHEMICAL 1354 1368	[3H]nisoxetine
+R0	NOT Arg1:T13 Arg2:T37
+R1	NOT Arg1:T13 Arg2:T38
+R2	NOT Arg1:T17 Arg2:T38
+R3	NOT Arg1:T37 Arg2:T20
+R4	NOT Arg1:T18 Arg2:T38
+R5	NOT Arg1:T23 Arg2:T39
+R6	NOT Arg1:T28 Arg2:T40

@@ -1,0 +1,9 @@
+Use of human in vitro skin models for accurate and ethical risk assessment: metabolic considerations.
+Several human skin models employing primary cells and immortalised cell lines, used as monocultures or combined to produce reconstituted 3D skin constructs, have been developed.
+Furthermore, these models have been included in European genotoxicity and sensitization/irritation assay validation projects.
+In order to help interpret data, Cosmetics Europe (formerly COLIPA) facilitated research projects that measured a variety of defined phase 1 and 2 enzyme activities and created a complete proteomic profile of xenobiotic metabolising enzymes (XMEs) in native human skin and compared them with data obtained from a number of in vitro models of human skin.
+Here, we have summarised our findings on the current knowledge of the metabolic capacity of native human skin and in vitro models, and make an overall assessment of the metabolic capacity from gene expression, proteomic expression and substrate metabolism data.
+The known low expression and function of phase 1 enzymes in native whole skin was reflected in the in vitro models.
+Some XMEs in whole skin were not detected in in vitro models and vice versa, and some major hepatic XMEs such as cytochrome P450-monooxygenases were absent or measured only at very low levels in the skin.
+Conversely, despite varying mRNA and protein levels of phase 2 enzymes, functional activity of glutathione S-transferases, N-acetyltransferase 1, and UDP-glucuronosyltransferases were all readily measurable in whole skin and in vitro skin models at activity levels similar to those measured in the liver.
+These projects have enabled a better understanding of the contribution of XMEs to toxicity endpoints.

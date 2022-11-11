@@ -1,0 +1,8 @@
+Significance of the transient receptor potential canonical 2 (TRPC2) channel in the regulation of rat thyroid FRTL-5 cell proliferation, migration, adhesion and invasion.
+Mammalian transient receptor potential (TRP) channels are involved in many physiologically important processes.
+Here, we have studied the significance of the TRPC2 channel in the regulation of rat thyroid FRTL-5 cell proliferation, migration, adhesion and invasion, using stable TRPC2 (shTRPC2) knock-down cells.
+In the shTRPC2 cells, proliferation was decreased due to a prolonged G1/S cell cycle phase.
+The tumor suppressor p53 and the cyclin-dependant kinase inhibitors p27 and p21 were upregulated.
+Cell invasion, adhesion and migration were also attenuated in shTRPC2 cells, probably due to decreased activity of both Rac and calpain, and a decreased secretion and activity of matrix metalloproteinase 2.
+The attenuated proliferation, migration, invasion and ATP-evoked calcium entry was mimicked by overexpressing a non-conducting, truncated TRPC2 (TRPC2-DN) in wild type cells, and was reversed by overexpression of TRPC2-GFP in shTRPC2 cells.
+In conclusion, TRPC2 is an important regulator of rat thyroid cell function.

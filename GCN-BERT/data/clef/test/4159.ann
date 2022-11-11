@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 8 9	1
+T2	REACTION_PRODUCT 11 104	(R)-3-(3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-yl)-3-oxopropanenitrile
+T3	STARTING_MATERIAL 115 184	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T4	SOLVENT 262 271	n-butanol
+T5	STARTING_MATERIAL 291 309	ethyl cyanoacetate
+T6	REAGENT_CATALYST 380 414	1,8-diazabicyclo[5.4.0]undec-7-ene
+T7	REAGENT_CATALYST 416 419	DBU
+T8	TEMPERATURE 447 451	80°C
+T9	TIME 462 470	24 hours
+T10	OTHER_COMPOUND 656 660	MeOH
+T11	OTHER_COMPOUND 661 669	CH2Cl2=2
+T12	YIELD_OTHER 782 788	101 mg
+T13	REACTION_PRODUCT 792 885	(R)-3-(3-(methyl(7H-pyrrolo[2,3-d]pyrimidine-4-yl)amino)pyrrolidine-1-yl)-3-oxopropanenitrile
+T14	YIELD_PERCENT 921 926	74.8%

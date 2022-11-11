@@ -1,0 +1,13 @@
+Transcriptional control of the arginine/lysine transporter, cat-1, by physiological stress.
+Cells respond to physiological stress by phosphorylating the alpha subunit of the translation initiation factor eIF2.
+This adaptive response inhibits protein synthesis and up-regulates genes essential for cell survival.
+Cat-1, the transporter for the essential amino acids, arginine and lysine, is one of the up-regulated genes.
+We previously showed that stress increases cat-1 expression by coordinated stabilization of the mRNA and increased mRNA translation.
+This induction is triggered by amino acid depletion and the unfolded protein response (UPR), which is caused by unfolded proteins in the endoplasmic reticulum.
+We show here that cat-1 gene transcription is also increased by cellular stress.
+Our studies demonstrate that the cat-1 gene promoter/regulatory region is TATA-less and is located in a region that includes 94 bases of the first exon.
+Transcription from this promoter is stimulated 8-fold by cellular stress.
+An amino acid response element within the first exon is shown to be required for the response to amino acid depletion but not to the UPR.
+The stimulation of transcription by amino acid depletion requires activation of GCN2 kinase, which phosphorylates eIF2alpha.
+This phosphorylation also induces translation of the cat-1 mRNA, demonstrating that stress-induced transcriptional and translational control of cat-1 are downstream targets of a signaling pathway initiating with eIF2alpha phosphorylation.
+Our studies show that the increase in cat-1 gene expression by cellular stress involves at least three types of coordinate regulation: regulation of transcription, regulation of mRNA stability, and regulation of mRNA translation.

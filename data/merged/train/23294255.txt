@@ -1,0 +1,7 @@
+Development of new cyclic plasmin inhibitors with excellent potency and selectivity.
+The trypsin-like serine protease plasmin is a target for the development of antifibrinolytic drugs for use in cardiac surgery with cardiopulmonary bypass or organ transplantations to reduce excessive blood loss.
+The optimization of our recently described substrate-analogue plasmin inhibitors, which were cyclized between their P3 and P2 side chains, provided a new series with improved efficacy and excellent selectivity.
+The most potent inhibitor 8 binds to plasmin with an inhibition constant of 0.2 nM, whereas K(i) values >1 μM were determined for nearly all other tested trypsin-like serine proteases, with the exception of trypsin, which is also inhibited in the nanomolar range.
+Docking studies revealed a potential binding mode in the widely open active site of plasmin that explains the strong potency and selectivity profile of these inhibitors.
+The dialkylated piperazine-linker segment contributes to an excellent solubility of all analogues.
+Based on their overall profile the presented inhibitors are well suited for further development as injectable antifibrinolytic drugs.

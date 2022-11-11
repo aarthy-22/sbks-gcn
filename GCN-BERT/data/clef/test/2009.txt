@@ -1,0 +1,5 @@
+Example 1
+N-(5-fluoro-4-(3-isopropyl-2-methyl-2H-indazol-5-yl)pyrimidin-2-yl)-6-(4-methylpiperidin-1-yl)pyridazine-3-amine
+Step 1:
+6-(4-methylpiperazin-1-yl)pyridazine-3-amine
+A mixture of 6-chloro-3-aminopyridazine (3.00 g, 23.16 mmol, 1.00 equivalent) and 1-methylpiperazine (8.10 g, 80.87 mmol, 3.49 equivalents) was added to a microwave tube, and the tube was sealed. The mixture was heated to 170° C and stirred for 1.5 hours under microwave. LC/MS showed completion of the reaction. The mixture was cooled to 20°C and concentrated under reduced pressure. The residue was purified by preparative HPLC (alkaline) to give the title compound (3.53 g, 18.27 mmol, 78.87% yield) as a white solid.

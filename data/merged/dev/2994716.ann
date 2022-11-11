@@ -1,0 +1,13 @@
+T5	CHEMICAL 0 10	Nucleotide
+T10	GENE-Y 36 51	human factor IX
+T11	GENE-Y 53 76	antihemophilic factor B
+T9	GENE-Y 158 179	coagulation factor IX
+T8	GENE-Y 323 332	factor IX
+T3	CHEMICAL 724 735	amino acids
+T4	CHEMICAL 848 859	nucleotides
+T1	CHEMICAL 1260 1266	purine
+T2	CHEMICAL 1267 1277	pyrimidine
+T6	GENE-N 1369 1394	KpnI repetitive sequences
+T7	GENE-Y 1578 1587	factor IX
+R0	NOT Arg1:T5 Arg2:T10
+R1	NOT Arg1:T5 Arg2:T11

@@ -1,0 +1,2 @@
+(25-2) Synthesis of (S)-2-(1H-indole-3-yl)-1-[3-(4-trifluoromethoxy)phenyl]-1,2,4-oxadiazole-5-yl]ethane-1-amine (Compound 25)
+To a stirred solution of tert-butyl (S)-2-(1H-indole-3-yl)-1-{3-[4-(trifluoromethoxyphenyl)-1,2,4-oxadiazole-5-yl]ethyl}carbamate (916 mg) in methylene chloride (7 mL) was added trifluoroacetic acid (1.5 mL) at room temperature. After stirring for 5 hours at room temperature, volatiles were removed in vacuo, and the residue was recrystallized from ethyl acetate to obtain the title compound (519 mg, yield 73%).

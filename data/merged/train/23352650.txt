@@ -1,0 +1,10 @@
+Point-to-point ligand-receptor interactions across the subunit interface modulate the induction and stabilization of conformational states of alpha7 nAChR by benzylidene anabaseines.
+The homomeric α7 nicotinic acetylcholine receptor is a well-studied therapeutic target, though its characteristically rapid desensitization complicates the development of drugs with specific agonist effects.
+Moreover, some experimental compounds such as GTS-21 (2,4diMeOBA), a derivative of the α7-selective partial agonist benzylidene anabaseine (BA), produce a prolonged residual desensitization (RD) in which the receptor remains non-activatable long after the drug has been removed from extracellular solution.
+In contrast, the desensitization caused by GTS-21's dihydroxy metabolite (2,4diOHBA) is relatively short-lived.
+RD is hypothetically due to stable binding of the ligand to the receptor in its desensitized state.
+We can attribute the reduction in RD to a single BA hydroxyl group on the 4' benzylidene position.
+Computational prediction derived from homology modeling showed the serine36 (S36) residue of α7 as a reasonable candidate for point-to-point interaction between BA compounds and the receptor.
+Through evaluating the activity of BA and simple derivatives on wild-type and mutant α7 receptors, it was observed that the drug-receptor pairs which were capable of hydrogen bonding at residue 36 exhibited significantly less stable desensitization.
+Further experiments involving the type II positive allosteric modulator (PAM) PNU-120596 showed that the various BA compounds' preference to induce either a PAM-sensitive (D(s)) or PAM-insensitive (D(i)) desensitized state is concentration dependent and suggested that both states are destabilized by S36 H-bonding.
+These results indicate that the fine-tuning of agonists for specific interaction with S36 can facilitate the development of therapeutics with targeted effects on ion channel desensitization properties and conformational state stability.

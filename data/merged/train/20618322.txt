@@ -1,0 +1,9 @@
+Copy number variations of the human histamine H4 receptor gene are associated with systemic lupus erythematosus.
+BACKGROUND: Systemic lupus erythematosus (SLE) is a complex genetic disease; the histamine H4 receptor (HRH4) has been shown to be related to different kinds of autoimmune disorders; and copy number variations (CNVs) have been found to be associated with various types of diseases.
+OBJECTIVES: To explore a possible association between HRH4 (formerly H4R) CNVs and the risk of SLE.
+METHODS: Genomic DNA and RNA from 340 patients with SLE and 392 healthy controls were extracted, and CNVs and mRNA levels of HRH4 were examined.
+RESULTS: The expression of HRH4 mRNA was significantly increased in patients with SLE compared with controls.
+Amplification of HRH4 copy numbers significantly increased the risk of SLE [P < 0.001, odds ratio (OR) 2.26, 95% confidence interval (CI) 1.50-3.40].
+HRH4 amplifications also positively correlated with the incidence of arthritis (P = 0.019, OR 1.96, 95% CI 1.11-3.47), and proteinuria (P < 0.001, OR 2.95, 95% CI 1.73-5.00) and antinuclear antibody abnormalities (P < 0.001, OR 2.97, 95% CI 1.66-5.33).
+Deletions of HRH4 copy numbers were protective against proteinuria (P = 0.03, OR 0.50, 95% CI 0.26-0.94).
+CONCLUSION: CNVs of the HRH4 gene are associated with SLE.

@@ -1,0 +1,7 @@
+Imaging docking and fusion of insulin granules induced by antidiabetes agents: sulfonylurea and glinide drugs preferentially mediate the fusion of newcomer, but not previously docked, insulin granules.
+Sulfonylurea and glinide drugs, commonly used for antidiabetes therapies, are known to stimulate insulin release from pancreatic beta-cells by closing ATP-sensitive K+ channels.
+However, the specific actions of these drugs on insulin granule motion are largely unknown.
+Here, we used total internal reflection fluorescence (TIRF) microscopy to analyze the docking and fusion of single insulin granules in live beta-cells exposed to either the sulfonylurea drug glibenclamide or the glinide drug mitiglinide.
+TIRF images showed that both agents caused rapid fusion of newcomer insulin granules with the cell membrane in both control and diabetic Goto-Kakizaki (GK) rat pancreatic beta-cells.
+However, in the context of beta-cells from sulfonylurea receptor 1 (SUR1) knockout mice, TIRF images showed that only mitiglinide, but not glibenclamide, caused fusion of newcomer insulin granules.
+Compositely, our data indicate that 1) the mechanism by which both sulfonylurea and glinide drugs promote insulin release entails the preferential fusion of newcomer, rather than previously docked, insulin granules, and that 2) mitiglinide can induce insulin release by a mechanism independent of mitiglinide binding to SUR1.

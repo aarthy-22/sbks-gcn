@@ -1,0 +1,11 @@
+T10	GENE-Y 8 22	cholinesterase
+T7	GENE-Y 111 125	cholinesterase
+T3	CHEMICAL 138 147	donepezil
+T4	CHEMICAL 149 161	rivastigmine
+T5	CHEMICAL 167 178	galantamine
+T6	GENE-Y 203 207	AChE
+T1	CHEMICAL 209 221	Rivastigmine
+T8	GENE-Y 236 241	BuChE
+T2	CHEMICAL 380 391	Galantamine
+T9	GENE-N 427 446	nicotinic receptors
+R0	CPR-4 Arg1:T1 Arg2:T8

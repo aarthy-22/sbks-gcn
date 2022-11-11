@@ -1,0 +1,26 @@
+T12	CHEMICAL 17 25	Dopamine
+T23	GENE-N 17 40	Dopamine Gene Receptors
+T24	GENE-N 42 51	DRD1-DRD5
+T2	CHEMICAL 235 243	Dopamine
+T7	CHEMICAL 307 315	dopamine
+T19	GENE-N 307 364	dopamine receptor genes (DRD1, DRD2, DRD3, DRD4, and DRD5
+T8	CHEMICAL 421 429	dopamine
+T20	GENE-N 421 439	dopamine receptors
+T9	CHEMICAL 627 635	dopamine
+T21	GENE-N 627 645	dopamine receptors
+T10	CHEMICAL 720 728	dopamine
+T11	CHEMICAL 911 919	dopamine
+T22	GENE-N 911 929	dopamine receptors
+T1	CHEMICAL 1192 1200	dopamine
+T13	GENE-N 1192 1210	dopamine receptors
+T14	GENE-Y 1221 1231	beta-actin
+T3	CHEMICAL 1301 1309	dopamine
+T15	GENE-N 1301 1319	dopamine receptors
+T4	CHEMICAL 1424 1432	dopamine
+T16	GENE-N 1424 1442	dopamine receptors
+T5	CHEMICAL 1587 1595	dopamine
+T17	GENE-N 1587 1613	dopamine receptors DR1-DR5
+T6	CHEMICAL 1777 1785	dopamine
+T18	GENE-N 1777 1795	dopamine receptors
+R0	NOT Arg1:T12 Arg2:T24
+R1	NOT Arg1:T1 Arg2:T14

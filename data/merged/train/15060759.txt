@@ -1,0 +1,11 @@
+Binding of (-)-[3H]-CGP12177 at two sites in recombinant human beta 1-adrenoceptors and interaction with beta-blockers.
+To verify the hypothesis that the non-conventional partial agonist (-)-CGP12177 binds at two beta(1)-adrenoceptor sites, human beta(1)-adrenoceptors, expressed in CHO cells, were labelled with (-)-[(3)H]-CGP12177.
+We compared the binding affinity and antagonist potency of 12 clinically used beta-blockers against the cyclic AMP-enhancing effects of (-)-isoprenaline and (-)-CGP12177.(-)-[(3)H]-CGP12177 bound to a high affinity site (H; K(H)=0.47 nM) and low affinity site (L); K(L)=235 nM).
+(-)-[(3)H]-CGP12177 dissociated from the beta(1)-adrenoceptors with a fast component (k(off)=0.45 min(-1)), consistent with the L-site, and a slow component (k(off)=0.017-0.033 min(-1)), consistent with the H-site.
+(-)-Isoprenaline and (-)-CGP12177 caused 96-fold and 12-fold maximal increases in cyclic AMP levels with -logEC(50)M of 8.2 and 7.6.
+(-)-CGP12177 antagonised the effects of (-)-isoprenaline with a pK(B) of 9.9.
+The beta-blockers antagonised the effects of (-)-isoprenaline more than the effects of (-)-CGP12177 with potency ratios: (-)-atenolol 1,000, (+/-)-metropolol 676, (-)-pindolol 631, (-)-timolol 589, (+/-)-carvedilol 204, (+/-)-oxprenolol 138, (+/-)-sotalol 132, (-)-propranolol 120, (+/-)-bisoprolol 95, (+/-)-alprenolol 81, (+/-)-nadolol 68 and (-)-bupranolol 56.
+In intact cells the binding constants of beta-blockers, estimated from competition with 3-5 nM (-)-[(3)H]-CGP12177 (binding to the H-site), correlated with the corresponding affinities estimated from antagonism of the (-)-isoprenaline effects.
+We conclude that (-)-[(3)H]-CGP12177 binds at two sites in the recombinant beta(1)-adrenoceptor.
+(-)-CGP12177 is an antagonist of catecholamine effects through the H-site and a non-conventional partial agonist through the L-site.
+beta-blockers are more potent antagonists through the H-site than the L-site.

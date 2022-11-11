@@ -1,0 +1,39 @@
+T37	GENE-N 35 43	arginase
+T23	CHEMICAL 48 65	argininosuccinate
+T38	GENE-Y 48 76	argininosuccinate synthetase
+T2	CHEMICAL 101 111	L-arginine
+T11	CHEMICAL 113 118	L-arg
+T21	CHEMICAL 176 180	urea
+T22	CHEMICAL 185 197	nitric oxide
+T3	CHEMICAL 220 225	L-arg
+T9	CHEMICAL 279 296	argininosuccinate
+T29	GENE-Y 279 307	argininosuccinate synthetase
+T10	CHEMICAL 312 329	argininosuccinate
+T30	GENE-Y 312 335	argininosuccinate lyase
+T12	CHEMICAL 337 342	L-arg
+T13	CHEMICAL 359 363	urea
+T31	GENE-Y 367 377	arginase I
+T32	GENE-Y 395 406	arginase II
+T14	CHEMICAL 457 462	L-arg
+T15	CHEMICAL 467 471	urea
+T16	CHEMICAL 565 570	L-arg
+T17	CHEMICAL 614 619	L-arg
+T18	CHEMICAL 695 700	L-arg
+T19	CHEMICAL 777 782	L-arg
+T33	GENE-N 842 850	arginase
+T20	CHEMICAL 861 878	Argininosuccinate
+T34	GENE-Y 861 889	Argininosuccinate synthetase
+T35	GENE-N 891 908	arginase I and II
+T36	GENE-N 1049 1057	arginase
+T1	CHEMICAL 1109 1113	urea
+T24	GENE-N 1169 1187	Arginases I and II
+T25	GENE-N 1217 1225	arginase
+T26	GENE-N 1447 1455	arginase
+T4	CHEMICAL 1468 1472	urea
+T5	CHEMICAL 1529 1546	argininosuccinate
+T27	GENE-Y 1529 1557	argininosuccinate synthetase
+T28	GENE-N 1694 1702	arginase
+T6	CHEMICAL 1725 1729	urea
+T7	CHEMICAL 1809 1814	L-arg
+T8	CHEMICAL 1889 1894	L-arg
+R0	NOT Arg1:T20 Arg2:T35

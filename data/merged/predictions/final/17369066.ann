@@ -1,0 +1,38 @@
+T26	CHEMICAL 25 35	methionine
+T27	CHEMICAL 40 46	folate
+T28	CHEMICAL 79 89	methionine
+T38	GENE 79 108	methionine synthase reductase
+T24	CHEMICAL 198 204	folate
+T5	CHEMICAL 230 236	carbon
+T9	CHEMICAL 263 270	purines
+T10	CHEMICAL 275 286	thymidylate
+T11	CHEMICAL 312 324	homocysteine
+T12	CHEMICAL 333 343	methionine
+T13	CHEMICAL 356 366	methionine
+T32	GENE 356 375	methionine synthase
+T14	CHEMICAL 418 440	methyltetrahydrofolate
+T15	CHEMICAL 459 465	folate
+T16	CHEMICAL 491 497	purine
+T17	CHEMICAL 502 513	thymidylate
+T18	CHEMICAL 549 559	methionine
+T33	GENE 549 568	methionine synthase
+T19	CHEMICAL 697 719	methyltetrahydrofolate
+T20	CHEMICAL 789 795	AdoMet
+T21	CHEMICAL 796 802	AdoHcy
+T34	GENE 897 901	Mtrr
+T22	CHEMICAL 918 928	methionine
+T35	GENE 918 947	methionine synthase reductase
+T23	CHEMICAL 989 999	methionine
+T36	GENE 989 1008	methionine synthase
+T25	CHEMICAL 1050 1060	methionine
+T37	GENE 1050 1079	methionine synthase reductase
+T1	CHEMICAL 1149 1159	methionine
+T29	GENE 1149 1168	methionine synthase
+T30	GENE 1179 1183	Mtrr
+T2	CHEMICAL 1218 1232	homocyst(e)ine
+T3	CHEMICAL 1251 1261	methionine
+T4	CHEMICAL 1284 1306	methyltetrahydrofolate
+T31	GENE 1322 1326	Mtrr
+T6	CHEMICAL 1368 1374	AdoMet
+T7	CHEMICAL 1375 1381	AdoHcy
+T8	CHEMICAL 1564 1578	homocyst(e)ine

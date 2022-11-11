@@ -1,0 +1,9 @@
+Discovery of a new bioactive molecule for neuroblastoma.
+Neuroblastoma, a common pediatric malignancy of neural crest origin, is unique in its wide spectrum of clinical and biological behavior, ranging from spontaneous regression or differentiation to rapid progression and metastasis.
+Overexpression of neurotrophin receptors of the tyrosine kinase (Trk) family has been identified as a major prognostic and biological factor for this disease.
+Novel molecules were selected using cheminformatics tools (SBVS & LBVS) and screened in cell-based assays to modulate Trk receptor activity.
+One compound (C390-0031) had a potent anti-proliferative activity in dose-response studies using neuroblastoma cell lines.
+The molecular effects of this molecule were further characterized by using cell-cycle and western blot analysis.
+Interestingly, despite the presence of the anchoring fragment to the Trk kinase domain composing its structure, this molecule does not inhibit TrkA like lestaurtinib, constituting a new chemical with a yet unknown mechanism of action.
+This article is protected by copyright.
+All rights reserved.

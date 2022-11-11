@@ -1,0 +1,13 @@
+Fas and Fas ligand system may mediate antiproliferative activity of gonadotropin-releasing hormone receptor in endometrial cancer cells.
+Gonadotropin-releasing hormone (GnRH) receptor-bearing tumors undergo apoptosis in vivo and in vitro with GnRH analogs.
+We recently showed that GnRH stimulation induces intratumoral expression of the apoptosis-inducing Fas ligand in human reproductive tract tumors.
+To provide a potential association of Fas/Fas ligand system with the antiproliferative signaling process of GnRH receptor, we evaluated a correlation between the Fas ligand expression and the number of viable cells in two types of GnRH receptor-bearing endometrial carcinomas that differ in Fas content.
+Surgically removed uterine endometrial carcinomas had been screened for the presence of GnRH receptor and Fas before analyses.
+Fas ligand protein was characterized by immunoblotting of membrane proteins with the specific antibody.
+After a lag time of 2 days, incubation with a GnRH analog leuprolide (10 microM) induced significant growth inhibition of the Fas- and GnRH receptor-bearing cells (p<0.01).
+Time course analysis showed that Fas ligand production, which was already observed at day 2 (p<0.01), precedes the onset of reduction in viable cell number.
+The stimulatory effect of GnRH on Fas ligand expression and reduction of viable cells revealed dose-dependency.
+The analog at concentration of 10 microM induced up to 90% reduction in cell number.
+In contrast, the growth of Fas-negative cells was not affected by the analog, although Fas ligand appeared in response to the GnRH analog (p<0.01).
+These data demonstrate that the co-presence of Fas could be essential for GnRH to promote antiproliferative action in endometrial cancer cells carrying GnRH receptor.
+The hormone may act through intratumor Fas and Fas ligand system to induced growth inhibition in GnRH-sensitive tumors.

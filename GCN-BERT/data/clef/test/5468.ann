@@ -1,0 +1,22 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 23 118	5-(benzyloxy)-2-[4-(benzyloxy)phenyl]-3-methyl-1-[[4-(triphenylmethoxy)phenyl]methyl]-1H-indole
+T3	REAGENT_CATALYST 150 164	sodium hydride
+T4	STARTING_MATERIAL 226 282	5-(benzyloxy)-2-[4-(benzyloxy)phenyl]-3-methyl-1H-indole
+T5	SOLVENT 317 338	N,N-dimethylformamide
+T6	TEMPERATURE 350 354	0° C
+T7	OTHER_COMPOUND 361 366	water
+T8	TIME 415 421	10 min
+T9	TEMPERATURE 425 429	0° C
+T10	STARTING_MATERIAL 454 497	1-(bromomethyl)-4-(triphenylmethoxy)benzene
+T11	TIME 568 571	2 h
+T12	TEMPERATURE 575 579	0° C
+T13	OTHER_COMPOUND 631 636	water
+T14	OTHER_COMPOUND 679 692	ethyl acetate
+T15	OTHER_COMPOUND 753 758	brine
+T16	OTHER_COMPOUND 784 798	sodium sulfate
+T17	OTHER_COMPOUND 890 900	silica gel
+T18	OTHER_COMPOUND 921 934	ethyl acetate
+T19	OTHER_COMPOUND 935 950	petroleum ether
+T20	YIELD_OTHER 975 980	1.2 g
+T21	YIELD_PERCENT 982 985	66%
+T22	REACTION_PRODUCT 990 1085	5-(benzyloxy)-2-[4-(benzyloxy)phenyl]-3-methyl-1-[[4-(triphenylmethoxy)phenyl]methyl]-1H-indole

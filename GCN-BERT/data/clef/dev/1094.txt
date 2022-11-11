@@ -1,0 +1,4 @@
+Example 2
+5-(3,7-Dimethyl-2,6-dioxo-2,3,6,7-tetrahydro-1H-purin-1-yl)-N,N-dimethylpentanamide
+5-(3,7-Dimethyl-2,6-dioxo-2,3,6,7-tetrahydro-1H-purin-1-yl)-N-methylpentanamide
+5-(3,7-dimethyl-2,6-dioxo-2,3,6,7-tetrahydro-1H-purin-1-yl)pentanenitrile (200 mg, 0.717 mmol) was dissolved in N,N-dimethylformamide (5 mL), sodium hydride (86.0 mg, 2.15 mmol) were added at 0°C, and the reaction was stirred at 0°C for 0.5 hours. Methyl iodide (305 mg, 2.15 mmol) was added and the reaction was stirred at 25°C for 12 hours. The reaction was quenched by addition of water (30 mL), and extracted with ethyl acetate (30 mL x 3). The organic phase was dried over anhydrous sodium sulfate and filtered, and the filtrate was concentrated under reduced pressure. 5-(3,7-Dimethyl-2,6-dioxo-2,3,6,7-tetrahydro-1H-purin-1-yl)-N,N-dimethylpentanamide (product 1) (50.0 mg) was obtained after purification by preparative HPLC with a yield of 23%.

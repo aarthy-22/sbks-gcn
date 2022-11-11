@@ -1,0 +1,32 @@
+T18	CHEMICAL 16 25	histamine
+T30	GENE-Y 16 37	histamine H1-receptor
+T19	CHEMICAL 174 194	(+)-chlorpheniramine
+T5	CHEMICAL 390 399	histamine
+T24	GENE-Y 390 412	histamine H1-receptors
+T27	GENE-Y 686 697	H1-receptor
+T14	CHEMICAL 773 781	Ebastine
+T15	CHEMICAL 792 812	(+)-chlorpheniramine
+T16	CHEMICAL 884 897	[11C]-doxepin
+T28	GENE-Y 908 919	H1-receptor
+T17	CHEMICAL 1066 1073	doxepin
+T29	GENE-Y 1109 1121	H1-receptors
+T20	GENE-Y 1223 1234	H1-receptor
+T21	GENE-Y 1280 1291	H1-receptor
+T1	CHEMICAL 1462 1482	(+)-chlorpheniramine
+T2	CHEMICAL 1515 1523	ebastine
+T22	GENE-Y 1632 1643	H1-receptor
+T3	CHEMICAL 1783 1803	(+)-chlorpheniramine
+T23	GENE-Y 1812 1823	H1-receptor
+T4	CHEMICAL 1872 1880	ebastine
+T6	CHEMICAL 1914 1934	(+)-chlorpheniramine
+T7	CHEMICAL 2148 2168	(+)-chlorpheniramine
+T8	CHEMICAL 2200 2211	carebastine
+T9	CHEMICAL 2237 2245	ebastine
+T10	CHEMICAL 2260 2268	Ebastine
+T25	GENE-Y 2297 2318	histamine H1-receptor
+T11	CHEMICAL 2416 2436	(+)-chlorpheniramine
+T26	GENE-Y 2465 2477	H1-receptors
+T12	CHEMICAL 2532 2552	(+)-chlorpheniramine
+T13	CHEMICAL 2580 2600	(+)-chlorpheniramine
+R0	NOT Arg1:T30 Arg2:T19
+R1	NOT Arg1:T10 Arg2:T26

@@ -1,0 +1,10 @@
+T1	CHEMICAL 552 567	normetanephrine
+T2	CHEMICAL 568 578	creatinine
+T5	GENE-Y 580 601	von Willebrand factor
+T6	GENE-Y 603 620	anti-thrombin III
+T7	GENE-Y 622 645	t-plasminogen activator
+T8	GENE-Y 646 679	plasminogen activator inhibitor 1
+T3	CHEMICAL 707 714	glucose
+T4	CHEMICAL 860 867	glucose
+R0	NOT Arg1:T1 Arg2:T8
+R1	NOT Arg1:T2 Arg2:T7

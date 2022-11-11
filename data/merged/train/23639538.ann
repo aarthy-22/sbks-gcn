@@ -1,0 +1,22 @@
+T11	CHEMICAL 2 17	dihydrochalcone
+T12	CHEMICAL 30 47	homoisoflavonoids
+T13	CHEMICAL 92 115	adenosine monophosphate
+T20	GENE-Y 92 140	adenosine monophosphate-activated protein kinase
+T1	CHEMICAL 142 165	Adenosine monophosphate
+T14	GENE-Y 142 196	Adenosine monophosphate (AMP)-activated protein kinase
+T2	CHEMICAL 167 170	AMP
+T18	GENE-Y 198 202	AMPK
+T15	GENE-Y 291 295	AMPK
+T3	CHEMICAL 433 450	homoisoflavonoids
+T4	CHEMICAL 465 480	dihydrochalcone
+T5	CHEMICAL 522 539	polygonatones A-D
+T16	GENE-Y 646 650	AMPK
+T17	GENE-Y 699 703	AMPK
+T6	CHEMICAL 708 718	acetyl-CoA
+T19	GENE-N 708 730	acetyl-CoA carboxylase
+T7	CHEMICAL 857 932	(3R)-5,7-dihydroxyl-6-methyl-8-methoxyl-3-(4'-hydroxylbenzyl)-chroman-4-one
+T8	CHEMICAL 938 1006	(3R)-5,7-dihydroxyl-6,8-dimethyl-3-(4'-hydroxylbenzyl)-chroman-4-one
+T9	CHEMICAL 1012 1076	(3R)-5,7-dihydroxyl-6-methyl-3-(4'-hydroxylbenzyl)-chroman-4-one
+T10	CHEMICAL 1086 1100	polygonatone D
+R0	CPR-3 Arg1:T11 Arg2:T20
+R1	NOT Arg1:T1 Arg2:T18

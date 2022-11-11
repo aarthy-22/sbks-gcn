@@ -1,0 +1,27 @@
+Clinical pharmacology, therapeutic use and potential of COMT inhibitors in Parkinson's disease.
+When peripheral decarboxylation is blocked by carbidopa or benserazide, the main metabolic pathway of levodopa is O-methylation by catechol-O-methyltransferase (COMT).
+Entacapone and tolcapone are new potent, selective and reversible nitrocatechol-type COMT inhibitors.
+Animal studies have demonstrated that entacapone mainly has a peripheral effect whereas tolcapone also inhibits O-methylation in the brain.
+In human volunteers, both entacapone and tolcapone dose-dependently inhibit the COMT activity in erythrocytes, improve the bioavailability and decrease the elimination of levodopa, and inhibit the formation of 3-O-methyldopa (3-OMD).
+Entacapone is administered with every scheduled dose of levodopa whereas tolcapone is administered 3 times daily.
+The different administration regimens for these agents are based on their different pharmacokinetic and pharmacodynamic profiles.
+Both entacapone and tolcapone enhance and extend the therapeutic effect of levodopa in patients with advanced and fluctuating Parkinson's disease.
+They prolong the duration of levodopa effect.
+Clinical studies show that they increase the daily ON time by an average 1 to 3 hours, improve the activities of daily living and allow daily levodopa dosage to be decreased.
+Correspondingly, they significantly reduce the daily OFF time.
+No comparative studies between entacapone and tolcapone have been performed.
+Tolcapone also appears to have a beneficial effect in patients with nonfluctuating Parkinson's disease.
+The main adverse effects of the COMT inhibitors are related to their dopaminergic and gastrointestinal effects.
+Enhancement of dopaminergic activity may cause an initial worsening of levodopa-induced adverse effects, such as dyskinesia, nausea, vomiting, orthostatic hypotension, sleep disorders and hallucinations.
+Levodopa dose adjustment is recommended to avoid these events.
+Tolcapone is associated with diarrhoea in about 16 to 18% of patients and entacapone in less than 10% of patients.
+Diarrhoea has led to discontinuation in 5 to 6% of patients treated with tolcapone and in 2.5% of those treated with entacapone.
+Urine discoloration to dark yellow or orange is related to the colour of COMT inhibitors and their metabolites.
+Elevated liver transaminase levels are reported in 1 to 3% of patients treated with tolcapone but very rarely, if at all, in patients treated with entacapone.
+The descriptions of acute, fatal fulminant hepatitis and potentially fatal neurological reactions, such as neuroleptic malignant syndrome and rhabdomyolysis, in association with tolcapone led to the suspension of its marketing authorisation in the European Community and Canada.
+In many other countries, the use of tolcapone is restricted to patients who are not responding satisfactorily to other therapies.
+Regular monitoring of liver enzymes is required if tolcapone is used.
+No such adverse reactions have so far been described for entacapone and no laboratory monitoring has been proposed.
+COMT inhibitors added to levodopa therapy are beneficial, particularly in patients with fluctuating disease.
+They may be combined with other antiparkinsonian drugs, such as dopamine agonists, selegiline and anticholinergics without adverse interactions.
+They provide a new treatment possibility in patients with Parkinson's disease who have problems with their present levodopa therapy.

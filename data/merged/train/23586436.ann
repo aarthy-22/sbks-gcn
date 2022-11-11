@@ -1,0 +1,17 @@
+T3	GENE-Y 229 237	lysozyme
+T6	GENE-Y 239 251	cytochrome c
+T7	GENE-Y 253 262	myoglobin
+T8	GENE-N 264 274	hemoglobin
+T9	GENE-Y 276 289	serum albumin
+T11	GENE-N 295 311	immunoglobulin G
+T1	CHEMICAL 335 348	silicon oxide
+T2	CHEMICAL 376 400	octadecyltrichlorosilane
+T12	GENE-Y 957 965	lysozyme
+T13	GENE-Y 967 979	cytochrome c
+T14	GENE-Y 985 994	myoglobin
+T4	GENE-Y 1181 1189	lysozyme
+T5	GENE-Y 1194 1203	myoglobin
+T10	GENE-Y 1633 1641	lysozyme
+R0	NOT Arg1:T6 Arg2:T1
+R1	NOT Arg1:T6 Arg2:T2
+R2	NOT Arg1:T9 Arg2:T2

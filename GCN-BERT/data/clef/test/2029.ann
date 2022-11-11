@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 8 9	3
+T2	STARTING_MATERIAL 29 65	5-(2-aminothiazol-4-yl)indolin-2-one
+T3	STARTING_MATERIAL 92 130	2,4-dimethylthiazole-5-carboxylic acid
+T4	REAGENT_CATALYST 158 166	pyridine
+T5	SOLVENT 192 204	acetonitrile
+T6	REAGENT_CATALYST 239 265	propylphosphonic anhydride
+T7	SOLVENT 287 300	ethyl acetate
+T8	TEMPERATURE 354 362	48.5° C.
+T9	TIME 367 373	4 days
+T10	OTHER_COMPOUND 478 493	dichloromethane
+T11	REACTION_PRODUCT 502 574	2,4-dimethyl-N-(4-(2-oxoindolin-5-yl)thiazol-2-yl)thiazole-5-carboxamide
+T12	YIELD_OTHER 576 583	0.045 g
+T13	YIELD_PERCENT 585 588	58%

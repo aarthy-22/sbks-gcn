@@ -1,0 +1,16 @@
+T10	CHEMICAL 0 15	Bisphosphonates
+T1	CHEMICAL 98 113	bisphosphonates
+T2	CHEMICAL 723 731	nitrogen
+T3	CHEMICAL 758 769	alendronate
+T4	CHEMICAL 771 782	risedronate
+T5	CHEMICAL 784 795	ibandronate
+T6	CHEMICAL 801 812	zoledronate
+T7	CHEMICAL 871 893	farnesyl pyrophosphate
+T11	GENE-Y 871 902	farnesyl pyrophosphate synthase
+T12	GENE-Y 904 908	FPPS
+T8	CHEMICAL 944 954	mevalonate
+T13	GENE-Y 964 968	FPPS
+T9	CHEMICAL 1050 1053	GTP
+T14	GENE-N 1050 1070	GTP-binding proteins
+R0	CPR-4 Arg1:T4 Arg2:T12
+R1	NOT Arg1:T12 Arg2:T8

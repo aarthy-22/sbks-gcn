@@ -1,0 +1,16 @@
+Renal failure associated with the use of celecoxib and rofecoxib.
+OBJECTIVE: Celecoxib and rofecoxib are two relatively new nonsteroidal anti-inflammatory drugs (NSAIDs) that selectively inhibit the cyclo-oxygenase-2 (COX-2) isoenzyme at therapeutic concentrations.
+The nephrotoxic potential of selective COX-2 inhibitors has not been clearly established.
+This study was conducted in order to understand the association between acute renal failure and the two COX-2 inhibitors celecoxib and rofecoxib.
+METHODS: A search was performed in the US Food and Drug Administration's (FDA) Adverse Event Reporting System (AERS) to identify cases of renal failure submitted to the FDA.
+A MEDLINE search of the English language literature was also performed to identify published cases of renal failure associated with celecoxib and rofecoxib.
+RESULTS: One hundred twenty-two and 142 domestic US cases of celecoxib and rofecoxib-associated renal failure, respectively, were identified in the AERS database.
+The literature search identified 19 cases of acute renal impairment in association with celecoxib and rofecoxib.
+In addition, drug regulatory authorities in the UK, Canada, and Australia have received about 50 reports of renal failure with celecoxib and rofecoxib.
+Descriptive statistics of the AERS cases have been summarised in this report.
+CONCLUSIONS: Data from AERS and published case reports suggest that use of both these drugs is associated with renal effects similar to that of conventional nonselective NSAIDs.
+Physicians should be aware that serious or life-threatening renal failure has been reported in patients with normal or impaired renal function after short-term therapy with celecoxib and rofecoxib.
+Patients at greatest risk for renal injury are those with pre-existing renal impairment, heart failure, liver dysfunction, those taking diuretics and/or ACE inhibitors, and the elderly.
+Kidney function should be monitored closely for any signs of potential renal injuries soon after initiating treatment with these agents, especially in high-risk populations.
+In addition, healthcare practitioners should adequately warn patients of the signs and symptoms of serious renal toxicity, and of the need for them to see their physician promptly if they occur.
+Celecoxib and rofecoxib are not recommended for use in patients with advanced renal disease.

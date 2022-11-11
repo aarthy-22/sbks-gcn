@@ -1,0 +1,14 @@
+Chronic dietary exposure to chlorpyrifos causes behavioral impairments, low activity of brain membrane-bound acetylcholinesterase, and increased brain acetylcholinesterase-R mRNA.
+Chlorpyrifos (CPF) is an organophosphate (OP) insecticide that is metabolically activated to the highly toxic chlorpyrifos oxon.
+Dietary exposure is the main route of intoxication for non-occupational exposures.
+However, only limited behavioral effects of chronic dietary exposure have been investigated.
+Therefore, male Wistar rats were fed a dose of 5mg/kg/day of CPF for thirty-one weeks.
+Animals were evaluated in spatial learning and impulsivity tasks after 21 weeks of CPF dietary exposure and one week after exposure ended, respectively.
+In addition, the degree of inhibition of brain acetylcholinesterase (AChE) was evaluated for both the soluble and particulate forms of the enzyme, as well as AChE gene expression.
+Also, brain acylpeptide hydrolase (APH) was investigated as an alternative target for OP-mediated effects.
+All variables were evaluated at various time points in response to CPF diet and after exposure ended.
+Results from behavioral procedures suggest cognitive and emotional disorders.
+Moreover, low levels of activity representing membrane-bound oligomeric forms (tetramers) were also observed.
+In addition, increased brain AChE-R mRNA levels were detected after four weeks of CPF dietary exposure.
+However, no changes in levels of brain APH were observed among groups.
+In conclusion, our data point to a relationship between cognitive impairments and changes in AChE forms, specifically to a high inhibition of the particulate form and a modification of alternative splicing of mRNA during CPF dietary exposure.

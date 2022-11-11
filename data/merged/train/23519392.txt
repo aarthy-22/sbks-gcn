@@ -1,0 +1,11 @@
+Pregnane X Receptor Mediates Dyslipidemia Induced by the HIV Protease Inhibitor Amprenavir in Mice.
+HIV protease inhibitors (PIs) have been used successfully in extending the lifespan of people infected with HIV.
+The use of PIs has also been associated with dyslipidemia and an increased risk of cardiovascular disease but the underlying mechanisms remain elusive.
+Several PIs have been implicated to activate the nuclear receptor pregnane X receptor (PXR), which acts as a xenobiotic sensor to regulate xenobiotic metabolism in the liver and intestine.
+Recent studies indicate that PXR may also play an important role in the regulation of lipid homeostasis.
+In the present study, we identified amprenavir, a widely used HIV PI, as a potent PXR-selective agonist.
+Computational docking studies combined with site-direct mutagenesis identified several key residues within the ligand binding pocket of PXR that constitute points of interaction with amprenavir.
+Amprenavir efficiently activated PXR and induced PXR target gene expression in vitro and in vivo.
+Short-term exposure to amprenavir significantly increased plasma total cholesterol and atherogenic low-density lipoprotein cholesterol levels in wild-type mice, but not in PXR-deficient mice.
+Amprenavir-mediated PXR activation stimulated the expression of several key intestinal genes involved in lipid homeostasis.
+These findings provide critical mechanistic insight for understanding the impact of PIs on cardiovascular disease and demonstrate a potential role of PXR in mediating adverse effects of HIV PIs in humans.

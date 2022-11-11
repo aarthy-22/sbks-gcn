@@ -1,0 +1,12 @@
+Androgen Receptor mRNA Measured by Quantitative Real Time PCR is Decreased in the Urethral Mucosa of Patients with Middle Idiopathic Hypospadias.
+Androgen action is exerted through the androgen receptor.
+The normal 46,XY genital virilization depends on androgen receptor gene expression, which is tissue specific, and requires normal androgen receptor mRNA levels in androgen sensitive tissues.
+Hypospadias is a frequent male genital abnormality, potentially related to reduced androgen sensitivity in genital tissues.
+The aim of this study was to compare, by quantitative real time PCR, the amount of androgen receptor mRNA in cells obtained from the urethral mucosa of patients with middle idiopathic hypospadias with the androgen receptor mRNA levels observed in control phimosis subjects with eutopic urethral opening.
+Prepubertal individuals were studied, including 41 controls and 17 hypospadias patients with mean (SD) ages of 4.7 (2.1) years and 4.0 (3.0) years, respectively.
+We observed significantly less androgen receptor mRNA in the urethral mucosa of patients with hypospadias than in the controls (p=0.002).
+The correlation between the level of androgen receptor mRNA expression and the penile size was almost statistically significant only in hypospadias patients (r=0.47; p=0.053).
+We also established the number of CAG repeats in exon 1 of the androgen receptor gene by GeneScan analysis.
+No significant difference was observed in the number of CAG repeats when patients and controls were compared.
+A negative correlation between the CAG repeats and penile size was detected in patients with hypospadias, but not in controls.
+Our data suggest that a critical lower level of androgen receptor mRNA expression could be a determining factor in the development of middle hypospadias.

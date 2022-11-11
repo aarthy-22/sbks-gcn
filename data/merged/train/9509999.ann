@@ -1,0 +1,18 @@
+T17	GENE-Y 68 94	beta 2-adrenergic receptor
+T1	CHEMICAL 119 149	cyclic adenosine monophosphate
+T10	CHEMICAL 151 155	cAMP
+T14	GENE-Y 295 329	proliferating cell nuclear antigen
+T15	GENE-Y 331 335	PCNA
+T2	CHEMICAL 338 349	Epinephrine
+T3	CHEMICAL 351 364	isoproterenol
+T4	CHEMICAL 366 375	forskolin
+T5	CHEMICAL 380 388	8Br-cAMP
+T6	CHEMICAL 456 467	terbutaline
+T7	CHEMICAL 502 512	dobutamine
+T8	CHEMICAL 546 550	cAMP
+T9	CHEMICAL 623 633	oxprenolol
+T11	CHEMICAL 667 677	acebutalol
+T12	CHEMICAL 716 726	butoxamine
+T13	CHEMICAL 928 932	cAMP
+T16	GENE-Y 960 985	beta2-adrenergic receptor
+R0	NOT Arg1:T1 Arg2:T15

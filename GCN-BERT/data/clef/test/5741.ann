@@ -1,0 +1,22 @@
+T1	OTHER_COMPOUND 628 645	magnesium sulfate
+T2	REACTION_PRODUCT 825 839	title compound
+T3	EXAMPLE_LABEL 5 6	2
+T4	OTHER_COMPOUND 597 602	brine
+T5	OTHER_COMPOUND 565 590	sodium hydrogen carbonate
+T6	YIELD_PERCENT 850 853	69%
+T7	TIME 504 512	27 hours
+T8	REACTION_PRODUCT 8 105	(S)-tert-Butyl 4-((2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetoxy)methyl)-piperidine-1-carboxylate
+T9	SOLVENT 207 210	DMF
+T10	REAGENT_CATALYST 234 262	potassium hydrogen carbonate
+T11	STARTING_MATERIAL 128 181	(S)-2-hydroxy-2-(3-hydroxyphenyl)-2-phenylacetic acid
+T12	OTHER_COMPOUND 785 795	iso-hexane
+T13	TIME 331 341	10 minutes
+T14	TEMPERATURE 310 326	room temperature
+T15	OTHER_COMPOUND 796 809	ethyl acetate
+T16	OTHER_COMPOUND 527 540	ethyl acetate
+T17	TEMPERATURE 493 498	60° C
+T18	OTHER_COMPOUND 767 777	iso-hexane
+T19	STARTING_MATERIAL 357 410	tert-butyl 4-(tosyloxymethyl)piperidine-1-carboxylate
+T20	OTHER_COMPOUND 557 564	aqueous
+T21	SOLVENT 436 439	DMF
+T22	YIELD_OTHER 841 848	13.42 g

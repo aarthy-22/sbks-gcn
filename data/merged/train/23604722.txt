@@ -1,0 +1,9 @@
+Fructose-1,6-bisphosphate ameliorates lipopolysaccharide-induced dysfunction of blood-brain barrier.
+Fructose-1,6-bisphosphate (FBP), a glycolytic intermediate, has neuroprotective effects in various brain injury models.
+However, its effects on blood-brain barrier (BBB) are largely unknown.
+In this study, we investigated the effects of FBP on lipopolysaccharide (LPS)-induced BBB dysfunction in in vitro BBB model comprising co-culture of mouse brain endothelial cell line, bEnd.3 and mouse primary astrocyte and explored its action mechanism therein involved.
+LPS induced the impairment of endothelial permeability and transendothelial electrical resistance (TEER).
+The functional changes were confirmed by alterations in immunostaining for junctional proteins occludin, ZO-1 and VE-cadherin, such as the loss of cortical staining pattern and appearance of intercellular gaps in endothelial cells.
+Co-administration of FBP alleviated the deleterious effects of LPS on BBB permeability and TEER in a dose dependent manner. And also FBP inhibited the LPS-induced changes in the distribution of endothelial junctional proteins, resulting in the better preservation of monolayer integrity.
+FBP suppressed the production of reactive oxygen species (ROS) but did not affect cyclooxygenase-2 expression and prostaglandin E2 production in endothelial cells stimulated with LPS.
+Taken together, these data suggest that FBP could ameliorate LPS-induced BBB dysfunction through the maintenance of junctional integrity, which might be mediated by downregulation of ROS production.

@@ -1,0 +1,8 @@
+Ligand-dependent actions of the vitamin D receptor are required for activation of TGF-β signaling during the inflammatory response to cutaneous injury.
+The vitamin D receptor (VDR) has both 1,25-dihydroxyvitamin D-dependent and -independent actions in the epidermis.
+Ligand-dependent actions of the VDR have been shown to promote keratinocyte differentiation and to regulate formation of the epidermal barrier.
+In contrast, the actions of the VDR that regulate postmorphogenic hair cycling do not require 1,25-dihydroxyvitamin D. The VDR also has immunomodulatory actions that are dependent on its ligand, 1,25-dihydroxyvitamin D. To determine whether the ligand-dependent or -independent actions of the VDR regulate the inflammatory response to cutaneous injury, studies were performed in control, VDR knockout, and vitamin D-deficient mice.
+These investigations demonstrate that absence of receptor or ligand impairs the dermal response to cutaneous injury.
+Although neutrophil recruitment is not affected, the absence of VDR signaling leads to defects in macrophage recruitment and granulation tissue formation.
+Studies performed to identify the molecular basis for this phenotype demonstrate that absence of the VDR, or its ligand, impairs TGF-β signaling in the dermis, characterized by decreased expression of monocyte chemotactic protein-1 and reduced phosphorylation of phosphorylated Smad-3 as well as attenuated phosphorylated Smad-3 phosphorylation in response to TGF-β in primary dermal fibroblasts lacking the VDR.
+Thus, these data demonstrate that the liganded VDR interacts with the TGF-β signaling pathway to promote the normal inflammatory response to cutaneous injury.

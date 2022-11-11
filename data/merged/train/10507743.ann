@@ -1,0 +1,15 @@
+T11	CHEMICAL 0 10	Raloxifene
+T12	CHEMICAL 24 32	estrogen
+T15	GENE-Y 24 41	estrogen receptor
+T1	CHEMICAL 53 63	Raloxifene
+T4	CHEMICAL 79 87	estrogen
+T13	GENE-Y 79 96	estrogen receptor
+T10	CHEMICAL 126 134	estrogen
+T2	CHEMICAL 186 194	estrogen
+T3	CHEMICAL 293 303	raloxifene
+T5	CHEMICAL 365 373	estrogen
+T6	CHEMICAL 418 428	raloxifene
+T7	CHEMICAL 578 588	raloxifene
+T14	GENE-N 621 644	low-density lipoprotein
+T8	CHEMICAL 645 656	cholesterol
+T9	CHEMICAL 709 719	Raloxifene

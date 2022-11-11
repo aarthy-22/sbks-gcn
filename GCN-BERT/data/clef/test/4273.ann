@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 8 9	8
+T2	STARTING_MATERIAL 29 88	ethyl 3-(5-(2-aminothiazol-4-yl)-2-hydroxyphenyl)propanoate
+T3	STARTING_MATERIAL 115 153	2,4-dimethylthiazole-5-carboxylic acid
+T4	REAGENT_CATALYST 181 189	pyridine
+T5	SOLVENT 215 227	acetonitrile
+T6	REAGENT_CATALYST 262 288	propylphosphonic anhydride
+T7	SOLVENT 310 323	ethyl acetate
+T8	TEMPERATURE 377 384	48.5° C
+T9	TIME 390 396	5 days
+T10	OTHER_COMPOUND 443 448	water
+T11	OTHER_COMPOUND 480 495	dichloromethane
+T12	OTHER_COMPOUND 496 507	isopropanol
+T13	OTHER_COMPOUND 553 559	NaHCO3
+T14	OTHER_COMPOUND 624 630	Na2SO4
+T15	OTHER_COMPOUND 707 722	dichloromethane
+T16	OTHER_COMPOUND 723 736	diethyl ether
+T17	REACTION_PRODUCT 768 883	ethyl 3-(5-(2-(2,4-dimethylthiazole-5-carboxamido)thiazol-4-yl)-2-((hydroxy(propyl)phosphoryl)oxy)phenyl)propanoate
+T18	YIELD_OTHER 885 892	0.028 g
+T19	YIELD_PERCENT 894 897	15%

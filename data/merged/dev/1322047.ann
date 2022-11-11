@@ -1,0 +1,24 @@
+T12	CHEMICAL 20 31	clenbuterol
+T17	GENE 67 86	beta 2-adrenoceptor
+T15	GENE 134 153	beta 2-adrenoceptor
+T6	CHEMICAL 162 173	clenbuterol
+T14	GENE 244 262	beta-adrenoceptors
+T2	CHEMICAL 285 296	clenbuterol
+T16	GENE 528 547	beta 2-adrenoceptor
+T3	CHEMICAL 556 566	salbutamol
+T4	CHEMICAL 621 632	clenbuterol
+T5	CHEMICAL 667 681	DL-propranolol
+T7	CHEMICAL 741 752	ICI-118,551
+T8	CHEMICAL 803 814	clenbuterol
+T9	CHEMICAL 835 849	DL-propranolol
+T10	CHEMICAL 901 912	clenbuterol
+T11	CHEMICAL 950 960	salbutamol
+T1	CHEMICAL 1138 1149	clenbuterol
+T13	GENE 1188 1207	beta 2-adrenoceptor
+R0	CPR-3 Arg1:T12 Arg2:T17
+R1	CPR-5 Arg1:T6 Arg2:T15
+R2	CPR-5 Arg1:T3 Arg2:T16
+R3	CPR-5 Arg1:T4 Arg2:T16
+R4	NOT Arg1:T6 Arg2:T14
+R5	NOT Arg1:T16 Arg2:T5
+R6	NOT Arg1:T1 Arg2:T13

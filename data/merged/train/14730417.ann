@@ -1,0 +1,40 @@
+T35	GENE-N 28 58	human beta-adrenergic receptor
+T28	GENE-Y 146 160	beta1-receptor
+T32	GENE-Y 177 191	beta2-receptor
+T31	GENE-N 314 339	beta-adrenergic receptors
+T3	CHEMICAL 473 484	epinephrine
+T4	CHEMICAL 486 500	norepinephrine
+T5	CHEMICAL 502 515	isoproterenol
+T6	CHEMICAL 517 526	fenoterol
+T7	CHEMICAL 528 538	salbutamol
+T8	CHEMICAL 540 550	salmeterol
+T9	CHEMICAL 552 562	terbutalin
+T10	CHEMICAL 564 574	formoterol
+T11	CHEMICAL 576 586	broxaterol
+T12	CHEMICAL 605 616	propranolol
+T13	CHEMICAL 618 628	alprenolol
+T14	CHEMICAL 630 638	atenolol
+T15	CHEMICAL 640 650	metoprolol
+T16	CHEMICAL 652 662	bisoprolol
+T17	CHEMICAL 664 674	carvedilol
+T18	CHEMICAL 676 684	pindolol
+T19	CHEMICAL 686 695	BRL 37344
+T20	CHEMICAL 697 706	CGP 20712
+T21	CHEMICAL 708 717	SR 59230A
+T22	CHEMICAL 719 728	CGP 12177
+T23	CHEMICAL 730 740	ICI 118551
+T33	GENE-N 767 798	human beta-adrenergic receptors
+T34	GENE-N 911 935	beta-adrenergic receptor
+T1	CHEMICAL 1159 1177	125I-cyanopindolol
+T24	GENE-N 1225 1238	beta-receptor
+T2	CHEMICAL 1248 1256	adenylyl
+T25	GENE-N 1248 1264	adenylyl cyclase
+T26	GENE-N 1443 1456	beta-receptor
+T27	GENE-N 1494 1518	beta2- or beta3-receptor
+T29	GENE-Y 1606 1620	beta1-receptor
+T30	GENE-N 1660 1686	beta2- and beta3-receptors
+R0	CPR-5 Arg1:T10 Arg2:T33
+R1	CPR-6 Arg1:T12 Arg2:T33
+R2	CPR-6 Arg1:T16 Arg2:T33
+R3	CPR-6 Arg1:T19 Arg2:T33
+R4	CPR-6 Arg1:T23 Arg2:T33

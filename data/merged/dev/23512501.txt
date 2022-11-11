@@ -1,0 +1,10 @@
+NAD(P)H : Quinone Oxidoreductase 1 Inducer Activity of Some Saudi Arabian Medicinal Plants.
+Medicinal plants are a rich source of biologically-active phytochemicals and have been used in traditional medicine for centuries.
+Specific phytochemicals and extracts of their plant sources have the ability to reduce the risk for chronic degenerative diseases by induction of enzymes involved in xenobiotic metabolism, many of which also have antioxidant and anti-inflammatory functions.
+One such multifunctional cytoprotective enzyme is NAD(P)H : quinone oxidoreductase.
+In this study, we prepared extracts of 27 Saudi Arabian medicinal plants which belong to 18 different plant families and tested their ability to induce NAD(P)H : quinone oxidoreductase in murine hepatoma cells grown in microtiter plate wells.
+In addition to the Brassicaceae, a known source of NAD(P)H : quinone oxidoreductase inducer activity, we found substantial inducer activity in extracts from the Apiaceae, Apocynaceae, and the Asteraceae families.
+Five out of a total of eight active extracts are from plants which belong to the Asteraceae family.
+We further show that artemisinin, an agent which is used clinically for the treatment of malaria, contributes but does not fully account for the inducer activity of the extract of Artemisia monosperma.
+In contrast to artemisinin, deoxyartemisinin is inactive in this assay, demonstrating the critical role of the endoperoxide moiety of artemisinin for inducer activity.
+Thus, the NAD(P)H : quinone oxidoreductase inducer activity of extracts of some Saudi Arabian medicinal plants indicates the presence of specific phytochemicals which have the potential to protect against chronic degenerative diseases.

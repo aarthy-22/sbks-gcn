@@ -1,0 +1,14 @@
+T12	GENE-N 0 8	Sirtuins
+T4	GENE-Y 45 75	Silent information regulator 2
+T7	GENE-Y 77 81	Sir2
+T8	GENE-N 94 102	sirtuins
+T2	CHEMICAL 119 125	NAD(+)
+T10	GENE-N 119 181	NAD(+)-dependent protein N(ε)-acetyl-lysine (AcK) deacetylases
+T3	CHEMICAL 144 162	N(ε)-acetyl-lysine
+T1	CHEMICAL 164 167	AcK
+T5	GENE-N 183 191	Sirtuins
+T6	GENE-N 355 363	sirtuins
+T9	GENE-N 541 559	parasitic sirtuins
+T11	GENE-N 815 833	parasitic sirtuins
+R0	NOT Arg1:T7 Arg2:T3
+R1	NOT Arg1:T7 Arg2:T1

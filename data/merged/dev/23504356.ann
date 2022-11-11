@@ -1,0 +1,5 @@
+T1	CHEMICAL 497 509	fenfluramine
+T3	GENE-Y 511 519	secretin
+T2	CHEMICAL 747 755	oxytocin
+T4	GENE-Y 747 755	oxytocin
+R0	NOT Arg1:T1 Arg2:T3

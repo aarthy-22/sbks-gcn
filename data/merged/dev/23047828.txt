@@ -1,0 +1,11 @@
+Circulating very-low-density lipoprotein from subjects with impaired glucose tolerance accelerates adrenocortical cortisol and aldosterone synthesis.
+Apart from their role in cardiovascular homeostasis and immunomodulation, aldosterone and cortisol are also implicated in the pathogenesis of insulin resistance and type 2 diabetes mellitus (T2DM).
+Furthermore, glycoxidative modifications of lipoproteins are increasingly recognized as an etiological factor for increased cardiovascular morbidity and mortality in prediabetic individuals.
+The causative relationship between in vivo lipoprotein modifications and steroidogenesis in subjects with impaired glucose tolerance (IGT), however, is not well defined.
+Therefore, we aimed to investigate the impact of in vivo modified lipoproteins on aldosterone and cortisol release from human adrenocortical H295R cells.
+Following an oral glucose tolerance test, 20 individuals with normal glucose tolerance (NGT) and 20 IGT subjects were randomly selected from the ongoing PRAEDIAS prevention study in our department.
+Cells were incubated for 24 h with lipoproteins isolated from NGT and IGT individuals and aldosterone and cortisol release was measured in the supernatants.
+VLDL induced a greater stimulating effect on adrenocortical aldosterone and cortisol release compared to HDL and LDL.
+Moreover, IGT-VLDL evoked a significantly higher effect (p<0.05) on hormone release than NGT-VLDL.
+Incubation of cells with in vitro modified lipoproteins and specific pharmacological inhibitors suggests that VLDL presumably recruits ERK1/2 as one of the downstream effectors of Jak-2.
+In summary, in vivo modified VLDL are able to promote prediabetic hormonal dysregulation by modulating adrenocortical steroidogenesis via Jak-2-ERK dependent pathway.

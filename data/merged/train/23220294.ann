@@ -1,0 +1,35 @@
+T27	GENE-Y 37 44	ghrelin
+T28	GENE-N 49 64	opioid receptor
+T9	CHEMICAL 88 96	dopamine
+T10	GENE-Y 105 112	Ghrelin
+T11	GENE-N 208 237	mu and kappa opioid receptors
+T17	GENE-Y 250 257	ghrelin
+T5	CHEMICAL 296 304	dopamine
+T20	GENE-Y 353 360	ghrelin
+T21	GENE-Y 470 477	ghrelin
+T6	CHEMICAL 508 516	dopamine
+T22	GENE-Y 744 751	ghrelin
+T7	CHEMICAL 790 798	dopamine
+T23	GENE-Y 835 854	mu opioid receptors
+T24	GENE-Y 876 883	ghrelin
+T8	CHEMICAL 956 964	dopamine
+T25	GENE-Y 990 1012	kappa opioid receptors
+T26	GENE-Y 1034 1041	ghrelin
+T1	CHEMICAL 1120 1128	dopamine
+T12	GENE-Y 1167 1186	mu opioid receptors
+T13	GENE-Y 1205 1212	ghrelin
+T2	CHEMICAL 1297 1305	dopamine
+T14	GENE-Y 1344 1366	kappa opioid receptors
+T15	GENE-Y 1407 1414	ghrelin
+T16	GENE-N 1424 1452	mu and kappa opioid receptor
+T3	CHEMICAL 1524 1532	dopamine
+T18	GENE-Y 1575 1582	ghrelin
+T19	GENE-N 1617 1632	opioid receptor
+T4	CHEMICAL 1728 1736	dopamine
+R0	NOT Arg1:T28 Arg2:T9
+R1	NOT Arg1:T17 Arg2:T5
+R2	NOT Arg1:T7 Arg2:T23
+R3	NOT Arg1:T8 Arg2:T25
+R4	NOT Arg1:T1 Arg2:T13
+R5	NOT Arg1:T1 Arg2:T14
+R6	NOT Arg1:T2 Arg2:T14

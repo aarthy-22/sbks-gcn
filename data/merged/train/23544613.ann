@@ -1,0 +1,17 @@
+T5	CHEMICAL 106 123	p-xylylenediamine
+T7	CHEMICAL 128 144	diethyl sebacate
+T9	CHEMICAL 157 185	oligo(p-xylylene sebacamide)
+T1	CHEMICAL 268 290	dimethyl terephthalate
+T2	CHEMICAL 295 312	1,8-diaminooctane
+T3	CHEMICAL 322 358	oligo(octamethylene terephthalamide)
+T4	CHEMICAL 489 511	dimethyl terephthalate
+T6	CHEMICAL 516 533	p-xylylenediamine
+T10	GENE-Y 567 572	CAL-B
+T11	GENE-N 574 583	icutinase
+T12	GENE-N 588 601	CLEA cutinase
+T13	GENE-Y 630 635	CAL-B
+T14	GENE-N 687 696	icutinase
+T15	GENE-N 700 713	CLEA cutinase
+T8	CHEMICAL 792 820	oligo(p-xylylene sebacamide)
+T16	GENE-N 834 847	CLEA cutinase
+R0	CPR-9 Arg1:T8 Arg2:T16

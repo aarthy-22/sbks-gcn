@@ -1,0 +1,19 @@
+T12	CHEMICAL 55 65	rotigotine
+T5	CHEMICAL 238 248	Rotigotine
+T6	CHEMICAL 258 266	ergoline
+T7	CHEMICAL 276 284	dopamine
+T8	CHEMICAL 345 355	rotigotine
+T9	CHEMICAL 448 474	poly(lactide-co-glycolide)
+T10	CHEMICAL 946 954	dopamine
+T11	CHEMICAL 1001 1011	rotigotine
+T13	GENE-Y 1150 1159	prolactin
+T1	CHEMICAL 1217 1226	aspartate
+T14	GENE-Y 1217 1243	aspartate aminotransferase
+T2	CHEMICAL 1248 1255	alanine
+T15	GENE-N 1248 1272	alanine aminotransferase
+T3	CHEMICAL 1319 1345	poly(lactide-co-glycolide)
+T4	CHEMICAL 1372 1378	sodium
+R0	NOT Arg1:T10 Arg2:T14
+R1	NOT Arg1:T13 Arg2:T2
+R2	NOT Arg1:T14 Arg2:T2
+R3	NOT Arg1:T15 Arg2:T4

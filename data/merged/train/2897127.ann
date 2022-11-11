@@ -1,0 +1,28 @@
+T19	CHEMICAL 53 62	histamine
+T20	CHEMICAL 88 97	adenylate
+T27	GENE-N 88 105	adenylate cyclase
+T18	CHEMICAL 110 112	H+
+T9	CHEMICAL 128 137	tricyclic
+T7	CHEMICAL 154 166	trimipramine
+T11	CHEMICAL 171 178	doxepin
+T16	CHEMICAL 207 222	trifluoperazine
+T1	CHEMICAL 227 238	haloperidol
+T2	CHEMICAL 271 280	histamine
+T21	GENE-Y 271 292	histamine H2-receptor
+T3	CHEMICAL 302 311	adenylate
+T22	GENE-N 302 319	adenylate cyclase
+T4	CHEMICAL 333 335	H+
+T5	CHEMICAL 400 409	histamine
+T6	CHEMICAL 421 430	adenylate
+T23	GENE-N 421 438	adenylate cyclase
+T8	CHEMICAL 443 445	H+
+T10	CHEMICAL 568 577	adenylate
+T24	GENE-N 568 585	adenylate cyclase
+T12	CHEMICAL 673 682	histamine
+T13	CHEMICAL 691 700	adenylate
+T25	GENE-N 691 708	adenylate cyclase
+T14	CHEMICAL 794 803	Histamine
+T15	CHEMICAL 815 817	H+
+T17	CHEMICAL 998 1007	histamine
+T26	GENE-Y 998 1019	histamine H2-receptor
+R0	NOT Arg1:T7 Arg2:T22

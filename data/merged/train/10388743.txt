@@ -1,0 +1,6 @@
+Probing the structural changes in the light chain of human coagulation factor VIIa due to tissue factor association.
+The crystallographic structure of human coagulation factor VIIa/tissue factor complex bound with calcium ions was used to model the solution structure of the light chain of factor VIIa (residues 1-142) in the absence of tissue factor.
+The Amber force field in conjunction with the particle mesh Ewald summation method to accommodate long-range electrostatic interactions was used in the trajectory calculations.
+The estimated TF-free solution structure was then compared with the crystal structure of factor VIIa/tissue factor complex to estimate the restructuring of factor VIIa due to tissue factor binding.
+The solution structure of the light chain of factor VIIa in the absence of tissue factor is predicted to be an extended domain structure similar to that of the tissue factor-bound crystal.
+Removal of the EGF1-bound calcium ion is shown by simulation to lead to minor structural changes within the EGF1 domain, but also leads to substantial relative reorientation of the Gla and EGF1 domains.

@@ -1,0 +1,8 @@
+High density lipoprotein as a source of cholesterol for adrenal steroidogenesis: a study in individuals with low plasma HDL-C. Few studies have addressed the delivery of lipoprotein-derived cholesterol to the adrenals for steroid production in humans.
+While there is evidence against a role for low-density lipoprotein (LDL), it is unresolved whether high density lipoprotein (HDL) contributes to adrenal steroidogenesis.
+To study this, steroid hormone profiles in urine were assessed in male subjects suffering from functional mutations in ATP binding cassette transporter A1 (ABCA1) (n = 24), lecithin:cholesterol acyltransferase (LCAT) (n = 40), as well as in 11 subjects with low HDL cholesterol (HDL-C) without ABCA1/LCAT mutations.
+HDL-C levels were 39% lower in the ABCA1, LCAT, and low HDL-C groups compared with controls (all P < 0.001).
+In all groups with low HDL-C levels, urinary excretion of 17-ketogenic steroids was reduced by 33%, 27%, and 32% compared with controls (all P < 0.04).
+In seven carriers of either type of mutation, adrenocorticotropic hormone (ACTH) stimulation did not reveal differences from normolipidemic controls.
+In conclusion, this study shows that basal but not stimulated corticosteroid metabolism is attenuated in subjects with low HDL-C, irrespective of its molecular origin.
+These findings lend support to a role for HDL as a cholesterol donor for basal adrenal steroidogenesis in humans.

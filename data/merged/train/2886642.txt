@@ -1,0 +1,6 @@
+Effects of ORF 17583, other histamine H2-receptor antagonists and omeprazole on gastric acid secretory states in rats and dogs.
+ORF 17583, a histamine H2-receptor antagonist, inhibited gastric acid secretion in pylorus-ligated rats (ED50 = 4.9 mg/kg intraduodenal; 3.4 mg/kg p.o.; and 0.21 mg/kg i.p.) and in total gastric fistula or Heidenhain pouch dogs stimulated by betazole (ED50 = 0.12 mg/kg p.o. and 0.08 mg/kg i.v.), histamine, tetragastrin, bethanechol, 2-deoxy-D-glucose or a meal (ED50 values ranged from 0.11-0.26 mg/kg p.o.).
+The nonspecific inhibition of gastric acid by ORF 17583 supports the existence of interdependence between histamine and the gastrin and cholinergic receptors on the parietal cell surface.
+Antisecretory potency of ORF 17583 after intraduodenal administration in pylorus-ligated rats was 6.4 times greater than cimetidine, 1.8 times greater than ranitidine, equal to that of omeprazole and 8 times less than that of famotidine.
+Oral antisecretory potency of ORF 17583 in gastric fistula dogs was 31 times greater than cimetidine, 3.7 times greater than ranitidine and equal to that of omeprazole and famotidine.
+Studies using equieffective antisecretory doses of ORF 17583 and ranitidine in dogs suggested that ORF 17583 has a short duration of antisecretory activity similar to that of ranitidine.

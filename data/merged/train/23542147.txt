@@ -1,0 +1,15 @@
+Ethanol extract of Adiantum capillus-veneris L. suppresses the production of inflammatory mediators by inhibiting NF-κB activation.
+ETHNOPHARMACOLOGICAL RELEVANCE: Adiantum capillus-veneris L. is a wildly distributed plant species and has been extensively used in south of China as traditional folk medicine for the treatment of inflammatory diseases.
+AIM OF THE STUDY: To investigate the anti-inflammatory effect of ethanolic extracts of Adiantum capillus-veneris L. and the involvement of NF-κB signaling in the regulation of inflammation.
+MATERIALS AND METHODS: The plant ethanolic extracts were initially tested against lipopolysaccharide (LPS)-induced prostaglandin E2 (PGE2) production in RAW264.7 mouse macrophages, and interleukin 6 (IL-6) and tumor necrosis factor (TNF) production in human U937 monocytes.
+The effect of the plant extracts on the transcription factor nuclear factor kappa B (NF-κB) pathway was evaluated in TNF-α stimulated HepG2 cells by luciferase gene reporter assay and Western blotting at the transcriptional and translational levels.
+Subsequently, the inhibition of NF-κB downstream gene expression (IL-8 and ICAM-1) by the plant extracts was assessed via quantitative real time polymerase chain reaction (qPCR).
+Lastly, the anti-inflammatory activities of the plant extracts in vivo were evaluated by testing spleen index and NF-κB related protein expression in LPS-stimulated CD1 mice.
+RESULTS: The plant ethanolic extracts effectively suppressed PGE2, IL-6 and TNF release with an IC50 less than 50μg/ml.
+Moreover, luciferase expression could be specifically blocked in HepG2 cells, not in HEK293 cells, showing that the plant extracts displayed a cell-specific pattern on NF-κB gene transcription.
+The assayed biological activity also depended on the order of adding TNF-α and the plant extracts because the plant extracts could only block the NF-κB activation if added earlier but were unable to stop the signal when added after TNF-α.
+However, the plant extracts did not exert any effect on ubiquitination which regulates several steps in the NF-κB pathway.
+Additionally, the plant extracts down-regulated phosphorylation of IKKα/β at S176/180, p38 at T180/Y182 and p65 at S536, but not p65 at S276.
+This was confirmed by their ability to selectively abrogate the induction of IL-8 transcription, whereas the ICAM-1 gene, which is not transcribed selectively by an NF-κB complex containing a form of p65 phosphorylated on Ser536, did not change.
+Finally, the plant extracts at 200μg/mg could normalize the LPS-induced elevation of spleen index as well as NF-κB and p38 activations in CD1 mice.
+CONCLUSION: The present studies presents the potential utilization of this plant extracts, as a natural resources for the development of an anti-inflammatory medicine.

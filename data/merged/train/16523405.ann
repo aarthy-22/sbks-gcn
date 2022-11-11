@@ -1,0 +1,17 @@
+T15	GENE-Y 34 66	corticotrophin-releasing hormone
+T11	GENE-N 135 182	corticotrophin-releasing hormone (CRH) promoter
+T6	GENE-Y 211 214	CRH
+T10	GENE-N 362 380	human CRH promoter
+T1	CHEMICAL 571 580	8-Br-cAMP
+T12	GENE-N 610 619	cytokines
+T2	CHEMICAL 719 732	dexamethasone
+T3	CHEMICAL 745 749	cAMP
+T13	GENE-N 761 764	CRH
+T14	GENE-N 847 870	tissue-specific factors
+T4	CHEMICAL 1075 1085	nucleotide
+T5	GENE-Y 1120 1124	hCRH
+T7	GENE-Y 1321 1354	activating transcription factor 6
+T8	GENE-Y 1356 1360	ATF6
+T9	GENE-N 1423 1435	CRH promoter
+R0	NOT Arg1:T1 Arg2:T12
+R1	NOT Arg1:T3 Arg2:T13

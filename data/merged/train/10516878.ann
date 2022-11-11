@@ -1,0 +1,20 @@
+T11	CHEMICAL 16 24	dopamine
+T17	GENE-Y 16 36	dopamine D2 receptor
+T12	CHEMICAL 49 58	pergolide
+T4	CHEMICAL 156 165	pergolide
+T8	CHEMICAL 176 184	dopamine
+T15	GENE-N 176 184	dopamine
+T1	CHEMICAL 225 233	dopamine
+T13	GENE-Y 225 246	dopamine D2 receptors
+T2	CHEMICAL 413 421	dopamine
+T14	GENE-Y 413 434	dopamine D2 receptors
+T3	CHEMICAL 557 565	levodopa
+T5	CHEMICAL 599 615	[11C]-raclopride
+T6	CHEMICAL 645 654	pergolide
+T7	CHEMICAL 747 763	[11C]-raclopride
+T9	CHEMICAL 833 842	pergolide
+T10	CHEMICAL 958 967	pergolide
+T16	GENE-Y 975 986	D2 receptor
+R0	CPR-4 Arg1:T4 Arg2:T13
+R1	NOT Arg1:T17 Arg2:T12
+R2	NOT Arg1:T4 Arg2:T15

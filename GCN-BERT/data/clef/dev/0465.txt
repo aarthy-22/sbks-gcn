@@ -1,0 +1,4 @@
+Example 59
+5-Methyl-6-[6-(3-methyl-3H-imidazol-4-yl)-pyridin-2-yl methyl]-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
+Obtained by starting from 6-(6-Chloro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (example 3) and (1-Methyl-1H-imidazol-5-yl)boronic acid pinacol ester. The mixture is purified by RP-HPLC (modifier: ammonium hydroxide).
+Yield: 15 mg (25% of theory)

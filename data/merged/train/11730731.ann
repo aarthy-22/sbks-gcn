@@ -1,0 +1,21 @@
+T16	CHEMICAL 0 14	Beclomethasone
+T17	CHEMICAL 16 26	budesonide
+T18	CHEMICAL 31 53	fluticasone propionate
+T3	CHEMICAL 417 431	Beclomethasone
+T4	CHEMICAL 433 443	budesonide
+T5	CHEMICAL 445 458	dexamethasone
+T6	CHEMICAL 460 482	fluticasone propionate
+T7	CHEMICAL 484 498	hydrocortisone
+T8	CHEMICAL 503 515	prednisolone
+T9	CHEMICAL 732 754	fluticasone propionate
+T10	CHEMICAL 800 810	budesonide
+T11	CHEMICAL 834 847	dexamethasone
+T12	CHEMICAL 871 883	prednisolone
+T13	CHEMICAL 907 921	beclomethasone
+T14	CHEMICAL 945 959	hydrocortisone
+T15	CHEMICAL 1020 1032	mifepristone
+T19	GENE-Y 1103 1151	granulocyte-macrophage colony-stimulating factor
+T20	GENE-Y 1153 1159	GM-CSF
+T1	CHEMICAL 1217 1227	budesonide
+T2	CHEMICAL 1232 1254	fluticasone propionate
+T21	GENE-Y 1373 1396	glucocorticoid receptor

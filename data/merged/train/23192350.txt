@@ -1,0 +1,13 @@
+Silencing α1,3-fucosyltransferases in human leukocytes reveals a role for FUT9 enzyme during E-selectin-mediated cell adhesion.
+Leukocyte adhesion during inflammation is initiated by the binding of sialofucosylated carbohydrates expressed on leukocytes to endothelial E/P-selectin.
+Although the glycosyltransferases (glycoTs) constructing selectin-ligands have largely been identified using knock-out mice, important differences may exist between humans and mice.
+To address this, we developed a systematic lentivirus-based shRNA delivery workflow to create human leukocytic HL-60 cell lines that lack up to three glycoTs.
+Using this, the contributions of all three myeloid α1,3-fucosyltransferases (FUT4, FUT7, and FUT9) to selectin-ligand biosynthesis were evaluated.
+The cell adhesion properties of these modified cells to L-, E-, and P-selectin under hydrodynamic shear were compared with bone marrow-derived neutrophils from Fut4(-/-)Fut7(-/-) dual knock-out mice.
+Results demonstrate that predominantly FUT7, and to a lesser extent FUT4, forms the selectin-ligand at the N terminus of leukocyte P-selectin glycoprotein ligand-1 (PSGL-1) in humans and mice.
+Here, 85% reduction in leukocyte interaction was observed in human FUT4(-)7(-) dual knockdowns on P/L-selectin substrates.
+Unlike Fut4(-/-)Fut7(-/-) mouse neutrophils, however, human knockdowns lacking FUT4 and FUT7 only exhibited partial reduction in rolling interaction on E-selectin.
+In this case, the third α1,3-fucosyltransferase FUT9 played an important role because leukocyte adhesion was reduced by 50-60% in FUT9-HL-60, 70-80% in dual knockdown FUT7(-)9(-) cells, and ∼85% in FUT4(-)7(-)9(-) triple knockdowns.
+Gene silencing results are in agreement with gain-of-function experiments where all three fucosyltransferases conferred E-selectin-mediated rolling in HEK293T cells.
+This study advances new tools to study human glycoT function.
+It suggests a species-specific role for FUT9 during the biosynthesis of human E-selectin ligands.

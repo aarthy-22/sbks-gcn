@@ -1,0 +1,14 @@
+T13	GENE 42 46	KYNU
+T14	GENE 56 68	kynureninase
+T1	CHEMICAL 99 115	xanthurenic acid
+T4	CHEMICAL 117 136	3-hydroxykynurenine
+T5	CHEMICAL 141 151	kynurenine
+T6	GENE 240 252	kynureninase
+T7	GENE 286 290	KYNU
+T8	GENE 300 312	kynureninase
+T9	GENE 365 370	A > G
+T2	CHEMICAL 397 406	threonine
+T10	GENE 397 417	threonine-to-alanine
+T3	CHEMICAL 410 417	alanine
+T11	GENE 419 424	T198A
+T12	GENE 680 692	kynureninase

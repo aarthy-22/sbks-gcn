@@ -1,0 +1,52 @@
+T46	GENE-N 0 47	Mitochondrial electron transfer chain complexes
+T26	CHEMICAL 72 88	organochalcogens
+T14	CHEMICAL 280 299	diphenyl diselenide
+T17	CHEMICAL 301 310	(PhSe)(2)
+T18	CHEMICAL 316 336	diphenyl ditelluride
+T19	CHEMICAL 338 347	(PhTe)(2)
+T39	GENE-N 353 406	mitochondrial complexes (I, II, I-III, II-III and IV)
+T20	CHEMICAL 500 516	organochalcogens
+T21	CHEMICAL 530 546	organochalcogens
+T40	GENE-N 600 623	mitochondrial complex I
+T22	CHEMICAL 642 651	(PhTe)(2)
+T41	GENE-N 705 729	mitochondrial complex II
+T42	GENE-N 784 808	mitochondrial complex II
+T23	CHEMICAL 847 856	(PhSe)(2)
+T43	GENE-N 893 909	renal complex II
+T44	GENE-N 920 944	Mitochondrial complex IV
+T24	CHEMICAL 987 1003	organochalcogens
+T25	CHEMICAL 1018 1034	organochalcogens
+T45	GENE-N 1088 1097	complex I
+T27	GENE-N 1101 1111	complex II
+T1	CHEMICAL 1154 1163	(PhSe)(2)
+T2	CHEMICAL 1168 1177	(PhTe)(2)
+T28	GENE-N 1181 1204	mitochondrial complex I
+T3	CHEMICAL 1222 1226	NADH
+T29	GENE-Y 1256 1264	catalase
+T30	GENE-Y 1266 1269	CAT
+T4	CHEMICAL 1278 1288	superoxide
+T31	GENE-N 1278 1298	superoxide dismutase
+T32	GENE-N 1300 1303	SOD
+T5	CHEMICAL 1324 1340	organochalcogens
+T33	GENE-N 1363 1379	complex I and II
+T6	CHEMICAL 1407 1426	reduced glutathione
+T7	CHEMICAL 1428 1431	GSH
+T8	CHEMICAL 1454 1463	(PhSe)(2)
+T9	CHEMICAL 1468 1477	(PhTe)(2)
+T34	GENE-N 1530 1553	mitochondrial complex I
+T35	GENE-N 1559 1569	complex II
+T36	GENE-N 1579 1599	complexes III and IV
+T10	CHEMICAL 1700 1715	organochalcogen
+T37	GENE-N 1724 1756	mitochondrial complexes I and II
+T11	CHEMICAL 1793 1798	thiol
+T12	CHEMICAL 1830 1839	(PhSe)(2)
+T13	CHEMICAL 1844 1853	(PhTe)(2)
+T38	GENE-N 1893 1925	mitochondrial complexes I and II
+T15	CHEMICAL 2019 2028	(PhSe)(2)
+T16	CHEMICAL 2033 2042	(PhTe)(2)
+R0	CPR-4 Arg1:T21 Arg2:T40
+R1	CPR-4 Arg1:T22 Arg2:T41
+R2	CPR-4 Arg1:T25 Arg2:T27
+R3	NOT Arg1:T4 Arg2:T32
+R4	NOT Arg1:T37 Arg2:T12
+R5	NOT Arg1:T11 Arg2:T38

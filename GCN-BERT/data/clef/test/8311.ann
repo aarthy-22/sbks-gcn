@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 8 9	3
+T2	REACTION_PRODUCT 11 87	(R)-N-(1-butylpyrrolidine-3-yl)-N-methyl-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T3	STARTING_MATERIAL 99 168	(R)-N-methyl-N-(pyrrolidine-3-yl)-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T4	SOLVENT 245 260	dichloromethane
+T5	SOLVENT 262 268	CH2Cl2
+T6	STARTING_MATERIAL 290 303	1-bromobutane
+T7	REAGENT_CATALYST 374 399	N,N-diisopropylethylamine
+T8	SOLVENT 422 443	N,N-dimethylformamide
+T9	TEMPERATURE 509 525	room temperature
+T10	TIME 536 543	5 hours
+T11	OTHER_COMPOUND 683 687	MeOH
+T12	YIELD_OTHER 809 816	90.0 mg
+T13	REACTION_PRODUCT 820 896	(R)-N-(1-butylpyrrolidine-3-yl)-N-methyl-7H-pyrrolo[2,3-d]pyrimidine-4-amine
+T14	YIELD_PERCENT 932 937	83.3%

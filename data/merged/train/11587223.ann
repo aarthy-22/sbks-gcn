@@ -1,0 +1,25 @@
+T18	CHEMICAL 0 13	Sulfasalazine
+T25	GENE-Y 75 100	x(c)- cystine transporter
+T19	CHEMICAL 81 88	cystine
+T16	CHEMICAL 141 151	cyst(e)ine
+T9	CHEMICAL 171 195	non-essential amino acid
+T5	CHEMICAL 280 290	cyst(e)ine
+T21	GENE-Y 366 407	x(c)- plasma membrane cystine transporter
+T7	CHEMICAL 388 395	cystine
+T8	CHEMICAL 484 494	cyst(e)ine
+T10	CHEMICAL 552 559	cystine
+T11	CHEMICAL 571 579	cysteine
+T22	GENE-Y 700 704	x(c)
+T12	CHEMICAL 718 731	Sulfasalazine
+T23	GENE-Y 794 811	x(c)- transporter
+T24	GENE-Y 941 945	x(c)
+T13	CHEMICAL 956 963	cystine
+T14	CHEMICAL 1012 1025	sulfapyridine
+T15	CHEMICAL 1030 1051	5-aminosalicylic acid
+T17	CHEMICAL 1053 1066	Sulfasalazine
+T1	CHEMICAL 1164 1177	sulfasalazine
+T2	CHEMICAL 1345 1353	cysteine
+T20	GENE-Y 1465 1490	x(c)- cystine transporter
+T3	CHEMICAL 1471 1478	cystine
+T4	CHEMICAL 1521 1534	sulfasalazine
+T6	CHEMICAL 1660 1670	cyst(e)ine

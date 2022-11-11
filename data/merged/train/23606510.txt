@@ -1,0 +1,6 @@
+A Dual Enzyme Microgel with High Antioxidant Ability Based on Engineered Seleno-Ferritin and Artificial Superoxide Dismutase.
+An antioxidant microgel with both glutathione peroxidase (GPx) and superoxide dismutase (SOD) activities is reported.
+Using computational design and genetic engineering methods, the main catalytic components of GPx are fabricated onto the surface of ferritin.
+The resulting seleno-ferritin (Se-Fn) monomers can self-assemble into nanocomposites that exhibit remarkable GPx activity due to the well organized multi-GPx catalytic centers.
+Subsequently, a porphyrin derivative is synthesized as an SOD mimic, and is employed to construct a synergistic dual enzyme system by crosslinking Se-Fn nanocomposites into a microgel.
+Significantly, this dual enzyme microgel is demonstrated to display better antioxidant ability than single GPx or SOD mimics in protecting cells from oxidative damage.

@@ -1,0 +1,13 @@
+Impact of acamprosate on behavior and brain-derived neurotrophic factor: an open-label study in youth with fragile X syndrome.
+RATIONALE: Fragile X syndrome (FXS) is an inherited form of developmental disability and a single gene cause of autism.
+As a disorder with increasingly understood pathophysiology, FXS is a model form of developmental disability for targeted drug development efforts.
+Preclinical animal model findings have focused targeted drug treatment development in FXS on an imbalance between excessive glutamate and deficient gamma-aminobutyric acid (GABA) neurotransmission.
+METHODS: We conducted a prospective open-label 10-week trial of acamprosate in 12 youth aged 6-17 years (mean age: 11.9 years) with FXS.
+RESULTS: Acamprosate use (mean dose: 1,054 ± 422 mg/day) was associated with treatment response (defined by a Clinical Global Impressions Improvement (CGI-I) scale score of "very much improved" or "much improved") in nine of 12 (75 %) subjects.
+Improvement was noted in social behavior and inattention/hyperactivity using multiple standard behavioral outcome measures.
+No significant adverse effects or changes in vital signs, including weight or laboratory measures, occurred during treatment with acamprosate.
+Additionally, pre- and post-treatment blood biomarker analyses looking at brain-derived neurotrophic factor (BDNF) levels found a significant increase in BDNF with treatment.
+In our pilot sample, treatment response did not correlate with change in BDNF with treatment.
+CONCLUSIONS: Acamprosate was generally safe and well tolerated and was associated with a significant improvement in social behavior and a reduction in inattention/hyperactivity.
+The increase in BDNF that occurred with treatment may be a useful pharmacodynamic marker in future acamprosate studies.
+Given these findings, a double-blind, placebo-controlled study of acamprosate in youth with FXS is warranted.

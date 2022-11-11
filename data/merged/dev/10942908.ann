@@ -1,0 +1,32 @@
+T14	CHEMICAL 35 49	pyridostigmine
+T9	CHEMICAL 171 185	pyridostigmine
+T7	CHEMICAL 337 351	pyridostigmine
+T18	GENE-Y 378 392	cholinesterase
+T10	CHEMICAL 611 625	pyridostigmine
+T11	CHEMICAL 686 700	pyridostigmine
+T12	CHEMICAL 875 889	pyridostigmine
+T19	GENE-Y 920 941	butyrylcholinesterase
+T20	GENE-Y 943 947	BChE
+T13	CHEMICAL 984 998	pyridostigmine
+T21	GENE-Y 1041 1045	BChE
+T22	GENE-Y 1126 1146	Acetylcholinesterase
+T15	GENE-Y 1148 1152	AChE
+T16	GENE-Y 1278 1282	AChE
+T1	CHEMICAL 1377 1391	pyridostigmine
+T17	GENE-N 1407 1429	Creatine phosphokinase
+T2	CHEMICAL 1407 1415	Creatine
+T3	CHEMICAL 1490 1504	pyridostigmine
+T4	CHEMICAL 1545 1559	pyridostigmine
+T5	CHEMICAL 1820 1834	pyridostigmine
+T6	CHEMICAL 1932 1947	malondialdehyde
+T8	CHEMICAL 2154 2168	pyridostigmine
+R0	CPR-4 Arg1:T12 Arg2:T19
+R1	CPR-4 Arg1:T12 Arg2:T20
+R2	CPR-4 Arg1:T13 Arg2:T21
+R3	CPR-4 Arg1:T1 Arg2:T16
+R4	CPR-3 Arg1:T3 Arg2:T17
+R5	CPR-3 Arg1:T4 Arg2:T17
+R6	NOT Arg1:T7 Arg2:T18
+R7	NOT Arg1:T12 Arg2:T21
+R8	NOT Arg1:T19 Arg2:T13
+R9	NOT Arg1:T20 Arg2:T13

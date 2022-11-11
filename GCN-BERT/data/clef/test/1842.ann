@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 13 14	1
+T2	REACTION_PRODUCT 16 97	tert-butyl (2R,3S)-2-(2,5-difluorophenyl)-5-oxotetrahydro-2H-pyran -3-ylcarbamate
+T3	EXAMPLE_LABEL 103 104	1
+T4	REACTION_PRODUCT 106 148	methyl 2-((diphenylmethylene)amino)acetate
+T5	STARTING_MATERIAL 149 167	Benzophenone imine
+T6	STARTING_MATERIAL 228 248	glycine methyl ester
+T7	SOLVENT 293 308	dichloromethane
+T8	TEMPERATURE 376 392	room temperature
+T9	TIME 397 402	1 day
+T10	OTHER_COMPOUND 497 502	water
+T11	OTHER_COMPOUND 504 520	sodium carbonate
+T12	OTHER_COMPOUND 544 549	brine
+T13	REACTION_PRODUCT 595 637	methyl 2-((diphenylmethylene)amino)acetate
+T14	YIELD_OTHER 639 645	64.2 g
+T15	REACTION_PRODUCT 658 665	product
+T16	YIELD_PERCENT 748 751	92%

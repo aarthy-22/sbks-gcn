@@ -1,0 +1,39 @@
+T33	GENE-Y 19 51	constitutive androstane receptor
+T6	CHEMICAL 32 42	androstane
+T34	GENE-N 56 80	hypoxia-inducible factor
+T7	GENE-N 119 143	Hypoxia inducible factor
+T16	GENE-N 145 148	HIF
+T3	CHEMICAL 154 160	5'-AMP
+T18	GENE-N 154 185	5'-AMP-activated protein kinase
+T13	GENE-Y 246 278	Constitutive androstane receptor
+T1	CHEMICAL 259 269	androstane
+T14	GENE-Y 280 283	CAR
+T2	CHEMICAL 334 340	5'-AMP
+T15	GENE-N 334 365	5'-AMP-activated protein kinase
+T17	GENE-Y 472 475	CAR
+T19	GENE-Y 480 484	HIFα
+T4	CHEMICAL 486 499	Phenobarbital
+T20	GENE-Y 516 519	CAR
+T21	GENE-N 564 567	HIF
+T22	GENE-Y 614 628	erythropoietin
+T23	GENE-Y 630 646	heme oxygenase-1
+T24	GENE-Y 651 687	vascular endothelial growth factor-a
+T25	GENE-Y 727 733	HIF-1α
+T26	GENE-N 757 779	HIF-responsive element
+T5	CHEMICAL 821 836	Cobalt chloride
+T27	GENE-N 848 851	HIF
+T28	GENE-Y 894 897	CAR
+T29	GENE-Y 922 928	cyp2b9
+T30	GENE-Y 933 940	cyp2b10
+T31	GENE-Y 969 972	CAR
+T32	GENE-N 996 1025	PB-responsive enhancer module
+T8	GENE-Y 1158 1161	CAR
+T9	GENE-N 1175 1204	PB-responsive enhancer module
+T10	GENE-Y 1210 1216	HIF-1α
+T11	GENE-Y 1342 1345	CAR
+T12	GENE-Y 1350 1355	HIF-α
+R0	CPR-3 Arg1:T4 Arg2:T24
+R1	CPR-3 Arg1:T5 Arg2:T30
+R2	CPR-2 Arg1:T5 Arg2:T31
+R3	NOT Arg1:T6 Arg2:T34
+R4	NOT Arg1:T1 Arg2:T14

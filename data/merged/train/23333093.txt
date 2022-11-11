@@ -1,0 +1,8 @@
+Green tea catechin leads to global improvement among Alzheimer's disease-related phenotypes in NSE/hAPP-C105 Tg mice.
+Amyloid β (Αβ) has been reported to be responsible for the functional and structural abnormalities of Alzheimer's disease (AD) through the induction of oxidative stress.
+The aim of this study was to determine whether or not treatment of transgenic (Tg) mice with green tea catechin (GTC), a radical scavenger, improves AD phenotypes.
+To test this, 7-month-old Tg mice were treated with a low (1 mg) or high (10 mg) dose of GTC for 6 months.
+Surprisingly, GTC-treated Tg mice exhibited significant decreases in behavioral impairment, Aβ-42 production, APP-C99/89 expression, γ-secretase component and Wnt protein levels, γ-secretase activity and MAPK activation.
+In contrast, the levels of APP-C83 protein and enzyme activities (α-secretase, neprilysin and Pin1) were elevated in the GTC-treated groups.
+Moreover, GTC-treated groups showed lower levels of total cholesterol and low-density lipoprotein cholesterol, whereas the level of high-density lipoprotein cholesterol increased.
+These results provide the first experimental evidence that GTC improves AD phenotypes, thereby suggesting that GTC can be used in the prevention of AD or treatment of AD patients.

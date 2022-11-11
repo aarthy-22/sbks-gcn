@@ -1,0 +1,14 @@
+Pressor and bradycardic effects of tacrine and other acetylcholinesterase inhibitors in the rat.
+The cardiovascular effects of three different acetylcholinesterase inhibitors: physostigmine, tacrine and rivastigmine injected by intravenous (i.v.) route were compared in freely moving Wistar rats.
+The three drugs significantly increased both systolic and diastolic blood pressure and decreased heart rate.
+Compared to physostigmine, a 20-fold higher dose of tacrine and a 40-fold higher dose of rivastigmine was necessary to induce a comparable pressor effect.
+Tacrine was chosen as a model to study the mechanisms underlying the cardiovascular effects of i.v.
+cholinesterase inhibitors.
+Atropine totally abolished while methylatropine did not affect tacrine pressor effects.
+Conversely, both drugs abolished tacrine-induced bradycardia.
+The alpha1-adrenoceptor antagonist prazosin or the vasopressin V1 receptor antagonist, [beta-mercapto-beta,beta-cyclopenta-methylenepropionyl1, O-Me-Tyr2, Arg8] vasopressin partially but significantly reduced tacrine pressor effect and mostly abolished it when administered concomitantly.
+The tacrine pressor response was inhibited in a dose-dependent manner by the i.c.v.
+administration of the non-selective muscarinic receptor antagonist atropine (ID50 = 1.45 microg), the muscarinic M1 receptor antagonist pirenzepine (ID50 = 4.33 microg), the muscarinic M2 receptor antagonist methoctramine (ID50 = 1.39 microg) and the muscarinic M3 receptor antagonist para-fluoro-hexahydro-sila-difenidol (ID50 = 31.19 microg).
+Central injection of such muscarinic receptor antagonists did not affect tacrine-induced bradycardia.
+Our results show that acetylcholinesterase inhibitors induce significant cardiovascular effects with a pressor response mediated mainly by the stimulation of central muscarinic M2 receptors inducing a secondary increase in sympathetic outflow and vasopressin release.
+Conversely, acetylcholinesterase inhibitor-induced bradycardia appears to be mediated by peripheral muscarinic mechanisms.

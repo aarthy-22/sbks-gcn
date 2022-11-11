@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 8 10	24
+T2	REACTION_PRODUCT 25 153	N-hydroxy-4-(4-(4-(3-(3-hydroxypropoxy)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
+T3	EXAMPLE_LABEL 159 160	1
+T4	REACTION_PRODUCT 175 299	methyl 4-(4-(4-(3-(3-hydroxypropoxy)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
+T5	STARTING_MATERIAL 317 430	methyl 4-(4-(4-(3-hydroxyprop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate
+T6	SOLVENT 470 473	DMF
+T7	REAGENT_CATALYST 497 500	NaH
+T8	STARTING_MATERIAL 530 548	3-bromopropan-1-ol
+T9	TIME 595 599	4 hr
+T10	TEMPERATURE 603 619	room temperature
+T11	OTHER_COMPOUND 639 652	ethyl acetate
+T12	OTHER_COMPOUND 657 662	water
+T13	OTHER_COMPOUND 707 712	MgSO4
+T14	REACTION_PRODUCT 807 821	title compound
+T15	YIELD_OTHER 823 828	130 g
+T16	YIELD_PERCENT 830 833	51%

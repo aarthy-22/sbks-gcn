@@ -1,0 +1,13 @@
+Two highly divergent alcohol dehydrogenases of melon exhibit fruit ripening-specific expression and distinct biochemical characteristics.
+Alcohol dehydrogenases (ADH) participate in the biosynthetic pathway of aroma volatiles in fruit by interconverting aldehydes to alcohols and providing substrates for the formation of esters.
+Two highly divergent ADH genes (15% identity at the amino acid level) of Cantaloupe Charentais melon (Cucumis melo var.
+Cantalupensis) have been isolated.
+Cm-ADH1 belongs to the medium-chain zinc-binding type of ADHs and is highly similar to all ADH genes expressed in fruit isolated so far.
+Cm-ADH2 belongs to the short-chain type of ADHs.
+The two encoded proteins are enzymatically active upon expression in yeast.
+Cm-ADH1 has strong preference for NAPDH as a co-factor, whereas Cm-ADH2 preferentially uses NADH.
+Both Cm-ADH proteins are much more active as reductases with K (m)s 10-20 times lower for the conversion of aldehydes to alcohols than for the dehydrogenation of alcohols to aldehydes.
+They both show strong preference for aliphatic aldehydes but Cm-ADH1 is capable of reducing branched aldehydes such as 3-methylbutyraldehyde, whereas Cm-ADH2 cannot.
+Both Cm-ADH genes are expressed specifically in fruit and up-regulated during ripening.
+Gene expression as well as total ADH activity are strongly inhibited in antisense ACC oxidase melons and in melon fruit treated with the ethylene antagonist 1-methylcyclopropene (1-MCP), indicating a positive regulation by ethylene.
+These data suggest that each of the Cm-ADH protein plays a specific role in the regulation of aroma biosynthesis in melon fruit.

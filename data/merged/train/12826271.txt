@@ -1,0 +1,8 @@
+Diclofenac inhibits proliferation and differentiation of neural stem cells.
+Nonsteroidal anti-inflammatory drugs (NSAIDs) are widely used in clinical situations as anti-inflammatory, analgesic and antipyretic drugs.
+However, it is still unknown whether NSAIDs have effects on the development of the central nervous system.
+In the present study, we investigated the effects of NSAIDs on neural stem cell (NSC) proliferation and differentiation into neurons.
+In contrast to aspirin, naproxen, indomethacin and ibuprofen, treatment with diclofenac (10 microM) for 2 days induced the death of NSCs in a concentration-dependent manner.
+Diclofenac also inhibited the proliferation of NSCs and their differentiation into neurons.
+Treatment with diclofenac resulted in nuclear condensation (a morphological change due to apoptosis of NSCs) 24hr after the treatment and activated caspase-3 after 6 hr, indicating that diclofenac may cause apoptosis of neuronal cells via activation of the caspase cascade.
+These results suggest that diclofenac may affect the development of the central nervous system.

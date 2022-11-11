@@ -1,0 +1,14 @@
+New genetic associations in thiopurine-related bone marrow toxicity among inflammatory bowel disease patients.
+Background: The toxicity related to thiopurine drug therapy for inflammatory bowel disease (IBD) varies widely among patients.
+Almost 15-30% of patients with IBD develop side effects during treatment, often bone marrow suppression.
+Several factors have been implicated in determining this toxicity, mainly individual genetic variation related to formation of active thiopurine metabolites.
+The aim was to identify genes involved in thiopurine-related myelosuppression.
+Materials & methods: A two-stage investigation of 19,217 coding SNPs (cSNPs) was performed in a Spanish (Inflammatory Bowel Disease Group of Galicia [EIGA]) cohort of 173 IBD patients, 15 with bone marrow suppression.
+The top 20 cSNPs identified in the first stage with p < 10(-3) for allelic test association and SNPs that define the common TPMT alleles were replicated in a different Spanish (ENEIDA) cohort (87 patients, 29 with bone marrow suppression).
+Results: Several cSNPs showed a significant p-value in the allelic joint analysis (p-Cochran-Mantel-Haenszel test ≤2.55 × 10(-3)) despite no cSNP passing correction for multiple testing in the first cohort.
+Of note is rs3729961 in the gene IL6ST, a transducer signal chain shared by many cytokines including IL6 (p-value combined = 2.36 × 10(-4), odds ratio [95% CI]: 3.41 [1.71-6.78]).
+In addition, we detected association with rs3749598 in the FSTL5 gene that appears to interact with metalloproteases at the extracellular matrix level (p-value combined = 4.89 × 10(-4)), odds ratio (95% CI): 3.67 (1.68-8.01).
+Conclusion: We have identified IL6ST and FSLT5 as new bone marrow suppression susceptibility candidate genes after thiopurine treatment in IBD patients.
+This is the first report of variants associated with thiopurine-related myelosuppression that was identified by a genome-wide association study.
+Its validation awaits functional analyses and replication in additional studies.
+Original submitted 14 September 2012; Revision submitted 13 February 2013.

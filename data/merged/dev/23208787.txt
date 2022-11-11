@@ -1,0 +1,4 @@
+From in situ to in vivo: an in situ click-chemistry-derived carbonic anhydrase II imaging agent for positron emission tomography.
+CA II makes a good PET: Discovering positron emission tomography (PET) probes with high target affinities is challenging.
+PET probe discovery using in situ click chemistry uses (19) F-bearing fragments as (18) F surrogates.
+This ensures that the lead hits and PET probes have equivalent chemical or biological characteristics, making PET probe discovery predictable and reliable.

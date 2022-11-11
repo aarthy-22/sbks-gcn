@@ -1,0 +1,57 @@
+T47	GENE-N 43 77	human I1-imidazoline binding sites
+T18	CHEMICAL 52 63	imidazoline
+T46	GENE-N 109 129	alpha-2 adrenoceptor
+T38	GENE-Y 190 214	I1-imidazoline receptors
+T12	CHEMICAL 193 204	imidazoline
+T41	GENE-Y 216 218	I1
+T2	CHEMICAL 254 275	[125I]p-iodoclonidine
+T31	GENE-N 306 349	human platelet I1-imidazoline binding sites
+T7	CHEMICAL 324 335	imidazoline
+T8	CHEMICAL 366 380	norepinephrine
+T33	GENE-N 389 399	alpha-2 AR
+T34	GENE-Y 408 422	human alpha-2A
+T35	GENE-Y 424 432	alpha-2B
+T36	GENE-Y 437 459	alpha-2C adrenoceptors
+T37	GENE-N 556 583	I1-imidazoline binding site
+T9	CHEMICAL 559 570	imidazoline
+T10	CHEMICAL 623 633	tizanidine
+T11	CHEMICAL 638 646	BDF,6143
+T13	CHEMICAL 691 699	Agmatine
+T39	GENE-Y 750 773	I1-imidazoline receptor
+T14	CHEMICAL 753 764	imidazoline
+T40	GENE-N 849 857	I1 sites
+T15	CHEMICAL 875 883	agmatine
+T42	GENE-N 927 935	I1 sites
+T43	GENE-Y 965 987	alpha-2A adrenoceptors
+T44	GENE-Y 1014 1036	alpha-2B adrenoceptors
+T45	GENE-Y 1065 1087	alpha-2C adrenoceptors
+T16	CHEMICAL 1089 1099	Moxonidine
+T17	CHEMICAL 1104 1114	tizanidine
+T19	GENE-N 1190 1206	I1 binding sites
+T20	GENE-N 1212 1233	alpha-2 adrenoceptors
+T1	CHEMICAL 1235 1246	Naphazoline
+T21	GENE-Y 1314 1335	alpha-2A adrenoceptor
+T22	GENE-Y 1388 1396	alpha-2B
+T23	GENE-Y 1398 1406	alpha-2C
+T24	GENE-N 1420 1447	I1-midazoline binding sites
+T3	CHEMICAL 1423 1433	midazoline
+T25	GENE-Y 1515 1536	alpha-2B adrenoceptor
+T4	CHEMICAL 1538 1552	Norepinephrine
+T26	GENE-Y 1641 1662	alpha-2C adrenoceptor
+T27	GENE-Y 1678 1686	alpha-2A
+T28	GENE-Y 1691 1713	alpha-2B adrenoceptors
+T29	GENE-N 1763 1783	I1-imidazoline sites
+T5	CHEMICAL 1766 1777	imidazoline
+T30	GENE-N 1791 1818	human alpha-2 adrenoceptors
+T32	GENE-N 1836 1863	I1-imidazoline binding site
+T6	CHEMICAL 1839 1850	imidazoline
+R0	NOT Arg1:T41 Arg2:T7
+R1	NOT Arg1:T2 Arg2:T34
+R2	NOT Arg1:T2 Arg2:T35
+R3	NOT Arg1:T2 Arg2:T36
+R4	NOT Arg1:T15 Arg2:T43
+R5	NOT Arg1:T1 Arg2:T24
+R6	NOT Arg1:T21 Arg2:T3
+R7	NOT Arg1:T22 Arg2:T3
+R8	NOT Arg1:T4 Arg2:T28
+R9	NOT Arg1:T26 Arg2:T5

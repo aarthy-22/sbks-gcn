@@ -1,0 +1,10 @@
+Reversible inhibition of vasoconstriction by thiazolidinediones related to PI3K/Akt inhibition in vascular smooth muscle cells.
+Thiazolidinediones (also referred to as glitazones), agonists for Peroxisome Proliferator-Activated Receptor gamma (PPARγ), are used for treating type 2 diabetes mellitus, where they decrease insulin resistance and cardiovascular risk.
+Compounds bearing the thiazolidinedione structure have also been shown to inhibit phosphoinositide 3-kinase (PI3K).
+Here we tried to elucidate the poorly defined role of PI3K/Akt in the physiology of vascular smooth muscle cell contraction and tested the hypothesis that thiazolidinediones, by affecting the PI3K/Akt pathway, may influence vascular physiology.
+Isolated rat femoral arteries segments were mounted in a wire myograph and challenged with 100mM KCl or phenylephrine (PE), in the absence or presence of troglitazone, rosiglitazone, pioglitazone, LY294002 (PI3K inhibitor) and 10-DEBC (Akt inhibitor).
+All these compounds dose-dependently inhibited vasoconstriction to KCl or PE; their effect was reversible (after 60-120 min washout) and not affected by GW9662 (a PPARγ antagonist) or by N(G)-nitro-L-arginine (LNNA, an inhibitor of NO biosynthesis).
+Analysis of phospho-Akt (ser 473) in lysates from rat arteries (by immunoblot) revealed that thiazolidinediones, LY294002 and 10-DEBC, at the same concentration and kinetics inhibiting vasoconstriction, produced a similar decrease of Akt phosphorylation.
+PI3K/Akt pathway therefore appears to be an important, fast acting, modulator of contraction of vascular smooth muscle.
+Thiazolidinediones decrease vasoconstriction of isolated vessels possibly by inhibiting PI3K/Akt pathway.
+Such an effect of glitazones, if occurring in vivo, may impact cardiovascular syndromes related to vasospasm in diabetic patients.

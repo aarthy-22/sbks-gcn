@@ -1,0 +1,8 @@
+The transporters GlyT2 and VIAAT cooperate to determine the vesicular glycinergic phenotype.
+The mechanisms that specify the vesicular phenotype of inhibitory interneurons in vertebrates are poorly understood because the two main inhibitory transmitters, glycine and GABA, share the same vesicular inhibitory amino acid transporter (VIAAT) and are both present in neurons during postnatal development.
+We have expressed VIAAT and the plasmalemmal transporters for glycine and GABA in a neuroendocrine cell line and measured the quantal release of glycine and GABA using a novel double-sniffer patch-clamp technique.
+We found that glycine is released from vesicles when VIAAT is coexpressed with either the neuronal transporter GlyT2 or the glial transporter GlyT1.
+However, GlyT2 was more effective than GlyT1, probably because GlyT2 is unable to operate in the reverse mode, which gives it an advantage in maintaining the high cytosolic glycine concentration required for efficient vesicular loading by VIAAT.
+The vesicular inhibitory phenotype was gradually altered from glycinergic to GABAergic through mixed events when GABA is introduced into the secretory cell and competes for uptake by VIAAT.
+Interestingly, the VIAAT ortholog from Caenorhabditis elegans (UNC-47), a species lacking glycine transmission, also supports glycine exocytosis in the presence of GlyT2, and a point mutation of UNC-47 that abolishes GABA transmission in the worm confers glycine specificity.
+Together, these results suggest that an increased cytosolic availability of glycine in VIAAT-containing terminals was crucial for the emergence of glycinergic transmission in vertebrates.

@@ -1,0 +1,11 @@
+Lower Adiponectin Levels at First Trimester of Pregnancy Are Associated With Increased Insulin Resistance and Higher Risk of Developing Gestational Diabetes Mellitus.
+OBJECTIVETo evaluate the associations between adiponectin levels and 1) the risk of developing gestational diabetes mellitus (GDM), and 2) insulin resistance/sensitivity, β-cell function, and compensation indices in a prospective cohort representative of the general population of pregnant women.
+RESEARCH DESIGN AND METHODSWe performed anthropometric measurements and collected blood samples at 1st (6-13 weeks) and 2nd (24-28 weeks) trimesters.
+Diagnosis of GDM was made at 2nd trimester, based on a 75-g oral glucose tolerance test (International Association of Diabetes and Pregnancy Study Group criteria).
+Insulin was measured (ELISA; Luminex) to estimate homeostasis model assessment of insulin resistance (HOMA-IR), β-cell function (HOMA-B), insulin sensitivity (Matsuda index), insulin secretion (AUC(insulin/glucose)), and β-cell compensation (insulin secretion sensitivity index-2).
+Adiponectin was measured by radioimmunoassay.
+RESULTSAmong the 445 participants included in this study, 38 women developed GDM.
+Women who developed GDM had lower 1st-trimester adiponectin levels (9.67 ± 3.84 vs. 11.92 ± 4.59 µg/mL in women with normal glucose tolerance).
+Lower adiponectin levels were associated with higher risk of developing GDM (OR, 1.12 per 1 µg/mL decrease of adiponectin levels; P = 0.02, adjusted for BMI and HbA(1c) at 1st trimester).
+Adiponectin levels at 1st and 2nd trimesters were associated with HOMA-IR (both: r = -0.22, P < 0.0001) and Matsuda index (r = 0.28, P < 0.0001, and r = 0.29, P < 0.0001).
+After adjustment for confounding factors, we found no significant association with HOMA-B and AUC(insulin/glucose).CONCLUSIONSPregnant women with lower adiponectin levels at 1st trimester have higher levels of insulin resistance and are more likely to develop GDM independently of adiposity or glycemic measurements.

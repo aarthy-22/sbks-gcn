@@ -1,0 +1,10 @@
+T9	GENE-N 73 85	ion channels
+T2	CHEMICAL 669 678	capsaicin
+T3	CHEMICAL 719 728	capsaicin
+T4	CHEMICAL 816 825	capsaicin
+T5	CHEMICAL 933 942	steroidal
+T1	CHEMICAL 1166 1175	amiloride
+T6	GENE-N 1284 1325	acid-sensing ion channel (ASIC) receptors
+T7	GENE-N 1521 1534	ASIC channels
+T8	GENE-Y 1561 1610	transient receptor potential vanilloid receptor-1
+R0	NOT Arg1:T1 Arg2:T6

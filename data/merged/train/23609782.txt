@@ -1,0 +1,19 @@
+Drugs in Development for Relapsing Multiple Sclerosis.
+Drug development for multiple sclerosis (MS), as with any other neurological disease, faces numerous challenges, with many drugs failing at various stages of development.
+The disease-modifying therapies (DMTs) first introduced for MS are only moderately effective, but given the lack of competition, they have been widely accepted in clinical practice.
+Although safety and efficacy continue to be the two main metrics by which drugs will be judged, the newer agents in the market also face challenges of a more comparative nature-are they more efficacious than the currently available drugs on the market? Are they safer or better tolerated? Do they offer any practical advantages over current treatments?
+Fingolimod represented a milestone following its approval as an oral drug for MS in 2010, offering patients a far more convenient administration route.
+However, association with cardiovascular complications has led to a more cautious approach in its initial prescribing, now requiring cardiac monitoring for the first 6 h as well as subsequent monitoring of blood pressure and for macular oedema.
+Natalizumab, amongst licensed drugs, represents the current benchmark for efficacy.
+The risk of progressive multifocal leukoencephalopathy during natalizumab treatment is now more quantifiable.
+Other monoclonal antibodies are in various phases of development.
+Marketing authorisation for alemtuzumab has been filed, and whilst trial data suggest that its efficacy outperforms both licensed drugs and others in development, there is a significant risk of secondary autoimmunity.
+Its once-yearly administration, however, seems particularly advantageous.
+Rituximab is unlikely to be developed further as its license will expire, but ocrelizumab, another monoclonal antibody directly targeting B cells, is currently in phase 2 development and looks promising.
+Daclizumab is also moderately efficacious but may struggle to establish itself given its monthly subcutaneous dosing.
+There are new oral drugs in development, and it is likely that BG-12 will be licensed this year.
+This has been licensed for psoriasis so there are good safety data in humans that may also hold true in MS; however, its three times daily dosage will probably impact on patient compliance.
+Laquinimod has lower efficacy than BG-12 but appears safe and could find a place as a first-line agent.
+Teriflunomide has just been licensed by the US FDA and may challenge the current injectable first-line therapies as it has a similar efficacy but the advantage of being taken orally.
+However, risk of teratogenicity may caution against its use in some women of child-bearing potential.
+This review will examine drugs that have been recently approved as well as those that are in late phase 2 or 3 development as treatment for relapsing MS, highlighting their mechanism of action as well as the clinical trial and safety data before discussing their potential for success in an increasingly florid and complex DMT armamentarium.

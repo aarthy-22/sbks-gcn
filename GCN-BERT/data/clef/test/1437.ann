@@ -1,0 +1,24 @@
+T1	EXAMPLE_LABEL 5 6	7
+T2	REACTION_PRODUCT 23 151	(S)-4-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T3	STARTING_MATERIAL 174 236	4-hydroxy-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T4	SOLVENT 302 314	acetonitrile
+T5	STARTING_MATERIAL 348 421	(benzotriazole-1-yloxy)tris(dimethylamino)phosphonium hexafluorophosphate
+T6	REAGENT_CATALYST 423 426	BOP
+T7	REAGENT_CATALYST 454 488	1,8-diazabicyclo[5.4.0]-7-undecene
+T8	REAGENT_CATALYST 490 493	DBU
+T9	TIME 532 542	30 minutes
+T10	STARTING_MATERIAL 566 625	(S)-2-(1-aminoethyl)-5-chloro-3-phenylquinazoline-4(3H)-one
+T11	TEMPERATURE 669 675	60° C.
+T12	TIME 680 688	12 hours
+T13	OTHER_COMPOUND 748 761	Ethyl acetate
+T14	OTHER_COMPOUND 766 771	water
+T15	OTHER_COMPOUND 855 861	Na2SO4
+T16	OTHER_COMPOUND 982 988	hexane
+T17	OTHER_COMPOUND 989 1001	ethylacetate
+T18	OTHER_COMPOUND 1005 1013	1-hexane
+T19	OTHER_COMPOUND 1014 1026	ethylacetate
+T20	YIELD_OTHER 1041 1046	72 mg
+T21	REACTION_PRODUCT 1054 1069	target compound
+T22	REACTION_PRODUCT 1070 1198	(S)-4-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T23	YIELD_OTHER 1218 1228	0.127 mmol
+T24	YIELD_PERCENT 1237 1240	50%

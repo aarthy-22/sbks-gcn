@@ -1,0 +1,19 @@
+T18	CHEMICAL 27 39	homocysteine
+T8	CHEMICAL 75 87	homocysteine
+T13	CHEMICAL 140 152	homocysteine
+T7	CHEMICAL 229 241	homocysteine
+T9	CHEMICAL 392 404	homocysteine
+T10	CHEMICAL 707 714	glycine
+T11	CHEMICAL 843 867	5-methyltetrahydrofolate
+T12	CHEMICAL 871 887	tetrahydrofolate
+T14	CHEMICAL 891 901	methionine
+T19	GENE-Y 891 910	methionine synthase
+T15	CHEMICAL 916 932	tetrahydrofolate
+T16	CHEMICAL 976 988	homocysteine
+T17	CHEMICAL 1041 1057	tetrahydrofolate
+T1	CHEMICAL 1144 1149	NADPH
+T2	CHEMICAL 1155 1162	NADP(+)
+T3	CHEMICAL 1189 1205	tetrahydrofolate
+T4	CHEMICAL 1269 1276	glycine
+T5	CHEMICAL 1291 1301	L-Cysteine
+T6	CHEMICAL 1362 1374	homocysteine

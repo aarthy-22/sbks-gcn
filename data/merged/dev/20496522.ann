@@ -1,0 +1,8 @@
+T7	GENE-Y 0 28	Alpha-2B adrenergic receptor
+T5	CHEMICAL 61 70	etomidate
+T1	CHEMICAL 72 81	Etomidate
+T2	CHEMICAL 224 233	etomidate
+T3	CHEMICAL 389 398	etomidate
+T6	GENE-Y 647 676	alpha-2B adrenergic receptors
+T4	CHEMICAL 812 821	etomidate
+R0	CPR-2 Arg1:T5 Arg2:T7

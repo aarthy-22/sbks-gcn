@@ -1,0 +1,21 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 7 54	2-(3-Methylisoxazol-5-yl)ethyl methanesulfonate
+T3	STARTING_MATERIAL 55 88	2-(3-Methylisoxazol-5-yl) ethanol
+T4	SOLVENT 126 141	dichloromethane
+T5	TEMPERATURE 164 167	0°C
+T6	REAGENT_CATALYST 178 191	triethylamine
+T7	STARTING_MATERIAL 216 240	methanesulfonyl chloride
+T8	TEMPERATURE 325 341	room temperature
+T9	TIME 358 364	1 hour
+T10	OTHER_COMPOUND 405 420	dichloromethane
+T11	OTHER_COMPOUND 453 470	hydrochloric acid
+T12	OTHER_COMPOUND 598 616	sodium bicarbonate
+T13	OTHER_COMPOUND 617 624	aqueous
+T14	OTHER_COMPOUND 646 651	brine
+T15	OTHER_COMPOUND 695 709	sodium sulfate
+T16	OTHER_COMPOUND 793 803	silica gel
+T17	OTHER_COMPOUND 831 846	petroleum ether
+T18	OTHER_COMPOUND 849 862	ethyl acetate
+T19	REACTION_PRODUCT 882 929	2-(3-methylisoxazol-5-yl)ethyl methanesulfonate
+T20	YIELD_OTHER 931 937	350 mg
+T21	YIELD_PERCENT 972 975	22%

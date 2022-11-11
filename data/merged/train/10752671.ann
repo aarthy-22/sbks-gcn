@@ -1,0 +1,10 @@
+T7	CHEMICAL 14 23	flutamide
+T1	CHEMICAL 79 88	Flutamide
+T8	GENE-Y 132 149	androgen receptor
+T4	CHEMICAL 493 502	flutamide
+T5	CHEMICAL 659 668	flutamide
+T9	GENE-N 743 770	gamma-glutamyltraspeptidase
+T6	CHEMICAL 931 940	flutamide
+T2	CHEMICAL 1218 1227	flutamide
+T3	CHEMICAL 1325 1334	flutamide
+R0	CPR-3 Arg1:T5 Arg2:T9

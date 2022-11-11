@@ -1,0 +1,13 @@
+T5	CHEMICAL 713 729	dichlorphenamide
+T6	CHEMICAL 733 741	carbonic
+T11	GENE-N 733 751	carbonic anhydrase
+T7	CHEMICAL 921 937	dichlorphenamide
+T8	CHEMICAL 943 956	acetazolamide
+T1	CHEMICAL 1087 1097	mexiletine
+T2	CHEMICAL 1433 1443	morpholino
+T9	GENE-Y 1503 1508	CLCN1
+T3	CHEMICAL 1593 1601	chloride
+T10	GENE-N 1593 1621	chloride channel transcripts
+T4	CHEMICAL 1632 1640	chloride
+R0	CPR-4 Arg1:T5 Arg2:T11
+R1	NOT Arg1:T9 Arg2:T3

@@ -1,0 +1,8 @@
+Binding of antipsychotic drugs at alpha 1A- and alpha 1B-adrenoceptors: risperidone is selective for the alpha 1B-adrenoceptors.
+The binding of the antipsychotic drugs risperidone, (+)-butaclamol, clozapine, haloperidol, spiperone, thioridazine and YM-09151-2 was studied at the subtypes of the alpha 1-adrenoceptor.
+Saturation experiments showed that [3H]prazosin labelled a single population of binding sites in the spleen (alpha 1B) and hippocampus (alpha 1A and alpha 1B) (dissociation constants (KD): 0.26 nM and 0.14 nM respectively).
+Prazosin displaced the radioligand in a monophasic manner in both the spleen and hippocampus whereas 5-methyl-urapidil, phentolamine and WB 4101 displaced the radioligand in a monophasic manner in the spleen but in a biphasic manner in the hippocampus.
+The affinity of these three compounds for the low affinity site in the hippocampus was similar to that observed in the spleen, suggesting that all three were selective for the alpha 1A-adrenoceptor.
+Furthermore, the affinities for the alpha 1A- and alpha 1B-adrenoceptors calculated in this manner were in agreement with literature values.
+With the exception of risperidone, all the antipsychotic drugs tested failed to show selectivity for either of the alpha 1-adrenoceptor subtypes.
+Risperidone was 120-fold more selective for the alpha 1B-adrenoceptor with respect to the alpha 1A-adrenoceptor (Ki values: 2.3 +/- 1.2 nM and 283.6 +/- 174.1 nM respectively).

@@ -1,0 +1,23 @@
+T9	CHEMICAL 26 34	7-pterin
+T10	CHEMICAL 74 104	4a-hydroxy-tetrahydrobiopterin
+T22	GENE-Y 74 116	4a-hydroxy-tetrahydrobiopterin dehydratase
+T21	GENE-Y 117 121	DCoH
+T1	CHEMICAL 288 301	phenylalanine
+T11	GENE-Y 288 313	phenylalanine hydroxylase
+T3	CHEMICAL 386 405	tetrahydrobiopterin
+T4	CHEMICAL 494 505	7-biopterin
+T5	CHEMICAL 507 518	primapterin
+T6	CHEMICAL 575 605	4a-hydroxy-tetrahydrobiopterin
+T17	GENE-Y 575 617	4a-hydroxy-tetrahydrobiopterin dehydratase
+T7	CHEMICAL 619 642	pterin-4a-carbinolamine
+T18	GENE-Y 619 654	pterin-4a-carbinolamine dehydratase
+T8	CHEMICAL 829 839	amino acid
+T19	GENE-N 879 883	C81R
+T20	GENE-N 1062 1073	dehydratase
+T12	GENE-N 1387 1399	dehydratases
+T13	GENE-N 1533 1537	E96K
+T14	GENE-N 1538 1549	dehydratase
+T15	GENE-N 1707 1711	E96K
+T2	CHEMICAL 1850 1880	4a-hydroxy-tetrahydrobiopterin
+T16	GENE-N 1984 1995	dehydratase
+R0	CPR-4 Arg1:T2 Arg2:T16

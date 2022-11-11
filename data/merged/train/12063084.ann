@@ -1,0 +1,27 @@
+T11	CHEMICAL 18 30	aripiprazole
+T19	GENE-Y 67 88	human 5-HT1A receptor
+T1	CHEMICAL 90 102	Aripiprazole
+T2	CHEMICAL 104 187	7-[4-[4-(2,3-dichlorophenyl)-1-piperazinyl]butyloxy]-3,4-dihydro-2(1H)-quinolinon e
+T3	CHEMICAL 244 252	dopamine
+T12	GENE-Y 244 265	dopamine D2 receptors
+T13	GENE-Y 307 331	human 5-HT(1A) receptors
+T14	GENE-Y 333 342	h5-HT(1A)
+T15	GENE-Y 425 433	5-HT(1A)
+T4	CHEMICAL 449 492	guanosine-5'-O-(3-[(35)S]thio)-triphosphate
+T5	CHEMICAL 494 512	[(35)S]GTP gamma S
+T16	GENE-Y 571 579	5-HT(1A)
+T17	GENE-Y 621 629	5-HT(1A)
+T6	CHEMICAL 911 923	aripiprazole
+T7	CHEMICAL 927 935	dopamine
+T18	GENE-Y 927 948	dopamine D2 receptors
+T8	CHEMICAL 970 982	aripiprazole
+T9	CHEMICAL 996 1004	dopamine
+T10	CHEMICAL 1005 1014	serotonin
+R0	CPR-5 Arg1:T11 Arg2:T19
+R1	CPR-2 Arg1:T1 Arg2:T13
+R2	CPR-5 Arg1:T2 Arg2:T15
+R3	CPR-5 Arg1:T6 Arg2:T18
+R4	NOT Arg1:T3 Arg2:T15
+R5	NOT Arg1:T12 Arg2:T5
+R6	NOT Arg1:T13 Arg2:T5
+R7	NOT Arg1:T14 Arg2:T4

@@ -1,0 +1,6 @@
+Structural Investigation and Biological Activity of Sesquiterpene Lactones from the Traditional Chinese Herb Inula racemosa.
+Five new sesquiterpene lactones, racemosalactones A-E (1-5), along with 19 known sesquiterpene latones (6-24), were isolated from the roots of Inula racemosa.
+Their structures were elucidated by extensive spectroscopic analysis, and the absolute configuration of 2 was deduced from X-ray diffraction analysis.
+Compounds 1, 6, 8, 10, 12, 14, and 17 exhibited antiproliferative activities with IC50 values ranging from 0.38 to 4.19 μg/mL against human non-small-cell lung cancer A549, hepatocellular carcinoma HepG2, and human fibrosarcoma HT1080 cells.
+Compounds 6 and 8 exhibited antiproliferative activities against endothelial cells with IC50 values of 2.4 and 2.5 μg/mL, respectively.
+Furthermore, compounds 6 and 8 both inhibited endothelial cell tube formation at 1.0 μg/mL. A method for the rapid and straightforward preparative-scale isolation of compound 6 from alantolides is described.

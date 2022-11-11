@@ -1,0 +1,12 @@
+Hydroxy-terminated conjugated polymer nanoparticles have near-unity bright fraction and reveal cholesterol-dependence of IGF1R nanodomains.
+Fluorescent nanoparticles have enabled many discoveries regarding how molecular machines function.
+Quantum dots have been the dominant class of fluorescent nanoparticles but suffer from blinking and from a substantial dark fraction--particles where the fluorescence is never seen--complicating any analysis of biological function.
+Nanoparticles composed of conjugated fluorescent polymers (Pdots) have recently been shown to have high brightness and no blinking.
+Here we develop a robust and efficient means to measure the dark fraction of Pdots, conjugating Atto dyes to the nanoparticles and testing fluorescence colocalization of dye and Pdot puncta.
+This established that the Pdots we generated had minimal dark fraction: ∼3%.
+The application of nanoparticles in biological environments is highly sensitive to surface functionalization.
+For Pdots we found that passivation with uncharged hydroxy-terminated polyethylene glycol caused a dramatic reduction in nonspecific cell binding and aggregation compared to a charged coating.
+Using carbonyl di-imidazole the hydroxy-Pdots were functionalized efficiently with streptavidin for high stability targeting, allowing specific labeling of mammalian cells.
+Type I insulin-like growth factor receptor (IGF1R) regulates cell survival and development, with roles in aging, heart disease, and cancer.
+We used hydroxy-Pdots to track the dynamics of IGF1R on a breast cancer cell-line, determining the diffusion characteristics and showing cholesterol-containing membrane nanodomains were important for receptor mobility at the plasma membrane.
+The near-unity bright fraction and low nonspecific binding of hydroxy-Pdots, combined with Pdot photostability and lack of blinking, provides many advantages for investigations at the single molecule level.

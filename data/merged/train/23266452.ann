@@ -1,0 +1,10 @@
+T7	CHEMICAL 0 21	N-acetylgalactosamine
+T1	CHEMICAL 480 501	N-acetylgalactosamine
+T2	CHEMICAL 736 757	N-acetylgalactosamine
+T3	CHEMICAL 773 817	poly(ethylene glycol)-b-poly(ε-caprolactone)
+T4	CHEMICAL 831 891	poly(ε-caprolactone)-b-poly(2-aminoethyl ethylene phosphate)
+T5	CHEMICAL 893 904	PCL-b-PPEEA
+T6	CHEMICAL 999 1020	poly(ethylene glycol)
+T8	GENE-Y 1244 1260	apolipoprotein B
+T9	GENE-Y 1262 1266	apoB
+T10	GENE-Y 1400 1404	apoB

@@ -1,0 +1,9 @@
+Transcriptional regulation of the urokinase receptor (u-PAR)--a central molecule of invasion and metastasis.
+The phenomenon of tumor-associated proteolysis has been acknowledged as a decisive step in the progression of cancer.
+This short review focuses on the urokinase receptor (u-PAR), a central molecule involved in tumor-associated invasion and metastasis, and summarizes the transcriptional regulation of u-PAR.
+The urokinase receptor (u-PAR) is a heavily glycosylated cell surface protein and binds the serine protease urokinase specifically and with high affinity.
+It consists of three similar cysteine-rich repeats and is anchored to the cell membrane via a GPI-anchor.
+The u-PAR gene comprises 7 exons and is located on chromosome 19q13.
+Transcriptional activation of the u-PAR promoter region can be induced by binding of transcription factors (Sp1, AP-1, AP-2, NF-kappa B).
+One current study gives an example for transcriptional downregulation of u-PAR through a PEA3/ets transcriptional silencing element.
+Knowledge of the molecular regulation of this molecule in tumor cells could be very important for diagnosis and therapy in the near future.

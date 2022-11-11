@@ -1,0 +1,9 @@
+Covalent binding of rofecoxib, but not other cyclooxygenase-2 inhibitors, to allysine aldehyde in elastin of human aorta.
+In rats, it has been reported that rofecoxib, a cyclooxygenase-2 (COX-2) inhibitor, reacts with the aldehyde group of allysine in elastin to give a condensation covalent adduct, thereby preventing the formation of cross-linkages in the elastin and causing degradation of the elastic fibers in aortas in vivo.
+Acid, organic solvent, and proteolytic enzyme treatments of human aortic homogenate after incubation with [(14)C]rofecoxib demonstrated that most of the radioactivity is covalently bound to elastin.
+The in vitro covalent binding was inhibited in the presence of beta-aminopropionitrile, D-penicillamine, and hydralazine, which suggested that the aldehyde group of allysine in human elastin was relevant to the covalent binding.
+The in vitro covalent binding of [(14)C]rofecoxib was significantly decreased by the addition of only nonradiolabeled rofecoxib but not the other COX-2 inhibitors, celecoxib, valdecoxib, etoricoxib, and CS-706 [2-(4-ethoxyphenyl)-4-methyl 1-(4-sulfamoylphenyl)-1H-pyrrole], a novel selective COX-2 inhibitor.
+All the above COX-2 inhibitors except for rofecoxib had no reactivity with the aldehyde group of benzaldehyde used as a model compound of allysine aldehyde under a physiological pH condition.
+On the other hand, no retention of the radioactivity of [(14)C]rofecoxib was observed in human aortic endothelial cells in vitro, suggesting that rofecoxib is not retained in aortic endothelial cells in vivo.
+These results suggest that rofecoxib, but not other COX-2 inhibitors, is capable of covalently binding to the aldehyde group of allysine in human elastin.
+This might be one of the main causes of cardiovascular events by rofecoxib in clinical situations.

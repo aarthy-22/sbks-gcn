@@ -1,0 +1,26 @@
+T22	GENE-N 0 21	alpha(1)-Adrenoceptor
+T13	GENE-N 98 119	alpha(1)-adrenoceptor
+T9	CHEMICAL 145 158	noradrenaline
+T3	CHEMICAL 246 253	BMY7378
+T4	CHEMICAL 255 271	5-methylurapidil
+T5	CHEMICAL 273 279	WB4101
+T6	CHEMICAL 284 292	prazosin
+T7	CHEMICAL 323 336	noradrenaline
+T16	GENE-Y 400 409	alpha(1D)
+T17	GENE-N 432 444	adrenoceptor
+T18	GENE-Y 473 506	rat cloned alpha(1d)-adrenoceptor
+T8	CHEMICAL 613 620	BMY7378
+T19	GENE-Y 680 702	alpha(1D)-adrenoceptor
+T10	CHEMICAL 803 816	noradrenaline
+T20	GENE-Y 926 948	alpha(1D)-adrenoceptor
+T21	GENE-Y 988 1010	alpha(1d)-adrenoceptor
+T11	GENE-Y 1239 1261	alpha(1a)-adrenoceptor
+T12	GENE-Y 1482 1510	alpha(1D)-like adrenoceptors
+T1	CHEMICAL 1610 1623	noradrenaline
+T2	CHEMICAL 1655 1668	noradrenaline
+T14	GENE-Y 1709 1731	alpha(1D)-adrenoceptor
+T15	GENE-Y 1779 1801	alpha(1A)-adrenoceptor
+R0	CPR-6 Arg1:T5 Arg2:T16
+R1	CPR-6 Arg1:T5 Arg2:T18
+R2	NOT Arg1:T13 Arg2:T9
+R3	NOT Arg1:T12 Arg2:T1

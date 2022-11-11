@@ -1,0 +1,9 @@
+Clinical rationale for rosuvastatin, a potent new HMG-CoA reductase inhibitor.
+Coronary heart disease (CHD) is the leading cause of death worldwide, and effective treatment of hyperlipidaemia can prevent development of CHD and significantly reduce the risk for cardiovascular events and mortality in this disease.
+The advent of 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitors (statins) has revolutionised the treatment of hyperlipidaemia, but many patients receiving these drugs still do not achieve their therapeutic goals.
+Rosuvastatin (Crestor; formerly ZD4522) is a new, potent and long-lasting inhibitor of HMG-CoA reductase that is highly selective for hepatocytes.
+Its pharmacokinetics permit once-daily dosing, and a lack of oxidative hepatic metabolism results in a reduced potential for drug-drug interactions.
+Preliminary clinical results indicate that it produces rapid dose-related reductions in total cholesterol, low-density lipoprotein cholesterol, triglycerides, and apolipoprotein B that may exceed those achieved with other currently available statins.
+Increases in high-density lipoprotein cholesterol have also been observed.
+Rosuvastatin is also well tolerated, with no evidence of either hepato- or myotoxicity.
+It is hoped that new agents such as rosuvastatin may help to reduce the high global morbidity, mortality and associated costs of CHD and related vascular disorders.

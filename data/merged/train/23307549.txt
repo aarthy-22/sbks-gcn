@@ -1,0 +1,15 @@
+Ruxolitinib: a new treatment option for myelofibrosis.
+Myelofibrosis is a myeloproliferative neoplasm characterized by bone marrow fibrosis and extramedullary hematopoiesis.
+Evolution of myelofibrosis can lead to life-threatening complications, including transformation to leukemia, thrombotic events, and hemorrhagic episodes.
+The only curative therapy for myelofibrosis is allogeneic hematopoietic stem cell transplantation.
+Because this disease manifests primarily in the older population, many patients diagnosed with myelofibrosis are not considered medically fit for such aggressive therapy.
+Other available medical therapies do not halt disease progression; instead, current treatment strategies have focused on targeting specific symptomology, although with limited efficacy.
+The lack of effective treatment options for patients with myelofibrosis has rendered this orphan disease state an unmet medical need, and novel approaches to improve outcomes are necessary.
+Emerging research has identified numerous molecular mutations in patients with myelofibrosis, making this disease a potential candidate for molecularly targeted therapy.
+The most prevalent mutation identified is a gain-of-function mutation in the Janus kinase (JAK) family, JAK2 V617F, which has been identified in more than half of patients with myelofibrosis.
+This mutation results in a constitutively active JAK-signal transducer and activator of transcription pathway resulting in dysregulated cellular proliferation and hematopoiesis.
+Ruxolitinib is a small-molecule inhibitor of JAK1 and JAK2 and recently became the first drug approved by the United States Food and Drug Administration for the treatment of symptomatic intermediate- or high-risk myelofibrosis.
+In clinical trials, ruxolitinib demonstrated promising efficacy in reducing splenomegaly and myelofibrosis-related symptoms.
+However, ruxolitinib did not demonstrate disease-modifying potential and is not considered a curative therapeutic option.
+Adverse events associated with ruxolitinib are primarily hematologic, with thrombocytopenia and anemia being the most common toxicologic events identified.
+Future research will shed light on whether ruxolitinib in combination with other treatments will further enhance outcomes in myelofibrosis.

@@ -1,0 +1,14 @@
+T12	GENE-Y 0 6	Reelin
+T3	GENE-Y 61 67	Reelin
+T5	GENE-Y 383 389	reelin
+T2	CHEMICAL 529 542	glutamic acid
+T6	GENE-Y 529 560	glutamic acid de carboxylase 67
+T7	GENE-Y 562 567	GAD67
+T8	GENE-N 841 874	reelin (RELN) and GAD67 promoters
+T9	GENE-Y 955 978	DNA methyltransferase 1
+T10	GENE-Y 980 985	DNMT1
+T11	GENE-N 1024 1048	RELN and GAD67 promoters
+T1	CHEMICAL 1086 1096	methionine
+T4	GENE-Y 1292 1298	Reelin
+R0	CPR-3 Arg1:T1 Arg2:T11
+R1	NOT Arg1:T2 Arg2:T7

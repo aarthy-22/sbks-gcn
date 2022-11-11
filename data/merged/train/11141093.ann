@@ -1,0 +1,20 @@
+T11	CHEMICAL 0 31	Hexahydrochromeno[4,3-b]pyrrole
+T17	GENE-Y 47 67	acetylcholinesterase
+T5	CHEMICAL 123 135	caproctamine
+T9	CHEMICAL 143 150	diamine
+T10	CHEMICAL 151 158	diamide
+T12	GENE-Y 187 191	AChE
+T1	CHEMICAL 258 273	2-methoxybenzyl
+T2	CHEMICAL 316 325	tricyclic
+T13	GENE-Y 367 371	AChE
+T3	CHEMICAL 400 431	hexahydrochromeno[4,3-b]pyrrole
+T4	CHEMICAL 461 507	hexahydropyrrolo[2,3-b]indole of physostigmine
+T6	CHEMICAL 546 556	carbamates
+T14	GENE-Y 629 639	human AChE
+T15	GENE-Y 644 648	BChE
+T7	CHEMICAL 654 665	6-carbamate
+T8	CHEMICAL 692 705	physostigmine
+T16	GENE-Y 947 951	AChE
+R0	CPR-2 Arg1:T9 Arg2:T12
+R1	NOT Arg1:T4 Arg2:T15
+R2	NOT Arg1:T15 Arg2:T8

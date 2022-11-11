@@ -1,0 +1,15 @@
+T13	GENE-Y 0 31	Protein tyrosine phosphatase 1B
+T7	CHEMICAL 8 16	tyrosine
+T5	CHEMICAL 53 62	dammarane
+T6	CHEMICAL 68 79	triterpenes
+T4	CHEMICAL 130 138	saponins
+T8	GENE-Y 140 171	Protein tyrosine phosphatase 1B
+T3	CHEMICAL 148 156	tyrosine
+T9	GENE-Y 173 178	PTP1B
+T11	GENE-Y 210 217	insulin
+T1	CHEMICAL 458 469	triterpenes
+T2	CHEMICAL 520 528	saponins
+T10	GENE-Y 763 768	PTP1B
+T12	GENE-Y 934 939	PTP1B
+R0	NOT Arg1:T3 Arg2:T9
+R1	NOT Arg1:T3 Arg2:T11

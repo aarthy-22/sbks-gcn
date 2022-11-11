@@ -1,0 +1,2 @@
+Step 4: N-(3,5-dimethyl-1-phenyl-1 H-pyrazol-4-yl)-2-hydroxyacetamide
+To a suspension of 2-((3,5-dimethyl-1-phenyl-1 H-pyrazol-4-yl)amino)-2-oxoethyl acetate (2.25 g, 7.83 mmol) in MeOH (20 mL) was added NaOMe (20 mg, 0.37 mmol) at room temperature. After 30 min, Amberlite resin was added to neutralize the base, and the mixture was filtered and concentrated in vacuo. The product was crystallized from a mixture of toluene/EtOAc to give 1.715 g (89%) of the title compound

@@ -1,0 +1,24 @@
+T21	CHEMICAL 0 12	Escitalopram
+T1	CHEMICAL 14 34	Escitalopram oxalate
+T10	CHEMICAL 36 48	S-citalopram
+T13	CHEMICAL 50 57	Lexapro
+T18	CHEMICAL 72 81	serotonin
+T3	CHEMICAL 130 156	S-enantiomer of citalopram
+T11	CHEMICAL 315 325	citalopram
+T12	CHEMICAL 359 371	escitalopram
+T22	GENE-Y 404 431	human serotonin transporter
+T14	CHEMICAL 410 419	serotonin
+T15	CHEMICAL 445 457	R-citalopram
+T16	CHEMICAL 500 512	escitalopram
+T17	CHEMICAL 534 546	Escitalopram
+T19	CHEMICAL 742 754	escitalopram
+T23	GENE-N 781 796	cytochrome P450
+T20	CHEMICAL 904 916	escitalopram
+T2	CHEMICAL 1066 1076	citalopram
+T4	CHEMICAL 1208 1220	escitalopram
+T5	CHEMICAL 1505 1517	escitalopram
+T6	CHEMICAL 1627 1637	citalopram
+T7	CHEMICAL 1792 1804	escitalopram
+T8	CHEMICAL 1964 1976	escitalopram
+T9	CHEMICAL 2141 2153	escitalopram
+R0	CPR-2 Arg1:T12 Arg2:T22

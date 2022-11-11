@@ -1,0 +1,45 @@
+T40	GENE-N 0 20	Alpha 1-adrenoceptor
+T33	CHEMICAL 73 77	Ca2+
+T1	CHEMICAL 118 132	Norepinephrine
+T13	CHEMICAL 146 157	methoxamine
+T20	CHEMICAL 175 184	clonidine
+T26	CHEMICAL 203 228	guanosine 5'-triphosphate
+T8	CHEMICAL 249 284	guanosine 5'-O-(3-thiotriphosphate)
+T11	CHEMICAL 286 297	GTP gamma-S
+T12	CHEMICAL 375 379	Ca2+
+T14	CHEMICAL 470 474	Ca2+
+T15	CHEMICAL 499 513	norepinephrine
+T16	CHEMICAL 548 559	methoxamine
+T17	CHEMICAL 563 572	clonidine
+T18	CHEMICAL 606 626	chloroethylclonidine
+T19	CHEMICAL 672 676	Ca2+
+T21	CHEMICAL 701 715	norepinephrine
+T22	CHEMICAL 800 811	methoxamine
+T23	CHEMICAL 815 824	clonidine
+T39	GENE-Y 874 895	alpha 1A-adrenoceptor
+T24	CHEMICAL 907 914	WB 4101
+T25	CHEMICAL 944 948	Ca2+
+T27	CHEMICAL 973 984	methoxamine
+T28	CHEMICAL 989 998	clonidine
+T29	CHEMICAL 1019 1039	chloroethylclonidine
+T30	CHEMICAL 1069 1080	methoxamine
+T31	CHEMICAL 1082 1091	clonidine
+T32	CHEMICAL 1096 1110	norepinephrine
+T2	CHEMICAL 1118 1138	chloroethylclonidine
+T3	CHEMICAL 1179 1213	guanosine 5'-O-(2-thiodiphosphate)
+T4	CHEMICAL 1215 1225	GDP beta-S
+T5	CHEMICAL 1237 1281	1-(5-isoquinolinylsulfonyl)-methylpiperazine
+T34	GENE-N 1336 1354	myosin light chain
+T6	CHEMICAL 1367 1381	norepinephrine
+T7	CHEMICAL 1416 1425	clonidine
+T35	GENE-N 1459 1511	alpha 1-adrenoceptor subtypes (alpha 1A and alpha 1B
+T9	CHEMICAL 1526 1530	Ca2+
+T10	CHEMICAL 1581 1585	Ca2+
+T36	GENE-Y 1612 1638	alpha 1A-subtype receptors
+T37	GENE-N 1659 1668	G-protein
+T38	GENE-N 1673 1689	protein kinase C
+R0	CPR-6 Arg1:T24 Arg2:T39
+R1	CPR-3 Arg1:T6 Arg2:T34
+R2	CPR-3 Arg1:T7 Arg2:T34
+R3	NOT Arg1:T19 Arg2:T39
+R4	NOT Arg1:T10 Arg2:T38

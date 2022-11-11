@@ -1,0 +1,21 @@
+T14	CHEMICAL 73 81	arginine
+T10	CHEMICAL 221 231	l-arginine
+T3	CHEMICAL 391 401	l-arginine
+T4	CHEMICAL 500 510	l-arginine
+T5	CHEMICAL 812 827	malondialdehyde
+T6	CHEMICAL 884 895	glutathione
+T7	CHEMICAL 897 908	glutathione
+T15	GENE-N 897 919	glutathione peroxidase
+T8	CHEMICAL 921 932	glutathione
+T16	GENE-Y 921 942	glutathione reductase
+T9	CHEMICAL 944 954	superoxide
+T17	GENE-N 944 964	superoxide dismutase
+T18	GENE-N 1022 1050	Serum γ-glutamyl transferase
+T11	CHEMICAL 1052 1067	malondialdehyde
+T12	CHEMICAL 1090 1101	glutathione
+T19	GENE-N 1090 1115	glutathione S-transferase
+T13	CHEMICAL 1102 1103	S
+T1	CHEMICAL 1193 1195	SH
+T2	CHEMICAL 1274 1281	silybin
+R0	NOT Arg1:T6 Arg2:T17
+R1	NOT Arg1:T16 Arg2:T9

@@ -1,0 +1,48 @@
+T45	GENE-N 22 42	alpha 1-adrenoceptor
+T38	GENE-N 127 147	alpha 1-adrenoceptor
+T26	CHEMICAL 188 198	adrenaline
+T4	CHEMICAL 230 234	Ca2+
+T33	GENE-Y 273 294	alpha 1A-Adrenoceptor
+T22	CHEMICAL 405 425	chloroethylclonidine
+T41	GENE-N 453 470	beta-adrenoceptor
+T42	GENE-Y 536 557	alpha 1A-adrenoceptor
+T23	CHEMICAL 640 652	isoprenaline
+T43	GENE-N 701 719	alpha-adrenoceptor
+T24	CHEMICAL 806 811	CdCl2
+T25	CHEMICAL 887 899	isoprenaline
+T44	GENE-Y 959 981	alpha 1B-adrenoceptors
+T27	CHEMICAL 1000 1020	chloroethylclonidine
+T28	CHEMICAL 1090 1100	adrenaline
+T29	GENE-Y 1188 1209	alpha 1A-adrenoceptor
+T1	CHEMICAL 1233 1250	5-methyl-urapidil
+T2	CHEMICAL 1255 1271	(+/-)-tamsulosin
+T3	CHEMICAL 1291 1301	adrenaline
+T30	GENE-Y 1346 1367	alpha 1B-adrenoceptor
+T5	CHEMICAL 1396 1413	5-methyl-urapidil
+T6	CHEMICAL 1440 1460	chloroethylclonidine
+T31	GENE-Y 1500 1522	alpha 1A-adrenoceptors
+T7	CHEMICAL 1556 1566	adrenaline
+T32	GENE-Y 1597 1619	alpha 1B-adrenoceptors
+T8	CHEMICAL 1658 1662	Ca2+
+T9	CHEMICAL 1678 1690	nitrendipine
+T10	CHEMICAL 1724 1728	Ca2+
+T11	CHEMICAL 1744 1749	CdCl2
+T12	CHEMICAL 1786 1796	adrenaline
+T13	CHEMICAL 1805 1814	ryanodine
+T14	CHEMICAL 1854 1866	nitrendipine
+T15	CHEMICAL 1871 1876	CdCl2
+T16	CHEMICAL 1919 1939	chloroethylclonidine
+T17	CHEMICAL 1981 1997	phenoxybenzamine
+T18	CHEMICAL 2067 2077	adrenaline
+T34	GENE-Y 2114 2136	alpha 1B-adrenoceptors
+T19	CHEMICAL 2152 2156	Ca2+
+T35	GENE-Y 2211 2233	alpha 1B-adrenoceptors
+T20	CHEMICAL 2237 2257	chloroethylclonidine
+T36	GENE-Y 2269 2291	alpha lA-adrenoceptors
+T21	CHEMICAL 2380 2384	Ca2+
+T37	GENE-N 2405 2430	voltage-operated channels
+T39	GENE-Y 2460 2482	alpha 1B-adrenoceptors
+T40	GENE-Y 2518 2540	alpha 1A-adrenoceptors
+R0	NOT Arg1:T1 Arg2:T30
+R1	NOT Arg1:T34 Arg2:T19
+R2	NOT Arg1:T36 Arg2:T21

@@ -1,0 +1,29 @@
+T12	CHEMICAL 28 42	angiotensin II
+T27	GENE-N 28 51	angiotensin II receptor
+T13	CHEMICAL 60 70	eprosartan
+T1	CHEMICAL 72 86	Angiotensin II
+T14	GENE-N 72 95	Angiotensin II receptor
+T7	CHEMICAL 114 128	angiotensin II
+T21	GENE-Y 114 151	angiotensin II type 1 (AT1) receptors
+T3	CHEMICAL 186 197	angiotensin
+T16	GENE-Y 186 197	angiotensin
+T6	CHEMICAL 284 295	angiotensin
+T17	GENE-Y 284 313	angiotensin-converting enzyme
+T18	GENE-Y 315 318	ACE
+T19	GENE-Y 389 392	AT1
+T20	GENE-Y 417 420	ACE
+T22	GENE-Y 505 515	bradykinin
+T8	CHEMICAL 548 562	angiotensin II
+T23	GENE-Y 548 562	angiotensin II
+T9	CHEMICAL 724 734	Eprosartan
+T24	GENE-Y 761 764	AT1
+T25	GENE-Y 799 802	AT1
+T10	CHEMICAL 863 876	noradrenaline
+T11	CHEMICAL 886 896	Eprosartan
+T26	GENE-N 919 934	cytochrome P450
+T2	CHEMICAL 1114 1124	eprosartan
+T15	GENE-Y 1171 1174	ACE
+T4	CHEMICAL 1269 1279	Eprosartan
+T5	CHEMICAL 1424 1443	hydrochlorothiazide
+R0	NOT Arg1:T6 Arg2:T18
+R1	NOT Arg1:T25 Arg2:T10

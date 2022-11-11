@@ -1,0 +1,13 @@
+Chemotherapy and targeted therapy combinations in advanced melanoma.
+For three decades, clinical trials with chemotherapy in melanoma have failed to show superiority of any one regimen over another.
+Dacarbazine remains the only "standard" agent.
+With response rates of <10% and median progression-free survival of 2 months or less in contemporary trials, there is a need to improve systemic therapy.
+Combination chemotherapy is associated with higher response rates than single-agent therapy but this has not translated into improved survival.
+An increasing number of potential therapeutic targets have been identified.
+For some, pharmacologic inhibitors are available, including sorafenib for BRAF, farnesyltransferase inhibitors for NRAS, PD-0325901 for mitogen-activated protein kinase/extracellular signal-regulated kinase kinase, rapamycin analogues for mammalian target of rapamycin, and agents that inhibit either vascular endothelial growth factor or its receptors.
+Several multitargeted kinase inhibitors have potency against the fibroblast growth factor receptor, c-kit, and platelet-derived growth factor receptor.
+Small-molecule inhibitors of c-met and Akt are in preclinical development.
+Another class of agents indirectly affect aberrant signaling, including inhibitors of chaperones and proteasomes.
+Several targeted agents seem to enhance the cytotoxicity of chemotherapy in preclinical models.
+The mechanism by which signaling inhibition might synergize with chemotherapy requires more study so that rational combinations move forward.
+Very few targeted agents have been studied rigorously in this fashion.

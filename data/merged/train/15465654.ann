@@ -1,0 +1,33 @@
+T1	CHEMICAL 85 97	Troglitazone
+T7	CHEMICAL 99 107	bosentan
+T9	CHEMICAL 112 125	glibenclamide
+T24	GENE-Y 138 159	bile salt export pump
+T26	GENE-Y 161 165	Bsep
+T17	CHEMICAL 184 196	taurocholate
+T8	CHEMICAL 262 281	sodium taurocholate
+T20	GENE-Y 262 309	sodium taurocholate co-transporting polypeptide
+T21	GENE-Y 314 318	Bsep
+T10	CHEMICAL 577 584	lactate
+T22	GENE-N 577 598	lactate dehydrogenase
+T23	GENE-N 600 603	LDH
+T11	CHEMICAL 606 617	alamar blue
+T12	CHEMICAL 619 679	3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyltetrazolium bromide
+T13	CHEMICAL 681 684	MTT
+T14	CHEMICAL 690 706	propidium iodide
+T25	GENE-Y 802 806	Bsep
+T27	GENE-N 962 970	collagen
+T15	CHEMICAL 972 984	Troglitazone
+T16	CHEMICAL 1069 1077	Bosentan
+T18	GENE-N 1122 1125	LDH
+T2	CHEMICAL 1127 1130	MTT
+T3	CHEMICAL 1135 1151	propidium iodide
+T4	CHEMICAL 1270 1281	alamar blue
+T5	CHEMICAL 1289 1302	Glibenclamide
+T19	GENE-N 1442 1445	LDH
+T6	CHEMICAL 1449 1465	propidium iodide
+R0	CPR-9 Arg1:T17 Arg2:T26
+R1	NOT Arg1:T10 Arg2:T23
+R2	NOT Arg1:T10 Arg2:T25
+R3	NOT Arg1:T22 Arg2:T13
+R4	NOT Arg1:T23 Arg2:T11
+R5	NOT Arg1:T23 Arg2:T13

@@ -1,0 +1,12 @@
+T11	GENE-Y 41 63	cardiac sodium channel
+T3	CHEMICAL 49 55	sodium
+T4	GENE-N 367 385	Alpha-adrenoceptor
+T5	GENE-N 402 419	beta-adrenoceptor
+T6	GENE-N 488 506	alpha-adrenoceptor
+T7	GENE-N 520 537	beta-adrenoceptor
+T1	CHEMICAL 598 610	procainamide
+T8	GENE-Y 791 813	cardiac sodium channel
+T2	CHEMICAL 799 805	sodium
+T9	GENE-Y 820 825	SCN5A
+T10	GENE-Y 923 928	SCN5A
+R0	NOT Arg1:T2 Arg2:T9

@@ -1,0 +1,9 @@
+T5	CHEMICAL 23 33	tamsulosin
+T6	GENE-N 79 100	alpha(1)-adrenoceptor
+T2	CHEMICAL 113 123	tamsulosin
+T7	GENE-N 142 196	alpha(1A)- and alpha(1D)- over alpha(1B)-adrenoceptors
+T1	CHEMICAL 282 292	tamsulosin
+T3	CHEMICAL 467 477	Tamsulosin
+T4	CHEMICAL 575 585	tamsulosin
+T8	GENE-N 867 879	adrenoceptor
+R0	CPR-6 Arg1:T2 Arg2:T7

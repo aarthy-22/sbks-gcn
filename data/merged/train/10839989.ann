@@ -1,0 +1,77 @@
+T44	CHEMICAL 23 57	N5-substituted tetrahydrobiopterin
+T45	CHEMICAL 73 86	phenylalanine
+T64	GENE-Y 73 98	phenylalanine hydroxylase
+T42	CHEMICAL 100 116	dihydropteridine
+T62	GENE-Y 100 126	dihydropteridine reductase
+T43	CHEMICAL 131 143	nitric oxide
+T63	GENE-N 131 152	nitric oxide synthase
+T1	CHEMICAL 154 173	Tetrahydrobiopterin
+T22	CHEMICAL 175 210	(6R)-5,6,7,8-tetrahydro-L-biopterin
+T34	CHEMICAL 212 225	H(4)biopterin
+T2	CHEMICAL 258 270	nitric oxide
+T46	GENE-N 258 280	nitric oxide synthases
+T47	GENE-Y 282 295	EC 1.14.13.39
+T19	CHEMICAL 329 333	N(5)
+T54	GENE-Y 373 407	rat neuronal nitric oxide synthase
+T23	CHEMICAL 386 398	nitric oxide
+T24	CHEMICAL 430 446	dihydropteridine
+T55	GENE-Y 430 456	dihydropteridine reductase
+T56	GENE-Y 458 469	EC 1.6.99.7
+T25	CHEMICAL 475 488	phenylalanine
+T57	GENE-Y 475 500	phenylalanine hydroxylase
+T58	GENE-Y 502 514	EC 1.14.16.1
+T26	CHEMICAL 543 556	H(4)biopterin
+T27	CHEMICAL 578 591	H(4)biopterin
+T28	CHEMICAL 607 611	N(5)
+T29	CHEMICAL 617 623	methyl
+T30	CHEMICAL 625 638	hydroxymethyl
+T31	CHEMICAL 640 646	formyl
+T32	CHEMICAL 651 657	acetyl
+T33	CHEMICAL 692 696	N(5)
+T35	CHEMICAL 765 778	phenylalanine
+T59	GENE-Y 765 790	phenylalanine hydroxylase
+T36	CHEMICAL 791 807	dihydropteridine
+T60	GENE-Y 791 817	dihydropteridine reductase
+T37	CHEMICAL 836 862	N(2)'-methyl H(4)biopterin
+T38	CHEMICAL 974 999	N(5)-methyl H(4)biopterin
+T39	CHEMICAL 1001 1026	N(5)-formyl H(4)biopterin
+T40	CHEMICAL 1072 1084	nitric oxide
+T61	GENE-N 1072 1093	nitric oxide synthase
+T41	CHEMICAL 1149 1153	N(5)
+T3	CHEMICAL 1197 1208	N(5)-methyl
+T4	CHEMICAL 1214 1248	N(5)-hydroxyl methyl H(4)biopterin
+T5	CHEMICAL 1258 1269	N(5)-formyl
+T6	CHEMICAL 1275 1300	N(5)-acetyl H(4)biopterin
+T7	CHEMICAL 1310 1339	2,6-dichlorophenol indophenol
+T8	CHEMICAL 1341 1371	N(5)-Substituted H(4)biopterin
+T9	CHEMICAL 1440 1456	dihydropteridine
+T48	GENE-Y 1440 1466	dihydropteridine reductase
+T10	CHEMICAL 1532 1545	phenylalanine
+T49	GENE-Y 1532 1557	phenylalanine hydroxylase
+T11	CHEMICAL 1559 1570	N(5)-methyl
+T12	CHEMICAL 1576 1608	N(5)-hydroxymethyl H(4)biopterin
+T13	CHEMICAL 1619 1632	phenylalanine
+T50	GENE-Y 1619 1644	phenylalanine hydroxylase
+T14	CHEMICAL 1654 1665	N(5)-formyl
+T15	CHEMICAL 1671 1696	N(5)-acetyl H(4)biopterin
+T16	CHEMICAL 1780 1793	phenylalanine
+T51	GENE-Y 1780 1805	phenylalanine hydroxylase
+T17	CHEMICAL 1810 1822	nitric oxide
+T52	GENE-N 1810 1831	nitric oxide synthase
+T18	CHEMICAL 1835 1848	H(4)biopterin
+T20	CHEMICAL 1928 1941	H(4)biopterin
+T21	CHEMICAL 1966 1978	nitric oxide
+T53	GENE-N 1966 1987	nitric oxide synthase
+R0	CPR-2 Arg1:T44 Arg2:T63
+R1	CPR-2 Arg1:T19 Arg2:T54
+R2	CPR-2 Arg1:T38 Arg2:T61
+R3	CPR-2 Arg1:T39 Arg2:T61
+R4	CPR-9 Arg1:T8 Arg2:T48
+R5	NOT Arg1:T15 Arg2:T50
+R6	NOT Arg1:T64 Arg2:T43
+R7	NOT Arg1:T23 Arg2:T56
+R8	NOT Arg1:T24 Arg2:T57
+R9	NOT Arg1:T57 Arg2:T26
+R10	NOT Arg1:T33 Arg2:T60
+R11	NOT Arg1:T16 Arg2:T52
+R12	NOT Arg1:T51 Arg2:T17

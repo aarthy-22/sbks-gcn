@@ -1,0 +1,11 @@
+Phase II study of Dutasteride for recurrent prostate cancer during androgen deprivation therapy.
+PURPOSE: We determined the response rate to and safety of a dual 5alpha-reductase inhibitor, dutasteride, in men with castration recurrent prostate cancer.
+MATERIALS AND METHODS: A total of 28 men with asymptomatic castration recurrent prostate cancer were treated with 3.5 mg dutasteride daily (luteinizing hormone-releasing hormone treatment continued), and evaluated monthly for response and toxicity.
+Eligibility included appropriate duration antiandrogen withdrawal, baseline prostate specific antigen 2.0 ng/ml or greater and a new lesion on bone scan, increase in measurable disease using Response Evaluation Criteria in Solid Tumors criteria, or 2 or more consecutive prostate specific antigen measurements increased over baseline.
+Outcomes were progression, stable disease, partial response (prostate specific antigen less than 50% of enrollment for 4 or more weeks) or complete response.
+RESULTS: There were 25 evaluable men with a mean age of 70 years (range 57 to 88), a mean prostate specific antigen of 61.9 ng/ml (range 5.0 to 488.9) and mean Gleason score 8 (range 6 to 10), 15 of whom had bone metastases.
+Eight men had 10 grade 3 or higher adverse events using National Cancer Institute Common Terminology Criteria, all of which were judged to be unrelated to treatment.
+Of the 25 men 14 had disease progression by 2 months, 9 had stable (2.5, 3, 3, 4, 4, 5, 5, 8.5, 9 months) disease, 2 had a partial response and none had a complete response.
+Overall median time to progression was 1.87 months (range 1 to 10, 95% CI 1.15-3.91).
+CONCLUSIONS: Dutasteride rarely produces biochemical responses in men with castration recurrent prostate cancer.
+However, further study is warranted given its favorable safety profile.

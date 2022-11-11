@@ -1,0 +1,12 @@
+Melatonin is a potent inhibitor for myeloperoxidase.
+Myeloperoxidase (MPO) catalyzes the formation of potent oxidants that have been implicated in the pathogenesis of various diseases including atherosclerosis, asthma, arthritis, and cancer.
+Melatonin plays an important part in the regulation of various body functions including circadian sleep rhythms, blood pressure, oncogenesis, retinal function, seasonal reproduction, and immunity.
+Here, we demonstrate that melatonin serves as a potent inhibitor of MPO under physiological-like conditions.
+In the presence of chloride (Cl-), melatonin inactivated MPO at two points in the classic peroxidase cycle through binding to MPO to form an inactive complex, melatonin-MPO-Cl, and accelerating MPO compound II formation, an inactive form of MPO.
+Inactivation of MPO was mirrored by the direct conversion of MPO-Fe(III) to MPO compound II without any sign of compound I accumulation.
+This behavior indicates that melatonin binding modulates the formation of MPO intermediates and their decay rates.
+The Cl- presence enhanced the affinity of MPO toward melatonin, which switches the enzyme activity from peroxidation to catalase-like activity.
+In the absence of Cl-, melatonin served as a 1e- substrate for MPO compound I, but at higher concentration it limited the reaction by its dissociation from the corresponding complex.
+Importantly, melatonin-dependent inhibition of MPO occurred with a wide range of concentrations that span various physiological and supplemental ranges.
+Thus, the interplay between MPO and melatonin may have a broader implication in the function of several biological systems.
+This dual regulation by melatonin is unique and represents a new means through which melatonin can control MPO and its downstream inflammatory pathways.

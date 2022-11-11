@@ -1,0 +1,7 @@
+Macrophage cathepsin K promotes prostate tumor progression in bone.
+Bone marrow macrophages (BMMs) share common progenitors with osteoclasts and are critical components of bone-tumor microenvironment; however, their function in prostate tumor growth in the skeleton has not been explored.
+BMMs are the major source of inflammatory factors and proteases, including cysteine protease cathepsin K (CTSK).
+In this study, utilizing mice deficient in CTSK, we demonstrate the critical involvement of this potent collagenase in tumor progression in bone.
+We present the evidence that tumor growth and progression in the bone are impaired in the absence of CTSK.
+Most importantly, we show for the first time that BMM-supplied CTSK may be involved in CCL2- and COX-2-driven pathways that contribute to tumor progression in bone.
+Together, our data unravel novel roles for CTSK in macrophage-regulated processes, and provide evidence for close interplay between inflammatory, osteolytic and tumor cell-driven events in the bone-tumor microenvironment.

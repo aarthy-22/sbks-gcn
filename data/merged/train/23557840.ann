@@ -1,0 +1,22 @@
+T4	CHEMICAL 0 22	1,3,4-Oxadiazol-2-ones
+T5	CHEMICAL 26 42	fatty-acid amide
+T19	GENE-Y 26 52	fatty-acid amide hydrolase
+T6	CHEMICAL 57 73	monoacylglycerol
+T20	GENE-Y 57 80	monoacylglycerol lipase
+T3	CHEMICAL 274 290	fatty acid amide
+T18	GENE-Y 274 300	fatty acid amide hydrolase
+T7	GENE-Y 302 306	FAAH
+T1	CHEMICAL 312 328	monoacylglycerol
+T8	GENE-Y 312 335	monoacylglycerol lipase
+T9	GENE-Y 337 341	MAGL
+T2	CHEMICAL 543 565	1,3,4-oxadiazol-2-ones
+T10	GENE-Y 607 611	FAAH
+T11	GENE-Y 616 620	MAGL
+T12	GENE-Y 661 665	FAAH
+T13	GENE-Y 666 670	MAGL
+T14	GENE-Y 750 754	MAGL
+T15	GENE-Y 760 764	FAAH
+T16	GENE-Y 796 800	FAAH
+T17	GENE-Y 805 809	MAGL
+R0	CPR-4 Arg1:T4 Arg2:T19
+R1	CPR-4 Arg1:T2 Arg2:T13

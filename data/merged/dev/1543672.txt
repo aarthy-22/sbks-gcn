@@ -1,0 +1,11 @@
+Terbinafine: mode of action and properties of the squalene epoxidase inhibition.
+Terbinafine (Lamisil) has primarily fungicidal action against many fungi as a result of its specific mechanism of squalene epoxidase inhibition.
+Treated fungi accumulate squalene while becoming deficient in ergosterol, an essential component of fungal cell membranes.
+The cidal action is closely associated with the development of high intracellular squalene concentrations, which are believed to interfere with fungal membrane function and cell wall synthesis.
+In the case of Candida albicans, growth inhibition with terbinafine appears to result from the ergosterol deficiency.
+The filamentous form of this fungus is more susceptible than the yeast form.
+Measurement of ergosterol biosynthesis by incorporation of radiolabelled precursors indicates a correlation between inhibition of growth and ergosterol biosynthesis in a range of pathogenic fungi.
+Terbinafine is a potent non-competitive inhibitor of squalene epoxidase from Candida (Ki = 30 nM).
+In contrast, inhibition of rat liver squalene epoxidase only occurs at higher drug concentrations (Ki = 77 microM), and is competitive with squalene.
+Thus, terbinafine has no effect on cholesterol biosynthesis in vivo.
+Squalene epoxidase is not an enzyme of the cytochrome P-450 type, thereby avoiding potential inhibition of this class of enzymes.

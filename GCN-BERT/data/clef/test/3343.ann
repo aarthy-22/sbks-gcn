@@ -1,0 +1,2594 @@
+T1	OTHER_COMPOUND 447 459	mycobacteria
+T2	OTHER_COMPOUND 981 993	Enterococcus
+T3	OTHER_COMPOUND 1004 1026	Pseudomonas aeruginosa
+T4	OTHER_COMPOUND 1180 1190	quinolones
+T5	OTHER_COMPOUND 1207 1219	vancomycin;S
+T6	OTHER_COMPOUND 1257 1267	penicillin
+T7	OTHER_COMPOUND 1271 1292	quinolone antibiotics
+T8	OTHER_COMPOUND 1337 1346	quinolone
+T9	OTHER_COMPOUND 1351 1361	vancomycin
+T10	REACTION_PRODUCT 1376 1384	ß-lactam
+T11	REACTION_PRODUCT 1459 1472	cephalosporin
+T12	REACTION_PRODUCT 1500 1510	aeruginosa
+T13	REACTION_PRODUCT 1515 1523	ß-lactam
+T14	OTHER_COMPOUND 1585 1598	Acinetobacter
+T15	OTHER_COMPOUND 2051 2064	oxazolidinone
+T16	OTHER_COMPOUND 2159 2169	piperazine
+T17	OTHER_COMPOUND 2204 2213	quinoline
+T18	REACTION_PRODUCT 2237 2262	oxazolidinone derivatives
+T19	OTHER_COMPOUND 2438 2448	antibiotic
+T20	OTHER_COMPOUND 2471 2473	IN
+T21	OTHER_COMPOUND 2527 2532	cyano
+T22	OTHER_COMPOUND 2584 2585	U
+T23	OTHER_COMPOUND 2818 2820	CH
+T24	OTHER_COMPOUND 2835 2843	*-CO-NH-
+T25	OTHER_COMPOUND 3128 3131	CH2
+T26	OTHER_COMPOUND 3183 3185	Rf
+T27	OTHER_COMPOUND 3202 3214	(C1-C4)alkyl
+T28	OTHER_COMPOUND 3275 3277	CH
+T29	OTHER_COMPOUND 3292 3295	NRg
+T30	OTHER_COMPOUND 3310 3313	CH2
+T31	OTHER_COMPOUND 3315 3321	CH2CH2
+T32	OTHER_COMPOUND 3451 3452	H
+T33	OTHER_COMPOUND 3454 3466	(C1-C4)alkyl
+T34	OTHER_COMPOUND 3470 3482	(C2-C4)alkyl
+T35	OTHER_COMPOUND 3521 3528	hydroxy
+T36	OTHER_COMPOUND 3827 3832	cyano
+T37	OTHER_COMPOUND 3834 3841	halogen
+T38	OTHER_COMPOUND 3871 3883	pyridin-2-yl
+T39	OTHER_COMPOUND 4035 4080	6,7-dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl
+T40	OTHER_COMPOUND 4179 4203	fluorine;M represents CH
+T41	OTHER_COMPOUND 4294 4306	(C1-C4)alkyl
+T42	OTHER_COMPOUND 4363 4374	pyrrolidine
+T43	OTHER_COMPOUND 4471 4473	IN
+T44	OTHER_COMPOUND 4549 4551	CH
+T45	OTHER_COMPOUND 4566 4578	*-CH2-N(Rf)-
+T46	OTHER_COMPOUND 4656 4659	CH2
+T47	OTHER_COMPOUND 4661 4667	CH2CH2
+T48	OTHER_COMPOUND 4671 4673	CO
+T49	OTHER_COMPOUND 4686 4689	CH2
+T50	OTHER_COMPOUND 4693 4695	CO
+T51	OTHER_COMPOUND 4753 4765	(C1-C4)alkyl
+T52	OTHER_COMPOUND 4843 4846	NRg
+T53	OTHER_COMPOUND 4861 4864	CH2
+T54	OTHER_COMPOUND 4866 4872	CH2CH2
+T55	OTHER_COMPOUND 4874 4876	CO
+T56	OTHER_COMPOUND 5005 5017	(C1-C4)alkyl
+T57	OTHER_COMPOUND 5021 5035	2-hydroxyethyl
+T58	OTHER_COMPOUND 5095 5101	phenyl
+T59	OTHER_COMPOUND 5282 5294	(C1-C4)alkyl
+T60	OTHER_COMPOUND 5311 5322	fluoroalkyl
+T61	OTHER_COMPOUND 5357 5365	-NRN1RN2
+T62	OTHER_COMPOUND 5407 5420	(C1-C3)alkyl,
+T63	OTHER_COMPOUND 5439 5446	halogen
+T64	OTHER_COMPOUND 5464 5476	pyridin-2-yl
+T65	OTHER_COMPOUND 5600 5611	fluoroalkyl
+T66	OTHER_COMPOUND 5629 5674	6,7-dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl
+T67	OTHER_COMPOUND 5764 5766	CH
+T68	OTHER_COMPOUND 5770 5771	N
+T69	OTHER_COMPOUND 5979 5984	IN-P1
+T70	OTHER_COMPOUND 6028 6033	cyano
+T71	OTHER_COMPOUND 6242 6249	halogen
+T72	OTHER_COMPOUND 6770 6778	-NRN1RN2
+T73	OTHER_COMPOUND 6820 6832	(C1-C3)alkyl
+T74	OTHER_COMPOUND 6852 6859	halogen
+T75	OTHER_COMPOUND 6877 6889	pyridin-2-yl
+T76	OTHER_COMPOUND 6899 6903	mono
+T77	OTHER_COMPOUND 7130 7131	O
+T78	OTHER_COMPOUND 7212 7220	nitrogen
+T79	OTHER_COMPOUND 7246 7257	pyrrolidine
+T80	REACTION_PRODUCT 7714 7744	4H-benzo[1,4]thiazin-3-on-6-yl
+T81	OTHER_COMPOUND 7762 7769	halogen
+T82	OTHER_COMPOUND 7801 7808	bromine
+T83	OTHER_COMPOUND 7812 7818	iodine
+T84	OTHER_COMPOUND 7834 7842	fluorine
+T85	OTHER_COMPOUND 7844 7852	chlorine
+T86	OTHER_COMPOUND 7856 7863	bromine
+T87	OTHER_COMPOUND 7879 7887	fluorine
+T88	OTHER_COMPOUND 7891 7899	chlorine
+T89	OTHER_COMPOUND 7970 7972	Ra
+T90	OTHER_COMPOUND 8001 8009	fluorine
+T91	OTHER_COMPOUND 8217 8222	alkyl
+T92	OTHER_COMPOUND 8293 8305	(C1-C4)alkyl
+T93	OTHER_COMPOUND 8408 8413	ethyl
+T94	OTHER_COMPOUND 8425 8435	iso-propyl
+T95	OTHER_COMPOUND 8437 8444	n-butyl
+T96	OTHER_COMPOUND 8471 8481	tert-butyl
+T97	OTHER_COMPOUND 8497 8503	methyl
+T98	OTHER_COMPOUND 8505 8510	ethyl
+T99	OTHER_COMPOUND 8512 8520	n-propyl
+T100	OTHER_COMPOUND 8525 8535	iso-propyl
+T101	OTHER_COMPOUND 8556 8561	ethyl
+T102	OTHER_COMPOUND 8566 8572	methyl
+T103	OTHER_COMPOUND 8635 8642	hydroxy
+T104	OTHER_COMPOUND 8652 8664	(C2-C4)alkyl
+T105	OTHER_COMPOUND 8746 8753	hydroxy
+T106	OTHER_COMPOUND 8783 8798	2-hydroxyethyl,
+T107	REACTION_PRODUCT 8816 8870	1,3-dihydroxy-propan-2-yl and 2,3-dihydroxypropan-1-yl
+T108	STARTING_MATERIAL 8885 8899	2-hydroxyethyl
+T109	OTHER_COMPOUND 8963 8971	alkyl-O-
+T110	OTHER_COMPOUND 9094 9100	alkoxy
+T111	OTHER_COMPOUND 9136 9137	x
+T112	OTHER_COMPOUND 9297 9306	n-propoxy
+T113	OTHER_COMPOUND 9308 9319	iso-propoxy
+T114	OTHER_COMPOUND 9331 9357	iso-butoxy, sec-butoxy and
+T115	OTHER_COMPOUND 9358 9369	tert-butoxy
+T116	OTHER_COMPOUND 9385 9391	ethoxy
+T117	OTHER_COMPOUND 9396 9403	methoxy
+T118	OTHER_COMPOUND 9423 9430	methoxy
+T119	STARTING_MATERIAL 9442 9453	fluoroalkyl
+T120	OTHER_COMPOUND 9468 9473	alkyl
+T121	OTHER_COMPOUND 9575 9583	hydrogen
+T122	OTHER_COMPOUND 9614 9622	fluorine
+T123	OTHER_COMPOUND 9698 9709	fluoroalkyl
+T124	OTHER_COMPOUND 9780 9798	(C1-C3)fluoroalkyl
+T125	OTHER_COMPOUND 9906 9914	fluorine
+T126	OTHER_COMPOUND 9943 9954	fluoroalkyl
+T127	OTHER_COMPOUND 9970 9985	trifluoromethyl
+T128	OTHER_COMPOUND 9990 10010	2,2,2-trifluoroethyl
+T129	OTHER_COMPOUND 10025 10040	trifluoromethyl
+T130	OTHER_COMPOUND 10079 10085	alkoxy
+T131	OTHER_COMPOUND 10226 10234	fluorine
+T132	OTHER_COMPOUND 10359 10360	x
+T133	OTHER_COMPOUND 10394 10413	(C1-C3)fluoroalkoxy
+T134	OTHER_COMPOUND 10521 10529	fluorine
+T135	OTHER_COMPOUND 10586 10602	trifluoromethoxy
+T136	OTHER_COMPOUND 10604 10619	difluoromethoxy
+T137	OTHER_COMPOUND 10624 10645	2,2,2-trifluoroethoxy
+T138	OTHER_COMPOUND 10661 10677	(C1)fluoroalkoxy
+T139	OTHER_COMPOUND 10693 10709	trifluoromethoxy
+T140	OTHER_COMPOUND 10714 10729	difluoromethoxy
+T141	OTHER_COMPOUND 10749 10765	trifluoromethoxy
+T142	OTHER_COMPOUND 10795 10801	phenyl
+T143	OTHER_COMPOUND 10975 10977	IN
+T144	OTHER_COMPOUND 11022 11029	phenyl,
+T145	STARTING_MATERIAL 11084 11130	4-bromo-3-fluoro-phenyl, 3,4-dimethoxy-phenyl,
+T146	STARTING_MATERIAL 11131 11146	4-fluoro-phenyl
+T147	STARTING_MATERIAL 11192 11198	phenyl
+T148	STARTING_MATERIAL 11307 11343	3-methoxy-phenyl, 4-n-propyl-phenyl,
+T149	STARTING_MATERIAL 11408 11421	3,4-difluoro-
+T150	STARTING_MATERIAL 11454 11477	4-bromo-3-methyl-phenyl
+T151	REACTION_PRODUCT 11567 11591	3-fluoro-4-methyl-phenyl
+T152	OTHER_COMPOUND 11647 11662	3-fluoro-phenyl
+T153	OTHER_COMPOUND 11954 11961	halogen
+T154	OTHER_COMPOUND 11991 12003	pyridin-2-yl
+T155	OTHER_COMPOUND 12110 12122	(C1-C4)alkyl
+T156	STARTING_MATERIAL 12144 12165	3-methyl-pyridin-6-yl
+T157	STARTING_MATERIAL 12170 12200	3-trifluoromethyl-pyridin-6-yl
+T158	OTHER_COMPOUND 12333 12335	CH
+T159	OTHER_COMPOUND 12339 12340	N
+T160	OTHER_COMPOUND 12352 12353	Q
+T161	OTHER_COMPOUND 12414 12415	/
+T162	OTHER_COMPOUND 12427 12429	IN
+T163	REACTION_PRODUCT 12436 12720	2,3-dihydro-benzo[1,4]dioxin-6-yl, benzo[1,3]dioxol-5-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl, 3-oxo-3,4-dihydro-2H-pyrido[3,2-b][1,4]oxazin-6-yl, 7-fluoro-3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl, 2-oxo-1,2-dihydro-quinolin-7-yl
+T164	STARTING_MATERIAL 12741 12758	benzothiazol-5-yl
+T165	REACTION_PRODUCT 12817 12918	2,3-dihydro-benzo[1,4]dioxin-6-yl, benzo[1,3]dioxol-5-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl,
+T166	REACTION_PRODUCT 12919 13048	3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl, 3-oxo-3,4-dihydro-2H-pyrido[3,2-b][1,4]oxazin-6-yl, 2-oxo-1,2-dihydro-quinolin-7-yl,
+T167	REACTION_PRODUCT 13071 13087	benzooxazol-6-yl
+T168	REACTION_PRODUCT 13129 13359	2,3-dihydro-benzo[1,4]dioxin-6-yl, benzo[1,3]dioxol-5-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl, 3-oxo-3,4-dihydro-2H-pyrido[3,2-b][1,4]oxazin-6-yl, 2-oxo-1,2-dihydro-quinolin-7-yl
+T169	REACTION_PRODUCT 13364 13381	benzothiazol-6-yl
+T170	REACTION_PRODUCT 13397 13607	2,3-dihydro-benzo[1,4]dioxin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl, 3-oxo-3,4-dihydro-2H-pyrido[3,2-b][1,4]oxazin-6-yl and 2-oxo-1,2-dihydro-quinolin-7-yl
+T171	REACTION_PRODUCT 13650 13847	3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl, 3-oxo-3,4-dihydro-2H-pyrido[3,2-b][1,4]oxazin-6-yl, and 7-fluoro-3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl
+T172	OTHER_COMPOUND 13949 13952	IP1
+T173	OTHER_COMPOUND 13979 13985	ICE-P1
+T174	OTHER_COMPOUND 14071 14072	Q
+T175	REACTION_PRODUCT 14145 14291	2,3-dihydro-benzo[1,4]dioxin-6-yl, benzo[1,3]dioxol-5-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl,
+T176	STARTING_MATERIAL 14292 14309	benzothiazol-6-yl
+T177	REACTION_PRODUCT 14314 14330	benzooxazol-6-yl
+T178	REACTION_PRODUCT 14351 14456	2,3-dihydro-benzo[1,4]dioxin-6-yl, benzo[1,3]dioxol-5-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl and
+T179	REACTION_PRODUCT 14457 14474	benzothiazol-6-yl
+T180	OTHER_COMPOUND 14506 14528	(C1-C4)alkoxy-carbonyl
+T181	OTHER_COMPOUND 14532 14547	ethoxy-carbonyl
+T182	OTHER_COMPOUND 14581 14594	dimethylamino
+T183	OTHER_COMPOUND 14599 14614	pyrrolidin-1-yl
+T184	OTHER_COMPOUND 14840 14861	oxazolidin-2-one ring
+T185	OTHER_COMPOUND 15041 15057	oxazolidin-2-one
+T186	OTHER_COMPOUND 15069 15086	(S)-configuration
+T187	OTHER_COMPOUND 15376 15384	hydrogen
+T188	OTHER_COMPOUND 15394 15401	halogen
+T189	OTHER_COMPOUND 15420 15428	hydrogen
+T190	OTHER_COMPOUND 15432 15438	alkoxy
+T191	OTHER_COMPOUND 15496 15505	methyl).7
+T192	OTHER_COMPOUND 15798 15808	methoxy).9
+T193	OTHER_COMPOUND 16100 16111	fluorine.10
+T194	OTHER_COMPOUND 16227 16228	U
+T195	OTHER_COMPOUND 16286 16289	CRa
+T196	OTHER_COMPOUND 16325 16333	fluorine
+T197	OTHER_COMPOUND 16820 16821	N
+T198	OTHER_COMPOUND 16842 16844	CH
+T199	OTHER_COMPOUND 16859 16871	*-CH2-N(Rf)-
+T200	OTHER_COMPOUND 16964 16966	CO
+T201	OTHER_COMPOUND 16979 16982	CH2
+T202	OTHER_COMPOUND 16986 16992	CH2CH2
+T203	OTHER_COMPOUND 17123 17125	CH
+T204	OTHER_COMPOUND 17140 17143	NRg
+T205	OTHER_COMPOUND 17163 17169	CH2CH2
+T206	OTHER_COMPOUND 17173 17175	CO
+T207	OTHER_COMPOUND 17230 17260	(C1-C4)alkyl or 2-hydroxyethyl
+T208	OTHER_COMPOUND 17742 17748	CH2.17
+T209	OTHER_COMPOUND 17877 17882	CO.18
+T210	OTHER_COMPOUND 18299 18300	4
+T211	OTHER_COMPOUND 18330 18336	phenyl
+T212	OTHER_COMPOUND 18366 18374	position
+T213	OTHER_COMPOUND 18502 18514	(C1-C4)alkyl
+T214	OTHER_COMPOUND 18561 18568	halogen
+T215	OTHER_COMPOUND 18586 18631	6,7-dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl
+T216	OTHER_COMPOUND 18757 18758	N
+T217	OTHER_COMPOUND 19175 19182	halogen
+T218	OTHER_COMPOUND 19200 19245	6,7-dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl
+T219	OTHER_COMPOUND 19747 19754	halogen
+T220	OTHER_COMPOUND 19859 19860	O
+T221	OTHER_COMPOUND 19997 20003	phenyl
+T222	OTHER_COMPOUND 20732 20738	phenyl
+T223	OTHER_COMPOUND 20934 20939	ethyl
+T224	OTHER_COMPOUND 20942 20949	methoxy
+T225	OTHER_COMPOUND 20951 20966	trifluoromethyl
+T226	OTHER_COMPOUND 21108 21110	20
+T227	OTHER_COMPOUND 21133 21178	6,7-dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl
+T228	OTHER_COMPOUND 21276 21286	fluorine;M
+T229	OTHER_COMPOUND 21298 21300	CH
+T230	OTHER_COMPOUND 21344 21345	O
+T231	OTHER_COMPOUND 21491 21536	6,7-dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl
+T232	OTHER_COMPOUND 21624 21626	CH
+T233	OTHER_COMPOUND 22057 22070	fused benzene
+T234	OTHER_COMPOUND 22074 22082	pyridine
+T235	OTHER_COMPOUND 22125 22133	hydrogen
+T236	OTHER_COMPOUND 22137 22147	fluorine;M
+T237	OTHER_COMPOUND 22350 22363	fused benzene
+T238	OTHER_COMPOUND 22367 22380	pyridine ring
+T239	OTHER_COMPOUND 22417 22419	CH
+T240	OTHER_COMPOUND 22569 22571	26
+T241	OTHER_COMPOUND 23212 23214	Rh
+T242	REACTION_PRODUCT 23530 23742	2,3-dihydro-benzo[1,4]dioxin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl, 3-oxo-3,4-dihydro-2H-pyrido[3,2-b][1,4]oxazin-6-yl or 2-oxo-1,2-dihydro-quinolin-7-yl.38
+T243	REACTION_PRODUCT 23874 23875	G
+T244	REACTION_PRODUCT 23887 24087	3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl, 3-oxo-3,4-dihydro-2H-pyrido[3,2-b][1,4]oxazin-6-yl, or 7-fluoro-3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl.39)
+T245	OTHER_COMPOUND 24140 24142	IN
+T246	OTHER_COMPOUND 24273 24282	bacterial
+T247	OTHER_COMPOUND 24498 24500	IN
+T248	REACTION_PRODUCT 24573 27325	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-oxazolidin-2-one;(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amide;6-((R)-5-{1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;(R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-3-(3-fluoro-4-methyl-phenyl)-oxazolidin-2-one;(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;6-((R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;(R)-3-(3-Fluoro-4-methyl-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;6-((R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;6-((R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-[(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;6-((S)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxy-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-(5-{2-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-ethyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-[(S)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;N-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-2-[(R)-2-oxo-3-(3-oxy-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-yl]-acetamide;(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-amide;(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-methyl-amino}-methyl)-oxazolidin-2-one;6-[(R)-5-({[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]oxazin-3-one
+T249	REACTION_PRODUCT 27327 27479	and6-[(R)-5-({(2-Hydroxy-ethyl)-[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one.41
+T250	OTHER_COMPOUND 27524 27526	40
+T251	OTHER_COMPOUND 27572 27574	IN
+T252	REACTION_PRODUCT 27647 31912	(S)-3-(3-Fluoro-4-methyl-phenyl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amide;6-((R)-5-{[1-(6-Methoxy-2-methyl-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-phenyl-oxazolidin-2-one;(R)-3-(4-Difluoromethoxy-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-(4-methyl-3-trifluoromethyl-phenyl)-oxazolidin-2-one;(R)-3-(3-Chloro-4-fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(4-Ethyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3,4-Dimethyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-(4-propyl-phenyl)-oxazolidin-2-one;(R)-3-(3-Dimethylamino-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(4-Bromo-3-fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3-Bromo-4-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(4-Bromo-3-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-Benzothiazol-6-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-Benzo[1,3]dioxol-5-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-Benzothiazol-5-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3-Fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidine-3-carboxylic acid [(R)-3-(3-fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-ylmethyl]-amide;3-(3-Fluoro-4-methyl-phenyl)-5-(2-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-ethyl)-oxazolidin-2-one;6-[(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-pyrido[3,2-b][1,4]oxazin-3-one;(R)-3-(6,7-Dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3-Fluoro-4-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-oxazolidin-2-one;7-Fluoro-6-((R)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;6-((R)-5-{[1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(7-Fluoro-2-methoxy-quinolin-8-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Fluoro-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;4-(3-{[(R)-2-Oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-ylmethyl]-amino}-azetidin-1-yl)-quinoline-6-carbonitrile;6-[(R)-5-({[1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;6-[(R)-5-({[1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;(R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-3-(4-methoxy-phenyl)-oxazolidin-2-one;(R)-3-(4-Ethoxy-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;(R)-3-(4-Difluoromethoxy-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one
+T253	REACTION_PRODUCT 31914 32045	and6-[(R)-5-({[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one.42
+T254	OTHER_COMPOUND 32102 32104	IN
+T255	REACTION_PRODUCT 32177 35060	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-oxazolidin-2-one;(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amide;6-((R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;(R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-3-(3-fluoro-4-methyl-phenyl)-oxazolidin-2-one;(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;6-((R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;(R)-3-(3-Fluoro-4-methyl-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;6-((R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;6-((R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-[(R)-5-({1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;6-((S)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;(R)-6-(5-{2-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-ethyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;(S)-6-(5-{2-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-ethyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-[(S)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;N-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-2-[(R)-2-oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-yl]-acetamide;(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-amide;(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-methyl-amino}-methyl)-oxazolidin-2-one;6-[(R)-5-({[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]oxazin-3-one
+T256	REACTION_PRODUCT 35062 35214	and6-[(R)-5-({(2-Hydroxy-ethyl)-[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one.43
+T257	OTHER_COMPOUND 35307 35309	IN
+T258	REACTION_PRODUCT 35382 37569	(S)-3-(3-Fluoro-4-methyl-phenyl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amide;6-((R)-5-{[1-(6-Methoxy-2-methyl-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-phenyl-oxazolidin-2-one;(R)-3-(4-Difluoromethoxy-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-(4-methyl-3-trifluoromethyl-phenyl)-oxazolidin-2-one;(R)-3-(3-Chloro-4-fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(4-Ethyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3,4-Dimethyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-(4-propyl-phenyl)-oxazolidin-2-one;(R)-3-(3-Dimethylamino-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(4-Bromo-3-fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3-Bromo-4-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(4-Bromo-3-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-Benzothiazol-6-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-Benzo[1,3]dioxol-5-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-Benzothiazol-5-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3-Fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidine-3-carboxylic acid
+T259	REACTION_PRODUCT 37570 39780	[(R)-3-(3-fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-ylmethyl]-amide;(R)-3-(3-Fluoro-4-methyl-phenyl)-5-(2-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-ethyl)-oxazolidin-2-one;(S)-3-(3-Fluoro-4-methyl-phenyl)-5-(2-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-ethyl)-oxazolidin-2-one;6-[(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-pyrido[3,2-b][1,4]oxazin-3-one;(R)-3-(6,7-Dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3-Fluoro-4-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-oxazolidin-2-one;7-Fluoro-6-((R)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;6-((R)-5-{[1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(7-Fluoro-2-methoxy-quinolin-8-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Fluoro-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;4-(3-{[(R)-2-Oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-ylmethyl]-amino}-azetidin-1-yl)-quinoline-6-carbonitrile;6-[(R)-5-({[1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;6-[(R)-5-({[1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;(R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-3-(4-methoxy-phenyl)-oxazolidin-2-one;(R)-3-(4-Ethoxy-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;(R)-3-(4-Difluoromethoxy-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one
+T260	REACTION_PRODUCT 39782 39910	and6-[(R)-5-({[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T261	OTHER_COMPOUND 39938 39940	IN
+T262	OTHER_COMPOUND 39958 39963	IN-P1
+T263	OTHER_COMPOUND 40133 40135	IN
+T264	REACTION_PRODUCT 40153 40158	IN-P1
+T265	OTHER_COMPOUND 40419 40573	6-{(R)-5-{[(3aR*,6aR*)-5-(6-methoxy-[1,5]naphthyridin-4-yl)-hexahydro-pyrrolo[3,4-b]pyrrol-1-yl]-methyl}-2-oxo-oxazolidin-3-yl}-4H-benzo[1,4]thiazin-3-one
+T266	OTHER_COMPOUND 40586 40738	6-{(R)-5-{[(3aR,6aR)-5-(6-methoxy-[1,5]naphthyridin-4-yl)-hexahydro-pyrrolo[3,4-b]pyrrol-1-yl]-methyl}-2-oxo-oxazolidin-3-yl}-4H-benzo[1,4]thiazin-3-one
+T267	OTHER_COMPOUND 40740 40895	or 6-{(R)-5-{[(3aS,6aS)-5-(6-methoxy-[1,5]naphthyridin-4-yl)-hexahydro-pyrrolo[3,4-b]pyrrol-1-yl]-methyl}-2-oxo-oxazolidin-3-yl}-4H-benzo[1,4]thiazin-3-one
+T268	OTHER_COMPOUND 40959 40961	IN
+T269	OTHER_COMPOUND 40979 40984	IN-P1
+T270	OTHER_COMPOUND 41461 41466	human
+T271	OTHER_COMPOUND 41790 41800	influenzae
+T272	OTHER_COMPOUND 41802 41811	Moraxella
+T273	OTHER_COMPOUND 41848 41869	Enterococcus faecalis
+T274	OTHER_COMPOUND 41937 41955	Peptostreptococcus
+T275	OTHER_COMPOUND 42124 42151	Actinobacillus haemolyticum
+T276	OTHER_COMPOUND 42306 42315	Chlamydia
+T277	OTHER_COMPOUND 42568 42578	vancomycin
+T278	OTHER_COMPOUND 42609 42624	chloramphenicol
+T279	OTHER_COMPOUND 42644 42654	macrolides
+T280	OTHER_COMPOUND 42992 43007	Corynebacterium
+T281	OTHER_COMPOUND 43133 43147	Staphylococcus
+T282	OTHER_COMPOUND 43175 43197	staphylococcal species
+T283	OTHER_COMPOUND 43302 43311	Chlamydia
+T284	OTHER_COMPOUND 43337 43344	ducreyi
+T285	OTHER_COMPOUND 43884 43894	influenzae
+T286	OTHER_COMPOUND 43941 43954	avium complex
+T287	OTHER_COMPOUND 43993 44013	Mycobacterium avium,
+T288	OTHER_COMPOUND 44017 44045	Mycobacterium intracellulare
+T289	OTHER_COMPOUND 44131 44139	kansasii
+T290	OTHER_COMPOUND 44263 44278	Cryptosporidium
+T291	OTHER_COMPOUND 44406 44415	pertussis
+T292	OTHER_COMPOUND 44454 44477	Clostridium perfringens
+T293	OTHER_COMPOUND 44569 44588	Helicobacter pylori
+T294	OTHER_COMPOUND 44592 44601	Chlamydia
+T295	REACTION_PRODUCT 44636 44638	IN
+T296	OTHER_COMPOUND 44647 44654	formula
+T297	OTHER_COMPOUND 44656 44661	IN-P1
+T298	OTHER_COMPOUND 44887 44900	Acinetobacter
+T299	OTHER_COMPOUND 44907 44924	Stenothrophomonas
+T300	OTHER_COMPOUND 44962 44977	Bacillus cereus
+T301	OTHER_COMPOUND 44979 44997	Bacillus anthracis
+T302	OTHER_COMPOUND 44999 45020	Clostridium difficile
+T303	OTHER_COMPOUND 45022 45037	Corynebacterium
+T304	OTHER_COMPOUND 45044 45067	Propionibacterium acnes
+T305	OTHER_COMPOUND 45234 45252	Plasmodium malaria
+T306	OTHER_COMPOUND 45254 45275	Plasmodium falciparum
+T307	OTHER_COMPOUND 45318 45336	Trypanosoma brucei
+T308	OTHER_COMPOUND 45341 45351	Leishmania
+T309	OTHER_COMPOUND 45549 45556	formula
+T310	OTHER_COMPOUND 45558 45563	IN-P1
+T311	OTHER_COMPOUND 45839 45841	IN
+T312	OTHER_COMPOUND 45859 45864	IN-P1
+T313	OTHER_COMPOUND 46157 46159	IN
+T314	OTHER_COMPOUND 46263 46265	IN
+T315	OTHER_COMPOUND 46805 46807	IN
+T316	OTHER_COMPOUND 46857 46858	1
+T317	OTHER_COMPOUND 47132 47134	IN
+T318	OTHER_COMPOUND 47152 47157	IN-P1
+T319	OTHER_COMPOUND 47319 47321	IN
+T320	OTHER_COMPOUND 47339 47344	IN-P1
+T321	OTHER_COMPOUND 47899 47902	(I)
+T322	OTHER_COMPOUND 48151 48160	materials
+T323	OTHER_COMPOUND 48452 48454	IN
+T324	OTHER_COMPOUND 48630 48632	IN
+T325	OTHER_COMPOUND 48846 48851	IN-P1
+T326	OTHER_COMPOUND 48890 48892	IN
+T327	OTHER_COMPOUND 49152 49154	IN
+T328	OTHER_COMPOUND 49172 49177	IN-P1
+T329	TEMPERATURE 49678 49679	Y
+T330	TEMPERATURE 49686 49696	10 °C to Y
+T331	TEMPERATURE 49702 49707	10 °C
+T332	TEMPERATURE 49762 49766	5 °C
+T333	TEMPERATURE 49770 49771	Y
+T334	TEMPERATURE 49777 49781	5 °C
+T335	TEMPERATURE 49802 49818	room temperature
+T336	TEMPERATURE 49821 49823	rt
+T337	TEMPERATURE 49873 49877	25°C
+T338	REACTION_PRODUCT 49916 49917	I
+T339	OTHER_COMPOUND 49968 49973	IN-P1
+T340	OTHER_COMPOUND 50430 50433	(I)
+T341	OTHER_COMPOUND 51115 51125	protecting
+T342	OTHER_COMPOUND 51134 51136	PG
+T343	OTHER_COMPOUND 51498 51502	(II)
+T344	REACTION_PRODUCT 51510 51523	carbonic acid
+T345	OTHER_COMPOUND 51587 51593	chloro
+T346	OTHER_COMPOUND 51595 51600	OCCl3
+T347	OTHER_COMPOUND 51602 51612	imidazolyl
+T348	OTHER_COMPOUND 51616 51631	succinimidyloxy
+T349	OTHER_COMPOUND 51636 51638	L0
+T350	OTHER_COMPOUND 51661 51664	L00
+T351	OTHER_COMPOUND 51676 51681	OCCl3
+T352	OTHER_COMPOUND 51756 51759	DCM
+T353	SOLVENT 51763 51766	THF
+T354	OTHER_COMPOUND 51806 51809	TEA
+T355	OTHER_COMPOUND 51813 51821	pyridine
+T356	TEMPERATURE 51857 51872	-30°C and +80°C
+T357	OTHER_COMPOUND 52058 52068	protecting
+T358	OTHER_COMPOUND 52213 52217	(IV)
+T359	OTHER_COMPOUND 52260 52267	formula
+T360	OTHER_COMPOUND 52268 52271	(V)
+T361	OTHER_COMPOUND 52303 52309	benzyl
+T362	OTHER_COMPOUND 52331 52336	KHMDS
+T363	OTHER_COMPOUND 52428 52431	(I)
+T364	OTHER_COMPOUND 52528 52530	L1
+T365	OTHER_COMPOUND 52542 52548	chloro
+T366	OTHER_COMPOUND 52550 52555	bromo
+T367	OTHER_COMPOUND 52559 52562	OTf
+T368	SOLVENT 52585 52592	dioxane
+T369	OTHER_COMPOUND 52596 52600	EtOH
+T370	TEMPERATURE 52615 52620	+20°C
+T371	TEMPERATURE 52631 52637	+120°C
+T372	OTHER_COMPOUND 52878 52880	CH
+T373	OTHER_COMPOUND 52895 52907	*-CH2-N(Rf)-
+T374	OTHER_COMPOUND 52911 52914	NRg
+T375	OTHER_COMPOUND 53002 53008	CH2CH2
+T376	OTHER_COMPOUND 53075 53079	(XI)
+T377	OTHER_COMPOUND 53139 53147	hydrogen
+T378	OTHER_COMPOUND 53149 53151	Rf
+T379	OTHER_COMPOUND 53209 53213	O-Ms
+T380	OTHER_COMPOUND 53215 53220	O-Tf,
+T381	OTHER_COMPOUND 53242 53246	iodo
+T382	OTHER_COMPOUND 53250 53257	hydroxy
+T383	OTHER_COMPOUND 53444 53452	hydrogen
+T384	OTHER_COMPOUND 53458 53466	nitrogen
+T385	OTHER_COMPOUND 53640 53648	hydrogen
+T386	OTHER_COMPOUND 53650 53652	Rb
+T387	OTHER_COMPOUND 53816 53818	CH
+T388	OTHER_COMPOUND 53833 53840	*-CONH-
+T389	OTHER_COMPOUND 53922 53925	CH2
+T390	OTHER_COMPOUND 54001 54008	formula
+T391	OTHER_COMPOUND 54010 54013	XIA
+T392	OTHER_COMPOUND 54043 54045	XA
+T393	EXAMPLE_LABEL 54128 54129	f
+T394	OTHER_COMPOUND 54207 54210	IVA
+T395	OTHER_COMPOUND 54231 54238	formula
+T396	OTHER_COMPOUND 54239 54243	L1-G
+T397	OTHER_COMPOUND 54253 54255	L1
+T398	OTHER_COMPOUND 54267 54270	OTf
+T399	OTHER_COMPOUND 54290 54297	bromine
+T400	OTHER_COMPOUND 54301 54307	iodine
+T401	OTHER_COMPOUND 54371 54376	metal
+T402	OTHER_COMPOUND 54402 54418	2-oxazolidinones
+T403	OTHER_COMPOUND 54422 54428	amides
+T404	OTHER_COMPOUND 54453 54456	CuI
+T405	STARTING_MATERIAL 54461 54492	1,1,1-tris(hydroxymethyl)ethane
+T406	REAGENT_CATALYST 54508 54513	CsCO3
+T407	OTHER_COMPOUND 54515 54518	Org
+T408	REAGENT_CATALYST 54549 54557	Pd(OAc)2
+T409	REAGENT_CATALYST 54562 54569	DPEphos
+T410	REAGENT_CATALYST 54585 54590	K3PO4
+T411	OTHER_COMPOUND 54613 54624	2-pyridinyl
+T412	REAGENT_CATALYST 54669 54672	NaH
+T413	OTHER_COMPOUND 54721 54725	(II)
+T414	REACTION_PRODUCT 54781 54786	vinyl
+T415	OTHER_COMPOUND 54950 54958	peracide
+T416	OTHER_COMPOUND 54967 54972	mCPBA
+T417	OTHER_COMPOUND 54976 54980	H2O2
+T418	OTHER_COMPOUND 54999 55008	inorganic
+T419	OTHER_COMPOUND 55022 55026	NaOH
+T420	OTHER_COMPOUND 55028 55034	NaHCO3
+T421	OTHER_COMPOUND 55038 55042	urea
+T422	OTHER_COMPOUND 55075 55079	OsO4
+T423	OTHER_COMPOUND 55080 55083	NMO
+T424	OTHER_COMPOUND 55226 55234	epoxides
+T425	OTHER_COMPOUND 55255 55265	tosylation
+T426	OTHER_COMPOUND 55315 55320	K2CO3
+T427	OTHER_COMPOUND 55324 55329	NaOMe
+T428	OTHER_COMPOUND 55449 55464	(salen)-Co(III)
+T429	REACTION_PRODUCT 55479 55566	[(R,R)-N,N'-bis(3,5-di-tert-butylsalicylidene)-1,2-cyclohexanediaminato(2-)]cobalt(III)
+T430	OTHER_COMPOUND 55593 55601	epoxides
+T431	OTHER_COMPOUND 55859 55872	chiral ketone
+T432	OTHER_COMPOUND 55963 55965	AD
+T433	OTHER_COMPOUND 55990 56008	methanesulfonamide
+T434	OTHER_COMPOUND 56014 56019	water
+T435	OTHER_COMPOUND 56020 56039	2-methyl-2-propanol
+T436	OTHER_COMPOUND 56177 56192	dihydroquinine-
+T437	OTHER_COMPOUND 56208 56214	AD-mix
+T438	OTHER_COMPOUND 56222 56238	dihydroquinidine
+T439	OTHER_COMPOUND 56255 56261	AD-mix
+T440	OTHER_COMPOUND 56355 56367	-CH2-NH-CH2-
+T441	OTHER_COMPOUND 56385 56392	epoxide
+T442	OTHER_COMPOUND 56404 56408	(IV)
+T443	OTHER_COMPOUND 56446 56452	amines
+T444	OTHER_COMPOUND 56474 56488	epichlorhydrin
+T445	OTHER_COMPOUND 56539 56553	epichlorhydrin
+T446	OTHER_COMPOUND 56585 56590	amine
+T447	OTHER_COMPOUND 56607 56624	benzyloxycarbonyl
+T448	OTHER_COMPOUND 56630 56649	tert-butoxycarbonyl
+T449	OTHER_COMPOUND 56696 56703	epoxide
+T450	OTHER_COMPOUND 56755 56781	transient amino protecting
+T451	OTHER_COMPOUND 56885 56898	formula G-NH2
+T452	OTHER_COMPOUND 56930 56934	(II)
+T453	REACTION_PRODUCT 56962 56965	IVA
+T454	REACTION_PRODUCT 56996 57004	epoxides
+T455	OTHER_COMPOUND 57026 57038	sodium azide
+T456	OTHER_COMPOUND 57072 57083	noble metal
+T457	OTHER_COMPOUND 57101 57103	Pd
+T458	OTHER_COMPOUND 57107 57115	charcoal
+T459	OTHER_COMPOUND 57187 57192	CbzCl
+T460	OTHER_COMPOUND 57196 57201	BOC2O
+T461	REACTION_PRODUCT 57207 57220	oxazolidinone
+T462	OTHER_COMPOUND 57264 57267	NaH
+T463	OTHER_COMPOUND 57345 57352	formula
+T464	OTHER_COMPOUND 57382 57384	CH
+T465	OTHER_COMPOUND 57420 57427	formula
+T466	OTHER_COMPOUND 57428 57432	(XI)
+T467	OTHER_COMPOUND 57441 57457	allyl halogenide
+T468	OTHER_COMPOUND 57549 57555	(XIII)
+T469	OTHER_COMPOUND 57577 57579	CH
+T470	OTHER_COMPOUND 57594 57596	NH
+T471	OTHER_COMPOUND 57600 57612	*-CH2NH2-and
+T472	OTHER_COMPOUND 57626 57628	CO
+T473	OTHER_COMPOUND 57672 57676	(XI)
+T474	OTHER_COMPOUND 57682 57694	acrylic acid
+T475	REACTION_PRODUCT 57756 57760	(XI)
+T476	OTHER_COMPOUND 57837 57844	bromine
+T477	OTHER_COMPOUND 57848 57851	OTf
+T478	OTHER_COMPOUND 57876 57879	XVI
+T479	OTHER_COMPOUND 57894 57901	formula
+T480	OTHER_COMPOUND 57903 57907	XVII
+T481	OTHER_COMPOUND 57993 57995	Rg
+T482	OTHER_COMPOUND 58002 58004	PG
+T483	OTHER_COMPOUND 58018 58026	nitrogen
+T484	OTHER_COMPOUND 58052 58069	benzyloxycarbonyl
+T485	OTHER_COMPOUND 58073 58092	tert-butoxycarbonyl
+T486	OTHER_COMPOUND 58167 58175	nitrogen
+T487	OTHER_COMPOUND 58256 58258	XV
+T488	OTHER_COMPOUND 58331 58336	(VII)
+T489	OTHER_COMPOUND 58359 58366	bromine
+T490	OTHER_COMPOUND 58370 58373	OTf
+T491	REACTION_PRODUCT 58401 58406	XVIII
+T492	REACTION_PRODUCT 58477 58480	XIA
+T493	OTHER_COMPOUND 58600 58607	formula
+T494	OTHER_COMPOUND 58622 58624	L1
+T495	OTHER_COMPOUND 58636 58640	MgCl
+T496	OTHER_COMPOUND 58642 58646	MgBr
+T497	OTHER_COMPOUND 58648 58651	MgI
+T498	OTHER_COMPOUND 58655 58657	Li
+T499	OTHER_COMPOUND 58681 58684	XIX
+T500	OTHER_COMPOUND 58690 58693	XIX
+T501	OTHER_COMPOUND 58756 58771	ethane-1,2-diyl
+T502	OTHER_COMPOUND 58777 58793	propane-1,3-diyl
+T503	REACTION_PRODUCT 58806 58825	intermediate ketals
+T504	OTHER_COMPOUND 58865 58871	ketone
+T505	REACTION_PRODUCT 58934 58938	(VI)
+T506	OTHER_COMPOUND 58982 58987	vinyl
+T507	REACTION_PRODUCT 59001 59003	XX
+T508	OTHER_COMPOUND 59014 59016	PG
+T509	OTHER_COMPOUND 59030 59038	nitrogen
+T510	OTHER_COMPOUND 59064 59081	benzyloxycarbonyl
+T511	OTHER_COMPOUND 59085 59104	tert-butoxycarbonyl
+T512	REACTION_PRODUCT 59131 59145	oxazolidinones
+T513	OTHER_COMPOUND 59147 59150	XXI
+T514	OTHER_COMPOUND 59246 59249	XXI
+T515	OTHER_COMPOUND 59442 59446	O-Ms
+T516	OTHER_COMPOUND 59448 59452	O-Tf
+T517	OTHER_COMPOUND 59454 59458	O-Ts
+T518	OTHER_COMPOUND 59460 59466	chloro
+T519	OTHER_COMPOUND 59541 59548	formula
+T520	OTHER_COMPOUND 59550 59554	XXVI
+T521	OTHER_COMPOUND 59665 59668	(X)
+T522	OTHER_COMPOUND 59736 59738	XA
+T523	OTHER_COMPOUND 59758 59770	sodium azide
+T524	OTHER_COMPOUND 59817 59828	noble metal
+T525	OTHER_COMPOUND 59840 59842	PG
+T526	OTHER_COMPOUND 59883 59888	alkyl
+T527	OTHER_COMPOUND 59895 59911	silyl protecting
+T528	OTHER_COMPOUND 59926 59950	tert-butyldimethylsilyl-
+T529	OTHER_COMPOUND 59983 59986	XXV
+T530	OTHER_COMPOUND 60084 60093	carbamate
+T531	OTHER_COMPOUND 60105 60108	(V)
+T532	OTHER_COMPOUND 60158 60164	n-BuLi
+T533	TEMPERATURE 60173 60187	-80°C and-30°C
+T534	REACTION_PRODUCT 60203 60211	alcohols
+T535	REACTION_PRODUCT 60224 60228	XXVI
+T536	OTHER_COMPOUND 60246 60254	alcohols
+T537	REACTION_PRODUCT 60267 60271	XXVI
+T538	OTHER_COMPOUND 60334 60353	epoxide derivatives
+T539	OTHER_COMPOUND 60355 60358	XXV
+T540	OTHER_COMPOUND 60369 60371	PG
+T541	OTHER_COMPOUND 60385 60390	silyl
+T542	OTHER_COMPOUND 60458 60465	formula
+T543	OTHER_COMPOUND 60466 60471	G-NH2
+T544	OTHER_COMPOUND 60550 60555	(XII)
+T545	OTHER_COMPOUND 60633 60637	XXVI
+T546	OTHER_COMPOUND 60649 60657	aldehyde
+T547	OTHER_COMPOUND 60670 60675	XXVII
+T548	OTHER_COMPOUND 60718 60727	Aldehydes
+T549	REACTION_PRODUCT 60740 60745	XXVII
+T550	REACTION_PRODUCT 60776 60783	formula
+T551	REACTION_PRODUCT 60785 60789	XXIX
+T552	OTHER_COMPOUND 60829 60833	OsO4
+T553	OTHER_COMPOUND 60899 60906	alcohol
+T554	OTHER_COMPOUND 60910 60917	formula
+T555	OTHER_COMPOUND 60919 60925	XXVIII
+T556	REACTION_PRODUCT 60968 60975	Alkenes
+T557	REACTION_PRODUCT 60988 60992	XXIX
+T558	REACTION_PRODUCT 61043 61049	XXVIII
+T559	OTHER_COMPOUND 61097 61102	G-NH2
+T560	OTHER_COMPOUND 61116 61129	oxazolidinone
+T561	OTHER_COMPOUND 61183 61187	XVII
+T562	OTHER_COMPOUND 61306 61325	tert-butoxycarbonyl
+T563	REACTION_PRODUCT 61376 61380	XVII
+T564	OTHER_COMPOUND 61465 61468	XXX
+T565	OTHER_COMPOUND 61535 61542	alcohol
+T566	OTHER_COMPOUND 61566 61571	amine
+T567	OTHER_COMPOUND 61593 61598	amine
+T568	OTHER_COMPOUND 61610 61616	Rz-NH2
+T569	OTHER_COMPOUND 61639 61651	(C1-C4)alkyl
+T570	OTHER_COMPOUND 61711 61716	amine
+T571	OTHER_COMPOUND 61733 61742	BOC group
+T572	OTHER_COMPOUND 61801 61815	Cbz protecting
+T573	OTHER_COMPOUND 61885 61890	XVIII
+T574	OTHER_COMPOUND 62025 62037	amines G-NH2
+T575	OTHER_COMPOUND 62090 62099	quinoline
+T576	OTHER_COMPOUND 62101 62120	[1,5]-naphthyridine
+T577	OTHER_COMPOUND 62122 62133	quinazoline
+T578	OTHER_COMPOUND 62138 62149	quinoxaline
+T579	OTHER_COMPOUND 62201 62204	OTf
+T580	OTHER_COMPOUND 62278 62280	L1
+T581	OTHER_COMPOUND 62292 62294	OH
+T582	OTHER_COMPOUND 62411 62420	quinoline
+T583	OTHER_COMPOUND 62422 62441	[1,5]-naphthyridine
+T584	OTHER_COMPOUND 62443 62454	quinazoline
+T585	REACTION_PRODUCT 62494 62499	(VII)
+T586	OTHER_COMPOUND 62508 62510	L1
+T587	OTHER_COMPOUND 62522 62524	Br
+T588	OTHER_COMPOUND 62648 62649	N
+T589	OTHER_COMPOUND 62728 62730	L1
+T590	OTHER_COMPOUND 62871 62873	Cl
+T591	OTHER_COMPOUND 62975 62976	N
+T592	OTHER_COMPOUND 63073 63075	L1
+T593	OTHER_COMPOUND 63078 63080	OH
+T594	OTHER_COMPOUND 63098 63102	PBr3
+T595	SOLVENT 63106 63109	DMF
+T596	TEMPERATURE 63113 63117	40°C
+T597	OTHER_COMPOUND 63153 63158	(VII)
+T598	OTHER_COMPOUND 63172 63174	Br
+T599	OTHER_COMPOUND 63213 63215	L1
+T600	OTHER_COMPOUND 63227 63229	Li
+T601	OTHER_COMPOUND 63306 63308	L1
+T602	OTHER_COMPOUND 63320 63322	Br
+T603	OTHER_COMPOUND 63343 63349	n-BuLi
+T604	TEMPERATURE 63358 63363	-80°C
+T605	TEMPERATURE 63368 63373	-30°C
+T606	OTHER_COMPOUND 63395 63398	THF
+T607	OTHER_COMPOUND 63402 63407	ether
+T608	OTHER_COMPOUND 63463 63468	amine
+T609	OTHER_COMPOUND 63512 63522	carbamates
+T610	OTHER_COMPOUND 63531 63536	Alloc
+T611	OTHER_COMPOUND 63538 63541	Cbz
+T612	OTHER_COMPOUND 63543 63546	BOC
+T613	OTHER_COMPOUND 63550 63554	FMOC
+T614	OTHER_COMPOUND 63590 63595	amine
+T615	STARTING_MATERIAL 63601 63606	allyl
+T616	STARTING_MATERIAL 63610 63630	benzyl chloroformate
+T617	STARTING_MATERIAL 63632 63657	di tert-butyl dicarbonate
+T618	OTHER_COMPOUND 63661 63668	FMOC-Cl
+T619	OTHER_COMPOUND 63699 63703	NaOH
+T620	OTHER_COMPOUND 63705 63708	TEA
+T621	REAGENT_CATALYST 63710 63714	DMAP
+T622	OTHER_COMPOUND 63718 63727	imidazole
+T623	REACTION_PRODUCT 63759 63779	N-benzyl derivatives
+T624	OTHER_COMPOUND 63797 63811	benzyl bromide
+T625	OTHER_COMPOUND 63815 63823	chloride
+T626	OTHER_COMPOUND 63854 63870	sodium carbonate
+T627	OTHER_COMPOUND 63874 63877	TEA
+T628	REACTION_PRODUCT 63894 63914	N-benzyl derivatives
+T629	OTHER_COMPOUND 63974 63986	benzaldehyde
+T630	OTHER_COMPOUND 63993 64012	borohydride reagent
+T631	REAGENT_CATALYST 64021 64026	NaBH4
+T632	OTHER_COMPOUND 64028 64035	NaBH3CN
+T633	OTHER_COMPOUND 64039 64051	NaBH(OAc)3in
+T634	OTHER_COMPOUND 64070 64074	MeOH
+T635	OTHER_COMPOUND 64076 64079	DCE
+T636	OTHER_COMPOUND 64083 64086	THF
+T637	OTHER_COMPOUND 64126 64131	amine
+T638	OTHER_COMPOUND 64361 64369	alcohols
+T639	OTHER_COMPOUND 64400 64411	silyl ether
+T640	OTHER_COMPOUND 64421 64426	TBDMS
+T641	OTHER_COMPOUND 64430 64435	TBDPS
+T642	STARTING_MATERIAL 64479 64493	silyl chloride
+T643	REAGENT_CATALYST 64503 64511	TBDMS-Cl
+T644	REAGENT_CATALYST 64515 64523	TBDPS-Cl
+T645	REAGENT_CATALYST 64555 64564	imidazole
+T646	REAGENT_CATALYST 64568 64571	TEA
+T647	SOLVENT 64593 64596	DCM
+T648	SOLVENT 64600 64603	DMF
+T649	TEMPERATURE 64612 64617	+10°C
+T650	TEMPERATURE 64623 64627	40°C
+T651	OTHER_COMPOUND 64886 64893	hydroxy
+T652	OTHER_COMPOUND 64911 64922	silyl ether
+T653	OTHER_COMPOUND 64955 64969	fluoride anion
+T654	OTHER_COMPOUND 64986 65014	tetrabutyl ammonium fluoride
+T655	OTHER_COMPOUND 65018 65021	THF
+T656	TEMPERATURE 65030 65033	0°C
+T657	TEMPERATURE 65038 65043	+40°C
+T658	OTHER_COMPOUND 65047 65049	HF
+T659	OTHER_COMPOUND 65053 65057	MeCN
+T660	TEMPERATURE 65066 65069	0°C
+T661	TEMPERATURE 65074 65079	+40°C
+T662	OTHER_COMPOUND 65115 65119	AcOH
+T663	OTHER_COMPOUND 65123 65126	THF
+T664	OTHER_COMPOUND 65127 65131	MeOH
+T665	OTHER_COMPOUND 65135 65138	HCl
+T666	OTHER_COMPOUND 65142 65146	MeOH
+T667	OTHER_COMPOUND 65178 65183	TBDMS
+T668	EXAMPLE_LABEL 65626 65627	4
+T669	REACTION_PRODUCT 65629 65643	oxazolidinones
+T670	REACTION_PRODUCT 65648 65663	glycidyl esters
+T671	OTHER_COMPOUND 65668 65677	carbamate
+T672	STARTING_MATERIAL 65689 65692	(V)
+T673	SOLVENT 65729 65732	THF
+T674	OTHER_COMPOUND 65768 65774	n-BuLi
+T675	TEMPERATURE 65783 65793	-100°C and
+T676	TEMPERATURE 65794 65799	-30°C
+T677	REAGENT_CATALYST 65808 65815	lithium
+T678	REAGENT_CATALYST 65819 65842	potassium tert-butoxide
+T679	OTHER_COMPOUND 65846 65851	KHMDS
+T680	TEMPERATURE 65860 65876	-100°C and -30°C
+T681	TEMPERATURE 65968 65984	room temperature
+T682	OTHER_COMPOUND 66014 66022	Buchwald
+T683	STARTING_MATERIAL 66068 66076	triflate
+T684	REAGENT_CATALYST 66134 66152	palladium catalyst
+T685	REAGENT_CATALYST 66161 66183	palladium (II) acetate
+T686	OTHER_COMPOUND 66217 66224	DPEphos
+T687	REAGENT_CATALYST 66259 66264	K3PO4
+T688	TEMPERATURE 66274 66275	+
+T689	TEMPERATURE 66275 66290	20°C and +100°C
+T690	OTHER_COMPOUND 66414 66420	halide
+T691	OTHER_COMPOUND 66424 66432	triflate
+T692	OTHER_COMPOUND 66439 66445	lactam
+T693	REAGENT_CATALYST 66461 66464	CuI
+T694	OTHER_COMPOUND 66469 66478	inorganic
+T695	OTHER_COMPOUND 66492 66497	K2CO3
+T696	OTHER_COMPOUND 66501 66506	K3PO4
+T697	TEMPERATURE 66516 66531	40°C and +110°C
+T698	OTHER_COMPOUND 66628 66634	metal-
+T699	OTHER_COMPOUND 66654 66670	ketones Grignard
+T700	OTHER_COMPOUND 66709 66715	halide
+T701	OTHER_COMPOUND 66749 66752	THF
+T702	OTHER_COMPOUND 66756 66761	ether
+T703	OTHER_COMPOUND 66767 66776	magnesium
+T704	OTHER_COMPOUND 66834 66836	I2
+T705	REAGENT_CATALYST 66838 66845	Lithium
+T706	OTHER_COMPOUND 66884 66890	halide
+T707	OTHER_COMPOUND 66924 66927	THF
+T708	OTHER_COMPOUND 66931 66936	ether
+T709	REAGENT_CATALYST 66944 66957	butyl-lithium
+T710	OTHER_COMPOUND 66981 66987	metal-
+T711	TEMPERATURE 67052 67067	-80°C and +60°C
+T712	OTHER_COMPOUND 67101 67104	THF
+T713	OTHER_COMPOUND 67108 67113	ether
+T714	OTHER_COMPOUND 67160 67167	alcohol
+T715	REAGENT_CATALYST 67184 67189	Ms-Cl
+T716	OTHER_COMPOUND 67191 67196	Tf-Cl
+T717	OTHER_COMPOUND 67200 67205	Ts-Cl
+T718	OTHER_COMPOUND 67236 67239	TEA
+T719	OTHER_COMPOUND 67273 67281	pyridine
+T720	SOLVENT 67283 67286	THF
+T721	OTHER_COMPOUND 67290 67293	DCM
+T722	TEMPERATURE 67302 67307	-30°C
+T723	TEMPERATURE 67312 67317	+50°C
+T724	OTHER_COMPOUND 67338 67363	trifluoromethanesulfonate
+T725	OTHER_COMPOUND 67367 67383	methanesulfonate
+T726	OTHER_COMPOUND 67385 67389	Tf2O
+T727	OTHER_COMPOUND 67393 67397	Ms2O
+T728	OTHER_COMPOUND 67453 67466	sodium iodide
+T729	OTHER_COMPOUND 67470 67477	acetone
+T730	OTHER_COMPOUND 67481 67484	DMF
+T731	TEMPERATURE 67494 67509	40°C and +120°C
+T732	REACTION_PRODUCT 67539 67555	iodo derivatives
+T733	OTHER_COMPOUND 67585 67594	sulfonate
+T734	OTHER_COMPOUND 67600 67615	iodo derivative
+T735	OTHER_COMPOUND 67622 67629	alcohol
+T736	OTHER_COMPOUND 67645 67650	amine
+T737	REACTION_PRODUCT 67745 67760	carboxylic acid
+T738	OTHER_COMPOUND 67781 67786	amine
+T739	REAGENT_CATALYST 67830 67833	DCC
+T740	REAGENT_CATALYST 67835 67838	EDC
+T741	REAGENT_CATALYST 67840 67844	HOBT
+T742	REAGENT_CATALYST 67846 67881	n-propylphosphonic cyclic anhydride
+T743	REAGENT_CATALYST 67883 67887	HATU
+T744	REAGENT_CATALYST 67891 67920	di-(N-succinimidyl)-carbonate
+T745	SOLVENT 67955 67958	DCM
+T746	SOLVENT 67960 67964	MeCN
+T747	SOLVENT 67968 67971	DMF
+T748	TEMPERATURE 67980 67995	-20°C and +60°C
+T749	REACTION_PRODUCT 68143 68158	carboxylic acid
+T750	REAGENT_CATALYST 68244 68259	oxalyl chloride
+T751	REAGENT_CATALYST 68263 68279	thionyl chloride
+T752	OTHER_COMPOUND 68306 68309	DCM
+T753	TEMPERATURE 68318 68332	-20° and +60°C
+T754	OTHER_COMPOUND 68655 68674	cis-dihydroxylation
+T755	REACTION_PRODUCT 68679 68683	diol
+T756	REAGENT_CATALYST 68785 68801	osmium tetroxide
+T757	OTHER_COMPOUND 68839 68842	NMO
+T758	OTHER_COMPOUND 68846 68848	aq
+T759	OTHER_COMPOUND 68869 68876	acetone
+T760	OTHER_COMPOUND 68879 68884	water
+T761	OTHER_COMPOUND 68888 68891	DCM
+T762	OTHER_COMPOUND 68894 68899	water
+T763	OTHER_COMPOUND 68999 69007	AD-mix α
+T764	OTHER_COMPOUND 69011 69019	AD-mix β
+T765	OTHER_COMPOUND 69035 69053	methanesulfonamide
+T766	OTHER_COMPOUND 69059 69064	water
+T767	OTHER_COMPOUND 69065 69084	2-methyl-2 propanol
+T768	OTHER_COMPOUND 69227 69242	dihydroquinine-
+T769	OTHER_COMPOUND 69258 69266	AD-mix α
+T770	OTHER_COMPOUND 69272 69288	dihydroquinidine
+T771	OTHER_COMPOUND 69305 69311	AD-mix
+T772	OTHER_COMPOUND 69344 69349	amino
+T773	REACTION_PRODUCT 69367 69384	benzyl carbamates
+T774	OTHER_COMPOUND 69426 69431	noble
+T775	REAGENT_CATALYST 69447 69451	Pd/C
+T776	OTHER_COMPOUND 69455 69463	Pd(OH)2/
+T777	OTHER_COMPOUND 69524 69527	HCl
+T778	OTHER_COMPOUND 69558 69562	MeOH
+T779	OTHER_COMPOUND 69566 69573	dioxane
+T780	OTHER_COMPOUND 69578 69581	TFA
+T781	OTHER_COMPOUND 69616 69619	DCM
+T782	OTHER_COMPOUND 69655 69660	amine
+T783	REACTION_PRODUCT 69892 69897	amine
+T784	OTHER_COMPOUND 69947 69955	alkyl-L2
+T785	OTHER_COMPOUND 69979 69983	O-Ms
+T786	OTHER_COMPOUND 69985 69995	O-Tf, O-Ts
+T787	OTHER_COMPOUND 69997 69999	Cl
+T788	OTHER_COMPOUND 70001 70003	Br
+T789	OTHER_COMPOUND 70024 70031	formula
+T790	OTHER_COMPOUND 70058 70062	O-Ms
+T791	OTHER_COMPOUND 70064 70068	O-Tf
+T792	OTHER_COMPOUND 70070 70074	O-Ts
+T793	OTHER_COMPOUND 70076 70078	Cl
+T794	OTHER_COMPOUND 70086 70087	I
+T795	OTHER_COMPOUND 70095 70101	allyl-
+T796	OTHER_COMPOUND 70105 70114	homoallyl
+T797	REAGENT_CATALYST 70144 70153	inorganic
+T798	REAGENT_CATALYST 70167 70172	K2CO3
+T799	OTHER_COMPOUND 70200 70203	TEA
+T800	SOLVENT 70225 70228	THF
+T801	TEMPERATURE 70237 70250	0°C and +80°C
+T802	OTHER_COMPOUND 70434 70442	Brisbane
+T803	OTHER_COMPOUND 70523 70528	ketal
+T804	REACTION_PRODUCT 70546 70551	ketal
+T805	OTHER_COMPOUND 70635 70637	aq
+T806	OTHER_COMPOUND 70639 70642	HCl
+T807	OTHER_COMPOUND 70646 70650	MeOH
+T808	OTHER_COMPOUND 70660 70663	aq.
+T809	OTHER_COMPOUND 70664 70668	AcOH
+T810	OTHER_COMPOUND 70705 70721	Amberlite IR120H
+T811	OTHER_COMPOUND 70725 70730	DOWEX
+T812	OTHER_COMPOUND 70741 70746	water
+T813	OTHER_COMPOUND 70771 70775	MeOH
+T814	OTHER_COMPOUND 70776 70781	water
+T815	OTHER_COMPOUND 70785 70788	THF
+T816	OTHER_COMPOUND 70789 70794	water
+T817	STARTING_MATERIAL 71170 71180	carboxylic
+T818	OTHER_COMPOUND 71228 71250	potassium permanganate
+T819	OTHER_COMPOUND 71257 71264	acetone
+T820	OTHER_COMPOUND 71265 71270	water
+T821	OTHER_COMPOUND 71307 71322	sodium chlorite
+T822	OTHER_COMPOUND 71326 71345	2-methyl-2-propanol
+T823	OTHER_COMPOUND 71361 71378	2-methyl-2-butene
+T824	REACTION_PRODUCT 71438 71446	Alcohols
+T825	OTHER_COMPOUND 71652 71660	Wiley-VC
+T826	REACTION_PRODUCT 71738 71746	nitriles
+T827	REACTION_PRODUCT 71748 71764	carboxylic acids
+T828	STARTING_MATERIAL 71806 71831	[bis(acetoxy)iodo]benzene
+T829	OTHER_COMPOUND 71847 71852	TEMPO
+T830	OTHER_COMPOUND 71858 71863	Jones
+T831	OTHER_COMPOUND 71874 71878	CrO3
+T832	OTHER_COMPOUND 71879 71884	H2SO4
+T833	OTHER_COMPOUND 71887 71892	NaIO4
+T834	OTHER_COMPOUND 71908 71913	RuCl3
+T835	OTHER_COMPOUND 71915 71920	KMnO4
+T836	OTHER_COMPOUND 71924 71940	pyridine H2Cr2O7
+T837	OTHER_COMPOUND 72071 72080	aldehydes
+T838	OTHER_COMPOUND 72339 72348	aldehydes
+T839	OTHER_COMPOUND 72380 72393	bulky hydride
+T840	OTHER_COMPOUND 72410 72415	DIBAH
+T841	OTHER_COMPOUND 72471 72481	carboxylic
+T842	OTHER_COMPOUND 72526 72531	alkyl
+T843	OTHER_COMPOUND 72590 72606	alkali hydroxide
+T844	OTHER_COMPOUND 72615 72619	LiOH
+T845	OTHER_COMPOUND 72621 72624	KOH
+T846	OTHER_COMPOUND 72628 72632	NaOH
+T847	OTHER_COMPOUND 72638 72643	water
+T848	OTHER_COMPOUND 72644 72651	dioxane
+T849	OTHER_COMPOUND 72655 72660	water
+T850	OTHER_COMPOUND 72663 72666	THF
+T851	TEMPERATURE 72683 72690	0°C and
+T852	TEMPERATURE 72691 72696	+80°C
+T853	OTHER_COMPOUND 72727 72737	tert-butyl
+T854	OTHER_COMPOUND 72784 72787	TFA
+T855	OTHER_COMPOUND 72799 72802	TFA
+T856	OTHER_COMPOUND 72806 72809	HCl
+T857	OTHER_COMPOUND 72840 72845	ether
+T858	OTHER_COMPOUND 72849 72852	THF
+T859	OTHER_COMPOUND 72887 72892	allyl
+T860	OTHER_COMPOUND 72941 72981	tetrakis(triphenylphosphine)palladium(0)
+T861	REAGENT_CATALYST 73000 73007	Π-allyl
+T862	OTHER_COMPOUND 73033 73053	morpholine, dimedone
+T863	OTHER_COMPOUND 73057 73076	tributyltin hydride
+T864	TEMPERATURE 73085 73088	0°C
+T865	TEMPERATURE 73093 73098	+50°C
+T866	OTHER_COMPOUND 73120 73123	THF
+T867	OTHER_COMPOUND 73154 73160	benzyl
+T868	OTHER_COMPOUND 73194 73202	hydrogen
+T869	OTHER_COMPOUND 73220 73240	noble metal catalyst
+T870	OTHER_COMPOUND 73249 73253	Pd/C
+T871	OTHER_COMPOUND 73275 73279	MeOH
+T872	OTHER_COMPOUND 73281 73284	THF
+T873	OTHER_COMPOUND 73288 73290	EA
+T874	OTHER_COMPOUND 73580 73582	IN
+T875	OTHER_COMPOUND 73587 73588	/
+T876	OTHER_COMPOUND 73822 73824	IN
+T877	REACTION_PRODUCT 73842 73847	IN-P1
+T878	OTHER_COMPOUND 74128 74134	Daicel
+T879	OTHER_COMPOUND 74295 74299	EtOH
+T880	OTHER_COMPOUND 74344 74357	triethylamine
+T881	OTHER_COMPOUND 74359 74371	diethylamine
+T882	OTHER_COMPOUND 74387 74393	hexane
+T883	OTHER_COMPOUND 74690 74701	AcOH acetic
+T884	OTHER_COMPOUND 74716 74750	1,4-bis(dihydroquinine)phthalazine
+T885	OTHER_COMPOUND 74752 74761	K3Fe(CN)6
+T886	OTHER_COMPOUND 74763 74768	K2CO3
+T887	OTHER_COMPOUND 74773 74784	K2OsO4.2H2O
+T888	OTHER_COMPOUND 74785 74791	AD-mix
+T889	REAGENT_CATALYST 74792 74830	β 1,4-bis(dihydroquinidine)phthalazine
+T890	REAGENT_CATALYST 74832 74841	K3Fe(CN)6
+T891	OTHER_COMPOUND 74843 74848	K2CO3
+T892	OTHER_COMPOUND 74853 74864	K2OsO4.2H2O
+T893	OTHER_COMPOUND 74865 74870	alloc
+T894	STARTING_MATERIAL 74871 74888	allyloxycarbonyl-
+T895	SOLVENT 74889 74891	aq
+T896	OTHER_COMPOUND 74893 74900	aqueous
+T897	REAGENT_CATALYST 74902 74955	BINAP 2,2'-bis(diphenylphosphino)-1,1'-binaphthyl BOC
+T898	REAGENT_CATALYST 74983 75005	tert-butyl dicarbonate
+T899	REAGENT_CATALYST 75029 75051	Cbz benzyloxycarbonyl-
+T900	REAGENT_CATALYST 75082 75116	SiO2 CDI 1,1' -carbonyldiimidazole
+T901	SOLVENT 75126 75145	DCM dichloromethane
+T902	REAGENT_CATALYST 75146 75149	DCC
+T903	SOLVENT 75180 75202	DCE 1,2-dichloroethane
+T904	REAGENT_CATALYST 75211 75246	bis(2-diphenylphosphinophenyl)ether
+T905	REAGENT_CATALYST 75252 75294	dihydroquinidine DIBAH diisobutylaluminium
+T906	SOLVENT 75309 75334	N,N-diisopropylethylamine
+T907	SOLVENT 75339 75365	N,N-dimethylacetamide DMAP
+T908	SOLVENT 75421 75438	dimethylsulfoxide
+T909	SOLVENT 75442 75455	ethyl acetate
+T910	REAGENT_CATALYST 75456 75506	EDCI 1-(3-dimethylaminopropyl)-3-ethylcarbodiimide
+T911	OTHER_COMPOUND 75570 75582	diethylether
+T912	OTHER_COMPOUND 75596 75617	Et3SiH triethylsilane
+T913	REAGENT_CATALYST 75663 75667	HATU
+T914	REAGENT_CATALYST 75669 75741	O-(7-azabenzotriazol-1-yl)-1,1,3,3-tetramethyl-uronium hexafluorphoshate
+T915	REAGENT_CATALYST 75753 75778	HOBT hydroxybenzotriazole
+T916	REAGENT_CATALYST 75785 75819	potassium bis(trimethylsilyl)amide
+T917	REAGENT_CATALYST 75820 75835	KOtBu potassium
+T918	REAGENT_CATALYST 75842 75850	butoxide
+T919	SOLVENT 75858 75870	lithium tert
+T920	OTHER_COMPOUND 75887 75905	m-chloroperbenzoic
+T921	OTHER_COMPOUND 75914 75920	methyl
+T922	OTHER_COMPOUND 75939 75943	MeOH
+T923	OTHER_COMPOUND 76006 76040	Ms2O methansulfonic acid anhydride
+T924	OTHER_COMPOUND 76070 76075	NaOMe
+T925	OTHER_COMPOUND 76076 76092	sodium methylate
+T926	OTHER_COMPOUND 76097 76115	N-methylmorpholine
+T927	OTHER_COMPOUND 76148 76159	OAc acetate
+T928	OTHER_COMPOUND 76173 76177	PHAL
+T929	TEMPERATURE 76192 76208	room temperature
+T930	OTHER_COMPOUND 76209 76212	sat
+T931	REAGENT_CATALYST 76224 76318	TBAF tetrabutylammonium fluoride TBDMS tert-butyldimethylsilyl- TBDPS tert-butyldiphenylsilyl-
+T932	REAGENT_CATALYST 76348 76365	TEA triethylamine
+T933	REAGENT_CATALYST 76372 76408	2,2,4,4-tetramethylpiperidine 1-oxyl
+T934	REAGENT_CATALYST 76412 76467	trifluoromethanesulfonyl- Tf2O trifluoromethanesulfonic
+T935	OTHER_COMPOUND 76531 76549	p-toluenesulfonyl-
+T936	TEMPERATURE 76581 76583	°C
+T937	OTHER_COMPOUND 77101 77111	Silica gel
+T938	OTHER_COMPOUND 77187 77197	Silica gel
+T939	OTHER_COMPOUND 77203 77208	NH4OH
+T940	OTHER_COMPOUND 77231 77233	aq
+T941	OTHER_COMPOUND 77451 77455	EtOH
+T942	OTHER_COMPOUND 77472 77484	diethylamine
+T943	OTHER_COMPOUND 77525 77531	hexane
+T944	TEMPERATURE 77537 77539	rt
+T945	STARTING_MATERIAL 77642 77649	epoxide
+T946	STARTING_MATERIAL 77667 77672	amine
+T947	SOLVENT 77685 77689	EtOH
+T948	SOLVENT 77690 77693	H2O
+T949	TEMPERATURE 77719 77723	80°C
+T950	TIME 77728 77731	12h
+T951	OTHER_COMPOUND 77827 77840	oxazolidinone
+T952	REAGENT_CATALYST 77856 77859	CDI
+T953	STARTING_MATERIAL 77878 77891	amino alcohol
+T954	REAGENT_CATALYST 77905 77908	CDI
+T955	SOLVENT 77921 77924	THF
+T956	TEMPERATURE 77945 77949	50°C
+T957	OTHER_COMPOUND 78019 78021	EA
+T958	OTHER_COMPOUND 78034 78039	water
+T959	OTHER_COMPOUND 78076 78081	brine
+T960	OTHER_COMPOUND 78102 78107	MgSO4
+T961	EXAMPLE_LABEL 78136 78137	C
+T962	OTHER_COMPOUND 78139 78142	Cbz
+T963	STARTING_MATERIAL 78177 78182	amine
+T964	OTHER_COMPOUND 78198 78200	aq
+T965	OTHER_COMPOUND 78202 78208	NaHCO3
+T966	OTHER_COMPOUND 78220 78227	acetone
+T967	STARTING_MATERIAL 78261 78281	benzyl chloroformate
+T968	OTHER_COMPOUND 78299 78302	CO2
+T969	OTHER_COMPOUND 78356 78358	EA
+T970	OTHER_COMPOUND 78368 78370	aq
+T971	OTHER_COMPOUND 78372 78378	NaHCO3
+T972	OTHER_COMPOUND 78406 78411	MgSO4
+T973	EXAMPLE_LABEL 78463 78464	D
+T974	OTHER_COMPOUND 78466 78479	oxazolidinone
+T975	STARTING_MATERIAL 78508 78538	1-chloro-2-hydroxy-propan-3-yl
+T976	STARTING_MATERIAL 78554 78567	chlorohydrine
+T977	STARTING_MATERIAL 78588 78592	Cbz-
+T978	STARTING_MATERIAL 78602 78607	amine
+T979	SOLVENT 78657 78660	DMF
+T980	REAGENT_CATALYST 78684 78690	LiOtBu
+T981	SOLVENT 78723 78726	THF
+T982	TEMPERATURE 78761 78763	rt
+T983	OTHER_COMPOUND 78807 78809	EA
+T984	OTHER_COMPOUND 78826 78831	water
+T985	OTHER_COMPOUND 78897 78899	EA
+T986	OTHER_COMPOUND 78900 78904	MeOH
+T987	OTHER_COMPOUND 78914 78919	NH4OH
+T988	OTHER_COMPOUND 78935 78938	BOC
+T989	STARTING_MATERIAL 78956 78959	BOC
+T990	STARTING_MATERIAL 78970 78975	amine
+T991	SOLVENT 79001 79004	DCM
+T992	REAGENT_CATALYST 79029 79032	TFA
+T993	TEMPERATURE 79067 79069	rt
+T994	TIME 79074 79077	1 h
+T995	OTHER_COMPOUND 79117 79120	DCM
+T996	OTHER_COMPOUND 79121 79123	aq
+T997	OTHER_COMPOUND 79125 79130	NHaOH
+T998	OTHER_COMPOUND 79162 79167	water
+T999	OTHER_COMPOUND 79180 79185	MgSO4
+T1000	EXAMPLE_LABEL 79214 79215	F
+T1001	STARTING_MATERIAL 79269 79280	aryl halide
+T1002	STARTING_MATERIAL 79288 79301	aryl triflate
+T1003	STARTING_MATERIAL 79312 79317	amine
+T1004	REAGENT_CATALYST 79331 79336	DIPEA
+T1005	SOLVENT 79351 79354	NMP
+T1006	TEMPERATURE 79376 79383	70-80°C
+T1007	OTHER_COMPOUND 79418 79423	Water
+T1008	OTHER_COMPOUND 79469 79471	EA
+T1009	OTHER_COMPOUND 79515 79520	water
+T1010	OTHER_COMPOUND 79527 79532	brine
+T1011	OTHER_COMPOUND 79545 79550	MgSO4
+T1012	EXAMPLE_LABEL 79634 79635	G
+T1013	STARTING_MATERIAL 79654 79657	Cbz
+T1014	STARTING_MATERIAL 79684 79700	benzyl carbamate
+T1015	SOLVENT 79713 79717	MeOH
+T1016	REAGENT_CATALYST 79756 79760	Pd/C
+T1017	TIME 79774 79776	2h
+T1018	OTHER_COMPOUND 79851 79855	MeOH
+T1019	OTHER_COMPOUND 79860 79863	DCM
+T1020	EXAMPLE_LABEL 79929 79930	H
+T1021	STARTING_MATERIAL 79986 79991	amine
+T1022	STARTING_MATERIAL 80015 80023	mesylate
+T1023	SOLVENT 80040 80044	DMSO
+T1024	TEMPERATURE 80059 80063	70°C
+T1025	OTHER_COMPOUND 80120 80125	water
+T1026	OTHER_COMPOUND 80130 80132	EA
+T1027	OTHER_COMPOUND 80223 80225	EA
+T1028	OTHER_COMPOUND 80272 80277	water
+T1029	OTHER_COMPOUND 80288 80293	brine
+T1030	OTHER_COMPOUND 80306 80311	MgSO4
+T1031	REAGENT_CATALYST 80446 80451	amine
+T1032	REAGENT_CATALYST 80479 80484	DIPEA
+T1033	EXAMPLE_LABEL 80496 80497	I
+T1034	REACTION_PRODUCT 80513 80519	amines
+T1035	OTHER_COMPOUND 80525 80532	iodides
+T1036	STARTING_MATERIAL 80547 80552	amine
+T1037	REAGENT_CATALYST 80563 80569	iodide
+T1038	REAGENT_CATALYST 80583 80588	DIPEA
+T1039	SOLVENT 80607 80611	DMSO
+T1040	TEMPERATURE 80626 80630	70°C
+T1041	OTHER_COMPOUND 80687 80692	water
+T1042	OTHER_COMPOUND 80697 80699	EA
+T1043	OTHER_COMPOUND 80790 80792	EA
+T1044	OTHER_COMPOUND 80839 80844	water
+T1045	OTHER_COMPOUND 80855 80860	brine
+T1046	OTHER_COMPOUND 80873 80878	MgSO4
+T1047	REAGENT_CATALYST 80985 80989	HATU
+T1048	STARTING_MATERIAL 81011 81016	amine
+T1049	STARTING_MATERIAL 81031 81035	acid
+T1050	REAGENT_CATALYST 81049 81054	DIPEA
+T1051	SOLVENT 81067 81070	DMF
+T1052	REAGENT_CATALYST 81088 81092	HATU
+T1053	TEMPERATURE 81105 81107	rt
+T1054	TEMPERATURE 81146 81148	rt
+T1055	OTHER_COMPOUND 81183 81188	Water
+T1056	OTHER_COMPOUND 81193 81195	EA
+T1057	OTHER_COMPOUND 81242 81244	aq
+T1058	OTHER_COMPOUND 81271 81273	EA
+T1059	OTHER_COMPOUND 81331 81336	water
+T1060	OTHER_COMPOUND 81341 81346	brine
+T1061	OTHER_COMPOUND 81359 81364	MgSO4
+T1062	REAGENT_CATALYST 81471 81475	EDCI
+T1063	STARTING_MATERIAL 81497 81502	amine
+T1064	STARTING_MATERIAL 81517 81521	acid
+T1065	REAGENT_CATALYST 81535 81540	DIPEA
+T1066	SOLVENT 81553 81556	DMF
+T1067	REAGENT_CATALYST 81575 81579	HOBT
+T1068	REAGENT_CATALYST 81595 81599	EDCI
+T1069	TEMPERATURE 81614 81616	rt
+T1070	TEMPERATURE 81655 81657	rt
+T1071	OTHER_COMPOUND 81692 81697	Water
+T1072	OTHER_COMPOUND 81702 81704	EA
+T1073	OTHER_COMPOUND 81751 81753	aq
+T1074	OTHER_COMPOUND 81780 81782	EA
+T1075	OTHER_COMPOUND 81840 81845	water
+T1076	OTHER_COMPOUND 81850 81855	brine
+T1077	OTHER_COMPOUND 81868 81873	MgSO4
+T1078	EXAMPLE_LABEL 81957 81958	L
+T1079	STARTING_MATERIAL 82018 82030	aryl bromide
+T1080	REAGENT_CATALYST 82041 82061	palladium(II)acetate
+T1081	REAGENT_CATALYST 82075 82080	BINAP
+T1082	REAGENT_CATALYST 82096 82133	bis((2-diphenylphosphino)phenyl)ether
+T1083	REAGENT_CATALYST 82147 82152	K3PO4
+T1084	REAGENT_CATALYST 82168 82173	amine
+T1085	OTHER_COMPOUND 82222 82227	argon
+T1086	TIME 82232 82243	several min
+T1087	SOLVENT 82245 82252	Dioxane
+T1088	OTHER_COMPOUND 82334 82339	argon
+T1089	TIME 82344 82349	3 min
+T1090	TEMPERATURE 82382 82387	85 °C
+T1091	OTHER_COMPOUND 82504 82506	EA
+T1092	OTHER_COMPOUND 82507 82512	water
+T1093	OTHER_COMPOUND 82545 82550	brine
+T1094	OTHER_COMPOUND 82563 82568	MgSO4
+T1095	OTHER_COMPOUND 82638 82640	CC
+T1096	STARTING_MATERIAL 82705 82710	amine
+T1097	SOLVENT 82723 82727	MeOH
+T1098	SOLVENT 82755 82758	DCE
+T1099	SOLVENT 82775 82782	aqueous
+T1100	REAGENT_CATALYST 82795 82807	formaldehyde
+T1101	TIME 82824 82830	10 min
+T1102	REAGENT_CATALYST 82832 82842	NaBH(OAc)3
+T1103	OTHER_COMPOUND 82956 82959	HCl
+T1104	OTHER_COMPOUND 83025 83030	NH4OH
+T1105	OTHER_COMPOUND 83050 83052	EA
+T1106	OTHER_COMPOUND 83093 83098	brine
+T1107	OTHER_COMPOUND 83111 83116	MgSO4
+T1108	OTHER_COMPOUND 83163 83165	CC
+T1109	OTHER_COMPOUND 83180 83185	amide
+T1110	STARTING_MATERIAL 83200 83216	propylphosphonic
+T1111	STARTING_MATERIAL 83253 83258	amine
+T1112	STARTING_MATERIAL 83269 83273	acid
+T1113	REAGENT_CATALYST 83288 83293	DIPEA
+T1114	SOLVENT 83308 83311	DMF
+T1115	REAGENT_CATALYST 83329 83355	propylphosphonic anhydride
+T1116	SOLVENT 83373 83375	EA
+T1117	TEMPERATURE 83390 83392	rt
+T1118	TEMPERATURE 83431 83433	rt
+T1119	OTHER_COMPOUND 83468 83473	Water
+T1120	OTHER_COMPOUND 83478 83480	EA
+T1121	OTHER_COMPOUND 83527 83529	aq
+T1122	OTHER_COMPOUND 83556 83558	EA
+T1123	OTHER_COMPOUND 83616 83621	water
+T1124	OTHER_COMPOUND 83626 83631	brine
+T1125	OTHER_COMPOUND 83644 83649	MgSO4
+T1126	EXAMPLE_LABEL 83755 83756	1
+T1127	REACTION_PRODUCT 83758 83896	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-oxazolidin-2-one 1
+T1128	REACTION_PRODUCT 83897 83898	i
+T1129	REACTION_PRODUCT 83900 83989	[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-carbamic acid tent-butyl ester
+T1130	STARTING_MATERIAL 84003 84039	8-bromo-2-methoxy-[1,5]naphthyridine
+T1131	STARTING_MATERIAL 84095 84138	tert-butyl-[(azetidin-3-yl)methyl]carbamate
+T1132	REAGENT_CATALYST 84160 84168	pentanol
+T1133	TEMPERATURE 84190 84194	80°C
+T1134	TEMPERATURE 84280 84287	50-60°C
+T1135	OTHER_COMPOUND 84322 84327	ether
+T1136	REACTION_PRODUCT 84340 84347	desired
+T1137	REACTION_PRODUCT 84348 84360	intermediate
+T1138	YIELD_OTHER 84377 84383	300 mg
+T1139	YIELD_PERCENT 84385 84388	42%
+T1140	STARTING_MATERIAL 84426 84492	C-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methylamine
+T1141	STARTING_MATERIAL 84525 84526	i
+T1142	SOLVENT 84552 84555	DCM
+T1143	REAGENT_CATALYST 84574 84580	Et3SiH
+T1144	REAGENT_CATALYST 84604 84607	TFA
+T1145	TIME 84655 84661	30 min
+T1146	TEMPERATURE 84665 84667	rt
+T1147	OTHER_COMPOUND 84729 84732	DCM
+T1148	OTHER_COMPOUND 84751 84753	aq
+T1149	OTHER_COMPOUND 84755 84760	NH4OH
+T1150	OTHER_COMPOUND 84805 84808	DCM
+T1151	OTHER_COMPOUND 84809 84813	MeOH
+T1152	OTHER_COMPOUND 84856 84862	Na2SO4
+T1153	REACTION_PRODUCT 84915 84935	desired intermediate
+T1154	YIELD_OTHER 84951 84957	180 mg
+T1155	YIELD_PERCENT 84959 84962	88%
+T1156	STARTING_MATERIAL 85001 85075	(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-hydroxymethyl-oxazolidin-2-one
+T1157	STARTING_MATERIAL 85090 85152	(2,3-dihydro-benzo[1,4]dioxin-6-yl)-carbamic acid benzyl ester
+T1158	SOLVENT 85209 85212	THF
+T1159	TEMPERATURE 85235 85240	-78°C
+T1160	REAGENT_CATALYST 85274 85280	n-BuLi
+T1161	SOLVENT 85312 85315	hex
+T1162	TEMPERATURE 85353 85358	-78°C
+T1163	TIME 85363 85366	1 h
+T1164	TEMPERATURE 85386 85391	-15°C
+T1165	STARTING_MATERIAL 85413 85434	(R)-glycidyl butyrate
+T1166	TEMPERATURE 85500 85502	rt
+T1167	REAGENT_CATALYST 85514 85520	Cs2CO3
+T1168	TEMPERATURE 85576 85580	40°C
+T1169	OTHER_COMPOUND 85637 85639	EA
+T1170	OTHER_COMPOUND 85661 85666	NH4Cl
+T1171	OTHER_COMPOUND 85680 85685	water
+T1172	OTHER_COMPOUND 85717 85722	MgSO4
+T1173	OTHER_COMPOUND 85745 85748	hex
+T1174	OTHER_COMPOUND 85749 85751	EA
+T1175	REACTION_PRODUCT 85773 85793	desired intermediate
+T1176	YIELD_OTHER 85810 85816	1.09 g
+T1177	YIELD_PERCENT 85818 85825	41%).1H
+T1178	OTHER_COMPOUND 85831 85835	DMSO
+T1179	STARTING_MATERIAL 86061 86157	Methanesulfonic acid (R)-3-(2,3-dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidin-5-ylmethyl ester
+T1180	STARTING_MATERIAL 86187 86190	iii
+T1181	SOLVENT 86209 86212	DCM
+T1182	TEMPERATURE 86235 86238	0°C
+T1183	REAGENT_CATALYST 86240 86245	DIPEA
+T1184	REAGENT_CATALYST 86267 86272	Ms-Cl
+T1185	TEMPERATURE 86329 86332	0°C
+T1186	TIME 86337 86340	1 h
+T1187	OTHER_COMPOUND 86371 86374	DCM
+T1188	OTHER_COMPOUND 86391 86396	water
+T1189	OTHER_COMPOUND 86428 86433	MgSO4
+T1190	REACTION_PRODUCT 86463 86483	desired intermediate
+T1191	YIELD_OTHER 86485 86491	1.26 g
+T1192	YIELD_PERCENT 86493 86496	97%
+T1193	STARTING_MATERIAL 86615 86751	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-oxazolidin-2-one
+T1194	STARTING_MATERIAL 86779 86780	1
+T1195	STARTING_MATERIAL 86809 86823	intermediate 1
+T1196	STARTING_MATERIAL 86824 86826	ii
+T1197	SOLVENT 86849 86853	DMSO
+T1198	TEMPERATURE 86877 86881	70°C
+T1199	TIME 86886 86889	3 d
+T1200	TEMPERATURE 86908 86910	rt
+T1201	OTHER_COMPOUND 86911 86916	water
+T1202	OTHER_COMPOUND 86962 86964	EA
+T1203	OTHER_COMPOUND 87008 87013	brine
+T1204	OTHER_COMPOUND 87026 87031	MgSO4
+T1205	OTHER_COMPOUND 87085 87099	DCM-MeOH-NH4OH
+T1206	REACTION_PRODUCT 87125 87139	title compound
+T1207	YIELD_OTHER 87160 87165	16 mg
+T1208	YIELD_PERCENT 87167 87174	19%).1H
+T1209	OTHER_COMPOUND 87180 87185	CDCl3
+T1210	EXAMPLE_LABEL 87487 87488	2
+T1211	REACTION_PRODUCT 87490 87634	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amide 2
+T1212	REACTION_PRODUCT 87638 87715	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid
+T1213	STARTING_MATERIAL 87733 87807	(S)-3-(2,3-dihydro-benzo[1,4]dioxin-6-yl)-5-hydroxymethyl-oxazolidin-2-one
+T1214	STARTING_MATERIAL 87869 87890	(S)-glycidyl butyrate
+T1215	SOLVENT 87919 87924	water
+T1216	SOLVENT 87925 87929	MeCN
+T1217	TEMPERATURE 87948 87951	0°C
+T1218	STARTING_MATERIAL 87962 87982	diacetoxyiodobenzene
+T1219	REAGENT_CATALYST 88004 88009	TEMPO
+T1220	TEMPERATURE 88055 88058	0°C
+T1221	TIME 88063 88069	30 min
+T1222	TEMPERATURE 88077 88079	rt
+T1223	OTHER_COMPOUND 88091 88093	EA
+T1224	OTHER_COMPOUND 88103 88109	Na2CO3
+T1225	OTHER_COMPOUND 88187 88189	EA
+T1226	OTHER_COMPOUND 88227 88229	aq
+T1227	OTHER_COMPOUND 88231 88234	HCl
+T1228	OTHER_COMPOUND 88277 88279	EA
+T1229	OTHER_COMPOUND 88323 88328	brine
+T1230	OTHER_COMPOUND 88344 88349	MgSO4
+T1231	REACTION_PRODUCT 88381 88401	desired intermediate
+T1232	YIELD_OTHER 88423 88429	847 mg
+T1233	YIELD_PERCENT 88431 88434	81%
+T1234	REACTION_PRODUCT 88472 88549	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid
+T1235	STARTING_MATERIAL 88550 88614	[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amide
+T1236	STARTING_MATERIAL 88645 88646	1
+T1237	STARTING_MATERIAL 88647 88649	ii
+T1238	STARTING_MATERIAL 88672 88684	intermediate
+T1239	STARTING_MATERIAL 88685 88686	2
+T1240	STARTING_MATERIAL 88687 88688	i
+T1241	REAGENT_CATALYST 88714 88719	DIPEA
+T1242	SOLVENT 88739 88742	DMF
+T1243	REAGENT_CATALYST 88760 88764	HATU
+T1244	TEMPERATURE 88819 88821	rt
+T1245	TIME 88826 88829	4 h
+T1246	OTHER_COMPOUND 88831 88833	EA
+T1247	OTHER_COMPOUND 88838 88843	water
+T1248	OTHER_COMPOUND 88919 88921	EA
+T1249	OTHER_COMPOUND 88970 88975	brine
+T1250	OTHER_COMPOUND 88976 88981	water
+T1251	OTHER_COMPOUND 88999 89004	MgSO4
+T1252	OTHER_COMPOUND 89077 89091	ether-DCM-MeOH
+T1253	REACTION_PRODUCT 89106 89120	title compound
+T1254	YIELD_OTHER 89122 89127	41 mg
+T1255	YIELD_PERCENT 89129 89132	20%
+T1256	STARTING_MATERIAL 89200 89320	(RS)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-[4-(6-methoxy-quinazolin-4-yl)-piperazin-1-ylmethyl]-oxazolidin-2-one RE1.i
+T1257	STARTING_MATERIAL 89322 89360	6-Methoxy-4-piperazin-1-yl-quinazoline
+T1258	STARTING_MATERIAL 89361 89371	Piperazine
+T1259	STARTING_MATERIAL 89418 89448	4-chloro-6-methoxy-quinazoline
+T1260	SOLVENT 89470 89473	DMF
+T1261	TEMPERATURE 89509 89511	rt
+T1262	TIME 89516 89519	1 h
+T1263	OTHER_COMPOUND 89541 89551	chloroform
+T1264	OTHER_COMPOUND 89556 89558	aq
+T1265	OTHER_COMPOUND 89560 89567	ammonia
+T1266	OTHER_COMPOUND 89600 89605	water
+T1267	OTHER_COMPOUND 89618 89623	MgSO4
+T1268	OTHER_COMPOUND 89662 89665	DCM
+T1269	OTHER_COMPOUND 89666 89670	MeOH
+T1270	OTHER_COMPOUND 89682 89687	NH4OH
+T1271	REACTION_PRODUCT 89698 89718	desired intermediate
+T1272	YIELD_OTHER 89720 89726	0.57 g
+T1273	YIELD_PERCENT 89728 89731	91%
+T1274	OTHER_COMPOUND 89755 89760	CDCl3
+T1275	STARTING_MATERIAL 89946 90020	(RS)-1-Chloro-3-[4-(6-methoxy-quinazolin-4-yl)-piperazin-1-yl]-propan-2-ol
+T1276	STARTING_MATERIAL 90048 90051	RE1
+T1277	STARTING_MATERIAL 90052 90053	i
+T1278	SOLVENT 90077 90080	DCM
+T1279	REAGENT_CATALYST 90106 90109	TEA
+T1280	STARTING_MATERIAL 90130 90145	epichlorohydrin
+T1281	TEMPERATURE 90190 90192	rt
+T1282	TIME 90198 90203	night
+T1283	REAGENT_CATALYST 90213 90228	epichlorohydrin
+T1284	TEMPERATURE 90276 90280	40°C
+T1285	TIME 90285 90289	24 h
+T1286	OTHER_COMPOUND 90327 90330	DCM
+T1287	OTHER_COMPOUND 90335 90337	aq
+T1288	OTHER_COMPOUND 90339 90344	NH4OH
+T1289	OTHER_COMPOUND 90372 90377	MgSO4
+T1290	OTHER_COMPOUND 90416 90419	DCM
+T1291	OTHER_COMPOUND 90420 90424	MeOH
+T1292	OTHER_COMPOUND 90436 90441	NH4OH
+T1293	REACTION_PRODUCT 90452 90472	desired intermediate
+T1294	YIELD_OTHER 90474 90479	0.4 g
+T1295	YIELD_PERCENT 90481 90484	51%
+T1296	EXAMPLE_LABEL 90530 90537	RE1.iii
+T1297	REACTION_PRODUCT 90539 90647	(RS)-1-(2,3-Dihydro-benzo[1,4]dioxin-6-ylamino)-3-[4-(6-methoxy-quinazolin-4-yl)-piperazin-1-yl]-propan-2-ol
+T1298	STARTING_MATERIAL 90700 90706	RE1 ii
+T1299	STARTING_MATERIAL 90731 90769	2,3-dihydro-benzo[1,4]dioxin-6-ylamine
+T1300	REACTION_PRODUCT 90794 90814	desired intermediate
+T1301	OTHER_COMPOUND 90838 90841	DCM
+T1302	OTHER_COMPOUND 90842 90846	MeOH
+T1303	OTHER_COMPOUND 90858 90863	NH4OH
+T1304	YIELD_OTHER 90882 90887	0.1 g
+T1305	YIELD_PERCENT 90889 90892	38%
+T1306	EXAMPLE_LABEL 90929 90931	iv
+T1307	STARTING_MATERIAL 90933 91047	(RS)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-[4-(6-methoxy-quinazolin-4-yl)-piperazin-1-ylmethyl]-oxazolidin-2-one
+T1308	STARTING_MATERIAL 91100 91103	RE1
+T1309	REACTION_PRODUCT 91132 91146	title compound
+T1310	OTHER_COMPOUND 91170 91173	DCM
+T1311	OTHER_COMPOUND 91174 91178	MeOH
+T1312	OTHER_COMPOUND 91190 91195	NH4OH
+T1313	YIELD_OTHER 91214 91220	0.09 g
+T1314	YIELD_PERCENT 91222 91225	85%
+T1315	EXAMPLE_LABEL 91275 91276	2
+T1316	REACTION_PRODUCT 91278 91405	(RS)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-[4-(6-methoxy-[1,5]naphthyridin-4-yl)-piperazin-1-ylmethyl]-oxazolidin-2-one RE2.i
+T1317	STARTING_MATERIAL 91407 91452	2-Methoxy-8-piperazin-1-yl-[1,5]naphthyridine
+T1318	STARTING_MATERIAL 91467 91503	8-bromo-2-methoxy-[1,5]naphthyridine
+T1319	STARTING_MATERIAL 91557 91567	piperazine
+T1320	REAGENT_CATALYST 91589 91599	1-pentanol
+T1321	TEMPERATURE 91622 91626	80°C
+T1322	OTHER_COMPOUND 91726 91728	EA
+T1323	OTHER_COMPOUND 91754 91759	water
+T1324	OTHER_COMPOUND 91831 91834	DCM
+T1325	OTHER_COMPOUND 91835 91839	MeOH
+T1326	OTHER_COMPOUND 91899 91904	MgSO4
+T1327	OTHER_COMPOUND 91978 91980	EA
+T1328	OTHER_COMPOUND 91981 91985	MeOH
+T1329	OTHER_COMPOUND 91993 91997	MeOH
+T1330	REACTION_PRODUCT 92011 92031	desired intermediate
+T1331	YIELD_OTHER 92033 92038	4.7 g
+T1332	YIELD_PERCENT 92040 92043	96%
+T1333	OTHER_COMPOUND 92067 92071	DMSO
+T1334	REACTION_PRODUCT 92256 92262	RE2.ii
+T1335	STARTING_MATERIAL 92264 92345	(RS)-1-Chloro-3-[4-(6-methoxy-[1,5]naphthyridin-4-yl)-piperazin-1-yl]-propan-2-ol
+T1336	STARTING_MATERIAL 92373 92376	RE2
+T1337	REACTION_PRODUCT 92471 92491	desired intermediate
+T1338	YIELD_OTHER 92520 92526	0.24 g
+T1339	YIELD_PERCENT 92528 92531	40%
+T1340	REACTION_PRODUCT 92572 92693	(RS)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-[4-(6-methoxy-[1,5]naphthyridin-4-yl)-piperazin-1-ylmethyl]-oxazolidin-2-one
+T1341	OTHER_COMPOUND 92748 92751	RE1
+T1342	REACTION_PRODUCT 92760 92774	title compound
+T1343	REACTION_PRODUCT 92802 92818	intermediate RE2
+T1344	YIELD_OTHER 92824 92830	0.24 g
+T1345	YIELD_PERCENT 92852 92858	0.14 g
+T1346	OTHER_COMPOUND 92869 92874	CDCl3
+T1347	EXAMPLE_LABEL 93132 93133	3
+T1348	REACTION_PRODUCT 93135 93274	(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[(5)-1-(6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-oxazolidin-2-one RE3.i
+T1349	REACTION_PRODUCT 93276 93365	[(S)-1-(6-Methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-yl]-carbamic acid tert-butyl ester
+T1350	STARTING_MATERIAL 93379 93415	8-bromo-2-methoxy-[1,5]naphthyridine
+T1351	STARTING_MATERIAL 93471 93518	(S)-(-)-3-(tert-butoxycarbonylamino)pyrrolidine
+T1352	REAGENT_CATALYST 93542 93550	pentanol
+T1353	REAGENT_CATALYST 93562 93567	DIPEA
+T1354	TEMPERATURE 93600 93604	80°C
+T1355	TEMPERATURE 93691 93698	50-60°C
+T1356	OTHER_COMPOUND 93733 93738	ether
+T1357	OTHER_COMPOUND 93758 93763	amine
+T1358	OTHER_COMPOUND 93841 93845	SiO2
+T1359	OTHER_COMPOUND 93847 93861	DCM-MeOH-NH4OH
+T1360	REACTION_PRODUCT 93887 93907	desired intermediate
+T1361	YIELD_OTHER 93925 93931	1.86 g
+T1362	YIELD_PERCENT 93933 93936	86%
+T1363	REACTION_PRODUCT 93968 93974	RE3.ii
+T1364	STARTING_MATERIAL 93976 94037	(S)-1-(6-Methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamine
+T1365	STARTING_MATERIAL 94068 94071	RE3
+T1366	STARTING_MATERIAL 94072 94073	i
+T1367	SOLVENT 94098 94101	DCM
+T1368	REAGENT_CATALYST 94120 94126	Et3SiH
+T1369	REAGENT_CATALYST 94150 94153	TFA
+T1370	TIME 94201 94207	30 min
+T1371	TEMPERATURE 94211 94213	rt
+T1372	OTHER_COMPOUND 94275 94278	DCM
+T1373	OTHER_COMPOUND 94297 94299	aq
+T1374	OTHER_COMPOUND 94301 94306	NH4OH
+T1375	OTHER_COMPOUND 94351 94354	DCM
+T1376	OTHER_COMPOUND 94355 94359	MeOH
+T1377	OTHER_COMPOUND 94402 94408	Na2SO4
+T1378	REACTION_PRODUCT 94461 94481	desired intermediate
+T1379	YIELD_OTHER 94500 94506	535 mg
+T1380	YIELD_PERCENT 94508 94511	83%
+T1381	REACTION_PRODUCT 94543 94550	RE3.iii
+T1382	STARTING_MATERIAL 94552 94685	(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[(S)-1-(6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-oxazolidin-2-one
+T1383	STARTING_MATERIAL 94713 94719	RE3 ii
+T1384	STARTING_MATERIAL 94745 94841	methanesulfonic acid (S)-3-(2,3-dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidin-5-ylmethyl ester
+T1385	STARTING_MATERIAL 94902 94923	(S)-glycidyl butyrate
+T1386	SOLVENT 94990 94994	DMSO
+T1387	TEMPERATURE 95018 95022	70°C
+T1388	TIME 95027 95030	3 d
+T1389	TEMPERATURE 95049 95051	rt
+T1390	OTHER_COMPOUND 95052 95057	water
+T1391	OTHER_COMPOUND 95103 95105	EA
+T1392	OTHER_COMPOUND 95149 95154	brine
+T1393	OTHER_COMPOUND 95167 95172	MgSO4
+T1394	OTHER_COMPOUND 95226 95240	DCM-MeOH-NH4OH
+T1395	REACTION_PRODUCT 95266 95280	title compound
+T1396	YIELD_OTHER 95302 95307	18 mg
+T1397	YIELD_PERCENT 95309 95316	25%).1H
+T1398	OTHER_COMPOUND 95322 95327	CDCl3
+T1399	EXAMPLE_LABEL 95599 95600	3
+T1400	REACTION_PRODUCT 95602 95739	6-((R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one 3.i
+T1401	REACTION_PRODUCT 95741 95823	[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-carbamic acid benzyl
+T1402	STARTING_MATERIAL 95866 95911	8-bromo-7-fluoro-2-methoxy-[1,5]naphthyridine
+T1403	REAGENT_CATALYST 95944 95964	palladium(II)acetate
+T1404	REAGENT_CATALYST 95985 95992	DPEphos
+T1405	REAGENT_CATALYST 96014 96019	K3PO4
+T1406	STARTING_MATERIAL 96045 96085	azetidin-3-yl-carbamic acid benzyl ester
+T1407	OTHER_COMPOUND 96145 96150	argon
+T1408	TIME 96155 96166	several min
+T1409	REAGENT_CATALYST 96168 96175	Dioxane
+T1410	OTHER_COMPOUND 96256 96261	argon
+T1411	TIME 96266 96271	3 min
+T1412	TEMPERATURE 96304 96309	85 °C
+T1413	OTHER_COMPOUND 96389 96391	EA
+T1414	OTHER_COMPOUND 96392 96397	water
+T1415	OTHER_COMPOUND 96430 96435	brine
+T1416	OTHER_COMPOUND 96448 96453	MgSO4
+T1417	OTHER_COMPOUND 96495 96499	TBME
+T1418	OTHER_COMPOUND 96519 96522	DCM
+T1419	OTHER_COMPOUND 96527 96531	MeOH
+T1420	TIME 96577 96582	5 min
+T1421	REACTION_PRODUCT 96610 96628	title intermediate
+T1422	YIELD_OTHER 96647 96653	2.53 g
+T1423	YIELD_PERCENT 96655 96658	85%
+T1424	REACTION_PRODUCT 96696 96760	1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamine
+T1425	REACTION_PRODUCT 96827 96847	desired intermediate
+T1426	YIELD_OTHER 96883 96889	1.13 g
+T1427	YIELD_PERCENT 96891 96894	70%
+T1428	EXAMPLE_LABEL 96926 96931	3.iii
+T1429	STARTING_MATERIAL 96933 97023	6-[(S)-3-(tert-Butyl-dimethyl-silanyloxy)-2-hydroxy-propylamino]-4H-benzo[1,4]oxazin-3-one
+T1430	STARTING_MATERIAL 97041 97091	tert-butyl-dimethyl-((S)-1-oxiranylmethoxy)-silane
+T1431	SOLVENT 97125 97129	MeCN
+T1432	REAGENT_CATALYST 97149 97155	LiClO4
+T1433	STARTING_MATERIAL 97174 97207	6-Amino-4H-benzo[1,4]oxazin-3-one
+T1434	TEMPERATURE 97280 97284	50°C
+T1435	TIME 97289 97291	6h
+T1436	OTHER_COMPOUND 97362 97365	DCM
+T1437	OTHER_COMPOUND 97366 97370	MeOH
+T1438	OTHER_COMPOUND 97371 97376	NH4OH
+T1439	REACTION_PRODUCT 97415 97429	title compound
+T1440	YIELD_OTHER 97452 97459	11.16 g
+T1441	YIELD_PERCENT 97461 97464	44%
+T1442	REACTION_PRODUCT 97496 97500	3.iv
+T1443	STARTING_MATERIAL 97502 97598	6-[(S)-5-(tert-Butyl-dimethyl-silanyloxymethyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]oxazin-3-one
+T1444	STARTING_MATERIAL 97626 97631	3.iii
+T1445	REAGENT_CATALYST 97656 97659	CDI
+T1446	SOLVENT 97681 97684	THF
+T1447	TEMPERATURE 97708 97712	50°C
+T1448	TIME 97717 97719	2h
+T1449	OTHER_COMPOUND 97783 97785	EA
+T1450	OTHER_COMPOUND 97790 97795	water
+T1451	OTHER_COMPOUND 97852 97855	H2O
+T1452	OTHER_COMPOUND 97860 97862	EA
+T1453	YIELD_OTHER 97871 97877	5.21 g
+T1454	OTHER_COMPOUND 97910 97915	brine
+T1455	OTHER_COMPOUND 97928 97933	MgSO4
+T1456	OTHER_COMPOUND 98015 98017	CC
+T1457	OTHER_COMPOUND 98019 98022	DCM
+T1458	OTHER_COMPOUND 98023 98027	MeOH
+T1459	YIELD_OTHER 98058 98064	2.28 g
+T1460	YIELD_PERCENT 98087 98091	7.49
+T1461	YIELD_OTHER 98092 98093	g
+T1462	YIELD_PERCENT 98095 98098	63%
+T1463	EXAMPLE_LABEL 98130 98133	3.v
+T1464	REACTION_PRODUCT 98135 98206	6-((S)-5-Hydroxymethyl-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one
+T1465	STARTING_MATERIAL 98236 98240	3.iv
+T1466	SOLVENT 98266 98269	THF
+T1467	REAGENT_CATALYST 98295 98299	TBAF
+T1468	SOLVENT 98307 98310	THF
+T1469	TEMPERATURE 98357 98360	0°C
+T1470	TIME 98365 98367	3h
+T1471	OTHER_COMPOUND 98397 98402	water
+T1472	OTHER_COMPOUND 98407 98409	EA
+T1473	OTHER_COMPOUND 98466 98469	H2O
+T1474	OTHER_COMPOUND 98474 98476	EA
+T1475	YIELD_OTHER 98485 98491	6.49 g
+T1476	OTHER_COMPOUND 98526 98528	EA
+T1477	OTHER_COMPOUND 98577 98582	brine
+T1478	OTHER_COMPOUND 98595 98600	MgSO4
+T1479	OTHER_COMPOUND 98690 98692	EA
+T1480	YIELD_OTHER 98701 98706	1.23g
+T1481	YIELD_OTHER 98716 98722	7.72 g
+T1482	YIELD_PERCENT 98724 98727	95%
+T1483	REACTION_PRODUCT 98787 98892	Methanesulfonic acid (S)-2-oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl)-oxazolidin-5-ylmethyl ester
+T1484	REACTION_PRODUCT 98950 98964	title compound
+T1485	REACTION_PRODUCT 98983 98999	intermediate 3.v
+T1486	YIELD_OTHER 99023 99029	1.40 g
+T1487	YIELD_PERCENT 99031 99038	44%).1H
+T1488	REACTION_PRODUCT 99257 99390	6-((R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one
+T1489	STARTING_MATERIAL 99458 99462	3.vi
+T1490	REACTION_PRODUCT 99469 99483	title compound
+T1491	YIELD_OTHER 99521 99526	49 mg
+T1492	YIELD_PERCENT 99528 99531	28%
+T1493	REACTION_PRODUCT 99574 99705	(R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-3-(3-fluoro-4-methyl-phenyl)-oxazolidin-2-one 4.i
+T1494	REACTION_PRODUCT 99707 99772	(S)-3-(3-Fluoro-4-methyl-phenyl)-5-hydroxymethyl-oxazolidin-2-one
+T1495	REACTION_PRODUCT 99787 99840	(3-fluoro-4-methyl-phenyl)-carbamic acid benzyl ester
+T1496	STARTING_MATERIAL 99856 99881	3-fluoro-4-methyl-aniline
+T1497	OTHER_COMPOUND 99886 99891	CbzCl
+T1498	STARTING_MATERIAL 99922 99943	(S)-glycidyl butyrate
+T1499	REACTION_PRODUCT 100043 100057	title compound
+T1500	YIELD_OTHER 100090 100096	4.16 g
+T1501	YIELD_PERCENT 100098 100101	65%
+T1502	EXAMPLE_LABEL 100133 100137	4.ii
+T1503	REACTION_PRODUCT 100139 100226	Methanesulfonic acid (S)-3-(3-fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-ylmethyl ester
+T1504	REACTION_PRODUCT 100260 100274	title compound
+T1505	REACTION_PRODUCT 100306 100309	4.i
+T1506	REACTION_PRODUCT 100314 100319	Ms-Cl
+T1507	YIELD_OTHER 100339 100345	1.62 g
+T1508	YIELD_PERCENT 100347 100355	100%).1H
+T1509	OTHER_COMPOUND 100361 100368	DMSO-d6
+T1510	EXAMPLE_LABEL 100534 100539	4.iii
+T1511	STARTING_MATERIAL 100541 100603	(S)-3-(3-Fluoro-4-methyl-phenyl)-5-iodomethyl-oxazolidin-2-one
+T1512	STARTING_MATERIAL 100617 100629	intermediate
+T1513	STARTING_MATERIAL 100630 100634	4.ii
+T1514	REAGENT_CATALYST 100660 100663	NaI
+T1515	SOLVENT 100687 100694	acetone
+T1516	TEMPERATURE 100717 100723	reflux
+T1517	TIME 100728 100731	3 h
+T1518	OTHER_COMPOUND 100791 100796	water
+T1519	OTHER_COMPOUND 100797 100800	DCM
+T1520	OTHER_COMPOUND 100833 100838	brine
+T1521	OTHER_COMPOUND 100851 100856	MgSO4
+T1522	REACTION_PRODUCT 100911 100925	title compound
+T1523	YIELD_OTHER 100945 100951	600 mg
+T1524	YIELD_PERCENT 100953 100956	85%
+T1525	REACTION_PRODUCT 100988 100992	4.iv
+T1526	REACTION_PRODUCT 100994 101121	(R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-3-(3-fluoro-4-methyl-phenyl)-oxazolidin-2-one
+T1527	STARTING_MATERIAL 101178 101182	3.ii
+T1528	OTHER_COMPOUND 101201 101206	4.iii
+T1529	REACTION_PRODUCT 101213 101227	title compound
+T1530	YIELD_OTHER 101263 101268	45 mg
+T1531	YIELD_PERCENT 101270 101277	35%).1H
+T1532	OTHER_COMPOUND 101283 101288	CDCl3
+T1533	EXAMPLE_LABEL 101558 101559	5
+T1534	REACTION_PRODUCT 101561 101799	(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one 5.i) Methanesulfonic acid (S)-3-(2,3-dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidin-5-ylmethyl ester
+T1535	REACTION_PRODUCT 101804 101818	title compound
+T1536	YIELD_OTHER 101955 101961	1.11 g
+T1537	YIELD_PERCENT 101963 101966	50%
+T1538	REACTION_PRODUCT 101998 102002	5.ii
+T1539	REACTION_PRODUCT 102004 102076	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-iodomethoxl-oxazolidin-2-one
+T1540	REACTION_PRODUCT 102081 102095	title compound
+T1541	YIELD_OTHER 102131 102137	393 mg
+T1542	YIELD_PERCENT 102139 102142	70%
+T1543	OTHER_COMPOUND 102180 102183	NaI
+T1544	OTHER_COMPOUND 102251 102256	CDCl3
+T1545	REACTION_PRODUCT 102493 102498	5.iii
+T1546	REACTION_PRODUCT 102500 102636	(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one
+T1547	REACTION_PRODUCT 102641 102655	title compound
+T1548	YIELD_OTHER 102691 102696	50 mg
+T1549	YIELD_PERCENT 102698 102701	45%
+T1550	REACTION_PRODUCT 102814 102952	6-((R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one 6.i
+T1551	REACTION_PRODUCT 102954 103045	6-[(S)-3-(tert-Butyl-dimethyl-silanyloxy)-2-hydroxy-propylamino]-4H-benzo[1,4]thiazin-3-one
+T1552	STARTING_MATERIAL 103115 103149	6-amino-4H-benzo[1,4]thiazin-3-one
+T1553	REACTION_PRODUCT 103168 103182	title compound
+T1554	YIELD_OTHER 103218 103225	11.16 g
+T1555	YIELD_PERCENT 103227 103230	44%
+T1556	REACTION_PRODUCT 103267 103364	6-[(S)-5-(tert-Butyl-dimethyl-silanyloxymethyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T1557	OTHER_COMPOUND 103411 103415	3.iv
+T1558	REACTION_PRODUCT 103422 103436	title compound
+T1559	REACTION_PRODUCT 103455 103471	intermediate 6.i
+T1560	YIELD_PERCENT 103496 103500	7.49
+T1561	YIELD_OTHER 103501 103502	g
+T1562	YIELD_PERCENT 103504 103507	63%
+T1563	EXAMPLE_LABEL 103539 103544	6.iii
+T1564	REACTION_PRODUCT 103546 103618	6-((S)-5-Hydroxymethyl-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1565	REACTION_PRODUCT 103677 103691	title compound
+T1566	REACTION_PRODUCT 103710 103727	intermediate 6.ii
+T1567	YIELD_OTHER 103751 103757	7.72 g
+T1568	YIELD_PERCENT 103759 103762	95%
+T1569	EXAMPLE_LABEL 103794 103798	6.iv
+T1570	REACTION_PRODUCT 103800 103909	Toluene-4-sulfonic acid (S)-2-oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-ylmethyl ester
+T1571	STARTING_MATERIAL 103940 103945	6.iii
+T1572	REAGENT_CATALYST 103970 103974	DMAP
+T1573	SOLVENT 103998 104001	DCM
+T1574	TEMPERATURE 104020 104024	0 °C
+T1575	REAGENT_CATALYST 104036 104039	TEA
+T1576	STARTING_MATERIAL 104078 104085	p-Ts-Cl
+T1577	SOLVENT 104108 104111	DCM
+T1578	TEMPERATURE 104148 104150	rt
+T1579	OTHER_COMPOUND 104174 104179	water
+T1580	REACTION_PRODUCT 104238 104252	title compound
+T1581	YIELD_OTHER 104269 104275	4.19 g
+T1582	YIELD_PERCENT 104277 104280	84%
+T1583	STARTING_MATERIAL 104317 104386	6-((S)-5-Iodomethyl-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1584	STARTING_MATERIAL 104416 104420	6.iv
+T1585	STARTING_MATERIAL 104446 104449	NaI
+T1586	SOLVENT 104474 104481	acetone
+T1587	TEMPERATURE 104494 104502	refluxed
+T1588	TIME 104507 104509	5h
+T1589	OTHER_COMPOUND 104569 104574	water
+T1590	OTHER_COMPOUND 104575 104578	DCM
+T1591	YIELD_PERCENT 104643 104648	3.39g
+T1592	YIELD_PERCENT 104650 104657	90%).1H
+T1593	REACTION_PRODUCT 104846 104980	6-((R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1594	STARTING_MATERIAL 105037 105041	3.ii
+T1595	REACTION_PRODUCT 105069 105083	title compound
+T1596	YIELD_OTHER 105116 105121	40 mg
+T1597	YIELD_PERCENT 105123 105130	24%).1H
+T1598	OTHER_COMPOUND 105136 105141	CDCl3
+T1599	EXAMPLE_LABEL 105521 105522	7
+T1600	REACTION_PRODUCT 105524 105644	6-((R)-5-{[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one 7.i
+T1601	REACTION_PRODUCT 105646 105716	[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-yl]-carbamic acid benzyl ester
+T1602	STARTING_MATERIAL 105760 105819	trifluoromethanesulfonic acid 6-methoxy-quinolin-4-yl ester
+T1603	STARTING_MATERIAL 105861 105901	azetidin-3-yl-carbamic acid benzyl ester
+T1604	REACTION_PRODUCT 105920 105940	desired intermediate
+T1605	OTHER_COMPOUND 105969 105973	MeOH
+T1606	OTHER_COMPOUND 105974 105979	NH4OH
+T1607	YIELD_OTHER 106010 106016	1.25 g
+T1608	YIELD_PERCENT 106018 106021	35%
+T1609	EXAMPLE_LABEL 106053 106057	7.ii
+T1610	STARTING_MATERIAL 106059 106105	1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamine
+T1611	REAGENT_CATALYST 106141 106148	Pd(OH)2
+T1612	OTHER_COMPOUND 106160 106163	Pd/
+T1613	STARTING_MATERIAL 106196 106199	7.i
+T1614	REACTION_PRODUCT 106205 106225	desired intermediate
+T1615	YIELD_OTHER 106258 106264	248 mg
+T1616	YIELD_PERCENT 106266 106269	33%
+T1617	REACTION_PRODUCT 106301 106306	7.iii
+T1618	STARTING_MATERIAL 106308 106424	6-((R)-5-{[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1619	REACTION_PRODUCT 106513 106527	title compound
+T1620	YIELD_OTHER 106560 106565	17 mg
+T1621	YIELD_PERCENT 106567 106570	15%
+T1622	EXAMPLE_LABEL 106610 106611	8
+T1623	REACTION_PRODUCT 106613 106735	(R)-3-(3-Fluoro-4-methyl-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one 8.i
+T1624	REACTION_PRODUCT 106737 106816	[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-carbamic acid benzyl ester
+T1625	STARTING_MATERIAL 106860 106928	trifluoromethanesulfonic acid 6-methoxy-[1,5]naphthyridin-4-yl ester
+T1626	REACTION_PRODUCT 106970 107010	azetidin-3-yl-carbamic acid benzyl ester
+T1627	REACTION_PRODUCT 107015 107035	desired intermediate
+T1628	OTHER_COMPOUND 107072 107077	ether
+T1629	YIELD_OTHER 107100 107106	5.05 g
+T1630	YIELD_PERCENT 107108 107111	71%
+T1631	EXAMPLE_LABEL 107143 107147	8.ii
+T1632	REACTION_PRODUCT 107149 107204	1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamine
+T1633	STARTING_MATERIAL 107261 107264	8.i
+T1634	REACTION_PRODUCT 107270 107290	desired intermediate
+T1635	YIELD_OTHER 107326 107332	1.55 g
+T1636	YIELD_PERCENT 107334 107337	59%
+T1637	EXAMPLE_LABEL 107369 107374	8.iii
+T1638	REACTION_PRODUCT 107376 107494	(R)-3-(3-Fluoro-4-methyl-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one
+T1639	STARTING_MATERIAL 107551 107555	8.ii
+T1640	REACTION_PRODUCT 107574 107579	4.iii
+T1641	REACTION_PRODUCT 107584 107598	title compound
+T1642	YIELD_OTHER 107634 107639	33 mg
+T1643	YIELD_PERCENT 107641 107644	25%
+T1644	REACTION_PRODUCT 107687 107814	(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one
+T1645	REACTION_PRODUCT 107906 107920	title compound
+T1646	YIELD_OTHER 107956 107961	39 mg
+T1647	YIELD_PERCENT 107963 107970	30%).1H
+T1648	OTHER_COMPOUND 107976 107981	CDCl3
+T1649	EXAMPLE_LABEL 108269 108271	10
+T1650	REACTION_PRODUCT 108273 108397	6-((R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one
+T1651	STARTING_MATERIAL 108454 108458	8.ii
+T1652	REACTION_PRODUCT 108488 108502	title compound
+T1653	YIELD_OTHER 108540 108545	22 mg
+T1654	YIELD_PERCENT 108547 108550	18%
+T1655	REACTION_PRODUCT 108601 108615	title compound
+T1656	REACTION_PRODUCT 108675 108679	10.i
+T1657	REACTION_PRODUCT 108681 108816	3-{[(R)-2-Oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl)-oxazolidin-5-ylmethyl]-amino}-azetidine-1-carboxylic acid tert-butyl ester
+T1658	STARTING_MATERIAL 108860 108912	3-amino-azetidine-1-carboxylic acid tert-butyl ester
+T1659	STARTING_MATERIAL 108930 108947	intermediate 3.vi
+T1660	REACTION_PRODUCT 108954 108968	title compound
+T1661	YIELD_OTHER 109005 109011	960 mg
+T1662	YIELD_PERCENT 109013 109016	52%
+T1663	REACTION_PRODUCT 109055 109139	6-[(R)-5-(Azetidin-3-ylaminomethyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]oxazin-3-one
+T1664	STARTING_MATERIAL 109196 109200	10.i
+T1665	REACTION_PRODUCT 109207 109221	title compound
+T1666	YIELD_OTHER 109258 109264	552 mg
+T1667	YIELD_PERCENT 109266 109270	100%
+T1668	EXAMPLE_LABEL 109302 109308	10.iii
+T1669	STARTING_MATERIAL 109310 109434	6-((R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one
+T1670	STARTING_MATERIAL 109478 109546	trifluoromethanesulfonic acid 6-methoxy-[1,5]naphthyridin-4-yl ester
+T1671	STARTING_MATERIAL 109601 109606	10.ii
+T1672	REACTION_PRODUCT 109612 109626	title compound
+T1673	YIELD_OTHER 109662 109668	270 mg
+T1674	YIELD_PERCENT 109670 109677	38%).1H
+T1675	OTHER_COMPOUND 109683 109688	CDCl3
+T1676	REACTION_PRODUCT 109978 110103	6-((R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1677	REACTION_PRODUCT 110194 110208	title compound
+T1678	YIELD_OTHER 110244 110250	252 mg
+T1679	YIELD_PERCENT 110252 110259	33%).1H
+T1680	OTHER_COMPOUND 110265 110270	CDCl3
+T1681	EXAMPLE_LABEL 110568 110570	12
+T1682	REACTION_PRODUCT 110572 110694	6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one 12.i
+T1683	REACTION_PRODUCT 110696 110755	[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-yl]-carbamic acid
+T1684	REACTION_PRODUCT 110756 110762	benzyl
+T1685	STARTING_MATERIAL 110813 110843	4-chloro-6-methoxy-quinazoline
+T1686	REACTION_PRODUCT 110861 110901	azetidin-3-yl-carbamic acid benzyl ester
+T1687	REACTION_PRODUCT 110907 110927	desired intermediate
+T1688	YIELD_OTHER 110963 110969	0.62 g
+T1689	YIELD_PERCENT 110971 110974	59%
+T1690	REACTION_PRODUCT 111013 111061	1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamine
+T1691	REACTION_PRODUCT 111118 111122	12.i
+T1692	REACTION_PRODUCT 111128 111148	desired intermediate
+T1693	YIELD_OTHER 111184 111190	0.31 g
+T1694	YIELD_PERCENT 111192 111195	82%
+T1695	EXAMPLE_LABEL 111227 111233	12.iii
+T1696	REACTION_PRODUCT 111235 111352	6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methol}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one
+T1697	STARTING_MATERIAL 111409 111414	12.ii
+T1698	REACTION_PRODUCT 111444 111458	title compound
+T1699	YIELD_OTHER 111494 111498	5 mg
+T1700	YIELD_PERCENT 111500 111502	5%
+T1701	EXAMPLE_LABEL 111542 111544	13
+T1702	REACTION_PRODUCT 111546 111664	6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1703	STARTING_MATERIAL 111671 111771	Methanesulfonic acid (S)-2-oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-ylmethyl
+T1704	STARTING_MATERIAL 111805 111810	6.iii
+T1705	SOLVENT 111845 111848	DCM
+T1706	REAGENT_CATALYST 111862 111867	DIPEA
+T1707	TEMPERATURE 111902 111905	0°C
+T1708	REAGENT_CATALYST 111910 111915	Ms-Cl
+T1709	TEMPERATURE 111994 111997	0°C
+T1710	TIME 112002 112004	1h
+T1711	OTHER_COMPOUND 112006 112011	Water
+T1712	OTHER_COMPOUND 112057 112060	DCM
+T1713	OTHER_COMPOUND 112107 112112	water
+T1714	OTHER_COMPOUND 112153 112155	EA
+T1715	OTHER_COMPOUND 112156 112159	DCM
+T1716	OTHER_COMPOUND 112160 112165	ether
+T1717	REACTION_PRODUCT 112180 112194	title compound
+T1718	YIELD_OTHER 112217 112223	2.45 g
+T1719	YIELD_PERCENT 112225 112232	69%).1H
+T1720	OTHER_COMPOUND 112238 112245	DMSO-d6
+T1721	REACTION_PRODUCT 112468 112586	6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1722	STARTING_MATERIAL 112643 112648	12.ii
+T1723	REACTION_PRODUCT 112678 112692	title compound
+T1724	YIELD_OTHER 112728 112733	10 mg
+T1725	YIELD_PERCENT 112735 112738	10%
+T1726	EXAMPLE_LABEL 112778 112780	14
+T1727	REACTION_PRODUCT 112782 112917	6-[(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T1728	STARTING_MATERIAL 112943 112945	11
+T1729	SOLVENT 112949 112953	MeOH
+T1730	SOLVENT 112982 112985	DCE
+T1731	OTHER_COMPOUND 113002 113004	aq
+T1732	OTHER_COMPOUND 113018 113030	formaldehyde
+T1733	TIME 113038 113044	10 min
+T1734	REAGENT_CATALYST 113046 113053	NaBH3CN
+T1735	TEMPERATURE 113095 113097	rt
+T1736	TIME 113102 113105	1 h
+T1737	OTHER_COMPOUND 113157 113160	HCl
+T1738	OTHER_COMPOUND 113162 113164	EA
+T1739	OTHER_COMPOUND 113206 113211	NH4OH
+T1740	OTHER_COMPOUND 113246 113248	EA
+T1741	OTHER_COMPOUND 113301 113306	water
+T1742	OTHER_COMPOUND 113311 113316	brine
+T1743	OTHER_COMPOUND 113329 113334	MgSO4
+T1744	OTHER_COMPOUND 113408 113422	DCM-MeOH-NH4OH
+T1745	REACTION_PRODUCT 113448 113462	title compound
+T1746	YIELD_OTHER 113485 113490	14 mg
+T1747	YIELD_PERCENT 113492 113499	91%).1H
+T1748	OTHER_COMPOUND 113505 113510	CDCl3
+T1749	EXAMPLE_LABEL 113874 113876	15
+T1750	REACTION_PRODUCT 113878 114003	6-((S)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1751	REACTION_PRODUCT 114010 114119	Toluene-4-sulfonic acid (R)-2-oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-ylmethyl ester
+T1752	REACTION_PRODUCT 114124 114138	title compound
+T1753	REACTION_PRODUCT 114244 114262	intermediate 6.iii
+T1754	REACTION_PRODUCT 114278 114328	tert-butyl-dimethyl-((R)-1-oxiranylmethoxy)-silane
+T1755	YIELD_OTHER 114352 114358	400 mg
+T1756	YIELD_PERCENT 114360 114363	30%
+T1757	EXAMPLE_LABEL 114395 114400	15.ii
+T1758	REACTION_PRODUCT 114402 114471	6-((R)-5-Iodomethyl-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1759	REACTION_PRODUCT 114476 114490	title compound
+T1760	STARTING_MATERIAL 114522 114526	15.i
+T1761	YIELD_OTHER 114631 114637	120 mg
+T1762	YIELD_PERCENT 114639 114642	33%
+T1763	STARTING_MATERIAL 114682 114807	6-((S)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1764	STARTING_MATERIAL 114887 114892	15.ii
+T1765	REACTION_PRODUCT 114899 114913	title compound
+T1766	YIELD_OTHER 114946 114951	19 mg
+T1767	YIELD_PERCENT 114953 114956	13%
+T1768	EXAMPLE_LABEL 114996 114998	16
+T1769	REACTION_PRODUCT 115000 115132	(RS)-6-(5-{2-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-ethyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one 16.i
+T1770	STARTING_MATERIAL 115134 115225	(RS)-6-[4-(tert-Butyl-dimethyl-silanyloxy)-2-hydroxy-butylamino]-4H-benzo[1,4]thiazin-3-one
+T1771	STARTING_MATERIAL 115240 115291	(RS)-tert-butyl-dimethyl-(2-oxiranyl-ethoxy)-silane
+T1772	STARTING_MATERIAL 115369 115403	6-amino-4H-benzo[1,4]thiazin-3-one
+T1773	SOLVENT 115422 115426	EtOH
+T1774	SOLVENT 115427 115432	water
+T1775	TEMPERATURE 115460 115465	80 °C
+T1776	TIME 115470 115473	2 d
+T1777	OTHER_COMPOUND 115563 115566	DCM
+T1778	OTHER_COMPOUND 115567 115571	MeOH
+T1779	OTHER_COMPOUND 115572 115577	NH4OH
+T1780	REACTION_PRODUCT 115603 115621	title intermediate
+T1781	YIELD_OTHER 115638 115643	2.2 g
+T1782	YIELD_PERCENT 115645 115648	29%
+T1783	EXAMPLE_LABEL 115680 115685	16.ii
+T1784	REACTION_PRODUCT 115687 115789	(RS)-6-{5-[2-(tert-Butyl-dimethyl-silanyloxy)-ethyl]-2-oxo-oxazolidin-3-yl}-4H-benzo[1,4]thiazin-3-one
+T1785	REACTION_PRODUCT 115819 115837	title intermediate
+T1786	REACTION_PRODUCT 115869 115873	16.i
+T1787	YIELD_OTHER 115908 115914	1.53 g
+T1788	YIELD_PERCENT 115916 115919	65%
+T1789	OTHER_COMPOUND 115931 115934	DCM
+T1790	OTHER_COMPOUND 115935 115939	MeOH
+T1791	OTHER_COMPOUND 115940 115945	NH4OH
+T1792	REACTION_PRODUCT 115995 116072	(RS)-6-[5-(2-Hydroxy-ethyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T1793	STARTING_MATERIAL 116087 116099	intermediate
+T1794	STARTING_MATERIAL 116100 116105	16.ii
+T1795	SOLVENT 116130 116133	THF
+T1796	REAGENT_CATALYST 116159 116163	TBAF
+T1797	SOLVENT 116180 116183	THF
+T1798	TEMPERATURE 116221 116224	0°C
+T1799	TIME 116229 116231	2h
+T1800	OTHER_COMPOUND 116245 116250	water
+T1801	OTHER_COMPOUND 116255 116257	EA
+T1802	OTHER_COMPOUND 116303 116305	EA
+T1803	OTHER_COMPOUND 116349 116354	brine
+T1804	OTHER_COMPOUND 116367 116372	MgSO4
+T1805	OTHER_COMPOUND 116460 116465	ether
+T1806	OTHER_COMPOUND 116466 116468	EA
+T1807	REACTION_PRODUCT 116483 116501	title intermediate
+T1808	YIELD_OTHER 116520 116526	730 mg
+T1809	YIELD_PERCENT 116528 116531	68%
+T1810	EXAMPLE_LABEL 116563 116568	16.iv
+T1811	REACTION_PRODUCT 116570 116681	(RS)-Methanesulfonic acid 2-[2-oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-yl]-ethyl ester
+T1812	STARTING_MATERIAL 116709 116715	16.iii
+T1813	SOLVENT 116750 116753	DCM
+T1814	REAGENT_CATALYST 116766 116771	DIPEA
+T1815	TEMPERATURE 116805 116808	0°C
+T1816	REAGENT_CATALYST 116813 116818	Ms-Cl
+T1817	TEMPERATURE 116896 116899	0°C
+T1818	TIME 116904 116906	1h
+T1819	OTHER_COMPOUND 116908 116913	Water
+T1820	OTHER_COMPOUND 116959 116962	DCM
+T1821	OTHER_COMPOUND 117009 117014	water
+T1822	OTHER_COMPOUND 117055 117058	DCM
+T1823	OTHER_COMPOUND 117059 117063	MeOH
+T1824	OTHER_COMPOUND 117064 117069	NH4OH
+T1825	REACTION_PRODUCT 117095 117113	title intermediate
+T1826	YIELD_OTHER 117126 117132	795 mg
+T1827	YIELD_PERCENT 117134 117137	90%
+T1828	REACTION_PRODUCT 117175 117302	(RS)-6-(5-{2-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-ethyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1829	STARTING_MATERIAL 117359 117363	8.ii
+T1830	REACTION_PRODUCT 117394 117408	title compound
+T1831	YIELD_OTHER 117445 117450	38 mg
+T1832	YIELD_PERCENT 117452 117455	25%
+T1833	EXAMPLE_LABEL 117495 117497	17
+T1834	REACTION_PRODUCT 117499 117633	6-[(S)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T1835	STARTING_MATERIAL 117713 117717	15.i
+T1836	REACTION_PRODUCT 117724 117738	title compound
+T1837	YIELD_OTHER 117776 117780	8 mg
+T1838	YIELD_PERCENT 117782 117784	9%
+T1839	EXAMPLE_LABEL 117834 117835	4
+T1840	REACTION_PRODUCT 117837 117914	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid
+T1841	REACTION_PRODUCT 117915 117985	[(R)-1-(6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-yl]-amide RE4.i
+T1842	REACTION_PRODUCT 117987 118048	(R)-1-(6-Methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamine
+T1843	REACTION_PRODUCT 118053 118067	title compound
+T1844	STARTING_MATERIAL 118086 118133	(R)-(+)-3-(tert-butoxycarbonylamino)pyrrolidine
+T1845	REACTION_PRODUCT 118199 118205	RE3.ii
+T1846	YIELD_OTHER 118230 118236	627 mg
+T1847	YIELD_PERCENT 118238 118241	54%
+T1848	REACTION_PRODUCT 118296 118373	(S)-3-(2,3-Dihudro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid
+T1849	REACTION_PRODUCT 118374 118438	[(R)-1-(6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-yl]-amide
+T1850	REACTION_PRODUCT 118443 118456	title compoud
+T1851	YIELD_OTHER 118573 118578	20 mg
+T1852	YIELD_PERCENT 118580 118583	34%
+T1853	EXAMPLE_LABEL 118633 118634	5
+T1854	REACTION_PRODUCT 118636 118704	(S)-3-(3-Fluoro-4-methyl-phenyl)-2-oxo-oxazolidine-5-carboxylic acid
+T1855	REACTION_PRODUCT 118705 118769	[(R)-1-(6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-yl]-amide
+T1856	REACTION_PRODUCT 118770 118775	RE5.i
+T1857	REACTION_PRODUCT 118777 118845	(S)-3-(3-Fluoro-4-methyl-phenyl)-2-oxo-oxazolidine-5-carboxylic acid
+T1858	OTHER_COMPOUND 118909 118912	2.i
+T1859	STARTING_MATERIAL 118941 118944	4.i
+T1860	REACTION_PRODUCT 118951 118965	title compound
+T1861	YIELD_OTHER 119001 119007	1.01 g
+T1862	YIELD_PERCENT 119009 119012	79%
+T1863	REACTION_PRODUCT 119052 119185	(S)-3-(3-Fluoro-4-methyl-phenyl)-2-oxo-oxazolidine-5-carboxylic acid [(R)-1-(6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-yl]-amide
+T1864	REACTION_PRODUCT 119190 119204	title compound
+T1865	STARTING_MATERIAL 119236 119241	RE5.i
+T1866	YIELD_OTHER 119321 119326	41 mg
+T1867	YIELD_PERCENT 119328 119331	67%
+T1868	EXAMPLE_LABEL 119381 119382	6
+T1869	REACTION_PRODUCT 119384 119529	6-((R)-5-{[(S)-1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one RE6.i
+T1870	REACTION_PRODUCT 119531 119628	[(S)-1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-yl-carbamic acid tert-butyl ester
+T1871	REACTION_PRODUCT 119672 119717	8-bromo-7-fluoro-2-methoxy-[1,5]naphthyridine
+T1872	REACTION_PRODUCT 119722 119769	(S)-(-)-3-(tert-butoxycarbonylamino)pyrrolidine
+T1873	REACTION_PRODUCT 119774 119792	title intermediate
+T1874	YIELD_OTHER 119823 119829	304 mg
+T1875	YIELD_PERCENT 119831 119834	48%
+T1876	REACTION_PRODUCT 119866 119872	RE6.ii
+T1877	REACTION_PRODUCT 119874 119944	(S)-1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamine
+T1878	REACTION_PRODUCT 120012 120030	title intermediate
+T1879	YIELD_OTHER 120068 120074	176 mg
+T1880	YIELD_PERCENT 120076 120079	81%
+T1881	REACTION_PRODUCT 120111 120118	RE6.iii
+T1882	STARTING_MATERIAL 120120 120259	6-((R)-5-{[(S)-1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one
+T1883	REACTION_PRODUCT 120352 120366	title compound
+T1884	YIELD_OTHER 120404 120409	12 mg
+T1885	YIELD_PERCENT 120411 120414	32%
+T1886	EXAMPLE_LABEL 120464 120465	7
+T1887	REACTION_PRODUCT 120467 120601	6-((R)-5-{2-[4-(6-Methoxy-[1,5]naphthyridin-4-yl)-piperazin-1-yl]-2-oxo-ethyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one RE7.i
+T1888	REACTION_PRODUCT 120603 120700	(3R)-3-Hydroxy-4-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-ylamino)-butyric acid tert-butyl ester
+T1889	REACTION_PRODUCT 120705 120723	title intermediate
+T1890	STARTING_MATERIAL 120776 120817	(R)-oxiranyl-acetic acid tert-butyl ester
+T1891	STARTING_MATERIAL 120885 120919	6-amino-4H-benzo[1,4]thiazin-3-one
+T1892	YIELD_OTHER 120970 120975	0.98g
+T1893	YIELD_PERCENT 120977 120980	90%
+T1894	EXAMPLE_LABEL 121018 121024	RE7.ii
+T1895	REACTION_PRODUCT 121026 121130	(R)-[2-Oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-yl]-acetic acid tert-butyl ester
+T1896	REACTION_PRODUCT 121135 121153	title intermediate
+T1897	STARTING_MATERIAL 121206 121218	intermediate
+T1898	STARTING_MATERIAL 121219 121224	RE7.i
+T1899	OTHER_COMPOUND 121281 121285	SiO2
+T1900	OTHER_COMPOUND 121292 121294	EA
+T1901	OTHER_COMPOUND 121305 121307	EA
+T1902	OTHER_COMPOUND 121330 121335	ether
+T1903	YIELD_PERCENT 121359 121364	0.35g
+T1904	YIELD_PERCENT 121366 121373	33%).1H
+T1905	OTHER_COMPOUND 121379 121386	DMSO-d6
+T1906	REACTION_PRODUCT 121584 121591	RE7.iii
+T1907	REACTION_PRODUCT 121593 121680	[(R)-2-Oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-yl]-acetic acid
+T1908	STARTING_MATERIAL 121708 121714	RE7.ii
+T1909	SOLVENT 121737 121740	DCM
+T1910	REAGENT_CATALYST 121767 121781	triethylsilane
+T1911	REAGENT_CATALYST 121797 121800	TFA
+T1912	TEMPERATURE 121838 121840	rt
+T1913	TIME 121845 121847	4h
+T1914	OTHER_COMPOUND 121852 121857	water
+T1915	OTHER_COMPOUND 121924 121929	water
+T1916	REACTION_PRODUCT 121958 121976	title intermediate
+T1917	YIELD_OTHER 121978 121983	0.15g
+T1918	YIELD_PERCENT 121985 121988	70%
+T1919	EXAMPLE_LABEL 122204 122210	RE7.iv
+T1920	STARTING_MATERIAL 122212 122340	6-((R)-5-{2-[4-(6-Methoxy-[1,5]naphthyridin-4-yl)-piperazin-1-yl]-2-oxo-ethyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T1921	STARTING_MATERIAL 122368 122375	RE7.iii
+T1922	STARTING_MATERIAL 122415 122420	RE2.i
+T1923	SOLVENT 122446 122449	DMF
+T1924	REAGENT_CATALYST 122476 122481	DIPEA
+T1925	REAGENT_CATALYST 122531 122557	propylphosphonic anhydride
+T1926	SOLVENT 122575 122577	EA
+T1927	TEMPERATURE 122617 122619	rt
+T1928	TIME 122624 122626	5h
+T1929	OTHER_COMPOUND 122648 122650	EA
+T1930	OTHER_COMPOUND 122663 122668	water
+T1931	OTHER_COMPOUND 122709 122714	water
+T1932	OTHER_COMPOUND 122719 122724	brine
+T1933	OTHER_COMPOUND 122737 122742	MgSO4
+T1934	OTHER_COMPOUND 122793 122795	EA
+T1935	OTHER_COMPOUND 122796 122800	MeOH
+T1936	YIELD_OTHER 122838 122844	0.044g
+T1937	YIELD_PERCENT 122846 122849	46%
+T1938	OTHER_COMPOUND 122886 122893	DMSO-d6
+T1939	EXAMPLE_LABEL 123121 123123	18
+T1940	REACTION_PRODUCT 123125 123267	N-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-2-[(R)-2-oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-yl]-acetamide
+T1941	STARTING_MATERIAL 123295 123302	RE7.iii
+T1942	STARTING_MATERIAL 123342 123346	8.ii
+T1943	SOLVENT 123371 123374	DMF
+T1944	REAGENT_CATALYST 123401 123406	DIPEA
+T1945	REAGENT_CATALYST 123456 123482	propylphosphonic anhydride
+T1946	SOLVENT 123500 123502	EA
+T1947	TEMPERATURE 123542 123544	rt
+T1948	TIME 123549 123551	5h
+T1949	OTHER_COMPOUND 123573 123575	EA
+T1950	OTHER_COMPOUND 123588 123593	water
+T1951	OTHER_COMPOUND 123634 123639	water
+T1952	OTHER_COMPOUND 123644 123649	brine
+T1953	OTHER_COMPOUND 123662 123667	MgSO4
+T1954	OTHER_COMPOUND 123718 123720	EA
+T1955	OTHER_COMPOUND 123721 123725	MeOH
+T1956	YIELD_OTHER 123763 123769	0.033g
+T1957	YIELD_PERCENT 123771 123774	36%
+T1958	EXAMPLE_LABEL 123841 123843	19
+T1959	REACTION_PRODUCT 123845 123922	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid
+T1960	OTHER_COMPOUND 123923 123981	[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-amide
+T1961	STARTING_MATERIAL 124053 124057	8.ii
+T1962	STARTING_MATERIAL 124093 124096	2.i
+T1963	OTHER_COMPOUND 124145 124148	DCM
+T1964	OTHER_COMPOUND 124149 124153	MeOH
+T1965	OTHER_COMPOUND 124154 124159	NH4OH
+T1966	REACTION_PRODUCT 124185 124199	title compound
+T1967	YIELD_OTHER 124222 124227	47 mg
+T1968	YIELD_PERCENT 124229 124232	38%
+T1969	EXAMPLE_LABEL 124272 124274	20
+T1970	REACTION_PRODUCT 124276 124419	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-methyl-amino}-methyl)-oxazolidin-2-one
+T1971	OTHER_COMPOUND 124472 124475	1.v
+T1972	REACTION_PRODUCT 124482 124496	title compound
+T1973	YIELD_OTHER 124532 124536	7 mg
+T1974	YIELD_PERCENT 124538 124545	68%).1H
+T1975	OTHER_COMPOUND 124551 124556	CDCl3
+T1976	EXAMPLE_LABEL 124845 124847	21
+T1977	REACTION_PRODUCT 124849 124992	6-[(R)-5-({[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]oxazin-3-one
+T1978	STARTING_MATERIAL 125045 125050	3.vii
+T1979	REACTION_PRODUCT 125057 125071	title compound
+T1980	YIELD_OTHER 125107 125112	23 mg
+T1981	YIELD_PERCENT 125114 125121	70%).1H
+T1982	OTHER_COMPOUND 125127 125132	CDCl3
+T1983	REACTION_PRODUCT 125485 125631	6-[(R)-5-({(2-Hydroxy-ethyl)-[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T1984	STARTING_MATERIAL 125666 125670	6.vi
+T1985	STARTING_MATERIAL 125695 125735	(tert-butyldimethylsilyloxy)acetaldehyde
+T1986	SOLVENT 125758 125761	DCE
+T1987	SOLVENT 125774 125778	MeOH
+T1988	REAGENT_CATALYST 125798 125827	sodium triacetoxy borohydride
+T1989	TEMPERATURE 125881 125883	rt
+T1990	OTHER_COMPOUND 125928 125931	HCl
+T1991	OTHER_COMPOUND 125948 125953	ether
+T1992	OTHER_COMPOUND 125987 125992	NH4OH
+T1993	OTHER_COMPOUND 126012 126015	DCM
+T1994	OTHER_COMPOUND 126061 126066	MgSO4
+T1995	OTHER_COMPOUND 126148 126157	TFA-water
+T1996	TIME 126180 126186	30 min
+T1997	TEMPERATURE 126190 126192	rt
+T1998	OTHER_COMPOUND 126265 126270	NH4OH
+T1999	OTHER_COMPOUND 126317 126325	DCM-MeOH
+T2000	OTHER_COMPOUND 126374 126379	MgSO4
+T2001	OTHER_COMPOUND 126457 126459	CC
+T2002	OTHER_COMPOUND 126461 126475	DCM-MeOH-NH4OH
+T2003	REACTION_PRODUCT 126516 126530	title compound
+T2004	YIELD_OTHER 126553 126557	9 mg
+T2005	YIELD_PERCENT 126559 126566	24%).1H
+T2006	OTHER_COMPOUND 126572 126579	DMSO-d6
+T2007	EXAMPLE_LABEL 126906 126908	23
+T2008	REACTION_PRODUCT 126910 126978	(S)-3-(3-Fluoro-4-methyl-phenyl)-2-oxo-oxazolidine-5-carboxylic acid
+T2009	REACTION_PRODUCT 126979 127043	[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amide
+T2010	STARTING_MATERIAL 127123 127128	RE5.i
+T2011	REACTION_PRODUCT 127135 127149	title compound
+T2012	YIELD_OTHER 127186 127190	3 mg
+T2013	YIELD_PERCENT 127192 127198	3%).1H
+T2014	OTHER_COMPOUND 127204 127209	CDCl3
+T2015	EXAMPLE_LABEL 127476 127478	24
+T2016	REACTION_PRODUCT 127480 127605	6-((R)-5-{[1-(6-Methoxy-2-methyl-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T2017	REACTION_PRODUCT 127612 127681	Trifluoro-methanesulfonic acid 6-methoxy-2-methyl-quinolin-4-yl ester
+T2018	STARTING_MATERIAL 127709 127741	6-methoxy-2-methyl-quinolin-4-ol
+T2019	SOLVENT 127773 127776	DCM
+T2020	SOLVENT 127777 127780	DMF
+T2021	REAGENT_CATALYST 127797 127800	TEA
+T2022	STARTING_MATERIAL 127832 127842	phenyl bis
+T2023	STARTING_MATERIAL 127843 127871	(trifluoromethanesulfonimide
+T2024	TEMPERATURE 127921 127925	40°C
+T2025	OTHER_COMPOUND 127937 127940	DCM
+T2026	OTHER_COMPOUND 128024 128030	NaHCO3
+T2027	OTHER_COMPOUND 128035 128037	EA
+T2028	OTHER_COMPOUND 128107 128109	EA
+T2029	OTHER_COMPOUND 128155 128160	water
+T2030	OTHER_COMPOUND 128165 128170	brine
+T2031	OTHER_COMPOUND 128183 128188	MgSO4
+T2032	OTHER_COMPOUND 128262 128264	EA
+T2033	REACTION_PRODUCT 128289 128307	title intermediate
+T2034	YIELD_OTHER 128323 128328	1.2 g
+T2035	YIELD_PERCENT 128330 128333	42%
+T2036	REACTION_PRODUCT 128372 128451	[1-(6-Methoxy-2-methyl-quinolin-4-yl)-azetidin-3-yl]-carbamic acid benzyl ester
+T2037	STARTING_MATERIAL 128495 128499	24.i
+T2038	REACTION_PRODUCT 128505 128545	azetidin-3-yl-carbamic acid benzyl ester
+T2039	REACTION_PRODUCT 128551 128571	desired intermediate
+T2040	YIELD_OTHER 128600 128606	165 mg
+T2041	YIELD_PERCENT 128608 128611	23%
+T2042	EXAMPLE_LABEL 128643 128649	24.iii
+T2043	REACTION_PRODUCT 128651 128706	1-(6-Methoxy-2-methyl-quinolin-4-yl)-azetidin-3-ylamine
+T2044	OTHER_COMPOUND 128763 128768	24.ii
+T2045	REACTION_PRODUCT 128774 128794	desired intermediate
+T2046	YIELD_OTHER 128823 128829	165 mg
+T2047	YIELD_PERCENT 128831 128834	23%
+T2048	STARTING_MATERIAL 128873 128998	6-((R)-5-{[1-(6-Methoxy-2-methyl-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T2049	STARTING_MATERIAL 129055 129061	24.iii
+T2050	STARTING_MATERIAL 129080 129083	6.v
+T2051	REACTION_PRODUCT 129090 129104	title compound
+T2052	YIELD_OTHER 129140 129145	11 mg
+T2053	YIELD_PERCENT 129147 129154	12%).1H
+T2054	OTHER_COMPOUND 129160 129165	CDCl3
+T2055	EXAMPLE_LABEL 129462 129464	25
+T2056	REACTION_PRODUCT 129466 129579	(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-phenyl-oxazolidin-2-one 25.i
+T2057	STARTING_MATERIAL 129581 129622	(1-Benzhydryl-azetidin-3-yl)-methyl-amine
+T2058	STARTING_MATERIAL 129640 129693	methanesulfonic acid 1-benzhydryl-azetidin-3-yl ester
+T2059	REAGENT_CATALYST 129726 129732	i-PrOH
+T2060	REAGENT_CATALYST 129752 129763	methylamine
+T2061	SOLVENT 129772 129777	water
+T2062	TIME 129838 129843	3.5 h
+T2063	TEMPERATURE 129847 129851	75°C
+T2064	TEMPERATURE 129882 129884	rt
+T2065	OTHER_COMPOUND 129929 129934	water
+T2066	OTHER_COMPOUND 129954 129957	DCM
+T2067	OTHER_COMPOUND 130001 130006	brine
+T2068	OTHER_COMPOUND 130019 130024	MgSO4
+T2069	OTHER_COMPOUND 130072 130076	TBME
+T2070	REAGENT_CATALYST 130103 130107	AcOH
+T2071	TIME 130157 130159	1h
+T2072	TEMPERATURE 130163 130165	rt
+T2073	OTHER_COMPOUND 130220 130224	TBME
+T2074	REACTION_PRODUCT 130258 130276	title intermediate
+T2075	REACTION_PRODUCT 130284 130293	AcOH salt
+T2076	YIELD_OTHER 130295 130302	15.07 g
+T2077	YIELD_PERCENT 130304 130307	38%
+T2078	EXAMPLE_LABEL 130339 130344	25.ii
+T2079	REACTION_PRODUCT 130346 130402	(1-Benzhydryl-azetidin-3-yl)-methyl-carbamic acid benzyl
+T2080	STARTING_MATERIAL 130466 130470	25.i
+T2081	REACTION_PRODUCT 130476 130490	title compound
+T2082	YIELD_OTHER 130526 130532	10.6 g
+T2083	YIELD_PERCENT 130534 130538	100%
+T2084	REACTION_PRODUCT 130578 130625	Azetidin-3-yl-methyl-carbamic acid benzyl ester
+T2085	STARTING_MATERIAL 130653 130658	25.ii
+T2086	SOLVENT 130681 130684	DCM
+T2087	TEMPERATURE 130704 130708	0 °C
+T2088	STARTING_MATERIAL 130727 130753	1-chloroethylchloroformate
+T2089	TEMPERATURE 130795 130797	rt
+T2090	TEMPERATURE 130835 130837	rt
+T2091	SOLVENT 130900 130904	MeOH
+T2092	TEMPERATURE 130928 130930	rt
+T2093	TIME 130935 130938	2 h
+T2094	OTHER_COMPOUND 131012 131014	EA
+T2095	OTHER_COMPOUND 131041 131043	EA
+T2096	REACTION_PRODUCT 131056 131074	title intermediate
+T2097	REACTION_PRODUCT 131082 131090	HCl salt
+T2098	YIELD_OTHER 131092 131098	1.36 g
+T2099	YIELD_PERCENT 131100 131103	55%
+T2100	REACTION_PRODUCT 131135 131140	25.iv
+T2101	REACTION_PRODUCT 131142 131228	[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-carbamic acid benzyl ester
+T2102	STARTING_MATERIAL 131272 131340	trifluoromethanesulfonic acid 6-methoxy-[1,5]naphthyridin-4-yl ester
+T2103	REACTION_PRODUCT 131408 131428	desired intermediate
+T2104	YIELD_OTHER 131456 131462	6.27 g
+T2105	YIELD_PERCENT 131464 131468	100%
+T2106	EXAMPLE_LABEL 131500 131504	25.v
+T2107	REACTION_PRODUCT 131506 131571	[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amine
+T2108	STARTING_MATERIAL 131628 131633	25.iv
+T2109	REACTION_PRODUCT 131639 131659	desired intermediate
+T2110	YIELD_OTHER 131697 131702	2.7 g
+T2111	YIELD_PERCENT 131704 131707	67%
+T2112	STARTING_MATERIAL 131746 131860	(R)-1-Chloro-3-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-propan-2-ol (R)-epichlorohydrin
+T2113	STARTING_MATERIAL 131930 131934	25.v
+T2114	REAGENT_CATALYST 131960 131965	MgSO4
+T2115	SOLVENT 131978 131982	MeOH
+T2116	TEMPERATURE 132021 132025	40°C
+T2117	TIME 132030 132032	6h
+T2118	OTHER_COMPOUND 132062 132064	EA
+T2119	OTHER_COMPOUND 132081 132086	water
+T2120	OTHER_COMPOUND 132121 132126	MgSO4
+T2121	REACTION_PRODUCT 132156 132174	title intermediate
+T2122	YIELD_OTHER 132200 132206	1.18 g
+T2123	YIELD_PERCENT 132208 132211	79%
+T2124	STARTING_MATERIAL 132251 132366	(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-phenyl-oxazolidin-2-one LiOtBu
+T2125	SOLVENT 132376 132379	THF
+T2126	STARTING_MATERIAL 132422 132440	intermediate 25.vi
+T2127	STARTING_MATERIAL 132465 132498	phenyl-carbamic acid benzyl ester
+T2128	REAGENT_CATALYST 132521 132524	DMF
+T2129	TEMPERATURE 132560 132562	rt
+T2130	TIME 132567 132573	1 week
+T2131	OTHER_COMPOUND 132616 132618	EA
+T2132	OTHER_COMPOUND 132632 132637	water
+T2133	OTHER_COMPOUND 132688 132691	DCM
+T2134	OTHER_COMPOUND 132692 132696	MeOH
+T2135	OTHER_COMPOUND 132697 132702	NH4OH
+T2136	REACTION_PRODUCT 132728 132742	title compound
+T2137	YIELD_OTHER 132764 132769	28 mg
+T2138	YIELD_PERCENT 132771 132778	45%).1H
+T2139	OTHER_COMPOUND 132784 132789	CDCl3
+T2140	STARTING_MATERIAL 133221 133241	carbamic acid benzyl
+T2141	REACTION_PRODUCT 133308 135193	[M+H+]26(R)-3-(4-Difluoromethoxy-phenyl)-5-({1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one33%486.227(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-(4-methyl-3-trifluoromethyl-phenyl)-oxazolidin-2-one41%502.328(R)-3-(3-Chloro-4-fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one34%472.429(R)-3-(4-Ethyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one45%448.530(R)-3-(3,4-Dimethyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one40%448.331(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-(4-propyl-phenyl)-oxazolidin-2-one38%462.132(R)-3-(3-Dimethylamino-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one30%463.233(R)-3-(4-Bromo-3-fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one23%518.034(R)-3-(3-Bromo-4-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one39%514.135(R)-3-(4-Bromo-3-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one29%514.136(R)-3-Benzothiazol-6-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one35%476.937(R)-3-Benzo[1,3]dioxol-5-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one25%464.238(R)-3-Benzothiazol-5-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one35%477.039(R)-3-(3-Fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one28%438.3
+T2142	EXAMPLE_LABEL 135202 135204	40
+T2143	REACTION_PRODUCT 135206 135339	1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidine-3-carboxylic acid [(R)-3-(3-fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-ylmethyl]-amide
+T2144	REACTION_PRODUCT 135346 135439	[(R)-3-(3-Fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-ylmethyl]-carbamic acid tert-butyl ester
+T2145	STARTING_MATERIAL 135483 135507	3-fluoro-4-methylaniline
+T2146	REACTION_PRODUCT 135543 135565	protected intermediate
+T2147	YIELD_PERCENT 135582 135594	quantitative
+T2148	REAGENT_CATALYST 135603 135609	LiOtBu
+T2149	SOLVENT 135619 135622	THF
+T2150	STARTING_MATERIAL 135669 135675	latter
+T2151	STARTING_MATERIAL 135698 135747	(R)-oxiranylmethyl-carbamic acid tert-butyl ester
+T2152	SOLVENT 135782 135785	DMF
+T2153	TEMPERATURE 135822 135824	rt
+T2154	OTHER_COMPOUND 135884 135886	EA
+T2155	OTHER_COMPOUND 135900 135905	water
+T2156	OTHER_COMPOUND 135956 135963	Hept-EA
+T2157	REACTION_PRODUCT 135983 136001	title intermediate
+T2158	YIELD_OTHER 136022 136028	1.32 g
+T2159	YIELD_PERCENT 136030 136033	81%
+T2160	EXAMPLE_LABEL 136065 136070	40.ii
+T2161	REACTION_PRODUCT 136072 136193	3-{[(R)-3-(3-Fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-ylmethyl]-carbamoyl}-azetidine-1-carboxylic acid tert-butyl ester
+T2162	OTHER_COMPOUND 136250 136254	40.i
+T2163	REACTION_PRODUCT 136274 136284	free amine
+T2164	YIELD_OTHER 136320 136326	300 mg
+T2165	YIELD_PERCENT 136328 136331	46%
+T2166	REACTION_PRODUCT 136387 136440	azetidine-1,3-dicarboxylic acid mono-tert-butyl ester
+T2167	REACTION_PRODUCT 136468 136486	title intermediate
+T2168	YIELD_OTHER 136504 136510	340 mg
+T2169	YIELD_PERCENT 136512 136515	94%
+T2170	EXAMPLE_LABEL 136547 136553	40.iii
+T2171	REACTION_PRODUCT 136555 136651	Azetidine-3-carboxylic acid [(R)-3-(3-fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-ylmethyl]-amide
+T2172	REACTION_PRODUCT 136719 136737	title intermediate
+T2173	YIELD_OTHER 136773 136779	192 mg
+T2174	YIELD_PERCENT 136781 136784	80%
+T2175	REACTION_PRODUCT 136816 136821	40.iv
+T2176	REACTION_PRODUCT 136823 136919	Azetidine-3-carboxylic acid [(R)-3-(3-fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-ylmethyl]-amide
+T2177	STARTING_MATERIAL 136976 136982	40.iii
+T2178	STARTING_MATERIAL 136988 137056	trifluoromethanesulfonic acid 6-methoxy-[1,5]naphthyridin-4-yl ester
+T2179	REACTION_PRODUCT 137099 137117	title intermediate
+T2180	YIELD_OTHER 137150 137155	49 mg
+T2181	YIELD_PERCENT 137157 137164	65%).1H
+T2182	OTHER_COMPOUND 137170 137175	CDCl3
+T2183	EXAMPLE_LABEL 137521 137523	41
+T2184	STARTING_MATERIAL 137525 137654	(RS)-3-(3-Fluoro-4-methyl-phenyl)-5-(2-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-ethyl)-oxazolidin-2-one
+T2185	STARTING_MATERIAL 137661 137745	(RS)-4-(tert-Butyl-dimethyl-silanyloxy)-1-(3-fluoro-4-methyl-phenylamino)-butan-2-ol
+T2186	STARTING_MATERIAL 137746 137752	LiClO4
+T2187	STARTING_MATERIAL 137798 137849	(RS)-tert-butyl-dimethyl-(2-oxiranyl-ethoxy)-silane
+T2188	SOLVENT 137926 137930	MeCN
+T2189	STARTING_MATERIAL 137940 137964	3-Fluoro-4-methylaniline
+T2190	TEMPERATURE 138024 138029	50 °C
+T2191	TIME 138034 138037	5 h
+T2192	OTHER_COMPOUND 138122 138125	DCM
+T2193	OTHER_COMPOUND 138126 138130	MeOH
+T2194	OTHER_COMPOUND 138131 138136	NH4OH
+T2195	REACTION_PRODUCT 138162 138180	title intermediate
+T2196	YIELD_OTHER 138195 138201	5.56 g
+T2197	YIELD_PERCENT 138203 138206	86%
+T2198	REACTION_PRODUCT 138245 138340	(RS)-5-[2-(tert-Butyl-dimethyl-silanyloxy)-ethyl]-3-(3-fluoro-4-methyl-phenyl)-oxazolidin-2-one
+T2199	REACTION_PRODUCT 138407 138425	title intermediate
+T2200	YIELD_OTHER 138459 138465	1.22 g
+T2201	YIELD_PERCENT 138467 138470	45%
+T2202	STARTING_MATERIAL 138510 138580	(RS)-3-(3-Fluoro-4-methyl-phenyl)-5-(2-hydroxy-ethyl)-oxazolidin-2-one
+T2203	STARTING_MATERIAL 138608 138613	41.ii
+T2204	SOLVENT 138638 138641	THF
+T2205	REAGENT_CATALYST 138666 138670	TBAF
+T2206	SOLVENT 138687 138690	THF
+T2207	TEMPERATURE 138728 138731	0°C
+T2208	TIME 138736 138738	2h
+T2209	OTHER_COMPOUND 138752 138757	water
+T2210	OTHER_COMPOUND 138762 138764	EA
+T2211	OTHER_COMPOUND 138810 138812	EA
+T2212	OTHER_COMPOUND 138856 138861	brine
+T2213	OTHER_COMPOUND 138874 138879	MgSO4
+T2214	OTHER_COMPOUND 138963 138980	EA-DCM-MeOH-ether
+T2215	REACTION_PRODUCT 138995 139013	title intermediate
+T2216	YIELD_OTHER 139034 139040	478 mg
+T2217	YIELD_PERCENT 139042 139045	59%
+T2218	STARTING_MATERIAL 139086 139178	(RS)-Methanesulfonic acid 2-[3-(3-fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-yl]-ethyl ester
+T2219	STARTING_MATERIAL 139179 139183	MsCl
+T2220	STARTING_MATERIAL 139264 139270	41.iii
+T2221	SOLVENT 139304 139307	DCM
+T2222	REAGENT_CATALYST 139320 139325	DIPEA
+T2223	TEMPERATURE 139384 139387	0°C
+T2224	TIME 139392 139394	1h
+T2225	OTHER_COMPOUND 139396 139401	Water
+T2226	OTHER_COMPOUND 139447 139450	DCM
+T2227	OTHER_COMPOUND 139497 139502	water
+T2228	OTHER_COMPOUND 139543 139546	DCM
+T2229	OTHER_COMPOUND 139547 139551	MeOH
+T2230	OTHER_COMPOUND 139552 139557	NH4OH
+T2231	REACTION_PRODUCT 139583 139601	title intermediate
+T2232	YIELD_OTHER 139618 139624	600 mg
+T2233	YIELD_PERCENT 139626 139629	96%
+T2234	EXAMPLE_LABEL 139661 139665	41.v
+T2235	REACTION_PRODUCT 139667 139796	(RS)-3-(3-Fluoro-4-methyl-phenyl)-5-(2-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-ethyl)-oxazolidin-2-one
+T2236	STARTING_MATERIAL 139853 139857	1.ii
+T2237	STARTING_MATERIAL 139863 139875	intermediate
+T2238	REACTION_PRODUCT 139888 139902	title compound
+T2239	YIELD_OTHER 139936 139941	34 mg
+T2240	YIELD_PERCENT 139943 139950	18%).1H
+T2241	OTHER_COMPOUND 139956 139961	CDCl3
+T2242	EXAMPLE_LABEL 140319 140321	42
+T2243	REACTION_PRODUCT 140323 140470	6-[(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-pyrido[3,2-b][1,4]oxazin-3-one 42.i
+T2244	REACTION_PRODUCT 140472 140591	((S)-2-Hydroxy-3-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-propyl)-carbamic acid benzyl ester
+T2245	OTHER_COMPOUND 140648 140652	25.v
+T2246	STARTING_MATERIAL 140658 140703	(S)-oxiranylmethyl-carbamic acid benzyl ester
+T2247	REACTION_PRODUCT 140722 140736	title compound
+T2248	YIELD_OTHER 140765 140771	1.06 g
+T2249	YIELD_PERCENT 140773 140776	53%
+T2250	STARTING_MATERIAL 140815 140914	(S)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one
+T2251	SOLVENT 140927 140938	mineral oil
+T2252	STARTING_MATERIAL 140999 141003	42.i
+T2253	SOLVENT 141028 141031	DMF
+T2254	TEMPERATURE 141071 141073	rt
+T2255	TIME 141078 141080	2h
+T2256	OTHER_COMPOUND 141082 141087	Water
+T2257	OTHER_COMPOUND 141133 141135	EA
+T2258	OTHER_COMPOUND 141179 141184	water
+T2259	OTHER_COMPOUND 141189 141194	brine
+T2260	OTHER_COMPOUND 141207 141212	MgSO4
+T2261	OTHER_COMPOUND 141263 141266	DCM
+T2262	OTHER_COMPOUND 141267 141271	MeOH
+T2263	OTHER_COMPOUND 141272 141277	NH4OH
+T2264	REACTION_PRODUCT 141303 141321	title intermediate
+T2265	YIELD_OTHER 141338 141344	0.25 g
+T2266	YIELD_PERCENT 141346 141349	31%
+T2267	STARTING_MATERIAL 141389 141531	6-[(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-pyrido[3,2-b][1,4]oxazin-3-one
+T2268	STARTING_MATERIAL 141588 141593	42.ii
+T2269	STARTING_MATERIAL 141599 141632	6-bromo-4H-benzo[1,4]oxazin-3-one
+T2270	REACTION_PRODUCT 141675 141689	title compound
+T2271	YIELD_OTHER 141725 141730	21 mg
+T2272	YIELD_PERCENT 141732 141739	29%).1H
+T2273	OTHER_COMPOUND 141745 141752	DMSO-d6
+T2274	EXAMPLE_LABEL 142076 142078	43
+T2275	REACTION_PRODUCT 142080 142229	(R)-3-(6,7-Dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one
+T2276	STARTING_MATERIAL 142286 142291	42.ii
+T2277	STARTING_MATERIAL 142297 142347	3-chloro-6,7-dihydro-[1,4]dioxino[2,3-c]pyridazine
+T2278	REACTION_PRODUCT 142366 142380	title compound
+T2279	YIELD_OTHER 142410 142415	10 mg
+T2280	YIELD_PERCENT 142417 142424	24%).1H
+T2281	OTHER_COMPOUND 142430 142435	CDCl3
+T2282	OTHER_COMPOUND 142726 142853	(R)-3-(3-Fluoro-4-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-oxazolidin-2-one
+T2283	REACTION_PRODUCT 142945 142959	title compound
+T2284	YIELD_OTHER 142989 142994	36 mg
+T2285	YIELD_PERCENT 142996 143003	28%).1H
+T2286	OTHER_COMPOUND 143009 143014	CDCl3
+T2287	EXAMPLE_LABEL 143384 143386	45
+T2288	REACTION_PRODUCT 143388 143536	7-Fluoro-6-((R)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one 45.i
+T2289	REACTION_PRODUCT 143538 143608	6-(3-Chloro-2-hydroxy-propylamino)-7-fluoro-4H-benzo[1,4]thiazin-3-one
+T2290	STARTING_MATERIAL 143624 143667	6-amino-7-fluoro-4H-benzo[1,4]thiazin-3-one
+T2291	STARTING_MATERIAL 143744 143763	(S)-epichlorohydrin
+T2292	SOLVENT 143785 143789	EtOH
+T2293	SOLVENT 143790 143793	H2O
+T2294	TEMPERATURE 143821 143825	80°C
+T2295	TIME 143830 143833	3 d
+T2296	OTHER_COMPOUND 143923 143927	MeOH
+T2297	YIELD_OTHER 143951 143956	0.83g
+T2298	YIELD_PERCENT 143958 143961	57%
+T2299	EXAMPLE_LABEL 143993 143997	45.i
+T2300	REACTION_PRODUCT 144000 144076	6-(5-Chloromethyl-2-oxo-oxazolidin-3-yl)-7-fluoro-4H-benzo[1,4]thiazin-3-one
+T2301	STARTING_MATERIAL 144105 144109	45.i
+T2302	SOLVENT 144130 144133	THF
+T2303	REAGENT_CATALYST 144159 144162	CDI
+T2304	TEMPERATURE 144206 144210	50°C
+T2305	TIME 144215 144218	3 d
+T2306	REAGENT_CATALYST 144220 144223	NaH
+T2307	TEMPERATURE 144269 144273	50°C
+T2308	TIME 144278 144280	1h
+T2309	OTHER_COMPOUND 144318 144320	EA
+T2310	OTHER_COMPOUND 144325 144330	water
+T2311	OTHER_COMPOUND 144366 144371	water
+T2312	OTHER_COMPOUND 144376 144381	brine
+T2313	OTHER_COMPOUND 144394 144399	MgSO4
+T2314	OTHER_COMPOUND 144450 144452	EA
+T2315	OTHER_COMPOUND 144453 144457	MeOH
+T2316	REACTION_PRODUCT 144481 144499	title intermediate
+T2317	YIELD_OTHER 144501 144506	0.38g
+T2318	YIELD_PERCENT 144508 144511	60%
+T2319	EXAMPLE_LABEL 144549 144555	45.iii
+T2320	REACTION_PRODUCT 144557 144631	6-(5-Iodomethyl-2-oxo-oxazolidin-3-yl)-7-fluoro-4H-benzo[1,4]thiazin-3-one
+T2321	STARTING_MATERIAL 144674 144679	45.ii
+T2322	REAGENT_CATALYST 144702 144712	2-butanone
+T2323	REAGENT_CATALYST 144737 144740	NaI
+T2324	TEMPERATURE 144782 144788	reflux
+T2325	TIME 144793 144796	2 d
+T2326	OTHER_COMPOUND 144837 144842	water
+T2327	OTHER_COMPOUND 144896 144898	EA
+T2328	OTHER_COMPOUND 144900 144902	EA
+T2329	OTHER_COMPOUND 144903 144907	MeOH
+T2330	REACTION_PRODUCT 144926 144946	desired intermediate
+T2331	YIELD_OTHER 144948 144953	0.38g
+T2332	YIELD_PERCENT 144955 144958	80%
+T2333	STARTING_MATERIAL 145020 145163	7-Fluoro-6-((R)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T2334	STARTING_MATERIAL 145177 145183	45.iii
+T2335	STARTING_MATERIAL 145222 145226	3.ii
+T2336	REACTION_PRODUCT 145289 145302	title product
+T2337	OTHER_COMPOUND 145326 145328	EA
+T2338	OTHER_COMPOUND 145329 145333	MeOH
+T2339	YIELD_OTHER 145363 145368	0.03g
+T2340	YIELD_PERCENT 145370 145373	20%
+T2341	EXAMPLE_LABEL 145419 145421	46
+T2342	REACTION_PRODUCT 145423 145538	6-((R)-5-{[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one
+T2343	STARTING_MATERIAL 145595 145599	7.ii
+T2344	REACTION_PRODUCT 145628 145642	title compound
+T2345	YIELD_OTHER 145674 145679	21 mg
+T2346	YIELD_PERCENT 145681 145688	10%).1H
+T2347	OTHER_COMPOUND 145694 145701	DMSO-d6
+T2348	EXAMPLE_LABEL 145961 145963	47
+T2349	REACTION_PRODUCT 145965 146086	6-((R)-5-{[1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one 47.i
+T2350	REACTION_PRODUCT 146088 146134	1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylamine
+T2351	STARTING_MATERIAL 146149 146175	5-bromo-3-methoxyquinoline
+T2352	STARTING_MATERIAL 146197 146237	azetidin-3-yl-carbamic acid benzyl ester
+T2353	REACTION_PRODUCT 146255 146269	title compound
+T2354	YIELD_OTHER 146373 146379	122 mg
+T2355	YIELD_PERCENT 146381 146384	63%
+T2356	EXAMPLE_LABEL 146431 146436	47.ii
+T2357	REACTION_PRODUCT 146438 146554	6-((R)-5-{[1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T2358	STARTING_MATERIAL 146611 146615	47.i
+T2359	REACTION_PRODUCT 146643 146657	title compound
+T2360	YIELD_OTHER 146695 146700	20 mg
+T2361	YIELD_PERCENT 146702 146709	16%).1H
+T2362	OTHER_COMPOUND 146715 146720	CDCl3
+T2363	REACTION_PRODUCT 147040 147161	6-((R)-5-{[1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one 48.i
+T2364	REACTION_PRODUCT 147163 147248	6-[(R)-5-(Azetidin-3-ylaminomethyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T2365	REACTION_PRODUCT 147263 147315	3-amino-azetidine-1-carboxylic acid tert-butyl ester
+T2366	REACTION_PRODUCT 147355 147369	title compound
+T2367	YIELD_OTHER 147473 147479	980 mg
+T2368	YIELD_PERCENT 147481 147484	25%
+T2369	EXAMPLE_LABEL 147531 147536	48.ii
+T2370	OTHER_COMPOUND 147538 147654	6-((R)-5-{[1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T2371	STARTING_MATERIAL 147711 147715	48.i
+T2372	STARTING_MATERIAL 147721 147747	8-bromo-2-methoxyquinoline
+T2373	REACTION_PRODUCT 147769 147783	title compound
+T2374	YIELD_OTHER 147821 147826	43 mg
+T2375	YIELD_PERCENT 147828 147835	23%).1H
+T2376	OTHER_COMPOUND 147841 147846	CDCl3
+T2377	EXAMPLE_LABEL 148180 148182	49
+T2378	REACTION_PRODUCT 148184 148309	6-((R)-5-{[1-(7-Fluoro-2-methoxy-quinolin-8-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T2379	STARTING_MATERIAL 148366 148370	48.i
+T2380	STARTING_MATERIAL 148376 148411	8-bromo-7-fluoro-2-methoxyquinoline
+T2381	REACTION_PRODUCT 148433 148447	title compound
+T2382	YIELD_OTHER 148483 148488	33 mg
+T2383	YIELD_PERCENT 148490 148493	16%
+T2384	OTHER_COMPOUND 148537 148652	6-((R)-5-{[1-(6-Fluoro-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T2385	OTHER_COMPOUND 148709 148713	48.i
+T2386	STARTING_MATERIAL 148719 148744	4-bromo-6-fluoroquinoline
+T2387	REACTION_PRODUCT 148762 148776	title compound
+T2388	YIELD_OTHER 148814 148819	26 mg
+T2389	YIELD_PERCENT 148821 148827	9%).1H
+T2390	OTHER_COMPOUND 148833 148838	CDCl3
+T2391	EXAMPLE_LABEL 149226 149228	51
+T2392	REACTION_PRODUCT 149230 149364	4-(3-{[(R)-2-Oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-ylmethyl]-amino}-azetidin-1-yl)-quinoline-6-carbonitrile
+T2393	STARTING_MATERIAL 149421 149425	48.i
+T2394	STARTING_MATERIAL 149431 149455	4-bromo-6-cyanoquinoline
+T2395	REACTION_PRODUCT 149473 149487	title compound
+T2396	YIELD_OTHER 149525 149530	63 mg
+T2397	YIELD_PERCENT 149532 149535	22%
+T2398	EXAMPLE_LABEL 149575 149577	52
+T2399	REACTION_PRODUCT 149579 149709	6-[(R)-5-({[1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one 52.i
+T2400	REACTION_PRODUCT 149711 149808	6-((R)-5-{[(Azetidin-3-ylmethyl)-amino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one
+T2401	REACTION_PRODUCT 149823 149881	3-aminomethyl-azetidine-1-carboxylic acid tert-butyl ester
+T2402	REACTION_PRODUCT 149912 149915	6.v
+T2403	REACTION_PRODUCT 149921 149935	title compound
+T2404	YIELD_OTHER 150039 150045	338 mg
+T2405	YIELD_PERCENT 150047 150050	20%
+T2406	EXAMPLE_LABEL 150097 150102	52.ii
+T2407	REACTION_PRODUCT 150104 150229	6-[(R)-5-({[1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T2408	STARTING_MATERIAL 150296 150322	8-bromo-2-methoxyquinoline
+T2409	REACTION_PRODUCT 150344 150358	title compound
+T2410	YIELD_OTHER 150391 150395	5 mg
+T2411	YIELD_PERCENT 150397 150399	3%
+T2412	EXAMPLE_LABEL 150439 150441	53
+T2413	REACTION_PRODUCT 150443 150568	6-[(R)-5-({[1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T2414	STARTING_MATERIAL 150635 150661	5-bromo-3-methoxyquinoline
+T2415	REACTION_PRODUCT 150683 150697	title compound
+T2416	YIELD_OTHER 150730 150735	13 mg
+T2417	YIELD_PERCENT 150737 150739	8%
+T2418	EXAMPLE_LABEL 150789 150790	8
+T2419	REACTION_PRODUCT 150792 150923	(R)-5-{[(S)-1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-3-(4-methoxy-phenyl)-oxazolidin-2-one RE8.i
+T2420	REACTION_PRODUCT 150925 150982	(S)-5-Hydroxymethyl-3-(4-methoxy-phenyl)-oxazolidin-2-one
+T2421	STARTING_MATERIAL 150997 151042	(4-methoxy-phenyl)-carbamic acid benzyl ester
+T2422	STARTING_MATERIAL 151058 151075	4-methoxy-aniline
+T2423	STARTING_MATERIAL 151080 151085	CbzCl
+T2424	STARTING_MATERIAL 151116 151137	(S)-glycidyl butyrate
+T2425	REACTION_PRODUCT 151224 151238	title compound
+T2426	YIELD_OTHER 151269 151275	469 mg
+T2427	YIELD_PERCENT 151277 151280	54%
+T2428	REACTION_PRODUCT 151320 151393	Methanesulfonic acid (S)-3-(4-methoxy-phenyl)-2-oxo-oxazolidin-5-ylmethyl
+T2429	STARTING_MATERIAL 151427 151432	RE8.i
+T2430	SOLVENT 151467 151470	DCM
+T2431	REAGENT_CATALYST 151482 151487	DIPEA
+T2432	TEMPERATURE 151523 151526	0°C
+T2433	REAGENT_CATALYST 151531 151536	Ms-Cl
+T2434	TEMPERATURE 151615 151618	0°C
+T2435	TIME 151623 151625	1h
+T2436	OTHER_COMPOUND 151627 151632	Water
+T2437	OTHER_COMPOUND 151678 151681	DCM
+T2438	OTHER_COMPOUND 151728 151733	water
+T2439	OTHER_COMPOUND 151774 151776	EA
+T2440	OTHER_COMPOUND 151777 151782	ether
+T2441	REACTION_PRODUCT 151797 151815	title intermediate
+T2442	YIELD_OTHER 151833 151839	426 mg
+T2443	YIELD_PERCENT 151841 151844	69%
+T2444	STARTING_MATERIAL 151885 152010	(R)-5-{[(S)-1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-3-(4-methoxy-phenyl)-oxazolidin-2-one
+T2445	REACTION_PRODUCT 152079 152085	RE6.ii
+T2446	REACTION_PRODUCT 152091 152105	title compound
+T2447	YIELD_OTHER 152143 152148	56 mg
+T2448	YIELD_PERCENT 152150 152153	42%
+T2449	EXAMPLE_LABEL 152203 152204	9
+T2450	REACTION_PRODUCT 152206 152336	(R)-3-(4-Ethoxy-phenyl)-5-{[(S)-1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-oxazolidin-2-one RE9.i
+T2451	REACTION_PRODUCT 152338 152410	Methanesulfonic acid (S)-3-(4-ethoxy-phenyl)-2-oxo-oxazolidin-5-ylmethyl
+T2452	STARTING_MATERIAL 152511 152555	(4-ethoxy-phenyl)-carbamic acid benzyl ester
+T2453	STARTING_MATERIAL 152571 152587	4-ethoxy-aniline
+T2454	OTHER_COMPOUND 152592 152597	CbzCl
+T2455	REACTION_PRODUCT 152628 152646	title intermediate
+T2456	YIELD_OTHER 152677 152683	489 mg
+T2457	YIELD_PERCENT 152685 152688	78%
+T2458	OTHER_COMPOUND 152728 152852	(R)-3-(4-Ethoxy-phenyl)-5-{[(S)-1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-oxazolidin-2-one
+T2459	OTHER_COMPOUND 152896 152901	RE9.i
+T2460	OTHER_COMPOUND 152920 152926	RE6.ii
+T2461	REACTION_PRODUCT 152932 152946	title compound
+T2462	YIELD_OTHER 152984 152989	62 mg
+T2463	YIELD_PERCENT 152991 152994	45%
+T2464	EXAMPLE_LABEL 153044 153046	10
+T2465	REACTION_PRODUCT 153048 153188	(R)-3-(4-Difluoromethoxy-phenyl)-5-{[(S)-1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-oxazolidin-2-one RE10.i
+T2466	REACTION_PRODUCT 153190 153277	Methanesulfonic acid (S)-3-(4-difluoromethoxy-phenyl)-2-oxo-oxazolidin-5-ylmethyl ester
+T2467	STARTING_MATERIAL 153323 153329	RE8.ii
+T2468	REACTION_PRODUCT 153372 153425	(4-difluoromethoxy-phenyl)-carbamic acid benzyl ester
+T2469	STARTING_MATERIAL 153441 153466	4-difluoromethoxy-aniline
+T2470	REAGENT_CATALYST 153471 153476	CbzCl
+T2471	REACTION_PRODUCT 153507 153525	title intermediate
+T2472	YIELD_OTHER 153558 153564	293 mg
+T2473	YIELD_PERCENT 153566 153569	68%
+T2474	REACTION_PRODUCT 153601 153608	RE10.ii
+T2475	REACTION_PRODUCT 153610 153743	(R)-3-(4-Difluoromethoxy-phenyl)-5-{[(S)-1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-pyrrolidin-3-ylamino]-methyl}-oxazolidin-2-one
+T2476	STARTING_MATERIAL 153787 153793	RE10.i
+T2477	STARTING_MATERIAL 153812 153818	RE6.ii
+T2478	REACTION_PRODUCT 153824 153838	title compound
+T2479	YIELD_OTHER 153876 153881	23 mg
+T2480	YIELD_PERCENT 153883 153886	16%
+T2481	EXAMPLE_LABEL 153926 153928	54
+T2482	REACTION_PRODUCT 153930 154040	(R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-3-(4-methoxy-phenyl)-oxazolidin-2-one
+T2483	REACTION_PRODUCT 154084 154090	RE8.ii
+T2484	OTHER_COMPOUND 154109 154113	8.ii
+T2485	REACTION_PRODUCT 154119 154133	title compound
+T2486	YIELD_OTHER 154171 154176	43 mg
+T2487	YIELD_PERCENT 154178 154181	33%
+T2488	EXAMPLE_LABEL 154221 154223	55
+T2489	REACTION_PRODUCT 154225 154334	(R)-3-(4-Ethoxy-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one
+T2490	STARTING_MATERIAL 154378 154383	RE9.i
+T2491	REACTION_PRODUCT 154402 154406	8.ii
+T2492	REACTION_PRODUCT 154412 154426	title compound
+T2493	YIELD_OTHER 154462 154467	30 mg
+T2494	YIELD_PERCENT 154469 154472	22%
+T2495	EXAMPLE_LABEL 154512 154514	56
+T2496	REACTION_PRODUCT 154516 154634	(R)-3-(4-Difluoromethoxy-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one
+T2497	STARTING_MATERIAL 154678 154684	RE10.i
+T2498	REACTION_PRODUCT 154690 154707	intermediate 8.ii
+T2499	REACTION_PRODUCT 154713 154727	title compound
+T2500	YIELD_OTHER 154763 154768	22 mg
+T2501	YIELD_PERCENT 154770 154773	18%
+T2502	EXAMPLE_LABEL 154813 154815	57
+T2503	OTHER_COMPOUND 154817 154942	6-[(R)-5-({[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T2504	STARTING_MATERIAL 155009 155036	4-chloro-6-methoxyquinoline
+T2505	REACTION_PRODUCT 155054 155068	title compound
+T2506	YIELD_OTHER 155106 155110	3 mg
+T2507	YIELD_PERCENT 155112 155114	3%
+T2508	OTHER_COMPOUND 155612 155626	Mueller-Hinton
+T2509	REACTION_PRODUCT 156617 156619	IN
+T2510	OTHER_COMPOUND 156900 156902	CH
+T2511	OTHER_COMPOUND 157215 157221	CH2CH2
+T2512	OTHER_COMPOUND 157225 157227	CO
+T2513	OTHER_COMPOUND 157284 157296	(C1-C4)alkyl
+T2514	OTHER_COMPOUND 157392 157395	CH2
+T2515	OTHER_COMPOUND 157536 157548	(C1-C4)alkyl
+T2516	OTHER_COMPOUND 157552 157564	(C2-C4)alkyl
+T2517	OTHER_COMPOUND 157602 157609	hydroxy
+T2518	OTHER_COMPOUND 157665 157671	phenyl
+T2519	OTHER_COMPOUND 157852 157864	(C1-C4)alkyl
+T2520	OTHER_COMPOUND 157908 157913	cyano
+T2521	OTHER_COMPOUND 157915 157922	halogen
+T2522	OTHER_COMPOUND 157952 157964	pyridin-2-yl
+T2523	OTHER_COMPOUND 158071 158083	(C1-C4)alkyl
+T2524	OTHER_COMPOUND 158327 158328	O
+T2525	OTHER_COMPOUND 158374 158386	(C1-C4)alkyl
+T2526	OTHER_COMPOUND 158409 158417	nitrogen
+T2527	OTHER_COMPOUND 158443 158459	pyrrolidine ring
+T2528	OTHER_COMPOUND 158514 158516	IN
+T2529	OTHER_COMPOUND 158586 158588	CH
+T2530	OTHER_COMPOUND 158603 158615	*-CH2-N(Rf)-
+T2531	OTHER_COMPOUND 158698 158704	CH2CH2
+T2532	OTHER_COMPOUND 158767 158779	(C1-C4)alkyl
+T2533	OTHER_COMPOUND 158840 158842	CH
+T2534	OTHER_COMPOUND 158857 158860	NRg
+T2535	OTHER_COMPOUND 158888 158890	CO
+T2536	OTHER_COMPOUND 159016 159017	H
+T2537	OTHER_COMPOUND 159019 159031	(C1-C4)alkyl
+T2538	OTHER_COMPOUND 159109 159115	phenyl
+T2539	OTHER_COMPOUND 159296 159308	(C1-C4)alkyl
+T2540	OTHER_COMPOUND 159352 159357	cyano
+T2541	OTHER_COMPOUND 159396 159408	pyridin-2-yl
+T2542	OTHER_COMPOUND 159515 159527	(C1-C4)alkyl
+T2543	OTHER_COMPOUND 159560 159605	6,7-dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl
+T2544	OTHER_COMPOUND 159739 159740	O
+T2545	REACTION_PRODUCT 159800 159802	IN
+T2546	OTHER_COMPOUND 159863 159868	IN-P1
+T2547	OTHER_COMPOUND 159901 159908	halogen
+T2548	OTHER_COMPOUND 159932 159934	U,
+T2549	OTHER_COMPOUND 160061 160070	halogen;A
+T2550	OTHER_COMPOUND 160082 160083	N
+T2551	OTHER_COMPOUND 160098 160100	CH
+T2552	OTHER_COMPOUND 160209 160211	CO
+T2553	OTHER_COMPOUND 160303 160309	phenyl
+T2554	OTHER_COMPOUND 160519 160544	fluoroalkyl, fluoroalkoxy
+T2555	OTHER_COMPOUND 160546 160551	cyano
+T2556	OTHER_COMPOUND 160553 160560	halogen
+T2557	OTHER_COMPOUND 160565 160573	-NRN1RN2
+T2558	OTHER_COMPOUND 160590 160602	pyridin-2-yl
+T2559	OTHER_COMPOUND 160842 160843	O
+T2560	OTHER_COMPOUND 160889 160901	(C1-C4)alkyl
+T2561	OTHER_COMPOUND 160924 160932	nitrogen
+T2562	OTHER_COMPOUND 160958 160969	pyrrolidine
+T2563	OTHER_COMPOUND 161029 161031	IN
+T2564	OTHER_COMPOUND 161196 161204	hydrogen
+T2565	OTHER_COMPOUND 161208 161216	fluorine
+T2566	OTHER_COMPOUND 161271 161273	IN
+T2567	OTHER_COMPOUND 161452 161458	CH2CH2
+T2568	OTHER_COMPOUND 161462 161464	CO
+T2569	OTHER_COMPOUND 161516 161517	H
+T2570	OTHER_COMPOUND 161521 161533	(C1-C4)alkyl
+T2571	OTHER_COMPOUND 161594 161596	CH
+T2572	OTHER_COMPOUND 161611 161614	NRg
+T2573	OTHER_COMPOUND 161634 161640	CH2CH2
+T2574	OTHER_COMPOUND 161644 161646	CO
+T2575	OTHER_COMPOUND 161701 161713	(C1-C4)alkyl
+T2576	OTHER_COMPOUND 161717 161731	2-hydroxyethyl
+T2577	OTHER_COMPOUND 161828 161830	IN
+T2578	OTHER_COMPOUND 161966 161968	IN
+T2579	OTHER_COMPOUND 162030 162036	phenyl
+T2580	OTHER_COMPOUND 162197 162209	(C1-C3)alkyl
+T2581	OTHER_COMPOUND 162239 162251	fluoroalkoxy
+T2582	OTHER_COMPOUND 162318 162320	IN
+T2583	OTHER_COMPOUND 162390 162435	6,7-dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl
+T2584	OTHER_COMPOUND 162570 162571	S
+T2585	OTHER_COMPOUND 162626 162628	IN
+T2586	REACTION_PRODUCT 162698 162872	2,3-dihydro-benzo[1,4]dioxin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]oxazin-6-yl, 3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl, 3-oxo-3,4-dihydro-2H-pyrido[3,2-b][1,4]oxazin-6-yl
+T2587	REACTION_PRODUCT 162953 162960	formula
+T2588	REACTION_PRODUCT 162962 162964	IN
+T2589	REACTION_PRODUCT 163036 170199	(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-oxazolidin-2-one;(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amide;6-((R)-5-{1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;(R)-5-{[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-3-(3-fluoro-4-methyl-phenyl)-oxazolidin-2-one;(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;6-((R)-5-{1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;(R)-3-(3-Fluoro-4-methyl-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;(R)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;6-((R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;6-((R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinazolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-[(R)-5-({1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;6-((S)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-(5-{2-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-ethyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-[(S)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;N-[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-2-[(R)-2-oxo-3-(3-oxy-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-yl]-acetamide;(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-amide;(S)-3-(2,3-Dihydro-benzo[1,4]dioxin-6-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-methyl-amino}-methyl)-oxazolidin-2-one;6-[(R)-5-({[1-(3-Fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]oxazin-3-one;6-[(R)-5-({(2-Hydroxy-ethyl)-[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;(S)-3-(3-Fluoro-4-methyl-phenyl)-2-oxo-oxazolidine-5-carboxylic acid [1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amide;6-((R)-5-{[1-(6-Methoxy-2-methyl-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-phenyl-oxazolidin-2-one;(R)-3-(4-Difluoromethoxy-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-(4-methyl-3-trifluoromethyl-phenyl)-oxazolidin-2-one;(R)-3-(3-Chloro-4-fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(4-Ethyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3,4-Dimethyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-3-(4-propyl-phenyl)-oxazolidin-2-one;(R)-3-(3-Dimethylamino-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(4-Bromo-3-fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3-Bromo-4-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(4-Bromo-3-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-Benzothiazol-6-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-Benzo[1,3]dioxol-5-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-Benzothiazol-5-yl-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3-Fluoro-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidine-3-carboxylic acid [(R)-3-(3-fluoro-4-methyl-phenyl)-2-oxo-oxazolidin-5-ylmethyl]-amide;3-(3-Fluoro-4-methyl-phenyl)-5-(2-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-ethyl)-oxazolidin-2-one;6-[(R)-5-({[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-pyrido[3,2-b][1,4]oxazin-3-one;(R)-3-(6,7-Dihydro-[1,4]dioxino[2,3-c]pyridazin-3-yl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-yl]-methyl-amino}-methyl)-oxazolidin-2-one;(R)-3-(3-Fluoro-4-methyl-phenyl)-5-({[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-oxazolidin-2-one;7-Fluoro-6-((R)-5-{[1-(3-fluoro-6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]oxazin-3-one;6-((R)-5-{[1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo [1,4]thiazin-3-one;6-((R)-5-{[1-(7-Fluoro-2-methoxy-quinolin-8-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;6-((R)-5-{[1-(6-Fluoro-quinolin-4-yl)-azetidin-3-ylamino]-methyl}-2-oxo-oxazolidin-3-yl)-4H-benzo[1,4]thiazin-3-one;4-(3-{[(R)-2-Oxo-3-(3-oxo-3,4-dihydro-2H-benzo[1,4]thiazin-6-yl)-oxazolidin-5-ylmethyl]-amino}-azetidin-1-yl)-quinoline-6-carbonitrile;6-[(R)-5-({[1-(2-Methoxy-quinolin-8-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;6-[(R)-5-({[1-(3-Methoxy-quinolin-5-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one;(R)-5-{[1-(6-Methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-3-(4-methoxy-phenyl)-oxazolidin-2-one;(R)-3-(4-Ethoxy-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one;(R)-3-(4-Difluoromethoxy-phenyl)-5-{[1-(6-methoxy-[1,5]naphthyridin-4-yl)-azetidin-3-ylamino]-methyl}-oxazolidin-2-one
+T2590	REACTION_PRODUCT 170201 170329	and6-[(R)-5-({[1-(6-Methoxy-quinolin-4-yl)-azetidin-3-ylmethyl]-amino}-methyl)-2-oxo-oxazolidin-3-yl]-4H-benzo[1,4]thiazin-3-one
+T2591	REACTION_PRODUCT 170401 170403	IN
+T2592	OTHER_COMPOUND 170559 170561	IN
+T2593	OTHER_COMPOUND 170712 170714	IN
+T2594	OTHER_COMPOUND 170904 170906	IN

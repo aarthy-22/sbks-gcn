@@ -1,0 +1,6 @@
+Binding between proteins and cationic spherical polyelectrolyte brushes: effect of pH, ionic strength, and stoichiometry.
+Cationic spherical polyelectrolyte brushes (SPBs) were synthesized by photoemulsion polymerization, consisting of a polystyrene core with a diameter around 80 nm and a poly(2-aminoethylmethacrylate hydrochloride) (PAEMH) shell with a thickness from 10 to 50 nm densely grafted on the core surface.
+The binding of various proteins onto SPBs was observed by turbidimetric titration, dynamic light scattering (DLS), zeta potential, and isothermal titration calorimetry (ITC).
+The binding, aggregation, and releasing of proteins by SPB can be tuned by modulating pH. The pH regions of binding for bovine serum albumin (BSA), β-lactoglobulin (BLG), and papain onto SPBs are markedly different and tunable by ionic strength and stoichiometry between protein and SPB.
+Binding energetics, affinity, and amount of various proteins onto cationic SPBs were determined by ITC.
+These findings lay the foundation for SPB applications in the protein purification and selective immobilization of different proteins, enzymes, and antibodies.

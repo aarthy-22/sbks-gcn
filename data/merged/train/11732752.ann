@@ -1,0 +1,42 @@
+T29	GENE-N 14 36	vaginal aminopeptidase
+T20	GENE-N 142 157	aminopeptidases
+T24	GENE-N 159 175	aminopeptidase N
+T11	CHEMICAL 177 184	leucine
+T27	GENE-N 177 199	leucine aminopeptidase
+T15	GENE-N 201 217	aminopeptidase A
+T17	GENE-N 222 238	aminopeptidase B
+T19	GENE-N 551 565	aminopeptidase
+T2	CHEMICAL 586 611	4-methoxy-2-naphthylamide
+T3	CHEMICAL 615 624	L-alanine
+T21	GENE-N 629 645	aminopeptidase N
+T4	CHEMICAL 647 672	4-methoxy-2-naphthylamide
+T5	CHEMICAL 676 685	L-leucine
+T6	CHEMICAL 690 697	leucine
+T22	GENE-N 690 712	leucine aminopeptidase
+T7	CHEMICAL 714 739	4-methoxy-2-naphthylamide
+T8	CHEMICAL 743 758	L-glutamic acid
+T23	GENE-N 763 779	aminopeptidase A
+T9	CHEMICAL 784 809	4-methoxy-2-naphthylamide
+T10	CHEMICAL 813 823	L-arginine
+T25	GENE-N 828 844	aminopeptidase B
+T26	GENE-N 850 872	vaginal aminopeptidase
+T28	GENE-N 971 985	aminopeptidase
+T12	CHEMICAL 1014 1022	bestatin
+T13	CHEMICAL 1027 1036	puromycin
+T14	GENE-N 1106 1120	aminopeptidase
+T1	CHEMICAL 1295 1320	4-methoxy-2-naphthylamide
+T16	GENE-N 1383 1397	aminopeptidase
+T18	GENE-N 1478 1492	aminopeptidase
+R0	CPR-9 Arg1:T3 Arg2:T21
+R1	CPR-9 Arg1:T7 Arg2:T23
+R2	CPR-9 Arg1:T9 Arg2:T25
+R3	CPR-4 Arg1:T13 Arg2:T28
+R4	NOT Arg1:T19 Arg2:T3
+R5	NOT Arg1:T19 Arg2:T4
+R6	NOT Arg1:T2 Arg2:T26
+R7	NOT Arg1:T3 Arg2:T23
+R8	NOT Arg1:T21 Arg2:T6
+R9	NOT Arg1:T21 Arg2:T7
+R10	NOT Arg1:T21 Arg2:T9
+R11	NOT Arg1:T22 Arg2:T8
+R12	NOT Arg1:T7 Arg2:T26

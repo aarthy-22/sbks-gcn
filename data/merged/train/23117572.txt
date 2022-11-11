@@ -1,0 +1,12 @@
+Sodium/iodide symporter is expressed in the majority of seminomas and embryonal testicular carcinomas.
+Testicular cancer is the most frequent cancer in young men.
+The large majority of patients have a good prognosis, but in a small group of tumors, the current treatments are not effective.
+Radioiodine is routinely used in the treatment of thyroid cancer and is currently investigated as a potential therapeutic tool even for extra-thyroid tumors able to concentrate this radioisotope.
+Expression of Na(+)/I(-) symporter (NIS (SLC5A5)), the glycoprotein responsible for iodide transport, has been demonstrated in normal testicular tissue.
+In this study, we analyzed NIS expression in a large series of testicular carcinomas.
+Our retrospective series included 107 patients operated for testicular tumors: 98 typical seminomas, six embryonal carcinomas, one mixed embryonal choriocarcinoma, and two Leydig cells tumors.
+Expression and regulation of NIS mRNA and protein levels were also investigated in human embryonal testicular carcinoma cells (NTERA) by real-time RT-PCR and western blotting respectively.
+Immunohistochemical analysis showed the presence of NIS in the large majority of seminomas (90/98) and embryonal carcinomas (5/7) of the testis but not in Leydig cell carcinomas.
+Expression of NIS protein was significantly associated with lymphovascular invasion.
+In NTERA cells treated with the histone deacetylase inhibitors SAHA and valproic acid, a significant increase in NIS mRNA (about 60- and 30-fold vs control, P<0.001 and P<0.01 respectively) and protein levels, resulting in enhanced ability to uptake radioiodine, was observed.
+Finally, NIS expression in testicular tumors with the more aggressive behavior is of interest for the potential use of targeting NIS to deliver radioiodine in malignant cells.

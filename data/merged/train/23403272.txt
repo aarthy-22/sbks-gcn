@@ -1,0 +1,11 @@
+Paeoniflorin protects human EA.hy926 endothelial cells against gamma-radiation induced oxidative injury by activating the NF-E2-related factor 2/heme oxygenase-1 pathway.
+Pulmonary endothelial cells have been demonstrated to have a critical role in the pathogenesis of radiation-induced lung injury.
+Our preliminary experiments indicated that Paeoniflorin protected human EA.hy926 endothelial cells from radiation-induced oxidative injury.
+This study was designed to confirm the protective effect of Paeoniflorin against radiation-induced endothelial cellular damage and to elucidate the underlying mechanisms.
+Preincubation of EA.hy926 cells with Paeoniflorin before γ-radiation resulted in significant inhibition of apoptosis, a decrease in mitochondrial membrane potential and enhanced cell viability.
+In particular, we showed that Paeoniflorin significantly reduced the formation of intracellular reactive oxygen species (ROS), the level of malondialdehyde (MDA) and lactate dehydrogenase (LDH) leakage, and enhanced production of the endogenous antioxidants, glutathione (GSH) and superoxide dismutase (SOD) in EA.hy926 cells.
+Treatment of these cells with Paeoniflorin significantly induced HO-1 expression.
+Moreover, Paeoniflorin promoted the nuclear translocation of nuclear factor erythroid 2 related factor-2 (Nrf-2).
+The Paeoniflorin-induced HO-1 expression was abrogated by Nrf2 siRNA.
+Furthermore, inhibition of HO-1 with zinc protoporphyrin IX (ZNPP) significantly reversed the protective effect of Paeoniflorin against radiation-induced damage in EA.hy926 cells.
+Our findings confirmed that Paeoniflorin protected EA.hy926 cells against radiation-induced injury through the Nrf2/HO-1 pathway.

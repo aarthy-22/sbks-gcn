@@ -1,0 +1,12 @@
+Ionizing radiation-inducible microRNA miR-193a-3p induces apoptosis by directly targeting Mcl-1.
+The functions of microRNAs (miRNAs) as either oncogenes or tumor suppressors in regulating cancer-related events have been established.
+We analyzed the alterations in the miRNA expression profile of the glioma cell line U-251 caused by ionizing radiation (IR) by using an miRNA array and identified several miRNAs whose expression was significantly affected by IR.
+Among the IR-responsive miRNAs, we further examined the function of miR-193a-3p, which exhibited the most significant growth-inhibiting effect.
+miR-193a-3p was observed to induce apoptosis in both U-251 and HeLa cells.
+We also demonstrated that miR-193a-3p induces the accumulation of intracellular reactive oxygen species (ROS) and DNA damage as determined by the level of γH2AX and by performing the comet assay.
+The induction of both apoptosis and DNA damage by miR-193a-3p was blocked by antioxidant treatment, indicating the crucial role of ROS in the action of miR-193a-3p.
+Among the putative target proteins, the expression of Mcl-1, an anti-apoptotic Bcl-2 family member, decreased because of miR-193a-3p transfection.
+A reporter assay using a luciferase construct containing the 3'-untranslated region of Mcl-1 confirmed that Mcl-1 is a direct target of miR-193a-3p.
+Down-regulation of Mcl-1 by siRNA transfection closely mimicked the outcome of miR-193a-3p transfection showing increased ROS, DNA damage, cytochrome c release, and apoptosis.
+Ectopic expression of Mcl-1 suppressed the pro-apoptotic action of miR-193a-3p, suggesting that Mcl-1 depletion is critical for miR-193a-3p induced apoptosis.
+Collectively, our results suggest a novel function for miR-193a-3p and its potential application in cancer therapy.

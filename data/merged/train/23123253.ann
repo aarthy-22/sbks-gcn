@@ -1,0 +1,16 @@
+T8	CHEMICAL 63 86	organophosphorothioates
+T6	CHEMICAL 106 118	chlorpyrifos
+T7	CHEMICAL 123 131	diazinon
+T1	CHEMICAL 133 148	Organophosphate
+T9	GENE-Y 330 344	cholinesterase
+T10	GENE-Y 444 465	butyrylcholinesterase
+T11	GENE-Y 467 472	BuChE
+T12	GENE-Y 478 485	albumin
+T2	CHEMICAL 529 537	fluoride
+T13	GENE-N 587 593	pepsin
+T14	GENE-N 597 604	pronase
+T15	GENE-Y 615 636	butyrylcholinesterase
+T16	GENE-Y 641 648	albumin
+T3	CHEMICAL 808 823	organophosphate
+T4	CHEMICAL 835 847	chlorpyrifos
+T5	CHEMICAL 855 863	diazinon

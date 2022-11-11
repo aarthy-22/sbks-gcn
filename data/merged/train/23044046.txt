@@ -1,0 +1,12 @@
+Angiogenesis is required for stress fracture healing in rats.
+Although angiogenesis and osteogenesis are critically linked, the importance of angiogenesis for stress fracture healing is unknown.
+In this study, mechanical loading was used to create a non-displaced stress fracture in the adult rat forelimb.
+Fumagillin, an anti-angiogenic agent, was used as the water soluble analogue TNP-470 (25mg/kg) as well as incorporated into lipid-encapsulated α(v)β(3) integrin targeted nanoparticles (0.25mg/kg).
+In the first experiment, TNP-470 was administered daily for 5 days following mechanical loading, and changes in gene expression, vascularity, and woven bone formation were quantified.
+Although no changes in vascularity were detected 3 days after loading, treatment-related downregulation of angiogenic (Pecam1) and osteogenic (Bsp, Osx) genes was observed at this early time point.
+On day 7, microCT imaging of loaded limbs revealed diminished woven bone formation in treated limbs compared to vehicle treated limbs.
+In the second experiment, α(v)β(3) integrin targeted fumagillin nanoparticles were administered as before, albeit with a 100-fold lower dose, and changes in vascularity and woven bone formation were determined.
+There were no treatment-related changes in vessel count or volume 3 days after loading, although fewer angiogenic (CD105 positive) blood vessels were present in treated limbs compared to vehicle treated limbs.
+This result manifested on day 7 as a reduction in total vascularity, as measured by histology (vessel count) and microCT (vessel volume).
+Similar to the first experiment, treated limbs had diminished woven bone formation on day 7 compared to vehicle treated limbs.
+These results indicate that angiogenesis is required for stress fracture healing, and may have implications for inducing rapid repair of stress fractures.

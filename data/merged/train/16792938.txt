@@ -1,0 +1,12 @@
+A simple phenotypic method for differentiation between acquired and chromosomal AmpC beta-lactamases in Escherichia coli.
+BACKGROUND: Screening methods for the detection of plasmid-mediated AmpC beta-lactamases are technically demanding.
+The purpose of this study was to assess screening methods for the detection of these enzymes in clinical isolates of Escherichia coli, Klebsiella pneumoniae and Proteus mirabilis.
+METHODS: Isolates were selected according to a resistance phenotype consistent with production of an AmpC-type beta-lactamase.
+Detection of acquired ampC genes was done with a multiplex ampC-PCR and sequencing.
+The phenotypic detection methods evaluated included visual examination of antibiogram plates to identify the presence of scattered colonies located near the edge of the inhibition halo of cefoxitin, cefotaxime, ceftazidime and aztreonam, and a double-disc synergy test using cloxacillin (500 mg) to inhibit AmpC enzymes.
+RESULTS: Seventy-seven isolates were selected from among 6,209 isolates recovered.
+Acquired ampC genes (blaCMY-2, blaDHA-1, blaCMY-4 and blaACC-1) were found in 19 (24.7%) of these isolates, including 14 E. coli, two K. pneumoniae and three P. mirabilis isolates.
+The differential trait for the presence of colonies in the inhibition halo was 100% sensitive and specific.
+Similar results were obtained for the cloxacillin test, except for the E. coli isolates in which specificity was 10.3%.
+CONCLUSION: The phenotypic trait described here can be considered useful for suspecting the presence of these enzymes.
+The cloxacillin test was only useful in isolates lacking a natural AmpC beta-lactamase.

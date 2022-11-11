@@ -1,0 +1,10 @@
+Cytotoxic effects of inhibitors of de novo pyrimidine biosynthesis upon Plasmodium falciparum.
+The malarial parasite Plasmodium falciparum can only synthesize pyrimidine nucleotides via the de novo pathway which is therefore a suitable target for development of antimalarial drugs.
+New assay procedures have been developed using high-pressure liquid chromatography (HPLC) which enable concurrent measurement of pyrimidine intermediates in malaria.
+Synchronized parasites growing in erythrocytes were pulse-labeled with [14C]bicarbonate at 6-h intervals around the 48-h asexual life cycle.
+Analysis of malarial extracts by HPLC showed tht incorporation of [14C]bicarbonate into pyrimidine nucleotides was maximal during the transition from trophozoites to schizonts.
+The reaction, N-carbamyl-L-aspartate-->L-dihydroorotate (CA-asp-->DHO) catalyzed by malarial dihydroorotase is inhibited by L-6-thiodihydroorotate (TDHO) in vitro (Ki = 6.5 microM), and TDHO, as the free acid or methyl ester, induces a major accumulation of CA-asp in malaria.
+Atovaquone, a naphthoquinone, is a moderate inhibitor of dihydroorotate dehydrogenase in vitro (Ki = 27 microM) but induces major accumulations of CA-asp and DHO.
+Pyrazofurin induces accumulation of orotate and orotidine in malaria, consistent with inhibition of orotidine 5'-monophosphate (OMP) decarboxylase with subsequent dephosphorylation of the OMP accumulated.
+Although TDHO, atovaquone, and pyrazofurin arrest the growth of P. falciparum, only moderate decreases in UTP, CTP, and dTTP were observed.
+5-Fluoroorotate also arrests the growth of P. falciparum with major accumulations of 5-fluorouridine mono-, di-, and triphosphates and the most significant inhibition of de novo biosynthesis of pyrimidine nucleotides.

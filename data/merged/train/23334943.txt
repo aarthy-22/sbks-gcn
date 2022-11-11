@@ -1,0 +1,15 @@
+High-grade prostate cancer and biochemical recurrence after radical prostatectomy among men using 5α-reductase inhibitors and alpha-blockers.
+BACKGROUND: Two clinical trials have shown that users of 5α-reductase inhibitors finasteride and dutasteride (5-ARIs) have reduced overall prostate cancer risk, while the proportion of high-grade tumors is increased.
+We studied tumor characteristics, risk of biochemical recurrence and mortality after radical prostatectomy in 5-ARI and alpha-blocker users.
+METHODS: The study cohort consisted of 1,315 men who underwent radical prostatectomy at the Tampere University Hospital during 1995-2009.
+Biochemical relapse was defined as serum PSA ≥ 0.2 ng/ml after the operation.
+Information on mortality and medication purchases was obtained from national registries.
+Cox proportional regression was used to analyze hazard ratios (HRs) and 95% confidence intervals (95% CI) of biochemical relapse and death.
+RESULTS: The proportion of high-grade (Gleason 7-10) tumors was significantly elevated among men who had used 5-ARIs for 4 years or longer compared to the non-users (83.3% vs. 53.3%, respectively).
+Survival curves for biochemical relapse-free survival differed between long-term and short-term 5-ARI users, but the hazard ratio remained statistically non-significant.
+Risk of biochemical recurrence was elevated among alpha-blocker users (HR 1.68, 95% CI 1.37-2.06), but in sensitivity analyses this was evident only in men using alpha-blockers after prostatectomy.
+Mortality was not associated with medication usage.
+CONCLUSIONS: Long-term users of finasteride or dutasteride had more often high-grade prostate cancer.
+Our results suggest also worse progression-free survival.
+The association between risk of biochemical recurrence and post-operative alpha-blocker usage suggests that voiding or storage symptoms after prostatectomy may predict biochemical relapse.
+Prostate © 2013 Wiley Periodicals, Inc.

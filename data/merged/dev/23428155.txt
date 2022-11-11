@@ -1,0 +1,7 @@
+Solubility-driven optimization of (pyridin-3-yl) benzoxazinyl-oxazolidinones leading to a promising antibacterial agent.
+The solubility-driven structural modification of (pyridin-3-yl) benzoxazinyl-oxazolidinones is described, which resulted in the development of a new series of benzoxazinyl-oxazolidinone analogues with high antibacterial activity against Gram-positive pathogens, including that against linezolid-resistant strains and low hERG inhibition.
+With regard to structure-activity relationship (SAR) trends among the various substituents on the pyridyl ring, relatively small and nonbasic substituents were preferable to sterically demanding or basic substituents.
+Oxazolidinone ring substitution on the pyridyl ring generated analogues with antibacterial activity superior to imidazolidinone ring.
+Solubility was enhanced by the incorporation of polar groups, especially when compounds were converted to their prodrugs.
+Among the prodrugs, compound 85 exhibited excellent solubility and a good pharmacokinetic profile.
+In a MRSA systemic infection model, compound 85 displayed an ED50 = 5.00 mg/kg, a potency that is 2-fold better than that of linezolid.

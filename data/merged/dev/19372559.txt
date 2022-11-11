@@ -1,0 +1,9 @@
+Chromatin-associated proteins HMGB1/2 and PDIA3 trigger cellular response to chemotherapy-induced DNA damage.
+The identification of new molecular components of the DNA damage signaling cascade opens novel avenues to enhance the efficacy of chemotherapeutic drugs.
+High-mobility group protein 1 (HMGB1) is a DNA damage sensor responsive to the incorporation of nonnatural nucleosides into DNA; several nuclear and cytosolic proteins are functionally integrated with HMGB1 in the context of DNA damage response.
+The functional role of HMGB1 and HMGB1-associated proteins (high-mobility group protein B2, HMGB2; glyceraldehyde-3-phosphate dehydrogenase, GAPDH; protein disulfide isomerase family A member 3, PDIA3; and heat shock 70 kDa protein 8, HSPA8) in DNA damage response was assessed in human carcinoma cells A549 and UO31 by transient knockdown with short interfering RNAs.
+Using the cell proliferation assay, we found that knockdown of HMGB1-associated proteins resulted in 8-fold to 50-fold decreased chemosensitivity of A549 cells to cytarabine.
+Western blot analysis and immunofluorescent microscopy were used to evaluate genotoxic stress markers in knocked-down cancer cells after 24 to 72 hours of incubation with 1 micromol/L of cytarabine.
+Our results dissect the roles of HMGB1-associated proteins in DNA damage response: HMGB1 and HMGB2 facilitate p53 phosphorylation after exposure to genotoxic stress, and PDIA3 has been found essential for H2AX phosphorylation (no gamma-H2AX accumulated after 24-72 hours of incubation with 1 micromol/L of cytarabine in PDIA3 knockdown cells).
+We conclude that phosphorylation of p53 and phosphorylation of H2AX occur in two distinct branches of the DNA damage response.
+These findings identify new molecular components of the DNA damage signaling cascade and provide novel promising targets for chemotherapeutic intervention.

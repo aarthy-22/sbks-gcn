@@ -1,0 +1,3 @@
+Example 1. 4-Amino-5-cyano-6-(4-oxo-2-phenyl-4H-chromen-3-yl) methylaminopyrimidine
+Step 1. Preparation of 2-Benzoyloxypropiophenone
+2-Hydroxypropiophenone (5g, 33.33mmol), benzoyl chloride (11.7g, 83.33mmol) and potassium carbonate (23g, 166.6mmol) were added to 120ml of acetone, heated to reflux in an oil bath and reacted overnight. TLC detection was performed until the completion of the reaction. After the completion of the reaction, the solvent was subjected to spin drying; water and ethyl acetate were added for extraction; extract was dried over anhydrous sodium sulfate and concentrated to give 6.5g of an oil with a yield of 76.7%.

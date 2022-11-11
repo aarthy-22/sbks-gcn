@@ -1,0 +1,14 @@
+T6	CHEMICAL 37 63	4-amino-2-phenylpyrimidine
+T13	GENE-N 96 100	PDE4
+T1	CHEMICAL 113 170	2-Phenyl-4-piperidinyl-6,7-dihydrothieno[3,4-d]pyrimidine
+T12	GENE-N 208 212	PDE4
+T7	GENE-Y 237 242	PDE4B
+T2	CHEMICAL 308 315	4-amino
+T3	CHEMICAL 348 359	pyrimidines
+T4	CHEMICAL 391 443	5,5-dioxo-7,8-dihydro-6H-thiopyrano[3,2-d]pyrimidine
+T8	GENE-Y 474 479	PDE4B
+T5	CHEMICAL 523 540	N-propylacetamide
+T9	GENE-Y 604 609	PDE4B
+T10	GENE-Y 627 632	TNF-α
+T11	GENE-Y 865 870	PDE4B
+R0	CPR-4 Arg1:T6 Arg2:T13

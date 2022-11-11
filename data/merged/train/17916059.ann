@@ -1,0 +1,18 @@
+T12	CHEMICAL 11 23	escitalopram
+T1	CHEMICAL 122 134	Escitalopram
+T6	CHEMICAL 147 175	(S)-enantiomer of citalopram
+T4	CHEMICAL 326 336	citalopram
+T5	CHEMICAL 351 360	serotonin
+T7	CHEMICAL 428 437	serotonin
+T8	CHEMICAL 564 574	citalopram
+T9	CHEMICAL 593 602	histamine
+T13	GENE-Y 593 605	histamine H1
+T14	GENE-N 610 630	muscarinic receptors
+T10	CHEMICAL 632 644	Escitalopram
+T15	GENE-N 876 879	CYP
+T16	GENE-Y 1071 1077	CYP2D6
+T11	CHEMICAL 1087 1097	metoprolol
+T2	CHEMICAL 1226 1238	escitalopram
+T3	CHEMICAL 1309 1321	Escitalopram
+R0	CPR-2 Arg1:T8 Arg2:T14
+R1	NOT Arg1:T7 Arg2:T14

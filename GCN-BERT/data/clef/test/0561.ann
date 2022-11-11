@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 5 8	1-4
+T2	REACTION_PRODUCT 25 136	{1-[6-bromo-7-chloro-3-(3-fluoro-5-methyl-phenyl)-cinnolin-4-yl]-piperidin-4-yl}-carbamic acid tert-butyl ester
+T3	STARTING_MATERIAL 138 197	6-Bromo-4,7-dichloro-3-(3-fluoro-5-methyl-phenyl)-cinnoline
+T4	STARTING_MATERIAL 219 264	piperidin-4-yl-carbamic acid tert-butyl ester
+T5	REAGENT_CATALYST 285 298	triethylamine
+T6	REAGENT_CATALYST 324 327	IPA
+T7	TIME 396 400	20 h
+T8	TEMPERATURE 404 410	130° C
+T9	TEMPERATURE 439 455	room temperature
+T10	OTHER_COMPOUND 470 475	EtOAc
+T11	OTHER_COMPOUND 489 495	1N-HCl
+T12	REACTION_PRODUCT 591 605	title compound
+T13	YIELD_OTHER 607 613	0.21 g
+T14	YIELD_PERCENT 615 618	39%

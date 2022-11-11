@@ -1,0 +1,4 @@
+Synthesis Example 5: Synthesis of Compound 44
+Compound 44 was synthesized in the same manner as in Synthesis Example 1, except that biphenyl-4-yl(dibenzofuran-4-yl)amine was used instead of biphenyl-3-yl(dibenzofuran-4-yl)amine in Synthesis of Intermediate Compound (i), and tert-butylmagnesium bromide was used instead of methylmagnesium bromide in Synthesis of Intermediate Compound (ii).
+Yield: 1.32 g (1.19 mmol, 58%).
+HR-EIMS (m/z) [M+] calcd for C82H64N2O2 1108.4968; found, 1108.4971.

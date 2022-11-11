@@ -1,0 +1,8 @@
+Transport of gemifloxacin, a 4th generation quinolone antibiotic, in the Caco-2 and engineered MDCKII cells, and potential involvement of efflux transporters in the intestinal absorption of the drug.
+The oral (po) bioavailability of gemifloxacin mesylate in rats and its possible association with efflux transporters was investigated.
+The apparent permeabilities (Papp) of gemifloxacin across the Caco-2 cell monolayer were 1.20 ± 0.09 × 10(-5) cm/s for apical to basal (absorptive) transport, and 2.13 ± 0.6 × 10(-5) cm/s for basal to apical (secretory) transport for a 5-500 μM concentration range, suggesting the involvement of a carrier-mediated efflux in the secretory transport.
+The secretory transport in Caco-2 cells was significantly decreased by MRP2 (MK571) and BCRP (Ko143) inhibitors.
+The secretory transport was distinct in MDCKII/P-gp, MDCKII/MRP2 and MDCKII/BCRP cells, and the affinity was highest for MRP2, followed by BCRP and P-gp.
+The efflux was significantly decreased by verapamil and Ko143, but not significantly by MK571.
+The comparative po bioavailability in rats was increased by the preadministration of Ko143 (four-fold), MK571 (two-fold) and verapamil (two-fold).
+Efflux transporters appeared to significantly limit the bioavailability of gemifloxacin in rats, suggesting their possible contribution to the low bioavailability of the drug in the human (70%).

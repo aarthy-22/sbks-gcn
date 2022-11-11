@@ -1,0 +1,18 @@
+T16	GENE-Y 0 20	Acetylcholinesterase
+T13	CHEMICAL 36 45	memantine
+T15	GENE-Y 394 414	acetylcholinesterase
+T6	CHEMICAL 427 436	donepezil
+T7	CHEMICAL 438 449	galantamine
+T8	CHEMICAL 451 463	rivastigmine
+T9	CHEMICAL 469 478	memantine
+T10	CHEMICAL 793 802	donepezil
+T11	CHEMICAL 875 884	donepezil
+T12	CHEMICAL 1085 1094	donepezil
+T1	CHEMICAL 1126 1135	donepezil
+T2	CHEMICAL 1305 1314	donepezil
+T3	CHEMICAL 1522 1531	memantine
+T4	CHEMICAL 1569 1581	rivastigmine
+T14	GENE-Y 1990 2010	acetylcholinesterase
+T5	CHEMICAL 2026 2035	memantine
+R0	CPR-4 Arg1:T6 Arg2:T15
+R1	NOT Arg1:T16 Arg2:T13

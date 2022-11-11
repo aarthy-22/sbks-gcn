@@ -1,0 +1,11 @@
+Parental exposure to natural mixtures of POPs reduced embryo production and altered gene transcription in zebrafish embryos.
+Determination of toxicity of complex mixtures has been proposed to be one of the most important challenges for modern toxicology.
+In this study we performed genome wide transcriptome profiling to assess potential toxicant induced changes in gene regulation in zebrafish embryos following parental exposure to two natural mixtures of persistent organic pollutants (POPs).
+The mixtures used were extracted from burbot (Lota lota) liver originating from two lakes (Lake Mjøsa and Lake Losna) belonging to the same freshwater system in Norway.
+The dominating groups of contaminants were polybrominated diphenyl ethers (PBDEs), polychlorinated biphenyls (PCBs) and dichlorodiphenyltrichloroethane metabolites (DDTs).
+Because both mixtures used in the present study induced similar effects, it is likely that the same toxicants are involved.
+The Mjøsa mixture contains high levels of PBDEs while this group of pollutants is low in the Losna mixture.
+However, both mixtures contain substantial concentrations of PCB and DDT suggesting these contaminants as the predominant contributors to the toxicity observed.
+The observed effects included phenotypic traits, like embryo production and survival, and gene transcription changes corresponding with disease and biological functions such as cancer, reproductive system disease, cardiovascular disease, lipid and protein metabolism, small molecule biochemistry and cell cycle.
+The changes in gene transcription included genes regulated by HNF4A, insulin, LH, FSH and NF-κB which are known to be central regulators of endocrine signaling, metabolism, metabolic homeostasis, immune functions, cancer development and reproduction.
+The results suggest that relative low concentrations of the natural mixtures of POPs used in the present study might pose a threat to wild freshwater fish living in the lakes from which the POPs mixtures originated.

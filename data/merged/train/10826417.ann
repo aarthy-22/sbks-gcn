@@ -1,0 +1,9 @@
+T7	CHEMICAL 0 11	Neostigmine
+T2	CHEMICAL 317 328	Neostigmine
+T3	CHEMICAL 392 405	acetylcholine
+T8	GENE-Y 424 444	acetylcholinesterase
+T4	CHEMICAL 537 548	neostigmine
+T5	CHEMICAL 778 789	neostigmine
+T6	CHEMICAL 1075 1086	neostigmine
+T1	CHEMICAL 1465 1476	neostigmine
+R0	CPR-2 Arg1:T2 Arg2:T8

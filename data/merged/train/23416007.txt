@@ -1,0 +1,8 @@
+A multivalent peptide as an activator of hypoxia inducible factor-1α.
+Hypoxia inducible factor-1α (HIF-1α) is a transcription factor found in mammalian cells under hypoxia.
+While HIF-1α in hypoxia translocates to the nucleus where it transcribes the target genes including vascular endothelial growth factor (VEGF) mRNA, HIF-1α is degraded under normoxia, which involves its proline hydroxylation and subsequent binding to the von Hippel-Lindau protein-Elongin B-Elogin C (VBC) complex.
+Previously, peptide inhibitors against this interaction between hydroxylated HIF-1α and VBC have been developed to stabilize the transcriptional activity of HIF-1α by preventing the degradation of the protein even under normoxia.
+Despite the specific inhibition by these peptides, their poor inhibition potency needs to be improved for further clinical application.
+In this work, we have designed and prepared a streptavidin-based multivalent peptide inhibitor against the HIF-1α-VBC complexation.
+We have evaluated the potency of the multivalent peptide in terms of stabilization of HIF-1α and the downstream effect.
+As the result, we have found that the inhibitor showed about 13-fold lowered IC50 value compared with that of the corresponding monovalent peptide, thereby activating HIF-1α and leading to up-regulation of VEGF protein at the cellular level.

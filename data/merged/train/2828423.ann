@@ -1,0 +1,20 @@
+T17	GENE-Y 49 67	mu opioid receptor
+T13	GENE-N 76 92	opioid receptors
+T11	GENE-Y 383 394	mu receptor
+T12	GENE-N 462 478	opioid receptors
+T2	CHEMICAL 801 814	[3H]etorphine
+T3	CHEMICAL 838 857	[3H]dihydromorphine
+T14	GENE-Y 859 868	mu opioid
+T4	CHEMICAL 933 957	[3H]ethylketocyclazocine
+T5	CHEMICAL 959 993	kappa [3H]D-Ala2,D-Leu5-enkephalin
+T15	GENE-Y 995 1007	delta opioid
+T6	CHEMICAL 1012 1029	[3H]phencyclidine
+T7	CHEMICAL 1031 1044	phencyclidine
+T16	GENE-N 1031 1059	phencyclidine/sigma receptor
+T1	CHEMICAL 1137 1141	125I
+T8	GENE-N 1474 1490	opioid receptors
+T9	GENE-N 1689 1705	opioid receptors
+T10	GENE-N 1758 1774	opioid receptors
+R0	NOT Arg1:T2 Arg2:T14
+R1	NOT Arg1:T5 Arg2:T15
+R2	NOT Arg1:T5 Arg2:T16

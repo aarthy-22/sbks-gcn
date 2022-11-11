@@ -1,0 +1,8 @@
+Identification of mu-class glutathione transferases M2-2 and M3-3 as cytosolic prostaglandin E synthases in the human brain.
+Cytosolic prostaglandin (PG) E synthase was purified from human brain cortex.
+The N-terminal amino acid sequence, PMTLGYXNIRGL, was identical to that of the human mu-class glutathione transferase (GST) M2 subunit.
+Complementary DNAs for human GSTM2, GSTM3, and GSTM4 subunits were cloned, and recombinant proteins were expressed as homodimers in Escherichia coli.
+The recombinant GSTM2-2 and 3-3 catalyzed the conversion of PGH2 to PGE2 at the rates of 282 and 923 nmol/min/mg of protein, respectively, at the optimal pH of 8, whereas GSTM4-4 was inactive; although all three enzymes showed GST activity.
+The PGE synthase activity depended on thiols, such as glutathione, dithiothreitol, 2-mercaptoethanol, or L-cysteine.
+Michaelis-Menten constants and turnover numbers for PGH2 were 141 microM and 10.8 min(-1) for GSTM2-2 and 1.5 mM and 130 min(-1) for GSTM3-3, respectively.
+GSTM2-2 and 3-3 may play crucial roles in temperature regulation, nociception, and sleep-wake regulation by producing PGE2 in the brain.

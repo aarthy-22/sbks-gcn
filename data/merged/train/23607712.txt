@@ -1,0 +1,11 @@
+Synaptotagmin 1 is required for vesicular Ca(2+) /H(+) -antiport activity.
+A low-affinity Ca(2+) /H(+) -antiport was described in the membrane of mammalian brain synaptic vesicles.
+Electrophysiological studies showed that this antiport contributes to the extreme brevity of excitation-release coupling in rapid synapses.
+Synaptotagmin-1, a vesicular protein interacting with membranes upon low-affinity Ca(2+) -binding, plays a major role in excitation-release coupling, by synchronizing calcium entry with fast neurotransmitter release.
+Here, we report that synaptotagmin-1 is necessary for expression of the vesicular Ca(2+) /H(+) -antiport.
+We measured Ca(2+) /H(+) -antiport activity in vesicles and granules of pheochromocytoma PC12 cells by three methods: (1) Ca(2+) -induced dissipation of the vesicular H(+) -gradient; (2) bafilomycin-sensitive calcium accumulation and (3) pH-jump-induced calcium accumulation.
+The results were congruent and highly significant: Ca(2+) /H(+) -antiport activity is detectable only in acidic organelles expressing functional synaptotagmin-1.
+In contrast, synaptotagmin-1-deficient cells - and cells where transgenically encoded synaptotagmin-1 was acutely photo-inactivated - were devoid of any Ca(2+) /H(+) -antiport activity.
+Therefore, in addition to its previously described functions, synaptotagmin-1 is involved in a rapid vesicular Ca(2+) sequestration through a Ca(2+) /H(+) antiport.
+This article is protected by copyright.
+All rights reserved.

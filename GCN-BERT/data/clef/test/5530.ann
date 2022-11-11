@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 11 12	2
+T2	REACTION_PRODUCT 32 142	1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-xanthine
+T3	REACTION_PRODUCT 162 247	1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+T4	STARTING_MATERIAL 255 297	3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+T5	REAGENT_CATALYST 317 336	potassium carbonate
+T6	STARTING_MATERIAL 360 398	2-bromomethyl-4,5-difluorobenzonitrile
+T7	SOLVENT 466 488	N,N-dimethylformamides
+T8	TEMPERATURE 504 508	80°C
+T9	TIME 526 533	5 hours
+T10	OTHER_COMPOUND 606 611	water
+T11	OTHER_COMPOUND 648 651	air
+T12	OTHER_COMPOUND 677 682	water
+T13	YIELD_OTHER 701 706	3.0 g
+T14	REACTION_PRODUCT 720 725	solid
+T15	YIELD_PERCENT 743 746	86%

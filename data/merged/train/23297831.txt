@@ -1,0 +1,8 @@
+Tunable morphology and mesophase formation by naphthalene-containing poly(aryl ether) dendron-based low-molecular-weight fluorescent gels.
+Novel poly(aryl ether) dendron-based low-molecular-weight organogelaters (LMWG) containing naphthalene units at the core have been synthesized, and the self-assembly of the system has been examined in a variety of solvents and solvent mixtures.
+The compounds readily form gels with attractive critical gel concentration values associated with gelation-induced enhanced emission (GIEE).
+In addition to the remarkable properties of the previously reported anthracene and pyrene analogues (Rajamalli, P.; Prasad, E. Org.
+Lett.2011, 13, 3714 and Rajamalli, P.; Prasad, E. Soft Matter2012, 8, 8896), the self-assembled systems exhibit distinctly different structure-property relationships.
+Unlike the reported ones, the present system forms sheetlike morphology in nonpolar solvent mixtures, giant vesicles in polar solvent mixtures, and lamellar or hexagonal columnar phases in single solvents.
+The unique properties of the self-assembled systems, which were analyzed through electron microscopic (SEM, TEM, AFM) and spectroscopic techniques (POM, fluorescence), are attributed to the replacement of anthracene/pyrene units by naphthalene units.
+The present work unravels the subtle role of minute structural change in altering the properties of LMWGs based on poly(aryl ether) dendrons.

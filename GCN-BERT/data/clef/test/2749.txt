@@ -1,0 +1,4 @@
+Embodiment 37
+3-[4-[(4-Cyanonaphthalen-1-yl)thieno[2,3-c]pyridine-2-yl]propionic acid (Compound 37)
+Synthesis of compound 37-e
+Ethyl mercaptoacetate (1.81g, 15.1mmol) and cesium carbonate (6.0g, 18.6mmol) were added to a solution of 3,5-dibromo-4-pyridinecarboxaldehyde (4.0g, 15.1mmol) in THF (100mL). The mixture was stirred at 60 °C for 3hrs, cooled to room temperature, concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 15:1) to give compound 37-e (3.7g, yield 85%).

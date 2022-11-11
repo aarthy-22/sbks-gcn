@@ -1,0 +1,13 @@
+Loperamide, an opiate analog, differently modifies the adrenocorticotropin responses to corticotropin-releasing hormone and lysine vasopressin in patients with Addison's disease.
+Loperamide is a peripheral opiate agonist able to inhibit ACTH secretion.
+In this work, the interactions between loperamide and two ACTH secretagogues, lysine vasopressin (LVP) and corticotropin-releasing hormone (CRH), were investigated in patients with Addison's disease.
+After loperamide (16 mg orally) or placebo administration, 5 patients received LVP (0.06 IU/kg i.v.
+over 1 h) and 6 patients received oCRH (1 micrograms/kg i.v.
+as bolus).
+In all patients loperamide induced a significant fall in plasma ACTH levels.
+LVP increased ACTH levels after both loperamide (from 48 +/-
+17.3 to a peak of 95 +/- 21 pmol/l) and placebo (from 231 +/- 59.5 to 365 +/- 86.6 pmol/l): the interaction between treatments and time was not significant.
+CRH caused a rise in plasma ACTH after both loperamide (from 30 +/-
+16.6 to a peak of 108 +/- 31 pmol/l) and placebo (from 98.5 +/- 47 to 211 +/- 61.7 pmol/l): the interaction between treatments and time was significant, and the first phase of CRH-induced ACTH secretion was significantly lower after loperamide.
+These data demonstrate that loperamide differently modifies the stimulatory action of LVP and CRH on ACTH secretion: namely, LVP and loperamide act in an additive manner, while CRH and loperamide interact in a non additive way.
+Although these findings might be explained by the involvement of different intracellular ACTH-secreting mechanisms, an influence of loperamide on some suprapituitary factors modulating the ACTH response is suggested.

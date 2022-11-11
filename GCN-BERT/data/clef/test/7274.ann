@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 19 20	5
+T2	REACTION_PRODUCT 35 70	4-(2-Phenylethynyl)Furoxan Compound
+T3	REACTION_PRODUCT 77 92	4-Fluorofuroxan
+T4	REAGENT_CATALYST 123 138	Tetrahydrofuran
+T5	STARTING_MATERIAL 162 196	4-fluoro-3-(4-methylphenyl)furoxan
+T6	STARTING_MATERIAL 236 270	1-phenyl-2-trimethylsilylacetylene
+T7	REAGENT_CATALYST 327 354	tetrabutylammonium fluoride
+T8	SOLVENT 358 373	tetrahydrofuran
+T9	TEMPERATURE 442 458	room temperature
+T10	TIME 463 473	90 minutes
+T11	OTHER_COMPOUND 566 576	silica gel
+T12	REACTION_PRODUCT 602 647	3-(4-methylphenyl)-4-(2-phenylethynyl)furoxan
+T13	YIELD_OTHER 649 656	17.3 mg
+T14	YIELD_PERCENT 658 661	63%

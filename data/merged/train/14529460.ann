@@ -1,0 +1,11 @@
+T10	CHEMICAL 13 29	organophosphates
+T9	CHEMICAL 200 213	acetylcholine
+T11	GENE-Y 200 222	acetylcholine esterase
+T1	CHEMICAL 323 334	pralidoxime
+T2	CHEMICAL 336 341	2-PAM
+T3	CHEMICAL 368 375	iminium
+T4	CHEMICAL 380 385	oxime
+T5	CHEMICAL 458 465	iminium
+T6	CHEMICAL 470 475	oxime
+T7	CHEMICAL 502 518	organophosphates
+T8	CHEMICAL 763 769	oxygen

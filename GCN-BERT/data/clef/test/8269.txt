@@ -1,0 +1,2 @@
+Step 3: Synthesis of methyl 4-(4-(4-(azetidin-3-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate dihydrochloride
+To a solution of tert-butyl 3-((4-(1-(4-methoxy-3-methyl-3-(methylsulfonyl)-4-oxobutyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)ethynyl)azetidine-1-carboxylate (5 g, 1 eq) in dichloromethane (100 ml) was added with HCl solution (4N in cyclopentyl methyl ether, 24 ml, 10 eq). The mixture was stirred for 3 hr at room temperature. After then, the solvent was concentrated in vacuo to prepare the title compound (4.2 g, 89%).

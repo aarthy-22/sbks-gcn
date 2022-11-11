@@ -1,0 +1,3 @@
+Example 34
+5'-((cyclopropylmethyl)amino)-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide (1-32)
+A mixture of 5'-fluoro-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide (22.5 mg, 0.06 mmol) and cyclopropylmethanamine (1 mL) was heated at 150-180° C. for 20 days until 50% of desired product was formed, as monitored by LC-MS. Solvent was removed in vacuo, after silica gel chromatography and further trituration from Hexanes-EtOAc, title compound was obtained as a beige color solid: 8.6 mg (34% yield);

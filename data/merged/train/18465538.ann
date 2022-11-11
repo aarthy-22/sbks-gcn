@@ -1,0 +1,14 @@
+T10	CHEMICAL 0 12	Flavopiridol
+T3	CHEMICAL 47 59	flavopiridol
+T4	CHEMICAL 73 82	flavonoid
+T2	CHEMICAL 164 176	Flavopiridol
+T11	GENE-N 180 203	cyclin-dependent kinase
+T12	GENE-Y 637 641	CDK2
+T5	CHEMICAL 737 749	flavopiridol
+T6	CHEMICAL 800 812	flavopiridol
+T7	CHEMICAL 870 881	glucoronide
+T8	CHEMICAL 885 904	uridine diphosphate
+T9	CHEMICAL 940 952	Flavopiridol
+T13	GENE-N 962 965	CDK
+T1	CHEMICAL 1269 1281	flavopiridol
+R0	CPR-4 Arg1:T5 Arg2:T12

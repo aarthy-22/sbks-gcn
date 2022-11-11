@@ -1,0 +1,16 @@
+T1	OTHER_COMPOUND 714 729	dichloromethane
+T2	TEMPERATURE 440 456	room temperature
+T3	STARTING_MATERIAL 199 355	(2S,3S,4S,5S)-3-tert-butyl-4-[(6-tert-butyl-2-methoxy-pyridin-3-ylmethyl)-amino]-5-phenyl-pyrrolidine-1,2-dicarboxylic acid 1-tert-butyl ester 2-ethyl ester
+T4	TIME 461 469	72 hours
+T5	SOLVENT 387 402	dichloromethane
+T6	OTHER_COMPOUND 545 560	dichloromethane
+T7	OTHER_COMPOUND 575 582	aqueous
+T8	YIELD_OTHER 785 791	520 mg
+T9	REAGENT_CATALYST 144 164	Trifluoroacetic acid
+T10	EXAMPLE_LABEL 8 11	38B
+T11	YIELD_PERCENT 793 796	80%
+T12	OTHER_COMPOUND 730 738	methanol
+T13	REACTION_PRODUCT 12 143	(2S,3S,4S,5S)-3-tert-butyl-4-[(6-tert-butyl-2-methoxy-pyridin-3-ylmethyl)-amino]-5-phenyl-pyrrolidine-2-carboxylic acid ethyl ester
+T14	REACTION_PRODUCT 769 783	title compound
+T15	OTHER_COMPOUND 702 712	silica gel
+T16	OTHER_COMPOUND 583 589	NaHCO3

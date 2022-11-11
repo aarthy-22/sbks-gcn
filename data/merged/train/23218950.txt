@@ -1,0 +1,10 @@
+Mutational consequences of dNTP pool imbalances in E. coli.
+The accuracy of DNA synthesis depends on the accuracy of the polymerase as well as the quality and concentration(s) of the available 5'-deoxynucleoside-triphosphate DNA precursors (dNTPs).
+The relationships between dNTPs and error rates have been studied in vitro, but only limited insights exist into these correlations during in vivo replication.
+We have investigated this issue in the bacterium Escherichia coli by analyzing the mutational properties of dcd and ndk strains.
+These strains, defective in dCTP deaminase and nucleoside diphosphate kinase, respectively, are characterized by both disturbances of dNTP pools and a mutator phenotype.
+ndk strains have been studied before, but were included in this study, as controversies exist regarding the source of its mutator phenotype.
+We show that dcd strains suffer from increased intracellular levels of dCTP (4-fold) and reduced levels of dGTP (2-fold), while displaying, as measured using a set of lacZ reversion markers in a mismatch-repair defective (mutL) background, a strong mutator effect for G·C→T·A and A·T→T·A transversions (27- and 42-fold enhancement, respectively).
+In contrast, ndk strains possess a lowered dATP level (4-fold) and modestly enhanced dCTP level (2-fold), while its mutator effect is specific for just the A·T→T·A transversions.
+The two strains also display differential mutability for rifampicin-resistant mutants.
+Overall, our analysis reveals for both strains a satisfactory correlation between dNTP pool alterations and the replication error rates, and also suggests that a minimal explanation for the ndk mutator does not require assumptions beyond the predicted effect of the dNTP pools.

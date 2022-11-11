@@ -1,0 +1,39 @@
+T15	CHEMICAL 8 18	amino acid
+T32	GENE-Y 37 76	bovine oxytocin-neurophysin I precursor
+T14	CHEMICAL 44 52	oxytocin
+T6	CHEMICAL 107 115	oxytocin
+T23	GENE-Y 107 115	oxytocin
+T7	CHEMICAL 121 129	arginine
+T24	GENE-Y 121 141	arginine-vasopressin
+T8	CHEMICAL 130 141	vasopressin
+T10	CHEMICAL 143 146	AVP
+T27	GENE-Y 143 146	AVP
+T22	GENE-N 238 249	neurophysin
+T25	GENE-N 521 532	neurophysin
+T9	CHEMICAL 605 613	oxytocin
+T26	GENE-Y 605 613	oxytocin
+T28	GENE-Y 868 888	bovine neurophysin I
+T11	CHEMICAL 893 901	oxytocin
+T29	GENE-Y 893 901	oxytocin
+T12	CHEMICAL 922 932	amino acid
+T30	GENE-Y 949 997	bovine oxytocin-neurophysin I (OT-NpI) precursor
+T13	CHEMICAL 956 964	oxytocin
+T31	GENE-Y 1082 1145	bovine arginine-vasopressin-neurophysin II (AVP-NpII) precursor
+T1	CHEMICAL 1089 1097	arginine
+T2	CHEMICAL 1098 1109	vasopressin
+T3	CHEMICAL 1126 1129	AVP
+T16	GENE-N 1126 1134	AVP-NpII
+T17	GENE-Y 1174 1180	OT-NpI
+T18	GENE-Y 1264 1277	neurophysin I
+T4	CHEMICAL 1283 1294	Gly-Lys-Arg
+T19	GENE-N 1283 1294	Gly-Lys-Arg
+T5	CHEMICAL 1406 1409	AVP
+T20	GENE-Y 1406 1424	AVP-NpII precursor
+T21	GENE-N 1477 1498	neurophysins I and II
+R0	CPR-1 Arg1:T12 Arg2:T30
+R1	NOT Arg1:T6 Arg2:T27
+R2	NOT Arg1:T24 Arg2:T10
+R3	NOT Arg1:T25 Arg2:T9
+R4	NOT Arg1:T1 Arg2:T18
+R5	NOT Arg1:T2 Arg2:T16
+R6	NOT Arg1:T3 Arg2:T17

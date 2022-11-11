@@ -1,0 +1,25 @@
+T20	CHEMICAL 0 67	5 beta-Methyl-14 beta-(p-nitrocinnamoylamino)-7,8-dihydromorphinone
+T22	CHEMICAL 90 109	N-cyclopropylmethyl
+T21	CHEMICAL 118 209	N-cyclopropylmethylnor-5 beta-methyl-14 beta-(p-nitrocinnamoylamino)- 7,8-dihydromorphinone
+T1	CHEMICAL 257 324	5 beta-Methyl-14 beta-(p-nitrocinnamoylamino)-7,8-dihydromorphinone
+T15	CHEMICAL 326 334	MET-CAMO
+T2	CHEMICAL 358 377	N-cyclopropylmethyl
+T6	CHEMICAL 386 477	N-cyclopropylmethylnor-5 beta-methyl-14 beta-(p-nitrocinnamoylamino)- 7,8-dihydromorphinone
+T11	CHEMICAL 479 493	N-CPM-MET-CAMO
+T23	GENE-N 510 525	opioid receptor
+T12	CHEMICAL 729 737	MET-CAMO
+T13	CHEMICAL 741 755	N-CPM-MET-CAMO
+T14	CHEMICAL 871 910	[3H]-[D-Ala2,MePhe4,Gly(ol)5]enkephalin
+T16	CHEMICAL 987 1001	N-CPM-MET-CAMO
+T17	CHEMICAL 1042 1081	[3H]-[D-Ala2,MePhe4,Gly(ol)5]enkephalin
+T18	CHEMICAL 1152 1160	MET-CAMO
+T19	CHEMICAL 1165 1179	N-CPM-MET-CAMO
+T3	CHEMICAL 1371 1379	morphine
+T4	CHEMICAL 1476 1484	MET-CAMO
+T5	CHEMICAL 1488 1502	N-CPM-MET-CAMO
+T7	CHEMICAL 1572 1580	MET-CAMO
+T8	CHEMICAL 1585 1599	N-CPM-MET-CAMO
+T9	CHEMICAL 1743 1751	MET-CAMO
+T10	CHEMICAL 1755 1769	N-CPM-MET-CAMO
+R0	CPR-2 Arg1:T6 Arg2:T23
+R1	CPR-2 Arg1:T11 Arg2:T23

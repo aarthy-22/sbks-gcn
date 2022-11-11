@@ -1,0 +1,8 @@
+Low level prenatal exposure to methylmercury disrupts neuronal migration in the developing rat cerebral cortex.
+We determined the effects of low-level prenatal MeHg exposure on neuronal migration in the developing rat cerebral cortex using in utero electroporation.
+We used offspring rats born to dams that had been exposed to saline or various doses of MeHg (0.01 mg/kg/day, 0.1 mg/kg/day, and 1 mg/kg/day) from gestational day (GD) 11-21.
+Immunohistochemical examination of the brains of the offspring was conducted on postnatal day (PND) 0, PND3, and PND7.
+Our results showed that prenatal exposure to low levels of MeHg (0.1 mg/kg/day or 1 mg/kg/day) during the critical stage in neuronal migration resulted in migration defects of the cerebrocortical neurons in offspring rats.
+Importantly, our data revealed that the abnormal neuronal distribution induced by MeHg was not caused by altered proliferation of neural progenitor cells (NPCs), induction of apoptosis of NPCs and/or newborn neurons, abnormal differentiation of NPCs, and the morphological changes of radial glial scaffold, indicating that the defective neuronal positioning triggered by exposure to low-dose of MeHg is due to the impacts of MeHg on the process of neuronal migration itself.
+Moreover, we demonstrated that in utero exposure to low-level MeHg suppresses the expression of Rac1, Cdc42, and RhoA, which play key roles in the migration of cerebrocortical neurons during the early stage of brain development, suggesting that the MeHg-induced migratory disturbance of cerebrocortical neurons is likely associated with the Rho GTPases signal pathway.
+In conclusion, our results provide a novel perspective on clarifying the mechanisms underlying the impairment of neuronal migration induced by MeHg.

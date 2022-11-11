@@ -1,0 +1,2 @@
+Synthesis Example 2: Synthesis of Compound 3
+Compound 3 (6.5 g, a yield of 85%) was obtained according to the same method as Synthesis Example 1 except for using bromoparabiphenyl instead of the bromometabiphenyl used in Step 2 of Synthesis Example 1. calcd. C48H30N2: C, 90.82; H, 4.76; N, 4.41; found: C, 90.81; H, 4.76; N, 4.41.

@@ -1,0 +1,20 @@
+T16	GENE-N 0 18	Carbonic anhydrase
+T6	CHEMICAL 31 50	Benzenesulfonamides
+T7	CHEMICAL 65 80	cyanoacrylamide
+T17	GENE-Y 107 152	Saccharomyces cerevisiae β-carbonic anhydrase
+T1	CHEMICAL 166 185	benzenesulfonamides
+T2	CHEMICAL 200 215	cyanoacrylamide
+T5	CHEMICAL 226 237	tyrphostine
+T8	GENE-Y 281 301	β-carbonic anhydrase
+T9	GENE-N 303 305	CA
+T10	GENE-Y 307 317	EC 4.2.1.1
+T11	GENE-Y 350 354	ScCA
+T12	GENE-Y 415 419	ScCA
+T13	GENE-Y 558 563	hCA I
+T14	GENE-Y 597 601	ScCA
+T15	GENE-Y 607 613	hCA II
+T3	CHEMICAL 774 779	azole
+T4	CHEMICAL 854 866	sulfonamides
+R0	CPR-4 Arg1:T6 Arg2:T17
+R1	CPR-4 Arg1:T1 Arg2:T10
+R2	CPR-4 Arg1:T1 Arg2:T11

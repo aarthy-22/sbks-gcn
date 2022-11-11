@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 8 9	1
+T2	REACTION_PRODUCT 10 122	N-(5-fluoro-4-(3-isopropyl-2-methyl-2H-indazol-5-yl)pyrimidin-2-yl)-6-(4-methylpiperidin-1-yl)pyridazine-3-amine
+T3	EXAMPLE_LABEL 128 129	1
+T4	REACTION_PRODUCT 131 175	6-(4-methylpiperazin-1-yl)pyridazine-3-amine
+T5	STARTING_MATERIAL 189 215	6-chloro-3-aminopyridazine
+T6	STARTING_MATERIAL 258 276	1-methylpiperazine
+T7	TEMPERATURE 398 404	170° C
+T8	TIME 421 430	1.5 hours
+T9	TEMPERATURE 515 519	20°C
+T10	REACTION_PRODUCT 629 643	title compound
+T11	YIELD_OTHER 645 651	3.53 g
+T12	YIELD_OTHER 653 663	18.27 mmol
+T13	YIELD_PERCENT 665 671	78.87%

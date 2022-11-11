@@ -1,0 +1,16 @@
+T15	GENE-N 43 48	NF-κB
+T6	GENE-N 331 348	nuclear factor κB
+T7	GENE-N 476 497	dominant-negative IκB
+T8	GENE-N 499 504	dnIκB
+T9	GENE-N 654 684	endothelial adhesion molecules
+T10	GENE-Y 685 695	E-selectin
+T11	GENE-Y 699 705	VCAM-1
+T1	CHEMICAL 741 760	polyethylene glycol
+T12	GENE-N 821 829	cytokine
+T13	GENE-Y 974 984	E-selectin
+T14	GENE-N 1079 1084	dnIκB
+T2	GENE-N 1221 1230	cytokines
+T3	GENE-N 1236 1246	chemokines
+T4	GENE-Y 1300 1310	E-selectin
+T5	GENE-N 1435 1464	endothelial adhesion molecule
+R0	NOT Arg1:T9 Arg2:T1

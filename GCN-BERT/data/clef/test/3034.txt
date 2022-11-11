@@ -1,0 +1,4 @@
+Example 63
+2-[6-(7-Amino-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-6-ylmethyl)-pyridin-2-yl]-2-methyl-propionitrile
+6-(6-Chloro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (example 3) (50.00 mg, 0.181 mmol), isobutyronitrile (0.100 mg, 1.447 mmol) and sodium bis(trimethylsilyl)amide 1 M solution in THF (0.500 ml, 0.50 mmol) are dissolved in 1.0 mL of tetrahydrofuran. The mixture is stirred at 100° C. for 15 minutes in a microwave. The mixture is purified by RP-HPLC (modifier: ammonium hydroxide).
+Yield: 21 mg (37% of theory)

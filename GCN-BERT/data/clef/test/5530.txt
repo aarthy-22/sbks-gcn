@@ -1,0 +1,4 @@
+Embodiment 2
+The preparation of 1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-[(R)-3-amino-piperidine-1-yl]-xanthine
+The preparation of 1-[(4,5-difluoro-benzonitrile-2-yl)methyl]-3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine
+Adding 3-methyl-7-(2-butyne-1-yl)-8-bromoxanthine (2.3 g, 7.9 mmol), potassium carbonate (1.7 g, 12.6 mmol) and 2-bromomethyl-4,5-difluorobenzonitrile (2.0 g, 8.7 mmol) into a 100mL round-bottom flask, adding 25 mL of N,N-dimethylformamides in, heating to 80°C and stirring for 5 hours; after the reaction was completed, pouring the reaction liquid into ice water to precipitate solid, filtrating by air pump, washing solid with water, drying to obtain 3.0 g of yellowish solid, with a yield of 86%. ES-API(m/z):[M+H]+ 448.0.

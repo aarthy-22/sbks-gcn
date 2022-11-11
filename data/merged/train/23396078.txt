@@ -1,0 +1,10 @@
+Photochemical activation of TRPA1 channels in neurons and animals.
+Optogenetics is a powerful research tool because it enables high-resolution optical control of neuronal activity.
+However, current optogenetic approaches are limited to transgenic systems expressing microbial opsins and other exogenous photoreceptors.
+Here, we identify optovin, a small molecule that enables repeated photoactivation of motor behaviors in wild-type zebrafish and mice.
+To our surprise, optovin's behavioral effects are not visually mediated.
+Rather, photodetection is performed by sensory neurons expressing the cation channel TRPA1.
+TRPA1 is both necessary and sufficient for the optovin response.
+Optovin activates human TRPA1 via structure-dependent photochemical reactions with redox-sensitive cysteine residues.
+In animals with severed spinal cords, optovin treatment enables control of motor activity in the paralyzed extremities by localized illumination.
+These studies identify a light-based strategy for controlling endogenous TRPA1 receptors in vivo, with potential clinical and research applications in nontransgenic animals, including humans.

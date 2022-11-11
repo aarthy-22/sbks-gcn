@@ -1,0 +1,15 @@
+The endocrine disrupting chemical tolylfluanid alters adipocyte metabolism via glucocorticoid receptor activation.
+Glucocorticoid signaling plays a critical role in regulating energy metabolism.
+Emerging data implicate environmental endocrine-disrupting chemicals as contributors to the obesity and diabetes epidemics.
+Previous studies have shown that the phenylsulfamide fungicide tolylfluanid (TF) augments glucocorticoid receptor (GR)-dependent luciferase expression in 3T3-L1 preadipocytes while modulating insulin action in primary murine and human adipocytes.
+Studies were performed to interrogate glucocorticoid signaling in primary adipocytes exposed to TF.
+TF mimicked the gene transcription profile of the murine glucocorticoid corticosterone (Cort).
+Cellular fractionation assays demonstrated that TF treatment promoted the activating serine phosphorylation of GR, augmenting its cytoplasmic-to-nuclear translocation as well as its enrichment at glucocorticoid response elements on the glucocorticoid-induced leucine zipper gene promoter.
+After acute treatment, Cort or TF promoted insulin receptor substrate-1 (IRS-1) gene and protein expression.
+Either treatment also enriched GR binding at an identified glucocorticoid response element in the IRS-1 gene.
+TF or Cort each increased insulin-stimulated lipogenesis, an effect resulting from increased lipogenic gene expression and enhanced insulin-stimulated dephosphorylation of acetyl-coenzyme A carboxylase.
+The augmentation of insulin-stimulated lipogenesis was mediated through a specific enhancement of Akt phosphorylation at T308.
+These findings support modulation of IRS-1 levels as a mechanism for glucocorticoid-mediated changes in insulin action in primary adipocytes.
+Albeit with less affinity than Cort, in silico analysis suggests that TF can interact with the ligand binding pocket of GR.
+Collectively, these studies identify TF as a structurally unique environmental glucocorticoid.
+Glucocorticoid signaling may thus represent a novel pathway by which environmental toxicants promote the development of metabolic diseases.

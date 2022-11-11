@@ -1,0 +1,21 @@
+T7	CHEMICAL 20 26	leucyl
+T19	GENE-Y 20 42	leucyl-tRNA synthetase
+T8	CHEMICAL 53 63	amino acid
+T9	GENE-Y 101 143	Human mitochondrial leucyl-tRNA synthetase
+T5	CHEMICAL 121 127	leucyl
+T12	GENE-Y 145 156	hs mt LeuRS
+T10	GENE-N 271 304	class I aminoacyl-tRNA synthetase
+T4	CHEMICAL 279 288	aminoacyl
+T11	GENE-N 306 310	aaRS
+T13	GENE-Y 573 584	hs mt LeuRS
+T14	GENE-Y 680 686	LeuRSs
+T15	GENE-N 762 795	hs mt and Escherichia coli LeuRSs
+T16	GENE-N 850 861	KMSKS motif
+T17	GENE-Y 937 948	hs mt LeuRS
+T18	GENE-Y 961 974	E. coli LeuRS
+T6	CHEMICAL 1037 1047	amino acid
+T1	CHEMICAL 1153 1163	amino acid
+T2	CHEMICAL 1310 1317	leucine
+T3	CHEMICAL 1322 1332	isoleucine
+R0	NOT Arg1:T19 Arg2:T8
+R1	NOT Arg1:T18 Arg2:T6

@@ -1,0 +1,14 @@
+T13	GENE-Y 37 42	Txnip
+T6	GENE-N 464 497	orphan G protein coupled receptor
+T7	GENE-Y 498 503	Gpr50
+T8	GENE-Y 716 747	thioredoxin interacting protein
+T9	GENE-Y 749 754	Txnip
+T10	GENE-Y 989 994	Txnip
+T11	GENE-Y 1045 1050	Txnip
+T12	GENE-Y 1075 1080	Txnip
+T1	CHEMICAL 1145 1159	2-deoxyglucose
+T2	GENE-Y 1295 1300	Txnip
+T3	GENE-Y 1421 1426	Txnip
+T4	GENE-Y 1618 1623	Txnip
+T5	GENE-Y 1736 1741	Txnip
+R0	NOT Arg1:T11 Arg2:T1

@@ -1,0 +1,37 @@
+T17	CHEMICAL 21 30	vitamin A
+T3	CHEMICAL 204 213	vitamin A
+T7	CHEMICAL 293 302	vitamin A
+T8	CHEMICAL 478 487	vitamin A
+T9	CHEMICAL 500 509	vitamin A
+T24	GENE-N 532 555	retinol binding protein
+T25	GENE-Y 556 569	transthyretin
+T10	CHEMICAL 667 676	vitamin A
+T11	CHEMICAL 678 687	vitamin A
+T12	CHEMICAL 715 722	Retinol
+T26	GENE-N 715 738	Retinol Binding Protein
+T27	GENE-Y 739 752	Transthyretin
+T13	CHEMICAL 810 817	retinol
+T28	GENE-N 810 833	retinol binding protein
+T29	GENE-N 842 858	immunoglobulin A
+T14	CHEMICAL 886 895	vitamin A
+T30	GENE-Y 951 976	alpha-1 glycoprotein acid
+T15	CHEMICAL 1008 1017	vitamin A
+T16	CHEMICAL 1034 1043	vitamin A
+T1	CHEMICAL 1202 1211	vitamin A
+T18	GENE-N 1216 1232	immunoglobulin A
+T2	CHEMICAL 1275 1284	vitamin A
+T19	GENE-N 1309 1326	immunoglobulins A
+T20	GENE-Y 1365 1390	alpha-1 glycoprotein acid
+T4	CHEMICAL 1404 1413	vitamin A
+T5	CHEMICAL 1574 1583	vitamin A
+T6	CHEMICAL 1680 1687	retinol
+T21	GENE-N 1680 1703	retinol binding protein
+T22	GENE-N 1705 1721	immunoglobulin A
+T23	GENE-Y 1726 1751	alpha-1 glycoprotein acid
+R0	CPR-3 Arg1:T2 Arg2:T19
+R1	NOT Arg1:T9 Arg2:T24
+R2	NOT Arg1:T25 Arg2:T11
+R3	NOT Arg1:T25 Arg2:T12
+R4	NOT Arg1:T11 Arg2:T26
+R5	NOT Arg1:T11 Arg2:T27
+R6	NOT Arg1:T5 Arg2:T22

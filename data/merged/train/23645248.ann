@@ -1,0 +1,28 @@
+T15	CHEMICAL 0 9	Oestrogen
+T5	CHEMICAL 235 244	oestrogen
+T7	CHEMICAL 430 439	oestrogen
+T8	CHEMICAL 525 542	17beta-oestradiol
+T9	CHEMICAL 594 603	oestrogen
+T17	GENE-Y 594 613	oestrogen receptors
+T10	CHEMICAL 632 649	17beta-oestradiol
+T18	GENE-Y 725 737	TSH receptor
+T19	GENE-Y 739 754	thyroperoxidase
+T20	GENE-Y 756 769	thyroglobulin
+T11	CHEMICAL 771 784	sodium iodide
+T21	GENE-Y 771 794	sodium iodide symporter
+T12	CHEMICAL 822 839	17beta-oestradiol
+T13	CHEMICAL 965 974	oestrogen
+T22	GENE-N 965 998	oestrogen receptor alpha and beta
+T14	CHEMICAL 1041 1050	oestrogen
+T23	GENE-N 1041 1065	oestrogen receptor alpha
+T1	CHEMICAL 1110 1127	17beta-oestradiol
+T2	CHEMICAL 1291 1304	sodium iodide
+T16	GENE-Y 1291 1314	sodium iodide symporter
+T3	CHEMICAL 1347 1364	17beta-oestradiol
+T4	CHEMICAL 1380 1389	oestrogen
+T6	CHEMICAL 1607 1616	oestrogen
+R0	NOT Arg1:T8 Arg2:T17
+R1	NOT Arg1:T9 Arg2:T20
+R2	NOT Arg1:T17 Arg2:T11
+R3	NOT Arg1:T10 Arg2:T18
+R4	NOT Arg1:T19 Arg2:T11

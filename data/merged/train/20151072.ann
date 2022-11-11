@@ -1,0 +1,12 @@
+T9	CHEMICAL 0 10	Mesalazine
+T1	CHEMICAL 69 90	5-aminosalicylic acid
+T4	CHEMICAL 92 97	5-ASA
+T5	CHEMICAL 117 127	mesalazine
+T6	CHEMICAL 129 139	mesalamine
+T7	CHEMICAL 850 856	5-ASAs
+T11	GENE-Y 979 1027	peroxisome proliferator-activated receptor-gamma
+T8	CHEMICAL 1031 1036	5-ASA
+T2	CHEMICAL 1167 1172	5-ASA
+T10	GENE-Y 1221 1269	peroxisome proliferator-activated receptor-gamma
+T3	CHEMICAL 1271 1276	5-ASA
+R0	CPR-5 Arg1:T8 Arg2:T11

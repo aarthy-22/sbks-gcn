@@ -1,0 +1,10 @@
+Combining QSAR classification models for predictive modeling of human monoamine oxidase inhibitors.
+Due to their role in the metabolism of monoamine neurotransmitters, MAO-A and MAO-B present a significant pharmacological interest.
+For instance the inhibitors of human MAO-B are considered useful tools for the treatment of Parkinson Disease.
+Therefore, the rational design and synthesis of new MAOs inhibitors is considered of great importance for the development of new and more effective treatments of Parkinson Disease.
+In this work, Quantitative Structure Activity Relationships (QSAR) has been developed to predict the human MAO inhibitory activity and selectivity.
+The first step was the selection of a suitable dataset of heterocyclic compounds that include chromones, coumarins, chalcones, thiazolylhydrazones, etc.
+These compounds were previously synthesized in one of our laboratories, or elsewhere, and their activities measured by the same assays and for the same laboratory staff.
+Applying linear discriminant analysis to data derived from a variety of molecular representations and feature selection algorithms, reliable QSAR models were built which could be used to predict for test compounds the inhibitory activity and selectivity toward human MAO.
+This work also showed how several QSAR models can be combined to make better predictions.
+The final models exhibit significant statistics, interpretability, as well as displaying predictive power on an external validation set made up of chromone derivatives with unknown activity (that are being reported here for first time) synthesized by our group, and coumarins recently reported in the literature.

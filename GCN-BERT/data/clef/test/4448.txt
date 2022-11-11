@@ -1,0 +1,2 @@
+Example 52-3 : Preparation of 2'-amino-6-(2-amino-6-(dimethylamino)pyrimidin-4-yl)-3'-fluoro-[2,4'-bipyridin]-5-ol (LXXVI)
+6-(2'-Amino-3'-fluoro-5-methoxy-[2,4'-bipyridin]-6-yl-N4,N4-dimethylpyrimidin-2,4-diamine (96 mg, 270.13 µmol) and pyridine hydrochloride (Pyridine HCl) (936.5 mg, 8.10 mmol) were stirred in a sealed tube at 170 °C for 2 hrs. The resulting mixture was cooled to room temperature and neutralized with 2 N NaOH solution to provide a solid. The solid was filtered, washed with diethylether, and dried to give the title compound (22 mg, 24 %).

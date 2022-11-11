@@ -1,0 +1,2 @@
+Synthesis Example 15: Synthesis of Compound 49
+Compound 49 (5.49 g, a yield of 74%) was obtained according to the same method as Synthesis Example 1 except for using 2-bromo-4,6-diphenyl-1,3,5-triazine instead of the bromometabiphenyl in Step 2 of Synthesis Example 1. calcd. C51H31N5: C, 85.81; H, 4.38; N, 9.81; found: C, 85.81; H, 4.38; N, 9.81.

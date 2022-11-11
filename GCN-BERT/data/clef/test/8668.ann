@@ -1,0 +1,12 @@
+T1	REACTION_PRODUCT 15 72	7-methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole
+T2	STARTING_MATERIAL 88 144	3-(hydroxymethylene)-7-methoxy-2,2-dimethylchroman-4-one
+T3	REAGENT_CATALYST 179 188	hydrazine
+T4	SOLVENT 211 215	EtOH
+T5	TEMPERATURE 231 236	60 ºC
+T6	TIME 241 248	2 hours
+T7	OTHER_COMPOUND 358 368	silica gel
+T8	OTHER_COMPOUND 370 376	hexane
+T9	OTHER_COMPOUND 379 384	AcOEt
+T10	REACTION_PRODUCT 392 449	7-Methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole
+T11	YIELD_OTHER 451 457	0.99 g
+T12	YIELD_PERCENT 459 462	69%

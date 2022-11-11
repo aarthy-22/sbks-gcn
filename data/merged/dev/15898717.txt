@@ -1,0 +1,12 @@
+Structural, kinetic, and thermodynamic analysis of the binding of the 40 kDa PEG-interferon-alpha2a and its individual positional isomers to the extracellular domain of the receptor IFNAR2.
+Type-I Interferons exert antiviral and antiproliferative activities through the binding to a common cell surface receptor comprising two subunits, IFNAR1 and IFNAR2.
+Human recombinant Interferon-alpha(2a) (IFNalpha(2a)) is a potent drug (Roferon-A) used to treat various cancers and viral diseases including Hepatitis B/C infections.
+To significantly improve the pharmacological properties of the drug, a pegylated form of IFNalpha(2a) was developed (PEGASYS).
+This 40 kDa PEG-conjugated IFNalpha(2a) ((40)PEG-IFNalpha(2a)) is obtained by the covalent binding of one 40 kDa branched PEG-polymer to a lysine side-chain of IFNalpha(2a).
+Here, we report the detailed structural, kinetic, and thermodynamic analysis of the binding to the extracellular domain of the receptor IFNAR2 of (40)PEG-IFNalpha(2a) and its isolated positional isomers modified at K31, K134, K131, K121, K164, and K70, respectively, in comparison with unmodified IFNalpha(2a).
+Our binding studies, using the surface plasmon resonance technique, show that the pegylation does not abolish the binding to the receptor, but significantly reduces the affinity mainly due to a change of the association rate.
+The results are supported by modeling and simulation of the binding, using Self-Avoiding-Walk calculations for the polymer conformations.
+A correlation between the structural parameters and the kinetic and thermodynamic parameters of the binding of the positional isomers could be established.
+For the Isomer-K31 and -K164, the PEG-polymer attachment point is located in proximity to the binding interface, and the isomers display affinity in the range 150-520 nM in an enthalpy-driven binding process.
+In contrast for the Isomer-K134, -K131, -K121, and -K70, the PEG-polymer is attached remotely from the binding interface, and the isomers exhibit a higher affinity (32-76 nM) in an entropy-driven binding process.
+This study constitutes an essential collection of knowledge on which the interaction of (40)PEG-IFNalpha(2a) and its positional isomers with its cellular receptors can be better understood.

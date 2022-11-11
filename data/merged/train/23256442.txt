@@ -1,0 +1,8 @@
+Dandelion leaf extract protects against liver injury induced by methionine- and choline-deficient diet in mice.
+We investigated the hepatoprotective effects of the extract of dandelion leaves (EDL) on a murine model of methionine- and choline-deficient (MCD) diet-induced nonalcoholic steatohepatitis (NASH).
+C57BL/6 mice were fed for 4 weeks with one of the following diets: control diet (Cont), MCD diet (MCD), MCD diet supplemented with EDL at 200 mg/kg body weight·daily (MCD+D200), and MCD diet supplemented with EDL at 500 mg/kg body weight·daily (MCD+D500).
+Hepatic function was assessed by evaluating the following parameters: liver histology; plasma levels of alanine aminotransferase (ALT), triglyceride (TG), malondialdehyde (MDA), and reduced glutathione (GSH); expression levels of TNF-α and IL-6; and levels of caspase-3 and pJNK/JNK protein.
+Histopathological evaluations revealed that addition of EDL to the MCD diet dampens the severity of the clinical signs of NASH.
+Moreover, EDL led to a significant decrease in the serum levels of ALT, hepatic TG, and MDA, and in the expression levels of TNF-α, and IL-6; on the contrary, the levels of reduced GSH increased.
+At the post-transcriptional level, EDL significantly decreased the activation of procaspase-3 to active caspase-3, and the phosphorylation of JNK.
+These results suggest that the beneficial effects of EDL on NASH are mainly due to its antioxidant and anti-inflammatory activities.

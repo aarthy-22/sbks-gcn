@@ -1,0 +1,4 @@
+T1	REACTION_PRODUCT 230 235	F1337
+T2	YIELD_OTHER 264 271	0.166 g
+T3	REACTION_PRODUCT 94 228	N-(3-Amino-2,6-difluorophenyl)-2-chloro-5-((1R,3R)-2,2-dichloro-3-(3,4,5-trichlorophenyl)cyclopropane-1-carboxamido)-3-fluorobenzamide
+T4	YIELD_PERCENT 273 276	80%

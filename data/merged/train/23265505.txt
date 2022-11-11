@@ -1,0 +1,9 @@
+Influence of extraction procedures on phenolic content and antioxidant activity of Cretan barberry herb.
+The main goal of present study was the development, optimization and application of different extraction protocols, especially those employing green technologies, in order to obtain from Berberis cretica extracts with high antioxidant capacity.
+For this purpose, the applied methods: maceration, ASE and SFE coupled with ASE were incorporated.
+The antioxidant assessment was carried out using DPPH and total phenolic content (Folin-Ciocalteu) assays.
+Major constituents were elucidated using HPLC-DAD and UHPLC-HRMS/MS (hybrid IT-Orbital trap spectrometer) equipped with an ESI probe.
+The chromatographic and spectral data revealed the presence of several simple phenolic acids, derivatives of both caffeic and benzoic acids, and flavonoids in the produced extracts.
+It was clearly evidenced that the extraction method and solvents used affected both the activity and the chemical content of the results, significantly.
+The most beneficial conditions were calculated for methanol and water:ethanol (50:50) extracts derived from the combination of SFE and ASE methodologies.
+Obtained results classify Cretan barberry as a strong antioxidant agent.

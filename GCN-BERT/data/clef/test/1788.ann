@@ -1,0 +1,22 @@
+T1	EXAMPLE_LABEL 8 10	23
+T2	REACTION_PRODUCT 12 92	N-cyclopropyl-4-(thiophen-3-yl)-3-(3-(3-(trifluoromethyl)phenyl)ureido)benzamide
+T3	EXAMPLE_LABEL 98 99	1
+T4	REACTION_PRODUCT 101 141	methyl 3-nitro-4-(thiophen-3-yl)benzoate
+T5	OTHER_COMPOUND 166 174	nitrogen
+T6	STARTING_MATERIAL 180 210	methyl 4-bromo-3-nitrobenzoate
+T7	STARTING_MATERIAL 231 250	3-thienylboric acid
+T8	REAGENT_CATALYST 271 287	sodium carbonate
+T9	REAGENT_CATALYST 312 349	tetrakis(triphenylphosphine)palladium
+T10	SOLVENT 403 414	1,4-dioxane
+T11	SOLVENT 428 433	water
+T12	TIME 480 487	8 hours
+T13	TEMPERATURE 508 514	90 ° C
+T14	TEMPERATURE 535 551	room temperature
+T15	OTHER_COMPOUND 590 595	water
+T16	OTHER_COMPOUND 616 629	ethyl acetate
+T17	OTHER_COMPOUND 699 714	sodium sulphate
+T18	OTHER_COMPOUND 716 729	Ethyl acetate
+T19	OTHER_COMPOUND 843 853	silica gel
+T20	REACTION_PRODUCT 864 904	methyl 3-nitro-4-(thiophen-3-yl)benzoate
+T21	YIELD_OTHER 906 912	1.12 g
+T22	YIELD_PERCENT 920 925	85.1%

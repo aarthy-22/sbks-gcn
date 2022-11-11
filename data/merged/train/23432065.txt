@@ -1,0 +1,10 @@
+Oncogenic and anti-oncogenic effects of transient receptor potential channels.
+Transient Receptor Potential (TRP) channels affect several inflammatory and neoplastic conditions.
+About thirty TRPs have been identified to date and divided into seven families: TRPC (Canonical), TRPV (Vanilloid), TRPM (Melastatin), TRPML (Mucolipin), TRPP (Polycystin), and TRPA (Ankyrin transmembrane protein) and TRPN (NomPClike).
+Among these, the TRPC, TRPM, and TRPV families have been mainly correlated with malignant growth and progression.
+The aim of this review is to summarize data reported so far on the expression and functional role of TRP channels in different types of cancers.
+TRP channels have been recently implicated in the triggering of enhanced proliferation, aberrant differentiation, and resistance to apoptotic cell death, leading to uncontrolled tumor growth and progression.
+Depending on cancer stage, up and down-regulation of TRP mRNAs and protein expression have been reported.
+These changes have been shown to exhibit cancer promoting (oncogenic) or inhibiting/delaying (tumor suppressor) effects.
+We are only at the beginning, and more detailed study on the physiopathologic role of TRP channels is required to understand how the deregulation of TRP channel expression and function contributes to tumor development and progression.
+It is hoped that greater knowledge about TRP biology will enable future development of new chemotherapeutic agents for specific TRP targets, and the use of TRP channels as evaluable markers in diagnostic and/or prognostic analysis.

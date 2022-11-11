@@ -1,0 +1,9 @@
+Atp-bound topoisomerase ii as a target for antitumor drugs.
+Topoisomerase II (TOP2) poisons interfere with the breakage/reunion reaction of TOP2 resulting in DNA cleavage.
+In the current studies, we show that two different classes (ATP-sensitive and -insensitive) of TOP2 poisons can be identified based on their differential sensitivity to the ATP-bound conformation of TOP2.
+First, in the presence of 1 mm ATP or the nonhydrolyzable analog adenosine 5'-(beta,gamma-imino)triphosphate, TOP2-mediated DNA cleavage induced by ATP-sensitive TOP2 poisons (e.g. doxorubicin, etoposide, mitoxantrone, and 4'-(9-acridinylamino)methanesulfon-m-anisidide) was 30-100-fold stimulated, whereas DNA cleavage induced by ATP-insensitive TOP2 poisons (e.g. amonafide, batracylin, and menadione) was only slightly (less than 3-fold) affected.
+In addition, ADP was shown to strongly antagonize TOP2-mediated DNA cleavage induced by ATP-sensitive but not ATP-insensitive TOP2 poisons.
+Second, C427A mutant human TOP2alpha, which exhibits reduced ATPase activity, was shown to exhibit cross-resistance to all ATP-sensitive but not ATP-insensitive TOP2 poisons.
+Third, using ciprofloxacin competition assay, TOP2-mediated DNA cleavage induced by ATP-sensitive but not ATP-insensitive poisons was shown to be antagonized by ciprofloxacin.
+These results suggest that ATP-bound TOP2 may be the specific target of ATP-sensitive TOP2 poisons.
+Using Lac repressor-operator complexes as roadblocks, we show that ATP-bound TOP2 acts as a circular clamp capable of entering DNA ends and sliding on unobstructed duplex DNA.

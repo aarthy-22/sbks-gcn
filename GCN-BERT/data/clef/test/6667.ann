@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 8 72	tert-butyl (S)-2-(3-ethoxy-3-oxopropyl)pyrrolidine-1-carboxylate
+T3	STARTING_MATERIAL 87 161	tert-butyl (S,E)-2-(3-ethoxy-3-oxoprop-1-en-1-yl)pyrrolidine-1-carboxylate
+T4	REAGENT_CATALYST 206 225	platinum (II) oxide
+T5	SOLVENT 262 269	ethanol
+T6	OTHER_COMPOUND 306 314	hydrogen
+T7	TIME 330 333	6 h
+T8	OTHER_COMPOUND 373 379	Celite
+T9	OTHER_COMPOUND 441 447	silica
+T10	OTHER_COMPOUND 468 481	ethyl acetate
+T11	OTHER_COMPOUND 485 492	hexanes
+T12	REACTION_PRODUCT 507 521	title compound
+T13	YIELD_OTHER 523 529	10.3 g
+T14	YIELD_PERCENT 531 534	87%

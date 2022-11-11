@@ -1,0 +1,12 @@
+Impact of thyroid dysfunction on erythropoietin dosage in hemodialysis patients.
+Background: Although thyroid diseases exist in patients with renal failure, thyroid function tests are not routine tests in patients on chronic hemodialysis (HD).
+Therefore, the impact of thyroid diseases on erythropoietin (EPO) dosage in HD patients is not well defined.
+This study evaluated the relationship between the dose of EPO and the presence or absence of thyroid dysfunction in HD patients.
+Methods: This study included 1013 adult patients on HD who did not have a malignancy, liver cirrhosis, thalassemia, iron deficiency, gastrointestinal bleeding, or a major operation within 6 months.
+Patients were characterized as being euthyroid, or having the sick euthyroid syndrome, primary hypothyroidism, subclinical hypothyroidism, hyperthyroidism, or subclinical hyperthyroidism based on thyroid function tests.
+Routine biochemistry profiles including an index of the efficiency of HD, along with clinical data over the previous 6-month period, were collected and analyzed.
+Multiple regression models were employed to assess the relationship between the dose of EPO and the presence or absence of thyroid status.
+Results: The mean monthly EPO dosages were 77.7±37.0, 70.2±40.6, 90.8±68.4, 78.5±46.7, and 82.3±41.2 μg, respectively, in the sick euthyroid syndrome, euthyroid patients, hypothyroidism, subclinical hypothyroidism, and subclinical hyperthyroidism groups (p<0.05).
+After adjustment of all other variables in multiple regression, the mean monthly EPO dosage was 19.00±8.59 μg more in hypothyroid patients compared with euthyroid patients (p=0.027).
+Further, considering an interaction with the presence of diabetes, the mean monthly EPO dosage in patients with either hypothyroidism or subclinical hypothyroidism and diabetes was 54.66±17.12 μg (p=0.001) and 31.51±10.38 μg more than that of euthyroid patients, respectively (p=0.002).
+Conclusions: In HD patients, the EPO dosage required to maintain the target hemoglobin level is significantly higher in patients having both hypothyroidism or subclinical hypothyroidism and diabetes than in euthyroid patients.

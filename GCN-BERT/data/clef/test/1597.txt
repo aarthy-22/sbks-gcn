@@ -1,0 +1,4 @@
+Embodiment 38
+3 - [4-(4-Cyanonaphthalen-1-yl)-1-benzothiophen-2-yl] -2,2-dimethyl propionic acid (Compound 38)
+Synthesis of compound 38-c
+At -78°C, a solution of 1M lithium diisopropylamide in THF (3mL, 3mmol) was added slowly to a solution of methyl isobutyrate (714mg, 7.1mmol) in anhydrous THF (5mL). The mixture was stirred for 1h, followed by adding 4-bromo-1-benzothiophene-2-carbaldehyde (500mg, 2.38mmol). The mixture was slowly warmed to room temperature, followed by adding NH4Cl aq. solution (20mL), being extracted with EA (30mL×3). The organic phases were combined, dried over anhydrous sodium sulfate, filtered and concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 10:1) to give compound 38-c (700mg, yield 86%).

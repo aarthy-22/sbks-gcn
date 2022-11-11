@@ -1,0 +1,21 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 23 160	trans-N-(3-amino-2,4-difluorophenyl)-2-chloro-5-(2,2-dichloro-3-(4-fluoro-3-(trifluoromethyl)phenyl)cyclopropane-1-carboxamido)benzamide.
+T3	REAGENT_CATALYST 171 188	hydrogen chloride
+T4	SOLVENT 208 215	dioxane
+T5	STARTING_MATERIAL 268 441	trans-tert-butyl-N-tert-butoxycarbonyl-N-[3-(5-(3-(4-fluoro 3-trifluoromethyl)phenyl)-2,2-dichlorocyclopropane-1-carboxamido)-2-chlorobenzamido)-2,6-difluorophenyl]carbamate
+T6	TEMPERATURE 495 501	24° C.
+T7	TIME 506 514	12 hours
+T8	OTHER_COMPOUND 520 535	dichloromethane
+T9	OTHER_COMPOUND 571 579	nitrogen
+T10	OTHER_COMPOUND 612 625	ethyl acetate
+T11	OTHER_COMPOUND 660 667	aqueous
+T12	OTHER_COMPOUND 668 686	sodium bicarbonate
+T13	OTHER_COMPOUND 708 715	aqueous
+T14	OTHER_COMPOUND 716 731	sodium chloride
+T15	OTHER_COMPOUND 801 818	magnesium sulfate
+T16	OTHER_COMPOUND 916 926	silica gel
+T17	OTHER_COMPOUND 960 973	ethyl acetate
+T18	OTHER_COMPOUND 974 981	hexanes
+T19	REACTION_PRODUCT 1005 1019	title compound
+T20	YIELD_OTHER 1037 1044	0.043 g
+T21	YIELD_PERCENT 1046 1049	53%

@@ -1,0 +1,12 @@
+Update on rivastigmine.
+BACKGROUND: Rivastigmine is a carbamate drug designed to inhibit both acetylcholinesterase and butyrylcholinesterase by reversibly covalently bonding to these enzymes.
+Butyrylcholinesterase in-creases as Alzheimer disease progresses, so its inhibition may become more important as the disease worsens.
+Metabolism of rivastigmine occurs at the synapse rather than at the liver and previous studies have demonstrated no drug-drug interactions.
+Rivastigmine has a half-life at the synapse of 9 hours allowing for bid dosing.
+REVIEW SUMMARY: Effective therapy requires up-titration from initial dosage of 3 mg/d to 6 mg/d with additional increases to 9 mg or 12 mg/d giving additional benefits in some patients.
+Beneficial effects with rivastigmine therapy in the functioning of activities of daily living, behavior, cognition, and global functioning have been demonstrated in patients with mild to moderate Alzheimer disease in 4 large double-blind, placebo-controlled multicenter clinical trials.
+Potential adverse effects of nausea, vomiting, or diarrhea in these original Alzheimer trials with rapid (every week) dosage increases occurred in up to 34% of patients and can be minimized by slower monthly up-titrations.
+Rivastigmine also was proven effective in decreasing psychiatric symptoms and cognitive deficits in a large double-blind, placebo-controlled trial in patients with diffuse Lewy body disease.
+Other studies have suggested that rivastigmine improves symptoms in nursing home patients with more severe stage Alzheimer disease, Parkinson dementia, and subcortical dementia.
+Follow-up studies have suggested that rivastigmine may delay disease progression and, in patients discontinuing the drug, no withdrawal effects were seen.
+CONCLUSION: Rivastigmine is an effective therapeutic agent for treating cognitive and behavioral symptoms in Alzheimer disease and diffuse Lewy body disease and may also have beneficial effects in vascular and Parkinson dementias.

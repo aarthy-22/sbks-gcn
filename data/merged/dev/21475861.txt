@@ -1,0 +1,13 @@
+Does aspirin acetylate multiple cellular proteins? (Review).
+Aspirin is a salicylate drug that is extensively used for its anti-inflammatory, antipyretic, analgesic and anti-thrombotic effects.
+More recently, it has been shown to decrease the incidence of cancers of epithelial origin.
+In most cases, aspirin is relatively safe.
+However, it does cause a host of adverse effects and toxicities, including gastrointestinal bleeding, ulcerations, nephrotoxicity and hypersensitivity reactions.
+Although the inhibition of cyclooxygenases by aspirin, which leads to its anti-inflammatory/analgesic properties, has been well studied, the mechanisms involved in its chemopreventive effects as well as some of its adverse effects are as yet ill-defined.
+Studies over the past decades suggest that, besides cyclooxygenases, aspirin acetylates other cellular proteins.
+These studies used radiolabeled 3H or 14C aspirin, the only approach used to date for the detection of proteins acetylated by aspirin.
+In a recent study using protein-specific anti-acetyl lysine antibodies and immunological methods, we demonstrated the ability of aspirin to acetylate the tumor suppressor protein p53.
+In this review, we present current research from the literature on the aspirin-induced acetylation of proteins.
+We also describe an immunological approach to detecting acetylated proteins in aspirin-treated cells, and demonstrate that multiple proteins are acetylated.
+Since post-translational modification of proteins, such as acetylation, may lead to the alteration of their function, it is possible that some of the hitherto unexplained beneficial or adverse effects of aspirin could occur as a result of these modifications.
+The identification of these novel acetylation targets of aspirin represents a new area for investigation.

@@ -1,0 +1,46 @@
+T36	GENE-N 53 73	muscarinic receptors
+T16	CHEMICAL 180 187	choline
+T32	GENE-Y 180 205	choline acetyltransferase
+T18	CHEMICAL 210 223	acetylcholine
+T29	GENE-N 280 314	muscarinic acetylcholine receptors
+T7	CHEMICAL 291 304	acetylcholine
+T15	CHEMICAL 417 441	[3H]N-methyl-scopolamine
+T17	CHEMICAL 477 490	acetylcholine
+T33	GENE-N 477 511	acetylcholine muscarinic receptors
+T34	GENE-N 803 822	muscarinic receptor
+T19	CHEMICAL 835 846	pirenzepine
+T20	CHEMICAL 848 938	(11(2-diethyl-amino)methyl)-1-piperidinylacetyl-5-11-dihydro-6H-py rido(14) benzodiazepine
+T21	CHEMICAL 940 949	AF-DX 116
+T22	CHEMICAL 952 961	himbacine
+T23	CHEMICAL 963 1010	4-diphenylacetoxy-N-methylpiperidine methiodide
+T24	CHEMICAL 1012 1018	4-DAMP
+T25	CHEMICAL 1021 1032	dicyclomine
+T26	CHEMICAL 1037 1061	hexahydro-sila-difenidol
+T27	CHEMICAL 1063 1067	HHSD
+T35	GENE-N 1107 1127	muscarinic receptors
+T28	GENE-Y 1303 1333	muscarinic M1 receptor subtype
+T1	CHEMICAL 1338 1349	pirenzepine
+T2	CHEMICAL 1371 1380	AF-DX 116
+T3	CHEMICAL 1402 1411	himbacine
+T4	CHEMICAL 1432 1438	4-DAMP
+T5	CHEMICAL 1459 1470	dicyclomine
+T6	CHEMICAL 1491 1495	HHSD
+T30	GENE-Y 1580 1610	muscarinic M2 receptor subtype
+T8	CHEMICAL 1615 1626	pirenzepine
+T9	CHEMICAL 1646 1655	AF-DX 116
+T10	CHEMICAL 1675 1684	himbacine
+T11	CHEMICAL 1706 1712	4-DAMP
+T12	CHEMICAL 1733 1744	dicyclomine
+T13	CHEMICAL 1765 1769	HHSD
+T31	GENE-N 1833 1867	muscarinic acetylcholine receptors
+T14	CHEMICAL 1844 1857	acetylcholine
+R0	CPR-2 Arg1:T15 Arg2:T33
+R1	CPR-6 Arg1:T21 Arg2:T34
+R2	CPR-6 Arg1:T25 Arg2:T34
+R3	CPR-2 Arg1:T1 Arg2:T28
+R4	CPR-6 Arg1:T4 Arg2:T28
+R5	CPR-6 Arg1:T8 Arg2:T30
+R6	CPR-2 Arg1:T9 Arg2:T30
+R7	CPR-2 Arg1:T11 Arg2:T30
+R8	CPR-6 Arg1:T12 Arg2:T30
+R9	CPR-2 Arg1:T12 Arg2:T30

@@ -1,0 +1,14 @@
+T8	CHEMICAL 0 7	Hydroxy
+T9	CHEMICAL 95 106	cholesterol
+T13	GENE-N 121 138	IGF1R nanodomains
+T6	CHEMICAL 1032 1039	hydroxy
+T7	CHEMICAL 1051 1070	polyethylene glycol
+T1	CHEMICAL 1180 1201	carbonyl di-imidazole
+T2	CHEMICAL 1206 1213	hydroxy
+T10	GENE-Y 1347 1389	Type I insulin-like growth factor receptor
+T11	GENE-Y 1391 1396	IGF1R
+T3	CHEMICAL 1495 1502	hydroxy
+T12	GENE-Y 1534 1539	IGF1R
+T4	CHEMICAL 1624 1635	cholesterol
+T5	CHEMICAL 1791 1798	hydroxy
+R0	NOT Arg1:T8 Arg2:T13

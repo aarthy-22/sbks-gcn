@@ -1,0 +1,21 @@
+T10	CHEMICAL 91 157	6'-substituted (E)-2-(benzofuran-3(2H)-ylidene)-N-methylacetamides
+T9	CHEMICAL 197 206	monoamine
+T21	GENE-N 197 214	monoamine oxidase
+T3	CHEMICAL 262 271	monoamine
+T15	GENE-Y 262 281	monoamine oxidase A
+T18	GENE-Y 283 288	MAO-A
+T20	GENE-Y 297 302	MAO-B
+T1	CHEMICAL 477 486	monoamine
+T13	GENE-N 477 494	monoamine oxidase
+T14	GENE-N 507 510	MAO
+T2	CHEMICAL 529 593	6'-substituted (E)-2-(benzofuran-3(2H)-ylidene)-N-alkylacetamide
+T4	CHEMICAL 616 630	6'-Sulfonyloxy
+T16	GENE-Y 679 684	MAO-A
+T5	CHEMICAL 726 737	moclobemide
+T17	GENE-N 756 763	MAO-A/B
+T6	CHEMICAL 795 807	6'-benzyloxy
+T19	GENE-Y 834 839	MAO-B
+T7	CHEMICAL 1023 1062	2-(1-benzofuran-3-yl)-N-methylacetamide
+T8	CHEMICAL 1075 1110	4-N-methylcarboxamidomethylcoumarin
+T11	GENE-N 1266 1269	MAO
+T12	GENE-N 1292 1295	MAO

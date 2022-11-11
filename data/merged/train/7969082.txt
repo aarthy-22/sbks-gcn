@@ -1,0 +1,12 @@
+Selectivity of agonists for cloned alpha 1-adrenergic receptor subtypes.
+The potencies and intrinsic activities of agonists in activating cloned alpha 1-adrenergic receptor (AR) subtypes were compared.
+The hamster alpha 1B-, bovine alpha 1C-, or rat alpha 1A/D-ARs were expressed at high levels in human embryonic kidney 293 cells.
+Catecholamines and phenylethylamines, but not lower efficacy agonists, were more potent in inhibiting radioligand binding to the expressed alpha 1A/D subtype than to the alpha 1B or alpha 1C subtypes; this selectivity remained in the presence of different buffers, nucleotides, and cations.
+Activation of all three subtypes caused substantial increases in [3H]inositol phosphate formation in cells grown in 96-well plates.
+Pretreatment with phenoxybenzamine decreased maximal responses to norepinephrine (NE) with only small decreases in apparent potency, suggesting similar small receptor reserves for all three subtypes.
+The catecholamines NE, epinephrine, and 6-fluoro-NE were full agonists with similar potencies at the three subtypes; alpha-methyl-NE was also a full agonist but was about 20-fold less potent at alpha 1B-ARs than at alpha 1C- or alpha 1A/D-ARs.
+Phenylephrine had similar potencies at all three subtypes but gave a submaximal response at alpha 1B-ARs.
+Methoxamine was a full agonist at alpha 1C- and alpha 1A/D-ARs, with about 20-fold greater potency at the alpha 1C subtype, but showed lower intrinsic activity at alpha 1B-ARs.
+A number of imidazolines, amidephrine, and SKF 89748 had substantial intrinsic activity at alpha 1C-ARs but little or no intrinsic activity at the other two subtypes.
+We conclude that the potencies of many agonists in competing for radioligand binding sites are related to their potencies in activating functional responses but that this relationship is not the same for all subtypes.
+NE and epinephrine activate all three cloned alpha 1-AR subtypes with similar potencies and intrinsic activities, but many widely used agonists show significant selectivity for different alpha 1-AR subtypes.

@@ -1,0 +1,8 @@
+The vascular protective properties of kinsenoside isolated from Anoectochilus roxburghii under high glucose condition.
+Anoectochilus roxburghii is a traditional Chinese herb used for the treatment of diabetes and some other diseases.
+The vascular protective effect of its major active ingredient, kinsenoside, in high glucose conditions was investigated in in vivo and in vitro experiments.
+In in vivo tests, kinsenoside (50 and 100mg/kg) efficiently lowered blood glucose and cholesterol levels and it enhanced the oxidation resistance of diabetic mice induced by streptozotocin.
+In the in vitro assay, kinsenoside (20 and 50μg/mL) markedly inhibited changes in various biochemical substances (nitric oxide (NO), lactic dehydrogenase (LDH), superoxide dismutase (SOD), and catalase (CAT)) in human umbilical vein endothelial cells (HUVECs) damaged by high glucose (35mM) and restored vascular endothelial structure by balancing the matrix metalloproteinases-the tissue inhibitors of matrix metalloproteinases (MMP-TIMP) system.
+The vascular protective effects of kinsenoside were speculated to be attributed to oxidative stress inhibition and the reduction of nuclear factor kappa B (NF-κB) mRNA expression levels in high glucose conditions.
+Moreover, histological examination, including hematoxylin-eosin (H&E) staining, masson trichrome (Masson) staining, and periodic Schiff-methenamine (PASM) staining, greatly supported the morphological and functional amelioration of diabetes-related changes in mice aortas after kinsenoside (20 and 50μg/mL) treatment.
+These results indicated that kinsenoside might be a promising agent for the treatment of diabetic vascular disease.

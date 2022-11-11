@@ -1,0 +1,20 @@
+T19	GENE-Y 0 13	Interleukin 2
+T17	GENE-N 157 196	eukaryotic cell receptor binding domain
+T4	GENE-Y 222 235	interleukin 2
+T5	GENE-Y 237 241	IL-2
+T6	GENE-N 262 282	T cell growth factor
+T7	GENE-Y 399 403	IL-2
+T8	GENE-Y 489 493	IL-2
+T9	GENE-N 506 510	IL-2
+T10	GENE-N 635 649	IL-2 receptors
+T11	GENE-Y 760 764	IL-2
+T12	GENE-Y 803 807	IL-2
+T13	GENE-Y 851 854	p55
+T14	GENE-N 856 859	Tac
+T15	GENE-N 898 911	IL-2 receptor
+T16	GENE-Y 926 930	IL-2
+T1	CHEMICAL 1032 1053	adenosine diphosphate
+T18	GENE-N 1032 1073	adenosine diphosphate ribosyl transferase
+T2	CHEMICAL 1054 1061	ribosyl
+T3	GENE-Y 1198 1202	IL-2
+R0	NOT Arg1:T16 Arg2:T1

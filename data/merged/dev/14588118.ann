@@ -1,0 +1,21 @@
+T13	CHEMICAL 0 11	Minocycline
+T7	CHEMICAL 138 149	minocycline
+T6	CHEMICAL 344 355	minocycline
+T8	CHEMICAL 459 470	minocycline
+T9	CHEMICAL 685 696	minocycline
+T10	CHEMICAL 857 868	minocycline
+T11	CHEMICAL 930 941	minocycline
+T12	CHEMICAL 1047 1058	Minocycline
+T1	CHEMICAL 1158 1190	deoxyuridine triphosphate-biotin
+T2	CHEMICAL 1394 1405	minocycline
+T3	CHEMICAL 1420 1431	minocycline
+T14	GENE-Y 1477 1486	caspase-3
+T4	CHEMICAL 1589 1600	minocycline
+T15	GENE-Y 1635 1649	interleukin-10
+T16	GENE-Y 1669 1696	tumor necrosis factor-alpha
+T5	CHEMICAL 1745 1756	minocycline
+T17	GENE-N 1791 1800	cytokines
+R0	CPR-4 Arg1:T3 Arg2:T14
+R1	CPR-3 Arg1:T4 Arg2:T15
+R2	CPR-4 Arg1:T4 Arg2:T16
+R3	CPR-2 Arg1:T5 Arg2:T17

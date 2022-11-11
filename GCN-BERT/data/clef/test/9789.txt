@@ -1,0 +1,4 @@
+[Example 34]
+Synthesis of compound 1-1264
+Step 1
+The compound 69 (300 mg, 1.91 mmol) was dissolved in DMF (6 mL). N-chlorosuccinimide (255 mg, 1.91 mmol) was added to the solution. The mixture was stirred for 3 hours. Water was added to the reaction mixture. The mixture was extracted with ethyl acetate. The organic layer was washed by brine, and dried over sodium sulfate. The solvent was evaporated under reduced pressure. The obtained residue was solidified with ethyl acetate to give the compound 70 (321 mg, yield 87%).

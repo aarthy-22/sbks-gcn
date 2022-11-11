@@ -1,0 +1,2 @@
+Synthesis of Compound 53
+A solution of Compound 52 (28.2 mg, 0.06 mmol) trifluoroacetic acid (1.0 mL) in CH2Cl2 (5 mL) was stirred for 3 hours at room temperature. The solvent was removed under reduced pressure to yield compound 53 (20.4 mg, 88.2%) as a gray solid which could be used in next step without further purification. LC-MS m/z (ES+), 413.21 (M+H)+.

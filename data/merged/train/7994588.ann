@@ -1,0 +1,12 @@
+T7	CHEMICAL 82 91	verapamil
+T8	CHEMICAL 96 106	lovastatin
+T9	GENE-Y 302 340	low density lipoprotein (LDL) receptor
+T10	GENE-Y 426 438	LDL receptor
+T1	CHEMICAL 477 511	hydroxy methyl glutaryl Coenzyme A
+T11	GENE-Y 477 531	hydroxy methyl glutaryl Coenzyme A (HMG-CoA) reductase
+T2	CHEMICAL 513 520	HMG-CoA
+T3	CHEMICAL 551 561	lovastatin
+T4	CHEMICAL 601 608	calcium
+T5	CHEMICAL 620 629	verapamil
+T6	CHEMICAL 771 781	lovastatin
+R0	CPR-4 Arg1:T3 Arg2:T11

@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 7 52	3-((3-Methylisoxazol-5-yl)methyl)cyclohexanol
+T3	STARTING_MATERIAL 53 99	3-((3-Methylisoxazol-5-yl)methyl)cyclohexanone
+T4	SOLVENT 137 145	methanol
+T5	REAGENT_CATALYST 155 173	sodium borohydride
+T6	TEMPERATURE 208 224	room temperature
+T7	TEMPERATURE 267 283	room temperature
+T8	TIME 288 295	4 hours
+T9	OTHER_COMPOUND 338 343	water
+T10	OTHER_COMPOUND 371 384	ethyl acetate
+T11	OTHER_COMPOUND 442 460	sodium bicarbonate
+T12	OTHER_COMPOUND 504 518	sodium sulfate
+T13	OTHER_COMPOUND 616 626	silica gel
+T14	OTHER_COMPOUND 654 669	petroleum ether
+T15	OTHER_COMPOUND 672 685	ethyl acetate
+T16	REACTION_PRODUCT 705 750	3-((3-methylisoxazol-5-yl)methyl)cyclohexanol
+T17	YIELD_OTHER 752 758	1.21 g
+T18	YIELD_PERCENT 796 799	60%

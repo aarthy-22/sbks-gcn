@@ -1,0 +1,12 @@
+NMDA receptor signaling mediates the expression of protein inhibitor of activated STAT1 (PIAS1) in rat hippocampus.
+Protein inhibitor of activated STAT1 (PIAS1) was shown to play an important role in inflammation and innate immune response, but how PIAS1 is regulated is not known.
+We have recently demonstrated that PIAS1 enhances spatial learning and memory performance in rats.
+In this study, we examined the signaling pathway and neural mechanism that regulate PIAS1 expression in the brain by using pharmacological and molecular approaches.
+Our results revealed that pias1 gene expression is rapidly induced upon NMDA receptor activation in rat hippocampus, but this effect is blocked by transfection of sub-threshold concentrations of ERK1 siRNA/ERK2 siRNA or CREB siRNA.
+Pias1 gene expression is similarly induced by overexpression of the ERK1/ERK2 plasmids in rat hippocampus, and this effect is also blocked by sub-threshold concentration of CREB siRNA transfection.
+On the other hand, transfection of ERK1 siRNA/ERK2 siRNA or CREB siRNA at a higher concentration is sufficient to down-regulate PIAS1 expression.
+Inhibition of PI-3 kinase signaling and CaMKII signaling, which both result in CREB inactivation, similarly decreases PIAS1 expression.
+But NMDA and MK-801 do not affect the expression of IL-6 and TNFα.
+NMDA also did not affect the expression of PIAS2, PIAS3 and PIAS4.
+Further, pias1 mRNA has a similar degradation rate to that of the zif268 gene.
+These results together suggest that pias1 may function as an immediate early gene in an activity-dependent manner and PIAS1 expression is regulated by the NMDA-MAPK/ERK-CREB signaling pathway implicated in neuronal plasticity.

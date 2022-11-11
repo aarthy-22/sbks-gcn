@@ -1,0 +1,11 @@
+The increased number of Leydig cells by di(2-ethylhexyl) phthalate comes from the differentiation of stem cells into Leydig cell lineage in the adult rat testis.
+The objective of the present study is to determine whether di(2-ethylhexyl) phthalate (DEHP) exposure at adulthood increases rat Leydig cell number and to investigate the possible mechanism.
+90-day-old Long-Evans rats were randomly divided into 3 groups, and were gavaged with the corn oil (control) or 10 or 750mg/kg DEHP daily for 7 days, and then received an intraperitoneal injection of 75mg/kg ethane dimethanesulfonate (EDS) to eliminate Leydig cells.
+Serum testosterone concentrations were assessed by RIA, and the mRNA levels of Leydig cell genes were measured by qPCR.
+EDS eliminated all Leydig cells in the control testis on day 4 post-EDS, as judged by undetectable serum testosterone level and no 3β-hydroxysteroid dehydrogenase positive (3β-HSD(pos)) cells in the interstitium.
+However, in DEHP-treated groups, there were detectable serum testosterone concentrations and some oval-shaped 3β-HSD(pos) cells in the interstitium.
+These 3β-HSD(pos) cells were not stained by the antibody against 11β-hydroxysteroid dehydrogenase 1 (11β-HSD1), a marker for Leydig cells at a more advanced stage.
+The disappearance of mRNAs of Leydig cell biomarkers including Lhcgr, Cyp11a1, Cyp17a1, Insl3 and Hsd11b1 in the control testis was observed on day 4 post-EDS.
+However, there were detectable concentrations of Lhcgr, Cyp11a1 and Cyp17a1 mRNAs but undetectable concentrations of Insl3, Hsd17b3 and Hsd11b1 in the DEHP-treated testes, indicating that these 3β-HSD(pos) cells were newly formed progenitor Leydig cells.
+The mRNA level for nestin (Nes, biomarker for stem Leydig cells) was significantly increased in the control testis on day 4 post-EDS, but not in the DEHP treated testes, suggesting that these nestin positive stem cells were differentiated into progenitor Leydig cells in the DEHP-treated testes.
+The present study suggests that DEHP increases the differentiation of stem cells into progenitor Leydig cells.

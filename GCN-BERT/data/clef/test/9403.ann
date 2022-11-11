@@ -1,0 +1,975 @@
+T1	OTHER_COMPOUND 399 407	urethane
+T2	OTHER_COMPOUND 860 876	polycaprolactone
+T3	OTHER_COMPOUND 881 893	polyethylene
+T4	OTHER_COMPOUND 1004 1014	degradable
+T5	OTHER_COMPOUND 1209 1223	urethane resin
+T6	OTHER_COMPOUND 1248 1269	aromatic diisocyanate
+T7	OTHER_COMPOUND 1277 1283	polyol
+T8	OTHER_COMPOUND 1305 1320	polyesterpolyol
+T9	OTHER_COMPOUND 1327 1353	C2-C8 polymethylene glycol
+T10	OTHER_COMPOUND 1386 1401	polyesterpolyol
+T11	OTHER_COMPOUND 1409 1429	polymethylene glycol
+T12	OTHER_COMPOUND 1612 1626	urethane resin
+T13	OTHER_COMPOUND 1654 1675	aromatic diisocyanate
+T14	OTHER_COMPOUND 1683 1689	polyol
+T15	OTHER_COMPOUND 1711 1726	polyesterpolyol
+T16	OTHER_COMPOUND 1733 1759	C2-C8 polymethylene glycol
+T17	OTHER_COMPOUND 1792 1807	polyesterpolyol
+T18	OTHER_COMPOUND 1815 1835	polymethylene glycol
+T19	OTHER_COMPOUND 1876 1891	polyesterpolyol
+T20	OTHER_COMPOUND 1899 1919	polymethylene glycol
+T21	OTHER_COMPOUND 1977 1992	polyesterpolyol
+T22	OTHER_COMPOUND 2036 2056	polymethylene glycol
+T23	OTHER_COMPOUND 2198 2209	oxycarbonyl
+T24	OTHER_COMPOUND 2221 2223	—O
+T25	OTHER_COMPOUND 2344 2359	polyesterpolyol
+T26	OTHER_COMPOUND 2444 2465	aromatic diisocyanate
+T27	OTHER_COMPOUND 2474 2480	polyol
+T28	REACTION_PRODUCT 2570 2585	polyesterpolyol
+T29	OTHER_COMPOUND 2589 2611	polycaprolactonepolyol
+T30	OTHER_COMPOUND 2698 2720	polycaprolactonepolyol
+T31	OTHER_COMPOUND 2805 2826	aromatic diisocyanate
+T32	OTHER_COMPOUND 2835 2841	polyol
+T33	OTHER_COMPOUND 2945 2965	polymethylene glycol
+T34	OTHER_COMPOUND 3049 3070	aromatic diisocyanate
+T35	OTHER_COMPOUND 3079 3085	polyol
+T36	OTHER_COMPOUND 3175 3195	polymethylene glycol
+T37	OTHER_COMPOUND 3199 3212	1,4-butandiol
+T38	OTHER_COMPOUND 3216 3230	1,6-hexanediol
+T39	OTHER_COMPOUND 3334 3355	aromatic diisocyanate
+T40	OTHER_COMPOUND 3449 3461	diisocyanate
+T41	OTHER_COMPOUND 3470 3476	polyol
+T42	OTHER_COMPOUND 3575 3587	diisocyanate
+T43	OTHER_COMPOUND 3591 3623	4,4′-diphenylmethanediisocyanate
+T44	OTHER_COMPOUND 3697 3703	polyol
+T45	OTHER_COMPOUND 3714 3727	polyesterdiol
+T46	OTHER_COMPOUND 3729 3755	C2-C8 polymethylene glycol
+T47	REACTION_PRODUCT 3760 3765	triol
+T48	OTHER_COMPOUND 3855 3868	polyesterdiol
+T49	OTHER_COMPOUND 3870 3896	C2-C8 polymethylene glycol
+T50	OTHER_COMPOUND 3898 3903	triol
+T51	OTHER_COMPOUND 3908 3929	aromatic diisocyanate
+T52	OTHER_COMPOUND 4080 4101	aromatic diisocyanate
+T53	OTHER_COMPOUND 4110 4116	polyol
+T54	OTHER_COMPOUND 4190 4196	polyol
+T55	OTHER_COMPOUND 4207 4229	polycaprolactonepolyol
+T56	OTHER_COMPOUND 4231 4257	C2-C8 polymethylene glycol
+T57	OTHER_COMPOUND 4313 4319	castor
+T58	OTHER_COMPOUND 4328 4340	hydrogenated
+T59	OTHER_COMPOUND 4341 4351	castor oil
+T60	OTHER_COMPOUND 4441 4463	polycaprolactonepolyol
+T61	OTHER_COMPOUND 4465 4470	C2-C8
+T62	OTHER_COMPOUND 4471 4491	polymethylene glycol
+T63	OTHER_COMPOUND 4493 4503	castor oil
+T64	OTHER_COMPOUND 4524 4534	castor oil
+T65	OTHER_COMPOUND 4539 4560	aromatic diisocyanate
+T66	OTHER_COMPOUND 4711 4732	aromatic diisocyanate
+T67	OTHER_COMPOUND 4741 4747	polyol
+T68	OTHER_COMPOUND 4991 5000	pesticide
+T69	OTHER_COMPOUND 5267 5275	urethane
+T70	OTHER_COMPOUND 5370 5384	urethane resin
+T71	OTHER_COMPOUND 5412 5433	aromatic diisocyanate
+T72	OTHER_COMPOUND 5441 5447	polyol
+T73	OTHER_COMPOUND 5469 5484	polyesterpolyol
+T74	OTHER_COMPOUND 5491 5517	C2-C8 polymethylene glycol
+T75	OTHER_COMPOUND 5542 5557	polyesterpolyol
+T76	OTHER_COMPOUND 5565 5585	polymethylene glycol
+T77	OTHER_COMPOUND 5607 5622	polyesterpolyol
+T78	OTHER_COMPOUND 5639 5654	polyesterpolyol
+T79	OTHER_COMPOUND 5684 5695	oxycarbonyl
+T80	OTHER_COMPOUND 5707 5709	—O
+T81	REACTION_PRODUCT 5744 5759	polyesterpolyol
+T82	OTHER_COMPOUND 5773 5790	polylactonepolyol
+T83	OTHER_COMPOUND 5855 5862	lactone
+T84	OTHER_COMPOUND 5899 5905	polyol
+T85	OTHER_COMPOUND 5923 5930	lactone
+T86	OTHER_COMPOUND 5947 5962	β-propiolactone
+T87	OTHER_COMPOUND 5964 5996	γ-butyrolactone, δ-valerolactone
+T88	OTHER_COMPOUND 6001 6015	ε-caprolactone
+T89	OTHER_COMPOUND 6054 6060	polyol
+T90	OTHER_COMPOUND 6094 6109	ethylene glycol
+T91	OTHER_COMPOUND 6111 6121	diethylene
+T92	OTHER_COMPOUND 6130 6146	propylene glycol
+T93	OTHER_COMPOUND 6148 6162	1,4-butanediol
+T94	OTHER_COMPOUND 6164 6179	1,5-pentanediol
+T95	OTHER_COMPOUND 6181 6195	1,6-hexanediol
+T96	OTHER_COMPOUND 6200 6214	1,8-octanediol
+T97	OTHER_COMPOUND 6220 6237	trivalent alcohol
+T98	OTHER_COMPOUND 6246 6307	2-ethyl-2-(hydroxymethyl)-1,3-propanediol(trimethylolpropane)
+T99	OTHER_COMPOUND 6309 6342	2-(hydroxymethyl)-1,3-propanediol
+T100	OTHER_COMPOUND 6344 6352	glycerin
+T101	OTHER_COMPOUND 6357 6372	triethanolamine
+T102	REACTION_PRODUCT 6385 6400	polyesterpolyol
+T103	OTHER_COMPOUND 6404 6426	polycaprolactonepolyol
+T104	OTHER_COMPOUND 6489 6503	ε-caprolactone
+T105	OTHER_COMPOUND 6558 6564	polyol
+T106	OTHER_COMPOUND 6601 6647	polycaprolactonepolyol(polycaprolactonediol or
+T107	OTHER_COMPOUND 6691 6699	hydroxyl
+T108	REACTION_PRODUCT 6745 6767	polycaprolactonepolyol
+T109	OTHER_COMPOUND 6773 6779	polyol
+T110	OTHER_COMPOUND 6800 6823	(1-oxohexa-1,6-diyl)oxy
+T111	OTHER_COMPOUND 6835 6841	—C(═O)
+T112	OTHER_COMPOUND 6842 6845	CH2
+T113	OTHER_COMPOUND 7047 7061	ethylene group
+T114	OTHER_COMPOUND 7063 7083	tetramethylene group
+T115	OTHER_COMPOUND 7272 7291	propane-1,2,3-triyl
+T116	OTHER_COMPOUND 7329 7351	polycaprolactonepolyol
+T117	OTHER_COMPOUND 7401 7415	ε-caprolactone
+T118	OTHER_COMPOUND 7433 7448	ethylene glycol
+T119	OTHER_COMPOUND 7496 7497	—
+T120	OTHER_COMPOUND 7506 7510	CH2—
+T121	OTHER_COMPOUND 7514 7517	CH2
+T122	OTHER_COMPOUND 7518 7522	C(═O
+T123	OTHER_COMPOUND 7528 7531	CH2
+T124	OTHER_COMPOUND 7557 7560	CH2
+T125	OTHER_COMPOUND 7593 7615	polycaprolactonepolyol
+T126	OTHER_COMPOUND 7640 7651	oxycarbonyl
+T127	OTHER_COMPOUND 7663 7665	—O
+T128	OTHER_COMPOUND 7666 7672	C(═O)—
+T129	OTHER_COMPOUND 7799 7813	ε-caprolactone
+T130	OTHER_COMPOUND 7818 7833	ethylene glycol
+T131	OTHER_COMPOUND 7963 7977	hydroxyl group
+T132	REACTION_PRODUCT 7985 8007	polycaprolactonepolyol
+T133	OTHER_COMPOUND 8115 8129	ε-caprolactone
+T134	OTHER_COMPOUND 8162 8170	hydroxyl
+T135	OTHER_COMPOUND 8206 8228	polycaprolactonepolyol
+T136	OTHER_COMPOUND 8323 8331	hydroxyl
+T137	OTHER_COMPOUND 8345 8367	polycaprolactonepolyol
+T138	OTHER_COMPOUND 8410 8425	polyesterpolyol
+T139	OTHER_COMPOUND 8556 8577	aromatic diisocyanate
+T140	REACTION_PRODUCT 8610 8636	C2-C8 polymethylene glycol
+T141	OTHER_COMPOUND 8645 8653	ethylene
+T142	OTHER_COMPOUND 8662 8677	1,3-propanediol
+T143	OTHER_COMPOUND 8679 8693	1,4-butanediol
+T144	OTHER_COMPOUND 8695 8710	1,5-pentanediol
+T145	OTHER_COMPOUND 8712 8726	1,6-hexanediol
+T146	OTHER_COMPOUND 8731 8745	1,8-octanediol
+T147	OTHER_COMPOUND 8759 8773	1,4-butanediol
+T148	OTHER_COMPOUND 8778 8792	1,6-hexanediol
+T149	OTHER_COMPOUND 8827 8847	polymethylene glycol
+T150	OTHER_COMPOUND 8939 8960	aromatic diisocyanate
+T151	OTHER_COMPOUND 8969 8975	polyol
+T152	OTHER_COMPOUND 8993 9014	aromatic diisocyanate
+T153	OTHER_COMPOUND 9064 9071	benzene
+T154	OTHER_COMPOUND 9086 9119	4,4′-diphenylmethane diisocyanate
+T155	OTHER_COMPOUND 9121 9124	MDI
+T156	OTHER_COMPOUND 9127 9148	tolylene diisocyanate
+T157	OTHER_COMPOUND 9150 9153	TDI
+T158	OTHER_COMPOUND 9156 9164	xylylene
+T159	OTHER_COMPOUND 9179 9182	XDI
+T160	REAGENT_CATALYST 9185 9206	tolidine diisocyanate
+T161	STARTING_MATERIAL 9208 9212	TODI
+T162	OTHER_COMPOUND 9218 9253	tetramethylenexylylene diisocyanate
+T163	OTHER_COMPOUND 9255 9260	TMXDI
+T164	OTHER_COMPOUND 9299 9310	naphthalene
+T165	OTHER_COMPOUND 9324 9352	naphthalene 1,5-diisocyanate
+T166	OTHER_COMPOUND 9430 9442	diisocyanate
+T167	OTHER_COMPOUND 9450 9456	polyol
+T168	OTHER_COMPOUND 9476 9484	aromatic
+T169	OTHER_COMPOUND 9485 9497	diisocyanate
+T170	OTHER_COMPOUND 9511 9514	MDI
+T171	OTHER_COMPOUND 9548 9569	aromatic diisocyanate
+T172	OTHER_COMPOUND 9662 9683	aromatic diisocyanate
+T173	OTHER_COMPOUND 9692 9698	polyol
+T174	OTHER_COMPOUND 9747 9753	polyol
+T175	OTHER_COMPOUND 9807 9820	polyesterdiol
+T176	OTHER_COMPOUND 9828 9848	polycaprolactonediol
+T177	OTHER_COMPOUND 9853 9879	C2-C8 polymethylene glycol
+T178	OTHER_COMPOUND 9886 9891	triol
+T179	OTHER_COMPOUND 9899 9920	polycaprolactonetriol
+T180	OTHER_COMPOUND 9922 9932	castor oil
+T181	OTHER_COMPOUND 9979 9992	polyesterdiol
+T182	OTHER_COMPOUND 9994 10020	C2-C8 polymethylene glycol
+T183	OTHER_COMPOUND 10022 10027	triol
+T184	OTHER_COMPOUND 10032 10053	aromatic diisocyanate
+T185	OTHER_COMPOUND 10203 10209	polyol
+T186	OTHER_COMPOUND 10236 10244	urethane
+T187	OTHER_COMPOUND 10263 10285	polycaprolactonepolyol
+T188	OTHER_COMPOUND 10292 10318	C2-C8 polymethylene glycol
+T189	OTHER_COMPOUND 10375 10385	castor oil
+T190	OTHER_COMPOUND 10390 10402	hydrogenated
+T191	OTHER_COMPOUND 10414 10420	castor
+T192	OTHER_COMPOUND 10421 10424	oil
+T193	OTHER_COMPOUND 10445 10467	polycaprolactonepolyol
+T194	OTHER_COMPOUND 10469 10474	C2-C8
+T195	OTHER_COMPOUND 10475 10495	polymethylene glycol
+T196	OTHER_COMPOUND 10497 10507	castor oil
+T197	OTHER_COMPOUND 10511 10512	/
+T198	OTHER_COMPOUND 10528 10538	castor oil
+T199	OTHER_COMPOUND 10543 10564	aromatic diisocyanate
+T200	OTHER_COMPOUND 10716 10726	isocyanate
+T201	OTHER_COMPOUND 10728 10731	NCO
+T202	OTHER_COMPOUND 10746 10767	aromatic diisocyanate
+T203	OTHER_COMPOUND 10785 10787	OH
+T204	OTHER_COMPOUND 10802 10808	polyol
+T205	OTHER_COMPOUND 10919 10940	aromatic diisocyanate
+T206	OTHER_COMPOUND 10947 10953	polyol
+T207	OTHER_COMPOUND 11118 11125	granule
+T208	OTHER_COMPOUND 11155 11167	diisocyanate
+T209	OTHER_COMPOUND 11174 11180	polyol
+T210	OTHER_COMPOUND 11275 11283	aromatic
+T211	OTHER_COMPOUND 11284 11297	diisocyanates
+T212	OTHER_COMPOUND 11302 11309	polyols
+T213	OTHER_COMPOUND 11355 11377	aromatic diisocyanates
+T214	OTHER_COMPOUND 11392 11399	polyols
+T215	OTHER_COMPOUND 11434 11448	polyisocyanate
+T216	OTHER_COMPOUND 11486 11493	polyols
+T217	OTHER_COMPOUND 11622 11634	diisocyanate
+T218	OTHER_COMPOUND 11641 11647	polyol
+T219	OTHER_COMPOUND 11834 11848	hydroxyl group
+T220	OTHER_COMPOUND 11856 11872	isocyanate group
+T221	OTHER_COMPOUND 12001 12009	urethane
+T222	OTHER_COMPOUND 12024 12035	organometal
+T223	OTHER_COMPOUND 12054 12071	potassium acetate
+T224	OTHER_COMPOUND 12073 12088	calcium acetate
+T225	OTHER_COMPOUND 12090 12106	stannous octoate
+T226	REAGENT_CATALYST 12108 12128	dibutyltin diacetate
+T227	REAGENT_CATALYST 12130 12151	dibutyltin dichloride
+T228	REAGENT_CATALYST 12153 12173	dibutyltin dilaurate
+T229	REAGENT_CATALYST 12175 12198	dibutinthiostannic acid
+T230	REAGENT_CATALYST 12200 12217	stannous octylate
+T231	REAGENT_CATALYST 12219 12242	di-n-octyltin dilaurate
+T232	REAGENT_CATALYST 12244 12262	isopropyl titanate
+T233	REAGENT_CATALYST 12264 12289	bismuth 2-ethyl hexanoate
+T234	REAGENT_CATALYST 12291 12300	phosphine
+T235	OTHER_COMPOUND 12302 12319	zinc neodecanoate
+T236	OTHER_COMPOUND 12321 12340	tetrabutyl titanate
+T237	OTHER_COMPOUND 12342 12363	oxyisopropyl vanadate
+T238	OTHER_COMPOUND 12365 12383	n-propyl zirconate
+T239	OTHER_COMPOUND 12402 12407	amine
+T240	OTHER_COMPOUND 12426 12439	triethylamine
+T241	OTHER_COMPOUND 12441 12477	N,N,N′,N′-tetramethylethylenediamine
+T242	OTHER_COMPOUND 12479 12497	triethylenediamine
+T243	OTHER_COMPOUND 12499 12517	N-methylmorpholine
+T244	OTHER_COMPOUND 12519 12545	N,N-dimethyldidodecylamine
+T245	OTHER_COMPOUND 12547 12566	N-dodecylmorpholine
+T246	OTHER_COMPOUND 12568 12595	N,N-dimethylcyclohexylamine
+T247	OTHER_COMPOUND 12597 12614	N-ethylmorpholine
+T248	OTHER_COMPOUND 12616 12636	dimethylethanolamine
+T249	OTHER_COMPOUND 12638 12661	N,N-dimethylbenzylamine
+T250	OTHER_COMPOUND 12663 12700	2,4,6-tris(dimethylaminomethyl)phenol
+T251	OTHER_COMPOUND 12750 12758	aromatic
+T252	OTHER_COMPOUND 12759 12771	diisocyanate
+T253	OTHER_COMPOUND 12778 12784	polyol
+T254	OTHER_COMPOUND 12819 12828	necessary
+T255	OTHER_COMPOUND 12889 12910	aromatic diisocyanate
+T256	OTHER_COMPOUND 12917 12931	hydroxyl group
+T257	OTHER_COMPOUND 12939 12945	polyol
+T258	OTHER_COMPOUND 12977 12985	urethane
+T259	OTHER_COMPOUND 13139 13147	urethane
+T260	OTHER_COMPOUND 13176 13184	urethane
+T261	OTHER_COMPOUND 13273 13280	granule
+T262	REACTION_PRODUCT 13692 13761	fenitrothion [O,O-dimethyl O-(3-methyl-4-nitrophenyl)phosphorothioate
+T263	REACTION_PRODUCT 13762 13835	, fenthion[O,O-dimethyl O-(3-methyl-4-(methylyhio)phenyl)phosphorothioate
+T264	REACTION_PRODUCT 13836 13914	, diazinon [O,O-diethyl O-2-isopropyl-6-methylpyrimidin-4-yl phosphorothioate]
+T265	REACTION_PRODUCT 13916 14036	chlorpyrifos[O,O-diethyl O-3,5,6-trichloro-2-pyridyl phosphorothioate], acephate[O,S-dimethyl acetylphosphoramidothioate
+T266	REACTION_PRODUCT 14039 14319	methidathion [S -2,3-dihydro-5-methoxy-2-oxo-1,3,4-thiadiazol-3-ylmethyl O,O-dimethyl phosphorodithioate], disulfoton[O,O-diethyl S-2-ethylthioethyl phosphorodithioate], DDVP[2,2-dichlorovinyl dimethylphosphate], sulprofos[O-ethyl O-4-(methylyhio)phenyl S-propylphosphorodithioate
+T267	REACTION_PRODUCT 14320 14514	, cyanophos[O-4-cyanophenyl O-dimethyl phosphorothioate], dioxabenzofos [2-methoxy-4H -1,3,2-benzodioxaphosphorine-2-sulfide], dimethoate [O,O-dimethyl S-(N-methylcarbamoylmethyl)dithiophosphate
+T268	REACTION_PRODUCT 14517 14636	phenthoate [ethyl 2-dimethoxyphosphinothioyl(phenyl)acetate], malathion[diethyl (dimethoxyphosphinothioylthio)succinate
+T269	REACTION_PRODUCT 14637 14946	, trichlorfon[dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate], azinphos-methyl[S-3,4-dihydro-4-oxo-1,2,3-benzotriazin-3-ylmethyl O,O-dimethyl phosphorodithioate], monocrotophos[dimethyl (E)-1-methyl-2-(methylcarbamoyl)vinyl phosphate] and ethion [O,O,O′,O′-tetraethyl S,S′-methylenebis (phosphorodithioate
+T270	REACTION_PRODUCT 14978 15503	BPMC[2-sec-butylphenyl methylcarbamate], benfuracarb[ethyl N-{2,3-dihydro-2,2-dimethylbenzofuran-7-yloxycarbonyl(methyl)aminothio}-N-isopropyl-β-alaninate], propoxur[2-isopropoxyphenyl N-methylcarbamate], carbosulfan[2,3-dihydro-2,2-dimethyl-7-benzo[b]furanyl N-dibutylaminothio-N-methylcarbamate], carbaryl[1-naphthyl N-methylcarbamate], methomyl[S-methyl-N-(methylcarbamoyloxy)thioacetimidate], ethiofencarb[2-(ethylthiomethyl)phenyl methylcarbamate], aldicarb[2-methyl-2-(methylthio)propionaldehyde O-methylcarbamoyl oxime
+T271	REACTION_PRODUCT 15504 15636	, oxamyl[N,N-dimethyl-2-methylcarbamoyloxyimino-2-(methylthio)acetamide] and fenothiocarb[S-4-phenoxybutyl N,N-dimethylthiocarbamate
+T272	REACTION_PRODUCT 15668 15822	etofenprox[2-(4-ethoxyphenyl)-2-methyl-1-(3-phenoxybenzyl)oxypropane], fenvalerate[(RS)-α-cyano-(3-phenoxybenzyl) (RS)-2-(4-chlorophenyl)-3-methylbutyrate
+T273	REACTION_PRODUCT 15823 16576	, esfenvalerate[(S)-α-cyano-(3-phenoxybenzyl) (S)-2-(4-chlorophenyl)-3-methylbutyrate], fenpropathrin[(RS)-α-cyano-(3-phenoxybenzyl) 2,2,3,3-tetramethylcyclopropanecarboxylate], cypermethrin[(RS)-α-cyano-(3-phenoxybenzyl) (1RS)-cis,trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate], permethrin[3-phenoxybenzyl(1RS)-cis,trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate], cyhalothrin [(RS)-α-cyano-(3-phenoxybenzyl) (1RS,3Z)-cis-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate], deltamethrin[(S)-α-cyano-3--phenoxybenzyl (1R)-cis-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate], cycloprothrin[(RS)-α-cyano-3-phenoxybenzyl (RS)-2,2-dichlorovinyl-1-(4-ethoxyphenyl) cyclopropanecarboxylate
+T274	REACTION_PRODUCT 16579 16664	fluvalinate [α-cyano-3-phenoxybenzyl N-(2-chloro-α,α,α-trifluoro-p-tolyl)-D-valinate]
+T275	REACTION_PRODUCT 16666 16792	biphenthrin [2-methyl-3--phenylbenzyl (1RS,3Z)-cis-3-(2-chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylate
+T276	REACTION_PRODUCT 16795 17001	halfenprox [2-(4-bromodifluoromethoxyphenyl)-2-methyl-1-(3-phenoxybenzyl) methylpropane], tralomethrin [(S)-α-cyano-3--phenoxybenzyl (1R)-cis-3-(1,2,2,2-tetrabromoethyl)-2,2--dimethylcyclopropanecarboxylate
+T277	REACTION_PRODUCT 17004 17314	silafluofen [(4-ethoxyphenyl)-{3-(4-fluoro-3-phenoxyphenyl)propyl}dimethylsilane], d-phenothrin [3--phenoxybenzyl (1R)-cis,trans-2,2-dimethyl-3-(2-methyl-1-propenyl) cyclopropanecarboxylate], cyphenothrin [(RS)-α-cyano-3-phenoxybenzyl (1R)-cis,trans-2,2-dimethyl-3-(2-methyl-1-propenyl) cyclopropanecarboxylate
+T278	REACTION_PRODUCT 17317 17429	d-resmethrin [5-benzyl-3--furylmethyl (1R)-cis,trans-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate
+T279	REACTION_PRODUCT 17432 17573	acrinathrin [(S)-α-cyano-3-phenoxybenzyl (1R,3Z)-cis-2,2-dimethyl-3-{3-oxo-(1,1,1,3,3,3-hexafluoropropyloxy)propenyl}cyclopropanecarboxylate]
+T280	REACTION_PRODUCT 17575 17585	cyfluthrin
+T281	REACTION_PRODUCT 17587 17682	(RS)-α-cyano-4-fluoro-3-phenoxybenzyl 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate
+T282	REACTION_PRODUCT 17685 17821	tefluthrin [2,3,5,6-tetrafluoro-4-methylbenzyl (1RS,3Z)-cis-3-(2-chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylate]
+T283	REACTION_PRODUCT 17823 18060	transfluthrin [2,3,5,6-tetrafluorobenzyl (1R)-trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate], tetramethrin [3,4,5,6-tetrahydrophthalimidomethyl (1RS)-cis,trans-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate
+T284	REACTION_PRODUCT 18061 18606	, allethrin[(RS)-2-methyl-4-oxo-3-(2-propenyl)-2-cyclopenten-1-yl (1RS)-cis,trans-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate], prallethrin[(S)-2-methyl-4-oxo-3-(2-propynyl)-2-cyclopenten-1-yl (1R)-cis,trans-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate], empenthrin[(RS)-1-ethynyl-2-methyl-2-pentenyl (1R)-cis,trans-2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate], imiprothrin [2,5-dioxo-3-(2-propynyl)imidazolidin-1-ylmethyl (1R)-cis,trans -2,2-dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylate
+T285	REACTION_PRODUCT 18607 18723	, d-furamethrin [5-(2-propynyl)furfuryl (1R)-cis, trans-2,2-dimethyl-3-(2-methyl-1-propenyl) cyclopropanecarboxylate
+T286	REACTION_PRODUCT 18729 18794	5-(2-propynyl)furfuryl 2,2,3,3-tetramethylcyclopropanecarboxylate
+T287	REACTION_PRODUCT 18796 18819	thiadiazine derivatives
+T288	OTHER_COMPOUND 18828 18838	buprofezin
+T289	OTHER_COMPOUND 18936 18947	nereistoxin
+T290	OTHER_COMPOUND 18968 19077	cartap [S,S′-(2-dimethylaminotrimethyl)bis(thiocarbamate)], thiocyclam [N,N-dimethyl-1,2,3-trithian-5-ylamine
+T291	REACTION_PRODUCT 19083 19128	bensultap [S,S′-2-dimethylaminotrimethylenedi
+T292	REACTION_PRODUCT 19153 19167	N-cyanoamidine
+T293	REACTION_PRODUCT 19188 19247	N-cyano-N′-methyl-N′-(6-chloro-3-pyridylmethyl) acetamidine
+T294	REACTION_PRODUCT 19291 19394	endosulfan [6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepine oxide
+T295	REACTION_PRODUCT 19442 19497	dicofol [1,1-bis(4-chlorophenyl)-2,2,2-trichloroethanol
+T296	OTHER_COMPOUND 19536 19552	chlorfluazuron [
+T297	REACTION_PRODUCT 19552 19649	1-{3,5-dichloro-4-(3-chloro-5-trifluoromethylpyridin-2-yloxy) phenyl}-3-(2,6-difluorobenzoyl)urea
+T298	OTHER_COMPOUND 19652 19665	teflubenzuron
+T299	OTHER_COMPOUND 19667 19731	1-(3,5-dichloro-2,4-difluorophenyl)-3-(2,6-difluorobenzoyl) urea
+T300	OTHER_COMPOUND 19737 19835	flufenoxuron [1-{4-(2-chloro-4-trifluoromethylphenoxy)-2-fluorophenyl}-3-(2,6-difluorobenzoyl)urea
+T301	OTHER_COMPOUND 19870 19927	amitraz [N,N-{(methylimino)dimethylidine}-di-2,4-xylidine
+T302	REACTION_PRODUCT 19933 20006	chlorodimeform [N′-(4-chloro -2-methylphenyl)-N,N-dimethylmethinimidamide
+T303	REACTION_PRODUCT 20038 20111	diafenthiuron[N-(2,6-diisopropyl-4-phenoxyphenyl)-N′-t-butylcarbodiimide]
+T304	OTHER_COMPOUND 20141 20153	metoxadiazon
+T305	REACTION_PRODUCT 20213 20260	bromopropylate [isopropyl 4,4′-dibromobenzilate
+T306	OTHER_COMPOUND 20263 20275	tetradifon [
+T307	REACTION_PRODUCT 20275 20319	4-chlorophenyl 2,4,5-trichlorophenyl sulfone
+T308	REACTION_PRODUCT 20322 20386	chinomethionat [S,S -6-methylquinoxaline-2,3-diyldithiocarbonate
+T309	REACTION_PRODUCT 20389 20451	propargite [2-(4-tert-butylphenoxy)cyclohexylprop-2-yl sulfite
+T310	OTHER_COMPOUND 20454 20464	fenbutatin
+T311	REACTION_PRODUCT 20760 20862	fenpyroximate [tert-butyl (E)-4-[(1,3-dimethyl-5-phenoxypyrazol-4-yl) methyleneaminooxymethyl]benzoate
+T312	OTHER_COMPOUND 20865 20877	tebufenpyrad
+T313	OTHER_COMPOUND 20950 20960	polynactin
+T314	OTHER_COMPOUND 20983 20991	dinactin
+T315	REACTION_PRODUCT 21005 21103	pyrimidifen [5-chloro-N-[2-{4-(2-ethoxyethyl)-2,3-dimethylphenoxy}ethyl]-6-ethylpyrimidine-4-amine
+T316	REACTION_PRODUCT 21106 21117	milbemectin
+T317	REACTION_PRODUCT 21119 21128	abamectin
+T318	REACTION_PRODUCT 21130 21140	ivermectin
+T319	OTHER_COMPOUND 21142 21154	azadirachtin
+T320	REACTION_PRODUCT 21161 21311	; 5-methyl [1,2,4]triazolo[3,4-b]benzothiazol; methyl 1-(butylcarbaraoyl)benzimidazol-2-carbamate; 6-(3,5-dichloro-4-methylphenyl)-3(2H)-pyridazinone;
+T321	REACTION_PRODUCT 21312 21461	1-(4-chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)butanone; (E)-4-chloro-2-(trifluoromethyl)-N-[1-(imidazol-1-yl)-2-propoxyethylidene]aniline
+T322	REACTION_PRODUCT 21463 21677	1-[N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]carbamoyl]imidazole; (E)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl)-1-penten-3-ol; 1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl)pentan-3-ol;
+T323	REACTION_PRODUCT 21678 21895	(E)-1-(2,4-dichlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl)penten-3-ol; 1-(2,4-dichlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl)pentan-3-ol; 4-[3-(4-tert-butylphenyl)-2-methylpropyl]-2,6-dimethylmorpholine;
+T324	REACTION_PRODUCT 21896 22198	2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl)hexan-2-ol; O,O-diethyl O-2-quinoxalinyl phosphorothioate; O-(6-ethoxy-2-ethyl-4-pyromidinyl) O,O-dimethyl phosphorothioate; 2-diethylamino-5,6-dimethylpyrimidin-4-yl dimethylcarbamate; 4-(2,4-dichlorobenzoyl)-1,3-dimethyl-5-pyrazolyl p-toluenesulfonate;
+T325	REACTION_PRODUCT 22199 22352	4-amino-6-(1,1-dimethylethyl)-3-methylthio-1,2,4-triazin-5(4H)-one, 2-chloro-N-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl) aminocarbonyl] benzenesulfonamide
+T326	REACTION_PRODUCT 22354 23083	2-methoxycarbonyl-N-[(4,6-dimethoxypyrimidin-2-yl)aminocarbonyl]benzenesulfonamide; 2-methoxycarbonyl-N-[(4,6-dimethylpyrimidin-2-yl)aminocarbonyl]benzenesulfonamide; 2-methoxycarbonyl-N-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)aminocarbonyl]benzenesulfonamide; 2-ethoxycarbonyl-N-[(4-chloro-6-methoxypyrimidin-2-yl)aminocarbonyl]benzenesulfonamide; 2-(2-chloroethoxy)-N-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)aminocarbonyl]benzenesulfonamide; 2-methoxycarbonyl-N-[(4,6-dimethoxypyrimidin-2-yl) aminocarbonyl]phenylmethanesulfonamide; 2-methoxycarbonyl-N-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)aminocarbonyl]thiophene-3-sulfonamide; 4-ethoxycarbonyl-N-[(4,6-dimethoxypyrimidin-2-yl) aminocarbonyl]-1-methylpyrazole-5-sulfonamide
+T327	REACTION_PRODUCT 23085 23177	2-[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-3-quinolinecarboxylic acid
+T328	REACTION_PRODUCT 23179 23278	2-[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-5-ethyl-3-pyridinecarboxylic acid
+T329	REACTION_PRODUCT 23280 23596	methyl 6-(4-isopropyl-4-methyl-5-oxoimidazolin-2-yl)-m-toluate; methyl 2-(4-isopropyl-4-methyl-5-oxoimidazolin-2-yl)-p-toluate; 2-(4-isopropyl-4-methyl-5-oxoimidazolin-2-yl) nicotinic acid; N-(4-chlorophenyl)methyl-N-cyclopentyl-N′-phenylurea; (RS)-2-cyano-N-[(R)-1-(2,4-dichlorophenyl)ethyl]-3,3-dimethylbutyramide;
+T330	REACTION_PRODUCT 23597 23938	N-(1,3-dihydro-1,1,3-trimethylisobenzofuran-4-yl)-5-chloro-1,3-dimethylpyrazole-4-carboxamide; N-[2,6-dibrobo-4-(trifluoromethoxy) phenyl]-2-methyl-4-(trifluoromethyl)-5-thiazolecarboxamide; 2,2-dichloro-N-[1-(4-chlorophenyl)ethyl]-3-methylcyclopropanecarboxamide; methyl (E)-2-2-6-(2-cyanophenoxy)pyrimidin-4-yloxy-phenyl-3-methoxyacrylate;
+T331	REACTION_PRODUCT 23939 23982	5-methyl-1,2,4-triazolo[3,4-b]benzothiazole
+T332	REACTION_PRODUCT 23984 24026	3-allyloxy-1,2-benzisothiazole-1,1-dioxide
+T333	REACTION_PRODUCT 24028 24071	diisopropyl 1,3-dithiolan-2-ylidenemalonate
+T334	REACTION_PRODUCT 24076 24113	O,O-dipropyl O-4-methylthio phosphate
+T335	OTHER_COMPOUND 24206 24214	nitrogen
+T336	OTHER_COMPOUND 24228 24237	potassium
+T337	OTHER_COMPOUND 24239 24246	silicon
+T338	OTHER_COMPOUND 24248 24257	magnesium
+T339	OTHER_COMPOUND 24259 24266	calcium
+T340	OTHER_COMPOUND 24268 24277	manganese
+T341	OTHER_COMPOUND 24279 24284	boron
+T342	OTHER_COMPOUND 24286 24290	iron
+T343	OTHER_COMPOUND 24401 24409	nitrogen
+T344	OTHER_COMPOUND 24440 24444	urea
+T345	OTHER_COMPOUND 24446 24462	ammonium nitrate
+T346	OTHER_COMPOUND 24464 24490	magnesium ammonium nitrate
+T347	OTHER_COMPOUND 24492 24509	ammonium chloride
+T348	OTHER_COMPOUND 24511 24527	ammonium sulfate
+T349	OTHER_COMPOUND 24529 24547	ammonium phosphate
+T350	OTHER_COMPOUND 24549 24563	sodium nitrate
+T351	OTHER_COMPOUND 24565 24580	calcium nitrate
+T352	OTHER_COMPOUND 24582 24599	potassium nitrate
+T353	OTHER_COMPOUND 24601 24614	lime nitrogen
+T354	OTHER_COMPOUND 24616 24643	formaldehyde-condensed urea
+T355	OTHER_COMPOUND 24645 24647	UF
+T356	OTHER_COMPOUND 24650 24677	acetaldehyde-condensed urea
+T357	OTHER_COMPOUND 24679 24682	CDU
+T358	OTHER_COMPOUND 24685 24716	isobutylaldehyde-condensed urea
+T359	OTHER_COMPOUND 24718 24722	IBDU
+T360	OTHER_COMPOUND 24728 24739	guanyl urea
+T361	OTHER_COMPOUND 24741 24743	GU
+T362	OTHER_COMPOUND 24746 24761	phosphoric acid
+T363	OTHER_COMPOUND 24792 24814	calcium superphosphate
+T364	OTHER_COMPOUND 24841 24845	lime
+T365	OTHER_COMPOUND 24847 24863	fused phosphorus
+T366	OTHER_COMPOUND 24865 24881	humus phosphorus
+T367	OTHER_COMPOUND 24883 24902	calcined phosphorus
+T368	OTHER_COMPOUND 24904 24912	sintered
+T369	OTHER_COMPOUND 24925 24934	magnesiun
+T370	OTHER_COMPOUND 24951 24973	ammonium polyphosphate
+T371	OTHER_COMPOUND 24975 24998	potassium metaphosphate
+T372	OTHER_COMPOUND 25000 25021	calcium metaphosphate
+T373	OTHER_COMPOUND 25023 25042	magnesium phosphate
+T374	OTHER_COMPOUND 25044 25070	ammonium sulfate phosphate
+T375	OTHER_COMPOUND 25072 25108	ammonium potassium phosphate nitrate
+T376	OTHER_COMPOUND 25110 25142	ammonium hydrochloride phosphate
+T377	OTHER_COMPOUND 25157 25166	potassium
+T378	OTHER_COMPOUND 25197 25215	potassium chloride
+T379	OTHER_COMPOUND 25217 25234	potassium sulfate
+T380	OTHER_COMPOUND 25236 25260	potassium sodium sulfate
+T381	OTHER_COMPOUND 25262 25288	potassium magnesia sulfate
+T382	OTHER_COMPOUND 25290 25311	potassium bicarbonate
+T383	OTHER_COMPOUND 25313 25332	potassium phosphate
+T384	OTHER_COMPOUND 25347 25357	silic acid
+T385	OTHER_COMPOUND 25388 25404	calcium silicate
+T386	OTHER_COMPOUND 25458 25475	magnesium sulfate
+T387	OTHER_COMPOUND 25477 25495	magnesium chloride
+T388	OTHER_COMPOUND 25510 25517	calcium
+T389	OTHER_COMPOUND 25548 25561	calcium oxide
+T390	OTHER_COMPOUND 25563 25580	calcium hydroxide
+T391	OTHER_COMPOUND 25582 25599	calcium carbonate
+T392	OTHER_COMPOUND 25654 25671	manganese sulfate
+T393	OTHER_COMPOUND 25673 25699	magnesia manganese sulfate
+T394	OTHER_COMPOUND 25706 25715	manganese
+T395	OTHER_COMPOUND 25730 25735	boron
+T396	OTHER_COMPOUND 25766 25776	boric acid
+T397	OTHER_COMPOUND 25799 25803	iron
+T398	OTHER_COMPOUND 25845 25850	steel
+T399	OTHER_COMPOUND 26332 26347	kaolin minerals
+T400	OTHER_COMPOUND 26356 26365	kaolinite
+T401	OTHER_COMPOUND 26380 26387	mineral
+T402	OTHER_COMPOUND 26422 26430	smectite
+T403	OTHER_COMPOUND 26432 26436	talc
+T404	OTHER_COMPOUND 26438 26450	agalmatolite
+T405	OTHER_COMPOUND 26452 26476	hydrous calcium silicate
+T406	OTHER_COMPOUND 26478 26495	calcium carbonate
+T407	OTHER_COMPOUND 26497 26504	zeolite
+T408	OTHER_COMPOUND 26554 26563	cellulose
+T409	OTHER_COMPOUND 26571 26577	starch
+T410	OTHER_COMPOUND 26579 26586	soybean
+T411	OTHER_COMPOUND 26608 26613	water
+T412	OTHER_COMPOUND 26638 26645	lactose
+T413	OTHER_COMPOUND 26647 26654	sucrose
+T414	OTHER_COMPOUND 26656 26663	dextrin
+T415	OTHER_COMPOUND 26665 26680	sodium chloride
+T416	OTHER_COMPOUND 26682 26705	sodium tripolyphosphate
+T417	OTHER_COMPOUND 27341 27355	urethane resin
+T418	OTHER_COMPOUND 27408 27429	aromatic diisocyanate
+T419	OTHER_COMPOUND 27437 27443	polyol
+T420	OTHER_COMPOUND 27485 27500	polyesterpolyol
+T421	OTHER_COMPOUND 27534 27560	C2-C8 polymethylene glycol
+T422	OTHER_COMPOUND 27647 27661	urethane resin
+T423	OTHER_COMPOUND 27711 27714	MDI
+T424	OTHER_COMPOUND 27722 27728	polyol
+T425	OTHER_COMPOUND 27770 27785	polyesterpolyol
+T426	OTHER_COMPOUND 27819 27845	C2-C8 polymethylene glycol
+T427	OTHER_COMPOUND 27917 27924	granule
+T428	OTHER_COMPOUND 27932 27946	urethane resin
+T429	OTHER_COMPOUND 27999 28020	aromatic diisocyanate
+T430	OTHER_COMPOUND 28028 28034	polyol
+T431	OTHER_COMPOUND 28074 28096	polycaprolactonepolyol
+T432	OTHER_COMPOUND 28130 28156	C2-C8 polymethylene glycol
+T433	OTHER_COMPOUND 28243 28257	urethane resin
+T434	OTHER_COMPOUND 28307 28310	MDI
+T435	OTHER_COMPOUND 28318 28324	polyol
+T436	OTHER_COMPOUND 28364 28386	polycaprolactonepolyol
+T437	OTHER_COMPOUND 28420 28446	C2-C8 polymethylene glycol
+T438	OTHER_COMPOUND 28533 28547	urethane resin
+T439	OTHER_COMPOUND 28609 28621	diisocyanate
+T440	OTHER_COMPOUND 28648 28651	MDI
+T441	OTHER_COMPOUND 28705 28727	polycaprolactonepolyol
+T442	OTHER_COMPOUND 28799 28825	C2-C8 polymethylene glycol
+T443	OTHER_COMPOUND 28912 28926	urethane resin
+T444	OTHER_COMPOUND 28948 28951	MDI
+T445	OTHER_COMPOUND 28959 28965	polyol
+T446	OTHER_COMPOUND 28977 28997	polycaprolactonediol
+T447	OTHER_COMPOUND 29042 29068	C2-C8 polymethylene glycol
+T448	OTHER_COMPOUND 29155 29169	urethane resin
+T449	OTHER_COMPOUND 29191 29194	MDI
+T450	OTHER_COMPOUND 29202 29208	polyol
+T451	OTHER_COMPOUND 29220 29240	polycaprolactonediol
+T452	OTHER_COMPOUND 29280 29301	polycaprolactonetriol
+T453	OTHER_COMPOUND 29346 29372	C2-C8 polymethylene glycol
+T454	OTHER_COMPOUND 29459 29467	urethane
+T455	OTHER_COMPOUND 29495 29498	MDI
+T456	OTHER_COMPOUND 29506 29512	polyol
+T457	OTHER_COMPOUND 29524 29545	polycaprolactonetriol
+T458	OTHER_COMPOUND 29590 29616	C2-C8 polymethylene glycol
+T459	OTHER_COMPOUND 29703 29717	urethane resin
+T460	OTHER_COMPOUND 29739 29742	MDI
+T461	OTHER_COMPOUND 29750 29756	polyol
+T462	OTHER_COMPOUND 29768 29788	polycaprolactonediol
+T463	OTHER_COMPOUND 29828 29849	polyoxypropylenetriol
+T464	OTHER_COMPOUND 29856 29882	C2-C8 polymethylene glycol
+T465	OTHER_COMPOUND 29969 29983	urethane resin
+T466	OTHER_COMPOUND 30005 30008	MDI
+T467	OTHER_COMPOUND 30016 30022	polyol
+T468	OTHER_COMPOUND 30034 30054	polycaprolactonediol
+T469	OTHER_COMPOUND 30094 30104	castor oil
+T470	OTHER_COMPOUND 30111 30137	C2-C8 polymethylene glycol
+T471	OTHER_COMPOUND 30224 30232	urethane
+T472	OTHER_COMPOUND 30260 30263	MDI
+T473	OTHER_COMPOUND 30271 30277	polyol
+T474	OTHER_COMPOUND 30289 30309	polycaprolactonediol
+T475	OTHER_COMPOUND 30349 30370	polycaprolactonetriol
+T476	OTHER_COMPOUND 30415 30441	C2-C8 polymethylene glycol
+T477	OTHER_COMPOUND 30619 30624	triol
+T478	OTHER_COMPOUND 30632 30638	polyol
+T479	OTHER_COMPOUND 30718 30725	triol)[
+T480	OTHER_COMPOUND 30781 30787	triols
+T481	OTHER_COMPOUND 30938 30952	urethane resin
+T482	OTHER_COMPOUND 30974 30977	MDI
+T483	OTHER_COMPOUND 30985 30991	polyol
+T484	OTHER_COMPOUND 31003 31024	polycaprolactonetriol
+T485	OTHER_COMPOUND 31069 31095	C2-C8 polymethylene glycol
+T486	OTHER_COMPOUND 31256 31270	urethane resin
+T487	OTHER_COMPOUND 31292 31295	MDI
+T488	OTHER_COMPOUND 31303 31309	polyol
+T489	OTHER_COMPOUND 31321 31341	polycaprolactonediol
+T490	OTHER_COMPOUND 31381 31402	polyoxypropylenetriol
+T491	OTHER_COMPOUND 31409 31435	C2-C8 polymethylene glycol
+T492	OTHER_COMPOUND 31596 31610	urethane resin
+T493	OTHER_COMPOUND 31632 31635	MDI
+T494	OTHER_COMPOUND 31643 31649	polyol
+T495	OTHER_COMPOUND 31661 31681	polycaprolactonediol
+T496	OTHER_COMPOUND 31721 31731	castor oil
+T497	OTHER_COMPOUND 31738 31764	C2-C8 polymethylene glycol
+T498	OTHER_COMPOUND 31916 31930	urethane resin
+T499	OTHER_COMPOUND 31952 31955	MDI
+T500	OTHER_COMPOUND 31963 31969	polyol
+T501	OTHER_COMPOUND 31981 32001	polycaprolactonediol
+T502	OTHER_COMPOUND 32046 32072	C2-C8 polymethylene glycol
+T503	OTHER_COMPOUND 32150 32164	urethane resin
+T504	OTHER_COMPOUND 32186 32189	MDI
+T505	OTHER_COMPOUND 32197 32203	polyol
+T506	OTHER_COMPOUND 32215 32235	polycaprolactonediol
+T507	OTHER_COMPOUND 32275 32296	polycaprolactonetriol
+T508	OTHER_COMPOUND 32341 32367	C2-C8 polymethylene glycol
+T509	OTHER_COMPOUND 32445 32459	urethane resin
+T510	OTHER_COMPOUND 32481 32484	MDI
+T511	OTHER_COMPOUND 32492 32506	polyol mixture
+T512	OTHER_COMPOUND 32510 32531	polycaprolactonetriol
+T513	OTHER_COMPOUND 32576 32602	C2-C8 polymethylene glycol
+T514	OTHER_COMPOUND 32654 32664	fertilizer
+T515	OTHER_COMPOUND 32680 32694	urethane resin
+T516	OTHER_COMPOUND 32716 32719	MDI
+T517	OTHER_COMPOUND 32727 32733	polyol
+T518	OTHER_COMPOUND 32745 32765	polycaprolactonediol
+T519	OTHER_COMPOUND 32805 32826	polyoxypropylenetriol
+T520	OTHER_COMPOUND 32833 32859	C2-C8 polymethylene glycol
+T521	OTHER_COMPOUND 32937 32951	urethane resin
+T522	OTHER_COMPOUND 32973 32976	MDI
+T523	OTHER_COMPOUND 32984 32990	polyol
+T524	OTHER_COMPOUND 33002 33022	polycaprolactonediol
+T525	OTHER_COMPOUND 33062 33068	castor
+T526	OTHER_COMPOUND 33079 33105	C2-C8 polymethylene glycol
+T527	OTHER_COMPOUND 33181 33195	urethane resin
+T528	OTHER_COMPOUND 33217 33220	MDI
+T529	OTHER_COMPOUND 33228 33234	polyol
+T530	OTHER_COMPOUND 33246 33266	polycaprolactonediol
+T531	OTHER_COMPOUND 33311 33337	C2-C8 polymethylene glycol
+T532	OTHER_COMPOUND 33413 33427	urethane resin
+T533	OTHER_COMPOUND 33449 33452	MDI
+T534	OTHER_COMPOUND 33460 33466	polyol
+T535	OTHER_COMPOUND 33478 33498	polycaprolactonediol
+T536	OTHER_COMPOUND 33538 33559	polycaprolactonetriol
+T537	OTHER_COMPOUND 33604 33630	C2-C8 polymethylene glycol
+T538	OTHER_COMPOUND 33706 33720	urethane resin
+T539	OTHER_COMPOUND 33742 33745	MDI
+T540	OTHER_COMPOUND 33753 33759	polyol
+T541	OTHER_COMPOUND 33771 33792	polycaprolactonetriol
+T542	OTHER_COMPOUND 33837 33863	C2-C8 polymethylene glycol
+T543	OTHER_COMPOUND 33924 33931	granule
+T544	OTHER_COMPOUND 33939 33953	urethane resin
+T545	OTHER_COMPOUND 33975 33978	MDI
+T546	OTHER_COMPOUND 34004 34024	polycaprolactonediol
+T547	REACTION_PRODUCT 34064 34085	polyoxypropylenetriol
+T548	OTHER_COMPOUND 34092 34118	C2-C8 polymethylene glycol
+T549	OTHER_COMPOUND 34194 34208	urethane resin
+T550	OTHER_COMPOUND 34230 34233	MDI
+T551	OTHER_COMPOUND 34241 34247	polyol
+T552	OTHER_COMPOUND 34259 34279	polycaprolactonediol
+T553	OTHER_COMPOUND 34319 34329	castor oil
+T554	OTHER_COMPOUND 34336 34362	C2-C8 polymethylene glycol
+T555	OTHER_COMPOUND 34470 34478	urethane
+T556	OTHER_COMPOUND 34525 34532	granule
+T557	OTHER_COMPOUND 34673 34687	urethane resin
+T558	OTHER_COMPOUND 34839 34860	aromatic diisocyanate
+T559	OTHER_COMPOUND 34867 34873	polyol
+T560	OTHER_COMPOUND 35012 35026	urethane resin
+T561	OTHER_COMPOUND 35083 35104	aromatic diisocyanate
+T562	OTHER_COMPOUND 35254 35268	urethane resin
+T563	OTHER_COMPOUND 35400 35407	polyols
+T564	OTHER_COMPOUND 35454 35475	aromatic diisocyanate
+T565	OTHER_COMPOUND 35533 35540	granule
+T566	OTHER_COMPOUND 35813 35834	aromatic diisocyanate
+T567	OTHER_COMPOUND 35956 35977	aromatic diisocyanate
+T568	OTHER_COMPOUND 35979 35994	polyesterpolyol
+T569	OTHER_COMPOUND 35999 36025	C2-C8 polymethylene glycol
+T570	OTHER_COMPOUND 36157 36172	polyesterpolyol
+T571	OTHER_COMPOUND 36174 36195	aromatic diisocyanate
+T572	OTHER_COMPOUND 36200 36226	C2-C8 polymethylene glycol
+T573	OTHER_COMPOUND 36280 36287	granule
+T574	OTHER_COMPOUND 36360 36381	aromatic diisocyanate
+T575	OTHER_COMPOUND 36387 36393	polyol
+T576	TEMPERATURE 36405 36410	20 to
+T577	TEMPERATURE 36411 36418	200° C.
+T578	TEMPERATURE 36431 36443	50 to 150° C
+T579	OTHER_COMPOUND 36672 36680	urethane
+T580	OTHER_COMPOUND 36715 36736	aromatic diisocyanate
+T581	OTHER_COMPOUND 36745 36751	polyol
+T582	OTHER_COMPOUND 37340 37354	urethane resin
+T583	OTHER_COMPOUND 37428 37436	urethane
+T584	TEMPERATURE 37503 37509	100° C
+T585	OTHER_COMPOUND 37650 37664	urethane resin
+T586	TEMPERATURE 37739 37744	20° C
+T587	OTHER_COMPOUND 37776 37785	aliphatic
+T588	OTHER_COMPOUND 37814 37822	paraffin
+T589	OTHER_COMPOUND 37833 37845	hydrocarbons
+T590	OTHER_COMPOUND 37854 37871	phenylxylylethane
+T591	OTHER_COMPOUND 37873 37887	distyrylxylene
+T592	OTHER_COMPOUND 37889 37901	alkylbenzene
+T593	OTHER_COMPOUND 37955 37965	fatty acid
+T594	OTHER_COMPOUND 37990 37999	vegetable
+T595	OTHER_COMPOUND 38025 38039	cottonseed oil
+T596	OTHER_COMPOUND 38442 38454	core granule
+T597	OTHER_COMPOUND 39101 39115	urethane resin
+T598	OTHER_COMPOUND 39135 39156	aromatic diisocyanate
+T599	OTHER_COMPOUND 39160 39166	polyol
+T600	OTHER_COMPOUND 39480 39489	particles
+T601	OTHER_COMPOUND 39510 39520	isocyanate
+T602	OTHER_COMPOUND 39534 39555	aromatic diisocyanate
+T603	OTHER_COMPOUND 39562 39570	hydroxyl
+T604	OTHER_COMPOUND 39584 39590	polyol
+T605	OTHER_COMPOUND 39660 39674	urethane resin
+T606	OTHER_COMPOUND 39722 39736	urethane resin
+T607	OTHER_COMPOUND 39918 39926	urethane
+T608	OTHER_COMPOUND 40072 40080	urethane
+T609	TIME 40270 40272	16
+T610	OTHER_COMPOUND 40425 40431	liquid
+T611	OTHER_COMPOUND 40635 40649	urethane resin
+T612	OTHER_COMPOUND 40715 40723	granular
+T613	OTHER_COMPOUND 40757 40765	urethane
+T614	OTHER_COMPOUND 40852 40860	urethane
+T615	OTHER_COMPOUND 40909 40923	urethane resin
+T616	OTHER_COMPOUND 41147 41161	urethane resin
+T617	REACTION_PRODUCT 41383 41391	Urethane
+T618	REACTION_PRODUCT 41398 41402	Film
+T619	TEMPERATURE 41522 41527	50° C
+T620	OTHER_COMPOUND 41554 41601	2,4,6-tris(dimethylaminomethyl)phenol(catalyst)
+T621	OTHER_COMPOUND 41616 41637	aromatic diisocyanate
+T622	TEMPERATURE 41649 41654	50° C
+T623	TEMPERATURE 41801 41806	70° C
+T624	TIME 41812 41819	3 hours
+T625	OTHER_COMPOUND 41850 41858	urethane
+T626	OTHER_COMPOUND 41872 41873	A
+T627	OTHER_COMPOUND 41879 41880	F
+T628	STARTING_MATERIAL 42064 42078	1,4-Butanediol
+T629	STARTING_MATERIAL 42080 42082	OH
+T630	STARTING_MATERIAL 42104 42118	1,6-Hexanediol
+T631	STARTING_MATERIAL 42144 42162	Trimethylolpropane
+T632	STARTING_MATERIAL 42613 42615	OH
+T633	OTHER_COMPOUND 42891 42894	MDI
+T634	OTHER_COMPOUND 42896 42907	Sumidur 44S
+T635	OTHER_COMPOUND 42938 42946	Urethane
+T636	OTHER_COMPOUND 42954 42995	polymethylenepolyphenylene polyisocyanate
+T637	OTHER_COMPOUND 43058 43073	ethylene glycol
+T638	OTHER_COMPOUND 43129 43143	1,4-butanediol
+T639	OTHER_COMPOUND 43199 43213	1,6-hexanediol
+T640	OTHER_COMPOUND 43269 43291	polycaprolactonediol A
+T641	OTHER_COMPOUND 43322 43328	Daicel
+T642	OTHER_COMPOUND 43357 43379	polycaprolactonediol B
+T643	OTHER_COMPOUND 43381 43388	Placcel
+T644	OTHER_COMPOUND 43445 43455	castor oil
+T645	OTHER_COMPOUND 43534 43571	2,4,6-tris(dimethylaminomethyl)phenol
+T646	OTHER_COMPOUND 43573 43576	TAP
+T647	EXAMPLE_LABEL 43643 43644	1
+T648	OTHER_COMPOUND 43661 43669	Urethane
+T649	OTHER_COMPOUND 43670 43675	Resin
+T650	OTHER_COMPOUND 43684 43688	Soil
+T651	OTHER_COMPOUND 43697 43698	A
+T652	OTHER_COMPOUND 43707 43708	D
+T653	OTHER_COMPOUND 43717 43718	F
+T654	TEMPERATURE 43896 43901	28° C
+T655	OTHER_COMPOUND 43924 43932	moisture
+T656	OTHER_COMPOUND 44049 44054	water
+T657	OTHER_COMPOUND 44313 44321	granular
+T658	OTHER_COMPOUND 44359 44372	granular urea
+T659	OTHER_COMPOUND 44380 44393	granular urea
+T660	OTHER_COMPOUND 44459 44474	urethane resins
+T661	OTHER_COMPOUND 44504 44511	(A)-(D)
+T662	OTHER_COMPOUND 44514 44515	F
+T663	OTHER_COMPOUND 44598 44611	granular urea
+T664	OTHER_COMPOUND 44663 44667	urea
+T665	TEMPERATURE 44691 44696	70° C
+T666	OTHER_COMPOUND 44705 44708	air
+T667	OTHER_COMPOUND 44745 44753	paraffin
+T668	TIME 44803 44813	10 minutes
+T669	OTHER_COMPOUND 44848 44858	unhardened
+T670	TIME 44985 44994	3 minutes
+T671	OTHER_COMPOUND 45040 45054	urethane resin
+T672	OTHER_COMPOUND 45162 45176	urethane resin
+T673	TEMPERATURE 45262 45278	room temperature
+T674	REACTION_PRODUCT 45297 45311	granular ureas
+T675	REACTION_PRODUCT 45312 45319	(A)-(D)
+T676	OTHER_COMPOUND 45322 45323	F
+T677	OTHER_COMPOUND 45389 45395	polyol
+T678	TEMPERATURE 45435 45440	50° C
+T679	OTHER_COMPOUND 45447 45484	2,4,6-tris(dimethylaminomethyl)phenol
+T680	OTHER_COMPOUND 45486 45494	catalyst
+T681	OTHER_COMPOUND 45523 45544	aromatic diisocyanate
+T682	TEMPERATURE 45556 45561	50° C
+T683	OTHER_COMPOUND 45723 45736	granular urea
+T684	OTHER_COMPOUND 45744 45757	granular urea
+T685	OTHER_COMPOUND 45823 45831	urethane
+T686	OTHER_COMPOUND 45868 45869	E
+T687	OTHER_COMPOUND 45946 45950	urea
+T688	OTHER_COMPOUND 46002 46006	urea
+T689	TEMPERATURE 46030 46035	70° C
+T690	OTHER_COMPOUND 46044 46047	air
+T691	OTHER_COMPOUND 46080 46090	unhardened
+T692	OTHER_COMPOUND 46091 46099	urethane
+T693	TIME 46214 46223	8 minutes
+T694	OTHER_COMPOUND 46269 46277	urethane
+T695	OTHER_COMPOUND 46391 46399	urethane
+T696	TEMPERATURE 46491 46507	room temperature
+T697	OTHER_COMPOUND 46526 46539	granular urea
+T698	REACTION_PRODUCT 46541 46542	E
+T699	OTHER_COMPOUND 46589 46593	Urea
+T700	OTHER_COMPOUND 46764 46769	water
+T701	TEMPERATURE 46834 46839	25° C
+T702	OTHER_COMPOUND 46910 46914	urea
+T703	OTHER_COMPOUND 47079 47092	granular urea
+T704	OTHER_COMPOUND 47094 47095	A
+T705	OTHER_COMPOUND 47107 47120	granular urea
+T706	OTHER_COMPOUND 47122 47123	B
+T707	OTHER_COMPOUND 47135 47148	granular urea
+T708	OTHER_COMPOUND 47150 47151	D
+T709	OTHER_COMPOUND 47163 47176	granular urea
+T710	OTHER_COMPOUND 47178 47179	E
+T711	OTHER_COMPOUND 47191 47204	granular urea
+T712	OTHER_COMPOUND 47206 47207	F
+T713	OTHER_COMPOUND 47228 47232	urea
+T714	OTHER_COMPOUND 47247 47260	granular urea
+T715	OTHER_COMPOUND 47262 47263	b
+T716	OTHER_COMPOUND 47352 47360	urethane
+T717	OTHER_COMPOUND 47397 47404	(G)-(K)
+T718	REACTION_PRODUCT 47439 47453	granular ureas
+T719	OTHER_COMPOUND 47547 47562	urethane resins
+T720	OTHER_COMPOUND 47593 47594	L
+T721	OTHER_COMPOUND 47603 47604	P
+T722	OTHER_COMPOUND 47611 47612	Q
+T723	OTHER_COMPOUND 47657 47662	ureas
+T724	OTHER_COMPOUND 47674 47675	P
+T725	OTHER_COMPOUND 47682 47683	Q
+T726	OTHER_COMPOUND 47788 47802	urethane resin
+T727	OTHER_COMPOUND 47833 47834	N
+T728	TIME 47953 47962	5 minutes
+T729	OTHER_COMPOUND 47984 47998	granular ureas
+T730	OTHER_COMPOUND 48000 48001	N
+T731	STARTING_MATERIAL 48118 48132	1,4-Butanediol
+T732	STARTING_MATERIAL 48233 48235	OH
+T733	STARTING_MATERIAL 48662 48676	1,4-Butanediol
+T734	STARTING_MATERIAL 48678 48680	OH
+T735	OTHER_COMPOUND 49158 49161	MDI
+T736	OTHER_COMPOUND 49163 49170	Sumidur
+T737	OTHER_COMPOUND 49199 49217	Beyer Urethane K.K
+T738	OTHER_COMPOUND 49221 49235	1,4-butanediol
+T739	OTHER_COMPOUND 49253 49257	Wako
+T740	OTHER_COMPOUND 49291 49305	1,6-hexanediol
+T741	OTHER_COMPOUND 49361 49383	polycaprolactonediol B
+T742	OTHER_COMPOUND 49449 49470	polycaprolactonetriol
+T743	OTHER_COMPOUND 49474 49481	Placcel
+T744	OTHER_COMPOUND 49503 49518	Daicel Chemical
+T745	OTHER_COMPOUND 49538 49558	polycaprolactonediol
+T746	OTHER_COMPOUND 49626 49646	polycaprolactonediol
+T747	OTHER_COMPOUND 49650 49657	Placcel
+T748	OTHER_COMPOUND 49714 49720	castor
+T749	OTHER_COMPOUND 49726 49732	Castor
+T750	OTHER_COMPOUND 49803 49840	2,4,6-tris(dimethylaminomethyl)phenol
+T751	OTHER_COMPOUND 49842 49845	TAP
+T752	OTHER_COMPOUND 49943 49947	Urea
+T753	OTHER_COMPOUND 50041 50046	ureas
+T754	OTHER_COMPOUND 50047 50054	(G)-(I)
+T755	OTHER_COMPOUND 50056 50063	(K)-(N)
+T756	OTHER_COMPOUND 50222 50242	Coated granular urea
+T757	OTHER_COMPOUND 50244 50245	G
+T758	OTHER_COMPOUND 50257 50270	granular urea
+T759	OTHER_COMPOUND 50272 50273	H
+T760	OTHER_COMPOUND 50300 50304	urea
+T761	OTHER_COMPOUND 50319 50332	granular urea
+T762	OTHER_COMPOUND 50334 50335	K
+T763	OTHER_COMPOUND 50347 50355	granular
+T764	OTHER_COMPOUND 50356 50360	urea
+T765	OTHER_COMPOUND 50374 50387	granular urea
+T766	OTHER_COMPOUND 50395 50401	Coated
+T767	OTHER_COMPOUND 50411 50415	urea
+T768	OTHER_COMPOUND 50430 50443	granular urea
+T769	OTHER_COMPOUND 50445 50446	P
+T770	OTHER_COMPOUND 50458 50471	granular urea
+T771	OTHER_COMPOUND 50473 50474	Q
+T772	OTHER_COMPOUND 50514 50522	Urethane
+T773	OTHER_COMPOUND 50659 50667	Urethane
+T774	OTHER_COMPOUND 50749 50757	urethane
+T775	OTHER_COMPOUND 50929 51008	N-(1,1,3-trimethyl-2-oxa-4-indanyl)-5-chloro-1,3-dimethylpyrazole-4-carboxamide
+T776	OTHER_COMPOUND 51041 51056	silicon dioxide
+T777	OTHER_COMPOUND 51058 51071	TOKUSEAL GU-N
+T778	OTHER_COMPOUND 51089 51102	Tokuyama Soda
+T779	OTHER_COMPOUND 51139 51148	bentonite
+T780	OTHER_COMPOUND 51150 51164	BENTONITE FUJI
+T781	OTHER_COMPOUND 51342 51359	polyvinyl alcohol
+T782	OTHER_COMPOUND 51395 51409	GOHSENOL GL-05
+T783	OTHER_COMPOUND 51500 51503	PVA
+T784	OTHER_COMPOUND 51504 51508	217S
+T785	OTHER_COMPOUND 51569 51578	bentonite
+T786	OTHER_COMPOUND 51652 51687	polyoxyethylene styryl phenyl ether
+T787	OTHER_COMPOUND 51689 51700	SOLPOL T-20
+T788	OTHER_COMPOUND 51782 51799	calcium carbonate
+T789	OTHER_COMPOUND 51808 51820	TANCAL NN200
+T790	OTHER_COMPOUND 51986 51991	water
+T791	OTHER_COMPOUND 52037 52042	sugar
+T792	OTHER_COMPOUND 52070 52074	urea
+T793	TEMPERATURE 52327 52332	60° C
+T794	TIME 52338 52348	15 minutes
+T795	TEMPERATURE 52621 52626	80° C
+T796	OTHER_COMPOUND 52635 52638	air
+T797	OTHER_COMPOUND 52673 52692	unhardened urethane
+T798	OTHER_COMPOUND 52700 52701	F
+T799	OTHER_COMPOUND 52750 52758	urethane
+T800	OTHER_COMPOUND 52792 52798	polyol
+T801	OTHER_COMPOUND 52800 52801	F
+T802	TEMPERATURE 52814 52819	50° C
+T803	STARTING_MATERIAL 52848 52893	4,6-tris(dimethylaminomethyl)phenol(catalyst)
+T804	OTHER_COMPOUND 52919 52940	aromatic diisocyanate
+T805	TEMPERATURE 52952 52957	50° C
+T806	OTHER_COMPOUND 53014 53028	urethane resin
+T807	TIME 53080 53089	3 minutes
+T808	OTHER_COMPOUND 53135 53149	urethane resin
+T809	TIME 53206 53215	3 minutes
+T810	OTHER_COMPOUND 53271 53285	urethane resin
+T811	TEMPERATURE 53372 53388	room temperature
+T812	REACTION_PRODUCT 53427 53428	F
+T813	EXAMPLE_LABEL 53450 53451	7
+T814	STARTING_MATERIAL 53481 53560	N-(1,1,3-trimethyl-2-oxa-4-indanyl)-5-chloro-1,3-dimethylpyrazole-4-carboxamide
+T815	OTHER_COMPOUND 53585 53608	hydrous silicon dioxide
+T816	OTHER_COMPOUND 53610 53623	TOKUSEAL GU-N
+T817	OTHER_COMPOUND 53641 53654	Tokuyama Soda
+T818	OTHER_COMPOUND 53691 53700	bentonite
+T819	OTHER_COMPOUND 53702 53716	BENTONITE FUJI
+T820	OTHER_COMPOUND 53941 54007	[(E)-1-(2-chloro-1,3-thiazol-4-ylmethyl)-3-methyl-2-nitroquanidine
+T821	OTHER_COMPOUND 54037 54041	clay
+T822	OTHER_COMPOUND 54043 54058	SHOKOSAN Clay S
+T823	OTHER_COMPOUND 54158 54175	polyvinyl alcohol
+T824	OTHER_COMPOUND 54177 54191	GOHSENOL GL-05
+T825	OTHER_COMPOUND 54282 54290	PVA 217S
+T826	OTHER_COMPOUND 54350 54359	bentonite
+T827	OTHER_COMPOUND 54361 54370	BENTONITE
+T828	REACTION_PRODUCT 54433 54468	polyoxyethylene styryl phenyl ether
+T829	OTHER_COMPOUND 54477 54481	T-20
+T830	OTHER_COMPOUND 54563 54580	calcium carbonate
+T831	OTHER_COMPOUND 54589 54601	TANCAL NN200
+T832	OTHER_COMPOUND 54619 54624	Nitto
+T833	OTHER_COMPOUND 54767 54772	water
+T834	OTHER_COMPOUND 54819 54824	sugar
+T835	OTHER_COMPOUND 54852 54856	urea
+T836	TEMPERATURE 55110 55115	60° C
+T837	TIME 55121 55131	15 minutes
+T838	TEMPERATURE 55404 55409	70° C
+T839	OTHER_COMPOUND 55418 55421	air
+T840	OTHER_COMPOUND 55451 55459	paraffin
+T841	TIME 55506 55516	10 minutes
+T842	OTHER_COMPOUND 55551 55561	unhardened
+T843	OTHER_COMPOUND 55562 55570	urethane
+T844	OTHER_COMPOUND 55578 55579	E
+T845	OTHER_COMPOUND 55644 55645	E
+T846	OTHER_COMPOUND 55674 55680	polyol
+T847	OTHER_COMPOUND 55682 55683	F
+T848	TEMPERATURE 55696 55701	50° C
+T849	OTHER_COMPOUND 55730 55775	4,6-tris(dimethylaminomethyl)phenol(catalyst)
+T850	OTHER_COMPOUND 55801 55822	aromatic diisocyanate
+T851	TEMPERATURE 55834 55839	50° C
+T852	OTHER_COMPOUND 55896 55904	urethane
+T853	TIME 55962 55971	3 minutes
+T854	OTHER_COMPOUND 56017 56031	urethane resin
+T855	TIME 56088 56097	3 minutes
+T856	TEMPERATURE 56254 56270	room temperature
+T857	REACTION_PRODUCT 56309 56310	E
+T858	OTHER_COMPOUND 56370 56371	F
+T859	OTHER_COMPOUND 56455 56460	water
+T860	TEMPERATURE 56525 56530	25° C
+T861	OTHER_COMPOUND 56613 56692	N-(1,1,3-trimethyl-2-oxa-4-indanyl)-5-chloro-1,3-dimethylpyrazole-4-carboxamide
+T862	OTHER_COMPOUND 56697 56763	[(E)-1-(2-chloro-1,3-thiazol-4-ylmethyl)-3-methyl-2-nitroquanidine
+T863	OTHER_COMPOUND 56799 56807	granules
+T864	OTHER_COMPOUND 56843 56922	N-(1,1,3-trimethyl-2-oxa-4-indanyl)-5-chloro-1,3-dimethylpyrazole-4-carboxamide
+T865	OTHER_COMPOUND 56972 56979	granule
+T866	OTHER_COMPOUND 56981 56982	F
+T867	OTHER_COMPOUND 57018 57025	granule
+T868	OTHER_COMPOUND 57027 57028	E
+T869	OTHER_COMPOUND 57061 57127	[(E)-1-(2-chloro-1,3-thiazol-4-ylmethyl)-3-methyl-2-nitroquanidine
+T870	YIELD_PERCENT 57148 57151	59%
+T871	OTHER_COMPOUND 57167 57177	pesticidal
+T872	OTHER_COMPOUND 57178 57185	granule
+T873	OTHER_COMPOUND 57187 57188	E
+T874	EXAMPLE_LABEL 57401 57402	1
+T875	OTHER_COMPOUND 57489 57503	urethane resin
+T876	OTHER_COMPOUND 57531 57552	aromatic diisocyanate
+T877	OTHER_COMPOUND 57560 57566	polyol
+T878	OTHER_COMPOUND 57591 57613	polycaprolactonepolyol
+T879	OTHER_COMPOUND 57620 57646	C2-C8 polymethylene glycol
+T880	OTHER_COMPOUND 57674 57679	triol
+T881	OTHER_COMPOUND 57712 57734	polycaprolactonepolyol
+T882	OTHER_COMPOUND 57742 57762	polymethylene glycol
+T883	OTHER_COMPOUND 57850 57872	polycaprolactonepolyol
+T884	OTHER_COMPOUND 57957 57978	aromatic diisocyanate
+T885	OTHER_COMPOUND 57987 57993	polyol
+T886	OTHER_COMPOUND 58073 58095	polycaprolactonepolyol
+T887	OTHER_COMPOUND 58180 58201	aromatic diisocyanate
+T888	OTHER_COMPOUND 58210 58216	polyol
+T889	OTHER_COMPOUND 58296 58316	polymethylene glycol
+T890	OTHER_COMPOUND 58400 58421	aromatic diisocyanate
+T891	OTHER_COMPOUND 58430 58436	polyol
+T892	OTHER_COMPOUND 58502 58522	polymethylene glycol
+T893	OTHER_COMPOUND 58526 58539	1,4-butandiol
+T894	OTHER_COMPOUND 58543 58557	1,6-hexanediol
+T895	EXAMPLE_LABEL 58580 58581	6
+T896	OTHER_COMPOUND 58650 58671	aromatic diisocyanate
+T897	OTHER_COMPOUND 58756 58777	aromatic diisocyanate
+T898	OTHER_COMPOUND 58786 58792	polyol
+T899	OTHER_COMPOUND 58858 58879	aromatic diisocyanate
+T900	OTHER_COMPOUND 58883 58915	4,4′-diphenylmethanediisocyanate
+T901	EXAMPLE_LABEL 58917 58918	8
+T902	OTHER_COMPOUND 58973 58979	polyol
+T903	OTHER_COMPOUND 58997 59019	polycaprolactonepolyol
+T904	OTHER_COMPOUND 59021 59047	C2-C8 polymethylene glycol
+T905	OTHER_COMPOUND 59103 59109	castor
+T906	OTHER_COMPOUND 59110 59113	oil
+T907	OTHER_COMPOUND 59118 59141	hydrogenated castor oil
+T908	EXAMPLE_LABEL 59143 59144	9
+T909	OTHER_COMPOUND 59214 59236	polycaprolactonepolyol
+T910	OTHER_COMPOUND 59238 59264	C2-C8 polymethylene glycol
+T911	OTHER_COMPOUND 59266 59276	castor oil
+T912	OTHER_COMPOUND 59297 59303	castor
+T913	OTHER_COMPOUND 59321 59333	diisocyanate
+T914	OTHER_COMPOUND 59484 59505	aromatic diisocyanate
+T915	OTHER_COMPOUND 59514 59520	polyol
+T916	EXAMPLE_LABEL 59624 59626	11
+T917	EXAMPLE_LABEL 59717 59719	12
+T918	OTHER_COMPOUND 59822 59827	triol
+T919	OTHER_COMPOUND 59924 59943	hydrogenated castor
+T920	EXAMPLE_LABEL 59971 59973	13
+T921	OTHER_COMPOUND 60060 60074	urethane resin
+T922	OTHER_COMPOUND 60102 60123	aromatic diisocyanate
+T923	OTHER_COMPOUND 60131 60137	polyol
+T924	OTHER_COMPOUND 60162 60177	polyesterpolyol
+T925	OTHER_COMPOUND 60184 60210	C2-C8 polymethylene glycol
+T926	OTHER_COMPOUND 60249 60262	1,4-butandiol
+T927	OTHER_COMPOUND 60264 60278	1,6-hexanediol
+T928	OTHER_COMPOUND 60328 60333	triol
+T929	OTHER_COMPOUND 60366 60381	polyesterpolyol
+T930	OTHER_COMPOUND 60389 60409	polymethylene glycol
+T931	EXAMPLE_LABEL 60427 60429	14
+T932	OTHER_COMPOUND 60516 60530	urethane resin
+T933	OTHER_COMPOUND 60558 60566	aromatic
+T934	OTHER_COMPOUND 60587 60593	polyol
+T935	OTHER_COMPOUND 60618 60633	polyesterpolyol
+T936	OTHER_COMPOUND 60640 60666	C2-C8 polymethylene glycol
+T937	OTHER_COMPOUND 60686 60691	triol
+T938	OTHER_COMPOUND 60724 60739	polyesterpolyol
+T939	OTHER_COMPOUND 60747 60767	polymethylene glycol
+T940	EXAMPLE_LABEL 60785 60787	15
+T941	OTHER_COMPOUND 60913 60932	hydrogenated castor
+T942	OTHER_COMPOUND 61049 61063	urethane resin
+T943	OTHER_COMPOUND 61091 61112	aromatic diisocyanate
+T944	OTHER_COMPOUND 61120 61126	polyol
+T945	OTHER_COMPOUND 61151 61164	polyesterdiol
+T946	OTHER_COMPOUND 61168 61194	C2-C8 polymethylene glycol
+T947	OTHER_COMPOUND 61201 61206	triol
+T948	OTHER_COMPOUND 61239 61252	polyesterdiol
+T949	OTHER_COMPOUND 61260 61280	polymethylene glycol
+T950	EXAMPLE_LABEL 61298 61300	17
+T951	OTHER_COMPOUND 61395 61406	oxycarbonyl
+T952	OTHER_COMPOUND 61523 61536	polyesterdiol
+T953	OTHER_COMPOUND 61621 61629	aromatic
+T954	OTHER_COMPOUND 61630 61642	diisocyanate
+T955	OTHER_COMPOUND 61651 61657	polyol
+T956	OTHER_COMPOUND 61739 61759	polymethylene glycol
+T957	OTHER_COMPOUND 61843 61864	aromatic diisocyanate
+T958	OTHER_COMPOUND 61947 61967	polymethylene glycol
+T959	OTHER_COMPOUND 61971 61984	1,4-butandiol
+T960	OTHER_COMPOUND 61988 62002	1,6-hexanediol
+T961	OTHER_COMPOUND 62097 62118	aromatic diisocyanate
+T962	OTHER_COMPOUND 62212 62224	diisocyanate
+T963	OTHER_COMPOUND 62233 62239	polyol
+T964	OTHER_COMPOUND 62307 62328	aromatic diisocyanate
+T965	OTHER_COMPOUND 62332 62364	4,4′-diphenylmethanediisocyanate
+T966	OTHER_COMPOUND 62439 62452	polyesterdiol
+T967	OTHER_COMPOUND 62454 62480	C2-C8 polymethylene glycol
+T968	OTHER_COMPOUND 62482 62487	triol
+T969	OTHER_COMPOUND 62492 62500	aromatic
+T970	OTHER_COMPOUND 62501 62513	diisocyanate
+T971	OTHER_COMPOUND 62664 62685	aromatic diisocyanate
+T972	OTHER_COMPOUND 62694 62700	polyol
+T973	EXAMPLE_LABEL 62710 62712	24
+T974	OTHER_COMPOUND 62793 62803	fertilizer
+T975	EXAMPLE_LABEL 62805 62807	25

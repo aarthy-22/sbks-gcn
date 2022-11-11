@@ -1,0 +1,11 @@
+Curcumin loaded solid lipid nanoparticles: An efficient formulation approach for cerebral ischemic reperfusion injury in rats.
+SCOPE: To evaluate curcumin loaded solid lipid nanoparticles (C-SLNs) in the experimental paradigm of cerebral ischemia (BCCAO model) in rats.
+METHODS AND RESULTS: Oral administration of free curcumin and C-SLNs (25 and 50mg/kg) was started 5days prior and continued for 3days after BCCAO.
+Alleviation in behavioral, oxidative and nitrosative stress, acetylcholinesterase, mitochondrial enzyme complexes, and physiological parameters were assessed.
+Confirmation of effective brain delivery of C-SLNs (p.o) was done using biodistribution studies in mice and confocal microscopy of rat brain section.
+There was an improvement of 90% in cognition and 52% inhibition of acetylcholinesterase versus cerebral ischemic group (I/R).
+Neurological scoring improved by 79%.
+Levels of superoxide dismutase, catalase, glutathione, and mitochondrial complex enzyme activities were significantly increased, while lipid peroxidation, nitrite, and acetylcholinesterase levels decreased (p<0.05) after C-SLNs administration.
+It is noteworthy to report the restoration of SOD, GSH, catalase, and mitochondrial complex enzyme levels equivalent to sham control values.
+Gamma-scintigraphic studies show 16.4 and 30 times improvement in brain bioavailability (AUC) upon oral and i.v administration of C-SLNs versus solubilized curcumin (C-S).
+CONCLUSIONS: Study indicates protective role of curcumin against cerebral ischemic insult; provided it is packaged suitably for improved brain delivery.

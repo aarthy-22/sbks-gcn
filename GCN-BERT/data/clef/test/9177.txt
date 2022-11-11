@@ -1,0 +1,3 @@
+Intermediate 4: 5-methylsulfonylisoindoline hydrochloride
+Step 1: 5-bromoisoindoline
+To a solution of 4-bromophthalimide (22.6 g, 100 mmol) in dried tetrahydrofuran (250 mL) was added dropwise borane-dimethyl sulfide complex (51 mL, 500 mmol), stirred at room temperature for 2 hours, and then refluxed overnight. After cooling, methanol was carefully added dropwise to quench the excess borane. The resulting mixture was evaporated and concentrated, and then the residue was purified by silica gel column chromatography to give 5-bromoisoindoline (10.36 g). Yield: 52%.

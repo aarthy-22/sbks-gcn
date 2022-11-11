@@ -1,0 +1,33 @@
+T19	GENE-N 36 60	glucocorticoid receptors
+T6	CHEMICAL 239 247	steroids
+T16	GENE-Y 271 295	glucocorticoid receptors
+T17	GENE-N 407 430	glucocorticoid receptor
+T8	CHEMICAL 655 672	[3H]dexamethasone
+T9	CHEMICAL 757 774	[3H]dexamethasone
+T18	GENE-Y 887 911	Glucocorticoid receptors
+T10	CHEMICAL 930 943	dexamethasone
+T1	CHEMICAL 1161 1174	dexamethasone
+T11	GENE-Y 1203 1226	glucocorticoid receptor
+T2	CHEMICAL 1238 1244	RU-486
+T3	CHEMICAL 1246 1258	mifepristone
+T4	CHEMICAL 1301 1314	dexamethasone
+T12	GENE-Y 1318 1341	glucocorticoid receptor
+T5	CHEMICAL 1374 1387	dexamethasone
+T13	GENE-Y 1435 1458	glucocorticoid receptor
+T14	GENE-Y 1561 1585	glucocorticoid receptors
+T15	GENE-Y 1665 1689	glucocorticoid receptors
+T7	CHEMICAL 1840 1848	steroids
+R0	CPR-3 Arg1:T10 Arg2:T18
+R1	CPR-6 Arg1:T2 Arg2:T11
+R2	CPR-6 Arg1:T3 Arg2:T11
+R3	NOT Arg1:T11 Arg2:T4
+R4	NOT Arg1:T11 Arg2:T5
+R5	NOT Arg1:T2 Arg2:T12
+R6	NOT Arg1:T2 Arg2:T13
+R7	NOT Arg1:T3 Arg2:T12
+R8	NOT Arg1:T3 Arg2:T13
+R9	NOT Arg1:T4 Arg2:T12
+R10	NOT Arg1:T4 Arg2:T13
+R11	NOT Arg1:T12 Arg2:T5
+R12	NOT Arg1:T5 Arg2:T13
+R13	NOT Arg1:T15 Arg2:T7

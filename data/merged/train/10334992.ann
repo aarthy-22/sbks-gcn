@@ -1,0 +1,25 @@
+T17	GENE-N 20 36	nuclear receptor
+T9	CHEMICAL 41 51	bile acids
+T1	CHEMICAL 53 63	Bile acids
+T2	CHEMICAL 163 174	cholesterol
+T3	CHEMICAL 220 230	bile acids
+T10	GENE-Y 265 285	farnesoid X receptor
+T11	GENE-Y 287 290	FXR
+T12	GENE-N 296 319	orphan nuclear receptor
+T13	GENE-Y 347 350	FXR
+T4	CHEMICAL 396 407	cholesterol
+T14	GENE-Y 396 426	cholesterol 7alpha-hydroxylase
+T5	CHEMICAL 465 474	bile acid
+T15	GENE-Y 518 554	intestinal bile acid-binding protein
+T6	CHEMICAL 529 538	bile acid
+T7	CHEMICAL 577 586	bile acid
+T16	GENE-N 577 598	bile acid transporter
+T8	CHEMICAL 647 657	bile acids
+R0	CPR-2 Arg1:T3 Arg2:T10
+R1	CPR-9 Arg1:T5 Arg2:T14
+R2	NOT Arg1:T13 Arg2:T5
+R3	NOT Arg1:T13 Arg2:T7
+R4	NOT Arg1:T4 Arg2:T15
+R5	NOT Arg1:T4 Arg2:T16
+R6	NOT Arg1:T5 Arg2:T15
+R7	NOT Arg1:T15 Arg2:T7

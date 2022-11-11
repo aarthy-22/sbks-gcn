@@ -1,0 +1,10 @@
+Schizophrenia is not associated with DRD4 48-base-pair-repeat length or individual alleles: results of a meta-analysis.
+BACKGROUND: The gene DRD4, coding for dopamine receptor D4, was considered a candidate for association with schizophrenia based on its upregulation in postmortem schizophrenic brain and affinity for clozapine.
+Many studies sought allelic association of a 48-base-pair repeat in DRD4 exon 3 with schizophrenia, but found no strong evidence for a relationship.
+The present work sought to determine if this observation reflected the true absence of association or the low power of individual studies.
+METHODS: We performed four meta-analyses, sequentially considering the two-, four-, and seven-repeat alleles as risk alleles, and then considering repeat length of the 48-base-pair segment as a risk factor.
+Each meta-analysis included at least 2,300 cases and 2,100 controls from 14-16 studies.
+RESULTS: The pooled odds ratio from each analysis approximated 1.0, and none were significant.
+Heterogeneity was not observed, although gender moderated the effects of repeat length and the seven-repeat allele.
+CONCLUSIONS: Despite over 90% power to detect a significant odds ratio of 1.4 or less, none was observed.
+This polymorphism seems not to influence risk for most schizophrenia cases; however, a sex-dependent relationship, or a role in some clinical features of the disorder, cannot be excluded and should be pursued experimentally.

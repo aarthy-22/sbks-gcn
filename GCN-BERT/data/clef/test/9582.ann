@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 6 7	2
+T2	REACTION_PRODUCT 31 36	11603
+T3	STARTING_MATERIAL 37 179	N-(3-chloro-4-fluorophenyl)-N-(4-(2-(2,2-difluoroacetyl)hydrazine-1-carbonyl)-2-fluorobenzyl)tetrahydro-2H-thiopyran-4-carboxamide 1,1-dioxide
+T4	REAGENT_CATALYST 230 243	triethylamine
+T5	SOLVENT 285 300	dichloromethane
+T6	TEMPERATURE 312 328	room temperature
+T7	STARTING_MATERIAL 334 358	methanesulfonyl chloride
+T8	TIME 461 468	2 hours
+T9	OTHER_COMPOUND 470 475	Water
+T10	OTHER_COMPOUND 539 552	ethyl acetate
+T11	OTHER_COMPOUND 598 605	aqueous
+T12	OTHER_COMPOUND 606 621	sodium chloride
+T13	OTHER_COMPOUND 643 660	magnesium sulfate
+T14	OTHER_COMPOUND 783 787	SiO2
+T15	OTHER_COMPOUND 805 818	ethyl acetate
+T16	OTHER_COMPOUND 819 825	hexane
+T17	REACTION_PRODUCT 873 887	title compound
+T18	YIELD_OTHER 889 896	0.015 g
+T19	YIELD_PERCENT 898 902	9.1%

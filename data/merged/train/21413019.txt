@@ -1,0 +1,7 @@
+Polyamines, androgens, and skeletal muscle hypertrophy.
+The naturally occurring polyamines, spermidine, spermine, and their precursor putrescine, play indispensible roles in both prokaryotic and eukaryotic cells, from basic DNA synthesis to regulation of cell proliferation and differentiation.
+The rate-limiting polyamine biosynthetic enzymes, ornithine decarboxylase (ODC) and S-adenosylmethionine decarboxylase, are essential for mammalian development, with knockout of the genes encoding these enzymes, Odc1 and Amd1, causing early embryonic lethality in mice.
+In muscle, the involvement of polyamines in muscle hypertrophy is suggested by the concomitant increase in cardiac and skeletal muscle mass and polyamine levels in response to anabolic agents including beta-agonists.
+In addition to beta-agonists, androgens, which increase skeletal mass and strength, have also been shown to stimulate polyamine accumulation in a number of tissues.
+In muscle, androgens act via the androgen receptor to regulate expression of polyamine biosynthetic enzyme genes, including Odc1 and Amd1, which may be one mechanism via which androgens promote muscle growth.
+This review outlines the role of polyamines in proliferation and hypertrophy, and explores their possible actions in mediating the anabolic actions of androgens in muscle.

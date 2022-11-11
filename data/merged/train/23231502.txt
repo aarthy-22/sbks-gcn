@@ -1,0 +1,12 @@
+Peptidyl-prolyl cis/trans-isomerase A1 (Pin1) is a target for modification by lipid electrophiles.
+Oxidation of membrane phospholipids is associated with inflammation, neurodegenerative disease, and cancer.
+Oxyradical damage to phospholipids results in the production of reactive aldehydes that adduct proteins and modulate their function.
+4-Hydroxynonenal (HNE), a common product of oxidative damage to lipids, adducts proteins at exposed Cys, His, or Lys residues.
+Here, we demonstrate that peptidyl-prolyl cis/trans-isomerase A1 (Pin1), an enzyme that catalyzes the conversion of the peptide bond of pSer/pThr-Pro moieties in signaling proteins from cis to trans, is highly susceptible to HNE modification.
+Incubation of purified Pin1 with HNE followed by MALDI-TOF/TOF mass spectrometry resulted in detection of Michael adducts at the active site residues His-157 and Cys-113.
+Time and concentration dependencies indicate that Cys-113 is the primary site of HNE modification.
+Pin1 was adducted in MDA-MB-231 breast cancer cells treated with 8-alkynyl-HNE as judged by click chemistry conjugation with biotin followed by streptavidin-based pulldown and Western blotting with anti-Pin1 antibody.
+Furthermore, orbitrap MS data support the adduction of Cys-113 in the Pin1 active site upon HNE treatment of MDA-MB-231 cells.
+siRNA knockdown of Pin1 in MDA-MB-231 cells partially protected the cells from HNE-induced toxicity.
+Recent studies indicate that Pin1 is an important molecular target for the chemopreventive effects of green tea polyphenols.
+The present study establishes that it is also a target for electrophilic modification by products of lipid peroxidation.

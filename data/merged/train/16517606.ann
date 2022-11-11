@@ -1,0 +1,36 @@
+T30	GENE-Y 6 27	tumor necrosis factor
+T29	GENE-Y 39 75	mammalian neutral sphingomyelinase-3
+T9	CHEMICAL 81 82	C
+T31	GENE-N 81 104	C-tail-anchored protein
+T14	GENE-N 125 159	neutral sphingomyelinases-1 and -2
+T22	GENE-N 161 202	sphingomyelin phosphodiesterases-2 and -3
+T1	CHEMICAL 266 283	phosphorylcholine
+T2	CHEMICAL 288 296	ceramide
+T15	GENE-Y 377 408	bovine neutral sphingomyelinase
+T16	GENE-Y 410 416	nSMase
+T17	GENE-Y 465 487	human sphingomyelinase
+T18	GENE-Y 489 496	nSMase3
+T19	GENE-N 535 549	nSMase1 and -2
+T20	GENE-Y 551 558	nSMase3
+T21	GENE-Y 665 670	SMase
+T23	GENE-Y 692 699	nSMase2
+T24	GENE-Y 701 708	nSMase3
+T3	CHEMICAL 712 716	Mg2+
+T4	CHEMICAL 800 818	phosphatidylserine
+T25	GENE-Y 850 857	nSMase3
+T26	GENE-Y 910 917	nSMase3
+T5	CHEMICAL 927 928	N
+T27	GENE-N 927 952	N-terminal signal peptide
+T6	CHEMICAL 972 982	amino-acid
+T7	CHEMICAL 1017 1018	C
+T8	CHEMICAL 1067 1068	C
+T28	GENE-N 1067 1109	C-tail-anchored integral membrane proteins
+T10	GENE-Y 1167 1174	nSMase3
+T11	GENE-Y 1276 1297	Tumor necrosis factor
+T12	GENE-Y 1329 1336	nSMase3
+T13	GENE-Y 1418 1439	dominant negative FAN
+R0	CPR-1 Arg1:T6 Arg2:T26
+R1	NOT Arg1:T30 Arg2:T9
+R2	NOT Arg1:T29 Arg2:T9
+R3	NOT Arg1:T23 Arg2:T3
+R4	NOT Arg1:T7 Arg2:T28

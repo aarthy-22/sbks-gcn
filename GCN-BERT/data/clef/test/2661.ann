@@ -1,0 +1,11 @@
+T1	EXAMPLE_LABEL 8 10	10
+T2	REACTION_PRODUCT 24 140	(R)-1-(5-chloro-2-(methylsulfonyl)-8-(((S)-tetrahydro-2H-pyran-3-yl)amino)pyrido[3,4-d]pyrimidin-6-yl)ethyl benzoate
+T3	STARTING_MATERIAL 154 261	(R)-1-(2-(methylsulfonyl)-8-(((S)-tetrahydro-2H-pyran-3-yl)amino)pyrido[3,4-d]pyrimidin-6-yl)ethyl benzoate
+T4	REAGENT_CATALYST 312 331	N-chlorosuccinimide
+T5	SOLVENT 354 372	1,2-dichloroethane
+T6	TEMPERATURE 397 401	65°C
+T7	TEMPERATURE 519 535	room temperature
+T8	OTHER_COMPOUND 583 593	silica gel
+T9	REACTION_PRODUCT 629 643	title compound
+T10	YIELD_OTHER 645 651	255 mg
+T11	YIELD_PERCENT 653 656	89%

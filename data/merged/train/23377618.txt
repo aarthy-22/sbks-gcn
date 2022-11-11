@@ -1,0 +1,10 @@
+3D Organotypic Cultures of Human HepaRG Cells: A Tool for In Vitro Toxicity Studies.
+Drug-induced human hepatotoxicity is difficult to predict using the current in vitro systems.
+In this study, long-term 3D organotypic cultures of the human hepatoma HepaRG cell line were prepared using a high-throughput hanging drop method.
+The organotypic cultures were maintained for 3 weeks and assessed for (1) liver specific functions, including phase I enzyme and transporter activities, (2) expression of liver-specific proteins, and (3) responses to three drugs (acetaminophen, troglitazone, and rosiglitazone).
+Our results show that the organotypic cultures maintain high liver-specific functionality during 3 weeks of culture.
+The immunohistochemistry analyses illustrate that the organotypic cultures express liver-specific markers such as albumin, CYP3A4, CYP2E1, and MRP-2 throughout the cultivation period.
+Accordingly, the production rates of albumin and glucose, as well as CYP2E1 activity, were significantly higher in the 3D versus the 2D cultures.
+Toxicity studies show that the organotypic cultures are more sensitive to acetaminophen- and rosiglitazone-induced toxicity but less sensitive to troglitazone-induced toxicity than the 2D cultures.
+Furthermore, the EC50 value (2.7mM) for acetaminophen on the 3D cultures was similar to in vivo toxicity.
+In summary, the results from our study suggest that the 3D organotypic HepaRG culture is a promising in vitro tool for more accurate assessment of acute and also possibly for chronic drug-induced hepatotoxicity.

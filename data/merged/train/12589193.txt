@@ -1,0 +1,12 @@
+Arginine availability, arginase, and the immune response.
+PURPOSE OF REVIEW: Arginine, often found in immunonutrition regimens, is an important modulator of immune system activation.
+However, the mechanism of how arginine may be beneficial in immunonutrition is poorly understood.
+This review details the importance of arginine, its metabolism, and ultimately, its physiologic role in critically ill and immunocompromised patients.
+RECENT FINDINGS: The metabolism of arginine is determined by the expression of the arginine metabolizing enzymes inducible nitric oxide synthase and two arginase isoforms (arginase I and II).
+Inducible nitric oxide synthase is induced by T helper I cytokines (interleukin-1, tumor necrosis factor and gamma-interferon), while arginases are induced by T helper II cytokines and other immune regulators such as interleukins 4, 10, and 13, transforming growth factor-beta and prostaglandin E2.
+Endotoxin induces inducible nitric oxide synthase and arginases I and II.
+Arginase plays an important role in the production of ornithine, a precursor of proline and polyamines, both of which are necessary for cellular proliferation and wound healing.
+Arginase also induces nitric oxide synthase activity by competing for arginine availability in the extracellular environment, and producing polyamines, which may modulate macrophage activation.
+Through limitation of arginine availability in the extracellular environment, arginases also potentially regulate other 'arginine-dependent' immune functions such as T-lymphocyte activation, although this hypothesis remains to be proven.
+SUMMARY: The availability of arginine during critical illness may be regulated by arginase activity.
+Thus, arginase expression appears to be essential in the regulation of the cellular immune response and the inflammatory process during critical illness.

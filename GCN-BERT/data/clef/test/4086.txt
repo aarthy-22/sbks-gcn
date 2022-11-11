@@ -1,0 +1,5 @@
+Example 59
+7-(Cyclopropylmethyl)-1-((3-isopropylisoxazol-5-yl)methyl)-3-methyl-1H-purine-2,6(3H,7H)-dione
+Step 1
+7-(Cyclopropylmethyl)-1-((3-isopropylisoxazol-5-yl)methyl)-3-methyl-1H-purine-2,6(3H,7H)-dione
+5-(Chloromethyl)-3-isopropylisoxazole (72.5 mg, 0.456 mmol), 7-(cyclopropylmethyl)-3-methyl-1H-purine-2,6(3H,7H)-dione (94.0 mg, 0.456 mmol), potassium iodide (7.5 mg, 0.046 mmol) and potassium carbonate (189 mg, 1.37 mmol) were dissolved in anhydrous N,N-dimethylformamide (5 mL). The reaction was heated to 120°C and reacted for 3 hours. The reaction solution was cooled to 20°C, filtered and purified by preparative HPLC to give 7-(cyclopropylmethyl)-1-((3-isopropylisoxazol-5-yl)methyl)-3-methyl-1H-purine-2,6(3H,7H)-dione (50.0 mg) with a yield of 31%.

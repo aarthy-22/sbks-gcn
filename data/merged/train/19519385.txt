@@ -1,0 +1,12 @@
+Pyridinium oximes as cholinesterase reactivators.
+Structure-activity relationship and efficacy in the treatment of poisoning with organophosphorus compounds.
+During more than five decades, pyridinium oximes have been developed as therapeutic agents used in the medical treatment of poisoning with organophosphorus compounds.
+Their mechanism of action is reactivation of acetylcholinesterase (AChE) inhibited by organophosphorus agents.
+Organophosphorus compounds (OPC) are used as pesticides and developed as warfare nerve agents such as tabun, soman, sarin, VX and others.
+Exposure to even small amounts of an OPC can be fatal and death is usually caused by respiratory failure resulting from paralysis of the diaphragm and intercostal muscles, depression of the brain respiratory center, bronchospasm, and excessive bronchial secretions.
+The mechanism of OPC poisoning involves phosphorylation of the serine hydroxyl group at the active site of AChE leading to the inactivation of this essential enzyme, which has an important role in neurotransmission.
+AChE inhibition results in the accumulation of acetylcholine at cholinergic receptor sites, producing continuous stimulation of cholinergic fibers throughout the central and peripheral nervous systems.
+Presently, a combination of an antimuscarinic agent, e.g. atropine, AChE reactivator such as one of the standard pyridinium oximes (pralidoxime, trimedoxime, obidoxime, HI-6) and diazepam has been used for the treatment of organophosphate poisoning in humans.
+Despite enormous efforts devoted to synthesis and development of new pyridinium oximes as potential antidotes against poisoning with OPC, only four compounds have found their application in human medicine so far.
+However, they differ in their activity in poisoning with warfare nerve agents and pesticides and there is still no universal broad-spectrum oxime capable of protecting against all known OPC.
+In this article, we review data on structure-activity relationship of pyridinium oximes and discuss their pharmacological and toxicological significance.

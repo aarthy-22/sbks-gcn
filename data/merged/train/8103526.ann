@@ -1,0 +1,13 @@
+T10	CHEMICAL 54 70	S- and R-timolol
+T1	CHEMICAL 98 121	R-enantiomer of timolol
+T11	GENE-N 231 252	extraocular receptors
+T12	GENE-N 258 289	beta 1- and beta 2-adrenoceptor
+T2	CHEMICAL 333 349	R- and S-timolol
+T3	CHEMICAL 498 507	S-timolol
+T4	CHEMICAL 525 534	R-timolol
+T5	CHEMICAL 600 609	S-timolol
+T6	CHEMICAL 626 635	R-timolol
+T7	CHEMICAL 653 669	R- and S-timolol
+T8	CHEMICAL 691 704	isoproterenol
+T9	CHEMICAL 810 823	isoproterenol
+R0	CPR-2 Arg1:T1 Arg2:T11

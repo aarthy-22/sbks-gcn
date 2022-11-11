@@ -1,0 +1,26 @@
+T22	GENE-Y 82 104	alpha(2B)-adrenoceptor
+T1	CHEMICAL 126 135	Clonidine
+T3	CHEMICAL 256 263	ethanol
+T4	CHEMICAL 323 332	clonidine
+T15	GENE-N 364 385	alpha(2)-adrenoceptor
+T5	CHEMICAL 398 407	yohimbine
+T6	CHEMICAL 444 452	prazosin
+T7	CHEMICAL 457 547	2-[2-(4-(O-methoxyphenyl)piperazin-1-yl)ethyl]-4,4-dimethyl-1,3-(2 H, 4H)-isoquinolindione
+T8	CHEMICAL 549 556	ARC-239
+T16	GENE-N 574 599	alpha(2B/2C)-adrenoceptor
+T17	GENE-N 621 636	opioid receptor
+T9	CHEMICAL 649 657	naloxone
+T18	GENE-Y 687 705	mu-opioid receptor
+T10	CHEMICAL 730 741	naltrindole
+T11	CHEMICAL 746 755	naltriben
+T19	GENE-Y 756 777	delta-opioid receptor
+T12	CHEMICAL 815 826	naltrindole
+T13	CHEMICAL 890 899	clonidine
+T14	CHEMICAL 936 966	[D-Ala(2), D-Leu(5)]enkephalin
+T20	GENE-N 1028 1053	alpha(2B/2C)-adrenoceptor
+T21	GENE-Y 1088 1104	delta--receptors
+T2	CHEMICAL 1175 1184	clonidine
+R0	CPR-6 Arg1:T10 Arg2:T19
+R1	NOT Arg1:T5 Arg2:T19
+R2	NOT Arg1:T7 Arg2:T16
+R3	NOT Arg1:T21 Arg2:T2

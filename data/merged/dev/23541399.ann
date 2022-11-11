@@ -1,0 +1,12 @@
+T4	CHEMICAL 0 8	Androgen
+T2	CHEMICAL 166 178	testosterone
+T1	CHEMICAL 444 452	androgen
+T3	CHEMICAL 714 722	androgen
+T5	GENE-Y 714 731	androgen receptor
+T6	GENE-N 733 743	calmodulin
+T7	GENE-Y 745 751	Rab11A
+R0	NOT Arg1:T1 Arg2:T5
+R1	NOT Arg1:T1 Arg2:T6
+R2	NOT Arg1:T1 Arg2:T7
+R3	NOT Arg1:T3 Arg2:T6
+R4	NOT Arg1:T3 Arg2:T7

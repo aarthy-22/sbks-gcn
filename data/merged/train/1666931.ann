@@ -1,0 +1,18 @@
+T17	GENE-N 0 20	Adrenergic receptors
+T16	GENE-N 178 197	adrenergic receptor
+T3	CHEMICAL 261 271	adrenaline
+T12	GENE-N 347 366	adrenergic receptor
+T13	GENE-Y 550 576	beta 2-adrenergic receptor
+T4	CHEMICAL 627 649	125I-labelled pindolol
+T5	CHEMICAL 655 668	isoproterenol
+T6	CHEMICAL 680 690	cyclic AMP
+T14	GENE-Y 735 742	insulin
+T15	GENE-N 975 1002	alpha 2-adrenergic receptor
+T7	CHEMICAL 1053 1074	3H-labelled yohimbine
+T8	CHEMICAL 1080 1090	adrenaline
+T1	CHEMICAL 1114 1124	cyclic AMP
+T9	GENE-N 1260 1280	adrenergic receptors
+T10	GENE-N 1495 1515	adrenergic receptors
+T11	GENE-N 1521 1538	adenylate cyclase
+T2	CHEMICAL 1588 1602	catecholamines
+R0	NOT Arg1:T6 Arg2:T14

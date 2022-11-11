@@ -1,0 +1,15 @@
+T10	CHEMICAL 16 24	androgen
+T1	CHEMICAL 33 42	Androgens
+T3	CHEMICAL 142 151	androgens
+T4	CHEMICAL 156 168	testosterone
+T5	CHEMICAL 204 230	5alpha-dihydrotestosterone
+T6	CHEMICAL 232 235	DHT
+T7	CHEMICAL 383 391	androgen
+T11	GENE-Y 383 400	androgen receptor
+T12	GENE-N 521 538	nuclear receptors
+T8	CHEMICAL 552 560	androgen
+T13	GENE-Y 552 569	androgen receptor
+T14	GENE-N 738 755	nuclear receptors
+T15	GENE-N 809 825	nuclear receptor
+T9	CHEMICAL 891 900	androgens
+T2	CHEMICAL 1057 1066	androgens

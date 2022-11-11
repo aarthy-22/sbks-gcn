@@ -1,0 +1,16 @@
+T14	GENE-Y 21 26	LFA-1
+T3	CHEMICAL 43 53	lovastatin
+T15	GENE-N 69 83	CD11a I-domain
+T6	GENE-Y 89 127	lymphocyte function-associated antigen
+T7	GENE-Y 129 134	LFA-1
+T13	GENE-Y 161 176	beta2-integrins
+T1	CHEMICAL 296 306	lovastatin
+T2	CHEMICAL 344 355	cholesterol
+T4	GENE-Y 392 403	human LFA-1
+T5	GENE-Y 430 463	intercellular adhesion molecule-1
+T8	GENE-Y 606 623	LFA-1 alpha-chain
+T9	GENE-N 635 643	I-domain
+T10	GENE-N 689 697	integrin
+T11	GENE-Y 784 789	LFA-1
+T12	GENE-Y 850 855	LFA-1
+R0	CPR-4 Arg1:T1 Arg2:T4

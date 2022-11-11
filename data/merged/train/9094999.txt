@@ -1,0 +1,11 @@
+Differential binding of fibroblast growth factor-2 and -7 to basement membrane heparan sulfate: comparison of normal and abnormal human tissues.
+Fibroblast growth factors (FGFs) play multiple roles during development and in adult tissues as paracrine regulators of growth and differentiation.
+FGFs signal through transmembrane receptor tyrosine kinases, but heparan sulfate is also required for signaling by members of the FGF family.
+In addition, heparan sulfate may be involved in determining tissue distribution of FGFs.
+Using biotinylated FGF-2 and FGF-7 (KGF) as probes, we have identified specific interactions between FGFs and heparan sulfates in human tissues.
+Both FGF species bind to tissue mast cells and to epithelial cell membranes.
+Binding to basement membrane heparan sulfate is tissue source dependent and specific.
+Although FGF-2 strongly binds to basement membrane heparan sulfate in skin and most other tissue sites examined, FGF-7 fails to bind to basement membrane heparan sulfate in most locations.
+However, in subendothelial matrix in blood vessels and in the basement membrane of a papillary renal cell carcinoma, strong FGF-7 binding is seen.
+In summary, distinct and specific affinities of heparan sulfates for different FGFs were identified that may affect growth factor activation and local distribution.
+Heparan sulfate may have a gatekeeper function to either restrict or permit diffusion of heparin-binding growth factors across the basement membrane.

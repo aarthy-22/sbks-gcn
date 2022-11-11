@@ -1,0 +1,35 @@
+T20	CHEMICAL 25 36	angiotensin
+T30	GENE-Y 37 49	AT1 receptor
+T21	CHEMICAL 61 71	irbesartan
+T3	CHEMICAL 201 212	angiotensin
+T22	GENE-Y 201 212	angiotensin
+T7	CHEMICAL 233 244	angiotensin
+T24	GENE-Y 233 259	angiotensin AT(1) receptor
+T8	CHEMICAL 277 284	glucose
+T9	CHEMICAL 289 301	triglyceride
+T10	CHEMICAL 358 369	angiotensin
+T25	GENE-Y 358 384	angiotensin AT(1) receptor
+T11	CHEMICAL 546 557	angiotensin
+T26	GENE-Y 546 572	angiotensin AT(1) receptor
+T12	CHEMICAL 584 594	irbesartan
+T13	CHEMICAL 662 672	irbesartan
+T14	CHEMICAL 709 721	fenfluramine
+T15	CHEMICAL 762 773	angiotensin
+T27	GENE-Y 762 791	angiotensin converting enzyme
+T28	GENE-Y 793 796	ACE
+T16	CHEMICAL 808 817	captopril
+T17	CHEMICAL 907 917	irbesartan
+T29	GENE-Y 923 926	ACE
+T18	CHEMICAL 937 946	captopril
+T19	CHEMICAL 1010 1022	fenfluramine
+T1	CHEMICAL 1114 1124	irbesartan
+T2	CHEMICAL 1269 1281	Fenfluramine
+T4	CHEMICAL 1296 1306	irbesartan
+T5	CHEMICAL 1501 1512	angiotensin
+T23	GENE-Y 1501 1527	angiotensin AT(1) receptor
+T6	CHEMICAL 1539 1549	irbesartan
+R0	CPR-6 Arg1:T12 Arg2:T26
+R1	CPR-6 Arg1:T6 Arg2:T23
+R2	NOT Arg1:T20 Arg2:T30
+R3	NOT Arg1:T13 Arg2:T27
+R4	NOT Arg1:T15 Arg2:T28

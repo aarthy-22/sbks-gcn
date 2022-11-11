@@ -1,0 +1,2 @@
+Synthesis Example 9: Synthesis of Compound 34
+Compound 34 (6.7 g, a yield of 84%) was obtained according to the same method as Synthesis Example 1 except for using 3-(4-bromophenyl)dibenzothiophene instead of the bromometabiphenyl in Step 2 of Synthesis Example 1. calcd. C54H32N2S: C, 87.54; H, 4.35; N, 3.78; S, 4.33; found: C, 87.54; H, 4.35; N, 3.78; S, 4.33.

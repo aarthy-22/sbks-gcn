@@ -1,0 +1,7 @@
+Molecular tools to study melatonin pathways and actions.
+Melatonin, an indoleamine neurohormone that is synthesized mainly in the pineal gland and derived from 5-HT, has many effects on a wide range of physio-pathological functions.
+Some of these effects are mediated by the interactions of melatonin with the two melatonin MT1 and MT2 receptors.
+Other effects are often suggested to be due to the chemical antioxidant nature of this indoleamine, and are observed at high, non-physiological concentrations.
+However, it is increasingly believed that some of these effects are due to interactions with other protein targets.
+In this review, we summarize the molecular pharmacology of melatonin, including the main enzymes involved in its synthesis and catabolism, and the proteins that mediate its actions.
+Furthermore, various compounds, mainly inhibitors and antagonists, that can be used to dissect these functions and pathways are presented.

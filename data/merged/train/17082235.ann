@@ -1,0 +1,46 @@
+T20	CHEMICAL 0 13	Sulfonylureas
+T21	CHEMICAL 18 26	glinides
+T38	GENE-Y 35 83	peroxisome proliferator-activated receptor gamma
+T15	CHEMICAL 238 250	sulfonylurea
+T36	GENE-N 238 259	sulfonylurea receptor
+T23	GENE-Y 272 279	insulin
+T5	CHEMICAL 289 302	sulfonylureas
+T6	CHEMICAL 304 312	glinides
+T29	GENE-N 329 371	peroxisome proliferator-activated receptor
+T30	GENE-Y 373 382	PPARgamma
+T31	GENE-Y 394 401	insulin
+T7	CHEMICAL 414 432	thiazolidinediones
+T8	CHEMICAL 455 468	sulfonylureas
+T9	CHEMICAL 473 481	glinides
+T32	GENE-Y 503 512	PPARgamma
+T33	GENE-Y 525 534	PPARgamma
+T34	GENE-Y 717 726	PPARgamma
+T10	CHEMICAL 771 781	gliquidone
+T11	CHEMICAL 786 795	glipizide
+T12	CHEMICAL 801 814	sulfonylureas
+T13	CHEMICAL 828 839	nateglinide
+T14	CHEMICAL 843 850	glinide
+T35	GENE-Y 861 870	PPARgamma
+T16	CHEMICAL 1007 1017	gliquidone
+T17	CHEMICAL 1047 1059	pioglitazone
+T37	GENE-Y 1072 1081	PPARgamma
+T18	CHEMICAL 1134 1147	sulfonylureas
+T19	CHEMICAL 1152 1160	glinides
+T1	CHEMICAL 1318 1330	sulfonylurea
+T22	GENE-N 1318 1339	sulfonylurea receptor
+T24	GENE-Y 1344 1353	PPARgamma
+T25	GENE-Y 1406 1413	insulin
+T26	GENE-Y 1436 1443	insulin
+T2	CHEMICAL 1456 1464	Glinides
+T3	CHEMICAL 1466 1479	sulfonylureas
+T4	CHEMICAL 1491 1513	acidified sulfonamides
+T27	GENE-Y 1563 1572	PPARgamma
+T28	GENE-Y 1632 1641	PPARgamma
+R0	CPR-2 Arg1:T8 Arg2:T32
+R1	CPR-5 Arg1:T10 Arg2:T35
+R2	CPR-5 Arg1:T12 Arg2:T35
+R3	NOT Arg1:T6 Arg2:T30
+R4	NOT Arg1:T29 Arg2:T7
+R5	NOT Arg1:T30 Arg2:T7
+R6	NOT Arg1:T19 Arg2:T24
+R7	NOT Arg1:T1 Arg2:T24

@@ -1,0 +1,29 @@
+T10	CHEMICAL 64 74	Tazarotene
+T25	GENE-Y 64 89	Tazarotene-induced gene 1
+T6	CHEMICAL 327 337	Tazarotene
+T16	GENE-N 327 368	Tazarotene-induced gene 1 (TIG1) promoter
+T17	GENE-Y 467 471	TIG1
+T7	CHEMICAL 550 558	cytosine
+T18	GENE-N 578 591	TIG1 promoter
+T8	CHEMICAL 657 670	retinoic acid
+T19	GENE-Y 709 713	TIG1
+T20	GENE-Y 902 906	TIG1
+T21	GENE-N 947 960	TIG1 promoter
+T22	GENE-N 1024 1037	TIG1 promoter
+T9	CHEMICAL 1062 1075	retinoid acid
+T23	GENE-Y 1062 1090	retinoid acid receptor beta2
+T24	GENE-Y 1092 1100	RARbeta2
+T1	CHEMICAL 1111 1119	retinoic
+T11	GENE-N 1111 1158	retinoic-induced putative tumor suppressor gene
+T12	GENE-Y 1190 1211	DNA methyltransferase
+T2	CHEMICAL 1222 1244	5-aza-2'-deoxycytidine
+T13	GENE-Y 1265 1269	TIG1
+T14	GENE-Y 1322 1326	TIG1
+T3	CHEMICAL 1385 1408	all-trans-retinoic acid
+T4	CHEMICAL 1537 1560	all-trans-retinoic acid
+T15	GENE-N 1622 1635	TIG1 promoter
+T5	CHEMICAL 1717 1730	retinoic acid
+R0	CPR-3 Arg1:T2 Arg2:T13
+R1	NOT Arg1:T17 Arg2:T7
+R2	NOT Arg1:T23 Arg2:T1
+R3	NOT Arg1:T15 Arg2:T5

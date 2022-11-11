@@ -1,0 +1,9 @@
+Exogenous C2-ceramide activates c-fos serum response element via Rac-dependent signalling pathway.
+Ceramide is an important regulatory molecule implicated in a variety of biological processes in response to stress and cytokines.
+To understand the signal transduction pathway of ceramide to the nucleus, in the present study, we examined whether C2-ceramide, a cell permeable ceramide, activates c-fos serum response element (SRE).
+Treatment of Rat-2 fibroblast cells with C2-ceramide caused the stimulation of c-fos SRE-dependent reporter gene activity in a dose- and time-dependent manner by transient transfection analysis.
+Next, we examined the role of Rho family GTPases in the ceramide-induced signalling to SRE activation.
+By reporter gene analysis following transient transfections with various plasmids expressing a dominant negative mutant form of Cdc42, Rac1 or RhoA, C2-ceramide-induced SRE activation was shown to be selectively repressed by pEXV-RacN17 encoding a dominant negative mutant of Rac1, suggesting that Rac activity is essential for the signalling cascade of ceramide to the nucleus.
+In a further study to analyse the downstream mediator of Rac in the ceramide-signalling pathway, we observed that either pretreatment with mepacrine, a potent and specific inhibitor of phospholipase A2, or co-transfection with antisense cytosolic phospholipase A2 (cPLA2) oligonucleotide repressed the C2-ceramide-induced SRE activation selectively, implying a critical role of cPLA2 in C2-ceramide-induced signalling to nucleus.
+Consistent with these results, the translocation of cPLA2 protein as well as the release of arachidonic acid, a principal product of phospholipase A2, was rapidly induced by the addition of C2-ceramide in a Rac-dependent manner.
+Together, our findings suggest the critical role of 'Rac and subsequent activation of phospholipase A2' in ceramide-signalling to nucleus.

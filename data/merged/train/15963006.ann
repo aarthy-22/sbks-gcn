@@ -1,0 +1,8 @@
+T1	CHEMICAL 1115 1125	oxybutynin
+T2	CHEMICAL 1392 1409	trospium chloride
+T3	CHEMICAL 1411 1422	solifenacin
+T4	CHEMICAL 1427 1438	darifenacin
+T5	CHEMICAL 1506 1516	muscarinic
+T7	GENE-N 1506 1526	muscarinic receptors
+T6	CHEMICAL 1691 1713	S-isomer of oxybutynin
+T8	GENE-Y 1736 1758	muscarinic M2 receptor

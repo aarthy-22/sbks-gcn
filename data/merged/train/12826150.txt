@@ -1,0 +1,10 @@
+Calcineurin-free protocols with basiliximab induction allow patients included in "old to old" programs achieve standard kidney transplant function.
+INTRODUCTION: The EuroTransplant "old to old" program establishes that patients older than 60 years can receive offers of organs from donors older than 60 years.
+The compromised function of these organs makes it a priority to preserve their initial kidney function.
+HYPOTHESIS: Calcineurin-sparing protocols using anti-IL-2 receptor (IL-2R) antibody induction (Simulect) may benefit initial kidney function in these patients, as assessed by the rates of delayed graft function and of rejection during the first month after transplant.
+PATIENTS AND METHODS: A cohort of 15 consecutive elderly patients were prospectively compared with 30 cadaveric kidney transplants in younger recipients.
+Study patients were induced with Simulect (20 mg, 30 minutes before reperfusion and 4 days after transplantation) and steroids, delaying the introduction of CsA until the serum creatinine was below 3 mg/dL. The other cohort of patients were immunosuppressed with tacrolimus (trough 8 to 12), mycophenolats mofetil (MMF, 1 g/d), and an identical taper of steroids.
+The analysis compared donor and recipient ages, mean cold ischemic time, incidence of initial kidney function (diuresis in the first 24 h) serum creatinine levels, glomerular filtration rate (GFR), number of dialysis sessions, and rejection rate in the two groups.
+RESULTS: Except for the donor and recipient ages (72 vs 54 in donors, and 67 versus 52 years in recipients), no significant differences were observed between the groups among the rates of acute rejection (6.6% vs 13.2%), delayed graft function (13.2% required dialysis), or infection (6.6%).
+Within 1 month all 45 grafts showed primary function with equal creatinine levels (mean 1.65).
+CONCLUSIONS: Calcineurin-free protocols using IL-2 therapy as the initial suppression allow patients in the "old to old" ET program to display equal results to cadaveric kidney transplants with initial treatment with calcineurin antagonists.

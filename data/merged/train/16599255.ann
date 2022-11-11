@@ -1,0 +1,18 @@
+T10	CHEMICAL 31 40	histamine
+T18	GENE-Y 31 52	histamine H3 receptor
+T2	CHEMICAL 119 128	histamine
+T12	GENE-Y 119 140	histamine H3 receptor
+T9	CHEMICAL 196 205	histamine
+T1	CHEMICAL 240 241	N
+T11	GENE-N 240 259	N-methyltransferase
+T13	GENE-Y 304 324	acetylcholinesterase
+T3	CHEMICAL 335 342	tacrine
+T14	GENE-Y 344 355	H3 receptor
+T4	CHEMICAL 409 418	histamine
+T5	CHEMICAL 458 471	acetylcholine
+T15	GENE-Y 712 732	acetylcholinesterase
+T16	GENE-Y 740 761	butyrylcholinesterase
+T6	CHEMICAL 808 821	acetylcholine
+T7	CHEMICAL 876 885	histamine
+T17	GENE-N 963 977	cholinesterase
+T8	CHEMICAL 1024 1031	tacrine

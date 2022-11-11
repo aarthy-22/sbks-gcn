@@ -1,0 +1,11 @@
+Atorvastatin withdrawal elicits oxidative/nitrosative damage in the rat cerebral cortex.
+Statins are inhibitors of the enzyme 3-hydroxy-3-methylglutaryl coenzyme A reductase, the rate-limiting step in cholesterol biosynthesis.
+Statins effectively prevent and reduce the risk of coronary artery disease through lowering serum cholesterol, and also exert anti-thrombotic, anti-inflammatory and antioxidant effects independently of changes in cholesterol levels.
+On the other hand, clinical and experimental evidence suggests that abrupt cessation of statin treatment (i.e. statin withdrawal) is associated with a deleterious rebound phenomenon.
+In fact, statin withdrawal increases the risk of thrombotic vascular events, causes impairment of endothelium-dependent relaxation and facilitates experimental seizures.
+However, evidence for statin withdrawal-induced detrimental effects to the brain parenchyma is still lacking.
+In the present study adult male Wistar rats were treated with atorvastatin for seven days (10mg/kg/day) and neurochemical assays were performed in the cerebral cortex 30min (atorvastatin treatment) or 24h (atorvastatin withdrawal) after the last atorvastatin administration.
+We found that atorvastatin withdrawal decreased levels of nitric oxide and mitochondrial superoxide dismutase activity, whereas increased NADPH oxidase activity and immunoreactivity for the protein nitration marker 3-nitrotyrosine in the cerebral cortex.
+Catalase, glutathione-S-transferase and xanthine oxidase activities were not altered by atorvastatin treatment or withdrawal, as well as protein carbonyl and 4-hydroxy-2-nonenal immunoreactivity.
+Immunoprecipitation of mitochondrial SOD followed by analysis of 3-nitrotyrosine revealed increased levels of nitrated mitochondrial SOD, suggesting the mechanism underlying the atorvastatin withdrawal-induced decrease in enzyme activity.
+Altogether, our results indicate the atorvastatin withdrawal elicits oxidative/nitrosative damage in the rat cerebral cortex, and that changes in NADPH oxidase activity and mitochondrial superoxide dismutase activities may underlie such harmful effects.

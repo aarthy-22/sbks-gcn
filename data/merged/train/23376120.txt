@@ -1,0 +1,8 @@
+Gastrodin attenuation of the inflammatory response in H9c2 cardiomyocytes involves inhibition of NF-κB and MAPKs activation via the phosphatidylinositol 3-kinase signaling.
+The phenolic glucoside gastrodin, a main constituent of a Chinese traditional herbal medicine, has been known to display several biological and pharmacological properties.
+However, the role and precise molecular mechanisms explaining how gastrodin suppresses the inflammatory response in septic cardiac dysfunction are unknown.
+To study this, rat H9c2 cardiomyocytes were treated with gastrodin and/or lipopolysaccharide (LPS).
+Our results showed that gastrodin treatment strongly suppressed nuclear factor-κB (NF-κB) and mitogen-activated protein kinases (MAPKs) family activation and upregulation of the expression of inducible nitric oxide synthase (iNOS), cyclooxygenase-2 (COX-2), tumor necrosis factor-α (TNF-α), and interleukin-6 (IL-6) in LPS-stimulated H9c2 cardiomyocytes.
+Simultaneously, gastrodin obviously upregulated the phosphatidylinositol 3-kinase (PI3-K)/Akt signaling in a dose-dependent manner.
+However, wortmannin, a specific PI3-K inhibitor, blocked the inhibitory effects of gastrodin on LPS-stimulated H9c2 cardiomyocytes.
+Furthermore, PI3-K/Akt inhibition partially abolished the inhibitory effects of gastrodin on the phosphorylation of inhibitor κB-α (IκB-α), extracellular signal-regulated kinase 1/2 (ERK1/2), c-Jun N-terminal protein kinase (JNK), and p38 mitogen-activated protein kinase (p38 MAPK), and activity of NF-κB. Here we report activation of the PI3-K/Akt signaling by gastrodin and that inhibition of this pathway reverses the inhibitory effects of gastrodin on NF-κB and MAPKs activation in H9c2 cardiomyocytes.

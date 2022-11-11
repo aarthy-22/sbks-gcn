@@ -1,0 +1,9 @@
+Comparison of in vitro P-glycoprotein screening assays: recommendations for their use in drug discovery.
+The ATP-dependent drug efflux pump P-glycoprotein (P-gp) affects the absorption and disposition of many compounds.
+P-gp may also play role in clinically significant drug-drug interactions.
+Therefore, it is important to find potential substrates or inhibitors of P-gp early in the drug discovery process.
+To identify compounds that interact with this transporter, several P-gp assays were validated and compared by testing a set of 28 reference compounds, including inhibitors of cytochrome P450 3A4 (CYP3A4).
+The assays included in silico predictions, inhibition assays (based on cellular uptake of rhodamine-123 or calcein AM), and functional assays (ATPase activity assay and transcellular transport assay, the latter for a subset of compounds).
+In addition, species differences were studied in an indirect fluorescence indicator screening assay and test systems expressing porcine, mouse, or human P-gp.
+Our results suggest that several P-gp assays should be used in combination to classify compounds as substrates or inhibitors of P-gp.
+Recommendations are given on screening strategies which can be applied to different phases of the drug discovery and development process.

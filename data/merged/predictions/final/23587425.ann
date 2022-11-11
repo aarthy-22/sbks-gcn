@@ -1,0 +1,10 @@
+T9	GENE 23 27	CHK1
+T10	GENE 32 35	MK2
+T3	CHEMICAL 50 72	imidazo[1,2-a]pyrazine
+T4	CHEMICAL 78 102	imidazo[1,2-c]pyrimidine
+T8	GENE 109 115	kinase
+T1	CHEMICAL 172 195	imidazo[1,2-a]pyrazines
+T2	CHEMICAL 200 225	imidazo[1,2-c]pyrimidines
+T5	GENE 312 319	kinases
+T6	GENE 373 377	CHK1
+T7	GENE 382 385	MK2

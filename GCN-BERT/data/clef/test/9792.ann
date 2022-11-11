@@ -1,0 +1,19 @@
+T1	OTHER_COMPOUND 804 819	dichloromethane
+T2	TEMPERATURE 372 377	50° C
+T3	TIME 383 389	5 days
+T4	OTHER_COMPOUND 719 734	dichloromethane
+T5	REAGENT_CATALYST 258 284	propylphosphonic anhydride
+T6	STARTING_MATERIAL 30 85	6-(2-aminothiazol-4-yl)-3,4-dihydroquinazolin-2(1H)-one
+T7	OTHER_COMPOUND 436 441	water
+T8	OTHER_COMPOUND 546 552	NaHCO3
+T9	SOLVENT 306 319	ethyl acetate
+T10	OTHER_COMPOUND 473 488	dichloromethane
+T11	EXAMPLE_LABEL 8 10	23
+T12	SOLVENT 211 223	acetonitrile
+T13	OTHER_COMPOUND 489 500	isopropanol
+T14	YIELD_PERCENT 933 936	82%
+T15	OTHER_COMPOUND 617 623	Na2SO4
+T16	YIELD_OTHER 924 931	0.129 g
+T17	STARTING_MATERIAL 112 149	2,4-dimethylhiazole-5-carboxylic acid
+T18	REAGENT_CATALYST 177 185	pyridine
+T19	REACTION_PRODUCT 828 922	2,4-dimethyl-N-(4-(2-oxo-1,2,3,4-tetrahydroquinazolin-6-yl)thiazol-2-yl)thiazole-5-carboxamide

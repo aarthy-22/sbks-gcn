@@ -1,0 +1,16 @@
+T11	CHEMICAL 24 27	tyr
+T15	GENE-Y 35 54	human glyoxalase II
+T12	CHEMICAL 81 92	glutathione
+T1	CHEMICAL 106 114	Tyrosine
+T14	GENE-Y 149 168	human glyoxalase II
+T10	CHEMICAL 185 198	phenylalanine
+T2	CHEMICAL 336 358	S-D-lactoylglutathione
+T13	GENE-N 386 391	Y175F
+T3	CHEMICAL 484 531	S-(N-hydroxy-N-bromophenylcarbamoyl)glutathione
+T4	CHEMICAL 758 775	phenolic hydroxyl
+T5	CHEMICAL 785 793	tyrosine
+T6	CHEMICAL 808 816	hydrogen
+T7	CHEMICAL 841 855	amide nitrogen
+T8	CHEMICAL 863 870	glycine
+T9	CHEMICAL 878 889	glutathione
+R0	CPR-1 Arg1:T11 Arg2:T15

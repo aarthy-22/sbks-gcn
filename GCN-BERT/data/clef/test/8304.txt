@@ -1,0 +1,3 @@
+EXAMPLE F:
+1,3-Diphenyl-6-phenylamino-1H-quinazoline-2,4-dione
+71.9 g (183 mmol) of 6-bromo-1,3-diphenyl-1H-quinazoline-2,4-dione, 20 mL of aniline (220 mmol), 1.5 g of DPPF (2.7 mmol), 0.5 g of palladium(II) acetate and 45 g of sodium tert-butoxide (486 mmol) are heated to boiling in 1.5 L of toluene under a protective atmosphere for 18 h. The mixture is subsequently partitioned between toluene and water, and the organic phase is washed three times with water and dried over Na2SO4 and concentrated by rotary evaporation. The remaining residue is recrystallized from heptane/ethyl acetate. The yield is 54 g (110 mmol, 57%).

@@ -1,0 +1,16 @@
+Effect of the ABCB1 modulators elacridar and tariquidar on the distribution of paclitaxel in nude mice.
+PURPOSE: Previously, we studied the effect of co-administration of paclitaxel with the second generation ABCB1 (p-gp) modulator valspodar on the intracerebral growth of human U118-MG glioblastoma in nude mice.
+Valspodar significantly increased the brain levels of paclitaxel by inhibition of p-gp expressed at the blood brain barrier.
+Thus, the tumour burden was reduced by 90%, which was considered as a proof of concept.
+However, the paclitaxel dose had to be reduced because of toxic side effects resulting from increased drug levels due to p-gp modulation in peripheral tissues.
+Therefore, in the present study we examined the co-application of paclitaxel with the third generation ABCB1 modulators elacridar and tariquidar, which were supposed to preferentially modulate p-gp in brain capillaries.
+METHODS: The inhibitory activity of the modulators was measured by a flow cytometric and a chemosensitivity assay in vitro.
+To determine the distribution of paclitaxel in vivo, nude mice received 50 mg/kg of valspodar, elacridar or tariquidar p.o.
+(control: vehicle) 4 h before i.v.
+injection of 8 mg/kg of paclitaxel.
+Brain, liver, kidney and plasma were collected and analyzed by RP-HPLC.
+RESULTS: Our in vitro experiments demonstrate that the new modulators are about 80 times more effective in comparison to valspodar.
+Co-administration of paclitaxel with elacridar and tariquidar led to a long lasting fivefold increase in the concentration of the cytostatic in the brain.
+Although the increase (2.5- to 7-fold) tended to be lower compared to that induced by co-administered valspodar (six- to eightfold), the brain/plasma ratios achieved with the new modulators were 2-15 times higher.
+CONCLUSIONS: Elacridar and tariquidar seem to modulate p-glycoprotein preferentially at the blood-brain barrier.
+Our results suggest that the systemic toxicity of cytostatics combined with elacridar or tariquidar should be lower than in combination with valspodar.

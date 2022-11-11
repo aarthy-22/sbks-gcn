@@ -1,0 +1,22 @@
+T14	GENE-Y 15 38	human alpha-lactalbumin
+T8	CHEMICAL 44 55	fatty acids
+T11	GENE-Y 136 159	human alpha-lactalbumin
+T7	CHEMICAL 165 176	fatty acids
+T9	GENE-Y 224 245	Apo-alpha-lactalbumin
+T1	CHEMICAL 274 278	EDTA
+T2	CHEMICAL 310 321	fatty acids
+T3	CHEMICAL 353 377	oleic and palmitic acids
+T10	GENE-Y 438 460	holo-alpha-lactalbumin
+T4	CHEMICAL 480 491	fatty acids
+T5	CHEMICAL 536 547	fatty acids
+T12	GENE-Y 557 579	holo-alpha-lactalbumin
+T13	GENE-Y 727 744	alpha-lactalbumin
+T6	CHEMICAL 763 770	calcium
+R0	CPR-2 Arg1:T8 Arg2:T14
+R1	CPR-2 Arg1:T7 Arg2:T11
+R2	CPR-2 Arg1:T2 Arg2:T9
+R3	CPR-2 Arg1:T3 Arg2:T9
+R4	NOT Arg1:T4 Arg2:T10
+R5	NOT Arg1:T5 Arg2:T12
+R6	NOT Arg1:T9 Arg2:T1
+R7	NOT Arg1:T13 Arg2:T6

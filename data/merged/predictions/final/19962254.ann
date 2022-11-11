@@ -1,0 +1,29 @@
+T17	CHEMICAL 18 25	steroid
+T18	CHEMICAL 60 72	progestogens
+T3	CHEMICAL 241 250	estrogens
+T4	CHEMICAL 252 261	androgens
+T5	CHEMICAL 266 278	progesterone
+T21	GENE 294 304	sulfatases
+T22	GENE 306 315	aromatase
+T6	CHEMICAL 317 331	hydroxysteroid
+T23	GENE 317 346	hydroxysteroid-dehydrogenases
+T24	GENE 348 365	sulfotransferases
+T25	GENE 367 379	hydroxylases
+T26	GENE 384 398	glucuronidases
+T7	CHEMICAL 562 574	progestogens
+T8	CHEMICAL 585 599	dydrogesterone
+T9	CHEMICAL 636 648	medrogestone
+T10	CHEMICAL 650 662	promegestone
+T11	CHEMICAL 664 683	nomegestrol acetate
+T12	CHEMICAL 688 702	norelgestromin
+T13	CHEMICAL 738 747	estradiol
+T27	GENE 777 786	sulfatase
+T14	CHEMICAL 791 812	17beta-hydroxysteroid
+T28	GENE 791 833	17beta-hydroxysteroid-dehydrogenase type 1
+T15	CHEMICAL 927 935	estrogen
+T29	GENE 927 952	estrogen sulfotransferase
+T16	CHEMICAL 963 975	Progesterone
+T1	CHEMICAL 1186 1198	progesterone
+T19	GENE 1306 1315	sulfatase
+T2	CHEMICAL 1319 1340	17beta-hydroxysteroid
+T20	GENE 1319 1361	17beta-hydroxysteroid-dehydrogenase type 1

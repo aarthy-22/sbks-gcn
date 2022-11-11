@@ -1,0 +1,2 @@
+The eighth step
+To a solution of Compound 21 (243mg, 0.69mmol) in THF (2.4mL) was added 1mol / L-TBAF · THF solution (1.38 mL, 1.38 mmol), and the mixture was heated under reflux and stirred for 1 hour. The reaction mixture was extracted with ethyl acetate after addition of water. The organic layer was washed with water, dried over anhydrous sodium sulfate, and concentrated under reduced pressure. The resulting residue was purified by silica gel column chromatography (hexane-ethyl acetate) to yield Compound 22 (230mg, yield 95%).

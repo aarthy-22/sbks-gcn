@@ -1,0 +1,10 @@
+Innovative approach for improvement of an antibiotic-overproducing industrial strain of Streptomyces albus.
+Working with a Streptomyces albus strain that had previously been bred to produce industrial amounts (10 mg/ml) of salinomycin, we demonstrated the efficacy of introducing drug resistance-producing mutations for further strain improvement.
+Mutants with enhanced salinomycin production were detected at a high incidence (7 to 12%) among spontaneous isolates resistant to streptomycin (Str(r)), gentamicin, or rifampin (Rif(r)).
+Finally, we successfully demonstrated improvement of the salinomycin productivity of the industrial strain by 2.3-fold by introducing a triple mutation.
+The Str(r) mutant was shown to have a point mutation within the rpsL gene (encoding ribosomal protein S12).
+Likewise, the Rif(r) mutant possessed a mutation in the rpoB gene (encoding the RNA polymerase beta subunit).
+Increased productivity of salinomycin in the Str(r) mutant (containing the K88R mutation in the S12 protein) may be a result of an aberrant protein synthesis mechanism.
+This aberration may manifest itself as enhanced translation activity in stationary-phase cells, as we have observed with the poly(U)-directed cell-free translation system.
+The K88R mutant ribosome was characterized by increased 70S complex stability in low Mg(2+) concentrations.
+We conclude that this aberrant protein synthesis ability in the Str(r) mutant, which is a result of increased stability of the 70S complex, is responsible for the remarkable salinomycin production enhancement obtained.

@@ -1,0 +1,4 @@
+α-Amino-α´-Halomethylketones: Synthetic Methodologies and Pharmaceutical Applications as Serine and Cysteine Protease Inhibitors.
+α-Amino-α´-halomethylketones are interesting scaffolds bearing (at least) two sequential electrophilic carbons that by interacting with the nucleophilic moieties of several enzymes, represent the ideal candidates for in vivo and in vitro inhibition studies.
+In this work a summary of their use as optimal inhibitors of physiologically relevant serine and cysteine proteases is given with a particular emphasis on recently established SAR studies.
+A brief survey of the most relevant synthetic processes for their obtainment and the importance they possess in synthetic medicinal chemistry is reported.

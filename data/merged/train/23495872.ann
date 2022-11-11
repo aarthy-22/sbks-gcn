@@ -1,0 +1,17 @@
+T16	GENE-N 18 34	Transglutaminase
+T5	GENE-N 247 273	microbial transglutaminase
+T6	GENE-N 326 342	type II collagen
+T7	GENE-N 432 448	transglutaminase
+T1	CHEMICAL 514 523	glutamine
+T2	CHEMICAL 528 534	lysine
+T8	GENE-N 551 567	Type II collagen
+T9	GENE-Y 671 686	serotransferrin
+T3	CHEMICAL 690 696	lysine
+T10	GENE-N 716 742	bacterial transglutaminase
+T4	CHEMICAL 776 783	carboxy
+T11	GENE-N 807 823	type II collagen
+T12	GENE-Y 825 838	chondrocalcin
+T13	GENE-Y 840 853	Chondrocalcin
+T14	GENE-N 870 886	type II collagen
+T15	GENE-N 1127 1153	microbial transglutaminase
+R0	NOT Arg1:T4 Arg2:T11

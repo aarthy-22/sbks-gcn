@@ -1,0 +1,6 @@
+Dihydrolipoamide acyltransferase is critical for Mycobacterium tuberculosis pathogenesis.
+Mycobacterium tuberculosis has evolved to persist in host macrophages, where it faces a nutrient-poor environment and is exposed to oxidative and nitrosative stress.
+To defend itself against oxidative/nitrosative stress, M. tuberculosis expresses an NADH-dependent peroxidase and peroxynitrite reductase that is encoded by ahpC, ahpD, lpd, and dlaT. In addition to its central role in the peroxynitrite reductase complex, dlaT (Rv2215) also encodes the E2 component of pyruvate dehydrogenase.
+Here we demonstrate that inactivation of dlaT in the chromosome of H37Rv resulted in a mutant (H37RvDeltadlaT) that displayed phenotypes associated with DlaT's role in metabolism and in defense against nitrosative stress.
+The H37RvDeltadlaT strain showed retarded growth in vitro and was highly susceptible to killing by acidified sodium nitrite.
+Mouse macrophages readily killed intracellular H37RvDeltadlaT organisms, and in mice dlaT was required for full virulence.

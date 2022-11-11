@@ -1,0 +1,39 @@
+T34	GENE-N 52 79	human alpha(2)-adrenoceptor
+T31	GENE-N 151 178	human alpha(2)-adrenoceptor
+T11	CHEMICAL 290 303	noradrenaline
+T12	CHEMICAL 308 329	(+/-)-meta-octopamine
+T13	CHEMICAL 343 356	Noradrenaline
+T14	CHEMICAL 423 432	forskolin
+T15	CHEMICAL 444 454	cyclic AMP
+T16	CHEMICAL 600 615	meta-Octopamine
+T30	GENE-Y 640 662	alpha(2A)-adrenoceptor
+T17	CHEMICAL 689 698	forskolin
+T18	CHEMICAL 710 720	cyclic AMP
+T19	CHEMICAL 742 757	meta-octopamine
+T32	GENE-N 770 808	alpha(2B)- and alpha(2C)-adrenoceptors
+T20	CHEMICAL 851 860	forskolin
+T21	CHEMICAL 872 882	cyclic AMP
+T22	CHEMICAL 919 934	meta-octopamine
+T23	CHEMICAL 938 951	noradrenaline
+T33	GENE-N 981 1002	alpha(2)-adrenoceptor
+T24	CHEMICAL 1028 1043	meta-octopamine
+T1	CHEMICAL 1105 1118	noradrenaline
+T25	GENE-N 1131 1168	alpha(2A)- and alpha(2B)-adrenoceptor
+T26	GENE-Y 1211 1233	alpha(2C)-adrenoceptor
+T2	CHEMICAL 1235 1250	meta-octopamine
+T3	CHEMICAL 1299 1312	noradrenaline
+T4	CHEMICAL 1335 1344	forskolin
+T5	CHEMICAL 1356 1366	cyclic AMP
+T6	CHEMICAL 1415 1428	noradrenaline
+T7	CHEMICAL 1450 1459	forskolin
+T8	CHEMICAL 1471 1481	cyclic AMP
+T9	CHEMICAL 1565 1580	meta-octopamine
+T27	GENE-Y 1628 1651	alpha(2C)-adrenoceptors
+T10	CHEMICAL 1701 1711	cyclic AMP
+T28	GENE-Y 1781 1804	alpha(2A)-adrenoceptors
+T29	GENE-N 1842 1880	alpha(2B)- and alpha(2C)-adrenoceptors
+R0	NOT Arg1:T19 Arg2:T32
+R1	NOT Arg1:T32 Arg2:T21
+R2	NOT Arg1:T26 Arg2:T4
+R3	NOT Arg1:T26 Arg2:T5
+R4	NOT Arg1:T26 Arg2:T6

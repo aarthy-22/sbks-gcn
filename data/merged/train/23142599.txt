@@ -1,0 +1,9 @@
+Inhibition of vitellogenin gene induction by 2,3,7,8-tetrachlorodibenzo-p-dioxin is mediated by aryl hydrocarbon receptor 2 (AHR2) in zebrafish (Danio rerio).
+Vitellogenins are hepatically derived yolk-protein precursors required for oogenesis in all oviparous teleosts.
+Altered gene-regulation of vitellogenesis by environmental contaminants can have profound effects on reproductive success, and ultimately population sustainability.
+To better understand chemical effects on vitellogenin gene regulation, we tested the hypothesis that activation of the aryl hydrocarbon receptor 2 (AHR2) by dioxin inhibits the estrogen receptor pathway regulation of 3 vitellogenin genes (vtg1-3) in vivo, using zebrafish (Danio rerio) as a model teleost.
+Using an embryo-larval bioassay, embryos were either treated with 1000 pptr (parts-per-trillion, pg/mL) 17α-ethynylestradiol (EE2) alone from 6h post fertilization (hpf) to 4 days post fertilization (dpf), or pre-treated with dioxin (4-5 hpf) prior to EE2.
+Pre-treatment with 400 pptr 2,3,7,8-tetrachlorodibenzo-p-dioxin (2,3,7,8-TCDD) or 1,2,3,7,8-pentachlorodibenzo-p-dioxin inhibited the EE2 induction of vtg1, vtg2 and vtg3 by >95% (p≤0.05).
+In comparison, a splice-blocking AHR2 morpholino used to down-regulate ahr2 expression significantly reduced the inhibition of vtg1, vtg2 and vtg3 by 400 pptr 2,3,7,8-TCDD (20.7-27.4% rescue).
+These studies demonstrate that 2,3,7,8-TCDD directly inhibits the vitellogenin pathway in vivo through activation of the AHR2.
+This work provides evidence for AHR2 dependent cross-talk inhibition of vitellogenin genes and offers insight into anti-estrogenic reproductive effects observed in oviparous species exposed to AHR agonist contaminants.

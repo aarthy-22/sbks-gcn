@@ -1,0 +1,10 @@
+Comparative efficacy and safety of the novel oral anticoagulants dabigatran, rivaroxaban and apixaban in preclinical and clinical development.
+Therapeutic oral anticoagulation is still commonly achieved by administration of warfarin or other vitamin K antagonists that are associated with an untoward pharmacokinetic / pharmacodynamic (PK/PD) profile leading to a high incidence of bleeding complications or therapeutic failure.
+Hence, there is an unmet medical need of novel easy-to-use oral anticoagulants with improved efficacy and safety.
+Recent developments include the identification of non-peptidic small-molecules that selectively inhibit certain serine proteases within the coagulation cascade.
+Of these, the thrombin inhibitor dabigatran and factor Xa inhibitor rivaroxaban have recently been licensed for thromboprophylaxis after orthopaedic surgery mainly in Europe.
+In addition, the factor Xa inhibitor apixaban is in late-stage clinical development.
+Each drug is prescribed at fixed doses without the need of anticoagulant monitoring.
+Phase III trials in orthopaedic patients essentially resulted in non-inferior efficacy of dabigatran and superior efficacy of rivaroxaban over enoxaparin without any marked differences of drug safety, while apixaban data is still controversial.
+However, alterations of rivaroxaban and apixaban pharmacokinetics upon interactions with inhibitors and inducers of CYP3A4 or P-glycoprotein may complicate the use of these compounds in daily practice, whereas dabigatran elimination largely depends on renal function.
+Hence, this review reports PK/PD, efficacy and safety data of dabigatran, rivaroxaban and apixaban throughout preclinical and clinical development.

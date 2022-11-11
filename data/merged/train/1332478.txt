@@ -1,0 +1,9 @@
+Failure of ritodrine to prevent preterm labor in the sheep.
+OBJECTIVES: The purpose of this study was to determine whether continuous infusion of ritodrine could prevent preterm delivery in sheep.
+STUDY DESIGN: Sheep in preterm labor induced by RU 486 (mifepristone) received infusions of either ritodrine (n = 5) or saline solution (n = 5), and the progress of labor was monitored.
+beta 2-Adrenergic receptor density and function (agonist-induced cyclic adenosine monophosphate production) was measured in myometrial samples from both groups.
+RESULTS: Ritodrine initially inhibited labor contractions.
+This inhibition was only maintained for 16 hours, after which both the amplitude and frequency of electromyographic bursts and contractions returned.
+The failure of the myometrium to respond to ritodrine (desensitization) was associated with significant reductions in agonist-induced cyclic adenosine monophosphate production and beta 2-adrenergic receptor concentration in myometrial tissue collected from these animals compared with the saline solution-treated controls.
+CONCLUSIONS: Continuous infusion of ritodrine to sheep in preterm labor produces only a transient inhibition of contractions.
+This desensitization is caused by a down-regulation of myometrial beta 2-adrenergic receptors.

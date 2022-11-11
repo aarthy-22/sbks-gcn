@@ -1,0 +1,7 @@
+In situ and in vitro evidence for DCoH/HNF-1 alpha transcription of tyrosinase in human skin melanocytes.
+Human epidermal melanocytes hold the full capacity for autocrine de novo synthesis/regulation/recycling of the essential cofactor 6-tetrahydrobiopterin (6BH(4)) for conversion of L-phenylalanine via phenylalanine hydroxylase to L-tyrosine and for production of L-Dopa via tyrosine hydroxylase to initiate both pigmentation and catecholamine synthesis in these neural crest-derived cells.
+Earlier we have demonstrated pterin-4a-carbinolamine dehydratase (PCD) mRNA and enzyme activities in epidermal melanocytes and keratinocytes.
+This protein dimerises also the transcription factor hepatocyte nuclear factor 1 (HNF-1), leading to activation of multiple genes.
+This study demonstrates for the first time DCoH/HNF-1 alpha expression and transcriptional activity in human epidermal melanocytes in vitro and in situ and identified tyrosinase, the key enzyme for pigmentation, as a new transcriptional target.
+Specific binding of DCoH/HNF-1 complex to the human tyrosinase promoter was confirmed by gel shift analysis.
+These results provide a novel mechanism in the regulation of skin pigmentation.

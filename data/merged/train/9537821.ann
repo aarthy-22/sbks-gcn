@@ -1,0 +1,27 @@
+T25	GENE-N 68 96	human monoamine transporters
+T21	CHEMICAL 74 83	monoamine
+T1	CHEMICAL 244 263	desmethylcitalopram
+T2	CHEMICAL 265 284	desmethylsertraline
+T3	CHEMICAL 290 303	norfluoxetine
+T4	CHEMICAL 380 384	Ca2+
+T5	CHEMICAL 406 421	benzodiazepines
+T6	CHEMICAL 441 455	antihistamines
+T7	CHEMICAL 461 471	monoamines
+T22	GENE-N 481 539	human serotonin, norepinephrine, and dopamine transporters
+T8	CHEMICAL 487 496	serotonin
+T9	CHEMICAL 498 512	norepinephrine
+T10	CHEMICAL 518 526	dopamine
+T11	CHEMICAL 577 585	mazindol
+T23	GENE-N 613 659	human norepinephrine and dopamine transporters
+T12	CHEMICAL 619 633	norepinephrine
+T13	CHEMICAL 638 646	dopamine
+T14	CHEMICAL 724 734	Sertraline
+T15	CHEMICAL 758 769	nomifensine
+T24	GENE-Y 832 858	human dopamine transporter
+T16	CHEMICAL 838 846	dopamine
+T17	CHEMICAL 939 948	serotonin
+T18	CHEMICAL 961 975	norepinephrine
+T19	CHEMICAL 992 1000	dopamine
+T20	CHEMICAL 1091 1101	monoamines
+R0	NOT Arg1:T1 Arg2:T22
+R1	NOT Arg1:T5 Arg2:T22

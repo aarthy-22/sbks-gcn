@@ -1,0 +1,12 @@
+Histamine H1 receptor involvement in prepulse inhibition and memory function: relevance for the antipsychotic actions of clozapine.
+Histamine H(1) blockade is one of the more prominent actions of the multi-receptor acting antipsychotic clozapine.
+It is currently not known how much this H(1) antagonism of clozapine contributes to the therapeutic or adverse side effects of clozapine.
+The current studies with Sprague-Dawley rats were conducted to determine the participation of histaminergic H(1) receptor subtype in sensorimotor plasticity and memory function affected by clozapine using tests of prepulse inhibition (PPI) and radial-arm maze choice accuracy.
+The PPI impairment caused by the glutamate antagonist dizocilpine (MK-801) was significantly attenuated by clozapine.
+In the current project, we found that the selective H(1) antagonist pyrilamine also reversed the dizocilpine-induced impairment in PPI of tactile startle with an auditory prepulse.
+In the radial-arm maze (RAM), pyrilamine, like clozapine, impaired working memory and caused a significant dose-related slowing of response.
+Pyrilamine, however, decreased the number of reference memory errors.
+We have previously shown that nicotine effectively attenuates the clozapine-induced working memory impairment, but in the current study, nicotine did not significantly alter the effects of pyrilamine on the RAM.
+In summary, the therapeutic effect of clozapine in reversing PPI impairment was mimicked by the H(1) antagonist pyrilamine, while pyrilamine had a mixed effect on cognition.
+Pyrilamine impaired working memory but improved reference memory in rats.
+Thus, H(1) antagonism seems to play a role in part of the beneficial actions of antipsychotics, such as clozapine.

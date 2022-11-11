@@ -1,0 +1,8 @@
+Influence of surface groups on poly(propylene imine) dendrimers antiprion activity.
+Prion diseases are characterized by the accumulation of PrP(Sc), an aberrantly folded isoform of the host protein PrP(C).
+Specific forms of synthetic molecules known as dendrimers are able to eliminate protease-resistant PrP(Sc) in both an intracellular and in vitro setting.
+The properties of a dendrimer which govern this ability are unknown.
+We addressed the issue by comparing the in vitro antiprion ability of numerous modified poly(propylene-imine) dendrimers, which varied in size, structure, charge, and surface group composition.
+Several of the modified dendrimers, including an anionic glycodendrimer, reduced the level of protease resistant PrP(Sc) in a prion strain-dependent manner.
+This led to the formulation of a new working model for dendrimer/prion interactions which proposes dendrimers eliminate PrP(Sc) by destabilizing the protein and rendering it susceptible to proteolysis.
+This ability is not dependent on any particular charge of dendrimer, but does require a high density of reactive surface groups.

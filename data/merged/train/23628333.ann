@@ -1,0 +1,13 @@
+T4	CHEMICAL 30 65	2-thio-6-oxo-1,6-dihydropyrimidines
+T11	GENE-N 83 110	human lactate dehydrogenase
+T5	CHEMICAL 89 96	lactate
+T3	CHEMICAL 120 154	2-thio-6-oxo-1,6-dihydropyrimidine
+T9	GENE-N 179 206	human lactate dehydrogenase
+T2	CHEMICAL 185 192	lactate
+T10	GENE-N 208 211	LDH
+T6	GENE-Y 419 429	human LDHA
+T1	CHEMICAL 484 488	NADH
+T7	GENE-Y 582 586	LDHA
+T8	GENE-Y 693 703	human LDHA
+R0	CPR-2 Arg1:T1 Arg2:T6
+R1	NOT Arg1:T2 Arg2:T10

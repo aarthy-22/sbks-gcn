@@ -1,0 +1,14 @@
+T6	CHEMICAL 83 97	streptozotocin
+T2	CHEMICAL 536 550	streptozotocin
+T3	CHEMICAL 702 709	glucose
+T9	GENE-N 743 766	glycosylated hemoglobin
+T10	GENE-N 864 871	insulin
+T4	CHEMICAL 1006 1013	glucose
+T5	CHEMICAL 1027 1039	triglyceride
+T11	GENE-Y 1054 1065	adiponectin
+T12	GENE-Y 1115 1126	adiponectin
+T13	GENE-Y 1128 1139	Adiponectin
+T1	CHEMICAL 1183 1190	glucose
+T7	GENE-Y 1343 1354	adiponectin
+T8	GENE-Y 1421 1432	adiponectin
+R0	NOT Arg1:T4 Arg2:T11

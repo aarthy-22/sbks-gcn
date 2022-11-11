@@ -1,0 +1,12 @@
+T9	CHEMICAL 34 44	aprepitant
+T11	GENE-Y 61 74	NK-1 receptor
+T5	CHEMICAL 205 215	aprepitant
+T7	CHEMICAL 230 241	substance P
+T10	GENE-Y 230 255	substance P (SP) receptor
+T8	CHEMICAL 243 245	SP
+T1	CHEMICAL 298 307	oxazinone
+T2	CHEMICAL 458 471	cis-sec-amine
+T3	CHEMICAL 552 566	chiral alcohol
+T4	CHEMICAL 574 594	trichloroacetimidate
+T6	CHEMICAL 657 667	morpholine
+R0	CPR-6 Arg1:T9 Arg2:T11

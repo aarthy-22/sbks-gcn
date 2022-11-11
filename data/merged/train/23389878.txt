@@ -1,0 +1,13 @@
+FOXO1 binds to the TAU5 motif and inhibits constitutively active androgen receptor splice variants.
+BACKGROUND: Aberrant activation of the androgen receptor (AR) is a major factor highly relevant to castration-resistant progression of prostate cancer (PCa).
+FOXO1, a key downstream effector of PTEN, inhibits androgen-independent activation of the AR.
+However, the underlying mechanism remains elusive.
+METHODS: The inhibitory effect of FOXO1 on full-length and constitutively active splice variants of the AR was examined by luciferase reporter assays and real-time reverse transcription polymerase chain reaction (RT-qPCR).
+In vitro protein binding assays and western blot analyses were used to determine the regions in FOXO1 and AR responsible for their interaction.
+RESULTS: We found that a putative transcription repression domain in the NH2-terminus of FOXO1 is dispensable for FOXO1 inhibition of the AR.
+In vitro protein binding assays showed that FOXO1 binds to the transcription activation unit 5 (TAU5) motif in the AR NH2-terminal domain (NTD), a region required for recruitment of p160 activators including SRC-1.
+Ectopic expression of SRC-1 augmented transcriptional activity of some, but not all AR splice variants examined.
+Forced expression of FOXO1 blocked the effect of SRC-1 on AR variants' transcriptional activity by decreasing the binding of SRC-1 to the AR NTD.
+Ectopic expression of FOXO1 inhibited expression of endogenous genes activated primarily by alternatively spliced AR variants in human castration-resistant PCa 22Rv1 cells.
+CONCLUSIONS: FOXO1 binds to the TAU5 motif in the AR NTD and inhibits ligand-independent activation of AR splice variants, suggesting the PTEN/FOXO1 pathway as a potential therapeutic target for inhibition of aberrant AR activation and castration-resistant PCa growth.
+Prostate © 2013 Wiley Periodicals, Inc.

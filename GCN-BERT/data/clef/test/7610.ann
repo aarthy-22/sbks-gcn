@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 1 2	5
+T2	REACTION_PRODUCT 19 145	tert-butyl 8-((2S,5R)-7-oxo-6-(sulfooxy)-1,6-diazabicyclo[3.2.1]octane-2-carboxamido)-3-azabicyclo[3.2.1]o ctane-3-carboxylate
+T3	STARTING_MATERIAL 146 269	Tert-butyl 8-((2S',5R)-6-hydroxyl-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-formamido)-3-azabicyclo[3.2.1 ]octane-3-carboxylate
+T4	SOLVENT 307 318	isopropanol
+T5	SOLVENT 330 335	water
+T6	REAGENT_CATALYST 353 366	triethylamine
+T7	REAGENT_CATALYST 390 428	sulfur trioxide-trimethylamine complex
+T8	TEMPERATURE 508 513	25 °C
+T9	TIME 518 522	16 h
+T10	OTHER_COMPOUND 524 537	Ethyl acetate
+T11	OTHER_COMPOUND 550 555	water
+T12	OTHER_COMPOUND 650 658	Bu4NHSO4
+T13	OTHER_COMPOUND 721 736	dichloromethane
+T14	OTHER_COMPOUND 803 817	sodium sulfate
+T15	REACTION_PRODUCT 861 875	title compound
+T16	YIELD_OTHER 895 901	0.42 g
+T17	YIELD_PERCENT 909 915	95.4 %

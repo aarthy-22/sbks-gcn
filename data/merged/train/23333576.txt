@@ -1,0 +1,9 @@
+Areca nut procyanidins ameliorate streptozocin-induced hyperglycemia by regulating gluconeogenesis.
+Hepatic gluconeogenesis is a major contributor to blood glucose in diabetes mellitus.
+Our previous study indicated that areca nut extract enriched with catechin-based procyanidins from oligomers to polymers gave rise to anti-inflammatory effects in vitro and in vivo.
+Here we have surveyed the molecular features of areca nut procyanidins (ANPs) using quadrupole time-of-flight liquid chromatography/mass spectrometry (Q-TOF LC/MS) and the resulting mass spectrum accurately described ANP from monomer to hexadecamer.
+Furthermore, the potential of ANP in terms of blood glucose homeostasis was explored using cyclic adenosine monophosphate (cAMP)/dexamethasone stimulated primary mouse hepatocytes and multiple low dose streptozocin (MLD-STZ) treated mice.
+With the primary hepatocytes, ANP dose-dependently inhibited gluconeogenesis and reduced the mRNA expression of two gluconeogenic key enzymes, phosphoenol-pyruvate carboxykinase (PEPCK) and glucose-6-phosphatase (G6Pase).
+Intragastrically feeding of 10mg/kg ANP for 4weeks reduced the levels of fasting blood glucose, PEPCK and G6Pase in MLD-STZ mice.
+In additional, the level of 5'-AMP-activated protein kinase (AMPK) expression showed a trend towards being restored in the ANP treated MLD-STZ-mice.
+This study indicated that ANP has the potential to improve hyperglycemia by regulating gluconeogenic related kinases in MLD-STZ-mice.

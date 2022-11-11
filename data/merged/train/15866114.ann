@@ -1,0 +1,32 @@
+T7	CHEMICAL 36 49	betamethasone
+T8	CHEMICAL 53 74	11beta hydroxysteroid
+T28	GENE-N 53 102	11beta hydroxysteroid dehydrogenase types 1 and 2
+T27	GENE-Y 111 134	glucocorticoid receptor
+T3	CHEMICAL 328 341	betamethasone
+T4	CHEMICAL 419 432	betamethasone
+T5	CHEMICAL 555 576	11beta hydroxysteroid
+T18	GENE-N 555 590	11beta hydroxysteroid dehydrogenase
+T19	GENE-N 592 602	11beta HSD
+T20	GENE-Y 621 644	glucocorticoid receptor
+T21	GENE-Y 646 648	GR
+T6	CHEMICAL 822 835	betamethasone
+T22	GENE-Y 991 1003	11beta HSD-1
+T23	GENE-Y 1005 1017	11beta HSD-2
+T24	GENE-Y 1028 1035	GRalpha
+T25	GENE-Y 1052 1064	11beta HSD-2
+T26	GENE-N 1157 1167	11beta HSD
+T1	CHEMICAL 1256 1269	betamethasone
+T9	GENE-Y 1287 1299	11beta HSD-1
+T2	CHEMICAL 1377 1390	betamethasone
+T10	GENE-Y 1412 1424	11beta HSD-2
+T11	GENE-Y 1539 1546	GRalpha
+T12	GENE-Y 1593 1605	11beta HSD-1
+T13	GENE-Y 1642 1664	interleukin (IL)-1beta
+T14	GENE-Y 1669 1696	tumor necrosis factor alpha
+T15	GENE-Y 1698 1707	TNF-alpha
+T16	GENE-Y 1716 1728	11beta HSD-2
+T17	GENE-N 1963 1973	11beta HSD
+R0	CPR-4 Arg1:T2 Arg2:T10
+R1	CPR-4 Arg1:T2 Arg2:T10
+R2	NOT Arg1:T4 Arg2:T19
+R3	NOT Arg1:T1 Arg2:T9

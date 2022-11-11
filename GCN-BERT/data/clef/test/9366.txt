@@ -1,0 +1,2 @@
+Example 1 (Reference)
+N-(2-(2,6-dioxopiperidin-3-yl)-t-oxoisoindolin-4-yl)propionamide (27). A solution of lenalidomide (0.020 g, 0.077 mmol) in pyridine (0.8 mL) was cooled to 0°C (ice bath). Propionyl chloride (0.009 mL, 0.100 mmol) was added dropwise and the reaction was allowed to warm to room temperature over 16 h. Volatiles were removed in vacuo and the crude residue was purified by flash chromatography on silica gel (0→5% MeOH in DCM as eluant) to afford desired product 27 (0.012 g, 50%) as an off-white powder.

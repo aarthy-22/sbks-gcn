@@ -1,0 +1,13 @@
+Impact of model perfume molecules on the self-assembly of anionic surfactant sodium dodecyl 6-benzene sulfonate.
+The impact of two model perfumes with differing degrees of hydrophobicity/hydrophilicity, linalool (LL) and phenylethanol (PE), on the solution structure of anionic surfactant sodium dodecyl 6-benzene sulfonate, LAS-6, has been studied by small angle neutron scattering, SANS.
+For both types of perfume molecules, complex phase behavior is observed.
+The phase behavior depends upon the concentration, surfactant/perfume composition, and type of perfume.
+The more hydrophilic perfume PE promotes the formation of more highly curved structures.
+At relatively low surfactant concentrations, small globular micelles, L1, are formed.
+These become perfume droplets, L(sm), stabilized by the surfactant at much higher perfume solution compositions.
+At higher surfactant concentrations, the tendency of LAS-6 to form more planar structures is evident.
+The more hydrophobic linalool promotes the formation of more planar structures.
+Combined with the greater tendency of LAS-6 to form planar structures, this results in the planar structures dominating the phase behavior for the LAS-6/linalool mixtures.
+For the LAS-6/linalool mixture, the self-assembly is in the form of micelles only at the lowest surfactant and perfume concentrations.
+Over most of the concentration-composition space explored, the structures are predominantly lamellar, L(α), or vesicle, L(v), or in the form of a lamellar/micellar coexistence.
+At low and intermediate amounts of LL, a significantly different structure is observed, and the aggregates are in the form of small, relatively monodisperse vesicles (i.e., nanovesicles), L(sv).

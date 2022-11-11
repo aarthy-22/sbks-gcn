@@ -1,0 +1,26 @@
+T1	EXAMPLE_LABEL 1 2	2
+T2	REACTION_PRODUCT 4 67	tetraisopropyl-1-fluoro-3-hydroxypropylidene-1,1-bisphosphonate
+T3	REAGENT_CATALYST 87 90	NaH
+T4	SOLVENT 117 120	THF
+T5	TEMPERATURE 177 181	0° C
+T6	REAGENT_CATALYST 183 229	tetraisopropylmonofluoromethylenediphosphonate
+T7	SOLVENT 270 273	THF
+T8	TIME 294 300	30 min
+T9	STARTING_MATERIAL 302 337	2-(2-iodoethoxy)tetrahydro-2H-pyran
+T10	STARTING_MATERIAL 361 377	15-crown-5-ether
+T11	SOLVENT 417 420	THF
+T12	TEMPERATURE 468 484	room temperature
+T13	TIME 489 494	24 hr
+T14	OTHER_COMPOUND 545 562	ammonium chloride
+T15	OTHER_COMPOUND 626 639	ethyl acetate
+T16	OTHER_COMPOUND 711 728	magnesium sulfate
+T17	STARTING_MATERIAL 821 908	tetraisopropyl-1-fluoro-3-((tetrahydro-2H-pyran-2-yl)oxy)propylidene-1,1-bisphosphonate
+T18	REAGENT_CATALYST 937 954	hydrogen chloride
+T19	SOLVENT 955 963	methanol
+T20	TIME 1006 1012	10 min
+T21	OTHER_COMPOUND 1091 1101	silica gel
+T22	OTHER_COMPOUND 1118 1125	acetone
+T23	OTHER_COMPOUND 1126 1136	n-hexane=1
+T24	REACTION_PRODUCT 1148 1211	tetraisopropyl-1-fluoro-3-hydroxypropylidene-1,1-bisphosphonate
+T25	YIELD_OTHER 1232 1238	198 mg
+T26	YIELD_PERCENT 1246 1249	24%

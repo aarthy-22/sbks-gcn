@@ -1,0 +1,3 @@
+Example 8
+N-[3-(dimethylamino)propyl]-4-(6-fluoro-1H-indol-3-yl)benzamide
+This compound was prepared from Intermediate 3-a and N,N-dimethylpropane-1,3-diamine according to the procedure described in Example 3. Purification was performed using preparative HPLC to afford the title compound (3 mg, 10%). Data: LCMS (B) Rt : 12.949 min; m/z 359.1 (M+H)+.

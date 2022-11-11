@@ -1,0 +1,405 @@
+T1	OTHER_COMPOUND 68 72	0001
+T2	OTHER_COMPOUND 374 379	clays
+T3	OTHER_COMPOUND 739 744	water
+T4	OTHER_COMPOUND 1070 1076	gravel
+T5	OTHER_COMPOUND 2821 2826	metal
+T6	OTHER_COMPOUND 2869 2874	amine
+T7	OTHER_COMPOUND 3017 3035	metal crosslinkers
+T8	OTHER_COMPOUND 3037 3042	amine
+T9	OTHER_COMPOUND 3369 3387	metal crosslinkers
+T10	OTHER_COMPOUND 3392 3397	amine
+T11	OTHER_COMPOUND 4467 4472	metal
+T12	OTHER_COMPOUND 4490 4495	amine
+T13	OTHER_COMPOUND 4709 4718	chelating
+T14	OTHER_COMPOUND 4893 4898	metal
+T15	OTHER_COMPOUND 4916 4921	amine
+T16	OTHER_COMPOUND 4964 4969	metal
+T17	OTHER_COMPOUND 4987 4992	amine
+T18	OTHER_COMPOUND 5126 5133	polymer
+T19	OTHER_COMPOUND 5205 5210	metal
+T20	OTHER_COMPOUND 5228 5233	amine
+T21	OTHER_COMPOUND 5407 5416	protected
+T22	OTHER_COMPOUND 5950 5955	metal
+T23	OTHER_COMPOUND 5973 5979	amine-
+T24	OTHER_COMPOUND 6604 6622	metal crosslinkers
+T25	OTHER_COMPOUND 6738 6743	amine
+T26	OTHER_COMPOUND 6881 6886	metal
+T27	OTHER_COMPOUND 6905 6910	amine
+T28	OTHER_COMPOUND 7059 7066	aqueous
+T29	OTHER_COMPOUND 7213 7218	water
+T30	OTHER_COMPOUND 7220 7229	saltwater
+T31	OTHER_COMPOUND 7237 7242	water
+T32	OTHER_COMPOUND 7292 7297	brine
+T33	OTHER_COMPOUND 7320 7325	water
+T34	OTHER_COMPOUND 7328 7336	seawater
+T35	OTHER_COMPOUND 7502 7510	alcohols
+T36	OTHER_COMPOUND 7518 7526	methanol
+T37	OTHER_COMPOUND 7528 7535	ethanol
+T38	OTHER_COMPOUND 7537 7547	n-propanol
+T39	OTHER_COMPOUND 7549 7560	isopropanol
+T40	OTHER_COMPOUND 7562 7571	n-butanol
+T41	OTHER_COMPOUND 7573 7584	sec-butanol
+T42	OTHER_COMPOUND 7586 7596	isobutanol
+T43	OTHER_COMPOUND 7602 7611	t-butanol
+T44	OTHER_COMPOUND 7625 7632	glycols
+T45	OTHER_COMPOUND 7653 7669	propylene glycol
+T46	OTHER_COMPOUND 7675 7690	ethylene glycol
+T47	OTHER_COMPOUND 8672 8688	Polyvalent Metal
+T48	OTHER_COMPOUND 8701 8717	Organophosphonic
+T49	OTHER_COMPOUND 8735 8756	Organophosphinic Acid
+T50	REACTION_PRODUCT 9295 9347	hexamethylenediamine tetra(methylene phosphonic acid
+T51	STARTING_MATERIAL 9399 9460	bis (hexamethylene) triamine penta (methylene phosphonic acid
+T52	REAGENT_CATALYST 9463 9519	pentaethylene hexamineoctakis (methylene phosphonic acid
+T53	OTHER_COMPOUND 9522 9533	polyacrylic
+T54	OTHER_COMPOUND 9540 9560	phosphino carboxylic
+T55	REACTION_PRODUCT 9644 9729	amino trimethylene phosphonic acid, ethylene diamine tetra (methylene phosphonic acid
+T56	REACTION_PRODUCT 9732 9774	1-hydroxy ethylidene-l,l-diphosphonic acid
+T57	OTHER_COMPOUND 9904 9924	hexamethylenediamine
+T58	OTHER_COMPOUND 9959 9970	poly maleic
+T59	OTHER_COMPOUND 10044 10059	sodium acrylate
+T60	OTHER_COMPOUND 10074 10086	acrylic acid
+T61	OTHER_COMPOUND 10087 10124	2-acrylamido-2-methylpropane sulfonic
+T62	OTHER_COMPOUND 10154 10173	styrene/maleic acid
+T63	OTHER_COMPOUND 10194 10204	carboxylic
+T64	OTHER_COMPOUND 10220 10244	acrylic acid/maleic acid
+T65	OTHER_COMPOUND 10269 10289	phosphino carboxylic
+T66	OTHER_COMPOUND 10350 10362	acrylic acid
+T67	OTHER_COMPOUND 10363 10383	acrylamide arylamide
+T68	REACTION_PRODUCT 10423 10448	phosphino carboxylic acid
+T69	OTHER_COMPOUND 10453 10460	acrylic
+T70	OTHER_COMPOUND 10570 10585	carboxylic acid
+T71	REACTION_PRODUCT 10712 10753	methyl esters, 2-substituted ethyl esters
+T72	REACTION_PRODUCT 10781 10794	benzyl esters
+T73	OTHER_COMPOUND 10808 10814	benzyl
+T74	OTHER_COMPOUND 10823 10828	silyl
+T75	OTHER_COMPOUND 10861 10868	stannyl
+T76	REACTION_PRODUCT 10960 10989	heptyl, 2-N-(morpholino)ethyl
+T77	STARTING_MATERIAL 11022 11034	methoxyethyl
+T78	OTHER_COMPOUND 11078 11084	methyl
+T79	OTHER_COMPOUND 11092 11109	9-fluorenylmethyl
+T80	OTHER_COMPOUND 11165 11182	tetrahydropyranyl
+T81	REACTION_PRODUCT 11347 11412	cyanomethyl, acetol, phenacyl, p-bromophenacyl, ρmethoxyphenacyl,
+T82	REACTION_PRODUCT 11439 11607	2,5-dimethylphenacyl, desyl, carboxamidomethyl, p-azobenzenecarboxamidomethyl, 6-bromo-7-hydroxycoumarin-4-ylmethyl, N-phthalimidomethyl, a-methylphenacyl, ωchloroalkyl
+T83	REACTION_PRODUCT 11609 12006	2,2,2-trichloroethyl, 2-haloethyl, 2-(trimethylsilyl)ethyl, (2-methyl-2-trimethylsilyl)ethyl, (2-phenyl-2-trimethylsilyl)ethyl, 2-methylthioethyl, 1,3-dithianyl-2-methyl, 2-(p-nitrophenylsulfenyl)ethyl, 2-(p-toluenesulfonyl)ethyl, 2-(2'-pyridyl)ethyl, 2-(diphenylphosphino)ethyl, (p-methoxyphenyl)ethyl, 1-methyl-l-phenylethyl, 2-(4-acetyl-2-nitrophenyl)ethyl, l-[2-(2-hydroxyalkyl)phenyl]ethanone
+T84	STARTING_MATERIAL 12008 12049	2-cyanoethyl, t-butyl, 3-methyl-3-pentyl,
+T85	STARTING_MATERIAL 12071 12092	2,4-dimethyl-3-pentyl
+T86	STARTING_MATERIAL 12094 12105	cyclopentyl
+T87	REACTION_PRODUCT 12124 12236	, methallyl, 2-methylbut-3-en-2-yl, 3-methylbut-2-enyl, 3-buten-l-yl, 4-(trimethylsilyl)-2-buten-l-yl, cinnamyl,
+T88	STARTING_MATERIAL 12362 12392	2,6-di-t-butyl-4-methoxyphenyl
+T89	STARTING_MATERIAL 12435 12466	2-(dimethylamino)-5-nitrophenyl
+T90	REACTION_PRODUCT 12493 12566	2-chlorophenyldiphenyl methyl, 2,3,4,4',4",5,6-heptafluorotriphenylmethyl
+T91	REACTION_PRODUCT 12610 12782	9-anthrylmethyl, 2-(9,10-dioxo)anthrylmethyl, 5-dibenzosuberyl, 1-pyrenylmethyl, 2-(trifluoromethyl)-6-chromonylmethyl, 2,4,6-trimethylbenzyl, p-bromobenzyl, o-nitrobenzyl,
+T92	REACTION_PRODUCT 12797 13056	p-methoxybenzyl, 2,6-dimethoxybenzyl, 4-(methylsulfinyl)benzyl, 4-sulfobenzyl, 4-azidomethoxybenzyl, 4-{N-[l-(4,4-dimethyl-2,6-dioxocyclohexylidene)-3-methylbutyl]amino}benzyl, piperonyl, 4-picolyl, ρ-polymer-benzyl, 2-naphthylmethyl, 3-nitro-2-naphthylmethyl
+T93	STARTING_MATERIAL 13058 13173	4-quinolylmethyl, 8-bromo-7-hydroxyquinoline-2-ylmethyl, 2-nitro-4,5-dimethoxybenzyl, 1,2,3,4-tetrahydro-l-naphthyl
+T94	REAGENT_CATALYST 13188 13304	trimethylsilyl, triethylsilyl, tbutyldimethylsilyl, t-butyldiphenylsilyl, i-propyldimethylsilyl, phenyldimethylsilyl
+T95	OTHER_COMPOUND 13397 13402	thiol
+T96	STARTING_MATERIAL 13411 13438	N,N-dimethyl, pyrrolidinyl,
+T97	STARTING_MATERIAL 13452 13478	5,6-dihydrophenanthridinyl
+T98	OTHER_COMPOUND 13702 13717	triethylstannyl
+T99	STARTING_MATERIAL 13908 13947	2,2-difluoro-l,3,2-oxazaborolidin-5-one
+T100	OTHER_COMPOUND 13991 13996	ortho
+T101	OTHER_COMPOUND 14024 14045	pentaaminocobalt(iii)
+T102	OTHER_COMPOUND 14055 14073	tetraalkylammonium
+T103	OTHER_COMPOUND 14148 14163	phosphoric acid
+T104	OTHER_COMPOUND 14202 14217	phosphoric acid
+T105	OTHER_COMPOUND 14245 14261	alkyl phosphates
+T106	REACTION_PRODUCT 14263 14293	2-substituted ethyl phosphates
+T107	REACTION_PRODUCT 14295 14315	haloethyl phosphates
+T108	REACTION_PRODUCT 14317 14334	benzyl phosphates
+T109	OTHER_COMPOUND 14381 14396	phosphoric acid
+T110	OTHER_COMPOUND 14452 14465	methyl, ethyl
+T111	OTHER_COMPOUND 14478 14489	cyclohexyl,
+T112	REACTION_PRODUCT 14490 14566	t-butyl, 1-adamantyl, allyl, 2-trimethylsilylprop-2-enyl, hexafluoro-2-butyl
+T113	REACTION_PRODUCT 14568 14594	ethylene glycol derivative
+T114	REACTION_PRODUCT 14596 14670	2-mercaptoethanol derivative, 3-pivaloyloxy-l,3-dihydroxypropyl derivative
+T115	REACTION_PRODUCT 14672 14905	4-methylthio-l-butyl, 4-[n-methyl-N-(2,2,2-trifluoroacetyl)amino] butyl, 4-(n-trifluoroacetylamino)butyl, 2-(Sacetylthio)ethyl, 4-oxopentyl, 3-(N-t-butylcarboxamido)-l-propyl, 3-(pyridyl)-lpropyl, 2-[N-methyl-N-(2-pyridyl)]aminoethyl
+T116	REACTION_PRODUCT 14907 15097	2-(N-formyl-Nmethyl)aminoethyl, 2-(N-isopropyl-N-anisoylamino)ethyl, 2-[(lnaphthyl)carbamoyloxy]ethyl, 2-[N-isopropyl-N-(4-methoxybenzoyl)amino]ethyl, 2-cyanoethyl, 2-cyano-l,l-dimethylethyl
+T117	REACTION_PRODUCT 15099 15116	4-cyano-2-butenyl
+T118	REACTION_PRODUCT 15118 15152	N-(4-methoxyphenyl)hydracrylamide,
+T119	REACTION_PRODUCT 15212 15324	Νbenzylhydracrylamide, N-benzylhydracrylamide derivatives, 2-(methyldiphenylsilyl)ethyl, 2-(trimethylsilyl)ethyl
+T120	REACTION_PRODUCT 15326 15373	2-(triphenylsilyl)ethyl, 2-(4-nitrophenyl)ethyl
+T121	REACTION_PRODUCT 15375 15523	2-(a-pyridyl)ethyl, 2-(4'-pyridyl)ethyl, 2-(3-arylpyrimidin-2-yl)ethyl, 2-(phenylthio)ethyl, 2-(4-nitrophenyl)thioethyl, 2-(4-tritylphenylthio)ethyl
+T122	REACTION_PRODUCT 15569 15670	dithioethanol derivative, 2-(methylsulfonyl)ethyl, 2-(t-butylsulfonyl)ethyl, 2-(phenylsulfonyl)ethyl,
+T123	STARTING_MATERIAL 15671 15694	2-(benzylsulfonyl)ethyl
+T124	STARTING_MATERIAL 15718 15751	2,2,2-trichloro-l,l-dimethylethyl
+T125	STARTING_MATERIAL 15753 15772	2,2,2-tribromoethyl
+T126	STARTING_MATERIAL 15856 15872	4-methoxybenzyl,
+T127	STARTING_MATERIAL 15888 15905	2,4-dinitrobenzyl
+T128	REACTION_PRODUCT 15923 15945	4-chloro-2-nitrobenzyl
+T129	STARTING_MATERIAL 16044 16069	5-benzisoxazolylmethylene
+T130	OTHER_COMPOUND 16109 16117	o-xylene
+T131	OTHER_COMPOUND 16131 16137	phenyl
+T132	STARTING_MATERIAL 16139 16153	2-methylphenyl
+T133	REACTION_PRODUCT 16371 16465	1,2-phenylene, 4-tritylaminophenyl, 4-benzylaminophenyl, l-methyl-2-(2-hydroxyphenyl)imidazole
+T134	REACTION_PRODUCT 16518 16549	8-quinolyl, 5-chloro-8-quinolyl
+T135	REACTION_PRODUCT 16563 16577	salicylic acid
+T136	REACTION_PRODUCT 16579 16676	salicylic acid derivatives, pyrenylmethyl, benzoin, 3',5'-dimethoxybenzoin, 3',5'dimethoxybenzoin
+T137	STARTING_MATERIAL 16688 16707	, 4-hydroxyphenacyl
+T138	STARTING_MATERIAL 16824 16855	[N-(2-trityloxy)ethyl]anilidate
+T139	STARTING_MATERIAL 16857 16886	ρ-(Ν,Νdimethylamino)anilidate
+T140	STARTING_MATERIAL 16888 16923	3-(N,N-diethylaminomethyl)anilidate
+T141	OTHER_COMPOUND 16938 16957	2,2'diaminobiphenyl
+T142	OTHER_COMPOUND 16970 16983	n-propylamine
+T143	OTHER_COMPOUND 17155 17165	protecting
+T144	OTHER_COMPOUND 17201 17216	carboxylic acid
+T145	OTHER_COMPOUND 17240 17255	phosphoric acid
+T146	OTHER_COMPOUND 18099 18104	metal
+T147	OTHER_COMPOUND 18275 18280	metal
+T148	OTHER_COMPOUND 18334 18340	boron-
+T149	OTHER_COMPOUND 18530 18535	metal
+T150	OTHER_COMPOUND 18554 18561	gelling
+T151	OTHER_COMPOUND 18582 18587	metal
+T152	OTHER_COMPOUND 18647 18652	boron
+T153	OTHER_COMPOUND 18722 18727	boron
+T154	OTHER_COMPOUND 18842 18851	magnesium
+T155	OTHER_COMPOUND 18858 18870	zirconium IV
+T156	OTHER_COMPOUND 18877 18885	titanium
+T157	OTHER_COMPOUND 18895 18903	aluminum
+T158	OTHER_COMPOUND 18910 18918	antimony
+T159	OTHER_COMPOUND 18925 18933	chromium
+T160	OTHER_COMPOUND 18940 18944	iron
+T161	OTHER_COMPOUND 18984 18993	zinc ions
+T162	OTHER_COMPOUND 19164 19179	ferric chloride
+T163	OTHER_COMPOUND 19181 19190	magnesium
+T164	OTHER_COMPOUND 19198 19215	zirconium lactate
+T165	OTHER_COMPOUND 19217 19243	zirconium triethanol amine
+T166	OTHER_COMPOUND 19245 19278	zirconium lactate triethanolamine
+T167	OTHER_COMPOUND 19280 19299	zirconium carbonate
+T168	OTHER_COMPOUND 19301 19326	zirconium acetylacetonate
+T169	OTHER_COMPOUND 19328 19344	zirconium malate
+T170	OTHER_COMPOUND 19346 19363	zirconium citrate
+T171	OTHER_COMPOUND 19365 19391	zirconium diisopropylamine
+T172	OTHER_COMPOUND 19401 19420	zirconium glycolate
+T173	OTHER_COMPOUND 19422 19458	zirconium triethanol amine glycolate
+T174	OTHER_COMPOUND 19460 19477	zirconium lactate
+T175	OTHER_COMPOUND 19489 19505	titanium lactate
+T176	OTHER_COMPOUND 19507 19522	titanium malate
+T177	OTHER_COMPOUND 19524 19540	titanium citrate
+T178	OTHER_COMPOUND 19542 19567	titanium ammonium lactate
+T179	OTHER_COMPOUND 19569 19593	titanium triethanolamine
+T180	OTHER_COMPOUND 19599 19623	titanium acetylacetonate
+T181	OTHER_COMPOUND 19625 19641	aluminum lactate
+T182	OTHER_COMPOUND 19643 19659	aluminum citrate
+T183	OTHER_COMPOUND 19661 19669	antimony
+T184	OTHER_COMPOUND 19681 19689	chromium
+T185	OTHER_COMPOUND 19701 19705	iron
+T186	OTHER_COMPOUND 19717 19723	copper
+T187	OTHER_COMPOUND 19735 19739	zinc
+T188	OTHER_COMPOUND 19751 19755	iron
+T189	OTHER_COMPOUND 20062 20067	fluid
+T190	OTHER_COMPOUND 20618 20624	amine-
+T191	OTHER_COMPOUND 20681 20686	epoxy
+T192	OTHER_COMPOUND 20789 20798	protected
+T193	OTHER_COMPOUND 20817 20822	amine
+T194	OTHER_COMPOUND 20854 20859	epoxy
+T195	OTHER_COMPOUND 20958 20967	aliphatic
+T196	OTHER_COMPOUND 21020 21026	amines
+T197	OTHER_COMPOUND 21092 21097	amine
+T198	STARTING_MATERIAL 21161 21187	4,4-diaminodiphenylsulfone
+T199	OTHER_COMPOUND 21189 21215	3,3-diaminodiphenylsulfone
+T200	OTHER_COMPOUND 21217 21235	methylenedianiline
+T201	OTHER_COMPOUND 21237 21258	triethylenetetraamine
+T202	OTHER_COMPOUND 21260 21275	ethylenediamine
+T203	OTHER_COMPOUND 21277 21306	Νcocoalkyltrimethylenediamine
+T204	OTHER_COMPOUND 21308 21325	isophoronediamine
+T205	OTHER_COMPOUND 21327 21348	diethyltoluenediamine
+T206	OTHER_COMPOUND 21354 21385	tris(dimethylaminomethylphenol)
+T207	OTHER_COMPOUND 21462 21467	amine
+T208	OTHER_COMPOUND 21936 21941	amine
+T209	OTHER_COMPOUND 22330 22335	amine
+T210	OTHER_COMPOUND 22735 22742	bauxite
+T211	OTHER_COMPOUND 22799 22822	polytetrafluoroethylene
+T212	OTHER_COMPOUND 23235 23241	silica
+T213	OTHER_COMPOUND 23243 23250	alumina
+T214	OTHER_COMPOUND 23252 23264	fumed carbon
+T215	OTHER_COMPOUND 23266 23272	carbon
+T216	OTHER_COMPOUND 23280 23288	graphite
+T217	OTHER_COMPOUND 23290 23294	mica
+T218	OTHER_COMPOUND 23296 23304	titanium
+T219	OTHER_COMPOUND 23314 23326	metasilicate
+T220	OTHER_COMPOUND 23328 23344	calcium silicate
+T221	OTHER_COMPOUND 23346 23352	kaolin
+T222	OTHER_COMPOUND 23360 23368	zirconia
+T223	OTHER_COMPOUND 23370 23375	boron
+T224	OTHER_COMPOUND 23377 23384	fly ash
+T225	OTHER_COMPOUND 25244 25262	metal crosslinkers
+T226	OTHER_COMPOUND 25270 25276	amine-
+T227	OTHER_COMPOUND 25409 25414	fluid
+T228	OTHER_COMPOUND 25468 25486	metal crosslinkers
+T229	OTHER_COMPOUND 25513 25518	amine
+T230	OTHER_COMPOUND 25549 25554	epoxy
+T231	OTHER_COMPOUND 26356 26374	metal crosslinkers
+T232	OTHER_COMPOUND 26379 26386	gelling
+T233	OTHER_COMPOUND 26401 26406	amine
+T234	OTHER_COMPOUND 26437 26442	epoxy
+T235	OTHER_COMPOUND 27097 27102	fluid
+T236	OTHER_COMPOUND 27585 27590	metal
+T237	OTHER_COMPOUND 27608 27615	gelling
+T238	OTHER_COMPOUND 27630 27635	amine
+T239	OTHER_COMPOUND 27666 27671	epoxy
+T240	OTHER_COMPOUND 28444 28461	metal crosslinker
+T241	OTHER_COMPOUND 28468 28475	gelling
+T242	OTHER_COMPOUND 28484 28485	2
+T243	OTHER_COMPOUND 28490 28495	amine
+T244	OTHER_COMPOUND 28502 28507	resin
+T245	OTHER_COMPOUND 28528 28533	epoxy
+T246	OTHER_COMPOUND 28701 28717	protecting group
+T247	OTHER_COMPOUND 30407 30412	fluid
+T248	OTHER_COMPOUND 31516 31521	fluid
+T249	OTHER_COMPOUND 34260 34277	metal crosslinker
+T250	OTHER_COMPOUND 34284 34291	gelling
+T251	OTHER_COMPOUND 34303 34311	an amine
+T252	OTHER_COMPOUND 34331 34336	agent
+T253	OTHER_COMPOUND 34344 34349	epoxy
+T254	OTHER_COMPOUND 34724 34739	aminophosphonic
+T255	STARTING_MATERIAL 34767 34819	hexamethylenediamine tetra(methylene phosphonic acid
+T256	STARTING_MATERIAL 34822 34863	diethylenetriamine penta (methylphophonic
+T257	STARTING_MATERIAL 34871 34927	bis (hexamethylene) triamine penta (methylene phosphonic
+T258	OTHER_COMPOUND 34994 35010	polyacrylic acid
+T259	OTHER_COMPOUND 35044 35051	acrylic
+T260	OTHER_COMPOUND 35097 35117	polyaspartic polymer
+T261	REACTION_PRODUCT 35119 35153	amino trimethylene phosphonic acid
+T262	STARTING_MATERIAL 35207 35249	1-hydroxy ethylidene-l,l-diphosphonic acid
+T263	REAGENT_CATALYST 35379 35408	hexamethylenediamine tetrakis
+T264	REACTION_PRODUCT 35409 35431	(methylene phosphonate
+T265	OTHER_COMPOUND 35434 35445	poly maleic
+T266	OTHER_COMPOUND 35521 35536	sodium acrylate
+T267	REACTION_PRODUCT 35553 35603	acrylic acid/2-acrylamido-2-methylpropane sulfonic
+T268	OTHER_COMPOUND 35634 35653	styrene/maleic acid
+T269	OTHER_COMPOUND 35665 35685	phosphino carboxylic
+T270	OTHER_COMPOUND 35703 35715	acrylic acid
+T271	OTHER_COMPOUND 35716 35727	maleic acid
+T272	OTHER_COMPOUND 35803 35814	/sulphonate
+T273	OTHER_COMPOUND 35834 35844	an acrylic
+T274	OTHER_COMPOUND 35850 35870	acrylamide arylamide
+T275	OTHER_COMPOUND 35885 35897	acrylic acid
+T276	OTHER_COMPOUND 35917 35942	phosphino carboxylic acid
+T277	OTHER_COMPOUND 35947 35965	acrylic terpolymer
+T278	OTHER_COMPOUND 36007 36022	phosphoric acid
+T279	OTHER_COMPOUND 36045 36060	carboxylic acid
+T280	OTHER_COMPOUND 36121 36130	chelating
+T281	OTHER_COMPOUND 36194 36195	4
+T282	OTHER_COMPOUND 36333 36338	metal
+T283	OTHER_COMPOUND 36455 36460	amine
+T284	OTHER_COMPOUND 36777 36784	Element
+T285	OTHER_COMPOUND 38213 38214	Β
+T286	OTHER_COMPOUND 38393 38394	"
+T287	OTHER_COMPOUND 39869 39876	related
+T288	TIME 41660 41661	b
+T289	EXAMPLE_LABEL 42159 42160	1
+T290	OTHER_COMPOUND 42228 42233	fluid
+T291	OTHER_COMPOUND 42325 42342	metal crosslinker
+T292	OTHER_COMPOUND 42371 42376	amine
+T293	OTHER_COMPOUND 42409 42414	epoxy
+T294	OTHER_COMPOUND 42800 42820	aminophosphonic acid
+T295	STARTING_MATERIAL 42843 42895	hexamethylenediamine tetra(methylene phosphonic acid
+T296	STARTING_MATERIAL 42898 42939	diethylenetriamine penta (methylphophonic
+T297	STARTING_MATERIAL 42947 43008	bis (hexamethylene) triamine penta (methylene phosphonic acid
+T298	OTHER_COMPOUND 43011 43040	pentaethylene hexamineoctakis
+T299	OTHER_COMPOUND 43042 43051	methylene
+T300	OTHER_COMPOUND 43070 43086	polyacrylic acid
+T301	OTHER_COMPOUND 43090 43110	phosphino carboxylic
+T302	OTHER_COMPOUND 43120 43137	acrylic copolymer
+T303	OTHER_COMPOUND 43141 43161	carboxymethyl inulin
+T304	OTHER_COMPOUND 43173 43185	polyaspartic
+T305	STARTING_MATERIAL 43195 43229	amino trimethylene phosphonic acid
+T306	STARTING_MATERIAL 43231 43280	ethylene diamine tetra (methylene phosphonic acid
+T307	STARTING_MATERIAL 43283 43325	1-hydroxy ethylidene-l,l-diphosphonic acid
+T308	STARTING_MATERIAL 43327 43355	2-hydroxyphosphonocarboxylic
+T309	REAGENT_CATALYST 43406 43429	ethylenediaminetetrakis
+T310	OTHER_COMPOUND 43510 43526	poly maleic acid
+T311	REACTION_PRODUCT 43528 43550	carboxylate sulphonate
+T312	REACTION_PRODUCT 43562 43574	carboxylate/
+T313	OTHER_COMPOUND 43597 43612	sodium acrylate
+T314	REACTION_PRODUCT 43629 43684	acrylic acid/2-acrylamido-2-methylpropane sulfonic acid
+T315	OTHER_COMPOUND 43698 43729	sulphonated styrene/maleic acid
+T316	OTHER_COMPOUND 43741 43761	phosphino carboxylic
+T317	OTHER_COMPOUND 43779 43791	acrylic acid
+T318	OTHER_COMPOUND 43792 43803	maleic acid
+T319	OTHER_COMPOUND 43891 43897	maleic
+T320	OTHER_COMPOUND 43913 43946	acrylic acid/acrylamide arylamide
+T321	OTHER_COMPOUND 43961 43973	acrylic acid
+T322	REACTION_PRODUCT 43993 44018	phosphino carboxylic acid
+T323	OTHER_COMPOUND 44023 44030	acrylic
+T324	OTHER_COMPOUND 44103 44129	phosphoric acid protecting
+T325	REACTION_PRODUCT 44141 44151	carboxylic
+T326	EXAMPLE_LABEL 44175 44176	4
+T327	OTHER_COMPOUND 44450 44455	fluid
+T328	OTHER_COMPOUND 44495 44500	metal
+T329	OTHER_COMPOUND 44637 44642	amine
+T330	OTHER_COMPOUND 44747 44752	fluid
+T331	EXAMPLE_LABEL 44754 44755	8
+T332	EXAMPLE_LABEL 44901 44902	9
+T333	EXAMPLE_LABEL 45304 45306	12
+T334	OTHER_COMPOUND 45739 45744	metal
+T335	OTHER_COMPOUND 45785 45790	amine
+T336	OTHER_COMPOUND 45823 45828	epoxy
+T337	OTHER_COMPOUND 45996 46012	protecting group
+T338	REACTION_PRODUCT 46127 46147	aminophosphonic acid
+T339	STARTING_MATERIAL 46170 46222	hexamethylenediamine tetra(methylene phosphonic acid
+T340	STARTING_MATERIAL 46225 46249	diethylenetriamine penta
+T341	STARTING_MATERIAL 46274 46308	bis (hexamethylene) triamine penta
+T342	REACTION_PRODUCT 46309 46335	(methylene phosphonic acid
+T343	OTHER_COMPOUND 46397 46408	polyacrylic
+T344	REACTION_PRODUCT 46417 46442	phosphino carboxylic acid
+T345	OTHER_COMPOUND 46447 46454	acrylic
+T346	OTHER_COMPOUND 46468 46488	carboxymethyl inulin
+T347	REACTION_PRODUCT 46500 46520	polyaspartic polymer
+T348	REACTION_PRODUCT 46522 46556	amino trimethylene phosphonic acid
+T349	REACTION_PRODUCT 46558 46607	ethylene diamine tetra (methylene phosphonic acid
+T350	STARTING_MATERIAL 46610 46652	1-hydroxy ethylidene-l,l-diphosphonic acid
+T351	STARTING_MATERIAL 46733 46756	ethylenediaminetetrakis
+T352	STARTING_MATERIAL 46758 46767	methylene
+T353	STARTING_MATERIAL 46782 46811	hexamethylenediamine tetrakis
+T354	OTHER_COMPOUND 46837 46848	poly maleic
+T355	OTHER_COMPOUND 46924 46939	sodium acrylate
+T356	REACTION_PRODUCT 46956 47006	acrylic acid/2-acrylamido-2-methylpropane sulfonic
+T357	OTHER_COMPOUND 47025 47051	sulphonated styrene/maleic
+T358	REACTION_PRODUCT 47068 47093	phosphino carboxylic acid
+T359	OTHER_COMPOUND 47106 47118	acrylic acid
+T360	OTHER_COMPOUND 47119 47130	maleic acid
+T361	OTHER_COMPOUND 47195 47207	carboxylate/
+T362	OTHER_COMPOUND 47218 47224	maleic
+T363	REACTION_PRODUCT 47240 47252	acrylic acid
+T364	OTHER_COMPOUND 47288 47300	acrylic acid
+T365	REACTION_PRODUCT 47320 47345	phosphino carboxylic acid
+T366	REACTION_PRODUCT 47350 47357	acrylic
+T367	EXAMPLE_LABEL 47370 47372	14
+T368	OTHER_COMPOUND 47432 47447	phosphoric acid
+T369	OTHER_COMPOUND 47470 47485	carboxylic acid
+T370	EXAMPLE_LABEL 47504 47506	15
+T371	OTHER_COMPOUND 47944 47961	metal crosslinker
+T372	OTHER_COMPOUND 47990 47996	amine-
+T373	OTHER_COMPOUND 48201 48211	protecting
+T374	STARTING_MATERIAL 48384 48436	hexamethylenediamine tetra(methylene phosphonic acid
+T375	REAGENT_CATALYST 48439 48463	diethylenetriamine penta
+T376	STARTING_MATERIAL 48488 48549	bis (hexamethylene) triamine penta (methylene phosphonic acid
+T377	STARTING_MATERIAL 48552 48581	pentaethylene hexamineoctakis
+T378	OTHER_COMPOUND 48583 48603	methylene phosphonic
+T379	OTHER_COMPOUND 48611 48627	polyacrylic acid
+T380	OTHER_COMPOUND 48631 48651	phosphino carboxylic
+T381	OTHER_COMPOUND 48661 48668	acrylic
+T382	OTHER_COMPOUND 48682 48710	carboxymethyl inulin polymer
+T383	OTHER_COMPOUND 48714 48734	polyaspartic polymer
+T384	REACTION_PRODUCT 48736 48770	amino trimethylene phosphonic acid
+T385	REACTION_PRODUCT 48772 48866	ethylene diamine tetra (methylene phosphonic acid), 1-hydroxy ethylidene-l,l-diphosphonic acid
+T386	REACTION_PRODUCT 48868 48901	2-hydroxyphosphonocarboxylic acid
+T387	REACTION_PRODUCT 48903 48945	2-phosphonobutane-l,2,4-tricarboxylic acid
+T388	STARTING_MATERIAL 48996 49025	hexamethylenediamine tetrakis
+T389	OTHER_COMPOUND 49051 49062	poly maleic
+T390	OTHER_COMPOUND 49138 49153	sodium acrylate
+T391	OTHER_COMPOUND 49170 49220	acrylic acid/2-acrylamido-2-methylpropane sulfonic
+T392	OTHER_COMPOUND 49239 49250	sulphonated
+T393	OTHER_COMPOUND 49251 49270	styrene/maleic acid
+T394	OTHER_COMPOUND 49282 49307	phosphino carboxylic acid
+T395	OTHER_COMPOUND 49320 49344	acrylic acid/maleic acid
+T396	REACTION_PRODUCT 49370 49395	phosphino carboxylic acid
+T397	OTHER_COMPOUND 49432 49449	maleic terpolymer
+T398	OTHER_COMPOUND 49454 49466	acrylic acid
+T399	OTHER_COMPOUND 49502 49514	acrylic acid
+T400	OTHER_COMPOUND 49534 49559	phosphino carboxylic acid
+T401	OTHER_COMPOUND 49564 49582	acrylic terpolymer
+T402	OTHER_COMPOUND 49655 49681	phosphoric acid protecting
+T403	OTHER_COMPOUND 49693 49708	carboxylic acid
+T404	OTHER_COMPOUND 49803 49819	chelating groups
+T405	OTHER_COMPOUND 49843 49852	inhibitor

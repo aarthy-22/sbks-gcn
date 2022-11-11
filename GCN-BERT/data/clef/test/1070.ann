@@ -1,0 +1,24 @@
+T1	EXAMPLE_LABEL 8 10	10
+T2	REACTION_PRODUCT 11 165	(E)-3-(3,5-difluoro-4-((1S,3R/1R,3S)-2-(2-fluoro-2-methylpropyl)-3-methyl-6-(2-methy lthiazol-5-yl)-1,2,3,4-tetrahydroisoquinolin-1-yl)phenyl)acrylic acid
+T3	EXAMPLE_LABEL 171 172	1
+T4	REACTION_PRODUCT 173 237	2-methyl-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)thiazole
+T5	STARTING_MATERIAL 238 262	5-bromo-2-methylthiazole
+T6	STARTING_MATERIAL 263 266	10a
+T7	SOLVENT 311 326	tetrahydrofuran
+T8	REAGENT_CATALYST 362 376	n-butyllithium
+T9	TEMPERATURE 390 395	-78°C
+T10	TIME 431 441	30 minutes
+T11	STARTING_MATERIAL 443 495	2-isopropoxy-4,4,5,5-tetramethyl-1,3,2-dioxaborolane
+T12	TIME 556 565	1.5 hours
+T13	TEMPERATURE 620 636	room temperature
+T14	OTHER_COMPOUND 675 692	ammonium chloride
+T15	OTHER_COMPOUND 706 711	water
+T16	OTHER_COMPOUND 775 788	ethyl acetate
+T17	OTHER_COMPOUND 877 890	ethyl acetate
+T18	OTHER_COMPOUND 947 961	sodium sulfate
+T19	OTHER_COMPOUND 1062 1072	silica gel
+T20	REACTION_PRODUCT 1131 1145	title compound
+T21	REACTION_PRODUCT 1146 1210	2-methyl-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)thiazole
+T22	REACTION_PRODUCT 1211 1214	10b
+T23	YIELD_OTHER 1216 1221	1.6 g
+T24	YIELD_PERCENT 1229 1232	64%

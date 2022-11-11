@@ -1,0 +1,2 @@
+zzz. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-2-(3-(1-METHYLINDOLIN-6-YL)UREIDO)-N-((2R,6S,8AS,14AS,20S,21S,23AS)-2,6,21-TRIMETHYL-5,8,14,19,23-PENTAOXOOCTADECAHYDRO-1H,5H,14H,19H-PYRIDO[2,14]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRA-AZACYCLOHEXADECIN-20-YL)PROPANAMIDE (COMPOUND 321)
+Compound 321 was synthesized from macrocyle C (90 mg, 0.133 mmol), 6-isocyanato-1-methylindoline (23.2 mg, 0.133 mmol), and TEA (73 μL, 0.534 mmol) following the general synthesis method as described herein above. The title compound was provided as a white solid (28 mg, 24.7%);

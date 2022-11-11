@@ -1,0 +1,10 @@
+Inhibition of matrix metalloproteinases (MMPs) as a potential strategy to ameliorate hypertension-induced cardiovascular alterations.
+A group of proteases, the matrix metalloproteinases (MMPs) are well known for their capacity to degrade extracellular matrix (ECM) proteins.
+Particularly MMP-2 and MMP-9 contribute to the degradation and reorganization of the ECM components and are involved in the pathophysiology of cardiovascular remodeling.
+Imbalanced MMP activity promotes vascular smooth muscle cells and migration and proliferation and endothelial dysfunction, thus resulting in increased cardiovascular stiffness and hypertrophy.
+Furthermore, MMP-2 cleaves non-ECM protein substrates including cellular receptors and intracellular proteins, thus causing cardiac and vascular dysfunction.
+It is now becoming clear that increased MMP activity promotes long-lasting cardiovascular structural and functional alterations in both experimental and clinical hypertension, and this alteration may contribute to sustained hypertension and its complications.
+Other pathogenic mechanisms including activation of the renin-angiotensin-aldosterone system and oxidative stress activate and upregulate MMPs.
+Therefore, MMP inhibition may prevent the deleterious consequences of hypertension to the cardiovascular system.
+This review article will focus on growing evidence supporting the relevance of MMPs in hypertension and the effects of MMP inhibitors.
+Particularly, the effects of doxycycline used as a non selective MMP inhibitor in experimental and clinical studies will be discussed.

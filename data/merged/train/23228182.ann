@@ -1,0 +1,14 @@
+T11	CHEMICAL 0 10	Amino acid
+T12	CHEMICAL 17 55	zwitterionic poly(serine methacrylate)
+T3	CHEMICAL 86 92	serine
+T1	CHEMICAL 99 137	zwitterionic poly(serine methacrylate)
+T5	CHEMICAL 139 145	pSerMA
+T2	CHEMICAL 354 360	pSerMA
+T13	GENE-Y 529 549	bovine serum albumin
+T4	CHEMICAL 590 596	pSerMA
+T6	CHEMICAL 783 804	poly(ethylene glycol)
+T7	CHEMICAL 810 816	pSerMA
+T8	CHEMICAL 941 951	amino acid
+T9	CHEMICAL 1026 1032	pSerMA
+T10	CHEMICAL 1079 1094	ethylene glycol
+R0	NOT Arg1:T13 Arg2:T6

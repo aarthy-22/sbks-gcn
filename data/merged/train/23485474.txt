@@ -1,0 +1,8 @@
+Structural modifications of polymethacrylates: Impact on thermal behavior and release characteristics of glassy solid solutions.
+Polymethacrylates such as Eudragit® polymers are well established as drug delivery matrix.
+Here, we synthesize several Eudragit E PO (n-butyl-, dimethylaminoethyl-, methyl-methacrylate-terpolymer) analogues via free radical polymerization.
+These polymers are processed via hot melt extrusion, followed by injection molding and evaluated as carriers to produce immediate release solid solution tablets.
+Three chemical modifications increased the glass transition temperature of the polymer: (a) substitution of n-butyl by t-butyl groups, (b) reduction of the dimethylaminoethyl methacrylate (DMAEMA) content, and (c) incorporation of a bulky isobornyl repeating unit.
+These structural modifications revealed the possibility to increase the mechanical stability of the tablets via altering the polymer Tg without influencing the drug release characteristics and glassy solid solution forming properties.
+The presence of DMAEMA units proved to be crucial with respect to API/polymer interaction (essential in creating glassy solid solutions) and drug release characteristics.
+Moreover, these chemical modifications accentuate the need for a more rational design of (methacrylate) polymer matrix excipients for drug formulation via hot melt extrusion and injection molding.

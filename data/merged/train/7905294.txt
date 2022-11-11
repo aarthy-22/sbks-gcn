@@ -1,0 +1,6 @@
+Ethanol inhibits glutamate-induced currents in heteromeric NMDA receptor subtypes.
+Maximal L-glutamate/glycine-evoked currents were inhibited by ethanol in Xenopus laevis oocytes expressing recombinant heteromeric NMDA receptors consisting of NR1-NR2A, NR1-NR2B, and NR1-NR2C subunit combinations.
+Concentration-dependent inhibition was observed at ethanol concentrations of > or = 50 mM both in Ca(2+)-containing and Ca(2+)-deficient, Ba(2+)-containing Mg(2+)-free media.
+The NR1-NR2C channels were slightly less sensitive to ethanol inhibition than the other heteromeric channels in Ca(2+)-deficient, Ba(2+)-containing medium.
+The inhibition was unaffected by the clamping-voltage and by a mutation [NR1-NR2A(N595Q)] that prevents the Mg(2+)-blockade of the channels, indicating that the mechanism of action of ethanol differs from that of Mg2+.
+The results are consistent with the hypothesis that the NMDA receptor subtypes can mediate many behavioural actions of ethanol.

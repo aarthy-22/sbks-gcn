@@ -1,0 +1,13 @@
+T13	CHEMICAL 96 111	Polyoxometalate
+T12	CHEMICAL 112 114	Mn
+T3	CHEMICAL 153 155	Mn
+T5	CHEMICAL 165 181	polyoxometalates
+T11	CHEMICAL 207 271	[(MnMo(6) O(18) )((OCH(2) )(3) -C-(CH(2) )(7) CHCH(2) )(2) ](3-)
+T1	CHEMICAL 286 348	[(MnMo(6) O(18) )((OCH(2) )(3) C-NHCH(2) C(16) H(9) )(2) ](3-)
+T2	CHEMICAL 363 466	[(MnMo(6) O(18) )((OCH(2) )(3) C-(CH(2) )(7) CHCH(2) )(1) ((OCH(2) )(3) C-NHCH(2) C(16) H(9) )(1) ](3-)
+T4	CHEMICAL 481 544	[(MnMo(6) O(18) )((OCH(2) )(3) C-NHC(O)CH(2) CHCH(2) )(2) ](3-)
+T6	CHEMICAL 564 627	[(MnMo(6) O(18) )((OCH(2) )(3) C-NHC(O)(CH(2) )(x) CH(3) )(2) ]
+T7	CHEMICAL 751 754	TBA
+T8	CHEMICAL 763 768	DMDOA
+T9	CHEMICAL 823 845	tetraphenylphosphonium
+T10	CHEMICAL 847 853	PPh(4)

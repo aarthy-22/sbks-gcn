@@ -1,0 +1,22 @@
+T8	CHEMICAL 23 36	levocabastine
+T9	CHEMICAL 47 58	neurotensin
+T22	GENE-Y 47 58	neurotensin
+T5	CHEMICAL 114 125	neurotensin
+T16	GENE-N 114 134	neurotensin receptor
+T1	CHEMICAL 193 204	neurotensin
+T10	GENE-N 193 213	neurotensin receptor
+T11	GENE-Y 215 220	NTR-2
+T2	CHEMICAL 254 264	amino acid
+T3	CHEMICAL 325 336	neurotensin
+T12	GENE-N 325 345	neurotensin receptor
+T13	GENE-Y 347 352	NTR-1
+T14	GENE-Y 440 445	NTR-2
+T4	CHEMICAL 480 491	neurotensin
+T15	GENE-Y 480 491	neurotensin
+T17	GENE-Y 493 495	NT
+T18	GENE-Y 619 624	NTR-1
+T19	GENE-Y 626 631	NTR-2
+T6	CHEMICAL 664 677	levocabastine
+T7	CHEMICAL 681 690	histamine
+T20	GENE-Y 681 702	histamine H1 receptor
+T21	GENE-Y 747 749	NT

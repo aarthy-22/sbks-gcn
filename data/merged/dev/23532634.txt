@@ -1,0 +1,12 @@
+Adrenocortical reserves in hyperthyroidism.
+Explicit data regarding the changes in adrenocortical reserves during hyperthyroidism do not exist.
+We aimed to document the capability (response) of adrenal gland to secrete cortisol and DHEA-S during hyperthyroidism compared to euthyroidism, and to describe factors associated with these responses.
+A standard-dose (0.25 mg/i.v.) ACTH stimulation test was performed to the same patients before hyperthyroidism treatment, and after attainment of euthyroidism.
+Baseline cortisol (Cor0), DHEA-S (DHEA-S0), cortisol binding globulin (CBG), ACTH, calculated free cortisol (by Coolen's equation = CFC), free cortisol index (FCI), 60-min cortisol (Cor60), and DHEA-S (DHEA-S60), delta cortisol (ΔCor), delta DHEA-S (ΔDHEA-S) responses were evaluated.
+Forty-one patients [22 females, 49.5 ± 15.2 years old, 32 Graves disease, nine toxic nodular goiter] had similar Cor0, DHEA-S0, CFC, FCI, and DHEA-S60 in hyperthyroid and euthyroid states.
+Cor60, ΔCor, and ΔDHEA-S were lower in hyperthyroidism.
+In four (10 %) patients the peak ACTH-stimulated cortisol values were lower than 18 μg/dL. When the test repeated after attainment of euthyroidism, all of the patients had normal cortisol response.
+Regression analysis demonstrated an independent association of Cor60 with free T3 in hyperthyroidism.
+However, the predictors of CFC, FCI, and DHEA-S levels were serum creatinine levels in hyperthyroidism, and both creatinine and transaminase levels in euthyroidism.
+ACTH-stimulated peak cortisol, delta cortisol, and delta DHEA-S levels are decreased during hyperthyroidism, probably due to increased turnover.
+Since about 10 % of the subjects with hyperthyroidism are at risk for adrenal insufficiency, clinicians dealing with Graves' disease should be alert to the possibility of adrenal insufficiency during hyperthyroid stage.

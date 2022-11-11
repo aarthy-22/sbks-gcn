@@ -1,0 +1,9 @@
+Effects of nedocromil sodium and WEB 2086 on chemoattractant-stimulated neutrophil migration through cellular and noncellular barriers.
+Nedocromil sodium (Tilade) is an effective therapeutic agent against asthma and has been shown to exhibit antiinflammatory activity in vitro; however, its mode of action is yet to be described fully.
+Using an in vitro assay designed to mimic the extravasation of neutrophils from the peripheral circulation through cellular barriers to sites of inflammation, the effect of nedocromil sodium on chemoattractant-stimulated neutrophil migration was examined.
+We also examined the effects of WEB 2086, a platelet-activating factor (PAF) receptor antagonist, in parallel.
+Neutrophils and the cellular barrier were pretreated and/or co-incubated with nedocromil or WEB 2086 and the effects on neutrophil chemotaxis measured.
+In all treatments, nedocromil did not significantly affect chemotaxis through cellular or noncellular barriers to N-formyl-methionyl-leucyl-phenylalanine (FMLP), leukotriene B4 (LTB4), or PAF.
+In contrast, WEB 2086 inhibited PAF-induced neutrophil migration through both naked filters and endothelial and epithelial monolayers cultured on these filters.
+We conclude that while nedocromil has been shown to have inhibitory effects on neutrophils and is an effective therapeutic agent for asthma and inflammatory conditions, its activity is not primarily mediated by inhibition of neutrophil chemotaxis.
+Platelet-activating factor antagonists may partially be effective in asthma through inhibitory effects on neutrophil chemotaxis.

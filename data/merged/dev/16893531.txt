@@ -1,0 +1,9 @@
+The effects of norepinephrine transporter inactivation on locomotor activity in mice.
+BACKGROUND: Acute administration of different classes of antidepressants can enhance or reduce spontaneous locomotor activity in a novel environment, but the effects of chronic antidepressant treatment on spontaneous locomotor activity in novel and familiar environments are less well characterized.
+Because norepinephrine is an important regulator of spontaneous locomotor activity, we speculated that norepinephrine transporter blockade contributes to the effects of some antidepressants on spontaneous locomotor activity.
+METHODS: Antidepressant drugs (reboxetine, desipramine, imipramine, venlafaxine, bupropion) were administered acutely (intraperitoneal) or chronically (via osmotic minipump) to control and norepinephrine transporter knockout mice, and spontaneous locomotor activity in novel or familiar environments was recorded.
+RESULTS: Acute treatment with most norepinephrine transporter-blocking antidepressants decreased spontaneous locomotor activity in a novel environment, whereas chronic treatment decreased spontaneous locomotor activity in both novel and familiar environments.
+The exception was bupropion, a dual norepinephrine transporter/dopamine transporter blocker, which tended to increase spontaneous locomotor activity.
+Coadministration of reboxetine and the dopamine transporter blocker GBR 12909 also increased spontaneous locomotor activity.
+Norepinephrine transporter knockout mice had low basal spontaneous locomotor activity, which was increased by bupropion, whereas reboxetine had no effect in norepinephrine transporter knockout mice.
+CONCLUSIONS: Acute or chronic inactivation of the norepinephrine transporter decreases spontaneous locomotor activity in novel and familiar environments unless coupled with dopamine transporter blockade.

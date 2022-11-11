@@ -1,0 +1,4 @@
+Discovery of aryl ureas and aryl amides as potent and selective histamine H3 receptor antagonists for the treatment of obesity (Part I).
+A series of structurally novel aryl ureas was derived from optimization of the HTS lead as selective histamine H3 receptor (H3R) antagonists.
+The SAR was explored and the data obtained set up the starting point and foundation for further optimization.
+The most potent tool compounds, as exemplified by compounds 2l, 5b, 5d, and 5e, displayed antagonism potencies in the subnanomolar range in in vitro human-H3R FLIPR assays and rhesus monkey H3R binding assays.

@@ -1,0 +1,6 @@
+Up-regulation of spermidine/spermine N1-acetyltransferase (SSAT) expression is a part of proliferative but not anabolic response of mouse kidney.
+A differential expression pattern of spermidine/spermine N(1)-acetyltransferase (SSAT), the enzyme critical to proper homeostasis of cellular polyamines, is reported in mouse kidney undergoing hyperplasia and hypertrophy.
+We have shown that SSAT activity and SSAT mRNA are significantly induced by antifolate CB 3717 and folate that evoke a drug-injury-dependent hyperplasia.
+In contrast, SSAT activity is down-regulated in the testosterone-induced hypertrophic kidney, while SSAT mRNA is positively controlled by this androgen.
+Catecholamine depletion evoked by reserpine drastically decreases the folate-induced activity of S-adenosylmethionine decarboxylase (AdoMetDC), which limits polyamine biosynthesis, but has no effect on SSAT activity augmented by CB 3717.
+Our results document that the increased SSAT expression solely accompanies the proliferative response of mouse kidney, and suggest the importance of post-transcriptional regulation to the control of SSAT activity in both hyperplastic and hypertrophic experimental models.

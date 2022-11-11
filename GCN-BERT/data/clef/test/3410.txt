@@ -1,0 +1,2 @@
+Preparation of 1-(3-fluoropropyl)azetidin-3-amine
+TFA (2.69 ml) was added to a solution of tert-butyl (1-(3-fluoropropyl)azetidin-3-yl)carbamate (1.248 g, 5.37 mmol) in DCM (8.06 mL) and the reaction was stirred at room temperature for 1 hour. The volatiles were evaporated and purified by ion exchange chromatography, using an SCX column. The desired product was eluted from the column using 1M NH3/MeOH and pure fractions were evaporated to dryness to afford 1-(3-fluoropropyl)azetidin-3-amine (0.697 g, 98%) as a colourless oil.

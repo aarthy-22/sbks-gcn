@@ -1,0 +1,24 @@
+T16	CHEMICAL 15 31	tetrahydrofolate
+T21	GENE-N 15 50	tetrahydrofolate tight binding site
+T17	CHEMICAL 77 102	10-formyltetrahydrofolate
+T22	GENE-Y 77 116	10-formyltetrahydrofolate dehydrogenase
+T1	CHEMICAL 118 143	10-Formyltetrahydrofolate
+T18	GENE-Y 118 157	10-Formyltetrahydrofolate dehydrogenase
+T3	CHEMICAL 223 236	polyglutamate
+T6	CHEMICAL 246 262	tetrahydrofolate
+T8	CHEMICAL 462 489	10-formyl 5,8-dideazafolate
+T9	CHEMICAL 494 512	5, 8-dideazafolate
+T19	GENE-N 556 581	tight binding folate site
+T10	CHEMICAL 648 649	N
+T11	CHEMICAL 717 744	10-formyl 5,8-dideazafolate
+T20	GENE-N 752 765	dehydrogenase
+T12	CHEMICAL 919 924	NADP+
+T13	CHEMICAL 928 945	2-mercaptoethanol
+T14	CHEMICAL 964 991	10-formyl 5,8-dideazafolate
+T15	CHEMICAL 1059 1076	5,8-dideazafolate
+T2	CHEMICAL 1131 1168	5, 8-dideazafolate-[3H]tetraglutamate
+T4	CHEMICAL 1291 1327	5,8-dideazafolate-[3H]tetraglutamate
+T5	CHEMICAL 1394 1421	10-formyl 5,8-dideazafolate
+T7	CHEMICAL 1459 1469	amino acid
+R0	CPR-1 Arg1:T10 Arg2:T19
+R1	NOT Arg1:T16 Arg2:T22

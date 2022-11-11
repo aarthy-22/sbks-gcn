@@ -1,0 +1,11 @@
+No influence of moderate hepatic impairment on the pharmacokinetics of lumiracoxib, an oral COX-2 selective inhibitor.
+The aim of this study was to evaluate the influence of hepatic impairment on the pharmacokinetics (PK) of the novel cyclooxygenase-2 (COX-2) selective inhibitor lumiracoxib (Prexige), so that dose recommendations for clinical use can be provided.
+This was an open-label, single dose, case-controlled study in which eight subjects with liver cirrhosis classed as moderate hepatic impairment (Child-Pugh score: 7-9) and eight demographically-matched healthy subjects received a single oral 400 mg dose of lumiracoxib.
+Routine safety assessments were made and blood samples were taken for determination of lumiracoxib concentrations for 96 h post dose.
+The ex vivo binding of lumiracoxib to plasma proteins was determined pre dose and at 2 and 12 h post dose.
+An analysis of variance was used to detect differences in PK parameters (AUC, Cmax and Tmax) between the treatment groups.
+There were no significant differences between subjects with moderate hepatic insufficiency and healthy subjects in the area under the lumiracoxib plasma concentration-time curves (AUC(0-infinity)): 29.2 +/- 6.7 microg h ml(-1) versus 28.7 +/- 6.3 mircrog h ml(-1).
+The rate of absorption of lumiracoxib was not significantly altered by hepatic impairment based on Cmax and Tmax.
+The protein-bound fraction of lumiracoxib exceeded 98% both in healthy control subjects and in those with moderate hepatic insufficiency.
+A single dose of 400 mg lumiracoxib was well tolerated.
+In conclusion, no dose adjustments appear to be required when lumiracoxib is administered to patients with either mild or moderate hepatic impairment.

@@ -1,0 +1,16 @@
+Cyclic AMP responsive element binding protein- a vital link in embryonic hormonal adaptation.
+The transcription factor cyclic AMP responsive element binding protein (CREB) and activating transcription factors (ATFs) are downstream components of the insulin/IGF cascade, playing crucial roles in maintaining cell viability and embryo survival.
+One of the CREB target genes is adiponectin which acts synergistically with insulin.
+We have studied the CREB-ATF-adiponectin network in rabbit preimplantation development in vivo and in vitro.
+From the blastocyst stage onwards CREB and ATF1, 3 and 4 are present with increasing expression for CREB, ATF1 and 3 during gastrulation and with a dominant expression in the embryoblast (EB).
+In vitro stimulation with insulin and IGF1 reduced CREB and ATF1 transcripts by approx.
+50%, while CREB phosphorylation was increased.
+Activation of CREB was accompanied by subsequent reduction in adiponectin and adiponectin receptor 1 (adipoR1) expression.
+Under in vivo conditions of diabetes type 1, maternal adiponectin levels were up-regulated in serum and endometrium.
+Embryonic CREB expression was altered in a cell lineage-specific pattern.
+While in EB cells CREB localization did not change, it was translocated from the nucleus into the cytosol in trophoblast (TB) cells.
+In TB adiponectin expression was increased [diabetic 427.8±59.3 pg/ml versus normoinsulinaemic 143.9±26.5 pg/ml], while it was no longer measureable in the EB.
+Analysis of embryonic adiponectin receptors showed an increased expression of adipoR1 and no changes in adipoR2 transcription.
+We conclude that the transcription factors CREB and ATFs vitally participate in embryo-maternal crosstalk prior to implantation in a cell lineage-specific manner.
+Embryonic CREB/ATFs act as insulin/IGF sensors.
+Lack of insulin is compensated by a CREB-mediated adiponectin expression which may maintain glucose uptake in blastocysts grown in diabetic mothers.

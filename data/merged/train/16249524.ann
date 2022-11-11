@@ -1,0 +1,18 @@
+T10	CHEMICAL 0 9	Serotonin
+T16	GENE-Y 0 25	Serotonin 5-ht2c receptor
+T1	CHEMICAL 177 189	fenfluramine
+T2	CHEMICAL 221 236	dexfenfluramine
+T3	CHEMICAL 343 355	fenfluramine
+T4	CHEMICAL 399 408	serotonin
+T11	GENE-Y 399 427	serotonin 5-HT(2C) receptors
+T5	CHEMICAL 490 502	fenfluramine
+T6	CHEMICAL 504 518	norfenfluramin
+T7	CHEMICAL 521 536	Norfenfluramine
+T8	CHEMICAL 587 596	serotonin
+T12	GENE-N 587 606	serotonin receptors
+T13	GENE-Y 616 624	5-HT(2A)
+T14	GENE-Y 629 637	5-HT(2B)
+T15	GENE-Y 744 752	5-HT(2C)
+T9	CHEMICAL 830 842	fenfluramine
+R0	CPR-3 Arg1:T7 Arg2:T13
+R1	NOT Arg1:T8 Arg2:T13

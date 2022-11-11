@@ -1,0 +1,43 @@
+T38	GENE-Y 61 75	human thrombin
+T36	GENE-N 108 118	fibrinogen
+T37	GENE-N 127 154	cleavable platelet receptor
+T1	CHEMICAL 260 265	amide
+T2	CHEMICAL 278 296	p-aminobenzamidine
+T4	CHEMICAL 298 303	p-ABZ
+T5	CHEMICAL 309 318	proflavin
+T28	GENE-Y 377 391	alpha-thrombin
+T29	GENE-N 398 424	zeta- and gamma T-thrombin
+T30	GENE-Y 432 440	thrombin
+T31	GENE-N 502 532	fibrinogen recognition exosite
+T32	GENE-N 534 537	FRS
+T8	CHEMICAL 620 625	amide
+T9	CHEMICAL 641 646	p-ABZ
+T33	GENE-Y 665 678	zeta-thrombin
+T34	GENE-Y 951 965	alpha-thrombin
+T35	GENE-N 1085 1119	alpha-, zeta- and gamma T-thrombin
+T10	GENE-N 1206 1236	fibrinogen recognition exosite
+T11	GENE-N 1238 1241	FRS
+T12	GENE-N 1252 1262	fibrinogen
+T13	GENE-N 1271 1298	cleavable platelet receptor
+T14	GENE-N 1300 1303	CPR
+T15	GENE-Y 1371 1387	fibrinopeptide A
+T16	GENE-Y 1389 1392	FpA
+T3	CHEMICAL 1433 1437	Ca2+
+T17	GENE-Y 1457 1465	thrombin
+T18	GENE-N 1466 1469	CPR
+T19	GENE-N 1556 1566	fibrinogen
+T20	GENE-N 1571 1574	CPR
+T21	GENE-N 1679 1713	alpha-, zeta- and gamma T-thrombin
+T6	CHEMICAL 1731 1736	p-ABZ
+T22	GENE-N 1816 1826	fibrinogen
+T23	GENE-N 1831 1834	CPR
+T24	GENE-N 1924 1927	FRS
+T7	CHEMICAL 2004 2022	p-aminobenzamidine
+T25	GENE-Y 2030 2038	thrombin
+T26	GENE-Y 2070 2080	thrombin's
+T27	GENE-N 2316 2319	FRS
+R0	CPR-2 Arg1:T5 Arg2:T28
+R1	NOT Arg1:T21 Arg2:T6
+R2	NOT Arg1:T6 Arg2:T22
+R3	NOT Arg1:T6 Arg2:T23
+R4	NOT Arg1:T24 Arg2:T7

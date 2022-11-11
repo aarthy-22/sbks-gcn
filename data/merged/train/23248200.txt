@@ -1,0 +1,11 @@
+Drug-drug interactions between rosuvastatin and oral antidiabetic drugs occurring at the level of OATP1B1.
+Organic anion-transporting polypeptide 1B1 (OATP1B1) is an important hepatic uptake transporter, of which the polymorphic variant OATP1B1*15 (Asn130Asp and Val174Ala) has been associated with decreased transport activity.
+Rosuvastatin is an OATP1B1 substrate and often concomitantly prescribed with oral antidiabetics in the clinic.
+The aim of this study was to investigate possible drug-drug interactions between these drugs at the level of OATP1B1 and OATP1B1*15.
+We generated human embryonic kidney (HEK)293 cells stably overexpressing OATP1B1 or OATP1B1*15 that showed similar protein expression levels of OATP1B1 and OATP1B1*15 at the cell membrane as measured by liquid chromatography-tandem mass spectrometry.
+In HEK-OATP1B1*15 cells, the V(max) for OATP1B1-mediated transport of E(2)17β-G (estradiol 17β-d-glucuronide) was decreased >60%, whereas K(m) values (Michaelis constant) were comparable.
+Uptake of rosuvastatin in HEK-OATP1B1 cells (K(m) 13.1 ± 0.43 μM) was nearly absent in HEK-OATP1B1*15 cells.
+Interestingly, several oral antidiabetics (glyburide, glimepiride, troglitazone, pioglitazone, glipizide, gliclazide, and tolbutamide), but not metformin, were identified as significant inhibitors of the OATP1B1-mediated transport of rosuvastatin.
+The IC(50) values for inhibition of E(2)17β-G uptake were similar between OATP1B1 and OATP1B1*15.
+In conclusion, these studies indicate that several oral antidiabetic drugs affect the OATP1B1-mediated uptake of rosuvastatin in vitro.
+The next step will be to translate these data to the clinical situation, as it remains to be established whether the studied oral antidiabetics indeed affect the clinical pharmacokinetic profile of rosuvastatin in patients.

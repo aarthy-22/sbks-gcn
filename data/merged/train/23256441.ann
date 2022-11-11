@@ -1,0 +1,13 @@
+T2	CHEMICAL 266 326	3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyltetrazolium bromide
+T4	CHEMICAL 328 331	MTT
+T10	GENE-Y 1000 1003	Bax
+T11	GENE-Y 1005 1014	caspase-9
+T12	GENE-Y 1020 1029	caspase-3
+T13	GENE-Y 1050 1055	Bcl-2
+T5	GENE-N 1111 1116	NF-κB
+T6	GENE-Y 1118 1122	iNOS
+T7	GENE-Y 1128 1133	COX-2
+T8	GENE-N 1392 1395	MMP
+T9	GENE-N 1430 1469	tissue inhibitors of metalloproteinases
+T1	CHEMICAL 1602 1613	solar salts
+T3	CHEMICAL 1991 2002	solar salts

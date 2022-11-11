@@ -1,0 +1,23 @@
+T23	GENE-N 20 62	monomeric and multimeric snake neurotoxins
+T4	GENE-N 298 311	α-neurotoxins
+T15	GENE-N 397 443	snake presynaptic phospholipase A2 neurotoxins
+T16	GENE-N 445 450	SPANs
+T17	GENE-N 596 600	SPAN
+T18	GENE-N 697 701	SPAN
+T19	GENE-N 702 719	P-elapitoxin-As1a
+T20	GENE-N 721 732	P-EPTX-As1a
+T21	GENE-N 765 770	SPANs
+T22	GENE-N 913 918	SPANs
+T2	CHEMICAL 1060 1063	KCl
+T3	GENE-N 1215 1226	P-EPTX-As1a
+T5	GENE-N 1435 1439	SPAN
+T6	GENE-N 1458 1466	taipoxin
+T7	GENE-N 1506 1517	P-EPTX-As1a
+T8	GENE-Y 1541 1557	taipoxin α-chain
+T9	GENE-N 1631 1671	class PIII snake venom metalloproteinase
+T10	GENE-N 1673 1686	C-type lectin
+T1	CHEMICAL 1688 1700	l-amino acid
+T11	GENE-N 1688 1708	l-amino acid oxidase
+T12	GENE-Y 1710 1730	acetylcholinesterase
+T13	GENE-Y 1735 1750	phospholipase B
+T14	GENE-N 2031 2036	SPANs

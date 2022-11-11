@@ -1,0 +1,46 @@
+T21	CHEMICAL 0 28	5-ethynyl-2(1H)-pyrimidinone
+T23	CHEMICAL 30 38	aldehyde
+T37	GENE-Y 30 46	aldehyde oxidase
+T24	CHEMICAL 61 76	5-ethynyluracil
+T22	CHEMICAL 111 128	dihydropyrimidine
+T36	GENE-Y 111 142	dihydropyrimidine dehydrogenase
+T1	CHEMICAL 144 159	5-Ethynyluracil
+T16	CHEMICAL 203 220	dihydropyrimidine
+T29	GENE-Y 203 234	dihydropyrimidine dehydrogenase
+T34	GENE-Y 236 239	DPD
+T35	GENE-Y 241 251	EC 1.3.1.2
+T7	CHEMICAL 381 409	5-Ethynyl-2(1H)-pyrimidinone
+T8	CHEMICAL 434 449	5-ethynyluracil
+T9	CHEMICAL 453 461	aldehyde
+T27	GENE-Y 453 469	aldehyde oxidase
+T10	CHEMICAL 540 560	N-methylnicotinamide
+T11	CHEMICAL 575 583	xanthine
+T28	GENE-Y 575 591	xanthine oxidase
+T12	CHEMICAL 601 629	5-ethynyl-2(1H)-pyrimidinone
+T13	CHEMICAL 633 648	5-ethynyluracil
+T14	CHEMICAL 705 713	xanthine
+T15	CHEMICAL 723 751	5-ethynyl-2(1H)-pyrimidinone
+T30	GENE-Y 787 790	DPD
+T17	CHEMICAL 804 812	aldehyde
+T31	GENE-Y 804 820	aldehyde oxidase
+T18	CHEMICAL 875 903	5-ethynyl-2(1H)-pyrimidinone
+T32	GENE-Y 945 948	DPD
+T19	CHEMICAL 964 992	5-ethynyl-2(1H)-pyrimidinone
+T33	GENE-Y 1052 1055	DPD
+T20	CHEMICAL 1089 1117	5-ethynyl-2(1H)-pyrimidinone
+T2	CHEMICAL 1159 1174	5-ethynyluracil
+T25	GENE-Y 1244 1247	DPD
+T3	CHEMICAL 1305 1329	5-ethynyl-2-pyrimidinone
+T4	CHEMICAL 1334 1349	5-ethynyluracil
+T26	GENE-Y 1386 1389	DPD
+T5	CHEMICAL 1397 1425	5-ethynyl-2(1H)-pyrimidinone
+T6	CHEMICAL 1497 1512	5-ethynyluracil
+R0	CPR-9 Arg1:T14 Arg2:T28
+R1	CPR-4 Arg1:T19 Arg2:T33
+R2	CPR-4 Arg1:T2 Arg2:T25
+R3	NOT Arg1:T1 Arg2:T27
+R4	NOT Arg1:T29 Arg2:T8
+R5	NOT Arg1:T34 Arg2:T7
+R6	NOT Arg1:T35 Arg2:T8
+R7	NOT Arg1:T30 Arg2:T18
+R8	NOT Arg1:T31 Arg2:T18

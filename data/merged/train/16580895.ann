@@ -1,0 +1,18 @@
+T16	GENE-Y 48 72	human serine dehydratase
+T6	CHEMICAL 54 60	serine
+T10	GENE-Y 106 130	human serine dehydratase
+T1	CHEMICAL 112 118	serine
+T13	GENE-Y 132 135	SDH
+T11	GENE-Y 494 497	SDH
+T2	CHEMICAL 527 535	l-serine
+T12	GENE-Y 527 563	l-serine and l-threonine dehydratase
+T3	CHEMICAL 540 551	l-threonine
+T14	GENE-Y 608 611	SDH
+T15	GENE-Y 725 728	SDH
+T4	CHEMICAL 910 932	pyridoxal 5'-phosphate
+T5	CHEMICAL 956 963	proline
+T7	GENE-Y 1225 1228	SDH
+T8	GENE-N 1246 1260	Val for Leu287
+T9	GENE-Y 1563 1566	SDH
+R0	NOT Arg1:T1 Arg2:T13
+R1	NOT Arg1:T3 Arg2:T14

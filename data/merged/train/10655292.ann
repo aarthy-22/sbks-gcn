@@ -1,0 +1,18 @@
+T11	CHEMICAL 51 60	ganirelix
+T12	CHEMICAL 62 72	Orgalutran
+T9	CHEMICAL 211 242	gonadotrophin-releasing hormone
+T15	GENE-Y 211 242	gonadotrophin-releasing hormone
+T10	CHEMICAL 244 248	GnRH
+T16	GENE-Y 244 248	GnRH
+T1	CHEMICAL 261 270	ganirelix
+T6	CHEMICAL 371 378	steroid
+T7	CHEMICAL 510 519	ganirelix
+T8	CHEMICAL 674 683	ganirelix
+T13	GENE-N 1242 1261	luteinizing hormone
+T14	GENE-N 1266 1294	follicle stimulating hormone
+T2	CHEMICAL 1315 1325	oestradiol
+T3	CHEMICAL 1330 1342	progesterone
+T4	CHEMICAL 1505 1514	ganirelix
+T5	CHEMICAL 1577 1584	steroid
+R0	CPR-6 Arg1:T1 Arg2:T16
+R1	NOT Arg1:T15 Arg2:T6

@@ -1,0 +1,3 @@
+Intermediate 1: tert-butyl (2R,3S)-2-(2,5-difluorophenyl)-5-oxotetrahydro-2H-pyran -3-ylcarbamate
+Step 1: methyl 2-((diphenylmethylene)amino)acetate
+Benzophenone imine (50.0 g, 0.276 mol) was added in one batch to a solution of glycine methyl ester hydrochloride (39.4 g, 0.314 mol) in 300 mL dichloromethane under stirring, and the resulting reaction solution was stirred at room temperature for 1 day. The resulting solid was removed by filtration, and the filtrate was washed sequentially with water, sodium carbonate solution and saturated brine, and was concentrated by evaporation to give methyl 2-((diphenylmethylene)amino)acetate (64.2 g) as an oily product, which was solidified after being cooled, and used directly for next step. Yield: 92%.

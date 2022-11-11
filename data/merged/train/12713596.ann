@@ -1,0 +1,30 @@
+T26	GENE-Y 0 16	Cyclooxygenase-1
+T13	CHEMICAL 25 38	prostaglandin
+T20	GENE-Y 169 185	cyclooxygenase-1
+T23	GENE-N 187 190	cox
+T11	CHEMICAL 196 215	prostaglandin E2/D2
+T16	GENE-Y 252 268	Cyclooxygenase-1
+T5	CHEMICAL 383 402	prostaglandin E2/D2
+T17	GENE-Y 449 465	cyclooxygenase-1
+T6	CHEMICAL 467 480	prostaglandin
+T18	GENE-N 467 490	prostaglandin synthases
+T7	CHEMICAL 496 515	prostaglandin E2/D2
+T19	GENE-Y 595 611	cyclooxygenase-2
+T8	CHEMICAL 717 736	prostaglandin E2/D2
+T21	GENE-Y 825 841	cyclooxygenase-1
+T9	CHEMICAL 857 867	diclofenac
+T22	GENE-N 895 909	cyclooxygenase
+T10	CHEMICAL 930 939	celecoxib
+T24	GENE-Y 964 980	cyclooxygenase-2
+T25	GENE-Y 1015 1031	cyclooxygenase-1
+T12	CHEMICAL 1077 1096	prostaglandin E2/D2
+T1	CHEMICAL 1221 1237	prostaglandin E2
+T2	CHEMICAL 1239 1251	dinoprostone
+T3	CHEMICAL 1296 1306	diclofenac
+T14	GENE-Y 1370 1386	cyclooxygenase-2
+T15	GENE-Y 1431 1447	cyclooxygenase-1
+T4	CHEMICAL 1456 1475	prostaglandin E2/D2
+R0	CPR-9 Arg1:T7 Arg2:T18
+R1	CPR-9 Arg1:T12 Arg2:T22
+R2	NOT Arg1:T22 Arg2:T10
+R3	NOT Arg1:T10 Arg2:T25

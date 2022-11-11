@@ -1,0 +1,8 @@
+Cannabinoid discrimination and antagonism by CB(1) neutral and inverse agonist antagonists.
+Cannabinoid receptor 1 (CB(1)) inverse agonists (e.g., rimonabant) have been reported to produce adverse effects including nausea, emesis, and anhedonia that limit their clinical applications.
+Recent laboratory studies suggest that the effects of CB(1) neutral antagonists differ from those of such inverse agonists, raising the possibility of improved clinical utility.
+However, little is known regarding the antagonist properties of neutral antagonists.
+In the present studies, the CB(1) inverse agonist SR141716A (rimonabant) and the CB(1) neutral antagonist AM4113 were compared for their ability to modify CB(1) receptor-mediated discriminative stimulus effects in nonhuman primates trained to discriminate the novel CB(1) full agonist AM4054.
+Results indicate that AM4054 serves as an effective CB(1) discriminative stimulus, with an onset and time course of action comparable with that of the CB(1) agonist Δ(9)-tetrahydrocannabinol, and that the inverse agonist rimonabant and the neutral antagonist AM4113 produce dose-related rightward shifts in the AM4054 dose-effect curve, indicating that both drugs surmountably antagonize the discriminative stimulus effects of AM4054.
+Schild analyses further show that rimonabant and AM4113 produce highly similar antagonist effects, as evident in comparable pA(2) values (6.9).
+Taken together with previous studies, the present data suggest that the improved safety profile suggested for CB(1) neutral antagonists over inverse agonists is not accompanied by a loss of antagonist action at CB(1) receptors.

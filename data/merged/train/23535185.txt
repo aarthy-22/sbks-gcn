@@ -1,0 +1,11 @@
+Galangin attenuates mast cell-mediated allergic inflammation.
+A great number of people are suffering from allergic inflammatory disease such as asthma, atopic dermatitis, and sinusitis.
+Therefore discovery of drugs for the treatment of these diseases is an important subject in human health.
+In this study, we investigated anti-allergic inflammatory effect of galangin and underlying mechanisms of action using in vitro and in vivo models.
+Galangin inhibited histamine release by the reduction of intracellular calcium in phorbol 12-mystate 13-acetate plus calcium ionophore A23187-stimulated human mast cells (HMC-1).
+Galangin decreased expression of pro-inflammatory cytokines, such as tumor necrosis factor (TNF)-α, interleukin (IL)-6, IL-1β, and IL-8.
+The inhibitory effect of galangin on theses pro-inflammatory cytokines was related with c-Jun N-terminal kinases, and p38 mitogen-activated protein kinase, nuclear factor-κB, and caspase-1.
+Furthermore, galangin attenuated IgE-mediated passive cutaneous anaphylaxis and the expression of histamine receptor 1 at the inflamed tissue.
+The inhibitory effects of galangin were more potent than cromolyn, a known anti-allergic drug.
+Our results showed that galangin down-regulates mast cell-derived allergic inflammatory reactions by blocking histamine release and expression of pro-inflammatory cytokines.
+In light of in vitro and in vivo anti-allergic inflammatory effects, galangin could be a beneficial anti-allergic inflammatory agent.

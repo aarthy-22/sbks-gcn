@@ -1,0 +1,28 @@
+T26	GENE-Y 8 12	IL-2
+T14	GENE-N 368 384	diphtheria toxin
+T15	GENE-N 406 429	receptor-binding domain
+T16	GENE-N 444 460	Diphtheria toxin
+T1	CHEMICAL 512 533	adenosine diphosphate
+T17	GENE-N 512 565	adenosine diphosphate (ADP) ribosyltransferase domain
+T2	CHEMICAL 535 538	ADP
+T3	CHEMICAL 609 610	C
+T18	GENE-N 609 643	C-terminal receptor-binding domain
+T4	CHEMICAL 790 793	ADP
+T19	GENE-Y 810 829	elongation-factor 2
+T20	GENE-Y 839 843	IL-2
+T21	GENE-N 865 888	receptor-binding domain
+T22	GENE-N 892 908	diphtheria toxin
+T23	GENE-Y 943 956	interleukin-2
+T24	GENE-Y 958 962	IL-2
+T25	GENE-N 1012 1025	IL-2 receptor
+T5	GENE-N 1141 1154	IL-2 receptor
+T6	GENE-Y 1156 1159	p55
+T7	GENE-Y 1161 1164	p75
+T8	GENE-Y 1166 1169	p64
+T9	GENE-Y 1267 1271	IL-2
+T10	GENE-Y 1348 1352	IL-2
+T11	GENE-Y 1420 1424	IL-2
+T12	GENE-Y 1533 1537	IL-2
+T13	GENE-Y 1596 1600	IL-2
+R0	NOT Arg1:T16 Arg2:T1
+R1	NOT Arg1:T4 Arg2:T19

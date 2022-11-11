@@ -1,0 +1,2 @@
+(Reference Example 3) Synthesis of 4-Cyanofuroxan Compound Using 4-Fluorofuroxan Compound as Starting Compound
+4-Fluoro-3-(4-methylphenyl)furoxan (38.8 mg) and trimethylsilyl cyanide (0.0325 mL) were dissolved in tetrahydrofuran (0.45 mL), and a solution of tetrabutylammonium fluoride in tetrahydrofuran (1 M, 0.04 mL) was slowly added dropwise thereto. After stirring the mixture for 1 hour, the solvent was distilled off under reduced pressure. The obtained residue was purified by silica gel chromatography to obtain 28.2 mg (70% yield) of 4-cyano-3-(4-methylphenyl)furoxan.

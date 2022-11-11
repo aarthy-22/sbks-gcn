@@ -1,0 +1,11 @@
+Antimyeloma effects of a novel synthetic retinoid Am80 (Tamibarotene) through inhibition of angiogenesis.
+In multiple myeloma (MM), the interaction between myeloma cells and bone marrow microenvironment has an important role in the pathogenesis of MM.
+We first examined the inducing effect of myeloma cells on migration of human umbilical vein vascular endothelial cells (HUVECs).
+Five myeloma cell lines produced varying amounts of VEGF, and migration of HUVECs was induced by coculture with myeloma cells.
+We next examined the inhibitory effect of a novel synthetic retinoid Am80 (Tamibarotene) on both myeloma cells and HUVECs.
+Am80 is specific for the retinoic-acid receptor-alpha/beta, and has therapeutic effects in all-trans retinoic acid resistant acute promyelocytic leukemia.
+Am80 slightly inhibited the growth of both myeloma cells and HUVECs, and remarkably inhibited the growth of HUVECs stimulated by VEGF.
+Am80 showed little growth inhibition of bone marrow stromal cells (BMSCs), but it markedly inhibited migration of HUVECs by cocultured myeloma cells.
+Am80 inhibited VEGF-induced phosphorylation of VEGF receptor.
+In addition, VEGF-induced formation of tube-like structures in vitro and neovascularization in mouse corneas were significantly inhibited by Am80.
+These findings clearly demonstrate that Am80 is a potential inhibitor of angiogenesis caused by the interaction between vascular endothelial cells and myeloma cells, and might be a useful therapeutic agent against MM.

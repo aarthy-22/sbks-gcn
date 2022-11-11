@@ -1,0 +1,2 @@
+[Synthesis Example 17] Synthesis of cis-5-methyl menthol (cis-2-isopropyl-5,5-dimethylcyclohexanol) (Exemplary Compound rac-cis-5)
+By using the method of Synthesis Example 16, cis-5-methyl menthol was obtained as a colorless oil (28.5 g, yield: 94%) from 5-methylmenthone (rac-7) (30.0 g, 17.8 mmol) obtained in Synthesis Example 5.

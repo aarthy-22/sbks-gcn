@@ -1,0 +1,7 @@
+T1	EXAMPLE_LABEL 8 11	114
+T2	REACTION_PRODUCT 12 74	N-(3,3-difluorocyclobutyl)-4-(6-fluoro-1H-indol-3-yl)benzamide
+T3	STARTING_MATERIAL 107 121	Intermediate 3
+T4	STARTING_MATERIAL 126 167	3,3-difluorocyclobutanamine hydrochloride
+T5	REACTION_PRODUCT 283 297	title compound
+T6	YIELD_OTHER 299 306	14.7 mg
+T7	YIELD_PERCENT 308 311	39%

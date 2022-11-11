@@ -1,0 +1,10 @@
+Interactive effects of smoking and glutathione S-transferase polymorphisms on the development of non-alcoholic fatty liver disease.
+Glutathione S-transferases (GSTs) protect cells against exogenous and endogenous oxidative stress.
+GST polymorphisms are associated with the development of cardiovascular disease (CVD) and diabetes mellitus (DM), especially in current-smokers.
+Non-alcoholic fatty liver disease (NAFLD) is a predictor of future CVD or DM, because oxidative stress contributes to their pathogenesis.
+This study investigated whether the combination of smoking status and GST genotypes could affect the risk for NAFLD.
+A cross-sectional analysis was conducted among 713 Japanese participants (458 males and 255 females) during a health screening program.
+The GSTM1 null, GSTT1 null, GSTP1 *A/*B or *B/*B and GSTA1 *A/*B or *B/*B genotypes were determined and deemed to be high-risk genotypes.
+The prevalence of NAFLD was 18.7%.
+Among never-smokers, carriers of one, and those of two or more high-risk GSTM1, GSTP1 or GSTA1 genotypes were at a higher risk for NAFLD than those who were not carriers [odds ratio (95% confidence interval): 2.6 (1.1-5.9) and 3.3 (1.3-8.1), respectively], and the risk was further increased among current-smokers [4.6 (1.6-13.0) and 5.4 (1.2-23.7), respectively].
+This is the first report to show that the combination of current-smoking and harboring high-risk GSTM1, GSTP1 and/or GSTA1 genotypes is interactively associated with the risk of NAFLD.

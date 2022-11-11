@@ -1,0 +1,3 @@
+Example 6
+1 -Ethyl-3-[4-(6-fluoro-1H-indol-3-yl)phenyl]urea
+This compound was prepared from Intermediate 1 and 1-ethyl-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl]urea according to the procedure described in Example 4. Purification was performed using preparative HPLC to afford the title compound (23 mg, 55%). Data: LCMS (B) Rt: 10.666 min; m/z 298.2 (M+H)+.

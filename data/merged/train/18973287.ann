@@ -1,0 +1,33 @@
+T17	CHEMICAL 28 39	eszopiclone
+T18	CHEMICAL 44 52	zolpidem
+T19	CHEMICAL 68 91	gamma-aminobutyric acid
+T30	GENE-N 68 115	gamma-aminobutyric acid type-A (GABAA) receptor
+T2	CHEMICAL 146 154	zolpidem
+T6	CHEMICAL 159 170	eszopiclone
+T14	CHEMICAL 220 243	gamma-aminobutyric acid
+T29	GENE-N 220 260	gamma-aminobutyric acid type-A receptors
+T20	GENE-N 262 271	GABA(A)Rs
+T3	CHEMICAL 358 366	cysteine
+T4	CHEMICAL 384 398	benzodiazepine
+T21	GENE-N 384 417	benzodiazepine (BZD) binding site
+T5	CHEMICAL 400 403	BZD
+T22	GENE-N 421 454	alpha(1)beta(2)gamma(2) GABA(A)Rs
+T7	CHEMICAL 468 476	zolpidem
+T8	CHEMICAL 478 489	eszopiclone
+T9	CHEMICAL 495 498	BZD
+T23	GENE-N 495 503	BZD-site
+T24	GENE-N 537 551	gamma(2)loop D
+T25	GENE-N 556 577	alpha(1)loops A and B
+T10	CHEMICAL 668 671	BZD
+T26	GENE-N 668 677	BZD pocke
+T27	GENE-N 714 728	gamma(2)loop E
+T28	GENE-N 733 747	alpha(1)loop C
+T11	CHEMICAL 905 916	eszopiclone
+T12	CHEMICAL 970 978	hydrogen
+T13	CHEMICAL 986 994	Zolpidem
+T15	CHEMICAL 1100 1111	eszopiclone
+T16	CHEMICAL 1113 1121	zolpidem
+T1	CHEMICAL 1235 1243	zolpidem
+R0	NOT Arg1:T4 Arg2:T22
+R1	NOT Arg1:T21 Arg2:T8
+R2	NOT Arg1:T22 Arg2:T8

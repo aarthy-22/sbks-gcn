@@ -1,0 +1,20 @@
+T1	EXAMPLE_LABEL 8 10	31
+T2	REACTION_PRODUCT 26 176	trans-2,2-dichloro-N-(4-chloro-3-(2-((2,2,2-trifluoroethyl)carbamothioyl)hydrazine-1-carbonyl)phenyl)-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamide
+T3	REACTION_PRODUCT 178 183	F2539
+T4	STARTING_MATERIAL 202 324	trans-2,2-dichloro-N-(4-chloro-3-(hydrazinecarbonyl)phenyl)-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamide hydrochloride
+T5	STARTING_MATERIAL 326 331	F2567
+T6	SOLVENT 358 373	tetrahydrofuran
+T7	REAGENT_CATALYST 392 405	triethylamine
+T8	STARTING_MATERIAL 431 469	1,1,1-trifluoro-2-isothiocyanatoethane
+T9	TEMPERATURE 495 499	0° C
+T10	TEMPERATURE 537 553	room temperature
+T11	TIME 558 566	16 hours
+T12	OTHER_COMPOUND 663 676	ethyl acetate
+T13	OTHER_COMPOUND 701 706	water
+T14	OTHER_COMPOUND 721 726	brine
+T15	OTHER_COMPOUND 778 792	sodium sulfate
+T16	OTHER_COMPOUND 903 916	ethyl acetate
+T17	OTHER_COMPOUND 917 932	petroleum ether
+T18	REACTION_PRODUCT 946 960	title compound
+T19	YIELD_OTHER 984 990	0.08 g
+T20	YIELD_PERCENT 992 995	35%

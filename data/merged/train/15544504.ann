@@ -1,0 +1,9 @@
+T8	GENE-Y 24 44	acetylcholinesterase
+T7	GENE-Y 208 228	acetylcholinesterase
+T5	GENE-Y 536 540	AChE
+T6	GENE-Y 601 605	AChE
+T1	CHEMICAL 752 759	tacrine
+T2	CHEMICAL 761 772	huperzine A
+T3	CHEMICAL 774 786	galanthamine
+T4	CHEMICAL 792 802	polyamines
+R0	NOT Arg1:T5 Arg2:T4

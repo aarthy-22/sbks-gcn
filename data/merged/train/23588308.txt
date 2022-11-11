@@ -1,0 +1,9 @@
+A Physiologically-Based Pharmacokinetic Modelling Approach to Predict Disease-Drug Interactions: Suppression of CYP3A by IL-6.
+Elevated cytokine levels can down-regulate expression of cytochrome P450 enzymes (CYPs) and suppress their activity.
+Treatment of inflammation or infection with cytokine-modulating therapeutic proteins (TP) could reverse suppression manifesting as therapeutic protein-drug drug interactions (TP-DDI).
+A physiologically-based pharmacokinetic model was used to quantitatively predict the impact of IL-6 on sensitive CYP3A4 substrates.
+Elevated simvastatin AUC in virtual rheumatoid arthritis patients, following 100 pg/mL of IL-6 was comparable to observed clinical data (59% versus 58%).
+In virtual bone marrow transplant (BMT) patients, 500 pg/ml of IL-6 resulted in increase in cyclosporine AUC that was in good agreement with the observed data (45% versus 39%).
+In a different group of BMT patients treated with cyclosporine, the magnitude of interaction with IL-6 was under predicted ~3-fold.
+The complexity of TP-DDI highlights underlying pathophysiological factors to be considered but these simulations provide valuable first steps towards predictions of TP-DDI risk.
+Clinical Pharmacology & Therapeutics (2013); accepted article preview online 10 April 2013 doi:10.1038/clpt.2013.79.

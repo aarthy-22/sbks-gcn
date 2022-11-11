@@ -1,0 +1,5 @@
+Structural and functional characterization of a phosphatase domain within yeast general transcription factor TFIIIC.
+Saccharomyces cerevisiae τ55, a subunit of the RNA polymerase III-specific general transcription factor TFIIIC, comprises an N-terminal histidine phosphatase domain (τ55-HPD) whose catalytic activity and cellular function is poorly understood.
+We solved the crystal structures of τ55-HPD and its closely related paralogue Huf and used in silico docking methods to identify phospho-serine and phospho-tyrosine containing peptides as possible substrates that were subsequently validated using in vitro phosphatase assays.
+A comparative phospho-proteomic study identified additional phosphopeptides as possible targets, which show the involvement of these two phosphatases in the regulation of a variety of cellular functions.
+Our results identify τ55-HPD and Huf as bona fide protein phosphatases, characterize their substrate specificities and provide a small set of regulated phosphosite targets in vivo.

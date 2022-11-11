@@ -1,0 +1,11 @@
+Potent inhibition of HIV-1 replication by novel non-peptidyl small molecule inhibitors of protease dimerization.
+Dimerization of HIV-1 protease subunits is essential for its proteolytic activity, which plays a critical role in HIV-1 replication.
+Hence, the inhibition of protease dimerization represents a unique target for potential intervention of HIV-1.
+We developed an intermolecular fluorescence resonance energy transfer-based HIV-1-expression assay employing cyan and yellow fluorescent protein-tagged protease monomers.
+Using this assay, we identified non-peptidyl small molecule inhibitors of protease dimerization.
+These inhibitors, including darunavir and two experimental protease inhibitors, blocked protease dimerization at concentrations of as low as 0.01 microm and blocked HIV-1 replication with IC(50) values of 0.0002-0.48 microm.
+These agents also inhibited the proteolytic activity of mature protease.
+Other approved anti-HIV-1 agents examined except tipranavir, a CCR5 inhibitor, and soluble CD4 failed to block the dimerization event.
+Once protease monomers dimerize to become mature protease, mature protease is not dissociated by this dimerization inhibition mechanism, suggesting that these agents block dimerization at the nascent stage of protease maturation.
+The proteolytic activity of mature protease that managed to undergo dimerization despite the presence of these agents is likely to be inhibited by the same agents acting as conventional protease inhibitors.
+Such a dual inhibition mechanism should lead to highly potent inhibition of HIV-1.

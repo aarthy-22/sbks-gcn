@@ -1,0 +1,26 @@
+T15	CHEMICAL 0 8	Estrogen
+T8	CHEMICAL 353 366	dexamethasone
+T9	CHEMICAL 503 512	phosphate
+T18	GENE-Y 503 580	phosphate-regulating gene with homology to endopeptidases on the X chromosome
+T19	GENE-Y 582 586	PHEX
+T20	GENE-Y 592 629	sclerosteosis/van Buchem disease gene
+T21	GENE-Y 631 635	SOST
+T10	CHEMICAL 652 665	dexamethasone
+T22	GENE-Y 724 747	glucocorticoid receptor
+T11	CHEMICAL 760 772	mifepristone
+T12	CHEMICAL 774 779	RU486
+T13	CHEMICAL 793 806	dexamethasone
+T23	GENE-Y 871 894	glucocorticoid receptor
+T24	GENE-Y 937 961	glucocorticoid receptors
+T14	CHEMICAL 1056 1069	dexamethasone
+T1	CHEMICAL 1083 1091	estrogen
+T16	GENE-Y 1102 1125	glucocorticoid receptor
+T2	CHEMICAL 1305 1313	estrogen
+T3	CHEMICAL 1337 1348	ICI 182,780
+T4	CHEMICAL 1359 1367	estrogen
+T5	CHEMICAL 1399 1412	dexamethasone
+T17	GENE-Y 1438 1462	glucocorticoid receptors
+T6	CHEMICAL 1551 1559	estrogen
+T7	CHEMICAL 1746 1754	estrogen
+R0	NOT Arg1:T12 Arg2:T23
+R1	NOT Arg1:T1 Arg2:T16

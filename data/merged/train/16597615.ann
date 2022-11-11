@@ -1,0 +1,17 @@
+T3	CHEMICAL 774 780	oxygen
+T4	CHEMICAL 876 895	25-hydroxyvitamin D
+T8	GENE-Y 876 909	25-hydroxyvitamin D 1-hydroxylase
+T9	GENE-Y 911 918	Cyp27b1
+T5	CHEMICAL 924 934	l-pyruvate
+T10	GENE-Y 924 941	l-pyruvate kinase
+T11	GENE-Y 943 947	Pklr
+T12	GENE-Y 998 1009	fibronectin
+T13	GENE-Y 1011 1014	Fn1
+T14	GENE-Y 1020 1030	N-cadherin
+T15	GENE-Y 1032 1036	Cdh2
+T16	GENE-N 1043 1065	non-muscle-type myosin
+T17	GENE-Y 1102 1110	myogenin
+T6	GENE-N 1232 1251	muscle-type myosins
+T1	CHEMICAL 1285 1294	phosphate
+T7	GENE-Y 1328 1335	Slc16a7
+T2	CHEMICAL 1645 1651	oxygen

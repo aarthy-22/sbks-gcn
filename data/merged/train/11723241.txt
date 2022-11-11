@@ -1,0 +1,12 @@
+Molecular determinants of inactivation and dofetilide block in ether a-go-go (EAG) channels and EAG-related K(+) channels.
+The major subunit of the cardiac delayed rectifier current I(Kr) is encoded by the human ether a-go-go related gene (HERG).
+HERG/I(Kr) channels are blocked selectively by class III antiarrhythmic methanesulfonanilide drugs such as dofetilide.
+The binding site for methanesulfonanilides is believed to be similar for nonantiarrhythmic drugs such as antihistamines, antibiotics, and antipsychotics.
+To gain further insight into the binding site, we examined the minimal structural changes necessary to transform low-affinity binding of dofetilide by the related bovine ether a-go-go channel bEAG to high-affinity binding of HERG.
+Previously, it was shown that high-affinity binding in HERG required intact C-type inactivation; the bovine ether a-go-go K(+) channel (bEAG), unlike HERG, is noninactivating.
+Therefore, we introduced C-type inactivation into noninactivating bEAG using site-directed mutagenesis.
+Two point mutations in the pore region, T432S and A443S, were sufficient to produce C-type inactivation.
+Low concentrations of dofetilide produced block of bEAG T432S/A443S; unlike HERG, block was almost irreversible.
+Substitution of an additional amino acid in transmembrane domain S6 made the block reversible.
+Dofetilide blocked the triply mutated bEAG T432S/A443S/A453S with an IC(50) value of 1.1 microM. The blocking potency was 30-fold greater than bEAG WT and about one third that of HERG WT.
+We conclude that high affinity methanesulfonanilide binding to HERG channels is strongly dependent on C-type inactivation.

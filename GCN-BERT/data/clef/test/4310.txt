@@ -1,0 +1,2 @@
+Step 6. 7-Bromo-2-(trifluoromethyl)imidazo[1,2-f][1,2,4]triazin-4-amine
+A suspension of 7-bromo-4-chloro-2-(trifluoromethyl)imidazo[2,1-f][1,2,4]triazine (2.0 g, 6.6 mmol) in ammonium hydroxide (23 mL, 330 mmol, 14.8 M NH4OH) was heated to 80° C. in oil bath for 45 minutes. Upon cooling to room temperature, water was added and the mixture was extracted with EtOAc (3×). The combined organic extracts were dried over Na2SO4, filtered and concentrated to afford an off-white solid (1.7 g, 92%). LCMS for C6H4BrF3N5 (M+H)+: calculated m/z=282.0, 284.0; found 282.0, 284.0.

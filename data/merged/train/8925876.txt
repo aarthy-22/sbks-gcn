@@ -1,0 +1,6 @@
+In functional experiments, risperidone is selective, not for the B, but for the A subtype of alpha 1-adrenoceptors.
+The potency of the antipsychotic drug, risperidone, to antagonize alpha 1A-adrenoceptor-mediated contraction in rat vas deferens and vasoconstriction in rat perfused kidney, and alpha 1B-adrenoceptor-mediated contractions in spleen from guinea-pig and mouse was evaluated and compared to that of alpha 1-adrenoceptor subtype-discriminating antagonists.
+Prazosin was found to be unselective; 2-(2,6-dimethoxyphenoxyethyl)aminomethyl-1,4-benzodioxane (WB 4101), 5-methyl-urapidil, indoramin and (+)-niguldipine were confirmed as selective for the alpha 1A-adrenoceptor, whereas spiperone was weakly alpha 1B-selective.
+Risperidone was equipotent to prazosin at alpha 1A-adrenoceptors in rat vas deferens and kidney.
+However, at guinea-pig and mouse splenic alpha 1B-adrenoceptors, the affinity values of risperidone were 10-fold lower than those of prazosin.
+Thus, in functional experiments the presumed high selectivity of risperidone for the B subtype of alpha 1-adrenoceptors could not be confirmed, the drug instead appears to be moderately selective (10-fold) for the A subtype.

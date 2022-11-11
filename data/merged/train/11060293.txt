@@ -1,0 +1,16 @@
+The reactive oxygen species--and Michael acceptor-inducible human aldo-keto reductase AKR1C1 reduces the alpha,beta-unsaturated aldehyde 4-hydroxy-2-nonenal to 1,4-dihydroxy-2-nonene.
+The human aldo-keto reductase AKR1C1 (20alpha(3alpha)-hydroxysteroid dehydrogenase) is induced by electrophilic Michael acceptors and reactive oxygen species (ROS) via a presumptive antioxidant response element (Burczynski, M. E., Lin, H. K., and Penning, T. M. (1999) Cancer Res.
+59, 607-614).
+Physiologically, AKR1C1 regulates progesterone action by converting the hormone into its inactive metabolite 20alpha-hydroxyprogesterone, and toxicologically this enzyme activates polycyclic aromatic hydrocarbon trans-dihydrodiols to redox-cycling o-quinones.
+However, the significance of its potent induction by Michael acceptors and oxidative stress is unknown.
+4-Hydroxy-2-nonenal (HNE) and other alpha,beta-unsaturated aldehydes produced during lipid peroxidation were reduced by AKR1C1 with high catalytic efficiency.
+Kinetic studies revealed that AKR1C1 reduced HNE (K(m) = 34 microm, k(cat) = 8.8 min(-1)) with a k(cat)/K(m) similar to that for 20alpha-hydroxysteroids.
+Six other homogeneous recombinant AKRs were examined for their ability to reduce HNE.
+Of these, AKR1C1 possessed one of the highest specific activities and was the only isoform induced by oxidative stress and by agents that deplete glutathione (ethacrynic acid).
+Several hydroxysteroid dehydrogenases of the AKR1C subfamily catalyzed the reduction of HNE with higher activity than aldehyde reductase (AKR1A1).
+NMR spectroscopy identified the product of the NADPH-dependent reduction of HNE as 1,4-dihydroxy-2-nonene.
+The K(m) of recombinant AKR1C1 for nicotinamide cofactors (K(m) NADPH approximately 6 microm, K(m)(app) NADH >6 mm) suggested that it is primed for reductive metabolism of HNE.
+Isoform-specific reverse transcription-polymerase chain reaction showed that exposure of HepG2 cells to HNE resulted in elevated levels of AKR1C1 mRNA.
+Thus, HNE induces its own metabolism via AKR1C1, and this enzyme may play a hitherto unrecognized role in a response mounted to counter oxidative stress.
+AKRs represent alternative GSH-independent/NADPH-dependent routes for the reductive elimination of HNE.
+Of these, AKR1C1 provides an inducible cytosolic barrier to HNE following ROS exposure.

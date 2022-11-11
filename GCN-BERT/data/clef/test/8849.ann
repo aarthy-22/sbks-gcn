@@ -1,0 +1,16 @@
+T1	OTHER_COMPOUND 461 466	brine
+T2	EXAMPLE_LABEL 5 6	2
+T3	TEMPERATURE 359 375	room temperature
+T4	YIELD_OTHER 605 610	3.3 g
+T5	TIME 350 355	12 hr
+T6	STARTING_MATERIAL 115 187	tert-butyl 4-hydroxy-4-((trimethylsilyl)ethynyl)piperidine-1-carboxylate
+T7	OTHER_COMPOUND 420 425	water
+T8	YIELD_PERCENT 612 615	61%
+T9	OTHER_COMPOUND 400 415	dichloromethane
+T10	TEMPERATURE 314 320	−10° C
+T11	REACTION_PRODUCT 589 603	title compound
+T12	OTHER_COMPOUND 489 494	MgSO4
+T13	SOLVENT 205 220	dichloromethane
+T14	REAGENT_CATALYST 245 249	Et3N
+T15	REACTION_PRODUCT 21 97	tert-butyl 4-((trimethylsilyl)ethynyl)-3,6-dihydropyridine-1(2H)-carboxylate
+T16	REAGENT_CATALYST 270 294	methanesulfonyl chloride

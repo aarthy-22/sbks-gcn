@@ -1,0 +1,27 @@
+Long acting beta-agonists versus theophylline for maintenance treatment of asthma.
+BACKGROUND: Theophylline and long acting beta2-agonists are bronchodilators used for the management of persistent asthma symptoms, especially nocturnal asthma.
+They represent different classes of drug with differing side-effect profiles.
+OBJECTIVES: To assess the comparative efficacy, safety and side-effects of long-acting beta-agonists and theophylline in the maintenance treatment of asthma.
+SEARCH STRATEGY: Randomised, controlled trials (RCTs) were identified using the Cochrane Airways Group register.
+The register was searched using the following terms: asthma and theophylline and long acting beta-agonist or formoterol or foradile or eformoterol or salmeterol or bambuterol or bitolterol.
+Titles and abstracts were then screened to identify potentially relevant studies.
+The bibliography of each RCT was searched for additional RCTs.
+Authors of identified RCTs were contacted for other relevant published and unpublished studies.
+SELECTION CRITERIA: All included studies were RCTs involving adults and children with clinical evidence of asthma.
+These studies must have compared oral sustained release and/or dose adjusted theophylline with an inhaled long-acting beta-agonist.
+DATA COLLECTION AND ANALYSIS: Potentially relevant trials, identified by screening titles and/or abstracts, were obtained.
+Two reviewers independently assessed full text versions of these trials to decided whether the trial should be included in the review, and assessed its methodological quality.
+Where there was disagreement between reviewers, this was resolved by consensus, or reference to a third party.
+Data were extracted by two independent reviewers.
+Inter-rater reliability was assessed by simple agreement.
+Study authors were contacted to clarify randomisation methods, provide missing data, verify the data extracted and identify unpublished studies.
+Relevant pharmaceutical manufacturers were also contacted.
+MAIN RESULTS: Six trials met the inclusion criteria.
+Five used salmeterol and one, biltoterol.
+They were of varying quality.
+There was a trend for salmeterol to improve FEV1 more than theophylline in three studies and salmeterol use was associated with more symptom free nights.
+Bitolterol, used in only one study, was reported to be less effective than theophylline.
+Subjects taking salmeterol experienced fewer adverse events than those using theophylline (Relative Risk 0.38; 95%Confidence Intervals 0.25, 0.57).
+Significant reductions were reported for central nervous system adverse events (Relative Risk 0.51; 95%Confidence Intervals 0.30, 0.88) and gastrointestinal adverse events (Relative Risk 0.32; 95%Confidence Intervals 0.17, 0.59).
+REVIEWER'S CONCLUSIONS: Salmeterol may be more effective than theophylline in reducing asthma symptoms including night waking and improving lung function.
+More adverse events occurred in subjects using theophylline when compared to salmeterol.

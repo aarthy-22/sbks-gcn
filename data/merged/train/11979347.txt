@@ -1,0 +1,16 @@
+Methylenetetrahydrofolate reductase genotype, vitamin B12, and folate influence plasma homocysteine in hemodialysis patients.
+Hyperhomocysteinemia, a well-recognized cardiovascular risk factor, is frequent in hemodialysis (HD) patients.
+A common polymorphism in the 5,10-methylenetetrahydrofolate reductase (MTHFR) gene, C-->T substitution at nucleotide 677, is associated with homocysteine (Hcy) level elevation.
+We examined whether three factors involved in the methionine cycle could influence plasma Hcy concentrations in HD patients: MTHFR polymorphism; vitamin B12, an essential cofactor; and folate, the substrate.
+In a cross-sectional study, serum vitamin B12, folate, and plasma Hcy were measured and MTHFR genotyping was performed in 534 HD patients.
+Effects of MTHFR genotypes, vitamin B12, and folate on plasma Hcy levels were examined in 450 HD patients not administered vitamin B12 or folate.
+To examine the effect of vitamin B12 on plasma Hcy concentrations, we compared plasma Hcy concentrations in HD patients with and without vitamin B12 supplementation.
+To examine whether functional vitamin B12 deficiency exists even in HD patients with normal vitamin B12 concentrations, 15 HD patients (serum vitamin B12 concentrations, 250 to 2,100 pg/mL) were treated with vitamin B12 (mecobalamin, 1.5 mg/d) for 8 weeks.
+Serum concentrations of methylmalonic acid (MMA) and vitamin B12 were measured.
+Hcy levels were higher and folate levels were lower in patients with the TT and CT genotypes compared with patients with the CC genotype.
+Analysis of covariance to determine independent predictors of high Hcy levels identified low serum vitamin B12 and folate levels and high albumin (Alb) levels in CC-genotype patients, low folate levels and high Alb levels in CT-genotype patients, and low folate levels in TT-genotype patients.
+Plasma Hcy levels were lower in CC- and CT-genotype patients with vitamin B12 supplementation than in those without supplementation.
+Vitamin B12 supplementation for 8 weeks significantly reduced MMA concentrations in HD patients with normal serum vitamin B12 concentrations.
+These results indicate that MTHFR genotype influences the correlation of Hcy level with vitamin B12 and folate levels in HD patients.
+Functional vitamin B12 deficiency may exist, even in HD patients with normal vitamin B12 concentrations.
+The efficacy of vitamin B12 and folate supplementation on plasma Hcy levels may depend on MTHFR genotype.

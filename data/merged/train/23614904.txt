@@ -1,0 +1,10 @@
+Bile Acid and Sterol Metabolism with Combined HMGCoA Reductase and PCSK9 Suppression.
+PCSK9 inhibition markedly augments the LDL lowering action of statins.
+The combination is being evaluated for long-term effects on atherosclerotic disease outcomes.
+However, effects of combined treatment on hepatic cholesterol and bile acid metabolism have not yet been reported.
+To study this, PCSK9-Y119X mutant (knockout) and wild type mice were treated ± atorvastatin for 12 wks.
+Atorvastatin progressively lowered plasma LDL in each group, but no differences in liver cholesterol, cholesterol ester, or total bile acid concentrations, or in plasma total bile acid levels were seen.
+In contrast, atorvastatin increased fecal total bile acids (~2-fold, P<0.01) and cholesterol concentrations (~3-fold, P<0.01) vs. controls for both PCSK9-Y119X and wild type mice.
+All 14 individual bile acids resolved by LC-MS, including primary, secondary, and conjugated species, reflected similar increases.
+Expression of key liver bile acid synthesis genes CYP7A1 and CYP8B1 were ~2.5-fold higher with atorvastatin in both strains, but mRNA for liver bile acid export and reuptake transporters and conjugating enzymes were not unaffected.
+The data suggest that hepatocyte cholesterol and bile acid homeostasis is maintained with combined PCSK9 and HMGCoA reductase inhibition through efficient liver enzymatic conversion of LDL-derived cholesterol into bile acids and excretion of both, with undisturbed enterohepatic recycling.

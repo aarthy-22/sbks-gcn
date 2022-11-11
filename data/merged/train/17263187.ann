@@ -1,0 +1,20 @@
+T18	GENE-Y 14 38	type-2 chloride channels
+T13	CHEMICAL 21 29	chloride
+T2	CHEMICAL 317 326	lactulose
+T3	CHEMICAL 331 340	tegaserod
+T4	CHEMICAL 344 353	serotonin
+T14	GENE-Y 344 369	serotonin type 4 receptor
+T5	CHEMICAL 415 427	lubiprostone
+T6	CHEMICAL 429 436	Amitiza
+T15	GENE-Y 441 464	type-2 chloride channel
+T7	CHEMICAL 448 456	chloride
+T16	GENE-Y 466 471	ClC-2
+T8	CHEMICAL 549 561	Lubiprostone
+T9	CHEMICAL 567 586	bicyclic fatty acid
+T17	GENE-Y 608 622	ClC-2 channels
+T10	CHEMICAL 706 714	chloride
+T11	CHEMICAL 757 763	sodium
+T12	CHEMICAL 939 951	lubiprostone
+T1	CHEMICAL 1118 1130	Lubiprostone
+R0	CPR-3 Arg1:T5 Arg2:T16
+R1	NOT Arg1:T9 Arg2:T17

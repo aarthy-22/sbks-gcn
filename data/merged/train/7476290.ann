@@ -1,0 +1,20 @@
+T18	GENE-Y 12 19	insulin
+T19	GENE-Y 24 61	insulin-like growth factor-I receptor
+T3	CHEMICAL 62 70	tyrosine
+T20	GENE-N 62 77	tyrosine kinase
+T13	GENE-Y 168 175	insulin
+T8	GENE-Y 392 399	insulin
+T9	GENE-Y 404 432	insulin-like growth factor-I
+T10	GENE-Y 434 439	IGF-I
+T11	GENE-N 497 521	receptor tyrosine kinase
+T2	CHEMICAL 506 514	tyrosine
+T12	GENE-Y 629 636	Insulin
+T14	GENE-Y 728 733	IGF-I
+T15	GENE-Y 891 907	Insulin receptor
+T16	GENE-Y 1026 1033	insulin
+T17	GENE-Y 1066 1071	IGF-I
+T4	GENE-Y 1198 1213	IGF-I receptors
+T5	GENE-N 1270 1294	receptor tyrosine kinase
+T1	CHEMICAL 1279 1287	tyrosine
+T6	GENE-Y 1330 1346	insulin receptor
+T7	GENE-Y 1439 1446	insulin

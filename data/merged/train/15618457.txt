@@ -1,0 +1,11 @@
+Activation of PI3K-Akt pathway mediates antiapoptotic effects of beta-adrenergic agonist in airway eosinophils.
+beta-Adrenoceptor agonists reportedly decrease spontaneous apoptosis of peripheral blood eosinophils; however, its signaling pathway is unknown.
+Survival signals can be elicited by the activation of phosphatidylinositol 3-kinase (PI3K) and Akt, both of which are known to be potent regulators of apoptosis, and Akt in turn inactivates Forkhead transcription factors, including FKHR (Forkhead in rhabdomyosarcoma).
+We have investigated the effect of beta-agonists on apoptosis of local eosinophils isolated from the airways and the involvement of PI3K, Akt, and FKHR in its survival signal.
+Eosinophils obtained from immunized mice by bronchoalveolar lavage after allergen provocation underwent apoptosis in a time-dependent manner.
+Incubation of eosinophils with isoproterenol or formoterol dose-dependently inhibited both spontaneous eosinophil apoptosis and apoptosis induced by Fas receptor activation.
+Incubation with cAMP or forskolin also inhibited eosinophil apoptosis.
+The PI3K inhibitors wortmannin and LY-294002 and an Akt inhibitor, 1-L-6-hydroxymethyl-chiro-inositol 2-(R)-2-O-methyl-3-O-octadecylcarbonate, but not a mitogen-activated protein kinase kinase inhibitor PD-98059, blocked isoproterenol-mediated eosinophil survival.
+Wortmannin also inhibited cAMP-mediated eosinophil survival.
+Isoproterenol rapidly induced phosphorylation of Akt and FKHR in eosinophils in a PI3K-dependent manner.
+These findings indicate that the PI3K-Akt-FKHR pathway conveys a critical survival signal induced by beta-agonists in airway eosinophils.

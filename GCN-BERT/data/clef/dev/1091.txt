@@ -1,0 +1,2 @@
+(9) Preparation of tert-butyl 3-((2S,5R)-6-hydroxyl-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxamido)-8-azabicyclo[3.2. 1]octane-8-carboxylate
+Tert-butyl 3-((2S,5R)-6-(benzyloxy)-7-oxo-1,6-diazabicyclo[3.2.1]octane-2-carboxamido)-8-azabicyclo[ 3.2.1]octane-8-carboxylate (0.4 g, 0.82 mmol) was dissolved in methanol (10 mL), and Pd/C (50 mg) was added. The reaction solution was stirred and reacted under compressed hydrogen gas at 25 °C for 6 h, filtrated, and the filtrate was concentrated in vacuum to obtain the title compound (0.3 g, yield 93.8 %).

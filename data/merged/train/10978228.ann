@@ -1,0 +1,11 @@
+T5	CHEMICAL 11 21	pyridoxine
+T1	CHEMICAL 66 76	Pyridoxine
+T2	CHEMICAL 229 253	pyridoxine hydrochloride
+T3	CHEMICAL 327 348	pyridoxal 5-phosphate
+T4	CHEMICAL 352 365	glutamic acid
+T6	GENE-N 352 378	glutamic acid decarboxylas
+T7	GENE-N 381 384	GAD
+T8	GENE-Y 577 581	GAD1
+T9	GENE-Y 593 597	GAD2
+R0	CPR-2 Arg1:T3 Arg2:T6
+R1	NOT Arg1:T4 Arg2:T7

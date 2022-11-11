@@ -1,0 +1,8 @@
+Molecular cloning and functional expression of the guinea pig alpha(1a)-adrenoceptor.
+In the present paper, the cloning and expression of the guinea pig alpha(1A)-adrenoceptor is presented.
+The nucleotide sequence had an open reading frame of 1401 bp that encoded a 466 amino-acid protein with an estimated molecular mass of approximately 51.5 kDa.
+When the clone was expressed in Cos-1 cells, specific high-affinity binding of [(3)H]prazosin and [(3)H]tamsulosin was observed.
+Chloroethylclonidine treatment of membranes slightly decreased the total binding with both radioligands.
+Binding competition experiments using [(3)H]tamsulosin showed the following potency order: (a) for agonists: oxymetazoline >>epinephrine>norepinephrine>methoxamine, and (b) for antagonists: prazosin> or 5-methyl-urapidil=benoxathian>phentolamine>>BMY 7378 (8-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-8-azaspiro[4,5]decane-7,9-dione).
+Photoaffinity labeling using [(125)I-aryl]azido-prazosin revealed a major broad band with a molecular mass between 70 and 80 kDa.
+The receptor was functional, as evidenced by an epinephrine-increased production of [(3)H]inositol phosphates that was blocked by prazosin.

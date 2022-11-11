@@ -1,0 +1,30 @@
+T20	CHEMICAL 0 8	Abarelix
+T21	CHEMICAL 19 50	gonadotrophin-releasing hormone
+T30	GENE-Y 19 50	gonadotrophin-releasing hormone
+T22	GENE-Y 187 224	Luteinizing hormone-releasing hormone
+T23	GENE-Y 226 230	LHRH
+T5	CHEMICAL 250 259	buserelin
+T6	CHEMICAL 261 270	goserelin
+T7	CHEMICAL 272 283	leuprorelin
+T8	CHEMICAL 288 299	triptorelin
+T24	GENE-Y 327 374	gonadotrophin-releasing hormone (GnRH) receptor
+T9	CHEMICAL 327 358	gonadotrophin-releasing hormone
+T10	CHEMICAL 360 364	GnRH
+T25	GENE-N 447 449	LH
+T11	CHEMICAL 454 466	testosterone
+T26	GENE-N 557 559	LH
+T12	CHEMICAL 564 576	testosterone
+T13	CHEMICAL 736 740	GnRH
+T27	GENE-Y 736 740	GnRH
+T14	CHEMICAL 774 782	abarelix
+T15	CHEMICAL 787 796	degarelix
+T16	CHEMICAL 843 847	GnRH
+T28	GENE-Y 843 856	GnRH receptor
+T17	CHEMICAL 891 903	testosterone
+T18	CHEMICAL 911 919	Abarelix
+T19	CHEMICAL 934 938	GnRH
+T29	GENE-Y 934 938	GnRH
+T1	CHEMICAL 1151 1159	androgen
+T2	CHEMICAL 1208 1216	abarelix
+T3	CHEMICAL 1221 1230	degarelix
+T4	CHEMICAL 1291 1303	testosterone

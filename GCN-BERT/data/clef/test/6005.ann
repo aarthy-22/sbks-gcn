@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	OTHER_COMPOUND 387 394	aqueous
+T3	OTHER_COMPOUND 395 413	sodium bicarbonate
+T4	OTHER_COMPOUND 450 465	dichloromethane
+T5	TEMPERATURE 309 325	room temperature
+T6	REACTION_PRODUCT 684 732	3-(1-methyl-4-pyrazolyl)-propyl methanesulfonate
+T7	STARTING_MATERIAL 194 218	Methanesulfonyl chloride
+T8	OTHER_COMPOUND 535 550	sodium chloride
+T9	REAGENT_CATALYST 118 131	triethylamine
+T10	SOLVENT 170 185	dichloromethane
+T11	TIME 342 349	2 hours
+T12	OTHER_COMPOUND 594 608	sodium sulfate
+T13	YIELD_PERCENT 776 779	69%
+T14	REACTION_PRODUCT 7 55	3-(1-Methyl-4-pyrazolyl)-propyl methanesulfonate
+T15	TEMPERATURE 252 255	0°C
+T16	YIELD_OTHER 734 741	90.0 mg
+T17	STARTING_MATERIAL 56 91	3-(1-Methyl-4-pyrazolyl)-1-propanol

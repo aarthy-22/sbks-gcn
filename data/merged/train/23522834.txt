@@ -1,0 +1,4 @@
+Design and synthesis of highly selective, orally active Polo-like kinase-2 (Plk-2) inhibitors.
+Polo-like kinase-2 (Plk-2) is a potential therapeutic target for Parkinson's disease and this Letter describes the SAR of a series of dihydropteridinone based Plk-2 inhibitors.
+By optimizing both the N-8 substituent and the biaryl region of the inhibitors we obtained single digit nanomolar compounds such as 37 with excellent selectivity for Plk-2 over Plk-1.
+When dosed orally in rats, compound 37 demonstrated a 41-45% reduction of pS129-α-synuclein levels in the cerebral cortex.

@@ -1,0 +1,13 @@
+The effects of tamsulosin, a high affinity antagonist at functional alpha 1A- and alpha 1D-adrenoceptor subtypes.
+1.
+The actions of the alpha 1-adrenoceptor antagonist tamsulosin have been examined at functional alpha 1-adrenoceptor subtypes and compared with those at the human prostate receptor.
+2.
+At the alpha 1D-adrenoceptors of the rat aorta, tamsulosin acted as a competitive antagonist with a high affinity (pKB = 10.1).
+3.
+At the alpha 1B-adrenoceptor of the rat spleen and rabbit corpus cavernosum penis, tamsulosin again acted as a competitive antagonist but with a significantly lower affinity (pKB = 8.9-9.2).
+4.
+Tamsulosin acted as an unsurmountable antagonist of the alpha 1A-adrenoceptor-mediated responses of the rat and human vas deferens, reducing maximal responses to phenylephrine by 20% and 50%, respectively, at an antagonist concentration of 1 nM. Responses of depolarized (100 mM KCl) rat vas deferens preparations were unaffected by 10 nM tamsulosin but this concentration reduced maximal responses to 5-hydroxytryptamine (5-HT) in this tissue.
+5. When longer antagonist incubation periods (> or = 60 min) were used, tamsulosin behaved as a competitive antagonist on the human prostate with a significantly higher affinity (pKB = 10.0) than obtained at the alpha 1B-adrenoceptor.
+6.
+The data demonstrate that tamsulosin is a high affinity antagonist at functional alpha 1-adrenoceptors with a selectivity alpha 1D > or = alpha 1A > alpha 1B.
+In some tissues the compound exhibits an additional unsurmountable antagonist action, the clinical significance of which is unknown.

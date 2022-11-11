@@ -1,0 +1,2 @@
+Step 2: Preparation of 5-(piperazine-1-yl)-1H-imidazo[4,5-b]pyridin-2(3H)-one
+Analogous to the process for preparing Compound d in Step 4 in Example 1, Compound m was deprotected by reacting with trifluoroacetic acid to produce Compound n: 5-(piperazine-1-yl)-1H-imidazo[4,5-b]pyridin-2(3H)-one (331 mg, yield 79%). MS(ESI)m/z: [M+H]+=220.

@@ -1,0 +1,8 @@
+A DPYD Variant (Y186C) in Individuals of African Ancestry Is Associated With Reduced DPD Enzyme Activity.
+5-Fluorouracil (5-FU) is used to treat many aggressive cancers, such as those of the colon, breast, and head and neck.
+The responses to 5-FU, with respect to both toxicity and efficacy, vary among racial groups, potentially because of variability in the activity levels of the enzyme dihydropyrimidine dehydrogenase (DPD, encoded by the DPYD gene).
+In this study, the genetic associations between DPYD variations and circulating mononuclear-cell DPD enzyme activity were evaluated in 94 African-American and 81 European-American volunteers.
+The DPYD-Y186C variant was unique to individuals of African ancestry, and DPD activity was 46% lower in carriers as compared with noncarriers (279 ± 35 vs. 514 ± 168 pmol 5-FU min(-1) mg(-1); P = 0.00029).
+In this study, 26% of the African Americans with reduced DPD activity were carriers of Y186C.
+In the African-American cohort, after excluding Y186C carriers, homozygous carriers of C29R showed 27% higher DPD activity as compared with noncarriers (609 ± 152 and 480 ± 152 pmol 5-FU min(-1) mg(-1), respectively; P = 0.013).Clinical Pharmacology & Therapeutics (2013); advance online publication 1 May 2013.
+doi:10.1038/clpt.2013.69.

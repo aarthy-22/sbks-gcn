@@ -1,0 +1,12 @@
+The selectivity of beta-adrenoceptor antagonists at the human beta1, beta2 and beta3 adrenoceptors.
+Beta-adrenoceptor antagonists ("beta-blockers") are one of the most widely used classes of drugs in cardiovascular medicine (hypertension, ischaemic heart disease and increasingly in heart failure) as well as in the management of anxiety, migraine and glaucoma.
+Where known, the mode of action in cardiovascular disease is from antagonism of endogenous catecholamine responses in the heart (mainly at beta1-adrenoceptors), while the worrisome side effects of bronchospasm result from airway beta2-adrenoceptor blockade.
+The aim of this study was to determine the selectivity of beta-antagonists for the human beta-adrenoceptor subtypes.
+(3)H-CGP 12177 whole cell-binding studies were undertaken in CHO cell lines stably expressing either the human beta1-, beta2- or the beta3-adrenoceptor in order to determine the affinity of ligands for each receptor subtype in the same cell background.
+In this study, the selectivity of well-known subtype-selective ligands was clearly demonstrated: thus, the selective beta1 antagonist CGP 20712A was 501-fold selective over beta2 and 4169-fold selective over beta3; the beta2-selective antagonist ICI 118551 was 550- and 661-fold selective over beta1 and beta3, respectively, and the selective beta3 compound CL 316243 was 10-fold selective over beta2 and more than 129-fold selective over beta1.
+Those beta2-adrenoceptor agonists used clinically for the treatment of asthma and COPD were beta2 selective: 29-, 61- and 2818-fold for salbutamol, terbutaline and salmeterol over beta1, respectively.
+There was little difference in the affinity of these ligands between beta1 and beta3 adrenoceptors.
+The clinically used beta-antagonists studied ranged from bisoprolol (14-fold beta1-selective) to timolol (26-fold beta2-selective).
+However, the majority showed little selectivity for the beta1- over the beta2-adrenoceptor, with many actually being more beta2-selective.
+This study shows that the beta1/beta2 selectivity of most clinically used beta-blockers is poor in intact cells, and that some compounds that are traditionally classed as "beta1-selective" actually have higher affinity for the beta2-adrenoceptor.
+There is therefore considerable potential for developing more selective beta-antagonists for clinical use and thereby reducing the side-effect profile of beta-blockers.

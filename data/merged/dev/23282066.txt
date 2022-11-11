@@ -1,0 +1,10 @@
+Evaluation of animal models for intestinal first-pass metabolism of drug candidates to be metabolized by CYP3A enzymes via in vivo and in vitro oxidation of midazolam and triazolam.
+Abstract 1.
+To search an appropriate evaluation methodology for the intestinal first-pass metabolism of new drug candidates, grapefruit juice (GFJ)- and vehicle (tap water)-pretreated mice or rats were orally administered midazolam (MDZ) or triazolam (TRZ), and blood levels of the parent compounds and their metabolites were measured by liquid chromatography/MS/MS.
+A significant effect of GFJ to elevate the blood levels was observed only for TRZ in mice.
+2. In vitro experiments using mouse, rat and human intestinal and hepatic microsomal fractions demonstrated that GFJ suppressed the intestinal microsomal oxidation of MDZ and especially TRZ.
+Substrate inhibition by MDZ caused reduction in 1'-hydroxylation but not 4-hydroxylation in both intestinal and hepatic microsomal fractions.
+The kinetic profiles of MDZ oxidation and the substrate inhibition in mouse intestinal and hepatic microsomal fractions were very similar to those in human microsomes but were different from those in rat microsomes.
+Furthermore, MDZ caused mechanism-based inactivation of cytochrome P450 3A-dependent TRZ 1'-hydroxylation in mouse, rat and human intestinal microsomes with similar potencies.
+3.
+These results are useful information in the analysis of data obtained in mouse and rat for the evaluation of first-pass effects of drug candidates to be metabolized by CYP3A enzymes.

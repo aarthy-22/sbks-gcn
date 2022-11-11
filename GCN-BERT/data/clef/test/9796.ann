@@ -1,0 +1,8 @@
+T1	EXAMPLE_LABEL 18 20	15
+T2	REACTION_PRODUCT 21 109	5-Ethyl-N-[4-(2-furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]pyridine-3-carboxamide
+T3	REACTION_PRODUCT 121 123	IR
+T4	REACTION_PRODUCT 192 194	IR
+T5	YIELD_OTHER 197 203	145 mg
+T6	YIELD_PERCENT 205 208	65%
+T7	STARTING_MATERIAL 246 305	2-amino-4-(2-furyl)thiazol-5-yl=tetrahydropyran-4-yl=ketone
+T8	STARTING_MATERIAL 358 379	5-ethylnicotinic acid

@@ -1,0 +1,11 @@
+Dual inhibitor of PDE7 and GSK-3-VP1.15 acts as antipsychotic and cognitive enhancer in C57BL/6J mice.
+Cognitive deficit is a core of schizophrenia and it is not effectively treated by the available antipsychotic drugs, hence new and more effective therapy is needed.
+Schizophrenia is considered as a pathway disorder where Disrupted-In-Schizophrenia-1 (DISC1) is important molecular player that regulates multiple cellular cascades.
+We recently reported synergistic action between phosphodiesterase-4 (PDE4) and glycogen synthase kinase-3 (GSK-3) as DISC1 interacting proteins.
+In the current study we characterized behavioural effects of a newly developed compound, VP1.15 that inhibits both PDE7 and GSK-3 with main focus on its antipsychotic and cognitive capacities.
+VP1.15 reduced ambulation in C57BL/6J mice in a dose-dependent manner (7.5 mg/kg and 3 mg/kg, respectively) and, hence, lower dose was chosen for the further analysis.
+VP1.1.5 facilitated pre-pulse inhibition (PPI), reversed amphetamine- but not MK-801-induced PPI deficit.
+The drug was able to ameliorate the disrupted latent inhibition (LI) induced by the increased number of conditioning trials and reversed amphetamine-induced LI deficit, supporting further its antipsychotic effects.
+The drug also significantly improved episodic memory in the spatial object recognition test, facilitated working memory in Y-maze and enhanced cued fear memory, but had no effect on executive function in the Puzzle box and contextual fear conditioning.
+Taken together, VP1.15 elicited antipsychotic effects and also facilitated cognitive domains in mice, suggesting that multitarget drugs, affecting molecular substrates from the same pathway, perhaps could be antipsychotics of new-generation that open a new possibilities in drug discoveries.
+This article is part of a Special Issue entitled 'Cognitive Enhancers'.

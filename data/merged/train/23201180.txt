@@ -1,0 +1,9 @@
+Fenamiphos is recalcitrant to the hydrolysis by alloforms PON1 Q192R of human serum.
+Fenamiphos (ethyl 4-methylthio-m-tolyl isopropylphosphoramidate) is a racemic organophosphorus nematicide widely used in agriculture around the world.
+The paraoxonase 1 from human serum (PON1) is a phosphotriesterase (PTE) that hydrolyses several xenobiotics including drugs and organophosphorus compounds (OPs).
+In this work, the separation of the enantiomers of fenamiphos by HPLC using the column CHIRALCEL OJ and a mobile phase of hexane/ethanol (99/1) is presented.
+A liquid-liquid extraction method was implemented for the characterization of commercial nematicide hydrolysis by PON1 Q192R alloforms of human serum from children and adults.
+The results show a recovery of 94% for each isomer from the biological matrix.
+The method resulted linear response in a range concentration between 50 and 800μM with a detection and quantification limit between 0.6 and 2μM for the (+)-fenamiphos, and between 0.7 and 2.3μM for the (-)-fenamiphos.
+The levels of the Ca(2+)-dependent hydrolysis (residual concentration [μM]) quantified during 30min of reaction were only just 4-14% for both fenamiphos enantiomers with the three alloforms of PON1 Q192R of the two groups of serum studied.
+These results demonstrate that human serum PON1 is could be involved in the detoxification of a limited number of organophosphorus insecticides.

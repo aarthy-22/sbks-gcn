@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 8 9	8
+T2	REACTION_PRODUCT 10 102	1-((2,4-Dioxo-1,3-diazaspiro[4,5]decane-8-yl)methyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
+T3	STARTING_MATERIAL 103 170	3,7-Dimethyl-1-((4-oxocyclohexyl)methyl)-1H-purine-2,6(3H,7H)-dione
+T4	REAGENT_CATALYST 196 214	ammonium carbonate
+T5	SOLVENT 255 262	ethanol
+T6	SOLVENT 263 268	water
+T7	REAGENT_CATALYST 288 302	sodium cyanide
+T8	SOLVENT 328 333	water
+T9	TEMPERATURE 363 379	room temperature
+T10	TEMPERATURE 417 421	50°C
+T11	TIME 426 434	16 hours
+T12	TEMPERATURE 446 462	room temperature
+T13	OTHER_COMPOUND 505 521	sodium carbonate
+T14	OTHER_COMPOUND 581 594	ethyl acetate
+T15	OTHER_COMPOUND 655 669	sodium sulfate
+T16	REACTION_PRODUCT 783 790	product
+T17	REACTION_PRODUCT 791 883	1-((2,4-dioxo-1,3-diazaspiro[4,5]decane-8-yl)methyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
+T18	YIELD_OTHER 885 892	12.0 mg
+T19	YIELD_PERCENT 910 913	10%

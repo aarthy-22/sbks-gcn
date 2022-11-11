@@ -1,0 +1,25 @@
+T18	CHEMICAL 37 49	fluorouracil
+T1	CHEMICAL 69 81	Fluorouracil
+T15	CHEMICAL 137 149	fluorouracil
+T11	CHEMICAL 345 357	fluorouracil
+T12	CHEMICAL 516 527	thymidylate
+T20	GENE-Y 516 536	thymidylate synthase
+T13	CHEMICAL 555 567	fluorouracil
+T14	CHEMICAL 635 652	dihydropyrimidine
+T21	GENE-Y 635 666	dihydropyrimidine dehydrogenase
+T22	GENE-Y 668 671	DPD
+T16	CHEMICAL 778 790	fluorouracil
+T23	GENE-Y 834 837	DPD
+T17	CHEMICAL 911 923	fluorouracil
+T24	GENE-Y 973 976	DPD
+T2	CHEMICAL 1105 1117	fluorouracil
+T3	CHEMICAL 1164 1176	fluorouracil
+T4	CHEMICAL 1350 1362	fluorouracil
+T5	CHEMICAL 1581 1593	fluorouracil
+T6	CHEMICAL 1829 1841	fluorouracil
+T7	CHEMICAL 2052 2064	fluorouracil
+T8	CHEMICAL 2186 2198	fluorouracil
+T19	GENE-Y 2235 2238	DPD
+T9	CHEMICAL 2261 2273	fluorouracil
+T10	CHEMICAL 2330 2342	fluorouracil
+R0	NOT Arg1:T13 Arg2:T22

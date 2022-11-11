@@ -1,0 +1,46 @@
+T24	CHEMICAL 23 34	resveratrol
+T25	CHEMICAL 43 59	ethinylestradiol
+T1	CHEMICAL 87 96	Estrogens
+T12	CHEMICAL 136 152	ethinylestradiol
+T7	CHEMICAL 227 236	bile acid
+T9	CHEMICAL 338 349	resveratrol
+T10	CHEMICAL 351 354	RES
+T11	CHEMICAL 455 458	RES
+T13	CHEMICAL 668 677	bile acid
+T14	CHEMICAL 725 734	bilirubin
+T15	CHEMICAL 815 825	superoxide
+T28	GENE-N 815 835	superoxide dismutase
+T16	CHEMICAL 837 848	glutathione
+T29	GENE-N 837 859	glutathione peroxidase
+T17	CHEMICAL 861 872	glutathione
+T30	GENE-Y 861 882	glutathione reductase
+T31	GENE-Y 888 896	catalase
+T18	CHEMICAL 956 966	sulfhydryl
+T19	CHEMICAL 975 978	RES
+T32	GENE-N 995 1015	alkaline phosphatase
+T20	CHEMICAL 1017 1024	alanine
+T33	GENE-N 1017 1041	alanine aminotransferase
+T34	GENE-Y 1043 1071	pi-glutathione-S-transferase
+T21	CHEMICAL 1046 1057	glutathione
+T22	CHEMICAL 1058 1059	S
+T35	GENE-N 1073 1102	gamma-glutamyl transpeptidase
+T23	CHEMICAL 1079 1087	glutamyl
+T26	GENE-N 1108 1139	alpha-glutathione-S-transferase
+T2	CHEMICAL 1114 1125	glutathione
+T27	GENE-Y 1177 1204	tumor necrosis factor-alpha
+T3	CHEMICAL 1206 1218	nitric oxide
+T4	CHEMICAL 1232 1247	malondialdehyde
+T5	CHEMICAL 1313 1316	RES
+T6	CHEMICAL 1398 1401	RES
+T8	CHEMICAL 1562 1570	estrogen
+R0	NOT Arg1:T28 Arg2:T18
+R1	NOT Arg1:T17 Arg2:T31
+R2	NOT Arg1:T32 Arg2:T21
+R3	NOT Arg1:T32 Arg2:T3
+R4	NOT Arg1:T32 Arg2:T4
+R5	NOT Arg1:T33 Arg2:T21
+R6	NOT Arg1:T33 Arg2:T22
+R7	NOT Arg1:T21 Arg2:T27
+R8	NOT Arg1:T22 Arg2:T35
+R9	NOT Arg1:T22 Arg2:T26
+R10	NOT Arg1:T23 Arg2:T26

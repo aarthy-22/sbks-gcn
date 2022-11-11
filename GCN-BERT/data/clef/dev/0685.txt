@@ -1,0 +1,2 @@
+Synthesis Example 12: Production of Aromatic Amine Derivative (PH12)
+In the same manner as in Synthesis Example 8 except for using 2.11 g of the intermediate 6 in place of the intermediate 21 and using 1.18 g of 2-bromo-9,9-dimethylfluorene in place of bromobenzene, 1.30 g (yield: 49%) of a white solid was obtained, which was identified as the following compound (PH12) by FD-MS analysis: m/z=780 (theoretical value: 780 for C57H36N2O2).

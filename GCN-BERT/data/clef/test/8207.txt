@@ -1,0 +1,3 @@
+Intermediate 5: 5-methylsulfonamidoisoindoline
+Step 1: 1-oxo-5-methylsulfonamidoisoindoline
+To a solution of 5-aminoisoindolin-1-one (444 mg, 3 mmol) in 15 mL pyridine was added methylsulfonyl chloride (378 mg, 3.3 mmol), and stirred at room temperature for 4 hours. After the evaporation of the solvent, 1-oxo-5-methylsulfonamidoisoindoline (610 mg) was obtained by silica gel column chromatography. Yield: 90%. MS m / z [ESI]: 227.0 [M + 1].

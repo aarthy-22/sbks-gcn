@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	STARTING_MATERIAL 256 258	2a
+T3	OTHER_COMPOUND 526 536	silica gel
+T4	YIELD_OTHER 685 691	3.12 g
+T5	SOLVENT 294 298	MeOH
+T6	REACTION_PRODUCT 579 678	1-tert-butyl ester 2-methyl ester (2S,4S,5S)-5-allyloxyamino-4-hydroxy-piperidine-1,2-dicarboxylate
+T7	STARTING_MATERIAL 340 360	O-allylhydroxylamine
+T8	STARTING_MATERIAL 158 254	4-tert-butyl ester 3-methyl ester (1R,4S,6S)-7-oxa-3-aza-bicyclo[4.1.0]heptane-3,4-dicarboxylate
+T9	TEMPERATURE 444 448	80°C
+T10	YIELD_OTHER 693 702	9.44 mmol
+T11	YIELD_PERCENT 704 707	62%
+T12	OTHER_COMPOUND 538 545	heptane
+T13	TIME 434 440	3 days
+T14	REACTION_PRODUCT 680 682	2b
+T15	OTHER_COMPOUND 546 551	EtOAc
+T16	OTHER_COMPOUND 450 454	MeOH
+T17	REACTION_PRODUCT 137 139	2b
+T18	REACTION_PRODUCT 36 135	1-tert-butyl ester 2-methyl ester (2S,4S,5S)-5-allyloxyamino-4-hydroxy-piperidine-1,2-dicarboxylate

@@ -1,0 +1,15 @@
+The impact of oxidative stress on islet transplantation and monitoring the graft survival by non-invasive imaging.
+Islet transplantation is an attractive strategy to treat severe diabetic conditions in patients suffering from autoimmune derived diabetes, and it has currently been considered a forefront research arena in diabetes.
+Major aim of islet transplantation is to achieve successful insulin independent disease free survival.
+The key challenges in transplanted islets are the generation of reactive oxygen species (ROS) and associated oxidative stress, pro-inflammatory cytokine - (TNFα) mediated apoptotic induction, attack by immune cells, and achieving revascularization with minimal hypoxic microenvironment.
+Free radicals and their derivatives are constantly produced in living systems, but at relatively low level, and in a balanced state.
+Oxidative stress, which occurs as a result of an imbalance between the intracellular free radicals production and the cellular antioxidant defense mechanisms in the transplanted islets, can lead to cell death.
+The balance between oxidants and antioxidants in a cell can be easily disturbed by increase in ROS production or reduction in the level of cellular antioxidant defensive substances, which can cause many metabolic complications, including pancreatic β-cell damage.
+Antioxidants function as blockers of radical processes by eliminating harmful ROS produced during normal cellular metabolism.
+A complex antioxidant defense mechanism has been developed by nature in cells to protect the cellular homeostasis.
+This system mainly includes antioxidant enzymes, vitamins and minerals.
+As transplanted islet survival is crucial for achieving successful therapy, most of these antioxidants can be used as a supplement to scavenge the local ROS thereby improving the survival of transplanted islets.
+Currently, very few techniques have been routinely used to qualitatively and quantitatively assess the survival and function of islet grafts, especially to confirm the success of treatment, which includes metabolic parameters such as blood glucose, insulin and C-peptide levels.
+These biochemical measurements provide markers at only the late stages of islet rejection.
+Use of molecular imaging techniques has the potential for real-time non-invasive monitoring of the functional status and viability of transplanted islet grafts in living animals.
+This review mainly focuses on the current status of islet transplantations, potential preventive strategies used to reduce oxidative stress-mediated toxicity in islet grafts, and use of molecular imaging as a tool to quantitatively evaluate the functional status of the transplanted islets in living animals.

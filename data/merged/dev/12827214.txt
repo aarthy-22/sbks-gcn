@@ -1,0 +1,11 @@
+Pharmacological characterization of unique prazosin-binding sites in human kidney.
+In human kidney, we found unique prazosin-binding sites that were insensitive to phentolamine and were thus unlikely to be alpha(1)-adrenoceptors.
+As the binding of [(3)H]prazosin to phentolamine-insensitive sites was prevented by 100 microM guanabenz, the insensitive sites were evaluated by subtracting [(3)H]prazosin binding in the presence of 100 microM guanabenz from that in the presence of 10 microM phentolamine.
+[(3)H]Prazosin bound to the phentolamine-insensitive sites monophasically with a high affinity (pK(d); 9.1+/-0.08, n=8), and the B(max) value (814+/-204 fmol mg(-1) protein, n=8) was more than ten times that of the phentolamine-sensitive alpha(1)-adrenoceptor (pK(d)=9.9+/-0.13, B(max)=66+/-23 fmol mg(-1) protein, n=7).
+The phentolamine-insensitive sites in human kidney were highly sensitive to other quinazoline derivatives such as terazosin and doxazosin.
+However, other alpha(1)-adrenoceptor antagonists (tamsulosin, WB4101 and corynanthine) did not inhibit the binding at a range of concentrations that generally exhibit alpha(1)-adrenoceptor antagonism, and noradrenaline, rauwolscine and propranolol were without effect on the [(3)H]prazosin binding.
+On the other hand, ligands for the renal Na(+)-transporter (amiloride and triamterene) and for imidazoline recognition sites (guanabenz, guanfacine and agmatine) displaced the binding of [(3)H]prazosin to phentolamine-insensitive sites at micromolar concentrations.
+Photoaffinity labeling with [(125)I]iodoarylazidoprazosin showed phentolamine-insensitive labeling at around 100 kDa, a molecular size larger than that of human alpha(1a)- and alpha(1b)-adrenoceptors expressed in 293 cells (50-60 and 70-80 kDa, respectively) on electrophoresis.
+In contrast, there was no detectable phentolamine-insensitive binding site but were phentolamine-sensitive alpha(1)-adrenoceptors in human liver (pK(d)=10.0+/-0.06, B(max)=44+/-6 fmol mg(-1) protein, n=3).
+Phentolamine-insensitive prazosin binding sites were also detected in rabbit kidney (approximately 50% of specific binding sites) but were minor in rat kidney (less than 20%).
+In conclusion, there are unique prazosin-binding sites in human kidney, the pharmacological profiles of which were distinct from those of known adrenoceptors.

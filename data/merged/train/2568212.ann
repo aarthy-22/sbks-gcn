@@ -1,0 +1,42 @@
+T35	CHEMICAL 12 21	histamine
+T40	GENE-Y 12 33	histamine H1-receptor
+T3	CHEMICAL 161 170	histamine
+T36	GENE-Y 161 182	histamine H1-receptor
+T13	CHEMICAL 195 206	terfenadine
+T14	CHEMICAL 208 218	astemizole
+T15	CHEMICAL 220 230	loratadine
+T16	CHEMICAL 236 247	acrivastine
+T17	CHEMICAL 262 273	Terfenadine
+T18	CHEMICAL 278 288	astemizole
+T19	CHEMICAL 317 326	histamine
+T37	GENE-Y 317 338	histamine H1-receptor
+T20	CHEMICAL 359 374	diphenhydramine
+T21	CHEMICAL 379 395	chlorpheniramine
+T22	CHEMICAL 397 407	Loratadine
+T23	CHEMICAL 453 462	azatadine
+T24	CHEMICAL 468 479	acrivastine
+T25	CHEMICAL 536 548	triprolidine
+T26	CHEMICAL 561 570	histamine
+T38	GENE-Y 561 582	histamine H1-receptor
+T27	CHEMICAL 621 630	histamine
+T39	GENE-N 621 639	histamine receptor
+T28	CHEMICAL 669 678	histamine
+T29	CHEMICAL 787 798	Terfenadine
+T30	CHEMICAL 800 810	astemizole
+T31	CHEMICAL 816 826	loratadine
+T32	CHEMICAL 869 880	terfenadine
+T33	CHEMICAL 885 895	astemizole
+T34	CHEMICAL 924 935	Terfenadine
+T1	CHEMICAL 1088 1098	astemizole
+T2	CHEMICAL 1144 1160	chlorpheniramine
+T4	CHEMICAL 1201 1212	terfenadine
+T5	CHEMICAL 1217 1227	astemizole
+T6	CHEMICAL 1324 1334	loratadine
+T7	CHEMICAL 1349 1364	pseudoephedrine
+T8	CHEMICAL 1386 1398	triprolidine
+T9	CHEMICAL 1399 1414	pseudoephedrine
+T10	CHEMICAL 1419 1430	acrivastine
+T11	CHEMICAL 1431 1446	pseudoephedrine
+T12	CHEMICAL 1495 1506	Acrivastine
+R0	CPR-6 Arg1:T20 Arg2:T37
+R1	NOT Arg1:T38 Arg2:T28

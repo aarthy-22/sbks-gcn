@@ -1,0 +1,32 @@
+T24	GENE-Y 19 39	acetylcholinesterase
+T14	CHEMICAL 60 106	β- and γ-substituted alkoxy organophosphonates
+T1	CHEMICAL 118 133	organophosphate
+T19	GENE-Y 180 200	acetylcholinesterase
+T22	GENE-Y 202 206	AChE
+T15	GENE-Y 219 223	AChE
+T16	GENE-Y 329 333	AChE
+T2	CHEMICAL 465 527	β-substituted ethoxy and γ-substituted propoxy phosphonoesters
+T3	CHEMICAL 540 573	p-NO(2)PhO-P(X)(R)[(O(CH(2))(n)Z]
+T4	CHEMICAL 575 615	R=Me, Et; X=O, S; n=2, 3; Z=halogen, OTs
+T17	GENE-Y 654 659	AChEs
+T5	CHEMICAL 699 731	β-fluoroethoxy methylphosphonate
+T6	CHEMICAL 740 754	R=Me, Z=F, n=2
+T18	GENE-Y 781 785	AChE
+T7	CHEMICAL 837 845	paraoxon
+T20	GENE-Y 854 860	EEAChE
+T8	CHEMICAL 875 890	Z=Br, I, or OTs
+T21	GENE-Y 919 924	AChEs
+T9	CHEMICAL 930 949	methyl phosphonates
+T10	CHEMICAL 951 955	R=Me
+T11	CHEMICAL 997 1015	ethyl phosphonates
+T12	CHEMICAL 1017 1021	R=Et
+T13	CHEMICAL 1052 1060	thionate
+T23	GENE-Y 1102 1107	AChEs
+R0	CPR-4 Arg1:T2 Arg2:T17
+R1	CPR-4 Arg1:T5 Arg2:T18
+R2	CPR-4 Arg1:T6 Arg2:T18
+R3	NOT Arg1:T5 Arg2:T20
+R4	NOT Arg1:T18 Arg2:T9
+R5	NOT Arg1:T20 Arg2:T9
+R6	NOT Arg1:T20 Arg2:T11
+R7	NOT Arg1:T20 Arg2:T12

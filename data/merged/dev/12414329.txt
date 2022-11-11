@@ -1,0 +1,13 @@
+Phosphodiesterase type 5 as a pharmacologic target in erectile dysfunction.
+The scientific rationale of pharmacologically inhibiting phosphodiesterase type 5 (PDE5) in the treatment of erectile dysfunction (ED) is reviewed.
+Published literature on the nitric oxide-cyclic guanosine monophosphate (cGMP) pathway for penile erection and on PDE5 inhibition using sildenafil as the model for pharmacologic PDE5 inhibition are assessed.
+The key second messenger in the mediation of penile erection is cGMP.
+PDE5 is the predominant PDE in the corpus cavernosum, and cGMP is its primary substrate.
+Therefore, in men with ED, elevation of cGMP in corpus cavernosal tissue via selective inhibition of cGMP-specific PDE5 is a means of improving erectile function at minimal risk of adverse events.
+This approach is validated by the clinical efficacy and safety of sildenafil, the pioneering drug for selective PDE5 inhibitor therapy for ED.
+Sildenafil exhibits inhibitory potency against PDE5 and a 10-fold lower dose-related inhibitory potency against rod outer segment PDE6, the predominant PDE in the phototransduction cascade in rods.
+Thus, its pharmacologic profile is predictable, with close correlation between pharmacodynamic and pharmacokinetic properties.
+Clinically, sildenafil improves erectile function in a large percentage of men with ED.
+The most common adverse events are due to PDE5 inhibition in vascular and visceral smooth muscle; similar adverse events are expected during therapeutic use of all PDE5 inhibitors.
+As free sildenafil plasma concentrations approach concentrations sufficient to inhibit retinal PDE6, usually at higher therapeutic doses, transient, reversible visual adverse events can occur, albeit infrequently.
+Selective inhibition of PDE5 is a rational therapeutic approach in ED, as proved by the clinical success of sildenafil.

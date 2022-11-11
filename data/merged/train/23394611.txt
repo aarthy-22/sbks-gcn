@@ -1,0 +1,7 @@
+Correlating superlattice polymorphs to internanoparticle distance, packing density, and surface lattice in assemblies of PbS nanoparticles.
+Assemblies of 3.5 nm PbS nanoparticles (NPs) nucleate in three dominant superlattice polymorphs: amorphous, body-centered-cubic (bcc) and face-centered-cubic (fcc) phase.
+This superlattice relationship can be controlled by the inter-NP distance without changing the NP size.
+Upon increase of inter-NP distance, the packing density decreases, and the capping molecules at NP surfaces change in structure and accordingly modify the surface energy.
+The driving force for NP assembly develops from an entropic maximization to a reduction of total free energy through multiple interactions between surface molecules and NPs and resulting variation of surface molecules.
+Upon long-term aging and additional thermal treatment, fcc undergoes a tetragonal distortion and subsequently transforms to bcc phase, and simultaneously, the NPs embedded in supercrystals reduce surface energy primarily in {200} facets.
+Linking molecule-NP interactions with a series of changes of packing density and surface lattice spacings of NPs allows for an interpretation of principles governing the nucleation, structure stability, and transformation of PbS NP-assembled supercrystals.

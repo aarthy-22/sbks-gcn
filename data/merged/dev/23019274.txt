@@ -1,0 +1,10 @@
+Novel assays for detection of urinary KIM-1 in mouse models of kidney injury.
+Kidney injury molecule-1 (KIM-1) has been qualified by the Food and Drug Administration and European Medicines Agency as a urinary biomarker to monitor preclinical nephrotoxicity in rats and on a case-by-case basis for the translation of potentially nephrotoxic drugs into first-in human studies.
+Although mouse models are widely employed in preclinical studies, few urinary biomarker studies have been performed in mice due to limited urine availability and lack of sensitive assays.
+Here, we report the development and validation of two different assays for quantitative assessment of mouse urinary KIM-1 (uKIM-1) and compare the sensitivity of KIM-1 relative to other standard markers in ischemia reperfusion and aristolochic acid (AA)-induced kidney injury in mice.
+A sensitive, reproducible, and quantitative microbead-based KIM-1 ELISA was established, which requires only 10 μl urine for triplicate determination with an assay range of 12.21 pg/ml to 50 ng/ml.
+The second assay is a laminar flow dipstick assay, which has an assay range of 195 pg/ml to 50 ng/ml and provides quantitative assessment of KIM-1 in 15 min.
+uKIM-1 levels increased with increasing time of ischemia or time after AA administration.
+After only 10-min ischemia followed by 24-h reperfusion, uKIM-1 was significantly elevated by 13-fold, whereas serum creatinine (sCr), blood urea nitrogen, N-acetyl-β-glucosaminidase (NAG), and proteinuria levels did not change.
+After AA administration, uKIM-1 levels were significantly upregulated by greater than threefold within 12 h, whereas sCr and NAG levels were unchanged.
+Mouse KIM-1 was stable for multiple freeze-thaw cycles, for up to 5 days at room temperature and up to at least an year when stored at -80°C.

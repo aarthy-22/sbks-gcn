@@ -1,0 +1,35 @@
+T34	CHEMICAL 17 30	peroxynitrite
+T35	CHEMICAL 35 84	triphenylphosphonium-substituted arylboronic acid
+T23	CHEMICAL 173 195	Aromatic boronic acids
+T24	CHEMICAL 215 228	peroxynitrite
+T28	CHEMICAL 230 246	ONOO<sup>-</sup>
+T32	CHEMICAL 257 264	phenols
+T8	CHEMICAL 318 334	ONOO<sup>-</sup>
+T17	CHEMICAL 416 432	ONOO<sup>-</sup>
+T18	CHEMICAL 437 450	arylboronates
+T19	CHEMICAL 452 471	PhB(OH)<sub>2</sub>
+T20	CHEMICAL 482 490	phenolic
+T21	CHEMICAL 534 567	PhB(OH)<sub>2</sub>O<sup>•-</sup>
+T22	CHEMICAL 568 594	<sup>•</sup>NO<sub>2</sub>
+T25	CHEMICAL 724 744	triphenylphosphonium
+T26	CHEMICAL 746 749	TPP
+T27	CHEMICAL 781 797	ONOO<sup>-</sup>
+T29	CHEMICAL 824 836	arylboronate
+T30	CHEMICAL 846 904	<i>o</i>-, <i>m</i>-, and <i>p</i>-MitoPhB(OH)<sub>2</sub>
+T31	CHEMICAL 1027 1033	phenyl
+T33	CHEMICAL 1148 1177	<i>o</i>-MitoPhNO<sub>2</sub>
+T1	CHEMICAL 1211 1243	<i>o</i>-MitoPhB(OH)<sub>2</sub>
+T2	CHEMICAL 1248 1264	ONOO<sup>-</sup>
+T3	CHEMICAL 1287 1293	phenyl
+T4	CHEMICAL 1354 1400	<i>o</i>-MitoPhB(OH)<sub>2</sub>O<sup>•-</sup>
+T5	CHEMICAL 1457 1463	phenyl
+T6	CHEMICAL 1477 1503	<sup>•</sup>NO<sub>2</sub>
+T7	CHEMICAL 1620 1666	<i>o</i>-MitoPhB(OH)<sub>2</sub>O<sup>•-</sup>
+T9	CHEMICAL 1717 1763	<i>m</i>-MitoPhB(OH)<sub>2</sub>O<sup>•-</sup>
+T10	CHEMICAL 1768 1814	<i>p</i>-MitoPhB(OH)<sub>2</sub>O<sup>•-</sup>
+T11	CHEMICAL 1864 1880	ONOO<sup>-</sup>
+T12	CHEMICAL 1886 1922	<i>ortho</i>-MitoPhB(OH)<sub>2</sub>
+T13	CHEMICAL 1959 1988	<i>o</i>-MitoPhNO<sub>2</sub>
+T14	CHEMICAL 2018 2026	phenolic
+T15	CHEMICAL 2036 2053	<i>o</i>-MitoPhOH
+T16	CHEMICAL 2115 2131	ONOO<sup>-</sup>

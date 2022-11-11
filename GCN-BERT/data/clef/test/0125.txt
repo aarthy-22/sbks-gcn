@@ -1,0 +1,2 @@
+Step 7: N6-(piperidin-4-yl)-N4-(3-chloro-4-fluorophenyl)-7-methoxyquinazoline-4,6-diamine
+A solution of tert-butyl 4-{{4-[(3-chloro-4-fluorophenyl)(3,4-dimethoxybenzyl)amino]-7-methoxyquinazolin-6-yl}amino}piperidine-1-carboxylate (0.4 g, 0.61 mmol) in trifluoroacetic acid (8 mL) was stirred at 70 °C for 6 hours. Once the reaction was completed, the reaction mixture was cooled, and concentrated in vacuo. The residue was slurried with ethyl acetate, and filtered to afford a trifluoroacetate of the title compound (0.26 g, 83%).

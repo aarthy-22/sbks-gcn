@@ -1,0 +1,23 @@
+T15	CHEMICAL 0 21	Candesartan cilexetil
+T19	GENE-Y 171 176	renin
+T9	CHEMICAL 177 188	angiotensin
+T20	GENE-Y 177 188	angiotensin
+T10	CHEMICAL 189 200	aldosterone
+T6	CHEMICAL 352 363	angiotensin
+T17	GENE-N 352 372	angiotensin receptor
+T7	CHEMICAL 453 464	angiotensin
+T18	GENE-Y 453 482	angiotensin-converting enzyme
+T8	CHEMICAL 527 538	candesartan
+T11	CHEMICAL 866 887	candesartan cilexetil
+T12	CHEMICAL 973 984	candesartan
+T13	CHEMICAL 1036 1050	angiotensin II
+T21	GENE-Y 1036 1066	angiotensin II type 1 receptor
+T14	CHEMICAL 1107 1118	candesartan
+T1	CHEMICAL 1170 1177	calcium
+T16	GENE-N 1170 1185	calcium channel
+T2	CHEMICAL 1332 1343	candesartan
+T3	CHEMICAL 1583 1594	candesartan
+T4	CHEMICAL 1793 1804	candesartan
+T5	CHEMICAL 2034 2045	candesartan
+R0	NOT Arg1:T6 Arg2:T18
+R1	NOT Arg1:T17 Arg2:T7

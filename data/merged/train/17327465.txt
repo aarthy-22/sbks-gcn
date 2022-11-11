@@ -1,0 +1,10 @@
+Induction of cyp1a1 is a nonspecific biomarker of aryl hydrocarbon receptor activation: results of large scale screening of pharmaceuticals and toxicants in vivo and in vitro.
+Expression of Cyp1a1 and its related enzyme activity have long been used as a biomarker for aryl hydrocarbon receptor (AhR) activation and a warning of dioxin-like toxicity.
+As a result, induction of Cyp1a1 by pharmaceutical drug candidates or environmental contaminants raises significant concern in risk assessment.
+The current study evaluates the specificity of Cyp1a1 induction as a marker for AhR affinity and activation and provides context to assess the relevancy of AhR activation to risk assessment.
+In vivo experiments examined the expression of Cyp1a1 and other AhR-regulated genes in liver, kidney, and heart in response to 596 compounds.
+From this data set, a subset of 147 compounds was then evaluated for their ability to activate or bind to the AhR using a combination of gel shift, reporter gene, and competitive receptor binding assays.
+Whereas in vivo Cyp1a1 mRNA expression is a sensitive marker for AhR activation, it lacks specificity, because 81 (59%) of 137 compounds were found to significantly induce Cyp1a1 in vivo but were not verified to bind or activate the AhR in vitro.
+Combining in vivo and in vitro findings, we identified nine AhR agonists, six of which are marketed therapeutics and have been approved by the U.S. Food and Drug Administration, including leflunomide, flutamide, and nimodipine.
+These drugs do not produce dioxin-like toxicity in rats or in humans.
+These data demonstrate that induction of Cyp1a1 is a nonspecific biomarker of direct AhR affinity and activation and lend further support to the hypothesis that Cyp1a1 induction and/or AhR activation is not synonymous with dioxin-like toxicity.

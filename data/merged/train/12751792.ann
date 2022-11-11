@@ -1,0 +1,30 @@
+T7	CHEMICAL 50 62	phospholipid
+T27	GENE-Y 50 99	phospholipid hydroperoxide glutathione peroxidase
+T8	CHEMICAL 63 88	hydroperoxide glutathione
+T26	GENE-Y 101 106	PHGPx
+T1	CHEMICAL 127 139	phospholipid
+T18	GENE-Y 127 176	phospholipid hydroperoxide glutathione peroxidase
+T3	CHEMICAL 140 165	hydroperoxide glutathione
+T25	GENE-Y 178 183	PHGPx
+T19	GENE-Y 336 381	sperm nucleus-specific glutathione peroxidase
+T2	CHEMICAL 359 370	glutathione
+T20	GENE-Y 383 388	snGPx
+T21	GENE-Y 410 452	mitochondrial and cytosolic forms of PHGPx
+T4	CHEMICAL 468 469	N
+T5	CHEMICAL 485 493	arginine
+T22	GENE-N 485 509	arginine-rich N-terminus
+T6	CHEMICAL 499 500	N
+T23	GENE-Y 535 545	protamines
+T24	GENE-Y 616 621	PHGPx
+T9	GENE-N 1120 1151	AUG translation initiation site
+T10	GENE-N 1199 1207	TATA box
+T11	GENE-N 1219 1259	TATA-less transcription initiation sites
+T12	GENE-Y 1339 1344	snGPx
+T13	GENE-N 1372 1381	protamine
+T14	GENE-Y 1450 1455	PHGPx
+T15	GENE-Y 1617 1622	PHGPx
+T16	GENE-Y 1627 1632	snGPx
+T17	GENE-Y 1693 1698	snGPx
+R0	CPR-1 Arg1:T4 Arg2:T21
+R1	NOT Arg1:T2 Arg2:T20
+R2	NOT Arg1:T6 Arg2:T23

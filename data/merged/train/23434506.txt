@@ -1,0 +1,6 @@
+Coenzyme Q10 protects Pc12 cells from cisplatin-induced DNA damage and neurotoxicity.
+The purpose of this study was to investigate the neuroprotective effect of a water-soluble formulation of coenzyme Q10 (WS-CoQ10) in PC12 cells exposed to cisplatin, a chemotherapeutic agent with a dose-limiting factor due to neurotoxicity.
+In the cytokinesis-block micronucleus cytome assay (CBMN Cyt), WS-CoQ10 (at concentrations of 0.1, 0.5 and 1.0μgmL(-1)) protected PC12 cells from cisplatin-induced DNA damage (0.1μgmL(-1)), reducing the frequency of micronuclei (MNi) and nuclear buds (NBUDs).
+WS-CoQ10 did not alter the mRNA expression levels of Tp53 (at a concentration of 1.0μgmL(-1)) and exhibited neuroprotective activity by stimulating cisplatin-inhibited neurite outgrowth in nerve growth factor (NGF)-differentiated PC12 cells (at a concentration of 0.1μgmL(-1)).
+In conclusion, WS-CoQ10 protected the PC12 cells from cisplatin-induced DNA damage and neurotoxicity.
+Moreover, the neuroprotective effects of WS-CoQ10 suggest a possible application in chemotherapeutic protocols.

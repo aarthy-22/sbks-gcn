@@ -1,0 +1,1185 @@
+T1	REACTION_PRODUCT 601 614	oxazolidinone
+T2	OTHER_COMPOUND 812 825	oxazolidinone
+T3	REACTION_PRODUCT 974 1010	3-phenyl-2-oxazolidinone derivatives
+T4	REACTION_PRODUCT 1140 1184	3-[(Monosubstituted) phenyl]-2-oxazolidinone
+T5	REACTION_PRODUCT 1208 1209	2
+T6	OTHER_COMPOUND 1446 1451	07271
+T7	OTHER_COMPOUND 1502 1515	Food and Drug
+T8	OTHER_COMPOUND 1532 1535	FDA
+T9	REACTION_PRODUCT 1552 1565	oxazolidinone
+T10	OTHER_COMPOUND 1588 1589	3
+T11	OTHER_COMPOUND 1606 1612	‘Zyvox
+T12	OTHER_COMPOUND 1890 1895	Zyvox
+T13	OTHER_COMPOUND 1959 1964	Zyvox
+T14	OTHER_COMPOUND 1973 1978	water
+T15	REACTION_PRODUCT 2085 2105	phenyl oxazolidinone
+T16	OTHER_COMPOUND 2146 2154	thiazole
+T17	OTHER_COMPOUND 2156 2162	indole
+T18	OTHER_COMPOUND 2164 2171	oxazole
+T19	OTHER_COMPOUND 2196 2204	pyridine
+T20	OTHER_COMPOUND 2255 2266	derivatives
+T21	OTHER_COMPOUND 2270 2283	oxazolidinone
+T22	REACTION_PRODUCT 2464 2484	phenyl oxazolidinone
+T23	OTHER_COMPOUND 2498 2506	pyridine
+T24	OTHER_COMPOUND 2525 2531	phenyl
+T25	OTHER_COMPOUND 2553 2559	phenyl
+T26	OTHER_COMPOUND 2713 2718	Zyvox
+T27	OTHER_COMPOUND 2886 2911	oxazolidinone derivatives
+T28	OTHER_COMPOUND 3138 3148	amino acid
+T29	OTHER_COMPOUND 3171 3196	oxazolidinone derivatives
+T30	REACTION_PRODUCT 3204 3212	hydroxyl
+T31	OTHER_COMPOUND 3242 3255	oxazolidinone
+T32	OTHER_COMPOUND 3311 3322	amine group
+T33	OTHER_COMPOUND 3326 3336	amino acid
+T34	OTHER_COMPOUND 3379 3393	inorganic acid
+T35	OTHER_COMPOUND 3427 3436	phosphate
+T36	OTHER_COMPOUND 3459 3465	sodium
+T37	OTHER_COMPOUND 3470 3477	calcium
+T38	REACTION_PRODUCT 3483 3496	oxazolidinone
+T39	REACTION_PRODUCT 3751 3764	oxazolidinone
+T40	OTHER_COMPOUND 4110 4123	oxazolidinone
+T41	OTHER_COMPOUND 4197 4203	carbon
+T42	OTHER_COMPOUND 4207 4215	nitrogen
+T43	OTHER_COMPOUND 4263 4271	fluorine
+T44	OTHER_COMPOUND 4301 4308	triazol
+T45	OTHER_COMPOUND 4310 4318	fluorine
+T46	OTHER_COMPOUND 4320 4349	alkylphosphate, monophosphate
+T47	OTHER_COMPOUND 4355 4365	metal salt
+T48	OTHER_COMPOUND 4484 4490	acetyl
+T49	OTHER_COMPOUND 4502 4510	hydrogen
+T50	REACTION_PRODUCT 4520 4529	1-3 alkyl
+T51	OTHER_COMPOUND 4617 4624	alanine
+T52	OTHER_COMPOUND 4626 4633	glycine
+T53	OTHER_COMPOUND 4635 4642	proline
+T54	OTHER_COMPOUND 4656 4663	leucine
+T55	OTHER_COMPOUND 4665 4678	phenylalanine
+T56	OTHER_COMPOUND 4680 4689	β-alanine
+T57	OTHER_COMPOUND 4693 4699	valine
+T58	OTHER_COMPOUND 4701 4704	Het
+T59	OTHER_COMPOUND 4717 4729	heterocyclic
+T60	OTHER_COMPOUND 4747 4755	aromatic
+T61	OTHER_COMPOUND 4772 4779	pyrrole
+T62	OTHER_COMPOUND 4781 4786	furan
+T63	OTHER_COMPOUND 4788 4798	piperazine
+T64	OTHER_COMPOUND 4800 4810	piperidine
+T65	OTHER_COMPOUND 4838 4851	1,2,3-triazol
+T66	OTHER_COMPOUND 4864 4872	pyrazole
+T67	OTHER_COMPOUND 4874 4885	pyrrolidine
+T68	OTHER_COMPOUND 4887 4894	oxazole
+T69	OTHER_COMPOUND 4896 4905	isoxazole
+T70	OTHER_COMPOUND 4907 4917	oxadiazole
+T71	OTHER_COMPOUND 4919 4926	pyridin
+T72	OTHER_COMPOUND 4952 4960	pyrazine
+T73	OTHER_COMPOUND 5028 5036	hydrogen
+T74	REACTION_PRODUCT 5046 5049	1-4
+T75	OTHER_COMPOUND 5104 5109	cyano
+T76	OTHER_COMPOUND 5155 5161	ketone
+T77	OTHER_COMPOUND 5182 5195	oxazolidinone
+T78	OTHER_COMPOUND 5221 5222	1
+T79	OTHER_COMPOUND 5360 5369	free acid
+T80	OTHER_COMPOUND 5451 5468	hydrochloric acid
+T81	OTHER_COMPOUND 5470 5481	bromic acid
+T82	OTHER_COMPOUND 5483 5496	sulfuric acid
+T83	OTHER_COMPOUND 5498 5513	phosphoric acid
+T84	OTHER_COMPOUND 5554 5560	citric
+T85	OTHER_COMPOUND 5567 5578	acetic acid
+T86	OTHER_COMPOUND 5580 5591	lactic acid
+T87	OTHER_COMPOUND 5593 5604	maleic acid
+T88	OTHER_COMPOUND 5606 5618	fumaric acid
+T89	OTHER_COMPOUND 5620 5628	gluconic
+T90	OTHER_COMPOUND 5635 5651	methane sulfonic
+T91	OTHER_COMPOUND 5658 5671	glyconic acid
+T92	OTHER_COMPOUND 5673 5686	succinic acid
+T93	OTHER_COMPOUND 5688 5710	4-toluenesulfonic acid
+T94	OTHER_COMPOUND 5712 5727	trifluoroacetic
+T95	OTHER_COMPOUND 5734 5750	galuturonic acid
+T96	OTHER_COMPOUND 5752 5759	embonic
+T97	OTHER_COMPOUND 5766 5774	glutamic
+T98	OTHER_COMPOUND 5781 5794	aspartic acid
+T99	OTHER_COMPOUND 5828 5841	oxazolidinone
+T100	REACTION_PRODUCT 5971 6111	(S)-3-(4-(2-(2-oxo-4-glycyloxymethylpylolidin-1-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid,2
+T101	REACTION_PRODUCT 6113 6252	(S)-3-(4-(2-(4-glycyloxymethyl-1,2,3-triazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid,3
+T102	REACTION_PRODUCT 6254 6501	(S)-3-(4-(2-(5-glycyloxymethylisoxazol-3-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid,4) (R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,4]triazol-1-yl)methyl oxazolidin-2-on,5
+T103	REACTION_PRODUCT 6503 6640	(S)-3-(4-(2-(2-oxo-3-glycyloxypyrrolidine-1-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid,6)
+T104	REACTION_PRODUCT 6641 6785	(S)-3-(4-(2-(5-glycyloxymethyl-[1,2,4]oxadiazole-3-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid,7)
+T105	REACTION_PRODUCT 6786 6933	(S)-3-(4-(2-(5-glycyloxymethyl-4,5-dihydroisoxazole-3-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid,8)
+T106	REACTION_PRODUCT 6934 7028	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-2-yl)methyl
+T107	REACTION_PRODUCT 7029 7161	oxazolidin-2-on,9) (R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on,10
+T108	REACTION_PRODUCT 7163 7351	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on,11) (S)-3-(4-(4-(4,5-dimethyloxazol-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl
+T109	REACTION_PRODUCT 7366 7488	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid,13
+T110	REACTION_PRODUCT 7490 7612	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on,14
+T111	REACTION_PRODUCT 7614 7726	(R)-3-(4-(2-([1,2,4]triazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on,15)
+T112	REACTION_PRODUCT 7727 7821	(S)-3-(4-(2-(4,5-dimethyloxazol-2-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl
+T113	REACTION_PRODUCT 7836 8042	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on,17) (R)-3-(4-(2-[1,2,4]triazol-1-yl pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on,18
+T114	REACTION_PRODUCT 8044 8231	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-fluoromethyl oxazolidin-2-on,19) (S)-3-(4-(2-(imidazole-1-yl)pyridin-5-yl)-3-fluorophenyl)-5-aminomethyl oxazolidin-2-on
+T115	REACTION_PRODUCT 8250 8335	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-valyloxy)methyl
+T116	REACTION_PRODUCT 8352 8375	trifluoroacetic acid,21
+T117	REACTION_PRODUCT 8377 8472	(R)-3-(4-(4-(4,5-dimethyloxazol-2-yl)phenyl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on,22
+T118	REACTION_PRODUCT 8474 8714	(R)-3-(4-(2-([1,2,3]triazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid,23) (R)-3-(4-(4-(4,5-dimethyloxazol-2-yl)phenyl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid,24
+T119	REACTION_PRODUCT 8716 8813	(R)-3-(4-(2-([1,2,3]triazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on,25
+T120	REACTION_PRODUCT 8815 8917	(S)-3-(4-(2-([1,2,3]triazol-2-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide,26
+T121	REACTION_PRODUCT 8919 9037	(S)-3-(4-(4-(4(S)-hydroxymethyl-4,5-dihydroxazole-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide,27
+T122	REACTION_PRODUCT 9039 9506	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazole-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid,28) (S)-3-(4-(4-(4-hydroxymethylthiazol-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide,29) (R)-3-(4-(2-([1,2,3]triazol-2-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on,30) (S)-3-(4-(4-(4-glycyloxymethylthiazol-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid,31)
+T123	REACTION_PRODUCT 9507 9610	(S)-3-(4-(4-(4-cyanomethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide,32
+T124	REACTION_PRODUCT 9612 9811	(R)-3-(4-(4-(4-cyanomethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on,33) (R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-methoxymethyl oxazolidin-2-on,34
+T125	REACTION_PRODUCT 9813 9934	(R)-3-(4-(4-(4-cyanomethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid,35
+T126	REACTION_PRODUCT 9936 10056	(R)-3-(4-(2-([1,2,3]triazol-2-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid,36
+T127	REACTION_PRODUCT 10058 10173	(R)-3-(4-(4-(4-hydroxymethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on,37)
+T128	REACTION_PRODUCT 10174 10311	(R)-3-(4-(4-(4-glycyloxymethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on trifluoroacetic acid,38
+T129	REACTION_PRODUCT 10313 10416	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3,5-difluorophenyl)-5-hydroxymethyl oxazolidin-2-on,39
+T130	REACTION_PRODUCT 10418 10836	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3,5-difluorophenyl)-5-hydroxymethyl oxazolidin-2-on,40) (R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(N,N-dimethylaminomethypoxazolidin-2-on,41) (R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(N-methylaminomethypoxazolidin-2-on,42) (R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy)methyl
+T131	REACTION_PRODUCT 10878 10996	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-valyloxy)methyl oxazolidin-2-on hydrochloride,44
+T132	REACTION_PRODUCT 10998 11100	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy)methyl oxazolidin-2-on
+T133	REACTION_PRODUCT 11119 11217	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on
+T134	REACTION_PRODUCT 11236 11470	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-prolinyloxy)methyl oxazolidin-2-on trifluoroacetic acid,47) (R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-prolinyloxy)methyl oxazolidin-2-on
+T135	REACTION_PRODUCT 11487 11596	) (R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on
+T136	REACTION_PRODUCT 11615 11741	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl oxazolidin-2-on trifluoroacetic acid,50
+T137	REACTION_PRODUCT 11743 11862	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl oxazolidin-2-on hydrochloride,51
+T138	REACTION_PRODUCT 11864 12112	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy)methyl oxazolidin-2-on trifluoroacetic acid,52) (R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy)methyl oxazolidin-2-on
+T139	REACTION_PRODUCT 12131 12257	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-valyloxy)methyl oxazolidin-2-on trifluoroacetic
+T140	REACTION_PRODUCT 12267 12377	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-valyloxy)methyl oxazolidin-2-on
+T141	REACTION_PRODUCT 12394 12632	) (R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-prolinyloxy)methyl oxazolidin-2-on trifluoroacetic acid,56) (R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-prolinyloxy)methyl
+T142	REACTION_PRODUCT 12667 12802	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl oxazolidin-2-on trifluoroacetic acid,58
+T143	REACTION_PRODUCT 12804 12915	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl oxazolidin-2-on
+T144	REACTION_PRODUCT 12934 13173	(R)-[3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl disodiumphosphate,60) (R)-[3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl disodiumphosphate,61
+T145	REACTION_PRODUCT 13175 13275	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on,62)
+T146	REACTION_PRODUCT 13276 13515	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid,63) (R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on hydrochloride,64
+T147	REACTION_PRODUCT 13517 13644	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy) methyl oxazolidin-2-on trifluoroacetic acid,65
+T148	REACTION_PRODUCT 13646 13749	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy) methyl oxazolidin-2-on
+T149	REACTION_PRODUCT 13768 13894	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-valyloxy) methyl oxazolidin-2-on trifluoroacetic acid,67
+T150	REACTION_PRODUCT 13896 13998	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-valyloxy) methyl oxazolidin-2-on
+T151	REACTION_PRODUCT 14017 14144	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl oxazolidin-2-on trifluoroacetic acid,69)
+T152	REACTION_PRODUCT 14145 14266	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy) methyl oxazolidin-2-on hydrochloride,70)
+T153	REACTION_PRODUCT 14267 14382	(R)-[3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl disodiumphosphate,71)
+T154	REACTION_PRODUCT 14383 14497	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on,72)
+T155	REACTION_PRODUCT 14498 14615	mono-[(R)-[3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl]phosphate, and73)
+T156	REACTION_PRODUCT 14616 14725	mono-[(R)-[3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl]phosphate
+T157	OTHER_COMPOUND 14976 14977	‘
+T158	OTHER_COMPOUND 14992 14998	acetyl
+T159	OTHER_COMPOUND 15004 15008	TfOH
+T160	OTHER_COMPOUND 15020 15040	trifluoroacetic acid
+T161	OTHER_COMPOUND 15123 15136	oxazolidinone
+T162	OTHER_COMPOUND 15234 15244	C1-4 alkyl
+T163	OTHER_COMPOUND 15323 15330	halogen
+T164	OTHER_COMPOUND 15375 15388	oxazolidinone
+T165	OTHER_COMPOUND 15450 15457	halogen
+T166	OTHER_COMPOUND 15469 15482	hydrogen atom
+T167	OTHER_COMPOUND 15486 15492	phenyl
+T168	OTHER_COMPOUND 15509 15513	(II)
+T169	OTHER_COMPOUND 15517 15543	hydroxymethyloxazolidinone
+T170	OTHER_COMPOUND 15573 15578	(III)
+T171	OTHER_COMPOUND 15601 15608	stannyl
+T172	OTHER_COMPOUND 15615 15627	halogen atom
+T173	OTHER_COMPOUND 15629 15630	Y
+T174	OTHER_COMPOUND 15650 15655	(III)
+T175	OTHER_COMPOUND 15677 15681	(IV)
+T176	OTHER_COMPOUND 15725 15733	pyridine
+T177	OTHER_COMPOUND 15737 15743	phenyl
+T178	OTHER_COMPOUND 15778 15785	bromine
+T179	OTHER_COMPOUND 15789 15795	iodine
+T180	REACTION_PRODUCT 15824 15837	oxazolidinone
+T181	OTHER_COMPOUND 15845 15853	pyridine
+T182	OTHER_COMPOUND 15862 15868	phenyl
+T183	OTHER_COMPOUND 15920 15930	amino acid
+T184	OTHER_COMPOUND 15940 15956	protecting group
+T185	OTHER_COMPOUND 15971 15975	acid
+T186	OTHER_COMPOUND 16128 16137	phosphate
+T187	OTHER_COMPOUND 16152 16165	metallic salt
+T188	OTHER_COMPOUND 16222 16229	Formula
+T189	OTHER_COMPOUND 16272 16276	(II)
+T190	STARTING_MATERIAL 16280 16306	hydroxymethyloxazolidinone
+T191	OTHER_COMPOUND 16417 16423	anilin
+T192	OTHER_COMPOUND 16430 16453	benzyloxycarbonyl group
+T193	OTHER_COMPOUND 16469 16480	substituted
+T194	OTHER_COMPOUND 16495 16511	glycidylbutylate
+T195	OTHER_COMPOUND 16526 16532	strong
+T196	OTHER_COMPOUND 16570 16574	(II)
+T197	OTHER_COMPOUND 16666 16680	n-butyllitium,
+T198	OTHER_COMPOUND 16681 16696	sec-butyllitium
+T199	OTHER_COMPOUND 16698 16714	tert-butyllitium
+T200	OTHER_COMPOUND 16738 16751	n-butyllitium
+T201	TEMPERATURE 16827 16834	−78° C.
+T202	OTHER_COMPOUND 16895 16903	hydrogen
+T203	OTHER_COMPOUND 16912 16924	phenyl group
+T204	OTHER_COMPOUND 16943 16947	(II)
+T205	OTHER_COMPOUND 16954 16961	halogen
+T206	OTHER_COMPOUND 16986 16997	iodine atom
+T207	OTHER_COMPOUND 17008 17016	hydrogen
+T208	OTHER_COMPOUND 17045 17056	iodine atom
+T209	OTHER_COMPOUND 17121 17140	iodine monochloride
+T210	REAGENT_CATALYST 17142 17145	ICI
+T211	REAGENT_CATALYST 17150 17182	trifluoroacetic acid silver salt
+T212	REAGENT_CATALYST 17184 17192	CF3COOAg
+T213	OTHER_COMPOUND 17205 17211	iodine
+T214	TEMPERATURE 17215 17231	room temperature
+T215	OTHER_COMPOUND 17272 17277	(III)
+T216	OTHER_COMPOUND 17292 17307	hexamethylditin
+T217	OTHER_COMPOUND 17309 17323	hexabutylditin
+T218	OTHER_COMPOUND 17327 17346	tributyltin hydride
+T219	OTHER_COMPOUND 17371 17380	palladium
+T220	OTHER_COMPOUND 17404 17408	(IV)
+T221	OTHER_COMPOUND 17418 17429	iodine atom
+T222	OTHER_COMPOUND 17451 17473	trimethylstannyl group
+T223	OTHER_COMPOUND 17479 17500	tributylstannyl group
+T224	REAGENT_CATALYST 17518 17527	palladium
+T225	REAGENT_CATALYST 17541 17585	dichlorobistriphenylphosphine palladium (II)
+T226	REAGENT_CATALYST 17587 17623	tetrakistriphenylphosphine palladium
+T227	OTHER_COMPOUND 17690 17700	1,4-dioxan
+T228	OTHER_COMPOUND 17702 17719	dimethylformamide
+T229	SOLVENT 17721 17736	tetrahydrofuran
+T230	OTHER_COMPOUND 17738 17759	1-methyl-2-pyrolidone
+T231	TEMPERATURE 17792 17804	90 to 150° C
+T232	OTHER_COMPOUND 17859 17863	(IV)
+T233	OTHER_COMPOUND 17887 17893	hetero
+T234	OTHER_COMPOUND 17902 17908	phenyl
+T235	OTHER_COMPOUND 17912 17925	pyridine ring
+T236	REACTION_PRODUCT 17957 17960	(V)
+T237	OTHER_COMPOUND 17976 17985	palladium
+T238	OTHER_COMPOUND 18034 18043	palladium
+T239	SOLVENT 18111 18128	dimethylformamide
+T240	OTHER_COMPOUND 18130 18151	1-methyl-2-pyrolidone
+T241	TEMPERATURE 18184 18197	100 to 120° C
+T242	OTHER_COMPOUND 18250 18253	(V)
+T243	OTHER_COMPOUND 18259 18269	amino acid
+T244	REACTION_PRODUCT 18292 18303	amino group
+T245	OTHER_COMPOUND 18309 18327	t-butyloxycarbonyl
+T246	OTHER_COMPOUND 18329 18353	dicyclohexylcarbodiimide
+T247	OTHER_COMPOUND 18358 18381	4-dimethylaminopyridine
+T248	REACTION_PRODUCT 18424 18429	amino
+T249	OTHER_COMPOUND 18464 18471	alanine
+T250	OTHER_COMPOUND 18473 18480	glycine
+T251	OTHER_COMPOUND 18482 18489	proline
+T252	OTHER_COMPOUND 18491 18501	isoleucine
+T253	OTHER_COMPOUND 18512 18525	phenylalanine
+T254	OTHER_COMPOUND 18527 18536	β-alanine
+T255	OTHER_COMPOUND 18538 18544	valine
+T256	OTHER_COMPOUND 18571 18588	dimethylformamide
+T257	OTHER_COMPOUND 18590 18611	1-methyl-2-pyrolidone
+T258	OTHER_COMPOUND 18666 18669	(V)
+T259	OTHER_COMPOUND 18675 18685	amino acid
+T260	TIME 18723 18730	5 hours
+T261	TEMPERATURE 18740 18756	room temperature
+T262	OTHER_COMPOUND 18786 18789	(V)
+T263	OTHER_COMPOUND 18794 18804	amino acid
+T264	OTHER_COMPOUND 18817 18828	strong acid
+T265	OTHER_COMPOUND 18837 18857	trifluoroacetic acid
+T266	REACTION_PRODUCT 19016 19029	oxazolidinone
+T267	OTHER_COMPOUND 19047 19056	Formula 1
+T268	OTHER_COMPOUND 19115 19125	amino acid
+T269	TIME 19163 19170	2 hours
+T270	TEMPERATURE 19180 19196	room temperature
+T271	OTHER_COMPOUND 19236 19237	1
+T272	REACTION_PRODUCT 19354 19432	(S)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T273	OTHER_COMPOUND 19532 19550	phosphate metallic
+T274	OTHER_COMPOUND 19574 19577	(I)
+T275	OTHER_COMPOUND 19602 19617	sodiummethoxide
+T276	OTHER_COMPOUND 19619 19635	sodium hydroxide
+T277	OTHER_COMPOUND 19680 19688	methanol
+T278	OTHER_COMPOUND 19690 19697	ethanol
+T279	OTHER_COMPOUND 19768 19786	trimethylphosphate
+T280	OTHER_COMPOUND 19790 19807	triethylphosphate
+T281	OTHER_COMPOUND 19816 19840	phosphorous oxy chloride
+T282	TIME 19864 19872	12 hours
+T283	TEMPERATURE 19876 19892	room temperature
+T284	OTHER_COMPOUND 19965 19968	(V)
+T285	OTHER_COMPOUND 19974 19983	tetrazole
+T286	OTHER_COMPOUND 20001 20008	amidite
+T287	TEMPERATURE 20012 20028	room temperature
+T288	OTHER_COMPOUND 20089 20103	alkylphosphate
+T289	OTHER_COMPOUND 20117 20128	alkyl group
+T290	OTHER_COMPOUND 20181 20195	phosphate acid
+T291	OTHER_COMPOUND 20230 20244	phosphate acid
+T292	OTHER_COMPOUND 20254 20277	phosphate metallic salt
+T293	REACTION_PRODUCT 20408 20421	oxazolidinone
+T294	OTHER_COMPOUND 20439 20448	Formula 1
+T295	OTHER_COMPOUND 20463 20473	antibiotic
+T296	REACTION_PRODUCT 20479 20492	oxazolidinone
+T297	OTHER_COMPOUND 20601 20637	methicillin resistant Staphylococcus
+T298	OTHER_COMPOUND 20646 20650	MRSA
+T299	REACTION_PRODUCT 20656 20666	vancomycin
+T300	OTHER_COMPOUND 20690 20693	VRE
+T301	OTHER_COMPOUND 20975 21000	Staphylococi, Enterococci
+T302	OTHER_COMPOUND 21051 21066	Bacteroides and
+T303	OTHER_COMPOUND 21121 21147	Mycobacterium tuberculosis
+T304	OTHER_COMPOUND 21152 21171	Mycobacterium avium
+T305	OTHER_COMPOUND 21192 21205	oxazolidinone
+T306	OTHER_COMPOUND 21214 21222	hydroxyl
+T307	STARTING_MATERIAL 21467 21469	10
+T308	OTHER_COMPOUND 21486 21488	10
+T309	OTHER_COMPOUND 21517 21522	water
+T310	OTHER_COMPOUND 21556 21570	hydroxylmethyl
+T311	OTHER_COMPOUND 21859 21872	oxazolidinone
+T312	OTHER_COMPOUND 22089 22095	saline
+T313	OTHER_COMPOUND 22114 22119	water
+T314	OTHER_COMPOUND 22149 22155	saline
+T315	OTHER_COMPOUND 22166 22174	dextrose
+T316	OTHER_COMPOUND 22185 22190	malto
+T317	OTHER_COMPOUND 22191 22198	dextrin
+T318	OTHER_COMPOUND 22209 22217	glycerol
+T319	OTHER_COMPOUND 22219 22226	ethanol
+T320	OTHER_COMPOUND 22430 22438	diluents
+T321	OTHER_COMPOUND 22487 22497	lubricants
+T322	OTHER_COMPOUND 23645 23670	oxazolidinone derivatives
+T323	OTHER_COMPOUND 24003 24012	phosphate
+T324	OTHER_COMPOUND 24051 24056	water
+T325	OTHER_COMPOUND 24232 24244	Staphylococi
+T326	OTHER_COMPOUND 24378 24404	Mycobacterium tuberculosis
+T327	OTHER_COMPOUND 24409 24428	Mycobacterium avium
+T328	OTHER_COMPOUND 24490 24503	oxazolidinone
+T329	OTHER_COMPOUND 24519 24529	antibiotic
+T330	EXAMPLE_LABEL 24878 24879	1
+T331	STARTING_MATERIAL 24895 24943	N-Carbobenzyloxy-3-fluoroaniline 3-fluoroaniline
+T332	SOLVENT 24974 24989	tetrahydrofuran
+T333	SOLVENT 24991 24994	THE
+T334	OTHER_COMPOUND 25047 25065	sodium bicarbonate
+T335	OTHER_COMPOUND 25067 25073	NaHCO3
+T336	TEMPERATURE 25098 25102	0° C
+T337	STARTING_MATERIAL 25150 25175	N-carbobenzyloxy chloride
+T338	REAGENT_CATALYST 25177 25182	CbzCl
+T339	TEMPERATURE 25238 25242	0° C
+T340	TIME 25287 25294	2 hours
+T341	OTHER_COMPOUND 25363 25376	ethyl acetate
+T342	OTHER_COMPOUND 25436 25441	brine
+T343	OTHER_COMPOUND 25464 25481	magnesium sulfate
+T344	OTHER_COMPOUND 25483 25488	MgSO4
+T345	OTHER_COMPOUND 25551 25559	n-hexane
+T346	REACTION_PRODUCT 25574 25588	title compound
+T347	YIELD_PERCENT 25620 25623	85%
+T348	EXAMPLE_LABEL 25645 25646	2
+T349	STARTING_MATERIAL 25662 25713	(R)-3-(3-fluorophenyl)-2-oxo-5-oxazolidinylmethanol
+T350	STARTING_MATERIAL 25723 25755	N-carbobenzyloxy-3-fluoroaniline
+T351	SOLVENT 25826 25841	tetrahydrofuran
+T352	TEMPERATURE 25873 25879	−78° C
+T353	REAGENT_CATALYST 25891 25905	n-buthyllitium
+T354	REAGENT_CATALYST 25907 25913	n-BuLi
+T355	SOLVENT 25920 25928	n-hexane
+T356	OTHER_COMPOUND 25968 25976	nitrogen
+T357	TIME 26014 26020	10 min
+T358	STARTING_MATERIAL 26035 26060	(R)-(−)-glycidylbuthylate
+T359	TIME 26139 26146	2 hours
+T360	TIME 26172 26180	24 hours
+T361	TEMPERATURE 26184 26200	room temperature
+T362	OTHER_COMPOUND 26264 26281	ammonium chloride
+T363	OTHER_COMPOUND 26283 26288	NH4Cl
+T364	OTHER_COMPOUND 26327 26340	ethyl acetate
+T365	TEMPERATURE 26344 26360	room temperature
+T366	OTHER_COMPOUND 26413 26418	brine
+T367	OTHER_COMPOUND 26441 26458	magnesium sulfate
+T368	OTHER_COMPOUND 26525 26538	ethyl acetate
+T369	OTHER_COMPOUND 26555 26563	n-hexane
+T370	REACTION_PRODUCT 26615 26629	title compound
+T371	YIELD_PERCENT 26643 26646	70%
+T372	OTHER_COMPOUND 26656 26663	DMSO-d6
+T373	EXAMPLE_LABEL 26792 26793	3
+T374	REACTION_PRODUCT 26809 26867	(R)-3-(4-iodo-3-fluorophenyl)-2-oxo-5-oxazolidinylmethanol
+T375	STARTING_MATERIAL 26881 26892	acetonitryl
+T376	STARTING_MATERIAL 26915 26966	(R)-3-(3-fluorophenyl)-2-oxo-5-oxazolidinylmethanol
+T377	REAGENT_CATALYST 27018 27050	trifluoroacetic acid silver salt
+T378	REAGENT_CATALYST 27052 27060	CF3COOAg
+T379	REAGENT_CATALYST 27074 27080	iodide
+T380	TIME 27133 27140	one day
+T381	TEMPERATURE 27144 27160	room temperature
+T382	OTHER_COMPOUND 27190 27195	water
+T383	OTHER_COMPOUND 27219 27232	ethyl acetate
+T384	OTHER_COMPOUND 27285 27290	brine
+T385	REACTION_PRODUCT 27394 27408	title compound
+T386	REACTION_PRODUCT 27409 27413	44 g
+T387	YIELD_PERCENT 27421 27424	94%
+T388	OTHER_COMPOUND 27434 27441	DMSO-d6
+T389	STARTING_MATERIAL 27609 27679	(R)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethanol
+T390	SOLVENT 27693 27703	1,4-dioxan
+T391	STARTING_MATERIAL 27726 27784	(R)-3-(4-iodo-3-fluorophenyl)-2-oxo-5-oxazolidinylmethanol
+T392	REAGENT_CATALYST 27832 27846	hexabutylditin
+T393	REAGENT_CATALYST 27848 27856	(Bu3Sn)2
+T394	REAGENT_CATALYST 27871 27908	dichlorobistriphenylphosphinpalladium
+T395	TIME 27955 27962	2 hours
+T396	OTHER_COMPOUND 27996 28002	celite
+T397	YIELD_OTHER 28084 28088	45 g
+T398	REACTION_PRODUCT 28096 28110	title compound
+T399	OTHER_COMPOUND 28131 28138	DMSO-d6
+T400	EXAMPLE_LABEL 28316 28317	5
+T401	STARTING_MATERIAL 28333 28356	2-cyano-5-bromopyridine
+T402	SOLVENT 28367 28384	dimethylformamide
+T403	STARTING_MATERIAL 28408 28427	2,5-dibromopyridine
+T404	STARTING_MATERIAL 28437 28451	cupper cyanide
+T405	REAGENT_CATALYST 28466 28480	sodium cyanide
+T406	TEMPERATURE 28511 28527	room temperature
+T407	TEMPERATURE 28579 28585	150° C
+T408	TIME 28591 28598	7 hours
+T409	TEMPERATURE 28635 28651	room temperature
+T410	OTHER_COMPOUND 28689 28694	water
+T411	OTHER_COMPOUND 28714 28727	ethyl acetate
+T412	OTHER_COMPOUND 28763 28768	brine
+T413	REACTION_PRODUCT 28822 28836	title compound
+T414	YIELD_OTHER 28837 28841	54 g
+T415	YIELD_PERCENT 28862 28865	70%
+T416	EXAMPLE_LABEL 28946 28947	6
+T417	STARTING_MATERIAL 28963 28996	2-(tetrazol-5-yl)-5-bromopyridine
+T418	STARTING_MATERIAL 29005 29028	2-cyano-5-bromopyridine
+T419	SOLVENT 29094 29111	dimethylformamide
+T420	REAGENT_CATALYST 29123 29134	sodiumazide
+T421	REAGENT_CATALYST 29149 29165	ammoniumchloride
+T422	TEMPERATURE 29196 29212	room temperature
+T423	TEMPERATURE 29265 29271	110° C
+T424	TIME 29277 29284	3 hours
+T425	OTHER_COMPOUND 29335 29340	water
+T426	OTHER_COMPOUND 29369 29382	ethyl acetate
+T427	OTHER_COMPOUND 29435 29440	brine
+T428	YIELD_OTHER 29508 29514	10.5 g
+T429	REACTION_PRODUCT 29522 29536	title compound
+T430	YIELD_PERCENT 29544 29547	85%
+T431	EXAMPLE_LABEL 29569 29570	7
+T432	REACTION_PRODUCT 29586 29627	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T433	STARTING_MATERIAL 29632 29667	2-(2-methyltetrazol-5-bromopyridine
+T434	STARTING_MATERIAL 29678 29711	2-(tetrazol-5-yl)-5-bromopyridine
+T435	SOLVENT 29777 29794	dimethylformamide
+T436	REAGENT_CATALYST 29814 29829	sodiumhydroxide
+T437	REAGENT_CATALYST 29869 29880	iodomethane
+T438	TEMPERATURE 29936 29940	0° C
+T439	TIME 29971 29978	6 hours
+T440	TEMPERATURE 29982 29998	room temperature
+T441	OTHER_COMPOUND 30011 30016	water
+T442	OTHER_COMPOUND 30033 30046	ethyl acetate
+T443	OTHER_COMPOUND 30091 30096	brine
+T444	YIELD_OTHER 30191 30194	4 g
+T445	REACTION_PRODUCT 30198 30239	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T446	REACTION_PRODUCT 30251 30292	2-(2-methyltetrazol-5-yl)-5-bromopyridine
+T447	REACTION_PRODUCT 30297 30338	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T448	OTHER_COMPOUND 30347 30352	CDCl3
+T449	REACTION_PRODUCT 30416 30457	2-(2-methyltetrazol-5-yl)-5-bromopyridine
+T450	OTHER_COMPOUND 30466 30471	CDCl3
+T451	EXAMPLE_LABEL 30552 30553	8
+T452	REACTION_PRODUCT 30569 30619	2-(2-methyl-[1,3,4]oxadiazol-5-yl)-5-bromopyridine
+T453	STARTING_MATERIAL 30633 30649	acetic anhydride
+T454	STARTING_MATERIAL 30673 30706	2-(tetrazol-5-yl)-5-bromopyridine
+T455	REAGENT_CATALYST 30792 30800	pyridine
+T456	TIME 30817 30824	3 hours
+T457	OTHER_COMPOUND 30875 30888	ethyl acetate
+T458	OTHER_COMPOUND 30973 30978	water
+T459	OTHER_COMPOUND 30983 30988	brine
+T460	YIELD_OTHER 31068 31073	7.3 g
+T461	REACTION_PRODUCT 31081 31095	title compound
+T462	YIELD_PERCENT 31103 31106	80%
+T463	OTHER_COMPOUND 31116 31121	CDCl3
+T464	EXAMPLE_LABEL 31202 31203	9
+T465	STARTING_MATERIAL 31219 31258	2-([1,2,3]triazol-1-yl)-5-bromopyridine
+T466	STARTING_MATERIAL 31263 31302	2-([1,2,3]triazol-2-yl)-5-bromopyridine
+T467	STARTING_MATERIAL 31311 31330	2,5-dibromopyridine
+T468	SOLVENT 31358 31380	1-methyl-2-pyrrolidone
+T469	REAGENT_CATALYST 31418 31437	potassium carbonate
+T470	TIME 31454 31462	10 hours
+T471	TEMPERATURE 31485 31491	100° C
+T472	OTHER_COMPOUND 31529 31542	ethyl acetate
+T473	OTHER_COMPOUND 31596 31601	water
+T474	OTHER_COMPOUND 31606 31611	brine
+T475	YIELD_OTHER 31688 31691	6 g
+T476	REACTION_PRODUCT 31695 31734	2-([1,2,3]triazol-1-yl)-5-bromopyridine
+T477	YIELD_OTHER 31736 31739	4 g
+T478	REACTION_PRODUCT 31743 31782	2-([1,2,3]triazol-2-yl)-5-bromopyridine
+T479	REACTION_PRODUCT 31787 31826	2-([1,2,3]triazol-1-yl)-5-bromopyridine
+T480	OTHER_COMPOUND 31835 31840	CDCl3
+T481	OTHER_COMPOUND 31904 31943	2-([1,2,3]triazol-2-yl)-5-bromopyridine
+T482	OTHER_COMPOUND 31952 31957	CDCl3
+T483	REACTION_PRODUCT 32027 32123	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T484	REACTION_PRODUCT 32134 32136	10
+T485	SOLVENT 32151 32173	1-methyl-2-pyrrolidone
+T486	REACTION_PRODUCT 32196 32266	(R)-3-(4-tributhylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethanol
+T487	STARTING_MATERIAL 32306 32347	2-(2-methyltetrazol-5-yl)-5-bromopyridine
+T488	REAGENT_CATALYST 32360 32376	lithium chloride
+T489	REAGENT_CATALYST 32390 32433	dichlorobistriphenylphospine palladium (II)
+T490	TEMPERATURE 32437 32453	room temperature
+T491	TEMPERATURE 32493 32499	120° C
+T492	TIME 32505 32512	4 hours
+T493	OTHER_COMPOUND 32550 32555	water
+T494	OTHER_COMPOUND 32580 32593	ethyl acetate
+T495	OTHER_COMPOUND 32646 32651	brine
+T496	YIELD_OTHER 32747 32750	8 g
+T497	REACTION_PRODUCT 32758 32772	title compound
+T498	YIELD_PERCENT 32780 32783	26%
+T499	OTHER_COMPOUND 32793 32800	DMSO-d6
+T500	EXAMPLE_LABEL 32967 32968	2
+T501	REACTION_PRODUCT 32984 33089	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T502	REACTION_PRODUCT 33100 33102	16
+T503	REACTION_PRODUCT 33108 33122	title compound
+T504	YIELD_OTHER 33123 33128	6.6 g
+T505	YIELD_PERCENT 33136 33139	30%
+T506	STARTING_MATERIAL 33219 33269	2-(2-methyl-[1,3,4]oxadiazol-5-yl)-5-bromopyridine
+T507	STARTING_MATERIAL 33282 33323	2-(2-methyltetrazol-5-yl)-5-bromopyridine
+T508	OTHER_COMPOUND 33366 33373	DMSO-d6
+T509	REACTION_PRODUCT 33557 33651	(R)-3-(4-(2-([1,2,4]triazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T510	OTHER_COMPOUND 33662 33664	17
+T511	OTHER_COMPOUND 33745 33786	2-(2-methyltetrazol-5-yl)-5-bromopyridine
+T512	STARTING_MATERIAL 33798 33837	2-([1,2,4]triazol-1-yl)-5-bromopyridine
+T513	REACTION_PRODUCT 33877 33891	title compound
+T514	YIELD_OTHER 33892 33898	150 mg
+T515	YIELD_PERCENT 33906 33909	48%
+T516	EXAMPLE_LABEL 33920 33921	4
+T517	REACTION_PRODUCT 33937 34028	(R)-3-(4-(4-(4,5-dimethyloxzol-2-yl)phenyl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T518	REACTION_PRODUCT 34039 34041	21
+T519	STARTING_MATERIAL 34122 34163	2-(2-methyltetrazol-5-yl)-5-bromopyridine
+T520	STARTING_MATERIAL 34172 34211	4-(4,5-dimethyloxazol-2-yl)bromobenzene
+T521	REACTION_PRODUCT 34251 34265	title compound
+T522	YIELD_OTHER 34266 34272	780 mg
+T523	YIELD_PERCENT 34280 34283	76%
+T524	OTHER_COMPOUND 34294 34301	DMSO-d6
+T525	REACTION_PRODUCT 34499 34593	(R)-3-(4-(2-([1,2,3]triazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T526	REACTION_PRODUCT 34604 34606	24
+T527	STARTING_MATERIAL 34689 34728	(2-methyltetrazol-5-yl)-5-bromopyridine
+T528	STARTING_MATERIAL 34737 34776	2-([1,2,3]triazol-1-yl)-5-bromopyridine
+T529	REACTION_PRODUCT 34816 34830	title compound
+T530	YIELD_OTHER 34831 34836	1.2 g
+T531	OTHER_COMPOUND 34846 34853	DMSO-d6
+T532	EXAMPLE_LABEL 35048 35049	6
+T533	REACTION_PRODUCT 35065 35159	(R)-3-(4-(2-([1,2,3]triazol-2-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T534	REACTION_PRODUCT 35170 35172	29
+T535	OTHER_COMPOUND 35253 35294	2-(2-methyltetrazol-5-yl)-5-bromopyridine
+T536	STARTING_MATERIAL 35303 35342	2-([1,2,3]triazol-2-yl)-5-bromopyridine
+T537	REACTION_PRODUCT 35382 35396	title compound
+T538	YIELD_OTHER 35397 35402	0.7 g
+T539	OTHER_COMPOUND 35412 35419	DMSO-d6
+T540	EXAMPLE_LABEL 35601 35602	7
+T541	REACTION_PRODUCT 35618 35713	(R)-3-(4-(4-(4-cyanomethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T542	OTHER_COMPOUND 35724 35726	32
+T543	STARTING_MATERIAL 35807 35848	2-(2-methyltetrazol-5-yl)-5-bromopyridine
+T544	STARTING_MATERIAL 35857 35899	4-(4-cyanomethyl thiazol-2-yl)bromobenzene
+T545	REACTION_PRODUCT 35939 35953	title compound
+T546	YIELD_OTHER 35954 35960	520 mg
+T547	OTHER_COMPOUND 35970 35977	DMSO-d6
+T548	REACTION_PRODUCT 36161 36261	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3,5-difluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T549	REACTION_PRODUCT 36272 36274	38
+T550	OTHER_COMPOUND 36355 36425	(R)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethanol
+T551	OTHER_COMPOUND 36427 36501	(R)-3-(4-trimethylstannyl-3,4-difluorophenyl)-2-oxo-5-oxazolidinylmethanol
+T552	REACTION_PRODUCT 36541 36555	title compound
+T553	OTHER_COMPOUND 36565 36572	DMSO-d6
+T554	REACTION_PRODUCT 36755 36864	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3,4-difluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T555	REACTION_PRODUCT 36875 36877	39
+T556	STARTING_MATERIAL 36937 37011	(R)-3-(4-trimethylstannyl-3,4-difluorophenyl)-2-oxo-5-oxazolidinylmethanol
+T557	OTHER_COMPOUND 37016 37066	2-(2-methyl-[1,3,4]oxadiazol-5-yl)-5-bromopyridine
+T558	REACTION_PRODUCT 37106 37120	title compound
+T559	REACTION_PRODUCT 37321 37440	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid
+T560	STARTING_MATERIAL 37451 37453	12
+T561	SOLVENT 37467 37484	dimethylformamide
+T562	REACTION_PRODUCT 37506 37602	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T563	REACTION_PRODUCT 37613 37615	10
+T564	STARTING_MATERIAL 37651 37679	1,3-dicyclohexylcarbodiimide
+T565	STARTING_MATERIAL 37691 37702	BOC-glycine
+T566	REAGENT_CATALYST 37716 37739	4-dimethylaminopyridine
+T567	TEMPERATURE 37743 37759	room temperature
+T568	TIME 37781 37789	10 hours
+T569	OTHER_COMPOUND 37827 37832	water
+T570	OTHER_COMPOUND 37852 37865	ethyl acetate
+T571	OTHER_COMPOUND 37918 37923	brine
+T572	OTHER_COMPOUND 38086 38103	methylenechloride
+T573	REAGENT_CATALYST 38125 38145	trifluoroacetic acid
+T574	TIME 38163 38170	2 hours
+T575	TEMPERATURE 38174 38190	room temperature
+T576	OTHER_COMPOUND 38220 38227	ethanol
+T577	OTHER_COMPOUND 38232 38243	ethyl ether
+T578	REACTION_PRODUCT 38284 38298	title compound
+T579	YIELD_OTHER 38299 38305	4.47 g
+T580	YIELD_PERCENT 38313 38316	76%
+T581	OTHER_COMPOUND 38326 38333	DMSO-d6
+T582	REACTION_PRODUCT 38533 38649	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-L-valyloxy)methyl oxazolidin-2-on trifluoroacetic
+T583	REACTION_PRODUCT 38669 38683	title compound
+T584	OTHER_COMPOUND 38745 38756	BOC-valline
+T585	OTHER_COMPOUND 38769 38780	BOC-glycine
+T586	OTHER_COMPOUND 38790 38797	DMSO-d6
+T587	EXAMPLE_LABEL 39037 39039	12
+T588	REACTION_PRODUCT 39055 39171	(R)-3-(4-(2-[1,2,3]triazol-1-yl pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid
+T589	REACTION_PRODUCT 39182 39184	22
+T590	REACTION_PRODUCT 39190 39204	title compound
+T591	OTHER_COMPOUND 39275 39277	24
+T592	OTHER_COMPOUND 39287 39294	DMSO-d6
+T593	REACTION_PRODUCT 39507 39622	(R)-3-(4-(4-(4,5-dimethyloxazol-2-yl)phenyl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid
+T594	REACTION_PRODUCT 39633 39635	23
+T595	REACTION_PRODUCT 39641 39655	title compound
+T596	OTHER_COMPOUND 39726 39728	21
+T597	OTHER_COMPOUND 39738 39745	DMSO-d6
+T598	REACTION_PRODUCT 39902 40030	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid
+T599	REACTION_PRODUCT 40042 40044	27
+T600	REACTION_PRODUCT 40050 40064	title compound
+T601	OTHER_COMPOUND 40135 40137	16
+T602	OTHER_COMPOUND 40147 40154	DMSO-d6
+T603	REACTION_PRODUCT 40354 40472	(R)-3-(4-(4-(4-cyanomethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid
+T604	REACTION_PRODUCT 40483 40485	34
+T605	REACTION_PRODUCT 40491 40505	title compound
+T606	OTHER_COMPOUND 40576 40578	32
+T607	OTHER_COMPOUND 40588 40595	DMSO-d6
+T608	EXAMPLE_LABEL 40719 40721	16
+T609	REACTION_PRODUCT 40737 40854	(R)-3-(4-(2-([1,2,3]triazol-2-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid
+T610	REACTION_PRODUCT 40865 40867	35
+T611	REACTION_PRODUCT 40873 40887	title compound
+T612	OTHER_COMPOUND 40958 40960	29
+T613	OTHER_COMPOUND 40970 40977	DMSO-d6
+T614	REACTION_PRODUCT 41191 41322	(S)-3-(4-(2-(2-oxo-4-glycyloxymethylpyrrolidin-1-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidin acetamide trifluoroacetic acid
+T615	REACTION_PRODUCT 41333 41334	1
+T616	REACTION_PRODUCT 41336 41337	1
+T617	SOLVENT 41368 41389	1-methyl-2-pyrrolidon
+T618	STARTING_MATERIAL 41413 41491	(S)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T619	STARTING_MATERIAL 41526 41582	2-(2-oxo-4-hydroxymethylpyrrolidin-1-yl)-5-bromopyridine
+T620	REAGENT_CATALYST 41594 41610	lithium chloride
+T621	REAGENT_CATALYST 41625 41669	dichlorobistriphenylphosphine palladium (II)
+T622	TEMPERATURE 41673 41689	room temperature
+T623	TEMPERATURE 41729 41735	110° C
+T624	TIME 41741 41748	2 hours
+T625	OTHER_COMPOUND 41786 41791	water
+T626	OTHER_COMPOUND 41811 41824	ethyl acetate
+T627	OTHER_COMPOUND 41850 41855	brine
+T628	REACTION_PRODUCT 41996 42112	(S)-3-(4-(2-(2-oxo-4-hydroxymethylpyrrolidin-1-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T629	YIELD_OTHER 42113 42119	410 mg
+T630	YIELD_PERCENT 42127 42130	21%
+T631	SOLVENT 42157 42174	dimethylformamide
+T632	STARTING_MATERIAL 42285 42313	1,3-dicyclohexylcarbodiamide
+T633	REAGENT_CATALYST 42324 42335	BOC-glycine
+T634	REAGENT_CATALYST 42350 42372	4-dimethylaminopyridin
+T635	TEMPERATURE 42376 42392	room temperature
+T636	TIME 42414 42422	10 hours
+T637	OTHER_COMPOUND 42460 42465	water
+T638	OTHER_COMPOUND 42485 42498	ethyl acetate
+T639	OTHER_COMPOUND 42524 42529	brine
+T640	OTHER_COMPOUND 42717 42734	methylenechloride
+T641	OTHER_COMPOUND 42755 42775	trifluoroacetic acid
+T642	TIME 42797 42804	2 hours
+T643	TEMPERATURE 42808 42824	room temperature
+T644	OTHER_COMPOUND 42854 42861	ethanol
+T645	OTHER_COMPOUND 42866 42877	ethyl ether
+T646	REACTION_PRODUCT 42913 42927	title compound
+T647	YIELD_OTHER 42928 42934	140 mg
+T648	OTHER_COMPOUND 42944 42951	DMSO-d6
+T649	EXAMPLE_LABEL 43188 43190	18
+T650	REACTION_PRODUCT 43206 43336	(S)-3-(4-(2-(4-glycyloxymethyl-[1,2,3]triazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidin acetamide trifluoroacetic acid
+T651	REACTION_PRODUCT 43347 43348	2
+T652	STARTING_MATERIAL 43430 43486	2-(2-oxo-4-hydroxymethylpyrrolidin-1-yl)-5-bromopyridine
+T653	OTHER_COMPOUND 43488 43543	2-(4-hydroxymethyl-[1,2,3]triazol-1-yl)-5-bromopyridine
+T654	REACTION_PRODUCT 43583 43597	title compound
+T655	OTHER_COMPOUND 43607 43614	DMSO-d6
+T656	EXAMPLE_LABEL 43810 43812	19
+T657	REACTION_PRODUCT 43828 43959	(S)-3-(4-(2-(5-glycyloxymethylisoxazol-3-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid
+T658	REACTION_PRODUCT 43970 43971	3
+T659	OTHER_COMPOUND 44053 44109	2-(2-oxo-4-hydroxymethylpyrrolidin-1-yl)-5-bromopyridine
+T660	OTHER_COMPOUND 44111 44154	2-(5-hydroxymethylisoxazol)-5-bromopyridine
+T661	REACTION_PRODUCT 44194 44208	title compound
+T662	OTHER_COMPOUND 44218 44225	DMSO-d6
+T663	REACTION_PRODUCT 44452 44585	(S)-3-(4-(2-(2-oxo-3-glycyloxypyrrolidin-1-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid
+T664	REACTION_PRODUCT 44596 44597	5
+T665	REACTION_PRODUCT 44679 44735	2-(2-oxo-4-hydroxymethylpyrrolidin-1-yl)-5-bromopyridine
+T666	OTHER_COMPOUND 44737 44787	2-(2-oxo-3-hydroxypyrrolidin-1-yl)-5-bromopyridine
+T667	REACTION_PRODUCT 44827 44841	title compound
+T668	OTHER_COMPOUND 44851 44858	DMSO-d6
+T669	REACTION_PRODUCT 45126 45266	(S)-3-(4-(2-(5-glycyloxymethyl-[1,2,4]oxadiazol-3-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid
+T670	OTHER_COMPOUND 45277 45278	6
+T671	REACTION_PRODUCT 45360 45416	2-(2-oxo-4-hydroxymethylpyrrolidin-1-yl)-5-bromopyridine
+T672	OTHER_COMPOUND 45418 45475	2-(5-hydroxymethyl-[1,2,4]oxadiazol-3-yl)-5-bromopyridine
+T673	REACTION_PRODUCT 45515 45529	title compound
+T674	OTHER_COMPOUND 45539 45546	DMSO-d6
+T675	EXAMPLE_LABEL 45739 45741	22
+T676	REACTION_PRODUCT 45757 45892	(S)-3-(4-(2-(5-glycyloxymethyl-4,5-dihydroisoxazol-3-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidin acetamide trifluoroacetic acid
+T677	REACTION_PRODUCT 45903 45904	7
+T678	REACTION_PRODUCT 45986 46042	2-(2-oxo-4-hydroxymethylpyrrolidin-1-yl)-5-bromopyridine
+T679	OTHER_COMPOUND 46044 46104	2-(5-hydroxymethyl-4,5-dihydroisoxazol-1-yl)-5-bromopyridine
+T680	REACTION_PRODUCT 46144 46158	title compound
+T681	OTHER_COMPOUND 46168 46175	DMSO-d6
+T682	REACTION_PRODUCT 46428 46552	(S)-3-(4-(4-(4-glycyloxymethylthiazol-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide trifluoroacetic acid
+T683	REACTION_PRODUCT 46563 46565	30
+T684	REACTION_PRODUCT 46647 46703	2-(2-oxo-4-hydroxymethylpyrrolidin-1-yl)-5-bromopyridine
+T685	REACTION_PRODUCT 46705 46750	4-(4-hydroxymethyl thiazol-2-yl)-bromobenzene
+T686	REACTION_PRODUCT 46790 46804	title compound
+T687	OTHER_COMPOUND 46814 46821	DMSO-d6
+T688	EXAMPLE_LABEL 47002 47004	24
+T689	REACTION_PRODUCT 47020 47130	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,4]triazol-1-yl)methyl oxazolidin-2-on
+T690	REACTION_PRODUCT 47141 47142	4
+T691	REACTION_PRODUCT 47144 47145	1
+T692	SOLVENT 47176 47193	methylenechloride
+T693	REACTION_PRODUCT 47215 47311	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T694	REACTION_PRODUCT 47322 47324	10
+T695	STARTING_MATERIAL 47365 47387	methansulfonylchloride
+T696	REAGENT_CATALYST 47410 47423	triethylamine
+T697	TEMPERATURE 47427 47443	room temperature
+T698	TIME 47484 47494	30 minutes
+T699	OTHER_COMPOUND 47496 47501	Water
+T700	OTHER_COMPOUND 47506 47511	brine
+T701	REACTION_PRODUCT 47673 47779	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-methansulfonyloxymethyl oxazolidin-2-on
+T702	REACTION_PRODUCT 47780 47781	1
+T703	YIELD_PERCENT 47791 47794	82%
+T704	SOLVENT 47830 47847	dimethylformamide
+T705	STARTING_MATERIAL 47943 47956	1,2,4-triazol
+T706	REAGENT_CATALYST 47978 47991	sodiumhydride
+T707	TEMPERATURE 48001 48017	room temperature
+T708	TIME 48034 48040	2 days
+T709	OTHER_COMPOUND 48082 48095	ethyl acetate
+T710	OTHER_COMPOUND 48156 48161	water
+T711	OTHER_COMPOUND 48166 48171	brine
+T712	REACTION_PRODUCT 48336 48350	title compound
+T713	YIELD_OTHER 48351 48357	400 mg
+T714	YIELD_PERCENT 48365 48368	43%
+T715	OTHER_COMPOUND 48378 48385	DMSO-d6
+T716	REACTION_PRODUCT 48571 48681	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-2-yl)methyl oxazolidin-2-on
+T717	REACTION_PRODUCT 48692 48693	8
+T718	REACTION_PRODUCT 48699 48809	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on
+T719	OTHER_COMPOUND 48820 48821	9
+T720	OTHER_COMPOUND 48904 48917	1,2,4-triazol
+T721	OTHER_COMPOUND 48919 48932	1,2,3-triazol
+T722	REACTION_PRODUCT 48953 48954	8
+T723	OTHER_COMPOUND 48968 48969	9
+T724	REACTION_PRODUCT 49043 49044	8
+T725	OTHER_COMPOUND 49054 49061	DMSO-d6
+T726	OTHER_COMPOUND 49230 49231	9
+T727	OTHER_COMPOUND 49241 49248	DMSO-d6
+T728	EXAMPLE_LABEL 49415 49417	26
+T729	REACTION_PRODUCT 49433 49552	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on
+T730	REACTION_PRODUCT 49563 49565	13
+T731	OTHER_COMPOUND 49636 49648	1,2,3-triazo
+T732	OTHER_COMPOUND 49672 49674	16
+T733	REACTION_PRODUCT 49713 49727	title compound
+T734	OTHER_COMPOUND 49737 49744	DMSO-d6
+T735	REACTION_PRODUCT 49943 50051	(R)-3-(4-(2-([1,2,4]triazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on
+T736	REACTION_PRODUCT 50062 50064	14
+T737	OTHER_COMPOUND 50135 50148	1,2,3-triazol
+T738	OTHER_COMPOUND 50172 50174	17
+T739	REACTION_PRODUCT 50213 50227	title compound
+T740	OTHER_COMPOUND 50237 50244	DMSO-d6
+T741	REACTION_PRODUCT 50471 50566	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-fluoromethyl oxazolidin-2-on
+T742	REACTION_PRODUCT 50577 50579	18
+T743	SOLVENT 50592 50609	methylenechloride
+T744	REACTION_PRODUCT 50647 50649	10
+T745	REAGENT_CATALYST 50688 50716	diethylaminosulfurtrifloride
+T746	REAGENT_CATALYST 50718 50722	DAST
+T747	REAGENT_CATALYST 50740 50753	triethylamine
+T748	TIME 50775 50783	24 hours
+T749	REACTION_PRODUCT 50885 50899	title compound
+T750	REACTION_PRODUCT 50900 50905	75 mg
+T751	YIELD_PERCENT 50913 50916	75%
+T752	OTHER_COMPOUND 50926 50933	DMSO-d6
+T753	EXAMPLE_LABEL 51086 51088	29
+T754	REACTION_PRODUCT 51104 51190	(S)-3-(4-(2-(imidazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-5-aminomethyl oxazolidin-2-on
+T755	REACTION_PRODUCT 51215 51217	19
+T756	SOLVENT 51232 51239	ethanol
+T757	STARTING_MATERIAL 51255 51262	pyridin
+T758	REACTION_PRODUCT 51286 51379	(S)-3-(4-(2-(imidazol-1-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T759	REAGENT_CATALYST 51419 51432	hydroxylamine
+T760	TEMPERATURE 51436 51452	room temperature
+T761	TIME 51469 51477	10 hours
+T762	TEMPERATURE 51497 51503	100° C
+T763	OTHER_COMPOUND 51545 51558	ethyl acetate
+T764	OTHER_COMPOUND 51614 51619	water
+T765	OTHER_COMPOUND 51624 51629	brine
+T766	OTHER_COMPOUND 51801 51816	tetrahydrofuran
+T767	OTHER_COMPOUND 51837 51854	hydrochloric acid
+T768	TIME 51872 51882	10 minutes
+T769	REACTION_PRODUCT 51961 51975	title compound
+T770	YIELD_OTHER 51976 51979	1 g
+T771	EXAMPLE_LABEL 51989 51991	30
+T772	REACTION_PRODUCT 52007 52104	(S)-3-(4-(4-(4,5-dimethyloxazol-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T773	REACTION_PRODUCT 52115 52117	11
+T774	OTHER_COMPOUND 52187 52227	4-(4,5-dimethyloxazol-2-yl)-bromobenzene
+T775	REACTION_PRODUCT 52238 52316	(S)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T776	REACTION_PRODUCT 52355 52369	title compound
+T777	OTHER_COMPOUND 52379 52386	DMSO-d6
+T778	REACTION_PRODUCT 52571 52674	(S)-3-(4-(2-(4,5-dimethyloxazol-2-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T779	REACTION_PRODUCT 52685 52687	15
+T780	OTHER_COMPOUND 52757 52800	4-(4,5-dimethyloxazol-2-yl)-5-bromopyridine
+T781	OTHER_COMPOUND 52811 52889	(S)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T782	REACTION_PRODUCT 52928 52942	title compound
+T783	OTHER_COMPOUND 52952 52959	DMSO-d6
+T784	REACTION_PRODUCT 53173 53272	(S)-3-(4-(2-([1,2,3]triazol-2-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T785	REACTION_PRODUCT 53283 53285	25
+T786	REACTION_PRODUCT 53355 53394	2-([1,2,3]triazol-2-yl)-5-bromopyridine
+T787	OTHER_COMPOUND 53405 53483	(S)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T788	REACTION_PRODUCT 53522 53536	title compound
+T789	OTHER_COMPOUND 53546 53553	DMSO-d6
+T790	EXAMPLE_LABEL 53735 53737	33
+T791	REACTION_PRODUCT 53753 53868	(S)-3-(4-(4-(4(S)-hydroxymethyl-4,5-dihydrooxazol-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T792	REACTION_PRODUCT 53879 53881	26
+T793	STARTING_MATERIAL 53951 54011	4-(4 (S)-hydroxymethyl-4,5-dihydro oxazol-2-yl)-bromobenzene
+T794	REACTION_PRODUCT 54022 54100	(S)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T795	REACTION_PRODUCT 54139 54153	title compound
+T796	OTHER_COMPOUND 54163 54170	DMSO-d6
+T797	REACTION_PRODUCT 54397 54497	(S)-3-(4-(4-(4-cyanomethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T798	REACTION_PRODUCT 54508 54510	31
+T799	REACTION_PRODUCT 54580 54623	4-(4-cyanomethyl thiazol-2-yl)-bromobenzene
+T800	REACTION_PRODUCT 54634 54712	(S)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T801	REACTION_PRODUCT 54751 54765	title compound
+T802	OTHER_COMPOUND 54775 54782	DMSO-d6
+T803	REACTION_PRODUCT 54953 55064	(R)-3-(4-(4-(4-hydroxymethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on
+T804	REACTION_PRODUCT 55075 55077	36
+T805	STARTING_MATERIAL 55147 55192	4-(4-hydroxymethyl thiazol-2-yl)-bromobenzene
+T806	OTHER_COMPOUND 55203 55282	(R)-3-(4-trimethylstannyl-3-fluorophenyl)-5-[1,2,3]triazol-1-yl oxazolidin-2-on
+T807	REACTION_PRODUCT 55321 55335	title compound
+T808	OTHER_COMPOUND 55345 55352	DMSO-d6
+T809	REACTION_PRODUCT 55581 55715	(R)-3-(4-(4-(4-glycyloxymethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on trifluoroacetic acid
+T810	REACTION_PRODUCT 55726 55728	37
+T811	OTHER_COMPOUND 55798 55907	(R)-3-(4-(4-(4-hydroxymethyl thiazol-2-yl)phenyl)-3-fluorophenyl)-5-[1,2,3]triazol-1-ylmethyl oxazolidin-2-on
+T812	REACTION_PRODUCT 55946 55960	title compound
+T813	OTHER_COMPOUND 55970 55977	DMSO-d6
+T814	EXAMPLE_LABEL 56187 56189	37
+T815	REACTION_PRODUCT 56205 56301	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-methoxymethyl oxazolidin-2-on
+T816	OTHER_COMPOUND 56312 56314	33
+T817	SOLVENT 56328 56336	methanol
+T818	STARTING_MATERIAL 56361 56467	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-methansulfonyloxymethyl oxazolidin-2-on
+T819	REAGENT_CATALYST 56555 56571	sodium methoxide
+T820	TEMPERATURE 56575 56591	room temperature
+T821	TIME 56613 56620	one day
+T822	TEMPERATURE 56624 56640	room temperature
+T823	OTHER_COMPOUND 56674 56687	ethyl acetate
+T824	OTHER_COMPOUND 56743 56748	water
+T825	OTHER_COMPOUND 56753 56758	brine
+T826	REACTION_PRODUCT 56879 56893	title compound
+T827	YIELD_OTHER 56894 56900	200 mg
+T828	YIELD_PERCENT 56908 56911	58%
+T829	OTHER_COMPOUND 56921 56926	CDCl3
+T830	REACTION_PRODUCT 57126 57233	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(N,N-dimethylaminomethyl)oxazolidin-2-on
+T831	REACTION_PRODUCT 57244 57246	40
+T832	SOLVENT 57259 57275	dimethylformamid
+T833	STARTING_MATERIAL 57300 57406	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-methansulfonyloxymethyl oxazolidin-2-on
+T834	REAGENT_CATALYST 57494 57521	dimethylamine hydrochloride
+T835	TEMPERATURE 57525 57541	room temperature
+T836	TIME 57572 57580	30 hours
+T837	TEMPERATURE 57603 57608	60° C
+T838	OTHER_COMPOUND 57651 57664	ethyl acetate
+T839	OTHER_COMPOUND 57720 57725	water
+T840	OTHER_COMPOUND 57730 57735	brine
+T841	REACTION_PRODUCT 57875 57889	title compound
+T842	YIELD_OTHER 57890 57895	70 mg
+T843	YIELD_PERCENT 57903 57906	76%
+T844	OTHER_COMPOUND 57916 57923	DMSO-d6
+T845	REACTION_PRODUCT 58109 58211	(S)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-N-methylaminomethyl oxazolidin-2-on
+T846	REACTION_PRODUCT 58222 58224	41
+T847	SOLVENT 58237 58253	dimethylformamid
+T848	STARTING_MATERIAL 58278 58384	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-methansulfonyloxymethyl oxazolidin-2-on
+T849	REAGENT_CATALYST 58472 58497	methylamine hydrochloride
+T850	REAGENT_CATALYST 58512 58531	potassium carbonate
+T851	TEMPERATURE 58535 58551	room temperature
+T852	TIME 58582 58590	30 hours
+T853	TEMPERATURE 58613 58618	80° C
+T854	OTHER_COMPOUND 58648 58661	ethyl acetate
+T855	OTHER_COMPOUND 58722 58727	water
+T856	OTHER_COMPOUND 58732 58737	brine
+T857	REACTION_PRODUCT 58876 58890	title compound
+T858	REACTION_PRODUCT 58891 58896	80 mg
+T859	YIELD_PERCENT 58904 58907	45%
+T860	OTHER_COMPOUND 58917 58924	DMSO-d6
+T861	REACTION_PRODUCT 59110 59229	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy) methyl oxazolidin-2-on trifluoroacetic
+T862	REACTION_PRODUCT 59245 59247	42
+T863	REACTION_PRODUCT 59316 59330	title compound
+T864	OTHER_COMPOUND 59337 59350	BOC-L-alanine
+T865	OTHER_COMPOUND 59362 59373	BOC-glycine
+T866	OTHER_COMPOUND 59383 59390	DMSO-d6
+T867	REACTION_PRODUCT 59620 59698	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-L-valyloxy)
+T868	REACTION_PRODUCT 59699 59735	methyl oxazolidin-2-on hydrochloride
+T869	REACTION_PRODUCT 59746 59748	43
+T870	STARTING_MATERIAL 59769 59771	20
+T871	SOLVENT 59814 59819	water
+T872	OTHER_COMPOUND 59878 59896	sodium bicarbonate
+T873	OTHER_COMPOUND 59897 59904	aqueous
+T874	OTHER_COMPOUND 59952 59965	ethyl acetate
+T875	OTHER_COMPOUND 60015 60020	ether
+T876	OTHER_COMPOUND 60044 60061	hydrochloric acid
+T877	REACTION_PRODUCT 60156 60170	title compound
+T878	YIELD_OTHER 60171 60177	200 mg
+T879	YIELD_PERCENT 60185 60188	46%
+T880	OTHER_COMPOUND 60198 60205	DMSO-d6
+T881	REACTION_PRODUCT 60449 60565	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy)methyl oxazolidin-2-on hydrochloride
+T882	REACTION_PRODUCT 60576 60578	44
+T883	OTHER_COMPOUND 60617 60619	42
+T884	REACTION_PRODUCT 60686 60700	title compound
+T885	OTHER_COMPOUND 60710 60717	DMSO-d6
+T886	EXAMPLE_LABEL 60930 60932	43
+T887	REACTION_PRODUCT 60948 61046	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on
+T888	REACTION_PRODUCT 61071 61073	45
+T889	OTHER_COMPOUND 61116 61118	12
+T890	REACTION_PRODUCT 61185 61199	title compound
+T891	OTHER_COMPOUND 61209 61216	DMSO-d6
+T892	REACTION_PRODUCT 61417 61518	(S)-3-(4-(4-(4-hydroxymethylthiazol-2-yl)phenyl)-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T893	REACTION_PRODUCT 61529 61531	28
+T894	REACTION_PRODUCT 61561 61639	(S)-3-(4-trimethylstannyl-3-fluorophenyl)-2-oxo-5-oxazolidinylmethyl acetamide
+T895	STARTING_MATERIAL 61667 61711	4-(4-hydroxymethylthiazol-2-yl)-bromobenzene
+T896	REACTION_PRODUCT 61777 61791	title compound
+T897	OTHER_COMPOUND 61801 61808	DMSO-d6
+T898	REACTION_PRODUCT 62006 62131	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-prolinyloxy)methyl oxazolidin-2-on trifluoroacetic acid
+T899	OTHER_COMPOUND 62142 62144	46
+T900	OTHER_COMPOUND 62174 62187	BOC-L-proline
+T901	OTHER_COMPOUND 62200 62211	BOC-glycine
+T902	REACTION_PRODUCT 62278 62292	title compound
+T903	OTHER_COMPOUND 62302 62309	DMSO-d6
+T904	REACTION_PRODUCT 62554 62642	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-prolinyloxy)methyl
+T905	OTHER_COMPOUND 62683 62685	47
+T906	OTHER_COMPOUND 62727 62729	46
+T907	REACTION_PRODUCT 62796 62810	title compound
+T908	OTHER_COMPOUND 62820 62827	DMSO-d6
+T909	REACTION_PRODUCT 63072 63179	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on
+T910	REACTION_PRODUCT 63204 63206	48
+T911	OTHER_COMPOUND 63249 63251	27
+T912	REACTION_PRODUCT 63318 63332	title compound
+T913	OTHER_COMPOUND 63342 63349	DMSO-d6
+T914	REACTION_PRODUCT 63548 63671	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl oxazolidin-2-on trifluoroacetic acid
+T915	REACTION_PRODUCT 63682 63684	49
+T916	OTHER_COMPOUND 63714 63727	BOC-β-alanine
+T917	OTHER_COMPOUND 63740 63751	BOC-glycine
+T918	REACTION_PRODUCT 63818 63832	title compound
+T919	OTHER_COMPOUND 63842 63849	DMSO-d6
+T920	EXAMPLE_LABEL 64046 64048	49
+T921	REACTION_PRODUCT 64064 64151	(R)-3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)(methyl
+T922	OTHER_COMPOUND 64176 64178	50
+T923	REACTION_PRODUCT 64220 64222	49
+T924	REACTION_PRODUCT 64289 64303	title compound
+T925	OTHER_COMPOUND 64313 64320	DMSO-d6
+T926	REACTION_PRODUCT 64534 64666	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy)methyl oxazolidin-2-on trifluoroacetic acid
+T927	REACTION_PRODUCT 64677 64679	51
+T928	OTHER_COMPOUND 64722 64724	16
+T929	REACTION_PRODUCT 64729 64742	BOC-L-alanine
+T930	REACTION_PRODUCT 64809 64823	title compound
+T931	OTHER_COMPOUND 64833 64840	DMSO-d6
+T932	REACTION_PRODUCT 65072 65183	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy)methyl oxazolidin-2-on
+T933	REACTION_PRODUCT 65208 65210	52
+T934	OTHER_COMPOUND 65253 65255	51
+T935	REACTION_PRODUCT 65322 65336	title compound
+T936	OTHER_COMPOUND 65346 65353	DMSO-d6
+T937	REACTION_PRODUCT 65584 65715	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-valyloxy)methyl oxazolidin-2-on trifluoroacetic acid
+T938	REACTION_PRODUCT 65726 65728	53
+T939	REACTION_PRODUCT 65771 65773	16
+T940	OTHER_COMPOUND 65778 65791	BOC-L-valline
+T941	REACTION_PRODUCT 65858 65872	title compound
+T942	OTHER_COMPOUND 65882 65889	DMSO-d6
+T943	REACTION_PRODUCT 66148 66258	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-valyloxy)methyl oxazolidin-2-on
+T944	REACTION_PRODUCT 66283 66285	54
+T945	OTHER_COMPOUND 66328 66330	53
+T946	REACTION_PRODUCT 66397 66411	title compound
+T947	OTHER_COMPOUND 66421 66428	DMSO-d6
+T948	REACTION_PRODUCT 66672 66806	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-prolinyloxy)methyl oxazolidin-2-on trifluoroacetic acid
+T949	REACTION_PRODUCT 66817 66819	55
+T950	OTHER_COMPOUND 66862 66864	16
+T951	OTHER_COMPOUND 66869 66883	BOC-L-prroline
+T952	REACTION_PRODUCT 66950 66964	title compound
+T953	OTHER_COMPOUND 66974 66981	DMSO-d6
+T954	REACTION_PRODUCT 67239 67352	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-prolinyloxy)methyl oxazolidin-2-on
+T955	OTHER_COMPOUND 67377 67379	56
+T956	REACTION_PRODUCT 67422 67424	55
+T957	REACTION_PRODUCT 67491 67505	title compound
+T958	OTHER_COMPOUND 67515 67522	DMSO-d6
+T959	REACTION_PRODUCT 67780 67912	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl oxazolidin-2-on trifluoroacetic acid
+T960	REACTION_PRODUCT 67923 67925	57
+T961	OTHER_COMPOUND 67968 67970	16
+T962	OTHER_COMPOUND 67975 67989	BOC-β-allanine
+T963	REACTION_PRODUCT 68056 68070	title compound
+T964	OTHER_COMPOUND 68080 68087	DMSO-d6
+T965	REACTION_PRODUCT 68302 68413	(R)-3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl oxazolidin-2-on
+T966	OTHER_COMPOUND 68438 68440	58
+T967	OTHER_COMPOUND 68483 68485	57
+T968	REACTION_PRODUCT 68552 68566	title compound
+T969	OTHER_COMPOUND 68576 68583	DMSO-d6
+T970	REACTION_PRODUCT 68798 68907	mono-[(R)-[3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl]phosphate
+T971	REACTION_PRODUCT 68918 68920	72
+T972	REACTION_PRODUCT 68926 69037	(R)-[3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl disodiumphosphate
+T973	REACTION_PRODUCT 69048 69050	59
+T974	SOLVENT 69101 69116	tetrahydrofuran
+T975	SOLVENT 69117 69136	methylenechloride=1
+T976	REACTION_PRODUCT 69170 69172	10
+T977	STARTING_MATERIAL 69211 69220	tetrazole
+T978	REAGENT_CATALYST 69234 69275	di-tetrabuthyl diisoprophylphosphoamidite
+T979	TIME 69292 69300	15 hours
+T980	TEMPERATURE 69304 69320	room temperature
+T981	TEMPERATURE 69363 69369	−78° C
+T982	STARTING_MATERIAL 69392 69417	metachloroperbenzoic acid
+T983	TIME 69434 69441	2 hours
+T984	TEMPERATURE 69466 69472	−78° C
+T985	STARTING_MATERIAL 69511 69536	metachloroperbenzoic acid
+T986	TIME 69588 69595	2 hours
+T987	TEMPERATURE 69651 69667	room temperature
+T988	OTHER_COMPOUND 69710 69723	ethyl acetate
+T989	OTHER_COMPOUND 69776 69791	sodiumbisulfate
+T990	OTHER_COMPOUND 69793 69810	sodiumbicarbonate
+T991	OTHER_COMPOUND 69815 69820	brine
+T992	REACTION_PRODUCT 69941 70050	(R)-[3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl phosphoric acid
+T993	REACTION_PRODUCT 70051 70069	ditetrabuthylester
+T994	YIELD_OTHER 70071 70077	0.71 g
+T995	YIELD_PERCENT 70079 70082	71%
+T996	OTHER_COMPOUND 70093 70100	DMSO-d6
+T997	OTHER_COMPOUND 70356 70364	methanol
+T998	OTHER_COMPOUND 70369 70379	chloroform
+T999	REAGENT_CATALYST 70424 70439	sodiummethoxide
+T1000	SOLVENT 70446 70454	methanol
+T1001	TEMPERATURE 70472 70488	room temperature
+T1002	TIME 70505 70513	10 hours
+T1003	REACTION_PRODUCT 70641 70655	title compound
+T1004	REACTION_PRODUCT 70666 70668	59
+T1005	YIELD_OTHER 70670 70676	300 mg
+T1006	OTHER_COMPOUND 70686 70689	D2O
+T1007	OTHER_COMPOUND 70825 70842	methylenechloride
+T1008	REAGENT_CATALYST 70936 70956	trifluoroacetic acid
+T1009	TIME 70978 70984	1 hour
+T1010	TEMPERATURE 70988 71004	room temperature
+T1011	OTHER_COMPOUND 71111 71118	ethanol
+T1012	OTHER_COMPOUND 71123 71134	ethyl ether
+T1013	REACTION_PRODUCT 71145 71254	mono-[(R)-[3-(4-(2-(2-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl]phosphate
+T1014	REACTION_PRODUCT 71265 71267	72
+T1015	OTHER_COMPOUND 71285 71292	DMSO-d6
+T1016	REACTION_PRODUCT 71465 71585	(R)-[3-(4-(2-(2-methyl-[1,3,4]oxadiazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl disodiumphosphate
+T1017	REACTION_PRODUCT 71596 71598	60
+T1018	REACTION_PRODUCT 71619 71621	16
+T1019	REACTION_PRODUCT 71627 71641	title compound
+T1020	OTHER_COMPOUND 71710 71713	D2O
+T1021	REACTION_PRODUCT 71855 71951	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-hydroxymethyl oxazolidin-2-on
+T1022	REACTION_PRODUCT 71962 71964	61
+T1023	REACTION_PRODUCT 71972 72013	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T1024	REACTION_PRODUCT 72019 72033	title compound
+T1025	OTHER_COMPOUND 72101 72108	DMSO-d6
+T1026	REACTION_PRODUCT 72293 72412	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on trifluoroacetic acid
+T1027	REACTION_PRODUCT 72423 72425	62
+T1028	REACTION_PRODUCT 72433 72474	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T1029	REACTION_PRODUCT 72480 72494	title compound
+T1030	OTHER_COMPOUND 72563 72570	DMSO-d6
+T1031	REACTION_PRODUCT 72770 72868	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-glycyloxymethyl oxazolidin-2-on
+T1032	REACTION_PRODUCT 72893 72895	63
+T1033	REACTION_PRODUCT 72903 72944	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T1034	REACTION_PRODUCT 72950 72964	title compound
+T1035	OTHER_COMPOUND 73033 73040	DMSO-d6
+T1036	REACTION_PRODUCT 73241 73363	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-L-alanyloxy)methyl oxazolidin-2-on trifluoroacetic acid
+T1037	REACTION_PRODUCT 73374 73376	64
+T1038	REACTION_PRODUCT 73384 73425	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T1039	REACTION_PRODUCT 73431 73445	title compound
+T1040	OTHER_COMPOUND 73514 73521	DMSO-d6
+T1041	REACTION_PRODUCT 73751 73867	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-alanyloxy)methyl oxazolidin-2-on hydrochloride
+T1042	REACTION_PRODUCT 73878 73880	65
+T1043	REACTION_PRODUCT 73888 73929	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T1044	REACTION_PRODUCT 73935 73949	title compound
+T1045	OTHER_COMPOUND 74018 74025	DMSO-d6
+T1046	REACTION_PRODUCT 74256 74372	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-L-valyloxy)methyl oxazolidin-2-on trifluoroacetic
+T1047	REACTION_PRODUCT 74388 74390	66
+T1048	REACTION_PRODUCT 74398 74439	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T1049	REACTION_PRODUCT 74445 74459	title compound
+T1050	OTHER_COMPOUND 74528 74535	DMSO-d6
+T1051	REACTION_PRODUCT 74793 74892	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(L-valyloxy)methyl hydrochloride
+T1052	REACTION_PRODUCT 74903 74905	67
+T1053	REACTION_PRODUCT 74913 74954	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T1054	REACTION_PRODUCT 74960 74974	title compound
+T1055	REACTION_PRODUCT 75294 75417	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl oxazolidin-2-on trifluoroacetic acid
+T1056	REACTION_PRODUCT 75428 75430	68
+T1057	REACTION_PRODUCT 75438 75479	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T1058	REACTION_PRODUCT 75485 75499	title compound
+T1059	OTHER_COMPOUND 75568 75575	DMSO-d6
+T1060	REACTION_PRODUCT 75790 75876	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-(β-alanyloxy)methyl
+T1061	REACTION_PRODUCT 75901 75903	69
+T1062	REACTION_PRODUCT 75911 75952	2-(1-methyltetrazol-5-yl)-5-bromopyridine
+T1063	REACTION_PRODUCT 75958 75972	title compound
+T1064	OTHER_COMPOUND 76041 76048	DMSO-d6
+T1065	REACTION_PRODUCT 76262 76371	mono-[(R)-[3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl]phosphate
+T1066	REACTION_PRODUCT 76382 76384	73
+T1067	OTHER_COMPOUND 76390 76501	(R)-[3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl disodiumphosphate
+T1068	OTHER_COMPOUND 76512 76514	70
+T1069	REACTION_PRODUCT 76555 76557	61
+T1070	REACTION_PRODUCT 76559 76687	(R)-[3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl phosphoric acid ditetrabuthylester
+T1071	OTHER_COMPOUND 76756 76763	DMSO-d6
+T1072	REACTION_PRODUCT 77032 77141	mono-[(R)-[3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-2-oxo-5-oxazolidinyl]methyl]phosphate
+T1073	REACTION_PRODUCT 77152 77154	73
+T1074	OTHER_COMPOUND 77223 77230	DMSO-d6
+T1075	REACTION_PRODUCT 77381 77395	title compound
+T1076	REACTION_PRODUCT 77406 77408	70
+T1077	OTHER_COMPOUND 77478 77481	D2O
+T1078	REACTION_PRODUCT 77609 77719	(R)-3-(4-(2-(1-methyltetrazol-5-yl)pyridin-5-yl)-3-fluorophenyl)-5-([1,2,3]triazol-1-yl)methyl oxazolidin-2-on
+T1079	REACTION_PRODUCT 77730 77732	71
+T1080	REACTION_PRODUCT 77753 77755	61
+T1081	REACTION_PRODUCT 77761 77775	title compound
+T1082	OTHER_COMPOUND 77844 77851	DMSO-d6
+T1083	OTHER_COMPOUND 78131 78144	oxazolidinone
+T1084	OTHER_COMPOUND 78184 78195	methicillin
+T1085	OTHER_COMPOUND 78206 78227	Staphylococcus aureus
+T1086	OTHER_COMPOUND 78229 78233	MRSA
+T1087	OTHER_COMPOUND 78239 78259	vancomycin resistant
+T1088	OTHER_COMPOUND 78273 78276	VRE
+T1089	OTHER_COMPOUND 78352 78356	agar
+T1090	OTHER_COMPOUND 78420 78425	Zyvox
+T1091	OTHER_COMPOUND 78606 78609	VRE
+T1092	OTHER_COMPOUND 79596 79617	Staphylococcus aureus
+T1093	OTHER_COMPOUND 79619 79623	MRSA
+T1094	OTHER_COMPOUND 79629 79640	Enterococci
+T1095	OTHER_COMPOUND 79642 79645	VRE
+T1096	OTHER_COMPOUND 79692 79703	derivatives
+T1097	OTHER_COMPOUND 79721 79726	Zyvox
+T1098	EXAMPLE_LABEL 79835 79836	2
+T1099	OTHER_COMPOUND 80036 80041	water
+T1100	TIME 80080 80089	2 minutes
+T1101	OTHER_COMPOUND 80222 80227	water
+T1102	OTHER_COMPOUND 80392 80403	derivatives
+T1103	OTHER_COMPOUND 80433 80438	water
+T1104	OTHER_COMPOUND 80517 80528	derivatives
+T1105	STARTING_MATERIAL 81350 81352	42
+T1106	OTHER_COMPOUND 81442 81447	Zyvox
+T1107	OTHER_COMPOUND 81475 81477	10
+T1108	OTHER_COMPOUND 81569 81573	oral
+T1109	OTHER_COMPOUND 81961 81990	hydroxyprophylmethylcellulose
+T1110	OTHER_COMPOUND 82061 82063	10
+T1111	OTHER_COMPOUND 82069 82071	16
+T1112	OTHER_COMPOUND 82085 82087	24
+T1113	OTHER_COMPOUND 82092 82094	27
+T1114	TIME 82190 82197	2 weeks
+T1115	OTHER_COMPOUND 82280 82285	Zyvox
+T1116	OTHER_COMPOUND 82301 82307	Upjohn
+T1117	OTHER_COMPOUND 82927 82940	oxazolidinone
+T1118	OTHER_COMPOUND 83097 83110	oxazolidinone
+T1119	OTHER_COMPOUND 83137 83144	Lactose
+T1120	EXAMPLE_LABEL 83284 83285	3
+T1121	OTHER_COMPOUND 83324 83337	oxazolidinone
+T1122	OTHER_COMPOUND 83345 83356	Corn starch
+T1123	OTHER_COMPOUND 83467 83474	gelatin
+T1124	OTHER_COMPOUND 83568 83581	oxazolidinone
+T1125	OTHER_COMPOUND 83589 83596	Citrate
+T1126	OTHER_COMPOUND 83665 83676	oxazolidine
+T1127	OTHER_COMPOUND 83686 83700	sodium citrate
+T1128	OTHER_COMPOUND 83702 83715	citratic acid
+T1129	OTHER_COMPOUND 83720 83728	dextrose
+T1130	OTHER_COMPOUND 83811 83819	aluminum
+T1131	OTHER_COMPOUND 83864 83869	water
+T1132	OTHER_COMPOUND 83914 83919	water
+T1133	REACTION_PRODUCT 83978 84002	oxazolidinone derivative
+T1134	REACTION_PRODUCT 84014 84015	I
+T1135	OTHER_COMPOUND 84080 84088	pyrrolyl
+T1136	OTHER_COMPOUND 84090 84100	imidazolyl
+T1137	OTHER_COMPOUND 84102 84117	1,2,4-triazolyl
+T1138	OTHER_COMPOUND 84136 84145	pyrazolyl
+T1139	OTHER_COMPOUND 84186 84197	thiazolyl;X
+T1140	OTHER_COMPOUND 84342 84358	acceptable metal
+T1141	OTHER_COMPOUND 84374 84377	Het
+T1142	OTHER_COMPOUND 84474 84479	alkyl
+T1143	OTHER_COMPOUND 84529 84534	cyano
+T1144	OTHER_COMPOUND 84551 84557	ketone
+T1145	OTHER_COMPOUND 84689 84692	Na+
+T1146	OTHER_COMPOUND 84799 84814	1,2,4-triazolyl
+T1147	OTHER_COMPOUND 84818 84833	1,2,3-triazolyl
+T1148	EXAMPLE_LABEL 84835 84836	4
+T1149	OTHER_COMPOUND 84977 84985	pyrrolyl
+T1150	OTHER_COMPOUND 84987 85014	imidazolyl, 1,2,4-triazolyl
+T1151	OTHER_COMPOUND 85016 85031	1,2,3-triazolyl
+T1152	OTHER_COMPOUND 85033 85056	pyrazolyl, pyrrolidinyl
+T1153	OTHER_COMPOUND 85058 85078	oxazolyl, isoxazolyl
+T1154	OTHER_COMPOUND 85083 85094	thiazolyl;X
+T1155	OTHER_COMPOUND 85126 85139	PO(O)2−2(M+)2
+T1156	OTHER_COMPOUND 85206 85209	Het
+T1157	OTHER_COMPOUND 85301 85305	C1-4
+T1158	REACTION_PRODUCT 85464 85477	oxazolidinone
+T1159	EXAMPLE_LABEL 85590 85591	6
+T1160	OTHER_COMPOUND 85809 85822	oxazolidinone
+T1161	EXAMPLE_LABEL 85892 85893	8
+T1162	OTHER_COMPOUND 85981 85996	Staphylococcus,
+T1163	EXAMPLE_LABEL 86030 86031	9
+T1164	OTHER_COMPOUND 86081 86085	MRSA
+T1165	OTHER_COMPOUND 86089 86092	VRE
+T1166	REACTION_PRODUCT 86142 86166	oxazolidinone derivative
+T1167	REACTION_PRODUCT 86490 86514	oxazolidinone derivative
+T1168	OTHER_COMPOUND 86524 86525	4
+T1169	EXAMPLE_LABEL 86573 86575	13
+T1170	EXAMPLE_LABEL 86713 86715	14
+T1171	OTHER_COMPOUND 86753 86762	bacterium
+T1172	OTHER_COMPOUND 86766 86773	MRSA or
+T1173	REACTION_PRODUCT 86787 86800	oxazolidinone
+T1174	OTHER_COMPOUND 86832 86835	Het
+T1175	OTHER_COMPOUND 86839 86854	1,2,4-triazolyl
+T1176	OTHER_COMPOUND 86859 86874	1,2,3-triazolyl
+T1177	OTHER_COMPOUND 86974 86977	Het
+T1178	OTHER_COMPOUND 87083 87084	4
+T1179	EXAMPLE_LABEL 87206 87208	18
+T1180	REACTION_PRODUCT 87214 87227	oxazolidinone
+T1181	REACTION_PRODUCT 87305 87308	Het
+T1182	REACTION_PRODUCT 87312 87321	thiazolyl
+T1183	EXAMPLE_LABEL 87323 87325	19
+T1184	REACTION_PRODUCT 87331 87344	oxazolidinone
+T1185	REACTION_PRODUCT 87429 87438	thiazolyl

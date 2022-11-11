@@ -1,0 +1,12 @@
+Interactions of the human multidrug resistance proteins MRP1 and MRP2 with organic anions.
+The human multidrug resistance protein MRP1 and its homolog, MRP2, are both suggested as being involved in cancer drug resistance and the transport of organic anions.
+We expressed MRP1 and MRP2 in Spodoptera frugiperda ovarian cells and compared their ATP-dependent transport properties and vanadate-sensitive ATPase activities in isolated membrane vesicles.
+Both MRP1 and MRP2 actively transported leukotriene C(4) and N-ethylmaleimide glutathione (NEM-GS), although the relative affinity of MRP2 for these substrates was found to be significantly lower than that of MRP1.
+Methotrexate was actively transported by both proteins, although more efficiently by MRP2.
+ATP-dependent NEM-GS transport by MRP1 and MRP2 was variably modulated by organic anions.
+Probenecid and furosemide inhibited, whereas under certain conditions sulfinpyrazone, penicillin G, and indomethacin greatly stimulated, MRP2-mediated NEM-GS uptake.
+Vanadate-sensitive ATPase activity in isolated membranes containing MRP1 or MRP2 was significantly stimulated by NEM-GS and reduced GS, although these compounds acted only at higher concentrations in MRP2.
+ATP hydrolysis by MRP2 was also effectively stimulated by methotrexate.
+Probenecid, sulfinpyrazone, indomethacin, furosemide, and penicillin G all significantly increased MRP2-ATPase activity, whereas these compounds acted more as ATPase inhibitors on MRP1.
+These results indicate that MRP1 is a more efficient transporter of glutathione conjugates and free glutathione than MRP2, whereas several anions are preferred substrates for MRP2.
+Our data suggest that MRP2 may be responsible for the active secretion of pharmacologically relevant organic anions, such as diuretics and antibiotics, and indicate different modulation possibilities for MRP1 or MRP2 in drug-resistant tumor cells.

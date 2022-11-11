@@ -1,0 +1,19 @@
+T1	OTHER_COMPOUND 830 844	sodium sulfate
+T2	OTHER_COMPOUND 705 730	sodium hydrogen carbonate
+T3	TEMPERATURE 480 496	room temperature
+T4	OTHER_COMPOUND 1022 1030	methanol
+T5	OTHER_COMPOUND 775 785	chloroform
+T6	SOLVENT 288 306	methylene chloride
+T7	YIELD_PERCENT 1159 1162	73%
+T8	OTHER_COMPOUND 540 548	methanol
+T9	REACTION_PRODUCT 1134 1148	title compound
+T10	OTHER_COMPOUND 1042 1049	aqueous
+T11	SOLVENT 355 373	methylene chloride
+T12	OTHER_COMPOUND 697 704	aqueous
+T13	OTHER_COMPOUND 1062 1072	chloroform
+T14	STARTING_MATERIAL 31 227	((1S,3aR,5aS,6R,11bR,11cS)-14-(cyclopropylmethyl)-10-hydroxy-1,2,3a,4,5,6,7,11c-octahydro-3H-6,11b-(epiminoethano)-1,5a-methanonaphth[1,2-e]indol-3-yl)(3-methoxy-1-methyl-1H-pyrazol-4-yl)methanone
+T15	OTHER_COMPOUND 529 536	ammonia
+T16	REAGENT_CATALYST 335 351	boron tribromide
+T17	TIME 501 507	1 hour
+T18	YIELD_OTHER 1150 1157	10.6 mg
+T19	OTHER_COMPOUND 1050 1057	ammonia

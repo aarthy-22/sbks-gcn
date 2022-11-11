@@ -1,0 +1,16 @@
+T5	CHEMICAL 31 41	acebutolol
+T6	CHEMICAL 98 112	catecholamines
+T12	GENE-Y 121 126	renin
+T4	CHEMICAL 128 139	aldosterone
+T13	GENE-N 156 173	beta-adrenoceptor
+T1	CHEMICAL 183 193	Acebutolol
+T9	GENE-N 214 231	beta-adrenoceptor
+T10	GENE-Y 269 288	beta 1-adrenoceptor
+T8	GENE-N 477 494	beta-adrenoceptor
+T2	CHEMICAL 628 638	acebutolol
+T11	GENE-N 1118 1136	beta-adrenoceptors
+T3	CHEMICAL 1179 1189	acebutolol
+T7	GENE-N 1430 1448	beta-adrenoceptors
+R0	NOT Arg1:T5 Arg2:T12
+R1	NOT Arg1:T5 Arg2:T13
+R2	NOT Arg1:T4 Arg2:T13

@@ -1,0 +1,13 @@
+T10	CHEMICAL 27 35	deprenyl
+T1	CHEMICAL 45 53	Deprenyl
+T4	CHEMICAL 96 105	monoamine
+T12	GENE-Y 96 120	monoamine oxidase type-B
+T13	GENE-Y 122 127	MAO-B
+T11	GENE-N 252 255	MAO
+T2	CHEMICAL 272 284	14C-Deprenyl
+T3	CHEMICAL 556 564	Deprenyl
+T5	CHEMICAL 583 594	amphetamine
+T6	CHEMICAL 599 616	methylamphetamine
+T7	CHEMICAL 749 757	deprenyl
+T8	CHEMICAL 861 874	(-) -deprenyl
+T9	CHEMICAL 875 892	(-) -amphetamines

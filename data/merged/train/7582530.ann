@@ -1,0 +1,33 @@
+T32	GENE-Y 23 44	alpha 1D-adrenoceptor
+T21	CHEMICAL 96 109	noradrenaline
+T26	GENE-N 144 164	alpha 1-adrenoceptor
+T1	CHEMICAL 212 225	[3H]-prazosin
+T22	GENE-Y 246 274	human alpha 1A-adrenoceptors
+T25	GENE-Y 346 372	rat alpha 1D-adrenoceptors
+T15	CHEMICAL 489 502	noradrenaline
+T16	CHEMICAL 542 550	BMY 7378
+T27	GENE-Y 586 614	human alpha 1D-adrenoceptors
+T17	CHEMICAL 736 747	benoxathian
+T18	CHEMICAL 752 764	phentolamine
+T28	GENE-N 793 828	alpha 1A and alpha 1D adrenoceptors
+T19	CHEMICAL 863 872	Spiperone
+T29	GENE-Y 917 939	alpha 1B adrenoceptors
+T20	CHEMICAL 960 977	5-Methyl-urapidil
+T30	GENE-Y 1003 1025	alpha 1A adrenoceptors
+T31	GENE-N 1091 1120	human and rat1D adrenoceptors
+T2	CHEMICAL 1172 1180	Prazosin
+T3	CHEMICAL 1182 1191	doxazosin
+T4	CHEMICAL 1196 1213	5-methyl-urapidil
+T5	CHEMICAL 1254 1267	noradrenaline
+T6	CHEMICAL 1384 1392	BMY 7378
+T7	CHEMICAL 1634 1647	noradrenaline
+T23	GENE-Y 1733 1755	alpha 1D-adrenoceptors
+T8	CHEMICAL 1837 1850	Noradrenaline
+T9	CHEMICAL 1930 1949	chlorethylclonidine
+T10	CHEMICAL 1951 1954	CEC
+T11	CHEMICAL 2011 2024	noradrenaline
+T12	CHEMICAL 2055 2058	CEC
+T13	CHEMICAL 2139 2152	noradrenaline
+T14	CHEMICAL 2195 2208	noradrenaline
+T24	GENE-Y 2308 2328	alphalD-adrenoceptor
+R0	NOT Arg1:T7 Arg2:T23

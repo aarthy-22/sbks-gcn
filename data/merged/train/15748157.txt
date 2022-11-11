@@ -1,0 +1,9 @@
+Neuroprotective effects of atorvastatin against glutamate-induced excitotoxicity in primary cortical neurones.
+Statins [3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors] exert cholesterol-independent pleiotropic effects that include anti-thrombotic, anti-inflammatory, and anti-oxidative properties.
+Here, we examined direct protective effects of atorvastatin on neurones in different cell damage models in vitro.
+Primary cortical neurones were pre-treated with atorvastatin and then exposed to (i) glutamate, (ii) oxygen-glucose deprivation or (iii) several apoptosis-inducing compounds.
+Atorvastatin significantly protected from glutamate-induced excitotoxicity as evidenced by propidium iodide staining, nuclear morphology, release of lactate dehydrogenase, and mitochondrial tetrazolium metabolism, but not from oxygen-glucose deprivation or apoptotic cell death.
+This anti-excitototoxic effect was evident with 2-4 days pre-treatment but not with daily administration or shorter-term pre-treatment.
+The protective properties occurred independently of 3-hydroxy-3-methylglutaryl-CoA reductase inhibition because co-treatment with mevalonate or other isoprenoids did not reverse or attenuate neuroprotection.
+Atorvastatin attenuated the glutamate-induced increase of intracellular calcium, which was associated with a modulation of NMDA receptor function.
+Taken together, atorvastatin exerts specific anti-excitotoxic effects independent of 3-hydroxy-3-methylglutaryl-CoA reductase inhibition, which has potential therapeutic implications.

@@ -1,0 +1,12 @@
+Influence of the novel histamine H3 receptor antagonist ST1283 on voluntary alcohol consumption and ethanol-induced place preference in mice.
+RATIONALE: Growing evidence supports a role for the central histaminergic system to have a modulatory influence on drug addiction in general and alcohol-use disorders in particular through histamine H3 receptors (H3R).
+OBJECTIVE: In the present study, the effects of systemic injection of the newly synthesized H3R antagonist ST1283 on ethanol (EtOH) voluntary intake and EtOH-conditioned reward in mice have been investigated.
+METHODS: Oral EtOH, saccharin, and quinine intake was assessed in a two-bottle choice paradigm using escalating concentrations of alcohol or tastant solutions.
+EtOH-induced place preference (CPP), EtOH-induced locomotor activity, and blood ethanol concentration (BEC) were also measured.
+RESULTS: Following administration of the H3R antagonist (2.5, 5, and 10 mg/kg, i.p.), there was a significant dose-dependent decrease in alcohol consumption and preference.
+Importantly, vehicle- and ST1283 (5 mg/kg)-treated mice showed similar consumption and preference to increasing concentration of both sweet and bitter tastes.
+More interestingly, systemic administration of ST1283 inhibited EtOH-CPP and EtOH-enhanced locomotion.
+This inhibition was blocked when mice were pretreated with the selective H3R agonist R-(alpha)-methyl-histamine (10 mg/kg).
+Finally, vehicle- and ST1283-treated mice had similar BECs.
+CONCLUSION: Our results show that ST1283 may decrease voluntary EtOH consumption and EtOH-CPP by altering its reinforcing effects, suggesting a novel role for histamine signaling in regulation of alcoholism.
+Lastly, the results add to the growing literature on H3R modulation in the pharmacotherapy of EtOH addiction.

@@ -1,0 +1,13 @@
+Telmisartan downregulates angiotensin II type 1 receptor through activation of peroxisome proliferator-activated receptor gamma.
+OBJECTIVE: Telmisartan, an angiotensin II type 1 receptor (AT1R) antagonist, was found to have a unique property: it is a partial agonist of peroxisome proliferator-activated receptor gamma (PPARgamma).
+Since previous studies have demonstrated that PPARgamma activators suppressed AT1R expression, we examined whether telmisartan affects AT1R expression in vascular smooth muscle cells.
+METHODS: Vascular smooth muscle cells were derived from the thoracic aorta of Wistar-Kyoto rat.
+Northern and Western blotting analysis were used to examine AT1R mRNA and protein expression, respectively.
+The DEAE-dextran method was used for transfection, and the promoter activity of AT1R was examined by luciferase assay.
+RESULTS: Telmisartan decreased the expression of AT1R at the mRNA and protein levels in a dose- and time-dependent manner.
+Decreased AT1R promoter activity with unchanged mRNA stability suggested that telmisartan suppressed AT1R gene expression at the transcriptional level.
+However, the expression of AT1R was not suppressed by other AT1R antagonists such as candesartan or olmesartan.
+Since the suppression of AT1R expression was prevented by pretreatment with GW9662, a PPARgamma antagonist, PPARgamma should have participated in the process.
+The deletion and mutation analysis of the AT1R gene promoter indicated that a GC box located in the proximal promoter region is responsible for the telmisartan-induced downregulation.
+CONCLUSION: Our data provides a novel insight into an effect of telmisartan: telmisartan inhibits AT1R gene expression through PPARgamma activation.
+The dual inhibition of angiotensin II function by telmisartan - AT1R blockade and downregulation - would contribute to more complete inhibition of the renin-angiotensin system.

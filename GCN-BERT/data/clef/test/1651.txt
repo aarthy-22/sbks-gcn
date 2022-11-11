@@ -1,0 +1,5 @@
+Starting Compounds and Intermediates
+Example 1A
+2-[(2,6-Difluorobenzyl)oxy]-4-methylpyridine
+A mixture of 5.00 g (24.2 mmol, 1.0 eq.) of 2,6-difluorobenzyl bromide [CAS No: 85118-00-9] and 3.16 g (29.0 mmol, 1.2 eq.) of 2-hydroxy-4-methylpyridine [CAS No: 13466-41-6] was dissolved in 50 ml of THF. 7.99 g (29.0 mmol, 1.2 eq.) of silver carbonate were added to the solution, and the mixture was heated at reflux with exclusion of light overnight. Subsequently, the reaction mixture was filtered through kieselguhr, eluting with ethyl acetate, and the filtrate was concentrated. The crude product was purified by means of Biotage Isolera (100 g silica gel cartridge, cyclohexane/ethyl acetate gradient, 0% to 10% ethyl acetate). This gave 3.51 g of the title compound (61% of theory).
+TLC (silica gel, cyclohexane/ethyl acetate 10:1): RF=0.50

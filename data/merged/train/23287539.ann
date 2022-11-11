@@ -1,0 +1,23 @@
+T20	CHEMICAL 67 96	trans- and cis-hinokiresinols
+T8	CHEMICAL 421 438	Cis-hinokiresinol
+T9	CHEMICAL 462 477	phenylpropanoid
+T10	CHEMICAL 550 558	estrogen
+T11	CHEMICAL 639 668	trans- and cis-hinokiresinols
+T12	CHEMICAL 737 741	DPPH
+T13	CHEMICAL 835 854	trans-hinokiresinol
+T14	CHEMICAL 935 941	oxygen
+T15	CHEMICAL 942 949	glucose
+T16	CHEMICAL 1097 1099	Cu
+T17	CHEMICAL 1100 1102	Zn
+T22	GENE-N 1103 1106	SOD
+T18	CHEMICAL 1119 1138	trans-hinokiresinol
+T19	CHEMICAL 1159 1176	cis-hinokiresinol
+T1	CHEMICAL 1319 1338	trans-hinokiresinol
+T2	CHEMICAL 1456 1470	hinokiresinols
+T3	CHEMICAL 1590 1609	trans-hinokiresinol
+T4	CHEMICAL 1642 1655	nitrotyrosine
+T5	CHEMICAL 1712 1726	hinokiresinols
+T21	GENE-Y 1766 1771	IL-1β
+T6	CHEMICAL 1989 2003	hinokiresinols
+T7	CHEMICAL 2077 2091	hinokiresinols
+R0	NOT Arg1:T22 Arg2:T19

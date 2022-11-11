@@ -1,0 +1,12 @@
+T10	CHEMICAL 62 70	dopamine
+T12	GENE-Y 62 82	dopamine D2 receptor
+T11	GENE-Y 99 119	dopamine D2 receptor
+T3	CHEMICAL 99 107	dopamine
+T9	CHEMICAL 167 175	dopamine
+T1	CHEMICAL 204 215	haloperidol
+T2	CHEMICAL 220 228	loxapine
+T4	CHEMICAL 262 271	clozapine
+T5	CHEMICAL 276 285	melperone
+T6	CHEMICAL 335 342	halogen
+T7	CHEMICAL 472 479	halogen
+T8	CHEMICAL 648 656	dopamine

@@ -1,0 +1,7 @@
+T1	STARTING_MATERIAL 273 303	2,3-dimethylphenylboronic acid
+T2	REACTION_PRODUCT 6 101	[5-(2,3-dimethylphenyl)-3-(2-methoxyethyl)-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T3	YIELD_PERCENT 313 316	99%
+T4	STARTING_MATERIAL 164 247	[5-bromo-3-(2-methoxyethyl)-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-methyl acetate
+T5	YIELD_OTHER 305 311	410 mg
+T6	REACTION_PRODUCT 321 416	[5-(2,3-dimethylphenyl)-3-(2-methoxyethyl)-2,4-dioxo-3,4-dihydro-2H-pyrimidin-1-yl]-acetic acid
+T7	EXAMPLE_LABEL 0 4	93.2

@@ -1,0 +1,10 @@
+T6	CHEMICAL 17 55	3-(phenoxy-phenyl-methyl)-pyrrolidines
+T7	CHEMICAL 79 93	norepinephrine
+T8	CHEMICAL 98 107	serotonin
+T2	CHEMICAL 189 226	3-(phenoxy-phenyl-methyl)-pyrrolidine
+T1	CHEMICAL 279 293	norepinephrine
+T3	CHEMICAL 303 312	serotonin
+T4	CHEMICAL 314 333	5-hydroxytryptamine
+T5	CHEMICAL 335 339	5-HT
+T9	GENE-Y 557 560	NET
+T10	GENE-Y 565 569	SERT

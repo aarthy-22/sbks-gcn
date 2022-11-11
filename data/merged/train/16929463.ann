@@ -1,0 +1,17 @@
+T12	CHEMICAL 11 21	vitamin K1
+T2	CHEMICAL 141 151	vitamin K1
+T5	CHEMICAL 178 192	gamma-glutamyl
+T14	GENE-Y 178 204	gamma-glutamyl carboxylase
+T1	CHEMICAL 313 323	vitamin K1
+T3	CHEMICAL 515 525	vitamin K1
+T13	GENE-Y 563 571	catalase
+T4	CHEMICAL 596 611	malondialdehyde
+T6	CHEMICAL 719 732	phenylephrine
+T7	CHEMICAL 734 748	angiotensin II
+T15	GENE-Y 734 748	angiotensin II
+T8	CHEMICAL 750 769	5-hydroxytryptamine
+T9	CHEMICAL 771 781	bradykinin
+T16	GENE-Y 771 781	bradykinin
+T10	CHEMICAL 786 795	histamine
+T11	CHEMICAL 1078 1088	vitamin K1
+R0	NOT Arg1:T16 Arg2:T10

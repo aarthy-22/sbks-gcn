@@ -1,0 +1,9 @@
+Gliptins (dipeptidyl peptidase-4 inhibitors) and risk of acute pancreatitis.
+Introduction: Dipeptidyl peptidase-4 (DPP-4) inhibitors (gliptins) play an increasing role in the management of type 2 diabetes.
+Such incretin-based therapies offer some advantages over other glucose-lowering agents, but might be associated with an increased risk of acute pancreatitis.
+Areas covered: An extensive literature search was performed to analyze clinical cases of acute pancreatitis reported in the literature or to the Food and Drug Administration (FDA), in randomized clinical trials, and in observational studies with five DPP-4 inhibitors: sitagliptin, vildagliptin, saxagliptin, alogliptin, and linagliptin.
+Expert opinion: An increased risk of pancreatitis has been reported in diabetic versus nondiabetic patients.
+Several anecdotal clinical cases of pancreatitis have been reported with sitagliptin and vildagliptin and an increased relative risk reported to the FDA with sitagliptin versus other comparators, but reporting bias cannot be excluded.
+In rather short-term clinical trials with well-selected diabetic patients, no increased risk of acute pancreatitis has been observed with any of the five commercialized DPP-4 inhibitors: sitagliptin, vildagliptin, saxagliptin, alogliptin, and linagliptin.
+Similarly, real-life cohort studies showed no increased incidence of pancreatitis with gliptins compared with other glucose-lowering agents, a finding recently challenged by a case- control study.
+These results must be confirmed in postmarketing surveillance programs and in ongoing large prospective trials with cardiovascular outcomes.

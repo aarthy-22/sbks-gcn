@@ -1,0 +1,32 @@
+T26	GENE-N 26 30	ENaC
+T8	CHEMICAL 117 122	Na(+)
+T6	CHEMICAL 253 262	amiloride
+T24	GENE-N 380 404	epithelial Na(+) channel
+T7	CHEMICAL 391 396	Na(+)
+T25	GENE-N 406 410	ENaC
+T9	CHEMICAL 623 630	lactose
+T10	CHEMICAL 779 792	dexamethasone
+T11	CHEMICAL 794 802	cortisol
+T12	CHEMICAL 807 819	prednisolone
+T13	CHEMICAL 830 841	aldosterone
+T14	CHEMICAL 953 962	amiloride
+T15	CHEMICAL 966 974	benzamil
+T16	GENE-N 1111 1131	beta- and gamma-ENaC
+T17	GENE-Y 1141 1151	alpha-ENaC
+T1	CHEMICAL 1206 1218	mifepristone
+T18	GENE-Y 1222 1245	glucocorticoid receptor
+T2	CHEMICAL 1267 1281	spironolactone
+T19	GENE-N 1285 1311	mineralocorticoid receptor
+T3	CHEMICAL 1380 1389	amiloride
+T20	GENE-N 1433 1453	beta- and gamma-ENaC
+T4	CHEMICAL 1477 1482	Na(+)
+T21	GENE-Y 1555 1578	glucocorticoid receptor
+T22	GENE-N 1635 1667	beta- and gamma-subunits of ENaC
+T23	GENE-N 1669 1673	ENaC
+T5	CHEMICAL 1724 1729	Na(+)
+R0	CPR-6 Arg1:T1 Arg2:T18
+R1	CPR-6 Arg1:T2 Arg2:T19
+R2	NOT Arg1:T2 Arg2:T20
+R3	NOT Arg1:T19 Arg2:T3
+R4	NOT Arg1:T4 Arg2:T23
+R5	NOT Arg1:T22 Arg2:T5

@@ -1,0 +1,2 @@
+Synthesis Example 3-2: Synthesis of [Intermediate 3-b]
+In a round-bottom flask, Intermediate 3-a (30 g, 133 mmol), N-bromosuccinimide (23.8 g, 133 mmol), and dimethylformamide (600 ml) were stirred together at 50° C. for 12 hours under a nitrogen atmosphere. After completion of the reaction, the organic layer was concentrated in a vacuum. Column chromatographic separation afforded Intermediate 3-b (28 g): yield 70%

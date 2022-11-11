@@ -1,0 +1,11 @@
+T9	CHEMICAL 0 19	N-carbamylglutamate
+T10	GENE-Y 302 330	N-acetylglutamate synthetase
+T1	CHEMICAL 302 319	N-acetylglutamate
+T2	CHEMICAL 337 351	carglumic acid
+T3	CHEMICAL 353 372	N-carbamylglutamate
+T4	CHEMICAL 561 568	leucine
+T11	GENE-Y 601 629	isovaleryl-CoA dehydrogenase
+T5	CHEMICAL 601 615	isovaleryl-CoA
+T6	CHEMICAL 710 717	ammonia
+T7	CHEMICAL 776 790	carglumic acid
+T8	CHEMICAL 822 836	carglumic acid

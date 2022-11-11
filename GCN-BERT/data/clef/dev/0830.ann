@@ -1,0 +1,24 @@
+T11	WORKUP 499 505	cooled
+T0	YIELD_OTHER 650 655	80 mg
+T1	TEMPERATURE 506 522	room temperature
+T2	STARTING_MATERIAL 178 337	5-(4-(1-(3-methyl-3-(methylsulfonyl)-4-oxo-4-(((tetrahydro-2H-pyran-2-yl)oxy)amino)butyl)-1,2,3,6-tetrahydropyridin-4-yl)phenyl)pent-4-yn-1-yl methanesulfonate
+T3	EXAMPLE_LABEL 5 6	1
+T4	SOLVENT 377 388	1,4-dioxane
+T12	REACTION_STEP 476 484	refluxed
+T5	REACTION_PRODUCT 634 648	title compound
+T6	TIME 489 494	12 hr
+T7	SOLVENT 431 442	1,4-dioxane
+T13	REACTION_STEP 622 629	prepare
+T8	REAGENT_CATALYST 414 421	ammonia
+T9	REACTION_PRODUCT 21 160	4-(4-(4-(5-aminopent-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)-N-((tetrahydro-2H-pyran-2-yl)oxy)butanamide
+T14	REACTION_STEP 403 408	added
+T10	YIELD_PERCENT 657 660	46%
+R0	ARGM Arg1:T11 Arg2:T1
+R1	ARGM Arg1:T12 Arg2:T6
+R2	ARG1 Arg1:T13 Arg2:T5
+R3	ARGM Arg1:T13 Arg2:T0
+R4	ARGM Arg1:T13 Arg2:T10
+R5	ARG1 Arg1:T14 Arg2:T4
+R6	ARG1 Arg1:T14 Arg2:T8
+R7	ARG1 Arg1:T14 Arg2:T7
+R8	ARG1 Arg1:T14 Arg2:T2

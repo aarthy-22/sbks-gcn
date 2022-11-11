@@ -1,0 +1,32 @@
+T29	GENE-Y 52 96	bovine vitamin K-dependent gamma-carboxylase
+T13	CHEMICAL 59 68	vitamin K
+T14	GENE-Y 139 160	Coagulation factor IX
+T24	GENE-N 166 181	serine protease
+T7	CHEMICAL 346 355	vitamin K
+T8	CHEMICAL 392 397	amino
+T9	CHEMICAL 407 420	glutamic acid
+T10	CHEMICAL 457 466	vitamin K
+T25	GENE-Y 457 494	vitamin K-dependent gamma-carboxylase
+T26	GENE-Y 537 546	factor IX
+T11	CHEMICAL 601 611	amino acid
+T27	GENE-Y 633 683	bovine liver vitamin K-dependent gamma-carboxylase
+T12	CHEMICAL 646 655	vitamin K
+T28	GENE-Y 899 916	gamma-carboxylase
+T1	CHEMICAL 1227 1238	carboxylate
+T2	CHEMICAL 1341 1350	vitamin K
+T15	GENE-Y 1341 1378	vitamin K-dependent gamma-carboxylase
+T16	GENE-Y 1410 1427	gamma-carboxylase
+T17	GENE-Y 1451 1460	factor IX
+T18	GENE-N 1545 1554	factor IX
+T19	GENE-Y 1648 1652	PACE
+T20	GENE-Y 1654 1693	paired basic amino acid cleaving enzyme
+T3	CHEMICAL 1667 1677	amino acid
+T21	GENE-Y 1741 1750	factor IX
+T4	CHEMICAL 1828 1841	glutamic acid
+T5	CHEMICAL 1854 1880	gamma-carboxyglutamic acid
+T22	GENE-Y 1893 1902	factor IX
+T6	CHEMICAL 1943 1952	vitamin K
+T23	GENE-Y 1943 1980	vitamin K-dependent gamma-carboxylase
+R0	CPR-1 Arg1:T5 Arg2:T23
+R1	NOT Arg1:T14 Arg2:T8
+R2	NOT Arg1:T24 Arg2:T8

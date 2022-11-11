@@ -1,0 +1,3259 @@
+T1	OTHER_COMPOUND 1148 1151	RSK
+T2	OTHER_COMPOUND 1226 1230	NHE1
+T3	OTHER_COMPOUND 1292 1298	Ang II
+T4	OTHER_COMPOUND 1353 1357	NHE1
+T5	OTHER_COMPOUND 1552 1555	I/R
+T6	OTHER_COMPOUND 1666 1667	I
+T7	OTHER_COMPOUND 1733 1741	myocytes
+T8	OTHER_COMPOUND 1755 1767	human hearts
+T9	OTHER_COMPOUND 2001 2005	NHE1
+T10	OTHER_COMPOUND 2484 2502	cardiomyocytes RSK
+T11	OTHER_COMPOUND 2603 2607	NHE1
+T12	OTHER_COMPOUND 2659 2660	I
+T13	OTHER_COMPOUND 2709 2715	Ang II
+T14	OTHER_COMPOUND 2720 2733	phenylephrine
+T15	OTHER_COMPOUND 2753 2760	Maekawa
+T16	OTHER_COMPOUND 3025 3026	I
+T17	OTHER_COMPOUND 3098 3101	RSK
+T18	OTHER_COMPOUND 3112 3125	cardiomyocyte
+T19	OTHER_COMPOUND 3226 3229	RSK
+T20	OTHER_COMPOUND 3286 3297	RSK protein
+T21	OTHER_COMPOUND 3377 3381	NHE1
+T22	REACTION_PRODUCT 3422 3425	fmk
+T23	OTHER_COMPOUND 3472 3476	NHE1
+T24	OTHER_COMPOUND 3481 3494	phenylephrine
+T25	OTHER_COMPOUND 3512 3516	NHE1
+T26	REACTION_PRODUCT 4162 4166	Name
+T27	REACTION_PRODUCT 4169 4258	N-(3-chlorophenyl)-1-oxo-2,3,4,5-tetrahydro- 1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T28	REACTION_PRODUCT 4364 4457	N-(3-tert-butyl-1,2-thiazol-5-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T29	OTHER_COMPOUND 4472 4516	N-(4-chlorophenyl)-1-oxo-2,3,4,5-tetrahydro-
+T30	REACTION_PRODUCT 4653 4743	6 N-(3-cyanophenyl)-1-oxo-2,3,4,5-tetrahydro-1H- [1,4]diazepino[1,2-a]indole-8-carboxamide
+T31	OTHER_COMPOUND 4746 4846	N-[3-(morpholin-4-yl)phenyl]-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8- carboxamide
+T32	OTHER_COMPOUND 4849 4939	1-oxo-N-(3-phenoxyphenyl)-2,3,4,5-tetrahydro- 1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T33	REACTION_PRODUCT 4940 5031	9 4,4-dimethyl-1-oxo-N-(pyridin-3-yl)-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T34	REACTION_PRODUCT 5044 5132	10 5-methyl-1-oxo-N-(pyridin-3-yl)-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T35	OTHER_COMPOUND 5145 5147	11
+T36	REACTION_PRODUCT 5148 5236	N-(1-methyl-1H-pyrazol-3-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T37	REACTION_PRODUCT 5252 5339	N-[1-(4-fluorobenzyl)-1H-pyrazol-3-yl]-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T38	REACTION_PRODUCT 5366 5473	1-oxo-N-[1-(propan-2-yl)-1H-pyrazol-3-yl]- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T39	REACTION_PRODUCT 5477 5565	1-oxo-N-(1-phenyl-1H-pyrazol-3-yl)-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T40	REACTION_PRODUCT 5675 5767	4,4-dimethyl-1-oxo-N-(1H-pyrazol-4-yl)-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T41	OTHER_COMPOUND 5783 5871	4-methyl-1-oxo-N-(1H-pyrazol-4-yl)-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T42	OTHER_COMPOUND 5887 5932	cis-3,4-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H-
+T43	OTHER_COMPOUND 5971 6016	tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T44	OTHER_COMPOUND 6146 6261	N-(1-methyl-1H-pyrazolo[3,4-b]pyridin-5-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T45	OTHER_COMPOUND 6376 6463	4-methyl-N-(1-methyl-1H-pyrazol-4-yl)-1-oxo- 1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-
+T46	REACTION_PRODUCT 6476 6567	23 N-(1-methyl-1H-pyrazol-4-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T47	REACTION_PRODUCT 6583 6661	N-(1-methyl-1H-pyrazol-4-yl)-1′-oxo-2′,3′- dihydro-1′H-spiro[cyclobutane-1,4′-
+T48	OTHER_COMPOUND 6709 6751	1-oxo-N-[1-(propan-2-yl)-1H-pyrazol-4-yl]-
+T49	OTHER_COMPOUND 6752 6793	2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T50	OTHER_COMPOUND 6820 6867	1-oxo-N-[1-(tetrahydrofuran-3-yl)-1H-pyrazol-4-
+T51	OTHER_COMPOUND 6868 6913	yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T52	OTHER_COMPOUND 6937 6939	27
+T53	REACTION_PRODUCT 6940 7018	1-oxo-N-[1-(tetrahydro-2H-pyran-4-yl)-1H- pyrazol-4-yl]-2,3,4,5-tetrahydro-1H-
+T54	OTHER_COMPOUND 7064 7109	N-[1-(3,5-dimethylbenzyl)-1H-pyrazol-4-yl]-1-
+T55	OTHER_COMPOUND 7182 7228	N-(1-benzyl-1H-pyrazol-4-yl)-cis-3,4-dimethyl-
+T56	REACTION_PRODUCT 7229 7289	1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7- carboxamide
+T57	OTHER_COMPOUND 7293 7332	N-(1-benzyl-1H-pyrazol-4-yl)-trans-3,4-
+T58	OTHER_COMPOUND 7333 7379	dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-
+T59	OTHER_COMPOUND 7406 7441	N-(1-benzyl-1H-pyrazol-4-yl)-1-oxo-
+T60	REACTION_PRODUCT 7442 7519	2,2′,3,3′,5′,6′-hexahydro-1H-spiro[1,4- diazepino[1,2-a]indole-4,4′-pyran]-8-
+T61	REACTION_PRODUCT 7535 7623	N-(1-benzyl-1H-pyrazol-4-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T62	OTHER_COMPOUND 7755 7800	N-[1-(2-methylbenzyl)-1H-pyrazol-4-yl]-1-oxo-
+T63	OTHER_COMPOUND 7869 7913	N-[1-(3-methylbutyl)-1H-pyrazol-4-yl]-1-oxo-
+T64	OTHER_COMPOUND 7982 8026	N-{1-[3-(dimethylamino)propyl]-1H-pyrazol-4-
+T65	OTHER_COMPOUND 8105 8182	N-{1-[2-(morpholin-4-yl)ethyl]-1H-pyrazol-4- yl}-1-oxo-2,3,4,5-tetrahydro-1H-
+T66	OTHER_COMPOUND 8228 8273	N-[1-(2-methoxyethyl)-1H-pyrazol-4-yl]-1-oxo-
+T67	OTHER_COMPOUND 8342 8382	N-(5-methyl-1H-benzimidazol-2-yl)-1-oxo-
+T68	REACTION_PRODUCT 8383 8424	2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T69	OTHER_COMPOUND 8448 8495	40 N-(1-ethyl-5-methyl-1H-benzimidazol-2-yl)-1-
+T70	OTHER_COMPOUND 8568 8607	N-(5-cyano-1H-benzimidazol-2-yl)-1-oxo-
+T71	OTHER_COMPOUND 8676 8719	1-oxo-N-[5-(propan-2-yl)-1H-benzimidazol-2-
+T72	OTHER_COMPOUND 8792 8837	1-oxo-N-[5-(trifluoromethyl)-1H-benzimidazol-
+T73	REACTION_PRODUCT 8912 8993	N-[5-(4-methylpiperazin-1-yl)-1H-benzimidazol- 2-yl]-1-oxo-2,3,4,5-tetrahydro-1H-
+T74	REACTION_PRODUCT 9039 9154	1-oxo-N-[5-(propylsulfonyl)-1H-benzimidazol- 2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T75	REACTION_PRODUCT 9158 9288	N-[5-chloro-7-(morpholin-4-ylmethyl)-1H- benzimidazol-2-yl]-1-oxo-2,3,4,5-tetrahydro-1H- [1,4]diazepino[1,2-a]indole-8-carboxamide
+T76	OTHER_COMPOUND 9401 9492	N-(5-chloro-1H-benzimidazol-2-yl)-5-methyl-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T77	OTHER_COMPOUND 9519 9610	N-(5-chloro-1-methyl-1H-benzimidazol-2-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T78	OTHER_COMPOUND 9785 9787	51
+T79	OTHER_COMPOUND 9788 9893	N-(5-fluoro-1H-benzimidazol-2-yl)-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T80	REACTION_PRODUCT 9894 10011	52 N-(6-chloro-1-methyl-1H-benzimidazol-2-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T81	REACTION_PRODUCT 10015 10105	N-(6-chloro-1-ethyl-1H-benzimidazol-2-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T82	OTHER_COMPOUND 10132 10175	N-{6-chloro-1-[3-(dimethylamino)propyl]-1H-
+T83	OTHER_COMPOUND 10176 10265	benzimidazol-2-yl}-1-oxo-2,3,4,5-tetrahydro- 1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T84	OTHER_COMPOUND 10469 10471	57
+T85	OTHER_COMPOUND 10571 10653	N-(1H-benzimidazol-2-yl)-5-methyl-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T86	OTHER_COMPOUND 10680 10723	4,4-dimethyl-N-(1-methyl-1H-benzimidazol-2-
+T87	OTHER_COMPOUND 11022 11113	4-methyl-N-(1-methyl-1H-benzimidazol-2-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T88	REACTION_PRODUCT 11140 11254	5-methyl-N-(1-methyl-1H-benzimidazol-2-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T89	REACTION_PRODUCT 11258 11363	N-(1-methyl-1H-benzimidazol-2-yl)-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T90	REACTION_PRODUCT 11480 11520	N-[1-(1-hydroxy-2-methylpropan-2-yl)-1H-
+T91	REACTION_PRODUCT 11521 11610	benzimidazol-2-yl]-1-oxo-2,3,4,5-tetrahydro-1H- [1,4]diazepino[1,2-a]indole-8-carboxamide
+T92	REACTION_PRODUCT 11614 11733	cis-3,4-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H- benzimidazol-2-yl]-1,2,3,4- tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T93	OTHER_COMPOUND 11738 11779	4R)-4-methyl-1-oxo-N-[1-(propan-2-yl)-1H-
+T94	REACTION_PRODUCT 11780 11853	benzimidazol-2-yl]-1,2,3,4- tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T95	REACTION_PRODUCT 11858 11927	4S)-4-methyl-1-oxo-N-[1-(propan-2-yl)-1H- benzimidazol-2-yl]-1,2,3,4-
+T96	OTHER_COMPOUND 11974 11976	70
+T97	REACTION_PRODUCT 11977 12064	cis-4,5-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H- benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-
+T98	REACTION_PRODUCT 12110 12152	(5R)-5-methyl-1-oxo-N-[1-(propan-2-yl)-1H-
+T99	REACTION_PRODUCT 12240 12329	1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2- yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T100	REACTION_PRODUCT 12353 12471	73 4,4-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H- benzimidazol-2-yl]-1,2,3,4- tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T101	REACTION_PRODUCT 12475 12540	4-methyl-1-oxo-N-[1-(propan-2-yl)-1H- benzimidazol-2-yl]-1,2,3,4-
+T102	REACTION_PRODUCT 12590 12635	N-(1-cyclopentyl-1H-benzimidazol-2-yl)-1-oxo-
+T103	REACTION_PRODUCT 12636 12700	2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T104	REACTION_PRODUCT 12704 12809	1-oxo-N-(1-phenyl-1H-benzimidazol-2-yl)- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T105	OTHER_COMPOUND 12940 13021	N-[1-(1-acetylpiperidin-4-yl)-1H-benzimidazol- 2-yl]-1-oxo-2,3,4,5-tetrahydro-1H-
+T106	OTHER_COMPOUND 13064 13066	79
+T107	REACTION_PRODUCT 13067 13178	N-(1-ethyl-1H-benzimidazol-2-yl)-cis-3,4- dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2- a]indole-7-carboxamide
+T108	REACTION_PRODUCT 13179 13181	80
+T109	REACTION_PRODUCT 13182 13295	N-(1-ethyl-1H-benzimidazol-2-yl)-trans-3,4- dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2- a]indole-7-carboxamide
+T110	REACTION_PRODUCT 13299 13403	N-(1-ethyl-1H-benzimidazol-2-yl)-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T111	REACTION_PRODUCT 13407 13621	N-(1-ethyl-1H-benzimidazol-2-yl)-4,4-dimethyl- 1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7- carboxamide 83 N-(1-ethyl-1H-benzimidazol-2-yl)-4-methyl-1- oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7- carboxamide
+T112	REACTION_PRODUCT 13625 13763	N-{1-[3-(dimethylamino)-2,2-dimethylpropyl]- 1H-benzimidazol-2-yl}-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8- carboxamide
+T113	REACTION_PRODUCT 13896 14023	N-[1-(2-hydroxy-2-methylpropyl)-1H- benzimidazol-2-yl]-4,4-dimethyl-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T114	REACTION_PRODUCT 14036 14038	87
+T115	REACTION_PRODUCT 14039 14118	1-oxo-N-[1-(2,2,2-trifluoroethyl)-1H- benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-
+T116	OTHER_COMPOUND 14164 14250	N-{1-[(1-methylpiperidin-4-yl)methyl]-1H- benzimidazol-2-yl}-1-oxo-2,3,4,5-tetrahydro-
+T117	OTHER_COMPOUND 14299 14379	1-oxo-N-{1-[2-(pyridin-2-yl)ethyl]-1H- benzimidazol-2-yl}-2,3,4,5-tetrahydro-1H-
+T118	REACTION_PRODUCT 14380 14421	[1,4]diazepino[1,2-a]indole-8-carboxamide
+T119	REACTION_PRODUCT 14425 14557	N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-cis-3,4-dimethyl-1-oxo- 1,2,3,4-tetrahydropyrazino[1,2-a]indole-7- carboxamide
+T120	REACTION_PRODUCT 14561 14695	N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-trans-3,4-dimethyl-1-oxo- 1,2,3,4-tetrahydropyrazino[1,2-a]indole-7- carboxamide
+T121	OTHER_COMPOUND 14845 14846	(
+T122	REACTION_PRODUCT 14846 14972	5R)-N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-5-methyl-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T123	REACTION_PRODUCT 15028 15127	benzimidazol-2-yl}-5-methyl-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8- carboxamide
+T124	REACTION_PRODUCT 15128 15207	95 N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-1-oxo-2,2′,3,3′,5′,6′-
+T125	REACTION_PRODUCT 15208 15280	hexahydro-1H-spiro[1,4-diazepino[1,2-a]indole- 4,4′-pyran]-8-carboxamide
+T126	REACTION_PRODUCT 15284 15318	N-{1-[3-(dimethylamino)propyl]-1H-
+T127	REACTION_PRODUCT 15319 15491	benzimidazol-2-yl}-1-oxo-2,3,4,5-tetrahydro- 1H-[1,4]diazepino[1,2-a]indole-8-carboxamide 97 N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-1′-oxo-2′,3′-dihydro-1′H-
+T128	REACTION_PRODUCT 15837 15960	N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-4-methyl-1-oxo-1,2,3,4- tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T129	OTHER_COMPOUND 15965 16042	N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-4-methyl-1-oxo-2,3,4,5-
+T130	REACTION_PRODUCT 16104 16181	N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-5-methyl-1-oxo-2,3,4,5-
+T131	REACTION_PRODUCT 16243 16366	N-{1-[2-(dimethylamino)ethyl]-1H- benzimidazol-2-yl}-1-oxo-2,3,4,5-tetrahydro- 1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T132	REACTION_PRODUCT 16371 16405	N-{1-[2-(morpholin-4-yl)ethyl]-1H-
+T133	REACTION_PRODUCT 16451 16499	1H-[1,4]diazepino[1,2-a]indole-8-carboxamide 105
+T134	REACTION_PRODUCT 16614 16617	106
+T135	REACTION_PRODUCT 16618 16719	N-(5-methyl-1,3-thiazol-2-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8- carboxamide
+T136	OTHER_COMPOUND 16770 16811	2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T137	REACTION_PRODUCT 16812 16834	a]indole-8-carboxamide
+T138	REACTION_PRODUCT 16839 16885	N-(1H-imidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-
+T139	REACTION_PRODUCT 16980 17024	tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T140	REACTION_PRODUCT 17041 17086	N-(5-tert-butyl-1,3,4-thiadiazol-2-yl)-1-oxo-
+T141	REACTION_PRODUCT 17087 17151	2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T142	REACTION_PRODUCT 17156 17248	N-(5-tert-butyl-1,3-oxazol-2-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T143	REACTION_PRODUCT 17265 17348	N-(1,3-benzoxazol-2-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T144	REACTION_PRODUCT 17365 17474	1-oxo-N-[1-(2-phenylethyl)-1H-pyrazol-4-yl]- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T145	REACTION_PRODUCT 17475 17593	114 1-oxo-N-[1-(pyridin-4-ylmethyl)-1H-pyrazol-4- yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T146	REACTION_PRODUCT 17598 17711	N-(1-benzyl-1H-pyrazol-4-yl)-4,4-difluoro-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T147	OTHER_COMPOUND 17877 17918	2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T148	OTHER_COMPOUND 17946 17993	N-[5-(methylsulfonyl)-1-(2,2,2-trifluoroethyl)-
+T149	OTHER_COMPOUND 17994 18041	1H-benzimidazol-2-yl]-1-oxo-2,3,4,5-tetrahydro-
+T150	OTHER_COMPOUND 18091 18134	N-{1-[2-(dimethylamino)ethyl]-1H-pyrazol-4-
+T151	OTHER_COMPOUND 18334 18337	121
+T152	REACTION_PRODUCT 18338 18464	N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-4,4-difluoro-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T153	REACTION_PRODUCT 18599 18641	1′-oxo-N-(pyridin-3-yl)-2′,3′-dihydro-1′H-
+T154	REACTION_PRODUCT 18711 18863	124 N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-1′-oxo-2′,3′-dihydro-1′H- spiro[cyclopropane-1,4′-[1,4]diazepino[1,2- a]indole]-8′-carboxamide
+T155	REACTION_PRODUCT 18864 18991	125 N-(1-benzyl-1H-pyrazol-4-yl)-1′-oxo-2′,3′- dihydro-1′H-spiro[cyclopropane-1,4′- [1,4]diazepino[1,2-a]indole]-8′-carboxamide
+T156	REACTION_PRODUCT 18992 19099	126 4,4-dimethyl-N-(5-methyl-1,2-oxazol-3-yl)-1- oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7- carboxamide
+T157	OTHER_COMPOUND 19104 19146	N-(5-methyl-1,2-oxazol-3-yl)-1′-oxo-2′,3′-
+T158	OTHER_COMPOUND 19232 19277	(4R)-4-methyl-N-(5-methyl-1,2-oxazol-3-yl)-1-
+T159	OTHER_COMPOUND 19278 19324	oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-
+T160	REACTION_PRODUCT 19342 19423	4R)-N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-4-methyl-1-oxo-1,2,3,4-
+T161	OTHER_COMPOUND 19474 19519	(4R)-N-(1-benzyl-1H-pyrazol-4-yl)-4-methyl-1-
+T162	OTHER_COMPOUND 19716 19808	(4S)-4-methyl-N-(5-methyl-1,2-oxazol-3-yl)-1- oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-
+T163	OTHER_COMPOUND 19821 19824	133
+T164	REACTION_PRODUCT 19825 19929	(4S)-N-(1-benzyl-1H-pyrazol-4-yl)-4-methyl-1- oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7- carboxamide
+T165	OTHER_COMPOUND 19934 19978	N-(1-benzyl-1H-pyrazol-4-yl)-4,4-dimethyl-1-
+T166	OTHER_COMPOUND 20038 20041	135
+T167	REACTION_PRODUCT 20042 20086	N-(1-benzyl-1H-pyrazol-4-yl)-4-methyl-1-oxo-
+T168	REACTION_PRODUCT 20087 20151	2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T169	REACTION_PRODUCT 20152 20155	136
+T170	REACTION_PRODUCT 20156 20202	N-(1-benzyl-1H-pyrazol-4-yl)-cis-4,5-dimethyl-
+T171	REACTION_PRODUCT 20274 20277	137
+T172	REACTION_PRODUCT 20278 20325	(4R,5S)-N-(1-benzyl-1H-pyrazol-4-yl)-trans-4,5-
+T173	REACTION_PRODUCT 20410 20488	N-(1-benzyl-1H-pyrazol-4-yl)-1′-oxo-2′,3′- dihydro-1′H-spiro[cyclobutane-1,4′-
+T174	OTHER_COMPOUND 20537 20538	(
+T175	OTHER_COMPOUND 20677 20718	(3S,4R)-N-(1-benzyl-1H-pyrazol-4-yl)-3,4-
+T176	OTHER_COMPOUND 20794 20882	3R,4S)-N-{1-[3-(dimethylamino)propyl]-1H- benzimidazol-2-yl}-3,4-dimethyl-1-oxo-1,2,3,4-
+T177	REACTION_PRODUCT 20933 20974	(3R,4S)-N-(1-benzyl-1H-pyrazol-4-yl)-3,4-
+T178	REACTION_PRODUCT 20975 21044	dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2- a]indole-7-carboxamide
+T179	OTHER_COMPOUND 21049 21094	(5R)-N-(1-benzyl-1H-pyrazol-4-yl)-5-methyl-1-
+T180	OTHER_COMPOUND 21168 21213	(5S)-N-(1-benzyl-1H-pyrazol-4-yl)-5-methyl-1-
+T181	OTHER_COMPOUND 21287 21327	1-oxo-N-[3-(propan-2-yl)phenyl]-2,3,4,5-
+T182	REACTION_PRODUCT 21328 21384	tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8- carboxamide
+T183	REACTION_PRODUCT 21586 21676	N-(3-methoxyphenyl)-1-oxo-2,3,4,5-tetrahydro- 1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T184	REACTION_PRODUCT 21681 21771	N-(4-methoxyphenyl)-1-oxo-2,3,4,5-tetrahydro- 1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T185	REACTION_PRODUCT 21776 21869	Cis-4,5-dimethyl-1-oxo-N-(pyridin-3-yl)-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T186	REACTION_PRODUCT 21886 21970	Trans-4,5-dimethyl-1-oxo-N-(pyridin-3-yl)- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T187	REACTION_PRODUCT 21998 22099	4,4-difluoro-1-oxo-N-(pyridin-3-yl)-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8- carboxamide
+T188	REACTION_PRODUCT 22104 22189	1′-oxo-N-(pyridin-3-yl)-2′,3′-dihydro-1′H- spiro[cyclobutane-1,4′-[1,4]diazepino[1,2-
+T189	OTHER_COMPOUND 22219 22264	1-oxo-N-(pyridin-2-yl)-2,3,4,5-tetrahydro-1H-
+T190	REACTION_PRODUCT 22265 22306	[1,4]diazepino[1,2-a]indole-8-carboxamide
+T191	OTHER_COMPOUND 22407 22452	1-oxo-N-(pyridin-4-yl)-2,3,4,5-tetrahydro-1H-
+T192	REACTION_PRODUCT 22499 22612	4,4-dimethyl-N-(5-methyl-1,2-oxazol-3-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T193	OTHER_COMPOUND 22727 22771	5-methyl-N-(5-methyl-1,2-oxazol-3-yl)-1-oxo-
+T194	OTHER_COMPOUND 22841 22889	N-(5-tert-butyl-1,2-oxazol-3-yl)-5-methyl-1-oxo-
+T195	OTHER_COMPOUND 22959 23001	N-(3-fluorophenyl)-5-methyl-1-oxo-2,3,4,5-
+T196	REACTION_PRODUCT 23063 23194	5-methyl-1-oxo-N-[1-(propan-2-yl)-1H- pyrazolo[3,4-b]pyridin-5-yl]-2,3,4,5-tetrahydro- 1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T197	REACTION_PRODUCT 23199 23312	4,4-dimethyl-N-(1-methyl-1H-pyrazol-4-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T198	REACTION_PRODUCT 23317 23426	5-methyl-N-(1-methyl-1H-pyrazol-4-yl)-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T199	REACTION_PRODUCT 23427 23430	165
+T200	REACTION_PRODUCT 23431 23510	5-methyl-1-oxo-N-[1-(propan-2-yl)-1H- benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-
+T201	REACTION_PRODUCT 23557 23647	N-(1-ethyl-1H-benzimidazol-2-yl)-5-methyl-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T202	REACTION_PRODUCT 23675 23788	4,4-difluoro-N-(5-methyl-1,2-oxazol-3-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T203	REACTION_PRODUCT 23793 23879	Trans-3,4-dimethyl-N-(5-methyl-1,2-oxazol-3- yl)-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-
+T204	OTHER_COMPOUND 23952 23984	yl)-1-oxo-2,3,4,5-tetrahydro-1H-
+T205	REACTION_PRODUCT 24031 24109	N-(5-methyl-1,2-oxazol-3-yl)-1′-oxo-2′,3′- dihydro-1′H-spiro[cyclobutane-1,4′-
+T206	REACTION_PRODUCT 24154 24157	171
+T207	OTHER_COMPOUND 24390 24481	(5S)-5-methyl-N-(5-methyl-1,2-oxazol-3-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T208	OTHER_COMPOUND 24509 24553	4-methyl-N-(5-methyl-1,2-oxazol-3-yl)-1-oxo-
+T209	OTHER_COMPOUND 24613 24660	N-(5-tert-butyl-1,2-oxazol-3-yl)-1-oxo-2,3,4,5-
+T210	OTHER_COMPOUND 24771 24813	1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-
+T211	REACTION_PRODUCT 24872 24917	tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T212	REACTION_PRODUCT 24922 24959	1-oxo-N-phenyl-2,3,4,5-tetrahydro-1H-
+T213	OTHER_COMPOUND 25006 25054	Cis-3,4-dimethyl-1-oxo-N-(pyridin-3-yl)-1,2,3,4-
+T214	REACTION_PRODUCT 25105 25147	Trans-3,4-dimethyl-1-oxo-N-(pyridin-3-yl)-
+T215	REACTION_PRODUCT 25207 25306	N-(5-ethyl-1,2-oxazol-3-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8- carboxamide
+T216	OTHER_COMPOUND 25311 25355	4-methyl-N-(5-methyl-1,2-oxazol-3-yl)-1-oxo-
+T217	REACTION_PRODUCT 25425 25530	N-(5-cyclopropyl-1,2-oxazol-3-yl)-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T218	OTHER_COMPOUND 25535 25580	N-[5-(4-fluorophenyl)-1,2-oxazol-3-yl]-1-oxo-
+T219	OTHER_COMPOUND 25581 25622	2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T220	OTHER_COMPOUND 25743 25826	N-(2-methyl-1,3-benzothiazol-5-yl)-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T221	OTHER_COMPOUND 25854 25901	N-(3-acetylphenyl)-1-oxo-2,3,4,5-tetrahydro-1H-
+T222	REACTION_PRODUCT 25948 26048	1-oxo-N-(5-phenyl-1H-pyrazol-4-yl)-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8- carboxamide
+T223	OTHER_COMPOUND 26053 26097	N-(1,3-dimethyl-1H-pyrazolo[3,4-b]pyridin-5-
+T224	OTHER_COMPOUND 26177 26223	1-oxo-N-(quinolin-3-yl)-2,3,4,5-tetrahydro-1H-
+T225	OTHER_COMPOUND 26270 26317	N-(1-tert-butyl-1H-pyrazol-4-yl)-1-oxo-2,3,4,5-
+T226	OTHER_COMPOUND 26589 26675	N-(4-chloro-3-methyl-1,2-oxazol-5-yl)-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T227	OTHER_COMPOUND 26703 26750	N-(3-tert-butyl-1,2-oxazol-5-yl)-1-oxo-2,3,4,5-
+T228	REACTION_PRODUCT 26855 26919	2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2- a]indole-8-carboxamide
+T229	REACTION_PRODUCT 26924 27016	N-[3-(1-methylcyclopropyl)-1,2-oxazol-5-yl]-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T230	OTHER_COMPOUND 27269 27356	N-[3-(3-methylphenyl)-1,2-oxazol-5-yl]-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T231	OTHER_COMPOUND 27384 27428	4,4-dimethyl-1-oxo-N-(3-phenyl-1,2-oxazol-5-
+T232	OTHER_COMPOUND 27597 27637	N-(1,3-benzothiazol-5-yl)-1-oxo-2,3,4,5-
+T233	OTHER_COMPOUND 27740 27784	tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T234	OTHER_COMPOUND 27801 27884	N-(2-methyl-1,3-benzothiazol-6-yl)-1-oxo- 2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T235	OTHER_COMPOUND 27912 27952	N-(4-methoxypyridin-2-yl)-1-oxo-2,3,4,5-
+T236	OTHER_COMPOUND 27998 28009	carboxamide
+T237	OTHER_COMPOUND 28130 28171	N-[3-(1-hydroxy-2-methylpropan-2-yl)-1,2-
+T238	OTHER_COMPOUND 28172 28213	oxazol-5-yl]-1-oxo-2,3,4,5-tetrahydro-1H-
+T239	OTHER_COMPOUND 28308 28352	tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T240	OTHER_COMPOUND 28369 28412	1-oxo-N-[3-(pyridin-3-yl)-1,2-oxazol-5-yl]-
+T241	OTHER_COMPOUND 28482 28525	1-oxo-N-(5-phenyl-1,2-oxazol-3-yl)-2,3,4,5-
+T242	OTHER_COMPOUND 28526 28570	tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T243	REACTION_PRODUCT 28587 28687	N-(5-benzyl-1,2-oxazol-3-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8- carboxamide
+T244	OTHER_COMPOUND 28848 28892	tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T245	OTHER_COMPOUND 28946 28990	tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T246	OTHER_COMPOUND 29007 29051	N-(2-chlorophenyl)-1-oxo-2,3,4,5-tetrahydro-
+T247	OTHER_COMPOUND 29101 29147	N-(2-cyanophenyl)-1-oxo-2,3,4,5-tetrahydro-1H-
+T248	REACTION_PRODUCT 29299 29387	N-(5-methyl-1H-pyrazol-3-yl)-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T249	OTHER_COMPOUND 29499 29540	N-(2-carbamoylphenyl)-4,4-dimethyl-1-oxo-
+T250	OTHER_COMPOUND 29541 29583	1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-
+T251	OTHER_COMPOUND 29600 29690	N-(2-carbamoylphenyl)-5-methyl-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T252	OTHER_COMPOUND 29707 29754	1-oxo-N-(pyrimidin-4-yl)-2,3,4,5-tetrahydro-1H-
+T253	OTHER_COMPOUND 29801 29843	N-(6-methoxypyrimidin-4-yl)-1-oxo-2,3,4,5-
+T254	REACTION_PRODUCT 29905 29996	(5R)-5-methyl-N-(5-methyl-1,2-oxazol-3-yl)-1- oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-
+T255	REACTION_PRODUCT 30131 30220	1-oxo-N-[3-(1H-pyrazol-3-yl)phenyl]-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T256	REACTION_PRODUCT 30237 30279	N-[3-(5-methylthiophen-2-yl)phenyl]-1-oxo-
+T257	REACTION_PRODUCT 30349 30438	N-[2-(methylcarbamoyl)phenyl]-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T258	REACTION_PRODUCT 30580 30662	N-[2-(tert-butylcarbamoyl)-1-methyl-1H- imidazol-4-yl]-4,4-dimethyl-1-oxo-1,2,3,4-
+T259	REACTION_PRODUCT 30713 30839	N-[2-(cyclopentylcarbamoyl)-1-methyl-1H- imidazol-4-yl]-1-oxo-2,3,4,5-tetrahydro-1H- [1,4]diazepino[1,2-a]indole-8-carboxamide
+T260	REACTION_PRODUCT 30885 30973	imidazol-4-yl]-4,4-dimethyl-1-oxo-1,2,3,4- tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T261	REACTION_PRODUCT 30978 31102	N-[2-(cyclopentylcarbamoyl)-1-methyl-1H- imidazol-4-yl]-5-methyl-1-oxo-2,3,4,5- tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-
+T262	OTHER_COMPOUND 31119 31200	4-methyl-1-oxo-N-[5-(propan-2-yl)-4- (propylcarbamoyl)-1,3-thiazol-2-yl]-1,2,3,4-
+T263	OTHER_COMPOUND 31396 31435	N-(5-methyl-1,2-oxazol-3-yl)-1-oxo-2,3-
+T264	OTHER_COMPOUND 31481 31511	4,4′-piperidine]-8-carboxamide
+T265	OTHER_COMPOUND 31516 31600	N-(1-benzyl-1H-pyrazol-4-yl)-1-oxo-2,3- dihydro-1H-spiro[1,4-diazepino[1,2-a]indole-
+T266	OTHER_COMPOUND 31636 31727	N-[5-(methylsulfonyl)-1-(2,2,2-trifluoroethyl)- 1H-benzimidazol-2-yl]-1-oxo-2,3-dihydro-1H-
+T267	REACTION_PRODUCT 32083 35394	N-(2-methoxypyridin-4-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;4R)—N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;5-methyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;(4R)—N-(1-benzyl-1H-pyrazol-4-yl)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1H-benzimidazol-2-yl)-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;(3S,4R)—N-(1-benzyl-1H-pyrazol-4-yl)-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1H-benzimidazol-2-yl)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;4,4-dimethyl-N-(1-methyl-1H-benzimidazol-2-yl)-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;4-methyl-N-(1-methyl-1H-benzimidazol-2-yl)-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;(5R)-5-methyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1H-benzimidazol-2-yl)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;(5R)—N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-1′-oxo-2′,3′-dihydro-1′H-spiro[cyclopropane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxamide;(5R)—N-(1-benzyl-1H-pyrazol-4-yl)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;(3S,4R)—N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(5-chloro-1H-benzimidazol-2-yl)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-5-methyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;cis-3,4-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-4,4-difluoro-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;4,4-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T268	REACTION_PRODUCT 35544 35656	5-methyl-N-(1-methyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T269	REACTION_PRODUCT 35658 39113	N-(1-benzyl-1H-pyrazol-4-yl)-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-[2-(cyclopentylcarbamoyl)-1-methyl-1H-imidazol-4-yl]-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1H-indol-2-yl)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(5-methyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;1-oxo-N-[1-(2,2,2-trifluoroethyl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;(4S)-4-methyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;5-methyl-N-(1-methyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-[2-(cyclopentylcarbamoyl)-1-methyl-1H-imidazol-4-yl]-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)benzyl]-1H-pyrazol-4-yl}-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;cis-4,5-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(5-chloro-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-[2-(tert-butylcarbamoyl)-1-methyl-1H-imidazol-4-yl]-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(6-methoxypyrimidin-4-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-trans-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;(3S,4R)-3,4-dimethyl-N-(5-methyl-1,2-oxazol-3-yl)-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;4-methyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-cis-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(2-carbamoylphenyl)-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-[1-(2-hydroxy-2-methylpropyl)-1H-benzimidazol-2-yl]-4,4-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(3-ethyl-3H-imidazo[4,5-b]pyridin-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-1′-oxo-2′,3′-dihydro-1′H-spiro[cyclopropane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxamide;1-oxo-N-[5-(propan-2-yl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;cis-3,4-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H-pyrazolo[3,4-b]pyridin-5-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;4,4-dimethyl-1-oxo-N-(3-phenyl-1,2-oxazol-5-yl)-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-cis-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(6-chloro-1-ethyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;1-oxo-N-[1-(pyridin-4-ylmethyl)-1H-pyrazol-4-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;(5S)—N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T270	OTHER_COMPOUND 40119 40127	fluorine
+T271	OTHER_COMPOUND 40132 40140	chlorine
+T272	OTHER_COMPOUND 40148 40150	2H
+T273	OTHER_COMPOUND 40186 40189	32P
+T274	OTHER_COMPOUND 40191 40194	35S
+T275	OTHER_COMPOUND 40205 40209	36Cl
+T276	OTHER_COMPOUND 41752 41767	hydroxylated or
+T277	OTHER_COMPOUND 41919 41932	organic acids
+T278	OTHER_COMPOUND 41979 41991	hydrochloric
+T279	OTHER_COMPOUND 41993 42004	hydrobromic
+T280	OTHER_COMPOUND 42006 42014	sulfuric
+T281	OTHER_COMPOUND 42016 42023	nitric,
+T282	OTHER_COMPOUND 42036 42051	fumaric, maleic
+T283	OTHER_COMPOUND 42073 42082	, lactic,
+T284	OTHER_COMPOUND 42094 42102	succinic
+T285	OTHER_COMPOUND 42193 42215	naphthalene-2-sulfuric
+T286	OTHER_COMPOUND 42220 42235	benzenesulfonic
+T287	OTHER_COMPOUND 42264 42270	oxalic
+T288	OTHER_COMPOUND 42546 42552	sodium
+T289	OTHER_COMPOUND 42595 42603	ammonium
+T290	OTHER_COMPOUND 42608 42616	N—(C1-C4
+T291	OTHER_COMPOUND 42985 42992	patient
+T292	OTHER_COMPOUND 43382 43387	CH3CN
+T293	OTHER_COMPOUND 43428 43433	HCO2H
+T294	REACTION_PRODUCT 43975 44010	Diethyl 1H-indole-2,6-dicarboxylate
+T295	STARTING_MATERIAL 44032 44062	ethyl 4-methyl-3-nitrobenzoate
+T296	STARTING_MATERIAL 44063 44091	4-Methyl-3-nitrobenzoic acid
+T297	SOLVENT 44129 44136	ethanol
+T298	REAGENT_CATALYST 44154 44157	HCl
+T299	TIME 44195 44200	5 min
+T300	TEMPERATURE 44236 44242	90° C.
+T301	OTHER_COMPOUND 44249 44251	N2
+T302	TIME 44256 44260	20 h
+T303	REACTION_PRODUCT 44312 44326	title compound
+T304	YIELD_OTHER 44354 44360	80.0 g
+T305	YIELD_PERCENT 44362 44365	98%
+T306	EXAMPLE_LABEL 44373 44374	2
+T307	REACTION_PRODUCT 44389 44439	ethyl 4-(3-ethoxy-2,3-dioxopropyl)-3-nitrobenzoate
+T308	STARTING_MATERIAL 44457 44487	ethyl 4-methyl-3-nitrobenzoate
+T309	STARTING_MATERIAL 44509 44534	oxalic acid diethyl ester
+T310	SOLVENT 44556 44563	ethanol
+T311	REAGENT_CATALYST 44583 44598	sodium ethoxide
+T312	SOLVENT 44625 44632	ethanol
+T313	TEMPERATURE 44678 44694	room temperature
+T314	TIME 44699 44703	16 h
+T315	OTHER_COMPOUND 44738 44741	HCl
+T316	OTHER_COMPOUND 44773 44778	water
+T317	REACTION_PRODUCT 44868 44882	title compound
+T318	YIELD_OTHER 44884 44888	91 g
+T319	YIELD_PERCENT 44890 44893	77%
+T320	EXAMPLE_LABEL 44901 44902	3
+T321	STARTING_MATERIAL 44917 44952	diethyl 1H-indole-2,6-dicarboxylate
+T322	STARTING_MATERIAL 44953 45003	Ethyl 4-(3-ethoxy-2,3-dioxopropyl)-3-nitrobenzoate
+T323	REAGENT_CATALYST 45047 45058	acetic acid
+T324	TEMPERATURE 45093 45098	75° C
+T325	OTHER_COMPOUND 45129 45134	water
+T326	REAGENT_CATALYST 45154 45163	Zinc dust
+T327	TEMPERATURE 45261 45266	85° C
+T328	TIME 45311 45317	1 hour
+T329	OTHER_COMPOUND 45338 45343	EtOAc
+T330	OTHER_COMPOUND 45400 45406	Celite
+T331	OTHER_COMPOUND 45438 45443	EtOAc
+T332	OTHER_COMPOUND 45504 45509	water
+T333	OTHER_COMPOUND 45547 45553	NaHCO3
+T334	OTHER_COMPOUND 45579 45584	brine
+T335	OTHER_COMPOUND 45619 45625	Na2SO4
+T336	OTHER_COMPOUND 45714 45721	toluene
+T337	REACTION_PRODUCT 45736 45750	title compound
+T338	YIELD_OTHER 45752 45758	44.6 g
+T339	YIELD_PERCENT 45760 45763	58%
+T340	EXAMPLE_LABEL 45798 45799	B
+T341	REACTION_PRODUCT 45801 45873	4-Methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T342	STARTING_MATERIAL 45895 45947	diethyl 1-(1-cyanoethyl)-1H-indole-2,6-dicarboxylate
+T343	REAGENT_CATALYST 45961 45966	K2CO3
+T344	STARTING_MATERIAL 45990 46025	diethyl 1H-indole-2,6-dicarboxylate
+T345	STARTING_MATERIAL 46027 46041	Intermediate A
+T346	SOLVENT 46064 46067	DMF
+T347	TEMPERATURE 46090 46106	room temperature
+T348	TIME 46111 46117	30 min
+T349	STARTING_MATERIAL 46133 46154	2-bromo-propionitrile
+T350	REAGENT_CATALYST 46178 46181	DMF
+T351	TEMPERATURE 46234 46239	80° C
+T352	TIME 46245 46248	6 h
+T353	TEMPERATURE 46268 46284	room temperature
+T354	TIME 46309 46313	16 h
+T355	OTHER_COMPOUND 46373 46378	EtOAc
+T356	OTHER_COMPOUND 46383 46388	water
+T357	OTHER_COMPOUND 46525 46530	EtOAc
+T358	OTHER_COMPOUND 46534 46541	hexanes
+T359	OTHER_COMPOUND 46571 46583	acetonitrile
+T360	REACTION_PRODUCT 46598 46612	title compound
+T361	YIELD_OTHER 46614 46619	5.5 g
+T362	YIELD_PERCENT 46621 46624	91%
+T363	EXAMPLE_LABEL 46632 46633	2
+T364	REACTION_PRODUCT 46648 46722	ethyl 4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T365	STARTING_MATERIAL 46740 46792	diethyl 1-(1-cyanoethyl)-1H-indole-2,6-dicarboxylate
+T366	SOLVENT 46815 46822	ethanol
+T367	REAGENT_CATALYST 46841 46855	platinum oxide
+T368	OTHER_COMPOUND 46927 46929	H2
+T369	TIME 46934 46937	4 h
+T370	REAGENT_CATALYST 46950 46964	platinum oxide
+T371	SOLVENT 47009 47016	ethanol
+T372	OTHER_COMPOUND 47067 47069	H2
+T373	TIME 47082 47086	16 h
+T374	OTHER_COMPOUND 47129 47135	Celite
+T375	OTHER_COMPOUND 47152 47154	N2
+T376	OTHER_COMPOUND 47185 47190	EtOAc
+T377	REACTION_PRODUCT 47250 47264	title compound
+T378	YIELD_OTHER 47266 47271	3.2 g
+T379	YIELD_PERCENT 47273 47276	95%
+T380	EXAMPLE_LABEL 47344 47345	3
+T381	REACTION_PRODUCT 47360 47432	4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-α]indole-7-carboxylic acid
+T382	STARTING_MATERIAL 47452 47526	ethyl 4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T383	SOLVENT 47549 47552	THF
+T384	SOLVENT 47553 47560	ethanol
+T385	REAGENT_CATALYST 47586 47590	NaOH
+T386	TEMPERATURE 47652 47658	75° C.
+T387	TIME 47663 47667	18 h
+T388	OTHER_COMPOUND 47726 47731	water
+T389	OTHER_COMPOUND 47769 47774	ether
+T390	OTHER_COMPOUND 47806 47809	HCl
+T391	OTHER_COMPOUND 47874 47879	ether
+T392	REACTION_PRODUCT 47894 47908	title compound
+T393	YIELD_OTHER 47910 47915	2.2 g
+T394	YIELD_PERCENT 47917 47920	76%
+T395	EXAMPLE_LABEL 47936 47937	C
+T396	REACTION_PRODUCT 47939 48011	(4R)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic
+T397	EXAMPLE_LABEL 48022 48023	1
+T398	REACTION_PRODUCT 48038 48080	tert-butyl [(2S)-2-hydroxypropyl]carbamate
+T399	STARTING_MATERIAL 48106 48129	(2S)-1-aminopropan-2-ol
+T400	SOLVENT 48152 48158	CH2Cl2
+T401	STARTING_MATERIAL 48190 48215	di-tert-butyl dicarbonate
+T402	SOLVENT 48236 48242	CH2Cl2
+T403	TIME 48288 48292	18 h
+T404	OTHER_COMPOUND 48322 48333	citric acid
+T405	OTHER_COMPOUND 48338 48344	NaHCO3
+T406	OTHER_COMPOUND 48353 48359	Na2SO4
+T407	REACTION_PRODUCT 48390 48404	title compound
+T408	YIELD_OTHER 48406 48411	5.1 g
+T409	EXAMPLE_LABEL 48443 48444	2
+T410	REACTION_PRODUCT 48459 48527	tert-butyl (5S)-5-methyl-1,2,3-oxathiazolidine-3-carboxylate 2-oxide
+T411	REAGENT_CATALYST 48550 48566	thionyl chloride
+T412	SOLVENT 48590 48602	acetonitrile
+T413	TEMPERATURE 48629 48635	−45° C
+T414	STARTING_MATERIAL 48655 48697	tert-butyl [(2S)-2-hydroxypropyl]carbamate
+T415	SOLVENT 48720 48732	acetonitrile
+T416	TIME 48783 48789	20 min
+T417	TEMPERATURE 48830 48836	−40° C
+T418	REAGENT_CATALYST 48843 48866	4-dimethylaminopyridine
+T419	REAGENT_CATALYST 48932 48940	pyridine
+T420	TEMPERATURE 48994 49000	−40° C
+T421	TIME 49021 49026	1.5 h
+T422	OTHER_COMPOUND 49028 49041	Ethyl acetate
+T423	TEMPERATURE 49106 49112	−35° C
+T424	OTHER_COMPOUND 49163 49168	EtOAc
+T425	OTHER_COMPOUND 49203 49210	Na2HPO4
+T426	TIME 49295 49301	30 min
+T427	OTHER_COMPOUND 49350 49356	NaHSO4
+T428	OTHER_COMPOUND 49376 49384	pyridine
+T429	OTHER_COMPOUND 49393 49399	Na2SO4
+T430	OTHER_COMPOUND 49469 49482	diethyl ether
+T431	REACTION_PRODUCT 49581 49595	title compound
+T432	YIELD_OTHER 49597 49602	5.7 g
+T433	EXAMPLE_LABEL 49627 49628	3
+T434	REACTION_PRODUCT 49643 49715	tert-butyl (5S)-5-methyl-1,2,3-oxathiazolidine-3-carboxylate 2,2-dioxide
+T435	STARTING_MATERIAL 49733 49801	tert-butyl (5S)-5-methyl-1,2,3-oxathiazolidine-3-carboxylate 2-oxide
+T436	SOLVENT 49824 49836	acetonitrile
+T437	SOLVENT 49849 49854	water
+T438	REAGENT_CATALYST 49872 49888	sodium periodate
+T439	TIME 49930 49935	5 min
+T440	OTHER_COMPOUND 49955 49960	RuCl3
+T441	TIME 49999 50002	3 h
+T442	OTHER_COMPOUND 50050 50055	water
+T443	OTHER_COMPOUND 50069 50082	ethyl acetate
+T444	OTHER_COMPOUND 50122 50128	Celite
+T445	OTHER_COMPOUND 50154 50159	EtOAc
+T446	REACTION_PRODUCT 50285 50299	title compound
+T447	YIELD_OTHER 50301 50306	6.0 g
+T448	YIELD_PERCENT 50308 50311	97%
+T449	EXAMPLE_LABEL 50319 50320	4
+T450	REACTION_PRODUCT 50335 50421	diethyl 1-{(2R)-1-[(tert-butoxycarbonyl)amino]propan-2-yl}-1H-indole-2,6-dicarboxylate
+T451	REAGENT_CATALYST 50450 50453	NaH
+T452	SOLVENT 50476 50479	DMF
+T453	STARTING_MATERIAL 50532 50567	diethyl 1H-indole-2,6-dicarboxylate
+T454	STARTING_MATERIAL 50569 50581	Intermediate
+T455	REAGENT_CATALYST 50606 50609	DMF
+T456	TIME 50655 50661	20 min
+T457	STARTING_MATERIAL 50682 50754	tert-butyl (5S)-5-methyl-1,2,3-oxathiazolidine-3-carboxylate 2,2-dioxide
+T458	REAGENT_CATALYST 50776 50779	DMF
+T459	TIME 50834 50840	30 min
+T460	TEMPERATURE 50844 50849	0° C.
+T461	TEMPERATURE 50869 50885	room temperature
+T462	TIME 50902 50906	48 h
+T463	OTHER_COMPOUND 50940 50945	water
+T464	OTHER_COMPOUND 51038 51045	aqueous
+T465	OTHER_COMPOUND 51046 51049	HCl
+T466	OTHER_COMPOUND 51069 51074	EtOAc
+T467	OTHER_COMPOUND 51114 51119	water
+T468	OTHER_COMPOUND 51121 51126	brine
+T469	OTHER_COMPOUND 51135 51141	Na2SO4
+T470	REACTION_PRODUCT 51174 51188	title compound
+T471	YIELD_OTHER 51190 51195	2.7 g
+T472	EXAMPLE_LABEL 51220 51221	5
+T473	REACTION_PRODUCT 51236 51315	ethyl (4R)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T474	STARTING_MATERIAL 51333 51419	diethyl 1-{(2R)-1-[(tert-butoxycarbonyl)amino]propan-2-yl}-1H-indole-2,6-dicarboxylate
+T475	SOLVENT 51441 51447	CH2Cl2
+T476	REAGENT_CATALYST 51465 51468	TFA
+T477	TIME 51514 51517	2 h
+T478	SOLVENT 51591 51598	ethanol
+T479	REAGENT_CATALYST 51616 51621	K2CO3
+T480	TEMPERATURE 51680 51696	room temperature
+T481	TIME 51701 51705	16 h
+T482	OTHER_COMPOUND 51764 51769	water
+T483	OTHER_COMPOUND 51813 51826	diethyl ether
+T484	OTHER_COMPOUND 51839 51847	heptanes
+T485	REACTION_PRODUCT 51899 51913	title compound
+T486	YIELD_OTHER 51915 51920	1.3 g
+T487	YIELD_PERCENT 51922 51925	57%
+T488	EXAMPLE_LABEL 51958 51959	6
+T489	REACTION_PRODUCT 51974 52051	(4R)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T490	STARTING_MATERIAL 52069 52148	ethyl (4R)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-α]indole-7-carboxylate
+T491	SOLVENT 52170 52177	ethanol
+T492	REAGENT_CATALYST 52198 52202	NaOH
+T493	TEMPERATURE 52254 52262	refluxed
+T494	TIME 52267 52272	1.5 h
+T495	OTHER_COMPOUND 52321 52324	HCl
+T496	OTHER_COMPOUND 52329 52336	ethanol
+T497	OTHER_COMPOUND 52407 52412	water
+T498	REACTION_PRODUCT 52438 52452	title compound
+T499	YIELD_OTHER 52454 52459	1.1 g
+T500	YIELD_PERCENT 52461 52464	98%
+T501	EXAMPLE_LABEL 52491 52492	D
+T502	REACTION_PRODUCT 52494 52571	(4S)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T503	REACTION_PRODUCT 52577 52585	compound
+T504	REACTION_PRODUCT 52645 52722	(4R)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T505	OTHER_COMPOUND 52751 52774	(2S)-1-aminopropan-2-ol
+T506	STARTING_MATERIAL 52780 52803	(2R)-1-aminopropan-2-ol
+T507	REACTION_PRODUCT 52831 52902	4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic
+T508	STARTING_MATERIAL 52929 52980	diethyl 1-(cyanomethyl)-1H-indole-2,6-dicarboxylate
+T509	STARTING_MATERIAL 52998 53033	diethyl 1H-indole-2,6-dicarboxylate
+T510	STARTING_MATERIAL 53035 53047	Intermediate
+T511	STARTING_MATERIAL 53048 53049	A
+T512	SOLVENT 53076 53079	DMF
+T513	REAGENT_CATALYST 53097 53102	K2CO3
+T514	OTHER_COMPOUND 53161 53163	N2
+T515	TIME 53168 53174	30 min
+T516	REAGENT_CATALYST 53176 53193	Bromoacetonitrile
+T517	TEMPERATURE 53261 53266	80° C
+T518	TIME 53272 53275	4 h
+T519	OTHER_COMPOUND 53328 53333	EtOAc
+T520	OTHER_COMPOUND 53359 53364	water
+T521	OTHER_COMPOUND 53371 53376	brine
+T522	OTHER_COMPOUND 53385 53391	Na2SO4
+T523	OTHER_COMPOUND 53446 53453	ethanol
+T524	REACTION_PRODUCT 53468 53482	title compound
+T525	YIELD_OTHER 53484 53489	3.9 g
+T526	YIELD_PERCENT 53491 53494	84%
+T527	EXAMPLE_LABEL 53528 53529	2
+T528	REACTION_PRODUCT 53544 53602	diethyl 1-(2-cyanopropan-2-yl)-1H-indole-2,6-dicarboxylate
+T529	STARTING_MATERIAL 53620 53671	diethyl 1-(cyanomethyl)-1H-indole-2,6-dicarboxylate
+T530	SOLVENT 53693 53696	THF
+T531	STARTING_MATERIAL 53714 53727	methyl iodide
+T532	TEMPERATURE 53751 53755	0° C
+T533	REAGENT_CATALYST 53776 53807	sodium bis(trimethylsilyl)amide
+T534	SOLVENT 53811 53814	THF
+T535	TEMPERATURE 53848 53852	0° C
+T536	TEMPERATURE 53888 53904	room temperature
+T537	TIME 53921 53925	24 h
+T538	OTHER_COMPOUND 53967 53974	aqueous
+T539	OTHER_COMPOUND 53975 53980	NH4Cl
+T540	OTHER_COMPOUND 54004 54009	EtOAc
+T541	OTHER_COMPOUND 54079 54084	EtOAc
+T542	OTHER_COMPOUND 54130 54135	brine
+T543	OTHER_COMPOUND 54144 54149	MgSO4
+T544	OTHER_COMPOUND 54252 54257	EtOAc
+T545	OTHER_COMPOUND 54261 54268	hexanes
+T546	REACTION_PRODUCT 54283 54297	title compound
+T547	YIELD_OTHER 54299 54304	1.4 g
+T548	YIELD_PERCENT 54306 54309	61%
+T549	EXAMPLE_LABEL 54317 54318	3
+T550	STARTING_MATERIAL 54333 54411	ethyl 4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T551	STARTING_MATERIAL 54425 54483	diethyl 1-(2-cyanopropan-2-yl)-1H-indole-2,6-dicarboxylate
+T552	REAGENT_CATALYST 54507 54515	Raney Ni
+T553	SOLVENT 54546 54551	water
+T554	SOLVENT 54559 54564	water
+T555	TEMPERATURE 54578 54583	50° C
+T556	OTHER_COMPOUND 54602 54604	H2
+T557	TIME 54633 54637	18 h
+T558	OTHER_COMPOUND 54718 54724	Celite
+T559	REACTION_PRODUCT 54837 54851	title compound
+T560	YIELD_OTHER 54853 54858	7.7 g
+T561	YIELD_PERCENT 54860 54863	95%
+T562	EXAMPLE_LABEL 54888 54889	4
+T563	REACTION_PRODUCT 54904 54980	4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T564	STARTING_MATERIAL 55000 55078	ethyl 4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T565	SOLVENT 55100 55108	methanol
+T566	REAGENT_CATALYST 55129 55133	NaOH
+T567	TEMPERATURE 55199 55204	65° C
+T568	TIME 55210 55214	16 h
+T569	OTHER_COMPOUND 55253 55258	water
+T570	OTHER_COMPOUND 55290 55293	HCl
+T571	TEMPERATURE 55306 55310	0° C
+T572	OTHER_COMPOUND 55363 55368	water
+T573	REACTION_PRODUCT 55393 55407	title compound
+T574	YIELD_OTHER 55409 55414	2.1 g
+T575	YIELD_PERCENT 55416 55419	88%
+T576	EXAMPLE_LABEL 55452 55453	F
+T577	REACTION_PRODUCT 55455 55535	cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T578	REACTION_PRODUCT 55549 55550	G
+T579	REACTION_PRODUCT 55552 55634	trans-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T580	STARTING_MATERIAL 55656 55690	3-aminobutan-2-ol Ammonium formate
+T581	STARTING_MATERIAL 55737 55754	3-nitrobutan-2-ol
+T582	SOLVENT 55777 55785	methanol
+T583	REAGENT_CATALYST 55795 55814	Palladium on carbon
+T584	SOLVENT 55853 55861	methanol
+T585	TEMPERATURE 55898 55914	room temperature
+T586	TIME 55919 55923	18 h
+T587	OTHER_COMPOUND 55925 55931	Celite
+T588	OTHER_COMPOUND 55991 55997	Celite
+T589	OTHER_COMPOUND 56024 56032	methanol
+T590	REACTION_PRODUCT 56095 56109	title compound
+T591	YIELD_OTHER 56111 56117	2.42 g
+T592	YIELD_PERCENT 56119 56123	129%
+T593	EXAMPLE_LABEL 56183 56184	2
+T594	REACTION_PRODUCT 56199 56240	tert-butyl (3-hydroxybutan-2-yl)carbamate
+T595	STARTING_MATERIAL 56272 56290	3-amino-butan-2-ol
+T596	SOLVENT 56331 56337	CH2Cl2
+T597	STARTING_MATERIAL 56369 56394	di-tert-butyl dicarbonate
+T598	SOLVENT 56417 56423	CH2Cl2
+T599	TIME 56469 56473	18 h
+T600	OTHER_COMPOUND 56514 56520	NaHSO4
+T601	OTHER_COMPOUND 56525 56531	NaHCO3
+T602	OTHER_COMPOUND 56577 56582	MgSO4
+T603	REACTION_PRODUCT 56615 56635	title crude compound
+T604	YIELD_OTHER 56656 56662	4.33 g
+T605	YIELD_PERCENT 56664 56668	105%
+T606	EXAMPLE_LABEL 56689 56690	3
+T607	REACTION_PRODUCT 56705 56772	tert-butyl 4,5-dimethyl-1,2,3-oxathiazolidine-3-carboxylate 2-oxide
+T608	STARTING_MATERIAL 56798 56814	thionyl chloride
+T609	SOLVENT 56838 56850	acetonitrile
+T610	TEMPERATURE 56869 56875	−45° C
+T611	STARTING_MATERIAL 56900 56941	tert-butyl (3-hydroxybutan-2-yl)carbamate
+T612	SOLVENT 56965 56977	acetonitrile
+T613	TIME 57002 57008	10 min
+T614	TEMPERATURE 57049 57055	−40° C
+T615	STARTING_MATERIAL 57088 57112	4-dimethylamino pyridine
+T616	REAGENT_CATALYST 57180 57188	pyridine
+T617	TEMPERATURE 57241 57247	−40° C
+T618	TEMPERATURE 57284 57290	−40° C
+T619	TIME 57296 57299	1 h
+T620	OTHER_COMPOUND 57301 57314	Ethyl acetate
+T621	TEMPERATURE 57381 57387	−35° C
+T622	OTHER_COMPOUND 57414 57419	EtOAc
+T623	OTHER_COMPOUND 57462 57469	Na2HPO4
+T624	TIME 57538 57544	30 min
+T625	OTHER_COMPOUND 57593 57599	NaHSO4
+T626	OTHER_COMPOUND 57608 57613	MgSO4
+T627	REACTION_PRODUCT 57646 57666	title crude compound
+T628	YIELD_OTHER 57668 57674	4.83 g
+T629	YIELD_PERCENT 57676 57679	90%
+T630	EXAMPLE_LABEL 57697 57698	4
+T631	REACTION_PRODUCT 57713 57784	tert-butyl 4,5-dimethyl-1,2,3-oxathiazolidine-3-carboxylate 2,2-dioxide
+T632	STARTING_MATERIAL 57802 57869	tert-butyl 4,5-dimethyl-1,2,3-oxathiazolidine-3-carboxylate 2-oxide
+T633	SOLVENT 57873 57885	acetonitrile
+T634	SOLVENT 57898 57903	water
+T635	TEMPERATURE 57922 57926	0° C
+T636	REAGENT_CATALYST 57937 57953	sodium periodate
+T637	TIME 57980 57985	5 min
+T638	OTHER_COMPOUND 58053 58060	Na2HPO4
+T639	REAGENT_CATALYST 58092 58097	RuCl3
+T640	SOLVENT 58121 58126	water
+T641	OTHER_COMPOUND 58216 58223	Na2HPO4
+T642	TIME 58253 58256	2 h
+T643	OTHER_COMPOUND 58258 58263	water
+T644	OTHER_COMPOUND 58329 58332	HCl
+T645	OTHER_COMPOUND 58373 58378	EtOAc
+T646	OTHER_COMPOUND 58427 58433	NaHCO3
+T647	OTHER_COMPOUND 58438 58443	brine
+T648	OTHER_COMPOUND 58501 58506	EtOAc
+T649	OTHER_COMPOUND 58547 58552	MgSO4
+T650	OTHER_COMPOUND 58655 58660	EtOAc
+T651	OTHER_COMPOUND 58664 58671	hexanes
+T652	REACTION_PRODUCT 58686 58700	title compound
+T653	YIELD_OTHER 58702 58708	4.48 g
+T654	YIELD_PERCENT 58710 58713	85%
+T655	YIELD_PERCENT 58718 58719	4
+T656	EXAMPLE_LABEL 58733 58734	5
+T657	STARTING_MATERIAL 58749 58829	diethyl 1-[3-[(tert-butoxycarbonyl)amino]butan-2-yl]-1H-indole-2,6-dicarboxylate
+T658	REAGENT_CATALYST 58861 58864	NaH
+T659	SOLVENT 58879 58890	mineral oil
+T660	SOLVENT 58914 58917	DMF
+T661	TEMPERATURE 58929 58933	0° C
+T662	STARTING_MATERIAL 58958 58993	diethyl 1H-indole-2,6-dicarboxylate
+T663	SOLVENT 59032 59035	DMF
+T664	TIME 59072 59078	40 min
+T665	STARTING_MATERIAL 59099 59170	tert-butyl 4,5-dimethyl-1,2,3-oxathiazolidine-3-carboxylate 2,2-dioxide
+T666	SOLVENT 59193 59196	DMF
+T667	TIME 59250 59256	30 min
+T668	TEMPERATURE 59260 59264	0° C
+T669	TEMPERATURE 59288 59304	room temperature
+T670	TIME 59321 59325	65 h
+T671	OTHER_COMPOUND 59327 59332	Water
+T672	TIME 59373 59379	15 min
+T673	OTHER_COMPOUND 59387 59392	EtOAc
+T674	OTHER_COMPOUND 59460 59467	aqueous
+T675	OTHER_COMPOUND 59468 59473	NH4Cl
+T676	OTHER_COMPOUND 59484 59489	water
+T677	OTHER_COMPOUND 59495 59500	brine
+T678	OTHER_COMPOUND 59509 59514	MgSO4
+T679	REACTION_PRODUCT 59547 59552	crude
+T680	REACTION_PRODUCT 59553 59567	title compound
+T681	EXAMPLE_LABEL 59620 59621	6
+T682	REACTION_PRODUCT 59636 59718	ethyl cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-α]indole-7-carboxylate
+T683	REACTION_PRODUCT 59723 59807	ethyl trans-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-α]indole-7-carboxylate
+T684	STARTING_MATERIAL 59835 59915	diethyl 1-{3-[(tert-butoxycarbonyl)amino]butan-2-yl}-1H-indole-2,6-dicarboxylate
+T685	SOLVENT 59947 59953	CH2Cl2
+T686	REAGENT_CATALYST 59971 59974	TFA
+T687	TIME 60011 60014	1 h
+T688	TEMPERATURE 60018 60034	room temperature
+T689	TIME 60097 60100	1 h
+T690	SOLVENT 60134 60141	ethanol
+T691	REAGENT_CATALYST 60160 60165	K2CO3
+T692	TEMPERATURE 60210 60218	refluxed
+T693	TIME 60223 60226	1 h
+T694	TEMPERATURE 60245 60261	room temperature
+T695	OTHER_COMPOUND 60338 60343	EtOAc
+T696	OTHER_COMPOUND 60348 60353	water
+T697	OTHER_COMPOUND 60399 60404	brine
+T698	OTHER_COMPOUND 60413 60418	MgSO4
+T699	OTHER_COMPOUND 60521 60526	EtOAc
+T700	OTHER_COMPOUND 60530 60537	heptane
+T701	REACTION_PRODUCT 60548 60632	ethyl trans-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-α]indole-7-carboxylate
+T702	YIELD_OTHER 60634 60640	870 mg
+T703	YIELD_PERCENT 60642 60645	20%
+T704	REACTION_PRODUCT 60663 60745	ethyl cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T705	YIELD_OTHER 60747 60752	1.9 g
+T706	YIELD_PERCENT 60754 60757	45%
+T707	EXAMPLE_LABEL 60777 60779	7a
+T708	REACTION_PRODUCT 60794 60874	cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-α]indole-7-carboxylic acid
+T709	STARTING_MATERIAL 60894 60976	ethyl cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-α]indole-7-carboxylate
+T710	SOLVENT 60998 61005	ethanol
+T711	REAGENT_CATALYST 61026 61030	NaOH
+T712	TEMPERATURE 61092 61098	80° C.
+T713	TIME 61103 61106	1 h
+T714	TEMPERATURE 61126 61142	room temperature
+T715	OTHER_COMPOUND 61184 61196	concentrated
+T716	OTHER_COMPOUND 61197 61200	HCl
+T717	OTHER_COMPOUND 61205 61212	ethanol
+T718	OTHER_COMPOUND 61283 61288	water
+T719	REACTION_PRODUCT 61313 61327	title compound
+T720	YIELD_OTHER 61329 61334	1.8 g
+T721	YIELD_PERCENT 61336 61339	96%
+T722	EXAMPLE_LABEL 61347 61349	7b
+T723	STARTING_MATERIAL 61364 61446	trans-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T724	STARTING_MATERIAL 61466 61550	ethyl trans-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T725	SOLVENT 61573 61580	ethanol
+T726	REAGENT_CATALYST 61601 61605	NaOH
+T727	TEMPERATURE 61667 61672	80° C
+T728	TIME 61678 61681	1 h
+T729	TEMPERATURE 61701 61717	room temperature
+T730	OTHER_COMPOUND 61759 61771	concentrated
+T731	OTHER_COMPOUND 61772 61775	HCl
+T732	OTHER_COMPOUND 61780 61787	ethanol
+T733	OTHER_COMPOUND 61858 61863	water
+T734	REACTION_PRODUCT 61888 61902	title compound
+T735	YIELD_OTHER 61904 61910	782 mg
+T736	YIELD_PERCENT 61912 61915	93%
+T737	EXAMPLE_LABEL 61931 61932	H
+T738	REACTION_PRODUCT 61934 62019	(3S,4R)-3,4-Dimethyl-1-oxo-1,2,3,4-tetrahydro-pyrazino[1,2-a]indole-7-carboxylic acid
+T739	REACTION_PRODUCT 62036 62121	(3R,4S)-3,4-Dimethyl-1-oxo-1,2,3,4-tetrahydro-pyrazino[1,2-a]indole-7-carboxylic acid
+T740	REACTION_PRODUCT 62144 62230	ethyl (3R,4S)-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T741	REACTION_PRODUCT 62235 62321	ethyl (3S,4R)-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T742	STARTING_MATERIAL 62330 62410	cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T743	STARTING_MATERIAL 62412 62426	Intermediate F
+T744	OTHER_COMPOUND 62611 62622	isopropanol
+T745	OTHER_COMPOUND 62626 62633	heptane
+T746	REACTION_PRODUCT 62668 62754	ethyl (3S,4R)-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T747	YIELD_OTHER 62756 62762	870 mg
+T748	YIELD_PERCENT 62764 62767	46%
+T749	REACTION_PRODUCT 62773 62859	ethyl (3R,4S)-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T750	YIELD_OTHER 62861 62867	852 mg
+T751	YIELD_PERCENT 62869 62872	45%
+T752	EXAMPLE_LABEL 62880 62882	2a
+T753	REACTION_PRODUCT 62897 62982	(3R,4S)-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydro-pyrazino[1,2-a]indole-7-carboxylic acid
+T754	STARTING_MATERIAL 63000 63086	ethyl (3R,4S)-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T755	SOLVENT 63109 63116	ethanol
+T756	REAGENT_CATALYST 63137 63141	NaOH
+T757	TEMPERATURE 63205 63211	70° C.
+T758	TIME 63216 63219	2 h
+T759	OTHER_COMPOUND 63282 63285	HCl
+T760	REACTION_PRODUCT 63376 63390	title compound
+T761	YIELD_OTHER 63392 63398	697 mg
+T762	YIELD_PERCENT 63400 63403	91%
+T763	EXAMPLE_LABEL 63411 63413	2b
+T764	STARTING_MATERIAL 63428 63508	(3S,4R)-3,4-Dimethyl-1-oxo-1,2,3,4-tetrahydro-pyrazino[1,2-a]indole-7-carboxylic
+T765	STARTING_MATERIAL 63514 63600	Ethyl (3S,4R)-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylate
+T766	SOLVENT 63636 63643	ethanol
+T767	REAGENT_CATALYST 63659 63663	NaOH
+T768	TEMPERATURE 63736 63742	80° C.
+T769	TIME 63747 63750	1 h
+T770	TEMPERATURE 63770 63786	room temperature
+T771	OTHER_COMPOUND 63821 63824	HCl
+T772	OTHER_COMPOUND 63838 63845	ethanol
+T773	OTHER_COMPOUND 63903 63908	water
+T774	REACTION_PRODUCT 63933 63947	title compound
+T775	YIELD_OTHER 63949 63955	760 mg
+T776	YIELD_PERCENT 63957 63960	97%
+T777	EXAMPLE_LABEL 63976 63977	J
+T778	REACTION_PRODUCT 63979 64047	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic
+T779	EXAMPLE_LABEL 64058 64059	1
+T780	STARTING_MATERIAL 64074 64126	diethyl 1-(2-cyanoethyl)-1H-indole-2,6-dicarboxylate
+T781	REAGENT_CATALYST 64145 64153	Triton B
+T782	SOLVENT 64157 64165	methanol
+T783	STARTING_MATERIAL 64214 64249	diethyl 1H-indole-2,6-dicarboxylate
+T784	STARTING_MATERIAL 64251 64265	Intermediate A
+T785	REAGENT_CATALYST 64289 64302	acrylonitrile
+T786	SOLVENT 64326 64337	1,4-dioxane
+T787	TEMPERATURE 64381 64387	55° C.
+T788	TIME 64392 64398	30 min
+T789	TEMPERATURE 64425 64441	room temperature
+T790	TIME 64446 64450	18 h
+T791	OTHER_COMPOUND 64452 64457	Water
+T792	OTHER_COMPOUND 64509 64514	EtOAc
+T793	OTHER_COMPOUND 64549 64554	water
+T794	OTHER_COMPOUND 64556 64561	brine
+T795	OTHER_COMPOUND 64570 64576	Na2SO4
+T796	REACTION_PRODUCT 64609 64629	title crude compound
+T797	YIELD_OTHER 64631 64636	3.0 g
+T798	YIELD_PERCENT 64638 64641	96%
+T799	EXAMPLE_LABEL 64719 64720	2
+T800	REACTION_PRODUCT 64735 64810	ethyl 1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T801	STARTING_MATERIAL 64830 64882	diethyl 1-(2-cyanoethyl)-1H-indole-2,6-dicarboxylate
+T802	SOLVENT 64904 64907	THF
+T803	SOLVENT 64920 64928	methanol
+T804	REAGENT_CATALYST 64946 64951	CoCl2
+T805	TEMPERATURE 65020 65024	0° C
+T806	REAGENT_CATALYST 65031 65036	NaBH4
+T807	OTHER_COMPOUND 65119 65121	H2
+T808	REAGENT_CATALYST 65198 65203	NaBH4
+T809	TEMPERATURE 65242 65258	room temperature
+T810	TIME 65263 65269	60 min
+T811	TEMPERATURE 65292 65298	reflux
+T812	TIME 65303 65307	16 h
+T813	TEMPERATURE 65334 65350	room temperature
+T814	OTHER_COMPOUND 65371 65376	EtOAc
+T815	OTHER_COMPOUND 65410 65416	Celite
+T816	OTHER_COMPOUND 65455 65460	EtOAc
+T817	OTHER_COMPOUND 65508 65511	HCl
+T818	OTHER_COMPOUND 65513 65518	water
+T819	OTHER_COMPOUND 65520 65526	NaHCO3
+T820	OTHER_COMPOUND 65528 65533	brine
+T821	OTHER_COMPOUND 65542 65548	Na2SO4
+T822	REACTION_PRODUCT 65581 65601	title crude compound
+T823	YIELD_OTHER 65603 65608	1.1 g
+T824	YIELD_PERCENT 65610 65613	85%
+T825	EXAMPLE_LABEL 65673 65674	3
+T826	REACTION_PRODUCT 65689 65762	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T827	STARTING_MATERIAL 65782 65857	ethyl 1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T828	SOLVENT 65880 65883	THF
+T829	SOLVENT 65884 65892	methanol
+T830	REAGENT_CATALYST 65918 65922	NaOH
+T831	TEMPERATURE 65977 65982	70° C
+T832	TIME 65988 65991	2 h
+T833	TEMPERATURE 66027 66043	room temperature
+T834	OTHER_COMPOUND 66058 66063	water
+T835	OTHER_COMPOUND 66097 66100	HCl
+T836	OTHER_COMPOUND 66170 66175	water
+T837	TEMPERATURE 66203 66208	60° C
+T838	REACTION_PRODUCT 66224 66238	title compound
+T839	YIELD_OTHER 66240 66246	540 mg
+T840	YIELD_PERCENT 66248 66251	67%
+T841	EXAMPLE_LABEL 66267 66268	K
+T842	REACTION_PRODUCT 66270 66352	5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T843	STARTING_MATERIAL 66374 66410	tert-butyl (3-hydroxybutyl)carbamate
+T844	STARTING_MATERIAL 66436 66453	4-aminobutan-2-ol
+T845	SOLVENT 66476 66482	CH2Cl2
+T846	STARTING_MATERIAL 66514 66539	di-tert-butyl dicarbonate
+T847	SOLVENT 66563 66569	CH2Cl2
+T848	TIME 66615 66619	18 h
+T849	OTHER_COMPOUND 66649 66660	citric acid
+T850	OTHER_COMPOUND 66665 66671	NaHCO3
+T851	OTHER_COMPOUND 66680 66685	MgSO4
+T852	REACTION_PRODUCT 66716 66730	title compound
+T853	YIELD_OTHER 66732 66737	2.1 g
+T854	YIELD_PERCENT 66739 66742	99%
+T855	EXAMPLE_LABEL 66767 66768	2
+T856	REACTION_PRODUCT 66783 66844	tert-butyl 6-methyl-1,2,3-oxathiazinane-3-carboxylate 2-oxide
+T857	REAGENT_CATALYST 66870 66886	thionyl chloride
+T858	SOLVENT 66910 66922	acetonitrile
+T859	TEMPERATURE 66941 66947	−45° C
+T860	STARTING_MATERIAL 66972 67008	tert-butyl (3-hydroxybutyl)carbamate
+T861	SOLVENT 67031 67043	acetonitrile
+T862	TIME 67068 67074	10 min
+T863	TEMPERATURE 67115 67121	−40° C
+T864	REAGENT_CATALYST 67123 67146	4-Dimethylaminopyridine
+T865	REAGENT_CATALYST 67212 67220	pyridine
+T866	TEMPERATURE 67271 67277	−40° C
+T867	TIME 67298 67304	90 min
+T868	OTHER_COMPOUND 67306 67319	Ethyl acetate
+T869	TEMPERATURE 67386 67392	−35° C
+T870	OTHER_COMPOUND 67449 67454	EtOAc
+T871	OTHER_COMPOUND 67521 67528	Na2HPO4
+T872	TIME 67594 67600	30 min
+T873	OTHER_COMPOUND 67652 67658	NaHSO4
+T874	OTHER_COMPOUND 67678 67686	pyridine
+T875	OTHER_COMPOUND 67695 67700	MgSO4
+T876	REACTION_PRODUCT 67733 67747	title compound
+T877	YIELD_OTHER 67749 67755	2.52 g
+T878	YIELD_PERCENT 67757 67760	96%
+T879	EXAMPLE_LABEL 67778 67779	3
+T880	REACTION_PRODUCT 67794 67859	tert-butyl 6-methyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T881	STARTING_MATERIAL 67877 67938	tert-butyl 6-methyl-1,2,3-oxathiazinane-3-carboxylate 2-oxide
+T882	SOLVENT 67962 67974	acetonitrile
+T883	SOLVENT 67987 67992	water
+T884	TEMPERATURE 68011 68015	0° C
+T885	REAGENT_CATALYST 68026 68042	sodium periodate
+T886	TIME 68084 68089	5 min
+T887	OTHER_COMPOUND 68142 68149	Na2HPO4
+T888	REAGENT_CATALYST 68174 68179	RuCl3
+T889	SOLVENT 68202 68207	water
+T890	OTHER_COMPOUND 68276 68283	Na2HPO4
+T891	TIME 68300 68303	2 h
+T892	OTHER_COMPOUND 68305 68310	water
+T893	OTHER_COMPOUND 68371 68374	HCl
+T894	OTHER_COMPOUND 68424 68429	EtOAc
+T895	OTHER_COMPOUND 68467 68473	NaHCO3
+T896	OTHER_COMPOUND 68478 68483	brine
+T897	OTHER_COMPOUND 68528 68533	EtOAc
+T898	OTHER_COMPOUND 68579 68584	MgSO4
+T899	REACTION_PRODUCT 68690 68704	title compound
+T900	YIELD_OTHER 68706 68712	1.63 g
+T901	YIELD_PERCENT 68714 68717	61%
+T902	EXAMPLE_LABEL 68725 68726	4
+T903	STARTING_MATERIAL 68741 68821	diethyl 1-{4-[(tert-butoxycarbonyl)amino]butan-2-yl}-1H-indole-2,6-dicarboxylate
+T904	REAGENT_CATALYST 68853 68856	NaH
+T905	SOLVENT 68871 68882	mineral oil
+T906	SOLVENT 68906 68909	DMF
+T907	TEMPERATURE 68929 68933	0° C
+T908	STARTING_MATERIAL 68958 68993	diethyl 1H-indole-2,6-dicarboxylate
+T909	STARTING_MATERIAL 68995 69007	Intermediate
+T910	SOLVENT 69032 69035	DMF
+T911	TIME 69071 69077	20 min
+T912	STARTING_MATERIAL 69096 69161	tert-butyl 6-methyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T913	REAGENT_CATALYST 69184 69187	DMF
+T914	TIME 69243 69249	30 min
+T915	TEMPERATURE 69253 69257	0° C
+T916	TEMPERATURE 69279 69295	room temperature
+T917	TIME 69312 69316	48 h
+T918	OTHER_COMPOUND 69328 69333	NH4Cl
+T919	OTHER_COMPOUND 69395 69400	EtOAc
+T920	OTHER_COMPOUND 69446 69451	water
+T921	OTHER_COMPOUND 69458 69463	brine
+T922	OTHER_COMPOUND 69472 69477	MgSO4
+T923	REACTION_PRODUCT 69510 69524	title compound
+T924	YIELD_OTHER 69526 69532	1.04 g
+T925	YIELD_PERCENT 69534 69537	50%
+T926	EXAMPLE_LABEL 69560 69561	5
+T927	REACTION_PRODUCT 69576 69660	ethyl 5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T928	STARTING_MATERIAL 69678 69758	diethyl 1-{4-[(tert-butoxycarbonyl)amino]butan-2-yl}-1H-indole-2,6-dicarboxylate
+T929	SOLVENT 69781 69787	CH2Cl2
+T930	REAGENT_CATALYST 69804 69807	TFA
+T931	TIME 69852 69855	1 h
+T932	SOLVENT 69929 69936	ethanol
+T933	REAGENT_CATALYST 69954 69967	triethylamine
+T934	REAGENT_CATALYST 69992 69997	K2CO3
+T935	TEMPERATURE 70042 70050	refluxed
+T936	TIME 70055 70058	3 h
+T937	OTHER_COMPOUND 70127 70132	EtOAc
+T938	OTHER_COMPOUND 70137 70142	water
+T939	OTHER_COMPOUND 70188 70193	MgSO4
+T940	REACTION_PRODUCT 70300 70314	title compound
+T941	YIELD_OTHER 70316 70322	300 mg
+T942	YIELD_PERCENT 70324 70327	59%
+T943	EXAMPLE_LABEL 70349 70350	6
+T944	STARTING_MATERIAL 70365 70442	5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic
+T945	REAGENT_CATALYST 70450 70454	NaOH
+T946	STARTING_MATERIAL 70507 70591	ethyl 5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T947	SOLVENT 70612 70619	ethanol
+T948	TEMPERATURE 70653 70661	refluxed
+T949	TIME 70666 70671	1.5 h
+T950	OTHER_COMPOUND 70720 70723	HCl
+T951	OTHER_COMPOUND 70728 70735	ethanol
+T952	OTHER_COMPOUND 70806 70811	water
+T953	REACTION_PRODUCT 70836 70850	title compound
+T954	YIELD_OTHER 70852 70857	5.8 g
+T955	YIELD_PERCENT 70859 70862	92%
+T956	EXAMPLE_LABEL 70889 70890	L
+T957	REACTION_PRODUCT 70892 70979	(5R)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T958	STARTING_MATERIAL 71001 71055	(3S)-3-hydroxybutanamide Ethyl (3S)-3-hydroxybutanoate
+T959	REAGENT_CATALYST 71089 71094	NH4OH
+T960	SOLVENT 71095 71102	aqueous
+T961	TEMPERATURE 71172 71178	60° C.
+T962	TIME 71183 71187	16 h
+T963	OTHER_COMPOUND 71232 71239	toluene
+T964	REACTION_PRODUCT 71254 71274	title crude compound
+T965	YIELD_OTHER 71276 71281	176 g
+T966	YIELD_PERCENT 71283 71286	82%
+T967	EXAMPLE_LABEL 71375 71376	2
+T968	STARTING_MATERIAL 71391 71451	tert-butyl [(3S)-3-hydroxybutyl]carbamate Sodium borohydride
+T969	STARTING_MATERIAL 71507 71531	(3S)-3-hydroxybutanamide
+T970	SOLVENT 71556 71559	THF
+T971	TEMPERATURE 71571 71576	0° C.
+T972	REAGENT_CATALYST 71595 71602	BF3OEt2
+T973	SOLVENT 71624 71629	ether
+T974	TEMPERATURE 71677 71693	room temperature
+T975	TIME 71710 71714	16 h
+T976	OTHER_COMPOUND 71719 71723	NaOH
+T977	TEMPERATURE 71745 71749	0° C
+T978	OTHER_COMPOUND 71798 71801	THF
+T979	STARTING_MATERIAL 71812 71837	Di-tert-butyl dicarbonate
+T980	TIME 71913 71917	16 h
+T981	TEMPERATURE 71921 71937	room temperature
+T982	OTHER_COMPOUND 71976 71981	EtOAc
+T983	OTHER_COMPOUND 71986 71991	water
+T984	OTHER_COMPOUND 72032 72038	Na2SO4
+T985	OTHER_COMPOUND 72145 72150	EtOAc
+T986	OTHER_COMPOUND 72154 72160	hexane
+T987	REACTION_PRODUCT 72175 72189	title compound
+T988	YIELD_OTHER 72191 72196	100 g
+T989	YIELD_PERCENT 72198 72201	28%
+T990	EXAMPLE_LABEL 72231 72232	3
+T991	REACTION_PRODUCT 72247 72313	tert-butyl (6S)-6-methyl-1,2,3-oxathiazinane-3-carboxylate 2-oxide
+T992	REAGENT_CATALYST 72331 72347	thionyl chloride
+T993	SOLVENT 72369 72381	acetonitrile
+T994	TEMPERATURE 72393 72399	−40° C
+T995	STARTING_MATERIAL 72433 72474	tert-butyl [(3S)-3-hydroxybutyl]carbamate
+T996	SOLVENT 72495 72507	acetonitrile
+T997	TIME 72544 72550	10 min
+T998	REAGENT_CATALYST 72555 72578	4-dimethylaminopyridine
+T999	TIME 72638 72644	10 min
+T1000	REAGENT_CATALYST 72646 72654	pyridine
+T1001	TIME 72687 72693	90 min
+T1002	TEMPERATURE 72725 72731	−40° C
+T1003	OTHER_COMPOUND 72733 72738	EtOAc
+T1004	TEMPERATURE 72751 72757	−40° C
+T1005	OTHER_COMPOUND 72846 72853	Na2HPO4
+T1006	TIME 72905 72915	30 minutes
+T1007	TEMPERATURE 72919 72935	room temperature
+T1008	OTHER_COMPOUND 72984 72990	NaHSO4
+T1009	OTHER_COMPOUND 73008 73014	Na2SO4
+T1010	REACTION_PRODUCT 73047 73058	title crude
+T1011	REACTION_PRODUCT 73059 73067	compound
+T1012	YIELD_OTHER 73069 73074	250 g
+T1013	EXAMPLE_LABEL 73144 73145	4
+T1014	STARTING_MATERIAL 73160 73230	tert-butyl (6S)-6-methyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T1015	REAGENT_CATALYST 73231 73247	Sodium periodate
+T1016	STARTING_MATERIAL 73291 73357	tert-butyl (6S)-6-methyl-1,2,3-oxathiazinane-3-carboxylate 2-oxide
+T1017	SOLVENT 73380 73392	acetonitrile
+T1018	SOLVENT 73405 73410	water
+T1019	TEMPERATURE 73422 73426	0° C
+T1020	OTHER_COMPOUND 73496 73503	Na2HPO4
+T1021	REAGENT_CATALYST 73528 73537	RuCl33H2O
+T1022	TEMPERATURE 73571 73575	5° C
+T1023	OTHER_COMPOUND 73637 73644	Na2HPO4
+T1024	TEMPERATURE 73682 73698	room temperature
+T1025	TIME 73703 73706	2 h
+T1026	OTHER_COMPOUND 73708 73713	Water
+T1027	OTHER_COMPOUND 73768 73771	HCl
+T1028	OTHER_COMPOUND 73782 73787	EtOAc
+T1029	OTHER_COMPOUND 73859 73864	EtOAc
+T1030	OTHER_COMPOUND 73932 73938	NaHCO3
+T1031	OTHER_COMPOUND 73952 73957	brine
+T1032	OTHER_COMPOUND 73966 73972	Na2SO4
+T1033	OTHER_COMPOUND 74075 74080	EtOAc
+T1034	OTHER_COMPOUND 74084 74090	hexane
+T1035	REACTION_PRODUCT 74105 74119	title compound
+T1036	YIELD_OTHER 74121 74126	140 g
+T1037	YIELD_PERCENT 74128 74131	52%
+T1038	EXAMPLE_LABEL 74160 74161	5
+T1039	REACTION_PRODUCT 74176 74261	diethyl 1-{(2R)-4-[(tert-butoxycarbonyl)amino]butan-2-yl}-1H-indole-2,6-dicarboxylate
+T1040	REAGENT_CATALYST 74290 74293	NaH
+T1041	SOLVENT 74315 74318	NMP
+T1042	STARTING_MATERIAL 74371 74406	diethyl 1H-indole-2,6-dicarboxylate
+T1043	STARTING_MATERIAL 74408 74422	Intermediate A
+T1044	SOLVENT 74443 74446	NMP
+T1045	TIME 74492 74498	20 min
+T1046	STARTING_MATERIAL 74519 74589	tert-butyl (6S)-6-methyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T1047	SOLVENT 74610 74613	NMP
+T1048	TIME 74668 74674	30 min
+T1049	TEMPERATURE 74678 74682	0° C
+T1050	TEMPERATURE 74701 74717	room temperature
+T1051	TIME 74734 74738	48 h
+T1052	OTHER_COMPOUND 74772 74777	water
+T1053	OTHER_COMPOUND 74871 74878	aqueous
+T1054	OTHER_COMPOUND 74879 74882	HCl
+T1055	OTHER_COMPOUND 74902 74907	EtOAc
+T1056	OTHER_COMPOUND 74947 74952	water
+T1057	OTHER_COMPOUND 74967 74972	brine
+T1058	OTHER_COMPOUND 74981 74987	Na2SO4
+T1059	REACTION_PRODUCT 75020 75034	title compound
+T1060	YIELD_OTHER 75036 75041	6.0 g
+T1061	EXAMPLE_LABEL 75119 75120	6
+T1062	REACTION_PRODUCT 75135 75224	ethyl (5R)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1063	STARTING_MATERIAL 75242 75338	1-((R)-3-tert-butoxycarbonylamino-1-methyl-propyl)-1H-indole-2,6-dicarboxylic acid diethyl ester
+T1064	SOLVENT 75357 75363	CH2Cl2
+T1065	REAGENT_CATALYST 75381 75384	TFA
+T1066	TIME 75432 75438	1 hour
+T1067	SOLVENT 75512 75519	ethanol
+T1068	REAGENT_CATALYST 75537 75542	K2CO3
+T1069	TEMPERATURE 75600 75606	reflux
+T1070	TIME 75611 75618	2 hours
+T1071	OTHER_COMPOUND 75667 75672	water
+T1072	OTHER_COMPOUND 75692 75697	EtOAc
+T1073	OTHER_COMPOUND 75737 75742	water
+T1074	OTHER_COMPOUND 75744 75749	brine
+T1075	OTHER_COMPOUND 75758 75764	Na2SO4
+T1076	REACTION_PRODUCT 75797 75811	title compound
+T1077	YIELD_OTHER 75813 75819	3.65 g
+T1078	EXAMPLE_LABEL 75849 75850	7
+T1079	REACTION_PRODUCT 75865 75952	(5R)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T1080	STARTING_MATERIAL 75970 76053	(5R)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1081	SOLVENT 76073 76080	ethanol
+T1082	REAGENT_CATALYST 76101 76105	NaOH
+T1083	TEMPERATURE 76161 76169	refluxed
+T1084	TIME 76174 76177	2 h
+T1085	OTHER_COMPOUND 76221 76224	HCl
+T1086	OTHER_COMPOUND 76229 76236	ethanol
+T1087	OTHER_COMPOUND 76325 76330	water
+T1088	REACTION_PRODUCT 76355 76369	title compound
+T1089	YIELD_OTHER 76371 76376	2.1 g
+T1090	YIELD_PERCENT 76378 76381	41%
+T1091	EXAMPLE_LABEL 76420 76421	M
+T1092	REACTION_PRODUCT 76423 76510	(5S)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T1093	STARTING_MATERIAL 76532 76575	(3R)-3-hydroxybutanamide Ammonium hydroxide
+T1094	SOLVENT 76580 76587	aqueous
+T1095	STARTING_MATERIAL 76619 76648	ethyl (3R)-3-hydroxybutanoate
+T1096	TEMPERATURE 76739 76745	60° C.
+T1097	TIME 76750 76753	7 h
+T1098	TEMPERATURE 76769 76785	room temperature
+T1099	TIME 76790 76794	48 h
+T1100	REACTION_PRODUCT 76858 76878	title crude compound
+T1101	YIELD_OTHER 76880 76885	4.0 g
+T1102	EXAMPLE_LABEL 76945 76946	2
+T1103	REACTION_PRODUCT 76961 77002	tert-butyl [(3R)-3-hydroxybutyl]carbamate
+T1104	STARTING_MATERIAL 77022 77046	(3R)-3-hydroxybutanamide
+T1105	SOLVENT 77069 77072	THF
+T1106	REAGENT_CATALYST 77095 77116	borane-methyl sulfide
+T1107	TEMPERATURE 77162 77170	refluxed
+T1108	TIME 77175 77178	2 h
+T1109	TEMPERATURE 77197 77213	room temperature
+T1110	OTHER_COMPOUND 77218 77221	HCl
+T1111	TEMPERATURE 77283 77291	refluxed
+T1112	TIME 77296 77299	2 h
+T1113	OTHER_COMPOUND 77344 77350	Na2CO3
+T1114	STARTING_MATERIAL 77375 77400	di-tert-butyl dicarbonate
+T1115	SOLVENT 77423 77426	THF
+T1116	TEMPERATURE 77483 77499	room temperature
+T1117	TIME 77504 77508	48 h
+T1118	OTHER_COMPOUND 77559 77564	EtOAc
+T1119	OTHER_COMPOUND 77569 77576	aqueous
+T1120	OTHER_COMPOUND 77577 77583	Na2CO3
+T1121	OTHER_COMPOUND 77629 77634	water
+T1122	OTHER_COMPOUND 77639 77644	brine
+T1123	OTHER_COMPOUND 77653 77658	MgSO4
+T1124	OTHER_COMPOUND 77761 77766	EtOAc
+T1125	OTHER_COMPOUND 77770 77777	hexanes
+T1126	REACTION_PRODUCT 77792 77806	title compound
+T1127	YIELD_OTHER 77808 77813	1.6 g
+T1128	YIELD_PERCENT 77815 77818	43%
+T1129	EXAMPLE_LABEL 77840 77841	3
+T1130	REACTION_PRODUCT 77856 77922	tert-butyl (6R)-6-methyl-1,2,3-oxathiazinane-3-carboxylate 2-oxide
+T1131	STARTING_MATERIAL 77948 77964	thionyl chloride
+T1132	SOLVENT 77987 77999	acetonitrile
+T1133	TEMPERATURE 78021 78027	−45° C
+T1134	STARTING_MATERIAL 78052 78093	tert-butyl [(3R)-3-hydroxybutyl]carbamate
+T1135	SOLVENT 78115 78127	acetonitrile
+T1136	TIME 78152 78158	10 min
+T1137	TEMPERATURE 78199 78205	−40° C
+T1138	REAGENT_CATALYST 78207 78230	4-Dimethylaminopyridine
+T1139	REAGENT_CATALYST 78293 78301	pyridine
+T1140	TEMPERATURE 78353 78359	−40° C
+T1141	OTHER_COMPOUND 78361 78374	Ethyl acetate
+T1142	TEMPERATURE 78429 78435	−35° C
+T1143	OTHER_COMPOUND 78475 78480	EtOAc
+T1144	OTHER_COMPOUND 78523 78530	Na2HPO4
+T1145	TIME 78618 78624	30 min
+T1146	OTHER_COMPOUND 78673 78679	NaHSO4
+T1147	OTHER_COMPOUND 78688 78693	MgSO4
+T1148	REACTION_PRODUCT 78726 78740	title compound
+T1149	YIELD_OTHER 78742 78747	2.3 g
+T1150	YIELD_PERCENT 78749 78752	99%
+T1151	EXAMPLE_LABEL 78812 78813	4
+T1152	REACTION_PRODUCT 78828 78898	tert-butyl (6R)-6-methyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T1153	STARTING_MATERIAL 78916 78982	tert-butyl (6R)-6-methyl-1,2,3-oxathiazinane-3-carboxylate 2-oxide
+T1154	SOLVENT 79004 79016	acetonitrile
+T1155	SOLVENT 79029 79034	water
+T1156	TEMPERATURE 79053 79057	0° C
+T1157	REAGENT_CATALYST 79068 79084	sodium periodate
+T1158	TIME 79126 79131	5 min
+T1159	OTHER_COMPOUND 79199 79206	Na2HPO4
+T1160	REAGENT_CATALYST 79231 79236	RuCl3
+T1161	SOLVENT 79260 79265	water
+T1162	TIME 79324 79327	2 h
+T1163	OTHER_COMPOUND 79375 79382	Na2HPO4
+T1164	OTHER_COMPOUND 79393 79398	Water
+T1165	OTHER_COMPOUND 79463 79466	HCl
+T1166	OTHER_COMPOUND 79477 79482	EtOAc
+T1167	OTHER_COMPOUND 79540 79546	NaHCO3
+T1168	OTHER_COMPOUND 79551 79556	brine
+T1169	OTHER_COMPOUND 79615 79620	EtOAc
+T1170	OTHER_COMPOUND 79661 79666	MgSO4
+T1171	OTHER_COMPOUND 79769 79774	EtOAc
+T1172	OTHER_COMPOUND 79778 79785	hexanes
+T1173	REACTION_PRODUCT 79798 79812	title compound
+T1174	YIELD_OTHER 79814 79820	1.13 g
+T1175	YIELD_PERCENT 79822 79825	47%
+T1176	EXAMPLE_LABEL 79833 79834	5
+T1177	REACTION_PRODUCT 79849 79934	diethyl 1-{(2S)-4-[(tert-butoxycarbonyl)amino]butan-2-yl}-1H-indole-2,6-dicarboxylate
+T1178	SOLVENT 79954 79960	hexane
+T1179	REAGENT_CATALYST 79972 79986	sodium hydride
+T1180	SOLVENT 79990 80001	mineral oil
+T1181	SOLVENT 80023 80026	DMF
+T1182	OTHER_COMPOUND 80042 80050	nitrogen
+T1183	TEMPERATURE 80065 80069	0° C
+T1184	STARTING_MATERIAL 80094 80129	diethyl 1H-indole-2,6-dicarboxylate
+T1185	SOLVENT 80152 80155	DMF
+T1186	TIME 80191 80197	20 min
+T1187	TEMPERATURE 80201 80205	0° C
+T1188	STARTING_MATERIAL 80225 80295	tert-butyl (6R)-6-methyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T1189	SOLVENT 80318 80321	DMF
+T1190	TIME 80377 80383	30 min
+T1191	TEMPERATURE 80387 80391	0° C
+T1192	TEMPERATURE 80410 80426	room temperature
+T1193	TIME 80443 80447	72 h
+T1194	OTHER_COMPOUND 80449 80454	Water
+T1195	OTHER_COMPOUND 80459 80464	NH4Cl
+T1196	TIME 80515 80521	15 min
+T1197	OTHER_COMPOUND 80561 80566	EtOAc
+T1198	OTHER_COMPOUND 80612 80617	water
+T1199	OTHER_COMPOUND 80619 80624	brine
+T1200	OTHER_COMPOUND 80633 80638	MgSO4
+T1201	REACTION_PRODUCT 80671 80691	title crude compound
+T1202	YIELD_OTHER 80693 80698	1.1 g
+T1203	EXAMPLE_LABEL 80758 80759	6
+T1204	REACTION_PRODUCT 80774 80863	ethyl (5S)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1205	STARTING_MATERIAL 80881 80966	diethyl 1-{(2S)-4-[(tert-butoxycarbonyl)amino]butan-2-yl}-1H-indole-2,6-dicarboxylate
+T1206	SOLVENT 80989 80995	CH2Cl2
+T1207	REAGENT_CATALYST 81012 81015	TFA
+T1208	TEMPERATURE 81050 81066	room temperature
+T1209	TIME 81071 81074	1 h
+T1210	SOLVENT 81139 81146	ethanol
+T1211	REAGENT_CATALYST 81164 81169	K2CO3
+T1212	TEMPERATURE 81214 81222	refluxed
+T1213	TIME 81227 81230	4 h
+T1214	OTHER_COMPOUND 81255 81260	EtOAc
+T1215	OTHER_COMPOUND 81307 81312	water
+T1216	OTHER_COMPOUND 81314 81319	brine
+T1217	OTHER_COMPOUND 81328 81333	MgSO4
+T1218	OTHER_COMPOUND 81432 81437	EtOAc
+T1219	OTHER_COMPOUND 81441 81448	hexanes
+T1220	OTHER_COMPOUND 81454 81462	methanol
+T1221	OTHER_COMPOUND 81466 81472	CH2Cl2
+T1222	REACTION_PRODUCT 81487 81501	title compound
+T1223	YIELD_OTHER 81503 81509	269 mg
+T1224	YIELD_PERCENT 81511 81514	46%
+T1225	EXAMPLE_LABEL 81522 81523	7
+T1226	REACTION_PRODUCT 81538 81625	(5S)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T1227	STARTING_MATERIAL 81643 81732	ethyl (5S)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1228	SOLVENT 81754 81761	ethanol
+T1229	REAGENT_CATALYST 81782 81786	NaOH
+T1230	TEMPERATURE 81838 81846	refluxed
+T1231	TIME 81851 81856	1.5 h
+T1232	TEMPERATURE 81871 81887	room temperature
+T1233	OTHER_COMPOUND 81893 81900	ethanol
+T1234	OTHER_COMPOUND 81957 81962	water
+T1235	OTHER_COMPOUND 81994 82001	aqueous
+T1236	OTHER_COMPOUND 82002 82004	1N
+T1237	OTHER_COMPOUND 82005 82008	HCl
+T1238	OTHER_COMPOUND 82078 82083	water
+T1239	REACTION_PRODUCT 82108 82122	title compound
+T1240	YIELD_OTHER 82124 82129	1.7 g
+T1241	YIELD_PERCENT 82131 82134	99%
+T1242	EXAMPLE_LABEL 82150 82151	N
+T1243	REACTION_PRODUCT 82153 82230	4-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic
+T1244	REACTION_PRODUCT 82257 82303	tert-butyl (3-hydroxy-2-methylpropyl)carbamate
+T1245	STARTING_MATERIAL 82329 82375	3-amino-2-methylpropan-1-ol hydrochloride salt
+T1246	SOLVENT 82398 82404	CH2Cl2
+T1247	REAGENT_CATALYST 82424 82437	triethylamine
+T1248	STARTING_MATERIAL 82462 82487	di-tert-butyl dicarbonate
+T1249	TIME 82535 82539	36 h
+T1250	OTHER_COMPOUND 82559 82564	NH4Cl
+T1251	TIME 82620 82626	10 min
+T1252	OTHER_COMPOUND 82688 82694	NaHCO3
+T1253	OTHER_COMPOUND 82703 82709	Na2SO4
+T1254	REACTION_PRODUCT 82742 82756	title compound
+T1255	EXAMPLE_LABEL 82811 82812	2
+T1256	REACTION_PRODUCT 82827 82912	diethyl 1-{3-[(tert-butoxycarbonyl)amino]-2-methylpropyl}-1H-indole-2,6-dicarboxylate
+T1257	STARTING_MATERIAL 82930 82965	diethyl 1H-indole-2,6-dicarboxylate
+T1258	STARTING_MATERIAL 82967 82981	Intermediate A
+T1259	STARTING_MATERIAL 83001 83047	tert-butyl (3-hydroxy-2-methylpropyl)carbamate
+T1260	REAGENT_CATALYST 83071 83089	triphenylphosphine
+T1261	SOLVENT 83112 83115	THF
+T1262	TEMPERATURE 83127 83131	0° C
+T1263	REAGENT_CATALYST 83142 83170	diisopropyl azodicarboxylate
+T1264	TIME 83219 83223	16 h
+T1265	TEMPERATURE 83227 83243	room temperature
+T1266	OTHER_COMPOUND 83318 83324	silica
+T1267	OTHER_COMPOUND 83357 83362	EtOAc
+T1268	OTHER_COMPOUND 83366 83373	heptane
+T1269	REACTION_PRODUCT 83402 83416	title compound
+T1270	REACTION_PRODUCT 83421 83456	diethyl 1H-indole-2,6-dicarboxylate
+T1271	YIELD_OTHER 83458 83463	3.2 g
+T1272	EXAMPLE_LABEL 83531 83532	3
+T1273	REACTION_PRODUCT 83547 83631	ethyl 4-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1274	STARTING_MATERIAL 83648 83733	diethyl 1-{3-[(tert-butoxycarbonyl)amino]-2-methylpropyl}-1H-indole-2,6-dicarboxylate
+T1275	STARTING_MATERIAL 83738 83773	diethyl 1H-indole-2,6-dicarboxylate
+T1276	SOLVENT 83795 83801	CH2Cl2
+T1277	REAGENT_CATALYST 83819 83822	TFA
+T1278	TEMPERATURE 83858 83874	room temperature
+T1279	TIME 83879 83882	2 h
+T1280	TIME 83951 83954	1 h
+T1281	SOLVENT 83988 83995	ethanol
+T1282	REAGENT_CATALYST 84015 84028	triethylamine
+T1283	REAGENT_CATALYST 84053 84058	K2CO3
+T1284	TEMPERATURE 84104 84110	80° C.
+T1285	TIME 84115 84118	5 h
+T1286	OTHER_COMPOUND 84120 84125	Water
+T1287	OTHER_COMPOUND 84178 84183	EtOAc
+T1288	OTHER_COMPOUND 84236 84242	Na2SO4
+T1289	REACTION_PRODUCT 84341 84355	title compound
+T1290	YIELD_OTHER 84357 84362	1.4 g
+T1291	YIELD_PERCENT 84364 84367	66%
+T1292	EXAMPLE_LABEL 84387 84388	4
+T1293	REACTION_PRODUCT 84403 84485	4-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T1294	STARTING_MATERIAL 84500 84584	ethyl 4-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1295	SOLVENT 84606 84613	ethanol
+T1296	REAGENT_CATALYST 84634 84638	NaOH
+T1297	TEMPERATURE 84689 84695	80° C.
+T1298	TIME 84700 84703	2 h
+T1299	OTHER_COMPOUND 84705 84716	Acetic acid
+T1300	OTHER_COMPOUND 84729 84734	water
+T1301	OTHER_COMPOUND 84806 84811	water
+T1302	REACTION_PRODUCT 84826 84840	title compound
+T1303	YIELD_OTHER 84842 84848	751 mg
+T1304	YIELD_PERCENT 84850 84853	58%
+T1305	EXAMPLE_LABEL 84886 84887	O
+T1306	REACTION_PRODUCT 84889 84976	trans-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic
+T1307	EXAMPLE_LABEL 84987 84988	1
+T1308	STARTING_MATERIAL 85003 85027	2-methyl-3-oxobutanamide
+T1309	STARTING_MATERIAL 85044 85073	ethyl 2-methyl-3-oxobutanoate
+T1310	REAGENT_CATALYST 85094 85112	ammonium hydroxide
+T1311	TEMPERATURE 85147 85163	room temperature
+T1312	TIME 85168 85174	4 days
+T1313	REACTION_PRODUCT 85378 85392	title compound
+T1314	YIELD_OTHER 85394 85400	26.7 g
+T1315	YIELD_PERCENT 85402 85405	46%
+T1316	EXAMPLE_LABEL 85413 85414	2
+T1317	REACTION_PRODUCT 85429 85455	4-amino-3-methylbutan-2-ol
+T1318	REAGENT_CATALYST 85481 85487	LiAlH4
+T1319	SOLVENT 85509 85514	ether
+T1320	TEMPERATURE 85534 85540	−60° C
+T1321	OTHER_COMPOUND 85550 85558	nitrogen
+T1322	STARTING_MATERIAL 85593 85617	2-methyl-3-oxobutanamide
+T1323	SOLVENT 85640 85643	THF
+T1324	TEMPERATURE 85724 85740	room temperature
+T1325	TIME 85745 85748	1 h
+T1326	TEMPERATURE 85770 85778	refluxed
+T1327	TIME 85783 85786	3 h
+T1328	TEMPERATURE 85801 85817	room temperature
+T1329	TIME 85842 85846	16 h
+T1330	OTHER_COMPOUND 85848 85853	Water
+T1331	OTHER_COMPOUND 85915 85919	NaOH
+T1332	OTHER_COMPOUND 85974 85979	water
+T1333	TIME 86027 86030	1 h
+T1334	OTHER_COMPOUND 86088 86093	ether
+T1335	REACTION_PRODUCT 86138 86152	title compound
+T1336	YIELD_OTHER 86154 86160	2.38 g
+T1337	YIELD_PERCENT 86162 86165	89%
+T1338	EXAMPLE_LABEL 86192 86193	3
+T1339	REACTION_PRODUCT 86208 86253	tert-butyl (3-hydroxy-2-methylbutyl)carbamate
+T1340	STARTING_MATERIAL 86279 86305	4-amino-3-methylbutan-2-ol
+T1341	SOLVENT 86328 86334	CH2Cl2
+T1342	STARTING_MATERIAL 86366 86391	di-tert-butyl dicarbonate
+T1343	SOLVENT 86414 86420	CH2Cl2
+T1344	TIME 86458 86462	18 h
+T1345	TEMPERATURE 86466 86482	room temperature
+T1346	OTHER_COMPOUND 86515 86521	NaHSO4
+T1347	OTHER_COMPOUND 86535 86540	MgSO4
+T1348	OTHER_COMPOUND 86625 86630	EtOAc
+T1349	OTHER_COMPOUND 86634 86641	hexanes
+T1350	REACTION_PRODUCT 86654 86668	title compound
+T1351	YIELD_OTHER 86670 86675	3.4 g
+T1352	YIELD_PERCENT 86677 86680	73%
+T1353	EXAMPLE_LABEL 86707 86708	4
+T1354	REACTION_PRODUCT 86723 86788	tert-butyl 5,6-dimethyl-1,2,3-oxathiazinane-3-carboxylate 2-oxide
+T1355	STARTING_MATERIAL 86814 86830	thionyl chloride
+T1356	SOLVENT 86853 86865	acetonitrile
+T1357	TEMPERATURE 86884 86891	−45° C.
+T1358	STARTING_MATERIAL 86915 86960	tert-butyl (3-hydroxy-2-methylbutyl)carbamate
+T1359	REAGENT_CATALYST 86983 86995	acetonitrile
+T1360	TIME 87026 87032	15 min
+T1361	TEMPERATURE 87073 87079	−40° C
+T1362	STARTING_MATERIAL 87119 87143	4-dimethylamino pyridine
+T1363	REAGENT_CATALYST 87199 87207	pyridine
+T1364	TEMPERATURE 87259 87265	−40° C
+T1365	TEMPERATURE 87293 87310	−40° C. to −35° C
+T1366	TIME 87316 87319	1 h
+T1367	OTHER_COMPOUND 87321 87334	Ethyl acetate
+T1368	TEMPERATURE 87384 87390	−35° C
+T1369	OTHER_COMPOUND 87417 87422	EtOAc
+T1370	OTHER_COMPOUND 87473 87480	Na2HPO4
+T1371	TIME 87540 87543	3 h
+T1372	OTHER_COMPOUND 87592 87598	NaHSO4
+T1373	OTHER_COMPOUND 87607 87612	MgSO4
+T1374	REACTION_PRODUCT 87645 87659	title compound
+T1375	YIELD_OTHER 87661 87666	4.4 g
+T1376	EXAMPLE_LABEL 87726 87727	5
+T1377	REACTION_PRODUCT 87742 87815	tert-butyl cis-5,6-dimethyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T1378	STARTING_MATERIAL 87833 87898	tert-butyl 5,6-dimethyl-1,2,3-oxathiazinane-3-carboxylate 2-oxide
+T1379	SOLVENT 87921 87933	acetonitrile
+T1380	SOLVENT 87946 87951	water
+T1381	TEMPERATURE 87970 87974	0° C
+T1382	REAGENT_CATALYST 87985 88001	sodium periodate
+T1383	TIME 88043 88048	5 min
+T1384	OTHER_COMPOUND 88101 88108	Na2HPO4
+T1385	REAGENT_CATALYST 88133 88138	RuCl3
+T1386	SOLVENT 88161 88166	water
+T1387	OTHER_COMPOUND 88235 88242	Na2HPO4
+T1388	TIME 88259 88262	2 h
+T1389	OTHER_COMPOUND 88264 88269	water
+T1390	OTHER_COMPOUND 88331 88334	HCl
+T1391	OTHER_COMPOUND 88375 88380	EtOAc
+T1392	OTHER_COMPOUND 88429 88435	NaHCO3
+T1393	OTHER_COMPOUND 88440 88445	brine
+T1394	OTHER_COMPOUND 88495 88500	EtOAc
+T1395	OTHER_COMPOUND 88541 88546	MgSO4
+T1396	OTHER_COMPOUND 88627 88632	EtOAc
+T1397	OTHER_COMPOUND 88636 88643	hexanes
+T1398	REACTION_PRODUCT 88678 88747	tert-butyl-5,6-dimethyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T1399	REACTION_PRODUCT 88749 88754	Trans
+T1400	YIELD_OTHER 88756 88762	530 mg
+T1401	YIELD_PERCENT 88764 88767	11%
+T1402	YIELD_OTHER 88789 88794	1.2 g
+T1403	YIELD_PERCENT 88796 88799	25%
+T1404	YIELD_OTHER 88833 88839	0.70 g
+T1405	YIELD_PERCENT 88841 88844	15%
+T1406	EXAMPLE_LABEL 88917 88918	6
+T1407	STARTING_MATERIAL 88933 89032	diethyl 1-{(2,3-syn)-4-[(tert-butoxycarbonyl)amino]-3-methylbutan-2-yl}-1H-indole-2,6-dicarboxylate
+T1408	REAGENT_CATALYST 89053 89067	sodium hydride
+T1409	REAGENT_CATALYST 89090 89093	DMF
+T1410	TEMPERATURE 89114 89118	0° C
+T1411	STARTING_MATERIAL 89138 89173	diethyl 1H-indole-2,6-dicarboxylate
+T1412	STARTING_MATERIAL 89175 89189	Intermediate A
+T1413	TIME 89252 89258	20 min
+T1414	TEMPERATURE 89262 89266	0° C
+T1415	STARTING_MATERIAL 89283 89356	tert-butyl cis-5,6-dimethyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T1416	SOLVENT 89379 89382	DMF
+T1417	TEMPERATURE 89436 89452	room temperature
+T1418	TIME 89469 89473	16 h
+T1419	OTHER_COMPOUND 89475 89480	Water
+T1420	OTHER_COMPOUND 89524 89529	EtOAc
+T1421	OTHER_COMPOUND 89564 89569	brine
+T1422	OTHER_COMPOUND 89578 89584	Na2SO4
+T1423	REACTION_PRODUCT 89617 89637	title crude compound
+T1424	YIELD_OTHER 89639 89644	1.6 g
+T1425	EXAMPLE_LABEL 89704 89705	7
+T1426	REACTION_PRODUCT 89720 89814	ethyl trans-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1427	STARTING_MATERIAL 89832 89931	diethyl 1-{(2,3-syn)-4-[(tert-butoxycarbonyl)amino]-3-methylbutan-2-yl}-1H-indole-2,6-dicarboxylate
+T1428	SOLVENT 89943 89949	CH2Cl2
+T1429	REAGENT_CATALYST 89967 89970	TFA
+T1430	TEMPERATURE 90007 90023	room temperature
+T1431	TIME 90028 90031	4 h
+T1432	SOLVENT 90101 90108	ethanol
+T1433	REAGENT_CATALYST 90121 90127	Na2CO3
+T1434	TEMPERATURE 90174 90182	refluxed
+T1435	TIME 90187 90190	3 h
+T1436	OTHER_COMPOUND 90259 90265	CH2Cl2
+T1437	OTHER_COMPOUND 90377 90385	methanol
+T1438	OTHER_COMPOUND 90389 90395	CH2Cl2
+T1439	REACTION_PRODUCT 90410 90424	title compound
+T1440	YIELD_OTHER 90426 90432	592 mg
+T1441	YIELD_PERCENT 90434 90437	66%
+T1442	YIELD_PERCENT 90442 90443	3
+T1443	EXAMPLE_LABEL 90457 90458	8
+T1444	REACTION_PRODUCT 90473 90565	trans-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T1445	STARTING_MATERIAL 90579 90673	ethyl trans-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1446	REAGENT_CATALYST 90697 90713	LiOH monohydrate
+T1447	SOLVENT 90735 90742	dioxane
+T1448	SOLVENT 90743 90748	water
+T1449	TEMPERATURE 90776 90792	room temperature
+T1450	TIME 90797 90800	6 h
+T1451	OTHER_COMPOUND 90831 90836	water
+T1452	OTHER_COMPOUND 90889 90892	HCl
+T1453	REACTION_PRODUCT 90959 90973	title compound
+T1454	YIELD_OTHER 90975 90981	201 mg
+T1455	YIELD_PERCENT 90983 90986	61%
+T1456	EXAMPLE_LABEL 91019 91020	P
+T1457	REACTION_PRODUCT 91022 91112	cis-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T1458	REACTION_PRODUCT 91118 91126	compound
+T1459	REACTION_PRODUCT 91186 91278	trans-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T1460	OTHER_COMPOUND 91280 91294	Intermediate O
+T1461	REACTION_PRODUCT 91311 91384	tert-butyl cis-5,6-dimethyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T1462	REACTION_PRODUCT 91390 91465	tert-butyl trans-5,6-dimethyl-1,2,3-oxathiazinane-3-carboxylate 2,2-dioxide
+T1463	EXAMPLE_LABEL 91490 91491	Q
+T1464	REACTION_PRODUCT 91493 91574	4,4-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic
+T1465	EXAMPLE_LABEL 91585 91586	1
+T1466	STARTING_MATERIAL 91601 91651	tert-butyl (3-hydroxy-2,2-dimethylpropyl)carbamate
+T1467	STARTING_MATERIAL 91677 91708	3-amino-2,2-dimethylpropan-1-ol
+T1468	SOLVENT 91730 91736	CH2Cl2
+T1469	REAGENT_CATALYST 91755 91780	di-tert-butyl dicarbonate
+T1470	TIME 91830 91834	40 h
+T1471	OTHER_COMPOUND 91864 91869	NH4Cl
+T1472	TIME 91924 91930	10 min
+T1473	OTHER_COMPOUND 92000 92006	NaHCO3
+T1474	OTHER_COMPOUND 92015 92021	Na2SO4
+T1475	REACTION_PRODUCT 92054 92074	title crude compound
+T1476	YIELD_OTHER 92076 92080	19 g
+T1477	EXAMPLE_LABEL 92136 92137	2
+T1478	REACTION_PRODUCT 92152 92241	diethyl 1-{3-[(tert-butoxycarbonyl)amino]-2,2-dimethylpropyl}-1H-indole-2,6-dicarboxylate
+T1479	STARTING_MATERIAL 92259 92294	diethyl 1H-indole-2,6-dicarboxylate
+T1480	STARTING_MATERIAL 92314 92364	tert-butyl (3-hydroxy-2,2-dimethylpropyl)carbamate
+T1481	REAGENT_CATALYST 92385 92403	triphenylphosphine
+T1482	SOLVENT 92426 92429	THF
+T1483	REAGENT_CATALYST 92452 92480	diisopropyl azodicarboxylate
+T1484	TIME 92529 92533	60 h
+T1485	TEMPERATURE 92537 92553	room temperature
+T1486	OTHER_COMPOUND 92683 92693	silica gel
+T1487	OTHER_COMPOUND 92712 92717	EtOAc
+T1488	OTHER_COMPOUND 92721 92728	heptane
+T1489	STARTING_MATERIAL 92743 92833	diethyl 1-{3-[(tert-butoxycarbonyl)amino-]-2,2-dimethylpropyl}-1H-indole-2,6-dicarboxylate
+T1490	STARTING_MATERIAL 92838 92873	diethyl 1H-indole-2,6-dicarboxylate
+T1491	EXAMPLE_LABEL 92969 92970	3
+T1492	REACTION_PRODUCT 92985 93073	ethyl 4,4-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1493	STARTING_MATERIAL 93090 93180	diethyl 1-{3-[(tert-butoxycarbonyl)amino-]-2,2-dimethylpropyl}-1H-indole-2,6-dicarboxylate
+T1494	STARTING_MATERIAL 93185 93220	diethyl 1H-indole-2,6-dicarboxylate
+T1495	STARTING_MATERIAL 93222 93236	Intermediate A
+T1496	SOLVENT 93258 93264	CH2Cl2
+T1497	REAGENT_CATALYST 93283 93286	TFA
+T1498	TEMPERATURE 93323 93339	room temperature
+T1499	TIME 93344 93347	2 h
+T1500	OTHER_COMPOUND 93416 93421	EtOAc
+T1501	OTHER_COMPOUND 93460 93466	NaHCO3
+T1502	OTHER_COMPOUND 93537 93542	EtOAc
+T1503	OTHER_COMPOUND 93596 93602	Na2SO4
+T1504	SOLVENT 93654 93661	ethanol
+T1505	REAGENT_CATALYST 93682 93695	triethylamine
+T1506	REAGENT_CATALYST 93720 93725	K2CO3
+T1507	TEMPERATURE 93771 93777	80° C.
+T1508	TIME 93782 93785	2 h
+T1509	TEMPERATURE 93805 93821	room temperature
+T1510	TIME 93838 93842	16 h
+T1511	OTHER_COMPOUND 94007 94015	methanol
+T1512	OTHER_COMPOUND 94019 94025	CH2Cl2
+T1513	REACTION_PRODUCT 94040 94054	title compound
+T1514	YIELD_OTHER 94056 94061	7.6 g
+T1515	YIELD_PERCENT 94063 94066	66%
+T1516	YIELD_PERCENT 94071 94072	3
+T1517	EXAMPLE_LABEL 94086 94087	4
+T1518	STARTING_MATERIAL 94102 94188	4,4-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T1519	STARTING_MATERIAL 94189 94277	Ethyl 4,4-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1520	SOLVENT 94313 94320	ethanol
+T1521	REAGENT_CATALYST 94337 94341	NaOH
+T1522	TEMPERATURE 94416 94422	80° C.
+T1523	TIME 94427 94430	2 h
+T1524	OTHER_COMPOUND 94432 94443	Acetic acid
+T1525	OTHER_COMPOUND 94456 94461	water
+T1526	OTHER_COMPOUND 94533 94538	water
+T1527	REACTION_PRODUCT 94553 94567	title compound
+T1528	YIELD_OTHER 94569 94574	3.1 g
+T1529	YIELD_PERCENT 94576 94579	45%
+T1530	REACTION_PRODUCT 94604 94618	Intermediate R
+T1531	OTHER_COMPOUND 94620 94701	4,4-difluoro-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic
+T1532	STARTING_MATERIAL 94728 94756	2,2-difluoropropane-1,3-diol
+T1533	STARTING_MATERIAL 94774 94803	diethyl difluoropropanedioate
+T1534	SOLVENT 94826 94829	THF
+T1535	TEMPERATURE 94842 94846	0° C
+T1536	REAGENT_CATALYST 94863 94873	LiAlH4 THF
+T1537	TEMPERATURE 94939 94955	room temperature
+T1538	TIME 94972 94976	16 h
+T1539	OTHER_COMPOUND 94978 94983	Water
+T1540	OTHER_COMPOUND 95053 95056	HCl
+T1541	OTHER_COMPOUND 95071 95076	water
+T1542	OTHER_COMPOUND 95131 95136	EtOAc
+T1543	OTHER_COMPOUND 95189 95195	Na2SO4
+T1544	REACTION_PRODUCT 95228 95242	title compound
+T1545	YIELD_OTHER 95244 95249	2.5 g
+T1546	YIELD_PERCENT 95251 95254	89%
+T1547	EXAMPLE_LABEL 95262 95263	2
+T1548	REACTION_PRODUCT 95278 95336	2,2-difluoropropane-1,3-diyl bis(4-methylbenzenesulfonate)
+T1549	STARTING_MATERIAL 95354 95382	2,2-difluoropropane-1,3-diol
+T1550	SOLVENT 95405 95411	CH2Cl2
+T1551	REAGENT_CATALYST 95430 95443	triethylamine
+T1552	STARTING_MATERIAL 95478 95511	4-methyl-benzenesulfonyl chloride
+T1553	TIME 95569 95573	16 h
+T1554	TEMPERATURE 95577 95593	room temperature
+T1555	OTHER_COMPOUND 95595 95600	Water
+T1556	OTHER_COMPOUND 95674 95679	water
+T1557	OTHER_COMPOUND 95797 95802	EtOAc
+T1558	OTHER_COMPOUND 95806 95813	heptane
+T1559	REACTION_PRODUCT 95828 95842	title compound
+T1560	YIELD_OTHER 95844 95849	6.7 g
+T1561	YIELD_PERCENT 95851 95854	71%
+T1562	EXAMPLE_LABEL 95862 95863	3
+T1563	STARTING_MATERIAL 95878 96006	diethyl 1-(2,2-difluoro-3-{[(4-methylphenyl)sulfonyl]oxy}propyl)-1H-indole-2,6-dicarboxylate Diethyl 1H-indole-2,6-dicarboxylate
+T1564	STARTING_MATERIAL 96008 96022	Intermediate A
+T1565	STARTING_MATERIAL 96043 96101	2,2-difluoropropane-1,3-diyl bis(4-methylbenzenesulfonate)
+T1566	REAGENT_CATALYST 96125 96130	K2CO3
+T1567	SOLVENT 96163 96166	DMF
+T1568	TEMPERATURE 96281 96287	135° C
+T1569	TIME 96293 96296	1 h
+T1570	OTHER_COMPOUND 96332 96337	water
+T1571	OTHER_COMPOUND 96351 96356	EtOAc
+T1572	OTHER_COMPOUND 96427 96432	EtOAc
+T1573	OTHER_COMPOUND 96490 96495	water
+T1574	OTHER_COMPOUND 96515 96521	Na2SO4
+T1575	OTHER_COMPOUND 96609 96614	EtOAc
+T1576	OTHER_COMPOUND 96618 96625	heptane
+T1577	REACTION_PRODUCT 96640 96654	title compound
+T1578	YIELD_OTHER 96656 96661	4.7 g
+T1579	YIELD_PERCENT 96663 96666	59%
+T1580	YIELD_PERCENT 96673 96676	38%
+T1581	EXAMPLE_LABEL 96690 96691	4
+T1582	REACTION_PRODUCT 96706 96772	diethyl 1-(3-azido-2,2-difluoropropyl)-1H-indole-2,6-dicarboxylate
+T1583	STARTING_MATERIAL 96790 96882	diethyl 1-(2,2-difluoro-3-{[(4-methylphenyl)sulfonyl]oxy}propyl)-1H-indole-2,6-dicarboxylate
+T1584	SOLVENT 96914 96917	DMF
+T1585	REAGENT_CATALYST 96935 96947	sodium azide
+T1586	TEMPERATURE 96994 96999	95° C
+T1587	TIME 97005 97009	40 h
+T1588	OTHER_COMPOUND 97011 97016	Water
+T1589	OTHER_COMPOUND 97069 97074	EtOAc
+T1590	OTHER_COMPOUND 97132 97137	water
+T1591	OTHER_COMPOUND 97157 97163	Na2SO4
+T1592	REACTION_PRODUCT 97196 97216	title crude compound
+T1593	YIELD_OTHER 97218 97223	2.5 g
+T1594	EXAMPLE_LABEL 97283 97284	5
+T1595	REACTION_PRODUCT 97299 97365	diethyl 1-(3-amino-2,2-difluoropropyl)-1H-indole-2,6-dicarboxylate
+T1596	STARTING_MATERIAL 97383 97449	diethyl 1-(3-azido-2,2-difluoropropyl)-1H-indole-2,6-dicarboxylate
+T1597	SOLVENT 97471 97479	methanol
+T1598	SOLVENT 97480 97486	CH2Cl2
+T1599	REAGENT_CATALYST 97513 97522	palladium
+T1600	REAGENT_CATALYST 97526 97532	carbon
+T1601	TIME 97588 97593	3.5 h
+T1602	OTHER_COMPOUND 97600 97602	H2
+T1603	REACTION_PRODUCT 97695 97715	title crude compound
+T1604	YIELD_OTHER 97717 97722	2.3 g
+T1605	EXAMPLE_LABEL 97782 97783	6
+T1606	REACTION_PRODUCT 97798 97886	ethyl 4,4-difluoro-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1607	STARTING_MATERIAL 97904 97970	diethyl 1-(3-amino-2,2-difluoropropyl)-1H-indole-2,6-dicarboxylate
+T1608	SOLVENT 97982 97989	ethanol
+T1609	REAGENT_CATALYST 98009 98022	triethylamine
+T1610	REAGENT_CATALYST 98047 98052	K2CO3
+T1611	TEMPERATURE 98097 98102	80° C
+T1612	TIME 98108 98112	16 h
+T1613	OTHER_COMPOUND 98114 98121	Ethanol
+T1614	OTHER_COMPOUND 98150 98155	water
+T1615	REACTION_PRODUCT 98244 98258	title compound
+T1616	YIELD_OTHER 98260 98265	1.2 g
+T1617	YIELD_PERCENT 98267 98270	70%
+T1618	EXAMPLE_LABEL 98290 98291	7
+T1619	STARTING_MATERIAL 98306 98392	4,4-difluoro-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T1620	STARTING_MATERIAL 98393 98481	Ethyl 4,4-difluoro-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T1621	SOLVENT 98517 98524	ethanol
+T1622	REAGENT_CATALYST 98540 98544	NaOH
+T1623	TEMPERATURE 98617 98622	60° C
+T1624	TIME 98628 98638	1 h 50 min
+T1625	OTHER_COMPOUND 98640 98651	Acetic acid
+T1626	OTHER_COMPOUND 98664 98669	water
+T1627	OTHER_COMPOUND 98747 98752	water
+T1628	REACTION_PRODUCT 98767 98781	title compound
+T1629	YIELD_OTHER 98783 98789	350 mg
+T1630	YIELD_PERCENT 98791 98794	82%
+T1631	REACTION_PRODUCT 98813 98909	1′-oxo-2′,3′-dihydro-1′H-spiro[cyclopropane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxylic acid
+T1632	EXAMPLE_LABEL 98915 98916	1
+T1633	STARTING_MATERIAL 98931 98967	[1-(aminomethyl)cyclopropyl]methanol
+T1634	REAGENT_CATALYST 98987 99011	lithium aluminum hydride
+T1635	SOLVENT 99032 99035	THF
+T1636	STARTING_MATERIAL 99068 99112	ethyl 1-(cyanomethyl)cyclopropanecarboxylate
+T1637	SOLVENT 99133 99136	THF
+T1638	TEMPERATURE 99149 99153	0° C
+T1639	TEMPERATURE 99190 99206	room temperature
+T1640	TIME 99211 99214	4 h
+T1641	TEMPERATURE 99250 99254	0° C
+T1642	OTHER_COMPOUND 99269 99274	water
+T1643	OTHER_COMPOUND 99323 99328	EtOAc
+T1644	OTHER_COMPOUND 99381 99387	Na2SO4
+T1645	REACTION_PRODUCT 99420 99440	title crude compound
+T1646	YIELD_OTHER 99442 99446	20 g
+T1647	EXAMPLE_LABEL 99506 99507	2
+T1648	STARTING_MATERIAL 99522 99606	tert-butyl {[1-(hydroxymethyl)cyclopropyl]methyl}carbamate Di-tert-butyl dicarbonate
+T1649	STARTING_MATERIAL 99661 99697	[1-(aminomethyl)cyclopropyl]methanol
+T1650	SOLVENT 99718 99724	CH2Cl2
+T1651	TEMPERATURE 99737 99753	room temperature
+T1652	TIME 99811 99815	40 h
+T1653	OTHER_COMPOUND 99832 99837	NH4Cl
+T1654	TIME 99913 99919	10 min
+T1655	OTHER_COMPOUND 99975 99981	NaHCO3
+T1656	OTHER_COMPOUND 100008 100014	Na2SO4
+T1657	REACTION_PRODUCT 100047 100061	title compound
+T1658	YIELD_OTHER 100063 100067	20 g
+T1659	YIELD_PERCENT 100069 100072	56%
+T1660	EXAMPLE_LABEL 100109 100110	3
+T1661	REACTION_PRODUCT 100125 100222	diethyl 1-[(1-{[(tert-butoxycarbonyl)amino]methyl}cyclopropyl)methyl]-1H-indole-2,6-dicarboxylate
+T1662	STARTING_MATERIAL 100240 100298	tert-butyl {[1-(hydroxymethyl)cyclopropyl]methyl}carbamate
+T1663	STARTING_MATERIAL 100318 100353	diethyl 1H-indole-2,6-dicarboxylate
+T1664	REAGENT_CATALYST 100376 100394	triphenylphosphine
+T1665	SOLVENT 100415 100418	THF
+T1666	REAGENT_CATALYST 100437 100465	diisopropyl azodicarboxylate
+T1667	TEMPERATURE 100487 100503	room temperature
+T1668	TIME 100541 100545	60 h
+T1669	OTHER_COMPOUND 100642 100647	EtOAc
+T1670	OTHER_COMPOUND 100651 100666	petroleum ether
+T1671	REACTION_PRODUCT 100690 100787	diethyl 1-[(1-{[(tert-butoxycarbonyl)amino]methyl}cyclopropyl)methyl]-1H-indole-2,6-dicarboxylate
+T1672	REACTION_PRODUCT 100792 100827	diethyl 1H-indole-2,6-dicarboxylate
+T1673	YIELD_OTHER 100829 100833	36 g
+T1674	EXAMPLE_LABEL 100925 100926	4
+T1675	STARTING_MATERIAL 100941 101019	diethyl 1-{[1-(aminomethyl)cyclopropyl]methyl}-1H-indole-2,6-dicarboxylate TFA
+T1676	STARTING_MATERIAL 101061 101158	diethyl 1-[(1-{[(tert-butoxycarbonyl)amino]methyl}cyclopropyl)methyl]-1H-indole-2,6-dicarboxylate
+T1677	SOLVENT 101178 101184	CH2Cl2
+T1678	TEMPERATURE 101197 101213	room temperature
+T1679	TIME 101251 101254	2 h
+T1680	OTHER_COMPOUND 101314 101319	EtOAc
+T1681	OTHER_COMPOUND 101358 101364	NaHCO3
+T1682	OTHER_COMPOUND 101426 101431	EtOAc
+T1683	OTHER_COMPOUND 101486 101492	Na2SO4
+T1684	REACTION_PRODUCT 101526 101540	title compound
+T1685	YIELD_OTHER 101542 101546	30 g
+T1686	YIELD_PERCENT 101549 101552	99%
+T1687	EXAMPLE_LABEL 101642 101643	5
+T1688	STARTING_MATERIAL 101658 101756	ethyl 1′-oxo-2′,3′-dihydro-1′H-spiro[cyclopropane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxylate
+T1689	STARTING_MATERIAL 101757 101770	Triethylamine
+T1690	STARTING_MATERIAL 101826 101900	diethyl 1-{[1-(aminomethyl)cyclopropyl]methyl}-1H-indole-2,6-dicarboxylate
+T1691	REAGENT_CATALYST 101923 101928	K2CO3
+T1692	SOLVENT 101951 101958	ethanol
+T1693	TEMPERATURE 102003 102009	80° C.
+T1694	TIME 102014 102017	2 h
+T1695	TEMPERATURE 102038 102054	room temperature
+T1696	TIME 102079 102083	16 h
+T1697	OTHER_COMPOUND 102091 102096	K2CO3
+T1698	OTHER_COMPOUND 102242 102250	methanol
+T1699	OTHER_COMPOUND 102254 102260	CH2Cl2
+T1700	REACTION_PRODUCT 102275 102289	title compound
+T1701	YIELD_OTHER 102291 102296	9.2 g
+T1702	YIELD_PERCENT 102298 102301	31%
+T1703	EXAMPLE_LABEL 102338 102339	6
+T1704	REACTION_PRODUCT 102354 102450	1′-oxo-2′,3′-dihydro-1′H-spiro[cyclopropane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxylic acid
+T1705	REAGENT_CATALYST 102465 102469	NaOH
+T1706	SOLVENT 102488 102493	water
+T1707	STARTING_MATERIAL 102530 102628	ethyl 1′-oxo-2′,3′-dihydro-1′H-spiro[cyclopropane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxylate
+T1708	SOLVENT 102649 102656	ethanol
+T1709	TEMPERATURE 102701 102707	80° C.
+T1710	TIME 102712 102715	2 h
+T1711	OTHER_COMPOUND 102717 102728	Acetic acid
+T1712	OTHER_COMPOUND 102741 102746	water
+T1713	OTHER_COMPOUND 102815 102820	water
+T1714	REACTION_PRODUCT 102845 102859	title compound
+T1715	YIELD_OTHER 102861 102866	5.4 g
+T1716	YIELD_PERCENT 102868 102871	66%
+T1717	EXAMPLE_LABEL 102904 102905	T
+T1718	REACTION_PRODUCT 102907 103002	1′-oxo-2′,3′-dihydro-1′H-spiro[cyclobutane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxylic acid
+T1719	STARTING_MATERIAL 103024 103081	tert-butyl {[1-(hydroxymethyl)cyclobutyl]methyl}carbamate
+T1720	STARTING_MATERIAL 103082 103107	Di-tert-butyl dicarbonate
+T1721	STARTING_MATERIAL 103163 103198	[1-(aminomethyl)cyclobutyl]methanol
+T1722	SOLVENT 103219 103225	CH2Cl2
+T1723	TIME 103275 103279	40 h
+T1724	TEMPERATURE 103283 103299	room temperature
+T1725	OTHER_COMPOUND 103311 103316	NH4Cl
+T1726	TIME 103374 103380	10 min
+T1727	OTHER_COMPOUND 103436 103442	NaHCO3
+T1728	OTHER_COMPOUND 103460 103466	Na2SO4
+T1729	REACTION_PRODUCT 103499 103513	title compound
+T1730	YIELD_OTHER 103515 103519	20 g
+T1731	YIELD_PERCENT 103521 103524	89%
+T1732	EXAMPLE_LABEL 103549 103550	2
+T1733	REACTION_PRODUCT 103565 103661	diethyl 1-[(1-{[(tert-butoxycarbonyl)amino]methyl}cyclobutyl)methyl]-1H-indole-2,6-dicarboxylate
+T1734	STARTING_MATERIAL 103679 103736	tert-butyl {[1-(hydroxymethyl)cyclobutyl]methyl}carbamate
+T1735	STARTING_MATERIAL 103757 103792	diethyl 1H-indole-2,6-dicarboxylate
+T1736	REAGENT_CATALYST 103819 103837	triphenylphosphine
+T1737	SOLVENT 103863 103866	THF
+T1738	REAGENT_CATALYST 103885 103913	diisopropyl azodicarboxylate
+T1739	TEMPERATURE 103940 103956	room temperature
+T1740	TIME 103997 104001	60 h
+T1741	OTHER_COMPOUND 104098 104103	EtOAc
+T1742	OTHER_COMPOUND 104107 104122	petroleum ether
+T1743	REACTION_PRODUCT 104133 104229	diethyl 1-[(1-{[(tert-butoxycarbonyl)amino]methyl}cyclobutyl)methyl]-1H-indole-2,6-dicarboxylate
+T1744	REACTION_PRODUCT 104259 104294	diethyl 1H-indole-2,6-dicarboxylate
+T1745	EXAMPLE_LABEL 104368 104369	3
+T1746	STARTING_MATERIAL 104384 104461	diethyl 1-{[1-(aminomethyl)cyclobutyl]methyl}-1H-indole-2,6-dicarboxylate TFA
+T1747	STARTING_MATERIAL 104505 104600	diethyl 1-[1-{[(tert-butoxycarbonyl)amino]methyl}cyclobutyl)methyl]-1H-indole-2,6-dicarboxylate
+T1748	SOLVENT 104628 104634	CH2Cl2
+T1749	TEMPERATURE 104680 104696	room temperature
+T1750	TIME 104701 104704	2 h
+T1751	OTHER_COMPOUND 104770 104775	EtOAc
+T1752	OTHER_COMPOUND 104817 104823	NaHCO3
+T1753	OTHER_COMPOUND 104904 104909	EtOAc
+T1754	OTHER_COMPOUND 104962 104968	Na2SO4
+T1755	REACTION_PRODUCT 105001 105015	title compound
+T1756	EXAMPLE_LABEL 105074 105075	4
+T1757	STARTING_MATERIAL 105090 105201	ethyl 1′-oxo-2′,3′-dihydro-1′H-spiro[cyclobutane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxylate Triethylamine
+T1758	STARTING_MATERIAL 105255 105335	1-(1-aminomethyl-cyclobutylmethyl)-1H-indole-2,6-dicarboxylic acid diethyl ester
+T1759	REAGENT_CATALYST 105364 105369	K2CO3
+T1760	SOLVENT 105395 105402	ethanol
+T1761	TEMPERATURE 105446 105451	80° C
+T1762	TIME 105457 105460	2 h
+T1763	TEMPERATURE 105484 105500	room temperature
+T1764	TIME 105525 105529	16 h
+T1765	OTHER_COMPOUND 105541 105546	K2CO3
+T1766	OTHER_COMPOUND 105692 105700	methanol
+T1767	OTHER_COMPOUND 105704 105710	CH2Cl2
+T1768	REACTION_PRODUCT 105725 105739	title compound
+T1769	YIELD_OTHER 105741 105744	7 g
+T1770	YIELD_PERCENT 105746 105749	40%
+T1771	YIELD_PERCENT 105754 105755	3
+T1772	EXAMPLE_LABEL 105786 105787	5
+T1773	REACTION_PRODUCT 105802 105897	1′-oxo-2′,3′-dihydro-1′H-spiro[cyclobutane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxylic acid
+T1774	STARTING_MATERIAL 105915 106012	ethyl 1′-oxo-2′,3′-dihydro-1′H-spiro[cyclobutane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxylate
+T1775	SOLVENT 106033 106040	ethanol
+T1776	REAGENT_CATALYST 106073 106077	NaOH
+T1777	SOLVENT 106099 106104	water
+T1778	TEMPERATURE 106148 106154	80° C.
+T1779	TIME 106159 106162	2 h
+T1780	OTHER_COMPOUND 106164 106175	Acetic acid
+T1781	OTHER_COMPOUND 106190 106195	water
+T1782	OTHER_COMPOUND 106264 106269	water
+T1783	REACTION_PRODUCT 106294 106308	title compound
+T1784	YIELD_OTHER 106310 106313	4 g
+T1785	YIELD_PERCENT 106315 106318	64%
+T1786	EXAMPLE_LABEL 106351 106352	U
+T1787	REACTION_PRODUCT 106354 106446	1-oxo-2,2′,3,3′,5′,6′-hexahydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-pyran]-8-carboxylic
+T1788	STARTING_MATERIAL 106473 106519	ethyl 4-cyanotetrahydro-2H-pyran-4-carboxylate
+T1789	REAGENT_CATALYST 106539 106542	NaH
+T1790	SOLVENT 106568 106571	DMF
+T1791	STARTING_MATERIAL 106590 106608	ethyl cyanoacetate
+T1792	TEMPERATURE 106632 106636	0° C
+T1793	TIME 106643 106649	25 min
+T1794	TEMPERATURE 106685 106701	room temperature
+T1795	TIME 106706 106709	2 h
+T1796	TEMPERATURE 106735 106739	0° C
+T1797	STARTING_MATERIAL 106762 106795	1-chloro-2-(2-chloroethoxy)ethane
+T1798	SOLVENT 106821 106824	DMF
+T1799	TEMPERATURE 106880 106896	room temperature
+T1800	TIME 106901 106904	1 h
+T1801	TEMPERATURE 106945 106951	90° C.
+T1802	TIME 106956 106960	16 h
+T1803	OTHER_COMPOUND 107007 107012	water
+T1804	OTHER_COMPOUND 107053 107058	EtOAc
+T1805	OTHER_COMPOUND 107114 107120	Na2SO4
+T1806	REACTION_PRODUCT 107230 107244	title compound
+T1807	YIELD_OTHER 107246 107250	10 g
+T1808	YIELD_PERCENT 107252 107255	25%
+T1809	EXAMPLE_LABEL 107282 107283	2
+T1810	REACTION_PRODUCT 107298 107347	[4-(aminomethyl)tetrahydro-2H-pyran-4-yl]methanol
+T1811	STARTING_MATERIAL 107362 107408	ethyl 4-cyanotetrahydro-2H-pyran-4-carboxylate
+T1812	SOLVENT 107431 107434	THF
+T1813	REAGENT_CATALYST 107480 107504	lithium aluminum hydride
+T1814	SOLVENT 107529 107532	THF
+T1815	TEMPERATURE 107545 107549	0° C
+T1816	TEMPERATURE 107585 107601	room temperature
+T1817	TIME 107618 107621	4 h
+T1818	TEMPERATURE 107648 107652	0° C
+T1819	OTHER_COMPOUND 107667 107672	water
+T1820	OTHER_COMPOUND 107728 107733	EtOAc
+T1821	OTHER_COMPOUND 107789 107795	Na2SO4
+T1822	REACTION_PRODUCT 107828 107848	title crude compound
+T1823	YIELD_OTHER 107850 107853	8 g
+T1824	YIELD_PERCENT 107856 107859	99%
+T1825	EXAMPLE_LABEL 107919 107920	3
+T1826	STARTING_MATERIAL 107935 108032	tert-butyl {[4-(hydroxymethyl)tetrahydro-2H-pyran-4-yl]methyl}carbamate Di-tert-butyl dicarbonate
+T1827	STARTING_MATERIAL 108090 108139	[4-(aminomethyl)tetrahydro-2H-pyran-4-yl]methanol
+T1828	SOLVENT 108161 108167	CH2Cl2
+T1829	TEMPERATURE 108180 108196	room temperature
+T1830	TIME 108234 108238	40 h
+T1831	OTHER_COMPOUND 108256 108261	NH4Cl
+T1832	TIME 108325 108331	10 min
+T1833	OTHER_COMPOUND 108390 108396	NaHCO3
+T1834	OTHER_COMPOUND 108413 108419	Na2SO4
+T1835	REACTION_PRODUCT 108452 108466	title compound
+T1836	YIELD_OTHER 108468 108472	13 g
+T1837	YIELD_PERCENT 108474 108477	96%
+T1838	EXAMPLE_LABEL 108502 108503	4
+T1839	STARTING_MATERIAL 108518 108628	diethyl 1-[(4-{[(tert-butoxycarbonyl)amino]methyl}tetrahydro-2H-pyran-4-yl)methyl]-1H-indole-2,6-dicarboxylate
+T1840	STARTING_MATERIAL 108646 108717	tert-butyl {[4-(hydroxymethyl)tetrahydro-2H-pyran-4-yl]methyl}carbamate
+T1841	STARTING_MATERIAL 108738 108773	diethyl 1H-indole-2,6-dicarboxylate
+T1842	REAGENT_CATALYST 108816 108834	triphenylphosphine
+T1843	SOLVENT 108859 108862	THF
+T1844	TEMPERATURE 108875 108891	room temperature
+T1845	REAGENT_CATALYST 108901 108929	diisopropyl azodicarboxylate
+T1846	TIME 108987 108991	60 h
+T1847	OTHER_COMPOUND 109098 109103	EtOAc
+T1848	OTHER_COMPOUND 109107 109122	petroleum ether
+T1849	REACTION_PRODUCT 109146 109256	diethyl 1-[(4-{[(tert-butoxycarbonyl)amino]methyl}tetrahydro-2H-pyran-4-yl)methyl]-1H-indole-2,6-dicarboxylate
+T1850	REACTION_PRODUCT 109272 109307	diethyl 1H-indole-2,6-dicarboxylate
+T1851	EXAMPLE_LABEL 109398 109399	5
+T1852	STARTING_MATERIAL 109414 109505	diethyl 1-{[4-(aminomethyl)tetrahydro-2H-pyran-4-yl]methyl}-1H-indole-2,6-dicarboxylate TFA
+T1853	STARTING_MATERIAL 109546 109656	diethyl 1-[(4-{[(tert-butoxycarbonyl)amino]methyl}tetrahydro-2H-pyran-4-yl)methyl]-1H-indole-2,6-dicarboxylate
+T1854	SOLVENT 109684 109690	CH2Cl2
+T1855	TEMPERATURE 109736 109752	room temperature
+T1856	TIME 109757 109760	2 h
+T1857	OTHER_COMPOUND 109835 109840	EtOAc
+T1858	OTHER_COMPOUND 109876 109882	NaHCO3
+T1859	OTHER_COMPOUND 109973 109978	EtOAc
+T1860	OTHER_COMPOUND 110033 110039	Na2SO4
+T1861	REACTION_PRODUCT 110071 110076	crude
+T1862	REACTION_PRODUCT 110077 110091	title compound
+T1863	EXAMPLE_LABEL 110150 110151	6
+T1864	REACTION_PRODUCT 110166 110265	ethyl 1-oxo-2,2′,3,3′,5′,6′-hexahydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-pyran]-8-carboxylate
+T1865	STARTING_MATERIAL 110293 110380	diethyl 1-{[4-(aminomethyl)tetrahydro-2H-pyran-4-yl]methyl}-1H-indole-2,6-dicarboxylate
+T1866	SOLVENT 110408 110415	ethanol
+T1867	REAGENT_CATALYST 110434 110447	triethylamine
+T1868	REAGENT_CATALYST 110475 110480	K2CO3
+T1869	TEMPERATURE 110537 110543	80° C.
+T1870	TIME 110548 110551	2 h
+T1871	TEMPERATURE 110569 110585	room temperature
+T1872	TIME 110602 110604	an
+T1873	TIME 110616 110620	16 h
+T1874	OTHER_COMPOUND 110632 110637	K2CO3
+T1875	OTHER_COMPOUND 110768 110776	methanol
+T1876	OTHER_COMPOUND 110780 110786	CH2Cl2
+T1877	REACTION_PRODUCT 110801 110815	title compound
+T1878	YIELD_OTHER 110817 110822	4.2 g
+T1879	YIELD_PERCENT 110824 110827	30%
+T1880	YIELD_PERCENT 110832 110833	3
+T1881	EXAMPLE_LABEL 110864 110865	7
+T1882	REACTION_PRODUCT 110880 110977	1-oxo-2,2′,3,3′,5′,6′-hexahydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-pyran]-8-carboxylic acid
+T1883	STARTING_MATERIAL 110997 111096	ethyl 1-oxo-2,2′,3,3′,5′,6′-hexahydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-pyran]-8-carboxylate
+T1884	SOLVENT 111119 111126	ethanol
+T1885	REAGENT_CATALYST 111145 111149	NaOH
+T1886	SOLVENT 111174 111179	water
+T1887	TEMPERATURE 111223 111229	80° C.
+T1888	TIME 111234 111237	2 h
+T1889	OTHER_COMPOUND 111239 111250	Acetic acid
+T1890	OTHER_COMPOUND 111263 111268	water
+T1891	OTHER_COMPOUND 111352 111357	water
+T1892	REACTION_PRODUCT 111382 111396	title compound
+T1893	YIELD_OTHER 111398 111404	2.42 g
+T1894	YIELD_PERCENT 111406 111409	64%
+T1895	EXAMPLE_LABEL 111442 111443	V
+T1896	REACTION_PRODUCT 111445 111553	1′-(tert-butoxycarbonyl)-1-oxo-2,3-dihydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-8-carboxylic
+T1897	EXAMPLE_LABEL 111564 111565	1
+T1898	STARTING_MATERIAL 111580 111648	tert-butyl 4-cyanopiperidine-1-carboxylate Di-tert-butyl dicarbonate
+T1899	STARTING_MATERIAL 111706 111731	piperidine-4-carbonitrile
+T1900	SOLVENT 111753 111759	CH2Cl2
+T1901	TEMPERATURE 111772 111776	0° C
+T1902	TEMPERATURE 111812 111828	room temperature
+T1903	TIME 111845 111848	1 h
+T1904	OTHER_COMPOUND 111895 111903	n-hexane
+T1905	TEMPERATURE 111942 111946	0° C
+T1906	TIME 111952 111955	1 h
+T1907	REACTION_PRODUCT 112028 112042	title compound
+T1908	YIELD_OTHER 112044 112048	14 g
+T1909	YIELD_PERCENT 112050 112055	73.6%
+T1910	EXAMPLE_LABEL 112080 112081	2
+T1911	REACTION_PRODUCT 112096 112160	tert-butyl 4-[(benzyloxy)methyl]-4-cyanopiperidine-1-carboxylate
+T1912	STARTING_MATERIAL 112178 112220	tert-butyl 4-cyanopiperidine-1-carboxylate
+T1913	SOLVENT 112239 112242	THF
+T1914	TEMPERATURE 112261 112265	0° C
+T1915	REAGENT_CATALYST 112282 112287	KHMDS
+T1916	SOLVENT 112310 112317	toluene
+T1917	TEMPERATURE 112362 112378	room temperature
+T1918	TIME 112395 112398	1 h
+T1919	STARTING_MATERIAL 112400 112427	Chloromethoxymethyl-benzene
+T1920	TIME 112505 112508	1 h
+T1921	TEMPERATURE 112512 112528	room temperature
+T1922	OTHER_COMPOUND 112530 112535	Water
+T1923	OTHER_COMPOUND 112540 112553	ethyl acetate
+T1924	OTHER_COMPOUND 112618 112631	ethyl acetate
+T1925	OTHER_COMPOUND 112688 112693	brine
+T1926	OTHER_COMPOUND 112702 112708	Na2SO4
+T1927	REACTION_PRODUCT 112741 112755	title compound
+T1928	YIELD_OTHER 112757 112760	3 g
+T1929	YIELD_PERCENT 112762 112767	48.3%
+T1930	EXAMPLE_LABEL 112800 112801	3
+T1931	REACTION_PRODUCT 112816 112888	tert-butyl 4-(aminomethyl)-4-[(benzyloxy)methyl]piperidine-1-carboxylate
+T1932	REAGENT_CATALYST 112904 112916	Raney nickel
+T1933	SOLVENT 112935 112943	methanol
+T1934	STARTING_MATERIAL 112954 113018	tert-butyl 4-[(benzyloxy)methyl]-4-cyanopiperidine-1-carboxylate
+T1935	REAGENT_CATALYST 113041 113049	methanol
+T1936	REAGENT_CATALYST 113050 113053	NH3
+T1937	TEMPERATURE 113097 113113	room temperature
+T1938	OTHER_COMPOUND 113130 113132	H2
+T1939	TIME 113137 113141	16 h
+T1940	OTHER_COMPOUND 113198 113204	Celite
+T1941	REACTION_PRODUCT 113252 113266	title compound
+T1942	YIELD_OTHER 113268 113271	8 g
+T1943	YIELD_PERCENT 113273 113276	79%
+T1944	EXAMPLE_LABEL 113306 113307	4
+T1945	STARTING_MATERIAL 113322 113443	tert-butyl 4-[(benzyloxy)methyl]-4-{[(tert-butoxycarbonyl)amino]methyl}piperidine-1-carboxylate Di-tert-butyl dicarbonate
+T1946	STARTING_MATERIAL 113500 113572	tert-butyl 4-(aminomethyl)-4-[(benzyloxy)methyl]piperidine-1-carboxylate
+T1947	SOLVENT 113593 113599	CH2Cl2
+T1948	TEMPERATURE 113612 113616	0° C
+T1949	TEMPERATURE 113652 113668	room temperature
+T1950	TIME 113685 113688	1 h
+T1951	OTHER_COMPOUND 113787 113792	EtOAc
+T1952	OTHER_COMPOUND 113793 113808	petroleum ether
+T1953	REACTION_PRODUCT 113823 113837	title compound
+T1954	YIELD_OTHER 113839 113842	3 g
+T1955	YIELD_PERCENT 113844 113847	65%
+T1956	EXAMPLE_LABEL 113872 113873	5
+T1957	REACTION_PRODUCT 113888 113979	tert-butyl 4-{[(tert-butoxycarbonyl)amino]methyl}-4-(hydroxymethyl)piperidine-1-carboxylate
+T1958	REAGENT_CATALYST 113999 114018	palladium on carbon
+T1959	SOLVENT 114042 114050	methanol
+T1960	STARTING_MATERIAL 114060 114161	tert-butyl butyl 4-[(benzyloxy)methyl]-4-{[(tert-butoxycarbonyl)amino]methyl}piperidine-1-carboxylate
+T1961	TEMPERATURE 114215 114231	room temperature
+T1962	OTHER_COMPOUND 114248 114250	H2
+T1963	TIME 114255 114259	16 h
+T1964	OTHER_COMPOUND 114316 114322	Celite
+T1965	REACTION_PRODUCT 114370 114384	title compound
+T1966	YIELD_OTHER 114386 114389	4 g
+T1967	YIELD_PERCENT 114391 114394	73%
+T1968	EXAMPLE_LABEL 114419 114420	6
+T1969	REACTION_PRODUCT 114435 114559	diethyl 1-{[1-(tert-butoxycarbonyl)-4-{[(tert-butoxycarbonyl)amino]methyl}piperidin-4-yl]methyl}-1H-indole-2,6-dicarboxylate
+T1970	REAGENT_CATALYST 114574 114592	triphenylphosphine
+T1971	STARTING_MATERIAL 114617 114621	DIAD
+T1972	SOLVENT 114647 114650	THF
+T1973	TEMPERATURE 114673 114677	0° C
+T1974	TIME 114695 114701	10 min
+T1975	STARTING_MATERIAL 114703 114738	Diethyl 1H-indole-2,6-dicarboxylate
+T1976	TIME 114813 114819	10 min
+T1977	STARTING_MATERIAL 114821 114912	tert-Butyl 4-{[(tert-butoxycarbonyl)amino]methyl}-4-(hydroxymethyl)piperidine-1-carboxylate
+T1978	TIME 114980 114984	48 h
+T1979	TEMPERATURE 114988 115004	room temperature
+T1980	OTHER_COMPOUND 115041 115046	water
+T1981	OTHER_COMPOUND 115051 115064	ethyl acetate
+T1982	OTHER_COMPOUND 115138 115151	ethyl acetate
+T1983	OTHER_COMPOUND 115203 115209	Na2SO4
+T1984	OTHER_COMPOUND 115295 115300	EtOAc
+T1985	OTHER_COMPOUND 115304 115319	petroleum ether
+T1986	REACTION_PRODUCT 115334 115348	title compound
+T1987	YIELD_OTHER 115350 115354	17 g
+T1988	YIELD_PERCENT 115356 115359	32%
+T1989	EXAMPLE_LABEL 115387 115388	7
+T1990	STARTING_MATERIAL 115403 115514	ethyl 1-oxo-2,3-dihydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-8-carboxylate Trifluoroacetic acid
+T1991	STARTING_MATERIAL 115574 115698	diethyl 1-{[1-(tert-butoxycarbonyl)-4-{[(tert-butoxycarbonyl)amino]methyl}piperidin-4-yl]methyl}-1H-indole-2,6-dicarboxylate
+T1992	SOLVENT 115720 115726	CH2Cl2
+T1993	TEMPERATURE 115739 115743	0° C
+T1994	TIME 115781 115784	3 h
+T1995	TEMPERATURE 115788 115804	room temperature
+T1996	OTHER_COMPOUND 115831 115838	aqueous
+T1997	OTHER_COMPOUND 115839 115844	K2CO3
+T1998	OTHER_COMPOUND 115923 115929	CH2Cl2
+T1999	OTHER_COMPOUND 115987 115992	brine
+T2000	OTHER_COMPOUND 116001 116007	Na2SO4
+T2001	OTHER_COMPOUND 116070 116083	diethyl ether
+T2002	REACTION_PRODUCT 116098 116112	title compound
+T2003	YIELD_OTHER 116114 116117	6 g
+T2004	YIELD_PERCENT 116119 116122	61%
+T2005	EXAMPLE_LABEL 116147 116148	8
+T2006	REACTION_PRODUCT 116163 116278	1′-tert-butyl 8-ethyl 1-oxo-2,3-dihydro-1H,1′H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-1′,8-dicarboxylate
+T2007	STARTING_MATERIAL 116296 116386	ethyl 1-oxo-2,3-dihydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-8-carboxylate
+T2008	SOLVENT 116407 116410	THF
+T2009	TEMPERATURE 116423 116427	0° C
+T2010	REAGENT_CATALYST 116438 116451	triethylamine
+T2011	TIME 116494 116500	10 min
+T2012	REAGENT_CATALYST 116502 116527	di-tert-butyl dicarbonate
+T2013	TEMPERATURE 116591 116607	room temperature
+T2014	TIME 116612 116615	1 h
+T2015	OTHER_COMPOUND 116652 116657	water
+T2016	OTHER_COMPOUND 116662 116675	ethyl acetate
+T2017	OTHER_COMPOUND 116730 116743	ethyl acetate
+T2018	OTHER_COMPOUND 116796 116802	Na2SO4
+T2019	REACTION_PRODUCT 116835 116849	title compound
+T2020	YIELD_OTHER 116851 116854	4 g
+T2021	YIELD_PERCENT 116856 116861	38.8%
+T2022	EXAMPLE_LABEL 116886 116887	9
+T2023	REACTION_PRODUCT 116902 117015	1′-(tert-butoxycarbonyl)-1-oxo-2,3-dihydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-8-carboxylic acid
+T2024	STARTING_MATERIAL 117033 117148	1′-tert-butyl 8-ethyl 1-oxo-2,3-dihydro-1H,1′H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-1′,8-dicarboxylate
+T2025	SOLVENT 117171 117178	ethanol
+T2026	TEMPERATURE 117191 117195	0° C
+T2027	REAGENT_CATALYST 117209 117213	NaOH
+T2028	TEMPERATURE 117275 117291	room temperature
+T2029	TIME 117311 117315	16 h
+T2030	OTHER_COMPOUND 117347 117352	water
+T2031	TEMPERATURE 117405 117409	0° C
+T2032	OTHER_COMPOUND 117434 117445	acetic acid
+T2033	OTHER_COMPOUND 117507 117512	water
+T2034	REACTION_PRODUCT 117537 117551	title compound
+T2035	YIELD_OTHER 117553 117558	3.3 g
+T2036	YIELD_PERCENT 117560 117563	72%
+T2037	EXAMPLE_LABEL 117601 117602	W
+T2038	REACTION_PRODUCT 117604 117686	3-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2039	EXAMPLE_LABEL 117692 117693	1
+T2040	REACTION_PRODUCT 117708 117749	tert-butyl (4-hydroxybutan-2-yl)carbamate
+T2041	STARTING_MATERIAL 117767 117784	3-aminobutan-1-ol
+T2042	STARTING_MATERIAL 117805 117829	4-dimethylamino pyridine
+T2043	REAGENT_CATALYST 117855 117868	triethylamine
+T2044	SOLVENT 117892 117904	acetonitrile
+T2045	STARTING_MATERIAL 117922 117947	di-tert-butyl dicarbonate
+T2046	TIME 118004 118008	40 h
+T2047	TEMPERATURE 118012 118028	room temperature
+T2048	OTHER_COMPOUND 118092 118098	CH2Cl2
+T2049	OTHER_COMPOUND 118113 118119	NaHCO3
+T2050	OTHER_COMPOUND 118151 118157	CH2Cl2
+T2051	OTHER_COMPOUND 118201 118207	Na2SO4
+T2052	OTHER_COMPOUND 118294 118302	methanol
+T2053	OTHER_COMPOUND 118306 118312	CH2Cl2
+T2054	REACTION_PRODUCT 118327 118341	title compound
+T2055	YIELD_OTHER 118343 118349	680 mg
+T2056	YIELD_PERCENT 118351 118354	32%
+T2057	EXAMPLE_LABEL 118362 118363	2
+T2058	REACTION_PRODUCT 118378 118453	diethyl 1-{3-[(tert-butoxycarbonyl)amino]butyl}-1H-indole-2,6-dicarboxylate
+T2059	STARTING_MATERIAL 118469 118504	diethyl 1H-indole-2,6-dicarboxylate
+T2060	STARTING_MATERIAL 118506 118520	Intermediate A
+T2061	REAGENT_CATALYST 118541 118559	triphenylphosphine
+T2062	STARTING_MATERIAL 118583 118624	tert-butyl (4-hydroxybutan-2-yl)carbamate
+T2063	SOLVENT 118647 118653	CH2Cl2
+T2064	TEMPERATURE 118672 118676	0° C
+T2065	REAGENT_CATALYST 118687 118715	diisopropyl azodicarboxylate
+T2066	TEMPERATURE 118771 118787	room temperature
+T2067	TIME 118804 118808	16 h
+T2068	OTHER_COMPOUND 118898 118906	methanol
+T2069	OTHER_COMPOUND 118910 118916	CH2Cl2
+T2070	REACTION_PRODUCT 118942 119017	diethyl 1-{3-[(tert-butoxycarbonyl)amino]butyl}-1H-indole-2,6-dicarboxylate
+T2071	REACTION_PRODUCT 119033 119068	diethyl 1H-indole-2,6-dicarboxylate
+T2072	YIELD_OTHER 119070 119076	604 mg
+T2073	EXAMPLE_LABEL 119151 119152	3
+T2074	REACTION_PRODUCT 119167 119251	ethyl 3-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T2075	STARTING_MATERIAL 119268 119343	diethyl 1-{3-[(tert-butoxycarbonyl)amino]butyl}-1H-indole-2,6-dicarboxylate
+T2076	STARTING_MATERIAL 119348 119383	diethyl 1H-indole-2,6-dicarboxylate
+T2077	SOLVENT 119396 119402	CH2Cl2
+T2078	REAGENT_CATALYST 119420 119423	TFA
+T2079	TIME 119468 119471	2 h
+T2080	TEMPERATURE 119475 119491	room temperature
+T2081	SOLVENT 119583 119590	ethanol
+T2082	REAGENT_CATALYST 119608 119613	K2CO3
+T2083	REAGENT_CATALYST 119637 119650	triethylamine
+T2084	TEMPERATURE 119707 119712	80° C
+T2085	TIME 119718 119722	36 h
+T2086	OTHER_COMPOUND 119752 119757	water
+T2087	OTHER_COMPOUND 119788 119793	EtOAc
+T2088	OTHER_COMPOUND 119825 119831	Na2SO4
+T2089	OTHER_COMPOUND 119915 119920	EtOAc
+T2090	OTHER_COMPOUND 119924 119931	heptane
+T2091	REACTION_PRODUCT 119946 119960	title compound
+T2092	YIELD_OTHER 119962 119968	120 mg
+T2093	YIELD_PERCENT 119970 119973	15%
+T2094	EXAMPLE_LABEL 119993 119994	4
+T2095	REACTION_PRODUCT 120009 120091	3-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2096	STARTING_MATERIAL 120109 120193	ethyl 3-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylate
+T2097	SOLVENT 120217 120224	ethanol
+T2098	REAGENT_CATALYST 120245 120249	NaOH
+T2099	TEMPERATURE 120313 120318	80° C
+T2100	TIME 120324 120327	2 h
+T2101	OTHER_COMPOUND 120329 120340	Acetic acid
+T2102	OTHER_COMPOUND 120355 120360	water
+T2103	REACTION_PRODUCT 120470 120484	title compound
+T2104	YIELD_OTHER 120486 120491	63 mg
+T2105	YIELD_PERCENT 120493 120496	58%
+T2106	EXAMPLE_LABEL 120512 120513	X
+T2107	REACTION_PRODUCT 120515 120601	3,3-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2108	REACTION_PRODUCT 120623 120673	tert-butyl (4-hydroxy-2-methylbutan-2-yl)carbamate
+T2109	STARTING_MATERIAL 120691 120717	3-amino-3-methylbutan-1-ol
+T2110	SOLVENT 120739 120744	EtOAc
+T2111	STARTING_MATERIAL 120761 120786	di-tert-butyl dicarbonate
+T2112	TIME 120833 120837	16 h
+T2113	REACTION_PRODUCT 120888 120902	title compound
+T2114	EXAMPLE_LABEL 120961 120962	2
+T2115	REACTION_PRODUCT 120977 121061	diethyl 1-{3-[(tert-butoxycarbonyl)amino]-3-methylbutyl}-1H-indole-2,6-dicarboxylate
+T2116	STARTING_MATERIAL 121079 121114	diethyl 1H-indole-2,6-dicarboxylate
+T2117	STARTING_MATERIAL 121116 121130	Intermediate A
+T2118	STARTING_MATERIAL 121158 121208	tert-butyl (4-hydroxy-2-methylbutan-2-yl)carbamate
+T2119	REAGENT_CATALYST 121233 121250	triphenylphospine
+T2120	SOLVENT 121274 121277	THF
+T2121	REAGENT_CATALYST 121296 121324	diisopropyl azodicarboxylate
+T2122	TIME 121374 121378	16 h
+T2123	TEMPERATURE 121382 121398	room temperature
+T2124	REACTION_PRODUCT 121508 121592	diethyl 1-{3-[(tert-butoxycarbonyl)amino]-3-methylbutyl}-1H-indole-2,6-dicarboxylate
+T2125	REACTION_PRODUCT 121597 121632	diethyl 1H-indole-2,6-dicarboxylate
+T2126	YIELD_OTHER 121634 121640	131 mg
+T2127	EXAMPLE_LABEL 121700 121701	3
+T2128	REACTION_PRODUCT 121716 121773	1-(3-amino-3-methylbutyl)-1H-indole-2,6-dicarboxylic acid
+T2129	STARTING_MATERIAL 121802 121887	diethyl 1-{3-[(tert-butoxycarbonyl)amino-]-3-methylbutyl}-1H-indole-2,6-dicarboxylate
+T2130	SOLVENT 121915 121921	CH2Cl2
+T2131	REAGENT_CATALYST 121938 121941	TFA
+T2132	TEMPERATURE 121978 121994	room temperature
+T2133	TIME 121999 122002	2 h
+T2134	SOLVENT 122094 122101	ethanol
+T2135	REAGENT_CATALYST 122119 122132	triethylamine
+T2136	REAGENT_CATALYST 122158 122163	K2CO3
+T2137	TEMPERATURE 122210 122216	80° C.
+T2138	TIME 122221 122224	2 h
+T2139	TEMPERATURE 122232 122238	100° C
+T2140	TIME 122244 122248	64 h
+T2141	OTHER_COMPOUND 122250 122255	Water
+T2142	OTHER_COMPOUND 122268 122279	acetic acid
+T2143	OTHER_COMPOUND 122331 122336	EtOAc
+T2144	OTHER_COMPOUND 122368 122374	Na2SO2
+T2145	REACTION_PRODUCT 122407 122421	title compound
+T2146	EXAMPLE_LABEL 122480 122481	4
+T2147	REACTION_PRODUCT 122496 122582	3,3-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2148	STARTING_MATERIAL 122610 122667	1-(3-Amino-3-methylbutyl)-1H-indole-2,6-dicarboxylic acid
+T2149	SOLVENT 122695 122698	THF
+T2150	STARTING_MATERIAL 122717 122741	1,1′-carbonyldiimidazole
+T2151	REAGENT_CATALYST 122774 122809	1,8-diazabicyclo[5.4.0] undec-7-ene
+T2152	TEMPERATURE 122858 122874	room temperature
+T2153	TIME 122879 122882	2 h
+T2154	OTHER_COMPOUND 122884 122895	Acetic acid
+T2155	OTHER_COMPOUND 122909 122914	water
+T2156	OTHER_COMPOUND 122967 122972	EtOAc
+T2157	OTHER_COMPOUND 123004 123010	Na2SO4
+T2158	OTHER_COMPOUND 123102 123110	methanol
+T2159	OTHER_COMPOUND 123114 123120	CH2Cl2
+T2160	REACTION_PRODUCT 123135 123149	title compound
+T2161	YIELD_OTHER 123151 123156	17 mg
+T2162	YIELD_PERCENT 123158 123161	16%
+T2163	EXAMPLE_LABEL 123193 123194	Y
+T2164	REACTION_PRODUCT 123196 123223	5-phenyl-1,2-oxazol-3-amine
+T2165	EXAMPLE_LABEL 123229 123230	1
+T2166	STARTING_MATERIAL 123245 123285	(2-phenyl-1,3-dioxolan-2-yl)acetonitrile
+T2167	STARTING_MATERIAL 123303 123331	3-oxo-3-phenylpropanenitrile
+T2168	REAGENT_CATALYST 123354 123358	PTSA
+T2169	SOLVENT 123383 123390	toluene
+T2170	REAGENT_CATALYST 123409 123424	ethylene glycol
+T2171	TEMPERATURE 123471 123477	150° C
+T2172	TIME 123483 123487	14 h
+T2173	OTHER_COMPOUND 123573 123577	NaOH
+T2174	OTHER_COMPOUND 123624 123637	diethyl ether
+T2175	OTHER_COMPOUND 123692 123698	Na2SO4
+T2176	OTHER_COMPOUND 123782 123797	neutral alumina
+T2177	OTHER_COMPOUND 123817 123830	ethyl acetate
+T2178	OTHER_COMPOUND 123831 123837	hexane
+T2179	REACTION_PRODUCT 123852 123866	title compound
+T2180	YIELD_OTHER 123890 123894	10 g
+T2181	YIELD_PERCENT 123896 123899	77%
+T2182	EXAMPLE_LABEL 123907 123908	2
+T2183	STARTING_MATERIAL 123923 123994	N-hydroxy-2-(2-phenyl-1,3-dioxolan-2-yl)ethanimidamide Sodium hydroxide
+T2184	REAGENT_CATALYST 124024 124051	hydroxylamine hydrochloride
+T2185	TEMPERATURE 124072 124076	0° C
+T2186	TIME 124097 124103	15 min
+T2187	STARTING_MATERIAL 124119 124159	(2-phenyl-1,3-dioxolan-2-yl)acetonitrile
+T2188	SOLVENT 124178 124186	methanol
+T2189	TEMPERATURE 124240 124244	0° C
+T2190	TEMPERATURE 124289 124305	room temperature
+T2191	TEMPERATURE 124323 124328	90° C
+T2192	TIME 124334 124338	16 h
+T2193	REACTION_PRODUCT 124404 124418	title compound
+T2194	YIELD_OTHER 124437 124440	7 g
+T2195	YIELD_PERCENT 124442 124445	85%
+T2196	EXAMPLE_LABEL 124505 124506	3
+T2197	STARTING_MATERIAL 124521 124556	5-phenyl-1,2-oxazol-3-amine Ethanol
+T2198	SOLVENT 124570 124575	water
+T2199	STARTING_MATERIAL 124597 124651	N-hydroxy-2-(2-phenyl-1,3-dioxolan-2-yl)ethanimidamide
+T2200	OTHER_COMPOUND 124716 124719	HCl
+T2201	TEMPERATURE 124758 124764	90° C.
+T2202	TIME 124769 124772	2 h
+T2203	OTHER_COMPOUND 124858 124867	phosphate
+T2204	OTHER_COMPOUND 124906 124919	ethyl acetate
+T2205	OTHER_COMPOUND 124963 124969	Na2SO4
+T2206	OTHER_COMPOUND 125041 125048	alumina
+T2207	OTHER_COMPOUND 125066 125079	ethyl acetate
+T2208	OTHER_COMPOUND 125080 125086	hexane
+T2209	REACTION_PRODUCT 125101 125115	title compound
+T2210	YIELD_OTHER 125139 125144	1.7 g
+T2211	YIELD_PERCENT 125146 125149	34%
+T2212	OTHER_COMPOUND 125166 125170	Z-AD
+T2213	OTHER_COMPOUND 125394 125407	1,2-oxazol-3-
+T2214	OTHER_COMPOUND 125417 125445	5-cyclopropyl- 1,2-oxazol-3-
+T2215	OTHER_COMPOUND 125452 125454	AC
+T2216	OTHER_COMPOUND 125455 125480	5-(4-fluoro- phenyl)-1,2-
+T2217	OTHER_COMPOUND 125544 125585	1-(pyridin-4-ylmethyl)-1H-pyrazol-4-amine
+T2218	REACTION_PRODUCT 125607 125650	4-[(4-nitro-1H-pyrazol-1-yl)methyl]pyridine
+T2219	STARTING_MATERIAL 125676 125695	4-nitro-1H-pyrazole
+T2220	STARTING_MATERIAL 125717 125736	pyridine-4-methanol
+T2221	REAGENT_CATALYST 125763 125781	triphenylphosphine
+T2222	SOLVENT 125805 125808	THF
+T2223	OTHER_COMPOUND 125823 125831	nitrogen
+T2224	REAGENT_CATALYST 125841 125868	di-t-butyl azodicarboxylate
+T2225	TIME 125894 125899	3 min
+T2226	TIME 125938 125942	16 h
+T2227	TEMPERATURE 125946 125962	room temperature
+T2228	OTHER_COMPOUND 126064 126072	methanol
+T2229	OTHER_COMPOUND 126076 126082	CH2Cl2
+T2230	REACTION_PRODUCT 126097 126111	title compound
+T2231	YIELD_OTHER 126129 126135	247 mg
+T2232	YIELD_PERCENT 126137 126140	65%
+T2233	EXAMPLE_LABEL 126148 126149	2
+T2234	STARTING_MATERIAL 126164 126205	1-(pyridin-4-ylmethyl)-1H-pyrazol-4-amine
+T2235	STARTING_MATERIAL 126220 126263	4-[(4-nitro-1H-pyrazol-1-yl)methyl]pyridine
+T2236	SOLVENT 126287 126295	methanol
+T2237	REAGENT_CATALYST 126325 126348	10% palladium on carbon
+T2238	TIME 126384 126387	3 h
+T2239	OTHER_COMPOUND 126421 126427	Celite
+T2240	OTHER_COMPOUND 126543 126551	methanol
+T2241	OTHER_COMPOUND 126555 126561	CH2Cl2
+T2242	REACTION_PRODUCT 126576 126590	title compound
+T2243	YIELD_OTHER 126607 126613	198 mg
+T2244	YIELD_PERCENT 126615 126618	94%
+T2245	OTHER_COMPOUND 126635 126640	AF-AQ
+T2246	REACTION_PRODUCT 126817 126846	1-(tetrahydro-2H-pyran-4-yl)-
+T2247	REACTION_PRODUCT 126869 126913	1-(tetrahydrofuran-3-yl)-1H- pyrazol-4-amine
+T2248	OTHER_COMPOUND 126961 126983	1-(2-methylbenzyl)-1H-
+T2249	OTHER_COMPOUND 127000 127002	AJ
+T2250	OTHER_COMPOUND 127003 127032	1-(3-methylbutyl)-1H-pyrazol-
+T2251	OTHER_COMPOUND 127041 127043	AK
+T2252	OTHER_COMPOUND 127044 127072	1-[3-(dimethylamino)propyl]-
+T2253	OTHER_COMPOUND 127095 127123	1-[2-(morpholin-4-yl)ethyl]-
+T2254	OTHER_COMPOUND 127124 127142	1H-pyrazol-4-amine
+T2255	OTHER_COMPOUND 127146 127176	1-(2-methoxyethyl)-1H-pyrazol-
+T2256	OTHER_COMPOUND 127188 127217	1-(2-phenylethyl)-1H-pyrazol-
+T2257	OTHER_COMPOUND 127229 127255	1-(3,5-dimethylbenzyl)-1H-
+T2258	REACTION_PRODUCT 127275 127321	1-[2-(dimethylamino)ethyl]-1H- pyrazol-4-amine
+T2259	OTHER_COMPOUND 127325 127356	1-[3-(dimethylamino)benzyl]-1H-
+T2260	OTHER_COMPOUND 127390 127432	1-methyl-1H-pyrazolo[3,4-b]pyridin-5-amine
+T2261	STARTING_MATERIAL 127454 127497	1-methyl-5-nitro-1H-pyrazolo[3,4-b]pyridine
+T2262	STARTING_MATERIAL 127515 127542	1-methyl-1H-pyrazol-5-amine
+T2263	REAGENT_CATALYST 127566 127577	acetic acid
+T2264	REAGENT_CATALYST 127594 127624	nitromalonaldehyde sodium salt
+T2265	TEMPERATURE 127679 127685	108° C
+T2266	TIME 127691 127694	1 h
+T2267	TEMPERATURE 127739 127755	room temperature
+T2268	TIME 127775 127779	16 h
+T2269	OTHER_COMPOUND 127916 127929	ethyl acetate
+T2270	OTHER_COMPOUND 127933 127940	heptane
+T2271	REACTION_PRODUCT 127955 127969	title compound
+T2272	YIELD_OTHER 127982 127988	100 mg
+T2273	YIELD_PERCENT 127990 127993	19%
+T2274	EXAMPLE_LABEL 128001 128002	2
+T2275	REACTION_PRODUCT 128017 128059	1-methyl-1H-pyrazolo[3,4-b]pyridin-5-amine
+T2276	STARTING_MATERIAL 128077 128120	1-methyl-5-nitro-1H-pyrazolo[3,4-b]pyridine
+T2277	SOLVENT 128143 128149	CH2Cl2
+T2278	REAGENT_CATALYST 128166 128170	zinc
+T2279	REAGENT_CATALYST 128195 128206	acetic acid
+T2280	TEMPERATURE 128242 128247	45° C
+T2281	TIME 128253 128256	5 h
+T2282	OTHER_COMPOUND 128262 128266	zinc
+T2283	OTHER_COMPOUND 128429 128437	methanol
+T2284	OTHER_COMPOUND 128441 128447	CH2Cl2
+T2285	OTHER_COMPOUND 128452 128455	HCl
+T2286	OTHER_COMPOUND 128459 128464	ether
+T2287	REACTION_PRODUCT 128503 128517	title compound
+T2288	REACTION_PRODUCT 128525 128543	hydrochloride salt
+T2289	YIELD_OTHER 128545 128550	43 mg
+T2290	YIELD_PERCENT 128552 128555	46%
+T2291	EXAMPLE_LABEL 128571 128573	AS
+T2292	REACTION_PRODUCT 128575 128615	3-ethyl-3H-imidazo[4,5-b]pyridin-2-amine
+T2293	STARTING_MATERIAL 128637 128674	6-chloro-N2-ethylpyridine-2,3-diamine
+T2294	STARTING_MATERIAL 128692 128731	6-chloro-N-ethyl-3-nitropyridin-2-amine
+T2295	SOLVENT 128755 128762	ethanol
+T2296	REAGENT_CATALYST 128780 128784	iron
+T2297	REAGENT_CATALYST 128838 128855	ammonium chloride
+T2298	SOLVENT 128879 128884	water
+T2299	TEMPERATURE 128941 128947	140° C
+T2300	TIME 128953 128959	30 min
+T2301	OTHER_COMPOUND 128989 128994	EtOAc
+T2302	REACTION_PRODUCT 129034 129048	title compound
+T2303	YIELD_OTHER 129065 129071	1.55 g
+T2304	YIELD_PERCENT 129073 129077	100%
+T2305	EXAMPLE_LABEL 129138 129139	2
+T2306	REACTION_PRODUCT 129154 129203	5-chloro-3-ethyl-3H-imidazo[4,5-b]pyridin-2-amine
+T2307	STARTING_MATERIAL 129221 129258	6-chloro-N2-ethylpyridine-2,3-diamine
+T2308	SOLVENT 129282 129289	ethanol
+T2309	REAGENT_CATALYST 129324 129340	cyanogen bromide
+T2310	REAGENT_CATALYST 129344 129347	DCM
+T2311	TIME 129397 129400	6 h
+T2312	TEMPERATURE 129404 129420	room temperature
+T2313	OTHER_COMPOUND 129452 129459	ammonia
+T2314	OTHER_COMPOUND 129463 129471	methanol
+T2315	OTHER_COMPOUND 129570 129578	methanol
+T2316	OTHER_COMPOUND 129582 129588	CH2Cl2
+T2317	OTHER_COMPOUND 129603 129608	NH4OH
+T2318	REACTION_PRODUCT 129623 129637	title compound
+T2319	YIELD_OTHER 129639 129645	212 mg
+T2320	YIELD_PERCENT 129647 129650	46%
+T2321	EXAMPLE_LABEL 129658 129659	3
+T2322	STARTING_MATERIAL 129674 129731	3-ethyl-3H-imidazo[4,5-b]pyridin-2-amine Ammonium formate
+T2323	STARTING_MATERIAL 129778 129827	5-chloro-3-ethyl-3H-imidazo[4,5-b]pyridin-2-amine
+T2324	SOLVENT 129851 129858	ethanol
+T2325	REAGENT_CATALYST 129882 129901	palladium on carbon
+T2326	TIME 129938 129942	16 h
+T2327	OTHER_COMPOUND 130054 130062	methanol
+T2328	OTHER_COMPOUND 130066 130072	CH2Cl2
+T2329	REACTION_PRODUCT 130087 130101	title compound
+T2330	YIELD_OTHER 130103 130109	192 mg
+T2331	YIELD_PERCENT 130111 130114	57%
+T2332	EXAMPLE_LABEL 130130 130132	AT
+T2333	REACTION_PRODUCT 130134 130171	1-methyl-5-phenyl-1H-imidazol-2-amine
+T2334	EXAMPLE_LABEL 130177 130178	1
+T2335	REACTION_PRODUCT 130193 130218	N-methylpyrimidin-2-amine
+T2336	STARTING_MATERIAL 130236 130254	2-chloropyrimidine
+T2337	SOLVENT 130274 130282	methanol
+T2338	REAGENT_CATALYST 130317 130328	methylamine
+T2339	SOLVENT 130353 130361	methanol
+T2340	REAGENT_CATALYST 130375 130380	K2CO3
+T2341	TEMPERATURE 130442 130448	80° C.
+T2342	TEMPERATURE 130491 130507	room temperature
+T2343	OTHER_COMPOUND 130581 130586	water
+T2344	OTHER_COMPOUND 130591 130597	CH2Cl2
+T2345	OTHER_COMPOUND 130627 130633	Na2SO4
+T2346	REACTION_PRODUCT 130666 130680	title compound
+T2347	YIELD_OTHER 130682 130688	290 mg
+T2348	YIELD_PERCENT 130690 130693	30%
+T2349	EXAMPLE_LABEL 130716 130717	2
+T2350	REACTION_PRODUCT 130732 130769	1-methyl-5-phenyl-1H-imidazol-2-amine
+T2351	STARTING_MATERIAL 130815 130840	N-methylpyrimidin-2-amine
+T2352	SOLVENT 130863 130875	acetonitrile
+T2353	STARTING_MATERIAL 130892 130916	2-bromo-1-phenylethanone
+T2354	TEMPERATURE 130993 131000	130° C.
+T2355	TIME 131005 131015	20 minutes
+T2356	TEMPERATURE 131033 131049	room temperature
+T2357	REAGENT_CATALYST 131079 131096	hydrazine hydrate
+T2358	TEMPERATURE 131163 131169	100° C
+T2359	TIME 131175 131184	5 minutes
+T2360	OTHER_COMPOUND 131214 131219	water
+T2361	REACTION_PRODUCT 131255 131269	title compound
+T2362	YIELD_OTHER 131271 131277	192 mg
+T2363	YIELD_PERCENT 131279 131282	42%
+T2364	EXAMPLE_LABEL 131309 131311	AU
+T2365	OTHER_COMPOUND 131313 131341	1-methyl-1H-imidazol-2-amine
+T2366	EXAMPLE_LABEL 131347 131348	1
+T2367	REACTION_PRODUCT 131363 131392	1-methyl-2-nitro-1H-imidazole
+T2368	STARTING_MATERIAL 131410 131430	2-nitro-1H-imidazole
+T2369	SOLVENT 131453 131456	DMF
+T2370	REAGENT_CATALYST 131474 131490	cesium carbonate
+T2371	TEMPERATURE 131538 131543	50° C
+T2372	TIME 131549 131559	30 minutes
+T2373	TEMPERATURE 131599 131615	room temperature
+T2374	REAGENT_CATALYST 131620 131623	MeI
+T2375	TEMPERATURE 131680 131686	50° C.
+T2376	TIME 131691 131698	2 hours
+T2377	TEMPERATURE 131717 131733	room temperature
+T2378	OTHER_COMPOUND 131764 131770	Celite
+T2379	OTHER_COMPOUND 131804 131809	water
+T2380	OTHER_COMPOUND 131824 131837	ethyl acetate
+T2381	OTHER_COMPOUND 131872 131877	water
+T2382	OTHER_COMPOUND 131879 131884	brine
+T2383	OTHER_COMPOUND 131893 131899	Na2SO4
+T2384	REACTION_PRODUCT 131932 131946	title compound
+T2385	YIELD_OTHER 131948 131954	485 mg
+T2386	YIELD_PERCENT 131956 131959	86%
+T2387	EXAMPLE_LABEL 131985 131986	2
+T2388	STARTING_MATERIAL 132001 132029	1-methyl-1H-imidazol-2-amine
+T2389	STARTING_MATERIAL 132047 132076	1-methyl-2-nitro-1H-imidazole
+T2390	SOLVENT 132099 132106	ethanol
+T2391	OTHER_COMPOUND 132123 132131	nitrogen
+T2392	REAGENT_CATALYST 132160 132179	palladium on carbon
+T2393	REAGENT_CATALYST 132214 132230	ammonium formate
+T2394	TIME 132277 132281	16 h
+T2395	OTHER_COMPOUND 132337 132343	Celite
+T2396	OTHER_COMPOUND 132387 132394	ethanol
+T2397	OTHER_COMPOUND 132472 132477	water
+T2398	OTHER_COMPOUND 132482 132495	ethyl acetate
+T2399	OTHER_COMPOUND 132525 132531	Na2SO4
+T2400	OTHER_COMPOUND 132619 132629	silica gel
+T2401	OTHER_COMPOUND 132639 132647	methanol
+T2402	OTHER_COMPOUND 132651 132657	CH2Cl2
+T2403	REACTION_PRODUCT 132672 132686	title compound
+T2404	YIELD_OTHER 132688 132694	552 mg
+T2405	YIELD_PERCENT 132696 132699	80%
+T2406	EXAMPLE_LABEL 132725 132727	AV
+T2407	OTHER_COMPOUND 132729 132760	5-tert-butyl-1,3-oxazol-2-amine
+T2408	REACTION_PRODUCT 132782 132813	1-azido-3,3-dimethylbutan-2-one
+T2409	STARTING_MATERIAL 132831 132862	1-bromo-3,3-dimethylbutan-2-one
+T2410	SOLVENT 132883 132890	acetone
+T2411	REAGENT_CATALYST 132909 132913	NaN3
+T2412	TEMPERATURE 132934 132938	0° C
+T2413	TEMPERATURE 132974 132990	room temperature
+T2414	TIME 132995 132998	7 h
+T2415	OTHER_COMPOUND 133095 133100	EtOAc
+T2416	OTHER_COMPOUND 133117 133122	water
+T2417	OTHER_COMPOUND 133127 133132	brine
+T2418	OTHER_COMPOUND 133162 133168	Na2SO4
+T2419	REACTION_PRODUCT 133201 133221	title crude compound
+T2420	EXAMPLE_LABEL 133280 133281	2
+T2421	REACTION_PRODUCT 133296 133327	1-amino-3,3-dimethylbutan-2-one
+T2422	STARTING_MATERIAL 133355 133386	1-azido-3,3-dimethylbutan-2-one
+T2423	SOLVENT 133414 133422	methanol
+T2424	REAGENT_CATALYST 133441 133457	concentrated HCl
+T2425	REAGENT_CATALYST 133473 133492	palladium on carbon
+T2426	TEMPERATURE 133547 133563	room temperature
+T2427	OTHER_COMPOUND 133578 133586	hydrogen
+T2428	TIME 133602 133606	14 h
+T2429	OTHER_COMPOUND 133649 133655	Celite
+T2430	OTHER_COMPOUND 133724 133737	diethyl ether
+T2431	REACTION_PRODUCT 133752 133766	title compound
+T2432	YIELD_OTHER 133768 133774	35.8 g
+T2433	YIELD_PERCENT 133776 133779	85%
+T2434	EXAMPLE_LABEL 133825 133826	3
+T2435	REACTION_PRODUCT 133841 133890	ethyl[(3,3-dimethyl-2-oxobutyl)amino](oxo)acetate
+T2436	STARTING_MATERIAL 133907 133957	1-amino-3,3-dimethylbutan-2-one hydrochloride salt
+T2437	SOLVENT 133978 133984	CH2Cl2
+T2438	TEMPERATURE 133997 134001	0° C
+T2439	REAGENT_CATALYST 134013 134038	N,N-diisopropylethylamine
+T2440	STARTING_MATERIAL 134060 134084	ethyl chloro(oxo)acetate
+T2441	TIME 134128 134134	15 min
+T2442	TEMPERATURE 134171 134187	room temperature
+T2443	TIME 134192 134195	2 h
+T2444	OTHER_COMPOUND 134220 134226	Celite
+T2445	REACTION_PRODUCT 134271 134285	title compound
+T2446	YIELD_OTHER 134287 134291	40 g
+T2447	YIELD_PERCENT 134293 134296	81%
+T2448	EXAMPLE_LABEL 134304 134305	4
+T2449	REACTION_PRODUCT 134320 134364	ethyl 5-tert-butyl-1,3-oxazole-2-carboxylate
+T2450	STARTING_MATERIAL 134381 134430	ethyl[(3,3-dimethyl-2-oxobutyl)amino](oxo)acetate
+T2451	SOLVENT 134451 134458	toluene
+T2452	REAGENT_CATALYST 134477 134500	phosphorous oxychloride
+T2453	TEMPERATURE 134553 134559	120° C
+T2454	TIME 134565 134569	14 h
+T2455	OTHER_COMPOUND 134631 134636	ether
+T2456	OTHER_COMPOUND 134679 134686	aqueous
+T2457	OTHER_COMPOUND 134687 134693	NaHCO3
+T2458	OTHER_COMPOUND 134704 134709	brine
+T2459	OTHER_COMPOUND 134718 134724	Na2SO4
+T2460	REACTION_PRODUCT 134757 134771	title compound
+T2461	YIELD_OTHER 134773 134777	28 g
+T2462	YIELD_PERCENT 134779 134782	87%
+T2463	EXAMPLE_LABEL 134790 134791	5
+T2464	REACTION_PRODUCT 134806 134847	5-tert-butyl-1,3-oxazole-2-carbohydrazide
+T2465	STARTING_MATERIAL 134864 134908	ethyl 5-tert-butyl-1,3-oxazole-2-carboxylate
+T2466	SOLVENT 134929 134936	ethanol
+T2467	REAGENT_CATALYST 134955 134972	hydrazine hydrate
+T2468	TEMPERATURE 135026 135032	85° C.
+T2469	TIME 135037 135040	3 h
+T2470	OTHER_COMPOUND 135099 135108	n-pentane
+T2471	REACTION_PRODUCT 135123 135137	title compound
+T2472	YIELD_OTHER 135139 135143	25 g
+T2473	YIELD_PERCENT 135145 135148	96%
+T2474	EXAMPLE_LABEL 135173 135174	6
+T2475	REACTION_PRODUCT 135189 135235	benzyl (5-tert-butyl-1,3-oxazol-2-yl)carbamate
+T2476	STARTING_MATERIAL 135252 135293	5-tert-butyl-1,3-oxazole-2-carbohydrazide
+T2477	SOLVENT 135313 135326	diethyl ether
+T2478	TEMPERATURE 135339 135343	0° C
+T2479	SOLVENT 135358 135365	aqueous
+T2480	REAGENT_CATALYST 135366 135369	HCl
+T2481	REAGENT_CATALYST 135402 135407	NaNO2
+T2482	TIME 135460 135466	15 min
+T2483	TEMPERATURE 135503 135508	0° C.
+T2484	TIME 135513 135516	1 h
+T2485	OTHER_COMPOUND 135531 135537	NaHCO3
+T2486	OTHER_COMPOUND 135610 135623	diethyl ether
+T2487	OTHER_COMPOUND 135682 135687	brine
+T2488	OTHER_COMPOUND 135696 135702	Na2SO4
+T2489	OTHER_COMPOUND 135750 135756	xylene
+T2490	STARTING_MATERIAL 135769 135783	benzyl alcohol
+T2491	TEMPERATURE 135835 135843	refluxed
+T2492	TIME 135856 135859	3 h
+T2493	REACTION_PRODUCT 135970 135984	title compound
+T2494	YIELD_OTHER 135986 135991	5.0 g
+T2495	YIELD_PERCENT 135993 135996	22%
+T2496	EXAMPLE_LABEL 136004 136005	7
+T2497	REACTION_PRODUCT 136020 136051	5-tert-butyl-1,3-oxazol-2-amine
+T2498	STARTING_MATERIAL 136069 136115	benzyl (5-tert-butyl-1,3-oxazol-2-yl)carbamate
+T2499	SOLVENT 136138 136146	methanol
+T2500	REAGENT_CATALYST 136169 136188	palladium on carbon
+T2501	TEMPERATURE 136236 136252	room temperature
+T2502	TIME 136257 136260	3 h
+T2503	OTHER_COMPOUND 136267 136275	hydrogen
+T2504	OTHER_COMPOUND 136329 136335	Celite
+T2505	REACTION_PRODUCT 136439 136453	title compound
+T2506	YIELD_OTHER 136455 136460	1.7 g
+T2507	YIELD_PERCENT 136462 136465	68%
+T2508	EXAMPLE_LABEL 136504 136506	AW
+T2509	REACTION_PRODUCT 136508 136547	1-(propan-2-yl)-1H-benzimidazol-2-amine
+T2510	EXAMPLE_LABEL 136567 136568	1
+T2511	REACTION_PRODUCT 136583 136613	2-nitro-N-(propan-2-yl)aniline
+T2512	STARTING_MATERIAL 136631 136654	1-fluoro-2-nitrobenzene
+T2513	SOLVENT 136677 136681	DMSO
+T2514	REAGENT_CATALYST 136699 136713	isopropylamine
+T2515	REAGENT_CATALYST 136746 136758	Hunig's base
+T2516	TEMPERATURE 136822 136828	80° C.
+T2517	TIME 136829 136833	16 h
+T2518	TEMPERATURE 136861 136877	room temperature
+T2519	OTHER_COMPOUND 136901 136906	water
+T2520	OTHER_COMPOUND 136921 136934	ethyl acetate
+T2521	OTHER_COMPOUND 136969 136974	water
+T2522	OTHER_COMPOUND 136976 136981	brine
+T2523	OTHER_COMPOUND 136990 136996	Na2SO4
+T2524	REACTION_PRODUCT 137029 137043	title compound
+T2525	YIELD_OTHER 137045 137051	828 mg
+T2526	YIELD_PERCENT 137053 137056	97%
+T2527	EXAMPLE_LABEL 137081 137082	2
+T2528	REACTION_PRODUCT 137097 137131	N-(propan-2-yl)benzene-1,2-diamine
+T2529	STARTING_MATERIAL 137149 137179	2-nitro-N-(propan-2-yl)aniline
+T2530	SOLVENT 137202 137209	ethanol
+T2531	OTHER_COMPOUND 137226 137234	nitrogen
+T2532	REAGENT_CATALYST 137263 137282	palladium on carbon
+T2533	REAGENT_CATALYST 137317 137333	ammonium formate
+T2534	OTHER_COMPOUND 137444 137450	Celite
+T2535	OTHER_COMPOUND 137494 137501	ethanol
+T2536	OTHER_COMPOUND 137579 137584	water
+T2537	OTHER_COMPOUND 137589 137602	ethyl acetate
+T2538	OTHER_COMPOUND 137632 137638	Na2SO4
+T2539	OTHER_COMPOUND 137730 137740	silica gel
+T2540	OTHER_COMPOUND 137750 137758	methanol
+T2541	OTHER_COMPOUND 137762 137768	CH2Cl2
+T2542	REACTION_PRODUCT 137783 137797	title compound
+T2543	YIELD_OTHER 137799 137805	552 mg
+T2544	YIELD_PERCENT 137807 137810	80%
+T2545	EXAMPLE_LABEL 137828 137829	3
+T2546	REACTION_PRODUCT 137844 137883	1-(propan-2-yl)-1H-benzimidazol-2-amine
+T2547	STARTING_MATERIAL 137915 137949	N-(propan-2-yl)benzene-1,2-diamine
+T2548	SOLVENT 137972 137979	ethanol
+T2549	REAGENT_CATALYST 138014 138030	cyanogen bromide
+T2550	SOLVENT 138055 138061	CH2Cl2
+T2551	TIME 138091 138095	16 h
+T2552	OTHER_COMPOUND 138159 138172	diethyl ether
+T2553	REACTION_PRODUCT 138218 138232	title compound
+T2554	YIELD_OTHER 138234 138240	870 mg
+T2555	YIELD_PERCENT 138242 138245	92%
+T2556	OTHER_COMPOUND 138280 138285	AX-BE
+T2557	OTHER_COMPOUND 138352 138367	Intermediate AX
+T2558	REACTION_PRODUCT 138459 138496	AX 1-ethyl-5-methyl- 1H-benzimidazol-
+T2559	REACTION_PRODUCT 138505 138507	AY
+T2560	REACTION_PRODUCT 138508 138540	1-tert-butyl-1H- benzimidazol-2-
+T2561	REACTION_PRODUCT 138550 138594	2-(2-amino-1H- benzimidazol-1- yl)-2-methyl-
+T2562	REACTION_PRODUCT 138595 138606	propan-1-ol
+T2563	REACTION_PRODUCT 138610 138643	1-cyclopentyl-1H- benzimidazol-2-
+T2564	OTHER_COMPOUND 138650 138652	BB
+T2565	OTHER_COMPOUND 138691 138721	1-(2-amino-1H- benzimidazol-1-
+T2566	OTHER_COMPOUND 138748 138760	BD 1-(2,2,2-
+T2567	OTHER_COMPOUND 138806 138825	5-(methylsulfonyl)-
+T2568	REACTION_PRODUCT 138826 138871	1-(2,2,2- trifluoroethyl)-1H- benzimidazol-2-
+T2569	REACTION_PRODUCT 138895 138936	5-chloro-1-methyl-1H-benzimidazol-2-amine
+T2570	OTHER_COMPOUND 138938 138950	hydrobromide
+T2571	STARTING_MATERIAL 138972 139004	4-chloro-N-methyl-2-nitroaniline
+T2572	STARTING_MATERIAL 139022 139054	4-chloro-1-fluoro-2-nitrobenzene
+T2573	SOLVENT 139077 139081	DMSO
+T2574	REAGENT_CATALYST 139116 139127	methylamine
+T2575	SOLVENT 139151 139166	tetrahydrofuran
+T2576	REAGENT_CATALYST 139180 139192	Hunig's base
+T2577	TEMPERATURE 139256 139261	80° C
+T2578	TIME 139267 139271	16 h
+T2579	TEMPERATURE 139299 139315	room temperature
+T2580	OTHER_COMPOUND 139336 139341	water
+T2581	REACTION_PRODUCT 139403 139417	title compound
+T2582	YIELD_OTHER 139419 139425	713 mg
+T2583	YIELD_PERCENT 139427 139430	81%
+T2584	EXAMPLE_LABEL 139438 139439	2
+T2585	STARTING_MATERIAL 139454 139491	4-chloro-N1-methylbenzene-1,2-diamine
+T2586	STARTING_MATERIAL 139509 139541	4-chloro-N-methyl-2-nitroaniline
+T2587	SOLVENT 139564 139571	ethanol
+T2588	REAGENT_CATALYST 139589 139605	ammonium formate
+T2589	REAGENT_CATALYST 139635 139644	zinc dust
+T2590	TEMPERATURE 139692 139698	50° C.
+T2591	TIME 139703 139706	2 h
+T2592	OTHER_COMPOUND 139769 139775	Celite
+T2593	OTHER_COMPOUND 139819 139827	methanol
+T2594	REACTION_PRODUCT 139880 139894	title compound
+T2595	YIELD_OTHER 139896 139902	592 mg
+T2596	YIELD_PERCENT 139904 139907	89%
+T2597	REACTION_PRODUCT 139993 140034	5-chloro-1-methyl-1H-benzimidazol-2-amine
+T2598	STARTING_MATERIAL 140066 140103	4-chloro-N1-methylbenzene-1,2-diamine
+T2599	SOLVENT 140126 140133	ethanol
+T2600	REAGENT_CATALYST 140168 140184	cyanogen bromide
+T2601	SOLVENT 140209 140215	CH2Cl2
+T2602	TIME 140245 140257	several days
+T2603	OTHER_COMPOUND 140278 140291	diethyl ether
+T2604	REACTION_PRODUCT 140354 140368	title compound
+T2605	YIELD_OTHER 140370 140376	663 mg
+T2606	YIELD_PERCENT 140378 140381	66%
+T2607	REACTION_PRODUCT 140398 140403	BH-BJ
+T2608	REACTION_PRODUCT 140580 140598	6-chloro-1-methyl-
+T2609	REACTION_PRODUCT 140599 140623	1H-benzimidazol- 2-amine
+T2610	REACTION_PRODUCT 140627 140661	6-chloro-1-ethyl- 1H-benzimidazol-
+T2611	REACTION_PRODUCT 140670 140672	BJ
+T2612	REACTION_PRODUCT 140673 140726	1-[4-(2-amino-1H- benzimidazol-1- yl)piperidin-1-yl]-
+T2613	OTHER_COMPOUND 140749 140751	BK
+T2614	REACTION_PRODUCT 140753 140817	1-[3-(dimethylamino)-2,2-dimethylpropyl]-1H-benzimidazol-2-amine
+T2615	REACTION_PRODUCT 140855 140912	N,N,2,2-tetramethyl-N′-(2-nitrophenyl)propane-1,3-diamine
+T2616	STARTING_MATERIAL 140930 140953	1-fluoro-2-nitrobenzene
+T2617	SOLVENT 140976 140980	DMSO
+T2618	STARTING_MATERIAL 140997 141042	2,2,N*1*,N*1*-Tetramethyl-propane-1,3-diamine
+T2619	REAGENT_CATALYST 141073 141085	Hunig's base
+T2620	TEMPERATURE 141150 141155	80° C
+T2621	TIME 141161 141165	16 h
+T2622	TEMPERATURE 141193 141209	room temperature
+T2623	OTHER_COMPOUND 141230 141235	water
+T2624	OTHER_COMPOUND 141258 141264	CH2Cl2
+T2625	OTHER_COMPOUND 141299 141304	water
+T2626	OTHER_COMPOUND 141306 141311	brine
+T2627	OTHER_COMPOUND 141323 141329	Na2SO4
+T2628	REACTION_PRODUCT 141362 141382	title crude compound
+T2629	YIELD_OTHER 141384 141390	635 mg
+T2630	EXAMPLE_LABEL 141422 141423	2
+T2631	STARTING_MATERIAL 141438 141497	N-[3-(dimethylamino)-2,2-dimethylpropyl]benzene-1,2-diamine
+T2632	REAGENT_CATALYST 141534 141561	tin (II) chloride dehydrate
+T2633	REAGENT_CATALYST 141584 141600	concentrated HCl
+T2634	STARTING_MATERIAL 141631 141688	N,N,2,2-tetramethyl-N′-(2-nitrophenyl)propane-1,3-diamine
+T2635	TIME 141737 141741	16 h
+T2636	OTHER_COMPOUND 141783 141790	aqueous
+T2637	OTHER_COMPOUND 141791 141795	NaOH
+T2638	OTHER_COMPOUND 141827 141833	CH2Cl2
+T2639	OTHER_COMPOUND 141877 141883	Na2SO4
+T2640	REACTION_PRODUCT 141916 141930	title compound
+T2641	YIELD_OTHER 141932 141938	504 mg
+T2642	YIELD_PERCENT 141940 141943	90%
+T2643	EXAMPLE_LABEL 141961 141962	3
+T2644	REACTION_PRODUCT 141977 142041	1-[3-(dimethylamino)-2,2-dimethylpropyl]-1H-benzimidazol-2-amine
+T2645	REACTION_PRODUCT 142043 142057	dihydrobromide
+T2646	STARTING_MATERIAL 142075 142134	N-[3-(dimethylamino)-2,2-dimethylpropyl]benzene-1,2-diamine
+T2647	SOLVENT 142157 142164	ethanol
+T2648	SOLVENT 142187 142194	aqueous
+T2649	REAGENT_CATALYST 142195 142198	HBr
+T2650	REAGENT_CATALYST 142257 142273	cyanogen bromide
+T2651	SOLVENT 142297 142303	CH2Cl2
+T2652	TIME 142333 142337	48 h
+T2653	OTHER_COMPOUND 142363 142376	diethyl ether
+T2654	REACTION_PRODUCT 142438 142452	title compound
+T2655	YIELD_OTHER 142454 142460	885 mg
+T2656	YIELD_PERCENT 142462 142465	95%
+T2657	REACTION_PRODUCT 142482 142487	BL-BR
+T2658	OTHER_COMPOUND 142661 142663	BL
+T2659	REACTION_PRODUCT 142664 142710	1-(1-methyl- piperidin-4-yl)- 1H-benzimidazol-
+T2660	REACTION_PRODUCT 142722 142781	6-chloro-1-[3- (dimethylamino)- propyl]-1H- benzimidazol-2-
+T2661	OTHER_COMPOUND 142788 142790	BN
+T2662	REACTION_PRODUCT 142791 142850	5-chloro-1-[3- (dimethylamino)- propyl]-1H- benzimidazol-2-
+T2663	OTHER_COMPOUND 142860 142873	1-[(1-methyl-
+T2664	OTHER_COMPOUND 142918 142923	amine
+T2665	OTHER_COMPOUND 142927 142957	1-[2-(pyridin-2- yl)ethyl]-1H-
+T2666	OTHER_COMPOUND 142983 143005	1-[2- (dimethylamino)-
+T2667	OTHER_COMPOUND 143039 143041	BR
+T2668	REACTION_PRODUCT 143042 143090	1-[2-(morpholin- 4-yl)ethyl]-1H- benzimidazol-2-
+T2669	OTHER_COMPOUND 143110 143112	BS
+T2670	OTHER_COMPOUND 143114 143164	5-(4-methylpiperazin-1-yl)-1H-benzimidazol-2-amine
+T2671	STARTING_MATERIAL 143203 143248	4-(4-methylpiperazin-1-yl)benzene-1,2-diamine
+T2672	SOLVENT 143269 143276	ethanol
+T2673	REAGENT_CATALYST 143310 143326	cyanogen bromide
+T2674	SOLVENT 143349 143355	CH2Cl2
+T2675	OTHER_COMPOUND 143413 143426	diethyl ether
+T2676	OTHER_COMPOUND 143524 143536	acetonitrile
+T2677	OTHER_COMPOUND 143537 143542	water
+T2678	OTHER_COMPOUND 143553 143556	TFA
+T2679	REACTION_PRODUCT 143571 143585	title compound
+T2680	YIELD_OTHER 143587 143592	60 mg
+T2681	YIELD_PERCENT 143594 143597	13%
+T2682	EXAMPLE_LABEL 143613 143615	BT
+T2683	REACTION_PRODUCT 143617 143674	5-chloro-7-(morpholin-4-ylmethyl)-1H-benzimidazol-2-amine
+T2684	EXAMPLE_LABEL 143696 143697	1
+T2685	STARTING_MATERIAL 143712 143748	4-(5-chloro-2-nitrobenzyl)morpholine
+T2686	STARTING_MATERIAL 143766 143776	morpholine
+T2687	SOLVENT 143800 143803	THF
+T2688	STARTING_MATERIAL 143822 143850	5-chloro-2-nitrobenzaldehyde
+T2689	REAGENT_CATALYST 143880 143908	sodium triacetoxyborohydride
+T2690	REAGENT_CATALYST 143933 143937	HOAc
+T2691	TIME 143987 143991	16 h
+T2692	OTHER_COMPOUND 144033 144040	aqueous
+T2693	OTHER_COMPOUND 144041 144047	Na2CO3
+T2694	OTHER_COMPOUND 144076 144089	ethyl acetate
+T2695	OTHER_COMPOUND 144129 144134	water
+T2696	OTHER_COMPOUND 144136 144141	brine
+T2697	OTHER_COMPOUND 144150 144156	Na2SO4
+T2698	OTHER_COMPOUND 144228 144235	aqueous
+T2699	OTHER_COMPOUND 144236 144239	HCl
+T2700	OTHER_COMPOUND 144329 144336	aqueous
+T2701	OTHER_COMPOUND 144337 144342	K2CO3
+T2702	OTHER_COMPOUND 144364 144377	ethyl acetate
+T2703	OTHER_COMPOUND 144407 144413	Na2SO4
+T2704	REACTION_PRODUCT 144446 144460	title compound
+T2705	YIELD_OTHER 144462 144467	5.1 g
+T2706	YIELD_PERCENT 144469 144472	74%
+T2707	EXAMPLE_LABEL 144490 144491	2
+T2708	REACTION_PRODUCT 144506 144546	4-chloro-2-(morpholin-4-ylmethyl)aniline
+T2709	STARTING_MATERIAL 144564 144600	4-(5-chloro-2-nitrobenzyl)morpholine
+T2710	REAGENT_CATALYST 144623 144627	HOAc
+T2711	REAGENT_CATALYST 144655 144664	zinc dust
+T2712	TIME 144691 144694	2 h
+T2713	OTHER_COMPOUND 144738 144744	Celite
+T2714	OTHER_COMPOUND 144800 144804	HOAc
+T2715	OTHER_COMPOUND 144841 144848	aqueous
+T2716	OTHER_COMPOUND 144849 144854	K2CO3
+T2717	OTHER_COMPOUND 144874 144887	ethyl acetate
+T2718	OTHER_COMPOUND 144917 144923	Na2SO4
+T2719	OTHER_COMPOUND 145055 145063	methanol
+T2720	OTHER_COMPOUND 145067 145073	CH2Cl2
+T2721	REACTION_PRODUCT 145088 145102	title compound
+T2722	YIELD_OTHER 145104 145109	4.0 g
+T2723	YIELD_PERCENT 145111 145114	62%
+T2724	YIELD_PERCENT 145116 145119	70%
+T2725	EXAMPLE_LABEL 145134 145135	3
+T2726	REACTION_PRODUCT 145150 145218	N-[4-chloro-2-(morpholin-4-ylmethyl)phenyl]-2,2,2-trifluoroacetamide
+T2727	STARTING_MATERIAL 145236 145276	4-chloro-2-(morpholin-4-ylmethyl)aniline
+T2728	SOLVENT 145299 145310	1,4-dioxane
+T2729	REAGENT_CATALYST 145350 145375	trifluoroacetic anhydride
+T2730	TEMPERATURE 145426 145442	room temperature
+T2731	OTHER_COMPOUND 145483 145496	diethyl ether
+T2732	OTHER_COMPOUND 145606 145613	aqueous
+T2733	OTHER_COMPOUND 145614 145619	K2CO3
+T2734	OTHER_COMPOUND 145624 145637	diethyl ether
+T2735	OTHER_COMPOUND 145678 145684	Na2SO4
+T2736	REACTION_PRODUCT 145717 145731	title compound
+T2737	YIELD_OTHER 145733 145738	3.8 g
+T2738	YIELD_PERCENT 145740 145743	95%
+T2739	EXAMPLE_LABEL 145821 145822	4
+T2740	REACTION_PRODUCT 145837 145913	N-[4-chloro-2-(morpholin-4-ylmethyl)-6-nitrophenyl]-2,2,2-trifluoroacetamide
+T2741	STARTING_MATERIAL 145930 145998	N-[4-chloro-2-(morpholin-4-ylmethyl)phenyl]-2,2,2-trifluoroacetamide
+T2742	REAGENT_CATALYST 146021 146047	concentrated sulfuric acid
+T2743	TEMPERATURE 146066 146070	0° C
+T2744	REAGENT_CATALYST 146081 146098	potassium nitrate
+T2745	TEMPERATURE 146152 146168	room temperature
+T2746	TIME 146186 146189	2 h
+T2747	OTHER_COMPOUND 146218 146223	water
+T2748	OTHER_COMPOUND 146267 146274	aqueous
+T2749	OTHER_COMPOUND 146275 146280	K2CO3
+T2750	REACTION_PRODUCT 146345 146359	title compound
+T2751	YIELD_OTHER 146361 146366	3.6 g
+T2752	YIELD_PERCENT 146368 146371	82%
+T2753	EXAMPLE_LABEL 146379 146380	5
+T2754	REACTION_PRODUCT 146395 146443	4-chloro-2-(morpholin-4-ylmethyl)-6-nitroaniline
+T2755	STARTING_MATERIAL 146461 146537	N-[4-chloro-2-(morpholin-4-ylmethyl)-6-nitrophenyl]-2,2,2-trifluoroacetamide
+T2756	SOLVENT 146559 146566	ethanol
+T2757	SOLVENT 146590 146597	aqueous
+T2758	REAGENT_CATALYST 146598 146602	NaOH
+T2759	TEMPERATURE 146660 146665	80° C
+T2760	TIME 146671 146674	3 h
+T2761	TEMPERATURE 146701 146717	room temperature
+T2762	TIME 146747 146751	16 h
+T2763	OTHER_COMPOUND 146765 146772	ethanol
+T2764	REACTION_PRODUCT 146874 146888	title compound
+T2765	YIELD_OTHER 146890 146893	2 g
+T2766	YIELD_PERCENT 146895 146898	77%
+T2767	EXAMPLE_LABEL 146906 146907	6
+T2768	REACTION_PRODUCT 146922 146974	5-chloro-3-(morpholin-4-ylmethyl)benzene-1,2-diamine
+T2769	STARTING_MATERIAL 147011 147028	tin (II) chloride
+T2770	SOLVENT 147048 147060	concentrated
+T2771	REAGENT_CATALYST 147061 147064	HCl
+T2772	STARTING_MATERIAL 147097 147145	4-chloro-2-(morpholin-4-ylmethyl)-6-nitroaniline
+T2773	REAGENT_CATALYST 147166 147182	concentrated HCl
+T2774	TIME 147219 147222	1 h
+T2775	OTHER_COMPOUND 147285 147288	HCl
+T2776	OTHER_COMPOUND 147322 147327	water
+T2777	OTHER_COMPOUND 147356 147363	aqueous
+T2778	OTHER_COMPOUND 147364 147369	K2CO3
+T2779	OTHER_COMPOUND 147392 147398	CH2Cl2
+T2780	OTHER_COMPOUND 147439 147445	Na2SO4
+T2781	REACTION_PRODUCT 147478 147492	title compound
+T2782	YIELD_OTHER 147494 147500	458 mg
+T2783	YIELD_PERCENT 147502 147505	95%
+T2784	EXAMPLE_LABEL 147523 147524	7
+T2785	REACTION_PRODUCT 147539 147596	5-chloro-7-(morpholin-4-ylmethyl)-1H-benzimidazol-2-amine
+T2786	STARTING_MATERIAL 147630 147682	5-chloro-3-(morpholin-4-ylmethyl)benzene-1,2-diamine
+T2787	SOLVENT 147705 147712	ethanol
+T2788	SOLVENT 147735 147742	aqueous
+T2789	REAGENT_CATALYST 147743 147746	HBr
+T2790	REAGENT_CATALYST 147805 147821	cyanogen bromide
+T2791	SOLVENT 147845 147851	CH2Cl2
+T2792	TIME 147872 147876	48 h
+T2793	OTHER_COMPOUND 147905 147918	diethyl ether
+T2794	REACTION_PRODUCT 147980 147994	title compound
+T2795	YIELD_OTHER 147996 148002	595 mg
+T2796	YIELD_PERCENT 148004 148007	73%
+T2797	STARTING_MATERIAL 148020 148108	N-(3-chlorophenyl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2798	STARTING_MATERIAL 148126 148199	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2799	STARTING_MATERIAL 148201 148213	Intermediate
+T2800	STARTING_MATERIAL 148214 148215	J
+T2801	SOLVENT 148237 148240	DMF
+T2802	REAGENT_CATALYST 148257 148340	[(benzotriazol-1-yloxy)-dimethylamino-methylene]dimethyl-ammonium tetrafluoroborate
+T2803	REAGENT_CATALYST 148342 148346	TBTU
+T2804	TIME 148399 148409	10 minutes
+T2805	STARTING_MATERIAL 148445 148465	3-chloro-phenylamine
+T2806	REAGENT_CATALYST 148497 148510	triethylamine
+T2807	TIME 148550 148554	16 h
+T2808	OTHER_COMPOUND 148584 148589	water
+T2809	OTHER_COMPOUND 148668 148672	MTBE
+T2810	REACTION_PRODUCT 148714 148728	title compound
+T2811	YIELD_OTHER 148730 148735	40 mg
+T2812	YIELD_PERCENT 148737 148740	56%
+T2813	EXAMPLE_LABEL 148948 148951	157
+T2814	REACTION_PRODUCT 148952 149063	4,4-dimethyl-N-(5-methyl-1,2-oxazol-3-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2815	STARTING_MATERIAL 149081 149167	4,4-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2816	SOLVENT 149191 149194	THF
+T2817	REAGENT_CATALYST 149211 149235	1,1′-carbonyldiimidazole
+T2818	TEMPERATURE 149291 149296	55° C
+T2819	TIME 149302 149305	1 h
+T2820	TEMPERATURE 149332 149348	room temperature
+T2821	STARTING_MATERIAL 149353 149378	5-methyl-3-aminoisoxazole
+T2822	TIME 149424 149430	10 min
+T2823	STARTING_MATERIAL 149432 149459	1,8-diazabicycloundec-7-ene
+T2824	TEMPERATURE 149520 149525	60° C
+T2825	TIME 149531 149535	16 h
+T2826	TEMPERATURE 149554 149570	room temperature
+T2827	OTHER_COMPOUND 149659 149671	acetonitrile
+T2828	OTHER_COMPOUND 149672 149677	water
+T2829	OTHER_COMPOUND 149688 149691	TFA
+T2830	REACTION_PRODUCT 149706 149720	title compound
+T2831	YIELD_OTHER 149722 149727	79 mg
+T2832	YIELD_PERCENT 149729 149732	61%
+T2833	OTHER_COMPOUND 149864 149876	commercially
+T2834	EXAMPLE_LABEL 149954 149957	174
+T2835	REACTION_PRODUCT 149958 150055	4-methyl-N-(5-methyl-1,2-oxazol-3-yl)-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T2836	STARTING_MATERIAL 150073 150145	4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T2837	SOLVENT 150168 150171	DMF
+T2838	REAGENT_CATALYST 150189 150211	N-hydroxybenzotriazole
+T2839	STARTING_MATERIAL 150235 150280	1-ethyl-3-(3-dimethylaminopropyl)carbodiimide
+T2840	TIME 150320 150326	10 min
+T2841	STARTING_MATERIAL 150328 150353	5-methyl-3-aminoisoxazole
+T2842	REAGENT_CATALYST 150374 150399	N,N-diisopropylethylamine
+T2843	REAGENT_CATALYST 150425 150448	4-dimethylaminopyridine
+T2844	TEMPERATURE 150514 150519	50° C
+T2845	TIME 150525 150529	15 h
+T2846	OTHER_COMPOUND 150561 150563	N2
+T2847	OTHER_COMPOUND 150609 150612	DMF
+T2848	TEMPERATURE 150639 150655	room temperature
+T2849	OTHER_COMPOUND 150660 150665	EtOAc
+T2850	OTHER_COMPOUND 150677 150682	water
+T2851	REACTION_PRODUCT 150768 150782	title compound
+T2852	YIELD_OTHER 150784 150789	32 mg
+T2853	YIELD_PERCENT 150791 150794	48%
+T2854	EXAMPLE_LABEL 151016 151019	181
+T2855	REACTION_PRODUCT 151020 151117	N-(5-ethyl-1,2-oxazol-3-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2856	STARTING_MATERIAL 151135 151208	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2857	SOLVENT 151247 151250	THF
+T2858	SOLVENT 151262 151265	DMF
+T2859	REAGENT_CATALYST 151284 151288	HATU
+T2860	TEMPERATURE 151336 151352	room temperature
+T2861	TIME 151357 151360	1 h
+T2862	REAGENT_CATALYST 151374 151391	polystyrene bound
+T2863	STARTING_MATERIAL 151392 151453	2-tert-butylimino-1,3-dimethylperhydro-1,3,2-diazaphosphorine
+T2864	TEMPERATURE 151510 151526	room temperature
+T2865	TIME 151531 151537	10 min
+T2866	STARTING_MATERIAL 151542 151566	5-ethyl-3-aminoisoxazole
+T2867	TEMPERATURE 151624 151630	60° C.
+T2868	TIME 151635 151639	16 h
+T2869	TEMPERATURE 151662 151678	room temperature
+T2870	OTHER_COMPOUND 151718 151726	methanol
+T2871	OTHER_COMPOUND 151866 151878	acetonitrile
+T2872	OTHER_COMPOUND 151879 151884	water
+T2873	OTHER_COMPOUND 151895 151898	TFA
+T2874	REACTION_PRODUCT 151913 151927	title compound
+T2875	YIELD_OTHER 151929 151933	5 mg
+T2876	YIELD_PERCENT 151935 151937	5%
+T2877	EXAMPLE_LABEL 152160 152163	207
+T2878	STARTING_MATERIAL 152164 152273	1-oxo-N-[3-(trifluoromethyl)-1,2-oxazol-5-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2879	REAGENT_CATALYST 152287 152291	HATU
+T2880	STARTING_MATERIAL 152318 152391	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2881	SOLVENT 152433 152446	dichlorethane
+T2882	TEMPERATURE 152510 152516	60° C.
+T2883	TIME 152521 152531	60 minutes
+T2884	REAGENT_CATALYST 152533 152544	Polystyrene
+T2885	STARTING_MATERIAL 152551 152612	2-tert-butylimino-1,3-dimethylperhydro-1,3,2-diazaphosphorine
+T2886	STARTING_MATERIAL 152639 152675	3-trifluoromethyl-isoxazol-5-ylamine
+T2887	TEMPERATURE 152764 152770	120° C
+T2888	TIME 152776 152778	an
+T2889	TIME 152790 152800	60 minutes
+T2890	OTHER_COMPOUND 152858 152861	DMF
+T2891	OTHER_COMPOUND 152957 152965	methanol
+T2892	OTHER_COMPOUND 152966 152982	dichlorormethane
+T2893	REACTION_PRODUCT 152993 153007	title compound
+T2894	YIELD_OTHER 153009 153016	0.012 g
+T2895	YIELD_PERCENT 153018 153023	15.5%
+T2896	STARTING_MATERIAL 153234 153332	1-oxo-N-(5-phenyl-1,2-oxazol-3-yl)-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2897	STARTING_MATERIAL 153395 153468	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2898	STARTING_MATERIAL 153470 153484	Intermediate J
+T2899	SOLVENT 153507 153510	NMP
+T2900	REAGENT_CATALYST 153519 153523	HATU
+T2901	TEMPERATURE 153582 153598	room temperature
+T2902	TIME 153603 153609	30 min
+T2903	STARTING_MATERIAL 153611 153636	5-phenyl-3-aminoisoxazole
+T2904	REAGENT_CATALYST 153660 153678	N-methylmorpholine
+T2905	OTHER_COMPOUND 153738 153744	Teflon
+T2906	TEMPERATURE 153805 153811	100° C
+T2907	TIME 153817 153823	30 min
+T2908	TEMPERATURE 153832 153838	150° C
+T2909	TIME 153844 153850	90 min
+T2910	OTHER_COMPOUND 153934 153946	acetonitrile
+T2911	OTHER_COMPOUND 153947 153952	water
+T2912	OTHER_COMPOUND 153963 153966	TFA
+T2913	REACTION_PRODUCT 153981 153995	title compound
+T2914	YIELD_OTHER 153997 154001	2 mg
+T2915	YIELD_PERCENT 154003 154005	5%
+T2916	STARTING_MATERIAL 154053 154151	N-(5-benzyl-1,2-oxazol-3-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2917	STARTING_MATERIAL 154215 154288	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2918	STARTING_MATERIAL 154290 154304	Intermediate J
+T2919	STARTING_MATERIAL 154329 154354	5-benzyl-3-aminoisoxazole
+T2920	REAGENT_CATALYST 154378 154386	pyridine
+T2921	OTHER_COMPOUND 154426 154432	Teflon
+T2922	TEMPERATURE 154475 154479	0° C
+T2923	REAGENT_CATALYST 154485 154508	phosphorous oxychloride
+T2924	TEMPERATURE 154572 154588	room temperature
+T2925	TEMPERATURE 154638 154644	150° C
+T2926	TIME 154650 154656	60 min
+T2927	OTHER_COMPOUND 154685 154690	water
+T2928	OTHER_COMPOUND 154816 154828	acetonitrile
+T2929	OTHER_COMPOUND 154829 154834	water
+T2930	OTHER_COMPOUND 154845 154848	TFA
+T2931	REACTION_PRODUCT 154863 154877	title compound
+T2932	YIELD_OTHER 154879 154884	87 mg
+T2933	YIELD_PERCENT 154886 154889	53%
+T2934	EXAMPLE_LABEL 155116 155119	215
+T2935	STARTING_MATERIAL 155120 155211	N-(2-carbamoylphenyl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2936	STARTING_MATERIAL 155231 155304	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2937	STARTING_MATERIAL 155306 155320	Intermediate J
+T2938	SOLVENT 155344 155350	CH2Cl2
+T2939	STARTING_MATERIAL 155369 155406	1-chloro-N,N,2-trimethylpropenylamine
+T2940	TIME 155465 155468	5 h
+T2941	STARTING_MATERIAL 155470 155486	2-Aminobenzamide
+T2942	REAGENT_CATALYST 155511 155519	pyridine
+T2943	TIME 155591 155598	another
+T2944	TIME 155599 155603	16 h
+T2945	TEMPERATURE 155607 155623	room temperature
+T2946	OTHER_COMPOUND 155625 155630	Water
+T2947	OTHER_COMPOUND 155755 155763	methanol
+T2948	OTHER_COMPOUND 155767 155773	CH2Cl2
+T2949	REACTION_PRODUCT 155788 155802	title compound
+T2950	YIELD_OTHER 155804 155809	40 mg
+T2951	YIELD_PERCENT 155811 155814	27%
+T2952	EXAMPLE_LABEL 156036 156039	226
+T2953	REACTION_PRODUCT 156040 156140	N-[3-(1H-imidazol-4-yl)phenyl]-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2954	EXAMPLE_LABEL 156146 156147	1
+T2955	STARTING_MATERIAL 156162 156198	3-(1-trityl-1H-imidazol-4-yl)aniline
+T2956	STARTING_MATERIAL 156199 156226	(3-Aminophenyl)boronic acid
+T2957	STARTING_MATERIAL 156246 156275	4-bromo-1-trityl-1H-imidazole
+T2958	REAGENT_CATALYST 156295 156335	tri-t-butylphosphonium tetrafluoroborate
+T2959	REAGENT_CATALYST 156359 156361	KF
+T2960	SOLVENT 156400 156403	THF
+T2961	OTHER_COMPOUND 156416 156421	argon
+T2962	TIME 156457 156463	10 min
+T2963	REAGENT_CATALYST 156465 156506	Tris-(dibenzylideneacetone)dipalladium(0)
+T2964	TEMPERATURE 156584 156589	60° C
+T2965	TIME 156595 156599	16 h
+T2966	OTHER_COMPOUND 156656 156661	EtOAc
+T2967	OTHER_COMPOUND 156700 156705	water
+T2968	OTHER_COMPOUND 156718 156723	brine
+T2969	OTHER_COMPOUND 156741 156747	Na2SO4
+T2970	OTHER_COMPOUND 156835 156843	methanol
+T2971	OTHER_COMPOUND 156847 156853	CH2Cl2
+T2972	REACTION_PRODUCT 156868 156882	title compound
+T2973	YIELD_OTHER 156884 156889	1.1 g
+T2974	YIELD_PERCENT 156891 156894	36%
+T2975	EXAMPLE_LABEL 156902 156903	2
+T2976	REACTION_PRODUCT 156918 157027	1-oxo-N-[3-(1-trityl-1H-imidazol-4-yl)phenyl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2977	STARTING_MATERIAL 157045 157118	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T2978	STARTING_MATERIAL 157120 157132	Intermediate
+T2979	SOLVENT 157157 157160	DMF
+T2980	STARTING_MATERIAL 157179 157245	benzotriazol-1-yl-oxytripyrrolidinophosphonium hexafluorophosphate
+T2981	TIME 157303 157309	10 min
+T2982	STARTING_MATERIAL 157314 157350	3-(1-trityl-1H-imidazol-4-yl)aniline
+T2983	REAGENT_CATALYST 157375 157388	triethylamine
+T2984	TEMPERATURE 157456 157472	room temperature
+T2985	TIME 157477 157481	16 h
+T2986	OTHER_COMPOUND 157483 157488	Water
+T2987	OTHER_COMPOUND 157573 157578	water
+T2988	REACTION_PRODUCT 157593 157598	title
+T2989	REACTION_PRODUCT 157599 157613	crude compound
+T2990	EXAMPLE_LABEL 157672 157673	3
+T2991	REACTION_PRODUCT 157688 157788	N-[3-(1H-imidazol-4-yl)phenyl]-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2992	STARTING_MATERIAL 157816 157925	1-oxo-N-[3-(1-trityl-1H-imidazol-4-yl)phenyl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T2993	SOLVENT 157953 157959	CH2Cl2
+T2994	SOLVENT 157973 157981	methanol
+T2995	REAGENT_CATALYST 158000 158003	TFA
+T2996	TIME 158042 158046	16 h
+T2997	TEMPERATURE 158050 158066	room temperature
+T2998	OTHER_COMPOUND 158164 158176	acetonitrile
+T2999	OTHER_COMPOUND 158177 158182	water
+T3000	OTHER_COMPOUND 158193 158196	TFA
+T3001	REACTION_PRODUCT 158211 158225	title compound
+T3002	YIELD_OTHER 158227 158232	43 mg
+T3003	YIELD_PERCENT 158234 158237	35%
+T3004	EXAMPLE_LABEL 158292 158295	227
+T3005	REACTION_PRODUCT 158296 158395	1-oxo-N-[3-(1H-pyrazol-3-yl)phenyl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T3006	STARTING_MATERIAL 158417 158544	1-oxo-N-[3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T3007	STARTING_MATERIAL 158562 158635	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T3008	STARTING_MATERIAL 158637 158649	Intermediate
+T3009	STARTING_MATERIAL 158650 158651	J
+T3010	SOLVENT 158673 158676	DMF
+T3011	STARTING_MATERIAL 158695 158770	N,N,N′,N′-tetramethyl-O-(7-azabenzotriazol-1-yl)uronium hexafluorophosphate
+T3012	REAGENT_CATALYST 158793 158811	N-methylmorpholine
+T3013	TIME 158869 158872	1 h
+T3014	TEMPERATURE 158876 158892	room temperature
+T3015	STARTING_MATERIAL 158897 158951	3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)aniline
+T3016	TIME 159017 159021	16 h
+T3017	TEMPERATURE 159025 159041	room temperature
+T3018	OTHER_COMPOUND 159061 159066	water
+T3019	OTHER_COMPOUND 159137 159142	water
+T3020	REACTION_PRODUCT 159167 159181	title compound
+T3021	YIELD_OTHER 159183 159188	3.8 g
+T3022	YIELD_PERCENT 159190 159193	92%
+T3023	EXAMPLE_LABEL 159201 159202	2
+T3024	REACTION_PRODUCT 159217 159316	1-oxo-N-[3-(1H-pyrazol-3-yl)phenyl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T3025	STARTING_MATERIAL 159334 159461	1-oxo-N-[3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T3026	SOLVENT 159465 159468	DME
+T3027	SOLVENT 159469 159472	H2O
+T3028	SOLVENT 159473 159480	ethanol
+T3029	REAGENT_CATALYST 159512 159517	K3PO4
+T3030	REAGENT_CATALYST 159544 159569	Pd(dppf)Cl2 CH2Cl2 adduct
+T3031	STARTING_MATERIAL 159645 159664	3-bromo-1H-pyrazole
+T3032	TEMPERATURE 159745 159752	150° C.
+T3033	TIME 159757 159767	30 minutes
+T3034	OTHER_COMPOUND 159801 159807	Celite
+T3035	OTHER_COMPOUND 159829 159842	ethyl acetate
+T3036	REACTION_PRODUCT 159941 159955	title compound
+T3037	YIELD_OTHER 159962 159967	31 mg
+T3038	YIELD_PERCENT 159969 159972	39%
+T3039	EXAMPLE_LABEL 159983 159986	228
+T3040	OTHER_COMPOUND 160066 160078	commercially
+T3041	EXAMPLE_LABEL 160156 160159	229
+T3042	REACTION_PRODUCT 160160 160259	N-[2-(methylcarbamoyl)phenyl]-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T3043	EXAMPLE_LABEL 160265 160266	1
+T3044	REACTION_PRODUCT 160281 160376	methyl 2-{[(1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indol-8-yl)carbonyl]amino}benzoate
+T3045	STARTING_MATERIAL 160396 160469	1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxylic acid
+T3046	STARTING_MATERIAL 160471 160485	Intermediate J
+T3047	SOLVENT 160508 160514	CH2Cl2
+T3048	TEMPERATURE 160526 160542	room temperature
+T3049	STARTING_MATERIAL 160552 160589	1-chloro-N,N,2-trimethylpropenylamine
+T3050	TIME 160630 160633	3 h
+T3051	STARTING_MATERIAL 160635 160654	methyl anthranilate
+T3052	REAGENT_CATALYST 160679 160687	pyridine
+T3053	TIME 160754 160758	16 h
+T3054	TEMPERATURE 160762 160778	room temperature
+T3055	OTHER_COMPOUND 160780 160785	Water
+T3056	OTHER_COMPOUND 160838 160843	EtOAc
+T3057	OTHER_COMPOUND 160911 160919	Methanol
+T3058	REACTION_PRODUCT 161023 161037	title compound
+T3059	YIELD_OTHER 161039 161045	503 mg
+T3060	YIELD_PERCENT 161047 161050	65%
+T3061	EXAMPLE_LABEL 161058 161059	2
+T3062	REACTION_PRODUCT 161074 161166	2-{[(1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indol-8-yl)carbonyl]amino}benzoic acid
+T3063	STARTING_MATERIAL 161183 161278	methyl 2-{[(1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indol-8-yl)carbonyl]amino}benzoate
+T3064	SOLVENT 161301 161309	methanol
+T3065	REAGENT_CATALYST 161324 161328	NaOH
+T3066	TEMPERATURE 161370 161375	60° C
+T3067	TIME 161381 161384	3 h
+T3068	OTHER_COMPOUND 161389 161392	HCl
+T3069	OTHER_COMPOUND 161414 161419	water
+T3070	REACTION_PRODUCT 161510 161524	title compound
+T3071	YIELD_OTHER 161526 161532	438 mg
+T3072	YIELD_PERCENT 161534 161537	90%
+T3073	EXAMPLE_LABEL 161545 161546	3
+T3074	REACTION_PRODUCT 161561 161660	N-[2-(methylcarbamoyl)phenyl]-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T3075	STARTING_MATERIAL 161678 161770	2-{[(1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indol-8-yl)carbonyl]amino}benzoic acid
+T3076	REAGENT_CATALYST 161794 161797	DMF
+T3077	REAGENT_CATALYST 161820 161831	methylamine
+T3078	SOLVENT 161835 161838	THF
+T3079	REAGENT_CATALYST 161861 161883	N-hydroxybenzotriazole
+T3080	REAGENT_CATALYST 161904 161929	N,N-diisopropylethylamine
+T3081	REAGENT_CATALYST 161955 161978	4-dimethylaminopyridine
+T3082	TIME 162042 162048	10 min
+T3083	STARTING_MATERIAL 162050 162095	1-ethyl-3-(3-dimethylaminopropyl)carbodiimide
+T3084	TIME 162175 162179	16 h
+T3085	TEMPERATURE 162183 162199	room temperature
+T3086	OTHER_COMPOUND 162273 162285	acetonitrile
+T3087	OTHER_COMPOUND 162286 162291	water
+T3088	OTHER_COMPOUND 162302 162305	TFA
+T3089	REACTION_PRODUCT 162320 162334	title compound
+T3090	YIELD_OTHER 162336 162341	80 mg
+T3091	YIELD_PERCENT 162343 162346	77%
+T3092	EXAMPLE_LABEL 162389 162392	230
+T3093	EXAMPLE_LABEL 162562 162565	231
+T3094	REACTION_PRODUCT 162566 162692	N-[2-(tert-butylcarbamoyl)-1-methyl-1H-imidazol-4-yl]-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T3095	EXAMPLE_LABEL 162698 162699	1
+T3096	REACTION_PRODUCT 162714 162839	ethyl 4-{[(4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indol-7-yl)carbonyl]amino}-1-methyl-1H-imidazole-2-carboxylate
+T3097	STARTING_MATERIAL 162857 162933	4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxylic acid
+T3098	REAGENT_CATALYST 162972 162975	DMF
+T3099	REAGENT_CATALYST 162993 163015	N-hydroxybenzotriazole
+T3100	STARTING_MATERIAL 163039 163085	1-ethyl-3-(3-dimethylaminopropyl) carbodiimide
+T3101	TIME 163125 163131	10 min
+T3102	STARTING_MATERIAL 163133 163192	4-amino-1-methyl-1H-imidazole-2-carboxylic acid ethyl ester
+T3103	REAGENT_CATALYST 163213 163238	N,N-diisopropylethylamine
+T3104	REAGENT_CATALYST 163263 163286	4-dimethylaminopyridine
+T3105	TEMPERATURE 163351 163356	60° C
+T3106	TIME 163362 163366	16 h
+T3107	OTHER_COMPOUND 163368 163371	DMF
+T3108	OTHER_COMPOUND 163401 163403	N2
+T3109	TEMPERATURE 163407 163412	40° C
+T3110	OTHER_COMPOUND 163418 163423	EtOAc
+T3111	OTHER_COMPOUND 163435 163440	water
+T3112	TIME 163478 163484	15 min
+T3113	REACTION_PRODUCT 163553 163567	title compound
+T3114	YIELD_OTHER 163569 163575	490 mg
+T3115	YIELD_PERCENT 163577 163580	92%
+T3116	EXAMPLE_LABEL 163588 163589	2
+T3117	REACTION_PRODUCT 163604 163727	4-{[(4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indol-7-yl)carbonyl]amino}-1-methyl-1H-imidazole-2-carboxylic acid
+T3118	STARTING_MATERIAL 163744 163869	ethyl 4-{[(4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indol-7-yl)carbonyl]amino}-1-methyl-1H-imidazole-2-carboxylate
+T3119	REAGENT_CATALYST 163895 163899	NaOH
+T3120	SOLVENT 163932 163940	methanol
+T3121	TEMPERATURE 163961 163967	60° C.
+T3122	TIME 163972 163975	2 h
+T3123	OTHER_COMPOUND 164010 164013	HCl
+T3124	TIME 164101 164104	2 h
+T3125	OTHER_COMPOUND 164165 164170	water
+T3126	REACTION_PRODUCT 164195 164209	title compound
+T3127	YIELD_OTHER 164211 164217	350 mg
+T3128	YIELD_PERCENT 164219 164222	70%
+T3129	EXAMPLE_LABEL 164230 164231	3
+T3130	REACTION_PRODUCT 164246 164372	N-[2-(tert-butylcarbamoyl)-1-methyl-1H-imidazol-4-yl]-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T3131	STARTING_MATERIAL 164390 164513	4-{[(4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indol-7-yl)carbonyl]amino}-1-methyl-1H-imidazole-2-carboxylic acid
+T3132	SOLVENT 164537 164540	DMF
+T3133	REAGENT_CATALYST 164558 164580	N-hydroxybenzotriazole
+T3134	STARTING_MATERIAL 164604 164649	1-ethyl-3-(3-dimethylaminopropyl)carbodiimide
+T3135	TIME 164690 164696	10 min
+T3136	TEMPERATURE 164700 164705	50° C
+T3137	REAGENT_CATALYST 164708 164723	tert-butylamine
+T3138	REAGENT_CATALYST 164746 164771	N,N-diisopropylethylamine
+T3139	REAGENT_CATALYST 164797 164820	4-dimethylaminopyridine
+T3140	TEMPERATURE 164887 164903	room temperature
+T3141	TIME 164908 164911	8 h
+T3142	OTHER_COMPOUND 164942 164944	N2
+T3143	REACTION_PRODUCT 165044 165058	title compound
+T3144	YIELD_OTHER 165060 165065	61 mg
+T3145	YIELD_PERCENT 165067 165070	51%
+T3146	EXAMPLE_LABEL 165292 165295	236
+T3147	REACTION_PRODUCT 165296 165433	N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-1-oxo-2,3-dihydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-8-carboxamide
+T3148	EXAMPLE_LABEL 165439 165440	1
+T3149	REACTION_PRODUCT 165455 165619	tert-butyl 8-({1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}carbamoyl)-1-oxo-2,3-dihydro-1H,1′H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-1′-carboxylate
+T3150	STARTING_MATERIAL 165637 165750	1′-(tert-butoxycarbonyl)-1-oxo-2,3-dihydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-8-carboxylic acid
+T3151	SOLVENT 165774 165777	DMF
+T3152	REAGENT_CATALYST 165794 165861	N,N,N′N′-tetramethyl-O-(benzotriazol-1-yl)uronium tetrafluoroborate
+T3153	REAGENT_CATALYST 165863 165867	TBTU
+T3154	TIME 165926 165932	10 min
+T3155	TEMPERATURE 165936 165952	room temperature
+T3156	STARTING_MATERIAL 165954 166005	1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-amine
+T3157	REAGENT_CATALYST 166029 166042	triethylamine
+T3158	TIME 166118 166122	16 h
+T3159	TEMPERATURE 166126 166142	room temperature
+T3160	OTHER_COMPOUND 166144 166149	Water
+T3161	OTHER_COMPOUND 166238 166243	water
+T3162	REACTION_PRODUCT 166268 166282	title compound
+T3163	YIELD_OTHER 166284 166290	361 mg
+T3164	YIELD_PERCENT 166292 166295	81%
+T3165	EXAMPLE_LABEL 166303 166304	2
+T3166	REACTION_PRODUCT 166319 166456	N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-1-oxo-2,3-dihydro-1H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-8-carboxamide
+T3167	STARTING_MATERIAL 166474 166638	tert-Butyl 8-({1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}carbamoyl)-1-oxo-2,3-dihydro-1H,1′H-spiro[1,4-diazepino[1,2-a]indole-4,4′-piperidine]-1′-carboxylate
+T3168	SOLVENT 166662 166668	CH2Cl2
+T3169	REAGENT_CATALYST 166685 166688	TFA
+T3170	TIME 166724 166728	16 h
+T3171	TEMPERATURE 166732 166748	room temperature
+T3172	OTHER_COMPOUND 166750 166758	Methanol
+T3173	OTHER_COMPOUND 166864 166876	acetonitrile
+T3174	OTHER_COMPOUND 166877 166882	water
+T3175	OTHER_COMPOUND 166893 166896	TFA
+T3176	REACTION_PRODUCT 166911 166925	title compound
+T3177	YIELD_OTHER 166957 166963	310 mg
+T3178	YIELD_PERCENT 166965 166968	85%
+T3179	OTHER_COMPOUND 172021 172030	substrate
+T3180	OTHER_COMPOUND 172042 172046	RSK2
+T3181	OTHER_COMPOUND 172140 172150	Kinase Glo
+T3182	OTHER_COMPOUND 172211 172220	luciferin
+T3183	OTHER_COMPOUND 172221 172231	luciferase
+T3184	OTHER_COMPOUND 172281 172284	ATP
+T3185	OTHER_COMPOUND 172341 172344	ATP
+T3186	OTHER_COMPOUND 172356 172365	S6 Kinase
+T3187	OTHER_COMPOUND 172454 172459	HEPES
+T3188	OTHER_COMPOUND 172475 172480	MgCl2
+T3189	OTHER_COMPOUND 172487 172492	MnCl2
+T3190	OTHER_COMPOUND 172500 172503	KCl
+T3191	OTHER_COMPOUND 172510 172513	BSA
+T3192	OTHER_COMPOUND 172521 172526	CHAPS
+T3193	OTHER_COMPOUND 172535 172541	Na3VO4
+T3194	OTHER_COMPOUND 172550 172553	DTT
+T3195	OTHER_COMPOUND 172562 172566	DMSO
+T3196	OTHER_COMPOUND 172697 172701	DMSO
+T3197	OTHER_COMPOUND 172707 172711	DMSO
+T3198	OTHER_COMPOUND 172788 172792	DMSO
+T3199	OTHER_COMPOUND 173012 173015	ATP
+T3200	OTHER_COMPOUND 173026 173035	Peptide 1
+T3201	TIME 173098 173108	90 minutes
+T3202	TEMPERATURE 173112 173117	28° C
+T3203	OTHER_COMPOUND 173152 173155	ATP
+T3204	TIME 173178 173188	15 minutes
+T3205	TEMPERATURE 173192 173208	room temperature
+T3206	OTHER_COMPOUND 173391 173394	POC
+T3207	OTHER_COMPOUND 173612 173615	ATP
+T3208	OTHER_COMPOUND 173744 173747	ATP
+T3209	OTHER_COMPOUND 173845 173848	POC
+T3210	OTHER_COMPOUND 173976 173979	B−A
+T3211	OTHER_COMPOUND 174402 174413	factor CREB
+T3212	OTHER_COMPOUND 174415 174419	cAMP
+T3213	OTHER_COMPOUND 174449 174453	RSK2
+T3214	OTHER_COMPOUND 174506 174514	HLR-CREB
+T3215	STARTING_MATERIAL 174559 174563	CREB
+T3216	OTHER_COMPOUND 174654 174662	HLR-CREB
+T3217	OTHER_COMPOUND 174717 174726	RPMI-1640
+T3218	OTHER_COMPOUND 174749 174752	FCS
+T3219	OTHER_COMPOUND 174759 174768	glutamine
+T3220	OTHER_COMPOUND 174783 174793	gentamycin
+T3221	OTHER_COMPOUND 174920 174929	Effectene
+T3222	OTHER_COMPOUND 174945 174949	RSK2
+T3223	STARTING_MATERIAL 174988 174991	DNA
+T3224	STARTING_MATERIAL 174993 175006	pCMV6-XL-RSK2
+T3225	TIME 175173 175182	5 minutes
+T3226	TEMPERATURE 175186 175202	room temperature
+T3227	OTHER_COMPOUND 175216 175225	Effectene
+T3228	TIME 175269 175271	an
+T3229	TIME 175283 175293	10 minutes
+T3230	TEMPERATURE 175297 175313	room temperature
+T3231	TIME 175579 175590	20-24 hours
+T3232	OTHER_COMPOUND 175641 175672	Phorbol 12-myristate 13-acetate
+T3233	OTHER_COMPOUND 175674 175677	PMA
+T3234	TIME 175727 175735	48 hours
+T3235	OTHER_COMPOUND 175826 175836	Steady-Glo
+T3236	OTHER_COMPOUND 175974 175977	POC
+T3237	OTHER_COMPOUND 176473 176483	AlamarBlue
+T3238	OTHER_COMPOUND 176485 176495	Invitrogen
+T3239	OTHER_COMPOUND 176649 176659	luciferase
+T3240	OTHER_COMPOUND 176672 176682	AlamarBlue
+T3241	TIME 176706 176714	48 hours
+T3242	TIME 176778 176787	3-4 hours
+T3243	TEMPERATURE 176791 176796	37° C
+T3244	OTHER_COMPOUND 177020 177023	POC
+T3245	OTHER_COMPOUND 179270 179274	RSK2
+T3246	OTHER_COMPOUND 180634 180643	lymphomas
+T3247	OTHER_COMPOUND 181334 181346	administered
+T3248	TIME 181367 181370	day
+T3249	OTHER_COMPOUND 182371 182397	pharmaceutically effective
+T3250	OTHER_COMPOUND 182824 182833	vaginally
+T3251	OTHER_COMPOUND 183001 183008	gelatin
+T3252	OTHER_COMPOUND 183892 183895	Ash
+T3253	EXAMPLE_LABEL 184539 184540	1
+T3254	REACTION_PRODUCT 184590 186623	: N-(2-methoxypyridin-4-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;(4R)—N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;5-methyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;(4R)—N-(1-benzyl-1H-pyrazol-4-yl)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1H-benzimidazol-2-yl)-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;(3S,4R)—N-(1-benzyl-1H-pyrazol-4-yl)-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1H-benzimidazol-2-yl)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;4,4-dimethyl-N-(1-methyl-1H-benzimidazol-2-yl)-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;4-methyl-N-(1-methyl-1H-benzimidazol-2-yl)-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;(5R)-5-methyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1H-benzimidazol-2-yl)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;(5R)—N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-1′-oxo-2′,3′-dihydro-1′H-spiro[cyclopropane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxamide;(5R)—
+T3255	REACTION_PRODUCT 186623 187904	N-(1-benzyl-1H-pyrazol-4-yl)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-cis-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;(3S,4R)—N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(5-chloro-1H-benzimidazol-2-yl)-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-5-methyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;cis-3,4-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-4,4-difluoro-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;4,4-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide
+T3256	REACTION_PRODUCT 188005 188118	5-methyl-N-(1-methyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;
+T3257	REACTION_PRODUCT 188119 191444	N-(1-benzyl-1H-pyrazol-4-yl)-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-[2-(cyclopentylcarbamoyl)-1-methyl-1H-imidazol-4-yl]-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1H-indol-2-yl)-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(5-methyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;1-oxo-N-[1-(2,2,2-trifluoroethyl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;(4S)-4-methyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-4-methyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;5-methyl-N-(1-methyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-[2-(cyclopentylcarbamoyl)-1-methyl-1H-imidazol-4-yl]-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)benzyl]-1H-pyrazol-4-yl}-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;cis-4,5-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(5-chloro-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-[2-(tert-butylcarbamoyl)-1-methyl-1H-imidazol-4-yl]-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(6-methoxypyrimidin-4-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-ethyl-1H-benzimidazol-2-yl)-trans-3,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;(3S,4R)-3,4-dimethyl-N-(5-methyl-1,2-oxazol-3-yl)-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;4-methyl-1-oxo-N-[1-(propan-2-yl)-1H-benzimidazol-2-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-cis-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(2-carbamoylphenyl)-4,4-dimethyl-1-oxo-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-[1-(2-hydroxy-2-methylpropyl)-1H-benzimidazol-2-yl]-4,4-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(3-ethyl-3H-imidazo[4,5-b]pyridin-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-1′-oxo-2′,3′-dihydro-1′H-spiro[cyclopropane-1,4′-[1,4]diazepino[1,2-a]indole]-8′-carboxamide;1-oxo-N-[5-(propan-2-yl)-1H-benzimidazol-2-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;cis-3,4-dimethyl-1-oxo-N-[1-(propan-2-yl)-1H-pyrazolo[3,4-b]pyridin-5-yl]-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;4,4-dimethyl-1-oxo-N-(3-phenyl-1,2-oxazol-5-yl)-1,2,3,4-tetrahydropyrazino[1,2-a]indole-7-carboxamide;N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-cis-4,5-dimethyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(6-chloro-1-ethyl-1H-benzimidazol-2-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;1-oxo-N-[1-(pyridin-4-ylmethyl)-1H-pyrazol-4-yl]-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;N-(1-benzyl-1H-pyrazol-4-yl)-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide;(5 S)—
+T3258	REACTION_PRODUCT 191444 191575	N-{1-[3-(dimethylamino)propyl]-1H-benzimidazol-2-yl}-5-methyl-1-oxo-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,2-a]indole-8-carboxamide
+T3259	OTHER_COMPOUND 191707 191734	pharmaceutically acceptable

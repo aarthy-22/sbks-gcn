@@ -1,0 +1,29 @@
+T27	GENE-Y 27 79	Mortierella isabellina delta6 -fatty acid desaturase
+T21	CHEMICAL 58 68	fatty acid
+T1	CHEMICAL 98 118	Gamma-linolenic acid
+T9	CHEMICAL 120 123	GLA
+T20	CHEMICAL 196 207	fatty acids
+T7	CHEMICAL 279 282	GLA
+T24	GENE-Y 284 312	Delta6-fatty acid desaturase
+T8	CHEMICAL 291 301	fatty acid
+T25	GENE-Y 314 317	D6D
+T10	CHEMICAL 382 395	linoleic acid
+T11	CHEMICAL 397 399	LA
+T12	CHEMICAL 405 425	alpha-linolenic acid
+T13	CHEMICAL 427 430	ALA
+T14	CHEMICAL 435 438	GLA
+T15	CHEMICAL 443 466	octadecatetraenoic acid
+T16	CHEMICAL 468 471	OTA
+T26	GENE-Y 491 519	delta6-fatty acid desaturase
+T17	CHEMICAL 498 508	fatty acid
+T18	CHEMICAL 959 970	fatty acids
+T19	CHEMICAL 1012 1018	methyl
+T2	CHEMICAL 1124 1140	GLA methyl ester
+T3	CHEMICAL 1181 1201	gamma-lenolenic acid
+T4	CHEMICAL 1211 1222	fatty acids
+T22	GENE-Y 1278 1329	Mortierella isabellina delta6-fatty acid desaturase
+T5	CHEMICAL 1308 1318	fatty acid
+T23	GENE-Y 1423 1451	delta6-fatty acid desaturase
+T6	CHEMICAL 1430 1440	fatty acid
+R0	CPR-9 Arg1:T10 Arg2:T24
+R1	CPR-9 Arg1:T16 Arg2:T25

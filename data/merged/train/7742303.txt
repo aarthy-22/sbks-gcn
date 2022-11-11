@@ -1,0 +1,9 @@
+Minor groove recognition of the critical acceptor helix base pair by an appended module of a class II tRNA synthetase.
+The class-defining active site domain of the 10 class II tRNA synthetases is well conserved and, based on the crystal structure of aspartyl-tRNA synthetase, approaches the end of the tRNA acceptor stem from the major groove side of the helix.
+Paradoxically, for the class II alanyl-tRNA synthetase (AlaRS), aminoacylation is dependent on minor groove recognition of an acceptor helix G3.U70 base pair.
+Additional contributions to aminoacylation efficiency are made by the A73 "discriminator" base and G2.C71 base pair located at the end of the acceptor stem.
+Using microhelix substrates containing only the first four base pairs of the alanine tRNA acceptor helix, we demonstrated that the catalytic center of AlaRS with the three class-defining sequence motifs contains determinants for recognition of A73 and G2.C71.
+However, this structural unit does not discriminate between different base pairs at the critical 3.70 position.
+Discrimination at G3.U70 was mapped to a 76 amino acid polypeptide outside the catalytic center.
+We propose that the G3.U70 recognition motif is a structural appendage that folds back to the catalytic center to make contact with the bound acceptor stem.
+A "fold-back" appendage provides a specific mechanism for minor groove recognition of the acceptor helix by a class II tRNA synthetase.

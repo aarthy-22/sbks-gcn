@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 5 7	24
+T2	REACTION_PRODUCT 8 93	(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-5-(2-ethylphenyl)-4-nitropyrrolidine-2-carboxylate
+T3	EXAMPLE_LABEL 99 102	24A
+T4	REACTION_PRODUCT 103 149	(E)-ethyl 2-((2-ethylbenzylidene)amino)acetate
+T5	STARTING_MATERIAL 163 197	ethyl 2-aminoacetate hydrochloride
+T6	REAGENT_CATALYST 223 240	magnesium sulfate
+T7	SOLVENT 264 279	dichloromethane
+T8	REAGENT_CATALYST 317 330	triethylamine
+T9	TIME 367 377	10 minutes
+T10	STARTING_MATERIAL 395 414	2-ethylbenzaldehyde
+T11	SOLVENT 461 476	dichloromethane
+T12	TEMPERATURE 514 533	ambient temperature
+T13	OTHER_COMPOUND 607 612	water
+T14	OTHER_COMPOUND 651 657	Na2SO4
+T15	REACTION_PRODUCT 716 762	(E)-ethyl 2-((2-ethylbenzylidene)amino)acetate
+T16	YIELD_OTHER 764 770	2.65 g
+T17	YIELD_OTHER 772 782	12.09 mmol
+T18	YIELD_PERCENT 784 787	91%

@@ -1,0 +1,8 @@
+Using a fragment-based approach to target protein-protein interactions.
+The ability to identify inhibitors of protein-protein interactions represents a major challenge in modern drug discovery and in the development of tools for chemical biology.
+In recent years, fragment-based approaches have emerged as a new methodology in drug discovery; however, few examples of small molecules that are active against chemotherapeutic targets have been published.
+Herein, we describe the fragment-based approach of targeting the interaction between the tumour suppressor BRCA2 and the recombination enzyme RAD51; it makes use of a screening pipeline of biophysical techniques that we expect to be more generally applicable to similar targets.
+Disruption of this interaction in vivo is hypothesised to give rise to cellular hypersensitivity to radiation and genotoxic drugs.
+We have used protein engineering to create a monomeric form of RAD51 by humanising a thermostable archaeal orthologue, RadA, and used this protein for fragment screening.
+The initial fragment hits were thoroughly validated biophysically by isothermal titration calorimetry (ITC) and NMR techniques and observed by X-ray crystallography to bind in a shallow surface pocket that is occupied in the native complex by the side chain of a phenylalanine from the conserved FxxA interaction motif found in BRCA2.
+This represents the first report of fragments or any small molecule binding at this protein-protein interaction site.

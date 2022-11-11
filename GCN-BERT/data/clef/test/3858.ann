@@ -1,0 +1,12 @@
+T1	EXAMPLE_LABEL 8 10	15
+T2	REACTION_PRODUCT 25 152	N-hydroxy-2-methyl-2-(methylsulfonyl)-4-(4-(4-(3-(pyrrolidin-1-yl)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)butanamide
+T3	EXAMPLE_LABEL 158 159	1
+T4	REACTION_PRODUCT 174 203	1-(prop-2-yn-1-yl)pyrrolidine
+T5	STARTING_MATERIAL 221 232	pyrrolidine
+T6	SOLVENT 251 258	toluene
+T7	STARTING_MATERIAL 306 323	3-bromoprop-1-yne
+T8	TIME 370 375	15 hr
+T9	TEMPERATURE 379 395	room temperature
+T10	REACTION_PRODUCT 535 549	title compound
+T11	YIELD_OTHER 551 557	0.32 g
+T12	YIELD_PERCENT 559 562	16%

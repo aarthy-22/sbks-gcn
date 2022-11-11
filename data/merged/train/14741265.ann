@@ -1,0 +1,11 @@
+T8	CHEMICAL 36 57	2-aryl propionic acid
+T10	GENE-N 58 72	cyclooxygenase
+T6	CHEMICAL 126 138	flurbiprofen
+T7	CHEMICAL 143 152	ibuprofen
+T9	GENE-Y 227 232	COX-1
+T1	CHEMICAL 267 274	halogen
+T2	CHEMICAL 362 373	carboxylate
+T3	CHEMICAL 384 396	flurbiprofen
+T4	CHEMICAL 403 408	ester
+T5	CHEMICAL 412 417	amide
+R0	CPR-4 Arg1:T8 Arg2:T10

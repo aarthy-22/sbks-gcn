@@ -1,0 +1,2 @@
+1-(4-bromobenzyl)-4-methylpiperazine (9)
+A solution of 1-bromo-4-(bromomethyl)benzene (20 g, 0.08 mol, 1.0 eq) in DCM (80 mL) was added dropwise slowly to a solution of 1-methylpiperazine (16 g, 0.16 mol, 2.0 eq) in DCM (160 mL) and the reaction was stirred at r.t. for 2 hr. After completion, the reaction was quenched with water and filtered. The filtrate was separated and the aqueous layer was extracted with DCM once more. The combined organics were dried over anhydrous Na2SO4 and concentrated to afford compound 9 (16.5 g, 76.7%) as a light yellow liquid.

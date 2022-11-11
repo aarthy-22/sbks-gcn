@@ -1,0 +1,19 @@
+T17	GENE-Y 0 26	Keratinocyte growth factor
+T18	GENE-Y 31 62	acidic fibroblast growth factor
+T2	GENE-N 222 233	collagenase
+T3	GENE-Y 353 360	insulin
+T4	GENE-Y 362 388	Keratinocyte growth factor
+T5	GENE-Y 390 393	KGF
+T6	GENE-Y 397 402	FGF-7
+T7	GENE-Y 408 439	acidic fibroblast growth factor
+T8	GENE-Y 441 445	aFGF
+T9	GENE-Y 449 454	FGF-1
+T10	GENE-N 581 589	collagen
+T11	GENE-Y 602 605	KGF
+T12	GENE-Y 702 712	acidic FGF
+T13	GENE-Y 861 864	KGF
+T1	CHEMICAL 876 888	3H-thymidine
+T14	GENE-Y 952 975	epidermal growth factor
+T15	GENE-Y 1001 1011	acidic FGF
+T16	GENE-Y 1016 1019	KGF
+R0	NOT Arg1:T13 Arg2:T1

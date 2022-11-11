@@ -1,0 +1,41 @@
+T20	CHEMICAL 123 143	L-2-hydroxyglutarate
+T5	CHEMICAL 198 218	L-2-hydroxyglutarate
+T31	GENE-Y 198 232	L-2-hydroxyglutarate dehydrogenase
+T11	CHEMICAL 268 288	L-2-hydroxyglutarate
+T12	CHEMICAL 292 311	alpha-ketoglutarate
+T13	CHEMICAL 331 351	L-2-hydroxyglutarate
+T14	CHEMICAL 452 470	2-hydroxyglutarate
+T15	CHEMICAL 471 490	alpha-ketoglutarate
+T16	CHEMICAL 511 531	L-2-hydroxyglutarate
+T17	CHEMICAL 587 606	alpha-ketoglutarate
+T18	CHEMICAL 612 615	NAD
+T34	GENE-N 612 646	NAD- or NADP-linked oxidoreductase
+T19	CHEMICAL 620 624	NADP
+T21	CHEMICAL 776 795	alpha-ketoglutarate
+T22	CHEMICAL 815 819	NADH
+T35	GENE-Y 850 882	cytosolic L-malate dehydrogenase
+T23	CHEMICAL 860 868	L-malate
+T36	GENE-Y 884 888	cMDH
+T24	CHEMICAL 921 935	Blue Sepharose
+T25	CHEMICAL 979 983	NADH
+T26	CHEMICAL 993 1012	alpha-ketoglutarate
+T37	GENE-Y 993 1022	alpha-ketoglutarate reductase
+T38	GENE-Y 1058 1094	mitochondrial L-malate dehydrogenase
+T1	CHEMICAL 1072 1080	L-malate
+T27	GENE-Y 1096 1100	mMDH
+T28	GENE-Y 1112 1116	mMDH
+T2	CHEMICAL 1144 1163	alpha-ketoglutarate
+T3	CHEMICAL 1167 1187	L-2-hydroxyglutarate
+T4	CHEMICAL 1272 1284	oxaloacetate
+T29	GENE-Y 1393 1397	cMDH
+T30	GENE-Y 1402 1406	mMDH
+T6	CHEMICAL 1440 1459	alpha-ketoglutarate
+T7	CHEMICAL 1487 1499	oxaloacetate
+T32	GENE-Y 1601 1605	mMDH
+T8	CHEMICAL 1609 1628	alpha-ketoglutarate
+T9	CHEMICAL 1672 1692	L-2-hydroxyglutarate
+T10	CHEMICAL 1746 1766	L-2-hydroxyglutarate
+T33	GENE-Y 1746 1780	L-2-hydroxyglutarate dehydrogenase
+R0	CPR-9 Arg1:T4 Arg2:T28
+R1	NOT Arg1:T26 Arg2:T27
+R2	NOT Arg1:T8 Arg2:T33

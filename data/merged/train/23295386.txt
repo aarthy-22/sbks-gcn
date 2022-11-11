@@ -1,0 +1,10 @@
+Direct transcriptional regulation of human hepatic cytochrome P450 3A4 (CYP3A4) by peroxisome proliferator-activated receptor alpha (PPARα).
+The nuclear receptor peroxisome proliferator-activated receptor (PPAR)α is known primarily as a regulator of fatty acid metabolism, energy balance, and inflammation, but evidence suggests a wider role in regulating the biotransformation of drugs and other lipophilic chemicals.
+We investigated whether PPARα directly regulates the transcription of cytochrome P450 3A4, the major human drug-metabolizing enzyme.
+Using chromatin immunoprecipitation in human primary hepatocytes as well as electrophoretic mobility shift and luciferase reporter-gene assays, we identified three functional PPARα-binding regions (PBR-I, -II, and -III) within ∼12 kb of the CYP3A4 upstream sequence.
+Furthermore, a humanized CYP3A4/3A7 mouse model showed in vivo induction of CYP3A4 mRNA and protein by [4-chloro-6-(2,3-xylidino)-2-pyrimidinylthio]acetic acid (WY14,643) in liver but not in intestine, whereas hepatic occupancy of PBRs by PPARα was ligand independent.
+Using lentiviral gene knock-down and treatment with WY14,643 in primary human hepatocytes, PPARα was further shown to affect the expression of a distinct set of CYPs, including 1A1, 1A2, 2B6, 2C8, 3A4, and 7A1, but not 2C9, 2C19, 2D6, or 2E1.
+Interestingly, the common phospholipid 1-palmitoyl-2-oleoyl-sn-glycerol-3-phosphocholine (16:0/18:1-PC), previously proposed to reflect nutritional status and shown to be a specific endogenous ligand of PPARα, induced CYP3A4 (up to 4-fold) and other biotransformation genes in hepatocytes with similar selectivity and potency as WY14,643.
+These data establish PPARα as a direct transcriptional regulator of hepatic CYP3A4.
+This finding warrants investigation of both known and newly developed PPARα-targeted drugs for their drug-drug interaction potential.
+Furthermore, our data suggest that nutritional status can influence drug biotransformation capacity via endogenous phospholipid signaling.

@@ -1,0 +1,21 @@
+T15	CHEMICAL 41 53	Rosuvastatin
+T16	CHEMICAL 61 98	3-hydroxy-3-methylglutaryl coenzyme A
+T21	GENE-Y 61 108	3-hydroxy-3-methylglutaryl coenzyme A reductase
+T1	CHEMICAL 120 132	Rosuvastatin
+T3	CHEMICAL 143 149	ZD4522
+T7	CHEMICAL 160 197	3-hydroxy-3-methylglutaryl coenzyme A
+T19	GENE-Y 160 217	3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase
+T12	CHEMICAL 199 206	HMG-CoA
+T4	CHEMICAL 368 379	pravastatin
+T5	CHEMICAL 381 393	Rosuvastatin
+T6	CHEMICAL 451 458	HMG-CoA
+T18	GENE-Y 451 468	HMG-CoA reductase
+T8	CHEMICAL 617 629	rosuvastatin
+T9	CHEMICAL 696 707	cholesterol
+T10	CHEMICAL 740 752	Rosuvastatin
+T11	CHEMICAL 891 903	rosuvastatin
+T13	CHEMICAL 975 987	Rosuvastatin
+T14	CHEMICAL 1096 1103	HMG-CoA
+T20	GENE-N 1096 1103	HMG-CoA
+T17	GENE-Y 1545 1565	cytochrome P-450 3A4
+T2	CHEMICAL 1634 1646	rosuvastatin

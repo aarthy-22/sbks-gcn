@@ -1,0 +1,12 @@
+A multicenter, randomized study of argatroban versus heparin as adjunct to tissue plasminogen activator (TPA) in acute myocardial infarction: myocardial infarction with novastan and TPA (MINT) study.
+OBJECTIVES: This study examined the effect of a small-molecule, direct thrombin inhibitor, argatroban, on reperfusion induced by tissue plasminogen activator (TPA) in patients with acute myocardial infarction (AMI).
+BACKGROUND: Thrombin plays a crucial role in thrombosis and thrombolysis.
+In vitro and in vivo studies have shown that argatroban has advantages over heparin for the inhibition of clot-bound thrombin and for the enhancement of thrombolysis with TPA.
+METHODS: One hundred and twenty-five patients with AMI within 6 h were randomized to heparin, low-dose argatroban or high-dose argatroban in addition to TPA.
+The primary end point was the rate of thrombolysis in myocardial infarction (TIMI) grade 3 flow at 90 min.
+RESULTS: TIMI grade 3 flow was achieved in 42.1% of heparin, 56.8% of low-dose argatroban (p = 0.20 vs. heparin) and 58.7% of high-dose argatroban patients (p = 0.13 vs. heparin).
+In patients presenting after 3 h, TIMI grade 3 flow was significantly more frequent in high-dose argatroban versus heparin patients: 57.1% versus 20.0% (p = 0.03 vs. heparin).
+Major bleeding was observed in 10.0% of heparin, and in 2.6% and 4.3% of low-dose and high-dose argatroban patients, respectively.
+The composite of death, recurrent myocardial infarction, cardiogenic shock or congestive heart failure, revascularization and recurrent ischemia at 30 days occurred in 37.5% of heparin, 32.0% of low-dose argatroban and 25.5% of high-dose argatroban patients (p = 0.23).
+CONCLUSIONS: Argatroban, as compared with heparin, appears to enhance reperfusion with TPA in patients with AMI, particularly in those patients with delayed presentation.
+The incidences of major bleeding and adverse clinical outcome were lower in the patients receiving argatroban.

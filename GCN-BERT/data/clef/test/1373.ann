@@ -1,0 +1,22 @@
+T1	EXAMPLE_LABEL 5 6	5
+T2	REACTION_PRODUCT 23 174	(S)-5-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-1-(4-methoxybenzyl)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
+T3	STARTING_MATERIAL 196 280	5-chloro-1-(4-methoxybenzyl)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
+T4	SOLVENT 335 352	dimethylsulfoxide
+T5	SOLVENT 354 358	DMSO
+T6	STARTING_MATERIAL 407 466	(S)-2-(1-aminoethyl)-5-chloro-3-phenylquinazoline-4(3H)-one
+T7	REAGENT_CATALYST 510 531	diisopropylethylamine
+T8	REAGENT_CATALYST 533 538	DIPEA
+T9	TEMPERATURE 576 581	70° C
+T10	TIME 587 595	12 hours
+T11	TEMPERATURE 637 653	room temperature
+T12	OTHER_COMPOUND 655 660	Water
+T13	OTHER_COMPOUND 708 721	ethyl acetate
+T14	OTHER_COMPOUND 773 779	Na2SO4
+T15	OTHER_COMPOUND 885 889	SiO2
+T16	OTHER_COMPOUND 899 905	hexane
+T17	OTHER_COMPOUND 906 918	ethylacetate
+T18	YIELD_OTHER 933 938	88 mg
+T19	REACTION_PRODUCT 946 961	target compound
+T20	REACTION_PRODUCT 962 1113	(S)-5-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-1-(4-methoxybenzyl)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
+T21	YIELD_OTHER 1132 1141	0.15 mmol
+T22	YIELD_PERCENT 1150 1153	94%

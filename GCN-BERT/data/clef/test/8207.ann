@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 13 14	5
+T2	REACTION_PRODUCT 16 46	5-methylsulfonamidoisoindoline
+T3	EXAMPLE_LABEL 52 53	1
+T4	REACTION_PRODUCT 55 91	1-oxo-5-methylsulfonamidoisoindoline
+T5	STARTING_MATERIAL 109 132	5-aminoisoindolin-1-one
+T6	REAGENT_CATALYST 159 167	pyridine
+T7	STARTING_MATERIAL 178 201	methylsulfonyl chloride
+T8	TEMPERATURE 237 253	room temperature
+T9	TIME 258 265	4 hours
+T10	REACTION_PRODUCT 305 341	1-oxo-5-methylsulfonamidoisoindoline
+T11	YIELD_OTHER 343 349	610 mg
+T12	OTHER_COMPOUND 367 377	silica gel
+T13	YIELD_PERCENT 408 411	90%

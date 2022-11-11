@@ -1,0 +1,22 @@
+T1	REACTION_PRODUCT 7 89	5-(2,3-difluorophenyl)-1-(4-methoxybenzyl)-3-methyl-3,4-dihydro-1H-pyrimidin-2-one
+T2	REAGENT_CATALYST 111 151	tetrakis(triphenylphosphine)palladium(0)
+T3	STARTING_MATERIAL 180 210	2,3-difluorophenylboronic acid
+T4	STARTING_MATERIAL 258 325	5-bromo-1-(4-methoxybenzyl)-3-methyl-3,4-dihydro-1H-pyrimidin-2-one
+T5	SOLVENT 356 363	aqueous
+T6	REAGENT_CATALYST 376 395	potassium carbonate
+T7	SOLVENT 428 449	N,N-dimethylformamide
+T8	SOLVENT 463 468	water
+T9	TEMPERATURE 525 530	90° C
+T10	TIME 536 541	1.5 h
+T11	OTHER_COMPOUND 615 628	ethyl acetate
+T12	OTHER_COMPOUND 660 673	ethyl acetate
+T13	OTHER_COMPOUND 725 730	water
+T14	OTHER_COMPOUND 757 764	aqueous
+T15	OTHER_COMPOUND 777 792	sodium chloride
+T16	OTHER_COMPOUND 810 828	magnesium sulphate
+T17	OTHER_COMPOUND 903 913	silica gel
+T18	OTHER_COMPOUND 943 950	heptane
+T19	OTHER_COMPOUND 951 964	ethyl acetate
+T20	YIELD_OTHER 987 992	0.7 g
+T21	YIELD_PERCENT 994 997	41%
+T22	REACTION_PRODUCT 1002 1084	5-(2,3-difluorophenyl)-1-(4-methoxybenzyl)-3-methyl-3,4-dihydro-1H-pyrimidin-2-one

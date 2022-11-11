@@ -1,0 +1,22 @@
+T16	GENE 92 131	human adenine phosphoribosyltransferase
+T11	CHEMICAL 98 105	adenine
+T1	CHEMICAL 133 140	Adenine
+T12	GENE 133 166	Adenine phosphoribosyltransferase
+T9	CHEMICAL 183 189	purine
+T2	CHEMICAL 237 244	adenine
+T3	CHEMICAL 248 271	adenosine monophosphate
+T4	CHEMICAL 296 302	purine
+T5	CHEMICAL 365 372	adenine
+T13	GENE 365 398	adenine phosphoribosyltransferase
+T6	CHEMICAL 496 497	N
+T7	CHEMICAL 509 512	His
+T14	GENE 520 559	human adenine phosphoribosyltransferase
+T8	CHEMICAL 526 533	adenine
+T10	CHEMICAL 956 963	adenine
+T15	GENE 956 989	adenine phosphoribosyltransferase
+R0	CPR-9 Arg1:T2 Arg2:T12
+R1	CPR-9 Arg1:T3 Arg2:T12
+R2	CPR-1 Arg1:T6 Arg2:T14
+R3	NOT Arg1:T12 Arg2:T9
+R4	NOT Arg1:T4 Arg2:T13
+R5	NOT Arg1:T7 Arg2:T14

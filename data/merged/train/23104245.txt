@@ -1,0 +1,10 @@
+Comparative study of equimolar doses of gamma-hydroxybutyrate (GHB), 1,4-butanediol (1,4-BD) and gamma-butyrolactone (GBL) on catalepsy after acute and chronic administration.
+Gamma-hydroxybutyrate (GHB), and its precursors 1,4-butanediol (1,4-BD) and gamma-butyrolactone (GBL) are known drugs of abuse.
+The ability of acute and chronic administration of equimolar doses of GHB (200mg/kg), 1,4-BD (174mg/kg) and GBL (166mg/kg) to produce catalepsy in male Swiss Webster mice was examined.
+GHB, 1,4-BD, GBL produced catalepsy when injected acutely.
+Drug treatment was then continued for 14days.
+Tolerance development was determined on days 6, 14, and challenged with a higher dose on day 15 in those chronically pretreated mice, and compared with naïve mice.
+Chronic GHB produced tolerance to catalepsy, as evidenced from area under the curve (AUC) of catalepsy versus time (min-sec) on days 6 (678±254), 14 (272±247), which were less than those on day 1 (1923±269).
+However, less tolerance was seen from GBL or 1,4-BD, as AUCs on days 6 and 14 were not significantly lower than that of day 1.
+In conclusion, although equimolar doses were used, expecting similar levels of GHB in the body, 1,4-BD and GBL shared only some of the in vivo effects of GHB.
+The rate of metabolic conversion of 1,4-BD and GBL into GHB might be responsible for the differences in the tolerance development to these drugs.

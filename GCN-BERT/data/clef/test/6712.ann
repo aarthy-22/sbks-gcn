@@ -1,0 +1,20 @@
+T1	EXAMPLE_LABEL 5 6	6
+T2	REACTION_PRODUCT 8 134	tert-butyl 4-{{4-[(3-chloro-4-fluorophenyl)(3,4-dimethoxybenzyl)amino]-7-methoxyquinazolin-6-yl}amino}piperidine-1-carboxylate
+T3	STARTING_MATERIAL 149 235	N4-(3-chloro-4-fluorophenyl)-N4-(3,4-dimethoxybenzyl)-7-methoxyquinazoline-4,6-diamine
+T4	STARTING_MATERIAL 258 298	tert-butyl 4-oxopiperidine-1-carboxylate
+T5	REAGENT_CATALYST 321 332	acetic acid
+T6	TEMPERATURE 356 372	room temperature
+T7	TIME 377 384	2 hours
+T8	REAGENT_CATALYST 395 423	sodium triacetoxyborohydride
+T9	TIME 496 508	half an hour
+T10	OTHER_COMPOUND 553 558	water
+T11	OTHER_COMPOUND 579 592	ethyl acetate
+T12	OTHER_COMPOUND 651 656	water
+T13	OTHER_COMPOUND 661 667	NaHCO3
+T14	OTHER_COMPOUND 668 675	aqueous
+T15	OTHER_COMPOUND 699 704	brine
+T16	OTHER_COMPOUND 727 741	sodium sulfate
+T17	OTHER_COMPOUND 804 814	silica gel
+T18	REACTION_PRODUCT 851 865	title compound
+T19	YIELD_OTHER 867 873	404 mg
+T20	YIELD_PERCENT 875 878	62%

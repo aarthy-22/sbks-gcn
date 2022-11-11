@@ -1,0 +1,3 @@
+Example 47
+4-(6-Fluoro-1H-indol-3-yl)-N-(8-methyl-8-azabicyclo[3,2,1]octan-3-yl)benzamide
+This compound was prepared from Intermediate 3 and 8-methyl-8-azabicyclo[3.2.1]octan-3-amine dihydrochloride according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (11 mg, 26%). Data: LCMS (B) Rt: 7.581 min; m/z 378.2 (M+H)+.

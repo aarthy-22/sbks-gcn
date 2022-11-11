@@ -1,0 +1,5 @@
+Structure prediction of binary pernitride MN2 compounds (M=Ca, Sr, Ba, La, and Ti).
+Metal-pernitride compounds belong to a class of chemical systems in which both the complex ions and the non-bonding electrons may play roles in the formation of their modified crystalline structures.
+To investigate this issue, the energy landscapes of pernitrides of metals with different maximum valence (M=Ca, Sr, Ba, La, and Ti) were globally explored on the ab initio level at standard and high pressures, thereby yielding possible (meta)stable modifications in these systems together with information on how the landscape changed as function of the valence of the metal cation.
+For all of the systems in which no compounds had been synthesized so far, we predicted the existence of kinetically stable modifications that should, in principle, be experimentally accessible.
+In particular, TiN2 should crystallize in a new structure type, TiN2-I.

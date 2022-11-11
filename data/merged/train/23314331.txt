@@ -1,0 +1,11 @@
+Copper induced upregulation of apoptosis related genes in zebrafish (Danio rerio) gill.
+Copper (Cu) is an essential micronutrient that, when present in high concentrations, becomes toxic to aquatic organisms.
+It is known that Cu toxicity may induce apoptotic cell death.
+However, the precise mechanism and the pathways that are activated, in fish, are still unclear.
+Thus, this study aimed to assess which apoptotic pathways are triggered by Cu, in zebrafish (Danio rerio) gill, the main target of waterborne pollutants.
+Fish where exposed to 12.5 and 100 μg/L of Cu during 6, 12, 24 and 48 h. Fish gills were collected to TUNEL assay and mRNA expression analysis of selected genes by real time PCR.
+An approach to different apoptosis pathways was done selecting p53, caspase-8, caspase-9 and apoptosis inducing factor (AIF) genes.
+The higher incidence of TUNEL-positive cells, in gill epithelia of the exposed fish, proved that Cu induced apoptosis.
+The results suggest that different apoptosis pathways are triggered by Cu at different time points of the exposure period, as the increase in transcripts was sequential, instead of simultaneous.
+Apoptosis seems to be initiated via intrinsic pathway (caspase-9), through p53 activation; then followed by the extrinsic pathway (caspase-8) and finally by the caspase-independent pathway (AIF).
+A possible model for Cu-induce apoptosis pathways is proposed.

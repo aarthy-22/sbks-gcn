@@ -1,0 +1,22 @@
+T6	CHEMICAL 10 19	quercetin
+T5	CHEMICAL 146 155	quercetin
+T15	GENE 510 521	prothrombin
+T16	GENE 551 565	thromboplastin
+T2	CHEMICAL 647 658	cholesterol
+T3	CHEMICAL 700 712	triglyceride
+T4	CHEMICAL 717 724	glucose
+T17	GENE 1006 1014	thrombin
+T18	GENE 1037 1050	tissue factor
+T7	GENE 1141 1178	extracellular signal-regulated kinase
+T8	GENE 1180 1183	ERK
+T9	GENE 1189 1212	c-Jun N-terminal kinase
+T1	CHEMICAL 1195 1196	N
+T10	GENE 1214 1217	JNK
+T11	GENE 1251 1259	thrombin
+T12	GENE 1422 1435	tissue factor
+T13	GENE 1456 1488	mitogen-activated protein kinase
+T14	GENE 1490 1494	MAPK
+R0	NOT Arg1:T7 Arg2:T1
+R1	NOT Arg1:T8 Arg2:T1
+R2	NOT Arg1:T1 Arg2:T10
+R3	NOT Arg1:T1 Arg2:T11

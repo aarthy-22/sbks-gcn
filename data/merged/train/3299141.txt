@@ -1,0 +1,13 @@
+Localization of L-glutamate decarboxylase and GABA transaminase immunoreactivity in the sympathetic ganglia of the rat.
+The location of L-glutamate decarboxylase and gamma-aminobutyrate (GABA)-transaminase immunoreactivity in the superior cervical ganglion and in the coeliac-superior mesenteric ganglion complex of the rat was studied by an indirect immunofluorescence method and by immunoelectron microscopy, with specific antisera raised in rabbits against the corresponding enzymes.
+In light microscopy, several glutamate decarboxylase- or GABA-transaminase-immunoreactive principal nerve cells were detected in the superior cervical ganglion and coeliac-superior mesenteric ganglion complex.
+In addition, numerous small cells in both the superior cervical ganglion and coeliac-superior mesenteric ganglion complex showed intense immunoreactivity to glutamate decarboxylase or GABA-transaminase.
+The small cells were 10-20 micron in diameter and resembled in size and morphology the small intensely fluorescent cells.
+In consecutive sections, the small glutamate decarboxylase-immunoreactive cell clusters also showed immunoreactivity to tyrosine hydroxylase, suggesting that these cells contain the enzymes for both GABA and catecholamine synthesis.
+In the superior cervical ganglion and in the coeliac-superior mesenteric ganglion complex, GABA-transaminase immunoreactivity was also localized in fibre-like processes around and between the principal nerve cells, in nerve trunks traversing the ganglia, and around or in close contact with ganglionic blood vessels.
+Furthermore, GABA-transaminase immunoreactivity was observed in fibre-like structures close to the capsule of the ganglia.
+Division of the preganglionic nerve trunk of the superior cervical ganglion caused no detectable change in GABA-transaminase immunoreactivity in the ganglion.
+In immunoelectron microscopy of the superior cervical ganglion, GABA-transaminase immunoreactivity was localized in nerve fibres in association with neurotubules.
+A large number of GABA-transaminase labelled principal nerve cells were detected, containing immunoreactivity evenly distributed in their cytoplasm.
+GABA-transaminase immunoreactivity was also observed in satellite cells and their processes in the superior cervical ganglion.
+The present immunocytochemical results provide evidence that the rat sympathetic ganglia contain an intrinsic neuronal system showing histochemical markers for GABA synthesis and inactivation, but its functional role in the modulation of ganglionic neurotransmission remains to be established.

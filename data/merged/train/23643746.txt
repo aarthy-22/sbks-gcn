@@ -1,0 +1,12 @@
+Enhanced excitability in the infralimbic cortex produces anxiety-like behaviors.
+The medial prefrontal cortex (mPFC) has been implicated in modulating anxiety.
+However, it is unknown whether excitatory or inhibitory neurotransmission in the infralimbic (IL) subregion of the mPFC underlies the pathology of anxiety-related behavior.
+To address this issue, we infused the GABAA receptor (GABAAR) antagonist bicuculline to temporarily activate the IL cortex.
+IL cortex activation decreased the time spent in the center area in the open field test, decreased exploration of the open-arms in the elevated plus maze test, and increased the latency to bite food in the novelty-suppressed feeding test.
+These findings substantiate the GABAergic system's role in anxiety-related behaviors.
+IL cortex inactivation with the AMPA receptor (AMPAR) antagonist CNQX produced opposite, anxiolytic effects.
+However, infusion of the NMDA receptor (NMDAR) antagonist AP5 into the IL cortex had no significant effect.
+Additionally, we did not observe motor activity deficits or appetite deficits following inhibition of GABAergic or glutamatergic neurotransmission.
+Interestingly, we found parallel and corresponding electrophysiological changes in anxious mice; compared to mice with relatively low anxiety, the relatively high anxiety mice exhibited smaller evoked inhibitory postsynaptic currents (eIPSCs) and larger AMPA-mediated evoked excitatory postsynaptic currents (eEPSCs) in pyramidal neurons in the IL cortex.
+The changes of eIPSCs and eEPSCs were due to presynaptic mechanisms.
+Our results suggest that imbalances of neurotransmission in the IL cortex may cause a net increase in excitatory inputs onto pyramidal neurons, which may underlie the pathogenic mechanism of anxiety disorders.

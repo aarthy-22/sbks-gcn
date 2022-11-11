@@ -1,0 +1,43 @@
+T26	CHEMICAL 65 78	valproic acid
+T27	CHEMICAL 99 111	valproyl-CoA
+T25	CHEMICAL 115 147	2-methyl-branched-chain acyl-CoA
+T40	GENE-Y 115 161	2-methyl-branched-chain acyl-CoA dehydrogenase
+T41	CHEMICAL 115 161	2-methyl-branched-chain acyl-CoA dehydrogenase
+T9	CHEMICAL 177 185	acyl-CoA
+T30	GENE-N 177 200	acyl-CoA dehydrogenases
+T37	GENE-N 232 303	short, medium, long and 2-methyl-branched-chain acyl-CoA dehydrogenases
+T22	CHEMICAL 256 288	2-methyl-branched-chain acyl-CoA
+T11	CHEMICAL 309 323	isovaleryl-CoA
+T32	GENE-Y 309 337	isovaleryl-CoA dehydrogenase
+T12	CHEMICAL 360 368	acyl-CoA
+T33	GENE-N 360 383	acyl-CoA dehydrogenases
+T13	CHEMICAL 419 431	valproyl-CoA
+T34	GENE-N 528 582	human short-chain, medium-chain and isovaleryl enzymes
+T14	CHEMICAL 564 574	isovaleryl
+T35	GENE-Y 623 656	long-chain acyl-CoA dehydrogenase
+T15	CHEMICAL 634 642	acyl-CoA
+T16	CHEMICAL 735 747	Valproyl-CoA
+T17	CHEMICAL 834 866	2-methyl-branched-chain acyl-CoA
+T36	GENE-Y 834 880	2-methyl-branched-chain acyl-CoA dehydrogenase
+T38	GENE-Y 882 934	Human 2-methyl-branched-chain acyl-CoA dehydrogenase
+T18	CHEMICAL 888 920	2-methyl-branched-chain acyl-CoA
+T39	GENE-N 1010 1039	human acyl-CoA dehydrogenases
+T19	CHEMICAL 1016 1024	acyl-CoA
+T20	CHEMICAL 1062 1076	isobutyryl-CoA
+T21	CHEMICAL 1078 1097	2-methylbutyryl-CoA
+T23	CHEMICAL 1129 1135	valine
+T24	CHEMICAL 1140 1150	isoleucine
+T1	CHEMICAL 1170 1182	valproyl-CoA
+T2	CHEMICAL 1216 1228	valproyl-CoA
+T3	CHEMICAL 1250 1280	2-methyl-branch-chain acyl-CoA
+T28	GENE-Y 1250 1294	2-methyl-branch-chain acyl-CoA dehydrogenase
+T4	CHEMICAL 1325 1349	2-propyl-2-pentenoyl-CoA
+T5	CHEMICAL 1379 1391	valproyl-CoA
+T6	CHEMICAL 1438 1450	Valproyl-CoA
+T29	GENE-N 1484 1513	human acyl-CoA dehydrogenases
+T7	CHEMICAL 1490 1498	acyl-CoA
+T8	CHEMICAL 1569 1582	valproic acid
+T10	CHEMICAL 1619 1627	acyl-CoA
+T31	GENE-N 1619 1642	acyl-CoA dehydrogenases
+R0	NOT Arg1:T21 Arg2:T28
+R1	NOT Arg1:T23 Arg2:T28

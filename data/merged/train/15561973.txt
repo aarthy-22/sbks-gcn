@@ -1,0 +1,11 @@
+Substrate specificity of the human renal sodium dicarboxylate cotransporter, hNaDC-3, under voltage-clamp conditions.
+Proximal tubule cells extract dicarboxylates from filtrate and blood, using cotransporters located in the brush border [sodium dicarboxylate cotransporter (NaDC-1)] and basolateral cell membrane (NaDC-3).
+We expressed the human NaDC-3 (hNaDC-3) in Xenopus laevis oocytes and characterized it by the two-electrode voltage-clamp technique.
+At -60 mV, succinate (4 carbons) and glutarate (5 carbons) generated inward currents due to translocation of three sodium ions and one divalent dicarboxylate, whereas oxalate (2 carbons) and malonate (3 carbons) did not.
+The cis-dicarboxylate maleate produced currents smaller in magnitude, whereas the trans-dicarboxylate fumarate generated currents similar to succinate.
+The substituted succinate derivatives, malate, 2,2- and 2,3-dimethylsuccinate, and 2,3-dimercaptosuccinate elicited inward currents, whereas aspartate and guanidinosuccinate showed hardly detectable currents.
+The C-5 dicarboxylates glutarate and alpha-ketoglutarate produced larger currents than succinate; glutamate and folate failed to cause inward currents.
+Kinetic analysis revealed, at -60 mV, K(0.5) values of 25 +/- 12 microM for succinate and 45 +/- 13 microM for alpha-ketoglutarate, values close to the plasma concentration of these compounds.
+For both compounds, the K(0.5) was independent of voltage, whereas the maximal current increased with hyperpolarization.
+As opposed to the rat and flounder orthologs, hNaDC-3 was hardly inhibited by lithium concentrations up to 5 mM. In the absence of sodium, however, lithium can mediate succinate-dependent currents.
+The narrow substrate specificity prevents interaction of drugs with dicarboxylate-like structure with hNaDC-3 and ensures sufficient support of the proximal tubule cells with alpha-ketoglutarate for anion secretion via organic anion transporter 1 or 3.

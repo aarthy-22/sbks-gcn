@@ -1,0 +1,11 @@
+Endocrine disrupting effects of ochratoxin A at the level of nuclear receptor activation and steroidogenesis.
+Ochratoxin A (OTA) is a mycotoxin and extrolite of fungi which has been reported in a range of foods.
+This study uses mammalian reporter gene assays (RGAs) with natural steroid receptors and the H295R steroidogenesis assay to assess the endocrine disrupting activity of OTA.
+At the receptor level, OTA (within a concentration range of 0.25-2500 ng/ml) did not induce an agonistic response in an oestrogen, androgen, progestagen or glucocorticoid RGA.
+An antagonistic effect was observed in all of the RGAs at the highest concentration tested (2500 ng/ml).
+However, while there was no significant cytotoxic effect observed in the MTT (thiazolyl blue tetrazolium bromide) cell viability assay at this concentration, there was a corresponding change in cell morphology which may be related to the resulting antagonistic effect.
+At the hormone production level, H295R cells were used as a steroidogenesis model and exposed to OTA (within a concentration range of 0.1-1000 ng/ml).
+Treatment of the cells with 1000 ng/ml OTA increased the production of estradiol (117±14 ng/ml) over 3 times that of the solvent control (36±9 pg/ml).
+Western blotting confirmed an increase in aromatase protein.
+Overall the results indicate that OTA does not appear to interact with steroid receptors but has the potential to cause endocrine disruption by interfering with steroidogenesis.
+This is the first study identifying the effect OTA may have on production of the steroid hormone estradiol.

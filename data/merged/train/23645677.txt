@@ -1,0 +1,12 @@
+Gain-of-function mutations in transient receptor potential C6 (TRPC6) activate extracellular-signal-regulated kinases Erk1/2.
+Gain-of-function mutations in the canonical transient receptor potential 6 (TRPC6) gene are a cause of autosomal dominant focal segmental glomerulosclerosis (FSGS4).
+The mechanisms whereby abnormal TRPC6 activity results in proteinuria remain unknown.
+The Erk1/2 MAP kinases are activated in glomeruli and podocytes in several proteinuric disease models.
+We therefore examined whether FSGS-associated mutations in TRPC6 result in activation of these kinases.
+In 293T cells and cultured podocytes, overexpression of gain-of-function TRPC6 mutants resulted in increased Erk1/2 phosphorylation, an effect dependent upon channel function.
+Pharmacologic inhibitor studies implicated several signaling mediators, including calmodulin and calcineurin, supporting the importance of TRPC6-mediated calcium influx in this process.
+Through media transfer experiments, we uncovered two distinct mechanisms for Erk activation by mutant TRPC6, a cell autonomous, EGFR-independent mechanism and a cell non-autonomous mechanism involving metalloprotease-mediated release of a presumed EGFR ligand.
+The inhibitors KN-92 and H89 were able to block both pathways in mutant TRPC6 expressing cells, as well as the prolonged elevation of intracellular calcium levels upon carbachol stimulation seen in these cells.
+However, these effects appear independent of their effects on CaMKII and PKA, respectively.
+Phosphorylation of T70, S282 and Y31/Y285 were not necessary for Erk activation by mutant TRPC6, though a phosphomimetic TRPC6 S282E mutant was capable of Erk activation.
+Taken together, these results identify two pathways downstream of mutant TRPC6 leading to Erk activation that may play a role in the development of FSGS.

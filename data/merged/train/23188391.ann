@@ -1,0 +1,20 @@
+T17	GENE-N 21 29	incretin
+T10	GENE-N 46 63	incretin hormones
+T7	GENE-Y 64 87	glucagon-like peptide-1
+T3	CHEMICAL 92 99	glucose
+T12	GENE-Y 92 132	glucose-dependent insulinotropic peptide
+T1	CHEMICAL 183 190	glucose
+T6	GENE-Y 199 206	insulin
+T2	CHEMICAL 252 259	glucose
+T8	GENE-N 313 321	incretin
+T9	GENE-N 396 405	incretins
+T11	GENE-N 486 504	incretin receptors
+T13	GENE-N 694 711	incretin receptor
+T14	GENE-Y 741 748	insulin
+T15	GENE-Y 888 910	dipeptidyl peptidase-4
+T16	GENE-Y 926 949	glucagon-like peptide-1
+T4	CHEMICAL 967 974	glucose
+T5	GENE-N 1169 1177	incretin
+R0	NOT Arg1:T10 Arg2:T1
+R1	NOT Arg1:T12 Arg2:T1
+R2	NOT Arg1:T12 Arg2:T2

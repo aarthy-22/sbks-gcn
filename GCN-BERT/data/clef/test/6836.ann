@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	OTHER_COMPOUND 524 539	sodium chloride
+T3	YIELD_PERCENT 736 739	82%
+T4	SOLVENT 188 203	dichloromethane
+T5	TIME 340 347	2 hours
+T6	TEMPERATURE 319 323	25°C
+T7	YIELD_OTHER 694 701	80.0 mg
+T8	TEMPERATURE 271 274	0°C
+T9	OTHER_COMPOUND 440 455	dichloromethane
+T10	OTHER_COMPOUND 388 406	sodium bicarbonate
+T11	REACTION_PRODUCT 7 55	4-(3-Methylisoxazol-5-yl)benzyl methanesulfonate
+T12	OTHER_COMPOUND 380 387	aqueous
+T13	STARTING_MATERIAL 56 99	[4-(3-Methylisoxazol-5-yl)-phenyl]-methanol
+T14	OTHER_COMPOUND 571 585	sodium sulfate
+T15	REAGENT_CATALYST 126 139	triethylamine
+T16	REACTION_PRODUCT 644 692	4-(3-methylisoxazol-5-yl)benzyl methanesulfonate
+T17	STARTING_MATERIAL 211 235	Methanesulfonyl chloride

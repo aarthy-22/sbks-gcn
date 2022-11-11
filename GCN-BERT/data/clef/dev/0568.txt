@@ -1,0 +1,2 @@
+Intermediate 10: 1,6-Diamino-2-chloro-3-iodopyridin-1-ium 2,4,6-trimethylbenzenesulfonate
+Step A: 6-Chloro-5-iodopyridin-2-amine. To a solution of 6-chloropyridin-2-amine (50.0 g, 389 mmol) in DMF (700 mL) was added N-iodosuccinimide (105 g, 467 mmol). The brown solution was stirred at rt for 12 h. The mixture was poured into water (2.1 L) and filtered. The filter cake was washed with water (2×500 mL) and then dried under vacuum. Purification (FCC, SiO2; 5-20% EtOAc/petroleum ether) afforded the title compound (83 g, 75%) as a pink solid.

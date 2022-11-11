@@ -1,0 +1,15 @@
+Safety and tolerability of denufosol tetrasodium inhalation solution, a novel P2Y2 receptor agonist: results of a phase 1/phase 2 multicenter study in mild to moderate cystic fibrosis.
+Denufosol tetrasodium (INS37217) is a selective P2Y(2) agonist that stimulates ciliary beat frequency and Cl(-) secretion in normal and cystic fibrosis (CF) airway epithelia, and is being investigated as an inhaled treatment for CF.
+The Cl(-) secretory response is mediated via a non-CFTR pathway, and the driving force for Cl(-) secretion is enhanced by the effect of P2Y(2) activation to also inhibit epithelial Na(+) transport.
+Denufosol is metabolically more stable and better tolerated, and may enhance mucociliary clearance for a longer period of time than previously investigated P2Y(2) agonists.
+The goal of this phase 1/phase 2 study was to assess the safety and tolerability of single and repeated doses of aerosolized denufosol in subjects with CF.
+The study was a double-blind, placebo-controlled, multicenter comparison of ascending single doses of denufosol (10, 20, 40, and 60 mg, administered by inhalation via the Pari LC Star nebulizer) vs. placebo (normal saline), followed by a comparison of twice-daily administration of the maximum tolerated dose (MTD) of denufosol or placebo for 5 days.
+Thirty-seven adult (18 years of age or older) and 24 pediatric (5-17 years of age) subjects with CF were evaluated in five cohorts.
+Subjects were randomized in a 3:1 ratio to receive either denufosol or placebo within each cohort.
+The percent of subjects experiencing adverse events was similar between the denufosol and placebo groups.
+The most common adverse event in subjects receiving denufosol was chest tightness in adult subjects (39%) and cough in pediatric subjects (56%).
+Three (7%) subjects receiving denufosol and one (7%) subject receiving placebo experienced a serious adverse event.
+Forced expiratory volume in 1 sec (FEV(1)) profiles following dosing were similar across treatment groups, with some acute, reversible decline seen in both groups, most notably in subjects with lower lung function at baseline.
+In conclusion, doses up to 60 mg of denufosol inhalation solution were well-tolerated in most subjects.
+Some intolerability was noted among subjects with lower baseline lung function.
+Based on the results of this phase 1/phase 2 study, the Therapeutics Development Network (TDN) of the Cystic Fibrosis Foundation (CFF) and Inspire Pharmaceuticals, Inc., recently completed a multicenter, 28-day, phase 2 safety and efficacy clinical trial of denufosol inhalation solution in CF subjects with mild lung disease.

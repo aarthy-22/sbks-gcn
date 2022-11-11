@@ -1,0 +1,4 @@
+An in Vivo Tagging Method Reveals that Ras Undergoes Sustained Activation upon Transglutaminase-Mediated Protein Serotonylation.
+Don't interrupt!
+Protein serotonylation has been implicated in living cells, yet its role remains poorly defined because of the lack of characterization tools.
+We synthesized a serotonin derivative to enable selective tagging of serotonylation and to investigate its effect on Ras; the latter displayed undisrupted interaction with Raf-1 at the Ras binding domain.

@@ -1,0 +1,10 @@
+Effects of venlafaxine on extracellular concentrations of 5-HT and noradrenaline in the rat frontal cortex: augmentation via 5-HT1A receptor antagonism.
+Venlafaxine is a novel serotonin/noradrenaline reuptake inhibitor (SNRI) which has been shown clinically to be an effective antidepressant (AD) with a faster onset of action than serotonin specific reuptake inhibitors (SSRI).
+Preclinically, venlafaxine has been shown to potently inhibit dorsal raphe neuronal (DRN) firing through a 5-HT1A mediated mechanism, in a similar manner to SSRIs.
+Here we demonstrate the acute neurochemical effects of venlafaxine on extracellular concentrations of 5-HT and noradrenaline (NA) from the rat frontal cortex using in vivo microdialysis.
+Administration of venlafaxine (3-50 mg/kg s.c.) resulted in a significant dose-dependent increase in extracellular NA, but produced no significant increase in 5-HT concentrations.
+Combination treatment with the selective 5-HT1A antagonist WAY100635 produced a dose-dependent augmentation of venlafaxine-induced (3-30 mg/kg s.c) extracellular 5-HT concentrations, but had no further effect on NA above that produced by venlafaxine alone.
+WAY100635, at doses as low as 0.03 mg/kg s.c., maintained this potentiation effect.
+The beta-adrenergic/5-HT1A receptor antagonist (+/-)pindolol and the selective 5-HT1B/D antagonist GR127935 produced no significant augmentation of venlafaxine-induced changes in either 5-HT or NA.
+Using the alpha1 and alpha2-adrenoceptor antagonists, prazosin and idazoxane, we also demonstrate the role of the alpha-adrenoceptors in the augmentation of venlafaxine-induced changes.
+The possible mechanisms underlying venlafaxines improved clinical AD action and the potential for further enhancement of this SNRIs clinical effects are discussed.

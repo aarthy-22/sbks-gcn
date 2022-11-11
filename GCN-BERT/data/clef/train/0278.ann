@@ -1,0 +1,38 @@
+T0	STARTING_MATERIAL 152 308	Tert-butyl4-(8-((5-chloro-4-((2-(isopropylsulfonyl)phenyl)amino)pyrimid in-2-yl)amino)-6-methyl-2,3-dihydrobenzo[b][1,4]dioxin-5-yl)piperidin-1-car boxylate
+T1	YIELD_OTHER 881 886	50 mg
+T2	YIELD_PERCENT 895 900	65.5%
+T3	OTHER_COMPOUND 830 845	dichloromethane
+T16	WORKUP 587 596	extracted
+T4	OTHER_COMPOUND 786 796	silica gel
+T5	TEMPERATURE 431 447	room temperature
+T17	WORKUP 667 672	dried
+T6	OTHER_COMPOUND 688 703	sodium sulphate
+T7	TIME 452 456	12 h
+T18	REACTION_STEP 855 861	obtain
+T19	REACTION_STEP 419 427	stirring
+T8	OTHER_COMPOUND 602 617	dichloromethane
+T9	REACTION_PRODUCT 19 151	5-chloro-N4-(2-(isopropylsulfonyl)phenyl)-N2-(7-methyl-8-(piperidin-4-yl)-2,3-dihydrobenzo[b][1,4]dioxin-5-yl)pyrimidine-2,4-diamine
+T10	REACTION_PRODUCT 866 879	final product
+T11	EXAMPLE_LABEL 1 3	11
+T12	OTHER_COMPOUND 820 828	methanol
+T20	REACTION_STEP 332 341	dissolved
+T13	SOLVENT 345 360	dichloromethane
+T14	OTHER_COMPOUND 515 520	Water
+T21	WORKUP 774 782	purified
+T15	REAGENT_CATALYST 374 394	trifluoroacetic acid
+T22	REACTION_STEP 406 411	added
+T23	WORKUP 533 538	added
+R0	ARG1 Arg1:T16 Arg2:T8
+R1	ARG1 Arg1:T17 Arg2:T6
+R2	ARG1 Arg1:T18 Arg2:T10
+R3	ARGM Arg1:T18 Arg2:T1
+R4	ARGM Arg1:T18 Arg2:T2
+R5	ARGM Arg1:T19 Arg2:T5
+R6	ARGM Arg1:T19 Arg2:T7
+R7	ARG1 Arg1:T20 Arg2:T13
+R8	ARG1 Arg1:T20 Arg2:T0
+R9	ARG1 Arg1:T21 Arg2:T4
+R10	ARG1 Arg1:T21 Arg2:T12
+R11	ARG1 Arg1:T21 Arg2:T3
+R12	ARG1 Arg1:T22 Arg2:T15
+R13	ARG1 Arg1:T23 Arg2:T14

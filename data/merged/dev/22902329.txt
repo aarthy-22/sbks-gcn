@@ -1,0 +1,11 @@
+Vitamin E deficiency impairs the somatostatinergic receptor-effector system and leads to phosphotyrosine phosphatase overactivation and cell death in the rat hippocampus.
+Vitamin E plays an essential role in maintaining the structure and function of the nervous system, and its deficiency, commonly associated with fat malabsorption diseases, may reduce neuronal survival.
+We previously demonstrated that the somatostatinergic system, implicated in neuronal survival control, can be modulated by α-tocopherol in the rat dentate gyrus, increasing cyclic adenosine monophosphate response element binding protein phosphorylation.
+To gain a better understanding of the molecular actions of tocopherols and examine the link among vitamin E, somatostatin and neuronal survival, we have investigated the effects of a deficiency and subsequent administration of tocopherol on the somatostatin signaling pathway and neuronal survival in the rat hippocampus.
+No changes in somatostatin expression were detected in vitamin-E-deficient rats.
+These rats, however, showed a significant increase in the somatostatin receptor density and dissociation constant, which correlated with a significant increase in the protein levels of somatostatin receptors.
+Nevertheless, vitamin E deficiency impaired the ability of the somatostatin receptors to couple to the effectors adenylyl cyclase and phosphotyrosine phosphatase by diminishing Gi protein functionality.
+Furthermore, vitamin E deficiency significantly increased phosphotyrosine phosphatase activity and PTPη expression, as well as PKCδ activation, and decreased extracellular-signal-regulated kinase phosphorylation.
+All these changes were accompanied by an increase in neuronal cell death.
+Subsequent α-tocopherol administration partially or completely reversed all these values to control levels.
+Altogether, our results prove the importance of vitamin E homeostasis in the somatostatin receptor-effector system and suggest a possible mechanism by which this vitamin may regulate the neuronal cell survival in the adult hippocampus.

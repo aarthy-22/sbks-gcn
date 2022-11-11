@@ -1,0 +1,18 @@
+Nebulized arformoterol in patients with COPD: a 12-week, multicenter, randomized, double-blind, double-dummy, placebo- and active-controlled trial.
+OBJECTIVE: The aim of this study was to assess the efficacy and tolerability of nebulized arformoterol tartrate (a selective, long-acting beta(2)-adrenergic agonist that is the [R,R] isomer of formoterol) and salmeterol xinafoate versus placebo in patients with chronic obstructive pulmonary disease (COPD).
+METHODS: This 12-week, multicenter, randomized, double-blind, double-dummy, placebo- and active-controlled trial was conducted at 60 centers across the United States.
+Male and female patients aged >or=35 years with physician-diagnosed COPD received arformoterol (15 microg BID, 25 microg BID, or 50 microg QD via nebulizer), salmeterol (42 microg BID via metered dose inhaler), or placebo.
+Pulmonary function was assessed by spirometry; dyspnea, by the Transitional Dyspnea Index (TDI); and health status, by the St. George's Respiratory Questionnaire (SGRQ).
+Adverse events (AEs) were assessed by site personnel at all clinic visits (screening, first dose at week 0, and at weeks 3, 6, 9, 12, and follow-up).
+COPD exacerbations were defined as worsening respiratory status requiring a change in medication or an unscheduled provider visit.
+RESULTS: A total of 717 patients received study medication.
+The demographic composition of all treatment arms was similar.
+The mean age was 62.9 years, 58% were men, and mean baseline forced expiratory volume in 1 second (FEV(1)) was 1.2 L (41% predicted).
+Mean improvement in trough FEV(1) over 12 weeks was significantly greater with all 3 arformoterol doses (15 microg BID, +16.9%; 25 microg BID, +18.9%; 50 microg QD, +14.9%) and for salmeterol (+17.4%) relative to placebo (+6.0%; P < 0.001).
+There were significantly greater improvements in the mean percentage change in FEV(1) AUC(0-12h) from the predose value over 12 weeks (15 microg BID, 12.7%, 25 microg BID, 13.9%, 50 microg QD, 18.9%; salmeterol, 9.8%) versus placebo (2.7%; P <or= 0.001); all doses of arformoterol were statistically different from salmeterol for this end point (P <or= 0.024).
+At week 12, TDI focal scores were significantly greater with all arformoterol doses compared with placebo (mean [95% CI]: 15 microg BID, 0.97 [0.25-1.69]; 25 microg BID, 1.08 [0.3-1.86]; 50 microg QD, 1.04 [0.32-1.771), suggesting treatment-associated improvement in dyspnea, however, the difference between salmeterol and placebo was not statistically significant (0.36 [-0.40 to 1.12]).
+Improvements in health status, as measured using SGRQ total scores, were -2.6 to -3.6 U in the arformoterol groups, -4.4 U for salmeterol, and -1.2 U for placebo; 95% CI of differences versus placebo suggested significant improvement for the arformoterol 25 microg BID and salmeterol groups.
+There was a similar frequency of AEs and COPD exacerbations across all groups, including placebo.
+CONCLUSIONS: In this trial, patients with moderate to severe COPD administered nebulized arformoterol over 12 weeks were observed to have significant and sustained improvements in airway function and dyspnea compared with placebo.
+The results also suggest that all doses of arformoterol, including the lowest dose (15 microg BID), were effective.
+Overall, nebulized arformoterol was well tolerated.

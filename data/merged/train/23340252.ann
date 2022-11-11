@@ -1,0 +1,36 @@
+T11	CHEMICAL 34 46	tolylfluanid
+T31	GENE-Y 79 102	glucocorticoid receptor
+T4	CHEMICAL 356 371	phenylsulfamide
+T5	CHEMICAL 382 394	tolylfluanid
+T24	GENE-Y 409 432	glucocorticoid receptor
+T25	GENE-Y 434 436	GR
+T26	GENE-N 511 518	insulin
+T6	CHEMICAL 738 752	corticosterone
+T7	CHEMICAL 754 758	Cort
+T8	CHEMICAL 846 852	serine
+T27	GENE-Y 872 874	GR
+T28	GENE-N 957 989	glucocorticoid response elements
+T9	CHEMICAL 1020 1027	leucine
+T29	GENE-N 1020 1048	leucine zipper gene promoter
+T10	CHEMICAL 1073 1077	Cort
+T30	GENE-Y 1093 1121	insulin receptor substrate-1
+T12	GENE-Y 1123 1128	IRS-1
+T13	GENE-Y 1190 1192	GR
+T14	GENE-N 1218 1249	glucocorticoid response element
+T15	GENE-Y 1257 1262	IRS-1
+T1	CHEMICAL 1275 1279	Cort
+T16	GENE-N 1295 1302	insulin
+T17	GENE-N 1401 1408	insulin
+T2	CHEMICAL 1441 1458	acetyl-coenzyme A
+T18	GENE-N 1441 1470	acetyl-coenzyme A carboxylase
+T19	GENE-N 1492 1499	insulin
+T20	GENE-N 1570 1573	Akt
+T21	GENE-Y 1636 1641	IRS-1
+T22	GENE-N 1703 1710	insulin
+T3	CHEMICAL 1772 1776	Cort
+T23	GENE-Y 1861 1863	GR
+R0	CPR-1 Arg1:T8 Arg2:T27
+R1	CPR-3 Arg1:T10 Arg2:T12
+R2	CPR-4 Arg1:T1 Arg2:T18
+R3	NOT Arg1:T1 Arg2:T17
+R4	NOT Arg1:T17 Arg2:T2

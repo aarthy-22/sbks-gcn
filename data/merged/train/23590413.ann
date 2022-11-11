@@ -1,0 +1,20 @@
+T11	CHEMICAL 0 13	Canagliflozin
+T12	CHEMICAL 32 46	sodium-glucose
+T18	GENE-Y 32 62	sodium-glucose cotransporter 2
+T4	CHEMICAL 125 138	Canagliflozin
+T8	CHEMICAL 165 179	sodium glucose
+T16	GENE-Y 165 195	sodium glucose cotransporter 2
+T3	CHEMICAL 253 266	Canagliflozin
+T15	GENE-Y 299 306	insulin
+T5	CHEMICAL 349 356	glucose
+T6	CHEMICAL 529 542	canagliflozin
+T7	CHEMICAL 611 624	canagliflozin
+T9	CHEMICAL 695 708	canagliflozin
+T10	CHEMICAL 774 787	Canagliflozin
+T17	GENE-Y 828 833	HbA1c
+T13	GENE-N 1187 1210	low-density lipoprotein
+T1	CHEMICAL 1211 1222	cholesterol
+T14	GENE-N 1224 1227	LDL
+T2	CHEMICAL 1272 1285	Canagliflozin
+R0	CPR-4 Arg1:T4 Arg2:T16
+R1	NOT Arg1:T1 Arg2:T14

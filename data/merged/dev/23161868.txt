@@ -1,0 +1,11 @@
+Ras-dva is a novel Pit-1- and glucocorticoid-regulated gene in the embryonic anterior pituitary gland.
+Glucocorticoids play a role in functional differentiation of pituitary somatotrophs and lactotrophs during embryogenesis.
+Ras-dva was identified as a gene regulated by anterior neural fold protein-1/homeobox expressed in embryonic stem cells-1, a transcription factor known to be critical in pituitary development, and has an expression profile in the chicken embryonic pituitary gland that is consistent with in vivo regulation by glucocorticoids.
+The objective of this study was to characterize expression and regulation of ras-dva mRNA in the developing chicken anterior pituitary.
+Pituitary ras-dva mRNA levels increased during embryogenesis to a maximum on embryonic day (e) 18 and then decreased and remained low or undetectable after hatch.
+Ras-dva expression was highly enriched in the pituitary gland on e18 relative to other tissues examined.
+Glucocorticoid treatment of pituitary cells from mid- and late-stage embryos rapidly increased ras-dva mRNA, suggesting it may be a direct transcriptional target of glucocorticoids.
+A reporter construct driven by 4 kb of the chicken ras-dva 5'-flanking region, containing six putative pituitary-specific transcription factor-1 (Pit-1) binding sites and two potential glucocorticoid receptor (GR) binding sites, was highly activated in embryonic pituitary cells and up-regulated by corticosterone.
+Mutagenesis of the most proximal Pit-1 site decreased promoter activity in chicken e11 pituitary cells, indicating regulation of ras-dva by Pit-1.
+However, mutating putative GR binding sites did not substantially reduce induction of ras-dva promoter activity by corticosterone, suggesting additional DNA elements within the 5'-flanking region are responsible for glucocorticoid regulation.
+We have identified ras-dva as a glucocorticoid-regulated gene that is likely expressed in cells of the Pit-1 lineage within the developing anterior pituitary gland.

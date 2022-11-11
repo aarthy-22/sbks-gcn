@@ -1,0 +1,856 @@
+T1	OTHER_COMPOUND 238 242	hair
+T2	OTHER_COMPOUND 793 798	water
+T3	OTHER_COMPOUND 1029 1038	oxidizing
+T4	OTHER_COMPOUND 3060 3066	alkali
+T5	OTHER_COMPOUND 3090 3097	ammonia
+T6	OTHER_COMPOUND 3291 3308	hydrogen peroxide
+T7	OTHER_COMPOUND 3319 3326	ammonia
+T8	OTHER_COMPOUND 4227 4236	oxidising
+T9	OTHER_COMPOUND 4247 4254	ammonia
+T10	OTHER_COMPOUND 4393 4400	ammonia
+T11	OTHER_COMPOUND 4484 4491	ammonia
+T12	OTHER_COMPOUND 5444 5453	oxidizing
+T13	OTHER_COMPOUND 5897 5900	dye
+T14	OTHER_COMPOUND 6655 6658	dye
+T15	OTHER_COMPOUND 7071 7080	oxidizing
+T16	OTHER_COMPOUND 7717 7720	gel
+T17	OTHER_COMPOUND 8093 8099	virgin
+T18	OTHER_COMPOUND 8460 8477	hydrogen peroxide
+T19	OTHER_COMPOUND 8482 8491	carbonate
+T20	OTHER_COMPOUND 9059 9062	gel
+T21	OTHER_COMPOUND 9134 9148	polysaccharide
+T22	OTHER_COMPOUND 9243 9255	professional
+T23	OTHER_COMPOUND 9448 9457	oxidizing
+T24	OTHER_COMPOUND 9562 9568	C14 to
+T25	OTHER_COMPOUND 9589 9592	C14
+T26	OTHER_COMPOUND 9679 9682	C14
+T27	OTHER_COMPOUND 9696 9704	alcohols
+T28	OTHER_COMPOUND 9766 9785	polyoxyethylene C14
+T29	OTHER_COMPOUND 10091 10097	polyol
+T30	OTHER_COMPOUND 10112 10127	propyleneglycol
+T31	OTHER_COMPOUND 10129 10143	butoxydiglycol
+T32	OTHER_COMPOUND 10145 10159	ethoxydiglycol
+T33	OTHER_COMPOUND 10161 10176	hexylene glycol
+T34	OTHER_COMPOUND 10178 10196	dipropylene glycol
+T35	OTHER_COMPOUND 10198 10206	glycerol
+T36	OTHER_COMPOUND 10208 10220	polyglycerol
+T37	TIME 10545 10549	2 to
+T38	TIME 10550 10560	60 minutes
+T39	OTHER_COMPOUND 11312 11319	keratin
+T40	OTHER_COMPOUND 12130 12134	hair
+T41	OTHER_COMPOUND 12439 12444	water
+T42	OTHER_COMPOUND 12463 12472	oxidizing
+T43	OTHER_COMPOUND 12606 12615	oxidizing
+T44	OTHER_COMPOUND 12663 12668	water
+T45	OTHER_COMPOUND 12761 12768	melanin
+T46	OTHER_COMPOUND 12827 12830	dye
+T47	OTHER_COMPOUND 13004 13023	inorganic peroxygen
+T48	OTHER_COMPOUND 13054 13071	hydrogen peroxide
+T49	OTHER_COMPOUND 13078 13085	aqueous
+T50	OTHER_COMPOUND 13096 13101	Water
+T51	OTHER_COMPOUND 13110 13129	peroxygen oxidizing
+T52	OTHER_COMPOUND 13155 13158	the
+T53	OTHER_COMPOUND 13175 13192	hydrogen peroxide
+T54	OTHER_COMPOUND 13194 13203	inorganic
+T55	OTHER_COMPOUND 13204 13226	alkali metal peroxides
+T56	OTHER_COMPOUND 13235 13251	sodium periodate
+T57	REAGENT_CATALYST 13256 13271	sodium peroxide
+T58	OTHER_COMPOUND 13302 13315	urea peroxide
+T59	OTHER_COMPOUND 13317 13325	melamine
+T60	OTHER_COMPOUND 13399 13405	alkali
+T61	OTHER_COMPOUND 13421 13431	perborates
+T62	OTHER_COMPOUND 13574 13587	tetrahydrates
+T63	OTHER_COMPOUND 13593 13598	Alkyl
+T64	OTHER_COMPOUND 13603 13617	aryl peroxides
+T65	OTHER_COMPOUND 13685 13694	oxidizing
+T66	OTHER_COMPOUND 13766 13773	aqueous
+T67	OTHER_COMPOUND 13908 13925	hydrogen peroxide
+T68	OTHER_COMPOUND 13927 13939	percarbonate
+T69	OTHER_COMPOUND 14007 14016	carbonate
+T70	OTHER_COMPOUND 14029 14037	ammonium
+T71	OTHER_COMPOUND 14043 14057	, persulphates
+T72	OTHER_COMPOUND 14428 14431	gel
+T73	OTHER_COMPOUND 14538 14541	dye
+T74	OTHER_COMPOUND 14797 14800	C14
+T75	OTHER_COMPOUND 14804 14813	C30 alkyl
+T76	OTHER_COMPOUND 14826 14829	C14
+T77	OTHER_COMPOUND 14918 14921	C14
+T78	OTHER_COMPOUND 14925 14928	C30
+T79	OTHER_COMPOUND 14929 14943	fatty alcohols
+T80	OTHER_COMPOUND 15001 15020	polyoxyethylene C14
+T81	OTHER_COMPOUND 15172 15174	bi
+T82	OTHER_COMPOUND 15491 15508	hydrogen peroxide
+T83	OTHER_COMPOUND 15527 15530	gel
+T84	OTHER_COMPOUND 16331 16334	dye
+T85	OTHER_COMPOUND 16392 16402	surfactant
+T86	OTHER_COMPOUND 16436 16445	oxidizing
+T87	OTHER_COMPOUND 16625 16628	gel
+T88	OTHER_COMPOUND 16671 16674	C14
+T89	OTHER_COMPOUND 16694 16697	C14
+T90	OTHER_COMPOUND 16722 16725	C14
+T91	OTHER_COMPOUND 16729 16732	C30
+T92	OTHER_COMPOUND 16745 16764	C14-C18 alkyl ether
+T93	REACTION_PRODUCT 16815 16826	alkyl ether
+T94	OTHER_COMPOUND 16926 16940	ethylene oxide
+T95	OTHER_COMPOUND 17052 17062	surfactant
+T96	OTHER_COMPOUND 17187 17197	surfactant
+T97	OTHER_COMPOUND 17589 17592	C14
+T98	OTHER_COMPOUND 17596 17613	C30 fatty alcohol
+T99	OTHER_COMPOUND 17694 17700	cetyl,
+T100	OTHER_COMPOUND 17710 17721	cetostearyl
+T101	OTHER_COMPOUND 17725 17741	behenyl alcohols
+T102	OTHER_COMPOUND 17888 17901	fatty alcohol
+T103	OTHER_COMPOUND 17993 17996	dye
+T104	OTHER_COMPOUND 18016 18025	oxidizing
+T105	OTHER_COMPOUND 18359 18362	gel
+T106	OTHER_COMPOUND 18429 18448	polyoxyethylene C14
+T107	OTHER_COMPOUND 18456 18468	alkyl ethers
+T108	OTHER_COMPOUND 18493 18510	polyethyleneoxide
+T109	OTHER_COMPOUND 18627 18641	ethylene oxide
+T110	OTHER_COMPOUND 18678 18690	ceteareth-25
+T111	OTHER_COMPOUND 18692 18704	steareth-100
+T112	OTHER_COMPOUND 18706 18718	steareth-150
+T113	OTHER_COMPOUND 18720 18732	steareth-200
+T114	OTHER_COMPOUND 18832 18835	gel
+T115	OTHER_COMPOUND 19412 19422	surfactant
+T116	OTHER_COMPOUND 19578 19592	Polysaccharide
+T117	OTHER_COMPOUND 19635 19649	polysaccharide
+T118	OTHER_COMPOUND 19716 19723	glucans
+T119	OTHER_COMPOUND 19939 19950	amylopectin
+T120	OTHER_COMPOUND 19952 19970	glycogen, dextrans
+T121	OTHER_COMPOUND 19972 19982	celluloses
+T122	OTHER_COMPOUND 20008 20048	methylcelluloses, hydroxyalkylcelluloses
+T123	OTHER_COMPOUND 20050 20078	ethyl hydroxyethylcelluloses
+T124	OTHER_COMPOUND 20171 20177	chitin
+T125	OTHER_COMPOUND 20235 20247	glucomannans
+T126	OTHER_COMPOUND 20266 20273	pectins
+T127	OTHER_COMPOUND 20275 20287	alginic acid
+T128	OTHER_COMPOUND 20292 20301	alginates
+T129	OTHER_COMPOUND 20430 20444	galactomannans
+T130	OTHER_COMPOUND 20454 20458	guar
+T131	OTHER_COMPOUND 20499 20517	hydroxypropyl guar
+T132	OTHER_COMPOUND 20552 20559	xanthan
+T133	OTHER_COMPOUND 20579 20584	welan
+T134	OTHER_COMPOUND 20585 20589	gums
+T135	OTHER_COMPOUND 21126 21140	polysaccharide
+T136	OTHER_COMPOUND 21204 21211	xanthan
+T137	OTHER_COMPOUND 21217 21223	gellan
+T138	OTHER_COMPOUND 21229 21234	welan
+T139	OTHER_COMPOUND 21240 21252	scleroglucan
+T140	OTHER_COMPOUND 21256 21269	succinoglycan
+T141	OTHER_COMPOUND 21316 21326	Keltrol® T
+T142	OTHER_COMPOUND 21334 21347	company Kelco
+T143	OTHER_COMPOUND 21382 21390	Rheozan®
+T144	OTHER_COMPOUND 21461 21468	xanthan
+T145	OTHER_COMPOUND 21477 21490	succinogylcan
+T146	OTHER_COMPOUND 21529 21540	xanthan gum
+T147	OTHER_COMPOUND 21632 21646	polysaccharide
+T148	OTHER_COMPOUND 21694 21708	polysaccharide
+T149	OTHER_COMPOUND 21934 21940	Polyol
+T150	OTHER_COMPOUND 22142 22148	polyol
+T151	OTHER_COMPOUND 22185 22200	propyleneglycol
+T152	OTHER_COMPOUND 22202 22216	butoxydiglycol
+T153	OTHER_COMPOUND 22218 22232	ethoxydiglycol
+T154	OTHER_COMPOUND 22234 22249	hexylene glycol
+T155	OTHER_COMPOUND 22251 22269	dipropylene glycol
+T156	OTHER_COMPOUND 22271 22279	glycerol
+T157	OTHER_COMPOUND 22332 22338	polyol
+T158	OTHER_COMPOUND 22342 22358	propylene glycol
+T159	OTHER_COMPOUND 22508 22516	required
+T160	OTHER_COMPOUND 23122 23137	sodium sulphate
+T161	OTHER_COMPOUND 23154 23172	ammonium carbonate
+T162	OTHER_COMPOUND 23177 23185	chelants
+T163	OTHER_COMPOUND 23194 23198	EDDS
+T164	OTHER_COMPOUND 23674 23677	H2O
+T165	OTHER_COMPOUND 23807 23822	sodium chloride
+T166	OTHER_COMPOUND 23882 23887	MgSO4
+T167	OTHER_COMPOUND 24049 24055	Na2SO4
+T168	OTHER_COMPOUND 24068 24072	NaCl
+T169	TEMPERATURE 24322 24324	10
+T170	OTHER_COMPOUND 24957 24966	carbonate
+T171	OTHER_COMPOUND 25204 25219	thiolactic acid
+T172	OTHER_COMPOUND 25320 25322	Al
+T173	OTHER_COMPOUND 25446 25459	ammonium ions
+T174	OTHER_COMPOUND 25467 25474	ammonia
+T175	OTHER_COMPOUND 25554 25562	ammonium
+T176	OTHER_COMPOUND 25583 25596	ammonium ions
+T177	OTHER_COMPOUND 25651 25668	ammonium chloride
+T178	OTHER_COMPOUND 25670 25687	ammonium sulphate
+T179	OTHER_COMPOUND 25689 25705	ammonium nitrate
+T180	OTHER_COMPOUND 25707 25725	ammonium phosphate
+T181	OTHER_COMPOUND 25727 25743	ammonium acetate
+T182	OTHER_COMPOUND 25745 25763	ammonium carbonate
+T183	OTHER_COMPOUND 25765 25792	ammonium hydrogen carbonate
+T184	OTHER_COMPOUND 25794 25812	ammonium carbamate
+T185	OTHER_COMPOUND 25814 25832	ammonium hydroxide
+T186	OTHER_COMPOUND 25834 25855	ammonium percarbonate
+T187	OTHER_COMPOUND 25906 25924	ammonium carbonate
+T188	OTHER_COMPOUND 25926 25944	ammonium carbamate
+T189	OTHER_COMPOUND 25946 25964	ammonium hydroxide
+T190	OTHER_COMPOUND 26199 26212	ammonium ions
+T191	OTHER_COMPOUND 26242 26255	ammonium ions
+T192	OTHER_COMPOUND 26260 26269	carbonate
+T193	OTHER_COMPOUND 26643 26648	MP225
+T194	OTHER_COMPOUND 28053 28065	aminophenols
+T195	OTHER_COMPOUND 28550 28568	p-phenylenediamine
+T196	REACTION_PRODUCT 28587 28606	benzene-1,4-diamine
+T197	STARTING_MATERIAL 28626 28644	p-phenylenediamine
+T198	OTHER_COMPOUND 28647 28675	2-chloro-benzene-1,4-diamine
+T199	STARTING_MATERIAL 28677 28705	N-phenyl-benzene-1,4-diamine
+T200	REACTION_PRODUCT 28707 28743	N-(2-ethoxyethyl)benzene-1,4-diamine
+T201	STARTING_MATERIAL 28745 28797	2-[(4-amino-phenyl)-(2-hydroxy-ethyl)-amino]-ethanol
+T202	STARTING_MATERIAL 28817 28859	N,N-bis(2-hydroxyethyl)-p-phenylenediamine
+T203	STARTING_MATERIAL 28862 28891	(2,5-diamino-phenyl)-methanol
+T204	STARTING_MATERIAL 28893 28931	1-(2'-Hydroxyethyl)-2,5-diaminobenzene
+T205	STARTING_MATERIAL 28933 28963	2-(2,5-diamino-phenyl)-ethanol
+T206	STARTING_MATERIAL 28965 29001	N-(4-aminophenyl)benzene-1,4-diamine
+T207	OTHER_COMPOUND 29003 29035	2,6-dimethyl-benzene-1,4-diamine
+T208	STARTING_MATERIAL 29037 29068	2-isopropyl-benzene-1,4-diamine
+T209	STARTING_MATERIAL 29070 29106	1-[(4-aminophenyl)amino]-propan-2-ol
+T210	STARTING_MATERIAL 29108 29136	2-propyl-benzene-1,4-diamine
+T211	OTHER_COMPOUND 29138 29194	1,3-bis[(4-aminophenyl)(2-hydroxyethyl)amino]propan-2-ol
+T212	STARTING_MATERIAL 29196 29232	N4,N4,2-trimethylbenzene-1,4-diamine
+T213	OTHER_COMPOUND 29234 29263	2-methoxy-benzene-1,4-diamine
+T214	OTHER_COMPOUND 29303 29335	2,3-dimethyl-benzene-1,4-diamine
+T215	OTHER_COMPOUND 29337 29375	N-(4-amino-3-hydroxy-phenyl)-acetamide
+T216	OTHER_COMPOUND 29377 29407	2,6-diethylbenzene-1,4-diamine
+T217	OTHER_COMPOUND 29409 29440	2,5-dimethylbenzene-1,4-diamine
+T218	OTHER_COMPOUND 29442 29473	2-thien-2-ylbenzene-1,4-diamine
+T219	OTHER_COMPOUND 29475 29506	2-thien-3-ylbenzene-1,4-diamine
+T220	OTHER_COMPOUND 29508 29541	2-pyridin-3-ylbenzene-1,4-diamine
+T221	REACTION_PRODUCT 29543 29568	1,1'-biphenyl-2,5-diamine
+T222	OTHER_COMPOUND 29570 29606	2-(methoxymethyl)benzene-1,4-diamine
+T223	OTHER_COMPOUND 29608 29642	2-(aminomethyl)benzene-1,4-diamine
+T224	OTHER_COMPOUND 29675 29716	N-[2-(2,5-diaminophenoxy)ethyl]-acetamide
+T225	OTHER_COMPOUND 29718 29749	N,N-dimethylbenzene-1,4-diamine
+T226	OTHER_COMPOUND 29751 29781	N,N-diethylbenzene-1,4-diamine
+T227	OTHER_COMPOUND 29783 29814	N,N-dipropylbenzene-1,4-diamine
+T228	REACTION_PRODUCT 29816 29854	2-[(4-aminophenyl)(ethyl)amino]ethanol
+T229	REACTION_PRODUCT 29959 29994	3-[(4-aminophenyl)amino]propan-1-ol
+T230	OTHER_COMPOUND 29996 30037	3-[(4-aminophenyl)-amino]propane-1,2-diol
+T231	REACTION_PRODUCT 30039 30092	N- {4-[(4-aminophenyl)amino]butyl}benzene-1,4-diamine
+T232	STARTING_MATERIAL 30094 30171	2-[2-(2- {2-[(2,5-diaminophenyl)-oxy]ethoxy}ethoxy)ethoxy]benzene-1,4-diamine
+T233	OTHER_COMPOUND 30173 30234	1,3-bis(N(2-Hydroxyethyl)-N-(4-amino-phenyl)amino)-2-propanol
+T234	REACTION_PRODUCT 30346 30360	4-amino-phenol
+T235	OTHER_COMPOUND 30380 30393	p-aminophenol
+T236	OTHER_COMPOUND 30396 30416	4-methylamino-phenol
+T237	REACTION_PRODUCT 30418 30441	4-amino-3-methyl-phenol
+T238	REACTION_PRODUCT 30443 30473	4-amino-2-hydroxymethyl-phenol
+T239	REACTION_PRODUCT 30475 30498	4-amino-2-methyl-phenol
+T240	REACTION_PRODUCT 30500 30587	4-amino-1-hydroxy-2-(2'-hydroxyethylaminomethyl)benzene; 4-amino-2-methoxymethyl-phenol
+T241	REACTION_PRODUCT 30589 30619	5-amino-2-hydroxy-benzoic acid
+T242	REACTION_PRODUCT 30621 30701	1-(5-amino-2-hydroxy-phenyl)-ethane-1,2-diol; 4-amino-2-(2-hydroxy-ethyl)-phenol
+T243	REACTION_PRODUCT 30703 30734	4-amino-3-(hydroxymethyl)phenol
+T244	REACTION_PRODUCT 30736 30759	4-amino-3-fluoro-phenol
+T245	REACTION_PRODUCT 30761 30791	4-amino-2-(aminomethyl)-phenol
+T246	REACTION_PRODUCT 30793 30816	4-amino-2-fluoro-phenol
+T247	OTHER_COMPOUND 30818 30846	1-hydroxy-2,4-diaminobenzene
+T248	OTHER_COMPOUND 30848 30866	o-phenylenediamine
+T249	OTHER_COMPOUND 30888 30906	3,4-Diaminobenzoic
+T250	OTHER_COMPOUND 30931 30944	o-aminophenol
+T251	OTHER_COMPOUND 30966 30980	2-amino-phenol
+T252	OTHER_COMPOUND 31000 31013	o-aminophenol
+T253	OTHER_COMPOUND 31016 31033	2,4-diaminophenol
+T254	REACTION_PRODUCT 31035 31058	2-amino-5-methyl-phenol
+T255	OTHER_COMPOUND 31060 31082	2-amino-5-ethyl-phenol
+T256	OTHER_COMPOUND 31084 31107	2-amino-6-methyl-phenol
+T257	OTHER_COMPOUND 31109 31146	N-(4-amino-3-hydroxyphenyl)-acetamide
+T258	OTHER_COMPOUND 31152 31175	2-amino-4-methyl-phenol
+T259	STARTING_MATERIAL 31215 31243	pyrimidine-2,4,5,6-tetramine
+T260	STARTING_MATERIAL 31294 31326	1-methyl-1H-pyrazole-4,5-diamine
+T261	STARTING_MATERIAL 31328 31366	2-(4,5-diamino-1H-pyrazol-1-yl)ethanol
+T262	STARTING_MATERIAL 31368 31403	N2,N2-dimethyl-pyridine-2,5-diamine
+T263	REACTION_PRODUCT 31405 31452	2-[(3-amino-6-methoxypyridin-2-yl)amino]ethanol
+T264	STARTING_MATERIAL 31454 31494	6-methoxy-N2-methyl-pyridine-2,3-diamine
+T265	STARTING_MATERIAL 31496 31529	2,5,6-triaminopyrimidin-4(1H)-one
+T266	REACTION_PRODUCT 31590 31632	1-(4-methylbenzyl)-1H-pyrazole-4,5-diamine
+T267	REACTION_PRODUCT 31670 31712	1-(4-chlorobenzyl)-1H-pyrazole-4,5-diamine
+T268	REACTION_PRODUCT 31754 31803	5,6,7-trimethylpyrazolo[1,5-a]pyrimidin-3-ylamine
+T269	REACTION_PRODUCT 31819 31875	7-methylpyrazolo[1,5-a]pyrimidin-3-ylamine hydrochloride
+T270	REACTION_PRODUCT 31877 31944	2,5,6,7-teramethyl-pyrazolo[1,5-a]pyrimidin-3-ylamine hydrochloride
+T271	REACTION_PRODUCT 31946 32012	5,7-di-tert-butylpyrazolo[1,5-a]pyrimidin-3-ylamine hydrochloride;
+T272	REACTION_PRODUCT 32013 32084	5,7-di-trifluoromethyl-pyrazolo[1,5-a]pyrimidin-3-ylamine hydrochloride
+T273	REACTION_PRODUCT 32086 32144	2-methylpyrazolo[1,5-a]pyrimidin-3,7-diamine hydrochloride
+T274	REACTION_PRODUCT 32146 32180	4-hydroxy-2,5,6-triaminopyrimidine
+T275	REACTION_PRODUCT 32182 32216	1-hydroxyethyl-4,5-diaminopyrazole
+T276	REACTION_PRODUCT 32218 32248	2,5-diaminophenylethyl alcohol
+T277	REACTION_PRODUCT 32333 32370	N-(3-furylmethyl)benzene-1,4-diamine;
+T278	REACTION_PRODUCT 32371 32412	N-thiophen-3-ylmethyl-benzene-1,4-diamine
+T279	REACTION_PRODUCT 32414 32450	N-(2-furylmethyl)benzene-1,4-diamine
+T280	REACTION_PRODUCT 32452 32493	N-thiophen-2-ylmethyl-benzene-1,4-diamine
+T281	REACTION_PRODUCT 32495 32536	3-(2,5-diamino-phenyl)-N-ethyl-acrylamide
+T282	REACTION_PRODUCT 32538 32594	2-[3-(3-amino-phenylamino)-propenyl]-benzene-1,4-diamine
+T283	REACTION_PRODUCT 32596 32652	2-[3-(4-amino-phenylamino)-propenyl]-benzene-1,4-diamine
+T284	REACTION_PRODUCT 32654 32699	2-(6-methyl-pyridin-2-yl)-benzene-1,4-diamine
+T285	REACTION_PRODUCT 32701 32736	2-pyridin-2-yl-benzene-1,4-diamine;
+T286	REACTION_PRODUCT 32737 32851	2-[3-(4-amino-phenylamino)-propenyl]-benzene-1,4-diamine; 2-[3-(3-amino-phenylamino)-propenyl]-benzene-1,4-diamine
+T287	REACTION_PRODUCT 32853 32990	3-(2,5-diamino-phenyl)-N-ethylacrylamide; 2-thiazol-2-yl-benzene-1,4-diamine; 4-hydroxy-benzoic acid (2,5-diamino-benzylidene)-hydrazide;
+T288	REACTION_PRODUCT 32991 33021	3'-fluoro-biphenyl-2,5-diamine
+T289	REACTION_PRODUCT 33023 33053	2-propenyl-benzene-1,4-diamine
+T290	REACTION_PRODUCT 33055 33086	2'-chloro-biphenyl-2,5-diamine;
+T291	REACTION_PRODUCT 33087 33129	N-thiophen-3-ylmethyl-benzene-1,4-diamine;
+T292	REACTION_PRODUCT 33130 33166	N-(3-furylmethyl)benzene-1,4-diamine
+T293	REACTION_PRODUCT 33168 33199	4'-methoxy-biphenyl-2,5-diamine
+T294	REACTION_PRODUCT 33201 33239	N-(4-amino-benzyl)-benzene-1,4-diamine
+T295	REACTION_PRODUCT 33241 33290	2-methyl-5-[(1-H-pyrrol-2-ylmethyl)-amino]-phenol
+T296	REACTION_PRODUCT 33292 33336	5-[(furan-2-ylmethyl)-amino]-2-methyl-phenol
+T297	REACTION_PRODUCT 33338 33410	5-isopropylamino-2-methyl-phenol; biphenyl-2,4,4'-triamine hydrochloride
+T298	REACTION_PRODUCT 33412 33475	5-(4-amino-phenyl)aminomethyl-benzene-1,3-diamine hydrochloride
+T299	REACTION_PRODUCT 33477 33530	5-phenylaminomethyl-benzene-1,3-diamine hydrochloride
+T300	REACTION_PRODUCT 33532 33601	2-[4-amino-2-(3,5-diamino-benzylamino)-phenoxy]-ethanol hydrochloride
+T301	REACTION_PRODUCT 33603 33666	5-(3-amino-phenyl)aminomethyl-benzene-1,3-diamine hydrochloride
+T302	REACTION_PRODUCT 33668 33720	N-(2-amino-benzyl)-benzene-1,3-diamine hydrochloride
+T303	REACTION_PRODUCT 33722 33774	N-furan-2-ylmethyl-benzene-1,3-diamine hydrochloride
+T304	REACTION_PRODUCT 33776 33830	2-[(3-amino-phenylamino)-methyl]-phenol hydrochloride;
+T305	REACTION_PRODUCT 33831 33930	4-amino-2-propylaminomethyl-phenol; N-benzo[1,3]dioxol-5-ylmethyl-benzene-1,3-diamine hydrochloride
+T306	REACTION_PRODUCT 33932 34020	N-[4-amino-2-(2-hydroxy-ethyl)-2H-pyrazol-3-yl]-3-(5-amino-2-hydroxy-phenyl)-acrylamide;
+T307	REACTION_PRODUCT 34021 34062	4-amino-2-(isopropylamino-methyl)-phenol;
+T308	REACTION_PRODUCT 34063 34098	4-thiophen-3-yl-benzene-1,3-diamine
+T309	REACTION_PRODUCT 34100 34153	5-phenylaminomethyl-benzene-1,3-diamine hydrochloride
+T310	REACTION_PRODUCT 34155 34203	5-(3-aminophenyl)aminomethyl-benzene-1,3-diamine
+T311	REACTION_PRODUCT 34219 34255	4-thiophen-3-yl-benzene-1,3-diamine;
+T312	REACTION_PRODUCT 34256 34283	2',4'-diamino-biphenyl-4-ol
+T313	REACTION_PRODUCT 34285 34353	5-cyclobutylamino-2-methyl-phenol; 5-cyclobutylamino-2-methylphenol;
+T314	REACTION_PRODUCT 34354 34397	4-amino-2-(pyridin-3-ylaminomethyl)-phenol;
+T315	REACTION_PRODUCT 34398 34461	5-(3-amino-phenyl)aminomethyl-benzene-1,3-diamine hydrochloride
+T316	REACTION_PRODUCT 34463 34515	5-allylaminomethyl-benzene-1,3-diamine hydrochloride
+T317	REACTION_PRODUCT 34517 34569	N-(4-amino-benzyl)-benzene-1,3-diamine hydrochloride
+T318	REACTION_PRODUCT 34571 34599	N-benzyl-benzene-1,3-diamine
+T319	REACTION_PRODUCT 34615 34668	3-[(3-amino-phenylamino)-methyl]-phenol hydrochloride
+T320	REACTION_PRODUCT 34670 34723	N-(4-methoxybenzyl)-benzene-1,3-diamine hydrochloride
+T321	REACTION_PRODUCT 34725 34780	N-thiophen-2-ylmethyl-benzene-1,3-diamine hydrochloride
+T322	REACTION_PRODUCT 34782 34908	4-Amino-2-[(2-hydroxy-5-nitro-phenylamino)-methyl]-phenol; 2',4'- diaminobiphenyl-4-ol hydrochloride; biphenyl-2,4,4'-triamine
+T323	REACTION_PRODUCT 34910 34973	5-(4-amino-phenyl)aminomethyl-benzene-1,3-diamine hydrochloride
+T324	REACTION_PRODUCT 34975 35044	2-[4-amino-2-(3,5-diamino-benzylamino)-phenoxy]-ethanol hydrochloride
+T325	REACTION_PRODUCT 35046 35099	5-allylaminomethyl-benzene-1,3-diamine hydrochloride;
+T326	REACTION_PRODUCT 35100 35162	5-(3-aminophenyl)aminomethyl-benzene-1,3-diamine hydrochloride
+T327	REACTION_PRODUCT 35164 35216	N-(4-amino-benzyl)-benzene-1,3-diamine hydrochloride
+T328	REACTION_PRODUCT 35218 35260	N-benzyl-benzene-1,3-diamine hydrochloride
+T329	REACTION_PRODUCT 35262 35315	3-[(3-amino-phenylamino)-methyl]-phenol hydrochloride
+T330	REACTION_PRODUCT 35317 35369	N-(2-amino-benzyl)-benzene-1,3-diamine hydrochloride
+T331	REACTION_PRODUCT 35371 35411	N-(4-methoxy-benzyl)-benzene-1,3-diamine
+T332	REACTION_PRODUCT 35425 35479	; N-furan-2-ylmethyl-benzene-1,3-diamine hydrochloride
+T333	REACTION_PRODUCT 35481 35520	2-[(3-amino-phenylamino)-methyl]-phenol
+T334	REACTION_PRODUCT 35536 35591	N-thiophen-2-ylmethyl-benzene-1,3-diamine hydrochloride
+T335	STARTING_MATERIAL 35593 35642	N-benzo[1,3]dioxol-5-ylmethyl-benzene-1,3-diamine
+T336	REACTION_PRODUCT 35658 35759	N-[4-amino-2-(2-hydroxy-ethyl)-2H-pyrazol-3-yl]-3-(5-amino-2-hydroxy-phenyl)-acrylamide hydrochloride
+T337	REACTION_PRODUCT 35761 35796	4-amino-2-propylaminomethyl-phenol;
+T338	STARTING_MATERIAL 35926 35975	2-methyl-5-[(1-H-pyrrol-2-ylmethyl)-amino]-phenol
+T339	REACTION_PRODUCT 36023 36090	5-isopropylamino-2-methyl-phenol; 5-cyclobutylamino-2-methyl-phenol
+T340	STARTING_MATERIAL 36092 36134	4-amino-2-(pyridin-3-ylaminomethyl)-phenol
+T341	OTHER_COMPOUND 36171 36218	4,5-diamino-l-methyl-1H-pyrazole-3-carbonitrile
+T342	OTHER_COMPOUND 36220 36262	3-methoxy-1-propyl-1H-pyrazole-4,5-diamine
+T343	REACTION_PRODUCT 36264 36316	3-methoxy-1-(2-methoxyethyl)-1H-pyrazole-4,5-diamine
+T344	REACTION_PRODUCT 36318 36439	1-(2-aminoethyl)-3-methoxy-1H-pyrazole-4,5-diamine; 8-methoxy-1,2,4,5-tetrahydropyrazolo[5,1-d][1,3,5]oxadiazepin-9-amine
+T345	REACTION_PRODUCT 36441 36493	1-(2-hydroxyethyl)-3-methoxy-1H-pyrazol-4,5-diamine;
+T346	REACTION_PRODUCT 36494 36540	1-cyclohexyl-3-methoxy-1H-pyrazole-4,5-diamine
+T347	REACTION_PRODUCT 36542 36605	6-methoxy-1-methyl-2,3-dihydro-1H-imidazo[1,2-b]pyrazol-7-amine
+T348	REACTION_PRODUCT 36607 36667	2-methoxy-4,5,6,7-tetrahydropyrazolo[1,5-a]pyrimidin-3-amine
+T349	STARTING_MATERIAL 36669 36710	3-methoxy-1-octyl-1H-pyrazole-4,5-diamine
+T350	STARTING_MATERIAL 36712 36754	3-methoxy-1-pentyl-1H-pyrazole-4,5-diamine
+T351	STARTING_MATERIAL 36756 36810	6-methoxy-2,3-dihydro-1H-imidazo[1,2-b]pyrazol-7-amine
+T352	REACTION_PRODUCT 36812 36870	3-methoxy-N5,N5-dimethyl-1-propyl-1H-pyrazole-4,5-diamine;
+T353	OTHER_COMPOUND 36914 36955	1-butyl-3-methoxy-1H-pyrazole-4,5-diamine
+T354	REACTION_PRODUCT 36957 37002	1-isopropyl-3-methoxy-1H-pyrazole-4,5-diamine
+T355	REACTION_PRODUCT 37004 37045	1-ethyl-3-methoxy-1H-pyrazole-4,5-diamine
+T356	OTHER_COMPOUND 37047 37100	3-methoxy-1-(4-methoxybenzyl)-1H-pyrazole-4,5-diamine
+T357	OTHER_COMPOUND 37102 37152	3-methoxy-1-(pyridin-2-yl)-1H-pyrazole-4,5-diamine
+T358	OTHER_COMPOUND 37154 37205	1-(4-ethylphenyl)-3-methoxy-1H-pyrazole-4,5-diamine
+T359	OTHER_COMPOUND 37207 37250	3-methoxy-1-p-tolyl-1H-pyrazole-4,5-diamine
+T360	OTHER_COMPOUND 37304 37343	1-butyl-3-cyano-1H-pyrazole-4,5-diamine
+T361	OTHER_COMPOUND 37345 37384	3-cyano-1-phenyl-1H-pyrazol-4,5-diamine
+T362	OTHER_COMPOUND 37426 37464	1-butyl-3-cyano-1H-pyrazol-4,5-diamine
+T363	REACTION_PRODUCT 37466 37516	3-cyano-1-(4-methoxybenzyl)-1H-pyrazol-4,5-diamine
+T364	REACTION_PRODUCT 37518 37561	3-cyano-1-isopropyl-1H-pyrazol-4,5-diamine;
+T365	REACTION_PRODUCT 37562 37620	1-cyclohexyl-3-fluoro-N5-isopropyl-1H-pyrazole-4,5-diamine
+T366	REACTION_PRODUCT 37622 37675	1-methyl-3-(trifluoromethoxy)-1H-pyrazole-4,5-diamine
+T367	OTHER_COMPOUND 37719 37759	3-chloro-1-hexyl-1H-pyrazole-4,5-diamine
+T368	REACTION_PRODUCT 37761 37812	3-fluoro-1-(2-hydroxyethyl)-1H-pyrazol-4,5-diamine;
+T369	REACTION_PRODUCT 37813 37863	3-chloro-1-(2-hydroxyethyl)-1H-pyrazol-4,5-diamine
+T370	REACTION_PRODUCT 37865 37915	3-chloro-1-(4-hydroxybutyl)-1H-pyrazol-4,5-diamine
+T371	REACTION_PRODUCT 37917 37966	3-chloro-1-(pyridin-2-yl)-1H-pyrazole-4,5-diamine
+T372	REACTION_PRODUCT 37968 38009	3-chloro-1-phenyl-1H-pyrazole-4,5-diamine
+T373	REACTION_PRODUCT 38011 38051	3-chloro-1-ethyl-1H-pyrazole-4,5-diamine
+T374	REACTION_PRODUCT 38053 38116	1-(3-methoxypropyl)-3-(methylsulfinyl)-1H-pyrazole-4,5-diamine;
+T375	REACTION_PRODUCT 38117 38179	1-(3-hydroxypropyl)-3-(methylsulfinyl)-1H-pyrazole-4,5-diamine
+T376	STARTING_MATERIAL 38245 38296	1-methyl-3-(methylsulfonyl)-1H-pyrazole-4,5-diamine
+T377	OTHER_COMPOUND 38381 38399	p-phenylenediamine
+T378	OTHER_COMPOUND 38421 38449	2-methyl-benzene-1,4-diamine
+T379	OTHER_COMPOUND 38451 38470	benzene-1,4-diamine
+T380	OTHER_COMPOUND 38472 38502	1-(2,5-diamino-phenyl)-ethanol
+T381	STARTING_MATERIAL 38504 38534	2-(2,5-diamino-phenyl)-ethanol
+T382	STARTING_MATERIAL 38574 38611	N-(2-methoxyethyl)benzene-1,4-diamine
+T383	STARTING_MATERIAL 38613 38665	2-[(4-amino-phenyl)-(2-hydroxy-ethyl)-amino]-ethanol
+T384	STARTING_MATERIAL 38667 38703	1-(2,5-diaminophenyl)ethane-1,2-diol
+T385	STARTING_MATERIAL 38705 38743	1-(2'-hydroxyethyl)-2,5-diaminobenzene
+T386	STARTING_MATERIAL 38745 38807	1,3-bis(N-(2-hydroxyethyl)-N-(4-amino-phenyl)amino)-2-propanol
+T387	STARTING_MATERIAL 38809 38882	2,2'-[1,2-ethanediyl-bis-(oxy-2,1-ethanediyloxy)]-bis-benzene-1,4-diamine
+T388	OTHER_COMPOUND 38950 38963	p-aminophenol
+T389	OTHER_COMPOUND 38985 38999	4-amino-phenol
+T390	OTHER_COMPOUND 39001 39021	4-methylamino-phenol
+T391	OTHER_COMPOUND 39023 39046	4-amino-3-methyl-phenol
+T392	OTHER_COMPOUND 39048 39078	4-amino-2-methoxymethyl-phenol
+T393	OTHER_COMPOUND 39080 39124	1-(5-amino-2-hydroxy-phenyl)-ethane-1,2-diol
+T394	STARTING_MATERIAL 39126 39153	4-amino-2-aminomethylphenol
+T395	STARTING_MATERIAL 39155 39210	4-amino-1-hydroxy-2-(2'-hydroxyethylaminomethyl)benzene
+T396	STARTING_MATERIAL 39212 39228	5-aminosalicylic
+T397	OTHER_COMPOUND 39275 39293	o-phenylenediamine
+T398	OTHER_COMPOUND 39315 39333	3,4-Diaminobenzoic
+T399	OTHER_COMPOUND 39358 39371	o-aminophenol
+T400	REACTION_PRODUCT 39393 39407	2-amino-phenol
+T401	STARTING_MATERIAL 39409 39432	2-amino-5-methyl-phenol
+T402	OTHER_COMPOUND 39434 39456	2-amino-6-methylphenol
+T403	OTHER_COMPOUND 39458 39496	N-(4-amino-3-hydroxy-phenyl)-acetamide
+T404	OTHER_COMPOUND 39498 39521	2-amino-4-methyl-phenol
+T405	OTHER_COMPOUND 39523 39544	2-amino-5-ethylphenol
+T406	OTHER_COMPOUND 39572 39584	heterocyclic
+T407	OTHER_COMPOUND 39606 39634	pyrimidine-2,4,5,6-tetramine
+T408	REACTION_PRODUCT 39636 39668	1-methyl-1H-pyrazole-4,5-diamine
+T409	STARTING_MATERIAL 39670 39708	2-(4,5-diamino-1H-pyrazol-1-yl)ethanol
+T410	OTHER_COMPOUND 39710 39752	1-(4-methylbenzyl)-1H-pyrazole-4,5-diamine
+T411	OTHER_COMPOUND 39754 39788	1-(benzyl)-1H-pyrazole-4,5-diamine
+T412	OTHER_COMPOUND 39790 39824	N2,N2-dimethylpyridine-2,5-diamine
+T413	OTHER_COMPOUND 39826 39860	4-Hydroxy-2,5,6-triaminopyrimidine
+T414	STARTING_MATERIAL 39943 39971	2-methyl-benzene-1,4-diamine
+T415	OTHER_COMPOUND 39973 40009	2-(methoxymethyl)benzene-1,4-diamine
+T416	STARTING_MATERIAL 40011 40030	benzene-1,4-diamine
+T417	OTHER_COMPOUND 40076 40090	4-amino-phenol
+T418	OTHER_COMPOUND 40092 40112	4-methylamino-phenol
+T419	OTHER_COMPOUND 40114 40137	4-amino-3-methyl-phenol
+T420	OTHER_COMPOUND 40139 40153	2-amino-phenol
+T421	OTHER_COMPOUND 40155 40178	2-amino-5-methyl-phenol
+T422	STARTING_MATERIAL 40180 40202	2-amino-5-ethyl-phenol
+T423	OTHER_COMPOUND 40204 40227	2-amino-6-methyl-phenol
+T424	OTHER_COMPOUND 40229 40261	1-methyl-1H-pyrazole-4,5-diamine
+T425	STARTING_MATERIAL 40263 40301	2-(4,5-diamino-1H-pyrazol-1-yl)ethanol
+T426	OTHER_COMPOUND 40303 40321	2,5-diaminotoluene
+T427	OTHER_COMPOUND 40497 40504	phenols
+T428	OTHER_COMPOUND 40506 40517	resorcinols
+T429	OTHER_COMPOUND 40530 40544	m-aminophenols
+T430	OTHER_COMPOUND 40546 40565	m-phenylenediamines
+T431	OTHER_COMPOUND 40571 40583	heterocyclic
+T432	OTHER_COMPOUND 40628 40650	2-amino-5-ethyl-phenol
+T433	OTHER_COMPOUND 40652 40672	naphthalene-1,7-diol
+T434	OTHER_COMPOUND 40674 40690	benzene-1,3-diol
+T435	REACTION_PRODUCT 40692 40716	4-chlorobenzene-1,3-diol
+T436	OTHER_COMPOUND 40718 40733	naphthalen-1-ol
+T437	OTHER_COMPOUND 40735 40759	2-methyl-naphthalen-1-ol
+T438	OTHER_COMPOUND 40761 40781	naphthalene-1,5-diol
+T439	OTHER_COMPOUND 40783 40803	naphthalene-2,7-diol
+T440	OTHER_COMPOUND 40805 40821	benzene-1,4-diol
+T441	STARTING_MATERIAL 40850 40895	7-amino-4-hydroxy-naphthalene-2-sulfonic acid
+T442	STARTING_MATERIAL 40897 40923	2-isopropyl-5-methylphenol
+T443	STARTING_MATERIAL 40965 40990	2-chloro-benzene-1,3-diol
+T444	REACTION_PRODUCT 40992 41029	4-hydroxy-naphthalene-1-sulfonic acid
+T445	OTHER_COMPOUND 41031 41050	benzene-1,2,3-triol
+T446	OTHER_COMPOUND 41052 41072	naphthalene-2,3-diol
+T447	OTHER_COMPOUND 41074 41109	5-dichloro-2-methylbenzene-1,3-diol
+T448	REACTION_PRODUCT 41111 41174	4,6-dichlorobenzene-1,3-diol; 2,3-dihydroxy-[1,4]naphthoquinone
+T449	OTHER_COMPOUND 41180 41209	1-Acetoxy-2-methylnaphthalene
+T450	OTHER_COMPOUND 41211 41230	m-phenylenediamines
+T451	OTHER_COMPOUND 41240 41257	2,4-diaminophenol
+T452	OTHER_COMPOUND 41259 41278	benzene-1,3-diamine
+T453	STARTING_MATERIAL 41313 41365	2-[(3-amino-phenyl)-(2-hydroxy-ethyl)-amino]-ethanol
+T454	OTHER_COMPOUND 41367 41394	2-mehyl-benzene-1,3-diamine
+T455	OTHER_COMPOUND 41523 41553	2-(2,4-diamino-phenyl)-ethanol
+T456	REACTION_PRODUCT 41555 41596	2-(3-amino-4-methoxy-phenylamino)-ethanol
+T457	REACTION_PRODUCT 41598 41671	4-(2-amino-ethoxy)-benzene-1,3-diamine; (2,4-diamino-phenoxy)-acetic acid
+T458	REACTION_PRODUCT 41673 41725	2-[2,4-diamino-5-(2-hydroxy-ethoxy)-phenoxy]-ethanol
+T459	REACTION_PRODUCT 41727 41764	4-ethoxy-6-methyl-benzene-1,3-diamine
+T460	REACTION_PRODUCT 41766 41806	2-(2,4-diamino-5-methyl-phenoxy)-ethanol
+T461	OTHER_COMPOUND 41808 41841	4,6-dimethoxy-benzene-1,3-diamine
+T462	REACTION_PRODUCT 41843 41900	2-[3-(2-hydroxy-ethylamino)-2-methyl-phenylamino]-ethanol
+T463	OTHER_COMPOUND 41902 41937	3-(2,4-diamino-phenoxy)-propan-1-ol
+T464	REACTION_PRODUCT 41972 42009	4-methoxy-6-methylbenzene-1,3-diamine
+T465	REACTION_PRODUCT 42011 42047	4-fluoro-6-methylbenzene-1,3-diamine
+T466	REACTION_PRODUCT 42049 42113	2-({3-[(2-hydroxyethyl)amino]-4,6-dimethoxyphenyl}-amino)ethanol
+T467	OTHER_COMPOUND 42115 42154	3-(2,4-diaminophenoxy)-propane-1,2-diol
+T468	OTHER_COMPOUND 42156 42198	2-[2-amino-4-(methylamino)-phenoxy]ethanol
+T469	STARTING_MATERIAL 42200 42261	2-[(5-amino-2-ethoxy-phenyl)-(2-hydroxy-ethyl)-amino]-ethanol
+T470	OTHER_COMPOUND 42296 42337	2,4-Diamino-5-(2'-hydroxyethyloxy)toluene
+T471	OTHER_COMPOUND 42339 42367	N,N-Dimethyl-3-ureidoaniline
+T472	OTHER_COMPOUND 42369 42404	N-(2-aminoethyl)benzene-1,3-diamine
+T473	OTHER_COMPOUND 42406 42462	4-{[(2,4-diamino-phenyl)oxy]methoxy}-benzene-1,3-diamine
+T474	REACTION_PRODUCT 42464 42508	1-methyl-2,6-bis(2-hydroxyethylamino)benzene
+T475	OTHER_COMPOUND 42514 42546	2,4-dimethoxybenzene-1,3-diamine
+T476	REACTION_PRODUCT 42572 42586	3-amino-phenol
+T477	REACTION_PRODUCT 42634 42669	2-(3-hydroxy-phenylamino)-acetamide
+T478	OTHER_COMPOUND 42671 42694	5-amino-2-methyl-phenol
+T479	OTHER_COMPOUND 42696 42722	3-amino-2,6-dimethylphenol
+T480	OTHER_COMPOUND 42724 42764	5-(2-hydroxy-ethylamino)-2-methyl-phenol
+T481	OTHER_COMPOUND 42766 42787	5-amino-2,4-dichloro-
+T482	OTHER_COMPOUND 42787 42793	phenol
+T483	OTHER_COMPOUND 42795 42818	3-amino-2-methyl-phenol
+T484	OTHER_COMPOUND 42820 42847	3-amino-2,6-dimethyl-phenol
+T485	OTHER_COMPOUND 42881 42918	; 5-amino-2-(2-hydroxy-ethoxy)-phenol
+T486	OTHER_COMPOUND 42920 42966	2-chloro-5-(2,2,2-trifluoro-ethylamino)-phenol
+T487	OTHER_COMPOUND 42968 43000	5-amino-4-chloro-2-methyl-phenol
+T488	OTHER_COMPOUND 43002 43027	3-cyclopentylamino-phenol
+T489	OTHER_COMPOUND 43029 43079	5-[(2-hydroxyethyl)amino]-4-methoxy-2-methylphenol
+T490	OTHER_COMPOUND 43081 43113	5-amino-4-methoxy-2-methylphenol
+T491	REACTION_PRODUCT 43140 43162	3-(diethylamino)phenol
+T492	OTHER_COMPOUND 43164 43195	5-amino-4-fluoro-2-methylphenol
+T493	REACTION_PRODUCT 43197 43228	5-amino-4-ethoxy-2-methylphenol
+T494	REACTION_PRODUCT 43230 43290	3-amino-2,4-dichloro-phenol; 3-[(2-methoxyethyl)amino]phenol
+T495	REACTION_PRODUCT 43292 43323	3-[(2-hydroxyethyl)amino]phenol
+T496	OTHER_COMPOUND 43325 43347	5-amino-2-ethyl-phenol
+T497	OTHER_COMPOUND 43349 43372	5-amino-2-methoxyphenol
+T498	OTHER_COMPOUND 43374 43416	5-[(3-hydroxy-propyl)amino]-2-methylphenol
+T499	STARTING_MATERIAL 43418 43470	3-[(3-hydroxy-2-methylphenyl)-amino]propane-1,2-diol
+T500	OTHER_COMPOUND 43472 43512	3-[(2-hydroxyethyl)amino]-2-methylphenol
+T501	STARTING_MATERIAL 43567 43602	1,3-bis-(2,4-diaminophenoxy)propane
+T502	OTHER_COMPOUND 43642 43676	3,4-dihydro-2H-1,4-benzoxazin-6-ol
+T503	OTHER_COMPOUND 43678 43703	6-methoxyquinolin-8-amine
+T504	OTHER_COMPOUND 43705 43730	4-methylpyridine-2,6-diol
+T505	STARTING_MATERIAL 43732 43764	2,3-dihydro-1,4-benzodioxin-5-ol
+T506	REACTION_PRODUCT 43766 43824	1,3-benzodioxol-5-ol; 2-(1,3-benzodioxol-5-ylamino)ethanol
+T507	OTHER_COMPOUND 43826 43855	3,4-dimethylpyridine-2,6-diol
+T508	OTHER_COMPOUND 43857 43882	5-chloropyridine-2,3-diol
+T509	OTHER_COMPOUND 43884 43917	2,6-dimethoxypyridine-3,5-diamine
+T510	REACTION_PRODUCT 43919 44007	1,3-benzodioxol-5-amine; 2- {[3,5-diamino-6-(2-hydroxy-ethoxy)-pyridin-2-yl]oxy}-ethanol
+T511	STARTING_MATERIAL 44009 44022	1H-indol-4-ol
+T512	OTHER_COMPOUND 44024 44057	5-amino-2,6-dimethoxypyridin-3-ol
+T513	REACTION_PRODUCT 44059 44078	1H-indole-5,6-diol;
+T514	REACTION_PRODUCT 44079 44092	1H-indol-7-ol
+T515	REACTION_PRODUCT 44094 44107	1H-indol-5-ol
+T516	OTHER_COMPOUND 44109 44122	1H-indol-6-ol
+T517	OTHER_COMPOUND 44124 44152	6-bromo-1,3-benzodioxol-5-ol
+T518	REACTION_PRODUCT 44154 44173	2-aminopyridin-3-ol
+T519	OTHER_COMPOUND 44175 44195	pyridine-2,6-diamine
+T520	OTHER_COMPOUND 44197 44245	3-[(3,5-diaminopyridin-2-yl)oxy]propane-1,2-diol
+T521	OTHER_COMPOUND 44297 44314	indoline-5,6-diol
+T522	OTHER_COMPOUND 44316 44349	3,5-dimethoxypyridine-2,6-diamine
+T523	REACTION_PRODUCT 44351 44380	6-methoxypyridine-2,3-diamine
+T524	OTHER_COMPOUND 44382 44419	3,4-dihydro-2H-1,4-benzoxazin-6-amine
+T525	OTHER_COMPOUND 44421 44445	4-hydroxy-N-methylindole
+T526	OTHER_COMPOUND 44447 44471	1H-5-methylpyrazol-5-one
+T527	OTHER_COMPOUND 44473 44503	1-phenyl-3-methylpyrazol-5-one
+T528	OTHER_COMPOUND 44505 44547	2,6-dimethylpyrazolo[1,5-b]-1,2,4-triazole
+T529	OTHER_COMPOUND 44549 44583	2,6-dimethyl[3,2-c]-1,2,4-triazole
+T530	OTHER_COMPOUND 44585 44622	6-methylpyrazolo-[1,5-a]benzimidazole
+T531	OTHER_COMPOUND 44624 44645	2,6-dihydroxypyridine
+T532	OTHER_COMPOUND 44647 44681	2,6-dihydroxy-3,4-dimethylpyridine
+T533	OTHER_COMPOUND 44683 44721	5-methylpyrazolo[5,1-e]-1,2,3-triazole
+T534	OTHER_COMPOUND 44723 44770	5-methyl-6-chloropyrazolo[5,1-e]-1,2,3-triazole
+T535	OTHER_COMPOUND 44772 44810	5-phenylpyrazolo[5,1-e]-1,2,3-triazole
+T536	OTHER_COMPOUND 44833 44834	;
+T537	OTHER_COMPOUND 44835 44889	1H-2,6-dimethylpyrazolo[1,5-b]-1,2,4-triazole tosylate
+T538	OTHER_COMPOUND 44891 44937	7,8-dicyano-4-methylimidazolo-[3,2-a]imidazole
+T539	OTHER_COMPOUND 44939 44981	2,7-dimethylpyrazolo[1,5-a]pyrimidin-5-one
+T540	OTHER_COMPOUND 44983 45025	2,5-dimethylpyrazolo[1,5-a]pyrimidin-7-one
+T541	OTHER_COMPOUND 45031 45086	2-methyl-5-methoxymethyl-pyrazolo[1,5-a]pyrimidin-7-one
+T542	OTHER_COMPOUND 45088 45112	6-hydroxybenzomorpholine
+T543	OTHER_COMPOUND 45118 45157	3-amino-2-methylamino-6-methoxypyridine
+T544	OTHER_COMPOUND 45258 45264	phenol
+T545	OTHER_COMPOUND 45266 45277	resorcinol,
+T546	OTHER_COMPOUND 45282 45290	naphthol
+T547	OTHER_COMPOUND 45312 45334	2-amino-5-ethyl-phenol
+T548	OTHER_COMPOUND 45336 45356	naphthalene-1,7-diol
+T549	OTHER_COMPOUND 45358 45375	benzene-1,3-diol;
+T550	REACTION_PRODUCT 45376 45400	4-chlorobenzene-1,3-diol
+T551	OTHER_COMPOUND 45402 45417	naphthalen-1-ol
+T552	OTHER_COMPOUND 45419 45443	2-methyl-naphthalen-1-ol
+T553	OTHER_COMPOUND 45445 45465	naphthalene-1,5-diol
+T554	OTHER_COMPOUND 45467 45487	naphthalene-2,7-diol
+T555	OTHER_COMPOUND 45489 45505	benzene-1,4-diol
+T556	OTHER_COMPOUND 45507 45532	2-methyl-benzene-1,3-diol
+T557	OTHER_COMPOUND 45538 45564	2-isopropyl-5-methylphenol
+T558	OTHER_COMPOUND 45566 45589	1,2,4-trihydroxybenzene
+T559	OTHER_COMPOUND 45591 45620	1-acetoxy-2-methylnaphthalene
+T560	OTHER_COMPOUND 45644 45662	m-phenylenediamine
+T561	OTHER_COMPOUND 45684 45703	benzene-1,3-diamine
+T562	STARTING_MATERIAL 45705 45795	2-(2,4-diamino-phenoxy)-ethanol; 4- {3-[(2,4-diaminophenyl)oxy]propoxy}benzene-1,3-diamine
+T563	OTHER_COMPOUND 45797 45838	2-(3-amino-4-methoxy-phenylamino)-ethanol
+T564	OTHER_COMPOUND 45840 45892	2-[2,4-diamino-5-(2-hydroxy-ethoxy)-phenoxy]-ethanol
+T565	OTHER_COMPOUND 45898 45933	3-(2,4-diamino-phenoxy)-propan-1-ol
+T566	OTHER_COMPOUND 45935 45976	2,4-diamino-5-(2'-hydroxyethyloxy)toluene
+T567	OTHER_COMPOUND 45978 46006	N,N-dimethyl-3-ureidoaniline
+T568	OTHER_COMPOUND 46008 46035	2,4-diamino-5-fluorotoluene
+T569	OTHER_COMPOUND 46037 46081	1-methyl-2,6-bis(2-hydroxyethylamino)benzene
+T570	OTHER_COMPOUND 46105 46118	m-aminophenol
+T571	REACTION_PRODUCT 46140 46153	3-aminophenol
+T572	OTHER_COMPOUND 46155 46178	5-amino-2-methyl-phenol
+T573	OTHER_COMPOUND 46180 46206	3-amino-2,6-dimethylphenol
+T574	STARTING_MATERIAL 46208 46248	5-(2-hydroxy-ethylamino)-2-methyl-phenol
+T575	REACTION_PRODUCT 46254 46277	3-amino-2-methyl-phenol
+T576	REACTION_PRODUCT 46279 46316	1-hydroxy-3-amino-2,4-dichlorobenzene
+T577	OTHER_COMPOUND 46318 46353	1,3-bis-(2,4-diaminophenoxy)propane
+T578	OTHER_COMPOUND 46355 46397	1-hydroxy-2-methyl-5-amino-6-chlorobenzene
+T579	OTHER_COMPOUND 46399 46430	5-Amino-4-chloro-2-methylphenol
+T580	OTHER_COMPOUND 46458 46470	heterocyclic
+T581	REACTION_PRODUCT 46492 46526	3,4-dihydro-2H-1,4-benzoxazin-6-ol
+T582	REACTION_PRODUCT 46550 46573	1,3-benzodioxol-5-amine
+T583	STARTING_MATERIAL 46575 46588	1H-indol-4-ol
+T584	OTHER_COMPOUND 46590 46608	1H-indole-5,6-diol
+T585	OTHER_COMPOUND 46610 46623	1H-indol-7-ol
+T586	REACTION_PRODUCT 46625 46638	1H-indol-5-ol
+T587	OTHER_COMPOUND 46640 46653	1H-indol-6-ol
+T588	OTHER_COMPOUND 46655 46675	pyridine-2,6-diamine
+T589	OTHER_COMPOUND 46677 46696	2-aminopyridin-3-ol
+T590	OTHER_COMPOUND 46698 46722	4-hydroxy-N-methylindole
+T591	STARTING_MATERIAL 46750 46780	1-phenyl-3-methylpyrazol-5-one
+T592	OTHER_COMPOUND 46782 46824	2,6-dimethylpyrazolo[1,5-b]-1,2,4-triazole
+T593	OTHER_COMPOUND 46826 46860	2,6-dimethyl[3,2-c]-1,2,4-triazole
+T594	OTHER_COMPOUND 46862 46899	6-methylpyrazolo-[1,5-a]benzimidazole
+T595	OTHER_COMPOUND 46901 46922	2,6-dihydroxypyridine
+T596	OTHER_COMPOUND 46924 46958	2,6-dihydroxy-3,4-dimethylpyridine
+T597	OTHER_COMPOUND 46960 46984	6-hydroxybenzomorpholine
+T598	OTHER_COMPOUND 46986 47020	2,6-dihydroxy-3,4-dimethylpyridine
+T599	OTHER_COMPOUND 47022 47055	3,5-diamino-2,6-dimethoxypyridine
+T600	OTHER_COMPOUND 47057 47096	3-amino-2-methylamino-6-methoxypyridine
+T601	REACTION_PRODUCT 47177 47199	2-amino-5-ethyl-phenol
+T602	REACTION_PRODUCT 47201 47217	benzene-1,3-diol
+T603	REACTION_PRODUCT 47219 47243	4-chlorobenzene-1,3-diol
+T604	REACTION_PRODUCT 47245 47273	4,6-dichlorobenzene-1,3-diol
+T605	REACTION_PRODUCT 47275 47300	2-methyl-benzene-1,3-diol
+T606	STARTING_MATERIAL 47302 47341	2-amino-4-(2'-hydroxyethyl)aminoanisole
+T607	REACTION_PRODUCT 47343 47368	2,4-diaminobenzyl alcohol
+T608	OTHER_COMPOUND 47370 47400	2,4-diaminophenylethyl alcohol
+T609	OTHER_COMPOUND 47402 47420	m-phenylenediamine
+T610	OTHER_COMPOUND 47422 47445	5-amino-2-methyl-phenol
+T611	STARTING_MATERIAL 47447 47473	3-amino-2,6-dimethylphenol
+T612	STARTING_MATERIAL 47475 47500	2,4-diaminophenoxyethanol
+T613	STARTING_MATERIAL 47502 47533	4-amino-2-hydroxyphenoxyethanol
+T614	STARTING_MATERIAL 47535 47545	1-naphthol
+T615	STARTING_MATERIAL 47547 47564	2-methyl-naphthol
+T616	STARTING_MATERIAL 47581 47603	3-amino-2-methylphenol
+T617	STARTING_MATERIAL 47605 47640	4-hydroxy-1,2-methylenedioxybenzene
+T618	STARTING_MATERIAL 47642 47675	4-amino-1,2-methylenedioxybenzene
+T619	STARTING_MATERIAL 47729 47779	1-Methyl-2-hydroxy-4-(2'-hydroxyethyl)aminobenzene
+T620	REACTION_PRODUCT 47781 47801	2,4-diaminophenetole
+T621	OTHER_COMPOUND 47803 47832	2,4-diamino-5-methylphenetole
+T622	OTHER_COMPOUND 47834 47849	4-hydroxyindole
+T623	REACTION_PRODUCT 47851 47890	3-amino-5-hydroxy-2,6-dimethoxypyridine
+T624	REACTION_PRODUCT 47896 47929	3,5-diamino-2,6-dimethoxypyridine
+T625	STARTING_MATERIAL 47931 47950	benzene-1,3-diamine
+T626	OTHER_COMPOUND 47952 47971	2-aminopyridin-3-ol
+T627	STARTING_MATERIAL 47973 48003	1-phenyl-3-methylpyrazol-5-one
+T628	REACTION_PRODUCT 48109 48138	5-methoxymethyl-2-aminophenol
+T629	STARTING_MATERIAL 48140 48161	5-ethyl-2-aminophenol
+T630	OTHER_COMPOUND 48163 48185	5-phenyl-2-aminophenol
+T631	STARTING_MATERIAL 48187 48213	5-cyanoethyl-2-aminophenol
+T632	OTHER_COMPOUND 49048 49050	1%
+T633	OTHER_COMPOUND 49184 49191	coupler
+T634	OTHER_COMPOUND 49303 49310	coupler
+T635	OTHER_COMPOUND 49655 49659	Acid
+T636	OTHER_COMPOUND 49687 49698	Basic Brown
+T637	OTHER_COMPOUND 49708 49713	Black
+T638	OTHER_COMPOUND 49723 49728	Black
+T639	OTHER_COMPOUND 49751 49777	4-nitro-o-phenylenediamine
+T640	OTHER_COMPOUND 49779 49805	2-nitro-p-phenylenediamine
+T641	OTHER_COMPOUND 49807 49815	Picramic
+T642	OTHER_COMPOUND 49825 49828	Red
+T643	OTHER_COMPOUND 49837 49883	1,4-bis-(2'-hydroxyethyl)-amino-2-nitrobenzene
+T644	OTHER_COMPOUND 49905 49908	Red
+T645	OTHER_COMPOUND 49968 49974	Orange
+T646	OTHER_COMPOUND 49985 49988	Red
+T647	OTHER_COMPOUND 49996 50046	2-chloro-5-nitro-N-hydroxyethyl-p-phenylenediamine
+T648	OTHER_COMPOUND 50085 50120	2-hydroxyethylamino-5-nitroanisole;
+T649	OTHER_COMPOUND 50156 50177	2-amino-3-nitrophenol
+T650	OTHER_COMPOUND 50179 50198	6-nitro-o-toluidine
+T651	OTHER_COMPOUND 50200 50235	3-methylamino-4-nitrophenoxyethanol
+T652	OTHER_COMPOUND 50237 50268	2-nitro-5-glycerylmethylaniline
+T653	OTHER_COMPOUND 50291 50297	Violet
+T654	OTHER_COMPOUND 50339 50341	HC
+T655	OTHER_COMPOUND 50356 50384	4-nitrophenyl aminoethylurea
+T656	OTHER_COMPOUND 50416 50444	2-hydroxyethyl picramic acid
+T657	OTHER_COMPOUND 50446 50448	HC
+T658	OTHER_COMPOUND 50479 50511	hydroxyethyl-2-nitro-p-toluidine
+T659	REACTION_PRODUCT 50597 50617	N-ethyl-3-nitro PABA
+T660	REACTION_PRODUCT 50619 50665	4-amino-2-nitrophenyl-amine-2'-carboxylic acid
+T661	REACTION_PRODUCT 50667 50702	2-chloro-6-ethylamino-4-nitrophenol
+T662	OTHER_COMPOUND 50704 50731	6-nitro-2,5-pyridinediamine
+T663	OTHER_COMPOUND 50750 50780	2-amino-6-chloro-4-nitrophenol
+T664	OTHER_COMPOUND 50782 50816	4-hydroxypropylamino-3-nitrophenol
+T665	OTHER_COMPOUND 50836 50872	1,2,3,4-tetrahydro-6-nitrochinoxalin
+T666	OTHER_COMPOUND 50907 50909	HC
+T667	OTHER_COMPOUND 50925 50962	3-amino-6-methylamino-2-nitropyridine
+T668	OTHER_COMPOUND 50964 51006	2,6-diamino-3-((pyridine-3-yl)azo)pyridine
+T669	OTHER_COMPOUND 51033 51039	Orange
+T670	OTHER_COMPOUND 51048 51084	N-(2-nitro-4-aminophenyl)-allylamine
+T671	REACTION_PRODUCT 51086 51189	4-[(4-amino-3-methylphenyl)(4-imino-3-methyl-2,5-cyclohexadien-1-ylidene) methyl]-2-methyl-benzeneamine
+T672	OTHER_COMPOUND 51205 51275	2-[[4-(dimethyl-amino)phenyl]azo]-1,3-dimethyl-1H-imidazolium chloride
+T673	OTHER_COMPOUND 51277 51332	1-methyl-4-[(methylphenyl-hydrazono)methyl]- pyridinium
+T674	OTHER_COMPOUND 51334 51348	methyl sulfate
+T675	OTHER_COMPOUND 51350 51409	2-[(4-aminophenyl)azo]-1,3-dimethyl-1H-imidazolium chloride
+T676	OTHER_COMPOUND 51417 51420	Red
+T677	OTHER_COMPOUND 51451 51453	16
+T678	OTHER_COMPOUND 51455 51460	Basic
+T679	OTHER_COMPOUND 51461 51467	Yellow
+T680	OTHER_COMPOUND 51472 51537	7-(2',4'-dimethyl-5'-sulfophenylazo)-5-sulfo-8-hydroxynaphthalene
+T681	OTHER_COMPOUND 51554 51562	Acid Red
+T682	OTHER_COMPOUND 51567 51629	1-(3'-nitro-5'-sulfo-6'-oxophenylazo)-oxo-naphthalene chromium
+T683	OTHER_COMPOUND 51674 51680	Violet
+T684	OTHER_COMPOUND 51681 51683	14
+T685	OTHER_COMPOUND 51705 51709	Blue
+T686	OTHER_COMPOUND 51714 51720	sodium
+T687	OTHER_COMPOUND 51740 51757	mono-& disulfonic
+T688	OTHER_COMPOUND 51787 51802	quinophthlanone
+T689	OTHER_COMPOUND 51806 51826	2-quinolylindandione
+T690	OTHER_COMPOUND 51847 51851	Blue
+T691	OTHER_COMPOUND 51913 51917	Blue
+T692	OTHER_COMPOUND 51930 51934	Blue
+T693	OTHER_COMPOUND 51939 51949	Acid Black
+T694	OTHER_COMPOUND 51981 51986	Black
+T695	REACTION_PRODUCT 51990 52064	1-(N-methylmorpholinium-propylamino)-4-hydroxy-anthraquinone methylsulfate
+T696	OTHER_COMPOUND 52078 52079	8
+T697	OTHER_COMPOUND 52125 52153	2-hydroxy-1,4-naphthoquinone
+T698	OTHER_COMPOUND 52160 52164	Blue
+T699	OTHER_COMPOUND 52184 52188	Acid
+T700	OTHER_COMPOUND 52196 52205	Henna Red
+T701	OTHER_COMPOUND 52207 52213	Indigo
+T702	OTHER_COMPOUND 52215 52225	Cochenille
+T703	OTHER_COMPOUND 52227 52234	HC Blue
+T704	OTHER_COMPOUND 52252 52256	Blue
+T705	OTHER_COMPOUND 52270 52274	Blue
+T706	OTHER_COMPOUND 52287 52291	Blue
+T707	OTHER_COMPOUND 52317 52323	Orange
+T708	OTHER_COMPOUND 52328 52333	Basic
+T709	OTHER_COMPOUND 52439 52441	HC
+T710	OTHER_COMPOUND 52479 52505	4-nitro-o-phenylenediamine
+T711	OTHER_COMPOUND 52507 52537	2-amino-6-chloro-4-nitrophenol
+T712	OTHER_COMPOUND 52588 52592	Blue
+T713	OTHER_COMPOUND 52605 52609	Blue
+T714	OTHER_COMPOUND 53289 53308	crosslinked acrylic
+T715	OTHER_COMPOUND 53358 53376	(meth)acrylic acid
+T716	OTHER_COMPOUND 53384 53405	(C1-C6)alkyl acrylate
+T717	OTHER_COMPOUND 53494 53503	generally
+T718	TEMPERATURE 53612 53616	0.1%
+T719	OTHER_COMPOUND 53845 53853	silicone
+T720	OTHER_COMPOUND 53900 53922	polyol carboxylic acid
+T721	OTHER_COMPOUND 54064 54071	mineral
+T722	OTHER_COMPOUND 54100 54108	glycerin
+T723	OTHER_COMPOUND 54113 54121	sorbitol
+T724	OTHER_COMPOUND 54457 54466	silicones
+T725	OTHER_COMPOUND 54622 54629	keratin
+T726	OTHER_COMPOUND 54750 54755	amine
+T727	OTHER_COMPOUND 54807 54823	quaternary amine
+T728	OTHER_COMPOUND 55002 55020	polyalkylsilioxane
+T729	OTHER_COMPOUND 55034 55054	polydiemthylsiloxane
+T730	OTHER_COMPOUND 55071 55088	trimethylsilyl or
+T731	OTHER_COMPOUND 55124 55148	polymethylphenylsiloxane
+T732	OTHER_COMPOUND 55179 55207	polydimethyldiphenylsiloxane
+T733	OTHER_COMPOUND 55214 55222	silicone
+T734	OTHER_COMPOUND 55231 55257	organofunctional siloxanes
+T735	OTHER_COMPOUND 55386 55394	siloxane
+T736	OTHER_COMPOUND 55452 55467	polyethyleneoxy
+T737	OTHER_COMPOUND 55527 55532	thiol
+T738	OTHER_COMPOUND 55584 55595	carboxylate
+T739	OTHER_COMPOUND 55604 55616	hydroxylated
+T740	OTHER_COMPOUND 55645 55663	quatemium ammonium
+T741	OTHER_COMPOUND 55670 55671	,
+T742	OTHER_COMPOUND 55706 55714	silicone
+T743	OTHER_COMPOUND 55866 55874	chelants
+T744	OTHER_COMPOUND 56256 56263	Aqueous
+T745	OTHER_COMPOUND 56367 56371	EDDS
+T746	OTHER_COMPOUND 56373 56403	ethylenediaminedisuccinic acid
+T747	OTHER_COMPOUND 56462 56472	phosphonic
+T748	OTHER_COMPOUND 56494 56515	aminophosphonic acids
+T749	OTHER_COMPOUND 56517 56535	and polyphosphoric
+T750	OTHER_COMPOUND 56564 56584	polyphosphoric acids
+T751	OTHER_COMPOUND 57082 57090	chelants
+T752	OTHER_COMPOUND 57099 57122	diamine-N,N'-dipolyacid
+T753	OTHER_COMPOUND 57127 57162	monoamine monoamide-N,N'-dipolyacid
+T754	OTHER_COMPOUND 57185 57189	EDDS
+T755	OTHER_COMPOUND 57554 57559	water
+T756	OTHER_COMPOUND 57856 57861	water
+T757	OTHER_COMPOUND 58097 58100	art
+T758	OTHER_COMPOUND 58303 58306	dye
+T759	OTHER_COMPOUND 58412 58415	dye
+T760	OTHER_COMPOUND 58468 58475	ammonia
+T761	OTHER_COMPOUND 58505 58522	hydrogen peroxide
+T762	OTHER_COMPOUND 58546 58564	"hydrogen peroxide
+T763	OTHER_COMPOUND 58590 58607	hydrogen peroxide
+T764	OTHER_COMPOUND 58671 58688	hydrogen peroxide
+T765	OTHER_COMPOUND 58714 58717	dye
+T766	OTHER_COMPOUND 58732 58749	hydrogen peroxide
+T767	OTHER_COMPOUND 58816 58820	hair
+T768	OTHER_COMPOUND 59032 59040	ammonium
+T769	OTHER_COMPOUND 59058 59065	ammonia
+T770	OTHER_COMPOUND 59103 59112	oxidizing
+T771	TIME 59558 59569	few minutes
+T772	OTHER_COMPOUND 59615 59619	hair
+T773	TIME 59759 59760	2
+T774	TIME 59764 59774	60 minutes
+T775	TIME 59792 59797	30 to
+T776	TIME 59798 59808	45 minutes
+T777	OTHER_COMPOUND 59883 59888	water
+T778	OTHER_COMPOUND 60677 60680	gel
+T779	OTHER_COMPOUND 60733 60747	polysaccharide
+T780	OTHER_COMPOUND 60754 60760	polyol
+T781	OTHER_COMPOUND 61017 61020	Oil
+T782	OTHER_COMPOUND 61024 61029	water
+T783	OTHER_COMPOUND 61040 61041	b
+T784	OTHER_COMPOUND 61127 61132	water
+T785	TEMPERATURE 61261 61265	90°C
+T786	TIME 61283 61288	15 to
+T787	TIME 61289 61295	30 min
+T788	TEMPERATURE 61312 61328	room temperature
+T789	OTHER_COMPOUND 61429 61434	water
+T790	OTHER_COMPOUND 62338 62341	dye
+T791	OTHER_COMPOUND 62641 62644	dye
+T792	OTHER_COMPOUND 65191 65196	AR500
+T793	OTHER_COMPOUND 65363 65372	stainless
+T794	STARTING_MATERIAL 65405 65407	TA
+T795	TIME 65701 65710	2 minutes
+T796	TEMPERATURE 65714 65718	25°C
+T797	TIME 66020 66021	1
+T798	TEMPERATURE 66450 66466	room temperature
+T799	TIME 67012 67018	15 sec
+T800	OTHER_COMPOUND 67635 67651	Cetearyl alcohol
+T801	STARTING_MATERIAL 67707 67723	Cetearyl alcohol
+T802	REAGENT_CATALYST 67795 67802	Ammonia
+T803	OTHER_COMPOUND 67874 67881	Xanthan
+T804	REAGENT_CATALYST 67920 67924	EDTA
+T805	REAGENT_CATALYST 67926 67937	tetrasodium
+T806	OTHER_COMPOUND 67974 67982	Ascorbic
+T807	OTHER_COMPOUND 68012 68025	Sodium sufite
+T808	OTHER_COMPOUND 68056 68070	Sodium sulfate
+T809	OTHER_COMPOUND 68267 68288	Sodium lauryl sulfate
+T810	OTHER_COMPOUND 68357 68378	Polyvinylpyrrolidone/
+T811	REAGENT_CATALYST 68427 68435	Hydrogen
+T812	OTHER_COMPOUND 68493 68498	Water
+T813	OTHER_COMPOUND 68841 68855	polysaccharide
+T814	OTHER_COMPOUND 69242 69249	ceteary
+T815	OTHER_COMPOUND 69259 69261	di
+T816	OTHER_COMPOUND 69262 69277	cetyl phosphate
+T817	OTHER_COMPOUND 69280 69289	ceteth-10
+T818	REACTION_PRODUCT 69402 69419	glycol2244Xanthan
+T819	REACTION_PRODUCT 69420 69445	Gum0.040.0750.040.075EDTA
+T820	OTHER_COMPOUND 69447 69488	tetrasodium salt)0.050.050.050.05Ascorbic
+T821	REAGENT_CATALYST 69512 69540	sufite0.050.050.050.05Sodium
+T822	OTHER_COMPOUND 69541 69591	sulfate0000Disodium phosphate0.10.10.10.1Salicylic
+T823	REAGENT_CATALYST 69592 69622	acid0.050.050.050.05Phosphoric
+T824	OTHER_COMPOUND 69623 69647	acid0.040.040.040.04EDDS
+T825	OTHER_COMPOUND 69649 69749	trisodium salt)1111Sodium lauryl sulfate0.10.10.10.1Perfume0.1250.1250.1250.125Polyvinylpyrrolidone/
+T826	OTHER_COMPOUND 69750 69791	Styrene Copolymer1.651.651.651.65Hydrogen
+T827	EXAMPLE_LABEL 69853 69854	7
+T828	OTHER_COMPOUND 70142 70146	7-10
+T829	OTHER_COMPOUND 70955 70963	intended
+T830	OTHER_COMPOUND 71209 71212	gel
+T831	OTHER_COMPOUND 71296 71305	C14 to 30
+T832	OTHER_COMPOUND 71323 71329	C14 to
+T833	OTHER_COMPOUND 71490 71508	polyoxyethylene C8
+T834	OTHER_COMPOUND 71591 71601	surfactant
+T835	OTHER_COMPOUND 71791 71805	polysaccharide
+T836	OTHER_COMPOUND 71824 71830	polyol
+T837	OTHER_COMPOUND 71845 71860	propyleneglycol
+T838	OTHER_COMPOUND 71862 71876	butoxydiglycol
+T839	OTHER_COMPOUND 71878 71892	ethoxydiglycol
+T840	OTHER_COMPOUND 71894 71909	hexylene glycol
+T841	OTHER_COMPOUND 71911 71929	dipropylene glycol
+T842	OTHER_COMPOUND 71931 71939	glycerol
+T843	OTHER_COMPOUND 71941 71953	polyglycerol
+T844	OTHER_COMPOUND 72204 72215	xanthan gum
+T845	OTHER_COMPOUND 72219 72232	succinoglycan
+T846	OTHER_COMPOUND 72382 72396	polysaccharide
+T847	OTHER_COMPOUND 72509 72525	propylene glycol
+T848	OTHER_COMPOUND 72672 72678	polyol
+T849	OTHER_COMPOUND 73103 73113	surfactant
+T850	OTHER_COMPOUND 73313 73320	ammonia
+T851	OTHER_COMPOUND 73457 73476	polyoxyethylene C14
+T852	OTHER_COMPOUND 73480 73496	C30 alkyl ethers
+T853	OTHER_COMPOUND 73744 73747	dye
+T854	OTHER_COMPOUND 73890 73894	hair
+T855	TIME 73904 73908	2 to
+T856	TIME 73909 73919	60 minutes

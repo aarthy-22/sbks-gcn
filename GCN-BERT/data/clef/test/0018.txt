@@ -1,0 +1,2 @@
+Step 3. tert-Butyl 3-amino-5-bromo-1H-pyrazolo[3,4-c]pyridine-1-carboxylate
+Di-tert-butyl dicarbonate (1.127 g, 5.16 mmol) was added to a solution of 5-bromo-1H-pyrazolo[3,4-c]pyridin-3-amine (1.0 g, 4.69 mmol) and triethylamine (0.785 mL, 5.63 mmol) in CH2Cl2 (15 mL). After stirring at r.t. for 1 h., water was added, and the mixture was extracted with DCM. The organic phase was washed with brine and dried over sodium sulfate. The solvent was evaporated under reduced pressure and obtained crude product was purified by Biotage Isolera™ (1.4 g, 87%).

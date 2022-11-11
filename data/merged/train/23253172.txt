@@ -1,0 +1,10 @@
+Neurochemical control of rapid stress-induced changes in brain aromatase activity.
+In the male brain, the medial preoptic nucleus (POM) is known to be a critical relay for the activation of sexual behaviour, with the aromatisation of testosterone into 17β-oestradiol (E2 ) playing a key role.
+Acute stress has been shown to differentially modulate the aromatase enzyme in this and other brain nuclei in a sex-specific manner.
+In POM specifically, stress induces increases in aromatase activity (AA) that are both rapid and reversible.
+How the physiological processes initiated during an acute stress response mediate sex- and nuclei- specific changes in AA and which stress response hormones are involved remains to be determined.
+By examining the relative effects of corticosterone (CORT), arginine vasotocin (AVT, the avian homologue to arginine vasopressin) and corticotrophin-releasing factor (CRF), the present study aimed to define the hormone profile regulating stress-induced increases in AA in the POM.
+We found that CORT, AVT and CRF all appear to play some role in these changes in the male brain.
+In addition, these effects occur in a targeted manner, such that modulation of the enzyme by these hormones only occurs in the POM rather than in all aromatase-expressing nuclei.
+Similarly, in the female brain, the experimental effects were restricted to the POM but only CRF was capable of inducing the stress-like increases in AA.
+These data further demonstrate the high degree of specificity (nuclei-, sex- and hormone-specific effects) in this system, highlighting the complexity of the stress-aromatase link and suggesting modes through which the nongenomic modulation of this enzyme can result in targeted, rapid changes in local oestrogen concentrations.

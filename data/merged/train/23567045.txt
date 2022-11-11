@@ -1,0 +1,8 @@
+Lactosylated gramicidin-based lipid nanoparticles (Lac-GLN) for targeted delivery of anti-miR-155 to hepatocellular carcinoma.
+Lactosylated gramicidin-containing lipid nanoparticles (Lac-GLN) were developed for delivery of anti-microRNA-155 (anti-miR-155) to hepatocellular carcinoma (HCC) cells.
+MiR-155 is an oncomiR frequently elevated in HCC.
+The Lac-GLN formulation contained N-lactobionyl-dioleoyl phosphatidylethanolamine (Lac-DOPE), a ligand for the asialoglycoprotein receptor (ASGR), and an antibiotic peptide gramicidin A. The nanoparticles exhibited a mean particle diameter of 73nm, zeta potential of +3.5mV, anti-miR encapsulation efficiency of 88%, and excellent colloidal stability at 4°C.
+Lac-GLN effectively delivered anti-miR-155 to HCC cells with a 16.1- and 4.1-fold up-regulation of miR-155 targets C/EBPβ and FOXP3 genes, respectively, and exhibited significant greater efficiency over Lipofectamine 2000.
+In mice, intravenous injection of Lac-GLN containing Cy3-anti-miR-155 led to preferential accumulation of the anti-miR-155 in hepatocytes.
+Intravenous administration of 1.5mg/kg anti-miR-155 loaded Lac-GLN resulted in up-regulation of C/EBPβ and FOXP3 by 6.9- and 2.2-fold, respectively.
+These results suggest potential application of Lac-GLN as a liver-specific delivery vehicle for anti-miR therapy.

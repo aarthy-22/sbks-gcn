@@ -1,0 +1,3 @@
+Potency switch between CHK1 and MK2: Discovery of imidazo[1,2-a]pyrazine- and imidazo[1,2-c]pyrimidine-based kinase inhibitors.
+Chemistry has been developed to access both imidazo[1,2-a]pyrazines and imidazo[1,2-c]pyrimidines.
+Small structural modifications in both series led to a switch of potency between two kinases involved in mediating cell cycle checkpoint control, CHK1 and MK2.

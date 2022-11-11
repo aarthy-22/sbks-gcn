@@ -1,0 +1,18 @@
+Toxicity and toxicokinetics of binary combinations of petroleum hydrocarbon distillates with the earthworm Eisenia andrei.
+Petroleum hydrocarbons (PHCs) act via narcosis and are expected to have additive toxicity.
+However, previous work has demonstrated less-than-additive toxicity with PHC distillates and earthworms.
+A study was initiated to investigate this through toxicity and toxicokinetic studies with the earthworm Eisenia andrei.
+Three petroleum distillate fractions, F2 (>C10-C16), F3a (>C16-C23), and F3b (>C23-C34), were used in two binary combinations, F2F3a and F3aF3b.
+In the toxicity study, clean soil was spiked with equitoxic combinations of the two distillates ranging from 0.5 to 2.5 toxic units.
+In the toxicokinetic study, a binary combination consisting of one concentration of each distillate was used.
+On a soil concentration basis, the toxicity of the binary combinations of distillates was less than additive.
+Accumulation of the individual distillates, however, was generally reduced when a second distillate was present, resulting in lower body burden.
+This is thought to be due to the presence of a nonaqueous-phase liquid at the soil concentrations used.
+On a tissue concentration basis, toxicity was closer to additive.
+The results demonstrate that tissue concentrations are the preferred metric for toxicity for earthworms.
+They also demonstrate that the Canada-wide soil standards based on individual distillates are likely protective.
+Environ.
+Toxicol.
+Chem.
+2013;32:1016-1026.
+© 2013 SETAC.

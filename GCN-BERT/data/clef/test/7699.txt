@@ -1,0 +1,4 @@
+[EXAMPLE 33]
+Synthesis of compounds I-066 and I-067
+Step 1 Synthesis of compound 66g
+A solution of the compound 57e (5.54 g, 13.2 mmol) in dichloromethane (55 mL) was cooled in ice. Then, bromoacetyl bromide (2.06 mL, 23.7 mmol) was added, and subsequently, triethylamine (3.29 mL, 23.7 mmol) was added to the solution. Under ice cooling, the mixture was stirred for 2 hours. Then, a saturated aqueous solution of ammonium chloride was added to the mixture, followed by extraction with ethyl acetate. The organic layer was dried over anhydrous magnesium sulfate. Magnesium sulfate was filtered off. Then, the filtrate was concentrated under reduced pressure. The obtained residue was purified by silica gel column chromatography (hexane-ethyl acetate) to afford the compound 66g (4.21 g, 59%).

@@ -1,0 +1,4 @@
+Synthesis Example 7: Synthesis of Compound 46
+Compound 46 was synthesized in the same manner as in Synthesis Example 1, except that dibenzofuran-4-yl(5'-fluoro-[1,1';3',1″]terphenyl-4'-yl)amine was used instead of biphenyl-3-yl(dibenzofuran-4-yl)amine in Synthesis of Intermediate Compound (i).
+Yield: 0.72 g (0.59 mmol, 38%).
+HR-EIMS (m/z) [M+] calcd for C88H58F2N2O2 1212.4533; found, 1212.4688.

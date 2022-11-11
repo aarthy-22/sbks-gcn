@@ -1,0 +1,22 @@
+T9	CHEMICAL 17 26	histamine
+T19	GENE-N 17 36	histamine receptors
+T10	GENE-Y 75 104	Fluoresceinated human albumin
+T7	CHEMICAL 121 130	histamine
+T18	GENE-Y 132 135	FHA
+T1	CHEMICAL 180 189	histamine
+T11	GENE-N 180 199	histamine receptors
+T12	GENE-Y 329 332	FHA
+T2	CHEMICAL 385 394	histamine
+T13	GENE-Y 385 406	histamine H1 receptor
+T3	CHEMICAL 419 434	diphenhydramine
+T4	CHEMICAL 439 449	clemastine
+T5	CHEMICAL 455 464	histamine
+T14	GENE-Y 455 476	histamine H2 receptor
+T6	CHEMICAL 488 498	cimetidine
+T15	GENE-Y 511 514	FHA
+T8	CHEMICAL 576 585	histamine
+T16	GENE-Y 576 588	histamine H1
+T17	GENE-Y 600 612	H2 receptors
+R0	CPR-4 Arg1:T3 Arg2:T12
+R1	CPR-4 Arg1:T4 Arg2:T12
+R2	NOT Arg1:T8 Arg2:T17

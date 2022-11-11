@@ -1,0 +1,15 @@
+T1	CHEMICAL 154 164	citrulline
+T2	CHEMICAL 169 176	ammonia
+T3	CHEMICAL 229 246	argininosuccinate
+T9	GENE-Y 229 257	argininosuccinate synthetase
+T10	GENE-Y 259 262	ASS
+T4	CHEMICAL 276 280	urea
+T11	GENE-Y 840 843	ASS
+T12	GENE-Y 922 928	citrin
+T5	CHEMICAL 957 966	aspartate
+T13	GENE-N 957 988	aspartate/glutamate transporter
+T6	CHEMICAL 967 976	glutamate
+T7	GENE-Y 1333 1339	citrin
+T8	GENE-Y 1373 1376	ASS
+R0	CPR-9 Arg1:T1 Arg2:T9
+R1	NOT Arg1:T2 Arg2:T10

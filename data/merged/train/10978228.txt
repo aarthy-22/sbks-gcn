@@ -1,0 +1,8 @@
+A gene for pyridoxine-dependent epilepsy maps to chromosome 5q31.
+Pyridoxine-dependent epilepsy (PDE) is a rare autosomal recessive disorder characterized by generalized seizures in the first hours of life and responding only to pyridoxine hydrochloride.
+The pathogenesis of PDE is unknown, but an alteration in the binding of pyridoxal 5-phosphate to glutamic acid decarboxylase (GAD) has been postulated in patients with PDE.
+Results are reported for genetic linkage analyses in four families with consanguineous parents and in one family with nonconsanguineous parents.
+The GAD1 (2q31) and GAD2 genes (10p23) were tested and excluded.
+A genomewide search was subsequently performed, using microsatellite markers at an average distance of 10 cM, and the search revealed linkage of the disease-causing gene to markers on chromosome 5q31.2-q31.3 (maximum LOD score [Z(max)] 8.43 at recombination fraction [theta] 0 and Zmax=7.58 at straight theta=0 at loci D5S2017 and D5S1972, respectively).
+A recombination event, between loci D5S638 and D5S463, in one family defined the distal boundary, and a second recombination event between loci D5S2011 and D5S2017 in another family defined the proximal boundary of the genetic interval encompassing the PDE gene (5.1 cM).
+Ongoing studies may lead to the identification of the disease-causing gene.

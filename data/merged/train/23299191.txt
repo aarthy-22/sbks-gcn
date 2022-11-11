@@ -1,0 +1,11 @@
+Effects of asymmetric dimethylarginine on inflammatory cytokines (TNF-α, IL-6 and IL-10) in rats.
+This study is intended to examine the effects of administration of asymmetric dimethylarginine (ADMA) on the levels of tumor necrosis factor-α (TNF-α), interleukin-6 (IL-6) and IL-10.
+A total of 30 Wistar adult albino rats were used.
+Group I was administrated (n = 10) with 1 mg/kg/day of ADMA, group II (n = 10) was administrated with 2 mg/kg/day of ADMA and the control group was administrated (n = 10) with 0.9% sodium chloride.
+ADMA was intraperitoneally administrated for 7 days.
+The serum levels of IL-6, TNF-α and IL-10 were measured.
+There was a significant decrease in the levels of TNF-α, IL-6 and IL-10 in group I compared with that of the control group (p < 0.001).
+There was also a significant decrease in the levels of IL-10 in group II compared with that of the control group (p < 0.05) but the increase was much more distinct in the levels of IL-6 and TNF-α (p < 0.001).
+When comparing the groups by the doses given, no difference between the levels of IL-6 and IL-10 in groups I and II (p > 0.05) was observed; the levels of TNF-α in group II were significantly lower than those of group I (p < 0.05).
+A significant decrease in the serum levels of inflammatory cytokines IL-6, TNF-α and IL-10, after administration of 1 mg/kg/day and 2 mg/kg/day of ADMA, indicates that ADMA has an effect on inflammation.
+Increase in ADMA levels in the rats shows that the effects of inflammatory cytokines were suppressed.

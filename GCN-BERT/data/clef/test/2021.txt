@@ -1,0 +1,3 @@
+Example 57
+4-{[(6-Bromo-3-methyl-2-phenylquinolin-4-yl)carbonyl]amino}-2-oxobicyclo[2.2.2]octane-1-carboxylic acid
+0.35 ml (0.35 mmol) of 1 M aqueous sodium hydroxide solution was added to a solution of 31 mg (0.058 mmol) of the compound from Example 99A in a mixture of 1.5 ml of THF and 0.3 ml of methanol, and the mixture was allowed to stand at RT overnight. The mixture was then concentrated under reduced pressure and the residue obtained was adjusted to pH 3 using water and 0.031 ml (0.40 mmol) of TFA. The mixture was then concentrated once more. The residue was taken up in a mixture of DMSO, water and acetonitrile and purified by preparative HPLC (Method 3). This gave 28 mg (96% of theory, purity 100%) of the title compound

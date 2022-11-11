@@ -1,0 +1,11 @@
+A low toxicity maintenance regime, using eicosapentaenoic acid and readily available drugs, for mantle cell lymphoma and other malignancies with excess cyclin D1 levels.
+Mantle cell lymphoma is a difficult to treat non-Hodgkin's lymphoma (NHL) whose biochemistry is unusually well characterised.
+Almost all and perhaps all patients overexpress the cyclin D1 protein which is crucial in driving cells from the G1 to the S phase.
+This overexpression may be responsible for the refractoriness.
+Despite this understanding, treatments for mantle cell lymphoma are based on standard NHL regimes of cyclophosphamide, doxorubicin, vincristine and prednisone, perhaps supplemented with the monoclonal antibody rituximab.
+There has never been any attempt to direct treatment to the cyclin D1 mechanism or to angiogenesis which is now known to be important in all lymphomas.
+Both these targets lend themselves to long-term maintenance regimes of relatively low toxicity which can be used as adjuvants to standard therapy.
+Agents which have recently been shown to block cyclin D1 translation by regulating calcium levels are the unsaturated essential fatty acid, eicosapentaenoic acid (EPA), the antidiabetic thiazolidinediones, and the antifungal agent, clotrimazole.
+Two types of agent which have been shown to inhibit angiogenesis are the teratogen, thalidomide, and the selective inhibitors of cyclo-oxygenase 2 (COX-2).
+Retinoids exert synergistic effects with EPA and have been shown to inhibit both tumour growth and angiogenesis.
+The mechanisms of action of these various agents are discussed, and specific suggestions are made for low toxicity maintenance therapy of mantle cell lymphoma and of other tumours which overexpress cyclin D1.

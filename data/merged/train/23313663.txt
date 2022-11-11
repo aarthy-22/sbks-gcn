@@ -1,0 +1,10 @@
+Benzo[α]pyrene repressed DNA mismatch repair in human breast cancer cells.
+DNA mismatch repair (MMR) has been recently implicated to play a significant role in breast cancer progression, however, few studies have examined how various carcinogens affect MMR system in breast cancer cells.
+The present study employs an in vivo MMR assay developed in our laboratory to assess how prevalent environmental carcinogens such as polycyclic aromatic hydrocarbons (PAHs) affect MMR activity in human breast carcinoma cells.
+Specifically, we quantitatively measured MMR activity in ZR75-1 cells after they were exposed to benzo[α]pyrene (BaP), a prototypical PAH, at various concentrations.
+Our findings revealed that BaP exposure at high concentrations of 1 and 5 μM induced significant inhibition of MMR activity in ZR75-1 cells.
+Further, we also identified that MMR repression induced by 5 μM BaP was mediated through one of the MMR key proteins MSH6 as significant reduction in protein level was detected by western blot.
+More importantly, ectopic expression of hMSH6 restored MMR activity in the BaP treated cells to the same level as in the control cells.
+Impaired MMR plays an important role in carcinogenesis.
+Our findings suggest that BaP induced repression of MMR activity may also contribute to the progression of mutagenesis event.
+Meanwhile, the present study also for the first demonstrated that our in vivo DNA MMR assay can be applied in the field of environmental toxicology.

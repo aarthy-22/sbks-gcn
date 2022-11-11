@@ -1,0 +1,20 @@
+Comprehensive review of rasagiline, a second-generation monoamine oxidase inhibitor, for the treatment of Parkinson's disease.
+BACKGROUND: Inhibitors of monoamine oxidase (MAO) with selectivity and specificity for MAO type B (MAO-B) prolong the duration of action of both endogenously and exogenously derived dopamine.
+Rasagiline [N-propargyl-l(R)-aminoindan] is a second-generation propargylamine pharmacophore that selectively and irreversibly inhibits brain MAO-B and is specifically designed for the treatment of Parkinson's disease (PD).
+OBJECTIVE: The aim of this study was to review the pharmacology, tolerability, and clinical efficacy of rasagiline in the treatment of PD.
+METHODS: MEDLINE (1966-April 2007), the Cochrane Database of Systematic Reviews, and International Pharmaceutical Abstracts (1970-April 2007) were searched for original research and review articles published in English.
+The search terms were monoamine oxidase, neuroprotection, Parkinson disease, propargylamine, rasagiline, and selegiline.
+The reference lists of articles were also consulted, as was information provided by the manufacturer of rasagiline.
+RESULTS: Data from 63 clinical and laboratory studies were analyzed.
+Based on the results from those studies, we concluded that rasagiline PO QD, at the therapeutic dosage range of 0.5 to 1 rag/d, is effective and well tolerated and completely, selectively, and specifically inhibited MAO-B. Pharmacologically, rasagiline was found to be < or =10-fold more potent than selegiline and was not metabolized to amphetamine derivatives.
+Rasagiline was effective both as monotherapy in early PD and as adjunctive treatment in patients with advancing PD and motor fluctuations.
+As monotherapy, rasagiline provided modest yet clinically meaningful benefit.
+A randomized, double-blind, placebo-controlled study found that, after 26 weeks of treatment, the adjusted effect size for total Unified Parkinson's Disease Rating Scale score was -4.20 (95% CI, -5.66 to -2.73) for rasagiline 1 mg/d versus placebo (P < 0.001).
+Preliminary long-term data from an open-label study suggest a sustained therapeutic advantage when rasagiline is initiated early (before the need for dopaminergic agents) rather than later.
+In patients with more advanced disease who received treatment with dopaminergic agents, rasagiline and entacapone were associated with reductions of "off" time significantly greater than placebo (-1.18 and -1.2 vs 0.4 hour; both, P < or = 0.001).
+Rasagiline was well tolerated in younger (aged <;70 years) and older (aged > or =70 years) patients with early or advanced PD.
+Pharmacologically, rasagiline has the potential to augment the vasopressor effects of diet-derived tyramine (ie, the "cheese reaction").
+However, clinical challenge studies of tyramine have found this unlikely to occur even with ingestion of supraphysiologic amounts of tyramine.
+In experimental models, rasagiline has been found to have neuroprotective properties that may be independent of MAO-B inhibition.
+CONCLUSIONS: Based on this review, rasagiline has been found to be well tolerated and effective in the treatment of early PD and as adjunctive treatment in motor fluctuations.
+Whether rasagiline is associated with clinically significant neuroprotection (ie, disease modification) in PD is the subject of ongoing clinical trials.

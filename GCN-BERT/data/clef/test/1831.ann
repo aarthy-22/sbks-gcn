@@ -1,0 +1,17 @@
+T1	EXAMPLE_LABEL 5 6	2
+T2	REACTION_PRODUCT 23 111	tert-butyl (1-(8-Chloro-1-methyl-4-oxo-2-phenyl-1,4-dihydroquinolin-3-yl)ethyl)carbamate
+T3	STARTING_MATERIAL 112 191	tert-butyl (1-(8-Chloro-4-oxo-2-phenyl-1,4-dihydroquinolin-3-yl)ethyl)carbamate
+T4	REAGENT_CATALYST 211 230	potassium carbonate
+T5	STARTING_MATERIAL 250 263	methyl iodide
+T6	SOLVENT 291 294	DMF
+T7	TEMPERATURE 367 371	45°C
+T8	TIME 404 406	2h
+T9	OTHER_COMPOUND 586 599	ethyl acetate
+T10	OTHER_COMPOUND 656 661	water
+T11	OTHER_COMPOUND 674 687	ethyl acetate
+T12	OTHER_COMPOUND 763 776	ethyl acetate
+T13	OTHER_COMPOUND 834 849	sodium chloride
+T14	OTHER_COMPOUND 850 857	aqueous
+T15	YIELD_OTHER 914 919	1.53g
+T16	REACTION_PRODUCT 931 936	solid
+T17	YIELD_PERCENT 953 958	92.6%

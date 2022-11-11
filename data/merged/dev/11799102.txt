@@ -1,0 +1,18 @@
+Angiotensin II suppression in humans by the orally active renin inhibitor Aliskiren (SPP100): comparison with enalapril.
+Renin is the main determinant of angiotensin (Ang) II levels.
+It, therefore, always appeared desirable to reduce Ang II levels by direct inhibition of renin.
+So far, specific renin inhibitors lacked potency and/or oral availability.
+We tested the new orally active nonpeptidic renin inhibitor SPP100 (Aliskiren, an octanamide with a 50% inhibitory concentration [IC50] in the low nanomolar range) in 18 healthy volunteers on a constant 100 mmol/d sodium diet using a double-blind, 3-way crossover protocol.
+In 3 periods of 8 days, separated by wash-outs of 6 days, each volunteer received 2 dosage levels of Aliskiren (low before high; 40 and 80 or 160 and 640 mg/d) and randomized placebo or 20 mg enalapril.
+Aliskiren was well tolerated.
+Not surprisingly, blood pressure and heart rate remained unchanged in these normotensive subjects.
+There was a dose-dependent decrease in plasma renin activity, Ang I, and Ang II following single doses of Aliskiren starting with 40 mg.
+Inhibition was still marked and significant after repeated dosing with maximal decreases in Ang II levels by 89% and 75% on Days 1 and 8, respectively, when the highest dose of Aliskiren was compared with placebo.
+At the same time, mean plasma active renin was increased 16- and 34-fold at the highest dose of Aliskiren.
+Plasma drug levels of Aliskiren were dose-dependent with maximal concentrations reached between 3 to 6 hours after administration; steady state was reached between 5 and 8 days after multiple dosing.
+Less than 1% of dose was excreted in the urine.
+Plasma and urinary aldosterone levels were decreased after doses of Aliskiren > or =80 mg and after enalapril.
+Aliskiren at 160 and 640 mg enhanced natriuresis on Day 1 by +45% and +62%, respectively, compared with placebo (100%, ie, 87+/-11 mmol/24h) and enalapril (+54%); kaliuresis remained unchanged.
+In conclusion, the renin inhibitor Aliskiren dose-dependently decreases Ang II levels in humans following oral administration.
+The effect is long-lasting and, at a dose of 160 mg, is equivalent to that of 20 mg enalapril.
+Aliskiren has the potential to become the first orally active renin inhibitor that provides a true alternative to ACE-inhibitors and Ang II receptor antagonists in therapy for hypertension and other cardiovascular and renal diseases.

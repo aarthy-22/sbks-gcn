@@ -1,0 +1,12 @@
+Signaling mechanism of tumor cell-induced up-regulation of E3 ubiquitin ligase UBR2.
+The N-end rule pathway contributes significantly to accelerated muscle proteolysis mediated by the ubiquitin-proteasome pathway in various catabolic conditions.
+UBR2 (aka E3α-II) is the only known E3 ubiquitin ligase of the N-end rule pathway that is up-regulated by cachectic stimuli including proinflammatory cytokines and tumors.
+However, the signaling mechanism through which UBR2 is up-regulated remains undetermined.
+Here we identify a signaling pathway that mediates tumor cell-induced up-regulation of UBR2.
+UBR2 expression in C2C12 myotubes was up-regulated by conditioned medium from Lewis lung carcinoma cells or C26 colon adenocarcinoma cells, which was blocked by a pharmacological inhibitor of p38α/β mitogen-activated protein kinase (MAPK), SB202190.
+Similarly, SB202190 administration (i.p.) abolished UBR2 up-regulation in the tibialis anterior of LLC tumor-bearing mice.
+Genetic gain and loss of function assays in C2C12 myotubes indicated that tumor-induced activation of the p38β isoform is sufficient and necessary for UBR2 up-regulation.
+In addition, UBR2 up-regulation required p38β-mediated phosphorylation of CCAAT/enhancer binding protein (C/EBP)-β Thr-188, which was critical to C/EBPβ binding to the UBR2 promoter.
+Furthermore, luciferase reporter assay revealed that the C/EBPβ binding motif in the UBR2 promoter is a functional C/EBPβ-responsive cis-element that enhances the promoter activity on activation by p38β.
+Finally, genetic ablation of C/EBPβ blocked UBR2 up-regulation in LLC tumor-bearing mice.
+These results suggest that UBR2 up-regulation in cachectic muscle is mediated by the p38β-C/EBPβ signaling pathway responsible for the bulk of tumor-induced muscle proteolysis.-Zhang, G., Lin, R.-K., Kwon, Y. T., Li, Y.-P. Signaling mechanism of tumor cell-induced up-regulation of E3 ubiquitin ligase UBR2.

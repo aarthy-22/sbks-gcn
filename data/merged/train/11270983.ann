@@ -1,0 +1,36 @@
+T33	GENE-Y 0 12	Endothelin-1
+T17	CHEMICAL 42 55	endoperoxides
+T18	CHEMICAL 60 74	thromboxane A2
+T32	GENE-Y 229 241	endothelin-1
+T14	CHEMICAL 687 689	NO
+T29	GENE-N 687 698	NO-synthase
+T15	CHEMICAL 709 725	nitro-L-arginine
+T30	GENE-Y 727 739	endothelin-1
+T31	GENE-Y 932 944	endothelin-1
+T16	CHEMICAL 1108 1119	indometacin
+T19	GENE-N 1134 1148	cyclooxygenase
+T1	CHEMICAL 1154 1162	ridogrel
+T2	CHEMICAL 1164 1178	thromboxane A2
+T20	GENE-Y 1164 1187	thromboxane A2 receptor
+T3	CHEMICAL 1216 1227	thromboxane
+T21	GENE-Y 1216 1236	thromboxane synthase
+T22	GENE-Y 1264 1276	endothelin-1
+T4	CHEMICAL 1278 1287	Dazoxiben
+T5	CHEMICAL 1302 1313	thromboxane
+T23	GENE-Y 1302 1322	thromboxane synthase
+T6	CHEMICAL 1357 1368	indometacin
+T7	CHEMICAL 1373 1380	ridogel
+T24	GENE-Y 1423 1435	endothelin-1
+T25	GENE-Y 1516 1528	endothelin-1
+T8	CHEMICAL 1546 1557	indometacin
+T9	CHEMICAL 1562 1570	ridogrel
+T10	CHEMICAL 1583 1592	dazoxiben
+T11	CHEMICAL 1731 1742	indometacin
+T12	CHEMICAL 1747 1755	ridogrel
+T26	GENE-Y 1791 1803	endothelin-1
+T27	GENE-Y 1896 1908	endothelin-1
+T13	CHEMICAL 1934 1948	thromboxane A2
+T28	GENE-N 2003 2017	cyclooxygenase
+R0	CPR-4 Arg1:T7 Arg2:T23
+R1	NOT Arg1:T19 Arg2:T1
+R2	NOT Arg1:T19 Arg2:T3

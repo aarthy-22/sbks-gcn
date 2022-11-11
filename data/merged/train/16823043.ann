@@ -1,0 +1,26 @@
+T11	CHEMICAL 40 48	ovalicin
+T24	GENE-Y 81 119	human Type 1 methionine aminopeptidase
+T12	CHEMICAL 94 104	methionine
+T1	CHEMICAL 121 131	Methionine
+T13	GENE-N 121 147	Methionine aminopeptidases
+T18	GENE-N 149 155	MetAPs
+T15	GENE-Y 246 252	MetAP1
+T16	GENE-Y 257 263	MetAP2
+T2	CHEMICAL 294 304	fumagillin
+T17	GENE-Y 326 339	Type 2 MetAPs
+T3	CHEMICAL 394 404	fumagillin
+T4	CHEMICAL 422 430	ovalicin
+T19	GENE-Y 436 454	Type 2 human MetAP
+T5	CHEMICAL 559 567	ovalicin
+T20	GENE-Y 572 590	Type 1 human MetAP
+T6	CHEMICAL 677 685	ovalicin
+T7	CHEMICAL 689 699	fumagillin
+T21	GENE-N 711 736	Type 1 and a Type 2 MetAP
+T22	GENE-N 747 777	Type 1 and Type 2 human MetAPs
+T8	CHEMICAL 837 846	histidine
+T9	CHEMICAL 1016 1024	ovalicin
+T10	CHEMICAL 1029 1039	fumagillin
+T23	GENE-Y 1048 1061	Type 1 MetAPs
+T14	GENE-Y 1188 1206	human Type 1 MetAP
+R0	CPR-2 Arg1:T2 Arg2:T17
+R1	CPR-2 Arg1:T4 Arg2:T19

@@ -1,0 +1,9 @@
+T1	EXAMPLE_LABEL 8 9	9
+T2	REACTION_PRODUCT 25 120	(S)-4-(1-(7-fluoro-2-(pyridine-2-yl)quinoline-3-yl)ethylamino)pyrido[2,3-d]pyrimidine-5(8H)-one
+T3	EXAMPLE_LABEL 126 127	1
+T4	REACTION_PRODUCT 144 260	(S)-4-(1-(7-fluoro-2-(pyridine-2-yl)quinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T5	YIELD_OTHER 261 267	245 mg
+T6	REACTION_PRODUCT 271 387	(S)-4-(1-(7-fluoro-2-(pyridine-2-yl)quinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)pyrido[2,3-d]pyrimidine-5(8H)-one
+T7	STARTING_MATERIAL 456 518	(S)-1-(7-fluoro-2-(pyridine-2-yl)quinoline-3-yl)ethane-1-amine
+T8	YIELD_OTHER 585 595	0.460 mmol
+T9	YIELD_PERCENT 604 607	58%

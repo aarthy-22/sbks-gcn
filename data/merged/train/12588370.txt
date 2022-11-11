@@ -1,0 +1,10 @@
+Selective cyclooxygenase-2 inhibition does not affect the healing of cutaneous full-thickness incisional wounds in SKH-1 mice.
+BACKGROUND: The inducible cyclooxygenase-2 (COX-2) enzyme is upregulated in inflammatory diseases, as well as in epithelial cancers, and has an established role in angiogenesis and tissue repair.
+OBJECTIVE: Because of these physiological effects and the widespread use of the selective COX-2 inhibitor, celecoxib, we wanted to determine if inhibition of COX-2 would affect incisional skin wound healing.
+METHODS: Using a cutaneous full-thickness, sutured, incisional wound model in hairless SKH-1 mice, we evaluated the role of COX-2 in the wound healing process by comparing the effects of a nonselective COX inhibitor, diclofenac, with a selective COX-2 inhibitor, SC-791.
+Healing was monitored for up to 28 days postincision histologically and for recovery of wound strength.
+RESULTS: COX-2 expression was observed over the first week of healing, peaking at day 3 and was not affected by treatment with the selective COX-2 or nonselective COX inhibitors.
+Infiltrating macrophages, as well as keratinocytes and dermal fibroblasts at the wound site, expressed COX-2.
+Neither selective COX-2, nor nonselective COX inhibition had a significant effect on the macroscopic or microscopic morphology of the wounds, whereas dexamethasone treatment resulted in epidermal and granulation tissue atrophy.
+In addition, neither selective COX-2, nor nonselective COX inhibition altered keratinocyte proliferation and differentiation, dermal angiogenesis or the recovery of wound tensile strength, whereas dexamethasone reduced the tensile strength of the wounds by 30-38% throughout the healing period.
+CONCLUSIONS: These data indicate that selective COX-2 inhibition does not affect the healing of surgical skin wounds.

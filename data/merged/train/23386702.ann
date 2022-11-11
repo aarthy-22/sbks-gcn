@@ -1,0 +1,64 @@
+T53	GENE-N 25 48	human carboxylesterases
+T36	CHEMICAL 52 69	acyl glucuronides
+T37	GENE-N 71 88	Carboxylesterases
+T21	CHEMICAL 99 105	esters
+T24	CHEMICAL 107 113	amides
+T27	CHEMICAL 119 129	thioesters
+T30	CHEMICAL 141 157	carboxylic acids
+T1	CHEMICAL 172 180	alcohols
+T5	CHEMICAL 182 188	amines
+T8	CHEMICAL 194 200	thiols
+T14	CHEMICAL 216 238	Uridine 5'-diphosphate
+T39	GENE-N 216 264	Uridine 5'-diphosphate- glucuronosyltransferases
+T46	GENE-N 286 303	carboxylesterases
+T20	CHEMICAL 349 365	carboxylic acids
+T22	CHEMICAL 369 386	acyl glucuronides
+T23	CHEMICAL 419 436	acyl glucuronides
+T25	CHEMICAL 444 450	esters
+T47	GENE-N 471 488	carboxylesterases
+T26	CHEMICAL 536 553	acyl glucuronides
+T48	GENE-Y 592 617	human carboxylesterases 1
+T49	GENE-Y 619 624	hCES1
+T50	GENE-Y 633 638	hCES2
+T28	CHEMICAL 671 688	acyl glucuronides
+T51	GENE-Y 708 713	hCES1
+T52	GENE-Y 715 720	hCES2
+T29	CHEMICAL 747 766	potassium phosphate
+T31	CHEMICAL 826 847	4-nitrophenyl acetate
+T32	CHEMICAL 866 883	acyl glucuronides
+T33	CHEMICAL 902 928	Diclofenac-β-d-glucuronide
+T34	CHEMICAL 1041 1066	CGP 47292-β-d-glucuronide
+T35	CHEMICAL 1068 1094	diclofenac-β-d-glucuronide
+T2	CHEMICAL 1096 1124	(R)-naproxen-β-d-glucuronide
+T3	CHEMICAL 1126 1154	(S)-naproxen-β-d-glucuronide
+T4	CHEMICAL 1156 1191	ibuprofen-β-d-glucuronide (racemic)
+T6	CHEMICAL 1193 1220	clopidogrel-β-d-glucuronide
+T7	CHEMICAL 1226 1251	valproate-β-d-glucuronide
+T9	CHEMICAL 1338 1364	Diclofenac-β-d-glucuronide
+T10	CHEMICAL 1366 1393	clopidogrel-β-d-glucuronide
+T11	CHEMICAL 1395 1420	ibuprofen-β-d-glucuronide
+T12	CHEMICAL 1422 1450	(R)-naproxen-β-d-glucuronide
+T13	CHEMICAL 1456 1484	(S)-naproxen-β-d-glucuronide
+T38	GENE-Y 1507 1512	hCES1
+T40	GENE-Y 1638 1643	hCES2
+T15	CHEMICAL 1645 1670	Valproate-β-d-glucuronide
+T16	CHEMICAL 1675 1700	CGP 47292-β-d-glucuronide
+T41	GENE-N 1724 1728	hCES
+T42	GENE-Y 1761 1766	hCES1
+T17	CHEMICAL 1770 1796	diclofenac-β-d-glucuronide
+T43	GENE-Y 1828 1833	hCES1
+T44	GENE-Y 1838 1843	hCES2
+T18	CHEMICAL 1893 1910	acyl glucuronides
+T19	CHEMICAL 2008 2025	acyl glucuronides
+T45	GENE-N 2061 2066	hCESs
+R0	CPR-9 Arg1:T5 Arg2:T37
+R1	CPR-9 Arg1:T22 Arg2:T39
+R2	CPR-9 Arg1:T20 Arg2:T46
+R3	CPR-9 Arg1:T22 Arg2:T46
+R4	CPR-4 Arg1:T26 Arg2:T48
+R5	CPR-4 Arg1:T26 Arg2:T49
+R6	CPR-4 Arg1:T11 Arg2:T38
+R7	NOT Arg1:T16 Arg2:T41
+R8	NOT Arg1:T14 Arg2:T46
+R9	NOT Arg1:T25 Arg2:T47
+R10	NOT Arg1:T51 Arg2:T29

@@ -1,0 +1,3 @@
+Example 126
+4-(6-Fluoro-1H-indol-3-yl)-N-[(1S)-2-hydroxy-1-methyl-ethyl]-3-methyl-benzamide
+This compound was prepared from Intermediate 10 and (2S)-2-aminopropan-1-ol according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (8.5 mg, 31%). Data: LCMS (B) Rt: 10.161 min; m/z 327.1 (M+H)+.

@@ -1,0 +1,2 @@
+Synthesis of compound 29-b
+Ethyl mercaptoacetate (2.4g, 20mmol) and potassium carbonate (3.0g, 24mmol) were added to a solution of compound 29-c (4.4g, 20mmol) in DMF (40mL). The mixture was heated to 45°C and stirred for 12hrs, cooled to room temperature, followed by adding ice water (200mL), solid was precipitated and filtered out. The solid was washed with water (100mL×3) and dried under vacuum to give white solid 29-b (5.1g, yield 89.5%). The product was used directly for the next step without further purification.

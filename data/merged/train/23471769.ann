@@ -1,0 +1,15 @@
+T12	CHEMICAL 35 46	Regadenoson
+T1	CHEMICAL 178 187	Adenosine
+T3	CHEMICAL 192 204	dipyridamole
+T5	CHEMICAL 222 231	adenosine
+T13	GENE-N 222 240	adenosine receptor
+T7	CHEMICAL 466 477	Regadenoson
+T14	GENE-Y 488 491	A2A
+T8	CHEMICAL 645 658	nitroglycerin
+T15	GENE-Y 804 814	troponin-I
+T9	CHEMICAL 917 928	regadenoson
+T10	CHEMICAL 941 966	technetium 99 m sestamibi
+T11	CHEMICAL 986 997	regadenoson
+T2	CHEMICAL 1109 1122	nitroglycerin
+T4	CHEMICAL 1429 1440	regadenoson
+T6	CHEMICAL 1552 1563	regadenoson

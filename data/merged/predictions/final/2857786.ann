@@ -1,0 +1,21 @@
+T16	CHEMICAL 99 109	ambenonium
+T1	CHEMICAL 111 121	Ambenonium
+T20	GENE-Y 153 173	acetylcholinesterase
+T18	GENE-N 226 246	muscarinic receptors
+T5	CHEMICAL 313 323	ambenonium
+T6	CHEMICAL 357 368	bethanechol
+T7	CHEMICAL 496 506	ambenonium
+T8	CHEMICAL 561 572	bethanechol
+T9	CHEMICAL 755 765	ambenonium
+T10	CHEMICAL 801 814	acetylcholine
+T11	CHEMICAL 816 826	Ambenonium
+T12	CHEMICAL 879 892	acetylcholine
+T13	CHEMICAL 964 975	bethanechol
+T21	GENE-Y 1036 1056	acetylcholinesterase
+T14	CHEMICAL 1067 1078	neostigmine
+T15	CHEMICAL 1106 1116	ambenonium
+T2	CHEMICAL 1158 1171	acetylcholine
+T17	GENE-Y 1210 1230	acetylcholinesterase
+T19	GENE-N 1273 1293	muscarinic receptors
+T3	CHEMICAL 1331 1341	ambenonium
+T4	CHEMICAL 1356 1369	acetylcholine

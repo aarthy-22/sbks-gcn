@@ -1,0 +1,3 @@
+D 6-(bromomethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-amine hydrobromide
+7-amino-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-6-ylmethanol B (541 mg, 3.00 mmol) is dissolved in 30 mL of dichloromethane. Phosphorus tribromide (0.10 mL, 1.05 mmol) is added dropwise and the mixture is stirred at room temperature for 4 days. The solid is filtered and washed with dichloromethane.
+Yield: 850 mg (88% of theory)

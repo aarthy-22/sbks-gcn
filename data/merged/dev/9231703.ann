@@ -1,0 +1,18 @@
+T13	GENE 47 66	calcitonin receptor
+T4	GENE 92 111	calcitonin receptor
+T3	GENE 250 280	guinea pig calcitonin receptor
+T5	GENE 315 332	salmon calcitonin
+T1	CHEMICAL 358 368	cyclic AMP
+T6	GENE 414 430	human calcitonin
+T7	GENE 495 508	rat alphaCGRP
+T8	GENE 513 523	rat amylin
+T9	GENE 545 575	guinea pig calcitonin receptor
+T10	GENE 638 668	guinea pig calcitonin receptor
+T2	CHEMICAL 707 727	phosphatidylinositol
+T11	GENE 781 800	calcitonin receptor
+T12	GENE 898 928	guinea pig calcitonin receptor
+R0	NOT Arg1:T3 Arg2:T1
+R1	NOT Arg1:T5 Arg2:T1
+R2	NOT Arg1:T1 Arg2:T6
+R3	NOT Arg1:T10 Arg2:T2
+R4	NOT Arg1:T2 Arg2:T11

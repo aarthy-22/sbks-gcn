@@ -1,0 +1,20 @@
+T5	CHEMICAL 0 14	Xestospongin C
+T16	GENE-N 89 92	ERK
+T1	CHEMICAL 102 116	Xestospongin C
+T3	CHEMICAL 155 178	bis-1-oxaquinolizidines
+T6	GENE-N 205 256	sarcoendoplasmic reticulum calcium transport ATPase
+T11	GENE-N 261 273	IP3 receptor
+T4	CHEMICAL 734 755	nitroblue tetrazolium
+T12	GENE-Y 792 797	CD11b
+T13	GENE-Y 802 806	CD14
+T14	GENE-Y 996 1025	tumor necrosis factor (TNF)-α
+T15	GENE-N 1081 1094	TNF receptors
+T7	GENE-N 1134 1171	extracellular signal-regulated kinase
+T8	GENE-N 1173 1176	ERK
+T9	GENE-N 1231 1234	ERK
+T2	CHEMICAL 1252 1259	PD98059
+T10	GENE-N 1418 1421	ERK
+R0	CPR-3 Arg1:T5 Arg2:T16
+R1	CPR-4 Arg1:T3 Arg2:T6
+R2	CPR-4 Arg1:T3 Arg2:T11
+R3	NOT Arg1:T4 Arg2:T13

@@ -1,0 +1,42 @@
+T16	CHEMICAL 0 16	Artemisinic acid
+T34	GENE-Y 66 73	C/EBP α
+T17	CHEMICAL 98 105	HMG-CoA
+T35	GENE-Y 98 115	HMG-CoA reductase
+T1	CHEMICAL 122 133	Cholesterol
+T8	CHEMICAL 312 328	artemisinic acid
+T9	CHEMICAL 436 452	artemisinic acid
+T22	GENE-Y 499 545	microphthalmia-associated transcription factor
+T23	GENE-Y 547 551	MITF
+T24	GENE-Y 578 588	tyrosinase
+T25	GENE-Y 590 624	tyrosinase-related protein (TRP)-1
+T26	GENE-Y 630 635	TRP-2
+T10	CHEMICAL 652 668	artemisinic acid
+T27	GENE-Y 742 747	c-KIT
+T28	GENE-Y 749 765	stem cell factor
+T29	GENE-Y 767 770	SCF
+T30	GENE-Y 777 815	macrophage migration inhibitory factor
+T31	GENE-Y 817 820	MIF
+T11	CHEMICAL 846 862	artemisinic acid
+T12	CHEMICAL 877 881	cAMP
+T32	GENE-N 897 913	protein kinase A
+T33	GENE-N 915 918	PKA
+T13	CHEMICAL 948 964	artemisinic acid
+T14	CHEMICAL 1034 1050	artemisinic acid
+T15	CHEMICAL 1082 1098	artemisinic acid
+T2	CHEMICAL 1137 1148	cholesterol
+T3	CHEMICAL 1189 1214	hydroxymethylglutaryl CoA
+T18	GENE-Y 1189 1234	hydroxymethylglutaryl CoA (HMG CoA) reductase
+T4	CHEMICAL 1216 1223	HMG CoA
+T19	GENE-Y 1294 1334	CCAAT/enhancer-binding protein (C/EBP) α
+T5	CHEMICAL 1421 1437	artemisinic acid
+T6	CHEMICAL 1479 1486	HMG CoA
+T20	GENE-Y 1479 1496	HMG CoA reductase
+T21	GENE-Y 1524 1531	C/EBP α
+T7	CHEMICAL 1560 1576	artemisinic acid
+R0	CPR-4 Arg1:T16 Arg2:T34
+R1	CPR-4 Arg1:T10 Arg2:T22
+R2	CPR-4 Arg1:T13 Arg2:T32
+R3	CPR-4 Arg1:T15 Arg2:T19
+R4	NOT Arg1:T12 Arg2:T32
+R5	NOT Arg1:T2 Arg2:T19
+R6	NOT Arg1:T20 Arg2:T7

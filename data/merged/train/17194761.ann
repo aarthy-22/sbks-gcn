@@ -1,0 +1,28 @@
+T24	GENE-Y 13 27	aspartoacylase
+T12	GENE-Y 75 89	Aspartoacylase
+T4	CHEMICAL 114 134	N-acetyl-l-aspartate
+T7	CHEMICAL 138 147	aspartate
+T8	CHEMICAL 152 159	acetate
+T16	GENE-N 448 462	aspartoacylase
+T5	CHEMICAL 548 549	N
+T17	GENE-N 569 583	aspartoacylase
+T6	CHEMICAL 625 629	zinc
+T18	GENE-N 625 650	zinc-dependent hydrolases
+T19	GENE-N 662 681	carboxypeptidases A
+T20	GENE-Y 705 719	aspartoacylase
+T21	GENE-N 766 783	carboxypeptidases
+T9	CHEMICAL 856 857	C
+T22	GENE-Y 879 893	aspartoacylase
+T23	GENE-N 901 916	globular domain
+T10	CHEMICAL 977 978	N
+T11	CHEMICAL 1074 1075	N
+T1	CHEMICAL 1081 1082	C
+T2	CHEMICAL 1105 1106	C
+T13	GENE-Y 1413 1427	aspartoacylase
+T14	GENE-N 1460 1477	carboxypeptidases
+T3	CHEMICAL 1512 1516	zinc
+T15	GENE-Y 1743 1763	human aspartoacylase
+R0	CPR-9 Arg1:T7 Arg2:T12
+R1	NOT Arg1:T5 Arg2:T18
+R2	NOT Arg1:T5 Arg2:T19
+R3	NOT Arg1:T5 Arg2:T20

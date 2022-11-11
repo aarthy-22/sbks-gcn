@@ -1,0 +1,37 @@
+T23	CHEMICAL 35 42	tacrine
+T37	GENE-Y 53 73	acetylcholinesterase
+T32	GENE-Y 143 163	acetylcholinesterase
+T19	CHEMICAL 176 189	physostigmine
+T21	CHEMICAL 191 198	tacrine
+T2	CHEMICAL 203 215	rivastigmine
+T9	CHEMICAL 418 431	physostigmine
+T10	CHEMICAL 458 465	tacrine
+T11	CHEMICAL 495 507	rivastigmine
+T12	CHEMICAL 561 568	Tacrine
+T33	GENE-Y 661 675	cholinesterase
+T13	CHEMICAL 688 696	Atropine
+T14	CHEMICAL 721 735	methylatropine
+T15	CHEMICAL 751 758	tacrine
+T16	CHEMICAL 809 816	tacrine
+T34	GENE-N 842 861	alpha1-adrenoceptor
+T17	CHEMICAL 873 881	prazosin
+T18	CHEMICAL 889 900	vasopressin
+T35	GENE-N 889 912	vasopressin V1 receptor
+T20	CHEMICAL 925 1010	[beta-mercapto-beta,beta-cyclopenta-methylenepropionyl1, O-Me-Tyr2, Arg8] vasopressin
+T36	GENE-Y 999 1010	vasopressin
+T22	CHEMICAL 1047 1054	tacrine
+T1	CHEMICAL 1131 1138	tacrine
+T24	GENE-N 1247 1266	muscarinic receptor
+T3	CHEMICAL 1278 1286	atropine
+T25	GENE-Y 1313 1335	muscarinic M1 receptor
+T4	CHEMICAL 1347 1358	pirenzepine
+T26	GENE-Y 1385 1407	muscarinic M2 receptor
+T5	CHEMICAL 1419 1432	methoctramine
+T27	GENE-Y 1462 1484	muscarinic M3 receptor
+T6	CHEMICAL 1496 1532	para-fluoro-hexahydro-sila-difenidol
+T28	GENE-N 1582 1601	muscarinic receptor
+T7	CHEMICAL 1629 1636	tacrine
+T29	GENE-Y 1680 1700	acetylcholinesterase
+T30	GENE-Y 1824 1847	muscarinic M2 receptors
+T8	CHEMICAL 1905 1916	vasopressin
+T31	GENE-Y 1938 1958	acetylcholinesterase

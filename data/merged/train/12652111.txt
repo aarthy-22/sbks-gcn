@@ -1,0 +1,12 @@
+Comparison of the effects of cilostazol and milrinone on cAMP-PDE activity, intracellular cAMP and calcium in the heart.
+We investigated the basis for the difference in the cardiotonic effects of the PDE3 inhibitors cilostazol and milrinone in the rabbit heart.
+Cilostazol displayed greater selectivity than milrinone for inhibition of cAMP-PDE activity in microsomal vs cytosolic fractions from rabbit heart.
+This difference was due to the inhibition of significantly less cytosolic cAMP-PDE activity by cilostazol compared to milrinone.
+A combination of cilostazol (>15 microM) and the PDE4 selective inhibitor, rolipram (5 microM), inhibited levels of cytosolic cAMP-PDE activity similar to those inhibited by milrinone on its own.
+This suggested that milrinone inhibited PDE4 in addition to PDE3 activity.
+In isolated rabbit cardiomyocytes, milrinone (>10 microM) caused greater elevations in intracellular cAMP and calcium than cilostazol.
+In the presence of rolipram, however, the cAMP and calcium elevating effects of cilostazol and milrinone were similar.
+Therefore, in rabbit heart, partial inhibition of PDE4 by milrinone contributed to greater increases in cardiomyocyte cAMP and calcium levels than cilostazol.
+PDE4 activity in failing human heart was lower than in rabbit heart and there was no significant difference in the inhibition of human cytosolic cAMP-PDE by cilostazol and milrinone.
+Our results suggest that in normal rabbit heart inhibition of PDE4 by milrinone may partly contribute to the greater cardiotonic effect of milrinone when compared to cilostazol.
+However, the lower level of PDE4 activity in failing human heart suggests that factors other than inhibition of PDE4 by milrinone may contribute to differences in cardiotonic action when compared to cilostazol.

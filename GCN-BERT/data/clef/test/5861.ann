@@ -1,0 +1,25 @@
+T1	EXAMPLE_LABEL 8 10	22
+T2	REACTION_PRODUCT 26 148	trans-2-chloro-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)-N-(2,4-difluoro-3-methoxyphenyl)benzamide
+T3	REACTION_PRODUCT 150 155	F1171
+T4	STARTING_MATERIAL 157 249	trans-2-Chloro-5-(2,2-dichloro-3-(3,5-dichlorophenyl)cyclopropane-1-carboxamido)benzoic acid
+T5	STARTING_MATERIAL 251 254	C12
+T6	SOLVENT 290 297	toluene
+T7	REAGENT_CATALYST 322 337	oxalyl chloride
+T8	SOLVENT 382 403	N,N-dimethylformamide
+T9	TEMPERATURE 421 437	room temperature
+T10	OTHER_COMPOUND 584 592	nitrogen
+T11	STARTING_MATERIAL 594 623	2,4-Difluoro-3-methoxyaniline
+T12	SOLVENT 672 680	pyridine
+T13	TEMPERATURE 750 766	room temperature
+T14	OTHER_COMPOUND 827 845	dimethyl sulfoxide
+T15	OTHER_COMPOUND 964 979	carboxylic acid
+T16	OTHER_COMPOUND 1026 1039	ethyl acetate
+T17	OTHER_COMPOUND 1044 1051	aqueous
+T18	OTHER_COMPOUND 1052 1069	hydrochloric acid
+T19	OTHER_COMPOUND 1141 1155	sodium sulfate
+T20	OTHER_COMPOUND 1179 1189	silica gel
+T21	OTHER_COMPOUND 1210 1216	hexane
+T22	OTHER_COMPOUND 1217 1230	ethyl acetate
+T23	REACTION_PRODUCT 1241 1255	title compound
+T24	YIELD_OTHER 1281 1288	0.075 g
+T25	YIELD_PERCENT 1290 1293	57%

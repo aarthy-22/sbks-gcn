@@ -1,0 +1,8 @@
+T1	YIELD_OTHER 621 630	0.66 mmol
+T2	STARTING_MATERIAL 507 554	(S)-1-(6-fluoro-3-(pyridine-2-yl)ethane-1-amine
+T3	YIELD_PERCENT 639 642	66%
+T4	EXAMPLE_LABEL 5 6	5
+T5	YIELD_OTHER 165 171	376 mg
+T6	REACTION_PRODUCT 175 316	(S)-1-(4-((1-(6-fluoro-3-(pyridine-2-yl)quinoline-2-yl)ethyl)amino)-6-((4-methoxybenzyl)amino)-2-(methylmercapto)pyrimidine-5-yl)ethane-1-one
+T7	STARTING_MATERIAL 379 462	1-(4-chloro-2-methylmercapto-6-((4-methoxybenzyl)amino)pyrimidine-5-yl)ethane-1-one
+T8	REACTION_PRODUCT 23 164	(S)-1-(4-((1-(6-fluoro-3-(pyridine-2-yl)quinoline-2-yl)ethyl)amino)-6-((4-methoxybenzyl)amino)-2-(methylmercapto)pyrimidine-5-yl)ethane-1-one

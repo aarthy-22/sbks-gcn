@@ -1,0 +1,9 @@
+The growth plate sparing effects of the selective glucocorticoid receptor modulator, AL-438.
+Long-term use of glucocorticoids (GC) can cause growth retardation in children due to their actions on growth plate chondrocytes.
+AL-438, a non-steroidal anti-inflammatory agent that acts through the glucocorticoid receptor (GR) retains full anti-inflammatory efficacy but has reduced negative effects on osteoblasts compared to those elicited by prednisolone (Pred) or dexamethasone (Dex).
+We have used the murine chondrogenic ATDC5 cell line to compare the effects of AL-438 with those of Dex and Pred on chondrocyte dynamics.
+Dex and Pred caused a reduction in cell proliferation and proteoglycan synthesis, whereas exposure to AL-438 had no effect.
+LPS-induced IL-6 production in ATDC5 cells was reduced by Dex or AL-438, showing that AL-438 has similar anti-inflammatory efficacy to Dex in these cells.
+Fetal mouse metatarsals grown in the presence of Dex were shorter than control bones whereas AL-438 treated metatarsals paralleled control bone growth.
+These results indicate that the adverse effects Dex or Pred have on chondrocyte proliferation and bone growth were attenuated following AL-438 exposure, suggesting that AL-438 has a reduced side effect profile on chondrocytes compared to other GCs.
+This could prove important in the search for new anti-inflammatory treatments for children.

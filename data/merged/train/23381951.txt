@@ -1,0 +1,8 @@
+Pharmacogenetics of Allopurinol-Making an Old Drug Safer.
+Allopurinol is a drug that has been used for decades to lower serum urate levels in patients with gout or chronic renal failure and in cancer patients undergoing chemotherapy at risk of tumor lysis syndrome.
+Patients may develop cutaneous hypersensitivity reactions, ranging from mild rashes to potentially fatal severe cutaneous adverse reactions (SCARs) namely drug hypersensitivity syndrome, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN).
+Recent studies have demonstrated the association between human leukocyte antigen (HLA) B*58:01 allele and allopurinol-induced SCARs, which might explain ethnic differences in their incidences.
+Genotyping is now required before starting abacavir and carbamazepine so as to identify individuals susceptible to SJS.
+However, no genetic screening is advocated before commencement of allopurinol.
+The lack of availability of a rapid and inexpensive screening test for the HLA-B*58:01 allele is one of the obstacles to such screening.
+Development of a test that is quick, accurate, and cost-effective is warranted.

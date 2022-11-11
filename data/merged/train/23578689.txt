@@ -1,0 +1,5 @@
+Conformationally restricted homotryptamines.
+Part 6: Indole-5-cycloalkyl methylamines as selective serotonin reuptake inhibitors.
+Racemic 5-(trans-2-aminomethylcyclopropyl)indoles, 5-(trans-2-aminomethylcyclopentyl) indoles, and 5-(cis-2-aminomethylcyclopentyl)indoles were synthesized and evaluated as selective serotonin reuptake inhibitors.
+These analogs followed SAR trends similar to those previously reported for 3-cycloalkyl substituted indoles.
+The most potent analogs exhibited single digit nanomolar inhibition at the human serotonin transporter but were 10-fold less active than the previously reported compounds.

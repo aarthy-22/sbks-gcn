@@ -1,0 +1,18 @@
+T1	CHEMICAL 179 186	alcohol
+T3	CHEMICAL 462 470	phenolic
+T4	CHEMICAL 482 491	kampferol
+T5	CHEMICAL 493 514	kampferol-3-glucoside
+T6	CHEMICAL 519 542	kampferol-3-galactoside
+T7	CHEMICAL 586 605	1-ethoxypentacosane
+T8	CHEMICAL 607 622	heptacosan-1-ol
+T9	CHEMICAL 627 639	β-sitosterol
+T10	CHEMICAL 659 674	heptacosan-1-ol
+T11	CHEMICAL 676 688	β-sitosterol
+T12	CHEMICAL 693 716	kampferol-3-galactoside
+T16	GENE-N 887 895	cytokine
+T17	GENE-Y 896 923	tumor necrosis factor-alpha
+T18	GENE-Y 925 930	TNF-α
+T13	CHEMICAL 969 984	malondialdehyde
+T14	CHEMICAL 986 989	MDA
+T15	GENE-Y 1102 1107	TNF-α
+T2	CHEMICAL 1120 1123	MDA

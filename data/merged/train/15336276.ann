@@ -1,0 +1,16 @@
+T13	GENE-Y 48 82	prostate-specific membrane antigen
+T9	CHEMICAL 88 115	phenylalkylphosphonamidates
+T10	GENE-Y 222 226	PSMA
+T1	CHEMICAL 239 265	phenylalkylphosphonamidate
+T2	CHEMICAL 281 294	glutamic acid
+T12	GENE-Y 365 369	PSMA
+T3	CHEMICAL 380 414	phenyl- and benzylphosphonamidates
+T4	CHEMICAL 481 490	phenethyl
+T5	CHEMICAL 577 582	alkyl
+T6	CHEMICAL 783 793	phosphorus
+T7	CHEMICAL 867 872	alkyl
+T8	CHEMICAL 1026 1037	phenylalkyl
+T11	GENE-Y 1186 1190	PSMA
+R0	CPR-4 Arg1:T2 Arg2:T12
+R1	NOT Arg1:T7 Arg2:T11
+R2	NOT Arg1:T8 Arg2:T11

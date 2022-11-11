@@ -1,0 +1,4 @@
+Effects of nedocromil sodium on the binding of N-formyl-methionyl-leucyl-phenylalanine in human neutrophils.
+In the present study the inhibition by nedocromil sodium of the specific receptor binding of FMLP was evaluated in human neutrophils (PMNs) using a FMLP-(3H) binding assay.
+The time course of the binding was markedly influenced by nedocromil sodium used at a concentration of 300 microM. No significant inhibition was obtained when the cells were treated with nedocromil sodium 3 microM or with sodium cromoglycate 300 microM. FMLP binding is essentially eliminated by the highest dose of nedocromil sodium.
+The biologic meaning of this effect in asthmatic patients should be further evaluated.

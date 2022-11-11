@@ -1,0 +1,17 @@
+T7	CHEMICAL 13 91	7-methoxy-6-[4-(4-methyl-1,3-thiazol-2-yl)-1H-imidazol-5-yl]-1,3-benzothiazole
+T8	CHEMICAL 93 104	TASP0382088
+T16	GENE-Y 130 174	transforming growth factor-β type I receptor
+T1	CHEMICAL 217 295	7-Methoxy-6-[4-(4-methyl-1,3-thiazol-2-yl)-1H-imidazol-5-yl]-1,3-benzothiazole
+T6	CHEMICAL 300 311	TASP0382088
+T9	GENE-Y 346 398	transforming growth factor-β (TGF-β) type I receptor
+T10	GENE-Y 414 444	activin receptor-like kinase 5
+T11	GENE-Y 448 452	ALK5
+T12	GENE-Y 501 505	ALK5
+T13	GENE-Y 612 617	TGF-β
+T14	GENE-N 626 649	Smad2/3 phosphorylation
+T2	CHEMICAL 706 713	methoxy
+T3	CHEMICAL 727 740	benzothiazole
+T4	CHEMICAL 797 806	imidazole
+T5	CHEMICAL 820 828	thiazole
+T15	GENE-Y 961 982	Smad2 phosphorylation
+R0	CPR-4 Arg1:T6 Arg2:T10

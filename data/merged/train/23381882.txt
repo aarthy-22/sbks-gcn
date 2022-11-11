@@ -1,0 +1,9 @@
+Mechanisms of Pharmacokinetic Enhancement Between Ritonavir and Saquinavir; Micro/Small Dosing Tests Using Midazolam (CYP3A4), Fexofenadine (p-Glycoprotein), and Pravastatin (OATP1B1) as Probe Drugs.
+We investigated the mechanisms of ritonavir-mediated enhancement effect on the pharmacokinetics of saquinavir using in vivo probes for CYP3A4 (midazolam), p-glycoprotein (fexofenadine), and OATP1B1 (pravastatin) following oral micro/small dosing.
+A cocktail of the drugs (2 mg of saquinavir, 100 µg of each probe) was administered to eight healthy volunteers (phase 1), and then coadministered with 20 mg (phase 2) and 100 mg (phase 3) of ritonavir.
+Plasma concentrations of the drugs were measured by validated LC-MS/MS methods.
+The mean plasma AUC(0-24) (pg hour/mL) of saquinavir at phases 1, 2, and 3 was 101, 2 540, and 23 900 (P < .01), respectively.
+The relative area under the plasma concentration-time curve (AUC)(0-24) ratios of midazolam and fexofenadine at phases 1, 2, and 3 were 1:5.9:14.7 (P < .01), and 1:1.4:2.2 (P < .01-.05), respectively.
+In contrast, there was no difference in the pharmacokinetics of pravastatin.
+Inhibition of intestinal and hepatic CYP3A-mediated metabolism, and intestinal p-glycoprotein-mediated efflux of saquinavir, but not OATP1B1, is involved in the enhancement mechanism.
+Micro/small dosing is useful for examining the mechanism of drug interactions without safety concern.

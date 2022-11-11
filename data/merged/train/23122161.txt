@@ -1,0 +1,8 @@
+Suppression of LPS-induced inflammatory activities by Rosmarinus officinalis L. Rosemary (Rosmarinus officinalis L.) has been used in folk medicine to treat headaches, epilepsy, poor circulation, and many other ailments.
+It was found that rosemary could act as a stimulant and mild analgesic and could reduce inflammation.
+However, the mechanisms underlying the anti-inflammatory effects of rosemary need more study to be established.
+Therefore, in this study, the effects of rosemary on the activation of nuclear factor kappa beta (NF-kB) and mitogen-activated protein kinases (MAPKs), the expression of inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2), and the production of nitric oxide (NO), prostaglandin E(2) (PGE(2)), and cytokine in lipopolysaccharide (LPS)-stimulated RAW 264.7 cells were investigated.
+A methanol extract of rosemary and its hexane fraction reduced NO generation with an IC(50) of 2.75 and 2.83 μg/ml, respectively.
+Also, the methanol extract and the hexane fraction inhibited LPS-induced MAPKs and NF-kB activation associated with the inhibition of iNOS or COX-2 expression.
+LPS-induced production of PGE(2) and tumour necrosis factor-alpha (TNF-α) were blocked by rosemary.
+Rosemary extract and its hexane fraction are important for the prevention of phosphorylation of MAPKs, thereby blocking NF-kB activation, which in turn leads to decreased expression of iNOS and COX-2, thus preventing inflammation.

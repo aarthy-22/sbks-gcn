@@ -1,0 +1,21 @@
+T20	GENE-N 28 48	heme binding protein
+T13	GENE-Y 98 105	YLR205c
+T8	GENE-N 213 227	heme oxygenase
+T9	GENE-Y 236 246	human HO-1
+T10	GENE-N 253 263	YLR205 ORF
+T11	GENE-Y 416 423	YLR205c
+T1	CHEMICAL 478 483	NADPH
+T12	GENE-Y 478 509	NADPH-cytochrome P450 reductase
+T2	CHEMICAL 513 517	NADH
+T14	GENE-N 513 555	NADH-putidaredoxin-putidaredoxin reductase
+T15	GENE-N 576 590	heme oxygenase
+T3	CHEMICAL 630 638	H(2)O(2)
+T16	GENE-N 649 659	peroxidase
+T4	CHEMICAL 676 684	guaiacol
+T5	CHEMICAL 686 702	potassium iodide
+T6	CHEMICAL 708 763	2,2(')-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid
+T7	CHEMICAL 765 769	ABTS
+T17	GENE-Y 778 785	YLR205c
+T18	GENE-N 798 809	hemoprotein
+T19	GENE-N 858 868	peroxidase
+R0	NOT Arg1:T1 Arg2:T15

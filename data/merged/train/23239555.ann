@@ -1,0 +1,13 @@
+T4	CHEMICAL 0 5	Boron
+T5	CHEMICAL 26 30	acyl
+T13	GENE-N 26 60	acyl protein thioesterases 1 and 2
+T6	GENE-N 62 65	Ras
+T7	GENE-N 231 234	Ras
+T1	CHEMICAL 259 263	acyl
+T8	GENE-N 259 297	acyl protein thioesterases APT1 and -2
+T9	GENE-N 334 337	Ras
+T2	CHEMICAL 361 368	boronic
+T3	CHEMICAL 373 385	borinic acid
+T10	GENE-N 436 439	APT
+T11	GENE-N 561 578	human APT1 and -2
+T12	GENE-N 664 670	Erk1/2

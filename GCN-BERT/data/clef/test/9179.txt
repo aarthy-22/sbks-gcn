@@ -1,0 +1,5 @@
+Core 23
+(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-5-(2,6-difluorophenyl)-4-nitropyrrolidine-2-carboxylate
+Core 23A
+(E)-ethyl 2-((2,6-difluorobenzylidene)amino)acetate
+A mixture of ethyl 2-aminoacetate hydrochloride (1.85 g, 13.25 mmol) and magnesium sulfate (3.19 g, 26.5 mmol) in dichloromethane (22.09 mL) (anhydrous) was treated with triethylamine (1.847 mL, 13.25 mmol), stirred for 30 minutes and treated with 2,6-difluorobenzaldehyde (1.88 g, 13.25 mmol) as a solution in 3 mL of dichloromethane. The vial was capped and stirred at ambient temperature overnight. The solid material was filtered. The filtrate was concentrated, toluene (5 mL) was added, and the mixture was filtered again and concentrated, to provide (E)-ethyl 2-((2,6-difluorobenzylidene)amino)acetate (2.9 g, 12.76 mmol, 96% yield) which was used directly in the next step.

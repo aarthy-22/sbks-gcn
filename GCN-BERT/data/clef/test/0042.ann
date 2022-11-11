@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 8 9	1
+T2	REACTION_PRODUCT 10 160	(E)-3-(3,5-difluoro-4-((5S,7R/5R,7S)-6-(2-fluoro-2-methylpropyl)-7-methyl-5,6,7,8-tetr ahydro-[1,3]dioxolo [4,5-g]isoquinolin-5-yl)phenyl)acrylic acid
+T3	EXAMPLE_LABEL 166 167	1
+T4	REACTION_PRODUCT 168 243	N-(1-(3,4-bis(benzyloxy)phenyl)propan-2-yl)-2-fluoro-2-methylpropan-1-amine
+T5	STARTING_MATERIAL 244 286	1-(3,4-bis(benzyloxy)phenyl)propan-2-amine
+T6	STARTING_MATERIAL 287 289	1a
+T7	STARTING_MATERIAL 414 463	2-fluoro-2-methylpropyl trifluoromethanesulfonate
+T8	STARTING_MATERIAL 464 466	1b
+T9	REAGENT_CATALYST 589 614	N,N-diisopropylethylamine
+T10	SOLVENT 660 671	1,4-dioxane
+T11	TIME 711 719	12 hours
+T12	TEMPERATURE 723 727	90°C
+T13	OTHER_COMPOUND 850 860	silica gel
+T14	REACTION_PRODUCT 919 933	title compound
+T15	REACTION_PRODUCT 934 1009	N-(1-(3,4-bis(benzyloxy)phenyl)propan-2-yl)-2-fluoro-2-methylpropan-1-amine
+T16	REACTION_PRODUCT 1010 1012	1c
+T17	YIELD_OTHER 1014 1020	527 mg
+T18	YIELD_PERCENT 1028 1033	54.3%

@@ -1,0 +1,12 @@
+Role of the calcium modulated cyclases in the development of the retinal projections.
+Transmembrane isoforms of adenylate cyclases (AC) integrate a wide variety of extracellular signals from neurotransmitters to morphogens and can also regulate cAMP production in response to calcium entry.
+Based on observations in the barrelless mouse strain, the Adcy1 gene (AC1) was involved in the segregation of binocular retinal inputs.
+To determine the potential role of other AC isoforms we localized the Adcy genes in the visual centres during development, using in situ hybridization.
+Six different AC subtypes were found in the developing retinal ganglion cell layer (RGC; AC1, AC2, AC3, AC5, AC8, and AC9), and three AC subtypes were expressed in the central brain targets, the dorsal lateral geniculate nucleus (AC1 and AC8), the ventral lateral geniculate nucleus (AC2 and AC8) and the superior colliculus (AC1, AC2, AC8).
+Using a genetic approach we tested the role of the calcium modulated cyclases AC1, AC5 and AC8 for the segregation retinal fibres.
+Ipsilateral retinal axons remained exuberant in the AC1(-/-) mice, with overlapping retinal projections from both eyes in the superior colliculus and the visual thalamus.
+These abnormalities were similar to those of barrelless mouse mutants.
+No abnormalities were detectable in the AC5(-/-) or the AC8(-/-) mice.
+Similar abnormalities were noted in the single AC1(-/-) and the AC1/AC8 double-knockout mice (DKO).
+Thus, only AC1 is required for the maturation of the retinal axon terminals whereas AC5 and AC8 are not needed.
+The specificity of AC1's action is linked to its cellular localization in the RGCs and to its distinctive functional profile, compared with the other cyclases expressed in the same cells.

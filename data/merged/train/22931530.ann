@@ -1,0 +1,10 @@
+T5	CHEMICAL 0 28	α-Amino-α´-Halomethylketones
+T7	CHEMICAL 89 95	Serine
+T9	GENE-N 89 117	Serine and Cysteine Protease
+T6	CHEMICAL 100 108	Cysteine
+T1	CHEMICAL 130 158	α-Amino-α´-halomethylketones
+T2	CHEMICAL 233 240	carbons
+T3	CHEMICAL 474 480	serine
+T8	GENE-N 474 503	serine and cysteine proteases
+T4	CHEMICAL 485 493	cysteine
+R0	CPR-4 Arg1:T5 Arg2:T9

@@ -1,0 +1,8 @@
+T1	EXAMPLE_LABEL 18 20	13
+T2	REACTION_PRODUCT 21 102	N-[4-(2-Furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]quinoline-3-carboxamide
+T3	REACTION_PRODUCT 114 116	IP
+T4	REACTION_PRODUCT 185 187	IP
+T5	YIELD_OTHER 190 196	178 mg
+T6	YIELD_PERCENT 198 201	76%
+T7	STARTING_MATERIAL 245 304	2-amino-4-(2-furyl)thiazol-5-yl=tetrahydropyran-4-yl=ketone
+T8	STARTING_MATERIAL 357 384	quinoline-3-carboxylic acid

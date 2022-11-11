@@ -1,0 +1,20 @@
+T14	CHEMICAL 13 22	histamine
+T18	GENE 13 34	histamine H1-receptor
+T15	CHEMICAL 86 102	chlorpheniramine
+T13	CHEMICAL 107 119	dimethindene
+T1	CHEMICAL 145 174	(+)- and (-)-chlorpheniramine
+T9	CHEMICAL 184 209	(+)- and (-)-dimethindene
+T2	CHEMICAL 388 414	triprolidine hydrochloride
+T3	CHEMICAL 499 511	triprolidine
+T4	CHEMICAL 513 533	(+)-chlorpheniramine
+T5	CHEMICAL 538 554	(-)-dimethindene
+T6	CHEMICAL 616 636	(+)-chlorpheniramine
+T7	CHEMICAL 641 657	(-)-dimethindene
+T8	CHEMICAL 718 738	(+)-chlorpheniramine
+T10	CHEMICAL 768 788	(-)-chlorpheniramine
+T11	CHEMICAL 793 809	(+)-dimethindene
+T12	CHEMICAL 990 999	histamine
+T16	GENE 990 1011	histamine H1-receptor
+T17	GENE 1074 1085	H1-receptor
+R0	CPR-6 Arg1:T15 Arg2:T18
+R1	CPR-6 Arg1:T13 Arg2:T18

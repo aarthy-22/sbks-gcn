@@ -1,0 +1,13 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 8 49	5-methylsulfonylisoindoline hydrochloride
+T3	STARTING_MATERIAL 64 113	5-methylsulfonyl-2-tert-butoxycarbonylisoindoline
+T4	SOLVENT 137 145	methanol
+T5	SOLVENT 146 161	dichloromethane
+T6	REAGENT_CATALYST 191 208	hydrogen chloride
+T7	TEMPERATURE 246 262	room temperature
+T8	TIME 267 273	1 hour
+T9	OTHER_COMPOUND 326 337	ethyl ether
+T10	OTHER_COMPOUND 396 407	ethyl ether
+T11	REACTION_PRODUCT 438 479	5-methylsulfonylisoindoline hydrochloride
+T12	YIELD_OTHER 481 487	3.44 g
+T13	YIELD_PERCENT 497 500	80%

@@ -1,0 +1,5 @@
+Characterization of tyrosinase inhibitors in the twigs of Cudrania tricuspidata and their structure-activity relationship study.
+The twigs of Cudrania tricuspidata were found to show strong tyrosinase inhibitory activity, and further detailed component analysis resulted in the isolation of a new flavanol glucoside, (2S,3S)-2,3-trans-dihydromorin-7-O-β-d-glucoside (1), plus twenty-seven known compounds (2-28).
+Their structures were elucidated on the basis of ESI-MS and NMR spectral data.
+Among the isolated compounds, trans-dihydromorin (8), oxyresveratrol (9), and steppogenin (12) were found to exhibit significant tyrosinase inhibition activities.
+Moreover, the structure-activity relationship of these isolated compounds was also discussed.

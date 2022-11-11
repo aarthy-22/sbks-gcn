@@ -1,0 +1,14 @@
+T1	EXAMPLE_LABEL 5 6	3
+T2	REACTION_PRODUCT 23 108	4-Amino-5-cyano-6-(1-(8-chloro-4-oxo-2-phenyl-4H-chromen-3-yl) ethylamino) pyrimidine
+T3	STARTING_MATERIAL 109 174	3-(1-Aminoethyl)-8-chloro-2-phenyl-4H-chromen-4-one hydrochloride
+T4	STARTING_MATERIAL 194 228	4-amino-5-cyano-6-chloropyrimidine
+T5	REAGENT_CATALYST 251 270	potassium carbonate
+T6	SOLVENT 312 315	DMF
+T7	TEMPERATURE 333 338	100°C
+T8	TIME 352 355	24h
+T9	OTHER_COMPOUND 422 427	Water
+T10	OTHER_COMPOUND 509 522	ethyl acetate
+T11	OTHER_COMPOUND 545 559	sodium sulfate
+T12	YIELD_OTHER 677 681	35mg
+T13	REACTION_PRODUCT 693 698	solid
+T14	YIELD_PERCENT 707 712	14.2%

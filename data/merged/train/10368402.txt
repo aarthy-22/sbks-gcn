@@ -1,0 +1,8 @@
+Maturation of neuromuscular transmission during early development in zebrafish.
+We have examined the rapid development of synaptic transmission at the neuromuscular junction (NMJ) in zebrafish embryos and larvae by patch-clamp recording of spontaneous miniature endplate currents (mEPCs) and single acetylcholine receptor (AChR) channels.
+Embryonic (24-36 h) mEPCs recorded in vivo were small in amplitude (<50 pA).
+The rate of mEPCs increased in larvae (3.5-fold increase measured by 6 days), and these mEPCs were mostly of larger amplitude (10-fold on average) with (</=5-fold) faster kinetics.
+Intracellular labeling with Lucifer yellow indicated extensive coupling between muscle cells in both embryos and larvae (</=10 days).
+Blocking acetylcholinesterase (AChE) with eserine had no effect on mEPC kinetics in embryos at 1 day and only partially slowed (by approximately 1/2) the decay rate in larvae at 6 days.
+In acutely dissociated muscle cells, we observed the same two types of AChR with conductances of 45 and 60 pS and with similar, brief (<0.5 ms) mean open times in both embryos and larvae.
+We conclude that AChR properties are set early during development at these early stages; functional maturation of the NMJ is only partly shaped by expression of AChE and may also depend on postsynaptic AChR clustering and presynaptic maturation.

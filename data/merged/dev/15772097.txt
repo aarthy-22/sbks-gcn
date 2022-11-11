@@ -1,0 +1,8 @@
+Neonatal epileptic encephalopathy caused by mutations in the PNPO gene encoding pyridox(am)ine 5'-phosphate oxidase.
+In the mouse, neurotransmitter metabolism can be regulated by modulation of the synthesis of pyridoxal 5'-phosphate and failure to maintain pyridoxal phosphate (PLP) levels results in epilepsy.
+This study of five patients with neonatal epileptic encephalopathy suggests that the same is true in man.
+Cerebrospinal fluid and urine analyses indicated reduced activity of aromatic L-amino acid decarboxylase and other PLP-dependent enzymes.
+Seizures ceased with the administration of PLP, having been resistant to treatment with pyridoxine, suggesting a defect of pyridox(am)ine 5'-phosphate oxidase (PNPO).
+Sequencing of the PNPO gene identified homozygous missense, splice site and stop codon mutations.
+Expression studies in Chinese hamster ovary cells showed that the splice site (IVS3-1g>a) and stop codon (X262Q) mutations were null activity mutations and that the missense mutation (R229W) markedly reduced pyridox(am)ine phosphate oxidase activity.
+Maintenance of optimal PLP levels in the brain may be important in many neurological disorders in which neurotransmitter metabolism is disturbed (either as a primary or as a secondary phenomenon).

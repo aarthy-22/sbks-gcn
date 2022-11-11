@@ -1,0 +1,13 @@
+T9	CHEMICAL 0 12	Peginesatide
+T1	CHEMICAL 113 125	Peginesatide
+T2	CHEMICAL 129 148	polyethylene glycol
+T5	CHEMICAL 150 153	PEG
+T10	GENE 224 247	erythropoietin receptor
+T4	CHEMICAL 420 432	peginesatide
+T6	CHEMICAL 502 514	peginesatide
+T7	CHEMICAL 641 653	peginesatide
+T8	CHEMICAL 817 829	peginesatide
+T3	CHEMICAL 1845 1857	peginesatide
+R0	CPR-3 Arg1:T1 Arg2:T10
+R1	CPR-3 Arg1:T2 Arg2:T10
+R2	CPR-3 Arg1:T5 Arg2:T10

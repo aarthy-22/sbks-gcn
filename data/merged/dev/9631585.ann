@@ -1,0 +1,18 @@
+T12	GENE-Y 101 121	DNA-topoisomerase II
+T5	CHEMICAL 134 143	etoposide
+T6	CHEMICAL 148 160	mitoxantrone
+T7	CHEMICAL 188 204	cyclophosphamide
+T8	GENE-Y 371 391	DNA-topoisomerase II
+T1	CHEMICAL 404 413	etoposide
+T2	CHEMICAL 418 430	mitoxantrone
+T3	CHEMICAL 457 473	cyclophosphamide
+T4	CHEMICAL 498 507	etoposide
+T9	GENE-Y 829 833	AML1
+T10	GENE-Y 1018 1022	AML1
+T11	GENE-N 1111 1136	breakpoint cluster region
+R0	CPR-4 Arg1:T5 Arg2:T12
+R1	CPR-4 Arg1:T6 Arg2:T12
+R2	CPR-2 Arg1:T7 Arg2:T12
+R3	CPR-4 Arg1:T1 Arg2:T8
+R4	CPR-4 Arg1:T2 Arg2:T8
+R5	CPR-2 Arg1:T3 Arg2:T8

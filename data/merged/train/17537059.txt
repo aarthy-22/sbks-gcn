@@ -1,0 +1,15 @@
+Plasma protein binding properties to immobilized heparin and heparin-albumin conjugate.
+Selective adhesion of plasma proteins to immobilized heparin is considered to be beneficial regarding hemocompatibility of foreign materials in contact with blood.
+Prothrombin, thrombin, antithrombin III (AT3), and fibrinogen were selected for analysis in an experimental model.
+Biomolecular interaction analysis employing surface plasmon resonance was utilized to record and analyze their binding properties in real time.
+Biotinylated heparin, heparin-albumin conjugate, and albumin, respectively, were immobilized onto streptavidin-coated sensors as ligands.
+Prothrombin did not bind to any of the ligand surfaces and no specific binding of any of the plasma proteins to albumin was observed.
+Binding kinetics of thrombin to heparin and to heparin-albumin conjugate were calculated using two different methods.
+For heparin, identical K(D)(equilibrium dissociation constant) values of 61 x 10(-9) M were obtained with both methods.
+For the conjugate, only slightly different K(D) values of 111 x 10(-9) and 104 x 10(-9) M, respectively, were calculated.
+The affinity of thrombin toward the heparin-coated surface proved to be higher than its affinity toward the heparin conjugate.
+The binding pattern of AT3 to both heparin and heparin-albumin conjugate, although specific, was biphasic, possibly due to a conformational change during the binding process.
+Steady-state kinetic analysis revealed a K(D) value of 281 +/- 24 x 10(-9) M for the heparin surface.
+For the conjugate surface, a K(D) of 53 +/- 5 x 10(-9) M was calculated, indicating a higher affinity toward heparin-albumin conjugate.
+A high-affinity binding of fibrinogen to high-density surfaces of both heparin and the conjugate was observed.
+However, as binding to low-density surfaces was considerably reduced, specificity remained uncertain.

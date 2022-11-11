@@ -1,0 +1,17 @@
+T9	CHEMICAL 0 19	tert-Butylcarbamate
+T15	GENE-N 31 50	Histone Deacetylase
+T2	CHEMICAL 178 185	pyrrole
+T4	CHEMICAL 191 198	benzene
+T6	CHEMICAL 205 217	hydroxamates
+T8	CHEMICAL 230 246	2'-aminoanilides
+T1	CHEMICAL 267 286	tert-butylcarbamate
+T10	GENE-N 314 333	histone deacetylase
+T11	GENE-N 335 339	HDAC
+T12	GENE-Y 398 403	HDAC6
+T3	CHEMICAL 446 458	hydroxamates
+T13	GENE-N 483 499	acetyl-α-tubulin
+T5	CHEMICAL 647 651	SAHA
+T7	CHEMICAL 670 685	pyrrole anilide
+T14	GENE-N 1113 1123	histone H3
+R0	CPR-4 Arg1:T9 Arg2:T15
+R1	CPR-4 Arg1:T1 Arg2:T10

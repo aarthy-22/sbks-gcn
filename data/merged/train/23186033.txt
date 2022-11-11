@@ -1,0 +1,20 @@
+Evaluation of romidepsin for clinical activity and radioactive iodine reuptake in radioactive iodine-refractory thyroid carcinoma.
+Background: Historically, systemic therapy for radioactive iodine (RAI)-refractory thyroid cancer has been understudied.
+Available drugs have modest efficacy.
+Romidepsin is a histone deacetylase inhibitor with potent antitumor effects both in vitro and in vivo.
+In thyroid cancer cell lines, romidepsin increases expression of both thyroglobulin and the sodium iodide symporter messenger RNAs, suggesting the possibility of improved iodine concentrating ability of RAI-resistant tumors.
+Methods: This was a single-institution Simon 2-stage phase II clinical study.
+Eligible patients had progressive, RAI-refractory, recurrent/metastatic, nonmedullary, nonanaplastic thyroid cancer.
+Response Evaluation Criteria in Solid Tumors (RECIST) 1.0 measurable disease and adequate organ/marrow function were required.
+Romidepsin 13 mg/m(2) was administered intravenously on days 1, 8, and 15, in cycles of 28 days.
+The primary endpoint was the response rate by RECIST; change in RAI avidity was a secondary endpoint.
+The study closed after the first stage due to the lack of response.
+Results: Twenty patients were enrolled: female, 50%; median age, 64 years; histology, 8 papillary/1 follicular/11 Hürthle.
+Grade 4-5 adverse events (AEs) possibly related to the drug: grade 5, 1 sudden death; grade 4, 1 pulmonary embolus.
+Twelve of 20 subjects had a reported adverse event.
+No RECIST major responses have been seen.
+Response per protocol: stable disease, 13; disease progression, 7.
+Restoration of RAI avidity was documented in two patients.
+Median overall survival and time on study was 33.2 (1-71+) and 1.7 (0.46-12) months, respectively.
+Conclusions: We observed preliminary signs of in vivo reversal of RAI resistance after treatment with romidepsin.
+However, no major responses were observed and accrual was poor after the grade 5 AE.

@@ -1,0 +1,8 @@
+The active metabolite of Clopidogrel disrupts P2Y12 receptor oligomers and partitions them out of lipid rafts.
+P2Y12, a G protein-coupled receptor that plays a central role in platelet activation has been recently identified as the receptor targeted by the antithrombotic drug, clopidogrel.
+In this study, we further deciphered the mechanism of action of clopidogrel and of its active metabolite (Act-Met) on P2Y12 receptors.
+Using biochemical approaches, we demonstrated the existence of homooligomeric complexes of P2Y12 receptors at the surface of mammalian cells and in freshly isolated platelets.
+In vitro treatment with Act-Met or in vivo oral administration to rats with clopidogrel induced the breakdown of these oligomers into dimeric and monomeric entities in P2Y12 expressing HEK293 and platelets respectively.
+In addition, we showed the predominant association of P2Y12 oligomers to cell membrane lipid rafts and the partitioning of P2Y12 out of rafts in response to clopidogrel and Act-Met.
+The raft-associated P2Y12 oligomers represented the functional form of the receptor, as demonstrated by binding and signal transduction studies.
+Finally, using a series of receptors individually mutated at each cysteine residue and a chimeric P2Y12/P2Y13 receptor, we pointed out the involvement of cysteine 97 within the first extracellular loop of P2Y12 in the mechanism of action of Act-Met.

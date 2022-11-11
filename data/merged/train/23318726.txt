@@ -1,0 +1,12 @@
+Butein protects human dental pulp cells from hydrogen peroxide-induced oxidative toxicity via Nrf2 pathway-dependent heme oxygenase-1 expressions.
+Rhus verniciflua Stokes is a plant that is native to East Asian countries, such as Korea, China, and Japan.
+Butein, a plant polyphenol, is one of the major active components of R. verniciflua.
+Reactive oxygen species (ROS), produced via dental adhesive bleaching agents and pulpal disease, can cause oxidative stress.
+Here, we found that butein possesses cytoprotective effects on hydrogen peroxide (H2O2)-induced dental cell death.
+H2O2 is a representative ROS and causes cell death through necrosis in human dental pulp (HDP) cells.
+H2O2-induced cytotoxicity and production of ROS were blocked in the presence of butein, and these effects were dose dependent.
+Butein also increased heme oxygenase-1 (HO-1) protein expression and HO activity.
+In addition, butein-dependent HO-1 expression was required for the inhibition of H2O2-induced cell death and ROS generation.
+Furthermore, butein treatment caused nuclear accumulation of nuclear factor-E2-related factor 2 (Nrf2) and increased the promoter activity of antioxidant response elements (AREs).
+Treatment of HDP cells with a c-Jun NH2-terminal kinase (JNK) inhibitor also reduced butein-induced HO-1 expression, and butein treatment led to increased JNK phosphorylation.
+These results indicate that butein may be used to prevent functional dental cell death and thus may be useful as a pulpal disease agent.

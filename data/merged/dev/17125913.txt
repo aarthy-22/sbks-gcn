@@ -1,0 +1,14 @@
+Cadmium induces mitogenic signaling in breast cancer cell by an ERalpha-dependent mechanism.
+Breast cancer (BC) is linked to estrogen exposure.
+Estradiol (E2) stimulates BC cells proliferation by binding the estrogen receptor (ER).
+Hormone-related cancers have been linked to estrogenic environmental contaminants.
+Cadmium (Cd) a toxic pollutant, acts as estrogens in BC cells.
+Purpose of our study was to evaluate whether Cd regulates MCF-7 cell proliferation by activating ERK1/2, Akt and PDGFRalpha kinases.
+Cd increased cell proliferation and the ER-antagonist ICI 182,780 blunted it.
+To characterize an ER-dependent mechanism, ERalpha/beta expression was evaluated.
+Cd decreased ERalpha expression, but not ERbeta.
+Cd also increased ERK1/2, Akt and PDGFRalpha phosphorylation while ICI blocked it.
+Since stimulation of phosphorylation was slower than expected, c-fos and c-jun proto-oncogenes, and PDGFA were analyzed.
+Cd rapidly increased c-jun, c-fos and PDGFA expression.
+Cells were also co-incubated with the Cd and specific kinases inhibitors, which blocked the Cd-stimulated proliferation.
+In conclusion, our results indicate that Cd increases BC cell proliferation in vitro by stimulating Akt, ERK1/2 and PDGFRalpha kinases activity likely by activating c-fos, c-jun and PDGFA by an ERalpha-dependent mechanism.

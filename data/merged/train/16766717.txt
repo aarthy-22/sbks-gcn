@@ -1,0 +1,9 @@
+A molecular mechanism of pyruvate protection against cytotoxicity of reactive oxygen species in osteoblasts.
+We demonstrated previously that exogenous pyruvate has a protective action against cell death by hydrogen peroxide in cultured osteoblasts through a mechanism associated with its antioxidative property.
+In the present study, we have evaluated possible participation of monocarboxylate transporters (MCTs) responsible for the bidirectional membrane transport of pyruvate in the cytoprotective property in osteoblasts.
+Expression of the MCT2 isoform was found in cultured rat calvarial osteoblasts and in osteoblasts located on mouse tibia at both mRNA and protein levels.
+The accumulation of [14C]pyruvate occurred in a temperature- and pH-dependent manner in osteoblasts cultured for 7 days with high sensitivity to a specific MCT inhibitor, whereas pyruvate was released into extracellular spaces from cultured osteoblasts in a fashion sensitive to the MCT inhibitor.
+Transient overexpression of the MCT2 isoform led to reduced vulnerability to the cytotoxicity of hydrogen peroxide with an increased activity of [14C]pyruvate accumulation in murine osteoblastic MC3T3-E1 cells.
+Ovariectomy significantly decreased the content of pyruvate in femoral bone marrows in mice in vivo, whereas daily i.p.
+administration of pyruvate at 0.25 g/kg significantly prevented alterations of several histomorphometric parameters as well as cancellous bone loss in femurs by ovariectomy on 28 days after the operation.
+These results suggest that MCTs may be functionally expressed by osteoblasts to play a pivotal role in mechanisms related to the cytoprotective property of pyruvate.

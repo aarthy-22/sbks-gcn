@@ -1,0 +1,20 @@
+T10	CHEMICAL 39 54	arylpiperazines
+T8	CHEMICAL 158 173	arylpiperazines
+T11	GENE-N 231 277	rat dopamine, serotonin and alpha(1) receptors
+T1	CHEMICAL 235 243	dopamine
+T2	CHEMICAL 245 254	serotonin
+T3	CHEMICAL 298 310	benztriazole
+T12	GENE-Y 323 331	5-HT(2A)
+T13	GENE-Y 332 336	D(2)
+T4	CHEMICAL 379 391	neuroleptics
+T5	CHEMICAL 421 491	2, 5-[2-[4-(2,3-dimethyl-phenyl)-piperazin-1-yl]ethyl]1H-benzotriazole
+T6	CHEMICAL 503 512	clozapine
+T14	GENE-Y 546 550	D(2)
+T15	GENE-Y 552 560	5-HT(2A)
+T16	GENE-N 565 582	alpha 1 receptors
+T17	GENE-Y 609 617	5-HT(1A)
+T7	CHEMICAL 633 642	clozapine
+T9	CHEMICAL 744 757	d-amphetamine
+R0	CPR-2 Arg1:T5 Arg2:T14
+R1	NOT Arg1:T6 Arg2:T17
+R2	NOT Arg1:T15 Arg2:T7

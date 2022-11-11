@@ -1,0 +1,16 @@
+T1	EXAMPLE_LABEL 5 6	4
+T2	REACTION_PRODUCT 7 91	7-Cyclopropyl-3-methyl-1-(4-(5-methylisoxazol-3-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+T3	STARTING_MATERIAL 92 141	7-Cyclopropyl-3-methyl-1H-purine-2,6(3H,7H)-dione
+T4	STARTING_MATERIAL 165 199	3-(4-bromobutyl)-5-methylisoxazole
+T5	REAGENT_CATALYST 225 244	potassium carbonate
+T6	SOLVENT 284 305	N,N-dimethylformamide
+T7	OTHER_COMPOUND 319 327	nitrogen
+T8	TEMPERATURE 367 372	120°C
+T9	TIME 389 396	3 hours
+T10	TEMPERATURE 417 433	room temperature
+T11	OTHER_COMPOUND 448 453	water
+T12	OTHER_COMPOUND 481 494	ethyl acetate
+T13	OTHER_COMPOUND 551 565	sodium sulfate
+T14	REACTION_PRODUCT 619 703	7-cyclopropyl-3-methyl-1-(4-(5-methylisoxazol-3-yl)butyl)-1H-purine-2,6(3H,7H)-dione
+T15	YIELD_OTHER 705 711	100 mg
+T16	YIELD_PERCENT 729 732	63%

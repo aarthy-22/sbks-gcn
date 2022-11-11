@@ -1,0 +1,11 @@
+Omega-3 Fatty acids reduce adipose tissue macrophages in human subjects with insulin resistance.
+Fish oils (FOs) have anti-inflammatory effects and lower serum triglycerides.
+This study examined adipose and muscle inflammatory markers after treatment of humans with FOs and measured the effects of ω-3 fatty acids on adipocytes and macrophages in vitro.
+Insulin-resistant, nondiabetic subjects were treated with Omega-3-Acid Ethyl Esters (4 g/day) or placebo for 12 weeks.
+Plasma macrophage chemoattractant protein 1 (MCP-1) levels were reduced by FO, but the levels of other cytokines were unchanged.
+The adipose (but not muscle) of FO-treated subjects demonstrated a decrease in macrophages, a decrease in MCP-1, and an increase in capillaries, and subjects with the most macrophages demonstrated the greatest response to treatment.
+Adipose and muscle ω-3 fatty acid content increased after treatment; however, there was no change in insulin sensitivity or adiponectin.
+In vitro, M1-polarized macrophages expressed high levels of MCP-1.
+The addition of ω-3 fatty acids reduced MCP-1 expression with no effect on TNF-α.
+In addition, ω-3 fatty acids suppressed the upregulation of adipocyte MCP-1 that occurred when adipocytes were cocultured with macrophages.
+Thus, FO reduced adipose macrophages, increased capillaries, and reduced MCP-1 expression in insulin-resistant humans and in macrophages and adipocytes in vitro; however, there was no measureable effect on insulin sensitivity.

@@ -1,0 +1,2 @@
+ddd. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-2-(3-(3,4-DIMETHYLPHENYL)UREIDO)-N-((2R,6S,8AS,14AS,16R,20S,21S,23AS)-16-HYDROXY-2,6,21-TRIMETHYL-5,8,14,19,23-PENTAOXOOCTADECAHYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)PROPANAMIDE (COMPOUND 212)
+Compound 212 was synthesized from macrocycle C (60 mg, 0.083 mmol), 4-isocyanato-1,2-dimethylbenzene (12.14 mg, 0.084 mmol) and triethylamine (54.2 μL, 0.396 mmol) following general synthesis pathway as a white solid (40.3 mg, 58%);

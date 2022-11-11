@@ -1,0 +1,9 @@
+Crystal structure of the pyridoxal-5'-phosphate-dependent serine dehydratase from human liver.
+L-serine dehydratase (SDH), a member of the beta-family of pyridoxal phosphate-dependent (PLP) enzymes, catalyzes the deamination of L-serine and L-threonine to yield pyruvate or 2-oxobutyrate.
+The crystal structure of L-serine dehydratase from human liver (hSDH) has been solved at 2.5 A-resolution by molecular replacement.
+The structure is a homodimer and reveals a fold typical for beta-family PLP-dependent enzymes.
+Each monomer serves as an active unit and is subdivided into two distinct domains: a small domain and a PLP-binding domain that covalently anchors the cofactor.
+Both domains show the typical open alpha/beta architecture of PLP enzymes.
+Comparison with the rSDH-(PLP-OMS) holo-enzyme reveals a large structural difference in active sites caused by the artifical O-methylserine.
+Furthermore, the activity of hSDH-PLP was assayed and it proved to show catalytic activity.
+That suggests that the structure of hSDH-PLP is the first structure of the active natural holo-SDH.

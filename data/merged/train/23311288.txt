@@ -1,0 +1,4 @@
+Hypoxia-selective O6-alkylguanine-DNA alkyltransferase inhibitors: design, synthesis, and evaluation of 6-(benzyloxy)-2-(aryldiazenyl)-9H-purines as prodrugs of O6-benzylguanine.
+O(6)-Alkylguanine-DNA alkyltransferase (AGT) is a DNA repair protein which removes alkyl groups from the O-6 position of guanine, thereby providing strong resistance to anticancer agents which alkylate this position.
+The clinical usefulness of these anticancer agents would be substantially augmented if AGT could be selectively inhibited in tumor tissue, without a corresponding depletion in normal tissue.
+We report the synthesis of a new AGT inhibitor (5c) which selectively depletes AGT in hypoxic tumor cells.

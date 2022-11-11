@@ -1,0 +1,19 @@
+T1	EXAMPLE_LABEL 8 9	9
+T2	REACTION_PRODUCT 23 129	(R)-1-(8-(1-methoxy-2-methylpropan-2-ylamino)-2-(methylsulfinyl)pyrido[3,4-d]pyrimidin-6-yl)ethyl benzoate
+T3	REACTION_PRODUCT 130 232	(R)-1-(8-(1-methoxy-2-methylpropan-2-ylamino)-2-(methylthio)pyrido[3,4-d]pyrimidin-6-yl)ethyl benzoate
+T4	SOLVENT 319 334	dichloromethane
+T5	TEMPERATURE 375 378	0°C
+T6	REAGENT_CATALYST 380 386	m-CPBA
+T7	TEMPERATURE 447 450	0°C
+T8	TEMPERATURE 492 508	room temperature
+T9	OTHER_COMPOUND 635 642	aqueous
+T10	OTHER_COMPOUND 643 661	sodium thiosulfate
+T11	OTHER_COMPOUND 753 768	dichloromethane
+T12	OTHER_COMPOUND 861 868	aqueous
+T13	OTHER_COMPOUND 869 894	sodium hydrogen carbonate
+T14	OTHER_COMPOUND 936 941	brine
+T15	OTHER_COMPOUND 994 1008	sodium sulfate
+T16	OTHER_COMPOUND 1144 1154	silica gel
+T17	REACTION_PRODUCT 1190 1204	title compound
+T18	YIELD_OTHER 1206 1211	1.9 g
+T19	YIELD_PERCENT 1213 1216	96%

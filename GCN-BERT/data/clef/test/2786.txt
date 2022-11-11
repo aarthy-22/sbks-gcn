@@ -1,0 +1,3 @@
+Step 14 Synthesis of Compound (I-235)
+Compound (I-235) (32 mg, Yield 98%) was obtained as a colorless foam in the same manner as described in the step 4 of Example 6 by using Compound 45 (15 mg, 0.062 mmol) as the starting material.
+Compound (I-235) LC/MS (Method 1) RT = 1.53, MS (m/z) = 520.30

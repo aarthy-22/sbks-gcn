@@ -1,0 +1,7 @@
+Targeted disruption of inducible nitric oxide synthase protects against aging, S-nitrosation, and insulin resistance in muscle of male mice.
+Accumulating evidence has demonstrated that S-nitrosation of proteins plays a critical role in several human diseases.
+Here, we explored the role of inducible nitric oxide synthase (iNOS) in the S-nitrosation of proteins involved in the early steps of the insulin-signaling pathway and insulin resistance in the skeletal muscle of aged mice.
+Aging increased iNOS expression and S-nitrosation of major proteins involved in insulin signaling, thereby reducing insulin sensitivity in skeletal muscle.
+Conversely, aged iNOS-null mice were protected from S-nitrosation-induced insulin resistance.
+Moreover, pharmacological treatment with an iNOS inhibitor and acute exercise reduced iNOS-induced S-nitrosation and increased insulin sensitivity in the muscle of aged animals.
+These findings indicate that the insulin resistance observed in aged mice is mainly mediated through the S-nitrosation of the insulin-signaling pathway.

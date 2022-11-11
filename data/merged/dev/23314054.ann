@@ -1,0 +1,13 @@
+T4	CHEMICAL 63 124	N-substituted-5-(4-isopropylthiophenol)-2-hydroxynicotinamide
+T9	GENE 146 151	Mcl-1
+T7	GENE 231 236	Mcl-1
+T3	CHEMICAL 246 312	3-thiomorpholin-8-oxo-8H-acenaphtho [1,2-b] pyrrole-9-carbonitrile
+T5	GENE 373 378	Mcl-1
+T6	GENE 460 465	Mcl-1
+T1	CHEMICAL 576 593	2-hydroxypyridine
+T2	CHEMICAL 773 831	N-benzyl-5-(4-isopropylthiophenol)-2-hydroxyl nicotinamide
+T8	GENE 851 856	Mcl-1
+R0	CPR-4 Arg1:T4 Arg2:T9
+R1	CPR-4 Arg1:T3 Arg2:T7
+R2	CPR-4 Arg1:T2 Arg2:T8
+R3	CPR-2 Arg1:T2 Arg2:T8

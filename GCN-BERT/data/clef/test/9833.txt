@@ -1,0 +1,5 @@
+Intermediate 1
+(E)-3,3-dimethyl-1-nitrobut-1-ene
+Intermediate 1A
+3,3-dimethyl-1-nitrobutan-2-ol
+To a slurry of lithium aluminum hydride (0.881 g, 23.22 mmol) in dry tetrahydrofuran (140 mL), which had been stirred for 30 minutes at 0° C., was added dropwise nitromethane (70.9 g, 1161 mmol). After 30 minutes, pivalaldehyde (20 g, 232 mmol) was added dropwise. The mixture was stirred at 0° C. for 5 hours, and quenched with 1 N aqueous HCl. The reaction mixture was poured into water, extracted with CH2Cl2 (2×250 mL), washed with brine (2×200 mL), dried over Na2SO4, filtered, and concentrated to provide the title compound (17 g, 107 mmol, 46.3% yield). LC-MS (ESI−) m/z=146.7 (M−H)−.

@@ -1,0 +1,12 @@
+Effects of progesterone and medroxyprogesterone on actin remodeling and neuronal spine formation.
+Sex steroids are important regulators of neuronal cell morphology, and this is critical for gender differences in brain function and dysfunction.
+Neuronal morphology is controlled by multiprotein complexes including moesin (a member of the ezrin/radixin/moesin family), focal adhesion kinase (FAK), or the Wiskott-Aldrich syndrome protein-family verprolin homologous (WAVE1) protein, controlling dynamic remodeling of the cytoskeleton and cell membrane.
+We investigated the actions of natural progesterone (P) and of the synthetic progestin medroxyprogesterone acetate (MPA) on actin remodeling, focal adhesion complex formation, and actin branching in rat cortical neurons.
+Treatment with P and, to a lesser extent, MPA, increases the number and density of dendritic spines.
+P increases the phosphorylation of moesin, FAK, and WAVE1, and their redistribution toward cell membrane sites where spines are formed.
+Signaling to moesin is achieved by PR via a Gα/Gβ-dependent signaling to the small GTPase Ras homolog gene family, member A and its related kinase, Rho-associated kinase-2.
+In parallel, WAVE1 recruitment is triggered by a Gαi/Gβ-dependent signaling of PR to c-Src, FAK, and Rac1 GTPase.
+Rac1 recruits cyclin-dependent kinase-5, which phosphorylates WAVE1.
+Silencing of moesin, FAK, or WAVE1 abrogates the increase in dendritic spines induced by progesterone.
+In all applications, MPA is found to act similar to P, albeit with a lower efficacy.
+In conclusion, our findings indicate that the control of actin polymerization and branching and focal adhesion complex formation via moesin, FAK, and WAVE1 is a key function of progesterone receptor in neurons, which may be relevant for the regulation of dendritic spine turnover and neuronal plasticity.

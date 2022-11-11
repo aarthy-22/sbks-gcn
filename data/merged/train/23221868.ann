@@ -1,0 +1,34 @@
+T21	CHEMICAL 0 10	Rufinamide
+T29	GENE-N 102 130	voltage-gated sodium channel
+T22	CHEMICAL 116 122	sodium
+T24	GENE-N 162 191	Voltage-gated sodium channels
+T9	CHEMICAL 176 182	sodium
+T4	CHEMICAL 270 276	Sodium
+T23	GENE-N 270 284	Sodium channel
+T10	CHEMICAL 468 478	rufinamide
+T11	CHEMICAL 526 536	rufinamide
+T12	CHEMICAL 540 553	amitriptyline
+T13	CHEMICAL 642 652	rufinamide
+T14	CHEMICAL 656 662	sodium
+T27	GENE-N 723 751	voltage-gated sodium channel
+T15	CHEMICAL 737 743	sodium
+T28	GENE-Y 752 758	Nav1.7
+T16	CHEMICAL 818 831	amitriptyline
+T17	CHEMICAL 836 846	mexiletine
+T18	CHEMICAL 872 885	amitriptyline
+T19	CHEMICAL 1109 1119	rufinamide
+T20	CHEMICAL 1135 1145	Rufinamide
+T1	CHEMICAL 1150 1163	amitriptyline
+T2	CHEMICAL 1289 1299	rufinamide
+T3	CHEMICAL 1343 1356	amitriptyline
+T25	GENE-N 1430 1458	voltage-gated sodium channel
+T5	CHEMICAL 1444 1450	sodium
+T26	GENE-Y 1459 1465	Nav1.7
+T6	CHEMICAL 1573 1586	amitriptyline
+T7	CHEMICAL 1801 1814	amitriptyline
+T8	CHEMICAL 1816 1826	Rufinamide
+R0	CPR-2 Arg1:T21 Arg2:T29
+R1	NOT Arg1:T13 Arg2:T28
+R2	NOT Arg1:T27 Arg2:T16
+R3	NOT Arg1:T28 Arg2:T16
+R4	NOT Arg1:T5 Arg2:T26

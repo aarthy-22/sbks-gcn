@@ -1,0 +1,9 @@
+Remethylation defects: guidelines for clinical diagnosis and treatment.
+The main remethylation defects include disorders which all have defective methionine synthesis in common.
+Methylenetetrahydrofolate reductase deficiency impairs methyltetrahydrofolate synthesis, defects in cytosolic reduction of hydroxocobalamin (CblC/D) impair the synthesis of both methyl- and adenosyl cobalamin and deficiencies of methionine synthase (CblE/G) are associated with defective methyl cobalamin synthesis.
+The clinical presentation is characterized by acute neurological distress in early infancy.
+In childhood, patients present with progressive encephalopathy with an end-stage which has many signs in common with the adult onset form.
+In fact, both have more or less severe signs of subacute degeneration of the cord.
+Cobalamin defective patients must be treated with parenteral supplementation of hydroxocobalamin (1-2 mg per dose).
+Some methylenetetrahydrofolate patients could be folate responsive and must have a high-dosage folate trial.
+In addition, oral betaine supplementation (2-9 g per day depending on age) appears an effective means to prevent further neurological deterioration.

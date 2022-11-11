@@ -1,0 +1,5 @@
+3'-R/S-Hydroxyvoacamine, a potent acetylcholinesterase inhibitor from Tabernaemontana divaricata.
+Guided by the acetylcholinesterase inhibiting activity, the bisindole alkaloid 3'-R/S-hydroxyvoacamine was isolated from a stem extract of Tabernaemontana divaricata, a plant used in Thailand in traditional rejuvenation remedies for improving the memory.
+The structure of the alkaloid was elucidated by extensive use of NMR spectroscopy and the complete assignment of the (1)H and (13)C NMR spectra is reported.
+The alkaloid acted as a non-competitive inhibitor against AChE with an IC50 value of 7.00±1.99μM. An HPLC method was developed for the quantitative analysis of the AChE inhibitor.
+It suggested that there was 12.4% (w/w) of 3'-R/S-hydroxyvoacamine in the alkaloid enriched fraction of T. divaricata stem.

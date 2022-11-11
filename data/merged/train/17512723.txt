@@ -1,0 +1,5 @@
+RDH12, a retinol dehydrogenase causing Leber's congenital amaurosis, is also involved in steroid metabolism.
+Three retinol dehydrogenases (RDHs) were tested for steroid converting abilities: human and murine RDH 12 and human RDH13.
+RDH12 is involved in retinal degeneration in Leber's congenital amaurosis (LCA).
+We show that murine Rdh12 and human RDH13 do not reveal activity towards the checked steroids, but that human type 12 RDH reduces dihydrotestosterone to androstanediol, and is thus also involved in steroid metabolism.
+Furthermore, we analyzed both expression and subcellular localization of these enzymes.

@@ -1,0 +1,10 @@
+The role of glutathione transferases M1 and T1 in individual susceptibility to bladder cancer in a Tunisian population.
+BACKGROUND: Susceptibility to bladder cancer is thought to depend on interplay between genetic factors and environmental chemical carcinogens.
+AIM: This study seeks to determine the role of the glutathione transferases M1 and T1 null genotypes (GSTM1*0 and GSTT1*0) in individual susceptibility to bladder cancer in a Tunisian population.
+METHOD: Sixty-two patients with transitional cell carcinoma of the bladder cancer and 79 controls were examined with respect to the frequency of GSTM1 and GSTT1 null genotypes.
+RESULTS: The frequencies of the GSTT1 null in the total group of bladder cancer cases vs. controls did not differ statistically.
+The proportion of GSTM1 null genotype in patients was 63% compared to 45% in controls group (OR = 2.03; 95% CI 0.97-4.24; p = 0.04).
+A significantly higher incidence of GSTM1 deletion genotype was found in smokers with bladder cancer compared to the controls (65.38% vs. 45.5%).
+Smokers lacking the GSTM1 gene are at an approximately 2.2-fold higher risk of bladder cancer (OR= 2.23, 95% CI 1-5.15; p = 0.03).
+CONCLUSION: This study suggests that in Tunisian subjects the GSTM1 null genotype may be associated with an increased risk of bladder cancer.
+This association appears to depend upon smoking status.

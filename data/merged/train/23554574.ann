@@ -1,0 +1,23 @@
+T8	CHEMICAL 23 39	glucosylceramide
+T20	GENE-Y 23 48	glucosylceramide synthase
+T1	CHEMICAL 377 393	glucosylceramide
+T9	GENE-Y 377 402	glucosylceramide synthase
+T10	GENE-Y 404 407	GCS
+T2	CHEMICAL 409 412	UDP
+T11	GENE-Y 409 449	UDP-glucose:ceramide glucosyltransferase
+T3	CHEMICAL 413 420	glucose
+T4	CHEMICAL 421 429	ceramide
+T12	GENE-Y 544 547	GCS
+T13	GENE-Y 586 602	leptin receptors
+T14	GENE-Y 604 607	ObR
+T15	GENE-Y 643 649	leptin
+T16	GENE-Y 806 811	c-Fos
+T5	CHEMICAL 946 949	UDP
+T17	GENE-Y 946 986	UDP-glucose:ceramide glucosyltransferase
+T6	CHEMICAL 950 957	glucose
+T7	CHEMICAL 958 966	ceramide
+T18	GENE-Y 993 997	Ugcg
+T19	GENE-Y 1112 1116	Ugcg
+R0	NOT Arg1:T1 Arg2:T11
+R1	NOT Arg1:T9 Arg2:T3
+R2	NOT Arg1:T10 Arg2:T3

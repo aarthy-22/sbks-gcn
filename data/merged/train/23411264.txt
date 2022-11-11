@@ -1,0 +1,11 @@
+Molecular and functional properties of gelatin from the skin of unicorn leatherjacket as affected by extracting temperatures.
+Gelatins extracted from the skin of unicorn leatherjacket at different temperatures (45, 55, 65 and 75°C) in the presence and the absence of soybean trypsin inhibitor (SBTI; 100 units/g pretreated skin) for 12h were characterised.
+In general, the addition of SBTI resulted in the lower yield, regardless of extraction temperature.
+Higher yield was obtained when higher extraction temperature was used (P<0.05).
+Gelatin from skin extracted at 75°C in the absence of SBTI showed the highest yield (10.66 ± 0.41%) (based on dry weight).
+The highest α-amino group content was observed in gelatin extracted at 55°C without SBTI incorporated.
+The band intensity of β-chain and α-chains increased as the extraction temperature increased, particularly above 55°C.
+Gelatin extracted at 65°C with and without SBTI incorporation exhibited the highest gel strength (178.00 ± 7.50 g and 170.47 ± 1.30 g, respectively).
+FTIR spectra indicated that a greater loss of molecular order of triple helix with a higher degradation was found in gelatin extracted at 55°C in the absence SBTI.
+Gelatin extracted at 65°C, either with or without SBTI, had the highest EAI and ESI with high foam expansion and stability.
+Thus, the extraction of gelatin from the skin of unicorn leatherjacket at temperature sufficiently high could render the gelatin with less degradation.

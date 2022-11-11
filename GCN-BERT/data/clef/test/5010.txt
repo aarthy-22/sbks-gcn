@@ -1,0 +1,4 @@
+(Reference Example 1) Synthesis of Compound W
+Step 1
+Compound 1 (815 mg, 3.07 mmol) which can be synthesized in accordance with the known method (WO2014/078331) was dissolved in dichloromethane (10 mL) under nitrogen atmosphere, and phenyl chloroformate (0.424 ml, 3.38 mmol) and pyridine (0.298 ml, 3.69 mmol) were added to the solution. The reaction mixture was stirred at room temperature for 1 hour.
+Ethyl acetate was added to the mixture. The organic layer was washed with saturated ammonium chloride aqueous solution and subsequently brine and then dried over magnesium sulfate, and then the solvent was distilled off under reduced pressure to give Compound W (1184 mg, Yield 100%).

@@ -1,0 +1,5 @@
+A novel adenylyl cyclase-activating serotonin receptor (5-HT7) implicated in the regulation of mammalian circadian rhythms.
+We report the cloning and characterization of a novel serotonin receptor, designated as 5-HT7, which is coupled to the stimulation of adenylyl cyclase.
+5-HT7 mRNA is expressed discretely throughout the CNS, predominantly in the thalamus and hypothalamus.
+5-HT7 has a unique pharmacological profile that redefines agonist and antagonist classification of ligands previously thought to be "selective." The circadian phase of spontaneous neuronal activity of the rat suprachiasmatic nucleus of the hypothalamus advances in response to serotonin ligands with a pharmacological profile consistent exclusively with that of 5-HT7.
+These findings suggest a physiological role in the regulation of circadian rhythms for one subtype of serotonin receptor, 5-HT7, and provide a pharmacological test to evaluate its role in other neuronal systems.

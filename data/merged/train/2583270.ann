@@ -1,0 +1,15 @@
+T11	CHEMICAL 9 26	homoharringtonine
+T7	CHEMICAL 171 188	homoharringtonine
+T12	GENE-N 234 239	eEF-1
+T1	CHEMICAL 328 343	diphenylalanine
+T2	CHEMICAL 380 383	Phe
+T3	CHEMICAL 411 439	acetylphenylalanyl-puromycin
+T13	GENE-N 476 481	eEF-1
+T4	CHEMICAL 492 495	Phe
+T5	CHEMICAL 562 577	diphenylalanine
+T6	CHEMICAL 592 601	puromycin
+T8	CHEMICAL 638 655	homoharringtonine
+T9	CHEMICAL 695 712	homoharringtonine
+T10	CHEMICAL 757 765	coincide
+R0	NOT Arg1:T13 Arg2:T6
+R1	NOT Arg1:T13 Arg2:T8

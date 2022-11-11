@@ -1,0 +1,9 @@
+Decreased Permeability Surface Area for Glucose in Obese Women with Postprandial Hyperglycemia: No Effect of Phosphodiesterase-5 (PDE-5) Inhibition.
+Insulin-mediated microvascular recruitment is recognized as a potential mechanism contributing to insulin resistance.
+In this study, we compared a marker of microvascular function, the permeability surface area for glucose (PSglu), and forearm glucose uptake after an OGTT in obese women with impaired glucose metabolism and healthy lean nondiabetic women, with the aim to characterize whether decreased permeability surface area for glucose or decreased glucose uptake may contribute to postprandial hyperglycemia in the obese group.
+In addition, we evaluated whether the phosphodiesterase-5 (PDE-5) inhibitor tadalafil, in a randomized double blind placebo controlled design, might attenuate postprandial glucose levels in obese women.
+For these purposes, intramuscular microdialysis, blood sampling from arterial and venous blood of the forearm, and measurements of forearm blood flow were performed.
+The results showed an impaired permeability surface area for glucose (IAUC PSglu 31±13 vs. 124±31; p<0.05) in obese when compared with lean participants, but no differences in forearm glucose uptake appeared between the groups.
+Furthermore, a single dose of tadalafil 10 mg showed no improvement of the permeability surface area for glucose, glucose uptake, or circulating glucose levels in obese participants.
+In conclusion, the postprandial PSglu response was impaired in obese women showing postprandial hyperglycemia, indicating a compromised microcirculation.
+However, we were unable to demonstrate any acute effect on either vascular function or glucose uptake of the phosphodiesterase-5 (PDE-5) inhibitor tadalafil.

@@ -1,0 +1,6 @@
+T3	GENE 722 754	nicotinic acetylcholine receptor
+T1	CHEMICAL 732 745	acetylcholine
+T4	GENE 756 761	nAChR
+T5	GENE 773 778	nAChR
+T2	GENE 1173 1178	nAChR
+R0	NOT Arg1:T1 Arg2:T4

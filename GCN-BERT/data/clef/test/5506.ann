@@ -1,0 +1,21 @@
+T1	TEMPERATURE 234 240	−78° C
+T2	EXAMPLE_LABEL 5 6	3
+T3	OTHER_COMPOUND 562 579	hydrochloric acid
+T4	YIELD_PERCENT 859 862	55%
+T5	SOLVENT 320 323	THF
+T6	OTHER_COMPOUND 584 589	brine
+T7	STARTING_MATERIAL 123 187	benzyl 4-((2-oxo-2-phenylacetoxy)methyl)piperidine-1-carboxylate
+T8	TIME 474 481	2 hours
+T9	OTHER_COMPOUND 634 651	magnesium sulfate
+T10	TIME 407 415	18 hours
+T11	OTHER_COMPOUND 521 534	ethyl acetate
+T12	REACTION_PRODUCT 841 855	title compound
+T13	OTHER_COMPOUND 551 558	aqueous
+T14	OTHER_COMPOUND 815 825	iso-hexane
+T15	OTHER_COMPOUND 801 814	ethyl acetate
+T16	STARTING_MATERIAL 271 309	(4-(benzyloxy)phenyl)magnesium bromide
+T17	OTHER_COMPOUND 783 793	iso-hexane
+T18	TEMPERATURE 395 400	10° C
+T19	TEMPERATURE 453 469	room temperature
+T20	REACTION_PRODUCT 8 100	Benzyl 4-((2-(4-(benzyloxy)phenyl)-2-hydroxy-2-phenylacetoxy)methyl)piperidine-1-carboxylate
+T21	SOLVENT 211 214	THF

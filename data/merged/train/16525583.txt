@@ -1,0 +1,7 @@
+The ability of different forms of heparins to suppress P-selectin function in vitro correlates to their inhibitory capacity on bloodborne metastasis in vivo.
+Ample evidence suggests that many of the in vivo anti-metastatic effects by heparins reflect their actions on P-selectin-mediated binding.
+We hypothesized that the ability of widely used heparins and derivatives to interfere with P-selectin-dependent tumour cell interactions under flow in vitro could be used to identify anticoagulants with advanced inhibitory functions on experimental blood-borne metastasis in vivo.
+To test this assumption, the impact of unfractionated heparin, the low-molecular-weight heparins (LMWH) nadroparin and enoxaparin, and the synthetic pentasaccharide fondaparinux on P-selectin-dependent tumour interactions in vitro and metastasis formation in vivo were evaluated.
+Our data revealed that these commonly used anticoagulants widely differ in their potential to interfere with P-selectinmediated cell binding.
+Importantly, the superior inhibitory capacity on P-selectin function of unfractionated heparin and LMWH nadroparin as opposed to LMWH enoxaparin and synthetic heparin pentasaccharide fondaparinux strongly correlated to the inhibitory potency of each in inhibiting experimental lung metastasis in vivo.
+Hence, P-selectin inhibition may constitute a valuable feature to identify anticoagulants that are suitable for anticancer therapy.

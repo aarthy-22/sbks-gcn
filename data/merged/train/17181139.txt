@@ -1,0 +1,5 @@
+Scaffold of the cyclooxygenase-2 (COX-2) inhibitor carprofen provides Alzheimer gamma-secretase modulators.
+N-sulfonylated and N-alkylated carprofen derivatives were investigated for their inhibition and modulation of gamma-secretase, which is associated with Alzheimer's disease.
+The introduction of a lipophilic substituent transformed the COX-2 inhibitor carprofen into a potent gamma-secretase modulator.
+Several compounds (e.g., 9p, 11f) caused selective reduction of Abeta42 and an increase of Abeta38.
+The most active compounds displayed activities in the low micromolar range and no effect on the gamma-secretase cleavage at the e-site.

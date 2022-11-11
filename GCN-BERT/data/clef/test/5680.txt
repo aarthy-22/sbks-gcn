@@ -1,0 +1,3 @@
+Example 11: Synthesis of 6-fluoro-2-heptyl-3-hydroxy-4H-thiochromen-4-one (Compound 11)
+Synthesis of (E)-dec-2-enoic acid (11a)
+2.5 g malonic acid (24 mmol) was solved in 10 ml dry pyridine and 3.75 ml octanal (24 mmol) and 250 µl pyrrolidine was added. The mixture warmed up and the evolution of gas was observed. The mixture was stirred at room temperatures for 20h and was then poured in ice water and acidified with conc. HCl. The mixture was extracted with ethyl acetate and the combined organic phases washed with Brine, dried with MgSO4, filtered and the solved evaporated. The product was purified by column chromatography using PE/EE 5:1. The product was obtained as colorless oil (m = 2.97 mg, 72.7%). Rf = 0.175 (PE/EE 5:1).

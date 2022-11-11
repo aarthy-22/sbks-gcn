@@ -1,0 +1,9 @@
+Neoechinulin A suppresses amyloid-β oligomer-induced microglia activation and thereby protects PC-12 cells from inflammation-mediated toxicity.
+A pathological hallmark of Alzheimer's disease (AD), aggregation and deposition of amyloid-β peptides, has been recognized as a potent activator of microglia-mediated neuroinflammation and neuronal dysfunction.
+Therefore, downregulation of microglial activation has a significant therapeutic demand.
+In this study, focus was given to evaluate the ability of neoechinulin A, an indole alkaloid isolated from marine-derived Microsporum sp., to attenuate microglial activation by oligomeric amyloid-β 1-42 (Aβ42).
+Neoechinulin A treatment significantly inhibited the generation of reactive oxygen and nitrogen species in Aβ42-activated BV-2 microglia cells.
+In addition, we found that neoechinulin A significantly suppressed the production of neurotoxic inflammatory mediator tumour necrosis factor-α (TNF-α), interleukin-1β (IL-1β), interleukin-6 (IL-6), and prostaglandin E2 (PGE2) in activated BV-2 cells.
+Moreover, the treatment downregulated the protein and gene expressions of inducible nitric oxide synthase (iNOS), cyclooxygenase-2 (COX-2), TNF-α, IL-1β and IL-6.
+Further, activated microglia-mediated apoptosis of PC-12 pheochromocytoma cells was significantly repressed by neoechinulin A. The molecular mechanism studies suggested that neoechinulin A may block the phosphorylation of mitogen-activated protein kinase (MAPK) molecule p38, apoptosis signal-regulating kinase 1 (ASK-1) and nuclear translocation of nuclear factor-κB (NF-κB) p65 and p50 subunits.
+Regulation of these signalling pathways have most probably contributed to the anti-inflammatory activity of neoechinulin A. Collectively, these results suggest that with further studies neoechinulin A have a potential to be developed as a modulator of neuroinflammatory process in AD.

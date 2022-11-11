@@ -1,0 +1,23 @@
+T22	GENE-N 0 24	Hypoxia-inducible factor
+T23	GENE-Y 29 63	vascular endothelial growth factor
+T4	CHEMICAL 147 158	isoflavones
+T1	CHEMICAL 228 239	isoflavones
+T3	CHEMICAL 295 304	estrogens
+T14	GENE-Y 401 435	vascular endothelial growth factor
+T15	GENE-Y 437 441	VEGF
+T5	CHEMICAL 670 679	estrogens
+T16	GENE-Y 837 841	VEGF
+T17	GENE-Y 846 869	VEGF receptor (VEGFR)-2
+T18	GENE-Y 976 980	VEGF
+T19	GENE-Y 981 988	VEGFR-2
+T20	GENE-N 1069 1072	AKT
+T21	GENE-Y 1077 1110	endothelial nitric oxide synthase
+T6	GENE-Y 1143 1150	VEGFR-2
+T7	GENE-Y 1217 1221	VEGF
+T8	GENE-Y 1223 1250	hypoxia-inducible factor 1α
+T9	GENE-Y 1252 1257	HIF1α
+T10	GENE-Y 1405 1410	HIF1α
+T11	GENE-Y 1475 1480	HIF1α
+T12	GENE-Y 1510 1566	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+T13	GENE-N 1568 1587	Nip3-like protein X
+T2	CHEMICAL 1618 1629	isoflavones

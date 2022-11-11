@@ -1,0 +1,29 @@
+T15	CHEMICAL 0 11	Apomorphine
+T1	CHEMICAL 107 118	Apomorphine
+T6	CHEMICAL 124 132	catechol
+T10	CHEMICAL 141 149	dopamine
+T22	GENE-N 141 164	dopamine D1/D2 receptor
+T4	CHEMICAL 260 271	apomorphine
+T8	CHEMICAL 316 324	tyrosine
+T20	GENE-Y 316 336	tyrosine hydroxylase
+T9	CHEMICAL 351 353	DA
+T21	GENE-Y 431 464	brain-derived neurotrophic factor
+T11	CHEMICAL 561 572	apomorphine
+T12	CHEMICAL 651 662	apomorphine
+T13	CHEMICAL 682 690	dopamine
+T23	GENE-N 682 711	dopamine receptor (D1 and D2)
+T24	GENE-N 754 768	D1/D2 receptor
+T14	CHEMICAL 870 881	apomorphine
+T25	GENE-Y 1026 1059	brain-derived neurotrophic factor
+T26	GENE-Y 1064 1107	glial cell line-derived neurotrophic factor
+T2	CHEMICAL 1131 1142	apomorphine
+T16	GENE-Y 1350 1383	brain-derived neurotrophic factor
+T17	GENE-Y 1387 1430	glial cell line-derived neurotrophic factor
+T3	CHEMICAL 1508 1519	apomorphine
+T18	GENE-N 1705 1725	neurotrophic factors
+T5	CHEMICAL 1758 1769	apomorphine
+T7	CHEMICAL 1853 1861	dopamine
+T19	GENE-N 1853 1889	dopamine receptor subtypes D1 and D2
+R0	NOT Arg1:T4 Arg2:T21
+R1	NOT Arg1:T20 Arg2:T9
+R2	NOT Arg1:T12 Arg2:T23

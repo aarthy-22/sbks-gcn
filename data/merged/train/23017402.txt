@@ -1,0 +1,7 @@
+Phytochemical profile of Rosmarinus officinalis and Salvia officinalis extracts and correlation to their antioxidant and anti-proliferative activity.
+The goal of this study was to monitor the anti-proliferative activity of Rosmarinus officinalis and Salvia officinalis extracts against cancer cells and to correlate this activity with their phytochemical profiles using liquid chromatography/diode array detection/electrospray ion trap tandem mass spectrometry (LC/DAD/ESI-MS(n)).
+For the quantitative estimation of triterpenic acids in the crude extracts an NMR based methodology was used and compared with the HPLC measurements, both applied for the first time, for the case of betulinic acid.
+Both extracts exerted cytotoxic activity through dose-dependent impairment of viability and mitochondrial activity of rat insulinoma m5F (RINm5F) cells.
+Decrease of RINm5F viability was mediated by nitric oxide (NO)-induced apoptosis.
+Importantly, these extracts potentiated NO and TNF-α release from macrophages therefore enhancing their cytocidal action.
+The rosemary extract developed more pronounced antioxidant, cytotoxic and immunomodifying activities, probably due to the presence of betulinic acid and a higher concentration of carnosic acid in its phytochemical profile.

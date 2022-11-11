@@ -1,0 +1,21 @@
+T9	CHEMICAL 4 15	isoflavones
+T18	GENE-N 25 35	adipokines
+T19	GENE-N 40 48	myokines
+T6	CHEMICAL 206 217	isoflavones
+T4	CHEMICAL 379 390	isoflavones
+T14	GENE-N 567 577	adipokines
+T15	GENE-N 582 590	myokines
+T5	CHEMICAL 680 691	isoflavones
+T7	CHEMICAL 716 727	isoflavones
+T8	CHEMICAL 849 860	fatty acids
+T16	GENE-N 1061 1071	adipokines
+T17	GENE-N 1115 1123	myokines
+T1	CHEMICAL 1177 1188	isoflavones
+T2	CHEMICAL 1206 1213	glucose
+T10	GENE-Y 1215 1221	leptin
+T11	GENE-Y 1226 1237	adiponectin
+T3	CHEMICAL 1309 1320	isoflavones
+T12	GENE-N 1354 1364	adipokines
+T13	GENE-N 1369 1377	myokines
+R0	CPR-3 Arg1:T1 Arg2:T10
+R1	NOT Arg1:T3 Arg2:T12

@@ -1,0 +1,18 @@
+T16	CHEMICAL 0 12	Tamibarotene
+T1	CHEMICAL 14 26	Tamibarotene
+T8	CHEMICAL 46 54	retinoid
+T3	CHEMICAL 179 192	retinoic acid
+T17	GENE-N 179 212	retinoic acid receptor alpha/beta
+T4	CHEMICAL 226 249	all-trans retinoic acid
+T5	CHEMICAL 251 255	ATRA
+T6	CHEMICAL 268 276	retinoid
+T7	CHEMICAL 322 334	tamibarotene
+T9	CHEMICAL 472 476	ATRA
+T10	CHEMICAL 556 568	tamibarotene
+T18	GENE-Y 628 666	cellular retinoic acid binding protein
+T11	CHEMICAL 637 650	retinoic acid
+T12	CHEMICAL 728 732	ATRA
+T13	CHEMICAL 795 807	tamibarotene
+T14	CHEMICAL 859 863	ATRA
+T15	CHEMICAL 962 971	retinoids
+T2	CHEMICAL 1058 1070	Tamibarotene

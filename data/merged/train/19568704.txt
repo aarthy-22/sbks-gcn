@@ -1,0 +1,11 @@
+Effects of changeover from voglibose to acarbose on postprandial triglycerides in type 2 diabetes mellitus patients.
+INTRODUCTION: In this study, we examined the effects of the alpha-glucosidase inhibitors acarbose and voglibose on postprandial plasma glucose and serum triglyceride levels in patients with type 2 diabetes mellitus.
+METHODS: Twenty-one Japanese patients with type 2 diabetes were enrolled in this study.
+Subjects had been treated with voglibose for at least 3 months.
+They underwent a 400 kcal balanced food meal tolerance test before and 8 weeks after the changeover from voglibose to acarbose.
+Subjects were divided into two groups: the first group (low-dose group; n=11) was changed over from 0.6 mg/day voglibose to 150 mg/day acarbose, and the other (high-dose group; n=10) from 0.9 mg/day voglibose to 300 mg/day acarbose.
+RESULTS: The increment rate of postprandial plasma glucose ([plasma glucose 2 hours after test meal - fasting glucose]/fasting glucose) decreased from 34.7%+/-23.9% to 25.0%+/-24.6% (P=0.13) in the low-dose group, and decreased significantly from 56.1%+/-53.1% to 31.5%+/-36.0% (P=0.03) in the high-dose group after changeover.
+However, there were no significant changes in blood glycated hemoglobin (HbA(1c)) levels before and after changeover in either group.
+The increment rate of postprandial serum triglyceride (TG) ([serum TG 2 hours after test meal - fasting TG]/fasting TG) decreased significantly only in the high-dose group (52.4%+/-60.0% to 24.3%+/-16.6%) (P=0.05).
+No significant changes in serum high-density lipoprotein cholesterol levels were observed in either group, whereas serum low-density lipoprotein cholesterol levels decreased significantly from 3.20+/-0.25 to 2.65+/-0.18 mmol/L (P=0.04), only in the high-dose group.
+CONCLUSIONS: In patients with type 2 diabetes our findings suggest that acarbose 300 mg/day is superior to voglibose 0.9 mg/day in improving postprandial hyperglycemia and hypertriglyceridemia.

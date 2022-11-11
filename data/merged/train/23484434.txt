@@ -1,0 +1,7 @@
+Progress and Developments in Tau Aggregation Inhibitors for Alzheimer Disease.
+Pharmacological approaches directed toward Alzheimer disease are diversifying in parallel with a growing number of promising targets.
+Investigations on the microtubule-associated protein tau yielded innovative targets backed by recent findings about the central role of tau in numerous neurodegenerative diseases.
+In this review, we summarize the recent evolution in the development of nonpeptidic small molecules tau aggregation inhibitors (TAGIs) and their advancement toward clinical trials.
+The compounds are classified according to their chemical structures, providing correlative insights into their pharmacology.
+Overall, shared structure-activity traits are emerging, as well as specific binding modes related to their ability to engage in hydrogen bonding.
+Medicinal chemistry efforts on TAGIs together with encouraging in vivo data argue for successful translation to the clinic.

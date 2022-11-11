@@ -1,0 +1,21 @@
+Confocal immunolocalization of bovine serum albumin, serum retinol-binding protein, and interphotoreceptor retinoid-binding protein in bovine retina.
+PURPOSE: Recently it has been shown that the transport as well as clearance of retinol from isolated rod photoreceptors requires an extracellular factor.
+Interphotoreceptor retinoid-binding protein (IRBP) is a component of the interphotoreceptor matrix (IPM) and is known to bind visual cycle retinoids.
+Serum albumin and serum retinol-binding protein (sRBP), proteins capable of binding retinoids, have also been reported to be components of the IPM.
+It is of interest to know the components present in the IPM that are capable of binding visual cycle retinoids and that also facilitate rhodopsin regeneration.
+The purpose of this study was to determine the localization of serum albumin, sRBP, and IRBP in bovine retina using immunofluorescence analysis.
+METHODS: Fresh bovine eyes, obtained from a local abattoir, were fixed immediately after enucleation.
+Tissue sections (100 microm) were incubated with primary antibodies to bovine serum albumin (BSA), sRBP, and IRBP.
+Sections were washed then incubated 4 h with 4'-6-Diamidino-2-phenylindole (DAPI), Alexa Fluor(R) 488 goat antimouse, and Alexa Fluor 568 goat antirabbit secondary antibodies.
+Sections were analyzed using a laser scanning confocal microscope equipped with Nomarski optics.
+Western immunoblot analysis of bovine retinal tissues and protein standards was performed using the primary antibodies to BSA, sRBP, and IRBP to show specificity to their respective antigens.
+RESULTS: Immunoblot analysis showed that monoclonal anti-BSA was highly specific for BSA detecting only a single band at about 67 kDa.
+Antihuman sRBP and antibovine IRBP were also highly specific, recognizing a single band at about 25 and about 133 kDa, respectively.
+No immunopositive bands were observed in bovine neural retinal when probed with the anti-sRBP antibody; however, a single immunoreactive band at about 67 and about 133 kDa was detected in bovine neural retina by the anti-BSA and IRBP antibodies, respectively.
+Immunofluorescence analysis showed labeling for IRBP throughout the IPM.
+IRBP labeling was especially associated with the outer segments of photoreceptors and also with the apical surface of the retinal pigment epithelium.
+Immunofluorescence labeling for serum albumin was associated only with the lumen of retinal and choroidal blood vessels.
+Staining for both serum albumin and sRBP in the IPM was negative.
+CONCLUSIONS: Immunofluorescence analysis of fresh bovine eyes using antibodies to BSA and sRBP clearly shows that serum albumin and sRBP are not components of bovine IPM.
+IRBP, on the other hand, is localized to the IPM where it is available for the binding and transport of visual cycle retinoids.
+From these data we conclude that serum albumin and sRBP are not factors that could participate in the binding as well as transport of visual cycle retinoids in the IPM of bovine retina.

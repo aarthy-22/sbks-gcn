@@ -1,0 +1,7 @@
+Multiple enzyme inhibitions by histamine H3 receptor antagonists as potential procognitive agents.
+Novel highly affine histamine H3 receptor ligands with additional inhibitory effects on the main histamine metabolizing enzyme in the brain, N-methyltransferase, chemically show structural elements of the acetylcholinesterase inhibitor tacrine.
+H3 receptor antagonism, inhibition of metabolisation of neuronal histamine as well as inhibition of hydrolysis of acetylcholine are each one believed to improve reduced cognitive functions, which is useful for symptomatic treatment of Alzheimer's disease.
+Some of the new compounds proved in a slightly modified colorimetric Ellmann's assay to be potent inhibitors of acetylcholinesterase and of butyrylcholinesterase which is another catalytic enzyme hydrolysing acetylcholine.
+Some compounds with (sub)nanomolar activities on the histamine-related targets are also active in the nanomolar concentration range on both cholinesterase targets being 5- to 40-times more potent than tacrine.
+Preliminary structure-activity relationships could already be drawn from the small number of compounds.
+The compounds acting as hybrid drugs simultaneously on four different targets to enhance cognitive functions via different pathways are promising lead structures for a new approach in the treatment of Alzheimer's disease.

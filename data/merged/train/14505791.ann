@@ -1,0 +1,21 @@
+T17	CHEMICAL 62 72	cetirizine
+T18	CHEMICAL 77 91	levocetirizine
+T19	CHEMICAL 97 106	histamine
+T21	GENE-Y 97 118	histamine H1-receptor
+T3	CHEMICAL 143 152	histamine
+T20	GENE-Y 143 166	histamine H(1)-receptor
+T10	CHEMICAL 178 188	cetirizine
+T11	CHEMICAL 190 196	Zyrtec
+T15	CHEMICAL 222 236	levocetirizine
+T6	CHEMICAL 272 277	Xyzal
+T7	CHEMICAL 282 298	dextrocetirizine
+T8	CHEMICAL 361 371	cetirizine
+T9	CHEMICAL 376 390	levocetirizine
+T12	CHEMICAL 723 737	levocetirizine
+T13	CHEMICAL 739 753	Levocetirizine
+T14	CHEMICAL 1002 1018	dextrocetirizine
+T16	CHEMICAL 1108 1122	levocetirizine
+T1	CHEMICAL 1164 1180	dextrocetirizine
+T2	CHEMICAL 1243 1257	levocetirizine
+T4	CHEMICAL 1283 1293	cetirizine
+T5	CHEMICAL 1418 1432	levocetirizine

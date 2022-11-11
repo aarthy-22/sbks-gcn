@@ -1,0 +1,9 @@
+Activation of cytoprotective prostaglandin synthase-1 by minoxidil as a possible explanation for its hair growth-stimulating effect.
+Data from the literature indicate that nonsteroidal anti-inflammatory drugs (NSAIDs), such as indomethacin, naproxen, piroxicam, or ibuprofen, induce hair loss in vivo.
+These NSAIDs are well-known inhibitors of both the cytoprotective isoform of prostaglandin endoperoxide synthase-1 (PGHS-1) and of the inducible form (PGHS-2).
+By immunohistochemical staining, we found that PGHS-1 is the main isoform present in the dermal papilla from normal human hair follicle (either anagen or catagen), whereas PGHS-2 was only faintly and exclusively expressed in anagen dermal papilla.
+Thus, PGHS-1 might be the primary target of the hair growth-inhibitory effects of NSAIDs.
+We thus speculated that activation of PGHS-1 might be a mechanism by which minoxidil (2,4-diamino-6-piperidinopyrimidine-3-oxyde) stimulates hair growth in vivo.
+We demonstrate here that minoxidil is a potent activator of purified PGHS-1 (AC50 = 80 microM), as assayed by oxygen consumption and PGE2 production.
+This activation was also evidenced by increased PGE2 production by BALB/c 3T3 fibroblasts and by human dermal papilla fibroblasts in culture.
+Our findings suggest that minoxidil and its derivatives may have a cytoprotective activity in vivo and that more potent second-generation hair growth-promoting drugs might be designed, based on this mechanism.

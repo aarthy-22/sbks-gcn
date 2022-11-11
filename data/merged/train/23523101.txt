@@ -1,0 +1,9 @@
+Activation of PPARγ is required for hydroxysafflor yellow A of Carthamus tinctorius to attenuate hepatic fibrosis induced by oxidative stress.
+Oxidative stress caused hepatic fibrosis by activating hepatic stellate cells (HSCs), which were implemented by depressing PPARγ activation.
+Hydroxysafflor yellow A (HSYA) as a nature active ingredient with antioxidant capacity was able to effectively attenuate oxidative stress mediated injury.
+So it will be very interesting to study effect of HSYA on HSCs activation and liver fibrosis, and reveal the role of PPARγ·CCl4 and H2O2 were used to mimic oxidative stress mediated hepatic injury in vitro and in vivo respectively.
+The anti-fibrosis effects of HSYA were evaluated and its mechanisms were disclosed by applying western blot, histopathological analysis, flow cytometry, RT-PCR and ELISA.
+Our results showed that HSCs activation and proliferation could be induced by oxidative stress, and the expressive levels of TGF-β1 and TIMP-1, the serum levels of ALT, AST, HA, LN, III-C and IV-C were also enhanced by oxidative stress, which is correlated with liver fibrosis (p<0.05 or p<0.01).
+HSYA was able to effectively inhibit oxidative stress mediated hepatic injury by increasing the activities of antioxidant enzymes, up regulating the expression of PPARγ and MMP-2, and down regulating the expression of TGF-β1 and TIMP-1, and reducing α-SMA level.
+The protective effect of HSYA can be significantly attenuated by GW9662 via blocking PPARγ (p<0.05 or p<0.01).
+Taken together, these results demonstrate that HSYA is able to significantly protect the liver from oxidative stress, which requires for HSYA to stimulate PPARγ activity, reduce cell proliferation and suppress ECM synthesis.

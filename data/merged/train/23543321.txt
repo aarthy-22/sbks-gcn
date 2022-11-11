@@ -1,0 +1,10 @@
+RNAi silencing of three homologues of S-adenosylmethionine decarboxylase gene in tapetal tissue of tomato results in male sterility.
+Polyamines play very important role in various cellular metabolic functions, including floral induction, floral differentiation and fertility regulation.
+In the present study, S-adenosylmethionine decarboxylase (SAMDC), a key gene involved in polyamine biosynthesis, has been targeted in tapetal tissue of tomato using RNAi to examine its effect on tapetum development and pollen viability.
+The target SAMDC gene fragments of three homologues were cloned in a hairpin RNA construct under the control of tapetal-specific A9 promoter, which was used to generate several RNAi tomato plants.
+These RNAi lines expressed the intended small interfering RNAs in the anther and showed the aborted and sterile pollen exhibiting shrunken and distorted morphology.
+These RNAi tomato plants having sterile pollen, failed to set fruits but female fertility of the plants remained unaffected as cross pollination resulted in fruit setting.
+Expression profiling of SAMDC genes showed considerable decrease in transcripts of SAMDC1 (5-8 fold) and SAMDC2 and SAMDC3 (2-3 fold) in the anthers of RNAi plants.
+The other polyamine biosynthesis genes, ADC and SPDSYN exhibited ~1.5 fold decrease in their transcript levels.
+Presence of siRNA molecules specific to SAMDC homologues in anther and tapetal-specific activity of A9 promoter as shown with GUS reporter system of RNAi plants suggested down-regulation of the target genes in tapetum by RNAi.
+These observations indicate the importance of SAMDC, in turn polyamines in pollen development, and thus tapetum-specific down-regulation of SAMDC genes using RNAi can be used for developing male sterile plants.

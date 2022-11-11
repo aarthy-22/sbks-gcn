@@ -1,0 +1,4 @@
+32.2 5-Bromo-2-iodo-4-trifluoromethyl-pyridine
+32.1 5-Bromo-4-trifluoromethyl-pyridin-2-ylamine
+Analogously to example 19.1, obtained by starting from 4-trifluoromethyl-pyridin-2-ylamine (purchased from Manchester) and 1-bromo-pyrrolidine-2,5-dione. The mixture is poured into water, extracted with ethyl acetate and washed with a half saturated aqueous solution of sodium bicarbonate. The organic phase is dried and concentrated under reduced pressure.
+Yield: 1.43 g (96% of theory)

@@ -1,0 +1,11 @@
+Cellular mechanisms of the cytotoxic effects of the zearalenone metabolites α-zearalenol and β-zearalenol on RAW264.7 macrophages.
+Zearalenone (ZEN) and its metabolites are commonly found in many food commodities and are known to cause reproductive disorders and genotoxic effects.
+The major ZEN metabolites are α-zearalenol (α-ZOL) and β-zearalenol (β-ZOL).
+Although many studies have demonstrated the cytotoxic effects of these metabolites, the mechanisms by which α-ZOL or β-ZOL mediates their cytotoxic effects appear to differ according to cell type and the exposed toxins.
+We evaluated the toxicity of α-ZOL and β-ZOL on RAW264.7 macrophages and investigated the underlying mechanisms.
+β-ZOL not only more strongly reduced the viability of cells than did α-ZOL, but it also induced cell death mainly by apoptosis rather than necrosis.
+The ZEN metabolites induced loss of mitochondrial membrane potential (MMP), mitochondrial changes in Bcl-2 and Bax proteins, and cytoplasmic release of cytochrome c and apoptosis-inducing factor (AIF).
+Use of an inhibitor specific to c-Jun N-terminal kinase (JNK), p38 kinase or p53, but not pan-caspase or caspase-8, decreased the toxin-induced generation of reactive oxygen species (ROS) and also attenuated the α-ZOL- or β-ZOL-induced decrease of cell viability.
+Antioxidative enzyme or compounds such as catalase, acteoside, and (E)-1-(3,4-dihydroxyphenethyl)-3-(4-hydroxystyryl)urea suppressed the ZEN metabolite-mediated reduction of cell viability.
+Further, knockdown of AIF via siRNA transfection diminished the ZEN metabolite-induced cell death.
+Collectively, these results suggest that the activation of p53, JNK or p38 kinase by ZEN metabolites is the main upstream signal required for the mitochondrial alteration of Bcl-2/Bax signaling pathways and intracellular ROS generation, while MMP loss and nuclear translocation of AIF are the critical downstream events for ZEN metabolite-mediated apoptosis in macrophages.

@@ -1,0 +1,9 @@
+T5	CHEMICAL 49 63	pyripyropene A
+T3	CHEMICAL 100 108	acyl-CoA
+T6	GENE-Y 100 138	acyl-CoA:cholesterol acyltransferase 2
+T4	CHEMICAL 109 120	cholesterol
+T7	GENE-Y 140 145	ACAT2
+T2	CHEMICAL 217 250	7-O-p-cyanobenzoyl pyripyropene A
+T1	CHEMICAL 345 373	di-tert-butylsilylene acetal
+R0	CPR-4 Arg1:T5 Arg2:T7
+R1	NOT Arg1:T3 Arg2:T7

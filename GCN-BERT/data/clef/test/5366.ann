@@ -1,0 +1,18 @@
+T1	EXAMPLE_LABEL 5 6	5
+T2	REACTION_PRODUCT 8 151	(R)-4-(2-((2-(8-(Benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)ethyl)benzoic acid
+T3	STARTING_MATERIAL 166 312	(R)-phenyl 4-(2-((2-(8-(benzyloxy)-2-oxo-1,2-dihydroquinolin-5-yl)-2-((tert-butyldimethylsilyl)oxy)ethyl)(tert-butoxycarbonyl)amino)ethyl)benzoate
+T4	SOLVENT 334 337	THF
+T5	SOLVENT 364 371	aqueous
+T6	REAGENT_CATALYST 372 388	sodium hydroxide
+T7	TEMPERATURE 428 444	room temperature
+T8	TIME 449 457	16 hours
+T9	OTHER_COMPOUND 558 563	water
+T10	OTHER_COMPOUND 626 633	aqueous
+T11	OTHER_COMPOUND 634 651	hydrochloric acid
+T12	OTHER_COMPOUND 676 689	ethyl acetate
+T13	OTHER_COMPOUND 754 759	water
+T14	OTHER_COMPOUND 761 766	brine
+T15	OTHER_COMPOUND 797 814	magnesium sulfate
+T16	REACTION_PRODUCT 890 904	title compound
+T17	YIELD_OTHER 906 909	4 g
+T18	YIELD_PERCENT 911 915	100%

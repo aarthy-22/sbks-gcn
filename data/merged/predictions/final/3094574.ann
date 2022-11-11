@@ -1,0 +1,37 @@
+T37	GENE-Y 0 10	Tyrosinase
+T26	CHEMICAL 61 83	3,4-dihydroxymandelate
+T27	GENE-Y 85 95	Tyrosinase
+T12	CHEMICAL 132 143	monophenols
+T23	CHEMICAL 176 185	diphenols
+T7	CHEMICAL 231 257	3,4-dihydroxymandelic acid
+T11	CHEMICAL 359 384	3,4-dihydroxybenzaldehyde
+T13	CHEMICAL 616 625	galactose
+T29	GENE-N 616 633	galactose oxidase
+T30	GENE-Y 635 648	ceruloplasmin
+T14	CHEMICAL 650 660	superoxide
+T31	GENE-N 650 670	superoxide dismutase
+T15	CHEMICAL 672 681	ascorbate
+T32	GENE-N 672 689	ascorbate oxidase
+T16	CHEMICAL 691 699	dopamine
+T33	GENE-Y 691 716	dopamine beta-hydroxylase
+T34	GENE-N 722 732	peroxidase
+T17	CHEMICAL 734 740	Phenol
+T35	GENE-N 734 748	Phenol oxidase
+T18	CHEMICAL 768 782	phenylthiourea
+T19	CHEMICAL 784 801	potassium cyanide
+T20	CHEMICAL 807 819	sodium azide
+T21	CHEMICAL 904 910	copper
+T22	CHEMICAL 943 951	Mimosine
+T36	GENE-Y 991 1001	tyrosinase
+T24	CHEMICAL 1050 1072	4-Hydroxymandelic acid
+T25	CHEMICAL 1077 1109	3-methoxy-4-hydroxymandelic acid
+T1	CHEMICAL 1198 1225	3,4-dihydroxybenzyl alcohol
+T2	CHEMICAL 1230 1263	(3,4-dihydroxybenzoyl)formic acid
+T3	CHEMICAL 1319 1334	quinone methide
+T4	CHEMICAL 1371 1378	quinone
+T5	CHEMICAL 1501 1517	4-alkylcatechols
+T6	CHEMICAL 1521 1537	quinone methides
+T8	CHEMICAL 1563 1569	phenol
+T28	GENE-N 1670 1689	mushroom tyrosinase
+T9	CHEMICAL 1709 1724	quinone methide
+T10	CHEMICAL 1801 1827	3,4-dihydroxymandelic acid

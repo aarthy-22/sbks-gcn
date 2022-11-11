@@ -1,0 +1,8 @@
+Argininosuccinate synthetase from the urea cycle to the citrulline-NO cycle.
+Argininosuccinate synthetase (ASS, EC 6.3.4.5) catalyses the condensation of citrulline and aspartate to form argininosuccinate, the immediate precursor of arginine.
+First identified in the liver as the limiting enzyme of the urea cycle, ASS is now recognized as a ubiquitous enzyme in mammalian tissues.
+Indeed, discovery of the citrulline-NO cycle has increased interest in this enzyme that was found to represent a potential limiting step in NO synthesis.
+Depending on arginine utilization, location and regulation of ASS are quite different.
+In the liver, where arginine is hydrolyzed to form urea and ornithine, the ASS gene is highly expressed, and hormones and nutrients constitute the major regulating factors: (a) glucocorticoids, glucagon and insulin, particularly, control the expression of this gene both during development and adult life; (b) dietary protein intake stimulates ASS gene expression, with a particular efficiency of specific amino acids like glutamine.
+In contrast, in NO-producing cells, where arginine is the direct substrate in the NO synthesis, ASS gene is expressed at a low level and in this way, proinflammatory signals constitute the main factors of regulation of the gene expression.
+In most cases, regulation of ASS gene expression is exerted at a transcriptional level, but molecular mechanisms are still poorly understood.

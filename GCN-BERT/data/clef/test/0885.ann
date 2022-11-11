@@ -1,0 +1,15 @@
+T1	EXAMPLE_LABEL 5 6	B
+T2	REACTION_PRODUCT 8 78	3-(2,6-Difluorophenyl)-1-(4-methyphenyl)-1H-indazole-6-carboxylic acid
+T3	STARTING_MATERIAL 79 153	Methyl 3-(2,6-difluorophenyl)-1-(4-methylphenyl)-1H-indazole-6-carboxylate
+T4	SOLVENT 194 202	methanol
+T5	SOLVENT 217 232	tetrahydrofuran
+T6	REAGENT_CATALYST 247 263	sodium hydroxide
+T7	TEMPERATURE 332 337	50 °C
+T8	TIME 362 367	1.5 h
+T9	TEMPERATURE 397 413	room temperature
+T10	OTHER_COMPOUND 442 459	hydrochloric acid
+T11	REACTION_PRODUCT 539 553	title compound
+T12	YIELD_OTHER 555 563	199.5 mg
+T13	YIELD_OTHER 565 575	0.265 mmol
+T14	YIELD_PERCENT 577 581	99 %
+T15	OTHER_COMPOUND 611 626	sodium chloride

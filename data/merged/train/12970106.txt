@@ -1,0 +1,16 @@
+Agonist actions of dihydroergotamine at 5-HT2B and 5-HT2C receptors and their possible relevance to antimigraine efficacy.
+1.
+The pharmaceutical compound, dihydroergotamine (DHE) is dispensed to prevent and reduce the occurrence of migraine attacks.
+Although still controversial, the prophylactic effect of this drug is believed to be caused through blockade and/or activation of numerous receptors including serotonin (5-HT) receptors of the 5-HT2 subtype.
+2. To elucidate if 5-HT2 receptors (5-HT2Rs) may be involved in DHE prophylactic effect, we performed investigations aimed to determine the respective pharmacological profile of DHE and of its major metabolite 8'-hydroxy-DHE (8'-OH-DHE) at the 5-HT2B and 5-HT2CRs by binding, inositol triphosphate (IP3) or cyclic GMP (cGMP) coupling studies in transfected fibroblasts.
+3.
+DHE and 8'-OH-DHE are competitive compounds at 5-HT2B and 5-HT2CRs.
+8'-OH-DHE interaction at (5-HT2BRs) was best fitted by a biphasic competition curve and displayed the highest affinity with a Ki of 5 nm.
+These two compounds acted as agonists for both receptors in respect to cGMP production with pEC50 of 8.32+/-0.09 for 8'-OH-DHE at 5-HT2B and 7.83+/-0.06 at 5-HT2CRs.
+4. Knowing that the antimigraine prophylactic effect of DHE is only observed after long-term treatment, we chronically exposed the recombinant cells to DHE and 8'-OH-DHE.
+The number of 5-HT2BR-binding sites was always more affected than 5-HT2CRs.
+At 5-HT2BRs, 8'-OH-DHE was more effective than DHE, with an uncoupling that persisted for more than 40 h for IP3 or cGMP.
+By contrast, the 5-HT2CR coupling was reversible after either treatment.
+5.
+Chronic exposure to 8'-OH-DHE caused a persistent agonist-mediated desensitisation of 5-HT2B, but not 5-HT2CRs.
+This may be of relevance to therapeutic actions of the compound.

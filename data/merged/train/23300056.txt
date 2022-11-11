@@ -1,0 +1,6 @@
+Determination of key receptor-ligand interactions of dopaminergic arylpiperazines and the dopamine D2 receptor homology model.
+Interest in structure-based G-protein-coupled receptor (GPCR) ligand discovery is huge, given that almost 30 % of all approved drugs belong to this category of active compounds.
+The GPCR family includes the dopamine receptor subtype D2 (D2DR), but unfortunately--as is true of most GPCRs--no experimental structures are available for these receptors.
+In this publication, we present the molecular model of D2DR based on the previously published crystal structure of the dopamine D3 receptor (D3DR).
+A molecular modeling study using homology modeling and docking simulation provided a rational explanation for the behavior of the arylpiperazine ligand.
+The observed binding modes and receptor-ligand interactions provided us with fresh clues about how to optimize selectivity for D2DR receptors.

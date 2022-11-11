@@ -1,0 +1,3 @@
+Example 142A
+3-Ethyl-6-(hydroxymethyl)-5-methyl-1-[2-(trifluoromethoxy)ethyl]thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+At RT, 16 mg (0.428 mmol) of sodium borohydride were added to a solution of 100 mg (0.285 mmol) of the compound from Ex. 82A in 2.8 ml of ethanol. After 1 h, about 1 ml of 1 M hydrochloric acid was added cautiously. Subsequently, undissolved material was filtered off with suction and the filtrate was separated into its components directly via preparative HPLC (Method 12). After concentration of the product fractions and drying under high vacuum, 82 mg (81% of theory) of the title compound were obtained.

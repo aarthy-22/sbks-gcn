@@ -1,0 +1,14 @@
+T8	CHEMICAL 33 57	4-aminopyrrolopyrimidine
+T12	GENE-Y 58 63	Tie-2
+T13	GENE-N 64 70	kinase
+T10	GENE-Y 166 171	Tie-2
+T11	GENE-N 172 178	kinase
+T1	CHEMICAL 218 235	pyrrolopyrimidine
+T2	CHEMICAL 295 308	benzimidazole
+T3	CHEMICAL 329 342	benzimidazole
+T4	CHEMICAL 369 394	4-amino-pyrrolopyrimidine
+T5	CHEMICAL 408 418	ketophenyl
+T6	CHEMICAL 457 467	ketophenyl
+T9	GENE-Y 536 541	Tie-2
+T7	CHEMICAL 569 602	ketophenyl pyrrolopyrimidine urea
+R0	CPR-4 Arg1:T8 Arg2:T12

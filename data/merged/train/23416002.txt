@@ -1,0 +1,5 @@
+Amino acid derived quinazolines as Rock/PKA inhibitors.
+SAR and lead optimization studies for Rock inhibitors based on amino acid-derived quinazolines are described.
+Studies demonstrated that these amino acid derived quinazolinones were mainly pan-Rock (I & II) inhibitors.
+While selectivity against other kinases could be achieved, selectivity for most of these compounds against PKA was not achieved.
+This is distinct from Rock inhibitors based on non-amino acid derived quinazolinones, where high selectivity against PKA could be obtained.(22) The inhibitors presented here in some cases possessed sub-nanomolar inhibition of Rock, nanomolar potency in ppMLC cell based assays, low to fair cytochrome P-450 inhibition, and good human microsomal stability.

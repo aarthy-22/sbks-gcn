@@ -1,0 +1,8 @@
+Nitrogen-containing bisphosphonates induce apoptosis of hematopoietic tumor cells via inhibition of Ras signaling pathways and Bim-mediated activation of the intrinsic apoptotic pathway.
+Nitrogen-containing bisphosphonates (N-BPs) induce apoptosis in tumor cells by inhibiting the prenylation of small G-proteins.
+However, the details of the apoptosis-inducing mechanism remain obscure.
+The present study showed that the induction of apoptosis by N-BPs in hematopoietic tumor cells is mediated by mitochondrial apoptotic signaling pathways, which are activated by the suppression of geranylgeranyl pyrophosphate (GGPP) biosynthesis.
+Furthermore, N-BPs decreased the levels of phosphorylated extracellular signal-regulated kinase (ERK) and mTOR via suppression of Ras prenylation and enhanced Bim expression.
+The present results indicated that N-BPs induce apoptosis by decreasing the mitochondrial transmembrane potential, increasing the activation of caspase-9 and caspase-3, and enhancing Bim expression through inhibition of the Ras/MEK/ERK and Ras/mTOR pathways.
+The accumulation of N-BPs in bones suggests that they may act more effectively on tumors that have spread to bones or on Ras-variable tumors.
+This is the first study to show that the specific molecular pathways of N-BP-induced apoptosis.

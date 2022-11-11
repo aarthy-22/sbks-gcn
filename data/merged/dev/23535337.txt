@@ -1,0 +1,9 @@
+Disruption of AtWNK8 Enhances Tolerance of Arabidopsis to Salt and Osmotic Stresses via Modulating Proline Content and Activities of Catalase and Peroxidase.
+With no lysine kinases (WNKs) play important roles in plant growth and development.
+However, its role in salt and osmotic stress tolerance is unclear.
+Here, we report that AtWNK8 is mainly expressed in primary root, hypocotyl, stamen and pistil and is induced by NaCl and sorbitol treatment.
+Compared to the wild-type, the T-DNA knock-out wnk8 mutant was more tolerant to severe salinity and osmotic stresses, as indicated by 27% and 198% more fresh weight in the NaCl and sorbitol treatment, respectively.
+The wnk8 mutant also accumulated 1.43-fold more proline than the wild-type in the sorbitol treatment.
+Under NaCl and sorbitol stresses, catalase (CAT) activity in wnk8 mutant was 1.92- and 3.7-times of that in Col-0, respectively.
+Similarly, under salt and osmotic stress conditions, peroxidase (POD) activities in wnk8 mutant were 1.81- and 1.58-times of that in Col-0, respectively.
+Taken together, we revealed that maintaining higher CAT and POD activities might be one of the reasons that the disruption of AtWNK8 enhances the tolerance to salt stress, and accumulating more proline and higher activities of CAT and POD might result in the higher tolerance of WNK8 to osmotic stress.

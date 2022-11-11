@@ -1,0 +1,33 @@
+T23	CHEMICAL 0 9	Histamine
+T31	GENE-Y 0 21	Histamine H1-receptor
+T26	CHEMICAL 35 47	promethazine
+T27	CHEMICAL 52 70	homochlorcyclizine
+T24	CHEMICAL 123 134	haloperidol
+T25	CHEMICAL 147 158	haloperidol
+T4	CHEMICAL 175 184	histamine
+T29	GENE-Y 175 196	histamine H1-receptor
+T16	CHEMICAL 210 222	promethazine
+T19	CHEMICAL 227 245	homochlorcyclizine
+T28	GENE-Y 279 285	CYP2D6
+T11	CHEMICAL 338 349	haloperidol
+T12	CHEMICAL 362 373	haloperidol
+T13	CHEMICAL 428 439	haloperidol
+T14	CHEMICAL 475 487	Promethazine
+T15	CHEMICAL 518 536	homochlorcyclizine
+T17	CHEMICAL 669 681	promethazine
+T18	CHEMICAL 685 703	homochlorcyclizine
+T20	CHEMICAL 913 924	haloperidol
+T21	CHEMICAL 937 948	haloperidol
+T22	CHEMICAL 956 968	promethazine
+T1	CHEMICAL 1234 1245	haloperidol
+T2	CHEMICAL 1258 1269	haloperidol
+T3	CHEMICAL 1277 1295	homochlorcyclizine
+T5	CHEMICAL 1690 1702	promethazine
+T6	CHEMICAL 1707 1725	homochlorcyclizine
+T7	CHEMICAL 1747 1758	haloperidol
+T8	CHEMICAL 1771 1782	haloperidol
+T30	GENE-Y 1817 1823	CYP2D6
+T9	CHEMICAL 1848 1859	haloperidol
+T10	CHEMICAL 1872 1883	haloperidol
+R0	NOT Arg1:T31 Arg2:T24
+R1	NOT Arg1:T31 Arg2:T25

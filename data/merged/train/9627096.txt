@@ -1,0 +1,7 @@
+Distinct functional characteristics of levocabastine sensitive rat neurotensin NT2 receptor expressed in Chinese hamster ovary cells.
+Neurotensin has been shown to produce pharmacological effects both in brain and periphery.
+Several of these effects are mediated by a high-affinity neurotensin NT1 receptor.
+On the other hand, a low-affinity levocabastine-sensitive neurotensin NT2 receptor was molecularly cloned from rodent brain recently.
+In this study, in contrast to NT1 receptor, levocabastine (a histamine H1 receptor antagonist) and SR48692 (an antagonist for NT1 receptor) strongly stimulated intracellular Ca2+ mobilization in transfected Chinese hamster ovary cells expressing rat NT2 receptor, thus acting as potent NT2 receptor.
+Furthermore, despite of their affinities for NT2 receptor, the Ca2+ responses to potent NT1 agonists, neurotensin or JMV449 ([Lys8-(CH2NH)-Lys9]Pro-Tyr-Ile-Leu, a peptidase resistant analogue of neurotensin) were much smaller than that observed with SR48692.
+These findings suggest that NT1 and NT2 receptors present distinct functional characteristics and that SR48692 may act as a potent agonist for NT2 receptor.

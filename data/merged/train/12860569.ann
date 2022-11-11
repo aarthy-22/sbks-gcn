@@ -1,0 +1,21 @@
+T19	GENE-N 0 14	Immunoglobulin
+T20	GENE-Y 55 71	apolipoprotein E
+T21	GENE-N 95 105	Fc portion
+T14	GENE-N 161 175	Immunoglobulin
+T8	GENE-N 268 270	Fc
+T9	GENE-N 282 296	immunoglobulin
+T10	GENE-Y 334 350	apolipoprotein E
+T1	CHEMICAL 466 477	cholesterol
+T11	GENE-N 601 628	human intact immunoglobulin
+T12	GENE-N 632 639	F(ab')2
+T13	GENE-N 653 673	human immunoglobulin
+T15	GENE-N 775 789	immunoglobulin
+T16	GENE-N 892 899	F(ab')2
+T17	GENE-N 1045 1059	immunoglobulin
+T18	GENE-N 1091 1098	F(ab')2
+T2	GENE-N 1168 1182	immunoglobulin
+T3	GENE-N 1210 1217	F(ab')2
+T4	GENE-Y 1296 1315	human serum albumin
+T5	GENE-N 1431 1445	Immunoglobulin
+T6	GENE-N 1497 1508	Fc receptor
+T7	GENE-N 1601 1615	immunoglobulin

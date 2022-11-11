@@ -1,0 +1,2183 @@
+T1	OTHER_COMPOUND 128 134	phenyl
+T2	OTHER_COMPOUND 206 213	halogen
+T3	OTHER_COMPOUND 228 243	di-methyl-amino
+T4	OTHER_COMPOUND 307 312	OnCH3
+T5	OTHER_COMPOUND 354 361	halogen
+T6	OTHER_COMPOUND 408 421	S-lower alkyl
+T7	OTHER_COMPOUND 457 481	benzo[d][l,3]dioxol-5-yl
+T8	REACTION_PRODUCT 483 533	2,3-dihydrobenzo[b][l,4]dioxin-6-yl, indolin-2-one
+T9	OTHER_COMPOUND 541 551	heteroaryl
+T10	OTHER_COMPOUND 603 615	benzofuranyl
+T11	OTHER_COMPOUND 617 643	benzothiophenyl, pyrazinyl
+T12	OTHER_COMPOUND 721 728	halogen
+T13	OTHER_COMPOUND 757 761	nCH3
+T14	OTHER_COMPOUND 790 797	halogen
+T15	OTHER_COMPOUND 799 820	-(CH2)2-0-lower alkyl
+T16	OTHER_COMPOUND 847 857	cycloalkyl
+T17	OTHER_COMPOUND 945 963	-CH2CH2CHRCH2CH2-,
+T18	OTHER_COMPOUND 964 991	-CH2CH2CH2CH2-, -CH2CH2CH2-
+T19	OTHER_COMPOUND 1032 1046	-CH2CH2CHRCH2-
+T20	OTHER_COMPOUND 1078 1085	halogen
+T21	OTHER_COMPOUND 1093 1098	alkyl
+T22	OTHER_COMPOUND 1114 1121	halogen
+T23	OTHER_COMPOUND 1516 1542	fatty acid amide hydrolase
+T24	REACTION_PRODUCT 1544 1591	2-Aryl-3-(heteroaryl)-imidazo(l,2-a)pyrimidines
+T25	OTHER_COMPOUND 1695 1704	cytokines
+T26	OTHER_COMPOUND 1861 1873	beta-amyloid
+T27	OTHER_COMPOUND 1888 1903	alpha-synuclein
+T28	OTHER_COMPOUND 1962 1972	aggregates
+T29	STARTING_MATERIAL 1996 2007	Alzheimer’s
+T30	OTHER_COMPOUND 2302 2314	beta amyloid
+T31	OTHER_COMPOUND 2397 2416	hyperphosphorylated
+T32	OTHER_COMPOUND 2417 2428	tau protein
+T33	OTHER_COMPOUND 2430 2433	Tau
+T34	REACTION_PRODUCT 2730 2733	Tau
+T35	OTHER_COMPOUND 3035 3038	tau
+T36	OTHER_COMPOUND 3135 3138	tau
+T37	OTHER_COMPOUND 3352 3355	FTD
+T38	OTHER_COMPOUND 3550 3553	tau
+T39	OTHER_COMPOUND 3848 3851	FTD
+T40	OTHER_COMPOUND 3911 3914	PSP
+T41	OTHER_COMPOUND 3997 4001	FTLD
+T42	OTHER_COMPOUND 4224 4228	NFTs
+T43	OTHER_COMPOUND 4688 4691	tau
+T44	OTHER_COMPOUND 4858 4861	tau
+T45	OTHER_COMPOUND 4886 4891	brain
+T46	OTHER_COMPOUND 4942 4945	tau
+T47	OTHER_COMPOUND 4977 4980	tau
+T48	OTHER_COMPOUND 5072 5080	anti-tau
+T49	OTHER_COMPOUND 5178 5183	brain
+T50	OTHER_COMPOUND 5410 5415	blood
+T51	OTHER_COMPOUND 5589 5603	tau aggregates
+T52	OTHER_COMPOUND 5744 5752	anti-tau
+T53	OTHER_COMPOUND 5794 5797	tau
+T54	OTHER_COMPOUND 6097 6098	I
+T55	OTHER_COMPOUND 6325 6334	formula I
+T56	OTHER_COMPOUND 6736 6746	1-7 carbon
+T57	OTHER_COMPOUND 6779 6785	methyl
+T58	OTHER_COMPOUND 6787 6792	ethyl
+T59	OTHER_COMPOUND 6808 6817	isopropyl
+T60	OTHER_COMPOUND 6953 6958	-O-R’
+T61	OTHER_COMPOUND 7030 7038	chlorine
+T62	OTHER_COMPOUND 7040 7047	bromine
+T63	OTHER_COMPOUND 7061 7067	iodine
+T64	OTHER_COMPOUND 7106 7113	halogen
+T65	OTHER_COMPOUND 7126 7131	alkyl
+T66	OTHER_COMPOUND 7208 7215	halogen
+T67	OTHER_COMPOUND 7260 7267	halogen
+T68	OTHER_COMPOUND 7363 7370	halogen
+T69	OTHER_COMPOUND 7412 7423	unsaturated
+T70	OTHER_COMPOUND 7472 7473	Ν
+T71	OTHER_COMPOUND 7475 7476	O
+T72	OTHER_COMPOUND 7480 7481	S
+T73	OTHER_COMPOUND 7495 7506	morpholinyl
+T74	OTHER_COMPOUND 7508 7519	piperazinyl
+T75	OTHER_COMPOUND 7521 7532	piperidinyl
+T76	OTHER_COMPOUND 7536 7548	pyrrolidinyl
+T77	OTHER_COMPOUND 7563 7570	tritium
+T78	OTHER_COMPOUND 7730 7747	hydrochloric acid
+T79	OTHER_COMPOUND 7749 7760	nitric acid
+T80	OTHER_COMPOUND 7762 7770	sulfuric
+T81	OTHER_COMPOUND 7777 7792	phosphoric acid
+T82	OTHER_COMPOUND 7794 7805	citric acid
+T83	OTHER_COMPOUND 7807 7813	formic
+T84	OTHER_COMPOUND 7820 7827	fumaric
+T85	OTHER_COMPOUND 7834 7845	maleic acid
+T86	OTHER_COMPOUND 7847 7853	acetic
+T87	OTHER_COMPOUND 7875 7888	tartaric acid
+T88	OTHER_COMPOUND 7890 7906	methane-sulfonic
+T89	OTHER_COMPOUND 7913 7930	p-toluenesulfonic
+T90	OTHER_COMPOUND 7998 7999	I
+T91	OTHER_COMPOUND 8036 8039	tau
+T92	OTHER_COMPOUND 8107 8130	beta-amyloid aggregates
+T93	OTHER_COMPOUND 8134 8149	alpha-synuclein
+T94	OTHER_COMPOUND 8315 8322	halogen
+T95	OTHER_COMPOUND 8337 8352	di-methyl-amino
+T96	OTHER_COMPOUND 8463 8470	halogen
+T97	OTHER_COMPOUND 8472 8492	hydroxy, lower alkyl
+T98	OTHER_COMPOUND 8517 8530	S-lower alkyl
+T99	OTHER_COMPOUND 8540 8552	heterocyclyl
+T100	OTHER_COMPOUND 8582 8587	alkyl
+T101	OTHER_COMPOUND 8618 8625	halogen
+T102	OTHER_COMPOUND 8639 8652	alkyl, C(3H)3
+T103	OTHER_COMPOUND 8654 8658	nCH3
+T104	OTHER_COMPOUND 8666 8671	alkyl
+T105	OTHER_COMPOUND 8687 8694	halogen
+T106	OTHER_COMPOUND 8712 8717	alkyl
+T107	OTHER_COMPOUND 8744 8754	cycloalkyl
+T108	OTHER_COMPOUND 8842 8909	-ch2ch2chrch2ch2-, -ch2ch2ch2ch2-, -ch2ch2ch2-, -ch2ch2-nr-ch2ch2-,
+T109	OTHER_COMPOUND 8910 8943	-CH2CH2-0-CH2CH2-, -CH2CH2CHRCH2-
+T110	OTHER_COMPOUND 8969 8977	hydrogen
+T111	OTHER_COMPOUND 8979 8986	halogen
+T112	OTHER_COMPOUND 8988 8993	lower
+T113	OTHER_COMPOUND 9015 9022	halogen
+T114	OTHER_COMPOUND 9026 9038	lower alkoxy
+T115	REACTION_PRODUCT 9211 9465	N-methyl-2-phenylimidazo[l,2-a]pyrimidin-7-amine 7-(4-fluoropiperidin-l-yl)-2-phenylimidazo[l,2-a]pyrimidine 7-(4-fluoropiperidin-1 -yl)-2-(4-methoxyphenyl)imidazo [ 1,2-a]pyrimidine 2-(4-chlorophenyl)-7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidine
+T116	REACTION_PRODUCT 9466 9832	7-(4-fluoropiperidin-l-yl)-2-(3-methoxyphenyl)imidazo[l,2-a]pyrimidine 2-(4-fluorophenyl)-7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidine 4- [4- [7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidin-2-yl]phenyl]morpholine 7-(4-fluoropiperidin-l-yl)-2-(3-methylphenyl)imidazo[l,2-a]pyrimidine 7-(4-fluoropiperidin-1-yl)-2-(4-methylphenyl)imidazo[ 1,2-a]pyrimidine
+T117	REACTION_PRODUCT 9833 10425	2- (2-fluorophenyl)-7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidine 3- [7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl]phenol 7-(4-fluoropiperidin-1 -yl)-2-(4-pyrrolidin-1 -ylphenyl)imidazo[ 1,2-a]pyrimidine 7-(4-fluoropiperidin-1-yl)-2-[3-(trifluoromethoxy)phenyl]imidazo[ 1,2-a]pyrimidine 2- [3-(fluoromethoxy)phenyl]-7 -pyrrolidin-1 -ylimidazo[ 1,2-a]pyrimidine 2- [3-(2-fluoroethoxy)phenyl] -7-pyrrolidin-1 -ylimidazo [ 1,2-a]pyrimidine N,N-dimethyl-2-phenylimidazo[l,2-a]pyrimidin-7-amine 7 - [4-(2-fluoroethyl)piperazin-1 -yl] -2-(4-methoxyphenyl)imidazo [1,2- ajpyrimidine
+T118	REACTION_PRODUCT 10426 11840	7 - [4-(2-fluoroethyl)piperazin-1 -yl] -2-(3-methoxyphenyl)imidazo [ 1,2-a]pyrimidine N-(2-fluoroethyl)-N-methyl-2-phenylimidazo[l,2-a]pyrimidin-7-amine N-(2-fluoroethyl)-2-(3-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N-(2-fluoroethyl)-2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 7 - [4-(2-fluoroethyl)piperazin-1 -yl] -2-phenylimidazo [ 1,2-a]pyrimidine 4- [2-(4-methoxyphenyl)imidazo[ 1,2-a]pyrimidin-7-yl ]morpholine 4-[2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-yl]morpholine 4- [2-(3,4-dimethoxyphenyl)imidazo[ 1,2-a]pyrimidin-7-yl] morpholine 4-(7 -pyrrolidin-1 -ylimidazo[ 1,2-a]pyrimidin-2-yl)phenol 2- [4-(2-fluoroethoxy)phenyl] -7-pyrrolidin-1 -ylimidazo [ 1,2-a]pyrimidine 2- [4-(fluoromethoxy)phenyl]-7 -pyrrolidin-1 -ylimidazo[ 1,2-a]pyrimidine 7 - [(3R)-3 -methoxypyrrolidin-1 -yl] -2-phenylimidazo [ 1,2-a]pyrimidine 7- [(3 S)-3 -methoxypyrrolidin-1 -yl] -2-phenylimidazo [ 1,2-a]pyrimidine 7-[(3R)-3-fluoropyrrolidin-l-yl]-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine 7- [(3 S)-3 -fluoropyrrolidin-1 -yl] -2-(4-methoxyphenyl)imidazo [ 1,2-a]pyrimidine 2-(3-methoxyphenyl)-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine 2-(4-methoxyphenyl)-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine N,N-dimethyl-2-(4-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine N,N-dimethyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine 4- [2-(3-methoxyphenyl)imidazo[ 1,2-a]pyrimidin-7-yl]morpholine
+T119	REACTION_PRODUCT 11841 12365	4- [2-(4-methylphenyl)imidazo[ 1,2-a]pyrimidin-7-yl] morpholine 2-(4-methoxyphenyl)-7-pyrrolidin-1-ylimidazo[ 1,2-a]pyrimidine 2-(4-methylphenyl)-7 -pyrrolidin-1 -ylimidazo [ 1,2-a]pyrimidine N,N-dimethyl-2-(4-morpholin-4-ylphenyl)imidazo[l,2-a]pyrimidin-7-amine 2-[4-(dimethylamino)phenyl]-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine 2-(3-methoxyphenyl)-7-pyrrolidin-l-ylimidazo[l,2-a]pyrimidine 2-(3 -methylphenyl)-7 -pyrrolidin-1 -ylimidazo [ 1,2-a]pyrimidine 2-(4-methoxyphenyl)-7-piperidin-1-ylimidazo[ 1,2-a]pyrimidine
+T120	REACTION_PRODUCT 12366 12550	2-(3-methoxyphenyl)-7-piperidin-l-ylimidazo[l,2-a]pyrimidine 2-(4-methylphenyl)-7-piperidin-1-ylimidazo[ 1,2-a]pyrimidine 2-(3-methylphenyl)-7 -piperidin-1 -ylimidazo[ 1,2-a]pyrimidine
+T121	REACTION_PRODUCT 12551 12692	2-(3,4-dimethoxyphenyl)-7-piperidin-1 -ylimidazo[ 1,2-a]pyrimidine 7 - [4-(2-lluoroethyl)piperidin-1 -yl] -2-phenylimidazo [ 1,2-a]pyrimidine
+T122	REACTION_PRODUCT 12693 12779	7 - [4-(2-fluoroethyl)piperidin-1 -yl] -2-(3 -methoxyphenyl)imidazo [ 1,2-a]pyrimidine
+T123	REACTION_PRODUCT 12780 12865	7 - [4-(2-fluoroethyl)piperidin-1 -yl] -2-(4-methoxyphenyl)imidazo [ 1,2-a]pyrimidine
+T124	REACTION_PRODUCT 12866 13346	7 - [4-(2-fluoroethyl)piperidin-1 -yl] -2-(3 -methylphenyl)imidazo [ 1,2-a]pyrimidine 7 - [4-(2-fluoroethyl)piperidin-1 -yl] -2-(4-methylphenyl)imidazo [ 1,2-a]pyrimidine 4-[4-[7-[4-(2-fluoroethyl)piperidin-l-yl]imidazo[l,2-a]pyrimidin-2-yl]phenyl]morpholine N-methyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine N-[2-(2-fluoroethoxy)ethyl]-2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 7-(2-azaspiro[3.3]heptan-2-yl)-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T125	REACTION_PRODUCT 13347 13564	N-ethyl-2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N,N-diethyl-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidin-7-amine N-[2-(2-fluoroethoxy)ethyl]-N-methyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine
+T126	REACTION_PRODUCT 13565 13626	7-(azetidin-l-yl)-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T127	REACTION_PRODUCT 13627 15194	7-(3-fluoroazetidin-l-yl)-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine 7-(3-fluoroazetidin-l-yl)-2-phenylimidazo[l,2-a]pyrimidine 7-(3-fluoroazetidin-l-yl)-2-(3-methylphenyl)imidazo[l,2-a]pyrimidine N,N-dimethyl-4-(7-morpholin-4-ylimidazo[l,2-a]pyrimidin-2-yl)aniline N-cyclopropyl-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidin-7-amine N-isopropyl-2-(4-methoxy-phenyl)-imidazo[l,2-a]pyrimidin-7-amine 2-(4-methoxyphenyl)-N-(2,2,2-trifluoroethyl)imidazo[l,2-a]pyrimidin-7-amine 4- [7-(azetidin-1 -yl)imidazo[ 1,2-a]pyrimidin-2-yl]phenol 7-(3-methoxyazetidin-l-yl)-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine N-methyl-2-(4-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine 2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N-(2-ffluoroethyl)-N-methyl-2-(4-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine N-(2-fluoroethyl)-N-methyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine 2-(4-methoxyphenyl)-7-(3-methylazetidin-l-yl)imidazo[l,2-a]pyrimidine 2-[4-(dimethylamino)phenyl]-N-methylimidazo[l,2-a]pyrimidin-7-amine 4-[7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl]-N,N-dimethylaniline 2-[4-(dimethylamino)phenyl]-N-(2-fluoroethyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N-cyclopropyl-2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 7-(azetidin-l-yl)-2-(4-methylphenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(3-methylphenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-[4-(fluoromethoxy)phenyl]imidazo[l,2-a]pyrimidine 2-methoxy-4-[7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl]phenol 2-(3-bromophenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T128	REACTION_PRODUCT 15279 17530	7-(azetidin-l-yl)-2-[4-(tritritiomethoxy)phenyl)imidazo[l,2-a]pyrimidine 2-(3-methylphenyl)-N-(tritritiomethyl)imidazo[l,2-a]pyrimidine-7-amine N-[11C]methyl-2-(m-tolyl)imidazo[l,2-a]pyrimidin-7-amine N-cyclopropyl-2-(4- [11 C]methoxyphenyl)imidazo [ 1,2-a]pyrimidin-7-amine 2-[4-(2-[18F]fluoroethoxy)phenyl]-N-methyl-imidazo[l,2-a]pyrimidin-7-amine [4- [7-(methylamino)imidazo[ 1,2-a]pyrimidin-2-yl]phenyl]methanol 2-(3-fluoro-4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N-(4-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenyl)acetamide 7-(azetidin-l-yl)-2-(4-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(4-(3-fluoropropoxy)phenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(3-methoxyphenyl)imidazo[l,2-a]pyrimidine [3-[7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl]phenyl]methanol 7-(azetidin-l-yl)-2-(3-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidine N-cyclopropyl-N-(2-fluoroethyl)-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidin-7-amine 2- (3 -methoxyphenyl) -N-methylimidazo [1,2- a]pyrimidin-7- amine 7-(azetidin-l-yl)-2-(3-(fluoromethoxy)phenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(4-fluorophenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(3-fluorophenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-1 -yl) -2- (3,5 -di methoxyphenyl)i midazo [ 1,2-a]pyrimidine 4-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol 2-(4-(2-fluoroethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2- (4-(3-fluoropropoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 3- (7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol 7-(azetidin-l-yl)-2-(3-(methylthio)pheny])imidazo[l,2-a]pyrimidine 7-(azeddin-1 -yl)-2-(3-methoxy-4-methylpheny])imidazo[l ,2-a]pyrimidine 7-(azetidin-1 -yl)-2-(3,4-di methoxyphenyl)imidazo[ 1,2-a]pyrimidine 2-(3-(2-fluoroethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2-(3-(3-fluoropropoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2-(3-(fluoromethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2- (4-(fluoromethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 3- (7-(cyclopropylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol N-cyclopropyl-2-(3-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine [4-[7-(dimethylamino)imidazo[l,2-a]pyrimidin-2-yl]phenyl]methanol acetic acid
+T129	REACTION_PRODUCT 17538 18096	methyl 4- [7-(methylamino)imidazo [ 1,2-a]pyrimidin-2-yl]benzoate N-cyclopropyl-2-(3-(fluoromethoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine N-cyclopropyl-2-(4-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine N-cyclopropyl-2-(4-(3-fluoropropoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine N-cyclopropyl-2-(4-(fluoromethoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine N-methyl-2-(4-(methylthio)phenyl)imidazo[l,2-a]pyrimidin-7-amine 2-(3,4-dimethoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2-(3-methoxy-4-methylphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T130	REACTION_PRODUCT 18100 18163	2-(3,5-dimethoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T131	OTHER_COMPOUND 18248 18272	benzo[d][l,3]dioxol-5-yl
+T132	OTHER_COMPOUND 18274 18312	2,3-dihydrobenzo[b][l,4]dioxin-6-yl or
+T133	REACTION_PRODUCT 18313 18326	indolin-2-one
+T134	OTHER_COMPOUND 18455 18462	halogen
+T135	OTHER_COMPOUND 18501 18508	halogen
+T136	OTHER_COMPOUND 18512 18523	cycloalkyl;
+T137	OTHER_COMPOUND 18560 18566	N-atom
+T138	OTHER_COMPOUND 18610 18643	-CH2CH2CHRCH2CH2-, -CH2CH2CH2CH2-
+T139	OTHER_COMPOUND 18645 18657	-CH2CH2CH2-,
+T140	OTHER_COMPOUND 18658 18696	-CH2CH2-NR-CH2CH2-, -CH2CH2-O-CH2CH2-,
+T141	OTHER_COMPOUND 18713 18724	-CH2CHRCH2-
+T142	OTHER_COMPOUND 18743 18750	halogen
+T143	REACTION_PRODUCT 18975 19631	2-(l,3-benzodioxol-5-yl)-7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidine 2-(2,3-dihydro-l,4-benzodioxin-6-yl)-7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidine 2-(l,3-benzodioxol-5-yl)-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine 2-(2,3-dihydro- l,4-benzodioxin-6-yl)-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine 2- (1,3 -benzodioxol- 5 -yl) -7- [4- (2-fluoroethyl)piperidin-1 -y 1] imidazo [1,2- ajpyrimidine 2-(2,3-dihydro-l,4-benzodioxin-6-yl)-7-[4-(2-fluoroethyl)piperidin-l-yl]imidazo[l,2-ajpyrimidine 2-(l,3-benzodioxol-5-yl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2-(l,3-benzodioxol-5-yl)-N-(2-fluoroethyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T144	REACTION_PRODUCT 19635 19695	5-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)indolin-2-one
+T145	OTHER_COMPOUND 19790 19792	R1
+T146	OTHER_COMPOUND 19853 19867	, benzofuranyl
+T147	OTHER_COMPOUND 19869 19884	benzothiophenyl
+T148	OTHER_COMPOUND 19886 19895	pyrazinyl
+T149	OTHER_COMPOUND 19899 19913	benzothiazolyl
+T150	OTHER_COMPOUND 19921 19929	hydrogen
+T151	OTHER_COMPOUND 19973 19980	halogen
+T152	OTHER_COMPOUND 20042 20049	halogen
+T153	OTHER_COMPOUND 20088 20095	halogen
+T154	OTHER_COMPOUND 20099 20109	cycloalkyl
+T155	OTHER_COMPOUND 20121 20123	R3
+T156	OTHER_COMPOUND 20163 20167	they
+T157	OTHER_COMPOUND 20216 20243	-CH2CH2CH2CH2-, -CH2CH2CH2-
+T158	OTHER_COMPOUND 20245 20263	-CH2CH2-NR-CH2CH2-
+T159	OTHER_COMPOUND 20265 20282	-CH2CH2-O-CH2CH2-
+T160	OTHER_COMPOUND 20330 20337	halogen
+T161	OTHER_COMPOUND 20345 20350	alkyl
+T162	REACTION_PRODUCT 20562 20919	7-(4-fluoropiperidin-l-yl)-2-thiophen-3-ylimidazo[l,2-a]pyrimidine 2-(1 -benzofuran-2-yl)-7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidine 2-(l-benzothiophen-2-yl)-7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidine 2-[7-(4-fluoropiperidin- l-yl)imidazo[l ,2-a]pyrimidin-2-yl]-1,3-benzothiazole N,N-dimethyl-2-thiophen-3-ylimidazo[l,2-a]pyrimidin-7-amine
+T163	REACTION_PRODUCT 20923 20990	7-(4-fluoropiperidin-l-yl)-2-(pyrazin-2-yl)imidazo[l,2-a]pyrimidine
+T164	OTHER_COMPOUND 21054 21057	tau
+T165	OTHER_COMPOUND 21095 21121	alpha-synuclein aggregates
+T166	OTHER_COMPOUND 21125 21135	huntingtin
+T167	OTHER_COMPOUND 21226 21229	tau
+T168	OTHER_COMPOUND 21302 21303	I
+T169	OTHER_COMPOUND 21633 21635	Cl
+T170	OTHER_COMPOUND 21637 21639	Br
+T171	OTHER_COMPOUND 21662 21668	HNR2R3
+T172	OTHER_COMPOUND 21700 21701	I
+T173	OTHER_COMPOUND 21929 21936	tritium
+T174	OTHER_COMPOUND 22080 22087	Br (IV)
+T175	OTHER_COMPOUND 22119 22120	I
+T176	OTHER_COMPOUND 22335 22342	tritium
+T177	OTHER_COMPOUND 22396 22397	V
+T178	OTHER_COMPOUND 22414 22424	alkylation
+T179	OTHER_COMPOUND 22465 22466	I
+T180	OTHER_COMPOUND 22572 22579	tritium
+T181	OTHER_COMPOUND 22637 22653	pharmaceutically
+T182	OTHER_COMPOUND 22679 22684	salts
+T183	OTHER_COMPOUND 22714 22717	1-2
+T184	OTHER_COMPOUND 22812 22813	I
+T185	OTHER_COMPOUND 24217 24223	amines
+T186	STARTING_MATERIAL 24266 24279	methyl iodide
+T187	STARTING_MATERIAL 24286 24298	alkyl halide
+T188	REAGENT_CATALYST 24327 24341	sodium hydride
+T189	OTHER_COMPOUND 24370 24373	DMF
+T190	TEMPERATURE 24377 24384	ambient
+T191	REACTION_PRODUCT 24425 24432	amine V
+T192	REACTION_PRODUCT 24459 24468	protected
+T193	REACTION_PRODUCT 24475 24478	V-a
+T194	STARTING_MATERIAL 24522 24525	di-
+T195	OTHER_COMPOUND 24646 24658	methyliodine
+T196	STARTING_MATERIAL 24665 24681	alkyl halogenide
+T197	REAGENT_CATALYST 24710 24724	sodium hydride
+T198	SOLVENT 24753 24756	DMF
+T199	TEMPERATURE 24760 24770	ambient or
+T200	REACTION_PRODUCT 24875 24891	activated ketone
+T201	REACTION_PRODUCT 24892 24894	IV
+T202	OTHER_COMPOUND 24963 24965	Br
+T203	OTHER_COMPOUND 24982 24998	aminopyrimidines
+T204	OTHER_COMPOUND 24999 25002	III
+T205	OTHER_COMPOUND 25087 25094	acetone
+T206	OTHER_COMPOUND 25098 25105	ethanol
+T207	OTHER_COMPOUND 25162 25163	I
+T208	REACTION_PRODUCT 25219 25245	2-amino-4-chloropyrimidine
+T209	REAGENT_CATALYST 25305 25324	potassium carbonate
+T210	OTHER_COMPOUND 25328 25344	cesium carbonate
+T211	OTHER_COMPOUND 25374 25383	sulfolane
+T212	OTHER_COMPOUND 25387 25390	ΝΜΡ
+T213	OTHER_COMPOUND 25435 25448	amines HNR2R3
+T214	OTHER_COMPOUND 25452 25457	water
+T215	OTHER_COMPOUND 25527 25528	I
+T216	OTHER_COMPOUND 25656 25658	R1
+T217	OTHER_COMPOUND 25716 25718	Br
+T218	OTHER_COMPOUND 25724 25740	aminopyrimidines
+T219	OTHER_COMPOUND 25780 25782	Cl
+T220	OTHER_COMPOUND 25786 25788	Br
+T221	OTHER_COMPOUND 25817 25824	acetone
+T222	OTHER_COMPOUND 25828 25835	ethanol
+T223	TEMPERATURE 25840 25860	elevated temperature
+T224	OTHER_COMPOUND 25892 25894	II
+T225	OTHER_COMPOUND 25945 25952	amine I
+T226	OTHER_COMPOUND 26005 26014	Pd2(dba)3
+T227	OTHER_COMPOUND 26051 26059	xantphos
+T228	SOLVENT 26088 26095	dioxane
+T229	OTHER_COMPOUND 26137 26153	cesium carbonate
+T230	OTHER_COMPOUND 26212 26213	I
+T231	REACTION_PRODUCT 26367 26371	VIII
+T232	STARTING_MATERIAL 26433 26454	1-fluoroethyl bromide
+T233	STARTING_MATERIAL 26458 26463	alkyl
+T234	STARTING_MATERIAL 26479 26500	fluoromethyl tosylate
+T235	REAGENT_CATALYST 26539 26555	cesium carbonate
+T236	REAGENT_CATALYST 26559 26573	sodium hydride
+T237	OTHER_COMPOUND 26603 26606	DMF
+T238	TEMPERATURE 26611 26618	ambient
+T239	OTHER_COMPOUND 26771 26780	formula I
+T240	OTHER_COMPOUND 26870 26876	C(3H)3
+T241	OTHER_COMPOUND 26960 26961	I
+T242	OTHER_COMPOUND 27130 27143	intermediates
+T243	OTHER_COMPOUND 28041 28058	hydrochloric acid
+T244	OTHER_COMPOUND 28060 28076	hydrobromic acid
+T245	OTHER_COMPOUND 28078 28086	sulfuric
+T246	OTHER_COMPOUND 28093 28099	nitric
+T247	OTHER_COMPOUND 28106 28121	phosphoric acid
+T248	OTHER_COMPOUND 28162 28173	acetic acid
+T249	OTHER_COMPOUND 28175 28189	propionic acid
+T250	OTHER_COMPOUND 28191 28204	glycolic acid
+T251	OTHER_COMPOUND 28206 28218	pyruvic acid
+T252	OTHER_COMPOUND 28220 28231	oxalic acid
+T253	OTHER_COMPOUND 28245 28257	malonic acid
+T254	OTHER_COMPOUND 28259 28272	succinic acid
+T255	OTHER_COMPOUND 28274 28285	maleic acid
+T256	OTHER_COMPOUND 28287 28299	fumaric acid
+T257	OTHER_COMPOUND 28301 28309	tartaric
+T258	OTHER_COMPOUND 28316 28322	citric
+T259	OTHER_COMPOUND 28329 28341	benzoic acid
+T260	OTHER_COMPOUND 28358 28371	mandelic acid
+T261	OTHER_COMPOUND 28373 28393	methanesulfonic acid
+T262	OTHER_COMPOUND 28395 28414	ethanesulfonic acid
+T263	OTHER_COMPOUND 28416 28438	p-toluenesulfonic acid
+T264	OTHER_COMPOUND 28440 28454	salicylic acid
+T265	OTHER_COMPOUND 28543 28556	diethyl ether
+T266	OTHER_COMPOUND 28558 28571	ethyl acetate
+T267	OTHER_COMPOUND 28573 28583	chloroform
+T268	OTHER_COMPOUND 28585 28592	ethanol
+T269	OTHER_COMPOUND 28596 28604	methanol
+T270	OTHER_COMPOUND 28627 28631	acid
+T271	TEMPERATURE 28698 28702	0 °C
+T272	TEMPERATURE 28707 28712	50 °C
+T273	OTHER_COMPOUND 28879 28880	I
+T274	OTHER_COMPOUND 29012 29018	sodium
+T275	OTHER_COMPOUND 29022 29041	potassium hydroxide
+T276	OTHER_COMPOUND 29043 29062	potassium carbonate
+T277	OTHER_COMPOUND 29064 29082	sodium bicarbonate
+T278	OTHER_COMPOUND 29084 29091	ammonia
+T279	OTHER_COMPOUND 29297 29303	native
+T280	OTHER_COMPOUND 29304 29318	tau aggregates
+T281	OTHER_COMPOUND 29377 29380	tau
+T282	OTHER_COMPOUND 29402 29410	[3H]T808
+T283	OTHER_COMPOUND 29454 29462	[3H]T808
+T284	OTHER_COMPOUND 29519 29544	human Alzheimer’s disease
+T285	OTHER_COMPOUND 29546 29548	AD
+T286	OTHER_COMPOUND 29591 29605	[3H]T808[10nM]
+T287	OTHER_COMPOUND 29836 29838	AD
+T288	REACTION_PRODUCT 29936 29956	radioligand [3H]T808
+T289	STARTING_MATERIAL 29983 30060	[3H]-2-[4-(2-Fluoro-ethyl)-piperidin-l-yl]-benzo[4,5]imidazo[l,2-a]pyrimidine
+T290	OTHER_COMPOUND 30112 30116	Τ808
+T291	REACTION_PRODUCT 30126 30197	2-[4-(2-Fluoro-ethyl)-piperidin-l-yl]benzo[4,5]imidazo[l,2-a]pyrimidine
+T292	OTHER_COMPOUND 30224 30232	FujiFilm
+T293	OTHER_COMPOUND 30366 30368	AD
+T294	TEMPERATURE 30432 30438	-17 °C
+T295	TEMPERATURE 30463 30469	-15 °C
+T296	TIME 30598 30605	3 hours
+T297	TEMPERATURE 30609 30625	room temperature
+T298	TEMPERATURE 30653 30659	-20 °C
+T299	OTHER_COMPOUND 30697 30708	radioligand
+T300	OTHER_COMPOUND 30787 30798	Tris buffer
+T301	TEMPERATURE 30810 30826	room temperature
+T302	TIME 30831 30837	30 min
+T303	TEMPERATURE 30866 30870	4 °C
+T304	OTHER_COMPOUND 30880 30884	Tris
+T305	OTHER_COMPOUND 30920 30923	Η2Ο
+T306	TEMPERATURE 30933 30937	4 °C
+T307	TEMPERATURE 30964 30968	4 °C
+T308	TIME 30973 30976	3 h
+T309	OTHER_COMPOUND 31007 31015	FujiFilm
+T310	OTHER_COMPOUND 31026 31029	BAS
+T311	TIME 31071 31080	five days
+T312	OTHER_COMPOUND 31359 31367	[3H]T808
+T313	OTHER_COMPOUND 31512 31522	SB[3H]tso8
+T314	OTHER_COMPOUND 31709 31713	Τ808
+T315	OTHER_COMPOUND 31805 31809	Τ808
+T316	OTHER_COMPOUND 32425 32430	water
+T317	OTHER_COMPOUND 32432 32440	alcohols
+T318	OTHER_COMPOUND 32451 32459	glycerol
+T319	OTHER_COMPOUND 32520 32528	[3H]T808
+T320	REACTION_PRODUCT 32556 32605	N-Methyl-2-phenylimidazo [1,2-a]pyrimidin-7-amine
+T321	OTHER_COMPOUND 32616 32642	CXF 7-(4-Fluoropiperidin-1
+T322	OTHER_COMPOUND 32665 32681	1,2-ajpyrimidine
+T323	REACTION_PRODUCT 32703 32776	7-(4-Fluoropiperidin-1 -yl)-2-(4- methoxyphenyl)imidazo[l ,2-ajpyrimidine
+T324	OTHER_COMPOUND 32780 32782	31
+T325	OTHER_COMPOUND 32794 32835	2-(4-Chlorophenyl)-7-(4-lluoropiperidin-1
+T326	OTHER_COMPOUND 32849 32865	1,2-a]pyrimidine
+T327	OTHER_COMPOUND 32871 32874	-T1
+T328	REACTION_PRODUCT 32879 32955	CX 7-(4-Fluoropiperidin-1 -yl)-2-(3- methoxyphenyl)imidazo[l ,2-ajpyrimidine
+T329	REACTION_PRODUCT 32964 33018	2-(4-Fluorophenyl)-7-(4-lluoropiperidin-1 yl)imidazo [
+T330	OTHER_COMPOUND 33041 33088	2-(l,3-Benzodioxol-5-yl)-7-(4-fluoropiperidin-1
+T331	OTHER_COMPOUND 33201 33211	yl)imidazo
+T332	REACTION_PRODUCT 33253 33339	Ν=/ 4- [4- [7-(4-Fluoropiperidin-1 yl)imidazo [ 1,2-a]pyrimidin-2-yl]phenyl]morpholine
+T333	REACTION_PRODUCT 33355 33430	kx 7-(4-Fluoropiperidin-1 -yl)-2-(3-methylphenyl)imidazo [1,2-a]pyriniidinc
+T334	REACTION_PRODUCT 33441 33512	7-(4-Fluoropiperidin-1 -yl)-2-(4-methylphenyl)imidazo [1,2-a]pyrimidine
+T335	REACTION_PRODUCT 33521 33605	F r\jrf\ \=/ 2-(2-Fluorophenyl)-7-(4-fluoropiperidin-1 yl)imidazo [ 1,2-a]pyrimidine
+T336	REACTION_PRODUCT 33612 33679	HO \=/ 3- [7-(4-Fluoropiperidin-1 yl)imidazo [ 1,2-a]pyrimidin-2-yl
+T337	REACTION_PRODUCT 33691 33757	13 7-(4-Fluoropiperidin-1 -yl)-2-(4-pyrrolidin-l- ylphenyl)imidazo
+T338	REACTION_PRODUCT 33800 33869	7-(4-Fluoropiperidin-1 -yl)-2-[3- (trifluoromethoxy)phenyl]imid azo [
+T339	REACTION_PRODUCT 33893 33894	F
+T340	REACTION_PRODUCT 33895 33968	2- [3 -(Fluoromethoxy)phenyl] 7-pyrrolidin-1 -ylimidazo[ 1,2-ajpyrimidine
+T341	REACTION_PRODUCT 33978 33989	)=/ N^n^n^v
+T342	REACTION_PRODUCT 33996 34053	2- [3 -(2-Fluoroethoxy)phenyl] 7-pyrrolidin-1 -ylimidazo[
+T343	REACTION_PRODUCT 34078 34131	N,N-Dimethyl-2-phenylimidazo [1,2-a]pyrimidin-7-amine
+T344	REACTION_PRODUCT 34149 34240	CIH \=/ 7- [4-(2-Fluoroethyl)piperazin-1-yl]-2-(4-methoxyphenyl)imidazo [ 1,2-a] pyrimidine
+T345	REACTION_PRODUCT 34264 34350	^n^f 7-[4-(2-Fluoroethyl)piperazin-l-yl]-2-(3- methoxyphenyl)imidazo[l ,2-a]pyrimidine
+T346	REACTION_PRODUCT 34368 34435	N-(2-Fluoroethyl)-N-methyl-2-phenylimidazo [1,2-a]pyrimidin-7-amine
+T347	REACTION_PRODUCT 34453 34508	N-(2-Fluoroethyl)-2-(3-methoxyphenyl)-N- methylimidazo[
+T348	REACTION_PRODUCT 34551 34632	1 N-(2-Fluoroethyl)-2-(4-methoxyphenyl)-N- methylimidazo[ 1,2-a]pyrimidin-7-amine
+T349	REACTION_PRODUCT 34642 34727	CIH \A I'T' N 7-[4-(2-Fluoroethyl)piperazin-1 -yl] -2-phenylimidazo [1,2-ajpyrimidine
+T350	REACTION_PRODUCT 34734 34785	4-[2-(4-Methoxyphenyl)imidazo[ 1,2-a]pyrimidin-7-yl
+T351	REACTION_PRODUCT 34808 34870	4-[2-(3-Methylphenyl)imidazo[ 1,2-a]pyrimidin-7-yl] morpholine
+T352	REACTION_PRODUCT 34903 34970	4-[2-(3,4-Dimethoxyphenyl)imidazo[ 1,2 -a]pyrimidin-7-yl]morpholine
+T353	REACTION_PRODUCT 35002 35066	Μ^ 1^y> 4-(7-Pyrrolidin-lylimidazo [1,2- a]pyrimidin-2-yl)phenol
+T354	REACTION_PRODUCT 35073 35074	F
+T355	REACTION_PRODUCT 35078 35097	N''^i\f^N'''\( 2- [
+T356	REACTION_PRODUCT 35097 35166	4-(2-Fluoroethoxy)phenyl] 7-pyrrolidin-1 -ylimidazo[ 1,2-a]pyrimidine
+T357	REACTION_PRODUCT 35170 35172	29
+T358	REACTION_PRODUCT 35173 35181	o-A-hTi^
+T359	REACTION_PRODUCT 35182 35254	2- [4-(Fluoromethoxy)phenyl] 7-pyrrolidin-1 -ylimidazo[ 1,2-a]pyrimidine
+T360	REACTION_PRODUCT 35264 35273	w/ n^nAn^
+T361	REACTION_PRODUCT 35274 35346	0- 7-[(3R)-3-Methoxypyrrolidin-1 -yl] -2-phenylimidazo [1,2-a]pyrimidine
+T362	REACTION_PRODUCT 35349 35351	31
+T363	REACTION_PRODUCT 35352 35427	o- 7 - [(3S)-3 -Methoxypyrrolidin-1 -yl] -2-phenylimidazo [1,2-a]pyrimidine
+T364	REACTION_PRODUCT 35441 35521	F 7-[(3R)-3-Fluoropyrrolidin-l-yl]-2-(4- methoxyphenyl)imidazo[l ,2-ajpyrimidine
+T365	OTHER_COMPOUND 35528 35532	o-fl
+T366	REACTION_PRODUCT 35535 35618	F 7 - [(3S)-3 -Fluoropyrrolidin-1 yl]-2-(4- methoxyphenyl)imidazo[l ,2-ajpyrimidine
+T367	REACTION_PRODUCT 35627 35694	Ζ \ 2-(3-Methoxyphenyl)-N,Ndimethylimidazo [1,2-a]pyrimidin-7-amine
+T368	OTHER_COMPOUND 35701 35702	o
+T369	OTHER_COMPOUND 35782 35785	\=/
+T370	OTHER_COMPOUND 35890 35947	2-(2,3-Dihydro-1,4-benzodioxin-6-yl)-N,N- dimethylimidazo
+T371	OTHER_COMPOUND 35997 36036	N,N-Dimethyl-2-(4-methylphenyl)imidazo[
+T372	REACTION_PRODUCT 36072 36111	N,N-Dimethyl-2-(3-methylphenyl)imidazo[
+T373	REACTION_PRODUCT 36151 36218	£ i 4-[2-(3-Methoxyphenyl)imidazo[ 1,2-a]pyrimidin-7-yl] morpholine
+T374	REACTION_PRODUCT 36229 36287	ΐ^Ν^Ν^ 4-[2-(4-Methylphenyl)imidazo[ 1,2-a]pyrimidin-7-yl]
+T375	REACTION_PRODUCT 36318 36364	2-(4-Methoxyphenyl)-7-pyrrolidin-1 -ylimidazo[
+T376	REACTION_PRODUCT 36388 36450	2-(4-Methylphenyl)-7-pyrrolidin-1 -ylimidazo[ 1,2-a]pyrimidine
+T377	REACTION_PRODUCT 36468 36474	fjL J[
+T378	OTHER_COMPOUND 36477 36528	N,N-Dimethyl-2-(4-morpholin-4-ylphenyl)imidazo[l,2-
+T379	REACTION_PRODUCT 36557 36569	^=7 V^lsT^M^
+T380	REACTION_PRODUCT 36576 36645	4-(Dimethylamino)phenyl] N,N-dimethylimidazo[l,2- a]pyrimidin-7-amine
+T381	OTHER_COMPOUND 36661 36707	2-(3-Methoxyphenyl)-7-pyrrolidin-1 -ylimidazo[
+T382	OTHER_COMPOUND 36733 36734	\
+T383	REACTION_PRODUCT 36828 36872	2-(4-Methoxyphenyl)-7-piperidin-1 -ylimidazo
+T384	REACTION_PRODUCT 36902 36948	i 2-(3-Methoxyphenyl)-7-piperidin-1 -ylimidazo
+T385	OTHER_COMPOUND 36973 37016	2-(4-Methylphenyl)-7-piperidin-1 -ylimidazo
+T386	REACTION_PRODUCT 37055 37116	2-(3-Methylphenyl)-7-piperidin-1 -ylimidazo [1,2-a]pyrimidinc
+T387	REACTION_PRODUCT 37143 37191	2-(3,4-Dimethoxyphenyl)-7-piperidin-1 -ylimidazo
+T388	REACTION_PRODUCT 37215 37294	Α^Λ ^Ou 7-[4-(2-Fluoroethyl)piperidin-1 -yl] -2-phenylimidazo [1,2-a]pyrimidinc
+T389	REACTION_PRODUCT 37350 37389	methoxyphenyl)imidazo[l ,2-a]pyrimidinc
+T390	REACTION_PRODUCT 37400 37485	CuF 7-[4-(2-Fluoroethyl)piperidin-l-yl]-2-(4- methoxyphenyl)imidazo[l ,2-a]pyrimidinc
+T391	REACTION_PRODUCT 37498 37558	2-(1,3-Benzodioxol-5-yl)-7-[4-(2-fluoroethyl)piperidin-1 yl]
+T392	REACTION_PRODUCT 37603 37685	2-(2,3-Dihydro-1,4-benzodioxin-6-yl)-7 - [4-(2-fluoroethyl)piperidin-1 yl] imidazo
+T393	OTHER_COMPOUND 37688 37704	1,2-a]pyrimidine
+T394	REACTION_PRODUCT 37724 37802	4-(2-Fluoroethyl)piperidin-l-yl]-2-(3- methylphenyl)imidazo[ 1,2-a]pyriniidinc
+T395	OTHER_COMPOUND 37816 37857	7-[4-(2-Fluoroethyl)piperidin-l-yl]-2-(4-
+T396	REACTION_PRODUCT 37928 37995	4-[4-[7-[4-(2-Fluoroethyl)piperidin-1 yl]imidazo[l,2-a]pyrimidin-2-
+T397	OTHER_COMPOUND 38029 38064	N-Methyl-2-(3-methylphenyl)imidazo[
+T398	REACTION_PRODUCT 38095 38163	7-(4-Fluoropiperidin-1 -yl)-2-thiophen-3-ylimidazo[ 1,2-a]pyrimidine
+T399	REACTION_PRODUCT 38170 38178	v-TV-Ofi
+T400	REACTION_PRODUCT 38183 38196	Nr''NT'Nx~v''
+T401	OTHER_COMPOUND 38201 38290	N-[2-(2-Fluoroethoxy)ethyl]-2-(4-methoxyphenyl)-N- methylimidazo[ 1,2-a]pyrimidin-7-amine
+T402	REACTION_PRODUCT 38317 38381	[3.3 ]heptan-2-yl)-2-(4- methoxyphenyl)imidazo[l ,2-a]pyrimidine
+T403	OTHER_COMPOUND 38388 38435	N-Ethyl-2-(4-methoxyphenyl)N-methylimidazo[l,2-
+T404	REACTION_PRODUCT 38462 38527	C N,N-Diethyl-2-(4-methoxyphenyl)imidazo[l ,2-a]pyrimidin-7-amine
+T405	REACTION_PRODUCT 38643 38645	68
+T406	REACTION_PRODUCT 38646 38649	N=/
+T407	REACTION_PRODUCT 38650 38712	7-(Azetidin-l-yl)-2-(4-methoxyphenyl)imidazo[l ,2-a]pyrimidine
+T408	OTHER_COMPOUND 38818 38859	7-(3-Fluoroazetidin-l-yl)-2-phenylimidazo
+T409	REACTION_PRODUCT 38896 38965	7-(3-Fluoroazetidin-l-yl)-2-(3-methylphenyl)imidazo[ 1,2-ajpyrimidine
+T410	REACTION_PRODUCT 38972 39035	αχ≈ο^ 2-(l-Benzofuran-2-yl)-7-(4-fluoropiperidin-1 yl)imidazo [
+T411	REACTION_PRODUCT 39036 39052	1,2-a]pyrimidine
+T412	OTHER_COMPOUND 39059 39060	/
+T413	REACTION_PRODUCT 39061 39129	~\=/ ' N,N-Dimethyl-4-(7-morpholin-4-ylimidazo[l ,2-a]pyrimidin-2-yl
+T414	OTHER_COMPOUND 39139 39141	16
+T415	REACTION_PRODUCT 39145 39205	2-( 1 -Benzothiophen-2-yl)-7-(4-fluoropiperidin-1 yl)imidazo
+T416	OTHER_COMPOUND 39208 39224	1,2-a]pyrimidine
+T417	OTHER_COMPOUND 39231 39234	vfy
+T418	REACTION_PRODUCT 39255 39320	N-Cyclopropyl-2-(4-methoxyphenyl)imidazo[l ,2-a]pyrimidin-7-amine
+T419	OTHER_COMPOUND 39337 39376	N-Isopropyl-2-(4-methoxyphenyl)-imidazo
+T420	REACTION_PRODUCT 39528 39588	2- [7-(4-Fluoropiperidin-1 yl)imidazo [ 1,2-a]pyrimidin-2-yl
+T421	OTHER_COMPOUND 39626 39675	4-[7-(Azetidin-lyl)imidazo [ 1,2-a]pyrimidin-2-yl
+T422	OTHER_COMPOUND 39783 39786	\=/
+T423	OTHER_COMPOUND 39870 39929	2-(4-Methoxyphenyl)-Nmethylimidazo[ 1,2-a]pyrimidin-7-amine
+T424	OTHER_COMPOUND 40021 40056	N,N-Dimethyl-2-thiophen-3-ylimidazo
+T425	OTHER_COMPOUND 40092 40169	N-(2-Fluoroethyl)-N-methyl-2-(4-methylphenyl)imidazo [1,2-a]pyrimidin-7-amine
+T426	REACTION_PRODUCT 40188 40247	2-(l,3-Benzodioxol-5-yl)-N(2-fluoroethyl)-N- methylimidazo[
+T427	REACTION_PRODUCT 40293 40370	N-(2-Fluoroethyl)-N-methyl-2-(3-methylphenyl)imidazo [1,2-a]pyrimidin-7-amine
+T428	REACTION_PRODUCT 40383 40437	2-(4-Methoxyphenyl)-7-(3-methylazetidin-1 yl)imidazo [
+T429	REACTION_PRODUCT 40576 40578	4-
+T430	REACTION_PRODUCT 40580 40613	7-(4-Fluoropiperidin-1 yl)imidazo
+T431	REACTION_PRODUCT 40701 40736	N-(2-fluoroethyl)-N- methylimidazo[
+T432	REACTION_PRODUCT 40771 40822	N-Cyclopropyl-2-(4-methoxyphenyl)-N- methylimidazo[
+T433	OTHER_COMPOUND 40865 40909	7-(Azetidin-l-yl)-2-(4-methylphenyl)imidazo[
+T434	OTHER_COMPOUND 40943 41004	7-(Azetidin-l-yl)-2-(3-methylphenyl)imidazo[ 1,2-a]pyrimidine
+T435	REACTION_PRODUCT 41035 41037	2-
+T436	REACTION_PRODUCT 41039 41113	4-(Dimethylamino)phenyl] N-(2-fluoroethyl)imidazo [1,2-a]pyrimidin-7-amine
+T437	REACTION_PRODUCT 41120 41168	7-( Azetidin-1 -yl)-2- [4-(fluoromethoxy)phenyl]
+T438	OTHER_COMPOUND 41323 41356	2-(3-Bromophenyl)-Nmethylimidazo[
+T439	OTHER_COMPOUND 41417 41485	7-(4-fluoropiperidin-l-yl)-2-(4-methoxy-2,6- ditritiophenyl)imidazo[
+T440	REACTION_PRODUCT 41526 41540	7-( Azetidin-1
+T441	REACTION_PRODUCT 41549 41603	[4-(tritritiomethoxy)phenyl)imida zo[l ,2-a]pyrimidine
+T442	OTHER_COMPOUND 41644 41714	2-(3-Methylphenyl)-N(tritritiomethyl)imidazo[l ,2-a]pyrimidine-7-amine
+T443	REACTION_PRODUCT 41763 41819	N-[nC]Methyl-2-(mtolyl)imidazo [ 1,2-a]pyrimidin-7-amine
+T444	REACTION_PRODUCT 41839 41912	N-Cyclopropyl-2-(4-[11C] methoxyphenyl)imidazo [ 1 ,2-a]pyrimidin-7-amine
+T445	REACTION_PRODUCT 41917 41926	^o-Q-CCX'
+T446	REACTION_PRODUCT 41929 41942	2-[4-(2-[ 18F
+T447	REACTION_PRODUCT 41944 41987	Fluoroethoxy)phenyl] -Ν-methyl-imidazo[l,2-
+T448	OTHER_COMPOUND 42018 42074	7-(4-Fluoropiperidin-1 -yl)-2-(pyrazin-2-yl)imidazo[l,2-
+T449	REACTION_PRODUCT 42127 42191	4-[7-(Methylamino)imidazo[ 1,2-a]pyrimidin-2- yl]phenyl]methanol
+T450	REACTION_PRODUCT 42212 42258	2-(3-Fluoro-4-methoxyphenyl)-N- methylimidazo[
+T451	REACTION_PRODUCT 42294 42354	Η Ν-(4-(7-(Methylamino)imidazo[ 1,2-a]pyrimidin-2- yl)phenyl
+T452	OTHER_COMPOUND 42407 42433	5-(7-(methylamino)imidazo[
+T453	REACTION_PRODUCT 42578 42650	7-(Azetidin-l-yl)-2-(4-(3-fluoropropoxy)phenyl)imidazo [l,2-a]pyrimidine
+T454	REACTION_PRODUCT 42672 42734	7-(azetidin-l-yl)-2-(3-methoxyphenyl)imidazo[l ,2-a]pyrimidine
+T455	REACTION_PRODUCT 42752 42816	3-[7-(Methylamino)imidazo[ 1,2-a]pyrimidin-2- yl]phenyl]methanol
+T456	REACTION_PRODUCT 42824 42897	7-(Azetidin-l-yl)-2-(3-(2-fluoroethoxy)phenyl)imidazo [ 1 ,2-a]pyrimidine
+T457	REACTION_PRODUCT 42906 42990	N-Cyclopropyl-N-(2-fluoroethyl)-2-(4- methoxyphenyl)imidazo[l ,2-a]pyrimidin-7-amine
+T458	OTHER_COMPOUND 42999 43058	2-(3-Methoxyphenyl)-Nmethylimidazo[ 1,2-a]pyrimidin-7-amine
+T459	OTHER_COMPOUND 43066 43117	7-(Azetidin-l-yl)-2-(3-(fluoromethoxy)phenyl)imidaz
+T460	OTHER_COMPOUND 43144 43153	f-q-cix,^
+T461	OTHER_COMPOUND 43154 43215	7-(Azetidin-l-yl)-2-(4-fluorophenyl)imidazo[ 1,2-a]pyrimidine
+T462	REACTION_PRODUCT 43219 43222	119
+T463	REACTION_PRODUCT 43225 43269	7-(Azetidin-l-yl)-2-(3-fluorophenyl)imidazo[
+T464	OTHER_COMPOUND 43301 43350	7-(Azetidin-l-yl)-2-(3,5-dimethoxyphenyl)imidazo[
+T465	OTHER_COMPOUND 43375 43380	O-CaX
+T466	OTHER_COMPOUND 43384 43438	4-(7-(Methylamino)imidazo[ 1,2-a]pyrimidin-2-yl)phenol
+T467	REACTION_PRODUCT 43474 43546	F \ 2-(4-(2-Fluoroethoxy)phenyl)N-methylimidazo[l,2- a]pyrimidin-7-amine
+T468	REACTION_PRODUCT 43560 43631	2-(4-(3-Fluoropropoxy)phenyl)-N- methylimidazo[ 1,2-a]pyrimidin-7-amine
+T469	OTHER_COMPOUND 43639 43641	OH
+T470	OTHER_COMPOUND 43642 43643	Η
+T471	REACTION_PRODUCT 43644 43698	3-(7-(Methylamino)imidazo[ 1,2-a]pyrimidin-2-yl)phenol
+T472	REACTION_PRODUCT 43710 43760	7-(Azetidin-l-yl)-2-(3-(methylthio)phenyl)imidazo[
+T473	OTHER_COMPOUND 43764 43778	2-a]pyrimidine
+T474	REACTION_PRODUCT 43790 43846	7-(Azetidin-l -yl)-2-(3-methoxy-4- methylphenyl)imidazo[
+T475	REACTION_PRODUCT 43882 43948	7-(Azetidin-l-yl)-2-(3,4-dimethoxyphenyl)imidazo[ 1,2-ajpyrimidine
+T476	OTHER_COMPOUND 43960 43961	O
+T477	OTHER_COMPOUND 43982 44030	2-(3-(2-Fluoroethoxy)phenyl)N-methylimidazo[l,2-
+T478	REACTION_PRODUCT 44064 44111	2-(3-(3-Fluoropropoxy)phenyl)-N- methylimidazo[
+T479	REACTION_PRODUCT 44151 44221	2-(3 - (Fluoromethoxy)phenyl) N-methylimidazo[l,2- a]pyrimidin-7-amine
+T480	OTHER_COMPOUND 44231 44232	\
+T481	REACTION_PRODUCT 44242 44250	ν-^ν^ν-Η
+T482	REACTION_PRODUCT 44251 44278	2-(4- (Fluoromethoxy)phenyl
+T483	REACTION_PRODUCT 44280 44300	N-methylimidazo[l,2-
+T484	REACTION_PRODUCT 44333 44368	3-(7-(Cyclopropylamino)imidazo [ 1,
+T485	REACTION_PRODUCT 44402 44457	Η N-Cyclopropyl-2-(3-(2-fluoroethoxy)phenyl)imidazo [ 1
+T486	REACTION_PRODUCT 44494 44495	^
+T487	REACTION_PRODUCT 44496 44504	W=W-n^ \
+T488	REACTION_PRODUCT 44506 44553	4-[7-(Dimethylamino)imidazo[ 1,2-a]pyrimidin-2-
+T489	REACTION_PRODUCT 44582 44645	Methyl 4-[7-(methylamino)imidazo[ 1,2-a]pyrimidin-2-yl]benzoate
+T490	OTHER_COMPOUND 44661 44708	N-Cyclopropyl-2-(3-(fluoromethoxy)phenyl)imidaz
+T491	OTHER_COMPOUND 44712 44735	1,2-a]pyrimidin-7-amine
+T492	OTHER_COMPOUND 44747 44798	N-Cyclopropyl-2-(4-(2-fluoroethoxy)phenyl)imidazo [
+T493	REACTION_PRODUCT 44846 44905	N-Cyclopropyl-2-(4-(3-fluoropropoxy)phenyl)imidazo [ 1,2- a
+T494	REACTION_PRODUCT 44937 44984	N-Cyclopropyl-2-(4-(fluoromethoxy)phenyl)imidaz
+T495	OTHER_COMPOUND 44988 45011	1,2-a]pyrimidin-7-amine
+T496	OTHER_COMPOUND 45021 45064	N-methyl-2-(4-(methylthio)phenyl)imidazo[ 1
+T497	OTHER_COMPOUND 45088 45090	34
+T498	OTHER_COMPOUND 45099 45100	Η
+T499	OTHER_COMPOUND 45101 45140	2-(3,4-dimethoxyphenyl)-Nmethylimidazo[
+T500	OTHER_COMPOUND 45174 45175	0
+T501	REACTION_PRODUCT 45178 45224	2-(3-Methoxy-4-methylphenyl)-N- methylimidazo[
+T502	OTHER_COMPOUND 45264 45303	2-(3,5-dimethoxyphenyl)-Nmethylimidazo[
+T503	STARTING_MATERIAL 45359 45384	4-chloropyrimidin-2-amine
+T504	SOLVENT 45408 45432	N-methyl-2-pyrrolidinone
+T505	OTHER_COMPOUND 45475 45483	nitrogen
+T506	REAGENT_CATALYST 45484 45509	methanamine hydrochloride
+T507	REAGENT_CATALYST 45534 45553	potassium carbonate
+T508	TEMPERATURE 45611 45617	120 °C
+T509	TIME 45622 45625	2 h
+T510	OTHER_COMPOUND 45744 45760	silica gel amine
+T511	OTHER_COMPOUND 45773 45788	dichloromethane
+T512	OTHER_COMPOUND 45789 45797	methanol
+T513	OTHER_COMPOUND 45798 45805	ammonia
+T514	TEMPERATURE 45861 45865	tert
+T515	OTHER_COMPOUND 45867 45884	butyl methylether
+T516	TIME 45897 45903	15 min
+T517	REACTION_PRODUCT 45917 45931	title compound
+T518	TIME 45961 45964	4 h
+T519	YIELD_OTHER 45988 45994	0.76 g
+T520	YIELD_PERCENT 45996 46000	40 %
+T521	STARTING_MATERIAL 46032 46081	N-Methvl-2-phenvlimidazo|T,2-alpvrimidin-7-amineA
+T522	STARTING_MATERIAL 46103 46134	Ν4-methylpyrimidine-2,4-diamine
+T523	STARTING_MATERIAL 46158 46182	2-bromo-l-phenylethanone
+T524	SOLVENT 46206 46213	acetone
+T525	TEMPERATURE 46239 46244	65 °C
+T526	OTHER_COMPOUND 46310 46315	water
+T527	OTHER_COMPOUND 46328 46335	acetone
+T528	OTHER_COMPOUND 46386 46391	water
+T529	REAGENT_CATALYST 46403 46420	ammoniumhydroxide
+T530	TIME 46468 46474	10 min
+T531	TEMPERATURE 46478 46494	room temperature
+T532	OTHER_COMPOUND 46527 46532	water
+T533	TIME 46571 46572	4
+T534	REACTION_PRODUCT 46579 46593	title compound
+T535	YIELD_OTHER 46614 46619	41 mg
+T536	YIELD_PERCENT 46621 46625	45 %
+T537	STARTING_MATERIAL 46641 46673	4-fluoropiperidine hydrochloride
+T538	STARTING_MATERIAL 46694 46719	4-chloropyrimidin-2-amine
+T539	REAGENT_CATALYST 46744 46763	potassium carbonate
+T540	SOLVENT 46786 46810	N-methyl-2-pyrrolidinone
+T541	OTHER_COMPOUND 46839 46844	argon
+T542	TIME 46849 46852	2 h
+T543	TEMPERATURE 46856 46862	120 °C
+T544	TEMPERATURE 46899 46915	room temperature
+T545	OTHER_COMPOUND 46933 46937	NaOH
+T546	OTHER_COMPOUND 46981 46994	ethyl acetate
+T547	OTHER_COMPOUND 47032 47037	brine
+T548	OTHER_COMPOUND 47060 47066	Na2SC>
+T549	YIELD_OTHER 47121 47127	8.33 g
+T550	OTHER_COMPOUND 47188 47192	tert
+T551	OTHER_COMPOUND 47194 47211	butyl methylether
+T552	TIME 47237 47243	30 min
+T553	YIELD_OTHER 47316 47322	6.38 g
+T554	YIELD_PERCENT 47324 47328	83 %
+T555	OTHER_COMPOUND 47348 47372	N-methyl-2-pyrrolidinone
+T556	EXAMPLE_LABEL 47427 47428	2
+T557	REACTION_PRODUCT 47430 47504	7-(4-Fluoropiperidin-l-vl)-2-phenvl-2.3-dihvdroimidazorL2-alpvrimidin-2-ol
+T558	STARTING_MATERIAL 47529 47572	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T559	STARTING_MATERIAL 47596 47620	2-bromo-l-phenylethanone
+T560	SOLVENT 47644 47651	acetone
+T561	OTHER_COMPOUND 47669 47674	argon
+T562	TEMPERATURE 47678 47682	65°C
+T563	STARTING_MATERIAL 47695 47756	2 7-(4-Fluoropiperidin-l-yl)-2-phenylimidazo[l,2-a]pyrimidine
+T564	TIME 47769 47772	6 h
+T565	OTHER_COMPOUND 47860 47867	acetone
+T566	OTHER_COMPOUND 47876 47893	Ammoniumhydroxide
+T567	OTHER_COMPOUND 47912 47917	water
+T568	OTHER_COMPOUND 47983 47988	glass
+T569	OTHER_COMPOUND 48017 48020	Η2Ο
+T570	REACTION_PRODUCT 48026 48033	product
+T571	TIME 48079 48082	3 h
+T572	YIELD_OTHER 48099 48104	78 mg
+T573	YIELD_PERCENT 48106 48110	58 %
+T574	REACTION_PRODUCT 48145 48205	7-(4-Fluoropiperidin-l-vl)-2-phenv1imidazori .2-alpvrimidine
+T575	STARTING_MATERIAL 48236 48311	7-(4-fluoropiperidin-l-yl)-2-phenyl-2,3-dihydroimidazo[l,2-a]pyrimidin-2-ol
+T576	SOLVENT 48334 48341	toluene
+T577	REAGENT_CATALYST 48361 48383	p-toluenesulfonic acid
+T578	OTHER_COMPOUND 48459 48464	argon
+T579	TEMPERATURE 48479 48485	125 °C
+T580	TIME 48490 48493	1 h
+T581	OTHER_COMPOUND 48547 48552	water
+T582	OTHER_COMPOUND 48557 48574	ammoniumhydroxide
+T583	OTHER_COMPOUND 48638 48649	glass fiber
+T584	REACTION_PRODUCT 48664 48671	product
+T585	TIME 48717 48720	3 h
+T586	YIELD_OTHER 48741 48746	56 mg
+T587	YIELD_PERCENT 48748 48751	16%
+T588	REACTION_PRODUCT 48758 48765	product
+T589	STARTING_MATERIAL 48793 48836	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T590	STARTING_MATERIAL 48879 48914	2-bromo-l-(4-methoxyphenyl)ethanone
+T591	YIELD_OTHER 49010 49015	80 mg
+T592	YIELD_PERCENT 49017 49021	57 %
+T593	REACTION_PRODUCT 49028 49035	product
+T594	STARTING_MATERIAL 49063 49106	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T595	STARTING_MATERIAL 49149 49183	2-bromo-l-(4-chlorophenyl)ethanone
+T596	YIELD_OTHER 49279 49284	80 mg
+T597	YIELD_PERCENT 49286 49290	56 %
+T598	REACTION_PRODUCT 49320 49327	product
+T599	STARTING_MATERIAL 49355 49398	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T600	STARTING_MATERIAL 49441 49476	2-bromo-l-(3-methoxyphenyl)ethanone
+T601	OTHER_COMPOUND 49606 49616	silica gel
+T602	OTHER_COMPOUND 49636 49643	heptane
+T603	OTHER_COMPOUND 49644 49657	ethyl acetate
+T604	YIELD_OTHER 49684 49689	76 mg
+T605	YIELD_PERCENT 49691 49695	51 %
+T606	STARTING_MATERIAL 49759 49802	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T607	STARTING_MATERIAL 49845 49879	2-bromo-l-(4-fluorophenyl)ethanone
+T608	SOLVENT 49903 49910	acetone
+T609	TEMPERATURE 49945 49950	70 °C
+T610	TIME 49955 49959	20 h
+T611	OTHER_COMPOUND 50011 50018	acetone
+T612	OTHER_COMPOUND 50071 50089	ammonium hydroxide
+T613	OTHER_COMPOUND 50106 50111	water
+T614	OTHER_COMPOUND 50179 50184	water
+T615	REACTION_PRODUCT 50229 50243	title compound
+T616	YIELD_OTHER 50280 50285	51 mg
+T617	YIELD_PERCENT 50287 50291	35 %
+T618	STARTING_MATERIAL 50356 50399	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T619	STARTING_MATERIAL 50442 50486	l-(benzo[d][l,3]dioxol-5-yl)-2-bromoethanone
+T620	YIELD_OTHER 50577 50583	129 mg
+T621	YIELD_PERCENT 50585 50589	79 %
+T622	REACTION_PRODUCT 50620 50627	product
+T623	STARTING_MATERIAL 50655 50698	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T624	STARTING_MATERIAL 50741 50796	2-bromo-l-(2,3-dihydrobenzo[b][l,4]dioxin-6-yl)ethanone
+T625	YIELD_OTHER 50887 50893	132 mg
+T626	YIELD_PERCENT 50895 50899	76 %
+T627	REACTION_PRODUCT 50929 50936	product
+T628	STARTING_MATERIAL 50964 51007	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T629	STARTING_MATERIAL 51050 51088	2-bromo-l-(4-morpholinophenyl)ethanone
+T630	YIELD_OTHER 51179 51184	58 mg
+T631	YIELD_PERCENT 51186 51190	32 %
+T632	REACTION_PRODUCT 51220 51227	product
+T633	STARTING_MATERIAL 51255 51298	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T634	STARTING_MATERIAL 51341 51366	2-bromo-l-m-tolylethanone
+T635	YIELD_OTHER 51465 51471	100 mg
+T636	YIELD_PERCENT 51473 51477	70 %
+T637	REACTION_PRODUCT 51507 51514	product
+T638	STARTING_MATERIAL 51542 51585	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T639	STARTING_MATERIAL 51628 51653	2-bromo-l-p-tolylethanone
+T640	YIELD_OTHER 51752 51758	107 mg
+T641	YIELD_PERCENT 51760 51764	75 %
+T642	REACTION_PRODUCT 51771 51778	product
+T643	STARTING_MATERIAL 51806 51849	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T644	STARTING_MATERIAL 51893 51927	2-bromo-l-(2-fluorophenyl)ethanone
+T645	YIELD_OTHER 52018 52023	36 mg
+T646	YIELD_PERCENT 52025 52029	22 %
+T647	STARTING_MATERIAL 52097 52140	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T648	STARTING_MATERIAL 52183 52218	2-bromo-l-(3-hydroxyphenyl)ethanone
+T649	SOLVENT 52314 52321	toluene
+T650	REAGENT_CATALYST 52335 52357	p-toluenesulfonic acid
+T651	TEMPERATURE 52427 52433	100 °C
+T652	TIME 52438 52441	2 h
+T653	OTHER_COMPOUND 52493 52500	acetone
+T654	OTHER_COMPOUND 52505 52510	water
+T655	OTHER_COMPOUND 52511 52529	ammonium hydroxide
+T656	REACTION_PRODUCT 52557 52564	product
+T657	YIELD_OTHER 52585 52590	67 mg
+T658	YIELD_PERCENT 52592 52596	43 %
+T659	STARTING_MATERIAL 52687 52730	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T660	STARTING_MATERIAL 52770 52814	2-bromo-l-(4-(pyrrolidin-lyl)phenyl)ethanone
+T661	REAGENT_CATALYST 52839 52861	p-toluenesulfonic acid
+T662	SOLVENT 52972 52979	toluene
+T663	REAGENT_CATALYST 52993 53015	p-toluenesulfonic acid
+T664	TEMPERATURE 53084 53090	100 °C
+T665	TIME 53095 53098	2 h
+T666	OTHER_COMPOUND 53150 53157	acetone
+T667	OTHER_COMPOUND 53162 53167	water
+T668	OTHER_COMPOUND 53168 53186	ammonium hydroxide
+T669	REACTION_PRODUCT 53214 53227	crude product
+T670	OTHER_COMPOUND 53304 53314	silica gel
+T671	OTHER_COMPOUND 53321 53336	dichloromethane
+T672	OTHER_COMPOUND 53337 53345	methanol
+T673	YIELD_OTHER 53379 53384	64 mg
+T674	YIELD_PERCENT 53386 53390	36 %
+T675	REACTION_PRODUCT 53420 53427	product
+T676	STARTING_MATERIAL 53455 53498	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T677	STARTING_MATERIAL 53541 53587	2-bromo-l-(3-(trifluoromethoxy)phenyl)ethanone
+T678	OTHER_COMPOUND 53709 53719	silica gel
+T679	OTHER_COMPOUND 53726 53741	dichloromethane
+T680	OTHER_COMPOUND 53742 53750	methanol
+T681	YIELD_OTHER 53783 53788	81 mg
+T682	YIELD_PERCENT 53790 53794	42 %
+T683	STARTING_MATERIAL 53849 53874	4-chloropyrimidin-2-amine
+T684	STARTING_MATERIAL 53896 53907	pyrrolidine
+T685	REAGENT_CATALYST 53941 53960	potassium carbonate
+T686	SOLVENT 53984 54008	N-methyl-2-pyrrolidinone
+T687	OTHER_COMPOUND 54037 54042	argon
+T688	TEMPERATURE 54046 54052	120 °C
+T689	TIME 54057 54060	2 h
+T690	TEMPERATURE 54068 54084	room temperature
+T691	TEMPERATURE 54131 54147	room temperature
+T692	OTHER_COMPOUND 54168 54172	NaOH
+T693	OTHER_COMPOUND 54233 54246	ethyl acetate
+T694	OTHER_COMPOUND 54304 54309	water
+T695	OTHER_COMPOUND 54354 54359	water
+T696	OTHER_COMPOUND 54377 54392	dichloromethane
+T697	YIELD_OTHER 54413 54418	3.1 g
+T698	REACTION_PRODUCT 54419 54426	product
+T699	OTHER_COMPOUND 54492 54497	MgSCL
+T700	OTHER_COMPOUND 54589 54604	dichloromethane
+T701	YIELD_OTHER 54625 54630	1.1 g
+T702	REACTION_PRODUCT 54631 54638	product
+T703	OTHER_COMPOUND 54692 54707	dichloromethane
+T704	OTHER_COMPOUND 54733 54738	MgSCL
+T705	OTHER_COMPOUND 54830 54845	dichloromethane
+T706	YIELD_OTHER 54864 54870	0.52 g
+T707	REACTION_PRODUCT 54871 54878	product
+T708	OTHER_COMPOUND 54899 54914	dichloromethane
+T709	OTHER_COMPOUND 55020 55030	silica gel
+T710	OTHER_COMPOUND 55037 55052	dichloromethane
+T711	OTHER_COMPOUND 55053 55061	methanol
+T712	OTHER_COMPOUND 55062 55069	ammonia
+T713	YIELD_OTHER 55097 55103	0.46 g
+T714	YIELD_OTHER 55138 55144	5.18 g
+T715	YIELD_PERCENT 55146 55152	89.7 %
+T716	EXAMPLE_LABEL 55221 55222	2
+T717	REACTION_PRODUCT 55224 55280	3-(7-(Pvrrolidin-l-vl)imidazorL2-alpyrimidin-2-vl)phenol
+T718	REACTION_PRODUCT 55285 55292	product
+T719	STARTING_MATERIAL 55320 55356	4-(pyrrolidin-l-yl)pyrimidin-2-amine
+T720	STARTING_MATERIAL 55381 55416	2-bromo-l-(3-hydroxyphenyl)ethanone
+T721	YIELD_OTHER 55515 55521	460 mg
+T722	YIELD_PERCENT 55523 55527	90 %
+T723	STARTING_MATERIAL 55562 55631	2-r3-(Fluoromethoxv)phenvll-7-pvrrolidin-l-vlimidazori,2-alpyrimidine
+T724	STARTING_MATERIAL 55662 55719	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T725	STARTING_MATERIAL 55744 55781	fluoromethyl 4-methylbenzenesulfonate
+T726	SOLVENT 55806 55809	DMF
+T727	OTHER_COMPOUND 55836 55841	argon
+T728	REAGENT_CATALYST 55842 55858	cesium carbonate
+T729	TEMPERATURE 55915 55919	70°C
+T730	TIME 55936 55940	16 h
+T731	OTHER_COMPOUND 55981 55986	water
+T732	OTHER_COMPOUND 56013 56026	ethyl acetate
+T733	OTHER_COMPOUND 56083 56088	brine
+T734	OTHER_COMPOUND 56101 56106	MgSCL
+T735	OTHER_COMPOUND 56208 56218	silica gel
+T736	OTHER_COMPOUND 56225 56240	dichloromethane
+T737	OTHER_COMPOUND 56241 56249	methanol
+T738	OTHER_COMPOUND 56250 56257	ammonia
+T739	YIELD_OTHER 56291 56296	52 mg
+T740	YIELD_PERCENT 56298 56302	46 %
+T741	REACTION_PRODUCT 56344 56346	F-
+T742	REACTION_PRODUCT 56351 56358	product
+T743	STARTING_MATERIAL 56386 56443	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T744	STARTING_MATERIAL 56488 56510	l-bromo-2-fluoroethane
+T745	YIELD_OTHER 56611 56616	57 mg
+T746	YIELD_PERCENT 56618 56622	49 %
+T747	REACTION_PRODUCT 56652 56659	product
+T748	STARTING_MATERIAL 56682 56707	4-chloropyrimidin-2-amine
+T749	REAGENT_CATALYST 56732 56759	dimethylamine hydrochloride
+T750	REAGENT_CATALYST 56784 56803	potassium carbonate
+T751	YIELD_OTHER 56895 56901	1.48 g
+T752	YIELD_PERCENT 56903 56907	43 %
+T753	EXAMPLE_LABEL 56915 56916	2
+T754	REACTION_PRODUCT 56918 56970	N-N-Dimethvl-2-phenv1imidazori.2-alpvrimidin-7-amine
+T755	REACTION_PRODUCT 56975 56982	product
+T756	STARTING_MATERIAL 57010 57046	N4,N4-dimethylpyrimidine-2,4-diamine
+T757	STARTING_MATERIAL 57070 57094	2-bromo-l-phenylethanone
+T758	YIELD_OTHER 57192 57197	97 mg
+T759	YIELD_PERCENT 57199 57203	56 %
+T760	REACTION_PRODUCT 57237 57290	4-(4-(2-Fluoroethvl)piperazin-1 -vllpvrimidin-2-amine
+T761	REACTION_PRODUCT 57295 57302	product
+T762	STARTING_MATERIAL 57330 57371	1-(2-fluoroethyl)piperazine hydrochloride
+T763	STARTING_MATERIAL 57393 57418	4-chloropyrimidin-2-amine
+T764	REAGENT_CATALYST 57443 57462	potassium carbonate
+T765	SOLVENT 57486 57510	N-methyl-2-pyrrolidinone
+T766	YIELD_OTHER 57621 57627	642 mg
+T767	YIELD_PERCENT 57629 57633	79 %
+T768	REACTION_PRODUCT 57669 57721	N,N-Dimethyl-2-phenylimidazo[l,2-a]pyrimidin-7-amine
+T769	REACTION_PRODUCT 57733 57813	7-[4-(2-Fluoroethyl)piperazin-l-yl]-2-(4-methoxyphenyl)imidazo[l,2- a]pyrimidine
+T770	EXAMPLE_LABEL 57833 57834	2
+T771	REACTION_PRODUCT 57836 57918	7-|4-(2-Fluorocthvl)nincra/in-1 -yl |-2-(4-mcthoxvnhcnyl)imidazo| 1,2-alpvrimidine
+T772	STARTING_MATERIAL 57978 58030	4-(4-(2-fluoroethyl)piperazin-l-yl)pyrimidin-2-amine
+T773	STARTING_MATERIAL 58055 58090	2-bromo-l-(4-methoxyphenyl)ethanone
+T774	OTHER_COMPOUND 58208 58215	heptane
+T775	YIELD_OTHER 58293 58299	243 mg
+T776	SOLVENT 58352 58355	THF
+T777	REAGENT_CATALYST 58370 58373	HC1
+T778	SOLVENT 58391 58398	dioxane
+T779	TEMPERATURE 58447 58463	room temperature
+T780	TIME 58468 58471	2 h
+T781	OTHER_COMPOUND 58518 58521	THF
+T782	OTHER_COMPOUND 58594 58601	heptane
+T783	OTHER_COMPOUND 58602 58615	ethyl acetate
+T784	TEMPERATURE 58660 58676	room temperature
+T785	TIME 58681 58687	15 min
+T786	OTHER_COMPOUND 58740 58757	butyl methylether
+T787	REACTION_PRODUCT 58772 58779	product
+T788	YIELD_OTHER 58803 58809	141 mg
+T789	YIELD_PERCENT 58811 58815	42 %
+T790	REACTION_PRODUCT 58849 58856	product
+T791	STARTING_MATERIAL 58884 58936	4-(4-(2-fluoroethyl)piperazin-l-yl)pyrimidin-2-amine
+T792	STARTING_MATERIAL 58981 59016	2-bromo-l-(3-methoxyphenyl)ethanone
+T793	YIELD_OTHER 59112 59118	114 mg
+T794	YIELD_PERCENT 59120 59124	35 %
+T795	REACTION_PRODUCT 59158 59165	product
+T796	STARTING_MATERIAL 59193 59218	4-chloropyrimidin-2-amine
+T797	STARTING_MATERIAL 59240 59281	2-fluoro-N-methylethanamine hydrochloride
+T798	REAGENT_CATALYST 59306 59325	potassium carbonate
+T799	SOLVENT 59348 59372	N-methyl-2-pyrrolidinone
+T800	OTHER_COMPOUND 59491 59501	silica gel
+T801	OTHER_COMPOUND 59508 59523	dichloromethane
+T802	OTHER_COMPOUND 59524 59532	methanol
+T803	YIELD_OTHER 59560 59566	263 mg
+T804	YIELD_PERCENT 59568 59572	40 %
+T805	EXAMPLE_LABEL 59603 59604	2
+T806	REACTION_PRODUCT 59606 59672	N-(2-Fluoroethvl)-N-methvl-2-phenylimidazorl,2-alpyrimidin-7-amine
+T807	REACTION_PRODUCT 59677 59684	product
+T808	STARTING_MATERIAL 59712 59762	N4-(2-fluoroethyl)-N4-methylpyrimidine-2,4-diamine
+T809	STARTING_MATERIAL 59786 59810	2-bromo-l-phenylethanone
+T810	YIELD_OTHER 59909 59914	41 mg
+T811	YIELD_PERCENT 59916 59920	41 %
+T812	REACTION_PRODUCT 59950 59957	product
+T813	STARTING_MATERIAL 59985 60035	N4-(2-fluoroethyl)-N4-methylpyrimidine-2,4-diamine
+T814	STARTING_MATERIAL 60079 60114	2-bromo-l-(3-methoxyphenyl)ethanone
+T815	YIELD_OTHER 60207 60212	28 mg
+T816	YIELD_PERCENT 60214 60218	24 %
+T817	REACTION_PRODUCT 60248 60255	product
+T818	STARTING_MATERIAL 60283 60333	N4-(2-fluoroethyl)-N4-methylpyrimidine-2,4-diamine
+T819	STARTING_MATERIAL 60377 60413	2-bromo-1 -(4-methoxyphenyl)ethanone
+T820	YIELD_OTHER 60506 60511	44 mg
+T821	YIELD_PERCENT 60513 60517	29 %
+T822	REACTION_PRODUCT 60547 60554	product
+T823	STARTING_MATERIAL 60582 60634	4-(4-(2-fluoroethyl)piperazin-l-yl)pyrimidin-2-amine
+T824	STARTING_MATERIAL 60679 60703	2-bromo-l-phenylethanone
+T825	YIELD_OTHER 60796 60801	57 mg
+T826	YIELD_PERCENT 60803 60807	18 %
+T827	EXAMPLE_LABEL 60815 60816	1
+T828	REACTION_PRODUCT 60818 60854	4-Morpholin-4-vl-pvrimidin-2-vlamine
+T829	REACTION_PRODUCT 60859 60866	product
+T830	STARTING_MATERIAL 60894 60922	4-chloro-pyrimidin-2-ylamine
+T831	STARTING_MATERIAL 60945 60955	morpholine
+T832	YIELD_OTHER 61048 61053	2.7 g
+T833	YIELD_PERCENT 61055 61059	64 %
+T834	EXAMPLE_LABEL 61090 61091	2
+T835	REACTION_PRODUCT 61093 61154	4-r2-(4-Methoxvphenvl)imidazori,2-alpvrimidin-7-yllmorpholine
+T836	REACTION_PRODUCT 61159 61166	product
+T837	STARTING_MATERIAL 61194 61230	4-morpholin-4-yl-pyrimidin-2-ylamine
+T838	STARTING_MATERIAL 61255 61292	2-bromo-l-(4-methoxy-phenyl)-ethanone
+T839	YIELD_OTHER 61383 61389	240 mg
+T840	YIELD_PERCENT 61391 61395	40 %
+T841	REACTION_PRODUCT 61425 61432	product
+T842	STARTING_MATERIAL 61460 61496	4-morpholin-4-yl-pyrimidin-2-ylamine
+T843	STARTING_MATERIAL 61541 61567	2-bromo-l-m-tolyl-ethanone
+T844	YIELD_OTHER 61663 61668	65 mg
+T845	YIELD_PERCENT 61670 61674	10 %
+T846	EXAMPLE_LABEL 61708 61710	27
+T847	REACTION_PRODUCT 61721 61728	product
+T848	STARTING_MATERIAL 61756 61792	4-morpholin-4-yl-pyrimidin-2-ylamine
+T849	STARTING_MATERIAL 61837 61878	2-bromo-l-(3,4-dimethoxy-phenyl)-ethanone
+T850	YIELD_OTHER 61974 61980	230 mg
+T851	YIELD_PERCENT 61982 61986	30 %
+T852	REACTION_PRODUCT 62018 62025	product
+T853	STARTING_MATERIAL 62053 62089	4-(pyrrolidin-l-yl)pyrimidin-2-amine
+T854	STARTING_MATERIAL 62134 62169	2-bromo-l-(4-hydroxyphenyl)ethanone
+T855	YIELD_OTHER 62262 62268	786 mg
+T856	YIELD_PERCENT 62270 62274	90 %
+T857	STARTING_MATERIAL 62307 62364	4-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T858	STARTING_MATERIAL 62401 62423	l-bromo-2-fluoroethane
+T859	SOLVENT 62448 62451	DMF
+T860	OTHER_COMPOUND 62478 62483	argon
+T861	REAGENT_CATALYST 62484 62500	cesium carbonate
+T862	TEMPERATURE 62558 62563	70 °C
+T863	TIME 62568 62572	22 h
+T864	OTHER_COMPOUND 62612 62617	water
+T865	OTHER_COMPOUND 62644 62659	dichloromethane
+T866	OTHER_COMPOUND 62715 62720	brine
+T867	OTHER_COMPOUND 62740 62745	MgSCL
+T868	OTHER_COMPOUND 62847 62857	silica gel
+T869	OTHER_COMPOUND 62864 62879	dichloromethane
+T870	OTHER_COMPOUND 62880 62888	methanol
+T871	OTHER_COMPOUND 62889 62896	ammonia
+T872	YIELD_OTHER 62924 62929	86 mg
+T873	YIELD_PERCENT 62931 62935	74 %
+T874	REACTION_PRODUCT 62965 62972	product
+T875	STARTING_MATERIAL 63000 63057	4-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T876	STARTING_MATERIAL 63094 63131	fluoromethyl 4-methylbenzenesulfonate
+T877	YIELD_OTHER 63218 63223	52 mg
+T878	YIELD_PERCENT 63225 63229	47 %
+T879	REACTION_PRODUCT 63260 63267	product
+T880	STARTING_MATERIAL 63295 63320	4-chloropyrimidin-2-amine
+T881	STARTING_MATERIAL 63342 63380	(R)-3-methoxypyrrolidine hydrochloride
+T882	REAGENT_CATALYST 63405 63424	potassium carbonate
+T883	OTHER_COMPOUND 63554 63564	silica gel
+T884	OTHER_COMPOUND 63571 63586	dichloromethane
+T885	OTHER_COMPOUND 63587 63595	methanol
+T886	OTHER_COMPOUND 63596 63603	ammonia
+T887	YIELD_OTHER 63637 63643	321 mg
+T888	YIELD_PERCENT 63645 63649	84 %
+T889	EXAMPLE_LABEL 63680 63681	2
+T890	REACTION_PRODUCT 63683 63749	7-r(3R)-3-Methoxvpvrrolidin-l-vll-2-phenv1imidazori.2-alpvrimidine
+T891	REACTION_PRODUCT 63754 63761	product
+T892	STARTING_MATERIAL 63789 63837	R)-4-(3-methoxypyrrolidin-l-yl)pyrimidin-2-amine
+T893	STARTING_MATERIAL 63871 63895	2-bromo-l-phenylethanone
+T894	YIELD_OTHER 63997 64002	63 mg
+T895	YIELD_PERCENT 64004 64008	52 %
+T896	EXAMPLE_LABEL 64042 64044	32
+T897	REACTION_PRODUCT 64045 64111	7-[(3S)-3-Methoxypyrrolidin-l-yl]-2-phenylimidazo[l,2-a]pyrimidine
+T898	REACTION_PRODUCT 64122 64172	(S)-4-(3-McthoxvnviTolidin-1 -yl)pyrimidin-2-aminc
+T899	REACTION_PRODUCT 64177 64184	product
+T900	STARTING_MATERIAL 64212 64237	4-chloropyrimidin-2-amine
+T901	STARTING_MATERIAL 64259 64283	(S)-3-methoxypyrrolidine
+T902	REAGENT_CATALYST 64308 64327	potassium carbonate
+T903	OTHER_COMPOUND 64457 64467	silica gel
+T904	OTHER_COMPOUND 64474 64489	dichloromethane
+T905	OTHER_COMPOUND 64490 64498	methanol
+T906	OTHER_COMPOUND 64499 64506	ammonia
+T907	YIELD_OTHER 64534 64540	288 mg
+T908	YIELD_PERCENT 64542 64546	52 %
+T909	REACTION_PRODUCT 64580 64646	7-r(3S)-3-Methoxvpvrrolidin-l-vll-2-phenvlimidazori,2-alpyrimidine
+T910	REACTION_PRODUCT 64651 64658	product
+T911	STARTING_MATERIAL 64686 64735	(S)-4-(3-methoxypyrrolidin-l-yl)pyrimidin-2-amine
+T912	STARTING_MATERIAL 64759 64783	2-bromo-l-phenylethanone
+T913	YIELD_OTHER 64876 64881	11 mg
+T914	YIELD_PERCENT 64883 64886	9 %
+T915	REACTION_PRODUCT 64916 64923	product
+T916	STARTING_MATERIAL 64951 64976	4-chloropyrimidin-2-amine
+T917	STARTING_MATERIAL 64998 65035	(R)-3-fluoropyrrolidine hydrochloride
+T918	REAGENT_CATALYST 65060 65079	potassium carbonate
+T919	OTHER_COMPOUND 65182 65197	dichloromethane
+T920	YIELD_OTHER 65221 65227	192 mg
+T921	YIELD_PERCENT 65229 65233	54 %
+T922	EXAMPLE_LABEL 65264 65265	2
+T923	REACTION_PRODUCT 65267 65343	7-r(3R)-3-Fluoropvrrolidin-l-vll-2-(4-methoxvphenyl)imidazori,2-alpvrimidine
+T924	REACTION_PRODUCT 65348 65355	product
+T925	STARTING_MATERIAL 65383 65431	(R)-4-(3-fluoropyrrolidin-l-yl)pyrimidin-2-amine
+T926	STARTING_MATERIAL 65457 65492	2-bromo-l-(4-methoxyphenyl)ethanone
+T927	YIELD_OTHER 65591 65596	89 mg
+T928	YIELD_PERCENT 65598 65602	65 %
+T929	EXAMPLE_LABEL 65644 65645	1
+T930	REACTION_PRODUCT 65647 65694	(S)-4-(3-FluoropvnOlidin-l-vl)pvrimidin-2-amine
+T931	REACTION_PRODUCT 65699 65706	product
+T932	STARTING_MATERIAL 65734 65759	4-chloropyrimidin-2-amine
+T933	STARTING_MATERIAL 65781 65818	(S)-3-fluoropyrrolidine hydrochloride
+T934	REAGENT_CATALYST 65843 65862	potassium carbonate
+T935	OTHER_COMPOUND 65965 65980	dichloromethane
+T936	YIELD_OTHER 66001 66007	319 mg
+T937	YIELD_PERCENT 66009 66013	63 %
+T938	EXAMPLE_LABEL 66044 66045	2
+T939	REACTION_PRODUCT 66047 66117	7-l(3S)-3-f’luoropvrrolidin-1 -vl l-2-(4-methoxvphcnvl limidazol 1,2-a
+T940	REACTION_PRODUCT 66118 66130	I pyrimidine
+T941	REACTION_PRODUCT 66135 66142	product
+T942	STARTING_MATERIAL 66170 66218	(S)-4-(3-fluoropyrrolidin-l-yl)pyrimidin-2-amine
+T943	STARTING_MATERIAL 66242 66277	2-bromo-l-(4-methoxyphenyl)ethanone
+T944	YIELD_OTHER 66376 66381	77 mg
+T945	YIELD_PERCENT 66383 66387	64 %
+T946	REACTION_PRODUCT 66394 66401	product
+T947	STARTING_MATERIAL 66429 66465	N4,N4-dimethylpyrimidine-2,4-diamine
+T948	STARTING_MATERIAL 66510 66545	2-bromo-l-(3-methoxyphenyl)ethanone
+T949	YIELD_OTHER 66635 66641	118 mg
+T950	YIELD_PERCENT 66643 66647	61 %
+T951	REACTION_PRODUCT 66654 66661	product
+T952	STARTING_MATERIAL 66689 66725	N4,N4-dimethylpyrimidine-2,4-diamine
+T953	STARTING_MATERIAL 66770 66805	2-bromo-l-(4-methoxyphenyl)ethanone
+T954	YIELD_OTHER 66898 66904	102 mg
+T955	YIELD_PERCENT 66906 66910	53 %
+T956	REACTION_PRODUCT 66951 66958	product
+T957	STARTING_MATERIAL 66986 67022	N4,N4-dimethylpyrimidine-2,4-diamine
+T958	STARTING_MATERIAL 67067 67111	l-(benzo[d][l,3]dioxol-5-yl)-2-bromoethanone
+T959	YIELD_OTHER 67207 67213	127 mg
+T960	YIELD_PERCENT 67215 67219	62 %
+T961	REACTION_PRODUCT 67249 67256	product
+T962	STARTING_MATERIAL 67284 67320	N4,N4-dimethylpyrimidine-2,4-diamine
+T963	STARTING_MATERIAL 67365 67420	2-bromo-l-(2,3-dihydrobenzo[b][l,4]dioxin-6-yl)ethanone
+T964	YIELD_OTHER 67513 67519	140 mg
+T965	YIELD_PERCENT 67521 67525	65 %
+T966	REACTION_PRODUCT 67555 67562	product
+T967	STARTING_MATERIAL 67590 67626	N4,N4-dimethylpyrimidine-2,4-diamine
+T968	STARTING_MATERIAL 67671 67696	2-bromo-l-p-tolylethanone
+T969	YIELD_OTHER 67789 67794	86 mg
+T970	YIELD_PERCENT 67796 67800	47 %
+T971	REACTION_PRODUCT 67837 67899	N,N-Dimethyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine
+T972	REACTION_PRODUCT 67910 67917	product
+T973	STARTING_MATERIAL 67945 67981	N4,N4-dimethylpyrimidine-2,4-diamine
+T974	STARTING_MATERIAL 68026 68051	2-bromo-l-m-tolylethanone
+T975	YIELD_OTHER 68143 68149	117 mg
+T976	YIELD_PERCENT 68151 68155	64 %
+T977	REACTION_PRODUCT 68162 68169	product
+T978	STARTING_MATERIAL 68197 68233	4-morpholin-4-yl-pyrimidin-2-ylamine
+T979	STARTING_MATERIAL 68278 68315	2-bromo-l-(3-methoxy-phenyl)-ethanone
+T980	YIELD_OTHER 68412 68417	70 mg
+T981	YIELD_PERCENT 68419 68423	10 %
+T982	REACTION_PRODUCT 68430 68437	product
+T983	STARTING_MATERIAL 68465 68501	4-morpholin-4-yl-pyrimidin-2-ylamine
+T984	STARTING_MATERIAL 68546 68572	2-bromo-l-p-tolyl-ethanone
+T985	YIELD_OTHER 68665 68671	230 mg
+T986	YIELD_PERCENT 68673 68677	35 %
+T987	REACTION_PRODUCT 68684 68691	product
+T988	STARTING_MATERIAL 68719 68754	4-pyrrolidin-l-yl-pyrimidin-2-amine
+T989	STARTING_MATERIAL 68799 68836	2-bromo-l-(4-methoxy-phenyl)-ethanone
+T990	YIELD_OTHER 68935 68940	65 mg
+T991	YIELD_PERCENT 68942 68946	10 %
+T992	REACTION_PRODUCT 68976 68983	product
+T993	STARTING_MATERIAL 69011 69046	4-pyrrolidin-l-yl-pyrimidin-2-amine
+T994	STARTING_MATERIAL 69091 69117	2-bromo-l-p-tolyl-ethanone
+T995	YIELD_OTHER 69214 69220	130 mg
+T996	YIELD_PERCENT 69222 69226	19 %
+T997	REACTION_PRODUCT 69233 69240	product
+T998	STARTING_MATERIAL 69268 69304	N4,N4-dimethylpyrimidine-2,4-diamine
+T999	STARTING_MATERIAL 69349 69387	2-bromo-l-(4-morpholinophenyl)ethanone
+T1000	YIELD_OTHER 69480 69486	116 mg
+T1001	YIELD_PERCENT 69488 69492	50 %
+T1002	REACTION_PRODUCT 69499 69506	product
+T1003	STARTING_MATERIAL 69534 69570	N4,N4-dimethylpyrimidine-2,4-diamine
+T1004	STARTING_MATERIAL 69615 69658	2-bromo-l-(4-(dimethylamino)phenyl)ethanone
+T1005	YIELD_OTHER 69751 69757	138 mg
+T1006	YIELD_PERCENT 69759 69763	68 %
+T1007	EXAMPLE_LABEL 69797 69799	47
+T1008	REACTION_PRODUCT 69806 69813	product
+T1009	STARTING_MATERIAL 69841 69876	4-pyrrolidin-l-yl-pyrimidin-2-amine
+T1010	STARTING_MATERIAL 69921 69958	2-bromo-l-(3-methoxy-phenyl)-ethanone
+T1011	YIELD_OTHER 70055 70060	30 mg
+T1012	YIELD_PERCENT 70062 70065	6 %
+T1013	REACTION_PRODUCT 70072 70079	product
+T1014	STARTING_MATERIAL 70107 70142	4-pyrrolidin-l-yl-pyrimidin-2-amine
+T1015	STARTING_MATERIAL 70187 70213	2-bromo-l-m-tolyl-ethanone
+T1016	YIELD_OTHER 70310 70315	30 mg
+T1017	YIELD_PERCENT 70317 70320	6 %
+T1018	REACTION_PRODUCT 70357 70417	2-(4-Methoxyphenyl)-7-piperidin-l-ylimidazo[l,2-a]pyrimidine
+T1019	EXAMPLE_LABEL 70423 70424	1
+T1020	STARTING_MATERIAL 70426 70460	4-Piperidin-l-v1-pvrimidin-2-amine
+T1021	STARTING_MATERIAL 70474 70502	4-chloro-pyrimidin-2-ylamine
+T1022	REAGENT_CATALYST 70519 70529	piperidine
+T1023	REAGENT_CATALYST 70551 70570	potassium carbonate
+T1024	SOLVENT 70595 70619	N-methyl-2-pyrrolidinone
+T1025	TEMPERATURE 70658 70664	120 °C
+T1026	TIME 70669 70673	12 h
+T1027	TEMPERATURE 70697 70713	room temperature
+T1028	OTHER_COMPOUND 70752 70756	NaOH
+T1029	OTHER_COMPOUND 70761 70768	aqueous
+T1030	OTHER_COMPOUND 70806 70821	dichloromethane
+T1031	OTHER_COMPOUND 70890 70896	Na2SC>
+T1032	OTHER_COMPOUND 71012 71022	silica gel
+T1033	OTHER_COMPOUND 71029 71044	dichloromethane
+T1034	OTHER_COMPOUND 71045 71053	methanol
+T1035	YIELD_OTHER 71084 71087	3 g
+T1036	YIELD_PERCENT 71089 71093	54 %
+T1037	EXAMPLE_LABEL 71124 71125	2
+T1038	REACTION_PRODUCT 71127 71193	2-(4-Mcthoxvnhcnvl)-7-r>ir>cridin-1 -ylimidazol 1,2-a I pyrimidine
+T1039	STARTING_MATERIAL 71211 71247	4-piperidin-l-yl-pyrimidin-2-ylamine
+T1040	SOLVENT 71270 71277	acetone
+T1041	STARTING_MATERIAL 71311 71348	2-bromo-l-(4-methoxy-phenyl)-ethanone
+T1042	REAGENT_CATALYST 71373 71394	ρtoluenesulfonic acid
+T1043	TEMPERATURE 71417 71422	25 °C
+T1044	TEMPERATURE 71460 71465	65 °C
+T1045	TIME 71470 71474	12 h
+T1046	OTHER_COMPOUND 71563 71568	water
+T1047	OTHER_COMPOUND 71573 71588	dichloromethane
+T1048	OTHER_COMPOUND 71631 71646	dichloromethane
+T1049	OTHER_COMPOUND 71713 71720	Na2SC>4
+T1050	REACTION_PRODUCT 71777 71784	product
+T1051	OTHER_COMPOUND 71848 71858	silica gel
+T1052	OTHER_COMPOUND 71865 71880	dichloromethane
+T1053	OTHER_COMPOUND 71881 71889	methanol
+T1054	YIELD_OTHER 71920 71925	20 mg
+T1055	YIELD_PERCENT 71927 71930	3 %
+T1056	REACTION_PRODUCT 71937 71944	product
+T1057	STARTING_MATERIAL 71972 72008	4-piperidin-l-yl-pyrimidin-2-ylamine
+T1058	STARTING_MATERIAL 72053 72090	2-bromo-l-(3-methoxy-phenyl)-ethanone
+T1059	YIELD_OTHER 72187 72192	45 mg
+T1060	YIELD_PERCENT 72194 72197	7 %
+T1061	REACTION_PRODUCT 72204 72211	product
+T1062	STARTING_MATERIAL 72239 72276	4-piperidin-1 -yl-pyrimidin-2-ylamine
+T1063	STARTING_MATERIAL 72321 72347	2-bromo-l-p-tolyl-ethanone
+T1064	YIELD_OTHER 72444 72450	200 mg
+T1065	YIELD_PERCENT 72452 72456	30 %
+T1066	EXAMPLE_LABEL 72490 72492	52
+T1067	STARTING_MATERIAL 72532 72568	4-piperidin-l-yl-pyrimidin-2-ylamine
+T1068	STARTING_MATERIAL 72613 72639	2-bromo-l-m-tolyl-ethanone
+T1069	YIELD_OTHER 72736 72741	25 mg
+T1070	YIELD_PERCENT 72743 72746	4 %
+T1071	REACTION_PRODUCT 72753 72760	product
+T1072	STARTING_MATERIAL 72788 72825	4-piperidin-1 -yl-pyrimidin-2-ylamine
+T1073	STARTING_MATERIAL 72870 72911	2-bromo-l-(3,4-dimethoxy-phenyl)-ethanone
+T1074	YIELD_OTHER 73008 73013	49 mg
+T1075	YIELD_PERCENT 73015 73019	10 %
+T1076	EXAMPLE_LABEL 73030 73032	54
+T1077	REACTION_PRODUCT 73033 73101	7-[4-(2-Fluoroethyl)piperidin-l-yl]-2-phenylimidazo[l,2-a]pyrimidine
+T1078	EXAMPLE_LABEL 73107 73108	1
+T1079	REACTION_PRODUCT 73110 73163	tert-Butvl 4-(2-hvdroxvethvl)piperidine-l-carboxvlate
+T1080	STARTING_MATERIAL 73181 73206	2-(piperidin-4-yl)ethanol
+T1081	SOLVENT 73230 73245	dichloromethane
+T1082	OTHER_COMPOUND 73270 73278	nitrogen
+T1083	TEMPERATURE 73282 73286	0 °C
+T1084	REAGENT_CATALYST 73287 73312	di-tert-butyl dicarbonate
+T1085	TEMPERATURE 73405 73409	0 °C
+T1086	TIME 73414 73420	15 min
+T1087	TEMPERATURE 73428 73444	room temperature
+T1088	TIME 73449 73452	4 h
+T1089	OTHER_COMPOUND 73491 73496	water
+T1090	OTHER_COMPOUND 73506 73532	potassium hydrogen sulfate
+T1091	OTHER_COMPOUND 73538 73545	aqueous
+T1092	OTHER_COMPOUND 73567 73572	brine
+T1093	OTHER_COMPOUND 73626 73641	dichloromethane
+T1094	OTHER_COMPOUND 73695 73709	sodium sulfate
+T1095	YIELD_OTHER 73734 73739	4.1 g
+T1096	YIELD_PERCENT 73741 73745	95 %
+T1097	STARTING_MATERIAL 73779 73831	tert-Butyl 4-(2-fluoroethvl)piperidine-l-carboxylate
+T1098	STARTING_MATERIAL 73849 73902	tert-butyl 4-(2-hydroxyethyl)piperidine-l-carboxylate
+T1099	SOLVENT 73925 73940	dichloromethane
+T1100	TEMPERATURE 73976 73984	0 - 8 °C
+T1101	REAGENT_CATALYST 73985 74015	diethylaminosulfur trifluoride
+T1102	OTHER_COMPOUND 74051 74059	nitrogen
+T1103	TEMPERATURE 74089 74093	0 °C
+T1104	TIME 74098 74101	1 h
+T1105	TEMPERATURE 74109 74125	room temperature
+T1106	TIME 74138 74141	2 h
+T1107	OTHER_COMPOUND 74181 74194	ethyl acetate
+T1108	OTHER_COMPOUND 74223 74239	sodium carbonate
+T1109	OTHER_COMPOUND 74245 74252	aqueous
+T1110	OTHER_COMPOUND 74271 74276	water
+T1111	OTHER_COMPOUND 74289 74294	brine
+T1112	OTHER_COMPOUND 74348 74361	ethyl acetate
+T1113	OTHER_COMPOUND 74415 74429	sodium sulfate
+T1114	REACTION_PRODUCT 74461 74468	product
+T1115	OTHER_COMPOUND 74532 74542	silica gel
+T1116	OTHER_COMPOUND 74549 74556	heptane
+T1117	OTHER_COMPOUND 74557 74570	ethyl acetate
+T1118	YIELD_OTHER 74602 74608	1.26 g
+T1119	YIELD_PERCENT 74610 74614	56 %
+T1120	REACTION_PRODUCT 74644 74687	4-(2-Fluoro-ethvl)-piperidine hydrochloride
+T1121	STARTING_MATERIAL 74704 74756	tert-butyl 4-(2-fluoroethyl)piperidine-l-carboxylate
+T1122	REAGENT_CATALYST 74780 74797	hydrochloric acid
+T1123	SOLVENT 74806 74813	dioxane
+T1124	TEMPERATURE 74850 74866	room temperature
+T1125	TIME 74871 74874	2 h
+T1126	REACTION_PRODUCT 74954 74961	product
+T1127	YIELD_OTHER 74978 74984	906 mg
+T1128	YIELD_PERCENT 74986 74991	100 %
+T1129	EXAMPLE_LABEL 75026 75027	4
+T1130	REACTION_PRODUCT 75029 75086	4-r4-(2-Fluoro-ethvl)-piperidin-l-vll-pvrimidin-2-v1amine
+T1131	REACTION_PRODUCT 75091 75098	product
+T1132	STARTING_MATERIAL 75126 75154	4-chloro-pyrimidin-2-ylamine
+T1133	STARTING_MATERIAL 75171 75200	4-(2-fluoro-ethyl)-piperidine
+T1134	REAGENT_CATALYST 75239 75258	potassium carbonate
+T1135	YIELD_OTHER 75364 75369	5.4 g
+T1136	YIELD_PERCENT 75371 75375	78 %
+T1137	EXAMPLE_LABEL 75406 75407	5
+T1138	REACTION_PRODUCT 75409 75476	7-r4-(2-Fluoroethvl)piperidin-l-vll-2-phenvlimidazorL2-alpyrimidine
+T1139	REACTION_PRODUCT 75481 75488	product
+T1140	STARTING_MATERIAL 75516 75573	4-[4-(2-fluoro-ethyl)-piperidin-l-yl]-pyrimidin-2-ylamine
+T1141	STARTING_MATERIAL 75598 75623	2-bromo-l-phenyl-ethanone
+T1142	OTHER_COMPOUND 75785 75793	methanol
+T1143	OTHER_COMPOUND 75800 75816	ammonium acetate
+T1144	OTHER_COMPOUND 75820 75825	water
+T1145	YIELD_OTHER 75847 75852	90 mg
+T1146	YIELD_PERCENT 75854 75858	25 %
+T1147	REACTION_PRODUCT 75884 75963	7-[4-(2-Fluoroethyl)piperidin-l-yl]-2-(3-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1148	REACTION_PRODUCT 75972 75974	55
+T1149	REACTION_PRODUCT 75982 75989	product
+T1150	STARTING_MATERIAL 76017 76074	4-[4-(2-fluoro-ethyl)-piperidin-l-yl]-pyrimidin-2-ylamine
+T1151	STARTING_MATERIAL 76119 76156	2-bromo-l-(3-methoxy-phenyl)-ethanone
+T1152	YIELD_OTHER 76253 76258	30 mg
+T1153	YIELD_PERCENT 76260 76263	8 %
+T1154	REACTION_PRODUCT 76293 76300	product
+T1155	STARTING_MATERIAL 76328 76385	4-[4-(2-fluoro-ethyl)-piperidin-l-yl]-pyrimidin-2-ylamine
+T1156	STARTING_MATERIAL 76430 76467	2-bromo-l-(4-methoxy-phenyl)-ethanone
+T1157	OTHER_COMPOUND 76629 76641	acetonitrile
+T1158	OTHER_COMPOUND 76648 76655	ammonia
+T1159	OTHER_COMPOUND 76659 76664	water
+T1160	YIELD_OTHER 76686 76691	60 mg
+T1161	YIELD_PERCENT 76693 76697	13 %
+T1162	REACTION_PRODUCT 76727 76734	product
+T1163	STARTING_MATERIAL 76762 76819	4-[4-(2-fluoro-ethyl)-piperidin-l-yl]-pyrimidin-2-ylamine
+T1164	STARTING_MATERIAL 76864 76903	l-benzo[l,3]dioxol-5-yl-2-bromoethanone
+T1165	YIELD_OTHER 77000 77005	20 mg
+T1166	YIELD_PERCENT 77007 77010	5 %
+T1167	REACTION_PRODUCT 77040 77047	product
+T1168	STARTING_MATERIAL 77075 77132	4-[4-(2-fluoro-ethyl)-piperidin-l-yl]-pyrimidin-2-ylamine
+T1169	STARTING_MATERIAL 77177 77230	2-bromo-l-(2,3-dihydrobenzo[l,4]dioxin-6-yl)-ethanone
+T1170	YIELD_OTHER 77327 77333	110 mg
+T1171	YIELD_PERCENT 77335 77339	26 %
+T1172	REACTION_PRODUCT 77369 77376	product
+T1173	STARTING_MATERIAL 77404 77461	4-[4-(2-fluoro-ethyl)-piperidin-l-yl]-pyrimidin-2-ylamine
+T1174	STARTING_MATERIAL 77506 77532	2-bromo-l-m-tolyl-ethanone
+T1175	YIELD_OTHER 77629 77634	90 mg
+T1176	YIELD_PERCENT 77636 77640	24 %
+T1177	REACTION_PRODUCT 77670 77677	product
+T1178	STARTING_MATERIAL 77705 77762	4-[4-(2-fluoro-ethyl)-piperidin-l-yl]-pyrimidin-2-ylamine
+T1179	STARTING_MATERIAL 77807 77833	2-bromo-l-p-tolyl-ethanone
+T1180	YIELD_OTHER 77930 77935	15 mg
+T1181	YIELD_PERCENT 77937 77940	3 %
+T1182	REACTION_PRODUCT 77970 77977	product
+T1183	STARTING_MATERIAL 78005 78062	4-[4-(2-fluoro-ethyl)-piperidin-l-yl]-pyrimidin-2-ylamine
+T1184	STARTING_MATERIAL 78107 78150	2-bromo-l-(4-morpholin-4-yl-phenyl)ethanone
+T1185	YIELD_OTHER 78247 78252	30 mg
+T1186	YIELD_PERCENT 78254 78257	6 %
+T1187	REACTION_PRODUCT 78287 78294	product
+T1188	STARTING_MATERIAL 78322 78353	N4-methylpyrimidine-2,4-diamine
+T1189	STARTING_MATERIAL 78398 78423	2-bromo-l-m-tolylethanone
+T1190	YIELD_OTHER 78523 78528	18 mg
+T1191	YIELD_PERCENT 78530 78534	31 %
+T1192	STARTING_MATERIAL 78590 78633	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T1193	STARTING_MATERIAL 78676 78709	2-bromo-l-(thiophen-3-yl)ethanone
+T1194	SOLVENT 78734 78741	acetone
+T1195	TEMPERATURE 78762 78778	room temperature
+T1196	REAGENT_CATALYST 78779 78813	p-toluenesulfonic acid monohydrate
+T1197	TEMPERATURE 78866 78871	60 °C
+T1198	TIME 78876 78880	48 h
+T1199	OTHER_COMPOUND 78947 78953	NaHCC>
+T1200	OTHER_COMPOUND 78966 78973	aqueous
+T1201	OTHER_COMPOUND 79021 79036	dichloromethane
+T1202	OTHER_COMPOUND 79093 79098	MgSCL
+T1203	OTHER_COMPOUND 79200 79210	silica gel
+T1204	OTHER_COMPOUND 79218 79231	ethyl acetate
+T1205	OTHER_COMPOUND 79232 79240	methanol
+T1206	OTHER_COMPOUND 79326 79338	acetonitrile
+T1207	OTHER_COMPOUND 79345 79358	triethylamine
+T1208	OTHER_COMPOUND 79362 79367	water
+T1209	YIELD_OTHER 79385 79391	2.4 mg
+T1210	YIELD_PERCENT 79393 79396	3 %
+T1211	REACTION_PRODUCT 79422 79511	N-[2-(2-Fluoroethoxy)ethyl]-2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-Example
+T1212	REACTION_PRODUCT 79512 79573	62 N-Methyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine
+T1213	EXAMPLE_LABEL 79582 79584	64
+T1214	EXAMPLE_LABEL 79590 79591	1
+T1215	REACTION_PRODUCT 79593 79645	7-chloro-2-(4-methoxvphenvl)imidazori,2-alpyrimidine
+T1216	REACTION_PRODUCT 79650 79688	7-hromo-2-(4-mcthoxvphenvl )i miclazol
+T1217	REACTION_PRODUCT 79689 79707	1,2-a I pyrimidine
+T1218	STARTING_MATERIAL 79735 79760	4-chloropyrimidin-2-amine
+T1219	STARTING_MATERIAL 79784 79819	2-bromo-l-(4-methoxyphenyl)ethanone
+T1220	SOLVENT 79842 79849	acetone
+T1221	TEMPERATURE 79875 79880	65 °C
+T1222	TIME 79885 79889	16 h
+T1223	OTHER_COMPOUND 79941 79948	acetone
+T1224	TIME 80018 80021	4 h
+T1225	OTHER_COMPOUND 80057 80062	NaHCC
+T1226	OTHER_COMPOUND 80076 80083	aqueous
+T1227	OTHER_COMPOUND 80121 80134	ethyl acetate
+T1228	OTHER_COMPOUND 80194 80199	MgSCL
+T1229	REACTION_PRODUCT 80241 80249	products
+T1230	OTHER_COMPOUND 80313 80323	silica gel
+T1231	OTHER_COMPOUND 80328 80341	ethyl acetate
+T1232	YIELD_OTHER 80368 80374	245 mg
+T1233	YIELD_PERCENT 80376 80379	5 %
+T1234	EXAMPLE_LABEL 80418 80419	2
+T1235	REACTION_PRODUCT 80421 80508	N-r2-(2-Fluoroethoxv)ethvll-2-(4-methoxvphenvl)-N-metbv1imidazori.2-alpvrimidin-7-amine
+T1236	STARTING_MATERIAL 80522 80574	7-chloro-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1237	STARTING_MATERIAL 80579 80630	7-bromo-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1238	REAGENT_CATALYST 80660 80668	chloride
+T1239	SOLVENT 80688 80692	DMSO
+T1240	OTHER_COMPOUND 80708 80716	nitrogen
+T1241	STARTING_MATERIAL 80750 80800	2-(2-Fluoroethoxy)-Nmethylethanamine hydrochloride
+T1242	REAGENT_CATALYST 80826 80847	diisopropylethylamine
+T1243	TEMPERATURE 80929 80935	130 °C
+T1244	TIME 80940 80943	3 h
+T1245	OTHER_COMPOUND 80981 80986	water
+T1246	OTHER_COMPOUND 81013 81028	dichloromethane
+T1247	OTHER_COMPOUND 81085 81090	brine
+T1248	OTHER_COMPOUND 81110 81115	MgSCL
+T1249	OTHER_COMPOUND 81217 81227	silica gel
+T1250	OTHER_COMPOUND 81246 81253	heptane
+T1251	OTHER_COMPOUND 81254 81267	ethyl acetate
+T1252	YIELD_OTHER 81295 81300	45 mg
+T1253	YIELD_PERCENT 81302 81306	67 %
+T1254	REACTION_PRODUCT 81313 81320	product
+T1255	STARTING_MATERIAL 81348 81400	7-chloro-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1256	STARTING_MATERIAL 81405 81456	7-bromo-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1257	REACTION_PRODUCT 81520 81542	2-azaspiro[3.3]heptane
+T1258	STARTING_MATERIAL 81543 81556	hydrochloride
+T1259	YIELD_OTHER 81657 81662	14 mg
+T1260	YIELD_PERCENT 81664 81668	22 %
+T1261	REACTION_PRODUCT 81698 81705	product
+T1262	STARTING_MATERIAL 81733 81785	7-chloro-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1263	STARTING_MATERIAL 81790 81841	7-bromo-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1264	REAGENT_CATALYST 81905 81923	N-methylethanamine
+T1265	YIELD_OTHER 82018 82023	10 mg
+T1266	YIELD_PERCENT 82025 82029	18 %
+T1267	REACTION_PRODUCT 82036 82043	product
+T1268	STARTING_MATERIAL 82071 82123	7-chloro-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1269	STARTING_MATERIAL 82128 82179	7-bromo-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1270	OTHER_COMPOUND 82209 82217	chloride
+T1271	REAGENT_CATALYST 82243 82255	diethylamine
+T1272	YIELD_OTHER 82357 82362	26 mg
+T1273	YIELD_PERCENT 82364 82368	45 %
+T1274	REACTION_PRODUCT 82398 82405	product
+T1275	STARTING_MATERIAL 82433 82458	4-chloropyrimidin-2-amine
+T1276	STARTING_MATERIAL 82482 82507	2-bromo-l-m-tolylethanone
+T1277	YIELD_OTHER 82599 82605	535 mg
+T1278	YIELD_PERCENT 82607 82611	25 %
+T1279	EXAMPLE_LABEL 82642 82643	2
+T1280	REACTION_PRODUCT 82645 82730	N-r2-(2-Fluoroethoxv)ethvH-N-methvl-2-(3-methvlphenvl)imidazo|T,2-alpvrimidin-7-amine
+T1281	REACTION_PRODUCT 82735 82742	product
+T1282	STARTING_MATERIAL 82770 82812	7-chloro-2-m-tolylimidazo[l,2-a]pyrimidine
+T1283	STARTING_MATERIAL 82836 82887	2-(2-fluoroethoxy)-N-methylethanamine hydrochloride
+T1284	OTHER_COMPOUND 83003 83013	silica gel
+T1285	OTHER_COMPOUND 83023 83036	ethyl acetate
+T1286	YIELD_OTHER 83064 83069	18 mg
+T1287	YIELD_PERCENT 83071 83075	27 %
+T1288	STARTING_MATERIAL 83135 83160	4-chloropyrimidin-2-amine
+T1289	STARTING_MATERIAL 83183 83192	azetidine
+T1290	REAGENT_CATALYST 83223 83248	N,N-diisopropylethylamine
+T1291	SOLVENT 83282 83290	methanol
+T1292	OTHER_COMPOUND 83327 83332	argon
+T1293	TEMPERATURE 83356 83360	60°C
+T1294	TIME 83388 83391	2 h
+T1295	TEMPERATURE 83428 83444	room temperature
+T1296	OTHER_COMPOUND 83512 83517	water
+T1297	OTHER_COMPOUND 83544 83549	water
+T1298	REACTION_PRODUCT 83555 83562	product
+T1299	YIELD_OTHER 83643 83649	287 mg
+T1300	YIELD_PERCENT 83651 83655	82 %
+T1301	EXAMPLE_LABEL 83686 83687	2
+T1302	REACTION_PRODUCT 83689 83751	7-(Azetidin-l-vl)-2-(4-methoxvphenvl)imidazori .2-alpvrimidine
+T1303	STARTING_MATERIAL 83786 83820	4-(azetidin-l-yl)pyrimidin-2-amine
+T1304	STARTING_MATERIAL 83843 83878	2-bromo-l-(4-methoxyphenyl)ethanone
+T1305	SOLVENT 83902 83909	Acetone
+T1306	OTHER_COMPOUND 83946 83951	argon
+T1307	TEMPERATURE 84000 84005	70 °C
+T1308	TEMPERATURE 84052 84068	room temperature
+T1309	OTHER_COMPOUND 84088 84103	dichloromethane
+T1310	OTHER_COMPOUND 84118 84124	Na2CC>
+T1311	OTHER_COMPOUND 84179 84194	dichloromethane
+T1312	OTHER_COMPOUND 84241 84247	Na2SC>
+T1313	REACTION_PRODUCT 84281 84288	product
+T1314	OTHER_COMPOUND 84361 84374	ethyl acetate
+T1315	OTHER_COMPOUND 84394 84402	methanol
+T1316	YIELD_OTHER 84424 84429	72 mg
+T1317	YIELD_PERCENT 84431 84435	77 %
+T1318	REACTION_PRODUCT 84480 84523	4-(3-riuoroazctidin-1 -yl)pyrimidin-2-aminc
+T1319	REACTION_PRODUCT 84528 84535	product
+T1320	STARTING_MATERIAL 84563 84588	4-chloropyrimidin-2-amine
+T1321	STARTING_MATERIAL 84614 84645	3-fluoroazetidine hydrochloride
+T1322	YIELD_OTHER 84742 84748	257 mg
+T1323	YIELD_PERCENT 84750 84754	50 %
+T1324	EXAMPLE_LABEL 84785 84786	2
+T1325	REACTION_PRODUCT 84788 84857	7-(3-Fluoroazetidin-l-vl)-2-(4-methoxvphenvl)imidazo|T,2-alpvrimidine
+T1326	STARTING_MATERIAL 84892 84934	4-(3-fluoroazetidin-l-yl)pyrimidin-2-amine
+T1327	STARTING_MATERIAL 84957 84992	2-bromo-l-(4-methoxyphenyl)ethanone
+T1328	SOLVENT 85016 85023	acetone
+T1329	OTHER_COMPOUND 85060 85065	argon
+T1330	TEMPERATURE 85114 85118	70°C
+T1331	TEMPERATURE 85165 85181	room temperature
+T1332	OTHER_COMPOUND 85196 85203	acetone
+T1333	OTHER_COMPOUND 85218 85223	water
+T1334	OTHER_COMPOUND 85249 85267	ammonium hydroxide
+T1335	TEMPERATURE 85325 85341	room temperature
+T1336	TIME 85346 85351	5 min
+T1337	OTHER_COMPOUND 85378 85383	water
+T1338	OTHER_COMPOUND 85388 85395	acetone
+T1339	REACTION_PRODUCT 85401 85408	product
+T1340	YIELD_OTHER 85488 85493	41 mg
+T1341	YIELD_PERCENT 85495 85501	46.2 %
+T1342	REACTION_PRODUCT 85531 85538	product
+T1343	STARTING_MATERIAL 85566 85608	4-(3-fluoroazetidin-l-yl)pyrimidin-2-amine
+T1344	STARTING_MATERIAL 85652 85676	2-bromo-l-phenylethanone
+T1345	YIELD_OTHER 85773 85778	45 mg
+T1346	YIELD_PERCENT 85780 85784	56 %
+T1347	REACTION_PRODUCT 85791 85798	product
+T1348	STARTING_MATERIAL 85826 85868	4-(3-fluoroazetidin-l-yl)pyrimidin-2-amine
+T1349	STARTING_MATERIAL 85912 85937	2-bromo-l-m-tolylethanone
+T1350	YIELD_OTHER 86037 86042	39 mg
+T1351	YIELD_PERCENT 86044 86048	46 %
+T1352	REACTION_PRODUCT 86078 86085	product
+T1353	STARTING_MATERIAL 86113 86156	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T1354	STARTING_MATERIAL 86199 86234	l-(benzofuran-2-yl)-2-bromoethanone
+T1355	YIELD_OTHER 86374 86379	31 mg
+T1356	YIELD_PERCENT 86381 86385	36 %
+T1357	REACTION_PRODUCT 86415 86422	product
+T1358	STARTING_MATERIAL 86450 86486	4-morpholin-4-yl-pyrimidin-2-ylamine
+T1359	STARTING_MATERIAL 86531 86574	2-bromo-l-(4-(dimethylamino)phenyl)ethanone
+T1360	YIELD_OTHER 86673 86678	19 mg
+T1361	YIELD_PERCENT 86680 86683	8 %
+T1362	STARTING_MATERIAL 86725 86768	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T1363	STARTING_MATERIAL 86808 86849	l-(benzo[b]thiophen-2-yl)-2-bromoethanone
+T1364	REAGENT_CATALYST 86874 86880	NaHCC>
+T1365	SOLVENT 86906 86914	methanol
+T1366	TEMPERATURE 86939 86944	76 °C
+T1367	OTHER_COMPOUND 86951 86956	argon
+T1368	TIME 86961 86964	3 h
+T1369	TEMPERATURE 86976 86992	room temperature
+T1370	OTHER_COMPOUND 87007 87011	NaOH
+T1371	OTHER_COMPOUND 87016 87023	aqueous
+T1372	OTHER_COMPOUND 87072 87087	dichloromethane
+T1373	OTHER_COMPOUND 87134 87141	Na2SC>4
+T1374	OTHER_COMPOUND 87245 87261	silica gel amine
+T1375	OTHER_COMPOUND 87274 87281	heptane
+T1376	OTHER_COMPOUND 87282 87295	ethyl acetate
+T1377	YIELD_OTHER 87328 87333	85 mg
+T1378	YIELD_PERCENT 87335 87339	64 %
+T1379	STARTING_MATERIAL 87384 87409	4-chloropyrimidin-2-amine
+T1380	REAGENT_CATALYST 87435 87454	potassium carbonate
+T1381	REAGENT_CATALYST 87500 87516	cyclopropylamine
+T1382	TEMPERATURE 87588 87594	100 °C
+T1383	TEMPERATURE 87666 87682	room temperature
+T1384	OTHER_COMPOUND 87702 87715	ethyl acetate
+T1385	OTHER_COMPOUND 87720 87725	water
+T1386	OTHER_COMPOUND 87772 87785	ethyl acetate
+T1387	OTHER_COMPOUND 87835 87840	water
+T1388	OTHER_COMPOUND 87855 87860	brine
+T1389	OTHER_COMPOUND 87907 87914	Na2SC>4
+T1390	REACTION_PRODUCT 87947 87954	product
+T1391	OTHER_COMPOUND 88021 88034	diethyl ether
+T1392	YIELD_OTHER 88055 88061	193 mg
+T1393	YIELD_PERCENT 88063 88067	55 %
+T1394	EXAMPLE_LABEL 88098 88099	2
+T1395	REACTION_PRODUCT 88101 88165	N-Cvclopropvl-2-(4-methoxvphenvl)imidazo|T,2-alpvrimidin-7-amine
+T1396	REACTION_PRODUCT 88170 88177	product
+T1397	STARTING_MATERIAL 88205 88241	N4-cyclopropylpyrimidine-2,4-diamine
+T1398	STARTING_MATERIAL 88265 88300	2-bromo-l-(4-methoxyphenyl)ethanone
+T1399	YIELD_OTHER 88399 88404	43 mg
+T1400	YIELD_PERCENT 88406 88410	41 %
+T1401	STARTING_MATERIAL 88470 88495	4-chloropyrimidin-2-amine
+T1402	REAGENT_CATALYST 88517 88531	isopropylamine
+T1403	SOLVENT 88564 88569	water
+T1404	OTHER_COMPOUND 88606 88611	argon
+T1405	TEMPERATURE 88635 88641	180 °C
+T1406	TIME 88646 88652	30 min
+T1407	TEMPERATURE 88758 88774	room temperature
+T1408	OTHER_COMPOUND 88794 88809	dichloromethane
+T1409	OTHER_COMPOUND 88814 88819	water
+T1410	OTHER_COMPOUND 88855 88860	water
+T1411	OTHER_COMPOUND 88909 88924	dichloromethane
+T1412	OTHER_COMPOUND 88971 88978	Na2SC>4
+T1413	REACTION_PRODUCT 89011 89018	product
+T1414	OTHER_COMPOUND 89067 89080	diethyl ether
+T1415	OTHER_COMPOUND 89100 89113	ethyl acetate
+T1416	YIELD_OTHER 89134 89140	282 mg
+T1417	YIELD_PERCENT 89142 89146	80 %
+T1418	EXAMPLE_LABEL 89177 89178	2
+T1419	REACTION_PRODUCT 89180 89242	N-Isopropvl-2-(4-methoxvphenvl)imidazori,2-alpyrimidin-7-amine
+T1420	REACTION_PRODUCT 89247 89254	product
+T1421	STARTING_MATERIAL 89282 89316	N4-isopropylpyrimidine-2,4-diamine
+T1422	STARTING_MATERIAL 89342 89377	2-bromo-l-(4-methoxyphenyl)ethanone
+T1423	OTHER_COMPOUND 89507 89517	silica gel
+T1424	OTHER_COMPOUND 89524 89539	dichloromethane
+T1425	OTHER_COMPOUND 89540 89548	methanol
+T1426	YIELD_OTHER 89582 89587	59 mg
+T1427	YIELD_PERCENT 89589 89593	64 %
+T1428	STARTING_MATERIAL 89635 89660	4-chloropyrimidin-2-amine
+T1429	STARTING_MATERIAL 89685 89710	2,2,2-trifluoroethylamine
+T1430	YIELD_OTHER 89844 89850	121 mg
+T1431	YIELD_PERCENT 89852 89856	26 %
+T1432	EXAMPLE_LABEL 89864 89865	2
+T1433	REACTION_PRODUCT 89867 89942	2-(4-Methoxyphenvl)-N-(2,2,2-trifluoroethvl)imidazori,2-alpvrimidin-7-amine
+T1434	REACTION_PRODUCT 89947 89954	product
+T1435	STARTING_MATERIAL 89982 90029	Ν4-(2,2,2-trifluoroethyl)pyrimidine-2,4-diamine
+T1436	STARTING_MATERIAL 90055 90090	2-bromo-l-(4-methoxyphenyl)ethanone
+T1437	YIELD_OTHER 90189 90194	47 mg
+T1438	YIELD_PERCENT 90196 90200	54 %
+T1439	STARTING_MATERIAL 90237 90280	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T1440	SOLVENT 90304 90308	Μ℮ΟΗ
+T1441	TIME 90334 90339	5 min
+T1442	STARTING_MATERIAL 90370 90410	l-(Benzo[d]thiazol-2-yl)-2-bromoethanone
+T1443	REAGENT_CATALYST 90436 90454	sodium bicarbonate
+T1444	TEMPERATURE 90548 90553	76 °C
+T1445	TIME 90558 90561	3 h
+T1446	OTHER_COMPOUND 90627 90631	NaOH
+T1447	OTHER_COMPOUND 90651 90666	dichloromethane
+T1448	OTHER_COMPOUND 90701 90706	MgSC>
+T1449	OTHER_COMPOUND 90824 90834	silica gel
+T1450	OTHER_COMPOUND 90841 90856	dichloromethane
+T1451	OTHER_COMPOUND 90857 90865	methanol
+T1452	OTHER_COMPOUND 90866 90873	ammonia
+T1453	YIELD_OTHER 90902 90907	67 mg
+T1454	YIELD_PERCENT 90909 90913	74 %
+T1455	STARTING_MATERIAL 90950 90984	4-(azetidin-l-yl)pyrimidin-2-amine
+T1456	STARTING_MATERIAL 91025 91060	2-bromo-l-(4-hydroxyphenyl)ethanone
+T1457	REAGENT_CATALYST 91085 91092	acetone
+T1458	OTHER_COMPOUND 91130 91135	argon
+T1459	TEMPERATURE 91159 91163	70°C
+T1460	TEMPERATURE 91235 91251	room temperature
+T1461	OTHER_COMPOUND 91274 91289	dichloromethane
+T1462	OTHER_COMPOUND 91304 91318	NaHCXVsolution
+T1463	OTHER_COMPOUND 91415 91420	water
+T1464	OTHER_COMPOUND 91425 91438	ethyl acetate
+T1465	REACTION_PRODUCT 91447 91454	product
+T1466	YIELD_OTHER 91537 91543	115 mg
+T1467	YIELD_PERCENT 91545 91549	93 %
+T1468	REACTION_PRODUCT 91579 91586	product
+T1469	STARTING_MATERIAL 91614 91639	4-chloropyrimidin-2-amine
+T1470	STARTING_MATERIAL 91661 91693	3-methoxyazetidine hydrochloride
+T1471	REAGENT_CATALYST 91718 91743	N,N-diisopropylethylamine
+T1472	OTHER_COMPOUND 91857 91870	ethyl acetate
+T1473	YIELD_OTHER 91894 91900	179 mg
+T1474	YIELD_PERCENT 91902 91906	43 %
+T1475	REACTION_PRODUCT 91940 92010	7-(3-Methoxvazetidin-l-vl)-2-(4-methoxvphenvl)imidazo|T,2-alpvrimidine
+T1476	REACTION_PRODUCT 92015 92022	product
+T1477	STARTING_MATERIAL 92050 92093	4-(3-methoxyazetidin-l-yl)pyrimidin-2-amine
+T1478	STARTING_MATERIAL 92119 92154	2-bromo-l-(4-methoxyphenyl)ethanone
+T1479	OTHER_COMPOUND 92284 92294	silica gel
+T1480	OTHER_COMPOUND 92301 92316	dichloromethane
+T1481	OTHER_COMPOUND 92317 92325	methanol
+T1482	YIELD_OTHER 92359 92364	54 mg
+T1483	YIELD_PERCENT 92366 92370	63 %
+T1484	REACTION_PRODUCT 92377 92384	product
+T1485	STARTING_MATERIAL 92412 92443	N4-methylpyrimidine-2,4-diamine
+T1486	STARTING_MATERIAL 92486 92511	2-bromo-l-p-tolylethanone
+T1487	YIELD_OTHER 92607 92612	38 mg
+T1488	YIELD_PERCENT 92614 92618	40 %
+T1489	REACTION_PRODUCT 92655 92723	2-(4-Methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine ' n^n^n/
+T1490	REACTION_PRODUCT 92730 92737	product
+T1491	STARTING_MATERIAL 92765 92796	N4-methylpyrimidine-2,4-diamine
+T1492	STARTING_MATERIAL 92840 92875	2-bromo-l-(4-methoxyphenyl)ethanone
+T1493	YIELD_OTHER 92968 92974	284 mg
+T1494	YIELD_PERCENT 92976 92980	69 %
+T1495	REACTION_PRODUCT 92987 92994	product
+T1496	STARTING_MATERIAL 93022 93053	N4-methylpyrimidine-2,4-diamine
+T1497	STARTING_MATERIAL 93096 93140	l-(benzo[d][l,3]dioxol-5-yl)-2-bromoethanone
+T1498	YIELD_OTHER 93239 93244	57 mg
+T1499	YIELD_PERCENT 93246 93250	53 %
+T1500	REACTION_PRODUCT 93280 93287	product
+T1501	STARTING_MATERIAL 93315 93351	N4,N4-dimethylpyrimidine-2,4-diamine
+T1502	STARTING_MATERIAL 93396 93429	2-bromo-l-(thiophen-3-yl)ethanone
+T1503	YIELD_OTHER 93521 93526	40 mg
+T1504	YIELD_PERCENT 93528 93532	23 %
+T1505	REACTION_PRODUCT 93539 93546	product
+T1506	STARTING_MATERIAL 93574 93624	N4-(2-fluoroethyl)-N4-methylpyrimidine-2,4-diamine
+T1507	STARTING_MATERIAL 93668 93693	2-bromo-1-p-tolylethanone
+T1508	YIELD_OTHER 93786 93792	5.4 mg
+T1509	YIELD_PERCENT 93794 93797	6 %
+T1510	REACTION_PRODUCT 93804 93811	product
+T1511	STARTING_MATERIAL 93839 93889	N4-(2-fluoroethyl)-N4-methylpyrimidine-2,4-diamine
+T1512	STARTING_MATERIAL 93933 93977	l-(benzo[d][l,3]dioxol-5-yl)-2-bromoethanone
+T1513	YIELD_OTHER 94076 94081	43 mg
+T1514	YIELD_PERCENT 94083 94087	44 %
+T1515	EXAMPLE_LABEL 94121 94123	88
+T1516	REACTION_PRODUCT 94128 94135	product
+T1517	STARTING_MATERIAL 94163 94213	N4-(2-fluoroethyl)-N4-methylpyrimidine-2,4-diamine
+T1518	STARTING_MATERIAL 94257 94282	2-bromo-1-m-tolylethanone
+T1519	YIELD_OTHER 94381 94385	5 mg
+T1520	YIELD_PERCENT 94387 94390	5 %
+T1521	EXAMPLE_LABEL 94398 94399	1
+T1522	REACTION_PRODUCT 94401 94444	4-(3-Methvlazetidin-1 -vllpvrimidin-2-amine
+T1523	REACTION_PRODUCT 94449 94456	product
+T1524	STARTING_MATERIAL 94484 94509	4-chloropyrimidin-2-amine
+T1525	STARTING_MATERIAL 94532 94566	3-methylazetidine benzenesulfonate
+T1526	REAGENT_CATALYST 94591 94616	N,N-diisopropylethylamine
+T1527	OTHER_COMPOUND 94741 94754	ethyl acetate
+T1528	YIELD_OTHER 94778 94784	112 mg
+T1529	YIELD_PERCENT 94786 94790	33 %
+T1530	EXAMPLE_LABEL 94821 94822	2
+T1531	REACTION_PRODUCT 94824 94893	2-(4-Methoxvphenvl)-7-(3-methvlazetidin-l-vl)imidazo|T,2-alpvrimidine
+T1532	REACTION_PRODUCT 94898 94905	product
+T1533	STARTING_MATERIAL 94933 94975	4-(3-methylazetidin-l-yl)pyrimidin-2-amine
+T1534	STARTING_MATERIAL 95001 95037	2-bromo- l-(4-methoxyphenyl)ethanone
+T1535	OTHER_COMPOUND 95167 95177	silica gel
+T1536	OTHER_COMPOUND 95184 95199	dichloromethane
+T1537	OTHER_COMPOUND 95200 95208	methanol
+T1538	YIELD_OTHER 95242 95247	68 mg
+T1539	YIELD_PERCENT 95249 95253	77 %
+T1540	REACTION_PRODUCT 95260 95267	product
+T1541	STARTING_MATERIAL 95295 95326	N4-methylpyrimidine-2,4-diamine
+T1542	STARTING_MATERIAL 95370 95413	2-bromo-l-(4-(dimethylamino)phenyl)ethanone
+T1543	YIELD_OTHER 95506 95512	168 mg
+T1544	YIELD_PERCENT 95514 95518	78 %
+T1545	STARTING_MATERIAL 95583 95626	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T1546	STARTING_MATERIAL 95669 95712	2-bromo-l-(4-(dimethylamino)phenyl)ethanone
+T1547	YIELD_OTHER 95812 95817	13 mg
+T1548	YIELD_PERCENT 95819 95823	15 %
+T1549	REACTION_PRODUCT 95853 95860	product
+T1550	STARTING_MATERIAL 95888 95938	N4-(2-fluoroethyl)-N4-methylpyrimidine-2,4-diamine
+T1551	STARTING_MATERIAL 95983 96026	2-bromo-l-(4-(dimethylamino)phenyl)ethanone
+T1552	OTHER_COMPOUND 96146 96159	diethyl ether
+T1553	OTHER_COMPOUND 96214 96224	silica gel
+T1554	OTHER_COMPOUND 96243 96250	heptane
+T1555	OTHER_COMPOUND 96251 96264	ethyl acetate
+T1556	YIELD_OTHER 96292 96297	42 mg
+T1557	YIELD_PERCENT 96299 96303	19 %
+T1558	REACTION_PRODUCT 96310 96317	product
+T1559	STARTING_MATERIAL 96345 96370	4-chloropyrimidin-2-amine
+T1560	STARTING_MATERIAL 96395 96418	Νmethylcyclopropanamine
+T1561	OTHER_COMPOUND 96522 96535	ethyl acetate
+T1562	YIELD_OTHER 96552 96558	237 mg
+T1563	YIELD_PERCENT 96560 96564	62 %
+T1564	REACTION_PRODUCT 96598 96671	N-Cvclopropvl-2-(4-methoxvphenvl)-N-methvlimidazoll,2-alpvrimidin-7-amine
+T1565	REACTION_PRODUCT 96676 96683	product
+T1566	STARTING_MATERIAL 96711 96757	N4-cyclopropyl-N4-methylpyrimidine-2,4-diamine
+T1567	STARTING_MATERIAL 96781 96816	2-bromo-l-(4-methoxyphenyl)ethanone
+T1568	OTHER_COMPOUND 96919 96926	acetone
+T1569	YIELD_OTHER 96947 96952	67 mg
+T1570	YIELD_PERCENT 96954 96958	59 %
+T1571	REACTION_PRODUCT 96986 96993	product
+T1572	STARTING_MATERIAL 97021 97055	4-(azetidin-l-yl)pyrimidin-2-amine
+T1573	STARTING_MATERIAL 97099 97124	2-bromo-l-p-tolylethanone
+T1574	OTHER_COMPOUND 97256 97266	silica gel
+T1575	OTHER_COMPOUND 97273 97288	dichloromethane
+T1576	OTHER_COMPOUND 97289 97297	methanol
+T1577	OTHER_COMPOUND 97335 97348	ethyl acetate
+T1578	OTHER_COMPOUND 97368 97376	methanol
+T1579	YIELD_OTHER 97397 97402	75 mg
+T1580	YIELD_PERCENT 97404 97408	71 %
+T1581	REACTION_PRODUCT 97438 97445	product
+T1582	STARTING_MATERIAL 97473 97507	4-(azetidin-l-yl)pyrimidin-2-amine
+T1583	STARTING_MATERIAL 97551 97576	2-bromo-l-m-tolylethanone
+T1584	OTHER_COMPOUND 97706 97716	silica gel
+T1585	OTHER_COMPOUND 97723 97738	dichloromethane
+T1586	OTHER_COMPOUND 97739 97747	methanol
+T1587	YIELD_OTHER 97781 97786	65 mg
+T1588	YIELD_PERCENT 97788 97792	61 %
+T1589	EXAMPLE_LABEL 97838 97839	1
+T1590	REACTION_PRODUCT 97841 97881	N4-(2-Fluoroethvl)pvrimidine-2.4-diamine
+T1591	STARTING_MATERIAL 97908 97933	4-chloropyrimidin-2-amine
+T1592	SOLVENT 97957 97981	N-metyhl-2-pyrrolidinone
+T1593	REAGENT_CATALYST 98000 98019	potassium carbonate
+T1594	STARTING_MATERIAL 98044 98076	2-fluoroethanamine hydrochloride
+T1595	TEMPERATURE 98133 98139	150 °C
+T1596	TIME 98172 98178	10 min
+T1597	OTHER_COMPOUND 98212 98217	water
+T1598	OTHER_COMPOUND 98230 98234	NaOH
+T1599	OTHER_COMPOUND 98265 98278	ethyl acetate
+T1600	REACTION_PRODUCT 98352 98359	product
+T1601	OTHER_COMPOUND 98423 98433	silica gel
+T1602	OTHER_COMPOUND 98440 98455	dichloromethane
+T1603	OTHER_COMPOUND 98456 98464	methanol
+T1604	OTHER_COMPOUND 98465 98472	ammonia
+T1605	YIELD_OTHER 98500 98505	70 mg
+T1606	YIELD_PERCENT 98507 98511	12 %
+T1607	REACTION_PRODUCT 98545 98621	2-r4-(Dimethylamino)phenyll-N-(2-fluoroethvl)imidazori,2-alpvrimidin-7-amine
+T1608	REACTION_PRODUCT 98626 98633	product
+T1609	STARTING_MATERIAL 98661 98701	N4-(2-fluoroethyl)pyrimidine-2,4-diamine
+T1610	STARTING_MATERIAL 98725 98768	2-bromo-l-(4-(dimethylamino)phenyl)ethanone
+T1611	YIELD_OTHER 98861 98866	24 mg
+T1612	YIELD_PERCENT 98868 98872	18 %
+T1613	REACTION_PRODUCT 98902 98909	product
+T1614	STARTING_MATERIAL 98937 98992	4-(7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1615	STARTING_MATERIAL 99026 99063	fluoromethyl 4-methylbenzenesulfonate
+T1616	REAGENT_CATALYST 99088 99104	cesium carbonate
+T1617	OTHER_COMPOUND 99227 99237	silica gel
+T1618	OTHER_COMPOUND 99244 99259	dichloromethane
+T1619	OTHER_COMPOUND 99260 99268	methanol
+T1620	YIELD_OTHER 99301 99306	67 mg
+T1621	YIELD_PERCENT 99308 99312	47 %
+T1622	REACTION_PRODUCT 99349 99414	2-Methoxy-4-[7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl]phenol /
+T1623	REACTION_PRODUCT 99423 99430	product
+T1624	STARTING_MATERIAL 99458 99489	N4-methylpyrimidine-2,4-diamine
+T1625	STARTING_MATERIAL 99532 99577	2-bromo-l-(4-hydroxy-3-methoxyphenyl)ethanone
+T1626	TIME 99684 99688	72 h
+T1627	YIELD_OTHER 99707 99712	56 mg
+T1628	YIELD_PERCENT 99714 99718	37 %
+T1629	REACTION_PRODUCT 99748 99755	product
+T1630	STARTING_MATERIAL 99783 99814	N4-methylpyrimidine-2,4-diamine
+T1631	STARTING_MATERIAL 99857 99890	2-bromo-l-(3-bromophenyl)ethanone
+T1632	TIME 99996 100000	72 h
+T1633	YIELD_OTHER 100019 100024	13 mg
+T1634	YIELD_PERCENT 100026 100030	26 %
+T1635	STARTING_MATERIAL 100084 100154	7-(4-fluoropiperidin-l-yl)-2-(4-methoxyphenyl)imidazo[l,2-ajpyrimidine
+T1636	REAGENT_CATALYST 100179 100198	Crabtree’s catalyst
+T1637	SOLVENT 100237 100252	dichloromethane
+T1638	OTHER_COMPOUND 100293 100300	tritium
+T1639	OTHER_COMPOUND 100311 100320	RC-TRITEC
+T1640	REAGENT_CATALYST 100356 100367	Tritium gas
+T1641	TIME 100441 100448	4 hours
+T1642	OTHER_COMPOUND 100469 100476	tritium
+T1643	OTHER_COMPOUND 100525 100533	nitrogen
+T1644	OTHER_COMPOUND 100549 100556	tritium
+T1645	OTHER_COMPOUND 100626 100633	tritium
+T1646	OTHER_COMPOUND 100678 100685	tritium
+T1647	OTHER_COMPOUND 100738 100745	ethanol
+T1648	OTHER_COMPOUND 100750 100755	water
+T1649	OTHER_COMPOUND 100769 100776	toluene
+T1650	OTHER_COMPOUND 100831 100838	ethanol
+T1651	OTHER_COMPOUND 100869 100874	SCX-2
+T1652	OTHER_COMPOUND 100928 100932	Μ℮ΟΗ
+T1653	OTHER_COMPOUND 100984 100987	ΝΗ3
+T1654	OTHER_COMPOUND 100991 100995	Μ℮ΟΗ
+T1655	OTHER_COMPOUND 101180 101192	acetonitrile
+T1656	OTHER_COMPOUND 101194 101199	water
+T1657	YIELD_OTHER 101237 101243	24 mCi
+T1658	REACTION_PRODUCT 101252 101266	title compound
+T1659	STARTING_MATERIAL 101487 101507	[3H3]-methylnosylate
+T1660	SOLVENT 101511 101518	toluene
+T1661	OTHER_COMPOUND 101619 101624	argon
+T1662	STARTING_MATERIAL 101640 101695	4-[7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl]phenol
+T1663	SOLVENT 101720 101723	DMF
+T1664	REAGENT_CATALYST 101737 101753	cesium carbonate
+T1665	TEMPERATURE 101856 101861	55 °C
+T1666	TIME 101866 101869	3 h
+T1667	OTHER_COMPOUND 101909 101924	dichloromethane
+T1668	OTHER_COMPOUND 102127 102139	acetonitrile
+T1669	OTHER_COMPOUND 102141 102146	water
+T1670	REACTION_PRODUCT 102200 102216	desired compound
+T1671	YIELD_PERCENT 102262 102266	93 %
+T1672	STARTING_MATERIAL 102356 102376	[3H3]-methylnosylate
+T1673	SOLVENT 102380 102387	toluene
+T1674	OTHER_COMPOUND 102487 102492	argon
+T1675	STARTING_MATERIAL 102508 102558	2-(3-methylphenyl)imidazo[l,2-a]pyrimidine-7-amine
+T1676	SOLVENT 102581 102584	THF
+T1677	REAGENT_CATALYST 102599 102615	cesium carbonate
+T1678	OTHER_COMPOUND 102727 102730	THF
+T1679	TIME 102812 102816	24 h
+T1680	OTHER_COMPOUND 102869 102884	dichloromethane
+T1681	OTHER_COMPOUND 103087 103099	acetonitrile
+T1682	OTHER_COMPOUND 103101 103106	water
+T1683	REACTION_PRODUCT 103163 103179	desired compound
+T1684	OTHER_COMPOUND 103337 103355	[nC]carbon dioxide
+T1685	STARTING_MATERIAL 103383 103426	2-(ΐη-tolyl)imidazo[l,2-a]pyrimidin-7-amine
+T1686	SOLVENT 103467 103484	dimethylsulfoxide
+T1687	REAGENT_CATALYST 103497 103513	sodium hydroxide
+T1688	REACTION_PRODUCT 103526 103549	Carbon-11 methyl iodide
+T1689	REACTION_PRODUCT 103551 103558	[nC]MeI
+T1690	OTHER_COMPOUND 103587 103605	[nC]carbon dioxide
+T1691	STARTING_MATERIAL 103610 103621	[nC]methane
+T1692	TIME 103678 103688	10 minutes
+T1693	OTHER_COMPOUND 103690 103697	[nC]MeI
+T1694	TEMPERATURE 103842 103847	80 °C
+T1695	TIME 103852 103861	3 minutes
+T1696	OTHER_COMPOUND 103914 103919	water
+T1697	OTHER_COMPOUND 104021 104033	acetonitrile
+T1698	OTHER_COMPOUND 104034 104039	water
+T1699	OTHER_COMPOUND 104047 104063	ammonium formate
+T1700	TIME 104197 104208	8.5 minutes
+T1701	OTHER_COMPOUND 104232 104237	water
+T1702	REACTION_PRODUCT 104267 104280	ascorbic acid
+T1703	OTHER_COMPOUND 104381 104386	water
+T1704	OTHER_COMPOUND 104461 104468	ethanol
+T1705	OTHER_COMPOUND 104495 104501	saline
+T1706	OTHER_COMPOUND 104702 104715	acetronitrile
+T1707	OTHER_COMPOUND 104723 104726	TEA
+T1708	REACTION_PRODUCT 104888 104943	N-[nC]methyl-2-(m-tolyl)imidazo[l,2-a]pyrimidin-7-amine
+T1709	YIELD_PERCENT 105001 105006	7.5 %
+T1710	TIME 105016 105026	32 minutes
+T1711	TIME 105148 105155	minutes
+T1712	OTHER_COMPOUND 105176 105194	[nC]carbon dioxide
+T1713	STARTING_MATERIAL 105211 105220	precursor
+T1714	STARTING_MATERIAL 105222 105280	4-[7-(cyclopropylamino)imidazo[l,2-a]pyrimidin-2-yl]phenol
+T1715	SOLVENT 105321 105338	dimethylsulfoxide
+T1716	REAGENT_CATALYST 105349 105363	sodium hydride
+T1717	STARTING_MATERIAL 105390 105413	Carbon-11 methyl iodide
+T1718	STARTING_MATERIAL 105415 105422	[nC]MeI
+T1719	OTHER_COMPOUND 105451 105469	[nC]carbon dioxide
+T1720	STARTING_MATERIAL 105474 105485	[nC]methane
+T1721	TIME 105542 105552	10 minutes
+T1722	REAGENT_CATALYST 105554 105561	[nC]MeI
+T1723	TEMPERATURE 105706 105711	80 °C
+T1724	TIME 105716 105725	3 minutes
+T1725	OTHER_COMPOUND 105898 105905	ethanol
+T1726	OTHER_COMPOUND 105914 105917	TEA
+T1727	TIME 106057 106066	7 minutes
+T1728	OTHER_COMPOUND 106090 106095	water
+T1729	REACTION_PRODUCT 106125 106138	ascorbic acid
+T1730	OTHER_COMPOUND 106240 106245	water
+T1731	OTHER_COMPOUND 106277 106290	ascorbic acid
+T1732	OTHER_COMPOUND 106366 106373	ethanol
+T1733	OTHER_COMPOUND 106400 106406	saline
+T1734	OTHER_COMPOUND 106599 106611	acetonitrile
+T1735	OTHER_COMPOUND 106620 106623	TEA
+T1736	REACTION_PRODUCT 106785 106854	N-cyclopropyl-2-(4-[11C]methoxyphenyl)imidazo[l,2-a]pyrimidin-7-amine
+T1737	YIELD_PERCENT 107050 107056	97.5 %
+T1738	EXAMPLE_LABEL 107066 107069	105
+T1739	STARTING_MATERIAL 107087 107175	2-[4-[7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl]phenoxy]ethyl 4-methylbenzenesulfonate
+T1740	OTHER_COMPOUND 107215 107232	dimethylsulfoxide
+T1741	OTHER_COMPOUND 107280 107287	aqueous
+T1742	OTHER_COMPOUND 107288 107301	[18F]fluoride
+T1743	OTHER_COMPOUND 107341 107345	[180
+T1744	OTHER_COMPOUND 107356 107361	water
+T1745	STARTING_MATERIAL 107472 107481	Krytpofix
+T1746	REAGENT_CATALYST 107488 107507	potassium carbonate
+T1747	STARTING_MATERIAL 107518 107527	Kryptofix
+T1748	REAGENT_CATALYST 107544 107563	potassium carbonate
+T1749	SOLVENT 107591 107603	acetonitrile
+T1750	OTHER_COMPOUND 107604 107609	water
+T1751	SOLVENT 107653 107665	acetonitrile
+T1752	OTHER_COMPOUND 107671 107679	fluoride
+T1753	TEMPERATURE 107718 107724	110 °C
+T1754	OTHER_COMPOUND 107729 107737	nitrogen
+T1755	OTHER_COMPOUND 107796 107808	acetonitrile
+T1756	OTHER_COMPOUND 107942 107945	air
+T1757	TIME 107950 107959	2 minutes
+T1758	TEMPERATURE 108008 108010	50
+T1759	TIME 108021 108031	80 seconds
+T1760	OTHER_COMPOUND 108083 108088	water
+T1761	OTHER_COMPOUND 108212 108220	methanol
+T1762	OTHER_COMPOUND 108221 108241	triethylamine buffer
+T1763	OTHER_COMPOUND 108427 108501	2-[4-(2-[18F]fluoroethoxy)phenyl]-N-methyl-imidazo[l,2-a]pyrimidin-7-amine
+T1764	OTHER_COMPOUND 108541 108546	water
+T1765	OTHER_COMPOUND 108565 108578	ascorbic acid
+T1766	OTHER_COMPOUND 108721 108726	water
+T1767	OTHER_COMPOUND 108762 108769	ethanol
+T1768	OTHER_COMPOUND 108802 108808	saline
+T1769	OTHER_COMPOUND 109031 109043	acetonitrile
+T1770	OTHER_COMPOUND 109044 109047	TEA
+T1771	REACTION_PRODUCT 109278 109352	2-[4-(2-[18F]fluoroethoxy)phenyl]-N-methyl-imidazo[l,2-a]pyrimidin-7-amine
+T1772	REACTION_PRODUCT 109535 109542	product
+T1773	STARTING_MATERIAL 109570 109613	4-(4-fluoropiperidin-l-yl)pyrimidin-2-amine
+T1774	REACTION_PRODUCT 109618 109663	2-bromo-l-(pyrazin-2-yl)ethanone hydrobromide
+T1775	STARTING_MATERIAL 109675 109715	l-(benzo[d]thiazol-2-yl)-2-bromoethanone
+T1776	YIELD_OTHER 109788 109793	25 mg
+T1777	YIELD_PERCENT 109795 109799	31 %
+T1778	REACTION_PRODUCT 109837 109912	[4-[7-(Methylamino)imidazo[l,2-a]pyrimidin-2-yl]phenyl]methanol acetic acid
+T1779	STARTING_MATERIAL 109937 110009	4-(7-methylamino-imidazo[l,2-a]pyrimidin-2-yl)-benzoic acid methyl ester
+T1780	SOLVENT 110046 110049	THF
+T1781	REAGENT_CATALYST 110066 110092	diisobutylaluminum hydride
+T1782	SOLVENT 110110 110117	toluene
+T1783	TEMPERATURE 110143 110147	0 °C
+T1784	TEMPERATURE 110189 110194	25 °C
+T1785	TIME 110199 110202	1 h
+T1786	REAGENT_CATALYST 110236 110262	diisobutylaluminum hydride
+T1787	SOLVENT 110280 110287	toluene
+T1788	TEMPERATURE 110313 110317	0 °C
+T1789	TEMPERATURE 110350 110355	25 °C
+T1790	TIME 110360 110366	30 min
+T1791	OTHER_COMPOUND 110408 110415	aqueous
+T1792	OTHER_COMPOUND 110416 110421	NH4CI
+T1793	OTHER_COMPOUND 110513 110517	Μ℮ΟΗ
+T1794	OTHER_COMPOUND 110521 110536	dichloromethane
+T1795	OTHER_COMPOUND 110572 110577	brine
+T1796	OTHER_COMPOUND 110608 110614	Na2SC>
+T1797	REACTION_PRODUCT 110708 110715	product
+T1798	YIELD_OTHER 110740 110745	30 mg
+T1799	YIELD_PERCENT 110747 110751	33 %
+T1800	EXAMPLE_LABEL 110785 110788	108
+T1801	REACTION_PRODUCT 110793 110800	product
+T1802	STARTING_MATERIAL 110828 110859	N4-methylpyrimidine-2,4-diamine
+T1803	STARTING_MATERIAL 110864 110908	2-bromo-l-(3-fluoro-4-methoxyphenyl)ethanone
+T1804	OTHER_COMPOUND 110920 110944	2-bromo-l-phenylethanone
+T1805	YIELD_OTHER 111018 111023	65 mg
+T1806	YIELD_PERCENT 111025 111029	45 %
+T1807	REACTION_PRODUCT 111059 111066	product
+T1808	STARTING_MATERIAL 111094 111125	N4-methylpyrimidine-2,4-diamine
+T1809	STARTING_MATERIAL 111130 111166	Ν-(4-(2-bromoacetyl)phenyl)acetamide
+T1810	STARTING_MATERIAL 111178 111202	2-bromo-l-phenylethanone
+T1811	YIELD_OTHER 111276 111281	70 mg
+T1812	YIELD_PERCENT 111283 111287	48 %
+T1813	REACTION_PRODUCT 111317 111324	product
+T1814	STARTING_MATERIAL 111352 111383	N4-methylpyrimidine-2,4-diamine
+T1815	STARTING_MATERIAL 111388 111418	5-(2-bromoacetyl)indolin-2-one
+T1816	OTHER_COMPOUND 111430 111454	2-bromo-l-phenylethanone
+T1817	YIELD_OTHER 111534 111540	137 mg
+T1818	YIELD_PERCENT 111542 111546	93 %
+T1819	REACTION_PRODUCT 111584 111654	7-(Azetidin-l-yl)-2-(4-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidine
+T1820	EXAMPLE_LABEL 111660 111662	11
+T1821	REACTION_PRODUCT 111723 111730	product
+T1822	STARTING_MATERIAL 111758 111792	4-(azetidin-l-yl)pyrimidin-2-amine
+T1823	STARTING_MATERIAL 111797 111832	2-bromo-l-(4-hydroxyphenyl)ethanone
+T1824	STARTING_MATERIAL 111844 111879	2-bromo-l-(4-methoxyphenyl)ethanone
+T1825	YIELD_OTHER 111961 111967	302 mg
+T1826	YIELD_PERCENT 111969 111973	77 %
+T1827	EXAMPLE_LABEL 112004 112005	2
+T1828	REACTION_PRODUCT 112007 112077	7-(Azetidin-l-vl)-2-(4-(2-fluoroethoxv)phenvl)imidazori,2-alpvrimidine
+T1829	REACTION_PRODUCT 112082 112089	product
+T1830	STARTING_MATERIAL 112117 112172	4-[7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl]phenol
+T1831	REACTION_PRODUCT 112184 112241	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1832	STARTING_MATERIAL 112246 112268	l-bromo-2-fluoroethane
+T1833	YIELD_OTHER 112347 112352	73 mg
+T1834	YIELD_PERCENT 112354 112358	50 %
+T1835	REACTION_PRODUCT 112388 112395	product
+T1836	STARTING_MATERIAL 112423 112478	4-[7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl]phenol
+T1837	STARTING_MATERIAL 112490 112547	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1838	STARTING_MATERIAL 112552 112574	l-fluoro-3-iodopropane
+T1839	OTHER_COMPOUND 112586 112608	l-bromo-2-fluoroethane
+T1840	YIELD_OTHER 112688 112693	18 mg
+T1841	YIELD_PERCENT 112695 112699	10 %
+T1842	REACTION_PRODUCT 112737 112808	7-(Azetidin-l-yl)-2-(4-(3-fluoropropoxy)phenyl)imidazo[l,2-a]pyrimidine
+T1843	REACTION_PRODUCT 112817 112820	113
+T1844	REACTION_PRODUCT 112821 112882	7-(Azetidin-l-yl)-2-(3-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T1845	REACTION_PRODUCT 112887 112894	product
+T1846	STARTING_MATERIAL 112922 112956	4-(azetidin-l-yl)pyrimidin-2-amine
+T1847	STARTING_MATERIAL 112961 112996	2-bromo-l-(3-methoxyphenyl)ethanone
+T1848	STARTING_MATERIAL 113008 113043	2-bromo-l-(4-methoxyphenyl)ethanone
+T1849	YIELD_OTHER 113123 113128	18 mg
+T1850	YIELD_PERCENT 113130 113134	15 %
+T1851	REACTION_PRODUCT 113172 113247	[3-[7-(Methylamino)imidazo[l,2-a]pyrimidin-2-yl]phenyl]methanol acetic acid
+T1852	REACTION_PRODUCT 113255 113258	ΗΟ^
+T1853	EXAMPLE_LABEL 113267 113268	1
+T1854	REACTION_PRODUCT 113270 113332	Methyl 3-r7-(methvlamino)imidazori,2-alpvrimidin-2-yllbenzoate
+T1855	REACTION_PRODUCT 113337 113344	product
+T1856	STARTING_MATERIAL 113421 113453	Ν4-methyl-pyrimidine-2,4-diamine
+T1857	STARTING_MATERIAL 113497 113540	3-(2-bromo-acetyl)benzoic acid methyl ester
+T1858	YIELD_OTHER 113576 113582	135 mg
+T1859	YIELD_PERCENT 113584 113588	12 %
+T1860	EXAMPLE_LABEL 113619 113620	2
+T1861	REACTION_PRODUCT 113622 113697	r3-r7-(Methvlamino)imidazori,2-alpvrimidin-2-vllphenyllmethanol acetic acid
+T1862	REACTION_PRODUCT 113709 113716	product
+T1863	STARTING_MATERIAL 113793 113855	methyl 3-[7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl]benzoate
+T1864	YIELD_OTHER 113893 113898	45 mg
+T1865	YIELD_PERCENT 113900 113904	37 %
+T1866	REACTION_PRODUCT 113934 113941	product
+T1867	STARTING_MATERIAL 113969 114003	4-(azetidin-l-yl)pyrimidin-2-amine
+T1868	STARTING_MATERIAL 114008 114043	2-bromo-l-(3-hydroxyphenyl)ethanone
+T1869	OTHER_COMPOUND 114055 114090	2-bromo-l-(4-methoxyphenyl)ethanone
+T1870	YIELD_OTHER 114170 114176	445 mg
+T1871	YIELD_PERCENT 114178 114182	67 %
+T1872	REACTION_PRODUCT 114212 114219	product
+T1873	STARTING_MATERIAL 114247 114302	3-[7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl]phenol
+T1874	STARTING_MATERIAL 114314 114371	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1875	STARTING_MATERIAL 114376 114398	l-bromo-2-fluoroethane
+T1876	YIELD_OTHER 114478 114483	76 mg
+T1877	YIELD_PERCENT 114485 114489	58 %
+T1878	STARTING_MATERIAL 114550 114614	N-cyclopropyl-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidin-7-amine
+T1879	SOLVENT 114672 114675	DMF
+T1880	REAGENT_CATALYST 114677 114691	Sodium hydride
+T1881	SOLVENT 114712 114723	mineral oil
+T1882	TEMPERATURE 114793 114809	room temperature
+T1883	TIME 114814 114820	45 min
+T1884	STARTING_MATERIAL 114828 114850	1-bromo-2-fluoroethane
+T1885	TEMPERATURE 114929 114945	room temperature
+T1886	REAGENT_CATALYST 114965 114979	sodium hydride
+T1887	SOLVENT 115000 115011	mineral oil
+T1888	TEMPERATURE 115082 115098	room temperature
+T1889	TIME 115103 115109	30 min
+T1890	STARTING_MATERIAL 115117 115140	1 -bromo-2-fluoroethane
+T1891	TEMPERATURE 115220 115236	room temperature
+T1892	TIME 115241 115244	3 h
+T1893	OTHER_COMPOUND 115285 115290	water
+T1894	OTHER_COMPOUND 115310 115323	ethyl acetate
+T1895	OTHER_COMPOUND 115367 115380	ethyl acetate
+T1896	OTHER_COMPOUND 115424 115429	water
+T1897	OTHER_COMPOUND 115444 115449	brine
+T1898	OTHER_COMPOUND 115496 115510	sodium sulfate
+T1899	OTHER_COMPOUND 115577 115592	dichloromethane
+T1900	OTHER_COMPOUND 115593 115601	methanol
+T1901	REACTION_PRODUCT 115632 115646	title compound
+T1902	YIELD_OTHER 115648 115653	41 mg
+T1903	YIELD_PERCENT 115655 115659	39 %
+T1904	REACTION_PRODUCT 115727 115734	product
+T1905	STARTING_MATERIAL 115762 115793	N4-methylpyrimidine-2,4-diamine
+T1906	OTHER_COMPOUND 115798 115833	2-bromo-l-(3-methoxyphenyl)ethanone
+T1907	OTHER_COMPOUND 115845 115869	2-bromo-l-phenylethanone
+T1908	YIELD_OTHER 115941 115946	93 mg
+T1909	YIELD_PERCENT 115948 115952	73 %
+T1910	REACTION_PRODUCT 115982 115989	product
+T1911	REACTION_PRODUCT 116017 116072	3-(7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1912	REACTION_PRODUCT 116077 116114	fluoromethyl 4-methylbenzenesulfonate
+T1913	YIELD_OTHER 116180 116185	34 mg
+T1914	YIELD_PERCENT 116187 116191	19 %
+T1915	REACTION_PRODUCT 116221 116228	product
+T1916	STARTING_MATERIAL 116256 116290	4-(azetidin-l-yl)pyrimidin-2-amine
+T1917	STARTING_MATERIAL 116295 116329	2-bromo-l-(4-fluorophenyl)ethanone
+T1918	STARTING_MATERIAL 116341 116376	2-bromo-l-(4-methoxyphenyl)ethanone
+T1919	YIELD_OTHER 116463 116468	61 mg
+T1920	YIELD_PERCENT 116470 116474	54 %
+T1921	REACTION_PRODUCT 116504 116511	product
+T1922	STARTING_MATERIAL 116539 116573	4-(azetidin-l-yl)pyrimidin-2-amine
+T1923	STARTING_MATERIAL 116578 116612	2-bromo-l-(3-fluorophenyl)ethanone
+T1924	OTHER_COMPOUND 116624 116659	2-bromo-l-(4-methoxyphenyl)ethanone
+T1925	YIELD_OTHER 116741 116746	58 mg
+T1926	YIELD_PERCENT 116748 116752	58 %
+T1927	REACTION_PRODUCT 116782 116789	product
+T1928	STARTING_MATERIAL 116817 116851	4-(azetidin-l-yl)pyrimidin-2-amine
+T1929	STARTING_MATERIAL 116856 116895	2-bromo-l-(3,5-dimethoxyphenyl)ethanone
+T1930	OTHER_COMPOUND 116907 116942	2-bromo-l-(4-methoxyphenyl)ethanone
+T1931	YIELD_OTHER 117017 117022	55 mg
+T1932	YIELD_PERCENT 117024 117028	46 %
+T1933	REACTION_PRODUCT 117058 117065	product
+T1934	REACTION_PRODUCT 117093 117124	N4-methylpyrimidine-2,4-diamine
+T1935	STARTING_MATERIAL 117129 117164	2-bromo-l-(4-hydroxyphenyl)ethanone
+T1936	OTHER_COMPOUND 117176 117200	2-bromo-l-phenylethanone
+T1937	YIELD_OTHER 117275 117281	647 mg
+T1938	YIELD_PERCENT 117283 117287	91 %
+T1939	REACTION_PRODUCT 117317 117324	product
+T1940	STARTING_MATERIAL 117352 117405	4-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1941	STARTING_MATERIAL 117417 117474	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1942	OTHER_COMPOUND 117479 117501	l-fluoro-3-iodopropane
+T1943	STARTING_MATERIAL 117513 117535	l-bromo-2-fluoroethane
+T1944	YIELD_OTHER 117617 117622	73 mg
+T1945	YIELD_PERCENT 117624 117628	42 %
+T1946	REACTION_PRODUCT 117666 117719	3-(7-(Methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1947	REACTION_PRODUCT 117747 117754	product
+T1948	STARTING_MATERIAL 117782 117813	N4-methylpyrimidine-2,4-diamine
+T1949	STARTING_MATERIAL 117818 117853	2-bromo-l-(3-hydroxyphenyl)ethanone
+T1950	STARTING_MATERIAL 117865 117889	2-bromo-l-phenylethanone
+T1951	YIELD_OTHER 117964 117970	185 mg
+T1952	YIELD_PERCENT 117972 117976	59 %
+T1953	STARTING_MATERIAL 118041 118075	4-(azetidin-l-yl)pyrimidin-2-amine
+T1954	STARTING_MATERIAL 118080 118120	2-bromo-l-(3-(methylthio)phenyl)ethanone
+T1955	OTHER_COMPOUND 118132 118167	2-bromo-l-(4-methoxyphenyl)ethanone
+T1956	YIELD_OTHER 118247 118252	53 mg
+T1957	YIELD_PERCENT 118254 118258	44 %
+T1958	STARTING_MATERIAL 118335 118369	4-(azetidin-l-yl)pyrimidin-2-amine
+T1959	STARTING_MATERIAL 118374 118418	2-bromo-1-(3-methoxy-4-methylphenyl)ethanone
+T1960	STARTING_MATERIAL 118430 118466	2-bromo-1 -(4-methoxyphenyl)ethanone
+T1961	YIELD_OTHER 118546 118550	6 mg
+T1962	YIELD_PERCENT 118552 118555	5 %
+T1963	REACTION_PRODUCT 118585 118592	product
+T1964	STARTING_MATERIAL 118620 118654	4-(azetidin-l-yl)pyrimidin-2-amine
+T1965	STARTING_MATERIAL 118659 118698	2-bromo-1-(3,4-dimethoxyphenyl)ethanone
+T1966	OTHER_COMPOUND 118710 118745	2-bromo-l-(4-methoxyphenyl)ethanone
+T1967	YIELD_OTHER 118825 118830	21 mg
+T1968	YIELD_PERCENT 118832 118836	18 %
+T1969	REACTION_PRODUCT 118874 118942	2-(3-(2-Fluoroethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T1970	REACTION_PRODUCT 118954 118961	product
+T1971	STARTING_MATERIAL 118989 119042	3-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1972	STARTING_MATERIAL 119054 119111	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1973	STARTING_MATERIAL 119116 119138	l-bromo-2-fluoroethane
+T1974	YIELD_OTHER 119218 119223	23 mg
+T1975	YIELD_PERCENT 119225 119229	18 %
+T1976	REACTION_PRODUCT 119283 119290	product
+T1977	STARTING_MATERIAL 119318 119371	3-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1978	STARTING_MATERIAL 119383 119440	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1979	STARTING_MATERIAL 119445 119467	l-fluoro-3-iodopropane
+T1980	OTHER_COMPOUND 119479 119501	l-bromo-2-fluoroethane
+T1981	YIELD_OTHER 119576 119581	29 mg
+T1982	YIELD_PERCENT 119583 119587	21 %
+T1983	REACTION_PRODUCT 119625 119692	2-(3-(Fluoromethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T1984	REACTION_PRODUCT 119699 119700	Η
+T1985	REACTION_PRODUCT 119705 119712	product
+T1986	STARTING_MATERIAL 119740 119793	3-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1987	REACTION_PRODUCT 119805 119860	3-(7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1988	STARTING_MATERIAL 119865 119902	fluoromethyl 4-methylbenzenesulfonate
+T1989	YIELD_OTHER 119969 119974	61 mg
+T1990	YIELD_PERCENT 119976 119980	34 %
+T1991	STARTING_MATERIAL 120045 120098	4-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1992	REACTION_PRODUCT 120110 120165	3-(7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T1993	REACTION_PRODUCT 120170 120207	fluoromethyl 4-methylbenzenesulfonate
+T1994	YIELD_OTHER 120274 120279	36 mg
+T1995	YIELD_PERCENT 120281 120285	20 %
+T1996	REACTION_PRODUCT 120333 120340	product
+T1997	STARTING_MATERIAL 120368 120404	N4-cyclopropylpyrimidine-2,4-diamine
+T1998	REACTION_PRODUCT 120416 120450	4-(azetidin-l-yl)pyrimidin-2-amine
+T1999	STARTING_MATERIAL 120455 120490	2-bromo-l-(3-hydroxyphenyl)ethanone
+T2000	STARTING_MATERIAL 120502 120537	2-bromo-l-(4-methoxyphenyl)ethanone
+T2001	YIELD_OTHER 120619 120625	594 mg
+T2002	YIELD_PERCENT 120627 120631	98 %
+T2003	REACTION_PRODUCT 120669 120742	N-Cyclopropyl-2-(3-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine
+T2004	REACTION_PRODUCT 120749 120756	product
+T2005	STARTING_MATERIAL 120784 120842	3-(7-(cyclopropylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T2006	STARTING_MATERIAL 120854 120911	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T2007	STARTING_MATERIAL 120916 120938	l-bromo-2-fluoroethane
+T2008	YIELD_OTHER 121018 121023	43 mg
+T2009	YIELD_PERCENT 121025 121029	29 %
+T2010	REACTION_PRODUCT 121067 121144	[4-[7-(Dimethylamino)imidazo[l,2-a]pyrimidin-2-yl]phenyl]methanol acetic acid
+T2011	REACTION_PRODUCT 121152 121154	OH
+T2012	REACTION_PRODUCT 121165 121229	Methyl 4-r7-(dimethvlamino)imidazori,2-alpyrimidin-2-vllbenzoate
+T2013	REACTION_PRODUCT 121234 121241	product
+T2014	STARTING_MATERIAL 121318 121320	Ν4
+T2015	STARTING_MATERIAL 121322 121356	N4-dimethyl-pyrimidine-2,4-diamine
+T2016	STARTING_MATERIAL 121401 121445	4-(2-bromo-acetyl)-benzoic acid methyl ester
+T2017	YIELD_OTHER 121482 121488	270 mg
+T2018	YIELD_PERCENT 121490 121494	25 %
+T2019	EXAMPLE_LABEL 121525 121526	2
+T2020	REACTION_PRODUCT 121528 121612	r4-r7-(Dimethvlamino)imidazori,2-alpvrimidin-2-vllphenyllmethanol acetic acid adduct
+T2021	REACTION_PRODUCT 121617 121624	product
+T2022	STARTING_MATERIAL 121701 121765	methyl 4-[7-(dimethylamino)imidazo[l,2-a]pyrimidin-2-yl]benzoate
+T2023	YIELD_OTHER 121811 121816	50 mg
+T2024	YIELD_PERCENT 121818 121822	55 %
+T2025	STARTING_MATERIAL 121865 121898	N4-methyl-pyrimidine-2, 4-diamine
+T2026	SOLVENT 121941 121948	acetone
+T2027	STARTING_MATERIAL 121966 122010	4-(2-bromo-acetyl)-benzoic acid methyl ester
+T2028	TIME 122082 122088	30 min
+T2029	TEMPERATURE 122092 122097	25 °C
+T2030	REAGENT_CATALYST 122125 122146	ρtoluenesulfonic acid
+T2031	TEMPERATURE 122195 122203	refluxed
+T2032	TIME 122208 122211	8 h
+T2033	OTHER_COMPOUND 122323 122330	aqueous
+T2034	OTHER_COMPOUND 122331 122337	NaHCCb
+T2035	OTHER_COMPOUND 122366 122379	ethyl acetate
+T2036	OTHER_COMPOUND 122436 122441	brine
+T2037	OTHER_COMPOUND 122464 122471	Na2SC>4
+T2038	OTHER_COMPOUND 122580 122596	silica gel amine
+T2039	OTHER_COMPOUND 122612 122625	ethyl acetate
+T2040	OTHER_COMPOUND 122629 122635	hexane
+T2041	REACTION_PRODUCT 122649 122656	product
+T2042	YIELD_OTHER 122677 122683	100 mg
+T2043	YIELD_PERCENT 122685 122689	18 %
+T2044	REACTION_PRODUCT 122719 122726	product
+T2045	STARTING_MATERIAL 122754 122812	3-(7-(cyclopropylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T2046	STARTING_MATERIAL 122824 122879	3-(7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T2047	STARTING_MATERIAL 122884 122921	fluoromethyl 4-methylbenzenesulfonate
+T2048	REACTION_PRODUCT 122967 122969	29
+T2049	YIELD_OTHER 122993 122998	49 mg
+T2050	YIELD_PERCENT 123000 123004	33 %
+T2051	REACTION_PRODUCT 123034 123041	product
+T2052	STARTING_MATERIAL 123069 123140	4-(7-(cyclopropylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol hydrobromide
+T2053	STARTING_MATERIAL 123152 123209	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T2054	STARTING_MATERIAL 123214 123236	1-bromo-2-fluoroethane
+T2055	YIELD_OTHER 123318 123323	28 mg
+T2056	YIELD_PERCENT 123325 123329	22 %
+T2057	REACTION_PRODUCT 123359 123366	product
+T2058	STARTING_MATERIAL 123394 123465	4-(7-(cyclopropylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol hydrobromide
+T2059	STARTING_MATERIAL 123477 123534	3-(7-(pyrrolidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T2060	STARTING_MATERIAL 123539 123561	l-fluoro-3-iodopropane
+T2061	OTHER_COMPOUND 123573 123595	l-bromo-2-fluoroethane
+T2062	YIELD_OTHER 123670 123675	67 mg
+T2063	YIELD_PERCENT 123677 123681	50 %
+T2064	REACTION_PRODUCT 123711 123718	product
+T2065	STARTING_MATERIAL 123746 123804	4-(7-(cyclopropylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T2066	REACTION_PRODUCT 123816 123871	3-(7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl)phenol
+T2067	REACTION_PRODUCT 123876 123913	fluoromethyl 4-methylbenzenesulfonate
+T2068	YIELD_OTHER 123981 123986	52 mg
+T2069	YIELD_PERCENT 123988 123992	46 %
+T2070	REACTION_PRODUCT 124030 124098	N-Methyl-2-(4-(methylthio)phenyl)imidazo[l,2-a]pyrimidin-7-amine \ /
+T2071	REACTION_PRODUCT 124116 124123	product
+T2072	STARTING_MATERIAL 124151 124182	N4-methylpyrimidine-2,4-diamine
+T2073	STARTING_MATERIAL 124187 124227	2-bromo-l-(4-(methylthio)phenyl)ethanone
+T2074	STARTING_MATERIAL 124239 124263	2-bromo-l-phenylethanone
+T2075	YIELD_OTHER 124342 124347	14 mg
+T2076	YIELD_PERCENT 124349 124353	12 %
+T2077	REACTION_PRODUCT 124401 124408	product
+T2078	STARTING_MATERIAL 124436 124467	N4-methylpyrimidine-2,4-diamine
+T2079	STARTING_MATERIAL 124472 124511	2-bromo-l-(3,4 dimethoxyphenyl)ethanone
+T2080	OTHER_COMPOUND 124523 124547	2-bromo-l-phenylethanone
+T2081	YIELD_OTHER 124626 124631	20 mg
+T2082	YIELD_PERCENT 124633 124637	18 %
+T2083	REACTION_PRODUCT 124667 124674	product
+T2084	STARTING_MATERIAL 124702 124733	N4-methylpyrimidine-2,4-diamine
+T2085	STARTING_MATERIAL 124738 124782	2-bromo-l-(3-methoxy-4-methylphenyl)ethanone
+T2086	STARTING_MATERIAL 124794 124819	2-bromo-1 -phenylethanone
+T2087	YIELD_OTHER 124898 124903	43 mg
+T2088	YIELD_PERCENT 124905 124909	39 %
+T2089	STARTING_MATERIAL 124974 125005	N4-methylpyrimidine-2,4-diamine
+T2090	STARTING_MATERIAL 125010 125049	2-bromo-1-(3,5 dimethoxyphenyl)ethanone
+T2091	OTHER_COMPOUND 125061 125085	2-bromo-l-phenylethanone
+T2092	YIELD_OTHER 125164 125169	33 mg
+T2093	YIELD_PERCENT 125171 125175	30 %
+T2094	OTHER_COMPOUND 125311 125313	3H
+T2095	OTHER_COMPOUND 125316 125323	halogen
+T2096	OTHER_COMPOUND 125355 125367	NHC(0)-lower
+T2097	OTHER_COMPOUND 125375 125386	C(0)0-lower
+T2098	OTHER_COMPOUND 125424 125434	OCH2CH218F
+T2099	OTHER_COMPOUND 125518 125531	S-lower alkyl
+T2100	OTHER_COMPOUND 125541 125553	heterocyclyl
+T2101	REACTION_PRODUCT 125567 125643	benzo[d][l,3]dioxol-5-yl, 2,3-dihydrobenzo[b][l,4]dioxin-6-yl, indolin-2-one
+T2102	OTHER_COMPOUND 125651 125661	heteroaryl
+T2103	OTHER_COMPOUND 125713 125725	benzofuranyl
+T2104	OTHER_COMPOUND 125727 125742	benzothiophenyl
+T2105	OTHER_COMPOUND 125758 125775	benzothiazolyl;R2
+T2106	OTHER_COMPOUND 125789 125800	lower alkyl
+T2107	OTHER_COMPOUND 125831 125841	halogen;R3
+T2108	OTHER_COMPOUND 125845 125856	lower alkyl
+T2109	OTHER_COMPOUND 125945 125952	halogen
+T2110	OTHER_COMPOUND 125956 125966	cycloalkyl
+T2111	OTHER_COMPOUND 126071 126085	-CH2CH2CH2CH2-
+T2112	OTHER_COMPOUND 126138 126153	-CH2CH2CHRCH2-,
+T2113	OTHER_COMPOUND 126534 126540	alkyl,
+T2114	OTHER_COMPOUND 126558 126570	NHC(0)-lower
+T2115	OTHER_COMPOUND 126627 126637	OCH2CH218F
+T2116	OTHER_COMPOUND 126676 126683	hydroxy
+T2117	OTHER_COMPOUND 126712 126719	hydroxy
+T2118	OTHER_COMPOUND 126721 126734	S-lower alkyl
+T2119	OTHER_COMPOUND 126744 126765	heterocyclyl group;R2
+T2120	OTHER_COMPOUND 126779 126790	lower alkyl
+T2121	OTHER_COMPOUND 126821 126831	halogen;R3
+T2122	OTHER_COMPOUND 126935 126942	halogen
+T2123	OTHER_COMPOUND 126946 126956	cycloalkyl
+T2124	OTHER_COMPOUND 127061 127076	-CH2CH2CH2CH2-,
+T2125	OTHER_COMPOUND 127165 127173	hydrogen
+T2126	OTHER_COMPOUND 127175 127182	halogen
+T2127	OTHER_COMPOUND 127211 127218	halogen
+T2128	EXAMPLE_LABEL 127369 127370	3
+T2129	REACTION_PRODUCT 127459 127715	areN-methyl-2-phenylimidazo[l,2-a]pyrimidin-7-amine 7-(4-fluoropiperidin-l-yl)-2-phenylimidazo[l,2-a]pyrimidine7-(4-fluoropiperidin-1 -yl)-2-(4-methoxyphenyl)imidazo [ 1,2-a]pyrimidine 2-(4-chlorophenyl)-7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidine
+T2130	REACTION_PRODUCT 127716 127940	7-(4-fluoropiperidin-l-yl)-2-(3-methoxyphenyl)imidazo[l,2-a]pyrimidine 2-(4-fluorophenyl)-7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidine4- [4- [7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidin-2-yl]phenyl]morpholine
+T2131	REACTION_PRODUCT 127941 128282	7-(4-fluoropiperidin-l-yl)-2-(3-methylphenyl)imidazo[l,2-a]pyrimidine 7-(4-fluoropiperidin-l-yl)-2-(4-methylphenyl)imidazo[l,2-a]pyrimidine2- (2-fluorophenyl)-7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidine3- [7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl]phenol 7-(4-fluoropiperidin-1 -yl)-2-(4-pyrrolidin-1 -ylphenyl)imidazo[
+T2132	REACTION_PRODUCT 128283 128299	1,2-a]pyrimidine
+T2133	REACTION_PRODUCT 128300 128382	7-(4-fluoropiperidin-1-yl)-2-[3-(trifluoromethoxy)phenyl]imidazo[ 1,2-a]pyrimidine
+T2134	REACTION_PRODUCT 128383 129666	2- [3-(fluoromethoxy)phenyl]-7 -pyrrolidin-1 -ylimidazo[ 1,2-a]pyrimidine2- [3-(2-fluoroethoxy)phenyl] -7-pyrrolidin-1 -ylimidazo [ 1,2-a]pyrimidine N,N-dimethyl-2-phenylimidazo[l,2-a]pyrimidin-7-amine7 - [4-(2-fluoroethyl)piperazin-1 -yl] -2-(4-methoxyphenyl)imidazo [1,2-a]pyrimidine7 - [4-(2-fluoroethyl)piperazin-1 -yl] -2-(3-methoxyphenyl)imidazo [ 1,2-a]pyrimidine N-(2-fluoroethyl)-N-methyl-2-phenylimidazo[l,2-a]pyrimidin-7-amine N-(2-fluoroethyl)-2-(3-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N-(2-fluoroethyl)-2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 7 - [4-(2-fluoroethyl)piperazin-1 -yl] -2-phenylimidazo [ 1,2-a]pyrimidine4- [2-(4-methoxyphenyl)imidazo[ 1,2-a]pyrimidin-7-yl]morpholine 4-[2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-yl]morpholine4- [2-(3,4-dimethoxyphenyl)imidazo[ 1,2-a]pyrimidin-7-yl] morpholine4-(7 -pyrrolidin-1 -ylimidazo[ 1,2-a]pyrimidin-2-yl)phenol2- [4-(2-fluoroethoxy)phenyl] -7-pyrrolidin-1 -ylimidazo [ 1,2-a]pyrimidine2- [4-(fluoromethoxy)phenyl]-7 -pyrrolidin-1 -ylimidazo[ 1,2-a]pyrimidine 7-[(3R)-3-methoxypyrrolidin-l-yl]-2-phenylimidazo[l,2-a]pyrimidine7- [(3 S)-3 -methoxypyrrolidin-1 -yl] -2-phenylimidazo [ 1,2-a]pyrimidine 7-[(3R)-3-fluoropyrrolidin-l-yl]-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T2135	REACTION_PRODUCT 129667 130588	7- [(3 S)-3 -fluoropyrrolidin-1 -yl] -2-(4-methoxyphenyl)imidazo [ 1,2-a]pyrimidine 2-(3-methoxyphenyl)-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine 2-(4-methoxyphenyl)-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine N,N-dimethyl-2-(4-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine N,N-dimethyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine4- [2-(3-methoxyphenyl)imidazo[ 1,2-a]pyrimidin-7-yl]morpholine4- [2-(4-methylphenyl)imidazo[ 1,2-a]pyrimidin-7-yl] morpholine 2-(4-methoxyphenyl)-7-pynOlidin-l-ylimidazo[l,2-a]pyrimidine 2-(4-methylphenyl)-7 -pyrrolidin-1 -ylimidazo [ 1,2-a]pyrimidine N,N-dimethyl-2-(4-morpholin-4-ylphenyl)imidazo[l,2-a]pyrimidin-7-amine 2-[4-(dimethylamino)phenyl]-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine 2-(3-methoxyphenyl)-7-pyrrolidin-l-ylimidazo[l,2-a]pyrimidine2-(3 -methylphenyl)-7 -pyrrolidin-1 -ylimidazo [ 1,2-a]pyrimidine 2-(4-methoxyphenyl)-7-piperidin-1-ylimidazo[ 1,2-a]pyrimidine
+T2136	REACTION_PRODUCT 130589 130710	2-(3-methoxyphenyl)-7-piperidin-l-ylimidazo[l,2-a]pyrimidine 2-(4-methylphenyl)-7-piperidin-1-ylimidazo[ 1,2-a]pyrimidine
+T2137	REACTION_PRODUCT 130711 131085	2-(3-methylphenyl)-7 -piperidin-1 -ylimidazo[ 1,2-a]pyrimidine 2-(3,4-dimethoxyphenyl)-7-piperidin-1-ylimidazo[ 1,2-a]pyrimidine7 - [4-(2-fluoroethyl)piperidin-1 -yl] -2-phenylimidazo [ 1,2-a]pyrimidine7 - [4-(2-fluoroethyl)piperidin-1 -yl] -2-(3 -methoxyphenyl)imidazo [ 1,2-a]pyrimidine 7 - [4-(2-fluoroethyl)piperidin-1 -yl] -2-(4-methoxyphenyl)imidazo [ 1,2-a]pyrimidine
+T2138	REACTION_PRODUCT 131086 131171	7 - [4-(2-fluoroethyl)piperidin-1 -yl] -2-(3 -methylphenyl)imidazo [ 1,2-a]pyrimidine
+T2139	REACTION_PRODUCT 131172 131566	7 - [4-(2-fluoroethyl)piperidin-1 -yl] -2-(4-methylphenyl)imidazo [ 1,2-a]pyrimidine 4-[4-[7-[4-(2-fluoroethyl)piperidin-l-yl]imidazo[l,2-a]pyrimidin-2-yl]phenyl]morpholine N-methyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine N-[2-(2-fluoroethoxy)ethyl]-2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 7-(2-azaspiro[3.3]heptan-2-yl)-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine
+T2140	REACTION_PRODUCT 131567 132452	N-ethyl-2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N,N-diethyl-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidin-7-amine N-[2-(2-fluoroethoxy)ethyl]-N-methyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine 7-(azetidin-l-yl)-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine 7-(3-fluoroazetidin-l-yl)-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidine 7-(3-fluoroazetidin-l-yl)-2-phenylimidazo[l,2-a]pyrimidine7-(3 -fluoroazetidin-1 -yl)-2-(3 -methylphenyl)imidazo [ 1,2-a]pyrimidine N,N-dimethyl-4-(7-morpholin-4-ylimidazo[l,2-a]pyrimidin-2-yl)aniline N-cyclopropyl-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidin-7-amine N-isopropyl-2-(4-methoxy-phenyl)-imidazo[l,2-a]pyrimidin-7-amine 2-(4-methoxyphenyl)-N-(2,2,2-trifluoroethyl)imidazo[l,2-a]pyrimidin-7-amine 4-[7-(azetidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl]phenol7-(3 -methoxyazetidin-1 -yl)-2-(4-methoxyphenyl)imidazo[ 1,2-a]pyrimidine
+T2141	REACTION_PRODUCT 132453 133853	N-methyl-2-(4-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine 2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N-(2-ffluoroethyl)-N-methyl-2-(4-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine N-(2-fluoroethyl)-N-methyl-2-(3-methylphenyl)imidazo[l,2-a]pyrimidin-7-amine 2-(4-methoxyphenyl)-7-(3-methylazetidin-l-yl)imidazo[l,2-a]pyrimidine 2-[4-(dimethylamino)phenyl]-N-methylimidazo[l,2-a]pyrimidin-7-amine 4-[7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidin-2-yl]-N,N-dimethylaniline 2-[4-(dimethylamino)phenyl]-N-(2-fluoroethyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N-cyclopropyl-2-(4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 7-(azetidin-l-yl)-2-(4-methylphenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(3-methylphenyl)imidazo[l,2-a]pyrimidine 2-[4-(dimethylamino)phenyl]-N-(2-fluoroethyl)imidazo[l,2-a]pyrimidin-7-amine 7-(azetidin-l-yl)-2-[4-(fluoromethoxy)phenyl]imidazo[l,2-a]pyrimidine 2-methoxy-4-[7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl]phenol 2-(3-bromophenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 7-(4-fluoropiperidin-l-yl)-2-(4-methoxy-2,6-ditritiophenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-[4-(tritritiomethoxy)phenyl)imidazo[l,2-a]pyrimidine 2-(3-methylphenyl)-N-(tritritiomethyl)imidazo[l,2-a]pyrimidine-7-amine N-[11C]methyl-2-(m-tolyl)imidazo[l,2-a]pyrimidin-7-amine N-cyclopropyl-2-(4- [11 C]methoxyphenyl)imidazo [ 1,2-a]pyrimidin-7-amine
+T2142	REACTION_PRODUCT 133854 135479	2-[4-(2-[18F]fluoroethoxy)phenyl]-N-methyl-imidazo[l,2-a]pyrimidin-7-amine [4- [7-(methylamino)imidazo[ 1,2-a]pyrimidin-2-yl]phenyl]methanol 2-(3-fluoro-4-methoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine N-(4-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenyl)acetamide 7-(azetidin-l-yl)-2-(4-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(4-(3-fluoropropoxy)phenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(3-methoxyphenyl)imidazo[l,2-a]pyrimidine [3-[7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl]phenyl]methanol 7-(azetidin-l-yl)-2-(3-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidine N-cyclopropyl-N-(2-fluoroethyl)-2-(4-methoxyphenyl)imidazo[l,2-a]pyrimidin-7-amine 2- (3 -methoxyphenyl) -N-methylimidazo [1,2- a]pyrimidin-7- amine 7-(azetidin-l-yl)-2-(3-(fluoromethoxy)phenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(4-fluorophenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-l-yl)-2-(3-fluorophenyl)imidazo[l,2-a]pyrimidine 7-(azetidin-1 -yl) -2- (3,5 -di methoxyphenyl)i midazo [ 1,2-a]pyrimidine 4-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol 2-(4-(2-fluoroethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2- (4-(3-fluoropropoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 3- (7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)phenol 7-(azetidin-l-yl)-2-(3-(methylthio)pheny])imidazo[l,2-a]pyrimidine 7-(azetidin-1 -yl)-2-(3-methoxy-4-methylphenyl)imidazo[l ,2-a]pyrimidine 7-(azetidin-l-yl)-2-(3,4-dimethoxypheny])imidazo[l,2-a]pyrimidine 2-(3-(2-fluoroethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2-(3-(3-fluoropropoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T2143	REACTION_PRODUCT 135480 135829	2-(3-(fluoromethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2-(4-(fluoromethoxy)phenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 3 -(7-(cyclopropylamino)imidazo [ 1,2-a]pyrimidin-2-yl)phenol N-cyclopropyl-2-(3-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine [4-[7-(dimethylamino)imidazo[l,2-a]pyrimidin-2-yl]phenyl]methanol acetic acid
+T2144	REACTION_PRODUCT 135837 135902	methyl 4- [7-(methylamino)imidazo [ 1,2-a]pyrimidin-2-yl]benzoate
+T2145	REACTION_PRODUCT 135903 136396	N-cyclopropyl-2-(3-(fluoromethoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine N-cyclopropyl-2-(4-(2-fluoroethoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine N-cyclopropyl-2-(4-(3-fluoropropoxy)phenyl)imidazo[l,2-a]pyrimidin-7-amine N-cyc]opropy]-2-(4-(fluoromethoxy)pheny])imidazo[ l,2-a]pyrimidin-7-amine N-methyl-2-(4-(methylthio)phenyl)imidazo[l,2-a]pyrimidin-7-amine 2-(3,4-dimethoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2-(3-methoxy-4-methylphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T2146	REACTION_PRODUCT 136400 136463	2-(3,5-dimethoxyphenyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T2147	OTHER_COMPOUND 136527 136552	benzo[d][l,3]dioxol-5-yl,
+T2148	OTHER_COMPOUND 136592 136608	indolin-2-one;R2
+T2149	OTHER_COMPOUND 136732 136739	halogen
+T2150	OTHER_COMPOUND 136778 136785	halogen
+T2151	OTHER_COMPOUND 136789 136799	cycloalkyl
+T2152	OTHER_COMPOUND 136836 136842	N-atom
+T2153	OTHER_COMPOUND 136875 136902	containing-ch2ch2chrch2ch2-
+T2154	OTHER_COMPOUND 136904 136932	-ch2ch2ch2ch2-, -ch2ch2ch2-,
+T2155	OTHER_COMPOUND 137056 137063	halogen
+T2156	REACTION_PRODUCT 137305 137962	are2-(l,3-benzodioxol-5-yl)-7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidine 2-(2,3-dihydro- l,4-benzodioxin-6-yl)-7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidine 2-(l,3-benzodioxol-5-yl)-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine 2-(2,3-dihydro-l,4-benzodioxin-6-yl)-N,N-dimethylimidazo[l,2-a]pyrimidin-7-amine2- (1,3 -benzodioxol- 5 -yl) -7- [4- (2-fluoroethyl)piperidin-1 -y 1] imidazo [1,2- ajpyrimidine 2-(2,3-dihydro-l,4-benzodioxin-6-yl)-7-[4-(2-fluoroethyl)piperidin-l-yl]imidazo[l,2-ajpyrimidine2-(l,3-benzodioxol-5-yl)-N-methylimidazo[l,2-a]pyrimidin-7-amine 2-(l,3-benzodioxol-5-yl)-N-(2-fluoroethyl)-N-methylimidazo[l,2-a]pyrimidin-7-amine
+T2157	REACTION_PRODUCT 137966 138026	5-(7-(methylamino)imidazo[l,2-a]pyrimidin-2-yl)indolin-2-one
+T2158	EXAMPLE_LABEL 138028 138029	6
+T2159	OTHER_COMPOUND 138053 138056	1-3
+T2160	OTHER_COMPOUND 138152 138164	benzofuranyl
+T2161	OTHER_COMPOUND 138166 138191	benzothiophenyl pyrazinyl
+T2162	OTHER_COMPOUND 138195 138212	benzothiazolyl;R2
+T2163	OTHER_COMPOUND 138246 138257	lower alkyl
+T2164	OTHER_COMPOUND 138340 138347	halogen
+T2165	OTHER_COMPOUND 138436 138463	containing-CH2CH2CHRCH2CH2-
+T2166	OTHER_COMPOUND 138465 138479	-CH2CH2CH2CH2-
+T2167	OTHER_COMPOUND 138481 138492	-CH2CH2CH2-
+T2168	OTHER_COMPOUND 138532 138546	-CH2CH2CHRCH2-
+T2169	OTHER_COMPOUND 138615 138622	halogen
+T2170	REACTION_PRODUCT 138863 139222	7-(4-fluoropiperidin-1 -yl)-2-thiophen-3 -ylimidazo[ 1,2-a]pyrimidine2-(1 -benzofuran-2-yl)-7-(4-fluoropiperidin-1 -yl)imidazo[ 1,2-a]pyrimidine 2-(l-benzothiophen-2-yl)-7-(4-fluoropiperidin-l-yl)imidazo[l,2-a]pyrimidine 2-[7-(4-fluoropiperidin- l-yl)imidazo[l ,2-a]pyrimidin-2-yl]-1,3-benzothiazole N,N-dimethyl-2-thiophen-3-ylimidazo[l,2-a]pyrimidin-7-amine
+T2171	REACTION_PRODUCT 139226 139293	7-(4-fluoropiperidin-l-yl)-2-(pyrazin-2-yl)imidazo[l,2-a]pyrimidine
+T2172	OTHER_COMPOUND 139390 139404	tau aggregates
+T2173	OTHER_COMPOUND 139406 139418	beta-amyloid
+T2174	OTHER_COMPOUND 139433 139448	alpha-synuclein
+T2175	EXAMPLE_LABEL 139461 139462	9
+T2176	OTHER_COMPOUND 139486 139487	I
+T2177	OTHER_COMPOUND 139556 139559	tau
+T2178	OTHER_COMPOUND 139574 139583	Alzheimer
+T2179	OTHER_COMPOUND 139612 139619	formula
+T2180	OTHER_COMPOUND 139717 139718	I
+T2181	OTHER_COMPOUND 139896 139897	I
+T2182	EXAMPLE_LABEL 139974 139976	13
+T2183	OTHER_COMPOUND 140362 140363	1

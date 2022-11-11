@@ -1,0 +1,24 @@
+T7	CHEMICAL 0 12	Testosterone
+T8	CHEMICAL 57 70	triglycerides
+T19	GENE-N 94 97	LDL
+T4	CHEMICAL 238 250	testosterone
+T5	CHEMICAL 982 994	triglyceride
+T16	GENE-N 1007 1011	VLDL
+T17	GENE-N 1052 1055	LDL
+T18	GENE-Y 1166 1206	microsomal triglyceride transfer protein
+T6	CHEMICAL 1177 1189	triglyceride
+T9	GENE-Y 1208 1215	lipin-1
+T10	GENE-Y 1217 1268	peroxisome proliferator-activated receptor (PPAR)-α
+T11	GENE-Y 1273 1295	PPAR-γ coactivator 1-α
+T1	CHEMICAL 1325 1331	sterol
+T12	GENE-Y 1325 1368	sterol regulatory element-binding protein-1
+T2	CHEMICAL 1370 1384	diacylglycerol
+T13	GENE-Y 1370 1402	diacylglycerol acyltransferase-2
+T3	CHEMICAL 1407 1417	fatty acid
+T14	GENE-Y 1407 1426	fatty acid synthase
+T15	GENE-N 1449 1453	AMPK
+R0	NOT Arg1:T18 Arg2:T2
+R1	NOT Arg1:T6 Arg2:T12
+R2	NOT Arg1:T11 Arg2:T1
+R3	NOT Arg1:T12 Arg2:T3
+R4	NOT Arg1:T2 Arg2:T14

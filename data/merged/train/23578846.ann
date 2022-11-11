@@ -1,0 +1,22 @@
+T21	GENE-N 68 88	neurotrophic factors
+T1	CHEMICAL 292 327	poly (lactic acid-co-glycolic acid)
+T2	CHEMICAL 329 333	PLGA
+T9	GENE-N 335 343	collagen
+T10	GENE-N 445 464	neurotrophic factor
+T11	GENE-Y 525 563	glial cell-derived neurotrophic factor
+T12	GENE-Y 565 569	GDNF
+T13	GENE-N 582 606	collagen binding peptide
+T14	GENE-N 608 611	CBP
+T15	GENE-N 638 646	collagen
+T16	GENE-Y 710 714	GDNF
+T17	GENE-N 715 718	CBP
+T18	GENE-Y 926 930	GDNF
+T19	GENE-N 931 934	CBP
+T20	GENE-N 961 972	collagenase
+T3	GENE-N 1126 1137	collagenase
+T4	GENE-Y 1180 1184	GDNF
+T5	GENE-N 1185 1188	CBP
+T6	GENE-Y 1233 1265	microtubule-associated protein 2
+T7	GENE-Y 1267 1271	MAP2
+T8	GENE-N 1351 1371	neurotrophic factors
+R0	NOT Arg1:T2 Arg2:T10

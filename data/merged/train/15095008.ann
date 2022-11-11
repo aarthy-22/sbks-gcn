@@ -1,0 +1,15 @@
+T11	CHEMICAL 0 8	Caffeine
+T3	CHEMICAL 76 84	caffeine
+T1	CHEMICAL 182 191	adenosine
+T2	CHEMICAL 219 228	Adenosine
+T12	GENE-N 219 253	Adenosine A(1) and A(2A) receptors
+T4	CHEMICAL 358 366	Caffeine
+T5	CHEMICAL 488 496	caffeine
+T6	CHEMICAL 670 679	adenosine
+T13	GENE-Y 670 695	adenosine A(2A) receptors
+T7	CHEMICAL 824 832	dopamine
+T14	GENE-Y 824 880	dopamine- and cyclic AMP-regulated 32-kDa phosphoprotein
+T8	CHEMICAL 838 848	cyclic AMP
+T15	GENE-Y 881 889	DARPP-32
+T9	CHEMICAL 936 944	caffeine
+T10	CHEMICAL 1005 1013	caffeine

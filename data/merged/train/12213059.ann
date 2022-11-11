@@ -1,0 +1,41 @@
+T17	CHEMICAL 0 68	6-Chloro-3-alkylamino-4H-thieno[3,2-e]-1,2,4-thiadiazine 1,1-dioxide
+T18	CHEMICAL 115 118	ATP
+T31	GENE-N 115 147	ATP sensitive potassium channels
+T19	CHEMICAL 129 138	potassium
+T1	CHEMICAL 174 242	6-Chloro-3-alkylamino-4H-thieno[3,2-e]-1,2,4-thiadiazine 1,1-dioxide
+T6	CHEMICAL 307 332	adenosine 5'-triphosphate
+T22	GENE-N 307 376	adenosine 5'-triphosphate (ATP) sensitive potassium (K(ATP)) channels
+T7	CHEMICAL 334 337	ATP
+T8	CHEMICAL 360 361	K
+T9	CHEMICAL 362 365	ATP
+T23	GENE-N 442 449	insulin
+T10	CHEMICAL 632 651	[(3)H]glibenclamide
+T24	GENE-Y 700 710	human SUR1
+T25	GENE-Y 711 717	Kir6.2
+T26	GENE-N 746 753	insulin
+T11	CHEMICAL 786 869	6-Chloro-3-(1-methylcyclobutyl)amino-4H-thieno[3,2-e]-1,2,4-thiadiazine 1,1-dioxide
+T27	GENE-Y 910 914	SUR1
+T28	GENE-Y 915 921	Kir6.2
+T12	CHEMICAL 922 923	K
+T29	GENE-N 922 937	K(ATP) channels
+T13	CHEMICAL 924 927	ATP
+T14	CHEMICAL 1035 1044	diazoxide
+T30	GENE-N 1075 1082	insulin
+T15	CHEMICAL 1133 1146	3-propylamino
+T16	CHEMICAL 1154 1170	3-isopropylamino
+T2	CHEMICAL 1178 1198	3-(S)-sec-butylamino
+T3	CHEMICAL 1210 1285	3-(1-methylcyclopropyl)amino-4H-thieno[3,2-e]-1,2,4-thiadiazine 1,1-dioxide
+T4	CHEMICAL 1360 1361	K
+T20	GENE-N 1360 1375	K(ATP) channels
+T5	CHEMICAL 1362 1365	ATP
+T21	GENE-N 1408 1415	insulin
+R0	CPR-2 Arg1:T10 Arg2:T25
+R1	CPR-3 Arg1:T11 Arg2:T27
+R2	CPR-3 Arg1:T11 Arg2:T28
+R3	CPR-3 Arg1:T14 Arg2:T28
+R4	CPR-4 Arg1:T14 Arg2:T30
+R5	CPR-4 Arg1:T15 Arg2:T21
+R6	CPR-4 Arg1:T3 Arg2:T21
+R7	NOT Arg1:T8 Arg2:T23
+R8	NOT Arg1:T27 Arg2:T12
+R9	NOT Arg1:T28 Arg2:T13

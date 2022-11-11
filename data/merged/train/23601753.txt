@@ -1,0 +1,15 @@
+Robust autoactivation, chymotrypsin C independence and diminished secretion define a subset of hereditary pancreatitis associated cationic trypsinogen mutants.
+Mutations in human cationic trypsinogen cause hereditary pancreatitis by altering its proteolytic regulation of activation and degradation by chymotrypsin C (CTRC).
+CTRC stimulates trypsinogen autoactivation by processing the activation peptide to a shorter form but also promotes degradation by cleaving the calcium binding loop in trypsinogen.
+Mutations render trypsinogen resistant to CTRC-mediated degradation and/or increase processing of the activation peptide by CTRC.
+Here we demonstrate that activation peptide mutations D19A, D22G, K23R and K23_I24insIDK robustly increased the rate of trypsinogen autoactivation, both in the presence and absence of CTRC.
+Degradation of the mutants by CTRC was unchanged and processing of the activation peptide was increased only in the D19A mutant by 4-fold.
+Surprisingly, however, this increased processing had only a minimal effect on autoactivation.
+The tetra-aspartate motif in the trypsinogen activation peptide binds calcium (KD ~1.6 mM), which stimulates autoactivation.
+Unexpectedly, calcium binding was not compromised by any of the activation peptide mutations.
+Despite normal binding, autoactivation of mutants D22G and K23_I24insIDK was not stimulated by calcium.
+Finally, the activation peptide mutants exhibited reduced secretion from transfected cells, and secreted trypsinogen levels were inversely proportional with autoactivation rates.
+We conclude that D19A, D22G, K23R and K23_I24insIDK form a mechanistically distinct subset of hereditary pancreatitis associated mutations, which exert their effect primarily through direct stimulation of autoactivation, independently of CTRC.
+The potentially severe clinical impact of the markedly increased autoactivation is offset by diminished secretion, resulting in a clinical phenotype indistinguishable from typical hereditary pancreatitis.
+This article is protected by copyright.
+All rights reserved.

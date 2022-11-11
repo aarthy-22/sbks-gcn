@@ -1,0 +1,24 @@
+T7	CHEMICAL 0 12	Troglitazone
+T21	GENE-Y 21 54	plasminogen activator inhibitor-1
+T12	GENE-Y 137 177	plasma plasminogen activator inhibitor-1
+T18	GENE-Y 179 184	PAI-1
+T9	GENE-Y 238 245	insulin
+T5	CHEMICAL 375 387	troglitazone
+T13	GENE-N 405 421	nuclear receptor
+T14	GENE-Y 422 470	peroxisome proliferator activated receptor-gamma
+T15	GENE-Y 475 480	PAI-1
+T16	GENE-Y 729 762	Plasminogen activator inhibitor-1
+T17	GENE-Y 794 799	PAI-1
+T6	CHEMICAL 965 977	troglitazone
+T19	GENE-Y 1014 1019	PAI-1
+T20	GENE-Y 1059 1064	PAI-1
+T1	CHEMICAL 1149 1161	troglitazone
+T8	GENE-Y 1184 1189	PAI-1
+T2	CHEMICAL 1425 1437	troglitazone
+T10	GENE-Y 1469 1474	PAI-1
+T3	CHEMICAL 1660 1672	troglitazone
+T11	GENE-Y 1681 1686	PAI-1
+T4	CHEMICAL 1817 1829	troglitazone
+R0	CPR-2 Arg1:T5 Arg2:T14
+R1	CPR-4 Arg1:T6 Arg2:T20
+R2	CPR-4 Arg1:T1 Arg2:T8

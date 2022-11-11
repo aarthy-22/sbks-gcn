@@ -1,0 +1,20 @@
+T6	CHEMICAL 0 15	Methamphetamine
+T17	GENE-Y 42 71	alpha(2A)-adrenergic receptor
+T18	GENE-Y 76 85	Galpha(o)
+T10	GENE-N 138 167	alpha(2)-adrenergic receptors
+T15	GENE-N 169 171	AR
+T1	CHEMICAL 213 228	methamphetamine
+T2	CHEMICAL 230 234	METH
+T7	GENE-Y 284 296	alpha(2A)-AR
+T3	CHEMICAL 396 400	METH
+T8	GENE-Y 418 430	alpha(2A)-AR
+T9	GENE-N 511 530	adrenergic receptor
+T11	GENE-Y 532 544	alpha(1D)-AR
+T12	GENE-Y 591 632	alpha(o)-subunits of GTP-binding proteins
+T4	CHEMICAL 612 615	GTP
+T13	GENE-Y 634 643	Galpha(o)
+T14	GENE-Y 681 693	alpha(2A)-AR
+T5	CHEMICAL 795 799	METH
+T16	GENE-Y 848 860	alpha(2A)-AR
+R0	NOT Arg1:T6 Arg2:T17
+R1	NOT Arg1:T6 Arg2:T18

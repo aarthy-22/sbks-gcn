@@ -1,0 +1,22 @@
+T7	GENE-N 487 500	serum insulin
+T8	GENE-Y 502 519	serum adiponectin
+T9	GENE-N 521 535	hemoglobin A1c
+T10	GENE-N 537 542	HbA1c
+T1	CHEMICAL 545 552	glucose
+T11	GENE-N 564 571	insulin
+T2	CHEMICAL 643 654	hematoxylin
+T3	CHEMICAL 655 660	eosin
+T4	CHEMICAL 744 751	glucose
+T12	GENE-N 777 782	HbA1c
+T5	CHEMICAL 824 831	glucose
+T13	GENE-Y 868 879	adiponectin
+T14	GENE-N 884 897	serum insulin
+T15	GENE-Y 945 995	peroxisome proliferator-activated receptor gamma 2
+T6	CHEMICAL 1000 1007	glucose
+T16	GENE-Y 1000 1029	glucose transporter protein 2
+T17	GENE-Y 1054 1077	tumor necrosis factor-α
+T18	GENE-Y 1079 1084	TNF-α
+R0	NOT Arg1:T10 Arg2:T1
+R1	NOT Arg1:T4 Arg2:T12
+R2	NOT Arg1:T15 Arg2:T6
+R3	NOT Arg1:T6 Arg2:T17

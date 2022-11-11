@@ -1,0 +1,14 @@
+An overview of nomegestrol acetate selective receptor binding and lack of estrogenic action on hormone-dependent cancer cells.
+The specific pharmacological profile of the 19-norprogestin nomegestrol acetate (NOMAC) is, at least in part, defined by its pattern of binding affinities to the different steroid hormone receptors.
+In the present study, its affinity to the progesterone receptor (PgR), the androgen receptor (AR) and the estrogen receptor (ER) was re-evaluated and compared to those obtained for progesterone (P) and several progestins.
+The characteristics of binding to the PgR in rat uterus were determined and Ki were found to be roughly similar with 22.8 and 34.3 nM for NOMAC and P, respectively.
+The binding characteristics of 3H-NOMAC were also determined and compared to that of 3H-ORG2058 with Kd of 5 and 0.6 nM, respectively for rat uterus and 4 and 3 nM, respectively for human T47-D cells.
+Structure-affinity and -activity relationships were studied on a variety of compounds related to NOMAC in order to assess its specificity as a progestin.
+The effects of NOMAC on the binding of androgen to the AR were investigated, using rat ventral prostate as target model.
+Contrary to what was observed for MPA, the RBA of NOMAC was found to decline with time, showing anti-androgenic rather than androgenic potential, a result that was confirmed in vivo.
+Regarding the ER, since none of the progestins were able to compete with estrogen for binding in rat uterus as well as in Ishikawa cells, the induction of alkaline phosphatase activity (APase) was used as an estrogen-specific response.
+It confirmed the intrinsic estrogenicity of progestins derived from 19-nor-testosterone (19NT), norethisterone acetate (NETA), levonorgestrel (LNG) or norgestimate (NGM) and others.
+In contrast, all P and 19-norP derivatives remained inactive.
+Finally, to complete this overview of NOMAC at the sex steroid receptor levels, the lack of estrogenic or estrogenic-like activity was checked out in different in vitro models.
+Data from this study have demonstrated that NOMAC is a progestin that has greater steroid receptor selectivity compared to MPA or some other synthetic progestins.
+It may provide a better pharmacological profile than those progestins currently in use in HRT and OC.

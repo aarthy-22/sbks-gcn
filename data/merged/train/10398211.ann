@@ -1,0 +1,26 @@
+T14	CHEMICAL 26 40	angiotensin II
+T25	GENE-Y 26 40	angiotensin II
+T15	CHEMICAL 86 98	nitric oxide
+T6	CHEMICAL 128 142	angiotensin II
+T21	GENE-Y 128 142	angiotensin II
+T9	CHEMICAL 150 161	angiotensin
+T23	GENE-Y 150 179	angiotensin-converting enzyme
+T12	CHEMICAL 191 201	cilazapril
+T5	CHEMICAL 351 365	angiotensin II
+T20	GENE-Y 351 365	angiotensin II
+T7	CHEMICAL 475 489	angiotensin II
+T22	GENE-Y 475 489	angiotensin II
+T8	CHEMICAL 604 614	cilazapril
+T10	CHEMICAL 826 836	cilazapril
+T11	CHEMICAL 979 989	cilazapril
+T13	CHEMICAL 1077 1089	nitric oxide
+T24	GENE-N 1077 1098	nitric oxide synthase
+T16	GENE-N 1100 1103	NOS
+T1	CHEMICAL 1116 1135	NG-nitro-L-arginine
+T2	CHEMICAL 1230 1240	cilazapril
+T3	CHEMICAL 1341 1355	angiotensin II
+T17	GENE-Y 1341 1355	angiotensin II
+T18	GENE-N 1398 1401	NOS
+T4	CHEMICAL 1414 1428	Angiotensin II
+T19	GENE-Y 1414 1446	Angiotensin II-converting enzyme
+R0	NOT Arg1:T3 Arg2:T18

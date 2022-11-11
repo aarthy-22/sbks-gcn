@@ -1,0 +1,7 @@
+Role of adenosine salvage in wound-induced adenylate biosynthesis in potato tuber slices.
+Levels of ATP and other nucleotides increased in wounded potato tuber slices, maintained on moist paper for 24 h after preparation.
+The relative expression intensity of genes encoding adenosine kinase (AK) and adenine phosphoribosyltransferase (APRT) in wounded slices was greater than the intensity of genes of the de novo pathway, glycineamide ribonucleotide formyltransferase (GART) and 5-aminoimidazole ribonucleotide synthetase (AIRS).
+In vitro activities of adenosine kinase (ATP:adenosine 5'-phosphotransferase; EC 2.7.1.20) and adenine phosphoribosyltransferase (AMP:pyrophosphate phospho-d-ribosyltransferase; EC 2.4.2.7) increased during wounding.
+Adenosine nucleosidase (adenosine ribohydrolase; EC 3.2.2.7) activity was negligible in freshly prepared slices, but its activity is dramatically enhanced in wounded slices.
+In situ adenosine salvage activity, estimated from the incorporation of radioactivity from exogenously supplied [8-(14)C]adenosine into nucleotides and RNA, increased more than five times in the wounded slices.
+These results strongly suggest that greater expression of the genes encoding enzymes of adenosine salvage during wounding is closely related to the increased supply of adenine nucleotides in the wounded slices.

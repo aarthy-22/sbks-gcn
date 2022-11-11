@@ -1,0 +1,5 @@
+Aripiprazole acts as a selective dopamine D2 receptor partial agonist.
+Aripiprazole has made a significant contribution to the treatment of schizophrenia and related disorders with an improved safety and tolerability profile, which has been attributed to its unique pharmacological profile.
+It has been claimed that partial agonism of the dopamine D(2) and 5-HT(1A) receptors and antagonism of the 5-HT(2) receptor contribute to the clinical profile of aripiprazole, a so-called dopamine- and 5-HT stabiliser.
+However, recent studies have questioned the role of the 5-HT-mediated systems in the mechanism of action of aripiprazole.
+This report reviews published and unpublished data that suggest that aripiprazole acts as a selective partial agonist at the dopamine D(2) receptor and does not affect 5-HT receptors at therapeutic doses.

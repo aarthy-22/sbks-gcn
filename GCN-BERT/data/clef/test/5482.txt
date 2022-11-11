@@ -1,0 +1,4 @@
+Embodiment 4
+2{[4-(4-Cyanophenyl)isoquinolin-6-yl]thio-2-methylpropionic acid (Compound 4)
+Synthesis of compound 4-c
+6-Bromoisoquinoline (10.4g, 50mmol) and N-iodosuccinimide (13.5g, 60mmol) were dissolved in acetic acid (100mL), the mixture was reacted for 8hrs at 80°C. The mixture was cooled to room temperature, followed by concentrating under reduced pressure to remove half of acetic acid, the residue was filtered through celite, the filtrate cake was washed with DCM (200mL), the organic phase was in turn washed with saturated sodium sulfite solution (200mL) and water (100mL), dried over anhydrous magnesium sulfate, filtered, concentrated under reduced pressure. The residue was purified with silica column chromatography (PE:EA = 5:1) to give compound 4-c (11.6g, yield 70%).

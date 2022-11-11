@@ -1,0 +1,29 @@
+T14	CHEMICAL 19 28	adenosine
+T27	GENE-Y 19 40	adenosine A3 receptor
+T15	CHEMICAL 49 56	IB-MECA
+T16	CHEMICAL 60 79	sodium taurocholate
+T2	CHEMICAL 133 142	adenosine
+T18	GENE-Y 133 155	adenosine A3 receptors
+T7	CHEMICAL 329 338	adenosine
+T22	GENE-Y 329 350	adenosine A3 receptor
+T8	CHEMICAL 519 528	adenosine
+T23	GENE-Y 519 540	adenosine A3 receptor
+T9	CHEMICAL 566 585	sodium taurocholate
+T10	CHEMICAL 799 808	adenosine
+T24	GENE-Y 799 820	adenosine A3 receptor
+T11	CHEMICAL 829 836	IB-MECA
+T12	CHEMICAL 837 922	(1-deoxy-1-6[[(3-iodophenyl) methyl]amino]-9H-purin-9-yl)-N-methyl-B-D-ribofuronamide
+T13	CHEMICAL 1021 1040	sodium taurocholate
+T25	GENE-N 1094 1103	α-amylase
+T26	GENE-N 1108 1114	lipase
+T1	CHEMICAL 1239 1246	IB-MECA
+T17	GENE-N 1254 1263	α-amylase
+T19	GENE-N 1361 1367	lipase
+T3	CHEMICAL 1490 1497	IB-MECA
+T20	GENE-Y 1598 1609	A3 receptor
+T4	CHEMICAL 1618 1625	IB-MECA
+T5	CHEMICAL 1683 1692	adenosine
+T21	GENE-Y 1683 1705	adenosine A3 receptors
+T6	CHEMICAL 1735 1754	sodium taurocholate
+R0	CPR-4 Arg1:T1 Arg2:T17
+R1	NOT Arg1:T27 Arg2:T16

@@ -1,0 +1,6 @@
+Anticancer activity of novel hybrid molecules containing 5-benzylidene thiazolidine-2,4-dione.
+Hybridization of two different bioactive molecules with different mechanism of action is one of the methods that are being adopted to treat cancer.
+Molecules bearing a thiazolidine-2,4-dione scaffold have been recognized as antineoplastic agents with a broad spectrum of activity against many cancer cell lines.
+In this manuscript we have described the synthesis and biological evaluation of two series of N-3-substituted-5-arylidene thiazolidine-2,4-diones, bearing the α-bromoacryloylamido moiety at the para- or meta-position on the phenyl of the arylidene portion.
+We have observed that selected compounds 5a, 5c and 5g suppress proliferation of human myeloid leukaemia HL-60 and U937 cells by triggering morphological changes and internucleosomal DNA fragmentation, which are well-known features of apoptosis.
+Finally, our results indicated that the investigated compounds induced apoptotic cell death through a mechanism that involved activation of multiple caspases and was also associated with the release of cytochrome c from the mitochondria.

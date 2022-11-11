@@ -1,0 +1,13 @@
+Amino acids as co-amorphous stabilizers for poorly water soluble drugs - Part 1: Preparation, stability and dissolution enhancement.
+Poor aqueous solubility of an active pharmaceutical ingredient (API) is one of the most pressing problems in pharmaceutical research and development because up to 90% of new API candidates under development are poorly water soluble.
+These drugs usually have a low and variable oral bioavailability, and therefore an unsatisfactory therapeutic effect.
+One of the most promising approaches to increase dissolution rate and solubility of these drugs is the conversion of a crystalline form of the drug into its respective amorphous form, usually by incorporation into hydrophilic polymers, forming glass solutions.
+However, this strategy only led to a small number of marketed products usually because of inadequate physical stability of the drug (crystallization).
+In this study, we investigated a fundamentally different approach to stabilize the amorphous form of drugs, namely the use of amino acids as small molecular weight excipients that form specific molecular interactions with the drug resulting in co-amorphous forms.
+The two poorly water soluble drugs carbamazepine and indomethacin were combined with amino acids from the binding sites of the biological receptors of these drugs.
+Mixtures of drug and the amino acids arginine, phenylalanine, tryptophan and tyrosine were prepared by vibrational ball milling.
+Solid-state characterization with X-ray powder diffraction (XRPD) and differential scanning calorimetry (DSC) revealed that the various blends could be prepared as homogeneous, single phase co-amorphous formulations indicated by the appearance of an amorphous halo in the XRPD diffractograms and a single glass transition temperature (Tg) in the DSC measurements.
+In addition, the Tgs of the co-amorphous mixtures were significantly increased over those of the individual drugs.
+The drugs remained chemically stable during the milling process and the co-amorphous formulations were generally physically stable over at least 6months at 40°C under dry conditions.
+The dissolution rate of all co-amorphous drug-amino acid mixtures was significantly increased over that of the respective crystalline and amorphous pure drugs.
+Amino acids thus appear as promising excipients to solve challenges connected with the stability and dissolution of amorphous drugs.

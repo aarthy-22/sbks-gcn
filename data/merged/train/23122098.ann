@@ -1,0 +1,20 @@
+T18	CHEMICAL 26 34	phenolic
+T1	CHEMICAL 279 287	methanol
+T2	CHEMICAL 329 337	phenolic
+T3	CHEMICAL 339 394	2-(2-hydroxyl-5-(methoxycarbonyl) phenoxy) benzoic acid
+T4	CHEMICAL 410 420	kaempferol
+T5	CHEMICAL 422 438	isolariciresinol
+T6	CHEMICAL 440 452	stigmasterol
+T7	CHEMICAL 454 478	butylated hydroxytoluene
+T8	CHEMICAL 480 503	3,4-dihydroxyl benzoate
+T9	CHEMICAL 505 521	methyl shikimate
+T10	CHEMICAL 526 541	ethyl shikimate
+T11	CHEMICAL 730 734	DPPH
+T12	CHEMICAL 788 841	2-(2-hydroxy-5-(methoxycarbonyl) phenoxy)benzoic acid
+T13	CHEMICAL 843 853	kaempferol
+T14	CHEMICAL 855 871	isolariciresinol
+T15	CHEMICAL 873 897	butylated hydroxytoluene
+T16	CHEMICAL 902 924	3,4-dihydroxy benzoate
+T17	CHEMICAL 996 1020	butylated hydroxytoluene
+T19	GENE-Y 1199 1209	tyrosinase
+T20	GENE-Y 1214 1227	α-glucosidase

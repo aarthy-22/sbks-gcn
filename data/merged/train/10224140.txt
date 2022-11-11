@@ -1,0 +1,12 @@
+Molecular cloning and characterization of a new multispecific organic anion transporter from rat brain.
+A cDNA encoding the new member of the multispecific organic anion transporter family, OAT3, was isolated by the reverse transcription-polymerase chain reaction cloning method.
+Degenerate primers were designed based on the sequences conserved among OAT1, OAT2, and organic cation transporter 1 (OCT1), and reverse transcription-polymerase chain reaction was performed using rat brain poly(A)+ RNA.
+The 536-amino acid protein sequence encoded by OAT3 showed 49, 39, and 36% identity to those of OAT1, OAT2, and OCT1, respectively.
+Northern blot analysis revealed that rat OAT3 mRNA is expressed in the liver, brain, kidney, and eye.
+When expressed in Xenopus laevis oocytes, OAT3 mediated the uptake of organic anions, such as p-aminohippurate (Km = 65 microM), ochratoxin A (Km = 0.74 microM), and estrone sulfate (Km = 2.3 microM) and a cationic compound, cimetidine.
+OAT3-mediated uptake of [3H]estrone sulfate was sodium-independent.
+para-Aminohippuric acid, estrone sulfate or ochratoxin A did not show any trans-stimulatory effect on either influx or efflux of [3H]estrone sulfate via OAT3.
+Organic anions such as sulfobromophthalein, probenecid, indocyanine green, bumetanide, piroxicam, furosemide, azidodeoxythymidine, 4, 4'-diisothiocyanostilbene-3,3'-disulfonic acid, and benzylpenicillin inhibited OAT3-mediated estrone sulfate uptake, while ouabain and digoxin did not.
+Organic cations such as tetraethylammonium, guanidine, verapamil, and quinidine did not interact with OAT3.
+Acidic metabolites of neurotransmitters derived from dopamine, epinephrine, norepinephrine, and serotonin inhibited the uptake of estrone sulfate via OAT3.
+These results suggest an important role of OAT3 in the excretion/detoxification of endogenous and exogenous organic anions, especially from the brain.

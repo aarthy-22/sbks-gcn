@@ -1,0 +1,21 @@
+T6	CHEMICAL 106 114	imatinib
+T11	GENE-Y 698 709	Fip1-like-1
+T12	GENE-Y 710 755	platelet-derived growth factor receptor alpha
+T13	GENE-Y 757 763	FIP1L1
+T14	GENE-Y 764 770	PDGFRA
+T15	GENE-Y 798 842	platelet-derived growth factor receptor beta
+T16	GENE-Y 844 850	PDGFRB
+T17	GENE-Y 973 1008	fibroblast growth factor receptor 1
+T18	GENE-Y 1010 1015	FGFR1
+T7	GENE-Y 1542 1548	PDGFRA
+T8	GENE-Y 1552 1558	PDGFRB
+T1	CHEMICAL 1589 1597	imatinib
+T2	CHEMICAL 1630 1640	prednisone
+T3	CHEMICAL 1642 1653	hydroxyurea
+T9	GENE-N 1659 1675	interferon-alpha
+T4	CHEMICAL 1715 1723	imatinib
+T5	CHEMICAL 1725 1735	cladribine
+T10	GENE-Y 1773 1786	interleukin-5
+R0	NOT Arg1:T3 Arg2:T9
+R1	NOT Arg1:T3 Arg2:T10
+R2	NOT Arg1:T9 Arg2:T4

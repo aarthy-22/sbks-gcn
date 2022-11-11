@@ -1,0 +1,9 @@
+Effect of bioactive peptide of Carapax Trionycis on TGF-β1-induced intracellular events in hepatic stellate cells.
+ETHNOPHARMACOLOGICAL RELEVANCE: In traditional Chinese medicines for hepatic fibrosis therapy, Carapax Trionycis is used usually as an indispensable component and has a long history of medical use in China.
+Previous studies have demonstrated that extracts of Carapax Trionycis were able to protect liver against fibrosis in CCl4 animal models.
+AIM OF THE STUDY: The purpose of this study is to verify the inhibitory effect and the underlying mechanisms of Carapax Trionycis extract peptide (CTEP) on activated hepatic stellate cells which play a central role in liver fibrogenesis.
+MATERIALS AND METHODS: Hepatic stellate cells induced by TGF-β1 were applied to evaluate the anti-fibrotic effect of CTEP in vitro.
+MTS assay, enzyme-linked immunosorbent assay and western blotting were then used to further investigate the molecular mechanisms.
+RESULTS: The results show that the contents of collagen I, collagen III and TIMP-1 were significantly inhibited and the level of collagen I, collagen III, p-Smad 3, TIMP-1 and α-SMA proteins decreased significantly in a concentration-dependence manner after treatment with CTEP.
+Interestingly, the level of Smad 3 protein was not different significantly.
+CONCLUSIONS: Our data indicate that CTEP efficiently inhibits cultured HSC-T6 cell activation and proliferation via the TGF-β1/Smad pathway as well as by the elimination of the extracellular matrix.

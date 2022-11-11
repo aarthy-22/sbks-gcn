@@ -1,0 +1,36 @@
+T22	CHEMICAL 14 20	stanol
+T23	CHEMICAL 54 65	cholesterol
+T8	CHEMICAL 150 161	cholesterol
+T19	CHEMICAL 197 203	stanol
+T3	CHEMICAL 263 274	cholesterol
+T4	CHEMICAL 298 309	cholesterol
+T5	CHEMICAL 365 385	stanyl hemisuccinate
+T6	CHEMICAL 405 430	stanyl sorbitol succinate
+T7	CHEMICAL 479 490	cholesterol
+T26	GENE-N 495 518	low density lipoprotein
+T9	CHEMICAL 519 530	cholesterol
+T10	CHEMICAL 572 587	triacylglycerol
+T27	GENE-N 592 616	high density lipoprotein
+T11	CHEMICAL 617 628	cholesterol
+T12	CHEMICAL 640 646	stanol
+T13	CHEMICAL 675 686	cholesterol
+T14	CHEMICAL 722 733	cholesterol
+T15	CHEMICAL 764 784	stanyl hemisuccinate
+T16	CHEMICAL 795 820	stanyl sorbitol succinate
+T28	GENE-Y 846 868	liver X receptor alpha
+T29	GENE-Y 870 874	LXRα
+T17	CHEMICAL 902 913	cholesterol
+T30	GENE-Y 902 928	cholesterol 7α-hydroxylase
+T31	GENE-Y 930 936	CYP7A1
+T18	CHEMICAL 966 975	bile acid
+T20	CHEMICAL 1043 1049	stanol
+T21	CHEMICAL 1108 1119	cholesterol
+T1	CHEMICAL 1145 1151	stanol
+T24	GENE-Y 1204 1208	LXRα
+T25	GENE-Y 1209 1215	CYP7A1
+T2	CHEMICAL 1216 1225	bile acid
+R0	CPR-3 Arg1:T16 Arg2:T28
+R1	NOT Arg1:T26 Arg2:T9
+R2	NOT Arg1:T26 Arg2:T12
+R3	NOT Arg1:T29 Arg2:T18
+R4	NOT Arg1:T1 Arg2:T25

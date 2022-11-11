@@ -1,0 +1,19 @@
+T18	GENE-Y 54 95	lipoprotein-associated phospholipase A(2)
+T6	GENE-Y 97 138	Lipoprotein-associated phospholipase A(2)
+T11	GENE-Y 140 149	Lp-PLA(2)
+T14	GENE-Y 153 162	PLA(2)G7)
+T16	GENE-N 172 195	low-density lipoprotein
+T7	GENE-N 197 200	LDL
+T9	GENE-Y 283 292	Lp-PLA(2)
+T10	GENE-Y 394 403	Lp-PLA(2)
+T1	CHEMICAL 435 445	darapladib
+T2	CHEMICAL 557 567	darapladib
+T12	GENE-Y 578 587	Lp-PLA(2)
+T3	CHEMICAL 625 631	serine
+T13	GENE-N 625 641	serine hydrolase
+T15	GENE-Y 773 782	Lp-PLA(2)
+T4	CHEMICAL 861 871	darapladib
+T5	CHEMICAL 915 924	carbamate
+T17	GENE-Y 947 956	Lp-PLA(2)
+T8	GENE-Y 1123 1132	Lp-PLA(2)
+R0	NOT Arg1:T2 Arg2:T12

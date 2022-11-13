@@ -1,3 +1,0 @@
-Example 29
-5'-(cyclopropylamino)-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide (I-27)
-An NMP (1 mL) solution of 5'-fluoro-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide (22.5 mg, 0.06 mmol), cyclopropanamine (5 eq.) and NaHCO3 (2 eq) was heated at 140-150° C. for 12 days until 50% of desired product was formed, as monitored by LC-MS. Solvent was removed in vacuo, after silica gel chromatography and further trituration from Hexanes-EtOAc, title compound was obtained as an off-white solid: 1.8 mg (7% yield);

@@ -1,3 +1,0 @@
-Example 47
-3-[5-(4-aminopiperidin-1-yl)-6-(3,5-difluorophenyl)-1,8-naphthyridin-3-yl]-2-hydroxybenzonitrile (Compound No. 4-1)
-Step 47-1, preparation of 6-bromo-3-chloro-1,8-naphthyridin-4-ol: to a solution of 6-bromo-1,8-naphthyridin-4-ol (1.14 g, 5.07 mmol) in acetic acid (20 mL) was added NCS (0.81 g, 6.08 mmol). The mixture was heated at 100° C. for 1 hr and then cooled to RT. The solid was collected by vacuum filtration and washed with acetic acid and water to afford the title compound (0.73 g, 2.79 mmol, 55.1% yield) as a brown solid. (M+1)+=259.0.

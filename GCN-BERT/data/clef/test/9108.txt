@@ -1,3 +1,0 @@
-Step B
-2-[(2S)-2-{[(2S)-1-[(2S)-2-Azaniumyl-5-{[azaniumyl(iminiumyl)methyl]amino}pentanoyl]pyrrolidin-2-yl]formamido}-2-phenylethyl]pyridin-1-ium tetrachloride
-tert-Butyl N-[(1Z)-{[(4S)-4-{[(tert-butoxy)carbonyl]amino}-5-oxo-5-[(2S)-2-{[(1S)-1-phenyl-2-(pyridin-2-yl)ethyl]carbamoyl}pyrrolidin-1-yl]pentyl]amino}({[(tert-butoxy)carbonyl]imino})methyl]carbamate (200 mg, 0.27 mmol) was dissolved in a 1 M HCl solution in Et2O (5.3 mL, 10.64 mmol). The reaction was stirred at rt for 18 hours. The product was triturated in Et2O. The solid was recovered by filtration on a Büchner funnel, washed with Et2O and dried under vacuum. The solid was dissolved in water and freeze dried to afford 140 mg (88%) of the title compound

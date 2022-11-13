@@ -1,3 +1,0 @@
-[Synthesis Example 8] Synthesis of Compound 49
-[Reaction Scheme 8-1] Synthesis of Intermediate 8-a
-The same procedure as in Reaction Scheme 1-13 of Synthesis Example 1 was carried out, with the exception of using cyanuric chloride and phenyl boronic acid instead of Intermediate 1-h and Intermediate 1-l, respectively, to afford Intermediate 8-a (28 g): yield 48%

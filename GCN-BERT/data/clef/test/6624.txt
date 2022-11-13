@@ -1,2 +1,0 @@
-Step 4: Preparation of 6-(piperazine-1-yl)-3H-imidazo[4,5-c]pyridine
-Analogous to the process for preparing Compound d in Step 4 in Example 1, Compound q was deprotected by reacting with trifluoroacetic acid to produce Compound r:6-(piperazine-1-yl)-3H-imidazo[4,5-c]pyridine (279 mg, yield 75%). MS(ESI)m/z: [M+H]+=204.

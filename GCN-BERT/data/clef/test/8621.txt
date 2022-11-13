@@ -1,3 +1,0 @@
-Preparation 4: Synthesis of Intermediate 4 {methyl 4-(4-(4-(azetidin-3-ylethynyl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanoate dihydrochloride}
-Step 1: Synthesis of tert-butyl 3-ethynylazetidine-1-carboxylate
-A solution of tert-butyl 3-formylazetidine-1-carboxylate (7 g, 1 eq) in MeOH (378 ml) was cooled at 0° C. K2CO3(10.5 g, 2 eq), dimethyl (1-diazo-2-oxopropyl)phosphonate (15.8 g, 2.2 eq) was added. The mixture was stirred for 4 hr at 0° C., and extracted with dichloromethane and water. The organic layer was washed with sat. aq. NH4Cl, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (5.95 g, 87%).

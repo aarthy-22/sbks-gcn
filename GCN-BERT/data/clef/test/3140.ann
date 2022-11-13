@@ -1,6 +1,0 @@
-T1	EXAMPLE_LABEL 0 4	40.2
-T2	REACTION_PRODUCT 6 64	3-methyl-5-(2-methyl-pyridin-3-yl)-1H-pyrimidine-2,4-dione
-T3	REACTION_PRODUCT 125 196	1-benzhydryl-3-methyl-5-(2-methyl-pyridin-3-yl)-1H-pyrimidine-2,4-dione
-T4	YIELD_OTHER 198 203	23 mg
-T5	YIELD_PERCENT 205 209	100%
-T6	REACTION_PRODUCT 214 272	3-methyl-5-(2-methyl-pyridin-3-yl)-1H-pyrimidine-2,4-dione

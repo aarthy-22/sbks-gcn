@@ -1,4 +1,0 @@
-Synthesis Example 8: Synthesis of Compound 47
-Compound 47 was synthesized in the same manner as in Synthesis Example 1, except that N-(5'-fluoro-[1,1':3',1″-terphenyl]-4'-yl)dibenzo[b,d]furan-4-amine was used instead of biphenyl-3-yl(dibenzofuran-4-yl)amine in Synthesis of Intermediate Compound (i), and tert-butylmagnesium bromide was used instead of methylmagnesium bromide in Synthesis of Intermediate Compound (ii).
-Yield: 0.69 g (0.53 mmol, 34%).
-HR-EIMS (m/z) [M+] calcd for C94H70F2N2O2 1296.5405; found, 1296.5442.

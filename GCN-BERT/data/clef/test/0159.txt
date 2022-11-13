@@ -1,6 +1,0 @@
-Example 20
-3,7-Dimethyl-1-(4-(5-methylisoxazol-3-yl)butyl)-1H-purine-2,6(3H,7H)-dione
-Step 1
-5-(4-Chlorobutyl)-3-methylisoxazole
-3-(4-Chlorobutyl)-5-methylisoxazole
-8-Chlorooctane-2,4-dione (1.00 g, 5.70 mmol) was dissolved in anhydrous ethanol (5 mL) and hydroxylamine hydrochloride (3.90 g, 57.0 mmol) was added at room temperature under nitrogen atmosphere. The reaction solution was heated to 100°C and stirred for 3 hours. Water (60 mL) was added to quench the reaction. The reaction solution was extracted with ethyl acetate (30 mL x 3). The organic phases were combined, washed with saturated sodium chloride solution (30 mL x 2), dried over anhydrous magnesium sulfate, filtered, the filtrate was concentrated under reduced pressure and purified by silica gel column chromatography (10:1 petroleum ether / ethyl acetate, Rf = 0.3) to give a mixture of 5-(4-chlorobutyl)-3-methylisoxazole and 3-(4-chlorobutyl)-5-methylisoxazole (900 mg, as a yellow oil) with a yield of 92%. MS-ESI calcd. [M + H]+ 174, found 174.

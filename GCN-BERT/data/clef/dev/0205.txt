@@ -1,3 +1,0 @@
-Example 17 Synthesis of (S)-ethyl-3-phenyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-aminoform yl)propionate (Compound 17)
-The product (1.65 g, yield: 69%) as a white solid was obtained in accordance with the steps in Example 5, by using 1.35 g (7 mmol) L-phenylalanine ethyl ester as Raw material 2.
-m.p.91-93°C . 1H-NMR (400MHz,CDCl3) δ: 7.69 (2H, d, J=8.42Hz), 7.30 (5H, m), 7.16 (2H, d, J=8.41Hz), 6.88 (1H, d, J=8.63Hz), 4.77 (2H, m), 4.22 (2H, m), 3.89 (1H, m), 3.29 (1H, m), 3.08 (2H, m), 2.69-0.91 (10H, m). MS-EI (m/z): 477.1512 [M+H]+.

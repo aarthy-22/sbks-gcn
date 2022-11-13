@@ -1,2 +1,0 @@
-Synthesis Example 7: Production of Aromatic Amine Derivative (PH7)
-In the same manner as in Synthesis Example 2 except for using 4.6 g of the intermediate 11 in place of the intermediate 5, 4.0 g (yield: 60%) of a white solid was obtained, which was identified as the following compound (PH7) by FD-MS analysis: m/z=664 (theoretical value: 664 for C48H28N2O2).

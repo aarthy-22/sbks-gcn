@@ -1,3 +1,0 @@
-Example 113
-N-(2-acetamidoethyl)-4-(6-fluoro-1H-indol-3-yl)benzamide
-This compound was prepared from Intermediate 3 and N-acetylethylenediamine according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (15.6 mg, 42%). Data: LCMS (B) Rt : 8.996 min; m/z 340.1 (M+H)+.

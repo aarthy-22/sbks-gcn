@@ -1,4 +1,0 @@
-Example
-Synthesis Example 1: Synthesis of Compound 4
-Synthesis of Intermediate A
-Under an Ar atmosphere, 8.65 g of 1,8-dibromonaphthalene, 3.69 g of phenylboronic acid, 1.75 g of Pd(PPh3)4, and 3.55 g of K2CO3 were dissolved in a mixed solvent containing 90 mL of water and 300 mL of tetrahydrofuran (THF) and then refluxed and stirred for 6 hours in a 500-mL three-neck flask. An organic layer obtained therefrom was dried by using MgSO4, and the solvent was evaporated. The residue obtained therefrom was separated and purified by silica gel column chromatography, thereby completing the preparation of 5.23 g (61%) of Intermediate A. A molecular weight of the prepared Intermediate A was measured to be 283 by MS/FAB.

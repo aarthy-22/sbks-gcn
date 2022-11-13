@@ -1,2 +1,0 @@
-Step 3: N-(3-chloro-4-fluorophenyl)-N-(3,4-dimethoxybenzyl)-7-fluoro-6-nitroquinazoline -4-amine
-To acetonitrile (20 mL) were added 4-chloro-7-fluoro-6-nitroquinazoline (2.1 g, 9.2 mmol) and 3-chloro-N-(3,4-dimethoxybenzyl)-4-fluoroaniline (2.7 g, 9.2 mmol), and refluxed for 3 hours. After cooling, the reaction mixture was neutralized with sodium carbonate solution, and extracted with ethyl acetate. The organic phase was separated, washed with saturated brine, dried over anhydrous sodium sulfate, and concentrated in vacuo to afford the title compound (3.6 g, 80%).

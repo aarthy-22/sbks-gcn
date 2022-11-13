@@ -1,3 +1,0 @@
-Example 76
-Preparation of 2-chloro-N,N'-dimethyl-5-nitro-N'-phenylbenzohydrazide (C218)
-To a solution of 2-chloro-N'-methyl-5-nitro-N'-phenylbenzohydrazide (C219) (0.273 g, 0.893 mmol) in N,N-dimethylformamide (8.5 mL) cooled to 0° C. was added sodium hydride (60% oil immersion, 0.045 g, 1.116 mmol). The reaction mixture was allowed to stir at 0° C. for 15 minutes and then methyl iodide (0.070 mL, 1.116 mmol) was added. The reaction mixture was allowed to warm to room temperature and was stirred for 3 hours. The reaction was quenched with water (10 mL) and extracted with ethyl acetate (25 mL). The organic layer was washed with water (3×15 mL) and brine (15 mL) and then concentrated under reduced pressure to afford the title compound as a yellow solid (0.283 g, 98%):

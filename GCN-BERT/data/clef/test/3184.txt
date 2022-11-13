@@ -1,3 +1,0 @@
-Core 4B
-(E)-ethyl 2-(((2-(dimethylamino)pyridin-3-yl)methylene)amino)acetate
-Ethyl 2-aminoacetate hydrochloride (3.72 g, 26.6 mmol) and magnesium sulfate (6.41 g, 53.3 mmol) were suspended in dichloromethane (44.4 mL). The suspension was treated with 2-(dimethylamino)nicotinaldehyde (4 g, 26.6 mmol) and triethylamine (3.71 mL, 26.6 mmol) and the mixture was stirred at room temperature for 16 hours. The solid material was removed via filtration and the filtrate was washed with water, dried over sodium sulfate, filtered and concentrated to provide the crude imine (5.76 g, 92%), which was used in the next step without additional purification.

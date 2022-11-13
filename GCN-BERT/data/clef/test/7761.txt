@@ -1,2 +1,0 @@
-[Reaction Scheme 1-5] Synthesis of [Intermediate 1-e]
-In a 1-L reactor, Intermediate 1-d (46 g, 116 mmol), bismuth (III) trifluoromethane sulfonate (3.8 g, 5.8 mmol), and 1,2-dichloroethane (500 ml) were placed and stirred together at room temperature for 3 hours under a nitrogen atmosphere. After completion of the reaction, precipitates were formed with methyl alcohol and filtered to afford Intermediate 1-e (38 g) as a solid: yield 89%

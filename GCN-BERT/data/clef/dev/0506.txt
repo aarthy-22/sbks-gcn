@@ -1,6 +1,0 @@
-Example 15: Synthesis of (S)-3-aminoquinuclidine.monosulfate
-Toluene solution (33.99 g) containing (S)-3-aminoquinuclidine (4.05 g: 32.1 mmol) was charged into a 50 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and 95% sulfuric acid (3.32 g: 32.2 mmol) was added thereto while stirring on ice. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain (S)-3-aminoquinuclidine.monosulfate (6.12 g (27.3 mmol, yield=85%) as a white crystal.
-Endothermic peak top temperature in DSC: 86° C., 188° C., 297° C.
-Elemental analysis: C7H14N2.H2SO4
-Theoretical value: C, 37.49%, H, 7.19%, N, 12.49%, S 14.29%
-Actual measured value: C, 36.6%, H, 7.1%, N, 12.2%, S 14.2%

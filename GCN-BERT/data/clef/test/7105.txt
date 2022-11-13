@@ -1,2 +1,0 @@
-Synthesis Example 11: Synthesis of Compound 42
-Compound 42 (5.21 g, a yield of 74%) was obtained according to the same method as Synthesis Example 1 except for using 4-(biphenyl-4-yl)-2-bromoquinazoline instead of the bromometabiphenyl in Step 2 of Synthesis Example 1. calcd. C56H34N4: C, 88.16; H, 4.49; N, 7.34; found: C, 88.16; H, 4.49; N, 7.34.

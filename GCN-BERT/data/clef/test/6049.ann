@@ -1,7 +1,0 @@
-T1	YIELD_PERCENT 465 468	76%
-T2	YIELD_OTHER 446 456	11.11 mmol
-T3	STARTING_MATERIAL 243 348	tert-butyl (S)-2-(5-chloro-3-(3-fluorophenyl)-4-oxo-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate
-T4	EXAMPLE_LABEL 5 6	2
-T5	YIELD_OTHER 97 103	3.82 g
-T6	REACTION_PRODUCT 107 180	(S)-5-chloro-3-(3-fluorophenyl)-2-(pyrrolidine-2-yl)quinazoline-4(3H)-one
-T7	REACTION_PRODUCT 23 96	(S)-5-chloro-3-(3-fluorophenyl)-2-(pyrrolidine-2-yl)quinazoline-4(3H)-one

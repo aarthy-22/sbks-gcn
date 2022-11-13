@@ -1,3 +1,0 @@
-Example 3
-Preparation of 2-chloro-5-((1R,3R)-2,2-dichloro-3-(4-fluoro-3-(trifluoromethyl)phenyl)cyclopropane-1-carboxamido)-N-(2,4-difluoro-3-(2,2,2-trifluoroacetamido)phenyl)benzamide (F1169)
-Trifluoroacetic anhydride (0.035 g, 0.251 mmol) was added dropwise to a stirred solution of N-(3-amino-2,4-difluorophenyl)-2-chloro-5-((1R,3R)-2,2-dichloro-3-(4-fluoro-3-(trifluoromethyl)phenyl)cyclopropane-1-carboxamido)benzamide (DP9) (0.100 g, 168 mmol), and triethylamine (0.051 g, 0.503 mmol) in anhydrous dichloromethane (3 mL). The solution was stirred for 12 hours at 23° C. and concentrated. Purification by silica gel flash chromatography gave the title compound as a white foam (0.084 g, 69%).

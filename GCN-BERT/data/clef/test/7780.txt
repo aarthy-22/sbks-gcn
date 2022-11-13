@@ -1,3 +1,0 @@
-[Synthesis Example 5] Synthesis of Compound 29
-[Reaction Scheme 5-1] Synthesis of [Intermediate 5-a]
-In a 2-L reactor, dibenzothiophene (100 g, 542 mmol) and chloroform (1 L) were stirred together under a nitrogen atmosphere and cooled to 0° C. A dilution of bromine (87 g, 542 mmol) in dichloromethane (100 ml) was slowly added in a dropwise manner, followed by stirring at room temperature for 12 hours. After the reaction was terminated with water, the organic layer was extracted and washed with an aqueous sodium hydroxide solution. The organic was condensed and recrystallized in methanol and hexane to afford the compound of Chemical Formula 5-a (74.1 g): yield 52%

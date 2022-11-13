@@ -1,3 +1,0 @@
-Step 4
-1-Methyl-3-(3-(3-methylisoxazol-5-yl)propyl)pyrido[3,4-d]pyrimidine-2,4-dione
-3-(3-Methylisoxazol-5-yl)propyl methanesulfonate (48.4 mg, 0.221 mmol), 1-methylpyrido[3,4-d]pyrimidine-2,4-dione (30.0 mg, 0.169 mmol), potassium iodide (2.8 mg, 0.017 mmol) and potassium carbonate (46.8 mg, 0.338 mmol) were dissolved in N,N-dimethylformamide (5 mL). The reaction was warmed to 120°C and stirred for 3 hours. After cooling to room temperature and filtration, the filtrate was concentrated under reduced pressure and the residue was purified by preparative HPLC to give 1-methyl-3-(3-(3-methylisoxazol-5-yl)propyl)[3,4-d]pyrimidine-2,4-dione (10.0 mg) with a yield of 18%.

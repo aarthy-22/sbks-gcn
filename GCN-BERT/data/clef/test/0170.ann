@@ -1,9 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	3
-T2	REACTION_PRODUCT 23 140	4-(4-fluoro-3-(4-(2-trifluoromethyl)-1H-imidazo[4,5-b]pyridin-5-yl)piperazine-1-carbonyl)benzyl)phthalazin-1 (2H)-one
-T3	OTHER_COMPOUND 190 191	1
-T4	REACTION_PRODUCT 226 227	j
-T5	OTHER_COMPOUND 256 257	f
-T6	REACTION_PRODUCT 279 280	3
-T7	REACTION_PRODUCT 283 390	4-(4-fluoro-3-(4-(2-methyl-1H-imidazo[4,5-b]pyridin-5-yl)piperazine-1-carbonyl)benzyl)p hthalazin-1(2H)-one
-T8	YIELD_OTHER 392 397	38 mg
-T9	YIELD_PERCENT 405 408	41%

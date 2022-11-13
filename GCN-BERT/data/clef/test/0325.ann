@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	20
-T2	REACTION_PRODUCT 24 112	(R)-tert-butyl-3-phenyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-amino formyl)propionate
-T3	REACTION_PRODUCT 123 125	20
-T4	REACTION_PRODUCT 131 138	product
-T5	YIELD_OTHER 140 146	1.59 g
-T6	YIELD_PERCENT 155 158	63%
-T7	STARTING_MATERIAL 258 290	D-phenylalanine tert-butyl ester

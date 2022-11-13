@@ -1,2 +1,0 @@
-2e-
-To a round-bottom flask containing 2-5 (158 mg, 0.50 mmol, 1 equiv) under argon atmosphere was added acetic anhydride (10 mL, excess). A reflux condenser under inert atmosphere was affixed and the reaction was heated at 110° C. for 16 hours. Acetic anhydride was removed under reduced pressure, and the residual oil was purified by flash chromatography using a linear gradient from 10% ethyl acetate and 90% hexanes to 40% ethyl acetate and 60% hexanes, yielding intermediate 2-6 (63 mg, 0.16 mmol, 33% yield). Product was characterized by 1H, 13C, and HSQC NMR in CDCl3.

@@ -1,3 +1,0 @@
-Example I-11 Synthesis of Compound 69
-Synthesis of Compound 66
-To a mixture of compound 65 (145.0 mg, 1.0 mmol) in DMF (6 mL), maleic anhydride (89.8 mg, 0.9 mmol) was dropwise added slowly. The mixture was heated to reflux for 12 hours. After cooled to room temperature, solid product precipitated was filtered and washed with CH2Cl2 (20 mL×3) to afford the compound 66 (110.2 mg, 45.1%) as a white solid. LC-MS m/z (ES+), 244.02 (M+H)+.

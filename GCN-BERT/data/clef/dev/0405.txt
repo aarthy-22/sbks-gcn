@@ -1,3 +1,0 @@
-Intermediate Synthesis 3: Synthesis of Intermediate 3
-Under an argon atmosphere, a mixture of 52.4 g (203.7 mmol) of the intermediate 2 in 700 ml of dimethylformamide was stirred. After adding 36.2 g (203.7 mmol) of N-bromosuccinimide, the mixture was further stirred at room temperature for 12 h.
-After the reaction, the mixture was extracted with toluene in a separatory funnel. The organic layer was dried over anhydrous magnesium sulfate, filtered, and then concentrated. The concentrate residue was purified by silica gel column chromatography to obtain 43.1 g (yield: 63%) of a white solid, which was identified as the following intermediate 3 by FD-MS analysis.

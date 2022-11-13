@@ -1,4 +1,0 @@
-Embodiment 26
-2-({1-[(2,6-dichlorophenyl)methyl]-3-methyl-1H-indazol-6-yl}thio)-2-methyl propionic acid (Compound 26)
-Synthesis of compound 26-b
-At room temperature, potassium carbonate (490mg, 3.55mmol) was added to a solution of 6-bromo-3-methyl-1H-indazole (500mg, 2.37mmol) and 2,6-dichlorobenzyl bromide (680mg, 2.84mmol) in DMF (5mL). The mixture was stirred for 12hrs, followed by adding water (lOmL), being extracted with EA (20mL×3). The organic phases were combined, washed in turn with water (10mL) and saturated brine (10mL), dried over magnesium sulfate, filtered, and concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 10:1) to give yellow oil 26-b (400mg, yield 45%).

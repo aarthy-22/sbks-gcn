@@ -1,2 +1,0 @@
-Synthesis of compound 27-c
-At 0°C, N-bromosuccinimide (360mg, 2.05mmol) was added to a solution of compound 27-d (400mg, 2.05mmol) and ammonium acetate (160mg, 2.05mmol) in CH3CN (10mL). The reaction solution was warmed to room temperature and stirred for 12hrs, and concentrated under reduced pressure to remove solvent. The residue was purified by silica column chromatography (PE:EA=2:1) to give compound 27-c (500mg, yield 89%).

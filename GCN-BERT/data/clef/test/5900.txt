@@ -1,4 +1,0 @@
-EXAMPLE 97
-Preparation of (S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-7,8-dihydropyrido[2,3-d]pyrimidine-5(6H)-one
-Step 1: Preparation of (S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)-7,8-dihydropyrido[2,3-d]pyrimidine-5(6H)-one
-326 mg of (S)-4-((1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethyl)amino)-8-(4-methoxybenzyl)-7,8-dihydropyrido[2,3-d]pyrimidine-5(6H)-one was prepared as a white solid by using 200 mg (0.658 mmol) of 4-chloro-8-(4-methoxybenzyl)-7,8-dihydropyrido[2,3-d]pyrimidine-5(6H)-one and 136 mg (0.790 mmol) of (S)-3-(1-aminoethyl)-8-chloro-2-phenylisoquinoline-1(2H)-one according to the same manner as described in step 5 of Example 34 (0.576 mmol, yield: 87%).

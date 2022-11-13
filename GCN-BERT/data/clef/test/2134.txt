@@ -1,3 +1,0 @@
-Example 270
-1-[2-(Cyclopropyloxy)ethyl]-6-[(2,3-dioxopiperazin-1-yl)methyl]-3-ethyl-5-methylthieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
-105 mg (0.203 mmol) of the compound from Example 308A were dissolved in 4.5 ml of ethanol, and 300 mg (2.03 mmol) of diethyl oxalate were added. The mixture was stirred in a microwave apparatus at 80° C. for 18 h. Thereafter, the reaction solution was concentrated on a rotary evaporator. The residue was dissolved in 6 ml of DMSO and this solution was purified by means of preparative HPLC (Method 14). Combination of the product fractions and freeze-drying gave 55 mg (64% of theory) of the title compound

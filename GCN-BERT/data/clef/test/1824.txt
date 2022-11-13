@@ -1,4 +1,0 @@
-14.2 5-Difluoromethoxy-2-iodo-pyridine
-14.1 2-Bromo-5-difluoromethoxy-pyridine
-6-Bromo-pyridin-3-ol (purchased from ABCR) (0.50 g, 2.87 mmol), sodium chloro-difluoro-acetate (0.88 g, 5.75 mmol) and potassium carbonate (0.50 g, 3.59 mmol) are dissolved in 5 ml N,N-Dimethylformamide and stirred at 80° C. for 18 hours. Water is added and the mixture is extracted with diethyl ether twice. The organic phase is dried and concentrated under reduced pressure. The mixture is purified by silica gel chromatography (eluent: cyclohexane/ethyl acetate 5%-15%).
-Yield: 0.23 g (35% of theory)

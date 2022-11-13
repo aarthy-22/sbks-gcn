@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	30
-T2	REACTION_PRODUCT 27 117	tert-butyl 4-(5-(3-(N-phenylpentanamido)prop-1-yn-1-yl)picolinoyl)piperazine-1-carboxylate
-T3	REACTION_PRODUCT 119 126	LMT-834
-T4	REACTION_PRODUCT 145 236	tert-butyl 4-(5-(3-(N-phenylpentaneamido)prop-1-yn-1-yl)picolinoyl)piperazine-1-carboxylate
-T5	YIELD_PERCENT 252 256	36mg
-T6	YIELD_PERCENT 258 261	35%
-T7	STARTING_MATERIAL 338 374	N-phenyl-N-(prop-2-ynyl)pentaneamide
-T8	STARTING_MATERIAL 412 468	tert-butyl 4-(5-bromopicolinoyl)piperazine-1-carboxylate

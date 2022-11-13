@@ -1,5 +1,0 @@
-Core 4
-rac-(2R,3S,4R,5R)-ethyl 3-(tert-butyl)-5-(2-(dimethylamino)pyridin-3-yl)-4-nitropyrrolidine-2-carboxylate
-Core 4A
-2-(dimethylamino)nicotinaldehyde
-Dimethylamine (aqueous solution, 10 mL, 79 mmol) was diluted with 10 mL of methanol and 2-chloronicotinaldehyde (5.0 g, 35.3 mmol) was added all at once. The reaction mixture was heated to 55° C. for 24 hours and another 10 mL of dimethylamine solution was added. After an additional 24 hours, the starting material had been consumed. The reaction mixture was cooled to room temperature, diluted with saturated aqueous ammonium chloride and extracted with dichloromethane. The combined extracts were concentrated and purified via flash chromatography, eluting with 0-20% ethyl acetate/heptanes over 20 minutes on an 80 g silica gel column to provide the title compound (3.9988 g, 75%).

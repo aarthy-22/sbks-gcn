@@ -1,2 +1,0 @@
-Synthesis of Compound 9
-Compound 7 (140.1 mg, 0.3 mmol) was dissolved in 5 mL CH2Cl2 and cooled to 0° C. in an ice bath. Et3N (1 mg, 0.01 mmol) and the compound 8 (73.7 mg, 0.1 mmol) were added to the resulting mixture and left to stir for 30 minutes. The solution was allowed to warm to room temperature and stirred for another 1.5 hours. The solvent was removed under reduced pressure, and the solid residue was purified by pre-HPLC to give compound 9 as a white powder (90 mg, 74.8%). LC-MS m/z (ES+), 1204.49 (M+H)+.

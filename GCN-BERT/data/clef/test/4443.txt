@@ -1,4 +1,0 @@
-Example Compound 33
-2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(7-chloro-2-methyl-1H-indol-1-yl)acetate
-Step 1: 7-chloro-2-methyl-1 H-indole
-To a solution of 2-chloronitrobenzene (403 mg, 2.56 mmol) in anhydrous THF (5.0 mL) was added a solution of isopropylmagesium bromide (15.2 mL, 7.6 mmol, 0.5 M in THF) at -40 °C under argon. After 20 min, the reaction was quenched with aqueous NH4Cl (50 mL) and diluted with Et2O (50 mL). The two layers were separated and the aqueous layer was extracted with Et2O (2 x 30 mL). The combined organics were dried (MgSO4), filtered, and concentrated in vacuo. Purification by column chromatography (5→10% EtOAc in PE) gave 176 mg (42%) of the title compound

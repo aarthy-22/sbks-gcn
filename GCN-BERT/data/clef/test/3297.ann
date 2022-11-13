@@ -1,9 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	3
-T2	REACTION_PRODUCT 23 86	t-butyl 4-(3H-imidazo[4,5-b]pyridin-6-yl)piperazine-1-carbonate
-T3	OTHER_COMPOUND 135 136	k
-T4	OTHER_COMPOUND 170 171	t
-T5	OTHER_COMPOUND 190 212	trimethyl orthoformate
-T6	REACTION_PRODUCT 233 234	u
-T7	REACTION_PRODUCT 236 299	t-butyl 4-(3H-imidazo[4,5-b]pyridin-6-yl)piperazine-1-carbonate
-T8	YIELD_OTHER 301 307	0.36 g
-T9	YIELD_PERCENT 315 318	73%

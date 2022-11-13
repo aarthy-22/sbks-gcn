@@ -1,5 +1,0 @@
-EXAMPLE
-Synthesis Example 1
-Synthesis of Compound 1
-Synthesis of Intermediate I-1
-1.08 g (10 mmol) of o-phenylene diamine and 1.06 g (10 mmol) of cyanogen bromide were dissolved in 100 mL of MeOH and were then stirred at room temperature for 24 hours. An ammonia solution was added thereto, and an extraction process was performed thereon three times by using 60 mL of ethyl acetate. An organic layer collected therefrom was dried by using MgSO4 and a solvent was removed therefrom by evaporation. The residue obtained therefrom was separated and purified by silica gel column chromatography, thereby completing the preparation of 1.06 g (80%) of Intermediate I-1. The obtained compound was identified by LC-MS.

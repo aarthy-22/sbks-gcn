@@ -1,5 +1,0 @@
-Intermediate 6
-2-(bromomethyl)-4-(tert-butyl)-1-methoxybenzene
-Intermediate 6A
-(5-(tert-butyl)-2-methoxyphenyl)methanol
-To a cooled (ice bath) solution of 5-tert-butyl-2-methoxybenzoic acid (0.828 g, 3.98 mmol) in tetrahydrofuran (19.88 mL) was added LAH (lithium aluminum hydride) (0.151 g, 3.98 mmol) in portions. The mixture was allowed to warm to room temperature and was stirred for 1 hour. Additional lithium aluminum hydride was added (2 mL of a 2M solution in tetrahydrofuran) and after 3 hours the reaction was quenched by slow addition of sodium sulfate decahydrate. The mixture was diluted with ether and was stirred at room temperature for 15 hours. The mixture was filtered and the solids were washed with ether (2×50 mL). The filtrate was concentrated to provide (5-(tert-butyl)-2-methoxyphenyl)methanol (0.770 g, 3.96 mmol, 100% yield), which was used in the next step without further purification.

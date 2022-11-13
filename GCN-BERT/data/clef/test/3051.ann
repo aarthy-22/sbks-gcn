@@ -1,6 +1,0 @@
-T1	EXAMPLE_LABEL 8 12	117A
-T2	REACTION_PRODUCT 13 141	3-Isobutyl-5-methyl-2,4-dioxo-1-(tetrahydrofuran-2-ylmethyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carbaldehyde (racemate)
-T3	STARTING_MATERIAL 227 243	compound from Ex
-T4	YIELD_OTHER 269 275	506 mg
-T5	YIELD_PERCENT 277 280	92%
-T6	REACTION_PRODUCT 299 313	title compound

@@ -1,3 +1,0 @@
-Intermediate Synthesis 2: Synthesis of Intermediate 2
-Under an argon atmosphere, a mixture of 106.2 g (367.3 mmol) of the intermediate 1 and 240.8 g (918.1 mmol) of triphenylphosphine in 710 ml of o-dichlorobenzene was stirred at 189° C. for 12 h under heating.
-After the reaction, the mixture was cooled to room temperature, and the precipitated crystal was collected by filtration. The crystal was dissolved in tetrahydrofuran and treated with silica gel at room temperature. Then, the silica gel was removed by filtration, and the filtrate was concentrated. The concentrate residue was purified by recrystallization to obtain 52.4 g (yield: 55%) of a white solid, which was identified as the following intermediate 2 by FD-MS analysis.

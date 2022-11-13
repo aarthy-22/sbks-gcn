@@ -1,8 +1,0 @@
-T1	STARTING_MATERIAL 442 464	bromomethylcyclohexane
-T2	REACTION_PRODUCT 26 116	N-(3-(4-(4-(cyclohexylmethyl)piperazine-1-carbonyl)phenyl)prop-2-ynyl)-N-phenylpentanamide
-T3	YIELD_OTHER 251 256	35 mg
-T4	EXAMPLE_LABEL 8 9	9
-T5	REACTION_PRODUCT 118 125	LMT-831
-T6	STARTING_MATERIAL 324 395	N-phenyl-N-(3-(4-(piperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
-T7	REACTION_PRODUCT 144 235	N-(3-(4-(4-(cyclohexylmethyl)piperazine-1-carbonyl)phenyl)prop-2-ynyl)-N-phenylpentaneamide
-T8	YIELD_PERCENT 258 261	56%

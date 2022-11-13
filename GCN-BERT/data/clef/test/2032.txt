@@ -1,5 +1,0 @@
-Core 53
-rac-(4R,6R,7R)-7-amino-5-cyclohexanecarbonyl-6-phenyl-5-aza-spiro[2.4]heptane-4-carboxylic acid methyl ester
-Core 53A
-(2-(benzyloxy)-2-oxoethyl)triphenylphosphonium bromide
-A mixture of benzyl 2-bromoacetate (6.6 mL, 42.1 mmol) and triphenylphosphine (11.58 g, 44.2 mmol) in toluene (200 mL) was stirred at room temperature for 3 days. The precipitate was collected by filtration and washed with diethyl ether to provide the title compound (2-(benzyloxy)-2-oxoethyl)triphenylphosphonium bromide (20 g, 40.3 mmol, 96% yield). LC/MS (ESI+) m/z 411 (M+H)+.

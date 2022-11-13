@@ -1,3 +1,0 @@
-Example 351A
-6-(Hydrazinomethyl)-3-isopropyl-5-methyl-1-(3,3,3-trifluoropropyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
-1.55 g (3.34 mmol) of the compound from Example 342A were dissolved in 30 ml of dichloromethane, and 15 ml of trifluoroacetic acid were added at 0° C. The reaction mixture was stirred first at 0° C. for 90 min and then at RT for 60 min. Subsequently, all the volatile constituents were removed at RT on a rotary evaporator. The remaining residue was purified by means of preparative HPLC (Method 8). After concentration of the product fractions and drying under high vacuum, 647 mg (51% of theory, 96% purity) of the title compound were obtained.

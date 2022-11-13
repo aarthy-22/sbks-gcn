@@ -1,3 +1,0 @@
-Reference Example 10
-Synthesis of (E)-methyl 3-(1-(2,2,2-trifluoroethyl)-1H-imidazol-2-yl)acrylate
-Methyl (triphenylphosphoranylidene)acetate (0.640 g, 1.92 mmol) was added to a solution of 1-(2,2,2-trifluoroethyl)-1H-imidazole-2-carbaldehyde (0.313 g, 1.76 mmol) in dichloromethane (5.0 mL) at room temperature. The reaction liquid was stirred for 16 hours and then concentrated under reduced pressure. The residue was washed with a mixed solvent of n-hexane/dichloromethane=20/1 and the washing solution was concentrated. The residue was purified by column chromatography (silica gel, n-hexane/ethyl acetate) to obtain (E)-methyl 3-(1-(2,2,2-trifluoroethyl)-1H-imidazol-2-yl)acrylate (0.320 g, 1.37 mmol, 78%) as a white solid.

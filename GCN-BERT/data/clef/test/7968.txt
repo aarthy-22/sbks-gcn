@@ -1,4 +1,0 @@
-Synthesis Example 10: Synthesis of Compound 356
-Compound 356 was synthesized in the same manner as in Synthesis Example 9, except that tert-butyl magnesium bromide was used instead of methylmagnesium bromide in Synthesis of Intermediate Compound (iv).
-Yield: 1.03 g (0.85 mmol, 58%).
-HR-EIMS (m/z) [M+] calcd for C90H74N4 1210.5913; found, 1210.5923.

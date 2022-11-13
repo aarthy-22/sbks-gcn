@@ -1,3 +1,0 @@
-Preparation Example 40 Preparation of Compound 40
-After completely dissolving Compound A (10.0 g, 17.92 mmol) and 9,9-dimethyl-N,7-diphenyl-9H-fluoren-2-amine (7.44 g, 20.61 mmol) in 320 ml of xylene in a 500 ml round bottom flask under nitrogen atmosphere, sodium tert-butoxide (2.24 g, 23.29 mol) and then bis(tri-tert-butylphosphine) palladium(0) (0.09 g, 0.19 mmol) were added thereto, and the result was heated and stirred for 5 hours. After lowering the temperature to room temperature, the result was filtered to remove the base, the xylene was vacuum concentrated, and the result was columned using tetrahydrofuran:hexane=1:21 to prepare Compound 40 (12.08 g, yield: 80%).
-MS[M+H]+=840

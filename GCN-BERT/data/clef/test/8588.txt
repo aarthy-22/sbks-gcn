@@ -1,3 +1,0 @@
-Embodiment 33C
-(6-Fluoro-1H-indol-2-yl)methanol
-6-Fluoro-1-(p-toluenesulfonyl)indole-2-carboxylic acid (32.75 g, 98.25 mmol) was dissolved in tetrahydrofuran (400 mL) at 0 °C. Lithium aluminum hydride (9.32 g, 245.63 mmol) was added to the mixture in batches and stirred at 25 °C for 16 hours. TLC showed the reaction was complete, water (9.5 mL), 15% NaOH (9.5 mL) and water (28 mL) were added successively to the reaction mixture, and the mixture was filtered and the filtrate was concentrated to give the crude product. The product was purified by column chromatography (DCM: MeOH = 20: 1, 3: 1) to deliver the title compound (white solid, 5.11 g, yield 31.49%).

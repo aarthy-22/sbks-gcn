@@ -1,2 +1,0 @@
-Step 1. 5,7-Difluoro-2,3-dihydro-1H-inden-1-ol
-To a solution of 5,7-difluoro-2,3-dihydro-1H-inden-1-one (1.134 g, 6.74 mmol) in MeOH (24.0 ml) was added NaBH4 (773.2 mg, 20.44 mmol). After stirring room temperature for 10 min., the mixture was diluted with CH2Cl2 and washed with sat. NaHCO3 (aq). The organic layer was dried over anhydrous Na2SO4, filtered and concentrated. The residue was purified on silica gel (40 g, 0-100% EtOAc in hexanes) to give the desired product as a colorless oil (981.4 mg, 86%).

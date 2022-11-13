@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 18 20	11
-T2	REACTION_PRODUCT 21 105	N-[4-(2-Furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]-2-(pyridin-2-yl)acetamide
-T3	REACTION_PRODUCT 117 119	IN
-T4	REACTION_PRODUCT 188 190	IN
-T5	YIELD_OTHER 193 199	125 mg
-T6	YIELD_PERCENT 201 204	58%
-T7	STARTING_MATERIAL 242 301	2-amino-4-(2-furyl)thiazol-5-yl=tetrahydropyran-4-yl=ketone
-T8	STARTING_MATERIAL 354 388	2-pyridylacetic acid hydrochloride

@@ -1,7 +1,0 @@
-T1	STARTING_MATERIAL 339 397	3-(4-(diethylcarbamoyl)phenyl)prop-2-ynyl methanesulfonate
-T2	YIELD_PERCENT 182 185	39%
-T3	REACTION_PRODUCT 100 159	NN-diethyl-4-(3-(N-phenylpentaneamido)prop-1-ynyl)benzamide
-T4	EXAMPLE_LABEL 5 6	4
-T5	STARTING_MATERIAL 258 278	N-phenylpentaneamide
-T6	REACTION_PRODUCT 23 82	N,N-diethyl-4-(3-(N-phenylpentanamido)prop-1-ynyl)benzamide
-T7	YIELD_OTHER 175 180	81 mg

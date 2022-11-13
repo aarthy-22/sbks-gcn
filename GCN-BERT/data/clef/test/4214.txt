@@ -1,3 +1,0 @@
-Example 17: Synthesis of N-hydroxy-4-(4-(4-(3-((S)-2-(hydroxymethyl)pyrrolidin-1-yl)prop-1-yn-1-yl)phenyl)-3,6-dihydropyridin-1(2H)-yl)-2-methyl-2-(methylsulfonyl)butanamide
-Step 1: Synthesis of (R)-(1-(prop-2-yn-1-yl)pyrrolidin-2-yl)methanol
-To a solution of 3-bromoprop-1-yne (3 g, 1 eq) in toluene (30 ml) was added with (R)-pyrrolidin-2-ylmethanol (3.73 ml, 1.5 eq) and K2CO3(6.97 g, 2 eq). The mixture was stirred for 15 hr at room temperature and extracted with ethyl acetate and water. The organic layer was dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (2 g, 57%).

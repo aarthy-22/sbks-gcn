@@ -1,9 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	27
-T2	REACTION_PRODUCT 27 119	N-(4-fluorophenyl)-N-(3-(3-(4-isopropylpiperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
-T3	REACTION_PRODUCT 121 128	LMT-889
-T4	REACTION_PRODUCT 132 145	final product
-T5	REACTION_PRODUCT 147 239	N-(4-fluorophenyl)-N-(3-(3-(4-isopropylpiperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
-T6	YIELD_OTHER 255 260	66 mg
-T7	YIELD_PERCENT 262 265	40%
-T8	STARTING_MATERIAL 328 409	N-(4-fluorophenyl)-N-(3-(3-(piperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
-T9	STARTING_MATERIAL 458 471	2-iodopropane

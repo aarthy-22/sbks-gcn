@@ -1,3 +1,0 @@
-Step 2
-7-Benzyl-3-methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione
-7-Benzyl-3-methyl-1H-purine-2,6(3H,7H)-dione (270 mg, 1.05 mmol), 5-(4-bromobutyl)-3-methyl (230 mg, 1.05 mmol) and potassium iodide (17.4 mg, 0.105 mmol) were dissolved in N,N-dimethylformamide (8 mL) and potassium carbonate (290 mg, 2.10 mmol) was added at 25°C. The reaction was heated at 130°C for 3 hours. The reaction solution was cooled to 25°C, filtered and the filtrate was concentrated under reduced pressure. The resulting product was purified by preparative HPLC to give 7-benzyl-3-methyl-1-(4-(3-methylisoxazol-5-yl)butyl)-1H-purine-2,6(3H,7H)-dione (92.0 mg) with a yield of 22%.

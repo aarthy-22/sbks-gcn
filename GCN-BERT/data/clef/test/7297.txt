@@ -1,3 +1,0 @@
-Step 1
-2-(Benzyloxy)-5-bromobenzaldehyde (42)
-To a solution of 5-bromo-2-hydroxybenzaldehyde (6 g, 29.84 mmol) in DMF (50 mL) were added K2CO3 (8.2 g, 59.69 mmol) and benzyl bromide (5.61 g, 32.832 mmol) and the reaction mixture was stirred at 60° C. for 6 h. The reaction mixture was poured into ice-cold water and extracted with ethyl acetate (2×200 mL). The combined organic layer was dried over Na2SO4 and concentrated to give the crude product, which was purified on a silica gel column, eluting with ethyl acetate in pet ether (0 to 20%) to get 2-(benzyloxy)-5-bromobenzaldehyde (8.5 g, 98%) as a white solid.

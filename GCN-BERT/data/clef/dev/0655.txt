@@ -1,3 +1,0 @@
-Example 12A
-tert-Butyl 3-ethyl-1-(2-methoxyethyl)-5-methyl-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carboxylate
-Analogously to the method described in Ex. 11A, 2.50 g (8.05 mmol) of the compound from Ex. 7A, 3.94 g (12.1 mmol) of caesium carbonate and 1.68 g (12.1 mmol) of 2-bromoethyl methyl ether were used to obtain 2.13 g (71% of theory) of the title compound In a departure from the method described above, a Biotage cartridge containing 50 g of silica gel was used here for the MPLC purification, and the product was finally purified by stirring in a mixture of 60 ml of pentane and 0.5 ml of dichloromethane.

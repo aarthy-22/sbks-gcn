@@ -1,2 +1,0 @@
-[Reaction Scheme 4-2] Synthesis of [Intermediate 4-b]
-In a 2-L reactor, 4-methylmorpholine N-oxide (61.4 g, 524 mmol), a molecular sieve (200 g), and acetonitrile (1.2 L) were placed and stirred for 30 min at 0° C. under a nitrogen atmosphere. Intermediate 4-a (78 g, 262 mmol) was added, followed by stirring at room temperature for 6 hours. After completion of the reaction, the reaction mixture was filtered and washed with methylene chloride. The filtrate was concentrated and then isolated through column chromatography to afford Intermediate 4-b (45 g): yield 73%

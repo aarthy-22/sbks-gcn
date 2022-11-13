@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	2-
-T2	REACTION_PRODUCT 26 120	2-(2-(4-(2-furoyl)piperazinyl)ethyl)-2,4-dihydro-7-methoxy-4,4-dimethylchromeno[4,3-c]pyrazole
-T3	REACTION_PRODUCT 126 142	desired compound
-T4	STARTING_MATERIAL 213 287	2-(2-bromoethyl)-7-methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole
-T5	STARTING_MATERIAL 311 333	1-(2-furoyl)piperazine
-T6	YIELD_OTHER 366 370	6 mg
-T7	YIELD_PERCENT 372 375	24%

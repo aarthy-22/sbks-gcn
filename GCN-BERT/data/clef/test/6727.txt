@@ -1,3 +1,0 @@
-Example 39
-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-5'-morpholino-[2,3'-bipyridine]-6-carboxamide (I-37)
-An NMP (1 mL) solution of 5'-fluoro-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide (22.5 mg, 0.06 mmol) and morpholine (0.1 mL) was heated at 120-150° C. for 11 days until reaction went to completion, as monitored by LC-MS. Solvent was removed in vacuo, after silica gel chromatography and further trituration from Hexanes-EtOAc, title compound was obtained as an off-white solid: 21.4 mg (87% yield);

@@ -1,3 +1,0 @@
-Reference Example 21
-N-[4-(2-Furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]-7,8-dihydro-5H-thiopyrano[4,3-b]pyridine-3-carboxamide (compound (IX))
-step 1 In the same manner as in step 1 of Reference Example 16, 2-oxo-1,5,7,8-tetrahydro-5H-thiopyrano[4,3-b]pyridine-3-carbonitrile (3.06 g, 37%) was obtained as a pale-yellow solid from tetrahydro-4H-thiopyran-4-one (5.00 g, 43.0 mmol).

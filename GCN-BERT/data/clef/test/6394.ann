@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	2
-T2	REACTION_PRODUCT 8 69	2-oxo-2-(o-tolylamino)ethyl 2-(2-methyl-1H-indol-1-yl)acetate
-T3	STARTING_MATERIAL 75 105	2-hydroxy-N-(o-tolyl)acetamide
-T4	STARTING_MATERIAL 129 166	2-(2-methyl-1H-indol-1-yl)acetic acid
-T5	YIELD_OTHER 187 192	46 mg
-T6	YIELD_PERCENT 194 197	72%
-T7	REACTION_PRODUCT 206 220	title compound

@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 18 20	24
-T2	REACTION_PRODUCT 21 130	N-[4-(3-Furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]-6,7-dihydro-5H-cyclopenta[b]pyridine-3-carboxamide
-T3	REACTION_PRODUCT 142 145	IAA
-T4	REACTION_PRODUCT 214 217	IAA
-T5	YIELD_OTHER 220 227	71.1 mg
-T6	YIELD_PERCENT 229 232	39%
-T7	STARTING_MATERIAL 270 329	2-amino-4-(3-furyl)thiazol-5-yl=tetrahydropyran-4-yl=ketone
-T8	STARTING_MATERIAL 355 423	6,7-dihydro-5H-cyclopenta[b]pyridine-3-carboxylic acid hydrochloride

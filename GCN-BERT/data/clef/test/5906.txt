@@ -1,3 +1,0 @@
-Example 99
-N-[4-(6-Fluoro-1H-indol-3-yl)phenyl]-2-(5-methylisoxazol-3-yl)acetamide
-This compound was prepared from Intermediate 5 and 2-(5-methylisoxazol-3-yl)acetic acid according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (11.7 mg, 30.3%). Data: LCMS (B) Rt : 12.092 min; m/z 350.1 (M+H)+.

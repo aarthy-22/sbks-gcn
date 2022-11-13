@@ -1,5 +1,0 @@
-Core 28
-(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-5-(2-ethylphenyl)-4-nitropyrrolidine-2-carboxylate
-Core 28A
-(E)-ethyl 2-((2-ethylbenzylidene)amino)acetate
-A mixture of ethyl 2-aminoacetate hydrochloride (1.85 g, 13.25 mmol) and magnesium sulfate (3.19 g, 26.5 mmol) in dichloromethane (22 mL) was treated with triethylamine (1.847 mL, 13.25 mmol), stirred for 10 minutes and treated with 2-ethylbenzaldehyde (1.778 g, 13.25 mmol) as a solution in 1 mL of dichloromethane. The reaction was stirred at ambient temperature overnight. The solid material was filtered, the filtrate was washed with water, and the organic fraction was separated. The organic fraction was dried with Na2SO4, filtered, and concentrated to provide (E)-ethyl 2-((2-ethylbenzylidene)amino)acetate (2.65 g, 12.09 mmol, 91% yield).

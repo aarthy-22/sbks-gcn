@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	21
-T2	REACTION_PRODUCT 24 107	(R)-ethyl-3-phenyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-aminoform yl)propionate
-T3	REACTION_PRODUCT 118 120	21
-T4	REACTION_PRODUCT 126 133	product
-T5	YIELD_OTHER 135 141	1.65 g
-T6	YIELD_PERCENT 150 153	69%
-T7	STARTING_MATERIAL 253 280	D-phenylalanine ethyl ester

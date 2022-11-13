@@ -1,4 +1,0 @@
-Example 12
-5-(2-Fluoro-6-methoxyphenyl)-3-phenyl-1H-pyrazolo[4,3-d]pyrimidine
-Step 1. 5-Chloro-1-{[2-(trimethylsilyl)ethoxy]methyl}-1H-pyrazolo[4,3-d]pyrimidine
-NaH in mineral oil (570 mg, 14 mmol) was slowly added at 0° C. to a solution of 5-chloro-1H-pyrazolo[4,3-d]pyrimidine (2.0 g, 13 mmol) and [β-(trimethylsilyl)ethoxy]methyl chloride (2.40 mL, 13.6 mmol) in tetrahydrofuran (25 mL). After stirring at r.t. for 1 h, the reaction mixture was quenched by the addition of water and the resulting mixture was extracted with ethyl acetate. The organic phase was washed with brine and dried over sodium sulfate. The solvents were evaporated under reduced pressure and the crude product was purified by Biotage Isolera™ (2.36 g, 64%).

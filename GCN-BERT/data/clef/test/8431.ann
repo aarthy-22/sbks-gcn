@@ -1,6 +1,0 @@
-T1	EXAMPLE_LABEL 8 11	21A
-T2	REACTION_PRODUCT 12 127	Methyl 3-ethyl-5-methyl-2,4-dioxo-1-(3,3,3-trifluoropropyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carboxylate
-T3	STARTING_MATERIAL 202 218	compound from Ex
-T4	YIELD_OTHER 244 250	10.8 g
-T5	YIELD_PERCENT 252 255	99%
-T6	REACTION_PRODUCT 286 300	title compound

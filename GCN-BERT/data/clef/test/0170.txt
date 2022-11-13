@@ -1,3 +1,0 @@
-Step 3: Preparation of 4-(4-fluoro-3-(4-(2-trifluoromethyl)-1H-imidazo[4,5-b]pyridin-5-yl)piperazine-1-carbonyl)benzyl)phthalazin-1 (2H)-one
-Analogous to the process for preparing Compound (1) in Step 7 in Example 1, Compound j was condensed with Compound f to produce Compound (3): 4-(4-fluoro-3-(4-(2-methyl-1H-imidazo[4,5-b]pyridin-5-yl)piperazine-1-carbonyl)benzyl)p hthalazin-1(2H)-one (38 mg, yield 41%). MS(ESI)m/z:[M+H]+=552.
-δ12.59(br,1H),8.25(d,1H,J=8.1Hz),7.98-7.89(m,3H),7.87-7.80(m,2H),7.45-7.38(m,2H),7.2 6-7.20(m,1H),6.92(d,1H,J=9.0Hz),4.33(s,2H),3.73(br,2H),3.63(br,2H),3.46(br,4H).

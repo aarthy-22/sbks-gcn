@@ -1,6 +1,0 @@
-Example 14
-1-(4-(1,3-Dimethyl-1H-pyrazol-5-yl)butyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione 1-(4-(1,3-Dimethyl-1H-pyrazol-5-yl)butyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
-Step 1
-3-(4-Chlorobutyl)-1,5-dimethyl-1H-pyrazole
-5-(4-Chlorobutyl)-1,3-dimethyl-1H-pyrazole
-8-Chloro-octane-2,4-dione (500 mg, 2.83 mmol) was dissolved in ethanol (10 mL). Methylhydrazine (195 mg, 4.25 mmol) was added and the reaction was heated under reflux for 16 hours. The reaction was concentrated under reduced pressure and the residue was purified by silica gel column chromatography (2:1 petroleum ether/ethyl acetate, Rf = 0.5) to give a mixture of 3-(4-chlorobutyl)-1,5-dimethyl-1H-pyrazole and 5-(4-chlorobutyl)-1,3-dimethyl-1H-pyrazole (100 mg, as a colorless oil) with a yield of 20%.

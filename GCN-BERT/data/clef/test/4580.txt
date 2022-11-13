@@ -1,2 +1,0 @@
-15.3: 3-[1-(2-bromo-propionyl)-piperidin-4-yl]-3,4-dihydro-1H-quinazolin-2-one
-Similarly to example 2.4, starting from 0.2 ml (2.7 mmol) of 2-bromopropionic acid and 300 mg (1.2 mmol) of 3-piperidin-4-yl-3,4-dihydro-1H-quinazolin-2-one (prepared as described in example 1.5), 400 mg (94%) of 3-[1-(2-bromo-propionyl)-piperidin-4-yl]-3,4-dihydro-1H-quinazolin-2-one is obtained in the form of an off-white solid.

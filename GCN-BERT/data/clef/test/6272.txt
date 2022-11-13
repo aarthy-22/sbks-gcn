@@ -1,3 +1,0 @@
-EXAMPLE 2
-2-[(4-chloro-6-{[(2,4-dimethyl-l,3-thiazol-5-yl)methyl]amino}-5-methylpyrimidin-2-yl)oxy]ethanol (G1)
-6-chloro-N-[(2,4-dimethylthiazol-5-yl)methyl]-5-methyl-2-methylsulfonyl-pyrimidin-4-amine F5 (2.2 g, 6.34 mmol) and ethylene glycol (394 mg, 0.348 mL, 6.34 mmol) were placed in a round-bottom flask and dissolved in THF (60 mL). AIM solution of NaHMDS in THF (6.34 mL, 6.34 mmol) was added, and the reaction was stirred overnight. Solvent was then removed, and the product was purified by silica gel flash column chromatography (EtOAc/hexanes gradient). 1.42 g (68%) of F6 were isolated as a pale yellow oil. MS (Electrospray): m/z 329.1 (MH+).

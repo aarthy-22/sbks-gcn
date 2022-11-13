@@ -1,4 +1,0 @@
-[Example 29]
-Synthesis of compound I-0033
-Step 1
-Dimethylsulfuric acid (106 mL, 1.11 mmol) was added dropwise to a 10% aqueous solution of potassium hydroxide (651 mL) of the compound 46 (150 g, 1.06 mmol) at 3°C to 5°C. The mixture was stirred at 0°C to 5°C for 4 hours. The precipitates were filtered, and washed by IPE. The obtained solids were dried under reduced pressure to give the compound 47 (106.5 g, yield 65%).

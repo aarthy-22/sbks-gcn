@@ -1,3 +1,0 @@
-Example 10 Synthesis of (S)-methyl-3-methyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-aminofor myl)butyrate (Compound 10)
-The product (1.26 g, yield: 61%) as a white solid was prepared in accordance with the steps in Example 5, by using 0.91 g (7 mmol) L-valine methyl ester as Raw material 2.
-m.p. 93-95°C. 1H-NMR (400MHz, CDCl3) δ: 7.76 (2H, d, J=8.43Hz), 7.37 (2H, d, J=8.43Hz), 7.01 (1H, d, J=8.62Hz), 4.81 (1H, t, J =3.40Hz), 4.58 (1H, m), 4.20 (1H, m), 3.75 (3H, m), 3.33 (1H, t, J=2.60Hz), 3.11 (1H, d, J=11.82Hz), 2.60-0.92 (13H, m). MS-EI (m/z): 415.1356 [M+H]+.

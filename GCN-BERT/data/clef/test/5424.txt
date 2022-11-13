@@ -1,2 +1,0 @@
-Step 1. tert-butyl (8-hydroxyoctyl)carbamate (JRW-0896)
-To a solution of 8-aminooctan-1-ol (1.0 g, 6.9 mmol) in THF (20 mL) was added sodium bicarbonate (saturated solution, 10 mL) and di-tert-butyl dicarbonate (1.8 g, 8.3 mmol). The reaction mixture was stirred overnight at rt, then diluted with ethyl acetate and water. The layers were separated and the aqueous layer extracted with ethyl acetate. The organic layers were combined, dried with sodium sulfate, filtered, and concentrated. The crude product was chromotgraphed (DCM/MeOH) to give a white solid (1.6 g, 94%):

@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	16
-T2	REACTION_PRODUCT 24 108	(S)-methyl-3-phenyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-aminofor myl)propionate
-T3	REACTION_PRODUCT 119 121	16
-T4	REACTION_PRODUCT 127 134	product
-T5	YIELD_OTHER 136 142	1.55 g
-T6	YIELD_PERCENT 151 154	67%
-T7	STARTING_MATERIAL 254 282	L-phenylalanine methyl ester

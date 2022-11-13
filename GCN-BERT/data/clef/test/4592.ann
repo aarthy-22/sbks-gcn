@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 8 11	134
-T2	REACTION_PRODUCT 12 159	3-Isopropyl-5-methyl-6-[(5-oxo-2,5-dihydro-1H-pyrazol-1-yl)methyl]-1-(tetrahydrofuran-2-ylmethyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione (racemate
-T3	STARTING_MATERIAL 236 244	compound
-T4	YIELD_OTHER 280 286	150 mg
-T5	YIELD_PERCENT 288 291	39%
-T6	REACTION_PRODUCT 322 336	title compound
-T7	TIME 364 367	1 h

@@ -1,2 +1,0 @@
-g. PREPARATION OF (S)-2-(3-(2-CHLOROPHENYL)UREIDO-N-((2R,6S,8AS,14AS,20S,23AS)-2,6-DIMETHYL-5,8,14,19,23-PENTAOXOOCTADECAHYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-3-PHENYLPROPANAMIDE (COMPOUND 7).
-Compound 7 was synthesized from compound C (47 mg, 0.071 mmol), 1-chloro-2-isocyanatobenzene (13.1 mg, 0.085 mmol) and triethylamine (46.7 μL, 0.341 mmol) following the general synthesis method as described herein above. Compound 7 was provided as an off-white solid (8 mg, 14.5%);

@@ -1,2 +1,0 @@
-Preparation of 7-methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole.
-A solution of 3-(hydroxymethylene)-7-methoxy-2,2-dimethylchroman-4-one (1.46 g, 6.27 mmol) and anhydrous hydrazine (0.58 mL, 83 mmol) in EtOH was stirred at 60 ºC for 2 hours . After evaporation of the solvent under vacuum, the crude was purified by medium pressure chromatography on silica gel (hexane / AcOEt, 1:1). 7-Methoxy-4,4-dimethyl-1,4-dihydrochromeno[4,3-c]pyrazole (0.99 g, 69%) was obtained as a white solid. mp: 158-160 °C. MS (ES +, m / z) 231 [M + H]+.

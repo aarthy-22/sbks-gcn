@@ -1,3 +1,0 @@
-Example Compound 48
-2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(2-bromophenyl)acetate
-2-(2-bromophenyl)acetic acid (27.0 mg, 0.1 mmol) was dissolved in DCM (2.5 mL) and added DCC (25.5 mg, 0.1 mmol) and DMAP (3.5 mg, 0.03 mmol) followed by N-(3,5-dimethyl-1-phenyl-1 H-pyrazol-4-yl)-2-hydroxyacetamide (30.5 mg, 0.1 mmol), synthesized as reported in Example 1. After stirring overnight, the obtained suspension was filtered over cotton to remove the bulk of DCU and purified by column chromatography (75% EtOAc in PE) to yield 52.3 mg of the title compound (95%).

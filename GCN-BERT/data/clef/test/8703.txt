@@ -1,2 +1,0 @@
-e. PREPARATION OF (S)-N-((2R,6S,8AS,14AS,20S,23AS)-2,6-DIMETHYL-5,8,14,19,23-PENTAOXOOCTADECADYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-2-(3-(4-(DIMETHYLAMINO)PHENYL)UREIDO)-3-PHENYLPROPANAMIDE (COMPOUND 5)
-Compound 5 was synthesized from compound C (95 mg, 0.144 mmol), 4-isocyanato-N,N-dimethylaniline (27.9 mg, 0.172 mmol) and triethylamine (93.9 μL, 0.69 mmol) following the general synthesis method as described herein above. Compound 5 was provided as a white solid (13.2 mg, 11.5%);

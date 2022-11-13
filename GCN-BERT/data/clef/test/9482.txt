@@ -1,2 +1,0 @@
-Synthesis Example 8
-First, piperidine (99 µL, 1 mmol) was added to a toluene solution (3 mL) containing compound 2 (25 mg, 0.1 mmol) and 9-julolidine carboxaldehyde (24 mg, 0.12 mmol). Next, the mixture was heated under reflux for 2 hours by using a Dean-Stark apparatus. Then, the reaction solution was cooled to room temperature. After the toluene was removed under reduced pressure, the remainder was purified by flash column chromatography (using an eluent ratio of hexane : ethyl acetate = 7 : 1) to give compound 8 as a blue solid (18 mg, 26%).

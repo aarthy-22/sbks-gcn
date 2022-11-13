@@ -1,3 +1,0 @@
-Step 2
-4-(Methoxymethoxy)-3-((trimethylsilyl)ethynyl)benzaldehyde (30)
-A mixture of 3-bromo-4-(methoxymethoxy)benzaldehyde (3.8 g, 15.57 mmol), ethynyltrimethylsilane (9.2 mL, 62.29 mmol) and CuI (30 mg, 0.124 mmol) in piperidine (70 mL) was degassed with argon for 30 min. PdCl2 (56 mg, 0.38 mmol) and PPh3 (56 mg, 0.38 mmol) were added and again degassed with argon for 30 min and the reaction mixture was maintained at reflux for 24 h. Water (100 mL) was added to the reaction mixture to induce precipitation which was filtered to get the crude product. The crude product was purified by flash chromatography (silica; pet-ether/ethyl acetate 0/100 to 30/70) to afford to get 4-(methoxymethoxy)-3-((trimethylsilyl)ethynyl)benzaldehyde (2.8 g, 70%, LC/MS, 81%) as a solid

@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 8 9	9
-T2	REACTION_PRODUCT 10 80	N-[(3,3-difluorocyclobutyl)methyl]-4-(6-fluoro-1H-indol-3-yl)benzamide
-T3	REACTION_PRODUCT 86 94	compound
-T4	STARTING_MATERIAL 113 129	Intermediate 3-a
-T5	STARTING_MATERIAL 134 170	(3,3-difluorocyclobutyl)-methanamine
-T6	REACTION_PRODUCT 300 314	title compound
-T7	YIELD_OTHER 316 321	16 mg
-T8	YIELD_PERCENT 323 326	52%

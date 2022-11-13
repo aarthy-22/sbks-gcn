@@ -1,3 +1,0 @@
-Reference Example A-1: Synthesis of 5-fluorobenzofuran-2-ylsulfonyl chloride (A-1)
-(step 1) Synthesis of 2-(2,2-dibromovinyl)-4-fluorophenol
-A solution of carbon tetrabromide (1.70 kg, 5.14 mol) in dichloromethane (80 mL) was cooled to 0°C, triphenylphosphine (2.07 kg, 7.91 mol) was added and the mixture was stirred for 30 min. To the reaction mixture was added triethylamine (1.30 kg, 12.8 mol), and 5-fluoro-2-hydroxybenzaldehyde (300 g, 2.14 mol) was slowly added while maintaining the reaction temperature to 5°C or below. The reaction mixture was stirred at 30°C for 2 hr and concentrated under reduced pressure, and the obtained residue was purified by silica gel column chromatography (hexane/ethyl acetate) to give the title compound (300 g, 1.01 mol, 47%).

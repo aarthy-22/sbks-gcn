@@ -1,2 +1,0 @@
-Step B: 1,2-Diamino-3-chloro-4-iodopyridin-1-ium 2,4,6-trimethylbenzenesulfonate
-The filtrate from Step A (O-(mesitylsulfonyl)hydroxylamine) was then added to a cold (0° C.) solution of 3-chloro-4-iodopyridin-2-amine (Intermediate 10, 1.00 g, 3.93 mmol) in DCM (34 mL), and the mixture allowed to warm to rt and stirred until LCMS analysis indicated complete conversion. Et2O (150 mL) was added, and the precipitate was collected via vacuum filtration to afford the title compound as a white solid (1.75 g, 95% yield).

@@ -1,3 +1,0 @@
-Example 37
-3-{[(6-Bromo-3-methyl-2-phenylquinolin-4-yl)carbonyl]amino}bicyclo[1.1.1]pentane-1-carboxylic acid
-93 mg (0.2 mmol) of the compound from Example 77A were dissolved in 3.0 ml of a THF/methanol mixture (5:1), 1.0 ml (1.0 mmol) of a 1 M sodium hydroxide solution and the mixture was stirred under reflux for 1 h. After cooling to RT, the mixture was introduced into 20 ml of water and adjusted to pH 1-2 by addition of 4 M hydrochloric acid. The solid present was filtered off and washed twice with water and once with tert-butyl methyl ether. This gave 62 mg (65% of theory, purity 95%) of the title compound

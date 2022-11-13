@@ -1,5 +1,0 @@
-Example 13
-3,7-Dimethyl-1-[3-(1-methyl-4-pyrazolyl)-propyl]-3,7-dihydro-purine-2,6-dione
-Step 1
-Methyl 3-(1-methyl-4-pyrazolyl)-propionate
-3-(1-Methyl-4-pyrazolyl)-propionic acid (150 mg, 0.974 mmol) was dissolved in methanol (3 mL), and thionyl chloride (229 mg, 1.95 mmol) was added at 0°C to react for 0.5 h. The reaction was quenched with water (10 mL), extracted with ethyl acetate (10 mL x 3), dried over anhydrous sodium sulfate, filtered and the filtrate was concentrated under reduced pressure and purified by preparative TLC plate (3:1 petroleum ether/ethyl acetate, Rf value = 0.5) to give methyl 3-(1-methyl-4-pyrazolyl)-propionate (140 mg, as a yellow oil) with a yield of 83%. MS-ESI calcd. [M + H]+ 169, found 169.

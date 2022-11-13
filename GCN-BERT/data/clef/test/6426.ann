@@ -1,6 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	2
-T2	REACTION_PRODUCT 23 140	(S)-7-amino-5-(1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethylamino)pyrimido[4,5-d]pyrimidine-4(1H)-one
-T3	YIELD_OTHER 141 146	60 mg
-T4	REACTION_PRODUCT 150 267	(S)-7-amino-5-(1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethylamino)pyrimido[4,5-d]pyrimidine-4(1H)-one
-T5	STARTING_MATERIAL 330 454	(S)-5-(1-(8-chloro-1-oxo-2-phenyl-1,2-dihydroisoquinoline-3-yl)ethylamino)-7-(methylthio)pyrimido[4,5-d]pyrimidine-4(1H)-one
-T6	YIELD_PERCENT 548 551	38%

@@ -1,3 +1,0 @@
-Example 21. Preparation of N,N-diethyl-4-(3-(N-phenylpentaneamido)prop-1-ynyl)benzamide (LMT-883)
-Step 1: Preparation of 4-bromo-N,N-diethylbenzamide
-4-bromo-N,N-diethylbenzamide was obtained (700 mg, 69% yield) by the same method as described in Step 2 of Example 1 using 4-bromobenzoic acid (800 mg, 3.98 mmol) and diethylamine (0.49 ml, 4.78 mmol).

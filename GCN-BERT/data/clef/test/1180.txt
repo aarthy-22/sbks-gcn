@@ -1,2 +1,0 @@
-q. PREPARATION OF (S)-3-(3,5-DIFLUOROPHENYL)-N-((2S,6S,9S,11AS,13R,17S,18S,20AS)-13-HYDROXY-2,6,9,10,18-PENTAMETHYL-5,8,11,16,20-PENTAOXOHEXADECAHYDRO-1H,5H,16H-DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-17-YL)-2-)3-(P-TOLYL)UREIDO)PROPANAMIDE (COMPOUND 31)
-Compound 31 was synthesized from macrocycle C (100 mg, 0.143 mmol), p-tolyl isocyanate (22.79 mg, 0.171 mmol) and triethylamine (94 μL, 0.685 mmol) as a white solid (39.6 mg, 34.8%) following the general synthesis pathway described herein above;

@@ -1,4 +1,0 @@
-PREPARATIVE EXAMPLE 4
-Preparation of (S)-5-chloro-3-(pyridine-3-yl)-2-(pyrrolidine-2-yl)quinazoline-4(3H)-one
-Step 1: Preparation of tert-butyl (S)-2-(5-chloro-4-oxo-3-(pyridine-3-yl)-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate
-3.82 g of tert-butyl (S)-2-(5-chloro-4-oxo-3-(pyridine-3-yl)-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate was prepared as a white solid by using 1.65 g (17.55 mmol) of 3-aminopyridine according to the same manner as described in step 2 of Preparative Example 1 (8.95 mmol, yield: 51%).

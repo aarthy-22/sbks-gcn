@@ -1,3 +1,0 @@
-Step B
-2-((S)-2-((S)-1-((S)-2-Ammonio-3-(1H-indol-3-yl)propanoyl)pyrrolidine-2-carboxamido)-2-phenylethyl)pyridinium dichloride
-tert-Butyl (S)-3-(1H-indol-3-yl)-1-oxo-1-((S)-2-((S)-1-phenyl-2-(pyridin-2-yl)ethylcarbamoyl)pyrrolidin-1-yl)propan-2-ylcarbamate (395 mg, 0.68 mmol) was dissolved in a 1 M HCl solution in Et2O (27.0 mL, 27.20 mmol). The reaction mixture was stirred at rt for 4 h. The product was triturated in Et2O and the solid was recovered by filtration on a Büchner funnel, washed with Et2O and dried under vacuum. The solid was dissolved in water and freeze dried to afford 175 mg (44%) of the title compound

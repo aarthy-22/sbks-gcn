@@ -1,2 +1,0 @@
-eee. PREPARATION OF (2S)-3-PHENYL-2-(3-(4-(TRIFLUOROMETHOXY)PHENYL)UREIDO)-N-((6S,9S,11AS,17S)-6,9,10-TRIMETHYL-5,8,11,16,20-PENTAOXOHEXADECAHYDRO-1H,5H,16H-DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-17-YL)PROPANAMIDE (COMPOUND 213)
-Compound 213 was synthesized from macrocycle C (80 mg, 0.129 mmol), 1-isocyanato-4-(trifluoromethoxy)benzene (31.4 mg, 0.155 mmol) and triethylamine (85 μL, 0.618 mmol) following general synthesis pathway as a white-off solid (41.2 mg, 40.6%);

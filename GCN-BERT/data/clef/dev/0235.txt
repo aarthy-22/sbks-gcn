@@ -1,2 +1,0 @@
-Synthesis Example 16: Synthesis of Compound 59
-Compound 59 (5.11 g, a yield of 70%) was obtained according to the same method as Synthesis Example 1 except for using “benzo-2-chloro-4-phenyl-thieno[3,2-d]pyrimidine” (synthesized according to Synthesis Example 1 of Korean Patent Laid-Open Publication KR 2015-0083786A) instead of the bromometabiphenyl in Step 2 of Synthesis Example 1. calcd. C52H30N4S: C, 84.07; H, 4.07; N, 7.54; S, 4.32; found: C, 84.07; H, 4.07; N, 7.54; S, 4.32.

@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	26
-T2	REACTION_PRODUCT 24 109	(R)-isopropyl-4-phenyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-amino formyl)butyrate
-T3	REACTION_PRODUCT 120 122	26
-T4	REACTION_PRODUCT 128 135	product
-T5	YIELD_OTHER 137 143	1.62 g
-T6	YIELD_PERCENT 152 155	64%
-T7	STARTING_MATERIAL 255 290	D-homophenylalanine isopropyl ester

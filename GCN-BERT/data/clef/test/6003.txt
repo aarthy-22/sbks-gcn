@@ -1,4 +1,0 @@
-EXAMPLE 41
-Preparation of (S)-5-((1-(5-fluoro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)propyl)amino)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
-Step 1: Preparation of (S)-5-((1-(5-fluoro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)propyl)amino)-1-(4-methoxybenzyl)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
-91 mg of (S)-5-((1-(5-fluoro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)propyl)amino)-1-(4-methoxybenzyl)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one was prepared as a white solid according to the same manner as described in step 5 of Example 34 except that (S)-2-(1-aminopropyl)-5-fluoro-3-phenylquinazoline-4(3H)-one was used (0.15 mmol, yield: 98%).

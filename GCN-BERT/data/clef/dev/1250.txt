@@ -1,4 +1,0 @@
-Example 60
-6-[6-(3,5-Dimethyl-isoxazol-4-yl)-pyridin-2-ylmethyl]-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
-Obtained by starting from 6-(6-Chloro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (example 3) and 3,5-Dimethyl-4-isoxazolboronic acid. The mixture filtered over silica gel and purified by RP-HPLC (modifier: trifluoroacetic acid).
-Yield: 28 mg (47% of theory)

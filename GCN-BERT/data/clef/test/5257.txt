@@ -1,4 +1,0 @@
-Embodiment 39
-3-[4-(4-Cyanonaphthalen-1-yl)-1-benzothiophen-2-yl]-2,2-difluoro-3-hydroxyl propionic acid (Compound 39)
-Synthesis of compound 39-a
-Under N2 atmosphere, Zn powder (130mg, 2mmol) was added to a solution of 4-bromo-1-benzothiophene-2-carbaldehyde (500mg, 2.38mmol) and ethyl difluorobromoacetate (808mg, 4mmol) in anhydrous THF (10mL). The mixture was heated to 45□ and further stirred for 16hrs, cooled to room temperature, followed by adding saturated NH4Cl aq. solution (20mL), being extracted with EA (30mL×3). The organic phases were combined, dried over anhydrous sodium sulfate, filtered, and concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 10:1) to give compound 39-a (253mg, yield 71%).

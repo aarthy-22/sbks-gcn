@@ -1,4 +1,0 @@
-MODE OF THE INVENTION
-Synthesis of various chelates
-Synthesis of (2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(1,4,7,10-tetraazacyclododecan-1-yl)tetrahyd ro-2H-pyran-3,4,5-triol (CyclenGlc)
-Cyclen (240 mg, 1.4 mmol) was added to a stirred solution of glucose (50 mg, 0.28 mmol) in anhydrous MeOH (10 mL), and the resulting solution was heated under reflux for 16 hours under N2 atmosphere. Complete consumption of the starting materials was confirmed by TLC [stationary phase = C-18 TLC, mobile phase = MeOH : 10% NH4OAc (1:1)]. Then, the solvent was evaporated to dryness under reduced pressure and column chromatography was used to obtain a pure compound (52 mg, 56%).

@@ -1,2 +1,0 @@
-Example 54-3 : Preparation of 6-(2-amino-6-chloropyrimidin-4-yl)-[2,4'-bipyridin]-5-ol
-4-Chloro-6-(5-methoxy-[2,4'-bipyridin]-6-yl)pyrimidin-2-amine (20 mg, 63.74 µmol) and pyridine hydrochloride (Pyridine HCl) (73.66 mg, 637.45 mmol) were stirred in a sealed tube at 170 °C for 3 hrs. The mixture was cooled to room temperature and neutralized with 2 N NaOH solution. The resulting solid was filtered, washed with diethylether, and dried to give the title compound (6 mg, 31 %).

@@ -1,2 +1,0 @@
-Synthesis of compound 41
-The compound 40 (1.23 g, 3.48 mmol) was dissolved in 17 mL of DMF, NaN3 (1.13 g, 5.0 eq.) was added, and the mixture was stirred in an oil bath at 50° C. for 24 hours. After the completion of reaction, H2O was added, and the mixture was subjected to extraction with EtOAc. The organic layer was washed with brine, dried by adding anhydrous sodium sulfate, and then distilled under reduced pressure. Then, the residue was purified by column chromatography (hexane:EtOAc=1:1) to isolate and obtain a compound 41 (0.74 g, 52%) as a white crystal.

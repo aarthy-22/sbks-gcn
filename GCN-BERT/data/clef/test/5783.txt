@@ -1,3 +1,0 @@
-Example 9
-Preparation of 2-chloro-5-((1R,3R)-2,2-dichloro-3-(4-fluoro-3-(trifluoromethyl)phenyl)cyclopropane-1-carboxamido)-N-(2,4-difluoro-3-(phenylsulfonamido)phenyl)benzamide (F1295)
-Benzenesulfonyl chloride (0.044 g, 0.251 mmol) was added to a stirred solution of N-(3-amino-2,4-difluorophenyl)-2-chloro-5-((1R,3R)-2,2-dichloro-3-(4-fluoro-3-(trifluoromethyl)phenyl)cyclopropane-1-carboxamido)benzamide (DP9) (0.100 g, 168 mmol) in acetonitrile (3 mL). The solution was stirred for 36 hours at 70° C. and concentrated. Purification by silica gel flash chromatography provided the title compound as a pink solid (0.112 g, 86%).

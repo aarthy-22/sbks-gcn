@@ -1,3 +1,0 @@
-Example 28. Preparation of N-(3-(4-hydroxyphenyl)prop-2-ynyl)-N-phenylpentaneamide (LMT-890)
-Step 1: Preparation of N-(prop-2-ynyl)aniline
-Aniline (2.94 ml, 32.21 mmol) and potassium carbonate (4.90 g, 35.43 mmol) were dissolved in acetonitrile (40 ml), and stirred for 5 minutes. Propargyl bromide (3.05 ml, 35.43 mmol) was added to the mixture, and stirred at room temperature for 17 hours. The reaction solution was filtered to remove a solid, and concentrated under reduced pressure. The concentrate was purified by silica gel column chromatography (Hex), thereby obtaining N-(prop-2-ynyl)aniline (2.23 g, 53% yield).

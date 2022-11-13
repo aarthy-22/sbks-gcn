@@ -1,3 +1,0 @@
-Step 6: Preparation of 4-(3-(4-(7H-purin-2-yl)piperazine-1-carbonyl>4-fluorobenzyl)phthalazin-1(2H)-one
-Analogous to the process for preparing Compound (1) in Step 7 in Example 1, Compound a' was condensed with Compound f to produce Compound (8): 4-(3-(4-(7H-purin-2-yl)piperazine-1-carbonyl)-4-fluorobenzyl)phthalazin-1(2H)-one (88 mg, yield 74%).
-(s,1H),8.72(s,1H),8.26-8.24(m,1H),8.12(s,1H),7.98-7.96(m,1H),7.91-7.87(m,1H),7.84-7.8 0(m,1H),7.45-7.41(m,1H),7.39-7.37(m,1H),7.25-7.21(m,1H),4.32(s,2H),3.81-3.79(m,2H),3 .72-3.65(m,4H),3.28-3.26(m,2H).

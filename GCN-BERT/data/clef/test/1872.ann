@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	2
-T2	REACTION_PRODUCT 23 86	(S)-5-chloro-3-phenyl-2-(pyrrolidine-2-yl)quinazoline-4(3H)-one
-T3	YIELD_OTHER 87 92	3.3 g
-T4	REACTION_PRODUCT 96 159	(S)-5-chloro-3-phenyl-2-(pyrrolidine-2-yl)quinazoline-4(3H)-one
-T5	STARTING_MATERIAL 222 317	tert-butyl (S)-2-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate
-T6	YIELD_OTHER 415 425	10.13 mmol
-T7	YIELD_PERCENT 434 437	78%

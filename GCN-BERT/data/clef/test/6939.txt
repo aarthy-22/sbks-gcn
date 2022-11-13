@@ -1,2 +1,0 @@
-(2) Preparation of 2-amino-N,N-dimethylbenzenesulfonamide
-N,N-Dimethyl-2-nitrobenzenesulfonamide (2.5 g, 10.9 mmol) was dissolved in methanol (100 mL), and Pd/C (250 mg) was added. Hydrogen gas was introduced, and the resultant mixture was stirred at room temperature for 12 h. After the reaction, Pd/C was removed by filtration. The solvent was removed by rotary evaporation to obtain the product (2 g, yield: 92%).

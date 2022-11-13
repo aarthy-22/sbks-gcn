@@ -1,4 +1,0 @@
-Synthesis Example 6: Synthesis of Compound 45
-Compound 45 was synthesized in the same manner as in Synthesis Example 1, except that biphenyl-4-yl(dibenzofuran-4-yl)amine was used instead of biphenyl-3-yl(dibenzofuran-4-yl)amine in Synthesis of Intermediate Compound (i), and phenylmagnesium bromide was used instead of methylmagnesium bromide in Synthesis of Intermediate Compound (ii).
-Yield: 0.83 g (0.72 mmol, 46%).
-HR-EIMS (m/z) [M+] calcd for C86H56N2O2 1148.4342; found, 1148.4349.

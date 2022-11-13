@@ -1,4 +1,0 @@
-Example 91
-6-[5-Bromo-6-(3,3,3-trifluoro-propoxy)-pyridin-2-ylmethyl]-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
-6-(5-Bromo-6-fluoro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (example 22) (45.0 mg, 0.13 mmol), 3,3,3-trifluoro-propan-1-ol (151.8 mg, 1.33 mmol)) and cesium carbonate (108.4 mg, 0.33 mmol) are dissolved in 1.0 mL of tetrahydrofuran. and stirred at 120° C. for 15 minutes. The reaction mixture is concentrated under reduced pressure and the residue is purified by RP-HPLC (modifier: ammonium hydroxide).
-Yield: 36 mg (62% of theory)

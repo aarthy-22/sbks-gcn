@@ -1,6 +1,0 @@
-T1	EXAMPLE_LABEL 8 11	113
-T2	REACTION_PRODUCT 12 68	N-(2-acetamidoethyl)-4-(6-fluoro-1H-indol-3-yl)benzamide
-T3	STARTING_MATERIAL 120 143	N-acetylethylenediamine
-T4	REACTION_PRODUCT 259 273	title compound
-T5	YIELD_OTHER 275 282	15.6 mg
-T6	YIELD_PERCENT 284 287	42%

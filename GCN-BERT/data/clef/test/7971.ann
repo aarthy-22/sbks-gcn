@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 20 22	16
-T2	REACTION_PRODUCT 38 101	(S)-1-(7-fluoro-2-(3-fluorophenyl)quinoline-3-yl)ethane-1-amine
-T3	EXAMPLE_LABEL 107 108	1
-T4	REACTION_PRODUCT 125 176	7-fluoro-2-(3-fluorophenyl)quinoline-3-carbaldehyde
-T5	YIELD_OTHER 177 183	2.48 g
-T6	REACTION_PRODUCT 187 238	7-fluoro-2-(3-fluorophenyl)quinoline-3-carbaldehyde
-T7	STARTING_MATERIAL 305 346	2-chloro-7-fluoroquinoline-3-carbaldehyde
-T8	YIELD_PERCENT 433 436	92%

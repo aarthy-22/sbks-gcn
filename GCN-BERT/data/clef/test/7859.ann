@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 18 20	20
-T2	REACTION_PRODUCT 21 110	N-[4-(2-Furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]-6-propylpyridine-3-carboxamide
-T3	REACTION_PRODUCT 122 124	IW
-T4	REACTION_PRODUCT 190 221	methyl 6-(1-propenyl)nicotinate
-T5	YIELD_OTHER 223 229	327 mg
-T6	YIELD_PERCENT 231 234	37%
-T7	STARTING_MATERIAL 285 310	methyl 6-chloronicotinate
-T8	REAGENT_CATALYST 335 351	allyltributyltin

@@ -1,7 +1,0 @@
-T1	REACTION_PRODUCT 12 91	4-(6-Fluoro-1H-indol-3-yl)-N-[(1S)-2-hydroxy-1-methyl-ethyl]-3-methyl-benzamide
-T2	YIELD_PERCENT 307 310	31%
-T3	EXAMPLE_LABEL 8 11	126
-T4	YIELD_OTHER 299 305	8.5 mg
-T5	STARTING_MATERIAL 124 139	Intermediate 10
-T6	REACTION_PRODUCT 283 297	title compound
-T7	STARTING_MATERIAL 144 167	(2S)-2-aminopropan-1-ol

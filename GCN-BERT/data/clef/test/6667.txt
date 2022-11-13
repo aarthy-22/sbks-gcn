@@ -1,2 +1,0 @@
-Step 2. tert-butyl (S)-2-(3-ethoxy-3-oxopropyl)pyrrolidine-1-carboxylate
-A solution of tert-butyl (S,E)-2-(3-ethoxy-3-oxoprop-1-en-1-yl)pyrrolidine-1-carboxylate (Example 42, Step 1, 11.7 g, 43.5 mmol) and platinum (II) oxide (124 mg, 0.435 mmol, 0.01 equiv) in ethanol (145 mL, 0.3 M) was stirred under a hydrogen atmosphere for 6 h before being filtered through a pad of Celite and concentrated in vacuo. The crude residue was purified by silica chromatography (15% ethyl acetate in hexanes) to yield the title compound (10.3 g, 87% yield).

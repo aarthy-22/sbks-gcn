@@ -1,3 +1,0 @@
-Example 26
-4-({[6-Bromo-2-(3-methoxyphenyl)-3-methylquinolin-4-yl]carbonyl}amino)bicyclo[2.2.2]octane-1-carboxylic acid
-83 mg (0.14 mmol, purity 92%) of the compound from Example 67A were dissolved in 2.8 ml of a THF/methanol mixture (5:1), 0.14 ml (0.71 mmol) of a 5 M lithium hydroxide solution was added and the mixture was stirred at 50° C. for 5 h. After cooling to RT, the mixture was adjusted to pH 1-2 by addition of 4 M hydrochloric acid and purified by preparative HPLC (Method 2). This gave 75 mg (99% of theory, purity 98%) of the title compound

@@ -1,3 +1,0 @@
-Example 64
-4-(6-Fluoro-1H-indol-3-yl)-N-[(1R,5S)-3-oxabicyclo[3.1.0]hexan-6-yl]benzamide
-This compound was prepared from Intermediate 3 and (1R,5S)-3-oxabicyclo[3.1.0]-hexan-6-amine according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (15.2 mg, 41%). Data: LCMS (B) Rt: 10.314 min; m/z 337.1 (M+H)+.

@@ -1,4 +1,0 @@
-(First Compound for Organic Optoelectric Device)
-Synthesis Example 1: Synthesis of Compound 2
-First Step: Synthesis of Intermediate 1
-100.0 g (0.505 mol) of biphenyl-2-boronic acid, 101.22 g (0.53 mol) of 2,4-dichloro-1-nitro-benzene, 174.4 g (1.26 mol) of potassium carbonate, and 17.5 g (15.14 mmol) of tetrakis(triphenylphosphine) palladium (0) were added to 1.6 L of 1,4-dioxane and 0.8 L of water in a 5 L flask, and the mixture was heated under a nitrogen flow for 12 hours at 80° C. When a reaction was complete, a mixture obtained by removing an organic layer therefrom was added to 2 L of methanol, and a solid crystallized therein was filtered, dissolved in toluene, filtered with silica gel/Celite, and after removing an organic solvent in an appropriate amount, recrystallized with methanol to obtain Intermediate 1 (121 g, a yield of 78%).

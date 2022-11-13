@@ -1,9 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	3
-T2	REACTION_PRODUCT 23 135	4-(3-(4-(2-carbonyl-2,3-dihydro-1H-imidazo[4,5-b]pyridin-5-yl)piperazine-1-carbonyl)ben zyl)phthalazin-1(2H)-one
-T3	OTHER_COMPOUND 185 186	1
-T4	OTHER_COMPOUND 221 223	c'
-T5	OTHER_COMPOUND 252 253	n
-T6	REACTION_PRODUCT 275 276	9
-T7	REACTION_PRODUCT 279 391	4-(3-(4-(2-carbonyl-2,3-dihydro-1H-imidazo[4,5-b]pyridin-5-yl)piperazine-1-carbonyl)ben zyl)phthalazin-1(2H)-one
-T8	YIELD_OTHER 393 398	37 mg
-T9	YIELD_PERCENT 406 409	46%

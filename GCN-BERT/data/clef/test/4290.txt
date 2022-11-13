@@ -1,2 +1,0 @@
-Step 3. tert-Butyl 5-(3-formyl-2-methylphenyl)-3-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate
-Dess-Martin periodinane (231 mg, 0.544 mmol) was added to a solution of tert-butyl 5-(3-(hydroxymethyl)-2-methylphenyl)-3-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[3,4-c]pyridine-1-carboxylate (190 mg, 0.453 mmol) and pyridine (44.0 μl, 0.544 mmol) in DCM (5 ml). After stirring at r.t. for 1 h, solvent was evaporated in vacuo and the obtained crude product was purified by Biotage Isolera™ (170 mg, 90%).

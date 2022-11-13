@@ -1,2 +1,0 @@
-Synthesis Example 3: Synthesis of Compound 5
-Compound 5 (4.9 g, a yield of 80%) was obtained according to the same method as Synthesis Example 1 except for using bromometabiphenyl as the bromobenzene in the same moles as above instead of the bromobenzene used in Step 1 of Synthesis Example 1. calcd. C54H34N2: C, 91.24; H, 4.82; N, 3.94; found: C, 91.24; H, 4.82; N, 3.94.

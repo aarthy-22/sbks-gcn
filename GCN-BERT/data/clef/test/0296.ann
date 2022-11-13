@@ -1,9 +1,0 @@
-T1	TEMPERATURE 477 482	80° C
-T2	STARTING_MATERIAL 321 359	2-bromomethyl-1,1-difluorocyclopropane
-T3	TIME 452 456	20 h
-T4	EXAMPLE_LABEL 8 12	365A
-T5	YIELD_PERCENT 388 391	55%
-T6	REACTION_PRODUCT 13 174	(2,2-Difluorocyclopropyl)methyl 3-[(2,2-difluorocyclopropyl)methyl]-1-(2-methoxyethyl)-5-methyl-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carboxylate
-T7	YIELD_OTHER 380 386	437 mg
-T8	STARTING_MATERIAL 273 294	compound from Ex. 18A
-T9	REACTION_PRODUCT 410 424	title compound

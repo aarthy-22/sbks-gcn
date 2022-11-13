@@ -1,3 +1,0 @@
-Step 4
-3-(Difluoromethyl)-4-hydroxybenzaldehyde (45)
-To a solution of 4-(benzyloxy)-3-(difluoromethyl)benzaldehyde (2.4 g, 9.16 mmol) in ethanol (50 mL) was added 10% Pd/C (0.3 g) in a Parr shaker bottle. The reaction mixture was shaken at room temperature for 8 h under hydrogen (50 psi). The reaction mixture was filtered through celite pad and the filtrate was evaporated to give a crude product, which was purified by GRACE flash chromatography, (eluting with pet-ether:ethyl acetate (20:80) to afford 3-(difluoromethyl)-4-hydroxybenzaldehyde (900 mg, 57%, LC/MS; 93.6%) as a yellow solid.

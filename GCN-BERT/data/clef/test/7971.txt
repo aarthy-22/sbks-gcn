@@ -1,5 +1,0 @@
-PREPARATIVE EXAMPLE 16
-Preparation of (S)-1-(7-fluoro-2-(3-fluorophenyl)quinoline-3-yl)ethane-1-amine
-Step 1: Preparation of 7-fluoro-2-(3-fluorophenyl)quinoline-3-carbaldehyde
-2.48 g of 7-fluoro-2-(3-fluorophenyl)quinoline-3-carbaldehyde was prepared as a pale yellow solid by using 2.10g (10.0 mmol) of 2-chloro-7-fluoroquinoline-3-carbaldehyde by the same manner as described in step 1 of Preparative Example 12 (9.2 mmol, yield: 92%).
-MS [m/z; (M+1)+]:270.

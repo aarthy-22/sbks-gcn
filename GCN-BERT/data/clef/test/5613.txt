@@ -1,4 +1,0 @@
-[EXAMPLE 30]
-Synthesis of compounds I-062 and I-063
-Step 1 Synthesis of compound 62b
-The compound 62a (5.0 g, 34.9 mmol) was dissolved in dichloromethane (50 ml). Diphenyldiazomethane (8.14 g, 41.9 mmol) was added to the solution. The mixture was stirred for 1 hour. The reaction mixture was concentrated under reduced pressure. Then, the residue was subjected to silica gel column chromatography, followed by elution with chloroform/ethyl acetate. Fractions containing the desired compound were concentrated under reduced pressure to afford the compound 62b (5.77 g, 53%).

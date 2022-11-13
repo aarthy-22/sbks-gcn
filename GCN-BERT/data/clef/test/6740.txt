@@ -1,4 +1,0 @@
-Example Compound 58
-2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(pyridin-2-yl)acetate
-Step 1: 2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(pyridin-4-yl)acetate
-2-(pyridin-2-yl)acetic acid hydrochloride (30.4 mg, 0.2 mmol) was suspended in DCM (4 mL) under Argon, cooled to 0 °C and added trimethylamine (24 µL, 0.2 mmol). After 20 minutes a clear solution is observed and EDCI (33.1 mg, 0.2 mmol) and DMAP (4.1 mg, 0.03 mmol) followed by N-(3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)-2-hydroxyacetamide (42.3 mg, 0.2 mmol), synthesized as reported in Example 1. The mixture was left stirring overnight and then diluted with water and extracted 3 times with DCM. The organic phase was washed with brine, dried over MgSO4, filtered and concentrated. Purification by column chromatography (5% MeOH in DCM) yielded 54.5 mg of the title compound (87%).

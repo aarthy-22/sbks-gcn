@@ -1,5 +1,0 @@
-Example 31
-1-(2-(2,4-Dimethylthiazol-5-yl)ethyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
-Step 1
-Methyl 2-(2,4-dimethylthiazol-5-yl) acetate
-2-(2,4-Dimethylthiazol-5-yl)acetic acid (50.0 mg, 0.250 mmol) was dissolved in methanol (2 mL) and thionyl chloride (0.1 mL) was slowly added at 0°C. The reaction solution was slowly allowed to warm to room temperature and stirred for 2.5 hours. The reaction was quenched by addition of water (20 mL) and the reaction solution was extracted with ethyl acetate (20 mL x 3). The organic phases were combined, dried over anhydrous sodium sulfate, filtered, the filtrate was concentrated under reduced pressure, and purified by high performance preparation plate (1:3 petroleum ether / ethyl acetate, Rf = 0.3) to give the product methyl 2-(2,4-dimethylthiazol-5-yl) acetate (32.0 mg, as a yellow liquid) with a yield of 70%.

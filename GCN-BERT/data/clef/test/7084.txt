@@ -1,3 +1,0 @@
-EXAMPLE 9
-4-((S)-2-(2-(3-chlorophenyl)acetamido)-2-(2-(thiophen-2-yl)thiazol-4-yl)ethyl)phenylsulfamic acid (24)
-Preparation of (S)-2-(4-nitrophenyl)-1-[(thiophen-2-yl)thiazol-4-yl]ethanamine hydrobromide salt (22): A mixture of (S)-tert-butyl 4-bromo-1-(4-nitrophenyl)-3-oxobutan-2-ylcarbamate, 7, (7.74g, 20mmol), and thiophen-2-carbothioic acid amide (3.14g, 22mmol) in CH3CN (200 mL) is refluxed for 5 hours. The reaction mixture is cooled to room temperature and diethyl ether (50 mL) is added to the solution. The precipitate which forms is collected by filtration. The solid is dried under vacuum to afford 7.14 g (87 % yield) of the desired product. ESI+ MS 332 (M+1).

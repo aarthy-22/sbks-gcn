@@ -1,2 +1,0 @@
-Synthesis of compound 10-d
-At 0°C, trifluoroacetic anhydride (3.2g, 15.1mmol) was added dropwise to a solution of compound 10-e (0.94g, 3.78mmol) and triethylamine (1.53g, 15.1mmol) in THF (8mL). The mixture was slowly warmed to room temperature and further reacted for 3hrs, and then concentrated under reduced pressure. The residue was purified by silica column chromatography (PE:EA = 10:1) to give compound 10-d (0.85g, yield 97%).

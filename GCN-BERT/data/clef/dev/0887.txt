@@ -1,3 +1,0 @@
-Example 44A
-Methyl 4-{[(6-chloro-3-methyl-2-phenylquinolin-4-yl)carbonyl]amino}bicyclo[2.2.2]octane-1-carboxylate
-At RT, 258 mg (1.41 mmol) of methyl 4-aminobicyclo[2.2.2]octane-1-carboxylate, 402 mg (1.06 mmol) of HATU and 182 mg (1.41 mmol) of DIPEA were added to a solution of 210 mg (0.71 mmol) of 6-chloro-3-methyl-2-phenylquinoline-4-carboxylic acid in 5 ml of DMF. The mixture was then stirred at 60° C. for 1 h. After cooling to RT, the mixture was added to 20 ml of a 10% strength citric acid solution. The resulting precipitate was filtered off, washed with water and dried under reduced to pressure. This gave 326 mg (97% of theory, purity 98%) of the title compound

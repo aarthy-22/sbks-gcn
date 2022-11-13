@@ -1,4 +1,0 @@
-Example 78
-1-(3-Fluoro-5-methyl-4-(3-(1-methyl-1H-pyrazol-4-yl)-1H-pyrazolo[4,3-d]pyrimidin-5-yl)phenyl)-N-methylmethanamine
-Step 1. tert-Butyl 5-chloro-1H-pyrazolo[4,3-d]pyrimidine-1-carboxylate
-In a 50 mL round-bottom flask with a stir bar, 5-chloro-1H-pyrazolo[4,3-d]pyrimidine (Oxchem, 600 mg, 3.88 mmol) and triethylamine (649 μl, 4.66 mmol) were dissolved in CH2Cl2 (12.9 mL). Di-tert-butyl dicarbonate (991 μl, 4.27 mmol) was added, and the reaction mixture was stirred at r.t. for 1 h. The reaction mixture was then diluted with water, extracted with CH2Cl2, and the combined organic layers were dried over magnesium sulfate and concentrated under reduced pressure. The crude product was purified by Biotage Isolera™ (860 mg, 87%).

@@ -1,2 +1,0 @@
-(2) Preparation of (2S,5R)-N-(2-cyclopropyl-2-azaspiro[3.3]heptan-6-yl)-6-hydroxyl-7-oxo-1,6-diazabicyclo[3.2 .1]octane-2-carboxamide
-(2S,5R)-6-(phenylmethoxy)-N-(2-cyclopropyl-2-azaspiro[3.3]heptan-6-yl)-7-oxo-1,6-dia zabicyclo[3.2.1]octane-2-carboxamide (0.8 g, 1.95 mmol) was dissolved in methanol (10 mL), Pd/C (0.2 g) was added, stirred and reacted at 25°C under compressed hydrogen gas for 16h, filtrated, concentrated to obtain the title compound as a colorless gum (0.6 g, yield 96.8%).

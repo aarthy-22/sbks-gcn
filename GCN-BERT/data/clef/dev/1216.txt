@@ -1,2 +1,0 @@
-Synthesis of compound 9-c
-Compound 9-d (200mg, 0.89mmol) and N-iodosuccinimide (300mg, 1.33mmol) were dissolved in acetic acid (10mL) and trifluoroacetic acid (2mL), the mixture was reacted for 6hrs at 80 °C. The mixture was cooled to room temperature, concentrated under reduced pressure to remove the solvent. The residue was purified by silica column chromatography (PE:EA = 8:1) to give compound 9-c (200mg, yield 64%).

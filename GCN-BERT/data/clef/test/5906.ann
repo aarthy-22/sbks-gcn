@@ -1,8 +1,0 @@
-T1	STARTING_MATERIAL 115 129	Intermediate 5
-T2	REACTION_PRODUCT 286 300	title compound
-T3	REACTION_PRODUCT 88 96	compound
-T4	EXAMPLE_LABEL 8 10	99
-T5	YIELD_OTHER 302 309	11.7 mg
-T6	YIELD_PERCENT 311 316	30.3%
-T7	REACTION_PRODUCT 11 82	N-[4-(6-Fluoro-1H-indol-3-yl)phenyl]-2-(5-methylisoxazol-3-yl)acetamide
-T8	STARTING_MATERIAL 134 170	2-(5-methylisoxazol-3-yl)acetic acid

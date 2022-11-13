@@ -1,4 +1,0 @@
-The Examples Below were Prepared as Described in Scheme D
-Example 90: 1-(4-(3-Amino-3-methylbut-1-yn-1-yl)-2,6-dichlorophenyl)-8-chloro-5-(2,3-dihydroxypropoxy)-2-methyl-1,6-naphthyridin-4(1H)-one
-Step 1: 1-(4-Bromo-2,6-dichlorophenyl)-8-chloro-5-((2,2-dimethyl-1,3-dioxolan-4-yl)methoxy)-2-methyl-1,6-naphthyridin-4(1H)-one
-A mixture of 1-(4-bromo-2,6-dichlorophenyl)-5,8-dichloro-2-methyl-1,6-naphthyridin-4(1H)-one (intermediate 4, 0.2 g, 0.442 mmol), (2,2-dimethyl-1,3-dioxolan-4-yl)methanol (0.875 g, 6.62 mmol), K2CO3 (0.366 g, 2.65 mmol) and DMAP (11 mg, 0.088 mmol) in acetonitrile (24 mL) was stirred at 75° C. overnight. The solid was filtered out. Volatiles were removed under reduced pressure and the residue was purified with silica-gel chromatography (20-50% EtOAc/heptane) to afford the title compound (0.212 g, 88%).

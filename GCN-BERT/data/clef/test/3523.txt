@@ -1,2 +1,0 @@
-Step 1. 1-((3-Bromo-4-methylphenyl)sulfonyl)propan-2-one
-A mixture of sodium 3-bromo-4-methylbenzenesulfinate (20 mg, 0.078 mmol) and chloroacetone (6.5 μL, 0.078 mmol) in DMF (230 μL) was heated at 100° C. for 5 min in a microwave. The reaction mixture was diluted with water. The aqueous mixture was extracted with EtOAc (3×). The organic layers were filtered through a plug of Na2SO4, combined, and concentrated to afford the title compound (15 mg, 64%).

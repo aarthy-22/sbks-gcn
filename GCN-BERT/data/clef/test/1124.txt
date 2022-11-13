@@ -1,5 +1,0 @@
-Example 21
-(2S,2'S)-1,1'-(((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(3-hydroxy-4,1-phenylene))bis(methylene))bis(piperidine-2-carboxylic acid) (Cpd 21)
-Step 1
-5-Formyl-2-hydroxyphenyl acetate (26)
-To a solution of 3,4-dihydroxybenzaldehyde (5.0 g, 36.23 mmol) in DMF (35 mL) was added 60% w/w sodium hydride (1.45 g, 61.59 mmol) in portions at 0° C., prior to the slow addition of acetic anhydride (3.6 mL, 38.04 mmol). The resulting reaction mixture was stirred at room temperature for 1 hour. To the reaction mixture was added 2 N aqueous HCl under ice-cooling, and extracted with ethyl acetate. The organic layer was washed with saturated sodium bicarbonate solution and brine, dried over anhydrous Na2SO4 and concentrated. The crude product was purified on a silica gel column eluting with pet ether in ethyl acetate (10-50%) to get 5-formyl-2-hydroxyphenyl acetate 26 (5 g, yield: 76%, LC/MS: 72%) as an off-white solid, [C9H8O4];

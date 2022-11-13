@@ -1,7 +1,0 @@
-T1	STARTING_MATERIAL 92 106	Intermediate 1
-T2	EXAMPLE_LABEL 8 9	6
-T3	REACTION_PRODUCT 10 59	1 -Ethyl-3-[4-(6-fluoro-1H-indol-3-yl)phenyl]urea
-T4	YIELD_OTHER 312 317	23 mg
-T5	REACTION_PRODUCT 296 310	title compound
-T6	STARTING_MATERIAL 111 180	1-ethyl-3-[4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl]urea
-T7	YIELD_PERCENT 319 322	55%

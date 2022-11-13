@@ -1,4 +1,0 @@
-PREPARATION EXAMPLES
-Preparation Example 1. Preparation of Compound 1
-(1) Preparation of Compound 1A
-Benzaldehyde (50 g, 471.16 mmol) and ethyl-2-cyanoacetate (58.6 g, 518.28 mmol) were added to 500 ml of ethanol under nitrogen atmosphere, and then sufficiently stirred, and then piperidine (1.5 g, 18.85 mmol) was slowly added dropwise thereto, and then the resulting mixture was refluxed and stirred for about 12 hours. After the reaction was terminated, the temperature of the mixture was lowered to normal temperature, and then filtered. The filtered material was extracted with chloroform and water, and then the organic layer was dried by using magnesium sulfate. Thereafter, the organic layer was distilled under reduced pressure, and then recrystallized with ethanol to prepare and then dry Compound 1A (80.6 g, 85%).

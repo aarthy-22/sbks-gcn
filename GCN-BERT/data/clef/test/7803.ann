@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 18 19	9
-T2	REACTION_PRODUCT 20 119	N-[4-(2-Furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]-2-isopropoxymethylpyridine-4-carboxamide
-T3	REACTION_PRODUCT 131 133	IL
-T4	REACTION_PRODUCT 192 194	IL
-T5	YIELD_OTHER 197 204	30.2 mg
-T6	YIELD_PERCENT 206 209	36%
-T7	STARTING_MATERIAL 247 344	2-(chloromethyl)-N-[4-(2-furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]pyridine-4-carboxamide
-T8	REAGENT_CATALYST 371 381	2-propanol

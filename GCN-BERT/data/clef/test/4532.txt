@@ -1,3 +1,0 @@
-Example 33
-5'-((2-methoxyethyl)amino)-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide (1-31)
-An NMP (1.2 mL) solution of 5'-fluoro-N-(1-methyl-3-(pyridin-2-yl)-1H-pyrazol-4-yl)-[2,3'-bipyridine]-6-carboxamide (22.5 mg, 0.06 mmol) and 2-methoxyethan-1-amine (5 eq) was heated at 140-150° C. for 13 days until reaction went to completion, as monitored by LC-MS. Solvent was removed in vacuo, after silica gel chromatography and further trituration from Hexanes-EtOAc, title compound was obtained as a tan color solid: 14 mg (54% yield);

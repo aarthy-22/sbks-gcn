@@ -1,3 +1,0 @@
-Step 2
-Tert-butyl 1-methyl-2,4-dioxo-3,4-dihydro-1H-pyrrolo[2,3-d]pyrimidine-7(2H)-carboxylate
-1-Methyl-1H-pyrrolo[2,3-d]pyrimidine-2,4(3H,7H)-dione (396 mg, 2.40 mmol) and di-tert-butyl dicarbonate (785 mg, 3.60 mmol) were added successively into a suspension of sodium hydride (96.0 mg, 2.40 mmol) in dimethylsulfoxide (10 mL) at 15°C. The reaction was heated to 30°C and stirred overnight, and then quenched by pouring into ice water (20 mL). The reaction solution was filtered, and the filter cake was dried to give tert-butyl 1-methyl-2,4-dioxo-3,4-dihydro-1H-pyrrolo[2,3-d]pyrimidine-7(2H)-carboxylate (400 mg, as a light brown solid) with a yield of 62%.

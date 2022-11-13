@@ -1,4 +1,0 @@
-Example 89
-6-(7-Amino-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-6-ylmethyl)-3-trifluoromethyl-pyridine-2-carboxylic acid amide
-6-(7-Amino-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-6-ylmethyl)-3-trifluoromethyl-pyridine-2-carbonitrile (example 48) (50.0 mg, 0.15 mmol) and sodium hydroxide (2.0 mL, 34.7 mmol) are dissolved in 2.0 mL ethanol and the reaction mixture is stirred at 50° C. for 2 hours. The reaction mixture is cooled to room temperature, acidified with 4 M hydrochloric acid (74.8 μL, 0.30 mmol) and purified by RP-HPLC (modifier: trifluoroacetic acid).
-Yield: 14 mg (26% of theory)

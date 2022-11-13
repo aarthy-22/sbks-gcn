@@ -1,3 +1,0 @@
-Example Compound 50
-2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(o-tolyl)acetate
-2-(2-tolyl)acetic acid (26.3 mg, 0.2 mmol) was dissolved in DCM (3.4 mL) and added DCC (34.0 mg, 0.2 mmol) and DMAP (4.0 mg, 0.03 mmol) followed by N-(3,5-dimethyl-1-phenyl-1 H-pyrazol-4-yl)-2-hydroxyacetamide (38.0 mg, 0.2 mmol), synthesized as reported in Example 1. The obtained suspension was filtered over cotton to remove the bulk of DCU and purified by column chromatography (75% EtOAc in PE) to afford 60 mg (99%) of the title compound

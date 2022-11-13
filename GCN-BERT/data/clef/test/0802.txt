@@ -1,4 +1,0 @@
-EXAMPLE 88
-Preparation of (S)-7-amino-5-((1-(2-phenylquinoline-3-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one
-Step 1: Preparation of (S)-7-(methylthio)-5-((1-(2-phenylquinoline-3-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one
-23 mg of (S)-7-(methylthio)-5-((1-(2-phenylquinoline-3-yl)ethyl)amino)pyrimido[4,5-d]pyrimidine-4(1H)-one was prepared as a white solid according to the same manner as described in step 5 of Example 34 except that (S)-1-(2-phenylquinoline-3-yl)ethaneamine was used (0.052 mmol, yield: 52%).

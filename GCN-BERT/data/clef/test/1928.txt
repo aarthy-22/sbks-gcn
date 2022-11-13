@@ -1,4 +1,0 @@
-[Example 10]
-Synthesis of compound 1-0010
-Step 1
-The compound 19 (5.0 g, 29.9 mmol) was dissolved in tetrahydrofuran (10 mL). A 1 mol/L aqueous solution of sodium hydroxide (45 mL, 45.0 mmol) was added to the solution. The mixture was stirred at room temperature for 24 hours. The reaction mixture was washed by diethyl ether. Under ice cooling, 2 mol/L aqueous solution of hydrochloric acid was added to the mixture to adjust the pH to 3. The precipitated solids were filtered, and washed by cold water. The obtained solid was dried to give the compound 20 (2.5 g, yield 56.2%).

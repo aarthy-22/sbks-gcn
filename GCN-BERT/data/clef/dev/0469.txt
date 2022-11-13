@@ -1,4 +1,0 @@
-Synthesis Example 12: Synthesis of Compound 358
-Compound 358 was synthesized in the same manner as in Synthesis Example 9, except that 5,9-dibromo-dibenzo[c,g]fluoren-7-one was used instead of 5,9-dibromo-benzo[c]fluoren-7-one in Synthesis of Intermediate Compound (iii).
-Yield: 0.63 g (0.51 mmol, 73%).
-HR-EIMS (m/z) [M+] calcd for C92H66N4 1226.5287; found, 1250.5294.

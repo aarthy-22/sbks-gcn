@@ -1,2 +1,0 @@
-Example 7 Synthesis of 3, 7-dihydroxy-6-(ethyl-d4)-5-cholan-24-acid (compound 24)
-3-hydroxy-6-(ethyl-d4)-7-keto-5-cholan-24-acid(30 mg, 0.07 mmol), sodium hydroxide aq. solution (50%, 50mg) and water (2.0 ml) were added into a flask. Under stirring, sodium borohydride (10 mg, 0.15 mmol) was added and the mixture was stirred for 16 h at 100°C. Cooled down to room temperature and added 1N HCl to adjust pH 2-3. The precipitate was filtered, washed with purified water and dried to afford the target compound (22 mg, 70%).

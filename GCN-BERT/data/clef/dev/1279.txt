@@ -1,3 +1,0 @@
-Example Synthesis and Spectral Data.
-Step 1
-A solution of 1,2,4,5-benzenetetraamine tetrahydrobromide (2.3 g, 5 mmol) in 50 mL of 48% HBr was placed in a 500 mL round bottomed flask, and it was stirred and cooled in an ice-water bath (approx. 0-5° C.). A solution of NaNO2 (5.25 g in 100 mL of water) was added dropwise over a period of 2 h. After the addition, the reaction mixture was kept at 0° C. for an additional 1 h and then removed from the cooling bath and heated at 90-100° C. for 3 h. The mixture was set aside overnight for slow crystallization. The grayish-brown solid was separated, washed with water and dried to give Compound a, 4,8-dibromo-1,6-dihydrobenzo[1,2-d:4,5-d']bis([1,2,3]triazole), (139 g, 86% yield).

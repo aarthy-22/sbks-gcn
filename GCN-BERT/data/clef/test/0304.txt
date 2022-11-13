@@ -1,3 +1,0 @@
-Example 232
-1-(2-Ethoxyethyl)-3-(2-methoxyethyl)-5-methyl-6-[(2-oxoimidazolidin-1-yl)methyl]thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
-143 mg (0.216 mmol) of the compound from Example 263A were dissolved in 10 ml of dioxane, and 54 mg (0.324 mmol) of CDI were added. The mixture was stirred at RT for 17 h. The reaction solution was then concentrated on a rotary evaporator. The residue was dissolved in 3 ml of DMSO and this solution was purified by means of preparative HPLC (Method 14). Combination of the product fractions and freeze-drying gave 59 mg (66% of theory) of the title compound

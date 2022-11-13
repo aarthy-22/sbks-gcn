@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	3
-T2	REACTION_PRODUCT 23 162	(S)-7-amino-5-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
-T3	YIELD_OTHER 163 168	25 mg
-T4	REACTION_PRODUCT 172 311	(S)-7-amino-5-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
-T5	STARTING_MATERIAL 372 531	(S)-7-amino-5-((1-(5-chloro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)ethyl)amino)-1-(4-methoxybenzyl)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
-T6	YIELD_OTHER 617 626	0.05 mmol
-T7	YIELD_PERCENT 635 638	60%

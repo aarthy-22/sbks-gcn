@@ -1,3 +1,0 @@
-Example 20. Preparation of N-phenyl-N-(3-(4-(piperidine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide (LMT-683)
-Step 1: Preparation of (4-bromophenyl)(piperidin-1-yl)methanone
-(4-bromophenyl)(piperidin-1-yl)methanone was obtained (458.2 mg, 100% yield) by the same method as described in Step 2 of Example 1 using 4-bromobenzoic acid (318 mg, 1.58 mmol) and piperidine (0.21 ml, 1.90 mmol).

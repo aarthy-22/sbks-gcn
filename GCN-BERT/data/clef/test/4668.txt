@@ -1,2 +1,0 @@
-Synthesis of Compound 39
-Compound 38 (1.56 g, 5.94 mmol) and 4-aminobutanoic acid (673.0 mg, 6.53 mmol) were dissolved in EtOH (15 ml) along with sodium hydroxide (713.3 mg, 17.82 mmol) in water (15 mL). The reaction mixture was stirred for 2 hours at 80° C. After cooled to room temperature, the solvent was concentrated under reduced pressure. The mixture was acidify to ph7 with hydrochloric acid (0.5 N). The solid was collected by filtration, washed with water (10 mL×2) and dried to afford compound 39 (490.2 mg, 25.8%) as an off-white solid. LC-MS m/z (ES+), 320.03 (M+H)+.

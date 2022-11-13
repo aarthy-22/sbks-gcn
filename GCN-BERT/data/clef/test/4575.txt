@@ -1,5 +1,0 @@
-Example 25
-6-fluoro-5-(1-phenylpyrrolidin-3-yl)-5H-imidazo[5,1-a]isoindole trifluoroacetate
-Step 1
-tert-butyl 3-((2-bromo-6-fluorophenyl)(hydroxy)methyl)pyrrolidine-1-carboxylate 25b
-Lithium diisopropylamide (13 mL, 26 mmol) was added into 20 mL of tetrahydrofuran under argon atmosphere. The mixture was cooled to -78°C, 10 mL of a pre-prepared solution of 1-bromo-3-fluorobenzene 1a (3.5 g, 20.0 mmol) in tetrahydrofuran was added dropwise at -78°C, the resulting mixture was stirred for 1 hour at -78°C. Then 15 mL of a pre-prepared solution of tert-butyl 3-formylpyrrolidine-1-carboxylate 25a (3.985 g, 20.0 mmol, prepared by a well known method disclosed in "Jpn. Tokkyo Koh, 2009, 03 Jun, 4272338") in tetrahydrofuran was added dropwise at -78°C. The reaction was continuely stirred for 1 hour at -78°C. After the completion of the reaction, 10 mL of methanol was added dropwise to quench the reaction at -78°C. The reaction solution was concentrated under reduced pressure, and the resulting residue was purified by silica gel column chromatography with eluent system B to obtain compound 25b (5.15 g, yield 68.8%) as a yellow oil.

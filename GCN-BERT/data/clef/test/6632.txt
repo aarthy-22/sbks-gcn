@@ -1,3 +1,0 @@
-Step 6
-4-(3-Methylisoxazol-5-yl)cyclohexyl methanesulfonate
-4-(3-Methylisoxazol-5-yl)cyclohexanol (100 mg, 0.552 mmol) and triethylamine (111 mg, 1.10 mmol) were dissolved in dichloromethane (20 mL), methanesulfonyl chloride (94.9 mg, 0.829 mmol) was added at 0°C. The reaction solution was stirred at 25°C for 2 hours, diluted with dichloromethane (20 mL), washed with saturated sodium bicarbonate solution (30 mL x 2), dried over anhydrous sodium sulfate, filtered and the filtrate was concentrated under reduced pressure, and then purified by silica gel column chromatography (4:1 petroleum ether / ethyl acetate, Rf = 0.5) to give 4-(3-methylisoxazol-5-yl)cyclohexyl methanesulfonate (100 mg, as a colorless oil) with a yield of 50%. MS-ESI calcd. [M + H]+ 260, found 260.

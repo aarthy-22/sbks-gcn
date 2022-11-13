@@ -1,6 +1,0 @@
-T1	REACTION_PRODUCT 17 19	11
-T2	REACTION_PRODUCT 20 104	2-((3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)amino)-2-oxoethyl 2-(1H-indol-1-yl)acetate
-T3	STARTING_MATERIAL 110 170	N-(3,5-dimethyl-1-phenyl-1H-pyrazol-4-yl)-2-hydroxyacetamide
-T4	STARTING_MATERIAL 212 240	2-(1H-indol-1-yl)acetic acid
-T5	YIELD_PERCENT 283 286	79%
-T6	REACTION_PRODUCT 295 309	title compound

@@ -1,7 +1,0 @@
-T1	REACTION_PRODUCT 24 109	(S)-isopropyl-4-phenyl-2((R)-(4-methylphenyl)sulfonylthiazine-3-aminof ormyl)butyrate
-T2	REACTION_PRODUCT 128 135	product
-T3	YIELD_OTHER 137 143	1.67 g
-T4	REACTION_PRODUCT 120 122	25
-T5	EXAMPLE_LABEL 8 10	25
-T6	YIELD_PERCENT 152 155	66%
-T7	STARTING_MATERIAL 255 290	L-homophenylalanine isopropyl ester

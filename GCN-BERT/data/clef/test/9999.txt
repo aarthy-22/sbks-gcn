@@ -1,4 +1,0 @@
-Example 119
-6-(6-Amino-5-difluoromethoxy-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine
-6-(6-Bromo-5-difluoromethoxy-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (example 15) (50.00 mg, 0.129 mmol), 2,4-dimethoxy-benzylamine (86.601 mg, 0.518 mmol) and N,N-diisopropylethylamine (67.190 μL, 0.388 mmol) in 2 mL dimethylsulfoxide are stirred at 120° C. for 18 hours. The mixture is purified by RP-HPLC (modifier: ammonium hydroxide). The residue is dissolved in 2 mL dichloromethane, acidified with 0.50 mL trifluoroacetic acid, stirred at room temperature for 3 h and concentrated under reduced pressure.
-Yield: 24 mg (35% of theory)

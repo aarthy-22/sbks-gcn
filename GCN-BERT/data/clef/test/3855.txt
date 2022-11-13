@@ -1,3 +1,0 @@
-[Synthesis Example 12] Synthesis of Compound 76
-[Synthesis Example 12-1] Synthesis of [Intermediate 12-a]
-In a 1-L reactor, 9-phenyl carbazole (50 g, 205 mmol), N-bromosuccinimide (36.5 g, 205 mmol), toluene (700 ml), and ethylacetate (300 ml) were placed and stirred together at room temperature for 45 hours. After completion of the reaction, the organic layer was extracted and concentrated at a reduced pressure. Purification by column chromatography afforded Intermediate 12-a (60.7 g): yield 92%

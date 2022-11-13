@@ -1,3 +1,0 @@
-EXAMPLE 15
-4-{(S)-2-(3-Benzylureido)-2-[2-(thiophen-2-yl)thiazol-4-yl]ethyl}-phenylsulfamic acid (37)
-Preparation of 1-benzyl-3-{(S)-2-(4-nitrophenyl)-1-[2-(thiophen-2-yl)thiazol-4-yl]ethyl}urea (36): To a solution of (S)-2-(4-nitrophenyl)-1-[(2-thiophen-2-yl)thiazol-4-yl)ethan-amine hydrobromide salt, 8, and Et3N (0.42mL, 3mmol) in 10 mL DCM is added benzyl isocyanate (0.12mL, 1mmol). The mixture is stirred at room temperature for 18 hours. The product is isolated by filtration to afford 0.445 g (96% yield) of the desired product which is used without further purification.

@@ -1,3 +1,0 @@
-Example 78
-N-[3-(dimethylamino)-2-hydroxy-propyl]-4-(6-fluoro-1H-indol-3-yl)benzamide
-This compound was prepared from Intermediate 3 and 1-amino-3-(dimethylamino)propan-2-ol according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (11.5 mg, 29%). Data: LCMS (B) Rt : 7.111 min; m/z 356.1 (M+H)+.

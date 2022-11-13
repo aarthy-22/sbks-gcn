@@ -1,4 +1,0 @@
-(Example 1)
-Method for producing CTB derivative 4 for use in liquid-phase synthesis
-(1) Synthesis of compound 1
-To a solution of 5-nitrosalicylic acid (1.00 g, 5.46 mmol) dissolved in 15 mL of DMF, K2CO3 (4.52 g, 32.8 mmol) and iodoethane (2.2 mL, 27.5 mol) were added, and the mixture was stirred at 50°C for 6 hours. The solvent was distilled off, and the resulting yellow residue was washed with water (20 mL) to obtain compound 1 (955 mg, 3.99 mmol, 73%) as a yellow powder.

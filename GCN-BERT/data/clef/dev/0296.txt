@@ -1,2 +1,0 @@
-Example 2C. 2-(3-((6-Aminohexyl)oxy)benzyl)-8-benzyl-6-phenylimidazo[1,2-a]pyrazin-3(7H)-one
-To a solution of tert-butyl (6-(3-((8-benzyl-3-oxo-6-phenyl-3,7-dihydroimidazo[1,2-a]pyrazin-2-yl)methyl)phenoxy)hexyl)carbamate (0.14 g) in CH2Cl2 (15 mL), TFA (1 mL) was added. The orange solution was stirred for 1 hr, then toluene was added, and the solution concentrated to provide the title compound as an amber glass (0.09 g, 80%): ESI MS (m/z) [M+H] (C32H34N4O2) found 507.2.

@@ -1,3 +1,0 @@
-Step 4
-4,4'-(([1,1'-biphenyl]-3,3'-diylbis(methylene))bis(oxy))bis(3-bromobenzaldehyde) (11)
-To a stirred solution of 3,3'-bis(bromomethyl)biphenyl (1.5 g, 4.43 mmol) in ACN (30 mL) at room temperature were added 3-bromo-4-hydroxybenzaldehyde (2.6 g, 13.31 mmol) and K2CO3 (2.4 g, 17.751 mmol) and reaction mixture was stirred at 90° C. for 4 h. The reaction mixture was cooled to room temperature, diluted with cold water (50 mL) and extracted with EtOAc (2×50 mL). The combined organic layer was washed with brine (2×50 mL), dried over anhydrous Na2SO4, filtered and concentrated under reduced pressure to afford 4,4'-(([1,1'-biphenyl]-3,3'-diylbis(methylene))bis(oxy))bis(3-bromobenzaldehyde) (0.7 g, yield: 24%, LC-MS: 71%) as an off white solid.

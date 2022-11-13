@@ -1,2 +1,0 @@
-Step 1: Preparation of 2-chloro-5-nitro-4-aminopyrimidine
-To 2,4-dichloro-5-nitropyrimidine (500 mg, 2.5 mmol) dissolved in tetrahydrofuran (10 mL), sodium hydroxide (238 mg, 2.8 mmol) and aqueous ammonia (0.3 mL) was added, and reacted for 2 hrs at 55°C. The solvent was removed under reduced pressure, and the residue was separated by flash column chromatography (dichloromethane: methanol=100:1), to obtain Compound w: 2-chloro-5-nitro-4-aminopyrimidine as a white solid (0.47 g, yield 84%). MS(ESI)m/z: [M+H]+=175.

@@ -1,5 +1,0 @@
-Core 24
-(2S,3R,4S,5S)-ethyl 3-(tert-butyl)-5-(2-ethylphenyl)-4-nitropyrrolidine-2-carboxylate
-Core 24A
-(E)-ethyl 2-((2-ethylbenzylidene)amino)acetate
-A mixture of ethyl 2-aminoacetate hydrochloride (1.85 g, 13.25 mmol) and magnesium sulfate (3.19 g, 26.5 mmol) in dichloromethane (22 mL) (anhydrous) was treated with triethylamine (1.847 mL, 13.25 mmol), stirred for 10 minutes and treated with 2-ethylbenzaldehyde (1.78 g, 13.25 mmol) as a solution in 1 mL of dichloromethane. The flask was capped and stirred at ambient temperature overnight. The solid material was filtered, the filtrate was washed with water, and the organic layer was dried with Na2SO4 and filtered again. The filtrate was concentrated, giving (E)-ethyl 2-((2-ethylbenzylidene)amino)acetate (2.65 g, 12.09 mmol, 91% yield).

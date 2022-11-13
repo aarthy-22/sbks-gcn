@@ -1,3 +1,0 @@
-Reference Example C-4: Synthesis of [4-[5-(trifluoromethyl)-2-pyridyl]-2-pyridyl]methylamine hydrochloride (C-4)
-(step 1) Synthesis of tert-butyl N-[(4-chloro-2-pyridyl)methyl]carbamate
-To a solution of (4-chloro-2-pyridyl)methylamine (28 g, 0.20 mol) in dichloromethane (250 mL) were added triethylamine (56 mL, 0.40 mol) and di-tert-butyl dicarbonate (52 g, 0.24 mol), and the mixture was stirred at room temperature for 2 hr. The solvent was evaporated and the obtained residue was purified by silica gel column chromatography (petroleum ether/ethyl acetate) to give the title compound (45 g, 0.18 mol, 92%).

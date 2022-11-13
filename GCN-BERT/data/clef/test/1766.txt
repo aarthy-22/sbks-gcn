@@ -1,5 +1,0 @@
-Example 70
-6-((3-Isopropylisoxazol-5-yl)methyl)-4-methyl-1-(2,2,2-trifluoroethyl)-pyrazolo[4,3-d]pyrimidine-5,7-dione
-Step 1
-Methyl 4-nitro-pyrazole-5-carboxylate
-4-Nitro-pyrazole-5-carboxylic acid (45.0 g, 286 mmol) was dissolved in methanol (700 mL) and thionyl chloride (102 g, 859 mmol) was added dropwise at 0°C. The reaction was stirred at 25°C for 18 hours. The reaction mixture was concentrated under reduced pressure to give methyl 4-nitro-pyrazole-5-carboxylate (49.0 g, as a white solid) with a yield of 100%.

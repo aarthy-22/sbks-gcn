@@ -1,3 +1,0 @@
-Preparation 7: Synthesis of Intermediate 7 {tert-butyl 4-ethynyl-3,6-dihydropyridine-1(2H)-carboxylate}
-Step 1: Synthesis of tert-butyl 4-hydroxy-4-((trimethylsilyl)ethynyl)piperidine-1-carboxylate
-To a solution of tert-butyl 4-oxopiperidine-1-carboxylate (20 g, 1 eq) in THF (335 ml) was added with n-BuLi (2.5M, 64 ml, 1.6 eq) at −78° C. The mixture was stirred for 1 hr. A solution of ethynyltrimethylsilane (14.8 g, 1.5 eq) in THF (335 ml) was slowly added at −78° C. and stirred for 12 hr at room temperature. The mixture was quenched with water and extracted with ethyl acetate. The organic layer was washed with brine, dried over anhydrous MgSO4 and concentrated in vacuo. The residue was purified with column chromatography to prepare the title compound (9 g, 30%).

@@ -1,3 +1,0 @@
-(1) Preparation of 2-(2-chloroethyl)pyridine
-2-Pyridine-ethanol (15.00 g, 122 mmol), triphenyl phosphine (38.40 g, 146 mmol) and carbon tetrachloride (100 mL) were put in a 500-mL flask, and heated under reflux. After 1.5 hours, triphenyl phosphine (9.60 g, 36.6 mmol) was added thereto and further heated for 30 minutes under reflux.
-The reaction liquid was cooled down to room temperature, and then pentane (200 mL) was added thereto, and filtered using a Kiriyama funnel. The resultant filtrate was concentrated to give a crude product (17.07 g). This was distilled under reduced pressure to give 11.16 g (yield 65.8%, purity 97.1%) of 2-(2-chloroethyl)pyridine.

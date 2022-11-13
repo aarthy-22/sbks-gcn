@@ -1,2 +1,0 @@
-Synthesis of Compound 55
-Bromoacetyl bromide (150.0 mg, 0.75 mmol) was added to a solution of compound 54 (573.7 mg, 0.5 mmol) in DMF (10 mL) at 0° C. The resulting mixture was stirred at 0° C. for 10 minutes and then allowed to stir at room temperature for another 3 hours. The mixture was added water (20 mL) and extracted by ethyl acetate (20 mL×3). The combined organic layers were concentrated, and the residue was purified by pre-HPLC to give compound 55 (421 mg, 66.4%) as a yellow powder. LC-MS m/z (ES+), 1270.38 (M+H)+.

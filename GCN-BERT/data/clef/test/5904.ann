@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 8 11	127
-T2	REACTION_PRODUCT 12 85	N-[3-(dimethylamino)propyl]-4-(6-fluoro-1H-indol-3-yl)-3-methyl-benzamide
-T3	REACTION_PRODUCT 91 99	compound
-T4	STARTING_MATERIAL 118 130	Intermediate
-T5	STARTING_MATERIAL 138 169	N,N-dimethylpropane-1,3-diamine
-T6	REACTION_PRODUCT 285 299	title compound
-T7	YIELD_OTHER 301 307	8.7 mg
-T8	YIELD_PERCENT 309 312	35%

@@ -1,9 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	41
-T2	REACTION_PRODUCT 27 95	ethyl 2-(4-(3-(N-phenylpentaneamido)prop-1-yn-1-yl)benzamido)acetate
-T3	REACTION_PRODUCT 97 105	LMT-1014
-T4	REACTION_PRODUCT 107 175	Ethyl 2-(4-(3-(N-phenylpentaneamido)prop-1-yn-1-yl)benzamido)acetate
-T5	YIELD_PERCENT 190 196	102.18
-T6	YIELD_OTHER 197 199	mg
-T7	YIELD_PERCENT 201 204	54%
-T8	STARTING_MATERIAL 268 321	4-(3-(N-phenylpentaneamido)pro-1-yn-1-yl)benzoic acid
-T9	STARTING_MATERIAL 372 403	glycineethylester hydrochloride

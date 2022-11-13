@@ -1,2 +1,0 @@
-5. Synthesis of 3, 7-dihydroxy-6-(ethyl-d3)-7-d-5-cholan-24-acid (compound 18)
-3-hydroxy-6-(ethyl-d3)-7-keto-5-cholan-24-acid(65 mg, 0.15 mmol), sodium hydroxide aq. solution (50%, 200 mg) and water (3.0 ml) was added successively. Under stirring, sodium borodeuteride (13 mg, 0.3 mmol) was added and the mixture was stirred for 16 h at 100°C. Cooled to room temperature and added with 1N HCl to adjust pH 2-3. The precipitate was filtrated, washed with purified water and dried to afford the target compound (45 mg, 69%).

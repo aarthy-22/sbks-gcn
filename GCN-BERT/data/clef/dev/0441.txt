@@ -1,3 +1,0 @@
-[Example 36]
-Synthesis of compound I-1286
-The compound I-0937 (100 mg, 0.342 mmol) was dissolved in dioxane (2 mL). A Lawesson's reagent (180 mg, 0.444 mmol) was added to the solution. The mixture was stirred at 100°C for 1 hour. Pyridine (541 mg, 6.83 mmol) and cyanamide (71.8 mg, 1.709 mmol) were added to the reaction mixture. The mixture was stirred at 60°C for 1 hour. Ethyl acetate and 1 mol/L hydrochloric acid solution were added to the reaction mixture. The mixture was extracted with ethyl acetate. The organic layer was dried over sodium sulfate, and filtered. The Solvent was evaporated under reduced pressure . The obtained residue was purified by silica-gel column chromatography (ethyl acetate-n-hexane) to give the compound I-1286 (25.5 mg, yield 16%).

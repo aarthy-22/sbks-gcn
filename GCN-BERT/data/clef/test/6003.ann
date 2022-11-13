@@ -1,9 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	41
-T2	REACTION_PRODUCT 26 158	(S)-5-((1-(5-fluoro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)propyl)amino)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
-T3	EXAMPLE_LABEL 164 165	1
-T4	REACTION_PRODUCT 182 334	(S)-5-((1-(5-fluoro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)propyl)amino)-1-(4-methoxybenzyl)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
-T5	YIELD_OTHER 335 340	91 mg
-T6	REACTION_PRODUCT 344 496	(S)-5-((1-(5-fluoro-4-oxo-3-phenyl-3,4-dihydroquinazoline-2-yl)propyl)amino)-1-(4-methoxybenzyl)-3-methyl-2,3-dihydropyrimido[4,5-d]pyrimidine-4(1H)-one
-T7	REACTION_PRODUCT 605 665	(S)-2-(1-aminopropyl)-5-fluoro-3-phenylquinazoline-4(3H)-one
-T8	YIELD_OTHER 676 685	0.15 mmol
-T9	YIELD_PERCENT 694 697	98%

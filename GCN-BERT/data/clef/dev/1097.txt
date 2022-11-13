@@ -1,3 +1,0 @@
-Example 25
-4-(6-Fluoro-1H-indol-3-yl)-N-(1-methyl-3-piperidyl)benzamide
-This compound was prepared from Intermediate 3 and 3-amino-1-methylpiperidine dihydrochloride according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (14 mg, 36%). Data: LCMS (B) Rt : 6.933 min; m/z 352.2 (M+H)+.

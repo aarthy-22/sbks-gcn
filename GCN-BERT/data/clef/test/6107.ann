@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	4
-T2	REACTION_PRODUCT 23 94	N-(3-(4-(morpholine-4-carbonyl)phenyl)prop-2-ynyl)-N-phenylpentaneamide
-T3	REACTION_PRODUCT 112 184	N-(3-(4-(morpholine-4-carbonyl)phenyl)prop-2-ynyl)-N-phenylpentaneamide,
-T4	YIELD_OTHER 199 205	371 mg
-T5	YIELD_PERCENT 213 216	90%
-T6	STARTING_MATERIAL 283 303	N-phenylpentaneamide
-T7	STARTING_MATERIAL 364 427	3-(4-(morpholine-4-carbonyl)phenyl)prop-2-ynyl methanesulfonate

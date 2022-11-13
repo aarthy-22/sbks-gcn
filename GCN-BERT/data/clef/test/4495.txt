@@ -1,2 +1,0 @@
-Intermediate 7: Cyclobutyl 4-methylbenzenesulfonate
-A solution of cyclobutanol (0.22 mL, 2.81 mmol) and p-toluenesulfonyl chloride (589 mg, 3.09 mmol) was stirred at rt overnight. The mixture was diluted with EtOAc and 1N HCl, and the aqueous layer was extracted with EtOAc (3×). The combined organic layers were washed with sat. aq. Cu2SO4 (3×), dried over Na2SO4, filtered, and concentrated in vacuo. The residue was purified by flash column chromatography (SiO2; 0-20% EtOAc/hexanes) to afford the title compound as a colourless oil (521 mg, 82% yield).

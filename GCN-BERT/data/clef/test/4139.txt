@@ -1,5 +1,0 @@
-Core 17
-(2S,3R,4S,5S)-ethyl 5-(2-(azetidin-1-yl)pyridin-3-yl)-3-(tert-butyl)-4-nitropyrrolidine-2-carboxylate
-Core 17A
-2-(azetidin-1-yl)nicotinaldehyde
-Into a 40 mL vial was added azetidine hydrochloride (0.412 g, 4.40 mmol), 2-chloronicotinaldehyde (0.53 g, 3.67 mmol), K2CO3 (1.268 g, 9.17 mmol) and dimethyl sulfoxide (DMSO) (7.34 mL). The mixture was stirred at 110° C. for 20 hours. Saturated ammonium chloride was added, and the mixture was extracted with ethyl acetate. The combined organic layer was washed with brine, dried over Na2SO4, filtered, concentrated and purified by flash column chromatography (0 to 30% ethyl acetate in heptane) to provide 2-(azetidin-1-yl)nicotinaldehyde (0.52 g, 3.21 mmol, 87% yield).

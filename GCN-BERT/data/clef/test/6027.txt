@@ -1,5 +1,0 @@
-Example 3
-N,N'-(((((((2,2'-Dimethyl-[1,1'-biphenyl]-3,3'-diyl)bis(methylene))bis(oxy))bis(2-methoxypyridine-6,3-diyl))bis(methylene))bis(azanediyl))bis(ethane-2,1-diyl))diacetamide (Cpd 3)
-Step 1
-6-Chloro-2-methoxynicotinaldehyde (6)
-To a solution of 2-chloro-6-methoxypyridine (5 g, 34.82 mmol) in THF (100 mL), cooled to −78° C. was added tBuLi (1.7 M) (18.5 mL, 31.34 mmol) and stirred for 1 h; DMF (92.2 g, 31.34 mmol) was then added at −78° C. and stirred for 2 h. The reaction mixture was quenched with acetic acid and poured in to ice cold water, basified with sat NaHCO3 and extracted with EtOAc (2×500 mL). The combined organic layer was dried over Na2SO4 and concentrated under reduced pressure to get crude product, which was purified by silica gel column (eluting with pet ether: ethyl acetate=10:1) to afford 6-chloro-2-methoxynicotinaldehyde as an off white solid (3.8 g, 65%).

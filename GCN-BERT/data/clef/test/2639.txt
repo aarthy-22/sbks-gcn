@@ -1,4 +1,0 @@
-Example 13
-Preparation of 5-((3R)-3-((3R, 5S, 6R, 7R, 10S,13R)-6-ethyl-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a] phenanthrene-17-yl) butyl) -1,3,4-oxadiazole-2-carboxylic acid
-Step 1:
-Methyl 6α-ethyl-chenodeoxycholicate 10-ii (43 mg, 0.10 mmol) was dissolved in 2 mL of chloroform, and then added with pyridine (12 µL, 0.15 mmol, 1.5 eq.) and oxalyl chloride monoethyl ester (13 µL, 0.12 mmol, 1.2 eq.) successively. The reaction mixture was heated to 80 °C and stirred for 2 hours until the reaction was completed basically. The reaction solution was concentrated under reduced pressure, and then washed with saturated brine and extracted with ethyl acetate three times. The organic phases were combined and dried over anhydrous sodium sulfate, filtered, and filtrate was concentrated under reduced pressure. The residues were purified by column chromatography (CH2Cl2/MeOH 30:1) to obtain compound 13-ii (22 mg, 43%).

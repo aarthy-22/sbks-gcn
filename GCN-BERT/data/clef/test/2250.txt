@@ -1,3 +1,0 @@
-Synthesis Example 9
-Toluene-4-sulfonic acid 2-fluoroethyl ester
-A reaction vessel was charged with 2-fluoroethanol (1.00 mL, 16.9 mmol), p-toluenesulfonylchloride (3.85 g, 20.2 mmol), N-methylmorpholine (9.30 mL, 84.5 mmol), and CH2Cl2 (50 mL), and reaction was effected at room temperature for 17 hours. After the reaction, water was added to the reaction system, and the product was extracted three times with ethyl acetate into the organic layer. The resulting organic layer was washed with saturated saline and dried with MgSO4. After concentration under reduced pressure, the concentrate was purified by Hi-flash silica column chromatography (developing solvent, ethyl acetate:hexane=19:81→40:60) to yield a product (3.79 g (17.2 mmol), 100% yield, light yellow liquid).

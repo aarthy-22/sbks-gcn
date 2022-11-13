@@ -1,3 +1,0 @@
-Example 181A
-6-(Chloromethyl)-1-(2-methoxyethyl)-3-(2-phenylethyl)-5-(trifluoromethyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
-1.30 g (3.03 mmol) of the compound from Ex. 174A were dissolved in 13 ml of chloroform, and 443 μl (6.07 mmol) of thionyl chloride were added. The reaction mixture was heated in a microwave oven (Biotage Initiator with dynamic control of irradiation power) to 80° C. for 30 min. All the volatile constituents were then removed on a rotary evaporator. The residue obtained was twice taken up with toluene and concentrated again each time. After drying under high vacuum, 1.34 g (99% of theory) of the title compound were obtained.

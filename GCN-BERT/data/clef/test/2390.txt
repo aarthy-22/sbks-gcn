@@ -1,2 +1,0 @@
-3g-
-To a round-bottom flask containing 3-7 (471 mg, 1.23 mmol, 1 equiv) was added dichloromethane (20 mL), followed by trifluoroacetic acid (6 mL, excess) and stirred at room temperature. After 30 minutes, solvent was removed and remaining residue was purified by flash chromatography using a linear gradient from 20% ethyl acetate and 80% hexanes to 40% ethyl acetate and 60% hexanes, yielding intermediate 3-8 (471 mg, 1.23 mmol, 83% yield). Product was characterized by 1H and 13C NMR in CDCl3.

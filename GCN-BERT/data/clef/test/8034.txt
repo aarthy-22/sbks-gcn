@@ -1,2 +1,0 @@
-Step 3. 4-Bromo-3-(difluoromethoxy)-5-fluoroaniline
-NBS (1.3 g, 7.3 mmol) was added to a solution of 3-(difluoromethoxy)-5-fluoroaniline (1.27 g, 7.17 mmol) in DMF (15 mL) at 0° C. After stirring at r.t. for 1 h, water was added and the reaction mixture was extracted with EtOAc. The separate organic layer was washed with brine and purified by Biotage Isolera™ (0.91 g, 50%).

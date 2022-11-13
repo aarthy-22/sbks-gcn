@@ -1,4 +1,0 @@
-Example 159
-6-(7-Amino-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-6-ylmethyl)-3-methanesulfonyl-pyridin-2-ol
-6-(5-Bromo-6-fluoro-pyridin-2-ylmethyl)-5-methyl-[1,2,5]oxadiazolo[3,4-b]pyridin-7-ylamine (example 22) (50.00 mg, 0.148 mmol) and sodium methanesulfinate (15.096 mg, 0.148 mmol) are dissolved in 0.909 mL of dimethyl sulfoxide and stirred for 1 hour at 100° C. in a microwave. The mixture is purified by RP-HPLC (modifier: ammonium hydroxide).
-Yield: 8 mg (16% of theory)

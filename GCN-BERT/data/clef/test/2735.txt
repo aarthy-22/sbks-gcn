@@ -1,3 +1,0 @@
-Example 10: Synthesis of 3-hydroxy-2-butyl-thiochromen-4-one (Compound 10)
-Synthesis of (E)-hept-2-enoic acid (10a)
-0.5 g malonic acid (4.8 mmol) was solved in 3 ml pyridine and 0.51 ml pentanal (4.8 mmol) and 50 µl pyrrolidine was added. The mixture warmed up and the evolution of gas was observed. The mixture was stirred at reflux temperature for 30 min and was then poured in ice water and acidified with conc. HCl. The mixture was extracted with ethyl acetate and the combined organic phases washed with Brine, dried with MgSO4, filtered and the solved evaporated. The product was purified by column chromatography using PE/EE 5:1. The product was obtained as colorless oil (m = 0.4 mg, 65 %). Rf = 0.175 (PE/EE 5:1).

@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 18 19	4
-T2	REACTION_PRODUCT 42 45	136
-T3	REACTION_PRODUCT 88 91	136
-T4	STARTING_MATERIAL 188 243	10-(9-phenyl-9H-carbazol-3-yl)anthracene-9-carbaldehyde
-T5	STARTING_MATERIAL 286 311	4-phenyl-1-naphthaldehyde
-T6	STARTING_MATERIAL 317 403	Intermediate 4-hydroxy-3-(10-(9-phenyl-9H-carbazol-3-yl)anthracen-9-yl)pent-3-en-2-one
-T7	REACTION_PRODUCT 424 489	Intermediate 4-hydroxy-3-(4-phenylnaphthalen-1-yl)pent-3-en-2-one

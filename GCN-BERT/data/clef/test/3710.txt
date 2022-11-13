@@ -1,3 +1,0 @@
-Step 9
-1-(Cyclopropylmethyl)-6-(3-isopropylisoxazol-5-yl)methyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione
-3-Isopropylisoxazole-5-methyl methanesulfonate (29.9 mg, 0.136 mmol), 1-(cyclopropylmethyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione (30.0 mg, 0.136 mmol), potassium iodide (2.3 mg, 0.014 mmol) and potassium carbonate (56.5 mg, 0.408 mmol) were dissolved in N,N-dimethylformamide (3 mL). The reaction solution was warmed to 120°C and stirred for 3 hours, and then cooled to room temperature, filtered and the filtrate was concentrated under reduced pressure. The residue was purified by preparative HPLC to give 1-(cyclopropylmethyl)-6-(3-isopropylisoxazol-5-yl)methyl)-4-methyl-pyrazolo[4,3-d]pyrimidine-5,7-dione (8.0 mg) with a yield of 17%.

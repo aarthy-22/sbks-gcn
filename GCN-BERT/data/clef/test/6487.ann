@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	26
-T2	REACTION_PRODUCT 27 108	N-(4-fluorophenyl)-N-(3-(3-(piperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
-T3	REACTION_PRODUCT 110 117	LMT-888
-T4	REACTION_PRODUCT 136 217	N-(4-fluorophenyl)-N-(3-(3-(piperazine-1-carbonyl)phenyl)prop-2-ynyl)pentaneamide
-T5	YIELD_PERCENT 233 238	356mg
-T6	YIELD_PERCENT 240 243	58%
-T7	STARTING_MATERIAL 306 401	tert-butyl-4-(3-(3-(N-(4-fluorophenyl)pentaneamido)prop-1-ynyl)benzoyl)piperazine-1-carboxylate

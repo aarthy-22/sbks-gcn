@@ -1,7 +1,0 @@
-T1	EXAMPLE_LABEL 18 20	21
-T2	REACTION_PRODUCT 21 134	N-[4-(2-Furyl)-5-(tetrahydropyran-4-carbonyl)thiazol-2-yl]-7,8-dihydro-5H-thiopyrano[4,3-b]pyridine-3-carboxamide
-T3	REACTION_PRODUCT 146 148	IX
-T4	REACTION_PRODUCT 215 283	2-oxo-1,5,7,8-tetrahydro-5H-thiopyrano[4,3-b]pyridine-3-carbonitrile
-T5	YIELD_OTHER 285 291	3.06 g
-T6	YIELD_PERCENT 293 296	37%
-T7	STARTING_MATERIAL 339 368	tetrahydro-4H-thiopyran-4-one

@@ -1,6 +1,0 @@
-Example 9: Synthesis of (R)-3-aminoquinuclidine.monofumarate
-Methanol solution (29.92 g) containing (R)-3-aminoquinuclidine (4.98 g: 39.5 mmol) was charged into a 50 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and methanol suspension (14.61 g) containing fumaric acid (4.60 g: 39.6 mmol) was added thereto while stirring at room temperature. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain (R)-3-aminoquinuclidine.monofumarate (9.01 g (37.2 mmol, yield=94%) as a white crystal.
-Endothermic peak top temperature in DSC: 202° C.
-Elemental analysis: C7H14N2.C4H4O4
-Theoretical value: C, 54.53%, H, 7.49%, N, 11.56%
-Actual measured value: C, 54.4%, H, 7.5%, N, 11.7%

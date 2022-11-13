@@ -1,2 +1,0 @@
-Synthesis of compound 11-e
-At 0°C, a solution of N-bromosuccinimide (1.73g, 9.73mmol) in acetonitrile (5mL) was added to a solution of compound 11-f (1.4g, 9.27mmol) in acetonitrile (35mL). The mixture was warmed to room temperature and reacted for 3hrs, evaporated under reduced pressure to remove the solvent. The residue was purified by silica column chromatography (PE:EA = 10:1 to 5:1) to give compound 11-e (1.63g, yield 77%).

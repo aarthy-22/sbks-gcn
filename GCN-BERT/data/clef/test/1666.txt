@@ -1,4 +1,0 @@
-Example 35
-8-(4-Methylsulfonyl-2-methoxyphenyl)-N-[2-methyl-4-(piperidin-4-yl)-2,3-d ihydro-1-benzofuran-7-yl]quinazolin-2-amine (Compound 35)
-Preparation of compound 35-e.
-3-Bromopropene (2.5 g, 20.74 mmol) was added to a solution of 2-nitro-5-bromophenol (3.0 g, 13.82 mmol) and sodium hydroxide (830 mg, 20.74 mmol)in water (50 mL). The reaction mixture was stirred at 50 °C for 16 hours. The reaction mixture was cooled to room temperature and the organic phase was dried over anhydrous sodium sulfate. The filtrate was concentrated under reduced pressure and the residue was purified by silica gel column chromatography (petroleum ether: ethyl acetate = 10: 1) to deliver a yellow solid 35-e (1.1 g, yield: 37%).

@@ -1,6 +1,0 @@
-T1	EXAMPLE_LABEL 8 10	63
-T2	REACTION_PRODUCT 11 89	4-(6-Fluoro-1H-indol-3-yl)-N-[(4-hydroxy-1-methyl-4-piperidyl)methyl]benzamide
-T3	STARTING_MATERIAL 141 180	4-(aminomethyl)-1-methyl-piperidin-4-ol
-T4	REACTION_PRODUCT 296 310	title compound
-T5	YIELD_OTHER 312 319	18.5 mg
-T6	YIELD_PERCENT 321 324	44%

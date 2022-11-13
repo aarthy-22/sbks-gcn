@@ -1,3 +1,0 @@
-Intermediate Synthesis 4: Synthesis of Intermediate 4
-Under an argon atmosphere, a mixture of 2.79 g (14.6 mmol) of CuI and 2.5 g (22.0 mmol) of trans-1,2-cyclohexanediamine in 140 ml of dioxane was stirred for one hour at room temperature. After adding 13.6 g (40.6 mmol) of the intermediate 3, 9.9 g (48.5 mmol) of iodobenzene, and 21.7 g (102.3 mmol) of tripotassium phosphate, the mixture was stirred at 90° C. for 2 h under heating.
-After the reaction, the mixture was cooled to room temperature, and the precipitated crystal was collected by filtration. The crystal was purified by silica gel column chromatography to obtain 13.4 g (yield: 80%) of a white solid, which was identified as the following intermediate 4 by FD-MS analysis.

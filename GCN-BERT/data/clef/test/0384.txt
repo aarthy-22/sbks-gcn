@@ -1,2 +1,0 @@
-Synthesis of Compound 30
-To a solution of compound 29 (1.87 g, 7.5 mmol) and Et3N (104 μL, 0.75 mmol) in CH2Cl2 (40 mL), mercapto acetic acid (103.9 μL, 1.5 mmol) in CH2Cl2 (10 mL) was dropwise added at 0° C. Upon complete addition, the solution was allowed to warm to room temperature and left to stir overnight. The solvent was removed in vacuo and the residue was purified by column chromatography to give the compound 30 as a white solid (1.72 g, 36.87%). LC-MS m/z (ES−), 342.11 (M−H)−.

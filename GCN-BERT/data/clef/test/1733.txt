@@ -1,3 +1,0 @@
-Step 3
-(2,2'-Dimethylbiphenyl-3,3'-diyl)dimethanol (4)
-To a stirred solution of LAH (327 mL, 654 mmol, 2.0 M solution in THF) in THF (1 L) at 0° C. was added drop-wise a solution of dimethyl 2,2'-dimethylbiphenyl-3,3'-dicarboxylate 3 (65 g, 218 mmol) in THF (300 mL) at 0° C. The resulting reaction mixture was stirred at 0° C. for 3 h. The reaction mixture was quenched with sat. NH4Cl solution and extracted with ethyl acetate (2×1 L). The combined organic layer was dried over Na2SO4 and concentrated under reduced pressure. The crude compound was purified by silica gel (100-200 mesh) column chromatography eluting with 0-35% ethyl acetate in pet ether as solvent to afford (2,2'-dimethylbiphenyl-3,3'-diyl)dimethanol 4 (40 g, 75%) as an off-white solid.

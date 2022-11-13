@@ -1,3 +1,0 @@
-Example 63
-4-(6-Fluoro-1H-indol-3-yl)-N-[(4-hydroxy-1-methyl-4-piperidyl)methyl]benzamide
-This compound was prepared from Intermediate 3 and 4-(aminomethyl)-1-methyl-piperidin-4-ol according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (18.5 mg, 44%). Data: LCMS (B) Rt : 7.072 min; m/z 382.2 (M+H)+.

@@ -1,2 +1,0 @@
-xx. PREPARATION OF (S)-N-((2R,6S,8AS,14AS,20S,23AS)-2,6-DIMETHYL-5,8,14,19,23-PENTAOXOOCTADECADYDRO-1H,5H,14H,19H-PYRIDO[2,1-I]DIPYRROLO[2,1-C:2',1'-L][1]OXA[4,7,10,13]TETRAAZACYCLOHEXADECIN-20-YL)-2-(3-(3,4-DIMETHYLPHENYL)UREIDO)-3-PHENYLPROPANAMIDE (COMPOUND 206)
-Compound 206 was synthesized from macrocycle C (100 mg, 0.152 mmol), (26.7 mg, 0.181 mmol) and triethylamine (99 μL, 0.726 mmol) following general synthesis pathway as a light brown solid (31 mg, 27%);

@@ -1,3 +1,0 @@
-Synthesis of 1-(4-chlorophenyl)-4-[3-{4-(fluoromethoxy)phenyl}-1,2,4-oxadiazol-5-yl]pyrrolidin-2-one (Compound 53)
-(53-1) Synthesis of 4-(fluoromethoxy)-N-hydroxybenzene-1-carboximidamide (Compound 53-1)
-A mixed solution of 4-fluoromethoxybenzonitrile (1.51 g, 10 mmol), hydroxyamine hydrochloride (0.76 g, 11 mmol) and sodium hydrogen carbonate (1.26 g, 15 mmol) in methanol (20 mL) was stirred under heating reflux for 4 hours. After cooling to room temperature, the solvent was evaporated off under reduced pressure, and water (30 mL) was added to the obtained residue, followed by filtration and washing with water to obtain the title compound (1.48 g, yield 82%).

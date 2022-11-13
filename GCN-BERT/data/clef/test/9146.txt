@@ -1,3 +1,0 @@
-Example 53
-2-Chloro-4-(6-fluoro-1H-indol-3-yl)-N-(2,2,2-trifluoroethyl)benzamide
-This compound was prepared from Intermediate 6 and 2,2,2-trifluoroethanamine according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (16 mg, 50%). Data: LCMS (B) Rt : 13.430 min; m/z 371.0 (M+H)+ (chloride pattern).

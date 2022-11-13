@@ -1,2 +1,0 @@
-Synthesis Example 9: Production of Aromatic Amine Derivative (PH9)
-In the same manner as in Synthesis Example 8 except for using 2.26 g of the intermediate 22 in place of the intermediate 21, 1.32 g (yield: 52%) of a white solid was obtained, which was identified as the following compound (PH9) by FD-MS analysis: m/z=706 (theoretical value: 706 for C51H34N2S).

@@ -1,6 +1,0 @@
-Example 3: Synthesis of racemic 3-aminoquinuclidine.monoterephthalate
-Methanol suspension (21.96 g) containing terephthalic acid (3.95 g:23.8 mmol) was charged into a 50 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and methanol solution (9.06 g) containing racemic 3-aminoquinuclidine (3.05 g: 24.1 mmol) was added thereto while stirring at room temperature. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain racemic 3-aminoquinuclidine.monoterephthalate (6.75 g: 23.1 mmol, yield=96%) as a white crystal.
-Endothermic peak top temperature in DSC: 277° C.
-Elemental analysis: C7H14N2.C8H6O4
-Theoretical value: C, 61.63%, H, 6.90%, N, 9.58%
-Actual measured value: C, 61.6%, H, 6.9%, N, 9.7%

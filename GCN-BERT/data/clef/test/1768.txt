@@ -1,3 +1,0 @@
-Step 2
-Ethyl 5-(benzyloxy)-3-hydroxypentanoate
-Sodium borohydride (864 mg, 24.0 mmol) was added to a solution of ethyl 5-(benzyloxy)-3-oxopentanoate (6.00 g, 24.0 mmol) in methanol (50.0 mL) at 0°C. The reaction solution was stirred at this temperature for 2.5 hours. After completion of the reaction, the reaction was quenched with dilute hydrochloric acid and extracted with ethyl acetate (50 mL x 3). The organic phases were combined, washed with brine (20 mL), dried over anhydrous sodium sulfate, filtered, concentrated under reduced pressure and purified by silica gel column chromatography (10:1 petroleum ether: ethyl acetate, Rf = 0.2) to give ethyl 5-(benzyloxy)-3-hydroxypentanoate (3.40 g, as a yellow oil) with a yield of 56%.

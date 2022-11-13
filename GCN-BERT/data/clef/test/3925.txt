@@ -1,3 +1,0 @@
-Example Compound 79
-2-((3-methoxyphenyl)amino)-2-oxoethyl 2-(2-methyl-1H-indol-3-yl)acetate
-To a stirring solution of 2-(2-(2-methyl-1 H-indol-3-yl)acetoxy)acetic acid (92.7 mg, 0.4 mmol, example 67, step 2) in dry DCM (4 mL) cooled at 0 °C, EDCI (83.1 mg, 0.4 mmol) was added slowly, and then 3-methoxyaniline (41 µL, 0.4 mmol). After 10 minutes, the mixture was allowed to warm to room temperature. After 4 h, the reaction mixture was diluted with EtOAc and washed with a saturated solution of NH4Cl, then NaHCO3 (saturated solution) and finally with brine. The separated organic layer was dried over MgSO4, filtered and concentrated to give the crude product, which was purified by column chromatography (25% EtOAc in hexane) Yield: 84.8 mg (66%).

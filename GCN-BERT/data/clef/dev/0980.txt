@@ -1,5 +1,0 @@
-Example 30
-3,7-Dimethyl-1,2-(2-methylthiazol-4-yl)ethyl)-1H-purine-2,6(3H,7H)-dione
-Step 1
-Methyl 2-(2-methylthiazol-4-yl)acetate
-2-(2-Methylthiazol-4-yl)acetic acid (50.0 mg, 0.270 mmol) was dissolved in methanol (2 mL), thionyl chloride (0.1 mL) was slowly added at 0°C. The reaction solution was slowly allowed to warm to room temperature and stirred for 2.5 hours. The reaction was quenched by addition of water (10mL) and extracted with ethyl acetate (10 mL x 3). The organic phase was dried over anhydrous sodium sulfate, filtered and the filtrate was concentrated under reduced pressure. The resulting product was purified by high performance preparative TLC plate (1:3 petroleum ether / ethyl acetate, Rf = 0.4) to give methyl 2-(2-methylthiazol-4-yl)acetate (40.0 mg, as a yellow oil) with a yield of 87%.

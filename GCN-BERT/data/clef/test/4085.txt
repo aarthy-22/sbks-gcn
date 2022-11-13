@@ -1,4 +1,0 @@
-PREPARATIVE EXAMPLE 1
-Preparation of (S)-2-(1-aminoethyl)-5-chloro-3-phenylquinazoline-4(3H)-one
-Step 1: Preparation of 2-amino-6-chlorobenzoic acid
-The reaction mixture composed of 5 g of 2-amino-6-chlorobenzonitrile (32.77 mmol), 30% potassium hydroxide (50 mL), and 30% hydrogen peroxide aqueous solution (3 mL) was heat-refluxed for 12 hours, which was then cooled down at room temperature. The aqueous layer was separated by using diethyl ether and then acidized with 12 N HCl (pH: 3-4) to separate an organic layer. The organic layer was washed with saturated brine and then separated, dried (Na2SO4), filtered, and concentrated under reduced pressure. As a result, 5.31 g of the target compound 2-amino-6-chlorobenzoic acid was obtained as a yellow solid (30.95 mmol, yield: 94%).

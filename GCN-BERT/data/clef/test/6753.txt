@@ -1,7 +1,0 @@
-Example 17
-1-(2-(3-Ethylisoxazol-5-yl)ethyl)-3,7-dimethyl-1H-purine-2,6(3H,7H)-dione
-1-(2-(5-Ethylisoxazol-3-yl)ethyl)-3,7-dimethyl-1H-purine-2,6 (3H, 7H)-dione
-Step 1
-5-(2-(Benzyloxy)ethyl)-3-ethylisoxazole
-3-(2-(Benzyloxy) ethyl)-5-ethylisoxazole
-1-(Benzyloxy)heptane-3,5-dione (100 mg, 0.427 mmol) and hydroxylamine hydrochloride (299 mg, 4.27 mmol) were dissolved in ethanol (2 mL). The reaction solution was refluxed for 1.5 hours, and then concentrated under reduced pressure to give a mixture of 5-(2-(benzyloxy)ethyl)-3-ethylisoxazole and 3-(2-(benzyloxy)ethyl)-5-ethylisoxazole (81.0 mg, as a yellow oil) with a yield of 82%. MS-ESI calcd. [M + H]+ 232, found 232.

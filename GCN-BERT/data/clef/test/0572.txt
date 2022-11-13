@@ -1,2 +1,0 @@
-Synthesis Example 4: Production of Aromatic Amine Derivative (PH4)
-In the same manner as in Synthesis Example 1 except for using 3.1 g of the intermediate 17 in place of the intermediate 6, 2.8 g (yield: 66%) of a white solid was obtained, which was identified as the following compound (PH4) by FD-MS analysis: m/z=851 (theoretical value: 851 for C58H34N4S2).

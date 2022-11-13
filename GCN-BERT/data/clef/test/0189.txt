@@ -1,6 +1,0 @@
-Example 12: Synthesis of (R)-3-aminoquinuclidine.mono-p-toluenesulfonate
-Isopropanol solution (31.02 g) containing p-toluenesulfonic acid monohydrate (6.02 g: 31.6 mmol) was charged into a 100 mL-flask equipped with a mechanical stirrer, a thermometer, and a cooling line, and isopropanol solution (12.02 g) containing (R)-3-aminoquinuclidine (4.01 g: 31.8 mmol) was added thereto while stirring at room temperature. Precipitated crystals were filtered, and then dried under reduced pressure at 60° C., to obtain (R)-3-aminoquinuclidine.mono-p-toluenesulfonate (9.02 g: 30.2 mmol, yield=95%) as a white crystal.
-Endothermic peak top temperature in DSC: 221° C.
-Elemental analysis: C7H14N2.C7H8O3S
-Theoretical value: C, 56.35%, H, 7.43%, N, 9.39%, S 10.74%
-Actual measured value: C, 56.3%, H, 7.4%, N, 9.5%, S 10.3%

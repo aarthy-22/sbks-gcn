@@ -1,9 +1,0 @@
-T1	EXAMPLE_LABEL 8 12	126A
-T2	REACTION_PRODUCT 13 135	5-Methyl-1-(oxetan-3-ylmethyl)-2,4-dioxo-3-(2,2,2-trifluoroethyl)-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carbaldehyde
-T3	STARTING_MATERIAL 210 227	compound from Ex.
-T4	STARTING_MATERIAL 228 231	51A
-T5	STARTING_MATERIAL 258 280	3-(bromomethyl)oxetane
-T6	YIELD_OTHER 302 308	156 mg
-T7	YIELD_PERCENT 310 313	32%
-T8	REACTION_PRODUCT 332 346	title compound
-T9	TIME 374 378	70 h

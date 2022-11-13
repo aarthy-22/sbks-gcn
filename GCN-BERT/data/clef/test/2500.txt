@@ -1,4 +1,0 @@
-PREPARATIVE EXAMPLE 6
-Preparation of (S)-5-chloro-2-(pyrrolidine-2-yl)-3-(m-tolyl)quinazoline-4(3H)-one
-Step 1: Preparation of (S)-tert-butyl 2-(5-chloro-4-oxo-3-(m-tolyl)-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate
-5.67 g of tert-butyl (S)-2-(5-chloro-4-oxo-3-(m-tolyl)-3,4-dihydroquinazoline-2-yl)pyrrolidine-1-carboxylate was prepared as a yellow solid by using 1.87 g (17.41 mmol) of m-toluidine according to the same manner as described in step 2 of Preparative Example 1 (12.88 mmol, yield: 74%).

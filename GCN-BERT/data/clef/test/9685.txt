@@ -1,3 +1,0 @@
-Intermediate 8: 7-Methoxy-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)indolin-2-one
-Step A: 5-Bromo-7-methoxyindoline-2,3-dione
-To a suspension of 7-methoxyindoline-2,3-dione (1 g, 5.6 mmol) in AcOH (5.6 mL) was added bromine (0.35 mL, 6.7 mmol) at 0° C. The mixture was allowed to stir at ambient temperature for 2 hours and then poured into ice and stirred for 30 minutes. The resulting mixture was filtered and the solids were washed with H2O to afford the title compound as an orange solid (1.3 g, 92%).

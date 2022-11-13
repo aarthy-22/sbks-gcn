@@ -1,2 +1,0 @@
-Example 9 (Reference)
-Synthesis of methyl 2-(bromomethyl)-3-nitrobenzoate (18). To a solution of methyl 2-methyl-3-nitrobenzoate (5 g, 25.6 mmol) in dry DCM (20 mL) were added NBS (4.56 g, 25.6 mmol) and AIBN (0.421 g, 2.56 mmol) and the mixture was stirred at 60°C. After 20 h, additional AIBN (0.42 g) was added and the mixture continued to be stirred at 60 °C. After 72 h, the mixture was filtered and concentrated. Purification by flash chromatography (100% hexanes to 10% EtOAC/hexanes) afforded 18 (5.2 g, 74%) as a light yellow solid. Rf = 0.3 (9:1 hexanes:ethyl acetate).

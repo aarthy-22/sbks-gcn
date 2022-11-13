@@ -1,4 +1,0 @@
-Synthesis Example 17: Synthesis of Compound 363
-Compound 363 was synthesized in the same manner as in Synthesis Example 1, except that 4,4'-dimethoxydiphenylamine was used instead of biphenyl-3-yl(dibenzofuran-4-yl)amine in Synthesis of Intermediate Compound (i), and phenylmagnesium bromide was used instead of methylmagnesium bromide in Synthesis of Intermediate Compound (ii).
-Yield: 0.89 g (0.66 mmol, 43%).
-HR-EIMS (m/z) [M+] calcd for C94H78N4O8 1390.5820; found, 1390.5826.

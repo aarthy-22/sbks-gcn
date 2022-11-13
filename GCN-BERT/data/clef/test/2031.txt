@@ -1,2 +1,0 @@
-Synthesis of Compound 47
-A mixture of compound 46 (510.2 mg, 1.85 mmol), sodium hydroxide (370.6 mg, 9.26 mmol), THF (10 mL) and water (10 mL) was stirred for 4 hours at room temperature. Upon complete reaction, the mixture was concentrated and adjusted PH to 7 with hydrochloric acid (IN). The compound 47 (360.2 mg, 74.1%) was collected by filtration as an off-white solid. LC-MS m/z (ES+), 262.07 (M+H)+.

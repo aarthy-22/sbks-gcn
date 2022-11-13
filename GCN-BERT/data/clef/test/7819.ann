@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	6
-T2	REACTION_PRODUCT 23 97	2-trifluoromethyl-5-((4-oxo-3,4-dihydrophthalazin-1-yl)methyl)benzoic acid
-T3	OTHER_COMPOUND 146 147	f
-T4	OTHER_COMPOUND 181 183	n'
-T5	REACTION_PRODUCT 219 221	o'
-T6	REACTION_PRODUCT 223 297	2-trifluoromethyl-5-((4-oxo-3,4-dihydrophthalazin-1-yl)methyl)benzoic acid
-T7	YIELD_OTHER 299 305	678 mg
-T8	YIELD_PERCENT 313 316	86%

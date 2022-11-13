@@ -1,4 +1,0 @@
-Synthesis Example 16
-[3-(2-Fluoroethoxy)phenyl]-(4-methoxycarbonylphenyl)methyl-diphenylphosphonium bromide (TAP-020)
-A reaction vessel was charged with [3-(2-fluoroethoxy)phenyl]-diphenylphosphine (63.8 mg, 0.197 mmol), 4-(bromomethyl)benzoic acid methyl ester (54.8 mg, 0.239 mmol), and acetonitrile (2 mL). The reaction vessel was heated to 90° C., and the contents were refluxed under heating for 4 hours. After the reaction, the reaction solution was introduced into an open silica gel column chromatography system to elute an unreacted compound with ethyl acetate. Then, with the developing solvent being replaced by methanol:CH2Cl2=20:80, separation was done to yield a product (102 mg (0.184 mmol), 93% yield, white solid).
-LRMS (FAB) calculated for C29H27FO3P+ ([M-Br]): 473.2, found: 473.2 ([M-Br]).

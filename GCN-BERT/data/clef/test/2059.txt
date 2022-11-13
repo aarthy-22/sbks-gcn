@@ -1,3 +1,0 @@
-Step 4
-7-Cyclopropyl-3-methyl-1-(4-(5-methylisoxazol-3-yl)butyl)-1H-purine-2,6(3H,7H)-dione
-7-Cyclopropyl-3-methyl-1H-purine-2,6(3H,7H)-dione (96.0 mg, 0.470 mmol), 3-(4-bromobutyl)-5-methylisoxazole (152 mg, 0.700 mmol) and potassium carbonate (130 mg, 0.940 mmol) were dissolved in N,N-dimethylformamide (5 mL) under nitrogen atmosphere. The reaction was heated to 120°C and reacted for 3 hours, and then cooled to room temperature, diluted with water (20 mL) and extracted with ethyl acetate (30 mL x 2). The organic phase was dried over anhydrous sodium sulfate, filtered, concentrated and purified by HPLC to give 7-cyclopropyl-3-methyl-1-(4-(5-methylisoxazol-3-yl)butyl)-1H-purine-2,6(3H,7H)-dione (100 mg, with a yield of 63%).

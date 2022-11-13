@@ -1,3 +1,0 @@
-Example 79
-N-[2-(diethylamino)-1-methyl-ethyl]-4-(6-fluoro-1H-indol-3-yl)-2-methoxy-benzamide
-This compound was prepared from Intermediate 8 and N1,N1-diethylpropane-1,2-diamine according to the procedure described in Example 1. Purification was performed using preparative HPLC to afford the title compound (22.4 mg, 51%). Data: LCMS (B) Rt: 8.536 min; m/z 398.2 (M+H)+.

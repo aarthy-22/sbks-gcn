@@ -1,8 +1,0 @@
-T1	EXAMPLE_LABEL 5 6	4
-T2	REACTION_PRODUCT 23 108	tert-butyl 4-(3-(3-(N-phenylpentaneamido)prop-1-ynyl(benzoyl)piperazine-1-carboxylate
-T3	REACTION_PRODUCT 111 124	final product
-T4	REACTION_PRODUCT 125 210	tert-butyl 4-(3-(3-(N-phenylpentaneamido)prop-1-ynyl)benzoyl)piperazine-1-carboxylate
-T5	YIELD_OTHER 225 231	323 mg
-T6	YIELD_PERCENT 233 236	70%
-T7	STARTING_MATERIAL 309 329	N-phenylpentaneamide
-T8	STARTING_MATERIAL 390 472	tert-butyl 4-(3-(3-(methylsulfonyloxy)prop-1-ynyl)benzoyl)piperazine-1-carboxylate

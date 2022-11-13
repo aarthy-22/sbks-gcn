@@ -1,3 +1,0 @@
-Example 67
-N-[(2R)-2,3-dihydroxypropoxyl-4-(6-fluoro-1H-indol-3-yl)benzamide
-This compound was prepared from Intermediate 3 and O-[[(4R)-2,2-dimethyl-1,3-dioxolan-4-yl]methyl]hydroxylamine according to the procedure described in Example 1. Purification was performed after dimethylketal-deprotection using preparative HPLC to afford the title compound (8.26 mg, 24%). Data: LCMS (B) Rt: 8.365 min; m/z 345.1 (M+H)+.

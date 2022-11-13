@@ -1,9 +1,0 @@
-T1	EXAMPLE_LABEL 8 11	26A
-T2	REACTION_PRODUCT 12 127	Isopropyl 3-isopropyl-1-(2-methoxyethyl)-5-methyl-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidine-6-carboxylate
-T3	STARTING_MATERIAL 203 220	compound from Ex.
-T4	STARTING_MATERIAL 252 265	2-iodopropane
-T5	YIELD_OTHER 286 292	293 mg
-T6	YIELD_PERCENT 294 297	49%
-T7	REACTION_PRODUCT 316 330	title compound
-T8	TIME 358 362	28 h
-T9	TEMPERATURE 383 388	50° C

@@ -12,9 +12,11 @@ class BuildGraph:
         self.cleanData = cleanData
 
         all_train_size = len(self.cleanData.all_train_data)
+        print('all train size', all_train_size)
         test_size = len(self.cleanData.test_data)
         valid_size = int(all_train_size * valid_data_taux)
         train_size = all_train_size - valid_size
+        print('train, valid, test', train_size, valid_size, test_size)
 
         corpus_size = len(self.cleanData.labels)
         y_str = pd.Series(self.cleanData.labels)

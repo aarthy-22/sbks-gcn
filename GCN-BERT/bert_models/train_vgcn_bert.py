@@ -110,7 +110,7 @@ class VGCN_BERT:
 
         del gcn_vocab_adj_tf, gcn_vocab_adj, gcn_vocab_adj_list
         gc.collect()
-
+        print(self.graph.class_labels)
         train_classes_num, train_classes_weight = get_class_count_and_weight(train_y, len(self.graph.class_labels))
 
         loss_weight = torch.tensor(train_classes_weight).to(device)
@@ -124,13 +124,13 @@ class VGCN_BERT:
                 return DataLoader(dataset=ds,
                                   batch_size=batch_size,
                                   shuffle=False,
-                                  num_workers=4,
+                                  num_workers=2,
                                   collate_fn=ds.pad)
             elif shuffle_choice == 1:  # shuffle==True
                 return DataLoader(dataset=ds,
                                   batch_size=batch_size,
                                   shuffle=True,
-                                  num_workers=4,
+                                  num_workers=2,
                                   collate_fn=ds.pad)
             elif shuffle_choice == 2:  # weighted resampled
                 assert classes_weight is not None
@@ -141,7 +141,7 @@ class VGCN_BERT:
                 return DataLoader(dataset=ds,
                                   batch_size=batch_size,
                                   sampler=sampler,
-                                  num_workers=4,
+                                  num_workers=2,
                                   collate_fn=ds.pad)
 
         train_dataloader = get_pytorch_dataloader(train_examples, tokenizer, batch_size, shuffle_choice=0)
@@ -270,7 +270,7 @@ class VGCN_BERT:
                     if loss_weight is None:
                         loss = F.cross_entropy(logits, label_ids)
                     else:
-                        loss = F.cross_entropy(logits.view(-1, num_classes), label_ids, loss_weight)
+                        loss = F.cross_entropy(logits.view(-1, num_classes), label_ids, loss_weight.float())
 
                 if gradient_accumulation_steps > 1:
                     loss = loss / gradient_accumulation_steps

@@ -6,6 +6,7 @@ from spacy.pipeline import Sentencizer
 from spacy.lang.en import English
 from multiprocessing import Pool
 import random
+from collections import defaultdict
 
 
 def add_file_segments(doc_segments, segment):
@@ -116,6 +117,7 @@ class Segmentation:
         self.write_Entites = write_Entites
         self.nlp_model = English()
         self.nlp_model.max_length = 10000000
+        self.labels_count = defaultdict(int)
         if no_rel_label:
             self.no_rel_label = no_rel_label
         else:
@@ -149,6 +151,9 @@ class Segmentation:
         segments_file = pool.map(self.process_file_parallel, all_args)
         pool.close()
         pool.join()
+
+        for k,v in self.labels_count.items():
+            print(k,v)
 
         for segment in segments_file:
             # Add lists of segments to the segments object for the dataset
@@ -303,30 +308,17 @@ class Segmentation:
                 if self.same_entity_relation and label2 == self.rel_labels[0] and key1 != key2:
                     if self.test:
                         label_rel = self.no_rel_label[0]
-                        if self.dominant_entity == 'F':
-                            segment = self.extract_sentences(ann, key1, key2, label_rel)
-                            if segment is not None:
-                                doc_segments = add_file_segments(doc_segments, segment)
-                        else:
-                            segment = self.extract_sentences(ann, key2, key1, label_rel)
-                            if segment is not None:
-                                doc_segments = add_file_segments(doc_segments, segment)
+                        segment = self.extract_sentences(ann, key1, key2, label_rel)
+                        if segment is not None:
+                            doc_segments = add_file_segments(doc_segments, segment)
                     else:
                         for label_rel, entity1, entity2 in ann.annotations['relations']:
-                            if self.dominant_entity == 'F':
-                                if key2 == entity2 and key1 == entity1:
-                                    # when a match with an existing relation is found
-                                    segment = self.extract_sentences(ann, key1, key2, label_rel, True)
-                                    doc_segments = add_file_segments(doc_segments, segment)
-                                    token = False
-                                    break
-                            else:
-                                if key2 == entity1 and key1 == entity2:
-                                    # when a match with an existing relation is found
-                                    segment = self.extract_sentences(ann, entity1, entity2, label_rel, True)
-                                    doc_segments = add_file_segments(doc_segments, segment)
-                                    token = False
-                                    break
+                            if (key2 == entity2 and key1 == entity1) or (key2 == entity1 and key1 == entity2):
+                                # when a match with an existing relation is found
+                                segment = self.extract_sentences(ann, key1, key2, label_rel, True)
+                                doc_segments = add_file_segments(doc_segments, segment)
+                                token = False
+                                break
                         # No relations for the same entity
                         if token and self.no_rel_label:
                             if self.no_rel_multiple:
@@ -356,6 +348,7 @@ class Segmentation:
                             for label_rel, entity1, entity2 in ann.annotations['relations']:
                                 if (key2 == entity2 and key1 == entity1) or (key2 == entity1 and key1 == entity2):
                                     # when a match with an existing relation is found
+                                    self.labels_count[label_rel] += 1
                                     segment = self.extract_sentences(ann, key1, key2, label_rel, True)
                                     doc_segments = add_file_segments(doc_segments, segment)
                                     token = False

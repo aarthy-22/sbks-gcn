@@ -297,106 +297,90 @@ class Segmentation:
 
         for key1, value1 in ann.annotations['entities'].items():
             label1, start1, end1, mention1 = value1
-            # dominant label
-            if label1 == self.rel_labels[0]:
-                for key2, value2 in ann.annotations['entities'].items():
-                    label2, start2, end2, mention2 = value2
-                    token = True
-                    if self.same_entity_relation and label2 == self.rel_labels[0] and key1 != key2:
-                        if self.test:
-                            label_rel = self.no_rel_label[0]
+            for key2, value2 in ann.annotations['entities'].items():
+                label2, start2, end2, mention2 = value2
+                token = True
+                if self.same_entity_relation and label2 == self.rel_labels[0] and key1 != key2:
+                    if self.test:
+                        label_rel = self.no_rel_label[0]
+                        if self.dominant_entity == 'F':
+                            segment = self.extract_sentences(ann, key1, key2, label_rel)
+                            if segment is not None:
+                                doc_segments = add_file_segments(doc_segments, segment)
+                        else:
+                            segment = self.extract_sentences(ann, key2, key1, label_rel)
+                            if segment is not None:
+                                doc_segments = add_file_segments(doc_segments, segment)
+                    else:
+                        for label_rel, entity1, entity2 in ann.annotations['relations']:
                             if self.dominant_entity == 'F':
-                                segment = self.extract_sentences(ann, key1, key2, label_rel)
-                                if segment is not None:
+                                if key2 == entity2 and key1 == entity1:
+                                    # when a match with an existing relation is found
+                                    segment = self.extract_sentences(ann, key1, key2, label_rel, True)
                                     doc_segments = add_file_segments(doc_segments, segment)
+                                    token = False
+                                    break
                             else:
+                                if key2 == entity1 and key1 == entity2:
+                                    # when a match with an existing relation is found
+                                    segment = self.extract_sentences(ann, entity1, entity2, label_rel, True)
+                                    doc_segments = add_file_segments(doc_segments, segment)
+                                    token = False
+                                    break
+                        # No relations for the same entity
+                        if token and self.no_rel_label:
+                            if self.no_rel_multiple:
+                                label_rel = self.no_rel_label[0]
+                            else:
+                                label_rel = self.no_rel_label[0]
+                            if flip(0.1) == 'True':
                                 segment = self.extract_sentences(ann, key2, key1, label_rel)
                                 if segment is not None:
                                     doc_segments = add_file_segments(doc_segments, segment)
+                            # segment = self.extract_sentences(ann, key2, key1, label_rel)
+                            # if segment is not None:
+                            #     doc_segments = add_file_segments(doc_segments, segment)
+
+                # when the entity pair do not contain entities of the same type
+                for i in range(len(self.rel_labels) - 1):
+                    # match the dominant entity with other entities
+                    if label2 == self.rel_labels[i + 1]:  # label2
+                        # second entity label
+                        if self.test:
+                            label_rel = self.no_rel_label[0]
+                            segment = self.extract_sentences(ann, key1, key2, label_rel)
+                            if segment is not None:
+                                doc_segments = add_file_segments(doc_segments, segment)
                         else:
+                            # for the relations that exist in the ann files
                             for label_rel, entity1, entity2 in ann.annotations['relations']:
-                                if self.dominant_entity == 'F':
-                                    if key2 == entity2 and key1 == entity1:
-                                        # when a match with an existing relation is found
-                                        segment = self.extract_sentences(ann, key1, key2, label_rel, True)
-                                        doc_segments = add_file_segments(doc_segments, segment)
-                                        token = False
-                                        break
-                                else:
-                                    if key2 == entity1 and key1 == entity2:
-                                        # when a match with an existing relation is found
-                                        segment = self.extract_sentences(ann, entity1, entity2, label_rel, True)
-                                        doc_segments = add_file_segments(doc_segments, segment)
-                                        token = False
-                                        break
-                            # No relations for the same entity
+                                if (key2 == entity2 and key1 == entity1) or (key2 == entity1 and key1 == entity2):
+                                    # when a match with an existing relation is found
+                                    segment = self.extract_sentences(ann, key1, key2, label_rel, True)
+                                    doc_segments = add_file_segments(doc_segments, segment)
+                                    token = False
+                                    break
+
+                            # No relations for the different entities
                             if token and self.no_rel_label:
                                 if self.no_rel_multiple:
-                                    label_rel = self.no_rel_label[0]
-                                else:
-                                    label_rel = self.no_rel_label[0]
-                                if flip(0.1) == 'True':
+                                    label_rel = self.no_rel_label[i+1]
+                                    # print(label1, label2,label_rel)
                                     segment = self.extract_sentences(ann, key2, key1, label_rel)
                                     if segment is not None:
                                         doc_segments = add_file_segments(doc_segments, segment)
-                                # segment = self.extract_sentences(ann, key2, key1, label_rel)
-                                # if segment is not None:
-                                #     doc_segments = add_file_segments(doc_segments, segment)
-
-                    # when the entity pair do not contain entities of the same type
-                    for i in range(len(self.rel_labels) - 1):
-                        # match the dominant entity with other entities
-                        if label2 == self.rel_labels[i + 1]:  # label2
-                            # second entity label
-                            if self.test:
-                                label_rel = self.no_rel_label[0]
-                                if self.dominant_entity == 'F':
-                                    segment = self.extract_sentences(ann, key1, key2, label_rel)
-                                    if segment is not None:
-                                        doc_segments = add_file_segments(doc_segments, segment)
                                 else:
-
+                                    label_rel = self.no_rel_label[0]
                                     segment = self.extract_sentences(ann, key2, key1, label_rel)
-                                    if segment is not None:
-                                        doc_segments = add_file_segments(doc_segments, segment)
-                            else:
-                                # for the relations that exist in the ann files
-                                for label_rel, entity1, entity2 in ann.annotations['relations']:
-                                    if self.dominant_entity == 'F':
-                                        if key2 == entity2 and key1 == entity1:
-                                            # when a match with an existing relation is found
-                                            segment = self.extract_sentences(ann, key1, key2, label_rel, True)
-                                            doc_segments = add_file_segments(doc_segments, segment)
-                                            token = False
-                                            break
-                                    else:
-                                        if key2 == entity1 and key1 == entity2:
-                                            # when a match with an existing relation is found
-                                            segment = self.extract_sentences(ann, entity1, entity2, label_rel, True)
-                                            doc_segments = add_file_segments(doc_segments, segment)
-                                            token = False
-                                            break
-
-                                # No relations for the different entities
-                                if token and self.no_rel_label:
-                                    if self.no_rel_multiple:
-                                        label_rel = self.no_rel_label[i+1]
-                                        # print(label1, label2,label_rel)
-                                        segment = self.extract_sentences(ann, key2, key1, label_rel)
-                                        if segment is not None:
-                                            doc_segments = add_file_segments(doc_segments, segment)
-                                    else:
-                                        label_rel = self.no_rel_label[0]
-                                        segment = self.extract_sentences(ann, key2, key1, label_rel)
-                                        if self.down_sample:
-                                            if flip(self.down_sample_ratio) == 'True':
-                                                label_rel = self.no_rel_label[0]
-                                                segment = self.extract_sentences(ann, key2, key1, label_rel)
-                                                if segment is not None:
-                                                    doc_segments = add_file_segments(doc_segments, segment)
-                                        else:
+                                    if self.down_sample:
+                                        if flip(self.down_sample_ratio) == 'True':
+                                            label_rel = self.no_rel_label[0]
+                                            segment = self.extract_sentences(ann, key2, key1, label_rel)
                                             if segment is not None:
                                                 doc_segments = add_file_segments(doc_segments, segment)
+                                    else:
+                                        if segment is not None:
+                                            doc_segments = add_file_segments(doc_segments, segment)
         return doc_segments
 
     def extract_sentences(self, ann, entity1, entity2, label_rel=None, join_sentences=False):

@@ -115,8 +115,8 @@ class Segmentation:
         self.same_entity_relation = same_entity_relation
         # self.generalize = generalize
         self.write_Entites = write_Entites
-        # self.nlp_model = English()
-        # self.nlp_model.max_length = 10000000
+        self.nlp_model = English()
+        self.nlp_model.max_length = 10000000
         if no_rel_label:
             self.no_rel_label = no_rel_label
         else:
@@ -124,18 +124,18 @@ class Segmentation:
 
         self.no_rel_multiple = no_rel_multiple
 
-        '''if sentence_align:
+        if sentence_align:
             punct_chars = ["\n"]
         else:
-            punct_chars = ["\n", ".", "?"]'''
+            punct_chars = ["\n", ".", "?"]
 
         if self.write_Entites and self.predictions_folder is not None:
             ext = ".ann"
             file.delete_all_files(predictions_folder, ext)
 
-        # self.nlp_model.add_pipe("sentencizer", config={"punct_chars": punct_chars})
+        self.nlp_model.add_pipe("sentencizer", config={"punct_chars": punct_chars})
 
-        # self.nlp_model = spacy.load('en_core_web_sm')
+        self.nlp_model = spacy.load('en_core_web_sm')
 
         # global segmentation object that returns all segments and the label
         # self.segments = {'seg_preceding': [], 'seg_concept1': [], 'seg_concept2': [], 'seg_middle': [],
@@ -190,10 +190,10 @@ class Segmentation:
         self.txt_path = dataset[1]
         self.ann_obj = Annotation(self.ann_path)
         print("File", self.file)
-        self.content = open(self.txt_path).read()
+        content = open(self.txt_path).read()
         # content_text = normalization.replace_Punctuation(content)
 
-        #self.doc = self.nlp_model(content)
+        self.doc = self.nlp_model(content)
 
         file_name = str(self.file) + ".ann"
         if self.write_Entites and self.predictions_folder is not None:
@@ -397,9 +397,9 @@ class Segmentation:
         end_C2 = ann.annotations['entities'][entity2][2]
 
         # to get arrange the entities in the order they are located in the sentence
-        '''if start_C1 < start_C2:
-            concept_1 = self.doc.char_span(start_C1, end_C1)
-            concept_2 = self.doc.char_span(start_C2, end_C2)
+        if start_C1 < start_C2:
+            concept_1 = self.doc.char_span(start_C1, end_C1, alignment_type='expand')
+            concept_2 = self.doc.char_span(start_C2, end_C2, alignment_type='expand')
 
         # elif start_C1 == start_C2:
         #     if end_C1 != end_C2:
@@ -411,39 +411,40 @@ class Segmentation:
             #     print(concept_1, start_C1, end_C1)
             #     print(concept_2, start_C2, end_C2)
         else:
-            concept_1 = self.doc.char_span(start_C2, end_C2)
-            concept_2 = self.doc.char_span(start_C1, end_C1)
-        if concept_1 is not None and concept_2 is not None:'''
+            concept_1 = self.doc.char_span(start_C2, end_C2, alignment_type='expand')
+            concept_2 = self.doc.char_span(start_C1, end_C1, alignment_type='expand')
+        if concept_1 is not None and concept_2 is not None:
             # get the sentence the entities are located
-        if start_C1 < start_C2:
-            sentence_C1 = self.content[start_C1, end_C1]
-            sentence_C2 = self.content[start_C2, end_C2]
-        else:
-            sentence_C1 = self.content[start_C2, end_C2]
-            sentence_C2 = self.content[start_C1, end_C1]
-
-        # if both entities are located in the same sentence return the sentence or concatenate the individual
-        # sentences where the entities are located in to one sentence
-        if join_sentences:
-            if sentence_C1 == sentence_C2:
-                sentence = sentence_C1
+            if start_C1 < start_C2:
+                sentence_C1 = self.content[start_C1, end_C1]
+                sentence_C2 = self.content[start_C2, end_C2]
             else:
-                sentence = sentence_C1 + " " + sentence_C2
-        else:
-            # if the entity pair considered do not come from an annotated relation, strictly restrict to one
-            # sentence
-            if sentence_C1 == sentence_C2:
-                sentence = sentence_C1
-                entity_pair = entity1 + '-' + entity2
-                # to make sure the same entity pair is not considered twice
-                if entity_pair not in self.entity_holder:
-                    self.entity_holder.append(entity2 + '-' + entity1)
+                sentence_C1 = self.content[start_C2, end_C2]
+                sentence_C2 = self.content[start_C1, end_C1]
+
+            # if both entities are located in the same sentence return the sentence or concatenate the individual
+            # sentences where the entities are located in to one sentence
+            if join_sentences:
+                if sentence_C1 == sentence_C2:
+                    sentence = sentence_C1
+                else:
+                    sentence = sentence_C1 + " " + sentence_C2
+            else:
+                # if the entity pair considered do not come from an annotated relation, strictly restrict to one
+                # sentence
+                if sentence_C1 == sentence_C2:
+                    sentence = sentence_C1
+                    entity_pair = entity1 + '-' + entity2
+                    # to make sure the same entity pair is not considered twice
+                    if entity_pair not in self.entity_holder:
+                        self.entity_holder.append(entity2 + '-' + entity1)
+                    else:
+                        sentence = None
                 else:
                     sentence = None
-            else:
-                sentence = None
-        #else:
-            #sentence = None
+        else:
+            print(entity1, entity2, 'No sentence with relation found')
+            sentence = None
         if sentence is not None:
             sentence = normalization.remove_Punctuation(str(sentence).strip())
             # concept_1 = normalization.remove_Punctuation(str(concept_1).strip())

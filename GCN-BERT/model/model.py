@@ -120,7 +120,7 @@ class Model:
         self.write_Predictions = write_predictions
         self.generalize = generalize
         self.test = test
-        self.segment = segment
+        # self.segment = segment
         self.data_object = data_object
         self.data_object_test = data_object_test
 
@@ -130,12 +130,12 @@ class Model:
         self.train_label = data_object['label']
         # tracks the entity pair details for each relation
         self.train_track = np.asarray(data_object['track']).reshape((-1, 3)).tolist()
-        train_concept1 = data_object['seg_concept1']
-        train_concept2 = data_object['seg_concept2']
-        train_entities = collect_entities(train_concept1, train_concept2)
+        # train_concept1 = data_object['seg_concept1']
+        # train_concept2 = data_object['seg_concept2']
+        # train_entities = collect_entities(train_concept1, train_concept2)
 
         # to read in segments
-        if self.segment:
+        '''if self.segment:
             train_preceding = data_object['seg_preceding']
             train_middle = data_object['seg_middle']
             train_succeeding = data_object['seg_succeeding']
@@ -146,7 +146,7 @@ class Model:
             train_data = merged
             f = open('merged_middle_train.txt', 'w')
             f.write('\n'.join(train_data))
-            f.close()
+            f.close()'''
 
         # test files only
         if self.test:
@@ -157,12 +157,12 @@ class Model:
             test_list = ['test'] * len(self.y_test)
 
             # tracks the entity pair details for a relation
-            test_concept1 = data_object_test['seg_concept1']
-            test_concept2 = data_object_test['seg_concept2']
-            self.unique_entities = collect_entities(test_concept1, test_concept2, train_entities)
+            # test_concept1 = data_object_test['seg_concept1']
+            # test_concept2 = data_object_test['seg_concept2']
+            # self.unique_entities = collect_entities(test_concept1, test_concept2, train_entities)
 
             # to read in segments
-            if segment:
+            '''if segment:
                 test_preceding = data_object_test['seg_preceding']
                 test_middle = data_object_test['seg_middle']
                 test_succeeding = data_object_test['seg_succeeding']
@@ -173,7 +173,7 @@ class Model:
                 test_data = merged
                 f = open('merged_middle_test.txt', 'w')
                 f.write('\n'.join(test_data))
-                f.close()
+                f.close()'''
         else:
             # when running only with train data
             test_data = None

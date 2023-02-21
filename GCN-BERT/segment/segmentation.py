@@ -16,11 +16,11 @@ def add_file_segments(doc_segments, segment):
     :param segment: local segment object
     :return: doc_segments
     """
-    doc_segments['preceding'].extend(segment['preceding'])
-    doc_segments['concept1'].extend(segment['concept1'])
-    doc_segments['middle'].extend(segment['middle'])
-    doc_segments['concept2'].extend(segment['concept2'])
-    doc_segments['succeeding'].extend(segment['succeeding'])
+    #doc_segments['preceding'].extend(segment['preceding'])
+    #doc_segments['concept1'].extend(segment['concept1'])
+    #doc_segments['middle'].extend(segment['middle'])
+    #doc_segments['concept2'].extend(segment['concept2'])
+    #doc_segments['succeeding'].extend(segment['succeeding'])
     doc_segments['sentence'].extend(segment['sentence'])
     doc_segments['label'].extend(segment['label'])
     doc_segments['track'].extend(segment['track'])
@@ -107,17 +107,16 @@ class Segmentation:
         """
         self.down_sample = down_sample
         self.down_sample_ratio = down_sample_ratio/100
-        self.dominant_entity = dominant_entity
+        # self.dominant_entity = dominant_entity
         self.predictions_folder = predictions_folder
         self.dataset = dataset
         self.rel_labels = rel_labels
         self.test = test
         self.same_entity_relation = same_entity_relation
-        self.generalize = generalize
+        # self.generalize = generalize
         self.write_Entites = write_Entites
-        self.nlp_model = English()
-        self.nlp_model.max_length = 10000000
-        self.labels_count = defaultdict(int)
+        # self.nlp_model = English()
+        # self.nlp_model.max_length = 10000000
         if no_rel_label:
             self.no_rel_label = no_rel_label
         else:
@@ -125,22 +124,23 @@ class Segmentation:
 
         self.no_rel_multiple = no_rel_multiple
 
-        if sentence_align:
+        '''if sentence_align:
             punct_chars = ["\n"]
         else:
-            punct_chars = ["\n", ".", "?"]
+            punct_chars = ["\n", ".", "?"]'''
 
         if self.write_Entites and self.predictions_folder is not None:
             ext = ".ann"
             file.delete_all_files(predictions_folder, ext)
 
-        self.nlp_model.add_pipe("sentencizer", config={"punct_chars": punct_chars})
+        # self.nlp_model.add_pipe("sentencizer", config={"punct_chars": punct_chars})
 
         # self.nlp_model = spacy.load('en_core_web_sm')
 
         # global segmentation object that returns all segments and the label
-        self.segments = {'seg_preceding': [], 'seg_concept1': [], 'seg_concept2': [], 'seg_middle': [],
-                         'seg_succeeding': [], 'sentence': [], 'label': [], 'track': []}
+        # self.segments = {'seg_preceding': [], 'seg_concept1': [], 'seg_concept2': [], 'seg_middle': [],
+        #                 'seg_succeeding': [], 'sentence': [], 'label': [], 'track': []}
+        self.segments = {'sentence': [], 'label': [], 'track': []}
 
         # Pool object which offers a convenient means of parallelizing the execution of a function
         # across multiple input values, distributing the input data across processes
@@ -152,16 +152,13 @@ class Segmentation:
         pool.close()
         pool.join()
 
-        for k,v in self.labels_count.items():
-            print(k,v)
-
         for segment in segments_file:
             # Add lists of segments to the segments object for the dataset
-            self.segments['seg_preceding'].extend(segment['preceding'])
-            self.segments['seg_concept1'].extend(segment['concept1'])
-            self.segments['seg_middle'].extend(segment['middle'])
-            self.segments['seg_concept2'].extend(segment['concept2'])
-            self.segments['seg_succeeding'].extend(segment['succeeding'])
+            #self.segments['seg_preceding'].extend(segment['preceding'])
+            #self.segments['seg_concept1'].extend(segment['concept1'])
+            #self.segments['seg_middle'].extend(segment['middle'])
+            #self.segments['seg_concept2'].extend(segment['concept2'])
+            #self.segments['seg_succeeding'].extend(segment['succeeding'])
             self.segments['sentence'].extend(segment['sentence'])
             self.segments['track'].extend(segment['track'])
             # if not self.test:
@@ -173,11 +170,11 @@ class Segmentation:
 
         # write the segments to a file
         file.list_to_file('sentence_train', self.segments['sentence'])
-        file.list_to_file('preceding_seg', self.segments['seg_preceding'])
-        file.list_to_file('concept1_seg', self.segments['seg_concept1'])
-        file.list_to_file('middle_seg', self.segments['seg_middle'])
-        file.list_to_file('concept2_seg', self.segments['seg_concept2'])
-        file.list_to_file('succeeding_seg', self.segments['seg_succeeding'])
+        #file.list_to_file('preceding_seg', self.segments['seg_preceding'])
+        #file.list_to_file('concept1_seg', self.segments['seg_concept1'])
+        #file.list_to_file('middle_seg', self.segments['seg_middle'])
+        #file.list_to_file('concept2_seg', self.segments['seg_concept2'])
+        #file.list_to_file('succeeding_seg', self.segments['seg_succeeding'])
         file.list_to_file('track', self.segments['track'])
         # if not self.test:
         file.list_to_file('labels_train', self.segments['label'])
@@ -193,10 +190,10 @@ class Segmentation:
         self.txt_path = dataset[1]
         self.ann_obj = Annotation(self.ann_path)
         print("File", self.file)
-        content = open(self.txt_path).read()
+        self.content = open(self.txt_path).read()
         # content_text = normalization.replace_Punctuation(content)
 
-        self.doc = self.nlp_model(content)
+        #self.doc = self.nlp_model(content)
 
         file_name = str(self.file) + ".ann"
         if self.write_Entites and self.predictions_folder is not None:
@@ -294,8 +291,10 @@ class Segmentation:
         :return: segments and label: preceding, concept_1, middle, concept_2, succeeding, label
         """
         # object to store the segments of a relation object for a file
-        doc_segments = {'preceding': [], 'concept1': [], 'concept2': [], 'concept1_label': [], 'concept2_label': [],
-                        'middle': [], 'succeeding': [], 'sentence': [], 'label': [], 'track': []}
+        #doc_segments = {'preceding': [], 'concept1': [], 'concept2': [], 'concept1_label': [], 'concept2_label': [],
+        #                'middle': [], 'succeeding': [], 'sentence': [], 'label': [], 'track': []}
+        doc_segments = {'sentence': [], 'label': [], 'track': []}
+
 
         # list to store the identified relation pair when both entities are same
         self.entity_holder = []
@@ -398,7 +397,7 @@ class Segmentation:
         end_C2 = ann.annotations['entities'][entity2][2]
 
         # to get arrange the entities in the order they are located in the sentence
-        if start_C1 < start_C2:
+        '''if start_C1 < start_C2:
             concept_1 = self.doc.char_span(start_C1, end_C1)
             concept_2 = self.doc.char_span(start_C2, end_C2)
 
@@ -414,46 +413,50 @@ class Segmentation:
         else:
             concept_1 = self.doc.char_span(start_C2, end_C2)
             concept_2 = self.doc.char_span(start_C1, end_C1)
-        if concept_1 is not None and concept_2 is not None:
+        if concept_1 is not None and concept_2 is not None:'''
             # get the sentence the entities are located
-            sentence_C1 = str(concept_1.sent.text)
-            sentence_C2 = str(concept_2.sent.text)
+        if start_C1 < start_C2:
+            sentence_C1 = self.content[start_C1, end_C1]
+            sentence_C2 = self.content[start_C2, end_C2]
+        else:
+            sentence_C1 = self.content[start_C2, end_C2]
+            sentence_C2 = self.content[start_C1, end_C1]
 
-            # if both entities are located in the same sentence return the sentence or concatenate the individual
-            # sentences where the entities are located in to one sentence
-            if join_sentences:
-                if sentence_C1 == sentence_C2:
-                    sentence = sentence_C1
-                else:
-                    sentence = sentence_C1 + " " + sentence_C2
+        # if both entities are located in the same sentence return the sentence or concatenate the individual
+        # sentences where the entities are located in to one sentence
+        if join_sentences:
+            if sentence_C1 == sentence_C2:
+                sentence = sentence_C1
             else:
-                # if the entity pair considered do not come from an annotated relation, strictly restrict to one
-                # sentence
-                if sentence_C1 == sentence_C2:
-                    sentence = sentence_C1
-                    entity_pair = entity1 + '-' + entity2
-                    # to make sure the same entity pair is not considered twice
-                    if entity_pair not in self.entity_holder:
-                        self.entity_holder.append(entity2 + '-' + entity1)
-                    else:
-                        sentence = None
+                sentence = sentence_C1 + " " + sentence_C2
+        else:
+            # if the entity pair considered do not come from an annotated relation, strictly restrict to one
+            # sentence
+            if sentence_C1 == sentence_C2:
+                sentence = sentence_C1
+                entity_pair = entity1 + '-' + entity2
+                # to make sure the same entity pair is not considered twice
+                if entity_pair not in self.entity_holder:
+                    self.entity_holder.append(entity2 + '-' + entity1)
                 else:
                     sentence = None
-        else:
-            sentence = None
+            else:
+                sentence = None
+        #else:
+            #sentence = None
         if sentence is not None:
             sentence = normalization.remove_Punctuation(str(sentence).strip())
-            concept_1 = normalization.remove_Punctuation(str(concept_1).strip())
-            concept_2 = normalization.remove_Punctuation(str(concept_2).strip())
-            preceding, middle, succeeding = extract_Segments(sentence, concept_1, concept_2)
+            # concept_1 = normalization.remove_Punctuation(str(concept_1).strip())
+            # concept_2 = normalization.remove_Punctuation(str(concept_2).strip())
+            # preceding, middle, succeeding = extract_Segments(sentence, concept_1, concept_2)
 
             # remove the next line character in the extracted segment by replacing the '\n' with ' '
-            segment['concept1'].append(concept_1.replace('\n', ' '))
-            segment['concept2'].append(concept_2.replace('\n', ' '))
+            # segment['concept1'].append(concept_1.replace('\n', ' '))
+            # segment['concept2'].append(concept_2.replace('\n', ' '))
             segment['sentence'].append(sentence.replace('\n', ' '))
-            segment['preceding'].append(preceding.replace('\n', ' '))
-            segment['middle'].append(middle.replace('\n', ' '))
-            segment['succeeding'].append(succeeding.replace('\n', ' '))
+            # segment['preceding'].append(preceding.replace('\n', ' '))
+            # segment['middle'].append(middle.replace('\n', ' '))
+            # segment['succeeding'].append(succeeding.replace('\n', ' '))
             segment['label'].append(label_rel)
             # Adding the track information
             # print( int(self.file),int(entity1[1:]),int(entity2[1:]))

@@ -3,6 +3,7 @@
 Read and store entities and relations
 """
 import os, logging
+from collections import defaultdict
 
 
 class InvalidAnnotationError(ValueError):
@@ -20,6 +21,8 @@ class Annotation:
         if not os.path.isfile(ann_file_path):
             raise FileNotFoundError("ann_file_path is not a valid file path")
         self.annotations = {'entities': {}, 'relations': []}
+        self.relation_counts = defaultdict(int)
+        self.num_relations = 0
         valid_IDs = ['T', 'R', 'E', 'A', 'M', 'N']
         with open(ann_file_path, 'r') as file:
             annotation_text = file.read()
@@ -40,13 +43,16 @@ class Annotation:
                 tags = line[1].split(" ")
                 entity_name = tags[0]
                 entity_start = int(tags[1])
+                print(ann_file_path, tags)
                 entity_end = int(tags[-1])
                 self.annotations['entities'][line[0]] = (entity_name, entity_start, entity_end, line[-1])
 
             if 'R' == line[0][0]:  # TODO TEST THIS
+                self.num_relations += 1
                 tags = line[1].split(" ")
                 assert len(tags) == 3, "Incorrectly formatted relation line in ANN file"
                 relation_name = tags[0]
+                self.relation_counts[relation_name] += 1
                 relation_start = tags[1].split(':')[1]
                 relation_end = tags[2].split(':')[1]
                 self.annotations['relations'].append((relation_name, relation_start, relation_end))

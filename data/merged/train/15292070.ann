@@ -1,2 +1,3 @@
 T1	CHEMICAL 850 858	Acarbose
 T2	GENE-Y 897 919	acid alpha-glucosidase
+R0	CPR-4 Arg1:T1 Arg2:T2

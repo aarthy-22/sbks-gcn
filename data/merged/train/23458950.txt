@@ -1,5 +1,0 @@
-Antioxidant and Anti-inflammatory Meroterpenoids from the Brown Alga Cystoseira usneoides.
-A chemical study of the alga Cystoseira usneoides has led to the isolation of six new meroterpenoids, cystodiones A-F (1-6), together with six known related compounds (7-12).
-The structures of the new metabolites have been established by spectroscopic techniques.
-In antioxidant assays all of the tested meroterpenes, and in particular cystodiones A (1) and B (2), 6-cis-amentadione-1'-methyl ether (7), and amentadione-1'-methyl ether (8), exhibited strong radical-scavenging activity.
-In anti-inflammatory assays, usneoidone Z (11) and its corresponding 6E isomer (12) showed significant activity as inhibitors of the production of the proinflammatory cytokine TNF-α in LPS-stimulated THP-1 human macrophages.

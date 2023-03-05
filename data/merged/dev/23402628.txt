@@ -1,7 +1,0 @@
-Oxidation of tertiary amine-derivatized surfaces to control protein adhesion.
-Selective oxidation of ω-tertiary amine self-assembled thiol monolayers to tertiary amine N-oxides is shown to transform the adhesion of model proteins lysozyme and fibrinogen upon them.
-Efficient preparation of both secondary and tertiary linker amides as judged by X-ray photoelectron spectroscopy (XPS) and water droplet contact angle was achieved with an improved amide bond formation on gold quartz crystal microbalance (QCM) sensors using 2-(1H-7-azabenzotriazol-1-yl)-1,1,3,3-tetramethyl hexafluorophosphate methanaminium uronium (HATU).
-Oxidation with hydrogen peroxide was similarly assessed, and adhesion of lysozyme and fibrinogen from phosphate buffered saline was then assayed by QCM and imaged by AFM.
-Tertiary amine-functionalized sensors adsorbed multilayers of aggregated lysozyme, whereas tertiary amine N-oxides and triethylene glycol-terminated monolayers are consistent with small protein aggregates.
-The surface containing a dimethylamine N-oxide headgroup and ethyl secondary amide linker showed the largest difference in adsorption of both proteins.
-Oxidation of tertiary amine decorated surfaces therefore holds the potential for selective deposition of proteins and cells through masking and other patterning techniques.

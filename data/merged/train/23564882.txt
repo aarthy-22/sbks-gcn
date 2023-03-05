@@ -1,9 +1,0 @@
-Expression of a novel mRNA transcript for human microsomal epoxide hydrolase (EPHX1) is regulated by short open reading frames within its 5'-untranslated region.
-Microsomal epoxide hydrolase (mEH, EPHX1) is a critical xenobiotic-metabolizing enzyme, catalyzing both detoxification and bioactivation reactions that direct the disposition of chemical epoxides, including the carcinogenic metabolites of several polycyclic aromatic hydrocarbons.
-Recently, we discovered that a previously unrecognized and primate-specific EPHX1 transcript, termed E1-b, was actually the predominant driver of EPHX1 expression in all human tissues.
-In this study, we identify another human EPHX1 transcript, designated as E1-b'.
-Unusually, both the E1-b and E1-b' mRNA transcripts are generated from the use of a far upstream gene promoter, localized ∼18.5 kb 5'-upstream of the EPHX1 protein-coding region.
-Although expressed at comparatively lower levels than E1-b, the novel E1-b' transcript is readily detected in all tissues examined, with highest levels maintained in human ovary.
-The E1-b' mRNA possesses unusual functional features in its 5'-untranslated region, including a GC-rich leader sequence and two upstream AUGs that encode for short peptides of 26 and 17 amino acids in length, respectively.
-Results from in vitro transcription/translation assays and direct transfection in mammalian cells of either the E1-b' transcript or the encoded peptides demonstrated that the E1-b' upstream open reading frames (uORFs) are functional, with their presence markedly inhibiting the translation of EPHX1 protein, both in cis and in trans configurations.
-These unique uORF peptides exhibit no homology to any other known uORF sequences but likely function to mediate post-transcription regulation of EPHX1 and perhaps more broadly as translational regulators in human cells.

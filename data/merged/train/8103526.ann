@@ -11,3 +11,4 @@ T7	CHEMICAL 653 669	R- and S-timolol
 T8	CHEMICAL 691 704	isoproterenol
 T9	CHEMICAL 810 823	isoproterenol
 R0	CPR-2 Arg1:T1 Arg2:T11
+R1	NOT Arg1:T12 Arg2:T2

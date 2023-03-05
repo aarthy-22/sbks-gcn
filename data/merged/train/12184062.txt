@@ -1,9 +1,0 @@
-The clinical profile of the angiotensin II receptor blocker eprosartan.
-Angiotensin II receptor antagonists block angiotensin II type 1 (AT1) receptors and reduce the pressor effects of angiotensin in the vasculature.
-By this mechanism, they induce similar pharmacological effects to angiotensin-converting enzyme (ACE) inhibitors, resulting in a lowering of blood pressure (BP).
-However, AT1 antagonists differ from ACE inhibitors with respect to side effects, and induce less cough, which is related to bradykinin activation.
-Within the class of angiotensin II antagonists, eprosartan differs from other currently clinically available agents in terms of its chemical structure and its dual pharmacological mode of action.
-Eprosartan acts not only at vascular AT1 receptors but also at presynaptic AT1 receptors, causing inhibition of sympathetically stimulated noradrenaline release.
-Eprosartan is not metabolized by cytochrome P450 enzymes and therefore has a low potential for metabolic drug interactions, which may be of importance when treating the elderly and patients on multiple drugs.
-In clinical trials eprosartan has proven to be at least as effective as the ACE inhibitor enalapril in reducing BP, but with a significantly lower incidence of side effects.
-Eprosartan is safe, effective and well tolerated in long-term treatment, either as monotherapy or in combination with other antihypertensive drugs such as hydrochlorothiazide.

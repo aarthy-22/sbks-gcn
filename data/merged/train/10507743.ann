@@ -13,3 +13,9 @@ T7	CHEMICAL 578 588	raloxifene
 T14	GENE-N 621 644	low-density lipoprotein
 T8	CHEMICAL 645 656	cholesterol
 T9	CHEMICAL 709 719	Raloxifene
+R0	CPR-4 Arg1:T7 Arg2:T14
+R1	NOT Arg1:T11 Arg2:T15
+R2	NOT Arg1:T1 Arg2:T13
+R3	NOT Arg1:T13 Arg2:T10
+R4	NOT Arg1:T13 Arg2:T2
+R5	NOT Arg1:T14 Arg2:T8

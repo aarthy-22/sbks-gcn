@@ -1,5 +1,0 @@
-Stimulation of N-methyl-D-aspartate receptors modulates Jurkat T cell growth and adhesion to fibronectin.
-The aims of this study were to investigate the expression and the functional roles of N-methyl-d-aspartate (NMDA) receptors in leukemic Jurkat T cells.
-RT-PCR and immunofluorescence/confocal microscopy analysis showed that Jurkat T cells express the NR1 and NR2B subunits of the NMDA receptors.
-Exposure of Jurkat cells to either (5S,10R)-(+)-5-methyl-10,11-dihydro-5H-dibenzo[a,b]cyclohepten-5,10-imine [(+)-MK 801] or D-(-)-2-amino-5-phosphonopentanoic acid (D-AP5), two selective NMDA receptor antagonists, limited cell growth by inhibiting cell cycle progression and inducing apoptosis, whereas l-glutamate (1 microM) and NMDA (10 microM) significantly increased (137.2+/-22.0%; P<0.01) Jurkat T cell adhesion to fibronectin.
-In conclusion, our results demonstrate that Jurkat T cells express NMDA receptors functionally active in controlling cell growth and adhesion to fibronectin.

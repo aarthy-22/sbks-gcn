@@ -1,7 +1,0 @@
-Blockade of beta 1- and desensitization of beta 2-adrenoceptors reduce isoprenaline-induced cardiac fibrosis.
-The aim of the present study was to analyse the role of beta(1)- and beta(2)-adrenoceptors in the catecholamine-induced myocardial remodeling, especially the interstitial fibrosis.
-Wistar rats were subjected to a 2-week chronic isoprenaline administration (30 microg/kg/h).
-Rats received a concomitant treatment with the selective beta(1)-adrenoceptor antagonist, bisoprolol (50 mg/kg/day p.o.) or were chronically pretreated with the selective beta(2)-adrenoceptor agonist salbutamol (40 microg/kg/h) for 1 week to induce beta(2)-adrenoceptor desensitization.
-The pretreatment with salbutamol induced a 59% down-regulation of left ventricular beta(2)-adrenoceptors compared to control.
-The extent of the isoprenaline-induced left ventricular fibrosis was significantly reduced in both the bisoprolol and salbutamol groups compared with the control isoprenaline-treated group especially in the apical region (1.7+/-0.6% and 1.4+/-0.3% versus 6.0+/-1.3%, respectively, P<0.005).
-beta(1)-adrenoceptor blockade and beta(2)-adrenoceptors down-regulation provided similar protection against isoprenaline-induced cardiac interstitial fibrosis suggesting that both beta-adrenoceptors are involved in such cardiac remodeling process.

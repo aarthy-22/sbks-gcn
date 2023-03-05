@@ -1,8 +1,0 @@
-BDNF-induced local protein synthesis and synaptic plasticity.
-Brain-derived neurotrophic factor (BDNF) is an important regulator of synaptic transmission and long-term potentiation (LTP) in the hippocampus and in other brain regions, playing a role in the formation of certain forms of memory.
-The effects of BDNF in LTP are mediated by TrkB (tropomyosin-related kinase B) receptors, which are known to be coupled to the activation of the Ras/ERK, phosphatidylinositol 3-kinase/Akt and phospholipase C-γ (PLC-γ) pathways.
-The role of BDNF in LTP is best studied in the hippocampus, where the neurotrophin is thought to act at pre- and post-synaptic levels.
-Recent studies have shown that BDNF regulates the transport of mRNAs along dendrites and their translation at the synapse, by modulating the initiation and elongation phases of protein synthesis, and by acting on specific miRNAs.
-Furthermore, the effect of BDNF on transcription regulation may further contribute to long-term changes in the synaptic proteome.
-In this review we discuss the recent progress in understanding the mechanisms contributing to the short- and long-term regulation of the synaptic proteome by BDNF, and the role in synaptic plasticity, which is likely to influence learning and memory formation.
-This article is part of a Special Issue entitled 'BDNF'.

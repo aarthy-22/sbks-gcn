@@ -1,6 +1,0 @@
-Effects of arsenite in astrocytes on neuronal signaling transduction.
-The main purpose of this study was to test the hypothesis that arsenite induces neurotoxicity via effects on astrocytes.
-Astrocytes were exposed to 0, 5 or 10 μM arsenite in medium for 24 h, and then astrocyte-conditioned medium (ACM) was collected after incubation with fresh medium for 6 h. Primary neuron cultures were divided into four groups due to ACM, which were neurons without ACM exposure (group I) and neurons exposed to ACM from 0, 5 or 10 μM arsenite treated astrocytes (group II-IV).
-Protein expression of N-methyl-d-aspartate receptors (NR1, NR2A, NR2B), calmodulin-dependent protein kinase II (CaMKII) and adenylate cyclase (AC) in neurons were measured after incubation with ACM for 4, 8 or 12 h. Morphological changes and synaptic formation were observed after a 72 h-incubation with ACM.
-Compared to group II, synaptic formation and protein expression of NR2A, NR2B, CaMKII and AC in group III and IV were significantly suppressed.
-Moreover, synaptic formation and protein expression of CaMKII and AC in group II were significantly enhanced when compared with group I. Taken together, findings from this study suggested that arsenic in astrocytes might impair synaptic formation through disturbing astrocytic effects on neuronal signal transduction.

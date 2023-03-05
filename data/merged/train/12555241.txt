@@ -1,9 +1,0 @@
-An investigation of the 5-HT2C receptor gene as a migraine candidate gene.
-Migraine is a common complex disorder, currently classified into two main subtypes, migraine with aura (MA) and migraine without aura (MO).
-The strong preponderance of females to males suggests an X-linked genetic component.
-Recent studies have identified an X chromosomal susceptibility region (Xq24-q28) in two typical migraine pedigrees.
-This region harbours a potential candidate gene for the disorder, the serotonin receptor 2C (5-HT(2C)) gene.
-This study involved a linkage and association approach to investigate two single nucleotide variants in the 5-HT(2C) gene.
-In addition, exonic coding regions of the 5-HT(2C) gene were also sequenced for mutations in X-linked migraine pedigrees.
-Results of this study did not detect any linkage or association, and no disease causing mutations were identified.
-Hence, results for this study do not support a significant role of the 5-HT(2C) gene in migraine predisposition.

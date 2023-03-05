@@ -1,5 +1,0 @@
-Adhesion of osteoblasts to a vertically aligned TiO2 nanotube surface.
-The adhesion of cells to vertically aligned TiO2 nanotubes is reviewed.
-The attraction between a negatively charged nanotube surface and a negatively charged osteoblast is facilitated by charged protein-mediators like proteins with a quadrupolar internal charge distribution, fibronectin and vitronectin.
-It is shown that adhesion and spreading of osteoblasts on vertically aligned TiO2 nanotube surfaces depend on the diameter of the nanotubes.
-Apparently, a small diameter nanotube surface has on average more sharp convex edges per unit area than a large one, leading to stronger binding affinity on its surface.

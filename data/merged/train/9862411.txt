@@ -1,5 +1,0 @@
-Clomipramine enhances the cortisol response to 5-HTP: implications for the therapeutic role of 5-HT2 receptors.
-We measured the cortisol response to the 5-HT precursor, 5-hydroxytryptophan, (5-HTP) in seven patients with major depression before and after 8 weeks treatment with the tricyclic antidepressant, clomipramine.
-The cortisol response to 5-HTP was significantly increased following clomipramine treatment, suggesting that clomipramine, like selective serotonin re-uptake inhibitors (SSRIs), enhances this 5-HT2 receptor mediated response.
-Because other tricyclic antidepressants do not increase 5-HTP-mediated cortisol release, it seems unlikely that enhancement of 5-HT2 receptor function is a critical mechanism for antidepressant action.
-However, facilitation of neurotransmission at 5-HT2 receptors could account for the efficacy of clomipramine and SSRIs in the treatment of obsessive compulsive disorder and also for their liability to cause orgasmic dysfunction.

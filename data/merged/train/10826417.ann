@@ -7,3 +7,4 @@ T5	CHEMICAL 778 789	neostigmine
 T6	CHEMICAL 1075 1086	neostigmine
 T1	CHEMICAL 1465 1476	neostigmine
 R0	CPR-2 Arg1:T2 Arg2:T8
+R1	CPR-2 Arg1:T3 Arg2:T8

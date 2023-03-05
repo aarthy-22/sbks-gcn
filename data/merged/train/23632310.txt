@@ -1,9 +1,0 @@
-Immunoregulatory effects of Glycyrrhizic acid exerts anti-asthmatic effects via modulation of Th1/Th2 cytokines and enhancement of CD4(+)CD25(+)Foxp3(+) regulatory T cells in ovalbumin-sensitized mice.
-ETHNOPHARMACOLOGICAL RELEVANCE: Glycyrrhizic acid (GA) is the main bioactive ingredient of licorice (Glycyrrhiza glabra), and has been found to be associated with multiple therapeutic properties.
-AIM OF THE STUDY: In this study, we investigated immunoregulatory effects of glycyrrhizic acid on anti-asthmatic effects and underlying mechanisms.
-MATERIALS AND METHODS: Asthma model was established by ovalbumin-induced.
-A total of 60 mice were randomly assigned to six experimental groups: control, model, dexamethasone (2mg/kg) and GA (10mg/kg, 20mg/kg, 40mg/kg).
-Airway resistance (Raw) were measured by the forced oscillation technique, histological studies were evaluated by The hematoxylin and eosin (HE) staining, Th1/Th2 and Th17 cytokines were evaluated by enzyme-linked immunosorbent assay (ELISA), and CD4(+)CD25(+)Foxp3(+) regulatory T cells (Tregs) was evaluated by Flow Cytometry (FCM), the forkhead/winged helix transcription factor (Foxp3) was evaluated by western blotting.
-RESULTS: Our study demonstrated that, compared with model group, GA inhibited OVA-induced increases in Raw and eosinophil count; interleukin (IL)-4, IL-5, IL-13 levels were recovered in bronchoalveolar lavage fluid compared; increased IFN-γlevel in bronchoalveolar lavage fluid; histological studies demonstrated that GA substantially inhibited OVA-induced eosinophilia in lung tissue and airway tissue compared with model group.
-Flow cytometry studies demonstrated that GA substantially enhanced Tregs compared with model group.
-CONCLUSION: These findings suggest that GA may effectively ameliorate the progression of asthma and could be used as a therapy for patients with allergic asthma.

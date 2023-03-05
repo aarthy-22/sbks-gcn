@@ -1,8 +1,0 @@
-Mechanisms of inhibition of calmodulin-stimulated cyclic nucleotide phosphodiesterase by dihydropyridine calcium antagonists.
-Calmodulin-dependent cyclic nucleotide phosphodiesterase (CaMPDE) is one of the key enzymes involved in the complex interaction between the cyclic nucleotide and Ca2+ second-messenger systems.
-CaMPDE exists as tissue-specific isozymes, and initially these isozymes were designated according to their respective subunit molecular mass.
-A variety of pharmacological agents have been used to inhibit CaMPDE, and this inhibition occurs mostly via Ca2+-dependent association with the proteins.
-We have examined the effect of dihydropyridine Ca2+-channel blockers felodipine and nicardipine on CaMPDE.
-The results suggest that the 63-kDa (PDE 1B1) and 60-kDa (PDE 1A2) CaMPDE isozymes are inhibited by felodipine and nicardipine by partial competitive inhibition and that these two Ca2+ antagonists appear to counteract each other.
-This study further demonstrates the existence of a specific site, distinct from the active site on CaMPDE, that exhibits high-affinity binding of these drugs.
-Felodipine and nicardipine have similar affinities for 60-kDa CaMPDE isozymes but bring about different levels of enzyme inhibition, suggesting the possibility of designing specific drugs that can protect the enzyme from inhibition by dihydropyridine Ca2+-channel blockers.

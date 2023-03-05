@@ -1,8 +1,0 @@
-Thermosensitive polymeric hydrogels as drug delivery systems.
-Thermosensitive hydrogels are very important biomaterials used in drug delivery systems (DDSs), which gained increasing attention of researchers.
-Thermosensitive hydrogels have great potential in various applications, such as drug delivery, cell encapsulation, tissue engineering, and etc.
-Especially, injectable thermosensitive hydrogels with lower sol-gel transition temperature around physiological temperature have been extensively studied.
-By in vivo injection, the hydrogels formed non-flowing gel at body temperature.
-Upon incorporation of pharmaceutical agents, the hydrogel systems could act as sustained drug release depot in situ.
-Injectable thermosensitive hydrogel systems have a number of advantages, including simplicity of drug formulation, protective environment for drugs, prolonged and localized drug delivery, and ease of application.
-The objective of this review is to summarize fundamentals, applications, and recent advances of injectable thermosensitive hydrogel as DDSs, including chitosan and related derivatives, poly(N-isopropylacrylamide)-based (PNIPAAM) copolymers, poly(ethylene oxide)/poly(propylene oxide) (PEO/PPO) copolymers and its derivatives, and poly(ethylene glycol)/ biodegradable polyester copolymers.

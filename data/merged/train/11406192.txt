@@ -1,9 +1,0 @@
-Binding of an AMPA receptor potentiator ([3H]LY395153) to native and recombinant AMPA receptors.
-LY395153 is a member of a newly described class of arylpropylsulfonamide AMPA receptor potentiators.
-Here, we characterize and compare [(3)H]LY395153 binding to native AMPA receptors from rat cerebral cortex and recombinant human GluR4(flip) receptors expressed in HEK293 cells.
-L-Glutamate and AMPA increased [(3)H]LY395153 binding to both native and recombinant AMPA receptors in a concentration dependent and stereoselective manner; this effect of AMPA receptor agonists reflects an apparent increase in ligand affinity.
-In the presence of L-glutamate (500 microM), [(3)H]LY395153 binding is saturable; the affinity of this radioligand is slightly, albeit statistically significantly higher at human GluR4(flip) (K(d)=55.6+/-5.3nM) than rat cortical receptors (K(d)=110+/-15.1nM).
-NBQX competitively inhibited L-glutamate-induced increases in [(3)H]LY395153 binding in both native and recombinant receptors, whilst LY303070 (the active isomer of GYKI53655) noncompetitively inhibited this effect in native, but not recombinant receptors.
-The prototypic AMPA receptor potentiator cyclothiazide competitively inhibited [(3)H]LY395153 binding with a potency (K(i) approximately 7 microM) comparable to EC(50) values reported in electrophysiological studies.
-In contrast, the structurally unrelated AMPA receptor potentiator CX 516 did not inhibit [(3)H]LY395153 binding at concentrations of up to 600 microM. Further, at concentrations reported to facilitate AMPA receptor desensitization, thiocyanate acts as a competitive inhibitor of [(3)H]LY395153 binding.
-[(3)H]LY395153 binding was unaffected by a variety of structurally (and mechanistically) diverse compounds tested at a concentration of 10 microM. These data indicate [(3)H]LY395153 is a useful probe for labeling a unique modulatory site on both native and recombinant AMPA receptors.

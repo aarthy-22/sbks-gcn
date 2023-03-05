@@ -1,9 +1,0 @@
-A single residue in leucyl-tRNA synthetase affecting amino acid specificity and tRNA aminoacylation.
-Human mitochondrial leucyl-tRNA synthetase (hs mt LeuRS) achieves high aminoacylation fidelity without a functional editing active site, representing a rare example of a class I aminoacyl-tRNA synthetase (aaRS) that does not proofread its products.
-Previous studies demonstrated that the enzyme achieves high selectivity by using a more specific synthetic active site that is not prone to errors under physiological conditions.
-Interestingly, the synthetic active site of hs mt LeuRS displays a high degree of homology with prokaryotic, lower eukaryotic, and other mitochondrial LeuRSs that are less specific.
-However, there is one residue that differs between hs mt and Escherichia coli LeuRSs located on a flexible closing loop near the signature KMSKS motif.
-Here we describe studies indicating that this particular residue (K600 in hs mt LeuRS and L570 in E. coli LeuRS) strongly impacts aminoacylation in two ways: it affects both amino acid discrimination and transfer RNA (tRNA) binding.
-While this residue may not be in direct contact with the amino acid or tRNA substrate, substitutions of this position in both enzymes lead to altered catalytic efficiency and perturbations to the discrimination of leucine and isoleucine.
-In addition, tRNA recognition and aminoacylation is affected.
-These findings indicate that the conformation of the synthetic active site, modulated by this residue, may be coupled to specificity and provide new insights into the origins of selectivity without editing.

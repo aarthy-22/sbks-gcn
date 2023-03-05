@@ -1,8 +1,0 @@
-Validation of an in vitro exposure system for toxicity assessment of air-delivered nanomaterials.
-To overcome the limitations of in vitro exposure of submerged lung cells to nanoparticles (NPs), we validated an integrated low flow system capable of generating and depositing airborne NPs directly onto cells at an air-liquid interface (ALI).
-The in vitro exposure system was shown to provide uniform and controlled dosing of particles with 70.3% efficiency to epithelial cells grown on transwells.
-This system delivered a continuous airborne exposure of NPs to lung cells without loss of cell viability in repeated 4h exposure periods.
-We sequentially exposed cells to air-delivered copper (Cu) NPs in vitro to compare toxicity results to our prior in vivo inhalation studies.
-The evaluation of cellular dosimetry indicated that a large amount of Cu was taken up, dissolved and released into the basolateral medium (62% of total mass).
-Exposure to Cu NPs decreased cell viability to 73% (p<0.01) and significantly (p<0.05) elevated levels of lactate dehydrogenase, intracellular reactive oxygen species and interleukin-8 that mirrored our findings from subacute in vivo inhalation studies in mice.
-Our results show that this exposure system is useful for screening of NP toxicity in a manner that represents cellular responses of the pulmonary epithelium in vivo.

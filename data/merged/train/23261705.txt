@@ -1,8 +1,0 @@
-Stimulatory effect of insulin on theca-interstitial cell proliferation and cell cycle regulatory proteins through MTORC1 dependent pathway.
-The present study examined the effect of insulin-mediated activation of the mammalian target of rapamycin complex 1 (MTORC1) signaling network on the proliferation of primary culture of theca-interstitial (T-I) cells.
-Our results show that insulin treatment increased proliferation of the T-I cells through the MTORC1-dependent signaling pathway by increasing cell cycle regulatory proteins.
-Inhibition of ERK1/2 signaling caused partial reduction of insulin-induced phosphorylation of RPS6KB1 and RPS6 whereas inhibition of PI3-kinase signaling completely blocked the insulin response.
-Pharmacological inhibition of MTORC1 with rapamycin abrogated the insulin-induced phosphorylation of EIF4EBP1, RPS6KB1 and its downstream effector, RPS6.
-These results were further confirmed by demonstrating that knockdown of Mtor using siRNA reduced the insulin-stimulated MTORC1 signaling.
-Furthermore, insulin-stimulated T-I cell proliferation and the expression of cell cycle regulatory proteins CDK4, CCND3 and PCNA were also blocked by rapamycin.
-Taken together, the present studies show that insulin stimulates cell proliferation and cell cycle regulatory proteins in T-I cells via activation of the MTORC1 signaling pathway.

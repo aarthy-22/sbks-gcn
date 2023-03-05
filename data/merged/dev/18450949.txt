@@ -1,8 +1,0 @@
-Degradation of submandibular gland AQP5 by parasympathetic denervation of chorda tympani and its recovery by cevimeline, an M3 muscarinic receptor agonist.
-By chorda tympani denervation (CTD, parasympathectomy), the aquaporin 5 (AQP5), but not AQP1, protein level in the rat submandibular gland (SMG) was significantly decreased, dropping to 37% of that of the contralateral gland at 4 wk.
-The protein levels of AQP5 and AQP1 were not significantly affected by denervation of the cervical sympathetic trunk (sympathectomy).
-Administration of cevimeline hydrochloride, an M3 muscarinic receptor agonist (10 mg/kg for 7 days po), but not pilocarpine (0.3 mg/kg for 7 days po), recovered the AQP5 protein level reduced by CTD and increased the AQP1 protein level above the control one.
-The mRNA level of AQP5 was scarcely affected by CTD and cevimeline hydrochloride administration.
-Administration of chloroquine (50 mg/kg for 7 days po), a denaturant of lysosomes, increased the AQP5 protein level reduced by CTD.
-An extract obtained from the submandibular lysosomal fraction degraded the AQP5 protein in the total membrane fraction in vitro.
-These results suggest the possible regulation of the AQP5 protein level in the SMG by the parasympathetic nerves/M3 muscarinic receptor agonist and imply the involvement of lysosomal enzymes, but not a transcriptional mechanism, in this regulation.

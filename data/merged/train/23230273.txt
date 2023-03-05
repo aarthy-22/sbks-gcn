@@ -1,9 +1,0 @@
-The yeast cap binding complex modulates transcription factor recruitment and establishes proper histone H3K36 trimethylation during active transcription.
-Recent studies have revealed a close relationship between transcription, histone modification, and RNA processing.
-In fact, genome-wide analyses that correlate histone marks with RNA processing signals raise the possibility that specific RNA processing factors may modulate transcription and help to "write" chromatin marks.
-Here we show that the nuclear cap binding complex (CBC) directs recruitment of transcription elongation factors and establishes proper histone marks during active transcription.
-A directed genetic screen revealed that deletion of either subunit of the CBC confers a synthetic growth defect when combined with deletion of genes encoding either Ctk2 or Bur2, a component of the Saccharomyces cerevisiae ortholog of P-TEFb.
-The CBC physically associates with these complexes to recruit them during transcription and mediates phosphorylation at Ser-2 of the C-terminal domain (CTD) of RNA polymerase II.
-To understand how these interactions influence downstream events, histone H3K36me3 was examined, and we demonstrate that CBCΔ affects proper Set2-dependent H3K36me3.
-Consistent with this, the CBC and Set2 have similar effects on the ability to rapidly induce and sustain activated gene expression, and these effects are distinct from other histone methyltransferases.
-This work provides evidence for an emerging model that RNA processing factors can modulate the recruitment of transcription factors and influence histone modification during elongation.

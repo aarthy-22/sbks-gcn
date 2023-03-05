@@ -6,4 +6,6 @@ T3	CHEMICAL 426 435	peramivir
 T5	GENE-Y 495 520	human cytosolic sialidase
 T6	GENE-Y 521 525	Neu2
 T7	GENE-N 531 556	influenza virus sialidase
-R0	CPR-4 Arg1:T2 Arg2:T4
+R0	CPR-4 Arg1:T1 Arg2:T4
+R1	CPR-4 Arg1:T2 Arg2:T4
+R2	CPR-4 Arg1:T3 Arg2:T4

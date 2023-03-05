@@ -1,6 +1,0 @@
-pH-responsive composite microspheres based on magnetic mesoporous silica nanoparticle for drug delivery.
-pH-responsive composite microspheres, consisting of a core of Fe3O4 nanoparticle, a sandwiched layer of mesoporous silica and a shell of crosslinked poly (methacrylic acid) (PMAA), were successfully synthesized via distillation precipitation polymerization.
-The pKa of the composite microsphere increased with the increase in the crosslinking density.
-Doxorubicin hydrochloride (DOX) was applied as a model drug, and the behavior of drug storage/release was investigated.
-The cumulative release of DOX-loaded composite microsphere in vitro showed that the drug release rate was much faster below its pKa than that of above its pKa.
-Because pH of most tumor tissues was lower than that of normal tissues, the pH-responsive composite microspheres are promising drug delivery system especially for cancer therapy.

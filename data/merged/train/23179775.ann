@@ -6,3 +6,4 @@ T6	CHEMICAL 929 943	hydrocortisone
 T7	CHEMICAL 947 964	cortisone acetate
 T1	CHEMICAL 1058 1066	cortisol
 T2	CHEMICAL 1104 1118	hydrocortisone
+R0	CPR-9 Arg1:T3 Arg2:T8

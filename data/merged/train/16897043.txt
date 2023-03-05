@@ -1,8 +1,0 @@
-ABCC8 and ABCC9: ABC transporters that regulate K+ channels.
-The sulfonylurea receptors (SURs) ABCC8/SUR1 and ABCC9/SUR2 are members of the C-branch of the transport adenosine triphosphatase superfamily.
-Unlike their brethren, the SURs have no identified transport function; instead, evolution has matched these molecules with K(+) selective pores, either K(IR)6.1/KCNJ8 or K(IR)6.2/KCNJ11, to assemble adenosine triphosphate (ATP)-sensitive K(+) channels found in endocrine cells, neurons, and both smooth and striated muscle.
-Adenine nucleotides, the major regulators of ATP-sensitive K(+) (K(ATP)) channel activity, exert a dual action.
-Nucleotide binding to the pore reduces the activity or channel open probability, whereas Mg-nucleotide binding and/or hydrolysis in the nucleotide-binding domains of SUR antagonize this inhibitory action to stimulate channel openings.
-Mutations in either subunit can alter this balance and, in the case of the SUR1/KIR6.2 channels found in neurons and insulin-secreting pancreatic beta cells, are the cause of monogenic forms of hyperinsulinemic hypoglycemia and neonatal diabetes.
-Additionally, the subtle dysregulation of K(ATP) channel activity by a K(IR)6.2 polymorphism has been suggested as a predisposing factor in type 2 diabetes mellitus.
-Studies on K(ATP) channel null mice are clarifying the roles of these metabolically sensitive channels in a variety of tissues.

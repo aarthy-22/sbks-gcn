@@ -1,6 +1,0 @@
-The role of targeted therapy in metastatic renal cell carcinoma.
-Renal cell carcinoma (RCC) is a highly vascular tumor in which a growing understanding of disease biology has been translated into clinically active systemic therapies.
-The most clinically developed targeted therapies in advanced RCC are those that target the vascular endothelial growth factor (VEGF) ligand or receptor (VEGFR) and therapy directed against the mammalian target of rapamycin (mTOR).
-Sutent and sorafenib are orally available inhibitors of the VEGFR and platelet derived growth factor receptor (PDGFR).
-Temsirolimus is an mTOR inhibitor that leads to G1 cell cycle arrest and may affect VEGF production.
-This article briefly describes the biological pathways involved in the development of RCC and the results of clinical trials using targeted therapy in metastatic RCC.

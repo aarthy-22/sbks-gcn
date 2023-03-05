@@ -1,8 +1,0 @@
-Neuronal expression of glucosylceramide synthase in central nervous system regulates body weight and energy homeostasis.
-Hypothalamic neurons are main regulators of energy homeostasis.
-Neuronal function essentially depends on plasma membrane-located gangliosides.
-The present work demonstrates that hypothalamic integration of metabolic signals requires neuronal expression of glucosylceramide synthase (GCS; UDP-glucose:ceramide glucosyltransferase).
-As a major mechanism of central nervous system (CNS) metabolic control, we demonstrate that GCS-derived gangliosides interacting with leptin receptors (ObR) in the neuronal membrane modulate leptin-stimulated formation of signaling metabolites in hypothalamic neurons.
-Furthermore, ganglioside-depleted hypothalamic neurons fail to adapt their activity (c-Fos) in response to alterations in peripheral energy signals.
-Consequently, mice with inducible forebrain neuron-specific deletion of the UDP-glucose:ceramide glucosyltransferase gene (Ugcg) display obesity, hypothermia, and lower sympathetic activity.
-Recombinant adeno-associated virus (rAAV)-mediated Ugcg delivery to the arcuate nucleus (Arc) significantly ameliorated obesity, specifying gangliosides as seminal components for hypothalamic regulation of body energy homeostasis.

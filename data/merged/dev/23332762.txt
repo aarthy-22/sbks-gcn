@@ -1,8 +1,0 @@
-Inactivation of BAD by IKK inhibits TNFα-induced apoptosis independently of NF-κB activation.
-The IκB kinase complex (IKK) is a key regulator of immune responses, inflammation, cell survival, and tumorigenesis.
-The prosurvival function of IKK centers on activation of the transcription factor NF-κB, whose target gene products inhibit caspases and prevent prolonged JNK activation.
-Here, we report that inactivation of the BH3-only protein BAD by IKK independently of NF-κB activation suppresses TNFα-induced apoptosis.
-TNFα-treated Ikkβ(-/-) mouse embryonic fibroblasts (MEFs) undergo apoptosis significantly faster than MEFs deficient in both RelA and cRel due to lack of inhibition of BAD by IKK.
-IKK phosphorylates BAD at serine-26 (Ser26) and primes it for inactivation.
-Elimination of Ser26 phosphorylation promotes BAD proapoptotic activity, thereby accelerating TNFα-induced apoptosis in cultured cells and increasing mortality in animals.
-Our results reveal that IKK inhibits TNFα-induced apoptosis through two distinct but cooperative mechanisms: activation of the survival factor NF-κB and inactivation of the proapoptotic BH3-only BAD protein.

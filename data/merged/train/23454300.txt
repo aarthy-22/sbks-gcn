@@ -1,5 +1,0 @@
-Phenotypic analysis of ovine antigen presenting cells loaded with nanoparticles migrating from the site of vaccination.
-Virus-sized particulate adjuvants such as ISCOMs, polystyrene nanoparticles and virus-like particles have been shown to target dendritic cells, resulting in the activation of T and B cells in vivo.
-Using an ovine pseudo-afferent lymph cannulation model to capture APC that traffic from the site of injection to the local lymph node, we show that 40-50nm nanoparticles are taken up at the site of injection by dendritic cells (DCs) migrating to the draining lymph node.
-These DCs can express CD11c, CD1b, CD5, MHC class II and CD8.
-Nanoparticles transported by DCs migrating from the site of injection to the local lymph node therefore needs to be considered as a new mechanism underlying the immunogenicity of virus-sized vaccine delivery systems.

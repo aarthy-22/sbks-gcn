@@ -1,9 +1,0 @@
-Serine racemases from barley, Hordeum vulgare L., and other plant species represent a distinct eukaryotic group: gene cloning and recombinant protein characterization.
-Several d-amino acids have been identified in plants.
-However, the biosynthetic pathway to them is unclear.
-In this study, we cloned and sequenced a cDNA encoding a serine racemase from barley which contained an open reading frame encoding 337 amino acid residues.
-The deduced amino acid sequence showed significant identity to plant and mammalian serine racemases and contained conserved pyridoxal 5-phosphate (PLP)-binding lysine and PLP-interacting amino acid residues.
-The purified gene product catalyzed not only racemization of serine but also dehydration of serine to pyruvate.
-The enzyme requires PLP and divalent cations such as Ca(2+), Mg(2+), or Mn(2+), but not ATP, whereas mammalian serine racemase activity is increased by ATP.
-In addition to the results regarding the effect of ATP on enzyme activity and the phylogenetic analysis of eukaryotic serine racemases, the antiserum against Arabidopsis serine racemase did not form a precipitate with barley and rice serine racemases.
-This suggests that plant serine racemases represent a distinct group in the eukaryotic serine racemase family and can be clustered into monocot and dicot types.

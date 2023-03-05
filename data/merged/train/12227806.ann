@@ -10,3 +10,4 @@ T3	CHEMICAL 552 566	chiral alcohol
 T4	CHEMICAL 574 594	trichloroacetimidate
 T6	CHEMICAL 657 667	morpholine
 R0	CPR-6 Arg1:T9 Arg2:T11
+R1	CPR-6 Arg1:T5 Arg2:T10

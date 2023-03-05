@@ -1,9 +1,0 @@
-Nordihydroguaiaretic acid inhibits IFN-gamma-induced STAT tyrosine phosphorylation in rat brain astrocytes.
-The Janus kinase (JAK) and signal transducers and activators of transcription (STAT) signal cascades are major pathways that mediate the inflammatory functions of interferon-gamma (IFN-gamma), an important pro-inflammatory cytokine.
-Therefore, regulation of JAK/STAT signaling should modulate IFN-gamma-mediated inflammation.
-In this study, we found that nordihydroguaiaretic acid (NDGA), a well-known lipoxygenase (LO) inhibitor, suppressed IFN-gamma-induced inflammatory responses in brain astrocytes.
-In the presence of NDGA, interferon regulatory factor-1 expression was significantly reduced.
-Expression of monocyte chemotactic protein-1 and interferon-gamma inducible protein-10 mRNA in response to IFN-gamma was significantly suppressed in the presence of NDGA, as was tyrosine-phosphorylation of JAK and STAT.
-However, the 5-LO products, leukotriene B(4) (LTB(4)) and leukotriene C(4), were not detected in cells treated with IFN-gamma, indicating that the effect of NDGA seemed to be independent of 5-LO inhibition.
-In addition, two other 5-LO inhibitors (Rev5901 and AA861) did not mimic the effect of NDGA, and the 5-LO metabolites, 5-hydroxyeicosatetraenoic acid and LTB(4), were unable to reverse NDGA-driven suppression of STAT activation or affect basal STAT phosphorylation.
-Taken together, these results suggest that NDGA regulates IFN-gamma-mediated inflammation through mechanisms unrelated to the inhibition of 5-LO.

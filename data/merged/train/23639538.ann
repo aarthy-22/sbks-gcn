@@ -19,4 +19,9 @@ T8	CHEMICAL 938 1006	(3R)-5,7-dihydroxyl-6,8-dimethyl-3-(4'-hydroxylbenzyl)-chro
 T9	CHEMICAL 1012 1076	(3R)-5,7-dihydroxyl-6-methyl-3-(4'-hydroxylbenzyl)-chroman-4-one
 T10	CHEMICAL 1086 1100	polygonatone D
 R0	CPR-3 Arg1:T11 Arg2:T20
-R1	NOT Arg1:T1 Arg2:T18
+R1	CPR-3 Arg1:T12 Arg2:T20
+R2	NOT Arg1:T1 Arg2:T18
+R3	NOT Arg1:T1 Arg2:T15
+R4	NOT Arg1:T2 Arg2:T18
+R5	NOT Arg1:T2 Arg2:T15
+R6	NOT Arg1:T17 Arg2:T6

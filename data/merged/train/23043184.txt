@@ -1,9 +1,0 @@
-Interactions between CYP2E1 and CYP2B4: effects on affinity for NADPH-cytochrome P450 reductase and substrate metabolism.
-Studies in microsomal and reconstituted systems have shown that the presence of one cytochrome P450 isoform can significantly influence the catalytic activity of another isoform.
-In this study, we assessed whether CYP2E1 could influence the catalytic activity of CYP2B4 under steady-state turnover conditions.
-The results show that CYP2E1 inhibits CYP2B4-mediated metabolism of benzphetamine (BNZ) with a K(i) of 0.04 µM. However, CYP2B4 is not an inhibitor of CYP2E1-mediated p-nitrophenol hydroxylation.
-When these inhibition studies were performed with the artificial oxidant tert-butyl hydroperoxide, CYP2E1 did not significantly inhibit CYP2B4 activity.
-Determinations of the apparent K(M) and k(cat) of CYP2B4 for CPR in the presence of increasing concentrations of CYP2E1 revealed a mixed inhibition of CYP2B4 by CYP2E1.
-At low concentrations of CYP2E1, the apparent K(M) of CYP2B4 for CPR increased up to 23-fold with virtually no change in the k(cat) for the reaction, however, at higher concentrations of CYP2E1, the apparent K(M) of CYP2B4 for CPR decreased to levels similar to those observed in the absence of CYP2E1 and the k(cat) also decreased by 11-fold.
-Additionally, CYP2E1 increased the apparent K(M) of CYP2B4 for BNZ by 8-fold and the apparent K(M) did not decrease to its original value when saturating concentrations of CPR were used.
-While the individual apparent K(M) values of CYP2B4 and CYP2E1 for CPR are similar, the apparent K(M) of CYP2E1 for CPR in the presence of CYP2B4 decreased significantly, thus suggesting that CYP2B4 enhances the affinity of CYP2E1 for CPR and this may allow CYP2E1 to out-compete CYP2B4 for CPR.

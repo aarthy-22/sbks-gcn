@@ -10,3 +10,4 @@ T10	GENE-N 1456 1489	nicotinic acetylcholine receptors
 T3	CHEMICAL 1466 1479	acetylcholine
 T4	CHEMICAL 1696 1709	acetylcholine
 R0	CPR-4 Arg1:T8 Arg2:T11
+R1	CPR-3 Arg1:T2 Arg2:T10

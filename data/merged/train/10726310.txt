@@ -1,8 +1,0 @@
-[Plasminogen binding with decapeptide and polypeptide fragments of streptokinase].
-The plasminogen binding with streptokinase decapeptides, modeling the primary structure of molecule, and chymotryptic fragments of streptokinase have been investigated.
-The immunoenzymatic assay has shown that plasminogen binds to all streptokinase fragments with the decreasing affinity in the set of fragments: 36 > 30 > 17 > 7 > 11 kDa.
-Location of the binding sites in streptokinase primary structure was performed using the immobilized decapeptides on plastic pins adopted to IEA.
-In the presence of 10 mM 6-aminohexanoic acid 11 sites for human Glu- and mini-plasminogens, pig and bovine plasminogens binding have been found.
-They were of the same location for human, bovine and pig plasminogens.
-3 sites were located in plasminogen alpha-domain--T43-A72, N113-T126, Q133-V158, 5 sites in beta-domain--T163-L188, A203-S222, Q239-I264, Y275-L294, T315-L340, and 3 sites in gamma-domain--T361-R362, N377-E392, T397-N410.
-Participation of linear part of streptokinase polypeptide chain in plasminogen--streptokinase complex formation is suggested.

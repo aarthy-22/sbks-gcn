@@ -1,8 +1,0 @@
-MAPKAPK2/3 Regulate SERCA2a Expression and Fiber Type Composition to Modulate Skeletal Muscle and Cardiomyocyte Function.
-The MAPK-activated protein kinases 2 and 3 (MAPKAPK2/3, MK2/3) represent protein kinases downstream of the p38 mitogen-activated protein kinase (MAPK).
-Using MK2/3 double knockout mice (MK2/3(-/-)), we analyzed the role of MK2/3 in cross-striated muscle by transcriptome and proteome analyses, and by histology.
-We demonstrated enhanced expression of the slow oxidative skeletal muscle myofiber gene program, including the PPARγ coactivator 1α (PGC-1α).
-Using reporter gene and electrophoretic gel mobility shift assays we demonstrated that MK2 catalytic activity directly regulated the promoters of the fast fiber-specific myosin heavy chain IId/x and the slow fiber-specific sarco/endoplasmic reticulum Ca(2+)-ATPase (SERCA) 2 gene.
-Elevated SERCA2a gene expression caused by a decreased transcription factor Egr-1 to Sp1 ratio was associated with accelerated relaxation and enhanced contractility in MK2/3(-/-) cardiomyocytes, concomitant with improved force parameters in MK2/3(-/-) soleus muscle.
-These results link MK2/3 to the regulation of calcium dynamics and identify enzymatic activity of MK2/3 as a critical factor for modulating cross-striated muscle function by generating a unique muscle phenotype exhibiting both, reduced fatigability and enhanced force in MK2/3(-/-) mice.
-Hence, the p38-MK2/3 axis may represent a novel target for the design of therapeutic strategies for diseases related to fiber type changes or impaired SERCA2 function.

@@ -1,8 +1,0 @@
-Olopatadine suppresses the migration of THP-1 monocytes induced by S100A12 protein.
-Olopatadine hydrochloride (olopatadine) is an antiallergic drug with histamine H(1) receptor antagonistic activity.
-Recently, olopatadine has been shown to bind to S100A12 which is a member of the S100 family of calcium-binding proteins, and exerts multiple proinflammatory activities including chemotaxis for monocytes and neutrophils.
-In this study, we examined the possibility that the interaction of olopatadine with S100A12 inhibits the proinflammatory effects of S100A12.
-Pretreatment of olopatadine with S100A12 reduced migration of THP-1, a monocyte cell line, induced by S100A12 alone, but did not affect recombinant human regulated upon activation, normal T cell expressed and secreted (RANTES)-induced migration.
-Amlexanox, which also binds to S100A12, inhibited the THP-1 migration induced by S100A12.
-However, ketotifen, another histamine H(1) receptor antagonist, had little effect on the activity of S100A12.
-These results suggest that olopatadine has a new mechanism of action, that is, suppression of the function of S100A12, in addition to histamine H(1) receptor antagonistic activity.

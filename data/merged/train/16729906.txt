@@ -1,8 +1,0 @@
-Sorafenib: recent update on activity as a single agent and in combination with interferon-alpha2 in patients with advanced-stage renal cell carcinoma.
-Metastatic renal cell carcinoma does not respond favorably to conventional treatment strategies and is not very responsive to cytokine therapy.
-Therefore, novel targeted treatment approaches have been explored for patients with renal cancer who have chemotherapy-refractory disease.
-Sorafenib (BAY 43-9006) is a small-molecule inhibitor that has been shown to target members of multiple classes of tyrosine kinases that are known to be involved in tumor cell proliferation and tumor angiogenesis.
-These kinases include vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2, VEGFR-3, platelet-derived growth factor receptor, Flt-3, c-kit, and Raf kinases.
-Based on the significant improvement in progression-free survival, sorafenib received Food and Drug Administration approval in December 2005 for the treatment of renal cell carcinoma.
-In combination studies, sorafenib with other antitumor agents has demonstrated significant clinical activity in patients with renal cell carcinoma.
-As discussed in this mini-review, the clinical potency of sorafenib as a single agent or in combination with other antitumor agents is being evaluated in several ongoing clinical trials in patients with renal carcinoma.

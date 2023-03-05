@@ -1,6 +1,0 @@
-Synthesis of a DOTA (Gd(3+))-conjugate of proton-pump inhibitor pantoprazole for gastric wall imaging studies.
-Magnetic resonance imaging (MRI) is used to evaluate gastrointestinal (GI) structure and functions in humans.
-Despite filling the viscus lumen with a contrast agent, visualization of the viscus wall is limited.
-To overcome this limitation, we de novo synthesized a conjugate that covalently combines a Gd-based MRI contrast agent, encaged with a chelating agent (DOTA), with pantoprazole, which is a widely used proton pump inhibitor that binds to proton pumps in the stomach and colon.
-The DOTA linkage was installed at a mechanism-based strategic location in the pantoprazole molecule to minimize a possible negative effect of the structural modification on the drug.
-It is anticipated that by defining the wall of the stomach and colon, this compound will facilitate functional MRI of the GI tract in humans.

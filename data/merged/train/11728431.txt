@@ -1,9 +1,0 @@
-Evidence for presynaptic cannabinoid CB(1) receptor-mediated inhibition of noradrenaline release in the guinea pig lung.
-Using neurochemical method, evidence was obtained that cannabinoid CB(1) receptors are localized on noradrenergic terminals and their stimulation by WIN-55,212-2 reduces the release of [3H]noradrenaline evoked by axonal activity in a frequency-dependent manner.
-At stimulation rates of 1 and 3 Hz, there was significant inhibition of noradrenaline release, with IC(50) of WIN-55,212-2 41.5+/-2.6 and 320.5+/-28.2 nM, for 1 and 3 Hz, respectively.
-Cannabinoid CB(1) receptor antagonist SR 141716A completely prevented WIN-55,212-2 from reducing the release.
-The release of noradrenaline is negatively modulated by presynaptic alpha(2)-adrenoceptors.
-Because BRL-44408, an alpha(2B)-adrenoceptor, and prazosin, an alpha(1)- and alpha(2B)-adrenoceptor antagonist, both increased the release of [(3)H]noradrenaline, it seems likely that the alpha(2B) subtype is responsible for the negative feedback modulation of noradrenaline release.
-In the presence of alpha(2)-adrenoceptor antagonism, cannabinoid CB(1) receptor activation by WIN-55,212-2 was much more effective in inhibiting the release of [(3)H]noradrenaline.
-Using a specific antibody against the C-terminus of the rat cannabinoid CB(1) receptor and also against neuropeptide Y, ultrastructural evidence was obtained that cannabinoid CB(1) receptors are exclusively localized on neuropeptide Y-positive noradrenergic varicosities.
-Since the sympathetic innervation of the human airway smooth muscle is sparse, and mainly the circulating adrenaline relaxes the airways via activation of beta(2)-adrenoceptor localized on the smooth muscle, it is suggested that inhibition of noradrenaline release by cannabinoids, and the subsequent bronchospasm, may be limited to those cases when noradrenaline released from sympathetic varicosities is involved in airway relaxation.

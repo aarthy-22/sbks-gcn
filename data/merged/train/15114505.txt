@@ -1,6 +1,0 @@
-In vitro inhibition of diacylglycerol acyltransferase by prenylflavonoids from Sophora flavescens.
-Four prenylflavonoids, kurarinone ( 1), a chalcone of 1, kuraridin ( 2), kurarinol ( 3), kushenol H ( 4) and kushenol K ( 5) isolated from the roots of Sophora flavescens were investigated for their inhibitory effects on diacylglycerol acyltransferase (DGAT).
-The flavonoids inhibited DGAT activity in a dose-dependent manner with IC50 values of 10.9 microM ( 1), 9.8 microM ( 2), 8.6 microM ( 3), 142.0 microM ( 4) and 250 microM ( 5).
-The prenylflavonoids without C3-OH ( 1, 2, 3) showed stronger inhibition than those with C3-OH ( 4, 5).
-On the other hand, flavonoids without side chains (hesperetin, naringenin, quercetin and kaempferol) did not inhibit the enzyme activity at a final concentration of 800 microM. These data suggest that the lavandulyl side chain and the position of the hydroxy group are important for high DGAT inhibitory activity.
-Compound 1 also inhibited de novo synthesis of triacylglycerol (TG) in Raji cells.

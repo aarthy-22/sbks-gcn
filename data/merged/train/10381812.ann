@@ -12,3 +12,5 @@ T2	CHEMICAL 1452 1463	naphazoline
 T5	GENE-N 1571 1590	alpha1-adrenoceptor
 T6	GENE-N 1655 1675	alpha1-adrenoceptors
 T7	GENE-N 1740 1753	adrenoceptors
+R0	CPR-5 Arg1:T3 Arg2:T13
+R1	CPR-4 Arg1:T1 Arg2:T4

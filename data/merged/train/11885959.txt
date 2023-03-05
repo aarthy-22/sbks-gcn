@@ -1,8 +1,0 @@
-Differential binding mode of diverse cyclooxygenase inhibitors.
-Non-steroidal anti-inflammatory drugs (NSAIDs) are competitive inhibitors of cyclooxygenase (COX), the enzyme that mediates biosynthesis of prostaglandins and thromboxanes from arachidonic acid.
-There are at least two different isoforms of the enzyme known as COX-1 and -2.
-Site directed mutagenesis studies suggest that non-selective COX inhibitors of diverse chemical families exhibit differential binding modes to the two isozymes.
-These results cannot clearly be explained from the sole analysis of the crystal structures of COX available from X-ray diffraction studies.
-With the aim to elucidate the structural features governing the differential inhibitory binding behavior of these inhibitors, molecular modeling studies were undertaken to generate atomic models compatible with the experimental data available.
-Accordingly, docking of different COX inhibitors, including selective and non-selective ligands: rofecoxib, ketoprofen, suprofen, carprofen, zomepirac, indomethacin, diclofenac and meclofenamic acid were undertaken using the AMBER program.
-The results of the present study provide new insights into a better understanding of the differential binding mode of diverse families of COX inhibitors, and are expected to contribute to the design of new selective compounds.

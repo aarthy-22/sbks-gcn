@@ -1,8 +1,0 @@
-Stabilisation of amorphous drugs under high humidity using pharmaceutical thin films.
-In this study, the stabilization effects of three polymers on four model drugs (felodipine, fenofibrate, carbamazepine, and celecoxib) under saturated humidity were investigated.
-Three different types of thin films (solid dispersions, drug films with a polymer film coating and drug films laid on top of polymer coated surfaces) were prepared and compared with films containing the drug alone.
-ATR-FTIR spectroscopy, polarised light microscopy (PLM), scanning electron microscopy (SEM) and nano-thermal analysis (nano-TA) were performed on the model systems after storage under saturated humidity.
-The recrystallisation tendency of the drug in the drug containing thin films was found to be strongly related to the intrinsic crystallization tendency of the drug film alone and the strength of drug-polymer interactions.
-Additionally, under high humidity, the glass transition temperature of the polymer is no longer an indicator of its drug stabilization capability.
-Instead, it is the hygroscobicity of the polymer that appears to be the most important parameter.
-Amongst the polymers tested in this study, EUDRAGIT E PO was found to have the greatest inhibitory effect on crystallization, whilst PVP K30 was found to have the least protective effect; presumably because of its hygroscopic nature.

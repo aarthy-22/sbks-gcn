@@ -12,3 +12,7 @@ T7	CHEMICAL 633 641	cortisol
 T14	GENE-Y 700 731	corticotropin-releasing hormone
 T8	CHEMICAL 743 755	Trimipramine
 T10	CHEMICAL 970 982	trimipramine
+R0	NOT Arg1:T1 Arg2:T12
+R1	NOT Arg1:T2 Arg2:T12
+R2	NOT Arg1:T13 Arg2:T7
+R3	NOT Arg1:T7 Arg2:T14

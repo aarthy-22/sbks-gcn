@@ -1,6 +1,0 @@
-Peripheral site ligands accelerate inhibition of acetylcholinesterase by neutral organophosphates.
-The rates of inhibition of mouse acetylcholinesterase (AChE; EC 3.1.1.7) by paraoxon, haloxon, DDVP and enantiomers of neutral alkyl methylphosphonyl thioates and cationic alkyl methylphosphonyl thiocholines were measured in the presence and absence of AChE peripheral site inhibitors: gallamine, d-tubocurarine, propidium, atropine and derivatives of coumarin.
-All ligands, except the coumarins, at submillimolar concentrations enhanced the rates of inhibition by neutral organophosphates, whereas inhibition rates by cationic organophosphates were decreased.
-When peripheral site ligand concentrations extended to millimolar concentrations the extent of the enhancement decreased, creating a well-shaped activation profile.
-Analysis of inhibition by DDVP revealed that peripheral site inhibitors increase the second-order reaction rates by increasing maximal rates of phosphorylation.
-These observations suggest that peripheral site ligands are capable of allosterically affecting the conformation of residues in the choline binding site of AChE, thus optimizing the position of the leaving group of uncharged organophosphates during the inhibition reaction.

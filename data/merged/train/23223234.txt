@@ -1,7 +1,0 @@
-The fidelity of transcription: RPB1 (RPO21) mutations that increase transcriptional slippage in S. cerevisiae.
-The fidelity of RNA synthesis depends on both accurate template-mediated nucleotide selection and proper maintenance of register between template and RNA.
-Loss of register, or transcriptional slippage, is particularly likely on homopolymeric runs in the template.
-Transcriptional slippage can alter the coding capacity of mRNAs and is used as a regulatory mechanism.
-Here we describe mutations in the largest subunit of Saccharomyces cerevisiae RNA polymerase II that substantially increase the level of transcriptional slippage.
-Alleles of RPB1 (RPO21) with elevated slippage rates were identified among 6-azauracil-sensitive mutants and were also isolated using a slippage-dependent reporter gene.
-Biochemical characterization of polymerase II isolated from these mutants confirms elevated levels of transcriptional slippage.

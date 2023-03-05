@@ -1,7 +1,0 @@
-Anticancer activity and mediation of apoptosis in human HL-60 leukaemia cells by edible sea cucumber (Holothuria edulis) extract.
-Sea cucumbers have been a dietary delicacy and important ingredient in Asian traditional medicinal over many centuries.
-In this study, edible sea cucumber Holothuria edulis was evaluated for its in vitro anticancer potential.
-An aqueous fraction of the edible sea cucumber (ESC-AQ) has been shown to deliver a strong cytotoxic effect against the human HL-60 leukaemia cell line.
-An induction effect of apoptotic body formation in response to ESC-AQ treatment was confirmed in HL-60 cells stained with Hoechst 33342 and confirmed via flow cytometry analysis.
-The up regulation of Bax and caspase-3 protein expression was observed while the expression of Bcl-xL protein was down regulated in ESC-AQ treated HL-60 cells.
-Due to the profound anticancer activity, ESC-AQ appears to be an economically important biomass fraction that can be exploited in numerous industrial applications as a source of functional ingredients.

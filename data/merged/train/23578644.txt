@@ -1,9 +1,0 @@
-Conjugated linoleic acid and calcium co-supplementation improves bone health in ovariectomised mice.
-Osteoporosis is a significant health concern for the elderly; conjugated linoleic acid (CLA) has been shown to improve overall bone mass when calcium is included as a co-supplement.
-However, potential effects of CLA and calcium on bone mass during a period of bone loss have not been reported.
-The purpose of this study was to determine how dietary calcium modulates the effects of conjugated linoleic acid (CLA) in preventing bone loss, using an ovariectomised mouse model.
-CLA supplementation significantly prevented ovariectomy-associated weight and fat mass gain, compared to non-supplemented controls.
-CLA significantly increased bone markers without major changes in bone mineral composition in the femur compared to respective controls.
-CLA treatment increased serum parathyroid hormone (PTH) significantly (p=0.0172), while serum 1,25-dihydroxyvitamin D3 concentration was not changed by CLA.
-Meanwhile, CLA significantly reduced femur tartrate resistant acid phosphatase (TRAP) activity, suggesting potential reduction of osteoclastogenesis.
-The data suggest that CLA, along with dietary calcium, has great potential to be used to prevent bone loss and weight gain associated with menopause.

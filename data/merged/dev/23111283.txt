@@ -1,9 +1,0 @@
-Toosendanin induces apoptosis through suppression of JNK signaling pathway in HL-60 cells.
-Toosendanin (TSN), a triterpenoid isolated from Melia toosendan Sieb. et Zucc., has been found to suppress proliferation and induce apoptosis in a variety of human cancer cells.
-However, the mechanism how TSN induces apoptosis remains poorly understood.
-In this study, we examined the effects of TSN on the growth, cell cycle arrest, induction of apoptosis and the involved signaling pathway in human promyelocytic leukemia HL-60 cells.
-Proliferation of HL-60 cells was inhibited in a dose-dependent manner with the IC(50 (48 h)) of 28 ng/mL. The growth inhibition was due primarily to the S phase arrest and cell apoptosis.
-Cell apoptosis induced by TSN was confirmed by Annexin V-FITC/propidium iodide staining.
-The increase of the pro-apoptotic protein Bax, cleaved PARP and caspase-3, and the decrease of anti-apoptotic protein Bcl-2 were observed.
-Western blot analysis indicated that TSN inhibits the CDC42/MEKK1/JNK pathway.
-Taken together, our study suggested, for the first time, that the pro-apoptotic effects of TSN on HL-60 cells were mediated through JNK signaling pathway.

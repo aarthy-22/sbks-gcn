@@ -1,9 +1,0 @@
-[Screening of short peptides binding to cell surface interleukin-2 receptor alpha chain].
-OBJECTIVE: To screen and characterize the short peptides which bind specifically to interleukin-2 (IL-2) receptor alpha chain (IL-2Ralpha) for acquisition of small antagonists for blocking the binding of IL-2 with IL-2Ralpha.
-METHODS: 12-mer phage displayed peptide library was screened with the target cells of MT-2 cells which expressed IL-2Ralpha at high levels.
-The binding phage clones were eluted by anti-IL-2Ralpha monoclonal antibody.
-After 3 rounds of screening, the positive phage clones were identified by enzyme-linked immunosorbent assay (ELISA) and immunohistochemistry, and the amino acid sequences of the positive clones were deduced from the DNA sequences.
-RESULTS: Seven positive clones were screened out of the 17 phage clones bound to MT-2 cells.
-The positive clone M15 could bind specifically to MT-2 cell and PHA-activated peripheral blood monouclear cells.
-Amino acid sequence analysis identified 6 sequences, all of which contained hydrophilic residues, and 5 of these 6 sequences included Tyr, Phe and Leu conservative residues.
-CONCLUSION: The peptide sequences containing Tyr, Phe conservative residues identified in this study can bind to cell surface IL-2Ralpha.

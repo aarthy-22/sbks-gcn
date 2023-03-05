@@ -1,9 +1,0 @@
-Serotonin 5-HT(2B) receptor loss of function mutation in a patient with fenfluramine-associated primary pulmonary hypertension.
-OBJECTIVE: Appetite-suppressant drug fenfluramine is implicated in primary pulmonary hypertension (PPH) but the molecular pathways that mediate this effect are unknown.
-A mouse model incriminates the serotonin 5-HT(2B) receptor but contrasts with other models where this receptor has been shown to mediate pulmonary arterial relaxation via nitric oxide production.
-METHODS: We analyzed the human 5-HT(2B) gene in 10 patients with appetite-suppressant drug-associated PPH.
-RESULTS: A mutation causing premature truncation of the protein product was found in one patient.
-The mutation was not found in 80 control subjects and no 5-HT(2B) mutation was found in 18 PPH patients not associated with appetite-suppressants.
-Functional analysis of the transfected receptor expressed either transiently in COS cells or stably in CHO cells demonstrated that the mutated receptor fails to activate the second messenger inositol-phosphates cascade and subsequent intracellular calcium release, in spite of normal expression at the cell membrane.
-The mutated receptor had no constitutive activity, and produced no dominant negative effect on the wild-type receptor.
-CONCLUSION: Loss of serotonin 5-HT(2B) receptor function may predispose to fenfluramine-associated PPH in man.

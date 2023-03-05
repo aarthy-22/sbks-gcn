@@ -1,6 +1,0 @@
-Molecular tweezers modulate 14-3-3 protein-protein interactions.
-Supramolecular chemistry has recently emerged as a promising way to modulate protein functions, but devising molecules that will interact with a protein in the desired manner is difficult as many competing interactions exist in a biological environment (with solvents, salts or different sites for the target biomolecule).
-We now show that lysine-specific molecular tweezers bind to a 14-3-3 adapter protein and modulate its interaction with partner proteins.
-The tweezers inhibit binding between the 14-3-3 protein and two partner proteins--a phosphorylated (C-Raf) protein and an unphosphorylated one (ExoS)--in a concentration-dependent manner.
-Protein crystallography shows that this effect arises from the binding of the tweezers to a single surface-exposed lysine (Lys214) of the 14-3-3 protein in the proximity of its central channel, which normally binds the partner proteins.
-A combination of structural analysis and computer simulations provides rules for the tweezers' binding preferences, thus allowing us to predict their influence on this type of protein-protein interactions.

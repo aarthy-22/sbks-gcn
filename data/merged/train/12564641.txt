@@ -1,8 +1,0 @@
-Effects of clozapine on the efflux of serotonin and dopamine in the rat brain: the role of 5-HT1A receptors.
-In vivo microdialysis in conscious rats was used to examine the effect of clozapine on serotonin (5-hydroxytryptamine, 5-HT) efflux in the prefrontal cortex and dorsal raphe nucleus and dopamine efflux in the prefrontal cortex.
-Both systemic and local administration of clozapine (systemic, 10 or 20 mg/kg, i.p.; local, 100 microM) increased 5-HT efflux in the dorsal raphe.
-However, in the prefrontal cortex, dialysate 5-HT increased when clozapine (100 microM) was administered through the probe, while no effect was observed when it was administered systemically.
-By pretreatment with the selective 5-HT1A receptor antagonist p-MPPI (3 mg/kg, i.p.), systemic treatment of clozapine (10 mg/kg, i.p.) significantly increased 5-HT efflux in the prefrontal cortex.
-This result suggests that the ability of clozapine to enhance the extracellular concentrations of 5-HT in the dorsal raphe attenuates this drug's effect in the frontal cortex, probably through the stimulation of 5-HT1A somatodendritic autoreceptors in the dorsal raphe.
-We also found that pretreatment with p-MPPI (3 mg/kg, i.p.) attenuated by 45% the rise in cortical dopamine levels induced by clozapine (10 mg/kg, i.p.).
-These findings imply that the reduction in serotonergic input from the dorsal raphe nucleus induced by clozapine could lead to an increase in dopamine release in the prefrontal cortex.

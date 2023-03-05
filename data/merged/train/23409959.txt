@@ -1,9 +1,0 @@
-Protein recognition of the S23906-1-DNA adduct by nuclear proteins: direct involvement of glyceraldehyde-3-phosphate dehydrogenase (GAPDH)1.
-In a view to develop new DNA alkylating antitumour drugs, evaluating the precise mechanism of action and the molecular/cellular consequences of the alkylation is a point of major interest.
-The benzo-b-acronycine derivative S23906-1 alkylates guanine nucleobases in the minor groove of the DNA helix and presents an original ability to locally open the double helix of DNA, which appears to be associated with its cytotoxic activity.
-However, the molecular mechanism linking adduct formation to cellular consequences is not precisely known.
-The objective of the present study was to identify proteins involved in the recognition and mechanism of action of S23906-DNA adducts.
-We found that GAPDH (glyceraldehyde-3-phosphate dehydrogenase) is a protein that binds to S23906-alkylated single-stranded, double-stranded and telomeric sequences in a drug-dependent and DNA sequence/structure-dependent manner.
-We used the CASTing (cyclic amplification of sequence targeting) method to identify GAPDH DNA-binding selectivity and then evaluated its binding to such selected S23906-alkylated sequences.
-At the cellular level, alkylation of S23906-1 results in an increase in the binding of GAPDH and its protein partner HMG (high-mobility group) B1 to the chromatin.
-Regarding the multiple roles of GAPDH in apoptosis and DNA repair, the cytotoxic and apoptotic activities of GAPDH were evaluated and present opposite effects in two different cellular models.

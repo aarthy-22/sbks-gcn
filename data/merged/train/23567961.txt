@@ -1,5 +1,0 @@
-Identification of novel FLT3 kinase inhibitors.
-FLT3 and PDGFR tyrosine kinases are important targets for therapy of different types of leukemia.
-Several FLT3/PDGFR inhibitors are currently under clinical investigation for combination with standard therapy for treatment of acute myeloid leukemia (AML), however these agents only induce partial remission and development of resistance has been reported.
-In this work we describe the identification of potent and novel dual FLT3/PDGFR inhibitors that resulted from our efforts to screen a library of 25,607 small molecules against the FLT3 dependent cell line MOLM-13 and the PDGFR dependent cell line EOL-1.
-This effort led to the identification of five compounds that were confirmed to be active on additional FLT3 dependent cell lines (cellular EC50 values between 35 and 700 nM), while having no significant effect on 24 other tyrosine kinases.

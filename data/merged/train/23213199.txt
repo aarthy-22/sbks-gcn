@@ -1,9 +1,0 @@
-Estradiol exerts antiapoptotic effects in skeletal myoblasts via mitochondrial PTP and MnSOD.
-17β-Estradiol (E(2)) protects several non-reproductive tissues from apoptosis, including skeletal muscle.
-We have shown that E(2) at physiological concentrations prevented apoptosis induced by H(2)O(2) in C2C12 skeletal myoblasts.
-As we also demonstrated the presence of estrogen receptors in mitochondria, the present work was focused on the effects of E(2) on this organelle.
-Specifically, we evaluated the actions of E(2) on the mitochondrial permeability transition pore (MPTP) by the calcein-acetoxymethylester/cobalt method using fluorescence microscopy and flow cytometry.
-Pretreatment with E(2) prevented MPTP opening induced by H(2)O(2), which preceded loss of mitochondrial membrane potential.
-In addition, it was observed that H(2)O(2) induced translocation of Bax to mitochondria; however, in the presence of the steroid this effect was abrogated suggesting that members of the Bcl-2 family may be regulated by E(2) to exert an antiapoptotic effect.
-Moreover, E(2) increased mitochondrial manganese superoxide dismutase protein expression and activity, as part of a mechanism activated by E(2) that improved mitochondrial performance.
-Our results suggest a role of E(2) in the regulation of apoptosis with a clear action at the mitochondrial level in C2C12 skeletal myoblast cells.

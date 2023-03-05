@@ -1,6 +1,0 @@
-Real-time fluorescence turn-on detection of alkaline phosphatase activity with a novel perylene probe.
-A tetracationic perylene probe (probe 1) was designed and synthesized.
-Probe 1 was used for the real-time fluorescence turn-on assay of alkaline phosphatase (ALP) activity and inhibitor screening.
-Probe 1 monomer fluorescence could be very efficiently quenched by ATP through the formation of an ATP/probe 1 complex.
-ALP triggered the degradation of ATP, the breakdown of the ATP/probe 1 complex, and the recovery of the probe 1 monomer fluorescence.
-In the presence of an ALP inhibitor, a decrease in fluorescence recovery was observed.

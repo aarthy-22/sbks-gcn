@@ -1,8 +1,0 @@
-Genetic reduction of GABA(A) receptor gamma2 subunit expression potentiates the immobilizing action of isoflurane.
-Potentiation of inhibitory gamma-aminobutyric acid subtype A (GABA(A)) receptor function is involved in the mechanisms of anesthetic action.
-The present study examined the immobilizing action of the volatile anesthetic isoflurane in mice with double knockout (DKO) of phospholipase C-related inactive protein (PRIP)-1 and -2.
-Both of these proteins play important roles in the expression of GABA(A) receptors containing the gamma2 subunit on the neuronal cell surface.
-Immunohistochemistry for GABA(A) receptor subunits demonstrated reduced expression of gamma2 subunits in the spinal cord of the DKO mice.
-Immunohistochemistry also revealed up-regulation of the alpha1 and beta3 subunits even though there were no apparent differences in the immunoreactivities for the beta2 subunits between wild-type and DKO mice.
-The tail-clamp method was used to evaluate the anesthetic/immobilizing effect of isoflurane and the minimum alveolar concentration (MAC) was significantly lower in DKO mice compared with wild-type controls (1.07+/-0.01% versus 1.36+/-0.04% atm), indicating an increased sensitivity to isoflurane in DKO mice.
-These immunohistochemical and pharmacological findings suggest that reduced expression of the GABA(A) receptor gamma2 subunit affects the composition and function of spinal GABA(A) receptors and potentiates the immobilizing action of isoflurane.

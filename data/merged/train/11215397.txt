@@ -1,8 +1,0 @@
-[Disruption of prepulse inhibition of acoustic startle as an animal model for schizophrenia].
-Disruption of prepulse inhibition (PPI) of acoustic startle in rats has been widely used as an animal model for the sensorimotor gating deficit state usually found in schizophrenia.
-PPI was reported to be regulated by forebrain circuits, including mesolimbic cortex, nucleus accumbens, ventral pallidum, thalamus, and pedunculopontine tegmentum nucleus.
-Phencyclidine or dopamine agonists, which causes psychotomimetic symptoms in humans, disrupts PPI in animals.
-The ED50 value of the drugs to reverse the phencyclidine-induced PPI disruption was significantly correlated with the affinity for the serotonin 2A receptor, but not for the dopamine D2 receptor of each drug (including atypical antipsychotics).
-In contrast, the ED50 value of the drugs to reverse the apomorphine-induced PPI disruption was significantly correlated with the affinity for the dopamine D2 receptor (including typical antipsychotics).
-Thus the drug that antagonizes the disruption of PPI caused by PCP or DA agonists would be a candidate for a therapeutic agent for the sensorimotor gating deficit state in schizophrenic patients.
-Neural mechanisms underlying the disruption of PPI were reviewed.

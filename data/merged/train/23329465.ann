@@ -6,3 +6,4 @@ T8	GENE-N 1035 1058	Plasma aminotransferase
 T5	GENE-Y 1437 1444	insulin
 T1	CHEMICAL 1564 1573	vitamin E
 T2	CHEMICAL 1627 1639	pioglitazone
+R0	NOT Arg1:T7 Arg2:T3

@@ -1,7 +1,0 @@
-Bcl-2 phosphorylation has pathological significance in human breast cancer.
-The anti-apoptotic molecule, Bcl-2, is well known to play an important role in the chemoresistance of breast cancer.
-We have previously demonstrated that phosphorylation of Fas-associated death domain-containing protein (FADD) at 194 serine through c-jun NH2-terminal kinase (JNK) activation sensitizes breast cancer cells to chemotherapy through accelerating cell cycle arrest at G2/M, and that Bcl-2 phosphorylation downstream of JNK/FADD plays an important role in cell growth suppression by paclitaxel.
-In this study, the clinicopathological association of phosphorylated Bcl-2 (P-Bcl-2) with estrogen, progesterone, c-erbB-2 receptors, p53 expressions and phosphorylated FADD/JNK (P-FADD/JNK) was analyzed immunohistochemically using 107 human breast cancer specimens.
-Expression of P-Bcl-2 was found to significantly correlate with lymphatic invasion, lymph node metastasis, but not histological differentiation, tumor grade or vascular and fatty invasion.
-The positivity of P-Bcl-2 was also significantly correlated to that of P-FADD/JNK.
-Thus, P-Bcl-2 as well as the P-FADD/JNK parameter might be useful markers for cancer progression, independent of the hormone receptor status, in human breast cancers.

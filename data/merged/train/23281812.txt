@@ -1,7 +1,0 @@
-Tetrahydropyrroloquinolinone type dual inhibitors of aromatase/aldosterone synthase as a novel strategy for breast cancer patients with elevated cardiovascular risks.
-The application of aromatase inhibitors to postmenopausal breast cancer patients increases the risk of cardiovascular diseases (CVD), which is believed to be caused by the abnormally high concentrations of aldosterone as a consequence of the estrogen deficiency.
-Dual inhibitors of aromatase (CYP19) and aldosterone synthase (CYP11B2) are therefore proposed as a novel strategy for the adjuvant therapy to reduce the CVD risk for these patients.
-By combining decisive structural features of CYP11B2 and CYP19 inhibitors into a common template, a series of pyridinylmethyl substituted 1,2,5,6-tetrahydro-pyrrolo[3,2,1-ij]quinolin-4-ones were designed and synthesized.
-Interestingly, the substituents on the methylene bridge showed strong influences on the inhibitory activities leading to opposite effects, that is, a given substituent showed an increase in inhibition of one enzyme, while it led to a decrease for the other enzyme.
-The compromise of this conflict led to compounds 3j, 3k, 3n, and 3p as potent and selective dual inhibitors of CYP19 and CYP11B2, especially compound 3p, which exhibited IC(50) values of 32 and 41 nM for CYP19 and CYP11B2, respectively, and a high selectivity toward CYP17 and CYP11B1.
-This compound is considered as a candidate for further evaluation in vivo.

@@ -1,9 +1,0 @@
-ADP-ribosylation of guanosine by SCO5461 protein secreted from Streptomyces coelicolor.
-The Streptomyces coelicolor A3(2) genome encodes a possible secretion protein, SCO5461, that shares a 30% homology with the activity domains of two toxic ADP-ribosyltransferases, pierisins and mosquitocidal toxin.
-We found ADP-ribosylating activity for the SCO5461 protein product through its co-incubation with guanosine and NAD(+), which resulted in the formation of N(2)-(ADP-ribos-1-yl)-guanosine ((ar2)Guo), with a K(m) value of 110 μM. SCO5461 was further found to ADP-ribosylate deoxyguanosine, GMP, dGMP, GTP, dGTP, and cyclic GMP with k(cat) values of 150-370 s(-1).
-Oligo(dG), oligo(G), and yeast tRNA were also ADP-ribosylated by this protein, although with much lower k(cat) values of 0.2 s(-1) or less.
-SCO5461 showed maximum ADP-ribosylation activity towards guanosine at 30 °C, and maintained 20% of these maximum activity levels even at 0 °C.
-This is the first report of the ADP-ribosylation of guanosine and guanine mononucleotides among the family members of various ADP-ribosylating enzymes.
-We additionally observed secretion of the putative gene product, SCO5461, in liquid cultures of S. coelicolor.
-We thus designated the SCO5461 protein product as S. coelicolor ADP-ribosylating protein, ScARP.
-Our current results could offer new insights into not only the ADP-ribosylation of small molecules but also signal transduction events via enzymatic nucleoside modification by toxin-related enzymes.

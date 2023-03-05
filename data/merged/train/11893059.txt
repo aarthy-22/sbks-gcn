@@ -1,5 +1,0 @@
-Donepezil hydrochloride: a treatment drug for Alzheimer's disease.
-The role of the cholinergic system with respect to cognitive deficits characteristic of Alzheimer's disease (AD) has led to a number of studies focusing on the development of acetylcholinesterase (AChE) inhibitors as a drug for treating this disease.
-The earliest known AChE inhibitors, namely, physostigmine and tacrine, performed poorly in clinical trials (e.g., poor oral activity, brain penetration, and hepatotoxic liability).
-Studies were then focused on finding a new type of acetylcholinesterase inhibitor that would overcome the disadvantages of these two compounds.
-Donepezil hydrochloride inaugurates a new class of AChE inhibitors with longer and more selective action and with manageable adverse effects.

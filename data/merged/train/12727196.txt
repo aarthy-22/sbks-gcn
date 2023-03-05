@@ -1,6 +1,0 @@
-Properties of purified recombinant human polyamine oxidase, PAOh1/SMO.
-The discovery of an inducible oxidase whose apparent substrate preference is spermine indicates that polyamine catabolism is more complex than that originally proposed.
-To facilitate the study of this enzyme, the purification and characterization of the recombinant human PAOh1/SMO polyamine oxidase are reported.
-Purified PAOh1/SMO oxidizes both spermine (K(m)=1.6 microM) and N(1)-acetylspermine (K(m)=51 microM), but does not oxidize spermidine.
-The purified human enzyme also does not oxidize eight representative antitumor polyamine analogues; however, specific oligamine analogues were found to be potent inhibitors of the oxidation of spermine by PAOh1/SMO.
-The results of these studies are consistent with the hypothesis that PAOh1/SMO represents a new addition to the polyamine metabolic pathway that may represent a new target for antineoplastic drug development.

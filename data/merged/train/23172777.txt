@@ -1,7 +1,0 @@
-3D-QSAR-assisted drug design: identification of a potent quinazoline-based Aurora kinase inhibitor.
-We describe the 3D-QSAR-assisted design of an Aurora kinase A inhibitor with improved physicochemical properties, in vitro activity, and in vivo pharmacokinetic profiles over those of the initial lead.
-Three different 3D-QSAR models were built and validated by using a set of 66 pyrazole (Model I) and furanopyrimidine (Model II) compounds with IC(50) values toward Aurora kinase A ranging from 33 nM to 10.5 μM. The best 3D-QSAR model, Model III, constructed with 24 training set compounds from both series, showed robustness (r(2) (CV) =0.54 and 0.52 for CoMFA and CoMSIA, respectively) and superior predictive capacity for 42 test set compounds (R(2) (pred) =0.52 and 0.67, CoMFA and CoMSIA).
-Superimposition of CoMFA and CoMSIA Model III over the crystal structure of Aurora kinase A suggests the potential to improve the activity of the ligands by decreasing the steric clash with Val147 and Leu139 and by increasing hydrophobic contact with Leu139 and Gly216 residues in the solvent-exposed region of the enzyme.
-Based on these suggestions, the rational redesign of furanopyrimidine 24 (clog P=7.41; Aurora A IC(50) =43 nM; HCT-116 IC(50) =400 nM) led to the identification of quinazoline 67 (clog P=5.28; Aurora A IC(50) =25 nM; HCT-116 IC(50) =23 nM).
-Rat in vivo pharmacokinetic studies showed that 67 has better systemic exposure after i.v.
-administration than 24, and holds potential for further development.

@@ -1,7 +1,0 @@
-Environmental pesticide exposure modulates cytokines, arginase and ornithine decarboxylase expression in human placenta.
-To evaluate the cytokine balance and enzymatic alterations induced by environmental pesticide exposure during pregnancy, this transversal study explored placentas derived from non-exposed women (control group-CG), and from women living in a rural area (rural group-RG), collected during intensive organophosphate (OP) pesticide spraying season (RG-SS) and during non-spraying season (RG-NSS).
-The exposure biomarkers blood cholinesterase and placental carboxylesterase (CaE) were significantly decreased in RG-SS.
-Among the cytokines studied IL-8, IL-6, TNFα, IL-10, TGFβ and IL-13, the expression frequency of IL-13 increased in RG-SS.
-Arginase and ornithine decarboxylase (ODC) enzymes were induced in syncytiotrophoblast and endothelial cells.
-Interestingly, the decrease in CaE activity was associated with arginase and ODC activity induction.
-These findings suggest that environmental pesticide exposure impacts the placenta by increasing the expression frequency of the anti-inflammatory cytokine IL-13, which may be related to the up-regulation of enzymes implicated in tissue repair.

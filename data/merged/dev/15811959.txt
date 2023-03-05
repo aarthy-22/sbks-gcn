@@ -1,8 +1,0 @@
-A phase-1 trial of bexarotene and denileukin diftitox in patients with relapsed or refractory cutaneous T-cell lymphoma.
-Denileukin diftitox, a genetically engineered fusion protein combining the enzymatically active domains of diphtheria toxin and the full-length sequence for interleukin-2 (IL-2), efficiently targets lymphoma cells expressing the high-affinity IL-2 receptor (IL-2R) consisting of the alpha/p55/CD25, beta/p75/CD122, and gamma/p64/CD132 chains.
-In vitro studies demonstrated that the retinoid X receptor (RXR) retinoid, bexarotene, at biologically relevant concentrations of 10(-6) M to 10(-8) M, upregulated both the p55 and p75 subunits of the IL-2R and enhanced 5- to 10-fold the susceptibility of T-cell leukemia cells to denileukin diftitox.
-To determine whether this biomodulatory effect could be recapitulated in vivo, we treated 14 patients with relapsed or refractory cutaneous T-cell lymphoma with escalating doses of bexarotene (75 mg/day-300 mg/day) and denileukin diftitox (18 mcg/kg per day x 3 days every 21 days) in a phase 1 trial.
-Overall response was 67% (4 complete responses, 4 partial responses).
-Modulation of IL-2R expression was observed at or above a bexarotene dose of 150 mg/day.
-Four patients experienced grade 2 or 3 leukopenia, and 2 had grade 4 lymphopenia.
-Our results demonstrate that the combination of denileukin diftitox and bexarotene is well tolerated and that even low doses (150 mg/day) of bexarotene are capable of in vivo upregulation of CD25 expression on circulating leukemia cells.

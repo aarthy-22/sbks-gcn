@@ -1,8 +1,0 @@
-A combination strategy to inhibit Pim-1: synergism between noncompetitive and ATP-competitive inhibitors.
-Pim-1 is a serine/threonine kinase critically involved in the initiation and progression of various types of cancer, especially leukemia, lymphomas and solid tumors such as prostate, pancreas and colon, and is considered a potential drug target against these malignancies.
-In an effort to discover new potent Pim-1 inhibitors, a previously identified ATP-competitive indolyl-pyrrolone scaffold was expanded to derive structure-activity relationship data.
-A virtual screening campaign was also performed, which led to the discovery of additional ATP-competitive inhibitors as well as a series of 2-aminothiazole derivatives, which are noncompetitive with respect to both ATP and peptide substrate.
-This mechanism of action, which resembles allosteric inhibition, has not previously been characterized for Pim-1.
-Notably, further evaluation of the 2-aminothiazoles indicated a synergistic inhibitory effect in enzymatic assays when tested in combination with ATP-competitive inhibitors.
-A synergistic effect in the inhibition of cell proliferation by ATP-competitive and ATP-noncompetitive compounds was also observed in prostate cancer cell lines (PC3), where all Pim-1 inhibitors tested in showed synergism with the known anticancer agent, paclitaxel.
-These results further establish Pim-1 as a target in cancer therapy, and highlight the potential of these agents for use as adjuvant agents in the treatment of cancer diseases in which Pim-1 is associated with chemotherapeutic resistance.

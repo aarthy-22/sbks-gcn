@@ -1,9 +1,0 @@
-Mice heterozygous for AChE are more sensitive to AChE inhibitors but do not respond to BuChE inhibition.
-An impaired central cholinergic system is at least partly involved in Alzheimer's disease (AD) pathogenesis, with cholinergic markers such as acetylcholinesterase (AChE) activity and protein levels decreasing as cognitive decline progresses.
-AD patients receive AChE inhibitor drugs to enhance cholinergic responses in the brain.
-The present study characterises the cholinergic system of mice heterozygous for AChE (HZ) as a suitable in vivo model for permanently reduced AChE activity.
-In comparison to homozygous, wild type (WT) mice, HZ mice show a 40% reduction of AChE activity in the brain, while their hippocampal ACh levels are increased by 56% as measured by microdialysis; choline acetyltransferase levels remain unaltered, and choline uptake increases 2-fold.
-We demonstrate that HZ mice are significantly more sensitive to local AChE inhibition (BW284c51), but remain insensitive to butyrylcholinesterase (BuChE) inhibition (bambuterol).
-HZ mice are also more sensitive to the peripheral application of the selective AChE inhibitor donepezil or the mixed inhibitor physostigmine; extracellular ACh levels rise significantly after administration of both drugs; also glucose levels are moderately increased indicating potentially non-cholinergic effects of donepezil.
-Behavioural tests show comparable cognitive function in both mouse strains.
-Our results are discussed in relation to the use of AChE/BuChE inhibitors in AD patients.

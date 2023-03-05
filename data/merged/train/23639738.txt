@@ -1,9 +1,0 @@
-Enzyme-responsive surface erosion of poly(ethylene carbonate) for controlled drug release.
-Cholesterol esterase (CE) induced surface erosion of poly(ethylene carbonate) (PEC) and drug release from PEC under mild physiological environment was investigated.
-The degradation process was monitored by changes of mass and molecular weight (MW) and surface morphology of polymer films.
-During the whole period of degradation, MW of PEC was unchanged.
-Water uptake of the polymer was only 2.8 and 0.2% for PEC with the MW of 200 kDa (PEC200) and PEC with the MW of 41 kDa (PEC41), respectively.
-Degradation of less hydrophilic PEC41 with higher density was slower than that of PEC200.
-By this mechanism, CE-responsive drug in vitro release from PEC in situ forming depots (ISFD) was conducted successfully.
-As expected, less bovine serum albumin (BSA) was released from PEC41 compared with that of PEC200 in the same time period.
-In conclusion, this work enabled the in vitro drug release evaluation of existing PEC devices and implied a new candidate for the development of enzyme-responsive systems.

@@ -1,9 +1,0 @@
-Iodine-129 microdosing for protein and peptide drug development: erythropoietin as a case study.
-BACKGROUND: Microdosing is a technique for studying the behavior of compounds in vivo at 1/100th of the dose of a test substance calculated, based on animal data, to yield a pharmacologic effect.
-In microdosing, use is made of accelerator MS (AMS).
-In this study, we investigated whether (129)I-labeling of proteins with subsequent AMS measurements is a suitable method to perform microdose studies with therapeutic proteins.
-We used erythropoietin (EPO) as a case study.
-RESULTS: In an animal study with (129)I-labeled EPO in Han-Wistar rats, an increase of (129)I-EPO is observed after dose administration.
-The half-life was found to be 2 and 5.5 h for two different EPOs.
-These results are in accordance with expected values.
-CoNCLUSION: Although further research is required, (129)I-labeling of proteins seems a feasible method for AMS microdose studies with peptide and protein drugs, such as biosimilars.

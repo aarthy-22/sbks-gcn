@@ -1,3 +1,0 @@
-Synthesis of C17-OH-north unit of ritterazine G via "Red-Ox" modifications of hecogenin acetate.
-The C17-OH-north unit of ritterazine G was prepared in 13 steps from hecogenin acetate.
-This synthesis features a highly efficient and stereoselective introduction of the C17-OH via E-ring cleavage/F-ring formation, D-ring oxidation, and F-ring cleavage/E-ring formation.

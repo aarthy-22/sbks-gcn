@@ -1,4 +1,0 @@
-Synthesis and biological evaluation of xanthine derivatives on dipeptidyl peptidase 4.
-A series of xanthine derivatives in which a methylene was inserted at position 8 of xanthine scaffold was synthesized and evaluated as inhibitors of dipeptidyl peptidase 4 (DPP-4) for the treatment of type 2 diabetes.
-As the results of structure-activity relationship (SAR) study of the series, the compounds with 4-methyl-quinazoline-2-yl-methyl group at N-1 position and 2-aminoethylaminomethyl group gave better activities.
-Compounds H4 and H9 showed good DPP-4 inhibition and more than 100-fold selectivity over DPP-7 and DPP-8.

@@ -1,5 +1,0 @@
-Design and synthesis of bicyclic pyrazinone and pyrimidinone amides as potent TF-FVIIa inhibitors.
-Bicyclic pyrazinone and pyrimidinone amides were designed and synthesized as potent TF-FVIIa inhibitors.
-SAR demonstrated that the S2 and S3 pockets of FVIIa prefer to bind small, lipophilic groups.
-An X-ray crystal structure of optimized compound 9b bound in the active site of FVIIa showed that the bicyclic scaffold provides 5 hydrogen bonding interactions in addition to projecting groups for interactions within the S1, S2 and S3 pockets.
-Compound 9b showed excellent FVIIa potency, good selectivity against FIXa, Xa, XIa and chymotrypsin, and good clotting activity.

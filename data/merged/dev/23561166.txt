@@ -1,8 +1,0 @@
-Effects of fisetin supplementation on hepatic lipogenesis and glucose metabolism in Sprague-Dawley rats fed on a high fat diet.
-The modulatory effects of daily fisetin supplementation for 8weeks on genes involved in hepatic lipogenesis and gluconeogenesis and hyperglycemia in rats fed a high fat (HF) diet were evaluated.
-Elevated levels of triglyceride (TG), along with hepatic TG content and glucose concentrations in a high fat diet group were found to be reduced by fisetin supplementation.
-The high fat diet significantly increased hepatic mRNA expressions of PPARγ, SREBP1C and SCD-1 genes in comparison to the control diet, which was subsequently reversed by supplementation with fisetin.
-In addition, fisetin supplementation significantly reduced hepatic mRNA abundance of FAS, ATPCL and G6Pase compared to the control group.
-Finally, epididymal mRNA abundance of GLUT4 was significantly increased by fisetin supplementation, compared to levels in the control and HF groups.
-Enhancement of GLUT4 expression by fisetin was further confirmed in differentiated 3T3-L1 adipocytes.
-Fisetin supplementation decreases cardiovascular risks by ameliorating hepatic steatosis and lowering circulating glucose concentrations.

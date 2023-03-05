@@ -18,6 +18,13 @@ T9	CHEMICAL 998 1019	aromatic L-amino acid
 T18	GENE-Y 998 1033	aromatic L-amino acid decarboxylase
 T10	CHEMICAL 1038 1047	glutamate
 T19	GENE-Y 1038 1061	glutamate decarboxylase
-R0	CPR-9 Arg1:T6 Arg2:T16
-R1	NOT Arg1:T8 Arg2:T19
-R2	NOT Arg1:T18 Arg2:T10
+R0	CPR-9 Arg1:T4 Arg2:T16
+R1	CPR-9 Arg1:T5 Arg2:T16
+R2	CPR-9 Arg1:T6 Arg2:T16
+R3	CPR-9 Arg1:T7 Arg2:T16
+R4	NOT Arg1:T20 Arg2:T12
+R5	NOT Arg1:T2 Arg2:T15
+R6	NOT Arg1:T8 Arg2:T18
+R7	NOT Arg1:T8 Arg2:T19
+R8	NOT Arg1:T9 Arg2:T19
+R9	NOT Arg1:T18 Arg2:T10

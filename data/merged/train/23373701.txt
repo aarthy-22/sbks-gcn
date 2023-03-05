@@ -1,9 +1,0 @@
-Dopamine D2 receptor activation leads to an up-regulation of glial cell line-derived neurotrophic factor via Gβγ-Erk1/2-dependent induction of Zif268.
-Glial cell line-derived neurotrophic factor (GDNF) is a potent growth factor essential to the development, survival, and function of dopaminergic neurons (Airaksinen and Saarma 2002).
-The molecular mechanisms underlying GDNF expression remain elusive; thus, we set out to identify a signaling pathway that governs GDNF levels.
-We found that treatment of both differentiated dopaminergic-like SH-SY5Y cells and rat midbrain slices with the dopamine D2 receptor (D2R) agonist, quinpirole, triggered an increase in the expression of GDNF that was temporally preceded by an increase in the levels of zinc-finger protein 268 (Zif268), a DNA-binding transcription factor encoded by an immediate-early gene.
-Moreover, the D2R inhibitor raclopride blocked the increase of both GDNF and Zif268 expression following potassium-evoked dopamine release in SH-SY5Y cells.
-We used adenoviral delivery of small hairpin RNA (shRNA) targeting Zif268 to down-regulate its expression and found that Zif268 is specifically required for the D2R-mediated up-regulation of GDNF.
-Furthermore, the D2R-mediated induction of GDNF and Zif268 expression was dependent on Gβγ-mediated signaling and activation of extracellular signal-regulated kinase 1/2.
-Importantly, using chromatin immunoprecipitation assay, we identified a direct association of Zif268 with the GDNF promoter.
-These results suggest that D2R activation induces a Gβγ- and extracellular signal-regulated kinase 1/2-dependent increase in the level of Zif268, which functions to directly up-regulate the expression of GDNF.

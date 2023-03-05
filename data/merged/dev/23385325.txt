@@ -1,9 +1,0 @@
-QM/MM simulations of vibrational spectra of bacteriorhodopsin and channelrhodopsin-2.
-Channelrhodopsin-2 is a light-gated ion channel, which has been studied intensively over the last decade.
-Vibrational spectroscopic experiments started to shed light on the structural changes, that occur during the photocycle, especially in the hydrogen-bonded network surrounding the protonated D156 and C128 - the DC gate.
-However, the interpretation of these experiments was only based on homology models.
-Since then, an X-ray structure and better computational models became available.
-In this article, we show that in combination with a recent reparametrization, the approximate DFT method, DFTB, is able to describe the effects of hydrogen bonding on the C[double bond, length as m-dash]O stretch vibration in carboxylic acids reliably and agrees well with full DFT results.
-We apply DFTB in a QM/MM framework to perform vibrational analysis of buried aspartic acids in bacteriorhodopsin and channelrhodopsin-2.
-Using this approach, we can simulate the FTIR spectral difference between D115 in the dark-adapted and K states of bacteriorhodopsin.
-The FTIR experiments on the DC gate in channelrhodopsin-2 are well described using an indirect model, where D156 and C128 are bridged via a water molecule.

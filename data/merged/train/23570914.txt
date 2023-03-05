@@ -1,8 +1,0 @@
-Suppression of nuclear factor erythroid 2-related factor 2 via extracellular signal-regulated kinase contributes to bleomycin-induced oxidative stress and fibrogenesis.
-Pulmonary fibrosis is a serious and irreversible lung injury with obscure etiologic mechanisms and no effective treatment to date.
-This study explored a crucial link between oxidative stress and pulmonary fibrogenesis, focusing on nuclear factor erythroid 2-related factor 2 (Nrf2), a core transcription factor in antioxidative regulation systems.
-Treatment of C57 BL/6 mice with bleomycin increased fibroblast viability and collagen production and significantly downregulated Nrf2.
-In addition, prominent oxidative stress was indicated by changes in superoxide dismutase, catalase activity, and glutathione and thiobarbituric acid-reactive substance levels.
-In a cell-based model, bleomycin suppressed Nrf2 activation via extracellular signal-related kinase phosphorylation, enhancing intracellular reactive oxygen species in lung fibroblasts and stimulating abnormal cell proliferation and collagen secretion.
-To confirm this novel mechanism of bleomycin-induced fibrogenesis, we attempted to upregulate Nrf2 and related antioxidant proteins in bleomycin-treated fibroblasts using a putative Nrf2 activator, caffeic acid phenethyl ester, and the results showed that bleomycin-induced fibroblast proliferation and collagen content were attenuated through improved redox balance.
-Collectively, these results disclose a potential regulatory mechanism in pulmonary fibrosis that will aid the development of new therapies.

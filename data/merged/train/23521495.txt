@@ -1,8 +1,0 @@
-Controlled Assembly of Gold Nanoparticles through Antibody Recognition: Study and Utilizing the Effect of Particle Size on Interparticle Distance.
-An assembly of gold nanoparticle through the recognition of unmodified antibody was developed.
-The use of peptide (Cys-Ala-Leu-Asn-Asn) as ligands to stabilize and functionalize gold nanoparticles provides technical and operational convenience.
-These peptide-capped particles in different sizes are recognized by antibody and assembly to form dimers and expanded hybrid material by controlling the conditions.
-The interparticle spacing of these assemblies was well studied with small-angle X-ray scattering measurements, and it was found that the interparticle spacing is inversely dependent on the particle size.
-This relationship of interparticle spacing and particle size is closely related to the structure of antibody linker.
-Therefore, analyzing the interparticle spacing of assemblies can reveal the equilibrium configuration of IgG. Based on the investigation, the Fab-Fab angle of IgG is obtained to be ≈102° and the Fab arms are ≈7.8 nm.
-These results provide new experimental data on the structure of flexible IgG.

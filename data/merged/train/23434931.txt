@@ -1,8 +1,0 @@
-TCF7L2 Variation and Proliferative Diabetic Retinopathy.
-Proliferative diabetic retinopathy (PDR) is the most severe vision-threatening complication of diabetes.
-To investigated genetic association between TCF7L2 and PDR in Caucasian type 2 diabetes mellitus (T2DM) and its functional consequences, 383 T2DM patients with PDR (T2DM-PDR) and 756 T2DM patients without diabetic retinopathy (T2DM-no DR) were genotyped with rs7903146 in TCF7L2.
-We found that risk allele (T) frequency of rs7903146 was significantly higher in T2DM-PDR patients (allelic P = 2.52E-04).
-In lymphoblastoid cells induced to undergo endoplasmic reticulum (ER) stress by treatment of tunicamycin, higher fold change of TCF7L2 and VEGFA mRNA levels were observed in rs7903146-TT cells than that in rs7903146-CC cells (P = 0.02 for TCF7L2; P = 0.004 for VEGFA), suggesting ER stress plays a role in PDR pathogenesis.
-Silencing TCF7L2 resulted in decreased mRNA levels of both TCF7L2 and VEGFA (P < 0.001).
-Retinas of oxygen-induced retinopathy (OIR) mice (a model for PDR) had higher TCF7L2 and VEGFA mRNA levels than controls (P = 2.9E-04 for TCF7L2; P = 1.9E-07 for VEGFA).
-Together, our study showed that TCF7L2-rs7903146 is associated with PDR in Caucasian T2DM and suggested TCF7L2 promoted pathological retinal neovascularization via ER stress-dependent upregulation of VEGFA.

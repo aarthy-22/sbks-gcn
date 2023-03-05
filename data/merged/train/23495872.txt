@@ -1,9 +1,0 @@
-Identification of Transglutaminase Substrates from Porcine Nucleus Pulposus as Potential Amplifiers in Cross-Linking Cell Scaffolds.
-Nucleus pulposus from the porcine intervertebral disc was separated chromatographically to discover substrates of microbial transglutaminase.
-Highly purified proteins were prepared, among them type II collagen, the major protein of the nucleus pulposus.
-Determination of substrates was performed by transglutaminase-mediated incorporation of biotinylated probes displaying several glutamine and lysine donor proteins.
-Type II collagen was only labeled if smaller nucleus pulposus proteins were present.
-One of the modulating proteins was serotransferrin, a lysine donor substrate of bacterial transglutaminase.
-An additional substrate was the carboxy-terminal propeptide of type II collagen, chondrocalcin.
-Chondrocalcin, a regulator of type II collagen fibrillogenesis, occurs abundantly in juvenile cartilage and nucleus pulposus.
-Accordingly, the protein may be regarded as an excellent additive for the preparation of injectable stem cells in nucleus pulposus-like matrices cross-linked by microbial transglutaminase.

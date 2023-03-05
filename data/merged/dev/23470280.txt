@@ -1,9 +1,0 @@
-Corticotropin releasing factor and catecholamines enhance glutamatergic neurotransmission in the lateral subdivision of the central amygdala.
-Glutamatergic neurotransmission in the central nucleus of the amygdala (CeA) plays an important role in many behaviors including anxiety, memory consolidation and cardiovascular responses.
-While these behaviors can be modulated by corticotropin releasing factor (CRF) and catecholamine signaling, the mechanism(s) by which these signals modify CeA glutamatergic neurotransmission remains unclear.
-Utilizing whole-cell patch-clamp electrophysiology recordings from neurons in the lateral subdivision of the CeA (CeAL), we show that CRF, dopamine (DA) and the β-adrenergic receptor agonist isoproterenol (ISO) all enhance the frequency of spontaneous excitatory postsynaptic currents (sEPSC) without altering sEPSC kinetics, suggesting they increase presynaptic glutamate release.
-The effect of CRF on sEPSCs was mediated by a combination of CRFR1 and CRFR2 receptors.
-While previous work from our lab suggests that CRFRs mediate the effect of catecholamines on excitatory transmission in other subregions of the extended amygdala, blockade of CRFRs in the CeAL failed to significantly alter effects of DA and ISO on glutamatergic transmission.
-These findings suggest that catecholamine and CRF enhancement of glutamatergic transmission onto CeAL neurons occurs via distinct mechanisms.
-While CRF increased spontaneous glutamate release in the CeAL, CRF caused no significant changes to optogenetically evoked glutamate release in this region.
-The dissociable effects of CRF on different types of glutamatergic neurotransmission suggest that CRF may specifically regulate spontaneous excitatory transmission.

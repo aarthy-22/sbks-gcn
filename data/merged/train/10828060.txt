@@ -1,9 +1,0 @@
-Peroxisome proliferator-activated receptor alpha activators improve insulin sensitivity and reduce adiposity.
-Fibrates and glitazones are two classes of drugs currently used in the treatment of dyslipidemia and insulin resistance (IR), respectively.
-Whereas glitazones are insulin sensitizers acting via activation of the peroxisome proliferator-activated receptor (PPAR) gamma subtype, fibrates exert their lipid-lowering activity via PPARalpha.
-To determine whether PPARalpha activators also improve insulin sensitivity, we measured the capacity of three PPARalpha-selective agonists, fenofibrate, ciprofibrate, and the new compound GW9578, in two rodent models of high fat diet-induced (C57BL/6 mice) or genetic (obese Zucker rats) IR.
-At doses yielding serum concentrations shown to activate selectively PPARalpha, these compounds markedly lowered hyperinsulinemia and, when present, hyperglycemia in both animal models.
-This effect relied on the improvement of insulin action on glucose utilization, as indicated by a lower insulin peak in response to intraperitoneal glucose in ciprofibrate-treated IR obese Zucker rats.
-In addition, fenofibrate treatment prevented high fat diet-induced increase of body weight and adipose tissue mass without influencing caloric intake.
-The specificity for PPARalpha activation in vivo was demonstrated by marked alterations in the expression of PPARalpha target genes, whereas PPARgamma target gene mRNA levels did not change in treated animals.
-These results indicate that compounds with a selective PPARalpha activation profile reduce insulin resistance without having adverse effects on body weight and adipose tissue mass in animal models of IR.

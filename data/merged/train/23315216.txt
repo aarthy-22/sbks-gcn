@@ -1,9 +1,0 @@
-Transaldolase deficiency: report of 12 new cases and further delineation of the phenotype.
-PURPOSE: Transaldolase deficiency is a recently described inborn error of pentose phosphate pathway.
-We conducted this study to further delineate the associated phenotype.
-METHODS AND RESULTS: We report on 12 new cases representing six families with this metabolic defect that were observed over an 8 year span.
-None of these cases received the correct diagnosis initially because of significant overlap in the presenting symptoms (growth retardation, dysmorphic features, cutis laxa, congenital heart disease, hepatosplenomegaly, pancytopenia, and bleeding tendency) with a wide range of genetic disorders.
-However, the consanguineous nature of these families allowed us to pursue autozygome analysis, which highlighted TALDO as the likely candidate gene and sequencing confirmed segregation of a novel homozygous mutation with the disease in all the studied families.
-Biochemical analysis was also consistent with transaldolase deficiency.
-CONCLUSION: This study expands the clinical definition of transaldolase deficiency, and adds to its allelic heterogeneity.
-In addition, we emphasize the diagnostic challenge posed by this rare and pleiotropic metabolic disorder.

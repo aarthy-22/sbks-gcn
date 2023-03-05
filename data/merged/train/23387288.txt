@@ -1,6 +1,0 @@
-Cytotoxic activity of Guettarda pohliana Müll.
-Arg. (Rubiaceae).
-The cytotoxic activity of crude extracts and their fractions from leaves and roots of G. pohliana was assessed against nine human cancer cell lines: melanoma (UACC-62), breast (MCF-7), breast expressing the multidrug resistance phenotype (NCI-ADR), lung (NCI-460), prostate (PCO-3), kidney (786-0), ovarian (OVCAR), colon (HT-29) and leukaemia (K-562).
-The hexane fraction from leaves (HL) and ethyl acetate (EAR), chloroform (CR) and hydromethanolic (HMR) fractions from roots were the most active fractions against K-562 with GI(50) values being lower than 1 μg mL(- 1).
-Also, CR and HMR fractions were active against UACC-62 cell line in the same order of magnitude.
-The phytochemical study of the CR fraction allowed identifying the known iridoids secoxyloganin, sweroside and loganin.

@@ -1,9 +1,0 @@
-Intercalation pathway in many-particle LiFePO4 electrode revealed by nanoscale state-of-charge mapping.
-The intercalation pathway of lithium iron phosphate (LFP) in the positive electrode of a lithium-ion battery was probed at the ∼40 nm length scale using oxidation-state-sensitive X-ray microscopy.
-Combined with morphological observations of the same exact locations using transmission electron microscopy, we quantified the local state-of-charge of approximately 450 individual LFP particles over nearly the entire thickness of the porous electrode.
-With the electrode charged to 50% state-of-charge in 0.5 h, we observed that the overwhelming majority of particles were either almost completely delithiated or lithiated.
-Specifically, only ∼2% of individual particles were at an intermediate state-of-charge.
-From this small fraction of particles that were actively undergoing delithiation, we conclude that the time needed to charge a particle is ∼1/50 the time needed to charge the entire particle ensemble.
-Surprisingly, we observed a very weak correlation between the sequence of delithiation and the particle size, contrary to the common expectation that smaller particles delithiate before larger ones.
-Our quantitative results unambiguously confirm the mosaic (particle-by-particle) pathway of intercalation and suggest that the rate-limiting process of charging is initiating the phase transformation by, for example, a nucleation-like event.
-Therefore, strategies for further enhancing the performance of LFP electrodes should not focus on increasing the phase-boundary velocity but on the rate of phase-transformation initiation.

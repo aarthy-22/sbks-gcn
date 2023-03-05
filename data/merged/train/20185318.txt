@@ -1,8 +1,0 @@
-Carbonic anhydrase inhibitors.
-Inhibition of mammalian isoforms I-XIV with a series of natural product polyphenols and phenolic acids.
-A series of phenolic acids and phenol natural products, such as p-hydroxybenzoic acid, p-coumaric acid, caffeic acid, ferulic acid, gallic acid, syringic acid, quercetin, and ellagic acid, were investigated for their inhibitory effects against the metalloenzyme carbonic anhydrase (CA, EC 4.2.1.1).
-All mammalian isozymes of human (h) or murine (m) origin hCA I-hCA XII, mCA XIII and hCA XIV were inhibited in the low micromolar or submicromolar range by these (poly)phenols (K(I)s in the range of 0.87-7.79 microM).
-p-Hydroxybenzoic acid was the best inhibitor of all isozymes (K(I)s of 0.87-35.4 microM) and the different isozymes showed very variable inhibition profiles with these derivatives.
-Phenols like the ones investigated here possess a CA inhibition mechanism distinct of that of the sulfonamides/sulfamates used clinically or the coumarins.
-Unlike the sulfonamides, which bind to the catalytic zinc ion, phenols are anchored at the Zn(II)-coordinated water molecule and bind more externally within the active site cavity, making contacts with various amino acid residues.
-As this is the region with the highest variability between the many CA isozymes found in mammals, this class of compounds may lead to isoform-selective inhibitors targeting just one or few of the medicinally relevant CAs.

@@ -1,9 +1,0 @@
-Evaluation of in vivo binding properties of 3H-NMPB and 3H-QNB in mouse brain.
-UNLABELLED: Apparent muscarinic acetylcholine (mAch) receptor occupancy in mouse cerebral cortex, hippocampus, and striatum by scopolamine, an antagonist, and biperiden, a relatively selective M1 antagonist, was estimated with competitive binding studies using two different radioligands: 3H-N-methyl piperidyl benzilate (3H-NMPB) and 3H-quinuclidinyl benzilate (3H-QNB).
-Both radioligands labeled mAch receptors in these brain regions, and the relative regional distributions of the specific binding of 3H-NMPB in vivo paralleled the distribution of mAch receptors.
-3H-NMPB binding in vivo was much more sensitive to direct competitive inhibition by scopolamine than was 3H-QNB.
-A similar discrepancy in sensitivity to competitors between 3H-NMPB and 3H-QNB was also observed when biperiden was used as a competitor, indicating that binding to different subtypes of the mAch receptor could not account for the observed differences in sensitivity to competition.
-An in vivo saturation study suggested that the apparent association rate constant (k on) of 3H-QNB binding might be changed by ligand concentration.
-The heterogeneity of the free ligand concentration in intact brain was assessed in relation to the ligand concentration dependency of the apparent association rate constant (k on) of 3H-QNB binding.
-This finding, together with the more favorable accumulation of 3H-NMPB in cerebral cortex, hippocampus, and striatum, leads us to conclude that 3H-NMPB, or its positron emitting counterpart, should be the more favorable radiotracer for the estimation of mAch receptor occupancy by cholinergic drugs in the brain.
-KEYWORDS: mAch receptor, QNB, NMPB, in vivo, mouse.

@@ -1,5 +1,0 @@
-Molecular cloning of a levocabastine-sensitive neurotensin binding site.
-A search for sequences homologous to the neurotensin receptor cDNA in a rat hypothalamic library has identified a novel neurotensin receptor (NTR-2).
-The 1539 bp cDNA encodes a 416 amino acid protein and shows highest homology to the previously cloned neurotensin receptor (NTR-1) (64% homology and 43% identity).
-Binding and pharmacological studies demonstrate that NTR-2 expressed in COS cells recognizes neurotensin (NT) with high affinity as well as several other agonists and antagonists.
-However, a fundamental difference was found; unlike NTR-1, NTR-2 recognizes, with high affinity, levocabastine, a histamine H1 receptor antagonist previously shown to compete with NT for low-affinity binding sites in brain.

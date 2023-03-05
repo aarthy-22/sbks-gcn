@@ -1,8 +1,0 @@
-Rutin- and Selenium-attenuated cadmium-induced testicular pathophysiology in rats.
-Cadmium (Cd) is known to cause oxidative damage in the testes of rats.
-The aim of this study was to investigate the protective role of rutin (RUT, 30 mg/kg) and selenium (Se, 0.15 ppm) alone or in combination against Cd (200 ppm)-induced lipid peroxidation, steroidogenesis and changes in antioxidant defence system in the rat testes.
-The obtained results showed that Cd increased lipid peroxidation and abnormal sperm count and decreased plasma testosterone, lactate dehydrogenase, acid phosphatase, alkaline phosphatase and testicular steroidogenic enzymes: 3β-hydroxysteroid dehydrogenase (HSD), 17β-HSD activities as well as epididymal sperm counts and motility, while RUT and Se treatment reversed this change to control values.
-Acute intoxication with Cd was also followed by significantly decreased activity of the antioxidant defence system (superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GSH-Px), glutathione reductase (GR), glutathione (GSH), and glutathione-S-transferase (GST)).
-Treatment with RUT and Se reversed Cd-induced alterations of antioxidant defence system and significantly prevented Cd-induced testes damage and depletion of plasma and testicular Se levels.
-RUT and Se appear not to have more profound effects than their separate effects against Cd-induced testicular toxicity, although Se was more potent than RUT in the recovery of testosterone levels.
-These results suggest that both RUT and Se do not have synergistic role against Cd-induced testicular injury.

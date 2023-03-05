@@ -17,4 +17,11 @@ T6	CHEMICAL 1639 1663	steroidal glycoalkaloids
 T7	CHEMICAL 1685 1703	furostanol saponin
 T8	CHEMICAL 1865 1885	steroidal glycosides
 T9	CHEMICAL 2045 2065	steroidal glycosides
-R0	NOT Arg1:T13 Arg2:T18
+R0	CPR-3 Arg1:T1 Arg2:T17
+R1	NOT Arg1:T13 Arg2:T18
+R2	NOT Arg1:T13 Arg2:T19
+R3	NOT Arg1:T14 Arg2:T18
+R4	NOT Arg1:T14 Arg2:T19
+R5	NOT Arg1:T15 Arg2:T18
+R6	NOT Arg1:T15 Arg2:T19
+R7	NOT Arg1:T2 Arg2:T17

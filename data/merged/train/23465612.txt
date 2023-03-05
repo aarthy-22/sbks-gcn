@@ -1,5 +1,0 @@
-Structure-based design of novel dihydroisoquinoline BACE-1 inhibitors that do not engage the catalytic aspartates.
-The structure-activity relationship of a series of dihydroisoquinoline BACE-1 inhibitors is described.
-Application of structure-based design to screening hit 1 yielded sub-micromolar inhibitors.
-Replacement of the carboxylic acid of 1 was guided by X-ray crystallography, which allowed the replacement of a key water-mediated hydrogen bond.
-This work culminated in compounds such as 31, which possess good BACE-1 potency, excellent permeability and a low P-gp efflux ratio.

@@ -1,6 +1,0 @@
-Effect of ramelteon (TAK-375), a selective MT1/MT2 receptor agonist, on motor performance in mice.
-Effect of (S)-N-[2-(1,6,7,8-tetrahydro-2H-indeno-[5,4-b]furan-8-yl)ethyl]propionamide (ramelteon, TAK-375), a selective MT1/MT2 receptor agonist, on motor coordination was studied using rota-rod performance in mice.
-Ramelteon did not impair rota-rod performance at doses of 3, 10 and 30 mg/kg, p.o.
-Melatonin and N-acetyl-5-hydroxytryptamine (N-acetyl-5-HT), a ligand of MT3 biding site, also had no impairment on the performance, per se.
-However, in combination with a low dose of diazepam (3mg/kg, p.o.), treatment with melatonin and N-acetyl-5-HT exacerbated the impairment by diazepam.
-Ramelteon had no significant effect on the diazepam-induced impairment of motor coordination.

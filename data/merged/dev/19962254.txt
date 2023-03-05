@@ -1,9 +1,0 @@
-Breast cancer and steroid metabolizing enzymes: the role of progestogens.
-It is well documented that breast tissue, both normal and cancerous, contains all the enzymatic systems necessary for the bioformation and metabolic transformation of estrogens, androgens and progesterone.
-These include sulfatases, aromatase, hydroxysteroid-dehydrogenases, sulfotransferases, hydroxylases and glucuronidases.
-The control of these enzymes plays an important role in the development and pathogenesis of hormone-dependent breast cancer.
-As discussed in this review, various progestogens including dydrogesterone and its 20alpha-dihydro-derivative, medrogestone, promegestone, nomegestrol acetate and norelgestromin can reduce intratissular levels of estradiol in breast cancer by blocking sulfatase and 17beta-hydroxysteroid-dehydrogenase type 1 activities.
-A possible correlation has been postulated between breast cell proliferation and estrogen sulfotransferase activity.
-Progesterone is largely transformed in the breast; normal breast produces mainly 4-ene derivatives, whereas 5alpha-derivatives are most common in breast cancer tissue.
-It has been suggested that this specific conversion of progesterone may be involved in breast carcinogenesis.
-In conclusion, treatment with anti-aromatases combined with anti-sulfatase or 17beta-hydroxysteroid-dehydrogenase type 1 could provide new therapeutic possibilities in the treatment of patients with hormone-dependent breast cancer.

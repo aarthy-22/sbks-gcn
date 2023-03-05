@@ -1,9 +1,0 @@
-High levels of ephrinB2 over-expression increases the osteogenic differentiation of human mesenchymal stem cells and promotes enhanced cell mediated mineralisation in a polyethyleneimine-ephrinB2 gene-activated matrix.
-Gene therapy can be combined with tissue engineering constructs to produce gene-activated matrices (GAMs) with enhanced capacity for repair.
-Polyethyleneimine (PEI), a non-viral vector, has previously been optimised for high efficiency gene transfer in rat mesenchymal stem cells (rMSCs).
-The use of PEI to transfect human MSCs (hMSCs) with ephrinB2 is assessed here.
-Recently a role for the ephrinB2 ligand and EphB4 receptor duo has been proposed in bone remodelling.
-Herein, over-expression of the ephrinB2 ligand resulted in increased osteogenic differentiation in hMSCs.
-As ephrinB2 is a cell surface anchored ligand which only interacts with cells expressing the cognate EphB4 receptor through direct contact, we have shown that direct cell-cell contact between two neighbouring cells is responsible for enhanced osteogenesis.
-In an effort to begin to elucidate the molecular mechanisms at play downstream of ephrinB2 over-expression, RT-PCR was performed on the GAMs which revealed no significant changes in runx2 or BMP2 expression but an upregulation of osterix (Osx) and Dlx5 expression prompting the belief that the mode of osteogenesis is independent of the BMP2 pathway.
-This select interaction, coupled with the transient gene expression profile of PEI, makes the PEI-ephrinB2 GAM an ideal candidate matrix for a bone targeted GAM.

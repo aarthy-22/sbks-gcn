@@ -1,6 +1,0 @@
-Triterpenes from the Aerial Parts of Cimicifuga yunnanensis and Their Antiproliferative Effects on p53(N236S) Mouse Embryonic Fibroblasts.
-Nine new triterpene derivatives, yunnanterpenes A-F (1-6), 15,16-seco-cimiterpenes A and B (7, 8), and cimilactone C (9), and 15 known analogues (10-24) were isolated from the aerial parts of Cimicifuga yunnanensis.
-The new structures were established using a combination of MS, NMR, and single-crystal X-ray diffraction techniques.
-WT MEFs (wild-type mouse embryonic fibroblasts) and tumorigenic cell lines p53(-/-)+H-RasV12 and p53(-/-)+p53(N236S)+H-RasV12 were used for evaluating active structures, targeting p53(N236S) (corresponding to p53(N239S) in humans) mutation.
-Compound 5 showed nonselective activities against these cell lines, with IC50 values of 5.8, 8.6, and 6.0 μM, respectively.
-Compound 4 exhibited greater selectivity against the p53(-/-)+p53(N236S)+H-RasV12 cells (IC50 5.5 μM) than against the WT MEFs cells (IC50 14.3 μM).

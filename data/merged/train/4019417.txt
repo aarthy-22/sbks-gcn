@@ -1,4 +1,0 @@
-Glutathione-independent maleylacetoacetate isomerase in gram-positive bacteria.
-Nocardia globerula CL1 produced a glutathione-independent maleylacetoacetate isomerase after growth on L-tyrosine.
-Partial purification of this isomerase demonstrated its independence of low-molecular-weight cofactors such as glutathione.
-Similar glutathione-independent maleylacetoacetate isomerases were present in three other gram-positive bacteria grown on tyrosine.

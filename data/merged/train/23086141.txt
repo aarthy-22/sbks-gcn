@@ -1,9 +1,0 @@
-Stress-dependent and gender-specific neuroregulatory roles of the apelin receptor in the hypothalamic-pituitary-adrenal axis response to acute stress.
-The neuropeptide apelin is expressed in hypothalamic paraventricular and supraoptic nuclei and mediates its effects via activation of the apelin receptor (APJ).
-Evidence suggests a role for apelin and APJ in mediating the neuroendocrine response to stress.
-To understand the physiological role of APJ in regulation of the hypothalamic-pituitary-adrenal (HPA) axis, we measured ACTH and corticosterone (CORT) plasma levels in male and female mice lacking APJ (APJ knockout, APJ KO) and in wild-type controls, in response to a variety of acute stressors.
-Exposure to mild restraint, systemic injection of lipopolysaccharide (LPS), insulin-induced hypoglycaemia and forced swim (FS) stressors, elevated plasma ACTH and CORT levels in wild-type mice.
-Acute mild restraint significantly increased plasma ACTH and CORT to a similar level in APJ KO mice as in wild-type mice.
-However, an intact APJ was required for a conventional ACTH, but not CORT, response to LPS administration in male mice and to insulin-induced hypoglycaemia in male and female mice.
-In contrast, APJ KO mice displayed an impaired CORT response to acute FS stress, regardless of gender.
-These data indicate that APJ has a role in regulation of the HPA axis response to some acute stressors and has a gender-specific function in peripheral immune activation of the HPA axis.

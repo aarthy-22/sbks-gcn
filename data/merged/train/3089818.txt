@@ -1,9 +1,0 @@
-Intestinal permeability and lactose hydrolysis in human rotaviral gastroenteritis assessed simultaneously by non-invasive differential sugar permeation.
-Changes in intestinal permeability and lactose hydrolysis have been investigated in three adults and fifteen infants with acute rotaviral gastroenteritis by differential sugar absorption.
-The method involves chromatographic measurement of urinary lactose, lactulose and L-rhamnose excretion following combined ingestion in an iso-osmolar test solution.
-All patients had abnormal intestinal permeability indicated by raised urine lactulose/L-rhamnose excretion, ratio of percentages recovered in 5 h, of 0.462 (0.100-1.227) mean and range, compared with 0.027 (0.008-0.052) for healthy controls (P less than 0.001).
-Ten patients also had urinary lactose/lactulose excretion ratios raised above the normal range (0.014-0.41, mean 0.258) during their acute illness, indicating impaired intestinal lactose hydrolysis.
-Both indices had become normal 4 weeks after the acute illness, serial investigation of five patients showing that improvement was complete much earlier.
-Except for the short duration these changes are similar to those associated with villous atrophy in coeliac disease.
-The test procedure was verified with respect to intestinal lactose hydrolysis by demonstrating a linear relationship between lactose/lactulose excretion and log jejunal mucosal lactase activity by in vitro assay (R2 = 0.95) in a further group of subjects.
-Differential lactose/lactulose/L-rhamnose absorption provides a non-invasive and sensitive index of small intestinal integrity of value for the interpretation of prolonged or otherwise complicated enteritis and the distinction of primary secondary intestinal lactase deficiency.

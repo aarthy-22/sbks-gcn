@@ -1,9 +1,0 @@
-Fbxl10/Kdm2b recruits polycomb repressive complex 1 to CpG islands and regulates H2A ubiquitylation.
-Polycomb repressive complex 1 (PRC1) catalyzes lysine 119 monoubiquitylation on H2A (H2AK119ub1) and regulates pluripotency in embryonic stem cells (ESCs).
-However, the mechanisms controlling the binding of PRC1 to genomic sites and its catalytic activity are poorly understood.
-Here, we show that Fbxl10 interacts with Ring1B and Nspc1, forming a noncanonical PRC1 that is required for H2AK119ub1 in mouse ESCs.
-Genome-wide analyses reveal that Fbxl10 preferentially binds to CpG islands and colocalizes with Ring1B on Polycomb target genes.
-Notably, Fbxl10 depletion causes a decrease in Ring1B binding to target genes and a major loss of H2AK119ub1.
-Furthermore, genetic analyses demonstrate that Fbxl10 DNA binding capability and integration into PRC1 are required for H2AK119 ubiquitylation.
-ESCs lacking Fbxl10, like previously characterized Polycomb mutants, cannot differentiate properly.
-These results demonstrate that Fbxl10 has a key role in regulating Ring1B recruitment to its target genes and H2AK119 ubiquitylation in ESCs.

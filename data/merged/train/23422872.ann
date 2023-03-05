@@ -1,3 +1,4 @@
 T2	CHEMICAL 69 78	peramivir
 T1	CHEMICAL 294 303	peramivir
 T3	GENE-N 313 326	neuraminidase
+R0	CPR-4 Arg1:T1 Arg2:T3

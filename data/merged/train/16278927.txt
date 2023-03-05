@@ -1,6 +1,0 @@
-In vitro inhibitory effects of non-steroidal anti-inflammatory drugs on 4-methylumbelliferone glucuronidation in recombinant human UDP-glucuronosyltransferase 1A9--potent inhibition by niflumic acid.
-The inhibitory potencies of non-steroidal anti-inflammatory drugs (NSAIDs) on UDP-glucuronosyltransferase (UGT) 1A9 activity were investigated in recombinant human UGT1A9 using 4-methylumbelliferone (4-MU) as a substrate for glucuronidation.
-4-MU glucuronidation (4-MUG) showed Michaelis-Menten kinetics with a Km value of 6.7 microM. The inhibitory effects of the following seven NSAIDs were investigated: acetaminophen, diclofenac, diflunisal, indomethacin, ketoprofen, naproxen and niflumic acid.
-Niflumic acid had the most potent inhibitory effect on 4-MUG with an IC50 value of 0.0341 microM. The IC50 values of diflunisal, diclofenac and indomethacin were 1.31, 24.2, and 34.1 microM, respectively, while acetaminophen, ketoprofen and naproxen showed less potent inhibition.
-Niflumic acid, diflunisal, diclofenac and indomethacin inhibited 4-MUG competitively with Ki values of 0.0275, 0.710, 53.3 and 69.9 microM, respectively, being similar to each IC50 value.
-In conclusion, of the seven NSAIDs investigated, niflumic acid was the most potent inhibitor of recombinant UGT1A9 via 4-MUG in a competitive manner.

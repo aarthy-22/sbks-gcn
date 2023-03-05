@@ -19,4 +19,7 @@ T5	GENE-N 1185 1188	CBP
 T6	GENE-Y 1233 1265	microtubule-associated protein 2
 T7	GENE-Y 1267 1271	MAP2
 T8	GENE-N 1351 1371	neurotrophic factors
-R0	NOT Arg1:T2 Arg2:T10
+R0	NOT Arg1:T1 Arg2:T9
+R1	NOT Arg1:T1 Arg2:T10
+R2	NOT Arg1:T2 Arg2:T9
+R3	NOT Arg1:T2 Arg2:T10

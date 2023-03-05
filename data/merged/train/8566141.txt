@@ -1,6 +1,0 @@
-Amantadine induces c-fos in rat striatum: reversal with dopamine D1 and NMDA receptor antagonists.
-Amantadine (1-aminoadamantane) induced Fos expression in the central, dorsal-medial and ventral-medial part of the striatum.
-The distribution pattern of Fos induced by amantadine was more similar to those seen with dopaminomimetics than with N-methyl-D-aspartate (NMDA) receptor antagonists.
-Pretreatment with the dopamine D1 receptor antagonist, SCH23390, and the NMDA receptor antagonist, MK-801, blocked amantadine induction of Fos in the striatum.
-However, amantadine induction of Fos in the striatum was unaffected by the dopamine D2 receptor antagonist, sulpiride.
-These results suggest that amantadine induction of Fos in the rat striatum is related to dopamine D1 and NMDA receptors.

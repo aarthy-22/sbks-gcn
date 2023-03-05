@@ -1,7 +1,0 @@
-Effect of thiazinotrienomycin B, an ansamycin antibiotic, on the function of epidermal growth factor receptor in human stomach tumor cells.
-Thiazinotrienomycin B (TT-B), an ansamycin isolated from fermentation broths of Streptomyces sp. MJ672-m3, inhibited the growth in vitro of human stomach tumor SC-6 cells over 10 times more strongly than the growth of other human tumor cells, such as HeLa (cervix), T24 (bladder) and LX-1 (lung).
-The extent of growth inhibition by TT-B of SC-6, but not of LX-1 nor T24, was lowered in a competitive manner by raising serum concentrations in the culture medium.
-TT-B inhibited the cell cycle progression of SC-6 at an early stage of the progression from G0/G1 to S. The inhibition was again competitive with serum concentrations in the culture medium.
-No direct inhibition of DNA synthesis was observed at the concentration range which caused the cell cycle arrest.
-TT-B and anti-epidermal growth factor receptor (anti-EGFR) were antagonistic to each other in inhibiting the cell cycle progression of SC-6 from G0/G1 to S, suggesting that the two compounds share the same target, EGFR.
-The kinase activity of EGFR was little inhibited by TT-B in a cell-free system.

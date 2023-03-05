@@ -1,8 +1,0 @@
-Cyclooxygenase-1-coupled prostaglandin biosynthesis constitutes an essential prerequisite for skin repair.
-This investigation demonstrated a functional coupling between cyclooxygenase-1 (cox) and prostaglandin E2/D2 biosynthesis in murine skin repair.
-Cyclooxygenase-1 expression decreased transiently after excisional wounding, and this was followed by a marked fall in the rate of prostaglandin E2/D2 biosynthesis at the wound site.
-Expression of cyclooxygenase-1, prostaglandin synthases, and prostaglandin E2/D2 production were colocalized in new tissue at the margin of the wound.
-Although cyclooxygenase-2 expression was strongly induced in granulation tissue on injury, this isoform did not contribute to high prostaglandin E2/D2 concentrations in wounds.
-Accordingly, wound tissue from SC-560-treated mice (selective cyclooxygenase-1 inhibitor) and diclofenac-treated mice (nonselective cyclooxygenase inhibitor), but not celecoxib-treated mice (selective cyclooxygenase-2 inhibitor), and wound tissue from cyclooxygenase-1-deficient animals exhibited a severe loss of prostaglandin E2/D2 at the wound site, and this change was associated with an impairment in the normal wound morphology.
-Topically administered prostaglandin E2 (dinoprostone) was able to restore normal wound repair to diclofenac-treated mice.
-In contrast to the presence of an injury-induced cyclooxygenase-2, these data constitute strong evidence that cyclooxygenase-1-coupled prostaglandin E2/D2 biosynthesis has a central role in skin repair.

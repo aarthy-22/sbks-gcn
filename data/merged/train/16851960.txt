@@ -1,8 +1,0 @@
-Methyl transfer in glycine N-methyltransferase.
-A theoretical study.
-Density functional theory calculations using the hybrid functional B3LYP have been performed to study the methyl transfer step in glycine N-methyltransferase (GNMT).
-This enzyme catalyzes the S-adenosyl-L-methionine (SAM)-dependent methylation of glycine to form sarcosine.
-The starting point for the calculations is the recent X-ray crystal structure of GNMT complexed with SAM and acetate.
-Several quantum chemical models with different sizes, employing up to 98 atoms, were used.
-The calculations demonstrate that the suggested mechanism, where the methyl group is transferred in a single S(N)2 step, is thermodynamically plausible.
-By adding or eliminating various groups at the active site, it was furthermore demonstrated that hydrogen bonds to the amino group of the glycine substrate lower the reaction barrier, while hydrogen bonds to the carboxylate group raise the barrier.

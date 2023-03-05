@@ -1,9 +1,0 @@
-Narirutin fraction from citrus peels attenuates alcoholic liver disease in mice.
-This study aimed to demonstrate protective activities of the narirutin fraction from peels of Citrus unshiu against ethanol-induced hepatic damage through an animal study.
-Citrus narirutin fraction (CNF), contained 75% of narirutin, was obtained by an ultra-sonicated extraction and further purification.
-ICR mice were divided into four groups; normaldiet control, ethanol control (6.5g ethanol/kg), low-CNF (ethanol+150mg CNF/kg) and high-CNF (ethanol+300mg CNF/kg) groups.
-Consumption of alcohol for 8weeks induced severe liver damage with increases in prognostic indicators such as aspartate transaminase, alanine transaminase in serum whereas co-administration of CNF suppressed their increases.
-Excessive accumulations in liver TG and TC in ethanol control group were also suppressed by co-administration of CNF.
-Co-administration of CNF maintained SOD activity, GSH and malondialdehyde levels close to those of the normal diet group.
-Chronic consumption of alcohol also stimulated abrupt increases in pro-inflammatory cytokines such as nuclear factor (NF)-κB, tumor necrosis factor (TNF)-α and interleukin (IL)-1β in liver otherwise co-administration of CNF effectively suppressed production of these cytokines dose-dependently.
-These results indicate that co-administration of CNF with alcohol can alleviate alcohol induced liver damage through preventing lipid formation, protecting antioxidant system and suppressing productions of pro-inflammatory cytokines.

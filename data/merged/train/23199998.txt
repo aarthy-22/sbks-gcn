@@ -1,7 +1,0 @@
-Determination of paralytic shellfish poisoning toxins by HILIC-MS/MS coupled with dispersive solid phase extraction.
-This paper describes the use of QuEChERS (Quick, Easy, Cheap, Effective, Rugged and Safe) for the extraction, cleanup and detection of 10 paralytic shellfish toxins (PSP) in sea food by HILIC-MS/MS with positive ESI.
-Matrix matched calibration standards were used to compensate for matrix effects.
-The toxins were extracted with acetonitrile/water (90:10, v/v) containing 0.1% formic acid and cleaned by HLB and GCB sorbents.
-Qualitative and quantitative detection for the analytes were carried out under the multiple reaction monitoring (MRM) in positive ionization mode after chromatography separation on a TSK-gel Amide-80® column (150 mm×2.0 mm×3 μm).
-Studies at three fortification levels for the toxins in the range of 8.1-225.5 μg/kg gave mean recoveries from 71.3% to 104.6% with relative standard deviation (RSD) ≤ 15.8%.
-The limit of detection (LOD) was below the recommended regulatory limit of 170 μgSTX(equ.)/kg and the proposed method fully meets the needs of daily monitoring.

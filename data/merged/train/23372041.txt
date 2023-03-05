@@ -1,7 +1,0 @@
-Novel locus including FGF21 is associated with dietary macronutrient intake.
-Dietary intake of macronutrients (carbohydrate, protein, and fat) has been associated with risk of chronic conditions such as obesity and diabetes.
-Family studies have reported a moderate contribution of genetics to variation in macronutrient intake.
-In a genome-wide meta-analysis of a population-based discovery cohort (n = 33 533), rs838133 in FGF21 (19q13.33), rs197273 near TRAF family member-associated NF-kappa-B activator (TANK) (2p24.2), and rs10163409 in FTO (16q12.2) were among the top associations (P < 10(-5)) for percentage of total caloric intake from protein and carbohydrate.
-rs838133 was replicated in silico in an independent sample from the Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium (CHARGE) Nutrition Working Group (n = 38 360) and attained genome-wide significance in combined analysis (Pjoint = 7.9 × 10(-9)).
-A cytokine involved in cellular metabolism, FGF21 is a potential susceptibility gene for obesity and type 2 diabetes.
-Our results highlight the potential of genetic variation for determining dietary macronutrient intake.

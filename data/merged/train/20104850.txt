@@ -1,4 +1,0 @@
-Subtlety of the structure-affinity and structure-efficacy relationships around a nonpeptide oxytocin receptor agonist.
-Very few nonpeptide oxytocin agonists have currently been reported, and none of them seem suitable for the in vivo investigation of the oxytocin mediated functions.
-In an attempt to rationalize the design of better tools, we have systematically studied the structural determinants of the affinity and efficacy of representative ligands of the V(1a), V(2), and OT receptor subtypes.
-Despite apparently obvious similarity between the ligand structures on one hand, and between the receptor subtypes on the other hand, the binding affinity and the functional activity profiles of truncated and hybrid ligands highlight the subtlety of ligand-receptor interactions for obtaining nonpeptide OT receptor agonists.

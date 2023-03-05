@@ -1,8 +1,0 @@
-Human exposure to mycotoxins and their masked forms through cereal-based foods in Belgium.
-In the present study, a quantitative dietary exposure assessment of mycotoxins and their masked forms was conducted on a national representative sample of the Belgian population using the contamination data of cereal-based foods.
-Cereal-based food products (n=174) were analysed for the occurrence of deoxynivalenol, 3-acetyldeoxynivalenol, 15-acetyldeoxynivalenol, zearalenone, α-zearalenol, β-zearalenol, T-2-toxin, HT-2-toxin, and their respective masked forms, including, deoxynivalenol-3-glucoside, zearalenone-4-glucoside, α-zearalenol-4-glucoside, β-zearalenol-4-glucoside and zearalenone-4-sulfate.
-Fibre-enriched bread, bran-enriched bread, breakfast cereals, popcorn and oatmeal were collected in Belgian supermarkets according to a structured sampling plan and analysed during the period from April 2010 to October 2011.
-The habitual intake of these food groups was estimated from a national representative food intake survey.
-According to a probabilistic exposure analysis, the mean (and P95) mycotoxin intake for the sum of the deoxynivalenol-equivalents, zearalenone-equivalents, and the sum of HT-2-and T-2-toxin for all cereal-based foods was 0.1162 (0.4047, P95), 0.0447 (0.1568, P95) and 0.0258 (0.0924, P95) μg kg(-1)body weight day(-1), respectively.
-These values were below the tolerable daily intake (TDI) levels for deoxynivalenol, zearalenone and the sum of T-2 and HT-2 toxin (1.0, 0.25 and 0.1 μg kg(-1)body weight day(-1), respectively).
-The absolute level exceeding the TDI for all cereal-based foods was calculated, and recorded 0.85%, 2.75% and 4.11% of the Belgian population, respectively.

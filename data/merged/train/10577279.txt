@@ -1,5 +1,0 @@
-A novel mutation of the erythroid-specific gamma-Aminolevulinate synthase gene in a patient with non-inherited pyridoxine-responsive sideroblastic anemia.
-A novel missense mutation, G663A, in exon 5 of the erythroid-specific delta-aminolevulinate synthase gene (ALAS2) was identified in a Japanese male with pyridoxine-responsive sideroblastic anemia.
-Activity of the mutant delta-aminolevulinate synthase protein expressed in vitro was 15.1% compared with the normal control, but was increased up to 34.5% by the addition of pyridoxal 5'-phosphate, consistent with the clinical response of the patient to pyridoxine treatment.
-The same mutation was also detected in genomic DNa from the oral mucosal membrane of the patiet; however, it was not detected in other family member.
-These findings suggest that this G663A mutation is responsible for sideroblastic anemia in the proband, and may be an index mutation in this pedigree.

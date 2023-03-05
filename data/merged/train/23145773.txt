@@ -1,7 +1,0 @@
-Structural optimization of 2,5-thiophene amides as highly potent and selective 17β-hydroxysteroid dehydrogenase type 2 inhibitors for the treatment of osteoporosis.
-Inhibition of 17β-HSD2 is an attractive mechanism for the treatment of osteoporosis.
-We report here the optimization of human 17β-HSD2 inhibitors in the 2,5-thiophene amide class by varying the size of the linker (n equals 0 and 2) between the amide moiety and the phenyl group.
-While none of the phenethylamides (n = 2) were active, most of the anilides (n = 0) turned out to moderately or strongly inhibit 17β-HSD2.
-The four most active compounds showed an IC₅₀ of around 60 nM and a very good selectivity toward 17β-HSD1, 17β-HSD4, 17β-HSD5, 11β-HSD1, 11β-HSD2 and the estrogen receptors α and β.
-The investigated compounds inhibited monkey 17β-HSD2 moderately, and one of them showed good inhibitory activity on mouse 17β-HSD2.
-SAR studies allowed a first characterization of the human 17β-HSD2 active site, which is predicted to be considerably larger than that of 17β-HSD1.

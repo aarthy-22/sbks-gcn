@@ -1,5 +1,0 @@
-Synthesis and biological evaluation of analogues of the kinase inhibitor nilotinib as Abl and Kit inhibitors.
-The importance of the trifluoromethyl group in the polypharmacological profile of nilotinib was investigated.
-Molecular editing of nilotinib led to the design, synthesis and biological evaluation of analogues where the trifluoromethyl group was replaced by a proton, fluorine and a methyl group.
-While these analogues were less active than nilotinib toward Abl, their activity toward Kit was comparable, with the monofluorinated analogue being the most active.
-Docking of nilotinib and of analogues 2a-c to the binding pocket of Abl and of Kit showed that the lack of shape complementarity in Kit is compensated by the stabilizing effect from its juxtamembrane region.

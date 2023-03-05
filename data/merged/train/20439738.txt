@@ -1,7 +1,0 @@
-Identification of select glucocorticoids as Smoothened agonists: potential utility for regenerative medicine.
-Regenerative medicine holds the promise of replacing damaged tissues largely by stem cell activation.
-Hedgehog signaling through the plasma membrane receptor Smoothened (Smo) is an important process for regulating stem cell proliferation.
-The development of Hedgehog-related therapies has been impeded by a lack of US Food and Drug Administration (FDA)-approved Smo agonists.
-Using a high-content screen with cells expressing Smo receptors and a beta-arrestin2-GFP reporter, we identified four FDA-approved drugs, halcinonide, fluticasone, clobetasol, and fluocinonide, as Smo agonists that activate Hedgehog signaling.
-These drugs demonstrated an ability to bind Smo, promote Smo internalization, activate Gli, and stimulate the proliferation of primary neuronal precursor cells alone and synergistically in the presence of Sonic Hedgehog protein.
-Halcinonide, fluticasone, clobetasol, and fluocinonide provide an unprecedented opportunity to develop unique clinical strategies to treat Hedgehog-dependent illnesses.

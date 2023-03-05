@@ -1,9 +1,0 @@
-Rosiglitazone inhibits acyl-CoA synthetase activity and fatty acid partitioning to diacylglycerol and triacylglycerol via a peroxisome proliferator-activated receptor-gamma-independent mechanism in human arterial smooth muscle cells and macrophages.
-Rosiglitazone is an insulin-sensitizing agent that has recently been shown to exert beneficial effects on atherosclerosis.
-In addition to peroxisome proliferator-activated receptor (PPAR)-gamma, rosiglitazone can affect other targets, such as directly inhibiting recombinant long-chain acyl-CoA synthetase (ACSL)-4 activity.
-Because it is unknown if ACSL4 is expressed in vascular cells involved in atherosclerosis, we investigated the ability of rosiglitazone to inhibit ACSL activity and fatty acid partitioning in human and murine arterial smooth muscle cells (SMCs) and macrophages.
-Human and murine SMCs and human macrophages expressed Acsl4, and rosiglitazone inhibited Acsl activity in these cells.
-Furthermore, rosiglitazone acutely inhibited partitioning of fatty acids into phospholipids in human SMCs and inhibited fatty acid partitioning into diacylglycerol and triacylglycerol in human SMCs and macrophages through a PPAR-gamma-independent mechanism.
-Conversely, murine macrophages did not express ACSL4, and rosiglitazone did not inhibit ACSL activity in these cells, nor did it affect acute fatty acid partitioning into cellular lipids.
-Thus, rosiglitazone inhibits ACSL activity and fatty acid partitioning in human and murine SMCs and in human macrophages through a PPAR-gamma-independent mechanism likely to be mediated by ACSL4 inhibition.
-Therefore, rosiglitazone might alter the biological effects of fatty acids in these cells and in atherosclerosis.

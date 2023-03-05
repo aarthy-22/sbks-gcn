@@ -16,4 +16,5 @@ T14	GENE-N 1040 1053	streptokinase
 T15	GENE-Y 1075 1086	plasminogen
 T3	GENE-N 1088 1101	streptokinase
 R0	NOT Arg1:T1 Arg2:T10
-R1	NOT Arg1:T2 Arg2:T11
+R1	NOT Arg1:T1 Arg2:T11
+R2	NOT Arg1:T2 Arg2:T11

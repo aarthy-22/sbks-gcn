@@ -1,8 +1,0 @@
-Hepatocyte growth factor activator inhibitor type 2 (HAI-2) modulates hepcidin expression by inhibiting the cell surface protease matriptase-2.
-Matriptase-2, a recently identified cell surface protease, is the key enzyme of iron homoeostasis modulating the expression of the liver peptide hormone hepcidin.
-HAI (hepatocyte growth factor activator inhibitor) types 1 and 2 (HAI-1 and HAI-2 respectively) have been shown to inhibit the close homologue, i.e. matriptase.
-By co-expressing matriptase-2 and the inhibitor HAI-2 we have identified HAI-2 displaying high inhibitory potential against matriptase-2 at the cell surface as well as in conditioned medium.
-Accordingly, complex formation between matriptase-2 and HAI-2 was demonstrated by isolation of the complex via immobilizing either HAI-2 or matriptase-2 from lysates and conditioned medium of co-expressing cells.
-Furthermore, HAI-2 indirectly influences the expression of the hepcidin-encoding gene HAMP.
-The inhibitor abrogates the matriptase-2-mediated suppression of HAMP expression, presumably by inhibiting the supposed potential of matriptase-2 to cleave membrane-bound HJV (haemojuvelin).
-Taken together, the results of the present study have characterized HAI-2 as an inhibitor of matriptase-2 that modulates the synthesis of hepcidin and provides new insights into the regulatory mechanism of iron homoeostasis, with clinical importance for a treatment of iron overload diseases.

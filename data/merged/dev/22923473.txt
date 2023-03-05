@@ -1,6 +1,0 @@
-Liver glycogen loading dampens glycogen synthesis seen in response to either hyperinsulinemia or intraportal glucose infusion.
-The purpose of this study was to determine the effect of liver glycogen loading on net hepatic glycogen synthesis during hyperinsulinemia or hepatic portal vein glucose infusion in vivo.
-Liver glycogen levels were supercompensated (SCGly) in two groups (using intraportal fructose infusion) but not in two others (Gly) during hyperglycemic-normoinsulinemia.
-Following a 2-h control period during which fructose infusion was stopped, there was a 2-h experimental period in which the response to hyperglycemia plus either 4× basal insulin (INS) or portal vein glucose infusion (PoG) was measured.
-Increased hepatic glycogen reduced the percent of glucose taken up by the liver that was deposited in glycogen (74 ± 3 vs. 53 ± 5% in Gly+INS and SCGly+INS, respectively, and 72 ± 3 vs. 50 ± 6% in Gly+PoG and SCGly+PoG, respectively).
-The reduction in liver glycogen synthesis in SCGly+INS was accompanied by a decrease in both insulin signaling and an increase in AMPK activation, whereas only the latter was observed in SCGly+PoG. These data indicate that liver glycogen loading impairs glycogen synthesis regardless of the signal used to stimulate it.

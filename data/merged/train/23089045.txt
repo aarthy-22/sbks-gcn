@@ -1,9 +1,0 @@
-Developmental consequences of the ColQ/MuSK interactions.
-CollagenQ (ColQ) is a specific collagen that anchors acetylcholinesterase (AChE) in the synaptic basal lamina of the neuromuscular junction (NMJ).
-Over 30 mutations in the COLQ gene have been identified that are responsible for a congenital myasthenic syndrome with AChE deficiency, highlighting the importance of this collagen in the physiology of the NMJ.
-The anchoring of AChE at the synapse requires the interaction of ColQ with MuSK (Muscle-Specific Kinase), a tyrosine kinase expressed on the muscle membrane that is necessary for the formation and the maintenance of the NMJ.
-MuSK forms with its co-receptor LRP4, a member of the Low-density Related Protein family, a receptor complex for agrin and Wnts, representing the core system from which the postsynaptic domain is built, the growth cone attracted and the presynaptic element instructed for some aspects of its differentiation.
-Therefore, the discovery that ColQ binds to MuSK prompted us to study a possible regulatory function of ColQ during NMJ development.
-In this review, after a brief survey on ColQ, we summarize our recent data demonstrating that ColQ, in addition to its anchoring role, exerts signaling functions and controls some aspects of postsynaptic differentiation such as the clustering of acetylcholine receptors.
-Our results also strengthen the hypothesis that the defects observed in synaptic congenital myasthenic syndromes might be linked, at least in part, to alterations of ColQ signaling functions and not only to AChE deficiency.
-Finally, we discuss future research directions to understand how ColQ may modulate the action of the other ligands of the MuSK/LRP4 complex and cooperate with them to coordinate the different steps of NMJ formation and maintenance.

@@ -1,8 +1,0 @@
-Discovery of acetyl-coenzyme A carboxylase 2 inhibitors: comparison of a fluorescence intensity-based phosphate assay and a fluorescence polarization-based ADP Assay for high-throughput screening.
-Acetyl-coenzyme A carboxylase (ACC) enzymes exist as two isoforms, ACC1 and ACC2, which play critical roles in fatty acid biosynthesis and oxidation.
-Though each isoform differs in tissue and subcellular localization, both catalyze the biotin- and ATP-dependent carboxylation of acetyl-coenzyme A to generate malonyl-coenzyme A, a key metabolite in the control of fatty acid synthesis and oxidation.
-The cytosolic ACC1 is expressed primarily in liver and adipose tissue, and uses malonyl-coenzyme A as a key building block in fatty acid biosynthesis.
-The mitochondrial ACC2 is primarily expressed in heart and skeletal muscle, where it is involved in the regulation of fatty acid oxidation.
-Inhibitors of ACC enzymes may therefore be useful therapeutics for diabetes, obesity, and metabolic syndrome.
-Two assay formats for these ATP-utilizing enzymes amenable to high-throughput screening are compared: a fluorescence intensity-based assay to detect inorganic phosphate and a fluorescence polarization-based assay to detect ADP.
-Acetyl-coenzyme A carboxylase inhibitors were identified by these high-throughput screening methods and were confirmed in a radiometric high performance liquid chromatography assay of malonyl-coenzyme A production.

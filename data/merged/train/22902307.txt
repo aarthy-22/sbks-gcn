@@ -1,8 +1,0 @@
-A human hemi-cornea model for eye irritation testing: quality control of production, reliability and predictive capacity.
-We have developed a 3-dimensional human hemi-cornea which comprises an immortalized epithelial cell line and keratocytes embedded in a collagen stroma.
-In the present study, we have used MTT reduction of the whole tissue to clarify whether the production of this complex 3-D-model is transferable into other laboratories and whether these tissues can be constructed reproducibly.
-Our results demonstrate the reproducible production of the hemi-cornea model according to standard operation procedures using 15 independent batches of reconstructed hemi-cornea models in two independent laboratories each.
-Furthermore, the hemi-cornea tissues have been treated with 20 chemicals of different eye-irritating potential under blind conditions to assess the performance and limitations of our test system comparing three different prediction models.
-The most suitable prediction model revealed an overall in vitro-in vivo concordance of 80% and 70% in the participating laboratories, respectively, and an inter-laboratory concordance of 80%.
-Sensitivity of the test was 77% and specificity was between 57% and 86% to discriminate classified from non-classified chemicals.
-We conclude that additional physiologically relevant endpoints in both epithelium and stroma have to be developed for the reliable prediction of all GHS classes of eye irritation in one stand alone test system.

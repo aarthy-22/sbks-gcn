@@ -1,4 +1,0 @@
-High-mannose-type glycan modifications of dihydrofolate reductase using glycan-methotrexate conjugates.
-Various high-mannose-type glycan modifications of dihydrofolate reductase (DHFR) were achieved by ligand-based approach using glycan-methotrexate (MTX) conjugates as tight binding glycan bearing ligands for DHFR.
-The resulting glycan-MTX conjugates and the corresponding artificial glycoproteins could be useful as oligosaccharide- and glycoprotein-probes to perform quantitative analysis of glycan recognizing protein such as lectins, glycosyltransferases or glycosidases.
-Moreover, artificial glycoproteins having two different high-mannose-type glycans were developed for the first time by a combination of two different types of glycan modification strategies.

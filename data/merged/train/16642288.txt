@@ -1,9 +1,0 @@
-Deletion of SLC19A2, the high affinity thiamine transporter, causes selective inner hair cell loss and an auditory neuropathy phenotype.
-Mutations in the gene coding for the high-affinity thiamine transporter Slc19a2 underlie the clinical syndrome known as thiamine-responsive megaloblastic anemia (TRMA) characterized by anemia, diabetes, and sensorineural hearing loss.
-To create a mouse model of this disease, a mutant line was created with targeted disruption of the gene.
-Cochlear function is normal in these mutants when maintained on a high-thiamine diet.
-When challenged with a low-thiamine diet, Slc19a2-null mice showed 40-60 dB threshold elevations by auditory brainstem response (ABR), but only 10-20 dB elevation by otoacoustic emission (OAE) measures.
-Wild-type mice retain normal hearing on either diet.
-Cochlear histological analysis showed a pattern uncommon for sensorineural hearing loss: selective loss of inner hair cells after 1-2 weeks on low thiamine and significantly greater inner than outer hair cell loss after longer low-thiamine challenges.
-Such a pattern is consistent with the observed discrepancy between ABR and OAE threshold shifts.
-The possible role of thiamine transport in other reported cases of selective inner hair cell loss is considered.

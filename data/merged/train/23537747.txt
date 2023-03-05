@@ -1,8 +1,0 @@
-Nobiletin attenuates metastasis via both ERK and PI3K/Akt pathways in HGF-treated liver cancer HepG2 cells.
-Hepatocyte growth factor (HGF), and its receptor, c-Met activation has recently been shown to play important roles in cancer invasion and metastasis in a wide variety of tumor cells.
-We use HGF as an invasive inducer of human HepG2 cells to investigate the effect of four flavones including apigenin, tricetin, tangeretin, and nobiletin on HGF/c-Met-mediated tumor invasion and metastasis.
-Among them, nobiletin markedly inhibited HGF-induced the abilities of the adhesion, invasion, and migration by cell-matrix adhesion assay and transwell-chamber invasion/migration assay under non-cytotoxic concentrations.
-Data also showed nobiletin inhibited HGF-induced cell scattering and cytoskeleton changed such as filopodia and lamellipodia.
-Furthermore, nobiletin could inhibit HGF-induced the membrane localization of phosphorylated c-Met, ERK2, and Akt, but not phosphorylated JNK1/2 and p38.
-Next, nobiletin significantly decreased the levels of phospho-ERK2 and phospho-Akt in ERK2 or Akt siRNA-transfected cells concomitantly with a marked reduction on cell invasion and migration.
-In conclusion, nobiletin attenuates HGF-induced HepG2 cells metastasis involving both ERK and PI3K/Akt pathways and are potentially useful as anti-metastatic agents for the treatment of hepatoma.

@@ -1,8 +1,0 @@
-Hepatocytes display a compensatory survival response against cadmium toxicity by a mechanism mediated by EGFR and Src.
-Although the liver is a cadmium-target organ, hepatocyte response involved in its toxicity is not yet elucidated.
-A link between this heavy metal treatment and Stat3 signaling pathways was examined in primary mouse hepatocytes.
-We provided evidence of a novel link among NADPH oxidase and Stat3 signaling, mediated by Src, EGFR, and Erk1/2.
-Cadmium activates NADPH oxidase.
-ROS produced by this oxidase activates Src, enable that in turn, transactivates EGFR that activates Stat3 in tyrosine, allowing its dimerization.
-Also, ROS from NADPH oxidase favors ERK1/2 activation that phosphorylates Stat3 in serine, resulting in a compensatory or adaptive survival response such as production of metallothionein-II in short Cd exposure times.
-However, after 12h CdCl2 treatment, cell viability diminished in 50%, accompanied by a drastic decrease of metallothionein-II production, and an increase in p53 activation and the pro-apoptotic protein Bax.

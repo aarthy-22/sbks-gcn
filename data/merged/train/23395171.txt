@@ -1,8 +1,0 @@
-Tmem64 modulates calcium signaling during RANKL-mediated osteoclast differentiation.
-Osteoclast maturation and function primarily depend on receptor activator of NF-κB ligand (RANKL)-mediated induction of nuclear factor of activated T cells c1 (NFATc1), which is further activated via increased intracellular calcium ([Ca(2+)](i)) oscillation.
-However, the coordination mechanism that mediates Ca(2+) oscillation during osteoclastogenesis remains ill defined.
-Here, we identified transmembrane protein 64 (Tmem64) as a regulator of Ca(2+) oscillation during osteoclastogenesis.
-We found that Tmem64-deficient mice exhibit increased bone mass due in part to impaired osteoclast formation.
-Using in vitro osteoclast culture systems, we show here that Tmem64 interacts with sarcoplasmic endoplasmic reticulum Ca(2+) ATPase 2 (SERCA2) and modulates its activity.
-Consequently, Tmem64 deficiency significantly diminishes RANKL-induced [Ca(2+)](i) oscillation, which results in reduced Ca(2+)/calmodulin-dependent protein kinases (CaMK) IV and mitochondrial ROS, both of which contribute to achieving the CREB activity necessary for osteoclast formation.
-These data demonstrate that Tmem64 is a positive modulator of osteoclast differentiation via SERCA2-dependent Ca(2+) signaling.

@@ -1,9 +1,0 @@
-Arsenic trioxide induces cardiac fibroblast apoptosis in vitro and in vivo by up-regulating TGF-β1 expression.
-Arsenic trioxide (As2O3; ATO) is clinically effective in treating acute promyelocytic leukemia (APL); however, it frequently causes cardiotoxic effects.
-This study was designed to investigate whether ATO could induce apoptosis of cardiac fibroblasts (CFs) that play very important roles in maintaining the structure integrity and function of the heart.
-Cardiac fibroblasts from guinea pigs administered with ATO (1mg/kgbw) were used to test the pro-apoptotic role of ATO in vivo.
-The current study demonstrated that ATO induced morphological characteristics of apoptosis and Caspase-3 activation in CFs of guinea pigs along with a significant up-regulation in TGF-β1 protein expression, Bax/Bcl-2 ratio and ERK1/2 phosphorylation.
-In vitro MTT assay showed that ATO remarkably reduced the viability of cultured cardiac fibroblasts (NRCFs) from neonatal rat in a concentration- and time-dependent manner.
-Consistent with the notions in vivo, ATO significantly induced the apoptosis in NRCFs, dramatically up-regulated TGF-β1 protein level and Bax/Bcl-2 ratio in a time-dependent fashion and activated Caspase-3 and ERK1/2.
-Finally, pretreatment with LY364947, an inhibitor of TGF-β signaling could apparently reverse these changes.
-We therefore conclude that TGF-β is functionally linked to ERK1/2 and that TGF-β signaling is responsible for ATO-induced CFs apoptosis, which provides a novel mechanism of ATO related cardiac toxicology.

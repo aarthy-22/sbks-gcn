@@ -1,8 +1,0 @@
-Synthesis and Biological Evaluation of Urea Derivatives as Highly Potent and Selective Rho Kinase Inhibitors.
-RhoA and its downstream effector ROCK mediate stress fiber formation and cell contraction through their effects on the phosphorylation of myosin light chain (MLC).
-Inhibition of the RhoA/ROCK pathway has proven to be a promising strategy for several indications such as cardiovascular disease, glaucoma, and inflammatory disease.
-In 2010, our group reported urea-based ROCK inhibitors as potential antiglaucoma agents.
-These compounds showed potent IC50 values in enzymatic and cell-based assays and significant intraocular pressure (IOP)-lowering effects in rats (∼7 mmHg).
-(22) To develop more advanced ROCK inhibitors targeting various potential applications (such as myocardial infarction, erectile dysfunction, multiple sclerosis, etc.) in addition to glaucoma, a thorough SAR for this urea-based scaffold was studied.
-The detailed optimization process, counter-screening, and in vitro and in vivo DMPK studies are discussed.
-Potent and selective ROCK inhibitors with various in vivo pharmacokinetic properties were discovered.

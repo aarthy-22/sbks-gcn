@@ -14,4 +14,10 @@ T10	CHEMICAL 805 820	organophosphate
 T11	CHEMICAL 821 847	diisopropylfluorophosphate
 T16	GENE-Y 881 901	acetylcholinesterase
 T3	CHEMICAL 2028 2033	oxime
-R0	NOT Arg1:T4 Arg2:T15
+R0	CPR-3 Arg1:T5 Arg2:T15
+R1	CPR-3 Arg1:T6 Arg2:T15
+R2	NOT Arg1:T1 Arg2:T15
+R3	NOT Arg1:T2 Arg2:T15
+R4	NOT Arg1:T4 Arg2:T15
+R5	NOT Arg1:T10 Arg2:T16
+R6	NOT Arg1:T11 Arg2:T16

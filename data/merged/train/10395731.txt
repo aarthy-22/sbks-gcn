@@ -1,9 +1,0 @@
-A noncatalytic tetrahydrofolate tight binding site is on the small domain of 10-formyltetrahydrofolate dehydrogenase.
-10-Formyltetrahydrofolate dehydrogenase has previously been identified as a tight binding protein of the polyglutamate forms of tetrahydrofolate (R. J. Cook and C. Wagner, Biochemistry 21, 4427-4434, 1982).
-Each subunit contains two independently folded domains connected by a linking peptide.
-By using the stable substrate and product analogs 10-formyl 5,8-dideazafolate and 5, 8-dideazafolate, respectively, we have determined that the tight binding folate site is separate from the catalytic site and that it is located on the N-terminal domain of the protein.
-This was achieved by cross-linking 10-formyl 5,8-dideazafolate to the dehydrogenase through the carboxyl group of the substrate analog.
-The cross-linked substrate analog was converted to the cross-linked product complex by adding either NADP+ or 2-mercaptoethanol, proving that the 10-formyl 5,8-dideazafolate was bound at the active site.
-With the active site cross-linked to 5,8-dideazafolate and not available for binding, the enzyme still bound 5, 8-dideazafolate-[3H]tetraglutamate tightly but noncovalently.
-Separation of the large and small domains by limited proteolysis showed that the tightly bound 5,8-dideazafolate-[3H]tetraglutamate was located on the small domain.
-The location of the cross-linked 10-formyl 5,8-dideazafolate at the active site was determined by amino acid sequencing of an isolated tryptic peptide.

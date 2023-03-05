@@ -1,8 +1,0 @@
-Regulation of the expression of peptidylarginine deiminase type II gene (PADI2) in human keratinocytes involves Sp1 and Sp3 transcription factors.
-Peptidylarginine deiminases (PAD) convert protein-bound arginine residues into citrulline residues in a Ca(2+) ion-dependent manner.
-Among the five isoforms (PAD1, 2, 3, 4, and 6) existing in rodents and humans, PAD2 is the most widely expressed in both species, tissues, and organs.
-In order to study the mechanisms regulating the expression of the human PAD2 gene, PADI2, we characterized its promoter region using transfected human keratinocytes.
-A series of reporter gene constructions derived from the 2 kb region upstream of the transcription initiation site defined a minimal promoter sequence from nucleotides -132 to -41.
-This PADI2 region is GC-rich and lacks canonical TATA and CAAT boxes.
-Investigation of cis-acting elements in the region, further deletion analyses and electrophoretic mobility shift assays using specific antibodies revealed four Sp1-binding sites and identified Sp1 and Sp3 as binding factors important for the promoter activity.
-These results suggest that Sp1/Sp3 cooperation may provide a mechanism to control the transcription of PADI2.

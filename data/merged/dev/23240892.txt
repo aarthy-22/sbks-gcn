@@ -1,9 +1,0 @@
-Acid-degradable cationic poly(ketal amidoamine) for enhanced RNA interference in vitro and in vivo.
-Efficient delivery of small interfering RNA (siRNA) is one of major challenges in the successful applications of siRNA in clinic.
-In the present study, we report a new acid-degradable poly(ketal amidoamine) (PKAA) as a siRNA carrier, which has high delivery efficiency and low cytotoxicity.
-PKAA was designed to have acid-cleavable ketal linkages in the backbone of cationic biodegradable poly(amidoamine).
-PKAA efficiently self-assembled with siRNA to form nanocomplexes with a diameter of ~200 nm and slightly positive charges, which are stable under physiological conditions, but rapidly release siRNA at acidic pH. PKAA exhibited sufficient buffering capability and endosomolytic activity due mainly to the presence of secondary amine groups in its backbone and rapid degradation in acidic endosomes, leading to the enhanced release of siRNA to cytoplasm.
-Cell culture studies demonstrated that PKAA is capable of delivering anti-TNF (tumor necrosis factor)-α siRNA to lipopolysaccharide (LPS)-stimulated macrophages and significantly inhibits the expression of TNF-α.
-A mouse model of acetaminophen (APAP)-induced acute liver failure was used to evaluate in vivo siRNA delivery efficacy of PKAA.
-PKAA/anti-TNF-α siRNA nanocomplexes significantly reduced the ALT (alanine transaminase) and the hepatic cellular damages in APAP-intoxicated mice.
-We anticipate that acid-degradable PKAA has great potential as siRNA carriers based on its excellent biocompatibility, pH sensitivity, potential endosomolytic activity, and high delivery efficiency.

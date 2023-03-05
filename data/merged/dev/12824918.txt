@@ -1,7 +1,0 @@
-Colon cancer cells with high invasive potential are susceptible to induction of apoptosis by a selective COX-2 inhibitor.
-Cyclooxygenase-2 (COX-2) expression has been shown to correlate with the invasiveness of colon cancer cells.
-To further investigate this positive correlation and its possible therapeutic implications, a selective COX-2 inhibitor, etodolac, was tested on three variants of HT-29 colon cancer cell lines, HT-29/Inv1, HT-29/Inv2 and HT-29/Inv3, with graded increases of in vitro Matrigel invasive potential and COX-2 expression levels.
-HT-29 variants with higher invasive potential were found to be more sensitive to etodolac by in vitro growth inhibition assays, the estimated LD(50) being 0.5 mM for highly invasive HT-29/Inv2 and HT-29/Inv3 cells, 0.6 mM for slightly less invasive HT-29/Inv1, and 1.8 mM for the parental HT-29.
-Treatment of the highly invasive HT-29/Inv2 and Inv3 variants with as little as 0.1 mM etodolac in the growth medium produced signs of apoptosis, as detected by DNA fragmentation and TUNEL (terminal deoxynucleotidyl transferase dUTP-biotin nick end labeling) assay.
-In vivo experiments in SCID mice showed that etolodac inhibited the growth of subcutaneous tumors induced by HT-29/Inv3 cells significantly more than those by the parental HT-29 cells.
-These results suggest that COX-2 inhibitors have a potential role in prevention of tumor invasion in colon cancer patients.

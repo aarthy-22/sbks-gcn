@@ -1,9 +1,0 @@
-Plants as a source of butyrylcholinesterase variants designed for enhanced cocaine hydrolase activity.
-Cocaine addiction affects millions of people with disastrous personal and social consequences.
-Cocaine is one of the most reinforcing of all drugs of abuse, and even those who undergo rehabilitation and experience long periods of abstinence have more than 80% chance of relapse.
-Yet there is no FDA-approved treatment to decrease the likelihood of relapse in rehabilitated addicts.
-Recent studies, however, have demonstrated a promising potential treatment option with the help of the serum enzyme butyrylcholinesterase (BChE), which is capable of breaking down naturally occurring (-)-cocaine before the drug can influence the reward centers of the brain or affect other areas of the body.
-This activity of wild-type (WT) BChE, however, is relatively low.
-This prompted the design of variants of BChE which exhibit significantly improved catalytic activity against (-)-cocaine.
-Plants are a promising means to produce large amounts of these cocaine hydrolase variants of BChE, cheaply, safely with no concerns regarding human pathogens and functionally equivalent to enzymes derived from other sources.
-Here, in expressing cocaine-hydrolyzing mutants of BChE in Nicotiana benthamiana using the MagnICON virus-assisted transient expression system, and in reporting their initial biochemical analysis, we provide proof-of-principle that plants can express engineered BChE proteins with desired properties.

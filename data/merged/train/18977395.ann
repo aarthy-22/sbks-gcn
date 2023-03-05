@@ -14,3 +14,5 @@ T15	GENE-Y 1483 1495	cytochrome c
 T16	GENE-N 1541 1557	caspase-1 and -3
 T5	CHEMICAL 1770 1781	minocycline
 T6	CHEMICAL 2049 2060	minocycline
+R0	CPR-4 Arg1:T4 Arg2:T15
+R1	NOT Arg1:T4 Arg2:T16

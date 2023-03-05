@@ -1,8 +1,0 @@
-The NADH: ubiquinone oxidoreductase (complex I) of the mammalian respiratory chain and the cAMP cascade.
-Recent work has revealed cAMP-dependent phosphorylation of the 18-kDa IP subunit of the mammalian complex I of the respiratory chain, encoded by the nuclear NDUFS4 gene (chromosome 5).
-Phosphorylation of this protein has been shown to take place in fibroblast cultures in vivo, as well as in isolated mitochondria, which in addition to the cytosol also contain, in the inner-membrane matrix fraction, a cAMP-dependent protein kinase.
-Mitochondria appear to have a Ca2+-inhibited phosphatase, which dephosphorylates the 18-kDa phosphoprotein.
-In fibroblast and myoblast cultures cAMP-dependent phosphorylation of the 18-kDa protein is associated with potent stimulation of complex I and overall respiratory activity with NAD-linked substrates.
-Mutations in the human NDUFS4 gene have been found, which in the homozygous state are associated with deficiency of complex I and fatal neurological syndrome.
-In one case consisting of a 5 bp duplication, which destroyed the phosphorylation site, cAMP-dependent activation of complex I was abolished in the patient's fibroblast cultures.
-In another case consisting of a nonsense mutation, leading to termination of the protein after only 14 residues of the putative mitochondria targeting peptide, a defect in the assembly of complex I was found in fibroblast cultures.

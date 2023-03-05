@@ -1,6 +1,0 @@
-Design, synthesis and cytotoxicity of cell death mechanism of rotundic acid derivatives.
-In the present investigation, 16 new rotundic acid (RA) derivatives modified at the C-3, C-23 and C-28 positions were synthesized.
-The cytotoxicities of the derivatives were evaluated against HeLa, A375, HepG2, SPC-A1 and NCI-H446 human tumor cell lines by MTT assay.
-Among these derivatives, compounds 4-7 exhibited stronger cell growth inhibitory than RA and compound 4 was found to be the best inhibition activity on five human tumor cell lines with IC50 <10μM. The apoptosis mechanism of compound 4 in HeLa cells was investigated by western blot analysis.
-The results indicated that compound 4 could induce apoptosis through increasing protein expression of cleaved caspase-3 and Bax, and decreasing protein expression of Bcl-2.
-In summary, the present work suggests that compound 4 might serve as an effective chemotherapeutic candidate.

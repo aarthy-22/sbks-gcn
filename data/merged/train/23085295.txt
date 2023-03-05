@@ -1,8 +1,0 @@
-Molecular analyses of dinosaur osteocytes support the presence of endogenous molecules.
-The discovery of soft, transparent microstructures in dinosaur bone consistent in morphology with osteocytes was controversial.
-We hypothesize that, if original, these microstructures will have molecular features in common with extant osteocytes.
-We present immunological and mass spectrometry evidence for preservation of proteins comprising extant osteocytes (Actin, Tubulin, PHEX, Histone H4) in osteocytes recovered from two non-avian dinosaurs.
-Furthermore, antibodies to DNA show localized binding to these microstructures, which also react positively with DNA intercalating stains propidium iodide (PI) and 4',6'-diamidino-2-phenylindole dihydrochloride (DAPI).
-Each antibody binds dinosaur cells in patterns similar to extant cells.
-These data are the first to support preservation of multiple proteins and to present multiple lines of evidence for material consistent with DNA in dinosaurs, supporting the hypothesis that these structures were part of the once living animals.
-We propose mechanisms for preservation of cells and component molecules, and discuss implications for dinosaurian cellular biology.

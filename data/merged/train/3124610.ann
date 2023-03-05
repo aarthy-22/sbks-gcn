@@ -18,3 +18,4 @@ T18	GENE-N 1032 1073	adenosine diphosphate ribosyl transferase
 T2	CHEMICAL 1054 1061	ribosyl
 T3	GENE-Y 1198 1202	IL-2
 R0	NOT Arg1:T16 Arg2:T1
+R1	NOT Arg1:T16 Arg2:T2

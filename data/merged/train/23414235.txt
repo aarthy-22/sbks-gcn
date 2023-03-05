@@ -1,4 +1,0 @@
-Vegfrecine, an Inhibitor of VEGF Receptor Tyrosine Kinases Isolated from the Culture Broth of Streptomyces sp. A new inhibitor of VEGF receptor tyrosine kinases, vegfrecine (1), was isolated from the culture broth of Streptomyces sp. MK931-CF8.
-The molecular structure of 1 was determined by NMR and MS analysis combined with synthesis.
-Compound 1 showed potent inhibitory activity against vascular endothelial growth factor receptor (VEGFR) tyrosine kinases in in vitro enzyme assays, but platelet-derived growth factor receptors (PDGFRs), fibroblast growth factor receptor (FGFR), and epidermal growth factor receptor (EGFR) responded only weakly.
-Compound 1 is a promising new selective VEGFR inhibitor for investigating new treatments of cancer and inflammatory diseases.

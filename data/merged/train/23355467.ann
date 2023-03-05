@@ -17,3 +17,12 @@ T15	GENE-Y 1120 1130	king-tubby
 T1	CHEMICAL 1215 1220	sugar
 T16	GENE-N 1287 1343	Drosophila carbohydrate response element-binding protein
 T2	CHEMICAL 1298 1310	carbohydrate
+R0	NOT Arg1:T3 Arg2:T17
+R1	NOT Arg1:T4 Arg2:T17
+R2	NOT Arg1:T11 Arg2:T18
+R3	NOT Arg1:T11 Arg2:T19
+R4	NOT Arg1:T12 Arg2:T19
+R5	NOT Arg1:T18 Arg2:T13
+R6	NOT Arg1:T18 Arg2:T14
+R7	NOT Arg1:T19 Arg2:T14
+R8	NOT Arg1:T15 Arg2:T1

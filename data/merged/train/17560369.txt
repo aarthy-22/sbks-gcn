@@ -1,8 +1,0 @@
-Evidence for an adaptation mechanism of mitochondrial translation via tRNA import from the cytosol.
-Although mitochondrial import of nuclear DNA-encoded RNAs is widely occurring, their functions in the organelles are not always understood.
-Mitochondrial function(s) of tRNA(Lys)(CUU), tRK1, targeted into Saccharomyces cerevisiae mitochondria was mysterious, since mitochondrial DNA-encoded tRNA(Lys)(UUU), tRK3, was hypothesized to decode both lysine codons, AAA and AAG.
-Mitochondrial targeting of tRK1 depends on the precursor of mitochondrial lysyl-tRNA synthetase, pre-Msk1p.
-Here we show that substitution of pre-Msk1p by its Ashbya gossypii ortholog results in a strain in which tRK3 is aminoacylated, while tRK1 is not imported.
-At elevated temperature, drop of tRK1 import inhibits mitochondrial translation of mRNAs containing AAG codons, which coincides with the impaired 2-thiolation of tRK3 anticodon wobble nucleotide.
-Restoration of tRK1 import cures the translational defect, suggesting the role of tRK1 in conditional adaptation of mitochondrial protein synthesis.
-In contrast with the known ways of organellar translation control, this mechanism exploits the RNA import pathway.

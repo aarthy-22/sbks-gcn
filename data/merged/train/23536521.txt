@@ -1,7 +1,0 @@
-Differential effects of organic and inorganic selenium compounds on adenosine deaminase activity and scavenger capacity in cerebral cortex slices of young rats.
-Selenium (Se) has anti-inflammatory and antioxidant properties and is necessary for the development and normal function of the central nervous system.
-This study was aimed to compare the in vitro effects of 3-methyl-1-phenyl-2-(phenylseleno)oct-2-en-1-one (C21H2HOSe; organoselenium) and sodium selenate (inorganic Se) on adenosine deaminase (ADA) activity, cell viability, lipid peroxidation, scavenger of nitric oxide (NO) and nonprotein thiols (NP-SH) content in the cerebral cortex slices of the young rats.
-A decrease in ADA activity was observed when the slices were exposed to organoselenium at the concentrations of 1, 10 and 30 µM. The same compound showed higher scavenger capacity of NO than the inorganic compound.
-Inorganic Se was able to protect against sodium nitroprusside-induced oxidative damage and increased the NP-SH content.
-Both the compounds displayed distinctive antioxidant capacities and were not cytotoxic for the cerebral cortex slices in the conditions tested.
-These findings are likely to be related to immunomodulatory and antioxidant properties of this compound.

@@ -1,9 +1,0 @@
-Modern diagnosis and treatment of primary eosinophilia.
-The recent discovery of an eosinophilia-specific, imatinib-sensitive, karyotypically occult but fluorescence in situ hybridization-apparent molecular lesion in a subset of patients with blood eosinophilia has transformed the diagnostic as well as treatment approach to eosinophilic disorders.
-Primary (i.e. nonreactive) eosinophilia is considered either "clonal" or "idiopathic" based on the presence or absence, respectively, of either a molecular or bone marrow histological evidence for a myeloid neoplasm.
-Clonal eosinophilia might accompany a spectrum of clinicopathological entities, the minority of whom are molecularly characterized; Fip1-like-1-platelet-derived growth factor receptor alpha (FIP1L1-PDGFRA(+)) systemic mastocytosis, platelet-derived growth factor receptor beta (PDGFRB)-rearranged atypical myeloproliferative disorder, chronic myeloid leukemia, and the 8p11 syndrome that is associated with fibroblast growth factor receptor 1 (FGFR1) rearrangement.
-Hypereosinophilic syndrome (HES) is a subcategory of idiopathic eosinophilia and is characterized by an absolute eosinophil count of > or =1.5 x 10(9)/l for at least 6 months as well as eosinophil-mediated tissue damage.
-At present, a working diagnosis of primary eosinophilia mandates a bone marrow examination, karyotype analysis, and additional molecular studies in order to provide the patient with accurate prognostic information as well as select appropriate therapy.
-For example, the presence of either PDGFRA or PDGFRB mutations warrants the use of imatinib in clonal eosinophilia.
-In HES, prednisone, hydroxyurea, and interferon-alpha constitute first-line therapy, whereas imatinib, cladribine, and monoclonal antibodies to either interleukin-5 (mepolizumab) or CD52 (alemtuzumab) are considered investigational.
-Allogeneic transplantation offers a viable treatment option for drug-refractory cases.

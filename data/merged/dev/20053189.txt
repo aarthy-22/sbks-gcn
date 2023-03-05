@@ -1,7 +1,0 @@
-Abarelix and other gonadotrophin-releasing hormone antagonists in prostate cancer.
-Hormonal therapy is the main recommended treatment for locally advanced and metastatic prostate cancer.
-Luteinizing hormone-releasing hormone (LHRH) agonists, such as buserelin, goserelin, leuprorelin and triptorelin, stimulate the pituitary's gonadotrophin-releasing hormone (GnRH) receptor, ultimately leading to its de-sensitization and subsequent reduction of LH and testosterone levels.
-However, this reduction is accompanied by a well described increase or 'surge' in LH and testosterone levels, necessitating the concomitant administration of an antiandrogen to combat the potential effects of transient acceleration in cancer activity.
-Two pure GnRH antagonists have been developed, abarelix and degarelix, that are devoid of any agonist effect on the GnRH receptor and consequently do not result in testosterone flare.
-Abarelix was the first GnRH antagonist to be developed and was approved by the USA Food and Drug Administration in 2004 for the initiation of hormonal castration in advanced or metastasizing hormone-dependent prostate carcinoma, when rapid androgen suppression is necessary.
-Clinical data on both abarelix and degarelix show that they can produce rapid and sustained decreases in testosterone to castrate levels without the need for co-administration of an antiandrogen, and with a very low complication rate in the short term.

@@ -1,9 +1,0 @@
-Anti-inflammatory activity of patchouli alcohol in RAW264.7 and HT-29 cells.
-Patchouli alcohol (PA) is a chemical compound extracted from patchouli which belongs to the genus Pogostemon, herb of mint family.
-Recently, it has been reported that PA inhibits the production of inflammatory mediators.
-However, the biological mechanisms of PA for anti-inflammatory activities have not been studied.
-In this study, we investigated whether PA decreases the production of inflammatory mediators through downregulation of the NF-κB and ERK pathway.
-Our data indicated that PA inhibits the over-expression of iNOS and IL-6 in protein and mRNA levels in LPS-stimulated RAW264.7 and TNF-α stimulated HT-29 cells.
-PA inhibited IκB-α degradation and p65 nuclear translocation, and subsequently suppressed transcriptional activity of NF-κB in LPS-stimulated RAW264.7 and TNF-α-stimulated HT-29 cells.
-In addition, PA inhibited LPS- or TNF-α-stimulated ERK1/2 activation by decreasing phosphorylation of ERK1/2.
-These findings suggest that PA shows anti-inflammatory activities through suppressing ERK-mediated NF-κB pathway in mouse macrophage and human colorectal cancer cells.

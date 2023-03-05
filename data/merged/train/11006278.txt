@@ -1,9 +1,0 @@
-Arachidonic acid and nonsteroidal anti-inflammatory drugs induce conformational changes in the human prostaglandin endoperoxide H2 synthase-2 (cyclooxygenase-2).
-By using the technique of site-directed spin labeling combined with EPR spectroscopy, we have observed that binding of arachidonic acid and nonsteroidal anti-inflammatory drugs induces conformational changes in the human prostaglandin endoperoxide H(2) synthase enzyme (PGHS-2).
-Line shape broadening resulting from spin-spin coupling of nitroxide pairs introduced into the membrane-binding helices of PGHS-2 was used to calculate the inter-helical distances and changes in these distances that occur in response to binding various ligands.
-The inter-residue distances determined for the PGHS-2 holoenzyme using EPR were 1-7.9 A shorter than those of the crystal structure of the PGHS-2 holoenzyme.
-However, inter-helical distances calculated and determined by EPR for PGHS-2 complexed with arachidonic acid, flurbiprofen, and SC-58125 were in close agreement with those obtained from the cognate crystal structures.
-These results indicate that the structure of the solubilized PGHS-2 holoenzyme measured in solution differs from the crystal structure of PGHS-2 holoenzyme obtained by x-ray analysis.
-Furthermore, binding of ligands induces a conformational change in the holo-PGHS-2, converting it to a structure similar to those obtained by x-ray analysis.
-Proteolysis protection assays had previously provided circumstantial evidence that binding of heme and non-steroidal anti-inflammatory drugs alters the conformation of PGHS, but the present experiments are the first to directly measure such changes.
-The finding that arachidonate can also induce a conformational change in PGHS-2 was unexpected, and the magnitude of changes suggests this structural flexibility may be integral to the cyclooxygenase catalytic mechanism.

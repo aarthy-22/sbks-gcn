@@ -1,9 +1,0 @@
-Cluster phases of decorated micellar solutions with macrocyclic ligands.
-An aqueous self-assembled micellar system (sodium dodecyl sulfate, SDS, decorated with various adhesive sites, cryptand Kryptofix 222 and crown ether 18-Crown-6 molecules) has been investigated by dynamic light scattering (DLS) and small angle x-ray scattering (SAXS) to have insights into the micellar structure, the micellar interactions, and the aggregation properties of the system.
-DLS demonstrates the existence of populations of aggregates in the submicrometer/micrometer range, while the Guinier analysis of the SAXS curves helps in detailing objects smaller than 30 nm.
-The aggregates of micelles are here named cluster phases of micelles (CPMs).
-Considering that SDS micelles in water do not aggregate at low concentration, it is shown that macrocyclic ligands induce the SDS micelle aggregation as a function of the concentration (i.e., investigated ligand/SDS molar ratios are 5.0, 1.5, 1.0, and 0.5) and hydrophobicity of the adhesive sites.
-The sizes and the percentages of the micelles and the CPMs have been monitored to test the stability and reversibility of the system.
-DLS results clearly show that the aggregation processes of the decorated micelles are reproducible at time intervals of the order of 1 month, while the stability may not be entirely maintained after a year.
-As an issue of particular relevance, the higher the ligand/surfactant molar ratio, the larger are the CPMs induced.
-The K222 ligand results in being more effective in promoting the micellar aggregation than 18C6 as a consequence of the different hydrophobicity.

@@ -1,7 +1,0 @@
-Surface-modified HK:siRNA nanoplexes with enhanced pharmacokinetics and tumor growth inhibition.
-We characterized in this study the pharmacokinetics and antitumor efficacy of histidine-lysine (HK):siRNA nanoplexes modified with PEG and a cyclic RGD (cRGD) ligand targeting αvβ3 and αvβ5 integrins.
-With noninvasive imaging, systemically administered surface-modified HK:siRNA nanoplexes showed nearly 4-fold greater blood levels, 40% higher accumulation in tumor tissue, and 60% lower luciferase activity than unmodified HK:siRNA nanoplexes.
-We then determined whether the surface-modified HK:siRNA nanoplex carrier was more effective in reducing MDA-MB-435 tumor growth with an siRNA targeting Raf-1.
-Repeated systemic administration of the selected surface modified HK:siRNA nanoplexes targeting Raf-1 showed 35% greater inhibition of tumor growth than unmodified HK:siRNA nanoplexes and 60% greater inhibition of tumor growth than untreated mice.
-The improved blood pharmacokinetic results and tumor localization observed with the integrin-targeting surface modification of HK:siRNA nanoplexes correlated with greater tumor growth inhibition.
-This investigation reveals that through control of targeting ligand surface display in association with a steric PEG layer, modified HK: siRNA nanoplexes show promise to advance RNAi therapeutics in oncology and potentially other critical diseases.

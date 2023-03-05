@@ -1,9 +1,0 @@
-Effects of the lipid environment, cholesterol and bile acids on the function of the purified and reconstituted human ABCG2 protein.
-The human ABCG2 multidrug transporter actively extrudes a wide range of hydrophobic drugs and xenobiotics recognized by the transporter in the membrane phase.
-In order to examine the molecular nature of the transporter and its effects on the lipid environment, we have established an efficient protocol for the purification and reconstitution of the functional protein.
-We found that the drug-stimulated ATPase and the transport activity of ABCG2 are fully preserved by applying excess lipids and mild detergents during solubilization, whereas a detergent-induced dissociation of the ABCG2 dimer causes an irreversible inactivation.
-By using the purified and reconstituted protein we demonstrate that cholesterol is an essential activator, whereas bile acids are important modulators of ABCG2 activity.
-Both wild-type ABCG2 and its R482G mutant variant require cholesterol for full activity, although they exhibit different cholesterol sensitivities.
-Bile acids strongly decrease the basal ABCG2-ATPase activity both in the wild-type ABCG2 and in the mutant variant.
-These data reinforce the results for the modulatory effects of cholesterol and bile acids of ABCG2 investigated in a complex cell membrane environment.
-Moreover, these experiments open the possibility to perform functional and structural studies with a purified, reconstituted and highly active ABCG2 multidrug transporter.

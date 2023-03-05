@@ -18,3 +18,12 @@ T16	GENE-Y 1543 1573	heavy subunit of neurofilament
 T17	GENE-Y 1575 1607	microtubule-associated protein 2
 T18	GENE-N 1612 1617	actin
 T6	CHEMICAL 1716 1724	NaAsO(2)
+R0	NOT Arg1:T9 Arg2:T20
+R1	CPR-3 Arg1:T5 Arg2:T13
+R2	CPR-4 Arg1:T5 Arg2:T14
+R3	CPR-4 Arg1:T5 Arg2:T15
+R4	NOT Arg1:T5 Arg2:T16
+R5	NOT Arg1:T5 Arg2:T17
+R6	NOT Arg1:T5 Arg2:T18
+R7	NOT Arg1:T19 Arg2:T7
+R8	NOT Arg1:T19 Arg2:T8

@@ -1,9 +1,0 @@
-A fluorescence resonance energy transfer-based M2 muscarinic receptor sensor reveals rapid kinetics of allosteric modulation.
-Allosteric modulators have been identified for several G protein-coupled receptors, most notably muscarinic receptors.
-To study their mechanism of action, we made use of a recently developed technique to generate fluorescence resonance energy transfer (FRET)-based sensors to monitor G protein-coupled receptor activation.
-Cyan fluorescent protein was fused to the C terminus of the M(2) muscarinic receptor, and a specific binding sequence for the small fluorescent compound fluorescein arsenical hairpin binder, FlAsH, was inserted into the third intracellular loop; the latter site was labeled in intact cells by incubation with FlAsH. We then measured FRET between the donor cyan fluorescent protein and the acceptor FlAsH in intact cells and monitored its changes in real time.
-Agonists such as acetylcholine and carbachol induced rapid changes in FRET, indicative of agonist-induced conformational changes.
-Removal of the agonists or addition of an antagonist caused a reversal of this signal with rate constants between 400 and 1100 ms.
-The allosteric ligands gallamine and dimethyl-W84 caused no changes in FRET when given alone, but increased FRET when given in the presence of an agonist, compatible with an inactivation of the receptors.
-The kinetics of these effects were very rapid, with rate constants of 80-100 ms and approximately 200 ms for saturating concentrations of gallamine and dimethyl-W84, respectively.
-Because these speeds are significantly faster than the responses to antagonists, these data indicate that gallamine and dimethyl-W84 are allosteric ligands and actively induce a conformation of the M(2) receptor with a reduced affinity for its agonists.

@@ -14,3 +14,5 @@ T3	GENE-N 1236 1246	chemokines
 T4	GENE-Y 1300 1310	E-selectin
 T5	GENE-N 1435 1464	endothelial adhesion molecule
 R0	NOT Arg1:T9 Arg2:T1
+R1	NOT Arg1:T10 Arg2:T1
+R2	NOT Arg1:T11 Arg2:T1

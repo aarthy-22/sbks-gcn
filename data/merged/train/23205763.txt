@@ -1,8 +1,0 @@
-Magnetic nanoclusters exhibiting protein-activated near-infrared fluorescence.
-Composite nanoclusters with chemical, magnetic, and biofunctionality offer broad opportunities for targeted cellular imaging.
-A key challenge is to load a high degree of targeting, imaging, and therapeutic functionality onto stable metal-oxide nanoparticles.
-Here we report a route for producing magnetic nanoclusters (MNCs) with alkyne surface functionality that can be utilized as multimodal imaging probes.
-We form MNCs composed of magnetic Fe(3)O(4) nanoparticles and poly(acrylic acid-co-propargyl acrylate) by the co-precipitation of iron salts in the presence of copolymer stabilizers.
-The MNCs were surface-modified with near-infrared (NIR) emitting fluorophore used in photodynamic therapy, an azide-modified indocyanine green.
-The fluorophores engaged and complexed with bovine serum albumin, forming an extended coverage of serum proteins on the MNCs.
-These proteins isolated indocyanine green fluorophores from the aqueous environment and induced an effective "turn-on" of NIR emission.

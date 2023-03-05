@@ -1,7 +1,0 @@
-Drug-protein interactions: isolation and characterization of covalent adducts of phenoxybenzamine and calmodulin.
-Phenoxybenzamine, an alpha-adrenergic antagonist containing a (chloroethyl)amine group, labels calmodulin in the presence of calcium.
-The covalent interaction is inhibited by chlorpromazine in a concentration-dependent manner.
-Adducts of calmodulin and phenoxybenzamine were separated by high-performance liquid chromatography into four major fractions: two containing 0.6 and 1.2 mol of drug per mol of protein and two different fractions each containing 2.0 mol/mol.
-Each adduct had a reduced ability to activate cyclic nucleotide phosphodiesterase and myosin light chain kinase, and the chlorpromazine binding capacities of the phenoxybenzamine-calmodulin adducts were diminished to the extent of phenoxybenzamine incorporation into each adduct.
-Isolation and characterization of labeled peptides from phenoxybenzamine-modified calmodulins indicated that peptides encompassing residues 38-75, 107-126, and 127-148 contained phenoxybenzamine label.
-These studies directly demonstrate the relatedness between the binding activities of two structurally dissimilar calmodulin antagonists, demonstrate that covalent adducts of calmodulin and drugs with equal stoichiometries of labeling can have quantitative differences in activity and sites of modification, and provide direct evidence of distinct drug binding regions in calmodulin located in the amphipathic alpha-helical regions of the second and fourth domains.

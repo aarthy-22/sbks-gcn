@@ -1,8 +1,0 @@
-Apocynin and raisanberine alleviate intermittent hypoxia induced abnormal StAR and 3β-HSD and low testosterone by suppressing endoplasmic reticulum stress and activated p66Shc in rat testes.
-We hypothesized that hypoxia induced testicular damage is mediated by an activated NADPH oxidase (NOX), therefore, APO (apocynin) an inhibitor of NOX and raisanberine (RS), a calcium influx inhibitor were tested if they could attenuate hypoxic toxicity to the testis.
-Male Sprague-Dawley rats were exposed to hypoxia (10±0.5% O2) for 17d and intervened with APO and RS in the last 6d.
-Histological changes and expression of pro-inflammation factors were evaluated in vivo.
-Biomarkers in isolated Leydig cells incubated with H2O2 were also assayed in vitro.
-Hypoxic rats displayed lower serum testosterone and higher LH and FSH.
-Upregulation of p22/p47(phox), NOX2, MMP9, PERK and p66Shc was associated with downregulation of StAR, 3β-HSD and Cx43 in the hypoxia testis, revealed by Western blot and immunohistochemical assay, respectively.
-APO and RS at least partially normalize hypoxia caused male hypogonadism by suppressing ER stress, and p66Shc in testes.

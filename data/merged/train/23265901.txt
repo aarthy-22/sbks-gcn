@@ -1,5 +1,0 @@
-Synthesis and evaluation of 8-oxoadenine derivatives as potent Toll-like receptor 7 agonists with high water solubility.
-We report the discovery of novel series of highly potent TLR7 agonists based on 8-oxoadenines, 1 and 2 by introducing and optimizing various tertiary amines onto the N(9)-position of the adenine moiety.
-The introduction of the amino group resulted in not only improved water solubility but also enhanced TLR7 agonistic activity.
-In particular compound 20 (DSR-6434) indicated an optimal balance between the agonistic potency and high water solubility.
-It also demonstrated a strong antitumor effect in vivo by intravenous administration in a tumor bearing mice model.

@@ -1,6 +1,0 @@
-Pharmacological profile of neuroleptics at human monoamine transporters.
-Using radioligand binding techniques, we determined the equilibrium dissociation constants (K(D)) for 37 neuroleptics and one metabolite of a neuroleptic (haloperidol metabolite) for the human serotonin, norepinephrine, and dopamine transporters with [3H]imipramine, [3H]nisoxetine, and [3H]WIN35428, respectively.
-Among neuroleptics, the four most potent compounds at the human serotonin transporter were triflupromazine, fluperlapine, chlorpromazine, and ziprasidone (K(D) 24-39 nM); and at the norepinephrine transporter, chlorpromazine, zotepine, chlorprothixene, and promazine (K(D) 19-25 nM).
-At the human dopamine transporter, only pimozide (K(D) = 69+/-3) ziprasidone (K(D) = 76+/-5)
-had notable potency.
-These data may be useful in predicting therapeutic and adverse effects, including drug interactions of neuroleptics.

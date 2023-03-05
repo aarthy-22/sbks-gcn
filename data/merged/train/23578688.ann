@@ -9,4 +9,7 @@ T3	CHEMICAL 293 327	α-aminoacyloxymethylene carbamates
 T4	CHEMICAL 387 399	fumaric acid
 T5	CHEMICAL 408 435	acyloxymethylene carbamates
 T7	CHEMICAL 1053 1069	secondary amides
-R0	CPR-4 Arg1:T9 Arg2:T11
+R0	CPR-4 Arg1:T8 Arg2:T11
+R1	CPR-4 Arg1:T9 Arg2:T11
+R2	CPR-4 Arg1:T1 Arg2:T10
+R3	CPR-4 Arg1:T6 Arg2:T10

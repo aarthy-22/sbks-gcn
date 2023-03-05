@@ -1,8 +1,0 @@
-An investigation of the effect of thiamine pyrophosphate on cisplatin-induced oxidative stress and DNA damage in rat brain tissue compared with thiamine: Thiamine and thiamine pyrophosphate effects on cisplatin neurotoxicity.
-This study investigated the effects of thiamine pyrophosphate (TPP) at dosages of 10 and 20 mg/kg on oxidative stress induced in rat brain tissue with cisplatin and compared this with thiamine.
-Cisplatin neurotoxicity represents one of the main restrictions on the drug being given in effective doses.
-Oxidative stress is considered responsible for cisplatin toxicity.
-Our results showed that cisplatin increased the levels of oxidant parameters such as lipid peroxidation (thio barbituric acid reactive substance (TBARS)) and myeloperoxidase (MPO) in brain tissue and suppressed the effects of antioxidants such as total glutathione (GSH) and superoxide dismutase (SOD).
-TPP, especially at a dosage of 20 mg/kg, significantly reduced TBARS and MPO levels that increase with cisplatin administration compared with the thiamine group, while TPP significantly increases GSH and SOD levels.
-In addition, the level of 8-Gua (guanine), a product of DNA damage, was 1.7 ± 0.12 8-hydroxyl guanine (8-OH Gua)/105 Gua in brain tissue in the control group receiving cisplatin, compared with 0.97 ± 0.03 8-OH Gua/105 Gua in the thiamine pyrophosphate (20 mg/kg) group and 1.55 ± 0.11 8-OH Gua/105 Gua in the thiamine (20 mg/kg) group.
-These results show that thiamine pyrophosphate significantly prevents oxidative damage induced by cisplatin in brain tissue, while the protective effect of thiamine is insignificant.

@@ -1,8 +1,0 @@
-Inhibitory effect of selective serotonin reuptake inhibitors on the vesicular monoamine transporter 2.
-The neuronal vesicular monoamine transporter (VMAT2) is the target molecule of action of some psychostimulants, such as methamphetamine and 3,4-methylenedioxymethamphetamine (MDMA).
-The present study examined the effect of antidepressants, such as selective serotonin reuptake inhibitors (SSRIs), on VMAT2 activity by measuring adenosine triphosphate-dependent [(3)H]dopamine uptake into synaptic vesicles prepared from rat striatum.
-SSRIs, fluoxetine, paroxetine, and fluvoxamine, inhibited vesicular [(3)H]dopamine uptake in vitro.
-The rank order of potency was reserpine>>fluoxetine, paroxetine>fluvoxamine, methamphetamine>MDMA.
-Moreover, kinetic analysis revealed that inhibition by reserpine, a typical VMAT2 inhibitor, was uncompetitive, decreasing maximum velocity and affinity for dopamine.
-Inhibition by fluoxetine was noncompetitive, only decreasing maximum velocity for dopamine.
-These results suggest that fluoxetine inhibited the activity of VMAT2 by a mechanism different from that of reserpine and did not directly interact with the active site of VMAT2.

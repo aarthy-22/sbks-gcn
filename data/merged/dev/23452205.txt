@@ -1,9 +1,0 @@
-mGluR2 positive allosteric modulators: a patent review (2009 - present).
-Introduction: The mGlu2 receptor, which belongs to the group II subfamily of metabotropic glutamate receptors (mGlu) along with the mGlu3 receptor, has proven to be of particular importance in neuropharmacology.
-Preferentially expressed on presynaptic nerve terminals, the mGlu2 receptor negatively modulates glutamate and GABA release and is widely distributed in the brain.
-High levels of mGlu2 receptors are seen in brain areas such as prefrontal cortex, hippocampus and amygdala where glutamate hyperfunction may be implicated in disorders and diseases such as anxiety and schizophrenia.
-Given the promise offered by mGlu2/3 receptor activation, there is increased interest in identifying small molecules which activate the receptor.
-A preferred approach is via positive allosteric modulators (PAMs) which bind at an alternative site to agonists.
-Areas covered: This review covers the patent applications which were published between April 2009 and December 2012 on PAMs of the mGlu2, and it is a continuation of an earlier review published in this journal.
-Expert opinion: Advances in medicinal chemistry and pharmacology have set the stage in the field of mGlu2 receptor PAMs.
-Compounds currently advancing in clinical trials will soon establish the therapeutic potential of this allosteric approach.

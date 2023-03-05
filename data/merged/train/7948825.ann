@@ -7,4 +7,5 @@ T9	GENE-Y 281 311	Basic fibroblast growth factor
 T3	CHEMICAL 456 466	sucralfate
 T4	CHEMICAL 606 616	Sucralfate
 T5	CHEMICAL 1020 1030	sucralfate
-R0	CPR-2 Arg1:T2 Arg2:T8
+R0	CPR-2 Arg1:T2 Arg2:T7
+R1	CPR-2 Arg1:T2 Arg2:T8

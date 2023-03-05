@@ -1,7 +1,0 @@
-Estramustine binding protein in primary tumours and metastases of malignant melanoma.
-The presence of estramustine binding protein (EMBP), a 54 kD cytosolic glycoprotein, which is distinct from the estrogen receptor, was investigated in a pilot study of primary malignant melanomas and their metastases.
-In 11 primary melanomas EMBP was demonstrated by immunohistochemistry.
-The percentage of positive melanoma cells ranged between 11-91% with a mean of 57%.
-Radioimmunoassay on metastatic tissue revealed significant amounts of EMBP, with values ranging between 0.6-4.2 with a mean of 1.6 ng/mg protein.
-A high number of cells with a positive stain for EMBP in the primary tumours was significantly correlated to a short interval between diagnosis and the occurrence of metastases.
-Presence of EMBP in malignant melanoma may have prognostic significance and the role of hormone-linked cytostatic drugs in the treatment of this disease needs further investigation.

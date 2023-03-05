@@ -1,9 +1,0 @@
-Comparison of sulfamate and sulfamide groups for the inhibition of carbonic anhydrase-II by using topiramate as a structural platform.
-This paper examines the relative effectiveness of sulfamate and sulfamide groups for the inhibition of carbonic anhydrase-II (CA-II).
-Topiramate (1) and its sulfamide analogue 4, and 4,5-cyclic sulfate 6 and its sulfamide analogue 5, were compared for inhibition of human CA-II.
-A colorimetric assay, based on the pH shift that accompanies hydration of carbon dioxide, and an esterase assay were used.
-For these bioisosteric pairs, 1/4 and 6/5, the sulfamate compound was markedly more potent than its sulfamide counterpart.
-A similar, large difference in potency was also observed for the sulfamate/sulfamide pairs 14/15 and 16/17.
-These results indicate that the sulfamide moiety is not particularly suitable for obtaining potent carbonic anhydrase inhibition.
-A discussion of this structure-activity relationship with respect to the interactions of 1 and 6 with CA-II from published X-ray data is presented.
-A metabolic acidosis study was performed in rats with 1, 4, 6, and 2, and the results are discussed with respect to the degree of inhibition of CA-II in vivo.

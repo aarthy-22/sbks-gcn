@@ -1,7 +1,0 @@
-Amino acid-based zwitterionic poly(serine methacrylate) as an antifouling material.
-A serine-based zwitterionic poly(serine methacrylate) (pSerMA) was developed in this work to be used as a potential antifouling material.
-A surface-initiated photoiniferter-mediated polymerization (SI-PIMP) method was used to graft polymer brushes on gold surfaces.
-The pSerMA-grafted samples with different polymer film thicknesses were readily prepared by varying the UV-irradiation time.
-With the optimal film thickness, the adsorptions from bovine serum albumin, human serum, and human plasma onto the pSerMA-grafted surfaces, as evaluated by a surface plasmon resonance (SPR) biosensor, were 1.8, 9.2, and 12.9 ng/cm(2), respectively, comparable to the traditional antifouling material such as poly(ethylene glycol).
-The pSerMA-grafted surfaces also strongly resisted adhesion from bovine aortic endothelial cells.
-This is the first work to develop an amino acid-based zwitterionic polymer as an antifouling material, demonstrating that pSerMA is a promising alternative to the traditional ethylene glycol-based antifouling materials.

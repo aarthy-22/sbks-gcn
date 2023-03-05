@@ -1,6 +1,0 @@
-Proto-oncogene PIM-1 is a novel estrogen receptor target associating with high grade breast tumors.
-We searched ERα cistromes of MCF-7 breast cancer cells for previously unrecognized ERα targets and identified proto-oncogene PIM-1 as a novel potential target gene.
-We show that the expression of PIM-1 is induced in response to estradiol in MCF-7 cells and that the induction is mediated by ERα-regulated enhancers located distally upstream from the gene.
-In keeping with the growth-promoting role of the PIM-1, depletion of the PIM-1 attenuated the proliferation of the MCF-7 cells, which was paralleled with up-regulation of cyclin-dependent protein kinase inhibitor CDKN1A and CDKN2B expression.
-Analysis of PIM-1 expression between invasive breast tumors and benign breast tissue samples showed that elevated PIM-1 expression is associated with malignancy and a higher tumor grade.
-In sum, identification of PIM-1 as an ERα target gene adds a novel potential mechanism by which estrogens can contribute to breast cancer cell proliferation and carcinogenesis.

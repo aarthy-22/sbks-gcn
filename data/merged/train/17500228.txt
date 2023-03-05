@@ -1,7 +1,0 @@
-[Characteristics of A-interferon-generated dendritic cells in patients with pulmonary tuberculosis].
-The phenotype of the dendritic cells (DC) generated from the adhesion fraction of mononuclear cells in the presence of GM-CSF and alpha-interferon was studied in patients with pulmonary tuberculosis.
-Despite the absence of significant differences in the count of mature CD83+DCs in the groups of patients (n = 38) and healthy donors (n = 30), elevated CD14(+)-monocyte levels and few activated CD25(+)-DCs were indicative of the impaired process of DC maturation/generation in patients with pulmonary tuberculosis, particularly in a subgroup of patients with a low T-cell proliferative response against PPD (PPD-anergy, n = 10).
-The patients with tuberculosis showed the lower relative levels of CD11c(-)-CD123(+)-DC and the normal levels of myeloid CD11c(+)D123(-)DCs.
-However, in patients with PPD-anergy, the content of myeloid CD11c(+)CD123(-)-DCs was significantly higher than that in PPD-reactive patients.
-Moreover, the patients with PPD-anergy were characterized by the elevated peripheral blood levels of CD14+CD16(+)-monocytes, which was associated with the high suppressive activity of monocytes (r(s) = 0.53; p < 0.05).
-The impaired process of DC generation/maturation in patients with pulmonary tuberculosis is believed to be associated with the changes in the phenotypic and functional properties of monocytes and to be a cause of an inadequate antigen-specific response in tuberculous infection.

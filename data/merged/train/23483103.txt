@@ -1,6 +1,0 @@
-The induction of mitochondria-mediated apoptosis in cancer cells by ruthenium(ii) asymmetric complexes.
-Four ruthenium(ii) asymmetric complexes, [Ru(bpy)2(PAIDH)](2+) (bpy = 2,2'-bipyridine, PAIDH = 2-pyridyl-1H-anthra[1,2-d]imidazole-6,11-dione, ), [Ru(phen)2(PAIDH)](2+) (phen = 1,10-phenanthroline, ), [Ru(dmp)2(PAIDH)](2+) (dmp = 4,7-dimethyl-1,10-phenanthroline, ) and [Ru(dip)2(PAIDH)](2+) (dip = 4,7-diphenyl-1,10-phenanthroline, ), have been synthesized and characterized.
-These complexes displayed potent anti-proliferation activity against various cancer cell lines and had high selectivity between tumor cells and normal cells.
-HeLa cells exhibited the highest sensitivity to complex , accounting for the greatest cellular uptake.
-Complex was shown to accumulate preferentially in the mitochondria of HeLa cells and induced apoptosis via the mitochondrial pathway, which involved ROS generation, mitochondrial membrane potential depolarisation, and Bcl-2 and caspase family members activation.
-These results demonstrated that complex induced cancer cell apoptosis by acting on mitochondrial pathways.

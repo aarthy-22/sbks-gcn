@@ -1,4 +1,0 @@
-Identification and synthesis of N-(thiophen-2-yl) benzamide derivatives as BRAF(V600E) inhibitors.
-The V600E BRAF kinase mutation, which activates the downstream MAPK signaling pathway, commonly occurs in about 8% of all human malignancies and about 50% of all melanomas.
-In this study, we employed virtual screening and chemical synthesis to identify a series of N-(thiophen-2-yl) benzamide derivatives as potent BRAF(V600E) inhibitors.
-Structure-activity relationship studies of these derivatives revealed that compounds b40 and b47 are the two most potent BRAF(V600E) inhibitors in this series.

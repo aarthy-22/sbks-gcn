@@ -1,8 +1,0 @@
-Cynaropicrin from Cynara scolymus L. suppresses photoaging of skin by inhibiting the transcription activity of nuclear factor-kappa B. Aging of skin is characterized by skin wrinkling, laxity, and pigmentation induced by several environmental stress factors.
-Histological changes during the photoaging of skin include hyperproliferation of keratinocytes and melanocytes causing skin wrinkles and pigmentation.
-Nuclear factor kappa B (NF-κB) is one of the representative transcription factors active in conjunction with inflammation.
-NF-κB is activated by stimulation such as ultraviolet rays and inflammatory cytokines and induces the expression of various genes such as those of basic fibroblast growth factor (bFGF) and matrix metalloprotease-1 (MMP-1).
-We screened several plant extracts for their possible inhibitory effect on the transcriptional activity of NF-κB. One of them, an extract from Cynara scolymus L., showed a greatest effect on the suppression of NF-κB transactivation.
-As a result, we found that cynaropicrin, which is a sesquiterpene lactone, inhibited the NF-κB-mediated transactivation of bFGF and MMP-1.
-Furthermore, it was confirmed that in an in vivo mouse model cynaropicrin prevented skin photoaging processes leading to the hyperproliferation of keratinocytes and melanocytes.
-These findings taken together indicate that cynaropicrin is an effective antiphotoaging agent that acts by inhibiting NF-κB-mediated transactivation.

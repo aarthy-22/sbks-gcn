@@ -1,8 +1,0 @@
-What are the physiological estrogens?
-Estradiol (E2) is the principal physiological estrogen in mammals.
-E2 and its active metabolites, estrone and estriol have a characteristic phenolic A ring, unlike progesterone, testosterone, cortisol and aldosterone, which have an A ring containing a C3-ketone, a Δ(4) bond and a C19 methyl group.
-Crystal structures of E2 in the estrogen receptor (ER) confirm the importance of the A ring in stabilizing E2 in the ER.
-However, other steroids, including Δ(5)-androstenediol, 5α-androstanediol and 27-hydroxycholesterol, which have a saturated A ring containing a 3β-hydroxyl and a C19 methyl group, also mediate physiological responses through binding to estrogen receptor-α (ERα) and ERβ.
-Moreover, selective estrogen response modulators (SERMs) with diverse structures also regulate transcription of ERα and ERβ.
-Our understanding of the physiological responses mediated by these "alternative" estrogens is in its infancy.
-Further studies of the role of these steroids and SERMs in regulating responses mediated by ERα and ERβ a variety of tissues, during different stages of development, are likely to uncover additional estrogenic activities.

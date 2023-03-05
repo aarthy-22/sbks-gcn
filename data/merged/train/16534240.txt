@@ -1,9 +1,0 @@
-Corticotropin-releasing hormone reduces pressure pain sensitivity in humans without involvement of beta-endorphin(1-31), but does not reduce heat pain sensitivity.
-In the present study the effects of intravenously administered corticotropin-releasing hormone (CRH) on the release of proopiomelanocortin (POMC) derivatives such as adrenocorticotropic hormone (ACTH), beta-lipotropin (beta-LPH) and beta-endorphin (beta-END) as well as direct effects of CRH on pain sensitivity were examined.
-In 16 healthy volunteers we studied the effects of 100 microg intravenously administered CRH in absence or presence of 12 mg naloxone on heat or pressure pain sensitivity, using a double-blind, cross-over and placebo-controlled design.
-To evaluate analgesic effects of CRH via release of POMC derivatives, we determined plasma concentrations of beta-END-immunoreactive material (IRM), authentic beta-END (beta-END(1-31)) and beta-LPH IRM, in parallel with heat and pressure pain tolerance thresholds before and 15 and 30 min after treatment with CRH (or placebo), and 5 min after naloxone (or placebo) administration which was administered 40 min after CRH (or placebo) injection.
-CRH increased levels of beta-END IRM, beta-END(1-31) and beta-LPH IRM.
-As compared to beta-END IRM levels measured by a commercial RIA kit, the beta-END(1-31) levels determined by a highly specific two-site RIA, proved to be remarkably small.
-Furthermore, CRH did not induce increases of heat pain tolerance thresholds, but of pressure pain tolerance thresholds, which, however, were not reversible by naloxone.
-Neither beta-END nor beta-LPH IRM nor beta-END(1-31) levels correlated with heat or pressure pain tolerance thresholds.
-We conclude that CRH does not modulate heat, but pressure pain; POMC derivatives like beta-END IRM, beta-END(1-31) or beta-LPH do not mediate this effect.

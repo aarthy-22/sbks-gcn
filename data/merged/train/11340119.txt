@@ -1,8 +1,0 @@
-Stability of vitamin B-6-dependent aminotransferase activity in frozen packed erythrocytes is dependent on storage temperature.
-Pyridoxal 5'-phosphate (PLP) stimulation of erythrocyte alanine and aspartate aminotransferase (EALT, EAST) activities is a frequently used functional measure of vitamin B-6 status.
-Stability of enzyme activities and activity coefficients (AC, stimulated / unstimulated) was assessed in packed erythrocytes frozen at -20, -80 degrees C and under liquid nitrogen (-196 degrees C).
-Activities of EALT and EAST, with and without added PLP, were determined in fresh erythrocytes (d 0) and frozen samples on d 1, 7, 14, 28, 58 and 84.
-In -20 degrees C samples, EALT basal activity decreased 17 and 22% (P < or = 0.05 for both) by d 58 and 84, respectively, and EAST basal activity decreased 40% (P < or = 0.05) by d 58.
-In -80 and -196 degrees C samples, EALT and EAST basal activities did not change significantly.
-Activity coefficients did not differ significantly from d 0 at any storage temperature, but EAST-AC increased 9-19% (nonsignificant) in samples stored at -20 and -80 degrees C for 7 to 84 d. Additionally, EAST-AC was significantly higher in -20 than -80 and -196 degrees C samples on d 1 and 58, respectively.
-Erythrocytes may be frozen for 28 d at -20 degrees C and 84 d at -80 degrees C before analysis for EALT; for EAST, activity should be measured on fresh erythrocytes.

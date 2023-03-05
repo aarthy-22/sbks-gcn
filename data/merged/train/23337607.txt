@@ -1,9 +1,0 @@
-Prenatal exposure to bisphenol A impacts midbrain dopamine neurons and hippocampal spine synapses in non-human primates.
-Prevalent use of bisphenol-A (BPA) in the manufacture of resins, plastics and paper products has led to frequent exposure of most people to this endocrine disruptor.
-Some rodent studies have suggested that BPA can exert detrimental effects on brain development.
-However as rodent models cannot be relied on to predict consequences of human exposure to BPA during development, it is important to investigate the effects of BPA on non-human primate brain development.
-Previous research suggests that BPA preferentially targets dopamine neurons in ventral mesencephalon and glutamatergic neurons in hippocampus, so the present work examined the susceptibility of these systems to low dose BPA exposure at the fetal and juvenile stages of development in non-human primates.
-Exposure of pregnant rhesus monkeys to relatively low levels of BPA during the final 2 months of gestation, induced abnormalities in fetal ventral mesencephalon and hippocampus.
-Specifically, light microscopy revealed a decrease in tyrosine hydroxylase-expressing (dopamine) neurons in the midbrain of BPA-exposed fetuses and electron microscopy identified a reduction in spine synapses in the CA1 region of hippocampus.
-In contrast, administration of BPA to juvenile vervet monkeys (14-18 months of age) was without effect on these indices, or on dopamine and serotonin concentrations in striatum and prefrontal cortex, or on performance of a cognitive task that tests working memory capacity.
-These data indicate that BPA exerts an age-dependent detrimental impact on primate brain development, at blood levels within the range measured in humans having only environmental contact with BPA.

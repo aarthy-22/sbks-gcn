@@ -1,7 +1,0 @@
-Lipotoxicity impairs incretin signalling.
-The incretin hormones glucagon-like peptide-1 and glucose-dependent insulinotropic peptide are secreted by enteroendocrine cells and augment glucose-induced insulin secretion in response to food ingestion in a glucose-dependent manner.
-This mechanism forms the basis for incretin-based therapies in type 2 diabetes.
-However, the insulinotropic effect of incretins is diminished in type 2 diabetic patients, due in part to reduced expression of incretin receptors as a consequence of glucotoxicity.
-In this issue of Diabetologia, Kang et al (DOI: 10.1007/s00125-012-2776-x ) provide evidence that in addition to glucotoxicity, lipotoxicity also affects incretin receptor expression and signalling in insulin-secreting cells and isolated islets.
-In animal models of diabetes, the authors show that co-administration of a lipid-lowering drug with a dipeptidyl peptidase-4 inhibitor or a glucagon-like peptide-1 agonist improved glucose tolerance and beta cell mass.
-These novel findings provide convincing support for the notion that restoring normal circulating lipid levels in type 2 diabetes might help improve the efficacy of incretin-based therapies.

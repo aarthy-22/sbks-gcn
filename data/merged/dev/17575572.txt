@@ -1,6 +1,0 @@
-An investigation of the absolute configuration of the potent histamine H3 receptor antagonist GT-2331 using vibrational circular dichroism.
-GT-2331 [(+)-1] is one of the most potent members of a class of chiral drug substances used to regulate the synthesis and release of histamine by the histamine H3 receptor, and as such, is an important biomarker for pharmaceutical companies conducting research in this field.
-In addition to overall structural features, the bioactivity of this molecule has also been found to be highly dependent on absolute stereochemistry, making the reliable assignment of this property a necessity.
-X-ray diffraction studies have provided conflicting data, leaving its three-dimensional structure uncertain.
-In view of this, its absolute configuration was investigated by vibrational circular dichroism.
-Results from this study provided independent assignment of this important molecule as the (1S,2S)-enantiomer.

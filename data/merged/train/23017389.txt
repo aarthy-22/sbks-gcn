@@ -1,8 +1,0 @@
-Studies on the antioxidant potential of flavones of Allium vineale isolated from its water-soluble fraction.
-The aim of this work was to examine the chemical constituents and antioxidant potential of water-soluble fractions from the commonly consumed vegetable, Allium vineale.
-The water-soluble fraction, containing phenolic compounds, was extracted with ethyl acetate to obtain flavonoids which were separated and purified by repeated column chromatography over Sephadex LH-20, RP C18 and silica gel.
-The isolated compounds were identified according to their physicochemical properties and spectral data (UV, HPLC-TOF/MS, (1)H NMR, (13)C NMR and 2D NMR).
-Three flavonoids were isolated and identified as chrysoeriol-7-O-[2″-O-E-feruloyl]-β-d-glucoside (1), chrysoeriol (2), and isorhamnetin-3-β-d-glucoside (3).
-Antioxidant studies of the aqueous extract and three isolated compounds, 1, 2, 3, were undertaken and they were found to have significant antioxidant activity.
-Antioxidant activities were evaluated for total antioxidant activity by the ferric thiocyanate method, ferric ion (Fe(3+)) reducing antioxidant power assay (FRAP), ferrous ion (Fe(2+)) metal chelating activity, and DPPH free radical-scavenging activity.
-The water-soluble ethyl acetate and methanol extraction methods were also compared using HPLC-TOF/MS.

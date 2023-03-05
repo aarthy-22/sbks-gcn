@@ -1,7 +1,0 @@
-Potential cholestatic activity of various therapeutic agents assessed by bile canalicular membrane vesicles isolated from rats and humans.
-The active transport of solutes mediated by the bile salt export pump (BSEP/ABCB11) and multidrug resistance associated protein-2 (MRP2/ABCC2) are thought to involve bile acid-dependent and -independent bile formation, respectively.
-To evaluate the potential of therapeutic agents as inhibitors of such transporters on bile canalicular membranes, we examined the inhibition of the primary active transport of typical substrates by 15 drugs, clinically known to cause cholestasis in canalicular membrane vesicles.
-The inhibition by most of the compounds in rat canalicular membrane vesicles (CMVs) was minimal or observed at much higher concentrations than obtained in clinical situations.
-However, cloxacillin, cyclosporin A and midecamycin inhibited BSEP, and cyclosporin A and midecamycin inhibited MRP2 with an inhibition constant close to the clinical concentration.
-By comparing the inhibition potential between rat and human CMVs, the inhibition of BSEP- and MRP2-mediated transport by midecamycin and cyclosporin A was relatively similar whereas the inhibitory effect on BSEP-mediated transport by cloxacillin and glibenclamide was more marked in humans than in rats.
-These results suggest that the majority of cholestasis-inducing drugs have a minimal inhibitory effect on rat BSEP and MRP2 although species differences in inhibitory potential should be considered, especially in the case of BSEP.

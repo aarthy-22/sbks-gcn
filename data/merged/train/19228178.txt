@@ -1,7 +1,0 @@
-Pharmacology of ramelteon, a selective MT1/MT2 receptor agonist: a novel therapeutic drug for sleep disorders.
-An estimated one-third of the general population is affected by insomnia, and this number is increasing due to more stressful working conditions and the progressive aging of society.
-However, current treatment of insomnia with hypnotics, gamma-aminobutyric acid A (GABA(A)) receptor modulators, induces various side effects, including cognitive impairment, motor disturbance, dependence, tolerance, hangover, and rebound insomnia.
-Ramelteon (Rozerem; Takeda Pharmaceutical Company Limited, Osaka, Japan) is an orally active, highly selective melatonin MT(1)/MT(2) receptor agonist.
-Unlike the sedative hypnotics that target GABA(A) receptor complexes, ramelteon is a chronohypnotic that acts on the melatonin MT(1) and MT(2) receptors, which are primarily located in the suprachiasmatic nucleus, the body's "master clock.
-" As such, ramelteon possesses the first new therapeutic mechanism of action for a prescription insomnia medication in over three decades.
-Ramelteon has demonstrated sleep-promoting effects in clinical trials, and coupled with its favorable safety profile and lack of abuse potential or dependence, this chronohypnotic provides an important treatment option for insomnia.

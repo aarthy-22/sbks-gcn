@@ -11,3 +11,6 @@ T6	CHEMICAL 599 616	methylamphetamine
 T7	CHEMICAL 749 757	deprenyl
 T8	CHEMICAL 861 874	(-) -deprenyl
 T9	CHEMICAL 875 892	(-) -amphetamines
+R0	CPR-4 Arg1:T1 Arg2:T12
+R1	CPR-4 Arg1:T1 Arg2:T13
+R2	NOT Arg1:T4 Arg2:T13

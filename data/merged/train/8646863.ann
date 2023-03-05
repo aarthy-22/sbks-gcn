@@ -3,3 +3,5 @@ T1	CHEMICAL 40 62	Fluticasone propionate
 T2	CHEMICAL 489 511	fluticasone propionate
 T5	GENE-Y 580 603	glucocorticoid receptor
 T3	CHEMICAL 681 703	fluticasone propionate
+R0	CPR-2 Arg1:T2 Arg2:T5
+R1	NOT Arg1:T5 Arg2:T3

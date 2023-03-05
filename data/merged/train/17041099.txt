@@ -1,9 +1,0 @@
-The effect of a novel transition state inhibitor of methylthioadenosine phosphorylase on pemetrexed activity.
-Pemetrexed is a new-generation antifolate inhibitor of thymidylate synthase (TS) and a weaker inhibitor of glycinamide ribonucleotide transformylase (GARFT) required for de novo purine synthesis.
-Methylthioadenosine phosphorylase (MTAP) salvages purines by releasing adenine from methylthioadenosine and is often deleted in mesothelioma.
-The current study addresses the effect of MTAP on pemetrexed activity using a highly potent transition state inhibitor of MTAP, MT-DADMe-Immucillin A (ImmA; K(i) = 86 pmol/L) in the MTAP(+) NCI-H28 and MTAP(-) NCI-H2052 mesothelioma cell lines.
-Based on selective nucleoside protection, TS was found to be the primary pemetrexed target in both cell lines with GARFT inhibition requiring 20- to 30-fold higher pemetrexed concentrations.
-ImmA had no effect on pemetrexed activity but, when thymidine was added, the pemetrexed IC(50) decreased by a factor of approximately 3 in MTAP(+) H28 cells with no effect in MTAP(-) H2052 cells.
-Conversely, the transfection of MTAP into H2052 cells increased the pemetrexed IC(50) by nearly 3-fold but only in the presence of thymidine; this was reversed by ImmA. An MTAP-specific short interfering RNA produced a 2-fold decrease in pemetrexed IC(50) in MTAP(+) HeLa cells in the presence of thymidine.
-These data indicate that suppression of constitutive MTAP has no effect on pemetrexed activity when the primary target is TS.
-There is a modest salutary effect when the pemetrexed target is GARFT alone.

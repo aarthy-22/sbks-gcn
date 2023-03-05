@@ -1,9 +1,0 @@
-Minireview: malonyl CoA, AMP-activated protein kinase, and adiposity.
-An increasing body of evidence has linked AMP-activated protein kinase (AMPK) and malonyl coenzyme A (CoA) to the regulation of energy balance.
-Thus, factors that activate AMPK and decrease the concentration of malonyl CoA in peripheral tissues, such as exercise, decrease triglyceride accumulation in the adipocyte and other cells.
-The data reviewed here suggest that this is related to the fact that these factors concurrently increase fatty acid oxidation, decrease the esterification of fatty acids to form glycerolipids, and, by mechanisms still unknown, increase energy expenditure.
-Malonyl CoA contributes to these events because it is an allosteric inhibitor of carnitine palmitoyltransferase, the enzyme that controls the transfer of long-chain fatty acyl CoA from the cytosol to the mitochondria, where they are oxidized.
-AMPK activation in turn increases fatty acid oxidation (by effects on enzymes that govern malonyl CoA synthesis and possibly its degradation) and inhibits triglyceride synthesis.
-It also increases the expression of uncoupling proteins and the transcriptional regulator peroxisome proliferator-activated receptor gamma coactivator-1alpha (PGC1alpha), which could possibly increase energy expenditure.
-Recent studies suggest that the ability of leptin, adiponectin, 5'-aminoimidazole 4-carboxamide riboside (AICAR), adrenergic agonists, and metformin to diminish adiposity may be mediated, at least in part, by AMPK activation in peripheral tissues.
-In addition, preliminary studies suggest that malonyl CoA and AMPK take part in fuel-sensing and signaling mechanisms in the hypothalamus that could regulate food intake and energy expenditure.

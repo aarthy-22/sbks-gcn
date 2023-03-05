@@ -1,8 +1,0 @@
-Comparison of monoamine oxidase-A inhibition by moclobemide in vitro and ex vivo in rats.
-Inhibition of MAO activity was measured in rat brain homogenates using 5-HT as MAO-A substrate and phenylethylamine as MAO-B substrate.
-Moclobemide rather selectively inhibited MAO-A. Its inhibitory potency is rather low, like that of toloxatone, whereas clorgyline, harmaline, cimoxatone and brofaromine were all found to be at least 100 times more potent.
-Phenelzine, isocarboxazid and tranylcypromine were nonspecific, inhibiting MAO-A and MAO-B to about the same extent.
-The same drugs were also tested ex vivo.
-Here again moclobemide preferentially inhibited MAO-A; it was equipotent to clorgyline and brofaromine in these tests, and 2-4 times as potent as cimoxatone and harmaline.
-Moclobemide is a relatively weak MAO-A inhibitor in vitro and yet more potent in vivo than other reversible inhibitors, suggesting that the compound may be converted in vivo to an active form.
-Nevertheless, it has not been possible so far to identify activated derivatives, and recent findings that moclobemide markedly inhibits liver MAO-A within 5 min of an intravenous injection strongly suggests that the compound itself is responsible for the inhibition.

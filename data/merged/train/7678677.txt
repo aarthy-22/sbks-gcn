@@ -1,7 +1,0 @@
-Alprenolol and bromoacetylalprenololmenthane are competitive slowly reversible antagonists at the beta 1-adrenoceptors of rat left atria.
-We studied the effects of alprenolol and bromoacetylalprenololmenthane (BAAM) on rat left atria.
-Alprenolol and BAAM at 10(-7), 3 x 10(-7), and 10(-6) M inhibited the cardiac stimulation response slightly, which is indicative of membrane-stabilizing activity independent of beta-adrenoceptor blockade.
-This membrane-stabilizing activity was readily reversible.
-Alprenolol and BAAM also caused surmountable antagonism of isoprenaline responses, and this beta 1-adrenoceptor antagonism was slowly reversible.
-Inhibition of the isoprenaline responses with alprenolol and BAAM at 10(-6) M was at equilibrium after 60 min, which is indicative of reversible antagonism.
-We conclude that alprenolol and BAAM are competitive slowly reversible beta 1-adrenoceptor antagonists on rat left atria.

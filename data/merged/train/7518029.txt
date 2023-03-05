@@ -1,8 +1,0 @@
-Differential influence of haloperidol and sulpiride on dopamine receptors and peptide mRNA levels in the rat striatum and pituitary.
-We examined the effect of chronic administration (14 days) of haloperidol (2 mg/kg/day) or sulpiride (100 mg/kg/day), on the mRNA levels of various genes in the rat striatum and pituitary by quantitative in situ and Northern blot hybridizations.
-In the pituitary, haloperidol and sulpiride induced similar increases of mRNAs of pro-opiomelanocortin (POMC) (+65% and +73%), prolactin (PRL) (+821% and +840%) and growth hormone (GH) (+32% and +47%), but sulpiride induced a greater increase of D2R mRNA (+125%) than haloperidol (+92%).
-In the striatum, sulpiride and haloperidol had different effects: sulpiride induced a higher increase than haloperidol of both preproenkephalin A (PPA) mRNA (+67% versus +47%) and D2 dopamine receptor (D2R) mRNAs (+72% versus +40%).
-Moreover, haloperidol and sulpiride had opposite effects on substance P (SP) mRNA.
-Haloperidol decreased the amount of SP mRNA by 20% while sulpiride increased it by 20%.
-The D1 dopamine receptor (D1R) mRNA level was not significantly modified after either treatment.
-Our results demonstrate that the effect of a chronic haloperidol treatment on striatal dopamine receptors and neuropeptide mRNA levels is different to that of sulpiride, whereas it is similar on pituitary hormones mRNA levels.

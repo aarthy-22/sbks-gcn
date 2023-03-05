@@ -1,4 +1,0 @@
-Design, synthesis and biological evaluation of novel hybrid compounds of imidazole scaffold-based 2-benzylbenzofuran as potent anticancer agents.
-A series of novel hybrid compounds between 2-benzylbenzofuran and imidazole has been prepared and evaluated in vitro against a panel of human tumor cell lines.
-The results suggest that the existence of benzimidazole ring and substitution of the imidazolyl-3-position with a naphthylacyl or 4-methoxyphenacyl group were vital for modulating cytotoxic activity.
-In particular, hybrid compounds 46 and 47 were found to be the most potent derivatives against 5 strains human tumor cell lines and more active than cisplatin (DDP), and exhibited cytotoxic activities selectively against breast carcinoma (MCF-7) and myeloid liver carcinoma (SMMC-7721), respectively.

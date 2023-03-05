@@ -1,6 +1,0 @@
-Carbonic anhydrase inhibitors.
-The X-ray crystal structure of human isoform II in adduct with an adamantyl analogue of acetazolamide resides in a less utilized binding pocket than most hydrophobic inhibitors.
-We investigated the inhibitory activity of several 1,3,4-thiadiazole-sulfonamides against all catalytically active CA (EC 4.2.1.1), CA I-XV.
-The tail derivatizing the 5-position in the 1,3,4-thiadiazole-2-sulfonamide scaffold was observed to be critical as an inhibitory determinant of these compounds.
-The high resolution X-ray crystal structure of hCA II in complex with 5-(1-adamantylcarboxamido)-1,3,4-thiadiazole-2-sulfonamide, showed the adamantyl moiety of the inhibitor residing in a less utilized binding pocket than that of most hydrophobic inhibitors, lined by the amino acid residues Ile91, Val121 and Phe131.
-This binding site may explain the diverse inhibition profiles of 5-carboxamide- and sufonamide-derivatized 1,3,4-thiadiazole-2-sulfonamides and offers a hot spot for designing isoform selective inhibitors, considering that residues 91 and 131 are highly variable among the 13 catalytically active isoforms.

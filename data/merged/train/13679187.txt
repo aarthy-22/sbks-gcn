@@ -1,8 +1,0 @@
-Design, synthesis and biological evaluation of ambenonium derivatives as AChE inhibitors.
-Ambenonium (1), an old AChE inhibitor, is endowed with an outstanding affinity and a peculiar mechanism of action that, taken together, make it a very promising pharmacological tool for the treatment of Alzheimer's disease (AD).
-Unfortunately, the bisquaternary structure of 1 prevents its passage through the blood brain barrier.
-In a search of centrally active ambenonium derivatives, we planned to synthesize tertiary amines of 1, such as 2 and 3.
-In addition, to add new insights into the binding mechanism of the inhibitor, we designed constrained analogues of ambenonium by incorporating the diamine functions into cyclic moieties (4-12).
-The biological evaluation of the new compounds has been assessed in vitro against human AChE and BChE. All tertiary amine derivatives resulted more than 1000-fold less potent than 1 and, unlike prototype, did not show any selectivity between the two enzymes.
-This result, because of recent findings concerning the role of BChE in AD, makes our compounds, endowed with a well-balanced profile of AChE/BChE inhibition, valuable candidates for further development.
-To better clarify the interactions that account for the high affinity of 1, docking simulations and molecular dynamics studies on the AChE-1 complex were also carried out.

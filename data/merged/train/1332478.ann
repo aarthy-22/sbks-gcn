@@ -12,3 +12,5 @@ T13	GENE-Y 933 959	beta 2-adrenergic receptor
 T1	CHEMICAL 1112 1121	ritodrine
 T11	GENE-Y 1268 1295	beta 2-adrenergic receptors
 R0	CPR-4 Arg1:T7 Arg2:T13
+R1	NOT Arg1:T12 Arg2:T5
+R2	NOT Arg1:T8 Arg2:T13

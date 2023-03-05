@@ -1,9 +1,0 @@
-Optimization of encapsulation of a synthetic long peptide in PLGA nanoparticles: low-burst release is crucial for efficient CD8(+) T cell activation.
-Overlapping synthetic long peptides (SLPs) hold great promise for immunotherapy of cancer.
-Poly(lactic-co-glycolic acid) (PLGA) nanoparticles (NPs) are being developed as delivery systems to improve the potency of peptide-based therapeutic cancer vaccines.
-Our aim was to optimize PLGA NP for SLP delivery with respect to encapsulation and release, using OVA24, a 24-residue long synthetic antigenic peptide covering a CTL epitope of ovalbumin (SIINFEKL), as a model antigen.
-Peptide-loaded PLGA NPs were prepared by a double emulsion/solvent evaporation technique.
-Using standard conditions (acidic inner aqueous phase), we observed that either encapsulation was very low (1-30%), or burst release extremely high (>70%) upon resuspension of NP in physiological buffers.
-By adjusting formulation and process parameters, we uncovered that the pH of the first emulsion was critical to efficient encapsulation and controlled release.
-In particular, an alkaline inner aqueous phase resulted in circa 330 nm sized NP with approximately 40% encapsulation efficiency and low (<10%) burst release.
-These NP showed enhanced MHC class I restricted T cell activation in vitro when compared to high-burst releasing NP and soluble OVA24, proving that efficient entrapment of the antigen is crucial to induce a potent cellular immune response.

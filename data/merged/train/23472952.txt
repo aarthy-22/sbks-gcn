@@ -1,5 +1,0 @@
-Discovery of (R)-2-amino-6-borono-2-(2-(piperidin-1-yl)ethyl)hexanoic acid and congeners as highly potent inhibitors of human arginases I and II for treatment of myocardial reperfusion injury.
-Recent efforts to identify treatments for myocardial ischemia reperfusion injury have resulted in the discovery of a novel series of highly potent α,α-disubstituted amino acid-based arginase inhibitors.
-The lead candidate, (R)-2-amino-6-borono-2-(2-(piperidin-1-yl)ethyl)hexanoic acid, compound 9, inhibits human arginases I and II with IC50s of 223 and 509 nM, respectively, and is active in a recombinant cellular assay overexpressing human arginase I (CHO cells).
-It is 28% orally bioavailable and significantly reduces the infarct size in a rat model of myocardial ischemia/reperfusion injury.
-Herein, we report the design, synthesis, and structure-activity relationships (SAR) for this novel series of inhibitors along with pharmacokinetic and in vivo efficacy data for compound 9 and X-ray crystallography data for selected lead compounds cocrystallized with arginases I and II.

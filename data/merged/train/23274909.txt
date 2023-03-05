@@ -1,9 +1,0 @@
-Nogo-a downregulation improves insulin secretion in mice.
-Type 2 diabetes (T2D) is characterized by β-cell dysfunction and the subsequent depletion of insulin production, usually in a context of increased peripheral insulin resistance.
-T2D patients are routinely treated with oral antidiabetic agents such as sulfonylureas or dipeptidyl peptidase-4 antagonists, which promote glucose- and incretin-dependent insulin secretion, respectively.
-Interestingly, insulin secretion may also be induced by neural stimulation.
-Here we report the expression of Nogo-A in β-cells.
-Nogo-A is a membrane protein that inhibits neurite outgrowth and cell migration in the central nervous system.
-We observed that Nogo-A-deficient mice display improved insulin secretion and glucose clearance.
-This was associated with a stronger parasympathetic input and higher sensitivity of β-cells to the cholinergic analog carbachol.
-Insulin secretion was also improved in diabetic db/db mice treated with neutralizing antibody against Nogo-A. Together, these findings suggest that promoting the vagal stimulation of insulin secretion through the selective inhibition of Nogo-A could be a novel therapeutic approach in T2D.

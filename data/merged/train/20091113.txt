@@ -1,9 +1,0 @@
-Polymorphisms in dopamine transporter (SLC6A3) are associated with stimulant effects of D-amphetamine: an exploratory pharmacogenetic study using healthy volunteers.
-Individuals vary in their subjective responses to stimulant drugs, and these differences are believed to be partially genetic in origin.
-We evaluated associations between mood, cognitive and cardiovascular responses to d-amphetamine and four polymorphisms in the dopamine transporter (SLC6A3): rs460000, rs3756450, rs37022 and rs6869645.
-Healthy Caucasian male and female volunteers (N = 152) participated in a double-blind, crossover design study in which they received placebo, 10 and 20 mg of d-amphetamine.
-We measured self-reported rating of mood, performance on the Digit Symbol Substitution Task, blood pressure and heart rate.
-Individuals with the C/C genotype at rs460000 (N = 83) reported approximately twofold higher ratings of stimulation and euphoria relative to the A/A+A/C (N = 69) genotype group, at both the 10 and 20 mg doses.
-No other responses or SNPs showed significant effects.
-rs460000 is in perfect LD with rs463379 (CEU: D' = 1; r (2) = 1), which was not studied here, but has been associated with etiology of Attention Deficit Hyperactivity Disorder (ADHD).
-These findings suggest a pleiotropic effect of this polymorphic locus on both ADHD and sensitivity to the subjective effects of amphetamine.

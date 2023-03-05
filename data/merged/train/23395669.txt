@@ -1,9 +1,0 @@
-Sophocarpine alleviates hepatocyte steatosis through activating AMPK signaling pathway.
-Sophocarpine, an effective compound derived from foxtail-like sophora herb and seed, has been reported that it can alleviate non-alcoholic steatohepatitis (NASH) in rats and affect adipocytokine synthesis.
-Meanwhile, adipocytokines could adjust hepatic lipid metabolism through AMPK signaling pathway.
-In the work presented here, primary hepatocytes were isolated from specific pathogen-free male SD rats and incubated with 200 μmol/L oleic acid for 24h to induce steatotic model, then treated with sophocarpine for 72 h. Oil red staining was performed to evaluate steatosis, total RNA and protein of primary hepatocytes were extracted for real-time RT-PCR and western blot analysis.
-A cluster of aberrances were observed in the model group, including hepatocyte steatosis, increased leptin and decreased adiponectin mRNA expressions.
-While sophocarpine treatment resulted in: significant improvement of steatosis (>50% decrease), decrease of leptin expression (<0.57-fold) and increase of adiponectin expression (>1.48-fold).
-Moreover, compared with the model group, sophocarpine could significantly increase P-AMPKα (>5.82-fold), AMPKα (>1.29-fold) and ACC (>3.27-fold) protein expressions, and reduce P-ACC (<0.30-fold) and HNF-4α (<0.20-fold) protein expression.
-The mRNA expression of Srebp-1c was downregulated significantly simultaneously (<0.68-fold).
-We concluded that sophocarpine could alleviate hepatocyte steatosis and the potential mechanism might be the activated signaling pathway of AMPK.

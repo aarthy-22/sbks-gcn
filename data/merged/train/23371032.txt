@@ -1,8 +1,0 @@
-Resistance to conventional insecticides in Pakistani populations of Musca domestica L. (Diptera: Muscidae): a potential ectoparasite of dairy animals.
-The house fly, Musca domestica L., is an important hygienic pest of humans and dairy animals with the potential to develop resistance to most chemical classes of insecticides.
-Six adult house fly strains from dairy farms in Punjab, Pakistan were evaluated for resistance to selected insecticides from organochlorine, organophosphate, carbamate and pyrethroid classes.
-For a chlorocyclodiene and two organophosphates tested, the resistance ratios (RR) at LC50 were in the range of 5.60-22.02 fold for endosulfan, 7.66-23.24 fold for profenofos and 2.47-7.44 fold for chlorpyrifos.
-For two pyrethroids and one carbamate, the RR values at LC50 were 30.22-70.02 for cypermethrin, 5.73-18.31 for deltamethrin, and 4.39-15.50 for methomyl.
-This is the first report of resistance to different classes of insecticides in Pakistani dairy populations of house flies.
-Regular insecticide resistance monitoring programs on dairy farms are needed to prevent field control failures.
-Moreover, integrated approaches including the judicious use of insecticides are needed to delay the development of insecticide resistance in house flies.

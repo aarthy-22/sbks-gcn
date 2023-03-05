@@ -1,8 +1,0 @@
-Aromatic-L-amino-acid decarboxylase, a pyridoxal phosphate-dependent enzyme, is a beta-cell autoantigen.
-Different autoantigens are thought to be involved in the pathogenesis of insulin-dependent diabetes mellitus, and they may account for the variation in the clinical presentation of the disease.
-Sera from patients with autoimmune polyendocrine syndrome type I contain autoantibodies against the beta-cell proteins glutamate decarboxylase and an unrelated 51-kDa antigen.
-By screening of an expression library derived from rat insulinoma cells, we have identified the 51-kDa protein as aromatic-L-amino-acid decarboxylase (EC 4.1.1.28).
-In addition to the previously published full-length cDNA, forms coding for a truncated and an alternatively spliced version were identified.
-Aromatic L-amino acid decarboxylase catalyzes the decarboxylation of L-5-hydroxytryptophan to serotonin and that of L-3,4-dihydroxyphenylalanine to dopamine.
-Interestingly, pyridoxal phosphate is the cofactor of both aromatic L-amino acid decarboxylase and glutamate decarboxylase.
-The biological significance of the neurotransmitters produced by the two enzymes in the beta cells remains largely unknown.

@@ -21,3 +21,6 @@ T9	CHEMICAL 1974 1994	olmesartan medoxomil
 T10	CHEMICAL 1999 2018	hydrochlorothiazide
 T11	CHEMICAL 2170 2190	olmesartan medoxomil
 T12	CHEMICAL 2201 2220	hydrochlorothiazide
+R0	CPR-6 Arg1:T13 Arg2:T23
+R1	NOT Arg1:T23 Arg2:T14
+R2	NOT Arg1:T23 Arg2:T15

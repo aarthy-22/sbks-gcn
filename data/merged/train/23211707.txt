@@ -1,7 +1,0 @@
-Steroid receptor coactivator-1 mediates estrogenic actions to prevent body weight gain in female mice.
-Estrogen receptor-α (ERα) expressed by hypothalamic proopiomelanocortin and steroidogenic factor-1 neurons largely mediates the antiobesity effects of estrogens in females.
-However, the critical molecular events that are coupled to ERα and mediate estrogenic effects on energy balance remain unknown.
-In the current study, we demonstrated that steroid receptor coactivator-1 (SRC1), a nuclear receptor coactivator, is abundantly expressed by both proopiomelanocortin and steroidogenic factor-1 neurons.
-We further showed that central administration of an ERα agonist, propyl pyrazole triol, acutely increases physical interaction between SRC1 and ERα in the hypothalamus.
-Finally, we demonstrated that the effects of estrogens on energy homeostasis are significantly blunted in female mice lacking SRC1 globally.
-Collectively our results indicate that SRC1 is functionally required to mediate the antiobesity effects of estrogen-ERα signals.

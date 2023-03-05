@@ -1,7 +1,0 @@
-Phenylalanine ammonia lyase (PAL) enzyme activity and antioxidant properties of some cyanobacteria isolates.
-In the present study, six cyanobacteria isolates were evaluated for the PAL enzyme activity, and their methanol extracts were assessed for the total phenolic amount and other antioxidant parameters.
-Synechocystis sp. BASO444 and Synechocystis sp. BASO673 isolates with high levels of total phenols (66.0±1.2μg/mg, 78.1±1.8μg/mg, respectively) also showed high levels of PAL activities (20.5±3.1U/mg protein, 17.2±2.3U/mg protein, respectively) and strong antioxidant activities.
-To understand the effect of l-phenylalanine (l-phe) on the PAL activity, total phenolic amount, and phenolic constituents, isolates were evaluated with 100mg/l l-phe.
-While PAL activities exhibited no significant change with l-phe addition, total phenolic amount of the isolates significantly increased.
-HPLC analysis revealed gallic acid, trans-cinnamic acid, p-coumaric acid, and ferulic acid as the main compounds.
-Results suggested that the two isolate mights be an important source for the l-phe inducible phenolic compounds.

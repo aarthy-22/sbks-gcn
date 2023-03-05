@@ -11,3 +11,4 @@ T2	CHEMICAL 1479 1489	tamsulosin
 T12	GENE-Y 1622 1642	alpha 1-adrenoceptor
 T3	CHEMICAL 1831 1841	tamsulosin
 T4	CHEMICAL 1946 1956	Tamsulosin
+R0	CPR-6 Arg1:T10 Arg2:T13

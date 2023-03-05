@@ -1,6 +1,0 @@
-Hierarchical NiO microflake films with high coloration efficiency, cyclic stability and low power consumption for applications in a complementary electrochromic device.
-We have demonstrated that thin films of hierarchical NiO microflakes assembled from nanoleaves can be grown directly on FTO-coated glass substrates using a facile and template-free hydrothermal technique.
-This hierarchical structure holds the advantages of both nanometre-sized building blocks and microsized assemblies.
-Thus, the films exhibit highly enhanced electrochromic performances and cyclic stability due to their high surface area and good electrochemical stability.
-Moreover, a complementary electrochromic device combining the hierarchical NiO microflake film with a self-weaving WO3 nanoflake film is fabricated to further improve the electrochromic performance.
-As a result, the complementary electrochromic device shows a high optical modulation (73.2% at 550 nm), large coloration efficiency (146.9 cm(2) C(-1) at 550 nm by applying a low coloration voltage of -1.0 V) and fast switching responses with a coloring time of 1.8 s and a bleaching time of 3.2 s. It is also observed that there is no significant degradation of the electrochromic properties after 2000 continuous coloration/bleaching cycles, making it attractive for practical applications.

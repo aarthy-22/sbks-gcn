@@ -11,4 +11,11 @@ T9	GENE-Y 375 405	delta-aminolevulinate synthase
 T3	CHEMICAL 526 548	pyridoxal 5'-phosphate
 T4	CHEMICAL 606 616	pyridoxine
 T12	GENE-N 811 816	G663A
-R0	NOT Arg1:T13 Arg2:T6
+R0	CPR-3 Arg1:T3 Arg2:T9
+R1	NOT Arg1:T13 Arg2:T6
+R2	NOT Arg1:T10 Arg2:T5
+R3	NOT Arg1:T10 Arg2:T1
+R4	NOT Arg1:T11 Arg2:T1
+R5	NOT Arg1:T5 Arg2:T8
+R6	NOT Arg1:T8 Arg2:T1
+R7	NOT Arg1:T9 Arg2:T4

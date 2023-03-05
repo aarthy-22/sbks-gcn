@@ -1,7 +1,0 @@
-Synthesis and antibacterial activity of 9-oxime ether non-ketolides, and novel binding mode of alkylides with bacterial rRNA.
-We report a series of new 9-oxime ether non-ketolides, including 3-hydroxyl, 3-O-acyl and 3-O-alkyl clarithromycin derivatives, and thiophene-containing ketolides 1b-1d.
-Unlike previously reported ketolide 1a, none of them is comparable to telithromycin.
-A molecular modeling study was performed to gain insight into the binding mode of alkylides 17-20 with bacterial rRNA and to rationalize the great disparity of their SAR.
-The 3-O-sidechains of 19 and 20 point to the so-called hydrophilic side of the macrolide ring, as seen in clarithromycin.
-In contrast, the 3-O-sidechains of 17 and 18 bend to the backside, the so-called hydrophobic side of the macrolide ring.
-The results clearly indicated the alkylides with improved antibacterial activity might possess a novel binding mode, which is different from clarithromycin and the alkylides with poor activity.

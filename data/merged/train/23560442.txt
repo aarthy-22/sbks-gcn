@@ -1,3 +1,0 @@
-Enhancing Raman Scattering without Plasmons: Unprecedented Sensitivity Achieved by TiO2 Shell-Based Resonators.
-A remarkable enhancement of Raman scattering is achieved by TiO2 shell-based spherical resonators in the absence of plasmonic enhancers.
-This effect is ascribed to the synergistic combination of high refractive index of the shell layer, multiple light scattering through the spheres, and related geometrical factors and can be exploited to fabricate a new generation of self-diagnostic, recyclable SERS-active substrates.

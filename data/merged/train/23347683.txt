@@ -1,4 +1,0 @@
-A novel class of 3-(phenoxy-phenyl-methyl)-pyrrolidines as potent and balanced norepinephrine and serotonin reuptake inhibitors: synthesis and structure-activity relationships.
-A series of 3-(phenoxy-phenyl-methyl)-pyrrolidine analogues were discovered to be potent and balanced norepinephrine (NE) and serotonin (5-hydroxytryptamine, 5-HT) reuptake inhibitors.
-Several of these compounds were identified to have suitable in vitro pharmacokinetic properties for an orally dosed and CNS-targeted drug.
-Compound 39b, in particular, was identified as a potent NET and SERT reuptake inhibitor (NSRI) with minimal off-target activity and demonstrated robust efficacy in the spinal nerve ligation model of pain behavior.

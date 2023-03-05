@@ -1,6 +1,0 @@
-Structure-function of the glucagon receptor family of G protein-coupled receptors: the glucagon, GIP, GLP-1, and GLP-2 receptors.
-The glucagon-like peptides include glucagon, GLP-1, and GLP-2, and exert diverse actions on nutrient intake, gastrointestinal motility, islet hormone secretion, cell proliferation and apoptosis, nutrient absorption, and nutrient assimilation.
-GIP, a related member of the glucagon peptide superfamily, also regulates nutrient disposal via stimulation of insulin secretion.
-The actions of these peptides are mediated by distinct members of the glucagon receptor superfamily of G protein-coupled receptors.
-These receptors exhibit unique patterns of tissue-specific expression, exhibit considerable amino acid sequence identity, and share similar structural and functional properties with respect to ligand binding and signal transduction.
-This article provides an overview of the biology of these receptors with an emphasis on understanding the unique actions of glucagon-related peptides through studies of the biology of their cognate receptors.

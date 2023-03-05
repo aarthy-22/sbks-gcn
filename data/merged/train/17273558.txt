@@ -1,8 +1,0 @@
-Inhaled iloprost suppresses the cardinal features of asthma via inhibition of airway dendritic cell function.
-Inhalation of iloprost, a stable prostacyclin (PGI(2)) analog, is a well-accepted and safe treatment for pulmonary arterial hypertension.
-Although iloprost mainly acts as a vasodilator by binding to the I prostanoid (IP) receptor, recent evidence suggests that signaling via this receptor also has antiinflammatory effects through unclear mechanisms.
-Here we show in a murine model of asthma that iloprost inhalation suppressed the cardinal features of asthma when given during the priming or challenge phase.
-As a mechanism of action, iloprost interfered with the function of lung myeloid DCs, critical antigen-presenting cells of the airways.
-Iloprost treatment inhibited the maturation and migration of lung DCs to the mediastinal LNs, thereby abolishing the induction of an allergen-specific Th2 response in these nodes.
-The effect of iloprost was DC autonomous, as iloprost-treated DCs no longer induced Th2 differentiation from naive T cells or boosted effector cytokine production in primed Th2 cells.
-These data should pave the way for a clinical effectiveness study using inhaled iloprost for the treatment of asthma.

@@ -1,9 +1,0 @@
-Brain but not spinal NR2B receptor is responsible for the anti-allodynic effect of an NR2B subunit-selective antagonist CP-101,606 in a rat chronic constriction injury model.
-In order to examine the site of action of an NR2B subtype-selective NMDA antagonist CP-101,606, we investigated its analgesic effect in a rat model of neuropathic pain at various routes of administration.
-Mechanical allodynia was induced by chronic constriction injury (CCI) of the sciatic nerve in male Sprague-Dawley rats.
-Subcutaneous treatment of the animals with CP-101,606 at 10 mg/kg significantly inhibited CCI-induced mechanical allodynia.
-Intracerebroventricular injection of CP-101,606 at 10, 30 and 100 nmol also inhibited the mechanical allodynia in a dose-dependent manner, the statistically significant effect being achieved at the highest dose tested (100 nmol) without producing any behavioral abnormalities.
-However, intrathecal injection of CP-101,606 at a dose of 300 nmol failed to inhibit CCI-induced allodynia.
-A receptor binding assay using rat forebrain and spinal cord membrane preparations demonstrated that [3H]CP-101,606 bound to the brain NR2B receptor with a greater extent compared to the spinal cord one.
-These findings suggest that the anti-allodynia effect of CP-101,606 is ascribable to blockade of NR2B receptors at the brain, but not at the spinal cord.
-In contrast, intrathecal injection of a non-selective NMDA antagonist, memantine, significantly inhibited CCI-induced mechanical allodynia at a dose of 300 nmol, indicating the difference in the site of action between the non-selective NMDA antagonist and the NR2B-specific NMDA antagonist.

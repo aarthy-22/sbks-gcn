@@ -1,3 +1,0 @@
-Identification of a novel benzimidazole derivative as a highly potent NPY Y5 receptor antagonist with an anti-obesity profile.
-Optimization of HTS hit 1 for NPY Y5 receptor binding affinity, CYP450 inhibition, solubility and metabolic stability led to the identification of some orally available oxygen-linker derivatives for in vivo study.
-Among them, derivative 4i inhibited food intake induced by the NPY Y5 selective agonist, and chronic oral administration of 4i in DIO mice caused a dose-dependent reduction of body weight gain.

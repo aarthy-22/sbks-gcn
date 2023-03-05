@@ -1,9 +1,0 @@
-Procainamide is a specific inhibitor of DNA methyltransferase 1.
-CpG island hypermethylation occurs in most cases of cancer, typically resulting in the transcriptional silencing of critical cancer genes.
-Procainamide has been shown to inhibit DNA methyltransferase activity and reactivate silenced gene expression in cancer cells by reversing CpG island hypermethylation.
-We report here that procainamide specifically inhibits the hemimethylase activity of DNA methyltransferase 1 (DNMT1), the mammalian enzyme thought to be responsible for maintaining DNA methylation patterns during replication.
-At micromolar concentrations, procainamide was found to be a partial competitive inhibitor of DNMT1, reducing the affinity of the enzyme for its two substrates, hemimethylated DNA and S-adenosyl-l-methionine.
-By doing so, procainamide significantly decreased the processivity of DNMT1 on hemimethylated DNA.
-Procainamide was not a potent inhibitor of the de novo methyltransferases DNMT3a and DNMT3b2.
-As further evidence of the specificity of procainamide for DNMT1, procainamide failed to lower genomic 5-methyl-2'-deoxycytidine levels in HCT116 colorectal cancer cells when DNMT1 was genetically deleted but significantly reduced genomic 5-methyl-2'-deoxycytidine content in parental HCT116 cells and in HCT116 cells where DNMT3b was genetically deleted.
-Because many reports have strongly linked DNMT1 with epigenetic alterations in carcinogenesis, procainamide may be a useful drug in the prevention of cancer.

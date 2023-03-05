@@ -1,7 +1,0 @@
-Beta-adrenoceptor-binding studies of the cardioselective beta blockers bisoprolol, H-I 42 BS, and HX-CH 44 BS to heart membranes and intact ventricular myocytes of adult rats: two beta 1-binding sites for bisoprolol.
-beta-Adrenoceptor binding of cardioselective drugs to intact ventricular myocytes was performed using [3H]CGP-12177, a hydrophilic non-beta 1/beta 2-selective antagonist radioligand.
-The beta-adrenoceptor density on the intact cardiomyocytes was about 2 x 10(5) molecules/cell.
-The beta 1-selective antagonists H-I 42 BS and HX-CH 44 BS competed for [3H]CGP-12177 binding sites on the ventricular myocytes in an essentially monophasic manner with Ki = 72.6 nM and Ki = 76.7 nM, respectively.
-This is in contrast to the results of binding data from heart membranes, where these beta 1-antagonists bind in a biphasic manner with about 30% of an additional low affinity site, presumably corresponding to the beta 2-adrenoceptor.
-The beta 1-selective antagonist bisoprolol revealed two binding sites at the heart membranes and at the myocytes as well with Ki(1) = 34.2 and 20.0 nM and Ki(2) = 3,014 and 918 nM, respectively.
-Our results suggest that viable adult rat ventricular myocytes may contain two beta 1-adrenoceptor binding sites exhibiting different affinities for bisoprolol, whereas beta 2-adrenergic receptors are completely absent.

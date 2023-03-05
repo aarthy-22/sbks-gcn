@@ -1,7 +1,0 @@
-Differential activation of cAMP response element binding protein in discrete nucleus accumbens subregions during early and late cocaine sensitization.
-The present study examined the differential cocaine-induced activation of the cyclic adenosine monophosphate (cAMP) response element binding protein (CREB) throughout discrete zones of analysis of the nucleus accumbens (NAc) in rats.
-CREB-dependent gene transcription, which may underlie long-lasting drug-induced changes in behavior and the subjective effects of cocaine, varies depending on the stage of drug exposure or withdrawal and the cell population involved.
-Using immunohistochemistry, the authors analyzed changes in CREB phosphorylation in the NAc after 5 days of cocaine, a short or long drug-free period, and a subsequent challenge injection.
-The NAc shell was separated into 5 zones of analysis previously defined by neurochemistry and connectivity.
-Repeated cocaine resulted in CREB phosphorylation in all analyzed subregions of the NAc excluding the most ventrolateral region of the shell 2 weeks after cessation of repeated cocaine, but rats challenged after 2 drug-free days yielded a more localized activation of CREB in the 3 most dorsomedial zones of the shell.
-The temporal and anatomical determinants of cocaine-induced CREB activity may indicate functional differences among NAc shell subregions and suggest the involvement of CREB in early and late cocaine effects.

@@ -1,8 +1,0 @@
-Induction of endoplasmic reticulum stress-mediated apoptosis and non-canonical autophagy by luteolin in NCI-H460 lung carcinoma cells.
-In this study, we investigated the anti-cancer effects of luteolin, a member of the flavonoid family, in NCI-H460 human lung carcinoma cells.
-It was shown that luteolin induces apoptotic cell death through modulating both the extrinsic pathway and intrinsic pathways, which are suppressed by z-VAD-fmk, indicating that luteolin triggers caspase-dependant apoptosis.
-Furthermore, we found that the α subunit of the eukaryotic initiation factor 2 (eIF2α/C/EBP homologous protein pathway, but not the c-Jun N-terminal kinase pathway, played a critical role in induction of apoptosis by luteolin.
-The data indicated that luteolin also induces autophagy; evidence for this is the accumulation of microtubule-associated protein light chain-3 (LC3) II protein, the increase of LC3 puncta as well as an enhanced autophagy flux.
-In addition, inhibiting autophagy by bafilomycin A1 reduced apoptotic cell death, suggesting that luteolin-induced autophagy functions as a cell death mechanism.
-Notably, the activated caspases that appeared with luteolin treatment cleaved Beclin-1, and the expression of LC3II remained the same even after cells were challenged with Beclin-1 siRNA, demonstrating that luteolin induces Beclin-1-independent autophagy.
-Taken together, our findings showed that luteolin triggers both endoplasmic reticulum stress-related apoptosis and non-canonical autophagy, which function as a cell death mechanism in NCI-H460 human lung cancer cells.

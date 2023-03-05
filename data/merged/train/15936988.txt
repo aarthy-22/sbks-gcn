@@ -1,7 +1,0 @@
-Simvastatin induces interleukin-18 production in human peripheral blood mononuclear cells.
-The effects of statins on immune response depend on the inhibition of 3-hydroxy-3-methylglutaryl coenzyme-A (HMG-CoA) reductase and leukocyte function-associated antigen (LFA)-1, which is a ligand of intercellular adhesion molecule (ICAM)-1.
-Simvastatin, an HMG-CoA reductase inhibitor with mild inhibition of LFA-1, induced the production of interleukin (IL)-18, tumor necrosis factor (TNF)-alpha and interferon (IFN)-gamma in human peripheral blood mononuclear cells (PBMC).
-The IL-18 production is located upstream of the cytokine cascade activated by simvastatin.
-Moreover, simvastatin concentration-dependently inhibited the expression of ICAM-1 and induced the expression of CD40 on monocytes.
-In the presence of IL-18, simvastatin suppressed the expression of ICAM-1 and CD40 as well as the production of IL-12, TNF-alpha and IFN-gamma in PBMC, contributing to the anti-inflammatory effect of simvastatin.
-The effects of simvastatin were abolished by the addition of the product of the HMG-CoA reductase, mevalonate, indicating the involvement of HMG-CoA reductase in the action of simvastatin.

@@ -1,8 +1,0 @@
-Roles played by lymphocyte function-associated antigen-1 in the regulation of lymphocytic cholinergic activity.
-Lymphocytes possess the essential components of a cholinergic system, including acetylcholine (ACh); choline acetyltransferase (ChAT), its synthesizing enzyme; and both muscarinic and nicotinic ACh receptors (mAChRs and nAChRs, respectively).
-Stimulation of lymphocytes with phytohemagglutinin, which activates T cells via the T cell receptor/CD3 complex, enhances the synthesis and release of ACh and up-regulates expression of ChAT and M(5) mAChR mRNAs.
-In addition, activation of protein kinase C and increases in intracellular cAMP also enhance cholinergic activity in T cells, and lymphocyte function associated antigen-1 (LFA-1; CD11a/CD18) is an important mediator of leukocyte migration and T cell activation.
-Anti-CD11a monoclonal antibody (mAb) as well as antithymocyte globulin containing antibodies against CD2, CD7 and CD11a all increase ChAT activity, ACh synthesis and release, and expression of ChAT and M(5) mAChR mRNAs in T cells.
-The cholesterol-lowering drug simvastatin inhibits LFA-1 signaling by binding to an allosteric site on CD11a (LFA-1 alpha chain), which leads to immunomodulation.
-We found that simvastatin abolishes anti-CD11a mAb-induced increases in lymphocytic cholinergic activity in a manner independent of its cholesterol-lowering activity.
-Collectively then, these results indicate that LFA-1 contributes to the regulation of lymphocytic cholinergic activity via CD11a-mediated pathways and suggest that simvastatin exerts its immunosuppressive effects in part via modification of lymphocytic cholinergic activity.

@@ -1,7 +1,0 @@
-Covalent modification of stathmin by CCNU determined by FTMS analysis of modified proteins and tryptic peptides.
-Chemical modification of proteins is often carried out to generate protein-small molecule conjugates for various applications.
-The high resolution and mass accuracy of a Fourier transform mass spectrometer is particularly useful for assessing the extent or sites of covalent modifications.
-As protein-small molecule reactions often produce products with variable numbers of the compound incorporated at different sites, a direct mass analysis of the reaction products at times yields mass spectra hard to interpret.
-Chromatographic separation at protein level could reduce the complexity of a sample, thus allowing more accurate mass spectrometric analysis.
-In this report, we demonstrate the utility of reversed-phase protein chromatography and FT-ICR mass spectrometry in analyzing CCNU (lomustine, 1-(2-chloroethyl)-3-cyclohexyl-1-nitroso-urea, MW: 233.7Da) modification of stathmin.
-With this combined approach, we determined the stoichiometry as well as sites of CCNU incorporation into the protein, demonstrating differential reactivity of several lysyl residues to CCNU alkylation.

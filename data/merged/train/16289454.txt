@@ -1,4 +1,0 @@
-Effect of aminooxyacetic acid on extracellular level of D-serine in rat striatum: an in vivo microdialysis study.
-To elucidate the effect of an inhibitor of pyridoxal phosphate-dependent enzymes, aminooxyacetic acid, on the activity of serine racemase in vivo, we have investigated the effect of aminooxyacetic acid on the extracellular concentration of D-serine in the rat striatum using an in vivo microdialysis technique.
-The intrastriatal perfusion of aminooxyacetic acid caused a significant decline in the extracellular concentration of D-serine.
-These data, together with the fact that serine racemase is a pyridoxal phosphate-dependent enzyme, suggest that the aminooxyacetic acid-induced reduction of the extracellular D-serine may be at least in part due to the drug's ability to inhibit serine racemase.

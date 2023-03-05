@@ -1,6 +1,0 @@
-Discovery of liver-targeted inhibitors of stearoyl-CoA desaturase (SCD1).
-Inhibitors based on a benzo-fused spirocyclic oxazepine scaffold were discovered for stearoyl-coenzyme A (CoA) desaturase 1 (SCD1) and subsequently optimized to potent compounds with favorable pharmacokinetic profiles and in vivo efficacy in reducing the desaturation index in a mouse model.
-Initial optimization revealed potency preferences for the oxazepine core and benzylic positions, while substituents on the piperidine portions were more tolerant and allowed for tuning of potency and PK properties.
-After preparation and testing of a range of functional groups on the piperidine nitrogen, three classes of analogs were identified with single digit nanomolar potency: glycine amides, heterocycle-linked amides, and thiazoles.
-Responding to concerns about target localization and potential mechanism-based side effects, an initial effort was also made to improve liver concentration in an available rat PK model.
-An advanced compound 17m with a 5-carboxy-2-thiazole substructure appended to the spirocyclic piperidine scaffold was developed which satisfied the in vitro and in vivo requirements for more detailed studies.

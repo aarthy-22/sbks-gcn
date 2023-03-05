@@ -1,8 +1,0 @@
-Amino acid composition, antinutrients and allergens in the peanut protein fraction obtained by an aqueous enzymatic process.
-Enzyme-assisted aqueous extraction (EAE) of peanut kernel was used to extract oil and protein.
-The aqueous fraction (AF) obtained by EAE had a better essential amino acid profile than the residues obtained by solvent extraction (Rs) and cold pressing (Rc).
-No major difference in the trypsin inhibitor activity among AF, Rs and Rc was observed; however, the trypsin inhibitor activity was drastically reduced in the residue obtained after EAE.
-AF was subjected to MALDI-TOF/MS, revealing it to be rich in peptides (107) with molecular masses from m/z 700 to 2369Da.
-AF had an extremely low phytate content and was rich in peptides, which could be used as a food supplement.
-ESI-MS/MS data were used for the identification of major peanut allergens, viz., Ara h1, h3, h6-8.
-Their allergenic potential needs to be established.

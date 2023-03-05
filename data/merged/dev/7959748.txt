@@ -1,6 +1,0 @@
-Murine chromosomal location of the mu and kappa opioid receptor genes.
-Opioid receptors are the membrane proteins that mediate the pain-relieving effect of opioid drugs, such as morphine and fentanyl as well as endogenous opioid peptides enkephalins and endorphins.
-Using cDNAs for the mu and the kappa opioid receptors, we mapped the chromosomal locations of their genes in mouse.
-Multilocus cross analysis located the mu receptor gene Oprm on Chr 10 and the kappa receptor gene Oprk1 on Chr 1.
-Both genes are near centromere, with no markers more centromeric.
-These data indicate that the two opioid receptors are different gene products, ruling out the possibility that they may be differential splicing products from the same gene.

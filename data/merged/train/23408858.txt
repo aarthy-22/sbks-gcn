@@ -1,7 +1,0 @@
-Novel inhibition of archaeal family-D DNA polymerase by uracil.
-Archaeal family-D DNA polymerase is inhibited by the presence of uracil in DNA template strands.
-When the enzyme encounters uracil, following three parameters change: DNA binding increases roughly 2-fold, the rate of polymerization slows by a factor of ∼5 and 3'-5' proof-reading exonuclease activity is stimulated by a factor of ∼2.
-Together these changes result in a significant decrease in polymerization activity and a reduction in net DNA synthesis.
-Pol D appears to interact with template strand uracil irrespective of its distance ahead of the replication fork.
-Polymerization does not stop at a defined location relative to uracil, rather a general decrease in DNA synthesis is observed. 'Trans' inhibition, the slowing of Pol D by uracil on a DNA strand not being replicated is also observed.
-It is proposed that Pol D is able to interact with uracil by looping out the single-stranded template, allowing simultaneous contact of both the base and the primer-template junction to give a polymerase-DNA complex with diminished extension ability.

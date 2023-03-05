@@ -1,9 +1,0 @@
-Hydrophobic amino acids in the hinge region of the 5A apolipoprotein mimetic peptide are essential for promoting cholesterol efflux by the ABCA1 transporter.
-The bihelical apolipoprotein mimetic peptide 5A effluxes cholesterol from cells and reduces inflammation and atherosclerosis in animal models.
-We investigated how hydrophobic residues in the hinge region between the two helices are important in the structure and function of this peptide.
-By simulated annealing analysis and molecular dynamics modeling, two hydrophobic amino acids, F-18 and W-21, in the hinge region were predicted to be relatively surface-exposed and to interact with the aqueous solvent.
-Using a series of 5A peptide analogs in which F-18 or W-21 was changed to either F, W, A, or E, only peptides with hydrophobic amino acids in these two positions were able to readily bind and solubilize phospholipid vesicles.
-Compared with active peptides containing F or W, peptides containing E in either of these two positions were more than 10-fold less effective in effluxing cholesterol by the ABCA1 transporter.
-Intravenous injection of 5A in C57BL/6 mice increased plasma-free cholesterol (5A: 89.9 ± 13.6 mg/dl; control: 38.7 ± 4.3 mg/dl (mean ± S.D.); P < 0.05) and triglycerides (5A: 887.0 ± 172.0 mg/dl; control: 108.9 ± 9.9 mg/dl; P < 0.05), whereas the EE peptide containing E in both positions had no effect.
-Finally, 5A increased cholesterol efflux approximately 2.5-fold in vivo from radiolabeled macrophages, whereas the EE peptide was inactive.
-These results provide a rationale for future design of therapeutic apolipoprotein mimetic peptides and provide new insights into the interaction of hydrophobic residues on apolipoproteins with phospholipids in the lipid microdomain created by the ABCA1 transporter during the cholesterol efflux process.

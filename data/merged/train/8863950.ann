@@ -5,3 +5,5 @@ T2	CHEMICAL 262 271	histamine
 T7	GENE-Y 262 283	histamine H2 receptor
 T3	CHEMICAL 295 305	cimetidine
 T4	CHEMICAL 351 361	tolazoline
+R0	CPR-4 Arg1:T3 Arg2:T7
+R1	NOT Arg1:T7 Arg2:T4

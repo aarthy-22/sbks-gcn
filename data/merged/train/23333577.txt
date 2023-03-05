@@ -1,8 +1,0 @@
-Suppression of Src/ERK and GSK-3/β-catenin signaling by pinosylvin inhibits the growth of human colorectal cancer cells.
-Pinosylvin, a naturally occurring trans-stilbenoid mainly found in Pinus species, has exhibited a potential cancer chemopreventive activity.
-However, the growth inhibitory activity against cancer cells and the underlying molecular mechanisms remain to be elucidated.
-Therefore, the anti-proliferative activity of pinosylvin was investigated in human colorectal HCT 116 cancer cells.
-Pinosylvin inhibited the proliferation of HCT 116 cells by arresting transition of cell cycle from G1 to S phase along with the downregulation of cyclin D1, cyclin E, cyclin A, cyclin dependent kinase 2 (CDK2), CDK4, c-Myc, and retinoblastoma protein (pRb), and the upregulation of p21(WAF1/CIP1) and p53.
-Pinosylvin was also found to attenuate the activation of proteins involved in focal adhesion kinase (FAK)/c-Src/extracellular signal-regulated kinase (ERK) signaling, and phosphoinositide 3-kinase (PI3K)/Akt/ glycogen synthase kinase 3β (GSK-3β) signaling pathway.
-Subsequently, pinosylvin suppressed the nuclear translocation of β-catenin, one of downstream molecules of PI3K/Akt/GSK-3β signaling, and these events led to the sequential downregulation of β-catenin-mediated transcription of target genes including BMP4, ID2, survivin, cyclin D1, MMP7, and c-Myc.
-These findings demonstrate that the anti-proliferative activity of pinosylvin might be associated with the cell cycle arrest and downregulation of cell proliferation regulating signaling pathways in human colorectal cancer cells.

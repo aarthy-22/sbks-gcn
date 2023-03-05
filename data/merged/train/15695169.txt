@@ -1,8 +1,0 @@
-Neurochemical properties of ramelteon (TAK-375), a selective MT1/MT2 receptor agonist.
-Ramelteon (TAK-375) is a novel melatonin receptor agonist currently under investigation for the treatment of insomnia.
-This study describes the neurochemical and receptor binding characteristics of ramelteon in vitro.
-Ramelteon showed very high affinity for human MT1 (Mel1a) and MT2 (Mel1b) receptors (expressed in Chinese hamster ovary [CHO] cells), and chick forebrain melatonin receptors (consisting of Mel1a and Mel1c receptors) with Ki values of 14.0, 112, and 23.1 pM, respectively, making the affinities of ramelteon for these receptors 3-16 times higher than those of melatonin.
-The affinity of ramelteon for hamster brain MT3 binding sites was extremely weak (Ki: 2.65 microM) compared to melatonin's affinity for the MT3 binding site (Ki: 24.1 nM).
-In addition, ramelteon showed no measurable affinity for a large number of ligand binding sites (including benzodiazepine receptors, dopamine receptors, opiate receptors, ion channels, and transporters) and no effect on the activity of various enzymes.
-Ramelteon inhibited forskolin-stimulated cAMP production in the CHO cells that express the human MT1 or MT2 receptors.
-Taken together, these results indicate that ramelteon is a potent and highly selective agonist of MT1/MT2 melatonin receptors.

@@ -1,9 +1,0 @@
-A significant dose-dependent relationship between mercury exposure from dental amalgams and kidney integrity biomarkers: A further assessment of the Casa Pia children's dental amalgam trial.
-Dental amalgams are a commonly used dental restorative material.
-Amalgams are about 50% mercury (Hg), and Hg is known to significantly accumulate in the kidney.
-It was hypothesized that because Hg accumulates in the proximal tubules (PTs), glutathione-S-transferases (GST)-α (suggestive of kidney damage at the level of PT) would be expected to be more related to Hg exposure than GST-π (suggestive of kidney damage at the level of the distal tubules).
-Urinary biomarkers of kidney integrity were examined in children of 8-18 years old, with and without dental amalgam fillings, from a completed clinical trial (parent study).
-Our study determined whether there was a significant dose-dependent correlation between increasing Hg exposure from dental amalgams and GST-α and GST-π as biomarkers of kidney integrity.
-Overall, the present study, using a different and more sensitive statistical model than the parent study, revealed a statistically significant dose-dependent correlation between cumulative exposure to Hg from dental amalgams and urinary levels of GST-α, after covariate adjustment; where as, a nonsignificant relationship was observed with urinary levels of GST-π.
-Furthermore, it was observed that urinary GST-α levels increased by about 10% over the 8-year course of the study among individuals with an average exposure to amalgams among the study subjects from the amalgam group, in comparison with study subjects with no exposure to dental amalgams.
-The results of our study suggest that dental amalgams contribute to ongoing kidney damage at the level of the PTs in a dose-dependent fashion.

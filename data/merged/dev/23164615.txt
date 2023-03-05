@@ -1,7 +1,0 @@
-Differential modulation of retinal ganglion cell light responses by orthosteric and allosteric metabotropic glutamate receptor 8 compounds.
-To investigate the role of mGluR8 in modulating the synaptic responses of retinal ganglion cells, we used a recently identified positive allosteric modulator of mGluR8, AZ12216052 (AZ) and the mGluR8-specific orthosteric agonist (S)-3,4-dicarboxyphenylglycine (DCPG).
-These agents were applied to whole-cell voltage-clamped ganglion cells from an isolated, superfused mouse retina preparation.
-DCPG reduced OFF-ganglion cell excitatory currents, whereas AZ enhanced the peak excitatory currents in ON-, OFF-, and ON-OFF-ganglion cells.
-The effects on ganglion cell inhibitory currents were more varied.
-The effects of the allosteric modulator were stronger for bright stimuli than for dim stimuli, consistent with receptor stimulation by endogenous glutamate being stronger during bright light stimulation and with mGluR8 receptors mainly being localized away from glutamate release sites, immuno-labeled with VGLUT1.
-The differential sensitivity of ganglion cell light responses to DCPG and AZ supports multiple sites where mGluR8 modulates the light responses of ganglion cells.

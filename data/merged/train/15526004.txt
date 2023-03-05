@@ -1,7 +1,0 @@
-Genetic risk factors for infection in patients with early rheumatoid arthritis.
-We analyzed clinical and genetic factors contributing to infections in 457 subjects with early rheumatoid arthritis (RA) enrolled in a prospective, 1-year clinical trial of methotrexate and the TNF inhibitor etanercept.
-Subjects were genotyped for the following single nucleotide polymorphisms (SNPs): (TNF -308, -238, and + 488); lymphotoxin-alpha (LTA) (LTA + 249, + 365, and + 720); and Fc gamma receptors FCGR2A 131 H/R; FCGR3A 176 F/V; and FCGR3B NA 1/2 and genotypes were correlated with infections.
-At least one URI was noted in 52% of subjects (99/191) with the NA2/NA2 genotype of the neutrophil-specific FCGR3B gene, compared to 42% (77/181) of those with the NA1/NA2 genotype and 39% (23/59) of those with the NA1/NA1 genotype (P = 0.038).
-Urinary tract infection (UTI) was associated with the TNF -238 A (odds ratio(OR) 2.56, 95% confidence interval (CI) 1.05-6.25) and LTA +365 C (OR 1.73, 95% CI 1.07-2.79) alleles, and marginally with the FCGR3A F allele (OR 1.72, 95% CI 0.99-3.00).
-There was a striking linear correlation between UTI and the number of risk alleles defined by these three SNPs (P < 0.001), suggesting an additive effect on susceptibility.
-These findings have important implications for the role of genetics in susceptibility to bacterial and viral infections.

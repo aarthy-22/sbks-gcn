@@ -1,8 +1,0 @@
-Enhanced expression of DNA topoisomerase II genes in human medulloblastoma and its possible association with etoposide sensitivity.
-Medulloblastoma (MB) is the most common malignant neuroepithelial tumor of childhood.
-The DNA topoisomerase II (Topo II) inhibitor etoposide has been widely used for the treatment of MBs; however, it remains unknown whether MB cells are more sensitive to etoposide than other malignant neuroepithelial tumor cells.
-In this study, we tested the chemosensitivities of malignant neuroepithelial tumors (26 glioblastomas, 9 anaplastic astrocytomas, and 5 MBs) to etoposide and vincristine using the succinate dehydrogenase inhibition test and found that MB cells are more sensitive to etoposide and more resistant to vincristine than other tumor cells.
-We performed quantitative reverse-transcription polymerase chain reaction to evaluate the expression of genes related to etoposide sensitivity, and found co-overexpression of DNA topoisomerase II (Topo II) alpha and beta mRNA in MBs.
-In addition, the levels of Topo IIalpha and beta mRNA in these tumors correlated with etoposide sensitivity.
-Immunohistochemical studies using surgical samples of these tumors demonstrated that the percentages of Topo IIalpha immunopositive cells (Topo IIalpha labeling index) correlated with those of Ki-67 immunopositive cells (MIB-1 labeling index); however, neither the Topo IIalpha nor the MIB-1 labeling index correlated with the levels of Topo IIalpha mRNA or etoposide sensitivity.
-Based on these observations, Topo IIalpha and beta mRNA expression, but not the Topo IIalpha labeling index, might be a useful marker for sensitivity to etoposide in human malignant neuroepithelial tumors.

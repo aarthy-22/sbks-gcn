@@ -1,8 +1,0 @@
-"5-HT1R" or 5-HT1D sites?
-Evidence for 5-HT1D binding sites in rabbit brain.
-Radioligand binding studies were performed in membranes of rabbit whole brain and striatum using the novel iodinated radioligand for 5-hydroxytryptamine 5-HT1B and 5-HT1D sites, Serotonin-5-O-Carboxymethyl-Glycyl[125I]Tyrosinamide ([125I]GTI).
-[125I]GTI labelled a finite number of high affinity sites in rabbit brain membranes, Bmax = 191 +/- 47 fmol/mg protein, pKD (-log mol/l) = 8.50 +/-
-0.13, n = 5.
-The pharmacological profile of [125I]GTI binding was fully comparable to that reported previously in human and other brain preparations known to possess 5-HT1D sites (using either [3H]5-HT or [125I]GTI) and displayed a characteristic rank order of affinity: 5-carboxamido-tryptamine greater than 5-HT = dihydroergotamine greater than or equal to ergotamine greater than or equal to sumatriptan greater than or equal to CGS 12066 greater than or equal to metergoline greater than yohimbine greater than or equal to methysergide greater than ICYP greater than 8-OH-DPAT greater than or equal to CP 93129 greater than (-)pindolol greater than ketanserin greater than isamoltane greater than mesulergine greater than corynanthine greater than buspirone greater than MDL 72222.
-Autoradiographic studies were performed on rabbit brain slices using [3H]5-HT in the presence of 100 nmol/l 8-OH-DPAT and mesulergine (in order to mask 5-HT1A and 5-HT1C binding sites) and [125I]CYP (iodocyanopindolol) in the presence of 3 mumol/l isoprenaline and 100 nmol/l 8-OH-DPAT (in order to mask beta adrenoceptor and 5-HT1A binding sites).
-There was no detectable specific binding of [125I]CYP through the brain, thus excluding the presence of 5-HT1B sites in rabbit brain.(ABSTRACT TRUNCATED AT 250 WORDS)

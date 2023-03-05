@@ -1,6 +1,0 @@
-Piezotronic Effect in Solution-Grown p-Type ZnO Nanowires and Films.
-Investigating the piezotronic effect in p-type piezoelectric semiconductor is critical for developing a complete piezotronic theory and designing/fabricating novel piezotronic applications with more complex functionality.
-Using a low temperature solution method, we were able to produce ultralong (up to 60 μm in length) Sb doped p-type ZnO nanowires on both rigid and flexible substrates.
-For the p-type nanowire field effect transistor, the on/off ratio, threshold voltage, mobility, and carrier concentration of 0.2% Sb-doped sample are found to be 10(5), 2.1 V, 0.82 cm(2)·V(-1)·s(-1), and 2.6 × 10(17) cm(-3), respectively, and the corresponding values for 1% Sb doped samples are 10(4), 2.0 V, 1.24 cm(2)·V(-1)·s(-1), and 3.8 × 10(17) cm(-3).
-We further investigated the universality of piezotronic effect in the as-synthesized Sb-doped p-type ZnO NWs and reported for the first time strain-gated piezotronic transistors as well as piezopotential-driven mechanical energy harvesting based on solution-grown p-type ZnO NWs.
-The results presented here broaden the scope of piezotronics and extend the framework for its potential applications in electronics, optoelectronics, smart MEMS/NEMS, and human-machine interfacing.

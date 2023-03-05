@@ -1,9 +1,0 @@
-Role of the inhibitory adrenergic alpha 2 and serotonergic 5-HT1A components of cocaine's actions on the DOI-induced head-twitch response in 5-HT2-receptor supersensitive mice.
-It was recently reported that acute cocaine pretreatment can reduce the (+/-)-1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane (DOI)-induced 5-hydroxytryptamine2 (5-HT2)-receptor mediated head-twitch response (HTR) in mice via indirect stimulation of adrenergic alpha 2- and serotonergic 5-HT1A-receptors.
-The aim of the present investigation was to determine whether cocaine can alter the DOI-induced HTR in 5-HT2-receptor supersensitive mice.
-Supersensitivity was induced by a single injection of DOI 48 h prior to experimentation.
-These supersensitive mice exhibited a greater frequency of HTR to a challenge dose of DOI 48 h after its initial administration.
-Cocaine pretreatment dose-dependently reduced the DOI-induced HTR in the supersensitive mice.
-The stimulant was approximately four times more potent in the 5-HT2-receptor supersensitive mice relative to its reported effects in normal mice.
-Receptor blockade studies with yohimbine and alprenolol revealed that both of the inhibitory components of cocaine's actions (i.e., adrenergic alpha 2- and serotonergic 5-HT1A-receptor effects, respectively) were more efficient in reducing the DOI-induced HTR in supersensitive mice compared to normosensitive animals.
-The present results further support the previously suggested hypothesis that acute cocaine administration inhibits the 5-HT2-receptor function by increasing the synaptic concentration of norepinephrine and serotonin via inhibition of their uptake and therefore indirectly stimulating the respective inhibitory adrenergic alpha 2- and serotonergic 5-HT1A-receptors.

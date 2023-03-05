@@ -1,6 +1,0 @@
-Interaction of human alpha-lactalbumin with fatty acids: determination of binding parameters.
-The interaction of holo- and apo-forms of human alpha-lactalbumin with fatty acids was studied by a partition equilibrium method.
-Apo-alpha-lactalbumin, obtained by treatment with EDTA, displays one binding site for fatty acids, the association constants for oleic and palmitic acids being 1.9.10(6) and 4.2.10(5) M(-1), respectively.
-However, holo-alpha-lactalbumin was unable to bind fatty acids as measured by this technique.
-Likewise, no fatty acids bound to holo-alpha-lactalbumin, isolated using nondenaturing conditions, were detected by gas chromatography.
-These results demonstrate that the conformational change induced in alpha-lactalbumin by the removal of calcium enables the protein to interact with fatty acids.

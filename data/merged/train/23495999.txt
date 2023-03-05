@@ -1,9 +1,0 @@
-From synaptic spines to nuclear signaling: nuclear and synaptic actions of the amyloid precursor protein.
-Despite intensive studies of the secretase-mediated processing of the amyloid precursor protein (APP) to form the amyloid β-peptide (Aβ), in relation to Alzheimer's disease (AD), no new therapeutic agents have reached the clinics based on reducing Aβ levels through the use of secretase inhibitors or immunotherapy.
-Furthermore, the normal neuronal functions of APP and its various metabolites still remain under-investigated and unclear.
-Here, we highlight emerging areas of APP function that may provide new insights into synaptic development, cognition, and gene regulation.
-By modulating expression levels of endogenous APP in primary cortical neurons, the frequency and amplitude of calcium oscillations is modified, implying a key role for APP in maintaining neuronal calcium homeostasis essential for synaptic transmission.
-Disruption of this homeostatic mechanism predisposes to aging and AD.
-Synaptic spine loss is a feature of neurogeneration resulting in learning and memory deficits, and emerging evidence indicates a role for APP, probably mediated via one or more of its metabolites, in spine structure and functions.
-The intracellular domain of APP (AICD) has also emerged as a key epigenetic regulator of gene expression controlling a diverse range of genes, including APP itself, the amyloid-degrading enzyme neprilysin, and aquaporin-1.
-A fuller understanding of the physiological and pathological actions of APP and its metabolic network could provide new opportunities for therapeutic intervention in AD.

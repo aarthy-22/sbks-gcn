@@ -1,7 +1,0 @@
-Protective effect of ganodermanondiol isolated from the Lingzhi mushroom against tert-butyl hydroperoxide-induced hepatotoxicity through Nrf2-mediated antioxidant enzymes.
-Ganodermanondiol, a biologically active compound, was isolated from the Lingzhi mushroom (Ganoderma lucidum).
-The present study examined the protective effects of ganodermanondiol against tert-butyl hydroperoxide (t-BHP)-induced hepatotoxicity.
-Ganodermanondiol protected human liver-derived HepG2 cells through nuclear factor-E2-related factor 2 (Nrf2) pathway-dependent heme oxygenase-1 expressions.
-Moreover, ganodermanondiol increased cellular glutathione levels and the expression of the glutamine-cysteine ligase gene in a dose-dependent manner.
-Furthermore, ganodermanondiol exposure enhanced the phosphorylation of adenosine monophosphate-activated protein kinase (AMPK) and its upstream kinase activators, LKB1 and Ca(2+)/calmodulin-dependent protein kinase-II (CaMKII).
-This study indicates that ganodermanondiol exhibits potent cytoprotective effects on t-BHP-induced hepatotoxicity in human liver-derived HepG2 cells, presumably through Nrf2-mediated antioxidant enzymes and AMPK.

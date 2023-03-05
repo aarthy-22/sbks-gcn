@@ -1,6 +1,0 @@
-Biosynthetic regulation and intracellular transport of phosphatidylserine in mammalian cells.
-In mammalian cells, phosphatidylserine (PtdSer) is synthesized through the action of the endoplasmic reticulum enzymes, PtdSer synthase 1 and 2, and the decarboxylation of PtdSer accounts for the majority of phosphatidylethanolamine (PtdEtn) synthesis.
-PtdSer decarboxylation for PtdEtn formation occurs in the mitochondria.
-In addition, the transport of PtdSer from the endoplasmic reticulum to the mitochondria is probably a rate limiting step for PtdEtn synthesis through the decarboxylation pathway.
-Therefore, the regulation of PtdSer synthesis and its intracellular transport appear to be essential events for the maintenance of normal cellular PtdSer and PtdEtn levels.
-Here we describe the current understanding of the regulation of PtdSer biosynthesis and the transport of PtdSer from the ER to the mitochondria in mammalian cells.

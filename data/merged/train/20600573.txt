@@ -1,7 +1,0 @@
-Rasagiline: a novel anti-Parkinsonian monoamine oxidase-B inhibitor with neuroprotective activity.
-Rasagiline (N-propargyl-1-(R)-aminoindan) is a novel, highly potent irreversible monoamine oxidase (MAO)-B inhibitor, anti-Parkinsonian drug.
-Rasagiline is effective as monotherapy or adjunct to L-Dopa for patients with early and late Parkinson's disease (PD).
-Its S-isomer, TVP1022 is thousand times less potent as an MAO-B inhibitor.
-However, both compounds have similar molecular mechanisms of neuroprotection in neuronal cell cultures and animal neurodegenerative models, indicating that the neuroprotective effect of rasagiline does not depend on inhibition of MAO-B, but rather is associated with the N-propargyl moiety, which promotes mitochondrial viability and stabilizes permeability transition by regulating Bcl-2 family proteins.
-Novel findings demonstrated that the major metabolite of rasagiline, 1-(R)-aminoindan has antioxidant and neuroprotective capabilities and thus, may contribute to the overt activity of its parent compound, rasagiline.
-This paper will review the earlier and present studies in the development of rasagiline for treatment of PD and discuss its pharmacology and applicable mechanism of action.

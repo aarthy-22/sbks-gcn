@@ -1,9 +1,0 @@
-Nano-graphene in biomedicine: theranostic applications.
-Owing to their unique physical and chemical properties, graphene and its derivatives such as graphene oxide (GO), reduced graphene oxide (RGO) and GO-nanocomposites have attracted tremendous interest in many different fields including biomedicine in recent years.
-With every atom exposed on its surface, single-layered graphene shows ultra-high surface area available for efficient molecular loading and bioconjugation, and has been widely explored as novel nano-carriers for drug and gene delivery.
-Utilizing the intrinsic near-infrared (NIR) optical absorbance, in vivo graphene-based photothermal therapy has been realized, achieving excellent anti-tumor therapeutic efficacy in animal experiments.
-A variety of inorganic nanoparticles can be grown on the surface of nano-graphene, obtaining functional graphene-based nanocomposites with interesting optical and magnetic properties useful for multi-modal imaging and imaging-guided cancer therapy.
-Moreover, significant efforts have also been devoted to study the behaviors and toxicology of functionalized nano-graphene in animals.
-It has been uncovered that both surface chemistry and sizes play key roles in controlling the biodistribution, excretion, and toxicity of nano-graphene.
-Biocompatibly coated nano-graphene with ultra-small sizes can be cleared out from body after systemic administration, without rendering noticeable toxicity to the treated mice.
-In this review article, we will summarize the latest progress in this rapidly growing field, and discuss future prospects and challenges of using graphene-based materials for theranostic applications.

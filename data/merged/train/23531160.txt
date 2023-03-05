@@ -1,8 +1,0 @@
-Inflammation, serotonin and major depression.
-The understanding of the neurobiological processes leading to major depressive disorder (MDD) is an active field of research in the scientific community.
-For years, the alteration of monoamine neurotransmission, in particular serotonin (5-HT), has been considered the most significant pathophysiological mechanism of the disorder.
-However, biological data supporting the postulated MDD-related monoamine alterations have been inconclusive, and the use of monoaminergic antidepressants has not yielded the expected results.
-In the last few years, it has been demonstrated that inflammatory pathways have a significant role in the pathophysiology of MDD.
-According to the cytokine hypothesis, the disorder would be due to a stress-related increased production of cytokines, including interleukins, tumor necrosis factor- α and interferon- α and γ .
-These, in turns, would cause the activation of the indoleamine 2,3 dioxygenase (IDO), with subsequent production of tryptophan (TRP) catabolites along the IDO pathway (TRYCATs) and decreased availability of TRP and 5-HT.
-Besides monoamines, other molecular mechanisms, as those within the inflammatory pathways, should be taken into account in the attempt to clarify the pathophysiology of MDD and to improve its treatment.

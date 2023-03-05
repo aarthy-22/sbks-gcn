@@ -1,8 +1,0 @@
-Effect of low dose Bisphenol A on the early differentiation of human embryonic stem cells into mammary epithelial cells.
-It has been previously reported that Bisphenol A (BPA) can disturb the development of mammary structure and increase the risk of breast cancer in experimental animals.
-In this study, an in vitro model of human embryonic stem cell (hESC) differentiation into mammary epithelial cells was applied to investigate the effect of low dose BPA on the early stages of mammogenesis.
-A newly established hESC line was directionally differentiated into mammary epithelial cells by a well-established three-dimensional (3D) culture system.
-The differentiated mammary epithelial cells were characterized by immunofluorescence and western blotting assay, and were called induced differentiated mammary epithelial cells (iDMECs) based on these data.
-The hESCs were treated with low doses of BPA range 10(-9)-10(-6)M during the differentiation process, with DMSO as the solvent control and 17-β-estrodiol (E2) as the estrogen-positive control.
-Our results showed that low dose BPA and E2 could influence the mammosphere area of iDMECs and upregulate the expression level of Oct4 and Nanog proteins, while only BPA could downregulate the expression of E-cadherin protein.
-Taken together, this study provides some insights into the effects of low dose BPA on the early differentiation stage of mammary epithelial cells and suggests an easier canceration status of iDMECs under the effect of low dose BPA during its early differentiation stage.

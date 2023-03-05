@@ -1,5 +1,0 @@
-[Potentiation of the photocytotoxic effect of photofrin II: synergistic action of verapamil and lovastatin].
-Photofrin II (P2) is at the present time the most used drug in the photochemotherapy of tumors.
-As previous studies from our group have demonstrated that P2 is taken up by cells mainly via the low density lipoprotein (LDL) receptor pathway, we tried to increase the amount of drug delivered to cells by enhancing the LDL receptor expression.
-For this purpose, we used hydroxy methyl glutaryl Coenzyme A (HMG-CoA) reductase inhibitors such as lovastatin.
-In the present work, we show that the calcium antagonist verapamil, which is currently used in human chemotherapy to overcome multidrug resistance, enhances in a synergistic manner the potentiating action of lovastatin on the photocytotoxic effect of P2.

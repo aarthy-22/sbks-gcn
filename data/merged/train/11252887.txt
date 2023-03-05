@@ -1,5 +1,0 @@
-Gemcitabine and Pemetrexed disodium in treating breast cancer.
-Pemetrexed disodium (Alimta, LY231514) is a novel, multitargeted antifolate that inhibits thymidylate synthase, dihydrofolate reductase, and glycinamide ribonucleotide formyl transferase.
-This agent is broadly active in a wide variety of solid tumors, including breast cancer.
-Pemetrexed disodium has also shown clinically relevant activity in combination with gemcitabine (Gemzar).
-This combination is being evaluated for the treatment of metastatic breast cancer.

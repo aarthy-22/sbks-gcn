@@ -1,6 +1,0 @@
-Static Laue diffraction studies on acetylcholinesterase.
-Acetylcholinesterase (AChE) is one of nature's fastest enzymes, despite the fact that its three-dimensional structure reveals its active site to be deeply sequestered within the molecule.
-This raises questions with respect to traffic of substrate to, and products from, the active site, which may be investigated by time-resolved crystallography.
-In order to address one aspect of the feasibility of performing time-resolved studies on AChE, a data set has been collected using the Laue technique on a trigonal crystal of Torpedo californica AChE soaked with the reversible inhibitor edrophonium, using a total X-ray exposure time of 24 ms.
-Electron-density maps obtained from the Laue data, which are of surprisingly good quality compared with similar maps from monochromatic data, show essentially the same features.
-They clearly reveal the bound ligand, as well as a structural change in the conformation of the active-site Ser200 induced upon binding.

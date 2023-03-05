@@ -1,3 +1,0 @@
-Altered cholesterol homeostasis in aged macrophages linked to neovascular macular degeneration.
-Abnormal lipid metabolism has been linked to age-related macular degeneration (AMD); choroidal neovascularization in late AMD commonly causes blindness.
-Sene et al. (2013) now demonstrate that in aged macrophages decreased ABCA1 expression, regulated by liver X receptor and miR-33, impairs export of intracellular cholesterol, which promotes neovascular AMD.

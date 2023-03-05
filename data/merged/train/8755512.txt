@@ -1,8 +1,0 @@
-Binding of thalidomide to alpha1-acid glycoprotein may be involved in its inhibition of tumor necrosis factor alpha production.
-In addition to its well known sedative and teratogenic effects, thalidomide also possesses potent immunomodulatory and antiinflammatory activities, being most effective against leprosy and chronic graft-versus-host disease.
-The immunomodulatory activity of thalidomide has been ascribed to the selective inhibition of tumor necrosis factor alpha from monocytes.
-The molecular mechanism for the immunomodulatory effect of thalidomide remains unknown.
-To elucidate this mechanism, we synthesized an active photoaffinity label of thalidomide as a probe to identify the molecular target of the drug.
-Using the probe, we specifically labeled a pair of proteins of 43-45 kDa with high acidity from bovine thymus extract.
-Purification of these proteins and partial peptide sequence determination revealed them to be alpha1-acid glycoprotein (AGP).
-We show that the binding of thalidomide photoaffinity label to authentic human AGP is competed with both thalidomide and the nonradioactive photoaffinity label at concentrations comparable to those required for inhibition of production of tumor necrosis factor alpha from human monocytes, suggesting that AGP may be involved in the immunomodulatory activity of thalidomide.

@@ -1,5 +1,0 @@
-A cyclodextrin-capped histone deacetylase inhibitor.
-We have synthesized a β-cyclodextrin (βCD)-capped histone deacetylase (HDAC) inhibitor 3 containing an alkyl linker and a zinc-binding hydroxamic acid motif.
-Biological evaluation (HDAC inhibition studies) of 3 enabled us to establish the effect of replacing an aryl cap (in SAHA (vorinostat,)) 1 by a large saccharidic scaffold "cap".
-HDAC inhibition was observed for 3, to a lesser extent than SAHA, and rationalized by molecular docking into the active site of HDAC8.
-However, compound 3 displayed no cellular activity.

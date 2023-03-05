@@ -10,3 +10,5 @@ T6	GENE-N 1406 1414	cytokine
 T7	GENE-N 1431 1439	cytokine
 T8	GENE-Y 1448 1482	monocyte chemoattractant protein-1
 T9	GENE-Y 1487 1492	IL-10
+R0	NOT Arg1:T12 Arg2:T1
+R1	NOT Arg1:T5 Arg2:T1

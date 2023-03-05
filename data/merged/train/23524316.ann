@@ -16,4 +16,7 @@ T11	GENE-Y 1251 1259	thrombin
 T12	GENE-Y 1422 1435	tissue factor
 T13	GENE-N 1456 1488	mitogen-activated protein kinase
 T14	GENE-N 1490 1494	MAPK
-R0	NOT Arg1:T8 Arg2:T1
+R0	NOT Arg1:T7 Arg2:T1
+R1	NOT Arg1:T8 Arg2:T1
+R2	NOT Arg1:T1 Arg2:T10
+R3	NOT Arg1:T1 Arg2:T11

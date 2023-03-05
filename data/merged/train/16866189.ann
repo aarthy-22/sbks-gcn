@@ -6,3 +6,7 @@ T7	GENE-Y 892 911	DNA polymerase beta
 T4	CHEMICAL 923 955	cytosine arabinoside-3-phosphate
 T5	CHEMICAL 957 962	Ara-C
 T8	GENE-Y 1056 1075	DNA polymerase beta
+R0	CPR-4 Arg1:T4 Arg2:T7
+R1	CPR-4 Arg1:T5 Arg2:T7
+R2	NOT Arg1:T4 Arg2:T8
+R3	NOT Arg1:T5 Arg2:T8

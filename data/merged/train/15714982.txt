@@ -1,7 +1,0 @@
-[Treatment of androgen-independent hormone refractory prostate cancer using docetaxel].
-Although prostate cancer patients with metastatic lesion initially respond to androgen ablation therapy, almost patients develop to hormone-refractory states.
-The optimal treatment for men with hormone refractory prostate cancer (HRPC) has not been established.
-Docetaxel is a semisynthetic taxane that inhibit tumor growth by induction of microtubule stabilization and promotion of bcl-2 inactivation, which induce apoptosis.
-Docetaxel as single agent has significant anti-tumor effect in HRPC patients.
-Docetaxel combined with estramustine or other antimicrotubular agents have shown further significant cytotoxicity in HRPC patients.
-In the United States, Food and Drug Administration (FDA) approved docetaxel, injection in combination with prednisone for the treatment of patients with advanced metastatic prostate cancer in 2004.

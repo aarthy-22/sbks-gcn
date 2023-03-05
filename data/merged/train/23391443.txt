@@ -1,9 +1,0 @@
-An intra-articular salmon calcitonin-based nanocomplex reduces experimental inflammatory arthritis.
-Prolonged inappropriate inflammatory responses contribute to the pathogenesis of rheumatoid arthritis (RA) and to aspects of osteoarthritis (OA).
-The orphan nuclear receptor, NR4A2, is a key regulator and potential biomarker for inflammation and represents a potentially valuable therapeutic target.
-Both salmon calcitonin (sCT) and hyaluronic acid (HA) attenuated activated mRNA expression of NR4A1, NR4A2, NR4A3, and matrix metalloproteinases (MMPs) 1, 3 and 13 in three human cell lines: SW1353 chondrocytes, U937 and THP-1 monocytes.
-Ad-mixtures of sCT and HA further down-regulated expression of NR4A2 compared to either agent alone at specific concentrations, hence the rationale for their formulation in nanocomplexes (NPs) using chitosan.
-The sCT released from NP stimulated cAMP production in human T47D breast cancer cells expressing sCT receptors.
-When NP were injected by the intra-articular (I.A.) route to the mouse knee during on-going inflammatory arthritis of the K/BxN serum transfer model, joint inflammation was reduced together with NR4A2 expression, and local bone architecture was preserved.
-These data highlight remarkable anti-inflammatory effects of sCT and HA at the level of reducing NR4A2 mRNA expression in vitro.
-Combining them in NP elicits anti-arthritic effects in vivo following I.A. delivery.

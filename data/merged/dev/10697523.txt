@@ -1,6 +1,0 @@
-Effects of long-term administration of UFT plus leucovorin on colorectal tumors induced with 1,2-dimethylhydrazine in rats.
-Thymidylate synthase and thymidine kinase are key enzymes involved in the de novo and salvage pathways for pyrimidine nucleotide synthesis, respectively.
-Thymidylate synthase is inhibited by 5-fluorodeoxyuridine monophosphate, forming an inactive ternary complex with intracellular folate.
-We investigated the effects of 1-(2-tetrahydrofuryl)-5-FU plus uracil (UFT) with or without leucovorin on 1,2-dimethylhydrazine-induced rat colorectal carcinomas.
-Thirty-week administration of UFT with or without leucovorin markedly suppressed both colorectal carcinogenesis and tumor growth, resulted in the increase of thymidylate synthase inhibition and the decrease of thymidine kinase activity in the tumor cells.
-These results indicate that the combination of UFT with leucovorin could be useful in the development of pre- and post-operative adjuvant chemotherapy programs.

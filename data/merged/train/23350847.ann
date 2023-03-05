@@ -3,3 +3,5 @@ T5	GENE-Y 30 52	Spleen Tyrosine Kinase
 T3	CHEMICAL 37 45	Tyrosine
 T1	CHEMICAL 102 118	pyrrolopyrazines
 T4	GENE-Y 143 146	Syk
+R0	CPR-4 Arg1:T2 Arg2:T5
+R1	CPR-4 Arg1:T1 Arg2:T4

@@ -1,8 +1,0 @@
-Mancozeb-induced behavioral deficits precede structural neural degeneration.
-Manganese-containing fungicides like Mancozeb have been associated with neurodegenerative conditions like Parkinson's disease.
-We examined the behavioral damage and differential neuronal vulnerability resulting from Mancozeb exposure using Caenorhabditis elegans, an important mid-trophic level soil organism that is also a powerful model for studying mechanisms of environmental pollutant-induced neurodegenerative disease.
-The dopamine-mediated swim to crawl locomotory transition behavior is exquisitely vulnerable to Mancozeb, with functional impairment preceding markers of neuronal structural damage.
-The damage is partially rescued in mutants lacking the divalent metal transporter, SMF-1, demonstrating that some, but not all, of the damage is mediated by manganese.
-Increasing concentrations of Mancozeb recruit additional behavioral dysfunction, notably serotonin-mediated egg-laying behavior, but without evident serotonergic neuronal structural damage.
-Thus, measurements of behavioral dysfunction are a sensitive early marker of fungicide toxicity that could be exploited to examine further mechanisms of neuron damage and possible therapeutic interventions.
-These results also provide important insight into the consequences of fungicide use on the ecological behavior of nematodes.

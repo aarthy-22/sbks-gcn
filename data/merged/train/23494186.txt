@@ -1,6 +1,0 @@
-LDL Cholesterol Goals in High-Risk Patients: How Low Do We Go and How Do We Get There? It is widely recognised that low-density lipoprotein cholesterol (LDL-C) is one of the most important and modifiable risk factors for cardiovascular disease (CVD).
-Statins (HMG-CoA reductase inhibitors) have consistently been shown to decrease both LDL-C and CVD risk in almost all patient categories, with the exception of heart and kidney failure as well as advanced aortic stenosis.
-As a consequence, statins have become the cornerstone in current prevention guidelines.
-In patients who do not reach the LDL-C target, combination therapy with additional LDL-C lowering drugs (e.g. ezetimibe, bile acid sequestrants or fibrates) should be considered.
-Guidelines provide different LDL-C levels to strive for, depending on the CVD risk.
-In this review, we describe the rationale for these LDL-C targets and how these goals might be reached by current and future therapies.

@@ -1,5 +1,0 @@
-Low molecular weight dual inhibitors of factor Xa and fibrinogen binding to GPIIb/IIIa with highly overlapped pharmacophores.
-Dual antithrombotic agents acting as anticoagulants and aggregation inhibitors could have substantial advantages over currently prescribed combinations of antithrombotic drugs.
-Herein, we report compounds with moderate inhibitory activity for factor Xa and fibrinogen GPIIb/IIIa binding (both in the micromolar range).
-These compounds resulted from our efforts to merge the pharmacophores of selective factor Xa inhibitor rivaroxaban with a mimic of the Arg-Gly-Asp (RGD) sequence of fibrinogen to obtain designed multiple ligands with potential antithrombotic activity.
-Resulting from this study, a structurally novel class of submicromolar fibrinogen GPIIb/IIIa binding inhibitor bearing 1,2,4-oxadiazol-5(4H)-one moiety is also described.

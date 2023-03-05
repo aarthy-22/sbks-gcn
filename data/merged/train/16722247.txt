@@ -1,7 +1,0 @@
-The norepinephrine transporter in physiology and disease.
-The norepinephrine transporter (NET) terminates noradrenergic signalling by rapid re-uptake of neuronally released norepinephrine (NE) into presynaptic terminals.
-NET exerts a fine regulated control over NE-mediated behavioural and physiological effects including mood, depression, feeding behaviour, cognition, regulation of blood pressure and heart rate.
-NET is a target of several drugs which are therapeutically used in the treatment or diagnosis of disorders among which depression, attention-deficit hyperactivity disorder and feeding disturbances are the most common.
-Individual genetic variations in the gene encoding the human NET (hNET), located at chromosome 16q12.2, may contribute to the pathogenesis of those diseases.
-An increasing number of studies concerning the identification of single nucleotide polymorphisms in the hNET gene and their potential association with disease as well as the functional investigation of naturally occurring or induced amino acid variations in hNET have contributed to a better understanding of NET function, regulation and genetic contribution to disorders.
-This review will reflect the current knowledge in the field of NET from its initial discovery until now.

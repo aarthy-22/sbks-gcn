@@ -1,8 +1,0 @@
-Overexpression of proline oxidase induces proline-dependent and mitochondria-mediated apoptosis.
-Proline oxidase (POX), a mitochondrial inner-membrane protein, catalyzes the rate-limiting oxidation of proline to pyrroline- 5-carboxylate (P5C).
-Previously we showed that overexpression of POX is associated with generation of reactive oxygen species (ROS) and apoptosis in POX-inducible colorectal cancer cells, DLD-1.POX.
-We also showed expression of mitochondrial MnSOD partially blunts POX-induced ROS generation and apoptosis.
-To further investigate the molecular basis of POX-induced apoptosis, we utilized the DLD-1.POX cells to show that cells overproducing POX exhibit an L-proline-dependent apoptotic response.
-The apoptotic effect is specific for L-proline, detectable at 0.2 mM, maximal at 1 mM, and occurs during 48-72 h following the addition of L-proline to cells with maximally induced POX.
-The apoptotic response is mitochondria-mediated with release of cytochrome c, activation of caspase-9, chromatin condensation/DNA fragmentation, and cell shrinkage.
-We conclude that in the presence of proline, high POX activity is sufficient to induce mitochondria-mediated apoptosis.

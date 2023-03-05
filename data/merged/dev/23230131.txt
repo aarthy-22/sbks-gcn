@@ -1,9 +1,0 @@
-Pharmacogenomics of gemcitabine metabolism: functional analysis of genetic variants in cytidine deaminase and deoxycytidine kinase.
-Gemcitabine (dFdC, 2',2'-difluorodeoxycytidine) is metabolized by cytidine deaminase (CDA) and deoxycytidine kinase (DCK), but the contribution of genetic variation in these enzymes to the variability in systemic exposure and response observed in cancer patients is unclear.
-Wild-type enzymes and variants of CDA (Lys27Gln and Ala70Thr) and DCK (Ile24Val, Ala119Gly, and Pro122Ser) were expressed in and purified from Escherichia coli, and enzyme kinetic parameters were estimated for cytarabine (Ara-C), dFdC, and its metabolite 2',2'-difluorodeoxyuridine (dFdU) as substrates.
-All three CDA proteins showed similar K(m) and V(max) for Ara-C and dFdC deamination, except for CDA70Thr, which had a 2.5-fold lower K(m) and 6-fold lower V(max) for Ara-C deamination.
-All four DCK proteins yielded comparable metabolic activity for Ara-C and dFdC monophosphorylation, except for DCK24Val, which demonstrated an approximately 2-fold increase (P < 0.05) in the intrinsic clearance of dFdC monophosphorylation due to a 40% decrease in K(m) (P < 0.05).
-DCK did not significantly contribute to dFdU monophosphorylation.
-In conclusion, the Lys27Gln substitution does not significantly modulate CDA activity toward dFdC, and therefore would not contribute to interindividual variability in response to gemcitabine.
-The higher in vitro catalytic efficiency of DCK24Val toward dFdC monophosphorylation may be relevant to dFdC clinical response.
-The substrate-dependent alterations in activities of CDA70Thr and DCK24Val in vitro were observed for the first time, and demonstrate that the in vivo consequences of these genetic variations should not be extrapolated from one substrate of these enzymes to another.

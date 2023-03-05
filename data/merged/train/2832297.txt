@@ -1,6 +1,0 @@
-Loperamide modifies but does not block the corticotropin-releasing hormone-induced ACTH response in patients with Addison's disease.
-The effect of loperamide - a peripheral opiate agonist - on plasma ACTH response to Corticotropin-releasing Hormone (CRH) has been investigated in 6 patients with Addison's disease.
-After placebo administration CRH induced a marked ACTH increase.
-After loperamide administration ACTH levels fell to a nadir of 135 +/- 76 pg/ml, and then CRH was still able to induce an ACTH increase; the pattern of ACTH response to CRH was slightly delayed.
-There was a significant difference between the two ACTH curves after CRH only in the early phase of the response.
-These data suggest that the inhibitory role of loperamide on ACTH secretion is exerted at supra-pituitary level, although a pituitary site of action can not be excluded.

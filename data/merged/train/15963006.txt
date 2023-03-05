@@ -1,9 +1,0 @@
-Improving the tolerability of anticholinergic agents in the treatment of overactive bladder.
-Pharmacological treatment for overactive bladder has centred around the interruption of the detrusor activity that is central to urge and incontinence symptoms.
-The majority of patients with this disorder are treated with antimuscarinic agents.
-These drugs have been demonstrated to improve urgency, frequency of micturition and urge incontinence, all of which are primary symptoms of overactive bladder; however, they are also commonly associated with anticholinergic adverse effects, most notably dry mouth.
-Attempts to increase tolerability have included the development of advanced formulations that regulate release of the active ingredient and the development of pharmacological agents that target the desired bladder receptors more specifically and accurately.
-Although all agents provide good efficacy, tolerability is greatly affected by the formulation used to deliver the active pharmacological agent, as well as the specificity of the targeted receptors.
-Clinical trials involving a transdermal formulation of oxybutynin have shown that this delivery method may be associated with a lower incidence of anticholinergic adverse events compared with both the immediate-release and the extended-release oral formulations of traditional agents, as well as the most recently approved agents - trospium chloride, solifenacin and darifenacin.
-Much is still being learned about the function and specificity of muscarinic receptors, which will support the development of agents with sustained efficacy and enhanced tolerability compared with the available formulations to date.
-These include the S-isomer of oxybutynin, as well as selective muscarinic M2 receptor antagonists.

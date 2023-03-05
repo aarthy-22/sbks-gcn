@@ -1,9 +1,0 @@
-Regulation of hepatic phase II metabolism in pregnant mice.
-Phase II enzymes, including Ugts, Sults, and Gsts, are critical for the disposition and detoxification of endo- and xenobiotics.
-In this study, the mRNA and protein expression of major phase II enzymes, as well as key regulatory transcription factors, were quantified in livers of time-matched pregnant and virgin control C57BL/6 mice on gestation days (GD) 7, 11, 14, 17, and postnatal days (PND) 1, 15, and 30.
-Compared with virgin controls, the mRNA expression of Ugt1a1, 1a6, 1a9, 2a3, 2b1, 2b34, and 2b35 decreased 40 to 80% in pregnant dams.
-Protein expression of Ugt1a6 also decreased and corresponded with reduced in vitro glucuronidation of bisphenol A in S9 fractions from livers of pregnant mice.
-Similar to Ugts levels, Gsta1 and a4 mRNAs were reduced in pregnant dams in mid to late gestation; however no change in protein expression was observed.
-Conversely, Sult1a1, 2a1/2, and 3a1 mRNAs increased 100 to 500% at various time points in pregnant and lactating mice and corresponded with enhanced in vitro sulfation of acetaminophen in liver S9 fractions.
-Coinciding with maximal decreases in Ugts as well as increases in Sults, the expression of transcription factors CAR, PPARα, and PXR and their target genes were downregulated, whereas ERα mRNA was upregulated.
-Collectively, these data demonstrate altered regulation of hepatic phase II metabolism in mice during pregnancy and suggest that CAR, PPARα, PXR, and ERα signaling pathways may be candidate signaling pathways responsible for these changes.

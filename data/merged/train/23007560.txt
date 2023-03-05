@@ -1,9 +1,0 @@
-The influence of chronic fluorosis on mitochondrial dynamics morphology and distribution in cortical neurons of the rat brain.
-The present study was designed to evaluate the effects of chronic fluorosis on the dynamics (including fusion and fission proteins), fragmentation, and distribution of mitochondria in the cortical neurons of the rat brain in an attempt to elucidate molecular mechanisms underlying the brain damage associated with excess accumulation of fluoride.
-Sixty Sprague-Dawley rats were divided randomly into three groups of 20 each, that is, the untreated control group (drinking water naturally containing <0.5 mg fluoride/l, NaF), the low-fluoride group (whose drinking water was supplemented with 10 mg fluoride/l) and the high-fluoride group (50 mg fluoride/l).
-After 6 months of exposure, the expression of mitofusin-1 (Mfn1), fission-1 (Fis1), and dynamin-related protein-1 (Drp1) at both the protein and mRNA levels were detected by Western blotting, immunohistochemistry, and real-time PCR, respectively.
-Moreover, mitochondrial morphology and distribution in neurons were observed by transmission electron or fluorescence microscopy.
-In the cortices of the brains of rats with chronic fluorosis, the level of Mfn1 protein was clearly reduced, whereas the levels of Fis1 and Drp1 were elevated.
-The alternations of expression of the mRNAs encoding all three of these proteins were almost the same as the corresponding changes at the protein levels.
-The mitochondria were fragmented and the redistributed away from the axons of the cortical neurons.
-These findings indicate that chronic fluorosis induces abnormal mitochondrial dynamics, which might in turn result in a high level of oxidative stress.

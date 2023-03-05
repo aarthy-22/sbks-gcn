@@ -1,7 +1,0 @@
-P300 during response inhibition is associated with ad-lib alcohol consumption in social drinkers.
-Reduced amplitude of the cortical P300 event-related potential (ERP) component during response inhibition is associated with vulnerability to alcohol use disorders.
-In the current study, we investigated the effect of an experimental manipulation of response conflict on the amplitude of the P300 component during response inhibition, and examined whether individual differences in the amplitude of this P300 component would predict voluntary ad-lib alcohol consumption, in social drinkers.
-Using a repeated measures design, 16 participants performed a stop-signal task after receiving instructions that either emphasised or de-emphasised response conflict while their electroencephalogram (EEG) was concurrently recorded, before their ad-lib drinking was assessed.
-Results revealed that task instructions had the predicted effects on behavioural indices of response inhibition and the associated P300 components.
-Most importantly, individual differences in the amplitude of P300 subcomponents during response inhibition were negatively correlated with ad-lib alcohol consumption.
-Results provide the first experimental support for theoretical models that posit that reduced amplitude of the P300 during response inhibition is associated with alcohol-seeking behaviour in humans.

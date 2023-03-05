@@ -1,7 +1,0 @@
-Chromosomal mapping of two members of the human glutamate dehydrogenase (GLUD) gene family to chromosomes 10q22.3-q23 and Xq22-q23.
-Glutamate dehydrogenase (GLUD) is an important mitochondrial enzyme that participates in neuronal transmission by catalyzing the deamination of L-glutamate, which serves as a potent excitatory neurotransmitter.
-The direct involvement of GLUD in the pathogenesis of certain human neurodegenerative disorders has been suggested recently.
-To investigate its possible role in the induction and progression of these disorders, we have initiated studies focusing on the chromosomal organization of the several members of the GLUD family and their functional status.
-In the present study using a panel of human x rodent somatic cell hybrids and in situ hybridization to metaphase chromosomes, we documented that the members of the GLUD gene family are dispersed in the human genome.
-The functional GLUD1 gene was mapped to chromosome 10q22.3-q23, and an intronless processed gene (GLUDP1) to chromosome Xq22-q23, while the truncated intron-containing GLUD pseudogene GLUDP2 was also assigned on chromosome 10, but not closely linked to the GLUD1 gene.
-These results provide novel information concerning the chromosomal organization of the human GLUD gene family.

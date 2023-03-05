@@ -1,5 +1,0 @@
-Nuclear receptors in bile acid metabolism.
-Bile acids are signaling molecules that activate nuclear receptors, such as farnesoid X receptor, pregnane X receptor, constitutive androstane receptor, and vitamin D receptor, and play a critical role in the regulation of lipid, glucose, energy, and drug metabolism.
-These xenobiotic/endobiotic-sensing nuclear receptors regulate phase I oxidation, phase II conjugation, and phase III transport in bile acid and drug metabolism in the digestive system.
-Integration of bile acid metabolism with drug metabolism controls absorption, transport, and metabolism of nutrients and drugs to maintain metabolic homeostasis and also protects against liver injury, inflammation, and related metabolic diseases, such as nonalcoholic fatty liver disease, diabetes, and obesity.
-Bile-acid-based drugs targeting nuclear receptors are in clinical trials for treating cholestatic liver diseases and fatty liver disease.

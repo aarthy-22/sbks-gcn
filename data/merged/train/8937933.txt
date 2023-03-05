@@ -1,8 +1,0 @@
-Pharmacodynamics of insulin Lispro in 2 patients with type II diabetes mellitus.
-We studied the effects of the new rapid acting human insulin analogue (Lys(B28), Pro(B29) insulin), insulin Lispro (Lispro) on metabolic control and insulin receptor binding in type II diabetes mellitus.
-We investigated 2 patients: Patient 1 was obese, clearly insulin-resistant, injected high doses of insulin (3-4 IU/kg body weight), and had insufficient diabetes control.
-Patient 2 was of normal body weight, injected normal insulin doses (0.7-0.8 IU/kg body weight), and had good diabetes control.
-Patient 1 showed a considerable improvement of insulin binding after receiving Lispro (26,700 vs. 5,600 receptors/monocyte; Kd 560 vs. 1,500 pM).
-Concommitantly, a decrease of serum glucose and insulin dose was observed, reflecting a higher insulin sensitivity during Lispro treatment.
-In patient 2 injected with Lispro the time course of serum glucose, serum insulin, and insulin binding after an oral meal was comparable to values obtained in healthy controls.
-We conclude that the quick and pulsatile pharmacokinetic profile of the insulin analogue Lispro may improve glycemia, insulin receptor binding, and insulin resistance in type II diabetes.

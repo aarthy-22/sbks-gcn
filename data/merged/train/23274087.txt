@@ -1,8 +1,0 @@
-6-OHDA-induced apoptosis and mitochondrial dysfunction are mediated by early modulation of intracellular signals and interaction of Nrf2 and NF-κB factors.
-6-Hydroxydopamine (6-OHDA) is a neurotoxin that generates an experimental model of Parkinson's disease in rodents and is commonly employed to induce a lesion in dopaminergic pathways.
-The characterization of those molecular mechanisms linked to 6-OHDA-induced early toxicity is needed to better understand the cellular events further leading to neurodegeneration.
-The present work explored how 6-OHDA triggers early downstream signaling pathways that activate neurotoxicity in the rat striatum.
-Mitochondrial function, caspases-dependent apoptosis, kinases signaling (Akt, ERK 1/2, SAP/JNK and p38) and crosstalk between nuclear factor kappa B (NF-κB) and nuclear factor-erythroid-2-related factor 2 (Nrf2) were evaluated at early times post-lesion.
-We found that 6-OHDA initiates cell damage via mitochondrial complex I inhibition, cytochrome c and apoptosis-inducing factor (AIF) release, as well as activation of caspases 9 and 3 to induce apoptosis, kinase signaling modulation and NF-κB-mediated inflammatory responses, accompanied by inhibition of antioxidant systems regulated by the Nrf2 pathway.
-Our results suggest that kinases SAP/JNK and p38 up-regulation may play a role in the early stages of 6-OHDA toxicity to trigger intrinsic pathways for apoptosis and enhanced NF-κB activation.
-In turn, these cellular events inhibit the activation of cytoprotective mechanisms, thereby leading to a condition of general damage.

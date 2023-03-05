@@ -1,5 +1,0 @@
-Pharmacological evaluation of selected arylpiperazines with atypical antipsychotic potential.
-Six active compounds, among previously synthesized and screened arylpiperazines, were selected and evaluated for the binding affinity to rat dopamine, serotonin and alpha(1) receptors.
-Two compounds with benztriazole group had a 5-HT(2A)/D(2) binding ratio characteristic for atypical neuroleptics (>1, pK(i) values).
-Compound 2, 5-[2-[4-(2,3-dimethyl-phenyl)-piperazin-1-yl]ethyl]1H-benzotriazole, expressed clozapine-like in vitro binding profile at D(2), 5-HT(2A) and alpha 1 receptors and a higher affinity for 5-HT(1A) receptors than clozapine.
-Also, it exhibited the noncataleptic behavioural pattern of atypical antipsychotics and antagonized d-amphetamine-induced hyperlocomotion in rats.

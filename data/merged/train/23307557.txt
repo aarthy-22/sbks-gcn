@@ -1,8 +1,0 @@
-p300-mediated acetylation of TRF2 is required for maintaining functional telomeres.
-The human telomeric protein TRF2 is required to protect chromosome ends by facilitating their organization into the protective capping structure.
-Post-translational modifications of TRF2 such as phosphorylation, ubiquitination, SUMOylation, methylation and poly(ADP-ribosyl)ation have been shown to play important roles in telomere function.
-Here we show that TRF2 specifically interacts with the histone acetyltransferase p300, and that p300 acetylates the lysine residue at position 293 of TRF2.
-We also report that p300-mediated acetylation stabilizes the TRF2 protein by inhibiting its ubiquitin-dependent proteolysis and is required for efficient telomere binding of TRF2.
-Furthermore, overexpression of the acetylation-deficient mutant, K293R, induces DNA-damage response foci at telomeres, thereby leading to induction of impaired cell growth, cellular senescence and altered cell cycle distribution.
-A small but significant number of metaphase chromosomes show no telomeric signals at chromatid ends, suggesting an aberrant telomere structure.
-These findings demonstrate that acetylation of TRF2 by p300 plays a crucial role in the maintenance of functional telomeres as well as in the regulation of the telomere-associated DNA-damage response, thus providing a new route for modulating telomere protection function.

@@ -1,5 +1,0 @@
-Lubiprostone: a chloride channel activator.
-In January 2006 the Food and Drug Administration approved lubiprostone for the treatment of chronic constipation in men and women aged 18 and over.
-Lubiprostone is categorized as a prostone, a bicyclic fatty acid metabolite of prostaglandin E1.
-Lubiprostone activates a specific chloride channel (ClC-2) in the gastrointestinal (GI) tract to enhance intestinal fluid secretion, which increases GI transit and improves symptoms of constipation.
-This article reviews the role of chloride channels in the GI tract, describes the structure, function, and pharmacokinetics of lubiprostone, and discusses clinically important data on this new medication.

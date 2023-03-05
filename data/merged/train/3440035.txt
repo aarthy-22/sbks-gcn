@@ -1,8 +1,0 @@
-Pharmacological properties of lorglumide as a member of a new class of cholecystokinin antagonists.
-Derivatives of 5-(dipentylamino)-5-oxo-pentanoic acid are a new class of non-peptide cholecystokinin (CCK) antagonists.
-The most potent compound, D,L-4-(3,4-dichlorobenzoylamino)-5-(dipentylamino)-5-oxo-pen tanoic acid (lorglumide, CR 1409), has a great affinity for the pancreatic CCK receptors and is a competitive, specific and potent CCK antagonist on the smooth muscles of the gall bladder and ileum of the guinea pig and on the CCK-induced amylase secretion of isolated pancreatic acini.
-In vivo lorglumide antagonizes the contraction of the gall bladder of the guinea pig and of the dog provoked by i.v.
-CCK-8 or ceruletide (caerulein).
-It antagonizes the satiety effect of CCK-8 in the rat and is protective against ceruletide-, taurocholate- and diet-induced pancreatitis.
-Lorglumide is therefore a useful pharmacological tool to study the functions of CCK.
-For its pharmacological properties, its relatively low toxicity and because it is active also after oral administration, lorglumide is a candidate for diagnostic or therapeutic use in man when an involvement of CCK is suspected.

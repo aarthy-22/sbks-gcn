@@ -2,3 +2,4 @@ T3	GENE-N 404 419	T-cell receptor
 T1	CHEMICAL 1051 1063	methotrexate
 T4	GENE-Y 1067 1100	tumor necrosis factor (TNF)-alpha
 T2	GENE-Y 1524 1533	TNF-alpha
+R0	NOT Arg1:T1 Arg2:T4

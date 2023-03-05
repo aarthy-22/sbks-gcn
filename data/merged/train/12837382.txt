@@ -1,6 +1,0 @@
-Rational design of alkylene-linked bis-pyridiniumaldoximes as improved acetylcholinesterase reactivators.
-To improve the potency of 2-pralidoxime (2-PAM) for treating organophosphate poisoning, we dimerized 2-PAM and its analogs according to Wilson's pioneering work and the 3D structure of human acetylcholinesterase (hAChE) inactivated by isoflurophate.
-1,7-Heptylene-bis-N,N'-syn-2-pyridiniumaldoxime, the most potent of the alkylene-linked dimeric reactivators, was readily synthesized using bistriflate and is 100 times more potent than 2-PAM in reactivating hAChE poisoned by isoflurophate.
-Experimental and computational studies confirm that 2-PAM in its biologically active form adopts the syn-I configuration.
-Further, they suggest that the improved performance of dimeric oximes is conferred by two-site binding with one oxime pointing toward the diisopropyl ester at the catalytic site of hAChE and the other anchored at the peripheral site.
-This type of binding may induce a conformational change in the acyl pocket loop which modulates the catalytic site via a domino effect.

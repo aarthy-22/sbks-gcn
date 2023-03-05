@@ -1,9 +1,0 @@
-The protective role of l-carnitine against cylindrospermopsin-induced oxidative stress in tilapia (Oreochromis niloticus).
-Cylindrospermopsin (CYN) is one of the most important cyanotoxins in terms of both human health and environmental quality and is produced by several different species of cyanobacteria, including Aphanizomenon ovalisporum.
-The principal mechanisms of action of CYN involve inhibition of protein and glutathione synthesis.
-In addition, CYN-mediated genotoxicity results from DNA fragmentation.
-The results of both in vivo and in vitro studies suggest that oxidative stress also plays a significant role in CYN pathogenesis in fish.
-We investigated the protective effects of l-carnitine (LC) pre-treatment on A. ovalisporum-induced oxidative stress in cells containing CYN and deoxy-CYN, or pure standard CYN, in tilapia (Oreochromis niloticus) that had been acutely exposed via oral administration.
-Various oxidative stress markers, including lipid peroxidation (LPO), protein oxidation, DNA oxidation, and the ratio of reduced glutathione to oxidised glutathione (GSH/GSSG), and the activities of NADPH oxidase, superoxide dismutase (SOD), catalase (CAT), and gamma-glutamyl-cysteine synthetase (γ-GCS), were evaluated in the livers and kidneys of fish in the absence and presence of 400 or 880mgLC/kgfish/day during a 21 day period prior to CYN-intoxication.
-The results of our study demonstrated for the first time the beneficial antioxidant effects of LC dietary supplementation on oxidative stress status in fish.
-No pro-oxidant effects were detected at any of the LC doses assayed, suggesting that LC is a chemoprotectant that reduces hepatic and renal oxidative stress and may be effective when used for the prophylaxis and treatment of CYN-related intoxication in fish.

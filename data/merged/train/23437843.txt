@@ -1,8 +1,0 @@
-Discovery, biological evaluation, and structure-activity and -selectivity relationships of 6'-substituted (E)-2-(benzofuran-3(2H)-ylidene)-N-methylacetamides, a novel class of potent and selective monoamine oxidase inhibitors.
-The use of selective inhibitors of monoamine oxidase A (MAO-A) and B (MAO-B) holds a therapeutic relevance in the treatment of depressive disorders and Parkinson's disease (PD), respectively.
-Here, the discovery of a new class of compounds acting as monoamine oxidase inhibitors (MAO-Is) and bearing a 6'-substituted (E)-2-(benzofuran-3(2H)-ylidene)-N-alkylacetamide skeleton is reported.
-6'-Sulfonyloxy derivatives exhibited outstanding affinities to MAO-A (7.0 nM < IC50 < 49 nM, much higher than moclobemide) and a pronounced MAO-A/B selectivity.
-The corresponding 6'-benzyloxy derivatives showed potent MAO-B inhibition and inverted selectivity profile.
-The rigid E-geometry of the exocyclic double bond allowed a more efficient binding conformation compared to more flexible and less active 2-(1-benzofuran-3-yl)-N-methylacetamide isomers and 4-N-methylcarboxamidomethylcoumarin analogues.
-Focused structural modifications and docking simulations enabled the identification of key molecular determinants for high affinity toward both MAO isoforms.
-These novel MAO-Is may represent promising hits for the development of safer therapeutic agents with a potential against depression, PD, and other age-related neurodegenerative pathologies.

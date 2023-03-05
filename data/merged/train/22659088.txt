@@ -1,8 +1,0 @@
-The interaction between mGluR1 and the calcium channel Cav₂.₁ preserves coupling in the presence of long Homer proteins.
-Group I metabotropic glutamate receptors (mGluR1 and 5) are G protein coupled receptors that regulate neuronal activity in a number of ways.
-Some of the most well studied functions of group I mGluRs, such as initiation of multiple forms of mGluR-dependent long-term depression, require receptor localization near the post-synaptic density (PSD).
-This localization is in turn dependent on the Homer family of scaffolding proteins which bind to a small motif on the distal C-termini of mGluR1 and 5, localize the receptors near the PSD, strengthen coupling to post-synaptic effectors and simultaneously uncouple the mGluRs from extra-synaptic effectors such as voltage dependent ion channels.
-Here the selectivity of this uncoupling process was examined by testing the ability of Homer-2b to uncouple mGluR1 from multiple voltage dependent calcium channels including Ca(V2.2) (N-type), Ca(V3.2) (T-type), and Ca(V2.1) (P/Q-type) expressed in rat sympathetic neurons from the superior cervical ganglion (SCG).
-Of these, only the mGluR1-Ca(V2.1) modulatory pathway was insensitive to Homer-2b expression.
-Uncoupling from this channel was achieved by co-expression of an mGluR1 C-terminal protein designed to disrupt a previously described direct interaction between these two proteins, suggesting that this interaction allows incorporation of Ca(V2.1) into the mGluR1/Homer signaling complex, thereby preserving modulation in the presence of scaffolding Homer proteins.
-This article is part of a Special Issue entitled 'Metabotropic Glutamate Receptors'.

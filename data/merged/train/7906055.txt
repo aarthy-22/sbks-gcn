@@ -1,7 +1,0 @@
-Agmatine: an endogenous clonidine-displacing substance in the brain.
-Clonidine, an antihypertensive drug, binds to alpha 2-adrenergic and imidazoline receptors.
-The endogenous ligand for imidazoline receptors may be a clonidine-displacing substance, a small molecule isolated from bovine brain.
-This clonidine-displacing substance was purified and determined by mass spectroscopy to be agmatine (decarboxylated arginine), heretofore not detected in brain.
-Agmatine binds to alpha 2-adrenergic and imidazoline receptors and stimulates release of catecholamines from adrenal chromaffin cells.
-Its biosynthetic enzyme, arginine decarboxylase, is present in brain.
-Agmatine, locally synthesized, is an endogenous agonist at imidazoline receptors, a noncatecholamine ligand at alpha 2-adrenergic receptors and may act as a neurotransmitter.

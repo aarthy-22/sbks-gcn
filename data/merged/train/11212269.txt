@@ -1,8 +1,0 @@
-Glucagon-like peptide (GLP)-2 reduces chemotherapy-associated mortality and enhances cell survival in cells expressing a transfected GLP-2 receptor.
-Chemotherapeutic agents produce cytotoxicity via induction of apoptosis and cell cycle arrest.
-Rapidly proliferating cells in the bone marrow and intestinal crypts are highly susceptible to chemotherapy, and damage to these cellular compartments may preclude maximally effective chemotherapy administration.
-Glucagon-like peptide (GLP)-2 is an enteroendocrine-derived regulatory peptide that inhibits crypt cell apoptosis after administration of agents that damage the intestinal epithelium.
-We report here that a human degradation-resistant GLP-2 analogue, h[Gly2]-GLP-2 significantly improves survival, reduces bacteremia, attenuates epithelial injury, and inhibits crypt apoptosis in the murine gastrointestinal tract after administration of topoisomerase I inhibitor irinotecan hydrochloride or the antimetabolite 5-fluorouracil.
-h[Gly2]-GLP-2 significantly improved survival and reduced weight loss but did not impair chemotherapy effectiveness in tumor-bearing mice treated with cyclical irinotecan.
-Furthermore, h[Gly2]-GLP-2 reduced chemotherapy-induced apoptosis, decreased activation of caspase-8 and -3, and inhibited poly(ADP-ribose) polymerase cleavage in heterologous cells transfected with the GLP-2 receptor.
-These observations demonstrate that the antiapoptotic effects of GLP-2 on intestinal crypt cells may be useful for the attenuation of chemotherapy-induced intestinal mucositis.

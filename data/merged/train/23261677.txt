@@ -1,9 +1,0 @@
-Shikonin induces programmed necrosis-like cell death through the formation of receptor interacting protein 1 and 3 complex.
-An alternative cell demise programmed necrosis has also been proposed when apoptotic machinery is impaired or blocked during tumor necrosis factor alpha (TNFα) stimulation.
-Shikonin (SKN), an herbal extract from the Chinese plant, has been reported to induce either apoptosis or necrosis depending on cell types or its concentrations.
-In this presentation, SKN caused cell death of NIH3T3 in a dose-dependent manner.
-Intriguingly, SKN-mediated cell death was in part protected by necrostatin-1 (Nec-1), a specific inhibitor of programmed necrosis, but not zVAD a pan-caspase inhibitor.
-SKN directly mediated cell death via receptor interacting protein1 and 3 (RIP1-RIP3) complex formation, which is required for TNFα-mediated programmed necrosis.
-Additionally, SKN-caused cell death was reversed by a reactive oxygen species (ROS) scavenger N-acetylcysteine (NAC) whereas TNFα-mediated necrosis was successfully protected by butylated hydroxyanisole (BHA), implying that ROS may be differentially derived from death inducing agents.
-Concurrently with the protective effect of the ROS scavenger or Nec-1 on TNFα or SKN, the RIP1-RIP3 complex was significantly affected in the presence of those agents.
-Here, it is highlighted that SKN as well as TNFα can directly mediate cell death via a pronecrotic complex, but ROS were generated via different routes depending on cell death-inducing agents.

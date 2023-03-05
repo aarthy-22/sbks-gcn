@@ -1,9 +1,0 @@
-Effects of dopamine receptor agonists and antagonists on catecholamine release in bovine chromaffin cells.
-Dopamine D2 receptors are known to regulate the release of catecholamines from neurons in the central and peripheral nervous systems.
-In the present study we have evaluated the effects of dopamine D2 agonists and antagonists on the release of endogenous norepinephrine and epinephrine stimulated by 50 microM nicotine in isolated bovine chromaffin cells in order to investigate whether isolated bovine chromaffin cells may contain functional dopamine D2 receptors.
-Dopamine (10(-4) and 10(-6) M), quinpirole (10(-5) M) and 2-amino-5,6-dihydroxy-1,2,3,4-tetrahydronaphthalene hydrobromide (10(-5) M) had no effect on the nicotine-stimulated release of norepinephrine or epinephrine from the bovine chromaffin cells.
-Pergolide (10(-6) M) and apomorphine (10(-4) M) produced a significant inhibition of nicotine-stimulated release of both norepinephrine and epinephrine from the chromaffin cells.
-The inhibitory effect of the selective dopamine D2 agonist pergolide on catecholamine release from the chromaffin cells was not reversed by 10(-6) M concentrations of the selective dopamine D2 receptor antagonists haloperidol, domperidone, metaclopramide, fluphenazine, flupentixol, (+)- or (-)-sulpiride, the dopamine D1 receptor antagonist SCH 23390 (10(-7) M) or the alpha receptor antagonist phentolamine (10(-6) M).
-These data suggest that the inhibition of nicotine-stimulated release of catecholamines from the bovine chromaffin cells is not a receptor-mediated effect.
-Further studies showed that the inhibitory effect of pergolide on catecholamine release in the bovine chromaffin cells was correlated with an inhibition of nicotine-stimulated 45Ca++ uptake and 22Na+ uptake into these cells.
-It is concluded that functional dopamine D2 receptors of the classical type do not exist on isolated bovine chromaffin cells.

@@ -1,7 +1,0 @@
-Bombesin receptor subtype-3 (BRS-3), a novel candidate as therapeutic molecular target in obesity and diabetes.
-BRS-3 KO-mice developed obesity and unbalanced glucose metabolism, suggesting an important role of BRS-3 receptor in glucose homeostasis.
-We explored BRS-3 expression in skeletal muscle from normal, obese or type-2 diabetic (T2D) patients, and the effect of [D-Phe(6), β-Ala(11),Phe(13),Nle(14)]bombesin(6-14)-BRS-3-agonist-peptide (BRS-3-AP) - on glucose-related effects, before or after BRS-3 gene silencing.
-In muscle tissue and primary cultured myocytes from altered metabolic states, BRS-3 gene/protein expressions were down-regulated.
-In normal, obese and T2D cells: A) BRS-3-AP as insulin enhanced BRS-3 and GLUT-4 mRNA/protein levels; improving glucotransporter translocation to plasma membrane, and B) BRS-3-AP caused a concentration-related-stimulation of glucose transport, being obese and T2D myocytes more sensitive to the ligand than normal.
-Wortmannin and PD98059, but not rapamycin, abolished the stimulatory action of BRS-3-AP on glucose transport.
-BRS-3 plays an important role in glucose metabolism, and could be use as a molecular target, and/or its ligand, as a therapeutic agent for obesity and diabetes treatments.

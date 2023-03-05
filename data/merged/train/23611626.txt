@@ -1,6 +1,0 @@
-Discovery of a New Class of Natural Product-Inspired Quinazolinone Hybrid as Potent Antileishmanial agents.
-The high potential of quinazolinone containing natural products and their derivatives in medicinal chemistry led us to discover four novel series of 53 compounds of quinazolinone based on the concept of molecular hybridization.
-Most of the synthesized analogues exhibited potent leishmanicidal activity against intracellular amastigotes (IC50 from 0.65 ± 0.2 to 7.76 ± 2.1 μM) as compared to miltefosine (IC50 = 8.4 ± 2.1 μM) and nontoxic toward the J-774A.1 cell line and Vero cells.
-Moreover, activation of Th1 type and suppression of Th2 type immune responses and induction in nitric oxide generation proved that 8a and 8g induce murine macrophages to prevent survival of parasites.
-Compounds 8a and 8g exhibited significant in vivo inhibition of parasite 73.15 ± 12.69% and 80.93 ± 10.50% against Leishmania donovani /hamster model.
-Our results indicate that compounds 8a, 8g, and 9f represent a new structural lead for this serious and neglected disease.

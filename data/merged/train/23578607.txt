@@ -1,8 +1,0 @@
-Glutathione conjugation attenuates biological activities of 6-dehydroshogaol from ginger.
-6-Dehydroshogaol (6-DHSG) is a bioactive α,β-unsaturated carbonyl compound isolated from fresh ginger with anti-inflammatory and phase II enzyme inducing activities.
-Here we describe the glutathione (GSH)-dependent metabolism and the effect of this metabolic transformation on the biological activities of 6-DHSG.
-Compared with other ginger compounds, such as 6-gingerol and 6-shogaol, 6-DHSG showed the most potent anti-inflammatory effect in lipopolysaccharide (LPS)-stimulated RAW 264.7 cells.
-The biological activities of 6-DHSG were attenuated by sulfhydryl antioxidants such as glutathione (GSH) or N-acetyl cysteine (NAC), but not ascorbic acid (ASC).
-6-DHSG was metabolised by GSH to form a GSH conjugate (GS-6-DHSG) in RAW 264.7 cells, via a potential mechanism involving the catalytic activity of glutathione-S-transferase (GST).
-GS-6-DHSG showed reduced biological activities compared with 6-DHSG in multiple biological assays.
-Together, these results indicate that GSH conjugation attenuates the biological activities of 6-DHSG and other α,β-unsaturated carbonyl compounds.

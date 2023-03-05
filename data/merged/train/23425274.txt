@@ -1,8 +1,0 @@
-Gel electrophoretic methods for the analysis of biosimilar pharmaceuticals using the example of recombinant erythropoietin.
-Due to their versatility and cost-effectiveness, gel electrophoretic methods provide an important set of tools for the analysis of therapeutic proteins.
-As an increasing number of biosimilar pharmaceuticals are entering the market, techniques are required that allow reliable demonstration of comparability of these products with the reference products.
-Isoelectric focusing, SDS-PAGE, native PAGE and 2D electrophoresis (2D-PAGE) have been frequently applied for this purpose.
-Supplementary techniques are fluorophore-assisted carbohydrate electrophoresis and sarcosyl-PAGE.
-Of additional importance is the comparison of recombinant with endogenously synthesized glycoproteins.
-Reagent array analysis combined with SDS-PAGE and western blotting proved especially useful for this purpose.
-As an example for the application of these methods, the analysis of recombinant originator erythropoietins and some of their biosimilar counterparts is described.

@@ -1,8 +1,0 @@
-The PARP inhibitor PJ34 modifies proliferation, NIS expression and epigenetic marks in thyroid cancer cell lines.
-Since PARP-1 is supposed to be part of a multimeric repressor of sodium iodide symporter (NIS) expression, in this study the effect of the PARP inhibitor PJ34 on several properties of thyroid cancer cell lines was investigated.
-In TPC1, BCPAP, FRO, WRO cell lines PJ34 induced a strong increase in NIS mRNA levels.
-In BCPAP and TPC1 cells also significant increase of radio-iodine uptake was induced.
-Accordingly, in transfection experiments performed in TPC1 cells, treatment with PJ34 increased NIS promoter activity without affecting PARP-1 binding to the promoter sequence.
-We also investigated the epigenetic status of NIS promoter after PJ34 treatment in TPC1 cell line: in addition to an increase of histone modification activation marks (H3K9K14ac, H3K4me3), surprisingly we observed also an increase of H3K27me3, a classical repressive mark.
-Our data demonstrate that in various thyroid cancer cell lines PARP inhibition increases NIS gene expression through a particular modulation of transcriptional regulatory mechanisms.
-Therefore, we suggest that PARP inhibitors may deserve future investigations as tools for medical treatment of thyroid cancer.

@@ -1,9 +1,0 @@
-Behavioral and biochemical investigations of bupropion metabolites.
-The stimulus effects of bupropion metabolites were examined in a drug discrimination procedure using (-)nicotine- and (+)amphetamine-trained rats.
-(+)- and (-)threohydrobupropion partially substituted in each group.
-R,R-hydroxybupropion produced vehicle-appropriate responding in (-)nicotine animals but, when given in combination with the training dose of (-)nicotine, resulted in an attenuated effect.
-S,S-Hydroxybupropion partially (66%) substituted for (-)nicotine.
-In (+)amphetamine-trained animals, S,S-hydroxybupropion (ED50=4.4 mg/kg) generalized completely and was similar in potency to bupropion (ED50=5.4 mg/kg).
-Bupropion and its metabolites lacked affinity for nicotinic acetylcholinergic receptors, but all antagonized (-)nicotine-induced 86Rb+ efflux in cells expressing alpha3beta4 nicotinic cholinergic receptors.
-S,S-Hydroxybupropion possessed affinity at the dopamine transporter comparable to bupropion, and was also found to bind at the norepinephrine transporter.
-Although it is unlikely that any metabolite isomer is chiefly responsible for the stimulus actions of bupropion, some probably play a role in the complex actions of this agent.

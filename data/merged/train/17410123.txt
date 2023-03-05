@@ -1,6 +1,0 @@
-Presynaptic alpha-2C adrenoceptor-mediated control of noradrenaline release in humans: genotype- or age-dependent? In vitro alpha-2CDel322-325 adrenoceptor (AR) polymorphism exhibits reduced functional responsiveness.
-We studied whether this is true also in vivo in humans.
-We assessed in nine young wild-type (WT) alpha-2C AR subjects (aged 23 years), 10 elder WT alpha-2C AR subjects (aged 63 years), and nine alpha-2CDel AR subjects (aged 28 years) clonidine (1 microg/kg intravenous (i.v.) bolus)-evoked plasma noradrenaline (pNA), heart rate (HR), and blood pressure (BP) changes.
-Clonidine-evoked pNA decreases were comparable in young WT alpha-2C and in alpha-2CDel AR subjects, but significantly lower (P=0.033) in elder subjects.
-Similarly, clonidine-evoked HR decreases were significantly larger in young WT alpha-2C and in alpha-2CDel AR subjects than in elder subjects, whereas clonidine-evoked BP decreases were larger in elder subjects.
-In conclusion, alpha-2CDel AR appears to play only a minor role in presynaptic regulation of NA release and/or to be not hypofunctional in vivo in humans, but functional responsiveness of presynaptic alpha-2 AR declines with ageing.

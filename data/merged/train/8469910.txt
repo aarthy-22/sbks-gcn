@@ -1,5 +1,0 @@
-Inhibitors of the arachidonic acid metabolism attenuate the thyroliberin (TRH) stimulated prolactin production without modifying the production of inositolphosphates in GH4C1 pituitary cells.
-Some arachidonic acid metabolites might be among the intracellular signalling substances that regulate hormone release.
-We report that the phospholipase A2 and diacylglycerol lipase inhibitor quinacrine (1-10 mumol l-1) inhibited the thyroliberin stimulated prolactin (rPRL) production in a dose-dependent way in a rat pituitary tumour cell line (GH4Cl cells).
-The lipoxygenase inhibitor nafazatrom (5-50 mumol-1) also dose-dependently inhibited the thyroliberin stimulated rPRL production, while the cyclo-oxygenase inhibitor indomethacin had no such effect on rPRL production.
-The inhibitors of the arachidonic acid metabolism (quinacrine, ETYA and nafazatrom) had no effect on the accumulation of inositolpolyphosphates indicating that the arachidonic acid metabolites are not involved in the regulation of the phospholipase C activity.

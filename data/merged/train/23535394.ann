@@ -10,3 +10,5 @@ T10	GENE-N 1174 1202	voltage-gated sodium channel
 T2	CHEMICAL 1188 1194	sodium
 T3	CHEMICAL 1310 1319	saxitoxin
 T11	GENE-N 1434 1454	metal-binding motifs
+R0	CPR-2 Arg1:T1 Arg2:T10
+R1	CPR-2 Arg1:T3 Arg2:T11

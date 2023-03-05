@@ -1,9 +1,0 @@
-Cooperative binding of ATP and MgADP in the sulfonylurea receptor is modulated by glibenclamide.
-The ATP-sensitive potassium (KATP) channels in pancreatic beta cells are critical in the regulation of glucose-induced insulin secretion.
-Although electrophysiological studies provide clues to the complex control of KATP channels by ATP, MgADP, and pharmacological agents, the molecular mechanism of KATP-channel regulation remains unclear.
-The KATP channel is a heterooligomeric complex of SUR1 subunits of the ATP-binding-cassette superfamily with two nucleotide-binding folds (NBF1 and NBF2) and the pore-forming Kir6.2 subunits.
-Here, we report that MgATP and MgADP, but not the Mg salt of gamma-thio-ATP, stabilize the binding of prebound 8-azido-[alpha-32P]ATP to SUR1.
-Mutation in the Walker A and B motifs of NBF2 of SUR1 abolished this stabilizing effect of MgADP.
-These results suggest that SUR1 binds 8-azido-ATP strongly at NBF1 and that MgADP, either by direct binding to NBF2 or by hydrolysis of bound MgATP at NBF2, stabilizes prebound 8-azido-ATP binding at NBF1.
-The sulfonylurea glibenclamide caused release of prebound 8-azido-[alpha-32P]ATP from SUR1 in the presence of MgADP or MgATP in a concentration-dependent manner.
-This direct biochemical evidence of cooperative interaction in nucleotide binding of the two NBFs of SUR1 suggests that glibenclamide both blocks this cooperative binding of ATP and MgADP and, in cooperation with the MgADP bound at NBF2, causes ATP to be released from NBF1.

@@ -1,9 +1,0 @@
-Puerarin mediates hepatoprotection against CCl4-induced hepatic fibrosis rats through attenuation of inflammation response and amelioration of metabolic function.
-This study was designed to evaluate the potential effects of puerarin (PR), an effective isoflavonoid compound purified from Pueraria lobata, in treating hepatic fibrosis (HF) rats induced by carbon tetrachloride (CCl(4), 2 mL kg(-1) d(-1)).
-Compared to model control, PR treatment effectively lowered the serum levels of alanine aminotransferase (ALT), aspartate aminotransferase (AST), albumin (Alb), total protein (TP) in HF rats.
-Masson stained analysis showed that the condition of HF rats was mitigated.
-Meanwhile, the tumor necrosis factor alpha (TNF-α), nuclear factor-kappa B (NF-κB) expressions were significantly down-regulated at protein level by PR intervention.
-Additionally, the activity of superoxide dismutase (SOD) was elevated, while the content of malondialdehyde (MDA) was lessened in liver tissue.
-As revealed by immunohistochemistry assay, PR therapy resulted in reduced production of transforming growth factor-βl (TGF-βl).
-Moreover, it also was attributed to decreased mRNA level of inducible nitric oxide synthase (iNOS) using RT-PCR analysis.
-These findings demonstrate that puerarin successfully reverses hepatotoxicity in CCl(4)-induced HF rats via the underlying mechanisms of regulating serum enzymes and attenuating TNF-α/NF-κB pathway for anti-inflammation response, as well as improving metabolic function in liver tissue.

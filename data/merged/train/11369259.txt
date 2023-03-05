@@ -1,5 +1,0 @@
-Heparin-binding exosite of factor Xa.
-Recent studies have indicated that the basic residues Arg(93), Lys(96), Arg(125), Arg(165), Lys(169), Lys(236), and Arg(240) (chymotrypsin numbering) constitute an exosite in the catalytic domain of factor Xa that can effectively bind heparin only if the acidic N-terminal Gla domain of the proteinase was neutralized by physiological levels of calcium.
-Binding of a full-length heparin chain to this site of factor Xa in the presence of calcium makes a significant contribution to acceleration of the proteinase inhibition by antithrombin through a ternary complex bridging or template mechanism.
-Moreover, certain basic residues of this site, particularly Arg(165) and Lys(169), play a key role in factor Va and/or prothrombin recognition by factor Xa in the prothrombinase complex.
-This article reviews recent structural, mutagenesis and kinetic data that lead to identification of this exosite and discusses how the binding of protein or polysaccharide cofactors to this site of factor Xa can modulate the specificity and physiological function of this key coagulant enzyme in plasma.

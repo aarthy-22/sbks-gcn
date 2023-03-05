@@ -1,6 +1,0 @@
-Optimization of 5-hydroxytryptamines as dual function inhibitors targeting phospholipase A2 and leukotriene A4 hydrolase.
-Dual function inhibitors targeting phospholipase A(2) (PLA(2)) and leukotriene A(4) hydrolase (LTA(4)H) may balance the arachidonic acid (AA) metabolic network and be used as new anti-inflammatory drugs.
-In previous study, we discovered multi-target drugs towards the AA metabolic network, among which a dual-target inhibitor (JMC08-4) for human nonpancreatic secretory phospholipase A(2) (hnps-PLA(2)) and human leukotriene A(4) hydrolase (LTA(4)H-h) was found.
-Based on the structure of compound JMC08-4, new dual-target inhibitors were designed assisted by molecular docking.
-In this report, a series of 5-hydroxytryptamine compounds were synthesized; and most of these title compounds showed more potent inhibitory activity than compound JMC08-4 in the in vitro bioassay against these two enzymes.
-The best one inhibited hnps-PLA(2) and LTA(4)H-h with IC(50) values of 9.2 ± 0.5 μM and 2.4 ± 1.4 μM, respectively.

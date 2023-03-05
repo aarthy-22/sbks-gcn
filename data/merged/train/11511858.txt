@@ -1,8 +1,0 @@
-Complexities of androgen action.
-Androgens mediate a wide range of processes during embryogenesis and in the adult.
-In mammals, the principal androgens are testosterone and its 5alpha-reduced metabolite, 5alpha-dihydrotestosterone (DHT).
-Although these androgenic hormones are diverse in character, it is believed that their effects are mediated via the protein products of a single androgen receptor gene encoded on the X-chromosome.
-A great deal of information has now accumulated pertaining to the mechanisms by which nuclear receptors, such as the androgen receptor, modulate the activity of responsive genes.
-The studies have demonstrated the participation of a number of ancillary proteins in modulating activation or repression by nuclear receptors.
-In addition to studies focused on the mechanisms of nuclear receptor function, additional work has illuminated the mechanism by which androgens are metabolized in selected tissues.
-This information provides a perspective on the number of levels of complexity by which differential gene regulation by androgens may occur in different tissues and in different cell types.

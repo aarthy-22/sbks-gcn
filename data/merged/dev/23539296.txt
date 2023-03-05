@@ -1,9 +1,0 @@
-p38 Mitogen Activated Protein Kinase Regulates the Nuclear Receptor CAR to Activate the CYP2B6 Gene.
-The constitutive active/androstane receptor (CAR) regulates hepatic drug metabolism by activating genes such as cytochrome P450 (CYP) and certain transferases.
-p38 mitogen activated protein kinase (MAPK) is highly activated in human primary hepatocytes but barely in human hepatoma cell-lines including HepG2 cells.
-Liganded-CAR induced CYP2B6 mRNA in human primary hepatocytes far more effectively than in HepG2 cells ectopically expressing CAR.
-Here, we have now found that activation of p38 MAPK by anisomycin potentiated induction of CYP2B6 mRNA by CAR ligand in HepG2 cells to levels observed in ligand-treated human primary hepatocytes.
-siRNA knockdown of p38 MAPK abrogated the ability of anisomycin to synergistically induce CYP2B6 mRNA.
-In addition to CYP2B6, anisomycin co-treatment potentiated an increase in CYP2A7 and CYP2C9 mRNAs but not CYP3A4 or UDP-glucuronosyltransferase 1A1 mRNAs.
-Thus, activated p38 MAPK is required for liganded-CAR to selectively activate a set of genes that encode drug metabolizing enzymes.
-Our present results suggest that CAR-mediated induction of these enzymes can not be understood by ligand binding alone because the specificity and magnitude of induction are co-determined by a given cell signaling such as p38 MAPK; both physiological and pathophysiological states of cell signaling may have a strong impact in hepatic drug metabolizing capability during therapeutic treatments.

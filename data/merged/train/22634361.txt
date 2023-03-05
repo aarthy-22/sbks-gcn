@@ -1,8 +1,0 @@
-Anxiolytic- but not antidepressant-like activity of Lu AF21934, a novel, selective positive allosteric modulator of the mGlu₄ receptor.
-Previous studies demonstrated that the Group III mGlu receptor-selective orthosteric agonist, LSP1-2111 produced anxiolytic- but not antidepressant-like effects upon peripheral administration.
-Herein, we report the pharmacological actions of Lu AF21934, a novel, selective, and brain-penetrant positive allosteric modulator (PAM) of the mGlu(4) receptor in the stress-induced hyperthermia (SIH), four-plate, marble-burying and Vogel's conflict tests.
-In all models, except Vogel's conflict test, a dose-dependent anxiolytic-like effect was seen.
-The anti-hyperthermic effect of Lu AF21934 (5 mg/kg) in the SIH test was inhibited by the benzodiazepine receptor antagonist flumazenil (10 mg/kg) and was not serotonin-dependent, as it persisted in serotonin-deficient mice and upon blockade of either 5-HT(1A) receptors by WAY100635, or 5-HT(2A/2C) receptors by ritanserin.
-These results suggest that the GABAergic system, but not the serotonergic system, is involved in the mechanism of the anxiolytic-like phenotype of Lu AF21934 in rodents.
-Lu AF21934 did not produce antidepressant-like effects in the tail suspension test (TST) in mice; however, it decreased the basal locomotor activity of mice that were not habituated to activity cages.
-This article is part of a Special Issue entitled 'Metabotropic Glutamate Receptors'.

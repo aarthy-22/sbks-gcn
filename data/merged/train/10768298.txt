@@ -1,8 +1,0 @@
-Topiramate as an inhibitor of carbonic anhydrase isoenzymes.
-PURPOSE: This study investigated the effectiveness of topiramate (TPM) as an inhibitor of six isozymes of carbonic anhydrase (CA).
-METHODS: The inhibition constants (Ki) of TPM and acetazolamide (AZM) for CA I, CA II, CA III, CA IV, CA V, and CA VI were determined for human (HCA), rat (RCA), or mouse (MCA).
-The activity of CA was studied by using purified isozymes, erythrocytes, subcellular fractions of kidney or brain, and saliva, and was assayed at 37 degrees C or 25 degrees C by 18O mass spectrometry and/or by measuring the pH shift at 0 degrees C. RESULTS: Topiramate Ki values for HCA I, HCA II, HCA IV, and HCA VI were approximately 100, 7, 10, and >100 microM, respectively.
-TPM Ki values for RCA I, RCA II, RCA III, RCA IV, and RCA V were approximately 180, 0.1 to 1, >100, 0.2 to 10 and 18 microM, respectively.
-For RCA II and RCA IV, the Ki values were temperature dependent.
-TPM Ki values for MCA II and MCA IV ranged between 1 and 20 microM. CONCLUSIONS: These results indicate that TPM is more potent as an inhibitor of CA II and CA IV than of CA I, CA III, and CA VI.
-In all three species, AZM was usually 10 to 100 times more potent than TPM as an inhibitor of CA isozymes.

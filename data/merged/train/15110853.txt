@@ -1,9 +1,0 @@
-Carbonic anhydrase inhibitors: aromatic and heterocyclic sulfonamides incorporating adamantyl moieties with strong anticonvulsant activity.
-A series of aromatic/heterocyclic sulfonamides incorporating adamantyl moieties were prepared by reaction of aromatic/heterocyclic aminosulfonamides with the acyl chlorides derived from adamantyl-1-carboxylic acid and 1-adamantyl-acetic acid.
-Related derivatives were obtained from the above-mentioned aminosulfonamides with adamantyl isocyanate and adamantyl isothiocyanate, respectively.
-Some of these derivatives showed good inhibitory potency against two human CA isozymes involved in important physiological processes, CA I, and CA II, of the same order of magnitude as the clinically used drugs acetazolamide and methazolamide.
-The lipophilicity of the best CA inhibitors was determined and expressed as their experimental log k' IAM and theoretical ClogP value.
-Their lipophilicity was propitious with the crossing of the blood-brain barrier (log k' > IAM > 1.35).
-The anticonvulsant activity of some of the best CA inhibitors reported here has been evaluated in a MES test in mice.
-After intraperitoneal injection (30 mg kg(-1)), compounds A8 and A9 exhibited a high protection against electrically induced convulsions (> 90%).
-Their ED50 was 3.5 and 2.6 mg kg(-1), respectively.

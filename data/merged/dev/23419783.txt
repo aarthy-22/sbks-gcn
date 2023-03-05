@@ -1,9 +1,0 @@
-Metformin and Sulfonylureas in Relation to Cancer Risk in Type II Diabetes Patients: A Meta-analysis using primary data of published studies.
-INTRODUCTION: Accumulating evidence suggests that patients with type 2 diabetes mellitus (T2DM) and hyperinsulinemia are at increased risk for developing malignancies.
-It remains to be fully elucidated whether use of metformin, an insulin sensitizer, and/or sulfonylureas, insulin secretagogues, affect cancer incidence in subjects with T2DM.
-MATERIAL & METHODS: We performed a meta-analysis using PubMed, of randomized control trials (RCTs), cohorts, and case-control studies published through July 2012 that assess effects of metformin and/or sulfonylurea sulfonylureas on cancer risk at any site, in subjects with T2DM.
-Fixed and random effects meta-analysis models were used, and the effect size was summarized as relative risk (RR) for RCTs/cohorts and as odds ratio (OR) for the case-control studies.
-RESULTS: Analysis of 24 metformin studies in subjects with T2DM showed that metformin use is associated with reduced risk for the development of cancer, in both cohort (RR=0.70 [95% CI=0.67-0.73]) and case-control studies (OR=0.90 [95% CI=0.84-0.98]), but this finding was not supported by RCTs (RR=1.01[95% CI=0.81-1.26]).
-Data from 18 sulfonylurea studies in subjects with T2DM showed that sulfonylurea use is associated with an increase in all-cancer risk, in cohort studies (RR=1.55 [95% CI=1.48 -1.63]), though data from RCTs (RR=1.17 [95% CI=0.95-1.45]) and case-control studies (OR=1.02 [95% CI=0.93-1.13]) failed to demonstrate a statistically significant effect.
-CONCLUSIONS: This analysis using pooled primary data demonstrates that metformin use reduces, while sulfonylurea use may be associated with an increased cancer risk in subjects with T2DM.
-These findings need to be confirmed in large-scale RCTs before they are translated into clinical practice.

@@ -1,8 +1,0 @@
-Decreased intracellular proteolysis correlates with the maintenance of a specific isoenzyme of cytochrome P-450.
-The rates of intracellular protein degradation, of identically labelled populations of proteins, were compared in hepatocytes cultured at 37 degrees (on an adsorbed collagen layer) and in cells preserved on gelatin gels at 10 degrees C. The half-lives of the long-lived proteins were 35.4+/-8.6 h (N=4) and 692.9+/-216.9 h (N=4) respectively.
-Proteolysis was substantially decreased at 10 degrees C but the rate of decrease remained constant.
-Hepatocytes rapidly removed resorufin from the culture medium.
-The resorufin was not being conjugated or accumulated within the cells.
-Dicumarol, a potent inhibitor of quinone oxidoreductase, at high concentration (500 microm ) caused only a 72% decrease in the utilization of resorufin.
-The microsomal detoxifying enzyme, cytochrome P-450 1A1 remained at a constant level in the preserved hepatocyte monolayers.
-The results of this study strongly favour storing hepatocytes at 10 degrees C rather than at 4 degrees or 37 degrees C.

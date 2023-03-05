@@ -1,8 +1,0 @@
-Breakdown of Th cell immune responses and steroidogenic CYP11A1 expression in CD4+ T cells in a murine model implanted with B16 melanoma.
-The association between the balance of Th1/Th2 cell responses and CYP11A1 expression in CD4+ T cells was investigated in a murine model implanted with highly metastatic B16F10 melanoma cells (B16F10 mice).
-When 2 x 10(5) cells/mouse of B16F10 cells were inoculated into C57BL/6 mice, Th2 cell responses and pulmonary metastasis were increased.
-In addition, corticosterone levels in splenic tissue or serum and CYP11A1 mRNA expression (mRNA encoding cholesterol side-chain cleavage p450 enzyme) in CD4+ T cells were increased in these mice.
-When the anti-corticosterone drug aminoglutethimide (CYP11A1 inhibitor) was administered to B16F10 mice, corticosterone levels in splenic tissue or serum and CYP11A1 mRNA expression were decreased at 14 days after tumor inoculation.
-In addition, Th1 cell responses were restored and pulmonary metastasis was reduced by aminoglutethimide.
-These results indicated that the breakdown of Th cell responses and increase of pulmonary metastasis were due to an increase in steroidogenic CYP11A1 mRNA expression in CD4+ T cells.
-Moreover, it was suggested that promotion of CYP11A1 mRNA expression in Th2 cells was partially involved due to an increase in level of corticosterone in splenic tissue and the breakdown of Th cell responses locally in the splenic tissue, which then affected the maintenance of Th2 cell functions in the microenvironment of tumor-bearing mice.

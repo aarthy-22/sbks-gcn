@@ -1,9 +1,0 @@
-Antithrombotic and profibrinolytic activities of isorhamnetin-3-O-galactoside and hyperoside.
-The potential anticoagulant activities of two single compounds, isorhamnetin-3-O-galactoside (IMG) and hyperoside, from Oenanthe javanica, were tested.
-The anticoagulant activities were investigated by measuring activated partial thromboplastin time (aPTT) and prothrombin time (PT), and the ability to inhibit production of thrombin and activated factor X (FXa) was investigated in human umbilical vein endothelial cells (HUVECs).
-And, the effects of the compounds on expression of plasminogen activator inhibitor type 1 (PAI-1) and tissue-type plasminogen activator (t-PA) were tested in tumor necrosis factor-(TNF)-α activated HUVECs.
-Treatment with IMG and hyperoside resulted in significantly prolonged aPTT and PT and inhibition of the activities of thrombin and FXa, and IMG or hyperoside inhibited production of thrombin and FXa in HUVECs.
-In accordance with these anticoagulant activities, both agents elicited anticoagulant effects in mouse.
-In addition, treatment with IMG and hyperoside resulted in inhibition of TNF-α-induced production of PAI-1, and treatment with IMG resulted in significant reduction of the PAI-1 to t-PA ratio.
-The anticoagulant and profibrinolytic effects of IMG were greater than those of hyperoside, indicating positive regulation of its anticoagulant function by the methoxy group of IMG.
-IMG and hyperoside possess antithrombotic activities and offer bases for development of a novel anticoagulant.

@@ -1,9 +1,0 @@
-Theoretical Characterization of Galanin Receptor Type 3 (Gal3 ) and Its Interaction with Agonist (GALANIN) and Antagonists (SNAP 37889 and SNAP 398299): An In Silico Analysis.
-In this study, we report on modeling of galanin receptor type 3 and its interaction with agonist and antagonists using in silico methodologies.
-Comparative structural modeling of galanin receptor type 3 was based on multiple templates.
-With the availability of reported selective galanin receptor type 3 antagonists, docking was carried out into the predicted binding site.
-Similarly, galanin, a reported agonist, was also modeled and then docked into the receptor's active site.
-CoMFA models were developed using ligand-based (q(2)  = 0.537, r(2)  = 0.961, noc = 5), and receptor-guided (docked mode 1: q(2)  = 0.574, r(2)  = 0.946, noc = 5), (docked mode 2: q(2)  = 0.499, r(2)  = 0.954, noc = 5) alignment schemes.
-CoMFA contour analysis revealed that bulky substitution around the meta position of the phenyl ring, as well as optimal substitution (para) of the phenyl ring, could produce molecules with improved activity.
-We also found that Gln79, Ile82, Asp86, Trp88, His99, Ile102, Tyr103, Glu170, Pro174, Ala175, Asp185, Arg273, His277, and Tyr281 are crucial, and mutational studies on these residues could be helpful.
-The results obtained from this study can further be exploited for structure-based drug design and also help the researchers to identify novel antagonists targeting galanin receptor type 3.

@@ -12,3 +12,5 @@ T1	CHEMICAL 1126 1139	acetaminophen
 T2	CHEMICAL 1145 1158	rosiglitazone
 T3	CHEMICAL 1198 1210	troglitazone
 T4	CHEMICAL 1290 1303	acetaminophen
+R0	NOT Arg1:T13 Arg2:T8
+R1	NOT Arg1:T8 Arg2:T14

@@ -1,6 +1,0 @@
-Glycosylation enhances the anti-migratory activities of isomalyngamide A analogs.
-Three, new, fully synthetic glycosylated isomalyngamide A analogs 4-6 were prepared and evaluated for their anti-migratory activities in human breast cancer cells.
-The results of the study show that two glycosylated derivatives 4 and 5, containing mannose and galactose appendages, suppress metastatic events (e.g., migration, invasion and adhesion) in human breast adenocarcinoma MDA-MB-231 cells at "nontoxic" concentration levels.
-In contrast, derivative 6 that contains a lactose moiety, displays a less potent activity.
-The findings show that monosaccharide rather than disaccharide appendages to the isomalyngamide A backbone more greatly influence cell migration and invasive ability.
-Evidence has been gained for a mechanism for inhibition of metastatic activities in MDA-MB-231 cells by 4 and 5, involving inactivation of the expression of p-FAK and paxillin through the integrin-mediated antimetastatic pathway.

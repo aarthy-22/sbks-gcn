@@ -1,6 +1,0 @@
-Comparisons of beta-adrenergic blocking properties of S- and R-timolol in humans.
-In animals, the R-enantiomer of timolol causes a significant reduction in intraocular pressure but had only 1/80 the activity of the S-enantiomer at extraocular receptors.
-The beta 1- and beta 2-adrenoceptor blocking properties of orally administered R- and S-timolol were compared in a double-blind placebo controlled trial in two groups of healthy men.
-Each subject in group A (n = 6) received placebo, 1 and 3 mg S-timolol and 25 and 75 mg R-timolol in random order, group B (n = 5) received placebo, 0.5, and 1 mg S-timolol and 3 and 10 mg R-timolol.
-In both groups, R- and S-timolol comparably inhibited isoproterenol-induced increases in heart rate (P < .05), forearm blood flow (P < .05, except at 3 micrograms/minute of isoproterenol after the R-doses in group B), and finger tremor (P < .05) in comparison with placebo.
-The findings for the R-enantiomer in this study were unexpected based on the animal studies and previous studies that demonstrated marked differences in beta blocking effects of other beta-blockers in which the R-enantiomers were less inhibitory.

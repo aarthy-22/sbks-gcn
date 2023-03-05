@@ -1,7 +1,0 @@
-Mammalian target of rapamycin inhibitors and their potential role in therapy in leukaemia and other haematological malignancies.
-The mammalian target of rapamycin (mTOR) is a serine/threonine kinase that functions as a key regulator of cell growth, protein synthesis, and cell-cycle progression through interactions with a number of signalling pathways, including PI3K/AKT, ras, TCL1, and BCR/ABL.
-Many haematological malignancies have aberrant activation of the mTOR and related signalling pathways.
-Accordingly, mTOR inhibitors, a class of signal transduction inhibitors that were originally developed as immunosuppressive agents, are being investigated in preclinical models and clinical trials for a number of haematological malignancies.
-Sirolimus and second-generation mTOR inhibitors, such as temsirolimus and everolimus, are safe and relatively well-tolerated, making them potentially attractive as single agents or in combination with conventional cytotoxics and other targeted therapies.
-Promising early clinical data suggests activity of mTOR inhibitors in a number of haematological diseases, including acute lymphoblastic leukaemia, chronic myeloid leukaemia, mantle cell lymphoma, anaplastic large cell lymphoma, and lymphoproliferative disorders.
-This review describes the rationale for using mTOR inhibitors in a variety of haematological diseases with a focus on their use in leukaemia.

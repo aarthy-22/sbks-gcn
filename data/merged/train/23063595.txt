@@ -1,9 +1,0 @@
-Multifunctional targets of dietary polyphenols in disease: a case for the chemokine network and energy metabolism.
-Chronic, non-acute inflammation is behind conditions that represent most of the disease burden in humans and is clearly linked to immune and metabolic mechanisms.
-The convergence of pathways involving the immune response, oxidative stress, increased circulating lipids and aberrant insulin signaling results in CCL2-associated macrophage recruitment and altered energy metabolism.
-The CCL2/CCR2 pathway and the energy sensor AMP-activated protein kinase (AMPK) are attractive therapeutic targets as a part of preventive management of disease.
-Several effects of polyphenols are useful in this scenario, including a reduction in the activities of cytokines and modulation of cellular metabolism through histone deacetylase inhibitors, AMPK activators, calorie-restriction mimetics or epigenetic regulators.
-Research is currently underway to develop orally active drugs with these effects, but it is convenient to examine more closely what we are eating.
-If a lack of relevance in terms of toxicity and substantial effectiveness are confirmed, plant-derived components may provide useful druggable components and dietary supplements.
-We consider therapeutic actions as a combination of synergistic and/or antagonistic interactions in a multi-target strategy.
-Hence, improvement in food through enrichment with polyphenols with demonstrated activity may represent a major advance in the design of diets with both industrial and sanitary value.

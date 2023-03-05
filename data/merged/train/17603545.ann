@@ -17,3 +17,4 @@ T7	GENE-N 1511 1532	alpha(1)-adrenoceptor
 T8	GENE-N 1707 1729	alpha(1)-adrenoceptors
 T9	GENE-Y 1744 1767	alpha(1A)-adrenoceptors
 R0	NOT Arg1:T1 Arg2:T6
+R1	NOT Arg1:T1 Arg2:T7

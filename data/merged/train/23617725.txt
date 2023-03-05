@@ -1,6 +1,0 @@
-Probing the Role of the Vancomycin E-Ring Aryl Chloride: Selective Divergent Synthesis and Evaluation of Alternatively Substituted E-Ring Analogues.
-The selective functionalization of a vancomycin aglycon derivative through direct conversion of the E-ring aryl chloride to a reactive boronic acid, and its use in the synthesis of a systematic series of vancomycin E-ring analogues are described.
-The series of analogues was used to examine the impact of the E-ring chloride in binding D-Ala-D-Ala and on antimicrobial activity.
-In contrast to the reduced activity of the unsubstituted E-ring derivatives, hydrophobic and relatively non-polar substituents approach or match the chloro substituted vancomycin and was insensitive to the electronic character of the substituent (e.g. Cl vs CN or OMe), whereas highly polar substituents fail to provide the enhancements.
-Moreover, the active permethylated vancomycin aglycon derivatives examined exhibit VanB VRE antimicrobial activity at levels that approach (typically within 2-fold) their activity against sensitive bacteria.
-The robust borylation reaction also enabled the selective functionalization of a minimally protected vancomycin aglycon (N-Boc vancomycin aglycon), and provides a direct method for the preparation of previously inaccessible analogues.

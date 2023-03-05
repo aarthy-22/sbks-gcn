@@ -8,4 +8,5 @@ T5	CHEMICAL 942 958	cyclophosphamide
 T6	CHEMICAL 1026 1035	manganese
 T7	CHEMICAL 1066 1082	cyclophosphamide
 T1	CHEMICAL 1426 1433	glucose
-R0	NOT Arg1:T10 Arg2:T5
+R0	NOT Arg1:T4 Arg2:T10
+R1	NOT Arg1:T10 Arg2:T5

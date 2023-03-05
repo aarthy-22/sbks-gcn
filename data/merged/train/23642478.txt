@@ -1,6 +1,0 @@
-Carbonic anhydrase inhibitors.
-Benzenesulfonamides incorporating cyanoacrylamide moieties strongly inhibit Saccharomyces cerevisiae β-carbonic anhydrase.
-A series of benzenesulfonamides incorporating cyanoacrylamide moieties (tyrphostine analogs) were assayed as inhibitors of the β-carbonic anhydrase (CA, EC 4.2.1.1) from Saccharomyces cerevisiae, ScCA.
-Some of these compounds were low nanomolar or subnanomolar ScCA inhibitors and showed selectivity ratios in the range of 4.91-69.86 for inhibiting the yeast enzyme over the offtarget human (h) isoforms hCA I and of 6.46-13.52 for inhibiting ScCA over hCA II.
-The model organism S. cerevisiae and this particular enzyme may be useful for detecting antifungals with a novel mechanism of action compared to the classical azole drugs to which significant drug resistance emerged.
-Indeed, some of these sulfonamides inhibited the growth of the yeast with CC50-s in the range of 0.73-6.54μM.

@@ -1,7 +1,0 @@
-Dopamine genes and pathological gambling in discordant sib-pairs.
-Pathological gambling (PG) is an impulse control disorder that has been considered as a behavioral addiction.
-Recent studies have suggested the involvement of the dopaminergic system in addictions and impulse control disorders and associations of dopamine receptor genes (DRD1, DRD2, and DRD4) and PG have been reported.
-In the present study, 140 sib-pairs discordant for the diagnosis of PG (70 males and 70 females on each group) were recruited through the Gambling Outpatient Unit at the Institute of Psychiatry, University of Sao Paulo and were assessed by trained psychiatrists.
-A family-based association design was chosen to prevent population stratification.
-All subjects were genotyped for dopamine receptor genes (DRD1 -800 T/C, DRD2 TaqIA RFLP, DRD3 Ser9Gly, DRD4 48bp exon III VNTR, DRD5 (CA) repeat) and the dopamine transporter gene (SCL6A3 40 bp VNTR).
-Our results suggest the association of PG with DRD1 -800 T/C allele T (P = .03).

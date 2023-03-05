@@ -4,3 +4,4 @@ T4	GENE-N 762 786	alanine aminotransferase
 T2	CHEMICAL 837 843	5' AMP
 T5	GENE-N 837 868	5' AMP-activated protein kinase
 T6	GENE-N 913 920	insulin
+R0	NOT Arg1:T2 Arg2:T6

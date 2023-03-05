@@ -1,9 +1,0 @@
-Increased oxidized low-density lipoprotein causes blood-brain barrier disruption in early-onset preeclampsia through LOX-1.
-Early-onset preeclampsia (EPE) is a severe form of preeclampsia that involves life-threatening neurological complications.
-However, the underlying mechanism by which EPE affects the maternal brain is not known.
-We hypothesized that plasma from women with EPE increases blood-brain barrier (BBB) permeability vs. plasma from women with late-onset preeclampsia (LPE) or normal pregnancy (NP) and investigated its underlying mechanism by perfusing cerebral veins from nonpregnant rats (n=6-7/group) with human plasma from women with EPE, LPE, or NP and measuring permeability.
-We show that plasma from women with EPE significantly increased BBB permeability vs. plasma from women with LPE or NP (P<0.001).
-BBB disruption in response to EPE plasma was due to a 260% increase of circulating oxidized LDL (oxLDL) binding to its receptor, LOX-1, and subsequent generation of peroxynitrite (P<0.001).
-A rat model with pathologically high lipid levels in pregnancy showed symptoms of preeclampsia, including elevated blood pressure, growth-restricted fetuses, and LOX-1-dependent BBB disruption, similar to EPE (P<0.05).
-Thus, we have identified LOX-1 activation by oxLDL and subsequent peroxynitrite generation as a novel mechanism by which disruption of the BBB occurs in EPE.
-As increased BBB permeability is a primary means by which seizure and other neurological symptoms ensue, our findings highlight oxLDL, LOX-1, and peroxynitrite as important therapeutic targets in EPE.

@@ -1,9 +1,0 @@
-A chemical biology approach identifies a beta-2 adrenergic receptor agonist that causes human tumor regression by blocking the Raf-1/Mek-1/Erk1/2 pathway.
-A chemical biology approach identifies a beta 2 adrenergic receptor (beta2AR) agonist ARA-211 (Pirbuterol), which causes apoptosis and human tumor regression in animal models.
-beta2AR stimulation of cAMP formation and protein kinase A (PKA) activation leads to Raf-1 (but not B-Raf) kinase inactivation, inhibition of Mek-1 kinase and decreased phospho-extracellular signal-regulated kinase (Erk)1/2 levels.
-ARA-211 inhibition of the Raf/Mek/Erk1/2 pathway is mediated by PKA and not exchange protein activated by cAMP (EPAC).
-ARA-211 is selective and suppresses P-Erk1/2 but not P-JNK, P-p38, P-Akt or P-STAT3 levels.
-beta2AR stimulation results in inhibition of anchorage-dependent and -independent growth, induction of apoptosis in vitro and tumor regression in vivo.
-beta2AR antagonists and constitutively active Mek-1 rescue from the effects of ARA-211, demonstrating that beta2AR stimulation and Mek kinase inhibition are required for ARA-211 antitumor activity.
-Furthermore, suppression of growth occurs only in human tumors where ARA-211 induces cAMP formation and decreases P-Erk1/2 levels.
-Thus, beta2AR stimulation results in significant suppression of malignant transformation in cancers where it blocks the Raf-1/Mek-1/Erk1/2 pathway by a cAMP-dependent activation of PKA but not EPAC.

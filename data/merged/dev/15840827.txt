@@ -1,9 +1,0 @@
-Conversion of 5-aminolevulinate synthase into a more active enzyme by linking the two subunits: spectroscopic and kinetic properties.
-The two active sites of dimeric 5-aminolevulinate synthase (ALAS), a pyridoxal 5'-phosphate (PLP)-dependent enzyme, are located on the subunit interface with contribution of essential amino acids from each subunit.
-Linking the two subunits into a single polypeptide chain dimer (2XALAS) yielded an enzyme with an approximate sevenfold greater turnover number than that of wild-type ALAS.
-Spectroscopic and kinetic properties of 2XALAS were investigated to explore the differences in the coenzyme structure and kinetic mechanism relative to those of wild-type ALAS that confer a more active enzyme.
-The absorption spectra of both ALAS and 2XALAS had maxima at 410 and 330 nm, with a greater A(410)/A(330) ratio at pH approximately 7.5 for 2XALAS.
-The 330 nm absorption band showed an intense fluorescence at 385 nm but not at 510 nm, indicating that the 330 nm absorption species is the substituted aldamine rather than the enolimine form of the Schiff base.
-The 385 nm emission intensity increased with increasing pH with a single pK of approximately 8.5 for both enzymes, and thus the 410 and 330 nm absorption species were attributed to the ketoenamine and substituted aldamine, respectively.
-Transient kinetic analysis of the formation and decay of the quinonoid intermediate EQ(2) indicated that, although their rates were similar in ALAS and 2XALAS, accumulation of this intermediate was greater in the 2XALAS-catalyzed reaction.
-Collectively, these results suggest that ketoenamine is the active form of the coenzyme and forms a more prominent coenzyme structure in 2XALAS than in ALAS at pH approximately 7.5.

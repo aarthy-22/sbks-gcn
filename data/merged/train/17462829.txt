@@ -1,9 +1,0 @@
-Sex differences in ACTH pulsatility following metyrapone blockade in patients with major depression.
-Numerous studies suggest that increased central drive to the hypothalamic-pituitary adrenal (HPA) axis occurs in patients with major depression.
-To determine if increased central drive occurs throughout the 24 h, we evaluated ACTH secretion under metyrapone blockade of cortisol production.
-We collected blood every 10 min for measurement of ACTH and data were analyzed for ACTH pulsatility using the pulse detection algorithm deconvolution.
-We studied 28 patients with major depression and 28 age and sex-matched control subjects, of which 9 pairs were men and 19 pairs were women.
-We found a significant group x sex interaction with number of ACTH pulses (p=0.04); depressed men showed more ACTH pulses over 24h than matched control men (p=0.02).
-There was also a significant sex difference in AUC pulses with men showing a smaller AUC ACTH than women.
-Previous analyses of these data with RM-ANOVA showed a smaller ACTH response in depressed men compared to control men.
-These data suggest that pulsatility and mean ACTH levels are examining different aspects of HPA axis function, and that the types of HPA axis dysregulation in depression may differ between men and women.

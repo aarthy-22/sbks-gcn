@@ -1,9 +1,0 @@
-Gene expression profiling of breast cancer patients treated with docetaxel, doxorubicin, and cyclophosphamide within the GEPARTRIO trial: HER-2, but not topoisomerase II alpha and microtubule-associated protein tau, is highly predictive of tumor response.
-Gene expression analysis in breast cancer patients undergoing neoadjuvant chemotherapy is an interesting tool for identification of gene signatures and new markers to predict tumor response.
-However, the detection of predictive markers strongly depends on the drugs used in the specific therapeutic setting.
-There is growing evidence that topoisomerase II-alpha (TOPO IIalpha) is a marker for anthracycline-, and microtubule-associated protein tau (MAPT) for taxane sensitivity.
-HER-2 has been described as a marker of both anthracycline and taxane sensitivity.
-We performed gene expression profiling of 50 patients within the GEPARTRIO study, an anthracycline and taxane neoadjuvant chemotherapy trial.
-Here we investigate the predictive value of TOPO IIalpha, MAPT and HER-2 mRNA expression for pathological complete response (pCR) in this setting.
-Interestingly, HER-2 gene expression was strongly predictive of pCR (P=0.017) as well as overall response (P=0.037) and clinical complete response (cCR, P=0.050).
-In contrast, for both TOPO IIalpha and MAPT no correlation with pCR was observed in our sample group.

@@ -1,9 +1,0 @@
-Influence of DNA repair on nonlinear dose-responses for mutation.
-Recent evidence has challenged the default assumption that all DNA-reactive alkylating agents exhibit a linear dose-response.
-Emerging evidence suggests that the model alkylating agents methyl- and ethylmethanesulfonate and methylnitrosourea (MNU) and ethylnitrosourea observe a nonlinear dose-response with a no observed genotoxic effect level (NOGEL).
-Follow-up mechanistic studies are essential to understand the mechanism of cellular tolerance and biological relevance of such NOGELs.
-MNU is one of the most mutagenic simple alkylators.
-Therefore, understanding the mechanism of mutation induction, following low-dose MNU treatment, sets precedence for weaker mutagenic alkylating agents.
-Here, we tested MNU at 10-fold lower concentrations than a previous study and report a NOGEL of 0.0075 µg/ml (72.8nM) in human lymphoblastoid cells, quantified through the hypoxanthine (guanine) phosphoribosyltransferase assay (OECD 476).
-Mechanistic studies reveal that the NOGEL is dependent upon repair of O(6)-methylguanine (O(6)MeG) by the suicide enzyme O(6)MeG-DNA methyltransferase (MGMT).
-Inactivation of MGMT sensitizes cells to MNU-induced mutagenesis and shifts the NOGEL to the left on the dose axis.

@@ -1,9 +1,0 @@
-Cinitapride protects against ethanol-induced gastric mucosal injury in rats: role of 5-hydroxytryptamine, prostaglandins and sulfhydryl compounds.
-This study was designed to determine the gastroprotective properties of cinitapride (CNT), a novel prokinetic benzamide derivative agonist of 5-HT4 and 5-HT1 receptors and 5-HT2 antagonist, on mucosal injury produced by 50% (v/v) ethanol.
-Results were compared with those for 5-hydroxytryptamine (5-HT: 10 mg kg-1).
-The possible involvements of gastric mucus secretion, endogenous prostaglandins (PGs) and sulfhydryl compounds (SH) in the protection mediated by CNT were also examined.
-Intraperitoneal administration of CNT (0.50 and 1 mg kg-1), 30 min before ethanol, significantly prevented gastric ulceration and increased the hexosamine content of gastric mucus.
-CNT (1 mg kg-1) also produced a significant increase in gastric mucosal levels of PGE2, but did not induce any significant changes in SH values.
-On the contrary, pretreatment with 5-HT worsened ethanol-induced erosions, however, did not affect gastric mucus secretion, glycoprotein content or PGE2 levels, although the non-protein SH fraction was significantly decreased.
-The present results demonstrate that the gastroprotective effects of CNT could be partly explained by a complex PG dependent mechanism.
-We suggest that 5-HT dependent mechanisms through 5-HT2 receptor blockade and 5-HT1 receptor activation could be also involved.

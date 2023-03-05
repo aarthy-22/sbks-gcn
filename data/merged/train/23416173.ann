@@ -1,4 +1,5 @@
 T1	CHEMICAL 984 1000	organophosphates
 T3	GENE-Y 1016 1036	acetylcholinesterase
 T2	GENE-Y 1144 1147	tau
-R0	CPR-3 Arg1:T1 Arg2:T2
+R0	CPR-4 Arg1:T1 Arg2:T3
+R1	CPR-3 Arg1:T1 Arg2:T2

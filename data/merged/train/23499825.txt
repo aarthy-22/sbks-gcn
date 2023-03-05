@@ -1,6 +1,0 @@
-Steroidal glycosides from the bulbs of Fritillaria meleagris and their cytotoxic activities.
-Steroidal glycosides (1-18), including 10 new compounds (1-10), were isolated from the bulbs of Fritillaria meleagris (Liliaceae).
-The structures of the new compounds were determined by two-dimensional (2D) NMR analysis, and by hydrolytic cleavage followed by spectroscopic and chromatographic analysis.
-The isolated compounds and their aglycones were evaluated for cytotoxic activity against HL-60 human promyelocytic leukemia cells and A549 human lung adenocarcinoma cells.
-Morphological observation and flow cytometry analysis showed that 5β-spirostanol glycoside (2) and a cholestane derivative (17a) induced apoptotic cell death in HL-60 cells through different mechanisms of action.
-Furthermore, the (22R)-spirosolanol glycoside (11) selectively induced apoptosis in A549 cells without affecting the caspase-3 activity level.

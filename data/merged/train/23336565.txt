@@ -1,9 +1,0 @@
-5-Hydroxytryptamine type 7 receptor neuroprotection against NMDA-induced excitotoxicity is PDGFβ receptor dependent.
-The serotonin (5-HT) type 7 receptor is expressed throughout the CNS including the hippocampus.
-Long-term (2-24 h) activation of 5-HT7 receptors regulates growth factor receptor expression, including the expression of platelet-derived growth factor (PDGF) β receptors.
-Direct activation of PDGFβ receptors in primary hippocampal and cortical neurons inhibits NMDA receptor activity and attenuates NMDA receptor-induced neurotoxicity.
-Our objective was to investigate whether the 5-HT7 receptor-induced increase in PDGFβ receptor expression would be similarly neuroprotective.
-We demonstrate that 5-HT7 receptor agonist treatment in primary hippocampal neurons also increases the expression of phospholipase C (PLC) γ, a downstream effector of PDGFβ receptors associated with the inhibition of NMDA receptor activity.
-To determine if the up-regulation of PDGFβ receptors is neuroprotective, primary hippocampal neurons were incubated with the 5-HT7 receptor agonist, LP 12, for 24 h. Indeed, LP 12 treatment prevented NMDA-induced neurotoxicity and this effect was dependent on PDGFβ receptor kinase activity.
-Treatment of primary neurons with LP 12 also differentially altered NMDA receptor subunit expression, reducing the expression of NR1 and NR2B, but not NR2A.
-These findings demonstrate the potential for providing growth factor receptor-dependent neuroprotective effects using small-molecule ligands of G protein-coupled receptors.

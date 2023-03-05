@@ -1,9 +1,0 @@
-Regulation of gluconeogenesis by Kruppel-like factor 15.
-In the postabsorptive state, certain tissues, including the brain, require glucose as the sole source of energy.
-After an overnight fast, hepatic glycogen stores are depleted, and gluconeogenesis becomes essential for preventing life-threatening hypoglycemia.
-Mice with a targeted deletion of KLF15, a member of the Kruppel-like family of transcription factors, display severe hypoglycemia after an overnight (18 hr) fast.
-We provide evidence that defective amino acid catabolism promotes the development of fasting hypoglycemia in KLF15-/- mice by limiting gluconeogenic substrate availability.
-KLF15-/- liver and skeletal muscle show markedly reduced mRNA expression of amino acid-degrading enzymes.
-Furthermore, the enzymatic activity of alanine aminotransferase (ALT), which converts the critical gluconeogenic amino acid alanine into pyruvate, is decreased (approximately 50%) in KLF15-/- hepatocytes.
-Consistent with this observation, intraperitoneal injection of pyruvate, but not alanine, rescues fasting hypoglycemia in KLF15-/- mice.
-We conclude that KLF15 plays an important role in the regulation of gluconeogenesis.

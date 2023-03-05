@@ -1,5 +1,0 @@
-Synthesis and in-silico studies of some diaryltriazole derivatives as potential cyclooxygenase inhibitors.
-The synthesis of several 4-phenyl-5-pyridin-4-yl-2,3-dihydro-3H-1,2,4-triazole-3-thiones possessing N-2 Mannich bases or S-alkyl substituents, is reported.
-Several of them exhibited a low nanomolar COX enzyme inhibition activity.
-Most of the compounds showed inhibition of edema was similar to that evoked by celocoxib in animal model.
-Molecular docking studies of the compounds into the binding sites of COX-1 and COX-2 allowed us to shed light on the binding mode of these novel COX inhibitors.

@@ -1,9 +1,0 @@
-5-Hydroxy-3,6,7,8,3'4'-hexamethoxyflavone inhibits nitric oxide production in lipopolysaccharide-stimulated BV2 microglia via NF-κB suppression and Nrf-2-dependent heme oxygenase-1 induction.
-In this study, we found that 5-hydroxy-3,6,7,8,3'4'-hexamethoxyflavone (5HHMF) from Hizikia fusiforme considerably inhibits lipopolysaccharide (LPS)-stimulated NO production by suppressing the expression of inducible NO synthase (iNOS) in BV2 microglia.
-In addition, 5HHMF blocked LPS-induced phosphorylation of IκB, resulting in suppression of the nuclear translocation of nuclear factor-κB (NF-κB) subunits, namely p65 and p50, which are important molecules involved in the regulation of iNOS expression.
-Pyrrolidine dithiocarbamate (PDTC), a specific NF-κB inhibitor, along with 20S proteasome inhibitor (PSI) significantly inhibited LPS-induced iNOS expression, which indirectly suggested that 5HHMF downregulated iNOS expression by suppressing NF-κB activity.
-Thus, we found that 5HHMF enhances heme oxygenase-1 (HO-1) expression via nuclear factor-erythroid 2-related factor 2 (Nrf2) activation.
-In addition, cobalt protoporphyrin (CoPP), a specific HO-1 inducer, predominantly suppressed LPS-induced NO production.
-In contrast, zinc protoporphyrin (ZnPP), a specific HO-1 inhibitor, showed a partial suppressive effect of 5HHMF on LPS-induced NO production.
-Further, 5HHMF increased specific DNA-binding activity of Nrf2, and transient knockdown with Nrf2 siRNA subsequently reversed 5HHMF-induced NO inhibition, which was followed by suppression of HO-1 activity.
-Taken together, our findings indicate that 5HHMF suppresses NO production through modulation of iNOS, consequently suppressing NF-κB activity and induction of Nrf2-dependent HO-1 activity.

@@ -11,3 +11,10 @@ T4	CHEMICAL 975 985	bisoprolol
 T8	GENE-N 1217 1250	beta 1-adrenoceptor binding sites
 T2	CHEMICAL 1287 1297	bisoprolol
 T9	GENE-Y 1307 1334	beta 2-adrenergic receptors
+R0	CPR-4 Arg1:T6 Arg2:T12
+R1	CPR-2 Arg1:T5 Arg2:T13
+R2	CPR-2 Arg1:T1 Arg2:T7
+R3	CPR-4 Arg1:T2 Arg2:T8
+R4	NOT Arg1:T12 Arg2:T5
+R5	NOT Arg1:T6 Arg2:T13
+R6	NOT Arg1:T2 Arg2:T9

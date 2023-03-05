@@ -1,8 +1,0 @@
-Aquaporin-1 deletion reduces osmotic water permeability and cerebrospinal fluid production.
-Aquaporin-1 (AQP1) is a water channel that is strongly expressed at the ventricular-facing surface of choroid plexus epithelium.
-Using wildtype and AQP1 null mice, we developed novel methods to compare the water permeability in isolated choroid plexus, and cerebrospinal fluid (CSF) production in living mice.
-Osmotically-induced water transport was rapid in freshly isolated choroid plexus from wildtype mice as measured by a spatial-filtering optical method, and reduced by 5-fold by AQP1 deletion.
-CSF production, an isosmolar fluid secretion process, was measured by a dye dilution method involving fluid collections using a second microneedle introduced into the cisterna magna.
-CSF production in wildtype mice was (in microl/min) 0.37 +/-
-0.04 microl/min (control), 0.16 +/- 0.03 microl/min (acetazolamide-treated) and 1.14 +/- 0.15 microl/min (forskolin-treated), and reduced by up to 25% in AQP1 null mice.
-The impaired CSF production in AQP1 null mice provides direct functional evidence for the involvement of AQP1 in CSF formation.

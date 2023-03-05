@@ -1,9 +1,0 @@
-Cembranoid and long-chain alkanol sites on the nicotinic acetylcholine receptor and their allosteric interaction.
-Long-chain alkanols are general anesthetics which can also act as uncharged noncompetitive inhibitors of the peripheral nicotinic acetylcholine receptor (AChR) by binding to one or more specific sites on the AChR. Cembranoids are naturally occurring, uncharged noncompetitive inhibitors of peripheral and neuronal AChRs, which have no demonstrable general anesthetic activity in vivo.
-In this study, [3H]tenocyclidine ([3H]TCP), an analogue of the cationic noncompetitive inhibitor phencyclidine (PCP), was used to characterize the cembranoid and long-chain alkanol sites on the desensitized Torpedo californica AChR and to investigate if these sites interact.
-These studies confirm that there is a single cembranoid site which sterically overlaps the [3H]TCP channel site.
-This cembranoid site probably also overlaps the sites for the cationic noncompetitive inhibitors, procaine and quinacrine.
-Evidence is also presented for one or more allosteric cembranoid sites which negatively modulate cembranoid affinity for the inhibitory site.
-In contrast, long-chain alkanols inhibit [3H]TCP binding through an allosteric mechanism involving two or more alkanol sites which display positive cooperativity toward each other.
-Double inhibitor studies show that the cembranoid inhibitory site and the alkanol sites are not independent of each other but interfere allosterically with each other's inhibition of [3H]TCP binding.
-The simplest models consistent with the observed data are presented and discussed.

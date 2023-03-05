@@ -1,8 +1,0 @@
-Universal rule on chirality-dependent bandgaps in graphene antidot lattices.
-Graphene with periodically patterned antidots has attracted intense research attention as it represents a facile route to open a bandgap for graphene electronics.
-However, not all graphene antidot lattices (GALs) can open a bandgap and a guiding rule is missing.
-Here, through systematic first-principles calculations, it is found that bandgaps in triangular GALs are surprisingly well defined by a chirality vector R = n a1 + ma2 connecting two neighboring antidots, where a1 and a2 are the basis vectors of graphene.
-The bandgap opens in the GALs with (n-m)mod3 = 0 but remains closed in those with (n-m)mod3 = ±1, reminiscent of the gap-chirality rule in carbon nanotubes.
-Remarkably, the gap value in GALs allows ample modulation by adjusting the length of chirality vectors, shape and size of the antidots.
-The gap-chirality relation in GALs stems from the chirality-dependent atomic structures of GALs as revealed by a super-atom model as well as Clar sextet analyses.
-This chirality-dependent bandgap is further shown to be a generic behavior in any parallelogram GAL and thus serves as an essential stepping stone for experimenters to realize graphene devices by antidot engineering.

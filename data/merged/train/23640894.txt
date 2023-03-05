@@ -1,8 +1,0 @@
-X-ray structure analysis and characterization of AFUEI, an elastase inhibitor from Aspergillus fumigatus.
-Elastase from Aspergillus sp. is an important factor for aspergillosis.
-AFUEI is an inhibitor of the elastase derived from Aspergillus fumigatus.
-AFUEI is a member of the I78 inhibitor family, and has a high inhibitory activity against elastases of Aspergillus fumigatus and Aspergillus flavus, human neutrophil elastase and bovine chymotrypsin, but does not inhibit bovine trypsin.
-Here we report the crystal structure of AFUEI in two crystal forms.
-AFUEI is a wedge-shaped protein composed of an extended loop and a scaffold protein core.
-The structure of AFUEI shows remarkable similarity to serine protease inhibitors of the potato inhibitor I family, although they are classified into different inhibitor families.
-A structural comparison with the potato I family inhibitors suggests that the extended loop of AFUEI corresponds to the binding loop of the potato inhibitor I family and AFUEI inhibits its cognate proteases through the same mechanism as the Potato I family inhibitors.

@@ -1,8 +1,0 @@
-Benzodiazepines, but not beta carbolines, limit high frequency repetitive firing of action potentials of spinal cord neurons in cell culture.
-Effects of benzodiazepines (BDZs) and beta carbolines (beta CCs) on sustained repetitive firing at high frequency (SRF) of action potentials of mouse spinal cord neurons in cell culture were examined using intracellular recording techniques.
-In control medium neurons responded to depolarizing current pulses with SRF.
-Limitation of SRF was produced by the anticonvulsant BDZs (diazepam, clonazepam, nitrazepam and lorazepam) at low to mid nanomolar concentrations, by a convulsant BDZ which does not bind to high affinity BDZ receptors (Ro 5-4864) at high nanomolar concentrations and by a BDZ receptor weak partial agonist (Ro 15-1788) at micromolar concentrations.
-The limitation of SRF was accompanied by use- and voltage-dependent reduction of maximal rate of rise (Vmax) of sodium-dependent action potentials.
-Partial agonist and inverse agonist beta CCs did not limit SRF at concentrations up to 200 nM. The limitation of SRF by diazepam was not prevented by inverse or partial agonists at the BDZ receptor, including Ro 15-1788 and the beta CCs.
-These findings suggest that limitation of SRF was produced by binding of BDZs, but not beta CCs, to voltage-dependent sodium channels and not to high affinity central BDZ receptors, and that BDZs limit SRF by slowing recovery of sodium channels from inactivation.
-We propose that the limitation of SRF may contribute to the efficacy of BDZs against generalized tonic-clonic seizures and status epilepticus.

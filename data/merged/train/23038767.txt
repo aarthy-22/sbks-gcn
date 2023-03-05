@@ -1,6 +1,0 @@
-PUB-NChIP--"in vivo biotinylation" approach to study chromatin in proximity to a protein of interest.
-We have developed an approach termed PUB-NChIP (proximity utilizing biotinylation with native ChIP) to purify and study the protein composition of chromatin in proximity to a nuclear protein of interest.
-It is based on coexpression of (1) a protein of interest, fused with the bacterial biotin ligase BirA, together with (2) a histone fused to a biotin acceptor peptide (BAP), which is specifically biotinylated by BirA-fusion in the proximity of the protein of interest.
-Using the RAD18 protein as a model, we demonstrate that the RAD18-proximal chromatin is enriched in some H4 acetylated species.
-Moreover, the RAD18-proximal chromatin containing a replacement histone H2AZ has a different pattern of H4 acetylation.
-Finally, biotin pulse-chase experiments show that the H4 acetylation pattern starts to resemble the acetylation pattern of total H4 after the proximity of chromatin to RAD18 has been lost.

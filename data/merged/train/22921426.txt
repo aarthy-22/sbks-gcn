@@ -1,7 +1,0 @@
-Lead-induced ER calcium release and inhibitory effects of methionine choline in cultured rat hippocampal neurons.
-Lead, a ubiquitous neurotoxicant, can result in learning and memory dysfunction.
-Long term potentiation in the hippocampus, a potential neural substrate for learning and memory, is thought to be linked to calcium-triggered intracellular events.
-In this study, laser scanning confocal microscopy was used to examine the effects of Pb(2+) on intracellular and endoplasmic reticulum free calcium concentration ([Ca(2+)](i) and [Ca(2+)](ER)) in cultured neonatal rat hippocampal neurons and their possible antagonism by methionine choline; understanding these effects would help explain the lead-induced cognitive and learning dysfunction and explore efficient safety and relief strategies.
-The results showed that Pb(2+) increased [Ca(2+)](i) and decreased [Ca(2+)](ER) linearly in a time- and concentration-dependant manner, and Pb(2+) addition after the applying of a ryanodine receptor (RyR) antagonist and an inositol-1,4,5-triphosphate receptor (IP(3)R) antagonist did not increase [Ca(2+)](i).
-The addition of 10, 20, or 40 mmol/L methionine choline simultaneously with addition of 10 μmol/L Pb(2+) decreased [Ca(2+)](i) in Ca(2+)-free culture medium by 39.0%, 66.0%, and 61.6%, respectively, in a concentration-dependant manner in a certain dose range.
-Our results suggest that Pb(2+) induces ER calcium release to increase the resting [Ca(2+)](i); and methionine choline inhibit this increase in [Ca(2+)](i).

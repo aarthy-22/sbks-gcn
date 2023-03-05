@@ -1,6 +1,0 @@
-Inverted CdSe/CdS/ZnS quantum dot light emitting devices with titanium dioxide as an electron-injection contact.
-We demonstrated the fabrication of inverted CdSe/CdS/ZnS quantum dot light emitting devices (QD-LEDs) using titanium dioxide (TiO2) as an electron-injection layer and investigated the operating mechanism by utilizing different hole-transport materials, 4,4-N,N-dicarbazole-biphenyl (CBP) and 4,4',4''-tris(carbazol-9-yl)-triphenylamine (TCTA).
-A more efficient device with CBP as the hole-transport layer (HTL) was obtained compared with the TCTA based device.
-The peak efficiency of 6.70 cd A(-1) for the CBP based device was found to be about 74.5% higher than the TCTA based device (3.84 cd A(-1)).
-The studies on the time-resolved photoluminescence spectra of the QD-HTL composite structures showed that the energy transfer (ET) efficiencies from the two HTLs to the QD layer were similar and the charge separation between QDs and HTLs could be neglected.
-The enhancement in the performance of the CBP based device was attributed to the more efficient hole-injection from CBP to QDs.

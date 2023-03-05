@@ -1,9 +1,0 @@
-Contribution of the m1 transmembrane helix and pre-m1 region to positive allosteric modulation and gating of N-methyl-d-aspartate receptors.
-N-methyl-d-aspartate (NMDA) receptors are glutamate-gated ion channels whose function is critical for normal excitatory synaptic transmission in the brain and whose dysfunction has been implicated in several neurologic conditions.
-NMDA receptor function is subject to extensive allosteric regulation both by endogenous compounds and by exogenous small molecules.
-Elucidating the structural determinants and mechanism of action by which allosteric regulators control gating will enhance our understanding of NMDA receptor activation and facilitate the development of novel therapeutics.
-Here, we investigated the structural determinants for (3-chlorophenyl)(6,7-dimethoxy-1-((4-methoxyphenoxy)methyl)-3,4-dihydroisoquinolin-2(1H)-yl)methanone (CIQ), a GluN2C/2D-selective positive allosteric modulator.
-We show that CIQ does not bind to the amino-terminal domain of the NMDA receptor and does not share structural determinants with modulators acting at the agonist-binding domain dimer interface or ion channel pore.
-Rather, we identified critical determinants of CIQ modulation in the region near the first transmembrane helix of GluN2D, including in a putative pre-M1 cuff helix that may influence channel gating.
-We also show that mutations within the GluN2D pre-M1 region alter open probability of the NMDA receptor.
-These results suggest a novel site of action for potentiation of NMDA receptors by small molecules and implicate the pre-M1 region in NMDA receptor gating.

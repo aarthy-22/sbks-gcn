@@ -1,7 +1,0 @@
-Effect of 5-azacytidine and procainamide on CD3-zeta chain expression in Jurkat T cells.
-It has been observed that decrease of DNA methyltransferase 1 (DNMT1) activity is associated with low content of the CD3-zeta (zeta) chain in T cell receptor (TCR)/CD3 complex of T cells in systemic lupus erythematosus (SLE) patients.
-The CD3-zeta chain plays a pivotal role in intracellular signal transmission between TCR/CD3 complex and nuclei.
-The compounds 5'-azacytidine (AZC) and procainamide (PCA) belong to inhibitors of DNMT1, whose low activity correlates with increase in transcription of various genes.
-Using the reverse-transcription and real-time quantitative PCR (RQ-PCR) analysis, we indicated that AZC and PCA did not profoundly affect on CD3-zeta chain transcription in Jurkat T leukemia cells clone E6-1.
-However, the flowcytometric analysis revealed that AZC and PCA decreased intracellular contents of CD3-zeta chain in these cells in dose dependent manner.
-Our results suggest that decrease of DNMT1 activity may alter intracellular signal transmission without effect on transcription level of CD3-zeta chain.

@@ -1,8 +1,0 @@
-Antipsychotic profile of rolipram: efficacy in rats and reduced sensitivity in mice deficient in the phosphodiesterase-4B (PDE4B) enzyme.
-RATIONALE: Recent studies provide evidence for reduced phosphodiesterase-4B (PDE4B) as a genetic susceptibility factor as well as suggesting an association of several single nucleotide polymorphisms (SNPs) in PDE4B that are associated with an increased incidence of schizophrenia.
-OBJECTIVES: The aim of the current study was to assess the activity of rolipram, a nonsubtype-selective PDE4 inhibitor, in several animal models predictive of antipsychotic-like efficacy and side-effect liability and to use PDE4B wild-type and knockout mice to begin to understand the subtypes involved in the activity of rolipram.
-RESULTS: In rats, rolipram antagonized both phencyclidine hydrochloride- and D-amphetamine-induced hyperactivity and inhibited conditioned avoidance responding (CAR).
-In PDE4B wild-type mice, rolipram dose-dependently suppressed CAR (ED(50) = 2.4 mg/kg); however, in knockout mice, their sensitivity to rolipram at the higher doses (1.0 and 3.2 mg/kg) was reduced, resulting in a threefold shift in the ED(50) (7.3 mg/kg), suggesting PDE4B is involved, at least in part, with the activity of rolipram.
-Only the highest dose of rolipram (3.2 mg/kg) produced a modest but significant degree of catalepsy.
-CONCLUSIONS: Rolipram has a pharmacologic profile similar to that of the atypical antipsychotics and has low extrapyramidal symptom liability.
-These results suggest that PDE4B mediates the antipsychotic effects of rolipram in CAR and that the PDE4B-regulated cyclic adenosine monophosphate signaling pathway may play a role in the pathophysiology and pharmacotherapy of psychosis.

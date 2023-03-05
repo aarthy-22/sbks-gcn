@@ -1,7 +1,0 @@
-Incretin and pancreatic hormone secretion in Caucasian non-diabetic carriers of the TCF7L2 rs7903146 risk T allele.
-We characterised 62 non-diabetic, middle-aged, Caucasians with and without the T risk allele of rs7903146 in transcription factor 7-like 2 (TCF7L2) with regard to secretion of insulin, glucagon, glucose-dependent insulinotropic polypeptide (GIP), glucagon-like peptide-1 (GLP-1) as well as insulin sensitivity and endogenous glucose production.
-All participants had a 3-h oral glucose tolerance test (OGTT), an intravenous glucose tolerance test and a euglycaemic, hyperinsulinaemic clamp.
-After adjustment for age and sex, risk T allele carriers had higher haemoglobin A1c levels (p = 0.030), reduced first-phase insulin response (p = 0.048), higher peripheral insulin sensitivity (p = 0.050) and lower fasting GIP concentrations (p = 0.003) than CC allele carriers.
-The latter was also reflected by lower total GIP secretion during the OGTT (p = 0.018).
-We found no significant differences in endogenous glucose production, hepatic insulin sensitivity or fasting concentrations of glucose, insulin, glucagon and GLP-1 between the groups.
-The findings suggest that the effect of TCF7L2 on diabetes risk may include reduced secretion of GIP.

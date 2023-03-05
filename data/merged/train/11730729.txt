@@ -1,9 +1,0 @@
-Effect of fenoterol-induced constitutive beta(2)-adrenoceptor activity on contractile receptor function in airway smooth muscle.
-In the present study, we investigated the effect of fenoterol-induced constitutive beta(2)-adrenoceptor activity on muscarinic receptor agonist- and histamine-induced bovine tracheal smooth muscle contractions.
-Bovine tracheal smooth muscle strips were incubated with 10 microM fenoterol or vehicle for various periods of time (5, 30 min, 18 h) at 37 degrees C. After extensive washout (3 h, 37 degrees C), isometric contractions were measured to the full muscarinic receptor agonist methacholine, the partial muscarinic receptor agonist 4-(m-chlorophenyl-carbamoyloxy)-2-butynyltrimethylammonium (McN-A-343) and histamine.
-Fenoterol treatment significantly reduced the sensitivity (pEC(50)) to methacholine in a time-dependent manner, without affecting maximal contraction (E(max)).
-Fenoterol treatment similarly reduced the pEC(50) of McN-A-343 and histamine; however, E(max) values were also reduced, to approximately 70% of control after 18-h treatment.
-The inverse agonist timolol, having no effect on control preparations, consistently restored the reduced pEC(50) and E(max) values of the contractile agonists.
-Remarkably, in the presence of timolol the pEC(50) values of McN-A-343 and histamine in fenoterol-treated airways were significantly enhanced compared to controls.
-In conclusion, fenoterol-induced constitutive beta(2)-adrenoceptor activity reduces muscarinic receptor agonist- and histamine-induced contractions of bovine tracheal smooth muscle, which can be reversed by the inverse agonist timolol.
-Moreover, after beta(2)-adrenoceptor agonist treatment, inverse agonism by beta-adrenoceptor antagonists may cause enhanced airway reactivity to contractile mediators.

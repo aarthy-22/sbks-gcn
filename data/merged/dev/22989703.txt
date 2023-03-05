@@ -1,9 +1,0 @@
-Comparative antioxidant effects of lycopene, apo-10'-lycopenoic acid and apo-14'-lycopenoic acid in human macrophages exposed to H2O2 and cigarette smoke extract.
-Much of the beneficial effects of tomato lycopene in the prevention of chronic diseases has been attributed to its antioxidant properties, which could be mediated by its metabolites and/or oxidation products.
-However, the biological functions of these lycopene derivatives remain still unknown.
-In the present study, we evaluated and compared the antioxidant efficacy of the lycopene eccentric cleavage products apo-10'-lycopenoic acid and apo-14'-lycopenoic acid in counteracting the oxidative effects of H(2)O(2) and cigarette smoke extract (CSE) in THP-1 macrophages.
-Both apo-10'-lycopenoic acid and apo-14'-lycopenoic acid were able to inhibit spontaneous and H(2)O(2)-induced ROS production in a dose-dependent manner.
-Such an effect was accompanied by an inhibition of MAPK phosphorylation, by NF-κB inactivation, and by inhibition of hsp-70 and hsp-90 expressions.
-Both apo-lycopenoic acids also decreased CSE-induced ROS production, 8-OHdG formation and reduced the increase in NOX-4 and COX-2 expressions caused by CSE.
-However, in both the models of oxidative stress, apo-14'-lycopenoic acid was much more potent as an antioxidant than apo-10'-lycopenoic acid, showing antioxidant properties similar to lycopene.
-These data strongly suggest that apo-lycopenoic acids, and particularly apo-14'-lycopenoic acid, may mediate some of the antioxidant functions of lycopene in cells.

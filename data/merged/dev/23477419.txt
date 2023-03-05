@@ -1,7 +1,0 @@
-Design, Synthesis, and Pharmacological Characterization of Novel Endomorphin-1 Analogues as Extremely Potent μ-Opioid Agonists.
-Recently we reported the synthesis and structure-activity study of endomorphin-1 (EM-1) analogues containing novel, unnatural α-methylene-β-aminopropanoic acids (Map).
-In the present study, we describe new EM-1 analogues containing Dmt(1), (R/S)-βPro(2), and (ph)Map(4)/(2-furyl)Map(4).
-All of the analogues showed a high affinity for the μ-opioid receptor (MOR) and increased stability in mouse brain homogenates.
-Of the new compounds, Dmt(1)-(R)-βPro(2)-Trp(3)-(2-furyl)Map(4) (analogue 12) displayed the highest affinity toward MOR, in the picomolar range (Ki(μ) = 3.72 pM).
-Forskolin-induced cAMP accumulation assays indicated that this analogue displayed an extremely high agonistic potency, in the subpicomolar range (EC50 = 0.0421 pM, Emax = 99.5%).
-This compound also displayed stronger in vivo antinociceptive activity after iv administration when compared to morphine in the tail-flick test, which indicates that this analogue was able to cross the blood-brain barrier.

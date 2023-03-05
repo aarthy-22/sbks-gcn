@@ -1,7 +1,0 @@
-Axitinib in metastatic renal cell carcinoma: results of a pharmacokinetic and pharmacodynamic analysis.
-Axitinib is a potent and selective inhibitor of vascular endothelial growth factor receptors 1, 2, and 3, approved for second-line therapy for advanced renal cell carcinoma (RCC).
-Axitinib population pharmacokinetic and pharmacokinetic/pharmacodynamic relationships were evaluated.
-Using nonlinear mixed effects modeling with pooled data from 383 healthy volunteers, 181 patients with metastatic RCC, and 26 patients with other solid tumors in 17 trials, the disposition of axitinib was best described by a 2-compartment model with first-order absorption and a lag time, with estimated mean systemic clearance (CL) of 14.6 L/h and central volume of distribution (Vc ) of 47.3 L. Of 12 covariates tested, age over 60 years and Japanese ethnicity were associated with decreased CL, whereas Vc increased with body weight.
-However, the magnitude of predicted changes in exposure based on these covariates does not warrant dose adjustments.
-Multivariate Cox proportional hazard regression and logistic regression analyses showed that higher exposure and diastolic blood pressure were independently associated with longer progression-free and overall survivals and higher probability of partial response in metastatic RCC patients.
-These findings support axitinib dose titration to increase plasma exposure in patients who tolerate axitinib, and also demonstrate diastolic blood pressure as a potential marker of efficacy.

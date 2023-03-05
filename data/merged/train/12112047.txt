@@ -1,9 +1,0 @@
-Minocycline markedly protects the neonatal brain against hypoxic-ischemic injury.
-Hypoxic-ischemic brain injury in the perinatal period is a major cause of morbidity and mortality.
-Presently, there are no proven effective therapies with which to safeguard the human neonatal brain against this type of injury.
-Minocycline, a semisynthetic tetracycline, has been shown to be neuroprotective in certain adult ischemic injury/stroke and neurodegenerative disease models.
-However, minocycline's neuroprotective effects have not been assessed after insults to the neonatal brain.
-We now report that minocycline administered either immediately before or immediately after a hypoxic-ischemic insult substantially blocks tissue damage in a rodent model of neonatal hypoxic-ischemic brain injury.
-Minocycline treatment prevents the formation of activated caspase-3, a known effector of apoptosis, as well as the appearance of a calpain cleaved substrate, a marker of excitotoxic/necrotic cell death.
-To our knowledge, this is the first report of a systemic treatment that can be administered after a hypoxic-ischemic insult, which provides robust, nearly complete neuroprotection to the developing brain.
-Our data suggest that minocycline or a related neuroprotective tetracycline may be a candidate to consider in human clinical trials to protect the developing brain against hypoxic-ischemic-induced damage.

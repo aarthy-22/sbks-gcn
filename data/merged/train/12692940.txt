@@ -1,9 +1,0 @@
-[Study on the effect of cysteinyl leukotriene antagonist, pranlukast hydrate, on adhesive interaction between eosinophils and pulmonary endothelial cells].
-It has been reported that cysteinyl leukotriene (CysLT) antagonists reduce the accumulation of eosinophils in the asthmatic airway.
-However, the exact mechanism of this action remains to be established.
-In the present study, we examined whether a CysLT antagonist modifies the adhesive interaction between blood eosinophils and endothelial cells.
-Pranlukast hydrate, a CysLT antagonist, blocked the chemotactic response and adhesion of eosinophils induced by LTD4.
-On the other hand, pranlukast did not modify the eosinophil spontaneous adhesion to the resting or IL-4 plus TNF-alpha-stimulated pulmonary endothelial cells.
-Similarly, pranlukast did not modulate IL-5- or FMLP-activated eosinophil adhesion to the resting endothelial cells.
-Finally, pranlukast did not modify the expression of adhesion molecules on endothelial cells stimulated with endothelial activating cytokines.
-These results suggest that the inhibitory action of CysLT antagonist on eosinophil accumulation in the asthmatic airways involves mechanisms other than the adhesive interaction between eosinophils and endothelial cells.

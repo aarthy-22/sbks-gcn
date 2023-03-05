@@ -1,9 +1,0 @@
-Toxic effects of environment-friendly antifoulant nonivamide on Phaeodactylum tricornutum.
-Nonivamide, a synthetic derivate of natural capsaicin, has an effective antifouling activity.
-However, the poor understanding of the toxicity mechanism limits the application of nonivamide in antifouling paints.
-The present study investigated the inhibitory effects and toxicity mechanism of nonivamide on Phaeodactylum tricornutum.
-Under a 1.5 × 10(5) cells/ml of initial algal density (IAD), the effective concentration causing 50% inhibition at 4- d (4 d-EC50) value of nonivamide was 5.1 mg/L. Reactive oxygen species (ROS) level was significantly increased in nonivamide-treated algae.
-Algal antioxidants, including catalases (CAT), peroxidases (POD), superoxide dismutases (SOD), and glutathione (GSH), were all stimulated by the ROS burst.
-The excessive ROS substances led to the loss of algal photosynthetic pigments and also damage to the integrity of the lipid membrane.
-Furthermore, ROS-related genes, including psbA, psbD, psaB, rbcL, nad1, and cob, were found to be suppressed in the chloroplasts and mitochondria of nonivamide-treated algae, and the concentration of cytoplasmic Ca(2+) , an important regulator of chloroplast and mitochondrion, was elevated.
-The present study demonstrates that nonivamide could cause peroxidative damages to P. tricornutum by inducing ROS overproduction, which may be initiated by the suppression of ROS-related genes in algal chloroplasts and mitochondria.

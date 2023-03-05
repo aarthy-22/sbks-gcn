@@ -8,4 +8,8 @@ T8	GENE-N 493 508	orexin receptor
 T9	GENE-Y 564 572	orexin-1
 T2	CHEMICAL 715 723	pyrazole
 T4	CHEMICAL 847 857	suvorexant
-R0	NOT Arg1:T1 Arg2:T6
+R0	CPR-6 Arg1:T5 Arg2:T10
+R1	CPR-6 Arg1:T3 Arg2:T6
+R2	CPR-6 Arg1:T3 Arg2:T7
+R3	NOT Arg1:T1 Arg2:T6
+R4	NOT Arg1:T1 Arg2:T7

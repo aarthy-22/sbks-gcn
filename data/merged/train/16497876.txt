@@ -1,8 +1,0 @@
-New assignments for multitasking signal transduction inhibitors.
-An article presented in this issue of Molecular Pharmacology (p. 1527) provides an intriguing example of how tyrosine kinase inhibitors can be put to many uses.
-In this article, the action of dasatinib (BMS-354825) is contrasted with that of imatinib, a kinase inhibitor that is currently being used to treat chronic myelogenous leukemia and other disorders.
-Both pharmacologic inhibitors target several tyrosine kinases, including Bcr-Abl and the platelet-derived growth factor receptor (PDGFR).
-Up to this point, the PDGFR has not been a primary therapeutic target for this class of agents.
-The work of Chen and colleagues shows that dasatinib is a particularly potent inhibitor of PDGFR and that the compound also targets Src kinase.
-The authors suggest that this combination of activities could be useful in the treatment of vascular obstructive diseases.
-Although a lack of absolute specificity has typically been regarded as a pharmacologic drawback, this study exemplifies how drugs with multiple molecular targets can potentially provide a very beneficial spectrum of therapeutic activities in multiple disease states.

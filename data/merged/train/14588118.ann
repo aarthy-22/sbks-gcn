@@ -16,4 +16,6 @@ T16	GENE-Y 1669 1696	tumor necrosis factor-alpha
 T5	CHEMICAL 1745 1756	minocycline
 T17	GENE-N 1791 1800	cytokines
 R0	CPR-4 Arg1:T3 Arg2:T14
-R1	CPR-4 Arg1:T4 Arg2:T16
+R1	CPR-3 Arg1:T4 Arg2:T15
+R2	CPR-4 Arg1:T4 Arg2:T16
+R3	NOT Arg1:T5 Arg2:T17

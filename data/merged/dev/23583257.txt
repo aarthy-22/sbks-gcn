@@ -1,8 +1,0 @@
-Quinone compounds regulate the level of ROS production by the NADPH oxidase Nox4.
-NADPH oxidase Nox4 is expressed in a wide range of tissues and plays a role in cellular signaling by providing reactive oxygen species (ROS) as intracellular messengers.
-Nox4 oxidase activity is thought to be constitutive and regulated at the transcriptional level; however, we challenge this point of view and suggest that specific quinone derivatives could modulate this activity.
-In fact, we demonstrated a significant stimulation of Nox4 activity by 4 quinone derivatives (AA-861, tBuBHQ, tBuBQ, and duroquinone) observed in 3 different cellular models, HEK293E, T-REx™, and chondrocyte cell lines.
-Our results indicate that the effect is specific toward Nox4 versus Nox2.
-Furthermore, we showed that NAD(P)H:quinone oxidoreductase (NQO1) may participate in this stimulation.
-Interestingly, Nox4 activity is also stimulated by reducing agents that possibly act by reducing the disulfide bridge (Cys226, Cys270) located in the extracellular E-loop of Nox4.
-Such model of Nox4 activity regulation could provide new insight into the understanding of the molecular mechanism of the electron transfer through the enzyme, i.e., its potential redox regulation, and could also define new therapeutic targets in diseases in which quinones and Nox4 are implicated.

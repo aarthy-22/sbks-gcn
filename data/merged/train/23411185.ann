@@ -6,3 +6,5 @@ T7	GENE-N 303 319	soybean ferritin
 T8	GENE-N 369 386	glutelin promoter
 T4	CHEMICAL 729 733	iron
 T5	CHEMICAL 738 742	zinc
+R0	NOT Arg1:T3 Arg2:T7
+R1	NOT Arg1:T3 Arg2:T8

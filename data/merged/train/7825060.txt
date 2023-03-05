@@ -1,7 +1,0 @@
-Adenylosuccinate synthetase: a dominant amplifiable genetic marker in mammalian cells.
-Adenylosuccinate synthetase (AdSS) functions at the branchpoint of purine nucleotide metabolism leading to the synthesis of AMP.
-The enzyme is inhibited by a metabolite of alanosine, an aspartic acid analog that is highly cytotoxic for most cells.
-We show here that it is possible to use alanosine selection to isolate from a population of transformants those cells having the highest levels of AdSS activity resulting from uptake and expression of AdSS minigenes.
-Transformants isolated in this way were selected for resistance to even higher concentrations of alanosine and resulted in the isolation of cells with highly amplified copies of the transfected AdSS minigenes.
-We demonstrated that nonselectable genes can be cotransferred and coamplified with AdSS minigenes.
-These findings indicate that AdSS minigenes can be used as dominant amplifiable genetic markers in mammalian cells.

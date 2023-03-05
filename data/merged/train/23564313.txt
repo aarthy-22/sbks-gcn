@@ -1,9 +1,0 @@
-Vinblastine-induced apoptosis of melanoma cells is mediated by Ras homologous A protein (Rho A) via mitochondrial and non-mitochondrial-dependent mechanisms.
-Despite the availability of melanoma treatment at the primary site, the recurrence of local melanoma can metastasize to any distant organ.
-Currently, the available therapies for the treatment of metastatic melanoma are of limited benefit.
-Thus, the functional analysis of conventional therapies may help to improve their efficiency in the treatment of metastatic melanoma.
-In the present study, the exposure of melanoma cells to vinblastine was found to trigger apoptosis as evidenced by the loss of mitochondrial membrane potential, the release of both cytochrome c and apoptosis inducing factor, activation of caspase-9 and 3, and cleavage of Poly (ADP-ribose)-Polymerase.
-Also, vinblastine enhances the phosphorylation of Ras homologous protein A, the accumulation of reactive oxygen species, the release of intracellular Ca(2+), as well as the activation of apoptosis signal-regulating kinase 1, c-jun-N-terminal kinase, p38, inhibitor of kappaBα (IκBα) kinase, and inositol requiring enzyme 1α.
-In addition, vinblastine induces the DNA-binding activities of the transcription factor NF-κB, HSF1, AP-1, and ATF-2, together with the expression of HSP70 and Bax proteins.
-Moreover, inhibitory experiments addressed a central role for Rho A in the regulation of vinblastine-induced apoptosis of melanoma cells via mitochondrial and non-mitochondrial-dependent mechanisms.
-In conclusion, the present study addresses for the first time a central role for Rho A in the modulation of vinblastine-induced apoptosis of melanoma cells and thereby provides an insight into the molecular action of vinblastine in melanoma treatment.

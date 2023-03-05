@@ -3,3 +3,4 @@ T4	GENE-Y 810 814	CD86
 T5	GENE-N 912 925	CD28 receptor
 T1	CHEMICAL 1342 1354	methotrexate
 T2	GENE-N 1364 1385	tumor necrosis factor
+R0	NOT Arg1:T1 Arg2:T2

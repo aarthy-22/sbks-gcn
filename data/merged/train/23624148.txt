@@ -1,9 +1,0 @@
-Sciadopitysin protects osteoblast function via its antioxidant activity in MC3T3-E1 cells.
-Age-related osteoblast dysfunction is the main cause of age-related bone loss in both men and women.
-In the present study, the effect of sciadopitysin, a type of biflavonoids, on osteoblast function was investigated in osteoblastic MC3T3-E1 cells.
-Sciadopitysin caused a significant elevation of alkaline phosphatase activity, collagen synthesis, osteocalcin production, mineralization, and glutathione content in the cells (P<0.05).
-Sciadopitysin also decreased the production of tumor necrosis factor-a (TNF-α) induced by antimycin A, a mitochondrial electron transport inhibitor.
-We investigated the protective effects of sciadopitysin on antimycin A-induced toxicity in osteoblastic MC3T3-E1 cells.
-Exposure of MC3T3-E1 cells to antimycin A caused a significant reduction in osteoblast dysfunction.
-However, pretreatment with sciadopitysin prior to antimycin A exposure significantly reduced antimycin A-induced cell damage by preventing mitochondrial membrane potential dissipation, adenosine triphosphate (ATP) loss, reactive oxygen species (ROS) release, and nitrotyrosine increase, suggesting that sciadopitysin may be useful for protecting mitochondria against a burst of oxidative stress.
-Moreover, sciadopitysin increased phosphorylation of cAMP-response element-binding protein (CREB) inhibited by antimycin A. Our results demonstrate that sciadopitysin may reduce or prevent osteoblasts degeneration.

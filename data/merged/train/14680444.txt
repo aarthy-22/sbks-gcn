@@ -1,8 +1,0 @@
-Efficacy and safety of tamsulosin in the treatment of urological diseases.
-The alpha(1)-adrenoceptor antagonist, tamsulosin, is selective for alpha(1A)- and alpha(1D)- over alpha(1B)-adrenoceptors.
-Both placebo-controlled and comparative studies with other agents have demonstrated tamsulosin to be an effective treatment for patients with lower urinary symptoms suggestive of benign prostatic hyperplasia.
-Its effectiveness appears to be maintained over many years.
-Tamsulosin may also effectively reduce lower urinary tract symptoms in other urological diseases.
-A dose of tamsulosin 0.4 mg/day has a tolerability close to that of placebo and has little, if any, blood pressure lowering effects.
-Tolerability and lack of blood pressure lowering are maintained even in high-risk patients such as those with cardiovascular comorbidity and/or comedication.
-Apart from adrenoceptor subtype-selectivity, a smooth pharmacokinetic profile of its modified-release formulation and a selective accumulation in target tissues may contribute to an excellent efficacy:tolerability ratio.

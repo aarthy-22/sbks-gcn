@@ -1,9 +1,0 @@
-Effect of specific COX-2 inhibition in osteoarthritis of the knee: a 6 week double blind, placebo controlled pilot study of rofecoxib.
-Rofecoxib Osteoarthritis Pilot Study Group.
-OBJECTIVE: To determine the efficacy and safety of the cyclooxygenase 2 (COX-2) specific inhibitor, rofecoxib in patients with osteoarthritis (OA) of the knee.
-METHODS: Rofecoxib, 25 mg or 125 mg once daily, was compared with placebo in a 6 week, double blind, parallel group, randomized, multicenter study of 219 patients with knee OA.
-RESULTS: Both doses of rofecoxib produced clinically significant improvement as assessed by primary (e.g., WOMAC Pain Subscale 0-100 mm, decrease from baseline: placebo: 7.1 mm; rofecoxib 25 mg: 28.1 mm, rofecoxib 125 mg: 28.0 mm; p < 0.001 rofecoxib vs placebo) and secondary efficacy (p < 0.05) criteria compared with placebo.
-Clinical improvement with the 25 mg dose was similar to that with the 125 mg dose.
-Both rofecoxib doses were generally well tolerated.
-CONCLUSION: Specific inhibition of COX-2 by 25 and 125 mg rofecoxib, administered once daily, resulted in clinically meaningful improvements in patients with OA.
-This study confirms that COX-2 derived prostanoids are important clinical mediators of pain and other symptoms of knee OA and that inhibition of COX-1 is not required to provide clinical benefit.

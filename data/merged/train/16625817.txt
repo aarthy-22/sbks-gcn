@@ -1,5 +1,0 @@
-Obesity drugs in clinical development.
-A number of anti-obesity drugs are currently undergoing clinical development.
-These include: (i) centrally-acting drugs, such as the noradrenergic and dopaminergic reuptake inhibitor radafaxine, the endocannabinoid antagonist rimonabant, the selective serotonin 5-HT2c agonist APD-356, and oleoyl-estrone; (ii) drugs that target peripheral episodic satiety signals, such as glucagon-like peptide-1 (exenatide, exenatide-LAR and liraglutide), peptide YY (intranasal PYY3-36 and AC-162325) and amylin (pramlintide); (iii) drugs that block fat absorption, such as the novel lipase inhibitors cetilistat and GT-389255; and (iv) a human growth hormone fragment (AOD-9604) that increases adipose tissue breakdown.
-Of these, only rimonabant has got as far as completing phase III clinical trials.
-This review will provide an overview of the most prominent drugs currently undergoing clinical development as potential anti-obesity therapies.

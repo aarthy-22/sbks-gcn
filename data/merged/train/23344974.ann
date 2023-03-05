@@ -6,3 +6,4 @@ T1	CHEMICAL 1298 1311	phenylalanine
 T2	GENE-N 1331 1353	FxxA interaction motif
 T3	GENE-Y 1363 1368	BRCA2
 R0	CPR-1 Arg1:T1 Arg2:T2
+R1	CPR-1 Arg1:T1 Arg2:T3

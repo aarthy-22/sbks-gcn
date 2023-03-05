@@ -1,8 +1,0 @@
-Heteromtoxin (HmTx), a novel heterodimeric phospholipase A(2) from Heterometrus laoticus scorpion venom.
-Heteromtoxin (HmTx) is a group III phospholipase A(2) produced in Heterometrus laoticus, in Thailand.
-In this study, HmTx was purified from venom by separation chromatography, and the PLA(2) activity of the fractions was determined by lecithin agar assay.
-The enzyme is an acidic protein with a pI of 5.6 and an apparent molecular weight of 14018.4 Da.
-The nucleotide sequence of HmTx contains 649 bp, and the mature protein is predicted to have 131 amino acid residues-104 of which make up the large subunit, and 27 of which make up the small subunit.
-The subunit structure of HmTx is highly similar to that of the other toxin, Pandinus imperator imperatoxin I (IpTx(i)) and to Mesobuthus tamulus phospholipase A(2) (MtPLA(2)).
-The 3D-structure of HmTx consists of three conserved alpha-helices: h1 (Lys24-His34), h2 (Cys59-Asp71), and h3 (Ala80-Phe89).
-The beta-sheet consisted of a single stranded anti-parallel beta-sheet (b1.1 at Glu43-Lys45 and b1.2 at Lys48-Asn50) that was highly similar to the conserved sequences (-CGXG-, -CCXXHDXC- and CXCEXXXXXC-) of Apis mellifera (bee) phospholipases.

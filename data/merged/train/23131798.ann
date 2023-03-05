@@ -9,3 +9,7 @@ T1	CHEMICAL 492 563	N-cyclopentyl-4-ethoxy-6-(4-methylpiperidin-1-yl)-1,3,5-tria
 T2	CHEMICAL 675 689	1,3,5-triazine
 T8	GENE-Y 735 738	CB2
 T3	CHEMICAL 774 810	2,4,6-trisubstituted-1,3,5-triazines
+R0	CPR-5 Arg1:T4 Arg2:T10
+R1	CPR-5 Arg1:T1 Arg2:T7
+R2	CPR-5 Arg1:T2 Arg2:T8
+R3	NOT Arg1:T11 Arg2:T4

@@ -1,8 +1,0 @@
-[Phospholipase D in mammalian cells: structure, properties, physiological and pathological role].
-Phospholipase D (PLD) catalyzes the hydrolysis of the phosphodiester bond of glycerophospholipid phosphatidylcholine to generate phosphatidic acid (PA) and choline.
-Phosphatidic acid is widely considered to be the intracellular lipid mediator of many biological functions.
-PA is a precursor of many other bioactive lipids, including diacylglycerol (DAG) and lysophosphatidic acid (LPA).
-Phospholipase D activities have been described in multiple organisms, including bacteria, yeast, plants, and mammals.
-In mammalian cells, PLD (PLD1 and PLD2 isoenzymes) has been implicated in intracellular signal transduction, vesicle transport, endocytosis, exocytosis, cell migration, mitosis, and cytoskeletal reorganization.
-Mammalian phospholipase D is regulated by many factors, including phosphatidylinositol-4,5-bisphosphate (PIP2), protein kinase C (PKC), and small G-proteins of the Rho, Ral, and ARF families.
-In this review we discuss the relationships of PLD1 and PLD2, their structure, biological function, and implications in pathological states.

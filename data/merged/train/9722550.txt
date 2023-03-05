@@ -1,9 +1,0 @@
-Purification and multimeric structure of bovine N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase.
-N-Acetylglucosamine-1-phosphodiester alpha-N-Acetylglucosaminidase (EC 3.1.4.45; phosphodiester alpha-GlcNAcase) catalyzes the second step in the synthesis of the mannose 6-phosphate determinant required for efficient intracellular targeting of newly synthesized lysosomal hydrolases to the lysosome.
-A partially purified preparation of phosphodiester alpha-GlcNAcase from bovine pancreas was used to generate a panel of murine monoclonal antibodies.
-The anti-phosphodiester alpha-GlcNAcase monoclonal antibody UC1 was coupled to a solid support and used to immunopurify the bovine liver enzyme 670,000-fold in two steps to apparent homogeneity with an overall yield of 14%.
-The purified phosphodiester alpha-GlcNAcase has a specific activity of 498 micromol of [3H]GlcNAc-alpha-phosphomannose-alpha-methyl cleaved per h per mg of protein using 0.5 mM [3H]GlcNAc-alpha-phosphomannose-alpha-methyl as substrate.
-The subunit structure of the enzyme was determined using a combination of analytical gel filtration chromatography, SDS-polyacrylamide gel electrophoresis, and amino-terminal sequencing.
-The data indicate that bovine phosphodiester alpha-GlcNAcase is a 272,000-Da complex of four identical 68,000-Da glycoprotein subunits arranged as two disulfide-linked homodimers.
-A soluble form of the enzyme, isolated from fetal bovine serum, showed the same subunit structure.
-Both forms of the enzyme reacted with a rabbit antibody raised to the amino-terminal peptide of the liver enzyme, suggesting that phosphodiester alpha-GlcNAcase is a type I membrane-spanning glycoprotein with its amino terminus in the lumen of the Golgi apparatus.

@@ -1,7 +1,0 @@
-Design, synthesis, characterization and anti-inflammatory evaluation of novel pyrazole amalgamated flavones.
-A series of novel pyrazole amalgamated flavones has been designed and synthesized from 1-methyl-5-(2,4,6-trimethoxy-phenyl)-1H-pyrazole 6.
-The structures of regioisomers 6 and 7 were resolved by 2D (1)H-(1)H COSY, (1)H-(13)C HSQC and (1)H-(13)C HMBC experiments.
-The newly synthesized compounds were tested for their in vitro COX inhibition and in vivo carrageenan induced hind paw edema in rats and acetic acid induced vascular permeability in mice.
-Although the compounds have inhibitory profile against both COX-1 and COX-2, some of the compounds are found to be selective against COX-2, supported by inhibition of paw edema and vascular permeability.
-Docking studies were also carried out to determine the structural features which sway the anti-inflammatory activity of the tested compounds.
-The keto and phenolic -OH are major factors that are prominently involved in interaction with COX-2 active site.

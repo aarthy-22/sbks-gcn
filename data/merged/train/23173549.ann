@@ -11,5 +11,8 @@ T8	GENE-N 488 505	nuclear receptors
 T10	GENE-N 714 733	xenobiotic receptor
 T12	GENE-N 931 950	xenobiotic receptor
 T3	GENE-N 1398 1417	xenobiotic receptor
-R0	NOT Arg1:T4 Arg2:T2
-R1	NOT Arg1:T1 Arg2:T8
+R0	NOT Arg1:T7 Arg2:T2
+R1	NOT Arg1:T4 Arg2:T2
+R2	NOT Arg1:T2 Arg2:T11
+R3	NOT Arg1:T5 Arg2:T1
+R4	NOT Arg1:T1 Arg2:T8

@@ -1,7 +1,0 @@
-Changes in submaxillary gland gene expression in F344 rats by multiple dosing of theophylline.
-Multiple exposure to theophylline, a phosphodiesterase (PDE) inhibitor, induces acinar hypertrophy in the salivary gland.
-This study examined the effect of theophylline on the gene expression of secretory proteins and phosphodiesterases in the submaxillary gland.
-Male F344 rats received saline or theophylline (50 mg/kg) intraperitoneally for 4 days.
-The gene expressions for the secretory protein, cystatin S (CysS), and PDE subfamilies 3A and 4D in the submaxillary gland were quantified using RT-PCR.
-Theophylline exposure resulted in a sustained increase in mRNA expression for CysS and PDE3A, but PDE4D gene expression was unchanged.
-Our results suggest that submaxillary hypertrophy is primarily caused by the enhanced transcription of CysS, and that the transcription of each PDE subfamily gene is regulated differently.

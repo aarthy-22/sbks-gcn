@@ -1,9 +1,0 @@
-Neuroactive effects of cotinine on the hippocampus: Behavioral and biochemical parameters.
-The present work evaluated the effects of nicotine (NIC), cotinine (COT), mecamylamine (MEC), methyllycaconitine (MLA) and dihydro-beta-eritroidine (DHβE) on memory extinction and the following biochemical parameters of the hippocampus: lipid peroxidation (LPO), antioxidant capacity (AC) and the phosphorylation of Extracellular-Signal-Regulated Kinase (ERK 1/2).
-Young male rats that were implanted bilaterally with cannulae were submitted to memory extinction tests sessions, and their hippocampi were dissected for biochemical assays.
-The extinction of fear memory was significantly improved by both nicotine and its metabolite.
-Cotinine significantly increased LPO, while nicotine significantly decreased it.
-Antioxidant capacity was increased by all treatments.
-Our results showed that cotinine, unlike nicotine, may increase oxidative stress in the hippocampus, but this increase depends upon the dose used and happens without causing corresponding impairments in cognitive function.
-Cotinine also increased the phosphorylation of ERK 1/2 in a similar fashion as nicotine.
-Considering these results, it is plausible to wonder to what extent nicotine-attributed effects are really due to the actions of this alkaloid and whether they could be due instead to cotinine or to cotinine-nicotine interactions within the brain.

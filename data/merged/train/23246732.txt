@@ -1,9 +1,0 @@
-Influence of developmental lead exposure on expression of DNA methyltransferases and methyl cytosine-binding proteins in hippocampus.
-Developmental exposure to lead (Pb) has adverse effects on cognitive functioning and behavior that can persist into adulthood.
-Exposures that occur during fetal or early life periods may produce changes in brain related to physiological re-programming from an epigenetic influence such as altered DNA methylation status.
-Since DNA methylation is regulated by DNA methyltransferases and methyl cytosine-binding proteins, this study assessed the extent to which developmental Pb exposure might affect expression of these proteins in the hippocampus.
-Long Evans dams were fed chow with or without added Pb acetate (0, 150, 375, 750 ppm) prior to breeding and remained on the same diet through weaning (perinatal exposure group).
-Other animals were exposed to the same doses of Pb but exposure started on postnatal day 1 and continued through weaning (early postnatal exposure group).
-All animals were euthanized on day 55 and hippocampi were removed.
-Western blot analyses showed significant effects of Pb exposure on DNMT1, DNMT3a, and MeCP2 expression, with effects often seen at the lowest level of exposure and modified by sex and developmental window of Pb exposure.
-These data suggest potential epigenetic effects of developmental Pb exposure on DNA methylation mediated at least in part through dysregulation of methyltransferases.

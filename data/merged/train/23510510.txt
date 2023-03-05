@@ -1,4 +1,0 @@
-Dendrimer Driven Self-Assembly of SPR Active Silver-Gold Nanohybrids.
-A fourth generation PAMAM dendrimer has been successfully employed for the development of a single step synthesis strategy for self-assembled Ag-Au nanohybrid structures.
-The surface plasmon resonance properties and the degree of self-assembly of the nanohybrid are strongly correlated with the stoichiometry of the metals which gives rise to enhanced plasmonic properties.
-The enhanced plasmonic response of the nanohybrids is modeled and is validated experimentally in a model HRP (horseradish peroxidise) bioassay carried out on an SPR-based biochip platform.

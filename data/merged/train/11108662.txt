@@ -1,7 +1,0 @@
-Role of multidrug-resistance protein 2 in glutathione S-transferase P1-1-mediated resistance to 4-nitroquinoline 1-oxide toxicities in HepG2 cells.
-Previous studies in our laboratory have shown that the phase III efflux transporter multidrug-resistance protein (MRP)1 can act synergistically with the phase II conjugating glutathione S-transferases (GST) to confer resistance to the toxicities of some electrophilic drugs and carcinogens.
-To determine whether the distinct efflux transporter MRP2 could also potentiate GST-mediated protection from electrophilic toxins, we examined the effect of regulatable GSTP1-1 expression in MRP2-rich HepG2 cells on 4-nitroquinoline 1-oxide (4NQO)-induced cytotoxicity and genotoxicity (nucleic-acid adduct formation).
-Expression of GSTP1-1 was associated with a fourfold to tenfold protection from 4NQO-induced cytotoxicity.
-Inhibition of MRP2-mediated efflux activity by sulfinpyrazone or cyclosporin A completely reversed GSTP1-1-associated resistance-a result indicating that GSTP1-1-mediated cytoprotection is absolutely dependent on MRP2 efflux activity.
-Moreover, MRP2 efflux activity also augmented GSTP1-1-mediated protection from 4NQO-induced nucleic-acid adduct formation.
-We conclude that MRP2-mediated efflux of the glutathione conjugate of 4NQO and/or another toxic derivative of 4NQO is required to support GSTP1-1-associated protection from 4NQO toxicities in HepG2 cells.

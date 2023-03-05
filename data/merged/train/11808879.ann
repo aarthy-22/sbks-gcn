@@ -13,3 +13,4 @@ T4	CHEMICAL 1993 2002	glutamate
 T13	GENE-N 1993 2016	glutamate dehydrogenase
 T14	GENE-Y 2242 2253	glucokinase
 R0	NOT Arg1:T11 Arg2:T3
+R1	NOT Arg1:T12 Arg2:T3

@@ -1,7 +1,0 @@
-Phosphodiesterase inhibitors.
-Part 5: hybrid PDE3/4 inhibitors as dual bronchorelaxant/anti-inflammatory agents for inhaled administration.
-(-)-6-(7-Methoxy-2-(trifluoromethyl)pyrazolo[1,5-a]pyridin-4-yl)-5-methyl-4,5-dihydropyridazin-3(2H)-one (KCA-1490) exhibits moderate dual PDE3/4-inhibitory activity and promises as a combined bronchodilatory/anti-inflammatory agent.
-N-alkylation of the pyridazinone ring markedly enhances potency against PDE4 but suppresses PDE3 inhibition.
-Addition of a 6-aryl-4,5-dihydropyridazin-3(2H)-one extension to the N-alkyl group facilitates both enhancement of PDE4-inhibitory activity and restoration of potent PDE3 inhibition.
-Both dihydropyridazinone rings, in the core and extension, can be replaced by achiral 4,4-dimethylpyrazolone subunits and the core pyrazolopyridine by isosteric bicyclic heteroaromatics.
-In combination, these modifications afford potent dual PDE3/4 inhibitors that suppress histamine-induced bronchoconstriction in vivo and exhibit promising anti-inflammatory activity via intratracheal administration.

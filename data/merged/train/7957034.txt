@@ -1,9 +1,0 @@
-Quantification of opiate receptors in two patients with mesiobasal temporal lobe epilepsy, before and after selective amygdalohippocampectomy, using positron emission tomography.
-Using PET, reduced glucose metabolism (rCMRglu) and increased binding of the mu opiate receptor ligand 11C-carfentanil have been demonstrated in lateral temporal cortex overlying mesial temporal epileptic foci.
-Binding of the non-specific opiate receptor ligand 11C-diprenorphine (DPN) to lateral temporal cortex has not shown consistent asymmetries.
-We measured rCMRglu with 18F-FDG and binding of 11C-diprenorphine in two patients with temporal lobe epilepsy (TLE) before and 5 months after selective amygdalo-hippocampectomy (both patients were seizure-free post-operatively).
-Pre-operatively, in both patients rCMRglu was decreased in mesial temporal lobe (MTL) (asymmetry index AI = -9.1 and 9.0) ipsilateral to the EEG focus.
-A more marked reduction was seen in ipsilateral lateral temporal cortex (LTC) (AI = -32.0 and 18.9).
-DPN binding was reduced in MTL and LTC (AI MTL = -9.3 and 16.2; AI LTC = -8.0 and 5.5) ipsilateral to the focus, but was within 2 SD of the normal range.
-Post-operatively, the reduction of rCMRglu in LTC was accentuated in one patient and decreased in the other (AI = -23.1 and 45.7) while there was a further reduction of DPN binding in LTC in both patients (AI = -27.8 and 9.8).
-These preliminary results in only two patients are compatible with downregulation of opiate receptors in LTC after removal of the epileptic focus or post-operative neuronal dysfunction.

@@ -1,3 +1,0 @@
-Pyrrolopyrazines as Selective Spleen Tyrosine Kinase Inhibitors.
-We describe the discovery of several pyrrolopyrazines as potent and selective Syk inhibitors and the efforts that eventually led to the desired improvements in physicochemical properties and human whole blood potencies.
-Ultimately, our mouse model revealed unexpected toxicity that precluded us from further advancing this series.

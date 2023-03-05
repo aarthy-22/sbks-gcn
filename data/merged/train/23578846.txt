@@ -1,8 +1,0 @@
-Biodegradable microparticles for strictly regulating the release of neurotrophic factors.
-A lot of research has been carried out in the last decade to find a cure for neurodegenerative diseases especially Parkinson's disease but to little avail.
-In this study we have demonstrated the use of poly (lactic acid-co-glycolic acid) (PLGA)/collagen biodegradable microparticles formed using water-in-oil-in-water (W/O/W) double emulsion method, as a neurotrophic factor delivery vehicle.
-The microparticles were encapsulated with glial cell-derived neurotrophic factor (GDNF) fused with collagen binding peptide (CBP) immobilized to the inner collagen phase.
-The novelty lies in the strict regulation of release of GDNF-CBP from the microparticles as compared to a burst release from standard microparticles.
-The microparticles were demonstrated to be non-cytotoxic till 300μg/2×10(5) cells and revealed a maximum release of 250ng GDNF-CBP/mg microparticles in 0.3% collagenase.
-Differentiation of neural progenitor cells (NPCs) into mature neurons was demonstrated by co-culturing microparticles with cells in a medium containing collagenase which enabled the release of encapsulated GDNF-CBP, signaling the differentiation of NPCs into microtubule-associated protein 2 (MAP2)-expressing neurons.
-The successful ability of these microparticles to deliver neurotrophic factors and allow differentiation of NPCs into mature neurons provides some scope in its use for the treatment of Parkinson's disease and other neurodegenerative diseases.

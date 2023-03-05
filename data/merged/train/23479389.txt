@@ -1,5 +1,0 @@
-[6]-gingerol: a novel AT₁ antagonist for the treatment of cardiovascular disease.
-Considering the prevalence of cardiovascular disease in public health and the limited validated therapeutic options, this study aimed to find novel compounds targeting the angiotensin II type 1 receptor, accepted as a therapeutic target in cardiovascular disease.
-A small library consisting of 89 compounds from 39 Chinese herbs was profiled using a cell-based calcium mobilization assay which was developed and characterized for high-throughput screening.
-[6]-Gingerol derived from Zingiber officinale Roscoe (ginger) was identified as a novel angiotensin II type 1 receptor antagonist, with an IC50 value of 8.173 µM. The hit was further tested by a specificity assay indicating that it had no antagonistic effects on other evaluated GPCRs, such as endothelin receptors.
-The major ingredient of ginger, [6]-gingerol, could inhibit angiotensin II type 1 receptor activation, which partially clarified the mechanism of ginger regulating blood pressure and strengthening heart in the cardiovascular system.

@@ -1,9 +1,0 @@
-Anti-inflammatory effect of essential oil and its constituents from fingered citron (Citrus medica L. var. sarcodactylis) through blocking JNK, ERK and NF-κB signaling pathways in LPS-activated RAW 264.7 cells.
-We investigated the composition of essential oil from fingered citron (Citrus medica L. var.
-sarcodactylis) (FCEO) peels by GC-MS and its anti-inflammatory effects on lipopolysaccharide (LPS) - stimulated mouse macrophage (RAW 264.7) cells.
-Fifteen compounds, representing 98.97% of the essential oil, were tentatively identified; the main constituents were limonene (52.44%) and γ-terpinene (28.41%).
-FCEO significantly inhibited nitric oxide (NO) and prostaglandin E2 (PGE2) by suppressing the protein expression of inducible nitric oxide synthase (iNOS) and cyclooxygenase (COX)-2, respectively.
-Additionally, FCEO suppressed the production of tumor necrosis factor-α (TNF-α), interleukin (IL)-1β, and IL-6.
-FCEO attenuated LPS-induced nuclear factor-κB (NF-κB) activation via inhibition of inhibitor κB-α phosphorylation.
-Furthermore, FCEO blocked activation of c-Jun N-terminal kinase (JNK) and extracellular signal-regulated kinase (ERK) but not that of p38 mitogen-activated protein kinase.
-These results indicate that FCEO inhibits LPS-stimulated inflammation by blocking the NF-κB, JNK, and ERK pathways in macrophages, and demonstrate that FCEO possesses anti-inflammatory properties.

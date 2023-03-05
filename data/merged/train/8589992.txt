@@ -1,9 +1,0 @@
-cDNA cloning and functional properties of human glutamate receptor EAA3 (GluR5) in homomeric and heteromeric configuration.
-We have isolated a new member of the human glutamate receptor family from a fetal brain cDNA library.
-This cDNA clone, designated EAA3a, shares a 90% nucleotide identity with the previously reported rat GluR5-2b cDNA splice variant and differed from human GluR5-1d in the amino and carboxy terminal regions.
-Cell lines stably expressing EAA3a protein formed homomeric ligand-gated ion channels responsive, in order of decreasing affinity to domoate, kainate, L-glutamate and (RS)-alpha-amino-3-hydroxy-5- methylisoxazole-propionate (AMPA).
-Kainate-evoked currents showed partial desensitization that was reduced on incubation with concanavalin A (conA) but not cyclothiazide and were attenuated by the non-N-methyl-D-aspartate (NMDA) receptor antagonist CNQX (6-cyano-7-nitro-quinoxalinedione).
-Coexpression of EAA3a and human EAA1 cDNAs in HEK 293 cells formed a heteromeric channel with unique properties.
-Kainate and AMPA activated the heteromeric channel with significantly higher affinities than observed for EAA3a alone.
-Ligand binding studies with the recombinant EAA3a receptor expressed in mammalian cells indicated a high affinity kainate binding site (Kd = 120 +/- 15.0 nM).
-The relative potency of compounds in displacing [3H]-kainate binding to EAA3a receptor was: domoate > kainate > L-glutamate = quisqualate > 6,7-dinitroquinoxaline-2,3-dione (DNQX) = CNQX > AMPA > dihydrokainate > NMDA.

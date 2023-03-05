@@ -1,9 +1,0 @@
-Cyclooxygenase inhibition attenuates 3-nitropropionic acid-induced neurotoxicity in rats: possible antioxidant mechanisms.
-Systemic administration of 3-nitropropionic acid (3-NP), a complex II inhibitor of the electron transport chain, causes motor and cognitive deficits that are associated with excitotoxicity and excessive free radical generation.
-Recently, cyclooxygenase (COX) inhibitors have been implicated as a neuroprotectant in the treatment of various neurological disorders.
-The present study was designed to investigate the effects of COX inhibitors in 3-NP-induced cognitive impairment and oxidative stress in rats.
-Intraperitoneal administration of 3-NP (20 mg/kg for 4 days) showed motor abnormalities and cognitive impairment in rats.
-Chronic treatment with naproxen (10 and 20 mg/kg) and valdecoxib (5 and 10 mg/kg) once daily for a period of 8 days beginning 4 days prior to 3-NP administration significantly improved 3-NP-induced motor and cognitive impairment in rats.
-Biochemical analysis revealed that systemic 3-NP administration significantly increased lipid peroxidation and nitrite levels, depleted reduced glutathione levels and reduced succinate dehydrogenase (SDH) activity in the brains of rats, whereas administration of naproxen, a nonselective COX inhibitor (10 and 20 mg/kg p.o.) and valdecoxib, a selective COX-2 inhibitor (5 and 10 mg/kg p.o.) significantly attenuated 3-NP-induced oxidative stress.
-Cyclooxygenase inhibitors also significantly restored the decreased SDH activity.
-The results of the present study clearly indicate that naproxen and valdecoxib showed protection against 3-NP-induced motor and cognitive impairment by decreasing oxidative stress.

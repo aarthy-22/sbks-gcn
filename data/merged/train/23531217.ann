@@ -3,3 +3,6 @@ T5	GENE-Y 127 141	cholinesterase
 T1	CHEMICAL 174 189	organophosphate
 T2	CHEMICAL 191 208	organophosphonate
 T4	CHEMICAL 427 443	octadecyl silica
+R0	CPR-3 Arg1:T3 Arg2:T5
+R1	CPR-4 Arg1:T1 Arg2:T5
+R2	CPR-4 Arg1:T2 Arg2:T5

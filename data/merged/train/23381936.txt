@@ -1,8 +1,0 @@
-Population pharmacokinetics of atorvastatin and its active metabolites in children and adolescents with heterozygous familial hypercholesterolemia: selective use of informative prior distributions from adults.
-The population pharmacokinetics (PPK) of atorvastatin and its principal active metabolite, o-hydroxyatorvastatin, were described in 6-17 years old pediatric hypercholesterolemia patients with a 2-compartment model for both parent and metabolite.
-Informative prior distributions on selected parameters, based on adult data, were required to stabilize the model and were implemented using a Bayesian penalty term on the likelihood function in the nonlinear mixed effects model (NONMEM VI with PRIOR).
-Concentrations below the limit of quantitation were treated as censored data using a conditional likelihood function.
-Atorvastatin apparent oral clearance (CL/F) was described as a function of body weight using an allometric equation.
-Based on the final model, the typical CL/F estimates for a Tanner Stage 1 patient (35 kg weight) and Tanner Stage ≥2 (50 kg weight), would be 553 and 543 L/hour, respectively.
-When scaled allometrically, CL/F was similar to values reported for adults.
-Variability in atorvastatin PK was primarily affected by weight.

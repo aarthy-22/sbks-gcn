@@ -1,9 +1,0 @@
-Genetic correlate of cognitive training response in schizophrenia.
-Intensive computerized auditory training results in improved cognition for schizophrenia patients, but participants show variation in their cognitive gains and the biological factors that affect the response to training are unknown.
-Single nucleotide polymorphisms (SNPs) in the catechol-O-methyltransferase (COMT) gene have been related to cognitive function.
-Here we asked if functional variation in this gene has an impact on the response of schizophrenia patients to cognitive training.
-We genotyped 48 schizophrenia patients who completed 50 h of computerized cognitive training and analyzed the association between DNA variants in the COMT gene and the improvement in global cognition.
-Although conventional analyses did not reveal any significant associations, a set-based analysis examining the aggregate effect of common variation in the COMT gene (42 SNPs) suggested association with improvement in global cognition.
-Eight SNPs, mostly located in the 3' end of the COMT gene, were nominally associated with improvement in cognition.
-These data suggest that genotype influences the response to intensive cognitive training in schizophrenia, and may indicate that cognitive training regimens need to be personalized to the underlying biosignatures of each individual patient.
-This article is part of a Special Issue entitled 'Cognitive Enhancers'.

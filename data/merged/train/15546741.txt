@@ -1,5 +1,0 @@
-9-cis-retinoic acid analogues with bulky hydrophobic rings: new RXR-selective agonists.
-Stille cross-coupling of aryltriflates 10 and dienylstannane 11, oxidation and Horner-Wadsworth-Emmons reaction afforded stereoselectively retinoates 15.
-Saponification provided the carboxylic acids 8a and 8b, retinoids that incorporate a bulky hydrophobic ring while preserving the 9-cis-geometry of the parent system.
-In contrast to the pan-RAR/RXR agonistic profile of the lower homologue of 8a, compound 7 (LG100567), retinoids 8 showed selective binding and transactivation of RXR, devoid of significant RAR activation.
-In PLB985 leukemia cells that require RXR agonists for differentiation compounds 8 induced maturation in the presence of the RAR-selective pan-agonist TTNPB; this effect was blocked by an RXR-selective antagonist.

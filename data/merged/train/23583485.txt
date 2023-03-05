@@ -1,9 +1,0 @@
-Inhibitory effects of gypenosides on seven human cytochrome P450 enzymes in vitro.
-Among the various possible causes for drug interactions, pharmacokinetic factors such as inhibition of drug-metabolizing enzymes, especially cytochrome P450 (CYP) enzymes, are regarded as the most frequent and clinically important.
-Gypenosides is widely used as functional food and over-the-counter drug in East Asia.
-In this study, the in vitro inhibitory effects of gypenosides on the major human CYP enzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) activities in human liver microsomes were examined using liquid chromatography-tandem mass spectrometry.
-Gypenosides showed the strongest inhibition of CYP2D6, followed by CYP2C8, CYP3A4 and CYP2C9.
-The IC50 values were 1.61μg/mL, 20.06μg/mL, 34.76μg/mL (CYP3A4/midazolam), 46.73μg/mL (CYP3A4/testosterone), and 54.52μg/mL, respectively.
-Gypenosides exhibited competitive inhibition of CYP2D6 (Ki=1.18).
-In conclusion, Gypenosides might cause herb-drug interactions via inhibition of CYP2D6.
-An in vivo study is needed to examine this further.

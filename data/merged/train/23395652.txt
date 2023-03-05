@@ -1,5 +1,0 @@
-Structural analogs of huperzine A improve survival in guinea pigs exposed to soman.
-Chemical warfare nerve agents such as soman exert their toxic effects through an irreversible inhibition of acetylcholinesterase (AChE) and subsequently glutamatergic function, leading to uncontrolled seizures.
-The natural alkaloid (-)-huperzine A is a potent inhibitor of AChE and has been demonstrated to exert neuroprotection at an appropriate dose.
-It is hypothesized that analogs of both (+)- and (-)-huperzine A with an improved ability to interact with NMDA receptors together with reduced AChE inhibition will exhibit more effective neuroprotection against nerve agents.
-In this manuscript, the tested huperzine A analogs 2 and 3 were demonstrated to improve survival of guinea pigs exposed to soman at either 1.2 or 2×LD(50).

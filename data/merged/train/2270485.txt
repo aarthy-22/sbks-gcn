@@ -1,8 +1,0 @@
-Zinc mediation of the binding of human growth hormone to the human prolactin receptor.
-Human growth hormone (hGH) elicits a diverse set of biological activities including lactation that derives from binding to the prolactin (PRL) receptor.
-The binding affinity of hGH for the extracellular binding domain of the hPRL receptor (hPRLbp) was increased about 8000-fold by addition of 50 micromolar ZnCl2.
-Zinc was not required for binding of hGH to the hGH binding protein (hGHbp) or for binding of hPRL to the hPRLbp.
-Other divalent metal ions (Ca2+, Mg2+, Cu2+, Mn2+, and Co2+) at physiological concentrations did not support such strong binding.
-Scatchard analysis indicated a stoichiometry of one Zn2+ per hGH.hPRLbp complex.
-Mutational analysis showed that a cluster of three residues (His18, His21, and Glu174) in hGH and His188 from the hPRLbp (conserved in all PRL receptors but not GH receptors) are probable Zn2+ ligands.
-This polypeptide hormone.receptor "zinc sandwich" provides a molecular mechanism to explain why nonprimate GHs are not lactogenic and offers a molecular link between zinc deficiency and its association with altered functions of hGH.

@@ -11,3 +11,5 @@ T11	CHEMICAL 999 1008	vitamin D
 T2	CHEMICAL 1304 1333	25-hydroxydihydrotachysterol3
 T3	CHEMICAL 1387 1416	25-hydroxydihydrotachysterol3
 T4	CHEMICAL 1652 1671	dihydrotachysterol3
+R0	CPR-2 Arg1:T1 Arg2:T13
+R1	NOT Arg1:T7 Arg2:T13

@@ -1,8 +1,0 @@
-Adsorption of phenanthrene, 2-naphthol, and 1-naphthylamine to colloidal oxidized multiwalled carbon nanotubes: effects of humic acid and surfactant modification.
-Carbon nanotubes (CNTs) can exist in the form of colloidal suspension in aquatic environments, particularly in the presence of natural organic matter or surfactants, and may significantly affect the fate and transport of organic contaminants.
-In the present study, the authors examined the adsorption of phenanthrene, 2-naphthol, and 1-naphthylamine to three colloidal CNTs, including a stable suspension of oxidized multiwalled carbon nanotubes (O-MWNT), a humic acid (HA)-modified colloidal O-MWNT, and a sodium dodecyl sulfate (SDS)-modified colloidal O-MWNT.
-All three colloidal O-MWNTs exhibit strong adsorption affinities to the three test compounds (with K(OC) values orders of magnitude greater than those of natural organic matter), likely resulting from strong nonhydrophobic interactions such as π-π electron donor-acceptor interactions and Lewis acid-base interactions.
-When thoroughly mixed, HA (at ∼310 mg HA/g CNT) and SDS (at ∼750 mg SDS/g CNT) significantly affected the aggregation properties of O-MWNT, causing individually dispersed tubes to form a loosely entangled network.
-The effects of HA or SDS modification on adsorption are twofold.
-Adsorption of HA/SDS significantly reduces surface areas of O-MWNT; however, the entangled network allows adsorbate molecules to interact simultaneously with multiple tubes.
-An important implication is that humic substances and surfactant-like materials not only facilitate the formation of colloidal carbon nanoparticles but also affect how these colloidal carbon nanoparticles adsorb organic contaminants.

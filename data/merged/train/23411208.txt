@@ -1,6 +1,0 @@
-Alteration of α-tocopherol-associated protein (TAP) expression in human breast epithelial cells during breast cancer development.
-Breast cancer is the most common malignancy among women and has an age-specific incidence profile.
-Over the last decade, many studies have demonstrated the anticancer activity of α-tocopherol, the main and most active form of natural vitamin E. α-Tocopherol-associated protein (TAP) was found to be one of the major α-tocopherol binding proteins in human serum and in liver, brain, and prostate tissues.
-In this study, we found that reduced TAP expression was significantly correlated with Her2/neu receptor expression, breast cancer stage and nodal stage in paired normal and cancerous breast tissue samples from 93 patients using real-time PCR analysis.
-A cell viability assay showed that α-tocopheryl succinate (α-TOS), a synthetic derivative of α-tocopherol, enhanced the cells' sensitivity to doxorubicin and resulted in a reduction in cell viability in breast cancers.
-Taken together, these data suggest that the use of vitamin E or its analogue as a dietary supplement may be beneficial for the treatment of cancer.

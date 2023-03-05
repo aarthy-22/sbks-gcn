@@ -1,9 +1,0 @@
-Evaluation of a predictive in vitro Leydig cell assay for anti-androgenicity of phthalate esters in the rat.
-An in vitro assay using the rat Leydig cell line R2C was evaluated for its ability to quantitatively predict inhibition of testosterone synthesis.
-Results obtained for endocrine active phthalates (MEHP, MBP), and inactive phthalates (MMP and MEP) were highly consistent with in vivo results based on tissue and media concentrations.
-Statistically significant inhibition of testosterone synthesis (p<0.05, 1-way ANOVA) was observed at 1μM MBP and 3μM MEHP, while MEP and MMP did not affect inhibition of testosterone synthesis until much higher concentrations (≫100μM).
-Concentrations causing 50% inhibition of testosterone synthesis for MBP and MEHP (3 and 6μM respectively), were similar to in vivo values (3 and 7μM).
-The R2C assay was used to determine the relative potency of 14 structurally diverse monoesters and oxidative metabolites of MEHP.
-Monoesters with alkyl chains 4-5 carbons in length had the highest potency for testosterone inhibition, while 0-2 carbon alkyl chains were least potent.
-Phase I metabolism did not completely inactivate MEHP, underscoring the need for metabolism data when interpreting in vitro pharmacodynamic data.
-This steroid inhibition assay provides a predictive in vitro alternative to expensive and timeconsuming developmental rat studies for phthalate-induced antiandrogenicity.

@@ -1,7 +1,0 @@
-Rhubarb inhibits hepatocellular carcinoma cell metastasis via GSK-3-β activation to enhance protein degradation and attenuate nuclear translocation of β-catenin.
-The aim of our study was to investigate the mechanisms by which rhubarb regulates β-catenin as well as metastasis of hepatocellular carcinomas.
-Our results revealed that rhubarb extract inhibited HA22T cell migration ability in wound healing, migration and invasion assays in a dose-dependent manner.
-Rhubarb also reduced β-catenin protein level, downregulated its downstream proteins, cyclin D, Tbx3 and c-Myc, and attenuated the expression of MMP9 and contactin-1 metastatic factors.
-Additionally, rhubarb inhibited β-catenin nuclear accumulation and induced its degradation via proteasome-mediated pathway.
-Furthermore, we found that rhubarb suppressed the p-ser(9) GSK-3-β protein level to inactivate Wnt signalling and reduce β-catenin protein level.
-Taken together; we found that rhubarb blocked the metastatic process of HA22T hepatocellular carcinoma cells mediated through GSK-3-β activation, and enhancement of protein degradation as well as reduction of the nuclear accumulation of β-catenin.

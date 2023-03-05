@@ -1,7 +1,0 @@
-Protective effects of Keemun black tea polysaccharides on acute carbon tetrachloride-caused oxidative hepatotoxicity in mice.
-This study was designed to investigate chemical characterization of the water-soluble polysaccharides extracted from Keemun black tea (KBTP), and their antioxidant and hepatoprotective effects against CCl4-induced oxidative damage in mice.
-HPLC analysis revealed that KBTP is the typical acidic heteropolysaccharides and consisted of nine monosaccharides.
-Furthermore, KBTP showed highly ferric-reducing antioxidant power and scavenging effects against DPPH, OH and O2(-) in vitro.
-Administration of KBTP (200, 400 and 800mg/kgbw) in mice ahead of CCl4 injection could observably antagonize the CCl4-induced increases in serum ALT, AST, TG and TC, and the hepatic MDA and 8-iso-PGF2a levels, respectively.
-Mice with KBTP pretreatment displayed a better profile of hepatosomatic index and the improved GSH and SOD activities in comparison with CCl4-intoxicated mice.
-These biochemical results were further supported with liver histopathological assessment, revealing that KBTP has an observable prevention of liver damage induced by CCl4 in mice.

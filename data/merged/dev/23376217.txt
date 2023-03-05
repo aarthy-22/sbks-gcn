@@ -1,7 +1,0 @@
-Characterization of the mouse promoter region of the acyl-CoA synthetase 4 gene: role of Sp1 and CREB.
-Acyl-CoA synthetase 4 (Acsl4) is involved in several cellular functions including steroidogenesis, synaptic development and cancer metastasis.
-Although the expression of Acsl4 seems to be regulated by tissue- and cell-specific factors as well as pituitary hormones and growth factors, the transcriptional mechanisms involved remain unknown.
-We demonstrated hCG and cAMP regulation of Acsl4 mRNA in mouse steroidogenic MA-10 Leydig cells.
-We characterized the transcription initiation site and promoter of the Acsl4 mouse gene and identified three alternative splice variants present in MA-10 cells.
-Sequence analysis of a 1.5-kb fragment of the Acsl4 promoter revealed the absence of a TATA box and the presence of many putative binding sites for transcription factors including Sp1 and CREB.
-Functional characterization revealed that the specificity protein/Krüppel-like factor Sp1 binding site in the proximal promoter is involved in basal activity and that the cAMP response element-binding site is involved in cAMP stimulation of Acsl4 transcription.

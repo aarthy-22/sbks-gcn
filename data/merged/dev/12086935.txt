@@ -1,9 +1,0 @@
-Metformin increases AMP-activated protein kinase activity in skeletal muscle of subjects with type 2 diabetes.
-Metformin is an effective hypoglycemic drug that lowers blood glucose concentrations by decreasing hepatic glucose production and increasing glucose disposal in skeletal muscle; however, the molecular site of metformin action is not well understood.
-AMP-activated protein kinase (AMPK) activity increases in response to depletion of cellular energy stores, and this enzyme has been implicated in the stimulation of glucose uptake into skeletal muscle and the inhibition of liver gluconeogenesis.
-We recently reported that AMPK is activated by metformin in cultured rat hepatocytes, mediating the inhibitory effects of the drug on hepatic glucose production.
-In the present study, we evaluated whether therapeutic doses of metformin increase AMPK activity in vivo in subjects with type 2 diabetes.
-Metformin treatment for 10 weeks significantly increased AMPK alpha2 activity in the skeletal muscle, and this was associated with increased phosphorylation of AMPK on Thr172 and decreased acetyl-CoA carboxylase-2 activity.
-The increase in AMPK alpha2 activity was likely due to a change in muscle energy status because ATP and phosphocreatine concentrations were lower after metformin treatment.
-Metformin-induced increases in AMPK activity were associated with higher rates of glucose disposal and muscle glycogen concentrations.
-These findings suggest that the metabolic effects of metformin in subjects with type 2 diabetes may be mediated by the activation of AMPK alpha2.

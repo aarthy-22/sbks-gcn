@@ -1,8 +1,0 @@
-Investigational anti-hyperglycemic agents: the future of type 2 diabetes therapy?
-As the pandemic of type 2 diabetes spreads globally, clinicians face many challenges in treating an increasingly diverse patient population varying in age, comorbidities, and socioeconomic status.
-Current therapies for type 2 diabetes are often unable to alter the natural course of the disease and provide durable glycemic control, and side effects in the context of individual patient characteristics often limit treatment choices.
-This often results in the progression to insulin use and complex regimens that are difficult to maintain.
-Therefore, a number of agents are being developed to better address the pathogenesis of type 2 diabetes and to overcome limitations of current therapies.
-The hope is to provide more options for glucose lowering and complication reduction with less risk for hypoglycemia and other adverse effects.
-These agents include newer incretin-based therapies and PPAR agonists, as well as new therapeutic classes such as sodium-coupled glucose cotransporter 2 inhibitors, free fatty acid receptor agonists, 11-β-hydroxysteroid dehydrogenase type 1 inhibitors, glucokinase activators, and several others that may enter clinical use over the next decade.
-Herein we review these agents that are advancing through clinical trials and describe the rationale behind their use, mechanisms of action, and potential for glucose lowering, as well as what is known of their limitations.

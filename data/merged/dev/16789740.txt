@@ -1,5 +1,0 @@
-Discovery and optimization of anthranilic acid sulfonamides as inhibitors of methionine aminopeptidase-2: a structural basis for the reduction of albumin binding.
-Methionine aminopeptidase-2 (MetAP2) is a novel target for cancer therapy.
-As part of an effort to discover orally active reversible inhibitors of MetAP2, a series of anthranilic acid sulfonamides with micromolar affinities for human MetAP2 were identified using affinity selection by mass spectrometry (ASMS) screening.
-These micromolar hits were rapidly improved to nanomolar leads on the basis of insights from protein crystallography; however, the compounds displayed extensive binding to human serum albumin and had limited activity in cellular assays.
-Modifications based on structural information on the binding of lead compounds to both MetAP2 and domain III of albumin allowed the identification of compounds with significant improvements in both parameters, which showed good cellular activity in both proliferation and methionine processing assays.

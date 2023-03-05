@@ -1,4 +1,0 @@
-Novel racemic tetrahydrocurcuminoid dihydropyrimidinone analogues as potent acetylcholinesterase inhibitors.
-The synthesis of racemic tetrahydrocurcumin- (THC-), tetrahydrodemethoxycurcumin- (THDC-) and tetrahydrobisdemethoxycurcumin- (THBDC-) dihydropyrimidinone (DHPM) analogues was achieved by utilizing the multi-component Biginelli reaction in the presence of copper sulphate as a catalyst.
-The evaluation of acetylcholinesterase inhibitors for Alzheimer's disease of these compounds showed that they exhibited higher inhibitory activity than their parent analogues.
-THBDC-DHPM demonstrated the most potent inhibitory activity with an IC50 value of 1.34±0.03μM which was more active than the approved drug galanthamine (IC50=1.45±0.04μM).

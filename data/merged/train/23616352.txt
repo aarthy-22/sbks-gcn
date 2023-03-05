@@ -1,4 +1,0 @@
-Selective Bisubstrate Inhibitors with Sub-nanomolar Affinity for Protein Kinase Pim-1.
-Potent and selective: The unique nature of the ATP binding pocket structure of Pim family protein kinases (PKs) was used for the development of bisubstrate inhibitors and a fluorescent probe with sub-nanomolar affinity.
-Conjugates of arginine-rich peptides with two ATP mimetic scaffolds were synthesized and tested as inhibitors of Pim-1.
-Against a panel of 124 protein kinases, a novel ARC-PIM conjugate selectively inhibited PKs of the Pim family.

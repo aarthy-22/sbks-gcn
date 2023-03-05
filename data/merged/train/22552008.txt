@@ -1,9 +1,0 @@
-Cereblon is a direct protein target for immunomodulatory and antiproliferative activities of lenalidomide and pomalidomide.
-Thalidomide and the immunomodulatory drug, lenalidomide, are therapeutically active in hematological malignancies.
-The ubiquitously expressed E3 ligase protein cereblon (CRBN) has been identified as the primary teratogenic target of thalidomide.
-Our studies demonstrate that thalidomide, lenalidomide and another immunomodulatory drug, pomalidomide, bound endogenous CRBN and recombinant CRBN-DNA damage binding protein-1 (DDB1) complexes.
-CRBN mediated antiproliferative activities of lenalidomide and pomalidomide in myeloma cells, as well as lenalidomide- and pomalidomide-induced cytokine production in T cells.
-Lenalidomide and pomalidomide inhibited autoubiquitination of CRBN in HEK293T cells expressing thalidomide-binding competent wild-type CRBN, but not thalidomide-binding defective CRBN(YW/AA).
-Overexpression of CRBN wild-type protein, but not CRBN(YW/AA) mutant protein, in KMS12 myeloma cells, amplified pomalidomide-mediated reductions in c-myc and IRF4 expression and increases in p21(WAF-1) expression.
-Long-term selection for lenalidomide resistance in H929 myeloma cell lines was accompanied by a reduction in CRBN, while in DF15R myeloma cells resistant to both pomalidomide and lenalidomide, CRBN protein was undetectable.
-Our biophysical, biochemical and gene silencing studies show that CRBN is a proximate, therapeutically important molecular target of lenalidomide and pomalidomide.

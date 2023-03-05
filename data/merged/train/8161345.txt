@@ -1,9 +1,0 @@
-5-ethynyl-2(1H)-pyrimidinone: aldehyde oxidase-activation to 5-ethynyluracil, a mechanism-based inactivator of dihydropyrimidine dehydrogenase.
-5-Ethynyluracil is a potent mechanism-based inactivator of dihydropyrimidine dehydrogenase (DPD, EC 1.3.1.2) in vitro (Porter et al., J Biol Chem 267: 5236-5242, 1992) and in vivo (Spector et al., Biochem Pharmacol, 46: 2243-2248, 1993. 5-Ethynyl-2(1H)-pyrimidinone was rapidly oxidized to 5-ethynyluracil by aldehyde oxidase.
-The substrate efficiency (kcat/Km) was 60-fold greater than that for N-methylnicotinamide.
-In contrast, xanthine oxidase oxidized 5-ethynyl-2(1H)-pyrimidinone to 5-ethynyluracil with a substrate efficiency that was only 0.02% that of xanthine.
-Because 5-ethynyl-2(1H)-pyrimidinone did not itself inactivate purified DPD in vitro and aldehyde oxidase is predominately found in liver, we hypothesized that 5-ethynyl-2(1H)-pyrimidinone could be a liver-specific inactivator of DPD.
-We found that 5-ethynyl-2(1H)-pyrimidinone administered orally to rats at 2 micrograms/kg inactivated DPD in all tissues studied.
-Although 5-ethynyl-2(1H)-pyrimidinone produced slightly less inactivation than 5-ethynyluracil, the two compounds showed fairly similar patterns of inactivation of DPD in these tissues.
-At doses of 20 micrograms/kg, however, 5-ethynyl-2-pyrimidinone and 5-ethynyluracil produced equivalent inactivation of DPD.
-Thus, 5-ethynyl-2(1H)-pyrimidinone appeared to be an efficient, but not highly liver-selective prodrug of 5-ethynyluracil.

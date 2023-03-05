@@ -1,7 +1,0 @@
-Screening of acetylcholinesterase inhibitors by CE after enzymatic reaction at capillary inlet.
-In this study the development of a procedure based on capillary electrophoresis after enzymatic reaction at capillary inlet methodology for the screening and in vitro evaluation of the biological activity of acetylcholinesterase (AChE) inhibitors is presented.
-The progress of the enzymatic reaction of the hydrolysis of acetylthiocholine at pH 8 in the presence of AChE and the inhibitor studied is determined by measuring at 230 nm the peak area of the reaction product thiocholine (TCh).
-In the method employed the capillary was first filled with 30 mM borate-phosphate buffer (pH 8.0) and subsequently, plugs of: (i) water, (ii) AChE solution, (iii) substrate solution with or without inhibitor, (iv) AChE solution, and (v) water, were hydrodynamically injected into the capillary, and were allowed to stand (and react) during a waiting period of 2 min.
-The applicability of the proposed methodology to estimate different kinetic parameters of interest such as inhibition constants K(i), identification of inhibitory action mechanism and IC(50), is evaluated using compounds with known activity, tacrine edrophonium, and neostigmine.
-The results obtained are compared with bibliographic values and confirm the effectiveness of the methodology proposed.
-Finally a method for AChE Inhibitor screening is proposed.

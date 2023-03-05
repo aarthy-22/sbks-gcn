@@ -1,5 +1,0 @@
-Genome-wide integrated analyses of androgen receptor signaling in prostate cancer based on high-throughput technology.
-The androgen receptor (AR) is a steroid hormone receptor that functions as a ligand-dependent transcriptional factor, which plays a key role in the development and progression of prostate cancer.
-Recent advancement in high throughput technologies including microarrays and deep-sequencing provides unbiased genome-wide knowledge on the AR signaling including datasets for androgen-regulated gene expression and genomic binding sites for AR.
-In the present review, we will briefly summarize the main features of the AR signaling as well as the individual AR target genes identified by the integration of multiple datasets in prostate cancer.
-Cap analysis gene expression (CAGE) is also featured as a unique transcriptome method, which particularly determines the androgen-dependent transcription start points in prostate cancer.

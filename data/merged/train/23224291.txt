@@ -1,9 +1,0 @@
-Proteomic and metabolomic responses to connexin43 silencing in primary hepatocyte cultures.
-Freshly established cultures of primary hepatocytes progressively adopt a foetal-like phenotype and display increased production of connexin43.
-The latter is a multifaceted cellular entity with variable subcellular locations, including the mitochondrial compartment.
-Cx43 forms hemichannels and gap junctions that are involved in a plethora of physiological and pathological processes, such as apoptosis.
-The present study was conducted with the goal of shedding more light onto the role of connexin43 in primary hepatocyte cultures.
-Connexin43 expression was suppressed by means of RNA interference technology, and the overall outcome of this treatment on the hepatocellular proteome and metabolome was investigated using tandem mass tag-based differential protein profiling and (1)H NMR spectroscopy, respectively.
-Global protein profiling revealed a number of targets of the connexin43 knock-down procedure, including mitochondrial proteins (heat shock protein 60, glucose-regulated protein 75, thiosulphate sulphurtransferase and adenosine triphosphate synthase) and detoxifying enzymes (glutathione S-transferase μ 2 and cytochrome P450 2C70).
-At the metabolomic level, connexin43 silencing caused no overt changes, though there was some evidence for a subtle increase in intracellular glycine quantities.
-Collectively, these data could further substantiate the established existence of a mitochondrial connexin pool and could be reconciled with the previously reported involvement of connexin43 signalling in spontaneously occurring apoptosis in primary hepatocyte cultures.

@@ -13,3 +13,5 @@ T3	CHEMICAL 1024 1032	catechol
 T13	GENE-N 1024 1040	catechol oxidase
 T4	CHEMICAL 1149 1157	Catechol
 T14	GENE-N 1149 1165	Catechol oxidase
+R0	CPR-9 Arg1:T2 Arg2:T12
+R1	NOT Arg1:T15 Arg2:T5

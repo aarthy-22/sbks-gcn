@@ -1,8 +1,0 @@
-Impact of quaternary structure dynamics on allosteric drug discovery.
-The morpheein model of allosteric regulation draws attention to proteins that can exist as an equilibrium of functionally distinct assemblies where: one subunit conformation assembles into one multimer; a different subunit conformation assembles into a different multimer; and the various multimers are in a dynamic equilibrium whose position can be modulated by ligands that bind to a multimer-specific ligand binding site.
-The case study of porphobilinogen synthase (PBGS) illustrates how such an equilibrium holds lessons for disease mechanisms, drug discovery, understanding drug side effects, and identifying proteins wherein drug discovery efforts might focus on quaternary structure dynamics.
-The morpheein model of allostery has been proposed as applicable for a wide assortment of disease-associated proteins (Selwood, T., Jaffe, E., (2012) Arch.
-Bioch.
-Biophys, 519:131-143).
-Herein we discuss quaternary structure dynamics aspects to drug discovery for the disease-associated putative morpheeins phenylalanine hydroxylase, HIV integrase, pyruvate kinase, and tumor necrosis factor α.
-Also highlighted is the quaternary structure equilibrium of transthyretin and successful drug discovery efforts focused on controlling its quaternary structure dynamics.

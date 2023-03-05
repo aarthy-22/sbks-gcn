@@ -1,7 +1,0 @@
-Characterization of ochratoxin A transport by human organic anion transporters.
-The purpose of this study was to investigate the characteristics of ochratoxin A (OTA) transport by multispecific human organic anion transporters (hOAT1 and hOAT3, respectively) using the second segment of proximal tubule (S2) cells from mice stably expressing hOAT1 and hOAT3 (S2 hOAT1 and S2 hOAT3).
-S2 hOAT1 and S2 hOAT3 exhibited a time- and dose-dependent, and a saturable increase in uptake of [3H]-OTA, with apparent Km values of 0.42 microM (hOAT1) and 0.75 microM (hOAT3).
-These OTA uptakes were inhibited by several substrates for the OATs.
-Para-aminohippuric acid (PAH), probenecid, piroxicam, octanoate and citrinin inhibited [3H]-OTA uptake by hOAT1 and hOAT3 in a competitive manner (Ki = 4.29-3080 microM), with the following order of potency: probenecid > octanoate > PAH > piroxicam > citrinin for hOAT1; probenecid > piroxicam > octanoate> citrinin > PAH for hOAT3.
-These results indicate that hOAT1, as well as hOAT3, mediates a high-affinity transport of OTA on the basolateral side of the proximal tubule, but hOAT1- and hOAT3-mediated OTA transport are differently influenced by the substrates for the OATs.
-These pharmacological characteristics of hOAT1 and hOAT3 may be significantly related with the events in the development of OTA-induced nephrotoxicity in the human kidney.

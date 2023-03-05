@@ -1,6 +1,0 @@
-tert-Butylcarbamate-Containing Histone Deacetylase Inhibitors: Apoptosis Induction, Cytodifferentiation, and Antiproliferative Activities in Cancer Cells.
-Herein we report novel pyrrole- and benzene-based hydroxamates (8, 10) and 2'-aminoanilides (9, 11) bearing the tert-butylcarbamate group at the CAP moiety as histone deacetylase (HDAC) inhibitors.
-Compounds 8 b and 10 c selectively inhibited HDAC6 at the nanomolar level, whereas the other hydroxamates effected an increase in acetyl-α-tubulin levels in human acute myeloid leukemia U937 cells.
-In the same cell line, compounds 8 b and 10 c elicited 18.4 and 21.4 % apoptosis, respectively (SAHA: 16.9 %), and the pyrrole anilide 9 c displayed the highest cytodifferentiating effect (90.9 %).
-In tests against a wide range of various cancer cell lines to determine its antiproliferative effects, compound 10 c exhibited growth inhibition from sub-micromolar (neuroblastoma LAN-5 and SH-SY5Y cells, chronic myeloid leukemia K562 cells) to low-micromolar (lung H1299 and A549, colon HCT116 and HT29 cancer cells) concentrations.
-In HT29 cells, 10 c increased histone H3 acetylation, and decreased the colony-forming potential of the cancer cells by up to 60 %.

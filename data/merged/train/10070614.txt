@@ -1,7 +1,0 @@
-The human NADH: ubiquinone oxidoreductase NDUFS5 (15 kDa) subunit: cDNA cloning, chromosomal localization, tissue distribution and the absence of mutations in isolated complex I-deficient patients.
-We have cloned the cDNA of the NDUFS5 subunit (15 kDa) of the human mitochondrial respiratory chain complex NADH: ubiquinone oxidoreductase (complex I).
-The open reading frame consists of 321 base-pairs, coding for 106 amino acids, with a calculated molecular mass of 12.5 kDa.
-There is an 81.0% identity with the bovine equivalent on cDNA level and 74.5% identity on amino acid basis.
-PCR analysis of rodent-human somatic cell hybrids revealed that the human NDUFS5 gene maps to chromosome 1.
-The NDUFS5 mRNA is expressed ubiquitously in human tissues, with a relative higher expression in human heart, skeletal muscle, liver, kidney and fetal heart.
-A mutation detection study of twenty isolated enzymatic complex I-deficient patients revealed no mutations, nor polymorphisms.

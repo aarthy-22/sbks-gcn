@@ -1,8 +1,0 @@
-Effect of developmental dioxin exposure on methylation and expression of specific imprinted genes in mice.
-2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) is an endocrine disruptor affecting the reproductive system in humans.
-The aim of this study was to evaluate the effects of TCDD administered to pregnant mice at two different doses (2-10 ng/kg/day), on imprinted genes in the male offspring.
-The degree of methylation and the mRNA expression of Snrpn, Peg3 and Igf2r were analyzed in the sperm, skeletal muscle and liver.
-TCDD administration (10 ng/kg/day) decreased the sperm count in the male offspring.
-It did not affect methylation but increased mRNA expression of Snrpn, Peg3, Igf2r and Air ncRNA.
-In muscle and liver, TCDD (10 ng/kg/day) induced increases in methylation and decreases in mRNA expression of Igf2r.
-These results show that the robust effects of TCDD on the mRNA expression of Snrpn, Peg3 and Igf2r genes in the sperm and of Igf2r in the muscle and liver are unrelated to changes in methylation in their respective genes.

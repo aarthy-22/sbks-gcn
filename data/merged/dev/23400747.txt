@@ -1,9 +1,0 @@
-Effects of amlodipine on the oral bioavailability of cephalexin and cefuroxime axetil in healthy volunteers.
-In this study, the authors compared the effects of amlodipine (AML) on the bioavailability of cephalexin (LEX) and cefuroxime axetil (CXM).
-Twenty-four healthy men were randomized to 4 treatments according to a crossover design with a 14-day washout.
-After an overnight fast, they were administered orally LEX 500 mg alone, LEX 500 mg 2 hours after oral administration of AML 5 mg, CXM 500 mg alone, and CXM 500 mg 2 hours after oral administration of AML 5 mg.
-All participants completed the whole study without side effects being observed.
-Pharmacokinetic data were analyzed by noncompartmental modeling with WinNonlin software.
-The geometric mean (GM) ratios were 1.38 (90% confidence interval [CI], 1.32-1.45) for the area under the concentration-time curve (AUC) for LEX and 1.27 (1.18-1.36) for the maximum concentration of drug in serum (C(max)) for LEX followed by AML versus alone.
-In contrast, no significant differences were found in the pharmacokinetic parameters of CXM between treatments (P < .05).
-They authors conclude that AML possesses an enhancement effect in β-lactam antibiotic bioavailability (in this case, LEX), and this interaction may be specific to the peptidomimetic β-lactam antibiotics.

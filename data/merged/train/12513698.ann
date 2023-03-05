@@ -36,3 +36,4 @@ T11	CHEMICAL 1230 1238	fentanyl
 T12	CHEMICAL 1241 1249	morphine
 T34	GENE-Y 1361 1379	mu opioid receptor
 T35	GENE-Y 1637 1656	mu opioid receptors
+R0	NOT Arg1:T37 Arg2:T16

@@ -1,9 +1,0 @@
-Altered gene expression in murine branchial arches following in utero exposure to retinoic acid.
-Retinoic acid (RA) in the form of isotretinoin (Accutane) and tretinoin (Retin-A) is a clinically important compound in the treatment of dermatologic disorders.
-However, it is also a potent teratogen associated with a number of serious congenital malformations.
-Generally, these malformations involve the craniofacial structures derived from the first and second branchial arches.
-To determine how altered gene expression may contribute to the observed RA-induced defects, pregnant LM/Bc mice were administered (5 mg/kg) all-trans RA on gestational day (GD) 8:12.
-First and second branchial arches were removed from control and teratogen-treated embryos on GD 10:00 10:12, or 12:00, processed by in situ transcription/aRNA techniques, and analyzed for alterations in gene expression.
-In these studies, a panel of 40 candidate genes that are known to be important in mammalian craniofacial development were examined.
-This analysis revealed significant differences in the expression level of the nicotinic acetylcholine receptor subunit alpha (NAChR), transforming growth factor beta 2 (TGF beta 2), type 1 cellular retinoid binding protein (CRBP-1), retinoic acid receptor gamma (RAR gamma), and cAMP response element binding protein (CREB).
-The alterations observed in the expression of these genes following RA exposure may prohibit normal morphogenetic processes within the second branchial arch and lead to the observed malformations.

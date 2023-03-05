@@ -1,5 +1,0 @@
-Inhibition of Ebola Virus Infection: Identification of Niemann-Pick C1 as the Target by Optimization of a Chemical Probe.
-A high throughput screen identified adamantane dipeptide 1 as an inhibitor of Ebola virus (EboV) infection.
-Hit-to-lead optimization to determine the structure-activity relationship (SAR) identified the more potent EboV inhibitor 2 and a photoaffinity labeling agent 3.
-These anti-viral compounds were employed to identify the target as Niemann-Pick C1 (NPC1), a host protein that binds the EboV glycoprotein and is essential for infection.
-These studies establish NPC1 as a promising target for anti-viral therapy.

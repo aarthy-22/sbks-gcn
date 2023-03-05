@@ -1,7 +1,0 @@
-In vitro mutagenesis of PH-20 hyaluronidase from human sperm.
-The cDNA encoding PH-20 hyaluronidase from human sperm has been mutated at five positions by in vitro mutagenesis.
-We have changed three acidic amino acids and two arginine residues that are conserved in the sequence of mammalian PH-20 polypeptides as well as in the hyaluronidases from bee and hornet venom.
-Of the former, the mutants [Gln113]PH-20 and [Gln249]PH-20 had no detectable enzymatic activity; the mutant [Asn111]PH-20 had about 3% activity.
-The mutant [Thr252]PH-20 was also inactive, while [Gly176]PH-20 had only about 1% activity.
-This indicates that the PH-20 hyaluronidases, like numerous enzymes that hydrolyze glycosidic bonds, have acidic amino acids in their active site.
-Moreover, for the binding of the substrate, the polyanion hyaluronan, arginine residues appear to be essential.

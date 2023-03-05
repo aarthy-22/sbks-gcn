@@ -1,7 +1,0 @@
-Inhibition of monoamine oxidase by phthalide analogues.
-Based on recent reports that the small molecules, isatin and phthalimide, are suitable scaffolds for the design of high potency monoamine oxidase (MAO) inhibitors, the present study examines the MAO inhibitory properties of a series of phthalide [2-benzofuran-1(3H)-one] analogues.
-Phthalide is structurally related to isatin and phthalimide and it is demonstrated here that substitution at C6 of the phthalide moiety yields compounds endowed with high binding affinities to both human MAO isoforms.
-Among the nineteen homologues evaluated, the lowest IC(50) values recorded for the inhibition of MAO-A and -B were 0.096 and 0.0014 μM, respectively.
-In most instances, C6-substituted phthalides exhibit MAO-B specific inhibition.
-Among a series of 6-benzyloxyphthalides bearing substituents on the para position of the phenyl ring the general order of potency was CF(3) > I > Br > Cl > F > CH(3) > H. The results also show that the binding modes of representative phthalides are reversible and competitive at both MAO isoforms.
-Based on these data, C6-substituted phthalides may serve as leads for the development of therapies for neurodegenerative disorders such as Parkinson's disease.

@@ -1,7 +1,0 @@
-TRPA1 and TRPM8 activation in humans: effects of cinnamaldehyde and menthol.
-The aim of this study was to evaluate the psychophysical effects of both TRPA1 and TRPM8 activation in humans by application of either cinnamaldehyde or menthol.
-We applied 10% cinnamaldehyde or 40% menthol solutions on the forearm in 10 study participants.
-Quantitative sensory testing and laser Doppler imaging was performed before and after exposure to the compounds.
-Cinnamaldehyde evoked significant spontaneous pain and induced heat and mechanical hyperalgesia, cold hypoalgesia and a neurogenic axon reflex erythema.
-In contrast, TRPM8 activation by menthol produced no axon reflex reaction and resulted in cold hyperalgesia.
-We conclude that agonists of TRPA1 and TRPM8 channels produce strikingly different psychophysical patterns.

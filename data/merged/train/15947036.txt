@@ -1,8 +1,0 @@
-Evaluation of histamine H1-, H2-, and H3-receptor ligands at the human histamine H4 receptor: identification of 4-methylhistamine as the first potent and selective H4 receptor agonist.
-The histamine H(4) receptor (H(4)R) is involved in the chemotaxis of leukocytes and mast cells to sites of inflammation and is suggested to be a potential drug target for asthma and allergy.
-So far, selective H(4)R agonists have not been identified.
-In the present study, we therefore evaluated the human H(4)R (hH(4)R) for its interaction with various known histaminergic ligands.
-Almost all of the tested H(1)R and H(2)R antagonists, including several important therapeutics, displaced less than 30% of specific [(3)H]histamine binding to the hH(4)R at concentrations up to 10 microM. Most of the tested H(2)R agonists and imidazole-based H(3)R ligands show micromolar-to-nanomolar range hH(4)R affinity, and these ligands exert different intrinsic hH(4)R activities, ranging from full agonists to inverse agonists.
-Interestingly, we identified 4-methylhistamine as a high-affinity H(4)R ligand (K(i) = 50 nM) that has a >100-fold selectivity for the hH(4)R over the other histamine receptor subtypes.
-Moreover, 4-methylhistamine potently activated the hH(4)R (pEC(50) = 7.4 +/- 0.1; alpha = 1), and this response was competitively antagonized by the selective H(4)R antagonist JNJ 7777120 [1-[(5-chloro-1H-indol-2-yl)-carbonyl]-4-methylpiperazine] (pA(2) = 7.8).
-The identification of 4-methylhistamine as a potent H(4)R agonist is of major importance for future studies to unravel the physiological roles of the H(4)R.

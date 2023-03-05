@@ -9,4 +9,7 @@ T2	CHEMICAL 304 331	sulfonylphosphoramidic acid
 T3	CHEMICAL 670 690	phosphoramidic acids
 T4	CHEMICAL 711 722	sulfonamido
 T6	CHEMICAL 926 934	UR-14048
-R0	CPR-4 Arg1:T1 Arg2:T10
+R0	CPR-4 Arg1:T8 Arg2:T11
+R1	CPR-4 Arg1:T9 Arg2:T11
+R2	CPR-4 Arg1:T5 Arg2:T10
+R3	CPR-4 Arg1:T1 Arg2:T10

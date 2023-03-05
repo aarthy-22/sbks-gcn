@@ -1,8 +1,0 @@
-Neuropeptide S enhances memory and mitigates memory impairment induced by MK801, scopolamine or Aβ1-42 in mice novel object and object location recognition tasks.
-Neuropeptide S (NPS), the endogenous ligand of NPSR, has been shown to promote arousal and anxiolytic-like effects.
-According to the predominant distribution of NPSR in brain tissues associated with learning and memory, NPS has been reported to modulate cognitive function in rodents.
-Here, we investigated the role of NPS in memory formation, and determined whether NPS could mitigate memory impairment induced by selective N-methyl-d-aspartate receptor antagonist MK801, muscarinic cholinergic receptor antagonist scopolamine or Aβ1-42 in mice, using novel object and object location recognition tasks.
-Intracerebroventricular (i.c.v.) injection of 1 nmol NPS 5 min after training not only facilitated object recognition memory formation, but also prolonged memory retention in both tasks.
-The improvement of object recognition memory induced by NPS could be blocked by the selective NPSR antagonist SHA 68, indicating pharmacological specificity.
-Then, we found that i.c.v. injection of NPS reversed memory disruption induced by MK801, scopolamine or Aβ1-42 in both tasks.
-In summary, our results indicate that NPS facilitates memory formation and prolongs the retention of memory through activation of the NPSR, and mitigates amnesia induced by blockage of glutamatergic or cholinergic system or by Aβ1-42, suggesting that NPS/NPSR system may be a new target for enhancing memory and treating amnesia.

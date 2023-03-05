@@ -9,3 +9,7 @@ T9	GENE-Y 967 977	P-selectin
 T10	GENE-Y 1049 1059	P-selectin
 T1	CHEMICAL 1167 1195	pentasaccharide fondaparinux
 T6	GENE-Y 1309 1319	P-selectin
+R0	NOT Arg1:T2 Arg2:T8
+R1	NOT Arg1:T3 Arg2:T8
+R2	NOT Arg1:T4 Arg2:T8
+R3	NOT Arg1:T10 Arg2:T1

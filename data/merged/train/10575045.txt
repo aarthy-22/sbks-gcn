@@ -1,9 +1,0 @@
-Effects of chronic antidepressant treatments on serotonin transporter function, density, and mRNA level.
-To investigate functional changes in the brain serotonin transporter (SERT) after chronic antidepressant treatment, several techniques were used to assess SERT activity, density, or its mRNA content.
-Rats were treated by osmotic minipump for 21 d with the selective serotonin reuptake inhibitors (SSRIs) paroxetine or sertraline, the selective norepinephrine reuptake inhibitor desipramine (DMI), or the monoamine oxidase inhibitor phenelzine.
-High-speed in vivo electrochemical recordings were used to assess the ability of the SSRI fluvoxamine to modulate the clearance of locally applied serotonin in the CA3 region of hippocampus in drug- or vehicle-treated rats.
-Fluvoxamine decreased the clearance of serotonin in rats treated with vehicle, DMI, or phenelzine but had no effect on the clearance of serotonin in SSRI-treated rats.
-SERT density in the CA3 region of the hippocampus of the same rats, assessed by quantitative autoradiography with tritiated cyanoimipramine ([(3)H]CN-IMI), was decreased by 80-90% in SSRI-treated rats but not in those treated with phenelzine or DMI.
-The serotonin content of the hippocampus was unaffected by paroxetine or sertraline treatment, ruling out neurotoxicity as a possible explanation for the SSRI-induced decrease in SERT binding and alteration in 5-HT clearance.
-Levels of mRNA for the SERT in the raphe nucleus were also unaltered by chronic paroxetine treatment.
-Based on these results, it appears that the SERT is downregulated by chronic administration of SSRIs but not other types of antidepressants; furthermore, the downregulation is not caused by decreases in SERT gene expression.

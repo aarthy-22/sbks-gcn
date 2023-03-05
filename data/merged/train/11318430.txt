@@ -1,7 +1,0 @@
-Pharmacokinetic analysis by high-performance liquid chromatography of intravenous nordihydroguaiaretic acid in the mouse.
-Nordihydroguaiaretic acid (NDGA) has been shown to inhibit both 5-lipoxygenase and ornithine decarboxylase and is active against several cancer cell lines and at least one mouse tumor model.
-Despite these findings, there have been no reports on the pharmacokinetics of NDGA.
-A reverse-phase high-performance liquid chromatography (HPLC) method was developed to detect NDGA in mouse plasma.
-The limit of detection of this method was 0.5 microg/ml.
-Administration of NDGA (50 mg/kg, i.v.) to mice resulted in a peak plasma concentration of 14.7 microg/ml.
-The terminal half-life of NDGA was 135.0 min with a clearance of 201.9 ml/min x kg.

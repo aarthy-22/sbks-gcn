@@ -1,7 +1,0 @@
-Effectors of the activation of human [Glu1]plasminogen by human tissue plasminogen activator.
-The activation of human [Glu1]plasminogen [( Glu1]Pg) by human recombinant (rec) two-chain tissue plasminogen activator (t-PA) is inhibited by Cl-, at physiological concentrations, and stimulated by epsilon-aminocaproic acid (EACA), as well as fibrin(ogen).
-Chloride functions as a result of its binding to [Glu1]Pg, with a Ki of approximately 9.0 mM, thereby rendering [Glu1]Pg a less effective substrate for two-chain rec-t-PA.
-EACA stimulates the activation in Cl-(-)containing solutions, with a Ka of approximately 4.0 mM, primarily by reversal of the Cl-(-)inhibitory effect.
-Fibrinogen appears to exert its stimulatory properties mainly through effects on the enzyme, two-chain rec-t-PA, with a Ka of approximately 3.7 microM in activation systems containing physiological levels of Cl-.
-Analysis of the results of this paper reveals that normal plasma components, Cl- and fibrinogen, exert major regulatory roles on the ability of [Glu1]Pg to be activated by two-chain rec-t-PA, in in vitro systems.
-The presence of Cl- inhibits the stimulation of [Glu1]Pg activation that would normally occur in the presence of fibrinogen, a result of possible importance to the observation that some degree of systemic fibrinogenolysis accompanies therapeutic use of tissue plasminogen activator.

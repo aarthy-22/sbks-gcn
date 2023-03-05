@@ -1,9 +1,0 @@
-The conserved PHD1-PHD2 domain of ZFP-1/AF10 is a discrete functional module essential for viability in Caenorhabditis elegans.
-Plant homeodomain (PHD)-type zinc fingers play an important role in recognizing chromatin modifications and recruiting regulatory proteins to specific genes.
-A specific module containing a conventional PHD finger followed by an extended PHD finger exists in the mammalian AF10 protein, among a few others.
-AF10 has mostly been studied in the context of the leukemic MLL-AF10 fusion protein, which lacks the N-terminal PHD fingers of AF10.
-Although this domain of AF10 is the most conserved region of the protein, its biological significance has not been elucidated.
-In this study, we used genetic and biochemical approaches to examine the PHD1-PHD2 region of the Caenorhabditis elegans ortholog of AF10, zinc finger protein 1 (ZFP-1).
-We demonstrate that the PHD1-PHD2 region is essential for viability and that the first PHD finger contributes to the preferred binding of PHD1-PHD2 to lysine 4-methylated histone H3 tails.
-Moreover, we show that ZFP-1 localization peaks overlap with H3K4 methylation-enriched promoters of actively expressed genes genomewide and that H3K4 methylation is important for ZFP-1 localization to promoters in the embryo.
-We predict that the essential biological role of the PHD1-PHD2 module of ZFP-1/AF10 is connected to the regulation of actively expressed genes during early development.

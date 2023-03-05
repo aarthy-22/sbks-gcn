@@ -1,9 +1,0 @@
-Threshold collision-induced dissociation of hydrated magnesium: experimental and theoretical investigation of the binding energies for Mg(2+)(H2O)x complexes (x=2-10).
-The sequential bond energies of Mg(2+)(H2O)x complexes, in which x=2-10, are measured by threshold collision-induced dissociation in a guided ion beam tandem mass spectrometer.
-From an electrospray ionization source that produces an initial distribution of Mg(2+)(H2O)x complexes in which x=7-10, complexes down to x=3 are formed by using an in-source fragmentation technique.
-Complexes smaller than Mg(2+)(H2O)3 cannot be formed in this source because charge separation into MgOH(+)(H2O) and H3O(+) is a lower-energy pathway than simple water loss from Mg(2+)(H2O)3.
-The kinetic energy dependent cross sections for dissociation of Mg(2+)(H2O)x complexes, in which x=3-10, are examined over a wide energy range to monitor all dissociation products and are modeled to obtain 0 and 298 K binding energies.
-Analysis of both primary and secondary water molecule losses from each sized complex provides thermochemistry for the sequential hydration energies of Mg(2+) for x=2-10 and the first experimental values for x=2-4.
-Additionally, the thermodynamic onsets leading to the charge-separation products from Mg(2+)(H2O)3 and Mg(2+)(H2O)4 are determined for the first time.
-Our experimental results for x=3-7 agree well with quantum chemical calculations performed here and previously calculated binding enthalpies, as well as previous measurements for x=6.
-The present values for x=7-10 are slightly lower than previous experimental results and theory, but within experimental uncertainties.

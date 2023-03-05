@@ -1,9 +1,0 @@
-Impact of glucose infusion on the structural and functional characteristics of adipose tissue and on hypothalamic gene expression for appetite regulatory neuropeptides in the sheep fetus during late gestation.
-In the present study, our aim was to determine whether intrafetal glucose infusion increases fetal adiposity, synthesis and secretion of leptin and regulates gene expression of the 'appetite regulatory' neuropeptides neuropepetide Y (NPY), agouti-related peptide (AGRP), pro-opiomelanocortin (POMC) and cocaine- and amphetamine-regulated transcript (CART) and receptors (leptin receptor (OB-Rb) and melancortin 3 receptor (MC3R)) within the fetal hypothalamus.
-Glucose (50% dextrose in saline) or saline was infused (7.5 ml h(-1)) into fetal sheep between 130 and 140 days gestation (term = 150 +/-
-3 days gestation).
-Glucose infusion increased circulating glucose and insulin concentrations, mean lipid locule size (532.8 +/-
-3.3 microm2 versus 456.7 +/- 14.8 microm2) and total unilocular fat mass (11.7 +/- 0.6 g versus 8.9 +/- 0.6 g) of the perirenal fat depot.
-The expression of OB-Rb mRNA was higher in the ventromedial nucleus compared to the arcuate nucleus of the hypothalamus in both glucose and saline infused fetuses (F= 8.04; P < 0.01) and there was a positive correlation between expression of OB-Rb and MC3R mRNA in the arcuate nucleus (r= 0.81; P < 0.005).
-Glucose infusion increased mRNA expression for POMC, but not for the anorectic neuropeptide CART, or the orexigenic neuropeptides NPY and AGRP, in the arcuate nucleus of the fetal hypothalamus.
-These findings demonstrate that increased circulating glucose and insulin regulate gene expression of the neuropeptides within the fetal hypothalamus that are part of the neural network regulating energy balance in adult life.

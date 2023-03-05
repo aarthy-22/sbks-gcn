@@ -1,7 +1,0 @@
-Comparative formation of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in creatinine/phenylalanine and creatinine/phenylalanine/4-oxo-2-nonenal reaction mixtures.
-The comparative formation of the heterocyclic aromatic amine 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in both creatinine/phenylalanine (CRN/Phe) and creatinine/phenylalanine/4-oxo-2-nonenal (CRN/Phe/ON) systems was studied to analyse the ability of lipid-derived reactive carbonyls to promote PhIP formation.
-Although PhIP was produced to some extent in the CRN/Phe system, the presence of the oxidized lipid increased considerably the amount of PhIP produced.
-This increase seemed to be a consequence of the decrease in the E(a) of the reaction when the lipid was present, which diminished from 112.9 to 80.9 kJ/mol.
-On the other hand, the addition of the lipid did not seem to produce PhIP by an alternative mechanism because PhIP was formed analogously in both CRN/Phe and CRN/Phe/ON systems as a function of pH, creatinine concentration, phenylalanine concentration, time, temperature, oxygen concentration in the reaction atmosphere, and the addition of different amounts of ammonia.
-All these results suggest that the ability of lipid oxidation products to produce PhIP is related to their capacity to induce the Strecker degradation of phenylalanine to phenylacetaldehyde.
-Therefore, any other reactive carbonyl compound that can produce the Strecker degradation of phenylalanine should also be considered as a potential inducer of PhIP formation under appropriate conditions.

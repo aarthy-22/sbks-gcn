@@ -10,5 +10,13 @@ T4	CHEMICAL 444 457	retinaldehyde
 T10	GENE-Y 444 474	retinaldehyde dehydrogenase II
 T5	CHEMICAL 507 515	aldehyde
 T11	GENE-N 507 530	aldehyde dehydrogenases
-R0	NOT Arg1:T8 Arg2:T4
-R1	NOT Arg1:T10 Arg2:T5
+R0	CPR-1 Arg1:T3 Arg2:T10
+R1	NOT Arg1:T1 Arg2:T9
+R2	NOT Arg1:T2 Arg2:T10
+R3	NOT Arg1:T2 Arg2:T11
+R4	NOT Arg1:T8 Arg2:T3
+R5	NOT Arg1:T8 Arg2:T4
+R6	NOT Arg1:T8 Arg2:T5
+R7	NOT Arg1:T3 Arg2:T11
+R8	NOT Arg1:T4 Arg2:T11
+R9	NOT Arg1:T10 Arg2:T5

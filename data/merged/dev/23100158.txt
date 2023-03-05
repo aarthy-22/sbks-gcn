@@ -1,7 +1,0 @@
-Apoptosis initiation of β-ionone in SGC-7901 gastric carcinoma cancer cells via a PI3K-AKT pathway.
-β-ionone has been shown to hold potent anti-proliferative and apoptosis induction properties in vitro and in vivo.
-To investigate the effects of β-ionone on apoptosis initiation and its possible mechanisms of action, we qualified cell apoptosis, proteins related to apoptosis and a phosphatidylinositol 3-kinase (PI3K)-AKT pathway in human gastric adenocarcinoma cancer SGC-7901 cells.
-The results demonstrated that β-ionone-induced apoptosis in a dose-dependent manner in SGC-7901 cells treated with β-ionone (25, 50, 100 and 200 μmol/L) for 24 h. β-ionone was also shown to induce the expression of cleaved-caspase-3 and inhibit bcl-2 expression in SGC-7901 cells in a dose-dependent manner.
-The significantly decreased levels of p-PI3K and p-AKT expression were observed in SGC-7901 cells after β-ionone treatments in a time- and dose-dependent manner (P < 0.01).
-Thus, the apoptosis induction in SGC-7901 cells by β-ionone may be regulated through a PI3K-AKT pathway.
-These results demonstrate a potential mechanism by which β-ionone to induce apoptosis initiation in SGC-7901 cells.

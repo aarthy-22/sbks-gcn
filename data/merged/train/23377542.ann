@@ -18,3 +18,6 @@ T14	GENE-N 730 734	LTRs
 T15	GENE-N 743 773	promoter and enhancer elements
 T16	GENE-N 870 882	LTR enhancer
 T18	GENE-N 953 957	TRIM
+R0	NOT Arg1:T3 Arg2:T1
+R1	NOT Arg1:T4 Arg2:T1
+R2	NOT Arg1:T1 Arg2:T7

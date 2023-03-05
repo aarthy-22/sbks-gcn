@@ -1,7 +1,0 @@
-A step toward the reactivation of aged cholinesterases - Crystal structure of ligands binding to aged human butyrylcholinesterase.
-Organophosphorus nerve agents irreversibly inhibit cholinesterases.
-Phosphylation of the catalytic serine can be reversed by the mean of powerful nucleophiles like oximes. But the phosphyl adduct can undergo a rapid spontaneous reaction leading to an aged enzyme, i.e., a conjugated enzyme that is no longer reactivable by oximes.
-One strategy to regain reactivability is to alkylate the phosphylic adduct.
-Specific alkylating molecules were synthesized and the crystal structures of the complexes they form with soman-aged human butyrylcholinesterase were solved.
-Although the compounds bind in the active site gorge of the aged enzyme, the orientation of the alkylating function appears to be unsuitable for efficient alkylation of the phosphylic adduct.
-However, these crystal structures provide key information to design efficient alkylators of aged-butyrylcholinesterase and specific reactivators of butyrylcholinesterase.

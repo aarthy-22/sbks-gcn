@@ -1,9 +1,0 @@
-A "clickable" MTX reagent as a practical tool for profiling small-molecule-intracellular target interactions via MASPIT.
-We present a scalable synthesis of a versatile MTX reagent with an azide ligation handle that allows rapid γ-selective conjugation to yield MTX fusion compounds (MFCs) appropriate for MASPIT, a three-hybrid system that enables the identification of mammalian cytosolic proteins that interact with a small molecule of interest.
-We selected three structurally diverse pharmacologically active compounds (tamoxifen, reversine, and FK506) as model baits.
-After acetylene functionalization of these baits, MFCs were synthesized via a CuAAC reaction, demonstrating the general applicability of the MTX reagent.
-In analytical mode, MASPIT was able to give concentration-dependent reporter signals for the established target proteins.
-Furthermore, we demonstrate that the sensitivity obtained with the new MTX reagent was significantly stronger than that of a previously used non-regiomeric conjugate mixture.
-Finally, the FK506 MFC was explored in a cellular array screen for targets of FK506.
-Out of a pilot collection of nearly 2000 full-length human ORF preys, FKBP12, the established target of FK506, emerged as the prey protein that gave the highest increase in luciferase activity.
-This indicates that our newly developed synthetic strategy for the straightforward generation of MFCs is a promising asset to uncover new intracellular targets using MASPIT cellular array screening.

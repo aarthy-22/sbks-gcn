@@ -1,8 +1,0 @@
-Furanodiene Presents Synergistic Anti-proliferative Activity With Paclitaxel Via Altering Cell Cycle and Integrin Signaling in 95-D Lung Cancer Cells.
-Furanodiene (FUR) is a natural terpenoid isolated from Rhizoma Curcumae, a well-known Chinese medicinal herb that presents anti-proliferative activities in several cancer cell lines.
-Recently, we found that the combined treatment of FUR with paclitaxel (TAX) showed synergetic anti-proliferative activities in 95-D lung cancer cells.
-Herein, we showed that FUR reduced the cell numbers distributed in mitosis phase induced by TAX while increased those in G1 phase.
-The protein levels of cyclin D1, cyclin B1, CDK6 and c-Myc were all down-regulated in the group of combined treatment.
-The dramatically down-regulated expression of integrin β4, focal adhesion kinase and paxillin might partially contribute to the synergic effect.
-Though FUR alone obviously induced endoplasmic reticulum stress, this signaling pathway may not contribute to the synergetic anti-proliferative effect as the protein expression of CHOP and BIP was similar in FUR alone and combined treatment group.
-Copyright © 2013 John Wiley & Sons, Ltd.

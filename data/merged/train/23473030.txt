@@ -1,6 +1,0 @@
-Iron and diabetes risk.
-Iron overload is a risk factor for diabetes.
-The link between iron and diabetes was first recognized in pathologic conditions-hereditary hemochromatosis and thalassemia-but high levels of dietary iron also impart diabetes risk.
-Iron plays a direct and causal role in diabetes pathogenesis mediated both by β cell failure and insulin resistance.
-Iron also regulates metabolism in most tissues involved in fuel homeostasis, with the adipocyte in particular serving an iron-sensing role.
-The underlying molecular mechanisms mediating these effects are numerous and incompletely understood but include oxidant stress and modulation of adipokines and intracellular signal transduction pathways.

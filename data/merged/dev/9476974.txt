@@ -1,9 +1,0 @@
-Monoamine transporter and sodium channel mechanisms in the rapid pressor response to cocaine.
-Intravenous (I.V.) cocaine (0.03-3 mg/kg) produced dose-dependent, rapid, and brief increases in blood pressure (BP) in conscious rats pretreated with the dopamine receptor antagonist, SCH 23390.
-Monoamine uptake inhibitors structurally analogous to cocaine (cocaethylene, CFT, betaCIT, CPT, (+)-cocaine, norcocaine, and benztropine) also produced this rapid pressor response, whereas structurally unrelated uptake inhibitors with diverse monoamine transporter selectivities (BTCP, indatraline, GBR 12935, mazindol, nomifensine, and zimeldine) either did not produce a rapid pressor response or produced only a small pressor response.
-At nonconvulsant doses, the sodium channel blockers acetylprocainamide, dibucaine, dyclonine, prilocaine, proparacaine, quinidine, and tetracaine produced a small pressor response or no increase in BP.
-In rats implanted with telemetric devices, cocaine and its analog, CFT, produced a biphasic pharmacological response that consisted of an initial brief and abrupt behavioral arousal associated with a rapid, large increase in BP followed by prolonged, parallel increases in BP and locomotor activity.
-Pretreatment with SCH 23390 prevented the prolonged but not the initial rapid and brief pressor and activity responses to both cocaine and CFT administration.
-The present data suggest that the inhibition of dopamine, norepinephrine, or serotonin transporter functions, either alone or in combination, does not mediate the rapid pressor response to cocaine.
-The sodium channel-blocking action of cocaine per se does not appear to be involved in the rapid pressor response to cocaine.
-Finally, the present results confirm previous findings that dopaminergic mechanisms mediate the prolonged increases in BP and locomotor activity produced by cocaine.

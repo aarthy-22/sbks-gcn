@@ -1,8 +1,0 @@
-Activity of the tyrosine kinase inhibitor PKC412 in a patient with mast cell leukemia with the D816V KIT mutation.
-The majority of patients with systemic mast cell disease express the imatinib-resistant Asp816Val (D816V) mutation in the KIT receptor tyrosine kinase.
-Limited treatment options exist for aggressive systemic mastocytosis (ASM) and mast cell leukemia (MCL).
-We evaluated whether PKC412, a small-molecule inhibitor of KIT with a different chemical structure from imatinib, may have therapeutic use in advanced SM with the D816V KIT mutation.
-We treated a patient with MCL (with an associated myelodysplastic syndrome (MDS)/myeloproliferative disorder [MPD]) based on in vitro studies demonstrating that PKC412 could inhibit D816V KIT-transformed Ba/F3 cell growth with a 50% inhibitory concentration (IC50) of 30 nM to 40 nM. The patient exhibited a partial response with significant resolution of liver function abnormalities.
-In addition, PKC412 treatment resulted in a significant decline in the percentage of peripheral blood mast cells and serum histamine level and was associated with a decrease in KIT phosphorylation and D816V KIT mutation frequency.
-The patient died after 3 months of therapy due to progression of her MDS/MPD to acute myeloid leukemia (AML).
-This case indicates that KIT tyrosine kinase inhibition is a feasible approach in SM, but single-agent clinical efficacy may be limited by clonal evolution in the advanced leukemic phase of this disease.

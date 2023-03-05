@@ -1,7 +1,0 @@
-Aldose Reductase Inhibitory Compounds from Xanthium strumarium.
-As part of our ongoing search for natural sources of therapeutic and preventive agents for diabetic complications, we evaluated the inhibitory effects of components of the fruit of Xanthium strumarium (X. strumarium) on aldose reductase (AR) and galactitol formation in rat lenses with high levels of glucose.
-To identify the bioactive components of X. strumarium, 7 caffeoylquinic acids and 3 phenolic compounds were isolated and their chemical structures were elucidated on the basis of spectroscopic evidence and comparison with published data.
-The abilities of 10 X. strumarium-derived components to counteract diabetic complications were investigated by means of inhibitory assays with rat lens AR (rAR) and recombinant human AR (rhAR).
-From the 10 isolated compounds, methyl-3,5-di-O-caffeoylquinate showed the most potent inhibition, with IC50 values of 0.30 and 0.67 μM for rAR and rhAR, respectively.
-In the kinetic analyses using Lineweaver-Burk plots of 1/velocity and 1/substrate, methyl-3,5-di-O-caffeoylquinate showed competitive inhibition of rhAR.
-Furthermore, methyl-3,5-di-O-caffeoylquinate inhibited galactitol formation in the rat lens and in erythrocytes incubated with a high concentration of glucose, indicating that this compound may be effective in preventing diabetic complications.

@@ -17,5 +17,10 @@ T7	GENE-N 1116 1138	monoamine transporters
 T2	CHEMICAL 1155 1169	norepinephrine
 T8	GENE-Y 1155 1181	norepinephrine transporter
 T9	GENE-Y 1183 1186	NET
-R0	NOT Arg1:T5 Arg2:T17
-R1	NOT Arg1:T1 Arg2:T8
+R0	NOT Arg1:T3 Arg2:T11
+R1	NOT Arg1:T4 Arg2:T17
+R2	NOT Arg1:T5 Arg2:T17
+R3	NOT Arg1:T1 Arg2:T8
+R4	NOT Arg1:T1 Arg2:T9
+R5	NOT Arg1:T7 Arg2:T2
+R6	NOT Arg1:T2 Arg2:T9

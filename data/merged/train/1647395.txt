@@ -1,8 +1,0 @@
-Evidence that estramustine binds MAP-1A to inhibit type IV collagenase secretion.
-Estramustine is a novel anti-microtubule drug shown to bind MAP-1 and MAP-2 (microtubule-associated proteins) in vitro.
-In this paper we have shown that estramustine specifically binds MAP-1A in Du 145a cells, resulting in disruption of MAP-1A microtubules and inhibition of type IV collagenase secretion.
-Immunofluorescence studies revealed that at 30 microM levels estramustine blocked type IV collagenase secretion by partial disruption of the MAP-1A microtubule networks.
-Immunoprecipitation studies with polyclonal antibodies provided quantitative evidence that 30-60 microM estramustine blocked secretion of a 105 x 10(3) Mr type IV collagenase.
-Pulse-labeling experiments confirmed that the effect was not a result of inhibition of either protein synthesis or altered rates of type IV collagenase turnover.
-Finally, drug uptake studies with [3H]estramustine, scintillation counting and fluorography demonstrated that the principal target of the drug was MAP-1A.
-For the first time we have shown that the drug blocks secretion by binding MAP-1A and causing incomplete disruption of the microtubule networks.

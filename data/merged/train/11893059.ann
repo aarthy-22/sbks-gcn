@@ -6,4 +6,6 @@ T1	CHEMICAL 362 375	physostigmine
 T2	CHEMICAL 380 387	tacrine
 T3	CHEMICAL 643 666	Donepezil hydrochloride
 T8	GENE-Y 694 698	AChE
-R0	CPR-4 Arg1:T2 Arg2:T7
+R0	CPR-4 Arg1:T1 Arg2:T7
+R1	CPR-4 Arg1:T2 Arg2:T7
+R2	CPR-4 Arg1:T3 Arg2:T8

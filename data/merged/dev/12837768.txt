@@ -1,8 +1,0 @@
-chi-Conopeptide MrIA partially overlaps desipramine and cocaine binding sites on the human norepinephrine transporter.
-The interactions of chi-conopeptide MrIA with the human norepinephrine transporter (hNET) were investigated by determining the effects of hNET point mutations on the inhibitory potency of MrIA.
-The mutants were produced by site-directed mutagenesis and expressed in COS-7 cells.
-The potency of MrIA was greater for inhibition of uptake by hNET of [3H]norepinephrine (Ki 1.89 microM) than [3H]dopamine (Ki 4.33 microM), and the human dopamine transporter and serotonin transporter were not inhibited by MrIA (to 7 microM).
-Of 18 mutations where hNET amino acid residues were exchanged with those of the human dopamine transporter, MrIA had increased potency for inhibition of [3H]norepinephrine uptake for three mutations (in predicted extracellular loops 3 and 4 and transmembrane domain (TMD) 8) and decreased potency for one mutation (in TMD6 and intracellular loop (IL) 3).
-Of the 12 additional mutations in TMDs 2, 4, 5, and 11 and IL1, three mutations (in TMD2 and IL1) had reduced MrIA inhibitory potency.
-All of the other mutations tested had no influence on MrIA potency.
-A comparison of the results with previous data for desipramine and cocaine inhibition of norepinephrine uptake by the mutant hNETs reveals that MrIA binding to hNET occurs at a site that is distinct from but overlaps with the binding sites for tricyclic antidepressants and cocaine.

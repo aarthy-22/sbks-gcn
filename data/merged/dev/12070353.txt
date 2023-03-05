@@ -1,8 +1,0 @@
-A molecular mechanism of action of theophylline: Induction of histone deacetylase activity to decrease inflammatory gene expression.
-The molecular mechanism for the anti-inflammatory action of theophylline is currently unknown, but low-dose theophylline is an effective add-on therapy to corticosteroids in controlling asthma.
-Corticosteroids act, at least in part, by recruitment of histone deacetylases (HDACs) to the site of active inflammatory gene transcription.
-They thereby inhibit the acetylation of core histones that is necessary for inflammatory gene transcription.
-We show both in vitro and in vivo that low-dose theophylline enhances HDAC activity in epithelial cells and macrophages.
-This increased HDAC activity is then available for corticosteroid recruitment and predicts a cooperative interaction between corticosteroids and theophylline.
-This mechanism occurs at therapeutic concentrations of theophylline and is dissociated from phosphodiesterase inhibition (the mechanism of bronchodilation) or the blockade of adenosine receptors, which are partially responsible for its side effects.
-Thus we have shown that low-dose theophylline exerts an anti-asthma effect through increasing activation of HDAC which is subsequently recruited by corticosteroids to suppress inflammatory genes.

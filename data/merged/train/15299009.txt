@@ -1,5 +1,0 @@
-A disorder to order transition accompanies catalysis in retinaldehyde dehydrogenase type II.
-Retinaldehyde dehydrogenase II (RalDH2) converts retinal to the transcriptional regulator retinoic acid in the developing embryo.
-The x-ray structure of the enzyme revealed an important structural difference between this protein and other aldehyde dehydrogenases of the same enzyme superfamily; a 20-amino acid span in the substrate access channel in retinaldehyde dehydrogenase II is disordered, whereas in other aldehyde dehydrogenases this region forms a well defined wall of the substrate access channel.
-We asked whether this disordered loop might order during the course of catalysis and provide a means for an enzyme that requires a large substrate access channel to restrict access to the catalytic machinery by smaller compounds that might potentially enter the active site and be metabolized.
-Our experiments, a combination of kinetic, spectroscopic, and crystallographic techniques, suggest that a disorder to order transition is linked to catalytic activity.

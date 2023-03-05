@@ -1,8 +1,0 @@
-Brugada syndrome without mutation of the cardiac sodium channel gene in a Taiwanese patient.
-We describe a 45-year-old Taiwanese man with specific features of Brugada syndrome but no clinical features of structural heart disease.
-He was successfully treated with an implantable cardioverter-defibrillator.
-His electrocardiogram (ECG) patterns changed intermittently.
-Alpha-adrenoceptor stimulation and beta-adrenoceptor blockade augmented the characteristic ST-segment elevation, whereas alpha-adrenoceptor blockade and beta-adrenoceptor stimulation mitigated the ST-segment elevation.
-Intravenous procainamide administration did not aggravate ST-segment elevation when ECG had shown coved ST elevation in the right precordial leads.
-Molecular study did not reveal the same mutations in the cardiac sodium channel gene (SCN5A) as previously reported in Brugada syndrome.
-This case demonstrates the genetic heterogeneity of SCN5A in Brugada syndrome.

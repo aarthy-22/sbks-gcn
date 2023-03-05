@@ -1,5 +1,0 @@
-The decrease of catalase or esterase D activity in patients with microdeletions of 11p or 13q does not increase their radiosensitivity.
-Lymphocyte cultures from patients affected by retinoblastoma (Rb), with or without a microdeletion of chromosome 13, and Wilms tumor (WT), with a microdeletion of chromosome 11p where exposed to gamma-ray radiation during S and G2 phases.
-Chromatid and chromosome lesions were scored and compared to those observed in controls.
-No significant differences were detected, neither between patients and controls, nor between patients carrying or not a microdeletion.
-This lack of difference was unexpected since the genes for catalase and esterase D, also called S-formyl glutathione hydrolase, which are two detoxication enzymes, are deleted in case of microdeletion of 11p and 13q, respectively.

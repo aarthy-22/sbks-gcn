@@ -1,8 +1,0 @@
-Synthesis, dihydrofolate reductase inhibition, antitumor testing, and molecular modeling study of some new 4(3H)-quinazolinone analogs.
-In order to produce potent new leads for anticancer drugs, a new series of quinazoline analogs was designed to resemble methotrexate (MTX, 1) structure features and fitted with functional groups believed to enhance inhibition of mammalian DHFR activity.
-Molecular modeling studies were used to assess the fit of these compounds within the active site of human DHFR.
-The synthesized compounds were evaluated for their ability to inhibit mammalian DHFR in vitro and for their antitumor activity in a standard in vitro tissue culture assay panel.
-Compounds 28, 30, and 31 were the most active DHFR inhibitors with IC(50) values of 0.5, 0.4, and 0.4microM, respectively.
-The most active antitumor agents in this study were compounds 19, 31, 41, and 47 with median growth inhibitory concentrations (GI(50)) of 20.1, 23.5, 26.7, and 9.1microM, respectively.
-Of this series of compounds, only compound 31 combined antitumor potency with potent DHFR inhibition; the other active antitumor compounds (19, 41, and 47) all had DHFR IC(50) values above 15microM, suggesting that they might exert their antitumor potency through some other mode of action.
-Alternatively, the compounds could differ significantly in uptake or concentration within mammalian cells.

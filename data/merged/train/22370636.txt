@@ -1,6 +1,0 @@
-Conditional activation of Pik3ca(H1047R) in a knock-in mouse model promotes mammary tumorigenesis and emergence of mutations.
-Oncogenic mutations in PIK3CA, which encodes the phosphoinositide-3-kinase (PI3K) catalytic subunit p110α, occur in ∼25% of human breast cancers.
-In this study, we report the development of a knock-in mouse model for breast cancer where the endogenous Pik3ca allele was modified to allow tissue-specific conditional expression of a frequently found Pik3ca(H1047R) (Pik3ca(e20H1047R)) mutant allele.
-We found that activation of the latent Pik3ca(H1047R) allele resulted in breast tumors with multiple histological types.
-Whole-exome analysis of the Pik3ca(H1047R)-driven mammary tumors identified multiple mutations, including Trp53 mutations that appeared spontaneously during the development of adenocarinoma and spindle cell tumors.
-Further, we used this model to test the efficacy of GDC-0941, a PI3K inhibitor, in clinical development, and showed that the tumors respond to PI3K inhibition.

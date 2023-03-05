@@ -1,4 +1,0 @@
-Synthesis and micellar mimic properties of bile acid trimers.
-Two fan-shaped bile acid trimers have been synthesized via Cu(I)-catalyzed azide-alkyne cycloaddition (CuAAC) 'click chemistry', and their extraction experiments of cresol red sodium (CR) and pyrene were investigated in the polar and non-polar solvents, respectively.
-The transmission electron microscopy (TEM) results showed that the homogenous hollow capsules formed with the diameter size range of 40-70 nm in a solution of water and acetone.
-Thus the amphiphilicity of fan-shaped bile acid trimers might be used as the promising candidate in biological and drug delivery applications.

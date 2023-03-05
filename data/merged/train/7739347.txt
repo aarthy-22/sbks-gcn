@@ -1,5 +1,0 @@
-Opioid receptor interaction and adenylyl cyclase inhibition of dihydroetorphine: direct comparison with etorphine.
-To find out the reason of weak addiction property of dihydroetorphine, we compared the affinities of dihydroetorphine to the type selective opioid receptor and inhibition effect on the adenylyl cyclase activity with those of etorphine.
-Dihydroetorphine and etorphine have almost the same binding affinities to all types (mu, delta, and kappa) of opioid receptors and antagonist binding sites, and have similar inhibition activities to forskolin stimulated adenylyl cyclase.
-However, dihydroetorphine showed significantly smaller value of DTNB-index compared with that of etorphine.
-This differentiation may explain partly the high analgesic with low dependence properties of dihydroetorphine.

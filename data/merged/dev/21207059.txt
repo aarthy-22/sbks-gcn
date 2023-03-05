@@ -1,8 +1,0 @@
-N-carbamylglutamate treatment for acute neonatal hyperammonemia in isovaleric acidemia.
-Hyperammonemia occurs mainly in patients with branched-chain organic acidemias such as propionic, methylmalonic, and isovaleric acidemias.
-Its pathophysiological process is mainly via the competitive inhibition of N-acetylglutamate synthetase.
-Oral carglumic acid (N-carbamylglutamate) administration can correct hyperammonemia in neonates with propionic and methylmalonic acidemias, thus avoiding dialysis therapy.
-Isovaleric acidemia is an autosomal recessive disease of leucine metabolism due to deficiency of isovaleryl-CoA dehydrogenase.
-For the first time, we report a neonate with isovaleric acidemia, whose plasma ammonia concentration dropped dramatically after one oral load of carglumic acid.
-This experience suggests that carglumic acid could be considered for acute hyperammonemia resulting from isovaleric acidemia.
-However, trials with more patients are needed.

@@ -1,7 +1,0 @@
-Characterization of organic anion transport inhibitors using cells stably expressing human organic anion transporters.
-The organic anion transport system is involved in the tubular excretion of various clinically important drugs.
-The purpose of this study was to characterize the effects of various organic anion transport inhibitors on organic anion transport using proximal tubule cells stably expressing human organic anion transporter 1 (human-OAT1) and human-OAT3, which are localized to the basolateral membrane of the proximal tubule.
-Organic anion transport inhibitors including betamipron, cilastatin, KW-3902 (8-(noradamantan-3-yl)-1,3-dipropylxanthine) and probenecid significantly inhibited human-OAT1- and human-OAT3-mediated organic anion uptake in a dose-dependent manner.
-Kinetic analyses revealed that these inhibitions were competitive.
-The Ki values of betamipron, cilastatin, KW-3902 and probencid for human-OAT1 were 23.6, 1470, 7.82 and 12.1 microM, whereas those for human-OAT3 were 48.3, 231, 3.70 and 9.0 microM. These results suggest that betamipron and probenecid could inhibit both human-OAT1- and human-OAT3-mediated organic anion transport in vivo, whereas cilastatin could inhibit only human-OAT3-mediated one.
-In contrast, KW-3902 did not exert the effects of significance, whereas KW-3902 was the most potent.

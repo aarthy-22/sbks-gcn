@@ -1,8 +1,0 @@
-Warfarin dose and the pharmacogenomics of CYP2C9 and VKORC1 - rationale and perspectives.
-Warfarin is the most widely prescribed oral anticoagulant, but there is greater than 10-fold interindividual variability in the dose required to attain a therapeutic response.
-Information from pharmacogenomics, the study of the interaction of an individual's genotype and drug response, can help optimize drug efficacy while minimizing adverse drug reactions.
-Pharmacogenetic analysis of two genes, the warfarin metabolic enzyme CYP2C9 and warfarin target enzyme, vitamin K epoxide reductase complex 1 VKORC1, confirmed their influence on warfarin maintenance dose.
-Possession of CYP2C9*2 or CYP2C9*3 variant alleles, which result in decreased enzyme activity, is associated with a significant decrease in the mean warfarin dose.
-Several single nucleotide polymorphisms (SNPs) in VKORC1 are associated with warfarin dose across the normal dose range.
-Haplotypes based on these SNPs explain a large fraction of the interindividual variation in warfarin dose, and VKORC1 has an approximately three-fold greater effect than CYP2C9.
-Algorithms incorporating genetic (CYP2C9 and VKORC1), demographic, and clinical factors to estimate the warfarin dosage, could potentially minimize the risk of over dose during warfarin induction.

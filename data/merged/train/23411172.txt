@@ -1,8 +1,0 @@
-Apple polyphenols suppress antigen presentation of ovalbumin by THP-1-derived dendritic cells.
-Apple polyphenol extract (AP) and procyanidin contained in AP were investigated for their immunomodulatory effects using THP-1-derived human dendritic cells (TDDCs).
-The expression levels of HLA-DR (MHC class II) and CD86 (costimulatory molecule) were measured as an indicator of antigen presentation in TDDCs.
-A significant decrease in HLA-DR expression was observed in the AP and fractionated procyanidin-treated cells in the presence of ovalbumin (OVA), but no effect on CD86 expression was observed.
-The uptake of OVA was not inhibited by AP treatment, and the gene expression of membrane-associated RING-CH ubiquitin E3 ligase, MARCH1, was up-regulated by AP treatment.
-It can therefore be presumed that AP suppresses HLA-DR expression via the ubiquitin-proteasome pathway.
-Furthermore, the up-regulation of IL-12 and TNF-α was found in the procyanidin trimers-treated cells in the presence of OVA.
-These results suggest that apple polyphenols would be an effective factor for the development of immunomodulatory agents with suppressive effects of antigen presentation.

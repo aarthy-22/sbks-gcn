@@ -1,2 +1,3 @@
 T2	GENE-Y 2094 2114	acetylcholinesterase
 T1	CHEMICAL 2132 2143	neostigmine
+R0	CPR-4 Arg1:T1 Arg2:T2

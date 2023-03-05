@@ -1,6 +1,0 @@
-Green approach&#8212;multicomponent production of boron&#8212;containing hantzsch and biginelli esters.
-Multicomponent reactions are excellent methods that meet the requirements of green chemistry, by reducing the number of steps, and consequently reducing purification requirements.
-Accordingly, in this work, 11 novel hybrid-boron-containing molecules, namely eight 1,4-dihydropyridines and three 3,4-dihydropyrimidinones, derived from formylphenylboronic acids (ortho, meta and para), were obtained using a green approach, involving H-4CR and B-3CR practices, in the presence of ethanol, which is a green solvent, and using three comparatively different modes of activation (mantle heating, yield 3%-7% in 24 h, Infrared Radiation (IR) irradiation, yield 12%-17% in 12 h, and microwave irradiation, yield 18%-80%, requiring very low reaction times of 0.25-0.33 h).
-In addition, as a green-approach is offered, a convenient analysis, of the 12 green chemistry principles for the overall procedure was performed.
-Finally, since all the products are new, characterizations were carried out using common analytic procedures (1H, 11B, and 13C NMR, FAB+MS, HRMS, and IR).
-The accurate mass data of unexpected ions related to interactions between thioglycerol and the expected products, in the FAB+-mode, enabled unequivocal characterization of the target molecules.

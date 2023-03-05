@@ -8,3 +8,5 @@ T5	CHEMICAL 499 526	amentadione-1'-methyl ether
 T6	CHEMICAL 607 619	usneoidone Z
 T9	GENE-N 745 753	cytokine
 T10	GENE-Y 754 759	TNF-α
+R0	CPR-4 Arg1:T6 Arg2:T9
+R1	CPR-4 Arg1:T6 Arg2:T10

@@ -1,8 +1,0 @@
-Radioprotection by two phenolic compounds: chlorogenic and quinic acid, on X-ray induced DNA damage in human blood lymphocytes in vitro.
-The present study was designed to determine the radioprotective effect of two phytochemicals, namely, quinic acid and chlorogenic acid, against X-ray irradiation-induced genomic instability in non-tumorigenic human blood lymphocytes.
-The protective ability of two phenolic acids against radiation-induced DNA damage was assessed using the alkaline comet assay in human blood lymphocytes isolated from two healthy human donors.
-A Siemens Mevatron MD2 (Siemens AG, USA, 1994) linear accelerator was used for irradiation.
-The results of the alkaline comet assay revealed that quinic acid and chlorogenic acid decreased the DNA damage induced by X-ray irradiation and provided a significant radioprotective effect.
-Quinic acid decreased the presence of irradiation-induced DNA damage by 5.99-53.57% and chlorogenic acid by 4.49-48.15%, as determined by the alkaline comet assay.
-The results show that quinic acid and chlorogenic acid may act as radioprotective compounds.
-Future studies should focus on determining the mechanism by which these phenolic acids provide radioprotection.

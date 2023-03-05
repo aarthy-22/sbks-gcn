@@ -1,5 +1,0 @@
-Design, synthesis, characterization and biological evaluation of novel pyrazole integrated benzophenones.
-A series of novel pyrazole integrated benzophenones (9a-j) have been designed, synthesized from 1-methyl-5-(2,4,6-trimethoxy-phenyl)-1H-pyrazole 6.
-The structures of the regioisomers 6 and 7 were determined by 2D (1)H-(1)H COSY, (1)H-(13)C HSQC and (1)H-(13)C HMBC experiments.
-The newly synthesized compounds (9a-j) were evaluated for in vivo anti-inflammatory activity by carrageenan paw edema in rats and in vitro COX-1/COX-2 inhibition and antioxidant potential.
-Among the synthesized compounds, compounds 9b, 9d and 9f, were found to be active anti-inflammatory agents in addition to having potent antioxidant activity.

@@ -12,3 +12,4 @@ T12	CHEMICAL 1017 1032	ethylene glycol
 T13	CHEMICAL 1036 1048	aminoethanol
 T1	CHEMICAL 1115 1129	boronate ester
 T14	GENE-Y 1238 1254	antithrombin III
+R0	NOT Arg1:T1 Arg2:T14

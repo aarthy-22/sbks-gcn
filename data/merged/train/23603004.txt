@@ -1,9 +1,0 @@
-Protective effects of naringin against paraquat-induced acute lung injury and pulmonary fibrosis in mice.
-The present study evaluates protective effects of naringin against paraquat (PQ)-induced acute lung injury (ALI) and pulmonary fibrosis in mice.
-Survival probability against PQ intoxication was tested by a single intraperitoneal injection of PQ.
-Results showed that survival rates of mice exposed to PQ only (50mg/kg within 7days) were much lower than that in mice daily treatment with NAC or naringin.
-Moreover, protection against PQ-induced ALI was tested by daily pretreatment mice with saline, NAC or naringin for 3days before PQ (30mg/kg, i.p.).
-Results showed that increase in leukocytes infiltration and overexpressions of TNF-α and TGF-β1 caused by 8h of PQ exposure were dose-dependently ameliorated by naringin.
-Furthermore, protection against PQ-induced pulmonary fibrosis was tested by pretreatment mice with PQ (20mg/kg, i.p.), and then daily administration with saline, NAC or naringin for prolonged 21days.
-Results showed that naringin of 60 and 120mg/kg significantly reduced PQ-induced upregulations of TNF-α, TGF-β1, MMP-9 and TIMP-1, levels of pulmonary malonaldehyde and hydroxyproline, as well as pulmonary fibrosis deposition, while increased activities of SOD, GSH-Px and HO-1.
-These results indicated that naringin had effective protection against PQ-induced ALI and pulmonary fibrosis.

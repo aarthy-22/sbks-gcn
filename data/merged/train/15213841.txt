@@ -1,8 +1,0 @@
-Confocal microscopy analysis of native, full length and B-domain deleted coagulation factor VIII trafficking in mammalian cells.
-In mammalian cells, factor VIII (FVIII) secretion depends upon its interaction with chaperones of the endoplasmic reticulum (ER) and requires a unique ATP-dependent step to dissociate aggregates formed within the ER.
-To further elucidate mechanisms which might account for the inefficient secretion of recombinant FVIII (rFVIII), we have analyzed the pathways of recombinant full length (rFVIII-FL) and B-domain deleted (rFVIII Delta B) FVIII and compared these to the secretion route of native FVIII in primary hepatocytes.
-Using confocal laser scanning microscopy in combination with a pulse chase of a known secretion marker, we describe the trafficking route of FVIII, which upon release from the ER--where it colocalizes with calnexin--is transported to the Golgi complex in vesicular-tubular transport complexes (VTCs) which could be further identified as being COP I coated.
-However, a large portion of rFVIII is retained in the ER and additionally in structures which could not be assigned to the ER, Golgi complex or intermediate compartment.
-Moderate BiP transcription levels indicate that this observed retention of FVIII does not reflect cellular stress due to an overexpression of FVIII-protein in transduced cells.
-Moreover, a pulse of newly synthesized rFVIII protein is released within 4 hrs, indicating that once rFVIII is released from the ER there is no further limitation to its secretion.
-Our data provide new details about the secretory route of FVIII, which may ultimately help to identify factors currently limiting the efficient and physiological expression of FVIII in gene therapy and manufacture.

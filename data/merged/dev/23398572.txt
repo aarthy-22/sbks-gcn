@@ -1,6 +1,0 @@
-Strong effects of cluster size and air exposure on oxygen reduction and carbon oxidation electrocatalysis by size-selected Pt(n) (n ≤ 11) on glassy carbon electrodes.
-Model Pt(n)/glassy carbon electrodes (Pt(n)/GCE) were prepared by deposition of mass-selected Pt(n)(+) (n ≤ 11) on GCE substrates in ultrahigh vacuum.
-Electrocatalysis under conditions appropriate for the oxygen reduction reaction (ORR) was studied, for samples both in situ with no exposure to laboratory air and with air exposure prior to electrochemical measurements.
-Of the small clusters, only a few cluster sizes show the expected ORR activity, and in those cases, the activity per Pt atom is similar to that seen under identical conditions with a conventionally prepared electrode with Pt nanoparticles grown on a GCE.
-For other small Pt(n) on GCE, any ORR signal is overwhelmed by large oxidative currents attributed to catalysis of carbon oxidation by water.
-If the samples are exposed to air prior to electrochemistry, both ORR and carbon oxidation signals are absent, and instead only small capacitive currents or currents attributed to redox chemistry of adventitious organic adsorbates are observed, indicating that air exposure results in passivation of the small Pt clusters.

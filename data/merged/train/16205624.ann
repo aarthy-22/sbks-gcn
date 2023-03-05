@@ -11,3 +11,6 @@ T5	CHEMICAL 944 951	timolol
 T7	GENE-Y 1114 1133	beta-2 adrenoceptor
 T8	GENE-N 1208 1225	beta adrenoceptor
 T1	CHEMICAL 1334 1341	timolol
+R0	CPR-6 Arg1:T3 Arg2:T12
+R1	NOT Arg1:T13 Arg2:T6
+R2	NOT Arg1:T2 Arg2:T10

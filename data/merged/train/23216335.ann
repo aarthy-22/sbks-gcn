@@ -1,2 +1,3 @@
 T1	CHEMICAL 649 658	androgens
 T2	GENE-Y 674 681	insulin
+R0	NOT Arg1:T1 Arg2:T2

@@ -1,5 +1,0 @@
-Changes in sensitivity to anticancer drugs during TPA-induced cellular differentiation in a human T-lymphoblastoid cell line (MOLT-4).
-After four days of treatment with 10(-8) M TPA, differentiation of the human T-lymphoblastoid cell line MOLT-4 was induced along the T cell lineage, confirmed by a fall in adenosine deaminase and 5'-ectonucleotidase and a rise in purine nucleoside phosphorylase activity.
-TPA-treated cells became resistant to the cytotoxic effects of 1-beta-D-arabinofuranosylcytosine (Ara-C), 9-beta-D-arabinofuranosyladenine (Ara-A), and 2-chlorodeoxyadenosine.
-This was, in part, due to the altered cell cycle distribution (accumulation of cells in the G1 phase), since the toxicity of Ara-C and Ara-A is S phase specific.
-The diminished rate of Ara-C transport concomitant with Ara-CTP formation after TPA treatment is considered to be the biochemical basis for this acquired resistance.

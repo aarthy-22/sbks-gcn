@@ -9,3 +9,4 @@ T4	CHEMICAL 1587 1604	2-mercaptoethanol
 T5	CHEMICAL 1626 1640	polyacrylamide
 T8	GENE-N 1662 1681	calcitonin receptor
 T6	CHEMICAL 2012 2015	S-S
+R0	NOT Arg1:T5 Arg2:T8

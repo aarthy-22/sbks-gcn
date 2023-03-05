@@ -1,7 +1,0 @@
-Synthesis and cancer stem cell-based activity of substituted 5-morpholino-7H-thieno[3,2-b]pyran-7-ones designed as next generation PI3K inhibitors.
-Dysregulation of the phosphatidylinositol-3-kinase (PI3K) pathway in a wide range of tumors has made PI3K a consensus target to inhibit as illustrated by more than 15 inhibitors now in clinical trials.
-Our previous work, built on the early pioneering multikinase inhibitor LY294002, resulted in the only PI3K vascular-targeted PI3K inhibitor prodrug, SF1126, which has now completed Phase I clinical trials.
-This inhibitor has properties that impart more in vivo activity than should be warranted by its enzymatic potency, which in general is much lower than other clinical stage PI3K inhibitors.
-We embarked on the exploration of scaffolds that retained such properties while simultaneously exhibiting an increased potency toward PI3K.
-This work resulted in the discovery of the 5-morpholino-7H-thieno[3,2-b]pyran-7-one system as the foundation of a new compound class of potential PI3K inhibitors having improved potency toward PI3K.
-The synthesis and cancer stem cell-based activity of these compounds are reported herein.

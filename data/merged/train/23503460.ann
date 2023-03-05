@@ -7,4 +7,6 @@ T6	GENE-N 522 528	tensin
 T1	CHEMICAL 650 670	phosphatidylinositol
 T7	GENE-N 650 680	phosphatidylinositol 3--kinase
 T8	GENE-N 836 847	phosphatase
-R0	NOT Arg1:T5 Arg2:T1
+R0	NOT Arg1:T4 Arg2:T1
+R1	NOT Arg1:T5 Arg2:T1
+R2	NOT Arg1:T6 Arg2:T1

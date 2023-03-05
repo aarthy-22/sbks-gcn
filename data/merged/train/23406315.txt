@@ -1,9 +1,0 @@
-A genetically encoded and gate for cell-targeted metabolic labeling of proteins.
-We describe a genetic AND gate for cell-targeted metabolic labeling and proteomic analysis in complex cellular systems.
-The centerpiece of the AND gate is a bisected methionyl-tRNA synthetase (MetRS) that charges the Met surrogate azidonorleucine (Anl) to tRNA(Met).
-Cellular protein labeling occurs only upon activation of two different promoters that drive expression of the N- and C-terminal fragments of the bisected MetRS.
-Anl-labeled proteins can be tagged with fluorescent dyes or affinity reagents via either copper-catalyzed or strain-promoted azide-alkyne cycloaddition.
-Protein labeling is apparent within 5 min after addition of Anl to bacterial cells in which the AND gate has been activated.
-This method allows spatial and temporal control of proteomic labeling and identification of proteins made in specific cellular subpopulations.
-The approach is demonstrated by selective labeling of proteins in bacterial cells immobilized in the center of a laminar-flow microfluidic channel, where they are exposed to overlapping, opposed gradients of inducers of the N- and C-terminal MetRS fragments.
-The observed labeling profile is predicted accurately from the strengths of the individual input signals.

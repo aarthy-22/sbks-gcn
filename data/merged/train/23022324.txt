@@ -1,9 +1,0 @@
-Inhibition of neurite outgrowth and alteration of cytoskeletal gene expression by sodium arsenite.
-Arsenic compounds that are often found in drinking water increase the risk of developmental brain disorders.
-In this study, we performed live imaging analyses of Neuro-2a cells expressing SCAT3, a caspase-3 cleavage peptide sequence linking two fluorescent proteins; enhanced cyan fluorescence protein (ECFP) and Venus, to determine whether sodium arsenite (NaAsO(2); 0, 1, 5, or 10 μM) affects both neurite outgrowth and/or induces apoptosis with the same doses and in the same cell cultures.
-We observed that the area ratio of neurite to cell body in SCAT3-expressing cells was significantly reduced by 5 and 10 μM NaAsO(2), but not by 1 μM, although the emission ratio of ECFP to Venus, an endpoint of caspase-3 activity, was not changed.
-However, cytological assay using apoptotic and necrotic markers resulted in that apoptosis, but not necrosis, was significantly induced in Neuro-2a cells when NaAsO(2) exposure continued after the significant effects of NaAsO(2) on neurite outgrowth were found by live imaging.
-These results suggested that neurite outgrowth was suppressed by NaAsO(2) prior to NaAsO(2)-induced apoptosis.
-Next, we examined the effects of NaAsO(2) on cytoskeletal gene expression in Neuro-2a cells.
-NaAsO(2) increased the mRNA levels of the light and medium subunits of neurofilament and decreased the mRNA levels of tau and tubulin in a dose-dependent manner; no significant effect was found in the mRNA levels of the heavy subunit of neurofilament, microtubule-associated protein 2, or actin.
-The changes in cytoskeletal gene expression are likely responsible for the inhibitory effects of NaAsO(2) on neurite outgrowth.

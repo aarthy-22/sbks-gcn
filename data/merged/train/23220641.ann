@@ -10,5 +10,12 @@ T5	GENE-N 183 191	Sirtuins
 T6	GENE-N 355 363	sirtuins
 T9	GENE-N 541 559	parasitic sirtuins
 T11	GENE-N 815 833	parasitic sirtuins
-R0	NOT Arg1:T7 Arg2:T3
-R1	NOT Arg1:T7 Arg2:T1
+R0	NOT Arg1:T4 Arg2:T2
+R1	NOT Arg1:T4 Arg2:T3
+R2	NOT Arg1:T4 Arg2:T1
+R3	NOT Arg1:T7 Arg2:T2
+R4	NOT Arg1:T7 Arg2:T3
+R5	NOT Arg1:T7 Arg2:T1
+R6	NOT Arg1:T8 Arg2:T2
+R7	NOT Arg1:T8 Arg2:T3
+R8	NOT Arg1:T8 Arg2:T1

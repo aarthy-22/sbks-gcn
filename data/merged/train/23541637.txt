@@ -1,8 +1,0 @@
-Aldosterone-induced ENaC and basal Na(+)/K(+)-ATPase trafficking via protein kinase D1-phosphatidylinositol 4-kinaseIIIβ trans Golgi signalling in M1 cortical collecting duct cells.
-Aldosterone regulates Na(+) transport in the distal nephron through multiple mechanisms that include the transcriptional control of epithelial sodium channel (ENaC) and Na(+)/K(+)-ATPase subunits.
-Aldosterone also induces the rapid phosphorylation of Protein Kinase D1 (PKD1).
-PKD isoforms regulate protein trafficking, by the control of vesicle fission from the trans Golgi network (TGN) through activation of phosphatidylinositol 4-kinaseIIIβ (PI4KIIIβ).
-We report rapid ENaCγ translocation to the plasma membrane after 30min aldosterone treatment in polarized M1 cortical collecting duct cells, which was significantly impaired in PKD1 shRNA-mediated knockdown cells.
-In PKD1-deficient cells, the ouabain-sensitive current was significantly reduced and Na(+)/K(+)-ATPase α and β subunits showed aberrant localization.
-PKD1 and PI4KIIIβ localize to the TGN, and aldosterone induced an interaction between PKD1 and PI4KIIIβ following aldosterone treatment.
-This study reveals a novel mechanism for rapid regulation of ENaC and the Na(+)/K(+)-ATPase, via directed trafficking through PKD1-PI4KIIIβ signalling at the level of the TGN.

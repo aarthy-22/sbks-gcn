@@ -1,4 +1,0 @@
-Correlation between activation of PPARγ and resistin downregulation in a mouse adipocyte cell line by a series of thiazolidinediones.
-The present study shows significant correlations between the EC50 for PPARγ activation in a reporter gene cell line and resistin downregulation in mouse adipocytes, and between the IC50 for resistin downregulation and the already published minimum effective dose for antihyperglycemic activity in a mouse model.
-These correlations indicate that PPARγ mediated downregulation of resistin might promote insulin sensitivity and that downregulation of resistin in mouse adipocytes provides an adequate and possibly more direct bioassay for screening of newly developed antihyperglycemic compounds.
-Because of the higher throughput of the PPARγ the resistin downregulation assays seems most suitable to be used as a second tier in a tiered screening strategy.

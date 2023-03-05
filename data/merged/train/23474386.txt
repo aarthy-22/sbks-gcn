@@ -1,6 +1,0 @@
-Novel 5-(benzyloxy)pyridin-2(1H)-one derivatives as potent c-Met inhibitors.
-A series of novel 5-(benzyloxy)pyridin-2(1H)-ones were designed, synthesized and biologically evaluated for c-Met inhibition.
-Various amides and benzoimidazoles at C-3 position were investigated.
-A potent compound 12b with a c-Met IC50 of 12nM was identified.
-This compound exhibited potent inhibition of EBC-1 cell associated with c-Met constitutive activation and showed high selectivity for c-Met than other tested 11 kinases.
-The binding model 12b with c-Met was disclosed by docking analysis.

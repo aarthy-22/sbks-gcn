@@ -1,9 +1,0 @@
-A genome-wide association study of bronchodilator response in asthmatics.
-Reversibility of airway obstruction in response to β2-agonists is highly variable among asthmatics, which is partially attributed to genetic factors.
-In a genome-wide association study of acute bronchodilator response (BDR) to inhaled albuterol, 534 290 single-nucleotide polymorphisms (SNPs) were tested in 403 white trios from the Childhood Asthma Management Program using five statistical models to determine the most robust genetic associations.
-The primary replication phase included 1397 polymorphisms in three asthma trials (pooled n=764).
-The second replication phase tested 13 SNPs in three additional asthma populations (n=241, n=215 and n=592).
-An intergenic SNP on chromosome 10, rs11252394, proximal to several excellent biological candidates, significantly replicated (P=1.98 × 10(-7)) in the primary replication trials.
-An intronic SNP (rs6988229) in the collagen (COL22A1) locus also provided strong replication signals (P=8.51 × 10(-6)).
-This study applied a robust approach for testing the genetic basis of BDR and identified novel loci associated with this drug response in asthmatics.
-The Pharmacogenomics Journal advance online publication, 19 March 2013; doi:10.1038/tpj.2013.5.

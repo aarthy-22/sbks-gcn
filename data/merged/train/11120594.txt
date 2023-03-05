@@ -1,5 +1,0 @@
-Cytokine production by naive and primary effector CD4+ T cells exposed to norepinephrine.
-We recently showed that clones of Th1 cells, but not Th2 cells, expressed a functional beta-2-adrenergic receptor (beta2AR) and that either norepinephrine or the beta2AR agonist terbutaline stimulated this receptor to modulate the level of Th1 cytokines produced.
-In the present study, we show that norepinephrine and terbutaline stimulate the beta2AR to decrease the level of IL-2 produced by freshly isolated murine splenic naive CD4+ T cells from either Balb/C or DO11.10 transgenic mice and activated polyclonally with anti-CD3 and anti-CD28 mAbs.
-In contrast, the level of cytokines produced by primary effector Th1 and Th2 cells were unaffected when norepinephrine, terbutaline, or cAMP analogs were added at the time of restimulation.
-These results suggest that a diversity exists among CD4+ T-cell subsets with respect to the level of adrenergic receptor expression, responsiveness to cAMP, stage of cell differentiation, or a combination of the above.

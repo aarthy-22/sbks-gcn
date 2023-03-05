@@ -1,4 +1,0 @@
-Design, Synthesis, Biological Evaluation, and Docking Studies of (S)-Phenylalanine Derivatives with a 2-Cyanopyrrolidine Moiety as Potent Dipeptidyl Peptidase 4 Inhibitors.
-A novel series of (S)-phenylalanine derivatives with a 2-cyanopyrrolidine moiety were designed and synthesized through a rational drug design strategy.
-Biological evaluation revealed that most tested compounds were potent dipeptidyl peptidase 4 (DPP-4) inhibitors, among them, the cyclopropyl-substituted phenylalanine derivative 11h displayed the most potent DPP-4 inhibitory activity with an IC50 value of 0.247 μM. In addition, molecular docking analysis of the representative compounds 11h, 11k, and 15a were performed, which not only revealed the impact of binding modes on DPP-4 inhibitory activity, but also provided additional methodological values for design and optimization.
-© 2013 John Wiley & Sons A/S.

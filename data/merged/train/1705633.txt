@@ -1,9 +1,0 @@
-Clinical pharmacology of enalkiren, a novel, dipeptide renin inhibitor.
-Enalkiren (A-64662), a potent, dipeptide renin inhibitor, mimics the transition state of the human renin substrate, angiotensinogen.
-Enalkiren has been shown to produce dose-related suppression of plasma renin activity (PRA) and angiotensin II when administered intravenously.
-Doses of enalkiren of less than 0.1 mg/kg induced little hemodynamic response in normotensive and hypertensive volunteers despite marked suppression of PRA.
-However, at doses of 0.3 and 1.2 mg/kg, enalkiren produced significant, dose-related decreases in systolic and diastolic blood pressure (BP) in hypertensive patients, and the BP response was enhanced by pretreatment with hydrochlorothiazide.
-The effects of enalkiren on PRA and BP are prolonged despite its relatively short elimination phase plasma half-life (1.6 h).
-Persistent pharmacologic activity without evidence of tachyphylaxis was demonstrated during 1 week of treatment in hypertensive patients.
-The observed dissociation between suppression of PRA and BP response and the recruitment of dose-related BP decrements, despite complete suppression of PRA, are unexplained phenomena.
-The results of clinical trials with enalkiren are encouraging, and suggest that renin inhibitors may be safe, useful therapeutic agents in the management of hypertension.

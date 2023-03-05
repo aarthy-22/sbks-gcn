@@ -1,6 +1,0 @@
-Design, Synthesis and Biological Evaluation of Aminoalkylindole Derivatives as Cannabinoid Receptor Ligands with Potential for Treatment of Alcohol Abuse.
-Attenuation of increased endocannabinoid signaling with a CB1R neutral antagonist might offer a new therapeutic direction for treatment of alcohol abuse.
-We have recently reported that a mono-hydroxylated metabolite of the synthetic aminoalkylindole cannabinoid JHW-073 (3) exhibits neutral antagonist activity at CB1Rs and thus may serve as a promising lead for the development of novel alcohol abuse therapies.
-In the current study, we show that systematic modification of an aminoalkylindole scaffold identifies two new compounds with dual CB1R antagonist/CB2R agonist activity.
-Similar to the CB1R antagonist/inverse agonist rimonabant, analogues 27 and 30 decrease oral alcohol self-administration, without affecting total fluid intake and block the development of alcohol-conditioned place preference.
-Collectively, these initial findings suggest that design and systematic modification of aminoalkylindoles such as 3 may lead to development of novel cannabinoid ligands with dual CB1R antagonist/CB2R agonist activity with potential for use as treatments of alcohol abuse.

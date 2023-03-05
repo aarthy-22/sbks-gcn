@@ -1,9 +1,0 @@
-A micro-cantilever sensor chip based on contact angle analysis for a label-free troponin I immunoassay.
-Cantilever sensors have been extensively explored as a promising technique for real-time and label-free analyses in biological systems.
-A major sensing principle utilized by state-of-the-art cantilever sensors is based on analyte-induced surface stress changes, which result in static bending of a cantilever.
-The sensor performance, however, suffers from the intrinsically small change in surface stress induced by analytes, especially for molecular recognition such as antigen-antibody binding.
-Through the contact angle change on a tailored solid surface, it is possible to convert a tiny surface stress into a capillary force-a much larger physical quantity needed for a practical sensor application.
-In this work, a micro-cantilever sensor based on contact angle analysis (CAMCS) was proposed to effectively enhance the sensitivity of a sensor in proportion to the square of the length to thickness ratio of the cantilever structure.
-CAMCS chips were fabricated using a standard complementary-metal-oxide-semiconductor (CMOS) process to demonstrate a 1250-fold enhancement in the sensitivity of surface stress to bioanalyte adsorption using a piezoresistive sensing method.
-A real-time and label-free troponin I (cTnI) immunoassay, which is now widely used in clinics and considered a gold standard for the early diagnosis and prognosis of cardiovascular disease, was performed to demonstrate cTnI detection levels as low as 1 pg mL(-1).
-The short detection time of this assay was within several minutes, which matches the detection time of commercially available instruments that are based on fluorescence-labeling techniques.

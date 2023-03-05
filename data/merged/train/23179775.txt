@@ -1,8 +1,0 @@
-Therapy of adrenal insufficiency: an update.
-Adrenal insufficiency may be caused by the destruction or altered function of the adrenal gland with a primary deficit in cortisol secretion (primary adrenal insufficiency) or by hypothalamic-pituitary pathologies determining a deficit of ACTH (secondary adrenal insufficiency).
-The clinical picture is determined by the glucocorticoid deficit, which may in some conditions be accompanied by a deficit of mineralcorticoids and adrenal androgens.
-The substitutive treatment is aimed at reducing the signs and symptoms of the disease as well as at preventing the development of an addisonian crisis, a clinical emergency characterized by hypovolemic shock.
-The oral substitutive treatment should attempt at mimicking the normal circadian profile of cortisol secretion, by using the lower possible doses able to guarantee an adequate quality of life to patients.
-The currently available hydrocortisone or cortisone acetate preparations do not allow an accurate reproduction of the physiological secretion pattern of cortisol.
-A novel dual-release formulation of hydrocortisone, recently approved by EMEA, represents an advancement in the optimization of the clinical management of patients with adrenal insufficiency.
-Future clinical trials of immunomodulation or immunoprevention will test the possibility to delay (or prevent) the autoimmune destruction of the adrenal gland in autoimmune Addison's disease.

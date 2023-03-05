@@ -15,3 +15,5 @@ T5	CHEMICAL 1643 1651	dopamine
 T16	GENE-Y 1643 1663	dopamine D2 receptor
 T6	CHEMICAL 1913 1923	droperidol
 T7	CHEMICAL 1928 1942	metoclopramide
+R0	CPR-6 Arg1:T13 Arg2:T17
+R1	CPR-6 Arg1:T14 Arg2:T17

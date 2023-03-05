@@ -1,9 +1,0 @@
-Dopamine D1 receptor agonist and D2 receptor antagonist effects of the natural product (-)-stepholidine: molecular modeling and dynamics simulations.
-(-)-Stepholidine (SPD), an active ingredient of the Chinese herb Stephania, is the first compound found to have dual function as a dopamine receptor D1 agonist and D2 antagonist.
-Insights into dynamical behaviors of D1 and D2 receptors and their interaction modes with SPD are crucial in understanding the structural and functional characteristics of dopamine receptors.
-In this study a computational approach, integrating protein structure prediction, automated molecular docking, and molecular dynamics simulations were employed to investigate the dual action mechanism of SPD on the D1 and D2 receptors, with the eventual aim to develop new drugs for treating diseases affecting the central nervous system such as schizophrenia.
-The dynamics simulations revealed the surface features of the electrostatic potentials and the conformational "open-closed" process of the binding entrances of two dopamine receptors.
-Potential binding conformations of D1 and D2 receptors were obtained, and the D1-SPD and D2-SPD complexes were generated, which are in good agreement with most of experimental data.
-The D1-SPD structure shows that the K-167_EL-2-E-302_EL-3 (EL-2: extracellular loop 2; EL-3: extracellular loop 3) salt bridge plays an important role for both the conformational change of the extracellular domain and the binding of SPD.
-Based on our modeling and simulations, we proposed a mechanism of the dual action of SPD and a subsequent signal transduction model.
-Further mutagenesis and biophysical experiments are needed to test and improve our proposed dual action mechanism of SPD and signal transduction model.

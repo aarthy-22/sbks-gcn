@@ -7,4 +7,5 @@ T9	GENE-N 743 770	gamma-glutamyltraspeptidase
 T6	CHEMICAL 931 940	flutamide
 T2	CHEMICAL 1218 1227	flutamide
 T3	CHEMICAL 1325 1334	flutamide
-R0	CPR-3 Arg1:T5 Arg2:T9
+R0	CPR-4 Arg1:T1 Arg2:T8
+R1	CPR-3 Arg1:T5 Arg2:T9

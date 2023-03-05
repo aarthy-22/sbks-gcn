@@ -1,8 +1,0 @@
-Emodin-6-O-β-D-glucoside inhibits HMGB1-induced inflammatory responses in vitro and in vivo.
-High mobility group box 1 (HMGB1) protein acts as a potent proinflammatory cytokine and is involved in the pathogenesis of several vascular diseases, such as, systemic vasculitis and sepsis.
-Emodin-6-O-β-D-glucoside (EG) is a new active compound from Reynoutria japonica, and its biologic activities have not been previously investigated.
-In this study, we first investigated the antiinflammatory activities of EG on HMGB1-mediated proinflammatory responses in human umbilical vein endothelial cells (HUVECs) and in a murine cecal ligation and puncture (CLP)-model of sepsis in mice.
-EG was found to suppress the release of HMGB1, the production of tumor necrosis factor (TNF)-α, and the activation of nuclear factor-κB (NF-κB) by HMGB1 in HUVECs, and to inhibit HMGB1-mediated hyperpermeability and leukocyte migration in mice.
-In the CLP model, HMGB1 was highly released, but this release was prevented by EG.
-Furthermore, EG also increased the survival times of CLP administered mice.
-Collectively, this study shows EG can protect barrier integrity and inhibit HMGB1-mediated inflammatory responses, which suggests a potential use as a therapy for sepsis or septic shock.

@@ -1,8 +1,0 @@
-Studies on an (S)-2-amino-3-(3-hydroxy-5-methyl-4-isoxazolyl)propionic acid (AMPA) receptor antagonist IKM-159: asymmetric synthesis, neuroactivity, and structural characterization.
-IKM-159 was developed and identified as a member of a new class of heterotricyclic glutamate analogues that act as AMPA receptor-selective antagonists.
-However, it was not known which enantiomer of IKM-159 was responsible for its pharmacological activities.
-Here, we report in vivo and in vitro neuronal activities of both enantiomers of IKM-159 prepared by enantioselective asymmetric synthesis.
-By employment of (R)-2-amino-2-(4-methoxyphenyl)ethanol as a chiral auxiliary, (2R)-IKM-159 and the (2S)-counterpart were successfully synthesized in 0.70% and 1.5% yields, respectively, over a total of 18 steps.
-Both behavioral and electrophysiological assays showed that the biological activity observed for the racemic mixture was reproduced only with (2R)-IKM-159, whereas the (2S)-counterpart was inactive in both assays.
-Racemic IKM-159 was crystallized with the ligand-binding domain of GluA2, and the structure revealed a complex containing (2R)-IKM-159 at the glutamate binding site.
-(2R)-IKM-159 locks the GluA2 in an open form, consistent with a pharmacological action as competitive antagonist of AMPA receptors.

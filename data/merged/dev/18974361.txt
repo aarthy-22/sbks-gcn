@@ -1,9 +1,0 @@
-Molecular pharmacology of human Cav3.2 T-type Ca2+ channels: block by antihypertensives, antiarrhythmics, and their analogs.
-Antihypertensive drugs of the "calcium channel blocker" or "calcium antagonist" class have been used to establish the physiological role of L-type Ca(2+) channels in vascular smooth muscle.
-In contrast, there has been limited progress on the pharmacology T-type Ca(2+) channels.
-T-type channels play a role in cardiac pacemaking, aldosterone secretion, and renal hemodynamics, leading to the hypothesis that mixed T- and L-type blockers may have therapeutic advantages over selective L-type blockers.
-The goal of this study was to identify compounds that block the Ca(v)3.2 T-type channel with high affinity, focusing on two classes of compounds: phenylalkylamines (e.g., mibefradil) and dihydropyridines (e.g., efonidipine).
-Compounds were tested using a validated Ca(2+) influx assay into a cell line expressing recombinant Ca(v)3.2 channels.
-This study identified four clinically approved antihypertensive drugs (efonidipine, felodipine, isradipine, and nitrendipine) as potent T-channel blockers (IC(50) < 3 microM).
-In contrast, other widely prescribed dihydropyridines, such as amlodipine and nifedipine, were 10-fold less potent, making them a more appropriate choice in research studies on the role of L-type currents.
-In summary, the present results support the notion that many available antihypertensive drugs block a substantial fraction of T-current at therapeutically relevant concentrations, contributing to their mechanism of action.

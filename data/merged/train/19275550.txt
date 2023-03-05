@@ -1,9 +1,0 @@
-Clinical utility of acarbose, an alpha-glucosidase inhibitor in cardiometabolic disorders.
-Diabetes is associated with an increase risk for cardiovascular disease (CVD).
-Recently, macrovascular complications of diabetes have been shown to start before the development of diabetes.
-Indeed, several clinical studies have confirmed the increased risk of CVD in patients with impaired glucose tolerance (IGT).
-Since postprandial hyperglycemia and insulin resistance are thought to play a central role in the development and progression of CVD in patients with IGT, amelioration of postprandial hyperglycemia as well as insulin resistance is a therapeutic target for the prevention of CVD in these high-risk patients.
-Acarbose, an alpha-glucosidase inhibitor, delays the absorption of carbohydrate from the small intestine, thereby reducing postprandial hyperglycemia.
-Further, recently, acarbose has been shown to improve insulin resistance in vivo.
-These findings suggest that acarbose is a promising metabolic modifier that could reduce the risk of CVD in patients with the metabolic syndrome.
-In this paper, we review the clinical utility of acarbose in various cardiometabolic disorders.

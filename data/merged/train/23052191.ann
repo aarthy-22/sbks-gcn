@@ -21,3 +21,4 @@ T7	CHEMICAL 2194 2202	melamine
 T8	CHEMICAL 2278 2286	melamine
 T9	CHEMICAL 2462 2469	alanine
 T23	GENE-N 2462 2486	alanine aminotransferase
+R0	CPR-3 Arg1:T8 Arg2:T23

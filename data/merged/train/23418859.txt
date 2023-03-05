@@ -1,8 +1,0 @@
-Salidroside attenuates myocardial ischemia-reperfusion injury via PI3K/Akt signaling pathway.
-To investigate the cardioprotective effects of salidroside on myocardial ischemia-reperfusion injury (IRI) in rabbits and the underlying action mechanisms in PI3K/Akt signaling pathway, a rabbit ischemia/reperfusion model was created by ligating the left anterior descending coronary arterial branch for 30 min and by releasing the ligature to allow reperfusion for 120 min.
-Salidroside or salidroside+PI3K inhibitor (LY294002) was administered via intracoronary injections at the onset of reperfusion.
-Apoptosis of cardiomyocytes was assessed by terminal dUTP nick-end labeling assay, and the expression of apoptosis-related proteins was observed by immunohistochemistry.
-The expressions of total Akt and phosphorylated Akt (p-Akt) were detected by western blot analysis.
-The results showed that intracoronary injection of salidroside at the onset of reperfusion markedly reduced the apoptosis of cardiomyocytes, significantly increasing Bcl-2 and p-Akt proteins expressions and decreasing Bax and caspase-3 expressions in the hearts subjected to ischemia followed by 120-min reperfusion.
-However, the anti-apoptotic effect induced by salidroside was inhibited by LY294002, which blocked the activation of Akt.
-These results suggested that intracoronary administration of salidroside at the onset of reperfusion could significantly reduce the IRI-induced apoptosis of cardiomyocytes, and this protective mechanism seemed to be mediated by the PI3K-Akt signaling pathway.

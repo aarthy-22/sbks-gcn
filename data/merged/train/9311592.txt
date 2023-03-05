@@ -1,9 +1,0 @@
-Strong decrease in biotin content may correlate with metabolic alterations in colorectal adenocarcinoma.
-Short-chain fatty acids are an important source of energy for colonocytes.
-One of these is propionate, which is metabolized through carboxylation by propionyl-CoA carboxylase (PCC), an enzyme encoded by 2 genes, PCCA and PCCB.
-The co-factor of this reaction is biotin, a product of intestinal bacterial metabolism, as is propionate.
-Despite detailed knowledge about the metabolic effects and physiology of biotin, the relative amounts of this vitamin in normal colonic mucosae and in tumour tissue remains quite unknown.
-The biotin content in normal and cancerous cells from the distal digestive tract was examined on 10 pairs of tissue specimens of colorectal cancer and adjacent normal mucosae using reflectance in situ hybridization (RISH).
-Having observed a high biotin content in colon mucosae and a low content in colorectal-cancer cells, we then studied the transcription levels of PCCA and PCCB genes in 9 colorectal cancers and the corresponding mucosae.
-In all cases, the levels of mRNA were lower in colorectal cancers than in normal mucosae, the decrease being always more marked for PCCB than for PCCA.
-In normal mucosae and in adenocarcinoma cancer cells, PCCA and PCCB transcription levels were strongly related to the amount of biotin detected, but not to the number of chromosomes 13 (which carries PCCA) or 3 (which carries PCCB).

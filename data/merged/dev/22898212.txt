@@ -1,9 +1,0 @@
-Cresyl saligenin phosphate makes multiple adducts on free histidine, but does not form an adduct on histidine 438 of human butyrylcholinesterase.
-Cresyl saligenin phosphate (CBDP) is a suspected causative agent of "aerotoxic syndrome", affecting pilots, crew members and passengers.
-CBDP is produced in vivo from ortho-containing isomers of tricresyl phosphate (TCP), a component of jet engine lubricants and hydraulic fluids.
-CBDP irreversibly inhibits butyrylcholinesterase (BChE) in human plasma by forming adducts on the active site serine (Ser-198).
-Inhibited BChE undergoes aging to release saligenin and o-cresol.
-The active site histidine (His-438) was hypothesized to abstract o-hydroxybenzyl moiety from the initial adduct on Ser-198.
-Our goal was to test this hypothesis.
-Mass spectral analysis of CBDP-inhibited BChE digested with Glu-C showed an o-hydroxybenzyl adduct (+106amu) on lysine 499, a residue far from the active site, but not on His-438.
-Nevertheless, the nitrogen of the imidazole ring of free l-histidine formed a variety of adducts upon reaction with CBDP, including the o-hydroxybenzyl adduct, suggesting that histidine-CBDP adducts may form on other proteins.

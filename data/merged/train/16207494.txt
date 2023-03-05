@@ -1,9 +1,0 @@
-Age-dependent changes of pyridoxal phosphate synthesizing enzymes immunoreactivities and activities in the gerbil hippocampal CA1 region.
-In the present study, age-related changes of pyridoxal 5'-phosphate (PLP) synthesizing enzymes, pyridoxal kinase (PLK) and pyridoxine 5'-phosphate oxidase (PNPO), their protein contents and activities were examined in the gerbil hippocampus proper.
-Significant age-dependent changes in PLK and PNPO immunoreactivities were found in the CA1 region, but not in the CA2/3 region.
-In the postnatal month 1 (PM 1) group, PLK and PNPO immunoreactivities were detected mainly in the stratum pyramidale of the CA1 region.
-PLK and PNPO immunoreactivities and their protein contents were highest in the PM 6 group, showing that many CA1 pyramidal cells had strong PLK and PNPO immunoreactivities.
-Thereafter, PLK and PNPO immunoreactivities started to decrease and were very low at PM 24.
-Alterations in the change patterns in protein contents and total activities of PLK and PNPO corresponded to the immunohistochemical data, but their specific activities were not altered in any experimental group.
-Based on double immunofluorescence study, PLK and PNPO immunoreactive cells in the strata oriens and radiatum were identified as GABAergic cells.
-Therefore, decreases of PLK and PNPO in the hippocampal CA1 region of aged brains may be involved in aging processes related with gamma-aminobutyric acid (GABA) function.

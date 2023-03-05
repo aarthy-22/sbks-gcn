@@ -1,6 +1,0 @@
-Synthesis and biological evaluation of indenoisoquinolines that inhibit both tyrosyl-DNA phosphodiesterase I (Tdp1) and topoisomerase I (Top1).
-Tyrosyl-DNA phosphodiesterase I (Tdp1) plays a key role in the repair of damaged DNA resulting from the topoisomerase I (Top1) inhibitor camptothecin and a variety of other DNA-damaging anticancer agents.
-This report documents the design, synthesis, and evaluation of new indenoisoquinolines that are dual inhibitors of both Tdp1 and Top1.
-Enzyme inhibitory data and cytotoxicity data from human cancer cell cultures were used to establish structure-activity relationships.
-The potencies of the indenoisoquinolines against Tdp1 ranged from 5 μM to 111 μM, which places the more active compounds among the most potent known inhibitors of this target.
-The cytotoxicity mean graph midpoints ranged from 0.02 to 2.34 μM. Dual Tdp1-Top1 inhibitors are of interest because the Top1 and Tdp1 inhibitory activities could theoretically work synergistically to create more effective anticancer agents.

@@ -1,8 +1,0 @@
-New targets for the antitumor activity of gambogic acid in hematologic malignancies.
-Gambogic acid (GA) is the main active ingredient of gamboge, a brownish to orange dry resin secreted from Garcinia hanburyi, a plant that is widely distributed in nature.
-Recent in vitro and in vivo studies have demonstrated that GA exerts potent antitumor effects against solid tumors of various derivations, and its antitumor mechanisms have been thoroughly investigated.
-On the other hand, normal cells remain relatively resistant to GA, indicating a therapeutic window.
-GA is currently in clinical trials in China.
-Over the last decade, our laboratory demonstrates that GA exhibits potent anticancer activities against hematological malignancies.
-This review focuses on the new mechanisms through which GA inhibits proliferation and induces apoptosis in malignant hematological cells.
-These include the regulation of expression and intracellular positioning of nucleoporin and nucleophosmin; downregulation of steroid receptor coactivator-3 (SRC-3) and its downstream proteins; upregulation of death inducer-obliterator (DIO-1); downregulation of HERG potassium channel; as well as induction of reactive oxygen species (ROS) accumulation.

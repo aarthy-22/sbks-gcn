@@ -1,6 +1,0 @@
-Probing for a hydrophobic a binding register in prostate-specific membrane antigen with phenylalkylphosphonamidates.
-To explore for the existence of an auxiliary hydrophobic binding register remote from the active site of PSMA a series of phenylalkylphosphonamidate derivatives of glutamic acid were synthesized and evaluated for their inhibitory potencies against PSMA.
-Both the phenyl- and benzylphosphonamidates (1a and 1b) exhibited only modest inhibitory potency against.
-The phenethyl analog 1c was intermediate in inhibitory potency while inhibitors possessing a longer alkyl tether from the phenyl ring, resulted in markedly improved K(i) values.
-The greatest inhibitory potency was obtained for the inhibitors in which the phenyl ring was extended furthest from the central phosphorus (1f, n=5 and 1g, n=6).
-The slightly serrated pattern that emerged as the alkyl tether increased from three to six methylene units suggests that inhibitory potency is not simply correlated to increased hydrophobicity imparted by the phenylalkyl chain, but rather that one or more hydrophobic binding registers may exist remote from the substrate recognition architecture in the active site of PSMA.

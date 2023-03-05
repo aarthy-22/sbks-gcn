@@ -4,5 +4,6 @@ T2	CHEMICAL 161 174	levetiracetam
 T1	CHEMICAL 220 233	Levetiracetam
 T4	GENE-N 280 304	synaptic vesicle protein
 T5	GENE-Y 314 318	SV2A
-R0	CPR-2 Arg1:T1 Arg2:T5
-R1	NOT Arg1:T3 Arg2:T6
+R0	CPR-2 Arg1:T1 Arg2:T4
+R1	CPR-2 Arg1:T1 Arg2:T5
+R2	NOT Arg1:T3 Arg2:T6

@@ -1,8 +1,0 @@
-Caffeic Acid Phenethyl Ester Suppresses Proliferation and Survival of TW2.6 Human Oral Cancer Cells via Inhibition of Akt Signaling.
-Caffeic acid phenethyl ester (CAPE) is a bioactive component extracted from honeybee hive propolis.
-Our observations indicated that CAPE treatment suppressed cell proliferation and colony formation of TW2.6 human oral squamous cell carcinoma (OSCC) cells dose-dependently.
-CAPE treatment decreased G1 phase cell population, increased G2/M phase cell population, and induced apoptosis in TW2.6 cells.
-Treatment with CAPE decreased protein abundance of Akt, Akt1, Akt2, Akt3, phospho-Akt Ser473, phospho-Akt Thr 308, GSK3β, FOXO1, FOXO3a, phospho-FOXO1 Thr24, phospho-FoxO3a Thr32, NF-κB, phospho-NF-κB Ser536, Rb, phospho-Rb Ser807/811, Skp2, and cyclin D1, but increased cell cycle inhibitor p27Kip.
-Overexpression of Akt1 or Akt2 in TW2.6 cells rescued growth inhibition caused by CAPE treatment.
-Co-treating TW2.6 cells with CAPE and 5-fluorouracil, a commonly used chemotherapeutic drug for oral cancers, exhibited additive cell proliferation inhibition.
-Our study suggested that administration of CAPE is a potential adjuvant therapy for patients with OSCC oral cancer.

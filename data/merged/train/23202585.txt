@@ -1,7 +1,0 @@
-The ATPase domain of ISWI is an autonomous nucleosome remodeling machine.
-ISWI slides nucleosomes along DNA, enabling the structural changes of chromatin required for the regulated use of eukaryotic genomes.
-Prominent mechanistic models imply cooperation of the ISWI ATPase domain with a C-terminal DNA-binding function residing in the HAND-SANT-SLIDE (HSS) domain.
-Contrary to these models, we show by quantitative biochemical means that all fundamental aspects of nucleosome remodeling are contained within the compact ATPase module of Drosophila ISWI.
-This domain can independently associate with DNA and nucleosomes, which in turn activate ATP turnover by inducing a conformational change in the enzyme, and it can autonomously reposition nucleosomes.
-The role of the HSS domain is to increase the affinity and specificity for nucleosomes.
-Nucleosome-remodeling enzymes may thus have evolved directly from ancestral helicase-type motors, and peripheral domains have furnished regulatory capabilities that bias the remodeling reaction toward different structural outcomes.

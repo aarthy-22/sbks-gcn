@@ -1,7 +1,0 @@
-Crystal structure of nitric oxide synthase bound to nitro indazole reveals a novel inactivation mechanism.
-Nitric oxide is generated under normal and pathophysiological conditions by three distinct isoforms of nitric oxide synthase (NOS).
-A small-molecule inhibitor of NOS (3-Br-7-nitroindazole, 7-NIBr) is profoundly neuroprotective in mouse models of stroke and Parkinson's disease.
-We report the crystal structure of the catalytic heme domain of endothelial NOS complexed with 7-NIBr at 1.65 A resolution.
-Critical to the binding of 7-NIBr at the substrate site is the adoption by eNOS of an altered conformation, in which a key glutamate residue swings out toward one of the heme propionate groups.
-Perturbation of the heme propionate ensues and eliminates the cofactor tetrahydrobiopterin-heme interaction.
-We also present three crystal structures that reveal how alterations at the substrate site facilitate 7-NIBr and structurally dissimilar ligands to occupy the cofactor site.

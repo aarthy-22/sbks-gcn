@@ -1,9 +1,0 @@
-The contrasting activity of iodido versus chlorido ruthenium and osmium arene azo- and imino-pyridine anticancer complexes: control of cell selectivity, cross-resistance, p53 dependence, and apoptosis pathway.
-Organometallic half-sandwich complexes [M(p-cymene)(azo/imino-pyridine)X](+) where M = Ru(II) or Os(II) and X ═ Cl or I, exhibit potent antiproliferative activity toward a range of cancer cells.
-Not only are the iodido complexes more potent than the chlorido analogues, but they are not cross-resistant with the clinical platinum drugs cisplatin and oxaliplatin.
-They are also more selective for cancer cells versus normal cells (fibroblasts) and show high accumulation in cell membranes.
-They arrest cell growth in G1 phase in contrast to cisplatin (S phase) with a high incidence of late-stage apoptosis.
-The iodido complexes retain potency in p53 mutant colon cells.
-All complexes activate caspase 3.
-In general, antiproliferative activity is greatly enhanced by low levels of the glutathione synthase inhibitor l-buthionine sulfoxime.
-The work illustrates how subtle changes to the design of low-spin d(6) metal complexes can lead to major changes in cellular metabolism and to potent complexes with novel mechanisms of anticancer activity.

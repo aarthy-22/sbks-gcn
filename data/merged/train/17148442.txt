@@ -1,8 +1,0 @@
-Ankyrin repeat and suppressors of cytokine signaling box protein asb-9 targets creatine kinase B for degradation.
-The suppressors of cytokine signaling (SOCS) proteins inhibit cytokine action by direct interaction with Janus kinases or activated cytokine receptors.
-In addition to the N-terminal and Src homology 2 domains that mediate these interactions, SOCS proteins contain a C-terminal SOCS box.
-DNA data base searches have identified a number of other protein families that possess a SOCS box, of which the ankyrin repeat and SOCS box-containing (Asb) proteins constitute the largest.
-Although it is known that the SOCS proteins are involved in the negative regulation of cytokine signaling, the biological and biochemical functions of the Asbs are largely undefined.
-Using a proteomics approach, we demonstrate that creatine kinase B (CKB) interacts with Asb-9 in a specific, SOCS box-independent manner.
-This interaction increases the polyubiquitylation of CKB and decreases total CKB levels within the cell.
-The targeting of CKB for degradation by Asb-9 was primarily SOCS box-dependent and suggests that Asb-9 acts as a specific ubiquitin ligase regulating levels of this evolutionarily conserved enzyme.

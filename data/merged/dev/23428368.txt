@@ -1,7 +1,0 @@
-Hyperthyroidism causes cardiac dysfunction by mitochondrial impairment and energy depletion.
-This study elucidates the role of metabolic remodeling in cardiac dysfunction induced by hyperthyroidism.
-Cardiac hypertrophy, structural remodeling, and expression of the genes associated with fatty acid metabolism were examined in rats treated with triiodothyronine (T3) alone (8 μg/100 g body weight (BW), i.p.) for 15 days or along with a peroxisome proliferator-activated receptor alpha agonist bezafibrate (Bzf; 30 μg/100 g BW, oral) and were found to improve in the Bzf co-treated condition.
-Ultrastructure of mitochondria was damaged in T3-treated rat heart, which was prevented by Bzf co-administration.
-Hyperthyroidism-induced oxidative stress, reduction in cytochrome c oxidase activity, and myocardial ATP concentration were also significantly checked by Bzf.
-Heart function studied at different time points during the course of T3 treatment shows an initial improvement and then a gradual but progressive decline with time, which is prevented by Bzf co-treatment.
-In summary, the results demonstrate that hyperthyroidism inflicts structural and functional damage to mitochondria, leading to energy depletion and cardiac dysfunction.

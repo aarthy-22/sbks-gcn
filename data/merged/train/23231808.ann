@@ -3,3 +3,4 @@ T1	CHEMICAL 60 73	Acetazolamide
 T3	GENE-N 85 103	carbonic anhydrase
 T4	GENE-N 863 866	ERK
 T5	GENE-N 904 907	Akt
+R0	CPR-4 Arg1:T1 Arg2:T3

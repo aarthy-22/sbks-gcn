@@ -1,9 +1,0 @@
-Dietary exposure of mink (Mustela vison) to fish from the upper Hudson River, New York, USA: effects on reproduction and offspring growth and mortality.
-The effects of feeding farm-raised mink (Mustela vison) diets containing polychlorinated biphenyl (PCB)-contaminated fish from the upper Hudson River (New York, USA) on adult reproductive performance and kit growth and mortality were evaluated.
-Diets contained 2.5 to 20% Hudson River fish, providing 0.72 to 6.1 µg ∑PCBs/g feed (4.8-38 pg toxic equivalents [TEQWHO 2005 ]/g feed).
-The percentage of stillborn kits per litter was significantly increased by dietary concentrations of 4.5 µg ∑PCBs/g feed (28 pg TEQWHO 2005 /g feed) and greater.
-All offspring exposed to dietary concentrations of 4.5 and 6.1 µg ∑PCBs/g feed (28 and 38 pg TEQWHO 2005 /g feed) died by 10 weeks of age, and all offspring exposed to 1.5 and 2.8 µg ∑PCBs/g feed (10 and 18 pg TEQWHO 2005 /g feed) died by 31 weeks of age, leaving juveniles in the control and 0.72 µg ∑PCBs/g feed (0.41- and 4.8 pg TEQWHO 2005 /g feed) groups only.
-The dietary concentration predicted to result in 20% kit mortality (LC20) at six weeks of age was 0.34 µg ∑PCBs/g feed (2.6 pg TEQWHO 2005 /g feed).
-The corresponding maternal hepatic concentration was 0.80 µg ∑PCBs/g liver, wet weight (13 pg TEQWHO 2005 /g liver, wet wt).
-Mink residing in the upper Hudson River would be expected to consume species of fish that contain an average of 4.0 µg ∑PCBs/g tissue.
-Thus, a daily diet composed of less than 10% Hudson River fish could provide a dietary concentration of ∑PCBs that resulted in 20% kit mortality in the present study.

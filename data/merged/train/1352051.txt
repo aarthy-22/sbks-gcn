@@ -1,7 +1,0 @@
-Different neuroleptics show common dose and time dependent effects in quantitative field potential analysis in freely moving rats.
-Under the assumption that field potentials recorded from particular brain areas reflect the net balance of neurotransmitter activities, the dose- and time-dependent responses induced by intraperitoneal application of different neuroleptic drugs are quantified by spectral analysis of the electroencephalogram recorded from frontal cortex, hippocampus, striatum and reticular formation.
-The actions of haloperidol, chlorpromazine, clozapine, prothipendyl and thioridazine in general were characterized by increases of the spectral power in the alpha 1 and beta range, at higher dosages also in the theta range.
-This observed pattern of changes is in line with the neuroleptic induced spectral changes reported in the literature for other animals and man.
-In the light of the already known effects of other psychoactive drugs on the frequency content of field potentials in the rat, it should now be possible to classify different drugs in terms of their clinical indication.
-With respect to the type of neurotransmitter control underlying the changes produced by various neuroleptics, it is quite obvious from the comparisons with the respective drug effects that dopamine-D1-receptor controlled transmission is not responsible for this action.
-On the basis of earlier findings a possible interaction between dopamine-D2 receptor or glutamatergic transmitter control is discussed.

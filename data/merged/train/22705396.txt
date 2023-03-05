@@ -1,9 +1,0 @@
-The potential of nicotinic enhancement of cognitive remediation training in schizophrenia.
-Cognitive deficits in schizophrenia are critically important predictors of long-term psychosocial outcome and are not significantly ameliorated by currently available medications.
-Cognitive remediation training has shown promise for alleviating cognitive symptoms of schizophrenia, but the clinical significance has often been limited by small effect sizes.
-Approaches that achieve larger improvement involve time requirements that can be cost-prohibitive within the current clinical care system.
-This mini-review evaluates the theoretical potential of a pharmacological enhancement strategy of cognitive remediation training with nicotinic acetylcholine receptor (nAChR) agonists.
-nAChR agonists can facilitate sensory processing, alertness, attention, learning and memory.
-While these effects may be too subtle and short-lasting to be of clinical relevance as a primary treatment of cognitive deficits, they constitute an ideal effects profile for enhancing training benefits.
-Several mechanisms are described through which repeated coupling of cognitive training challenges with nAChR stimulation may enhance and accelerate cognitive remediation training effects, advancing such interventions into more effective and practicable treatments of some of the most debilitating symptoms of schizophrenia.
-This article is part of a Special Issue entitled 'Cognitive Enhancers'.

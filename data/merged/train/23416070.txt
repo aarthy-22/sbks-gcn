@@ -1,7 +1,0 @@
-Glucagon-induced acetylation of Foxa2 regulates hepatic lipid metabolism.
-Circulating levels of insulin and glucagon reflect the nutritional state of animals and elicit regulatory responses in the liver that maintain glucose and lipid homeostasis.
-The transcription factor Foxa2 activates lipid metabolism and ketogenesis during fasting and is inhibited via insulin-PI3K-Akt signaling-mediated phosphorylation at Thr156 and nuclear exclusion.
-Here we show that, in addition, Foxa2 is acetylated at the conserved residue Lys259 following inhibition of histone deacetylases (HDACs) class I-III and the cofactors p300 and SirT1 are involved in Foxa2 acetylation and deacetylation, respectively.
-Physiologically, fasting states and glucagon stimulation are sufficient to induce Foxa2 acetylation.
-Introduction of the acetylation-mimicking (K259Q) or -deficient (K259R) mutations promotes or inhibits Foxa2 activity, respectively, and adenoviral expression of Foxa2-K259Q augments expression of genes involved in fatty acid oxidation and ketogenesis.
-Our study reveals a molecular mechanism by which glucagon signaling activates a fasting response through acetylation of Foxa2.

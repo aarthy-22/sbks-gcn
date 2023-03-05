@@ -1,8 +1,0 @@
-Small molecule mediated proliferation of primary retinal pigment epithelial cells.
-Retinal pigment epithelial (RPE) cells form a monolayer adjacent to the retina and play a critical role in the visual light cycle.
-Degeneration of this layer results in vision loss, causing retinal disorders such as age-related macular degeneration.
-Cell transplant therapies exist to restore vision loss; however, risks associated with and an inadequate supply of donor cells have limited their therapeutic success.
-The identification of factors that proliferate RPE cells ex vivo could provide a renewable source of cells for the treatment of such disorders.
-We show that a small molecule (WS3) can reversibly proliferate primary RPE cells isolated from fetal and adult human donors.
-Following withdrawal of WS3, RPE cells differentiate into a functional monolayer, as exhibited by their expression of mature RPE genes and phagocytosis of photoreceptor outer segments.
-Furthermore, chemically expanded RPE cells preserve vision when transplanted into dystrophic Royal College of Surgeons (RCS) rats, a well-established model of retinal degeneration.

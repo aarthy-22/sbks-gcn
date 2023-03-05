@@ -1,8 +1,0 @@
-Characterization of the molecular mechanisms involved in the increased insulin secretion in rats with acute liver failure.
-To investigate the mechanism of hyperinsulinaemia in rats with acute liver failure induced by the administration of d-galactosamine (GalN), we focused on the role of polyprimidine tract-binding protein (PTB) in islet insulin synthesis.
-Recent reports indicate that PTB binds and stabilizes mRNA encoding insulin and insulin secretory granule proteins, including islet cell autoantigen 512 (ICA512), prohormone convertase 1/3 (PC1/3), and PC2.
-In the present study, glucose-stimulated insulin secretion was significantly increased in GalN-treated rats compared to controls.
-Levels of mRNA encoding insulin 1, ICA512, and PC1/3 were increased in the pancreatic islets of GalN-treated rats.
-This mRNA level elevation was not prevented by pretreatment with actinomycin D. When the PTB-binding site in insulin 1 mRNA was incubated with the islet cytosolic fraction, the RNA-protein complex level was increased in the cytosolic fraction obtained from GalN-treated rats compared to the level in control rats.
-The cytosolic fraction obtained from pancreatic islets obtained from GalN-treated rats had an increased PTB level compared to the levels obtained from the pancreatic islets of control rats.
-These findings suggest that, in rats with acute liver failure, cytosolic PTB binds and stabilizes mRNA encoding insulin and its secretory granule proteins.

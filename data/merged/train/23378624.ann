@@ -7,3 +7,4 @@ T4	GENE-N 1528 1540	calcineurine
 T1	CHEMICAL 1553 1565	prednisolone
 T5	GENE-Y 1675 1685	proinsulin
 T6	GENE-Y 1861 1871	proinsulin
+R0	NOT Arg1:T4 Arg2:T1

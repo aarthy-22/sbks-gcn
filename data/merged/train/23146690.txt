@@ -1,8 +1,0 @@
-Synergistic anti-cancer effects of resveratrol and chemotherapeutic agent clofarabine against human malignant mesothelioma MSTO-211H cells.
-Dietary phytochemicals as adjuvants have been suggested to play important roles in enhancing chemotherapeutic potential owing to multitargeted chemopreventive properties and lack of substantial toxicity.
-Here, we investigated the efficacy of the combined treatment of various phytochemicals with the anticancer drug clofarabine in malignant mesothelioma MSTO-211H cells and normal mesothelial MeT-5A cells.
-The combined treatment of resveratrol and clofarabine produced a synergistic antiproliferative effect in MSTO-211H cells, but not in MeT-5A cells.
-In MSTO-211H cells, the nuclear accumulation of Sp1 and the levels of p-Akt, Sp1, c-Met, cyclin D1, and p21 were effectively decreased by the combined treatment of them.
-In combination with clofarabine, the ability of resveratrol to reduce the contents of Sp1 and its target gene products was also evident in a time- and dose-dependent experiment.
-The inhibition of phosphoinositide 3-kinase using Ly294002 augmented a decrease in the p21 level induced by their combination, but it showed no significant effects on expression of Sp1 and cyclin D1.
-Taken together, the data provide evidence that the synergistic antiproliferative effect of resveratrol and clofarabine is linked to the inhibition of Akt and Sp1 activities, and suggest that this combination may have therapeutic value in treatment of malignant mesothelioma.

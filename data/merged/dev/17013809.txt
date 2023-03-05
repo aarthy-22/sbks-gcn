@@ -1,5 +1,0 @@
-The evolution of progesterone receptor ligands.
-Progesterone is one of the first nuclear receptor hormones to be described functionally and subsequently approached as a drug target.
-Because progesterone (1) affects both menstruation and gestation via the progesterone receptor (PR), research aimed at modulating its activity is usually surrounded by controversy.
-However, ligands for PR were developed into drugs, and their evolution can be crudely divided into three periods: (1) drug-like steroids that mimic the gestational properties of progesterone; (2) drug-like steroids with different properties from progesterone and expanded therapeutic applications; and (3) non-steroidal PR ligands with improved selectivity and modulator properties and further expanded therapeutic applications.
-Although the latter have yet to see widespread clinical applications, their development is founded on a half century of research, and they represent the future for this drug target.

@@ -1,9 +1,0 @@
-EGF receptor transactivation by urokinase receptor stimulus through a mechanism involving Src and matrix metalloproteinases.
-Urokinase-type plasminogen activator receptor (uPAR) and epidermal growth factor receptor (EGFR) are ubiquitous receptors involved in the control of a variety of cellular processes frequently found altered in cancer cells.
-The EGFR has been recently described to play a transduction role of uPAR stimuli, mediating uPA-induced proliferation in highly malignant cells that overexpress uPAR.
-In the present work, we found for the first time that uPAR stimulation with the amino-terminal fragment (ATF) of urokinase devoid of proteolytic activity transactivates the EGFR in mammary MCF-7 cells through a mechanism involving Src and a metalloproteinase, as indicated by its sensitivity to selected inhibitors.
-In these cells, which express low levels of uPAR and malignancy, both ATF and EGF stimuli induced an interaction of the EGFR with uPAR and ERK activation.
-However, EGFR activation by uPAR stimuli mediated cellular invasion rather than proliferation, while EGFR activation by EGF led to a proliferative response.
-These results revealed a complex modulation of EGFR function toward different cellular responses according to the status of uPAR activity.
-On the other hand, we also found that MMP-mediated activation of EGFR can occur in an autocrine manner in cells which secrete uPA.
-All this reveals novel regulatory systems operating through autocrine loops involving uPAR stimuli, Src, MMP and EGFR activation which could mediate fine control of physiological processes as well as contribute to the expression of proliferative and invasive phenotypes of cancerous cells.

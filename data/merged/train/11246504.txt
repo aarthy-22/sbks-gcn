@@ -1,8 +1,0 @@
-Cytochrome P450 4A, peroxisomal enzymes and nicotinamide cofactors in koala liver.
-We have examined hepatic levels of microsomal lauric acid hydroxylase activity and cyanide-insensitive palmitoyl coenzyme A oxidative activity in koala (Phascolarctos cinereus) and tammar wallaby (Macropus eugenii) and compared our results to those determined in rat.
-Microsomal lauric acid hydroxylation was significantly higher in koala than in tammar wallaby or rat.
-However, cyanide-insensitive palmitoyl-CoA oxidation was absent in the koala.
-We have also determined the hepatic nicotinamide cofactors in these species.
-Hepatic nicotinamide-adenine dinucleotide (NAD) and the ratio of NAD/nicotinamide-adenine dinucleotide phosphate (NADP) were higher in koala than in tammar wallaby and rat liver.
-Reverse transcription of koala liver mRNA, followed by polymerase chain reaction using primers based on highly conserved areas in the CYP4A family led to the cloning of a partial, near full length, cDNA clone with approximately 70% nucleotide and deduced amino acid sequence identity to human CYP4A11.
-The CYP has been named CYP4A15.

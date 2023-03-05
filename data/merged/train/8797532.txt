@@ -1,7 +1,0 @@
-Striatal dopamine, dopamine transporter, and vesicular monoamine transporter in chronic cocaine users.
-Depletion of striatal dopamine (DA) has been hypothesized to explain some of the neurological and psychiatric complications of chronic use of cocaine, including increased risk for neuroleptic-precipitated movement disorders.
-We measured levels of DA, as well as two DA nerve terminal indices, namely, the DA transporter (DAT) and the vesicular monoamine transporter (VMAT2) in autopsied brain of 12 chronic cocaine users.
-Mean DA levels were normal in the putamen, the motor component of the striatum; however 4 of the 12 subjects had DA values below the lower limit of the control range.
-DA concentrations were significantly reduced in the caudate head (head, -33%; tail, -39%) with a trend for reduction in nucleus accumbens (-27%).
-Striatal DAT protein (-25 to -46%) and VMAT2 (-17 to -22%) were reduced, whereas DAT determined by [3H]WIN 35,428 binding was normal.
-In conclusion, our data suggest that chronic cocaine use is associated with modestly reduced levels of striatal DA and the DA transporter in some subjects and that these changes might contribute to the neurological and psychiatric effects of the drug.

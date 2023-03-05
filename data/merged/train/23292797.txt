@@ -1,9 +1,0 @@
-Smoothened is a fully competent activator of the heterotrimeric G protein G(i).
-Smoothened (Smo) is a 7-transmembrane protein essential to the activation of Gli transcription factors (Gli) by hedgehog morphogens.
-The structure of Smo implies interactions with heterotrimeric G proteins, but the degree to which G proteins participate in the actions of hedgehogs remains controversial.
-We posit that the G(i) family of G proteins provides to hedgehogs the ability to expand well beyond the bounds of Gli.
-In this regard, we evaluate here the efficacy of Smo as it relates to the activation of G(i), by comparing Smo with the 5-hydroxytryptamine(1A) (5-HT(1A)) receptor, a quintessential G(i)-coupled receptor.
-We find that with use of [(35)S]guanosine 5'-(3-O-thio)triphosphate, first, with forms of G(i) endogenous to human embryonic kidney (HEK)-293 cells made to express epitope-tagged receptors and, second, with individual forms of Gα(i) fused to the C terminus of each receptor, Smo is equivalent to the 5-HT(1A) receptor in the assay as it relates to capacity to activate G(i).
-This finding is true regardless of subtype of G(i) (e.g., G(i2), G(o), and G(z)) tested.
-We also find that Smo endogenous to HEK-293 cells, ostensibly through inhibition of adenylyl cyclase, decreases intracellular levels of cAMP.
-The results indicate that Smo is a receptor that can engage not only Gli but also other more immediate effectors.

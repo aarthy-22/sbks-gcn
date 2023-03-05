@@ -1,6 +1,0 @@
-Tandutinib (MLN518/CT53518) targeted to stem-like cells by inhibiting the function of ATP-binding cassette subfamily G member 2.
-Tandutinib is a novel inhibitor of tyrosine kinases FLT3, PDGFR and KIT.
-Our study was to explore the capability of tandutinib to reverse ABC transporter-mediated multidrug resistance.
-Tandutinib reversed ABCG2-mediated drug resistance in ABCG2-482-R2, ABCG2-482-G2, ABCG2-482-T7 and S1-M1-80 cells and increased the accumulation of doxorubicin, rhodamine 123 and [H(3)] mitoxantrone in ABCG2-overexpressing cells.
-Importantly, tandutinib selectively sensitized side population cells to mitoxantrone.
-Taken together, our results advocate the potency of tandutinib as an ABCG2 modulator and stem-like cells targeted agent to increase efficiency of anticancer drugs.

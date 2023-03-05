@@ -1,6 +1,0 @@
-Synthesis, pharmacological evaluation and QSAR modeling of mono-substituted 4-phenylpiperidines and 4-phenylpiperazines.
-A series of mono-substituted 4-phenylpiperidines and -piperazines have been synthesized and their effects on the dopaminergic system tested in vivo.
-The structure activity relationship (SAR) revealed that the position and physicochemical character of the aromatic substituent proved to be critical for the levels of 3,4-dihydroxyphenylacetic acid (DOPAC) in the brain of freely moving rats.
-In order to investigate how the structural properties of these compounds affect the response, a set of tabulated and calculated physicochemical descriptors were modeled against the in vivo effects using partial least square (PLS) regression.
-Furthermore, the binding affinities to the dopamine D2 (DA D2) receptor and monoamine oxidase A (MAO A) enzyme were determined for a chosen subset and QSAR models using the same descriptors as in the in vivo model were produced to investigate the mechanisms leading to the observed DOPAC response.
-These models, in combination with a strong correlation between the levels of striatal DOPAC and the affinities to DA D2 and MAO A, provides a comprehensive understanding of the biological response for compounds in this class.

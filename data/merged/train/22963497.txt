@@ -1,6 +1,0 @@
-A novel reproductive peptide, phoenixin.
-Normal anterior pituitary function is essential for fertility.
-Release from the gland of the reproductive hormones luteinising hormone and follicle-stimulating hormone is regulated primarily by hypothalamically-derived gonadotrophin-releasing hormone (GnRH), although other releasing factors (RF) have been postulated to exist.
-Using a bioinformatic approach, we have identified a novel peptide, phoenixin, that regulates pituitary gonadotrophin secretion by modulating the expression of the GnRH receptor, an action with physiologically relevant consequences.
-Compromise of phoenixin in vivo using small interfering RNA resulted in the delayed appearance of oestrus and a reduction in GnRH receptor expression in the pituitary.
-Phoenixin may represent a new class of hypothalamically-derived pituitary priming factors that sensitise the pituitary to the action of other RFs, rather than directly stimulating the fusion of secretary vesicles to pituitary membranes.

@@ -1,8 +1,0 @@
-Structure-based design of aliskiren, a novel orally effective renin inhibitor.
-Hypertension is a major risk factor for cardiovascular diseases such as stroke, myocardial infarction, and heart failure, the leading causes of death in the Western world.
-Inhibitors of the renin-angiotensin system (RAS) have proven to be successful treatments for hypertension.
-As renin specifically catalyses the rate-limiting step of the RAS, it represents the optimal target for RAS inhibition.
-Several peptide-like renin inhibitors have been synthesized previously, but poor pharmacokinetic properties meant that these compounds were not clinically useful.
-We employed a combination of molecular modelling and crystallographic structure analysis to design renin inhibitors lacking the extended peptide-like backbone of earlier inhibitors, for improved pharmacokinetic properties.
-This led to the discovery of aliskiren, a highly potent and selective inhibitor of human renin in vitro, and in vivo; once-daily oral doses of aliskiren inhibit renin and lower blood pressure in sodium-depleted marmosets and hypertensive human patients.
-Aliskiren represents the first in a novel class of renin inhibitors with the potential for treatment of hypertension and related cardiovascular diseases.

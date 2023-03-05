@@ -1,4 +1,0 @@
-Aminopropylindenes derived from Grundmann's ketone as a novel chemotype of oxidosqualene cyclase inhibitors.
-A series of aminopropylindenes, designed as mimics of a cationic high energy intermediate in the oxidosqualene cyclase(1) (OSC)-mediated cyclization of 2,3-oxidosqualen to lanosterol was prepared from Grundmann's ketone.
-Screening on OSCs from five different organisms revealed interesting activities and selectivities of some of the compounds.
-A N,N-dimethylaminopropyl derivative showed promising inhibition of Trypanosoma cruzi OSC in combination with low cytotoxicity, and showed significant reduction of cholesterol biosynthesis in a human cell line.

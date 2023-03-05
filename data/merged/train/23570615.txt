@@ -1,6 +1,0 @@
-Extracellular Signal-Regulated Kinases (ERK) Inhibitors from Aristolochia yunnanensis.
-Six new sesquiterpenoids, aristoyunnolins A-F (1-6), an artifact of isolation [7-O-ethyl madolin W (7)], and 12 known analogues were isolated from stems of Aristolochia yunnanensis.
-The structures were determined by combined chemical and spectral methods, and the absolute configurations of compounds 2, 3, 5-7, 9, 14, and 17 were determined by the modified Mosher's method and CD analysis.
-Compounds 1-19 were screened using a bioassay system designed to evaluate the effect on mitogen-activated protein kinases (MAPKs) signaling pathways.
-Among three MAPKs (ERK1/2, JNK, and p38), compounds 1, 4, 10-13, 16, 18, and 19 exhibited selective inhibition of the phosphorylation of ERK1/2.
-Compounds 16 and 19 were more active than the positive control PD98059, a known inhibitor of the ERK1/2 signaling pathway.

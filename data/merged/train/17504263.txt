@@ -1,8 +1,0 @@
-Alanine metabolism, transport, and cycling in the brain.
-Brain glutamate/glutamine cycling is incomplete without return of ammonia to glial cells.
-Previous studies suggest that alanine is an important carrier for ammonia transfer.
-In this study, we investigated alanine transport and metabolism in Guinea pig brain cortical tissue slices and prisms, in primary cultures of neurons and astrocytes, and in synaptosomes.
-Alanine uptake into astrocytes was largely mediated by system L isoform LAT2, whereas alanine uptake into neurons was mediated by Na(+)-dependent transporters with properties similar to system B(0) isoform B(0)AT2.
-To investigate the role of alanine transport in metabolism, its uptake was inhibited in cortical tissue slices under depolarizing conditions using the system L transport inhibitors 2-aminobicyclo[2.2.1]heptane-2-carboxylic acid and cycloleucine (1-aminocyclopentanecarboxylic acid; cLeu).
-The results indicated that alanine cycling occurs subsequent to glutamate/glutamine cycling and that a significant proportion of cycling occurs via amino acid transport system L. Our results show that system L isoform LAT2 is critical for alanine uptake into astrocytes.
-However, alanine does not provide any significant carbon for energy or neurotransmitter metabolism under the conditions studied.

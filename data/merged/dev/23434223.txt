@@ -1,4 +1,0 @@
-A one-pot domino synthesis and discovery of highly functionalized dihydrobenzo[b]thiophenes as AChE inhibitors.
-A library of novel 5-amino-2,7-diaryl-2,3-dihydrobenzo[b]thiophene-4,6-dicarbonitriles have been synthesized regioselectively in good yields through the one-pot domino reactions of 5-aryldihydro-3(2H)-thiophenones, malononitrile and aromatic aldehydes in the presence of morpholine.
-This transformation presumably involves Knoevenagel condensation-Michael addition-intramolecular Thorpe-Ziegler cyclization-Tautomerization-Elimination sequence of reactions.
-These compounds were evaluated for their acetylcholinesterase (AChE) inhibitory activity and 5-amino-2,7-bis(4-methoxyphenyl)-2,3-dihydrobenzo[b]thiophene-4,6-dicarbonitrile was found to be the most potent against AChE with IC50 4.16 μmol/L.

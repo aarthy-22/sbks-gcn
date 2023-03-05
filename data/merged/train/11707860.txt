@@ -1,8 +1,0 @@
-DAB(389)IL-2 (denileukin diftitox, ONTAK): a new fusion protein technology.
-Genetic engineering has led to the development of fusion protein toxins, which are targeted effector molecules that combine a targeting ligand such as a growth factor with a cytocidal moiety such as a plant or bacterial toxin.
-The first genetically constructed family of fusion proteins used diphtheria toxin as the toxophore for receptor-binding domain substitution.
-Diphtheria toxin consists of three domains: an enzymatically active adenosine diphosphate (ADP) ribosyltransferase domain, a hydrophobic transmembrane domain, and a C-terminal receptor-binding domain.
-Introduction of the enzymatically active domain into the cytosol via receptor-mediated endocytosis results in inhibition of protein synthesis by ADP ribosylation of elongation-factor 2.
-DAB(486)IL-2, in which the native receptor-binding domain of diphtheria toxin was replaced with the full-length interleukin-2 (IL-2) gene, was capable of intoxicating high-affinity IL-2 receptor-bearing cells in vitro with an IC(50) of 10(-10) M; whereas, cells lacking the full component of the high-affinity IL-2 receptor (p55, p75, p64) were relatively resistant (IC(50) of 10(-8) M).
-Because of a short in vivo half-life of DAB(486)IL-2, efforts to reengineer the molecule were undertaken, leading to the DAB(389)IL-2 construct, which had a twofold to threefold higher Kd than DAB(486)IL-2 and a longer half-life, resulting in a tenfold increase in potency.
-Thus far, the clinical activity of both IL-2 chimeric fusion toxins has been similar, with the DAB(389)IL-2 molecule displaying more favorable pharmacokinetics.

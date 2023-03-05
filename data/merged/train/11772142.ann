@@ -31,3 +31,5 @@ T30	GENE-N 2280 2291	proton pump
 T18	CHEMICAL 2400 2411	Rabeprazole
 T31	GENE-N 2432 2443	proton pump
 T32	GENE-N 2715 2726	proton pump
+R0	CPR-4 Arg1:T7 Arg2:T33
+R1	CPR-4 Arg1:T18 Arg2:T31

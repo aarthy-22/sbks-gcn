@@ -1,6 +1,0 @@
-Potent elastase inhibitors from cyanobacteria: structural basis and mechanisms mediating cytoprotective and anti-inflammatory effects in bronchial epithelial cells.
-We discovered new structural diversity to a prevalent, yet medicinally underappreciated, cyanobacterial protease inhibitor scaffold and undertook comprehensive protease profiling to reveal potent and selective elastase inhibition.
-Structure-activity relationship (SAR) studies and X-ray cocrystal structure analysis allowed a detailed assessment of critical and tunable structural elements.
-To realize the therapeutic potential of these cyclodepsipeptides, we probed the cellular effects of a novel and representative family member, symplostatin 5 (1), which attenuated the downstream cellular effects of elastase in an epithelial lung airway model system, alleviating clinical hallmarks of chronic pulmonary diseases such as cell death, cell detachment, and inflammation.
-This compound attenuated the effects of elastase on receptor activation, proteolytic processing of the adhesion protein ICAM-1, NF-κB activation, and transcriptomic changes, including the expression of pro-inflammatory cytokines IL1A, IL1B, and IL8.
-Compound 1 exhibited activity comparable to the clinically approved elastase inhibitor sivelestat in short-term assays and demonstrated superior sustained activity in longer-term assays.

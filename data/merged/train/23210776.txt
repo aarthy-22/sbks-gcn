@@ -1,9 +1,0 @@
-New molecular and cellular targets for chemoprevention and treatment of skin tumors by plant polyphenols: a critical review.
-As the incidence of skin tumors has been steadily growing, there is an urgent need for the preventive measures as well as the improved therapeutic approaches.
-In the last two decades, natural plant derived polyphenols (PPs, resveratrol, silibinin, green tea polyphenols, flavonoids, anthocyanins, etc.) have been drawing particular interest as emerging active substances in dermatological/cosmeceutical compositions for the prevention, slowing, or reversion of skin tumorigenesis (chemoprevention).
-When chronically applied to the skin, they supposedly would not damage normal skin cells or negatively affect their functions while they would suppress tumorigenic cell transformation, inhibit tumor cell proliferation, and activate tumor cell apoptosis.
-PPs are also reported to synergize with conventional anti-cancer therapies.
-The major aim of this critical review is to provide recent updates on the molecular and cellular targets for the prevention and therapy of skin tumors with a special focus on the crossroad between inflammation and carcinogenesis as the most promising approach to chemoprevention.
-Novel therapeutic targets as different as epidermal stem cells, cellular senescence, epigenetic enzymes involved in carcinogenesis, epidermal growth factor and aryl hydrocarbon receptors, and metabolic CYP1 subfamily enzymes are highlighted.
-The mechanisms of PPs interaction with these molecular and cellular targets are reviewed.
-The feasibility of PPs to prevent/ cure specific cutaneous toxicity connected to anti-EGFR therapy and to reduce multidrug resistance of skin tumors is also discussed.

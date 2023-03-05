@@ -1,4 +1,0 @@
-A review on the development in the field of NIDDM based thiazolidinedione PPARγ agonists.
-Peroxisome Proliferator Activated Receptors gamma (PPARγ) are a class of ligand activated transcription factors with a prominent role in the regulation of metabolic processes.
-The present work aims towards examining the functional and structural features that facilitate the binding of small molecules based on Thiazolidinedione pharmacophore to PPARs.
-The intent of this article is to review all the reported thiazolidinediones and associated groups of PPARγ ligands.

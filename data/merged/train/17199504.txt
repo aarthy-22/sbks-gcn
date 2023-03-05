@@ -1,7 +1,0 @@
-Configuration of a scintillation proximity assay for the activity assessment of recombinant human adenine phosphoribosyltransferase.
-Adenine phosphoribosyltransferase plays a role in purine salvage by catalyzing the direct conversion of adenine to adenosine monophosphate.
-The involvement of the purine salvage pathway in tumor proliferation and angiogenesis makes adenine phosphoribosyltransferase a potential target for oncology drug discovery.
-We have expressed and characterized recombinant, N-terminally His-tagged human adenine phosphoribosyltransferase.
-Two assay formats were assessed for use in a high throughput screen: a spectrophotometric-based enzyme-coupled assay system and a radiometric ionic capture scintillation proximity bead assay format.
-Ultimately, the scintillation proximity assay format was chosen because of automated screening compatibility limitations of the coupled assay.
-We describe here the biochemical characterization of adenine phosphoribosyltransferase and the development of a robust, homogeneous, 384-well assay suitable for high throughput screening.

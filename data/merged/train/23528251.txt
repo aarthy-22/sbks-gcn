@@ -1,9 +1,0 @@
-Cross-talk between constitutive androstane receptor and hypoxia-inducible factor in the regulation of gene expression.
-Hypoxia inducible factor (HIF) and 5'-AMP-activated protein kinase are often activated under similar physiological conditions.
-Constitutive androstane receptor (CAR) translocates into the nucleus in accordance with 5'-AMP-activated protein kinase and thus confers transactivation.
-The aim of the present study was to investigate a possible link between CAR and HIFα.
-Phenobarbital (PB), a typical CAR activator, increased the gene expression of HIF-target genes in the livers of mice, including erythropoietin, heme oxygenase-1 and vascular endothelial growth factor-a.
-PB induced an accumulation of nuclear HIF-1α and an increase in the HIF-responsive element-mediated transactivation in HepG2 cells.
-Cobalt chloride, a typical HIF activator, induced the gene expression of CAR-target genes, including cyp2b9 and cyp2b10, an accumulation of nuclear CAR and an increase in the PB-responsive enhancer module-mediated transactivation in the mouse liver.
-Immunoprecipitation-immunoblot and chromatin immunoprecipitation analyses suggest that CAR binds to the PB-responsive enhancer module with HIF-1α in the liver of untreated mice and that the complex dissociates upon PB treatment.
-Taken together these results suggest that CAR and HIF-α interact and reciprocally modulate the functions of each other.

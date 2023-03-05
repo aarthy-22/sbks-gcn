@@ -8,3 +8,6 @@ T5	GENE-Y 251 270	Denileukin diftitox
 T7	GENE-N 293 307	IL-2 receptors
 T1	CHEMICAL 414 417	ADP
 T8	GENE-Y 434 453	elongation factor 2
+R0	NOT Arg1:T5 Arg2:T1
+R1	NOT Arg1:T7 Arg2:T1
+R2	NOT Arg1:T1 Arg2:T8

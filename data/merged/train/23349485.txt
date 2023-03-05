@@ -1,8 +1,0 @@
-Disruption of the cereblon gene enhances hepatic AMPK activity and prevents high fat diet-induced obesity and insulin resistance in mice.
-A nonsense mutation in cereblon (CRBN) causes a mild type of mental retardation in humans.
-An earlier study showed that CRBN negatively regulates the functional activity of AMP-activated protein kinase (AMPK) in vitro by binding directly to the α1 subunit of the AMPK complex.
-However, the in vivo role of CRBN was not studied.
-To elucidate the physiological functions of Crbn, a mouse strain was generated in which the Crbn gene was deleted throughout the whole body.
-In Crbn-deficient mice fed a normal diet, AMPK in the liver showed hyper-phosphorylation, which indicated the constitutive activation of AMPK.
-Since Crbn-deficient mice showed significantly less weight gain when fed a high fat diet and their insulin sensitivity was considerably improved, the functions of Crbn in the liver were primarily investigated.
-These results provide the first in vivo evidence that Crbn is a negative modulator of AMPK, which suggests that Crbn may be a potential target for metabolic disorders of the liver.

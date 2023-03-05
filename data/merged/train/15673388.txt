@@ -1,8 +1,0 @@
-Further insights into the effect of quinidine in short QT syndrome caused by a mutation in HERG.
-INTRODUCTION: The principal aim of this study was to assess the efficacy of quinidine in suppressing IKr in vitro and in modulating the rate dependence of the QT interval in the "SQT1" form of the short QT syndrome.
-METHODS AND RESULTS: Graded-intensity bicycle exercise testing was performed off drug in three patients and during oral quinidine in two patients with short QT syndrome and compared to a control group of healthy normal subjects.
-The in vitro effects of quinidine on currents in patch clamp technique were investigated.
-Off drugs QTpV3/heart rate correlation is much weaker in patients with short QT syndrome, and QTpV3 shortens less with heart rate increase compared to normal subjects.
-In addition to prolonging the QT interval into the normal range, quinidine restored the heart rate dependence of the QT interval toward a range of adaptation reported for normal subjects.
-Data from heterologous expression of wild-type and mutant HERG genes indicate the mutation causes a 20-fold increase in IC50 of d-sotalol but only a 5.8-fold increase in IC50 of quinidine.
-CONCLUSION: Oral quinidine is effective in suppressing the gain of function in IKr responsible for some cases of short QT syndrome with a mutation in HERG and thus restoring normal rate dependence of the QT interval and rendering ventricular tachycardia/ventricular fibrillation noninducible.

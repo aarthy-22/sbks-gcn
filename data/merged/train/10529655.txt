@@ -1,9 +1,0 @@
-Tamsulosin: assessment of affinityof (3)H-P razosin binding to two alpha-1- adrenoceptor subtypes in the canine aorta.
-This study was performed to assess the affinity of tamsulosin to the alpha(1L)- in addition to alpha(1B)-adrenoceptor (alpha(1)-AR) subtypes coexisting in the canine aorta using the radioligand binding assay.
-The antagonistic effects of this drug on contraction of the rat aorta were also assessed, and the results were compared with those obtained with prazosin, amosulalol, labetalol, ketanserin, clonidine and propranolol.
-The pKi value of tamsulosin to the alpha(1L)-subtype was lower than those of prazosin and HV-723, but higher than those of amosulalol, ketanserin and labetalol.
-The pKi value of tamsulosin for the alpha(1B)-subtype in the canine aorta was similar to that of prazosin.
-However, this drug showed a higher pKi value than amosulalol, HV-723, labetalol and ketanserin.
-On the other hand, the order of inhibition potencies for contraction of the rat aorta by phenylephrine was as follows: prazosin > tamsulosin > amosulalol > HV-723 > labetalol > ketanserin > clonidine > propranolol.
-Thus, although the affinity of tamsulosin to the alpha(1B)-AR subtype in the canine aorta was as high as that in the bovine prostate reported in our previous study, the affinity (pKi 7. 87) of this drug to alpha(1L)-AR in the canine aorta was lower than that (pKi 8.99) in the bovine prostate.
-These observations suggested that the pharmacological potencies of tamsulosin in the aorta and prostate may be different.

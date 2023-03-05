@@ -1,7 +1,0 @@
-Lipid biomarkers of oxidative stress in a genetic mouse model of Smith-Lemli-Opitz syndrome.
-7-Dehydrocholesterol (7-DHC) accumulates in tissues and fluids of patients with Smith-Lemli-Opitz syndrome (SLOS), which is caused by mutations in the gene encoding 3β-hydroxysterol-Δ(7)-reductase (DHCR7).
-We recently reported that 7-DHC is the most reactive lipid molecule toward free radical oxidation (lipid peroxidation) and 14 oxysterols have been identified as products of oxidation of 7-DHC in solution.
-As the high oxidizability of 7-DHC may lead to systemic oxidative stress in SLOS patients, we report here lipid biomarkers of oxidative stress in a Dhcr7-KO mouse model of SLOS, including oxysterols, isoprostanes (IsoPs), and neuroprostanes (NeuroPs) that are formed from the oxidation of 7-DHC, arachidonic acid and docosahexaenoic acid, respectively.
-In addition to a previously described oxysterol, 3β,5α-dihydroxycholest-7-en-6-one (DHCEO), we provide evidence for the chemical structures of three new oxysterols in the brain and/or liver tissue of Dhcr7-KO mice, two of which were quantified.
-We find that levels of IsoPs and NeuroPs are also elevated in brain and/or liver tissues of Dhcr7-KO mice relative to matching WT mice.
-While IsoPs and NeuroPs have been established as a reliable measurement of lipid peroxidation and oxidative stress in vivo, we show that in this genetic SLOS mouse model, 7-DHC-derived oxysterols are present at much higher levels than IsoPs and NeuroPs and thus are better markers of lipid oxidation and related oxidative stress.

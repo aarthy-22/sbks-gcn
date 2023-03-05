@@ -1,9 +1,0 @@
-Dopamine receptor blockade increases dopamine D2 receptor and glutamic acid decarboxylase mRNAs in mouse substantia nigra.
-To study the influence of dopaminergic activity on the expression of dopamine D2 receptors and glutamic acid decarboxylase in substantia nigra, mice were treated daily for several days with an irreversibly acting dopamine D1 and dopamine D2 receptor antagonist N-ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline (EEDQ) or with a selective irreversible D2 dopamine receptor antagonist fluphenazine-N-mustard.
-Mice were killed 24 h after the last injection.
-Dopamine D1 and dopamine D2 receptors were determined by receptor autoradiography, and dopamine D1 and dopamine D2 receptor mRNA and glutamic acid decarboxylase mRNA were determined by in situ hybridization histochemistry.
-The results showed that treatment with EEDQ, which blocked 80% to 85% of the dopamine D2 and dopamine D1 receptors in substantia nigra, increased the levels of dopamine D2 receptor mRNA in substantia nigra by about 27%.
-Treatment with fluphenazine-N-mustard, which blocked about 85% of the dopamine D2 receptors in substantia nigra but had no significant effect on dopamine D1 receptors, increased the levels of dopamine D2 receptor mRNA by about 34%.
-There were no detectable levels of dopamine D1 receptors, increased the levels of dopamine D2 receptor mRNA by about 34%.
-There were no detectable levels of dopamine D1 receptor mRNA in substantia nigra either in control animals or in animals treated with the dopamine receptor antagonists.
-Glutamic acid decarboxylase mRNA was expressed in several regions of the mid-brain but only that expressed in substantia nigra was altered by treatment with dopamine receptor antagonists.(ABSTRACT TRUNCATED AT 250 WORDS)

@@ -1,9 +1,0 @@
-Neuroparalysis and oxime efficacy in organophosphate poisoning: a study of butyrylcholinesterase.
-The temporal profile of butyrylcholinesterase (BuChE) and in vitro pralidoxime-reactivated BuChE was studied in a cohort of 25 organophosphate-poisoned patients to examine their relationship to the development of intermediate syndrome and to understand reasons for lack of efficacy of oxime treatment.
-The clinical severity of poisoning (assessed by the Namba Scale) correlated significantly with the severity of intermediate syndrome.
-BuChE activity increased significantly over time and showed significant relationship to muscle power.
-The temporal profile of the enzyme was correlated to the clinical severity of poisoning.
-Reactivation potentials of BuChE (the difference between oxime-reactivated and -unreactivated enzyme activity) declined significantly with time after organophosphate ingestion.
-The reactivation potential of the enzyme at admission decreased significantly with increasing severity of poisoning and was lower in patients who developed intermediate syndrome.
-Patients who received oxime prior to hospitalization had a higher rate of intermediate syndrome and lower levels of BuChE at admission than those who had not.
-The study suggests that (i) BuChE reflects the clinical course of poisoning, confirming earlier studies; (ii) intermediate syndrome may be associated with a persistent inhibition of BuChE; and (iii) the lack of oxime efficacy in our patients maybe due to their severity of poisoning and the timing of oxime treatment.

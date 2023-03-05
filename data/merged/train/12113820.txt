@@ -1,4 +1,0 @@
-Novel human metabolites of the angiotensin-II antagonist tasosartan and their pharmacological effects.
-Three novel metabolites of the angiotensin-II (A-II) receptor antagonist tasosartan have been identified in humans, and the syntheses and pharmacologic profiling of these metabolites are reported.
-Each metabolite bound the human A-II receptor with IC(50)s between 20 and 45nM. The in vivo effects of these compounds in attenuating the pressor response to angiotensin-II challenge in anesthetized rats were also investigated.
-An unsaturated diol metabolite exhibited in vivo efficacy at intravenous doses of 1 and 3mg/kg, while the other metabolites, both carboxylic acids, had no significant effect at the same doses.

@@ -1,9 +1,0 @@
-Role of oxidative stress in chemical allergens induced skin cells activation.
-Allergic contact dermatitis (ACD) is an important occupational and environmental disease caused by topical exposure to chemical allergens.
-It describes the adverse effects that may results when exposure to a chemical elicits a T cell-mediated inflammatory skin disease.
-The ability of contact sensitizers to induce the oxidative stress pathway in keratinocytes and dendritic cells has been confirmed by several authors.
-Reactive oxygen species (ROS) can serve as essential second messengers mediating cellular responses resulting in immune cells activation.
-Oxidative stress may be the starter point, as it leads to the activation of transcription factors and signaling pathways, including NF-kB and p38 MAPK, which leads to the release of cytokines and chemokines.
-ROS are also involved in the activation of the NLRP3/NALP3 inflammasome, which is required to direct the proteolytic maturation of inflammatory cytokines such as IL-1β and IL-18, which are all integral to the process of dendritic cells mobilization, migration and functional maturation.
-Moreover, emerging evidence correlates ROS to changes in the constitution of the extracellular microenvironment found to facilitate ACD.
-The purpose of this review is to provide both conceptual and technical frameworks on the role of oxidative stress in chemical allergy.

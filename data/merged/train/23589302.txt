@@ -1,9 +1,0 @@
-The Fer tyrosine kinase is important for platelet-derived growth factor-BB-induced Stat3 phosphorylation, colony formation in soft agar and tumor growth in vivo.
-Fer is a cytoplasmic tyrosine kinase that is activated in response to platelet-derived growth factor (PDGF) stimulation.
-In the present report, we show that Fer associates with the activated PDGFbeta receptor (PDGFRbeta) through multiple autophosphorylation sites, i.e. Tyr579, Tyr581, Tyr740 and Tyr1021.
-Using low molecular weight inhibitors, we found that PDGF-BB-induced Fer activation is dependent on PDGFRbeta kinase activity, but not on the enzymatic activity of Src or Jak kinases.
-In cells in which Fer was downregulated using siRNA, PDGF-BB was unable to induce phosphorylation of Stat3, whereas phosphorylations of Stat5, Erk1/2 and Akt were unaffected.
-PDGF-BB-induced activation of Stat3 occurred also in cells expressing kinase-dead Fer, suggesting a kinase-independent adaptor role of Fer.
-Expression of Fer was dispensable for PDGF-BB-induced proliferation and migration, but essential for colony formation in soft agar.
-Tumor growth in vivo was delayed in cells depleted of Fer expression.
-Our data suggests a critical role of Fer in PDGF-BB-induced Stat3 activation and cell transformation.

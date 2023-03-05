@@ -9,3 +9,6 @@ T11	GENE-N 964 970	lectin
 T2	CHEMICAL 1095 1116	poly(ethylene glycol)
 T6	GENE-N 1149 1155	lectin
 T7	GENE-N 1555 1576	C3 and C5 convertases
+R0	CPR-2 Arg1:T4 Arg2:T9
+R1	CPR-2 Arg1:T4 Arg2:T10
+R2	CPR-3 Arg1:T2 Arg2:T6

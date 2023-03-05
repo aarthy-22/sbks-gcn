@@ -1,9 +1,0 @@
-Resistin knockout mice exhibit impaired adipocyte glucose-dependent insulinotropic polypeptide receptor (GIPR) expression.
-Glucose-dependent insulinotropic polypeptide (GIP) is an incretin hormone that also plays a regulatory role in fat metabolism.
-In 3T3-L1 cells, resistin was demonstrated to be a key mediator of GIP stimulation of lipoprotein lipase (LPL) activity, involving activation of protein kinase B (PKB) and reduced phosphorylation of liver kinase B1 (LKB1) and AMP-activated protein kinase (AMPK).
-The current study was initiated to determine whether resistin has additional roles in GIP-regulated adipocyte functions.
-Analysis of primary adipocytes isolated from Retn(-/-), Retn(+/-), and Retn(+/+) mice found that GIP stimulated the PKB/LKB1/AMPK/LPL pathway and fatty acid uptake only in Retn(+/+) adipocytes, suggesting that GIP signaling and/or GIP responsiveness were compromised in Retn(+/-) and Retn(-/-) adipocytes.
-GIP receptor (GIPR) protein and mRNA were decreased in Retn(+/-) and Retn(-/-) adipocytes, but resistin treatment rescued LPL responsiveness to GIP.
-In addition, genes encoding tumor necrosis factor (TNF), TNF receptor 2 (TNFR2), and the signaling proteins stress-activated protein kinase (SAPK)/Jun NH(2)-terminal kinase (JNK), were downregulated, and phosphorylated levels of SAPK/JNK/c-Jun were decreased in Retn(-/-) mice.
-Chromatin immunoprecipitation assays were used to identify a 12-O-tetradecanoylphorbol-13-acetate (TPA)-response element (TRE-III) responsible for c-Jun-mediated transcriptional activation of Gipr.
-Blunted GIP responsiveness in Retn(+/-) and Retn(-/-) adipocytes was therefore largely due to the greatly reduced GIPR expression associated with decreased c-Jun-mediated transcriptional activation of Gipr.

@@ -14,3 +14,5 @@ T12	CHEMICAL 470 480	olmesartan
 T14	GENE-Y 1138 1169	angiotensin II type 1 receptors
 T1	CHEMICAL 1195 1206	telmisartan
 T15	GENE-Y 1232 1276	peroxisome proliferator-activated receptor-γ
+R0	CPR-6 Arg1:T1 Arg2:T14
+R1	CPR-5 Arg1:T1 Arg2:T15

@@ -1,8 +1,0 @@
-Combined effects of organochlorine pesticides heptachlor and hexachlorobenzene on the promotion stage of hepatocarcinogenesis in rats.
-We aimed to investigate the combined effect of organochlorine pesticides heptachlor (HEP) and hexachlorobenzene (HCB) by using a medium-term rat liver bioassay.
-Male F344 rats were initially administered diethylnitrosamine (DEN, 200mg/kgi.p.); after a 2-week non-dosing period, they were given diets containing HEP (5 or 25ppm), HCB (70 or 350ppm), or their mixtures (5 and 70ppm or 25 and 350ppm) for 6weeks.
-All rats were subjected to partial hepatectomy at week 3 and killed at week 8.
-We observed additive or synergistic effects of HEP and HCB in groups treated with mixtures of these pesticides.
-Number and area of preneoplastic foci positive for glutathione S-transferase placental form (GST-P) were consistently higher in these groups than the sum of individual values in the groups treated with HEP or HCB alone.
-Consistent with these findings, HEP and HCB had additive or synergistic effects on cell proliferation induction within the preneoplastic foci and cytochrome P450 (CYP) 2B1 and 3A1 induction, which may lead to more efficient metabolic activation of HEP and HCB.
-On the basis of these findings, we conclude that HEP and HCB have additive and synergistic effects on the development of GST-P-positive foci and that higher risks are associated with a combination of residual organochlorine pesticides in foods than with individual residual organochlorine pesticides.

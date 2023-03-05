@@ -1,8 +1,0 @@
-Bis(12)-hupyridone, a novel acetylcholinesterase inhibitor, protects against glutamate-induced neuronal excitotoxicity via activating α7 nicotinic acetylcholine receptor/phosphoinositide 3-kinase/Akt cascade.
-Bis(12)-hupyridone (B12H), derived from the Chinese medicinal component huperzine A, was originally designed as a novel acetylcholinesterase (AChE) inhibitor.
-In this paper, we report that B12H (24-h pretreatment) effectively blocked glutamate-induced neuronal excitotoxicity in cerebellar granule neurons (CGNs).
-However, the huge discrepancy between the EC50 value and IC50 value of B12H, to protect against neuronal toxicity (0.09μM) and to block the NMDA receptor (21.8μM) respectively, suggests that the neuroprotection of B12H might be not primarily due to the blockade of the NMDA receptor.
-Pretreatment by specific antagonists of alpha7-nicotinic acetylcholine receptor (α7nAChR), but not muscarinic acetylcholine receptor (mAChR) or α4β2nAChR, decreased the neuroprotection of B12H.
-The neuroprotection of B12H could also be abolished by the pretreatment of specific PI3-K inhibitors.
-Furthermore, B12H restored the suppressed activation of the Akt pathway caused by glutamate as evidenced by the decreased expressions of pSer473-Akt and pSer9-GSK3β.
-All these results suggest that B12H substantially protected CGNs against glutamate-induced neuronal excitotoxicity via activating α7nAChR/PI3-K/Akt cascade.

@@ -1,9 +1,0 @@
-β-Asarone induces senescence in colorectal cancer cells by inducing lamin B1 expression.
-Colorectal cancer is a leading cause of cancer mortality with a complex carcinogenesis that includes reduced cellular senescence.
-Lamin proteins are decreased in senescing cells, and frequently decreased in malignancies.
-This study identified a new drug candidate for colorectal cancer that appears to target cell senescence via a lamin protein.
-β-Asarone (1-propenyl-2,4,5-methoxybenzol) is a compound from the traditional medical herb Acorus calamus Linn.
-This study tested the in vitro and in vivo effects of β-asarone on colorectal cancer cells by testing cell viability using human colorectal cell lines HT29 and SW480 in MTT assays; tumorigenesis using xenografts in nude mice and a mouse model of colorectal cancer; cell senescence using senescence-associated β-galactosidase activity; and expression of cancer and senescence-related proteins, specifically lamins, Oct-1, p53, p21, and p15, by Western blot.
-β-Asarone appeared to increase expression of lamin B1, p53, p21, but not lamin A/C. β-Asarone regulates p15 expression by regulation of Oct-1 binding.
-Collectively, the results suggested that β-asarone inhibits colon cancer formation in vivo and in vitro by inducing senescence.
-Since β-asarone induced lamin B1 expression, a model is proposed in which β-asarone inhibits colorectal cancer by inducing senescence through lamin B1.

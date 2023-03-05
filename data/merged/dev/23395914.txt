@@ -1,9 +1,0 @@
-Site dependent intestinal absorption of darunavir and its interaction with ketoconazole.
-The expression of P-gp increases from proximal to distal parts of the small intestine, whereas for P450 enzymes the expression is reported to be highest in duodenum and jejunum, decreasing to more distal sites.
-To evaluate to what extent the regional differences in expression of P-gp and P450 enzymes affect the absorption of a dual substrate, we investigated the transport of darunavir across different small intestinal segments (duodenum, proximal jejunum and ileum).
-Moreover, the effect of ketoconazole on the intestinal absorption of darunavir was explored, since these drugs are commonly co-administered.
-Performing the rat in situ intestinal perfusion technique with mesenteric blood sampling, we found no significant differences in the transport of darunavir at the different intestinal segments.
-The involvement of P-gp in the absorption of darunavir was clearly shown by coperfusion of darunavir with the P-gp inhibitor zosuquidar.
-In presence of zosuquidar, a 2.2-, 4.2- and 5.7-fold increase in Papp values were measured for duodenum, proximal jejunum and ileum, respectively.
-Involvement of P450 mediated metabolism in the absorption of darunavir could not be demonstrated in this rat model.
-Upon studying the drug-drug interaction of darunavir with ketoconazole, data were indicative for an inhibitory effect of ketoconazole on P-gp as the main mechanism for the increased transport of darunavir across the small intestine.

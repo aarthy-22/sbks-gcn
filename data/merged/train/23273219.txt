@@ -1,5 +1,0 @@
-Synthesis, molecular modeling and evaluation of novel N'-2-(4-benzylpiperidin-/piperazin-1-yl)acylhydrazone derivatives as dual inhibitors for cholinesterases and Aβ aggregation.
-To develop new drugs for treatment of Alzheimer's disease, a group of N'-2-(4-Benzylpiperidin-/piperazin-1-yl)acylhydrazones was designed, synthesized and tested for their ability to inhibit acetylcholinesterase, butyrylcholinesterase and aggregation of amyloid beta peptides (1-40, 1-42 and 1-40_1-42).
-The enzyme inhibition assay results indicated that compounds moderately inhibit both acetylcholinesterase and butyrylcholinesterase.
-β-Amyloid aggregation results showed that all compounds exhibited remarkable Aβ fibril aggregation inhibition activity with a nearly similar potential as the reference compound rifampicin, which makes them promising anti-Alzheimer drug candidates.
-Docking experiments were carried out with the aim to understand the interactions of the most active compounds with the active site of the cholinesterase enzymes.

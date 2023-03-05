@@ -1,7 +1,0 @@
-Neurochemical mechanism of action of anorectic drugs.
-Studies with dexfenfluramine, an anorectic agent which releases 5-hydroxytryptamine (5-HT) from nerve terminals and inhibits its reuptake, have considerably increased our knowledge of the role of 5-HT in feeding control.
-5-HT1B receptors mediate the satiating effect of dexfenfluramine, whereas the mechanism by which 5-HT uptake inhibitors such as fluoxetine and sertraline cause anorexia is not clear.
-Anorexia induced by (+)-amphetamine, phentermine, diethylpropion and phenylpropanolamine seems to be the result of their ability to increase the release of noradrenaline and/or dopamine from nerve terminals and inhibit their reuptake or, in the case of phenylpropanolamine, to stimulate directly alpha 1-adrenoceptors.
-It has been suggested that beta- and alpha 1-adrenoceptors and D1 dopamine receptors are involved in their effect on food intake.
-The difficulties of extrapolation across species limit our knowledge of the mechanism of the anorectic action in humans.
-Significant advances in the treatment of feeding pathology will be linked to identifying new receptor types and subtypes for neurotransmitters and quantifying and modelling eating disorders such as binge-eating and food craving.

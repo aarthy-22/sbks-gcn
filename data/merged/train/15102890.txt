@@ -1,9 +1,0 @@
-Cross-inhibition of SR-BI- and ABCA1-mediated cholesterol transport by the small molecules BLT-4 and glyburide.
-Scavenger receptor class B type I (SR-BI) and ABCA1 are structurally dissimilar cell surface proteins that play key roles in HDL metabolism.
-SR-BI is a receptor that binds HDL with high affinity and mediates both the selective lipid uptake of cholesteryl esters from lipid-rich HDL to cells and the efflux of unesterified cholesterol from cells to HDL.
-ABCA1 mediates the efflux of unesterified cholesterol and phospholipids from cells to lipid-poor apolipoprotein A-I (apoA-I).
-The activities of ABCA1 and other ATP binding cassette superfamily members are inhibited by the drug glyburide, and SR-BI-mediated lipid transport is blocked by small molecule inhibitors called BLTs.
-Here, we show that one BLT, [1-(2-methoxy-phenyl)-3-naphthalen-2-yl-urea] (BLT-4), blocked ABCA1-mediated cholesterol efflux to lipid-poor apoA-I at a potency similar to that for its inhibition of SR-BI (IC(50) approximately 55-60 microM).
-Reciprocally, glyburide blocked SR-BI-mediated selective lipid uptake and efflux at a potency similar to that for its inhibition of ABCA1 (IC(50) approximately 275-300 microM).
-As is the case with BLTs, glyburide increased the apparent affinity of HDL binding to SR-BI.
-The reciprocal inhibition of SR-BI and ABCA1 by BLT-4 and glyburide raises the possibility that these proteins may share similar or common steps in their mechanisms of lipid transport.

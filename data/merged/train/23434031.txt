@@ -1,3 +1,0 @@
-Design, synthesis and SAR of novel glucokinase activators.
-Guided by co-crystal structures of compounds 15, 22 and 30, an SBDD approach led to the discovery of the 6-methyl pyridone series as a novel class of GKAs that potently activate GK in enzyme and cell assays.
-Anti-diabetic OGTT efficacy was demonstrated with 54 in a mouse model of type 2 diabetes.

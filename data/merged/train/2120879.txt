@@ -1,7 +1,0 @@
-Role of extracellular calcium and calmodulin in prolactin secretion induced by hyposmolarity, thyrotropin-releasing hormone, and high K+ in GH4C1 cells.
-The mechanism by which 30% medium hyposmolarity induces PRL secretion by GH4C1 cells was compared with that induced by 100 nmol/l TRH or 30 mmol/l K+.
-Removing medium Ca2+, blocking Ca2+ channels with 50 mumol/l verapamil, or inhibiting calmodulin activation with 20 mumol/l trifluoperazine, 10 mumol/l chlorpromazine or 10 mumol/l pimozide almost completely blocked hyposmolarity-induced secretion.
-The smooth muscle relaxant, W-7, which is believed relatively specific in inhibiting the Ca2(+)-calmodulin interaction, depressed hyposmolarity-induced PRL secretion in a dose-dependent manner (r = -0.991, p less than 0.01).
-The above drugs also blocked or decreased high K(+)-induced secretion, but had much less effect on TRH-induced secretion.
-Secretion induced by TRH, hyposmolarity, or high K+ was optimal at pH 7.3-7.65 and was significantly depressed at pH 6.0 or 8.0, indicating that release of hormone induced by all 3 stimuli is due to an active cell process requiring a physiologic extracellular pH and is not produced by nonspecific cell toxicity.
-The data suggest hyposmolarity and high K+ may share some similarities in their mechanism of stimulating secretion, which is different from that of TRH.

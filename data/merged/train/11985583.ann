@@ -12,3 +12,6 @@ T8	CHEMICAL 1045 1057	d-kynurenine
 T1	CHEMICAL 1110 1145	D,L-3,7-dihydroxydesaminokynurenine
 T9	GENE-Y 1200 1212	kynureninase
 T2	CHEMICAL 1327 1349	pyridoxal 5'-phosphate
+R0	NOT Arg1:T10 Arg2:T4
+R1	NOT Arg1:T4 Arg2:T13
+R2	NOT Arg1:T4 Arg2:T11

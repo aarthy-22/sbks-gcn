@@ -1,8 +1,0 @@
-New water-soluble sulfonylphosphoramidic acid derivatives of the COX-2 selective inhibitor cimicoxib.
-A novel approach to sulfonamide prodrugs.
-The synthesis and pharmacological evaluation of new water-soluble phosphoramidate derivatives of the COX-2 selective inhibitor cimicoxib (4) are described.
-The sulfonylphosphoramidic acid derivative 10 was converted to 4 in human plasma and showed excellent in vivo activity in the rat carrageenan-edema test.
-Pharmacokinetic evaluation in dogs indicated that 10 behaved as a prodrug, immediately converting to 4 and giving an identical profile to that of the parent compound.
-These results represent the first description of phosphoramidic acids as prodrugs for the sulfonamido group.
-Compound 10 also exhibited an important and sustained analgesic effect in the hyperalgesia test in rats and a high aqueous solubility at pH higher than 7.
-This profile led to the selection of 10 (UR-14048) for further development in the parenteral treatment of acute pain.

@@ -1,6 +1,0 @@
-Xanthurenic aciduria due to a mutation in KYNU encoding kynureninase.
-Massive urinary excretion of xanthurenic acid, 3-hydroxykynurenine and kynurenine, known as xanthurenic aciduria or hydroxykynureninuria, in a young Somali boy suggested kynureninase deficiency.
-Mutation analysis of KYNU encoding kynureninase of the index case revealed homozygosity for a c.593 A > G substitution leading to a threonine-to-alanine (T198A) shift.
-A younger brother was found to have a similar excretion pattern and the same genotype.
-At present, neither of the two boys has symptoms of niacin deficiency.
-This is the first report linking xanthurenic aciduria to a mutation in the gene encoding kynureninase.

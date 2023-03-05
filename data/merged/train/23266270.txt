@@ -1,8 +1,0 @@
-Anti-inflammatory effects of trans-1,3-diphenyl-2,3-epoxypropane-1-one mediated by suppression of inflammatory mediators in LPS-stimulated RAW 264.7 macrophages.
-To assess the potential therapeutic properties of trans-1,3-diphenyl-2,3-epoxypropane-1-one (DPEP), its anti-inflammatory effects were investigated in lipopolysaccharide (LPS)-stimulated mouse macrophage (RAW 264.7) cells.
-DPEP induced dose-dependent reduction of the protein levels of inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2) and concomitant reduction in the production of NO and prostaglandin E(2) (PGE(2)).
-Additionally, DPEP suppressed the production of inflammatory cytokines, including tumor necrosis factor-α (TNF-α), interleukin (IL)-1β, and IL-6.
-We investigated the mechanism by which DPEP inhibits NO and PGE(2) by examining the level of nuclear factor-κB (NF-κB) activation within the mitogen-activated protein kinase (MAPK) pathway, which is an inflammation-induced signaling pathway in RAW 264.7 cells.
-DPEP inhibited LPS-induced phosphorylation of ERK, JNK, and p38.
-Furthermore, DPEP inhibited the LPS-induced phosphorylation of inhibitor κB (IκB)-α and NF-κB p50.
-Taken together, the results of this study demonstrate that DPEP inhibits LPS-stimulated inflammation by blocking the NF-κB and MAPK pathways in macrophages.

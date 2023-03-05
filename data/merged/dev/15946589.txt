@@ -1,6 +1,0 @@
-Imatinib resistance in gastrointestinal stromal tumors.
-Conventional chemotherapeutic drugs are ineffective in treatment of gastrointestinal stromal tumors (GISTs).
-Imatinib (STI571, Gleevec, Glivec; Novartis Pharmaceuticals, East Hanover, NJ), a selective inhibitor of KIT, ABL, BCR-ABL, PDGFRA, and PDGFRB, represents a new paradigm of targeted cancer therapy and has revolutionized the treatment of patients with chronic myelogenous leukemia and GISTs.
-Unfortunately, imatinib resistance has emerged.
-The reported mechanism of imatinib resistance in GISTs involves missense mutation in the kinase domain of KIT, including Thr670Ile, Tyr823Asp, and Val654Ala.
-The established mechanisms and potential mechanisms of imatinib resistance in GISTs, the imaging studies indicative of early development of imatinib resistance, and the management of imatinib-resistant GISTs are discussed.

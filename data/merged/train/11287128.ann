@@ -12,3 +12,5 @@ T4	GENE-Y 1217 1229	antithrombin
 T6	GENE-Y 1511 1520	factor Xa
 T7	GENE-Y 1639 1651	antithrombin
 T2	CHEMICAL 1819 1826	calcium
+R0	CPR-4 Arg1:T1 Arg2:T3
+R1	CPR-4 Arg1:T1 Arg2:T4

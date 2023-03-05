@@ -1,7 +1,0 @@
-Sulfated glucosamine inhibits MMP-2 and MMP-9 expressions in human fibrosarcoma cells.
-In the present study, sulfated glucosamine (SGlc) that has been reported to relieve joint pain and inflammation in many arthritis patients was studied for its inhibitory effects on MMP-2 and MMP-9 in human fibrosarcoma cells.
-Expression and activity of above MMPs studied using gelatin zymography suggested SGlc as a potent MMP inhibitor.
-Further, transfection of promoter genes of MMPs and their transcription factors clearly exhibited that inhibition of MMP-2 and MMP-9 was due to down-regulation of transcription factor, NF-kappaB. However expression of activator protein-1 (AP-1), another important transcription factor of MMPs, was not affected by SGlc treatment.
-In addition, protein expression results of Western blot analysis were also in agreement with the results of gene transfection experiments.
-Moreover, down-regulation of NF-kappaB resulted in production of low levels of both NF-kappaB p50 and p65 proteins and directly affected activation process of MMP-2 and MMP-9 expressions.
-Since MMPs involve in joint inflammation, it can be presumed that inhibition of MMP-2 and MMP-9 can be one of the mechanisms of SGlc to be an effective drug in relieving the symptoms of osteoarthritis.

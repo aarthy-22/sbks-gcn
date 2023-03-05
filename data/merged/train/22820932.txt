@@ -1,8 +1,0 @@
-Altered gene expression involved in insulin signaling pathway in type II diabetic osteoporosis rats model.
-It is well established that both estrogen loss and type II diabetes mellitus (DMII) can impair bone metabolism, but whether estrogen loss exacerbates the effects of DMII is unclear.
-Therefore, we determined if ovariectomy (OVX) of rats on a long-term high-fat/sugar diet and injection of a low dose of streptozotocin (DMII) decreased bone mineral density (BMD) more than OVX or DMII alone.
-Bone insulin signaling is known to support bone metabolism; therefore, we also tested the hypothesis that OVX DMII rats (DOVX) would exhibit greater reductions in the expression of proteins important in insulin signaling, including IRS-1, IRS-2, and IGF-1.
-As hypothesized, BMD and plasma estrogen levels were decreased more in DOVX rats than in rats following OVX (NOVX) or DMII (DS) alone.
-IGF-1 expression was decreased in the liver, kidney, skeletal muscle, and bone of DOVX, DS, and NOVX rats; however, the decrease was larger and occurred sooner in DOVX rats.
-While IRS-1 and IRS-2 decreased in most groups in all tissues examined, the expression patterns differed in both a group- and tissue-dependent fashion.
-In conclusion, these data demonstrate that estrogen loss and DMII induced by a high-fat/sugar diet interact to produce osteoporosis and support the hypothesis that the bone loss may be mediated at least in part by concurrent decreases in the insulin signaling proteins in bone.

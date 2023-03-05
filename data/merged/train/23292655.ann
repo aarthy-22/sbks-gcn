@@ -8,4 +8,6 @@ T3	CHEMICAL 764 784	N-methyl-D-aspartate
 T8	GENE-N 764 794	N-methyl-D-aspartate receptors
 T9	GENE-N 796 802	NMDARs
 T10	GENE-N 987 992	LGICs
-R0	NOT Arg1:T3 Arg2:T9
+R0	CPR-1 Arg1:T2 Arg2:T8
+R1	CPR-1 Arg1:T2 Arg2:T9
+R2	NOT Arg1:T3 Arg2:T9

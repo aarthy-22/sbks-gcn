@@ -1,6 +1,0 @@
-Discovery of 4-{4-[(3R)-3-Methylmorpholin-4-yl]-6-[1-(methylsulfonyl)cyclopropyl]pyrimidin-2-yl}-1H-indole (AZ20): a potent and selective inhibitor of ATR protein kinase with monotherapy in vivo antitumor activity.
-ATR is an attractive new anticancer drug target whose inhibitors have potential as chemo- or radiation sensitizers or as monotherapy in tumors addicted to particular DNA-repair pathways.
-We describe the discovery and synthesis of a series of sulfonylmorpholinopyrimidines that show potent and selective ATR inhibition.
-Optimization from a high quality screening hit within tight SAR space led to compound 6 (AZ20) which inhibits ATR immunoprecipitated from HeLa nuclear extracts with an IC50 of 5 nM and ATR mediated phosphorylation of Chk1 in HT29 colorectal adenocarcinoma tumor cells with an IC50 of 50 nM. Compound 6 potently inhibits the growth of LoVo colorectal adenocarcinoma tumor cells in vitro and has high free exposure in mouse following moderate oral doses.
-At well tolerated doses 6 leads to significant growth inhibition of LoVo xenografts grown in nude mice.
-Compound 6 is a useful compound to explore ATR pharmacology in vivo.

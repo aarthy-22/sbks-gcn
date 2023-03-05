@@ -7,4 +7,5 @@ T5	CHEMICAL 1115 1128	phosphoserine
 T9	GENE-Y 1115 1145	phosphoserine aminotransferase
 T3	CHEMICAL 1853 1866	phosphoserine
 T8	GENE-Y 1853 1883	phosphoserine aminotransferase
-R0	NOT Arg1:T4 Arg2:T9
+R0	NOT Arg1:T1 Arg2:T7
+R1	NOT Arg1:T4 Arg2:T9

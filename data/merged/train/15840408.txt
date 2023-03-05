@@ -1,9 +1,0 @@
-Differential effect of prostaglandins E1 and E2 on lipopolysaccharide-induced adhesion molecule expression on human monocytes.
-The effect of prostaglandins E1 and E2 on the 1 ng/ml lipopolysaccharide-induced expression of intercellular adhesion molecule (ICAM)-1, B7.1, B7.2, CD40 and CD40 ligand (CD40L) on monocytes was examined.
-Prostaglandin E1 suppressed B7.1 and CD40 expression, but prostaglandin E2 did not effect on any type of adhesion molecule expression.
-Both prostaglandins inhibited tumor necrosis factor (TNF)-alpha production and T-cell proliferation of lipopolysaccharide-treated human peripheral blood mononuclear cells (PBMC).
-Among prostaglandin E1 receptors (IP/EP1/EP2/EP3/EP4) agonists, ONO-1301, a prostanoid IP-receptor agonist, prevented B7.1 and CD40 expression.
-ONO-AE1-259-01 a prostanoid EP2-receptor agonist, ONO-AE1-329, a prostanoid EP4-receptor agonist, and ONO-1301 inhibited TNF-alpha production and T-cell proliferation.
-Moreover, anti-B7.1 and anti-CD40 Abs prevented lipopolysaccharide-induced TNF-alpha production and T-cell proliferation.
-Therefore, the effect of prostaglandin E1 on TNF-alpha production and T-cell proliferation might depend on the inhibition of B7.1 and CD40 expression, but that of prostaglandin E2 might be independent of adhesion molecules expression.
-In conclusion, the mechanism responsible for the effect of prostaglandin E1 on lipopolysaccharide-induced responses is distinct from that of prostaglandin E2.

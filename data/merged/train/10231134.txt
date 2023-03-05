@@ -1,6 +1,0 @@
-Is phentermine an inhibitor of monoamine oxidase?
-A critical appraisal.
-Phentermine produces a spectrum of concentration-dependent biochemical effects.
-It interacts with NE transporters at 0.1 microM, DA transporters at about 1 microM, 5-HT transporters at 15 microM and MAO-A at about 100 microM. When administered at typical anorectic doses, phentermine primarily interacts with DA and NE transporters and does not produce biochemical or neurochemical effects which would occur if it were inhibiting MAO-A. Some other explanation other than MAO inhibition must be sought to explain how oral phentermine increases platelet 5-HT, since platelet MAO-B does not metabolize platelet 5-HT, and since amphetamine-type drugs are even weaker inhibitors of MAO-B than MAO-A. Clinical studies in humans have shown that amphetamine, which is a more potent inhibitor of MAO-A than phentermine, does not inhibit MAO-A at therapeutic doses.
-Neither phentermine alone, fluoxetine alone or their combined use have been associated with cardiac valvulopathy, and clinical experience has shown their combined use to be free of significant adverse effects.
-Viewed collectively, there appears to be no data to support the hypothesis that phentermine inhibits MAO at typical therapeutic doses.

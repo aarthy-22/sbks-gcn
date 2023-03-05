@@ -1,6 +1,0 @@
-A dihydrochalcone and several homoisoflavonoids from Polygonatum odoratum are activators of adenosine monophosphate-activated protein kinase.
-Adenosine monophosphate (AMP)-activated protein kinase (AMPK) is a major cellular energy sensor and master regulator of metabolic homeostasis; thus, AMPK plays a central role in studies on diabetes and related metabolic diseases.
-From the rhizomes of Polygonatum odoratum (Mill.) Druce, six homoisoflavonoids (1-6) and one dihydrochalcone (7) were isolated, and the structures of polygonatones A-D (4-7) were elucidated by various spectroscopic analyses.
-Compounds 1-7 were evaluated for their effect on AMPK activation.
-The amount of active phosphorylated AMPK and acetyl-CoA carboxylase in rat liver epithelial IAR-20 cells increased when the cells were incubated with the aforementioned compounds.
-Specifically, (3R)-5,7-dihydroxyl-6-methyl-8-methoxyl-3-(4'-hydroxylbenzyl)-chroman-4-one (1), (3R)-5,7-dihydroxyl-6,8-dimethyl-3-(4'-hydroxylbenzyl)-chroman-4-one (2), (3R)-5,7-dihydroxyl-6-methyl-3-(4'-hydroxylbenzyl)-chroman-4-one (3), and polygonatone D (7) exhibited significant activation effects.

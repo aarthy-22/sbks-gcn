@@ -9,3 +9,5 @@ T1	CHEMICAL 1260 1266	purine
 T2	CHEMICAL 1267 1277	pyrimidine
 T6	GENE-N 1369 1394	KpnI repetitive sequences
 T7	GENE-Y 1578 1587	factor IX
+R0	CPR-1 Arg1:T5 Arg2:T10
+R1	CPR-1 Arg1:T5 Arg2:T11

@@ -1,9 +1,0 @@
-Metabolism of 25-hydroxydihydrotachysterol3 in bone cells in vitro.
-Dihydrotachysterol3, a reduced (or hydrogenated) analog of vitamin D3 in which the A ring has been rotate through 180 degrees , is, after hepatic 25-hydroxylation, converted in vivo to a dihydroxylated metabolite, termed peak H, which is at present unidentified but with good affinity for the vitamin D receptor.
-Although peak H is made in relatively large amounts in vivo, it has not yet been possible to synthesize it in vitro.
-Mass spectrometric evidence suggests that peak H is 25-hydroxylated and the presumption that it is a metabolite of 25-hydroxydihydrotachysterol3 was confirmed by the demonstration that radiolabeled peak H was formed in vivo in the rat after injection of 25-hydroxy-[10,19-3H]dihydrotachysterol3, produced from [10,19-3H]dihydrotachysterol3 in a hepatic cell model.
-The metabolism of 25-hydroxy-[10,19-3H]dihydrotachysterol3 was also studied in a rat osteosarcoma cell UMR-106, a known target cell for vitamin D, using high (11 microM) and low (10 nM) substrate concentrations.
-Metabolic products were isolated by lipid extraction, purified by high-performance liquid chromatography, and characterized by direct-probe mass spectrometry and gas chromatography/mass spectrometry.
-The formation of peak H from 25-hydroxydihydrotachysterol3 could not be demonstrated in UMR-106 cells.
-However, 25-hydroxydihydrotachysterol3 was metabolized to at least seven side-chain modified metabolites, each of which was extensively characterized and tentatively identified.
-It is concluded that the vitamin D enzyme system present in UMR-106 cells is able to metabolize dihydrotachysterol3 very efficiently to a series of metabolites but is incapable of producing peak H.

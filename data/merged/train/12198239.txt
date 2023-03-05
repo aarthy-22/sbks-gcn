@@ -1,8 +1,0 @@
-The mineralocorticoid receptor may compensate for the loss of the glucocorticoid receptor at specific stages of mammary gland development.
-To study the role of glucocorticoid receptor (GR) at different stages of mammary gland development, mammary anlage were rescued from GR-/- mice by transplantation into the cleared fat pad of wild-type mice.
-In virgin mice, GR-/- outgrowths displayed abnormal ductal morphogenesis characterized by distended lumena, multiple layers of luminal epithelial cells in some regions along the ducts, and increased periductal stroma.
-In contrast, the loss of GR did not result in overt phenotypic changes in mammary gland development during pregnancy, lactation, and involution.
-Surprisingly, despite the known synergism between glucocorticoids and prolactin in the regulation of milk protein gene expression, whey acidic protein and beta-casein mRNA levels were unaffected in GR-/- transplants as compared with wild-type transplants.
-That mineralocorticoid receptor (MR) might compensate for the loss of GR was suggested by the detection of MR in the mammary gland at d 1 of lactation.
-This hypothesis was tested using explant cultures derived from the GR-/- transplants in which the mineralocorticoid fludrocortisone was able to synergistically induce beta-casein gene expression in the presence of prolactin and insulin.
-These studies suggest that MR may compensate for the absence of GR at some, but not at all stages of mammary gland development.

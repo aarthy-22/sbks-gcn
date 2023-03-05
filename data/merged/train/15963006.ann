@@ -6,3 +6,4 @@ T5	CHEMICAL 1506 1516	muscarinic
 T7	GENE-N 1506 1526	muscarinic receptors
 T6	CHEMICAL 1691 1713	S-isomer of oxybutynin
 T8	GENE-Y 1736 1758	muscarinic M2 receptor
+R0	NOT Arg1:T6 Arg2:T8

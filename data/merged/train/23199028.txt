@@ -1,7 +1,0 @@
-Synthesis, biological evaluation, and molecular modeling of glycyrrhizin derivatives as potent high-mobility group box-1 inhibitors with anti-heart-failure activity in vivo.
-Novel glycyrrhizin (GL) derivatives were designed and synthesized by introducing various amine or amino acid residues into the carbohydrate chain and at C-30.
-Their inhibitory effects on high-mobility group box 1 (HMGB1) were evaluated using a cell-based lipopolysaccharide (LPS) induced tumor necrosis factor α (TNF-α) release study.
-Compounds 10, 12, 18-20, 23, and 24, which had substituents introduced at C-30, demonstrated moderate HMGB1 inhibition with ED₅₀ values ranging from 337 to 141 μM, which are values comparable to that of the leading GL compound (1) (ED₅₀ = 70 μM).
-Compounds 23 and 24 emerged as novel and interesting HMGB1 inhibitors.
-These compounds were able to extend the survival of mice with chronic heart failure (CHF) and acute heart failure (AHF), respectively.
-In addition, molecular modeling studies were performed to support the biological data.

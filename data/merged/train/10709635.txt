@@ -1,7 +1,0 @@
-Carnitine biosynthesis.
-Purification of gamma-butyrobetaine hydroxylase from rat liver.
-gamma-Butyrobetaine hydroxylase catalyse the last step in carnitine biosynthesis, the formation of L-carnitine from gamma-butyrobetaine, a reaction dependent on Fe2+, alpha-ketoglutarate, ascorbate and oxygen.
-Initial attempts to purify the protein from rat liver showed that gamma-butyrobetaine hydroxylase is unstable.
-We, therefore, determined the influence of various compounds on the stability of gamma-butyrobetaine hydroxylase at different storage temperatures.
-The enzyme activity was best conserved by storing the protein at 4 degrees C in the presence of 200 g/l glycerol and 10 mM DTT.
-We subsequently purified the enzyme from rat liver to apparent homogeneity by liquid chromatography.

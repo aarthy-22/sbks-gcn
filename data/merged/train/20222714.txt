@@ -1,4 +1,0 @@
-Complexity in influenza virus targeted drug design: interaction with human sialidases.
-With the global spread of the pandemic H1N1 and the ongoing pandemic potential of the H5N1 subtype, the influenza virus represents one of the most alarming viruses spreading worldwide.
-The influenza virus sialidase is an effective drug target, and a number of inhibitors are clinically effective against the virus (zanamivir, oseltamivir, peramivir).
-Here we report structural and biochemical studies of the human cytosolic sialidase Neu2 with influenza virus sialidase-targeting drugs and related compounds.

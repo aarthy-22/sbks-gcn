@@ -1,9 +1,0 @@
-Mechanism of interaction of novel uncharged, centrally active reactivators with OP-hAChE conjugates.
-A library of more than 200 novel uncharged oxime reactivators was used to select and refine lead reactivators of human acetylcholinesterase (hAChE) covalently conjugated with sarin, cyclosarin, VX, paraoxon and tabun.
-N-substituted 2-hydroxyiminoacetamido alkylamines were identified as best reactivators and reactivation kinetics of the lead oximes, RS41A and RS194B, were analyzed in detail.
-Compared to reference pyridinium reactivators, 2PAM and MMB4, molecular recognition of RS41A reflected in its Kox constant was compromised by an order of magnitude on average for different OP-hAChE conjugates, without significant differences in the first order maximal phosphorylation rate constant k2.
-Systematic structural modifications of the RS41A lead resulted in several-fold improvement with reactivator, RS194B.
-Kinetic analysis indicated Kox reduction for RS194B as the main kinetic constant leading to efficient reactivation.
-Subtle structural modifications of RS194B were used to identify essential determinants for efficient reactivation.
-Computational molecular modeling of RS41A and RS194B interactions with VX inhibited hAChE, bound reversibly in Michaelis type complex and covalently in the pentacoordinate reaction intermediate suggests that the faster reactivation reaction is a consequence of a tighter RS194B interactions with hAChE peripheral site (PAS) residues, in particular with D74, resulting in lower interaction energies for formation of both the binding and reactivation states.
-Desirable in vitro reactivation properties of RS194B, when coupled with its in vivo pharmacokinetics and disposition in the body, reveal the potential of this oxime design as promising centrally and peripherally active antidotes for OP toxicity.

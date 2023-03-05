@@ -1,9 +1,0 @@
-Prosocial effects of oxytocin in two mouse models of autism spectrum disorders.
-Clinical evidence suggests that oxytocin treatment improves social deficits and repetitive behavior in autism spectrum disorders (ASDs).
-However, the neuropeptide has a short plasma half-life and poor ability to penetrate the blood-brain barrier.
-In order to facilitate the development of more bioavailable oxytocinergic compounds as therapeutics to treat core ASD symptoms, small animal models must be validated for preclinical screens.
-This study examined the preclinical utility of two inbred mouse strains, BALB/cByJ and C58/J, that exhibit phenotypes relevant to core ASD symptoms.
-Mice from both strains were intraperitoneally administered oxytocin, using either acute or sub-chronic regimens.
-Acute oxytocin did not increase sociability in BALB/cByJ; however, sub-chronic oxytocin had significant prosocial effects in both BALB/cByJ and C58/J. Increased sociability was observed 24 hours following the final oxytocin dose in BALB/cByJ, while prosocial effects of oxytocin emerged 1-2 weeks post-treatment in C58/J. Furthermore, acute oxytocin decreased motor stereotypy in C58/J and did not induce hypoactivity or anxiolytic-like effects in an open field test.
-This study demonstrates that oxytocin administration can attenuate social deficits and repetitive behavior in mouse models of ASD, dependent on dose regimen and genotype.
-These findings provide validation of the BALB/cByJ and C58/J models as useful platforms for screening novel drugs for intervention in ASDs and for elucidating the mechanisms contributing to the prosocial effects of oxytocin.

@@ -9,3 +9,4 @@ T7	GENE-Y 683 698	topoisomerase I
 T8	GENE-Y 728 735	DNase I
 T9	GENE-Y 768 784	topoisomerase II
 T10	GENE-N 869 887	underwound domains
+R0	CPR-2 Arg1:T1 Arg2:T2

@@ -1,7 +1,0 @@
-DNA Adducts in Aldehyde Dehydrogenase-Positive Lung Stem Cells of A/J Mice Treated with the Tobacco Specific Lung Carcinogen 4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK).
-Lung cancer is the leading cause of cancer death in the world.
-Evidence suggests that lung cancer could originate from mutations accumulating in a subpopulation of self-renewing cells, lung stem cells.
-Aldehyde dehydrogenase (ALDH) is a marker of stem cells.
-To investigate the presence of DNA modifications in these cells, we isolated ALDH-positive lung cells from A/J mice exposed to the lung carcinogen 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone.
-Using LC-NSI-HRMS/MS-PRM, O(6)-methyl-G, 7-POB-G, and O(2)-POB-dT were positively identified in ALDH-positive cell DNA.
-This is the first example of detection of carcinogen-DNA adducts in lung stem cells, supporting the hypothesis of their role in lung carcinogenesis.

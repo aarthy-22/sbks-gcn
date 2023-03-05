@@ -1,7 +1,0 @@
-Bioactive flavaglines and other constituents isolated from Aglaia perviridis.
-Eight new compounds, including two cyclopenta[b]benzopyran derivatives (1, 2), two cyclopenta[b]benzofuran derivatives (3, 4), three cycloartane triterpenoids (5-7), and an apocarotenoid (8), together with 16 known compounds, were isolated from the chloroform-soluble partitions of separate methanol extracts of a combination of the fruits, leaves, and twigs and of the roots of Aglaia perviridis collected in Vietnam.
-Isolation work was monitored using human colon cancer cells (HT-29) and facilitated with an LC/MS dereplication procedure.
-The structures of the new compounds (1-8) were determined on the basis of spectroscopic data interpretation.
-The Mosher ester method was employed to determine the absolute configurations of 5-7, and the absolute configuration of the 9,10-diol unit of compound 8 was established by a dimolybdenum tetraacetate [Mo2(AcO)4] induced circular dichroism procedure.
-Seven known rocaglate derivatives (9-15) exhibited significant cytotoxicity against the HT-29 cell line, with rocaglaol (9) being the most potent (ED50 0.0007 μM).
-The new compounds 2-4 were also active against this cell line, with ED50 values ranging from 0.46 to 4.7 μM. The cytotoxic compounds were evaluated against a normal colon cell line, CCD-112CoN. In addition, the new compound perviridicin B (2), three known rocaglate derivatives (9, 11, 12), and a known sesquiterpene, 2-oxaisodauc-5-en-12-al (17), showed significant NF-κB (p65) inhibitory activity in an ELISA assay.

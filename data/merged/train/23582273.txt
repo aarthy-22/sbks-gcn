@@ -1,6 +1,0 @@
-Synthesis and antitumor activity of 1,3,4-oxadiazole possessing 1,4-benzodioxan moiety as a novel class of potent methionine aminopeptidase type II inhibitors.
-A series of 1,3,4-oxadiazole derivatives containing 1,4-benzodioxan moiety (7a-7q) have been designed, synthesized and evaluated for their antitumor activity.
-Most of the synthesized compounds were proved to have potent antitumor activity and low toxicity.
-Among them, compound 7a showed the most potent biological activity against Human Umbilical Vein Endothelial cells, which was comparable to the positive control.
-The results of apoptosis and flow cytometry (FCM) demonstrated that compound 7a induce cell apoptosis by the inhibition of MetAP2 pathway.
-Molecular docking was performed to position compound 7a into MetAP2 binding site in order to explore the potential target.

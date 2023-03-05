@@ -1,9 +1,0 @@
-The Hsp90-specific inhibitor geldanamycin selectively disrupts kinase-mediated signaling events of T-lymphocyte activation.
-The 90-kDa heat shock protein (Hsp90) is the most abundant molecular chaperone of eukaryotic cells.
-Its chaperone function in folding nascent proteins seems to be restricted to a subset of proteins including major components of signal transduction pathways (eg, nuclear hormone receptors, transcription factors, and protein kinases).
-Improper function of these proteins can be induced by selective disruption of their complexes with Hsp90 using the benzoquinonoid ansamycin geldanamycin.
-In this study, we demonstrate that geldanamycin treatment blocks interleukin (IL)-2 secretion, IL-2 receptor expression, and proliferation of stimulated T-lymphocytes.
-Moreover, geldanamycin decreases the amount and phosphorylation of Lck and Raf-1 kinases and prevents activation of the extracellular signal regulated kinase (ERK)-2 kinase.
-Geldanamycin also disrupts the T-cell receptor-mediated activation of nuclear factor of activated T-cells (NF-AT).
-Treatment with geldanamycin, however, does not affect the activation of lysophosphatide acyltransferase, which is a plasma membrane enzyme coupled to the T-cell receptor after T-cell stimulation.
-Through demonstrating the selective inhibition of kinase-related T-lymphocyte responses by geldanamycin, our results emphasize the substantial role of Hsp90-kinase complexes in T-cell activation.

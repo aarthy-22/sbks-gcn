@@ -1,6 +1,0 @@
-Synthesis of maleimide-functionalyzed HPMA-copolymers and in vitro characterization of the aRAGE- and human immunoglobulin (huIgG)-polymer conjugates.
-Herein the synthesis of antibody-polymer conjugates, with a quite narrow dispersity based on the polymer HPMA, are reported.
-These conjugates are synthesized by coupling antibodies to maleimide-functionalized poly(N-(2-hydroxypropyl)-methacrylamide) (poly-HPMA) copolymers derived through reversible addition-fragmentation chain transfer (RAFT) polymerization of pentafluorophenyl methacrylate via the intermediate step of an activated ester polymer.
-We develop a protocol that allows the attachment of two different model antibodies, monoclonal anti-RAGE (receptor for advanced glycation end-products) antibody, and polyclonal human immunoglobulin (huIgG).
-Modification of the antibody and conjugation is monitored by SDS-PAGE electrophoresis.
-Preserved affinity is demonstrated by Western Blott and cell-uptake analysis, for example, to cells of the immune system.

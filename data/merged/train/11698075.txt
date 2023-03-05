@@ -1,5 +1,0 @@
-[3H]dofetilide binding to HERG transfected membranes: a potential high throughput preclinical screen.
-The pharmacological characteristics of [3H]dofetilide binding were examined in membranes prepared from human embryonic kidney (HEK293) cells stably expressing human ether-a-go-go related gene (HERG) K+ channels.
-The classIII antiarrhythmic compounds dofetilide, clofilium, 4'-[[1-[2-(6-methyl-2-pyridyl)ethyl]-4-piperidyl]carbonyl]methanesulfonanilide (E-4031), N-methyl-N-[2-[methyl-(1-methyl-1H-benzimidazol-2-yl)amino]ethyl]-4-[(methylsulfo nyl)amino]benzene-sulfonamide (WAY-123,398) and d-sotalol all inhibited [3H]dofetilide binding.
-In addition, the structurally unrelated compounds pimozide, terfenadine and haloperidol, all of which prolong the QT interval in man, also inhibited binding.
-These data indicate that a [3H]dofetilide binding assay using HERG membranes may help identify compounds that prolong the QT interval.

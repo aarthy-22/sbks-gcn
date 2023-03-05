@@ -1,8 +1,0 @@
-Correlation of high urinary Smad1 level with glomerular hyperfiltration in type 2 diabetes mellitus.
-The aim of this study was to assess the relationship between urinary Smad1 and glomerular hyperfiltration (GHF) in type 2 diabetes mellitus (T2DM), and to explore the factors related to the urinary Smad1 in T2DM.
-The reference value of the estimated glomerular filtration rate (eGFR) was determined in 248 healthy individuals.
-30 patients with GHF, 58 patients with norm-GFR T2DM, and 24 healthy patients who served as controls were recruited.
-Urinary Smad1, fasting plasma glucose (FPG), fasting serum C-Peptide (C-P), hemoglobin A1C (HbA1c), cystatin C, and other chemistry laboratory parameters of T2DM participants and controls were measured.
-Patients with GHF had higher levels of urinary Smad1 than the control group, and those with norm-GFR.
-For T2DM patients with body mass index, age, and gender adjustments, urinary Smad1 was positively correlated with FPG, HbA1C, and eGFR, but negatively correlated with fasting serum C-P. Multivariate linear regression analysis demonstrated that eGFR, HbA1C, and fasting serum C-P were independently associated with urinary Smad1.
-High levels of urinary Smad1 were found in GHF patients with T2DM, which may be another potential mechanism of GHF in relation to diabetic nephropathy.

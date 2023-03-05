@@ -1,7 +1,0 @@
-Acromegaly: molecular expression of somatostatin receptor subtypes and treatment outcome.
-About a third of acromegalic patients are resistant to the currently commercially available somatostatin analogs (SA) octreotide and lanreotide.
-Such resistance is related to an overall reduction of somatostatin receptor (SSTR) density or to a differentiated expression of SSTR subtypes.
-There are five known SSTR subtypes.
-SSTR2 and SSTR5 are usually expressed in GH-secreting pituitary tumors, and both octreotide and lanreotide bind preferentially to SSTR2 and, to a lesser extent, to SSTR5.
-SA inhibitory effects on GH secretion and tumor cell proliferation can occur together or be dissociated events, depending on the tumor expression of SSTR subtypes involved in each mechanism.
-The development of specific somatostatin subtypes analogs, mainly for SSTR5, of a SSTR2-SSTR5 bispecific compound, and of a "universal" analog with high affinity to SSTR1, 2, 3, and 5 showed preliminary, albeit promising results for the treatment of resistant somatotropic adenomas.

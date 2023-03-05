@@ -1,8 +1,0 @@
-Protective effect of silymarin against ethanol-induced gastritis in rats: role of sulfhydryls, nitric oxide and gastric sensory afferents.
-Silymarin has been known to exert antioxidant, anti-carcinogenic and anti-inflammatory effects.
-In this study, we examined the effect of silymarin on gastritis in rats.
-Oral administration of silymarin dose-dependently decreased gastric lesions in ethanol-induced gastritis model.
-Silymarin also significantly suppressed the development of gastric lesions in aspirin- or water immersion-restraint stress-induced gastritis models.
-Further study demonstrated that the gastroprotective effect of silymarin was blocked by nitric oxide (NO) synthase inhibitor l-NAME, SH blocker N-ethylmaleimide or TRPV1 antagonist capsazepine in ethanol-induced gastritis model.
-In addition, ex vivo analysis revealed that ethanol-induced decrease in gastric mucus and non-protein sulfhydryl (NPSH) groups was significantly reversed by silymarin treatment and lipid peroxidation was also suppressed by silymarin in ethanol-induced gastritis model.
-Taken together, these results suggest that silymarin exerts gastroprotective effects and the gastroprotective effects of silymarin might be related to the protection of gastric mucosal NO and NP-SH and the modulation of capsaicin-sensitive gastric sensory afferents.

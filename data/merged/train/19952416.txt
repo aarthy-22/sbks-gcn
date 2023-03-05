@@ -1,7 +1,0 @@
-Design, synthesis, and in-vivo evaluation of 4,5-diaryloxazole as novel nonsteroidal anti-inflammatory drug.
-A series of 4,5-diaryloxazole analogs were designed and the interaction between oxaprozin and cyclooxygenase-2 studied by the docking method to improve the biological activity and reduce the gastrointestinal side effects of oxaprozin.
-Finally, 3-(4-(4-fluorophenyl)-5-(4-aminosulfonyl-3-fluorophenyl)-oxazole-2-yl) propanoic acid (NC-2142), the best candidate, was selected for synthesis and bioassay based on the screening result.
-NC-2142 could lower the tumefaction rates of back metatarsus in rats, as well as reduce the writhing times in mice.
-NC-2142 produced fewer gastric lesions than oxaprozin.
-After the aminosulfonyl group was introduced into the benzene ring of oxaprozin, its analgesic and anti-inflammatory activities remained unchanged, and it reduced the number of gastric lesions.
-This provided a feasible method for further structure modification and optimization of oxaprozin.

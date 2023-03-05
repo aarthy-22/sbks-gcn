@@ -1,9 +1,0 @@
-Role of tachykinin and bradykinin receptors and mast cells in gaseous formaldehyde-induced airway microvascular leakage in rats.
-We have investigated the effects of CP-99,994 [(+)-(2s,3s)-3-(2-methoxybenzylamino)-2-phenylpiperidine], a tachykinin NK1 receptor antagonist, HOE 140 (D-Arg[Hyp3,Thi5,D-Tic7,Oic8]bradykinin), a bradykinin B2 receptor antagonist, and ketotifen (4-(1-methyl-4-piperidylidene)4 H-benzo[4,5]cycloheptal[1,2-b]thiophen-10(9H)-one hydrogen fumarate), a histamine H1 receptor antagonist with mast cell-stabilizing properties, on microvascular leakage induced by gaseous formaldehyde.
-Extravasation of Evans blue dye into airway tissues was used as an index of airway microvascular leakage.
-Leakage of dye in the trachea and main bronchi increased significantly in a concentration-dependent fashion after 10 min inhalation of formaldehyde (5-45 parts per million (ppm)).
-The airway response induced by 10 min inhalation of 15 ppm formaldehyde (trachea: 119.5 +/- 13.9 ng/mg, n = 7; main bronchi: 139.6 +/-
-7.9 ng/mg, n = 7)
-was abolished by the administration of CP-99,994 (3 and 6 mg/kg i.v.), but not by the administration of HOE 140 (0.65 mg/kg i.v.) nor ketotifen (1 mg/kg i.v.).
-The increase in vascular permeability induced by formaldehyde in the rat airway was mediated predominantly by NK1 receptor stimulation.
-Activation of bradykinin receptors and mast cells did not appear to play an important role in this airway response.

@@ -1,7 +1,0 @@
-Characterization of steroidogenic enzyme expression in aldosterone-producing adenoma: a comparison with various human adrenal tumors.
-We analyzed the expression profiles of several steroidogenic enzymes in normal adrenals, aldosterone-producing adenomas (APA), cortisol-producing adenomas combined with Cushing's syndrome (CPA) or with subclinical Cushing's syndrome (SCPA), and nonfunctioning adrenal adenomas (NFA) to clarify the nature and characteristics of steroidogenesis in APA.
-Clinical data were collected for all subjects.
-In resected adrenal glands (normal adrenals, APA, CPA, SCPA, and NFA), the mRNA expression levels of the CYP17, HSD3B2, CYP11B1, and CYP11B2 genes were studied using real-time quantitative PCR and immunohistochemistry.
-The CYP11B2 mRNA level in APA was significantly higher than that in other groups.
-The CYP17/HSD3B2 ratio for mRNA in APA was significantly lower than those in the other groups.
-Low ratio of CYP17/HSD3B2 with high expression of CYP11B2 seems to explain steroidogenic characteristics of APA.

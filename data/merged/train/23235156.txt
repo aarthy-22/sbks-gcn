@@ -1,9 +1,0 @@
-70-kDa heat shock cognate protein hsc70 mediates calmodulin-dependent nuclear import of the sex-determining factor SRY.
-We recently showed that the developmentally important family of SOX (SRY (sex determining region on the Y chromosome)-related high mobility group (HMG) box) proteins require the calcium-binding protein calmodulin (CaM) for optimal nuclear accumulation, with clinical mutations in SRY that specifically impair nuclear accumulation via this pathway resulting in XY sex reversal.
-However, the mechanism by which CaM facilitates nuclear accumulation is unknown.
-Here, we show, for the first time, that the 70-kDa heat shock cognate protein hsc70 plays a key role in CaM-dependent nuclear import of SRY.
-Using a reconstituted nuclear import assay, we show that antibodies to hsc70 significantly reduce nuclear accumulation of wild type SRY and mutant derivatives thereof that retain CaM-dependent nuclear import, with an increased rate of nuclear accumulation upon addition of both CaM and hsc70, in contrast to an SRY mutant derivative with impaired CaM binding.
-siRNA knockdown of hsc70 in intact cells showed similar results, indicating clear dependence upon hsc70 for CaM-dependent nuclear import.
-Analysis using the technique of fluorescence recovery after photobleaching indicated that hsc70 is required for the maximal rate of SRY nuclear import in living cells but has no impact upon SRY nuclear retention/nuclear dynamics.
-Finally, we demonstrate direct binding of hsc70 to the SRY·CaM complex, with immunoprecipitation experiments from cell extracts showing association of hsc70 with wild type SRY, but not with a mutant derivative with impaired CaM binding, dependent on Ca(2+).
-Our novel findings strongly implicate hsc70 in CaM-dependent nuclear import of SRY.

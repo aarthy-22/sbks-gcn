@@ -1,9 +1,0 @@
-Yohimbine dimers exhibiting selectivity for the human alpha 2C-adrenoceptor subtype.
-Yohimbine is a potent and selective alpha2- versus alpha1-adrenoceptor antagonist.
-To date, drugs with high specificity for the alpha2-adrenoceptor show marginal selectivity among the three alpha2-adrenoceptor subtypes.
-Initial studies showed that yohimbine was about 4- and 15-fold more selective for the human alpha2C-adrenoceptor in comparison with the alpha2A- and alpha2B-adrenoceptors, respectively.
-To improve on this alpha2-adrenoceptor subtype selectivity, a series of yohimbine dimers (varying from n = 2 to 24 spacer atoms) were prepared and evaluated for receptor binding on human alpha2-adrenoceptor subtypes expressed in Chinese hamster ovary cells.
-Each dimeric analog showed higher affinities for alpha2A- and alpha2C-adrenoceptor versus the alpha2B-adrenoceptor; and yohimbine dimers with spacers of n = 2, 3, 4, 18, and 24 exhibited selectivity for the alpha2C-adrenoceptor.
-The yohimbine dimers n = 3 and n = 24 showed the highest potency and selectivity (32- and 82-fold. respectively) for the alpha2C-adrenoceptor in receptor binding and in functional studies (42- and 29-fold, respectively) measuring cAMP changes using a cell-based luciferase reporter gene assay.
-The dimers (n = 3 and n = 24) had high selectivity (>1000-fold) for the alpha2C-adrenoceptor compared with the three alpha1-adrenoceptor subtypes.
-These findings demonstrate that the addition of spacer linkages to bivalent yohimbine molecules provides a successful approach to the development of ligands that are potent and highly selective for the alpha2C-adrenoceptor.

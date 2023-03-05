@@ -1,8 +1,0 @@
-The mannose 6-phosphate-binding sites of M6P/IGF2R determine its capacity to suppress matrix invasion by squamous cell carcinoma cells.
-The M6P (mannose 6-phosphate)/IGF2R (insulin-like growth factor II receptor) interacts with a variety of factors that impinge on tumour invasion and metastasis.
-It has been shown that expression of wild-type M6P/IGF2R reduces the tumorigenic and invasive properties of receptor-deficient SCC-VII squamous cell carcinoma cells.
-We have now used mutant forms of M6P/IGF2R to assess the relevance of the different ligand-binding sites of the receptor for its biological activities in this cellular system.
-The results of the present study demonstrate that M6P/IGF2R does not require a functional binding site for insulin-like growth factor II for inhibition of anchorage-independent growth and matrix invasion by SCC-VII cells.
-In contrast, the simultaneous mutation of both M6P-binding sites is sufficient to impair all cellular functions of the receptor tested.
-These findings highlight that the interaction between M6P/IGF2R and M6P-modified ligands is not only important for intracellular accumulation of lysosomal enzymes and formation of dense lysosomes, but is also crucial for the ability of the receptor to suppress SCC-VII growth and invasion.
-The present study also shows that some of the biological activities of M6P/IGF2R in SCC-VII cells strongly depend on a functional M6P-binding site within domain 3, thus providing further evidence for the non-redundant cellular functions of the individual carbohydrate-binding domains of the receptor.

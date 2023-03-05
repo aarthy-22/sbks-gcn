@@ -31,3 +31,4 @@ T22	GENE-Y 2709 2716	insulin
 T23	GENE-Y 2757 2764	insulin
 T24	GENE-Y 2802 2819	Androgen receptor
 T26	GENE-N 3378 3392	gonadotrophins
+R0	NOT Arg1:T31 Arg2:T1

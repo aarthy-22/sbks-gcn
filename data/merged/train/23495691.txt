@@ -1,6 +1,0 @@
-Targeting protein-protein interactions within the cyclic AMP signaling system as a therapeutic strategy for cardiovascular disease.
-The cAMP signaling system can trigger precise physiological cellular responses that depend on the fidelity of many protein-protein interactions, which act to bring together signaling intermediates at defined locations within cells.
-In the heart, cAMP participates in the fine control of excitation-contraction coupling, hence, any disregulation of this signaling cascade can lead to cardiac disease.
-Due to the ubiquitous nature of the cAMP pathway, general inhibitors of cAMP signaling proteins such as PKA, EPAC and PDEs would act non-specifically and universally, increasing the likelihood
-of serious 'off target' effects.
-Recent advances in the discovery of peptides and small molecules that disrupt the protein-protein interactions that underpin cellular targeting of cAMP signaling proteins are described and discussed.

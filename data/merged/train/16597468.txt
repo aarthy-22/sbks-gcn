@@ -1,6 +1,0 @@
-Leishmania donovani singly deficient in HGPRT, APRT or XPRT are viable in vitro and within mammalian macrophages.
-Leishmania species express three phosphoribosyltransferase enzymes, hypoxanthine-guanine phosphoribosyltransferase (HGPRT), adenine phosphoribosyltransferase (APRT), and xanthine phosphoribosyltransferase (XPRT), which enable this genus to acquire purine nutrients from their hosts.
-To test whether any of these enzymes is essential for viability, transformation into amastigotes, and infectivity and proliferation within mammalian macrophages, Deltahgprt, Deltaaprt, and Deltaxprt null mutants were created by targeted gene replacement within a virulent background of Leishmania donovani.
-Each of the three knockout strains was viable as promastigotes and axenic amastigotes and capable of maintaining an infection in bone marrow-derived murine macrophages.
-These data support the hypothesis that none of the three phosphoribosyltransferases is essential for purine salvage or viability by itself and that purine salvage occurs through multiple anabolic routes in both parasite life cycle stages.
-In addition these studies revealed the presence of an adenine aminohydrolase enzyme in L. donovani axenic amastigotes, an activity previously thought to be restricted to promastigotes.

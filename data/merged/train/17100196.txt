@@ -1,6 +1,0 @@
-A case of Ehlers Danlos syndrome type VI.
-Ehlers Danlos type VI is a rare autosomal recessive connective tissue disease involving primarily the skin and joints.
-The main feature of the condition is neonatal hypotonia and rare complications are ruptures of arteries and the eye globe.
-A 4 year old girl with a typical clinical presentation and molecular diagnosis of EDS VI is presented.
-Sequencing of PLOD1 gene revealed a homozygous deletion in exon 13 (c.1362delC), leading to a frameshift and truncation of the lysyl hydroxylase, an enzyme necessary for collagen biosynthesis.
-Early diagnosis allowed treatment with high doses of ascorbic acid in order to prevent complications, genetic counseling of the family and prenatal diagnosis of an unaffected embryo.

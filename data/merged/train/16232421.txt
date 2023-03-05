@@ -1,9 +1,0 @@
-Effect of gene disruptions of the TCA cycle on production of succinic acid in Saccharomyces cerevisiae.
-Succinate is the main taste component produced by yeasts during sake (Japanese rice wine) fermentation.
-The pathway leading to accumulation of succinate was examined in liquid culture in the presence of a high concentration (15%) of glucose under aerobic and anaerobic conditions using a series of Saccharomyces cerevisiae strains in which various genes that encode the expression of enzymes required in TCA cycle were disrupted.
-When cultured in YPD medium containing 15% glucose under aerobic conditions, the KGD1 (alpha-ketoglutarate dehydrogenase) gene disrupted mutant produced a lower level of succinate than the wild-type strain, while the SDH1 (succinate dehydrogenase) gene-disrupted mutant produced an increased level of succinate.
-On the other hand, the FUM1 (fumarase) gene disrupted mutant produced significantly higher levels of fumarate but did not form malate at all.
-These results indicate that succinate, fumarate and malate are mainly synthesized through the TCA cycle (oxidative direction) even in the presence of glucose at a concentration as high as 15%.
-When the growth condition was shifted from aerobic to anaerobic, the increased level of succinate in SDH1 disruptants was no longer observed, whereas the decreased level of succinate in the KGD1 diruptant was still observed.
-A double mutant of the two fumarate reductase isozyme genes (OSM1 and FRDS) showed a succinate productivity of 50% as compared to the parent when cells were incubated in glucose-buffered solution.
-These results indicate that succinate could be synthesized through two pathways, namely, alpha-ketoglutarate oxidation via the TCA cycle and fumarate reduction under anaerobic conditions.

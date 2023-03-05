@@ -1,9 +1,0 @@
-Alternariol induces abnormal nuclear morphology and cell cycle arrest in murine RAW 264.7 macrophages.
-The mycotoxin alternariol (AOH), a frequent contaminant in fruit and cereal products, is known to induce DNA damage with subsequent cell cycle arrest.
-Here we elucidated the effects of AOH on stages of cell cycle progression using the RAW 264.7 macrophage model.
-AOH resulted in an accumulation of cells in the G2/M-phase (4N).
-Most cells exhibited a large G2 nucleus whereas numbers of true mitotic cells were reduced relative to control.
-Both cyclin B1 and p-cdc2 levels increased, while cyclin B1 remained in the cytoplasm; suggesting arrest in the G2/M transition point.
-Remarkably, after exposure to AOH for 24h, most of the cells exhibited abnormally shaped nuclei, as evidenced by partly divided nuclei, nuclear blebs, polyploidy and micronuclei (MN).
-AOH treatment also induced abnormal Aurora B bridges, suggesting that cytokinesis was interfered within cells undergoing karyokinesis.
-A minor part of the resultant G1 tetraploid (4N) cells re-entered the S-phase and progressed to 8N cells.

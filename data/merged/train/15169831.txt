@@ -1,9 +1,0 @@
-Ethanol suppression of ventral tegmental area GABA neuron electrical transmission involves N-methyl-D-aspartate receptors.
-Ventral tegmental area (VTA) GABA neurons are critical substrates modulating the mesocorticolimbic dopamine system implicated in natural and drug reward.
-The aim of this study was to evaluate the effects of ethanol on glutamatergic and GABAergic modulation of VTA GABA neuron electrical synaptic transmission.
-We evaluated the effects of systemic ethanol (0.05-2.0 g/kg i.p.), the N-methyl-D-aspartate (NMDA) receptor antagonist dizocilpine (MK-801; 0.05-0.2 mg/kg i.v.), the connexin-36 gap junction blocker quinidine (5-20 mg/kg i.v.), the fast-acting barbiturate methohexital (Brevital; 5-10 mg/kg i.v.), and the benzodiazepine chlordiazepoxide (Librium; 5-10 mg/kg i.v.), as well as in situ VTA administration of NMDA and the GABA(A) receptor agonist muscimol, on VTA GABA neuron spontaneous activity and internal capsule stimulus-induced poststimulus spike discharges (ICPSDs).
-Systemic ethanol, quinidine, and dizocilpine reduced, whereas local NMDA enhanced, and the systemic and local GABA(A) receptor modulators did not significantly alter VTA GABA neuron ICPSDs.
-Ethanol potentiated dizocilpine inhibition of VTA GABA neuron ICPSDs, but not quinidine inhibition.
-In situ microelectrophoretic application of dopamine markedly enhanced VTA GABA neuron firing rate (131%), spike duration (124%), and spike coupling, which were blocked by systemic quinidine.
-These findings indicate that VTA GABA neurons are coupled electrically via gap junctions and that the inhibitory effect of ethanol on electrical transmission is primarily via inhibition of NMDA receptor-mediated excitation, not via enhancement of GABA receptor-mediated inhibition.
-Thus, the rewarding properties of ethanol may result from inhibitory effects on excitatory glutamatergic neurotransmission between electrically coupled networks of midbrain GABA neurons.

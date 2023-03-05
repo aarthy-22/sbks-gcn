@@ -1,5 +1,0 @@
-Compound and compositions as TGR5 agonists: WO2012082947.
-The patent application WO2012082947 claims novel compounds as agonists of a plasma membrane-bound bile acid receptor TGR5.
-By activating TGR5, the agonists improve glycemic control and enhance energy expenditure.
-The basic generic claim of the patent covers pyrazole derivatives, different permutations on the core pyrazole ring are covered in the subsidiary claims.
-The claimed compounds are human TGR5 agonists having potency in the nM range.

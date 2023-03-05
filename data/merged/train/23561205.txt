@@ -1,9 +1,0 @@
-Curcumin inhibits invasion and metastasis in K1 papillary thyroid cancer cells.
-Curcumin, the active constituent of dietary spice turmeric, possesses a strong potential for cancer prevention and treatment.
-However, there is no study to address the effects of curcumin on invasion and metastasis of thyroid cancers.
-Thyroid cancer is the most common malignancy of endocrine organs, and its incidence rates have steadily increased over recent decades.
-Although most indolent tumours can be effectively managed, metastatic tumours at distant secondary sites behave aggressively and currently there is no effective form of treatment.
-Here, for the first time it has been reported that curcumin inhibit multiple metastasis steps of K1 papillary thyroid cancer cells.
-Curcumin dose-dependently suppressed viability of K1 cells as well as its cell attachment, spreading, migration and invasion abilities.
-Moreover, curcumin could also down-regulate the expression and activity of matrix metalloproteinase-9 (MMP-9).
-The findings showed that curcumin might be an effective tumouristatic agent for the treatment of aggressive papillary thyroid carcinomas.

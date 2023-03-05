@@ -1,9 +1,0 @@
-No mutations in the serotonin related TPH1 and HTR1B genes in patients with monogenic sclerosing bone disorders.
-Since the identification of LRP5 as the causative gene for the osteoporosis pseudoglioma syndrome (OPPG) as well as the high bone mass (HBM) phenotype, LRP5 and the Wnt/β-catenin signaling have been extensively studied for their role in the differentiation and proliferation of osteoblasts, in the apoptosis of osteoblasts and osteocytes and in the response of bone to mechanical loading.
-However, more recently the direct effect of LRP5 on osteoblasts and bone formation has been questioned.
-Gene expression studies showed that mice lacking lrp5 have increased expression of tph1, the rate limiting enzyme for the production of serotonin in the gut.
-Furthermore mice lacking either tph1 or htr1B, the receptor for serotonin on the osteoblasts, were reported to have an increased bone mass due to increased bone formation.
-This led to the still controversial hypothesis that LRP5 influences bone formation indirectly by regulating the expression of thp1 and as a consequence influencing the production of serotonin in the gut.
-Based on these data we decided to evaluate the role of TPH1 and HTR1B in the development of craniotubular hyperostoses, a group of monogenic sclerosing bone dysplasias.
-We screened the coding regions of both genes in 53 patients lacking a mutation in the known causative genes LRP5, LRP4 and SOST.
-We could not find disease-causing coding variants in neither of the tested genes and therefore, we cannot provide support for an important function of TPH1 and HTR1B in the pathogenesis of sclerosing bone dysplasias in our tested patient cohort.

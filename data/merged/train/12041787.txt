@@ -1,7 +1,0 @@
-In vitro activity, beta-lactamase stability and PBP affinity of RU 51,746-2, the active metabolite of the new orally absorbed cephalosporin ester, RU 51807.
-The activity of RU 51,746-2 was determined against strains of Escherichia coli producing different types of beta-lactamases or showing alterations of permeability.
-The production of TEM 1, OXA 2, CARB 3 and PSE 1 beta-lactamases had no influence on susceptibility to the antibiotic, whereas the synthesis of TEM 2, SHV 1 and OXA 1 beta-lactamases increased minimum inhibitory concentrations (MIC) by 2-4 times.
-Highly resistant to the antibiotic was a strain producing CEP 1 beta-lactamase.
-E. coli mutans deficient in Omp F but not in Omp C had a decreased susceptibility to RU 51,746-2.
-RU 51,746-2 showed a good affinity for high molecular weight penicillin binding proteins (PBPs) of E. coli.
-PBP 3 was found to be the target for growth inhibition, whereas the additional saturation of PBP 1 and 2 was required for obtaining the best bactericidal activity.

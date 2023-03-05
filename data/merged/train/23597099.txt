@@ -1,9 +1,0 @@
-2-Methoxyjuglone Induces Apoptosis in HepG2 Human Hepatocellular Carcinoma Cells and Exhibits in Vivo Antitumor Activity in a H22 Mouse Hepatocellular Carcinoma Model.
-In order to discover anticancer agents from natural sources, an ethanol-soluble extract of the root bark of Juglans cathayensis was investigated and showed cytotoxic effects against various human cancer cell lines.
-A subsequent phytochemical study on the EtOAc-soluble fraction determined 2-methoxyjuglone (1) as one of the main active constituents.
-Compound 1 was shown to be cytotoxic against HepG2 cells.
-Morphological features of apoptosis were observed in 1-treated HepG2 cells, including cell shrinkage, membrane blebbing, nuclear condensation, and apoptotic body formation.
-Cell cycle analysis with propidium iodide staining showed that 1 induced cell cycle arrest at the S phase in HepG2 cells.
-Flow cytometric analysis with annexin V and propidium iodide staining demonstrated that 1 induced HepG2 cell apoptotic events in a dose-dependent manner (0-8 μg/mL).
-Western blot analysis of apoptosis-related proteins revealed that 1 induces HepG2 cell apoptosis through mitochondrial cytochrome c-dependent activation of the caspase-9 and caspase-3 cascade pathway (intrinsic pathway).
-An in vivo experiment using tumor-bearing mice showed that treatment with 1 at 0.5 and 1.0 mg/kg per day decreased the tumor mass by 56% and 67%, respectively.

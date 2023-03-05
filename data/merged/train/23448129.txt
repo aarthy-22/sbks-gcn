@@ -1,6 +1,0 @@
-Glutathione dimerization-based plasmonic nanoswitch for biodetection of reactive oxygen and nitrogen species.
-Reactive oxygen and nitrogen species (ROS and RNS) are continuously produced in the cellular systems and are controlled by several antioxidant mechanisms.
-Here, we developed a straightforward, sensitive, and quantitative assay for the colorimetric and spectroscopic detection of various ROS and RNS such as H2O2, ·OH, (-)OCl, NO·, and O2(-) using glutathione-modified gold nanoparticles (GSH-AuNPs).
-A basic principle here is that the GSHs on the AuNP surface can be readily detached via the formation of glutathione disulfides upon the addition of ROS and RNS, and destabilized particles can aggregate to generate the plasmonic couplings between plasmonic AuNPs that trigger the red shift in UV-vis spectrum and solution color change.
-For nonradical species such as H2O2, this process can be more efficiently achieved by converting them into radical species via the Fenton reaction.
-Using this strategy, we were able to rapidly and quantitatively distinguish among cancerous and normal cells based on ROS and RNS production.

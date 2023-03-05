@@ -1,9 +1,0 @@
-Inhibition of c-fms by imatinib: expanding the spectrum of treatment.
-Imatinib is a selective protein tyrosine kinase inhibitor currently used in the treatment of chronic myeloid leukaemia (CML).
-It specifically suppresses the growth of bcr-abl expressing CML progenitor cells by blocking the ATP-binding site of the kinase domain of bcr-abl.
-Imatinib also inhibits the c-abl, platelet derived growth factor receptor (PDGFR), abl-related gene and stem cell factor receptor, c-kit, protein tyrosine kinases.
-It is through inhibition of c-kit that imatinib is also used clinically in the treatment of gastrointestinal stromal tumours.
-We have recently demonstrated that imatinib also specifically targets the macrophage colony stimulating factor receptor, c-fms, at therapeutic concentrations.
-Although this finding has important implications with regard to potential side effects in patients currently receiving imatinib therapy, these results suggest that imatinib may also be useful in the treatment of diseases where c-fms is implicated.
-This includes breast and ovarian cancer and inflammatory conditions such as rheumatoid arthritis.
-We also speculate that imatinib may be used in diseases where bone destruction occurs due to excessive osteoclast activity, such as in the haematologic malignancy, multiple myeloma.

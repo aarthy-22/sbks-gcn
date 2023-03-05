@@ -18,3 +18,4 @@ T11	GENE-Y 1648 1668	beta-thromboglobulin
 T12	GENE-N 1670 1680	fibrinogen
 T13	GENE-N 1685 1688	FDP
 T4	CHEMICAL 1900 1915	tranexamic acid
+R0	CPR-4 Arg1:T3 Arg2:T10

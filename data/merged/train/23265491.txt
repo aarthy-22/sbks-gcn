@@ -1,9 +1,0 @@
-Evaluation of biological activities of a groundnut (Apios americana Medik) extract containing a novel isoflavone.
-Groundnut (Apios americana Medik) contains a novel isoflavone, genistein-7-O-gentiobioside.
-In the present study, we examined the biological activities of an alcohol extract of groundnut containing genistein-7-O-gentiobioside as the main component.
-Although the groundnut extract by itself did not show antioxidative activity, it drove the antioxidative system in cells.
-Pretreatment of human breast carcinoma MCF-7 cells for 24 h with the groundnut extract and soybean isoflavone increased gene expression of heme oxygenase-1 (HO-1), a major antioxidative stress enzyme.
-These groundnut extract-treated cells showed antioxidative activity against free radicals derived from a radical initiator.
-Pretreatment of cells with 100 μg/mL groundnut extract prevented the depletion of glutathione by the radical initiator; however, treatment with 100 μg/mL of soybean isoflavone injured the cell membrane, indicating that glutathione might be released to the extracellular environment.
-These results suggest that the groundnut extract had isoflavone-like activity.
-Like soybean, groundnuts are a good source of isoflavones.

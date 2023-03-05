@@ -1,9 +1,0 @@
-Alkyl substituted 2'-benzoylpyridine thiosemicarbazone chelators with potent and selective anti-neoplastic activity: novel ligands that limit methemoglobin formation.
-Thiosemicarbazone chelators, including the 2'-benzoylpyridine thiosemicarbazones (BpT) class, show marked potential as anticancer agents.
-Importantly, 3-aminopyridine-2-carboxaldehyde thiosemicarbazone (3-AP) has been investigated in >20 phase I and II clinical trials.
-However, side effects associated with 3-AP administration include methemoglobinemia.
-Considering this problem, novel BpT analogues were designed bearing hydrophobic, electron-donating substituents at the para position of the phenyl group (RBpT).
-Their Fe(III/II) redox potentials were all within the range accessible to cellular oxidants and reductants, suggesting they can redox cycle.
-These RBpT ligands exhibited potent and selective antiproliferative activity, which was comparable or exceeded their BpT counterparts.
-Major findings include that methemoglobin formation mediated by the lipophilic t-BuBpT series was significantly (p < 0.05-0.001) decreased in comparison to 3-AP in intact red blood cells and were generally comparable to the control.
-These data indicate the t-BuBpT ligands may minimize methemoglobinemia, which is a marked advantage over 3-AP and other potent thiosemicarbazones.

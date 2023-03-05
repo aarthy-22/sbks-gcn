@@ -1,8 +1,0 @@
-MAO Inhibitory Activity of 2-Arylbenzofurans versus 3-Arylcoumarins: Synthesis, in vitro Study, and Docking Calculations.
-Monoamine oxidase (MAO) is an important drug target for the treatment of neurological disorders.
-Several 3-arylcoumarin derivatives were previously described as interesting selective MAO-B inhibitors.
-Preserving the trans-stilbene structure, a series of 2-arylbenzofuran and corresponding 3-arylcoumarin derivatives were synthesized and evaluated as inhibitors of both MAO isoforms, MAO-A and MAO-B. In general, both types of derivatives were found to be selective MAO-B inhibitors, with IC50 values in the nano- to micromolar range.
-5-Nitro-2-(4-methoxyphenyl)benzofuran (8) is the most active compound of the benzofuran series, presenting MAO-B selectivity and reversible inhibition (IC50 =140 nM).
-3-(4'-Methoxyphenyl)-6-nitrocoumarin (15), with the same substitution pattern as that of compound 8, was found to be the most active MAO-B inhibitor of the coumarin series (IC50 =3 nM).
-However, 3-phenylcoumarin 14 showed activity in the same range (IC50 =6 nM), is reversible, and also severalfold more selective than compound 15.
-Docking experiments for the most active compounds into the MAO-B and MAO-A binding pockets highlighted different interactions between the derivative classes (2-arylbenzofurans and 3-arylcoumarins), and provided new information about the enzyme-inhibitor interaction and the potential therapeutic application of these scaffolds.

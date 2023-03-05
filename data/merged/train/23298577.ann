@@ -22,3 +22,4 @@ T23	GENE-Y 1305 1317	sialoadhesin
 T3	CHEMICAL 1322 1334	carbohydrate
 T24	GENE-N 1322 1344	carbohydrate receptors
 T5	CHEMICAL 1667 1670	ZDV
+R0	NOT Arg1:T23 Arg2:T3

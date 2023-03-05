@@ -1,7 +1,0 @@
-The therapeutic potential of allosteric ligands for free fatty acid sensitive GPCRs.
-G protein coupled receptors (GPCRs) are the most historically successful therapeutic targets.
-Despite this success there are many important aspects of GPCR pharmacology and function that have yet to be exploited to their full therapeutic potential.
-One in particular that has been gaining attention in recent times is that of GPCR ligands that bind to allosteric sites on the receptor distinct from the orthosteric site of the endogenous ligand.
-As therapeutics, allosteric ligands possess many theoretical advantages over their orthosteric counterparts, including more complex modes of action, improved safety, more physiologically appropriate responses, better target selectivity, and reduced likelihood of desensitisation and tachyphylaxis.
-Despite these advantages, the development of allosteric ligands is often difficult from a medicinal chemistry standpoint due to the more complex challenge of identifying allosteric leads and their often flat or confusing SAR.
-The present review will consider the advantages and challenges associated with allosteric GPCR ligands, and examine how the particular properties of these ligands may be exploited to uncover the therapeutic potential for free fatty acid sensitive GPCRs.

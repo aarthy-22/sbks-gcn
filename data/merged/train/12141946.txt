@@ -1,9 +1,0 @@
-Identification and characterization of a novel flavin-containing spermine oxidase of mammalian cell origin.
-During polyamine catabolism, spermine and spermidine are first acetylated by spermidine/spermine N(1)-acetyltransferase (SSAT) and subsequently oxidized by polyamine oxidase (PAO) to produce spermidine and putrescine, respectively.
-In attempting to clone the PAO involved in this back-conversion pathway, we encountered an oxidase that preferentially cleaves spermine in the absence of prior acetylation by SSAT.
-A BLAST search using maize PAO sequences identified homologous mammalian cDNAs derived from human hepatoma and mouse mammary carcinoma: the encoded proteins differed by 20 amino acids.
-When either cDNA was transiently transfected into HEK-293 cells, intracellular spermine pools decreased by 75% while spermidine and N (1)-acetylspermidine pools increased, suggesting that spermine was selectively and directly oxidized by the enzyme.
-Substrate specificity using lysates of oxidase-transfected HEK-293 cells revealed that the newly identified oxidase strongly favoured spermine over N (1)-acetylspermine and that it failed to act on N (1)-acetylspermidine, spermidine or the preferred PAO substrate, N (1), N (12)-diacetylspermine.
-The PAO inhibitor, MDL-72,527, only partially blocked oxidation of spermine while a previously reported PAO substrate, N (1)-( n -octanesulphonyl)spermine, potently inhibited the reaction.
-Overall, the data indicate that the enzyme represents a novel mammalian oxidase which, on the basis of substrate specificity, we have designated spermine oxidase in order to distinguish it from the PAO involved in polyamine back-conversion.
-The identification of an enzyme capable of directly oxidizing spermine to spermidine has important implications for understanding polyamine homoeostasis and for interpreting metabolic and cellular responses to clinically relevant polyamine analogues and inhibitors.

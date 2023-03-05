@@ -1,9 +1,0 @@
-Ceramide phosphoethanolamine biosynthesis in Drosophila is mediated by a unique ethanolamine phosphotransferase in the Golgi lumen.
-Sphingomyelin (SM) is a vital component of mammalian membranes, providing mechanical stability and a structural framework for plasma membrane organization.
-Its production involves the transfer of phosphocholine from phosphatidylcholine onto ceramide, a reaction catalyzed by SM synthase in the Golgi lumen.
-Drosophila lacks SM and instead synthesizes the SM analogue ceramide phosphoethanolamine (CPE) as the principal membrane sphingolipid.
-The corresponding CPE synthase shares mechanistic features with enzymes mediating phospholipid biosynthesis via the Kennedy pathway.
-Using a functional cloning strategy, we here identified a CDP-ethanolamine:ceramide ethanolamine phosphotransferase as the enzyme responsible for CPE production in Drosophila.
-CPE synthase constitutes a new branch within the CDP-alcohol phosphotransferase superfamily with homologues in Arthropoda (insects, spiders, mites, scorpions), Cnidaria (Hydra, sea anemones), and Mollusca (oysters) but not in most other animal phyla.
-The enzyme resides in the Golgi complex with its active site facing the lumen, contrary to the membrane topology of other CDP-alcohol phosphotransferases.
-Our findings open up an important new avenue to address the biological role of CPE, an enigmatic membrane constituent of a wide variety of invertebrate and marine organisms.

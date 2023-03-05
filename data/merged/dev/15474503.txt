@@ -1,8 +1,0 @@
-Effect of pitavastatin on apolipoprotein A-I production in HepG2 cell.
-There are few reports describing the mechanism of HDL-elevating action of HMG-CoA reductase inhibitors (statins).
-As it is considered that the key step of HDL production is the secretion of apolipoprotein A-I (apoA-I), we investigated the effect of statins on apoA-I synthesis and secretion by HepG2 cell to elucidate the mechanism of the action.
-Each statin induced apoA-I expression (mRNA and protein) dose-dependently: the rank order of the apoA-I induction pitavastatin (3 microM)>simvastatin (10 microM)>atorvastatin (30 microM).
-The induction of apoA-I by statins disappeared with addition of mevalonate, which indicates that the effect is HMG-CoA reductase inhibition-dependent.
-Based on HMG-CoA reductase inhibition, pitavastatin-induced apoA-I more efficiently than simvastatin and atorvastatin.
-Further study revealed that pitavastatin increased ABCA1 mRNA in HMG-CoA reductase-dependent manner and that Rho and Rho kinase inhibitor (C3T and Y27632) increased apoA-I production in the HepG2 cells.
-These results suggest that pitavastatin efficiently increases apoA-I in the culture medium of HepG2 cells by promoting apoA-I production through inhibition of HMG-CoA reductase and suppression of Rho activity and by protecting apoA-I from catabolism through ABCA1 induction and lipidation of apoA-I.

@@ -1,7 +1,0 @@
-Design, Synthesis, and Biological Evaluation of a Series of Benzo[de][1,7]naphthyridin-7(8H)-ones Bearing a Functionalized Longer Chain Appendage as Novel PARP1 Inhibitors.
-A series of benzo[de][1,7]naphthyridin-7(8H)-ones possessing a functionalized long-chain appendage have been designed and evaluated as novel PARP1 inhibitors.
-The initial effort led to the first-generation PARP1 inhibitor 26 bearing a terminal phthalazin-1(2H)-one framework and showing remarkably high PARP1 inhibitory activity (0.31 nM) but only moderate potency in the cell.
-Further effort generated the second-generation lead 41, showing high potency against both the PARP1 enzyme and BRCA-deficient cells, especially for the BRCA1-deficient MDA-MB-436 cells (CC50 < 0.26 nM).
-Mechanistic studies revealed that the new PARP1 inhibitors significantly inhibited H2O2-triggered PARylation in SKOV3 cells, induced cellular accumulation of DNA double-strand breaks, and impaired cell-cycle progression in BRCA2-deficient cells.
-Significant potentiation on the cytotoxicity of Temozolomide was also observed.
-The unique structural character and exceptionally high potency of 41 made it stand out as a promising drug candidate worthy for further evaluation.

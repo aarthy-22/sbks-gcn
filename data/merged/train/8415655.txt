@@ -1,6 +1,0 @@
-Dominant expression of mRNA for prostaglandin D synthase in leptomeninges, choroid plexus, and oligodendrocytes of the adult rat brain.
-Glutathione-independent prostaglandin D synthase [prostaglandin-H2 D-isomerase; (5Z,13E)-(15S)-9 alpha,11 alpha-epidioxy-15-hydroxyprosta-5,13-dienoate D-isomerase, EC 5.3.99.2] is an enzyme responsible for biosynthesis of prostaglandin D2 in the central nervous system.
-In situ hybridization with antisense RNA for the enzyme indicated that mRNA for the enzyme was predominantly expressed in the leptomeninges, choroid plexus, and oligodendrocytes of the adult rat brain.
-The findings agree with those obtained by immunohistochemical staining with antibodies against the enzyme.
-It was further revealed that prostaglandin D synthase activity was considerably greater in the isolated leptomeninges (14.2 nmol per min per mg of protein) and choroid plexus (7.0 nmol per min per mg of protein) than the activity in the whole brain (2.0 nmol per min per mg of protein).
-These results, taken together, indicate that the enzyme is mainly synthesized and located in the leptomeninges, choroid plexus, and oligodendrocytes in the brain.

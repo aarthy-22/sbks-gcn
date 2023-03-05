@@ -1,5 +1,0 @@
-Kinase CK2 inhibition: an update.
-Protein kinase CK2 (Casein Kinase 2) is an essential, ubiquitous and highly pleiotropic protein kinase, implicated in several human diseases.
-In the last decade, several inhibitors of CK2, have been discovered and characterized to be ATP-competitive compounds.
-However, only one of them, CX-4945, has recently completed Phase I clinical trial as potential anticancer drug.
-In this review, we report all chemical classes of CK2 inhibitors available in literature, focusing our attention on conventional ATP-competitive and on non ATP-competitive inhibitors, which could represent a new frontier in CK2 inhibition and, consequently, a promising field of study in discovering new drug candidates.

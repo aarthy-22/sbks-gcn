@@ -1,5 +1,0 @@
-Hexahydrochromeno[4,3-b]pyrrole derivatives as acetylcholinesterase inhibitors.
-In a search for less flexible analogues of caproctamine (1), a diamine diamide endowed with an interesting AChE affinity profile, we discovered compound 2, in which the terminal 2-methoxybenzyl groups of 1 have been incorporated into a tricyclic system.
-Since this compound retains good AChE inhibitory activity and its hexahydrochromeno[4,3-b]pyrrole moiety is reminiscent of the hexahydropyrrolo[2,3-b]indole of physostigmine (3), we have designed and synthesized carbamates 4-6, and their biological evaluation has been assessed in vitro against human AChE and BChE. The 6-carbamate 4 was almost as potent as physostigmine and was 60- and 550-fold more potent than the 7-carbamate 5 and the 8-carbamate 6, respectively.
-The two enantiomers of 4, (-)-4 and (+)-4, did not show a marked enantioselectivity.
-Finally, a similar time-dependent pattern of inhibition of AChE was observed for 3 and 4.

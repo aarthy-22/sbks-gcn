@@ -1,9 +1,0 @@
-Fast protein motions are coupled to enzyme H-transfer reactions.
-Coupling of fast protein dynamics to enzyme chemistry is controversial and has ignited considerable debate, especially over the past 15 years in relation to enzyme-catalyzed H-transfer.
-H-transfer can occur by quantum tunneling, and the temperature dependence of kinetic isotope effects (KIEs) has emerged as the "gold standard" descriptor of these reactions.
-The anomalous temperature dependence of KIEs is often rationalized by invoking fast motions to facilitate H-transfer, yet crucially, direct evidence for coupled motions is lacking.
-The fast motions hypothesis underpinning the temperature dependence of KIEs is based on inference.
-Here, we have perturbed vibrational motions in pentaerythritol tetranitrate reductase (PETNR) by isotopic substitution where all non-exchangeable atoms were replaced with the corresponding heavy isotope ((13)C, (15)N, and (2)H).
-The KIE temperature dependence is perturbed by heavy isotope labeling, demonstrating a direct link between (promoting) vibrations in the protein and the observed KIE.
-Further we show that temperature-independent KIEs do not necessarily rule out a role for fast dynamics coupled to reaction chemistry.
-We show causality between fast motions and enzyme chemistry and demonstrate how this impacts on experimental KIEs for enzyme reactions.

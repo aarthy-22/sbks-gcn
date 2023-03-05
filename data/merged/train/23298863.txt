@@ -1,9 +1,0 @@
-Pharmacokinetic and pharmacodynamic modeling of hedgehog inhibitor TAK-441 for the inhibition of Gli1 messenger RNA expression and antitumor efficacy in xenografted tumor model mice.
-6-Ethyl-N-[1-(hydroxyacetyl)piperidin-4-yl]-1-methyl-4-oxo-5-(2-oxo-2-phenylethyl)-3-(2,2,2-trifluoroethoxy)-4,5-dihydro-1H-pyrrolo[3,2-c]pyridine-2-carboxamide (TAK-441) is a potent, selective hedgehog signaling pathway inhibitor that binds to Smo and is being developed for the treatment of cancer.
-The objectives of these studies were to explore the possibility of establishing of a link between the pharmacokinetics of TAK-441 and the responses of Gli1 mRNA in tumor-associated stromal or skin cells and the antitumor effect of hedgehog inhibition.
-To this end, we built pharmacokinetic and pharmacodynamic models that describe the relationship of the concentrations of TAK-441 plasma to the responses of Gli1 mRNA in the tumor (target) and skin (surrogate) and to tumor growth inhibition in mice bearing xenografts of human pancreatic tumors (PAN-04).
-The responses of Gli1 mRNA and tumor growth were described by an indirect response model and an exponential tumor growth model, respectively.
-The IC50 values for Gli1 mRNA inhibition in the tumor and skin by TAK-441 were estimated to be 0.0457 and 0.113 μg/ml, respectively.
-The IC90 value for tumor growth inhibition was estimated to be 0.68 μg/ml.
-These results suggest that a >83% inhibition of Gli1 mRNA expression in the skin or a >94% inhibition of Gli1 mRNA expression in the tumor would be required to sufficiently inhibit (>90%) hedgehog-related tumor growth in the xenografted model mice.
-We conclude that Gli1 mRNA expression in the tumor and skin could be a useful biomarker for predicting the antitumor effect of hedgehog inhibitors.

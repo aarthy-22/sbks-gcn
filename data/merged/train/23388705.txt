@@ -1,9 +1,0 @@
-Transport of A1 adenosine receptor agonist tecadenoson by human and mouse nucleoside transporters: evidence for blood-brain barrier transport by murine equilibrative nucleoside transporter 1 mENT1.
-The high density of A1 adenosine receptors in the brain results in significant potential for central nervous system (CNS)-related adverse effects with A1 agonists.
-Tecadenoson is a selective A1 adenosine receptor agonist with close similarity to adenosine.
-We studied the binding and transmembrane transport of tecadenoson by recombinant human equilibrative nucleoside transporters (hENTs) hENT1 and hENT2, and human concentrative nucleoside transporters (hCNTs) hCNT1, hCNT2, and hCNT3 in vitro and by mouse mENT1 in vivo.
-Binding affinities of the five recombinant human nucleoside transporters for tecadenoson differed (hENT1 > hCNT1 > hCNT3 > hENT2 > hCNT2), and tecadenoson was transported largely by hENT1.
-Pretreatment of mice with a phosphorylated prodrug of nitrobenzylmercaptopurine riboside, an inhibitor of mENT1, significantly decreased brain exposure to tecadenoson compared with that of the untreated (control) group, suggesting involvement of mENT1 in transport of tecadenoson across the blood-brain barrier (BBB).
-In summary, ENT1 was shown to mediate the transport of tecadenoson in vitro with recombinant and native human protein and in vivo with mice.
-The micromolar apparent Km value of tecadenoson for transport by native hENT1 in cultured cells suggests that hENT1 will not be saturated at clinically relevant (i.e., nanomolar) concentrations of tecadenoson, and that hENT1-mediated passage across the BBB may contribute to the adverse CNS effects observed in clinical trials.
-In contrast, in cases in which a CNS effect is desired, the present results illustrate that synthetic A1 agonists that are transported by hENT1 could be used to target CNS disorders because of enhanced delivery to the brain.

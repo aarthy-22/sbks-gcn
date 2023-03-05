@@ -1,9 +1,0 @@
-Structural features of low-molecular-weight heparins affecting their affinity to antithrombin.
-As part of a more extensive investigation on structural features of different low-molecular-weight heparins (LMWHs) that can affect their biological activities, Enoxaparin, Tinzaparin and Dalteparin were characterised with regards to the distribution of different chain length oligosaccharides as determined by size-exclusion (SE) chromatography, as well as their structure as defined by 2D-NMR spectra (HSQC).
-The three LMWHs were also fractionated into high affinity (HA) and no affinity (NA) pools with regards to their ability to bind antithrombin (AT).
-The HA fractions were further subfractionated and characterised.
-For the parent LMWHs and selected fractions, molecular weight parameters were measured using a SE chromatographic system with a triple detector (TDA) to obtain absolute molecular weights.
-The SE chromatograms clearly indicate that Enoxaparin is consistently richer in shorter oligosaccharides than Tinzaparin and Dalteparin.
-Besides providing the content of terminal groups and individual glucosamine and uronic acid residues with different sulfate substituents, the HSQC-NMR spectra permitted us to evaluate and correlate the content of the pentasaccharide, AT-binding sequence A-G-A*-I-A (AT-bs) through quantification of signals of the disaccharide sequence G-A*. Whereas the percent content of HA species is approximately the same for the three LMWHs, substantial differences were observed for the chain distribution of AT-bs as a function of length, with the AT-bs being preferentially contained in the longest chains of each LMWH.
-The above information will be useful in establishing structure-activity relationships currently under way.
-This study is therefore critical for establishing correlations between structural features of LMWHs and their AT-mediated anticoagulant activity.

@@ -1,3 +1,0 @@
-Tandem Assays of Protein and Glucose with Functionalized Core/Shell Particles Based on Magnetic Separation and Surface-Enhanced Raman Scattering.
-Tandem assays of protein and glucose in combination with mannose-functionalized Fe3 O4 @SiO2 and Ag@SiO2 tag particles have promising potential in effective magnetic separation and highly sensitive and selective SERS assays of biomaterials.
-It is for the first time that tandem assay of glucose is developed using SERS based on the Con A-sandwiched microstructures between the functionalized magnetic and tag particles.

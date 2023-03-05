@@ -1,5 +1,0 @@
-Synthesis and evaluation of 3-(benzylthio)-5-(1H-indol-3-yl)-1,2,4-triazol-4-amines as Bcl-2 inhibitory anticancer agents.
-A series of substituted 3-(benzylthio)-5-(1H-indol-3-yl)-4H-1,2,4-triazol-4-amines has been synthesised and tested in vitro as potential pro-apoptotic Bcl-2-inhibitory anticancer agents.
-Synthesis of the target compounds was readily accomplished in good yields through a cyclisation reaction between indole-3-carboxylic acid hydrazide and carbon disulfide under basic conditions, followed by S-benzylation.
-Active compounds, such as the nitrobenzyl analogue 6c, were found to exhibit sub-micromolar IC50 values in Bcl-2 expressing human cancer cell lines.
-Molecular modelling and ELISA studies further implicated anti-apoptotic Bcl-2 as a candidate molecular target underpinning anticancer activity.

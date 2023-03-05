@@ -1,6 +1,0 @@
-Micro-array analysis of resistance for gemcitabine results in increased expression of ribonucleotide reductase subunits.
-To study in detail the relation between gene expression and resistance against gemcitabine, a cell line was isolated from a tumor for which gemcitabine resistance was induced in vivo.
-Similar to the in vivo tumor, resistance in this cell line, C 26-G, was not related to deficiency of deoxycytidine kinase (dCK).
-Micro-array analysis showed increased expression of ribonucleotide reductase (RR) subunits M1 and M2 as confirmed by real time PCR analysis (28- and 2.7-fold, respectively).
-In cell culture, moderate cross-resistance (about 2-fold) was observed to 1-ss-D-arabinofuranosylcytosine (ara-C), 2-chloro-2'deoxyadenosine (CdA), LY231514 (ALIMTA), and cisplatin (CDDP), and pronounced cross-resistance (>23-fold) to 2',2'-difluorodeoxyuridine (dFdU) and 2',2'-difluorodeoxyguanosine (dFdG).
-Culture in the absence of gemcitabine reduced resistance as well as RRM1 RNA expression, demonstrating a direct relationship of RRM1 RNA expression with acquired resistance to gemcitabine.

@@ -1,8 +1,0 @@
-Xenobiotic receptor humanized mice and their utility.
-The nuclear receptors pregnane X receptor, constitutive androstane receptor, and peroxisome proliferator-activated receptor alpha have important endogenous functions and are also involved in the induction of drug-metabolizing enzymes and transporters in response to exogenous xenobiotics.
-Though not belonging to the same protein family, the Per-Sim-ARNT domain receptor aryl hydrocarbon receptor functionally overlaps with the three nuclear receptors in many aspects and is therefore included in this review.
-Significant species differences in ligand affinity and biological responses as a result of activation of these receptors have been described.
-Several xenobiotic receptor humanized mice have been created to overcome these species differences and to provide in vivo models that are more predictive for human responses.
-This review provides an overview of the different xenobiotic receptor humanized mouse models described to date and will summarize how these models can be applied in basic research and improve drug discovery and development.
-Some of the key applications in the evaluation of drug induction, drug-drug interactions, nongenotoxic carcinogenicity, other toxicity, or efficacy studies are described.
-We also discuss relevant considerations in the interpretation of such data and potential future directions for the use of xenobiotic receptor humanized mice.

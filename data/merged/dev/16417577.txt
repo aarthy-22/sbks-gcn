@@ -1,7 +1,0 @@
-Galanin attenuates cyclic AMP regulatory element-binding protein (CREB) phosphorylation induced by chronic morphine and naloxone challenge in Cath.a cells and primary striatal cultures.
-Repeated morphine administration leads to molecular alterations of the neural circuitry in the locus coeruleus and nucleus accumbens.
-These changes include increased activity of several components of the cAMP signaling pathway that are thought to be associated with psychological and somatic signs of opiate withdrawal.
-The neuropeptide galanin has been shown to attenuate cAMP signaling in multiple cell types.
-The current study demonstrates that acute galanin treatment blocks the consequences of increased cAMP signaling following chronic opiate administration and withdrawal in Cath.a cells and primary cultures of striatal neurons as measured by phosphorylation of the transcription factor cAMP regulatory element-binding protein (CREB).
-In addition, galanin-mediated attenuation of CREB phosphorylation is independent of galanin-induced extracellular signal-regulated kinase (ERK) 1/2 phosphorylation in Cath.a cells.
-These data suggest that galanin receptors may serve as an additional potential therapeutic target for the treatment of opiate withdrawal.

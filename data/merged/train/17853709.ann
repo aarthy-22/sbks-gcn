@@ -46,3 +46,7 @@ T35	GENE-Y 2173 2186	tissue factor
 T36	GENE-N 2300 2317	apolipoprotein(a)
 T37	GENE-Y 2344 2349	Lp(a)
 T38	GENE-N 2350 2361	lipoprotein
+R0	CPR-1 Arg1:T1 Arg2:T15
+R1	CPR-1 Arg1:T2 Arg2:T15
+R2	CPR-1 Arg1:T1 Arg2:T16
+R3	CPR-1 Arg1:T2 Arg2:T16

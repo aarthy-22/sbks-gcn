@@ -1,9 +1,0 @@
-The estrogenic effects of benzylparaben at low doses based on uterotrophic assay in immature SD rats.
-Benzylparaben (BzP), a type of parabens being used as a preservative agent in cosmetics, food, and pharmaceutical products, may be ingested by humans.
-In this study, we performed an immature uterotrophic assay using Sprague Dawley (SD) rats by intragastric administration to determine the estrogenic effects of BzP and found significant increases in uterine weight with doses of 0.16 mg/kg body weight and higher (P<0.05).
-The in vivo estrogenicity of BzP was supported by in vitro results from the human estrogen receptor α (hERα)-coactivator recruiting assay and in silico molecular docking analysis performed in this study.
-The in vitro estrogenic activity of BzP can be observed at concentrations of 1.0×10(-8) M and higher.
-Molecular docking analysis showed that BzP fits well into the agonist pocket of hERα.
-The lowest observed effect dose (LOED) (0.16 mg/kg/day) of BzP is much lower than the documented LOEDs of other parabens.
-Actual risk may exist for people who consume a diet high in BzP or use BzP-laden cosmetics.
-In addition, we tested the sensitivity of Wistar rats to 17β-estradiol by immature uterotrophic assay, and no obvious uterotrophic response was observed in the rats given doses up to 100 μg/kg body weight.

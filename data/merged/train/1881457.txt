@@ -1,7 +1,0 @@
-N2-acetylphenelzine: effects on rat brain GABA, alanine and biogenic amines.
-The neurochemical properties of N2-acetylphenelzine were compared with those of phenelzine in a rat model.
-N2-Acetylphenelzine is a relatively potent inhibitor of monoamine oxidase-A and -B and causes increases in whole-brain levels of noradrenaline and 5-hydroxytryptamine, and decreases in homovanillic acid, 5-hydroxyindole-3-acetic acid, and 3,4-dihydroxyphenylacetic acetic after acute i.p.
-administration of the drug.
-Phenelzine is a more potent monoamine oxidase inhibitor than is N2-acetylphenelzine.
-The most marked difference in the profile was that N2-acetylphenelzine had no effect on whole brain levels of the amino acid neurotransmitters alanine and gamma-aminobutyric acid, whereas phenelzine caused dramatic increases.
-Acetylation of phenelzine at the N2 position presumably interferes with the inhibition of the transaminase enzymes for gamma-aminobutyric acid and alanine.

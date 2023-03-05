@@ -1,6 +1,0 @@
-Boron-based inhibitors of acyl protein thioesterases 1 and 2.
-Ras proteins are of importance in cell proliferation, and hence their mutated forms play causative roles in many kinds of cancer in different tissues.
-Inhibition of the Ras-depalmitoylating enzyme acyl protein thioesterases APT1 and -2 is a new approach to modulating the Ras cycle.
-Here we present boronic and borinic acid derivatives as a new class of potent and nontoxic APT inhibitors.
-These compounds were detected by extensive library screening using chemical arrays and turned out to inhibit human APT1 and -2 in a competitive mode.
-Furthermore, one of the molecules was demonstrated to inhibit Erk1/2 phosphorylation significantly.

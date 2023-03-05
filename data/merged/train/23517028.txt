@@ -1,4 +1,0 @@
-Biophysical Fragment Screening of the β1-Adrenergic Receptor: Identification of High Affinity Arylpiperazine Leads Using Structure-Based Drug Design.
-Biophysical fragment screening of a thermostabilized β1-adrenergic receptor (β1AR) using surface plasmon resonance (SPR) enabled the identification of moderate affinity, high ligand efficiency (LE) arylpiperazine hits 7 and 8.
-Subsequent hit to lead follow-up confirmed the activity of the chemotype, and a structure-based design approach using protein-ligand crystal structures of the β1AR resulted in the identification of several fragments that bound with higher affinity, including indole 19 and quinoline 20.
-In the first example of GPCR crystallography with ligands derived from fragment screening, structures of the stabilized β1AR complexed with 19 and 20 were determined at resolutions of 2.8 and 2.7 Å, respectively.

@@ -1,7 +1,0 @@
-Comparative study on transcriptional activity of 17 parabens mediated by estrogen receptor α and β and androgen receptor.
-The structure-activity relationships of parabens which are widely used as preservatives for transcriptional activities mediated by human estrogen receptor α (hERα), hERβ and androgen receptor (hAR) were investigated.
-Fourteen of 17 parabens exhibited hERα and/or hERβ agonistic activity at concentrations of ⩽1×10(-5)M, whereas none of the 17 parabens showed AR agonistic or antagonistic activity.
-Among 12 parabens with linear alkyl chains ranging in length from C1 to C12, heptylparaben (C7) and pentylparaben (C5) showed the most potent ERα and ERβ agonistic activity in the order of 10(-7)M and 10(-8)M, respectively, and the activities decreased in a stepwise manner as the alkyl chain was shortened to C1 or lengthened to C12.
-Most parabens showing estrogenic activity exhibited ERβ-agonistic activity at lower concentrations than those inducing ERα-agonistic activity.
-The estrogenic activity of butylparaben was markedly decreased by incubation with rat liver microsomes, and the decrease of activity was blocked by a carboxylesterase inhibitor.
-These results indicate that parabens are selective agonists for ERβ over ERα; their interactions with ERα/β are dependent on the size and bulkiness of the alkyl groups; and they are metabolized by carboxylesterases, leading to attenuation of their estrogenic activity.

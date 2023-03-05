@@ -1,7 +1,0 @@
-Anisotropy of chemical bonding in semifluorinated graphite C2F revealed with angle-resolved X-ray absorption spectroscopy.
-Highly oriented pyrolytic graphite characterized by a low misorientation of crystallites is fluorinated using a gaseous mixture of BrF(3) with Br(2) at room temperature.
-The golden-colored product, easily delaminating into micrometer-size transparent flakes, is an intercalation compound where Br(2) molecules are hosted between fluorinated graphene layers of approximate C(2)F composition.
-To unravel the chemical bonding in semifluorinated graphite, we apply angle-resolved near-edge X-ray absorption fine structure (NEXAFS) spectroscopy and quantum-chemical modeling.
-The strong angular dependence of the CK and FK edge NEXAFS spectra on the incident radiation indicates that room-temperature-produced graphite fluoride is a highly anisotropic material, where half of the carbon atoms are covalently bonded with fluorine, while the rest of the carbon atoms preserve π electrons.
-Comparison of the experimental CK edge spectrum with theoretical spectra plotted for C(2)F models reveals that fluorine atoms are more likely to form chains.
-This conclusion agrees with the atomic force microscopy observation of a chain-like pattern on the surface of graphite fluoride layers.

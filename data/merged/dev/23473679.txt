@@ -1,9 +1,0 @@
-Melanoma targeting property of a Lu-177-labeled lactam bridge-cyclized alpha-MSH peptide.
-The purpose of this study was to determine the melanoma targeting property of (177)Lu-DOTA-GGNle-CycMSHhex in B16/F1 melanoma-bearing C57 mice.
-(177)Lu-DOTA-GGNle-CycMSHhex exhibited high receptor-mediated melanoma uptake and fast urinary clearance.
-The tumor uptake of (177)Lu-DOTA-GGNle-CycMSHhex was 20.25 ± 4.59 and 21.63 ± 6.27% ID/g at 0.5 and 2h post-injection, respectively.
-Approximately 83% of injected dose cleared out the body via urinary system at 2h post-injection.
-(177)Lu-DOTA-GGNle-CycMSHhex showed high tumor to normal organ uptake ratios except for the kidneys.
-The tumor/kidney uptake ratios of (177)Lu-DOTA-GGNle-CycMSHhex were 2.76 and 1.74 at 2 and 24h post-injection.
-The melanoma lesions were clearly visualized by SPECT/CT using (177)Lu-DOTA-GGNle-CycMSHhex as an imaging probe at 2h post-injection.
-Overall, high melanoma uptake coupled with fast urinary clearance of (177)Lu-DOTA-GGNle-CycMSHhex underscored its potential for melanoma treatment in the future.

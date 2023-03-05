@@ -1,8 +1,0 @@
-Novel pentablock copolymer (PLA-PCL-PEG-PCL-PLA) based nanoparticles for controlled drug delivery: Effect of copolymer compositions on the crystallinity of copolymers and in vitro drug release profile from nanoparticles.
-The purpose of this investigation was to design novel pentablock copolymers (polylatide-polycaprolactone-polyethylene glycol- polycaprolactone-polylatide) (PLA-PCL-PEG-PCL-PLA) to prepare nanoparticle formulations which provide continuous delivery of steroids over a longer duration with minimal burst effect.
-Another purpose was to evaluate the effect of poly (L-lactide) (PLLA) or poly (D, L-lactide) (PDLLA) incorporation on crystallinity of pentablock copolymers and in vitro release profile of triamcinolone acetonide (selected as model drug) from nanoparticles.
-PLA-PCL-PEG-PCL-PLA copolymers with different block ratio of PCL/PLA segment were synthesized.
-Release of triamcinolone acetonide from nanoparticles was significantly affected by crystallinity of the copolymers.
-Burst release of triamcinolone acetonide from nanoparticles was significantly minimized with incorporation of proper ratio of PDLLA in the existing triblock (PCL-PEG-PCL) copolymer.
-Moreover, pentablock copolymer based nanoparticles exhibited continuous release of triamcinolone acetonide.
-Pentablock copolymer based nanoparticles can be utilized to achieve continuous near zero-order delivery of corticosteroids from nanoparticles without any burst effect.

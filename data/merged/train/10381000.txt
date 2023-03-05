@@ -1,6 +1,0 @@
-Tryptophan hydroxylase mRNA levels are elevated by repeated immobilization stress in rat raphe nuclei but not in pineal gland.
-Repeated stress triggers a wide range of adaptive changes in the central nervous system including the elevation of serotonin (5-HT) metabolism and an increased susceptibility to affective disorders.
-To begin to examine whether these changes are mediated by alterations in gene expression for tryptophan hydroxylase (TPH), the rate-limiting enzyme in 5-HT biosynthesis, we quantitated its mRNA levels by competitive reverse transcription-polymerase chain reaction (RT-PCR).
-Repeated immobilization stress (2 h, 7 days) elicited a six- or ten-fold rise in TPH mRNA in median raphe nucleus (MRN) and dorsal raphe nucleus (DRN), respectively, without significantly altering TPH mRNA levels in the pineal gland.
-In contrast, there was little change in mRNA levels for GTP cyclohydrolase I (GTPCH), the rate limiting enzyme in synthesis of the tetrahydrobiopterin (BH4), the obligate cofactor for TPH.
-This is the first study to reveal stress-elicited activation of TPH gene expression.

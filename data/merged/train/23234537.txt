@@ -1,6 +1,0 @@
-Hybrid carbon nanotube networks as efficient hole extraction layers for organic photovoltaics.
-Transparent, highly percolated networks of regioregular poly(3-hexylthiophene) (rr-P3HT)-wrapped semiconducting single-walled carbon nanotubes (s-SWNTs) are deposited, and the charge transfer processes of these nanohybrids are studied using spectroscopic and electrical measurements.
-The data disclose hole doping of s-SWNTs by the polymer, challenging the prevalent electron-doping hypothesis.
-Through controlled fabrication, high- to low-density nanohybrid networks are achieved, with low-density hybrid carbon nanotube networks tested as hole transport layers (HTLs) for bulk heterojunction (BHJ) organic photovoltaics (OPV).
-OPVs incorporating these rr-P3HT/s-SWNT networks as the HTL demonstrate the best large area (70 mm(2)) carbon nanotube incorporated organic solar cells to date with a power conversion efficiency of 7.6%.
-This signifies the strong capability of nanohybrids as an efficient hole extraction layer, and we believe that dense nanohybrid networks have the potential to replace expensive and material scarce inorganic transparent electrodes in large area electronics toward the realization of low-cost flexible electronics.

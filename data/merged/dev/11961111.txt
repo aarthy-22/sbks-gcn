@@ -1,8 +1,0 @@
-G protein-coupled receptors as direct targets of inhaled anesthetics.
-The molecular pharmacology of inhalational anesthetics remains poorly understood.
-Despite accumulating evidence suggesting that neuronal membrane proteins are potential targets of inhaled anesthetics, most currently favored membrane protein targets lack any direct evidence for anesthetic binding.
-We report herein the location of the binding site for the inhaled anesthetic halothane at the amino acid residue level of resolution in the ligand binding cavity in a prototypical G protein-coupled receptor, bovine rhodopsin.
-Tryptophan fluorescence quenching and direct photoaffinity labeling with [(14)C]halothane suggested an interhelical location of halothane with a stoichiometry of 1 (halothane/rhodopsin molar ratio).
-Radiosequence analysis of [(14)C]halothane-labeled rhodopsin revealed that halothane contacts an amino acid residue (Trp265) lining the ligand binding cavity in the transmembrane core of the receptor.
-The predicted functional consequence, competition between halothane and the ligand retinal, was shown here by spectroscopy and is known to exist in vivo.
-These data suggest that competition with endogenous ligands may be a general mechanism of the action of halothane at this large family of signaling proteins.

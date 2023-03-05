@@ -1,9 +1,0 @@
-The effects of cyclo-oxygenase inhibitors on bile-injured and normal equine colon.
-A potential adverse effect of cyclo-oxygenase (COX) inhibitors (nonsteroidal anti-inflammatory drugs [NSAIDs]) in horses is colitis.
-In addition, we have previously shown an important role for COX-produced prostanoids in recovery of ischaemic-injured equine jejunum.
-It was hypothesised that the nonselective COX inhibitor flunixin would retard repair of bile-injured colon by preventing production of reparative prostaglandins, whereas the selective COX-2 inhibitor, etodolac would not inhibit repair as a result of continued COX-1 activity.
-Segments of the pelvic flexure were exposed to 1.5 mmol/l deoxycholate for 30 min, after which they were recovered for 4 h in Ussing chambers.
-Contrary to the proposed hypothesis, recovery of bile-injured colonic mucosa was not affected by flunixin or etodolac, despite significantly depressed prostanoid production.
-However, treatment of control tissue with flunixin led to increases in mucosal permeability, whereas treatment with etodolac had no significant effect.
-Therefore, although recovery from bile-induced colonic injury maybe independent of COX-elaborated prostanoids, treatment of control tissues with nonselective COX inhibitors may lead to marked increases in permeability.
-Alternatively, selective inhibition of COX-2 may reduce the incidence of adverse effects in horses requiring NSAID therapy.

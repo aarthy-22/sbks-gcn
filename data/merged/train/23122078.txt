@@ -1,9 +1,0 @@
-Purification and characterization of membrane-bound polyphenoloxidase (mPPO) from Snake fruit [Salacca zalacca (Gaertn.) Voss].
-Membrane-bound polyphenoloxidase (mPPO) an oxidative enzyme which is responsible for the undesirable browning reaction in Snake fruit (Salacca zalacca (Gaertn.) Voss) was investigated.
-The enzyme was extracted using a non-ionic detergent (Triton X-114), followed by temperature-induced phase partitioning technique which resulted in two separate layers (detergent-poor phase at the upper layer and detergent-rich phase at the lower layer).
-The upper detergent-poor phase extract was subsequently fractionated by 40-80% ammonium sulfate and chromatographed on HiTrap Phenyl Sepharose and Superdex 200 HR 10/30.
-The mPPO was purified to 14.1 folds with a recovery of 12.35%.
-A single prominent protein band appeared on native-PAGE and SDS-PAGE implying that the mPPO is a monomeric protein with estimated molecular weight of 38kDa.
-Characterization study showed that mPPO from Snake fruit was optimally active at pH 6.5, temperature 30°C and active towards diphenols as substrates.
-The K(m) and V(max) values were calculated to be 5.46 mM and 0.98 U/ml/min, respectively, when catechol was used as substrate.
-Among the chemical inhibitors tested, l-cysteine showed the best inhibitory effect, with an IC(50) of 1.3 ± 0.002 mM followed by ascorbic acid (1.5 ± 0.06 mM), glutathione (1.5 ± 0.07 mM), EDTA (100 ± 0.02 mM) and citric acid (186 ± 0.16 mM).

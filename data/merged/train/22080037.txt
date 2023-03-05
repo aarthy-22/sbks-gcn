@@ -1,8 +1,0 @@
-Mercury induces the expression of cyclooxygenase-2 and inducible nitric oxide synthase.
-Nuclear factor-κB (NF-κB) is a transcription factor that mediates the inducible expression of a variety of genes involved in immune and inflammatory responses.
-NF-κB activation induces numerous proinflammatory gene products including cytokines, cyclooxygenase-2 (COX-2), and inducible nitric oxide synthase (iNOS).
-The divalent heavy metal mercury has been used for thousands of years.
-Although mercury is clearly toxic to most mammalian organ systems, especially the immune system, exposure has still increased in some areas of the world.
-However, the underlying toxic mechanism is not clearly identified.
-Here, we report biochemical evidence that mercury alone induces NF-κB activation, resulting in the induced expression of COX-2 and iNOS.
-The results suggest that mercury can induce inflammatory diseases by lowering host defense.

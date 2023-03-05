@@ -1,8 +1,0 @@
-Involvement of EP1 and EP2 receptors in the regulation of the Na,K-ATPase by prostaglandins in MDCK cells.
-Prostaglandins are key regulators of ion transport in the kidney.
-In MDCK cells, which model distal tubule cells, the transcription of the Na,K-ATPase beta1 subunit is regulated by PGE1 and PGE2.
-To identify the EP receptors that mediate transcriptional regulation, transient transfection studies are conducted using the human beta1promoter/luciferase construct, pHbeta1-1141 Luc.
-The involvement of EP1 and EP2 receptors is indicated by studies with the EP1 selective agonist 17-phenyl trinor PGE2, and the EP2 selective agonist butaprost (which stimulate), as well as by studies with the antagonists SC-51089 (EP1 specific) and AH 6809 (EP1 and EP2 specific).
-Consistent with the involvement of Gs coupled EP2 receptors, is that the PGE1 stimulation is inhibited by the PKAI expression vector (encoding the protein kinase A (PKA) inhibitory protein), as well as by the myristolated PKA inhibitory peptide PKI.
-In addition to this evidence (for the involvement of EP2 receptors), evidence for the involvement of EP1 receptors in the PGE1 mediated stimulation of Na,K-ATPase beta subunit gene transcription includes the stimulatory effect of 17-phenyl trinor PGE2, as well as the inhibitory effects of SC-51089.
-Also consistent with the involvement of Gq coupled EP1 receptors, the PGE1 stimulation is inhibited by the PKCI vector (encoding the PKC inhibitory domain), the PKC inhibitor Go 6976, thapsigargin, as well as the calmodulin antagonists W7 and W13.

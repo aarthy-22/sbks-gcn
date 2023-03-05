@@ -1,6 +1,0 @@
-Evidence that an alpha 2A-adrenoceptor subtype mediates antinociception in mice.
-In the hot-plate test in mice, the antinociceptive action of the alpha 2-adrenoceptor agonist, UK 14,304, was abolished by the alpha 2-adrenoceptor antagonist, idazoxan, the potent alpha 2A-adrenoceptor antagonist, RX 821002 and the preferential alpha 2A-adrenoceptor antagonist, BRL 44408.
-In contrast, the preferential alpha 2B- (and alpha 2C)-adrenoceptor ligands ('antagonists'), ARC-239, BRL 41992 and prazosin were inactive.
-The preferential alpha 2A-adrenoceptor partial agonist, guanfacine, partially inhibited UK 14,304-induced antinociception.
-Further, guanfacine BRL 44408 reversibly elicited submaximal antinociception.
-It is concluded that alpha 2A-adrenoceptors mediate antinociception in mice.

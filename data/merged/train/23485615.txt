@@ -1,9 +1,0 @@
-Platycodi Radix attenuates dimethylnitrosamine-induced liver fibrosis in rats by inducing Nrf2-mediated antioxidant enzymes.
-The purpose of this study was to investigate the anti-fibrotic effects of the aqueous extract of the Platycodi Radix root (Changkil: CK) on dimethylnitrosamine (DMN)-induced liver fibrosis in rats.
-DMN treatment for 4weeks led to marked liver fibrosis as assessed by serum biochemistry, histopathological examination, and hepatic lipid peroxidation and collagen content.
-CK significantly inhibited DMN-induced increases in serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) activities, fibrosis score, and hepatic malondialdehyde and collagen content.
-CK also inhibited DMN-induced reductions in rat body and liver weights.
-Reverse transcription polymerase chain reaction (RT-PCR) and western blot analyses revealed that CK inhibited DMN-induced increases in matrix metalloproteinase-13 (MMP-13), tissue inhibitor of metalloproteinase-1 (TIMP-1), and tumor necrosis factor-α (TNF-α) mRNA, and collagen type I and α-smooth muscle actin protein.
-DMN-induced cyclooxygenase-2 (COX-2) expression and nuclear factor-kappa B (NF-κB) activation was reduced by CK treatment.
-Furthermore, CK induced activation of nuclear erythroid 2-related factor 2 (Nrf2)-mediated antioxidant enzymes such as γ-glutamylcysteine synthetase (γ-GCS), heme oxygenase-1 (HO-1), NAD(P)H quinone oxidoreductase 1 (NQO1), and glutathione-S-transferase (GST) in HepG2 cells.
-These results demonstrated that CK attenuates DMN-induced liver fibrosis through the activation of Nrf2-mediated antioxidant enzymes.

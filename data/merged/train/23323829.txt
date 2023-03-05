@@ -1,6 +1,0 @@
-Design and application of anthracene derivative with aggregation-induced emission charateristics for visualization and monitoring of erythropoietin unfolding.
-Erythropoietin (EPO) is an attractive protein-unfolding/folding model because of its high degree of unfolding and folding reversibility and intermediate size.
-Due to its function for regulating red blood cell production by stimulating late erythroid precursor cells, EPO presents obvious values to biological research.
-A nonemissive anthracene derivative, that is 9,10-bis[4-(3-sulfonatopropoxyl)-styryl]anthracene sodium salt (BSPSA), with aggregation-induced emission (AIE) charateristics shows a novel phenomenon of AIE when EPO is added.
-The AIE biosensor for EPO shows the limit of detection is 1 × 10(-9) M. Utilizing the AIE feature of BSPSA, the unfolding process of EPO using guanidine hydrochloride is monitored, which indicates three steps for the folding structures of EPO to transform to random coil.
-Computational modeling suggests that the BSPSA luminogens prefer docking in the hydrophobic cavity in the EPO folding structures, and the assembly of BSPSA in this cavity makes the AIE available, making the monitoring of unfolding of EPO possible.

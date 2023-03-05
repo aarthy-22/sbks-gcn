@@ -1,9 +1,0 @@
-Intracellular localization of the BCL-2 family member BOK and functional implications.
-The pro-apoptotic BCL-2 family member BOK is widely expressed and resembles the multi-BH domain proteins BAX and BAK based on its amino acid sequence.
-The genomic region encoding BOK was reported to be frequently deleted in human cancer and it has therefore been hypothesized that BOK functions as a tumor suppressor.
-However, little is known about the molecular functions of BOK.
-We show that enforced expression of BOK activates the intrinsic (mitochondrial) apoptotic pathway in BAX/BAK-proficient cells but fails to kill cells lacking both BAX and BAK or sensitize them to cytotoxic insults.
-Interestingly, major portions of endogenous BOK are localized to and partially inserted into the membranes of the Golgi apparatus as well as the endoplasmic reticulum (ER) and associated membranes.
-The C-terminal transmembrane domain of BOK thereby constitutes a 'tail-anchor' specific for targeting to the Golgi and ER.
-Overexpression of full-length BOK causes early fragmentation of ER and Golgi compartments.
-A role for BOK on the Golgi apparatus and the ER is supported by an abnormal response of Bok-deficient cells to the Golgi/ER stressor brefeldin A. Based on these results, we propose that major functions of BOK are exerted at the Golgi and ER membranes and that BOK induces apoptosis in a manner dependent on BAX and BAK.

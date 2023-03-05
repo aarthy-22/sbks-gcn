@@ -1,9 +1,0 @@
-Concentration-dependent inhibitory effects of baicalin on the metabolism of dextromethorphan, a dual probe of CYP2D and CYP3A, in rats.
-Baicalin has been shown to possess many pharmacological effects, including antiviral, antioxidant, anti-cancer and anti-inflammatory properties.
-In the current study, we reveal the inhibitory effects of baicalin on the metabolism of dextromethorphan (DXM), a dual probe substrate of CYP2D and CYP3A, in rats.
-Lineweaver-Burk plots demonstrated that baicalin inhibited the activities of CYP2D and CYP3A in a non-competitive manner in rat liver microsomes (RLMs).
-Concomitant administration of baicalin (0.90g/kg, i.v.) and DXM (10mg/kg, i.v.) increased the maximum drug concentration (Cmax) (37%) and the area under concentration-time curve (AUC) (42%) and decreased the clearance (CL) (27%) of DXM in a randomised, crossover study in rats (P<0.01).
-The change in the AUC of DXM was significantly correlated with the Cmax and AUC of baicalin (P<0.05).
-The inhibitory effects of multiple doses of baicalin (0.90g/kg, i.v., 12days) on the metabolism of DXM were similar to those observed following a single dose in rats.
-The activity of CYP3A in excised liver samples from rats following multiple baicalin treatment was significantly decreased compared to that of the control group (P<0.05), whereas multiple doses of baicalin had no obvious effect on the activity of CYP2D.
-Taken together, these data demonstrate that baicalin inhibits the metabolism of DXM in a concentration-dependent manner in rats, possibly through inhibiting hepatic CYP2D and CYP3A activities.

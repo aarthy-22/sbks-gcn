@@ -1,8 +1,0 @@
-Chemical synthesis, docking studies and biological effects of a pan peroxisome proliferator-activated receptor agonist and cyclooxygenase inhibitor.
-The compound (5Z)-5-[(5-bromo-1H-indol-3-yl)methylene]-3-(4-chlorobenzyl)-thiazolidine-2,4-dione (LYSO-7) was synthesised in order to obtain a new type of anti-inflammatory drug, designed with hybrid features to inhibit cyclooxygenase (COX) and also to activate peroxisome proliferator-activated receptor (PPAR).
-Results obtained from docking (in silico) studies corroborated with experimental data, showing the potential affinity between the studied ligand and targets.
-The specificity of LYSO-7 for COX-enzymes was detected by the inhibition of COX-1 and COX-2 activities by 30% and 20%, respectively.
-In transactivation reporter gene assays LYSO-07 showed a pan partial agonist effect on the three PPAR subtypes (PPARγ, PPARα and PPARβ/δ).
-The agonist action on PPARγ was also observed by a pharmacological approach, as the reduction in the Escherichia coli lipopolysaccharide (LPS)-induced interleukin 1 beta (IL-1β) secretion and nitric oxide (NO) production by mouse neutrophils was blocked by GW9962, a specific PPARγ antagonist.
-Additionally, the in vivo effect was measured by reduced carrageenan-induced neutrophil influx into the subcutaneous tissue of mice.
-Taken together, these data show that LYSO-7 displays a potent in vivo anti-inflammatory effect during the innate acute response, which is dependent on its associated COX inhibitory activities and PPAR activation.

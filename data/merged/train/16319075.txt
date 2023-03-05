@@ -1,8 +1,0 @@
-Calcium-permeable acid-sensing ion channel is a molecular target of the neurotoxic metal ion lead.
-Acid-sensing ion channels (ASICs) are emerging as fundamental players in the regulation of neural plasticity and in pathological conditions.
-Here we showed that lead (Pb2+), a well known neurotoxic metal ion, reversibly and concentration-dependently inhibited ASIC currents in the acutely dissociated spinal dorsal horn and hippocampal CA1 neurons of rats.
-In vitro expression of ASIC subunits in combination demonstrated that both ASIC1 and -3 subunits were sensitive to Pb2+.
-Mechanistically, Pb2+ reduced the pH sensitivity of ASICs independent of membrane voltage change.
-Moreover, Pb2+ inhibited the ASIC-mediated membrane depolarization and the elevation of intracellular Ca2+ concentration.
-In addition, we compared the effect of Pb2+ with that of Ca2+ or amiloride to explore the possible interactions of Pb2+ and Ca2+ in regulating ASICs, and we found that Pb2+ inhibited ASIC currents independent of the amiloride/Ca2+ blockade.
-Because ASIC1b and -3 subunits are mainly expressed in peripheral neurons, our data identified ASIC1a-containing Ca2+-permeable ASIC as a novel central target of Pb2+ action, which may contribute to Pb2+ neurotoxicity.

@@ -14,4 +14,5 @@ T15	GENE-Y 768 777	prolactin
 T11	CHEMICAL 908 919	ziprasidone
 T12	CHEMICAL 981 989	dopamine
 T16	GENE-Y 981 1001	dopamine D2 receptor
-R0	NOT Arg1:T10 Arg2:T15
+R0	CPR-4 Arg1:T11 Arg2:T16
+R1	NOT Arg1:T10 Arg2:T15

@@ -29,5 +29,8 @@ T26	GENE-Y 2125 2154	gamma-glutamyl transpeptidase
 T27	GENE-Y 2156 2170	5-oxoprolinase
 T28	GENE-N 2175 2186	dipeptidase
 R0	NOT Arg1:T3 Arg2:T24
-R1	NOT Arg1:T4 Arg2:T25
-R2	NOT Arg1:T24 Arg2:T5
+R1	NOT Arg1:T3 Arg2:T25
+R2	NOT Arg1:T4 Arg2:T25
+R3	NOT Arg1:T24 Arg2:T5
+R4	NOT Arg1:T10 Arg2:T27
+R5	NOT Arg1:T10 Arg2:T28

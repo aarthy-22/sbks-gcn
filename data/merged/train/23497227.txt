@@ -1,7 +1,0 @@
-Synthesis and in vitro evaluation of N-Aryl pyrido-quinazolines derivatives as potent EGFR inhibitors.
-A series of pyrido-quinazolines have been synthesised, characterised and tested for their in vitro EGFR tyrosine kinase inhibitory activity.
-The compounds were prepared from Alkylideno/arylideno-bis-ureas.
-Their final structure of the compounds were elucidated on the basis of spectral studies (IR., 1H NMR, FT-IR and EI-MS).
-The cellular EGFR internalization response of selected compounds was evaluated using HeLa cells.
-Most of the synthesized compounds displayed potent EGFR-TK inhibitory activity and structurally halogenated derivatives had a pronounced effect in inhibiting EGFR internalization.
-© 2013 John Wiley & Sons A/S.

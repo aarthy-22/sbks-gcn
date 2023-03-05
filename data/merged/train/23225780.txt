@@ -1,3 +1,0 @@
-N-cyano sulfoximines: COX inhibition, anticancer activity, cellular toxicity, and mutagenicity.
-From insects to cancer: N-Cyano sulfoximines were evaluated for COX inhibition and antiproliferative activity against a panel of cancer cell lines.
-The most active compound exhibited potent COX-2 inhibition, some selectivity for COX-2 over COX-1, only slight cytotoxicity towards healthy cells (HaCaT skin cells), and no mutagenic potential (as determined by an Ames assay).

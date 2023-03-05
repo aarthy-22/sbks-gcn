@@ -1,9 +1,0 @@
-Plasma S/R ratio of warfarin co-varies with VKORC1 haplotype.
-We recently reported that the low-dose VKORC1*2 haplotype is an important genetic determinant for warfarin dose requirement and is associated with difficulties to attain stable therapeutic prothrombin time--International Normalized Ratio in patients undergoing anticoagulation therapy.
-The aim of this study was to investigate whether patients with VKORC1*2 compared with patients carrying high-dose haplotypes VKORC1*3 or VKORC1*4 had different warfarin S/R ratios in their plasma, and whether that was related to CYP2C9 variants CYP2C9*2 and CYP2C9*3 or other factors.
-Samples from patients previously haplotyped for VKORC1 and measured for plasma warfarin concentration were genotyped for the CYP2C9 variants CYP2C9*2 and CYP2C9*3.
-Nonparametric statistical analysis was performed to elucidate whether there was any significant difference in the warfarin S/R ratio between the two patient groups.
-Our result shows that there is a significant difference (P<0.01) in warfarin S/R ratios between VKORC1*2 and VKORC1*3 or VKORC1*4 patients.
-This difference did not originate from CYP2C9 variants CYP2C9*2 and CYP2C9*3.
-We speculate that VKORC1 haplotypes possibly are linked to some unidentified factors involved in the metabolic clearance of warfarin enantiomers.
-Dose-dependent variations in (S)-warfarin and (R)-warfarin clearance in these patients can also be a probable explanation for the difference in warfarin S/R ratios.

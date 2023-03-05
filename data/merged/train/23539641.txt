@@ -1,9 +1,0 @@
-Full central neurokinin-1 receptor blockade is required for efficacy in depression: evidence from orvepitant clinical studies.
-Full, persistent blockade of central neurokinin-1 (NK1) receptors may be a potential antidepressant mechanism.
-The selective NK1 antagonist orvepitant (GW823296) was used to test this hypothesis.
-A preliminary positron emission tomography study in eight male volunteers drove dose selection for two randomized six week studies in patients with major depressive disorder (MDD).
-Displacement of central [(11)C]GR205171 binding indicated that oral orvepitant doses of 30-60 mg/day provided >99% receptor occupancy for ≥24 h. Studies 733 and 833 randomized patients with MDD and 17-item Hamilton Depression Rating Scale (HAM-D)≥22 to double-blind treatment with orvepitant 30 mg/day, orvepitant 60 mg/day or placebo (1:1:1).
-Primary outcome measure was change from baseline in 17-item HAM-D total score at Week 6 analyzed using mixed models repeated measures.
-Study 733 (n=328) demonstrated efficacy on the primary endpoint (estimated drug-placebo differences of 30 mg: -2.41, 95% confidence interval (CI) (-4.50 to -0.31) p=0.0245; 60 mg: -2.86, 95% CI (-4.97 to -0.75) p=0.0082).
-Study 833 (n=345) did not show significance (estimated drug-placebo differences of 30 mg: -1.67, 95% CI (-3.73 to 0.39) p=0.1122; 60 mg: -0.76, 95% CI (-2.85 to 1.32) p=0.4713).
-The results support the hypothesis that full, long lasting blockade of central NK1 receptors may be an efficacious mechanism for the treatment of MDD.

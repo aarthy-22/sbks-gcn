@@ -1,9 +1,0 @@
-Nuclear receptor CAR specifically activates the two-pore K+ channel Kcnk1 gene in male mouse livers, which attenuates phenobarbital-induced hepatic hyperplasia.
-KCNK1, a member of the family of two-pore K(+) ion channels, is specifically induced in the livers of male mice after phenobarbital treatment.
-Here, we have determined the molecular mechanism of this male-specific activation of the Kcnk1 gene and characterized KCNK1 as a phenobarbital-inducible antihyperplasia factor.
-Upon activation by phenobarbital, nuclear receptor CAR binds the 97-bp response element (-2441/-2345) within the Kcnk1 promoter.
-This binding is observed in the livers of male mice, but not in the livers of female mice and requires the pituitary gland, because hypophysectomy abrogates it.
-Hyperplasia further progressed in the livers of Kcnk1 ( -/- ) male mice compared with those of Kcnk1 ( +/+ ) males after phenobarbital treatment.
-Thus, KCNK1 suppresses phenobarbital-induced hyperplasia.
-These results indicate that phenobarbital treatment induces KCNK1 to elicit a male-specific and growth-suppressing signal.
-Thus, KCNK1 and Kcnk1 ( -/- ) mice provide an experimental tool for further investigation into the molecular mechanism of CAR-mediated promotion of the development of hepatocellular carcinoma in mice.

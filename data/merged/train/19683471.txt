@@ -1,6 +1,0 @@
-Cellular mechanisms of insulin resistance: role of stress-regulated serine kinases and insulin receptor substrates (IRS) serine phosphorylation.
-Insulin receptor substrates (IRS) serine phosphorylation is a time-controlled physiological feedback mechanism in insulin signaling that is hijacked by metabolic and inflammatory stresses to promote insulin resistance.
-Kinases, including IKKbeta, JNK, ERK, mTOR, and S6K, activated by the inducers of insulin resistance induce uncontrolled IRS serine phosphorylation.
-Studies with genetically modified mice reveal that these kinases integrate signals from metabolic and inflammatory stresses in adipose tissue, liver, and hypothalamus leading to peripheral and central insulin resistance.
-Moreover, IKKbeta/NF-kappaB and JNK1 pathways in myeloid cells represent a core mechanism involved in inflammation linked to obesity.
-These kinases are thus potential drug targets against insulin resistance and the targeting of the IKKbeta/NF-kappaB or the JNK pathway may evolve into future diabetes medication.

@@ -1,7 +1,0 @@
-Mending leaky blood vessels: the angiopoietin-Tie2 pathway in sepsis.
-Sepsis is a systemic inflammatory response to infection.
-A common end-feature, these patients regularly suffer from is the so-called multiple organ dysfunction syndrome, an often fatal consequence of organ hypoperfusion, coagulopathy, immune dysregulation, and mitochondrial dysfunction.
-Microvascular dysfunction critically contributes to the morbidity and mortality of this disease.
-The angiopoietin (Angpt)/Tie2 system consists of the transmembrane endothelial tyrosine kinase Tie2 and its circulating ligands (Angpt-1, -2, and -3/4).
-The balance between the canonical agonist Angpt-1 and its competitive inhibitor, Angpt-2, regulates basal endothelial barrier function and the leakage and vascular inflammation that develop in response to pathogens and cytokines.
-Here we summarize recent work in mice and men to highlight the therapeutic potential in this pathway to prevent or even reverse microvascular dysfunction in this deadly disease.

@@ -1,8 +1,0 @@
-Selective inhibitors and tailored activity probes for lipoprotein-associated phospholipase A(2).
-Lipoprotein-associated phospholipase A(2) (Lp-PLA(2) or PLA(2)G7) binds to low-density lipoprotein (LDL) particles, where it is thought to hydrolyze oxidatively truncated phospholipids.
-Lp-PLA(2) has also been implicated as a pro-tumorigenic enzyme in human prostate cancer.
-Several inhibitors of Lp-PLA(2) have been described, including darapladib, which is currently in phase 3 clinical development for the treatment of atherosclerosis.
-The selectivity that darapladib and other Lp-PLA(2) inhibitors display across the larger serine hydrolase family has not, however, been reported.
-Here, we describe the use of both general and tailored activity-based probes for profiling Lp-PLA(2) and inhibitors of this enzyme in native biological systems.
-We show that both darapladib and a novel class of structurally distinct carbamate inhibitors inactivate Lp-PLA(2) in mouse tissues and human cell lines with high selectivity.
-Our findings thus identify both inhibitors and chemoproteomic probes that are suitable for investigating Lp-PLA(2) function in biological systems.

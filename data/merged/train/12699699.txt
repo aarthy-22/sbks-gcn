@@ -1,7 +1,0 @@
-Cloning and expression of a heme binding protein from the genome of Saccharomyces cerevisiae.
-The YLR205c gene of Saccharomyces cerevisiae does not show significant sequence identity to any known gene, except for heme oxygenase (22% to human HO-1).
-The YLR205 ORF was cloned and overexpressed in both Escherichia coli and S. cerevisiae.
-Both expression systems yielded proteins that bound heme tightly.
-The isolated YLR205c protein underwent reduction in the presence of either NADPH-cytochrome P450 reductase or NADH-putidaredoxin-putidaredoxin reductase but did not exhibit heme oxygenase activity.
-The protein exhibited modest H(2)O(2)-dependent peroxidase activities with guaiacol, potassium iodide, and 2,2(')-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid (ABTS).
-Thus, YLR205c codes for a hemoprotein of unknown physiological function that exhibits peroxidase activity.

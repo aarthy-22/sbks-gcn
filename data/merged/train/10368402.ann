@@ -1,3 +1,4 @@
 T1	CHEMICAL 299 312	acetylcholine
 T2	GENE-N 299 321	acetylcholine receptor
 T3	GENE-N 323 327	AChR
+R0	NOT Arg1:T1 Arg2:T3

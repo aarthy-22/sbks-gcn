@@ -1,8 +1,0 @@
-Recurrent rearrangements in prostate cancer: causes and therapeutic potential.
-DNA damage and genetic rearrangements are hallmarks of cancer.
-However, gene fusions as driver mutations in cancer have classically been a distinction in leukemia and other rare instances until recently with the discovery of gene fusion events occurring in 50 to 75% of prostate cancer patients.
-The discovery of the TMPRSS2-ERG fusion sparked an onslaught of discovery and innovation resulting in a delineation of prostate cancer via a molecular signature of gene fusion events.
-The increased commonality of high-throughput sequencing data coupled with improved bioinformatics approaches not only elucidated the molecular underpinnings of prostate cancer progression, but the mechanisms of gene fusion biogenesis.
-Interestingly, the androgen receptor (AR), already known to play a significant role in prostate cancer tumorigenesis, has recently been implicated in the processes resulting in gene fusions by inducing the spatial proximity of genes involved in rearrangements, promoting the formation of double-strand DNA breaks (DSB), and facilitating the recruitment of proteins for non-homologous end-joining (NHEJ).
-Our increased understanding of the mechanisms inducing genomic instability may lead to improved diagnostic and therapeutic strategies.
-To date, the majority of prostate cancer patients can be molecularly stratified based on their gene fusion status thereby increasing the potential for tailoring more specific and effective therapies.

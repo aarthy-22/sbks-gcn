@@ -1,9 +1,0 @@
-Involvement of Src and the actin cytoskeleton in the antitumorigenic action of adenosine dialdehyde.
-Transmethylation is an important reaction that transfers a methyl group in S-adenosylmethionine (SAM) to substrates such as DNA, RNA, and proteins.
-It is known that transmethylation plays critical roles in various cellular responses.
-In this study, we examined the effects of transmethylation on tumorigenic responses and its regulatory mechanism using an upregulation strategy of adenosylhomocysteine (SAH) acting as a negative feedback inhibitor.
-Treatment with adenosine dialdehyde (AdOx), an inhibitor of transmethylation-suppressive adenosylhomocysteine (SAH) hydrolase (SAHH), enhanced the level of SAH and effectively blocked the proliferation, migration, and invasion of cancer cells; the treatment also induced the differentiation of C6 glioma cells and suppressed the neovascular genesis of eggs in a dose-dependent manner.
-Through immunoblotting analysis, it was found that AdOx was capable of indirectly diminishing the phosphorylation of oncogenic Src and its kinase activity.
-Interestingly, AdOx disrupted actin cytoskeleton structures, leading to morphological changes, and suppressed the formation of a signaling complex composed of Src and p85/PI3K, which is linked to various tumorigenic responses.
-In agreement with these data, the exogenous treatment of SAH or inhibition of SAHH by specific siRNA or another type of inhibitor, 3-deazaadenosine (DAZA), similarly resulted in antitumorigenic responses, suppressive activity on Src, the alteration of actin cytoskeleton, and a change of the colocalization pattern between actin and Src.
-Taken together, these results suggest that SAH/SAHH-mediated transmethylation could be linked to the tumorigenic processes through cross-regulation between the actin cytoskeleton and Src kinase activity.

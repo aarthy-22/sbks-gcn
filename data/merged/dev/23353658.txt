@@ -1,9 +1,0 @@
-In vitro permeability analysis, pharmacokinetic and brain distribution study in mice of imperatorin, isoimperatorin and cnidilin in Radix Angelicae Dahuricae.
-Coumarins are important constituents of Radix Angelicae Dahuricae, a well-known traditional Chinese medicine possess several known bioactivities with potentials in the treatment of central nervous system diseases.
-By using an HPLC-MS/MS method, we analyzed the in vivo plasma and brain pharmacokinetics of three ingredients of coumarins, including imperatorin, isoimperatorin and cnidilin in mice after oral administration of Dahuricae extract at doses of 800mg/kg.
-The biosamples were prepared using acetonitrile precipitation and the separation was achieved on an XDB-C18 column by gradient elution.
-The BBB permeability and P-gp-mediated efflux were further examined in Madin Canine kidney cells transfected with full length cDNA for human multidrug resistance gene1 (MDCKII-MDR1).
-Our results demonstrate that the method has excellent and satisfactory selectivity, sensitivity, linearity, precision, and accuracy for simultaneous determination of imperatorin, isoimperatorin and cnidilin.
-The pharmacokinetics parameters were determined by using noncompartmental analyses, including the AUC(0-t) in plasma (1695.22, 1326.45 and 636.98mg*h/L), the AUC(0-t) in brain (1812.35, 2125.17 and 1145.83ng*h/g) as well as the T1/2 in plasma (0.66, 0.82, 0.97h) and brain (0.96, 1.1, 0.99h) for imperatorin, isoimperatorin and cnidilin, respectively, suggesting that the three coumarins could easily pass through the BBB in vivo.
-In the in vitro model we observed high permeability of imperatorin and isoimperatorin with the P-gp-mediated efflux ratios of 0.53 and 0.06, as well as medium permeability of cnidilin with 0.82.
-All data suggest that these three coumarins have high BBB permeability and have pharmacokinetic potentials for the treatment of central nervous system diseases.

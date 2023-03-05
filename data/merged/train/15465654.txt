@@ -1,8 +1,0 @@
-Viability assessment in sandwich-cultured rat hepatocytes after xenobiotic exposure.
-Troglitazone, bosentan and glibenclamide inhibit the bile salt export pump (Bsep) which transports taurocholate into bile.
-Sandwich-cultured rat hepatocytes maintain functional sodium taurocholate co-transporting polypeptide and Bsep transport proteins, and may be useful to study inhibition of transport by xenobiotics at concentrations below the lowest observable adverse effect level (LOAEL).
-The purpose of this study was to compare viability assessments determined with the neutral red, lactate dehydrogenase (LDH), alamar blue, 3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyltetrazolium bromide (MTT) and propidium iodide assays in sandwich-cultured rat hepatocytes following exposure to xenobiotics known to inhibit Bsep, and to define the LOAEL for these xenobiotics in this system.
-The neutral red assay was not amenable to use in this model due to crystal formation on the collagen.
-Troglitazone decreased viability in every assay examined, with a LOAEL approximately 100 microM. Bosentan also decreased viability as measured by the LDH, MTT and propidium iodide assays, with a LOAEL approximately 200 microM; however, a significant decrease in viability was not observed with the alamar blue assay.
-Glibenclamide did not decrease viability with any assay at the xenobiotic concentrations examined in this study.
-Based on the results of this study, the LDH or propidium iodide assays would be the methods of choice to assess viability in sandwich-cultured rat hepatocytes after xenobiotic exposure.

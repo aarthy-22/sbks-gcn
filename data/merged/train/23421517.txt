@@ -1,8 +1,0 @@
-Reversal effect of rosmarinic acid on multidrug resistance in SGC7901/Adr cell.
-Multidrug resistance (MDR) has been a major problem in cancer chemotherapy.
-In this study, the aim was to explore the reversal effect and its potential mechanism of rosmarinic acid (RA) on SGC7901/Adr cells.
-3-(4,5-Dimethylthiazol)-2,5-diphenyl tetrazolium bromide (MTT) assay was used to investigate the reversal index of RA in SGC7901/Adr cell line.
-The intracellular accumulation of adriamycin, rhodamine123 (Rh123), and the expression of P-glycoprotein (P-gp) were assayed by flow cytometry.
-The influence of RA on the transcription of MDR1 gene was determined by reverse transcription-polymerase chain reaction.
-The results showed that RA could reverse the MDR of SGC7901/Adr cells, increase the intracellular accumulation of Adr and Rh123, and decrease the transcription of MDR1 gene and the expression of P-gp in SGC7901/Adr cells.
-These results indicated that RA was a potential multidrug resistance-reversing agent and warranted further investigations.

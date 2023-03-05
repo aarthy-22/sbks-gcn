@@ -12,3 +12,4 @@ T5	CHEMICAL 365 380	copper sulphate
 T13	GENE-Y 414 434	acetylcholinesterase
 T6	CHEMICAL 572 582	THBDC-DHPM
 T9	CHEMICAL 711 723	galanthamine
+R0	CPR-4 Arg1:T12 Arg2:T14

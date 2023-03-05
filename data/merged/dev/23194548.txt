@@ -1,6 +1,0 @@
-Purification, physicochemical characterisation and anticancer activity of a polysaccharide from Cyclocarya paliurus leaves.
-A Cyclocarya paliurus (Batal.) Iljinskaja polysaccharide (CPP) was isolated and purified by hot water extraction, ethanol precipitation, deproteinisation and anion-exchange chromatography.
-Its physicochemical properties were characterised by gel permeation chromatography (GPC), gas chromatography-mass spectrometry (GC-MS), thermal gravimetric analysis (TGA), Fourier transform infrared spectrometry (FTIR), UV-visible spectrophotometry, dynamic light scattering (DLS) and viscometry analysis.
-The anticancer effect of CPP in human gastric cancer HeLa cells was also evaluated by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay.
-The results showed that the molecular weight of CPP was 900 kDa, and it contained 64.8% total sugar, 23.5% uronic acid, 9.26% protein, and six kinds of monosaccharides, including glucose, rhamnose, arabinose, xylose, mannose and galactose, with molar percentages of 32.7%, 9.33%, 30.6%, 3.48%, 10.4%, and 13.5%, respectively.
-Furthermore, the results showed that CPP exhibited a strong inhibition effect on the growth of human gastric cancer HeLa cells.

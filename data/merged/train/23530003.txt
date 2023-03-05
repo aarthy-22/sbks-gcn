@@ -1,9 +1,0 @@
-Carotid body denervation prevents the development of insulin resistance and hypertension induced by hypercaloric diets.
-Increased sympathetic activity is a well-known pathophysiological mechanism in insulin resistance (IR) and hypertension (HT).
-The carotid bodies (CB) are peripheral chemoreceptors that classically respond to hypoxia by increasing chemosensory activity in the carotid sinus nerve (CSN), causing hyperventilation and activation of the sympathoadrenal system.
-Besides its role in the control of ventilation, the CB has been proposed as a glucose sensor being implicated in the control of energy homeostasis.
-However, to date no studies have anticipated its role in the development of IR.
-Herein we propose that CB overstimulation is involved in the aetiology of IR and HT, core metabolic and hemodynamic disturbances of highly prevalent diseases like the metabolic syndrome, type 2 diabetes and obstructive sleep apnoea.
-We demonstrated CB activity is increased in IR animal models and that CSN resection prevents CB-overactivation and diet-induced IR and HT.
-Moreover we showed that insulin triggers CB, highlighting a new role for hyperinsulinemia as a stimulus for CB-overactivation.
-We propose that CB is implicated in the pathogenesis of metabolic and hemodynamic disturbances through sympathoadrenal overactivation and may represent a novel therapeutic target in these diseases.

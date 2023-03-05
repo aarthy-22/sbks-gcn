@@ -21,3 +21,7 @@ T11	GENE-Y 1475 1480	HIF1α
 T12	GENE-Y 1510 1566	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
 T13	GENE-N 1568 1587	Nip3-like protein X
 T2	CHEMICAL 1618 1629	isoflavones
+R0	CPR-3 Arg1:T1 Arg2:T14
+R1	CPR-3 Arg1:T1 Arg2:T15
+R2	CPR-3 Arg1:T3 Arg2:T14
+R3	CPR-3 Arg1:T3 Arg2:T15

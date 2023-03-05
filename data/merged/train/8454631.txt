@@ -1,6 +1,0 @@
-Differential inhibition of prostaglandin endoperoxide synthase (cyclooxygenase) isozymes by aspirin and other non-steroidal anti-inflammatory drugs.
-Murine prostaglandin endoperoxide (PGH) synthase-1 and PGH synthase-2 expressed in cos-1 cells were found to be differentially sensitive to inhibition by common nonsteroidal anti-inflammatory drugs (NSAIDs).
-Aspirin completely inhibited bis-oxygenation of arachidonate by PGH synthase-1; in contrast, aspirin-treated PGH synthase-2 metabolized arachidonate primarily to 15-hydroxyeicosatetraenoic acid (15-HETE) instead of PGH2.
-ID50 values were determined for a panel of common NSAIDs by measuring instantaneous inhibition of cyclooxygenase activity using an oxygen electrode.
-Among common NSAIDs tested, indomethacin, sulindac sulfide, and piroxicam preferentially inhibited PGH synthase-1; ibuprofen, flurbiprofen, and meclofenamate inhibited both enzymes with comparable potencies; and 6-methoxy-2-naphthylacetic acid preferentially inhibited PGH synthase-2.
-These results demonstrate that the two PGH synthases are pharmacologically distinct and indicate that it may be possible to develop isozyme-specific cyclooxygenase inhibitors useful both for anti-inflammatory therapy and for delineating between the biological roles of the PGH synthase isozymes.

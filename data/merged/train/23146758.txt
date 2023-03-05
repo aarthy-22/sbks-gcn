@@ -1,6 +1,0 @@
-The 2,2',4,4'-tetrabromodiphenyl ether hydroxylated metabolites 5-OH-BDE-47 and 6-OH-BDE-47 stimulate estradiol secretion in the ovary by activating aromatase expression.
-The aim of the present study was to assess the effect of two hydroxylated BDE-47 metabolites, 5-OH-BDE-47 and 6-OH-BDE-47, on steroidogenesis in the ovary.
-Both metabolites failed to affect the production of androstenedione and testosterone but increased the secretion of estradiol at all concentrations tested.
-The increased secretion of estradiol was due to the stimulation of aromatase gene and protein expression.
-Direct assessment of aromatase activity by dibenzylfluorescein assay and indirect assessment of aromatase activity by measurement of the conversion of testosterone to estradiol confirmed that 5-OH-BDE-47 and 6-OH-BDE-47 stimulate aromatase activity.
-The aromatase inhibitor CGS 16949A abolished this stimulatory activity and reduced estradiol levels in the control and treatment groups.

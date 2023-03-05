@@ -1,7 +1,0 @@
-A review on cholinesterase inhibitors for Alzheimer's disease.
-Alzheimer's disease (AD), a progressive neurodegenerative disorder, is characterized by the deficits in the cholinergic system and deposition of beta amyloid (Aβ) in the form of neurofibrillary tangles and amyloid plaques.
-Since the cholinergic system plays an important role in the regulation of learning and memory processes, it has been targetted for the design of anti-Alzheimer's drugs.
-Cholinesterase inhibitors enhance cholinergic transmission directly by inhibiting the enzyme acetylcholinesterase (AChE) which hydrolyses acetylcholine.
-Furthermore, it has been also demonstrated that both acetylcholinesterase and butrylcholinesterase (BuChE) play an important role in Aβ-aggregation during the early stages of senile plaque formation.
-Therefore, AChE and BuChE inhibition have been documented as critical targets for the effective management of AD by an increase in the availability of acetylcholine in the brain regions and decrease in the Aβ deposition.
-This review discusses the different classes of cholinesterase inhibitors including tacrine, donepezil, rivastigmine, galantamine, xanthostigmine, para-aminobenzoic acid, coumarin, flavonoid, and pyrrolo-isoxazole analogues developed for the treatment of AD.

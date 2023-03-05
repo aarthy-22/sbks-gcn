@@ -1,4 +1,0 @@
-Synthesis and cytotoxicity evaluation of oleanolic acid derivatives.
-Twelve derivatives of oleanolic acid (1) have been synthesized and evaluated for their inhibitory activities against the growth of prostate PC3, breast MCF-7, lung A549, and gastric BGC-823 cancer cells by MTT assays.
-Within these series of derivatives, compound 17 exhibited the most potent cytotoxicity against PC3 cell line (IC50=0.39 μM) and compound 28 displayed the best activity against A549 cell line (IC50=0.22 μM).
-SAR analysis indicates that H-donor substitution at C-3 position of oleanolic acid may be advantageous for improvement of cytotoxicity against PC3, A549 and MCF-7 cell lines.

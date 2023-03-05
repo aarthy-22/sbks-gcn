@@ -1,9 +1,0 @@
-Histochemical staining and quantification of dihydrolipoamide dehydrogenase diaphorase activity using blue native PAGE.
-Mammalian mitochondrial dihydrolipoamide dehydrogenase (DLDH, EC 1.8.1.4) catalyzes NAD(+)-dependent oxidation of dihydrolipoamide in vivo and can also act as a diaphorase catalyzing in vitro nicotinamide adenine dinucleotide (reduced form) (NADH)-dependent reduction of electron-accepting molecules such as ubiquinone and nitroblue tetrazolium (NBT).
-In this paper, we report a gel-based method for histochemical staining and quantification of DLDH diaphorase activity using blue native PAGE (BN-PAGE).
-Rat brain mitochondrial extracts, used as the source of DLDH, were resolved by nongradient BN-PAGE (9%), which was followed by diaphorase activity staining using NADH as the electron donor and NBT as the electron acceptor.
-It was shown that activity staining of DLDH diaphorase was both protein amount- and time-dependent.
-Moreover, this in-gel activity-staining method was demonstrated to be in good agreement with the conventional spectrophotometric method that measures DLDH dehydrogenase activity using dihydrolipoamide as the substrate.
-The method was applied to determine levels of DLDH diaphorase activity in several rat tissues other than the brain, and the results indicated a similar level of DLDH diaphorase activity for all the tissues examined.
-Finally, the effects of thiol-reactive reagents such as N-ethylmaleimide (NEM) and nitric oxide donors on DLDH diaphorase activity were evaluated, demonstrating that, with this method, DLDH diaphorase activity can be determined without having to remove these thiol-reactive reagents that may otherwise interfere with spectrophotometric measurement of DLDH dehydrogenase activity.
-The gel-based method can also be used as a means to isolate mitochondrial DLDH that is to be analyzed by mass spectral techniques in studying DLDH post-translational modifications.

@@ -1,5 +1,0 @@
-NMR characterisation of dynamics in solvates and desolvates of formoterol fumarate.
-Solid-state NMR is used to characterise dynamics in the ethanol solvate of the pharmaceutical material formoterol fumarate and its associated desolvate.
-Jump rates and activation barriers for dynamic processes such as phenyl ring rotation and methyl group rotational diffusion are derived from 1D-EXSY and (13)C spin-lattice relaxation times respectively.
-(2)H and (13)C spin-lattice relaxation times measured under magic-angle spinning conditions are used to show that the fumarate ion in the desolvate is undergoing small-amplitude motion on a frequency scale of 100s of MHz at ambient temperature with an activation parameter of about 32 kJ mol(-1).
-Exact calculations of relaxation times under MAS provide a simple and robust means to test motional models in cases where relaxation rate maxima are observed, including for systems where the crystal structure of the material is unknown.

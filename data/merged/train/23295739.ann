@@ -4,3 +4,5 @@ T5	CHEMICAL 1021 1039	methylprednisolone
 T1	CHEMICAL 1164 1182	Methylprednisolone
 T2	CHEMICAL 1214 1228	corticosterone
 T6	GENE-N 1407 1452	glucocorticoid and mineralocorticoid receptor
+R0	NOT Arg1:T1 Arg2:T6
+R1	NOT Arg1:T2 Arg2:T6

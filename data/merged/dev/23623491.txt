@@ -1,5 +1,0 @@
-Synthesis of pyrazolo[1,5-a]pyrimidine linked aminobenzothiazole conjugates as potential anticancer agents.
-A series of pyrazolo[1,5-a]pyrimidine linked 2-aminobenzothizole conjugates (6a-t) were synthesized and evaluated for their anticancer activity against five human cancer cell lines.
-Among them two compounds 6p and 6m showed significant anticancer activity with IC50 values ranging from 2.01 to 7.07 and 1.94-3.46μM, respectively.
-Moreover, cell cycle arrest in G2/M and reduction in Cdk1 expression level were observed upon treatment of these compounds and they also induced caspase-3 dependent apoptosis.
-This was further confirmed by staining as well as DNA fragmentation analysis.

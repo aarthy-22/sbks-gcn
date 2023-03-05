@@ -1,7 +1,0 @@
-Effect of minaprine on cycloheximide-induced amnesia in mice.
-The effects of minaprine on cycloheximide-induced amnesia were investigated in a step-down passive avoidance task in mice.
-Minaprine significantly improved cycloheximide-induced amnesia.
-This effect was inhibited by scopolamine, but was potentiated by physostigmine.
-The anti-amnesic effect of minaprine on the cycloheximide-induced memory impairment was also antagonized by a serotonin (5-HT) releaser, p-chloroamphetamine, and by a 5-HT precursor, 5-hydroxytryptophan, whereas a 5-HT1A-selective agonist, 8-hydroxy-2-(di-n-propylamino)tetralin, was inactive.
-The memory-improving effect of minaprine on cycloheximide-induced amnesia was potentiated by a selective 5-HT2 antagonist, ritanserin.
-These results suggest that the beneficial effect of minaprine on cycloheximide-induced amnesia may be related not only to cholinergic but also serotonergic neuronal systems (5-HT2 receptors).

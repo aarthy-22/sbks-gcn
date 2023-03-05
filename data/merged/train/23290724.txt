@@ -1,8 +1,0 @@
-Zinc drives a tertiary fold in the prion protein with familial disease mutation sites at the interface.
-The cellular prion protein PrP(C) consists of two domains--a flexible N-terminal domain, which participates in copper and zinc regulation, and a largely helical C-terminal domain that converts to β sheet in the course of prion disease.
-These two domains are thought to be fully independent and noninteracting.
-Compelling cellular and biophysical studies, however, suggest a higher order structure that is relevant to both PrP(C) function and misfolding in disease.
-Here, we identify a Zn²⁺-driven N-terminal to C-terminal tertiary interaction in PrP(C).
-The C-terminal surface participating in this interaction carries the majority of the point mutations that confer familial prion disease.
-Investigation of mutant PrPs finds a systematic relationship between the type of mutation and the apparent strength of this domain structure.
-The structural features identified here suggest mechanisms by which physiologic metal ions trigger PrP(C) trafficking and control prion disease.

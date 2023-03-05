@@ -1,7 +1,0 @@
-Pharmacokinetics and pharmacodynamic effects of the oral DPP-4 inhibitor sitagliptin in middle-aged obese subjects.
-Sitagliptin (MK-0431) is an oral, potent, and selective dipeptidyl peptidase-IV (DPP-4) inhibitor developed for the treatment of type 2 diabetes.
-This multicenter, randomized, double-blind, placebo-controlled study examined the pharmacokinetic and pharmacodynamic effects of sitagliptin in obese subjects.
-Middle-aged (45-63 years), nondiabetic, obese (body mass index: 30-40 kg/m2) men and women were randomized to sitagliptin 200 mg bid (n = 24) or placebo (n = 8) for 28 days.
-Steady-state plasma concentrations of sitagliptin were achieved within 2 days of starting treatment, and >90% of the dose was excreted unchanged in urine.
-Sitagliptin treatment led to approximately 90% inhibition of plasma DPP-4 activity, increased active glucagon-like peptide-1 (GLP-1) levels by 2.7-fold (P < .001), and decreased post-oral glucose tolerance test glucose excursion by 35% (P < .050) compared to placebo.
-In nondiabetic obese subjects, treatment with sitagliptin 200 mg bid was generally well tolerated without associated hypoglycemia and led to maximal inhibition of plasma DPP-4 activity, increased active GLP-1, and reduced glycemic excursion.

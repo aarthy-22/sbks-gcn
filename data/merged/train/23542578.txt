@@ -1,5 +1,0 @@
-A novel method for preparing complete antigens of gonyautoxin 2,3 and their feature of immunogenicity.
-In this paper, a novel method was proposed to prepare artificial antigens of gonyaulax parlaytic shellfish toxin 2 and 3 (GTX2,3).
-An intermediate GTX2,3-aldehyde was first synthesized by activating the NH2 group of the 2nd and 8th amino acid residues with three different aldehydes and two artificial complete antigens GTX2,3-aldehyde-bovine serum albumin (BSA) and GTX2,3-aldehyde- keyhole limpet hemocyanin (KLH) were then prepared by cross-linking the intermediate with BSA or KLH.
-The successful preparation of the two complete antigens was confirmed by UV spectral scanning, HPLC, production of antibodies with titer of 1.28 × 10(4) from mice immunized with the two complete antigens, indirect ELISA and Western-blot.
-In conclusion, the synthesized complete antigens have strong immunogenicity, which provides a solid foundation for preparing GTX2,3 monoclonal antibody and rapid detection kit.

@@ -1,9 +1,0 @@
-Deduced amino acid sequence from the bovine oxytocin-neurophysin I precursor cDNA.
-The nonapeptide hormone oxytocin-like arginine-vasopressin (AVP) is synthesized as part of a larger precursor polypeptide.
-The precursor also includes the neurophysin molecule with which the hormone is associated in the neurosecretory granules of the hypothalamo-pituitary tract.
-A protein of molecular weight (Mr) approximately 20,000 has been isolated from supraoptic nuclei of rat hypothalami which, after tryptic cleavage, released a neurophysin-like molecule of Mr approximately 10,000 and an oligopeptide related to oxytocin.
-This result was complemented by in vitro translation of bovine hypothalamic mRNA.
-Among the primary translation products a single polypeptide of Mr approximately 16,500 was shown to contain antigenic determinants recognized by specific antisera against bovine neurophysin I and oxytocin.
-Here we report the amino acid sequence of the bovine oxytocin-neurophysin I (OT-NpI) precursor which was derived from sequence analysis of the cloned cDNA.
-As is the case for the bovine arginine-vasopressin-neurophysin II (AVP-NpII) precursor, the signal sequence of the OT-NpI precursor is immediately followed by the nonapeptide hormone which is connected to neurophysin I by a Gly-Lys-Arg sequence.
-A striking feature of the nucleic acid sequence is the 197-nucleotide long perfect homology with the AVP-NpII precursor mRNA sequence encoding the conserved middle part of neurophysins I and II.

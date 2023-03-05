@@ -1,9 +1,0 @@
-Amitriptyline is a TrkA and TrkB receptor agonist that promotes TrkA/TrkB heterodimerization and has potent neurotrophic activity.
-Neurotrophins, the cognate ligands for the Trk receptors, are homodimers and induce Trk dimerization through a symmetric bivalent mechanism.
-We report here that amitriptyline, an antidepressant drug, directly binds TrkA and TrkB and triggers their dimerization and activation.
-Amitriptyline, but not any other tricyclic or selective serotonin reuptake inhibitor antidepressants, promotes TrkA autophosphorylation in primary neurons and induces neurite outgrowth in PC12 cells.
-Amitriptyline binds the extracellular domain of both TrkA and TrkB and promotes TrkA-TrkB receptor heterodimerization.
-Truncation of amitriptyline binding motif on TrkA abrogates the receptor dimerization by amitriptyline.
-Administration of amitriptyline to mice activates both receptors and significantly reduces kainic acid-triggered neuronal cell death.
-Inhibition of TrkA, but not TrkB, abolishes amitriptyline's neuroprotective effect without impairing its antidepressant activity.
-Thus, amitriptyline acts as a TrkA and TrkB agonist and possesses marked neurotrophic activity.

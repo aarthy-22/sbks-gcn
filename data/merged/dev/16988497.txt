@@ -1,9 +1,0 @@
-Diet and gene expression: delta-5 and delta-6 desaturases in healthy Chinese and European subjects.
-AIM: To compare the composition of fatty acids (FAs) in diet, and the expression of delta-6 desaturase (D6D) and delta-5 desaturase (D5D) genes in peripheral blood mononuclear cells (PBMCs) between Chinese and Europeans.
-METHODS: Three-day dietary records from 20 subjects from Beijing, China (n = 10) and Kent, UK (n = 10) were analysed.
-Expression of PBMC D6D and D5D genes of the subjects was determined using RT-PCR.
-RESULTS: The dietary intake of Chinese subjects contained less saturated fatty acids (SFAs) and monounsaturated fatty acids (MUFAs), but more essential fatty acids (EFAs) than that of Europeans.
-Levels of expression of PBMC D6D and D5D genes of Chinese subjects were significantly lower than those of Europeans.
-A significant positive correlation was found between dietary intake of total SFAs and total MUFAs and expression of PBMC D6D and D5D genes, but a significant negative correlation between dietary intake of linoleic acid (LA) and alpha-linolenic acid (LNA) and the expression of PBMC D6D and D5D genes.
-CONCLUSION: Intake of high SFAs and MUFAs appears to increase expression of PBMC D6D and D5D genes, whilst high EFAs intake appears to decrease expression of PBMC D6D and D5D genes.
-A follow-up study of the expression of D6D and D5D genes in Chinese who live in European countries with high SFA and MUFA diets would be of interest.

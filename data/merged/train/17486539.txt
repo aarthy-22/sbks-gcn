@@ -1,9 +1,0 @@
-Retinoic acid is required for specification of the ventral eye field and for Rathke's pouch in the avian embryo.
-We have investigated the role of retinoic acid (RA) in eye development using the vitamin A deficient quail model system, which overcomes problems of retinoic acid synthesising enzyme redundancy in the embryo.
-In the absence of retinoic acid, the ventral optic stalk and ventral retina are missing, whereas the dorsal optic stalk and dorsal retina develop appropriately.
-Other ocular abnormalities observed were a thinner retina and the lack of differentiation of the lens.
-In an attempt to explain this, we studied the expression of various dorsally and ventrally expressed genes such as Pax2, Pax6, Tbx6, Vax2, Raldh1 and Raldh3 and noted that they were unchanged in their expression patterns.
-In contrast, the RA catabolising enzymes Cyp26A1 and Cyp26B1 which are known to be RA-responsive were not expressed at all in the developing eye.
-At much earlier stages, the expression domain of Shh in the prechordal plate was reduced, as was Nkx2.1 and we suggest a model whereby the eye field is specified according to the concentration of SHH protein that is present.
-We also describe another organ, Rathke's pouch which fails to develop in the absence of retinoic acid.
-We attribute this to the down-regulation of Bmp2, Shh and Fgf8 which are known to be involved in the induction of this structure.

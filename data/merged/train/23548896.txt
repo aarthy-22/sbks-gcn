@@ -1,8 +1,0 @@
-Identification of a new interaction mode between the Src homology 2 (SH2) domain of C-terminal Src kinase (Csk) and Csk-binding protein (Cbp)/phosphoprotein associated with glycosphingolipid microdomains (PAG).
-Proteins with Src homology 2 (SH2) domains play major roles in tyrosine kinase signaling.
-Structures of many SH2 domains have been studied, and the regions involved in their interactions with ligands have been elucidated.
-However, these analyses have been performed using short peptides comprising phosphotyrosine followed by a few amino acids, which are described as the canonical recognition sites.
-Here we report the solution structure of the SH2 domain of C-terminal Src kinase (Csk) in complex with a longer phosphopeptide from Csk-binding protein (Cbp).
-This structure, together with biochemical experiments, revealed the existence of a novel binding region in addition to the canonical phosphotyrosine-314 binding site of Cbp.
-Mutational analysis of this second region in cells showed that both canonical and novel binding sites are required for tumor suppression through the Cbp-Csk interaction.
-Furthermore, the data indicate an allosteric connection between Cbp binding and Csk activation that arises from residues in the βB/βC loop of the SH2 domain.

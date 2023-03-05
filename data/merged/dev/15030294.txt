@@ -1,8 +1,0 @@
-AT1-receptor antagonism in hypertension: what has been learned with irbesartan?
-Irbesartan is a long-acting angiotensin II antagonist acting specifically at the level of the Type 1-receptor subtype (AT1-receptor).
-This compound lowers blood pressure dose-dependently in hypertensive patients and has a placebo-like tolerability.
-The antihypertensive efficacy of irbesartan is greatly enhanced by the coadministration of a diuretic, and fixed-dose combinations of irbesartan and hydrochlorothiazide are now available.
-Irbesartan-based treatment appears especially effective for high-risk patients, such as those with diabetes, renal disease and cardiac hypertrophy.
-In patients with Type 2 diabetes, irbesartan delays the development of nephropathy as well as the progression of renal failure.
-Irbesartan may have antiatherosclerotic properties beyond those expected from blood pressure lowering per se: this AT1-blocker decreases the vascular oxidative stress and prevents the procoagulant as well as the pro-inflammatory effects of angiotensin II.
-Irbesartan given alone or in combination with a diuretic therefore represents a rational approach to treat hypertensive patients.

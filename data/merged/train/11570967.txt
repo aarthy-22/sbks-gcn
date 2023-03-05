@@ -1,9 +1,0 @@
-Cloning of rat interleukin 11 and interleukin 11 receptor alpha chain and analysis of their expression in rat uterus in the peri-implantation period.
-Studies in mice have shown that interleukin 11 (IL-11) signalling is required for female fertility.
-In the absence of IL-11, decidualization is markedly retarded and implantation fails.
-IL-11 acts via a heterodimeric receptor composed of a ligand-specific receptor alpha chain (IL-11R alpha) and the signalling moiety gp130.
-This study reports the cloning of genes encoding rat IL-11 and IL-11R alpha.
-RNase protection was used to demonstrate that expression of IL-11 is upregulated in the rat uterus at the initiation of implantation at 5.5 days after mating.
-Expression of the genes encoding the two receptor components, IL11Ra and gp130, did not change throughout the peri-implantation period.
-In situ hybridization studies revealed that, as in mice, expression of IL-11 was high in the primary decidual zone at the time of the attachment reaction, whereas IL11Ra was expressed throughout primary and secondary decidua.
-Conservation of the temporal and spatial expression of IL-11 and IL-11R alpha in the uterus of the mouse and rat during the peri-implantation period will facilitate future studies investigating the role of IL-11 in fertility.

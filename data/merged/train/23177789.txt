@@ -1,6 +1,0 @@
-Protein tyrosine phosphatase 1B inhibitory effect by dammarane-type triterpenes from hydrolyzate of total Gynostemma pentaphyllum saponins.
-Protein tyrosine phosphatase 1B (PTP1B) is an important factor in non-insulin-dependent diabetes mellitus (type-2 diabetes), and a promising target for treatment of diabetes and obesity.
-Therefore, the aim of this study is to investigate the inhibitory activities of constituents (three new together with twelve known triterpenes compounds) isolated from the hydrolyzate of total saponins from Gynostemma pentaphyllum.
-Their structures were accomplished mainly base on the spectroscopic methods, and then were further confirmed by X-ray crystal diffraction.
-All the compounds were evaluated for inhibitory activity against PTP1B.
-Current data suggested that the compounds 1, 3, 12, 13 and 14 were considered to be potential as antidiabetic agents, in which they could significantly inhibit the PTP1B enzyme activity in a dose-dependent manner.

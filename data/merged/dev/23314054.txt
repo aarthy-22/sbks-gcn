@@ -1,8 +1,0 @@
-Fragment-based design, synthesis, and biological evaluation of N-substituted-5-(4-isopropylthiophenol)-2-hydroxynicotinamide derivatives as novel Mcl-1 inhibitors.
-We have previously reported a nanomolar inhibitor of antiapoptotic Mcl-1 protein, 3-thiomorpholin-8-oxo-8H-acenaphtho [1,2-b] pyrrole-9-carbonitrile (S1).
-S1 plays its function by binding to the BH3 groove of Mcl-1.
-Basing on this spacial structural characteristic, we developed a novel class of Mcl-1 inhibitor using fragment-based drug discovery approach.
-By dissecting S1, we identified the compound 4 with a 2-hydroxypyridine core as the starting fragment.
-In the following molecular growth, we used the ligand efficiency evaluation and fit quality score to assess the fragments.
-A novel potent compound, N-benzyl-5-(4-isopropylthiophenol)-2-hydroxyl nicotinamide (12c), which binds Mcl-1 with an IC(50) value of 54 nM was obtained.
-Compound 12c demonstrated a better aqueous solubility than S1.

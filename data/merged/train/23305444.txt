@@ -1,6 +1,0 @@
-Discovery and evaluation of novel inhibitors of mycobacterium protein tyrosine phosphatase B from the 6-Hydroxy-benzofuran-5-carboxylic acid scaffold.
-Mycobacterium tuberculosis (Mtb) protein tyrosine phosphatase B (mPTPB) is a virulence factor secreted by the pathogen and mediates mycobacterial survival in macrophages by targeting host cell immune responses.
-Consequently, mPTPB represents an exciting new target to combat tuberculosis (TB) infection.
-We describe a medicinal chemistry oriented approach that transforms a benzofuran salicylic acid scaffold into a highly potent (IC(50) = 38 nM) and selective mPTPB inhibitor (>50 fold against a large panel of PTPs).
-Importantly, the inhibitor is capable of reversing the altered host immune responses induced by the bacterial phosphatase and restoring the macrophage's full capacity to secrete IL-6 and undergo apoptosis in response to interferon-γ stimulation, validating the concept that chemical inhibition of mPTPB may be therapeutically useful for novel TB treatment.
-The study further demonstrates that bicyclic salicylic acid pharmacophores can be used to deliver PTP inhibitors with high potency, selectivity, and cellular efficacy.

@@ -1,8 +1,0 @@
-Methionine synthase reductase polymorphisms are associated with serum osteocalcin levels in postmenopausal women.
-Homocysteine (Hcy) is thought to play an important role in the development of osteoporosis and fracture.
-Methionine synthase reductase (MTRR) is an enzyme involved in the conversion of Hcy to methionine.
-We hypothesized that certain genetic polymorphisms of MTRR leading to reduced enzyme activity may cause hyperhomocysteinemia and affect bone metabolism.
-We therefore examined the associations of the A66G and C524T polymorphisms of the MTRR gene with bone mineral density (BMD) and serum osteocalcin levels in postmenopausal women.
-Although we did not detect any significant associations between MTRR polymorphisms and BMD or serum osteocalcin levels, we found that the 66G/524C haplotype, which has reduced enzyme activity, was significantly associated with serum osteocalcin levels in a gene-dose dependent manner (P = 0.002).
-That is, the highest osteocalcin levels (34.5 +/- 16.8 ng/ml) were observed in subjects bearing two copies, intermediate osteocalcin levels (32.6 +/- 14.4 ng/ml) were observed in subjects bearing one copy, and the lowest levels of osteocalcin (28.8 +/- 10.9 ng/ml) were observed in subjects bearing no copies.
-These results suggest that the 66G/524C haplotype of the MTRR gene affect bone turn over rate.

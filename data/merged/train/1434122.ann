@@ -5,3 +5,5 @@ T7	GENE-Y 89 110	histamine H1-receptor
 T3	CHEMICAL 242 251	histamine
 T4	CHEMICAL 374 383	histamine
 T5	CHEMICAL 536 545	ketotifen
+R0	CPR-6 Arg1:T1 Arg2:T7
+R1	NOT Arg1:T7 Arg2:T3

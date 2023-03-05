@@ -1,9 +1,0 @@
-Differential expression of five N-methyl-D-aspartate receptor subunit mRNAs in vasopressin and oxytocin neuroendocrine cells.
-Vasopressin and oxytocin neuroendocrine cells within the supraoptic nucleus display distinctive electrophysiological properties and differential responses to selected NMDA receptor (NR) antagonists.
-To determine if these differences might be due to NMDA receptor composition, we compared the expression of NR1, NR2A, NR2B, NR2C and NR2D subunit mRNAs in immunocytochemically identified vasopressin and oxytocin neuroendocrine cells.
-In contrast to NR1 subunit mRNA which was equally expressed in both vasopressin and oxytocin cells, NR2B and NR2C displayed very different expression patterns.
-In oxytocin cells, the NR2B subunit comprised the majority (65%) of the total NR2 expression with NR2C and NR2D contributing 6% and 27%, respectively.
-Vasopressin cells exhibited 5-fold higher NR2C (32%), approximately half as much NR2B mRNA (39%) and equivalent NR2D (31%).
-In vitro expression studies have shown that the NR1-NR2C subunit combination exhibits weaker magnesium block and higher affinity for glycine than NR1-NR2B.
-Thus, the high expression of NR2C in vasopressin cells relative to oxytocin cells may make these cells more susceptible to glutamatergic activation.
-These observations in vasopressin and oxytocin cells provide the basis for a working model to investigate how differential NMDA receptor composition may shape the neurophysiological properties of neurons.

@@ -12,4 +12,5 @@ T1	CHEMICAL 937 944	calcium
 T13	GENE-N 1021 1032	hemichannel
 T4	GENE-N 1181 1192	hemichannel
 T5	GENE-N 1256 1279	Connexin based channels
-R0	NOT Arg1:T11 Arg2:T1
+R0	NOT Arg1:T14 Arg2:T2
+R1	NOT Arg1:T11 Arg2:T1

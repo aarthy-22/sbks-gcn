@@ -1,9 +1,0 @@
-Developmental changes in lactate dehydrogenase-X activity in young jaundiced male rats.
-This study was designed to examine the testicular maturation in both jaundiced (jj) and nonjaundiced (Jj) male Gunn rats as indicated by the activity of a testis and sperm-specific enzyme, lactate dehydrogenase-X (LDH-X), and serum testosterone levels.
-Testicular cytosolic LDH-X activity was determined by oxidation of reduced nicotinamide adenine dinucleotide (NADH).
-Serum testosterone levels were measured by radioimmunoassay (RIA).
-Testicular LDH-X activity increased rapidly between 30 and 50 days of age in both Jj and jj Gunn rats.
-LDH-X activity was significantly lower in the jj Gunn rats at 50 and 60 days of age.
-Testosterone level was significantly lower in the jj Gunn rats at 50 days of age.
-LDH-X activity and serum testosterone levels were similar for both genotypes at 180 days of age.
-The delay of testicular maturation in the jaundiced males seems to be due to lower LDH-X activity and serum testosterone levels.

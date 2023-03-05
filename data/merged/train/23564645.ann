@@ -4,3 +4,4 @@ T3	GENE-Y 453 495	organic anion transporting polypeptide 1B1
 T4	GENE-Y 497 504	OATP1B1
 T1	CHEMICAL 696 706	rifampicin
 T5	GENE-N 726 731	OATPs
+R0	CPR-4 Arg1:T1 Arg2:T5

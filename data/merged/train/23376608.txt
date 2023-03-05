@@ -1,8 +1,0 @@
-Apigenin induces c-Myc-mediated apoptosis in FRO anaplastic thyroid carcinoma cells.
-Apigenin promotes apoptosis in cancer cells.
-We studied the effect of apigenin on cell survival and c-Myc expression in FRO anaplastic thyroid carcinoma (ATC) cells.
-Apigenin caused apoptosis via the elevation of c-Myc levels in conjunction with the phosphorylation of p38 and p53.
-In the c-Myc siRNA-transfected and apigenin-treated cells, compared with the apigenin-treated control cells, apoptosis and phosphorylation of p38 and p53 were ameliorated.
-In the presence of apigenin, diminution of p38 and p53 did not affect cell survival although apigenin activated the phosphorylation of p38 and p53 via increased c-Myc levels.
-In conclusion, our results indicate that apigenin induces apoptosis mediated via c-Myc with concomitant phosphorylation of p53 and p38 in FRO ATC cells.
-These findings suggest that augmented c-Myc acts as a core regulator and is necessary for apigenin-induced apoptosis in FRO ATC cells.

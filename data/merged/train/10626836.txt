@@ -1,9 +1,0 @@
-Lithium modulates desensitization of the glutamate receptor subtype gluR3 in Xenopus oocytes.
-Analysis of splice variants and site-directed mutants of the AMPA receptor GluR3 expressed in Xenopus oocytes has shown that lithium produces a large potentiation of the GluR3 flop splice variant and suggested that lithium might inhibit rapid desensitization, which is characteristic of this receptor (Karkanias, N. and Papke, R., Subtype-specific effects of lithium on glutamate receptor function.
-J. Neurophysiol., 81 (1999) 1506-1512).
-We now show that mutation of the 769R/ G desensitization site (Lomeli, H.M.J., Melcher, T., Hoger, T., Geiger, J.R., Kuner, T., Monyer, H., Higuchi, M.B.A. and Seeburg, P.H, Control of kinetic properties of AMPA receptor channels by nuclear RNA editing.
-Science, 9(266) (1994) 1709-1713) greatly attenuates the lithium-induced potentiation of GluR3.
-Additionally, experiments with the non-desensitizing site-directed mutant GluR3(L507Y) (Stern-Bach, Y., Russo, S., Neuman, M. and Rosenmund, C., A point mutation in the glutamate binding site blocks desensitization of AMPA receptors.
-Neuron, 21 (1998) 907-918) further confirms that lithium enhances GluR3 responses by reducing desensitization, since lithium's effects are reversed in this mutant.
-Lithium's effects on GluR3 desensitization are distinct from the effects of aniracetam on desensitization.
-Specifically, aniracetam, which potentiates wild-type AMPA receptors, is ineffective on the non-desensitizing GluR3(L507Y) mutant, but has synergistic effects with lithium on wild-type receptors.

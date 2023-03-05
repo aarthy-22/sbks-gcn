@@ -1,7 +1,0 @@
-Acetazolamide inhibits aquaporin-1 protein expression and angiogenesis.
-AIM: To study effects of acetazolamide on aquaporin-1 (AQP(1)) protein expression and angiogenesis.
-METHODS: Establishing Lewis-lung-carcinoma model, the localization of AQP(1) in tumor tissues was investigated by immunohistochemical methods; The biological activity of acetazolamide was detected by endothelial cells proliferation test (MTT) assay and chorioallantoic membrane (CAM) vascular inhibition test.
-RESULTS: Immunohistochemical localization of AQP(1) in mice tumor was labeled in capillaries, post capillary venules endothelial cells.
-After being treated with acetazolamide, the number of capillaries and post capillary venules was significantly decreased in tumor tissue.
-Acetazolamide showed significant inhibitory effect on angiogenesis in CAM and endothelial cell proliferation.
-CONCLUSION: Acetazolamide might be identified and developed as one of potential lead compounds for a new therapeutic intervention in inhibiting cancer angiogenesis.

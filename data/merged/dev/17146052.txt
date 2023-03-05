@@ -1,8 +1,0 @@
-Seizures and enhanced cortical GABAergic inhibition in two mouse models of human autosomal dominant nocturnal frontal lobe epilepsy.
-Selected mutations in the human alpha4 or beta2 neuronal nicotinic acetylcholine receptor subunit genes cosegregate with a partial epilepsy syndrome known as autosomal dominant nocturnal frontal lobe epilepsy (ADNFLE).
-To examine possible mechanisms underlying this inherited epilepsy, we engineered two ADNFLE mutations (Chrna4(S252F) and Chrna4(+L264)) in mice.
-Heterozygous ADNFLE mutant mice show persistent, abnormal cortical electroencephalograms with prominent delta and theta frequencies, exhibit frequent spontaneous seizures, and show an increased sensitivity to the proconvulsant action of nicotine.
-Relative to WT, electrophysiological recordings from ADNFLE mouse layer II/III cortical pyramidal cells reveal a >20-fold increase in nicotine-evoked inhibitory postsynaptic currents with no effect on excitatory postsynaptic currents.
-i.p.
-injection of a subthreshold dose of picrotoxin, a use-dependent gamma-aminobutyric acid receptor antagonist, reduces cortical electroencephalogram delta power and transiently inhibits spontaneous seizure activity in ADNFLE mutant mice.
-Our studies suggest that the mechanism underlying ADNFLE seizures may involve inhibitory synchronization of cortical networks via activation of mutant alpha4-containing nicotinic acetylcholine receptors located on the presynaptic terminals and somatodendritic compartments of cortical GABAergic interneurons.

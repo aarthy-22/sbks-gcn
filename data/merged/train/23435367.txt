@@ -1,8 +1,0 @@
-Transcriptional regulation of human ferredoxin 1 in ovarian granulosa cells.
-Ferredoxin 1 (FDX1; adrenodoxin) is an iron-sulfur protein that is involved in various metabolic processes, including steroid hormone synthesis in mammalian tissues.
-We investigated the transcriptional regulation of FDX1 in ovarian granulosa cells.
-Previously, we reported that the NR5A family, including steroidogenic factor-1 (SF-1) and liver receptor homolog-1 could induce differentiation of human mesenchymal stem cells (hMSCs) into steroidogenic cells.
-A ChIP assay showed that SF-1 could bind to the FDX1 promoter in differentiated hMSCs.
-Luciferase reporter assays showed that transcription of FDX1 was synergistically activated by the NR5A family and 8Br-cAMP treatment through two SF-1 binding sites and a CRE-like sequence in a human ovarian granulosa cell line, KGN.
-Knockdown of FDX1 attenuated progesterone production in KGN cells.
-These results indicate transcription of FDX1 is regulated by the NR5A family and cAMP signaling, and participates in steroid hormone production in ovarian granulosa cells.

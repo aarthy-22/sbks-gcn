@@ -1,9 +1,0 @@
-Potential antipsoriatic effect of chondroitin sulfate through inhibition of NF-κB and STAT3 in human keratinocytes.
-Chondroitin sulfate (CS) is a natural glycosaminoglycan, formed by the 1-3 linkage of d-glucuronic acid to N-acetylgalactosamine, present in the extracellular matrix.
-It is used as a slow acting disease modifying agent in the treatment of osteoarthritis, and part of its beneficial effects are due to its antiinflammatory properties that result from an inhibitory effect on NF-κB signaling pathway.
-This ability raises the hypothesis that CS might be effective in other chronic inflammatory processes such as psoriasis, in which a deregulation of NF-κB is a key feature.
-In addition, psoriasis is characterized by an upregulation of STAT3 signaling pathway that is related to the epidermal hyperplasia.
-In the present study we report the pharmacological modulation of the NF-κB and STAT3 signaling pathways by CS in normal human keratinocytes.
-CS inhibited NF-κB activation and the release of some of the key psoriatic cytokines such as TNFα, IL-8, IL-6 and CCL27.
-Moreover, it impaired STAT3 translocation to the nucleus and significantly reduced STAT3 transcriptional activity by a mechanism that was independent from STAT3 phosphorylation.
-Our results confirm the interest of CS as a candidate for future drug research in the therapeutics of psoriasis given the need of more effective and safer oral medications for these patients.

@@ -1,5 +1,0 @@
-Structures and cytotoxic evaluation of new and known acyclic Ene-Ynes from an American Samoa Petrosia sp. Sponge.
-Four new compounds, (-)-petrosynoic acids A-D (1-4), and five known congeners, pellynols A (5), C (6), D (7), F (8), and I (9), were isolated from a Petrosia sp. marine sponge collected in American Samoa.
-Isolation work was guided by cytotoxicity against human lung cancer cells (H460).
-The structures of the C31-C33 polyacetylenes (1-9) were determined on the basis of 1D- and 2D-NMR analysis, mass spectrometry, and comparison of specific rotation values.
-Compounds 1-9 were found to be broadly cytotoxic with limited selectivity for cancer cells, as they were all moderately active against the A2058 (melanoma), H522-T1 (lung), and H460 (lung) human cancer cell lines as well as IMR-90 quiescent human fibroblast cells.

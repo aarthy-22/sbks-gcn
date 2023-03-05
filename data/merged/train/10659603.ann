@@ -13,3 +13,6 @@ T9	CHEMICAL 758 768	riboflavin
 T14	GENE-N 864 884	neurokinin receptors
 T15	GENE-N 906 931	neuronal calcium channels
 T10	CHEMICAL 915 922	calcium
+R0	NOT Arg1:T11 Arg2:T1
+R1	NOT Arg1:T11 Arg2:T2
+R2	NOT Arg1:T14 Arg2:T10

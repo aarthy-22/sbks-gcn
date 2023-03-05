@@ -1,3 +1,0 @@
-Discovery of 4-amino-N-[(1S)-1-(4-chlorophenyl)-3-hydroxypropyl]-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidine-4-carboxamide (AZD5363), an orally bioavailable, potent inhibitor of Akt kinases.
-Wide-ranging exploration of analogues of an ATP-competitive pyrrolopyrimidine inhibitor of Akt led to the discovery of clinical candidate AZD5363, which showed increased potency, reduced hERG affinity, and higher selectivity against the closely related AGC kinase ROCK.
-This compound demonstrated good preclinical drug metabolism and pharmacokinetics (DMPK) properties and, after oral dosing, showed pharmacodynamic knockdown of phosphorylation of Akt and downstream biomarkers in vivo, and inhibition of tumor growth in a breast cancer xenograft model.

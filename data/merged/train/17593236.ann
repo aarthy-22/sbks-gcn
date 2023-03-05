@@ -8,4 +8,11 @@ T6	GENE-Y 309 331	dipeptidyl peptidase-4
 T7	GENE-Y 333 338	DPP-4
 T8	GENE-Y 422 446	glycosylated haemoglobin
 T9	GENE-Y 448 455	HbA(1c)
-R0	NOT Arg1:T1 Arg2:T9
+R0	CPR-4 Arg1:T5 Arg2:T10
+R1	CPR-4 Arg1:T1 Arg2:T6
+R2	CPR-4 Arg1:T1 Arg2:T7
+R3	NOT Arg1:T10 Arg2:T2
+R4	NOT Arg1:T10 Arg2:T3
+R5	NOT Arg1:T10 Arg2:T4
+R6	NOT Arg1:T1 Arg2:T8
+R7	NOT Arg1:T1 Arg2:T9

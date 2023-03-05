@@ -1,9 +1,0 @@
-The characteristics of genistin-induced inhibitory effects on intestinal motility.
-Genistin belongs to isoflavones.
-Based on the facts that genistin exerts inhibitory effects on the contractility of vascular smooth muscle,the present study was designed to characterize the effects of genistin on intestinal contractility and evaluate its potential clinical implication.
-Ex vivo [isolated jejunal segment (IJS) of rat], in vitro, and in vivo assays were used in the study.
-The results indicated that genistin (5-80 μmol/L) inhibited the contraction of IJS in a dose-dependent manner and inhibited the increased-contractility of IJS induced by acetylcholine (ACh), histamine, high Ca(2+), and erythromycin, respectively.
-The inhibitory effects of genistin were correlated with the stimulation of alpha adrenergic and beta adrenergic receptors since these inhibitory effects were significantly blocked in the presence of phentolamine and propranolol respectively.
-No further inhibitory effects of genistin were observed in the presence of verapamil or in Ca(2+)-free condition, indicating genistin-induced inhibitory effects are Ca(2+)-dependent.
-Genistin decreased myosin light chain kinase (MLCK) protein contents and MLCK mRNA expression in IJS, and inhibited both phosphorylation and Mg(2+)-ATPase activity of purified myosin, implicating that the decrease of MLCK contents and inhibition of MLCK activity are involved in the genistin-induced inhibitory effects.
-The study suggests the potential clinical implications of genistin in relieving intestinal hypercontractility.

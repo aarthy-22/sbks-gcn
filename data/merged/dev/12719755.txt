@@ -1,8 +1,0 @@
-Angiotensin AT1 receptor antagonist losartan and the defence reaction in the anaesthetised rat.
-Effect on the carotid chemoreflex.
-Modulation at the level of the nucleus tractus solitarii (NTS) appears to be an effective way of controlling cardiovascular reflexes.
-Angiotensin II acting on angiotensin AT1 receptors at the central nervous system appears to have an important role in these modulatory processes.
-The hypothalamic defence area (HDA) is a potential source of descending fibres containing angiotensin II that innervate the NTS.
-We investigated the effect of AT1 receptor blockade in the NTS on the response to stimulation of HDA in anaesthetised rats treated with the neuromuscular blocking agent pancuronium bromide.
-The characteristic increase in heart rate, blood pressure and phrenic nerve activity evoked by electrical stimulation of HDA is decreased by the microinjection of the AT1 receptor antagonist losartan into the NTS and the cardiovascular response to carotid body chemical stimulation is also reduced.
-These results support the hypothesis that AT1 receptors in the NTS play a role in the modulation of cardiovascular reflexes, and modify the influence exerted on the processing of these reflexes by other areas of the central nervous system.

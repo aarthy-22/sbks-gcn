@@ -1,8 +1,0 @@
-Toona sinensis and its major bioactive compound gallic acid inhibit LPS-induced inflammation in nuclear factor-κB transgenic mice as evaluated by in vivo bioluminescence imaging.
-In the present study, we investigated the anti-inflammatory effects of a nutritious vegetable Toona sinensis (leaf extracts, TS) and its major bioactive compound gallic acid (GA) by analysing LPS-induced NF-κB activation in transgenic mice, using bioluminescence imaging.
-Mice were challenged intraperitoneally with LPS (1mg/kg) and treated orally with TS or GA (100 or 5mg/kg, respectively).
-In vivo and ex vivo imaging showed that LPS increased NF-κB luminescence in the abdominal region, which was significantly inhibited by TS or GA.
-Immunohistochemical and ELISA analyses confirmed that TS and GA inhibited LPS-induced NF-κB, interleukin-1β, and tumour necrosis factor-α expression.
-Microarray analysis revealed that biological pathways associated with metabolism and the immune responses were affected by TS or GA.
-Particularly, LPS-induced thioredoxin-like 4B (TXNL4B) 2 expression in the small intestine, and TXNL4B, iNOS, and COX-2 expression in RAW 264.7 cells were significantly inhibited by TS or GA.
-Thus, the anti-inflammatory potential of TS was mediated by the downregulation of NF-κB pathway.

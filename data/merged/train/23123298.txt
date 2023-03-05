@@ -1,9 +1,0 @@
-Helenalin-induced apoptosis is dependent on production of reactive oxygen species and independent of induction of endoplasmic reticulum stress in renal cell carcinoma.
-Helenalin, a sesquiterpene lactone, exhibits anti-inflammatory and anti-tumor activities.
-Here, we investigated whether helenalin could induce apoptosis in human renal carcinoma Caki cells.
-Helenalin increased apoptosis in dose dependent manner in Caki cells, and also induced apoptosis in other carcinoma cells, such as human renal carcinoma ACHN cells, human colon carcinoma HT29 and HCT116 cells.
-We found that helenalin markedly induced endoplasmic reticulum (ER) stress-related genes, such as regulated in development and DNA damage responses (REDD) 1, activating transcription factor-4 (ATF4) and/or the CCAAT enhancer-binding protein-homologous protein (CHOP).
-However, down-regulation of ATF4 and/or CHOP expression by siRNA had no effect on helenalin-induced apoptosis in Caki and HCT116 cells.
-Helenalin increased production of intracellular reactive oxygen species (ROS).
-Furthermore, ROS scavengers, N-acetylcystine (NAC), and glutathione ethyl ester (GEE), reduced helenalin-induced apoptosis.
-Taken together, helenalin induced apoptosis via ROS generation in human renal carcinoma Caki cells.

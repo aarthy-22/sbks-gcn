@@ -1,8 +1,0 @@
-Prophylactic effect of resveratrol against ethinylestradiol-induced liver cholestasis.
-Estrogens, and particularly glucuronides such as ethinylestradiol (EE), have been shown to cause cholestasis in animal studies, by reducing bile acid uptake by hepatocytes.
-The aim of the present article was to investigate anticholestatic activity of resveratrol (RES) against liver cholestasis induced by EE in adult female rats.
-The daily oral administration of the RES at a concentration of 25 mg/kg body weight for 15 days to rats treated with EE (100 μg/kg body weight for 5 days) resulted in a significant protection against EE-induced decrease in both serum cholesterol and bile acid levels as well as against an increase of serum bilirubin concentration.
-The treatment also resulted in a significant increase in hepatic superoxide dismutase, glutathione peroxidase, glutathione reductase, and catalase activities as well as hepatic protein-bound and nonprotein sulfhydryl groups.
-RES inhibited serum alkaline phosphatase, alanine aminotransferase, pi-glutathione-S-transferase, gamma-glutamyl transpeptidase, and alpha-glutathione-S-transferase activities, as well as reduced serum tumor necrosis factor-alpha, nitric oxide, and hepatic malondialdehyde as compared to EE-treated rats.
-The results clearly suggest that RES has a powerful prophylactic action in cholestasis induced by EE.
-Taken together, RES has potential as a preventive and therapeutic agent for cholestasis and deserves clinical trial in the near future as an adjuvant therapy in women treated with estrogen.

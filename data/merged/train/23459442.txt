@@ -1,9 +1,0 @@
-COMT Val158Met modulates subjective responses to intravenous nicotine and cognitive performance in abstinent smokers.
-The catechol-O-methyltransferase (COMT) Val158Met polymorphism may be a risk factor for nicotine addiction.
-This study examined the influence of the COMT Val158Met polymorphism on subjective, physiological and cognitive effects of intravenous (IV) nicotine use in African Americans (AAs; n=56) and European Americans (EAs; n=68) smokers.
-Overnight abstinent smokers received saline followed by 0.5 and 1.0 mg per 70 kg doses of nicotine, administered 30 min apart.
-Smokers with valine (Val)/Val genotype, compared with methionine (Met) carriers, had greater negative subjective effects from IV nicotine and had more severe withdrawal severity following overnight abstinence from smoking.
-Women with Val/Val genotype reported greater difficulty concentrating and irritability than men with Val/Val or Met carrier genotypes.
-The Val/Val genotype was associated with better performance on the math task and in AA smokers it was associated with greater systolic blood pressure.
-These results support the rationale of pharmacologically inhibiting COMT to aid with smoking cessation among Val/Val genotype smokers.
-The Pharmacogenomics Journal advance online publication, 5 March 2013; doi:10.1038/tpj.2013.1.

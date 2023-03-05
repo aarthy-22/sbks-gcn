@@ -1,7 +1,0 @@
-Interaction of antidepressants and neuroleptics with histamine stimulated parietal cell adenylate cyclase and H+ secretion.
-The tricyclic antidepressants trimipramine and doxepin, and the neuroleptic agents trifluoperazine and haloperidol were tested for their effect on histamine H2-receptor-mediated adenylate cyclase activity and H+ secretion in guinea-pig parietal cells.
-All compounds inhibited histamine-stimulated adenylate cyclase and H+ secretion in a concentration-dependent manner.
-The antisecretory potency was 1-2 orders of magnitude higher than that for adenylate cyclase inhibition.
-All drugs caused a rightward shift in the concentration-response curves of histamine-induced adenylate cyclase activation with Schild-plot lines having a slope significantly different from unity.
-Histamine-stimulated H+ secretion was inhibited by the drugs in a noncompetitive fashion.
-These results demonstrate that antidepressants and neuroleptics interfere noncompetitively with the parietal cell histamine H2-receptor and that this receptor blocking activity is not related to the antisecretory activity of the drugs.

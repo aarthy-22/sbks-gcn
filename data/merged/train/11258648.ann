@@ -18,5 +18,8 @@ T16	GENE-Y 973 1000	tumor necrosis factor alpha
 T17	GENE-Y 1006 1022	interferon gamma
 T4	GENE-Y 1251 1253	GR
 T5	GENE-N 1262 1271	cytokines
-R0	NOT Arg1:T3 Arg2:T20
-R1	NOT Arg1:T2 Arg2:T7
+R0	NOT Arg1:T3 Arg2:T19
+R1	NOT Arg1:T3 Arg2:T20
+R2	NOT Arg1:T2 Arg2:T18
+R3	NOT Arg1:T2 Arg2:T6
+R4	NOT Arg1:T2 Arg2:T7

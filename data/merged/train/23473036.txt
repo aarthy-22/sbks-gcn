@@ -1,7 +1,0 @@
-Adipose subtype-selective recruitment of TLE3 or Prdm16 by PPARγ specifies lipid storage versus thermogenic gene programs.
-Transcriptional effectors of white adipocyte-selective gene expression have not been described.
-Here we show that TLE3 is a white-selective cofactor that acts reciprocally with the brown-selective cofactor Prdm16 to specify lipid storage and thermogenic gene programs.
-Occupancy of TLE3 and Prdm16 on certain promoters is mutually exclusive, due to the ability of TLE3 to disrupt the physical interaction between Prdm16 and PPARγ.
-When expressed at elevated levels in brown fat, TLE3 counters Prdm16, suppressing brown-selective genes and inducing white-selective genes, resulting in impaired fatty acid oxidation and thermogenesis.
-Conversely, mice lacking TLE3 in adipose tissue show enhanced thermogenesis in inguinal white adipose depots and are protected from age-dependent deterioration of brown adipose tissue function.
-Our results suggest that the establishment of distinct adipocyte phenotypes with different capacities for thermogenesis and lipid storage is accomplished in part through the cell-type-selective recruitment of TLE3 or Prdm16 to key adipocyte target genes.

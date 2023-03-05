@@ -5,5 +5,7 @@ T4	CHEMICAL 109 120	cholesterol
 T7	GENE-Y 140 145	ACAT2
 T2	CHEMICAL 217 250	7-O-p-cyanobenzoyl pyripyropene A
 T1	CHEMICAL 345 373	di-tert-butylsilylene acetal
-R0	CPR-4 Arg1:T5 Arg2:T7
-R1	NOT Arg1:T3 Arg2:T7
+R0	CPR-4 Arg1:T5 Arg2:T6
+R1	CPR-4 Arg1:T5 Arg2:T7
+R2	NOT Arg1:T3 Arg2:T7
+R3	NOT Arg1:T4 Arg2:T7

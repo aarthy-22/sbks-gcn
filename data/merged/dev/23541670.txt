@@ -1,5 +1,0 @@
-Discovery of a series of novel 5H-pyrrolo[2,3-b]pyrazine-2-phenyl ethers, as potent JAK3 kinase inhibitors.
-We report the discovery of a novel series of ATP-competitive Janus kinase 3 (JAK3) inhibitors based on the 5H-pyrrolo[2,3-b]pyrazine scaffold.
-The initial leads in this series, compounds 1a and 1h, showed promising potencies, but a lack of selectivity against other isoforms in the JAK family.
-Computational and crystallographic analysis suggested that the phenyl ether moiety possessed a favorable vector to achieve selectivity.
-Exploration of this vector resulted in the identification of 12b and 12d, as potent JAK3 inhibitors, demonstrating improved JAK family and kinase selectivity.

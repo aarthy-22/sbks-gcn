@@ -1,6 +1,0 @@
-Tumor-suppressive Maspin Functions as a Reactive Oxygen Species Scavenger: IMPORTANCE OF CYSTEINE RESIDUES.
-Maspin is a member of the serine protease inhibitor (serpin) superfamily and displays tumor-suppressing activity by controlling cell migration, proliferation, apoptosis, and adhesion.
-Here, we provide evidence that maspin acts as a reactive oxygen species (ROS) scavenger through oxidation of three structurally exposed cysteine thiols to sulfenic acid.
-Ablation of these cysteine residues in maspin resulted in a significant increase in total ROS production in mouse mammary TM40D cells.
-Also, cells containing a triple-cysteine mutant of maspin showed elevated ERK1/2 activity, a downstream target of ROS, and enhanced proliferation and colony formation.
-These findings establish a novel mechanism by which maspin utilizes its cysteine thiols to inhibit oxidative stress and cell growth.

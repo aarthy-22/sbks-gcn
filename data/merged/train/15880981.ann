@@ -8,3 +8,4 @@ T7	CHEMICAL 769 779	flecainide
 T8	CHEMICAL 785 797	procainamide
 T1	CHEMICAL 1456 1465	quinidine
 T2	CHEMICAL 1470 1483	isoproterenol
+R0	NOT Arg1:T9 Arg2:T3

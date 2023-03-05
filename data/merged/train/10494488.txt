@@ -1,9 +1,0 @@
-Variations of progesterone receptor and c-fos gene expression in the rat uterus after treatment with norethisterone and its A-ring reduced metabolites.
-It has been suggested that some contraceptive derivatives of 19-nor-testosterone possess estrogenic activity that may facilitate the development of breast cancer.
-The aim of this work was to investigate the estrogenic properties of norethisterone (NET) and its A-ring-reduced derivatives by determining progesterone receptor (PR) and c-fos mRNA content of two estrogen-regulated genes in the uterus of ovariectomized rats.
-mRNA content was evaluated by Northern blot 1-6 h after 17 beta-estradiol administration.
-The highest PR and c-fos mRNA content was observed 3 h and 2 h after 17 beta-estradiol administration, respectively.
-NET did not modify either PR or c-fos mRNA content.
-In contrast, 5 alpha- and 3 beta, 5 alpha-NET significantly increased mRNA content of both genes.
-The increase in c-fos mRNA content induced by these reduced compounds was lower than that found with estradiol treatment.
-The overall results indicate that NET administration can indirectly induce estrogenic effects through the action of its 5 alpha-dihydro and 3 beta, 5 alpha-tetrahydro derivatives.

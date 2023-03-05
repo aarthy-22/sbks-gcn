@@ -1,9 +1,0 @@
-Novel acylethanolamide derivatives that modulate body weight through enhancement of hypothalamic pro-opiomelanocortin (POMC) and/or decreased neuropeptide Y (NPY).
-Newly synthesized acylethanolamide derivatives oleoyl-L-valinolamide (1), oleoyl-D-valinolamide (2), elaidoyl-L-valinolamide (3), elaidoyl-D-valinolamide (4) stearoyl-L-valinolamide (5), and palmitoyl-L-valinolamide (6) were investigated in mice as antiobesity compounds.
-Compounds 1, 2, 5, 6 significantly decreased body weight by 6.57% following eight injections of 1 mg/kg i.p.
-during 39 days, while 3 and 4 showed no such activity.
-Receptor binding indicated that no compound activated CB1, CB2, PPARα, or TRPV1 receptors.
-Hypothalamic RT-PCR showed that mRNA expression of the anorexigenic genes POMC and CART was up-regulated by 1, 2, 5 and 1, 2, respectively, while that of the orexigenic genes NPY and CaMKK2 was down-regulated by the respective compounds 1, 5, 6 and 1, 2, 5.
-Oleoyl-L-valinolamide enhances anorectic pathways and lead to decreased glucose levels, enhanced locomotor activity, and improved cognition.
-Effects of oleoyl-L-valinolamide on weight were dose-dependent, and it could be given orally.
-1, 2, 4, 5 down-regulated FAAH mRNA expression.

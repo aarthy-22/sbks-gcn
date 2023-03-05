@@ -1,5 +1,0 @@
-COX-2 in play at the AHA and the FDA.
-The inhibition of cyclooxygenase (COX)-2 confers a small but absolute risk of cardiovascular events on patients taking nonsteroidal anti-inflammatory drugs (NSAIDs).
-This risk has been established by placebo-controlled trials of NSAIDs selective for COX-2; traditional NSAIDs seem to be heterogeneous with respect to cardiovascular risk.
-The American Heart Association (AHA) has proposed a 'stepped-care' approach to the use of NSAIDs in patients with cardiovascular disease, whereas the Food and Drug Administration (FDA) has failed to approve the COX-2-selective NSAID etoricoxib.
-In this article, these actions of the AHA and the FDA are interpreted in the light of current knowledge, prompting the formulation of scientific questions that might be addressed.

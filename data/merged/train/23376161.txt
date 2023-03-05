@@ -1,9 +1,0 @@
-Catalpol suppresses advanced glycation end-products-induced inflammatory responses through inhibition of reactive oxygen species in human monocytic THP-1 cells.
-Advanced glycation end-products (AGEs) play a pivotal role in the development of diabetic complications by inducing inflammation.
-We previously reported that the fresh roots of Rehmannia glutinosa Libosch., which have been used for the treatment of diabetes in traditional Korean medicine, also have the potential to suppress AGE-mediated inflammatory response in THP-1 cells.
-In the present study, we isolated catalpol from R. glutinosa, and examined whether it has anti-inflammatory effects on AGE-stimulated THP-1 cells.
-Catalpol reduced the expression of pro-inflammatory mediates, such as monocyte chemotactic protein-1 (MCP-1), tumor necrosis factor-α (TNF-α), inducible NO synthase (iNOS), and receptor for AGE (RAGE).
-Promoter and electromobility shift assays showed that transcriptional activation of NF-κB was significantly reduced by catalpol treatment, while AP-1 was not.
-Catalpol also suppressed AGE-induced phosphorylation of mitogen activated protein (MAP) kinases, degradation of IκBα and the nuclear localization of NF-κB. Moreover, the production of intracellular reactive oxygen species (ROS) elicited by AGE was also suppressed by catalpol treatment, through dual action of reducing ROS itself and inhibiting NADPH oxidase activity.
-Our findings indicate that catalpol suppresses AGE-mediated inflammation by inhibiting ROS production and NF-κB activity.
-We suggest that catalpol, a major constituent of the fresh roots of R. glutinosa, contributes to the prevention of AGE-mediated diabetic complications.

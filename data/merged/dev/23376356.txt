@@ -1,8 +1,0 @@
-PI3 k/akt inhibition induces apoptosis through p38 activation in neurons.
-Accumulating evidence suggests that the PI3K/AKT pathway is a pro-survival signalling system in neurons.
-Therefore, the inhibition of this pathway may be implicated in the degeneration of neurons in Parkinson's disease (PD), Alzheimer's disease (AD), and other neurological disorders.
-Here we study the participation of the mitogen-activated protein kinase (MAPK) pathway on apoptosis induced by PI3K/AKT inhibition in cultured cerebellar granule cells (CGCs).
-LY294002, a specific PI3K/AKT inhibitor, selectively activated the p38 MAPK kinase pathway and enhanced c-Jun phosphorylation, but did not activate JNK.
-The pharmacological inhibitors SB203580 (p38 inhibitor) and SP600125 (a JNK inhibitor) protected primary cultures of rat CGCs from LY294002-induced apoptosis.
-Furthermore, both compounds decreased the phosphorylation of c-Jun and lowered mRNA levels of the pro-apoptotic gene dp5, a direct target of c-Jun.
-Taken together, our data demonstrate that PI3K/AKT inhibition induces neuronal apoptosis, a process that is mediated by the activation of p38 MAPK/c-Jun/dp5.

@@ -4,4 +4,5 @@ T2	GENE-Y 658 666	catalase
 T3	GENE-Y 671 681	esterase D
 T1	CHEMICAL 695 715	S-formyl glutathione
 T4	GENE-Y 695 725	S-formyl glutathione hydrolase
-R0	NOT Arg1:T3 Arg2:T1
+R0	NOT Arg1:T2 Arg2:T1
+R1	NOT Arg1:T3 Arg2:T1

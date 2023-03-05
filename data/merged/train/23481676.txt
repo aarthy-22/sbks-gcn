@@ -1,5 +1,0 @@
-Cytotoxic and Anti-Inflammatory Eunicellin-Based Diterpenoids from the Soft Coral Cladiella krempfi.
-Five new eunicellin-based diterpenoids, krempfielins E-I (1-5) and seven known compounds (6-12) were isolated from the organic extract of a Taiwanese soft coral Cladiella krempfi.
-The structures of the new metabolites were elucidated on the basis of extensive spectroscopic analysis.
-Metabolites 5, 6, 10 and 12 were shown to exhibit cytotoxicity against a limited panel of cancer cell lines.
-Furthermore, compounds 6 and 10 could potently inhibit the accumulation of the pro-inflammatory iNOS protein, and 6 and 12 could significantly reduce the expression of COX-2 protein in LPS-stimulated RAW264.7 macrophage cells.

@@ -1,9 +1,0 @@
-Left ventricular noncompaction (LVNC) and low mitochondrial membrane potential are specific for Barth syndrome.
-Barth syndrome (BTHS) is an X-linked mitochondrial defect characterised by dilated cardiomyopathy, neutropaenia and 3-methylglutaconic aciduria (3-MGCA).
-We report on two affected brothers with c.646G > A (p.G216R) TAZ gene mutations.
-The pathogenicity of the mutation, as indicated by the structure-based functional analyses, was further confirmed by abnormal monolysocardiolipin/cardiolipin ratio in dry blood spots of the patients as well as the occurrence of this mutation in another reported BTHS proband.
-In both brothers, 2D-echocardiography revealed some features of left ventricular noncompaction (LVNC) despite marked differences in the course of the disease; the eldest child presented with isolated cardiomyopathy from late infancy, whereas the youngest showed severe lactic acidosis without 3-MGCA during the neonatal period.
-An examination of the patients' fibroblast cultures revealed that extremely low mitochondrial membrane potentials (mtΔΨ about 50 % of the control value) dominated other unspecific mitochondrial changes detected (respiratory chain dysfunction, abnormal ROS production and depressed antioxidant defense).
-1) Our studies confirm generalised mitochondrial dysfunction in the skeletal muscle and the fibroblasts of BTHS patients, especially a severe impairment in the mtΔΨ and the inhibition of complex V activity.
-It can be hypothesised that impaired mtΔΨ and mitochondrial ATP synthase activity may contribute to episodes of cardiac arrhythmia that occurred unexpectedly in BTHS patients.
-2) Severe lactic acidosis without 3-methylglutaconic aciduria in male neonates as well as an asymptomatic mild left ventricular noncompaction may characterise the ranges of natural history of Barth syndrome.

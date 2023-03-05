@@ -1,8 +1,0 @@
-Addition of artificial salt bridge by Ile646Lys mutation in gp41 coiled-coil domain regulates 6-helical bundle formation.
-HIV entry is mediated by the envelope glycoproteins gp120 and gp41.
-The gp41 subunit contains several functional domains: the N-terminal heptad repeat (NHR) domains fold a triple stranded coiled-coil forming a meta-stable prefusion intermediate.
-C-terminal heptad repeat (CHR) subsequently folds onto the hydrophobic grooves of the NHR coiled-coil to form a stable 6-helix bundle, which juxtaposes the viral and cellular membranes for fusion.
-The C34 which has 34 amino acid residues is known as the core structure in CHR.
-A highly anti-HIV peptide inhibitor derived from C34 was designed.
-An artificial salt bridge was added in the 6-helical bundle by substitution of lysine for Ile646.
-With a cholesterol modification at C-terminal, the inhibitor containing I646K mutation represented higher anti-viral activity than C34-cholesterol combination without mutation.

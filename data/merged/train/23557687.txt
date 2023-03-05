@@ -1,6 +1,0 @@
-Global gene expression analysis reveals pathway differences between teratogenic and non-teratogenic exposure concentrations of bisphenol A and 17β-estradiol in embryonic zebrafish.
-Transient developmental exposure to 0.1μM bisphenol A (BPA) results in larval zebrafish hyperactivity and learning impairments in the adult, while exposure to 80μM BPA results in teratogenic responses, including craniofacial abnormalities and edema.
-The mode of action underlying these effects is unclear.
-We used global gene expression analysis to identify candidate genes and signaling pathways that mediate BPA's developmental toxicity in zebrafish.
-Exposure concentrations were selected and anchored to the positive control, 17β-estradiol (E2), based on previously determined behavioral or teratogenic phenotypes.
-Functional analysis of differentially expressed genes revealed distinct expression profiles at 24h post fertilization for 0.1μM versus 80μM BPA and 0.1μM versus 15μM E2 exposure, identification of prothrombin activation as a top canonical pathway impacted by both 0.1μM BPA and 0.1μM E2 exposure, and suppressed expression of several genes involved in nervous system development and function following 0.1μM BPA exposure.

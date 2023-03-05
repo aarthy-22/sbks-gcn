@@ -1,8 +1,0 @@
-The effect of antidepressants on glucose homeostasis and insulin sensitivity: synthesis and mechanisms.
-OBJECTIVE: To synthesise results from investigations reporting on the effect of antidepressants on glucose-insulin homeostasis.
-METHOD: The authors conducted a MedLine search of all English language articles from 1966 to October 2005 using the keywords: bipolar disorder, major depressive disorder, diabetes mellitus, glucose homeostasis, and the name of each antidepressant that has been indicated for major depression in Canada and the US up to October 2005.
-The search was supplemented with a manual review of relevant references.
-Both preclinical and clinical investigations were reviewed.
-RESULTS: Some serotonergic antidepressants (e.g., fluoxetine) reduce hyperglycaemia, normalise glucose homeostasis and increase insulin sensitivity, whereas some noradrenergic antidepressants (e.g., desipramine) exert opposite effects.
-Dual-mechanism antidepressants (e.g., duloxetine and venlafaxine) do not appear to disrupt glucose homeostatic dynamics, whereas nonselective hydrazine monoamine oxidase inhibitors (e.g., phenelzine) are associated with hypoglycaemia and an increased glucose disposal rate.
-CONCLUSION: Some antidepressants exert a clinically significant effect on metabolism relevant to both therapeutic outcome and adverse events.

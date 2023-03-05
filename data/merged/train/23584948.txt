@@ -1,8 +1,0 @@
-Vandetanib: opening a new treatment practice in advanced medullary thyroid carcinoma.
-Medullary thyroid cancer (MTC) is frequently diagnosed in a locally advanced or metastatic stage, and 10-year survival rates in these cases are below 20 %.
-Cytotoxic chemotherapy has no significant impact on overall or progression-free survival.
-Vandetanib (Caprelsa(®), AstraZeneca) is a once-daily oral tyrosine kinase inhibitor that selectively inhibits signalling mediated by growth-factor receptor tyrosine kinase RET (constitutively activated in roughly 60 % of all MTCs), vascular endothelial growth-factor receptors 2 and 3, and epidermal growth-factor receptors.
-It is the first systemic drug with demonstrated anti-tumor benefits in advanced MTC, and it has recently been approved for locally advanced or metastatic MTC by the United States Food and Drug Administration (April 2011) and the European Medicines Agency (February 2012).
-This review, starting from the phases II and III efficacy and safety data that led to these approvals, explores important issues related to dosing, patient selection, and strategies for managing the substantial risk of toxicity associated with the drug (including life-threatening cardiac events that are the subject of a black-box warning in the United States).
-All these issues still remain to be defined.
-Vandetanib is becoming a standard of care for symptomatic, progressive, metastatic MTCs, to be used selectively in those patients who are likely to benefit from it.

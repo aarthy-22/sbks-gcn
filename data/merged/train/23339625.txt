@@ -1,9 +1,0 @@
-Time-dependent changes in hepatic and intestinal induction of cytochrome P450 3A after administration of dexamethasone to rats.
-Abstract 1.
- We investigated the effects of the dose of and the number of times an inducer was administered and the duration of induction of hepatic and intestinal cytochrome P450 3A (CYP3A) in rats using dexamethasone 21-phosphate (DEX-P) and midazolam (MDZ) as an inducer and a substrate to CYP3A, respectively.
-2. The number of times DEX-P was administered was not a significant factor in the induction of either hepatic or intestinal CYP3A; however, administration of DEX-P multiple times markedly decreased the bioavailability of DEX-P by self-induction of CYP3A.
-3.
- CYP3A induction in the liver increased depending on the dose of DEX-P, whereas that in intestine showed a mild increase, but the induction level was almost constant regardless of the dose of DEX-P. 4.
- Administration of a single dose of DEX-P showed a temporal increase in CYP3A activity in both tissues and the induction ratios reached maximum values at 12 h after DEX-P administration.
-On the other hand, a mild increase of CYP3A activity, which lasted for at least 48 h, was observed in both tissues after administration of multiple doses.
-5. Some physiological compounds such as cytokines might be involved in decreasing the CYP3A activity to maintain homeostasis of the body.

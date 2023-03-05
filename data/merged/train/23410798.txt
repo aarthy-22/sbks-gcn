@@ -1,5 +1,0 @@
-Spiro heterocycles as potential inhibitors of SIRT1: Pd/C-mediated synthesis of novel N-indolylmethyl spiroindoline-3,2'-quinazolines.
-Novel N-indolylmethyl substituted spiroindoline-3,2'-quinazolines were designed as potential inhibitiors of SIRT1.
-These compounds were synthesized in good yields by using Pd/C-Cu mediated coupling-cyclization strategy as a key step involving the reaction of 1-(prop-2-ynyl)-1'H-spiro[indoline-3,2'-quinazoline]-2,4'(3'H)-dione with 2-iodoanilides.
-Some of the compounds synthesized have shown encouraging inhibition of Sir 2 protein (a yeast homologue of mammalian SIRT1) in vitro and three of them showed dose dependent inhibition of Sir 2.
-The docking results suggested that the benzene ring of 1,2,3,4-tetrahydroquinazolin ring system of these molecules occupied the deep hydrophobic pocket of the protein and one of the NH along with the sulfonyl group participated in strong H-bonding interaction with the amino acid residues.

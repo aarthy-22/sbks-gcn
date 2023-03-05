@@ -1,7 +1,0 @@
-Purification of nonantibiotic insulinase inhibitors from bacitracin.
-Bacitracin is commonly used in metabolic studies as an insulinase inhibitor.
-The many isoforms of the commercial preparation were fractionated by charge and size in order to find the most active rat-muscle insulinase inhibitors.
-CM-Sepharose chromatography revealed that most of the inhibitory activity was contained in a fraction (CM-Inh) that amounted to less than 5% of the mixture.
-The CM-Inh fraction could be further separated by size on Bio-Gel P4 columns.
-Six subgroups, each with characteristic specific activity, were isolated.
-The most potent inhibitor fractions have no antibiotic activity and have molecular weights about twice that of bacitracin A. The peaks isolated by means of Bio-Gel P4 chromatography can be further fractionated by reversed phase HPLC on a C8 column, and by electrophoresis on nonreducing acrylamide gels.

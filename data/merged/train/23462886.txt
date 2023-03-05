@@ -1,8 +1,0 @@
-Clinical proof-of-concept study with MSDC-0160, a prototype mTOT-modulating insulin sensitizer.
-It may be possible to achieve insulin sensitivity through the recently identified mitochondrial target of thiazolidinediones (mTOT), thereby avoiding peroxisome proliferator-activated receptor-γ (PPAR-γ)-dependent side effects.
-In this phase IIb clinical trial, 258 patients with type 2 diabetes completed a 12-week protocol with 50, 100, or 150 mg of MSDC-0160 (an mTOT modulator), 45 mg pioglitazone HCl (a PPAR-γ agonist), or a placebo.
-The two active treatments lowered fasting glucose levels to the same extent.
-The decreases in glycated hemoglobin (HbA1c) observed with the two higher doses of MSDC-0160 were not different from those associated with pioglitazone.
-By contrast, fluid retention as evidenced by reduction in hematocrit, red blood cells, and total hemoglobin was 50% less in the MSDC-0160-treated groups.
-There was also a smaller increase in high-molecular-weight (HMW) adiponectin with MSDC-0160 than with pioglitazone (P < 0.0001), suggesting that MSDC-0160 produces less expansion of white adipose tissue.
-Thus, mTOT modulators may have glucose-lowering effects similar to those of pioglitazone but without the adverse effects associated with PPAR-γ agonists.

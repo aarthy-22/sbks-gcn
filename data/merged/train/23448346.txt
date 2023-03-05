@@ -1,7 +1,0 @@
-Synthesis of novel estrogen receptor antagonists using metal-catalyzed coupling reactions and characterization of their biological activity.
-Estrogen receptor (ER) antagonists are valuable in the treatment of ER-positive human breast cancer.
-In this study, we designed and synthesized nine new derivatives of 17β-estradiol (E2) with a bulky side chain attached to its C-7α position, and determined their ER antagonistic activity using in vitro bioassays.
-Four of the derivatives showed a strong inhibition of ERα transactivation activity in a luciferase reporter assay and blocked ERα interactions with coactivators.
-Similarly, these derivatives also strongly inhibited the growth of the ERα-positive human breast cancer cells.
-Computational docking analysis was conducted to model the interaction of these antagonists with the human ERα and showed that they could tightly bind to the ERα in a manner similar to that of ICI-182,780, a pure ER antagonist.
-These results provide an example that attachment of a bulky side chain to the C-7α position of E2 can produce ER antagonists with ER affinity comparable to that of ICI-182,780.

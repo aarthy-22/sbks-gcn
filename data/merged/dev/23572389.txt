@@ -1,8 +1,0 @@
-Hypermethylation of P15, P16, and E-cadherin genes in ovarian cancer.
-Both p16 and p15 proteins are inhibitors of cyclin-dependent kinases that prevent the cell going through the G1/S phase transaction.
-E-cadherin is a transmembrane glycoprotein that mediates calcium-dependent interactions between adjacent epithelial cells.
-Two groups of patients were selected: the first group suffered from epithelial serous ovarian tumors and the second group suffered from benign ovarian lesions; ovarian tissue samples from all the subjects (benign and malignant) were subjected to methylation-specific polymerase chain reaction for methylated and unmethylated alleles of the genes (E-cadherin, p15, and p16).
-Results obtained showed that aberrant methylation of p15 and p16 genes were detected in 64.29 and 50% of ovarian cancer patients, while E-cadherin hypermethylation was detected in 78.57% of ovarian cancer patients.
-Methylation of E-cadherin was significantly correlated with different stage of disease (p < 0.05).
-It was found that the risk of E-cadherin hypermethylation was 1.347-fold, while risk of p15 hypermethylation was 1.543-fold and p16 was 1.2-fold among patients with ovarian cancer than that among patients with benign ovarian lesions.
-In conclusion, Dysfunction of the cell cycle and/or the cell-cell adhesion molecule plays a role in the pathogenesis of ovarian cancer and that the analysis of the methylation of p15 and E-cadherin genes can provide clinically important evidence on which to base the treatment.

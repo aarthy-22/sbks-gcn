@@ -1,3 +1,4 @@
 T3	GENE-Y 35 46	glucokinase
 T1	CHEMICAL 164 181	6-methyl pyridone
 T2	GENE-Y 237 239	GK
+R0	CPR-3 Arg1:T1 Arg2:T2

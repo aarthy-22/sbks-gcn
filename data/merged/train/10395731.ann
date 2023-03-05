@@ -20,5 +20,11 @@ T2	CHEMICAL 1131 1168	5, 8-dideazafolate-[3H]tetraglutamate
 T4	CHEMICAL 1291 1327	5,8-dideazafolate-[3H]tetraglutamate
 T5	CHEMICAL 1394 1421	10-formyl 5,8-dideazafolate
 T7	CHEMICAL 1459 1469	amino acid
-R0	CPR-1 Arg1:T10 Arg2:T19
-R1	NOT Arg1:T16 Arg2:T22
+R0	CPR-2 Arg1:T3 Arg2:T18
+R1	CPR-2 Arg1:T6 Arg2:T18
+R2	CPR-1 Arg1:T10 Arg2:T19
+R3	CPR-2 Arg1:T11 Arg2:T20
+R4	NOT Arg1:T16 Arg2:T22
+R5	NOT Arg1:T21 Arg2:T17
+R6	NOT Arg1:T8 Arg2:T19
+R7	NOT Arg1:T9 Arg2:T19

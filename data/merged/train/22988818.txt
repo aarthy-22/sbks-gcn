@@ -1,9 +1,0 @@
-Friedelin and lanosterol from Garcinia prainiana stimulated glucose uptake and adipocytes differentiation in 3T3-L1 adipocytes.
-Friedelin and lanosterol have been isolated from twigs of Garcinia prainiana.
-Their structures were elucidated by spectroscopic methods.
-The compounds were examined for their effects on 3T3-L1 adipocytes.
-In the MTT assay, it was found that the compounds had no cytotoxic effects up to 25 µM. Adipocyte differentiation analysis was carried out by Oil Red O staining method.
-In the presence of adipogenic cocktail (MDI), it was found that friedelin and lanosterol enhanced intracellular fat accumulation by 2.02 and 2.18-fold, respectively, compared with the vehicle-treated cells.
-Deoxyglucose uptake assay was used to examine the insulin sensitivity of adipocytes in the presence of the compounds.
-It was found that friedelin was able to stimulate glucose uptake up to 1.8-fold compared with insulin-treated cells.
-It was suggested that friedelin and lanosterol may be beneficial to mimic insulin action that would be useful in the treatment of diabetes type 2 patients.

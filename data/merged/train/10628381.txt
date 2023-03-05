@@ -1,9 +1,0 @@
-Microvessel density and endothelial cell proliferation after amifostine (Ethyol) administration in vivo.
-BACKGROUND: As amifostine is rapidly metabolised by the membrane-bound and capillary alkaline phosphatase to the active metabolite WR-1065, microvessel density in normal and cancer tissue may influence the therapeutic potential of the pro-drug WR-2721.
-Thus, it is of interest how the administration of amifostine itself alters vascular density.
-MATERIALS AND METHOD: For this study fertilized eggs were used and 0.05 ml amifostine (25.7 micrograms) was injected into the area vasculosa.
-As controls untreated area vasculosa were examined as well as eggs treated with 0.05 ml NaCl 0.9%, 48 hr after injection the vascular density was determined by histometrical methods.
-Applying the LAB method we performed immunohistochemical analysis of the proliferating cell nuclear antigen of endothelial cells.
-RESULTS: There was a significant (p < 0.001) difference in vascular density with a mean microvessel count of 25.08 (+/- 8.45 SD) vascular intersections/mm2 in the untreated control, 30.40 (+/- 12.84 SD) in the NaCl control and 53.69 (+/- 24.56 SD) in the amifostine treated area.
-There was also a significant (p < 0.001) difference in endothelial cell proliferation (PCNA) between untreated controls with a mean PCNA positivity of 14.05 (+/- 5.28 SD) and amifostine treated area vasculosa with a mean PCNA positivity of 32.22 (+/- 18.14 SD).
-CONCLUSION: A single dose administration of 25.7 micrograms amifostine induces endothelial cell proliferation and subsequent neovascularisation in the area vasculosa of the fertilised egg.

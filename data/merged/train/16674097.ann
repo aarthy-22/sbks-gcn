@@ -6,5 +6,9 @@ T6	GENE-Y 1414 1432	proteasome alpha-6
 T7	GENE-Y 1438 1442	NAGK
 T1	CHEMICAL 1444 1464	N-acetyl glucosamine
 T8	GENE-Y 1444 1471	N-acetyl glucosamine kinase
-R0	NOT Arg1:T3 Arg2:T1
-R1	NOT Arg1:T6 Arg2:T1
+R0	NOT Arg1:T2 Arg2:T1
+R1	NOT Arg1:T3 Arg2:T1
+R2	NOT Arg1:T4 Arg2:T1
+R3	NOT Arg1:T5 Arg2:T1
+R4	NOT Arg1:T6 Arg2:T1
+R5	NOT Arg1:T7 Arg2:T1

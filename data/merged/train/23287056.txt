@@ -1,9 +1,0 @@
-Synthesis and biological evaluation of new N-alkylcarbazole derivatives as STAT3 inhibitors: preliminary study.
-The signalling pathway of Janus tyrosine Kinases-Signal Transducers and Activators of Transcription (JAK-STAT) is activated by a number of cytokines, hormones (GH, erythropoietin and prolactin), and growth factors.
-JAK-STAT signalling is involved in regulation of cell proliferation, differentiation and apoptosis.
-These activities are due to different members of JAK-STAT family consisting of: JAK1, JAK2, JAK3, Tyk2 and STAT1, STAT2, STAT3, STAT4, STAT5a, STAT5b, STAT6.
-Recent studies suggest a key role for STAT family proteins, in particular for STAT3, in selectively inducing and maintaining a pro-carcinogenic inflammatory microenvironment, that promote tumour cells transformation.
-Moreover, a striking correlation between cancer development/progression and STAT3 persistent activation exists, probably due to STAT3 promoting of the pro-oncogenic inflammatory pathways, like NF-kB, IL-6 and JAK family kinases.
-Recent study demonstrated that carbazoles can inhibit STAT3 mediated transcription.
-From these evidences, STAT3 represents a therapeutic target, so we have synthesized a new set of N-alkylcarbazole derivatives substituted in positions 2, 4 and 6, to evaluate their activity on STAT3.
-Some of these compounds showed an interesting activity as STAT3 selective inhibitors; in particular, compounds 9a 9b and 9c revealed to inhibit the STAT3 activation for the 50%, 90% and 95%, respectively.

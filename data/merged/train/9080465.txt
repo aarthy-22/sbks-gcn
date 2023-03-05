@@ -1,5 +1,0 @@
-Effects of SR 48692 on neurotensin-induced calcium-activated chloride currents in the Xenopus oocyte expression system: agonist-like activity on the levocabastine-sensitive neurotensin receptor and absence of antagonist effect on the levocabastine insensitive neurotensin receptor.
-The effect of the drug SR 48692 on the Ca(2+)-activated Cl- current induced by neurotensin on Xenopus oocytes injected with cRNAs encoding rodent high and low affinity neurotensin receptors, was examined.
-In this receptor expression system, SR 48692 failed to antagonize electrophysiological measurement of neurotensin-evoked current via the rat high affinity neurotensin receptor, whereas its application onto oocytes expressing the mouse low affinity neurotensin receptor triggered an inward current, as well as neurotensin itself.
-However, no current activation was observed after application of the drug on oocytes expressing the rat high affinity neurotensin receptor.
-These observations in the oocyte expression system did not reflect typical antagonist properties of SR 48692 drug.

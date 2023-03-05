@@ -13,3 +13,5 @@ T14	GENE-Y 869 876	ghrelin
 T4	GENE-N 1184 1204	octanoylated ghrelin
 T5	GENE-N 1460 1480	octanoylated ghrelin
 T7	GENE-Y 1584 1591	ghrelin
+R0	NOT Arg1:T8 Arg2:T1
+R1	NOT Arg1:T1 Arg2:T10

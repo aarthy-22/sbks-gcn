@@ -1,8 +1,0 @@
-EROD activity induction in peripheral blood lymphocytes, liver and brain tissues of rats orally exposed to polycyclic aromatic hydrocarbons.
-Little is known in terms of multi-matrix cytochrome P450 activity induction under repeated oral exposure to planar halogenated and polycyclic aromatic hydrocarbons (PHH, PAH).
-In the present study, 60 rats were daily exposed, during 28days, to oral ingestion of a mixture consisting of phenanthrene, pyrene and benzo(a)pyrene at 0, 6 or 600μg/day.
-EROD activity, reflecting almost exclusively CYP1A1 and CYP1B1 activities, was measured in brain and liver microsomes as well as in peripheral blood lymphocytes (PBLs).
-All induction kinetics could be appropriately fitted using logistic-like models.
-After 28days of exposure to a 6μg/day dose, EROD activity was found to be 91, 152 and 94-fold increased in lymphocytes, liver and brain, respectively, compared to day 0.
-Plateau activities could be appropriately fitted versus ingested doses using Hill or Michaelis-Menten models.
-Correlations between matrices made it possible to conclude that EROD activity in PBL should be considered as a sensitive, convenient and non-destructive approach for (i) evaluating EROD activity in liver, which was found to represent 98% of the observed EROD activities in the three tested matrices and (ii) evaluating oral exposure of homogeneous groups of farm animals (race, diet) to CYP inducing PAH and PHH.

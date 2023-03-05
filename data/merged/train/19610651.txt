@@ -1,6 +1,0 @@
-Small molecule chloropyramine hydrochloride (C4) targets the binding site of focal adhesion kinase and vascular endothelial growth factor receptor 3 and suppresses breast cancer growth in vivo.
-FAK is a tyrosine kinase that functions as a key orchestrator of signals leading to invasion and metastasis.
-Since FAK interacts directly with a number of critical proteins involved in survival signaling in tumor cells, we hypothesized that targeting a key protein-protein interface with druglike small molecules was a feasible strategy for inhibiting tumor growth.
-In this study, we targeted the protein-protein interface between FAK and VEGFR-3 and identified compound C4 (chloropyramine hydrochloride) as a drug capable of (1) inhibiting the biochemical function of VEGFR-3 and FAK, (2) inhibiting proliferation of a diverse set of cancer cell types in vitro, and (3) reducing tumor growth in vivo.
-Chloropyramine hydrochloride reduced tumor growth as a single agent, while concomitant administration with doxorubicin had a pronounced synergistic effect.
-Our data demonstrate that the FAK-VEGFR-3 interaction can be targeted by small druglike molecules and this interaction can provide the basis for highly specific novel cancer therapeutics.

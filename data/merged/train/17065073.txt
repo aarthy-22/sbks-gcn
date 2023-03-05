@@ -1,4 +1,0 @@
-Adenosine kinase from rat liver: new biochemical properties.
-Adenosine kinase is a well-known enzyme which catalyzes the phosphorylation of adenosine to AMP: Its metabolic and kinetic properties are well studied.
-Here, we report new properties of rat liver enzyme, demonstrating a new reaction: ADP can be a phosphate donor instead ATP, according to the reaction: adenosine + ADP --> 2AMP) demonstrating the efficiency of AdK to phosphorylate adenosine, also starting from ADP.
-Cells could exploited this property in situations in which ATP levels are strongly decreased and ADP decreases slowly.

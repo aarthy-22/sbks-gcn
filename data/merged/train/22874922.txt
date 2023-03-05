@@ -1,7 +1,0 @@
-Novel non-canonical TGF-β signaling networks: emerging roles in airway smooth muscle phenotype and function.
-The airway smooth muscle (ASM) plays an important role in the pathophysiology of asthma and chronic obstructive pulmonary disease (COPD).
-ASM cells express a wide range of receptors involved in contraction, growth, matrix protein production and the secretion of cytokines and chemokines.
-Transforming growth factor beta (TGF-β) is one of the major players in determining the structural and functional abnormalities of the ASM in asthma and COPD.
-It is increasingly evident that TGF-β functions as a master switch, controlling a network of intracellular and autocrine signaling loops that effect ASM phenotype and function.
-In this review, the various elements that participate in non-canonical TGF-β signaling, including MAPK, PI3K, WNT/β-catenin, and Ca(2+), are discussed, focusing on their effect on ASM phenotype and function.
-In addition, new aspects of ASM biology and their possible association with non-canonical TGF-β signaling will be discussed.

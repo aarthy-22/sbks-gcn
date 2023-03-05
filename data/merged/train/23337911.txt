@@ -1,7 +1,0 @@
-Toxicity assessment on trophoblast cells for some environment polluting chemicals and 17β-estradiol.
-The identification of reproductive toxicants is a major scientific challenge for human health.
-We investigated the effects of a selected group of environmental polluting chemicals mostly provided with estrogenic activity on the human trophoblast cell lines BeWo and HTR-8/SVneo.
-Cells were exposed for 24h to various concentrations (from 0.1 pM to 1 mM) of atrazine (ATR), diethylstilbestrol (DES), para-nonylphenol (p-NP), resveratrol (RES) and 17 β-estradiol (E2) and assayed for cell viability and human beta-Chorionic Gonadotropin (β-hCG) secretion.
-Decrease of cell viability as respect to control, vehicle-treated, cultures was obtained for all chemicals in the concentration range of 1 μM-1 mM in both cell types.
-A parallel decrease of β-hCG secretion was observed in BeWo cells, at 1 μM-1 mM concentrations, with the only exception of ATR which caused an increase at concentrations up to 1mM. β-hCG release was also unexpectedly inhibited by ATR, DES, p-NP and RES at non-toxic (pM-nM) concentrations.
-These findings raise concern about the negative, potential effects of various environmental polluting chemicals on pregnancy success and fetal health.

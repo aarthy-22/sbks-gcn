@@ -1,9 +1,0 @@
-Protective effect of Codium fragile against UVB-induced pro-inflammatory and oxidative damages in HaCaT cells and BALB/c mice.
-Acute exposure to ultraviolet (UV) radiation causes pro-inflammatory responses via diverse mechanisms including oxidative stress.
-Codium fragile is a green alga of Codiales family and has been reported to exhibit anti-edema, anti-allergic, anti-protozoal and anti-mycobacterial activities.
-In this study, we have investigated a novel anti-inflammatory potential of C. fragile using in vitro cell culture as well as in vivo animal models.
-In HaCaT cells, buthanol and ethylacetate fractions of 80% methanol C. fragile extract (CFB or CFE) and a single compound, clerosterol (CLS) isolated from CFE attenuated UVB (60mJ/cm(2))-induced cytotoxicity and reduced expression of pro-inflammatory proteins including cyclooxygenase-2 (COX-2), inducible nitric oxide synthase (iNOS), and tumor necrosis factor-α (TNF- α).
-Moreover, CFB, CFE and CLS effectively suppressed UVB-induced production of pro-inflammatory mediators such as prostaglandin E2 (PGE2) and nitric oxide (NO).
-In another experiment, topical application of CFB, CFE or CLS prior to UVB irradiation (200mJ/cm(2)) on BALB/c mice, inhibited the UVB-elevated protein levels of COX-2, iNOS, and TNF-α.
-Furthermore, CFB, CFE and CLS suppressed oxidative damages caused by UVB irradiation for example lipid peroxidation and/or protein carbonylation, which seemed to be mediated by up-regulation of antioxidant defense enzymes.
-These results suggest that C. fragile could be an effective therapeutic agent providing protection against UVB-induced inflammatory and oxidative skin damages.

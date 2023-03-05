@@ -1,6 +1,0 @@
-An improved mass spectrometric method for identification and quantification of phenolic compounds in apple fruits.
-Thirty-nine phenolic compounds were analysed using ultra high performance liquid chromatography (UHPLC) coupled with diode array and accurate mass spectrometry detection using electrospray ionisation (DAD/ESI-am-MS).
-Instrumental parameters such as scan speed, resolution, and mass accuracy were optimised to establish accurate mass measurements.
-The method was fully validated in terms of model deviation (r(2)>0.9990), range (typically 10-3500 ngg(-1)), intra/inter-day precision (<6% and <8%, respectively) and accuracy (typically 100 ± 10%).
-The mass accuracy of each selected phenolic compound was below 1.5 ppm.
-The results confirmed that the UHPLC-DAD/ESI-am-MS method developed here was convenient and reliable for the determination of phenolic compounds in apple extracts.

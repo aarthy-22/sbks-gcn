@@ -1,9 +1,0 @@
-Can the chemical reactivity of an ultimate carcinogen be related to its carcinogenicity?
-An application to propylene oxide.
-In this article we report calculations of the activation free energy for a chemical reaction between propylene oxide and DNA, in particular with the guanine at the N7 position.
-Calculations were performed using Hartree-Fock and MP2 methods in conjunction with flexible basis sets.
-The effects of solvation were considered using the Langevin dipoles and solvent reaction field methods.
-The calculated activation free energies are in good agreement with the experimental value of 25.36 kcal/mol.
-Moreover, the reactivities of a series of ultimate carcinogens of the epoxy type toward DNA are shown to be related to their carcinogenicities.
-Higher reactivity is generally associated with higher carcinogenicity, although transport properties, reactions with ultimate carcinogen scavengers, and the DNA correction mechanism are also very important.
-It is very likely that the window of reactivity rather than a high reactivity value is the relevant measure of carcinogenicity, since highly reactive ultimate carcinogens interact with water and proteins before they reach DNA.

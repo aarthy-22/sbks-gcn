@@ -1,9 +1,0 @@
-Cassia tora (Leguminosae) seed extract alleviates high-fat diet-induced nonalcoholic fatty liver.
-The aim of this study was to examine the effects of Cassia tora seeds on high-fat diet (HFD)-induced hepatic steatosis, and elucidate the molecular mechanisms behind its effects.
-After being fed a HFD for two weeks, rats were orally dosed with Cassia seed ethanol extract (CSEE) (100, 200, or 300mg/kg) once daily for 8weeks.
-CSEE induced dose-dependent reductions in plasma lipid levels, as well as decreased the over hepatic lipid accumulation.
-Furthermore, CSEE treatment improved HFD-induced hepatic histological lesions.
-CSEE enhanced the phosphorylation of AMP-activated protein kinase (AMPK) and its primary downstream targeting enzyme, acetyl-CoA carboxylase, up-regulated the gene expression of carnitine palmitoyl transferase 1, and down-regulated sterol regulatory element binding protein 1 and fatty acid synthase protein levels in the livers of HFD-fed rats.
-AMPK inhibition by compound C retarded CSEE-induced reduction in triglyceride accumulation in HepG2 cells stimulated by insulin.
-Our findings suggest that CSEE may regulate hepatic lipid homeostasis related with an AMPK-dependent signaling pathway.
-Targeting AMPK activation with CSEE may represent a promising approach for the prevention and treatment of obesity-related non-alcoholic fatty liver disease.

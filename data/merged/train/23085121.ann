@@ -5,3 +5,4 @@ T2	GENE-Y 284 287	ChE
 T5	GENE-N 589 602	α/β-hydrolase
 T6	GENE-N 733 742	hydrolase
 T1	CHEMICAL 909 924	organophosphate
+R0	NOT Arg1:T6 Arg2:T1

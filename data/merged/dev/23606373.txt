@@ -1,3 +1,0 @@
-Morphological Change and Mobility Enhancement in PEDOT:PSS by Adding Co-solvents.
-Adding ethylene glycol (EG) to poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate) (PEDOT:PSS) solution improves the crystallinity of the PEDOT and the ordering of the PEDOT nanocrystals in solid films.
-The carrier-mobility enhancement is confirmed by using ion-gel transistors combined with in situ UV-vis-NIR spectroscopy.

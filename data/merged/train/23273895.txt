@@ -1,9 +1,0 @@
-Nanodomain coupling at an excitatory cortical synapse.
-The coupling distance between presynaptic Ca(2+) influx and the sensor for vesicular transmitter release determines speed and reliability of synaptic transmission.
-Nanodomain coupling (<100 nm) favors fidelity and is employed by synapses specialized for escape reflexes and by inhibitory synapses involved in synchronizing fast network oscillations.
-Cortical glutamatergic synapses seem to forgo the benefits of tight coupling, yet quantitative detail is lacking.
-The reduced transmission fidelity of loose coupling, however, raises the question whether it is indeed a general characteristic of cortical synapses.
-Here we analyzed excitatory parallel fiber to Purkinje cell synapses, major processing sites for sensory information and well suited for analysis because they typically harbor only a single active zone.
-We quantified the coupling distance by combining multiprobability fluctuation analyses, presynaptic Ca(2+) imaging, and reaction-diffusion simulations in wild-type and calretinin-deficient mice.
-We found a coupling distance of <30 nm at these synapses, much shorter than at any other glutamatergic cortical synapse investigated to date.
-Our results suggest that nanodomain coupling is a general characteristic of conventional cortical synapses involved in high-frequency transmission, allowing for dense gray matter packing and cost-effective neurotransmission.

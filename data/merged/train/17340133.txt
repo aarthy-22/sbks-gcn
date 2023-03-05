@@ -1,8 +1,0 @@
-Limited availability of L-arginine increases DNA-binding activity of NF-kappaB and contributes to regulation of iNOS expression.
-The impact of nutrients on gene expression can be mediated by the availability of amino acids.
-The aim of this study is to examine the effect of limited availability of L: -arginine on the DNA-binding activity of NF-kappaB, a dominant transcription factor in inflammation, and the consequence for the expression pattern of inducible nitric oxide synthase (iNOS) in murine keratinocytes.
-Low availability of L: -arginine leads to activation and increased DNA-binding activity of NF-kappaB and induction of iNOS messenger RNA (mRNA) in the absence of cytokines, but not to translation into iNOS protein.
-Cytokine challenge at low L: -arginine also enhances iNOS mRNA expression, but translation into iNOS protein is diminished, leading to lowered nitric oxide production.
-The decrease in iNOS protein expression is mediated by the phosphorylation of the translation initiation factor eIF2alpha subunit, a key regulator of cellular translation.
-In contrast, the mRNA expression of the NF-kappaB-dependent genes IL-1alpha and cationic amino acid transporter-2 (CAT-2) are not affected by the availability of L-arginine.
-These results demonstrate that the availability of L: -arginine can play a role in the control of gene expression by augmenting the DNA-binding activity of NF-kappaB, which can affect the initiation and progression of dermal inflammation.

@@ -1,7 +1,0 @@
-Alternanthera paronychioides protects pancreatic β-cells from glucotoxicity by its antioxidant, antiapoptotic and insulin secretagogue actions.
-The antioxidant and antiglucotoxic effects of Alternanthera paronychioides on pancreatic β-cell were investigated.
-Antioxidant assays demonstrated that ethanol extracts of A. paronychioides (EEAP) exhibited the highest antioxidant activity, which also had the highest phenolic and flavonoid contents.
-Two major polyphenolics, ferulic acid and quercetin, were identified from EEAP by HPLC-DAD.
-Effects of EEAP, ferulic acid and quercetin on high glucose (25mmol/L)-induced pancreatic β-cell apoptosis and dysfunction were further evaluated.
-Results showed that EEAP and quercetin but not ferulic acid protected β-cells from glucotoxicity through several mechanisms, including: (1) maintaining β-cell viability; (2) suppressing reactive oxygen species production; (3) reducing characteristic features of apoptosis; (4) inhibiting the activation of caspase-9 and caspase-3 and the cleavage of poly (ADP-ribose) polymerase; (5) upregulating pancreatic and duodenal homeobox 1 gene expression and the insulin secretagogue action of pancreatic β-cells.
-These findings may shed light on the preventive actions of A. paronychioides on diabetic glucotoxicity.

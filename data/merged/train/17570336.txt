@@ -1,9 +1,0 @@
-Multiple rat brain calpastatin forms are produced by distinct starting points and alternative splicing of the N-terminal exons.
-5'-RACE was performed on rat brain calpastatin mRNA and two new translation initiation ATG's were found.
-The first one is upstream of the previously designed initiation translation site localized in the rat calpastatin L-domain.
-The deduced protein sequence of this region is highly homologous to the XL-domain of calpastatin type I in other species.
-The other ATG has not previously been reported and is localized in exon 8, thus originating a calpastatin isoform constituted only by four repetitive inhibitory units without the XL-L-domains.
-Transcripts from the rat brain calpastatin gene are also subjected to multiple splicing events involving exons 4, 6, 8 in different combinations.
-A series of recombinant calpastatin forms was produced that differed in the exons present in the L-domain, and all the variants showed comparable inhibitory efficiency against calpain.
-It was concluded that the presence of the XL-domain in these isoforms is not relevant for the formation of the calpain/calpastatin complex in the absence of calcium, that is the interaction of calpastatin with inactive calpain.
-Using exon-specific antisera, specific calpastatin protein isoforms containing the XL-domain have been detected in rat brain homogenates.

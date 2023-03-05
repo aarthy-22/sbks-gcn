@@ -1,8 +1,0 @@
-Reduction of oral ethanol self-administration in rats by monoamine oxidase inhibitors.
-Evidence for a role of dopamine and serotonin in the control of ethanol intake in animals suggests that monoamine oxidase (MAO) inhibitors, which increase the synaptic availability of serotonin and dopamine by blocking their metabolism, might have efficacy in the treatment of alcohol dependence.
-The aim of the present study was, therefore, to evaluate several MAO inhibitors for their capacity to affect ethanol self-administration in rats trained to self-administer ethanol (10% v/v) orally in a free-choice two-lever operant task.
-The nonselective and irreversible MAO inhibitors, phenelzine (3-10 mg/kg), tranylcypromine (1-3 mg/kg), and nialamide (30 mg/kg), decreased rates of responding maintained by ethanol reinforcement.
-The reversible MAO-A inhibitor, befloxatone (0.3-3 mg/kg), and the irreversible MAO-A inhibitor, clorgyline (10-30 mg/kg), also reduced ethanol self-administration.
-However, befloxatone-induced effects leveled off at a 50% decrease.
-The irreversible MAO-B inhibitors, pargyline (30 mg/kg) and l-deprenyl (3-10 mg/kg) also decreased responding maintained by ethanol reinforcement; these results are consistent with previous findings that both drugs decreased ethanol intake in mice.
-In conclusion, the present results showing that several MAO inhibitors decreased ethanol self-administration in rats are consistent with previous findings that synaptic levels of serotonin and dopamine play a critical role in the control of ethanol self-administration.

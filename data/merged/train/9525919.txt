@@ -1,9 +1,0 @@
-Identification of binding sites for bepridil and trifluoperazine on cardiac troponin C. The solution structure of cardiac troponin C (cTnC) (Sia, S., Li, M. X., Spyracopoulos, L., Gagne, S. M., Liu, W., Putkey, J. A. & Sykes, B. D. (1997) J. Biol.
-Chem.
-272, 18216-18221) challenges existing structure/function models for this critical regulatory protein.
-For example, it is clear that the closed conformation of the regulatory N-terminal domain in Ca2+-bound cardiac troponin C (cTnC) presents a much different binding surface for Ca2+-sensitizing compounds than previously thought.
-We report here the use of Met methyl groups as site-specific structural markers to identify drug binding sites for trifluoperazine and bepridil on cTnC. Drug dependent changes in the NMR heteronuclear single-quantum coherence spectra of [methyl-13C]Met-labeled cTnC indicate that bepridil and trifluoperazine bind to similar sites but only in the presence of Ca2+.
-There are 3-4 drug binding sites in the N- and C-terminal domains of intact cTnC that exhibit fast exchange on the NMR time scale.
-Use of a novel spin-labeled phenothiazine and detection of isotope-filtered nuclear Overhauser effects allowed identification of drug binding sites in the shallow hydrophobic cup in the C-terminal domain and on two hydrophobic surfaces on the N-terminal regulatory domain.
-The data presented here, coupled with our previous study using covalent blocking groups, support a model in which the Ca2+-sensitizing binding site includes Met-45 in helix B of site I, and Met-60 and -80 in helices B and C of the regulatory site II.
-This subregion in cTnC makes a likely target against which to design new and selective Ca2+-sensitizing compounds.

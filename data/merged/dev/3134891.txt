@@ -1,9 +1,0 @@
-Characteristics of the binding of phenoxybenzamine to calmodulin.
-To determine the factors that influence the interaction between phenoxybenzamine and calmodulin, the binding of phenoxybenzamine to calmodulin was determined by equilibrium dialysis under a variety of experimental conditions.
-This interaction was found to be similar in some respects to the interaction between phenothiazines and calmodulin.
-It was saturable, with between 1 and 2 mol of phenoxybenzamine bound to 1 mol of calmodulin.
-It was also dependent upon temperature, the presence of a divalent cation such as calcium, and on pH, showing maximum binding at pH 6.5 with little binding at pH values below 4.2 or above 8.0.
-The site at which phenoxybenzamine bound to calmodulin appears to be similar to that at which certain antipsychotic agents bind, since several of them, including penfluridol, pimozide and spiroperidol, prevented the binding of phenoxybenzamine to calmodulin.
-However, in contrast to the reversible binding of most phenothiazines to calmodulin, phenoxybenzamine bound to calmodulin irreversibly.
-The binding of phenoxybenzamine to calmodulin was fairly selective in that other alpha-adrenergic agents such as prazosin, yohimbine and clonidine failed to bind to calmodulin when examined under the same experimental conditions.
-In addition, phenoxybenzamine showed little or no calcium-dependent binding to the S-100 protein, bovine serum albumin or cytochrome c. The irreversible complex between phenoxybenzamine and calmodulin may be useful for inhibiting certain calmodulin-dependent reactions and for studying the various biological functions of calmodulin.

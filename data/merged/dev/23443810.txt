@@ -1,9 +1,0 @@
-Effect of miR-21 on Renal Fibrosis by Regulating MMP-9 and TIMP1 in kk-ay Diabetic Nephropathy Mice.
-MicroRNAs (miRs) play important roles in initiation and progression of many pathologic processes.
-However, the roles of miRs in diabetic nephropathy remain unclear.
-This study was to determine whether miR-21 was involved in diabetic nephropathy and to explore the relationship between miR-21 and MMP9/TIMP1 expression in diabetic nephropathy.
-In situ hybridization studies showed that miR-21 was primarily localized and distributed in cortical glomerular and renal tubular cells in diabetic kk-ay kidney.
-Real-time quantitative RT-PCR demonstrated that the expression of miR-21 was significantly increased in kk-ay mice, compared with control C57BL mice.
-Interestingly, miR-21 expression positively correlated with urine albumin creatine ratio (ACR), TIMP1, collagen IV (ColIV), and fibronectin (FN); while negatively correlated with creatine clearance ratio (Ccr) and MMP-9 protein.
-Importantly, antagomir-21 not only ameliorated Ccr and ACR but also decreased TIMP1, ColIV, and FN proteins.
-In conclusion, our data demonstrate that miR-21 contributes to renal fibrosis by mediating MMP9/TIMP1 and that inhibition of miR-21 may be a novel target for diabetic nephropathy.

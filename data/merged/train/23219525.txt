@@ -1,9 +1,0 @@
-Influence of sildenafil and tadalafil on the enzyme- and transporter-inducing effects of bosentan and ambrisentan in LS180 cells.
-The combinations of the endothelin-1 receptor antagonists bosentan or ambrisentan with the phosphodiesterase 5 inhibitors sildenafil or tadalafil are current standard therapies of advanced pulmonary arterial hypertension.
-However, these drugs have a number of drug interactions.
-Changes of bosentan pharmacokinetics by sildenafil are attributed to reduced hepatic uptake as a consequence of inhibition of organic anion transporting polypeptides.
-We therefore tested in vitro the hypothesis that sildenafil and tadalafil reduce the enzyme- and transporter-inducing effects of bosentan or ambrisentan by preventing cellular access.
-Although intracellular concentrations of bosentan and ambrisentan (measured by high pressure liquid chromatography coupled with tandem mass-spectrometry) after four days of incubation of LS180 cells were lower when sildenafil or tadalafil were present, quantification of mRNA expression in these cells by real-time reverse transcription polymerase chain reaction revealed that bosentan and ambrisentan-mediated induction was stable or even increased in combination with sildenafil or tadalafil.
-For the drug transporter P-glycoprotein this was confirmed at the protein and functional level with highly significant correlations between P-gp mRNA, protein, and function.
-Moreover, using a reporter gene assay in LS180 cells, our study demonstrates for the first time that tadalafil is a potent, ambrisentan a weak, and sildenafil no activator of pregnane X receptor.
-In conclusion, our study demonstrates that although sildenafil and tadalafil indeed reduce intracellular concentrations of bosentan and ambrisentan in LS180 cells, they do not mitigate the inducing effects of these endothelin-1 receptor antagonists.

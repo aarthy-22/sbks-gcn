@@ -1,8 +1,0 @@
-Effects of enprofylline on A1 and A2 adenosine receptors.
-The effects of enprofylline were studied on A1 adenosine receptors of rat fat cells and on A2 adenosine receptors of human platelets and of guinea-pig lung.
-Enprofylline antagonized the 5'-N-ethylcarboxamidoadenosine (NECA)-induced stimulation of platelet adenylate cyclase activity with a KB of 130 microM. In human platelets, enprofylline did not antagonize but potentiated the NECA-induced inhibition of aggregation.
-This potentiation was abolished in the presence of the phosphodiesterase inhibitor papaverine.
-An adenosine antagonistic effect of enprofylline could not be evaluated on A2 receptors of guinea-pig lung because the xanthine enhanced basal and NECA-stimulated cyclic AMP accumulation.
-Enprofylline antagonized the N6-R-(-)-phenylisopropyladenosine (R-PIA)-induced inhibition of rat fat cell adenylate cyclase with a KB of 32 microM. The Ki value for inhibition of [3H]PIA binding to fat cell membranes was 45 microM. Enprofylline inhibited cyclic AMP phosphodiesterase activity of human platelets, guinea-pig lung and rat fat cells with Ki values of 15, 130 and 110 microM, respectively.
-The results show that enprofylline was nearly equipotent as antagonist at A1 and A2 adenosine receptors.
-Mechanisms other than adenosine antagonism or phosphodiesterase inhibition may be involved in the pharmacological effects of enprofylline.

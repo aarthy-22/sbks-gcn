@@ -19,3 +19,5 @@ T20	GENE-Y 1153 1159	GM-CSF
 T1	CHEMICAL 1217 1227	budesonide
 T2	CHEMICAL 1232 1254	fluticasone propionate
 T21	GENE-Y 1373 1396	glucocorticoid receptor
+R0	NOT Arg1:T1 Arg2:T21
+R1	NOT Arg1:T2 Arg2:T21

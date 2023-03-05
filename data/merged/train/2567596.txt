@@ -1,9 +1,0 @@
-High affinity, saturable [3H]mepyramine binding sites on rat liver plasma membrane do not represent histamine H1-receptors.
-A warning.
-Rat liver plasma membrane contains a saturable, high affinity binding site for the labelled histamine H1-antagonist [3H]mepyramine.
-Nonlinear regression analysis of the performed saturation experiments revealed an equilibrium dissociation constant (Kd) of 7.7 +/- 0.4 nM and a maximal binding capacity (Bmax) of 70.4 +/- 9.5 pmol/mg protein.
-Specific binding could be inhibited completely by several histaminergic ligands.
-However, the affinities of the tested H1-antagonists other than mepyramine for this binding site were quite low and the known stereospecificity displayed by the histamine H1-receptor for the enantiomers of chlorpheniramine and pheniramine was not found.
-Moreover, the H2-selective agonist 4-methylhistamine (Ki = 412 microM) was even more potent than its H1-selective 2-methylderivative (Ki = 772 microM).
-Since several ethylenediamines were also very potent in displacing [3H]mepyramine we suggest the presence of an ethylenediamine recognition site on rat liver plasma membrane which is unrelated to the histamine H1-receptor.
-It is stressed that a proper pharmacological characterization of a reported binding site is needed, since we show in this study that [3H]mepyramine, which is frequently used in studies concerning the H1-receptor, labels non-H1-receptor binding sites in rat liver plasma membrane.

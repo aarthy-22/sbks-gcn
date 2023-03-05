@@ -1,7 +1,0 @@
-Differentiation of opioid drug effects by hierarchical multi-site phosphorylation.
-Differences in the ability of opioid drugs to promote regulated endocytosis of μ-opioid receptors are related to their tendency to produce drug tolerance and dependence.
-Here we show that drug-specific differences in receptor internalization are determined by a conserved, 10-residue sequence in the receptor's carboxyl-terminal cytoplasmic tail.
-Diverse opioids induce receptor phosphorylation at serine (S)375, present in the middle of this sequence, but opioids differ markedly in their ability to drive higher-order phosphorylation on flanking residues [threonine (T)370, T376, and T379].
-Multi-phosphorylation is required for the endocytosis-promoting activity of this sequence and occurs both sequentially and hierarchically, with S375 representing the initiating site.
-Higher-order phosphorylation involving T370, T376, and T379 specifically requires GRK2/3 isoforms, and the same sequence controls opioid receptor internalization in neurons.
-These results reveal a biochemical mechanism differentiating the endocytic activity of opioid drugs.

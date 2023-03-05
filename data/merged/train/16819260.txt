@@ -1,9 +1,0 @@
-[Retinoid therapy for autoimmune diseases].
-Retinoid is a collective term for compounds which bind to and activate retinoic acid receptors (RARalpha, beta, gamma and RXRalpha, beta, gamma), members of nuclear hormone receptor superfamily.
-The most important endogeneous retinoid is all-trans-retinoic acid (ATRA) which is an RARalpha, beta and gamma ligand.
-ATRA and its mimics have been in clinical use for treatment of acute promyelocytic leukemia (APL) and some skin diseases.
-Many synthetic retinoids have been developed and attempts to improve their medicinal properties have been made.
-Among them, tamibarotene (Am80) is an RARalpha- and RARbeta-specific (but RARgamma- and RXRs-nonbinding) synthetic retinoid that is effective in the treatment of psoriasis patients and relapsed APL.
-Experimentally, this compound is also active in animal models of rheumatoid arthritis and experimental autoimmune encephalomyelitis.
-On this background, possible application of retinoids for the treatment of autoimmune diseases was discussed.
-In particular, Th1 dominant autoimmune diseases may be the targets of the retinoids.

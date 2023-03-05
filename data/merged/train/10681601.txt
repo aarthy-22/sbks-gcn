@@ -1,9 +1,0 @@
-Nitric oxide synthase expression in the opossum superior colliculus: a histochemical, immunohistochemical and biochemical study.
-The expression of neuronal nitric oxide synthase (nNOS) in the superior colliculus (SC) of the opossum Didelphis marsupialis was studied by NADPH diaphorase (NADPH-d) histochemistry and nNOS immunohistochemistry.
-In addition, the activity of nNOS was quantified by measurement of [(3)H]-L-arginine conversion to [(3)H]-L-citrulline in tissue extracts from SC superficial layers in opossums and rats.
-Our results show that the number of NADPH-d stained cells was small and virtually identical in stratum opticum (SO) and stratum griseum superficiale (SGS) and their staining was very light, particularly in SGS.
-Neuropil staining was heavier in the stratum zonale (SZ) than in SGS or SO.
-The intermediate and deep layers contained heavily stained cells and moderate neuropil staining.
-Surprisingly, nNOS-immunoreactive cells were far more numerous than NADPH-d+ cells in every layer.
-The production of [(3)H]-L-citrulline from [(3)H]-L-arginine in tissue extracts enriched in superficial layers indicated that nNOS specific activity is as high in the opossum as in the rat.
-Our results suggest that the location of nNOS-expressing neurons in retino-receptive layers may be related to inter-specific differences in the processing of visual information.

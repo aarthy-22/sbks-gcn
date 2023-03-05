@@ -1,7 +1,0 @@
-Quantitative determination of fatty acid chain composition in pork meat products by high resolution 1H NMR spectroscopy.
-High resolution (1)H NMR spectroscopy was proposed for the determination of the fatty acid chain profile of lipids in pork meat products during ripening.
-Two typical Mediterranean PDO salami produced in Calabria, a region in the Southern Italy, were chosen as a case of study.
-Quantitative NMR analysis provided the fatty acid chain profiles of total lipid extracts.
-The transesterification of total lipid extracts furnished FAME mixtures that enabled quantitation of fatty acid acyl chains in the acylglycerol and FFA portions.
-In all cases, oleyl chains were predominant, and high amounts of polyunsaturated fatty acid chains were observed.
-The proposed spectroscopic method allowed also the estimation of the most important nutritional parameters of dry fermented meat products.

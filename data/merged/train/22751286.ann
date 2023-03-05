@@ -7,4 +7,5 @@ T7	GENE-N 1097 1100	SOD
 T8	GENE-Y 1102 1110	catalase
 T5	CHEMICAL 1115 1126	glutathione
 T9	GENE-N 1115 1137	glutathione peroxidase
-R0	NOT Arg1:T8 Arg2:T5
+R0	NOT Arg1:T7 Arg2:T5
+R1	NOT Arg1:T8 Arg2:T5

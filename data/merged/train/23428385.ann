@@ -5,3 +5,5 @@ T3	CHEMICAL 742 753	clopidogrel
 T4	CHEMICAL 770 779	prasugrel
 T5	CHEMICAL 784 794	ticagrelor
 T6	CHEMICAL 866 877	clopidogrel
+R0	CPR-4 Arg1:T3 Arg2:T7
+R1	NOT Arg1:T1 Arg2:T7

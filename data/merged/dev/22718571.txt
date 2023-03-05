@@ -1,7 +1,0 @@
-Anti-diabetic Activity of Swertiamarin is due to an Active Metabolite, Gentianine, that Upregulates PPAR-γ Gene Expression in 3T3-L1 cells.
-We have previously shown the anti-diabetic effects of swertiamarin; however, pharmacokinetic analysis showed that swertiamarin had a plasma half-life of 1.3 h. Gentianine is an active metabolite of swertiamarin that possesses a pharmacophoric moiety.
-The aim of this study was to explore the possibility whether the anti-diabetic effect of swertiamarin is due to gentianine.
-Swertiamarin treatment had no significant effect on adipogenesis, or the mRNA expression of PPAR-γ and GLUT-4; however, there was a significant increase in the mRNA expression of adiponectin.
-On the other hand, treatment with gentianine significantly increased adipogenesis, which was associated with a significant increase in the mRNA expression of PPAR-γ, GLUT-4 and adiponectin.
-These findings suggest, for the first time, that the anti-diabetic effect of swertiamarin is due to gentianine, an active metabolite of swertiamarin.
-Copyright © 2012 John Wiley & Sons, Ltd.

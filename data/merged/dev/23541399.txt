@@ -1,6 +1,0 @@
-Androgen deprivation from pre-puberty to peripuberty interferes in proteins expression in pubertal and adult rat epididymis.
-Few studies have focused on experimental testosterone deprivation in immature animals.
-Therefore, this study used sexually immature rats aiming to evaluate the testes and epididymis histology and proteins expression in these organs on PND50 and 75, after premature antiandrogen exposure, from PND21 to 44.
-Although the androgen deprivation from pre-puberty up to peripuberty did not alter the histological organization of the testes and epididymis either at puberty or at adulthood, the treatment impaired the expression of specific proteins in epididymal tissue at puberty and adulthood (androgen receptor, calmodulin, Rab11A).
-These changes may be related to impaired epididymal function, sperm quality and fertility capacity as observed in a previous study.
-Further studies are necessary to better investigate the molecular mechanisms involved in the impairment on reproductive competence of male rats after precocious hormonal injury.

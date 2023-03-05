@@ -1,9 +1,0 @@
-miR-143 regulates hexokinase 2 expression in cancer cells.
-Tumor cells activate pathways that facilitate and stimulate glycolysis even in the presence of adequate levels of oxygen in order to satisfy their continuous need of molecules, such as nucleotides, ATP and fatty acids, necessary to support their rapid proliferation.
-Accordingly, a variety of human tumors are characterized by elevated expression levels of the hexokinase 2 isoform (HK2).
-Although different molecular mechanisms, including genetic and epigenetic mechanisms, have been suggested to account for the altered expression of HK2 in tumors, the potential role of microRNAs (miRNAs) in the regulation of HK2 expression has not been evaluated.
-Here, we report that miR-143 inhibits HK2 expression via a conserved miR-143 recognition motif located in the 3'-untranslated region (3'UTR) of HK2 mRNA.
-We demonstrate that miR143 inhibits HK2 expression both in primary keratinocytes and in head and neck squamous cell carcinoma (HNSCC)-derived cell lines.
-Importantly, we found that miR-143 inversely correlates with HK2 expression in HNSCC-derived cell lines and in primary tumors.
-We also report that the miRNA-dependent regulation of hexokinase expression is not limited to HK2 as miR-138 targets HK1 via a specific recognition motif located in its 3'UTR.
-All these data unveil a new miRNA-dependent mechanism of regulation of hexokinase expression potentially important in the regulation of glucose metabolism of cancer cells.

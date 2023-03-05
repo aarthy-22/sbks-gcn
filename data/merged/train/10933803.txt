@@ -1,8 +1,0 @@
-Zymogen factor IX potentiates factor IXa-catalyzed factor X activation.
-Intrinsic factor X activation is accelerated >10(7)-fold by assembly of the entire complex on the activated platelet surface.
-We have now observed that increasing the concentration of zymogen factor IX to physiologic levels ( approximately 100 nM) potentiates factor IXa-catalyzed activation of factor X on both activated platelets and on negatively charged phospholipid vesicles.
-In the presence and absence of factor VIIIa, factor IX (100 nM) lowered the K(d,appFIXa) approximately 4-fold on platelets and 2-10-fold on lipid vesicles.
-Treatment of two factor IX preparations with active-site inhibitors did not affect these observations.
-Autoradiographs of PAGE-separated reactions containing either (125)I-labeled factor IX or (125)I-labeled factor X showed that the increased factor X activation was not due to factor Xa-mediated feedback activation of factor IX and that there was increased cleavage of factor X heavy chain in the presence of factor IX in comparison with control reactions but only in the presence of both the enzyme and the surface.
-Since plasma concentrations of prothrombin, factor VII, protein C, or protein S did not by themselves potentiate factor Xa generation and did not interfere with the potentiation of the reaction of factor IX, the effect is specific for factor IX and is not attributable to the Gla domain of all vitamin K-dependent proteins.
-These observations indicate that under physiologic conditions, plasma levels of the zymogen factor IX specifically increase the affinity of factor IXa for the intrinsic factor X activation complex.

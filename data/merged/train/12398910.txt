@@ -1,6 +1,0 @@
-MDMA- and p-chlorophenylalanine-induced reduction in 5-HT concentrations: effects on serotonin transporter densities.
-Low levels of serotonin may reduce the density of the serotonin transporter (SERT) by either increasing trafficking or reducing synthesis; a "neuroadaptive response".
-To determine whether 3,4-methylenedioxymethamphetamine (MDMA)-induced reductions in SERT density could be related to such a mechanism, p-chlorophenylalanine or MDMA was administered to rats, and brain serotonin and SERT density were measured.
-As expected, both treatments led to serotonin depletion 1, 7 and 14 days later.
-However, only MDMA reduced SERT density.
-This observation suggests that MDMA-induced reductions in SERT density do not represent neuroadaptive responses to decreased levels of brain serotonin, but may occur in response to some other stimulus or to the neurotoxic effects of MDMA.

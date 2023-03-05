@@ -1,9 +1,0 @@
-Role of apoptosis in acetaminophen hepatotoxicity.
-Acetaminophen overdose causes liver injury by mechanisms involving glutathione depletion, oxidative stress and mitochondrial dysfunction.
-The role of apoptosis in acetaminophen-induced cell killing is still controversial.
-Here, our aim was to evaluate the mitochondrial permeability transition (MPT) as a key factor in acetaminophen-induced necrotic and apoptotic killing of primary cultured mouse hepatocytes.
-Acetaminophen (10 micromol/L) induced necrotic killing in approximately 50% of hepatocytes after 6 h and cyclosporin A (CsA), MPT inhibitor, temporarily decreased necrotic killing after 6 h, but cytoprotection was lost after 16 h. Confocal microscopy revealed mitochondrial depolarization and inner membrane permeabilization at approximately 4.5 h after acetaminophen.
-CsA delayed these changes indicative of the MPT to about 11 h after acetaminophen.
-TUNEL labeling and caspase 3 activation also increased after acetaminophen.
-Fructose (20 mmol/L, an ATP-generating glycolytic substrate) plus glycine (5 mmol/L, a membrane stabilizing amino acid) prevented nearly all necrotic cell killing but paradoxically increased apoptosis.
-In conclusion, acetaminophen induces the MPT and ATP-depletion-dependent necrosis or caspase-dependent apoptosis as determined, in part, by ATP availability from glycolysis.

@@ -1,5 +1,0 @@
-Cloning, Characterization, and Sulfonamide and Thiol Inhibition Studies of an α-Carbonic Anhydrase from Trypanosoma cruzi, the Causative Agent of Chagas Disease.
-An α-carbonic anhydrase (CA, EC 4.2.1.1) has been identified, cloned, and characterized from the unicellular protozoan Trypanosoma cruzi, the causative agent of Chagas disease.
-The enzyme (TcCA) has a very high catalytic activity for the CO(2) hydration reaction, being similar kinetically to the human (h) isoform hCA II, although it is devoid of the His64 proton shuttle.
-A large number of aromatic/heterocyclic sulfonamides and some 5-mercapto-1,3,4-thiadiazoles were investigated as TcCA inhibitors.
-The aromatic sulfonamides were weak inhibitors (K(I) values of 192 nM to 84 μM), whereas some heterocyclic compounds inhibited the enzyme with K(I) values in the range 61.6-93.6 nM. The thiols were the most potent in vitro inhibitors (K(I) values of 21.1-79.0 nM), and some of them also inhibited the epimastigotes growth of two T. cruzi strains in vivo.

@@ -21,3 +21,8 @@ T11	GENE-N 1688 1708	l-amino acid oxidase
 T12	GENE-Y 1710 1730	acetylcholinesterase
 T13	GENE-Y 1735 1750	phospholipase B
 T14	GENE-N 2031 2036	SPANs
+R0	NOT Arg1:T22 Arg2:T2
+R1	NOT Arg1:T9 Arg2:T1
+R2	NOT Arg1:T10 Arg2:T1
+R3	NOT Arg1:T1 Arg2:T12
+R4	NOT Arg1:T1 Arg2:T13

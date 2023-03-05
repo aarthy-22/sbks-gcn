@@ -1,4 +1,0 @@
-Alkaloid homoharringtonine inhibits polypeptide chain elongation on human ribosomes on the step of peptide bond formation.
-The aim of the present study was to investigate homoharringtonine alkaloid effect on: (i) the nonenzymatic and eEF-1-dependent Phe-tRNAPhe binding to poly(U)-programmed human placenta 80 S ribosomes; (ii) diphenylalanine synthesis accompanying nonenzymatic Phe-tRNAPhe binding; and (iii) acetylphenylalanyl-puromycin formation.
-Neither nonenzymatic nor eEF-1-dependent Phe-tRNAPhe binding were noticeably affected by the alkaloid, whereas diphenylalanine synthesis and puromycin reaction were strongly inhibited by homoharringtonine.
-It has been proposed that the site of homoharringtonine binding on 80 S ribosomes should overlap or coincide with the acceptor site of the ribosome.

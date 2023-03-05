@@ -1,9 +1,0 @@
-Caffeine inhibits the checkpoint kinase ATM.
-The basis of many anti-cancer therapies is the use of genotoxic agents that damage DNA and thus kill dividing cells.
-Agents that cause cells to override the DNA-damage checkpoint are predicted to sensitize cells to killing by genotoxic agents.
-They have therefore been sought as adjuncts in radiation therapy and chemotherapy.
-One such compound, caffeine, uncouples cell-cycle progression from the replication and repair of DNA [1] [2].
-Caffeine therefore servers as a model compound in establishing the principle that agents that override DNA-damage checkpoints can be used to sensitize cells to the killing effects of genotoxic drugs [3]. But despite more than 20 years of use, the molecular mechanisms by which caffeine affects the cell cycle and checkpoint responses have not been identified.
-We investigated the effects of caffeine on the G2/M DNA-damage checkpoint in human cells.
-We report that the radiation-induced activation of the kinase Cds1 [4] (also known as Chk2 [5]) is inhibited by caffeine in vivo and that ATM kinase activity is directly inhibited by caffeine in vitro.
-Inhibition of ATM provides a molecular explanation of the attenuation of DNA-damage checkpoint responses and for the increased radiosensitivity of caffeine-treated cells [6] [7] [8].

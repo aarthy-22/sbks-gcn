@@ -1,5 +1,0 @@
-Inhibitory oligodeoxynucleotides - therapeutic promise for systemic autoimmune diseases?
-Recent studies have shed new light on a possible link between the innate activation of plasmocytoid dendritic cells and marginal zone B cells and the pathogenesis of systemic lupus erythematosus.
-Animal studies have identified that this response requires the Toll-like receptor 9 (TLR9).
-Engagement of the TLR9 by various ligands, including non-canonical CpG-motifs, can cause or aggravate pathogenic autoantibody production and cytokine secretion in lupus.
-Attempts to neutralize this activity either by blocking the acidification of the endosomal compartment with chloroquine and related compounds, or by preventing the interaction between the CpG-DNA sequences and TLR9 using inhibitory oligonucleotides could be a promising therapeutic option for lupus.

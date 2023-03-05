@@ -1,7 +1,0 @@
-Optimization of frozen sour cherries vacuum drying process.
-The objective of this research was to optimize the vacuum-drying of frozen sour cherries in order to preserve health-beneficial phytochemicals, as well as textural characteristics.
-Investigated range of temperature was 46-74°C and, of pressure, 17-583mbar, in a new design of vacuum-dryer equipment.
-The total solids, a(w) value, total phenolics, vitamin C, antioxidant activity, anthocyanin content, total colour change and firmness were used as quality indicators of dried sour cherry.
-Within the experimental range of studied variables, the optimum conditions of 54.03°C and 148.16mbar were established for vacuum drying of sour cherry.
-Separate validation experiments were conducted, under optimum conditions, to verify predictions and adequacy of the second-order polynomial models.
-Under these optimal conditions, the predicted amount of total phenolics was 744mg CAE/100 dw, vitamin C 1.44mg/100g per dry weight (g dw), anthocyanin content 125mg/100g dw, IC(50) 3.23mg/ml, total solids 70.72%, a(w) value 0.646, total colour change 52.61 and firmness 3395.4g. The investigated parameters had a significant effect on the quality of the dried sour cherries.

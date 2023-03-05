@@ -1,9 +1,0 @@
-Adipose tissue as a source of nicotinamide N-methyltransferase and homocysteine.
-Nicotinamide N-methyltransferase (NNMT) catalyses the conversion of nicotinamide to 1-methylnicotinamide and plays an important role in hepatic detoxification reactions.
-Here we show that, in addition to the liver, 3T3-L1 adipocytes as well as human and murine adipose tissue explants express high amounts of enzymatically active NNMT.
-NNMT mRNA levels and enzyme activity increased in 3T3-L1 cells in a differentiation-dependent manner.
-Homocysteine, the atherogenic product of the NNMT-catalyzed reaction, was secreted from 3T3-L1 cells or adipose tissue cultures.
-Homocysteine release increased during 3T3-L1 differentiation and was reduced when adipose tissue was treated with the NNMT inhibitor 1-methylnicotinamide.
-Nicotinic acid (NA), a widely used drug to lower elevated plasma lipid levels, induced NNMT enzyme activity in white adipose tissue of mice.
-In tissue culture nicotinamide treatment led to an increase in adipose tissue homocysteine secretion.
-These data support the concept that adipose tissue NNMT contributes to the increased plasma homocysteine levels in patients treated with NA.

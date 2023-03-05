@@ -1,8 +1,0 @@
-Biofilm inhibitors that target amyloid proteins.
-Bacteria establish stable communities, known as biofilms, that are resistant to antimicrobials.
-Biofilm robustness is due to the presence of an extracellular matrix, which for several species-among them Bacillus subtilis-includes amyloid-like protein fibers.
-In this work, we show that B. subtilis biofilms can be a simple and reliable tool for screening of molecules with antiamyloid activity.
-We identified two molecules, AA-861 and parthenolide, which efficiently inhibited biofilms by preventing the formation of amyloid-like fibers.
-Parthenolide also disrupted pre-established biofilms.
-These molecules also impeded the formation of biofilms of other bacterial species that secrete amyloid proteins, such as Bacillus cereus and Escherichia coli.
-Furthermore, the identified molecules decreased the conversion of the yeast protein New1 to the prion state in a heterologous host, indicating the broad range of activity of the molecules.

@@ -1,6 +1,0 @@
-Analysis by liquid chromatography-mass spectrometry of sterols and oxysterols in brain of the newborn Dhcr7(Δ3-5/T93M) mouse: A model of Smith-Lemli-Opitz syndrome.
-In this study the sterol and oxysterol profile of newborn brain from the Dhcr7(Δ3-5/T93M) mouse model of Smith-Lemli-Opitz syndrome (SLOS) has been investigated.
-This is a viable mouse model which is compound heterozygous containing one null allele and one T93M mutation on Dhcr7.
-We find the SLOS mouse has reduced levels of cholesterol and desmosterol and increased levels of 7- and 8-dehydrocholesterol and of 7- and 8-dehydrodesmosterol in brain compared to the wild type.
-The profile of enzymatically formed oxysterols in the SLOS mouse resembles that in the wild type but the level of 24S-hydroxycholesterol, the dominating cholesterol metabolite, is reduced in a similar proportion to that of cholesterol.
-A number of oxysterols abundant in the SLOS mouse are probably derived from 7-dehydrocholesterol, however, the mechanism of their formation is unclear.

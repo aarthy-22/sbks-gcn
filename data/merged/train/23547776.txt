@@ -1,8 +1,0 @@
-Development of an ALK2-Biased BMP Type I Receptor Kinase Inhibitor.
-The bone morphogenetic protein (BMP) signaling pathway has essential functions in development, homeostasis, and the normal and pathophysiologic remodeling of tissues.
-Small molecule inhibitors of the BMP receptor kinase family have been useful for probing physiologic functions of BMP signaling in vitro and in vivo and may have roles in the treatment of BMP-mediated diseases.
-Here we describe the development of a selective and potent inhibitor of the BMP type I receptor kinases, LDN-212854, which in contrast to previously described BMP receptor kinase inhibitors exhibits nearly 4 orders of selectivity for BMP versus the closely related TGF-β and Activin type I receptors.
-In vitro, LDN-212854 exhibits some selectivity for ALK2 in preference to other BMP type I receptors, ALK1 and ALK3, which may permit the interrogation of ALK2-mediated signaling, transcriptional activity, and function.
-LDN-212854 potently inhibits heterotopic ossification in an inducible transgenic mutant ALK2 mouse model of fibrodysplasia ossificans progressiva.
-These findings represent a significant step toward developing selective inhibitors targeting individual members of the highly homologous BMP type I receptor family.
-Such inhibitors would provide greater resolution as probes of physiologic function and improved selectivity against therapeutic targets.

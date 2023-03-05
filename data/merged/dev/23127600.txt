@@ -1,7 +1,0 @@
-Protective effect of cinnamon polyphenols against STZ-diabetic mice fed high-sugar, high-fat diet and its underlying mechanism.
-This study was designed to investigate the potential effects of 14days' intragastrically given of cinnamon polyphenols (CPS) in treating diabetic mice induced by intraperitoneal injection of streptozotocin (150mgkg(-1)) and fed high-sugar, high-fat diet.
-The diabetic mice model was successfully established through determining on fasting blood-glucose (FBG) test.
-As revealed by glucose oxidase (GOD) and radioimmunoassay (RIA), both dimethyldiguanide (DC, 0.6gkg(-1)d(-1)) and CPS (0.3, 0.6, 1.2gkg(-1)d(-1)) treatments significantly resulted in down-regulation of blood glucose and insulin levels in serum, while the levels of oxidative stress markers were markedly lowered through ELISA assay.
-Meanwhile, the pathological damage in islet with pancreatic beta cells was ameliorated by treatment of CPS at different doses, as shown in HE stain.
-At the same time, the treatments also caused notable reduction of iNOS, NF-κB expressions showing in Western blot analysis.
-These findings demonstrate that cinnamon polyphenols can exert the hypoglycemic and hypolipidemic effects through the mechanisms that may be associated with repairing pancreatic beta cells in diabetic mice and improving its anti-oxidative capacity, as well as attenuating cytotoxicity via inhibition of iNOS, NF-κB activation.

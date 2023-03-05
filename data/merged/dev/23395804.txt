@@ -1,7 +1,0 @@
-Prolactin regulates transcription of the ion uptake Na+/Cl- cotransporter (ncc) gene in zebrafish gill.
-Prolactin (PRL) is a well-known regulator of ion and water transport within osmoregulatory tissues across vertebrate species, yet how PRL acts on some of its target tissues remains poorly understood.
-Using zebrafish as a model, we show that ionocytes in the gill directly respond to systemic PRL to regulate mechanisms of ion uptake.
-Ion-poor conditions led to increases in the expression of PRL receptor (prlra), Na(+)/Cl(-) cotransporter (ncc; slc12a10.2), Na(+)/H(+) exchanger (nhe3b; slc9a3.2), and epithelial Ca(2+) channel (ecac; trpv6) transcripts within the gill.
-Intraperitoneal injection of ovine PRL (oPRL) increased ncc and prlra transcripts, but did not affect nhe3b or ecac.
-Consistent with direct PRL action in the gill, addition of oPRL to cultured gill filaments stimulated ncc in a concentration-dependent manner, an effect blocked by a pure human PRL receptor antagonist (Δ1-9-G129R-hPRL).
-These results suggest that PRL signaling through PRL receptors in the gill regulates the expression of ncc, thereby linking this pituitary hormone with an effector of Cl(-) uptake in zebrafish for the first time.

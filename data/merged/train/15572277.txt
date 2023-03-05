@@ -1,7 +1,0 @@
-Adenosine A1 receptors and the anticonvulsant potential of drugs effective in the model of 3-nitropropionic acid-induced seizures in mice.
-The role of adenosine A1 receptors in the activity of drugs and substances protecting against seizures evoked by mitochondrial toxin, 3-nitropropionic acid (3-NPA) was studied in mice.
-Non-selective A1/A2 adenosine receptor antagonist, aminophylline and selective A1 adenosine receptor antagonist, 8-cyclopentyl-1,3-dipropylxanthine (DPCPX) diminished the anticonvulsive effects of diazepam, phenobarbital, valproate and gabapentin.
-In contrast, A1/A2 adenosine receptor antagonist, 8-(p-sulfophenyl)theophylline (8pSPT) not penetrating via blood-brain barrier was ineffective.
-Aminophylline and DPCPX but not 8pSPT also reversed the protective action of A1/A2 adenosine receptor agonist, 2-chloroadenosine (2-CADO) and selective A1 adenosine receptor agonist, R-N6-phenylisopropyloadenosine (R-PIA), against 3-NPA-evoked convulsions.
-Obtained results suggest that the central adenosine A1 receptor stimulation may play a role in the anticonvulsive potential of diazepam, phenobarbital, valproate and gabapentin in a novel model of 3-NPA-evoked seizures.
-Moreover, concomitant application of aminophylline with these drugs may reduce their clinical antiepileptic efficacy, especially among patients suffering from seizures related to the disturbances of mitochondrial respiratory chain.

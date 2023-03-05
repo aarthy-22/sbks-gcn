@@ -1,8 +1,0 @@
-State-dependent cocaine block of sodium channel isoforms, chimeras, and channels coexpressed with the beta1 subunit.
-Cocaine block of human cardiac (hH1) and rat skeletal (mu1) muscle sodium channels was examined under whole-cell voltage clamp in transiently transfected HEK293t cells.
-Low affinity block of resting mu1 and hH1 channels at -180 mV was the same, and high affinity block of inactivated channels at -70 mV was the same.
-Cocaine block of hH1 channels was greater than block of mu1 channels at voltages between -120 mV and -90 mV, suggesting that greater steady-state inactivation of hH1 channels in this voltage range makes them more susceptible to cocaine block.
-We induced shifts in the voltage dependence of steady-state inactivation at mu1 and hH1 channels by constructing mu1/hH1 channel chimeras or by coexpressing the wild-type channels with the rat brain beta1 subunit.
-In contrast to several previous reports, coexpression of the rat brain beta1 subunit with mu1 or hH1 produced large positive shifts in steady-state inactivation.
-Shifts in the voltage dependence of steady-state inactivation elicited linear shifts in steady-state cocaine block, yet these manipulations did not affect the cocaine affinity of resting or inactivated channels.
-These data, as well as simulations used to predict block, indicate that state-dependent cocaine block depends on both steady-state inactivation and channel activation, although inactivation appears to have the predominant role.

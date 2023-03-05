@@ -1,7 +1,0 @@
-Adenosine receptor antagonists intensify the benzodiazepine withdrawal signs in mice.
-The aim of the present experiment was to assess the involvement of adenosine receptor antagonists in benzodiazepine (BDZ) withdrawal signs, observed as the seizure susceptibility in mice.
-The discontinuation of chronic treatment with temazepam or diazepam decreased seizure threshold (one of BDZ withdrawal signs).
-The concomitant application of subconvulsive dose of pentetrazole (55.0 mg/kg) with low dose of flumazenil (5.0 mg/kg) - a BDZ receptor antagonist, immediately induced BDZ withdrawal signs in these animals.
-The non-selective adenosine receptor antagonist (caffeine), and the selective adenosine A1 receptor antagonist (DPCPX), injected 15 min before the application of pentetrazole and flumazenil, were able to intensify BDZ withdrawal signs in mice.
-The most apparent effects were observed after administration of DPCPX, indicating that the adenosine A1 receptor may play a more important role in these effects.
-The obtained data demonstrate that the adenosinergic system is involved in BDZ withdrawal signs in mice, and adenosine A1 receptor plays an important role in this process.

@@ -1,7 +1,0 @@
-Synthesis, receptor binding and functional studies of mesoridazine stereoisomers.
-The four stereoisomers of mesoridazine were synthesized and evaluated in D2, 5-HT1A, 5-HT2A, 5-HT2C, D1, and D3 receptor binding and functional assays.
-Two isomers demonstrated potent D2 receptor binding (Ki < 3 nM) and functional antagonism (IC50 < or = 10 nM) activities.
-These two isomers also showed moderate affinity for the 5-HT2A and D3 receptors.
-A third isomer was devoid of significant D2 receptor binding, but did have moderate affinity for the 5-HT2A and D3 receptors.
-The fourth isomer demonstrated poor affinity for all the receptors tested.
-Most significantly, the stereochemistry of the sulfoxide moiety played a dominant role in the observed structure-activity relationship (SAR).

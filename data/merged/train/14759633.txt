@@ -1,8 +1,0 @@
-Hyperornithinemia, hyperammonemia, and homocitrullinuria syndrome with evidence of mitochondrial dysfunction due to a novel SLC25A15 (ORNT1) gene mutation in a Palestinian family.
-Hyperornithinemia, hyperammonemia, and homocitrullinuria (HHH) syndrome is caused by mutations in the SLC25A15 (ORNT1) gene encoding the mitochondrial ornithine transporter, but the mechanism of pathogenesis of the encephalopathy, spastic paraparesis and hepatopathy remains undetermined.
-HHH syndrome was diagnosed in a 2-year-old Palestinian boy with developmental delay and seizures, and subsequently in his 13-year-old brother with developmental delay.
-Direct sequencing of the PCR products of SLC25A15 exon amplifications revealed that both brothers were homozygous for a novel 446G deletion in exon 3 as well as for a 760A>T (I254L) polymorphism in exon 5, which is downstream of a premature termination codon produced by the frameshift resulting from the 446G deletion.
-The index patient had elevated liver enzymes as well as hyperalaninemia, lactic acidemia with an elevated lactate to pyruvate ratio, and increased urinary excretion of lactate, glutarate and Krebs cycle intermediates.
-These findings are indicative of mitochondrial dysfunction and are in accordance with ultrastructural studies showing increased numbers of large and bizarre mitochondria in liver, muscle, leukocytes and fibroblasts of some HHH patients.
-Neurologic and hepatic manifestations are characteristic of some primary mitochondrial disorders.
-Secondary mitochondrial dysfunction may contribute to the pathogenesis of these same features in HHH syndrome.

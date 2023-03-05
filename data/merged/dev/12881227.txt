@@ -1,9 +1,0 @@
-NHE3 inhibition activates duodenal bicarbonate secretion in the rat.
-We examined the effect of inhibition of Na+/H+ exchange (NHE) on duodenal bicarbonate secretion (DBS) in rats to further understand DBS regulation.
-DBS was measured by using the pH-stat method and by using CO2-sensitive electrodes.
-5-(N,N-dimethyl)-amiloride (50 microM; DMA), a concentration that selectively inhibits the NHE isoforms NHE1 and NHE2, but not NHE3, did not affect DBS.
-Nevertheless, 3 mM DMA, a higher concentration that inhibits NHE1, NHE2, and NHE3, significantly increased DBS.
-Moreover, S1611 and S3226, both specific inhibitors of NHE3 only, or perfusion with Na+-free solutions, dose dependently increased DBS, as measured by pH-stat and CO2-sensitive electrode, without affecting intracellular pH. Coperfusion with 0.1 microM indomethacin, 0.5 mM DIDS, or 1 mM methazolamide did not affect S3226-induced DBS.
-Nevertheless, coperfusion with 0.1 and 0.3 mM 5-nitro-2-(3-phenylpropylamino) benzoic acid, which inhibits the cystic fibrosis transmembrane conductor regulator (CFTR), dose dependently inhibited S3226-induced DBS.
-In conclusion, only specific apical NHE3 inhibition increased DBS, whereas prostaglandin synthesis, Na+-HCO3- cotransporter activation, or intracellular HCO3- formation by carbonic anhydrase was not involved.
-Because NHE3 inhibition-increased DBS was inhibited by an anion channel inhibitor and because reciprocal CFTR regulation has been previously shown between NHE3 and apical membrane anion transporters, we speculate that NHE3 inhibition increased DBS by altering anion transporter function.

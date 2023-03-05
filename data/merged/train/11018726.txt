@@ -1,7 +1,0 @@
-The active-site residue tyr-175 in human glyoxalase II contributes to binding of glutathione derivatives.
-Tyrosine-175 located in the active site of human glyoxalase II was replaced by phenylalanine in order to study the contribution of this residue to catalysis.
-The mutation had a marginal effect on the k(cat) value determined using S-D-lactoylglutathione as substrate.
-However, the Y175F mutant had an 8-fold higher K(m) value than the wild-type enzyme.
-The competitive inhibitor S-(N-hydroxy-N-bromophenylcarbamoyl)glutathione had a 30-fold higher K(i) value towards the mutant, than that of the wild-type.
-Pre-equilibrium fluorescence studies with the inhibitor showed that this was due to a significantly increased off-rate for the mutant enzyme.
-The phenolic hydroxyl group of tyrosine-175 is within hydrogen bonding distance of the amide nitrogen of the glycine in the glutathione moiety and the present study shows that this interaction makes a significant contribution to the binding of the active-site ligand.

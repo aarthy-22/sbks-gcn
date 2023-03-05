@@ -1,6 +1,0 @@
-Chloride channels in renal disease.
-Recent studies of hereditary renal tubular disorders have facilitated the identification and roles of chloride channels and cotransporters in the regulation of the most abundant anion, Cl-, in the ECF.
-Thus, mutations that result in a loss of function of the voltage-gated chloride channel, CLC-5, are associated with Dent's disease, which is characterized by low-molecular weight proteinuria, hypercalciuria, nephrolithiasis, and renal failure.
-Mutations of another voltage-gated chloride channel, CLC-Kb, are associated with a form of Bartter's syndrome, whereas other forms of Bartter's syndrome are caused by mutations in the bumetanide-sensitive sodium-potassium-chloride cotransporter (NKCC2) and the potassium channel, ROMK.
-Finally, mutations of the thiazide-sensitive sodium-chloride cotransporter (NCCT) are associated with Gitelman's syndrome.
-These studies have helped to elucidate some of the renal tubular mechanisms regulating mineral homeostasis and the role of chloride channels.

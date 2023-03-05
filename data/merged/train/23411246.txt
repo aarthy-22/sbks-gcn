@@ -1,5 +1,0 @@
-Iron and zinc bioavailability in Caco-2 cells: influence of caseinophosphopeptides.
-A study has been made of the influence of two pools of caseinophosphopeptides (CPPs) obtained from α(s)- and β-casein (CN) fractions, and of three specific CPPs (β-CN(1-25)4P, α(s1)-CN(64-74)4P and α(s2)-CN(1-19)4P), on iron bioavailability (ferritin synthesis) and zinc bioavailability (retention, transport and uptake of zinc) in Caco-2 cells.
-α-CPP and β-CPP pools did not improve ferritin synthesis, but the three specific CPPs showed an increase in ferritin synthesis in Caco-2 cells versus iron sulphate, β-CN(1-25)4P being the most effective.
-In relation to zinc bioavailability, α-CPPs, β-CPPs, α(s1)-CN(64-74)4P and β-CN(1-25)4P increased zinc uptake.
-However, this increase was of the same order as the increase due to the presence of zinc sulphate.

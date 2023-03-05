@@ -1,9 +1,0 @@
-Effects of Crataegus microphylla on vascular dysfunction in streptozotocin-induced diabetic rats.
-Vascular dysfunction plays a key role in the pathogenesis of diabetic vascular disease.
-In this study, we aimed to investigate whether chronic in vivo treatment of Crataegus microphylla (CM) extract in diabetic rats induced with streptozotocin (STZ, intraperitoneal, 65 mg/kg) preserves vascular function and to evaluate whether the reduction of inducible nitric oxide synthase (iNOS), proinflammatory cytokines, and lipid peroxidation mediates its mechanisms of action.
-Starting at 4 weeks of diabetes, CM extract (100 mg/kg) was administrated to diabetic rats for 4 weeks.
-In aortic rings, relaxation to acetylcholine and vasoreactivity to noradrenaline were impaired, whereas aortic iNOS expression and plasma tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6), total nitrite-nitrate, and malondialdehite levels were increased in diabetic rats compared with controls.
-Chronic CM treatment significantly corrected all the above abnormalities in diabetic rats.
-In comparison, pretreatment of the aorta of diabetic rats with N-[3(aminomethyl) benzyl]-acetamidine, dihydrochloride (10(-5)  M), a selective inhibitor of iNOS, produced a similar recovery in vascular reactivity.
-These results suggest that chronic in vivo treatment of CM preserves endothelium-dependent relaxation and vascular contraction in STZ-induced diabetes, possibly by reducing iNOS expression in the aorta and by decreasing plasma levels of TNF-α and IL-6 and by preventing lipid peroxidation.
-Copyright © 2012 John Wiley & Sons, Ltd.

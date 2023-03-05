@@ -1,8 +1,0 @@
-MD simulations of the formation of stable clusters in mixtures of alkaline salts and imidazolium-based ionic liquids.
-Structural and dynamical properties of room-temperature ionic liquids containing the cation 1-butyl-3-methylimidazolium ([BMIM](+)) and three different anions (hexafluorophosphate, [PF6](-), tetrafluoroborate, [BF4](-), and bis(trifluoromethylsulfonyl)imide, [NTf2](-))
-doped with several molar fractions of lithium salts with a common anion at 298.15 K and 1 atm were investigated by means of molecular dynamics simulations.
-The effect of the size of the salt cation was also analyzed by comparing these results with those for mixtures of [BMIM][PF6] with NaPF6.
-Lithium/sodium solvation and ionic mobilities were analyzed via the study of radial distribution functions, coordination numbers, cage autocorrelation functions, mean-square displacements (including the analysis of both ballistic and diffusive regimes), self-diffusion coefficients of all the ionic species, velocity and current autocorrelation functions, and ionic conductivity in all the ionic liquid/salt systems.
-We found that lithium and sodium cations are strongly coordinated in two different positions with the anion present in the mixture.
-Moreover, [Li](+) and [Na](+) cations were found to form bonded-like, long-lived aggregates with the anions in their first solvation shell, which act as very stable kinetic entities within which a marked rattling motion of salt ions takes place.
-With very long MD simulation runs, this phenomenon is proved to be on the basis of the decrease of self-diffusion coefficients and ionic conductivities previously reported in experimental and computational results.

@@ -1,8 +1,0 @@
-Discovery of thiazolidine-2,4-dione/biphenylcarbonitrile hybrid as dual PPAR α/γ modulator with antidiabetic effect: in vitro, in silico and in vivo approaches.
-A small series of thiazolidine-2,4-dione and barbituric acid derivatives 1-4 was prepared using a short synthetic route, and all compounds were characterized by elemental analysis, mass spectrometry, and NMR ((1)H, (13)C) spectroscopy.
-Their in vitro relative expression of peroxisome proliferator-activated receptor α and peroxisome proliferator-activated receptor γ was evaluated.
-Compound 1 showed an increase in the mRNA expression of both peroxisome proliferator-activated receptor isoforms, as well as the GLUT-4 levels.
-The antidiabetic activity of compound 1 was determined at 50 mg/kg single dose using a non-insulin-dependent diabetes mellitus rat model.
-The results indicated a significant decrease in plasma glucose levels.
-Additionally, we performed a molecular docking of compound 1 into the ligand binding pocket of peroxisome proliferator-activated receptor α and peroxisome proliferator-activated receptor γ.
-In these binding models, compound 1 may bind into the active site of both isoforms showing important short contacts with the peroxisome proliferator-activated receptor γ residues: Tyr 473, His 449, Ser 289, His 323; and peroxisome proliferator-activated receptor α residues: Tyr 464, His 440, Ser 280 and Tyr 314.

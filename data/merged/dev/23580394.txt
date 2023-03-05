@@ -1,4 +1,0 @@
-Optoelectronic Processes in Squaraine Dye-Doped OLEDs for Emission in the Near-Infrared.
-A novel all-organic host-guest system for emission in the NIR is introduced and investigated with respect to its opto-electronic processes.
-The good agreement between theoretical and experimental results highlights the model character of this system and its potential for electroluminescent application.
-Comparative measurements provide access to the recombination mechanisms on molecular length scale and show that the emission behavior of the device under operation is controlled by charge carrier dynamics.

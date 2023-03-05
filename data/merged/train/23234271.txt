@@ -1,7 +1,0 @@
-Design and synthesis of diazatricyclodecane agonists of the G-protein-coupled receptor 119.
-A series of GPR119 agonists based on a 2,6-diazatricyclo[3.3.1.1∼3,7∼]decane ring system is described.
-Also provided is a detailed account of the development of a multigram scale synthesis of the diazatricyclic ring system, which was achieved using a Hofmann-Löffler-Freytag reaction as the key step.
-The basis for the use of this complex framework lies in an attempt to constrain one end of the molecule in the "agonist conformation" as was previously described for 3-oxa-7-aza-bicyclo[3.3.1]nonanes.
-Optimization of carbamate analogues of the diazatricylic compounds led to the identification of 32i as a potent agonist of the GPR119 receptor with low unbound human liver microsomal clearance.
-The use of an agonist response weighted ligand lipophilic efficiency (LLE) termed AgLLE is discussed along with the issues of applying efficiency measures to agonist programs.
-Ultimately, solubility limited absorption and poor exposure reduced further interest in these molecules.

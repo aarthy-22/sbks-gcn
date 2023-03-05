@@ -1,9 +1,0 @@
-Mechanism of action of dopaminergic agents in Parkinson's disease.
-As the substantia nigra degenerates in Parkinson's disease (PD), the nigrostriatal pathway is disrupted, reducing striatal dopamine and producing PD symptoms.
-Although dopamine does not readily cross the blood-brain barrier, its precursor, levodopa, does.
-Levodopa is absorbed in the small bowel and is rapidly catabolized by aromatic-L-amino-acid decarboxylase (AADC) and catechol-O-methyltransferase (COMT).
-Because gastric AADC and COMT degrade levodopa, the drug is given with inhibitors of AADC (carbidopa or benserazide), and inhibitors of COMT will also enter clinical use.
-Although the exact site of decarboxylation of exogenous levodopa to dopamine in the brain is unknown, most striatal AADC is located in nigrostriatal dopaminergic nerve terminals.
-Newly synthesized dopamine is stored in the terminals and then released, stimulating postsynaptic dopamine receptors and mediating the antiparkinsonian action of levodopa.
-Dopamine agonists act directly on postsynaptic dopamine receptors, thus obviating the need for metabolic conversion, storage, and release.
-How the actions of dopaminergic drugs produce side effects and how these side effects should be managed are discussed.

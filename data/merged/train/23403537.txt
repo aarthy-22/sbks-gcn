@@ -1,4 +1,0 @@
-Accurate quantum chemical energies for tetrapeptide conformations: why MP2 data with an insufficient basis set should be handled with caution.
-High-level quantum chemical calculations have been carried out for biologically-relevant conformers of tetrapeptides.
-Our results indicate potential problems if the widely-applied MP2 approach is used in such situations with basis sets of insufficient size.
-Efficient alternatives are discussed.

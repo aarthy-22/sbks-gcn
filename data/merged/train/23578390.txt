@@ -1,8 +1,0 @@
-Sodium fluoride induces apoptosis in odontoblasts via a JNK-dependent mechanism.
-Sodium fluoride (NaF) is widely used for the treatment of dental caries and dentin hypersensitivity.
-However, its pro-apoptotic effect on odontoblasts may lead to harmful side-effects.
-The purpose of this study was to evaluate the pro-apoptotic effects of NaF in odontoblasts and elucidate the possible underlying molecular mechanisms.
-NaF generated cytotoxic effects in odontoblast-lineage cell (OLC) in a dose- and time-dependent manner.
-Exposure of cells to 4mM NaF for 24h induced caspase-3 activation, ultrastructural alterations, and resulted in the translocation of Bax to the mitochondria and the release of cytochrome c from the mitochondrial inter-membrane space into the cytosol, indicating that fluoride-mediated apoptosis is mitochondria-dependent.
-Fluoride treatment also increased phosphorylation of JNK and ERK, but not p38, and apoptosis induced by fluoride was notably or partly suppressed by treatment with JNK or ERK inhibitors, respectively.
-Taken together, these findings suggest that NaF induces apoptosis in OLC odontoblasts through a JNK-dependent mitochondrial pathway.

@@ -1,6 +1,0 @@
-Antioxidant and lipoxygenase inhibiting new iridoid glucosides from Caryopteris odorata.
-The phytochemical investigation of the ethylacetate-soluble fraction of Caryopteris odorata (Ham. ex Roxb.) led to the isolation of four new iridoid glucosides (1-4): 8-O-trans-cinnamoyl caryoptoside (1), 8-O-trans-cinnamoyl shanzhiside methylester (2), 8-O-trans-cinnamoyl mussaenoside (3) and 8-O-cafeoyl massenoside (4).
-The structures of these compounds were determined by FAB-MS, IR, 1D and 2D-NMR spectroscopy and by comparing with the published data of the closely related compounds.
-The antioxidant potential of the isolated iridoids (1-4) was evaluated relative to conventionally used standards and these molecules exhibited good antioxidant potential.
-Moreover, their inhibitory potential was also screened against three enzymes, namely acetyl cholinesterase, butyrylcholinesterase and lipoxygenase.
-These iridoid glucosides were found to be inactive against acetyl and butyrylcholinesterases but active against lipoxygenase.

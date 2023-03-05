@@ -9,3 +9,6 @@ T4	CHEMICAL 449 458	vitamin K
 T8	GENE-N 489 507	bovine carboxylase
 T9	GENE-Y 593 602	factor IX
 T10	GENE-N 727 744	gamma-carboxylase
+R0	CPR-3 Arg1:T3 Arg2:T7
+R1	NOT Arg1:T7 Arg2:T2
+R2	NOT Arg1:T4 Arg2:T8

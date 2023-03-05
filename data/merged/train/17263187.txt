@@ -1,9 +1,0 @@
-Activation of type-2 chloride channels: a novel therapeutic target for the treatment of chronic constipation.
-Chronic constipation affects up to 27% of the population and negatively impacts health-related quality-of-life.
-Prescription medications targeting chronic constipation currently include polyethylene glycol, lactulose and tegaserod, a serotonin type 4 receptor partial agonist.
-The most recent addition is lubiprostone (Amitiza), a type-2 chloride channel (ClC-2) activator which is a member of a new class of compounds known as prostones.
-Lubiprostone is a bicyclic fatty acid that acts locally on ClC-2 channels located in the apical membrane of intestinal epithelial cells.
-This stimulation of chloride secretion induces the passive movement of sodium and water into the intestinal lumen, yielding a net increase in isotonic fluid, which results in improved bowel function.
-In double-blind, placebo-controlled clinical trials, lubiprostone increased the number of spontaneous bowel movements compared with placebo and was generally well tolerated.
-The predominant adverse effects were nausea and diarrhea.
-Lubiprostone represents a new therapeutic class of compounds for the treatment of chronic constipation and will be the focus of this review.

@@ -1,7 +1,0 @@
-New tools in diagnosis and biomonitoring of intoxications with organophosphorothioates: Case studies with chlorpyrifos and diazinon.
-Organophosphate (OP) pesticides are neurotoxic compounds that are widely used in agriculture.
-Classical methods for monitoring OP exposure comprise the measurement of intact OP, its metabolites or cholinesterase activity.
-Newly developed methods focus on the analysis of the OP adduct bound to proteins such as butyrylcholinesterase (BuChE) and albumin.
-These adducts can be analyzed by means of fluoride reactivation or by analysis with LC-MS/MS of the pepsin or pronase digest of butyrylcholinesterase and albumin, respectively.
-The utility of these methods is illustrated through the analysis of plasma samples obtained from patients taken 1-49days after ingestion of the organophosphate pesticides chlorpyrifos and/or diazinon.
-Thus, in this particular case several independent methodologies were applied to the biomedical samples, all pointing to the same exposure.

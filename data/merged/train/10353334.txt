@@ -1,7 +1,0 @@
-Hyperammonemia: regulation of argininosuccinate synthetase and argininosuccinate lyase genes in aggregating cell cultures of fetal rat brain.
-Hyperammonemia in the brain leads to poorly understood alterations of nitric oxide (NO) synthesis.
-Arginine, the substrate of nitric oxide synthases, might be recycled from the citrulline produced with NO by argininosuccinate synthetase (AS) and argininosuccinate lyase (AL).
-The regulation of AS and AL genes during hyperammonemia is unknown in the brain.
-We used brain cell aggregates cultured from dissociated telencephalic cortex of rat embryos to analyze the regulation of AS and AL genes in hyperammonemia.
-Using RNase protection assay and non-radioactive in situ hybridization on aggregate cryosections, we show that both AS and AL genes are induced in astrocytes but not in neurons of aggregates exposed to 5 mM NH4Cl.
-Our work suggests that the hyperammonemic brain might increase its recycling of citrulline to arginine.

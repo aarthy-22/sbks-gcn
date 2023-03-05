@@ -1,7 +1,0 @@
-Sterol transporters: targets of natural sterols and new lipid lowering drugs.
-Recent insights in the role of ATP-binding cassette (ABC) transporters ABCG5 and ABCG8, the discovery of ezetimibe, the first approved direct cholesterol absorption inhibitor, as well as the identification of Niemann-Pick C1 Like 1 (NPC1L1) protein as sterol transporter in the gut, focused attention on sterol transport processes in the small intestine and the liver.
-The identification of defective structures in the ABCG5 or ABCG8 transporters in patients with the rare disease of sitosterolemia elucidated their role as sterol efflux pumps regulating at least in parts the intestinal sterol absorption and the hepatic sterol output.
-ABCG5 and ABCG8 themselves are regulated by cholesterol via liver X receptors (LXRs), which are also activated by oxysterols and some derivatives of plant sterols.
-NPC1L1 could recently be identified as a major sterol transporter for the intestinal uptake of cholesterol as well as plant sterols.
-Studies in NPC1L1 knockout mice indicate that this transporter is essential for the intestinal uptake of sterols and that NPC1L1 might also be involved in the mechanism of action of ezetimibe.
-However, studies with photoreactive cholesterol as well as with photoreactive ezetimibe analogues suggest that other processes might also be involved in the mechanism of action of ezetimibe.

@@ -1,0 +1,9 @@
+Changes in A1C Levels Are Significantly Associated With Changes in Levels of the Cardiovascular Risk Biomarker hs-CRP: Results from SteP Study.
+OBJECTIVEThe effect of therapeutic strategies on cardiovascular (CV) disease can be evaluated by monitoring changes in CV risk biomarkers.
+This study investigated the effect of a structured self-monitoring of blood glucose (SMBG) protocol and the resulting improvements in glycemic control on changes in high-sensitivity C-reactive protein (hs-CRP) in insulin-naïve patients with type 2 diabetes.
+RESEARCH DESIGN AND METHODSThe Structured Testing Program (STeP) study was a prospective, cluster-randomized, multicenter trial in which 483 poorly controlled, insulin-naïve patients with type 2 diabetes were randomized to active control (ACG) or structured testing (STG) that included quarterly structured SMBG.
+Changes in A1C, hs-CRP, and glycemic variability (STG subjects only) were measured at baseline and quarterly.
+RESULTSReductions in geometric mean hs-CRP values were significantly greater in the STG group at months 3 (P = 0.005), 6 (P = 0.0003), and 12 (P = 0.04) than in the ACG group.
+STG patients at high CV risk (>3 mg/L) showed significantly greater reductions in hs-CRP levels than ACG patients at high CV risk: -3.64 mg/dL (95% CI -4.21 to -3.06) versus -2.18 mg/dL (-2.93 to -1.43), respectively (P = 0.002).
+There was a strong correlation between reductions in hs-CRP and A1C in both groups: standardized coefficient (β) was 0.25 for the entire cohort (P < 0.0001), 0.31 for STG (P < 0.0001), and 0.16 for ACG (P = 0.02).CONCLUSIONSReductions in hs-CRP level are associated with reductions in A1C but not reductions in lipids or glycemic variability.
+Comprehensive structured SMBG-based interventions that lower A1C may translate into improvements in CV risk, as evidenced by levels of the biomarker hs-CRP.

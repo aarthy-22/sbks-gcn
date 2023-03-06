@@ -1,0 +1,10 @@
+Mitochondrial complex I mutations in Caenorhabditis elegans produce cytochrome c oxidase deficiency, oxidative stress and vitamin-responsive lactic acidosis.
+Mitochondrial dysfunction, with an estimated incidence of 1 in 10 000 live births, is among the most common genetically determined conditions.
+Missense mutations in the human NDUFV1 gene, which encodes the 51 kDa active site subunit of the NADH-ubiquinone oxidoreductase or complex I, can lead to severe neurological disorders.
+Owing to the rare and often sporadic nature of mitochondrial disorders, the mechanisms of pathogenesis of most mutations remain poorly understood.
+We have generated transgenic strains of Caenorhabditis elegans that express disease-causing mutations in the nuo-1 gene, the C. elegans homolog of the NDUFV1 gene.
+The transgenic strains demonstrate hallmark features of complex I dysfunction such as lactic acidosis and decreased NADH-dependent mitochondrial respiration.
+They are also hypersensitive to exogenous oxidative stress, suggesting that cellular defense mechanisms against reactive oxygen species are already taxed by an endogenous stress.
+The lactic acidosis induced by the NDUFV1 mutations could be partially corrected with the vitamins riboflavin and thiamine or with sodium dichloroacetate, an activator of the pyruvate dehydrogenase complex, resulting in significant increases in animal fitness.
+Surprisingly, cytochrome c oxidase activity and protein levels were reduced, establishing a connection between complexes I and IV.
+Our results indicate that complex I mutations exert their pathogenic effects in multiple ways: by impeding the metabolism of NADH, by increasing the production of reactive oxygen species, and by interfering with the function or assembly of other mitochondrial respiratory chain components.

@@ -1,0 +1,8 @@
+Control of CYP11B2/CYP11B1 expression ratio and consequences for the zonation of the adrenal cortex.
+Access of corticotropin to glucocorticoid synthesis in adrenocortical cells is provided by the expression of the ACTH receptor (MC2R).
+Activation of the MC2R increases stimulatory G-protein, adenylyl cyclase, and protein kinase A (PKA) activities.
+Furthermore, PKA phosphorylates transcription factors that have a stimulating effect on glucocorticoid synthesis.
+Sensitivity of adrenocortical cells to renin/angiotensin-2 is conferred by the expression of the inhibitory G-protein-linked angiotensin-2 type 1 receptor (AT1R) that additionally associates to the phospholipase C-activating G-protein q. The AT1R is connected to the adrenal potassium sensory system and regulates calcium influx as well as phospholipase C-β (PLC-β) and thus calmodulin kinase-dependent transcription of steroidogenic enzymes.
+While AT1R signaling suppresses the influence of corticotropin on the generation of cyclic adenosine monophosphate, the expression of the AT1R and its associated enzyme activities are under the control of glucocorticoids.
+Thus, dominance of one of the two signaling pathways is dependent on two factors: the extracellular concentration of their ligands and the products of their signaling pathways.
+These findings are in favor of the hypothesis that the centripetal blood flow through the adrenal gland builds up a glucocorticoid gradient creating a morphogenetic field along which adrenal cortical cells adopt different functional states, leading to the typical zonation of the adrenal cortex.

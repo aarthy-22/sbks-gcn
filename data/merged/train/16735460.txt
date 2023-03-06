@@ -1,0 +1,10 @@
+Functional roles of cationic amino acid residues in the sodium-dicarboxylate cotransporter 3 (NaDC-3) from winter flounder.
+In the present study, we determined the functional role of 15 positively charged amino acid residues at or within 1 of the predicted 11 transmembrane helixes of the flounder renal sodium-dicarboxylate cotransporter fNaDC-3.
+Using site-directed mutagenesis, histidine (H), lysine (K), and arginine (R) residues of fNaDC-3 were replaced by alanine (A), isoleucine (I), or leucine (L).
+Most mutants showed sodium-dependent, lithium-inhibitable [14C]succinate uptake and, in two-electrode voltage-clamp (TEVC) experiments, Km and DeltaI(max) values comparable to wild-type (WT) fNaDC-3.
+The replacement of R109 and R110 by alanine and isoleucine (RR109/110AI) prevented the expression of fNaDC-3 at the plasma membrane.
+When the lysines at positions 232 and 235 were replaced by isoleucine (KK232/235II), the transporter was expressed but showed small transport rates and succinate-induced currents.
+K114I, located within transmembrane helix 4, showed [14C]succinate uptake similar to WT but relatively small inward currents.
+When K114 was replaced by arginine, glutamic acid (E), or glutamine (Q), all mutants were expressed at the cell surface.
+In [14C]succinate uptake and TEVC experiments performed simultaneously on the same oocytes, uptake was similar to or higher than WT, whereas succinate-induced currents were either comparable (K114R) to, or considerably smaller (K114E, K114I, K114Q) than, those evoked by WT.
+These results suggest that a positively charged residue at position 114 is required for electrogenic sodium-dicarboxylate cotransport.

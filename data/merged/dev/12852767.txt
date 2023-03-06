@@ -1,0 +1,7 @@
+Tethered dimers as NAD synthetase inhibitors with antibacterial activity.
+The solution-phase parallel synthesis of tethered dimers was employed to identify lead inhibitors of bacterial NAD synthetase.
+Active dimers contained two aromatic end groups joined by a polymethylene linker, with one end group containing a permanent positive charge.
+Effective inhibitors of NAD synthetase also inhibited the growth of Gram-positive (but not Gram-negative) bacteria, including antibiotic-resistant strains.
+The desmethyl precursors of active inhibitors lacked a permanent positive charge and were inactive as either enzyme inhibitors or antibacterial agents.
+Similarly, a close structural analogue of the most active inhibitors contained two additional ether oxygens in the tether and was inactive in both assays.
+These results are consistent with the premise that NAD synthetase inhibition is responsible for the antibacterial actions and support further studies on NAD synthetase as a new target for antibacterial agents.

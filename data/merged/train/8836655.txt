@@ -1,0 +1,10 @@
+Epinastine (WAL 801CL) modulates the noncholinergic contraction in guinea-pig airways in vitro by a prejunctional 5-HT1-like receptor.
+Electrical field stimulation (EFS) of guinea-pig airways, in vitro, evokes an excitatory nonadrenergic noncholinergic (eNANC) contraction mediated by release of tachykinins from sensory nerve endings.
+Epinastine (WAL 801CL) is an antihistaminic drug with binding affinity at certain other receptors, including alpha-adrenergic receptors and various serotonin (5-HT) receptor subtypes.
+It is used in asthma treatment; however, its mechanism of action remains to be fully defined.
+We have investigated whether epinastine could modulate the eNANC contraction in guinea-pig airways in vitro, and have tried to elucidate its receptor mechanism.
+Epinastine (0.1-100 microM) produced a concentration-dependent inhibition of the noncholinergic contraction, with a maximum inhibition of 91 +/- 7% at 100 microM. Pretreatment of the tissues with combined 5-HT1/5-HT2 antagonists, methysergide (1 microM) or methiothepin (0.1 microM), significantly attenuated the inhibitory effect of epinastine on the noncholinergic contraction.
+Pretreatment with tropisetron (1 microM), a 5-HT3 antagonist, ketanserin (10 microM), a 5-HT2 antagonist, thioperamide (10 microM), a histamine H3 antagonist, or phentolamine (10 microM), an alpha-adrenergic antagonist, however, had no effect.
+Chlorpheniramine (10 microM), another histamine H1 receptor antagonist without significant 5-HT receptor binding affinity, did not produce any inhibition of the eNANC contraction.
+Epinastine (100 microM) did not displace the dose-response curve to exogenously applied substance P (0.01-10 microM).
+These results suggest that epinastine, although identified as a 5-HT antagonist, acts as a 5-HT1 agonist and that it inhibits the noncholinergic contraction in guinea-pig airways through stimulation of a prejunctional 5-HT1-like receptor, located to sensory nerves.

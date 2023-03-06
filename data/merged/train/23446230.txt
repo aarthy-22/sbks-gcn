@@ -1,0 +1,10 @@
+CYP2J2 overexpression increases EETs and protects against angiotensin II-induced abdominal aortic aneurysm in mice.
+Cytochrome P450 epoxygenase 2J2 (CYP2J2) metabolizes arachidonic acids to form epoxyeicosatrienoic acids (EETs), which possess various beneficial effects on the cardiovascular system.
+However, whether increasing EETs production by CYP2J2 overexpression in vivo could prevent abdominal aortic aneurysm (AAA) remains unknown.
+Here we investigated the effects of recombinant adeno-associated virus (rAAV)-mediated CYP2J2 overexpression on angiotensin (Ang) II-induced AAA in apoE-deficient mice.
+rAAV-CYP2J2 delivery led to an abundant aortic CYP2J2 expression and increased EETs generation.
+It was shown that CYP2J2 overexpression attenuated matrix metalloproteinase expression and activity, elastin degradation, and AAA formation, which was associated with reduced aortic inflammation and macrophage infiltration.
+In cultured vascular smooth muscle cells (VSMCs), rAAV-mediated CYP2J2 overexpression and EETs markedly suppressed Ang II-induced inflammatory cytokine expression.
+Moreover, overexpressed CYP2J2 and EETs inhibited Ang II-induced macrophage migration in a VSMC-macrophage coculture system.
+We further indicated that these protective effects were mediated by peroxisome proliferator-activated receptor (PPAR)γ activation.
+Taken together, these results provide evidence that rAAV-mediated CYP2J2 overexpression prevents AAA development which is likely via PPARγ activation and anti-inflammatory action, suggesting that increasing EETs levels could be considered as a potential strategy to prevent and treat AAA.

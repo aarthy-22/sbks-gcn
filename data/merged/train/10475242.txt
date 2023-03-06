@@ -1,0 +1,9 @@
+Use of a PPAR gamma-specific monoclonal antibody to demonstrate thiazolidinediones induce PPAR gamma receptor expression in vitro.
+Troglitazone and rosiglitazone (BRL49653), members of the thiazolidinedione (TZD) class of antidiabetic drugs, are peroxisome proliferator-activated receptor gamma (PPARgamma) ligands that induce adipocyte differentiation and increase the expression of PPARgamma protein.
+Here, we report the characterization of a PPARgamma specific monoclonal antibody (MAb), PgammaA53.25, and its use to monitor PPARgamma expression in the noncommitted pluripotent murine mesenchymal stem cell line, C3H10T1/2, treated with TZDs.
+MAb PgammaA53.25 was raised against a region in the N-terminal domain of human PPARgamma shared by splice variants PPARgamma1 and PPARgamma2.
+It recognizes immunizing antigen in enzyme-linked immunoadsorbent assay (ELISA), and does not cross-react with the N-terminal domains of PPARalpha or PPARdelta.
+In Western blotting, PgammaA53.25 reacts with the immunizing antigen as well as distinct protein bands corresponding to the molecular weight of full length PPARgamma from C3H10T1/2 cells and rat tissue lysates.
+In fluorescent microscopy, PgammaA53.25 immunostains nuclei of C3H10T1/2 cells treated with PPARgamma ligands.
+The fluorescence intensity of the treated cells is TZD dose-dependent, and correlates with lipid accumulation consistent with adipogenesis.
+Based on these results, we propose that MAb PgammaA53.25 will be a useful tool for elucidating the role of PPARgamma in fatty acid metabolism and adipocyte differentiation.

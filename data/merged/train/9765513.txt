@@ -1,0 +1,8 @@
+HERG and KvLQT1/IsK, the cardiac K+ channels involved in long QT syndromes, are targets for calcium channel blockers.
+We examined the effects of the calcium channel blockers nitrendipine, diltiazem, verapamil, bepridil, and mibefradil on the cloned HERG and KvLQT1/IsK K+ channels.
+These channels generate the rapid and slow components of the cardiac delayed rectifier K+ current, and mutations can affect them, which leads to long QT syndromes.
+When expressed in transfected COS cells, HERG is blocked in a concentration-dependent manner by bepridil (EC50 = 0.55 microM), verapamil (EC50 = 0.83 microM), and mibefradil (EC50 = 1.43 microM), whereas nitrendipine and diltiazem have negligible effects.
+Steady state activation and inactivation parameters are shifted to more negative values in the presence of the blockers.
+Similarly, KvLQT1/IsK is inhibited by bepridil (EC50 = 10.0 microM) and mibefradil (EC50 = 11.8 microM), while being insensitive to nitrendipine, diltiazem, or verapamil.
+These results demonstrate that both cloned K+ channels HERG and KvLQT1/IsK, which represent together the cardiac delayed rectifier K+ current, are sensitive targets to calcium channel blockers.
+This work may help in understanding the mechanisms of action of verapamil in certain ventricular tachycardia, as well as some of the deleterious adverse cardiac events associated with bepridil.

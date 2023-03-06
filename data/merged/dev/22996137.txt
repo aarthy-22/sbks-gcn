@@ -1,0 +1,9 @@
+Microtubule network is required for insulin-induced signal transduction and actin remodeling.
+Both microtubule and actin are required for insulin-induced glucose uptake.
+However, the roles of these two cytoskeletons and their relationship in insulin action still remain unclear.
+In this work, we examined the morphological change of microtubule/actin and their involvement in insulin signal transduction using rat skeletal muscle cells.
+Insulin rapidly led to microtubule clustering from ventral to dorsal surface of the cell.
+Microtubule filaments were rearranged to create space where new actin structures formed.
+Disruption of microtubule prevented insulin-induced actin remodeling and distal insulin signal transduction, with reduction in surface glucose transporter isoform 4 (GLUT4) and glucose uptake.
+Though microtubule mediated actin remodeling through PKCζ, reorganization of microtubule depended on tyrosine phosphorylation of insulin receptor, the mechanism is different from insulin-induced actin remodeling, which relied on the activity of PI3-kinase and PKCζ.
+We propose that microtubule network is required for insulin-induced signal transduction and actin remodeling in skeletal muscle cells.

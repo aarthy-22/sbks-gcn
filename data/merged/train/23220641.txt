@@ -1,0 +1,6 @@
+Sirtuins as emerging anti-parasitic targets.
+Silent information regulator 2 (Sir2) enzymes or sirtuins are a family of NAD(+)-dependent protein N(ε)-acetyl-lysine (AcK) deacetylases.
+Sirtuins are also evolutionarily conserved proteins that are present in all kingdoms of life ranging from bacteria to humans.
+Interestingly, it was recently found that the sirtuins found in various human parasites (especially the Plasmodium, Trypanosoma, and Leishmania species) were pro-survival for the parasites under various conditions.
+Therefore, these parasitic sirtuins have emerged as novel anti-parasitic therapeutic targets.
+This article reviews the currently available structural, biochemical, pharmacological, and medicinal chemistry studies on these enzymes, and discusses the perspectives of selectively targeting the parasitic sirtuins as a novel therapeutic strategy for the human parasitic diseases.

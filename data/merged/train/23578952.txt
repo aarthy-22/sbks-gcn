@@ -1,0 +1,10 @@
+Monoacylglycerol lipase inhibition-induced changes in plasma corticosterone levels, anxiety and locomotor activity in male CD1 mice.
+The hypothalamus-pituitary-adrenal-axis is strongly controlled by the endocannabinoid system.
+The specific impact of enhanced 2-arachidonoylglycerol signaling on corticosterone plasma levels, however, was not investigated so far.
+Here we studied the effects of the recently developed monoacylglycerol lipase inhibitor JZL184 on basal and stress-induced corticosterone levels in male CD1 mice, and found that this compound dramatically increased basal levels without affecting stress responses.
+Since acute changes in corticosterone levels can affect behavior, JZL184 was administered concurrently with the corticosterone synthesis inhibitor metyrapone, to investigate whether the previously shown behavioral effects of JZL184 are dependent on corticosterone.
+We found that in the elevated plus-maze, the effects of JZL184 on "classical" anxiety-related measures were abolished by corticosterone synthesis blockade.
+By contrast, effects on the "ethological" measures of anxiety (i.e. risk assessment) were not affected by metyrapone.
+In the open-field, the locomotion-enhancing effects of the compound were not changed either.
+These findings show that monoacylglycerol lipase inhibition dramatically increases basal levels of corticosterone.
+This endocrine effect partly affects the anxiolytic, but not the locomotion-enhancing effects of monoacylglycerol lipase blockade.

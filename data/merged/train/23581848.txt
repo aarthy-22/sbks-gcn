@@ -1,0 +1,9 @@
+Design and synthesis of a tetrahydroisoquinoline-based hydroxamate derivative (ZYJ-34v), an oral active histone deacetylase inhibitor with potent antitumor activity.
+In our previous study we developed a novel series of tetrahydroisoquinoline-based hydroxamic acid derivatives as histone deacetylase (HDAC) inhibitors (Bioorg. Med.
+Chem., 2010, 18, 1761-1772., J. Med.
+Chem., 2011, 54, 2823-2838.), among which compound ZYJ-34c (1) was identified and validated as the most potent one with marked in vitro and in vivo antitumor potency (J. Med.
+Chem., 2011, 54, 5532-5539.).
+Herein further modification of 1 afforded another oral active analogue ZYJ-34v (2) with simplified structure and lower molecular weight.
+Biological evaluation of compound 2 showed efficacious inhibition against HDAC1, 2, 3 and 6, which was confirmed by western blot analysis results.
+Most importantly, compound 2 exhibited similar even more potent in vitro and in vivo antitumor activities relative to the approved HDAC inhibitor SAHA This article is protected by copyright.
+All rights reserved.

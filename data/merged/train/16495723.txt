@@ -1,0 +1,11 @@
+Effects of monoamine oxidase inhibitors on cocaine discrimination in rats.
+This study tested the time course of the discriminative stimulus effects of inhibitors of monoamine oxidase alone or in combination with cocaine.
+Male Sprague-Dawley rats were trained to discriminate cocaine (10 mg/kg, intraperitoneal) from saline using a two-lever choice methodology.
+The nonselective monoamine oxidase inhibitors tranylcypromine (0.01-5 mg/kg) and phenelzine (1-25 mg/kg), the monoamine oxidase-A selective compound clorgyline (1-25 mg/kg), and the monoamine oxidase-B selective compounds pargyline (0.005-50 mg/kg) and selegiline (1-25 mg/kg) were tested for substitution 15 min or 24 h following administration, and in combination with 10 mg/kg of cocaine 24 and 48 h after administration.
+At 15 min, selegiline fully substituted for the discriminative stimulus effects of cocaine, whereas all other compounds partially substituted.
+At 24 h, substitution of cocaine was diminished for all compounds except phenelzine, which produced a greater amount of substitution at 24 h than at 15 min.
+When cocaine was administered 24 h after clorgyline, selegiline, pargyline, and phenelzine, cocaine-appropriate responding was attenuated at intermediate doses of these drugs, whereas the highest doses did not alter cocaine-lever responding.
+All compounds except selegiline substantially decreased response rate and produced various adverse effects.
+At 48 h, the effects of all compounds except phenelzine were markedly reduced.
+Selectivity for monoamine oxidase-A or monoamine oxidase-B did not predict the ability to substitute for or attenuate the subjective effects of cocaine.
+These findings suggest that monoamine oxidase inhibitors can modulate the discriminative stimulus effects of cocaine for at least 24 h, and may be useful for treatment of cocaine abuse.

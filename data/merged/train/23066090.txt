@@ -1,0 +1,6 @@
+A novel EPAC-specific inhibitor suppresses pancreatic cancer cell migration and invasion.
+Exchange protein directly activated by cAMP (EPAC) and cAMP-dependent protein kinase (PKA) are two intracellular receptors that mediate the effects of the prototypic second messenger cAMP.
+Identifying pharmacological probes for selectively modulating EPAC activity represents a significant unmet need within the research field.
+Herein, we report the identification and characterization of 3-(5-tert-butyl-isoxazol-3-yl)-2-[(3-chloro-phenyl)-hydrazono]-3-oxo-propionitrile (ESI-09), a novel noncyclic nucleotide EPAC antagonist that is capable of specifically blocking intracellular EPAC-mediated Rap1 activation and Akt phosphorylation, as well as EPAC-mediated insulin secretion in pancreatic β cells.
+Using this novel EPAC-specific inhibitor, we have probed the functional roles of overexpression of EPAC1 in pancreatic cancer cells.
+Our studies show that EPAC1 plays an important role in pancreatic cancer cell migration and invasion, and thus represents a potential target for developing novel therapeutic strategies for pancreatic cancer.

@@ -1,0 +1,8 @@
+Cell cycle regulation by glucosamine in human pulmonary epithelial cells.
+Airway epithelial cells play an important role against intruding pathogens.
+Glucosamine, a commonly used supplemental compound, has recently begun to be regarded as a potential anti-inflammatory molecule.
+This study aimed to uncover how glucosamine impacts on cellular proliferation in human alveolar epithelial cells (A549) and bronchial epithelial cells (HBECs).
+With trypan blue-exclusion assay, we observed that glucosamine (10, 20, 50 mM) caused a decrease in cell number at 24 and 48 h; with a flow cytometric analysis, we also noted an enhanced cell accumulation within the G(0)/G(1) phase at 24 h and induction of late apoptosis at 24 and 48 h by glucosamine (10, 20, 50 mM) in A549 cells and HBECs.
+Examination of phosphorylation in retinoblastoma (Rb) protein, we found an inhibitory effect by glucosamine at 20 and 50 mM. Glucosamine at 50 mM was demonstrated to elevate both the mRNA and protein expression of p53 and heme oxygenase-1 (HO-1), but also caused a reduction in p21 protein expression.
+In addition, glucosamine attenuated p21 protein stability via the proteasomal proteolytic pathway, as well as inducing p21 nuclear accumulation.
+Altogether, our results suggest that a high dose of glucosamine may inhibit cell proliferation through apoptosis and disturb cell cycle progression with a halt at G(0)/G(1) phase, and that this occurs, at least in part, by a reduction in Rb phosphorylation together with modulation of p21, p53 and HO-1 expression, and nuclear p21 accumulation.

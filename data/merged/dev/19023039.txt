@@ -1,0 +1,12 @@
+Pharmacological characterization of pannexin-1 currents expressed in mammalian cells.
+Pannexin (Panx) 1 is a widely expressed protein that shares structural, but not amino acid, homology with gap junction proteins, the connexins.
+Panx1 does not form gap junctions in mammalian cells, but it may function as a plasma membrane hemichannel.
+Little is known of the pharmacological properties of panx1 expression in mammalian cells.
+Here, we identify three variants in the human PANX1 gene.
+We expressed these variants and mouse Panx1 in mammalian cells and compared Panx1-induced currents.
+All human Panx1 variants and the mouse Panx1 showed identical protein expression levels, localization patterns, and functional properties, although the frequency of functional expression was species-dependent.
+Panx1 currents were independent of changes in extracellular or intracellular calcium or phospholipase C transduction.
+We found compounds that inhibited Panx1 currents with a rank order of potency: carbenoxolone > disodium 4,4'-diisothiocyanatostilbene-2,2'-disulfonate (DIDS) approximately disodium 4-acetamido-4'-isothiocyanato-stilben-2,2'-disulfonate approximately 5-nitro-2-(3-phenylpropylamino)benzoic acid > indanyloxyacetic acid 94 >> probenecid >> flufenamic acid = niflumic acid.
+Triphosphate nucleotides (ATP, GTP, and UTP) rapidly and reversibly inhibited Panx1 currents via mechanism(s) independent of purine receptors.
+When Panx1 was coexpressed with purinergic P2X(7) receptor (P2X(7)R), DIDS was found to act as a P2X(7)R antagonist to inhibit ATP-evoked currents, but none of the other compounds inhibited P2X(7)R currents.
+This is the first detailed pharmacological characterization of Panx1-mediated currents in mammalian cells and sheds new, although contradictory, light on the hypothesis that Panx1 acts as a hemichannel to allow passage of large molecules in response to P2X(7)R activation.

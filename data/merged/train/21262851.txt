@@ -1,0 +1,11 @@
+Inhibition of recombinant L-type voltage-gated calcium channels by positive allosteric modulators of GABAA receptors.
+Benzodiazepines (BDZs) depress neuronal excitability via positive allosteric modulation of inhibitory GABA(A) receptors (GABA(A)R).
+BDZs and other positive GABA(A)R modulators, including barbiturates, ethanol, and neurosteroids, can also inhibit L-type voltage-gated calcium channels (L-VGCCs), which could contribute to reduced neuronal excitability.
+Because neuronal L-VGCC function is up-regulated after long-term GABA(A)R modulator exposure, an interaction with L-VGCCs may also play a role in physical dependence.
+The current studies assessed the effects of BDZs (diazepam, flurazepam, and desalkylflurazepam), allopregnanolone, pentobarbital, and ethanol on whole-cell Ba(2+) currents through recombinant neuronal Ca(v)1.2 and Ca(v)1.3 L-VGCCs expressed with beta(3) and alpha(2)delta-1 in HEK293T cells.
+Allopregnanolone was the most potent inhibitor (IC(50), approximately 10 muM), followed by BDZs (IC(50), approximately 50 muM), pentobarbital (IC(50), 0.3-1 mM), and ethanol (IC(50), approximately 300 mM).
+Ca(v)1.3 channels were less sensitive to pentobarbital inhibition than Ca(v)1.2 channels, similar to dihydropyridine (DHP) L-VGCC antagonists.
+All GABA(A)R modulators induced a negative shift in the steady-state inactivation curve of Ca(v)1.3 channels, but only BDZs and pentobarbital induced a negative shift in Ca(v)1.2 channel inactivation.
+Mutation of the high-affinity DHP binding site (T1039Y and Q1043M) in Ca(v)1.2 channels reduced pentobarbital potency.
+Despite the structural similarity between benzothiazepines and BDZs, mutation of an amino acid important for diltiazem potency (I1150A) did not affect diazepam potency.
+Although L-VGCC inhibition by BDZs occurred at concentrations that are possibly too high to be clinically relevant and is not likely to play a role in the up-regulation of L-VGCCs during long-term treatment, pentobarbital and ethanol inhibited L-VGCCs at clinically relevant concentrations.

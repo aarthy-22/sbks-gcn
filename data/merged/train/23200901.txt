@@ -1,0 +1,9 @@
+The role of efflux transporters on the transport of highly toxic aconitine, mesaconitine, hypaconitine, and their hydrolysates, as determined in cultured Caco-2 and transfected MDCKII cells.
+Aconitum alkaloids including aconitine (AC), mesaconitine (MA), hypaconitine (HA), are highly toxic.
+Their hydrolysates, such as benzoylaconine (BAC), benzoylmesaconine (BMA), benzoylhypaconine (BHA), aconine, and mesaconine, are considerably less toxic.
+Efflux transporters, including P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), and multidrug resistance-associated protein isoform 2 (MRP2), act as a first line of defence and play key roles in toxicity prevention.
+The aim of the present study was to determine the role of efflux transporters in the transport of Aconitum alkaloids using cultured Caco-2, MDR1-MDCKII and BCRP-MDCKII cells.
+Bidirectional transport assays of the Aconitum alkaloids were performed with or without P-gp (cyclosporine A and verapamil), BCRP (Ko143) and MRP2 (MK571) inhibitors.
+The efflux ratios (Er) of AC, MA, and HA in Caco-2 cells were 34.6±4.2, 29.7±2.1, and 15.6±2.1, respectively; those of BAC, BMA, and BHA were approximately 4, and those of aconine and mesaconine were equal to 1.
+The Er values of AC, MA, and HA in MDR1-MDCKII and BCRP-MDCKII cells were significantly higher than those in parental MDCKII cells.
+Taken together the results of Er values and intracellular amounts in the presence of inhibitors, P-gp and BCRP were involved in the transport of AC, MA and HA; and MRP2 might transport AC, MA, HA, BAC, BMA and BHA.

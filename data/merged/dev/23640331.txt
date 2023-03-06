@@ -1,0 +1,9 @@
+Progesterone receptor induces bcl-x expression through intragenic binding sites favoring RNA polymerase II elongation.
+Steroid receptors were classically described for regulating transcription by binding to target gene promoters.
+However, genome-wide studies reveal that steroid receptors-binding sites are mainly located at intragenic regions.
+To determine the role of these sites, we examined the effect of progestins on the transcription of the bcl-x gene, where only intragenic progesterone receptor-binding sites (PRbs) were identified.
+We found that in response to hormone treatment, the PR is recruited to these sites along with two histone acetyltransferases CREB-binding protein (CBP) and GCN5, leading to an increase in histone H3 and H4 acetylation and to the binding of the SWI/SNF complex.
+Concomitant, a more relaxed chromatin was detected along bcl-x gene mainly in the regions surrounding the intragenic PRbs.
+PR also mediated the recruitment of the positive elongation factor pTEFb, favoring RNA polymerase II (Pol II) elongation activity.
+Together these events promoted the re-distribution of the active Pol II toward the 3'-end of the gene and a decrease in the ratio between proximal and distal transcription.
+These results suggest a novel mechanism by which PR regulates gene expression by facilitating the proper passage of the polymerase along hormone-dependent genes.

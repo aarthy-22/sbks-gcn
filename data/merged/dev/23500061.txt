@@ -1,0 +1,11 @@
+Anti-apoptotic cardioprotective effects of SHP-1 gene silencing against ischemia-reperfusion injury: Use of deoxycholic acid-modified low molecular weight polyethyleneimine as a cardiac siRNA-carrier.
+The cardiomyocyte apoptosis plays a critical role in the development of myocardial injury after ischemia and reperfusion.
+Thus, alteration of the major apoptosis-regulatory factors during myocardial ischemia-reperfusion is expected to have favorable cardioprotective effects.
+Herein, we report ischemic-reperfused myocardial infarction (MI) repair with siRNA against Src homology region 2 domain-containing tyrosine phosphatase-1 (SHP-1), which is known as a key factor involved in regulating the progress of apoptosis in many cell types.
+A low molecular weight polyethyleneimine modified with deoxycholic acid (PEI1.8-DA)-based delivery strategy was suggested for the cardiac application of SHP-1 siRNA to overcome the poor gene delivery efficiency to myocardium due to the highly charged structures of the compact cardiac muscles.
+The PEI1.8-DA conjugates formed stable nanocomplexes with SHP-1 siRNA via electrostatic and hydrophobic interactions.
+The PEI1.8-DA/SHP-1 siRNA polyplexes effectively silenced SHP-1 gene expression in cardiomyocytes, leading to a significant inhibition of cardiomyocyte apoptosis under hypoxia.
+In comparison to conventional gene carriers, relatively large amounts of siRNA molecules remained after treatment with the PEI1.8-DA/SHP-1 siRNA polyplexes.
+Cardiac administration of the PEI1.8-DA/SHP-1 siRNA polyplexes resulted in substantial improvement in SHP-1 gene silencing, which can be explained by the enhancement of cardiac delivery efficiency of the PEI1.8-DA conjugates.
+In addition, in vivo treatment with the PEI1.8-DA/SHP-1 siRNA polyplexes induced a highly significant reduction in myocardial apoptosis and infarct size in rat MI models.
+These results demonstrate that the PEI1.8-DA/SHP-1 siRNA polyplex formulation is a useful system for efficient gene delivery into the compact myocardium that provides a fundamental advantage in treating ischemic-reperfused MI.

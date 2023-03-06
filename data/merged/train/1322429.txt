@@ -1,0 +1,12 @@
+Effects of loperamide on the human hypothalamo-pituitary-adrenal axis in vivo and in vitro.
+Loperamide, an opiate agonist of high specificity for mu-receptors, was recently reported to suppress ACTH and cortisol levels in normal subjects, but not in patients with proven ACTH-dependent Cushing's disease.
+However, there is little information on the site of action of loperamide in the hypothalamo-pituitary-adrenal axis of man.
+We investigated the effect of loperamide on pituitary hormone secretion in vivo and in vitro.
+In seven normal subjects, basal ACTH plasma levels were significantly suppressed 3 h after loperamide administration (16 mg, orally) from 5 +/- 1 to 2 +/- 0 pmol/L (P less than 0.0001).
+After the combined pituitary stimulation test (100 micrograms human CRH, 100 micrograms GnRH, 100 micrograms GH-releasing hormone, and 200 micrograms TRH), the ACTH peak (maximum increase at 30 min) was significantly blunted by loperamide from 9 +/- 1 to 4 +/- 1 pmol/L (P less than 0.001) and the area under the curve of ACTH from 0-120 min was reduced from 35 +/- 5 to 23 +/- 4 pmol/L.2 h (P less than 0.05).
+In the insulin-hypoglycemia test (0.15 IU/kg BW), neither the ACTH peak nor the area under the curve of ACTH was affected by loperamide.
+In six patients with Cushing's disease and one patient with secondary adrenal insufficiency due to hypothalamic failure, neither basal ACTH and cortisol levels nor CRH-stimulated levels were influenced by loperamide.
+In four cultured human corticotropic adenomas, loperamide was not able to reduce basal and CRH-induced ACTH secretion.
+In summary, loperamide is able to reduce basal and CRH-induced ACTH and cortisol levels in normal subjects, but not in patients with Cushing's disease or secondary adrenal failure of hypothalamic origin.
+Loperamide has no significant effect on insulin-hypoglycemia-induced ACTH and cortisol levels and, therefore, no effect on stress-induced elevation of cortisol levels.
+Loperamide might act at a suprapituitary site in man in vivo, but, nevertheless, a pituitary site cannot be excluded.

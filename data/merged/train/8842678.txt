@@ -1,0 +1,12 @@
+Effects of long-term treatment with dicyclic, tricyclic, tetracyclic, and noncyclic antidepressant drugs on monoamine oxidase activity in mouse brain.
+1.
+The individual long-term effects of the antidepressant drugs zimeldine, viloxazine, imipramine, amitriptyline, nortriptyline, maprotiline, or nomifensine, on brain mitochondrial monoamine oxidase (MAO) activity, were studied in mice that were given daily intraperitoneal injections (30 mg/kg) of these reagents for 4 weeks.
+2.
+Both the A-form (MAO-A) and B-form (MAO-B) of MAO were inhibited after long-term administration of all the drugs except nortriptyline (MAO-A was not affected) and maprotiline (neither MAO-A nor MAO-B were affected).
+3.
+Kinetic analysis showed a significant decrease in Vmax values, and an increase in K(m) values for MAO-B during treatment.
+4.
+All seven drugs are competitive inhibitors of MAO-A, noncompetitive inhibitors of MAO-B, and were more potent in vitro for MAO-B. 5.
+MAO-A was inhibited by the following drugs (in ascending order of potency) : nortriptyline, amitriptyline, imipramine, maprotiline, zimeldine, nomifensine, and viloxazine.
+6.
+MAO-B was inhibited by the following drugs (in ascending order of potency): nortriptyline, imipramine, maprotiline, amitriptyline, zimeldine, nomifensine, and viloxazine.

@@ -1,0 +1,12 @@
+TNF-α-induced CXCL8 production by A549 cells: involvement of the non-neuronal cholinergic system.
+It was recently suggested that the non-neuronal cholinergic system has a regulatory role in pulmonary inflammation.
+We investigated this system's involvement in the control of cytokine production by the A549 human alveolar epithelial cell line.
+CXCL8 and acetylcholine (ACh) concentrations were measured using ELISA and LC-MS/MS, respectively.
+The mRNA expression of muscarinic receptor (MR) subtypes was determined using RT-PCR.
+In A549 cells, TNF-α increased the release of CXCL8 and ACh and the expression of the subtype 3 MR (M3R).
+Furthermore, TNF-α-induced CXCL8 secretion was (i) inhibited by the MR antagonist tiotropium and the M3R antagonist 4-DAMP and (ii) enhanced by the M1/M3R agonist pilocarpine and the cholinesterase inhibitor physostigmine.
+Taken as a whole, these results suggest that ACh release by A549 cells enhances TNF-α-induced CXCL8 secretion through activation of the M3R.
+Western blot analysis revealed that pilocarpine and physostigmine enhanced the TNF-α-induced phosphorylation of ERK1/2 and p38 MAPK and the degradation of IκBα.
+Inhibition of these pathways with specific inhibitors abrogated the pilocarpine-induced CXCL8 release.
+Our results suggest that the TNF-α-induced secretion of CXCL8 in A549 cells is regulated by the release of ACh, the latter's binding to the M3R and the downstream activation of NF-κB and the ERK1/2 and p38 MAPK signaling pathways.
+Our findings suggest that MR antagonists may have anti-inflammatory effects by preventing pro-inflammatory events driven by endogenous, non-neuronal ACh.

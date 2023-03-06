@@ -1,0 +1,12 @@
+Pharmacodynamics and pharmacokinetics of phenylbutazone in calves.
+Phenylbutazone (PBZ) was administered to six calves intravenously (i.v.) and orally at a dose rate of 4.4 mg/kg in a three-period cross-over study incorporating a placebo treatment to establish its pharmacokinetic and pharmacodynamic properties.
+Extravascular distribution was determined by measuring penetration into tissue chamber fluid in the absence of stimulation (transudate) and after stimulation of chamber tissue with the mild irritant carrageenan (exudate).
+PBZ pharmacokinetics after i.v.
+dosage was characterized by slow clearance (1.29 mL/kg/h), long-terminal half-life (53.4 h), low distribution volume (0.09 L/kg) and low concentrations in plasma of the metabolite oxyphenbutazone (OPBZ), confirming previously published data for adult cattle.
+After oral dosage bioavailability (F) was 66%.
+Passage into exudate was slow and limited, and penetration into transudate was even slower and more limited; area under curve values for plasma, exudate and transudate after i.v.
+dosage were 3604, 1117 and 766 microg h/mL and corresponding values after oral dosage were 2435, 647 and 486 microg h/mL. These concentrations were approximately 15-20 (plasma) and nine (exudate) times greater than those previously reported in horses (receiving the same dose rate of PBZ).
+In the horse, the lower concentrations had produced marked inhibition of eicosanoid synthesis and suppressed the inflammatory response.
+The higher concentrations in calves were insufficient to inhibit significantly exudate prostaglandin E2 (PGE2), leukotriene B4 (LTB4) and beta-glucuronidase concentrations and exudate leucocyte numbers, serum thromboxane B2 (TxB2), and bradykinin-induced skin swelling.
+These differences from the horse might be the result of: (a) the presence in equine biological fluids of higher concentrations than in calves of the active PBZ metabolite, OPBZ; (b) a greater degree of binding of PBZ to plasma protein in calves; (c) species differences in the sensitivity to PBZ of the cyclo-oxygenase (COX) isoenzymes, COX-1 and COX-2 or; (d) a combination of these factors.
+To achieve clinical efficacy with single doses of PBZ in calves, higher dosages than 4.4 mg/kg will be probably required.

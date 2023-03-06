@@ -1,0 +1,10 @@
+2-Hydroxy-3-methylanthraquinone from Hedyotis diffusa Willd induces apoptosis in human leukemic U937 cells through modulation of MAPK pathways.
+The herb of Hedyotis diffusa Willd (H. diffusa Willd), an annual herb distributed in northeastern Asia, has been known as a traditional oriental medicine for the treatment of cancer.
+Recently, Chinese researchers have discovered that two anthraquinones isolated from a water extract of H. diffusa Willd showed apoptosis-inducing effects against cancer cells.
+However, the cellular and molecular mechanisms responsible for this phenomenon are poorly understood.
+The current study determines the role of mitogen-activated protein kinases (MAPK) in human leukemic U937 cells apoptosis induced by 2-hydroxy-3-methylanthraquinone from H. diffusa.
+Our results showed that 2-hydroxy-3-methylanthraquinone decreased phosphorylation-ERK1/2 (p-ERK1/2), and increased p-p38MAPK, but did not affect expressions of p-JNK1/2 in U937 cells.
+Moreover, treatment of U937 cells with 2-hydroxy-3-methylanthraquinone resulted in activation of caspase-3.
+Furthermore, PD98059 (ERK1/2 inhibitor) significantly enhanced 2-hydroxy-3-methylanthraquinone-induced apoptosis in U937 cells, whereas caspase-3 inhibitor or SB203580 (p-p38MAPK inhibitor), decreased apoptosis in U937 cells.
+Taken together, our study for the first time suggests that 2-hydroxy-3-methylanthraquinone is able to enhance apoptosis of U937 cells, at least in part, through activation of p-p38MAPK and downregulation of p-ERK1/2.
+Moreover, the triggering of caspase-3 activation mediated apoptotic induction.

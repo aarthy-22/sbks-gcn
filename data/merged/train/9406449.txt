@@ -1,0 +1,8 @@
+Species differences between chickens and rats in chemical properties of adipose tissue lipoprotein lipase.
+Chemical characterization of chicken and rat lipoprotein lipase (LPL) was carried out following purification of LPL.
+Molecular weight and isoelectric point of both purified enzymes were determined to be 60 KDa and pH 4, while optimum temperature and pH to yield the maximal activity were about 37 degrees C and pH 8.5.
+Metallic ions, NaCl and protamine sulfate reduced, and heparin increased, both LPL activities.
+Michaelis constants for LPLs determined with triolein emulsion as the substrate were 0.98 and 1.57, and those of Vmax were 379.2 and 181.3, in chickens and rats, respectively.
+Triton WR-1339 caused mixed-type inhibition in rat, but inhibited chicken LPL noncompetitively.
+In LPLs of chickens and rats, values of Ki were 66.7 and 36.4 with triolein emulsion as the substrate, and 832.4 and 66.0 with respective VLDL as the substrate.
+These results show species difference between chickens and rats in the affinity to lipoproteins of LPL and inhibition of LPL by Triton WR-1339.

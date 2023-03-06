@@ -1,0 +1,8 @@
+Effectiveness of endopeptidase inhibition (candoxatril) in congestive heart failure.
+Candoxatril is a novel, orally active inhibitor of neutral endopeptidase EC 3.4.24.11, the enzyme that degrades atrial natriuretic peptide (ANP).
+The acute and chronic (10 days treatment) hemodynamic and hormonal effects of candoxatril (150 mg twice daily) in 12 patients with moderately severe congestive heart failure were investigated in a randomized, placebo-controlled, double-blind study.
+On study day 1, candoxatril acutely increased plasma ANP levels, suppressed aldosterone and decreased right atrial and pulmonary capillary wedge pressures.
+After 10 days of treatment, basal ANP was increased and basal aldosterone was decreased.
+Body weight was reduced, most likely reflecting chronic natriuretic or diuretic effects, or both, and there was a trend toward increased cardiac index and reduced preload values.
+On study day 10, the acute effects of candoxatril were similar to those on day 1 (i.e., ANP was further increased, aldosterone was suppressed, and right and left ventricular filling pressures were decreased).
+Thus, candoxatril may offer a new and effective therapeutic approach in the treatment of heart failure.

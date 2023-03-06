@@ -1,0 +1,12 @@
+A novel variant L263F in human inosine 5'-monophosphate dehydrogenase 2 is associated with diminished enzyme activity.
+BACKGROUND AND OBJECTIVE: Inosine 5'-monophosphate dehydrogenase 2 is required for purine synthesis in activated lymphocytes.
+Variants in the IMPDH2 gene may account for the large inter-individual variability in baseline enzyme activity, immunosuppressive efficacy and side effects in transplant recipients receiving mycophenolic acid.
+Therefore, the objective of this study was to identify and functionally characterize IMPDH2 variants.
+METHODS: DNA samples from 152 solid organ transplant patients were screened at exons and exon/intron junctions of the IMPDH2 genes by PCR amplification followed by bidirectional direct DNA sequencing.
+Genetic variant was constructed by site-directed mutagenesis and transformed to an inosine 5'-monophosphate dehydrogenase-deficient strain of Escherichia coli h712.
+Proteins were purified to homogeneity and the enzymatic activity was measured by reduced nicotinamide adenine dinucleotide production.
+RESULTS: Nine genetic variants were identified in the IMPDH2 gene, with frequencies of the rarer alleles ranging from 0.5 to 10.2%.
+A novel nonsynonymous variant L263F was identified, and the kinetic assay demonstrated that the inosine 5'-monophosphate dehydrogenase activity of L263F variant was decreased to 10% of the wild-type.
+The Ki for mycophenolic acid inhibition of the L263F variant was comparable with the wild-type, and the variant Km for inosine 5'-monophosphate and nicotinamide adenine dinucleotide did not change significantly.
+CONCLUSIONS: IMPDH2 has low genetic diversity, but the nonsynonymous variant L263F has a significant impact on inosine 5'-monophosphate dehydrogenase activity.
+This novel functional variant may be one of the factors contributing to the inter-individual difference of baseline inosine 5'-monophosphate dehydrogenase activity as well as drug efficacy and adverse events in transplant patients.

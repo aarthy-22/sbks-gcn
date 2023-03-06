@@ -1,0 +1,8 @@
+Regions on adenylyl cyclase VII required for selective regulation by the G13 pathway.
+Regulation of multiple adenylyl cyclases (AC) provides unique inputs to mediate the synthesis of cAMP, a ubiquitous second messenger that controls many aspects of cellular function.
+On stimulation by G(s), the activities of ACs can be further selectively modulated by other pathways to ensure precise control of intracellular cAMP responses to specific stimuli.
+Recently, we reported that one of the AC isoforms, AC7, is uniquely regulated by the G(13) pathway.
+To understand more fully the molecular mechanism of this regulation, we compared the regulation of AC7 with that of AC2 in bone marrow-derived macrophages devoid of AC7.
+Although both enzymes could fully restore regulation of cAMP by Gβγ, activation of the G(13) pathway preferentially synergized with AC7.
+Exchange of domains between the two isoforms indicates that the C1b domain and the N-terminus of the C1a domain are important for directing selective regulation of AC7 by the G(13) pathway.
+A mutagenesis screen identified more specific regions of AC7 that differentially mediate its regulation by distinct pathways.

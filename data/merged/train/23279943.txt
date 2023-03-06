@@ -1,0 +1,12 @@
+Potential prevention and treatment of maifanite for Alzheimer's disease based on behavior test, oxidative stress assay, and trace element analysis in hippocampus of Aβ(₂₅₋₃₅)-induced AD rats.
+This study aimed to assess whether maifanite can improve the learning and memory, and antioxidant abilities of Alzheimer's disease (AD) rats.
+The 70 rats were divided into seven groups: [A] normal control group, [B] AD model group, [C] sham group, [D] positive control group (donepezil), [E] low-dose maifanite group, [F] middle-dose maifanite group, [G] high-dose maifanite group.
+For [B], [D], [E], [F], and [G] groups, Aβ(25-35) ventricle injection was carried out, then respective medicine were administered once a day for 60 consecutive days.
+The step-down and step-through test were used to measure learning and memory ability.
+The hippocampus levels of superoxide dismutase (SOD), glutathione peroxidase (GSH-Px), and malondialdehyde (MDA) were assayed.
+The hippocampus contents of Al, Fe, Cu, Zn, Se, and Mn were analyzed by inductively coupled plasma-atomic emission spectrometer.
+Maifanite decreased the acquisition errors and the retention errors while prolonging the step-down latency, and decreased the number of electric shocks while prolonging the first latency of AD rats.
+Aβ(25-35) ventricle injection initiated the decrease of SOD and GSH-Px activities and the increase of MDA content, and triggered the rise of Al, Fe, and Cu levels and the decline of Mn, Zn, and Se levels.
+The SOD and GSH-Px activities were enhanced followed by reduced MDA level, and the levels of Mn, Zn, and Se increased accompanied by Al, Fe, and Cu decreased in the maifanite treat groups.
+Maifanite could improve the learning and memory, and the antioxidant abilities of AD rats.
+Maifanite had the potential prevention and treatment for AD.

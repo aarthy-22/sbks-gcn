@@ -1,0 +1,6 @@
+3D structures and ligand specificities of nuclear xenobiotic receptors CAR, PXR and VDR.
+The nuclear receptors constitutive androstane receptor (CAR), pregnane X receptor (PXR) and vitamin D receptor (VDR) control a large array of genes that code for important proteins in humans including metabolic enzymes and transporters.
+3D structures for the ligand-binding domain (LBD) of these receptors are abundantly available, providing valuable insights into the ligand-binding specificity as well as the activation mechanisms.
+The ligand-binding site of PXR is large and flexible, whereas those of CAR and VDR are compact and rigid, respectively.
+In general, the ligand profiles of the receptors are in agreement with the LBD structures.
+The crystal structures have greatly helped us to understand the promiscuity and/or specificity of CAR, PXR and VDR.

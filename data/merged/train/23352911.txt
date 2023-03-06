@@ -1,0 +1,9 @@
+Encapsulation of Nod1 and Nod2 receptor ligands into poly(lactic acid) nanoparticles potentiates their immune properties.
+Most successful vaccines are able to induce persistent antibody responses that can last a lifetime.
+Emerging evidences indicate that activation of immune cells through pattern recognition receptors (PRRs) such as Toll-like receptors (TLRs) or Nod-like receptors (NLRs) may be critical mechanisms.
+Among PRRs, the use of TLR ligands as adjuvants is already largely described whereas the use of NLRs ligands remains largely unexplored.
+As activation of intracytoplasmic NLRs is able to induce proinflammatory molecules, the added value of encapsulation of Nod1 and Nod2 receptor ligands into Poly(Lactic Acid) (PLA) biodegradable nanocarriers to modulate their immune properties on human dendritic cells (DCs) maturation has been evaluated.
+Their ability to induce systemic immune responses in mice was also measured and compared to free ligands and the Alum adjuvant.
+Nod ligands encapsulated into PLA NPs were efficiently taken up by DCs and subsequently induced a strong up-regulation of maturation markers and the enhancement of proinflammatory cytokine secretion by DCs.
+Furthermore, co-injection of encapsulated Nod-ligands with PLA particles carrying Gag p24 HIV-1 antigen allowed a 100 fold increase in antibody responses in comparison to Alum.
+These results suggest that encapsulation of Nod ligands into PLA-NPs could be an effective way to improve vaccine efficiency.

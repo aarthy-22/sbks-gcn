@@ -1,0 +1,14 @@
+Estrogen receptor signaling as a target for novel breast cancer therapeutics.
+In breast cancer (BC) epithelial cells, the mitogenic action of estradiol is transduced through binding to two receptors, ERα and ERβ, which act as transcription factors.
+Anti-estrogens (AEs) and aromatase inhibitors (AIs) are used clinically to arrest the estrogen-dependent growth of BC.
+In the case of AE or AI resistance, Herceptin or lapatinib may be used to inhibit growth factors.
+Estrogen effects are mediated not only through nuclear ERs but also through cytoplasmic/membrane ERs and G-protein-coupled ERs.
+These estrogen-binding systems associate with various proteins that direct cell cycle signaling, proliferation and survival.
+The partners of nuclear ER include SRC1-3, HDACs and ERβ itself as well as newly identified proteins, such as E6-AP, LKB1, PELP1, PAX-2 and FOXA1.
+The partners of extra-nuclear ERα include PI3K and the tyrosine kinase Src.
+These various factors are all potential targets for therapeutic intervention.
+In addition, BC proliferation is enhanced by insulin and EGF, which stimulate signaling through the MAPK and PI3K/AKT pathways by activation of the IGF-1R and EGFR axes, respectively.
+These pathways are tightly interconnected with ER-activated signaling, and membrane ERα forms complexes with Src and PI3K.
+Chemokine-mediated signaling also modulates the estrogen response.
+Inhibiting these pathways with specific inhibitors or activating some of the pathways by gene manipulation may be therapeutically valuable for arresting BC cell cycle progression and for inducing apoptosis to antagonize hormone-resistance.
+Here, we review some newly identified putatively targetable ER partners and highlight the need to develop tumor-targeting drug carrier systems affecting both the tumor cells and the tumor environment.

@@ -1,0 +1,12 @@
+Hypoxia-response element (HRE)-directed transcriptional regulation of the rat lysyl oxidase gene in response to cobalt and cadmium.
+Lysyl oxidase (LO) catalyzes crosslink of collagen, elastin, and histone H1, stabilizing the extracellular matrix and cell nucleus.
+This enzyme displays dual functions for tumorigenesis, i.e., as a tumor suppressor inactivating the ras oncogene and as a tumor promoter enhancing malignant cell metastasis.
+To elucidate LO transcriptional regulation, we have cloned the 804 base pair region upstream of the translation start site (ATG) of the rat LO gene with the maximal promoter activity.
+Computer analysis indicated that at least four hypoxia-response element (HRE) consensuses (5'-ACGTG-3') exist in the cloned LO promoter.
+Treatment of rat lung fibroblasts (RFL6) with CoCl2 (Co, 10-100 μM), a chemical hypoxia reagent, enhanced LO mRNA expression and promoter activities.
+Overexpression of LO was associated with upregulation of hypoxia-inducible factor (HIF)-1α at mRNA levels in cobalt (Co)-treated cells.
+Thus, LO is a hypoxia-responsive gene.
+Dominant negative-HIF-1α inhibited LO promoter activities stimulated by Co. Electrophoretic mobility shift, oligonucleotide competition, and in vitro translated HIF-1α binding assays indicated that only one HRE mapped at -387/-383 relative to ATG was functionally active among four consensuses.
+Site-directed mutation of this HRE significantly diminished the Co-induced and LO promoter-directed expression of the reporter gene.
+Cadmium (Cd), an inducer of reactive oxygen species, inhibited HIF-1α mRNA expression and HIF-1α binding to the LO gene in Co-treated cells as revealed by RT-PCR and ChIP assays, respectively.
+Thus, modulation of the HRE activity by Co and Cd plays a critical role in LO gene transactivation.

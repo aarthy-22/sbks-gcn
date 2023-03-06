@@ -1,0 +1,8 @@
+Dietary relevant mixtures of phytoestrogens inhibit adipocyte differentiation in vitro.
+Phytoestrogens (PEs) are naturally occurring plant components, with the ability to induce biological responses in vertebrates by mimicking or modulating the action of endogenous hormones.
+Single isoflavones have been shown to affect adipocyte differentiation, but knowledge on the effect of dietary relevant mixtures of PEs, including for instance lignans, is lacking.
+In the current study dietary relevant mixtures of isoflavones and their metabolites, lignans and their metabolites, coumestrol, and a mixture containing all of them, were examined for effects on adipogenesis in 3T3-L1 adipocytes, as well as tested for their PPARγ activating abilities.
+The results showed that mixtures of isoflavonoid parent compounds and metabolites, respectively, a mixture of lignan metabolites, as well as coumestrol concentration-dependently inhibited adipocyte differentiation.
+Furthermore, a mixture of isoflavonoid parent compounds, and a mixture of isoflavonoid metabolites were found to have PPARγ activating abilities.
+These results suggest that PEs can affect pathways known to play a role in obesity development, and indicate that the inhibitory effect on adipocyte differentiation does not appear to be strictly associated with PPARγ activation/inhibition.
+The current study support the hypothesis that compounds with endocrine activity can affect pathways playing a role in the development obesity and obesity related diseases.

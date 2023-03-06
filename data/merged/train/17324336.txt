@@ -1,0 +1,9 @@
+Genetic linkage of Fc gamma RIIa and Fc gamma RIIIa and implications for their use in predicting clinical responses to CD20-directed monoclonal antibody therapy.
+BACKGROUND: Polymorphisms in FcgammaRIIa and FcgammaRIIIa receptors are associated with responses to the CD20-directed immunoglobulin G1 (IgG1) monoclonal antibody rituximab among patients with indolent lymphoma.
+At odds with the aforementioned clinical observations has been the finding that IgG1 binding is impacted by polymorphisms in FcgammaRIIIa but not FcgammaRIIa.
+One possibility for this discrepancy might involve linkage of polymorphisms between FcgammaRIIa and FcgammaRIIIa.
+MATERIALS AND METHODS: As such, we performed allelespecific polymerase chain reaction and directed sequencing of the genomic DNA coding region of FcgammaRIIA and FcgammaRIIIA for 52 healthy individuals.
+RESULTS: Two common polymorphisms were observed for FcgammaRIIA (at positions 27 and 131) and FcgammaRIIIA (at positions 48 and 158).
+Importantly, we observed linkage among polymorphisms within and between FcgammaRIIa and FcgammaRIIIa, including the expression of histidine at FcgammaRIIa-131 and valine at FcgammaRIIIa, both of which are associated with enhanced responses to rituximab.
+The results of these studies demonstrate that there is wide linkage within and between polymorphisms in FcgammaRIIa and FcgammaRIIIa and might provide an explanation for why polymorphisms at FcgammaRIIa are associated with rituximab responses despite a lack of impact on IgG1 binding.
+CONCLUSION: Knowledge of such linkages could facilitate the development of diagnostic tests aimed at identifying patients who might be more suitable for treatment with rituximab and possibly other therapeutic antibodies.

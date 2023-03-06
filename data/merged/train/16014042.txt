@@ -1,0 +1,12 @@
+Cystine and glutamate transport in renal epithelial cells transfected with human system x(-) (c).
+BACKGROUND: System x(-) (c) is a heterodimeric transporter, comprised of a light chain, xCT, and heavy chain, 4F2hc, which mediates the sodium-independent exchange of cystine and glutamate at the plasma membrane.
+In the current study we tested the hypothesis that stable transfection of Madin-Darby canine kidney (MDCK) cells with human xCT and 4F2hc results in the expression of functional system x(-) (c).
+METHODS: MDCK cells were transfected stably with human clones for xCT and 4F2hc.
+Analyses of time- and temperature-dependence, saturation kinetics, and substrate specificity of l-cystine and l-glutamate transport were carried out in control and xCT-4F2hc-transfected MDCK cells.
+We also measured the uptake of l-cystine in Xenopus oocytes expressing human xCT and/or 4F2hc or xCT and/or rBAT (a heavy chain homologous to 4F2hc).
+RESULTS: All of the different sets of data revealed that transport of l-cystine and l-glutamate increased significantly (twofold to threefold) in the MDCK cells subsequent to transfection with xCT-4F2hc.
+Moreover, uptake of l-cystine also increased (about tenfold) in Xenopus oocytes expressing hxCT and h4F2hc.
+Biochemical analyses of l-cystine uptake in oocytes verified our findings in the transfected MDCK cells.
+Interestingly, in oocytes injected with rBAT with or without xCT, uptake of l-cystine was significantly greater than that in water-injected oocytes.
+CONCLUSION: Our findings indicate that stable transfection of MDCK cells with xCT and 4F2hc results in a cell-line expressing a functional system x(-) (c) transporter that can utilize l-cystine and l-glutamate as substrates.
+This study apparently represents the first stable transfection of a mammalian cell line with system x(-) (c).

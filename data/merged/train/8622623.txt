@@ -1,0 +1,9 @@
+5-Carboxamido-tryptamine, CP-122,288 and dihydroergotamine but not sumatriptan, CP-93,129, and serotonin-5-O-carboxymethyl-glycyl -tyrosinamide block dural plasma protein extravasation in knockout mice that lack 5-hydroxytryptamine1B receptors.
+We studied the dural plasma protein extravasation response after unilateral electrical stimulation of the trigeminal ganglion in mice lacking serotonin 5-HT1B (5-HT1D beta) receptors by modifying a technique previously described in rats or guinea pigs.
+We investigated the inhibitory effects of six 5-HT1 receptor agonists in this model: 3-(1,2,5,6-tetrahydropyrid-4-yl)pyrrolo[3,2-b]pyrid-5-one (CP-93,129), sumatriptan, serotonin-5-O-carboxymethyl-glycyl -tyrosinamide (GTI), 5-methylaminosulfonylmethyl-3-(N-methylpyrrolidin-2R -ylmethyl)-1H-indole (CP-122,288), 5-carboxamido-tryptamine (5-CT), and dihydroergotamine.
+The plasma extravasation response did not differ between wild-type and mutant after vehicle injection.
+The potency of sumatriptan, CP-122,288, CP-93,129, and 5-CT in wild-type mice was similar to that previously reported for rats.
+CP-122,288 (1 nmol kg), 5-CT (1 nmol/kg), and dihydroergotamine (72 nmol/kg) inhibited plasma protein extravasation within dura mater after electrical trigeminal ganglion stimulation in both wild-type and knockout mice, which suggests that these agonists act predominantly via receptors other than 5-HT1B.
+Unlike the wild-type mice, CP-93,129 (1.4 mumol/kg), a specific 5-HT1B receptor agonist, had no effect in knockout mice.
+The same held true for sumatriptan (0.7 mumol/kg) and GTI (0.6 mumol/kg).
+These results suggest that CP-93,129, sumatriptan, and GTI exert their effects via 5-HT1B (5-HT1D beta) receptors in mice.

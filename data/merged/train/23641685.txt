@@ -1,0 +1,18 @@
+Cavity Ringdown Spectroscopy of the Hydroxy-Methyl-Peroxy Radical.
+We report vibrational and electronic spectra of the hydroxyl-methyl-peroxy radical (HOCH2OO, or HMP), the primary product of the reaction of the hydroperoxy radical, HO2, and formaldehyde, HCHO.
+The ν1 vibrational (OH stretch) spectrum and the Ã-X electronic spectrum of HMP were detected by Infrared Cavity Ringdown Spectroscopy (IR-CRDS), and assignments were verified with density functional calculations.
+The HMP radical was generated in reactions of HCHO with HO2.
+Free radical reactions were initiated by pulsed laser photolysis (PLP) of Cl2 in the presence of HCHO and O2 in a flow reactor at 300-330 Torr and 295K.
+IR-CRDS spectra were measured in mid-IR and near-IR regions over the ranges 3525-3700 cm(-1) (ν1) and 7250-7800 cm(-1) (Ã-X) (respectively, at a delay time 100 µs after photolysis.
+The ν1 spectrum had an origin at 3622 cm(-1) and exhibited partially resolved P- and R-branch contours and a small Q branch.
+At these short delay times, spectral interference from HOOH and HCOOH was minimal, and could be subtracted.
+From B3LYP/6-31G+(d,p) calculations, we found that the anharmonic vibrational frequency and band contour predicted for the lowest energy conformer, HMP-A, The calculated anharmonic vibrational frequency and band contour computed using B3LYP/63-1G(d,p) level were in good agreement with the observed spectrum.
+In the near-IR, we observed four well spaced vibronic bands, each with partially resolved rotational contours.
+We assigned the apparent origin of the electronic spectrum of HMP at 7392 cm(-1) and two bands to the blue to a progression in ν15', the lowest torsional mode of the state (ν15'= 171 cm(-1)).
+The band furthest to the red was assigned as a hot band in ν15", leading to a ground state torsional frequency of (ν15"= 122 cm(-1)).
+We simulated the spectrum using second order vibrational perturbation theory (VPT2) with B3LYP/6-31+G(d,p) calculations at the minimum energy geometries of the HMP-A conformer on the X ̃ and A ̃ states.
+The predictions of the electronic origin frequency, torsional frequencies, anharmonicities and rotational band contours matched the observed spectrum.
+We investigated the torsional modes more explicitly by computing potential energy surfaces of HMP as a function of the two dihedral angles τOCOH and τOOCO.
+Wave functions and energy levels were calculated based on this potential surface; these results were used to calculate the Franck-Condon factors, which reproduced the vibronic band intensities in the observed electronic spectrum.
+The transitions that we observed all involved states with wave functions localized on the minimum energy conformer, HMP-A. Our calculations indicated that the observed near-IR spectrum was that of the minimum energy conformer HMP-A, but that this conformer is not the lowest energy conformer in the state, which remains unobserved.
+We estimated that the energy of this lowest conformer (HMP-B) of the Ã state to be T0 (Ã) ≈ 7200 cm(-1), based on the energy difference E0(HMP-B) - E0(HMP-A) on the Ã state computed at the B3LYP/6-31+G(d,p) level.

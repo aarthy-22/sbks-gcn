@@ -1,0 +1,14 @@
+Cell-cycle and DNA damage regulation of the DNA mismatch repair protein Msh2 occurs at the transcriptional and post-transcriptional level.
+DNA mismatch repair during replication is a conserved process essential for maintaining genomic stability.
+Mismatch repair is also implicated in cell-cycle arrest and apoptosis after DNA damage.
+Because yeast and human mismatch repair systems are well conserved, we have employed the budding yeast Saccharomyces cerevisiae to understand the regulation and function of the mismatch repair gene MSH2.
+Using a luciferase-based transcriptional reporter, we defined a 218-bp region upstream of MSH2 that contains cell-cycle and DNA damage responsive elements.
+The 5' end of the MSH2 transcript was mapped by primer extension and was found to encode a small upstream open reading frame (uORF).
+Mutagenesis of the uORF start codon or of the uORF stop codon, which creates a continuous reading frame with MSH2, increased Msh2 steady-state protein levels ∼2-fold.
+Furthermore, we found that the cell-cycle transcription factors Swi6, Swi4, and Mbp1-along with SCB/MCB cell-cycle binding sites upstream of MSH2-are all required for full basal expression of MSH2.
+Mutagenesis of the cell-cycle boxes resulted in a minor reduction in basal Msh2 levels and a 3-fold defect in mismatch repair.
+Disruption of the cell-cycle boxes also affected growth in a DNA polymerase-defective strain background where mismatch repair is essential, particularly in the presence of the DNA damaging agent methyl methane sulfonate (MMS).
+Promoter replacements conferring constitutive expression of MSH2 revealed that the transcriptional induction in response to MMS is required to maintain induced levels of Msh2.
+Turnover experiments confirmed an elevated rate of degradation in the presence of MMS.
+Taken together, the data show that the DNA damage regulation of Msh2 occurs at the transcriptional and post-transcriptional levels.
+The transcriptional and translational control elements identified are conserved in mammalian cells, underscoring the use of yeast as a model system to examine the regulation of MSH2.

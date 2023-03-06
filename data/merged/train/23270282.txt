@@ -1,0 +1,13 @@
+Differential Effects of Crambescins and Crambescidin 816 in Voltage-Gated Sodium, Potassium and Calcium Channels in Neurons.
+Crambescins and crambescidins are two families of guanidine alkaloids from the marine sponge Crambe crambe.
+Although very little information about their biological effect has been reported, it is known that crambescidin 816 (Cramb816) blocks calcium channels in a neuroblastoma X glioma cell line.
+Taking this into account, and the fact that ion channels are frequent targets for natural toxins, we examined the effect of Cramb816 and three compounds from the crambescin family, norcrambescin A2 (NcrambA2), crambescin A2 (CrambA2), and crambescin C1 (CrambC1), in the main voltage-dependent ion channels in neurons: sodium, potassium, and calcium channels.
+Electrophysiological recordings of voltage gated sodium, potassium, and calcium currents, in the presence of these guanidine alkaloids, were performed in cortical neurons from embryonic mice.
+Different effects were discovered: crambescins inhibited K(+) currents with the following potency: NcrambA2 > CrambC1 > CrambA2, while Cramb816 lacked an effect.
+Only CrambC1 and Cramb816 partially blocked Na(+) total current.
+However, Cramb816 partially blocked Ca(2+) , while NcrambA2 did not.
+Since the blocking effect of Cramb816 on calcium currents has not been previously reported in detail, we further pharmacologically isolated the two main fractions of HVA Ca(2+) channels in neurons and investigated the Cramb816 effect on them.
+Here, we revealed that Cav1 or L-type calcium channels are the main target for Cramb816.
+These two families of guanidine alkaloids clearly showed a structure-activity relationship with the crambescins acting on voltage-gated potassium channels, while Cramb816 blocks the voltage-gated calcium channel Cav1 with higher potency than nifedipine.
+The novel evidence that Cramb816 partially blocked Ca(V) and Na(V) channels in neurons suggests that this compound might be involved in decreasing the neurotransmitter release and synaptic transmission in the central nervous system.
+The findings presented here provide the first detailed approach on the different effects of crambescin and crambescidin compounds in voltage-gated sodium, potassium, and calcium channels in neurons and thus provide a basis for future studies.

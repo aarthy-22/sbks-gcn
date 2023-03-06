@@ -1,0 +1,10 @@
+Involvement of organic anion-transporting polypeptides in the hepatic uptake of dioscin in rats and humans.
+The objective of this study was to clarify the mechanism underlying hepatic uptake of dioscin (diosgenyl 2,4-di-O-a-L-rhamnopyranosyl-p-D-glucopyranoside), an herbal ingredient with antihepatitis activity, in rats and humans.
+The liver uptake index (LUI) in vivo, perfused rat liver in situ, rat liver slices, isolated rat hepatocytes, and human organic anion-transporting polypeptide (OATP)-transfected cells in vitro were used to evaluate hepatic uptake of dioscin.
+Values of 11.9% ± 1.6% and 15.0% ± 0.9% of dose for uptake of dioscin were observed by LUI in vivo and perfused rat livers in situ, respectively.
+The time course of dioscin uptake by rat liver slices was temperature-dependent.
+Uptake of dioscin by rat liver slices and isolated rat hepatocytes was inhibited significantly by Oatp modulators, such as ibuprofen (Oatp1a1 inhibitor), digoxin (Oatp1a4 substrate), and glycyrrhizic acid (Oatp1b2 inhibitor), but not by TEA or p-aminohippurate.
+Uptake of dioscin in rat hepatocytes and OATP1B3-human embryonic kidney (HEK) 293 cells indicated a saturable process with a Km of 3.75 ± 0.51 μM and 2.08 ± 0.27 μM, respectively.
+(-)-Epigallocatechin gallate, cyclosporin A, rifampicin, and telmisartan inhibited transport of dioscin in OATP1B3-HEK293 cells.
+However, transcellular transport of dioscin in OATP1B1- or OATP1B1/multidrug resistance-associated protein 2-Madin-Darby canine kidney strain II cells was not observed.
+These results indicate that hepatic uptake of dioscin is involved in OATP1B3 in humans, and multiple Oatps might participate in this process in rats.

@@ -1,0 +1,10 @@
+Reduction of high-affinity beta2-adrenergic receptor binding by hyperforin and hyperoside on rat C6 glioblastoma cells measured by fluorescence correlation spectroscopy.
+Beta-adrenergic receptors (beta-AR) are potential targets for antidepressants.
+Desensitization and downregulation of beta-AR are discussed as possible modes of action for antidepressants.
+We have investigated the effects of hyperforin and hyperoside, compounds with potentially antidepressant activity from St. John's Wort, on the binding behavior and dynamics of beta2-AR in living rat C6 glioblastoma cells, compared to desipramine (desmethylimipramine; DMI) by means of fluorescence correlation spectroscopy (FCS) and fluorescence microscopy.
+FCS-binding studies with the fluorescently labeled ligand Alexa532-noradrenaline (Alexa532-NA) binding to beta2-AR of C6 cells showed a significant reduction in total beta2-AR binding after preincubation with hyperforin and hyperoside for 3 days, respectively, which was also found for DMI.
+This was mainly observed in high-affinity receptor-ligand complexes with hindered lateral mobility (D2 = 1.1 (+/-0.4) microm2/s) in the biomembrane.
+However, internalization of beta2-AR was found neither in z-scans of these C6 cells nor in HEK 293 cells stably transfected with GFP-tagged beta2-adrenergic receptors (beta2AR-GFP) after incubation up to 6 days with either DMI, hyperforin, or hyperoside.
+Thus, under these conditions reduction of beta2-AR binding was not mediated by receptor internalization.
+Additionally, preincubation of C6 cells with DMI, hyperforin, and hyperoside led to a loss of second messenger cAMP after beta2-adrenergic stimulating conditions with terbutaline.
+Our current results indicate that hyperforin and hyperoside from St. John's Wort, as well as DMI, reduce beta2-adrenergic sensitivity in C6 cells, emphasizing the potential usefulness of St. John's Wort dry extracts in clinical treatment of depressive symptoms.

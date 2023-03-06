@@ -1,0 +1,16 @@
+Impaired function of prejunctional adenosine A1 receptors expressed by perivascular sympathetic nerves in DOCA-salt hypertensive rats.
+Increased sympathetic nervous system activity contributes to deoxycorticosterone acetate (DOCA)-salt hypertension in rats.
+ATP and norepinephrine (NE) are coreleased from perivascular sympathetic nerves.
+NE acts at prejunctional α2-adrenergic receptors (α2ARs) to inhibit NE release, and α2AR function is impaired in DOCA-salt rats.
+Adenosine, an enzymatic ATP degradation product, acts at prejunctional A1 adenosine receptors (A1Rs) to inhibit NE release.
+We tested the hypothesis that prejunctional A1R function is impaired in sympathetic nerves supplying mesenteric arteries (MAs) and veins (MVs) of DOCA-salt rats.
+Electrically evoked NE release and constrictions of blood vessels were studied in vitro with use of amperometry to measure NE oxidation currents and video microscopy, respectively.
+Immunohistochemical methods were used to localize tyrosine hydroxylase (TH) and A1Rs in perivascular sympathetic nerves.
+TH and A1Rs colocalized to perivascular sympathetic nerves.
+Adenosine and N(6)-cyclopentyl-adenosine (CPA, A1R agonist) constricted MVs but not MAs.
+Adenosine and CPA (0.001-10 µM) inhibited neurogenic constrictions and NE release in MAs and MVs.
+DOCA-salt arteries were resistant to adenosine and CPA-mediated inhibition of NE release and constriction.
+The A2A adenosine receptor agonist CGS21680 (C23H29N7O6.HCl.xH2O) (0.001-0.1 μM) did not alter NE oxidation currents.
+We conclude that there are prejunctional A1Rs in arteries and both pre- and postjunctional A1Rs in veins; thus, adenosine selectively constricts the veins.
+Prejunctional A1R function is impaired in arteries, but not veins, from DOCA-salt rats.
+Sympathetic autoreceptor dysfunction is not specific to α2ARs, but there is a more general disruption of prejunctional mechanisms controlling sympathetic neurotransmitter release in DOCA-salt hypertension.

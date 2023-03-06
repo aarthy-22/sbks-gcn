@@ -1,0 +1,11 @@
+TCDD induces the expression of insulin-like growth factor binding protein 4 in 5L rat hepatoma cells: a cautionary tale of the use of this cell line in studies on dioxin toxicity.
+Previous quantitative proteomic studies on the actions of 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) in 5L rat hepatoma cells, a cell model frequently used for investigating the mechanisms of TCDD toxicity, had indicated that dioxin exposure reduced the abundance of numerous proteins which are regulated at the level of protein synthesis initiation.
+In the present study, we have analysed the mechanism mediating this inhibition.
+TCDD treatment of the cells largely prevented the activation of eukaryotic translation initiation factor 4E-binding protein 1, a regulator of translation initiation and substrate of the mammalian target of rapamycin (mTOR).
+By "working upwards" from mTOR, we observed that TCDD inhibited endogenous and IGF-I-induced AKT and ERK activation by interfering with tyrosine phosphorylation of insulin receptor substrate 1.
+This inhibition was mediated by a TCDD-induced secreted factor which was identified as insulin-like growth factor binding protein 4 (IGFBP-4).
+The induction of IGFBP-4 protein was dependent on a functional aryl hydrocarbon receptor and was preceded by a rapid increase in the level of IGFBP-4 mRNA indicating that IGFBP-4 is a previously unknown transcriptional target of TCDD in 5L cells.
+IGFBP-4 was not induced by TCDD in the parental cell line of 5L cells, Fao, and in various closely related rat hepatoma cell lines as well as in other unrelated cell types.
+Analysis of 5L cell chromosomes by multicolour spectral karyotyping (SKY) revealed that the cells carry several hitherto uncharacterised chromosomal translocations.
+The observations suggest that in 5L cells the Igfbp-4 gene may have got under the control of a promoter containing dioxin responsive element(s) leading to the induction of IGFBP-4 by TCDD.
+These findings emphasise a particular caution when interpreting and extrapolating results on the action mechanisms of TCDD obtained in studies using 5L cells as a model system.

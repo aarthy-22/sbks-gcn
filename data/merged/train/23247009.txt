@@ -1,0 +1,8 @@
+Beta-glucogallin reduces the expression of lipopolysaccharide-induced inflammatory markers by inhibition of aldose reductase in murine macrophages and ocular tissues.
+Aldose reductase (AR) catalyzes the reduction of toxic lipid aldehydes to their alcohol products and mediates inflammatory signals triggered by lipopolysaccharide (LPS).
+Beta-glucogallin (BGG), a recently described AR inhibitor, was purified from extracts of the Indian gooseberry (Emblica officinalis).
+In this study, we found that BGG showed low cytotoxicity in Raw264.7 murine macrophages and effectively inhibited AR activity as measured by a decrease in sorbitol accumulation.
+In addition, BGG-mediated inhibition of AR prevented LPS-induced activation of JNK and p38 and lowered ROS levels, which could inhibit LPS-induced apoptosis.
+Uveitis is a disease of the eye associated with chronic inflammation.
+In this study, we also demonstrated that treatment with BGG decreased the number of inflammatory cells that infiltrate the ocular media of mice with experimental uveitis.
+Accordingly, these results suggest BGG is a potential therapy for inflammatory diseases.

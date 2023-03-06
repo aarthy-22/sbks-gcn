@@ -1,0 +1,15 @@
+Mitochondrial creatine kinase from chicken brain.
+Purification, biophysical characterization, and generation of heterodimeric and heterooctameric molecules with subunits of other creatine kinase isoenzymes.
+In a recent study it has been shown that mitochondrial creatine kinase from chicken brain (Mia-CK) and heart (Mib-CK) are two distinct isoenzymes differing in ten out of the thirty N-terminal amino acids (Hossle, J.P., Schlegel, J., Wegmann, G., Wyss, M., Bohlen, P., Eppenberger, H.M., Wallimann, T., and Perriard J.C. (1988) Biochem.
+Biophys.
+Res.
+Commun.
+151, 408-416).
+The present article describes the purification and biophysical characterization of the mitochondrial creatine kinase isoenzyme from chicken brain (Mia-CK).
+Gel permeation chromatography, direct mass measurements of individual molecules by scanning transmission electron microscopy, and analytical ultracentrifugation confirmed the existence of two different oligomeric forms, dimeric and octameric Mia-CK, with molecular masses of 85 kDa and 306-352 kDa and with sedimentation constants of 4.9-5.3 and 11.6-12.0 S, respectively.
+In addition, it was tested if Mia- and Mib-CK can form heterodimeric and heterooctameric molecules with subunits of other CK isoenzymes.
+By denaturation in urea or guanidine hydrochloride and subsequent renaturation, MiaMib-CK and surprisingly also MiaM-CK heterodimers could be generated.
+In contrast, no heterodimers were obtained between Mib- and M- or B-CK.
+Furthermore, reoctamerization of a mixture of Mia- and Mib-CK homodimers led to the formation of MiaMib-CK heterooctamers.
+In these heterooctamers, the Mia- and Mib-CK homodimers remained the fundamental building blocks.
+No subunit exchange between adjacent dimers within the heterooctamer could be observed even after storage for 3 months at 4 degrees C. The relevance of these data on the structural organization of the Mi-CK octamer and on the physiological aspects of tissue-specific isoenzyme expression are discussed.

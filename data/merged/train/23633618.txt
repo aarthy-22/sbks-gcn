@@ -1,0 +1,8 @@
+A Structural Snapshot of Cytochrome P450 2B4 in Complex with Paroxetine Provides Insights into Ligand Binding and Clusters of Conformational States.
+An X-ray crystal structure of cytochrome P450 2B4 in complex with the drug paroxetine was solved at 2.14 Å resolution.
+The structure revealed a conformation intermediate to that of the recently solved complex with amlodipine and of the more compact complex with 4-(4-chlorophenyl)imidazole in terms of the placement of the F-G cassette.
+Moreover, the comparison of the new structure with 15 previously solved structures of P450 2B4 revealed some new insights into determinants of active site size and shape.
+The 2B4-paroxetine structure is nearly superimposable on a previously solved closed structure in a ligand free state.
+Despite the overall conformational similarity among multiple closed structures, the active site cavity volume of the paroxetine complex is enlarged.
+Further analysis of the accessible space and binding pocket near the heme reveals a new sub-chamber that resulted from the movement of secondary structural elements and rearrangements of active site side chains.
+Overall, the results from the comparison of all the 16 structures of P450 2B4 demonstrate a cluster of protein conformations that were observed in the presence or absence of various ligands.

@@ -1,0 +1,11 @@
+Effects of silver nanoparticles on the liver and hepatocytes in vitro.
+With the increasing use and incorporation of nanoparticles (NPs) into consumer products, screening for potential toxicity is necessary to ensure customer safety.
+NPs have been shown to translocate to the bloodstream following inhalation and ingestion, and such studies demonstrate that the liver is an important organ for accumulation.
+Silver (Ag) NPs are highly relevant for human exposure due to their use in food contact materials, dietary supplements, and antibacterial wound treatments.
+Due to the large number of different NPs already used in various products and being developed for new applications, it is essential that relevant, quick, and cheap methods of in vitro risk assessment suitable for these new materials are established.
+Therefore, this study used a simple hepatocytes model combined with an in vivo injection model to simulate the passage of a small amount of NPs into the bloodstream following exposure, e.g., via ingestion or inhalation, and examined the potential of Ag NPs of 20 nm diameter to cause toxicity, inflammation, and oxidative stress in the liver following in vivo exposures of female Wistar rats via iv injection to 50 μg of NPs and in vitro exposures using the human hepatocyte cell line C3A.
+We found that Ag NPs were highly cytotoxic to hepatocytes (LC(50) lactate dehydrogenase: 2.5 μg/cm(2)) and affected hepatocyte homeostasis by reducing albumin release.
+At sublethal concentrations with normal cell or tissue morphology, Ag NPs were detected in cytoplasm and nuclei of hepatocytes.
+We observed similar effects of Ag NPs on inflammatory mediator expression in vitro and in vivo with increase of interleukin-8 (IL-8)/macrophage inflammatory protein 2, IL-1RI, and tumor necrosis factor-α expression in both models and increased IL-8 protein release in vitro.
+This article presents evidence of the potential toxicity and inflammogenic potential of Ag NPs in the liver following ingestion.
+In addition, the similarities between in vitro and in vivo responses are striking and encouraging for future reduction, refinement, and replacement of animal studies by the use of hepatocyte cell lines in particle risk assessment.

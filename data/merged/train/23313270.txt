@@ -1,0 +1,3 @@
+Tricycloalternarenes F-H: three new mixed terpenoids produced by an endolichenic fungus Ulocladium sp. using OSMAC method.
+Three new mixed terpenoids, tricycloalternarenes (TCAs) F-H (1-3), together with ten known tricycloalternarenes (4-13), were isolated from the Czapek's culture of an endophytic fungus Ulocladium sp. Their structures were identified by extensive spectroscopic experiments (NMR and MS) and comparison with literature data.
+TCA 1b (5) showed weak activity against the Bacille Calmette-Guerin strain with the MIC of 125μg/mL. TCA 9b (10) exhibited strong cytotoxic activity against Hela cell line with IC50 of 8.58μM.

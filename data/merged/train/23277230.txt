@@ -1,0 +1,17 @@
+Fisetin averts oxidative stress in pancreatic tissues of streptozotocin-induced diabetic rats.
+Persistent hyperglycemia is associated with chronic oxidative stress which contributes to the development and progression of diabetes-associated complications.
+The sensitivity of pancreatic β-cells to oxidative stress has been attributed to their low content of antioxidants compared with other tissues.
+Bioactive compounds with potent antidiabetic properties have been shown to ameliorate hyperglycemia mediated oxidative stress.
+Recently, we have reported that oral administration of fisetin (10 mg/Kg b.w.), a bioflavonoid found to be present in strawberries, persimmon, to STZ-induced experimental diabetic rats significantly improved normoglycemia.
+The present study was aimed to evaluate the antioxidant potential of fisetin in both in vitro and in vivo.
+Diabetes was induced by single intraperitoneal injection of streptozotocin (50 mg/kg body weight).
+Fisetin was administered orally for 30 days.
+At the end of the study, all animals were killed.
+Blood samples were collected for the biochemical estimations.
+The antioxidant status was evaluated.
+Histological examinations were performed on pancreatic tissues.
+Fisetin treatment showed a significant decline in the levels of blood glucose, glycosylated hemoglobin (HbA1c), NF-kB p65 unit (in pancreas) and IL-1β (plasma), serum nitric oxide (NO) with an elevation in plasma insulin.
+The treatment also improved the antioxidant status in pancreas as well as plasma of diabetic rats indicating the antioxidant potential of fisetin.
+In addition, the results of DPPH and ABTS assays substantiate the free radical scavenging activity of fisetin.
+Histological studies of the pancreas also evidenced the tissue protective nature of fisetin.
+It is concluded that, fisetin possesses antioxidant and anti-inflammatory property and may be considered as an adjunct for the treatment of diabetes.

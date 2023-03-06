@@ -1,0 +1,12 @@
+The effects of jaspamide on human cardiomyocyte function and cardiac ion channel activity.
+Jaspamide (jasplakinolide; NSC-613009) is a cyclodepsipeptide that has antitumor activity.
+A narrow margin of safety was observed between doses required for efficacy in mouse tumor models and doses that caused severe acute toxicity in rats and dogs.
+We explored the hypothesis that the observed toxicity was due to cardiotoxicity.
+Jaspamide was tested in a patch clamp assay to determine its effect on selected cardiac ion channels.
+Jaspamide (10 μM) inhibited Kv1.5 activity by 98.5%.
+Jaspamide also inhibited other channels including Cav1.2, Cav3.2, and HCN2; however, the Kv11.1 (hERG) channel was minimally affected.
+Using spontaneously contracting human cardiomyocytes derived from induced pluripotent stem cells, effects on cardiomyocyte contraction and viability were also examined.
+Jaspamide (30 nM to 30 μM) decreased cardiomyocyte cell indices and beat amplitude, putative measurements of cell viability and cardiac contractility, respectively.
+Concentration-dependent increases in rhythmic beating rate were noted at ≤ 6 h of treatment, followed by dose-dependent decreases after 6 and 72 h exposure.
+The toxic effects of jaspamide were compared with that of the known cardiotoxicant mitoxantrone, and confirmed by multiparameter fluorescence imaging analysis.
+These results support the hypothesis that the toxicity observed in rats and dogs is due to toxic effects of jaspamide on cardiomyocytes.

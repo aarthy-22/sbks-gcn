@@ -1,0 +1,5 @@
+Metabolic syndrome: adenosine monophosphate-activated protein kinase and malonyl coenzyme A. The metabolic syndrome can be defined as a state of metabolic dysregulation characterized by insulin resistance, central obesity, and a predisposition to type 2 diabetes, dyslipidemia, premature atherosclerosis, and other diseases.
+An increasing body of evidence has linked the metabolic syndrome to abnormalities in lipid metabolism that ultimately lead to cellular dysfunction.
+We review here the hypothesis that, in many instances, the cause of these lipid abnormalities could be a dysregulation of the adenosine monophosphate-activated protein kinase (AMPK)/malonyl coenzyme A (CoA) fuel-sensing and signaling mechanism.
+Such dysregulation could be reflected by isolated increases in malonyl CoA or by concurrent changes in malonyl CoA and AMPK, both of which would alter intracellular fatty acid partitioning.
+The possibility is also raised that pharmacological agents and other factors that activate AMPK and/or decrease malonyl CoA could be therapeutic targets.

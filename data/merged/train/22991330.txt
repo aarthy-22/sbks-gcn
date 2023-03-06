@@ -1,0 +1,11 @@
+Can peripheral blood γδ T cells predict osteonecrosis of the jaw?
+An immunological perspective on the adverse drug effects of aminobisphosphonate therapy.
+Nitrogen-bisphosphonates (n-BP), often referred to as aminobisphosphonates, are the most commonly prescribed drugs for the treatment of disorders of bone fragility.
+However, long-term continuous treatment predisposes certain individuals to serious rare side effects, such as bisphosphonate-associated osteonecrosis of the jaw (BAONJ).
+n-BP use is known to unintentionally activate a subset of innate T cells called Vγ9Vδ2 T cells, but the consequence of this chronic immune stimulation has remained unexplored.
+The primary objectives of this study were to 1) determine the fate of Vγ9Vδ2 T cells in osteoporotic patients on n-BP therapy as a function of time and type of therapy; 2) evaluate the proportion of Vγ9Vδ2 T cells in patients who had recently experienced n-BP-associated ONJ.
+We found there is a notable loss of Vγ9Vδ2 T cells over time in osteoporotic patients on n-BP therapy, particularly those on intravenous (iv) therapy (Spearman r = -0.55, p < 0.0001 iv; r = -0.3, p < 0.03 oral) (n = 68); no difference was observed in total T cells, monocytes, or granulocytes.
+Importantly, the observed negative effect on Vγ9Vδ2 T cells coincides with the reported route of administration and timing of the rare occurrence of BAONJ.
+Patients (n = 6) who had experienced BAONJ were all found to be significantly deficient in Vγ9Vδ2 T cells (median = 0.07%) in comparison to age- and sex-matched treatment-naïve controls (N = 11; median = 2.40%), U = 0, p = 0.001; this was the only consistent difference in the leukocytes assessed.
+All BAONJ cases had an underlying condition that further contributed to impaired immunity.
+We propose Vγ9Vδ2 T cells show a strong potential to serve as harbingers of possible adverse immune effects of n-BP therapy, particularly in those patients already having a compromised immune system as they may be most vulnerable to the development of conditions such as BAONJ.

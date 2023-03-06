@@ -1,0 +1,10 @@
+Testosterone deficiency induces markedly decreased serum triglycerides, increased small dense LDL, and hepatic steatosis mediated by dysregulation of lipid assembly and secretion in mice fed a high-fat diet.
+OBJECTIVE: Although low serum testosterone (T) is associated with metabolic disorders, the mechanism of this association is unclear.
+The objective of the present study was to investigate the combined effects of T deficiency and a high-fat diet (HFD) on hepatic lipid homeostasis in mice.
+MATERIALS/METHODS: Orchiectomized (ORX) mice and sham-operated (SHAM) mice were randomly divided into five groups: SHAM mice fed a standard diet (SD), SHAM mice fed HFD, ORX mice fed SD, ORX mice fed HFD, and ORX mice fed HFD with T supplementation.
+After 4weeks of treatment, we investigated the synthesis and secretion of lipids in the liver and detailed serum lipoprotein profiles in each group.
+RESULTS: ORX mice fed HFD showed increased hepatic steatosis, markedly decreased serum triglyceride (TG) and TG-VLDL content, and increased serum very small-LDL content.
+Gene expression analysis revealed that ORX mice fed HFD showed significantly decreased expression of microsomal triglyceride transfer protein, lipin-1, peroxisome proliferator-activated receptor (PPAR)-α and PPAR-γ coactivator 1-α, and significantly increased sterol regulatory element-binding protein-1, diacylglycerol acyltransferase-2 and fatty acid synthase.
+Reduction of hepatic AMPK phosphorylation was observed in ORX mice fed HFD.
+These perturbations in ORX mice fed HFD were normalized to the levels of SHAM mice fed HFD by T supplementation.
+CONCLUSION: T deficiency is associated with failure of lipid homeostasis mediated by altered expression of genes involved in hepatic assembly and secretion of lipids.

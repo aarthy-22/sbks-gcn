@@ -1,0 +1,9 @@
+Protective action of cardiac DT-diaphorase against menadione toxicity in guinea pig isolated atria.
+In myocardial preparations isolated from guinea pigs, 2-methyl-1, 4-naphthoquinone (menadione) causes an increase in contractility that is strictly related to the generation of reactive oxygen species (ROS) as a consequence of quinone metabolism.
+In heart, menadione undergoes one-electron reduction to semiquinone, a reaction mainly catalysed by mitochondrial NADH: ubiquinone oxidoreductase.
+It is also converted to hydroquinone by the soluble two-electron reductase, DT-diaphorase, and is conjugated with GSH by glutathione S-transferase.
+In order to assess the role of DT-diaphorase in cardiac responses to menadione, we examined the effects of both a specific inhibitor (dicoumarol) and an inducer (beta-naphthoflavone) of the enzyme on the inotropic action of the quinone.
+In electrically driven left atria of guinea pig, 4 microM dicoumarol significantly enhanced the positive inotropic effect of menadione, especially at the lower concentrations of the quinone.
+In myocardial preparations isolated from guinea pigs treated with beta-naphthoflavone (80 mg/kg i.p.for 2 days), DT-diaphorase activity was enhanced (+36% with respect to control animals, P < 0. 01), whereas the activities of the other enzymes involved in menadione metabolism were not modified.
+In these preparations, menadione caused a significantly lower increase in the force of contraction than in atria from untreated animals; moreover, pretreatment with beta-naphthoflavone caused a significant decrease in the menadione-induced oxidative stress, as evaluated from the GSH redox index.
+Taken together, these results demonstrate that cardiac DT-diaphorase does not contribute to ROS generation, but represents a detoxification system.

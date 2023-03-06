@@ -1,0 +1,10 @@
+Amide hydrolysis of a novel chemical series of microsomal prostaglandin E synthase-1 inhibitors induces kidney toxicity in the rat.
+A novel microsomal prostaglandin E synthase 1 (mPGES-1) inhibitor induced kidney injury at exposures representing less than 4 times the anticipated efficacious exposure in man during a 7-day toxicity study in rats.
+The findings consisted mainly of tubular lesions and the presence of crystalline material and increases in plasma urea and creatinine.
+In vitro and in vivo metabolic profiling generated a working hypothesis that a bis-sulfonamide metabolite (determined M1) formed by amide hydrolysis caused this toxicity.
+To test this hypothesis, rats were subjected to a 7-day study and were administered the suspected metabolite and two low-potency mPGES-1 inhibitor analogs, where amide hydrolysis was undetectable in rat hepatocyte experiments.
+The results suggested that compounds with a reduced propensity to undergo amide hydrolysis, thus having less ability to form M1, reduced the risk of inducing kidney toxicity.
+Rats treated with M1 alone showed no histopathologic change in the kidney, which was likely related to underexposure to M1.
+To circumvent rat kidney toxicity, we identified a potent mPGES-1 inhibitor with a low propensity for amide hydrolysis and superior rat pharmacokinetic properties.
+A subsequent 14-day rat toxicity study showed that this compound was associated with kidney toxicity at 42, but not 21, times the anticipated efficacious exposure in humans.
+In conclusion, by including metabolic profiling and exploratory rat toxicity studies, a new and active mPGES-1 inhibitor with improved margins to chemically induced kidney toxicity in rats has been identified.

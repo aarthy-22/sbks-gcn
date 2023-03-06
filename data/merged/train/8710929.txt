@@ -1,0 +1,13 @@
+Norepinephrine transporters have channel modes of conduction.
+Neurotransmitter transporters couple to existing ion gradients to achieve reuptake of transmitter into presynaptic terminals.
+For coupled cotransport, substrates and ions cross the membrane in fixed stoichiometry.
+This is in contrast to ion channels, which carry an arbitrary number of ions depending on the channel open time.
+Members of the gamma-aminobutyric acid transporter gene family presumably function with fixed stoichiometry in which a set number of ions cotransport with one transmitter molecule.
+Here we report channel-like events from a presumably fixed stoichiometry [norepinephrine (NE)+, Na+, and Cl-], human NE (hNET) in the gamma-aminobutyric acid transporter gene family.
+These events are stimulated by NE and by guanethidine, an hNET substrate, and they are blocked by cocaine and the antidepressant desipramine.
+Voltage-clamp data combined with NE uptake data from these same cells indicate that hNETs have two functional modes of conduction: a classical transporter mode (T-mode) and a novel channel mode (C-mode).
+Both T-mode and C-mode are gated by the same substrates and antagonized by the same blockers.
+T-mode is putatively electrogenic because the transmitter and cotransported ions sum to one net charge.
+However, C-mode carries virtually all of the transmitter-induced current, even though it occurs with low probability.
+This is because each C-mode opening transports hundreds of charges per event.
+The existence of a channel mode of conduction in a previously established fixed-stoichiometry transporter suggests the appearance of an aqueous pore through the transporter protein during the transport cycle and may have significance for transporter regulation.

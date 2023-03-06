@@ -1,0 +1,5 @@
+Discovery of ML326: The first sub-micromolar, selective M5 PAM.
+This Letter describes the further chemical optimization of the M5 PAM MLPCN probes ML129 and ML172.
+A multi-dimensional iterative parallel synthesis effort quickly explored isatin replacements and a number of southern heterobiaryl variations with no improvement over ML129 and ML172.
+An HTS campaign identified several weak M5 PAMs (M5 EC50 >10μM) with a structurally related isatin core that possessed a southern phenethyl ether linkage.
+While SAR within the HTS series was very shallow and unable to be optimized, grafting the phenethyl ether linkage onto the ML129/ML172 cores led to the first sub-micromolar M5 PAM, ML326 (VU0467903), (human and rat M5 EC50s of 409nM and 500nM, respectively) with excellent mAChR selectivity (M1-M4 EC50s >30μM) and a robust 20-fold leftward shift of the ACh CRC.

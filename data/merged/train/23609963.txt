@@ -1,0 +1,11 @@
+LIVER X RECEPTORS, NERVOUS SYSTEM AND LIPID METABOLISM.
+Lipids in the nervous system are represented by cholesterol and phospholipids as constituents of cell membranes and, in particular, of myelin.
+Therefore, lipids are finely regulated to guarantee physiological functions.
+In the central nervous system, cholesterol is locally synthesized due to the presence of the blood brain barrier.
+In the peripheral nervous system cholesterol is either uptaken by lipoproteins and/or produced by de novo biosynthesis.
+Defects in lipid homeostasis in these tissues lead to structural and functional changes that often result in different pathological conditions depending on the affected pathways (i.e. cholesterol biosynthesis, cholesterol efflux, fatty acid biosynthesis etc.).
+Alterations in cholesterol metabolism in the central nervous system are linked to several disorders such as Alzheimer's disease, Huntington disease, Parkinson disease, Multiple Sclerosis, Smith-Lemli-Opitz syndrome, Niemann-Pick type C disease, and glioblastoma.
+In the peripheral nervous system changes in lipid metabolism are associated with the development of peripheral neuropathy that may be caused by metabolic disorders, injuries, therapeutics and autoimmune diseases.
+Transcription factors, such as the Liver X receptors (LXRs), regulate both cholesterol and fatty acid metabolism in several tissues including the nervous system.
+In the last few years several studies elucidated the biology of LXRs in nervous system due to the availability of knock-out mice and the development of synthetic ligands.
+Here, we review a survey of the literature focused on central and peripheral nervous system and in physiological and pathological settings with particular attention on the roles played by LXRs in both districts.

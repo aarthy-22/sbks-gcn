@@ -1,0 +1,11 @@
+ALLERGIC SKIN INFLAMMATION INDUCED BY CHEMICAL SENSITIZERS IS CONTROLLED BY THE TRANSCRIPTION FACTOR NRF2.
+Allergic contact dermatitis (ACD) is induced by low molecular weight electrophilic chemicals and metal ions.
+Chemical contact sensitizers trigger reactive oxygen species (ROS) production and provoke electrophilic stress leading to the accumulation of the transcription factor nuclear related factor 2 (Nrf2) in innate immune cell types.
+The objective of this work was to identify the role of Nrf2 in the regulation of ACD.
+We used the Local Lymph Node Assay (LLNA) and the Mouse Ear Swelling Test (MEST) to study the role of Nrf2 in both the sensitization and elicitation phase in nrf2 knock out (nrf2(-/-)) and wild type (nrf2(+/+)) mice.
+Five chemicals were used: two compounds known to react with cysteine residues, 2,4-dinitrochlorobenzene (DNCB) and cinnamaldehyde (CinA); one sensitizer known to exhibit mixed reactivity to cysteine and lysine residues, isophorone diisocyanate (IPDI); and one reacting specifically with lysine residues, trimellitic anhydride (TMA) and croton oil a well-known irritant.
+In the MEST assay, DNCB (1% and 2%) induced a significant increase in ear thickness in nrf2(-/-) as compared to nrf2(+/+) mice suggesting a role for Nrf2 in the control of the inflammatory process.
+When DNCB was used at 0.25% and 0.5% or when mice were treated with CinA, inflammation was found only in nrf2(-/-) mice.
+In the LLNA all chemical sensitizers induced an increase of lymphocyte proliferation in nrf2(-/-)
+compared to nrf2(+/+) mice for the same chemical concentration.
+These results reveal an important role for Nrf2 in controlling ACD and lymphocyte proliferation in response to sensitizers.

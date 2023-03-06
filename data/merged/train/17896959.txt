@@ -1,0 +1,11 @@
+Na+/Ca2+ exchange inhibitors: a new class of calcium regulators.
+The Na(+)/Ca(2+) exchanger (NCX) is a bidirectional transporter that normally extrudes Ca(2+) from the cell (forward mode), but also brings Ca(2+) into the cell (reverse mode) under special conditions such as intracellular Na(+) (Na(+)(i)) accumulation or membrane depolarization.
+There are three mammalian NCX isoforms: NCX1 is widely expressed in the heart, kidney, brain, blood vessels, and so on; whereas the expression of NCX2 and NCX3 is limited mainly to the brain and skeletal muscle.
+The pharmacology of NCX inhibitors has been studied extensively since the development of KB-R7943, a prototype benzyloxyphenyl NCX inhibitor, in 1996.
+Currently, experiments are actively progressing with more selective inhibitors: SEA0400, SN-6, and YM-244769.
+Intriguingly, the inhibitory potency of benzyloxyphenyl NCX inhibitors is directly coupled to the rate of Na(+)(i)-dependent inactivation.
+Therefore, the benzyloxyphenyl inhibitors are apparently dormant during the forward mode under normal conditions (low Na(+)(i)), but become effective during the reverse mode under pathological conditions (high Na(+)(i)).
+This should be an ideal profile for calcium regulators against Na(+)(i)-related diseases, such as ischemia/reperfusion injuries, salt-dependent hypertension, and digitalis arrhythmia.
+Existing ion channel blockers, such as amiodarone, dronedarone, bepridil, aprindine, and cibenzoline, have been found to have an NCX inhibitory action.
+It is possible that this property is partly responsible for their antiarrhythmic and cardioprotective effects.
+This article presents the characteristics of selective and non-selective NCX inhibitors and their therapeutic potential as a new calcium regulator.

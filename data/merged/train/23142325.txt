@@ -1,0 +1,8 @@
+The role of mitochondria and biotransformation in abamectin-induced cytotoxicity in isolated rat hepatocytes.
+Abamectin (ABA), which belongs to the family of avermectins, is used as a parasiticide; however, ABA poisoning can impair liver function.
+In a previous study using isolated rat liver mitochondria, we observed that ABA inhibited the activity of adenine nucleotide translocator and FoF1-ATPase.
+The aim of this study was to characterize the mechanism of ABA toxicity in isolated rat hepatocytes and to evaluate whether this effect is dependent on its metabolism.
+The toxicity of ABA was assessed by monitoring oxygen consumption and mitochondrial membrane potential, intracellular ATP concentration, cell viability, intracellular Ca(2+) homeostasis, release of cytochrome c, caspase 3 activity and necrotic cell death.
+ABA reduces cellular respiration in cells energized with glutamate and malate or succinate.
+The hepatocytes that were previously incubated with proadifen, a cytochrome P450 inhibitor, are more sensitive to the compound as observed by a rapid decrease in the mitochondrial membrane potential accompanied by reductions in ATP concentration and cell viability and a disruption of intracellular Ca(2+) homeostasis followed by necrosis.
+Our results indicate that ABA biotransformation reduces its toxicity, and its toxic action is related to the inhibition of mitochondrial activity, which leads to decreased synthesis of ATP followed by cell death.

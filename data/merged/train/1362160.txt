@@ -1,0 +1,10 @@
+Suppression by cetirizine of pleurisy triggered by antigen in actively sensitized rats.
+The efficacy of cetirizine in comparison with meclizine, another piperazine H1 receptor antagonist, in rat pleurisy caused by allergen or autacoid was investigated.
+Sensitization was achieved by subcutaneous injection of a mixture of ovalbumin and aluminium hydroxide.
+Fourteen days later, the animals were challenged with an intrathoracic injection of ovalbumin (12 micrograms/cavity), which caused drastic mast cell degranulation, followed by pleural oedema and leucocyte influx.
+Cetirizine and meclizine (2.5-30 mg/kg i.p.), 1 h before challenge, inhibited the exudatory response evoked by antigen, under conditions where neutrophil and eosinophil accumulation was affected only by the former.
+When administered intrathoracically 22 h after allergen, i.e. using a curative approach, cetirizine (15 micrograms/cavity) drastically reduced the pleural eosinophilia noted 24 h post-challenge, indicating that this drug can reverse an already established eosinophilia.
+Cetirizine (15 mg/kg i.p.) also restored, to about 39% (P < 0.001), the number of uninjured mast cells recovered from the pleural cavity following allergen stimulation.
+In normal rats, cetirizine (5-15 micrograms/cavity) completely inhibited the pleural exudation elicited by histamine and only partially the exudation caused by 5-hydroxytryptamine or bradykinin, but was quite inactive against platelet-activating factor.
+We conclude that the pleural exudation triggered by allergen, vasoactive amines or bradykinin is clearly sensitive to cetirizine.
+In addition, the ability of the drug to interfere with pleural neutrophil or eosinophil mobilization and mast cell degranulation seems not to be associated with its ability to block the histamine H1 receptor.

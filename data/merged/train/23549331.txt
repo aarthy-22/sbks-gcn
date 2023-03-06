@@ -1,0 +1,9 @@
+A Distal Enhancer Controls Cytokine-dependent Human cPLA2α Gene Expression.
+Specific control of group IVA cytosolic phospholipase A2 (cPLA2α or PLA2G4A) expression modulates arachidonic acid production, thus tightly regulating the downstream effects of pro- and anti-inflammatory eicosanoids.
+The significance of this pathway in human disease is apparent in a range of pathologies from inflammation to tumorigenesis.
+While much of the regulation of cPLA2α has focused on post-translational phosphorylation of the protein, studies on transcriptional regulation of this gene have focused only on proximal promoter regions.
+We have identified a DNase I hypersensitive site encompassing a 5' distal enhancer element containing a highly conserved consensus AP-1 site involved in transcriptional activation of cPLA2α by IL-1β.
+ChIP, knockdown, knockout and overexpression analyses have shown that c-Jun acts both in a negative and positive regulatory role.
+Transcriptional activation of cPLA2α occurs through the phosphorylation of c-Jun in conjunction with increased association of C/EBPβ with the distal novel enhancer.
+The association of C/EBPβ with the transcriptional activation complex does not require an obvious DNA binding site.
+These data provide new and important contributions to the understanding of cPLA2α regulation at the transcriptional level with implications to eicosanoid metabolism, cellular signaling and disease pathogenesis.

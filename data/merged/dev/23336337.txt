@@ -1,0 +1,5 @@
+Enhancing macrocyclic diterpenes as multidrug-resistance reversers: structure-activity studies on jolkinol D derivatives.
+The phytochemical study of Euphorbia piscatoria yielded jolkinol D (1) in a large amount, whose derivatization gave rise to 12 ester derivatives (2-13) and hydrolysis to compound 14.
+The in vitro modulation of P-gp of compounds 1-14 was evaluated through a combination of transport and chemosensitivity assays, using the L5178 mouse T lymphoma cell line transfected with the human MDR1 gene.
+Apart from jolkinol D, all derivatives (2-14) showed potential as MDR reversal agents.
+In this small library of novel bioactive macrocyclic lathyrane diterpene derivatives, designed to evaluate structure-activity relationships essential in overcoming multidrug resistance (MDR), some correlations between MDR reversal and molecular weight, accessible solvent areas, and octanol/water partition coefficient were identified that can contribute to the development of new selective P-gp reversal agents.

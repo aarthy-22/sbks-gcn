@@ -1,0 +1,10 @@
+Serotonin transporter density and anxiolytic-like effects of antidepressants in mice.
+BACKGROUND: Chronic treatment with the dual serotonin/noradrenaline reuptake inhibitor (SNRI) duloxetine reduces the density of serotonin transporter sites in cortex and engenders an anxiolytic-like response.
+To determine the reproducibility of these effects and their generality to other antidepressants we compared the effects of chronic duloxetine treatment with another SNRI, venlafaxine, and two selective serotonin reuptake inhibitors, paroxetine and fluoxetine.
+METHODS: Separate groups of mice were administered vehicle, fluoxetine (15 mg/kg), paroxetine, duloxetine or venlafaxine (10 mg/kg) perorally twice daily for 28 days and tested in the mouse zero-maze and in motility cages on days 21 and 22, respectively, to determine effects on anxiety and motor activity.
+On day 28 brains were analysed for serotonin transporter (SERT) density in cortex and noradrenaline transporter (NET) density in cortex and hippocampus.
+RESULTS: Duloxetine and fluoxetine both reduced SERT density in cortex and induced anxiolytic-like effects.
+Paroxetine had an identical profile, but it is unclear if this drug down-regulated the SERT since extensive washing of cortical tissue did not remove all drug.
+Venlafaxine had no effect on behavioural or biochemical parameters.
+Only duloxetine reduced NET density in cortex, although not hippocampus.
+CONCLUSIONS: The reduction in SERT density and anxiolytic-like effects with duloxetine, fluoxetine and, potentially, paroxetine suggest that down-regulation of the SERT may be a relevant mechanism in therapeutic response to these antidepressants.

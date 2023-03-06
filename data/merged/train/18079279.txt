@@ -1,0 +1,12 @@
+Modulation of receptor phosphorylation contributes to activation of peroxisome proliferator activated receptor alpha by dehydroepiandrosterone and other peroxisome proliferators.
+Dehydroepiandrosterone (DHEA), a C19 human adrenal steroid, activates peroxisome proliferator-activated receptor alpha (PPARalpha) in vivo but does not ligand-activate PPARalpha in transient transfection experiments.
+We demonstrate that DHEA regulates PPARalpha action by altering both the levels and phosphorylation status of the receptor.
+Human hepatoma cells (HepG2) were transiently transfected with the expression plasmid encoding PPARalpha and a plasmid containing two copies of fatty acyl coenzyme oxidase (FACO) peroxisome-proliferator activated receptor responsive element consensus oligonucleotide in a luciferase reporter gene.
+Nafenopin treatment increased reporter gene activity in this system, whereas DHEA treatment did not.
+Okadaic acid significantly decreased nafenopin-induced reporter activity in a concentration-dependent manner.
+Okadaic acid treatment of primary rat hepatocytes decreased both DHEA- and nafenopin-induced FACO activity in primary rat hepatocytes.
+DHEA induced both PPARalpha mRNA and protein levels, as well as PP2A message in primary rat hepatocytes.
+Western blot analysis showed that the serines at positions 12 and 21 were rapidly dephosphorylated upon treatment with DHEA and nafenopin.
+Results using specific protein phosphatase inhibitors suggested that protein phosphatase 2A (PP2A) is responsible for DHEA action, and protein phosphatase 1 might be involved in nafenopin induction.
+Mutation of serines at position 6, 12, and 21 to an uncharged alanine residue significantly increased transcriptional activity, whereas mutation to negative charged aspartate residues (mimicking receptor phosphorylation) decreased transcriptional activity.
+DHEA action involves induction of PPARalpha mRNA and protein levels as well as increased PPARalpha transcriptional activity through decreasing receptor phosphorylation at serines in the AF1 region.

@@ -1,0 +1,12 @@
+Sulindac sulfide inhibits epidermal growth factor-induced phosphorylation of extracellular-regulated kinase 1/2 and Bad in human colon cancer cells.
+Colorectal cancer is the second leading cause of cancer death in the United States.
+Nonsteroidal anti-inflammatory drugs including sulindac are promising chemopreventive agents for colorectal cancer.
+Sulindac and selective cyclooxygenase (COX)-2 inhibitors cause regression of colonic polyps in familial polyposis patients.
+Sulindac induces apoptotic cell death in cancer cells in vitro and in vivo.
+In tumor cells, activation of extracellular-regulated kinase (ERK) 1/2 results in phosphorylation of several ERK1/2 effectors, including the proapoptotic protein Bad.
+Phosphorylation of Ser112 by ERK1/2 inactivates Bad and protects the tumor cell from apoptosis.
+Sulindac metabolites and other nonsteroidal anti-inflammatory drugs selectively inhibit ERK1/2 phosphorylation in human colon cancer cells.
+In this study we show that epidermal growth factor (EGF) strongly induces phosphorylation of ERK1/2 and Bad in HT29 colon cancer cells.
+EGF-stimulated phosphorylation of ERK and Bad is blocked by pretreatment with U0126, a selective MAP kinase kinase (MKK)1/2 inhibitor.
+Similarly, pretreatment with sulindac sulfide blocks the ability of EGF to induce ERK1/2 and Bad phosphorylation, but also down-regulates total Bad but not ERK1/2 protein levels.
+The ability of sulindac to block ERK1/2 signaling by the EGF receptor may account for at least part of its potent growth-inhibitory effects against cancer cells.

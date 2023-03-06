@@ -1,0 +1,9 @@
+Modulation of mitochondrial glutathione status and cellular energetics in primary cultures of proximal tubular cells from remnant kidney of uninephrectomized rats.
+Compensatory renal hypertrophy following reduction in renal mass leads to a hypermetabolic state and increases in basal mitochondrial oxidative stress and susceptibility to several nephrotoxicants.
+Previous studies provide conflicting data on whether renal mitochondria after reduction in renal mass undergo proliferation or hypertrophy or both.
+In the present study, our goal was to determine whether mitochondria of hypertrophied kidney undergo hypertrophy or proliferation after uninephrectomy using the uninephrectomized (NPX) rat model.
+Renal proximal tubular (PT) cells from NPX rats exhibited increased mitochondrial density, membrane potential and protein but no significant difference in mitochondrial DNA, as compared to PT cells from control rats.
+Our previous studies showed that overexpression of two mitochondrial anion transporters, the dicarboxylate (DIC, Slc25a10) and oxoglutarate (OGC, Slc25a11) carriers, in NRK-52E cells resulted in increased mitochondrial uptake of glutathione (GSH) and protection from chemically induced apoptosis.
+In the present study, we overexpressed DIC- and OGC-cDNA plasmids to assess their function in renal PT cells after compensatory renal hypertrophy.
+PT cells from NPX rats that were first preincubated with GSH were protected from cytotoxicity due to the mitochondrial inhibitor antimycin A by overexpression of either of the two mitochondrial GSH transporters.
+Our present results provide further evidence that compensatory renal hypertrophy is associated primarily with mitochondrial hypertrophy and hyperpolarization and that manipulation of mitochondrial GSH transporters in PT cells of hypertrophied kidney can alter susceptibility to chemically induced injury under appropriate conditions and may be a suitable therapeutic approach.

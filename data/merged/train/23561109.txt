@@ -1,0 +1,9 @@
+Research on the preparation of antioxidant peptides derived from egg white with assisting of high-intensity pulsed electric field.
+Egg white protein powder, one of the main egg products, was hydrolysed by Alcalase, Trypsin, and Pepsin respectively to prepare antioxidant peptides.
+All hydrolysates were assayed by determination of reducing power (RP) ability.
+Three kinds of hydrolysates were prepared under optimal enzymatic parameters that were obtained from the preliminary one-factor-at-a-time (OFAT) and response surface methodology (RSM) experiments.
+The results showed that the Alcalase hydrolysates exerted the best RP ability.
+Thereafter, the Alcalase hydrolysates were sequentially fractionated by ultra filtration membranes in cut-off molecular weight (MW) of 30, 10, and 1kDa, and tested their antioxidant activities in terms of RP ability, DPPH radical scavenging ability, ABTS radical scavenging ability, and FRAP assay.
+Effects of high intensity pulsed electric field treatment were further investigated on antioxidant peptides to improve their activities.
+The results showed that Alcalase hydrolysates possessed the strongest antioxidant ability compared with the other two hydrolysates, particularly for the Fraction-3 with MW <1kDa.
+After PEF treatment, this fraction showed a significant improvement of RP ability within 5h (P<0.05).

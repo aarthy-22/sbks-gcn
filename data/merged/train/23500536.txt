@@ -1,0 +1,12 @@
+Characterization of monomeric and multimeric snake neurotoxins and other bioactive proteins from the venom of the lethal Australian common copperhead (Austrelaps superbus).
+Envenomation by Australian copperheads results mainly in muscle paralysis largely attributed to the presence of postsynaptic α-neurotoxins.
+However, poorly reversible neurotoxic effects suggest that these venoms may contain snake presynaptic phospholipase A2 neurotoxins (SPANs) that irreversibly inhibit neurotransmitter release.
+Using size-exclusion liquid chromatography, the present study isolated the first multimeric SPAN complex from the venom of the Australian common copperhead, Austrelaps superbus.
+The multimeric SPAN P-elapitoxin-As1a (P-EPTX-As1a) along with two novel monomeric SPANs and a new postsynaptic α-neurotoxin were then pharmacologically characterized using the chick biventer cervicis nerve-muscle preparation.
+All SPANs inhibited nerve-evoked twitch contractions at the neuromuscular junction without inhibiting contractile responses to cholinergic agonists or KCl.
+These actions are consistent with a prejunctional action to inhibit neurotransmitter release, without direct myotoxicity.
+Furthermore, the multimeric P-EPTX-As1a caused tetanic 'fade' in muscle tension under high frequency nerve stimulation, and produced a triphasic alteration to neurotransmitter release.
+These actions have been previously noted with other multimeric SPAN complexes such as taipoxin.
+Moreover, the neurotoxic α-subunit of P-EPTX-As1a shows high homology to taipoxin α-chain.
+Several other coagulopathic and myotoxic high mass proteins including a class PIII snake venom metalloproteinase, C-type lectin, l-amino acid oxidase, acetylcholinesterase and phospholipase B were also identified that may contribute to the overall toxicity of A. superbus venom.
+In conclusion, clinicians should be aware that early antivenom intervention might be necessary to prevent the onset of irreversible presynaptic neurotoxicity caused by multimeric and monomeric SPANs and that A. superbus venom is potentially capable of producing coagulopathic and myotoxic effects.

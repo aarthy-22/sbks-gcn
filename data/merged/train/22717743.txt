@@ -1,0 +1,9 @@
+Efficacy and long-term safety of alipogene tiparvovec (AAV1-LPL(S447X)) gene therapy for lipoprotein lipase deficiency: an open-label trial.
+We describe the 2-year follow-up of an open-label trial (CT-AMT-011-01) of AAV1-LPL(S447X) gene therapy for lipoprotein lipase (LPL) deficiency (LPLD), an orphan disease associated with chylomicronemia, severe hypertriglyceridemia, metabolic complications and potentially life-threatening pancreatitis.
+The LPL(S447X) gene variant, in an adeno-associated viral vector of serotype 1 (alipogene tiparvovec), was administered to 14 adult LPLD patients with a prior history of pancreatitis.
+Primary objectives were to assess the long-term safety of alipogene tiparvovec and achieve a 40% reduction in fasting median plasma triglyceride (TG) at 3-12 weeks compared with baseline.
+Cohorts 1 (n=2) and 2 (n=4) received 3 × 10(11) gc kg(-1), and cohort 3 (n=8) received 1 × 10(12) gc kg(-1).
+Cohorts 2 and 3 also received immunosuppressants from the time of alipogene tiparvovec administration and continued for 12 weeks.
+Alipogene tiparvovec was well tolerated, without emerging safety concerns for 2 years.
+Half of the patients demonstrated a 40% reduction in fasting TG between 3 and 12 weeks.
+TG subsequently returned to baseline, although sustained LPL(S447X) expression and long-term changes in TG-rich lipoprotein characteristics were noted independently of the effect on fasting plasma TG.

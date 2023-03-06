@@ -1,0 +1,11 @@
+Alpha1-adrenergic receptors and their inhibitors in lower urinary tract symptoms and benign prostatic hyperplasia.
+PURPOSE: We provide a comprehensive overview of the role of alpha1-adrenergic receptors (alpha1ARs) as critical mediators of lower urinary tract symptoms (LUTS) and pathophysiology in benign prostatic hyperplasia (BPH), and we review the pharmacological antagonists of alpha1ARs.
+MATERIALS AND METHODS: A review was performed of pertinent studies in the literature relating to the pathophysiology of LUTS and BPH, focusing on the role of alpha1ARs, and of clinical trial and practice data evaluating the different agents that inhibit these receptors.
+RESULTS: Further characterization of the alpha1AR gene family indicates that 3 receptor subtypes exist in humans.
+Their different distribution between urinary tract and cardiovascular tissues has provided a strategy for the development of improved therapeutic agents.
+Since excessive activity of the alpha1aAR and alpha1dAR subtypes appears to be a common feature in symptomatic BPH and alpha1aARs are enriched in prostatic tissue, drugs that demonstrate high alpha1aAR selectivity have attracted attention.
+Tamsulosin, which has high affinity for alpha1aAR and alpha1dAR subtypes but not for alpha1bAR, shows efficacy similar to the nonsubtype selective agents terazosin and doxazosin.
+It is associated with fewer cardiovascular side effects, although it has some ejaculatory side effects.
+The nonsubtype selective agent alfuzosin also demonstrates efficacy and offers an enhanced side effect profile, particularly minimizing hypotension.
+Other agents with super selective specificity for the alpha1aAR subtype are under investigation.
+CONCLUSIONS: Further advances in the treatment of LUTS associated with BPH may depend not only on receptor subtype selectivity, but also on other pharmacokinetic and pharmacodynamic factors.

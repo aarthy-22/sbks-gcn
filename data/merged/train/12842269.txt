@@ -1,0 +1,9 @@
+Binding and GTPgammaS autoradiographic analysis of preproorphanin precursor peptide products at the ORL1 and opioid receptors.
+Utilizing agonist-stimulated GTPgammaS autoradiography, we analyzed the ability of preproorphanin FQ (ppOFQ) peptides to stimulate [35S]-GTPgammaS binding in adult rat brain.
+Orphanin FQ (OFQ) stimulated [35S]-GTPgammaS binding in a pattern similar to that described for [125I]-OFQ at the endogenous opioid receptor-like (ORL1) receptor.
+The ppOFQ peptides nocistatin and orphanin FQ2 (OFQ II(1-17)) had no effect, suggesting that they do not mediate their reported analgesic effects via a G(i/o)-coupled receptor (i.e. opioid or ORL1).
+Unlike OFQ II(1-17), high concentrations of its C-terminal extension, OFQ II(1-28), stimulated [35S]-GTPgammaS binding in a mu (mu) opioid receptor-like distribution and the effect was blocked by naloxone.
+To explore these observations, we evaluated the receptor binding profile of OFQ II(1-28) at the cloned ORL1 and mu opioid receptors.
+OFQ II(1-28) had no specific binding at either ORL1 or mu opioid receptors at concentrations up to 50 microM. This lack of affinity was not consistent with a mu-mediated effect, as suggested by preliminary observation using functional autoradiography in rat brain sections.
+Although behavioral studies suggest that OFQ II(1-28) possesses analgesic activity, this effect does not appear to be mediated via direct binding at the mu opioid receptor.
+Taken together, these findings support the view that (1) OFQ is the only ppOFQ peptide that binds to and activates the ORL1 receptor and (2) OFQ II(1-28) does not bind or stimulate [35S]-GTPgammaS binding in cells expressing the mu opioid receptor.

@@ -1,0 +1,8 @@
+Antioxidants and mucolytics in COPD management: when (if ever) and in whom? Chronic obstructive pulmonary disease (COPD) is a major cause of morbidity and mortality worldwide.
+Oxidative stress is an important mechanism in the pathogenesis of this disease.
+The oxidant/ antioxidant imbalance occurring in smokers and patients with COPD is well established.
+Thus, therapeutic strategies targeting oxidative stress with pharmacological antioxidant agents or boosting the endogenous levels of antioxidants is likely to be beneficial as an adjunctive tool in the treatment of COPD patients.
+Thiol compounts such as N-acetyl-L-cysteine (NAC), carbocysteine, erdosteine, and fudosteine have been extensively studied.
+Although some results remain controversial, NAC and carbocysteine seem to have beneficial effect in patients not receiving inhaled corticosteroids who suffer from frequent exacerbations.
+In addition, other antioxidants like superoxide dismutase (SOD) mimetics and nuclear factor-erythroid 2 related factor 2 (Nrf2) are shown to decrease markers of oxidative stress in patients with emphysema, while others like glutathione peroxidase (GPx) mimetics and NO synthase (iNOS) can prevent both inflammation and oxidative stress in clinical trials in vivo (or in mouse models).
+In this article we review the effectiveness of various antioxidant factors in COPD and their potential beneficial effect in the treatment of the disease.

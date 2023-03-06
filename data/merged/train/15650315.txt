@@ -1,0 +1,12 @@
+Pranlukast, a leukotriene receptor antagonist, inhibits interleukin-5 production via a mechanism distinct from leukotriene receptor antagonism.
+BACKGROUND: Pranlukast, a cysteinyl leukotriene receptor 1 (CysLTR1) antagonist, inhibits not only airway smooth muscle contraction, but also allergic inflammation.
+The aim of this study was to determine the mechanism of pranlukast-induced interleukin-5 (IL-5) inhibition in allergic inflammation.
+METHODS: Surgically resected human lung tissue was passively sensitized in vitro with mite-allergen-sensitized sera, followed by stimulation with mite allergen after pretreatment of the tissue with pranlukast, dexamethasone, or both.
+The IL-5 protein level in the culture medium was measured, and in situ hybridization of IL-5 and CysLTR1 mRNA was performed using lung tissues.
+RESULTS: Pretreatment of lung tissues with pranlukast alone significantly decreased the amount of IL-5 protein in the culture medium by 40%.
+The combination of pranlukast and dexamethasone synergistically enhanced this effect.
+Quantitative in situ hybridization with image analysis revealed abundant expression of IL-5 mRNA in eosinophils, lymphocytes, and mast cells in sensitized and allergen-stimulated lung tissues.
+CysLTR1 mRNA was detected in macrophages, smooth muscle cells, eosinophils, and mast cells, but was less expressed in lymphocytes.
+Pranlukast-induced inhibition of IL-5 mRNA expression was noted in various cells, irrespective of their CysLTR1 mRNA expression status.
+In addition, cysteinyl leukotrienes per se failed to upregulate the IL-5 production.
+CONCLUSION: Our results indicate that pranlukast inhibits IL-5 synthesis via a mechanism distinct from CysLTR1 antagonism.

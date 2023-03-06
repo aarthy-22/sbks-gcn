@@ -1,0 +1,14 @@
+Minocycline protects against permanent cerebral ischemia in wild type but not in matrix metalloprotease-9-deficient mice.
+Minocycline is protective in models of transient middle cerebral artery occlusion (MCAO).
+We studied whether minocycline and doxycycline, another tetracycline derivative, provide protection in permanent MCAO.
+Because minocycline inhibits matrix metalloprotease-9 (MMP-9), we also compared minocycline's protective effect in wild type (wt) and MMP-9 knock-out (ko) mice.
+Wt FVB/N, Balb/C, and two lines of MMP-9 ko and their wt C57Bl/6 control mice were subjected to 24- or 72-hour permanent MCAO.
+Drug administration was started either 12 hours before or 2 hours after the onset of MCAO.
+Infarct size was determined by triphenyltetrazolium staining or T2-weighted MRI.
+Zymography was used to study the expression of MMPs.
+In wt strains, tetracycline treatments started before MCAO reduced the infarct size by 25% to 50%, whereas the treatment started after MCAO was not protective.
+Minocycline inhibited ischemia-provoked pro-MMP-9 induction in wt mice, but was not protective in MMP-9 ko mice.
+Pro-MMP-2 was induced by MCAO in wt and MMP-9 ko mice.
+MCAO-induced pro-MMP-2 was downregulated by minocycline treatment in wt mice but remained in MMP-9 ko mice at the same level as in saline-treated wt mice.
+Tetracyclines are protective in permanent MCAO when the treatment is started before the insult.
+Minocycline may provide protection by interfering with MMPs.

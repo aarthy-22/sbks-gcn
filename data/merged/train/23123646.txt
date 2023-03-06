@@ -1,0 +1,8 @@
+Neuroprotective role of ATP-sensitive potassium channels in cerebral ischemia.
+ATP-sensitive potassium (K(ATP)) channels are weak, inward rectifiers that couple metabolic status to cell membrane electrical activity, thus modulating many cellular functions.
+An increase in the ADP/ATP ratio opens K(ATP) channels, leading to membrane hyperpolarization.
+K(ATP) channels are ubiquitously expressed in neurons located in different regions of the brain, including the hippocampus and cortex.
+Brief hypoxia triggers membrane hyperpolarization in these central neurons.
+In vivo animal studies confirmed that knocking out the Kir6.2 subunit of the K(ATP) channels increases ischemic infarction, and overexpression of the Kir6.2 subunit reduces neuronal injury from ischemic insults.
+These findings provide the basis for a practical strategy whereby activation of endogenous K(ATP) channels reduces cellular damage resulting from cerebral ischemic stroke.
+K(ATP) channel modulators may prove to be clinically useful as part of a combination therapy for stroke management in the future.

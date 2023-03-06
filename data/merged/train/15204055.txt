@@ -1,0 +1,10 @@
+Are the cognitive effects of atypical antipsychotics influenced by their affinity to 5HT-2A receptors?
+It is well documented that atypical antipsychotics have an influence on cognitive function in patients with schizophrenia, although the neurochemical basis for this effect is not well understood.
+One suggestion is that the effects are exerted through action on 5HT-2A receptors, which leads to changes in the level of dopamine in the prefrontal cortex.
+The following study explored this hypothesis by comparing the cognitive effects of the atypical antipsychotics which have a high affinity for 5HT-2A receptors, with those that have little or no affinity to these receptors.
+Forty-four patients with a DSM-IV diagnosis of schizophrenia were recruited within 6 weeks of starting one of the atypical antipsychotics: clozapine, olanzapine, risperidone, quetiapine, or amisulpride.
+The patients were divided into two groups according to the 5HT-2A affinity of the individual medications (high 5HT-2A affinity--clozapine, olanzapine, risperidone vs. low 5HT-2A affinity--quetiapine, amisulpride).
+Patients were tested on a broad range of neuropsychological measures after 9 months and 18 months of treatment.
+The high 5HT-2A affinity group showed a decrement in performance on tests of visual recognition memory and planning ability.
+In contrast, the low-5HT-2A affinity group showed improvements on these measures in addition to others.
+The 5HT-2A affinity of the atypical antipsychotics is an important determinant of their cognitive effects.

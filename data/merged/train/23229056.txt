@@ -1,0 +1,6 @@
+Synthesis and antibacterial evaluation of novel 11,4″-disubstituted azithromycin analogs with greatly improved activity against erythromycin-resistant bacteria.
+A series of novel 11,4″-disubstituted azithromycin analogs were synthesized and evaluated for their antibacterial activity.
+All the 11,4″-disubstituted analogs exhibited excellent activity (0.03-0.12 μg/ml) against erythromycin-susceptible Streptococcus pneumoniae, and significantly improved activity against three phenotypes of erythromycin-resistant S. pneumoniae compared with erythromycin A, clarithromycin or azithromycin.
+Among them, compounds 26-28 showed the most potent activity (0.25, 0.03 and 2 μg/ml) against S. pneumoniae expressing the erm gene, the mef gene and the erm and mef genes, respectively.
+In addition, compound 28 was the most effective (0.03 and 0.12 μg/ml) against erythromycin-susceptible S. pneumoniae and Staphylococcus aureus as well.
+It is noteworthy that the most active compounds described above possess the same terminal 3,5-dinitrophenyl groups on their C-4″ bisamide side chains.

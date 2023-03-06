@@ -1,0 +1,12 @@
+Mechanism of the irreversible inactivation of mouse ornithine decarboxylase by alpha-difluoromethylornithine.
+Characterization of sequences at the inhibitor and coenzyme binding sites.
+Mouse ornithine decarboxylase (ODC) was expressed in Escherichia coli and the purified recombinant enzyme used for determination of the binding site for pyridoxal 5'-phosphate and of the residues modified in the inactivation of the enzyme by the enzyme-activated irreversible inhibitor, alpha-difluoromethylornithine (DFMO).
+The pyridoxal 5'-phosphate binding lysine in mouse ODC was identified as lysine 69 of the mouse sequence by reduction of the purified holoenzyme form with NaB[3H]4 followed by digestion of the carboxymethylated protein with endoproteinase Lys-C, radioactive peptide mapping using reversed-phase high pressure liquid chromatography and gas-phase peptide sequencing.
+This lysine is contained in the sequence PFYAVKC, which is found in all known ODCs from eukaryotes.
+The preceding amino acids do not conform to the consensus sequence of SXHK, which contains the pyridoxal 5'-phosphate binding lysine in a number of other decarboxylases including ODCs from E. coli.
+Using a similar procedure to analyze ODC labeled by reaction with [5-14C]DFMO, it was found that lysine 69 and cysteine 360 formed covalent adducts with the inhibitor.
+Cysteine 360, which was the major adduct accounting for about 90% of the total labeling, is contained within the sequence -WGPTCDGL(I)D-, which is present in all known eukaryote ODCs.
+These results provide strong evidence that these two peptides form essential parts of the catalytic site of ODC.
+Analysis by fast atom bombardment-mass spectrometry of tryptic peptides containing the DFMO-cysteine adduct indicated that the adduct formed in the enzyme was probably the cyclic imine S-(2-(1-pyrroline)methyl)cysteine.
+This is readily oxidized to S-((2-pyrrole)methyl)cysteine or converted to S-((2-pyrrolidine)methyl)cysteine by NaBH4 reduction.
+This adduct is consistent with spectral evidence showing that inactivation of the enzyme with DFMO does not entail the formation of a stable adduct between the pyridoxal 5'-phosphate, the enzyme, and the inhibitor.

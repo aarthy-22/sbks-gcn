@@ -1,0 +1,9 @@
+Glutathione S-transferase polymorphisms, cruciferous vegetable intake and cancer risk in the Central and Eastern European Kidney Cancer Study.
+High consumption of cruciferous vegetables has been associated with reduced kidney cancer risk in many studies.
+Isothiocyanates, thought to be responsible for the chemopreventive properties of this food group, are conjugated to glutathione by glutathione S-transferases (GSTs) before urinary excretion.
+Modification of this relationship by host genetic factors is unknown.
+We investigated cruciferous vegetable intake in 1097 cases and 1555 controls enrolled in a multicentric case-control study from the Czech Republic, Poland, Romania and Russia.
+To assess possible gene-diet interactions, genotyped cases (N = 925) and controls (N = 1247) for selected functional or non-synonymous polymorphisms including the GSTM1 deletion, GSTM3 3 bp deletion (IVS6 + 22-AGG) and V224I G>A substitution, GSTT1 deletion and the GSTP1 I105V A>G substitution.
+The odds ratio (OR) for low (less than once per month) versus high (at least once per week) intake of cruciferous vegetables was 1.29 [95% confidence interval (CI): 1.02-1.62; P-trend = 0.03].
+When low intake of cruciferous vegetables (less than once per month) was stratified by GST genotype, higher kidney cancer risks were observed among individuals with the GSTT1 null (OR = 1.86; 95% CI: 1.07-3.23; P-interaction = 0.05) or with both GSTM1/T1 null genotypes (OR = 2.49; 95% CI: 1.08-5.77; P-interaction = 0.05).
+These data provide additional evidence for the role of cruciferous vegetables in cancer prevention among individuals with common, functional genetic polymorphisms.

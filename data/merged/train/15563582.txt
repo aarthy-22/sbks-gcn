@@ -1,0 +1,13 @@
+Structural determinants of arylacetic acid nonsteroidal anti-inflammatory drugs necessary for binding and activation of the prostaglandin D2 receptor CRTH2.
+The chemoattractant receptor-homologous molecule expressed on Th2 cells (CRTH2) receptor, a G protein-coupled receptor that mediates chemotaxis of inflammatory cells in response to prostaglandin D2 (PGD2), is hypothesized to play a role in Th2-mediated allergic disease.
+In addition to PGD2, CRTH2 can be activated by indomethacin, a nonselective cyclooxygenase inhibitor and widely used nonsteroidal anti-inflammatory drug (NSAID).
+To evaluate the structural features that confer CRTH2 binding selectivity, structure-activity relationship analysis of arylacetic acid class NSAIDs as CRTH2 receptor ligands was performed.
+Indomethacin, sulindac sulfide, and zomepirac displaced [3H]PGD2 binding at the mouse CRTH2 receptor (mCRTH2) with comparable affinity (Ki = 1.5 +/-
+0.1, 2.5 +/- 0.4, and 3.3 +/- 0.3 microM, respectively).
+The indomethacin metabolite 5'-O-desmethyl indomethacin (5'-DMI) possessed binding affinity similar to indomethacin; however, elimination of the 2-methyl substituent on the indole ring resulted in a 10-fold decrease in binding affinity.
+No binding was detected for indole acetic acid and indole derivatives such as tryptophan, serotonin, and 5-hydroxy indole acetic acid, demonstrating the importance of the N-acyl moiety of indomethacin.
+Neutral derivatives of indomethacin also failed to bind to mCRTH2, suggesting that the negatively charged carboxylate moiety participates in a key ligand-receptor interaction.
+Despite similar binding affinities, NSAID-type mCRTH2 ligands exhibited variable potencies as mCRTH2 agonists.
+Sulindac sulfide and 5'-DMI inhibited intracellular cyclic AMP ([cAMP]i) generation and stimulated cell migration comparable with indomethacin.
+In contrast, zomepirac did not inhibit [cAMP]i generation or stimulate cell migration but weakly antagonized the effects of indomethacin on [cAMP]i.
+Together, these results reveal structural features of arylacetic acid NSAIDs that may be exploited for the development of selective CRTH2 ligands.

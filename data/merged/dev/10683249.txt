@@ -1,0 +1,12 @@
+Characterization and partial purification of microsomal NAD(P)H:quinone oxidoreductases.
+Quinone oxidoreductases are flavoproteins that catalyze two-electron reduction and detoxification of quinones.
+This leads to the protection of cells against toxicity, mutagenicity, and cancer due to exposure to environmental and synthetic quinones and its precursors.
+Two cytosolic forms of quinone oxidoreductases [NAD(P)H:quinone oxidoreductase 1 (NQO1) and NRH:quinone oxidoreductase 2 (NQO2)] were previously identified, purified, and cloned.
+A role of cytosolic NQO1 in protection of cells from oxidative stress, cytotoxicity, and mutagenicity of quinones was established.
+Currently, we have characterized and partially purified the NQO activity from rat liver microsomes.
+This activity was designated as microsomal NQO (mNQO).
+The mNQO activity showed significantly higher affinity for NADH than NADPH as electron donors and catalyzed reduction of 2,6-dichlorophenolindophenol and menadione.
+The mNQO activity was insensitive to dicoumarol, a potent inhibitor of cytosolic NQO1.
+Western analysis of microsomal proteins revealed 29- and 18-kDa bands that cross-reacted with polyclonal antibodies raised against cytosolic NQO1.
+The mNQO activity was partially purified by solubilization of microsomes with detergent Chaps, ammonium sulfate fractionation, and DEAE-Sephacel column chromatography.
+The microsomal mNQO proteins are expected to provide additional protection after cytosolic NQOs against quinone toxicity and mutagenicity.

@@ -1,0 +1,8 @@
+Effect of ketoconazole on the pharmacokinetic profile of ambrisentan.
+Ambrisentan is an endothelin type A (ET(A))-selective receptor antagonist that is metabolized primarily by glucuronidation but also undergoes oxidative metabolism by CYP3A4.
+The potential for ketoconazole, the archetypal strong inhibitor of CYP3A4, to alter the pharmacokinetic profile of ambrisentan and its oxidative metabolite, 4-hydroxymethyl ambrisentan, was assessed in an open-label, nonrandomized, 2-period, single-sequence study in 16 healthy men.
+Participants received a single dose of ambrisentan 10 mg alone and after 4 days of ketoconazole 400 mg administered once daily.
+In the presence of multiple doses of ketoconazole, single-dose ambrisentan AUC(0-infinity) estimate was increased by 35.3%, whereas C(max) was increased by 20.0%.
+For the 4-hydroxymethyl ambrisentan metabolite, AUC(0-infinity) estimate was decreased by 4.0%, whereas C(max) was decreased by 16.5%.
+Concomitant administration of ambrisentan and ketoconazole was well tolerated.
+In summary, ketoconazole had no clinically significant effect on the pharmacokinetics or safety profile of ambrisentan; therefore, no changes in ambrisentan dose should be necessary when the drug is administered concomitantly with known CYP3A4 inhibitors.

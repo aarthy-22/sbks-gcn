@@ -1,0 +1,16 @@
+Purification and structural characterisation of phospholipase A1 (Vespapase, Ves a 1) from Thai banded tiger wasp (Vespa affinis) venom.
+The Thai banded tiger wasp (Vespa affinis) is one of the most dangerous vespid species in Southeast Asia, and stinging accidents involving this species still cause fatalities.
+In the present study, four forms of V. affinis phospholipase A(1) were identified through a proteomics approach.
+Two of these enzymes were purified by reverse-phase chromatography, and their biochemical properties were characterised.
+These enzymes, designated Ves a 1s, are not glycoproteins and exist as 33441.5 and 33474.4 Da proteins, which corresponded with the 34-kDa band observed via SDS-PAGE.
+The thermal stabilities of these enzymes were stronger than snake venom.
+Using an in vivo assay, no difference was found in the toxicities of the different isoforms.
+Furthermore, the toxicity of these enzymes does not appear to be correlated with their PLA(1) activity.
+The cDNAs of the full-length version of Ves a 1s revealed that the Ves a 1 gene consists of a 1005-bp ORF, which encodes 334 amino acid residues, and 67- and 227-bp 5' and 3' UTRs, respectively.
+The two isoforms are different by three nucleotide substitutions, resulting in the replacement of two amino acids.
+Through sequence alignment, these enzymes were classified as members of the pancreatic lipase family.
+The structural modelling of Ves a 1 used the rat pancreatic lipase-related protein 2 (1bu8A) as a template because it has PLA(1) activity, which demonstrated that this enzyme belongs to the α/β hydrolase fold family.
+The Ves a 1 structure, which is composed of seven α-helixes and eleven β-strands, contains the β-strand/ɛSer/α-helix structural motif, which contains the Gly-X-Ser-X-Gly consensus sequence.
+The typical surface structures that play important roles in substrate selectivity (the lid domain and the β9 loop) were shortened in the Ves a 1 structure, which suggests that this enzyme may only exhibit phospholipase activity.
+Moreover, the observed insertion of proline into the lid domain of the Ves a 1 structure is rare.
+We therefore propose that this proline residue might be involved in the stability and activity of Ves a 1s.

@@ -1,0 +1,14 @@
+Lifelong exposure to bisphenol a alters cardiac structure/function, protein expression, and DNA methylation in adult mice.
+Bisphenol A (BPA) is an estrogenizing endocrine disruptor compound of concern.
+Our objective was to test whether lifelong BPA would impact cardiac structure/function, calcium homeostasis protein expression, and the DNA methylation of cardiac genes.
+We delivered 0.5 and 5.0 µg/kg/day BPA lifelong from gestation day 11 or 200 µg/kg/day from gestation day 11 to postnatal day 21 via the drinking water to C57bl/6n mice.
+BPA 5.0 males and females had increased body weight, body mass index, body surface area, and adiposity.
+Echocardiography identified concentric remodeling in all BPA-treated males.
+Systolic and diastolic cardiac functions were essentially similar, but lifelong BPA enhanced male and reduced female sex-specific differences in velocity of circumferential shortening and ascending aorta velocity time integral.
+Diastolic blood pressure was increased in all BPA females.
+The calcium homeostasis proteins sarcoendoplasmic reticulum ATPase 2a (SERCA2a), sodium calcium exchanger-1, phospholamban (PLB), phospho-PLB, and calsequestrin 2 are important for contraction and relaxation.
+Changes in their expression suggest increased calcium mobility in males and reduced calcium mobility in females supporting the cardiac function changes.
+DNA methyltransferase 3a expression was increased in all BPA males and BPA 0.5 females and reduced in BPA 200 females.
+Global DNA methylation was increased in BPA 0.5 males and reduced in BPA 0.5 females.
+BPA induced sex-specific altered DNA methylation in specific CpG pairs in the calsequestrin 2 CpG island.
+These results suggest that continual exposure to BPA impacts cardiac structure/function, protein expression, and epigenetic DNA methylation marks in males and females.

@@ -1,0 +1,8 @@
+Endothelial cell response to (co)polymer nanoparticles depending on the inflammatory environment and comonomer ratio.
+Endothelial cells lining the lumen of blood vessels serve as a physiological barrier controlling nanoparticle movement from the vasculature into the tissue.
+For exploring the effect of polymer hydrophilicity on nanoparticle interactions with human umbilical vein endothelial cells (HUVECs) in vitro, a series of monomodal poly[acrylonitrile-co-(N-vinylpyrrolidone)] model nanoparticles with increasing hydrophilicity as related to their increasing content (0-30mol.%) of N-vinylpyrrolidone (NVP) were synthesized by miniemulsion polymerization.
+Nanoparticles with a low NVP content were rapidly endocytized into all cells independent from the particle dose with toxic effects only observed at high particle concentrations, while only 10-30% of the cells incorporated particles with ⩾20mol.% NVP.
+Since pathologies are often related to inflammation, an inflammatory HUVEC culture condition with IL-1β stimulation has been introduced and suggested to be widely applied for studying nanocarriers, since cellular uptake in this assay was clearly increased for NVP contents ⩾20mol.%.
+Importantly, the secretion of functional biological mediators by HUVEC was not relevantly influenced by the nanoparticles for both homeostatic and inflammatory conditions.
+These findings may motivate concepts for nanocarriers specifically targeted to pathologic regions.
+Additionally, rapidly endocytized RhodaminB loaded particles with low NVP content may be explored for cell labeling and tracking.

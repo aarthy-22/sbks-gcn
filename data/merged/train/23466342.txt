@@ -1,0 +1,9 @@
+Reversal of P-glycoprotein-mediated multidrug resistance is induced by mollugin in MCF-7/adriamycin cells.
+P-glycoprotein (P-gp), an important efflux transporter, is encoded by the MDR1 class of genes and is a central element of the multidrug resistance (MDR) phenomenon in cancer cells.
+In the present study, we investigated whether mollugin, purified from roots of Rubica cordifolia L., down-regulated MDR1 expression in MCF-7/adriamycin (MCF-7/adr) cells, a human breast multidrug-resistant cancer cell line.
+Mollugin treatment significantly inhibited MDR1 expression by blocking MDR1 transcription.
+Mollugin treatment also significantly increased intracellular accumulation of the fluorescently-tagged P-gp substrate, rhodamine-123.
+The suppression of MDR1 promoter activity and protein expression was mediated through mollugin-induced activation of AMP-activated protein kinase (AMPK).
+Furthermore, mollugin inhibited MDR1 expression through the suppression of NF-κB and CREB activation.
+Interestingly, mollugin also inhibited COX-2 expression.
+These results suggest that mollugin treatment enhanced suppression of P-gp expression by inhibiting the NF-κB signaling pathway and COX-2 expression, as well as attenuating CRE transcriptional activity through AMPK activation.

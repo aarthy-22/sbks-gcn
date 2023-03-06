@@ -1,0 +1,6 @@
+Synthesis and anti-acetylcholinesterase properties of novel β- and γ-substituted alkoxy organophosphonates.
+Activated organophosphate (OP) insecticides and chemical agents inhibit acetylcholinesterase (AChE) to form OP-AChE adducts.
+Whereas the structure of the OP correlates with the rate of inhibition, the structure of the OP-AChE adduct influences the rate at which post-inhibitory reactivation or aging phenomena occurs.
+In this report, we prepared a panel of β-substituted ethoxy and γ-substituted propoxy phosphonoesters of the type p-NO(2)PhO-P(X)(R)[(O(CH(2))(n)Z] (R=Me, Et; X=O, S; n=2, 3; Z=halogen, OTs) and examined the inhibition of three AChEs by select structures in the panel.
+The β-fluoroethoxy methylphosphonate analog (R=Me, Z=F, n=2) was the most potent anti-AChE compound comparable (ki ∼6 × 10(6)M(-1)min(-1)) to paraoxon against EEAChE. Analogs with Z=Br, I, or OTs were weak inhibitors of the AChEs, and methyl phosphonates (R=Me) were more potent than the corresponding ethyl phosphonates (R=Et).
+As expected, analogs with a thionate linkage (PS) were poor inhibitors of the AChEs.

@@ -1,0 +1,8 @@
+Analgesic and anti-inflammatory activities of aqueous extract from Glycine tomentella root in mice.
+In the present study, we have investigated the analgesic effect of the aqueous extract of the root of Glycine tomentella (AGT) using models of acetic acid-induced writhing response and formalin test, the anti-inflammatory effect of AGT using model of lambda-carrageenan-induced paw edema.
+In order to investigate the anti-inflammatory mechanism of AGT, we have detected the activities of glutathione peroxidase (GPx) and glutathione reductase (GRx) in the liver and the levels of malondialdehyde (MDA) and NO in the edema paw.
+In the analgesic test, AGT (0.5 and 1.0 g/kg) decreased the acetic acid-induced writhing response and the licking time on the late phase in the formalin test.
+In the anti-inflammatory test, AGT (0.5 and 1.0 g/kg) decreased the paw edema at the third, fourth, fifth and sixth hour after lambda-carrageenan administration, and increased the activities of SOD, GPx and GRx in the liver tissue and decreased the MDA level in the edema paw at the third hour after lambda-carrageenan injection.
+However, AGT could not affect the NO level which induced by lambda-carrageenan.
+These results suggested that AGT possessed analgesic and anti-inflammatory effects.
+The anti-inflammatory mechanism of AGT might be related to the decrease in the level of MDA in the edema paw via increasing the activities of SOD, GPx and GRx in the liver.

@@ -1,0 +1,8 @@
+In vitro study of intestinal transport of fluoride using the Caco-2 cell line.
+Water and food are the main sources of fluoride exposure and therefore it is necessary to study intestinal absorption in order to make a correct evaluation of the risk/benefit associated with exposure to fluoride.
+The present study characterizes intestinal transport of fluoride, using the Caco-2 cell line as a model of the intestinal epithelium, and evaluates the coefficients of apparent permeability and intracellular accumulation in various conditions (pH, temperature, opening of cell junctions, presence of anions).
+The results indicate that fluoride is an element with moderate absorption (<70%) in both directions (absorptive and secretory).
+Both in absorption (apical-basolateral) and in secretion (basolateral-apical) there is transport by the paracellular pathway, which may be considered predominant.
+Absorption and secretion of fluoride increase at acid pH levels, possibly because of its non-ionized state at these pHs and/or because of participation of a F(-)/H(+) cotransporter or a F(-)/OH(-) antiporter.
+The results also suggest transcellular participation of mechanisms involved in transport of Cl(-) and of an active transport in the secretory direction.
+The present study extend the knowledge on the cellular transport of fluoride and provide the basis for future studies aimed at identifying potential transporters involved in human fluoride absorption.

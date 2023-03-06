@@ -1,0 +1,10 @@
+Ketamine combinations for the field treatment of soman-induced self-sustaining status epilepticus.
+Review of current data and perspectives.
+Organophosphorus nerve agents (NA), potent irreversible cholinesterase inhibitors, could induce severe seizures, status epilepticus (SE), seizure-related brain damage (SRBD) and lethality.
+Despite the lack of data in the case of NA, clinical evidences suggest that SE survivors could suffer from neurological/cognitive deficits and impairments such as spontaneous recurrent seizures (epilepsy) after a latent period of epileptogenesis.
+It is beyond doubt that an effective and quick management of the initial seizures and prevention of SRBD are critical to prevent these long-term consequences, explaining why most experimental data are focusing on the 5-40min post-exposure time frame.
+However, in field conditions, treatment may be delayed and with the exception of NMDA receptor antagonists, currently no drug provides protection (against lethality, seizures, SRBD and neurological consequences) when seizures are left unabated for one hour or more.
+Ketamine (KET) is the only NMDA antagonist licensed as an injectable drug in different countries and remains an anesthetic of choice in some difficult field conditions.
+In this short review paper, after a presentation of some of the key points of the pathophysiology of NA-induced SE and a quick survey of the potential therapeutic avenues in the context of delayed treatment of NA-induced SE, we will review the recent data we obtained showing that KET, in combination with atropine sulfate (AS), with or without a benzodiazepine, considerably reduces soman-induced neuroinflammation, provides neuroprotection, histologically and functionally, and also positively modify soman-induced changes in brain metabolism.
+Finally, we will also mention some results from safety studies including those bringing evidence that, at difference with MK-801, KET does not impair thermoregulation and even seems to reduce AS-induced heat stress.
+All in all, KET, in combination, appears a good candidate for the out-of-hospital treatment of severe NA-induced SE.

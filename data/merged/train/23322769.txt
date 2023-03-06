@@ -1,0 +1,12 @@
+Genome-wide screen for modulation of hepatic apolipoprotein A-I (ApoA-I) secretion.
+Control of plasma cholesterol levels is a major therapeutic strategy for management of coronary artery disease (CAD).
+Although reducing LDL cholesterol (LDL-c) levels decreases morbidity and mortality, this therapeutic intervention only translates into a 25-40% reduction in cardiovascular events.
+Epidemiological studies have shown that a high LDL-c level is not the only risk factor for CAD; low HDL cholesterol (HDL-c) is an independent risk factor for CAD.
+Apolipoprotein A-I (ApoA-I) is the major protein component of HDL-c that mediates reverse cholesterol transport from tissues to the liver for excretion.
+Therefore, increasing ApoA-I levels is an attractive strategy for HDL-c elevation.
+Using genome-wide siRNA screening, targets that regulate hepatocyte ApoA-I secretion were identified through transfection of 21,789 siRNAs into hepatocytes whereby cell supernatants were assayed for ApoA-I. Approximately 800 genes were identified and triaged using a convergence of information, including genetic associations with HDL-c levels, tissue-specific gene expression, druggability assessments, and pathway analysis.
+Fifty-nine genes were selected for reconfirmation; 40 genes were confirmed.
+Here we describe the siRNA screening strategy, assay implementation and validation, data triaging, and example genes of interest.
+The genes of interest include known and novel genes encoding secreted enzymes, proteases, G-protein-coupled receptors, metabolic enzymes, ion transporters, and proteins of unknown function.
+Repression of farnesyltransferase (FNTA) by siRNA and the enzyme inhibitor manumycin A caused elevation of ApoA-I secretion from hepatocytes and from transgenic mice expressing hApoA-I and cholesterol ester transfer protein transgenes.
+In total, this work underscores the power of functional genetic assessment to identify new therapeutic targets.

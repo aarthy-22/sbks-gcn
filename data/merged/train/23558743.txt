@@ -1,0 +1,9 @@
+Human polymerase kappa uses a template-slippage deletion mechanism, but can realign the slipped strands to favour base substitution mutations over deletions.
+Polymerases belonging to the DinB class of the Y-family translesion synthesis DNA polymerases have a preference for accurately and efficiently bypassing damaged guanosines.
+These DinB polymerases also generate single-base (-1) deletions at high frequencies with most occurring on repetitive 'deletion hotspot' sequences.
+Human DNA polymerase kappa (hPolκ), the eukaryotic DinB homologue, displays an unusual efficiency for to extend from mispaired primer termini, either by extending directly from the mispair or by primer-template misalignment.
+This latter property explains how hPolκ creates single-base deletions in non-repetitive sequences, but does not address how deletions occur in repetitive deletion hotspots.
+Here, we show that hPolκ uses a classical Streisinger template-slippage mechanism to generate -1 deletions in repetitive sequences, as do the bacterial and archaeal homologues.
+After the first nucleotide is added by template slippage, however, hPolκ can efficiently realign the primer-template duplex before continuing DNA synthesis.
+Strand realignment results in a base-substitution mutation, minimizing generation of more deleterious frameshift mutations.
+On non-repetitive sequences, we find that nucleotide misincorporation is slower if the incoming nucleotide can correctly basepair with the nucleotide immediately 5' to the templating base, thereby competing against the mispairing with the templating base.

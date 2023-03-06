@@ -1,0 +1,9 @@
+Agomelatine: An antidepressant with new potent hepatoprotective effects on paracetamol-induced liver damage in rats.
+Paracetamol was shown to induce hepatotoxicity or more severe fatal acute hepatic damage.
+Agomelatine, commonly known as melatonin receptor agonist, is a new antidepressant, which resynchronizes circadian rhythms with subjective and objective improvements in sleep quality and architecture, as melatonin does.
+In the present study, it was aimed to evaluate the hepatoprotective activity of agomelatine on paracetamol-induced hepatotoxicity and to understand the relationship between the hepatoprotective mechanism of agomelatine and antioxidant system and proinflammatory cytokines.
+A total of 42 rats were divided into 7 groups as each composed of 6 rats: (1) intact, (2) 40 mg/kg agomelatine, (3) 140 mg/kg N-acetylcysteine (NAC), (4) 2 g/kg paracetamol, (5) 2 g/kg paracetamol + 140 mg/kg NAC, (6) 2 g/kg paracetamol + 20 mg/kg agomelatine, and (7) 2 g/kg paracetamol + 40 mg/kg agomelatine groups.
+Paracetamol-induced hepatotoxicity was applied and liver and blood samples were analyzed histopathologically and biochemically.
+There were statistically significant increases in the activities of aspartate aminotransferase, alanine aminotransferase, levels of tumor necrosis factor-alpha (TNF-α) and interleukin-6 (IL-6) and 8-iso-prostane, and decreases in the activity of superoxide dismutase and level of glutathione in the group treated with paracetamol.
+Administration of agomelatine and NAC separately reversed these changes significantly.
+In conclusion, agomelatine administration protects liver cells from paracetamol-induced hepatotoxicity via antioxidant activity and reduced proinflammatory cytokines, such as TNF-α and IL-6.

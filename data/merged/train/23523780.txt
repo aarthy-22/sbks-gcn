@@ -1,0 +1,11 @@
+Differential responses to ω-agatoxin IVA in murine frontal cortex and spinal cord derived neuronal networks.
+ω-Agatoxin-IVA is a well known P/Q-type Ca(2+) channel blocker and has been shown to affect presynaptic Ca(2+) currents as well postsynaptic potentials.
+P/Q-type voltage gated Ca(2+) channels play a vital role in presynaptic neurotransmitter release and thus play a role in action potential generation.
+Monitoring spontaneous activity of neuronal networks on microelectrode arrays (MEAs) provides an important tool for examining this neurotoxin.
+Changes in extracellular action potentials are readily observed and are dependent on synaptic function.
+Given the efficacy of murine frontal cortex and spinal cord networks to detect neuroactive substances, we investigated the effects of ω-agatoxin on spontaneous action potential firing within these networks.
+We found that networks derived from spinal cord are more sensitive to the toxin than those from frontal cortex; a concentration of only 10nM produced statistically significant effects on activity from spinal cord networks whereas 50nM was required to alter activity in frontal cortex networks.
+Furthermore, the effects of the toxin on frontal cortex are more complex as unit specific responses were observed.
+These manifested as either a decrease or increase in action potential firing rate which could be statistically separated as unique clusters.
+Administration of bicuculline, a GABAA inhibitor, isolated a single response to ω-agatoxin, which was characterized by a reduction in network activity.
+These data support the notion that the two clusters detected with ω-agatoxin exposure represent differential responses from excitatory and inhibitory neuronal populations.

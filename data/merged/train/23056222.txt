@@ -1,0 +1,9 @@
+Dimethylfumarate attenuates renal fibrosis via NF-E2-related factor 2-mediated inhibition of transforming growth factor-beta/Smad signaling.
+TGF-beta plays a key role in the development of renal fibrosis.
+Suppressing the TGF-beta signaling pathway is a possible therapeutic approach for preventing this disease, and reports have suggested that Nrf2 protects against renal fibrosis by inhibiting TGF-beta signaling.
+This study examines whether dimethylfumarate (DMF), which stimulates Nrf2, prevents renal fibrosis via the Nrf2-mediated suppression of TGF-beta signaling.
+Results showed that DMF increased nuclear levels of Nrf2, and both DMF and adenovirus-mediated overexpression of Nrf2 (Ad-Nrf2) decreased PAI-1, alpha-smooth muscle actin (alpha-SMA), fibronectin and type 1 collagen expression in TGF-beta-treated rat mesangial cells (RMCs) and renal fibroblast cells (NRK-49F).
+Additionally, DMF and Ad-Nrf2 repressed TGF-beta-stimulated Smad3 activity by inhibiting Smad3 phosphorylation, which was restored by siRNA-mediated knockdown of Nrf2 expression.
+However, downregulation of the antioxidant response element (ARE)-driven Nrf2 target genes such as NQO1, HO-1 and glutathione S-transferase (GST) did not reverse the inhibitory effect of DMF on TGF-beta-induced upregulation of profibrotic genes or extracellular matrix proteins, suggesting an ARE-independent anti-fibrotic activity of DMF.
+Finally, DMF suppressed unilateral ureteral obstruction (UUO)-induced renal fibrosis and alpha-SMA, fibronectin and type 1 collagen expression in the obstructed kidneys from UUO mice, along with increased and decreased expression of Nrf2 and phospho-Smad3, respectively.
+In summary, DMF attenuated renal fibrosis via the Nrf2-mediated inhibition of TGF-beta/Smad3 signaling in an ARE-independent manner, suggesting that DMF could be used to treat renal fibrosis.

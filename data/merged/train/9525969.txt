@@ -1,0 +1,13 @@
+Differential interaction of coagulation factor VIII and factor V with protein chaperones calnexin and calreticulin.
+Factor VIII (FVIII) and factor V (FV) are homologous coagulation cofactors sharing a similar domain organization (A1-A2-B-A3-C1-C2) and are both extensively glycosylated within their B-domains.
+In mammalian cell expression systems, compared with FV, the FVIII primary translation product is inefficiently transported out of the endoplasmic reticulum.
+Here we show that FVIII is degraded within the cell by a lactacystin-inhibitable pathway, implicating the cytosolic 20 S proteasome machinery.
+Protein chaperones calnexin (CNX) and calreticulin (CRT) preferentially interact with glycoproteins containing monoglucosylated N-linked oligosaccharides and are proposed to traffic proteins through degradative and/or secretory pathways.
+Utilizing co-immunoprecipitation assays, intracellular FVIII was detected in association with CNX maximally within 30 min to 1 h following synthesis, whereas FV could not be detected in association with CNX.
+In contrast, both FVIII and FV displayed interaction with CRT during transit through the secretory pathway.
+B-domain deleted FVIII significantly reduced the CNX and CRT interaction, indicating the B-domain may represent a primary CNX and CRT interaction site.
+In the presence of inhibitors of glucose trimming, the interactions of FVIII with CNX, and of FVIII and FV with CRT, were significantly reduced whereas the secretion of FVIII, and not FV, was inhibited.
+In addition, transfection in a glucosidase I-deficient Chinese hamster ovary cell line (Lec23) demonstrated that both degradation and secretion of FVIII were inhibited, with little effect on the secretion of FV.
+These results support that CNX and CRT binding, mediated at least in part by the B-domain of FVIII, is required for efficient FVIII degradation and secretion.
+In contrast, FV does not require CNX interaction for efficient secretion.
+The results suggest a unique requirement for carbohydrate processing and molecular chaperone interactions that may limit the productive secretion of FVIII.

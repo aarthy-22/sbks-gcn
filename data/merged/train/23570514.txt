@@ -1,0 +1,6 @@
+Discovery of Thieno[3,2-d]pyrimidine-6-carboxamides as Potent Inhibitors of SIRT1, SIRT2, and SIRT3.
+The sirtuins SIRT1, SIRT2, and SIRT3 are NAD(+) dependent deacetylases that are considered potential targets for metabolic, inflammatory, oncologic, and neurodegenerative disorders.
+Encoded library technology (ELT) was used to affinity screen a 1.2 million heterocycle enriched library of DNA encoded small molecules, which identified pan-inhibitors of SIRT1/2/3 with nanomolar potency (e.g., 11c: IC50 = 3.6, 2.7, and 4.0 nM for SIRT1, SIRT2, and SIRT3, respectively).
+Subsequent SAR studies to improve physiochemical properties identified the potent drug like analogues 28 and 31.
+Crystallographic studies of 11c, 28, and 31 bound in the SIRT3 active site revealed that the common carboxamide binds in the nicotinamide C-pocket and the aliphatic portions of the inhibitors extend through the substrate channel, explaining the observable SAR.
+These pan SIRT1/2/3 inhibitors, representing a novel chemotype, are significantly more potent than currently available inhibitors, which makes them valuable tools for sirtuin research.

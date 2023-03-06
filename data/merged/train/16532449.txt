@@ -1,0 +1,12 @@
+Effect of pH on the structure and stability of Bacillus circulans ssp.
+alkalophilus phosphoserine aminotransferase: thermodynamic and crystallographic studies.
+pH is one of the key parameters that affect the stability and function of proteins.
+We have studied the effect of pH on the pyridoxal-5'-phosphate-dependent enzyme phosphoserine aminotransferase produced by the facultative alkaliphile Bacillus circulans ssp.
+alkalophilus using thermodynamic and crystallographic analysis.
+Enzymatic activity assay showed that the enzyme has maximum activity at pH 9.0 and relative activity less than 10% at pH 7.0.
+Differential scanning calorimetry and circular dichroism experiments revealed variations in the stability and denaturation profiles of the enzyme at different pHs.
+Most importantly, release of pyridoxal-5'-phosphate and protein thermal denaturation were found to occur simultaneously at pH 6.0 in contrast to pH 8.5 where denaturation preceded cofactor's release by approximately 3 degrees C. To correlate the observed differences in thermal denaturation with structural features, the crystal structure of phosphoserine aminotransferase was determined at 1.2 and 1.5 A resolution at two different pHs (8.5 and 4.6, respectively).
+Analysis of the two structures revealed changes in the vicinity of the active site and in surface residues.
+A conformational change in a loop involved in substrate binding at the entrance of the active site has been identified upon pH change.
+Moreover, the number of intramolecular ion pairs was found reduced in the pH 4.6 structure.
+Taken together, the presented kinetics, thermal denaturation, and crystallographic data demonstrate a potential role of the active site in unfolding and suggest that subtle but structurally significant conformational rearrangements are involved in the stability and integrity of phosphoserine aminotransferase in response to pH changes.

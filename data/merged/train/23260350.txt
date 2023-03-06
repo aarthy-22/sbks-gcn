@@ -1,0 +1,7 @@
+Identification of benzofuran central cores for the inhibition of leukotriene A(4) hydrolase.
+Leukotrienes (LT's) are known to play a physiological role in inflammatory immune response.
+Leukotriene A(4) hydrolase (LTA(4)H) is a cystolic enzyme that stereospecifically catalyzes the transformation of LTA(4) to LTB(4).
+LTB(4) is a known pro-inflammatory mediator.
+This paper describes the identification and synthesis of substituted benzofurans as LTH(4)H inhibitors.
+The benzofuran series demonstrated reduced mouse and human whole blood LTB(4) levels in vitro and led to the identification one analog for advanced profiling.
+Benzofuran 28 showed dose responsive target engagement and provides a useful tool to explore a LTA(4)H inhibitor for the treatment of inflammatory diseases, such as asthma and inflammatory bowel disease (IBD).

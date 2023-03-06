@@ -1,0 +1,11 @@
+Methylation damage to RNA induced in vivo in Escherichia coli is repaired by endogenous AlkB as part of the adaptive response.
+Cytotoxic 1-methyladenine (1-meA) and 3-methylcytosine (3-meC) lesions induced in DNA and RNA in vitro and in pre-damaged DNA and RNA bacteriophages in vivo are repaired by the Escherichia coli (E. coli) protein AlkB and a human homolog, ALKBH3.
+However, it is not known whether endogenous RNA is repaired in vivo by repair proteins present at physiological concentrations.
+The concept of RNA repair as a biologically relevant process has therefore remained elusive.
+Here, we demonstrate AlkB-mediated repair of endogenous RNA in vivo by measuring differences in lesion-accumulation in two independent AlkB-proficient and deficient E. coli strains during exposure to methyl methanesulfonate (MMS).
+Repair was observed both in AlkB-overproducing strains and in the wild-type strains after AlkB induction.
+RNA repair appeared to be highest in RNA species below 200 nucleotides in size, mainly comprising tRNAs.
+Strikingly, at least 10-fold more lesions were repaired in RNA than in DNA.
+This may be a consequence of some 30-fold higher levels of aberrant methylation in RNA than in DNA after exposure to MMS.
+A high primary kinetic isotope effect (>10) was measured using a deuterated methylated RNA substrate, D3-1me(rA), demonstrating that it is the catalytic step, and not the search step that is rate-limiting.
+Our results demonstrate that RNA repair by AlkB takes place in endogenous RNA as part of an adaptive response in wild-type E. coli cells.

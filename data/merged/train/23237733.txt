@@ -1,0 +1,7 @@
+Isoliquiritigenin showed strong inhibitory effects towards multiple UDP-glucuronosyltransferase (UGT) isoform-catalyzed 4-methylumbelliferone (4-MU) glucuronidation.
+Isoliquiritigenin, a herbal ingredient with chalcone structure, has been speculated to be able to inhibit one of the most drug-metabolizing enzymes (DMEs) UDP-glucuronosyltransferase (UGT).
+Therefore, the aim of the present study was to investigate the inhibition of isoliquiritigenin towards important UGT isoforms in the liver and intestine, including UGT1A1, 1A3, 1A6, 1A7, 1A8, 1A9 and 1A10.
+The recombinant UGT-catalyzed 4-methylumbelliferone (4-MU) glucuronidation was used as probe reactions.
+The results showed that 100μM of isoliquiritigenin inhibited the activity of UGT1A1, UGT1A3, UGT1A6, UGT1A7, UGT1A8, UGT1A9, and UGT1A10 by 95.2%, 76.1%, 78.9%, 87.2%, 67.2%, 94.8%, and 91.7%, respectively.
+The data fitting using Dixon plot and Lineweaver-Burk plot showed that the inhibition of UGT1A1, UGT1A9 and UGT1A10 by isoliquiritigenin was all best fit to the competitive inhibition, and the second plot using the slopes from the Lineweaver-Burk plot versus isoliquiritigenin concentrations was used to calculate the inhibition kinetic parameter (K(i)) to be 0.7μM, 0.3μM, and 18.3μM for UGT1A1, UGT1A9, and UGT1A10, respectively.
+All these results indicated the risk of clinical application of isoliquiritigenin on the drug-drug interaction and other possible diseases induced by the inhibition of isoliquiritigenin towards these UGT isoforms.

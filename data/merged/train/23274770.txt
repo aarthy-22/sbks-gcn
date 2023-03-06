@@ -1,0 +1,12 @@
+In vitro evaluation of cytochrome P450 induction and the inhibition potential of mitragynine, a stimulant alkaloid.
+CYP450 enzymes are key determinants in drug toxicities, reduced pharmacological effect and adverse drug reactions.
+Mitragynine, an euphoric compound was evaluated for its effects on the expression of mRNAs encoding CYP1A2, CYP2D6 and CYP3A4 and protein expression and resultant enzymatic activity.
+The mRNA and protein expression of CYP450 isoforms were carried out using an optimized multiplex qRT-PCR assay and Western blot analysis.
+CYP1A2 and CYP3A4 enzyme activities were evaluated using P450-Glo™ assays.
+The effects of mitragynine on human CYP3A4 protein expression were determined using an optimized hCYP3A4-HepG2 cell-based assay.
+An in silico computational method to predict the binding conformation of mitragynine to the active site of the CYP3A4 enzyme was performed and further validated using in vitro CYP3A4 inhibition assays.
+Mitragynine was found to induce mRNA and protein expression of CYP1A2.
+For the highest concentration of 25 μM, induction of mRNA was approximately 70% that of the positive control and was consistent with the increased CYP1A2 enzymatic activity.
+Thus, mitragynine is a significant in vitro CYP1A2 inducer.
+However, it appeared to be a weak CYP3A4 inducer at the transcriptional level and a weak CYP3A4 enzyme inhibitor.
+It is therefore, unlikely to have any significant clinical effects on CYP3A4 activity.

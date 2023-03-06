@@ -1,0 +1,8 @@
+Membranar effects exerted in vitro by polyphenols - quercetin, epigallocatechin gallate and curcumin - on HUVEC and Jurkat cells, relevant for diabetes mellitus.
+Polyphenols are largely studied for their beneficial action in various pathologies, but the correlation with their effects on cell membranes is still elusive.
+In the present study we assessed the effects exerted in vitro by quercetin, epigallocatechin gallate and curcumin on membrane fluidity and transmembrane potential of human umbilical vein endothelial cells and Jurkat T lymphoblasts, in experimental conditions mimicking diabetes mellitus, i.e. high glucose conditions or increased concentration of advanced glycation end products.
+Results showed that the investigated polyphenols had beneficial effects on cell membranes altered in diabetic conditions, by restoring transmembrane potential and by membrane "stiffening".
+Moreover, they limited the release of pro-inflammatory factors, like monocyte chemotactic protein-1.
+These effects were more obvious for cells exposed to advanced glycation end products specific for the late stages of diabetes.
+Apparently, the inhibitory action of polyphenols on lipid peroxidation was associated with a decrease of membrane fluidity.
+Concluding, our in vitro study highlighted the potential beneficial action of polyphenols mainly in the late stages of diabetes, exerted at the level of membrane fluidity and transmembrane potential, accompanied by an anti-inflammatory effect on endothelial and immune cells.

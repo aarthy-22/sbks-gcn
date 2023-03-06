@@ -1,0 +1,7 @@
+Integrated analysis of transcriptomics and metabonomics profiles in aflatoxin B1-induced hepatotoxicity in rat.
+The aim of this work was to identify mechanisms and potential biomarkers for predicting the development and progression of aflatoxin B1 (AFB1)-induced acute hepatotoxicity.
+In this study, microarray analysis and metabolites profiles were used to identify shifts in gene expression and metabolite levels associated with the affected physiological processes of rats treated with AFB1.
+Histopathological examinations and serum biochemical analysis were simultaneously performed; the results indicated that hepatotoxicity occurred in higher dosage groups.
+However, gene expression analysis and metabolite profiles are more sensitive than general toxicity studies for detecting AFB1-induced acute hepatotoxicity as the patterns of low-dose AFB1-treated rats in these two technique platforms were more similar to the rats in higher dosage groups than to the control rats.
+Integrated analysis of the results from general toxicity studies, transcriptomics and metabonomics profiles suggested that p53 signaling pathway induced by oxidative damage was the crucial step in AFB1-induced acute hepatotoxicity, whereas gluconeogenesis and lipid metabolism disorder were found to be the major metabolic effects after acute AFB1 exposure.
+The genes and metabolites significantly affected in common in rat liver or serum of three doses AFB1 treatments served as potential biomarkers for detecting AFB1-induced acute hepatotoxicity.

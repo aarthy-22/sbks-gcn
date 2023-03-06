@@ -1,0 +1,15 @@
+Penicillin-binding proteins and role of amdinocillin in causing bacterial cell death.
+The activity of penicillins against bacteria is in large part related to binding to specific receptor proteins involved in cell wall biosynthesis.
+These proteins have been designated penicillin-binding proteins.
+They can be separated into distinct entities through the use of acrylamide gel electrophoresis and binding of radioactive 14C-labeled penicillin G. Six major proteins have been defined in the Enterobacteriaceae, penicillin-binding proteins 1 to 6.
+Selection of mutants has shown that there are three essential proteins: penicillin-binding protein 1, which is divided into penicillin-binding protein 1Bs, a peptidoglycan transpeptidase, and penicillin-binding protein 1A, which acts as a replacement for penicillin-binding protein 1Bs.
+Penicillin-binding protein 2 is a murein-elongation initiating enzyme and penicillin-binding protein 3 is a septal murein-synthesizing enzyme.
+Penicillin-binding proteins 4, 5, and 6 are not essential for bacterial survival.
+Binding of penicillins to penicillin-binding protein 1Bs produces lysis, binding to penicillin-binding protein 2 produces round cells, and binding to penicillin-binding protein 3 produces long filaments.
+Amdinocillin is a beta-amidino penicillanic acid derivative that binds specifically to penicillin-binding protein 2.
+The compound is more beta-lactamase stable than ampicillin and has no major delay in entry into the periplasmic space as do some penicillins.
+Amdinocillin inhibits most of the Enterobacteriaceae, with the exception of some indole-positive Proteus species, but it does not inhibit gram-positive cocci or Pseudomonas aeruginosa.
+Amdinocillin produces spherical bacterial cells that eventually lyse.
+Its activity in vitro is markedly affected by ionic content of media.
+This agent acts synergistically with many penicillins, such as ampicillin, carbenicillin, and the like, and with cephalosporins, cefazolin, cefamandole, or cefoxitin to inhibit gram-negative bacilli, probably on the basis of binding to different proteins needed for the production of the peptidoglycan of the bacterial cell wall.
+Amdinocillin possesses a number of the essentials for effective antimicrobial activity and, by virtue of its enhancement of the activity of other beta-lactams, may prove to be a useful agent in the chemotherapy of certain infections.

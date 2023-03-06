@@ -1,0 +1,14 @@
+Carboxylesterase-2 is a highly sensitive target of the antiobesity agent orlistat with profound implications in the activation of anticancer prodrugs.
+Orlistat has been the most used anti-obesity drug and the mechanism of its action is to reduce lipid absorption by inhibiting gastrointestinal lipases.
+These enzymes, like carboxylesterases (CESs), structurally belong to the α/β hydrolase fold superfamily.
+Lipases and CESs are functionally related as well.
+Some CESs (e.g., human CES1) have been shown to hydrolyze lipids.
+This study was designed to test the hypothesis that orlistat inhibits CESs with higher potency toward CES1 than CES2, a carboxylesterase with little lipase activity.
+Liver microsomes and recombinant CESs were tested for the inhibition of the hydrolysis of standard substrates and the anticancer prodrugs pentyl carbamate of p-aminobenzyl carbamate of doxazolidine (PPD) and irinotecan.
+Contrary to the hypothesis, orlistat at 1 nM inhibited CES2 activity by 75% but no inhibition on CES1, placing CES2 one of the most sensitive targets of orlistat.
+The inhibition varied among some CES2 polymorphic variants.
+Pretreatment with orlistat reduced the cell killing activity of PPD.
+Certain mouse but not rat CESs were also highly sensitive.
+CES2 is responsible for the hydrolysis of many common drugs and abundantly expressed in the gastrointestinal track and liver.
+Inhibition of this carboxylesterase probably presents a major source for altered therapeutic activity of these medicines if co-administered with orlistat.
+In addition, orlistat has been linked to various types of organ toxicities, and this study provides an alternative target potentially involved in these toxicological responses.

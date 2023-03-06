@@ -1,0 +1,7 @@
+5-Aminolevulinic acid synthase: mechanism, mutations and medicine.
+5-Aminolevulinic acid synthase (ALAS), the first enzyme of the heme biosynthesis pathway, catalyses the pyridoxal 5'-phosphate-dependent condensation between glycine and succinyl-CoA to yield 5-aminolevulinic acid (5-amino-4-oxopentanoate).
+A three-dimensional structural model of Rhodobacter spheroides ALAS has been constructed and used to identify amino acid residues at the active site that are likely to be important for the recognition of glycine, the only amino acid substrate.
+Several residues have been investigated by site-directed mutagenesis and enzyme variants have been generated that are able to use alanine, serine or threonine.
+A three-dimensional structure model of 5-aminolevulinic acid synthase from human erythrocytes (ALAS 2) has also been constructed and used to map a range of naturally occurring human mutants that give rise to X-linked sideroblastic anemia.
+A number of these anemias respond favourably to vitamin B(6) (pyridoxine) therapy, whereas others are either partially responsive or completely refractory.
+Detailed investigations with selected human mutants have highlighted the importance of arginine-517 that is implicated in glycine carboxyl group binding.

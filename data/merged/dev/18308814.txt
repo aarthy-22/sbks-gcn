@@ -1,0 +1,10 @@
+Asenapine: a novel psychopharmacologic agent with a unique human receptor signature.
+Asenapine is a novel psychopharmacologic agent under development for the treatment of schizophrenia and bipolar disorder.
+We determined and compared the human receptor binding affinities and functional characteristics of asenapine and several antipsychotic drugs.
+Compounds were tested under comparable assay conditions using cloned human receptors.
+In comparison with the antipsychotics, asenapine showed high affinity and a different rank order of binding affinities (pKi) for serotonin receptors (5-HT1A [8.6], 5-HT1B [8.4], 5-HT2A [10.2], 5-HT2B [9.8], 5-HT2C [10.5], 5-HT5 [8.8], 5-HT6 [9.6] and 5-HT7 [9.9]), adrenoceptors (alpha1 [8.9], alpha2A [8.9], alpha2B [9.5] and alpha2C [8.9]), dopamine receptors (D1 [8.9], D2 [8.9], D3 [9.4] and D4 [9.0]) and histamine receptors (H1 [9.0] and H2 [8.2]).
+It had much lower affinity (pKi<or=5) for muscarinic receptors and was the only agent with affinity for H2 receptors.
+Relative to its D2 receptor affinity, asenapine had a higher affinity for 5-HT2C, 5-HT2A, 5-HT2B, 5-HT7, 5-HT6, alpha2B and D3 receptors, suggesting stronger engagement of these targets at therapeutic doses.
+Asenapine behaved as a potent antagonist (pKB) at 5-HT1A (7.4), 5-HT1B (8.1), 5-HT2A (9.0), 5-HT2B (9.3), 5-HT2C (9.0), 5-HT6 (8.0), 5-HT7 (8.5), D2 (9.1), D3 (9.1), alpha2A (7.3), alpha2B (8.3), alpha2C (6.8) and H1 (8.4) receptors.
+These functional effects differed from those of risperidone (pKB<5 for 5-HT6) and olanzapine (pKB<5 for 5-HT1A and alpha2).
+Our results indicate that asenapine has a unique human receptor signature, with binding affinity and antagonistic properties that differ appreciably from those of antipsychotic drugs.

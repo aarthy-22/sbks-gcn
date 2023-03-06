@@ -1,0 +1,9 @@
+The serotonin transporter polymorphism, 5HTTLPR, is associated with a faster response time to sertraline in an elderly population with major depressive disorder.
+RATIONALE: A common polymorphism (5HTTLPR) within the promoter region of the serotonin transporter gene (LSC6A4) has been shown to influence response time as well as overall response to selective serotonin reuptake inhibitors (SSRIs) in subjects with major depressive disorder.
+We hypothesized that a similar effect in response time to sertraline would be observed and that no effect on response time would be seen in a placebo arm.
+OBJECTIVES: We tested the hypothesis that subjects homozygous for the long allele at the 5HTTLPR polymorphism would respond more rapidly to sertraline than subjects carrying one or two copies of the short allele.
+METHODS: HAM-D and CGI-I responses to sertraline and placebo were measured weekly in the context of an 8-week, placebo-controlled study in elderly depressed subjects.
+Genotyping of the 5HTTLPR polymorphism was performed to test for correlations with response at each week in the sertraline and placebo groups ( n=206).
+RESULTS: Subjects homozygous for the long allele of 5HTTLPR showed a significant increase in response at week 1 and week 2, as assessed by the CGI-I scale compared with subjects carrying one or two copies of the short allele ( P=0.01 at both weeks).
+No significant difference was observed in the placebo group.
+CONCLUSIONS: These results suggest that genetic variation in the serotonin transporter gene effects the response time to sertraline and provides complementing evidence to previous reports that this polymorphism affects response time to other SSRIs.

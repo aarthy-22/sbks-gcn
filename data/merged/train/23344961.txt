@@ -1,0 +1,10 @@
+Topoisomerase IIβ deficiency enhances camptothecin-induced apoptosis.
+Camptothecin (CPT), a topoisomerase (Top) I-targeting drug that stabilizes Top1-DNA covalent adducts, can induce S-phase-specific cytotoxicity due to the arrest of progressing replication forks.
+However, CPT-induced non-S-phase cytotoxicity is less well characterized.
+In this study, we have identified topoisomerase IIβ (Top2β) as a specific determinant for CPT sensitivity, but not for many other cytotoxic agents, in non-S-phase cells.
+First, quiescent mouse embryonic fibroblasts (MEFs) lacking Top2β were shown to be hypersensitive to CPT with prominent induction of apoptosis.
+Second, ICRF-187, a Top2 catalytic inhibitor known to deplete Top2β, specifically sensitized MEFs to CPT.
+To explore the molecular basis for CPT hypersensitivity in Top2β-deficient cells, we found that upon CPT exposure, the RNA polymerase II large subunit (RNAP LS) became progressively depleted, followed by recovery to nearly the original level in wild-type MEFs, whereas RNAP LS remained depleted without recovery in Top2β-deficient cells.
+Concomitant with the reduction of the RNAP LS level, the p53 protein level was greatly induced.
+Interestingly, RNAP LS depletion has been well documented to lead to p53-dependent apoptosis.
+Altogether, our findings support a model in which Top2β deficiency promotes CPT-induced apoptosis in quiescent non-S-phase cells, possibly due to RNAP LS depletion and p53 accumulation.

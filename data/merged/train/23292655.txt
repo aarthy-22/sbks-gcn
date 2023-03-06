@@ -1,0 +1,7 @@
+Expanding the genetic code in Xenopus laevis oocytes.
+Heterologous expression of ligand-gated ion channels (LGICs) in Xenopus laevis oocytes combined with site-directed mutagenesis has been demonstrated to be a powerful approach to study structure-function relationships.
+In particular, introducing unnatural amino acids (UAAs) has enabled modifications that are not found in natural proteins.
+However, the current strategy relies on the technically demanding in vitro synthesis of aminoacylated suppressor tRNA.
+We report here a general method that circumvents this limitation by utilizing orthogonal aminoacyl-tRNA synthetase (aaRS)/suppressor tRNA(CUA) pairs to genetically encode UAAs in Xenopus oocytes.
+We show that UAAs inserted in the N-terminal domain of N-methyl-D-aspartate receptors (NMDARs) serve as photo-crosslinkers that lock the receptor in a discrete conformational state in response to UV photo treatment.
+Our method should be generally applicable to studies of other LGICs in Xenopus oocytes.

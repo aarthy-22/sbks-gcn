@@ -1,0 +1,10 @@
+The receptor tyrosine kinase Axl is an essential regulator of prostate cancer proliferation and tumor growth and represents a new therapeutic target.
+Deregulation of the receptor tyrosine kinase Axl has been implicated in the progression of several human cancers.
+However, the role of Axl in prostate cancer remains poorly understood, and the therapeutic efficacy of Axl targeting remains untested.
+In this report we identified Axl as a new therapeutic target for prostate cancer.
+Axl is consistently overexpressed in prostate cancer cell lines and human prostate tumors.
+Interestingly, the blockage of Axl gene expression strongly inhibits proliferation, migration, invasion and tumor growth.
+Furthermore, inhibition of Axl expression by small interfering RNA regulates a transcriptional program of genes involved in cell survival, strikingly all connected to the nuclear factor-κB pathway.
+Additionally, blockage of Axl expression leads to inhibition of Akt, IKKα and IκBα phosphorylation, increasing IκBα expression and stability.
+Furthermore, induction of Akt phosphorylation by insulin-like growth factor 1 in Axl knockdown cells restores Akt activity and proliferation.
+Taken together, our results establish an unambiguous role for Axl in prostate cancer tumorigenesis with implications for prostate cancer treatment.

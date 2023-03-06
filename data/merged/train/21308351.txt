@@ -1,0 +1,11 @@
+Involvement of riboflavin kinase expression in cellular sensitivity against cisplatin.
+Flavin adenine dinucleotide (FAD) is an essential coenzyme for glutathione reductase (GR) which catalyzes the reduction of oxidized glutathione to regenerate the reduced form involved in protection against oxidative stress.
+Riboflavin kinase (RFK) also known as flavokinase is involved in the first step of bioactivation of riboflavin (RF) to form flavin mononucleotide (FMN) which can be subsequently converted to FAD in an ATP-dependent reaction catalyzed by FAD synthetase (FADS).
+We investigated the involvement of RFK in cisplatin resistance using human prostate cancer PC3 cells.
+RFK overexpression renders cells resistant not only to cisplatin but also to hydrogen peroxide (H2O2) and diamide.
+Furthermore, knockdown of RFK expression induced apoptosis.
+We demonstrated that overexpression of RFK increased the levels of FAD, FMN and total glutathione and the expression of GR and glutathione S-transferase-pi (GSTpi).
+RFK expression is up-regulated in cisplatin-resistant P/CDP6 cells in addition to FAD, total glutathione level, GR and GSTpi.
+Knockdown of RFK expression also sensitized both PC3 and P/CDP6 cells to cisplatin.
+Moreover, cellular levels of RFK expression correlate well with Gleason score, known as a good indicator of patient prognosis.
+The present study suggests that RFK expression is involved not only in cellular protection from oxidative stress but also in malignant progression of prostate cancer.

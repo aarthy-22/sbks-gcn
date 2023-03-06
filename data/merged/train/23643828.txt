@@ -1,0 +1,13 @@
+The C1 domain-targeted isophthalate derivative HMI-1b11 promotes neurite outgrowth and GAP-43 expression through PKCα activation in SH-SY5Y cells.
+Protein kinase C (PKC) is a family of serine/threonine phosphotransferases ubiquitously expressed and involved in multiple cellular functions, such as proliferation, apoptosis and differentiation.
+The C1 domain of PKC represents an attractive drug target, especially for developing PKC activators.
+Dialkyl 5-(hydroxymethyl)isophthalates are a novel group of synthetic C1 domain ligands that exhibit antiproliferative effect in HeLa cervical carcinoma cells.
+Here we selected two isophthalates, HMI-1a3 and HMI-1b11, and characterized their effects in the human neuroblastoma cell line SH-SY5Y.
+Both of the active isophthalates exhibited significant antiproliferative and differentiation-inducing effects.
+Since HMI-1b11 did not impair cell survival even at the highest concentration tested (20μM), and supported neurite growth and differentiation of SH-SY5Y cells, we focused on studying its downstream signaling cascades and effects on gene expression.
+Consistently, genome-wide gene expression microarray and gene set enrichment analysis indicated that HMI-1b11 (10μM) induced changes in genes mainly related to cell differentiation.
+In particular, further studies revealed that HMI-1b11 exposure induced up-regulation of GAP-43, a marker for neurite sprouting and neuronal differentiation.
+These effects were induced by a 7-minute HMI-1b11 treatment and specifically depended on PKCα activation, since pretreatment with the selective inhibitor Gö6976 abolished the up-regulation of GAP-43 protein observed at 12hours In parallel, we found that a 7-minute exposure to HMI-1b11 induced PKCα accumulation to the cytoskeleton, an effect that was again prevented by pretreatment with Gö6976.
+Despite similar binding affinities to PKC, the isophthalates had different effects on PKC-dependent ERK1/2 signaling: HMI-1a3-induced ERK1/2 phosphorylation was transient, while HMI-1b11 induced a rapid but prolonged ERK1/2 phosphorylation.
+Overall our data are in accordance with previous studies showing that activation of the PKCα and ERK1/2 pathways participate in regulating neuronal differentiation.
+Furthermore, since PKC has been classified as one of the cognitive kinases, and activation of PKC is considered a potential therapeutic strategy for the treatment of cognitive disorders, our findings suggest that HMI-1b11 represents a promising lead compound in research aimed to prevent or counteract memory impairment.

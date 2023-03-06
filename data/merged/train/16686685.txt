@@ -1,0 +1,9 @@
+The role of late I and antiarrhythmic drugs in EAD formation and termination in Purkinje fibers.
+Multiple components of cardiac Na current play a role in determining electrical excitation in the heart.
+Recently, the role of nonequilibrium components in controlling cardiac action potential plateau duration, and their importance in regulating the occurrence of afterdepolarizations and arrhythmias have garnered more attention.
+In particular, late Na current (late I(Na)) has been shown to be important in LQT2 and LQT3 arrhythmias.
+Class III agents like dofetilide, clofilium, and sotalol, which can all cause a drug-induced form of LQT2, significantly lengthen action potential duration at 50% and 90% repolarization in isolated rabbit Purkinje fibers, and can initiate the formation of early afterdepolarizations, and extra beats.
+These actions can lead to the development of a serious ventricular tachycardia, torsades de pointes, in animal models and patients.
+However, pretreatment with agents that block late I(Na), like lidocaine, mexiletine, and RSD1235, a novel mixed ion channel blocker for the rapid pharmacologic conversion of atrial fibrillation, significantly attenuates the prolonging effects of Class III agents or those induced by ATX-II, a specific toxin that delays Na channel inactivation and amplifies late I(Na) greatly, mimicking LQT3.
+The Na channel block caused by lidocaine and RSD1235 can be through the open or inactivated states of the channel, but both equivalently inhibit a late component of Na current (I(Na)), recorded at 22 degrees C using whole-cell patch clamp of Nav 1.5 expressed in HEK cells.
+These protective actions of lidocaine, mexiletine, and RSD1235 may result, at least in part, from their ability to inhibit late I(Na) during action potential repolarization, and inhibition of the inward currents contributing to EAD and arrhythmia formation.

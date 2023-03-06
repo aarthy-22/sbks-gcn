@@ -1,0 +1,12 @@
+The dextromethorphan analog dimemorfan attenuates kainate-induced seizures via sigma1 receptor activation: comparison with the effects of dextromethorphan.
+In a previous study, we demonstrated that a dextromethorphan analog, dimemorfan, has neuroprotective effects.
+Dextromethorphan and dimemorfan are high-affinity ligands at sigma1 receptors.
+Dextromethorphan has moderate affinities for phencyclidine sites, while dimemorfan has very low affinities for such sites, suggesting that these sites are not essential for the anticonvulsant actions of dimemorfan.
+Kainate (KA) administration (10 mg kg(-1), i.p.) produced robust convulsions lasting 4-6 h in rats.
+Pre-treatment with dimemorfan (12 or 24 mg kg(-1)) reduced seizures in a dose-dependent manner.
+Dimemorfan pre-treatment also attenuated the KA-induced increases in c-fos/c-jun expression, activator protein (AP)-1 DNA-binding activity, and loss of cells in the CA1 and CA3 fields of the hippocampus.
+These effects of dimemorfan were comparable to those of dextromethorphan.
+The anticonvulsant action of dextromethorphan or dimemorfan was significantly counteracted by a selective sigma1 receptor antagonist BD 1047, suggesting that the anticonvulsant action of dextromethorphan or dimemorfan is, at least in part, related to sigma1 receptor-activated modulation of AP-1 transcription factors.
+We asked whether dimemorfan produces the behavioral side effects seen with dextromethorphan or dextrorphan (a phencyclidine-like metabolite of dextromethorphan).
+Conditioned place preference and circling behaviors were significantly increased in mice treated with phencyclidine, dextrorphan or dextromethorphan, while mice treated with dimemorfan showed no behavioral side effects.
+Our results suggest that dimemorfan is equipotent to dextromethorphan in preventing KA-induced seizures, while it may lack behavioral effects, such as psychotomimetic reactions.

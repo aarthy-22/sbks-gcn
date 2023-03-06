@@ -1,0 +1,6 @@
+Identification of the fused bicyclic 4-amino-2-phenylpyrimidine derivatives as novel and potent PDE4 inhibitors.
+2-Phenyl-4-piperidinyl-6,7-dihydrothieno[3,4-d]pyrimidine derivative (2) was found to be a new PDE4 inhibitor with moderate PDE4B activity (IC50=150nM).
+A number of derivatives with a variety of 4-amino substituents and fused bicyclic pyrimidines were synthesized.
+Among these, 5,5-dioxo-7,8-dihydro-6H-thiopyrano[3,2-d]pyrimidine derivative (18) showed potent PDE4B inhibitory activity (IC50=25 nM).
+Finally, N-propylacetamide derivative (31b) was determined as a potent inhibitor for both PDE4B (IC50=7.5nM) and TNF-α production in mouse splenocytes (IC50=9.8nM) and showed good in vivo anti-inflammatory activity in the LPS-induced lung inflammation model in mice (ID50=18mg/kg).
+The binding mode of the new inhibitor (31e) in the catalytic site of PDE4B is presented based on an X-ray crystal structure of the ligand-enzyme complex.

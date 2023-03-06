@@ -1,0 +1,9 @@
+Intercellular adhesion molecule-2 is involved in apical ectoplasmic specialization dynamics during spermatogenesis in the rat.
+In this study, we investigated the role of intercellular adhesion molecule-2 (ICAM2) in the testis.
+ICAM2 is a cell adhesion protein having important roles in cell migration, especially during inflammation when leukocytes cross the endothelium.
+Herein, we showed ICAM2 to be expressed by germ and Sertoli cells in the rat testis.
+When a monospecific antibody was used for immunolocalization experiments, ICAM2 was found to surround the heads of elongating/elongated spermatids in all stages of the seminiferous epithelial cycle.
+To determine whether ICAM2 is a constituent of apical ectoplasmic specialization (ES), co-immunoprecipitation and dual immunofluorescence staining were performed.
+Interestingly, ICAM2 was found to associate with β1-integrin, nectin-3, afadin, Src, proline-rich tyrosine kinase 2, annexin II, and actin.
+Following CdCl₂ treatment, ICAM2 was found to be upregulated during restructuring of the seminiferous epithelium, with round spermatids becoming increasingly immunoreactive for ICAM2 by 6-16 h. Interestingly, there was a loss in the binding of ICAM2 to actin during CdCl₂-induced germ cell loss, suggesting that a loss of ICAM2-actin interactions might have facilitated junction restructuring.
+Taken collectively, these results illustrate that ICAM2 plays an important role in apical ES dynamics during spermatogenesis.

@@ -1,0 +1,7 @@
+A cocaine-sensitive Drosophila serotonin transporter: cloning, expression, and electrophysiological characterization.
+A cocaine-sensitive, high-affinity Drosophila serotonin (5-hydroxytryptamine; 5HT) transporter cDNA, denoted dSERT1, was isolated and characterized in oocytes.
+dSERT1 shows little transport of other monoamines and is Na+ and Cl- dependent.
+Sequence analysis indicates 12 putative transmembrane domains and strong homologies (approximately 50%) among dSERT1 and mammalian 5HT, norepinephrine, and dopamine transporters.
+Interestingly, the pharmacological properties of dSERT1, including sensitivity to antidepressants, are more similar to those of mammalian catecholamine transporters than to mammalian 5HT transporters.
+Two-electrode voltage-clamp analysis demonstrated 5HT-induced, voltage-dependent currents.
+Cloning and characterization of dSERT1 adds significantly to our knowledge of the diversity of 5HT transporters with regard to primary sequence, pharmacological profile, and permeation properties.

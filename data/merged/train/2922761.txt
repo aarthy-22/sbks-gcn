@@ -1,0 +1,17 @@
+Retinoid-induced hemorrhaging and bone toxicity in rats fed diets deficient in vitamin K. The recent increase in the clinical use of synthetic vitamin A compounds has led to concern of possible side effects.
+Some of these effects are known to be influenced by dietary levels of vitamin K. We therefore compared the toxic effects of 13-cis-retinoic acid (13cisRA), retinyl acetate (ROAc), and N-(4-hydroxyphenyl)retinamide (4HPR) in male Sprague-Dawley rats maintained on diets containing different levels of vitamin K. Animals were fed either an NIH-07 diet supplemented with menadione (3.1 ppm vitamin K3), an NIH-07 diet not supplemented with menadione, or an AIN-076 purified diet devoid of vitamin K. The retinoids had no effect on prothrombin times of animals fed the supplemented diet.
+When menadione was omitted from the diet, however, 4HPR-dosed animals had elevated prothrombin times.
+This effect was observed as early as Day 7 and was accompanied by one confirmed hemorrhagic death.
+13cisRA-dosed animals showed no change in prothrombin times.
+In the high-dose ROAc group, there was a twofold increase in prothrombin times but only after prolonged dosing.
+In animals fed the NIH-07 diets, 13cisRA and ROAc induced multiple bone fractures at all dose levels.
+In contrast, 4HPR administered at the highest dose induced only one fracture in one animal.
+Animals fed the purified diet lost weight faster and diet sooner than those maintained on the other diets.
+Bone fractures were not observed in these animals because of early deaths resulting from hemorrhaging.
+For all retinoid-dosed groups maintained on the purified diet, changes in prothrombin times occured as early as 1 week.
+The order of effect was 4HPR greater than ROAc greater than 13cisRA, with increases in prothrombin times correlating with increases in hemorrhagic deaths.
+Hence, the degree of retinoid-induced hemorrhage, but not the incidence of bone fractures, was inversely related to vitamin K levels in the diet.
+13cisRA and ROAc, but not 4HPR, caused a dose-dependent reduction in plasma osteocalcin, an effect that correlated with retinoid-induced bone effects.
+In contrast, serum alkaline phosphatase was elevated in animals dosed with 13cisRA or 4HPR but not in those dose with ROAc.
+For this enzyme, the electrophoretic pattern on agarose gel showed a decrease, compared to controls, in the major isozyme in serum of ROAc-dosed animals.
+Hence, plasma osteocalcin is a better predictor of retinoid-induced bone effects than serum alkaline phosphatase.

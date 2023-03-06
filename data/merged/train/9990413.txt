@@ -1,0 +1,7 @@
+Pharmacology of adapalene.
+Adapalene, a synthetic retinoid, is a new drug proposed for the treatment of acne patients.
+Studies on the in vitro and in vivo pharmacology of adapalene have shown that it is very active on cell and tissue proliferation and differentiation.
+Furthermore, adapalene has anti-inflammatory potential as determined by its anti-AP1 activity.
+Adapalene interacts selectively with the nuclear receptors RAR beta and RAR gamma, and its activity on proliferation and differentiation can be blocked by a RAR beta-gamma antagonist.
+Because RAR beta is not expressed in human keratinocytes, the effect of adapalene on the major cell type of the epidermis is certainly mediated by its interaction with RAR gamma.
+The unique pharmacological properties of adapalene may explain why, when compared to tretinoin, it has an improved therapeutic ratio due to its better tolerance.

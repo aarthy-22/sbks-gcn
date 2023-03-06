@@ -1,0 +1,11 @@
+Cardioprotective effect of salvianolic acid B against arsenic trioxide-induced injury in cardiac H9c2 cells via the PI3K/Akt signal pathway.
+The clinical use of arsenic trioxide (ATO), a potent anti-neoplastic agent, is often limited because of its severe cardiotoxicity.
+Salviae miltiorrhiza is widely used for the treatment of cardiovascular diseases.
+One of the most abundant ingredients of S. miltiorrhiza is salvianolic acid B (Sal B).
+The present study was designed to evaluate whether Sal B protects against ATO-induced cardiac cell injury in vitro.
+With MTT cell viability assay, LDH release, ROS generation, caspase-3 activity assay and Hoechst 33342/PI staining, we found that Sal B pretreatment provided significantly protection against ATO-induced cell death.
+The effect was correlated with the activation of the PI3K/Akt signal pathway.
+Conversely, blocking Akt activation with the PI3K inhibitor LY294002 effectively suppressed the protective effect of Sal B against ATO-induced cell apoptosis.
+In addition, the PI3K inhibitor partially blocked the effects of Sal B on the upregulation of Bcl-2 and Bcl-xl protein expression, and downregulation of Bax protein expression.
+Collectively, the results showed that Sal B decreased the apoptosis and necrosis of H9c2 cardiomyocytes caused by ATO treatment, and PI3K played a crucial role in enhancing cell survival during this process.
+These observations indicate that Sal B has the potential to exert cardioprotective effects against ATO toxicity.

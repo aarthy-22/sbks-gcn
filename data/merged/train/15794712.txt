@@ -1,0 +1,13 @@
+The development and application of imatinib.
+The hallmark characteristics of cancer include an unrestrained proliferation involving activation of growth signals, loss of negative regulation and dysfunctional apoptotic pathways.
+Targeting abnormal cell signalling pathways should provide a more selective approach to cancer treatment than conventional cytotoxic chemotherapy.
+Tyrosine kinases play an essential role in the signalling pathways involved in the control of cellular proliferation and growth.
+Imatinib is a small-molecule tyrosine kinase inhibitor of the ABL fusion gene, platelet derived growth factor receptors (PDGFR) and KIT.
+This agent has demonstrated considerable activity in chronic myeloid leukaemia (CML) by inhibiting the BCR-ABL fusion protein and gastrointestinal stromal tumours (GISTs), which are predominantly driven by activating mutations in KIT.
+A number of other rare conditions are also responsive, for example, dermatofibrosarcoma protuberans, which is driven by a chromosomal translocation involving PDGF-B and Col1A1, resulting in overexpression of PDGF-B, and hypereosinophillic syndrome, which can be caused by activating PDGFR mutations.
+The pivotal registration study for newly diagnosed CML was a large randomised trial comparing 400 mg/day of imatinib to a combination of IFN-alpha and cytarabine, which demonstrated a significantly higher complete haematological and cytogenetic response rate in the imatinib arm.
+In the case of GIST a randomised study in patients with inoperable or metastatic disease explored doses of 400 - 600mg and reported a response rate of > 50% in each arm plus disease stabilisation and an improvement in performance status.
+Large randomised trials have subsequently been performed, comparing 400 with 800mg/day.
+The first to report indicates that the larger dose is associated with improved progression-free survival, although it is not yet known whether or not this will translate into a difference in overall survival.
+The most common KIT mutation involves exon 11 and is associated with a statistically significant better response and prognosis compared with other mutations or no detectable mutations.
+Mutational analysis is likely to become increasingly important in the selection of patients for neoadjuvant and adjuvant treatment and in helping to understand the nature of acquired resistance.

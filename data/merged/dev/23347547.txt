@@ -1,0 +1,11 @@
+Quercetin-loaded microcapsules ameliorate experimental colitis in mice by anti-inflammatory and antioxidant mechanisms.
+Quercetin (1) is an anti-inflammatory and antioxidant flavonoid.
+However, the oral administration of 1 did not lead to beneficial effects in experimental animal colitis models, which involve cytokines and oxidative stress.
+A possible explanation is that the absorption profile of 1 prevents its activity.
+Therefore, it was reasoned that the controlled release of 1 would improve its therapeutic effect.
+Thus, the therapeutic effect and mechanisms of 1-loaded microcapsules in acetic acid-induced colitis in mice were evaluated.
+Microcapsules were prepared using pectin/casein polymer and 1.
+The oral administration of 1-loaded microcapsules decreased neutrophil recruitment, attenuated histological alterations, and reduced macroscopical damage, edema, and IL-1β and IL-33 production in the colon samples.
+Microcapsules loaded with 1 also prevented the reduction of anti-inflammatory cytokine IL-10 and the antioxidant capacity of the colon.
+These preclinical data indicate that pectin/casein polymer microcapsules loaded with 1 improved the anti-inflammatory and antioxidant effects of 1 compared to the nonencapsulated drug.
+Therefore, quercetin seems to be a promising active molecule in inflammatory bowel disease if provided with adequate controlled release.

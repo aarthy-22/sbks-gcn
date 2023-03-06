@@ -1,0 +1,9 @@
+Mechanistic insights into water-protein interactions of filamentous bacteriophage.
+Water plays a major structural and functional role around proteins.
+In an attempt to explore this mechanistic structural aspect of proteins, we present site-specific interaction of hydration water with the major coat protein subunit of filamentous virus Pf1 by magic angle spinning (MAS) solid-state NMR.
+The interaction of surrounding water with 36 MDa Pf1 virion is investigated in uniformly (13)C, (15)N isotopically labeled; polyethylene glycol precipitated fully hydrated samples by solid-state nuclear magnetic resonance spectroscopy.
+Dipolar edited two-dimensional (2D) (1)H-(15)N heteronuclear correlation (HETCOR) experiments lead to unambiguous assignments of cross-peaks originating exclusively from (1)H resonances of water molecules correlating to the protein amide nitrogen.
+An enhanced resolved (1)H chemical shift dimension in these experiments also precludes the need of perdeuteration.
+We report seven residues spanning the 40-residue continuous α-helical conformation assembly of Pf1 interacting with surrounding water.
+It shows a highly hydrated inner core inside this viral filamentous assembly.
+The results obtained also suggest the first evidence of a water-mediated interface cluster formed at the site of Arg44 with the single-stranded DNA genome of the filamentous phage supramolecular assembly.

@@ -1,0 +1,10 @@
+Nonsteroidal anti-inflammatory drugs activate carbonic anhydrase by a direct mechanism of action.
+Previous studies by this research team proved that vasodilating prostaglandins (PGs) E1, E2 and I2 inhibit carbonic anhydrase (CA) in vitro and in vivo, which suggested involvement of CA in gastric acid secretion inhibition and the increase of gastric mucosa blood flow produced by this group of PGs.
+Relying on these findings, as well as on our clinical observations, we studied in vitro and in vivo the effects of nonsteroidal anti-inflammatory drugs (NSAIDs) on CA I and CA II.
+We also followed in vitro the effects on these isozymes of NSAIDs associated to histamine, Ca, PGE2 and acetazolamide.
+The results show that the NSAIDs used here, which reduce the activity of cyclooxygenase and PG production, activated CA I and CA II in a dose-dependent manner by a mechanism of the noncompetitive type.
+Histamine and Ca added to NSAIDs amplified the activating effect of the latter on CA II.
+Association of PGE2 or acetazolamide to NSAIDs reduced NSAID-induced activation of CA I and CA II.
+Indomethacin abolished the inhibitory effect of acetazolamide on CA I and CA II.
+Our data imply that between CA and cyclooxygenase there is an inverse relationship, CA activation being accompanied by reduction of cyclooxygenase activity, a reduction achieved by the pH modifications induced by CA activation.
+In this way, cyclooxygenase, inhibition occurs "via CA," with the pH variations it brings about.

@@ -1,0 +1,11 @@
+Impairment of novel object recognition in adulthood after neonatal exposure to diazinon.
+Diazinon is an organophosphate pesticide that is still heavily used in agriculture, home gardening, and indoor pest control in Japan.
+The present study investigated the effect of neonatal exposure to diazinon on hippocampus-dependent novel object recognition test performance and the expression of the N-methyl-D-aspartate (NMDA) receptor and its signal transduction pathway-related genes in the hippocampi of young adult and adult mice.
+Male offspring of C3H/HeN mice were subcutaneously treated with 0, 0.5, or 5 mg/kg of diazinon for 4 consecutive days beginning on postnatal day (PND) 8.
+Beginning on PND 46 or PND 81, a novel object recognition test was performed on 4 consecutive days.
+The hippocampi were collected on PND 50 or PND 85 after the completion of the novel object recognition test, and the expression levels of neurotrophins and the NMDA receptor and its signal transduction pathway-related genes were examined using real-time RT-PCR.
+Diazinon-injected mice exhibited a poor ability to discriminate between novel and familiar objects during both the PND 49 and the PND 84 tests.
+The NMDA receptor subunits NR1 and NR2B and the related protein kinase calcium/calmodulin-dependent protein kinase (CaMK)-IV and the transcription factor cyclic AMP responsive element binding protein (CREB)-1 mRNA levels were reduced in the PND 50 mice.
+However, no significant changes in the expressions of the NMDA subunits and their signal transduction molecules were observed in the hippocampi of the PND 85 mice.
+The expression level of nerve growth factor mRNA was significantly reduced in the PND 50 or 85 mice.
+These results indicate that neonatal diazinon exposure impaired the hippocampus-dependent novel object recognition ability, accompanied by a modulation in the expressions of the NMDA receptor and neurotrophin in young adult and adult mice.

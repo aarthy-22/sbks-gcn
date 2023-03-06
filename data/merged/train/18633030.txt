@@ -1,0 +1,19 @@
+Synergy between pairs of competitive antagonists at adult human muscle acetylcholine receptors.
+BACKGROUND: Synergistic neuromuscular blocking effects have been observed clinically with certain pairs of nicotinic acetylcholine receptor (nAChR) competitive antagonists.
+The mechanism for synergy has not been elucidated.
+We tested the hypothesis that synergy arises from a differential selectivity of antagonists for the two ligand binding sites on adult human nAChR. METHODS: We expressed nAChR in BOSC23 cells.
+We applied ACh with or without antagonists to outside-out patches and measured macroscopic currents at room temperature.
+We determined the IC(90) for (+)-tubocurarine, metocurine, pancuronium, vecuronium, cisatracurium, rocuronium, and atracurium.
+For 15 combinations of two antagonists, we determined the IC(90) for one antagonist in the presence of the IC(70) of a second antagonist.
+We constructed isobolograms for 90% inhibition.
+For single antagonists, we measured inhibition of receptors containing mutations in the epsilon- and delta-subunits to determine site selectivity.
+RESULTS: Two pairs of antagonists, metocurine+cisatracurium and cisatracurium+ atracurium exhibited additive inhibition.
+Ten combinations, including (+)-tubocurarine+ pancuronium and pancuronium+vecuronium, were highly synergistic such that the combination was two to three times more effective than expected for additivity.
+Three combinations were 1.5-1.6 times more effective than expected for additivity.
+Inhibition by (+)-tubocurarine and metocurine was sensitive to mutations in the epsilon-subunit only.
+Vecuronium was affected by the delta-subunit mutation only.
+Inhibition by other antagonists was decreased by mutations in either subunit.
+CONCLUSIONS: Many combinations of antagonists exhibited synergistic effects on adult human nAChR. Synergy was observed with structurally similar and dissimilar antagonists.
+The degree of synergy did not always correlate well with site specificity assayed with mutants.
+In some, but not all cases, the synergy at the receptor level correlated with clinical determinations of synergy.
+We conclude that the synergistic actions of muscle relaxants can be partially explained by direct interactions with adult human nAChR.

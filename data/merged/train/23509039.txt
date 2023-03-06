@@ -1,0 +1,5 @@
+2-aminothiazoles with improved pharmacotherapeutic properties for treatment of prion disease.
+Recently, we described the aminothiazole lead (4-biphenyl-4-ylthiazol-2-yl)-(6-methylpyridin-2-yl)-amine (1), which exhibits many desirable properties, including excellent stability in liver microsomes, oral bioavailability of ∼40 %, and high exposure in the brains of mice.
+Despite its good pharmacokinetic properties, compound 1 exhibited only modest potency in mouse neuroblastoma cells overexpressing the disease-causing prion protein PrP(Sc) .
+Accordingly, we sought to identify analogues of 1 with improved antiprion potency in ScN2a-cl3 cells while retaining similar or superior properties.
+Herein we report the discovery of improved lead compounds such as (6-methylpyridin-2-yl)-[4-(4-pyridin-3-yl-phenyl)thiazol-2-yl]amine and cyclopropanecarboxylic acid (4-biphenylthiazol-2-yl)amide, which exhibit brain exposure/EC50 ratios at least tenfold greater than that of compound 1.

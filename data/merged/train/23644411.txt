@@ -1,0 +1,11 @@
+Steroidal glycosides from the bulbs of Easter lily (Lilium longiflorum Thunb.) promote dermal fibroblast migration in vitro.
+ETHNOPHARMACOLOGICAL RELEVANCE: Preparations derived from bulbs of various Lilium species have been used to promote the healing of skin abrasions, sores and burns and to aid in healing wounds in Traditional Chinese and Greco-Roman Medicine.
+AIM OF THE STUDY: To evaluate fractionated Easter lily bulb extracts and their steroidal glycosides (1-5) for the promotion of dermal fibroblast migration in vitro, as a model for the early events in wound healing.
+MATERIALS AND METHODS: An activity-guided screening approach was used by coupling sequential solvent extraction, gel permeation chromatography (GPC), and semi-preparative reverse-phase high performance liquid chromatography (RP-HPLC) with an in vitro dermal fibroblast migration assay.
+Cytotoxicity was evaluated with methyl thiazole tetrazolium (MTT).
+To gain insight into the mode of action of the steroidal glycosides, nitric oxide (NO) production, and expression of genes for transforming growth factor beta-1 (TGF-β) and its receptors were evaluated.
+RESULTS: Fractionated bulb extracts and the two isolated steroidal glycoalkaloids (1) and (2) induced NO production and TGF-β receptor I mRNA expression in fibroblast cell culture.
+In a cytotoxicity assay, steroidal glycosides (1) and (3) had IC50 values of 8.2 and 8.7µM, but the natural acetylation of the C-6″' hydroxy of the terminal glucose unit in (2) resulted in a 3-fold decrease in cell cytotoxicity when compared with (1).
+Results from the dermal fibroblast migration assay revealed that the steroidal glycoalkaloids (1) and (2), and the furostanol saponin (3) promoted fibroblast migration from the range of 23.7±5.7 to 37.7±5.1%, as compared with the control.
+CONCLUSION: Collectively, our data demonstrate that the steroidal glycosides present in Easter lily bulbs induce, at least in part, the observed dermal fibroblast migration activity of the bulb extracts.
+This is the first evidence that steroidal glycosides from L. longiflorum may potentially play a role in the wound healing process and may provide a scientific basis for the historical use of lily bulbs for this purpose.

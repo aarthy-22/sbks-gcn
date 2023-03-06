@@ -1,0 +1,11 @@
+RPE65 is essential for the function of cone photoreceptors in NRL-deficient mice.
+PURPOSE: Phototransduction in cones is initiated by the bleaching of their visual pigment, which comprises a protein component-cone opsin-and a vitamin A derivative-11-cis retinal.
+Little is known about the source of 11-cis retinal for cones.
+In the current study, neural retina leucine zipper-deficient (Nrl(-/-)) and rod opsin (Rho(-/-))-deficient mice were used, two mouse models that have been described as having a "cone-only" retina, to analyze the retinoid metabolism of cones.
+In addition, these mice were bred to retinal pigment epithelial protein 65 (Rpe65(-/-))-deficient mice to study the role of RPE65.
+METHODS: Mice were analyzed using morphology, Western blot analysis, immunohistochemistry, electroretinography (ERG), and retinoid profiling by HPLC.
+RESULTS: In comparison to wild-type mice, the retina of Nrl(-/-) mice contained elevated levels of RPE65 and cellular retinaldehyde-binding protein (CRALBP), suggesting a particular role of these two proteins for the retinoid metabolism of cones.
+In Nrl(-/-) mice, different retinoid species were present in proportions similar to wild type.
+Ablation of RPE65 in Nrl(-/-) and Rho(-/-) mice led to the absence of 11-cis retinal, but increased the total retinoid content, with retinyl esters representing the most abundant retinoid species.
+In the absence of RPE65, retinal sensitivity in Nrl(-/-) mice dropped by a factor of a thousand.
+CONCLUSIONS: The data show that RPE65, previously shown to be essential for rod function, is also indispensable for the production of 11-cis retinal for cones and thus for cone function.

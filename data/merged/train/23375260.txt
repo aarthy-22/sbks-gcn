@@ -1,0 +1,8 @@
+Structural basis for autoinhibition of the guanine nucleotide exchange factor FARP2.
+FARP2 is a Dbl-family guanine nucleotide exchange factor (GEF) that contains a 4.1, ezrin, radixin and moesin (FERM) domain, a Dbl-homology (DH) domain and two pleckstrin homology (PH) domains.
+FARP2 activates Rac1 or Cdc42 in response to upstream signals, thereby regulating processes such as neuronal axon guidance and bone homeostasis.
+How the GEF activity of FARP2 is regulated remained poorly understood.
+We have determined the crystal structures of the catalytic DH domain and the DH-PH-PH domains of FARP2.
+The structures reveal an auto-inhibited conformation in which the GEF substrate-binding site is blocked collectively by the last helix in the DH domain and the two PH domains.
+This conformation is stabilized by multiple interactions among the domains and two well-structured inter-domain linkers.
+Our cell-based activity assays confirm the suppression of the FARP2 GEF activity by these auto-inhibitory elements.

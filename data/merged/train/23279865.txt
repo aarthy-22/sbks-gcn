@@ -1,0 +1,5 @@
+Structure-based design, synthesis and evaluation of novel anthra[1,2-d]imidazole-6,11-dione derivatives as telomerase inhibitors and potential for cancer polypharmacology.
+A series of anthra[1,2-d]imidazole-6,11-dione derivatives were synthesized and evaluated for telomerase inhibition, hTERT expression and suppression of cancer cell growth in vitro.
+All of the compounds tested, except for compounds 4, 7, 16, 24, 27 and 28 were selected by the NCI screening system.
+Among them, compounds 16, 39, and 40 repressed hTERT expression without greatly affecting cell growth, suggesting for the selectivity toward hTERT expression.
+Taken together, our findings indicated that the analysis of cytotoxicity and telomerase inhibition might provide information applicable for further developing potential telomerase and polypharmacological targeting strategy.

@@ -1,0 +1,9 @@
+Nanobody-albumin nanoparticles (NANAPs) for the delivery of a multikinase inhibitor 17864 to EGFR overexpressing tumor cells.
+A novel, EGFR-targeted nanomedicine has been developed in the current study.
+Glutaraldehyde crosslinked albumin nanoparticles with a size of approximately 100nm were loaded with the multikinase inhibitor 17864-L(x)-a platinum-bound sunitinib analogue-which couples the drug to methionine residues of albumin and is released in a reductive environment.
+Albumin nanoparticles were surface-coated with bifunctional polyethylene glycol 3500 (PEG) and a nanobody-the single variable domain of an antibody-(Ega1) against the epidermal growth factor receptor (EGFR).
+EGa1-PEG functionalized nanoparticles showed a 40-fold higher binding to EGFR-positive 14C squamous head and neck cancer cells in comparison to PEGylated nanoparticles.
+17864-L(x) loaded EGa1-PEG nanoparticles were internalized by clathrin-mediated endocytosis and ultimately digested in lysosomes.
+The intracellular routing of EGa1 targeted nanoparticles leads to a successful release of the kinase inhibitor in the cell and inhibition of proliferation whereas the non-targeted formulations had no antiproliferative effects on 14C cells.
+The drug loaded targeted nanoparticles were as effective as the free drug in vitro.
+These results demonstrate that multikinase inhibitor loaded nanoparticles are interesting nanomedicines for the treatment of EGFR-positive cancers.

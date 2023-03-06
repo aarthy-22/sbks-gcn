@@ -1,0 +1,5 @@
+Novel small molecules as apoptosis inducers: synthesis, preliminary structure-activity relationships, and in vitro biological evaluation.
+Inducing apoptosis is a promising therapeutic approach to overcome cancer.
+In this study, 30 compounds were synthesized and evaluated for their antiproliferative activity against three tumor cell lines in vitro: A875, H460 and Hela cancer cells by the MTT assay.
+The most potent analogue 7a, a novel compound was first reported by our group, inhibited the proliferation of A875 cells with an IC50 value of 98 nM. Flow cytometry analysis and morphological analysis suggested that compound 7a had potential anticancer efficacy via G2/M cell cycle arrest, which could be attributed to its proliferation and apoptosis, and also in a concentration-dependent manner.
+The SAR analysis indicated that the substituents R(2) played a crucial role in the antiproliferation activity.

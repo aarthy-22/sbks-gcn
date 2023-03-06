@@ -1,0 +1,17 @@
+Heterogeneous expression and polymorphic genotype of glutathione S-transferases in human lung.
+BACKGROUND: Glutathione S-transferases (GSTs) are involved in the detoxification of xenobiotics by conjugation with glutathione.
+One of the mu class genes of this superfamily of enzymes, GSTM1, is polymorphic because of a partial gene deletion.
+This results in a failure to express GSTM1 in approximately 50% of individuals.
+Several studies have linked GSTM1 null status to an increased risk of lung carcinoma.
+This study investigated the expression and distribution of GST isoenzymes in human lung, and developed a polymerase chain reaction (PCR) assay which would allow genotyping of archival, paraffin embedded lung tissue.
+METHODS: Distribution was examined using a panel of polyclonal anti-GST antibodies for immunohistochemistry in normal tissue of 21 tumour-bearing lungs.
+DNA for PCR was extracted from paraffin blocks and a control group of 350 blood lysates.
+As a positive control each assay amplified part of GSTM4, a mu class gene which is not polymorphic but which shows strong sequence homology to GSTM1.
+The presence of GST in bronchoalveolar lavage fluid was sought by Western analysis.
+RESULTS: Proximal airways contained pi class GST, alpha class GST, and mu class GST with expression concentrated in the brush border.
+In distal airspaces no alpha GST was expressed but pi GST and mu GST were present in alveolar cells and also alveolar macrophages.
+Pi class GST was present in bronchoalveolar lavage fluid.
+The PCR assay enabled genotypic determination using DNA extracted from archival material.
+Of the control group 56% were null at the GSTM1 locus.
+CONCLUSIONS: The distribution of GST isoenzymes in the lung is heterogeneous with an apparent decrease in GST in distal lung.
+Since GSTM1 status has already been associated with susceptibility to disease, the PCR assay developed will allow further studies of the relation between genotype and structural disorders in the lung using archival pathological material.

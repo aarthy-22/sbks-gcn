@@ -1,0 +1,7 @@
+The ethylene bis-dithiocarbamate fungicide Mancozeb activates voltage-gated KCNQ2 potassium channel.
+Mancozeb (manganese/zinc ethylene bis-dithiocarbamate) is an organometallic fungicide that has been associated with human neurotoxicity and neurodegeneration.
+In a high-throughput screen for modulators of KCNQ2 channel, a fundamental player modulating neuronal excitability, Mancozeb, was found to significantly potentiate KCNQ2 activity.
+Mancozeb was validated electrophysiologically as a KCNQ2 activator with an EC50 value of 0.92±0.23μM. Further examination showed that manganese but not zinc ethylene bis-dithiocarbamate is the active component for the positive modulation effects.
+In addition, the compounds are effective when the metal ions are substituted by iron but lack potentiation activity when the metal ions are substituted by sodium, signifying the importance of the metal ion.
+However, the iron (Fe(3+)) alone, organic ligands alone or the mixture of iron with the organic ligand did not show any potentiation effect, suggesting as the active ingredient is a specific complex rather than two separate additive or synergistic components.
+Our study suggests that potentiation on KCNQ2 potassium channels might be the possible mechanism of Mancozeb toxicity in the nervous system.

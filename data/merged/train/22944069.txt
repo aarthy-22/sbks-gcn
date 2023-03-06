@@ -1,0 +1,5 @@
+Lithium treatment induces proteasomal degradation of over-expressed acetylcholinesterase (AChE-S) and inhibit GSK3β.
+Lithium is one of the most widely used mood-stabilizing agents for the treatment of bipolar disorder.
+Lithium is also a potent inhibitor of glycogen synthase kinase-3β (GSK3β) activity, which is linked to Alzheimer's disease (AD).
+In experiments with cultured HEK293T cells, we show here that GSK3β stabilizes synaptic acetylcholinesterase (AChE-S), a critical component of AD development.
+Cells treated with lithium exhibited rapid proteasomal degradation of AChE-S. Furthermore treatment of the cells with MG132, an inhibitor of the 26S proteasome, prevented the destabilizing effect of lithium on AChE-S. Taken together, these findings suggest that regulation of AChE-S protein stability may be an important biological target of lithium therapy.

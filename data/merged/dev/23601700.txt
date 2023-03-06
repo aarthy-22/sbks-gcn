@@ -1,0 +1,13 @@
+In Vitro Reconstitution of Complexes between proMatrix Metalloproteinase-9 and the Proteoglycans Serglycin and Versican.
+Previously we have shown that a fraction of the matrix metalloproteinase-9 (MMP-9) synthesized by the macrophage cell line THP-1 was bound to a chondroitin sulphate proteoglycan (CSPG) core protein as a reduction sensitive heteromer.
+It was also shown that the hemopexin-like (PEX) domain and the fibronectin-like (FnII) module in the enzyme are involved in the heteromer formation.
+In the present work we show that reduction sensitive and SDS-stable heteromers can be reconstituted in vitro by mixing proMMP-9 with either serglycin, versican or CSPGs isolated from various monocytic cell lines.
+In addition, a strong but SDS-soluble proMMP-9·CSPG heteromer was formed.
+The two macromolecules in the SDS-stable reduction sensitive heteromers were not linked together by disulphide bonds.
+As for the heteromer isolated from THP-1 cells, the in vitro reconstituted SDS-stable and SDS-soluble heteromers had a weaker binding to gelatin than the proMMP-9 monomer.
+Furthermore, gelatin inhibited the in vitro reconstitution of the heteromers, showing that the FnII module is involved in the complex formation.
+TIMP-1 could not be detected in the formed proMMP-9·CSPG complexes.
+However, the presence of TIMP-1 inhibited the formation of the SDS-soluble heteromer, but not the SDS-stable reduction sensitive heteromer.
+This indicates that different regions in the PEX domain are involved the formation of these heteromers.
+This article is protected by copyright.
+All rights reserved.

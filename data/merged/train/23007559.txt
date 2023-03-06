@@ -1,0 +1,12 @@
+Developmental immunotoxicity of ethanol in an extended one-generation reproductive toxicity study.
+The susceptibility of developing immune system to chemical disruption warrants the assessment of immune parameters in reproductive and developmental testing protocols.
+In this study, a wide range of immune endpoints was included in an extended one-generation reproduction toxicity study (EOGRTS) design to determine the relative sensitivity of immune and developmental parameters to ethanol (EtOH), a well-known developmental toxicant with immunomodulatory properties.
+Adult Wistar rats were exposed to EtOH via drinking water (0, 1.5, 4, 6.5, 9, 11.5 and 14 % (w/v EtOH)) during premating, mating, gestation and lactation and continuation of exposure of the F(1) from weaning until killed.
+Immune assessments were performed at postnatal days (PNDs) 21, 42 and 70.
+Keyhole limpet hemocyanin (KLH)-specific immune responses were evaluated following subcutaneous immunizations on PNDs 21 and 35.
+EtOH exposure affected innate as well as adaptive immune responses.
+The most sensitive immune parameters included white blood cell subpopulations, ConA-stimulated splenocyte proliferation, LPS-induced NO and TNF-α production by adherent splenocytes and KLH-specific immune responses.
+Most parameters showed recovery after cessation of EtOH exposure after weaning in the 14 % exposure group.
+However, effects on LPS-induced NO and TNF-α production by adherent splenocytes and KLH-specific parameters persisted until PND 70.
+The results demonstrate the relative sensitivity to EtOH of especially functional immune parameters and confirm the added value of immune parameters in the EOGRTS.
+Furthermore, this study identified an expanded KLH-specific parameter set and LPS-induced NO and TNF-α production by adherent splenocytes as valuable parameters that can provide additional information on functional immune effects.

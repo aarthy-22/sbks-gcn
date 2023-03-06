@@ -1,0 +1,5 @@
+Discovery of a synthetic Aminopeptidase N inhibitor LB-4b as a potential anticancer agent.
+APN inhibitors have been considered as potential anticancer agents for years.
+LB-4b is the first synthetic APN inhibitor to be evaluated for both of its anti-invasion and anti-angiogenesis effects.
+As a potent synthetic APN inhibitor (IC50=850nM, versus bestatin of 8.1μM), LB-4b was determined to have more significant block effects to cancer cell invasion and angiogenesis than bestatin.
+Besides, it is able to be easily synthesized with a high total yield, while the reported synthetic methods of bestatin are much more complex.

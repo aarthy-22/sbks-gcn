@@ -1,0 +1,13 @@
+Pharmacokinetics of olmesartan medoxomil plus hydrochlorothiazide combination in healthy subjects.
+BACKGROUND: Hypertension treatment guidelines recommend combination therapy with diuretics and other antihypertensive agents, including angiotensin II type 1 (AT1) receptor antagonists.
+This trial investigated the possibility of pharmacokinetic interactions between the AT1 receptor antagonist olmesartan medoxomil and the thiazide diuretic hydrochlorothiazide in healthy subjects.
+METHODS: Twenty-four healthy normotensive adult male subjects underwent three consecutive 7-day treatment periods (A, B and C, respectively) during which they were randomised to receive: olmesartan medoxomil 20 mg once daily (regimen A), hydrochlorothiazide 25 mg once daily (regimen B), or olmesartan medoxomil 20 mg once daily plus hydrochlorothiazide 25 mg once daily (regimen C).
+Treatment periods were separated by washouts of 7-14 days.
+The primary pharmacokinetic parameters evaluated were: the area under the plasma concentration versus time curve at steady state (AUCss,tau), the maximum plasma concentration at steady state (Css,max), and the time at which Css,max occurred (tmax).
+RESULTS: Complete data sets from 17 subjects were available for pharmacokinetic analyses.
+Mean concentration versus time profiles were similar for monotherapy and combination treatment for both olmesartan (the active metabolite of olmesartan medoxomil) and hydrochlorothiazide.
+For olmesartan, comparison of monotherapy with combination therapy showed that for AUCss,tau and Css,max point estimates were close to unity, demonstrating bioequivalence.
+For hydrochlorothiazide, combination therapy resulted in decreases in AUCss,tau and Css,max of approximately 10% versus monotherapy; nevertheless, since 90% CIs were within the acceptance range, bioequivalence was proven.
+Median tmax values for olmesartan and hydrochlorothiazide for periods A, B and C were identical, indicating bioequivalence.
+Both olmesartan medoxomil and hydrochlorothiazide were well tolerated.
+CONCLUSION: These results show that there is little or no potential for a clinically relevant pharmacokinetic interaction between olmesartan medoxomil 20 mg and hydrochlorothiazide 25 mg, and therefore dosage adjustment should not be necessary when they are co-administered.

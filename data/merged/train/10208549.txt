@@ -1,0 +1,6 @@
+Effects of bis(7)-tacrine, a novel anti-Alzheimer's agent, on rat brain AChE. The anticholinesterase effects of bis(7)-tacrine were compared with tacrine in vitro and in vivo.
+Based on IC50 ratios, the dimeric analog bis(7)-tacrine was, in a reversible manner, up to 150-fold more potent and 250-fold more selective than tacrine for acetylcholinesterase (AChE) over butyrylcholinesterase (BChE).
+Following a single oral administration, both bis(7)-tacrine and tacrine produced dose-dependent inhibitions of AChE in rat brain, but bis(7)-tacrine exhibited higher efficacy and AChE/BChE selectivity than tacrine.
+The anti-AChE efficacy of bis(7)-tacrine was quite similar following an oral or i.p.
+administration, but tacrine showed much lower efficacy when administered orally than when given i.p.
+These findings suggest bis(7)-tacrine, a highly potent and selective inhibitor of AChE, can probably be used as an improved drug in the palliative treatment of AD.

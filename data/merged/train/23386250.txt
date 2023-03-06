@@ -1,0 +1,13 @@
+Upregulation of nuclear factor of activated T-cells by nerve injury contributes to development of neuropathic pain.
+Nerve injury induces long-term changes in gene expression in the nociceptive circuitry and can lead to chronic neuropathic pain.
+However, the transcriptional mechanism involved in neuropathic pain is poorly understood.
+Nuclear factor of activated T-cells (NFATc) is a transcriptional factor regulated by the Ca(2+)-dependent protein phosphatase calcineurin.
+In this study, we determined nerve injury-induced changes in the expression of NFATc1-c4 in the dorsal root ganglia (DRG) and spinal cords and their role in the development of neuropathic pain.
+The mRNA of NFATc1-c4 was detected in the rat DRG and dorsal spinal cord.
+Nerve injury transiently elevated NFATc1-c3 mRNA levels and persistently increased NFATc4 and C-C chemokine receptor type 2 (CCR2) mRNA levels in the DRG.
+However, NFATc1-c4 mRNA levels in the spinal cord were not altered significantly by nerve injury.
+Nerve injury also significantly increased the protein level of dephosphorylated NFATc4 in the DRG.
+Intrathecal injection of the specific NFATc inhibitor 11R-VIVIT or the calcineurin inhibitor FK-506 (tacrolimus) early after nerve injury significantly attenuated the development of tactile allodynia.
+In addition, treatment with FK-506 or 11R-VIVIT significantly reduced the mRNA levels of NFATc4 and CCR2 but not large-conductance Ca(2+)-activated K(+) channels, in the DRG after nerve injury.
+Our findings suggest that peripheral nerve injury causes a time-dependent change in NFATc1-c4 expression in the DRG.
+Calcineurin-NFATc-mediated expression of pronociceptive cytokines contributes to the transition from acute to chronic pain after nerve injury.

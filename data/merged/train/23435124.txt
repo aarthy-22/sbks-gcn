@@ -1,0 +1,9 @@
+A 35kD Phyllanthus niruri protein modulates iron mediated oxidative impairment to hepatocytes via the inhibition of ERKs, p38 MAPKs and activation of PI3k/Akt pathway.
+It has been reported that the herb, Phyllanthus niruri, possess antioxidant, anti-infection, anti-asthmatic, anti-diuretic, anti-soresis and many more beneficial activities.
+The goal of our present study was to evaluate the protective role of a 35kD protein (PNP) isolated from this herb against iron-induced cytotoxicity in murine hepatocytes.
+Exposure of hepatocytes to iron (FeSO4) caused elevation of reactive oxygen species (ROS) production, enhanced lipid peroxidation and protein carbonylation, depleted glutathione levels, decreased the antioxidant power (FRAP) of the cells and reduced cell viability.
+Iron mediated cytotoxicity disrupted mitochondrial membrane potential (Δψm) and thereby caused apoptosis mainly by the intrinsic pathway via the down-regulation of IκBα with a concomitant up-regulation of NF-kB as well as the phosphorylation of ERKs and p38 MAP kinases.
+In addition, iron-induced cytotoxicity disrupted the normal balance of Bcl-2 family proteins in hepatocytes.
+Incubation of hepatocytes with PNP, however, protected the cells from apoptosis by stabilizing the mitochondria and arresting the release of cytochrome c. It also suppressed caspase activation and cleavage of PARP.
+Moreover, this protein has strong free radical scavenging activity and thereby scavenged ROS extensively.
+Combining all, results suggest that simultaneous treatment with PNP might suppress the iron-induced cytotoxicity in hepatocytes.

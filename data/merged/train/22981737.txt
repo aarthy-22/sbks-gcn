@@ -1,0 +1,15 @@
+Specific binding of collagen Q to the neuromuscular junction is exploited to cure congenital myasthenia and to explore bases of myasthenia gravis.
+Acetylcholinesterase (AChE) at the neuromuscular junction (NMJ) is anchored to the synaptic basal lamina via a triple helical collagen Q (ColQ) in the form of asymmetric AChE (AChE/ColQ).
+The C-terminal domain of ColQ binds to MuSK, the muscle-specific receptor tyrosine kinase, that mediates a signal for acetylcholine receptor (AChR) clustering at the NMJ.
+ColQ also binds to heparan sulfate proteoglycans including perlecan.
+Congenital defects of ColQ cause endplate AChE deficiency.
+A single intravenous administration of adeno-associated virus serotype 8 (AAV8)-COLQ to Colq-/- mice rescued motor functions, synaptic transmission, and the ultrastructure of NMJ.
+We also injected AAV1-COLQ-IRES-EGFP to the left tibialis anterior and observed colocalization of AChE/ColQ at all the examined NMJs of the non-injected limbs.
+Additionally, injection of purified recombinant AChE/ColQ protein complex into gluteus maximus accumulated AChE in non-injected forelimbs.
+These observations suggest that the tissue-targeting signal of ColQ can be exploited to specifically deliver the transgene product to the target tissue.
+MuSK antibody-positive myasthenia gravis (MG) accounts for 5-15% of autoimmune MG.
+As AChR deficiency is typically mild and as cholinesterase inhibitors are generally ineffective or worsen myasthenic symptoms, we asked if the patient's MuSK-IgG interferes with binding of ColQ to MuSK.
+In vitro overlay of AChE/ColQ to muscle sections of Colq-/- mice revealed that MuSK-IgG blocks binding of ColQ to the NMJ.
+In vitro plate-binding of MuSK to ColQ disclosed that MuSK-IgG exerts a dose-dependent block of MuSK-ColQ interaction.
+In addition, passive transfer of MuSK-IgG to mice reduced the size and density of ColQ to ∼10% of controls and had a lesser effect on the sizes and densities of AChR and MuSK.
+Elucidation of molecular mechanisms of specific binding of ColQ to the NMJ enabled us to ameliorate devastating myasthenic symptoms of Colq-/- mice and to reveal bases of anti-MuSK MG.

@@ -1,0 +1,8 @@
+Kinetic and stereochemical studies on novel inactivators of C-terminal amidation.
+C-terminal amidation, a required post-translational modification for the bioactivation of many neuropeptides, entails sequential enzymic action by peptidylglycine alpha-mono-oxygenase (PAM, EC 1.14.17.3) and peptidylamidoglycolate lyase (PGL, EC 4.3.2.5).
+Here we introduce novel compounds in which an olefinic functionality is incorporated into peptide analogues as the most potent turnover-dependent inactivators of PAM.
+Kinetic parameters for PAM inactivation by 4-oxo-5-acetamido-6-phenyl-hex-2-enoic acid and 4-oxo-5-acetamido-6-(2-thienyl)-hex-2-enoic acid were obtained by using both the conventional dilution assay method and the more complex progress curve method.
+The results obtained from the progress curve method establish that these compounds exhibit the kinetic characteristics of pure competitive inactivators (i.e. no ESI complex forms during inactivation).
+On the basis of k(inact)/K(i) values, 4-oxo-5-acetamido-6-(2-thienyl)-hex-2-enoic acid is almost two orders of magnitude more potent than benzoylacrylate, a chemically analogous olefinic inactivator that lacks the peptide moiety.
+Stereochemical studies established that PAM inactivation by 4-oxo-5-acetamido-6-(2-thienyl)-hex-2-enoic acid is stereospecific with respect to the moiety at the P(2) position, which is consistent with previous results with substrates and reversible inhibitors.
+In contrast, 2, 4-dioxo-5-acetamido-6-phenylhexanoic acid, which is a competitive inhibitor with respect to ascorbate, exhibits a low degree of stereospecificity in binding to the ascorbate sites of both PAM and dopamine-beta-hydroxylase.

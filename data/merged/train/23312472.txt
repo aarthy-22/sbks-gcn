@@ -1,0 +1,3 @@
+Highly selective 2,4-diaminopyrimidine-5-carboxamide inhibitors of Sky kinase.
+We report the SAR around a series of 2,4-diaminopyrimidine-5-carboxamide inhibitors of Sky kinase.
+2-Aminophenethyl analogs demonstrate excellent potency but moderate kinase selectivity, while 2-aminobenzyl analogs that fill the Ala571 subpocket exhibit good inhibition activity and excellent kinase selectivity.

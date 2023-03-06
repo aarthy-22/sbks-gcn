@@ -1,0 +1,12 @@
+Platelet-derived growth factor triggers PKA-mediated signalling by a redox-dependent mechanism in rat renal mesangial cells.
+Inflammatory glomerular kidney diseases are often accompanied with a massive production of reactive oxygen species (ROS) that affect the function of the glomerular filtration barrier and contribute to mesangiolysis via the induction of cell death in mesangial cells.
+Intriguingly, ROS also trigger fine-tuned signalling processes that affect gene expression and cell proliferation or migration.
+To define such redox-driven signalling devices, a proteomics approach was performed to identify the formation of protein complexes induced by ROS.
+To this end, protein lysates of human podocytes were treated with or without hydrogen peroxide (250 μM).
+Thereafter cell lysates were subjected to diagonal 2D gel electrophoresis and putative redox-affected proteins were analysed by MS/MS analysis.
+Among others, the regulatory subunit of protein kinase A (PKA) could be identified that forms homodimers under oxidative conditions.
+To evaluate whether ROS dependent dimerization of PKA also occurs in a more physiological setting, rat mesangial cells were treated with platelet-derived growth factor-BB (PDGF-BB) to induce ROS formation.
+This regimen resulted in a redox dependent dimerization of the R-subunits of PKA.
+To demonstrate whether PDGF-BB induced ROS formation affects PKA dependent pathways, the effects of PDGF-BB on phosphorylation of serine 157 of vasodilator stimulated protein (VASP) a classical target of PKA were analysed.
+Interestingly PDGF-BB induced VASP phosphorylation in a ROS dependent manner but independent of changes in cAMP levels.
+Taken together, we demonstrate a redox-mediated activation of PKA by PDGF-BB thus highlighting a physiological role of ROS as regulator of PKA activity in rat mesangial cells.

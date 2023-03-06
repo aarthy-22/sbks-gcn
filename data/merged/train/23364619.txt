@@ -1,0 +1,14 @@
+Investigation of the toxicokinetics of petroleum hydrocarbon distillates with the earthworm Eisenia andrei.
+The Canada-wide standards for petroleum hydrocarbons in soils regulate petroleum hydrocarbons based on four distillate ranges: F1 (C6-C10), F2 (>C10-C16), F3 (>C16-C34), and F4 (>C34).
+Previous toxicity tests with earthworms and F2, as well as two subfractions of F3, F3a (>C16-C23) and F3a (>C23-C34), indicate that test durations might not be sufficiently long to reach threshold effect concentrations, likely because of the differing toxicokinetics for each distillate.
+A study was conducted to determine the toxicokinetics of both aliphatic and aromatic fractions of F2, F3a, and F3b with the earthworm Eisenia andrei.
+Peak accumulation curves were observed for F2 aliphatics and aromatics and F3a aromatics, likely as a result of changes in exposure concentration over the test duration via loss or a decrease in the bioavailable fraction.
+Biota-soil accumulation factors were >1 for total F2 aliphatics and aromatics and F3a aromatics as well as for several individual polyaromatic hydrocarbons for each distillate.
+Aromatics were disproportionately accumulated over aliphatics and were the main contributors to toxicity; therefore, aromatics and aliphatics should be regulated separately.
+The toxicokinetics were used to interpret previous toxicity data.
+Higher molecular weight distillates need longer-than-standard test durations to determine toxicity, so toxicity test results from fixed, standard-duration tests are not strictly comparable for these petroleum distillates.
+Environ.
+Toxicol.
+Chem.
+2013;32:1006-1015.
+© 2013 SETAC.

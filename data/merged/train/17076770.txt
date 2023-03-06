@@ -1,0 +1,14 @@
+Time-specific effects of perinatal glucocorticoid treatment on anterior pituitary morphology, annexin 1 expression and adrenocorticotrophic hormone secretion in the adult female rat.
+Perinatal glucocorticoid (GC) treatment is increasingly associated with long-term disturbances in hypothalamo-pituitary-adrenocortical function.
+In the male rat, such treatment induces profound molecular, morphological and functional changes in the anterior pituitary gland at adulthood.
+To determine whether these effects are sex-specific, we have examined the effects of perinatal dexamethasone treatment on the female pituitary gland, focusing on (i) the integrity of the annexin 1 (ANXA1) dependent regulatory effects of GCs on adrenocorticotrophic hormone (ACTH) release and (ii) corticotroph and folliculo-stellate (FS) cell morphology.
+Dexamethasone was given to pregnant (gestational days 16-19) or lactating (days 1-7 post partum) rats via the drinking water (1 microg/ml); controls received normal drinking water.
+Pituitary tissue from the female offspring was examined ex vivo at adulthood (60-90 days).
+Both treatment regimes reduced the intracellular and cell surface ANXA1 expression, as determined by western blot analysis and quantitative immunogold electron microscopic histochemistry.
+In addition, they compromised the ability of dexamethasone to suppress the evoked release of ACTH from the excised tissue in vitro, a process which requires the translocation of ANXA1 from the cytoplasm to the cell surface of FS cells.
+Although neither treatment regime affected the number of FS cells or corticotrophs, both altered the subcellular morphology of these cells.
+Thus, prenatal dexamethasone treatment increased while neonatal treatment decreased FS cell size and cytoplasmic area.
+By contrast, corticotroph size was unaffected by either treatment, as also was the size of the secretory granules.
+Corticotroph granule density and margination were, however, increased markedly by the prenatal treatment, while the neonatal treatment had no effect on granule density but decreased granule margination.
+Thus, perinatal dexamethasone treatment exerts long-term effects on the female pituitary gland, altering gene expression, cell morphology and the ANXA1-dependent GC regulation of ACTH secretion.
+The changes are similar but not identical to those reported in the male.

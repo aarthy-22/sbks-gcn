@@ -1,0 +1,9 @@
+Apolipoprotein E3 (apoE3) safeguards pig proximal tubular LLC-PK1 cells against reduction in SGLT1 activity induced by gentamicin C. Megalin, a family of endocytic receptors related to the low-density lipoprotein (LDL) receptor, is a major pathway for proximal tubular aminoglycoside accumulation.
+We previously reported that aminoglycoside antibiotics reduce SGLT1-dependent glucose transport in pig proximal tubular epithelial LLC-PK1 cells in parallel with the order of their nephrotoxicity.
+In this study, using a model of gentamicin C (GMC)-induced reduction in SGLT1 activity, we examined whether ligands for megalin protect LLC-PK1 cells from the GMC-induced reduction in SGLT1 activity.
+We employed apolipoprotein E3 (apoE3) and lactoferrin as ligands for megalin.
+Then the cells were treated with various concentrations of apoE3, lactoferrin and bovine serum albumin with or without 100 microg/ml of GMC, and the SGLT1-dependent methyl alpha-D-glucopyranoside (AMG) uptake and levels of SGLT1 expression were determined.
+As a result, we demonstrated that the apoE3 significantly protects these cells from GMC-induced reduction in AMG uptake, but neither lactoferrin nor albumin does.
+In accord with a rise in AMG uptake activity, the mRNA and protein levels of SGLT1 were apparently up-regulated in the presence of apoE3.
+Furthermore, we found that the uptake of [3H] gentamicin is decreased by apoE3, and that apoE3 showed obvious protection against the GMC-dependent N-acetyl-beta-D-glucosamidase (NAG) release from LLC-PK1 cells.
+Thus, these results indicate that apoE3 could be a valuable tool for the prevention of aminoglycoside nephrotoxicity.

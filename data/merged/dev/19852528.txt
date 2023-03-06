@@ -1,0 +1,13 @@
+Palonosetron: in the prevention of nausea and vomiting.
+Palonosetron is a second-generation serotonin 5-HT3 receptor antagonist, with a distinct pharmacological profile that differs from first-generation 5-HT3 receptor antagonists.
+Intravenous palonosetron is widely indicated for the prevention of chemotherapy-induced nausea and vomiting (CINV) in the acute and delayed phases following moderately emetogenic chemotherapy (MEC) and the prevention of CINV in the acute phase following highly emetogenic chemotherapy (HEC).
+In the US, oral palonosetron is approved for the prevention of CINV in the acute phase following MEC (although this formulation is not currently available), and intravenous palonosetron is indicated for the prevention of postoperative nausea and vomiting (PONV) in the first 24 hours following surgery.
+All indications are currently limited to adult patients.
+Intravenous palonosetron was noninferior to intravenous ondansetron (with statistically greater efficacy than ondansetron) or dolasetron in preventing CINV following MEC, or to intravenous ondansetron or granisetron in preventing CINV following HEC, in the acute phase.
+Statistically greater efficacy was seen with intravenous palonosetron than ondansetron or dolasetron in preventing CINV following MEC in the delayed phase.
+Oral palonosetron was noninferior to intravenous palonosetron in preventing CINV in the acute phase in patients receiving MEC.
+Intravenous palonosetron was superior to placebo in preventing PONV in the first 24 hours following surgery.
+Palonosetron was generally well tolerated in clinical trials.
+Intravenous palonosetron is a valuable option in the prevention of acute- and delayed-phase CINV in adult patients receiving MEC, and of acute-phase CINV in patients receiving HEC.
+Oral palonosetron is likely to be a useful addition to oral formulations of other 5-HT3 receptor antagonists in preventing CINV in patients receiving MEC.
+Intravenous palonosetron is a useful alternative to currently recommended agents in PONV prevention.

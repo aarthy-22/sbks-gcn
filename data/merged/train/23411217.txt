@@ -1,0 +1,8 @@
+Peyer's patch-mediated intestinal immune system modulating activity of pectic-type polysaccharide from peel of Citrus unshiu.
+An intestinal immune system modulating polysaccharide (CUI-3IIb-3-2, 18kDa) was purified from Citrus unshiu peel.
+CUI-3IIb-3-2 mainly comprised GalA, GlcA, Ara, Gal and Rha, and it consisted of 4-linked GalA, terminal Araf, 4- or 5-linked/3,4- or 3,5-branched Ara, terminal Gal, and 2-linked/2,4-branched Rha.
+After CUI-3IIb-3-2 digestion by endo-α-d-(1→4)-polygalacturonase, its hydrolysate was fractionated into PG-1 and PG-2.
+Methylation analyses of PG-1 and PG-2 using base-catalysed β-elimination suggested that CUI-3IIb-3-2 be assumed as pectic-type polysaccharide.
+Since the activities of PG-1 and PG-2 were potently decreased, the whole polysaccharide structure of CUI-3IIb-3-2 would be essential to maintain the activity.
+Meanwhile, when CUI-3IIb was orally administered in mice, bone marrow cell proliferation and GM-CSF/IL-6 production from Peyer's patch cell were significantly higher (1.76- and 2.03/2.51-fold, respectively) than a saline.
+Therefore, a pectic-type polysaccharide from citrus peel could stimulate Peyer's patches and produce hematopoietic growth factors resulted in bone marrow cell proliferation.

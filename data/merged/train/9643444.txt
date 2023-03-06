@@ -1,0 +1,9 @@
+Investigation into the presence of insulin-degrading enzyme in cultured type II alveolar cells and the effects of enzyme inhibitors on pulmonary bioavailability of insulin in rats.
+The purpose of this study was to investigate the role of insulin-degrading enzyme (IDE, EC 3.4.22.11) in insulin degradation in alveolar epithelium.
+The primary culture of isolated rat type-II pneumocytes was used for the in-vitro characterization of IDE.
+Insulin was then administered intratracheally with various inhibitors to assess the improvement in its pulmonary bioavailability.
+In cultured type-II pneumocytes, the cytosolic insulin-degrading activity contributed 81% of total insulin degradation, reached a maximum at pH 7.5 and had an apparent Michaelis-Menten constant (Km) of 135 nM. N-Ethylmaleimide, p-chloromercuribenzoic acid and 1,10-phenanthroline inhibited insulin-degrading activity almost completely in both crude homogenate and cytosol.
+An immunoprecipitation study showed that IDE contributed 74% of cytosolic insulin-degrading activity.
+Western blot analysis showing a single band of 110 kDa on reduced SDS (sodium dodecylsulphate) gels confirmed the presence of IDE in cultured type-II cells.
+When given intratracheally with insulin, inhibitors including N-ethylmaleimide, p-chloromercuribenzoic acid, and 1,10-phenanthroline significantly enhanced the absolute bioavailability of insulin and the compound's hypoglycaemic effects.
+These results suggest that IDE is present in alveolar epithelium and might be involved in limiting insulin absorption in the lung.

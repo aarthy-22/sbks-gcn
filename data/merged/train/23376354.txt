@@ -1,0 +1,8 @@
+Ion channel remodeling in vascular smooth muscle during hypertension: Implications for novel therapeutic approaches.
+Ion channels are multimeric, transmembrane proteins that selectively mediate ion flux across the plasma membrane in a variety of cells including vascular smooth muscle cells (VSMCs).
+The dynamic interplay of Ca(2+) and K(+) channels on the plasma membrane of VSMCs plays a pivotal role in modulating the vascular tone of small arteries and arterioles.
+The abnormally-elevated arterial tone observed in hypertension thus points to an aberrant expression and function of Ca(2+) and K(+) channels in the VSMCs.
+In this short review, we focus on the three well-studied ion channels in VSMCs, namely the L-type Ca(2+) (CaV1.2) channels, the voltage-gated K(+) (KV) channels, and the large-conductance Ca(2+)-activated K(+) (BK) channels.
+First, we provide a brief overview on the physiological role of vascular CaV1.2, KV and BK channels in regulating arterial tone.
+Second, we discuss the current understanding of the expression changes and regulation of CaV1.2, KV and BK channels in the vasculature during hypertension.
+Third, based on available proof-of-concept studies, we describe the potential therapeutic approaches targeting these vascular ion channels in order to restore blood pressure to normotensive levels.

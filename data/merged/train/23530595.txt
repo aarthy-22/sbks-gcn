@@ -1,0 +1,8 @@
+Bioinspired Water-Enhanced Mechanical Gradient Nanocomposite Films That Mimic the Architecture and Properties of the Squid Beak. Inspired by the water-enhanced mechanical gradient character of the squid beak, we herein report a nanocomposite that mimics both the architecture and properties of this interesting natural material.
+Similar to the squid beak, we have developed nanocomposites where the degree of cross-linking is controlled along the length of the film.
+In this study, we utilized tunicate cellulose nanocrystals as the nanofiller that are functionalized with allyl moieties.
+Using photoinduced thiol-ene chemistry, we have been able to cross-link the CNC nanofiller.
+In the dry state where strong CNC interactions can occur, only a small mechanical contrast is observed between the cross-linked and uncross-linked samples.
+However, when the films are exposed to water, which "switches off" the noncovalent CNC interactions, a significant mechanical contrast is observed between the same films.
+For example, at 20 wt % CNC (in the dry film), an increase in wet modulus from 60 to 300 MPa (∼500% increase) is observed after photoirradiation.
+Furthermore, we show that the wet modulus can be controlled by altering the UV exposure time which allows access to mechanical gradient films.

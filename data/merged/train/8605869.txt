@@ -1,0 +1,14 @@
+TWIK-1, a ubiquitous human weakly inward rectifying K+ channel with a novel structure.
+A new human weakly inward rectifying K+ channel, TWIK-1, has been isolated.
+This channel is 336 amino acids long and has four transmembrane domains.
+Unlike other mammalian K+ channels, it contains two pore-forming regions called P domains.
+Genes encoding structural homologues are present in the genome of Caenorhabditis elegans.
+TWIK-1 currents expressed in Xenopus oocytes are time-independent and present a nearly linear I-V relationship that saturated for depolarizations positive to O mV in the presence of internal Mg2+.
+This inward rectification is abolished in the absence of internal Mg2+.
+TWIK-1 has a unitary conductance of 34 pS and a kinetic behaviour that is dependent on the membrane potential.
+In the presence of internal Mg2+, the mean open times are 0.3 and 1.9 ms at -80 and +80 mV, respectively.
+The channel activity is up-regulated by activation of protein kinase C and down-regulated by internal acidification.
+Both types of regulation are indirect.
+TWIK-1 channel activity is blocked by Ba2+(IC50=100 microM), quinine (IC50=50 microM) and quinidine (IC50=95 microM).
+This channel is of particular interest because its mRNA is widely distributed in human tissues, and is particularly abundant in brain and heart.
+TWIK-1 channels are probably involved in the control of background K+ membrane conductances.

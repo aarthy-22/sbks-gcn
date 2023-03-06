@@ -1,0 +1,5 @@
+Tyrosinase inhibitors from Rhododendron collettianum and their structure-activity relationship (SAR) studies.
+A new coumarinolignoid 8'-epi-cleomiscosin A (1) together with the new glycoside 8-O-beta-D-glucopyranosyl-6-hydroxy-2-methyl-4H-1-benzopyrane-4-one (2) have been isolated from the aerial parts of Rhododendron collettianum and their structures determined on the basis of spectroscopic evidences.
+Tyrosinase inhibition study of these compounds and their structure-activity relationship (SAR) were also investigated.
+The compounds exhibited potent to mild inhibition activity against the enzyme.
+Especially, the compound 1 showed strong inhibition (IC50=1.33 microM) against the enzyme tyrosinase, as compared to the standard tyrosinase inhibitors kojic acid (IC50=16.67 microM) and L-mimosine (IC50=3.68 microM), indicating its potential used for the treatment of hyperpigmentation associated with the high production of melanocytes.

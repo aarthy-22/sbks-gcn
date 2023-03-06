@@ -1,0 +1,16 @@
+Changes in morphometry and association between whole-body fatty acids and steroid hormone profiles in relation to bioaccumulation patterns in salmon larvae exposed to perfluorooctane sulfonic or perfluorooctane carboxylic acids.
+In the present study, we have used salmon embryos whose continuous exposure to waterborne PFOA or PFOS at 100 μg/L started as freshly fertilized eggs, and lasted for a total of 52 days.
+PFOS and PFOA were dissolved in methanol (carrier vehicle) whose concentration never exceeded 0.01% of total tank volume.
+Samples were collected at day 21, 28, 35, 52, 49 and 56 after the start of the exposure.
+Note that days 49 and 56 represent end of exposure and 1 week after a recovery period, respectively.
+Tissue bioaccumulations were determined by HPLC/MS/MS, steroid hormones, fatty acids (FAs) and lipids were determined by GC-MS, while mRNA expression levels of genes were determined by qPCR in whole body homogenate.
+We observed that PFOS and PFOA showed a steady increase in whole body burden during the exposure period, with a slight decrease after the recovery period.
+Calculated somatic indexes showed that PFOA produced increases in heart-, thymus-, liver- and kidney somatic indexes (HSI, TSI, LSI and KSI).
+PFOA and PFOS exposure produced significant decreases in whole body dehydroepiandrosterone (DHEA), estrone and testosterone at sampling day 21 and a strong increase of cortisol and cholesterol at the end of recovery period (day 56).
+PFOA and PFOS effects differed with DHEA and estrone.
+While PFOS decreased DHEA levels, PFOA produced an increase at day 49, and while PFOS decreased estrone, PFOA produced a slight increase at day 56.
+We observed changes in FA composition that predominantly involved increases in FA methyl esters (FAMEs), mono- and poly-unsaturated FA (MUFA and PUFA) and a decrease in n-3/n-6 PUFA ratio by both PFOA and PFOS.
+Particularly, an increase in - pentadecenoic MUFA (15:1), two n-3 PUFAs α-linolenic acid [ALA: 18:3 n3] and eicosapentaenoic acid [EPA: 20:5 n-3] and n-6 PUFA: arachidonic acid [ARA: 20:4 n6], docosapentaenoic acid (DPA) by PFOA and PFOS were observed.
+These effects were associated with changes in mRNA expression of FA elongase (FAE), Δ5-desaturase (FAD5) and Δ6-desaturase (FAD6) genes.
+In summary, the changes in hormonal and FA profiles may represent cellular and/or physiological adaptation to continuous PFOS and PFOA exposure by increasing membrane fluidity, and/or overt developmental effects.
+The present findings provide some potential insights and basis for a better understanding on the possible mechanisms of PFCs toxicity in fish.

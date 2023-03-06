@@ -1,0 +1,10 @@
+A Model-Based Approach to Predict Longitudinal HbA1c, Using Early Phase Glucose Data From Type 2 Diabetes Mellitus Patients After Anti-Diabetic Treatment.
+Predicting late phase outcomes from early-phase findings can help inform decisions in drug development.
+If the measurements in early-phase differ from those in late phase, forecasting is more challenging.
+In this paper, we present a model-based approach for predicting glycosylated hemoglobin (HbA1c) in late phase using glucose and insulin concentrations from an early-phase study, investigating an anti-diabetic treatment.
+Two previously published models were used; an integrated glucose and insulin (IGI) model for meal tolerance tests and an integrated glucose-red blood cell-HbA1c (IGRH) model predicting the formation of HbA1c from the average glucose concentration (Cg,av ).
+Output from the IGI model was used as input to the IGRH model.
+Parameters of the IGI model and drug effects were estimated using data from a phase1 study in 59 diabetic patients receiving various doses of a glucokinase activator.
+Cg,av values were simulated according to a Phase 2 study design and used in the IGRH model for predictions of HbA1c.
+The performance of the model-based approach was assessed by comparing the predicted to the actual outcome of the Phase 2 study.
+We have shown that this approach well predicts the longitudinal HbA1c response in a 12-week study using only information from a 1-week study where glucose and insulin concentrations were measured.

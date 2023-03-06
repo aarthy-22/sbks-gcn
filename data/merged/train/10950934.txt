@@ -1,0 +1,12 @@
+Chromosomal localization, gene structure, and expression pattern of DDAH1: comparison with DDAH2 and implications for evolutionary origins.
+Endogenously produced asymmetrically methylated arginine residues are competitive inhibitors of all three isoforms of nitric oxide synthase (NOS).
+The enzyme dimethylarginine dimethylaminohydrolase (DDAH) specifically hydrolyzes these asymmetrically methylated arginine residues to citrulline and methylamines.
+Previously we have proposed that regulation of asymmetric methylarginine concentration by DDAH may provide a novel mechanism for the regulation of NOS activity in vivo.
+Recently we reported the cloning of human DDAH and identified a novel human DDAH isoform (DDAH I and DDAH II, respectively).
+Here we report that the DDAH1 gene maps to chromosome 1p22 and confirm that DDAH2 maps to the MHC III region of chromosome 6p21.3.
+Extensive analysis of the distribution of DDAH1 and DDAH2 mRNA in 50 human tissues indicates differential expression of DDAH isoforms in brain regions, in immune cells, and during development.
+DDAH2 expression predominates in highly vascularized tissues that express the endothelial NOS isoform and in immune tissues that can express iNOS.
+Whereas DDAH2 is expressed at relatively high levels in all fetal tissues examined, DDAH1 expression varies little between fetal and adult tissues.
+The chromosomal localization of the DDAHs is consistent with gene duplication, and consistent with this, comparison of the gene structures indicates that the intron/exon organization is highly conserved.
+Phylogenetic analysis of DDAH sequences from diverse species suggests that DDAH gene duplication occurred prior to the emergence of bony fish some 400 million years ago.
+Overall the data suggest that DDAH2 may be the more ancient of the two genes.

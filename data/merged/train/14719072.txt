@@ -1,0 +1,14 @@
+Thymidine kinase and thymidine phosphorylase level as the main predictive parameter for sensitivity to TAS-102 in a mouse model.
+TAS-102 is a new oral anti-cancer drug preparation, composed of a 1:0.5 mixture (on a molar basis) of alpha,alpha,alpha-trifluorothymidine (FTD) and 5-chloro-6-[1-(2-iminopyrrolidinyl)methyl]-2,4(1H,3H)-pyrimidinedione hydrochloride (TPI).
+TAS-102 currently undergoing clinical trials, has been demonstrated to have at least two mechanisms, inhibition of TS and incorporation into DNA.
+We hypothesized that the thymidine metabolism enzyme may be a crucial factor that affects the antitumor activity of TAS-102.
+In the present study, we measured the enzyme activity of thymidine kinase (TK), thymidine phosphorylase (TP) and thymidilate synthase (TS) in human cancer xenografts to investigate the contribution of these enzymes to the sensitivity of TAS-102.
+Antitumor activity of TAS-102 appears to be associated with TK, tumor growth and TS.
+However, the most related factors in this study were the TK and TP ratio.
+There was a significant correlation (p=0.04) between tumor growth inhibition and this ratio.
+These results suggested that the activation and degradation pattern of FTD plays an important role in the efficacy of TAS-102 and that it is possible to use the TK/TP ratio to predict response to TAS-102 therapy.
+We also studied the influence of TPI on the capacity of exogenous dThd to reverse FTD-dependent growth inhibition.
+Thymidine (dThd) levels rescued the effect of FTD in vitro and significantly increased in serum after administration of TAS-102 or TPI alone but not FTD alone.
+This may suggest the possibility of a decrease in antitumor effect.
+However, our study indicated that the therapeutic index was clearly increased by FTD combined with TPI, compared with FTD alone, suggesting FTD-induced toxicity to sensitive host tissue can be selectively reversed with dThd.
+In conclusion, TK and TPI effects on TP play important roles in the cytotoxic action of TAS-102, and it is possible to use the TK/TP ratio to predict more precisely individual resistance or sensitivity.

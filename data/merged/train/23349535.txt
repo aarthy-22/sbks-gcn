@@ -1,0 +1,13 @@
+Mineralocorticoid receptor-mediated vascular insulin resistance: an early contributor to diabetes-related vascular disease?
+Two-thirds of adults in the U.S. are overweight or obese, and another 26 million have type 2 diabetes (T2D).
+Patients with diabetes and/or the metabolic syndrome have a significantly increased risk of heart attack and stroke compared with people with normal insulin sensitivity.
+Decreased insulin sensitivity in cardiovascular tissues as well as in traditional targets of insulin metabolic signaling, such as skeletal muscle, is an underlying abnormality in obesity, hypertension, and T2D.
+In the vasculature, insulin signaling plays a critical role in normal vascular function via endothelial cell nitric oxide production and modulation of Ca(2+) handling and sensitivity in vascular smooth muscle cells.
+Available evidence suggests that impaired vascular insulin sensitivity may be an early, perhaps principal, defect of vascular function and contributor to the pathogenesis of vascular disease in persons with obesity, hypertension, and T2D.
+In the overweight and obese individual, as well as in persons with hypertension, systemic and vascular insulin resistance often occur in concert with elevations in plasma aldosterone.
+Indeed, basic and clinical studies have demonstrated that elevated plasma aldosterone levels predict the development of insulin resistance and that aldosterone directly interferes with insulin signaling in vascular tissues.
+Furthermore, elevated plasma aldosterone levels are associated with increased heart attack and stroke risk.
+Conversely, renin-angiotensin-aldosterone system and mineralocorticoid receptor (MR) antagonism reduces cardiovascular risk in these patient populations.
+Recent and accumulating evidence in this area has implicated excessive Ser phosphorylation and proteosomal degradation of the docking protein, insulin receptor substrate, and enhanced signaling through hybrid insulin/IGF-1 receptor as important mechanisms underlying aldosterone-mediated interruption of downstream vascular insulin signaling.
+Prevention or restoration of these changes via blockade of aldosterone action in the vascular wall with MR antagonists (i.e., spironolactone, eplerenone) may therefore account for the clinical benefit of these compounds in obese and diabetic patients with cardiovascular disease.
+This review will highlight recent evidence supporting the hypothesis that aldosterone and MR signaling represent an ideal candidate pathway linking early promoters of diabetes, especially overnutrition and obesity, to vascular insulin resistance, dysfunction, and disease.

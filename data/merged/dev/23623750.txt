@@ -1,0 +1,11 @@
+Molecular and functional characterization of flavin-containing monooxygenases in cynomolgus macaque.
+Flavin-containing monooxygenases (FMOs), drug-metabolizing enzymes essential for the metabolism of endogenous biochemicals and foreign compounds, have been characterized in human (including FMO1-5 and FMO6P), but remain to be investigated in cynomolgus macaque.
+In this study, cDNAs of cynomolgus FMO1-5 and FMO6 were isolated and characterized.
+Amino acid sequences of cynomolgus FMO1-5, respectively, shared high sequence identities (94-98%) and were closely clustered in a phylogenetic tree, with human FMO1-5.
+Eight different transcripts, due to alternative splicing, were isolated for cynomolgus FMO6, which is highly identical (∼96%) to human FMO6P.
+Among the 10 tissue types analyzed, cynomolgus FMO1, FMO2, FMO4, and FMO6 were most abundantly expressed in kidney, while cynomolgus FMO3 and FMO5 were most abundantly expressed in liver.
+In kidney and liver, the most abundantly expressed cynomolgus FMO genes were FMO1 and FMO3 respectively.
+Cynomolgus FMO1, FMO2, FMO3, and FMO5 metabolized benzydamine, and FMO1/FMO3 and FMO3 also metabolized methimazole and trimethylamine, respectively.
+Rates of benzydamine N-oxygenation (catalyzed by FMO3) varied (approximately 20-fold) among the 28 cynomolgus livers and were significantly correlated with FMO3 protein expression, indicating that the inter-animal variations in benzydamine N-oxygenation might be partly accounted for by the variable FMO3 expression.
+Cynomolgus FMO6 metabolized benzydamine only slightly, but minimal expression of FMO6 in all tissue precludes the importance of FMO6 in drug metabolism, unlike cynomolgus FMO1, FMO2, FMO3, and FMO5 which were all functional.
+Abundant expression of FMO1 and FMO3 in kidney and liver, respectively, suggest their importance in drug metabolism in cynomolgus macaque, similar to human.

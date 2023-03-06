@@ -1,0 +1,8 @@
+Impact of the Proline Residue on Ligand Binding of Neurotensin Receptor 2 (NTS2)-Selective Peptide-Peptoid Hybrids.
+To investigate the binding mode and structure-activity relationships (SARs) of selective neurotensin receptor 2 (NTS2) ligands, novel peptide-peptoid hybrids that simulate the function of the endogenous ligand were developed.
+Starting from our recently described NTS2 ligands of type 1, structural variants of type 2 and the metabolically stable analogues 3 a,b were developed.
+Replacement of the proline unit by a collection of structural surrogates and evaluation of the respective molecular probes for NTS2 affinity and selectivity indicated similar SARs as described for NT(8-13) derivatives bound to the subtype NTS1.
+Peptide-peptoid hybrids 2 d, 3 a,b showed substantial NTS2 binding affinity (Ki =8.1-16 nM) and 2400-8600-fold selectivity over NTS1.
+The thiazolidine derivative 3 b showed metabolic stability over 32 h in a serum degradation assay.
+In an inositol phosphate accumulation assay, the neurotensin mimetics 3 a and 3 b displayed an inhibition of constitutive activity exceeding 1.7-2.0 times the activity of NT(8-13).
+The fluorinated derivative 3 a could afford attractive opportunities to detect NTS2 by (19) F magnetic resonance imaging.

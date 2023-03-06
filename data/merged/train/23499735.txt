@@ -1,0 +1,11 @@
+Angiotensin-(1-7) inhibits autophagy in the brain of spontaneously hypertensive rats.
+Autophagy is an important cellular process that mediates lysosomal degradation of damaged organelles, which is activated in response to a variety of stress-related diseases, including hypertension.
+The basal level of autophagy plays an important role in the maintenance of cellular homeostasis, whereas excessive autophagic activity leads to cell death and is considered as a contributing factor to several disorders.
+Recent works have demonstrated that Angiotensin-(1-7) [Ang-(1-7)] exerted its neuroprotective effects by modulating classic components of renin-angiotensin system associated with reducing oxidative stress and apoptosis in brains of spontaneously hypertensive rats (SHRs).
+However, the effect of Ang-(1-7) on autophagic activity in brain of hypertensive individual remains unclear.
+In this study, Wistar-Kyoto rats received intracerebroventricular (I.C.V.) infusion of artificial cerebrospinal fluid (aCSF) while SHRs received I.C.V. infusion of aCSF, Ang-(1-7), Mas receptor antagonist A-779, or angiotensin II type 2 receptor antagonist PD123319 for 4 weeks.
+Brain tissues were collected and analyzed by western blotting analysis, immunofluorescence assay, and transmission electron microscopic examination.
+Our study showed that infusion of Ang-(1-7) for 4 weeks inhibited the increase of microtubule-associated protein 1 light chain 3 (LC3)-II and Beclin-1 levels, as well as the autophagosome formation in SHR brain.
+Meanwhile, the reduction of p62 expression in SHR brain was also reversed by Ang-(1-7).
+Of note, the anti-autophagic effects of Ang-(1-7) were independent of blood pressure reduction and can be inhibited by A-779 and PD123319.
+These findings suggest that treatment with Ang-(1-7) may be useful to prevent hypertension-induced excessive autophagic activation in brain.

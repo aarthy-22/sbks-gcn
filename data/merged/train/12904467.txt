@@ -1,0 +1,8 @@
+Selective antagonism of GluR5 kainate-receptor-mediated synaptic currents by topiramate in rat basolateral amygdala neurons.
+Topiramate is a widely used antiepileptic agent whose mechanism of action is poorly understood.
+The drug has been reported to interact with various ion channel types, including AMPA/kainate receptors.
+In whole-cell voltage-clamp recordings from principal neurons of the rat basolateral amygdala, topiramate at low concentrations (IC50, approximately 0.5 microm) selectively inhibited pharmacologically isolated excitatory synaptic currents mediated by kainate receptors containing the GluR5 subunit.
+Topiramate also partially depressed predominantly AMPA-receptor-mediated EPSCs, but with lower efficacy.
+Topiramate did not alter the degree of facilitation in paired-pulse experiments, and it reduced the amplitude of miniature EPSCs without affecting their frequency, demonstrating that the block of synaptic responses occurs postsynaptically.
+Inhibition of GluR5 kainate receptors could represent a key mechanism underlying the anticonvulsant activity of topiramate.
+Moreover, these results support the concept that GluR5 kainate receptors represent a novel target for antiepileptic drug development.

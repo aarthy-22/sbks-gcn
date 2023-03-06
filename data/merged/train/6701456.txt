@@ -1,0 +1,6 @@
+Demonstration of histamine receptors on human platelets by flow cytometry.
+Fluoresceinated human albumin conjugated with histamine (FHA-HIS) has been used for the demonstration of histamine receptors on human platelets.
+Such receptors were demonstrated on 40-63% of peripheral blood platelets in 4 healthy donors.
+The binding of FHA-HIS was inhibited on 35-79% of the platelets by the histamine H1 receptor antagonists diphenhydramine and clemastine.
+The histamine H2 receptor antagonist cimetidine blocked the FHA-HIS binding on 14-37% of the platelets.
+It is concluded that histamine H1 as well as H2 receptors occur on human platelets but the receptors are not equally distributed in the platelet population.

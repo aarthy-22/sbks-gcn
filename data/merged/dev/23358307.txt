@@ -1,0 +1,6 @@
+Synthesis, DNA binding and antitumor evaluation of styelsamine and cystodytin analogues.
+A series of N-14 sidechain substituted analogues of styelsamine (pyrido[4,3,2-mn]acridine) and cystodytin (pyrido[4,3,2-mn]acridin-4-one) alkaloids have been prepared and evaluated for their DNA binding affinity and antiproliferative activity towards a panel of human tumor cell lines.
+Overall it was found that styelsamine analogues were stronger DNA binders, with the natural products styelsamines B and D having particularly high affinity (K(app) 5.33 × 10(6) and 3.64 × 10(6) M(-1), respectively).
+In comparison, the cystodytin iminoquinone alkaloids showed lower affinity for DNA, but were typically just as active as styelsamine analogues at inhibiting proliferation of tumor cells in vitro.
+Sub-panel selectivity towards non-small cell lung, melanoma and renal cancer cell lines were observed for a number of the analogues.
+Correlation was observed between whole cell activity and clogP, with the most potent antiproliferative activity being observed for 3-phenylpropanamide analogues 37 and 41 (NCI panel average GI(50) 0.4 μM and 0.32 μM, respectively) with clogP ~4.0-4.5.

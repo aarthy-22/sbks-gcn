@@ -1,0 +1,10 @@
+Effect of apocalmodulin on recombinant human brain glutamic acid decarboxylase.
+In this work, we report that the recombinant glutathione S-transferase (GST)-human L-glutamic acid decarboxylase (HGAD) isoforms, 65-kDa L-glutamic acid decarboxylase (GAD) (GST-HGAD65) fusion protein or free truncated HGAD65, were activated by apocalmodulin (ApoCaM) to an extent of 60%.
+Both truncated forms of GAD67 (tGAD67), HGAD67(Delta1-70) and HGAD67(Delta1-90), were markedly activated by ApoCaM to an extent of 141 and 85%, respectively, while GST-HGAD67 was not significantly affected.
+The activation appears to be due to an increase of GAD affinity for its cofactor, pyridoxal phosphate (PLP).
+This conclusion is based on the following observations.
+Firstly, the V(max) of GAD was increased when ApoCaM was present whereas the affinity for the substrate, glutamate, was not affected.
+Secondly, the affinity of GAD for PLP was increased in the presence of ApoCaM. Thirdly, results from calmodulin-agarose affinity column chromatography studies indicated a direct interaction or binding between ApoCaM and GAD.
+Fourthly, ApoCaM was found to be copurified with GAD65/GAD67 by anti-GAD65/67 immunoaffinity column using rat brain extract.
+Hence, it is proposed that a conformational change is induced when ApoCaM interacts with GAD65 or tGAD67, resulting in an increase of GAD affinity for PLP and the activation of GAD.
+The physiological significance of the interaction between GAD and ApoCaM is discussed.

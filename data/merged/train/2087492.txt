@@ -1,0 +1,6 @@
+Barrel rotation in rats induced by SMS 201-995: suppression by ceruletide.
+Intracerebroventricular administration of SMS 201-995 (5 micrograms/rat), a somatostatin analogue, induced barrel rotation in rats.
+Pretreatment with ceruletide (40 micrograms/100 g b. wt., IP) 3 days or 7 days prior to the injection of SMS 201-995 significantly inhibited the response rate of barrel rotation induced by SMS 201-995, but not that induced by arginine-vasopressin (1 microgram/rat, ICV).
+The suppressive effect of ceruletide on barrel rotation could be partially countered by MK-329, a selective peripheral CCK (CCK-A) receptor antagonist.
+Desulfated cerulein did not affect the barrel rotation induced by SMS 201-995.
+These findings suggest that ceruletide specifically suppresses the barrel rotation evoked by SMS 201-995 in a long-lasting manner possibly acting through CCK-A receptor.

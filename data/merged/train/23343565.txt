@@ -1,0 +1,9 @@
+Binary diffusion coefficients for mixtures of ionic liquids [EMIM][N(CN)2], [EMIM][NTf2], and [HMIM][NTf2] with acetone and ethanol by dynamic light scattering (DLS).
+Mutual diffusivities for binary mixtures of the ionic liquids (ILs) [EMIM][N(CN)2] (1-ethyl-3-methylimidazolium dicyanimide), [EMIM][NTf2] (1-ethyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide), and [HMIM][NTf2] (1-hexyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide) with acetone and ethanol were studied in dependence on composition in the temperature range from 283.15 to 323.15 K, applying dynamic light scattering (DLS).
+The influence of experimental parameters on the achievable uncertainties was analyzed to ensure the acquisition of accurate data in adequate measurement times.
+For all probed systems, increasing binary diffusion coefficients were found for increasing temperatures.
+The systematic variation of anion and cation of the investigated ILs as well as a comparison with the literature data demonstrates the considerable influence of different ions on the resulting binary diffusion coefficients.
+Mutual diffusivities were found to be lower for the mixtures with ethanol than for those with acetone, which could be related to the formation of hydrogen bonds between ethanol and the ions.
+Most of the investigated IL solvent mixtures show increasing binary diffusion coefficients with increasing solvent concentration.
+For the mixtures of [EMIM][NTf2] with ethanol, however, a minimum of the mutual diffusivities was found in the ethanol mole fraction range from 0.7 to 0.8, which may hint at the vicinity of a critical demixing point.
+The viscosity of the pure ILs turned out to be no reliable indicator for the mutual diffusivity in mixtures with the same solvent.

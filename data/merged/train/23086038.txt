@@ -1,0 +1,11 @@
+PAQR3 modulates insulin signaling by shunting phosphoinositide 3-kinase p110α to the Golgi apparatus.
+Phosphoinositide 3-kinase (PI3K) mediates insulin actions by relaying signals from insulin receptors (IRs) to downstream targets.
+The p110α catalytic subunit of class IA PI3K is the primary insulin-responsive PI3K implicated in insulin signaling.
+We demonstrate here a new mode of spatial regulation for the p110α subunit of PI3K by PAQR3 that is exclusively localized in the Golgi apparatus.
+PAQR3 interacts with p110α, and the intracellular targeting of p110α to the Golgi apparatus is reduced by PAQR3 downregulation and increased by PAQR3 overexpression.
+Insulin-stimulated PI3K activity and phosphoinositide (3,4,5)-triphosphate production are enhanced by Paqr3 deletion and reduced by PAQR3 overexpression in hepatocytes.
+Deletion of Paqr3 enhances insulin-stimulated phosphorylation of AKT and glycogen synthase kinase 3β, but not phosphorylation of IR and IR substrate-1 (IRS-1), in hepatocytes, mouse liver, and skeletal muscle.
+Insulin-stimulated GLUT4 translocation to the plasma membrane and glucose uptake are enhanced by Paqr3 ablation.
+Furthermore, PAQR3 interacts with the domain of p110α involved in its binding with p85, the regulatory subunit of PI3K.
+Overexpression of PAQR3 dose-dependently reduces the interaction of p85α with p110α.
+Thus, PAQR3 negatively regulates insulin signaling by shunting cytosolic p110α to the Golgi apparatus while competing with p85 subunit in forming a PI3K complex with p110α.

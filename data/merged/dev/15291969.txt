@@ -1,0 +1,14 @@
+P2 receptor mRNA expression profiles in human lymphocytes, monocytes and CD34+ stem and progenitor cells.
+BACKGROUND: Extracellular nucleotides (ATP, ADP, UTP and UDP) exert a wide range of biological effects in blood cells mediated by multiple ionotropic P2X receptors and G protein-coupled P2Y receptors.
+Although pharmacological experiments have suggested the presence of several P2 receptor subtypes on monocytes and lymphocytes, some results are contradictory.
+Few physiological functions have been firmly established to a specific receptor subtype, partly because of a lack of truly selective agonists and antagonists.
+This stimulated us to investigate the expression of P2X and P2Y receptors in human lymphocytes and monocytes with a newly established quantitative mRNA assay for P2 receptors.
+In addition, we describe for the first time the expression of P2 receptors in CD34+ stem and progenitor cells implicating a potential role of P2 receptors in hematopoietic lineage and progenitor/stem cell function.
+RESULTS: Using a quantitative mRNA assay, we assessed the hypothesis that there are specific P2 receptor profiles in inflammatory cells.
+The P2X4 receptor had the highest expression in lymphocytes and monocytes.
+Among the P2Y receptors, P2Y12 and P2Y2 had highest expression in lymphocytes, while the P2Y2 and P2Y13 had highest expression in monocytes.
+Several P2 receptors were expressed (P2Y2, P2Y1, P2Y12, P2Y13, P2Y11, P2X1, P2X4) in CD34+ stem and progenitor cells.
+CONCLUSIONS: The most interesting findings were the high mRNA expression of P2Y12 receptors in lymphocytes potentially explaining the anti-inflammatory effects of clopidogrel, P2Y13 receptors in monocytes and a previously unrecognised expression of P2X4 in lymphocytes and monocytes.
+In addition, for the first time P2 receptor mRNA expression patterns was studied in CD34+ stem and progenitor cells.
+Several P2 receptors were expressed (P2Y2, P2Y1, P2Y12, P2Y13, P2Y11, P2X1, P2X4), indicating a role in differentiation and proliferation.
+Thus, it is possible that specific antibodies to P2 receptors could be used to identify progenitors for monocytes, lymphocytes and megakaryocytes.

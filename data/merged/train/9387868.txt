@@ -1,0 +1,8 @@
+Serotonin, dopamine and norepinephrine transporter mRNAs: heterogeneity of distribution and response to 'binge' cocaine administration.
+Quantitative in situ hybridization was utilized to map the distribution and abundance of the serotonin, dopamine and norepinephrine transporter (SERT, DAT and NET, respectively) mRNAs.
+SERT mRNA was quantified within the dorsal raphe (DR) and the median raphe (MR), DAT mRNA within the ventral tegmental area -substantia nigra (VTA-SN) region and NET mRNA within the locus coeruleus (LC).
+SERT mRNA expression within the raphe complex was organized into distinct subregional domains with the rank order of mRNA abundance: ventromedial (vm) DR > dorsomedial (dm) DR > MR > dorsolateral (dl) DR.
+The relative abundance of DAT mRNA also varied across subregions: SN pars compacta > the parabrachial pigmentosis (PBP) > the intrafascicular (IF).
+The effects of a 'binge' paradigm of cocaine administration on SERT, DAT and NET mRNA abundance were compared in the brains of behaviorally sensitized rats.
+Cocaine significantly decreased the abundance of the SERT mRNA within the dlDR and DAT mRNA abundance within the SNc and the PBP, and increased the abundance of the NET mRNA within the LC.
+Finally, correlational analysis indicated that post-cocaine levels of DAT, SERT and NET mRNAs were not associated with cocaine-induced sensitization.

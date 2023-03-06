@@ -1,0 +1,13 @@
+Inhibition by troglitazone of the antigen-induced production of leukotrienes in immunoglobulin E-sensitized RBL-2H3 cells.
+1.
+The effect of troglitazone, an anti-diabetic drug with insulin-sensitizing action, on antigen-induced production of leukotriene (LT) B(4), C(4) and E(4) and prostaglandin D(2) (PGD(2)) was examined in dinitrophenol (DNP)-specific immunoglobulin E (IgE)-sensitized RBL-2H3 mast cells following stimulation by the antigen, DNP-conjugated human serum albumin.
+Levels of LTB(4), C(4) and E(4) and PGD(2) in the conditioned medium were enzyme-immunoassayed.
+2.
+Troglitazone inhibited the antigen-induced production of LTB(4), C(4) and E(4) and the potency of the inhibition was comparable to that of zileuton, a specific inhibitor of 5-lipoxygenase (5-LOX) and a clinically used anti-asthmatic drug.
+Neither troglitazone nor zileuton affected antigen-induced production of PGD(2), arachidonic acid release from membrane phospholipids and degranulation.
+3.
+Troglitazone inhibited LTB(4) production by the supernatant fraction of RBL-2H3 cell lysate with similar potency to zileuton, suggesting that troglitazone inhibits LT production by direct inhibition of 5-LOX activity.
+4.
+Furthermore, it was shown that troglitazone as well as zileuton inhibited LTB(4) production in A23187-stimulated rat peritoneal neutrophils.
+5.
+These findings suggest that troglitazone inhibits antigen-induced LT production in the IgE-sensitized RBL-2H3 cells and A23187-stimulated rat peritoneal neutrophils by direct inhibition of 5-LOX activity.

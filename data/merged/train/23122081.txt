@@ -1,0 +1,8 @@
+Physicochemical parameters that influence carotenoids bioaccessibility from a tomato juice.
+In vitro digestion models have been developed to estimate carotenoid bioavailability but most do not consider that their diffusion from fruit matrix to the lipid phase of the bolus could be a limiting step.
+Therefore we designed a model in which tomato juice is mixed with oil or oil/water emulsions, and the carotenoids diffusing to oil are measured by spectrometry.
+Temperature, pH and tomato juice/peanut oil ratio were evaluated for their influence on carotenoid diffusion.
+When oil/tomato ratio was between 0.11 and 1, extraction of lycopene was limited by the saturation of the oil phase.
+With a large excess of oil, diffusion was also limited, as only 31 ± 1% of lycopene could be extracted from the juice.
+Diffusion did not vary significantly with pH but doubled when temperature rose from 10°C to 37°C.
+When the juice was mixed in an emulsion stabilised with bovine serum albumin or phospholipids the maximum extraction decreased to 14.5 ± 0.2% and 18.5 ± 1.5% respectively, indicating that in addition to the saturation of the oil phase at low oil/tomato ratio and in addition to intrinsic properties of the tomato juice in non-saturating conditions, lycopene diffusion was limited by the structure of the interface in emulsions.

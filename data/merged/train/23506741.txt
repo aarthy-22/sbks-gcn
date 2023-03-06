@@ -1,0 +1,10 @@
+A novel benzo[d]imidazole derivate prevents the development of dextran sulfate sodium-induced murine experimental colitis via inhibition of NLRP3 inflammasome.
+NLRP3 inflammasome has been reported to be associated with various kinds of immunological diseases including colitis.
+However, there are few drug candidates targeting inflammasomes for the treatment of colitis.
+In the present study, we aimed at examining the effect of 1-ethyl-5-methyl-2-phenyl-1H-benzo[d]imidazole, a synthetic small molecular compound also named Fc11a-2, for the treatment of dextran sulfate sodium (DSS)-induced experimental colitis in mice via targeting NLRP3 inflammasome.
+Treatment with Fc11a-2 dose-dependently attenuated the loss of body weight and shortening of colon length induced by DSS.
+In addition, the disease activity index, histopathologic scores and myeloperoxidase activity were also significantly reduced by Fc11a-2 treatment.
+Moreover, protein and mRNA levels of DSS-induced proinflammatory cytokines in colon, including TNF-α, IL-1β, IL-18, IL-17A and IFN-γ, were markedly suppressed by Fc11a-2.
+Furthermore, a decreased CD11c(+) macrophage infiltration in colons and inactivation of caspase-1 in peritoneal macrophages were detected in Fc11a-2-treated mice.
+The mechanism of action of Fc11a-2 was related to the inhibition of the cleavage of pro-caspase-1, pro-IL-1β and pro-IL-18 which in turn suppressed the activation of NLRP3 inflammasome.
+Taken together, our results demonstrate the ability of Fc11a-2 to inhibit NLRP3 inflammasome activation and its potential use in the treatment of inflammatory bowel diseases.

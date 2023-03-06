@@ -1,0 +1,11 @@
+Increased urinary excretion of albumin, hemopexin, transferrin and VDBP correlates with chronic sensitization to gentamicin nephrotoxicity in rats.
+Drug nephrotoxicity is a serious health and economic problem worldwide.
+Rats can be acutely sensitized to acute kidney injury (AKI) by subnephrotoxic treatments with potentially nephrotoxic drugs.
+Acquired sensitization to AKI poses a silent risk impossible to diagnose pre-emptively with the technology available at the clinical level.
+Herein, we hypothesized whether a chronic, subnephrotoxic insult to the kidneys might result in chronically acquired sensitization to AKI, and whether chronic sensitization might be detected through specific urinary markers.
+To this end, rats were treated with a subtoxic dosage of the experimental nephrotoxin uranyl nitrate (UN) in the drinking water for 21 weeks, or plain water (as control), and then with low-dose gentamicin for 7 days.
+Renal function and renal tissue damage were evaluated through the experiment.
+The mild renal damage caused by gentamicin was markedly magnified in rats having received UN chronically, which was evident both at the functional and histological level.
+Four proteins, namely albumin, hemopexin, transferrin and vitamin D binding protein were increased in the urine in temporal association with the appearance of chronic predisposition.
+Although further studies are necessary, our results suggest that these proteins might be potentially used as markers of hidden, chronic predisposition to gentamicin nephrotoxicity, in order to appropriately and pre-emptively stratify and handle individuals according to their specific risk in the long term, and to conveniently optimize their life conditions or additional clinical procedures or treatments that might trigger the disease.
+This might reduce AKI incidence and severity and the associated costs.

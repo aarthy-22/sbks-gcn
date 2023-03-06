@@ -1,0 +1,13 @@
+Reconstitution into liposomes of the glutamine/amino acid transporter from renal cell plasma membrane: functional characterization, kinetics and activation by nucleotides.
+The glutamine/amino acid transporter was solubilized from rat renal apical plasma membrane (brush-border membrane) with C12E8 and reconstituted into liposomes by removing the detergent from mixed micelles by hydrophobic chromatography on Amberlite XAD-4.
+The reconstitution was optimised with respect to the protein concentration, the detergent/phospholipid ratio and the number of passages through a single Amberlite column.
+The reconstituted glutamine/amino acid transporter catalysed a first-order antiport reaction stimulated by external, not internal, Na+.
+Optimal activity was found at pH 7.0.
+The sulfhydryl reagents HgCl2, mersalyl and p-hydroxymercuribenzoate and the amino acids alanine, serine, threonine, cysteine, asparagine, methionine and valine strongly inhibited the transport, whereas the amino acid analogue methylaminoisobutyrate had no effect.
+Glutamine, alanine, serine, asparagine, threonine were efficiently translocated from outside to inside and from inside to outside the proteoliposomes as well.
+Cysteine and valine were translocated preferentially from outside to inside.
+The Km for glutamine on the external and internal side of the transporter was 0.47 and 11 mM, respectively; the values were not influenced by the type of the counter substrate.
+The transporter is functionally asymmetrical and it is unidirectionally inserted into the proteoliposomal membrane with an orientation corresponding to that of the native membrane.
+By a bisubstrate kinetic analysis of the glutamine antiport, a random simultaneous mechanism was found.
+The glutamine antiport was strongly stimulated by internal nucleoside triphosphates and, to a lower extent, by pyrophoshate.
+The reconstituted glutamine/amino acid transporter functionally corresponds to the ASCT2 protein.

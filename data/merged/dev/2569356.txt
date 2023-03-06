@@ -1,0 +1,5 @@
+The effect of histamine-H1 receptor antagonism with terfenadine on concentration-related AMP-induced bronchoconstriction in asthma.
+Selective histamine-H1 receptor antagonists inhibit adenosine 5'-monophosphate (AMP)-induced bronchoconstriction by greater than 80% when expressed as a percentage inhibition of the FEV1 time-response curve following inhalation of the provocation concentration of AMP required to produce a 20% decrease in FEV1 from baseline (PC20).
+To investigate this further we have determined that, in eight mild atopic asthmatic subjects, terfenadine (180 mg), administered 3 hr pre-challenge, increases the geometric mean PC20 for histamine from 0.4 (range 0.03-3) mg/ml after placebo, to 20.2 (range 0.6-64) mg/ml following active treatment (P less than 0.0001).
+For AMP, the PC20 increased from 9.3 (range 1.0-113.3) mg/ml after placebo, to 150.2 (range 32.1-1177.7) mg/ml with terfenadine (P less than 0.0001).
+This 16.2-fold (range, 5.5-47.9) displacement to the right of the AMP concentration-response curve by a selective histamine-H1 receptor antagonist emphasizes the central role of histamine in the airways response to this nucleotide.

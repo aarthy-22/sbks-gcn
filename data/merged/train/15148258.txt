@@ -1,0 +1,11 @@
+Inhibition of cardiac HERG currents by the DNA topoisomerase II inhibitor amsacrine: mode of action.
+1 The topoisomerase II inhibitor amsacrine is used in the treatment of acute myelogenous leukemia.
+Although most anticancer drugs are believed not to cause acquired long QT syndrome (LQTS), concerns have been raised by reports of QT interval prolongation, ventricular fibrillation and death associated with amsacrine treatment.
+Since blockade of cardiac human ether-a-go-go-related gene (HERG) potassium currents is an important cause of acquired LQTS, we investigated the acute effects of amsacrine on cloned HERG channels to determine the electrophysiological basis for its proarrhythmic potential.
+2 HERG channels were heterologously expressed in human HEK 293 cells and Xenopus laevis oocytes, and the respective potassium currents were recorded using patch-clamp and two-microelectrode voltage-clamp electrophysiology.
+3 Amsacrine blocked HERG currents in HEK 293 cells and Xenopus oocytes in a concentration-dependent manner, with IC50 values of 209.4 nm and 2.0 microm, respectively.
+4 HERG channels were primarily blocked in the open and inactivated states, and no additional voltage dependence was observed.
+Amsacrine caused a negative shift in the voltage dependence of both activation (-7.6 mV) and inactivation (-7.6 mV).
+HERG current block by amsacrine was not frequency dependent.
+5 The S6 domain mutations Y652A and F656A attenuated (Y652A) or abolished (F656A, Y652A/F656A) HERG current blockade, indicating that amsacrine binding requires a common drug receptor within the pore-S6 region.
+6 In conclusion, these data demonstrate that the anticancer drug amsacrine is an antagonist of cloned HERG potassium channels, providing a molecular mechanism for the previously reported QTc interval prolongation during clinical administration of amsacrine.

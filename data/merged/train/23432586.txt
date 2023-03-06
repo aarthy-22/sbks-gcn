@@ -1,0 +1,10 @@
+Immunophilins are Involved in the Altered Platelet Aggregation Observed in Patients with Type 2 Diabetes Mellitus.
+Platelet hyperaggregability might contribute to vascular complications associated with type 2 diabetes mellitus (DM2).Experimental evidence supports a direct link between altered Ca2+ entry and hyperaggregability in DM2 patients.
+Objectives: We aimed to investigate whether altered immunophilin expression and function are involved in the abnormal Ca2+ entry observed in platelets from DM2 patients.
+Results: Inhibition of immunophilins by tacrolimus (FK506) and sirolimus (rapamycin) reduced Ca2+ entry in platelets from healthy donors and DM2 patients.
+Similarly, immunophilin inhibitors reduced platelet degranulation in both healthy and DM2 subjects.
+Nevertheless, α-granule secretion reduction was greater than that observed for dense granules in platelets from DM2 patients.
+However, no difference was observed in the inhibition of secretion in platelets from healthy subjects.
+Additionally, altered expression of FK506 binding protein-52 (FKBP52) and coupling to Ca(2+) channels were found in platelets from DM2 patients compared to healthy subjects.
+Finally, reduction in platelet function from healthy subjects and DM2 patients in the presence of immunophilin antagonists was observed, being this dysfunction more evident in platelets from DM2 patients.
+Conclusions: We suggest that, among others, FKBP52 expression and function are altered in platelets from DM2 patients, contributing to the altered Ca(2+) entry and hyperaggregability in these cells.

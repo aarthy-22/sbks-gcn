@@ -1,0 +1,12 @@
+Diels-Alder mediated controlled release from a poly(ethylene glycol) based hydrogel.
+A synthetic amino acid bearing a furan functionality was developed and incorporated into peptide sequences using solid phase synthesis.
+Peptides expressing the furan moiety were attached to poly(ethylene glycol) (PEG) hydrogels through a thermally reversible covalent bond formed by a Diels-Alder reaction.
+Reactions of thiol and maleimide PEG macromers in an off-stoichiometric Michael addition were performed, such that the maleimide moiety was in excess, to create hydrogel networks with pendant Diels-Alder compatible tethering sites, that is, the maleimide.
+By making use of the Diels-Alder reaction, it was possible to control the release rate of reversibly bound moieties from the hydrogel by changing the temperature; higher temperatures favor a faster retro-Diels-Alder reaction and, therefore, a faster release from the polymer network.
+This concept was demonstrated by incorporating a fluorescently labeled furan-RGDS sequence into a hydrogel possessing excess maleimide functionalities and monitoring the subsequent liberation of RGDS at various temperatures, illustrating a Diels-Alder mediated release mechanism.
+The release profile was quantified at temperatures ranging from physiological (37 °C) to 80 °C.
+By changing the temperature, varying extents of release were attained over the time course of several days, ranging from 40% release for lower temperatures to complete release for the highest temperature considered.
+Further confirmation of a reaction-diffusion controlled release mechanism was obtained through comparison of experimental release data to a reaction-diffusion model of the release.
+In addition to thermal modulation, tuning of the release rate was accomplished by altering the number of possible Diels-Alder tethering sites present in the hydrogel.
+Increasing the amount of free maleimide and, therefore, the number of potential Diels-Alder reaction sites, effectively slowed the release of peptide from the polymer.
+For instance, doubling the amount of maleimide sites present in the hydrogel system decreased the amount of peptide released from approximately 60% to about 40% in the same span of time.

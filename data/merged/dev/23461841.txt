@@ -1,0 +1,8 @@
+Serum free fatty acid levels in PCOS patients treated with glucophage, magnesium oxide and spironolactone.
+Abstract To assess the effect of glucophage, magnesium oxide and spironolactone in altering free fatty acids (FFAs), 36 PCOS women were randomly divided into three groups.
+Group 1 (n = 14) was treated with 500 mg glucophage po bid, group 2 (n = 10) was treated with 400 mg magnesium oxide po bid and group 3 (n = 12) was treated with 50 mg spironolactone po bid for 12 weeks.
+A glucose tolerance test with 75 g glucose load was performed before and after treatment, collecting blood at 0, 1 and 2 h for insulin, glucose, FFA and aldosterone.
+Amount of FFA before and after treatment were compared by repeated measure ANOVA and represented as area under the curve.
+FFA levels before treatment were 0.83 ± 0.23, 0.77 ± 0.15 and 0.85 ± 0.28 and after treatment were 0.77 ± 0.48, 0.71 ± 0.18 and 0.66 ± 0.25 for glucophage, magnesium oxide and spironolactone-treated patients, respectively.
+The FFA levels were unchanged in the groups treated with glucophage and magnesium oxide but were significantly (p < 0.03) decreased in the group treated with spironolactone.
+Since FFAs are known to be involved in the development of insulin resistance, these results suggest that spironolactone may be useful for lowering insulin resistance in PCOS patients.

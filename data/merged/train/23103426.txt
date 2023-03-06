@@ -1,0 +1,13 @@
+Mitochondrial electron transfer chain complexes inhibition by different organochalcogens.
+Mitochondrial dysfunction plays a pivotal role in the cell toxicology and death decision.
+The aim of the present study was to investigate the effect of three organocompounds (ebselen [Ebs], diphenyl diselenide [(PhSe)(2)] and diphenyl ditelluride [(PhTe)(2)]) on mitochondrial complexes (I, II, I-III, II-III and IV) activity from rat liver and kidney to determine their potential role as molecular targets of organochalcogens.
+All studied organochalcogens caused a statistically significant inhibition of the mitochondrial complex I activity.
+Ebs and (PhTe)(2) caused a statistically significant inhibition of the mitochondrial complex II activity in both hepatic and renal membranes.
+Hepatic mitochondrial complex II activity was practically unchanged by (PhSe)(2), whereas it significantly inhibited renal complex II activity.
+Mitochondrial complex IV activity was practically unchanged by the organochalcogens.
+Furthermore, organochalcogens inhibited the mitochondrial respiration supported by complex I or complex II substrates.
+The inhibitory effect of Ebs, (PhSe)(2) and (PhTe)(2) on mitochondrial complex I was prevented by NADH, but it was not prevented by catalase (CAT) and/or superoxide dismutase (SOD).
+Additionally, the organochalcogens-induced inhibition of complex I and II was completely reversed by reduced glutathione (GSH).
+In conclusion, Ebs, (PhSe)(2) and (PhTe)(2) were more effective inhibitors of renal and hepatic mitochondrial complex I than complex II, whereas complexes III and IV were little modified by these compounds.
+Taking into account the presented results, we suggest that organochalcogen-induced mitochondrial complexes I and II inhibition can be mediated by their thiol oxidation activity, i.e., Ebs, (PhSe)(2) and (PhTe)(2) can oxidize critical thiol groups from mitochondrial complexes I and II.
+So, mitochondrial dysfunction can be considered an important factor in the toxicity of Ebs, (PhSe)(2) and (PhTe)(2).

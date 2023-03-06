@@ -1,0 +1,9 @@
+Quantitation of UGT1A1 in human liver microsomes using stable isotope-labelled peptides and mass spectrometry based proteomic approaches.
+1. UDP-glucuronosyltransferases (UGTs) are a group of drug-metabolizing enzymes that catalyse the conjugation of endogeonous compounds and xenobiotics to yield hydrophilic glucuronides which subsequently undergo excretion.
+This report describes an approach for the identification and accurate quantitation of human UGT1A1 in complex biological matrices using liquid chromatography/mass spectrometry/mass spectrometry (LC-MS/MS) analysis of protein digests.
+2. A stable isotope-labelled (SIL) peptide of a unique peptide spanning residues 54-69 in exon 1 of the human UGT1A1 protein with the sequence RIYLSADPALVVIEHG was synthesized.
+The peptide sequence synthesized was in the reverse order of the human peptide with the stable isotope-labels in the amino acid arginine ((13)C6(15)N4) resulting in an increase in the mass of the SIL peptide of 10 amu, from 1753 to 1763.
+The SIL peptide was quantitated by injecting increasing concentrations of the peptide into the LC-MS to obtain a standard curve.
+3. The labelled peptide along with precursor ion monitoring was used to quantify the levels of UGT1A1 in commercial recombinant preparations (supersomes) and individual human liver microsomal samples and pooled human liver micrsomes obtained from BD Biosciences.
+4.
+ Glucuronidation activity studies were performed, which demonstrated a positive correlation between enzyme activity levels and the UGT1A1 content in the liver microsomes obtained from individual human donors.

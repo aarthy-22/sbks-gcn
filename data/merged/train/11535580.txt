@@ -1,0 +1,11 @@
+Gating-dependent mechanisms for flecainide action in SCN5A-linked arrhythmia syndromes.
+BACKGROUND: Mutations in the cardiac sodium (Na) channel gene (SCN5A) give rise to the congenital long-QT syndrome (LQT3) and the Brugada syndrome.
+Na channel blockade by antiarrhythmic drugs improves the QT interval prolongation in LQT3 but worsens the Brugada syndrome ST-segment elevation.
+Although Na channel blockade has been proposed as a treatment for LQT3, flecainide also evokes "Brugada-like" ST-segment elevation in LQT3 patients.
+Here, we examine how Na channel inactivation gating defects in LQT3 and Brugada syndrome elicit proarrhythmic sensitivity to flecainide.
+METHODS AND RESULTS: We measured whole-cell Na current (I(Na)) from tsA-201 cells transfected with DeltaKPQ, a LQT3 mutation, and 1795insD, a mutation that provokes both the LQT3 and Brugada syndromes.
+The 1795insD and DeltaKPQ channels both exhibited modified inactivation gating (from the closed state), thus potentiating tonic I(Na) block.
+Flecainide (1 micromol/L) tonic block was only 16.8+/-3.0% for wild type but was 58.0+/-6.0% for 1795insD (P<0.01) and 39.4+/-8.0% (P<0.05) for DeltaKPQ.
+In addition, the 1795insD mutation delayed recovery from inactivation by enhancing intermediate inactivation, with a 4-fold delay in recovery from use-dependent flecainide block.
+CONCLUSIONS: We have linked 2 inactivation gating defects ("closed-state" fast inactivation and intermediate inactivation) to flecainide sensitivity in patients carrying LQT3 and Brugada syndrome mutations.
+These results provide a mechanistic rationale for predicting proarrhythmic sensitivity to flecainide based on the identification of specific SCN5A inactivation gating defects.

@@ -1,0 +1,15 @@
+Antifungal agents: mode of action in yeast cells.
+Different kinds of mycoses, especially invasive, have become an important public health problem as their incidence has increased dramatically in the last decades in relation to AIDS, hematological malignancies, transplant recipients and other immunosuppressed individuals.
+Management of fungal infections is markedly limited by problems of drug safety, resistance and effectiveness profile.
+Current therapy for invasive mycoses uses a relatively reduced number of antifungal drugs, such as amphotericin B, fluconazole and itraconazole.
+Other new antifungal agents from old and new chemical families, like voriconazole, posaconazole, ravuconazole, caspofungin and micafungin, have been introduced into the armamentarium for fungal infections management.
+This review is focused on the mode of action of those antifungal drugs used against pathogenic yeasts.
+The interaction of amphotericin B with ergosterol and other membrane sterols results in the production of aqueous pores of drug and the ergosterol biosynthetic pathway is the target of the allylamines, phenylmorpholines and azole antifungal agents.
+The main molecular target of azole antifungals is the cytochrome P-450 protein Erg11p/Cyp51p.
+Echinocandins, a new class of antifungal drugs, are fungal secondary metabolites that act against beta-1-3-D-glucan synthesis.
+The phenylmorpholines, of which amorolfine is the sole representative in human therapy, affect two targets in the ergosterol pathway: Erg24p (delta 14 reductase) and Erg2p (delta 8-delta 7 isomerase).
+The sordarins group are protein synthesis inhibitors that work by blocking the function of fungal translation elongation factor 2.
+Other protein inhibitors are zofimarin, BE31045, SCH57504, xylarin, hypoxysordarin and GR135402.
+In order to overcome the problems derived from the exploitation of azole drugs, macrolides and echinocandins, novel targets were explored.
+Proposed antifungal drugs have been developed against potential targets like the N-myristylation of fungal proteins, with inhibitors like myristate and histidine analogues or myristoylpeptide derivatives, aminobenzothiazoles, quinolines and benzofurans.
+Polymerization of cell wall carbohydrates from uridine di-phospho sugars is another potential target.

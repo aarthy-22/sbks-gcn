@@ -1,0 +1,8 @@
+Reduction of lipid accumulation in white adipose tissues by Cassia tora (Leguminosae) seed extract is associated with AMPK activation.
+Natural herbal medications may be one answer to the worldwide epidemic of obesity.
+This study examines the effects of Cassia seed ethanol extract (CSEE) upon lipid accumulation in white adipose tissue (WAT).
+CSEE exhibited a significant concentration-dependent decrease in the intracellular accumulation of trigycerides in 3T3-L1 adipocytes.
+After being fed a high-fat diet (HFD) for 2 weeks, rats were fed CSEE (100, 200 or 300 mg/kg) once daily for 8 weeks.
+CSEE caused dose-related reductions in body weight gain (as well as plasma lipid levels and epididymal WAT sizes in HFD-fed rats).
+CSEE enhanced the phosphorylation of AMP-activated protein kinase (AMPK) and its primary downstream targeting enzyme, acetyl-CoA carboxylase, up-regulated gene expression of carnitine palmitoyl transferase 1, and down-regulated sterol regulatory element-binding protein 1 and fatty acid synthase protein levels in epididymal WAT of HFD-fed rats.
+CSEE could attenuate lipid accumulation in WAT via AMPK signaling pathway activation.

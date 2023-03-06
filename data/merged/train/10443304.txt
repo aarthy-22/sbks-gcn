@@ -1,0 +1,16 @@
+[Brugada syndrome].
+In 1992 we described a new syndrome consisting of syncopal episodes and/or sudden death in patients with a structurally normal heart and a characteristic electrocardiogram displaying a pattern resembling right bundle branch block with an ST segment elevation in leads V1 to V3.
+In 1998 it was described that the disease is genetically determined with an autosomal dominant pattern of transmission.
+Three different mutations have been identified.
+All three mutations affect the structure and the function of the sodium channel SCN5A.
+Two mutations result in total loss of function of the sodium channel.
+The other mutation results in acceleration of the recovery of the sodium channel from inactivation.
+The disease causes 4 to 10 sudden deaths per 10,000 inhabitants per year in areas like Thailand and Laos.
+Up to 50% of the yearly sudden deaths in patients with a normal heart might be caused by this syndrome.
+The diagnosis is easily made by means of the electrocardiogram (ECG).
+The presence of concealed and intermittent forms, however, makes the diagnosis difficult in some patients.
+The ECG can be modulated by changes in autonomic balance and the administration of antiarrhythmic drugs.
+Beta-adrenergic stimulation normalises the ECG, while i.v.
+ajmaline, flecainide or procainamide accentuate the ST segment elevation and are capable of unmasking concealed and intermittent forms of the disease.
+The prognosis is poor for patients who do not receive an implantable cardioverter-defibrillator.
+Antiarrhythmic drugs like amiodarone or beta-blockers do not prevent sudden death in symptomatic or asymptomatic individuals.

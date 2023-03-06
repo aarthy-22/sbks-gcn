@@ -1,0 +1,13 @@
+SU11248 is a novel FLT3 tyrosine kinase inhibitor with potent activity in vitro and in vivo.
+FLT3 (fms-related tyrosine kinase/Flk2/Stk-2) is a receptor tyrosine kinase (RTK) primarily expressed on hematopoietic cells.
+In blasts from acute myelogenous leukemia (AML) patients, 2 classes of FLT3 activating mutations have been identified: internal tandem duplication (ITD) mutations in the juxtamembrane domain (25%-30% of patients) and point mutations in the kinase domain activation loop (7%-8% of patients).
+FLT3-ITD mutations are the most common molecular defect identified in AML and have been shown to be an independent prognostic factor for decreased survival.
+FLT3-ITD is therefore an attractive molecular target for therapy.
+SU11248 is a recently described selective inhibitor with selectivity for split kinase domain RTKs, including platelet-derived growth factor receptors, vascular endothelial growth factor receptors, and KIT.
+We show that SU11248 also has potent activity against wild-type FLT3 (FLT3-WT), FLT3-ITD, and FLT3 activation loop (FLT3-Asp835) mutants in phosphorylation assays.
+SU11248 inhibits FLT3-driven phosphorylation and induces apoptosis in vitro.
+In addition, SU11248 inhibits FLT3-induced VEGF production.
+The in vivo efficacy of SU11248 was investigated in 2 FLT3-ITD models: a subcutaneous tumor xenograft model and a bone marrow engraftment model.
+We show that SU11248 (20 mg/kg/d) dramatically regresses FLT3-ITD tumors in the subcutaneous tumor xenograft model and prolongs survival in the bone marrow engraftment model.
+Pharmacokinetic and pharmacodynamic analysis in subcutaneous tumors showed that a single administration of an efficacious drug dose potently inhibits FLT3-ITD phosphorylation for up to 16 hours following a single dose.
+These results suggest that further exploration of SU11248 activity in AML patients is warranted.

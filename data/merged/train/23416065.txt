@@ -1,0 +1,10 @@
+Human serum albumin-based design of a diflunisal prodrug.
+The cyclooxygenase-2 inhibitor, diflunisal, is used in the clinic for its anti-inflammatory activity.
+About 99% of a dose of diflunisal is unavailable for reaction with the target enzyme, because diflunisal strongly binds to human serum albumin (HSA).
+To reduce the binding affinity of diflunisal to albumin, we designed and synthesized the prodrug acetyldiflunisal.
+The crystal structure of HSA complexed with fatty acid and acetyldiflunisal revealed that acetyldiflunisal binds to the IIA subdomain and that upon binding, it acetylates lysine 199.
+Mass spectrometry confirmed that acetyldiflunisal acetylates Lys199.
+The acetylated albumin had twofold weaker binding affinity for diflunisal as demonstrated by fluorescence quenching.
+Reduced binding affinity means that diflunisal is more easily released from acetylated albumin into the circulation.
+Therefore, lower doses of acetyldiflunisal compared to diflunisal will be required.
+Taken together, our results not only provide a template for design of HSA-based prodrugs, but also pave the way toward more effective use of diflunisal in the clinic.

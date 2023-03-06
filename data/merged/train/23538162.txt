@@ -1,0 +1,8 @@
+Activating glucocorticoid receptor-ERK signaling pathway contributes to ginsenoside Rg1 protection against β-amyloid peptide-induced human endothelial cells apoptosis.
+The deposition of β-amyloid (Aβ) in neurons and vascular cells of the brain has been characterized in Alzheimer's disease.
+Ginsenoside Rg1 (Rg1) is an active components in Panax ginseng, a famous traditional Chinese medicines recorded in Compendium of Materia Medica.
+Present study attempted to evaluate the potential mechanisms of Aβ-mediated insult and the protective effects of Rg1 on human endothelial cells.
+Rg1 attenuated the Aβ25-35-associated mitochondrial apoptotic events, accompanied by inhibiting HIF-1α expression followed by intracellular reactive nitrogen species generation, and protein nitrotyrosination.
+These protective effects were abolished by glucocorticoid receptor (GR) antagonist RU486 or p-ERK inhibitor U0126 rather than estrogen receptor α antagonist ICI 82,780.
+Taken together, our results suggested that Rg1 protected against Aβ25-35-induced apoptosis at least in part by two complementary GR-dependent ERK phosphorylation pathways: (1) down-regulating HIF-1α initiated protein nitrotyrosination, and (2) inhibiting mitochondrial apoptotic cascades.
+These data provided a novel insight to the mechanisms of Rg1protective effects on Aβ25-35-induced endothelial cells apoptosis, suggesting that GR-ERK signaling pathway might play an important role in it.

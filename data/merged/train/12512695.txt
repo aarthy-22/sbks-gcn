@@ -1,0 +1,12 @@
+Vascular effects of COX inhibition and AT1 receptor blockade in transgenic rats harboring mouse renin-2 gene.
+Ang II-induced endothelial dysfunction is associated with perivascular inflammation and increased superoxide production in the vascular wall.
+The present study examined the role of cyclo-oxygenase (COX)-synthetized eicosanoids in the pathogenesis of Ang II-induced endothelial dysfunction in transgenic rats harboring mouse renin-2 gene (mREN2 rats).
+Five-to-six-week-old, heterozygous mREN2 rats received the following drug regimens for 8 weeks: 1) vehicle, 2) cyclo-oxygenase-2 (COX-2) inhibitor (MF-tricyclic [3-(3,4-difluorophenyl)-4-(4-(methylsulfonyl) phenyl)-2(5H)-furanone], 14 mg/kg p.o.), 3) COX-1/COX-2 inhibitor (sulindac, 14 mg/kg p.o.), 4) angiotensin II receptor antagonist (losartan 40 mg/kg p.o.).
+Normotensive Sprague Dawley (SD) rats served as controls.
+In vitro vascular responses of the descending aorta and renal artery were studied using organ bath system.
+mREN2 rats developed pronounced hypertension which was associated with impaired endothelium-dependent and endothelium-independent vascular relaxations in the aorta.
+In contrast, the relaxation responses of the renal arteries remained largely unchanged in mREN2 rats.
+Urinary NO, excretion, a marker of total body NO generation, was also decreased in mREN2 rats.
+Neither non-selective COX inhibitor sulindac nor COX-2 selective MF-tricyclic were capable of preventing Ang II-induced hypertension or endothelial dysfunction in mREN2 rats, whereas ATi receptor antagonist losartan completely normalized blood pressure, vascular relaxation responses as well as urinary NOx excretion.
+Our findings indicate that NO synthesis and/or bioavailability as well as the sensitivity of arterial smooth muscle cells to NO are decreased in mREN2 rats.
+The present study also demonstrated that COX does not play a central role in the pathogenesis of Ang II-induced endothelial dysfunction in mREN2 rats.

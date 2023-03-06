@@ -1,0 +1,5 @@
+Theoretical study of the decomposition of ethyl and ethyl 3-phenyl glycidate.
+The mechanism of the decomposition of ethyl and ethyl 3-phenyl glycidate in gas phase was studied by density functional theory (DFT) and MP2 methods.
+A proposed mechanism for the reaction indicates that the ethyl side of the ester is eliminated as ethylene through a concerted six-membered cyclic transition state, and the unstable intermediate glycidic acid decarboxylates rapidly to give the corresponding aldehyde.
+Two possible pathways for glycidic acid decarboxylation were studied: one via a five-membered cyclic transition state, and the other via a four-membered cyclic transition state.
+The results of the calculations indicate that the decarboxylation reaction occurs via a mechanism with five-membered cyclic transition state.

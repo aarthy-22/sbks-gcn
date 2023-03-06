@@ -1,0 +1,6 @@
+Pim kinases in cancer: diagnostic, prognostic and treatment opportunities.
+PIM proteins belong to a family of ser/thr kinases composed of 3 members, PIM1, PIM2 and PIM3, with greatly overlapping functions.
+PIM kinases are mainly responsible for cell cycle regulation, antiapoptotic activity and the homing and migration of receptor tyrosine kinases mediated via the JAK/STAT pathway.
+PIM kinases have been found to be upregulated in many hematological malignancies and solid tumors.
+Although these kinases have been described as weak oncogenes, they are heavily targeted for anticancer drug discovery.
+The present review summarizes the discoveries made to date regarding PIM kinases as driving oncogenes in the process of tumorigenesis and their validation as drug targets.

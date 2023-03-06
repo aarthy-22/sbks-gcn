@@ -1,0 +1,14 @@
+EZETIMIBE INCREASES HEPATIC IRON LEVELS IN MICE FED A HIGH-FAT DIET.
+Accumulating evidence suggests that ezetimibe may be a promising agent for treatment of non-alcoholic fatty liver disease and steatohepatitis (NAFLD/NASH).
+Phlebotomy and dietary iron restriction reduces serum transaminase in NAFLD/NASH patients.
+Recent studies showed that mutual effects exist between lipid metabolism and iron metabolism.
+Accordingly, the effects of ezetimibe on iron metabolism were examined in mice fed a high-fat diet with or without iron.
+C57BL/6 mice were fed the following diets for 12 weeks.
+Experiment 1:1) a control diet; C 2) C plus ezetimibe (0.3mg/day; 4 weeks); CE 3) a high-fat diet; H 4) H plus ezetimibe; HE.
+Experiment 2: 1) C containing carbonyl iron (average; 22.4mg/day; 6 weeks); CI 2) CI plus ezetimibe; CIE 3) H containing carbonyl iron; HI 4) HI plus ezetimibe; HIE.
+Blood, livers, and duodenum were removed after 12 weeks.
+In Experiment 1, hepatic iron levels were higher in HE than H, whereas there was no difference between C and CE.
+Hepatic mRNA expression of transferrin receptor 1 and 2, ferritins, and hepcidin were increased more in CE than C, and in HE than H. In duodenum, DMT1, ferritinH, and hephaestin mRNA levels were increased in CE compared to C. In Experiment 2, hepatic iron concentrations were higher in HIE than HI.
+Hepatic mRNA expression of ferritinL and hepcidin were increased in HIE compared to HI.
+In duodenum, ferritinL mRNA was increased in HIE compared to CIE.
+Ezetimibe induced hepatic iron uptake transporter expression in mice fed a high-fat diet, causing increased hepatic iron concentrations.

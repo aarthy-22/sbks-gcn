@@ -1,0 +1,5 @@
+Stable and high-rate overcharge protection for rechargeable lithium batteries.
+Rechargeable lithium or lithium-ion cells can be overcharge-protected by an electroactive polymer composite separator.
+The use of non-woven fibrous membranes instead of conventional microporous membranes as the composite substrates allowed better distribution of the electroactive polymer, which led to improved utilization and a 40-fold increase in sustainable current density.
+For the first time, stable overcharge protection for hundreds of cycles was demonstrated in several cell chemistries, including LiNi1/3Co1/3Mn1/3O2, LiFePO4, and spinel Li1.05Mn1.95O4 half-cells.
+Protection at a charging rate as high as 5 C was achieved at a steady state cell potential below 4.85 V.

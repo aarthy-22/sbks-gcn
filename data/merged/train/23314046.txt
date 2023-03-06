@@ -1,0 +1,10 @@
+Identification of novel antimycobacterial chemical agents through the in silico multi-conformational structure-based drug screening of a large-scale chemical library.
+The increasing prevalence of drug-resistant tuberculosis, which is resistant to effective multiple antibiotic, presents a major global health threat.
+The thymidine monophosphate kinase (TMPK) of Mycobacterium tuberculosis (M. tuberculosis), which is an essential enzyme for the maintenance of the thymidine triphosphate pools, is considered an attractive target for the development of effective antibiotics against tuberculosis.
+In this study, we attempted to identify novel chemical compounds that specifically target the M. tuberculosis TMPK (mtTMPK).
+We performed in silico structure-based drug screening using the crystal structure data of mtTMPK and a large-scale virtual compound library, which is composed of 6,192,930 chemicals.
+Through a three-step screening method using the DOCK and GOLD, we identified ten chemical compounds that were predicted to have high binding affinity to the active site cleft of the mtTMPK.
+We then evaluated the antibiotic effects of these chemical compounds on model mycobacteria strains.
+As a result, we found that a chemical compound, K10, completely inhibited the growth of Mycobacterium vanbaalenii (M. vanbaalenii) and Mycobacterium smegmatis (M. smegmatis).
+Moreover, K10 does not exhibit any toxic effects on the growth of enterobacteria and mammalian cells.
+The structural and experimental information regarding this novel chemical compound, K10, is likely to be useful for the hit-to-lead optimization of new antibiotics for the treatment of tuberculosis.

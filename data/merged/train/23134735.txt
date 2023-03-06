@@ -1,0 +1,9 @@
+Development and validation of a high-throughput intrinsic ATPase activity assay for the discovery of MEKK2 inhibitors.
+The kinase MEKK2 (MAP3K2) has recently been implicated in tumor growth and metastasis.
+Thus, selective inhibition of MEKK2 may be a novel strategy for cancer therapy.
+To identify inhibitors of MEKK2 kinase activity, we have developed a novel activity assay for MEKK2 based on the discovery that recombinant purified MEKK2 has intrinsic ATPase activity.
+This MEKK2 ATPase assay was validated for enzyme identity and enzymatic purity by multiple methods including mass spectrometry analysis, testing different sources of MEKK2 and comparing ATPase assay IC50 data for multiple inhibitors to literature values and to IC50 data generated using MEKK2 binding and transphosphorylation assays.
+Taken together, these data indicated that genuine MEKK2 activity was being measured in this assay and no other ATPases contributed to the signal.
+A miniaturized version of the assay was validated for high-throughput screening, and compound libraries were screened.
+The screening hits generated comparable potencies in the MEKK2 intrinsic ATPase, binding, and transphosphorylation assays.
+We identified a novel MEKK2 inhibitor and confirmed that crizotinib and bosutinib are potent in vitro inhibitors of MEKK2 activity with IC50 values of <100 nM. Thus, this assay has utility for the discovery of small-molecule inhibitors of MEKK2 activity.

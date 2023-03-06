@@ -1,0 +1,8 @@
+The interactions of apamin and tetraethylammonium are differentially affected by single mutations in the pore mouth of small conductance calcium-activated potassium (SK) channels.
+Valine residues in the pore region of SK2 (V366) and SK3 (V520) were replaced by either an alanine or a phenylalanine to evaluate the impact on the interactions with the allosteric blocker apamin.
+Unlike TEA which showed high sensitivity to phenylalanine mutated channels, the binding affinity of apamin to the phenylalanine mutants was strongly reduced.
+In addition, currents from phenylalanine mutants were largely resistant to block by apamin.
+On the other hand, when the valine residue was replaced by an alanine residue, an increase of the binding affinity and the amount of block by apamin was observed for alanine mutated SK2 channels, but not for mutated SK3 channels.
+Interestingly, the VA mutation reduced the sensitivity to TEA.
+In silico data confirmed these experimental results.
+Therefore, such mutations in the pore region of SK channels show that the three-dimensional structure of the SK tetramers can be disorganized in the outer pore region leading to reduced interaction of apamin with its target.

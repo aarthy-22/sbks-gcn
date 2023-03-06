@@ -1,0 +1,7 @@
+Serotonin transporter function in vivo: assessment by chronoamperometry.
+Local application of selective serotonin reuptake inhibitors, fluvoxamine and citalopram, prolonged the clearance of exogenously administered serotonin (5-HT) in both the dentate gyrus and CA3 region of the dorsal hippocampus, as measured using in vivo chronoamperometry.
+These effects were abolished in rats pretreated with 5,7-dihydroxytryptamine.
+The NE uptake inhibitors, desipramine and protriptyline, did not alter the 5-HT signal in the CA3 region, but prolonged the clearance of 5-HT in the dentate gyrus; this effect was absent in rats pretreated with 6-hydroxydopamine.
+From these data, it is inferred that both the SERT and NET contribute to the active clearance of exogenously applied 5-HT in the dentate gyrus.
+In another experiment, cyanopindolol, an antagonist of the serotonin terminal autoreceptor, also prolonged the clearance of 5-HT from the CA3 region.
+These and other data have generated a working hypothesis that activation of the terminal serotonin autoreceptor enhances the kinetics of 5-HT uptake through an effect on the serotonin transporter.

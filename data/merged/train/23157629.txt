@@ -1,0 +1,5 @@
+Serotonin receptors of type 6 (5-HT6): from neuroscience to clinical pharmacology.
+The serotonin (5-HT) receptors of type 6 (5-HT6) are quite different from all other 5-HT receptors, as they include a short third cytoplasmatic loop and a long C-terminal tail, and one intron located in the middle of the third cytoplasmatic loop.
+A lot of controversies still exist regarding their binding affinity, effects of 5-HT6 ligands on brain catecholamines, behavioral syndromes regulated by them, and brain distribution.
+In spite of the lack of information on metabolic pattern of the various compounds, some of 5-HT6 receptor ligands entered the clinical development as potential anti-dementia, antipsychotic, antidepressant and anti-obese drugs.
+The present paper is a comprehensive review on the state of art of the 5-HT6 receptors, while highlighting the potential clinical applications of 5-HT6 receptor agonists/antagonists.

@@ -1,0 +1,8 @@
+The 17-β-oestradiol inhibits osteoclast activity by increasing the cannabinoid CB2 receptor expression.
+Bone is a highly metabolically active tissue and its formation and resorption is at the base of bone remodelling.
+The critical importance of a balanced bone remodelling is demonstrated by human diseases, i.e. osteoporosis, in which a net increase in bone resorption is responsible of skeleton weakening and fracture risk.
+Oestrogens display anti-resorptive properties on bone metabolism.
+Indeed, the so-called post-menopausal osteoporosis occurs after interruption of gonad function and benefits from hormonal replacement treatment.
+Recently, an important role for the endocannabinoid system in the regulation of skeletal remodelling in human has also been shown.
+In particular, we showed that CB2 stimulation is able to reduce the number of human OCs in vitro.
+Here, we provide unprecedented evidence that 17-β-oestradiol administration inhibits activity and formation of human OCs in vitro, demonstrating that oestrogens are able to induce an increase of CB2 expression probably through the recruitment of a putative oestrogens responsive element in the CB2 encoding for gene.

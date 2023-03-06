@@ -1,0 +1,9 @@
+Role of fat body lipogenesis in protection against the effects of caloric overload in Drosophila.
+The Drosophila fat body is a liver- and adipose-like tissue that stores fat and serves as a detoxifying and immune responsive organ.
+We have previously shown that a high sugar diet leads to elevated hemolymph glucose and systemic insulin resistance in developing larvae and adults.
+Here, we used stable isotope tracer feeding to demonstrate that rearing larvae on high sugar diets impaired the synthesis of esterified fatty acids from dietary glucose.
+Fat body lipid profiling revealed changes in both carbon chain length and degree of unsaturation of fatty acid substituents, particularly in stored triglycerides.
+We tested the role of the fat body in larval tolerance of caloric excess.
+Our experiments demonstrated that lipogenesis was necessary for animals to tolerate high sugar feeding as tissue-specific loss of orthologs of carbohydrate response element-binding protein or stearoyl-CoA desaturase 1 resulted in lethality on high sugar diets.
+By contrast, increasing the fat content of the fat body by knockdown of king-tubby was associated with reduced hyperglycemia and improved growth and tolerance of high sugar diets.
+Our work supports a critical role for the fat body and the Drosophila carbohydrate response element-binding protein ortholog in metabolic homeostasis in Drosophila.

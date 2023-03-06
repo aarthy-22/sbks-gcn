@@ -1,0 +1,10 @@
+Formation of Mallory body-like inclusions and cell death induced by deregulated expression of keratin 18.
+Mallory bodies (MBs) are cytoplasmic inclusions that contain keratin 8 (K8) and K18 and are present in hepatocytes of individuals with alcoholic liver disease, nonalcoholic steatohepatitis, or benign or malignant hepatocellular neoplasia.
+Mice fed long term with griseofulvin are an animal model of MB formation.
+However, the lack of a cellular model has impeded understanding of the molecular mechanism of this process.
+Culture of HepG2 cells with griseofulvin has now been shown to induce both the formation of intracellular aggregates containing K18 as well as an increase in the abundance of K18 mRNA.
+Overexpression of K18 in HepG2, HeLa, or COS-7 cells also induced the formation of intracellular aggregates that stained with antibodies to ubiquitin and with rhodamine B (characteristics of MBs formed in vivo), eventually leading to cell death.
+The MB-like aggregates were deposited around centrosomes and disrupted the microtubular array.
+Coexpression of K8 with K18 restored the normal fibrous pattern of keratin distribution and reduced the toxicity of K18.
+In contrast, an NH(2)-terminal deletion mutant of K8 promoted the formation of intracellular aggregates even in the absence of K18 overexpression.
+Deregulated expression of K18, or an imbalance between K8 and K18, may thus be an important determinant of MB formation, which compromises the function of centrosomes and the microtubule network and leads to cell death.

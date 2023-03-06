@@ -1,0 +1,10 @@
+Preferential and non-selective cyclooxygenase inhibitors reduce inflammation during lipopolysaccharide-induced synovitis.
+Synovitis in horses is frequently treated by administration of non-steroidal anti-inflammatory drugs (NSAIDs), which inhibit cyclooxygenase isoforms (COX-1 and COX-2).
+Constitutively expressed COX-1 is involved in physiologic functions such as maintenance of gastric mucosal integrity, whereas COX-2 is up-regulated at sites of inflammation.
+Thus, COX-2 inhibitors reduce inflammation with reduced gastrointestinal side effects as compared to non-selective COX inhibitors.
+The objective of the present study was to compare the anti-inflammatory effects of the preferential COX-2 inhibitor etodolac with the non-selective COX inhibitor phenylbutazone in horses with lipopolysaccharide (LPS)-induced synovitis.
+Three groups of horses (n=6) received no treatment, phenylbutazone (4.4 mg/kg, IV, q12h), or etodolac (23 mg/kg, IV, q12h), respectively, 2-h following injection of LPS into one middle carpal joint.
+Synovial fluid was analyzed for white blood cell (WBC) count, and TXB2 and PGE2 levels.
+Phenylbutazone and etodolac significantly reduced WBC count 6 and 24-h following injection of LPS compared to untreated horses.
+In addition, both drugs significantly reduced PGE2 levels (P<0.05) 6-h following LPS injection, whereas the probable COX-1 prostanoid TXB2 was significantly reduced by phenylbutazone (P<0.05), but not etodolac.
+Etodolac may serve as a more selective anti-inflammatory agent than phenylbutazone for treatment of equine synovitis.

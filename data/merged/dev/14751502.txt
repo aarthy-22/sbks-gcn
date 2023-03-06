@@ -1,0 +1,12 @@
+Effects of the EGFR/HER2 kinase inhibitor GW572016 on EGFR- and HER2-overexpressing breast cancer cell line proliferation, radiosensitization, and resistance.
+PURPOSE: Two members of the epidermal growth factor receptor family, EGFR and HER2, have been implicated in radioresistance in breast cancer and other malignancies.
+To gauge the potential clinical utility of targeting both EGFR and HER2 to control growth and radiosensitize human breast cancers, we examined the effect of a dual EGFR/HER2 inhibitor, GW572016, on the proliferation and radiation response of either EGFR- or HER2-overexpressing human breast cancer cell lines.
+METHODS AND MATERIALS: Primary human breast cancer cell lines that endogenously overexpress EGFR or HER2 and luminal mammary epithelial H16N2 cells stably transfected with HER2 were evaluated for the effect of GW572016 on inhibition of ligand-induced or constitutive receptor phosphorylation, proliferation, radiosensitization, and inhibition of downstream signaling.
+RESULTS: GW572016 inhibited constitutive and/or ligand-induced EGFR or HER2 tyrosine phosphorylation of all five cell lines, which correlated with the antiproliferative response in all but one cell line.
+GW572016 radiosensitized EGFR-overexpressing cell lines, but HER2-overexpressing cells were unable to form colonies after brief exposure to GW572016 even in the absence of radiation, and thus could not be evaluated for radiosensitization.
+One cell line was resistant to the antiproliferative and radiosensitizing effects of GW572016, despite receptor inhibition.
+Exploration of potential mechanisms of resistance in SUM185 cells revealed failure of GW572016 to inhibit downstream ERK and Akt activation, despite inhibition of HER2 phosphorylation.
+In contrast, sensitive HER2-overexpressing cell lines demonstrated inhibition of both ERK and Akt phosphorylation.
+CONCLUSION: GW572016 potently inhibits receptor phosphorylation in either EGFR- or HER2-overexpressing cell lines and has both antiproliferative and radiosensitizing effects.
+Resistance to GW572016 was not due to a lack of receptor inhibition, but rather with a lack of inhibition of ERK and Akt, suggesting that measurement of inhibition of crucial signaling pathways may better predict response than inhibition of receptor phosphorylation.
+The SUM185 cell line provides a valuable model for studying mechanisms of resistance of EGFR/HER2 inhibitor therapy.

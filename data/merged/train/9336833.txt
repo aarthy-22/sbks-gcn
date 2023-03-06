@@ -1,0 +1,10 @@
+The structures of thymidine kinase from herpes simplex virus type 1 in complex with substrates and a substrate analogue.
+Thymidine kinase from Herpes simplex virus type 1 (TK) was crystallized in an N-terminally truncated but fully active form.
+The structures of TK complexed with ADP at the ATP-site and deoxythymidine-5'-monophosphate (dTMP), deoxythymidine (dT), or idoxuridine-5'-phosphate (5-iodo-dUMP) at the substrate-site were refined to 2.75 A, 2.8 A, and 3.0 A resolution, respectively.
+TK catalyzes the phosphorylation of dT resulting in an ester, and the phosphorylation of dTMP giving rise to an anhydride.
+The presented TK structures indicate that there are only small differences between these two modes of action.
+Glu83 serves as a general base in the ester reaction.
+Arg163 parks at an internal aspartate during ester formation and binds the alpha-phosphate of dTMP during anhydride formation.
+The bound deoxythymidine leaves a 35 A3 cavity at position 5 of the base and two sequestered water molecules at position 2.
+Cavity and water molecules reduce the substrate specificity to such an extent that TK can phosphorylate various substrate analogues useful in pharmaceutical applications.
+TK is structurally homologous to the well-known nucleoside monophosphate kinases but contains large additional peptide segments.

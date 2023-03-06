@@ -1,0 +1,9 @@
+Inhibition of human alcohol and aldehyde dehydrogenases by cimetidine and assessment of its effects on ethanol metabolism.
+Previous studies have reported that cimetidine, an H2-receptor antagonist used to treat gastric and duodenal ulcers, can inhibit alcohol dehydrogenases (ADHs) and ethanol metabolism.
+Human alcohol dehydrogenases and aldehyde dehydrogenases (ALDHs), the principal enzymes responsible for metabolism of ethanol, are complex enzyme families that exhibit functional polymorphisms among ethnic groups and distinct tissue distributions.
+We investigated the inhibition by cimetidine of alcohol oxidation by recombinant human ADH1A, ADH1B1, ADH1B2, ADH1B3, ADH1C1, ADH1C2, ADH2, and ADH4, and aldehyde oxidation by ALDH1A1 and ALDH2 at pH 7.5 and a cytosolic NAD(+) concentration.
+Cimetidine acted as competitive or noncompetitive inhibitors for the ADH and ALDH isozymes/allozymes with near mM inhibition constants.
+The metabolic interactions between cimetidine and ethanol/acetaldehyde were assessed by computer simulation using the inhibition equations and the determined kinetic constants.
+At therapeutic drug levels (0.015 mM) and physiologically relevant concentrations of ethanol (10 mM) and acetaldehyde (10 μM) in target tissues, cimetidine could weakly inhibit (<5%) the activities of ADH1B2 and ADH1B3 in liver, ADH2 in liver and small intestine, ADH4 in stomach, and ALDH1A1 in the three tissues, but not significantly affect ADH1A, ADH1B1, ADH1C1/2, or ALDH2.
+At higher drug levels, which may accumulate in cells (0.2 mM), the activities of the weakly-inhibited enzymes may be decreased more significantly.
+The quantitative effects of cimetidine on metabolism of ethanol and other physiological substrates of ADHs need further investigation.

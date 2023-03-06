@@ -1,0 +1,9 @@
+Silica nanoparticles-induced cytotoxicity, oxidative stress and apoptosis in cultured A431 and A549 cells.
+In medicine, the use of silica nanoparticles (SiO(2) NPs) offers new perspectives in biosensor, drug delivery and cancer therapy.
+However, questions about potential toxic and deleterious effects of SiO(2) NPs have also been raised.
+The aim of this study was to investigate the induction of cytotoxicity, oxidative stress and apoptosis by SiO(2) NPs (size 15 nm) in human skin epithelial (A431) and human lung epithelial (A549) cells.
+SiO(2) NPs (concentration range 25-200 µg/ml) induced dose-dependent cytotoxicity in both types of cells, which was demonstrated by cell viability (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazoliumbromide) and lactate dehydrogenase leakage assays.
+SiO(2) NPs were also found to induce oxidative stress in a dose-dependent manner, indicated by depletion of glutathione and induction of reactive oxygen species (ROS) generation and lipid peroxidation.
+Quantitative real-time polymerase chain reaction analysis showed that following the exposure of cells to SiO(2) NPs, the messenger RNA level of apoptotic genes (caspase-3 and caspase-9) were upregulated in a dose-dependent manner.
+Moreover, activities of caspase-3 and caspase-9 enzymes were also significantly higher in both kinds of cells exposed to SiO(2) NPs.
+This study suggested that SiO(2) NPs induce cytotoxicity and apoptosis in A431 and A549 cells, which is likely to be mediated through ROS generation and oxidative stress.

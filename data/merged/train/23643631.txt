@@ -1,0 +1,10 @@
+Melamine activates NFκB/COX-2/PGE2 pathway and increases NADPH oxidase-dependent ROS production in macrophages and human embryonic kidney cells.
+Melamine is a wildly used compound in manufactures of plastics and resins.
+A variety of toxic effects from melamine, including nephrolithiasis, chronic kidney inflammation, and bladder carcinoma, have been mentioned.
+Oxidative stress is considered to be an important pathogenic mechanism of kidney disease which may develop from an increasing free radical production through inflammation.
+The aim of this study is to investigate melamine-induced oxidative stress and inflammation in macrophage-like cell line RAW 264.7 and human embryonic kidney cell line HEK293.
+Results indicated melamine activated nuclear factor (NF)-κB through increasing IκB-α degradation and NF-κB p65/p50 DNA-binding activity.
+In addition, melamine significantly increased COX-2 expression and prostaglandin E2 (PGE2) production.
+Moreover, melamine activated NADPH oxidase (NOX), including NOX1, 2 and 4, accompanied with an increase in reactive oxygen species (ROS) production.
+Furthermore, melamine-induced ROS production could be attenuated by apocynin, a NOX inhibitor.
+In conclusion, our findings suggest melamine increased inflammation and oxidative stress via activation of NF-κB/COX-2 and NOX/ROS pathway, and first revealed the critical role of NOX in melamine-induced ROS production, suggesting the potential of NOX inhibitor against melamine toxicity.

@@ -1,0 +1,11 @@
+Tricyclic antidepressant pharmacology and therapeutic drug interactions updated.
+New data on the pharmacology of tricyclic antidepressants (TCAs), their affinities for human cloned CNS receptors and their cytochrome P450 enzyme inhibition profiles, allow improved deductions concerning their effects and interactions and indicate which of the TCAs are the most useful.
+The relative toxicity of TCAs continues to be more precisely defined, as do TCA interactions with selective serotonin reuptake inhibitors (SSRIs).
+TCA interactions with monoamine oxidase inhibitors (MAOIs) have been, historically, an uncertain and difficult question, but are now well understood, although this is not reflected in the literature.
+The data indicate that nortriptyline and desipramine have the most pharmacologically desirable characteristics as noradrenaline reuptake inhibitors (NRIs), and as drugs with few interactions that are also safe when coadministered with either MAOIs or SSRIs.
+Clomipramine is the only available antidepressant drug that has good evidence of clinically relevant serotonin and noradrenaline reuptake inhibition (SNRI).
+These data assist drug selection for monotherapy and combination therapy and predict reliably how and why pharmacodynamic and pharmacokinetic interactions occur.
+In comparison, two newer drugs proposed to have SNRI properties, duloxetine and venlafaxine, may have insufficient NRI potency to be effective SNRIs.
+Combinations such as sertraline and nortriptyline may therefore offer advantages over drugs like venlafaxine that have fixed ratios of SRI/NRI effects that are not ideal.
+However, no TCA/SSRI combination is sufficiently safe to be universally applicable without expert knowledge.
+Standard texts (e.g. the British National Formulary) and treatment guidelines would benefit by taking account of these new data and understandings.

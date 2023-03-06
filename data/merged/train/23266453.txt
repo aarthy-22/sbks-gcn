@@ -1,0 +1,11 @@
+Targeted adenovirus mediated inhibition of NF-κB-dependent inflammatory gene expression in endothelial cells in vitro and in vivo.
+In chronic inflammatory diseases the endothelium expresses mediators responsible for harmful leukocyte infiltration.
+We investigated whether targeted delivery of a therapeutic transgene that inhibits nuclear factor κB signal transduction could silence the proinflammatory activation status of endothelial cells.
+For this, an adenovirus encoding dominant-negative IκB (dnIκB) as a therapeutic transgene was employed.
+Selectivity for the endothelial cells was achieved by introduction of antibodies specific for inflammatory endothelial adhesion molecules E-selectin or VCAM-1 chemically linked to the virus via polyethylene glycol.
+In vitro, the retargeted adenoviruses selectively infected cytokine-activated endothelial cells to express functional transgene.
+The comparison of transductional capacity of both retargeted viruses revealed that E-selectin based transgene delivery exerted superior pharmacological effects.
+Targeted delivery mediated dnIκB transgene expression in endothelial cells inhibited the induced expression of several inflammatory genes, including adhesion molecules, cytokines, and chemokines.
+In vivo, in mice suffering from glomerulonephritis, E-selectin-retargeted adenovirus selectively homed in the kidney to microvascular glomerular endothelium.
+Subsequent downregulation of endothelial adhesion molecule expression 2 days after induction of inflammation demonstrated the pharmacological potential of this gene therapy approach.
+The data justify further studies towards therapeutic virus design and optimization of treatment schedules to investigate their capacity to interfere with inflammatory disease progression.

@@ -1,0 +1,10 @@
+Control of hypercholesterolemia and atherosclerosis using the cholesterol recognition/interaction amino acid sequence of the translocator protein TSPO.
+The translocator protein (18-kDa) TSPO is an ubiquitous high affinity cholesterol-binding protein reported to be present in the endothelial and smooth muscle cells of the blood vessels; its expression dramatically increased in macrophages found in atherosclerotic plaques.
+A domain in the carboxy-terminus of TSPO was identified and characterized as the cholesterol recognition/interaction amino acid consensus (CRAC).
+The ability of the CRAC domain to bind to cholesterol led us to hypothesize that this peptide could be used as an hypocholesterolemic, with potential anti-atherogenic properties, agent.
+We report herein the therapeutic benefit that resulted for the administration of the VLNYYVWR human CRAC sequence to guinea pigs fed with a high cholesterol diet and ApoE knock-out B6.129P2-Apoetm1Unc/J mice.
+CRAC treatment (3 and 30mg/kg once daily for 6 weeks) resulted in reduced circulating cholesterol levels in guinea pigs fed with 2% high cholesterol diet and ApoE knock-out B6.129P2-Apoetm1Unc/J mice.
+In high cholesterol fed guinea pigs, CRAC treatment administered once daily induced an increase in circulating HDL, decreased total, free and LDL cholesterol, and removed atheroma deposits in the aorta in a dose-dependent manner.
+The treatment also prevented the high cholesterol diet-induced increase in serum creatine kinase, total and isoforms, markers of neurological, cardiac and muscular damage.
+No toxicity was observed.
+Taken together these results support a role of TSPO in lipid homeostasis and atherosclerosis and indicate that CRAC may constitute a novel and safe treatment of hypercholesterolemia and atherosclerosis.

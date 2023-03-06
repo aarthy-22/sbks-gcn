@@ -1,0 +1,9 @@
+The catalytic DNA topoisomerase II inhibitor dexrazoxane (ICRF-187) induces differentiation and apoptosis in human leukemia K562 cells.
+The bisdioxopiperazines ICRF-187 (dexrazoxane), ICRF-193, and ICRF-154 are catalytic noncleavable complex-forming inhibitors of DNA topoisomerase II that do not produce protein-linked DNA strand breaks.
+In this study, we showed that bisdioxopiperazines induced erythroid differentiation, inhibited human leukemia K562 cell growth, and caused a slow induction of apoptosis.
+Dexrazoxane treatment caused DNA endoreduplication resulting in large highly polyploid cells.
+This result suggested the lack of a DNA topoisomerase II activity-based cell cycle checkpoint.
+The percentage of K562 cells that became apoptotic was much larger than the percentage of cells that stained for hemoglobin, suggesting that prior differentiation was not required for induction of apoptosis.
+Use of the Bcr-Abl tyrosine kinase inhibitor STI-571 resulted in a reduction in Bcl-xL levels and potentiation of dexrazoxane-induced apoptosis related to an earlier onset and more extensive cleavage of caspase-3.
+These results indicated that dexrazoxane-induced apoptosis is associated with a caspase-3 activation/cleavage pathway.
+In addition, these results were consistent with the antiapoptotic signaling function of Bcr-Abl to regulate expression of Bcl-xL. The ability of dexrazoxane to induce differentiation and apoptosis suggests that bisdioxopiperazines may be useful in treating some types of leukemia.

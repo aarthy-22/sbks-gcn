@@ -1,0 +1,11 @@
+IL-4 stimulates the expression of CXCL-8, E-selectin, VEGF, and inducible nitric oxide synthase mRNA by equine pulmonary artery endothelial cells.
+Little is known concerning the possible contribution of T helper 2 (Th2)-type cytokines to the recruitment of neutrophils into the lung tissue.
+In the present study, endothelial cells from equine pulmonary arteries were cultured in the presence of recombinant equine (re) IL-4 and reIL-5, and the cytokine mRNA expression of molecules implicated in the chemotaxis and migration of neutrophils was studied using real-time RT-PCR.
+The functional response of reIL-4-induced endothelial cell stimulation on neutrophil migration was also studied using a chemotaxis chamber.
+ReIL-4 either increased the expression of CXCL-8, E-selectin, vascular endothelial growth factor (VEGF), and inducible nitric oxide synthase (iNOS), or potentiated the coeffects of lipopolysaccharide (LPS) and tumor necrosis factor-alpha (TNF-alpha) on CXCL-8.
+Supernatants collected from cultured endothelial cells stimulated with reIL-4 significantly promoted neutrophil migration in a dose-dependent manner.
+Dexamethasone (DXM) decreased the expression of CXCL-8, VEGF, and iNOS induced by reIL-4, while 1400W dihydrochloride (1400W), a selective inhibitor of iNOS, decreased the expression of E-selectin, VEGF, and iNOS.
+DXM and 1400W attenuated the mRNA expression of E-selectin and iNOS induced by the costimulation of reIL-4, reTNF-alpha, and LPS.
+Neither equine nor human recombinant IL-5 influenced the mRNA expression of CXCL-8, E-selectin, or VEGF.
+These findings suggest that Th2-type cytokines may contribute to pulmonary neutrophilia during allergic inflammation by the increased expression of neutrophil chemokines and adhesion molecules by endothelial cells.
+DXM and the iNOS inhibitors may decrease pulmonary neutrophilia due, in part, to a direct inhibition of some of these factors.

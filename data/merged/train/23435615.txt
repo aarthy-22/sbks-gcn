@@ -1,0 +1,9 @@
+The (R)-omeprazole hydroxylation index reflects CYP2C19 activity in healthy Japanese volunteers.
+PURPOSE: Omeprazole has (R)- and (S)-enantiomers, which exhibit different pharmacokinetics (PK) among patients with cytochrome P450 (CYP) 2C19 genotype groups.
+The aim of this study was to investigate whether the 1-point, 4-h postdose (R)-omeprazole hydroxylation index (HI) of racemic omeprazole reflects the three CYP2C19 genotype groups in Japanese individuals.
+METHODS: Ninety healthy Japanese individuals were enrolled and classified into the three different CYP2C19 genotype groups: homozygous extensive metabolizers (hmEMs; n = 34), heterozygous EMs (htEMs; n = 44), and poor metabolizers (PMs; n = 12).
+Blood samples were drawn 4 h after the intake of an oral dose of omeprazole 40 mg, and plasma levels of omeprazole and its metabolites were analyzed by high-performance liquid chromatography (HPLC) using a chiral column.
+RESULTS: Mean plasma concentrations of (R)- and (S)-omeprazole in PMs were significantly higher than those in hmEMs and htEMs, and similar results were obtained in the case of omeprazole sulfone.
+Additionally, there was a significant difference in plasma concentrations of (R)-5-hydroxyomeprazole among CYP2C19 genotype groups, whereas no significant differences were observed in that of (S)-5-hydroxyomeprazole.
+Similarly, (R)-omeprazole HI in hmEMs, htEMs, and PMs were 5.6, 3.1, and 0.3, respectively, which were significantly different, but no significant difference was present in the (S)-omeprazole HI.
+CONCLUSION: Our findings demonstrate that (R)-omeprazole HI correlated better with CYP2C19 genotype groups than racemic-omeprazole HI, and these results may be useful for classification among patients in CYP2C19 genotype groups prior to omeprazole treatment.

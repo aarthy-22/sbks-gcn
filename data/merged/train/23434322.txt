@@ -1,0 +1,6 @@
+Dynamic readers for 5-(hydroxy)methylcytosine and its oxidized derivatives.
+Tet proteins oxidize 5-methylcytosine (mC) to generate 5-hydroxymethyl (hmC), 5-formyl (fC), and 5-carboxylcytosine (caC).
+The exact function of these oxidative cytosine bases remains elusive.
+We applied quantitative mass-spectrometry-based proteomics to identify readers for mC and hmC in mouse embryonic stem cells (mESC), neuronal progenitor cells (NPC), and adult mouse brain tissue.
+Readers for these modifications are only partially overlapping, and some readers, such as Rfx proteins, display strong specificity.
+Interactions are dynamic during differentiation, as for example evidenced by the mESC-specific binding of Klf4 to mC and the NPC-specific binding of Uhrf2 to hmC, suggesting specific biological roles for mC and hmC. Oxidized derivatives of mC recruit distinct transcription regulators as well as a large number of DNA repair proteins in mouse ES cells, implicating the DNA damage response as a major player in active DNA demethylation.

@@ -1,0 +1,12 @@
+Effects of vitamin B6 metabolism on oncogenesis, tumor progression and therapeutic responses.
+Pyridoxal-5'-phosphate (PLP), the bioactive form of vitamin B6, reportedly functions as a prosthetic group for >4% of classified enzymatic activities of the cell.
+It is therefore not surprising that alterations of vitamin B6 metabolism have been associated with multiple human diseases.
+As a striking example, mutations in the gene coding for antiquitin, an evolutionary old aldehyde dehydrogenase, result in pyridoxine-dependent seizures, owing to the accumulation of a metabolic intermediate that inactivates PLP.
+In addition, PLP is required for the catabolism of homocysteine by transsulfuration.
+Hence, reduced circulating levels of B6 vitamers (including PLP as well as its major precursor pyridoxine) are frequently paralleled by hyperhomocysteinemia, a condition that has been associated with an increased risk for multiple cardiovascular diseases.
+During the past 30 years, an intense wave of clinical investigation has attempted to dissect the putative links between vitamin B6 and cancer.
+Thus, high circulating levels of vitamin B6, as such or as they reflected reduced amounts of circulating homocysteine, have been associated with improved disease outcome in patients bearing a wide range of hematological and solid neoplasms.
+More recently, the proficiency of vitamin B6 metabolism has been shown to modulate the adaptive response of tumor cells to a plethora of physical and chemical stress conditions.
+Moreover, elevated levels of pyridoxal kinase (PDXK), the enzyme that converts pyridoxine and other vitamin B6 precursors into PLP, have been shown to constitute a good, therapy-independent prognostic marker in patients affected by non-small cell lung carcinoma (NSCLC).
+Here, we will discuss the clinical relevance of vitamin B6 metabolism as a prognostic factor in cancer patients.
+Oncogene advance online publication, 21 January 2013; doi:10.1038/onc.2012.623.

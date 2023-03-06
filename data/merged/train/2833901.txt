@@ -1,0 +1,17 @@
+Effects of felodipine (a dihydropyridine calcium channel blocker) and analogues on calmodulin-dependent enzymes.
+We have examined the effects on the activities of three calmodulin-dependent enzymes (cAMP phosphodiesterase, caldesmon kinase and myosin light chain kinase) of the dihydropyridine Ca2+ channel blocker felodipine and three analogues (p-chloro, oxidized and t-butyl) exhibiting different pharmacological potencies.
+The cAMP phosphodiesterase was inhibited completely by felodipine and the p-chloro analogue with IC50 values of 3.7 and 1.5 microM respectively.
+The oxidized and t-butyl analogues were relatively ineffective in inhibiting cAMP phosphodiesterase.
+Felodipine and the p-chloro analogue inhibited the basal (Ca2+/calmodulin-independent) activity of cAMP phosphodiesterase as well as the calmodulin-stimulated activity.
+Calmodulin was relatively ineffective in preventing inhibition of cAMP phosphodiesterase by felodipine and the p-chloro analogue.
+These observations suggest that felodipine may act directly on the phosphodiesterase as well as through calmodulin.
+Felodipine and the p-chloro analogue inhibited Ca2+/calmodulin-dependent caldesmon kinase with similar potencies (IC50 = 17.4 microM), whereas the oxidized and t-butyl analogues caused no inhibition.
+Similarly, felodipine and the p-chloro analogue inhibited myosin light chain kinase activity whether the isolated 20 kD light chain (IC50 = 12.6 microM) or intact myosin (IC50 = 11.0 microM) was used as substrate.
+Inhibition in each case was prevented by excess calmodulin.
+The oxidized and t-butyl derivatives caused little or no inhibition.
+Finally, the effects of felodipine and the three analogues on two processes which are dependent on myosin phosphorylation were examined, namely the actin-activated Mg2+-ATPase activity of myosin and the assembly of myosin filaments.
+Felodipine and the p-chloro analogue inhibited the actin-activated Mg2+-ATPase activity of smooth muscle myosin (IC50 = 25.1 microM).
+The oxidized and t-butyl analogues exhibited no inhibition.
+Similarly, felodipine and the p-chloro analogue blocked myosin filament assembly induced by low concentrations of calmodulin, whereas the oxidized and t-butyl analogues did not.
+Again, inhibition of the actin-activated myosin Mg2+-ATPase and myosin filament assembly by felodipine and the p-chloro analogue could be reversed by raising the calmodulin concentration.
+These observations suggest that some of the pharmacological actions of felodipine on smooth muscle may involve inhibition of calmodulin-dependent enzymes which are functionally involved in the regulation of smooth muscle contraction.

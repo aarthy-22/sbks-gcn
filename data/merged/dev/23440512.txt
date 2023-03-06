@@ -1,0 +1,6 @@
+Vitamin A and retinoid signaling: genomic and non-genomic effects.
+Vitamin A or retinol is arguably the most multifunctional vitamin in the human body as it is essential from embryogenesis to adulthood.
+The pleiotropic effects of vitamin A are exerted mainly by one active metabolite, all-trans retinoic acid (atRA), which regulates the expression of a battery of target genes through several families of nuclear receptors (RARs, RXRs and PPARβ/δ), polymorphic retinoic acid (RA) response elements and multiple coregulators.
+It also involves extra nuclear and non-transcriptional effects such as the activation of kinase cascades, which are integrated in the nucleus via the phosphorylation of several actors of RA signaling.
+However, vitamin A itself proved recently to be active and RARs to be present in the cytosol to regulate translation and cell plasticity.
+All these new concepts expand the scope of the biologic functions of vitamin A and RA.

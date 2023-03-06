@@ -1,0 +1,13 @@
+Clinical and Subclinical Macrovascular Disease as Predictors of Cognitive Decline in Older Patients With Type 2 Diabetes: The Edinburgh Type 2 Diabetes Study.
+OBJECTIVEMacrovascular disease may contribute to increased risk of accelerated cognitive decline in patients with type 2 diabetes.
+We aimed to determine associations of measures of macrovascular disease with cognitive change in a cognitively healthy older population with type 2 diabetes.
+RESEARCH DESIGN AND METHODSEight-hundred thirty-one men and women (aged 60-75 years) attended two waves of the prospective Edinburgh Type 2 Diabetes Study (ET2DS).
+At baseline, clinical and subclinical macrovascular disease was measured, including cardiovascular event history, carotid intima-media thickness (cIMT), ankle brachial index (ABI), and serum N-terminal probrain natriuretic peptide (NT-proBNP).
+Seven neuropsychological tests were administered at baseline and after 4 years; scores were combined to a standardized general ability factor (g).
+Adjustment of follow-up g for baseline g assessed 4-year cognitive change.
+Adjustment for vocabulary (estimated premorbid ability) was used to estimate lifetime cognitive change.
+RESULTSMeasures of cognitive decline were significantly associated with stroke, NT-proBNP, ABI, and cIMT, but not with nonstroke vascular events.
+The association of stroke with increased estimated lifetime cognitive decline (standardized β, -0.12) and of subclinical markers with actual 4-year decline (standardized β, -0.12, 0.12, and -0.15 for NT-proBNP, ABI, and cIMT, respectively) reached the Bonferroni-adjusted level of statistical significance (P < 0.006).
+Results altered only slightly on adjustment for vascular risk factors.
+CONCLUSIONSStroke and subclinical markers of cardiac stress and generalized atherosclerosis are associated with cognitive decline in older patients with type 2 diabetes.
+Further investigation into the potential use of subclinical vascular disease markers in predicting cognitive decline is warranted.

@@ -1,0 +1,12 @@
+Acid ceramidase but not acid sphingomyelinase is required for tumor necrosis factor-{alpha}-induced PGE2 production.
+Sphingolipids are well established effectors of signal transduction downstream of the tumor necrosis factor (TNF) receptor.
+In a previous study, we showed that the sphingosine kinase/sphingosine 1-phosphate (S1P) pathway couples TNF receptor to induction of the cyclooxygenase 2 gene and prostaglandin synthesis (Pettus, B. J., Bielawski, J., Porcelli, A. M., Reames, D. L., Johnson, K. R., Morrow, J., Chalfant, C. E., Obeid, L. M., and Hannun, Y. A. (2003) FASEB J. 17, 1411-1421).
+In this study, the requirement for acid sphingomyelinase and sphingomyelin metabolites in the TNFalpha/prostaglandin E(2) (PGE(2)) pathway was investigated.
+The amphiphilic compound desipramine, a frequently employed inhibitor of acid sphingomyelinase (ASMase), blocked PGE(2) production.
+However, the action of desipramine was independent of its action on ASMase, since neither genetic loss of ASMase (Niemann-Pick fibroblasts) nor knockdown of ASMase using RNA interference affected TNFalpha-induced PGE(2) synthesis.
+Further investigations revealed that desipramine down-regulated acid ceramidase (AC), but not sphingosine kinase, at the protein level.
+This resulted in a time-dependent drop in sphingosine and S1P levels.
+Moreover, exogenous administration of either sphingosine or S1P rescued PGE(2) biosynthesis after desipramine treatment.
+Interestingly, knockdown of endogenous AC by RNA interference attenuated cyclooxygenase 2 induction by TNFalpha and subsequent PGE(2) biosynthesis.
+Taken together, these results define a novel role for AC in the TNFalpha/PGE(2) pathway.
+In addition, the results of this study warrant careful reconsideration of desipramine as a specific inhibitor for ASMase.

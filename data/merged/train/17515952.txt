@@ -1,0 +1,10 @@
+Gene expression in temporal lobe epilepsy is consistent with increased release of glutamate by astrocytes.
+Patients with temporal lobe epilepsy (TLE) often have a shrunken hippocampus that is known to be the location in which seizures originate.
+The role of the sclerotic hippocampus in the causation and maintenance of seizures in temporal lobe epilepsy (TLE) has remained incompletely understood despite extensive neuropathological investigations of this substrate.
+To gain new insights and develop new testable hypotheses on the role of sclerosis in the pathophysiology of TLE, the differential gene expression profile was studied.
+To this end, DNA microarray analysis was used to compare gene expression profiles in sclerotic and non-sclerotic hippocampi surgically removed from TLE patients.
+Sclerotic hippocampi had transcriptional signatures that were different from non-sclerotic hippocampi.
+The differentially expressed gene set in sclerotic hippocampi revealed changes in several molecular signaling pathways, which included the increased expression of genes associated with astrocyte structure (glial fibrillary acidic protein, ezrin-moesin-radixin, palladin), calcium regulation (S100 calcium binding protein beta, chemokine (C-X-C motif) receptor 4) and blood-brain barrier function (Aquaaporin 4, Chemokine (C-C- motif) ligand 2, Chemokine (C-C- motif) ligand 3, Plectin 1, intermediate filament binding protein 55kDa) and inflammatory responses.
+Immunohistochemical localization studies show that there is altered distribution of the gene-associated proteins in astrocytes from sclerotic foci compared with non-sclerotic foci.
+It is hypothesized that the astrocytes in sclerotic tissue have activated molecular pathways that could lead to enhanced release of glutamate by these cells.
+Such glutamate release may excite surrounding neurons and elicit seizure activity.

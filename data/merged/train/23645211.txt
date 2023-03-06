@@ -1,0 +1,14 @@
+Role of quercetin in cadmium-induced oxidative stress, neuronal damage, and apoptosis in rats.
+The present study was carried out to evaluate the neuroprotective effect of quercetin (QE) in protecting the cadmium (Cd)-induced neuronal injury in frontal cortex of rats.
+A total of 30 adult male Sprague-Dawley rats were randomly divided into three groups of 10 animals each: control, Cd treated and Cd treated with QE.
+The Cd-treated group was injected subcutaneously with cadmium chloride (CdCl2) dissolved in saline at a dose of 2 ml/kg/day for 30 days, resulting in a dosage of 1 mg/kg Cd.
+The rats in QE-treated groups were given QE (15 mg/kg body weight) once a day intraperitoneally starting 2 days prior to Cd injection, during the study period.
+Rats were sacrificed at the end of the study and the frontal cortex tissues were removed for biochemical and histopathological investigation.
+To date, there is no available information on the effect of QE on neuronal injury after Cd exposure.
+Rats intoxicated with Cd for 30 days, significantly increased tissue malondialdehyde (MDA) levels and significantly decreased enzymatic antioxidants superoxide dismutase, glutathione peroxidase and catalase in the frontal cortex tissue.
+Administration of QE with Cd significantly diminished the levels of MDA and significantly elevated the levels of enzymatic antioxidants in the frontal cortex tissue.
+The histopathological studies in the brain of rats also supported that QE markedly reduced the Cd-induced histopathological changes and well preserved the normal histological architecture of the frontal cortex tissue.
+The caspase-3 immunopositivity was increased in degenerating neurons of the Cd group.
+Treatment with QE markedly reduced the immunoreactivity of degenerating neurons.
+In conclusion, the results of the current study suggest that QE may be beneficial in combating the Cd-induced neurotoxicity in the brain of rats.
+We believe that further preclinical research into the utility of QE may indicate its usefulness as a potential treatment for neurodegeneration after Cd exposure in rats.

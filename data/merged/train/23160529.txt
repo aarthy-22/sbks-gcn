@@ -1,0 +1,9 @@
+HLA-A*24 is an independent predictor of 5-year progression to diabetes in autoantibody-positive first-degree relatives of type 1 diabetic patients.
+We investigated whether HLA-A*24 typing complements screening for HLA-DQ and for antibodies (Abs) against insulin, GAD, IA-2 (IA-2A), and zinc transporter-8 (ZnT8A) for prediction of rapid progression to type 1 diabetes (T1D).
+Persistently Ab(+) siblings/offspring (n = 288; aged 0-39 years) of T1D patients were genotyped for HLA-DQA1-DQB1 and HLA-A*24 and monitored for development of diabetes within 5 years of first Ab(+).
+HLA-A*24 (P = 0.009), HLA-DQ2/DQ8 (P = 0.001), and positivity for IA-2A ± ZnT8A (P < 0.001) were associated with development of T1D in multivariate analysis.
+The 5-year risk increased with the number of the above three markers present (n = 0: 6%; n = 1: 18%; n = 2: 46%; n = 3: 100%).
+Positivity for one or more markers identified a subgroup of 171 (59%) containing 88% of rapid progressors.
+The combined presence of HLA-A*24 and IA-2A(+) ± ZnT8A(+) defined a subgroup of 18 (6%) with an 82% diabetes risk.
+Among IA-2A(+) ± ZnT8A(+) relatives, identification of HLA-A*24 carriers in addition to HLA-DQ2/DQ8 carriers increased screening sensitivity for relatives at high Ab- and HLA-inferred risk (64% progression; P = 0.002).
+In conclusion, HLA-A*24 independently predicts rapid progression to T1D in Ab(+) relatives and complements IA-2A, ZnT8A, and HLA-DQ2/DQ8 for identifying participants in immunointervention trials.

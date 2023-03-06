@@ -1,0 +1,9 @@
+High-affinity GABA uptake and GABA-metabolizing enzymes in pig forebrain white matter: a quantitative study.
+GABA receptor activation in central nervous white matter may be protective during white matter hypoxia in the adult, and it may modify axonal conduction, especially in the developing brain.
+GABA uptake is important for the shaping of the GABA signal, but quantitative data are lacking for GABA uptake and GABA-metabolizing enzymes in central nervous white matter.
+We report that high-affinity uptake of GABA in adult pig corpus callosum, fimbria, subcortical pyramidal tracts, and occipital white matter is approximately 20% of that in temporal cortex gray matter.
+Tiagabine (0.1 microM), an antiepileptic drug that specifically inhibits the GAT-1 GABA transporter inhibited GABA uptake 50% in temporal cortex and 60-68% in white structures.
+This finding indicates that GAT-1 is an important GABA transporter in white matter and suggests that white matter GABA uptake is inhibited during tiagabine therapy.
+GABA transaminase activity in white structures was approximately 20% of neocortical values.
+Glutamate decarboxylase (GAD) activity in white structures was only 4% of that in neocortex (7-12 pmol/mg tissue x min(-1) versus approximately 200 pmol/mg tissue x min(-1)).
+Since white matter activity of citrate synthase of the tricarboxylic acid cycle was approximately 25% of neocortical values ( approximately 0.4 nmol/mg tissue x min(-1) versus approximately 1.5 nmol/mg tissue x min(-1)), the low GAD activity suggests a slower metabolic turnover of GABA in white than in gray matter.

@@ -1,0 +1,16 @@
+The roles of dopamine transport inhibition and dopamine release facilitation in wake enhancement and rebound hypersomnolence induced by dopaminergic agents.
+STUDY OBJECTIVE: Rebound hypersomnolence (RHS: increased sleep following increased wake) is a limiting side-effect of many wake-promoting agents.
+In particular, RHS in the first few hours following wake appears to be associated with dopamine (DA)-releasing agents, e.g., amphetamine, but whether it can also be produced by DA transporter (DAT) inhibition alone is unknown.
+In these studies, DA-releasing and DAT-inhibiting agents and their interaction were systematically examined for their ability to increase wake and induce RHS.
+DESIGN: Chronically implanted rats were evaluated in a blinded, pseudo-randomized design.
+PARTICIPANTS: 237 rats were used in these studies with 1 week between repeat tests.
+INTERVENTIONS: Animals were habituated overnight and dosed the next day, 5 h after lights on, with test agents.
+MEASUREMENTS AND RESULTS: Sleep/wake activityand RHS were evaluated using EEG/EMG recording up to 22 h post dosing.
+In vitro dopamine release was evaluated in rat synaptosomes.
+At doses that produced equal increases in wake, DA-releasing (amphetamine, methamphetamine, phentermine) and several DAT-inhibiting agents (cocaine, bupropion, and methylphenidate) produced RHS during the first few hours after the onset of sleep recovery.
+However, other DAT-inhibiting agents (mazindol, nomifensine, GBR-12909, and GBR-12935) did not produce RHS.
+Combination treatment with amphetamine and nomifensine produced waking activity greater than the sum of their individual activities alone while ameliorating the amphetamine-like RHS.
+In rat synaptosomes, nomifensine reduced the potency of amphetamine to induce DA release approximately 270-fold, potentially explaining its action in ameliorating amphetamine-induced RHS.
+CONCLUSIONS: All DA releasing agents tested, and some DAT-inhibiting agents, produced RHS at equal wake-promoting doses.
+Thus amphetamine-like DA release appears sufficient for inducing RHS, but additional properties (pharmacologic and/or pharmacokinetic) evidently underlie RHS of other DAT inhibitors.
+Enhancing wake while mitigating RHS can be achieved by combining DAT-inhibiting and DA-releasing agents.

@@ -1,0 +1,13 @@
+Use of nitisinone in patients with alkaptonuria.
+Alkaptonuria, a rare autosomal recessive disorder caused by mutations in the HGD gene and deficiency of homogentisate 1,2 dioxygenase, is characterized by ochronosis, arthritis, and daily excretion of gram quantities of homogentisic acid (HGA).
+Nitisinone, an inhibitor of the enzyme 4-hydroxyphenylpyruvate dioxygenase, can drastically reduce urinary excretion of HGA in individuals with alkaptonuria.
+We investigated the safety and the HGA-depleting efficacy of nitisinone in an open-label, single-center study of 9 alkaptonuria patients (5 women, 4 men; 35-69 years of age) over the course of 3 to 4 months.
+Each patient received nitisinone in incremental doses, 0.35 mg bid followed by 1.05 mg bid, and remained on this dosage and a regular diet for 3 months.
+Nitisinone reduced urinary HGA levels from an average of 4.0 +/-
+1.8 (SD) g/day to 0.2 +/- 0.2 g/day ( P < .001).
+The average plasma tyrosine concentration, initially 68 +/- 18 mmicro mol/L, rose to 760 +/- 181 micro mol/L ( P < .001).
+During the final week of the study, 5 patients adhered to a protein-restricted diet (40 g/day), and their mean plasma tyrosine level fell from 755 +/- 167 to 603 +/- 114 mu mol/L. Six of the 7 patients who received nitisinone for more than 1 week reported decreased pain in their affected joints.
+Weekly ophthalmologic examinations showed no signs of corneal toxicity.
+Adverse events included the passing of kidney stones, the recognition of symptoms related to aortic stenosis, and elevation of liver transaminase levels.
+We conclude that low-dose nitisinone effectively reduced urinary HGA levels in patients with alkaptonuria.
+Future long-term clinical trials are planned to determine the benefits of nitisinone in preventing joint deterioration and providing pain relief, and its long-term side effects.

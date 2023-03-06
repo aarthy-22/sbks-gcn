@@ -1,0 +1,7 @@
+Inhibition of testicular LDH-X from laboratory animals and man by gossypol and its isomers.
+The inhibitory effect of (+)-, (-)-, (+/-)-gossypol and (+/-)-gossypol acetic acid upon testicular cytosolic LDH-X was measured in vitro.
+Gossypol acetic acid (0-100 mumol/l) inhibited LDH-X prepared from the testes of the mouse greater than rabbit greater than human greater than rat greater than hamster.
+There was no relationship between inhibition and in-vivo antifertility activity.
+LDH activity measured in vitro in serum of men and hamsters was unaffected by gossypol.
+Gossypol and its isomers were non-competitive inhibitors of human and hamster LDH-X with respect to the coenzyme NADH, competitive inhibitors of human LDH-X and noncompetitive-competitive inhibitors of hamster LDH-X with respect to the substrate alpha-ketobutyrate.
+Co-incubation with human serum albumin or poly-L-lysine but not lysine protected human and hamster LDH-X from gossypol.

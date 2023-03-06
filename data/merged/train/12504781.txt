@@ -1,0 +1,7 @@
+In vitro effect of sanguinarine alkaloid on binding of [3H]candesartan to the human angiotensin AT1 receptor.
+The type of interaction of 5-methyl-2,3,7,8-bis(methylenedioxy)benzo[c]phenanthridinium (sanguinarine), an alkaloid isolated from the root of Bocconia frutescens L., with the human angiotensin AT(1) receptor was evaluated in both intact cells and membrane binding of [3H](2-ethoxy-1-[(2'-(1H-tetrazol-5-yl)biphenyl-4-yl)methyl]-1H-benzimidazoline-7 -carboxylic acid) ([3H]candesartan).
+The results indicate that the inhibition of [3H]candesartan binding by sanguinarine is independent of cell viability, since the alkaloid inhibited at a similar extent radioligand binding on both intact Chinese hamster ovary (CHO) cells transfected with the human angiotensin AT(1) receptor (hAT(1)) and their cell membranes (K(i)=0.14 and 1.10 microM, respectively).
+The unsuccessful recovery of [3H]candesartan binding after washing sanguinarine off the cells suggested a nearly irreversible or slow reversible interaction.
+Saturation binding studies showed a substantial reduction of the B(max) without affecting the K(d).
+In addition, the presence of 2-n-butyl-4chloro-5-hydroxymethyl-1-[(2'-(1H-tetrazol-5-yl)biphenyl-4-yl)methyl]i midazole (losartan) could not prevent sanguinarine inhibition of [3H]candesartan binding neither.
+The present findings indicate that sanguinarine interacts with the receptor in a slow, nearly irreversible and noncompetitive manner.

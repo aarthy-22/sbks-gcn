@@ -1,0 +1,9 @@
+In vivo genotoxicity of methyleugenol in gpt delta transgenic rats following medium-term exposure.
+Methyleugenol (MEG), which is commonly used as a fragrance and flavoring agent, has been shown to induce hepatocellular tumors in rodents.
+However, the role of genotoxicity as a possible mechanism of action is not fully understood even though the DNA-reactive metabolite of MEG has been identified.
+In this study, a gpt delta transgenic rat model was used to clarify whether genotoxic mechanisms are involved in MEG-induced hepatocarcinogenesis following medium-term exposure.
+F344 gpt delta rats were subjected to repeated oral administration of MEG at dosages of 0, 10, 30, or 100mg/kg (a carcinogenic dose) for 13 weeks.
+The relative weight of the liver of the male and female rats that were administered 100mg/kg MEG and the absolute weight of the liver of the male rats that were administered 100mg/kg MEG were significantly increased.
+In addition, the number and area of glutathione S-transferase placental form (GST-P) positive foci and proliferating cell nuclear antigen (PCNA) positive cell ratios in the hepatocytes were significantly increased in the male and female rats that were administered 100mg/kg MEG compared with the control animals.
+In the in vivo mutation assays, a significant increase in the gpt and Spi(-) mutant frequencies was observed in both sexes at the carcinogenic dose.
+These results suggest the possible participation of genotoxic mechanisms in MEG-induced hepatocarcinogenesis.

@@ -1,0 +1,8 @@
+The tricyclic antidepressant clomipramine increases plasma glucose levels of mice.
+Effects of the tricyclic antidepressant clomipramine on plasma glucose levels in mice were studied.
+Clomipramine at doses ranging 5 - 20 mg/kg elicited significant hyperglycemia in mice.
+Hyperglycemia elicited by clomipramine was not reduced by pretreatment with the 5-hydroxytryptamine (5-HT) depleter p-chlorophenylalanine.
+The 5-HT(1/2/5/7)-receptor antagonist methysergide and the 5-HT(2A/2B/2C)-receptor antagonist LY 53857 enhanced clomipramine-induced hyperglycemia, while the 5-HT(1A/1B)-receptor antagonist (-)-propranolol and the 5-HT(3/4)-receptor antagonist tropisetron did not affect it.
+The 5-HT(2B/2C)-receptor antagonist SB 206553 facilitated hyperglycemia induced by clomipramine, although the 5-HT(2A)-receptor antagonist ketanserin was without effect.
+Clomipramine-induced hyperglycemia was reduced by prior adrenalectomy.
+These results suggest that clomipramine induces hyperglycemia in mice by blocking the 5-HT(2B )and/or 5-HT(2C) receptors, which results in facilitation of adrenaline release.

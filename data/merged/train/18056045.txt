@@ -1,0 +1,12 @@
+Bisphosphonates: an update on mechanisms of action and how these relate to clinical efficacy.
+The bisphosphonates (BPs) are well established as the treatments of choice for disorders of excessive bone resorption, including Paget's disease of bone, myeloma and bone metastases, and osteoporosis.
+There is considerable new knowledge about how BPs work.
+Their classical pharmacological effects appear to result from two key properties: their affinity for bone mineral and their inhibitory effects on osteoclasts.
+Mineral binding affinities differ among the clinically used BPs and may influence their differential distribution within bone, their biological potency, and their duration of action.
+The inhibitory effects of the nitrogen-containing BPs (including alendronate, risedronate, ibandronate, and zoledronate) on osteoclasts appear to result from their inhibition of farnesyl pyrophosphate synthase (FPPS), a key branch-point enzyme in the mevalonate pathway.
+FPPS generates isoprenoid lipids used for the posttranslational modification of small GTP-binding proteins essential for osteoclast function.
+Effects on other cellular pathways, such as preventing apoptosis in osteocytes, are emerging as other potentially important mechanisms of action.
+As a class, BPs share several common properties.
+However, as with other classes of drugs, there are obvious chemical, biochemical, and pharmacological differences among the various individual BPs.
+Each BP has a unique profile that may help to explain potential important clinical differences among the BPs, in terms of speed of onset of fracture reduction, antifracture efficacy at different skeletal sites, and the degree and duration of suppression of bone turnover.
+As we approach the 40th anniversary of the discovery of their biological effects, there remain further opportunities for using their properties for medical purposes.

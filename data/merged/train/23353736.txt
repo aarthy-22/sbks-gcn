@@ -1,0 +1,5 @@
+Synthesis of derivatives of methyl rosmarinate and their inhibitory activities against matrix metalloproteinase-1 (MMP-1).
+A series of MMP-1 inhibitors have been identified based upon a methyl rosmarinate scaffold using structure-based drug design methods.
+The best compound in the series showed an IC50 value of 0.4 μM. A docking study was conducted for compound (S)-10n in order to investigate its binding interactions with MMP-1.
+The structure-activity relationships (SAR) were also briefly discussed.
+Useful SAR was established which provides important guidelines for the design of future generations of potent inhibitors against MMP-1.

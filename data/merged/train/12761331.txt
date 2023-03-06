@@ -1,0 +1,8 @@
+3,4-methylenedioxymethamphetamine (MDMA, "Ecstasy") induces fenfluramine-like proliferative actions on human cardiac valvular interstitial cells in vitro.
+Recent findings have implicated the 5-hydroxytryptamine 2B (5-HT2B) serotonin receptor in mediating the heart valve fibroplasia [valvular heart disease (VHD)] and primary pulmonary hypertension observed in patients taking the now-banned appetite suppressant fenfluramine (Pondimin, Redux).
+Via large-scale, random screening of a portion of the receptorome, we have discovered that the amphetamine derivative 3,4-methylenedioxymethamphetamine (MDMA, "Ecstasy") and its N-demethylated metabolite 3,4-methylenedioxyamphetamine (MDA) each preferentially bind to and activate human recombinant 5-HT2B receptors.
+We also demonstrate that MDMA and MDA, like fenfluramine and its N-deethylated metabolite norfenfluramine, elicit prolonged mitogenic responses in human valvular interstitial cells via activation of 5-HT2B receptors.
+We also report that pergolide and dihydroergotamine, two drugs recently demonstrated to induce VHD in humans, potently activate 5-HT2B receptors, thus validating this assay system for its ability to predict medications that might induce VHD.
+Our discovery that MDMA and a major metabolite, MDA, induce prolonged mitogenic responses in vitro similar to those induced by fenfluramine and norfenfluramine in vivo (i.e., valvular interstitial cell fibroplasia) predict that long-term MDMA use could lead to the development of fenfluramine-like VHD.
+Because of the widespread abuse of MDMA, these findings have major public health implications.
+These findings also underscore the necessity of screening current and future drugs at h5-HT2B receptors for agonist actions before their use in humans.

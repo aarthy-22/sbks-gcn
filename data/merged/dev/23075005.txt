@@ -1,0 +1,12 @@
+Pharmacokinetics and metabolism of [(14)C]anagliptin, a novel dipeptidyl peptidase-4 inhibitor, in humans.
+1. The disposition of anagliptin, an orally active, highly selective dipeptidyl peptidase-4 inhibitor, was investigated after a single oral dose of 100 mg/1.92 MBq [(14)C]anagliptin to six healthy men.
+Almost all the dose (98.2%) was recovered within 168 h: 73.2% in urine and 25.0% in faeces.
+2. Anagliptin was rapidly absorbed, with peak plasma concentrations of unchanged drug attained at a mean time of 1.8-h postdose.
+Mean fraction of the dose absorbed was >73%.
+Unchanged drug and a carboxylate metabolite (M1) were the major components in plasma, accounting for 66.0 and 23.4% of total plasma radioactivity area under the curve, respectively.
+3.
+ Anagliptin was incompletely metabolized, with about 50% dose eliminated as unchanged drug (46.6% in urine and 4.1% in faeces).
+Metabolism to M1 accounted for 29.2% of the dose.
+No other metabolite accounted for >1% dose in excreta or yielded measurable systemic exposure.
+Terminal half-life of anagliptin and M1 was 4.37 and 9.88 h, respectively.
+Renal clearance of unbound anagliptin and unbound M1 far exceeded glomerular filtration rate, indicating active renal elimination: that might reflect the fact that anagliptin may be a substrate of OAT1, OAT3, MDR1 and MRP2, and M1 a substrate of OAT3, BCRP, MRP2 and MRP4.

@@ -1,0 +1,6 @@
+Regulation of G protein-coupled receptor kinases by phospholipids.
+G protein coupled-receptor (GPCR) kinases (GRKs) initiate the deactivation of GPCRs by phosphorylating their cytoplasmic loops and C-terminal tails.
+They are regulated not only by allosteric interactions with activated GPCRs, but also by the membrane environment itself.
+Herein we describe how the various GRKs are recruited to lipid bilayers and, where evident, how specific anionic phospholipids help regulate their activity.
+Using crystal structures representing each of the three vertebrate GRK subfamilies, we map the lipid binding sites in order to better understand how these enzymes are oriented at the cell surface.
+This analysis suggests that GRKs bind lipid and active GPCRs in a coordinated manner.

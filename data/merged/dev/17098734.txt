@@ -1,0 +1,7 @@
+Sequestration of retinyl esters is essential for retinoid signaling in the zebrafish embryo.
+For vertebrate development, vitamin A (all-trans retinol) is required in quantitative different amounts and spatiotemporal distribution for the production of retinoic acid, a nuclear hormone receptor ligand, and 11-cis retinal, the chromophore of visual pigments.
+We show here for zebrafish that embryonic retinoid homeostasis essentially depends on the activity of a leci-thin:retinol acyltransferase (Lratb).
+During embryogenesis, lratb is expressed in mostly non-overlapping domains opposite to retinal dehydrogenase 2 (raldh2), the key enzyme for retinoic acid synthesis.
+Blocking retinyl ester formation by a targeted knock down of Lratb results in significantly increased retinoic acid levels, which lead to severe embryonic patterning defects.
+Thus, we provide evidence that a balanced competition between Lratb and Raldh2 for yolk vitamin A defines embryonic compartments either for retinyl ester or retinoic acid synthesis.
+This homeostatic mechanism dynamically adjusts embryonic retinoic acid levels for gene regulation, concomitantly sequestering excess yolk vitamin A in the form of retinyl esters for the establishment of larval vision later during development.

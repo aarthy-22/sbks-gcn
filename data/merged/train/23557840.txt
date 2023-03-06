@@ -1,0 +1,5 @@
+1,3,4-Oxadiazol-2-ones as fatty-acid amide hydrolase and monoacylglycerol lipase inhibitors: Synthesis, in vitro evaluation and insight into potency and selectivity determinants by molecular modelling.
+Inhibition of the key hydrolytic enzymes of the endocannabinoid system, fatty acid amide hydrolase (FAAH) and monoacylglycerol lipase (MAGL), has been proposed as potential mode of action for various therapeutic applications.
+Continuing our previous work, we take the first steps of structure-activity relationship exploration and show that 1,3,4-oxadiazol-2-ones can serve as scaffold for both selective FAAH and MAGL inhibitors, and also function as a dual FAAH/MAGL inhibitor at sub-micromolar IC50 values.
+Moreover, 10-fold selectivity against MAGL over FAAH was achieved with compound 3d (FAAH and MAGL IC50; 2.0 and 0.22μM).
+Lastly, enzyme and ligand features contributing to the potency and selectivity differences are analysed by molecular docking.

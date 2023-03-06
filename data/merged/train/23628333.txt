@@ -1,0 +1,5 @@
+Identification of substituted 2-thio-6-oxo-1,6-dihydropyrimidines as inhibitors of human lactate dehydrogenase.
+A novel 2-thio-6-oxo-1,6-dihydropyrimidine-containing inhibitor of human lactate dehydrogenase (LDH) was identified by high-throughput screening (IC50=8.1μM).
+Biochemical, surface plasmon resonance, and saturation transfer difference NMR experiments indicated that the compound specifically associated with human LDHA in a manner that required simultaneous binding of the NADH co-factor.
+Structural variation of the screening hit resulted in significant improvements in LDHA biochemical inhibition activity (best IC50=0.48μM).
+A crystal structure of an optimized compound bound to human LDHA was obtained and explained many of the observed structure-activity relationships.

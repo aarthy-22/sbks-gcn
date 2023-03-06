@@ -1,0 +1,7 @@
+Computationally assisted assignment of kahalalide Y configuration using an NMR-constrained conformational search.
+Assignment of the absolute configuration of cyclic peptides frequently yields challenges, leaving one or more stereogenic centers unassigned due to small quantities of sample and the limited utility of Marfey's or other methods for assigning amino or hydroxy acids.
+Here, we report isolation of kahalalide Y (1) from Bryopsis pennata for the first time; in addition, the application of a combination of molecular modeling and NOE distance constraint calculations was utilized to determine the conformation of 1 and the absolute configuration of the final stereogenic center of 1.
+Using the Schrödinger suite, the structure of 1 was sketched in Maestro and minimized using the OPLS2005 force field in Macromodel.
+A conformational search was performed separately for structures having an R or S configuration at C-3 of the beta-hydroxy fatty acid subunit that completes the cyclic scaffold of 1, after which multiple minimizations for all generated conformers were carried out.
+The lowest energy conformers of R and S stereoisomers were then subjected to B3LYP geometry optimizations including solvent effects.
+The S stereoisomer was shown to be in excellent agreement with the NOE-derived distance constraints and hydrogen-bonding stability studies.

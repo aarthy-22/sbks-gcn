@@ -1,0 +1,11 @@
+Support for 5-HT2C receptor functional selectivity in vivo utilizing structurally diverse, selective 5-HT2C receptor ligands and the 2,5-dimethoxy-4-iodoamphetamine elicited head-twitch response model.
+There are seemingly conflicting data in the literature regarding the role of serotonin (5-HT) 5-HT2C receptors in the mouse head-twitch response (HTR) elicited by the hallucinogenic 5-HT2A/2B/2C receptor agonist 2,5-dimethoxy-4-iodoamphetamine (DOI).
+Namely, both 5-HT2C receptor agonists and antagonists, regarding 5-HT2C receptor-mediated Gq-phospholipase C (PLC) signaling, reportedly attenuate the HTR response.
+The present experiments tested the hypothesis that both classes of 5-HT2C receptor compounds could attenuate the DOI-elicited-HTR in a single strain of mice, C57Bl/6J.
+The expected results were considered in accordance with ligand functional selectivity.
+Commercially-available 5-HT2C agonists (CP 809101, Ro 60-0175, WAY 161503, mCPP, and 1-methylpsilocin), novel 4-phenyl-2-N,N-dimethyl-aminotetralin (PAT)-type 5-HT2C agonists (with 5-HT2A/2B antagonist activity), and antagonists selective for 5-HT2A (M100907), 5-HT2C (SB-242084), and 5-HT2B/2C (SB-206553) receptors attenuated the DOI-elicited-HTR.
+In contrast, there were differential effects on locomotion across classes of compounds.
+The 5-HT2C agonists and M100907 decreased locomotion, SB-242084 increased locomotion, SB-206553 resulted in dose-dependent biphasic effects on locomotion, and the PATs did not alter locomotion.
+In vitro molecular pharmacology studies showed that 5-HT2C agonists potent for attenuating the DOI-elicited-HTR also reduced the efficacy of DOI to activate mouse 5-HT2C receptor-mediated PLC signaling in HEK cells.
+Although there were differences in affinities of a few compounds at mouse compared to human 5-HT2A or 5-HT2C receptors, all compounds tested retained their selectivity for either receptor, regardless of receptor species.
+Results indicate that 5-HT2C receptor agonists and antagonists attenuate the DOI-elicited-HTR in C57Bl/6J mice, and suggest that structurally diverse 5-HT2C ligands result in different 5-HT2C receptor signaling outcomes compared to DOI.

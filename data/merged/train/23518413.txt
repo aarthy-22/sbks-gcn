@@ -1,0 +1,10 @@
+SMC6 is an essential gene in mice, but a hypomorphic mutant in the ATPase domain has a mild phenotype with a range of subtle abnormalities.
+Smc5-6 is a highly conserved protein complex related to cohesin and condensin involved in the structural maintenance of chromosomes.
+In yeasts the Smc5-6 complex is essential for proliferation and is involved in DNA repair and homologous recombination.
+siRNA depletion of genes involved in the Smc5-6 complex in cultured mammalian cells results in sensitivity to some DNA damaging agents.
+In order to gain further insight into its role in mammals we have generated mice mutated in the Smc6 gene.
+A complete knockout resulted in early embryonic lethality, demonstrating that this gene is essential in mammals.
+However, mutation of the highly conserved serine-994 to alanine in the ATP hydrolysis motif in the SMC6 C-terminal domain, resulted in mice with a surprisingly mild phenotype.
+With the neo gene selection marker in the intron following the mutation, resulting in reduced expression of the SMC6 gene, the mice were reduced in size, but fertile and had normal lifespans.
+When the neo gene was removed, the mice had normal size, but detailed phenotypic analysis revealed minor abnormalities in glucose tolerance, haematopoiesis, nociception and global gene expression patterns.
+Embryonic fibroblasts derived from the ser994 mutant mice were not sensitive to killing by a range of DNA damaging agents, but they were sensitive to the induction of sister chromatid exchanges induced by ultraviolet light or mitomycin C. They also accumulated more oxidative damage than wild-type cells.

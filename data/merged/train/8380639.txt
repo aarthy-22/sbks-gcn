@@ -1,0 +1,8 @@
+Cloning of another human serotonin receptor (5-HT1F): a fifth 5-HT1 receptor subtype coupled to the inhibition of adenylate cyclase.
+An intronless gene encoding an additional human serotonin (5-HT) 5-HT1-like receptor subtype was isolated from a human genomic library with probes obtained from degenerate PCR primers used to amplify 5-HT-receptor-specific sequences.
+The highest degree of homology was found with the 5-HT1E subtype (70%) and the 5-HT1D alpha (63%) and 5-HT1D beta (60%) receptors.
+RNA for this gene was detected in the human brain but was not detected in kidney, liver, spleen, heart, pancreas, and testes.
+High-affinity (Kd = 9.2 nM) 3H-labeled 5-HT binding was detected.
+Competition studies revealed the following rank order of potencies for serotonergic ligands: 5-HT > sumatriptan >> 5-carboxyamidotryptamine > 8-hydroxy-2(di-1-propylamino)tetralin > spiperone.
+5-HT produced a dose-dependent inhibition of forskolin-stimulated cAMP accumulation (EC50 = 7.9 nM) in transfected cells.
+These properties distinguish this receptor from any previously characterized and establish a fifth 5-HT1-like receptor subtype (5-HT1F) coupled to the inhibition of adenylate cyclase.

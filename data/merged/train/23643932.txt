@@ -1,0 +1,8 @@
+Heterologously expressed formyl peptide receptor 2 (FPR2/ALX) does not respond to lipoxin A4.
+Lipoxin A4 (LXA4) has been described as an anti-inflammatory mediator, which exerts its effects through the formyl peptide receptor FPR2, also known as ALX.
+However, there has been a controversy whether or not cells expressing FPR2/ALX, such as neutrophils, respond to LXA4.
+We, therefore, systematically examined the ability of the human and murine forms of the receptor to respond to LXA4.
+We show that both receptor orthologues responded to the FPR2/ALX peptide agonist WKYMVM when expressed heterologously.
+In contrast, LXA4 from different sources neither increased [Ca(2+)]i and extracellular-signal-regulated kinase (ERK) phosphorylation, nor did it induce a decrease in cAMP levels or a translocation of β-arrestin.
+Also, several LXA4 analogues were found to be unable to signal through FPR2/ALX.
+We conclude that FPR2/ALX is not activated by LXA4 and that the molecular mechanism by which LXA4 functions still needs to be identified.

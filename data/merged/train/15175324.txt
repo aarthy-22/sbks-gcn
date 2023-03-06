@@ -1,0 +1,11 @@
+The sensitivity of G protein-activated K+ channels toward halothane is essentially determined by the C terminus.
+G protein-activated K(+) channels (GIRKs or Kir3.x) are targets for the volatile anesthetic, halothane.
+When coexpressed with the m(2) acetylcholine (ACh) receptor in Xenopus oocytes, agonist-activated GIRK1(F137S)- and GIRK2-mediated currents are inhibited by halothane, whereas in the absence of ACh, high concentrations of halothane induce GIRK1(F137S)-mediated currents.
+To elucidate the molecular mechanism of halothane action on GIRK currents of different subunit compositions, we constructed deletion mutants of GIRK1(F137S) (GIRK1(Delta363*)) and GIRK2 (GIRK2(Delta356)) lacking the C-terminal ends, as well as chimeric GIRK channels.
+Mutated GIRK channels showed normal currents when activated by ACh but exhibited different pharmacological properties toward halothane.
+GIRK2(Delta356) showed no sensitivity against the inhibitory action of halothane but was activated by halothane in the absence of an agonist.
+GIRK1(Delta363*) was activated by halothane more efficiently.
+Currents mediated by chimeric channels were inhibited by anesthetic concentrations that were at least 30-fold lower than those necessary to decrease GIRK2 wild type currents.
+Glutathione S-transferase pulldown experiments did not show displacement of bound Gbetagamma by halothane, indicating that halothane does not interfere with Gbetagamma binding.
+Single channel experiments revealed an influence of halothane on the gating of the channels: The agonist-induced currents of GIRK1 and GIRK2, carried mainly by brief openings, were inhibited, whereas higher concentrations of the anesthetic promoted long openings of GIRK1 channels.
+Because the C terminus is crucial for these effects, an interaction of halothane with the channel seems to be involved in the mechanism of current modulation.

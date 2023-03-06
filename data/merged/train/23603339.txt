@@ -1,0 +1,10 @@
+Dehydroepiandrosterone post-transcriptionally modifies CYP1A2 induction involving androgen receptor.
+The pharmacological dosage of dehydroepiandrosterone (DHEA) protects against chemically induced carcinogenesis.
+The chemoprotective activity of DHEA is attributed to its inhibitory potential for the expression of CYP1A enzymes, which are highly responsible for metabolic activation of several mutagenic and carcinogenic chemicals.
+The present work investigated whether the chemoprevention by DHEA was due to diminished transcriptional activation of CYP1A genes or to the post-transcriptional modulation of CYP1A expression.
+In primary human hepatocytes, DHEA diminished the increase in CYP1A activities (7-ethoxyresorufin O-dealkylation and phenacetin O-dealkylation) and in CYP1A2 mRNA level induced by 3-methylcholanthrene, but did not alter the amount of CYP1A1 and CYP1B1 mRNA.
+The androgen receptor seemed to be involved in DHEA-mediated diminishment of CYP1A2 induction, which was attenuated in the presence of bicalutamide, the androgen receptor antagonist.
+The potential role of the glucocorticoid receptor and estrogen receptor in DHEA-mediated decrease in CYP1A2 induction was excluded.
+The developed computational model of CYP1A2 induction kinetics and CYP1A2 mRNA degradation proposed that a post-transcriptional mechanism was likely to be the primary mechanism of the DHEA-mediated diminishment of CYP1A2 induction.
+The hypothesis was confirmed by the results of actinomycin D-chase experiments in MCF-7 and LNCaP cells, displaying that the degradation rates of CYP1A2 mRNA were significantly higher in the cells exposed to DHEA.
+The novel findings on DHEA-mediated modulation of CYP1A2 mRNA stability may account for the beneficial effects of DHEA by decreasing the metabolic activation of pro-carcinogenic compounds.

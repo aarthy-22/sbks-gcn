@@ -1,0 +1,12 @@
+Aldehyde oxidase importance in vivo in xenobiotic metabolism: imidacloprid nitroreduction in mice.
+Aldehyde oxidase (AOX) metabolizes many xenobiotics in vitro, but its importance in vivo is usually unknown relative to cytochrome P450s (CYPs) and other detoxification systems.
+Currently, the most important insecticides are neonicotinoids, which are metabolized in vitro by AOX on reduction of the nitroimino group and by CYPs via oxidation reactions.
+The goal of this study was to establish the relative importance of AOX and CYPs in vivo using the mouse model.
+The procedure was to reduce liver AOX activity by providing tungsten or hydralazine in the drinking water or to use the AOX-deficient DBA/2 mouse strain.
+None of these approaches reduced CYP activity measured in vitro with an isozyme nonspecific substrate.
+Liver AOX activity was reduced by 45% with tungsten and 61% with hydralazine and 81% in AOX-deficient mice relative to controls.
+When mice were treated ip with the major neonicotinoid imidacloprid (IMI), metabolism by CYP oxidation reactions was not appreciably affected, whereas the AOX-generated nitrosoguanidine metabolite was decreased by 30% with tungsten and 56% with hydralazine and 86% in the AOX-deficient mice.
+The other IMI nitroreduction metabolite, desnitro-IMI, was decreased by 55%, 65%, and 81% with tungsten, hydralazine, and in the AOX-deficient mice, respectively.
+Thus, decreasing liver AOX activity by three quite different procedures gave a corresponding decrease for in vivo reductive metabolites in the liver of IMI-treated mice.
+Possible AOX involvement in IMI metabolism in insects was evaluated using AOX-expressing and AOX-deficient Drosophila, but no differences were found in IMI nitroreduction or sensitivity between the two strains.
+This is the first study to establish the in vivo relevance of AOX in neonicotinoid metabolism in mammals and one of the first for xenobiotics in general.

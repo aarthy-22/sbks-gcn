@@ -1,0 +1,8 @@
+Regulation of connexin hemichannel activity by membrane potential and the extracellular calcium in health and disease.
+Connexins are thought to solely mediate cell-to-cell communication by forming gap junction channels composed of two membrane-spanning hemichannels positioned end-to-end.
+However, many if not all connexin isoforms also form functional hemichannels (i.e., the precursors of complete channels) that mediate the rapid exchange of ions, second messengers and metabolites between the cell interior and the interstitial space.
+Electrical and molecular signaling via connexin hemichannels is now widely recognized to be important in many physiological scenarios and pathological conditions.
+Indeed, mutations in connexins that alter hemichannel function have been implicated in several diseases.
+Here, we present a comprehensive overview of how hemichannel activity is tightly regulated by membrane potential and the external calcium concentration.
+In addition, we discuss the genetic mutations known to alter hemichannel function and their deleterious effects, of which a better understanding is necessary to develop novel therapeutic approaches for diseases caused by hemichannel dysfunction.
+This article is part of a Special Issue entitled 'Connexin based channels'.

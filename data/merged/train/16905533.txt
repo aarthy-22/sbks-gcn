@@ -1,0 +1,9 @@
+Phosphorylation and up-regulation of diacylglycerol kinase gamma via its interaction with protein kinase C gamma.
+Diacylglycerol (DAG) acts as an allosteric activator of protein kinase C (PKC) and is converted to phosphatidic acid by DAG kinase (DGK).
+Therefore, DGK is thought to be a negative regulator of PKC activation.
+Here we show molecular mechanisms of functional coupling of the two kinases.
+gammaPKC directly associated with DGKgamma through its accessory domain (AD), depending on Ca2+ as well as phosphatidylserine/diolein in vitro.
+Mass spectrometric analysis and mutation studies revealed that gammaPKC phosphorylated Ser-776 and Ser-779 in the AD of DGKgamma.
+The phosphorylation by gammaPKC resulted in activation of DGKgamma because a DGKgamma mutant in which Ser-776 and Ser-779 were substituted with glutamic acid to mimic phosphorylation exhibited significantly higher activity compared with wild type DGKgamma and an unphosphorylatable DGKgamma mutant.
+Importantly, the interaction of the two kinases and the phosphorylation of DGKgamma by gammaPKC could be confirmed in vivo, and overexpression of the AD of DGKgamma inhibited re-translocation of gammaPKC.
+These results demonstrate that localization and activation of the functionally correlated kinases, gammaPKC and DGKgamma, are spatio-temporally orchestrated by their direct association and phosphorylation, contributing to subtype-specific regulation of DGKgamma and DAG signaling.

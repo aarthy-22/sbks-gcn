@@ -1,0 +1,7 @@
+The role of omega-3 derived resolvins in arthritis.
+Omega-3 polyunsaturated fatty acids (PUFAs) are known to alleviate joint stiffness and pain in rheumatoid arthritis patients.
+However, the mechanisms by which omega-3s exert their beneficial effects has not been fully explored.
+Herein we discuss a novel class of bioactive lipid mediators, which are enzymatically biosynthesized in vivo from omega-3 eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), termed resolvins.
+These lipid mediators exert anti-inflammatory and pro-resolving properties and are log-orders more potent than their precursors.
+We also highlight that formation of pro-resolving mediators can be enhanced by widely used anti-inflammatory and cardioprotective drugs (aspirin and statins) via the modification of cyclooxygenase-2 enzymatic activity.
+These bioactive pro-resolving lipid mediators provide further rationale for the beneficial effects of dietary supplementation with fish oils, and offer new avenues for developing therapeutics for inflammatory conditions such as rheumatoid arthritis.

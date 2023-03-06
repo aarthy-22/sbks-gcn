@@ -1,0 +1,10 @@
+Vesicular monoamine transporter-1 (VMAT-1) mRNA and immunoreactive proteins in mouse brain.
+OBJECTIVE: Vesicular monoamine transporter 1 (VMAT-1) mRNA and protein were examined (1) to determine whether adult mouse brain expresses full-length VMAT-1 mRNA that can be translated to functional transporter protein and (2) to compare immunoreactive VMAT-1 proteins in brain and adrenal.
+METHODS: VMAT-1 mRNA was detected in mouse brain with RT-PCR.
+The cDNA was sequenced, cloned into an expression vector, transfected into COS-1 cells, and cell protein was assayed for VMAT-1 activity.
+Immunoreactive proteins were examined on western blots probed with four different antibodies to VMAT-1.
+RESULTS: Sequencing confirmed identity of the entire coding sequences of VMAT-1 cDNA from mouse medulla oblongata/pons and adrenal to a Gen-Bank reference sequence.
+Transfection of the brain cDNA into COS-1 cells resulted in transporter activity that was blocked by the VMAT inhibitor reserpine and a proton ionophore, but not by tetrabenazine, which has a high affinity for VMAT-2.
+Antibodies to either the C- or N- terminus of VMAT-1 detected two proteins (73 and 55 kD) in transfected COS-1 cells.
+The C-terminal antibodies detected both proteins in extracts of mouse medulla/pons, cortex, hypothalamus, and cerebellum but only the 73 kD protein and higher molecular weight immunoreactive proteins in mouse adrenal and rat PC12 cells, which are positive controls for rodent VMAT-1.
+CONCLUSIONS: These findings demonstrate that a functional VMAT-1 mRNA coding sequence is expressed in mouse brain and suggest processing of VMAT-1 protein differs in mouse adrenal and brain.

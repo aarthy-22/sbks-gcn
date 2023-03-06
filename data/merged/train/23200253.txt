@@ -1,0 +1,5 @@
+Further exploration of M₁ allosteric agonists: subtle structural changes abolish M₁ allosteric agonism and result in pan-mAChR orthosteric antagonism.
+This letter describes the further exploration of two series of M(1) allosteric agonists, TBPB and VU0357017, previously reported from our lab.
+Within the TPBP scaffold, either electronic or steric perturbations to the central piperidine ring led to a loss of selective M(1) allosteric agonism and afforded pan-mAChR antagonism, which was demonstrated to be mediated via the orthosteric site.
+Additional SAR around a related M(1) allosteric agonist family (VU0357017) identified similar, subtle 'molecular switches' that modulated modes of pharmacology from allosteric agonism to pan-mAChR orthosteric antagonism.
+Therefore, all of these ligands are best classified as bi-topic ligands that possess high affinity binding at an allosteric site to engender selective M(1) activation, but all bind, at higher concentrations, to the orthosteric ACh site, leading to non-selective orthosteric site binding and mAChR antagonism.

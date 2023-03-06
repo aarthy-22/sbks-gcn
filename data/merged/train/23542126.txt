@@ -1,0 +1,11 @@
+Oxidative status in ICU patients with septic shock.
+The aim of this pilot study was to investigate variability of oxidative stress during sepsis evolution.
+ICU patients with the diagnosis of septic shock were included.
+Thiobarbituric-acid reactive substances, total antioxidant capacity, protein carbonyls in plasma, reduced, oxidized glutathione and catalase activity in erythrocyte lysate were assessed in the 1st, 3rd, 5th and 8thday after sepsis appearance.
+A total of 17 patients were divided in two groups: survivors (n=7) and non-survivors (n=10).
+APACHE II was 11.5±5.4 and 19.9±4.97 in survivors and non-survivors respectively (p=0.005), while mean age and SOFA score at sepsis diagnosis, were similar between the two groups.
+GSH levels, catalase activity and protein carbonyls presented significant different course in time between survivors and non-survivors (p<0.05).
+Catalase activity was significantly higher in survivors (238.8±51.5) than non-survivors (166.4±40.2; p=0.005), while protein carbonyls levels were significantly lower in survivors (0.32±0.09) than non-survivors (0.48±0.16; p=0.036) on the 1stday.
+Yet, non-survivors exhibited a declining course in GSH levels during time, while GSH levels were maintained in survivors.
+Conclusively, a longstanding antioxidant deficiency in non-surviving patients was noted.
+This phenomenon was clearly prominent in patients' erythrocytes.

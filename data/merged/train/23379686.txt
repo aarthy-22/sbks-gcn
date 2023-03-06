@@ -1,0 +1,9 @@
+Self-aggregation properties of ionic liquid 1,3-didecyl-2-methylimidazolium chloride in aqueous solution: from spheres to cylinders to bilayers.
+The self-aggregation behavior of the double-chained ionic liquid (IL) 1,3-didecyl-2-methylimidazolium chloride ([C10C10mim]Cl) in aqueous solution has been investigated with a number of different experimental techniques.
+Two cmc values (cmc1 and cmc2) are obtained from conductivity measurements.
+The fraction of neutralized charge on the micellar surface suggests that cmc1 corresponds to the formation of spherical micelles and cmc2 to the transition from spherical to cylindrical micelles.
+Data obtained from fluorescence spectroscopy (using pyrene and Nile red as chemical probes), fluorescence anisotropy (using rhodamine B as probe), and chemical shift (1)H NMR (in D2O) provide a picture that is also consistent with a sphere-to-cylinder transition.
+This structural change is further confirmed by diffusion-ordered NMR spectroscopy (DOSY), from the self-diffusion coefficients for surfactant unimer and aggregates.
+Furthermore, a third evolution from cylindrical micelles to bilayer aggregates is proposed from the analysis of diffusion coefficients at high surfactant concentration ([IL] > 0.2 M).
+Phase scanning experiments performed with polarized light microscopy clearly demonstrate the presence of a lamellar liquid crystalline phase at very high IL concentration, thus confirming the coexistence of bilayer structures with elongated micelles, found at lower concentration.
+Additionally, [C10C10mim]Cl micelles are proposed as novel reaction media, as evidenced by the solvolysis reaction of 4-methoxybenzenesulfonyl chloride (MBSC).

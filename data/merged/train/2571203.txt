@@ -1,0 +1,6 @@
+Differential IL-2 receptor expression in renal allograft recipients treated with an anti-IL-2-receptor antibody.
+Patients were entered into a randomized trial of prophylaxis for renal allograft rejection by the administration of an anti-human IL-2 receptor antibody, anti-Tac, during the first ten days posttransplant.
+Interleukin-2 receptor (IL-2 R) expression was measured using two anti-IL-2 R monoclonal antibodies (moAbs), anti-Tac and 1HT4-4H3.
+These two antibodies recognize closely spaced epitopes on the 55 kD chain of the IL-2 R. IL-2 R expression was examined on peripheral blood small lymphocytes in three groups of patients who received: (A) cyclosporine CsA and prednisone for baseline immunosuppression (n = 9); (B) anti-Tac with CsA and prednisone as baseline immunosuppression (n = 12); and (C) anti-Tac with azathioprine and prednisone as baseline immunosuppression (n = 5).
+We found that large numbers of T cells express IL-2 receptors despite the presence of anti-Tac (average of IL-2 R-positive cells at day of peak IL-2 R expression 56.0 +/- 20.8% in group A, 65.2 +/- 26.6% in group B, 21.0 +/- 7.4% in group C).
+IL-2 R expression did not correlate with clinical activity, and the presence or accessibility of epitopes on the same 55 kD chain varied dramatically from patient to patient.

@@ -1,0 +1,13 @@
+Human UGT2B10 in Drug N-glucuronidations: Substrate Screening and Comparison with UGT1A3 and UGT1A4.
+Recent observations revealed that human UDP-glucuronosyltransferase (UGT) 2B10 catalyzes N-glucuronidation of amine-containing compounds.
+Knowledge of the substrate specificity and clinical significance of UGT2B10 is still limited.
+The purpose of this study was to expand the knowledge of UGT2B10 substrates and to evaluate its significance in drug clearance.
+Using recombinant UGT2B10, we found that it catalyzes the N-glucuronidation of amitriptyline, imipramine, ketotifen, pizotifen, olanzapine, diphenhydramine, tamoxifen, ketoconazole and midazolam.
+These are drugs that were previously reported to be substrates for UGT1A4 or UGT1A3 and that contain in their structure either tertiary aliphatic amines, cyclic amines, or an imidazole group.
+UGT2B10 was inactive in the glucuronidation of desipramine, nortriptyline, carbamazepine and afloqualone.
+This group of drugs contains secondary or primary amines, and these results suggest that UGT2B10 preferably conjugates tertiary amines.
+This preference is partial because UGT2B10 did not conjugate the tertiary cyclic amine in trifluoperazine.
+Kinetic analyses revealed that the affinity and clearance of UGT2B10 for amitriptyline, imipramine, and diphenhydramine are significantly higher than the corresponding values of UGT1A4 and UGT1A3, although the Vmax values of UGT1A4 toward these drugs are considerably higher.
+These findings suggest that UGT2B10 plays a major role in the N-glucuronidation of these drugs at therapeutic concentrations.
+These results are also supported by inhibition studies with nicotine and hecogenin.
+In conclusion, this study expands the understanding of the substrate specificity of UGT2B10, highlighting its preference for tertiary amines with higher affinities and clearance values than those of UGT1A4 and UGT1A3.

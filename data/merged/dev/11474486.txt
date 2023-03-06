@@ -1,0 +1,10 @@
+Peroxisome proliferator-activated receptor subtype-specific regulation of hepatic and peripheral gene expression in the Zucker diabetic fatty rat.
+Fibrates and thiazolidinediones are used clinically to treat hypertriglyceridemia and hyperglycemia, respectively.
+Fibrates bind to the peroxisome proliferator-activated receptor (PPAR)-alpha, and thiazolidinediones are ligands of PPAR-gamma.
+These intracellular receptors form heterodimers with retinoid X receptor to modulate gene transcription.
+To elucidate the target genes regulated by these compounds, we treated Zucker diabetic fatty rats (ZDF) for 15 days with a PPAR-alpha-specific compound, fenofibrate, a PPAR-gamma-specific ligand, rosiglitazone, and a PPAR-alpha/-gamma coagonist, GW2331, and measured the levels of several messenger RNAs (mRNAs) in liver by real-time polymerase chain reaction.
+All 3 compounds decreased serum glucose and triglyceride levels.
+Fenofibrate and GW2331 induced expression of acyl-coenzyme A (CoA) oxidase and enoyl-CoA hydratase and reduced apolipoprotein C-III and phosphoenolpyruvate carboxykinase mRNAs.
+Rosiglitazone modestly increased apolipoprotein C-III mRNA and had no effect on expression of the other 2 genes in the liver but increased the expression of glucose transporter 4 and phosphoenolpyruvate carboxykinase in adipose tissue.
+We identified a novel target in liver, mitogen-activated phosphokinase phosphatase 1, whose down-regulation by PPAR-alpha agonists may improve insulin sensitivity in that tissue by prolonging insulin responses.
+The results of these studies suggest that activation of PPAR-alpha as well as PPAR-gamma in therapy for type 2 diabetes will enhance glucose and triglyceride control by combining actions in hepatic and peripheral tissues.

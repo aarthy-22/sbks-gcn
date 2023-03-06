@@ -1,0 +1,9 @@
+Effect of the genistein metabolite on leptin secretion in murine adipocytes in vitro.
+Soy isoflavonoids have many useful properties.
+However, they are metabolized in vivo, including in humans.
+The effect of the metabolism of soy isoflavonoids on their properties is not fully understood.
+We have isolated the bacterial strain SY8519, which has been shown to metabolize daidzein to O-desmethylangolensin and to produce 2-(4-hydroxyphenyl)propionic acid from genistein.
+According to chiral HPLC analysis, the 2-(4-hydroxyphenyl)propionic acid obtained from the bacterium was optically active.
+To determine the absolute stereochemistry of the microbial product, we prepared (S)-2-(4-hydroxyphenyl)propionic acid from (S)-2-phenylpropionic and concluded that the microbial product had an R-configuration by chiral HPLC analysis.
+We also applied the metabolite to mouse adipocytes and found that 2-HPPA was less effective at reducing leptin secretion than the parent compound genistein.
+Our results suggested that 'O-desmethylangolensin-production' attenuates the effect of soy isoflavonoids by reducing not only the activity of daidzein but also that of genistein.

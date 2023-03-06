@@ -1,0 +1,7 @@
+Matrix Metalloproteinase Inhibitors Based on the 3-Mercaptopyrrolidine Core.
+New series of pyrrolidine mercaptosulfide, 2-mercaptocyclopentane arylsulfonamide, and 3-mercapto-4-arylsulfonamido pyrrolidine matrix metalloproteinase inhibitors (MMPIs) were designed, synthesized, and evaluated.
+Exhibiting unique properties over other MMPIs (e.g., hydroxamates), these newly reported compounds are capable of modulating activities of several MMPs in the low nanomolar range, including MMP-2 (~2 to 50 nM), MMP-13 (~2 to 50 nM), and MMP-14 (~4 to 60 nM).
+Additionally these compounds are selective to intermediate- and deep-pocket MMPs but not shallow-pocketed MMPs (e.g., MMP-1, ~850 to >50,000 nM; MMP-7, ~4,000 to >25,000 nM).
+Our previous work with the mercaptosulfide functionality attached to both cyclopentane and pyrrolidine frameworks demonstrated that the cis-(3S,4R)- stereochemistry was optimal for all of the MMPs tested.
+However, in our newest compounds an interesting shift of preference to the trans- form of the mercaptosulfonamides was observed with increased oxidative stability and biological compatibility.
+We also report several kinetic and biological characteristics showing that these compounds may be used to probe the mechanistic activities of MMPs in disease.

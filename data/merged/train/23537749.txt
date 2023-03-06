@@ -1,0 +1,10 @@
+Combination of essential oils and antibiotics reduce antibiotic resistance in plasmid-conferred multidrug resistant bacteria.
+In this study we investigated the relationship between several selected commercially available essential oils and beta-lactam antibiotics on their antibacterial effect against multidrug resistant bacteria.
+The antibacterial activity of essential oils and antibiotics was assessed using broth microdilution.
+The combined effects between essential oils of cinnamon bark, lavender, marjoram, tea tree, peppermint and ampicillin, piperacillin, cefazolin, cefuroxime, carbenicillin, ceftazidime, meropenem, were evaluated by means of the checkerboard method against beta-lactamase-producing Escherichia coli.
+In the latter assays, fractional inhibitory concentration (FIC) values were calculated to characterize interaction between the combinations.
+Substantial susceptibility of the bacteria toward natural antibiotics and a considerable reduction in the minimum inhibitory concentrations (MIC) of the antibiotics were noted in some paired combinations of antibiotics and essential oils.
+Out of 35 antibiotic-essential oil pairs tested, four of them showed synergistic effect (FIC≤0.5) and 31 pairs showed no interaction (FIC>0.5-4.0).
+The preliminary results obtained highlighted the occurrence of a pronounced synergistic relationship between piperacillin/cinnamon bark oil, piperacillin/lavender oil, piperacillin/peppermint oil as well as meropenem/peppermint oil against two of the three bacteria under study with a FIC index in the range 0.26-0.5.
+The finding highlighted the potential of peppermint, cinnamon bark and lavender essential oils being as antibiotic resistance modifying agent.
+Reduced usage of antibiotics could be employed as a treatment strategy to decrease the adverse effects and possibly to reverse the beta-lactam antibiotic resistance.

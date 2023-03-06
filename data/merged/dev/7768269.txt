@@ -1,0 +1,10 @@
+Discriminative stimulus effects of esteratic local anesthetics in squirrel monkeys.
+A number of esteratic local anesthetics serve as positive reinforcers and produce cocaine-like discriminative stimulus effects in animals.
+It has been suggested that the affinity of these compounds for a site on the dopamine transporter, and not their local anesthetic actions, is responsible for these abuse-related behavioral effects.
+In the present study, three local anesthetics previously shown to be self-administered in animals were examined in squirrel monkeys trained to discriminate cocaine (0.3 mg/kg) from saline in a two-lever, food-reinforced procedure.
+Dimethocaine (0.1-3.0 mg/kg) fully and dose-dependently substituted for cocaine.
+Doses of dimethocaine (1.7 mg/kg) and cocaine (0.3 mg/kg) which produced full (> 80%) substitution for cocaine were administered in combination with the dopamine D1 receptor antagonist SCH 39166 ((-)-trans-6,7,7a,8,9,13b-hexahydro-3-chloro-2-hydroxy-N-methyl-5H -benzo [d]naphtho-(2,1-b)azepine) and the dopamine D2 receptor antagonist raclopride (both at 0.003-0.03 mg/kg).
+SCH 39166 fully blocked the cocaine-like discriminative stimulus effects of dimethocaine and cocaine, but raclopride produced only partial antagonism of cocaine-lever selection.
+In addition, there was some evidence that raclopride blocked cocaine-lever responding produced by a lower dose of dimethocaine.
+In substitution studies, neither procaine (1-10 mg/kg) nor chloroprocaine (1-30 mg/kg) produced cocaine-like effects.
+These results support a role for dopamine in the behavioral effects of some local anesthetics.

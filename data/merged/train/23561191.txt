@@ -1,0 +1,8 @@
+Hepatic biotransformation of alkylresorcinols is mediated via cytochrome P450 and β-oxidation: A proof of concept study.
+Alkylresorcinols (AR) are phenolic lipids present in the bran of some cereals.
+AR may serve as a biomarker for whole grain wheat and rye intake.
+While AR pharmacokinetics and two major metabolites have been reported, the metabolic pathways contributing to their relatively rapid elimination from the circulation remain to be speculative.
+In this study, we investigated if ω- and β-oxidation mediate catabolism of the AR homologue C19:0 to form 3,5-dihydroxybenzoic acid and 3-(3,5-dihydroxyphenyl)-1-propanoic acid (DHPPA), using 3 in vitro platforms, human cytochrome P450 4F2 (CYP4F2), human liver S9, and HepG2 cells.
+One hydroxylated C19:0 metabolite was formed by CYP4F2 and one hydroxylated and one carboxylated C19:0 were tentatively identified after incubation of AR with S9.
+The formation of DHPPA was quantifiable when HepG2 cells were treated with C19:0 for 48h.
+Our results are consistent with a metabolic pathway by which AR are degraded to phenolic acids via CYP4F2-mediated ω-oxidation and subsequent β-oxidation.

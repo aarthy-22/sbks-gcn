@@ -1,0 +1,8 @@
+Androgen receptor CAG repeat length modifies the effect of 2,3,7,8-tetrachlorodibenzo-p-dioxin on receptor activity in human prostate cells.
+Increased incidence of prostate cancer has been reported in men exposed to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD).
+TCDD acts through the aryl hydrocarbon receptor (AhR), which interacts with the androgen receptor (AR).
+The AR gene contains a polymorphic CAG repeat that influences its transcriptional activity.
+We investigated the influence of TCDD on prostate cancer cells (PC-3) and non-tumor prostate cells (PNT1A) on 5α-dihydrotestosterone-activated ARs containing CAG repeats within normal length range (16, 22, and 28).
+The AhR target gene CYP1A1 mRNA expression was induced by TCDD, but was not affected by the AR CAG length.
+TCDD had no effect on AR activity in PC-3 cells, whereas the shortest AR variant was induced by TCDD in PNT1A cells.
+In conclusion, the CAG length dependent effect of TCDD on AR activity in PNT1A, but not in PC-3 cells, indicates as a cell-specific effect of TCDD on AR activity.

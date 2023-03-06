@@ -1,0 +1,11 @@
+Interactions of human organic anion transporters with diuretics.
+The tubular secretion of diuretics in the proximal tubule has been shown to be critical for the action of drugs.
+To elucidate the molecular mechanisms for the tubular excretion of diuretics, we have elucidated the interactions of human organic anion transporters (hOATs) with diuretics using cells stably expressing hOATs.
+Diuretics tested were thiazides, including chlorothiazide, cyclothiazide, hydrochlorothiazide, and trichlormethiazide; loop diuretics, including bumetanide, ethacrynic acid, and furosemide; and carbonic anhydrase inhibitors, including acetazolamide and methazolamide.
+These diuretics inhibited organic anion uptake mediated by hOAT1, hOAT2, hOAT3, and hOAT4 in a competitive manner.
+hOAT1 exhibited the highest affinity interactions for thiazides, whereas hOAT3 did those for loop diuretics.
+hOAT1, hOAT3, and hOAT4 but not hOAT2, mediated the uptake of bumetanide.
+hOAT3 and hOAT4, but not hOAT1 mediated the efflux of bumetanide.
+hOAT1 and hOAT3, but not hOAT2 and hOAT4 mediated the uptake of furosemide.
+In conclusion, it was suggested that hOAT1 may play an important role in the basolateral uptake of thiazides, and hOAT3 in the uptake of loop diuretics.
+In addition, it was also suggested that bumetanide taken up by hOAT3 and/or hOAT1 is excreted into the urine by hOAT4.

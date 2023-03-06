@@ -1,0 +1,11 @@
+Polymorphisms in the vitamin D receptor gene and risk of autoimmune thyroid diseases: a meta-analysis.
+Environmental and genetic factors are thought to be involved in the pathogenesis of autoimmune thyroid diseases (AITD), which include Graves' disease, Hashimoto's thyroiditis.
+Polymorphisms of vitamin D receptor (VDR) were implicated in AITDs risk.
+To date, many studies have evaluated the association between a functional polymorphism in the VDR gene and AITDs risk; however, the result is still ambiguous and inconclusive.
+To address the association of VDR gene FokI (rs10735810), TaqI (rs731236), BsmI (rs1544410), and ApaI (rs7975232) polymorphisms with AITD risk by meta-analysis.
+By searching the relevant literature, a total of eight studies were identified and meta-analyzed.
+HWE for each study are checked.
+Crude odds ratios (OR) with 95 % confidence intervals (CIs) were used to assess the strength of association in the allele polymorphism, codominant model, dominant model, and recessive model.
+The result indicates that the BsmI or TaqI polymorphisms is significantly associated with AITD risk (OR = 0.801 95 % CI 0.705, 0.910, Pz = 0.001 for B vs. b; OR = 0.854, 95 % CI 0.757, 0.963, Pz = 0.010 for t vs. T), while the ApaI or FokI polymorphism do not.
+In the subgroup analysis in Europeans, the decreased risk of AITD remained for the B or t variant.
+This gene-based analysis indicates that, based on current evidence from published studies, the cumulative effect of BsmI or TaqI polymorphisms in VDR is significantly associated with AITD.

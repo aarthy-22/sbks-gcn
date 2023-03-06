@@ -1,0 +1,8 @@
+Modified expression of coagulation factor VIII by addition of a glycosylation site at the N terminus of the protein.
+Recently, it was shown that glycoproteins with N-glycans close to the NH(2) terminus can directly enter the calnexin/calreticulin cycle and bypass BiP binding.
+This should allow efficient secretion of glycoproteins such as factor VIII (FVIII) whose secretion is negatively affected by BiP interaction.
+Examination of the glycosylation pattern of the NH(2) terminus of FV and FVIII revealed N-glycans at positions 23 and 27 in FV and at position 41 in FVIII.
+To improve FVIII secretion, a 14-amino-acid-long polypeptide with (G3) or without (G0; control) three N-linked glycosylation consensus sites was inserted upstream of the NH(2) terminus of a B-domain deleted FVIII protein.
+Expression of G3- and G0-constructs in three different cell lines resulted in the same or even higher expression rate of protein as found for the B-domain deleted FVIII.
+However, as demonstrated by Western blot analysis, the G3- as well as the G0-protein variants were mainly retained inside the cells in similar amounts.
+Thus, glycosylation alone does not automatically lead to higher secretion rates, but must be in context to the normal structure of the FVIII protein.

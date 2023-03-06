@@ -1,0 +1,21 @@
+A comparison of the beta1-selectivity of three beta1-selective beta-blockers.
+OBJECTIVE: To determine the relative beta1-selectivity of three beta-blockers (nebivolol, bisoprolol and atenolol), administered orally at normal therapeutic doses, by assessing their impact on the beta2-mediated, haemodynamic and biochemical responses to a terbutaline infusion, which decreases serum potassium and increases serum glucose and insulin.
+METHODS: Twenty-four healthy volunteers (14 men, 10 women), with no history of respiratory disease, attended on five separate occasions; beta-blockers (nebivolol 5 mg, bisoprolol 10 mg, atenolol 50 and 100 mg) or placebo were supplied in random order.
+Three baseline blood samples were collected at 65-85 min post-beta-blocker.
+A 60-min terbutaline infusion was started 90 min after taking the beta-blocker.
+Blood samples were taken and blood pressure and heart rate recorded at 15 min intervals up to 30-min post-infusion.
+Blood samples were analysed for serum potassium, glucose and insulin concentrations.
+RESULTS: Terbutaline increased heart rate.
+Pretreatment with nebivolol caused a modest and non-significant reduction in terbutaline-induced tachycardia whilst bisoprolol produced a more marked effect.
+Atenolol at both 50 and 100 mg doses caused a highly significant reduction in terbutaline-induced tachycardia.
+All active preparations had a comparable impact on the terbutaline-induced increase in systolic blood pressure, but the drugs had no impact on the changes produced in diastolic blood pressure.
+After pretreatment with placebo, the terbutaline infusion caused a significant decrease in serum potassium and increases in serum glucose and insulin.
+Pretreatment with nebivolol had no discernible effect on potassium compared with placebo.
+In contrast, when compared with either placebo or nebivolol, bisoprolol (P < 0.01) and both doses of atenolol (P < 0.001) significantly attenuated the hypokalaemic effect of terbutaline.
+Treatment with nebivolol and bisoprolol modestly but significantly reduced the terbutaline-induced increases in glucose (P < 0.05).
+The blocking effects of both doses of atenolol were highly significant (P < 0.001) when compared with placebo and also significant (P < 0.05 and P < 0.01, respectively) when compared with nebivolol and bisoprolol.
+A similar pattern of responses with the different beta-blocker treatments was observed for the effects on insulin concentrations during the terbutaline infusion.
+CONCLUSION: The beta1-selectivity of three different beta1-blockers has been demonstrated in healthy volunteers using the blocking of biochemical and haemodynamic responses to a beta2 stimulus.
+Terbutaline alone caused an increase in heart rate, a rise in systolic blood pressure, a fall in serum potassium and a rise in both serum glucose and insulin.
+In this study, for both haemodynamic and biochemical responses, atenolol 100 mg had the greatest beta2-blocking effect, nebivolol 5 mg the least.
+Bisoprolol 10 mg and atenolol 50 mg had intermediate effects; bisoprolol was the more beta1-selective of these two.

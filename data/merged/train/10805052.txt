@@ -1,0 +1,11 @@
+Comparison of the AT1-receptor blocker, candesartan cilexetil, and the ACE inhibitor, lisinopril, in fixed combination with low dose hydrochlorothiazide in hypertensive patients.
+AIM: To compare candesartan cilexetil and lisinopril in fixed combination with hydrochlorothiazide with respect to antihypertensive efficacy and tolerability.
+METHODS: This was a double-blind (double-dummy), randomised, parallel group comparison in patients with a mean sitting diastolic blood pressure 95-115 mm Hg on prior antihypertensive monotherapy.
+Treatments were candesartan cilexetil/hydrochlorothiazide 8/12.5 mg once daily (n = 237) and lisinopril/hydrochlorothiazide 10/12.5 mg once daily (n = 116) for 26 weeks.
+The primary efficacy variable was change in trough sitting diastolic blood pressure.
+RESULTS: Changes in mean sitting diastolic blood pressure did not differ significantly between the groups (mean difference 0.5 mm Hg; 95% confidence interval -1.6, 2.7, P = 0.20).
+No significant differences between the groups was found for other haemodynamic variables (sitting systolic blood pressure, standing blood pressure, sitting/erect heart rate, and proportion of responders and controlled patients).
+Both drugs were well tolerated but the proportion of patients with at least one adverse event was significantly greater in the lisinopril group (80% vs 69%, P = 0.020).
+The proportion of patients spontaneously reporting cough (23.1% vs 4.6%) and discontinuing therapy due to adverse events (12.0% vs 5.9%) was also higher in the lisinopril group compared with the candesartan cilexetil group.
+CONCLUSIONS: The fixed combinations of candesartan cilexetil and hydrochlorothiazide 8/12.5 mg and lisinopril and hydrochlorothiazide 10/12.5 mg once daily are equally effective as antihypertensive agents.
+The fixed combination containing candesartan cilexetil is better tolerated than that containing lisinopril.

@@ -1,0 +1,11 @@
+Optimization of brush-like cationic copolymers for nonviral gene delivery.
+Polyethylenimine (PEI) is one of the most broadly used polycations for gene delivery due to its high transfection efficiency and commercial availability but materials are cytotoxic and often polydisperse.
+The goal of current work is to develop an alternative family of polycations based on controlled living radical polymerization (CLRP) and to optimize the polymer structure for efficient gene delivery.
+In this study, well-defined poly(glycidyl methacrylate)(P(GMA)) homopolymers were synthesized using reversible addition-fragmentation chain transfer (RAFT) polymerization followed by decoration using three different types of oligoamines, i.e., tetraethylenepentamine (TEPA), pentaethylenehexamine (PEHA), and tris(2-aminoethyl)amine (TREN), respectively, to generate various P(GMA-oligoamine) homopolycations.
+The effect of P(GMA) backbone length and structure of oligoamine on gene transfer efficiency was then determined.
+The optimal polymer, P(GMA-TEPA)(50), provided comparable transfection efficiency but lower cytotoxicity than PEI.
+P(GMA-TEPA)(50) was then used as the cationic block in diblock copolymers containing hydrophilic N-(2-hydroxypropyl) methacrylamide (HPMA) and oligo(ethylene glycol) monomethyl ether methacrylate (OEGMA).
+Polyplexes of block copolymers were stable against aggregation in physiological salt condition and in Opti-MEM due to the shielding effect of P(HPMA) and P(OEGMA).
+However, the presence of the HPMA/OEGMA block significantly decreased the transfection efficacy of P(GMA-TEPA)(50) homopolycation.
+To compensate for reduced cell uptake caused by the hydrophilic shell of polyplex, the integrin-binding peptide, RGD, was conjugated to the hydrophilic chain end of P(OEGMA)(15)-b-P(GMA-TEPA)(50) copolymer by Michael-type addition reaction.
+At low polymer to DNA ratios, the RGD-functionalized polymer showed increased gene delivery efficiency to HeLa cells compared to analogous polymers lacking RGD.

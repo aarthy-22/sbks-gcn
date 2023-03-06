@@ -1,0 +1,10 @@
+Bioimaging real-time PXR-dependent mdr1a gene regulation in mdr1a.fLUC reporter mice.
+The MDR1 gene encodes P-glycoprotein, a transmembrane drug efflux transporter that confers multidrug resistance in cancer cells and affects drug pharmacokinetics by virtue of its expression in the liver, kidney, and colon.
+Nuclear receptors SXR and CAR are possible master regulators of xenobiotic-inducible MDR1 expression in drug processing organs, but the mechanism of MDR1 regulation has yet to be directly demonstrated in vivo.
+Moreover, it has previously been impossible to determine the sustained or cumulative effect of repeated doses of xenobiotics on in vivo MDR1 expression.
+We previously reported a mouse model containing firefly luciferase (fLUC) knocked into the mdr1a genomic locus, allowing non-invasive bioimaging of intestinal mdr1a gene expression in live animals.
+In the current study, we crossed mdr1a.fLUC mice into the pxr knockout (pxr(-/-)) genetic background and injected mice with pregnenolone-16α-carbonitrile (PCN), a strong PXR ligand, and two therapeutically relevant taxanes, paclitaxel and docetaxel.
+All three agents induced mdr1a.fLUC expression (bioluminescence), but only PCN and docetaxel appeared to act primarily via PXR.
+Luminescence returned to baseline by 24-48 hrs after drug injection and was re-inducible over two additional rounds of drug dosing in pxr(+/+) mice.
+TCPOBOP, a CAR ligand, modestly induced mdr1a.fLUC in pxr(+/+) and pxr(-/-) strains, consistent with CAR's minor role in mdr1a regulation.
+Collectively, these results demonstrate that the mdr1a.fLUC bioimaging model can capture changes in mdr1 gene expression under conditions of repeated xenobiotic treatment in vivo and that it can be used to probe the mechanism of gene regulation in response to different xenobiotic agents.

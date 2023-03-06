@@ -1,0 +1,11 @@
+Gender-specific effects of fluoxetine on hippocampal glucocorticoid receptor phosphorylation and behavior in chronically stressed rats.
+Chronic psychosocial isolation stress (CPSI) modulates glucocorticoid receptor (GR) functioning in Wistar male rat hippocampus (HIPPO) through alteration of nuclear GR phosphorylation and its upstream kinases signaling, which parallels animal depressive-like behavior.
+The current study investigated potential gender specificities regarding the effect of chronic therapy by an antidepressant fluoxetine (FLU) on GR signaling in HIPPO and depressive-like behavior in CPSI animals.
+FLU was administrated to female and male naïve or CPSI rats for 21 days and GR protein, its phosphorylation status and upstream kinases, as well as GR and BDNF mRNA were followed in HIPPO together with animal serum corticosterone (CORT) and depressive-like behavior.
+The results showed that CPSI increased immobility in males versus hyperactivity in females and disrupted nuclear pGR232-Cdk5 pathway and JNK signaling in a gender-specific way.
+In contrast, in both genders CPSI increased the nuclear levels of GR and pGR246 but decreased CORT and mRNA levels of GR and BDNF.
+Concomitant FLU normalized the depressive-like behavior and altered the nuclear pGR232-Cdk5 signaling in a gender-specific manner.
+In both females and males, FLU reversed the nuclear levels of GR and pGR246 without affecting CORT and GR mRNA levels.
+In contrast, FLU exhibited gender-specific effect on BDNF mRNA in CPSI animals, by increasing it in females, but not in males.
+In spite of normalization the total nuclear GR level upon FLU treatment in both gender, down-regulation of GR mRNA is possibly maintained through prevalence of pGR232 isoform only in males.
+The gender-specific alterations of pGR232-Cdk5 signaling and BDNF gene expression in HIPPO and normalization of depressive-like behavior upon FLU treatment distinguishes this signaling pathway as potential future antidepressant target for gender-specific therapy of stress related mood disorders.

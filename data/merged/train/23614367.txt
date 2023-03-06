@@ -1,0 +1,11 @@
+Grb10-mediated Negative Regulation of IGF1R-Activated Signalling Pathway Results in Cognitive Disorder in Diabetic Rats.
+Growth factor receptor-bound protein 10(Grb10)is a Src homology 2 (SH2) domain-containing protein and one of the binding partners for several trans-membrane tyrosine-kinase receptors, including insulin receptor (IR) and insulin-like growth factor-1 receptor (IGF1-R).
+The hippocampus, which is critical for cognitive functions, is one of the main distribution areas of Grb10 in the central nervous system.
+In recent years, diabetic encephalopathy has been defined as a third type of diabetes and the IGF1-IR pathway has been shown to be critical for the neuropathogenic process of cognitive disorder in diabetes.
+However, the role of endogenous Grb10 in regulating the IGF1-IR pathway and neurobehavioral changes is not explicit.
+The objective of this study was to determine the in vivo function of endogenous Grb10 in diabetic encephalopathy and the underlying mechanisms.
+Using stereotaxic surgical techniques and lentiviral vectors expressing specific short hairpin RNA (shRNA), we could steadily knock down Grb10 expression in the hippocampus.
+More importantly, we demonstrated that hippocampus-specific modulation of Grb10 protein levels led to a prominent remission of cognitive disorder, including improvements in both ultrastructural pathology and abnormal neurobehavioural changes.
+Our findings indicate that endogenous overexpression of Grb10 functions as a suppressor of the IGF1-IR pathway, which may represent an important mechanism that regulates cognitive disorder in diabetes.
+This article is protected by copyright.
+All rights reserved.

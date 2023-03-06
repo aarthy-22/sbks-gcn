@@ -1,0 +1,6 @@
+[A new inherited metabolic disease: delta1-pyrroline 5-carboxylate synthetase deficiency].
+delta 1-pyrroline 5-carboxylate synthetase (P5C synthetase) catalyzes the ATP and the NAD(P)H-dependent conversion of L-glutamate to glutamate semialdehyde (GSA) which is the metabolic precursor for proline biosynthesis.
+We described in two siblings a paradoxical hyperammonemia with hypoprolinemia and hypoornithinemia associated to bilateral cataract, mental retardation, joint laxity and skin hyperelasticity.
+We cloned human P5C synthetase-cDNA by database cloning strategy: this cDNA has an open reading frame of 2,385 bases coding for a polypeptide of 795 amino acids.
+Both patients are homozygous for an L396S substitution, this amino acid being highly conserved across species.
+This is the first report of a P5C synthetase deficiency in human.

@@ -1,0 +1,3 @@
+Design and synthesis of 2-substituted benzoxazoles as novel PTP1B inhibitors.
+A series of benzoxazole compounds containing oxamic acid were synthesized and screened for the PTP1B inhibition.
+Compound 31d showed best biochemical potency (Ki) of 6.7μM. Structure-activity relationship were explained with the help of molecular modeling approach.

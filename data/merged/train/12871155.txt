@@ -1,0 +1,6 @@
+Recent developments in the synthesis of acetylcholinesterase inhibitors.
+The acetylcholinesterase (AChE) and butyrylcholinesterase (BuChE) inhibitory activities of a series of pyrano[2,3-b]quinolines (2, 3), [1,8]naphthyridines (5, 6), 4-amino-2,3-diaryl-5,6,7,8-tetrahydrofuro[2,3-b]quinolines (11-13)/ 4-amino-6,7,8,9-tetrahydro-2,3-diphenyl-5H-cyclohepta[e]furo[2,3-b]pyridine (14), 4-amino-5,6,7,8-tetrahydro-2,3-diphenylthieno[2,3-b]quinoline (15)/ 4-amino-6,7,8,9-tetrahydro-2,3-diphenyl-5H-cyclohepta[e]thieno[2,3-b]pyridine (16) are described.
+These compounds are tacrine analogues that have been prepared from readily available polyfunctionalized ethyl [6-amino-5-cyano-4H-pyran]-3-carboxylates (9, 10), ethyl [6-amino-5-cyanopyridine]-3-carboxylates (7, 8), 2-amino-3-cyano-4,5-diarylfurans (17-19) and 2-amino-3-cyano-4,5-diphenylthiophene (20) via Friedlander condensation with selected ketones.
+These compounds are competitive and, in a few cases, non-competitive inhibitors for AChE, the most potent being compound (14), though three-fold less active than tacrine.
+The BuChE inhibitory activity is only significant in compounds 11 and 14, ten-fold less active than tacrine.
+Furthermore, the products 12 and 13 are selective and moderate AChE inhibitors.

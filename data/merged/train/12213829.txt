@@ -1,0 +1,12 @@
+SUR-dependent modulation of KATP channels by an N-terminal KIR6.2 peptide.
+Defining intersubunit gating interactions.
+Ntp and Ctp, synthetic peptides based on the N- and C-terminal sequences of K(IR)6.0, respectively, were used to probe gating of K(IR)6.0/SUR K(ATP) channels.
+Micromolar Ntp dose-dependently increased the mean open channel probability in ligand-free solution (P(O(max))) and attenuated the ATP inhibition of K(IR)6.2/SUR1, but had no effect on homomeric K(IR)6.2 channels.
+Ntp (up to approximately 10(-4) m) did not affect significantly the mean open or "fast," K(+) driving force-dependent, intraburst closed times, verifying that Ntp selectively modulates the ratio of mean burst to interburst times.
+Ctp and Rnp, a randomized Ntp, had no effect, indicating that the effects of Ntp are structure specific.
+Ntp opened K(IR)6.1/SUR1 channels normally silent in the absence of stimulatory Mg(-) nucleotide(s) and attenuated the coupling of high-affinity sulfonylurea binding with K(ATP) pore closure.
+These effects resemble those seen with N-terminal deletions (DeltaN) of K(IR)6.0, and application of Ntp to DeltaNK(ATP) channels decreased their P(O(max)) and apparent IC(50) for ATP in the absence of Mg(2+).
+The results are consistent with a competition between Ntp and the endogenous N terminus for a site of interaction on the cytoplasmic face of the channel or with partial replacement of the deleted N terminus by Ntp, respectively.
+The K(IR) N terminus and the TMD0-L0 segment of SUR1 are known to control the P(O(max)).
+The L0 linker has been reported to be required for glibenclamide binding, and DeltaNK(IR)6.2/SUR1 channels exhibit reduced labeling of K(IR) with (125)I-azidoglibenclamide, implying that the K(IR) N terminus and L0 of SUR1 are in proximity.
+We hypothesize that L0 interacts with the K(IR) N terminus in ligand-inhibited K(ATP) channels and put forward a model, based on the architecture of BtuCD, MsbA, and the KcsA channel, in which TMD0-L0 links the MDR-like core of SUR with the K(IR) pore.

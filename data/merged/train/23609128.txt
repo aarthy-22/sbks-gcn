@@ -1,0 +1,10 @@
+Dynamics and structural changes of small water clusters on ionization.
+Despite utmost importance in understanding water ionization process, reliable theoretical results of structural changes and molecular dynamics (MD) of water clusters on ionization have hardly been reported yet.
+Here, we investigate the water cations [(H2 O)n = 2-6 (+) ] with density functional theory (DFT), Möller-Plesset second-order perturbation theory (MP2), and coupled cluster theory with single, double, and perturbative triple excitations [CCSD(T)].
+The complete basis set limits of interaction energies at the CCSD(T) level are reported, and the geometrical structures, electronic properties, and infrared spectra are investigated.
+The characteristics of structures and spectra of the water cluster cations reflect the formation of the hydronium cation moiety (H3 O(+) ) and the hydroxyl radical.
+Although most density functionals fail to predict reasonable energetics of the water cations, some functionals are found to be reliable, in reasonable agreement with high-level ab initio results.
+To understand the ionization process of water clusters, DFT- and MP2-based Born-Oppenheimer MD (BOMD) simulations are performed on ionization.
+On ionization, the water clusters tend to have an Eigen-like form with the hydronium cation instead of a Zundel-like form, based on reliable BOMD simulations.
+For the vertically ionized water hexamer, the relatively stable (H2 O)5 (+) (5sL4A) cluster tends to form with a detached water molecule (H2 O).
+© 2013 Wiley Periodicals, Inc.

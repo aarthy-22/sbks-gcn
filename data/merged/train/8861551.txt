@@ -1,0 +1,16 @@
+Muromonab CD3: a reappraisal of its pharmacology and use as prophylaxis of solid organ transplant rejection.
+The murine monoclonal antibody muromonab CD3 (OKT3) is directed against the CD3 antigen on peripheral human T cells and effectively blocks all T cell function.
+Prophylaxis with muromonab CD3 (5mg intravenously once daily for 10 to 14 days) as induction therapy together with corticosteroids, azathioprine and delayed cyclosporin (sequential therapy) optimises early graft function by delaying the potentially nephrotoxic and hepatotoxic effects of cyclosporin until graft function is established.
+Although clinical data are limited (by inconsistencies in trial design and trial size), prophylactic muromonab CD3-based sequential therapy is significantly more effective than standard triple therapy in the prophylaxis of allograft rejection in renal and hepatic, but not cardiac, transplant recipients.
+Benefits are particularly notable in patients with delayed graft function.
+No significant between-treatment differences in patient survival have been observed.
+The overall efficacy of muromonab CD3- and polyclonal-based prophylactic regimens appears to be similar, although results vary between investigators and confirmation is needed.
+An anti-interleukin-2 monoclonal antibody-based prophylactic regimen improved graft and patient survival compared with muromonab CD3-based prophylaxis in hepatic transplant recipients.
+Antimuromonab CD3 antibodies may develop; however, muromonab CD3 may be successfully reused in patients with low titres.
+Preliminary pharmacoeconomic data suggest that mean drug costs are greater with quadruple immunosuppressive regimens containing muromonab CD3, antithymocyte globulin (ATG) or antilymphocyte globulin (ALG) than with triple therapy.
+Drug costs with prophylactic muromonab CD3-based regimens were similar or greater than those with polyclonal-based protocols.
+The first doses of muromonab CD3 are associated with the 'cytokine-release syndrome'.
+More severe first-dose events include aseptic meningitis, intragraft thromboses, seizures and potentially fatal pulmonary oedema.
+The incidence and/or severity of cytomegalovirus infection with prophylactic muromonab CD3 based immunosuppression is similar to or greater than that with triple therapy and ATG- or ALG-based regimens.
+However, the risk of infection and also the observed increase in lymphoproliferative disorders appears to be related to the degree of immunosuppression rather than to the drug itself Thus, sequential muromonab CD3-based therapy is more effective than standard triple therapy (in renal and hepatic transplant recipients) and appears to be similar to that of polyclonal-based regimens in the prophylaxis of transplant rejection.
+Although the routine use of prophylactic muromonab CD3 in low-risk patients with primary graft function does not appear to be justified, prophylactic muromonab CD3-based therapy has a role in patients at high risk of rejection.

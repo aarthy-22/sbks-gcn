@@ -1,0 +1,11 @@
+2,3,7,8-Tetrachlorodibenzo-p-dioxin-mediated production of reactive oxygen species is an essential step in the mechanism of action to accelerate human keratinocyte differentiation.
+Chloracne is commonly observed in humans exposed to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD); yet, the mechanism of toxicity is not well understood.
+Using normal human epidermal keratinocytes, we investigated the mechanism of TCDD-mediated enhancement of epidermal differentiation by integrating functional genomic, metabolomic, and biochemical analyses.
+TCDD increased the expression of 40% of the genes of the epidermal differentiation complex found on chromosome 1q21 and 75% of the genes required for de novo ceramide biosynthesis.
+Lipid analysis demonstrated that eight of the nine classes of ceramides were increased by TCDD, altering the ratio of ceramides to free fatty acids.
+TCDD decreased the expression of the glucose transporter, SLC2A1, and most of the glycolytic transcripts, followed by decreases in glycolytic intermediates, including pyruvate.
+NADH and Krebs cycle intermediates were decreased, whereas NAD(+) was increased.
+Mitochondrial glutathione (GSH) reductase activity and the GSH/glutathione disulfide ratio were decreased by TCDD, ultimately leading to mitochondrial dysfunction, characterized by decreased inner mitochondrial membrane potential and ATP production, and increased production of the reactive oxygen species (ROS), hydrogen peroxide.
+Aryl hydrocarbon receptor (AHR) antagonists blocked the response of many transcripts to TCDD, and the endpoints of decreased ATP production and differentiation, suggesting regulation by the AHR.
+Cotreatment of cells with chemical antioxidants or the enzyme catalase blocked the TCDD-mediated acceleration of keratinocyte cornified envelope formation, an endpoint of terminal differentiation.
+Thus, TCDD-mediated ROS production is a critical step in the mechanism of this chemical to accelerate keratinocyte differentiation.

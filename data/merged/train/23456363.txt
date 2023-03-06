@@ -1,0 +1,11 @@
+Hypoxia-inducible factor and vascular endothelial growth factor are targets of dietary soy during acute stroke in female rats.
+Dietary soy and soy isoflavones are neuroprotective in experimental cerebral ischemia.
+Because these isoflavones have estrogenic properties, we hypothesized that, like estrogens, they would inhibit acute vascular injury and the detrimental acute increase in hypoxia-induced vascular endothelial growth factor (VEGF) that leads to cerebral edema after stroke.
+Mature ovariectomized female Sprague Dawley rats were fed soy-free or soy-containing diets for 4 weeks followed by 90 minutes of transient middle cerebral artery occlusion.
+Similar to estrogens, dietary soy significantly reduced cerebral edema and vascular apoptosis 24 hours after stroke.
+Soy also inhibited the ischemia-induced increase in cortical VEGF and VEGF receptor (VEGFR)-2 protein expression observed 4 and 24 hours after stroke, although mRNA levels increased.
+The reduction in VEGF/VEGFR-2 was associated both with decreases in receptor phosphorylation and signaling to AKT and endothelial nitric oxide synthase.
+Furthermore degradation of the VEGFR-2 was increased with dietary soy.
+The primary ischemic stimulus for VEGF, hypoxia-inducible factor 1α (HIF1α), was similarly reduced by dietary soy 4 hours after transient middle cerebral artery occlusion in both the cortex and striatum.
+The inhibition of HIF1α activity was further confirmed by a significant decrease in the HIF1α-activated apoptotic mediator BCL2/adenovirus E1B 19 kDa protein-interacting protein 3 (Nip3-like protein X).
+These data suggest that soy isoflavones target events early in the ischemic cascade as part of their neuroprotective actions and counterbalance some of the detrimental effects of the endogenous response to cerebral injury.

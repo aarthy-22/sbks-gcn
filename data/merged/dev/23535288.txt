@@ -1,0 +1,10 @@
+Aberrant activation of M phase proteins by cell proliferation-evoking carcinogens after 28-day administration in rats.
+We have previously reported that hepatocarcinogens increase liver cells expressing p21(Cip1), a G1 checkpoint protein and M phase proteins after 28-day treatment in rats.
+This study aimed to identify early prediction markers of carcinogens available in many target organs after 28-day treatment in rats.
+Immunohistochemical analysis was performed on Ki-67, p21(Cip1) and M phase proteins [nuclear Cdc2, phospho-Histone H3 (p-Histone H3), Aurora B and heterochromatin protein 1α (HP1α)] with carcinogens targeting different organs.
+Carcinogens targeting thyroid (sulfadimethoxine; SDM), urinary bladder (phenylethyl isothiocyanate), forestomach (butylated hydroxyanisole; BHA), glandular stomach (catechol; CC), and colon (2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine and chenodeoxycholic acid) were examined using a non-carcinogenic toxicant (caprolactam) and carcinogens targeting other organs as negative controls.
+All carcinogens increased Ki-67(+), nuclear Cdc2(+), p-Histone H3(+) or Aurora B(+) carcinogenic target cells, except for both colon carcinogens, which did not increase cell proliferation.
+On the other hand, p21(Cip1+) cells increased with SDM and CC.
+HP1α responded only to BHA.
+Results revealed carcinogens evoking cell proliferation concurrently induced cell cycle arrest at M phase or showing chromosomal instability reflecting aberration in cell cycle regulation, irrespective of target organs, after 28-day treatment.
+Therefore, M phase proteins may be early prediction markers of carcinogens evoking cell proliferation in many target organs.

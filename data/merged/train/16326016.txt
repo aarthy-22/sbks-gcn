@@ -1,0 +1,10 @@
+Estradiol modulation of astrocytic form and function: implications for hormonal control of synaptic communication.
+There is a growing appreciation for the importance of glial cells to overall brain function.
+For decades, glial cells have been considered relatively passive supporters of nerve cell function, providing only structural and metabolic support to the communicating neurons.
+Now, rapidly emerging evidence demonstrates that glial cells are active participants in the processes of synaptic patterning and synaptic transmission.
+Like their neuronal neighbors residing in steroid sensitive brain regions, glial cells demonstrate a responsiveness to gonadal steroids that has been best characterized by physical changes in their morphology.
+However, because of their intimate relationship, the nature of neuronal-glial interactions has been challenging to study in vivo and until recently, the functional relevance of steroid-induced changes in glial morphology to neuroendocrine functions could only be implied from anatomical and in vitro studies.
+The advent of microarray technology offers the potential to uncover steroid regulation of glial-specific genes that may play a role in hormone-dependent neuronal-glial interactions.
+Our microarray analysis of the rodent hypothalamus has revealed that estradiol increases the expression of a number of glial-specific genes, including glutamine synthetase, an enzyme that inactivates glutamate through its conversion to glutamine.
+Given that glutamine is the predominant precursor for releasable pools of glutamate, our observation that estradiol increases glutamine synthetase gene and protein expression suggests that hormonal regulation of glutamate neurotransmission involves hormonally responsive glia.
+Thus, hormonally responsive glia may play a pivotal role in estradiol-mediated synaptic transmission underlying neuroendocrine function.

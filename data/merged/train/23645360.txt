@@ -1,0 +1,11 @@
+Differential regulation of Arabidopsis plastid gene expression and RNA editing in non-photosynthetic tissues.
+RNA editing is one of the post-transcriptional processes that commonly occur in plant plastids and mitochondria.
+In Arabidopsis, 34 C-to-U RNA editing events, affecting transcripts of 18 plastid genes, have been identified.
+Here, we examined the editing and expression of these transcripts in different organs, and in green and non-green seedlings (etiolated, cia5-2, ispF and ispG albino mutants, lincomycin-, and norflurazon-treated).
+The editing efficiency of Arabidopsis plastid transcripts varies from site to site, and may be specifically regulated in different tissues.
+Steady state levels of plastid transcripts are low or undetectable in etiolated seedlings, but most editing sites are edited with efficiencies similar to those observed in green seedlings.
+By contrast, the editing of some sites is completely lost or significantly reduced in other non-green tissues; for instance, the editing of ndhB-149, ndhB-1255, and ndhD-2 is completely lost in roots and in lincomycin-treated seedlings.
+The editing of ndhD-2 is also completely lost in albino mutants and norflurazon-treated seedlings.
+However, matK-640 is completely edited, and accD-794, atpF-92, psbE-214, psbF-77, psbZ-50, and rps14-50 are completely or highly edited in both green and non-green tissues.
+In addition, the expression of nucleus-encoded RNA polymerase dependent transcripts is specifically induced by lincomycin, and the splicing of ndhB transcripts is significantly reduced in the albino mutants and inhibitor-treated seedlings.
+Our results indicate that plastid gene expression, and the splicing and editing of plastid transcripts are specifically and differentially regulated in various types of non-green tissues.

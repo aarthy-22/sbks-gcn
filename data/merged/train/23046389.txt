@@ -1,0 +1,15 @@
+Interspecies variation in the metabolism of zoniporide by aldehyde oxidase.
+1. Aldehyde oxidase (AO) is a cytosolic enzyme that contributes to the Phase I metabolism of xenobiotics in human and preclinical species.
+2. Current studies explored in vitro metabolism of zoniporide in various animal species and humans using S9 fractions.
+The animal species included commonly used pharmacology and toxicology models and domestic animals such as the cat, cow or bull, pig and horse.
+3.
+ In addition, gender and strain differences in some species were also explored.
+4. All animals except the dog and cat converted zoniporide to 2-oxozoniporide (M1).
+5. Michael-Menten kinetic studies were conducted in species that turned over zoniporide to M1.
+6.
+ Marked differences in KM, Vmax and Clint were observed in the oxidation of zoniporide.
+7.
+ Although the KM and Vmax of zoniporide oxidation in male and female human S9 was similar, some gender difference was observed in animals especially, in Vmax.
+8.
+ 
+The domestic animals also showed marked species differences in the AO activity and affinity toward zoniporide.

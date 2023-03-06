@@ -1,0 +1,11 @@
+Increased cyclooxygenase-2 expression in human pancreatic carcinomas and cell lines: growth inhibition by nonsteroidal anti-inflammatory drugs.
+Cyclooxygenase (COX)-2 mRNA and protein expression were found to be frequently elevated in human pancreatic adenocarcinomas and cell lines derived from such tumors.
+Immunohistochemistry demonstrated cytoplasmic COX-2 expression in 14 of 21 (67%) pancreatic carcinomas.
+The level of COX-2 mRNA was found to be elevated in carcinomas, relative to histologically normal pancreas from a healthy individual, as assessed by reverse transcription-PCR.
+COX-2 protein expression was detected by the Western blot assay in three of five pancreatic carcinoma cell lines (BxPC-3, Capan-1, and MDAPanc-3), whereas COX-1 protein was detected in two of the five cell lines (BxPC-3 and Capan-1).
+Increased levels of COX-2 mRNA were found in four of five cell lines, and only in PANC-1 cells was the low level of transcript comparable to that in the normal pancreas.
+The level of COX-2 mRNA was positively correlated with the differentiation status of the tumor of origin for each cell line, COX-2 protein expression was up-regulated by epidermal growth factor when the cells were grown in absence of serum.
+Finally, two nonsteroidal anti-inflammatory drugs, sulindac sulfide and NS398, produced a dose-dependent inhibition of cell proliferation in all pancreatic cell lines tested.
+No correlation was found between the level of COX-2 or COX-1 expression and the extent of growth inhibition.
+Treatment of BxPC-3 cells with sulindac sulfide and NS398 resulted in an induction of COX-2 expression.
+Our findings indicate that COX-2 up-regulation is a frequent event in pancreatic cancers and suggest that nonsteroidal anti-inflammatory drugs may be useful in the chemoprevention and therapy of pancreatic carcinoma.

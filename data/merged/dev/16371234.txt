@@ -1,0 +1,13 @@
+Involvement of COX-1 and up-regulated prostaglandin E synthases in phosphatidylserine liposome-induced prostaglandin E2 production by microglia.
+After engulfment of apoptotic cells through phosphatidylserine (PS)-mediated recognition, microglia secrete prostaglandin E2 (PGE2), a potent anti-inflammatory molecule in the central nervous system.
+Despite the clinical significance, the mechanism underlying PGE2 production by phagocytosis of apoptotic cells is poorly understood.
+In the present study, we used PS liposomes to elucidate the phagocytic pathway for PGE2 production in microglia, because PS liposomes mimic the effects of apoptotic cells on microglia/macrophages.
+The level of PGE2 in the culture medium of primary cultured rat microglia was significantly increased by PS liposomes treatment but not by phosphatidylcholine liposomes treatment.
+The specific ligand for class B scavenger receptor (SR-B), high density lipoprotein, significantly suppressed PS liposome-induced PGE2 production.
+PS liposomes were immediately phagocytosed by microglia and sorted to endosomes/lysosomes.
+Cyclooxygenase (COX)-2 and membrane-bound prostaglandin E synthase-1 (mPGES-1) were induced by treatment with lipopolysaccharide (LPS) but not with PS liposomes.
+On the other hand, mPGES-2 and cytosolic PGES (cPGES) that are functionally coupled with COX-1 were upregulated after treatment with PS liposomes or LPS.
+Furthermore, PS liposome-induced PGE2 production was significantly suppressed by indomethacin, a preferential COX-1 inhibitor, but not by NS-398, a selective COX-2 inhibitor.
+PS liposomes induced activation of p44/p42 extracellular signal-regulated kinase (ERK) but not p38 mitogen-activated protein kinase in SR-BI independent manner.
+These observations strongly suggest that the up-regulation of terminal PGESs that are preferentially coupled with COX-1, especially mPGES-2, plays the pivotal role in PS liposome-induced PGE2 production by microglia.
+Although SR-BI plays an essential role in PS liposome-induced PGE2 production, other PS-recognizing receptors, possibly PS-specific receptor, could also promote PGE2 production by transducing intracellular signals including p44/p42 ERK after PS liposomes treatment.

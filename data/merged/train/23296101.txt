@@ -1,0 +1,13 @@
+Lack of transient receptor potential melastatin 8 activation by phthalate esters that enhance contact hypersensitivity in mice.
+We studied the involvement of sensory neurons in skin sensitization to allergens using a mouse model in which the T-helper type 2 response is essential.
+Skin sensitization to fluorescein isothiocyanate (FITC) has been shown to be enhanced by several phthalate esters, including dibutyl phthalate (DBP).
+For different types of phthalate esters, we found a correlation between the ability of transient receptor potential (TRP) A1 activation and that of enhancing skin sensitization.
+A TRPA1-specific antagonist, HC-030031, was shown to suppress skin sensitization in the presence of DBP.
+However, since phthalate esters also activate TRPV1, phthalate esters could activate other types of TRP channels non-selectively.
+Furthermore, sensitization to FITC is also enhanced by menthol, which activates TRPA1 and TRPM8.
+Here we established an in vitro system for measuring TRPM8 activation.
+The selectivity for TRPM8 was established by the fact that two TRPM8 agonists (menthol and icilin) induced calcium mobilization, whereas agonists of TRPA1 and TRPV1 did not.
+We demonstrated that phthalate esters do not activate TRPM8.
+TRPA1-antagonist HC-030031 did not inhibit TRPM8 activation induced by menthol or icilin.
+These results show that phthalate esters activate TRPA1 and TRPV1 with selectivity.
+TRPM8 activation is not likely to be involved in the sensitization to FITC.

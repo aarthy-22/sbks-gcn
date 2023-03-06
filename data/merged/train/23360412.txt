@@ -1,0 +1,11 @@
+Bioactivation of the nasal toxicant 2,6-dichlorobenzonitrile: an assessment of metabolic activity in human nasal mucosa and identification of indicators of exposure and potential toxicity.
+The herbicide 2,6-dichlorobenzonitrile (DCBN) is a potent nasal toxicant in rodents; however, it is not known whether DCBN causes similar nasal toxicity in humans.
+The tissue-selective toxicity of DCBN in mouse nasal mucosa is largely dependent on target tissue bioactivation by CYP2A5.
+The human orthologues of CYP2A5, CYP2A6 and CYP2A13, are both expressed in nasal mucosa and are capable of activating DCBN.
+In this study, we directly determined the ability of human nasal mucosa to bioactivate DCBN.
+We also tested the suitability of a glutathione conjugate of DCBN (GS-DCBN) or its derivatives as biomarkers of DCBN exposure and nasal toxicity in mouse models.
+We found that human fetal nasal mucosa microsomes catalyze the formation of GS-DCBN, with a Km value comparable to that of adult mouse nasal mucosa microsomes.
+The activity of the human nasal mucosa microsomes was inhibited by 8-methoxypsoralen, a known CYP2A inhibitor.
+GS-DCBN and its metabolites were detected in the nasal mucosa and nasal-wash fluid obtained from DCBN-treated mice, in amounts that increased with escalations in DCBN dose, and they were all still detectable at 24 h after a DCBN treatment (at 10 mg/kg).
+Further studies in Cyp2a5-null mice indicated that GS-DCBN and its metabolites in nasal-wash fluid were generated in the nasal mucosa, rather than in other organs.
+Thus, our data indicate for the first time that the human nasal mucosa is capable of bioactivating DCBN and that GS-DCBN and its metabolites in nasal-wash fluid may collectively serve as indicators of DCBN exposure and potential nasal toxicity in humans.

@@ -1,0 +1,11 @@
+A membrane vesicle-based assay to enable prediction of human biliary excretion.
+Abstract 1.
+Prediction of biliary excretion is a challenge due to the lack of in vitro assays.
+Our laboratory previously demonstrated a highly significant correlation between in vitro IC(50) values against mrp2 using rat canalicular liver plasma membrane vesicles and in vivo biliary excretion (Colombo et al., 2012).
+This study explores the possibility of predicting in vivo biliary excretion in human using membrane vesicles prepared from MDCKII cells transfected with human ABCC2.
+2. In vitro MRP2 activity was determined by measuring the ATP-dependent uptake of 5(6)-carboxy-2',7'-dichlorofluorescein (CDCF) in inside-out membrane vesicles isolated from MDCK-ABCC2 cells.
+CDCF uptake was time- and concentration-dependent (K(m) of 4.0 ± 1.2 µM and a V(max) of 7.8 ± 0.9 pmol/mg/min) and inhibited by benzbromarone and MK-571 with IC(50) values of 1.2 and 7.6 µM, respectively.
+3.
+A significant linear correlation (r(2 )= 0.790) between the in vitro IC(50) values from the described MRP2 assay and in vivo biliary excretion in humans was observed using 11 well-documented drugs covering low to high biliary excretions.
+4.
+This study demonstrates, for the first time, that inhibition of CDCF uptake in MDCKII-ABCC2 vesicles not only provides a screening assay to assess MRP2 drug-drug interaction potential, but is also predictive of human MRP2-mediated biliary excretion.

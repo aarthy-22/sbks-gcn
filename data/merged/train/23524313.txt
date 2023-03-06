@@ -1,0 +1,8 @@
+Hypocholesterolemic effect of daily fisetin supplementation in high fat fed Sprague-Dawley rats.
+We aimed to test whether fisetin could modulate cholesterol homeostasis in rats with diet-induced hypercholesterolemia, and further investigated the underlying mechanisms by which fisetin exerts its cholesterol lowering effect.
+Blood lipid profile, hepatic cholesterol content, as well as gene expressions in cholesterol metabolism were examined.
+Elevated levels of total cholesterol and LDL-cholesterol, along with hepatic cholesterol content in a high fat group were found to be significantly reduced by fisetin.
+The high fat diet significantly decreased hepatic mRNA levels of LDLR, SREBP2, HMGCR and PCSK9 in comparison to the control diet, however, fisetin did not further elicit any changes in mRNA levels of the same genes.
+The high fat diet dramatically increased the transcript levels of CYP7A1, which was subsequently reversed by the fisetin.
+In HepG2 cells, fisetin was found to increase the levels of a nuclear form of SREBP2 and LDLR.
+In conclusion, fisetin supplementation displayed hypocholesterolemic effects by modulating the expression of genes associated with cholesterol and bile acid metabolism.

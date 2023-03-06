@@ -1,0 +1,7 @@
+Ergovaline binding and activation of D2 dopamine receptors in GH4ZR7 cells.
+Ergovaline inhibition of radioligand binding to the D2 dopamine receptor and ergot alkaloid inhibition of vasoactive intestinal peptide (VIP)-stimulated cyclic AMP production in GH4ZR7 cells, stably transfected with a rat D2 dopamine receptor, were evaluated.
+Ergovaline inhibition of the binding of the D2-specific radioligand, [3H]YM-09151-2, exhibited a KI (inhibition constant) of 6.9 +/- 2.6 nM, whereas dopamine was much less potent (370 +/- 160 nM).
+Ergot alkaloids were also effective in inhibiting VIP-stimulated cyclic AMP production, with EC50 values for ergovaline, ergonovine, alpha-ergocryptine, ergotamine, and dopamine of 8 +/- 2, 47 +/- 2, 28 +/- 2, 2 +/- 1, and 8 +/- 1 nM, respectively.
+Inhibition of cyclic AMP production by ergovaline was blocked by the dopamine receptor antagonist, (-)-sulpiride (IC50, 300 +/- 150 nM).
+Our results indicate that ergot compounds, especially ergovaline, bind to D2 dopamine receptors and elicit second messenger responses similar to that of dopamine.
+These findings suggest that some of the deleterious effects of consumption of endophyte-infected tall fescue, which contains several ergot alkaloids including ergovaline, may be due to D2 dopamine receptor activation.

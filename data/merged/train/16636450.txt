@@ -1,0 +1,7 @@
+Soy protein suppresses gene expression of acetyl-coA carboxylase alpha from promoter PI in rat liver.
+Dietary soy protein isolate (SPI) reduces hepatic lipogenesis by suppressing gene expression of lipogenic enzymes, including acetyl-CoA carboxylase (ACC).
+In order to elucidate the mechanism of this regulation, the effect of dietary SPI on promoter (PI and PII) specific gene expression of ACC alpha was investigated.
+Rats were fed experimental diets containing SPI or casein as a nitrogen source.
+SPI feeding decreased the hepatic contents of total ACC mRNA as well as triglyceride (TG) content, but dietary SPI affected the amount of sterol-regulatory element binding protein (SREBP)-1 mRNA and protein very little.
+The amount of ACC mRNA transcribed from PII promoter containing SRE was not significantly affected by dietary protein, while a significant decrease in PI-generated ACC mRNA content was observed in rats fed the SPI diet.
+These data suggest that SPI feeding decreased the hepatic contents of ACC alpha mRNA mainly by regulating PI promoter via a nuclear factor(s) other than SREBP-1.

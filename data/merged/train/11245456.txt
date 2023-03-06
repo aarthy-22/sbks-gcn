@@ -1,0 +1,10 @@
+Pharmacological inhibition of fatty acid synthase activity produces both cytostatic and cytotoxic effects modulated by p53.
+Fatty acid synthetic metabolism is abnormally elevated in tumor cells, and pharmacological inhibitors of the anabolic enzyme fatty acid synthase (FAS), including the natural product cerulenin and the novel synthetic compound c75, are selective inhibitors of tumor cell growth.
+We have recently reported that these two FAS inhibitors both produce rapid, potent inhibition of DNA replication and S-phase progression in human cancer cells, as well as apoptotic death.
+Here we report an additional characterization of the cellular response to FAS inhibition.
+RKO colon carcinoma cells were selected for study because they undergo little apoptosis within the first 24 h after FAS inhibition.
+Instead, RKO cells exhibited a biphasic stress response with a transient accumulation in S and G2 at 4 and 8 h that corresponds to a marked reduction in cyclin A- and B1-associated kinase activities, and then by accumulation of p53 and p21 proteins at 16 and 24 h and growth arrest in G1 and G2.
+The response of RKO cells to FAS inhibition resembled a genotoxic stress response, but DNA damage did not appear to be an important downstream effect of FAS inhibition, because none was detected using the single cell gel electrophoresis assay (comet assay) to assess DNA damage.
+p53 function is probably important in protecting RKO cells from FAS inhibition because, similar to many other tumor lines, RKO cells expressing a dominant negative mutant p53 gene underwent extensive apoptosis within 24 h after FAS inhibition.
+Sensitization of cells to FAS inhibitors by the loss of p53 raises the possibility that these agents may be clinically useful against malignancies carrying p53 mutations.
+Whereas induction of apoptosis appeared related to accumulation of the substrate, malonyl-CoA, after FAS inhibition, the cytostatic effects were independent of malonyl-CoA accumulation and may have resulted from product depletion.

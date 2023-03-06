@@ -1,0 +1,10 @@
+Purification and biochemical characterization of some of the properties of recombinant human kynureninase.
+Recombinant human kynureninase (L-kynurenine hydrolase, EC 3.7.1.3) was purified to homogeneity (60-fold) from Spodoptera frugiperda (Sf9) cells infected with baculovirus containing the kynureninase gene.
+The purification protocol comprised ammonium sulfate precipitation and several chromatographic steps, including DEAE-Sepharose CL-6B, hydroxyapatite, strong anionic and cationic separations.
+The purity of the enzyme was determined by SDS/PAGE, and the molecular mass verified by MALDI-TOF MS.
+The monomeric molecular mass of 52.4 kDa determined was > 99.99% of the predicted molecular mass.
+A UV absorption spectrum of the holoenzyme resulted in a peak at 432 nm.
+The optimum pH was 8.25 and the enzyme displayed a strong dependence on the ionic strength of the buffer for optimum activity.
+This cloned enzyme was highly specific for 3-hydroxykynurenine (Km = 3.0 microm +/- 0.10) and was inhibited by L-kynurenine (Ki = 20 microm), d-kynurenine (Ki = 12 microm) and a synthetic substrate analogue D,L-3,7-dihydroxydesaminokynurenine (Ki = 100 nm).
+The activity/concentration profile for kynureninase from this source was sigmoidal in all instances.
+There appeared to be partial inhibition by substrate, and excess pyridoxal 5'-phosphate was found to be inhibitory.

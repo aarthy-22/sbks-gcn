@@ -1,0 +1,8 @@
+Using chimeric mice with humanized livers to predict human drug metabolism and a drug-drug interaction.
+Interspecies differences in drug metabolism have made it difficult to use preclinical animal testing data to predict the drug metabolites or potential drug-drug interactions (DDIs) that will occur in humans.
+Although chimeric mice with humanized livers can produce known human metabolites for test substrates, we do not know whether chimeric mice can be used to prospectively predict human drug metabolism or a possible DDI.
+Therefore, we investigated whether they could provide a more predictive assessment for clemizole, a drug in clinical development for the treatment of hepatitis C virus (HCV) infection.
+Our results demonstrate, for the first time, that analyses performed in chimeric mice can correctly identify the predominant human drug metabolite before human testing.
+The differences in the rodent and human pathways for clemizole metabolism were of importance, because the predominant human metabolite was found to have synergistic anti-HCV activity.
+Moreover, studies in chimeric mice also correctly predicted that a DDI would occur in humans when clemizole was coadministered with a CYP3A4 inhibitor.
+These results demonstrate that using chimeric mice can improve the quality of preclinical drug assessment.

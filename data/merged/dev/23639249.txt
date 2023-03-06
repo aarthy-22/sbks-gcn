@@ -1,0 +1,7 @@
+Indoxyl 3-sulfate stimulates Th17 differentiation enhancing phosphorylation of c-Src and STAT3 to worsen experimental autoimmune encephalomyelitis.
+Although AhR activation regulates CD4T cell differentiation, how it works has yet to be elucidated.
+In the present study, using in vitro Th17 differentiation model, we examined effects of AhR activation by indoxyl 3-sulfate (I3S), a uremic toxin, on Th17 differentiation and investigated underlying mechanisms.
+I3S increased expression of RORγt, the master transcription factor for Th17 differentiation, and stimulated Th17 differentiation, in a comparative manner as 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), a prototypical AhR ligand.
+Activation of STAT3, which is phosphorylated by the IL-6 signaling pathways and thus is necessary for Th17 differentiation, was strongly stimulated by I3S and TCDD.
+Phosphorylation of c-Src, which was shown to be activated by AhR ligands, was also increased by I3S and TCDD, and blocking of c-Src activity by 4-amino-5-(4-chlorophenyl)-7-(t-butyl) pyrazolo[3,4-d]pyrimidine (PP2) inhibited phosphorylation of both c-Src and STAT3, raising a possibility that stimulatory activities of I3S and TCDD on Th17 differentiation could be exerted via increased phosphorylation of c-Src, which in turn stimulates STAT3 activation.
+Finally, we found that I3S worsened experimental autoimmune encephalomyelitis (EAE), which is primarily mediated by Th17 cells, enhancing the frequency of IL-17-producing cells in draining lymph nodes.

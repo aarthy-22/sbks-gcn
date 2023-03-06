@@ -1,0 +1,6 @@
+Enzyme-Catalyzed Synthesis of Aliphatic-Aromatic Oligoamides.
+Enzymatically catalyzed polycondensation of p-xylylenediamine and diethyl sebacate resulted in oligo(p-xylylene sebacamide) with high melting temperatures (223-230 °C) and the enzymatic polycondensation of dimethyl terephthalate and 1,8-diaminooctane leads to oligo(octamethylene terephthalamide) with two melting temperatures at 186 and 218 °C.
+No oligoamides, but products 1 and 2, were formed from the enzymatic reaction of dimethyl terephthalate and p-xylylenediamine.
+All reactions were catalyzed by CAL-B, icutinase, or CLEA cutinase.
+All reactions catalyzed by CAL-B show higher conversion than reactions catalyzed by icutinase or CLEA cutinase.
+The highest DPmax of 15 was achieved in a one-step and two-step synthesis of oligo(p-xylylene sebacamide) catalyzed by CLEA cutinase.

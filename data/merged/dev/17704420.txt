@@ -1,0 +1,12 @@
+FCGR2A and FCGR3A polymorphisms associated with clinical outcome of epidermal growth factor receptor expressing metastatic colorectal cancer patients treated with single-agent cetuximab.
+PURPOSE: Cetuximab, a chimeric immunoglobulin G 1 (IgG1) anti-epidermal growth factor receptor (EGFR) monoclonal antibody (mAb), has shown efficacy in 10% of patients with metastatic colorectal cancer (CRC).
+Recent studies demonstrate antibody-dependent cell-mediated cytotoxicity (ADCC) is one of the modes of action for rituximab and trastuzumab.
+Fragment c (Fc) portion of IgG1 mAb has shown to induce ADCC.
+Fragment c gamma receptors (FcgammaR) play an important role in initiating ADCC.
+Studies have shown that two IgG FcgammaR polymorphisms (FCGR2A-H131R and FCGR3A-V158F) independently predict response to rituximab in patients with follicular lymphoma.
+We tested the hypothesis of whether these two polymorphisms are associated with clinical outcome in metastatic CRC patients treated with single-agent cetuximab.
+PATIENTS AND METHODS: Thirty-nine metastatic CRC patients were enrolled onto the ImClone0144 trial.
+Using an allele-specific polymerase chain reaction (PCR) -based method, gene polymorphisms of FCGA2A-H131R and FCGA3A-V158F were assessed from genomic DNA extracted from peripheral blood samples.
+RESULTS: FCGR2A-H131R and FCGR3A-V158F polymorphisms were independently associated with progression-free survival (PFS; P = .037 and .055, respectively; log-rank test).
+Combined analysis of these two polymorphisms showed that patients with the favorable genotypes (FCGR2A, any histidine allele, and FCGR3A, any phenylalanine allele) showed a median PFS of 3.7 months (95% CI, 2.4 to 4.4 months), whereas patients with any two unfavorable genotypes (FCGR2A arginine/arginine or valine/valine) had a PFS of 1.1 months (95% CI, 1.0 to 1.4 months; P = .004; log-rank test).
+CONCLUSION: Our preliminary data suggest that these two polymorphisms may be useful molecular markers to predict clinical outcome in metastatic CRC patients treated with cetuximab and that they may indicate a role of ADCC of cetuximab.

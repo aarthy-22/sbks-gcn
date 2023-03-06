@@ -1,0 +1,9 @@
+Regulation of CD8+ T lymphocyte effector function and macrophage inflammatory cytokine production by retinoic acid receptor gamma.
+Vitamin A and its derivatives regulate a broad array of immune functions.
+The effects of these retinoids are mediated through members of retinoic acid receptors (RARs) and retinoid X receptors.
+However, the role of individual retinoid receptors in the pleiotropic effects of retinoids remains unclear.
+To dissect the role of these receptors in the immune system, we analyzed immune cell development and function in mice conditionally lacking RARgamma, the third member of the RAR family.
+We show that RARgamma is dispensable for T and B lymphocyte development, the humoral immune response to a T-dependent Ag and in vitro Th cell differentiation.
+However, RARgamma-deficient mice had a defective primary and memory CD8(+) T cell response to Listeria monocytogenes infection.
+Unexpectedly, RARgamma-deficient macrophages exhibited impaired inflammatory cytokine production upon TLR stimulation.
+These results suggest that under physiological condition, RARgamma is a positive regulator of inflammatory cytokine production.

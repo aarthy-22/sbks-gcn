@@ -1,0 +1,7 @@
+tert-Butylhydroquinone reduces lipid accumulation in C57BL/6 mice with lower body weight gain.
+tert-Butylhydroquinone (tBHQ) is a commonly used antioxidant additive that is approved for human use by both the Food and Agriculture Organization and the World Health Organization (FAO/WHO).
+In this study, we examined the effect of tBHQ on body weight gain and found that food supplementation with 0.001 % (w/w) tBHQ inhibited 61.4 % (P < 0.01) of body weight gain in high-fat diet (HFD)-induced C57BL/6 mice, and the oral administration of tBHQ (1.5 mg/kg) reduced 47.5 % (P < 0.05) of body weight gain in normal diet fed db/db mice.
+The HFD increased lipid deposit in adipocytes, but these were reduced significantly by tBHQ treatment in C57BL/6 mice.
+tBHQ supplementation significantly lowered the plasma triglyceride and total cholesterol, with reduced size of accumulated fat mass.
+The rate limiting enzyme of beta-oxidation (ACOX1) was significantly over-expressed in the liver with tBHQ treatment.
+These results indicate that tBHQ suppresses body weight gain in mice, possibly at least related to the up-regulation of ACOX1 gene expression.

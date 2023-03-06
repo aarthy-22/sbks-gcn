@@ -1,0 +1,10 @@
+Chemopreventive effects of Ginkgo biloba extract in estrogen-negative human breast cancer cells.
+Excessive level of estrogen is considered as a main cause of breast cancer, therefore, many studies have focused on estrogen receptor (ER)-positive breast cancer, even though ER-negative cancer has a poor prognosis than ER-positive breast cancer.
+We evaluated the anti-cancer effects of Ginkgo biloba extract (GBE) in estrogen-independent breast cancer.
+GBE has been traditionally used as a platelet activating factor, a circulatory stimulant, a tonic, and anti-asthmatic drug, and anti-cancer agent.
+ However, anti-cancer effects of GBE on ER-negative breast cancer have not been proved yet.
+In this study, we tested chemotherapeutic potential of GBE in the MDA-MB-231 (ER-negative) human breast cancer cell line.
+ Our results showed that cytotoxicity effects of GBE in MDA-MB-231 lead to DNA fragmentation at high concentrations (500 and 1,000 μg/ml).
+Caspase-3 was significantly activated and mRNA levels of apoptosis-related genes (Bcl-2 and Bax) were altered.
+These results indicate that GBE induces apoptosis in MDA-MB-231 cells.
+It is presumed that GBE has chemopreventive effects in ER-independent breast cancer through anti-proliferation and apoptosis-inducing activities.

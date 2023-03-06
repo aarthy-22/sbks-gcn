@@ -1,0 +1,9 @@
+Checkpoint protein Rad9 plays an important role in nucleotide excision repair.
+Rad9, an evolutionarily conserved checkpoint gene with multiple functions for preserving genomic integrity, has been shown to play important roles in homologous recombination repair, base excision repair and mismatch repair.
+However, whether Rad9 has an impact on nucleotide excision repair remains unknown.
+Here we demonstrated that Rad9 was involved in nucleotide excision repair and loss of Rad9 led to defective removal of the UV-derived photoproduct 6-4PP (6,4 pyrimidine-pyrimidone) and the BPDE (anti-benzo(a)pyrene-trans-7,8-dihydrodiol-9,10-epoxide)-DNA adducts in mammalian cells.
+We also demonstrated that Rad9 could co-localize with XPC in response to local UV irradiation.
+However, our data showed that Rad9 was not required for the photoproducts recognition step of nucleotide excision repair.
+Further investigation revealed that reduction of Rad9 reduced the UV-induced transcription of the genes of the nucleotide excision repair factors DDB2, XPC, DDB1 and XPB and DDB2 protein levels in human cells.
+Interestingly, knockdown of one subunit of DNA damage recognition complex, hHR23B impaired Rad9-loading onto UV-damaged chromatin.
+Based on these results, we suggest that Rad9 plays an important role in nucleotide excision repair through mechanisms including maintaining DDB2 protein level in human cells.

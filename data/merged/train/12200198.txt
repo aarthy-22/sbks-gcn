@@ -1,0 +1,10 @@
+Neuroprotection by propargylamines in Parkinson's disease: suppression of apoptosis and induction of prosurvival genes.
+In Parkinson's disease (PD), therapies to delay or suppress the progression of cell death in nigrostriatal dopamine neurons have been proposed by use of various agents.
+An inhibitor of type B monoamine oxidase (MAO-B), (-)deprenyl (selegiline), was reported to have neuroprotective activity, but clinical trials failed to confirm it.
+However, the animal and cellular models of PD proved that selegiline protects neurons from cell death.
+Among selegiline-related propargylamines, (R)(+)-N-propargyl-1-aminoindan (rasagiline) was the most effective to suppress the cell death in in vivo and in vitro experiments.
+In this paper, the mechanism of the neuroprotection by rasagiline was examined using human dopaminergic SH-SY5Y cells against cell death induced by an endogenous dopaminergic neurotoxin N-methyl(R)salsolinol (NM(R)Sal).
+NM(R)Sal induced apoptosis (but not necrosis) in SH-SY5Y cells, and the apoptotic cascade was initiated by mitochondrial permeability transition (PT) and activated by stepwise reactions.
+Rasagiline prevented the PT in mitochondria directly and also indirectly through induction of antiapoptotic Bcl-2 and a neurotrophic factor, glial cell line-derived neurotrophic factor (GDNF).
+Long-term administration of propargylamines to rats increased the activities of antioxidative enzymes superoxide dismutase (SOD) and catalase in the brain regions containing dopamine neurons.
+Rasagiline and related propargylamines may rescue degenerating dopamine neurons through inhibiting death signal transduction initiated by mitochondria PT.

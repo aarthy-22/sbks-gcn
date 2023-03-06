@@ -1,0 +1,9 @@
+Reduced plasma membrane surface expression of GLAST mediates decreased glutamate regulation in the aged striatum.
+Extracellular L-glutamate poses a severe excitotoxic threat to neurons and glia when unregulated, therefore low synaptic levels of this neurotransmitter must be maintained via a rapid and robust transport system.
+A recent study from our laboratory showed a reduced glutamate uptake rate in the striatum of the aged Fischer 344 (F344) rat, yet the mechanism underlying this phenomenon is unknown.
+The current study utilized in vivo electrochemical recordings, immunoblotting and biotinylation in young (6 months), late-middle aged (18 months) and aged (24 months) F344 rats to elucidate the potential role that glutamate transporters (GLT-1, GLAST, and EAAC1) may play in this mechanism.
+Here we show that the time necessary to clear glutamate from the late-middle aged and aged striatum is significantly prolonged in comparison to the young striatum.
+In addition, an analysis of various sub-regions of the striatum revealed a marked dorsoventral gradient in terms of glutamate clearance times in the aged striatum, a phenomenon which was not present in the striatum of the animals of the remaining age groups.
+We also found that the decreased glutamate clearance time observed in the late-middle aged and aged rats is not due to a decrease in the production of total transporter protein among these three transporters.
+Rather, a significant reduction in the amount of GLAST expressed on the plasma membrane surface in the aged animals (approximately 55% when compared to young rats) may contribute to this phenomenon.
+These age-related alterations in extracellular l-glutamate regulation may be key contributors to the increased susceptibility of the aged brain to excitotoxic insults such as stroke and hypoxia.

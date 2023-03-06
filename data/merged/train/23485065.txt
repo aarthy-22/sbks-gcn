@@ -1,0 +1,5 @@
+Conformation Guides Molecular Efficacy in Docking Screens of Activated β-2 Adrenergic G Protein Coupled Receptor.
+A prospective, large library virtual screen against an activated β2-adrenergic receptor (β2AR) structure returned potent agonists to the exclusion of inverse-agonists, providing the first complement to the previous virtual screening campaigns against inverse-agonist-bound G protein coupled receptor (GPCR) structures, which predicted only inverse-agonists.
+In addition, two hits recapitulated the signaling profile of the co-crystal ligand with respect to the G protein and arrestin mediated signaling.
+This functional fidelity has important implications in drug design, as the ability to predict ligands with predefined signaling properties is highly desirable.
+However, the agonist-bound state provides an uncertain template for modeling the activated conformation of other GPCRs, as a dopamine D2 receptor (DRD2) activated model templated on the activated β2AR structure returned few hits of only marginal potency.

@@ -1,0 +1,8 @@
+Functional imaging of legumain in cancer using a new quenched activity-based probe.
+Legumain is a lysosomal cysteine protease whose biological function remains poorly defined.
+Legumain activity is up-regulated in most human cancers and inflammatory diseases most likely as the result of high expression in populations of activated macrophages.
+Within the tumor microenvironment, legumain activity is thought to promote tumorigenesis.
+To obtain a greater understanding of the role of legumain activity during cancer progression and inflammation, we developed an activity-based probe that becomes fluorescent only upon binding active legumain.
+This probe is highly selective for legumain, even in the context of whole cells and tissues, and is also a more effective label of legumain than previously reported probes.
+Here we present the synthesis and application of our probe to the analysis of legumain activity in primary macrophages and in two mouse models of cancer.
+We find that legumain activity is highly correlated with macrophage activation and furthermore that it is an ideal marker for primary tumor inflammation and early stage metastatic lesions.

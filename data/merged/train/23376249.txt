@@ -1,0 +1,9 @@
+Synthesis and biological evaluation of 1,3,4-thiadiazole analogues as novel AChE and BuChE inhibitors.
+In this paper a series of new 1,3,4-thiadiazole derivatives has been designed, synthesized and evaluated as the acetyl- and butyrylcholinesterase inhibitors.
+Some analogues showed promising inhibition of both enzymes in vitro in the nM range.
+Generally, inhibitory potency of compounds was stronger against AChE than BuChE, and one of them was 1154-fold more active inhibiting AChE (IC50 = 0.17 μM) than BuChE. The kinetic studies showed that one of the most active analogues 8 (IC50 = 0.09 μM, AChE) acted as a non-competitive AChE inhibitor and was characterized by the high selectivity index (300).
+The other derivative (1) exhibited a mixed-type of AChE inhibition.
+Docking simulations enabled the detection of key binding interactions of the compounds with AChE and revealed that they occupied mainly the catalytic active site.
+The scoring function for the novel compounds was similar or higher than for the reference inhibitor.
+Additionally, based on Lipinski and other filters, the drug-likeness of compounds was assessed.
+They revealed that the compounds possess properties which can suggest the favourable pharmacokinetics in the human body after oral admission.

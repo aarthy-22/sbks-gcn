@@ -1,0 +1,7 @@
+The calmodulin regulator protein, PEP-19, sensitizes ATP-induced Ca2+ release.
+PEP-19 is a small, intrinsically disordered protein that binds to the C-domain of calmodulin (CaM) via an IQ motif and tunes its Ca(2+) binding properties via an acidic sequence.
+We show here that the acidic sequence of PEP-19 has intrinsic Ca(2+) binding activity, which may modulate Ca(2+) binding to CaM by stabilizing an initial Ca(2+)-CaM complex or by electrostatically steering Ca(2+) to and from CaM. Because PEP-19 is expressed in cells that exhibit highly active Ca(2+) dynamics, we tested the hypothesis that it influences ligand-dependent Ca(2+) release.
+We show that PEP-19 increases the sensitivity of HeLa cells to ATP-induced Ca(2+) release to greatly increase the percentage of cells responding to sub-saturating doses of ATP and increases the frequency of Ca(2+) oscillations.
+Mutations in the acidic sequence of PEP-19 that inhibit or prevent it from modulating Ca(2+) binding to CaM greatly inhibit its effect on ATP-induced Ca(2+) release.
+Thus, this cellular effect of PEP-19 does not depend simply on binding to CaM via the IQ motif but requires its acidic metal binding domain.
+Tuning the activities of Ca(2+) mobilization pathways places PEP-19 at the top of CaM signaling cascades, with great potential to exert broad effects on downstream CaM targets, thus expanding the biological significance of this small regulator of CaM signaling.

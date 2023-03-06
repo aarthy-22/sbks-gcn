@@ -1,0 +1,10 @@
+[6]-Shogaol Attenuates Neuronal Apoptosis in Hydrogen Peroxide-Treated Astrocytes Through the Up-Regulation of Neurotrophic Factors.
+Neuronal apoptosis induced by oxidative stress is a prominent feature of neurodegenerative disorders.
+[6]-shogaol, a bio-active compound in ginger, possesses potent anti-inflammatory actions and has recently emerged as a potential therapeutic agent for neurodegenerative disorders.
+However, the effects of [6]-shogaol on astroglial apoptosis following exogenously induced oxidative stress has not yet been investigated.
+Here, we show that the anti-apoptotic activity of [6]-shogaol in astrocytes following exposure to hydrogen peroxide (H(2) O(2) ) involves a marked up-regulation of neurotrophic factors such as nerve growth factor, glial cell line-derived neurotrophic factor, and brain-derived neurotrophic factor.
+Astrocytes co-treated with [6]-shogaol and H(2) O(2) for 1 h showed decrease in reactive oxygen species production compared with those only treated with H(2) O(2) .
+Moreover, [6]-shogaol counteracted the reduced expression of ERK1/2 in H(2) O(2) -treated astrocytes and protected these cells from oxidative stress and apoptosis by attenuating the impairment of mitochondrial function proteins such as Bcl-2 and Bcl-xL. Additionally, [6]-shogaol inhibits the expression of the apoptotic proteins Bax and caspase-3 in H(2) O(2) -treated astrocytes.
+This data suggest that following oxidative stress, [6]-shogaol protects astrocytes from oxidative damage through the up-regulating levels of neurotrophic factors.
+These findings provide further support for the use of [6]-shogaol as a therapeutic agent in neurodegenerative disorders.
+Copyright © 2013 John Wiley & Sons, Ltd.

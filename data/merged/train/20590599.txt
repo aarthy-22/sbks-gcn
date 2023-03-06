@@ -1,0 +1,12 @@
+The selectivity of beta-adrenoceptor agonists at human beta1-, beta2- and beta3-adrenoceptors.
+BACKGROUND AND PURPOSE: There are two important properties of receptor-ligand interactions: affinity (the ability of the ligand to bind to the receptor) and efficacy (the ability of the receptor-ligand complex to induce a response).
+Ligands are classified as agonists or antagonists depending on whether or not they have efficacy.
+In theory, it is possible to develop selective agonists based on selective affinity, selective intrinsic efficacy or both.
+This study examined the affinity and intrinsic efficacy of 31 beta-adrenoceptor agonists at the three human beta-adrenoceptors to determine whether the current agonists are subtype selective because of affinity or intrinsic efficacy.
+EXPERIMENTAL APPROACH: Stable clonal CHO-K1 cell lines, transfected with either the human beta(1), beta(2) or beta(3)-adrenoceptor, were used, and whole-cell [(3)H]-CGP 12177 radioligand binding and [(3)H]-cAMP accumulation were measured.
+KEY RESULTS: Several agonists were found to be highly subtype selective because of selective affinity (e.g. salmeterol and formoterol, for the beta(2)-adrenoceptor over the beta(1) or beta(3)), while others (e.g. isoprenaline) had little affinity-selectivity.
+However, the intrinsic efficacy of salmeterol, formoterol and isoprenaline was similar across all three receptor subtypes.
+Other ligands (e.g. denopamine for beta(1); clenbuterol, AZ 40140d, salbutamol for beta(2)) were found to have subtype-selective intrinsic efficacy.
+Several ligands appeared to activate two agonist conformations of the beta(1)- and beta(3)-adrenoceptors.
+CONCLUSIONS AND IMPLICATIONS: There are agonists with subtype selectivity based upon both selective affinity and selective intrinsic efficacy.
+Therefore, there is scope to develop better selective agonists based upon both selective affinity and selective intrinsic efficacy.

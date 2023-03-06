@@ -1,0 +1,10 @@
+The involvement of heme oxygenase 1 but not nitric oxide synthase 2 in a hepatoprotective action of quercetin in lipopolysaccharide-induced hepatotoxicity of d-galactosamine sensitized rats.
+The objective of this study was to evaluate potential hepatoprotective capabilities of quercetin in relation to its modulation of the HO-1 and NOS-2 activities in an experimental model of fulminant liver failure.
+Liver insult was induced by in vivo administration of d-galactosamine (d-GalN, 400mg/kg, i.p.) and lipopolysaccharide (LPS, 10μg/kg, i.p.).
+The effects of quercetin (50mg/kg, i.p) on d-GalN toxicity was evaluated by standard biochemical, RT-PCR and Western blot methods.
+Administration of d-GalN/LPS combination resulted in significantly higher plasma levels of aminotransferases, as well as increased mRNA and protein expressions of both HO-1 and NOS-2 enzymes.
+Quercetin exhibited cytoprotective effects on the liver, as evidenced by decreased aminotransferase plasma levels.
+Additionally, quercetin treatment in d-GalN/LPS treated rats significantly increased HO-1 mRNA and its protein expressions.
+On the contrary, quercetin did not exhibit any significant effects on the levels of nitrites, and NOS-2 mRNA and protein expressions in d-GalN/LPS treated rats.
+Quercetin when given alone did not have any significant changes on liver enzymes nor HO-1 and NOS-2 mRNA and protein expressions.
+It can be concluded that the quercetin's induction of HO-1 and its byproducts, without concomitant NOS-2 activity reduction, is among mechanisms contributing to the hepatoprotective effect in d-GalN/LPS hepatotoxicity.

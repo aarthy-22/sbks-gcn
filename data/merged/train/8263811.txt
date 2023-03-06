@@ -1,0 +1,11 @@
+Nonadrenergic imidazoline binding sites on human platelets.
+Human platelets are shown to possess at least two high-affinity, imidazol(in)e-preferring binding sites that are pharmacologically distinct from alpha-2 adrenoceptors.
+These nonadrenergic sites were radiolabeled even in the presence of a 10 microM norepinephrine mask of alpha-2 adrenoceptors.
+Heterogeneity at the nonadrenergic sites was demonstrated by comparing [3H]idazoxan (IDX) binding vs. [125I]p-iodoclonidine (PIC) binding.
+Nonadrenergic [125I]PIC-labeled sites were enriched in platelet plasma membranes, whereas the nonadrenergic sites labeled by [3H] IDX were codistributed between plasma and internal membranes (nonadrenergic [125I]PIC-labeled sites had Bmax = 62 fmol/mg in plasma membranes and 20 fmol/mg in internal membranes vs. the [3H]IDX-labeled sites had Bmax = 141 fmol/mg in plasma membranes and 192 fmol/mg in internal membranes).
+Furthermore, competition binding studies in the presence of a 10 microM norepinephrine mask revealed major (approximately 75%) and minor (approximately 25%) binding components on plasma membranes for [125I]PIC.
+Affinities for the major nonadrenergic [125I]PIC binding site were highly comparable to human subtype-I1 imidazol(in)e receptor sites in the brain stem (rank order: moxonidine > clonidine > cirazoline > IDX > amiloride).
+However, the minor component of [125I]PIC binding was similar to a site reported in kidney, having low affinities for all compounds tested, except guanabenz.
+Finally, a third nonadrenergic internal membrane site, labeled by [3H]IDX, was consistent with a subtype-I2 imidazol(in)e receptor site (rank order: cirazoline > IDX >> amiloride > moxonidine > clonidine).
+Thus, based on differential subcellular distributions and affinity constants, human platelets appear to possess imidazoline receptors (subtype-I1 imidazol(in)e receptor and subtype-I2 imidazol(in)e receptor), plus a novel guanabenz-sensitive site, as well as an alpha-2A adrenoceptor.
+These nonadrenoceptor binding sites may explain certain novel platelet aggregatory properties previously ascribed to clonidine and endogenous clonidine-displacing substance(s), and may serve as markers of imidazoline receptors in humans.

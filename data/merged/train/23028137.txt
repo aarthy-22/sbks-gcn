@@ -1,0 +1,8 @@
+Portal vein glucose entry triggers a coordinated cellular response that potentiates hepatic glucose uptake and storage in normal but not high-fat/high-fructose-fed dogs.
+The cellular events mediating the pleiotropic actions of portal vein glucose (PoG) delivery on hepatic glucose disposition have not been clearly defined.
+Likewise, the molecular defects associated with postprandial hyperglycemia and impaired hepatic glucose uptake (HGU) following consumption of a high-fat, high-fructose diet (HFFD) are unknown.
+Our goal was to identify hepatocellular changes elicited by hyperinsulinemia, hyperglycemia, and PoG signaling in normal chow-fed (CTR) and HFFD-fed dogs.
+In CTR dogs, we demonstrated that PoG infusion in the presence of hyperinsulinemia and hyperglycemia triggered an increase in the activity of hepatic glucokinase (GK) and glycogen synthase (GS), which occurred in association with further augmentation in HGU and glycogen synthesis (GSYN) in vivo.
+In contrast, 4 weeks of HFFD feeding markedly reduced GK protein content and impaired the activation of GS in association with diminished HGU and GSYN in vivo.
+Furthermore, the enzymatic changes associated with PoG sensing in chow-fed animals were abolished in HFFD-fed animals, consistent with loss of the stimulatory effects of PoG delivery.
+These data reveal new insight into the molecular physiology of the portal glucose signaling mechanism under normal conditions and to the pathophysiology of aberrant postprandial hepatic glucose disposition evident under a diet-induced glucose-intolerant condition.

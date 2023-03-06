@@ -1,0 +1,5 @@
+The macrocyclic peptide natural product CJ-15,208 is orally active and prevents reinstatement of extinguished cocaine-seeking behavior.
+The macrocyclic tetrapeptide natural product CJ-15,208 (cyclo[Phe-d-Pro-Phe-Trp]) exhibited both dose-dependent antinociception and kappa opioid receptor (KOR) antagonist activity after oral administration.
+CJ-15,208 antagonized a centrally administered KOR selective agonist, providing strong evidence it crosses the blood-brain barrier to reach KOR in the CNS.
+Orally administered CJ-15,208 also prevented both cocaine- and stress-induced reinstatement of extinguished cocaine-seeking behavior in the conditioned place preference assay in a time- and dose-dependent manner.
+Thus, CJ-15,208 is a promising lead compound with a unique activity profile for potential development, particularly as a therapeutic to prevent relapse to drug-seeking behavior in abstinent subjects.

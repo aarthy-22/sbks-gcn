@@ -1,0 +1,7 @@
+Synthesis and in vitro pharmacology at AMPA and kainate preferring glutamate receptors of 4-heteroarylmethylidene glutamate analogues.
+2-Amino-3-[3-hydroxy-5-(2-thiazolyl)-4-isoxazolyl]propionic acid (1) is a potent AMPA receptor agonist with moderate affinity for native kainic acid (KA) receptors, whereas (S)-E-4-(2,2-dimethylpropylidene)glutamic acid (3) show high affinity for the GluR5 subtype of KA receptors and much lower affinity for the GluR2 subtype of AMPA receptors.
+As an attempt to develop new pharmacological tools for studies of GluR5 receptors, (S)-E-4-(2-thiazolylmethylene)glutamic acid (4a) was designed as a structural hybrid between 1 and 3.
+4a was shown to be a potent GluR5 agonist and a high affinity ligand and to indiscriminately bind to the AMPA receptor subtypes GluR1-4 with lower affinities.
+Compounds 4b-h, in which the 2-thiazolyl substituent of 4a was replaced by other heterocyclic rings, which have previously been incorporated as 5-substituents in AMPA analogues, as exemplified by 1 were also synthesized.
+Compounds 4b-h were either inactive (4e,f) or weaker than 4a as affinity ligands for GluR1-4 and GluR5 with relative potencies comparable with those of the corresponding AMPA analogues as AMPA receptor agonists.
+Compounds 4a-h may be useful tools for the progressing pharmacophore mapping of the GluR5 agonist binding site.

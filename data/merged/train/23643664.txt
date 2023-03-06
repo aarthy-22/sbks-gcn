@@ -1,0 +1,11 @@
+Sustained resistance to acute MPTP toxicity by hypothalamic dopamine neurons following chronic neurotoxicant exposure is associated with sustained up-regulation of parkin protein.
+Hypothalamic tuberoinfundibular dopamine (TIDA) neurons remain unaffected in Parkinson disease (PD) while there is significant degeneration of midbrain nigrostriatal dopamine (NSDA) neurons.
+A similar pattern of susceptibility is observed following acute exposure to the neurotoxicant 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP), and the resistance of TIDA neurons to MPTP is associated with increased expression of parkin and ubiquitin carboxy-terminal hydrolase L-1 (UCHL- 1).
+In the present study, the response of TIDA and NSDA neurons to acute MPTP administration following chronic MPTP exposure was examined.
+Mice were treated with ten injections of either MPTP (20 mg/kg; s.c.; every 3.5 days) or saline vehicle (10 ml/kg; s.c.; every 3.5 days).
+Following a 21 day recovery period, chronic saline- and MPTP-treated mice received an additional injection of either saline (10 ml/kg; s.c.) or MPTP (20 mg/kg; s.c.) and were sacrificed 24 h later.
+NSDA neurons displayed significant axon terminal degeneration (as indexed by decreases in DA, tyrosine hydroxylase (TH) and DA transporter concentrations in the striatum) as well as loss of TH-immunoreactive (IR) neurons in the substantia nigra (SN) following MPTP, whereas TIDA neurons revealed no overt axon terminal pathology or loss of TH-IR cell bodies.
+NSDA neuronal pathology was associated with transient decreases in concentrations of parkin and UCHL-1 protein in the SN, which returned to normal levels by 21 days following cessation of chronic neurotoxicant exposure.
+Resistance of TIDA neurons to MPTP toxicity was correlated with a transient increase in UCHL-1 and a sustained elevation in parkin in the arcuate nucleus.
+TIDA neurons represent a DA neuron population with a unique and inherent ability to adapt to acute and chronic toxicant administration with a sustained elevation of the neuroprotective protein parkin.
+The correlation between the ability to increase parkin and UCHL-1 expression and the resistance of DA neurons to neurotoxicant exposure is consistent with a functional link between these features and an underlying differential susceptibility to toxicant-associated neurodegeneration.

@@ -1,0 +1,12 @@
+Molecular analysis of PCCB gene in Korean patients with propionic acidemia.
+Propionic acidemia (PA) is an autosomal recessive inborn error in the catabolism of methionine, isoleucine, threonine, and valine, odd-numbered chain length fatty acids and cholesterol.
+Clinical symptoms are very heterogeneous and present as a severe neonatal-onset or a late-onset form.
+It is caused by a deficiency of propionyl-CoA carboxylase (PCC, EC 6.4.1.3), a biotin-dependent enzyme that catalyzes the carboxylation of propionyl-CoA to D-methylmalonyl-CoA. PCC is a heteropolymeric enzyme composed of alpha- and beta-subunits.
+A greater heterogeneity is observed in the PCCA gene, while for the PCCB gene, a limited number of mutations is responsible for the majority of the alleles characterized in both Caucasian and Oriental populations.
+We identified eight Korean patients with PA by organic acid analysis confirmed in five patients by the PCC enzyme assay in the lymphoblasts.
+Two neonatal-onset patients showed undetectable PCC activities while three cases with residual enzyme activities had relatively late manifestations.
+In the molecular analysis, we identified five novel mutations, Y439C, 1527del3, 1357insT, IVS12-8T-->A, and 31del10, and one known mutation, T428I in PCCB gene.
+Alleleic frequency of T428I in Korean patients with PA was 56.3% in this study.
+Two neonatal-onset patients with null enzyme activities were homozygotes with 1527del3 and T428I, respectively.
+This finding implies that T428I and 1527del3 mutation could be responsible for their severe clinical courses and null enzyme activities.
+The mRNA of PCCB gene in T428I and 1527del3 homozygotes were normal but in Western blot analysis, the betaPCC-subunit was only absent in 1527del3 homozygote patient suggesting different molecular pathology.

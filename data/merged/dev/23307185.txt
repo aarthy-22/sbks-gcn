@@ -1,0 +1,12 @@
+Protease-activated receptor (PAR) 1 and PAR4 differentially regulate factor V expression from human platelets.
+With the recent interest of protease-activated receptors (PAR) 1 and PAR4 as possible targets for the treatment of thrombotic disorders, we compared the efficacy of protease-activated receptor (PAR)1 and PAR4 in the generation of procoagulant phenotypes on platelet membranes.
+PAR4-activating peptide (AP)-stimulated platelets promoted thrombin generation in plasma up to 5 minutes earlier than PAR1-AP-stimulated platelets.
+PAR4-AP-mediated factor V (FV) association with the platelet surface was 1.6-fold greater than for PAR1-AP.
+Moreover, PAR4 stimulation resulted in a 3-fold greater release of microparticles, compared with PAR1 stimulation.
+More robust FV secretion and microparticle generation with PAR4-AP was attributable to stronger and more sustained phosphorylation of myosin light chain at serine 19 and threonine 18.
+Inhibition of Rho-kinase reduced PAR4-AP-mediated FV secretion and microparticle generation to PAR1-AP-mediated levels.
+Thrombin generation assays measuring prothrombinase complex activity demonstrated 1.5-fold higher peak thrombin levels on PAR4-AP-stimulated platelets, compared with PAR1-AP-stimulated platelets.
+Rho-kinase inhibition reduced PAR4-AP-mediated peak thrombin generation by 25% but had no significant effect on PAR1-AP-mediated thrombin generation.
+In conclusion, stimulation of PAR4 on platelets leads to faster and more robust thrombin generation, compared with PAR1 stimulation.
+The greater procoagulant potential is related to more efficient FV release from intracellular stores and microparticle production driven by stronger and more sustained myosin light chain phosphorylation.
+These data have implications about the role of PAR4 during hemostasis and are clinically relevant in light of recent efforts to develop PAR antagonists to treat thrombotic disorders.

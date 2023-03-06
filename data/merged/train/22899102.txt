@@ -1,0 +1,11 @@
+Multidrug resistance-associated proteins are involved in the transport of the glutathione conjugates of the ultimate carcinogen of benzo[a]pyrene in human Caco-2 cells.
+A wide variety of contaminants are ingested through food, among them the pro-carcinogenic polycyclic aromatic hydrocarbon benzo[a]pyrene (BP) that is resorbed and partially metabolized in the enterocytes of the small intestine.
+Previous in vitro studies have revealed that BP phenols are excreted as Phase II metabolites including glucuronides and sulfates.
+This export is mediated by the breast cancer resistance protein (ABCG2).
+The ultimate carcinogenic Phase I BP metabolite anti-BP-7,8-dihydrodiol-9,10-epoxide (BPDE) can be detoxified by glutathione conjugate formation catalyzed by glutathione S-transferases.
+In the present study, differentiated human intestinal Caco-2 cells were used as a model for the human small intestine to investigate the detoxification of BPDE and excretion of stereoisomeric glutathione conjugates in the presence of an inhibitor of the glutathione-cleaving enzyme γ-glutamyl transpeptidase at the cell surface.
+The results indicate that the glutathione conjugates of BPDE are formed and excreted mainly to the apical and to a minor extent to the basolateral side of polarized Caco-2 monolayers.
+Inhibition studies revealed that the multidrug resistance-associated proteins (ABCCs) are involved in the transport of BPDE glutathione conjugates.
+Stable ABCC1, ABCC2 and ABCC3 knockdown cell lines were generated, thus making it possible to demonstrate that ABCC1 mediates the basolateral and ABCC2 the apical excretion of BPDE glutathione conjugates.
+In conclusion, the ultimate carcinogen BPDE is detoxified via glutathione conjugation and subsequently excreted by Caco-2 cells in both apical and basolateral directions.
+This finding is equivalent to a transport into feces as well as blood system in the in vivo situation.

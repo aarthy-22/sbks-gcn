@@ -1,0 +1,8 @@
+Phospholipase A2 inhibitors p-bromophenacyl bromide and arachidonyl trifluoromethyl ketone suppressed interleukin-2 (IL-2) expression in murine primary splenocytes.
+Phospholipase A2 (PLA2) has been postulated to play a role in the regulation of cytokine expression.
+Therefore, the objective of the present study was to investigate the effects of PLA2 inhibitors p-bromophenacyl bromide (BPB) and arachidonyl trifluoromethyl ketone (AACOCF3) on interleukin-2 (IL-2) expression in murine primary splenocytes.
+Pretreatment of the splenocytes with both BPB and AACOCF3 suppressed phorbol 12-myristate 13-acetate plus ionomycin-induced IL-2 secretion in a concentration-dependent manner.
+Inhibition > 90% of IL-2 secretion was observed at 1 microM BPB and 10 microM AACOCF3 compared to the respective vehicle control.
+Likewise, IL-2 steady-state mRNA expression was inhibited by both PLA2 inhibitors in a concentration-dependent fashion with > 90% inhibition at 1 microM BPB and 20 microM AACOCF3.
+Taken together, these data demonstrated that PLA2 inhibitors BPB and AACOCF3 are robust inhibitors of IL-2 expression at both the mRNA and protein levels in murine splenocytes.
+Moreover, these findings suggest that drugs and chemicals which inhibit PLA2 may have marked effects on T-cell function.

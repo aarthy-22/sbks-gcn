@@ -1,0 +1,9 @@
+Electron transfer dissociation (ETD): the mass spectrometric breakthrough essential for O-GlcNAc protein site assignments-a study of the O-GlcNAcylated protein host cell factor C1.
+The development of electron-based, unimolecular dissociation MS, i.e. electron capture and electron transfer dissociation (ECD and ETD, respectively), has greatly increased the speed and reliability of labile PTM site assignment.
+The field of intracellular O-GlcNAc (O-linked N-acetylglucosamine) signaling has especially advanced with the advent of ETD MS.
+Only within the last five years have proteomic-scale experiments utilizing ETD allowed the assignment of hundreds of O-GlcNAc sites within cells and subcellular structures.
+Our ability to identify and unambiguously assign the site of O-GlcNAc modifications using ETD is rapidly increasing our understanding of this regulatory glycosylation and its potential interaction with other PTMs.
+Here, we discuss the advantages of using ETD, complimented with collisional-activation MS, in a study of the extensively O-GlcNAcylated protein Host Cell Factor C1 (HCF-1).
+HCF-1 is a transcriptional coregulator that forms a stable complex with O-GlcNAc transferase and controls cell cycle progression.
+ETD, along with higher energy collisional dissociation (HCD) MS, was employed to assign the PTMs of the HCF-1 protein isolated from HEK293T cells.
+These include 19 sites of O-GlcNAcylation, two sites of phosphorylation, and two sites bearing dimethylarginine, and showcase the residue-specific, PTM complexity of this regulator of cell proliferation.

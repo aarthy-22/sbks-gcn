@@ -1,0 +1,14 @@
+Helicobacter pylori induces macrophage apoptosis by activation of arginase II.
+Helicobacter pylori infection induces innate immune responses in macrophages, contributing to mucosal inflammation and damage.
+Macrophage apoptosis is important in the pathogenesis of mucosal infections but has not been studied with H. pylori.
+NO derived from inducible NO synthase (iNOS) can activate macrophage apoptosis.
+Arginase competes with iNOS by converting L-arginine to L-ornithine.
+Since we reported that H. pylori induces iNOS in macrophages, we now determined whether this bacterium induces arginase and the effect of this activation on apoptosis.
+NF-kappa B-dependent induction of arginase II, but not arginase I, was observed in RAW 264.7 macrophages cocultured with H. pylori.
+The time course of apoptosis matched those of both arginase and iNOS activities.
+Surprisingly, apoptosis was blocked by the arginase inhibitors N(omega)-hydroxy-L-arginine or N(omega)-hydroxy-nor-L-arginine, but not by the iNOS inhibitor N-iminoethyl-L-lysine.
+These findings were confirmed in peritoneal macrophages from iNOS-deficient mice and were not dependent on bacterial-macrophage contact.
+Ornithine decarboxylase (ODC), which metabolizes L-ornithine to polyamines, was also induced in H. pylori-stimulated macrophages.
+Apoptosis was abolished by inhibition of ODC and was restored by the polyamines spermidine and spermine.
+We also demonstrate that arginase II expression is up-regulated in both murine and human H. pylori gastritis tissues, indicating the likely in vivo relevance of our findings.
+Therefore, we describe arginase- and ODC-dependent macrophage apoptosis, which implicates polyamines in the pathophysiology of H. pylori infection.

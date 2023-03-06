@@ -1,0 +1,10 @@
+Novel Smad proteins localize to IR-induced double-strand breaks: interplay between TGFβ and ATM pathways.
+Cellular damage from ionizing radiation (IR) is in part due to DNA damage and reactive oxygen species, which activate DNA damage response (DDR) and cytokine signaling pathways, including the ataxia telangiectasia mutated (ATM) and transforming growth factor (TGF)β/Smad pathways.
+Using classic double-strand breaks (DSBs) markers, we studied the roles of Smad proteins in DDR and the crosstalk between TGFβ and ATM pathways.
+We observed co-localization of phospho-Smad2 (pSmad2) and Smad7 with DSB repair proteins following low and high linear energy transfer (LET) radiation in human fibroblasts and epithelial cells.
+The decays of both foci were similar to that of γH2AX foci.
+Irradiation with high LET particles induced pSmad2 and Smad7 foci tracks indicating the particle trajectory through cells.
+pSmad2 foci were absent in S phase cells, while Smad7 foci were present in all phases of cell cycle.
+pSmad2 (but not Smad7) foci were completely abolished when ATM was depleted or inactivated.
+In contrast, a TGFβ receptor 1 (TGFβR1) inhibitor abrogated Smad7, but not pSmad2 foci at DSBs sites.
+In summary, we suggest that Smad2 and Smad7 contribute to IR-induced DSB signaling in an ATM or TGFβR1-dependent manner, respectively.

@@ -1,0 +1,10 @@
+Neural tube defects and folate pathway genes: family-based association tests of gene-gene and gene-environment interactions.
+BACKGROUND: Folate metabolism pathway genes have been examined for association with neural tube defects (NTDs) because folic acid supplementation reduces the risk of this debilitating birth defect.
+Most studies addressed these genes individually, often with different populations providing conflicting results.
+OBJECTIVES: Our study evaluates several folate pathway genes for association with human NTDs, incorporating an environmental cofactor: maternal folate supplementation.
+METHODS: In 304 Caucasian American NTD families with myelomeningocele or anencephaly, we examined 28 polymorphisms in 11 genes: folate receptor 1, folate receptor 2, solute carrier family 19 member 1, transcobalamin II, methylenetetrahydrofolate dehydrogenase 1, serine hydroxymethyl-transferase 1, 5,10-methylenetetrahydrofolate reductase (MTHFR), 5-methyltetrahydrofolate-homo-cysteine methyltransferase, 5-methyltetrahydrofolate-homocysteine methyltransferase reductase, betaine-homocysteine methyltransferase (BHMT), and cystathionine-beta-synthase.
+RESULTS: Only single nucleotide polymorphisms (SNPs) in BHMT were significantly associated in the overall data set; this significance was strongest when mothers took folate-containing nutritional supplements before conception.
+The BHMT SNP rs3733890 was more significant when the data were stratified by preferential transmission of the MTHFR rs1801133 thermolabile T allele from parent to offspring.
+Other SNPs in folate pathway genes were marginally significant in some analyses when stratified by maternal supplementation, MTHFR, or BHMT allele transmission.
+CONCLUSIONS: BHMT rs3733890 is significantly associated in our data set, whereas MTHFR rs1801133 is not a major risk factor.
+Further investigation of folate and methionine cycle genes will require extensive SNP genotyping and/or resequencing to identify novel variants, inclusion of environmental factors, and investigation of gene-gene interactions in large data sets.

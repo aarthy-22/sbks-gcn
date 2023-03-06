@@ -1,0 +1,11 @@
+The antipsychotic drugs sertindole and pimozide block erg3, a human brain K(+) channel.
+The antipsychotic drugs sertindole and pimozide are known to prolong the QT interval on the electrocardiogram via a high affinity block of the cardiac K(+) channel known as HERG (human ether-a-go-go-related gene; erg1).
+We wished to test whether these drugs also displayed high affinity for the related neuronal K(+) channel erg3.
+The cDNA encoding erg3 channel was cloned from a human brain library.
+Northern analysis confirmed that the channel was localized to brain relative to other tissues including heart, liver and lung.
+Within the brain, erg3 was expressed in higher amounts in the frontal lobe and cerebellum relative to the temporal, parietal and occipital lobes.
+Transient expression of erg3 in Chinese hamster ovary cells produced outwardly directed K(+) currents that activated at approximately -50 mV and produced a large transient component at positive membrane potentials.
+Inward tail currents measured at -100 mV were blocked in a dose-dependent fashion by sertindole resulting in an IC(50) value of 43 nM. Significant inhibition was observed at concentrations as low as 3 nM. Block of erg3 by sertindole also displayed a positive voltage-dependence.
+Pimozide blocked erg3 channel currents with an IC(50) of 103 nM and significant inhibition was noted at concentrations of 10 nM and higher.
+We conclude that erg3 can be blocked by certain antipsychotic drugs like sertindole and pimozide.
+Inhibition of erg3 or related K(+) channels in the brain may contribute to the efficacy/side effect profiles of some antipsychotic drugs.

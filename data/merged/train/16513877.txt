@@ -1,0 +1,8 @@
+DRD2 promoter region variation as a predictor of sustained response to antipsychotic medication in first-episode schizophrenia patients.
+OBJECTIVE: All antipsychotics act on the dopamine D(2) receptor.
+The present study extends prior pharmacogenetic investigations of the D(2) receptor gene (DRD2) by examining, in first-episode schizophrenia patients, promoter region variation as a predictor of response time to two first-line atypical antipsychotics.
+METHOD: Patients experiencing their first episode of schizophrenia (N=61) were genotyped for two DRD2 promoter region polymorphisms (A-241G and -141C Ins/Del) and were randomly assigned to receive 16 weeks of treatment with either risperidone or olanzapine.
+Time until sustained response (two consecutive ratings without significant positive symptoms) for rare allele carriers versus wild types was examined by using Kaplan-Meier curves.
+RESULTS: Relative to wild type homozygotes, G carriers (A-241G) exhibited a significantly faster time until response, whereas -141C Del carriers took a significantly longer time to respond.
+Diplotype analysis revealed similar results.
+CONCLUSIONS: These findings suggest that variation in the D(2) receptor gene can, in part, explain variation in the timing of clinical response to antipsychotics in patients with first-episode schizophrenia.

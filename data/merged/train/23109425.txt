@@ -1,0 +1,10 @@
+Systematic identification of functional residues in mammalian histone H2AX.
+The histone variant H2AX is a principal component of chromatin involved in the detection, signaling, and repair of DNA double-strand breaks (DSBs).
+H2AX is thought to operate primarily through its C-terminal S139 phosphorylation, which mediates the recruitment of DNA damage response (DDR) factors to chromatin at DSB sites.
+Here, we describe a comprehensive screen of 67 residues in H2AX to determine their contributions to H2AX functions.
+Our analysis revealed that H2AX is both sumoylated and ubiquitylated.
+Individual residues defective for sumoylation, ubiquitylation, and S139 phosphorylation in untreated and damaged cells were identified.
+Specifically, we identified an acidic triad region in both H2A and H2AX that is required in cis for their ubiquitylation.
+We also report the characterization of a human H2AX knockout cell line, which exhibits DDR defects, including p53 activation, following DNA damage.
+Collectively, this work constitutes the first genetic complementation system for a histone in human cells.
+Finally, our data reveal new roles for several residues in H2AX and define distinct functions for H2AX in human cells.

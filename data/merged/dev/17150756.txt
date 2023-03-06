@@ -1,0 +1,4 @@
+Molecular recognition of histidine tRNA by histidyl-tRNA synthetase from hyperthermophilic archaeon, Aeropyrum pernix K1.
+To investigate the recognition sites of histidine tRNA for histidyl-tRNA synthetase from an extreme hyperthermophilic archaeon, Aeropyrum pernix K1, we examined histidylation activities by using overexpressed histidyl-tRNA synthetase and various histidine tRNA transcripts that were prepared by in vitro transcription system.
+Results indicated that anticodon was not recognized by the histidyl-tRNA synthetase similar to that of Escherichia coli histidine tRNA recognition system.
+Discriminator base C73 was weekly recognized and an additional G residue was specifically recognized by the enzyme.

@@ -1,0 +1,7 @@
+NF-κB-associated mechanisms underlying the response of embryonic cells to Doxorubicin.
+The involvement of NF-κB in the regulation of teratogen-induced apoptosis has not been established yet.
+Therefore, we tried to assess the involvement of the p65 subunit of NF-κB in the embryonic response to the anti-cancer drug Doxorubicin (DOX).
+Thus, exposure of p65 knockout (p65(-/-)) or wild type (WT) mouse embryonic fibroblasts (MEFs) to DOX resulted in a decrease in cell survival, culture density and cell proliferation, which was found to be more prominent in p65(-/-) MEFs.
+Those phenomena were accompanied by a DOX-induced increase in the proportion of apoptotic cells, which was demonstrated only in p65(-/-) cells and a G2/M arrest, which was found to be more prominent in WT cells.
+Furthermore, DOX-treated WT and p65(-/-) MEFs differed in their expression of various apoptosis-associated molecules, when the former demonstrated a decrease in the percentage of p65-positive and a more prominent decrease in the percentage of p53-positive cells, while a decreased percentage of IκBα-positive and a more prominent decrease in the percentage of bcl-2-positive cells was detected among the latter.
+The fact that the response of the cells to the teratogen was clearly p65-dependent implicates this molecule to be involved in the response of the embryonic cells to DOX.

@@ -1,0 +1,10 @@
+The Fusarium toxin deoxynivalenol (DON) modulates the LPS induced acute phase reaction in pigs.
+The systemic effects of the Fusarium toxin deoxynivalenol (DON) and of bacterial lipopolysaccharides (LPS) were studied in male castrated pigs (40.4±3.7kg) infused intravenously with either DON or LPS alone (100μgDON/kg/h, 7.5μg/LPS/kg/h), or together (100μgDON plus 7.5μg/LPS/kg/h).
+The Control group received a saline infusion (n=6/treatment, 24h observation period).
+An additional DON infusion did not exacerbate the clinical signs observed in LPS-infused pigs.
+For example, rectal temperature climaxed after 4h (40.4±0.2°C) and 5h (40.1±0.3°C), in the LPS and LPS+DON groups, respectively.
+Saline and DON alone did not induce an acute phase reaction as indicated by unaltered plasma levels of tumor necrosis factor-alpha (TNF-alpha) and interleukin-6 (IL-6) while LPS caused a significant rise of both cytokines.
+TNF-alpha plasma peak concentrations were significantly higher in the LPS compared to the DON+LPS group (94.3±17.2ng/mL vs. 79.2±15.7ng/mL) while IL-6 climaxed earlier in the latter group (3h p.i.
+vs. 2h p.i.).
+From the tested clinical-chemical plasma characteristics the total bilirubin concentration and the ASAT activity were strongly elevated by the LPS infusion and additionally increased and decreased by DON, respectively.
+In conclusion, the LPS-induced effects were only marginally modified by DON.

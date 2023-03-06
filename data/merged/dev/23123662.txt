@@ -1,0 +1,10 @@
+Contributions of rat Ctr1 to the uptake and toxicity of copper and platinum anticancer drugs in dorsal root ganglion neurons.
+Dorsal root ganglion (DRG) neurons are affected by platinum-induced neurotoxicity and neurodegenerative processes associated with disturbed copper homeostasis and transport.
+This study aimed to understand the role of copper transporter 1 (Ctr1) in the uptake and toxicity of copper and platinum drugs in cultured rat DRG neurons, and the functional activities of rat Ctr1 (rCtr1) as a membrane transporter of copper and platinum drugs.
+Heterologous expression of rCtr1 in HEK293 cells (HEK/rCtr1 cells) increased the uptake and cytotoxicity of copper, oxaliplatin, cisplatin and carboplatin, in comparison to isogenic vector-transfected control cells.
+Cultured rat DRG neurons endogenously expressed rCtr1 protein on their neuronal cell body plasma membranes and cytoplasm, and displayed substantial capacity for taking up copper, but were resistant to copper toxicity.
+The uptake of copper by both cultured rat DRG neurons and HEK/rCtr1 cells was saturable and inhibited by cold temperature, silver and zinc, consistent with it being mediated by rCtr1.
+Cultured rat DRG neurons accumulated platinum during their exposure to oxaliplatin and were sensitive to oxaliplatin cytotoxicity.
+The accumulation of platinum by both cultured rat DRG neurons and HEK/rCtr1 cells, during oxaliplatin exposure, was saturable and temperature dependent, but was inhibited by copper only in HEK/rCtr1 cells.
+In conclusion, rCtr1 can transport copper and platinum drugs, and sensitizes cells to their cytotoxicities.
+DRG neurons display substantial capacity for accumulating copper via a transport process mediated by rCtr1, but appear able to resist copper toxicity and use alternative mechanisms to take up oxaliplatin.

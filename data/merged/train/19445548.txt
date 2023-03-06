@@ -1,0 +1,39 @@
+Atomoxetine: a review of its use in attention-deficit hyperactivity disorder in children and adolescents.
+Atomoxetine (Strattera(R)) is a selective norepinephrine (noradrenaline) reuptake inhibitor that is not classified as a stimulant, and is indicated for use in patients with attention-deficit hyperactivity disorder (ADHD).
+Atomoxetine is effective and generally well tolerated.
+It is significantly more effective than placebo and standard current therapy and does not differ significantly from or is noninferior to immediate-release methylphenidate; however, it is significantly less effective than the extended-release methylphenidate formulation OROS(R) methylphenidate (hereafter referred to as osmotically released methylphenidate) and extended-release mixed amfetamine salts.
+Atomoxetine can be administered either as a single daily dose or split into two evenly divided doses, has a negligible risk of abuse or misuse, and is not a controlled substance in the US.
+Atomoxetine is particularly useful for patients at risk of substance abuse, as well as those who have co-morbid anxiety or tics, or who do not wish to take a controlled substance.
+Thus, atomoxetine is a useful option in the treatment of ADHD in children and adolescents.
+The mechanism of action of atomoxetine is unclear, but is thought to be related to its selective inhibition of presynaptic norepinephrine reuptake in the prefrontal cortex.
+Atomoxetine has a high affinity and selectivity for norepinephrine transporters, but little or no affinity for various neurotransmitter receptors.
+Atomoxetine has a demonstrated ability to selectively inhibit norepinephrine uptake in humans and animals, and studies have shown that it preferentially binds to areas of known high distribution of noradrenergic neurons, such as the fronto-cortical subsystem.
+Atomoxetine was generally associated with statistically, but not clinically, significant increases in both heart rate and blood pressure in pediatric patients with ADHD.
+While there was an initial loss in expected height and weight among atomoxetine recipients, this eventually returned to normal in the longer term.
+Data suggest that atomoxetine is unlikely to have any abuse potential.
+Atomoxetine appeared less likely than methylphenidate to exacerbate disordered sleep in pediatric patients with ADHD.
+Atomoxetine is rapidly absorbed, and demonstrates dose-proportional increases in plasma exposure.
+It undergoes extensive biotransformation, which is affected by poor metabolism by cytochrome P450 (CYP) 2D6 in a small percentage of the population; these patients have greater exposure to and slower elimination of atomoxetine than extensive metabolizers.
+Patients with hepatic insufficiency show an increase in atomoxetine exposure.
+CYP2D6 inhibitors, such as paroxetine, are associated with changes in atomoxetine pharmacokinetics similar to those observed among poor CYP2D6 metabolizers.
+Once- or twice-daily atomoxetine was effective in the short-term treatment of ADHD in children and adolescents, as observed in several well designed placebo-controlled trials.
+Atomoxetine also demonstrated efficacy in the longer term treatment of these patients.
+A single morning dose was shown to be effective into the evening, and discontinuation of atomoxetine was not associated with symptom rebound.
+Atomoxetine efficacy did not appear to differ between children and adolescents.
+Stimulant-naive patients also responded well to atomoxetine treatment.
+Atomoxetine did not differ significantly from or was noninferior to immediate-release methylphenidate in children and adolescents with ADHD with regard to efficacy, and was significantly more effective than standard current therapy (any combination of medicines [excluding atomoxetine] and/or behavioral counseling, or no treatment).
+However, atomoxetine was significantly less effective than osmotically released methylphenidate and extended-release mixed amfetamine salts.
+The efficacy of atomoxetine did not appear to be affected by the presence of co-morbid disorders, and symptoms of the co-morbid disorders were not affected or were improved by atomoxetine administration.
+Health-related quality of life (HR-QOL) appeared to be positively affected by atomoxetine in both short- and long-term studies; atomoxetine also improved HR-QOL to a greater extent than standard current therapy.
+Atomoxetine was generally well tolerated in children and adolescents with ADHD.
+Common adverse events included headache, abdominal pain, decreased appetite, vomiting, somnolence, and nausea.
+The majority of adverse events were mild or moderate; there was a very low incidence of serious adverse events.
+Few patients discontinued atomoxetine treatment because of adverse events.
+Atomoxetine discontinuation appeared to be well tolerated, with a low incidence of discontinuation-emergent adverse events.
+Atomoxetine appeared better tolerated among extensive CYP2D6 metabolizers than among poor metabolizers.
+Slight differences were evident in the adverse event profiles of atomoxetine and stimulants, both immediate- and extended-release.
+Somnolence appeared more common among atomoxetine recipients and insomnia appeared more common among stimulant recipients.
+A black-box warning for suicidal ideation has been published in the US prescribing information, based on findings from a meta-analysis showing that atomoxetine is associated with a significantly higher incidence of suicidal ideation than placebo.
+Rarely, atomoxetine may also be associated with serious liver injury; postmarketing data show that three patients have had liver-related adverse events deemed probably related to atomoxetine treatment.
+Treatment algorithms involving the initial use of atomoxetine appear cost effective versus algorithms involving initial methylphenidate (immediate- or extended-release), dexamfetamine, tricyclic antidepressants, or no treatment in stimulant-naive, -failed, and -contraindicated children and adolescents with ADHD.
+The incremental cost per quality-adjusted life-year is below commonly accepted cost-effectiveness thresholds, as shown in several Markov model analyses conducted from the perspective of various European countries, with a time horizon of 1 year.

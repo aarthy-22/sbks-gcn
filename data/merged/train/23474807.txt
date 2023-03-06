@@ -1,0 +1,12 @@
+Impact of the virus purification protocol on aggregation and electrokinetics of MS2 phages and corresponding virus-like particles.
+Previous experimental and theoretical studies have established that electrokinetic and aggregation properties of soft MS2 phages are not only governed by the physico-chemical features of their proteinaceous outer surface but are also significantly impacted by those of their inner RNA component (Dika et al. Appl.
+Environ.
+Microbiol., 2011, 14, 4939-4948).
+These conclusions contradict the recent findings of Nguyen et al. (Soft Matter, 2011, 7, 10449-10456) who reported identical electrokinetic and aggregation characteristics for MS2 and corresponding virus like particles (VLPs) that lack the internal RNA component.
+We demonstrate here that this contradiction originates from the different purification methods adopted prior to measurements.
+More generally, we show that stability and electrohydrodynamics of viruses differ according to purification by (i) dialysis, (ii) isopycnic centrifugation in the cesium chloride gradient, and (iii) precipitation using polyethylene glycol (PEG).
+Methods (i) and (iii) lead to aggregation of MS2 phages at pH ≤ 4 and pH ≤ 6 in 1-100 mM NaNO3 solutions, respectively, while under such conditions aggregation is not observed for MS2 and VLP suspensions prepared according to (ii).
+In addition, VLPs prepared following methods (i) and (iii) aggregate only at the isoelectric point (pH ~ 3-4) in 1 mM NaNO3 solution.
+Electrophoretic mobility data of stable MS2 and VLP particles were further examined using a recent formalism for electrokinetics of soft multilayered colloids.
+The analysis qualitatively shows how the purification protocol may affect either the outer particle surface properties and/or the inner particle content.
+Finally, the non-DLVO aggregation behavior of MS2 and VLPs purified via the above protocols is discussed in terms of the possible change in corresponding interparticular interactions.

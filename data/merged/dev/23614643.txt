@@ -1,0 +1,11 @@
+Dimerized Glycosaminoglycan Chains Increase FGF Signaling during Zebrafish Development.
+Proteoglycans (PGs) modulate numerous signaling pathways during development through binding of their glycosaminoglycan (GAG) side chains to various signaling molecules, including fibroblast growth factors (FGFs).
+A majority of PGs possess two or more GAG side chains, suggesting that GAG multivalency is imperative for biological functions in vivo.
+However, only a few studies have examined the biological significance of GAG multivalency.
+In this report, we utilized a library of bis- and tris-xylosides that produce two and three GAG chains on the same scaffold, respectively, thus mimicking PGs, to examine the importance of GAG valency and chain type in regulating FGF/FGFR interactions in vivo in zebrafish.
+A number of bis- and tris-xylosides, but not mono-xylosides, caused an elongation phenotype upon their injection into embryos.
+In situ hybridization showed that elongated embryos have elevated expression of the FGF target gene mkp3 but unchanged expression of reporters for other pathways, indicating that FGF/FGFR signaling was specifically hyperactivated.
+In support of this observation, elongation can be reversed by the tyrosine kinase inhibitor SU5402, mRNA for the FGFR antagonist sprouty4, or FGF8 morpholino.
+Endogenous GAGs seem to be unaffected after xyloside treatment, suggesting that this is a gain-of-function phenotype.
+Furthermore, expression of a multivalent but not a monovalent GAG containing syndecan-1 proteoglycan recapitulates the elongation phenotype observed with the bivalent xylosides.
+On the basis of these in vivo findings, we propose a new model for GAG/FGF/FGFR interactions in which dimerized GAG chains can activate FGF-mediated signal transduction pathways.

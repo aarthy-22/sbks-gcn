@@ -1,0 +1,12 @@
+Involvement of constitutive (COX-1) and inducible cyclooxygenase (COX-2) in the adrenergic-induced ACTH and corticosterone secretion.
+The involvement of prostaglandins synthesized by constitutive (COX-1) and inducible cyclooxygenase (COX-2) in central stimulation of the hypothalamic-pituitary-adrenal (HPA) axis by adrenergic receptor agonists was investigated in conscious rats.
+COX-1 and COX-2 inhibitor, piroxicam (0.02 and 0.2 microg) and compound NS-398 (0.01 and 0.1 microg), respectively, were given intracerebroventricularly (i.c.v.) 15 min prior to i.c.v.
+adrenergic receptor agonists: phenylephrine (30 microg) and clonidine (10 microg), an alpha1- and alpha2-adrenergic agonist, and isoprenaline (20 microg) a non-selective beta-adrenergic agonist and clenbuterol (10 microg) a selective beta2-adrenergic agonist.
+Piroxicam and NS-398 considerably and dose-dependently reduced the phenylephrine-induced increase in ACTH and corticosterone secretion.
+Pretreatment with piroxicam and NS-398 markedly impaired the clonidine-evoked ACTH and corticosterone secretion.
+Piroxicam moderately diminished the isoprenaline-elicited increase in ACTH and corticosterone, while NS-398 did not markedly alter ACTH secretion.
+The clenbuterol-induced ACTH and corticosterone responses were considerably impaired by pretreatment with piroxicam, and slightly less potently by NS-398.
+These results indicate that in central structures involved in regulation of the HPA axis both constitutive and inducible cyclooxygenase are present under normal conditions in rats.
+These isoenzymes are significantly involved in the stimulatory signaling transduced by postsynaptic alpha1-adrenergic receptors and, to a lesser extent, by alpha2-adrenergic receptors.
+Both isoenzymes affect moderately the stimulatory action of a non-selective beta-adrenergic agonist on ACTH and corticosterone secretion.
+COX-1 participates considerably and COX-2 markedly in the potent stimulatory action of selective beta2-adrenergic receptors on HPA axis.

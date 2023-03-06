@@ -1,0 +1,9 @@
+The biologic activity and molecular characterization of a novel synthetic interferon-alpha species, consensus interferon.
+Consensus interferon (Infergen) is a wholly synthetic type I interferon (IFN), developed by scanning several interferon-alpha nonallelic subtypes and assigning the most frequently observed amino acid in each position, resulting in a consensus sequence.
+The antiviral, antiproliferative, NK cell activation activity, cytokine induction, and interferon-stimulated gene-induction activity of consensus interferon has been compared with naturally occurring type I interferons.
+In all of these comparisons, consensus interferon had a higher activity when compared, on a mass basis, with IFN-alpha 2a and IFN-alpha 2b, although the activity was the same for all of these parameters on an antiviral unit basis.
+That a synthetic type I interferon could have higher activities than naturally occurring molecules is surprising and may be a result of the higher affinity for the array of type I interferon receptors demonstrated for consensus interferon when compared with IFN-alpha.
+In contrast, consensus interferon was shown to be an inferior inducer of IL-1 beta when compared with IFN-alpha.
+These results may reflect differential binding to multiple accessory proteins interacting with a type I interferon receptor.
+These unique biologic properties may lead to a favorable clinical benefit for consensus interferon when compared with the naturally occurring recombinant molecules.
+Ongoing clinical trials will ascertain whether consensus interferon can be used in a wide array of disease situations, such as chronic viral infections and certain malignancies.

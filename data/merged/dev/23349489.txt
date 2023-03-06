@@ -1,0 +1,8 @@
+β-Cells Are Not Generated in Pancreatic Duct Ligation-Induced Injury in Adult Mice.
+The existence of adult β-cell progenitors remains the most controversial developmental biology topic in diabetes research.
+It has been reported that β-cell progenitors can be activated by ductal ligation-induced injury of adult mouse pancreas and apparently act in a cell-autonomous manner to double the functional β-cell mass within a week by differentiation and proliferation.
+Here, we demonstrate that pancreatic duct ligation (PDL) does not activate progenitors to contribute to β-cell mass expansion.
+Rather, PDL stimulates massive pancreatic injury, which alters pancreatic composition and thus complicates accurate measurement of β-cell content via traditional morphometry methodologies that superficially sample the pancreas.
+To overcome this potential bias, we quantified β-cells from the entire pancreas and observed that β-cell mass and insulin content are totally unchanged by PDL-induced injury.
+Lineage-tracing studies using sequential administration of thymidine analogs, rat insulin 2 promoter-driven cre-lox, and low-frequency ubiquitous cre-lox reveal that PDL does not convert progenitors to the β-cell lineage.
+Thus, we conclude that β-cells are not generated in injured adult mouse pancreas.

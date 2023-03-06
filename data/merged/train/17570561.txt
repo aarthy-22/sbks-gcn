@@ -1,0 +1,8 @@
+Anthocyanin, antioxidant activity and stress-induced gene expression in high CO2-treated table grapes stored at low temperature.
+A pretreatment with 20kPa CO2+20 kPa O2+60 kPa N2 for 3 days proved effective in maintaining the fruit quality and controlling decay in table grapes (Vitis vinifera cv.
+Cardinal) stored at 0 degrees C. In the present work, we analyzed whether total anthocyanin content, the molecular mechanism implicated in their biosynthesis and antioxidant activity is related to the beneficial effect of this gaseous treatment.
+We isolated partial cDNAs that codified for enzymes implicated in the anthocyanin biosynthesis such as l-phenylalanine ammonia-lyase (PAL) and chalcone synthase (CHS), and an antioxidant enzyme such as ascorbate peroxidase (APX).
+Low temperatures induced an accumulation of total anthocyanin content in the skin of both treated and non-treated grapes, although levels were lower in CO2-treated fruit.
+By contrast, antioxidant activity decreased during storage at 0 degrees C in non-treated grapes but did not change in CO2-treated grapes.
+The up-regulation of anthocyanin biosynthesis gene expression and VcAPX mRNA observed in non-treated grape is not enhanced in CO2-treated grapes, which presented low total decay.
+These results point out the ability of CO2-treated grapes to prevent the generation of reactive oxygen species rather than their inactivation by means of induction of studied defense systems.

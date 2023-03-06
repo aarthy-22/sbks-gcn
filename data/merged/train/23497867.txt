@@ -1,0 +1,7 @@
+AKT signalling and mitochondrial pathways are involved in mushroom polysaccharide-induced apoptosis and G1 or S phase arrest in human hepatoma cells.
+This study describes molecular mechanisms for inhibiting tumour cell proliferation using polysaccharides from medicinal mushrooms in human hepatoma cells.
+The results show that regarding cell cycle-related proteins, three types of polysaccharides significantly enhance the expression of p27(Kip) in HepG2 and Bel-7404 cells, while suppressing the activity of cyclin D1/CDK4 and/or cyclin E/CDK2.
+Considering apoptosis-related factors, the polysaccharides suppressed AKT activity through the inhibition of AKT phosphorylation at Thr(308) and/or Ser(473).
+The growth of HepG2 and Bel-7404 cells was suppressed by the up-regulation of a subunit of PI3K and phospho-PTEN, which are modulators of AKT activity.
+The polysaccharides also activated the mitochondria-mediated apoptosis pathway by stimulating the activation of Bcl-2 family proteins to release cytochrome c and Smac and cleave caspase-9 and caspase-3 in HepG2 and Bel-7404 cells.
+These factors have a potent effect on cell cycle arrest in G(1) and/or S phase and induce apoptosis in HepG2 and Bel-7404 cells.

@@ -1,0 +1,10 @@
+Cloning and characterization of a novel human phosphodiesterase that hydrolyzes both cAMP and cGMP (PDE10A).
+cDNA encoding a novel phosphodiesterase (PDE) was isolated from a human fetal lung cDNA library and designated PDE10A.
+The deduced amino acid sequence contains 779 amino acids, including a putative cGMP binding sequence in the amino-terminal portion of the molecule and a catalytic domain that is 16-47% identical in amino acid sequence to those of other PDE families.
+Recombinant PDE10A transfected and expressed in COS-7 cells hydrolyzed cAMP and cGMP with Km values of 0.26 and 7.2 microM, respectively, and Vmax with cGMP was almost twice that with cAMP.
+Of the PDE inhibitors tested, dipyridamole was most effective, with IC50 values of 1.2 and 0.45 microM for inhibition of cAMP and cGMP hydrolysis, respectively.
+cGMP inhibited hydrolysis of cAMP, and cAMP inhibited cGMP hydrolysis with IC50 values of 14 and 0.39 microM, respectively.
+Thus, PDE10A exhibited properties of a cAMP PDE and a cAMP-inhibited cGMP PDE.
+PDE10A transcripts were particularly abundant in the putamen and caudate nucleus regions of brain and in thyroid and testis, and in much lower amounts in other tissues.
+The PDE10A gene was located on chromosome 6q26 by fluorescent in situ hybridization analysis.
+PDE10A represents a new member of the PDE superfamily, exhibiting unique kinetic properties and inhibitor sensitivity.

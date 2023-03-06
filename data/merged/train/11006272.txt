@@ -1,0 +1,15 @@
+A novel hepatointestinal leukotriene B4 receptor.
+Cloning and functional characterization.
+Leukotriene B(4) (LTB(4)) is a product of eicosanoid metabolism and acts as an extremely potent chemotactic mediator for inflammation.
+LTB(4) exerts positive effects on the immigration and activation of leukocytes.
+These effects suggest an involvement of LTB(4) in several diseases: inflammatory bowel disease, psoriasis, arthritis, and asthma.
+LTB(4) elicits actions through interaction with one or more cell surface receptors that lead to chemotaxis and inflammation.
+One leukotriene B(4) receptor has been recently identified (LTB(4)-R1).
+In this report we describe cloning of a cDNA encoding a novel 358-amino acid receptor (LTB(4)-R2) that possesses seven membrane-spanning domains and is homologous (42%) and genetically linked to LTB(4)-R1.
+Expression of LTB(4)-R2 is broad but highest in liver, intestine, spleen, and kidney.
+In radioligand binding assays, membranes prepared from COS-7 cells transfected with LTB(4)-R2 cDNA displayed high affinity (K(d) = 0.17 nm) for [(3)H]LTB(4).
+Radioligand competition assays revealed high affinities of the receptor for LTB(4) and LTB(5), and 20-hydroxy-LTB(4), and intermediate affinities for 15(S)-HETE and 12-oxo-ETE.
+Three LTB(4) receptor antagonists, 14,15-dehydro-LTB(4), LTB(4)-3-aminopropylamide, and U-75302, had high affinity for LTB(4)-R1 but not for LTB(4)-R2.
+No apparent affinity binding for the receptors was detected for the CysLT1-selective antagonists montelukast and zafirlukast.
+LTB(4) functionally mobilized intracellular calcium and inhibited forskolin-stimulated cAMP production in 293 cells.
+The discovery of this new receptor should aid in further understanding the roles of LTB(4) in pathologies in these tissues and may provide a tool in identification of specific antagonists/agonists for potential therapeutic treatments.

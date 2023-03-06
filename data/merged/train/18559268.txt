@@ -1,0 +1,7 @@
+Optimization of taxane binding to microtubules: binding affinity dissection and incremental construction of a high-affinity analog of paclitaxel.
+The microtubule binding affinities of a series of synthetic taxanes have been measured with the aims of dissecting individual group contributions and obtaining a rationale for the design of novel compounds with the ability to overcome drug resistance.
+As previously observed for epothilones, the positive and negative contributions of the different substituents to the binding free energies are cumulative.
+By combining the most favorable substitutions we increased the binding affinity of paclitaxel 500-fold.
+Insight into the structural basis for this improvement was gained with molecular modeling and NMR data obtained for microtubule-bound docetaxel.
+Taxanes with affinities for microtubules well above their affinities for P-glycoprotein are shown not to be affected by multidrug resistance.
+This finding strongly indicates that optimization of the ligand-target interaction is a good strategy to overcome multidrug resistance mediated by efflux pumps.

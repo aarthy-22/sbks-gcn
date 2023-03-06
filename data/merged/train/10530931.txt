@@ -1,0 +1,5 @@
+Synthesis and antagonistic activity at muscarinic receptor subtypes of some 2-carbonyl derivatives of diphenidol.
+A series of 2-carbonyl analogues of the muscarinic antagonist diphenidol bearing 1-substituents of different lipophilic, electronic, and steric properties was synthesized and their affinity for the M2 and M3 muscarinic receptor subtypes was evaluated by functional tests.
+Two derivatives (2g and 2d) showed an M2-selective profile which was confirmed by functional tests on the M1 and M4 receptors.
+A possible relationship between M2 selectivity and lipophilicity of the 1-substituent was suggested by structure-activity analysis.
+This work showed that appropriate structural modification of diphenidol can lead to M2-selective muscarinic antagonists of possible interest in the field of Alzheimer's disease.

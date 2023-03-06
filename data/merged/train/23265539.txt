@@ -1,0 +1,10 @@
+Shelf-life of infrared dry-roasted almonds.
+Infrared heating was recently used to develop a more efficient roasting technology than traditional hot air roasting.
+Therefore, in this study, we evaluated the shelf-life of almonds roasted with three different approaches, namely infrared (IR), sequential infrared and hot air (SIRHA) and regular hot air (HA).
+Nine medium roasted almond samples produced by the aforementioned heating methods were processed at three different temperatures (130, 140 and 150 °C), packed in paper bags and then stored at 37 °C for three, six or eight months.
+Shelf-life of the roasted almonds was determined by measuring the changes in colour, peroxide value, moisture content, water activity, volatile components and sensory quality.
+No significant difference was observed in moisture content and water activity among the almond samples processed with different roasting methods and stored under the same conditions.
+GC/MS analysis showed that aldehydes, alcohols, and pyrazines were the main volatile components of almonds.
+Aliphatic aldehydes such as hexanal, (E)-2-octenal, and nonanal were produced as off-odours during storage.
+Although the overall quality of roasted almonds produced with SIRHA and HA heating was similar during the first three months of storage, their peroxide value and concentration of aliphatic aldehydes differed significantly for different roasting methods and increased significantly in all roasted samples during storage.
+We postulate that hexanal and nonanal might be better indicators of the shelf life of roasted almonds than the current standard, peroxide value.

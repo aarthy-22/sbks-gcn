@@ -1,0 +1,5 @@
+Measurement of Transport Activities of 3β-Hydroxy-Δ(5)-bile Acids in Bile Salt Export Pump and Multidrug Resistance-Associated Proteins Using LC-MS/MS.
+A method has been developed for the measurement of transport activities in membrane vesicles obtained from Sf9 cells for 3β-hydroxy-Δ(5)-bile acids by high-performance liquid chromatography-electrospray ionization-tandem mass spectrometry.
+Calibration curves for the bile acids were linear over the range of 10 to 2000 pmol/mL, and the detection limit was less than 1 pmol/mL for 3β-hydroxy-Δ(5)-bile acids using selected reaction monitoring analysis.
+The analytical method was applied to measurements of transport activities in membrane vesicles obtained from human multidrug resistance-associated protein 2-, 3-, and human bile salt export pump-expressing Sf9 cells for conjugated 3β-hydroxy-Δ(5)-bile acids.
+The present study demonstrated that human multidrug resistance-associated protein 3 vesicles accepted conjugated 3β-hydroxy-Δ(5)-bile acids along with common bile acids such as glycocholic acid and taurolithocholic acid 3-sulfate.

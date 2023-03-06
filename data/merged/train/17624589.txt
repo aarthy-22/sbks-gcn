@@ -1,0 +1,11 @@
+Glutathione S-transferase M1 and P1 polymorphisms and risk of breast cancer and fibrocystic breast conditions in Chinese women.
+Enzymes encoded by the glutathione S-tranferase mu 1 (GSTM1) and pi 1 (GSTP1) genes, which are expressed in breast tissue, catalyze the detoxification of endogenous and exogenous electrophiles.
+Reduced enzyme activity, due to carriage of the GSTM1 deletion or the GSTP1 Ile105Val Val allele, may therefore affect susceptibility to breast cancer and related conditions.
+In a case-control study of Chinese women, we examined whether these polymorphisms were associated with risk of breast cancer and fibrocystic breast conditions.
+Women diagnosed with breast cancer (n=615) or fibrocystic breast conditions (n=467) were compared to women without clinical breast disease (n=878).
+We also examined whether these associations differed by menopausal status or by presence of proliferation in the extra-tumoral epithelium among women with breast cancer and in lesions among women with fibrocystic conditions.
+No overall association of either GST polymorphism with risk of breast cancer or fibrocystic breast conditions was observed.
+There was some evidence of slightly elevated cancer risk associated with carriage of the GSTM1 null genotype and at least one GSTP1 105-Val allele (OR=1.33, 95% CI, 0.99-1.80), compared to carriage of the GSTM1 non-null and GSTP1 Ile/Ile genotypes.
+This relationship was stronger in women who had breast cancer with extra-tumoral tissue proliferation (OR=1.77, 95% CI, 1.03-3.04).
+Our results suggest that GSTM1 and GSTP1 genotypes do not individually influence susceptibility to breast cancer or fibrocystic breast conditions.
+The observed increased risk of breast cancer associated with joint carriage of the GSTM1 null genotype and GSTP1 105-Val allele needs confirmation in other studies.

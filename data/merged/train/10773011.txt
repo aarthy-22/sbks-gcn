@@ -1,0 +1,12 @@
+Cyclooxygenase-2 contributes to N-methyl-D-aspartate-mediated neuronal cell death in primary cortical cell culture.
+Cyclooxygenase isozymes (COX-1 and COX-2) are found to be constitutively expressed in brain, with neuronal expression of COX-2 being rapidly induced after numerous insults, including cerebral ischemia.
+Because overactivation of N-methyl-D-aspartate (NMDA) receptors has been implicated in the cell loss associated with ischemia, we characterized the expression of the COX isozymes in murine mixed cortical cell cultures and used isozyme-selective inhibitors to determine their relative contribution to NMDA receptor-stimulated prostaglandin (PG) production and excitotoxic neuronal cell death.
+Immunocytochemical analysis of mixed cortical cell cultures revealed that COX-2 expression was restricted to neurons, whereas COX-1 was expressed in both neurons and astrocytes.
+Brief exposure to NMDA (5 min; 100 microM) elicited a time-dependent accumulation of PGs in the culture medium that preceded neuronal cell death and correlated with the induction of COX-2 mRNA.
+COX-1 expression remained unchanged.
+Flurbiprofen, a nonselective COX-1/COX-2 inhibitor, blocked NMDA-stimulated PG production and attenuated neuronal death in a concentration-dependent manner.
+Similar results were obtained with the specific COX-2 inhibitor NS-398 (10-30 microM) but not with the selective COX-1 inhibitor valeryl salicylate (10-300 microM).
+Inhibition of total constitutive COX activity with aspirin (100 microM, 1.5 h) before NMDA exposure did not prevent subsequent NMDA-mediated neuronal cell death.
+However, neuronal injury in aspirin-pretreated cultures was attenuated by flurbiprofen administration after NMDA exposure.
+Finally, the protection afforded by COX-2 inhibition was specific for NMDA because neither flurbiprofen nor NS-398 protected neurons against kainate-mediated neurotoxicity.
+Together, these results support the conclusion that newly synthesized COX-2 protein contributes to NMDA-induced neuronal injury.

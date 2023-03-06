@@ -1,0 +1,20 @@
+Gonadotropin-releasing hormone receptor gene expression during pubertal development of male rats.
+Appropriate expression of the GnRH receptor (GnRH-R) in gonadotropes is critical for GnRH signaling and hence for gonadotropin secretion and sexual development.
+In the present work, we have studied the ontogeny of the steady-state GnRH-R mRNA levels in pituitaries of male rats from Day 5 to Day 55, when sexual maturity is attained.
+Developmental changes of gonadotropin subunit (alpha, FSHbeta, and LHbeta) mRNA levels were also assessed.
+In addition, the role of the endogenous GnRH on the maturational changes of GnRH-R and gonadotropin subunit gene expression was investigated.
+Messenger RNA levels were determined by Northern blot analysis of total RNA from anterior pituitaries.
+Amounts of the most abundant (5.0 kb) GnRH-R mRNA increased slowly from Day 5 through the infantile and the juvenile periods, to peak at Day 35 (12-fold increase vs. Day 5).
+Thereafter, the levels of the GnRH-R mRNA decline slightly until Day 55 (33% decrease vs. Day 35).
+Parallel changes were observed on the 4.5-kb transcript of the GnRH-R gene.
+Alpha subunit mRNA was easily detected at Day 5, and its levels increased progressively through the infantile period (2.5-fold increase) and peaked at Day 25 (3.3-fold increase vs. Day 5) with a smooth nonstatistically significant increment until Day 35; then it decreased by 41.5% at Day 55.
+FSHbeta and LHbeta mRNA levels rose slowly until Day 25.
+A sharp rise occurred thereafter to reach maximum levels at Day 35 (5.8-fold for FSHbeta and 3.8-fold for LHbeta vs. Day 25).
+Thereafter, the levels of both mRNAs fell until Day 55 (44.1% decrease for FSHbeta and 37.1% decrease for LHbeta vs. Day 35).
+To ascertain whether developmental activation of the GnRH-R and gonadotropin subunit gene expression is GnRH dependent, we have studied the effect of blocking the endogenous GnRH action by treating developing male rats with the specific GnRH antagonist cetrorelix (1.5 mg/kg body weight/week, s.c.) through the infantile (Days 5-20) and the juvenile periods (Days 20-35).
+Cetrorelix completely blocked the rise of levels of the two most abundant species, 5.0 kb and 4.5 kb, of the GnRH-R mRNA, during both the infantile and the juvenile periods.
+Cetrorelix also abolished the developmental rise of the gonadotropin beta subunit mRNAs during the two periods of the study.
+In contrast, the alpha subunit gene expression was not altered by cetrorelix treatment during any of the two periods.
+These data demonstrate that sexual maturation of male rats is accompanied by a progressive and concerted induction of GnRH-R and gonadotropin subunit gene expression.
+Developmental activation of GnRH-R and gonadotropin beta subunit genes is GnRH dependent.
+The apparent GnRH-independent regulation of the alpha-glycoprotein subunit mRNA levels may be due to the contribution of thyrotropes and perhaps to the presence of exclusive regulatory signals for this gene.

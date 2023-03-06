@@ -1,0 +1,11 @@
+Effects of the inhibition of cyclo-oxygenase 1 or 2 or 5-lipoxygenase on the activation of the hypothalamic-pituitary-adrenal axis induced by interleukin-1beta in the male Rat.
+The limited entry of interleukin-1beta (IL-1beta) into the central nervous system has led to the hypothesis that IL-1beta acts, through IL-1beta receptors located notably on endothelial cells, on the release of prostaglandins which in turn stimulate the hypothalamic-pituitary-adrenal (HPA) axis.
+We used cyclo-oxygenase-1 (COX-1) and cyclo-oxygenase-2 (COX-2) and 5-lipoxygenase (5-LOX) inhibitors, before the injection of IL-1beta, to explore the role of arachidonic acid metabolic pathways on HPA axis activation.
+Adult male rats were i.m injected 20 min before i.p injection of IL-1beta, with (i): a COX-1/COX-2 inhibitor (ketoprofen); (ii) a COX-2 selective inhibitor (NS 398); or (iii) a 5-LOX inhibitor (BW A4C).
+Following this, rats were killed 90 min after i.p.
+IL-1beta injection and analysis for plasma adrenocorticotropic hormone (ACTH) and corticosterone concentrations and determination of anterior pituitary pro-opio melanocortin (POMC) gene transcription was conducted.
+Administration of the COX-1/COX-2 inhibitor led to a complete blockage of ACTH and corticosterone secretion and POMC gene transcription.
+The COX-2 inhibitor led to a complete blockade of ACTH secretion and POMC gene transcription but had no effect on corticosterone secretion.
+The 5-LOX inhibitor had no significant effect on any parameter.
+These results demonstrate the crucial role of eicosanoid pathways in mediating the stimulation of the HPA axis induced by IL-1beta.
+Moreover, we found a clear dissociation of the effect of the blockage of COXs upon ACTH and corticosterone secretion, suggesting that IL-1beta may act at the brain as well as at the adrenal cortex to stimulate the secretion of corticosterone.

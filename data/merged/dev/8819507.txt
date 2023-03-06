@@ -1,0 +1,11 @@
+Alpha-2 adrenoceptor subtype causing nitric oxide-mediated vascular relaxation in rats.
+The alpha-2 adrenoceptor subtype and its signal transduction pathway mediating vascular relaxation in rats were studied in vitro using rings of superior mesenteric arteries.
+Removal of endothelium or incubation with NG-nitro-L-arginine completely blocked relaxant responses to UK14,304, suggesting endothelium-derived nitric oxide mediates relaxation.
+The order of potency for full (F) or partial (P) agonists causing relaxation was guanabenz (P) >
+UK14,304 (F) > clonidine (P) > epinephrine (F) > norepinephrine (F).
+Affinities (Ka) of alpha-2 adrenoceptor subtype-selective drugs for blocking relaxation were obtained in side-by-side experiments comparing rat mesenteric arteries with pig coronary arteries.
+Relaxation of pig coronary arteries is known to be mediated by the alpha-2A adrenoceptor subtype.
+Ka values in nM for rauwolscine (19), WB-4101 (265), SKF-104078 (197), spiroxatrine (128), and prazosin (1531) for blocking relaxation in rat arteries were consistent with their affinities for binding at the alpha-2D adrenoceptor subtype.
+Ka values for rauwolscine and WB-4101, drugs distinguishing the alpha-2D from the alpha-2A adrenoceptor subtype, were significantly higher in blocking relaxation of rat arteries compared with pig arteries, suggesting the alpha-2D adrenoceptor subtype mediates NO-induced relaxation in rat arteries.
+We used forskolin to oppose alpha-2 adrenoceptor-mediated inhibition of cAMP formation by directly stimulating cAMP formation in endothelium.
+Forskolin did not affect the relaxant response to UK14,304, suggesting that cAMP is not involved in the coupling of alpha-2 adrenoceptors to nitric oxide-induced vascular relaxation.

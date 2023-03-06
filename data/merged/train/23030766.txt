@@ -1,0 +1,7 @@
+Effective phagocytosis of low Her2 tumor cell lines with engineered, aglycosylated IgG displaying high FcγRIIa affinity and selectivity.
+Glycans anchored to residue N297 of the antibody IgG Fc domain are critical in mediating binding toward FcγRs to direct both adaptive and innate immune responses.
+However, using a full length bacterial IgG display system, we have isolated aglycosylated Fc domains with mutations that confer up to a 160-fold increase in the affinity toward the low affinity FcγRIIa-R131 allele as well as high selectivity against binding to the remarkably homologous human inhibitory receptor, FcγRIIb.
+The mutant Fc domain (AglycoT-Fc1004) contained a total of 5 amino acid substitutions that conferred an activating to inhibitory ratio of 25 (A/I ratio; FcyRIIa-R131:FcγRIIb).
+Incorporation of this engineered Fc into trastuzumab, an anti-Her2 antibody, resulted in a 75% increase in tumor cell phagocytosis by macrophages compared to that of the parental glycosylated trastuzumab with both medium and low Her2-expressing cancer cells.
+A mathematical model has been developed to help explain how receptor affinity and the A/I ratio relate to improved antibody dependent cell-mediated phagocytosis.
+Our model provides guidelines for the future engineering of Fc domains with enhanced effector function.

@@ -1,0 +1,11 @@
+Food reward-sensitive interaction of ghrelin and opioid receptor pathways in mesolimbic dopamine system.
+Ghrelin is a stomach-derived orexigenic peptide.
+The goal of the study was to investigate the roles of mu and kappa opioid receptors in systemic ghrelin-mediated regulation of the mesolimbic dopamine system.
+To evaluate the interaction of systemic ghrelin with values of food reward, rats were exposed to food removal, regular food or palatable food after systemic ghrelin administration.
+Extracellular dopamine levels were quantified in the nucleus accumbens (NAc) and receptor-specific compounds were infused into the ventral tegmental area (VTA) using dual-probe microdialysis.
+Consumption of regular or palatable food without systemic ghrelin administration induced an increase in dopamine levels in the NAc via activation of mu opioid receptors in the VTA.
+Systemic ghrelin administration (3 nmol, i.v.) followed by no food induced a decrease in dopamine levels via activation of kappa opioid receptors in the VTA.
+Systemic ghrelin administration followed by consumption of regular food induced an increase in dopamine levels via preferential activation of mu opioid receptors, whereas systemic ghrelin administration followed by consumption of palatable food suppressed the increase in dopamine levels via preferential activation of kappa opioid receptors.
+Thus, natural food reward and systemic ghrelin activate mu and kappa opioid receptor pathways in the VTA, respectively, resulting in opposite influences on dopamine release in the NAc.
+Furthermore, systemic ghrelin induces switching of the dominant opioid receptor pathway for highly rewarding food from mu to kappa, resulting in suppression of the mesolimbic dopamine system.
+These novel findings might provide insights into the neural pathways involved in eating disorders.

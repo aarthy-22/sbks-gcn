@@ -1,0 +1,5 @@
+Cholinergic modulation by opioid receptor ligands: potential application to Alzheimer's disease.
+Morphinans have a storied history in medicinal chemistry as pain management drugs but have received attention as modulators of cholinergic signaling for the treatment of Alzheimer's Disease (AD).
+Galantamine is a reversible, competitive acetylcholinesterase (AChE) inhibitor and allosteric potentiating ligand of nicotinic acetylcholine receptors (nAChR-APL) that shares many common structural elements with morphinan-based opioids.
+The structurally diverse opioids codeine and eseroline, like galantamine, are also nAChR-APL that have greatly diminished affinity for AChE, representing potential lead compounds for selective nAChR-APL development.
+In accordance with the emerging repurposing trend of evaluating known compounds for novel pharmacological activity, ongoing research on augmentation of cholinergic signaling that has been aided by the use of opioids will be reviewed.

@@ -1,0 +1,7 @@
+eIF4F suppression in breast cancer affects maintenance and progression.
+Levels of eukaryotic initiation factor 4E (eIF4E) are frequently elevated in human cancers and in some instances have been associated with poor prognosis and outcome.
+Here we utilize transgenic and allograft breast cancer models to demonstrate that increased mammalian target of rapamycin (mTOR) signalling can be a significant contributor to breast cancer progression in vivo.
+Suppressing mTOR activity, as well as levels and activity of the downstream translation regulators, eIF4E and eIF4A, delayed breast cancer progression, onset of associated pulmonary metastasis in vivo and breast cancer cell invasion and migration in vitro.
+Translation of vascular endothelial growth factor (VEGF), matrix metallopeptidase 9 (MMP9) and cyclin D1 mRNAs, which encode products associated with the metastatic phenotype, is inhibited upon eIF4E suppression.
+Our results indicate that the mTOR/eIF4F axis is an important contributor to tumor maintenance and progression programs in breast cancer.
+Targeting this pathway may be of therapeutic benefit.

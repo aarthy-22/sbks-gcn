@@ -1,0 +1,7 @@
+Benzenesulfonamides: a unique class of chemokine receptor type 4 inhibitors.
+The interaction of CXCR4 with CXCL12 (SDF-1) plays a critical role in cancer metastasis by facilitating the homing of tumor cells to metastatic sites.
+Based on our previously published work on CXCR4 antagonists, we have synthesized a series of aryl sulfonamides that inhibit the CXCR4/CXCL12 interaction.
+Analogue bioactivities were assessed with binding affinity and Matrigel invasion assays.
+Computer modeling was employed to evaluate a selection of the new analogues docked into the CXCR4 X-ray structure and to rationalize discrepancies between the affinity and Matrigel in vitro assays.
+A lead compound displays nanomolar potency in the binding affinity assay (IC(50)=8.0 nM) and the Matrigel invasion assay (100 % blockade of invasion at 10 nM).
+These data demonstrate that benzenesulfonamides are a unique class of CXCR4 inhibitors with high potency.

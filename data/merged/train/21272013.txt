@@ -1,0 +1,6 @@
+VMAT2: a dynamic regulator of brain monoaminergic neuronal function interacting with drugs of abuse.
+The monoaminergic neuron, in particular the dopaminergic neuron, is central to mediating the hedonic and addictive properties of drugs of abuse.
+The effects of amphetamine (AMPH) and cocaine (COC), for example, depend on the ability to increase dopamine in the synapse, by effects on either the plasma membrane transporter DAT or the vesicular transporter for monoamine storage, VMAT2.
+The potential role of DAT as a target for AMPH and COC has been reviewed extensively.
+Here, we present VMAT2 as a target that enables the rewarding and addictive actions of these drugs, based on imaging, neurochemical, biochemical, cell biological, genetic, and immunohistochemical evidence.
+The presence of VMAT2 in noradrenergic, serotoninergic, histaminergic, and potentially trace aminergic neurons invites consideration of a wider role for aminergic neurotransmission in AMPH and COC abuse and addiction.

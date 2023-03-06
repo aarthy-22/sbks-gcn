@@ -1,0 +1,9 @@
+Usefulness of ancillary methods for diagnosis, prognosis and targeted therapy in thyroid pathology.
+The development of molecular analyses for thyroid pathologies is on going.
+These analyses provide new diagnostic tools with the aim of accurately distinguishing malignant and benign thyroid tumors.
+They are particularly useful as most of them can be done preoperatively on thyroid fine-needle aspiration biopsy samples.
+Furthermore, molecular biomarkers may play a promising role since they are able to predict the prognosis of patients with thyroid tumors.
+Moreover, identification of molecular markers as well as a better understanding of thyroid carcinogenesis will help develop innovative targeted therapies, particularly in patients with metastatic iodo-resistant thyroid carcinoma.
+To date, four types of somatic genetic alterations are known to hold potential interest for the diagnosis and/or prognosis of follicular cell-derived thyroid carcinomas: BRAF and RAS mutations, and RET/PTC and PAX8/PPARγ rearrangements.
+Other recent molecular biomarkers have been investigated in thyroid oncology, in particular different microRNA signatures.
+This review describes the different aspects of ancillary methods, including those bassed on molecular biology, that are of current interest for the diagnosis, prognosis and treatment of follicular cell-derived thyroid carcinomas.

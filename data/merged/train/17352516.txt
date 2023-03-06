@@ -1,0 +1,9 @@
+Sitagliptin.
+Sitagliptin, an oral dipeptidyl peptidase-4 (DPP-4) inhibitor, improves glycaemic control by inhibiting DPP-4 inactivation of the incretin hormones glucagon-like peptide-1 and glucose-dependent insulinotropic polypeptide.
+This increases active incretin and insulin levels, and decreases glucagon levels and post-glucose-load glucose excursion.
+In large, well designed phase III trials in patients with type 2 diabetes mellitus, sitagliptin 100 or 200mg once daily alone or in combination with other antihyperglycaemics was associated with significant improvements relative to placebo in overall glycaemic control and indices for insulin response and beta-cell function.
+Improvements from baseline in mean glycosylated haemoglobin (HbA(1c)) were significantly greater with sitagliptin monotherapy than with placebo in patients with type 2 diabetes.
+As add-on therapy in patients with suboptimal glycaemic control despite oral antihyperglycaemic treatment, sitagliptin improved HbA(1c) to a significantly greater extent than placebo when added to metformin or pioglitazone and was noninferior to glipizide when added to metformin.
+Sitagliptin was well tolerated when administered alone or in combination with other antihyperglycaemics, with an adverse event profile similar to that shown with placebo.
+The incidence of hypoglycaemia with sitagliptin was similar to that with placebo and, in combination with metformin, lower than that with glipizide.
+Sitagliptin had a generally neutral effect on bodyweight.

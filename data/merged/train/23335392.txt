@@ -1,0 +1,11 @@
+Group I mGluRs evoke K-ATP current by intracellular Ca2+ mobilization in rat subthalamus neurons.
+We reported previously that Ca(2+) influx through N-methly-d-aspartate-gated channels evokes ATP-sensitive K(+) (K-ATP) currents in rat subthalamic nucleus (STN) neurons.
+By using whole-cell patch clamp recordings in brain slices, we investigated the ability of (RS)-3,5-dihydroxyphenylglycine (DHPG), a group I metabotropic glutamate receptor (mGluR) agonist, to evoke K-ATP currents.
+DHPG (20 µM) evoked outward current at -70 mV and was associated with a positive slope conductance of 2.7 nS. The sulfonylurea agent tolbutamide (100 µM) converted the positive slope to negative slope conductance, indicating mediation by K-ATP channels (ATP-sensitive K+ channels).
+Currents evoked by DHPG were significantly reduced by a combination of mGluR1 and mGluR5 negative allosteric modulators.
+DHPG-evoked outward current was blocked by cyclopiazonic acid and thapsigargin and mimicked by caffeine, suggesting mediation by release of intracellular Ca(2+).
+DHPG outward current was also blocked by ryanodine and 2-aminoethoxydiphenylborane, suggesting mediation by ryanodine- and inositol 1,4,5-triphosphate-sensitive Ca(2+) release.
+The nitric oxide synthase inhibitor N(G)-nitro-l-arginine methyl ester and inhibitors of protein kinase G activity also suppressed DHPG-induced outward current.
+Voltage recordings showed that tolbutamide prolonged depolarizing plateau potentials and increased the spontaneous firing rate of STN neurons recorded in the presence of DHPG.
+These results show that group I mGluR stimulation generates K-ATP current by a nitric oxide- and protein kinase G-dependent process that is mediated by release of Ca(2+) from intracellular stores.
+Because burst firing is linked to symptoms of Parkinson's disease, we suggest that K-ATP channels might provide a physiologically important inhibitory influence on STN neuronal activity.

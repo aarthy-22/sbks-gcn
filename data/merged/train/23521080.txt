@@ -1,0 +1,8 @@
+Potent fibrinolysis inhibitor discovered by shape and electrostatic complementarity to the drug tranexamic Acid.
+Protein-protein interfaces provide an important class of drug targets currently receiving increased attention.
+The typical design strategy to inhibit protein-protein interactions usually involves large molecules such as peptides and macrocycles.
+One exception is tranexamic acid (TXA), which, as a lysine mimetic, inhibits binding of plasminogen to fibrin.
+However, the daily dose of TXA is high due to its modest potency and pharmacokinetic properties.
+In this study, we report a computational approach, where the focus was on finding electrostatic potential similarities to TXA.
+Coupling this computational technique with a high-quality low-throughput screen identified 5-(4-piperidyl)-3-isoxazolol (4-PIOL) as a potent plasminogen binding inhibitor with the potential for the treatment of various bleeding disorders.
+Remarkably, 4-PIOL was found to be more than four times as potent as the drug TXA.

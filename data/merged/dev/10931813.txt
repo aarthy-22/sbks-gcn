@@ -1,0 +1,10 @@
+Effects of a K(+) channel opener to reduce transmural dispersion of repolarization and prevent torsade de pointes in LQT1, LQT2, and LQT3 models of the long-QT syndrome.
+BACKGROUND: This study examines the effects of nicorandil, a K(+) channel opener, on transmural dispersion of repolarization (TDR) and induction of torsade de pointes (TdP) under conditions mimicking the LQT1, LQT2, and LQT3 forms of the congenital long-QT syndrome (LQTS).
+METHODS AND RESULTS: Transmembrane action potentials of epicardial, M, and endocardial cells were recorded simultaneously from an arterially perfused wedge of canine left ventricle together with a transmural ECG.
+Chromanol 293B (30 micromol/L) was used to block I(Ks) (LQT1 model).
+Isoproterenol (50 to 100 nmol/L) was used to mimic an increase in beta-adrenergic tone, d-sotalol (100 micromol/L) to block I(Kr) (LQT2 model), and ATX-II (20 nmol/L) to augment late I(Na) (LQT3 model).
+Isoproterenol+chromanol 293B, d-sotalol, and ATX-II produced preferential prolongation of the action potential duration at 90% repolarization (APD(90)) of the M cell, an increase of TDR, and spontaneous as well as stimulation-induced TdP (LQT1, 3/6; LQT2, 3/6; LQT3, 5/6).
+Nicorandil (2 to 20 micromol/L) abbreviated the QT interval and APD(90) of the 3 cell types in the 3 models.
+High concentrations (10 to 20 micromol/L) completely reversed the effects of 293B+/-isoproterenol and those of d-sotalol to increase APD(90) and TDR and to induce TdP in LQT1 and LQT2 models.
+Nicorandil 20 micromol/L reversed only 50% of the effect of ATX-II and failed to completely suppress TdP in the LQT3 model (5/6 to 3/6).
+CONCLUSIONS: Our data suggest that K(+) channel openers may be capable of abbreviating the long QT interval, reducing TDR, and preventing spontaneous and stimulation-induced TdP when congenital or acquired LQTS is secondary to reduced I(Kr) or I(Ks) but less so when it is due to augmented late I(Na).

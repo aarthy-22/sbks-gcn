@@ -1,0 +1,5 @@
+Graphene MEMS: AFM Probe Performance Improvement.
+We explore the feasibility of growing a continuous layer of graphene in prepatterned substrates, like an engineered silicon wafer, and we apply this as a mold for the fabrication of AFM probes.
+This fabrication method proves the fabrication of SU-8 devices coated with graphene in a full-wafer parallel technology and with high yield.
+It also demonstrates that graphene coating enhances the functionality of SU-8 probes, turning them conductive and more resistant to wear.
+Furthermore, it opens new experimental possibilities such as studying graphene-graphene interaction at the nanoscale with the precision of an AFM or the exploration of properties in nonplanar graphene layers.

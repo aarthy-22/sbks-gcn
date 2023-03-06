@@ -1,0 +1,10 @@
+Hydrogen peroxide-mediated oxidative stress disrupts calcium binding on calmodulin: more evidence for oxidative stress in vitiligo.
+Patients with acute vitiligo have low epidermal catalase expression/activities and accumulate 10(-3) M H(2)O(2).
+One consequence of this severe oxidative stress is an altered calcium homeostasis in epidermal keratinocytes and melanocytes.
+Here, we show decreased epidermal calmodulin expression in acute vitiligo.
+Since 10(-3)M H(2)O(2) oxidises methionine and tryptophan residues in proteins, we examined calcium binding to calmodulin in the presence and absence of H(2)O(2) utilising (45)calcium.
+The results showed that all four calcium atoms exchanged per molecule of calmodulin.
+Since oxidised calmodulin looses its ability to activate calcium ATPase, enzyme activities were followed in full skin biopsies from lesional skin of patients with acute vitiligo (n=6) and healthy controls (n=6).
+The results yielded a 4-fold decrease of ATPase activities in the patients.
+Computer simulation of native and oxidised calmodulin confirmed the loss of all four calcium ions from their specific EF-hand domains.
+Taken together H(2)O(2)-mediated oxidation affects calcium binding in calmodulin leading to perturbed calcium homeostasis and perturbed l-phenylalanine-uptake in the epidermis of acute vitiligo.

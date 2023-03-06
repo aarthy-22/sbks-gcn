@@ -1,0 +1,8 @@
+The primary structure of porcine aminoacylase 1 deduced from cDNA sequence.
+A cDNA encoding the complete amino acid sequence of aminoacylase 1 (N-acylamino acid aminohydrolase, ACY-1) [EC 3.5.1.14], a dimeric metalloprotein having two Zn2+ in the molecule, which catalyzes the deacylation of N-acylated L-amino acids except L-aspartic acid, has been isolated from porcine kidney lambda gt10 cDNA library and sequenced.
+From sequence analysis of the cDNA and the N- and C-terminal amino acid analyses of the purified protein, it is deduced that porcine kidney ACY-1 consists of two identical subunits (M(r) 45,260), each of which consists of a single chain of 406 amino acids with acetylalanine at the N-terminus.
+A cDNA encoding porcine liver ACY-1 was also cloned.
+The amino acid sequence deduced from the nucleotide sequence of the cDNA from porcine liver was identical to that deduced for porcine kidney ACY-1.
+Northern blot analysis suggested that ACY-1 is more highly expressed in kidney than in liver.
+Comparison of the amino acid sequence of porcine ACY-1 with those of other Zn2+-binding metalloenzymes showed no significant homologies in either the overall sequence or the consensus sequences for the metal binding sites.
+This indicates that ACY-1 is a new type of metalloprotein.

@@ -1,0 +1,9 @@
+Short- and long-term influences of calcitonin gene-related peptide on the synthesis of acetylcholinesterase in mammalian myotubes.
+The present study analyses the short- (15 min - 2 h) and long-term (24 - 48 h) influences of calcitonin gene-related peptide (CGRP) on acetylcholinesterase (AChE) expression in the rat cultured skeletal muscle and the signal transduction events underlying CGRP actions.
+To assess the effect of CGRP on AChE synthesis, myotubes were pre-exposed to the irreversible AChE inhibitor diisopropyl fluorophosphate (DFP) and treated with CGRP or forskolin, an adenylyl cyclase (AC) activator.
+Treatment of myotubes with 1 - 100 nM CGRP for 2 h increased by up to 42% the synthesis of catalytically active AChE with a parallel increase in the intracellular cyclic AMP.
+The stimulation of AChE synthesis induced by CGRP was mimicked by direct activation of AC with 3 - 30 microM forskolin.
+In contrast, pre-treatment of cultures with 100 nM CGRP for 20 h reduced by 37% the subsequent synthesis of AChE, resulting in a 15% decrease in total AChE activity after 48 h CGRP treatment.
+Moreover, 24 h treatment of myotubes with 100 nM CGRP reduced by 54% the accumulation of cyclic AMP induced by a subsequent CGRP treatment.
+These findings indicate that, in skeletal muscle cells, CGRP modulates the AChE expression in a time-dependent manner, initially stimulating the enzyme synthesis through a cyclic AMP-dependent mechanism.
+The decreased AChE synthesis observed after long-term CGRP treatment suggests that CGRP signalling system is subject to desensitization or down-regulation, that might function as an important adaptative mechanism of the muscle fibre in response to long-term changes in neuromuscular transmission.

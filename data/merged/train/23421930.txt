@@ -1,0 +1,5 @@
+Bioactive phenolics from Seriphidium stenocephalum.
+Chromatographic separation of the ethyl acetate soluble part of the methanolic extract from Seriphidium stenocephalum yielded three new compounds: stenocepflavone (1), stenocepflavan (2), and stenocephol (3), together with cirsimaritin (4), 5,7,5'-trihydroxy-3',4',6-trimethoxyflavone (5), 5,6,7,5'-tetrahydroxy-4'-methoxyflavone (6), and axillaroside (7).
+All isolates were characterized with the help of spectroscopic data including 1D, 2D NMR, and high resolution mass spectrometry and/or in comparison with the related compounds in literature.
+All compounds were tested for in vitro enzyme inhibitory activities against acetylcholinesterase, butyrylcholinesterase, and lipoxygenase.
+Compounds 1 and 4-7 exhibited significant activity against all the tested enzymes, whereas compounds 2 and 3 were found inactive.

@@ -1,0 +1,11 @@
+Mechanisms of lipid-lowering agents.
+Lipid-lowering agents are used with the purpose of ameliorating hyperlipoproteinemias, in order to prevent arterial disease.
+Lipid-lowering drugs can be classified into absorbable agents and into nonabsorbable compounds, acting within the gastrointestinal lumen.
+Absorbable drugs (fibric acids, nicotinic acid, probucol, HMG-CoA reductase inhibitors) reduce plasma very-low-density lipoproteins (VLDL) and/or low-density lipoproteins (LDL) by a variety of mechanisms.
+Fibric acids, in particular, act by stimulating the catabolism of VLDL and also, as a consequence, improving LDL delipidation, thus favoring receptor uptake.
+Nicotinic acid and acipimox interfere with the biosynthesis of LDL and can also improve the clearance of VLDL/LDL.
+Probucol acts by a newly described mechanism, i.e. accelerating reverse transport of cholesteryl esters from high-density lipoproteins to lower-density lipoproteins.
+Finally, HMG-CoA reductase inhibitors, interfering with the biosynthesis of cholesterol, can induce an increased expression of liver high-affinity lipoprotein receptors.
+Nonabsorbable agents (anion-exchange resins, neomycin, beta-sitosterol) interrupt the recirculation of bile acids and/or reduce the absorption of cholesterol with the gut.
+They display a selective activity on hypercholesterolemia, again by increasing LDL receptor expression.
+The choice of one or more lipid-lowering agents will depend upon the patient's phenotype, determining responsiveness to the pharmacological treatment.

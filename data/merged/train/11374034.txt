@@ -1,0 +1,14 @@
+Role of vitamin K and vitamin K-dependent proteins in vascular calcification.
+OBJECTIVES: To provide a rational basis for recommended daily allowances (RDA) of dietary phylloquinone (vitamin K1) and menaquinone (vitamin K2) intake that adequately supply extrahepatic (notably vascular) tissue requirements.
+BACKGROUND: Vitamin K has a key function in the synthesis of at least two proteins involved in calcium and bone metabolism, namely osteocalcin and matrix Gla-protein (MGP).
+MGP was shown to be a strong inhibitor of vascular calcification.
+Present RDA values for vitamin K are based on the hepatic phylloquinone requirement for coagulation factor synthesis.
+Accumulating data suggest that extrahepatic tissues such as bone and vessel wall require higher dietary intakes and have a preference for menaquinone rather than for phylloquinone.
+METHODS: Tissue-specific vitamin K consumption under controlled intake was determined in warfarin-treated rats using the vitamin K-quinone/epoxide ratio as a measure for vitamin K consumption.
+Immunohistochemical analysis of human vascular material was performed using a monoclonal antibody against MGP.
+The same antibody was used for quantification of MGP levels in serum.
+RESULTS: At least some extrahepatic tissues including the arterial vessel wall have a high preference for accumulating and using menaquinone rather than phylloquinone.
+Both intima and media sclerosis are associated with high tissue concentrations of MGP, with the most prominent accumulation at the interface between vascular tissue and calcified material.
+This was consistent with increased concentrations of circulating MGP in subjects with atherosclerosis and diabetes mellitus.
+CONCLUSIONS: This is the first report demonstrating the association between MGP and vascular calcification.
+The hypothesis is put forward that undercarboxylation of MGP is a risk factor for vascular calcification and that the present RDA values are too low to ensure full carboxylation of MGP.

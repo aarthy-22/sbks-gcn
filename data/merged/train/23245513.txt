@@ -1,0 +1,7 @@
+A dimeric form of N-methoxycarbonyl-2-amino-1,8-naphthyridine bound to the A-A mismatch in the CAG/CAG base triad in dsRNA.
+A dimeric form of N-methoxycarbonyl-2-amino-1,8-naphthyridine (MCND) connected at the C2 position with a three-atom linker was examined for the binding to mismatches in double stranded RNA.
+Despite the fully complementary hydrogen bonding groups to guanine, MCND did not bind to guanine-guanine mismatch but did to adenine-adenine mismatch.
+The base pairs flanking the mismatch had weak effect on the binding, with showing the strongest binding to the A-A mismatch in the CAG/CAG sequence.
+The A-A mismatch in the GAC/GAC sequence was a poor substrate for the MCND binding.
+A monomeric derivative of MCND and another derivative lacking a methylcarbamate group showed negligilble binding to the A-A mismatch and the sequence selectivity.
+These results are important clues for the better molecular design of RNA binding small molecules.

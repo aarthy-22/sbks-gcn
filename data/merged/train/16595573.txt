@@ -1,0 +1,9 @@
+Hepatic veno-occlusive disease associated with immunosuppressive cyclophosphamide dosing and roxithromycin.
+OBJECTIVE: To report on a patient developing hepatic veno-occlusive disease while being treated with immunosuppressive doses of cyclophosphamide (< or =2 mg/kg).
+CASE SUMMARY: A 66-year-old woman with autoimmune hemolytic anemia developed hepatic veno-occlusive disease while being treated with immunosuppressive cyclophosphamide 100 mg/day in combination with roxithromycin (total dose 600 mg/day).
+After all drugs were stopped, the patient recovered within 2 weeks.
+The Naranjo probability scale indicated a probable relationship between veno-occlusive disease and treatment with cyclophosphamide in this patient.
+DISCUSSION: Since roxithromycin inhibits CYP3A4, which is involved with cyclophosphamide metabolism, a drug-drug interaction could have been responsible.
+In addition, roxithromycin is an inhibitor of the drug transporter P-glycoprotein, possibly leading to accumulation of cyclophosphamide in endothelial cells.
+Alternatively, since cyclophosphamide has been reported to induce apoptosis, roxithromycin could have rendered endothelial cells more vulnerable for apoptosis.
+CONCLUSIONS: In specific patients, cyclophosphamide can be associated with hepatic veno-occlusive disease at immunosuppressive doses.

@@ -1,0 +1,11 @@
+Characterization of the interaction of ingenol 3-angelate with protein kinase C. Ingenol 3-angelate (I3A) is one of the active ingredients in Euphorbia peplus, which has been used in traditional medicine.
+Here, we report the initial characterization of I3A as a protein kinase C (PKC) ligand.
+I3A bound to PKC-alpha in the presence of phosphatidylserine with high affinity; however, under these assay conditions, little PKC isoform selectivity was observed.
+PKC isoforms did show different sensitivity and selectivity for down-regulation by I3A and phorbol 12-myristate 13-acetate (PMA) in WEHI-231, HOP-92, and Colo-205 cells.
+In all of the three cell types, I3A inhibited cell proliferation with somewhat lower potency than did PMA.
+In intact CHO-K1 cells, I3A was able to translocate different green fluorescent protein-tagged PKC isoforms, visualized by confocal microscopy, with equal or higher potency than PMA.
+PKC-delta in particular showed a different pattern of translocation in response to I3A and PMA.
+I3A induced a higher level of secretion of the inflammatory cytokine interleukin 6 compared with PMA in the WEHI-231 cells and displayed a marked biphasic dose-response curve for the induction.
+I3A was unable to cause the same extent of association of the C1b domain of PKC-delta with lipids, compared with PMA or the physiological regulator diacylglycerol, and was able to partially block the association induced by these agents, measured by surface plasmon resonance.
+The in vitro kinase activity of PKC-alpha induced by I3A was lower than that induced by PMA.
+The novel pattern of behavior of I3A makes it of great interest for further evaluation.

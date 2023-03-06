@@ -1,0 +1,12 @@
+Inhibition of phosphatidylserine biosynthesis in developing rat brain by maternal exposure to ethanol.
+Phosphatidylserine (PtdSer), major acidic phospholipids in neuronal membranes, participate in important cell signaling processes.
+The PtdSer in brain is highly enriched with docosahexaenoic acid (DHA; 22:6n-3), and the DHA status or ethanol exposure has been shown to influence the PtdSer level.
+This study shows that ethanol exposure during prenatal and developmental period significantly attenuates microsomal PtdSer biosynthetic activities and reduces PtdSer, particularly 18:0, 22:6-PtdSer, in developing rat brain cortices.
+Brain microsomes were incubated with deuterium labeled exogenous substrates in vitro and the products formed were detected by reversed phase HPLC-electrospray ionization mass spectrometry (ESI-MS).
+These in vitro bioassays showed that 1-stearoyl-2-docosahexaenoyl (18:0, 22:6) species is the best substrate for PtdSer synthesis from both phosphatidylcholine (PtdCho) and phosphatidylethanolamine (PtdEtn).
+The PtdSer biosynthetic activity of brain, especially for 18:0, 22:6-PtdSer production, was hampered significantly by maternal exposure to ethanol.
+PtdSer levels were consistently reduced significantly in brain cortices of the pups from ethanol-exposed dams, due mainly to the depletion of 18:0, 22:6-PtdSer.
+The mRNA expression of PtdSer synthase 1 (PSS1) and PtdSer synthase 2 (PSS2) was not reduced by ethanol.
+Similarly, the PSS1 enzyme level did not change after ethanol exposure but PSS2 could not be probed with the antibody available currently.
+Degradation of PtdSer by mitochondrial PtdSer decarboxylation was not enhanced but also inhibited.
+Taken together, attenuated PtdSer biosynthetic activities are largely responsible for the PtdSer reduction observed in developing rat brains after maternal exposure to ethanol.

@@ -1,0 +1,12 @@
+Effects of topical budesonide treatment on glucocorticoid receptor mRNA down-regulation and cytokine patterns in nasal polyps.
+UNLABELLED: The effects of a topically applied corticosteroid, budesonide, on the expression of glucocorticoid receptor (GR) mRNA and regulation of pro-inflammatory cytokine patterns in patients with nasal polyps were evaluated.
+All patients were eligible for surgical polypectomy, and a majority of them had been treated with nasal steroids.
+Patients were given 400 microg b.i.d.
+(group A, n = 11), 200 microg b.i.d.
+(group B, n = 10), or no treatment (group C, n = 15) during two months before polypectomy.
+Morning serum cortisol was analyzed on the day of surgery.
+Surgically removed polyps were taken for analysis of GR mRNA expression by solution hybridization.
+Remaining tissue was cryostat-sectioned, whereafter quantification of the cytokines interleukin 1beta, interleukin 2, interleukin 4, interleukin 5, interleukin 6, interleukin 10, tumor necrosis factor alpha, and interferon gamma was made by immunohistochemistry and digitized image analysis.
+No significant differences among the three groups were found for any of the parameters investigated.
+CONCLUSION: nasal polyps do not respond with down-regulation of GR mRNA or cytokines following topical corticosteroid treatment.
+The proposed corticosteroid resistance may be inherent, or induced by a change of local tissue bioavailability.

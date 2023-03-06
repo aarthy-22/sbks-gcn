@@ -1,0 +1,11 @@
+Interaction of nonsteroidal anti-inflammatory drugs (NSAID) with Helicobacter pylori in the stomach of humans and experimental animals.
+Helicobacter pylori (H. pylori) and non-steroidal anti-inflammatory drugs (NSAID) are major pathogenic factors in peptic ulcer disease but whether these two factors exert synergistic or antagonistic action on the gastric mucosa has been a subject of controversy.
+The classic concept states that there is an increased ulcer occurrence and bleeding in patients with both H. pylori infection and NSAID use.
+However, the question whether the H. pylori eradication therapy in NSAID users reduces the occurrence of peptic ulcer has not been fully addressed.
+Studies on secondary prevention of NSAID-associated ulcers in H. pylori patients have indicated that H. pylori eradication results in impaired ulcer healing with an effect on the rate of peptic ulcer occurrence.
+On the other hand, the treatment of H. pylori in patients with no prior history of chronic NSAID therapy has been shown to decrease the risk of peptic ulcer.
+Studies in experimental animals revealed for instance, that the H. pylori infection augments the gastric mucosal damage induced by NSAID in Mongolian gerbils.
+In rats with preexisting chromic gastric ulcers, H. pylori infection attenuated significantly the aspirin-induced inhibition of ulcer healing and accompanying fall in the gastric blood flow at the margin of these ulcers, suggesting negative interaction between aspirin and H. pylori on ulcerogenesis.
+Accumulated evidence in humans and animals shows that both aspirin and H. pylori upregulate the expression of cyclooxygenase (COX)-2 both at mRNA and protein levels at the ulcer margin, but failed to influence significantly that of COX-1.
+It was, therefore, proposed that H. pylori may in fact, antagonize, aspirin-induced delay of ulcer healing due to suppression of acid secretion by the enhancement in PGE(2) possibly derived from COX-2 expression and activity and to the overexpression of growth factors such as TGF alpha and VEGF.
+The present review summarizes and further addresses the issue of the interaction between these two major ulcer risk factors determined in the stomach of humans and experimental animals.

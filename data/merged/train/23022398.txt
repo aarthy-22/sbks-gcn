@@ -1,0 +1,10 @@
+NMDA receptor blockade impairs the muscarinic conversion of sub-threshold transient depression into long-lasting LTD in the hippocampus-prefrontal cortex pathway in vivo: correlation with gamma oscillations.
+Cholinergic fibers from the brainstem and basal forebrain innervate the medial prefrontal cortex (mPFC) modulating neuronal activity and synaptic plasticity responses to hippocampal inputs.
+Here, we investigated the muscarinic and glutamatergic modulation of long-term depression (LTD) in the intact projections from CA1 to mPFC in vivo.
+Cortical-evoked responses were recorded in urethane-anesthetized rats for 30 min during baseline and 4 h following LTD.
+In order to test the potentiating effects of pilocarpine (PILO), independent groups of rats received either a microinjection of PILO (40 nmol; i.c.v.) or vehicle, immediately before or 20 min after a sub-threshold LTD protocol (600 pulses, 1 Hz; LFS600).
+Other groups received either an infusion of the selective NMDA receptor antagonist (AP7; 10 nmol; intra-mPFC) or vehicle, 10 min prior to PILO preceding LFS600, or prior to a supra-threshold LTD protocol (900 pulses, 1 Hz; LFS900).
+Our results show that PILO converts a transient cortical depression induced by LFS600 into a robust LTD, stable for at least 4 h. When applied after LFS600, PILO does not change either mPFC basal neurotransmission or late LTD.
+Our data also indicate that NMDA receptor pre-activation is essential to the muscarinic enhancement of mPFC synaptic depression, since AP7 microinjection into the mPFC blocked the conversion of transient depression into long-lasting LTD produced by PILO.
+In addition, AP7 effectively blocked the long-lasting LTD induced by LFS900.
+Therefore, our findings suggest that the glutamatergic co-activation of prefrontal neurons is important for the effects of PILO on mPFC synaptic depression, which could play an important role in the control of executive and emotional functions.

@@ -1,0 +1,8 @@
+Imatinib mesylate (Gleevec) enhances mature osteoclast apoptosis and suppresses osteoclast bone resorbing activity.
+Recent studies have reported that imatinib mesylate, a kinase inhibitor that targets the intracellular tyrosine kinase BCR-ABL and the platelet derived growth factor (PDGF) receptor, is an effective inhibitor of the macrophage colony stimulating factor (M-CSF) receptor, c-FMS.
+Given that M-CSF signalling through c-FMS plays an important role in osteoclast biology, we speculated that blocking such a pathway with imatinib may modulate osteoclast activity.
+Using a cell model of mature rabbit osteoclasts, we thus investigated the effect of imatinib on in vitro osteoclast apoptosis and bone resorbing activity.
+Our findings demonstrate that imatinib dose-dependently stimulates osteoclast apoptosis, a phenomenon which is blocked by the caspase I inhibitor Z-VAD-fmk.
+The ability of imatinib to enhance osteoclast cell death was accompanied by a dose-dependent inhibition of osteoclast bone resorbing activity.
+Imatinib was also found to inhibit M-CSF-induced osteoclast survival as well as M-CSF-induced osteoclast bone resorbing activity, but was without effect on interleukin 1alpha (IL-1alpha) and receptor activator of nuclear factor kappa B ligand (RANKL)-induced inhibition of osteoclasts apoptosis, further supporting the hypothesis that imatinib may affect mature osteoclasts through the inhibition of c-FMS.
+Taken together, these results suggest that imatinib could be of clinical value in treating diseases where bone destruction can occur due to excessive M-CSF production such as osteoporosis, inflammatory-and tumor-induced osteolysis.

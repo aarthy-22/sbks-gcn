@@ -1,0 +1,12 @@
+Hydrogen sulfide as an allosteric modulator of ATP-sensitive potassium channels in colonic inflammation.
+The ATP-sensitive potassium channel (K(ATP)) in mouse colonic smooth muscle cell is a complex containing a pore-forming subunit (Kir6.1) and a sulfonylurea receptor subunit (SUR2B).
+These channels contribute to the cellular excitability of smooth muscle cells and hence regulate the motility patterns in the colon.
+Whole-cell voltage-clamp techniques were used to study the alterations in K(ATP) channels in smooth muscle cells in experimental colitis.
+Colonic inflammation was induced in BALB/C mice after intracolonic administration of trinitrobenzene sulfonic acid.
+K(ATP) currents were measured at a holding potential of -60 mV in high K(+) external solution.
+The concentration response to levcromakalim (LEVC), a K(ATP) channel opener, was significantly shifted to the left in the inflamed smooth-muscle cells.
+Both the potency and maximal currents induced by LEVC were enhanced in inflammation.
+The EC(50) values in control were 6259 nM (n = 10) and 422 nM (n = 8) in inflamed colon, and the maximal currents were 9.9 ± 0.71 pA/pF (60 μM) in control and 39.7 ± 8.8 pA/pF (3 μM) after inflammation.
+As was seen with LEVC, the potency and efficacy of sodium hydrogen sulfide (NaHS) (10-1000 μM) on K(ATP) currents were significantly greater in inflamed colon compared with controls.
+In control cells, pretreatment with 100 µM NaHS shifted the EC(50) for LEV-induced currents from 2838 (n = 6) to 154 (n = 8) nM. Sulfhydration of sulfonylurea receptor 2B (SUR2B) was induced by NaHS and colonic inflammation.
+These data suggest that sulfhydration of SUR2B induces allosteric modulation of K(ATP) currents in colonic inflammation.

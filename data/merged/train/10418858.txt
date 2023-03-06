@@ -1,0 +1,9 @@
+Insulin resistance and thrombosis: a cardiologist's view.
+Atherogenesis in the vasculature is accelerated by changes in the dynamic equilibrium between endogenous tissue plasminogen activator and plasminogen activator inhibitor-1 (PAI-1).
+Increased expression of PAI-1, decreased expression of tissue plasminogen activator, or both can lead to decreased fibrinolytic activity and predispose to thrombosis.
+Increased concentrations of insulin (and proinsulin) in the plasma increase plasma PAI-1, although the mechanisms of this effect are not known.
+In addition, it has been observed that basal fibrinolytic activity is decreased in patients with type 2 diabetes; this may accelerate atherosclerosis by exposing vascular luminal wall surfaces to persistent and recurrent thrombi.
+Abnormalities in the vessel wall appear to contribute to the increased risk.
+There is also evidence that PAI-1 content is increased in atherosclerotic lesions of patients with type 2 diabetes, suggesting that interventions to reduce insulin resistance and improve glycemic control may improve the fibrinolytic response.
+Clinical studies in patients with polycystic ovary syndrome (characterized by insulin resistance, hyperinsulinemia, ovarian androgen overproduction, and impaired fibrinolytic capacity) demonstrated that treatment with troglitazone, an insulin-sensitizing agent, can markedly reduce blood levels of PAI-1.
+There is also clinical evidence that these agents may contribute to regression of intimal medial thickness in patients with type 2 diabetes, providing further indication that antidiabetic interventions may help inhibit the progression of early atherosclerotic lesions.

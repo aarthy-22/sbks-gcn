@@ -1,0 +1,10 @@
+Predicting cardiomyopathic phenotypes by altering Ca2+ affinity of cardiac troponin C. Cardiac diseases associated with mutations in troponin subunits include hypertrophic cardiomyopathy (HCM), dilated cardiomyopathy (DCM), and restrictive cardiomyopathy (RCM).
+Altered calcium handling in these diseases is evidenced by changes in the Ca(2+) sensitivity of contraction.
+Mutations in the Ca(2+) sensor, troponin C (TnC), were generated to increase/decrease the Ca(2+) sensitivity of cardiac skinned fibers to create the characteristic effects of DCM, HCM, and RCM.
+We also used a reconstituted assay to determine the mutation effects on ATPase activation and inhibition.
+One mutant (A23Q) was found with HCM-like properties (increased Ca(2+) sensitivity of force and normal levels of ATPase inhibition).
+Three mutants (S37G, V44Q, and L48Q) were identified with RCM-like properties (a large increase in Ca(2+) sensitivity, partial loss of ATPase inhibition, and increased basal force).
+Two mutations were identified (E40A and I61Q) with DCM properties (decreased Ca(2+) sensitivity, maximal force recovery, and activation of the ATPase at high [Ca(2+)]).
+Steady-state fluorescence was utilized to assess Ca(2+) affinity in isolated cardiac (c)TnCs containing F27W and did not necessarily mirror the fiber Ca(2+) sensitivity.
+Circular dichroism of mutant cTnCs revealed a trend where increased alpha-helical content correlated with increased Ca(2+) sensitivity in skinned fibers and vice versa.
+The main findings from this study were as follows: 1) cTnC mutants demonstrated distinct functional phenotypes reminiscent of bona fide HCM, RCM, and DCM mutations; 2) a region in cTnC associated with increased Ca(2+) sensitivity in skinned fibers was identified; and 3) the F27W reporter mutation affected Ca(2+) sensitivity, maximal force, and ATPase activation of some mutants.

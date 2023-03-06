@@ -1,0 +1,11 @@
+GIRK-like and TRPC-like conductances mediate thyrotropin-releasing hormone-induced increases in excitability in thalamic paraventricular nucleus neurons.
+The thalamic paraventricular nucleus (PVT), reported to participate in arousal and motivated behaviors, contains abundant receptors for thyrotropin-releasing hormone (TRH), a neuropeptide also known to modulate arousal and mood.
+To test the hypothesis that TRH could influence the excitability of PVT neurons, whole call patch clamp recordings obtained in rat brain slice preparations were evaluated during bath applied TRH.
+In the majority of neurons tested, TRH induced reversible TTX-resistant membrane depolarization.
+Under voltage-clamp, TRH induced a concentration-dependent G protein- mediated inward current.
+The mean net TRH-induced current exhibited a decrease in membrane conductance.
+Further analyses identified two concurrent conductances contributing to the TRH-induced response.
+One conductance featured a Na(+)-independent and K(+)-dependent net current that displayed rectification and was suppressed by micromolar concentrations of Ba(2+) and two GIRK antagonists, tertiapin Q and SCH 23390.
+The second conductance featured a Na(+)-dependent net inward current with an I-V relationship that exhibited double rectification with a negative slope conductance below -40 mV. This conductance was suppressed by nonselective TRPC channel blockers 2-APB, flufenamic acid and ML204, enhanced by La(3+) in a subpopulation of cells, and unchanged by the TRPV1 antagonist capsazepine or a Na(+) /Ca(2+) exchanger blocker KB-R7943.
+TRH also enhanced hyperpolarization-activated low threshold spikes, a feature that was sensitive to pretreatment with either 2-APB or ML204.
+Collectively, the data imply that TRH enhances excitability in PVT neurons via concurrently decreasing a G-protein-gated inwardly rectifying K(+) conductance and activating a cationic conductance with characteristics reminiscent of TRPC-like channels, possibly involving TRPC4/C5 subunits.

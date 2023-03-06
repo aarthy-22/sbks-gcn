@@ -1,0 +1,10 @@
+Rapid and specific purification of Argonaute-small RNA complexes from crude cell lysates.
+Small interfering RNAs (siRNAs) direct Argonaute proteins, the core components of the RNA-induced silencing complex (RISC), to cleave complementary target RNAs.
+Here, we describe a method to purify active RISC containing a single, unique small RNA guide sequence.
+We begin by capturing RISC using a complementary 2'-O-methyl oligonucleotide tethered to beads.
+Unlike other methods that capture RISC but do not allow its recovery, our strategy purifies active, soluble RISC in good yield.
+The method takes advantage of the finding that RISC partially paired to a target through its siRNA guide dissociates more than 300 times faster than a fully paired siRNA in RISC.
+We use this strategy to purify fly Ago1- and Ago2-RISC, as well as mouse AGO2-RISC.
+The method can discriminate among RISCs programmed with different guide strands, making it possible to deplete and recover specific RISC populations.
+Endogenous microRNA:Argonaute complexes can also be purified from cell lysates.
+Our method scales readily and takes less than a day to complete.

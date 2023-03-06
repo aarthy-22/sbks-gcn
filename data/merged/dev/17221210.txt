@@ -1,0 +1,13 @@
+Regulation of pancreatic endocrine cell differentiation by sulphated proteoglycans.
+AIMS/HYPOTHESIS: Epithelium-mesenchyme interactions play a major role in pancreas development.
+Recently, we demonstrated that embryonic pancreatic mesenchyme enhanced progenitor cell proliferation but inhibited endocrine cell differentiation.
+Here, we investigated the role played by sulphated proteoglycans, which are known to be essential to embryonic development, in this inhibitory effect.
+MATERIALS AND METHODS: We first determined the expression of the genes encoding glypicans, syndecans and the main glycosaminoglycan chain-modifying enzymes in immature embryonic day (E) 13.5 and more differentiated E17.5 rat pancreases.
+Next, using an in vitro model of pancreas development, we blocked the action of endogenous sulphated proteoglycans by treating embryonic pancreases in culture with chlorate, an inhibitor of proteoglycan sulphation, and examined the effects on pancreatic endocrine cell differentiation.
+RESULTS: We first showed that expression of the genes encoding glypicans 1, 2, 3 and 5 and heparan sulphate 2-sulfotransferase decreased between E13.5 and E17.5.
+We next found that alteration of proteoglycan action by chlorate blocked the inhibitory effect of the mesenchyme on endocrine differentiation.
+Chlorate-treated pancreases exhibited a dramatic increase in beta cell number in a dose-dependent manner (169-and 375-fold increase with 30 mmol/l and 40 mmol/l chlorate, respectively) and in alpha cell development.
+Insulin-positive cells that developed in the presence of chlorate exhibited a phenotype of mature cells with regard to the expression of the following genes: pancreatic and duodenal homeobox gene 1 (Pdx1), proprotein convertase subtilisin/kexin type 1 (Pcsk1; previously known as pro-hormone convertase 1/3), proprotein convertase subtilisin/kexin type 2 (Pcsk2; previously known as pro-hormone convertase 2) and solute carrier family 2 (facilitated glucose transporter), member 2 (Slc2a1; previously known as glucose transporter 2).
+Finally, we showed that chlorate activated endocrine cell development by inducing neurogenin 3 (Neurog3) expression in early endocrine progenitor cells.
+CONCLUSIONS/INTERPRETATION: We demonstrated that sulphated proteoglycans control pancreatic endocrine cell differentiation.
+Understanding the mechanism by which sulphated proteoglycans affect beta cell development could be useful in the generation of beta cells from embryonic stem cells.

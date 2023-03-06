@@ -1,0 +1,14 @@
+Inhibition of cardiac voltage-gated sodium channels by grape polyphenols.
+BACKGROUND AND PURPOSE: The cardiovascular benefits of red wine consumption are often attributed to the antioxidant effects of its polyphenolic constituents, including quercetin, catechin and resveratrol.
+Inhibition of cardiac voltage-gated sodium channels (VGSCs) is antiarrhythmic and cardioprotective.
+As polyphenols may also modulate ion channels, and possess structural similarities to several antiarrhythmic VGSC inhibitors, we hypothesised that VGSC inhibition may contribute to cardioprotection by these polyphenols.
+EXPERIMENTAL APPROACH: The whole-cell voltage-clamp technique was used to record peak and late VGSC currents (INa) from recombinant human heart NaV1.5 channels expressed in tsA201 cells.
+Right ventricular myocytes from rat heart were isolated and single myocytes were field-stimulated.
+Either calcium transients or contractility were measured using the calcium-sensitive dye Calcium-Green 1AM or video edge detection, respectively.
+KEY RESULTS: The red grape polyphenols quercetin, catechin and resveratrol blocked peak INa with IC50s of 19.4 microM, 76.8 microM and 77.3 microM, respectively.
+In contrast to lidocaine, resveratrol did not exhibit any frequency-dependence of peak INa block.
+Late INa induced by the VGSC long QT mutant R1623Q was reduced by resveratrol and quercetin.
+Resveratrol and quercetin also blocked late INa induced by the toxin, ATX II, with IC50s of 26.1 microM and 24.9 microM, respectively.
+In field-stimulated myocytes, ATXII-induced increases in diastolic calcium were prevented and reversed by resveratrol.
+ATXII-induced contractile dysfunction was delayed and reduced by resveratrol.
+CONCLUSIONS AND IMPLICATIONS: Our results indicate that several red grape polyphenols inhibit cardiac VGSCs and that this effect may contribute to the documented cardioprotective efficacy of red grape products.

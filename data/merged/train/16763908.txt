@@ -1,0 +1,11 @@
+Direct multiplex assay of enzymes in dried blood spots by tandem mass spectrometry for the newborn screening of lysosomal storage disorders.
+Tandem mass spectrometry is currently used in newborn screening programmes to quantify the level of amino acids and acylcarnitines in dried blood spots for detection of metabolites associated with treatable diseases.
+We have developed assays for lysosomal enzymes in rehydrated dried blood spots in which a set of substrates is added and the set of corresponding enzymatic products are quantified using tandem mass spectrometry with the aid of mass-differentiated internal standards.
+We have developed a multiplex assay of the set of enzymes that, when deficient, cause the lysosomal storage disorders Fabry, Gaucher, Hurler, Krabbe, Niemann-Pick A/B and Pompe diseases.
+These diseases were selected because treatments are now available or expected to emerge shortly.
+The discovery that acarbose is a selective inhibitor of maltase glucoamylase allows the Pompe disease enzyme, acid alpha-glucosidase, to be selectively assayed in white blood cells and dried blood spots.
+When tested with dried blood spots from 40 unaffected individuals and 10-12 individuals with the lysosomal storage disorder, the tandem mass spectrometry assay led to the correct identification of the affected individuals with 100% sensitivity.
+Many of the reagents needed for the new assays are commercially available, and those that are not are being prepared under Good Manufacturing Procedures for approval by the FDA.
+Our newborn screening assay for Krabbe disease is currently being put in place at the Wadsworth Center in New York State for the analysis of approximately 1000 dried blood spots per day.
+Summary We have developed tandem mass spectrometry for the direct assay of lysosomal enzymes in rehydrated dried blood spots that can be implemented for newborn screening of lysosomal storage disorders.
+Several enzymes can be analysed by a single method (multiplex analysis) and in a high-throughput manner appropriate for newborn screening laboratories.

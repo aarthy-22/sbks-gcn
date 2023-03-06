@@ -1,0 +1,7 @@
+Effect of the R(-) and S(+) isomers of MDA and MDMA on phosphatidyl inositol turnover in cultured cells expressing 5-HT2A or 5-HT2C receptors.
+The effect of the R(-) and S(+) isomers of 3,4-methylenedioxyamphetamine (MDA) and its N-methyl analog 3,4-methylenedioxymethamphetamine (MDMA) on [3H]inositol monophosphate accumulation was studied in cells expressing either 5-HT2A or 5-HT2C receptors.
+The isomers of MDA produced a concentration dependent increase in phosphatidyl inositol (PI) hydrolysis at the 5-HT2A receptors, with the R(-) isomer of MDA being more potent than the S(+) at the 5-HT2A receptor.
+The R(-) and S(+) isomers of MDMA were significantly less efficacious at the 5-HT2A receptor as compared to MDA; S(+)MDMA had no effect.
+At the 5-HT2C receptor, both R(-) and S(+)MDA were equipotent at stimulating PI hydrolysis, with the S(+) isomer of MDMA being more efficacious at the 5-HT2C receptor compared with the R(-) isomer.
+In all cases at both the 5-HT2A and 5-HT2C receptors, the affinities of the isomers of MDMA and MDA were at least 2-3 orders of magnitude less than 5-HT.
+Despite the weak effect of these compounds at the 5-HT2A and 5-HT2C receptors, these substituted amphetamines do possess intrinsic activity which may contribute to their neurotoxic effects when administered at high doses.

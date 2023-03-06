@@ -1,0 +1,5 @@
+Identification of NVP-TAE684, a potent, selective, and efficacious inhibitor of NPM-ALK.
+Constitutive overexpression and activation of NPM-ALK fusion protein [t(2:5)(p23;q35)] is a key oncogenic event that drives the survival and proliferation of anaplastic large-cell lymphomas (ALCLs).
+We have identified a highly potent and selective small-molecule ALK inhibitor, NVP-TAE684, which blocked the growth of ALCL-derived and ALK-dependent cell lines with IC(50) values between 2 and 10 nM. NVP-TAE684 treatment resulted in a rapid and sustained inhibition of phosphorylation of NPM-ALK and its downstream effectors and subsequent induction of apoptosis and cell cycle arrest.
+In vivo, NVP-TAE684 suppressed lymphomagenesis in two independent models of ALK-positive ALCL and induced regression of established Karpas-299 lymphomas.
+NVP-TAE684 also induced down-regulation of CD30 expression, suggesting that CD30 may be used as a biomarker of therapeutic NPM-ALK kinase activity inhibition.

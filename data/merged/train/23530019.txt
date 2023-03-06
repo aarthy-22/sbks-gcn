@@ -1,0 +1,13 @@
+Nicotine Kinetics in Zebra Finches in vivo and in vitro.
+Nicotine enhances cognitive performance, and in the zebra finch (Taeniopygia guttata), which is a well-established model of cognition, the effect of nicotine on song production has been reported.
+Nicotine and cotinine plasma levels were assessed in vivo after s.c.
+injection of 0.18 mg/kg nicotine, a dose that elicits changes in song production.
+The half-life of nicotine elimination was 33 min, and levels were undetectable by 4h.
+Average plasma nicotine over 2 hours was 32 ng/ml, similar to levels seen in human smokers and rat models of nicotine behavior.
+Nicotine brain levels were 30 and 14 ng/g at 1 and 2 h after treatment.
+To understand the potential for drug interactions and regulation of nicotine metabolism in zebra finches, we characterized in vitro nicotine metabolism and the hepatic enzyme involved.
+In humans, cytochrome P450 (CYP) 2A6 metabolizes nicotine to cotinine, and CYP2A-like activity and protein have been reported in some birds.
+Zebra finch liver microsomes metabolized nicotine and bupropion (CYP2B substrate) but not coumarin (CYP2A substrate).
+Nicotine was metabolized to cotinine with a Km of 96 μM and Vmax of 56 pmol/min/mg.
+Nicotine and bupropion metabolism were inhibited by C-8-xanthate (specific CYP2B inhibitor) but not CYP2A-specific inhibitors, and hepatic levels of CYP2B-like but not CYP2A-like proteins correlated with nicotine (r = 0.52, p = 0.04) and bupropion metabolism (r = 0.81, p < 0.001), suggesting CYP2B-mediation of nicotine metabolism as seen in rats.
+These results will facilitate further investigation of nicotine's effects in zebra finches.

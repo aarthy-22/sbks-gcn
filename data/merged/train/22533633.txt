@@ -1,0 +1,3 @@
+A new lignan with anti-tumour activity from Polygonum perfoliatum L. The methanol extract of the tubers of Polygonum perfoliatum L. afforded a new lignan: 8-oxo-pinoresinol (1), and five known compounds 3',5-dihydroxy-3,4',5',7-tetramethoxy-flavone (2), catechin (3), quercetin (4), quercetin-3-O-β-D-glucuronide (5) and rutin (6).
+Their structures were established by MS, one- and two-dimensional NMR experiments.
+Compound 1 showed cytotoxicity against human mammary carcinoma (Bcap-37), human colon carcinoma (RKO), human hepatocellular carcinoma (SMMC-7721), human prostate carcinoma (PC3) and human erythroleukaemia (K562) cells.

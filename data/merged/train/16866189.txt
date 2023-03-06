@@ -1,0 +1,5 @@
+Anti-clastogenic effect of beta-glucan extracted from barley towards chemically induced DNA damage in rodent cells.
+beta-Glucan (BG) was tested in vitro to determine its potential clastogenic and/or anti-clastogenic activity, and attempts were made to elucidate its possible mechanism of action by using combinations with an inhibitor of DNA polymerase.
+The study was carried out on cells deficient (CHO-k1) and cells proficient (HTC) in phases I and II enzymes, and the DNA damage was assessed by the chromosomal aberration assay.
+BG did not show a clastogenic effect, but was anti-clastogenic in both cell lines used, and at all concentrations tested (2.5, 5 and 10 microg/mL) in combination with damage inducing agents (methylmethane sulfonate in cell line CHO-k1, and methylmethane sulfonate or 2-aminoanthracene in cell line HTC).
+BG also showed a protective effect in the presence of a DNA polymerase beta inhibitor (cytosine arabinoside-3-phosphate, Ara-C), demonstrating that BG does not act through an anti-mutagenic mechanism of action involving DNA polymerase beta.

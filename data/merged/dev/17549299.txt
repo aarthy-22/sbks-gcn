@@ -1,0 +1,11 @@
+Parnaparin, a low-molecular-weight heparin, prevents P-selectin-dependent formation of platelet-leukocyte aggregates in human whole blood.
+Parnaparin, a low-molecular-weight heparin (LMWH), prevents platelet activation and interaction with polymorphonuclear leukocyte (PMN) in a washed cell system.
+The in-vitro effect of parnaparin was studied here on platelet-PMN aggregates formed with more physiologic approaches in whole blood, in parallel with unfractionated heparin and enoxaparin, another LMWH.
+Citrated blood from healthy subjects was stimulated: i) from passage through the "Platelet Function Analyzer" (PFA-100), a device that exposes blood to standardized high shear flow through collagen/ADP cartridges; ii) by collagen and ADP (2 and 50 mug/ml, respectively) added in combination under stirring in an aggregometer cuvette; iii) with recombinant Tissue Factor, to generate thrombin concentrations able to activate platelets without inducing blood clotting, or iv) the Thrombin Receptor Activating Peptide-6 (TRAP-6).
+Platelet P-selectin and platelet-PMN aggregates were measured by flow cytometry upon stimulation of blood.
+Fibrinogen binding to platelets and markers of PMN activation were also detected.
+Platelet P-selectin expression and platelet-PMN aggregate formation were induced in all four activation conditions tested.
+Parnaparin prevented in a concentration-dependent manner (0.3-0.8 IUaXa/ml) the expression of P-selectin and the formation of mixed aggregates, while the two reference heparin preparations had a much weaker effect.
+Platelet fibrinogen binding and PMN activation markers (fibrinogen binding, CD11b and CD40) were also prevented by parnaparin.
+These data extend in more physiological systems of platelet activation, the anti-inflammatory profile of parnaparin, previously reported in washed cells.
+The greater effect of parnaparin, as compared to the reference heparins, could be due to chemico-physical differences possibly unrelated to their anticoagulant effect.

@@ -1,0 +1,5 @@
+Ligand-selective inhibition of the interaction of steroid receptor coactivators and estrogen receptor isoforms.
+Ligand-dependent nuclear hormone receptor (NR) signaling requires direct interaction between NR and the steroid receptor coactivators (SRC).
+Herein we utilize a library of SRC2 peptidomimetics to select for specific inhibitors of the interaction of SRC2 with the two estrogen receptor (ER) isoforms, ERalpha and ERbeta, in the presence of three different ligands: 17beta-estradiol, diethylstilbesterol, and genistein.
+The pattern of inhibitor selectivity for each ER isoform varied depending upon which ligand was present, thus demonstrating that the ligands exert unique allosteric effects upon the surface of the SRC binding pocket.
+Several of the lead compounds are highly (>100-fold) selective for blocking the binding of SRC2 to ERalpha, in preference to ERbeta, in the presence of one ligand and therefore may prove useful for decoupling ERbeta signaling from ERalpha signaling.

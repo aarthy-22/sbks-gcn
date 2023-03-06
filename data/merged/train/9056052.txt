@@ -1,0 +1,9 @@
+Initial human experience with MK-462 (rizatriptan): a novel 5-HT1D agonist.
+AIMS: We evaluated the pharmacokinetics and pharmacodynamics of oral MK-462 in comparison with oral sumatriptan in healthy male volunteers.
+METHODS: Sixteen healthy male volunteers were studied in a rising, single dose, alternating panel design with eight subjects per panel.
+Matching placebo was administered to two of eight study subjects at each dose level of MK-462 in a randomized, double-blind fashion.
+RESULTS: MK-462 was rapidly absorbed with a median tmax of 1.3 h (range 1-3 h) vs a tmax for sumatriptan of 2.5 h (range 1-4 h, P < 0.001).
+Administration of either MK-462 or sumatriptan produced maximal mean elevations of 5-10 mmHg in systolic and diastolic blood pressures without effect on heart rate; the changes occurred sooner following MK-462, consistent with more rapid absorption.
+Both MK-462 and sumatriptan provoked mild increases in serum growth hormone without any effect on serum prolactin concentrations.
+The most commonly reported symptom following MK-462 was drowsiness.
+CONCLUSIONS: These results indicate that the novel 5-HT1D agonist, MK-462, is rapidly absorbed following oral administration and warrants further investigation of its utility in the treatment of acute migraine.

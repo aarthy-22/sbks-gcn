@@ -1,0 +1,10 @@
+Retinoids control anterior and dorsal properties in the developing forebrain.
+We have previously shown that retinoic acid (RA) synthesized by the retinaldehyde dehydrogenase 2 (RALDH2) is required in forebrain development.
+Deficiency in RA due to inactivation of the mouse Raldh2 gene or to complete absence of retinoids in vitamin-A-deficient (VAD) quails, leads to abnormal morphogenesis of various forebrain derivatives.
+In this study we show that double Raldh2/Raldh3 mouse mutants have a more severe phenotype in the craniofacial region than single null mutants.
+In particular, the nasal processes are truncated and the eye abnormalities are exacerbated.
+It has been previously shown that retinoids act mainly on cell proliferation and survival in the ventral forebrain by regulating SHH and FGF8 signaling.
+Using the VAD quail model, which survives longer than the Raldh-deficient mouse embryos, we found that retinoids act in maintaining the correct position of anterior and dorsal boundaries in the forebrain by modulating FGF8 anteriorly and WNT signaling dorsally.
+Furthermore, BMP4 and FGF8 signaling are affected in the nasal region and BMP4 is ventrally expanded in the optic vesicle.
+At the optic cup stage, Pax6, Tbx5 and Bmp4 are ectopically expressed in the presumptive retinal pigmented epithelium (RPE), while Otx2 and Mitf are not induced, leading to a dorsal transdifferentiation of RPE to neural retina.
+Therefore, besides being required for survival of ventral structures, retinoids are involved in restricting anterior identity in the telencephalon and dorsal identity in the diencephalon and the retina.

@@ -1,0 +1,10 @@
+Auranofin increases apoptosis and ischaemia-reperfusion injury in the rat isolated heart.
+Auranofin, an antirheumatic gold compound, is an inhibitor of selenocysteine enzymes, such as thioredoxin reductase and glutathione peroxidase.
+These enzymes play an important role in protecting cardiac tissue from oxidative stress generated during ischaemia-reperfusion.
+Auranofin (100 mg/kg) was administered to rats and their hearts were subjected to an in vitro model of ischaemia-reperfusion.
+The activity of thioredoxin reductase and glutathione peroxidase was determined in liver and heart tissues in an attempt to correlate enzymatic activity with heart recovery after ischaemia-reperfusion.
+There was significantly less thioredoxin reductase activity in rat liver extracts, whereas the level of glutathione activity remained unchanged, demonstrating that the dose of auranofin used was able to selectively inhibit one of these enzyme systems.
+Rats administered auranofin displayed significantly impaired recovery from ischaemic insult.
+The end diastolic pressure was increased, whereas the rate pressure product was significantly decreased.
+The level of postischaemic apoptosis was also assessed by examining caspase-3 activity in tissue homogenates.
+Auranofin significantly increased the degree of postischaemic apoptosis, leading to poor postischaemic recovery.

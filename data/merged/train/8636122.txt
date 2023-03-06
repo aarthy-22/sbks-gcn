@@ -1,0 +1,8 @@
+Structural features of the central cannabinoid CB1 receptor involved in the binding of the specific CB1 antagonist SR 141716A.
+The antagonist SR 141716A has a high specificity for the central CB1 cannabinoid receptor and negligeable affinity for the peripheral CB2 receptor, making it an excellent tool for probing receptor structure-activity relationships.
+From binding experiments with mutated CB1 and with chimeric CB1/CB2 receptors we have begun to identify the domains of CB1 implicated in the recognition of SR 141716A.
+Receptors were transiently expressed in COS-3 cells, and their binding characteristics were studied with SR 141716A and with CP 55,940, an agonist recognized equally well by the two receptors.
+The region delineated by the fourth and fifth transmembrane helices of CB1 proved to be crucial for high affinity binding of SR 141716A.
+The CB1 and CB2 second extracellular loops, e2, were exchanged, modifications that had no effect on SR 141716A binding in the CB1 variant but that eliminated CP 55,940 binding in both mutants.
+The replacement of the conserved cysteine residues in e2 of CB2 by serine also eliminated CP 55,940 binding, but replacement of those in CB1 resulted in the sequestration of the mutated receptors in the cell cytoplasm.
+The e2 domain thus plays some role in CP 55,940 binding but none in SR 141716A recognition, binding of the latter clearly implicating residues in the adjoining transmembrane helices.

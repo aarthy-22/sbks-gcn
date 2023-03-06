@@ -1,0 +1,11 @@
+Gliotransmission and brain glucose sensing: critical role of endozepines.
+Hypothalamic glucose sensing is involved in the control of feeding behavior and peripheral glucose homeostasis, and glial cells are suggested to play an important role in this process.
+Diazepam-binding inhibitor (DBI) and its processing product the octadecaneuropeptide (ODN), collectively named endozepines, are secreted by astroglia, and ODN is a potent anorexigenic factor.
+Therefore, we investigated the involvement of endozepines in brain glucose sensing.
+First, we showed that intracerebroventricular administration of glucose in rats increases DBI expression in hypothalamic glial-like tanycytes.
+We then demonstrated that glucose stimulates endozepine secretion from hypothalamic explants.
+Feeding experiments indicate that the anorexigenic effect of central administration of glucose was blunted by coinjection of an ODN antagonist.
+Conversely, the hyperphagic response elicited by central glucoprivation was suppressed by an ODN agonist.
+The anorexigenic effects of centrally injected glucose or ODN agonist were suppressed by blockade of the melanocortin-3/4 receptors, suggesting that glucose sensing involves endozepinergic control of the melanocortin pathway.
+Finally, we found that brain endozepines modulate blood glucose levels, suggesting their involvement in a feedback loop controlling whole-body glucose homeostasis.
+Collectively, these data indicate that endozepines are a critical relay in brain glucose sensing and potentially new targets in treatment of metabolic disorders.

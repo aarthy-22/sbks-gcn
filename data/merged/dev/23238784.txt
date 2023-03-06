@@ -1,0 +1,11 @@
+Phase 1 and phase 2 drug metabolism and bile acid production of HepaRG cells in a bioartificial liver in absence of dimethyl sulfoxide.
+The human liver cell line HepaRG has been recognized as a promising source for in vitro testing of metabolism and toxicity of compounds.
+However, currently the hepatic differentiation of these cells relies on exposure to dimethylsulfoxide (DMSO), which, as a side effect, has a cytotoxic effect and represses an all-round hepatic functionality.
+The AMC-bioartificial liver (AMC-BAL) is a three-dimensional bioreactor that has previously been shown to upregulate various liver functions of cultured cells.
+We therefore cultured HepaRG cells in the AMC-BAL without DMSO and characterized the drug metabolism.
+Within 14 days of culture, the HepaRG-AMC-BALs contained highly polarized viable liver-like tissue with heterogeneous expression of CYP3A4.
+We found a substantial metabolism of the tested substrates, ranging from 26% (UDP-glucuronosyltransferase 1A1), 47% (CYP3A4), to 240% (CYP2C9) of primary human hepatocytes.
+The CYP3A4 activity could be induced 2-fold by rifampicin, whereas CYP2C9 activity remained equally high.
+The HepaRG-AMC-BAL secreted bile acids at 43% the rate of primary human hepatocytes and demonstrated hydroxylation, conjugation, and transport of bile salts.
+Concluding, culturing HepaRG cells in the AMC-BAL yields substantial phase 1 and phase 2 drug metabolism, while maintaining high viability, rendering DMSO addition superfluous for the promotion of drug metabolism.
+Therefore, AMC-BAL culturing makes the HepaRG cells more suitable for testing metabolism and toxicity of drugs.

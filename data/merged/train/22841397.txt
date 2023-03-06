@@ -1,0 +1,12 @@
+Effects of biotin supplementation in the diet on insulin secretion, islet gene expression, glucose homeostasis and beta-cell proportion.
+Besides its role as a carboxylase cofactor, biotin has a wide repertoire of effects on gene expression, development and metabolism.
+Pharmacological concentrations of biotin enhance insulin secretion and the expression of genes and signaling pathways that favor islet function in vitro.
+However, the in vivo effects of biotin supplementation on pancreatic islet function are largely unknown.
+In the present study, we investigated whether in vivo biotin supplementation in the diet has positive effects in rodent pancreatic islets.
+Male BALB/cAnN Hsd mice were fed a control or a biotin-supplemented diet over 8 weeks postweaning and tested for glucose homeostasis, insulin secretion, islet gene expression and pancreatic morphometry.
+Insulin secretion increased from the islets of biotin-supplemented mice, together with the messenger RNA (mRNA) expression of several transcription factors regulating insulin expression and secretion, including forkhead box A2, pancreatic and duodenal homeobox 1 and hepatocyte nuclear factor 4α.
+The mRNA abundance of glucokinase, Cacna1d, acetyl-CoA carboxylase, and insulin also increased.
+Consistent with these effects, glucose tolerance improved, and glucose-stimulated serum insulin levels increased in biotin-supplemented mice, without changes in fasting glucose levels or insulin tolerance.
+Biotin supplementation augmented the proportion of beta cells by enlarging islet size and, unexpectedly, also increased the percentage of islets with alpha cells at the islet core.
+mRNA expression of neural cell adhesion molecule 1, an adhesion protein participating in the maintenance of islet architecture, decreased in biotin-supplemented islets.
+These findings provide, for the first time, insight into how biotin supplementation exerts its effects on function and proportion of beta cells, suggesting a role for biotin in the prevention and treatment of diabetes.

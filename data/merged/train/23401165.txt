@@ -1,0 +1,11 @@
+Arsenic geochemistry in a biostimulated aquifer: An aqueous speciation study.
+Stimulating microbial growth through the use of acetate injection wells at the former uranium mill site in Rifle, Colorado, USA, has been shown to decrease dissolved uranium (VI) concentrations through bacterial reduction to immobile uranium (IV).
+Bioreduction also changed the redox chemistry of site groundwater, altering the mobility of several other redox-sensitive elements present in the subsurface, including iron, sulfur, and arsenic.
+Following acetate amendment at the site, elevated concentrations of arsenic in the groundwater were observed.
+Ion chromatography-inductively coupled plasma-mass spectrometry was used to determine the aqueous arsenic speciation.
+Upgradient samples, unexposed to acetate, showed low levels of arsenic (≈1 μM), with greater than 90% as arsenate (As[V]) and a small amount of arsenite (As[III]).
+Downgradient acetate-stimulated water samples had much higher levels of arsenic (up to 8 μM), and 4 additional thioarsenic species were present under sulfate-reducing conditions.
+These thioarsenic species demonstrate a strong correlation between arsenic release and sulfide concentrations in groundwater, and their formation may explain the elevated total arsenic concentrations.
+An alternative remediation approach, enhanced flushing of uranium, was accomplished by addition of bicarbonate and did not result in highly elevated arsenic concentrations.
+Environ Toxicol Chem 2013;32:1216-1223.
+© 2013 SETAC.

@@ -1,0 +1,10 @@
+Fatty acid metabolism as a target for obesity treatment.
+Although metabolites and energy balance have long been known to play roles in the regulation of food intake, the potential role of fatty acid metabolism in this process has been considered only recently.
+Fatty acid synthase (FAS) catalyzes the condensation of acetyl-CoA and malonyl-CoA to generate long-chain fatty acids in the cytoplasm, while the breakdown of fatty acids (beta-oxidation) occurs in mitochondria and is regulated by carnitine palmitoyltransferase-1 (CPT-1), the rate-limiting step for the entry of fatty acids into the mitochondria.
+Inhibition of FAS using cerulenin or synthetic FAS inhibitors such as C75 reduces food intake and induces profound reversible weight loss.
+Subsequent studies reveal that C75 also stimulates CPT-1 and increases beta-oxidation.
+Hypotheses as to the mechanisms by which C75 and cerulenin mediate their effects have been proposed.
+Centrally, these compounds alter the expression profiles of feeding-related neuropeptides, often inhibiting the expression of orexigenic peptides.
+Whether through centrally mediated or peripheral mechanisms, C75 also increases energy consumption, which contributes to weight loss.
+In vitro and in vivo studies demonstrate that at least part of C75's effects is mediated by modulation of AMP-activated protein kinase (AMPK), a known peripheral energy-sensing kinase.
+Collectively, these data suggest a role for fatty acid metabolism in the perception and regulation of energy balance.

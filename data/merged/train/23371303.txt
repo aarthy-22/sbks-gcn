@@ -1,0 +1,21 @@
+Ceftazidime-avibactam: a novel cephalosporin/β-lactamase inhibitor combination.
+Avibactam (formerly NXL104, AVE1330A) is a synthetic non-β-lactam, β-lactamase inhibitor that inhibits the activities of Ambler class A and C β-lactamases and some Ambler class D enzymes.
+This review summarizes the existing data published for ceftazidime-avibactam, including relevant chemistry, mechanisms of action and resistance, microbiology, pharmacokinetics, pharmacodynamics, and efficacy and safety data from animal and human trials.
+Although not a β-lactam, the chemical structure of avibactam closely resembles portions of the cephem bicyclic ring system, and avibactam has been shown to bond covalently to β-lactamases.
+Very little is known about the potential for avibactam to select for resistance.
+The addition of avibactam greatly (4-1024-fold minimum inhibitory concentration [MIC] reduction) improves the activity of ceftazidime versus most species of Enterobacteriaceae depending on the presence or absence of β-lactamase enzyme(s).
+Against Pseudomonas aeruginosa, the addition of avibactam also improves the activity of ceftazidime (~fourfold MIC reduction).
+Limited data suggest that the addition of avibactam does not improve the activity of ceftazidime versus Acinetobacter species or most anaerobic bacteria (exceptions: Bacteroides fragilis, Clostridium perfringens, Prevotella spp. and Porphyromonas spp.).
+The pharmacokinetics of avibactam follow a two-compartment model and do not appear to be altered by the co-administration of ceftazidime.
+The maximum plasma drug concentration (C(max)) and area under the plasma concentration-time curve (AUC) of avibactam increase linearly with doses ranging from 50 mg to 2,000 mg.
+The mean volume of distribution and half-life of 22 L (~0.3 L/kg) and ~2 hours, respectively, are similar to ceftazidime.
+Like ceftazidime, avibactam is primarily renally excreted, and clearance correlates with creatinine clearance.
+Pharmacodynamic data suggest that ceftazidime-avibactam is rapidly bactericidal versus β-lactamase-producing Gram-negative bacilli that are not inhibited by ceftazidime alone.
+Clinical trials to date have reported that ceftazidime-avibactam is as effective as standard carbapenem therapy in complicated intra-abdominal infection and complicated urinary tract infection, including infection caused by cephalosporin-resistant Gram-negative isolates.
+The safety and tolerability of ceftazidime-avibactam has been reported in three phase I pharmacokinetic studies and two phase II clinical studies.
+Ceftazidime-avibactam appears to be well tolerated in healthy subjects and hospitalized patients, with few serious drug-related treatment-emergent adverse events reported to date.
+In conclusion, avibactam serves to broaden the spectrum of ceftazidime versus ß-lactamase-producing Gram-negative bacilli.
+The exact roles for ceftazidime-avibactam will be defined by efficacy and safety data from further clinical trials.
+Potential future roles for ceftazidime-avibactam include the treatment of suspected or documented infections caused by resistant Gram-negative-bacilli producing extended-spectrum ß-lactamase (ESBL), Klebsiella pneumoniae carbapenemases (KPCs) and/or AmpC ß-lactamases.
+In addition, ceftazidime-avibactam may be used in combination (with metronidazole) for suspected polymicrobial infections.
+Finally, the increased activity of ceftazidime-avibactam versus P. aeruginosa may be of clinical benefit in patients with suspected or documented P. aeruginosa infections.

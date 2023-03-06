@@ -1,0 +1,7 @@
+Successful liver transplantation for Budd-Chiari syndrome in a patient with paroxysmal nocturnal hemoglobinuria treated with the anti-complement antibody eculizumab.
+Paroxysmal nocturnal hemoglobinuria (PNH) is a rare, acquired hemolytic anemia caused by somatic mutations in the phosphatidylinositol glycan-complementation class A gene and the resulting absence of a key complement regulatory protein, CD59.
+Affected red blood cells in patients with PNH undergo intravascular complement-mediated lysis with resulting anemia, hemoglobinuria, and venous thromboses.
+Hepatic venous outflow thrombosis [Budd-Chiari syndrome (BCS)] is especially common in PNH patients and often fatal.
+The few case reports of outcomes in patients undergoing liver transplant for BCS secondary to PNH detail instances of recurrent BCS as well as early thrombotic portal vein occlusion and hepatic artery thrombosis requiring retransplantation.
+PNH is therefore generally considered a contraindication to liver transplantation.
+Here we present the first report of a patient with PNH and BCS undergoing successful liver transplantation while receiving eculizumab, a humanized monoclonal antibody that blocks the activation of the terminal complement at C5.

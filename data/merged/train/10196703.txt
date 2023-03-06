@@ -1,0 +1,12 @@
+Mortality risk in men is associated with a common mutation in the methylene-tetrahydrofolate reductase gene (MTHFR).
+An elevated level of homocysteine in plasma is associated with the occurrence of cardiovascular disease.
+A common ala-to-val mutation in the methylenetetrahydrofolate reductase gene (MTHFR) is associated with an elevated level of plasma homocysteine.
+We studied the possible detrimental effects of the MTHFR mutation on mortality.
+Within a population-based study in the city of Leiden, the Netherlands, we first compared the MTHFR genotype distribution among 365 elderly subjects aged 85 years and over born in Leiden, and 250 young subjects aged 18 to 40 years whose families originated from the same geographical region.
+Second, the complete cohort of 666 subjects aged 85 years and over was followed over a period of 10 years for all-cause and cause-specific mortality and stratified according to MTHFR genotype.
+The frequency of the MTHFR mutation was significantly lower in the elderly than in the young (0.30 and 0.36, respectively; P = 0.03).
+The difference in genotype distribution was only present in men.
+The estimated mortality risk up to 85 years in men carrying the vallval genotype was 3.7 (95% confidence interval (CI), 1.3-10.9).
+Over the age of 85, mortality in men with the vallval genotype was increased 2.0-fold (95% CI, 1.1-3.9) and appeared to be attributable to cancer rather than cardiovascular causes of death.
+Among women aged 85 years and over, no deleterious effect of the MTHFR mutation was observed.
+In conclusion, the MTHFR mutation is associated with increased mortality in men in middle and old age, but not in women.

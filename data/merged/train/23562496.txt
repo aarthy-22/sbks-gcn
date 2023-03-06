@@ -1,0 +1,12 @@
+2-Hydroxychalcone and xanthohumol inhibit invasion of triple negative breast cancer cells.
+Breast cancer is estimated as one of the most common causes of cancer death among women.
+In particular, triple negative breast cancers (TNBCs), which do not express the genes for estrogen/progesterone receptors (ER/PR) and human epidermal growth factor receptor 2 (HER2), have been associated with poor prognosis and metastasis.
+Chalcones, the biosynthetic precursors of flavonoids present in edible plants, exert cytotoxic and chemopreventive activities.
+Although mounting evidence suggests the anticancer properties of chalcones, limited information is available regarding the inhibitory effects of chalcones on the aggressiveness of breast cancer cells.
+The present study aimed to investigate the effects of chalcone and its derivatives on the growth and the invasiveness of TNBC cells.
+Here, we showed that treatment with chalcone, 2-hydroxychalcone, and xanthohumol for 24h inhibited the growth of MDA-MB-231cells with IC50 values of 18.1, 4.6, and 6.7μM, respectively.
+Similarly, Chalcone, 2-hydroxychalcone, and xanthohumol also exerted cytotoxicity in another TNBC cell line, Hs578T.
+Neohesperidin dihydrochalcone, 4-methoxychalcone, and hesperidin methylchalcone did not show the cytotoxicity on the MDA-MB-231cells.
+Xanthohumol and 2-hydroxychalcone induced apoptosis by Bcl-2 downregulation.
+Importantly, 2-hydroxychalcone and xanthohumol exerted more potent inhibitory effects on the proliferation, MMP-9 expression and invasive phenotype of MDA-MB-231 than chalcone.
+These results suggest a potential application of these chalcones as anticancer agents that can alleviate malignant progression of TNBC.

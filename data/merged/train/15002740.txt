@@ -1,0 +1,8 @@
+The persistent membrane retention of desipramine causes lasting inhibition of norepinephrine transporter function.
+The present study examined the potential membrane retention of desipramine (DMI) following exposures of 293-hNET cells to DMI, and its effect on [3H]NE uptake.
+Incubation of cells with 500 nM DMI for 1 h or 1 day persistently inhibited the uptake of [3H]NE up to 7 days, despite daily repeated washing of cells with drug-free medium.
+Uptake inhibition was paralleled by persistent retention of DMI associated with cells, as determined by HPLC and by radiotracer experiments using [3H]DMI.
+[3H]DMI trapped in membranes was displaceable by the structurally unrelated NET inhibitor, nisoxetine, in a concentration-dependent manner, implying interaction of retained [3H]DMI with the NET.
+A similar cellular retention was observed following incubation of cells with nisoxetine.
+The results demonstrate that DMI and nisoxetine are persistently retained in cell membranes, at least partly in association with the NET.
+The retention and slow diffusion of DMI and nisoxetine from membranes may contribute to their pharmacological and modulatory action on NET.

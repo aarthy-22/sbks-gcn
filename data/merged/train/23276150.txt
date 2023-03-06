@@ -1,0 +1,10 @@
+Display of amino groups on substrate surfaces by simple dip-coating of methacrylate-based polymers and its application to DNA immobilization.
+The implementation of a reactive functional group onto a material surface is of great importance.
+Reactive functional groups (e.g., an amino group and a hydroxyl group) are usually hydrophilic, which makes it difficult to display them on a dry polymer surface.
+We here propose a novel method for displaying amino groups on the surfaces of polymeric substrates through dip-coating of a methacrylate-based copolymer.
+We synthesized copolymers composed of methyl methacrylate and 2-aminoethyl methacrylate with different protecting groups or ion-complexes on their amino groups, then dip-coated the copolymers onto a poly(methyl methacrylate) (PMMA) substrate.
+Evaluation using a cleavable fluorescent compound, which was synthesized in the present study to quantify a small amount (pmol/cm(2)) of amino groups on a solid surface, revealed that the protection of amino groups affected their surface segregation in the copolymer coating.
+p-Toluenesulfonate ion-complex and tert-butoxycarbonyl (Boc) protection of amino groups were found to effectively display amino groups on the surface (more than 70 pmol/cm(2)).
+The density of amino groups displayed on a surface can be easily controlled by mixing the copolymer and PMMA before dip-coating.
+Dip-coating of the copolymer with Boc protection on various polymeric substrates also successfully displayed amino groups on their surfaces.
+Finally, we demonstrated that the amino groups displayed can be utilized for the immobilization of a DNA oligonucleotide on a substrate surface.

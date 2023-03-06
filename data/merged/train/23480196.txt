@@ -1,0 +1,13 @@
+Purification and sidewall functionalization of multiwalled carbon nanotubes and resulting bioactivity in two macrophage models.
+This study examined the consequences of surface carboxylation of multiwalled carbon nanotubes (MWCNT) on bioactivity.
+Since commercial raw MWCNT contain impurities that may affect their bioactivity, HCl refluxing was exploited to purify raw "as-received" MWCNT by removing the amorphous carbon layer on the MWCNT surface and reducing the metal impurities (e.g. Ni).
+The removal of amorphous carbon layer was confirmed by Raman spectroscopy and thermogravimetric analysis.
+Furthermore, the HCl-purified MWCNT provided more available reaction sites, leading to enhanced sidewall functionalization.
+The sidewall of HCl-purified MWCNT was further functionalized with the -COOH moiety by HNO(3) oxidation.
+This process resulted in four distinct MWCNT: raw, purified, -COOH-terminated raw MWCNT, and -COOH-terminated purified MWCNT.
+Freshly isolated alveolar macrophages from C57Bl/6 mice were exposed to these nanomaterials to determine the effects of the surface chemistry on the bioactivity in terms of cell viability and inflammasome activation.
+Inflammasome activation was confirmed using inhibitors of cathepsin B and Caspase-1.
+Purification reduced the cell toxicity and inflammasome activation slightly compared to raw MWCNT.
+In contrast, functionalization of MWCNT with the -COOH group dramatically reduced the cytotoxicity and inflammasome activation.
+Similar results were seen using THP-1 cells supporting their potential use for high-throughput screening.
+This study demonstrated that the toxicity and bioactivity of MWCNT were diminished by removal of the Ni contamination and/or addition of -COOH groups to the sidewalls.

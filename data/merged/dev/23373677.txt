@@ -1,0 +1,9 @@
+Investigation of astatine(III) hydrolyzed species: experiments and relativistic calculations.
+This work aims to resolve some controversies about astatine(III) hydroxide species present in oxidant aqueous solution.
+AtO(+) is the dominant species existing under oxidizing and acidic pH conditions.
+This is consistent with high-performance ion-exchange chromatography data showing the existence of one species holding one positive charge.
+A change in speciation occurs as the pH changes from 1 to 4, while remaining under oxidizing conditions.
+Dynamic experiments with ion-exchange resins evidence the existence of a neutral species witnessed by its elution in the void volume.
+Batch-experiments using a competition method show the exchange of one proton indicating the formation of the AtO(OH) species.
+The hydrolysis thermodynamic constant, extrapolated to zero ionic strength, was determined to be 10(-1.9).
+This value is supported by two-component relativistic quantum calculations and therefore allows disclosing unambiguously the structure of the formed species.

@@ -1,0 +1,15 @@
+Cool (TRPM8) and hot (TRPV1) receptors in the bladder and male genital tract.
+PURPOSE: Overactive bladder symptoms due to various etiologies have been successfully treated with capsaicin by desensitization of the temperature sensitive vanilloid receptor TRPV1.
+Recently another temperature sensitive receptor, TRPM8, activated by menthol and cool temperatures (8C to 28C) was described that may be the proposed cool receptor, at least in part mediating the bladder response in the diagnostic ice water test.
+We defined the sites of mRNA and protein expression of TRPM8 and TRPV1 in the rat and human genitourinary tract.
+MATERIALS AND METHODS: Prostate, testis, penis, bladder and dorsal root ganglion tissue was obtained from rats.
+Prostate, testicle, seminiferous tubules, corpus cavernosum, glans, overlying glans skin, scrotal skin and bladder were obtained from human patients.
+Reverse transcription-polymerase chain reaction was done using species specific primers for TRPM8 and TRPV1.
+Immunofluorescence staining for TRPM8 was performed in rat tissues as well as in cultured human urothelial cells.
+RESULTS: TRPM8 and TRPV1 mRNA were detected in all rat tissues.
+Human samples demonstrated TRPM8 mRNA in prostate, testicle, seminiferous tubules, scrotal skin and bladder.
+No TRPM8 mRNA was identified in human corpus cavernosum, glans or overlying glans skin.
+Separation of layers in human bladder demonstrated mRNA for TRPM8 only in the urothelium and not in the detrusor.
+Immunofluorescence location of TRPM8 was found in rat prostate, DRG and bladder, and in human urothelial cells in culture.
+TRPV1 mRNA was detected in all human genitourinary tract tissues.
+CONCLUSIONS: These results demonstrate that mRNA and protein for TRPM8 exist in multiple genitourinary organs in the rat and human, and it may be considered a possible new target, as is TRPV1, for the pharmacological treatment of detrusor overactivity or other urological disorders.

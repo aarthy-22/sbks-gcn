@@ -1,0 +1,14 @@
+TRP and ASIC channels mediate the antinociceptive effect of citronellyl acetate.
+Background Citronellyl acetate (CAT), a monoterpene product of the secondary metabolism of plants, has been shown in the literature to possess several different biological activities.
+However, no antinociceptive abilities have yet been discussed.
+Here, we used acute pain animal models to describe the antinociceptive action of CAT.
+Methods The acetic acid-induced writhing test and the paw-licking test, in which paw licking was induced by glutamate and formalin, were performed to evaluate the antinociceptive action of CAT and to determine the involvement of PKC, PKA, TRPV1, TRPA1, TRPM8 and ASIC in its antinociceptive mechanism.
+To do so, we induced paw-linking using agonists.
+Results CAT was administered intragastrically (25, 50, 75, 100 and 200mg/kg), and the two higher doses caused antinociceptive effects in the acetic acid model; the highest dose reduced pain for 4h after it was administered (200mg/kg).
+In the formalin test, two doses of CAT promoted antinociception in both the early and later phases of the test.
+The glutamate test showed that its receptors are involved in the antinociceptive mechanism of CAT.
+Pretreatment with CAT did not alter locomotor activity or motor coordination.
+In an investigation into the participation of TRP channels and ASICs in CAT's antinociceptive mechanism, we used capsaicin (2.2μg/paw), cinnamaldehyde (10mmol/paw), menthol (1.2mmol/paw) and acidified saline (2% acetic acid, pH 1.98).
+The results showed that TRPV1, TRPM8 and ASIC, but not TRPA1, are involved in the antinociceptive mechanism.
+Finally, the involvement of PKC and PKA was also studied, and we showed that both play a role in the antinociceptive mechanism of CAT.
+Conclusion The results of this work contribute information regarding the antinociceptive properties of CAT on acute pain and show that, at least in part, TRPV1, TRPM8, ASIC, glutamate receptors, PKC and PKA participate in CAT's antinociceptive mechanism.

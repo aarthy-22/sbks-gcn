@@ -1,0 +1,10 @@
+Mitochondrial arginase II modulates nitric-oxide synthesis through nonfreely exchangeable L-arginine pools in human endothelial cells.
+Reduced synthesis of nitric oxide (NO) contributes to the endothelial dysfunction and may be related to limited availability of L-arginine, the common substrate of constitutive nitric-oxide synthase (NOS) and cytosolic arginase I and mitochondrial arginase II.
+To determine whether arginases modulate the endothelial NO synthesis, we investigated the effects of the competitive arginase inhibitor N(omega)-hydroxy-nor-L-arginine (Nor-NOHA) on the activity of NOS, arginases, and L-arginine transporter and on NO release at surface of human umbilical vein endothelial cells (HUVECs).
+In unstimulated cells, Nor-NOHA dose-dependently reduced the arginase activity with maximal inhibition at 20 microM. When HUVECs were stimulated by thrombin without extracellular L-arginine, Nor-NOHA dose-dependently increased the NOS activity and the NO release with maximal effects at 20 microM. Extracellular L-arginine also dose-dependently increased NO release and arginase activity.
+When HUVECs were stimulated by thrombin in the presence of 100 microM L-arginine, NOS activity and NO release were similar in untreated and Nor-NOHA-treated cells.
+However, despite activation of L-arginine uptake, the inhibition of arginase activity by Nor-NOHA was still significant.
+The depletion of freely exchangeable L-arginine pools with extracellular L-lysine did not prevent Nor-NOHA from increasing the NO release.
+This indicates the presence of pools, which are accessible to NOS and arginase, but not exchangeable.
+Interestingly, the mitochondrial arginase II was constitutively expressed, whereas the cytosolic arginase I was barely detectable in HUVECs.
+These data suggest that endothelial NO synthesis depends on the activity of arginase II in mitochondria and l-arginine carriers in cell membrane.

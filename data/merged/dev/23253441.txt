@@ -1,0 +1,3 @@
+The discovery of fused oxadiazepines as gamma secretase modulators for treatment of Alzheimer's disease.
+In an attempt to further improve overall profiles of the oxadiazine series of GSMs, in particular the hERG activity, conformational modifications of the core structure resulted in the identification of fused oxadiazepines such as 7i which had an improved hERG inhibition profile and was a highly efficacious GSM in vitro and in vivo in rats.
+These SAR explorations offer opportunities to identify potential drugs to treat Alzheimer's disease.

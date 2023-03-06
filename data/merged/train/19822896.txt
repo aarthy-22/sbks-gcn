@@ -1,0 +1,14 @@
+Nilotinib for the frontline treatment of Ph(+) chronic myeloid leukemia.
+Nilotinib has a higher binding affinity and selectivity for BCR-ABL with respect to imatinib and is an effective treatment of chronic myeloid leukemia (CML) after imatinib failure.
+In a phase 2 study, 73 early chronic-phase, untreated, Ph(+) CML patients, received nilotinib at a dose of 400 mg twice daily.
+The primary endpoint was the complete cytogenetic response (CCgR) rate at 1 year.
+With a median follow-up of 15 months, the CCgR rate at 1 year was 96%, and the major molecular response rate 85%.
+Responses were rapid, with 78% CCgR and 52% major molecular response at 3 months.
+During the first year, the treatment was interrupted at least once in 38 patients (52%).
+The mean daily dose ranged between 600 and 800 mg in 74% of patients, 400 and 599 mg in 18% of patients, and was less than 400 mg in 8% of patients.
+Dose interruptions were mainly due to nonhematologic and biochemical side effects.
+Myelosuppression was irrelevant.
+One patient progressed to blastic crisis after 6 months; one went off-treatment for lipase increase grade 4 (no pancreatitis).
+Nilotinib is safe and very active in early chronic-phase CML.
+These data support a role for nilotinib for the frontline treatment of CML.
+This study was registered at ClinicalTrials.gov as NCT00481052.

@@ -1,0 +1,13 @@
+Autoradiographic study of serotonin transporter during memory formation.
+Serotonin transporter (SERT) has been associated with drugs of abuse like d-methamphetamine (METH).
+METH is well known to produce effects on the monoamine systems but it is unclear how METH affects SERT and memory.
+Here the effects of METH and the serotonin reuptake inhibitor fluoxetine (FLX) on autoshaping and novel object recognition (NOR) were investigated.
+Notably, both memory tasks recruit different behavioral, neural and cognitive demand.
+In autoshaping task a dose-response curve for METH was determined.
+METH (1.0mg/kg) impaired short-term memory (STM; lasting less of 90min) in NOR and impaired both STM and long-term memory (LTM; lasting 24 and 48h) in autoshaping, indicating that METH had long-lasting effects in the latter task.
+A comparative autoradiography study of the relationship between the binding pattern of SERT in autoshaping new untrained vs. trained treated (METH, FLX, or both) animals was made.
+Considering that hemispheric dominance is important for LTM, hence right vs. left hemisphere of the brain was compared.
+Results showed that trained animals decreased cortical SERT binding relative to untrained ones.
+In untrained and trained treated animals with the amnesic dose (1.0mg/kg) of METH SERT binding in several areas including hippocampus and cortex decreased, more remarkably in the trained animals.
+In contrast, FLX improved memory, increased SERT binding, prevented the METH amnesic effect and re-established the SERT binding.
+In general, memory and amnesia seemed to make SERT more vulnerable to drugs effects.

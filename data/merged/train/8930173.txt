@@ -1,0 +1,11 @@
+Comparison of ligand binding affinities at human I1-imidazoline binding sites and the high affinity state of alpha-2 adrenoceptor subtypes.
+To identify selective compounds for nonadrenergic I1-imidazoline receptors (I1), the affinities of 22 ligands for [125I]p-iodoclonidine binding have been compared at human platelet I1-imidazoline binding sites (analyzed under norepinephrine mask of alpha-2 AR) and at human alpha-2A, alpha-2B and alpha-2C adrenoceptors stably expressed on transfected Chinese hamster ovary cells.
+Competition curves at the platelet I1-imidazoline binding site were biphasic for most compounds.
+Only tizanidine and BDF,6143 displayed monophasic I1 competition curves.
+Agmatine, an endogenous neurotransmitter candidate for the I1-imidazoline receptor, was identified as the most selective agent for a subcomponent of platelet I1 sites.
+The affinity of agmatine at the high affinity component of platelet I1 sites was 1400-fold selective over alpha-2A adrenoceptors, 5000-fold selective over alpha-2B adrenoceptors and 800-fold selective over alpha-2C adrenoceptors.
+Moxonidine and tizanidine also displayed selectivities for a high affinity component of the platelet I1 binding sites over alpha-2 adrenoceptors.
+Naphazoline was the most selective compound for the high affinity state of the alpha-2A adrenoceptor, displaying 7-, 23- and 9-fold higher affinity than alpha-2B, alpha-2C and platelet I1-midazoline binding sites, respectively.
+No single selective compound was identified for the alpha-2B adrenoceptor.
+Norepinephrine displayed, respectively, 18- and 31-fold selectivity for the high affinity state of the alpha-2C adrenoceptor as compared to alpha-2A- or alpha-2B adrenoceptors, and was > 100,000- fold selective over platelet I1-imidazoline sites.
+Thus, human alpha-2 adrenoceptors and the platelet I1-imidazoline binding site can be clearly discriminated based on their affinities for certain compounds.

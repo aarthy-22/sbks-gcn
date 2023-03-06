@@ -1,0 +1,8 @@
+Wogonin inhibits H2O2-induced vascular permeability through suppressing the phosphorylation of caveolin-1.
+Wogonin, a naturally occurring monoflavonoid extracted from the root of Scutellaria baicalensis Georgi, has been reported for its anti-oxidant activity.
+However, it is still unclear whether wogonin can inhibit oxidant-induced vascular permeability.
+In this study, we evaluated the effects of wogonin on H2O2-induced vascular permeability in human umbilical vein endothelial cells (HUVECs).
+We found that wogonin can suppress the H2O2-stimulated actin remodeling and albumin uptake of HUVECs, as well as transendothelial cell migration of the human breast carcinoma cell MDA-MB-231.
+The mechanism revealed that wogonin inhibited H2O2-induced phosphorylation of caveolin-1 (cav-1) associating with the suppression of stabilization of VE-cadherin and β-catenin.
+Moreover, wogonin repressed anisomycin-induced phosphorylation of p38, cav-1 and vascular permeability.
+These results suggested that wogonin could inhibit H2O2-induced vascular permeability by downregulating the phosphorylation of cav-1, and that it might have a therapeutic potential for the diseases associated with the development of both oxidant and vascular permeability.

@@ -1,0 +1,9 @@
+MUC1-C oncoprotein as a target in breast cancer: activation of signaling pathways and therapeutic approaches.
+Mucin 1 (MUC1) is a heterodimeric protein formed by two subunits that is aberrantly overexpressed in human breast cancer and other cancers.
+Historically, much of the early work on MUC1 focused on the shed mucin subunit.
+However, more recent studies have been directed at the transmembrane MUC1-C-terminal subunit (MUC1-C) that functions as an oncoprotein.
+MUC1-C interacts with EGFR (epidermal growth factor receptor), ErbB2 and other receptor tyrosine kinases at the cell membrane and contributes to activation of the PI3KAKT and mitogen-activated protein kinase kinase (MEK)extracellular signal-regulated kinase (ERK) pathways.
+MUC1-C also localizes to the nucleus where it activates the Wnt/β-catenin, signal transducer and activator of transcription (STAT) and NF (nuclear factor)-κB RelA pathways.
+These findings and the demonstration that MUC1-C is a druggable target have provided the experimental basis for designing agents that block MUC1-C function.
+Notably, inhibitors of the MUC1-C subunit have been developed that directly block its oncogenic function and induce death of breast cancer cells in vitro and in xenograft models.
+On the basis of these findings, a first-in-class MUC1-C inhibitor has entered phase I evaluation as a potential agent for the treatment of patients with breast cancers who express this oncoprotein.

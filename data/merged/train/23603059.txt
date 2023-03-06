@@ -1,0 +1,8 @@
+Arsenic upregulates the expression of angiotensin II Type I receptor in mouse aortic endothelial cells.
+Although chronic arsenic exposure is a well-known risk for cardiovascular disease and has a strong correlation with hypertension, the molecular pathogenesis underlying arsenic exposure-induced hypertension remains poorly understood.
+To delineate the pathogenesis, we examined changes in the mRNA levels of 2 angiotensin II Type I receptor (AT1R) subtypes, AT1AR and AT1BR, in a mouse aortic endothelial cell line, END-D. Quantitative real-time PCR analysis revealed significant increases in the mRNA levels of 2 AT1R subtypes, AT1AR and AT1BR following sodium arsenite (SA) treatment.
+Flow cytometry analysis revealed that SA increases the generation of reactive oxygen species (ROS) in a dose-dependent manner.
+In addition, western blot analysis revealed that SA enhances the phosphorylations of c-Jun N-terminal kinases (JNK) and activated protein 1 (AP-1).
+These phosphorylations were inhibited by N-acetylcysteine (NAC), an anti-oxidant.
+Finally, SA-induced AT1R expression was found to be prevented both by NAC and specific JNK inhibitor, SP6001325, strongly indicating that AT1R upregulation is a result of the ROS-mediated activation of the JNK signaling pathway.
+Taken together, our results indicate that arsenic indeed upregulates the AT1R expression, thus highlighting a role of arsenic-induced aberrant AT1R signaling in the pathogenesis of hypertension.

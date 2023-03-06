@@ -1,0 +1,4 @@
+Flexible Low-Voltage Organic Transistors with High Thermal Stability at 250 °C.
+Low-operating-voltage flexible organic thin-film transistors with high thermal stability using DPh-DNTT and SAM gate dielectrics are reported.
+The mobility of the transistors are decreased by 23% after heating to 250 °C for 30 min.
+Furthermore, flexible organic pseudo-CMOS inverter circuits, which are functional after heating to 200 °C.

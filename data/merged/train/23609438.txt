@@ -1,0 +1,11 @@
+The Intermediate-conductance Calcium-activated Potassium Channel KCa3.1 Regulates Vascular Smooth Muscle Cell Proliferation via Controlling Calcium-dependent Signaling.
+The intermediate-conductance calcium-activated potassium channel KCa3.1 contributes to a variety of cell activation processes in pathologies such as inflammation, carcinogenesis and vascular remodeling.
+We examined the electrophysiological and transcriptional mechanisms by which KCa3.1 regulates vascular smooth muscle cell (VSMC) proliferation.
+Platelet-derived growth factor-BB (PDGF)-induced proliferation of human coronary artery VSMCs was attenuated by lowering intracellular Ca(2+) concentration ([Ca(2+)]i) and was enhanced by elevating [Ca(2+)]i.
+KCa3.1 blockade or knockdown inhibited proliferation by suppressing the rise in [Ca(2+)]i and attenuating the expression of phosphorylated cAMP response element binding protein (CREB), c-fos and neuron-derived orphan receptor-1 (NOR-1).
+This anti-proliferative effect was abolished by elevating [Ca(2+)]i.
+KCa3.1 overexpression induced VSMC proliferation, and potentiated PDGF-induced proliferation, by inducing CREB phosphorylation, c-fos and NOR-1.
+Pharmacological stimulation of KCa3.1 unexpectedly suppressed proliferation by inhibiting the rise in [Ca(2+)]i and abolishing the expression and activity of KCa3.1 and PDGF β-receptors.
+The stimulation also attenuated the levels of phosphorylated CREB, c-fos and cyclins expression.
+After KCa3.1 blockade, the characteristic round shape of VSMCs expressing high l-caldesmon and low calponin-1 (dedifferentiation state) was maintained, whereas KCa3.1 stimulation induced a spindle-shape cellular appearance, with low l-caldesmon and high calponin-1.
+In conclusion, KCa3.1 plays an important role in VSMC proliferation via controlling Ca(2+)-dependent signaling pathways and its modulation may therefore constitute a new therapeutic target for cell proliferative diseases such as atherosclerosis.

@@ -1,0 +1,6 @@
+Medical therapy of coronary artery disease after percutaneous intervention.
+Medical therapy following percutaneous coronary intervention aims at preventing first, coronary disease progression and its clinical manifestations, and finally, the two main complications of coronary stenting, stent thrombosis and restenosis.
+Prevention of in-stent restenosis is restricted to local drug delivery in the form of drug eluting stents (DES).
+Second generation DES have improved their efficacy and safety profile by innovations in drug coating, the polymer drug-delivery system and stent design.
+The mainstay of stent thrombosis prevention remains dual anti-platelet therapy with acetylsalicylic acid and a platelet ADP-receptor blocker, traditionally clopidogrel.
+Two new drugs, prasugrel and ticagrelor, provide faster, greater, and more consistent platelet inhibition than clopidogrel, and have been shown to be more efficacious in preventing ischemic events after PCI in acute coronary syndrome patients.

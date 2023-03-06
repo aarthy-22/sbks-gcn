@@ -1,0 +1,7 @@
+The biochemical selectivity of novel COX-2 inhibitors in whole blood assays of COX-isozyme activity.
+We have evaluated the biochemical selectivity of novel cyclo-oxygenase (COX)-2 inhibitors, etoricoxib, valdecoxib, DFU and DFP, vs rofecoxib and celecoxib, using the human whole blood assays of COX-isozyme activity, in vitro.
+Compounds were incubated with human whole blood samples, allowed to clot for 1 h at 37 degrees C, or stimulated with lipopolysaccharide (10 microg/ml) for 24 h at 37 degrees C. Serum thromboxane (TX) B2 and plasma prostaglandin (PG) E2 levels were measured by specific radioimmunoassays as indices of platelet COX-1 and monocyte COX-2 activity, respectively.
+Valdecoxib, etoricoxib, DFU and DFP inhibited platelet COX-1 and monocyte COX-2 with the following COX-1/COX-2 IC50 ratios: 61.5, 344, 660 and 1918, respectively.
+The reference compounds, celecoxib and rofecoxib had corresponding values of 29.6 and 272.
+In conclusion, a second wave of COX-2 inhibitors with higher biochemical selectivity than the existing coxibs has been developed.
+Whether their administration will be associated with improved clinical efficacy and/or safety vis-a-vis celecoxib and rofecoxib remains to be established.

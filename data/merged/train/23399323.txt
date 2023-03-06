@@ -1,0 +1,12 @@
+Inhibition of ghrelin O-acyltransferase attenuates food deprivation-induced increases in ingestive behavior.
+Ghrelin is an orexigenic hormone produced by the stomach in direct proportion to the time since the last meal and has therefore been called a 'hunger signal'.
+The octanoylation of ghrelin is critical for its orexigenic functions and is dependent upon ghrelin O-acyltransferase (GOAT) catalyzation.
+The GOAT inhibitor, GO-CoA-Tat, decreases the circulating concentrations of octanoylated ghrelin and attenuates weight gain on a high fat diet in mice.
+Unlike rats and mice, Siberian hamsters and humans do not increase food intake after food deprivation, but increase food hoarding after food deprivation.
+In Siberian hamsters, exogenous ghrelin increases ingestive behaviors similarly to 48-56h food deprivation.
+Therefore, we tested the necessity of increased ghrelin in food-deprived Siberian hamsters to stimulate ingestive behaviors.
+To do so we used our simulated natural housing system that allows hamsters to forage for and hoard food.
+Animals were given an injection of GO-CoA-Tat (i.p., 11μmol/kg) every 6h because that is the duration of its effective inhibition of octanoylated ghrelin concentrations during a 48h food deprivation.
+We found that GO-CoA-Tat attenuated food foraging (0-1h), food intake (0-1 and 2-4h), and food hoarding (0-1h and 2 and 3days) post-refeeding compared with saline treated animals.
+This suggests that increased octanoylated ghrelin concentrations play a role in the food deprivation-induced increases in ingestive behavior.
+Therefore, ghrelin is a critical aspect of the multi-faceted mechanisms that stimulate ingestive behaviors, and might be a critical point for a successful clinical intervention scheme in humans.

@@ -1,0 +1,8 @@
+Captopril directly inhibits matrix metalloproteinase-2 activity in continuous ambulatory peritoneal dialysis therapy.
+BACKGROUND: Matrix metalloproteinase (MMP)-2 plays an important role in tissue remodeling related to inflammation during continuous ambulatory peritoneal dialysis (CAPD) therapy.
+But its inhibitors were not applied clinically.
+We determined whether an angiotensin-converting enzyme (ACE) inhibitor, captopril, inhibits MMP-2 activity in peritoneal effluents from patients on CAPD, and simulated molecular models of the MMP-2-captopril complex.
+METHODS: The inhibitory effect of captopril on MMP-2 activity was measured in peritoneal effluents from 17 patients on CAPD.
+Molecular models of the MMP-2-captopril complex were simulated by 1000 iterations of random docking and energy minimization.
+RESULTS: Captopril directly inhibited MMP-2 activity in peritoneal effluents from patients on CAPD (IC50; 48 micromol/l), and that captopril binding to the MMP-2 active site could be formed in each complex model without molecular distortion.
+CONCLUSION: ACE inhibitors, such as captopril, may be applied as important compounds for MMP-2 inhibition in inflammation caused by CAPD.

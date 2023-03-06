@@ -1,0 +1,36 @@
+Duloxetine: a review of its use in the treatment of generalized anxiety disorder.
+Duloxetine (Cymbalta(R)) is a potent serotonin and noradrenaline (norepinephrine) reuptake inhibitor (SNRI) in the CNS.
+It is indicated for the treatment of generalized anxiety disorder (GAD) as well as other indications.
+In patients with GAD of at least moderate severity, oral duloxetine 60-120 mg once daily was effective with regard to improvement from baseline in assessments of anxiety and functional impairment, and numerous other clinical endpoints.
+Longer-term duloxetine 60-120 mg once daily also demonstrated efficacy in preventing or delaying relapse in responders among patients with GAD.
+In addition, duloxetine was generally well tolerated, with most adverse events being of mild to moderate severity in patients with GAD in short- and longer-term trials.
+Additional comparative and pharmacoeconomic studies are required to position duloxetine among other selective serotonin reuptake inhibitors and SNRIs.
+However, available clinical data, and current treatment guidelines, indicate that duloxetine is an effective first-line treatment option for the management of GAD.
+Duloxetine is a potent and selective inhibitor of serotonin and noradrenaline transporters, and a weak inhibitor of dopamine transporters.
+It has a low affinity for neuronal receptors, such as alpha(1)- and alpha(2)-adrenergic, dopamine D(2), histamine H(1), muscarinic, opioid and serotonin receptors, as well as ion channel binding sites and other neurotransmitter transporters, such as choline and GABA transporters.
+It does not inhibit monoamine oxidase types A or B. The pharmacokinetics of duloxetine in healthy volunteers were dose proportional over the range of 40-120 mg once daily.
+Steady state was typically reached by day 3 of administration.
+Duloxetine may be administered without regard to food or time of day.
+Duloxetine is highly protein bound and is widely distributed throughout tissues.
+It is rapidly and extensively metabolized in the liver by cytochrome P450 (CYP) 1A2 and 2D6, and its numerous metabolites, which are inactive, are mainly excreted in the urine.
+The mean elimination half-life of duloxetine is approximately 12 hours.
+Duloxetine is a substrate for CYP1A2 and CYP2D6 and a moderate inhibitor of CYP2D6.
+Concomitant use of duloxetine and potent CYP1A2 inhibitors should be avoided and duloxetine should be used with caution in patients receiving drugs that are extensively metabolized by CYP2D6, particularly those with a narrow therapeutic index.
+Duloxetine was effective in the short-term treatment of patients with primary GAD of at least moderate severity.
+In four randomized, double-blind, placebo-controlled, multicentre, phase III trials, duloxetine 60-120 mg once daily for 9 or 10 weeks was significantly more effective than placebo with regard to the primary endpoint of mean change in Hamilton Anxiety Rating Scale (HAM-A) total score from baseline to study endpoint.
+In addition, all other endpoints were generally improved from baseline to a greater extent with duloxetine 60-120 mg once daily than with placebo.
+Duloxetine also improved patient role functioning (assessed using Sheehan Disability Scale global impairment functioning scores), health-related quality of life and patient well-being compared with placebo.
+Duloxetine was effective in patients with GAD who were aged >/=65 years.
+Pooled results of data from the two short-term efficacy trials that also included an active comparator arm showed that the mean change in HAM-A scores with duloxetine relative to placebo were of the same magnitude as those with venlafaxine extended release versus placebo.
+Duloxetine 60-120 mg once daily was also more effective than placebo in preventing or delaying relapse in responders to duloxetine in a longer-term study.
+In this study, patients with GAD received duloxetine during a 26-week, open-label, acute treatment phase and responders were then randomized to continue on duloxetine or receive placebo during a 26-week, double-blind, continuation phase.
+Time to relapse was significantly longer in duloxetine recipients than in placebo recipients.
+In addition, significantly fewer duloxetine recipients than placebo recipients relapsed during the double-blind phase of the trial and more duloxetine recipients achieved remission.
+Short- (9-10 weeks) and longer-term (52 weeks) treatment with duloxetine 60-120 mg once daily was generally well tolerated in patients with GAD, with the majority of adverse events being of mild to moderate severity.
+Nausea, dry mouth, headache, constipation, dizziness and fatigue were among the most common treatment-emergent adverse events.
+The adverse event profile of duloxetine did not differ with dose or treatment duration.
+Significantly more patients receiving short-term duloxetine than placebo discontinued treatment because of an adverse event, with nausea being the only event that resulted in significantly more treatment discontinuations in duloxetine recipients than in placebo recipients.
+Serious adverse events were uncommon with both short- and longer-term duloxetine treatment.
+Two episodes of attempted suicide and one episode of completed suicide occurred in duloxetine recipients during the 24-week open-label phase of a longer-term trial.
+No deaths or suicides were reported in any of the short-term trials.
+Discontinuation-emergent adverse events, most commonly nausea and dizziness, occurred in up to one-third of duloxetine recipients in the short-term trials.

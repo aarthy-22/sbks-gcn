@@ -1,0 +1,6 @@
+Fatal hemorrhage in mice lacking gamma-glutamyl carboxylase.
+The carboxylation of glutamic acid residues to gamma-carboxyglutamic acid (Gla) by the vitamin K-dependent gamma-glutamyl carboxylase (gamma-carboxylase) is an essential posttranslational modification required for the biological activity of a number of proteins, including proteins involved in blood coagulation and its regulation.
+Heterozygous mice carrying a null mutation at the gamma-carboxylase (Ggcx) gene exhibit normal development and survival with no evidence of hemorrhage and normal functional activity of the vitamin K-dependent clotting factors IX, X, and prothrombin.
+Analysis of a Ggcx(+/-) intercross revealed a partial developmental block with only 50% of expected Ggcx(-/-) offspring surviving to term, with the latter animals dying uniformly at birth of massive intra-abdominal hemorrhage.
+This phenotype closely resembles the partial midembryonic loss and postnatal hemorrhage previously reported for both prothrombin- and factor V (F5)-deficient mice.
+These data exclude the existence of a redundant carboxylase pathway and suggest that functionally critical substrates for gamma-carboxylation, at least in the developing embryo and neonate, are primarily restricted to components of the blood coagulation cascade.

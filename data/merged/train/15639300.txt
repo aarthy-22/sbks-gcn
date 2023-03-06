@@ -1,0 +1,10 @@
+Phosphodiesterase-4 inhibitors for asthma and chronic obstructive pulmonary disease.
+Inhibitors of phosphodiesterase type 4 (PDE4) act by increasing intracellular concentrations of cyclic AMP, which has a broad range of anti-inflammatory effects on various key effector cells involved in asthma and chronic obstructive pulmonary disease (COPD).
+The therapeutic ratio for PDE4 inhibitors is thought to be determined by selectivity on receptor subtypes for relative effects on PDE4B (anti-inflammatory) and PDE4D (emesis).
+The two main orally active PDE4 inhibitors in the late phase III of clinical development are cilomilast and roflumilast; the latter (and its active metabolite N-oxide) is more selective and potent with a superior therapeutic ratio.
+Studies on cilomilast in COPD based on bronchial biopsy material have shown a broad range of anti-inflammatory activity, and the available evidence on clinical outcomes for up to 6 months with cilomilast 15 mg twice daily and roflumilast 500 mug once daily have shown variable but significant effects on exacerbations and quality of life, with small improvements in measures of pulmonary function.
+Roflumilast has a better safety and tolerability profile than cilomilast, with the main adverse effects being nausea, diarrhoea, and abdominal pain.
+Roflumilast also has activity in asthma as assessed by its attenuation of allergen and exercise challenges, and it shows clinical efficacy equivalent to that of beclomethasone dipropionate 400 mug daily.
+The emerging results of clinical trials on PDE4 inhibitors in asthma and COPD should be interpreted with cautious optimism since much of the evidence has been published only in abstract form to date.
+The next few years should resolve important issues about the potential role of these drugs as oral non-steroidal anti-inflammatory therapy for asthma and COPD and their place in management guidelines.
+Ultimately, clinicians will want to know whether PDE4 inhibitors are anything more than expensive "designer" theophylline, the archetypal non-selective phosphodiesterase inhibitor.

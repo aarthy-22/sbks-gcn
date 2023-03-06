@@ -1,0 +1,10 @@
+Bile acids induce cdx2 expression through the farnesoid x receptor in gastric epithelial cells.
+Clinical and experimental studies showed that the reflux of bile into the stomach contributes to the induction of intestinal metaplasia of the stomach and gastric carcinogenesis.
+Caudal-type homeobox 2 (Cdx2) plays a key role in the exhibition of intestinal phenotypes by regulating the expression of intestine-specific genes such as goblet-specific gene mucin 2 (MUC2).
+We investigated the involvement of the farnesoid X receptor (FXR), a nuclear receptor for bile acids, in the chenodeoxycholic acid (CDCA)-induced expression of Cdx2 and MUC2 in normal rat gastric epithelial cells (RGM-1 cells).
+RGM-1 cells were treated with CDCA or GW4064, an FXR agonist, in the presence or absence of guggulsterone, an FXR antagonist.
+CDCA induced dose-dependent expression of Cdx2 and MUC2 at both the mRNA and protein levels.
+The maximum stimulation of Cdx2 and MUC2 mRNA induced by CDCA was observed at 3 h and by 6 h, respectively.
+GW4064 also induced expression of these molecules.
+The effects of CDCA and GW4064 on expression of Cdx2 and MUC2 were abolished by guggulsterone.
+These findings suggest that bile acids may induce gastric intestinal metaplasia and carcinogenesis through the FXR.

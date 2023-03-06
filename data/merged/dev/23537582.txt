@@ -1,0 +1,9 @@
+Integrated chemical and biological analysis to explain estrogenic potency in bile extracts of red mullet (Mullus barbatus).
+A biological screening was performed to establish the total exposure to estrogenic compounds of red mullet (Mullus barbatus) collected at several sites along the Spanish Mediterranean coast by testing male fish bile extracts using the in vitro ER-LUC reporter gene assay.
+In addition, major metabolites were identified and measurements of OH-PAHs (1-naphthol, 9-phenantrol, 9-fluorenol, 1-pyrenol, 1OH-BaP and 3OH-BaP) and alkylphenols (4-n-nonylphenol (4-n-NP) and 4-tertoctylphenol (4-tert-OP)) in the same fish bile extracts were taken by gas chromatography-mass spectrometry in electron ionization mode (GC-EI-MS).
+Relative in vitro estrogenic potencies of the chemically quantified compounds were also tested.
+The highest biliary concentrations of 1-pyrenol, 9-fluorenol and 4-n-NP were found in fish from Barcelona and from the Mar Menor coastal lagoon.
+However, these concentrations can be considered relatively low compared to values reported in red mullet from other polluted waters in the Mediterranean Sea.
+The contribution of 1-pyrenol, 4-n-NP and 4-tert-OP to the total estrogenic potency measured in male fish bile was found to be negligible, indicating the presence of other estrogenic compounds in red mullet bile.
+Estrogenic potency in bile from male fish was markedly elevated in Mar Menor lagoon (234.8±5.7pgE2EQ/μl), and further research will be necessary to explain whether the presence of natural and synthetic-hormones in the lagoon contributed to this finding.
+Values of approximately 15-16E2EQpg/mg bile can be regarded as preliminary baseline levels of bile estrogenicity in male red mullet from the western Mediterranean Sea.

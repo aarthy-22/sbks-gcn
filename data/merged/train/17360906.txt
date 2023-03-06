@@ -1,0 +1,9 @@
+NMDA receptor subunits have differential roles in mediating excitotoxic neuronal death both in vitro and in vivo.
+Well-documented experimental evidence from both in vitro and in vivo models of stroke strongly supports the critical involvement of NMDA receptor-mediated excitotoxicity in neuronal damage after stroke.
+Despite this, the results of clinical trials testing NMDA receptor antagonists as neuroprotectants after stroke and brain trauma have been discouraging.
+Here, we report that in mature cortical cultures, activation of either synaptic or extrasynaptic NR2B-containing NMDA receptors results in excitotoxicity, increasing neuronal apoptosis.
+In contrast, activation of either synaptic or extrasynaptic NR2A-containing NMDA receptors promotes neuronal survival and exerts a neuroprotective action against both NMDA receptor-mediated and non-NMDA receptor-mediated neuronal damage.
+A similar opposing action of NR2B and NR2A in mediating cell death and cell survival was also observed in an in vivo rat model of focal ischemic stroke.
+Moreover, we found that blocking NR2B-mediated cell death was effective in reducing infarct volume only when the receptor antagonist was given before the onset of stroke and not 4.5 h after stroke.
+In great contrast, activation of NR2A-mediated cell survival signaling with administration of either glycine alone or in the presence of NR2B antagonist significantly attenuated ischemic brain damage even when delivered 4.5 h after stroke onset.
+Together, the present work provides a molecular basis for the dual roles of NMDA receptors in promoting neuronal survival and mediating neuronal damage and suggests that selective enhancement of NR2A-containing NMDA receptor activation with glycine may constitute a promising therapy for stroke.

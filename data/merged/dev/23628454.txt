@@ -1,0 +1,15 @@
+Scientific evidence for traditional claim of antiobesity activity of Tecomella undulata bark.
+ETHNOPHARMACOLOGICAL RELEVANCE: The bark of Tecomella undulata is traditionally claimed in the treatment of various disease ailments including obesity and cancer.
+Till now there are no studies about anti obesity activity of Tecomella undulata bark.
+AIM OF THE STUDY: The present study was aimed to establish a scientific evidence for anti obesity efficiency of ethyl acetate extract of Tecomella undulata bark (EATUB).
+Further to standardize the active fractions of EATUB using different biomarkers.
+MATERIALS AND METHODS: We investigated activity of EATUB fractions (F1-F7) using 3T3-L1 fibroblasts.
+Further, F1-mediated effects were characterized by determining mRNA and protein levels of SIRT1, one of the key targets for the treatment of obesity, using semi quantitative RT-PCR (sqRT-PCR) and western blot analysis.
+The consequences of modulation of SIRT1 on mRNA and protein levels of various adipogenesis mediators like PPARγ, C/EBPα, E2F1, leptin, adiponectin and LPL were also studied.
+In-vivo studies were performed using High Fat Diet (HFD) obese mice.
+RESULTS: Our data showed that compared to controls, preadipocytes and adipocytes incubated with F1 exhibited a significant decrease in adipogenesis and lipogenesis.
+In addition, sqRT-PCR and western blot analysis showed significant increase in SIRT1 and adiponectin levels and decrease in PPARγ, C/EBPα, E2F1, leptin and LPL levels in preadipocytes and adipocytes.
+In-vivo studies of F1 in HFD induced obese mice showed significant improvement in lipid profile and glucose levels.
+The bioactive fraction (F1) was determined to possess 4.95% of ferulic acid.
+CONCLUSION: Thus, our findings signified the beneficial effects of Tecomella undulata bark in pharmacologic interventions related to obesity and metabolic disorders.
+Ferulic acid and rutin are being reported and quantified for the first time from the bark of Tecomella undulata.

@@ -1,0 +1,19 @@
+In vivo activity of the potent oxytocin antagonist on uterine activity in the rat.
+Oxytocin antagonist (OTA), TT-235, was developed by our group and shown to inhibit either spontaneous or oxytocin-induced uterine contractions in primates.
+The purpose of the present study was to confirm the duration of TT-235 to block oxytocin-induced uterine contractions in estrous rats.
+In Experiment 1, the time-response of the three OTAs on uterine contractility was examined.
+The rats were anesthetized and cannulas were placed in the jugular vein for infusing vehicle (sterile saline), Antag I, Antag II and TT-235.
+The uterine activity was monitored through a water-filled balloon-tipped cannula placed in the uterine horn.
+The uterine contractile activity was determined as the integrated area for 10 minutes.
+Each OTA was administered as a single bolus injection of 5 microg, followed by 100 mU of oxytocin 5 minutes later, also done as a single bolus.
+Oxytocin injection of the same dosage was repeated every hour for 5 hours.
+Experiment 2 determined the effect of the three OTAs on uterine oxytocin receptor number (Rn) and binding affinity (Kd).
+Rats treated with either OTA or vehicle were sacrificed at 0.5 and 4 hours for receptor assay.
+In Experiment 1, Antag I, Antag II and TT-235 inhibited the integrated uterine response to oxytocin at 5 minutes by 76%, 77% and 80%, respectively, compared to controls (p<0.05).
+Two hours after injecting Antag I, inhibition of uterine contractility was 55% lower than controls (p<0.05).
+At 3 hours, uterine contractility was no longer affected in rats treated with Antag I compared with controls.
+The suppressive uterine activity with Antag II continued up to 3 hours.
+However, uterine contractility remained lower (53%) in rats treated with TT-235 5 hours later.
+In Experiment 2, TT-235 induced a significant decrease (p<0.05) in oxytocin receptor number and binding affinity at both 0.5 and 4 hours compared with controls.
+Antag I and Antag II did not alter oxytocin receptor number or binding affinity significantly at each time point studied compared with controls.
+In conclusion, TT-235 may inhibit the uterine response to oxytocin by decreasing oxytocin receptor numbers and oxytocin binding affinity, which might explain the prolonged oxytocin antagonist activity of TT-235.

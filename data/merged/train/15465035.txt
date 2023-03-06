@@ -1,0 +1,8 @@
+The inhibitory effect of sodium nitroprusside on HIF-1 activation is not dependent on nitric oxide-soluble guanylyl cyclase pathway.
+Adaptation to hypoxia and maintenance of O(2) homeostasis involve a wide range of responses that occur at different organizational levels in the body.
+One of the most important transcription factors that activate the expression of O(2)-regulated genes is hypoxia-inducible factor 1 (HIF-1).
+Nitric oxide (NO) mediates a variety of biological effects including relaxation of blood vessels and cytotoxicity of activated macrophages.
+We investigated the effect of the clinically used nitrates nitroglycerin (NTG), isosorbide dinitrate (ISDN), and sodium nitroprusside (SNP) on HIF-1-mediated transcriptional responses to hypoxia.
+We demonstrate that among the three nitrates, only SNP inhibits HIF-1 activation in response to hypoxia.
+In contrast, NTG or ISDN does not affect HIF-1 activity.
+SNP inhibits the accumulation of HIF-1alpha, the regulatory subunit of HIF-1, and the transcriptional activation of HIF-1alpha via a mechanism that is not dependent on either NO or soluble guanylate cyclase.

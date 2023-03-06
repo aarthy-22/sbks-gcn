@@ -1,0 +1,13 @@
+The in vitro and in vivo ocular pharmacology of olopatadine (AL-4943A), an effective anti-allergic/antihistaminic agent.
+Olopatadine (AL-4943A; KW-4679) [(z)-11-[3-(dimethylamino)propylidene]-6, 11-dihydrodibenz[b,e]oxepine-2 acetic acid hydrochloride] is an anti-allergic agent which inhibits mast cell mediator release and possesses histamine H1 receptor antagonist activity.
+Studies were conducted to characterize the in vitro and in vivo pharmacological profile of this drug relevant to its topical ocular use.
+AL-4943A inhibits histamine release in a concentration-dependent fashion (IC50 = 559 microM) from human conjunctival mast cell preparations in vitro.
+Histamine release was not stimulated by AL-4943A at concentrations as high as 10 mM. In contrast, ketotifen stimulated histamine release at concentrations slightly higher than effective inhibitory concentrations.
+AL-4943A did not display any in vitro cyclooxygenase or 5-lipoxygenase inhibition.
+Topical ocular application of AL-4943A effectively inhibits antigen- and histamine-stimulated conjunctivitis in guinea pigs.
+Passive anaphylaxis in guinea pig conjunctiva was attenuated by AL-4943A applied 30 min prior to intravenous or topical ocular antigen challenge (ED50 values 0.0067% and 0.0170%, w/v, respectively).
+Antihistaminic activity in vivo was demonstrated using a model of histamine-induced vascular permeability in guinea pig conjunctiva.
+AL-4943A applied topically from 5 min to 24 hrs prior to histamine challenge effectively and concentration-dependently inhibited the vascular permeability response, indicating the compound has an acceptable onset and a long duration of action.
+Drug concentrations 5-fold greater than those effective against histamine-stimulated conjunctival responses failed to inhibit vascular permeability responses induced with either serotonin or Platelet-Activating-Factor.
+These data indicate that the anti-histaminic effect observed with AL-4943A is specific.
+These anti-allergic/antihistaminic activities of AL-4943A observed in preclinical model systems have been confirmed in clinical trials in allergic patients.

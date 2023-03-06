@@ -1,0 +1,6 @@
+Amylin receptors: molecular composition and pharmacology.
+Several receptors which bind the hormone AMY (amylin) with high affinity have now been identified.
+The minimum binding unit is composed of the CT (calcitonin) receptor at its core, plus a RAMP (receptor activity modifying protein).
+The receptors have been named AMY(1(a)), AMY(2(a)) and AMY(3(a)) in accordance with the association of the CT receptor (CT((a))) with RAMP1, RAMP2 and RAMP3 respectively.
+The challenge is now to determine the localization and pharmacological nature of each of these receptors.
+Recent attempts to achieve these aims will be briefly discussed.

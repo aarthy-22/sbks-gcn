@@ -1,0 +1,10 @@
+Comparison of effects of 4-hydroxy tamoxifen and trilostane on oestrogen-regulated gene expression in MCF-7 cells: up-regulation of oestrogen receptor beta.
+4-Hydroxy tamoxifen (OHT) and trilostane interact differently with the oestrogen receptor (ER).
+OHT is a competitive inhibitor whereas trilostane has direct, but non-competitive effects on ER.
+This study compared the effects of OHT and trilostane, in the presence of 17beta-oestradiol (E2) on gene expression in MCF-7 breast cancer cells using microarrays each representing nearly 20,000 human genes.
+Striking differences between the sets of genes affected by these two drugs were observed.
+Both OHT and trilostane affected transcription of genes involved in cell cycle regulation, cell adhesion and matrix formation, however, only 12.5% of trilostane down-regulated genes and 9.2% of up-regulated genes were similarly regulated by OHT.
+A selective up-regulation of ERbeta by trilostane, but not OHT, was observed and confirmed by qRT-PCR.
+Similar up-regulation of this gene by trilostane was observed in the uterus of trilostane-treated (4 mg/kg for 7 days) rats, in which ERbeta mRNA (3-fold) and ERbeta protein expression (10-fold) were both increased.
+These data show that OHT and trilostane regulate the expression of different sets of genes, reflecting their different modes of interaction with ER.
+Trilostane-specific up-regulation of ERbeta could explain its positive benefit rates in acquired tamoxifen resistance.

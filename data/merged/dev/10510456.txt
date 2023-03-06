@@ -1,0 +1,11 @@
+Inhibition of the human ether-a-go-go-related gene (HERG) potassium channel by cisapride: affinity for open and inactivated states.
+1 Cisapride is a prokinetic agent which has been associated with QT prolongation, torsades de pointes and cardiac arrest.
+The cellular mechanism for these observations is high affinity blockade of IKr (encoded by HERG).
+2 In a chronic transfection model using CHO-K1 cells, cisapride inhibited HERG tail currents after a step to +25 mV with similar potency at room and physiological temperatures (IC50 16.
+4 nM at 20-22 degrees C and 23.6 nM at 37 degrees C).
+3 Channel inhibition exhibited time-, voltage- and frequency-dependence.
+In an envelope of tails test, channel blockade increased from 27+/-8% after a 120 ms depolarizing step to 50+/-4% after a 1.0 s step.
+These findings suggested affinity for open and/or inactivated channel states.
+4 Inactivation was significantly accelerated by cisapride in a concentration-dependent manner and there was a small (-7 mV) shift in the voltage dependence of steady state inactivation.
+5 Channel blockade by cisapride was modulated by [K+]o, with a 26% reduction in the potency of channel blockade when [K+]o was increased from 1 to 10 mM. 6 In conclusion, HERG channel inhibition by cisapride exhibits features consistent with open and inactivated state binding and is sensitive to external potassium concentration.
+These features may have significant clinical implications with regard to the mechanism and treatment of cisapride-induced proarrhythmia.

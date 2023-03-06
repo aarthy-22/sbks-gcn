@@ -1,0 +1,13 @@
+Kinetic characterization of adenylosuccinate synthetase from the thermophilic archaea Methanocaldococcus jannaschii.
+Adenylosuccinate synthetase (AdSS) catalyzes the Mg2+ dependent condensation of a molecule of IMP with aspartate to form adenylosuccinate, in a reaction driven by the hydrolysis of GTP to GDP.
+AdSS from the thermophilic archaea, Methanocaldococcus jannaschii (MjAdSS) is 345 amino acids long against an average length of 430-457 amino acids for most mesophilic AdSS.
+This short AdSS has two large deletions that map to the middle and C-terminus of the protein.
+This article discusses the detailed kinetic characterization of MjAdSS.
+Initial velocity and product inhibition studies, carried out at 70 degrees C, suggest a rapid equilibrium random AB steady-state ordered C kinetic mechanism for the MjAdSS catalyzed reaction.
+AdSS are known to exhibit monomer-dimer equilibrium with the dimer being implicated in catalysis.
+In contrast, our studies show that MjAdSS is an equilibrium mixture of dimers and tetramers with the tetramer being the catalytically active form.
+The tetramer dissociates into dimers with a minor increase in ionic strength of the buffer, while the dimer is extremely stable and does not dissociate even at 1.2 M NaCl.
+Phosphate, a product of the reaction, was found to be a potent inhibitor of MjAdSS showing biphasic inhibition of enzyme activity.
+The inhibition was competitive with IMP and noncompetitive with GTP.
+MjAdSS, like the mouse acidic isozyme, exhibits substrate inhibition, with IMP inhibiting enzyme activity at subsaturating GTP concentrations.
+Regulation of enzyme activity by the glycolytic intermediate, fructose 1,6 bisphosphate, was also observed with the inhibition being competitive with IMP and noncompetitive against GTP.

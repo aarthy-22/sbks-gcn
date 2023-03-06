@@ -1,0 +1,13 @@
+Involvement of supraspinal epsilon and mu opioid receptors in inhibition of the tail-flick response induced by etorphine in the mouse.
+Etorphine, a potent opioid agonist, has been reported to bind to both mu and epsilon opioid receptors.
+The present studies were designed to determine what types of opioid receptors and neurotransmitters for descending pain control systems were involved in antinociception induced by etorphine in mice.
+Morphine, a typical mu opioid receptor agonist, and beta-endorphin, an epsilon opioid receptor agonist, were used for comparison.
+Antinociceptive response induced by etorphine (20 ng) given i.c.v was blocked by i.c.v administration of D-Phe-Cys-Tyr-D-Tyr-Orn-Thr-Pen-Thr-NH2 (CTOP, 25 ng) and beta-endorphin-(1-27) [beta-EP-(1-27)] (6 micrograms), but not ICI 174,864 (ICI, 5 micrograms) or norbinaltorphimine (N-BNI, 5 micrograms).
+The antinociception induced by i.c.v.
+etorphine was also antagonized by the i.c.v.
+pretreatment of beta-funaltrexamine (beta-FNA, 50 ng, 24 hr).
+Intracerebroventricular administration of beta-EP-(1-27) (3 micrograms) caused a further attenuation of the i.c.v.
+etorphine-induced antinociception in mice pretreated with beta-FNA.
+The antinociceptive response induced by morphine (2 micrograms) given i.c.v. was blocked by i.c.v.
+administration of CTOP (25 ng) or beta-FNA (50 ng), but not beta-EP-(1-27) (6 micrograms), ICI (5 micrograms) or N-BNI (5 micrograms).
+These results indicate that the antinociception induced by etorphine given i.c.v. is mediated by the stimulation of both mu and epsilon opioid receptors whereas the antinociception induced by morphine given i.c.v. is mediated by the stimulation of mu, but not epsilon opioid receptors at supraspinal sites.(ABSTRACT TRUNCATED AT 250 WORDS)

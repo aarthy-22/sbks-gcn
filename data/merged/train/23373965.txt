@@ -1,0 +1,7 @@
+Discovery of a potential anti-inflammatory agent: 3-oxo-29-noroleana-1,9(11),12-trien-2,20-dicarbonitrile.
+Fifteen novel derivatives of glycyrrhetinic acid (GA) were synthesized and evaluated for anti-inflammatory activities.
+It was found that the introduction of 1-en-3-one and 9(11),12-diene and 2,20-dinitrile functionalities into the scaffold of GA led to the discovery of potent compound 19 for inhibition of LPS-induced NO production.
+Furthermore, 19 effectively inhibited the protein and mRNA expression of inducible NO synthase (iNOS) and the mRNA expression of TNF-α, IL-6, and IL-1β in LPS-stimulated RAW 264.7 macrophages.
+Mechanistically, 19 exerted inhibitory effects on the activation of the three main MAPKs and phosphorylation and degradation of IκB-α, as well as the ratio of nuclear/cytosolic content of p65.
+Importantly, 19 significantly decreased the mortality rate in the mouse model of LPS-induced sepsis shock.
+It is noteworthy that inhibitory effect of 19 on NO production was not blocked by the glucocorticoid receptor antagonist mifepristone, indicating that it does not act through the glucocorticoid receptor.

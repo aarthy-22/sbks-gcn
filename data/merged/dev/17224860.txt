@@ -1,0 +1,14 @@
+Effect of isolated isoflavone supplementation on ABCA1-dependent cholesterol efflux potential in postmenopausal women.
+OBJECTIVE: Isoflavones may display beneficial health effects in postmenopausal women.
+We studied in a clinical trial whether isolated isoflavone treatment in postmenopausal women could affect reverse cholesterol transport as evaluated by adenosine triphosphate-binding cassette A1- (ABCA1), dependent cholesterol efflux from macrophages.
+In addition, various serum lipid and lipoprotein parameters were investigated.
+Furthermore, we separately assessed equol-producing and non-equol-producing women.
+DESIGN: Postmenopausal women (n=56) were treated with either isoflavone or placebo tablets for 3 months in a crossover design, separated by a 2-month washout period.
+Fifteen women were classified as equol producers, and 15 women were classified as non-equol producers.
+Serum samples were collected before and after each treatment period.
+[H]-Cholesterol-labeled J774 macrophage cells, with and without ABCA1 up-regulation, were incubated with the samples, and ABCA1-dependent cholesterol efflux and serum lipid and lipoprotein levels were assessed.
+RESULTS: Serum promoted 3.1%+/-1.1% and 3.2%+/-1.1% cholesterol efflux from macrophages after isoflavone and placebo treatment, respectively.
+Thus, isoflavone supplementation did not affect ABCA1-dependent cholesterol efflux to serum.
+However, as a novel finding, isoflavone treatment increased a subclass of high-density lipoprotein, the pre-beta high-density lipoprotein levels by 18% without affecting any other serum lipid concentrations.
+ABCA1-facilitated cholesterol efflux and lipid parameters did not differ between equol-producing and non-equol-producing women.
+CONCLUSION: In postmenopausal women, isolated isoflavone treatment does not affect ABCA1-dependent cholesterol efflux potential from macrophages but increases circulating pre-beta high-density lipoprotein level, which could provide beneficial vascular effects.

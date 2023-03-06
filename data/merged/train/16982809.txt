@@ -1,0 +1,11 @@
+PPARgamma controls CD1d expression by turning on retinoic acid synthesis in developing human dendritic cells.
+Dendritic cells (DCs) expressing CD1d, a molecule responsible for lipid antigen presentation, are capable of enhancing natural killer T (iNKT) cell proliferation.
+The signals controlling CD1 expression and lipid antigen presentation are poorly defined.
+We have shown previously that stimulation of the lipid-activated transcription factor, peroxisome proliferator-activated receptor (PPAR)gamma, indirectly regulates CD1d expression.
+Here we demonstrate that PPARgamma, turns on retinoic acid synthesis by inducing the expression of retinol and retinal metabolizing enzymes such as retinol dehydrogenase 10 and retinaldehyde dehydrogenase type 2 (RALDH2).
+PPARgamma-regulated expression of these enzymes leads to an increase in the intracellular generation of all-trans retinoic acid (ATRA) from retinol.
+ATRA regulates gene expression via the activation of the retinoic acid receptor (RAR)alpha in human DCs, and RARalpha acutely regulates CD1d expression.
+The retinoic acid-induced elevated expression of CD1d is coupled to enhanced iNKT cell activation.
+Furthermore, in vivo relevant lipids such as oxidized low-density lipoprotein can also elicit retinoid signaling leading to CD1d up-regulation.
+These data show that regulation of retinoid metabolism and signaling is part of the PPARgamma-controlled transcriptional events in DCs.
+The uncovered mechanisms allow the DCs to respond to altered lipid homeostasis by changing CD1 gene expression.

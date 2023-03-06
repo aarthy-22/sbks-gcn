@@ -1,0 +1,10 @@
+IFNα converts IL-22 into a cytokine efficiently activating STAT1 and its downstream targets.
+Besides their antiviral activity, type I Interferons (IFN) display context-specific immunomodulation.
+In contrast to long-known IFNα/β, Interleukin (IL)-22 is an anti-bacterial, largely tissue protective cytokine that recently gained attention.
+Herein, cellular IFNα/IL-22 interactions are investigated.
+We report that pre-conditioning of epithelial cells with IFNα initiated dramatic changes in IL-22 signaling normally dominated by signal transducer and activator of transcription (STAT)-3.
+Specifically, by using human DLD1 colon epithelial/carcinoma cells we demonstrate that, upon IFNα, IL-22 converts into a cytokine robustly activating STAT1 and its downstream pro-inflammatory targets CXCL9, CXCL10, and inducible nitric oxide synthase (iNOS).
+Accordingly, only after IFNα pre-incubation was IL-22-induced STAT1 binding to the CXCL10 promoter detectable.
+Using the viral mimic polyinosinic:polycytidylic acid and the IFNα/β antagonist B18R we furthermore demonstrate the capability of endogenous IFN to promote IL-22-induced STAT1 activation and expression of CXCL10.
+IL-22-induced STAT1 activation subsequent to IFNα priming became likewise apparent in human Caco2 colon epithelial/carcinoma cells, HepG2 hepatoma cells, and primary keratinocytes.
+Current observations may relate to characteristics of IFNα/β in clinical therapy and expose margins of tissue protection by IL-22 application.

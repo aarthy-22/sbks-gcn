@@ -1,0 +1,13 @@
+Estradiol replacement enhances cocaine-stimulated locomotion in female C57BL/6 mice through estrogen receptor alpha.
+Psychostimulant effects are enhanced by ovarian hormones in women and female rodents.
+Estradiol increases behavioral responses to psychostimulants in women and female rats, although the underlying mechanism is unknown.
+This study utilized mice to investigate the time frame and receptor mediation of estradiol's enhancement of cocaine-induced behavior as mice enable parallel use of genetic, surgical and pharmacological methods.
+The spontaneous behavior of Sham and Ovariectomized (Ovx) female wildtype (WT) mice was determined during habituation to a novel environment and after cocaine administration.
+Ovx mice were replaced with vehicle (sesame oil) or 17β-estradiol (E2) for 2 days or 30 min prior to a cocaine challenge to investigate the time course of E2's effects.
+To examine receptor mediation of estradiol effects, Ovx mice replaced for 2 days with either the ERα-selective agonist PPT or the ERβ-selective agonist DPN were compared to Sham mice, and mice lacking either ERα (αERKO) or ERβ (βERKO) were compared to WT littermates.
+Ovx mice exhibited fewer ambulations during habituation than Sham females.
+Cocaine-induced increases in behavioral ratings were greater in Sham than in Ovx mice.
+Two days but not 30 min of E2 replacement in Ovx mice increased cocaine responses to Sham levels.
+PPT replacement also increased the cocaine response relative to vehicle- or DPN- treated Ovx mice.
+αERKO mice displayed modestly attenuated behavioral responses to novelty and cocaine compared to αWT littermates, but no behavioral differences were found between βERKO and βWT mice.
+These results suggest that E2 enhances cocaine-stimulated locomotion in mice predominantly through ERα.

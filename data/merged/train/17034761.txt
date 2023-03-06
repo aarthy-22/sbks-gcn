@@ -1,0 +1,11 @@
+Auranofin, as an anti-rheumatic gold compound, suppresses LPS-induced homodimerization of TLR4.
+Toll-like receptors (TLRs), which are activated by invading microorganisms or endogenous molecules, evoke immune and inflammatory responses.
+TLR activation is closely linked to the development of many chronic inflammatory diseases including rheumatoid arthritis.
+Auranofin, an Au(I) compound, is a well-known and long-used anti-rheumatic drug.
+However, the mechanism as to how auranofin relieves the symptom of rheumatoid arthritis has not been fully clarified.
+Our results demonstrated that auranofin suppressed TLR4-mediated activation of transcription factors, NF-kappaB and IRF3, and expression of COX-2, a pro-inflammatory enzyme.
+This suppression was well correlated with the inhibitory effect of auranofin on the homodimerization of TLR4 induced by an agonist.
+Furthermore, auranofin inhibited NF-kappaB activation induced by MyD88-dependent downstream signaling components of TLR4, MyD88, IKKbeta, and p65.
+IRF3 activation induced by MyD88-independent signaling components, TRIF and TBK1, was also downregulated by auranofin.
+Our results first demonstrate that auranofin suppresses the multiple steps in TLR4 signaling, especially the homodimerization of TLR4.
+The results suggest that the suppression of TLR4 activity by auranofin may be the molecular mechanism through which auranofin exerts anti-rheumatic activity.

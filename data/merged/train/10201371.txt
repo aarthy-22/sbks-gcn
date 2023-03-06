@@ -1,0 +1,9 @@
+Synthesis of thrombin-inhibiting heparin mimetics without side effects.
+Unwanted side effects of pharmacologically active compounds can usually be eliminated by structural modifications.
+But the complex heterogeneous structure of the polysaccharide heparin has limited this approach to fragmentation, leading to slightly better-tolerated heparin preparations of low molecular mass.
+Despite this improvement, heparin-induced thrombocytopaenia (HIT), related to an interaction with platelet factor 4 (PF4) and, to a lesser extent, haemorrhages, remain significant side effects of heparinotherapy.
+Breakthroughs in oligosaccharide chemistry made possible the total synthesis of the pentasaccharide antithrombin-binding site of heparin.
+This pentasaccharide represents a new family of potential antithrombotic drugs, devoid of thrombin inhibitory properties, and free of undesired interactions with blood and vessel components.
+To obtain more potent and well-tolerated antithrombotic drugs, we wished to synthesize heparin mimetics able to inhibit thrombin, that is, longer oligosaccharides.
+Like thrombin inhibition, undesired interactions are directly correlated to the charge and the size of the molecules, so we had to design structures that were able to discriminate between thrombin and other proteins, particularly PF4.
+Here we describe the use of multistep converging synthesis to obtain sulphated oligosaccharides that meet these requirements.

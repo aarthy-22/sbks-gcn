@@ -1,0 +1,9 @@
+Neuroprotective Effects of Puerarin on 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine induced Parkinson's Disease Model in Mice.
+Puerarin, an active component of Pueraria montana var.
+lobata (Willd.) Sanjappa & Pradeep is well-known for its anti-oxidative and neuroprotective activities.
+Although anti-Parkinson's disease activity of puerarin was reported in both of in vivo and in vitro model, detailed mechanisms are not clarified.
+In this study, we addressed that puerarin attenuated 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced behavioral deficits, dopaminergic neuronal degeneration and dopamine depletion.
+Puerarin administration enhanced glutathione (GSH) activity, glial cell line-derived neurotrophic factor (GDNF) expression and PI3K/Akt pathway activation, which might ameliorate MPTP injection-induced progressive elevation of reactive oxygen species (ROS) formation in mice.
+In addition to the effect on ROS, puerarin ameliorated MPTP-reduced lysosome-associated membrane protein type 2A (Lamp 2A) expression.
+Taken together, our data demonstrate that puerarin attenuates MPTP-induced dopaminergic neuronal degeneration via modulating GDNF expression, PI3K/Akt pathway and GSH activation, which subsequently ameliorate MPTP-induced ROS formation and decrease of Lamp 2A expression.
+Copyright © 2013 John Wiley & Sons, Ltd.

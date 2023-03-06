@@ -1,0 +1,15 @@
+Cytochrome p450-mediated changes in oxycodone pharmacokinetics/pharmacodynamics and their clinical implications.
+In recent years the use of the opioid oxycodone has increased markedly and replacing morphine as the first-line choice of opioid in several countries.
+There are formulations for oral immediate, oral extended release and intravenous use.
+The bioavailability is higher than for morphine and less variable.
+Oxycodone is primarily metabolized in the liver by the cytochrome P450 (CYP) enzymes with CYP3A as the major metabolic pathway and CYP2D6 as the minor metabolic pathway to noroxycodone, oxymorphone and noroxymorphone.
+Oxycodone exerts its analgesic effect via the µ-opioid receptor.
+The metabolism of CYP2D6 substrates varies to a large degree between individuals as a result of allele functionality.
+Poor metabolizers (PM) have two non-functional alleles, extensive metabolizers (EM) are homozygous with two functional alleles or heterozygous with one functional allele and ultrarapid metabolizers (UM) have more than two functional alleles.
+There are pronounced interethnic differences in the allele distribution.
+On the basis of studies performed thus far, oxycodone concentrations in comparison with EM are similar in PM and reduced in UM.
+The pharmacokinetics in UM are insufficiently investigated.
+Simultaneous inhibition of both CYP3A and CYP2D6 results in increased oxycodone concentrations and such a combination should be avoided.
+A similar effect is to be expected with use of a CYP3A inhibitor in CYP2D6 PM.
+Concomitant use of enzyme inducers such as rifampicin, St John's wort and carbamazepine should be avoided because of the risk of subtherapeutic concentrations of oxycodone.
+When the dosage of morphine may result in unpredictable bioavailability, like in patients with severe hepatic cirrhosis, oxycodone might be beneficial because it has higher and less variability in bioavailability between patients than morphine.

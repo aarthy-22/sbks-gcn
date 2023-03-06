@@ -1,0 +1,11 @@
+Cannabinoids increase type 1 cannabinoid receptor expression in a cell culture model of striatal neurons: Implications for Huntington's disease.
+The type 1 cannabinoid receptor (CB1) is a G protein-coupled receptor that is expressed at high levels in the striatum.
+Activation of CB1 increases expression of neuronal trophic factors and inhibits neurotransmitter release from GABA-ergic striatal neurons.
+CB1 mRNA levels can be elevated by treatment with cannabinoids in non-neuronal cells.
+We wanted to determine whether cannabinoid treatment could induce CB1 expression in a cell culture model of striatal neurons and, if possible, determine the molecular mechanism by which this occurred.
+We found that treatment of STHdh(7/7) cells with the cannabinoids ACEA, mAEA, and AEA produced a CB1 receptor-dependent increase in CB1 promoter activity, mRNA, and protein expression.
+This response was Akt- and NF-κB-dependent.
+Because decreased CB1 expression is thought to contribute to the pathogenesis of Huntington's disease (HD), we wanted to determine whether cannabinoids could increase CB1 expression in STHdh(7/111) and (111/111) cells expressing the mutant huntingtin protein.
+We observed that cannabinoid treatment increased CB1 mRNA levels approximately 10-fold in STHdh(7/111) and (111/111) cells, compared to vehicle treatment.
+Importantly, cannabinoid treatment improved ATP production, increased the expression of the trophic factor BDNF-2, and the mitochondrial regulator PGC1α, and reduced spontaneous GABA release, in HD cells.
+Therefore, cannabinoid-mediated increases in CB1 levels could reduce the severity of some molecular pathologies observed in HD.

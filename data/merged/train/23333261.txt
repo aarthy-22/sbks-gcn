@@ -1,0 +1,12 @@
+Contribution of single-minded 2 to hyperglycaemia-induced neurotoxicity.
+Diabetes mellitus is associated to central nervous system damage, which results in impairment of brain functions and cognitive deficits and decline in memory.
+However, the mechanisms mediating the actions of glucose on the neurons remained elusive.
+Single-minded 2 (Sim2), a basic helix-loop-helix (bHLH)-PAS transcriptional repressor, is thought to be involved in some symptoms of Down syndrome.
+We hypothesized that Sim2 mediated hyperglycaemia-induced neuronal injury and impairment of learning and memory.
+It was found that expression of Sim2 protein in cortical neurons was increased in streptozotocin-induced diabetes mellitus rat model.
+Drebrin, down-regulated by Sim2, was subsequently decreased as detected by confocal laser scanning microscopy and Western blot analysis.
+The expression pattern of Sim2 and Drebrin correspond to 50mmol/L glucose (hyperglycaemia) was also found in primary cultured neurons.
+Curcumin, one neuroprotective agent, inhibited hyperglycaemia-induced neurotoxicity.
+Moreover, curcumin alleviated Sim2 expression, and reversely raised Drebrin expression in neurons treated with hyperglycaemia.
+Finally, we found that silencing Sim2 expression decreased hyperglycaemia-induced neuronal injury.
+In conclusion, Sim2 may mediate neurotoxicity during hyperglycaemia and thereby play a critical role in the development of hyperglycaemia-induced cognitive deficits.

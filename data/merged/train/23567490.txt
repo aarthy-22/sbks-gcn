@@ -1,0 +1,9 @@
+The cyclin D1 (CCND1) rs9344 G>A polymorphism predicts clinical outcome in colon cancer patients treated with adjuvant 5-FU-based chemotherapy.
+Recent evidence indicates a potential prognostic and predictive value for germline polymorphisms in genes involved in cell cycle control.
+We investigated the effect of cyclin D1 (CCND1) rs9344 G>A in stage II/III colon cancer patients and validated the findings in an independent study cohort.
+For evaluation and validation set, a total of 264 and 234 patients were included.
+Patients treated with 5-fluorouracil-based chemotherapy, carrying the CCND1 rs9344 A/A genotype had significantly decreased time-to-tumor recurrence (TTR) in univariate analysis and multivariate analysis (hazard ratio (HR) 2.47; 95% confidence interval (CI) 1.16-5.29; P=0.019).
+There was no significant association between CCND1 rs9344 G>A and TTR in patients with curative surgery alone.
+In the validation set, the A allele of CCND1 rs9344 G>A remained significantly associated with decreased TTR in univariate and multivariate analyses (HR 1.94; 95% CI 1.05-3.58; P=0.035).
+CCND1 rs9344 G>A may be a predictive and/or prognostic biomarker in stage II/III colon cancer patients, however, prospective trials are warranted to confirm our findings.
+The Pharmacogenomics Journal advance online publication, 9 April 2013; doi:10.1038/tpj.2013.15.

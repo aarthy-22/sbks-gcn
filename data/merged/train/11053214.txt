@@ -1,0 +1,10 @@
+A comparison of agonist-specific coupling of cloned human alpha(2)-adrenoceptor subtypes.
+The agonist-specific coupling properties of the three cloned human alpha(2)-adrenoceptor subtypes have been compared, when expressed at similar levels in Chinese hamster ovary (CHO) cell lines, using noradrenaline and (+/-)-meta-octopamine as agonists.
+Noradrenaline can couple the receptor to both the inhibition and stimulation of forskolin-stimulated cyclic AMP production in all three receptor subtypes, with the relative strength of the coupling to the pathways varying for each of the receptor subtypes.
+meta-Octopamine selectively couples the alpha(2A)-adrenoceptor only to the inhibition of forskolin-stimulated cyclic AMP production.
+However, meta-octopamine couples the alpha(2B)- and alpha(2C)-adrenoceptors to both the inhibition and stimulation of forskolin-stimulated cyclic AMP production.
+The relative potency of meta-octopamine to noradrenaline varies between the different alpha(2)-adrenoceptor subtypes.
+The effects of meta-octopamine are around two orders of magnitude less potent than those of noradrenaline on both the alpha(2A)- and alpha(2B)-adrenoceptor subtypes.
+In contrast, in the case of the alpha(2C)-adrenoceptor, meta-octopamine is only one order of magnitude less potent than noradrenaline in the stimulation of forskolin-stimulated cyclic AMP production and, in addition, is equipotent with noradrenaline in the inhibition of forskolin-stimulated cyclic AMP production and has an increased maximal response.
+This raises the possibility that meta-octopamine may have physiologically important actions via alpha(2C)-adrenoceptors in vivo.
+The results show that the modulation of cyclic AMP production occurs in both a subtype- and agonist-specific manner for alpha(2A)-adrenoceptors and in a subtype specific manner for alpha(2B)- and alpha(2C)-adrenoceptors.

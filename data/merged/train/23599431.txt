@@ -1,0 +1,11 @@
+Induction of C-X-C Chemokine Receptor Type 7 (CXCR7) Switches Stromal Cell-Derived Factor-1 (SDF-1) Signaling and Phagocytic Activity in Macrophages Linked to Atherosclerosis.
+The discovery of CXCR7 as a new receptor for SDF-1 places many previously described SDF-1 functions attributed to CXCR4 in question, though whether CXCR7 acts as a signaling or decoy receptor has been in debate.
+It is known that CXCR7 is not expressed in normal blood leukocytes; however, the potential role of leukocyte CXCR7 in disease states has not been addressed.
+The aim of this study was to determine the expression and function of macrophage CXCR7 linked to atherosclerosis.
+Here, we show that CXCR7 was detected in macrophage-positive area of aortic atheroma of ApoE-null mice, but not in healthy aorta.
+During monocytes differentiation to macrophages, CXCR7 was up-regulated at mRNA and protein levels, with more expression in M1 than in M2 phenotype.
+In addition, CXCR7 induction was associated with a SDF-1 signaling switch from the pro-survival ERK and AKT pathways in monocytes to the pro-inflammatory JNK and p38 pathways in macrophages.
+The latter effect was mimicked by a CXCR7-selective agonist TC14012 and abolished by siRNA knockdown of CXCR7.
+Furthermore, CXCR7 activation increased macrophage phagocytic activity, which was suppressed by CXCR7 siRNA silencing or by inhibiting either the JNK or p38 pathways, but was not affected by blocking CXCR4.
+Finally, activation of CXCR7 by I-TAC showed a similar signaling and phagocytic activity in macrophages with no detectable CXCR3.
+We conclude that CXCR7 is induced during monocyte-to-macrophage differentiation, which is required for SDF-1 and I-TAC signaling to JNK and p38 pathways, leading to enhanced macrophage phagocytosis, thus possibly contributing to atherogenesis.

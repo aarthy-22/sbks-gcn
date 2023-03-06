@@ -1,0 +1,8 @@
+In vivo HIF-mediated reductive carboxylation is regulated by citrate levels and sensitizes VHL-deficient cells to glutamine deprivation.
+Hypoxic and VHL-deficient cells use glutamine to generate citrate and lipids through reductive carboxylation (RC) of α-ketoglutarate.
+To gain insights into the role of HIF and the molecular mechanisms underlying RC, we took advantage of a panel of disease-associated VHL mutants and showed that HIF expression is necessary and sufficient for the induction of RC in human renal cell carcinoma (RCC) cells.
+HIF expression drastically reduced intracellular citrate levels.
+Feeding VHL-deficient RCC cells with acetate or citrate or knocking down PDK-1 and ACLY restored citrate levels and suppressed RC.
+These data suggest that HIF-induced low intracellular citrate levels promote the reductive flux by mass action to maintain lipogenesis.
+Using [(1-13)C]glutamine, we demonstrated in vivo RC activity in VHL-deficient tumors growing as xenografts in mice.
+Lastly, HIF rendered VHL-deficient cells sensitive to glutamine deprivation in vitro, and systemic administration of glutaminase inhibitors suppressed the growth of RCC cells as mice xenografts.

@@ -1,0 +1,8 @@
+Interleukin 2 toxin: a step toward selective immunomodulation.
+We have used protein engineering and recombinant DNA methodologies to genetically replace the eukaryotic cell receptor binding domain of diphtheria toxin with interleukin 2 (IL-2).
+The toxin-related T cell growth factor fusion gene has been cloned in Escherichia coli K12.
+Recombinant strains of E coli produce a 68,086 K hybrid toxin, IL-2 toxin that retains immunologic properties intrinsic to both its diphtheria toxin and IL-2 components.
+IL-2 toxin has been found to selectively inhibit protein synthesis in both human and murine T cell lines that bear high affinity IL-2 receptors, whereas the hybrid toxin is not active against cells that do not bear this receptor.
+The cytotoxic action of IL-2 toxin is specifically blocked by free IL-2 and monoclonal antibodies that bind to the p55 (Tac antigen) subunit of the high affinity IL-2 receptor.
+In addition, IL-2 toxin, like diphtheria toxin itself, must pass through an acidic compartment in order to deliver its adenosine diphosphate ribosyl transferase activity to the cytosol of target T cells.
+In a murine delayed type hypersensitivity (DTH) model system, we have shown that IL-2 toxin treatment induces a marked immunosuppression.

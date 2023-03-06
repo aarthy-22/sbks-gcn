@@ -1,0 +1,5 @@
+Practical asymmetric synthesis of aprepitant, a potent human NK-1 receptor antagonist, via a stereoselective Lewis acid-catalyzed trans acetalization reaction.
+A streamlined and high-yielding synthesis of aprepitant (1), a potent substance P (SP) receptor antagonist, is described.
+The enantiopure oxazinone 16 starting material was synthesized via a novel crystallization-induced dynamic resolution process.
+Conversion of 16 to the penultimate intermediate cis-sec-amine 9 features a highly stereoselective Lewis acid-catalyzed trans acetalization of chiral alcohol 3 with trichloroacetimidate 18 followed by inversion of the adjacent chiral center on the morpholine ring.
+The six-step process for the synthesis of 9 was accomplished in extremely high overall yield (81%) and with only two isolations.

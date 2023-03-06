@@ -1,0 +1,8 @@
+Resveratrol inhibits proliferation, angiogenesis and induces apoptosis in colon cancer cells: Calorie restriction is the force to the cytotoxicity.
+The aim of this study was to examine the antitumour activity of resveratrol in human colorectal cancer cell lines (HCT116 and Caco2) and to explore its mechanism of action assuming that it is by calorie-restriction effect.
+Resveratrol inhibited the proliferation of colon cancer cells with half maximal inhibitory concentration (IC50) equal to 50 and 130 μM for HCT116 and Caco2, respectively.
+Caco2 cells appeared with significant time-dependent increase in the glycolytic pathway, a behaviour that was absent in HCT116 cells.
+Resveratrol (100 μM) significantly decreased the glycolytic enzymes (pyruvate kinase and lactate dehydrogenase) in Caco2 cells, while an increase in citrate synthase activity and a decrease in glucose consumption were observed in both cell lines.
+Moreover, resveratrol downregulated the expressions of leptin and c-Myc, and decreased the content of vascular endothelial growth factor.
+The apoptotic markers, caspases 3 and 8, were activated and the Bax/BCl2 ratio was increased.
+The study suggested a promising anticancer activity of resveratrol, calorie-restriction pathway may be one of the driving forces for this activity.

@@ -1,0 +1,11 @@
+Fluvastatin ameliorates endotoxin induced multiple organ failure in conscious rats.
+OBJECTIVES: Sepsis is a severe inflammatory disorder that may lead to multiple organ failure.
+Lipopolysaccharide (LPS) is associated with Gram-negative sepsis and can activate monocytes and macrophages to release pro-inflammatory mediators such as tumor necrosis factor-alpha (TNF-alpha), nitric oxide (NO) and anti-inflammatory mediator such as interleukin-10 (IL-10).
+In this present study, we used fluvastatin, a HMG-CoA reductase inhibitor, to study its effects upon LPS-induced endotoxic shock in conscious rats.
+METHODS: The experiments were designed that rats received an intravenous injection of 1mg/kg fluvastatin followed 10min later, by an intravenous injection of 10mg/kg Klebsiella pneumoniae LPS, the latter inducing endotoxic shock amongst conscious rats.
+Subsequently, the levels of certain biochemical variables and cytokines in serum were then measured during the ensuing 48-h period following sepsis.
+These included total cholesterol (TCH), triglyceride (TG), blood urea nitrogen (BUN), creatinine (Cre), creatine phosphokinase (CPK), lactic dehydrogenase (LDH), aspartate transferase (GOT), alanine transferase (GPT), tumor necrosis factor-alpha, interleukin-10 and nitric oxide.
+RESULTS: LPS significantly increased blood TG, BUN, Cre, LDH, CPK, GOT, GPT, TNF-alpha, IL-10 and NO levels but decreased the blood TCH level.
+Pretreatment of test rats with fluvastatin decreased blood levels of certain markers of organ injury, suppressed the release of TNF-alpha and increased IL-10, and NO levels following LPS treatment.
+Fluvastatin did not affect the blood TCH and TG level subsequent to the development of sepsis.
+CONCLUSIONS: Pre-treatment with fluvastatin suppresses the release of plasma TNF-alpha, increases plasma IL-10, and NO production, and decreases the levels of markers of organ injury associated with endotoxic shock, so ameliorating LPS-induced organ damage amongst conscious rats.

@@ -1,0 +1,7 @@
+Gemcitabine and pemetrexed disodium combinations in vitro and in vivo.
+Pemetrexed disodium (ALIMTA) is a novel antimetabolite that inhibits at least three folate-dependent enzymes, thymidylate synthase, dihydrofolate reductase, and glycinamide ribonucleotide formyltransferase.
+Pemetrexed disodium is broadly active in a wide variety of solid tumours, including non-small cell lung, breast, bladder, head and neck and ovarian cancers.
+Gemcitabine is a broadly active pyrimidine nucleoside antimetabolite, which is approved for the treatment of pancreatic and non-small cell lung cancers.
+Three preclinical studies have been reported that show cytotoxic synergy between gemcitabine and pemetrexed.
+Clinical activity with this combination has been observed in a phase I study, with partial responses in three of five patients previously treated for non-small cell lung cancer.
+An international phase II study of this combination in non-small cell lung cancer is ongoing.

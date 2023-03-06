@@ -1,0 +1,6 @@
+Treatment and prevention of various therapeutic conditions using OX receptor antagonistic activity (WO2012081692).
+Application WO2012081692 from Taisho Pharmaceutical Co. Ltd. claims pyrazole-based antagonists of the orexin-1 and orexin-2 receptors.
+Utility in a number of therapeutic areas is claimed, including the treatment of sleep disorders; the most likely use of the claimed compounds.
+Data from in vitro functional assays are presented, with the claimed compounds typically being dual orexin receptor antagonists (DORAs) or having moderate selectivity for orexin-1.
+Structurally, the claimed compounds represent a variation on established DORA SAR themes and translate features of clinical compounds into a pyrazole-based scaffold.
+Example 52, the most potent molecule in the application, has similar molecular weight and lipophilicity to suvorexant, the most advanced DORA, with broadly comparable potency in functional assays.

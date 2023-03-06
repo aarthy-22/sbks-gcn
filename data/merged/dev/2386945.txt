@@ -1,0 +1,14 @@
+Inhibition of human breast cancer cell proliferation in tissue culture by the neuroleptic agents pimozide and thioridazine.
+Permanent cell culture lines derived from human breast cancer tissue are important experimental models in the study of human breast cancer cell proliferation.
+In the present work, pimozide, thioridazine, W-13, and W-12 were shown to inhibit MCF-7 human breast cancer cell growth.
+The 50% inhibition concentration values determined in two proliferation assays, [3H]thymidine incorporation and cell number, were in close agreement for each compound tested.
+The order of potency for growth inhibition in the presence of 2% stripped calf serum was pimozide (Ki 2 microM) greater than thioridazine (Ki 5 microM) greater than W-13 (Ki 15 microM) greater than W-12 (Ki 39 microM).
+Similar concentrations of these compounds blocked estradiol-induced growth of MCF-7 cells, but estrogen receptor (ER) interactions do not seem to be involved.
+Pimozide and thioridazine had no effect on the estradiol binding properties of the MCF-7 ER, nor did pimozide interfere with the induction of progesterone receptors by estradiol.
+Furthermore, pimozide also inhibited incorporation of [3H]thymidine into MCF-7 cells stimulated by polypeptide hormones in serum-free medium.
+The Ki for pimozide in serum-free medium alone, 0.46 microM, was similar to that determined in the presence of insulin (0.42 microM), insulin-like growth factor I (0.54 microM), and epidermal growth factor (0.43 microM).
+The effects of pimozide on breast cancer cell growth were not limited to the MCF-7 cell line.
+Pimozide also blocked cell growth and [3H]thymidine incorporation into the ER-positive T47D and ZR75-1B human breast cancer cell lines and the ER-negative human breast cancer cell line, MDA-MB-231.
+Although numerous mechanisms of action of pimozide and thioridazine have been identified, both drugs are calmodulin antagonists at drug concentrations that inhibit breast cancer cell growth in vitro.
+Inhibition of MCF-7 cell growth by the selective calmodulin antagonists W-13 and W-12 is consistent with a role for calmodulin antagonism in the broad growth-inhibitory properties of pimozide.
+We conclude that pimozide and thioridazine may be useful in the control of estradiol- and polypeptide hormone-induced growth of ER-positive and ER-negative human breast tumors.

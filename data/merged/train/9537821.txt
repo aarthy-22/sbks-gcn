@@ -1,0 +1,7 @@
+Pharmacological profile of antidepressants and related compounds at human monoamine transporters.
+Using radioligand binding assays, we determined the equilibrium dissociation constants (KD's) for 37 antidepressants, three of their metabolites (desmethylcitalopram, desmethylsertraline, and norfluoxetine), some mood stabilizers, and assorted other compounds (some antiepileptics, Ca2+ channel antagonists, benzodiazepines, psychostimulants, antihistamines, and monoamines) for the human serotonin, norepinephrine, and dopamine transporters.
+Among the compounds that we tested, mazindol was the most potent at the human norepinephrine and dopamine transporters with KD's of 0.45 +/-
+0.03 nM and 8.1 +/- 0.4 nM, respectively.
+Sertraline (KD = 25 +/- 2 nM) and nomifensine (56 +/- 3 nM) were the two most potent antidepressants at the human dopamine transporter.
+We showed significant correlations for antidepressant affinities at binding to serotonin (R = 0.93), norepinephrine (R = 0.97), and dopamine (R = 0.87) transporters in comparison to their respective values for inhibiting uptake of monoamines into rat brain synaptosomes.
+These data are useful in predicting some possible adverse effects and drug-drug interactions of antidepressants and related compounds.

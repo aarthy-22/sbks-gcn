@@ -1,0 +1,10 @@
+Dose-dependent effects of vitamin D on transdifferentiation of skeletal muscle cells to adipose cells.
+Fat infiltration within muscle is one of a number of features of vitamin D deficiency, which leads to a decline in muscle functionality.
+The origin of this fat is unclear, but one possibility is that it forms from myogenic precursor cells present in the muscle, which transdifferentiate into mature adipocytes.
+The current study examined the effect of the active form of vitamin D₃, 1,25-dihydroxyvitamin D₃ (1,25(OH)₂D₃), on the capacity of the C2C12 muscle cell line to differentiate towards the myogenic and adipogenic lineages.
+Cells were cultured in myogenic or adipogenic differentiation media containing increasing concentrations (0, 10⁻¹³, 10⁻¹¹, 10⁻⁹, 10⁻⁷ or 10⁻⁵  M) of 1,25(OH)₂D₃ for up to 6 days and markers of muscle and fat development measured.
+Mature myofibres were formed in both adipogenic and myogenic media, but fat droplets were only observed in adipogenic media.
+Relative to controls, low physiological concentrations (10⁻¹³ and 10⁻¹¹  M) of 1,25(OH)₂D3 increased fat droplet accumulation, whereas high physiological (10⁻⁹  M) and supraphysiological concentrations (≥10⁻⁷  M) inhibited fat accumulation.
+This increased accumulation of fat with low physiological concentrations (10⁻¹³ and 10⁻¹¹  M) was associated with a sequential up-regulation of PPARγ2 (PPARG) and FABP4 mRNA, indicating formation of adipocytes, whereas higher concentrations (≥10⁻⁹  M) reduced all these effects, and the highest concentration (10⁻⁵  M) appeared to have toxic effects.
+This is the first study to demonstrate dose-dependent effects of 1,25(OH)₂D₃ on the transdifferentiation of muscle cells into adipose cells.
+Low physiological concentrations (possibly mimicking a deficient state) induced adipogenesis, whereas higher (physiological and supraphysiological) concentrations attenuated this effect.

@@ -1,0 +1,17 @@
+Ramelteon: a novel hypnotic lacking abuse liability and sedative adverse effects.
+CONTEXT: Ramelteon is a novel MT1 and MT2 melatonin receptor selective agonist recently approved for insomnia treatment.
+Most approved insomnia medications have potential for abuse and cause motor and cognitive impairment.
+OBJECTIVE: To evaluate the potential for abuse, subjective effects, and motor and cognitive-impairing effects of ramelteon compared with triazolam, a classic benzodiazepine sedative-hypnotic drug.
+DESIGN: In this double-blind crossover study, each participant received oral doses of ramelteon (16, 80, or 160 mg), triazolam (0.25, 0.5, or 0.75 mg), and placebo during approximately 18 days.
+All participants received each treatment on different days.
+Most outcome measures were assessed at 0.5 hours before drug administration and repeatedly up to 24 hours after drug administration.
+SETTING: Residential research facility.
+PARTICIPANTS: Fourteen adults with histories of sedative abuse.
+MAIN OUTCOME MEASURES: Subject-rated measures included items relevant to potential for abuse (eg, drug liking, street value, and pharmacological classification), as well as assessments of a broad range of stimulant and sedative subjective effects.
+Observer-rated measures included assessments of sedation and impairment.
+Motor and cognitive performance measures included psychomotor and memory tasks and a standing balance task.
+RESULTS: Compared with placebo, ramelteon (16, 80, and 160 mg) showed no significant effect on any of the subjective effect measures, including those related to potential for abuse.
+In the pharmacological classification, 79% (11/14) of subjects identified the highest dose of ramelteon as placebo.
+Similarly, compared with placebo, ramelteon had no effect at any dose on any observer-rated or motor and cognitive performance measure.
+In contrast, triazolam showed dose-related effects on a wide range of subject-rated, observer-rated, and motor and cognitive performance measures, consistent with its profile as a sedative drug with abuse liability.
+CONCLUSION: Ramelteon demonstrated no significant effects indicative of potential for abuse or motor and cognitive impairment at up to 20 times the recommended therapeutic dose and may represent a useful alternative to existing insomnia medications.

@@ -1,0 +1,10 @@
+Effect of the Potent Antiviral 1-Cinnamoyl-3,11-Dihydroxymeliacarpin on Cytokine Production by Murine Macrophages Stimulated with HSV-2.
+The limonoid 1-cinnamoyl-3,11-dihydroxymeliacarpin (CDM) isolated from leaf extracts of Melia azedarach L, has potent antiherpetic effect in epithelial cells.
+Since Meliacine, the partially purified extract source of CDM, has therapeutic effect on murine genital herpes, the potential use of CDM as microbicide against herpetic infections was studied here.
+To determine the cytotoxic effect of CDM, the MTT assay and acridine orange staining of living cells were performed.
+The antiherpetic action of CDM was measured by plaque reduction assay, and the immunomodulatory effect was determined by measuring the cytokine production using a bioassay and ELISA method.
+The results presented here showed that CDM inhibited Herpes Simplex Virus type 2 (HSV-2) multiplication in Vero cells but did not affect its replication in macrophages which were not permissive to HSV infection.
+In macrophages, levels of TNF-α, IFN-γ, NO, IL-6 and IL-10 were increased by CDM used alone or in combination with HSV-2.
+Besides, CDM not only synergized TNF-α production combined with IFN-γ, but also prolonged its expression in time.
+Results indicate that CDM inhibits HSV-2 multiplication in epithelial cells and also increases cytokine production in macrophages, both important actions to the clearance of infecting virus in the mouse vagina.
+Copyright © 2013 John Wiley & Sons, Ltd.

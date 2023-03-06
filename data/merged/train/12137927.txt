@@ -1,0 +1,6 @@
+Regulation of norepinephrine transporter abundance by catecholamines and desipramine in vivo.
+The norepinephrine transporter (NET) regulates adrenoreceptor signaling by controlling the availability of synaptic norepinephrine (NE), and it is a direct target for some classes of antidepressant drugs.
+NET levels are normal in dopamine beta-hydroxylase knockout (Dbh -/-) mice that lack NE, demonstrating that the NET does not require endogenous NE for appropriate regulation under physiological conditions.
+In contrast, tyrosine hydroxylase knockout (Th -/-) mice that lack both NE and dopamine (DA) have reduced levels of NET, suggesting that it is down-regulated by a complete absence of catecholamines and not NE per se.
+Chronic treatment with the NET inhibitor, desipramine (DMI), reduced NET levels in both control and Dbh -/- mice, demonstrating that NE is not required for the regulation of NET by antidepressant drugs.
+There are some qualitative and quantitative differences in the down-regulation of the NET by catecholamine depletion and DMI treatment, suggesting that different mechanisms may be involved.

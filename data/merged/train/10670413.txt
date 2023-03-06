@@ -1,0 +1,8 @@
+The prostaglandin E series modulates high-voltage-activated calcium channels probably through the EP3 receptor in rat paratracheal ganglia.
+The modulation of high-voltage-activated (HVA) Ca2+ channels by the prostaglandin E series (PGE1 and PGE2) was studied in the paratracheal ganglion cells.
+Prostaglandin E1, E2, STA2 (a stable analogue of thromboxane A2), 17-phenyl-trinor-PGE2 (an EP1-selective agonist) and sulprostone (an EP3-selective agonist) inhibited the HVA Ca2+ current (HVA ICa) dose-dependently, and the rank order of potency to inhibit HVA Ca2+ channels was sulprostone>PGE2, PGE1>STA2>>17-phenyl-trinor-PGE2.
+SC-51089 (10(-5) M), a selective EP1-receptor antagonist, showed no effect on the PGE1- or PGE2-induced inhibition of the HVA ICa, thereby indicating that PGE1- and PGE2-induced inhibition of the HVA Ca2+ channels is possibly mediated by the EP3 receptor.
+The PGE1-sensitive component of the current was markedly reduced in the presence of omega-conotoxin-GVIA (3x10(-6) M), but not with nifedipine (3x10(-6) M).
+PGE1 and PGE2 also inhibited the remaining ICa in a saturating concentration of nifedipine, omega-conotoxin-GVIA and omega-conotoxin-MVIIC, suggesting that R-type Ca2+ channels are involved.
+The inhibitory effect of PGE1 or sulprostone was prevented by pretreatment with pertussis toxin [islet activating protein (IAP)] or phorbol-12-myristate-13-acetate (PMA), and the protein kinase C (PKC) inhibitor chelerythrine blocked the action of PMA.
+It was concluded that PGE1 selectively reduces both N- and R-type Ca2+ currents by activating a G-protein probably through the EP3 receptor in paratracheal ganglion cells.

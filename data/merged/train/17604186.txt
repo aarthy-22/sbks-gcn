@@ -1,0 +1,11 @@
+Neuroprotective effect of nimesulide, a preferential COX-2 inhibitor, against pentylenetetrazol (PTZ)-induced chemical kindling and associated biochemical parameters in mice.
+Brain cyclooxygenases (COX), the rate-limiting enzyme in prostaglandin synthesis, is rapidly and transiently induced by convulsions in hippocampal and cortical neurons.
+Previous studies have explored the protective effect of naproxen (non-selective COX-inhibitor) or rofecoxib (selective COX-2 inhibitor) against chemical kindling in mice.
+With this background, the present study was designed to explore the possible effect of nimesulide (a preferential COX-2 inhibitor) against pentylenetetrazol (PTZ)-induced kindling epilepsy in mice.
+To induce kindling, PTZ was injected in a subconvulsive dose (40 mg/kg, i.p.) every other day for 15 days.
+Nimesulide (2.5 or 5 mg/kg, p.o.) was administered each day 45 min before either PTZ or vehicle challenge.
+The intensity of kindling was assessed immediately after PTZ administration according to a prevalidated scoring scale.
+On 16th day i.e. 24 h after the last dose of PTZ, animals were sacrificed and various biochemical parameters were assessed in the whole brain.
+Compared with normal control group, PTZ-kindled mice had significantly higher levels of malondialdehyde, nitrite, myeloperoxidase but had lower levels of reduced glutathione in the whole brain homogenate.
+Chronic treatment with nimesulide (2.5 or 5 mg/kg, p.o.) for 15 days showed significant decrease in kindling score and could play a role in controlling the accompanying biochemical alterations due to PTZ.
+These results suggested that nimesulide, a preferential COX-2 inhibitor offered neuroprotection against PTZ-induced kindling in mice.

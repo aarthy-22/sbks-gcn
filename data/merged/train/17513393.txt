@@ -1,0 +1,10 @@
+Copper deficiency decreases plasma homocysteine in rats.
+The purpose of this study was to determine the effects of copper deficiency on key aspects of homocysteine metabolism that involve methionine recycling and transsulfuration.
+Male weanling Sprague-Dawley rats were fed AIN-93G-based diets containing <1 or approximately 6 mg Cu/kg.
+After 6 wk (Expt. 1) and 4 wk (Expt. 2) we found that plasma homocysteine was significantly decreased, and plasma glutathione significantly increased, in rats fed the low-Cu diet.
+Real-time RT-PCR was used to determine the expression of the subunits of glutamate-cysteine ligase (Gcl) in liver that catalyzes the rate-limiting step in glutathione biosynthesis.
+The expression of Gclc, the catalytic subunit of Gcl, was upregulated by Cu deficiency; Gclm, the modifier subunit, was not affected.
+Hepatic betaine-homocysteine methyltransferase (Bhmt), which catalyzes one of the two ways that homocysteine can be remethylated to methionine, was downregulated by Cu deficiency.
+Because Cu deficiency results in upregulation of Gclc and an increase in the biosynthesis of glutathione, it is plausible that the net flux of homocysteine through the transsulfuration pathway is increased.
+Furthermore, if Bhmt is downregulated, less homocysteine is available for remethylation (methionine recycling) and more is then available to irreversibly enter the transsulfuration pathway where it is lost.
+The net effect of increased Gclc and decreased Bhmt would be a decrease in homocysteine as a result of Cu deficiency.

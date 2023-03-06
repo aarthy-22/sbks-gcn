@@ -1,0 +1,11 @@
+Oxidative stress induces differential gene expression in a human lens epithelial cell line.
+PURPOSE: To identify differentially expressed genes in a human lens epithelial cell line exposed to oxidative stress.
+METHODS: Reverse transcriptase-polymerase chain reaction (RT-PCR) differential display was used to evaluate differential gene expression in a human lens epithelial cell line (SRA 01-04) when cells were exposed for 3 hours to a single bolus of 200 microM hydrogen peroxide.
+Differentially expressed genes were identified through DNA sequencing and a nucleotide database search.
+Differential expression was confirmed by northern blot and RT-PCR analyses.
+RESULTS: Using 18 primer sets, 28 RT-PCR products were differentially expressed between control and hydrogen peroxide-treated cells.
+In stressed cells, mitochondrial transcripts nicotinamide adenine dinucleotide (NADH) dehydrogenase subunit 4 and cytochrome b were downregulated 4-fold.
+Of the cytoplasmic mRNAs, glutamine cyclotransferase decreased 10-fold, whereas cytokine-inducible nuclear protein, alternative splicing factor 2, and beta-hydroxyisobutyryl-coenzyme A hydrolase increased 2-, 4-, and 10-fold, respectively.
+Analysis of mitochondrial transcripts in a 24-hour time course showed that NADH dehydrogenase subunit 4 mRNA decreased by 2-fold as early as 1 hour after oxidative stress, whereas the rate of decrease was slower for cytochrome b, cytochrome oxidase III, and 16S rRNA.
+CONCLUSIONS: Oxidative stress induced specific expressed gene changes in hydrogen peroxide-treated lens cells, including genes involved in cellular respiration and mRNA and peptide processing.
+These early changes may reflect pathways involved in the defense, pathology, or both of the lens epithelium, which is exposed to oxidative stress throughout life.

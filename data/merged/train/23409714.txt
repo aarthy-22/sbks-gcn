@@ -1,0 +1,9 @@
+Myeloid derived suppressor cells and their role in diseases.
+Myeloid derived suppressor cells (MDSCs) are a heterogeneous population of myeloid progenitors that can play a major role in tumour development and chronic inflammation.
+The importance of the suppressive function ofMDSCs was first suggested by studies involving cancer patients and cancer-bearing mice.
+In addition, recent studies have demonstrated that MDSCs can also be involved in many other pathological conditions.
+MDSCs have unique ways of abrogatingan immune response in addition to those utilised by other immune-suppressive cell types, for example via the induction of arginase-1 and consequent upregulation in reactive oxygen species (ROS) production.
+Due to their heterogeneity,they further can express a variety of lineage markers, which overlap with other myeloid cell types such as Gr1,CD11b, MHCIIlo, Ly6C and Ly6G, making it difficult to identify them by surface phenotype alone.
+The disparity between mouse and human MDSCs further complicates the identification of these elusive cell populations.
+In this review, we will summarise the recent updates on the methods for eliciting and studying different MDSC subsets, including newly proposed surface phenotypes, as well as insights into how their function is being characterised in both mice and humans.
+In addition, exciting new discoveries suggesting their involvement across a number of different pathological settings, such as sepsis, autoimmunity and Leishmaniasis, will be discussed.

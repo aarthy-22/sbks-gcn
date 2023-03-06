@@ -1,0 +1,12 @@
+Systemic administration of beta2-adrenoceptor agonists, formoterol and salmeterol, elicit skeletal muscle hypertrophy in rats at micromolar doses.
+beta(2)-Adrenoceptor agonists provide a potential therapy for muscle wasting and weakness, but their use may be limited by adverse effects on the heart, mediated in part, by beta(1)-adrenoceptor activation.
+Two beta(2)-agonists, formoterol and salmeterol, are approved for treating asthma and have an extended duration of action and increased safety, associated with greater beta(2)-adrenoceptor selectivity.
+The pharmacological profiles of formoterol and salmeterol and their effects on skeletal and cardiac muscle mass were investigated in 12-week-old, male F344 rats.
+Formoterol and salmeterol were each administered via daily i.p.
+injection at one of seven doses (ranging from 1 to 2,000 microg kg(-1) day(-1)), for 4 weeks.
+Rats were anaesthetised and the EDL and soleus muscles and the heart were excised and weighed.
+Dose-response curves were constructed based on skeletal and cardiac muscle hypertrophy.
+Formoterol was more potent than salmeterol, with a significantly lower ED(50) in EDL muscles (1 and 130 microg kg(-1) day(-1), P <0.05), whereas salmeterol had greater intrinsic activity than formoterol in both EDL and soleus muscles (12% greater hypertrophy than formoterol).
+The drugs had similar potency and intrinsic activity in the heart, with a smaller leftward shift for formoterol than seen in skeletal muscle.
+A dose of 25 microg kg(-1) day(-1) of formoterol elicited greater EDL and soleus hypertrophy than salmeterol, but resulted in similar beta-adrenoceptor downregulation.
+These results show that doses as low as 1 microg kg(-1) day(-1) of formoterol can elicit significant muscle hypertrophy with minimal cardiac hypertrophy and provide important information regarding the potential therapeutic use of formoterol and salmeterol for muscle wasting.

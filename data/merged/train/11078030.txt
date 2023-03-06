@@ -1,0 +1,4 @@
+The new cholinesterase inhibitors for Alzheimer's disease, Part 1: their similarities are different.
+Three new cholinesterase inhibitors, donepezil, rivastigmine, and galantamine, all inhibit the enzyme AChE. Rivastigmine also inhibits BuChE, which could lead to additional benefits in late-stage Alzheimer's disease, but also cause more GI side effects at initiation of therapy.
+Galantamine is also an allosteric modulator of nicotinic receptors, which could lead to additional efficacy for attention and for behaviors mediated by neurotransmitters other than ACh.
+We are now entering an exciting era where the options for treating the devastating illness Alzheimer's disease are multiplying and creating a foundation upon which new therapies with new mechanisms of action can be built.

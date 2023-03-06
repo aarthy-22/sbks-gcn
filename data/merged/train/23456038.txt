@@ -1,0 +1,9 @@
+Unraveling a phosphorylation event in a folded protein by NMR spectroscopy: phosphorylation of the Pin1 WW domain by PKA.
+The Pin1 protein plays a critical role in the functional regulation of the hyperphosphorylated neuronal Tau protein in Alzheimer's disease and is by itself regulated by phosphorylation.
+We have used Nuclear Magnetic Resonance (NMR) spectroscopy to both identify the PKA phosphorylation site in the Pin1 WW domain and investigate the functional consequences of this phosphorylation.
+Detection and identification of phosphorylation on serine/threonine residues in a globular protein, while mostly occurring in solvent-exposed flexible loops, does not lead to chemical shift changes as obvious as in disordered proteins and hence does not necessarily shift the resonances outside the spectrum of the folded protein.
+Other complications were encountered to characterize the extent of the phosphorylation, as part of the (1)H,(15)N amide resonances around the phosphorylation site are specifically broadened in the unphosphorylated state.
+Despite these obstacles, NMR spectroscopy was an efficient tool to confirm phosphorylation on S16 of the WW domain and to quantify the level of phosphorylation.
+Based on this analytical characterization, we show that WW phosphorylation on S16 abolishes its binding capacity to a phosphorylated Tau peptide.
+A reduced conformational heterogeneity and flexibility of the phospho-binding loop upon S16 phosphorylation could account for part of the decreased affinity for its phosphorylated partner.
+Additionally, a structural model of the phospho-WW obtained by molecular dynamics simulation and energy minimization suggests that the phosphate moiety of phospho-S16 could compete with the phospho-substrate.

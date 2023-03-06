@@ -1,0 +1,11 @@
+Cell penetrating peptide tethered bi-ligand liposomes for delivery to brain in vivo: Biodistribution and transfection.
+Targeted nano-particulate systems hold extraordinary potential for delivery of therapeutics across blood brain barrier (BBB).
+In this work, we investigated the potential of novel bi-ligand (transferrin-poly-l-arginine) liposomal vector for delivery of desired gene to brain, in vivo.
+The in vivo evaluation of the delivery vectors is essential for clinical translation.
+We followed an innovative approach of combining transferrin receptor targeting with enhanced cell penetration to design liposomal vectors for improving the transport of molecules into brain.
+The biodistribution profile of 1, 1'-dioctadecyl-3,3,3',3'-tetramethyl-indocarbocyanine iodide(DiR)-labeled liposomes was evaluated in adult rats after single intravenous injection at dose of 15.2μmoles of phospholipids/kg body weight.
+We demonstrated that bi-ligand liposomes accumulated in rat brain at significantly (p<0.05) higher concentrations as compared to the single-ligand (transferrin) or plain liposomes.
+In addition, the bi-ligand liposomes resulted in increased expression of β-galactosidase(β-gal) plasmid in rat brain tissue in comparison to the single-ligand liposomes.
+Histological examination of the transfected tissues did not show any signs of tissue necrosis or inflammation.
+Hemolysis assay further authenticated the biocompatibility of bi-ligand liposomes in blood up to 600 nmoles of phospholipids/1.4×10(7) erythrocytes.
+The findings of this study provide important and detailed information regarding the distribution of bi-ligand liposomes in vivo and accentuate their ability to demonstrate improved brain penetration and transfection potential over single-ligand liposomes.

@@ -1,0 +1,11 @@
+An Indian butyrylcholinesterase variant L307P is not structurally stable: A molecular dynamics simulation study.
+The human butyrylcholinesterase (BChE) activity is less than 1% in the serum of silent variant individuals of Vysya community in India.
+They are homozygous for a point mutation at codon 307 (CTT→CCT) resulting in the substitution of leucine 307 by proline.
+The reason for the disappearance of the protein in the serum has not been explicated till date.
+Based on this background, we performed molecular dynamics simulation to probe the structural stability of Indian variant (L307P) in comparison with wild and other BChE variants (D70G, E497V, V142M) having differential esterase activity.
+The simulation of all the mutants except D70G showed a much larger Cα root mean square deviation from the wild BChE crystal structure, showing the overall conformational disturbance.
+Further analysis revealed that secondary structure of the mutant proteins was not stable.
+The orientation of the catalytic triad is also distorted in all the mutants.
+The distance between δ nitrogen of His438 to ε oxygen of Glu325 and ε nitrogen of His438 to γ oxygen of Ser198 were highly altered in L307P mutant than the wild and other three variants throughout the simulation.
+Such disparity of distances between the catalytic residues may be due to the change in the protein conformation attributing to their differential catalytic activity.
+Our studies thus prove that the Indian BChE L307P mutant with negligible activity is possibly due to its structural instability when compared to other BChE variants.

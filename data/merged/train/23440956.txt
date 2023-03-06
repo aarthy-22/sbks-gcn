@@ -1,0 +1,10 @@
+Graphene-Bonded and -Encapsulated Si Nanoparticles for Lithium Ion Battery Anodes.
+Silicon (Si) has been considered a very promising anode material for lithium ion batteries due to its high theoretical capacity.
+However, high-capacity Si nanoparticles usually suffer from low electronic conductivity, large volume change, and severe aggregation problems during lithiation and delithiation.
+In this paper, a unique nanostructured anode with Si nanoparticles bonded and wrapped by graphene is synthesized by a one-step aerosol spraying of surface-modified Si nanoparticles and graphene oxide suspension.
+The functional groups on the surface of Si nanoparticles (50-100 nm) not only react with graphene oxide and bind Si nanoparticles to the graphene oxide shell, but also prevent Si nanoparticles from aggregation, thus contributing to a uniform Si suspension.
+A homogeneous graphene-encapsulated Si nanoparticle morphology forms during the aerosol spraying process.
+The open-ended graphene shell with defects allows fast electrochemical lithiation/delithiation, and the void space inside the graphene shell accompanied by its strong mechanical strength can effectively accommodate the volume expansion of Si upon lithiation.
+The graphene shell provides good electronic conductivity for Si nanoparticles and prevents them from aggregating during charge/discharge cycles.
+The functionalized Si encapsulated by graphene sample exhibits a capacity of 2250 mAh g(-1) (based on the total mass of graphene and Si) at 0.1C and 1000 mAh g(-1) at 10C, and retains 85% of its initial capacity even after 120 charge/discharge cycles.
+The exceptional performance of graphene-encapsulated Si anodes combined with the scalable and one-step aerosol synthesis technique makes this material very promising for lithium ion batteries.

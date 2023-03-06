@@ -1,0 +1,6 @@
+Preferential inhibition of human phosphodiesterase 4 by ibudilast.
+Ibudilast ophthalmic solution exhibited an improved clinical efficacy over cromoglycate in the treatment of allergic conjunctivitis.
+To further characterize its principal mode of action, the phosphodiesterase (PDE) inhibitory profile of ibudilast has been examined using human recombinant enzymes.
+Ibudilast, but not the other commonly used anti-allergic ophthalmic solutions including cromoglycate, ketotifen, tranilast and levocabastine, potently inhibits purified human PDE4A, 4B, 4C and 4D with IC50 values at 54, 65, 239 and 166 nM, respectively.
+Ibudilast effectively blocks lipopolysaccharide (LPS)-induced tumor necrosis factor (TNFalpha, IC50 = 6.2 microM) and N-formyl-Met-Leu-Phe (fMLP)-induced leukotriene (LT) B4 biosynthesis (IC50 = 2.5 microM) in human whole blood, which are 3 and 6-fold more potent than cilomilast, respectively.
+The attenuated inflammatory and allergic responses from the potent and preferential PDE4 inhibition of ibudilast may have contributed significantly to its beneficial pharmacological responses and distinguishes ibudilast from the other ophthalmic solutions in the treatment of ocular allergy.

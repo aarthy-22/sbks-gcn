@@ -1,0 +1,8 @@
+Ibrutinib: a review of its use in patients with mantle cell lymphoma or chronic lymphocytic leukaemia.
+Ibrutinib (Imbruvica(R)) is a first-in-class, potent, orally administered, covalent inhibitor of Bruton's tyrosine kinase (BTK) that inhibits B-cell antigen receptor signalling downstream of BTK.
+Oral ibrutinib is indicated for the treatment of patients with relapsed/refractory mantle cell lymphoma (MCL) or chronic lymphocytic leukaemia (CLL) and for the treatment of patients with CLL and a chromosome 17 deletion (del 17p) or TP53 mutation.
+This article summarizes pharmacological, efficacy and tolerability data relevant to the use of ibrutinib in these indications.
+In clinical studies, ibrutinib induced a high overall response rate in patients with relapsed/refractory MCL (phase II study).
+In addition, ibrutinib significantly prolonged progression-free survival and significantly improved the partial response rate and overall survival in patients with relapsed/refractory CLL (RESONATE study), including in those with del 17p, a subgroup with a poor prognosis.
+Ibrutinib had an acceptable tolerability profile in these studies with <10% of patients discontinuing treatment because of adverse events.
+Given its efficacy and tolerability, once-daily, oral ibrutinib is an emerging treatment option for patients with relapsed/refractory MCL or CLL and CLL patients with del 17p or TP53 mutation.

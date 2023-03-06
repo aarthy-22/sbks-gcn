@@ -1,0 +1,9 @@
+A fluorescent polymeric heparin sensor.
+Linear copolymers have been developed which carry binding sites tailored for sulfated sugars.
+All binding monomers are based on the methacrylamide skeleton and ensure statistical radical copolymerization.
+They are decorated with o-aminomethylphenylboronates for covalent ester formation and/or alkylammonium ions for noncovalent Coulomb attraction.
+Alcohol sidechains maintain a high water solubility; a dansyl monomer was constructed as a fluorescence label.
+Statistical copolymerization of comonomer mixtures with optimized ratios was started by AIBN (AIBN=2,2'-azoisobutyronitrile) and furnished water-soluble comonomers with an exceptionally high affinity for glucosaminoglucans.
+Heparin can be quantitatively detected with an unprecedented 30 nM sensitivity, and a neutral polymer without any ammonium cation is still able to bind the target with almost micromolar affinity.
+From this unexpected result, we propose a new binding scheme between the boronate and a sulfated ethylene glycol or aminoethanol unit.
+Although the mechanism of heparin binding involves covalent boronate ester formation, it can be completely reversed by protamine addition, similar to heparin's complex formation with antithrombin III.

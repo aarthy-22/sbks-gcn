@@ -1,0 +1,6 @@
+Synthesis and dual biological effects of hydroxycinnamoyl phenylalanyl/prolyl hydroxamic acid derivatives as tyrosinase inhibitor and antioxidant.
+We previously reported that caffeoyl-amino acidyl-hydroxamic acid (CA-Xaa-NHOH) acted as both a good antioxidant and tyrosinase inhibitor, in particular when caffeic acid was conjugated with proline or amino acids having aromatic ring like phenylalanine.
+Here, various hydroxycinnamic acid (HCA) derivatives were further conjugated with phenylalanyl hydroxamic acid and prolyl hydroxamic acid (HCA-Phe-NHOH and HCA-Pro-NHOH) to study the structure and activity relationship as both antioxidants and tyrosinase inhibitors.
+When their biological activities were evaluated, all HCA-Phe-NHOH and HCA-Pro-NHOH exhibited enhanced antioxidant activity compared to HCA alone.
+Moreover, derivatives of caffeic acid, ferulic acid, and sinapic acid inhibited lipid peroxidation more efficiently than vitamin E analogue (Trolox).
+In addition, derivatives of caffeic acid and sinapic acid efficiently inhibited tyrosinase activity and reduced melanin content in melanocytes Mel-Ab cell.

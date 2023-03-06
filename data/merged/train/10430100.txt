@@ -1,0 +1,19 @@
+Antitumor activity of ZD1694 (tomudex) against human head and neck cancer in nude mouse models: role of dosing schedule and plasma thymidine.
+We studied the antitumor activity and toxicity of ZD1694 (tomudex), a specific inhibitor of thymidylate synthase (TS), in nude mice bearing human head and neck squamous cell carcinoma A253 and FaDu xenografts.
+Mice were treated by single i.v.
+push (i.v. x 1), i.v. push once a week for 3 weeks (weekly x 3), and i.v.
+push once a day for 5 days (daily x 5), and the maximum tolerated doses (MTDs) of ZD1694 were 300 mg/kg, 60 mg/kg/week, and 30 mg/kg/day, respectively.
+ZD1694 was moderately active against both A253 and FaDu xenografts.
+Antitumor activity was schedule-dependent in both tumors: weekly x 3 > or = i.v. x 1 >> daily x 5.
+In contrast, the rank order of toxicity was daily x 5 >> weekly x 3 > or = i.v. x 1.
+ZD1694 at the MTD produced 20% complete tumor regression and 20% partial tumor regression (PR) with i.v. x 1 and weekly x 3 schedules and 12-day tumor growth delay with daily x 5 schedule against FaDu xenografts.
+No complete tumor regression was achieved with ZD1694 with any schedule against A253; a 20% PR, 40% PR, and 10-day tumor growth delay were observed with i.v. x 1, weekly x 3, and daily x 5 schedules, respectively.
+The data indicate that ZD1694 was slightly more effective against FaDu than against A253.
+Of interest and potential clinical importance was the observation that ZD1694 was still active at doses lower than the MTD (> or =1/3 MTD), which showed a high therapeutic index and wide safety margin.
+Study of ZD1694 compared with 5-fluorouracil and 5-fluoro-2'-deoxyuridine at the MTD revealed that the antitumor activity of ZD1694 was comparable with or superior to 5-fluorouracil and 5-fluoro-2'-deoxyuridine against both A253 and FaDu xenografts, with less toxicity.
+High plasma thymidine in mouse relative to human (approximately 1.3 microM and <0.1 microM, respectively) may complicate the study of antitumor activity and toxicity of TS inhibitors with human tumor xenografts grown in the mouse.
+To test this hypothesis, we preadministered methoxypolyethyleneglycol-conjugated thymidine phosphorylase (MPEG-TPase; 2500 units/kg/dose) to reduce mouse plasma thymidine, then treated with various doses of ZD1694 using the daily x 5 or i.v. x 1 schedules in the A253 tumor model.
+MPEG-TPase significantly increased the toxicity of ZD1694; the MTD of ZD1694 plus MPEG-TPase was reduced 3- and 10-fold compared with ZD1694 alone for i.v x 1 and daily x 5 schedules, respectively.
+However, preadministration of MPEG-TPase did not potentiate the antitumor activity of ZD1694 with either schedule.
+The data indicate that the study of TS inhibitors in rodent models may not be suitable for predicting a safe dose for clinical study.
+However, rodent models, particularly human tumor xenografts, are still useful models for evaluation of antitumor activity and schedule selection for TS inhibitors.

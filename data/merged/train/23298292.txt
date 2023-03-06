@@ -1,0 +1,9 @@
+A design of experiments to optimize a new manufacturing process for high activity protein-containing submicron particles.
+A novel method for the manufacture of protein/peptide-containing submicron particles was developed in an attempt to provide particles with increased activity while using high energy input technologies.
+The method consists of antisolvent co-precipitation from an aqueous solution containing both an amino acid core material (e.g. D,L-valine), and either bovine serum albumin (BSA) or lysozyme (Lys) as model proteins.
+The aqueous solution was added to the organic phase by means of a nebulizer to increase the total surface area of interaction for the precipitation process.
+Sonication proved to be an effective method to produce small particle sizes while maintaining high activity of Lys.
+The use of a polysorbate or sorbitan ester derivatives as stabilizers proved to be necessary to yield submicron particles.
+Particles with very high yields (approximately 100%) and very high activity after manufacture (approximately 100%) could be obtained.
+A particle size of 439.0 nm, with a yield of 48.8% and with final remaining activity of98.7% was obtained.
+By studying various factors using a design of experiments strategy (DoE) we were able to establish the critical controlling factors for this new method of manufacture.

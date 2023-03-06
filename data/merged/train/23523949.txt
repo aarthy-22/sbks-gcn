@@ -1,0 +1,12 @@
+Protective effect of crocin on diazinon induced cardiotoxicity in rats in subchronic exposure.
+This study was designed to evaluate the effectiveness of crocin, main component of Crocus sativus L. (Saffron) against subchronic diazinon (DZN) induced cardiotoxicity in rats.
+METHODS: Rats were divided into 7 groups; control (corn oil, gavage), DZN (15mg/kg/day, gavage,), crocin (12.5, 25 or 50mg/kg/day, i.p) plus DZN, vitamin E (200IU/kg, i.p, three times per week) plus DZN and crocin (50mg/kg/day, i.p) groups.
+Treatments were continued for 4weeks.
+Creatine phosphokinase MB (CK-MB), malondealdehyde (MDA) and glutathione (GSH) levels were evaluated in heart tissue at the end of treatments.
+Levels of apoptotic proteins (Bax, Bcl2, caspase 3) and cytosolic cytochrome c were analyzed by Western blotting.
+Transcript levels of Bax and Bcl2 were also determined using qRT PCR.
+RESULTS: DZN induced histophatological damages and elevated the level of cardiac marker CK-MB.
+These effects were associated with increased MDA level, lower level of reduced GSH and induction of apoptosis through elevation of Bax/Bcl2 ratio (both protein and mRNA levels), cytochrome c release to the cytosol and activation caspase 3 in cardiac tissue.
+Crocin (25 and 50mg/kg) or vitamin E improved histopathological damages, decreased MDA and CK-MB, increased GSH content and attenuated the increase of Bax/Bcl2 ratio, activation of caspase 3 and release of cytochrome c to the cytosol induced by DZN.
+In summary, DZN induced mitochondrial-mediated apoptosis in heart tissue of rat following subchronic exposure.
+Crocin, as an antioxidant, showed protective effects against DZN cardiotoxicity by reducing lipid peroxidation and alleviating apoptosis.

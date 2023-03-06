@@ -1,0 +1,8 @@
+Butyrylcholinesterase: an important new target in Alzheimer's disease therapy.
+Acetylcholinesterase (AChE) predominates in the healthy brain, with butyrylcholinesterase (BuChE) considered to play a minor role in regulating brain acetylcholine (ACh) levels.
+However, BuChE activity progressively increases in patients with Alzheimer's disease (AD), while AChE activity remains unchanged or declines.
+Both enzymes therefore represent legitimate therapeutic targets for ameliorating the cholinergic deficit considered to be responsible for the declines in cognitive, behavioral and global functioning characteristic of AD.
+The two enzymes differ in substrate specificity, kinetics and activity in different brain regions.
+Experimental evidence from the use of agents with enhanced selectivity for BuChE (cymserine analogues, MF-8622) and the dual inhibitor of both AChE and BuChE, rivastigmine, indicates potential therapeutic benefits of inhibiting both AChE and BuChE in AD and related dementias.
+Recent evidence suggests that both AChE and BuChE may have roles in the aetiology and progression of AD beyond regulation of synaptic ACh levels.
+The development of specific BuChE inhibitors and further experience with the dual enzyme inhibitor rivastigmine will improve understanding of the aetiology of AD and should lead to a wider variety of potent treatment options.

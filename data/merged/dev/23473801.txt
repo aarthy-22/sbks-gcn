@@ -1,0 +1,12 @@
+Hinokitiol inhibits platelet activation ex vivo and thrombus formation in vivo.
+Hinokitiol is a tropolone-related bioactive compound that has been used in hair tonics, cosmetics, and food as an antimicrobial agent.
+Recently, hinokitiol has attracted considerable interest because of its anticancer activities.
+Platelet activation plays a crucial role in atherothrombotic processes.
+We examined the effects of hinokitiol treatment on platelet activation using human platelets.
+In the present study, hinokitiol (1 and 2μM) inhibited the collagen-induced aggregation of human platelets, but did not inhibit the activation of platelets by other agonists, including thrombin, arachidonic acid, and ADP.
+Hinokitiol inhibited the phosphorylation of phospholipase C (PLC)γ2, protein kinase C (PKC), mitogen-activated protein kinases (MAPKs), and Akt in collagen-activated human platelets, and significantly reduced intracellular calcium mobilization and hydroxyl radical (OH) formation.
+Hinokitiol also reduced the PKC activation and platelet aggregation stimulated by PDBu.
+In addition, hinokitiol significantly prolonged thrombogenesis in mice.
+Hinokitiol did not influence the binding of a fluorescent triflavin probe to the αIIbβ3 integrin on platelet membrane, and neither ODQ nor SQ22536 significantly reversed the hinokitiol-mediated inhibition of platelet aggregation.
+In conclusion, hinokitiol may inhibit platelet activation by inhibiting the PLCγ2-PKC cascade and hydroxyl radical formation, followed by suppressing the activation of MAPKs and Akt.
+Our study suggests that hinokitiol may represent a potential therapeutic agent for the prevention or treatment of thromboembolic disorders.

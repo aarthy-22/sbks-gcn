@@ -1,0 +1,10 @@
+Cajaninstilbene acid (CSA) exerts cytoprotective effects against oxidative stress through the Nrf2-dependent antioxidant pathway.
+Cajaninstilbene acid (CSA), an active compound separated from pigeon pea leaves, possesses the highly efficient antioxidant activities.
+Transcription factor nuclear factor-erythroid 2-related factor 2 (Nrf2) is an important regulator of cellular oxidative stress.
+This study examined the role of Nrf2 in CSA-mediated antioxidant effects on human hepatocarcinoma (HepG2) cell line.
+The generation of reactive oxygen species (ROS) upon H2O2 and CSA treatment was lower than that of H2O2 alone.
+CSA activated Nrf2 as evaluated by Western blotting.
+A luciferase reporter assay also demonstrated that CSA-activated signaling resulted in the increased transcriptional activity of Nrf2 through binding to the antioxidant response element (ARE) enhancer sequence.
+Our study indicated that treatment of HepG2 cells with CSA induces Nrf2-dependent ARE activity and gene expression of heme oxygenase-1 (HO-1), NAD(P)H quinone oxidoreductase 1 (NQO1), and glutamate-cysteine ligase modifier subunits by activation of PI3K/AKT, ERK and JNK signaling pathways.
+Inhibition of Nrf2 by siRNA reduced CSA-induced upregulation of these Nrf2-related enzymes.
+These results suggest that the Nrf2/ARE pathway plays an important role in the regulation of CSA-mediated antioxidant effects in HepG2 cells.

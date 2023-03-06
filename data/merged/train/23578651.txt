@@ -1,0 +1,8 @@
+Development and validation of ethylenethiourea determination in foods using methanol-based extraction, solid-phase extraction cleanup and LC-MS/MS.
+To response to the need for a rapid, cost-effective, eco-friendly and efficient extraction process, a sensitive method for the determination of ethylenethiourea (ETU) in food matrices by high-performance liquid chromatography-mass spectrometry (HPLC-LC/MS) was developed and validated.
+ETU was extracted from food commodities with methanol, cleaned up by alumina-SPE column, and then determined by HPLC-MS/MS.
+The MS detection was operated in positive ionization mode.
+For confirmation of target compound, two precursor ion>product ion transitions were selected by multi-reaction monitoring mode (MRM).
+The method showed good linearity with correlation coefficient higher than 0.9950.
+Recoveries at three spiked levels (10, 50, 100ng/g) in random selected food matrices were in range of 71-121% with RSDs not larger than 25%.
+The limit of quantitation for the analyte was estimated at 5ng/g.

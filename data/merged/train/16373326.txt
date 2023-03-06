@@ -1,0 +1,11 @@
+Isolation and function of the amino acid transporter PAT1 (slc36a1) from rabbit and discrimination between transport via PAT1 and system IMINO in renal brush-border membrane vesicles.
+Reabsorption of amino acids is an important function of the renal proximal tubule.
+pH-dependent amino acid transport has been measured previously using rabbit renal brush-border membrane vesicles (BBMV).
+The purpose of this investigation was to determine whether this pH-dependent uptake represents H(+)/amino acid cotransport via a PAT1-like transport system.
+The rabbit PAT1 cDNA was isolated (2296bp including both 5' and 3' untranslated regions and poly(A) tail) and the open reading frame codes for a protein of 475 amino acids (92% identity to human PAT1).
+Rabbit PAT1 mRNA was found in all tissues investigated including kidney.
+When expressed heterologously in a mammalian cell line, rabbit PAT1 mediates pH-dependent, Na(+)-independent uptake of proline, glycine, l-alanine and alpha-(methylamino)isobutyric acid.
+Proline uptake was maximal at pH 5.0 (K(m) 2.2+/-0.7 mM).
+A transport system with identical characteristics (ion dependency, substrate specificity) was detected in rabbit renal BBMV where an overshoot was observed in the absence of Na+ but in the presence of an inwardly directed H+ gradient.
+In the presence of Na+ and under conditions in which PAT1 transport function was suppressed, a second proline uptake system was detected that exhibited functional characteristics similar to those of the IMINO system.
+The functional characteristics of rabbit PAT1 in either mammalian cells or renal BBMV suggest that PAT1 is the low-affinity transporter of proline, glycine and hydroxyproline believed to be defective in patients with iminoglycinuria.

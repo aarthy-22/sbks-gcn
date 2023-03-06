@@ -1,0 +1,14 @@
+Influence of stimulant-induced hyperactivity on social approach in the BTBR mouse model of autism.
+Translational research is needed to discover pharmacological targets and treatments for the diagnostic behavioral domains of autism spectrum disorders.
+Animal models with phenotypic relevance to diagnostic criteria offer clear experimental strategies to test the efficacy and safety of novel treatments.
+Antagonists of mGluR5 receptors are in clinical trials for Fragile X syndrome and under investigation for the treatment of autism spectrum disorders.
+However, in preclinical studies of mGluR5 compounds tested in our laboratory and others, increased locomotion following mGluR5 modulation has been observed.
+Understanding the influence of general activity on sociability and repetitive behaviors will increase the accuracy of interpretations of positive outcomes measured from pharmacological treatment that produces locomotor activating or sedating effects.
+In the present studies, dose-response curves for d-amphetamine (AMPH)-induced hyperlocomotion were similar in standard B6 mice and in the BTBR mouse model of autism.
+AMPH produced significant, robust reductions in the high level of repetitive self-grooming that characterizes BTBR, and also reduced the low baseline grooming in B6, indicating that AMPH-induced hyperlocomotion competes with time spent engaged in self-grooming.
+We then tested AMPH in B6 and BTBR on the 3-chambered social approach task.
+One component of sociability, the time spent in the chamber with the novel mouse, in B6 mice was reduced, while the sniffing time component of sociability in BTBR mice was enhanced.
+This finding replicated across multiple cohorts treated with AMPH and saline vehicle.
+In-depth analysis revealed that AMPH increased the number and decreased the duration of sniffing bouts in BTBR, suggesting BTBR treated with AMPH mostly engaged in brief sniffs rather than true social interactions with the novel mouse during the social approach task.
+Our data suggest that compounds with stimulant properties may have some direct benefits on reducing repetitive behaviors in autism spectrum disorders, particularly in the subset of autistic individuals with hyperactivity.
+This article is part of the Special Issue entitled 'Neurodevelopmental Disorders'.

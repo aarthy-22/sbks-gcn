@@ -1,0 +1,10 @@
+Evaluation of suppressive and pro-resolving effects of EPA and DHA in human primary monocytes and T-helper cells.
+Despite their beneficial anti-inflammatory properties, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) may increase the infection risk at high doses, likely by generating an immune-depressed state.
+To assess the contribution of different immune cell populations to the immunomodulatory fatty acid effect, we comparatively investigated several aspects of inflammation in human T-helper (Th) cells and monocytes.
+Both fatty acids, but DHA to a lesser extent compared with EPA, selectively and dose-dependently reduced the percentage of cytokine-expressing Th cells in a peroxisome proliferator-activated receptor (PPAR)γ-dependent fashion, whereas the expression of the cell surface marker CD69 was unaltered on activated T cells.
+In monocytes, both EPA and DHA increased interleukin (IL)-10 without affecting tumor necrosis factor (TNF)-α and IL-6.
+Cellular incorporation of EPA and DHA occurred mainly at the expense of arachidonic acid.
+Concomitantly, thromboxane B (TXB)2 and leukotriene B (LTB)4 in supernatants decreased, while levels of TXB3 and LTB5 increased.
+This increase was independent of activation and in accordance with cyclooxygenase expression patterns in monocytes.
+Moreover, EPA and DHA gave rise to a variety of mono- and trihydroxy derivatives of highly anti-inflammatory potential, such as resolvins and their precursors.
+Our results suggest that EPA and DHA do not generally affect immune cell functions in an inhibitory manner but rather promote pro-resolving responses.

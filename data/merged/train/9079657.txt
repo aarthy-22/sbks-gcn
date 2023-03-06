@@ -1,0 +1,13 @@
+Activation-dependent exposure of the inter-EGF sequence Leu83-Leu88 in factor Xa mediates ligand binding to effector cell protease receptor-1.
+Binding of factor Xa to human umbilical vein endothelial cells (HUVEC) is contributed by effector cell protease receptor-1 (EPR-1).
+The structural requirements of this recognition were investigated.
+Factor Xa or catalytically inactive 5-dimethylaminonaphthalene-1sulfonyl (dansyl) Glu-Gly-Arg-(DEGR)-chloromethylketone-factor Xa bound indistinguishably to HUVEC and EPR-1 transfectants, and inhibited equally well the binding of 125I-factor Xa to these cells.
+Similarly, factor Xa active site inhibitors TAP or NAP5 did not reduce ligand binding to EPR-1.
+A factor X peptide duplicating the inter-EGF sequence Leu83-Phe84-Thr85-Arg86-Lys87-Leu88- (Gly) inhibited factor V/Va-independent prothrombin activation by HUVEC and blocked binding of 125I-factor Xa to these cells in a dose-dependent manner (IC50 approximately 20-40 microM).
+In contrast, none of the other factor X peptides tested or a control peptide with the inter-EGF sequence in scrambled order was effective.
+A recombinant chimeric molecule expressing the factor X sequence Leu83-Leu88 within a factor IX backbone inhibited binding of 125I-factor Xa to HUVEC and EPR-1 transfectants in a dose-dependent fashion, while recombinant factor IX or plasma IXa had no effect.
+An antibody generated against the factor X peptide 83-88, and designated JC15, inhibited 125I-factor Xa binding to HUVEC.
+The JC15 antibody bound to factor Xa and the recombinant IX/X83-88 chimera in a concentration dependent manner, while no specific reactivity with factors X or IXa was observed.
+Furthermore, binding of 125I-factor Xa to immobilized JC15 was inhibited by molar excess of unlabeled factor Xa, but not by comparable concentrations of factors X or IXa.
+These findings identify the inter-EGF sequence Leu83-Leu88 in factor Xa as a novel recognition site for EPR-1, and suggest its potential role as a protease activation-dependent neo-epitope.
+This interacting motif may help elucidate the contribution of factor Xa to cellular assembly of coagulation and vascular injury.

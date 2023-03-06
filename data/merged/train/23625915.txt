@@ -1,0 +1,13 @@
+Store-operated Ca2+ Entry (SOCE) Induced by Protease-activated Receptor-1 mediates STIM1 Phosphorylation to inhibit SOCE in Endothelial Cells through AMP-activated Protein Kinase and p38beta Mitogen-activated Protein Kinase.
+The Ca2+ sensor STIM1 is crucial for activation of store-operated Ca2+ entry (SOCE) through TRPC and Orai channels.
+STIM1 phosphorylation serves as an off-switch for SOCE.
+However, the signaling pathway for STIM1 phosphorylation is unknown.
+Here we show that SOCE activates AMP-activated protein kinase (AMPK); its effector p38β mitogen-activated protein kinase (p38β MAPK) phosphorylates STIM1, thus inhibiting SOCE in human lung microvascular endothelial cells (ECs).
+Activation of AMPK using AICAR resulted in STIM1 phosphorylation on serine residues and prevented PAR-1-induced Ca2+ entry.
+Further, AICAR pretreatment blocked PAR-1-induced increase in permeability of mouse-lung microvessels.
+Activation of SOCE with thrombin caused phosphorylation of isoform α1, but not α2 of the AMPK catalytic subunit.
+Moreover, knockdown of AMPKα1 augmented SOCE induced by thrombin.
+Interestingly, SB203580, a selective inhibitor of p38 MAPK, blocked STIM1 phosphorylation and led to sustained STIM1-puncta formation and Ca2+ entry.
+Of the three p38 MAPK isoforms expressed in ECs, p38β knockdown prevented PAR-1-mediated STIM1 phosphorylation and potentiated SOCE.
+In addition, inhibition of the SOCE downstream target CaMKKβ or knockdown of AMPKα1 suppressed PAR-1-mediated phosphorylation of p38β and hence STIM1.
+Thus, our findings demonstrate that SOCE activates CaMKKβ-AMPKα1-p38β MAPK signaling to phosphorylate STIM1, thereby suppressing endothelial SOCE and permeability responses.

@@ -1,0 +1,13 @@
+Tyrosinase catalyzes an unusual oxidative decarboxylation of 3,4-dihydroxymandelate.
+Tyrosinase usually catalyzes the conversion of monophenols to o-diphenols and oxidation of diphenols to the corresponding quinones.
+However, when 3,4-dihydroxymandelic acid was provided as the substrate, it catalyzed an unusual oxidative decarboxylation reaction generating 3,4-dihydroxybenzaldehyde as the sole product.
+The identity of the product was confirmed by high-performance liquid chromatography (HPLC) as well as ultraviolet and infrared spectral studies.
+None of the following enzymes tested catalyzed the new reaction: galactose oxidase, ceruloplasmin, superoxide dismutase, ascorbate oxidase, dopamine beta-hydroxylase, and peroxidase.
+Phenol oxidase inhibitors such as phenylthiourea, potassium cyanide, and sodium azide inhibited the reaction drastically, suggesting the participation of the active site copper of the enzyme in the catalysis.
+Mimosine, a well-known competitive inhibitor of tyrosinase, competitively inhibited the new reaction also.
+4-Hydroxymandelic acid and 3-methoxy-4-hydroxymandelic acid neither served as substrates nor inhibited the reaction.
+Putative intermediates such as 3,4-dihydroxybenzyl alcohol and (3,4-dihydroxybenzoyl)formic acid did not accumulate during the reaction.
+Oxidation to a quinone methide derivative rather than conventional quinone accounts for this unusual oxidative decarboxylation reaction.
+Earlier from this laboratory, we reported the conversion of 4-alkylcatechols to quinone methides catalyzed by a cuticular phenol oxidase [Sugumaran, M., & Lipke, H. (1983) FEBS Lett.
+155, 65-68].
+Present studies demonstrate that mushroom tyrosinase will also catalyze quinone methide production with the same active site copper if a suitable substrate such as 3,4-dihydroxymandelic acid is provided.

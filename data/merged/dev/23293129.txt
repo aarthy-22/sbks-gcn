@@ -1,0 +1,10 @@
+Antigenotoxic potencies of a lichen species, Evernia prunastri.
+In this article, the genotoxic and antigenotoxic effects of methanol extract of Evernia prunastri (Huds.) Willd.
+(MEP) were studied using WP2, Ames (TA1535 and TA1537) and sister chromatid exchange (SCE) test systems.
+The results obtained from bacterial test systems demonstrated that MEP has strong antimutagenic potencies on TA1537 and WP2 strains.
+The highest inhibition rates for MEP on TA1537 and WP2 strains were 37.70% and 69.70%, respectively.
+According to the SCE test system, MEP reduced the genotoxic effects of aflatoxin.
+In order to clarify the mechanism underlying the antigenotoxic effects of MEP, the antioxidants were determined.
+Cotreatments of 5, 10 and 20 µg/mL concentrations of MEP with aflatoxin B(1) decreased the frequencies of SCE and the malondialdehyde level and increased amount of superoxide dismutase, glutathione and glutathione peroxidase which were decreased by aflatoxin.
+The data obtained from this work have clearly shown that MEP has significant antigenotoxic effects which are thought to be partly due to the antioxidant activities and antioxidant inducing capability of MEP.
+This is the first report indicating the antigenotoxic activities of MEP against several mutagen agents such as N-methyl-N'-nitro-N-nitrosoguanidine, acridin and aflatoxin.

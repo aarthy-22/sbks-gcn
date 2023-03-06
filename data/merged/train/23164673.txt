@@ -1,0 +1,14 @@
+The glycogen synthase kinase-3β/nuclear factor-kappa B pathway is involved in cinobufagin-induced apoptosis in cultured osteosarcoma cells.
+Cinobufagin, a major component of cinobufacini (huachansu), is an important cardenolidal steroid.
+Several studies have suggested that cinobufagin has potent anti-cancer effects.
+The present study examines the apoptosis-inducing activity and the underlying mechanism of action of cinobufagin in osteosarcoma (OS) cells.
+Our results showed that cinobufagin potently inhibited the proliferation of U2OS, MG63 and SaOS-2 cells.
+Significant increases in G2/M cell-cycle arrest and apoptosis in OS cells were also observed.
+The expression levels of several apoptotic proteins were assessed after cinobufagin treatment in U2OS cells.
+Among them, xIAP, cIAP-1, survivin and Bcl-2 levels decreased remarkably, while the levels of Bax and cleaved-PARP increased.
+Furthermore, we validated the inhibition of GSK-3β/NF-κB signaling following cinobufagin treatment.
+Western blots showed a decrease in nuclear p65 protein expression after exposure to different concentrations of cinobufagin, while the phosphorylation of GSK-3β was simultaneously increased.
+Transduction with constitutively active forms of GSK-3β could protect against the downregulation of p65 and upregulation of cleaved-PARP that are induced by cinobufagin treatment.
+However, combined treatment with cinobufagin and SB216367 resulted in a significant reduction in p65 and an increase in cleaved-PARP in U2OS cells.
+Altogether, these results show that cinobufagin is a promising agent for the treatment of OS.
+These studies are the first to reveal the involvement of the GSK-3β/NF-κB pathway in cinobufagin-induced apoptosis.

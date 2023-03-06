@@ -1,0 +1,11 @@
+Antofine-induced connexin43 gap junction disassembly in rat astrocytes involves protein kinase Cβ.
+Antofine, a phenanthroindolizidine alkaloid derived from Cryptocaryachinensis and Ficusseptica in the Asclepiadaceae milkweed family, is cytotoxic for various cancer cell lines.
+In this study, we demonstrated that treatment of rat primary astrocytes with antofine induced dose-dependent inhibition of gap junction intercellular communication (GJIC), as assessed by scrape-loading 6-carboxyfluorescein dye transfer.
+Levels of Cx43 protein were also decreased in a dose- and time-dependent manner following antofine treatment.
+Double-labeling immunofluorescence microscopy showed that antofine (10ng/ml) induced endocytosis of surface gap junctions into the cytoplasm, where Cx43 was co-localized with the early endosome marker EEA1.
+Inhibition of lysosomes or proteasomes by co-treatment with antofine and their respective specific inhibitors, NH4Cl or MG132, partially inhibited the antofine-induced decrease in Cx43 protein levels, but did not inhibit the antofine-induced inhibition of GJIC.
+After 30min of treatment, antofine induced a rapid increase in the intracellular Ca(2+) concentration and activation of protein kinase C (PKC)α/βII, which was maintained for at least 6h.
+Co-treatment of astrocytes with antofine and the intracellular Ca(2+) chelator BAPTA-AM prevented downregulation of Cx43 and inhibition of GJIC.
+Moreover, co-treatment with antofine and a specific PKCβ inhibitor prevented endocytosis of gap junctions, downregulation of Cx43, and inhibition of GJIC.
+Taken together, these findings indicate that antofine induces Cx43 gap junction disassembly by the PKCβ signaling pathway.
+Inhibition of GJIC by antofine may undermine the neuroprotective effect of astrocytes in CNS.

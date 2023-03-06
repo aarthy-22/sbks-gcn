@@ -1,0 +1,8 @@
+Hydrothermal Growth of TiO2 Nanorod Arrays and In Situ Conversion to Nanotube Arrays for Highly Efficient Quantum Dot-Sensitized Solar Cells.
+TiO2 nanorod (NR) and nanotube (NT) arrays grown on transparent conductive substrates are attractive electrode for solar cells.
+In this paper, TiO2 NR arrays are hydrothermally grown on FTO substrate, and are in situ converted into NT arrays by hydrothermally etching.
+The TiO2 NR arrays are reported as single crystalline, but the TiO2 NR arrays are demonstrated to be polycrystalline with a bundle of 2-5 nm single crystalline nanocolumns grown along [001] throughout the whole NR from bottom to top.
+TiO2 NRs can be converted to NTs by hydrothermal selective etching of the (001) core and remaining the inert sidewall of (110) face.
+A growth mechanism of the NR and NT arrays is proposed.
+Quantum dot-sensitized solar cells (QDSCs) are fabricated by coating CdSe QDs on to the TiO2 arrays.
+After conversion from NRs to NTs, more QDs can be filled in the NTs and the energy conversion efficiency of the QDSCs almost double.

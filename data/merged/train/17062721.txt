@@ -1,0 +1,7 @@
+Treatment-related osteoporosis in men with prostate cancer.
+The intended therapeutic effect of gonadotropin-releasing hormone (GnRH) agonists is hypogonadism, a major cause of acquired osteoporosis in men.
+Consistent with this observation, GnRH agonists increase bone turnover and decrease bone mineral density, a surrogate for fracture risk.
+Large claims-based analyses and other retrospective studies provide compelling evidence that GnRH agonists increase risk of clinical fractures.
+Estrogens play a central role in homeostasis of the normal male skeleton, and estrogen deficiency rather than testosterone deficiency seems to be primarily responsible for the adverse skeletal effects of GnRH agonists.
+In randomized controlled trials, bisphosphonates (pamidronate and zoledronic acid) and selective estrogen receptor modulators (raloxifene and toremifene) increased bone mineral density in GnRH agonist-treated men.
+Two ongoing large randomized placebo-controlled studies will prospectively define fracture outcomes in men with prostate cancer and assess the efficacy of novel pharmacologic interventions (AMG162, toremifene) during GnRH agonist treatment.

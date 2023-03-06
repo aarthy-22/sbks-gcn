@@ -1,0 +1,7 @@
+Selective activation of thyroid hormone signaling pathways by GC-1: a new approach to controlling cholesterol and body weight.
+The current report describes progress in development of a selective thyroid hormone receptor modulator, GC-1.
+This compound binds selectively to the beta-isoform of the thyroid hormone receptor, and its uptake into the heart is relatively low.
+Studies in rats, mice and monkeys show that GC-1 lowers cholesterol with 600- to 1400-fold more potency and approximately two- to threefold more efficacy than atorvastatin, a compound that blocks HMG-CoA reductase.
+GC-1 also decreases plasma levels of triglyceride and lipoprotein (a), and induces loss of fat.
+These effects can be observed under conditions where there is either no or minimal effect on heart rate, and no detectable loss of muscle.
+Although more study is required, compounds of this class deserve further investigation for treating lipid disorders and obesity.

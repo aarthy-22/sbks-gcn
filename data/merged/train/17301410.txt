@@ -1,0 +1,15 @@
+The Detection of Dopamine Gene Receptors (DRD1-DRD5) Expression on Human Peripheral Blood Lymphocytes by Real Time PCR.
+There is interrelationship between the immune and nervous systems that is accomplished by the molecular mediators.
+Dopamine is one of the most important neurotransmitters.
+Five different dopamine receptor genes (DRD1, DRD2, DRD3, DRD4, and DRD5) have been recognized and cloned.
+The expression of the dopamine receptors is well characterized in the brain but little work has been done to examine their expression in other organ tissues.
+In certain diseases of the immune and nervous systems, alterations in dopamine receptors gene expression in different cells have been reported.
+This suggests that dopamine and its receptors have important role in pathophysiology of above-mentioned diseases.
+In the present study, using Real Time Polymerase Chain Reaction (PCR) technique, we investigated dopamine receptors genes expression in PBMC of normal individuals.
+The PBMC was separated from normal whole blood by Ficoll-hypaque; the total cellular RNA was then extracted and the cDNA was synthesized.
+This process followed by real time-PCR using primer pairs specific for five dopamine receptors mRNAs and beta-actin as internal control.
+The results showed the presence of all types of dopamine receptors in lymphocytes of normal individuals.
+The specificities of the obtained PCR products for the respective dopamine receptors fragments were confirmed by sequenced analysis capillary system.
+In conclusion, the present study has shown that human lymphocytes express five dopamine receptors DR1-DR5.
+However, the conclusive evidence on the possible function of these receptors in lymphocytes remains unknown.
+Because lymphocytes express all of the five neuronal dopamine receptors, it is quite reasonable to consider them as a model of dopaminergic neuron.

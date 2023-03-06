@@ -1,0 +1,6 @@
+Mazindol analogues as potential inhibitors of the cocaine binding site at the dopamine transporter.
+A series of mazindol (2) and homomazindol (3) analogues with a variety of electron-donating and electron-withdrawing groups in the pendant aryl group and the benzo ring C, as well as H, methoxy, and alkyl groups replacing the hydroxyl group were synthesized, and their binding affinities at the dopamine transporter (DAT) on rat or guinea pig striatal membranes were determined.
+Several active analogues were also evaluated for their ability to block uptake of DA, 5-HT, and NE and inhibit binding of [(125)I] RTI-55 at HEK-hDAT, HEK-hSERT, and HEK-hNET cells.
+Mazindane (26) was found to be a pro-drug, oxidizing (5-H --> 5-OH) to mazindol on rat striatal membranes and HEK-hDAT cells.
+The 4',7,8-trichloro analogue (38) of mazindol was the most potent and selective ligand for HEK-hDAT cells (DAT K(i) = 1.1 nM; SERT/DAT = 1283 and NET/DAT = 38).
+Experimental results strongly favor the cyclic or ol tautomers of 2 and 3 to bind more tightly at the DAT than the corresponding keto tautomers.

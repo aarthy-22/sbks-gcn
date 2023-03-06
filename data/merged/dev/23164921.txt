@@ -1,0 +1,9 @@
+Catalpol inhibits LPS plus IFN-γ-induced inflammatory response in astrocytes primary cultures.
+A large body of evidence suggests that the inflammatory reaction plays an important role in the pathogenesis of neurodegenerative diseases.
+Our previous studies described the neuroprotective effects of catalpol in lipopolysaccharide (LPS)-induced inflammatory models, in which catalpol was shown to prevent mesencephalic neuron death and ameliorate cognitive ability animals.
+To further investigate the protective effect and underlying mechanism of catalpol, astrocytes were pretreated with low (0.1mM) and high dose (0.5mM) catalpol for 1h prior to LPS plus interferon-γ stimulation.
+Biochemical analyses showed that NO and ROS production and iNOS activity were significantly reduced by catalpol.
+Data at transcriptional level also demonstrated that catalpol potently attenuated gene expressions involved in inflammation, such as iNOS, COX-2 and TLR4.
+In addition, our exploration further revealed that the suppressive action of catalpol on inflammation was mediated via inhibiting nuclear factor-κB (NF-κB) activation.
+Collectively, these results suggest that catalpol can exert inhibitory effects on the inflammatory reaction in astrocytes and that inactivation of NF-κB could be the major determinant for its anti-inflammatory mechanism.
+Therefore, catalpol may potentially be a highly effective therapeutic agent in treating neurodegenerative diseases associated with inflammation.

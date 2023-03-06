@@ -1,0 +1,14 @@
+Strontium Ranelate affects signaling from mechanically-stimulated osteocytes towards osteoclasts and osteoblasts.
+Strontium Ranelate (SrRan) is used to decrease the risk of bone fractures.
+Any factor that alters the release of paracrine signals by osteocytes in response to mechanical stimuli potentially affects bone mass and structure, and thus fracture resistance.
+We hypothesized that SrRan affects paracrine signaling from mechanically-stimulated osteocytes towards osteoclast-precursors and osteoblasts.
+MLO-Y4 osteocytes were cultured for 24h with SrRan (0.1-3mM) and either or not mechanically stimulated by pulsating fluid flow (PFF; 0.7 ± 0.3 Pa, 5 Hz) for 60 min.
+Nitric oxide (NO) and prostaglandin E(2) (PGE(2)) release, and expression of mechanoresponsive genes were quantified.
+Conditioned medium (CM) from osteocytes was added to mouse bone marrow cells for 7 days to assess osteoclastogenesis, or MC3T3-E1 osteoblasts for 4-16 days to measure osteogenic gene expression.
+SrRan (3mM) enhanced NO and PGE(2) release to the same extent in static osteocytes (NO: 1.6-fold; PGE(2): 2.8-fold) and PFF-stimulated osteocytes (NO: 1.3-fold; PGE(2): 2.6-fold).
+CM from PFF-treated osteocytes without SrRan enhanced Ki67 expression but reduced Runx2 and Ocn expression in osteoblasts.
+This effect on gene expression was not observed with CM obtained from osteocytes treated with the combination of PFF and 3mM SrRan.
+CM from PFF-treated osteocytes inhibited osteoclastogenesis by 1.9-fold.
+The combination of PFF and 3mM SrRan reduced osteocyte-stimulated osteoclastogenesis even more strongly (4.3-fold).
+In conclusion, SrRan affects paracrine signaling between mechanically-stimulated MLO-Y4 osteocytes and both osteoblasts and osteoclast precursors.
+The positive effects of SrRan on bone fracture resistance may thus be partly explained by altered paracrine signaling by osteocytes.

@@ -1,0 +1,10 @@
+Selectivity in progesterone and androgen receptor binding of progestagens used in oral contraceptives.
+The relative binding affinities (RBAs) of four progestational compounds (norethisterone, levonorgestrel, 3-keto-desogestrel and gestodene) for the human progesterone and androgen receptors were measured in MCF-7 cytosol and intact MCF-7 cells.
+For the binding to the progesterone receptor, both Org 2058 and Org 3236 (or 3-keto-desogestrel) were used as labelled ligands.
+The following ranking (low to high) for the RBA of the nuclear (intact cells) progesterone receptor irrespective of the ligand used is found: norethisterone much less than levonorgestrel less than 3-keto-destogestrel less than gestodene.
+The difference between the various progestagens is significant with the exception of that between 3-keto-desogestrel and gestodene, when Org 2058 is used as ligand.
+For the cytosolic progesterone receptor, the same order is found with the exception that similar RBAs are found for gestodene and 3-keto-desogestrel.
+The four progestagens clearly differ with respect to binding to the androgen receptor using dihydrotestosterone as labelled ligand in intact cells; the ranking (low to high) is: norethisterone less than 3 keto-desogestrel less than levonorgestrel and gestodene.
+The difference between 3-keto-desogestrel and levonorgestrel or gestodene is significant.
+The selectivity indices (ratio of the mean RBA for the progesterone receptor to that of androgen receptor) in intact cells are significantly higher for 3-keto-desogestrel and gestodene than for levonorgestrel and norethisterone.
+From these results we conclude that the introduction of the 18-methyl in norethisterone (levonorgestel) increases both the binding to the progesterone and androgen receptors.(ABSTRACT TRUNCATED AT 250 WORDS)

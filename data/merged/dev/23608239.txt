@@ -1,0 +1,13 @@
+Protective effect of ethyl acetate fraction of Acacia ferruginea DC.
+against ethanol-induced gastric ulcer in rats.
+ETHNOPHARMACOLOGICAL RELEVANCE: In traditional systems of medicine, stem bark of Acacia ferruginea DC. is used for the treatment of itching, leucoderma, ulcers, stomatitis and diseases of the blood.
+In the present study, we determined antioxidant and anti-ulcerogenic activities of Acacia ferruginea stem bark.
+MATERIALS AND METHODS: Acetone extract and its sub-fractions of Acacia ferruginea stem bark were subjected to assess their antioxidant potential using various in vitro systems such as DPPH(•), ABTS(•+) scavenging, FRAP and phosphomolybdenum reduction activities.
+Based on the antioxidant potential, the ethyl acetate fraction was used to evaluate the protective effect of ethanol-induced gastric damage in rat model.
+Enzyme activities such as superoxide dismutase, glutathione, catalase and lipid peroxidation were also determined in the stomach tissues.
+RESULTS: Ethyl acetate fraction (AFE) of Acacia ferruginea stem bark registered higher antioxidant and free radical scavenging activities than the crude acetone extract and other fractions.
+In addition, AFE exhibited that the IC50 values of DPPH (2.5µg/ml) and ABTS (1.8µg/ml) were lower when compared to the standard quercetin (12.4µg/ml and 4.7µg/ml, respectively).
+In ethanol induced gastric ulcer, administration of AFE at doses of 10mg/kg, 50mg/kg and 100mg/kg body weight prior to ethanol ingestion significantly protected the stomach ulceration.
+Consequently significant changes were observed in enzyme activities such as SOD, CAT, GSH and LPO in the stomach tissues when compared with ethanol control group.
+CONCLUSION: It is concluded that the ethyl acetate fraction of Acacia ferruginea stem bark possessed higher antioxidant and anti-ulcerogenic activities.
+Based on the results we suggest that Acacia ferruginea stem bark has potential to provide a therapeutic approach to ethanol mediated ulcer as an effective anti-ulcer agent.

@@ -1,0 +1,14 @@
+Acute Myocardial Infarction During Regadenoson Myocardial Perfusion Imaging.
+Pharmacologic stress testing uses vasodilators to provide objective evidence of myocardial ischemia.
+Adenosine and dipyridamole are nonselective adenosine receptor agonists that have been associated with myocardial infarction (MI) during intravenous infusion.
+Mechanisms postulated for this effect include coronary steal, transmural steal, global hypotension, and direct vasoconstriction.
+Regadenoson, a direct A2A agonist, was approved for use in stress testing in 2008.
+We describe a 68-year-old man who presented to our institution with typical angina, relieved by nitroglycerin.
+He did not have electrocardiogram (ECG) changes suggestive of myocardial pathology, and laboratory testing did not reveal a significant rise in troponin-I levels.
+To further assess the etiology of his symptoms, he underwent a pharmacologic stress test with regadenoson followed by technetium 99 m sestamibi.
+Six minutes after regadenoson infusion, the patient developed severe retrosternal chest pain accompanied by ST elevations on ECG.
+Sublingual nitroglycerin was administered that resolved both the pain and ECG changes.
+The patient subsequently underwent urgent coronary angiography and was found to have a 95% critical stenosis involving the left anterior descending artery.
+We conclude this case represents a MI secondary to coronary steal phenomenon induced by regadenoson infusion.
+Clinicians should be aware this adverse effect can occur despite the improved side-effect profile of regadenoson.
+Continuous monitoring of vital signs and the ECG with regular assessment of symptoms is imperative to identify this rare but potentially devastating adverse event.

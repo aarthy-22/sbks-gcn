@@ -1,0 +1,18 @@
+Sulfamates and their therapeutic potential.
+Starting from the very simple molecule sulfamic acid, O-substituted-, N-substituted-, or di-/tri-substituted sulfamates may be obtained, which show specific biological activities which were or started to be exploited for the design of many types of therapeutic agents.
+Among them, sulfamate inhibitors of aminoacyl-tRNA synthetases (aaRSs) were recently reported, constituting completely new classes of antibiotics, useful in the fight of drug-resistant infections.
+Anti-viral agents incorporating sulfamate moieties have also been obtained, with at least two types of such derivatives investigated: the nucleoside/nucleotide human immunodeficiency virus (HIV) reverse transcriptase inhibitors, and the HIV protease inhibitors (PIs).
+In the increasing armamentarium of anti-cancer drugs, the sulfamates occupy a special position, with at least two important targets evidenced so far: the steroid sulfatases (STSs) and the carbonic anhydrases (CAs).
+An impressing number of inhibitors of STSs of the sulfamate type have been reported in the last years, with several compounds, such as 667COUMATE among others, progressing to clinical trials for the treatment of hormone-dependent tumors (breast and prostate cancers).
+This field is rapidly evolving, with many types of new inhibitors being constantly reported and designed in such a way as to increase their anti-tumor properties, and decrease undesired features (for example, estrogenicity, a problem encountered with the first generation such inhibitors, such as EMATE).
+Among the many isozymes of CAs, at least two, CA IX and CA XII, are highly overexpressed in tumors, being generally absent in the normal tissues.
+Inhibition of tumor-associated CAs was hypothesized to lead to novel therapeutic approaches for the treatment of cancer.
+Many sulfamates act as very potent (low nanomolar) CA inhibitors.
+The X-ray crystal structure of the best-studied isozyme, CA II, with three sulfamates (sulfamic acid, topiramate, and EMATE) has recently been reported, which allowed for a rationale drug design of new inhibitors.
+Indeed, low nanomolar CA IX inhibitors of the sulfamate type have been reported, although such compounds also act as efficient inhibitors of isozymes CA I and II, which are not associated with tumors.
+A large number of anti-convulsant sulfamates have been described, with one such compound, topiramate, being widely used clinically as anti-epileptic drug.
+By taking into consideration a side effect of topiramate, an anti-epileptic drug leading to weight loss in some patients, it has recently been proposed to use this drug and related sulfamates for the treatment of obesity.
+The rationale of this use is based on the inhibition of the mitochondrial CA isozyme, CA V, involved in lipogenesis.
+Some sulfamates were also shown to possess potent inhibitory activity against acyl coenzyme A:cholesterol acyltransferase, an enzyme involved in cholesterol metabolism.
+One such agent, avasimibe, is in advanced clinical trials for the treatment of hyperlipidemia and atherosclerosis.
+Thus, the sulfamate moiety offers very attractive possibilities for the drug design of various pharmacological agents, which are on one hand due to the relative ease with which such compounds are synthesized, and on the other one, due to the fact that biological activity of most of them is impressive.

@@ -1,0 +1,6 @@
+Effect of body-weight loading onto the articular cartilage on the occurrence of quinolone-induced chondrotoxicity in juvenile rats.
+The effect of body-weight loading onto the articular cartilage on the occurrence of chondrotoxicity was investigated in male juvenile Sprague-Dawley rats given ofloxacin (OFLX) orally once at 900 mg/kg.
+Just after dosing of OFLX, hindlimb unloading was performed for 0, 2, 4, or 8 h by a tail-suspension method.
+Animals were sacrificed at 8h post-dose, and then the distal femoral articular cartilage was subjected to a histological examination and an investigation for gene expression of tumor necrosis factor receptor superfamily, member 12a (Tnfrsf12a); prostaglandin-endoperoxide synthase 2 (Ptgs2); plasminogen activator, urokinase receptor (Plaur); and matrix metalloproteinase 3 (Mmp3) by qRT-PCR analysis.
+As a result, cartilage lesions and up-regulations of these 4 genes that were seen in rats without the tail suspension were not observed in rats with the 8-h tail suspension, and a tendency to decrease in the incidence of the cartilage lesions and the gene expression was noted in a tail-suspension time dependent manner.
+Our results clearly indicate that body-weight loading onto the cartilage is necessary to induce cartilage lesions and gene expression of Tnfrsf12a, Ptgs2, Plaur, and Mmp3 in juvenile rats treated with OFLX.

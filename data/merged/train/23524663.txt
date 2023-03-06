@@ -1,0 +1,14 @@
+Metabolism Studies of Unformulated Internally [3H]-labeled siRNAs in Mice.
+Absorption, distribution, metabolism, and excretion properties of two unformulated model siRNAs were determined using a single internal [(3)H]-radiolabeling procedure, where the full-length oligonucleotides were radiolabeled by Br/(3)H-exchange.
+Tissue distribution, excretion, and mass balance of radioactivity were investigated in male CD-1 mice, following a single intravenous administration of the [(3)H]-siRNAs, at a target dose level of 5 mg/kg.
+Quantitative whole-body autoradiography (QWBA) and liquid scintillation counting techniques were used to determine tissue distribution.
+Radiochromatogram profiles were determined in plasma, tissue extracts and urine.
+Metabolites were separated by liquid chromatography and identified by radiodetection and high-resolution accurate mass spectrometry.
+In general, there was little difference in the distribution of total radiolabeled components after administration of the two unformulated [(3)H]-siRNAs.
+The radioactivity was rapidly and widely distributed throughout the body, and remained detectable in all tissues investigated at later time points (24 and 48 hours for [(3)H]-MRP4 and [(3)H]-SSB siRNA, respectively).
+After an initial rapid decline, concentrations of total radiolabeled components in dried blood declined at a much slower rate.
+A nearly complete mass balance was obtained for the [(3)H]-SSB siRNA and renal excretion was the main route of elimination (38%).
+The metabolism of the two model siRNAs was rapid and extensive.
+Five minutes after administration, no parent compound could be detected in plasma.
+Instead, radiolabeled nucleosides resulting from nuclease hydrolysis were observed.
+In the metabolism profiles obtained from various tissues only radiolabeled nucleosides were found, suggesting that siRNAs are rapidly metabolized and that the distribution pattern of total radiolabeled components can be ascribed to small molecular weight metabolites.

@@ -1,0 +1,8 @@
+Cabozantinib (XL184), a novel MET and VEGFR2 inhibitor, simultaneously suppresses metastasis, angiogenesis, and tumor growth.
+The signaling pathway of the receptor tyrosine kinase MET and its ligand hepatocyte growth factor (HGF) is important for cell growth, survival, and motility and is functionally linked to the signaling pathway of VEGF, which is widely recognized as a key effector in angiogenesis and cancer progression.
+Dysregulation of the MET/VEGF axis is found in a number of human malignancies and has been associated with tumorigenesis.
+Cabozantinib (XL184) is a small-molecule kinase inhibitor with potent activity toward MET and VEGF receptor 2 (VEGFR2), as well as a number of other receptor tyrosine kinases that have also been implicated in tumor pathobiology, including RET, KIT, AXL, and FLT3.
+Treatment with cabozantinib inhibited MET and VEGFR2 phosphorylation in vitro and in tumor models in vivo and led to significant reductions in cell invasion in vitro.
+In mouse models, cabozantinib dramatically altered tumor pathology, resulting in decreased tumor and endothelial cell proliferation coupled with increased apoptosis and dose-dependent inhibition of tumor growth in breast, lung, and glioma tumor models.
+Importantly, treatment with cabozantinib did not increase lung tumor burden in an experimental model of metastasis, which has been observed with inhibitors of VEGF signaling that do not target MET.
+Collectively, these data suggest that cabozantinib is a promising agent for inhibiting tumor angiogenesis and metastasis in cancers with dysregulated MET and VEGFR signaling.

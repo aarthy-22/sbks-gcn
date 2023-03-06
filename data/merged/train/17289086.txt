@@ -1,0 +1,10 @@
+Effect of long-term fluoxetine treatment on the human serotonin transporter in Caco-2 cells.
+Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) broadly used in the treatment of human mood disorders and gastrointestinal diseases involving the serotoninergic system.
+The effectiveness of this therapy depends on repeated long-term treatment.
+Most of the long-term studies in vivo of SSRI effects on serotoninergic activity have focused on their effects on autoreceptors or postsynaptic receptors.
+The chronic effect of SSRIs on the activity of the serotonin transporter (SERT) has been less studied and the results have been contradictory.
+The aim of this study was to determine the specific effect of long-term fluoxetine treatment on human serotonin transporter (hSERT) in vitro, by using the human enterocyte-like cell line Caco-2.
+Results show that fluoxetine diminished the 5-HT uptake in a concentration-dependent way and that this effect was reversible.
+Fluoxetine affected mainly the hSERT transport rate by reducing the availability of the transporter in the membrane with no significant alteration of either the total hSERT protein content or the hSERT mRNA level.
+These results suggest that the effect of fluoxetine on the expression of hSERT is post-translational and has shown itself to be independent of PKC and PKA activity.
+This study may be useful to clarify the effect of the long-term fluoxetine therapy in both gastrointestinal and central nervous system disorders.

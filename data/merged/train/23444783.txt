@@ -1,0 +1,12 @@
+Effects of insulin-like growth factor-1 on neurochemical phenotypes of cultured dorsal root ganglion neurons with excitotoxicity induced by glutamate.
+Insulin-like growth factor-1 (IGF-1) is a neurotrophic factor and plays an important role in promoting axonal growth from dorsal root ganglion (DRG) neurons.
+The neuropeptide- and neurofilament (NF)-immunoreactive (IR) neurons are two major phenotypical classes in DRG.
+Whether IGF-1 affects neurochemical phenotypes of DRG neurons remains unknown.
+In the present study, primary cultured DRG neurons were used to determine the effects of IGF-1 on neurochemical phenotypes of the neurons with excitotoxicity induced by glutamate (Glu).
+DRG neurons were dissociated and cultured for 48 hours and then exposed to IGF-1 (20 nmol/L), Glu (0.2 mmol/L), Glu (0.2 mmol/L) plus IGF-1 (20 nmol/L) for additional 24 hours.
+The DRG neurons were continuously exposed to culture media as control.
+After that, all above cultured DRG neurons were processed for detecting mRNA levels of calcitonin gene-related peptide (CGRP) and neurofilament-200 (NF-200) by real time-PCR analysis.
+CGRP and NF-200 expression in situ was determined by fluorescent labeling technique.
+The results showed that CGRP mRNA, but not NF-200 mRNA, increased after IGF-1 administration in the absence or presence of Glu.
+IGF-1 could increase the percentage of CGRP-expressing neurons, but not NF-200-expressing neurons, in the absence or presence of Glu.
+The ability of IGF-1 on CGRP expression may play a role in neurogenic inflammation or nociception.

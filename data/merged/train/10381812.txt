@@ -1,0 +1,11 @@
+Expression of multiple alpha1-adrenoceptors on vascular smooth muscle: correlation with the regulation of contraction.
+Previous work has shown that the genes encoding each alpha1-adrenoceptor subtype are coexpressed throughout the peripheral vascular system.
+We have evaluated subtype-selective antibodies as tools to determine the extent of protein expression in arteries.
+The alpha1A-, alpha1B-, and alpha1D-adrenoceptors were detected in the medial layer of the aorta, caudal, femoral, iliac, renal, superior mesenteric, and mesenteric resistance arteries.
+In Rat1 fibroblasts expressing each subtype, immunoreactivity was noted both on the cell surface and in a perinuclear orientation.
+Intense alpha1B-adrenoceptor immunostaining was similarly localized in cultured femoral and renal vascular smooth muscle cells.
+Although the cellular localization appeared to be the same, immunoreactivity obtained with alpha1A- and alpha1D-adrenoceptors was much less intense than that with the alpha1B-adrenoceptor.
+The alpha1A-adrenoceptor selective agonist A-61603 was 22-fold more potent in activating renal artery contraction when compared with the femoral artery.
+The expression of each alpha1-adrenoceptor was significantly decreased by in vivo application of antisense oligonucleotides targeted against each subtype.
+Inhibition of the expression of only one, the alpha1A in renal and the alpha1D in femoral arteries, reduced the contractile response to naphazoline.
+The results show: 1) subtype-selective antibodies can be used in tissues and cell culture to localize the alpha1-adrenoceptor subtypes, 2) in addition to expression on the cell surface, the alpha1-adrenoceptors are expressed intracellularly, and 3) despite expression of all adrenoceptors, a single subtype mediates the contractile response in the femoral and renal arteries.

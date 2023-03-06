@@ -1,0 +1,3 @@
+Tipping the energy balance toward longevity.
+AMPK is a cellular energy sensor conserved across eukaryotes that in C. elegans prolongs life span and mimics dietary restriction.
+Stenesen and colleagues (2012) activate AMPK both directly and indirectly by altering AMP biosynthesis to slow aging in Drosophila, highlighting AMPK as a conserved life span modulator that links energy sensing to longevity.

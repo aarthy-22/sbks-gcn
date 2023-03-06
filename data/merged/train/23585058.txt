@@ -1,0 +1,11 @@
+NMDA Receptor Activation Down-Regulates Expression of δ Subunit-Containing GABA-A Receptors in Cultured Hippocampal Neurons.
+Neurosteroids are endogenous allosteric modulators of γ amino-butyric acid type A receptors (GABARs), and enhance GABAR-mediated inhibition.
+However, GABARs expressed on hippocampal dentate granule neurons of epileptic animals are modified such that their neurosteroid sensitivity is reduced and δ subunit expression is diminished.
+The molecular mechanisms triggering this GABAR plasticity were explored.
+In the cultured hippocampal neurons treatment with NMDA (10 μM) for 48 hrs reduced surface expression of δ and α4 subunits, but did not increase expression of γ2 subunits.
+The tonic current recorded from neurons in NMDA-treated cultures was reduced, and its neurosteroid modulation was also diminished.
+In contrast, synaptic inhibition and its modulation by neurosteroids were preserved in these neurons.
+The time course of NMDA effects on surface and total δ subunit expression were distinct; shorter (6 hrs) treatment decreased surface expression, whereas longer treatment reduced both surface and total expression.
+APV blocked NMDA effects on δ subunit expression.
+Chelation of calcium ions by BAPTA-AM or blockade of ERK1/2 activation by UO126 also prevented the NMDA effects.
+Thus prolonged activation of NMDA receptors in hippocampal neurons reduced GABAR δ subunit expression through Ca2+ entry and at least in part by ERK1/2 activation.

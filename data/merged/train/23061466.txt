@@ -1,0 +1,11 @@
+Human ether-a-go-go-related gene channel blockers and its structural analysis for drug design.
+The human ether-a-go-go-related gene (hERG) is a K+ channel protein mainly expressed in the heart and the nervous systems and its blockade by non-cardiovascular acting drugs resulted in tachycardia and sudden death.
+In this present review, we have focused the physicochemical properties responsible for the hERG blocking activity of structurally different compounds.
+The reported research works showed that the hydrophobicity on the van der Waals (vdW) surface of the molecules (aroused from the aromatic ring) necessary for the hERG blocking activity along with topological and electronic properties.
+The quinolizidine alkaloids (natural products) such as oxymatrine, sophoridine, sophocarpine and matrine carry the common molecular structure of O=C=N-C-C-C-N that possessed positive ionotropic effect and hERG blocking activity.
+Acehytisine hydrochloride (previously named Guangfu base A) was isolated from the root of Aconitum coreanum (Levl.), is an anti-arrhythmic drug in phase IV clinical trial.
+The isoquinoline alkaloid, neferine (Nef) induces a concentration-dependent decrease in current amplitude (IC50 of 7.419 MM).
+Most of these natural product compounds contain non-flexible aromatic structures but have significant activity due to the presence of optimum hydrophobicity.
+Recent research works revealed that Eag and hERG channels are expressed by a variety of cancer cell lines and tissues.
+The Eag channel showed an oncogenic potential while hERG channels are associated with more aggressive tumors and have a role in mediating invasion.
+This review concluded that the consideration of physicochemical properties necessary for the hERG blocking activity will guide to develop novel drugs with less cardiotoxicity.

@@ -1,0 +1,11 @@
+Evidence of mitochondrial dysfunction and impaired ROS detoxifying machinery in Fanconi Anemia cells.
+Fanconi Anemia (FA) is a rare genetic disorder associated with a bone-marrow failure, cancer predisposition and hypersensitivity to DNA crosslinking agents.
+Majority of the 15 FA genes and encoded proteins characterized so far are integrated into DNA repair pathways, however, other important functions cannot be excluded.
+FA cells are sensitive to oxidants, and accumulation of oxidized proteins has been characterized for several FA subgroups.
+Clinical phenotypes of both FA and other closely related diseases suggest altered functions of mitochondria, organelles responsible for cellular energetic metabolism, and also serving as an important producer and the most susceptible target from reactive oxidative species (ROS).
+In this study, we have shown that elevated level of mitochondrial ROS in FA cells is in parallel with the decrease of mitochondrial membrane potential, the decrease of ATP production, impaired oxygen uptake and pathological changes in the morphology of mitochondria.
+This is accompanied by inactivation of enzymes that are essential for the energy production (F1F0ATPase and cytochrome C oxidase) and detoxification of ROS (superoxide dismutase, SOD1).
+In turn, overexpression of SOD1 could rescue oxygen consumption rate in FA-deficient cells.
+Importantly, the depletion of mitochondria improved survival rate of mitomycin C treated FA cells suggesting that hypersensitivity of FA cells to chemotherapeutic drugs could be in part due to the mitochondria-mediated oxidative stress.
+On the basis of our results, we propose that deficiency in FA genes lead to disabling mitochondrial ROS-scavenging machinery further affecting mitochondrial functions and suppressing cell respiration.
+Oncogene advance online publication, 14 January 2013; doi:10.1038/onc.2012.583.

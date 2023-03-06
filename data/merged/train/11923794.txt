@@ -1,0 +1,12 @@
+Pharmacodynamic profile of the direct thrombin antagonist bivalirudin given in combination with the glycoprotein IIb/IIIa antagonist eptifibatide.
+BACKGROUND: Because of the adverse characteristics associated with heparin, direct antagonists of thrombin have been investigated as anticoagulants during percutaneous coronary interventions.
+However, the hematologic and clinical interactions between direct thrombin antagonists and inhibitors of platelet glycoprotein IIb-IIIa are incompletely explored.
+METHODS: Forty-two patients who underwent elective percutaneous coronary intervention were randomized to receive a bivalirudin 1.0 mg/kg bolus followed by a 4-hour infusion at 2.5 mg/kg/h; a bivalirudin 0.75 mg/kg bolus followed by a 4-hour infusion at 1.75 mg/kg; or a heparin 60 U/kg bolus.
+All the patients also received eptifibatide, given as 2 sequential boluses of 180 microg/kg followed by a 2 microg/kg/min infusion for 18 to 24 hours, and aspirin.
+RESULTS: After the bolus dose of the study drug, turbidimetric platelet aggregation in response to 5 micromol/L adenosine diphosphate increased in patients assigned to heparin but not those assigned to bivalirudin.
+After eptifibatide, platelet aggregation was eliminated in all 3 treatment groups.
+The effect of heparin and the effects of both bivalirudin regimens on the formation of thrombin antithrombin complexes and prothrombin fragment 1.2 were comparable.
+Neither agent affected the formation of platelet-monocyte complexes or expression of CD 63 lysosomal antigen.
+There were no major bleeding events, and a single non-Q-wave myocardial infarction (MI) occurred in a patient treated with bivalirudin.
+CONCLUSION: These findings show the feasibility of combining the direct thrombin antagonist bivalirudin with a potent antagonist of platelet glycoprotein IIb-IIIa.
+Clinical trials are needed to assess the safety and efficacy of this combination.

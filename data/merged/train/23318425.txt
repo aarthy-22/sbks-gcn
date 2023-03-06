@@ -1,0 +1,13 @@
+DMAP1 is an essential regulator of ATM activity and function.
+The hereditary autosomal recessive disease ataxia telangiectasia (A-T) is caused by mutation in the DNA damage kinase ATM.
+ATM's main function is to orchestrate DNA repair, thereby maintaining genomic stability.
+ATM activity is increased in response to several stimuli, including ionising radiation (IR) and hypotonic stress.
+DNMT1-associated protein 1 (DMAP1) is a member of the TIP60-p400 histone acetyl transferase (HAT) complex, which acetylates histone H4 at lysine 16 (H4K16) to affect chromatin relaxation and modulate ATM activation.
+Here we demonstrate that DMAP1 is required for both modes of ATM activation.
+Knockdown of DMAP1 impaired IR-induced ATM activation and consequently resulted in radiosensitivity and impaired the G2/M checkpoint.
+Moreover, DMAP1 was also required for efficient ATM signalling in response to hypotonic stress.
+Overexpression of DMAP1 increased IR-induced ATM substrate phosphorylation, suggesting that DMAP1 function is rate limiting for ATM signalling.
+DMAP1 associated with TIP60-dependent HAT activity, and depletion of DMAP1 reduced H4K16 acetylation in response to DNA damage.
+Treatment with histone deacetylase inhibitors rescued IR-induced ATM signalling in Dmap1-depleted cells.
+These results suggest that DMAP1 is a critical regulator of ATM activity and function.
+Oncogene advance online publication, 14 January 2013; doi:10.1038/onc.2012.597.

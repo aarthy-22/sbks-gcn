@@ -1,0 +1,13 @@
+Electrophysiological properties of mouse horizontal cell GABAA receptors.
+GABA-induced currents have been characterized in isolated horizontal cells from lower vertebrates but not in mammalian horizontal cells.
+Therefore horizontal cells were isolated after enzymatical and mechanical dissociation of the adult mouse retina and visually identified.
+We recorded from horizontal cell bodies using the whole cell and outside-out configuration of the patch-clamp technique.
+Extracellular application of GABA induced inward currents carried by chloride ions.
+GABA-evoked currents were completely and reversibly blocked by the competitive GABAA receptor antagonist bicuculline (IC50 = 1.7 microM), indicating expression of GABAA but not GABAC receptors.
+Their affinity for GABA was moderate (EC50 = 30 microM), and the Hill coefficient was 1.3, corresponding to two GABA binding sites.
+GABA responses were partially reduced by picrotoxin with differential effects on peak and steady-state current values.
+Zinc blocked the GABA response with an IC50 value of 7.3 microM in a noncompetitive manner.
+Furthermore, GABA receptors of horizontal cells were modulated by extracellular application of diazepam, zolpidem, methyl 6,7-dimethoxy-4-ethyl-beta-carboxylate, pentobarbital, and alphaxalone, thus showing typical pharmacological properties of CNS GABAA receptors.
+GABA-evoked single-channel currents were characterized by a main conductance state of 29.8 pS and two subconductance states (20.2 and 10.8 pS, respectively).
+Kinetic analysis of single-channel events within bursts revealed similar mean open and closed times for the main conductance and the 20.2-pS subconductance state, resulting in open probabilities of 44.6 and 42.7%, respectively.
+The ratio of open to closed times, however, was significantly different for the 10.8-pS subconductance state with an open probability of 57.2%.

@@ -1,0 +1,9 @@
+Androgens directly stimulate proliferation of bone cells in vitro.
+This report describes the first observation of a direct mitogenic effect of androgens on isolated osteoblastic cells in serum-free culture.
+[3H]thymidine incorporation into DNA and cell counts were used as measures of cell proliferation.
+The percentage of cells that stained for alkaline phosphatase was used as a measure of differentiation.
+Dihydrotestosterone (DHT) enhanced mouse osteoblastic cell proliferation in a dose dependent manner over a wide range of doses (10(-8) to 10(-11) molar), and was maximally active at 10(-9) M. DHT also stimulated proliferation in human osteoblast cell cultures and in cultures of the human osteosarcoma cell line, TE89.
+Testosterone, fluoxymesterone (a synthetic androgenic steroid) and methenolone (an anabolic steroid) were also mitogenic in the mouse bone cell system.
+The mitogenic effect of DHT on bone cells was inhibited by antiandrogens (hydroxyflutamide and cyproterone acetate) which compete for binding to the androgen receptor.
+In addition to effects on cell proliferation, DHT increased the percentage of alkaline phosphatase (ALP) positive cells in all three bone cell systems tested, and this effect was inhibited by antiandrogens.
+We conclude that androgens can stimulate human and murine osteoblastic cell proliferation in vitro, and induce expression of the osteoblast-line differentiation marker ALP, presumably by an androgen receptor mediated mechanism.

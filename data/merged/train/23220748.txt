@@ -1,0 +1,9 @@
+Ticlopidine, a cholestatic liver injury-inducible drug, causes dysfunction of bile formation via diminished biliary secretion of phospholipids: involvement of biliary-excreted glutathione-conjugated ticlopidine metabolites.
+The antiplatelet drug, ticlopidine (TIC), reportedly causes cholestatic liver injuries.
+The present study analyzed the effect of TIC on bile formation, revealing that the biliary secretion of phospholipids was significantly decreased in TIC-administered Sprague Dawley (SD) rats.
+However, the effect of TIC on biliary phospholipids was not observed in SD rats pretreated with diethylaminoethyl diphenylpropylacetate that inhibits cytochrome P450s (P450), or in Eisai hyperbilirubinemic rats (EHBR) lacking functional multidrug resistance-associated protein 2 (MRP2/ABCC2).
+These results suggest that glutathione-conjugated TIC metabolites (TIC-SGs), which were formed in the liver after P450s-mediated metabolism and were excreted extensively into bile by MRP2, mediated the observed alterations of the bile composition.
+Administration of TIC caused significant liver injuries in SD rats, with decreased biliary phospholipids, but not in EHBR, consistent with the in vitro observation that phospholipid-bile acid-mixed micelles moderated the cytotoxic effects of bile acids.
+Further analyses revealed that TIC-SGs did not directly inhibit multidrug resistance 3 P-glycoprotein (MDR3/ABCB4)-mediated phosphatidylcholine efflux in vitro.
+Because the diminished biliary secretion of phospholipids with TIC administration was restored by taurocholate infusion in SD rats, the decreased biliary concentration of bile acids, due to the stimulation of bile acid-independent bile flow driven by TIC-SGs, might have indirectly attenuated phospholipid secretion.
+In conclusion, extensive biliary excretion of TIC-SGs decreased the biliary secretion of phospholipids, which might have increased the risk of TIC-induced cholestatic liver injury.

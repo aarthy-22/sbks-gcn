@@ -1,0 +1,12 @@
+Polyamine metabolism in a member of the phylum Microspora (Encephalitozoon cuniculi): effects of polyamine analogues.
+The uptake, biosynthesis and catabolism of polyamines in the microsporidian parasite Encephalitozoon cuniculi are detailed with reference to the effects of oligoamine and arylamine analogues of polyamines.
+Enc. cuniculi, an intracellular parasite of mammalian cells, has both biosynthetic and catabolic enzymes of polyamine metabolism, as demonstrated in cell-free extracts of mature spores.
+The uptake of polyamines was measured in immature, pre-emergent spores isolated from host cells by Percoll gradient.
+Spermine was rapidly taken up and metabolized to spermidine and an unknown, possibly acetamidopropanal, by spermidine/spermine N(1)-acetyltransferase (SSAT) and polyamine oxidase (PAO).
+Most of the spermidine and the unknown product were found in the cell incubation medium, indicating they were released from the cell.
+bis(Ethyl) oligoamine analogues of polyamines, such as SL-11144 and SL-11158, as well as arylamine analogues [BW-1, a bis(phenylbenzyl) 3-7-3 analogue] blocked uptake and interconversion of spermine at micromolar levels and, in the case of BW-1, acted as substrate for PAO.
+The Enc. cuniculi PAO activity differed from that found in mammalian cells with respect to pH optimum, substrate specificity and sensitivity to known PAO inhibitors.
+SL-11158 inhibited SSAT activity with a mixed type of inhibition in which the analogue had a 70-fold higher affinity for the enzyme than the natural substrate, spermine.
+The interest in Enc.
+cuniculi polyamine metabolism and the biochemical effects of these polyamine analogues is warranted since they cure model infections of Enc.
+cuniculi in mice and are potential candidates for human clinical trials.

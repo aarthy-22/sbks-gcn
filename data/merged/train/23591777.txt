@@ -1,0 +1,10 @@
+Hepatoprotective effect of methylsulfonylmethane against carbon tetrachloride-induced acute liver injury in rats.
+This study evaluated the effect of methylsulfonylmethane (MSM) on carbon tetrachloride (CCl4)-induced acute liver injury in rats.
+A single injection of CCl4 (2 ml/kg, i.p.) increased serum aminotransferases (ALT and AST) activities.
+In addition, CCl4 treatment led to elevation of hepatic malondialdehyde (MDA) content as well as decrease in superoxide dismutase (SOD) and catalase (CAT) activities.
+Furthermore, cytochrome P450 2E1 (CYP2E1) content was suppressed while proinflammatory cytokines tumour necrosis factor-α (TNF-α) and interleukin-6 (IL-6) levels increased in liver tissue after CCl4 administration.
+We showed that acute CCl4-induced damage was accompanied by a rise in Bax/Bcl2 ratio indicating apoptosis.
+Pre-treatment with MSM (400 mg/kg) inhibited the increases of serum ALT and AST activities, decreased hepatic MDA, TNF-α, IL-6 and Bax/Bcl2 ratio compared to CCl4 treated group.
+On the other hand, MSM raised SOD and CAT activities as well as CYP2E1 level in liver tissues.
+The present study shows that MSM possesses a hepatoprotective effect against CCl4-induced liver injury in rats.
+This protective effect might be through its antioxidant, anti-inflammatory and antiapoptotic properties.

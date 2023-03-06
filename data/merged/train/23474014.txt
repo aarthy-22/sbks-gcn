@@ -1,0 +1,9 @@
+Time-dependent effects of corticosterone on reward-based decision-making in a rodent model of the Iowa Gambling Task.
+Corticosteroid hormones, released after stress, are known to change neuronal activity in two time-domains: within minutes via non-genomic pathways and with a delay of >1 h through pathways involving transcriptional regulation.
+Recent evidence in rodents and humans indicates that these two modes of corticosteroid action differently affect cognitive tasks.
+Here, we investigated whether reward-based decision-making, in a rat model of the Iowa Gambling Task (rIGT), is also differently altered by rapid versus delayed actions of corticosterone.
+We targeted the rapid and delayed time domain by injecting corticosterone (CORT, 1 mg/kg, s.c.) at 30 min (rapid) or 180 min (delayed) respectively prior to behavioural testing, during the final 3 days of the behavioural paradigm.
+In saline treated rats, the number of visits to the disadvantageous arm decreased over trial blocks, whilst this was attenuated when CORT was administered 30 min before testing.
+This attenuation was associated with a significantly increased c-Fos expression in the lateral orbitofrontal cortex and insular cortex, and a trend for an increase in the infralimbic cortex.
+The rapid corticosteroid effect contrasted with treatment 180 min before testing, where the number of visits to the disadvantageous arm as well as c-Fos labelling was not affected.
+These findings indicate that rapid corticosteroid actions impair reward-based decision-making.

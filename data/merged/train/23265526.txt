@@ -1,0 +1,8 @@
+The antioxidant activity of teas measured by the FRAP method adapted to the FIA system: optimising the conditions using the response surface methodology.
+This study proposes a FRAP assay adapted to FIA system with a merging zones configuration.
+The FIA system conditions were optimised with the response surface methodology using the central composite rotatable design.
+The optimisation parameters studied were: the carrier flow rate, the lengths of the sample and reagent loops, and reactor length.
+The conditions selected in accordance with the results were: carrier flow rate of 1.00 ml/min, length of the loops 18.2 cm and length of the reaction coil 210.1 cm.
+The detection and quantification limits were, respectively, 28.6 and 86.8 μmol/l Fe(2+), and the precision was 1.27%.
+The proposed method had an analytical frequency of 30 samples/h and about 95% less volume of FRAP reagent was consumed.
+The FRAP assay adapted to the FIA system under the optimised conditions was utilised to determine the antioxidant activity of tea samples.

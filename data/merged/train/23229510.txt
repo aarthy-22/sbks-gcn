@@ -1,0 +1,13 @@
+Identification and characterization of a potent activator of p53-independent cellular senescence via a small-molecule screen for modifiers of the integrated stress response.
+The Integrated Stress Response (ISR) is a signaling program that enables cellular adaptation to stressful conditions like hypoxia and nutrient deprivation in the tumor microenvironment.
+An important effector of the ISR is activating transcription factor 4 (ATF4), a transcription factor that regulates genes involved in redox homeostasis and amino acid metabolism and transport.
+Because both inhibition and overactivation of the ISR can induce tumor cell death, modulators of ATF4 expression could prove to be clinically useful.
+In this study, chemical libraries were screened for modulators of ATF4 expression.
+We identified one compound, E235 (N-(1-benzyl-piperidin-4-yl)-2-(4-fluoro-phenyl)-benzo[d]imidazo[2,1-b]thiazole-7-carboxamide), that activated the ISR and dose-dependently increased levels of ATF4 in transformed cells.
+A dose-dependent decrease in viability was observed in several mouse and human tumor cell lines, and knockdown of ATF4 significantly increased the antiproliferative effects of E235.
+Interestingly, low μM doses of E235 induced senescence in many cell types, including HT1080 human fibrosarcoma and B16F10 mouse melanoma cells.
+E235-mediated induction of senescence was not dependent on p21 or p53; however, p21 conferred protection against the growth inhibitory effects of E235.
+Treatment with E235 resulted in an increase in cells arrested at the G2/M phase with a concurrent decrease in S-phase cells.
+E235 also activated DNA damage response signaling, resulting in increased levels of Ser15-phosphorylated p53, γ-H2AX, and phosphorylated checkpoint kinase 2 (Chk2), although E235 does not appear to cause physical DNA damage.
+Induction of γ-H2AX was abrogated in ATF4 knockdown cells.
+Together, these results suggest that modulation of the ISR pathway with the small molecule E235 could be a promising antitumor strategy.

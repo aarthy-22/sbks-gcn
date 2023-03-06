@@ -1,0 +1,9 @@
+Effects of Yerba Mate tea (Ilex paraguariensis) on vascular endothelial function and liver lipoprotein receptor gene expression in hyperlipidemic rats.
+Yerba Mate tea (Mate), an infusion made from the leaves of the tree Ilex paraguariensis, is a widely consumed beverage in South America.
+This study was performed to investigate the effect of Mate tea on vascular endothelial dysfunction and liver lipoprotein receptor gene expression in hyperlipidemic rats, with the aim of gaining insight into its known lipid-lowering protective mechanisms.
+Sixty male Sprague-Dawley rats were randomly divided into five groups: a normal control group (NC), a high-fat diet group (HC), and three Mate tea-treated groups.
+In the NC group, rats were fed with standard diet while in the other groups the rats were fed a high-fat diet for 8weeks.
+In the Mate tea-treated groups, the rats were fed a high-fat diet supplemented with low, moderate or high concentrations of aqueous Mate tea extract for the final 4weeks.
+Compared to the HC group, aqueous Mate tea extract significantly reduced endothelin (ET) and thromboxane B(2) (TXB(2)) levels and increased nitric oxide (NO) and 6-keto prostaglandin F(1α) (6-keto-PGF(1α)) levels in the blood, reduced the pathological damage of vascular endothelial cells, decreased intercellular adhesion molecule-1 (ICAM-1) protein expression in the thoracic aorta, and upregulated mRNA expression of hepatic low density lipoprotein receptor (LDLR) and scavenger receptor B1 (SR-B1).
+These findings indicate that Mate tea administration might have a regulatory effect on blood fat and endothelial function in hyperlipidemia rats.
+The mechanism may involve protecting vascular endothelial cell function and upregulating the expression of LDLR and SR-B1 genes, thereby inhibiting the occurrence of atherosclerosis.

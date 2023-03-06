@@ -1,0 +1,9 @@
+Tyrosinemia I, a model for human diseases mediated by 2-oxoacid-utilizing dioxygenases: hepatotoxin suppression by NTBC does not normalize hepatic collagen metabolism.
+OBJECTIVES: Medical treatment of tyrosinemia I relies on the herbicide NTBC [Orfadin 2-(2-nitro-4-trifluoromethylbenzoyl)-cyclohexane-1,3-dione], an inhibitor of plant and mammalian 2-oxoacid-utilizing dioxygenases with a collective catalytic cycle ('HAG' mechanism).
+We hypothesize that NTBC-treated tyrosinemia I is a human model for the pathogenic role of two major enzymes in this class, 4-hydroxyphenylpyruvate dioxygenase (4-HPPD; EC 1.13.11.27) and prolyl 4-hydroxylase (P4-H; E.C. 1.14.11.2), essential for tyrosine and collagen metabolism, respectively.
+METHODS: In a patient with established tyrosinemia I, we monitored the in vivo activities of 4-HPPD and P4-H via five biomarkers before and during NTBC medication.
+Hypothesis testing at the molecular level was performed by computational modeling of NTBC binding to the crystal structure-derived active site of 4-HPPD, and then relating these findings to our experimental results and to known P4-H data.
+RESULTS: NTBC rapidly normalized the biomarkers for 4-HPPD activity.
+However, those for P4-H activity remained uniformly elevated after one hundred days on NTBC, the PIIINP biomarker even increasing above its grossly abnormal, initial level.
+This selective enzyme inhibition despite a collective catalytic cycle is attributed to the conformation of NTBC, which only fits the active site of 4-HPPD, as confirmed by its crystal structure.
+CONCLUSIONS: Normalization of hepatic collagen formation, highly desirable in all fibrotic liver diseases, is not achieved by NTBC in tyrosinemia I. By establishing the molecular cause for this failure, our results also establish a rational approach to identify inhibitors that achieve that goal, either by joint 4-HPPD / P-4H inhibition, or by inhibition of only P-4H.

@@ -1,0 +1,11 @@
+Compensatory responses to pyruvate carboxylase suppression in islet beta-cells.
+Preservation of glucose-stimulated insulin secretion.
+We have previously reported that glucose-stimulated insulin secretion (GSIS) is tightly correlated with pyruvate carboxylase (PC)-catalyzed anaplerotic flux into the tricarboxylic acid cycle and stimulation of pyruvate cycling activity.
+To further evaluate the role of PC in beta-cell function, we constructed a recombinant adenovirus containing a small interfering RNA (siRNA) specific to PC (Ad-siPC).
+Ad-siPC reduced PC mRNA levels by 83 and 64% and PC protein by 56 and 35% in INS-1-derived 832/13 cells and primary rat islets, respectively.
+Surprisingly, this manipulation did not impair GSIS in rat islets.
+In Ad-siPC-treated 832/13 cells, GSIS was slightly increased, whereas glycolytic rate and glucose oxidation were unaffected.
+Flux through PC at high glucose was decreased by only 20%, suggesting an increase in PC-specific activity.
+Acetyl carnitine, a surrogate for acetyl-CoA, an allosteric activator of PC, was increased by 36% in Ad-siPC-treated cells, suggesting a mechanism by which PC enzymatic activity is maintained with suppressed PC protein levels.
+In addition, the NADPH:NADP ratio, a proposed coupling factor for GSIS, was unaffected in Ad-siPC-treated cells.
+We conclude that beta-cells activate compensatory mechanisms in response to suppression of PC expression that prevent impairment of anaplerosis, pyruvate cycling, NAPDH production, and GSIS.

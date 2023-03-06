@@ -1,0 +1,11 @@
+Herbicidal inhibitors of amino acid biosynthesis and herbicide-tolerant crops.
+Acetohydroxyacid synthase (AHAS) inhibitors interfere with branched-chain amino acid biosynthesis by inhibiting AHAS.
+Glyphosate affects aromatic amino acid biosynthesis by inhibiting 5-enolpyruvylshikimate-3-phosphate synthase (EPSPS).
+Glufosinate inhibits glutamine synthetase and blocks biosynthesis of glutamine.
+AHAS gene variants that confer tolerance to AHAS inhibitors have been discovered in plants through selection or mutagenesis.
+Imidazolinone-tolerant crops have been commercialized based on these AHAS gene variants.
+A modified maize EPSPS gene and CP4-EPSPS gene from Agrobacterium sp. have been used to transform plants for target-based tolerance to glyphosate.
+A gox gene isolated from Ochrobactrum anthropi has also been employed to encode glyphosate oxidoreductase to detoxify glyphosate in plants.
+Glyphosate-tolerant crops with EPSPS transgene alone or both EPSPS and gox transgenes have been commercialized.
+Similarly, bar and pat genes isolated from Streptomyces hygroscopicus and S. viridochromogenes, respectively, have been inserted into plants to encode phosphinothricin N-acetyltransferase to detoxify glufosinate.
+Glufosinate-tolerant crops have been commercialized using one of these two transgenes.

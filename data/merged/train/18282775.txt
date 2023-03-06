@@ -1,0 +1,15 @@
+Phosphodiesterase 4 inhibitors delay human eosinophil and neutrophil apoptosis in the absence and presence of salbutamol.
+In asthma and chronic obstructive pulmonary disease (COPD), the number of eosinophils and neutrophils in the lung is increased.
+One described mechanism leading to the impaired clearance of these cells from the lung is the delay in their programmed cell death (apoptosis).
+Selective inhibitors of phosphodiesterases (PDEs) are under development for the treatment of lung diseases because of their anti-inflammatory and bronchodilator activity.
+The aim of the present study was to establish whether inhibitors of PDE3, PDE4 and PDE5 modulate human eosinophil or neutrophil apoptosis or beta 2-adrenoceptor agonist- or cytokine-afforded survival.
+We also evaluated whether a PDE4 inhibitor could modulate the effect of a corticosteroid on eosinophil and neutrophil apoptosis.
+Apoptosis was measured by using the relative DNA fragmentation assay and Annexin-V binding.
+Inhibitors of PDE4 (rolipram; 0.1-10 microM) and PDE3 (cilostazol; 0.1-10 microM) delayed spontaneous eosinophil apoptosis maximally by 25% and 15%, respectively.
+A combination of a PDE4 or PDE3 inhibitor (10 microM) with salbutamol (100 nM) further delayed eosinophil apoptosis maximally by 42-49%.
+In neutrophils, rolipram (10 microM) also decreased apoptosis with a maximal inhibition of 13%.
+The combination of rolipram (10 microM) and salbutamol (100 nM) produced a 27% inhibition of neutrophil apoptosis.
+Inhibitor of cGMP-specific PDE5 (zaprinast; 0.1-10 microM) did not affect eosinophil apoptosis and only slightly increased spontaneous neutrophil apoptosis.
+The effect of budesonide on apoptosis was not significantly modulated by a PDE4 inhibitor in eosinophils or neutrophils.
+The present results show that selective inhibitors of cAMP-hydrolyzing PDEs (PDE3 and PDE4) delay eosinophil apoptosis and, thus, increase their survival in vitro.
+Furthermore, beta 2-adrenoceptor agonists enhance the anti-apoptotic effects of PDE3 and PDE4 inhibitors, suggesting that such drug combinations may prolong eosinophil and neutrophil longevity in the lung.

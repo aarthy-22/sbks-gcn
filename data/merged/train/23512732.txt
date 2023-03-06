@@ -1,0 +1,12 @@
+Epigallocatechin-3-Gallate Inhibits Collagen Production of Nasal Polyp-Derived Fibroblasts.
+Nasal polyps are chronic inflammatory conditions characterized by myofibroblast differentiation and extracelluar matrix accumulation.
+The major catechin from green tea is (-)-epigallocatechin-3-gallate (EGCG), which has garnered attention for its potential to prevent oxidative stress-related diseases.
+The purpose of this study was twofold: (i) to determine the effect of EGCG on fibroblast differentiation into myofibroblasts and extracellular matrix accumulation in transforming growth factor (TGF)-β1-induced nasal polyp-derived fibroblasts (NPDFs) and (ii) to determine if the antioxidative effect of EGCG on reactive oxygen species (ROS) production in TGF-β1-induced NPDFs is involved in the aforementioned processes.
+TGF-β1-induced NPDFs were treated with or without EGCG.
+α-smooth muscle actin (α-SMA) and collagen type I mRNA were analyzed by reverse transcription-polymerase chain reaction.
+α-SMA protein was also detected using immunofluorescent staining.
+The amount of total soluble collagen was analyzed by Sircol collagen assay.
+ROS activity was measured by the nitroblue tetrazolium reduction assay and visualized by fluorescent microscopy.
+EGCG significantly inhibited expressions of α-SMA and collagen type I mRNA and reduced α-SMA and collagen protein levels at concentrations of 10-20 µg/mL. EGCG also inhibited TGF-β1-induced ROS production at the same concentrations.
+These results suggest the possibility that EGCG may be effective at inhibiting the development of nasal polyps through an anti-oxidant effect.
+Copyright © 2013 John Wiley & Sons, Ltd.

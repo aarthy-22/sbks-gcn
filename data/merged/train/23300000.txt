@@ -1,0 +1,11 @@
+Influence of rare earth elements on metabolism and related enzyme activity and isozyme expression in Tetrastigma hemsleyanum cell suspension cultures.
+The effects of rare earth elements (REEs) not only on cell growth and flavonoid accumulation of Tetrastigma hemsleyanum suspension cells but also on the isoenzyme patterns and activities of related enzymes were studied in this paper.
+There were no significant differences in enhancement of flavonoid accumulation in T. hemsleyanum suspension cells among La(3+), Ce(3+), and Nd(3+).
+Whereas their inductive effects on cell proliferation varied greatly.
+The most significant effects were achieved with 100 μM Ce(3+)and Nd(3+).
+Under treatment over a 25-day culture period, the maximal biomass levels reached 1.92- and 1.74-fold and the total flavonoid contents are 1.45- and 1.49-fold, than that of control, respectively.
+Catalase, phenylalanine ammonia-lyase (PAL), and peroxidase (POD) activity was activated significantly when the REE concentration range from 0 to 300 μM, whereas no significant changes were found in superoxide dismutase activity.
+Differences of esterase isozymes under REE treatment only laid in expression level, and there were no specific bands.
+The expression level of some POD isozymes strengthened with increasing concentration of REEs within the range of 50-200 μM. When REE concentration was higher than 300 μM, the expression of some POD isozymes was inhibited; meanwhile, some other new POD isozymes were induced.
+Our results also showed REEs did not directly influence PAL activity.
+So, we speculated that 50-200 μM REEs could activate some of antioxidant enzymes, adjust some isozymes expression, trigger the defense responses of T. hemsleyanum suspension cells, and stimulate flavonoid accumulation by inducing PAL activity.

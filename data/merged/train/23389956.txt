@@ -1,0 +1,11 @@
+Glucocorticoid programming of the fetal male hippocampal epigenome.
+The late-gestation surge in fetal plasma cortisol is critical for maturation of fetal organ systems.
+As a result, synthetic glucocorticoids (sGCs) are administered to pregnant women at risk of delivering preterm.
+However, animal studies have shown that fetal exposure to sGC results in increased risk of behavioral, endocrine, and metabolic abnormalities in offspring.
+Here, we test the hypothesis that prenatal GC exposure resulting from the fetal cortisol surge or after sGC exposure results in promoter-specific epigenetic changes in the hippocampus.
+Fetal guinea pig hippocampi were collected before (gestational day [GD52]) and after (GD65) the fetal plasma cortisol surge (Term∼GD67) and 24 hours after (GD52) and 14 days after (GD65) two repeat courses of maternal sGC (betamethasone) treatment (n = 3-4/gp).
+We identified extensive genome-wide alterations in promoter methylation in late fetal development (coincident with the fetal cortisol surge), whereby the majority of the affected promoters exhibited hypomethylation.
+Fetuses exposed to sGC in late gestation exhibited substantial differences in DNA methylation and histone h3 lysine 9 (H3K9) acetylation in specific gene promoters; 24 hours after the sGC treatment, the majority of genes affected were hypomethylated or hyperacetylated.
+However, 14 days after sGC exposure these differences did not persist, whereas other promoters became hypermethylated or hyperacetylated.
+These data support the hypothesis that the fetal GC surge is responsible, in part, for significant variations in genome-wide promoter methylation and that prenatal sGC treatment profoundly changes the epigenetic landscape, affecting both DNA methylation and H3K9 acetylation.
+This is important given the widespread use of sGC in the management of women in preterm labor.

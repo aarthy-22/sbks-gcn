@@ -1,0 +1,11 @@
+Analysis of coenzyme binding by human placental 3 beta-hydroxy-5-ene-steroid dehydrogenase and steroid 5----4-ene-isomerase using 5'-[p-(fluorosulfonyl)benzoyl]adenosine, an affinity labeling cofactor analog.
+3 beta-Hydroxy-5-ene-steroid dehydrogenase and steroid 5----4-ene-isomerase copurify as a single, homogeneous protein from human placental microsomes.
+Affinity alkylation with 2 alpha-bromoacetoxyprogesterone suggests that the dehydrogenase and isomerase substrate steroids bind at different sites on the same protein.
+However, the coenzyme, NADH, completely abolishes the alkylation of both enzyme activities by the progestin analog [Thomas J .L., Myers R. P., Rosik L. O. and Strickler R. C., J. Steroid Biochem.
+36 (1990) 117-123].
+Unlike bacterial 3-keto-5-ene-steroid isomerase, the human isomerase reaction is stimulated by diphosphopyridine nucleotides (NADH, NAD+).
+The affinity labeling nucleotide analog, 5'-[p-(fluorosulfonyl)benzoyl]adenosine (FSA), inactivates the dehydrogenase and isomerase activities at similar rates in an irreversible manner which follows first order kinetics with respect to both time and alkylator concentration (0.2-0.6 mM).
+FSA is a cofactor site-directed reagent that binds with similar affinity as a competitive inhibitor of NAD+ reduction by dehydrogenase (Ki = 162 microM) or as a stimulator of isomerase (Km = 153 microM).
+Parallel plots derived from Kitz and Wilson analysis indicate that FSA inactivates the two enzyme activities with equal alkylation efficiency (k3/Ki = 1/slope = 0.51/mol-s for both).
+The 3 beta-hydroxysteroid substrate, pregnenolone, protects isomerase as well as dehydrogenase from inactivation by FSA.
+These observations are evidence for a single cofactor binding region which services both enzyme activities.

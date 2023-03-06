@@ -1,0 +1,17 @@
+Hyperphenylalaninemia and 7-pterin excretion associated with mutations in 4a-hydroxy-tetrahydrobiopterin dehydratase/DCoH: analysis of enzyme activity in intestinal biopsies.
+Hyperphenylalaninemia, which can cause neurological disorders and mental retardation, results from a mutation in phenylalanine hydroxylase or an enzyme required for biosynthesis or regeneration of its cofactor, tetrahydrobiopterin.
+The hyperphenylalaninemia variant primapterinuria is characterized by the excretion of 7-biopterin (primapterin).
+This disorder is thought to be due to a deficiency of 4a-hydroxy-tetrahydrobiopterin dehydratase (pterin-4a-carbinolamine dehydratase), but a lack of tissue activity has not been directly demonstrated.
+The five mutations so far recognized in patients with primapterinuria are associated with either a single amino acid change or a premature stop codon.
+Only C81R has been successfully expressed in soluble form, and was found to have 40% of normal activity.
+Tissues which could be obtained by minimally invasive procedures were analyzed for dehydratase activity.
+None was detected in normal human white cells or fibroblasts.
+However, activity was found in intestine of rat, dog, pig, and particularly humans where it was only eight times lower than in liver.
+Distribution along the length and across the wall of small intestine was relatively uniform.
+Moreover, the dehydratases from human liver and intestinal mucosa have identical kinetic properties.
+A biopsy of duodenal mucosa from a patient with homozygous E96K dehydratase had activity of 55 nmol.
+min(-1)g(-1) mucosa compared to 329 +/-
+32 nmol.
+min(-1)g(-1) tissue in controls (n = 12).
+The sixfold lower tissue activity of the E96K mutant alone may not be sufficient to account for the biochemical symptoms of primapterinuria in this patient.
+However, accumulation of a 4a-hydroxy-tetrahydrobiopterin degradation product (a side-chain cyclic adduct), which has been observed in vitro and appears to be a dehydratase inhibitor, may further exacerbate the problem.

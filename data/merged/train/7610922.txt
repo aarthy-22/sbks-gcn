@@ -1,0 +1,10 @@
+Intracellular calcium increases mediated by a recombinant human calcitonin receptor.
+Stable transfectants expressing a recombinant human calcitonin receptor respond to calcitonin via increased cyclic adenosine 3',5' monophosphate (cAMP, EC50 = 0.06 nM salmon calcitonin [sCT]) and a transient mobilization of intracellular calcium ([Ca2+]i) coincident with turnover of inositol phosphate (IP; EC50 = 6 nM sCT).
+Millimolar increases in extracellular calcium ([Ca2+]o, EC50 = 8 mM) cause a rapid elevation in [Ca2+]i after a calcitonin dose-dependent pretreatment of cells (pretreatment EC50 = 0.2 nM sCT).
+Cells exhibit persistent sensitivity to increased [Ca2+]o up to 3 h after hormone exposure and even after multiple cycles of increased [Ca2+]o followed by wash.
+Calcitonin pretreatment of cells also allows apparent influx of elevated extracellular strontium and manganese, but little or no effect is observed on addition of barium, cadmium, or lanthanum.
+Human amylin (100 nM) causes a rapid and transient increase in [Ca2+]i comparable to that of calcitonin; however, no significant response to increased [Ca2+]o is observed after amylin addition.
+Human calcitonin gene-related product (hCGRP) (300 nM) and forskolin do not increase [Ca2+]i or activate a sensitivity to increased [Ca2+]o.
+Nevertheless, human amylin and human calcitonin gene-related product (hCGRP) activate adenylate cyclase with EC50s of 0.7 nM and 8 nM, respectively.
+The calcium-channel drugs verapamil, BAY K 8644, diltiazem, and nifedipine have little effect on [Ca2+]i increases.
+The calcitonin-induced transient mobilization of calcium is inhibited by treatment of cells with cholera toxin or 8-(diethylamino)-octyl-3,4,5-trimethoxybenzoate (TMB-8); whereas, the response to subsequent increased [Ca2+]o is inhibited by lanthanum chloride (200 microM) and lower pH (6.0).(ABSTRACT TRUNCATED AT 250 WORDS)

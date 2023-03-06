@@ -1,0 +1,9 @@
+Inhibition of the leukotriene synthetase of rat basophil leukemia cells by diethylcarbamazine, and synergism between diethylcarbamazine and piriprost, a 5-lipoxygenase inhibitor.
+Diethylcarbamazine inhibited the formation of sulfidopeptide leukotrienes in rat basophil leukemia (RBL) cells (50% inhibitory concentration, EC50, 3 mM).
+Similar concentrations also inhibited the formation of leukotriene C4 (LTC4) by LTC synthetase, a detergent-solubilized cell free particulate enzyme from RBL cells which is capable of coupling LTA4 to glutathione.
+By contrast, the conversion of LTA4 to LTC4 using enzymes from rat liver was at least ten times less sensitive to this inhibitor.
+The EC50 for inhibition of the leukotriene C synthetase of RBL cells was directly proportional to the LTA4 concentration in the incubations, ranging from 1.5 mM at 10 microM LTA4 to over 40 mM at 500 microM LTA4.
+Kinetic analysis revealed that the inhibition of the leukotriene C synthetase reaction by diethylcarbamazine was competitive with respect to LTA4.
+In contrast to diethylcarbamazine, piriprost (U-60,257; 6,9-deepoxy-6,9-(phenylimino)-delta 6,8-prostaglandin I1), which inhibits the formation of sulfidopeptide leuktrienes in RBL cells at the 5-lipoxygenase step (EC50 5 microM), did not inhibit the leukotriene synthetase of these cells.
+On the other hand, low concentrations of piriprost, which had no demonstrable inhibitory activity on leukotriene formation by themselves, markedly synergized the inhibitory activity of diethylcarbamazine.
+These results are consistent with the interpretation that both piriprost and diethylcarbamazine inhibit leukotriene formation but that they act on sequential steps in the biosynthetic pathway in such a manner as to synergistically interfere with the availability or utilization of LTA4 in the leukotriene C synthetase reaction.

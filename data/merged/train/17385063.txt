@@ -1,0 +1,7 @@
+Hypotensive effect of hydroxylamine, an endogenous nitric oxide donor and SSAO inhibitor.
+The endogenous compound hydroxylamine relaxes vascular smooth muscle in vitro, apparently through conversion to the vasodilator factor nitric oxide, but its effect on blood pressure has not been characterized.
+We found that in the anesthetized rat the amine elicits dose-related hypotension when administered by continuous iv infusion.
+In experiments designed to explore the mechanism of this effect, hydroxylamine was compared with the nitric oxide donor nitroprusside and the direct-acting vasodilator hydralazine, using pretreatments known to modify diverse mechanisms of vasodilation.
+Hydroxylamine hypotension was enhanced by the SSAO inhibitor isoniazid and the SSAO substrate methylamine, a pattern shared by hydralazine.
+Responses were blocked by the guanylate cyclase inhibitor methylene blue and were increased by the nitric oxide synthase inhibitor L-NAME, a pattern shared by nitroprusside.
+It was concluded that hydroxylamine exerts hypotension partly through conversion to nitric oxide and partly by a "hydralazine-like" mechanism involving SSAO inhibition.

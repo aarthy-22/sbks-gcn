@@ -1,0 +1,14 @@
+Matching biochemical and functional efficacies confirm ZIP as a potent competitive inhibitor of PKMζ in neurons.
+PKMζ is an autonomously active, atypical protein kinase C (aPKC) isoform that is both necessary and sufficient for maintaining long-term potentiation (LTP) and long-term memory.
+The myristoylated ζ-pseudosubstrate peptide, ZIP, potently inhibits PKMζ biochemically in vitro, within cultured cells, and within neurons in hippocampal slices, and reverses LTP maintenance and erases long-term memory storage.
+A recent study (Wu-Zhang et al., 2012), however, suggested ZIP was not effective on a PKMζ fusion protein overexpressed in cultured cells.
+Chelerythrine, a redox-sensitive PKC inhibitor that inhibits PKMζ and disrupts LTP maintenance and memory storage, was also reported by Wu-Zhang et al. (2012) not to inhibit the expressed PKMζ fusion protein.
+However, the efficacy of inhibitors on endogenous enzymes in cells may not be adequately assessed in expression systems in which levels of expression of exogenous enzymes greatly exceed those of endogenous enzymes.
+Thus, we show, biochemically, that when PKMζ reaches a level beyond that necessary for substrate phosphorylation such that much of the enzyme is excess or 'spare' kinase, ZIP and chelerythrine do not effectively block substrate phosphorylation.
+We also show that the cellular overexpression techniques used by Wu-Zhang et al. (2012) increase kinase levels ~30-40 fold above normal levels in transfected cells.
+Using a mathematical model we show that at such level of overexpression, standard concentrations of inhibitor should have no noticeable effect.
+Furthermore, we demonstrate the standard concentrations of ZIP, but not scrambled ZIP, inhibit the ability of PKMζ to potentiate AMPAR responses at postsynaptic sites, the physiological function of the kinase.
+Wu-Zhang et al. (2012) had also claimed that staurosporine, a general kinase inhibitor that does not effectively inhibit PKMζ biochemically in vitro, nonetheless indirectly blocked the PKMζ fusion protein overexpressed in cultured cells by inhibiting phosphoinositide-dependent protein kinase-1 (PDK1).
+However, here we show that staurosporine does not affect PDK1 phosphorylation of the endogenous PKMζ in hippocampal slices.
+Thus, the biochemical in vitro effects of PKMζ inhibitors correspond with their intracellular effects, and ZIP and chelerythrine, together with scrambled ZIP and staurosporine as controls, are effective tools to examine the function of PKMζ in neurons.
+This article is part of a Special Issue entitled 'Cognitive Enhancers'.

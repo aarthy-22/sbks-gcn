@@ -1,0 +1,8 @@
+Serine protease activity of calnuc: regulation by Zn2+ and G proteins.
+The functions of calnuc, a novel Ca(2+)-binding protein with multiple structural domains and diverse interacting partners, are yet unknown.
+We demonstrate unknown facets of calnuc, which is a serine protease in which Ser-378 of GXSXG motif, Asp-328 of DTG motif, and His-339 form the "catalytic triad," locating the enzyme active site in the C-terminal region.
+Analogous to the active site of Zn(2+) carboxypeptidases, calnuc has two high affinity (K(d) ∼ 20 nm), well conserved Zn(2+)-binding sites near its N terminus, although it is inactive as a peptidase.
+Zn(2+) binding allosterically and negatively regulates the serine protease activity of calnuc, inhibition being caused by an "open to close" change in its conformation not seen upon Ca(2+) binding.
+Most strikingly, interaction with G protein α subunit completely inhibits the enzymatic activity of calnuc.
+We thus illustrate that G proteins and Zn(2+) act as two "keys" that control enzymatic activity of calnuc, arresting it in "locked" state.
+Calnuc, therefore, exists dynamically in two different forms, (i) as a Ca(2+)-binding protein in Zn(2+)-bound form and (ii) as a protease in Zn(2+)-free form, commissioning it to perform multiple functions.

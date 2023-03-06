@@ -1,0 +1,14 @@
+Low dose combination steroids control autoimmune mouse hearing loss.
+The severe side effects of glucocorticoids prevent long term management of hearing loss.
+Alternative steroid treatments that minimize or eliminate these effects would significantly benefit therapeutic control of hearing disorders.
+A steroid treatment study of autoimmune mouse hearing loss was conducted to determine the efficacy of combining aldosterone and prednisolone at low doses.
+An assessment also was made of low dose fludrocortisone, a synthetic mineralocorticoid that also has a slight glucocorticoid effect.
+MRL/MpJ-Fas(lpr) mice were tested for baseline ABR thresholds at 3 months of age and then treated with aldosterone (3.0 mug/kg) or prednisolone (1.0 mg/kg) to determine the lowest effective dose of each.
+Other mice were given the two steroids in combination at doses of Pred 0.5 mg+Aldo 1.5 mug; Pred 1.0 mg+Aldo 3.0 mug; or Pred 1.5 mg+Aldo 5.0 mug.
+Mice were retested with ABR at 1 and 2 months to determine the efficacy of the different steroid treatments in controlling hearing loss.
+Another series of mice were given the synthetic mineralocorticoid fludrocortisone at low (2.8 mug/kg) or high (10 mug/kg) doses and retested at monthly intervals for 3 months.
+Autoimmune mouse hearing loss developed in untreated controls.
+This threshold elevation was not prevented by prednisolone at 1 mg/kg or by aldosterone at 3 mug/kg when each was given alone.
+However, the two steroids combined at these doses effectively controlled hearing loss.
+The fludrocortisone treatments also were effective at low doses in preventing or reversing the autoimmune mouse hearing loss.
+This efficacy of combined steroids at low doses suggests the potential for reducing the side effects of glucocorticoids in the therapeutic control of hearing disorders.

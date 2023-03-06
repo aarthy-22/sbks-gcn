@@ -1,0 +1,12 @@
+The Prevalence of Meeting A1C, Blood Pressure, and LDL Goals Among People With Diabetes, 1988-2010.
+OBJECTIVETo determine the prevalence of people with diabetes who meet hemoglobin A(1c) (A1C), blood pressure (BP), and LDL cholesterol (ABC) recommendations, and their current statin use, factors associated with goal achievement, and changes in the proportion achieving goals between 1988 and 2010.RESEARCH AND DESIGN METHODSData were cross-sectional from the National Health and Nutrition Examination Surveys (NHANES) from 1988-1994, 1999-2002, 2003-2006, and 2007-2010.
+Participants were 4,926 adults aged ≥20 years who self-reported a previous diagnosis of diabetes and completed the household interview and physical examination (n = 1,558 for valid LDL levels).
+Main outcome measures were A1C, BP, and LDL cholesterol, in accordance with the American Diabetes Association recommendations, and current use of statins.
+RESULTSIn 2007-2010, 52.5% of people with diabetes achieved A1C <7.0% (<53 mmol/mol), 51.1% achieved BP <130/80 mmHg, 56.2% achieved LDL <100 mg/dL, and 18.8% achieved all three ABCs.
+These levels of control were significant improvements from 1988 to 1994 (all P < 0.05).
+Statin use significantly increased between 1988-1994 (4.2%) and 2007-2010 (51.4%, P < 0.01).
+Compared with non-Hispanic whites, Mexican Americans were less likely to meet A1C and LDL goals (P < 0.03), and non-Hispanic blacks were less likely to meet BP and LDL goals (P < 0.02).
+Compared with non-Hispanic blacks, Mexican Americans were less likely to meet A1C goals (P < 0.01).
+Younger individuals were less likely to meet A1C and LDL goals.
+CONCLUSIONSDespite significant improvement during the past decade, achieving the ABC goals remains suboptimal among adults with diabetes, particularly in some minority groups.
+Substantial opportunity exists to further improve diabetes control and, thus, to reduce diabetes-related morbidity and mortality.

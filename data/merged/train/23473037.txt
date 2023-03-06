@@ -1,0 +1,8 @@
+Identification of a SIRT1 mutation in a family with type 1 diabetes.
+Type 1 diabetes is caused by autoimmune-mediated β cell destruction leading to insulin deficiency.
+The histone deacetylase SIRT1 plays an essential role in modulating several age-related diseases.
+Here we describe a family carrying a mutation in the SIRT1 gene, in which all five affected members developed an autoimmune disorder: four developed type 1 diabetes, and one developed ulcerative colitis.
+Initially, a 26-year-old man was diagnosed with the typical features of type 1 diabetes, including lean body mass, autoantibodies, T cell reactivity to β cell antigens, and a rapid dependence on insulin.
+Direct and exome sequencing identified the presence of a T-to-C exchange in exon 1 of SIRT1, corresponding to a leucine-to-proline mutation at residue 107.
+Expression of SIRT1-L107P in insulin-producing cells resulted in overproduction of nitric oxide, cytokines, and chemokines.
+These observations identify a role for SIRT1 in human autoimmunity and unveil a monogenic form of type 1 diabetes.

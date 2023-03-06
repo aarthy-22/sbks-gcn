@@ -1,0 +1,5 @@
+Synthesis and Structure-Activity Relationship Studies of Derivatives of the Dual Aromatase-Sulfatase Inhibitor 4-{[(4-Cyanophenyl)(4H-1,2,4-triazol-4-yl)amino]methyl}phenyl sulfamate.
+4-{[(4-Cyanophenyl)(4H-1,2,4-triazol-4-yl)amino]methyl}phenyl sulfamate and its ortho-halogenated (F, Cl, Br) derivatives are first-generation dual aromatase and sulfatase inhibitors (DASIs).
+Structure-activity relationship studies were performed on these compounds, and various modifications were made to their structures involving relocation of the halogen atom, introduction of more halogen atoms, replacement of the halogen with another group, replacement of the methylene linker with a difluoromethylene linker, replacement of the para-cyanophenyl ring with other ring structures, and replacement of the triazolyl group with an imidazolyl group.
+The most potent in vitro DASI discovered is an imidazole derivative with IC50 values against aromatase and steroid sulfatase in a JEG-3 cell preparation of 0.2 and 2.5 nM, respectively.
+The parent phenol of this compound inhibits aromatase with an IC50 value of 0.028 nM in the same assay.

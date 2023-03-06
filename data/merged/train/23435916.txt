@@ -1,0 +1,6 @@
+Anti-inflammatory effect of pristimerin on lipopolysaccharide-induced inflammatory responses in murine macrophages.
+Pristimerin, a quinonemethide triterpenoid derived from Celastraceae and Hippocrateaceae, has recently been found to suppress tumor promotion, metastasis and angiogenesis.
+In the present study, we evaluated the anti-inflammatory potentials of pristimerin in a cell culture system.
+Pristimerin suppressed not only the generation of nitric oxide (NO) and prostaglandin E2, but also the expression of inducible NO synthase and cyclooxygenase-2 induced by lipopolysacharide (LPS) in murine macrophage RAW264.7 cells.
+Similarly, pristimerin inhibited the release of pro-inflammatory cytokines, namely, tumor necrosis factor-α and interleukin-6, induced by LPS.
+The underlying mechanism of the anti-inflammatory action of pristimerin was correlated with down-regulation of nuclear factor-κB and the mitogen-activated protein kinase signal pathway.

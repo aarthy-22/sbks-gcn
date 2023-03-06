@@ -1,0 +1,14 @@
+Effects of beta-adrenoceptor antagonist administration on beta 2-adrenoceptor density in human lymphocytes.
+The role of the "intrinsic sympathomimetic activity".
+Abrupt withdrawal of beta-adrenoceptor antagonists may lead to "rebound-effects".
+To study the mechanism underlying this phenomenon, the effects of the nonselective beta-adrenoceptor antagonists propranolol [no intrinsic sympathomimetic activity (ISA)], alprenolol (weak ISA) and mepindolol (strong ISA) on lymphocyte beta 2-adrenoceptor density--assessed by (+/-)-[125I]-iodocyanopindolol (ICYP) binding--and plasma renin activity (PRA) were investigated in male healthy volunteers aged 23-35 years.
+Propranolol treatment (4 X 40 mg/day) increased the density of beta 2-adrenoceptors by 25% after 2 days; concomitantly PRA and heart rate were reduced.
+During treatment beta 2-adrenoceptor density remained elevated.
+After withdrawal of propranolol PRA reached pre-drug levels rapidly, while heart rate was significantly enhanced.
+Beta 2-Adrenoceptor density, however, declined slowly being still significantly increased after 3 days, although propranolol was not detectable in plasma after 24 h. The affinity of ICYP to beta 2-adrenoceptors was not changed during or after treatment.
+Mepindolol treatment (2 X 5 mg/day) caused a 30% decrease of beta 2-adrenoceptor density and PRA after 2 days; both parameters remained reduced during treatment.
+After withdrawal, PRA reached rapidly pre-drug levels, whereas beta 2-adrenoceptor density was still after 4 days significantly diminished.
+The KD-values for ICYP, however, were not changed.
+During and after treatment heart rate was not affected.
+Alprenolol treatment (4 X 100 mg/day) led to a rapid fall in PRA, but did not significantly affect beta 2-adrenoceptor density.
+It is concluded, that the ISA may play an important role in modulating beta 2-adrenoceptor density and hence tissue responsiveness to beta-adrenoceptor stimulation.(ABSTRACT TRUNCATED AT 250 WORDS)

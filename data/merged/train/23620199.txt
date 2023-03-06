@@ -1,0 +1,8 @@
+Trastuzumab Emtansine: First Global Approval.
+Genentech and ImmunoGen are collaborating on the development of trastuzumab emtansine, a HER2 antibody-drug conjugate that comprises Genentech's trastuzumab antibody linked to ImmunoGen's anti-mitotic agent, mertansine (a maytansine derivative; also known as DM1).
+The conjugate combines two strategies: the anti-HER2 activity of trastuzumab, and the targeted intracellular delivery of mertansine, a tubulin polymerisation inhibitor which interferes with mitosis and promotes apoptosis.
+The linker in trastuzumab emtansine is a non-reducible thioether linker, N-succinimidyl-4-(N-maleimidomethyl) cyclohexane-1-carboxylate (SMCC, designated MCC after conjugation).
+Trastuzumab emtansine (Kadcyla™) has been launched in the USA as second-line monotherapy for HER2-positive metastatic breast cancer, and has been filed for approval in the EU and Japan in this indication.
+Trastuzumab emtansine is in phase III development as first-line combination therapy or monotherapy for metastatic HER2-positive breast cancer, and as third-line monotherapy for metastatic HER2-positive breast cancer.
+Phase II development is underway for early-stage breast cancer and phase II/III development is underway in patients with HER2-positive gastric cancer.
+This article summarizes the milestones in the development of trastuzumab emtansine leading to this first approval for the treatment of patients with HER2-positive, metastatic breast cancer who previously received trastuzumab and a taxane, separately or in combination.

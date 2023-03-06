@@ -1,0 +1,11 @@
+The effect of vitamin B6 deficiency on alanine: glyoxylate aminotransferase isoenzymes in rat liver.
+Endogenous synthesis of oxalate has been reported to increase in vitamin B6 deficiency probably due to defective transamination of glyoxylate, the direct source of oxalate, to glycine.
+Alanine:glyoxylate aminotransferase (AGT) in the liver catalyzes most of the glyoxylate transamination in mammalian tissues (E. V. Rowsell, K. Snell, J. A. Carnie, and K. V. Rowsell (1972) Biochem.
+J. 127, 155-165).
+The effects of vitamin B6 deficiency on hepatic AGT isoenzymes, designated AGT 1 and AGT 2, respectively, were examined with male rats; AGT 1 is located both in the peroxisomes and in the mitochondria, and AGT 2 only in the mitochondria.
+The holo activity of combined peroxisomal and mitochondrial AGT 1 with a low Km for L-alanine rapidly decreased after a lag time of about 2 days during feeding of the vitamin B6-deficient diet (by 50% in 5 days, by 86% in 14 days).
+Peroxisomal AGT 1 activity was more affected than the mitochondrial.
+The holo activity of AGT 2 with a high Km for L-alanine decreased more slowly than AGT 1 (by 33% in 14 days, by 60% in 28 days).
+Urinary excretion of oxalate began to increase in 8-9 days, when AGT 2 remained intact but most of AGT 1 is depleted.
+When the defect in the glyoxylate transamination in vivo in vitamin B6 deficiency is considered, these findings suggest that it is due to the deficiency of AGT 1.
+The importance of peroxisomal AGT 1 is discussed, since peroxisomes have been described to be probably the major site of glyoxylate formation.

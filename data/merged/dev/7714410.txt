@@ -1,0 +1,8 @@
+Preclinical efficacy of emedastine, a potent, selective histamine H1 antagonist for topical ocular use.
+Emedastine [1-(2-ethoxyethyl)-2-(4-methyl-1-homopiperazinyl)- benzimidazole difumarate] was evaluated for topical ocular anti-histaminic activity in histamine and antigen stimulated conjunctivitis models.
+Concentration-dependent inhibition of histamine induced vascular permeability changes occurring in the conjunctiva was observed when the time interval between topical ocular administration and histamine challenge ranged from 1 min to 8 hr.
+The calculated ED50 values obtained using intervals of 1 min, 30 min, 2, 4 and 8 hr were 0.0002%, 0.000035%, 0.0029%, 0.019% and 0.19%, w/v, respectively.
+Comparisons of relative potency 30 min post dosing between emedastine and other anti-histamines demonstrated that emedastine is equipotent to ketotifen, and 7, 7, 10, 10, 100, 357, 3333, and 5813 times more potent than brompheniramine, chlorpheniramine, clemastine, pyrilamine, levocabastine, pheniramine, diphenhydramine, and antazoline, respectively.
+Emedastine (0.1%) failed to significantly attenuate either serotonin or platelet-activating-factor induced vascular permeability changes indicating high selectivity for the histamine H1 receptor.
+In a passive conjunctival anaphylaxis model in guinea pigs, significant inhibition of the allergic response was observed following topical ocular administration of emedastine 5 min or 30 min prior to antigen challenge (ED50s 0.0046% and 0.00022%, respectively).
+These data clearly indicate that emedastine has potential as a topical ocular anti-histamine for treating allergic conjunctivitis.

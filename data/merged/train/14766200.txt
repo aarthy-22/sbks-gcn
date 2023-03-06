@@ -1,0 +1,10 @@
+Expression of DDAH1 in chick and rat embryos.
+Dimethylarginine dimethylaminohydrolase 1 (DDAH1) is an enzyme that metabolizes methylated arginine to citrulline and methylamine, thus working to produce nitric oxide (NO).
+We isolated a gene encoding chick DDAH1.
+In situ hybridization analysis revealed characteristic DDAH1 mRNA expression in the embryonic spinal cord, which was especially strong in the ventral horn and dorsal root ganglion (DRG).
+DDAH1 was also detected in the brain, kidney, digestive tract, and in other tissues.
+We examined the expression pattern of DDAH1 in developing rats and compared this with the expression pattern in chicks.
+The expression pattern in the rats was very similar to that in the chicks, but there were some differences between the chicks and rats in the amount of DDAH1 detected in the heart, liver, lung, and DRG.
+We also investigated neural nitric oxide synthase (nNOS) mRNA expression patterns in rat embryos.
+The DDAH1 expression patterns were completely different from nNOS expression patterns.
+Our study suggests that DDAH1 plays an important role in development.

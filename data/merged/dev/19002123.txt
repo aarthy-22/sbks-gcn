@@ -1,0 +1,16 @@
+The role of combination medical therapy in benign prostatic hyperplasia.
+To review key trials of monotherapy and combination therapy of alpha(1)-adrenergic receptor antagonists (alpha(1)-ARAs), 5alpha-reductase inhibitors (5alphaRIs) and anti-muscarinic agents in the treatment of lower urinary tract symptoms (LUTS) associated with benign prostatic hyperplasia (BPH).
+To assess the safety and efficacy of combination therapies for LUTS associated with BPH, a search of the MEDLINE and Cochrane databases (1976-2008) was conducted for relevant trials and reviews using the terms benign prostatic hyperplasia, lower urinary tract symptoms, alpha(1)-adrenergic receptor antagonists, 5alpha-reductase inhibitors, anti-muscarinics, anticholinergics, combination therapy, alfuzosin, doxazosin, tamsulosin, terazosin, dutasteride, finasteride, tolterodine, flavoxate, propiverine, oxybutynin, erectile dysfunction, sildenafil, vardenafil and tadalafil.
+Data from the Medical Therapy of Prostatic Symptoms (MTOPS) study indicated a role for long-term use of alpha(1)-ARAs and 5alphaRIs in combination.
+In the MTOPS study, combination therapy with the alpha(1)-ARA doxazosin and the 5alphaRI finasteride was significantly more effective than either component alone in reducing symptoms (P=0.006 vs doxazosin monotherapy; P<0.001 vs finasteride monotherapy) and in lowering the rate of clinical progression (P<0.001 vs either monotherapy).
+These findings were confirmed by the 2-year preliminary results of the Combination of Avodart and Tamsulosin study.
+In this study, combination therapy of the alpha(1)-ARA tamsulosin and the 5alphaRI dutasteride resulted in a significantly greater decrease in International Prostate Symptom Score (IPSS) when compared with either monotherapy.
+Several recent trials have studied the efficacy of combining alpha(1)-ARAs and anti-muscarinic agents in the treatment of BPH.
+These studies have found this combination to result in statistically significant benefits in quality of life scores, patient satisfaction, urinary frequency, storage symptoms and IPSS scores.
+Studies have not shown an increased risk of urinary retention associated with the use of anti-muscarinics in a highly select cohort of men with BPH.
+The available data suggest that combination therapy can be beneficial in the treatment of BPH and associated LUTS.
+The greatest efficacy for the alpha(1)-ARA and 5alphaRI combination was shown in patients with larger prostate size and more severe symptoms.
+The combination of alpha(1)-ARAs and 5alphaRIs appears to prevent disease progression in these patients.
+The combination of alpha(1)-ARAs with anti-muscarinic agents is useful for relieving symptoms of bladder outlet obstruction and detrusor overactivity.
+Theoretic concerns regarding the risk of acute urinary retention have been refuted in several recent clinical trials; however, it must be noted that the patients in these trials were a highly select cohort of men.
+Men with overactive bladder and BPH who are not receiving adequate alleviation of symptoms from the first-line alpha(1)-ARAs may benefit from the addition of an anti-muscarinic agent.

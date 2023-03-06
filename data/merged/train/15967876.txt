@@ -1,0 +1,11 @@
+Intracellular K+ is required for the inactivation-induced high-affinity binding of cisapride to HERG channels.
+Many commonly used medications can cause long QT syndrome and thus increase the risk of life-threatening arrhythmias.
+High-affinity human Ether-a-go-go-related gene (HERG) potassium channel blockade by structurally diverse compounds is almost exclusively responsible for this side effect.
+Understanding drug-HERG channel interactions is an important step in avoiding drug-induced long QT syndromes.
+Previous studies have found that disrupting HERG inactivation reduces the degree of drug block and have suggested that the inactivated state is the preferential state for drug binding to HERG channels.
+However, recent studies have also shown that inactivation does not dictate drug sensitivity of HERG channels.
+In the present study, we examined the effect of inactivation gating on cisapride block of HERG.
+Modulation of HERG inactivation was achieved by either changing extracellular K+ or Cs+ concentrations or by mutations of the channel.
+We found that although inactivation facilitated cisapride block of the HERG K+ current, it was not coupled with cisapride block of HERG when the Cs+ current was recorded.
+Furthermore, cisapride block of the HERG K+ current was not linked with inactivation in the mutant HERG channels F656V and F656M.
+Our results suggest that inactivation facilitates cisapride block of HERG channels through affecting the positioning of Phe-656.

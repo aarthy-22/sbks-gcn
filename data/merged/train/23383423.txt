@@ -1,0 +1,10 @@
+International Union of Pharmacology.
+LXXXVII.
+Complement peptide C5a, C4a, and C3a receptors.
+The activation of the complement cascade, a cornerstone of the innate immune response, produces a number of small (74-77 amino acid) fragments, originally termed anaphylatoxins, that are potent chemoattractants and secretagogues that act on a wide variety of cell types.
+These fragments, C5a, C4a, and C3a, participate at all levels of the immune response and are also involved in other processes such as neural development and organ regeneration.
+Their primary function, however, is in inflammation, so they are important targets for the development of antiinflammatory therapies.
+Only three receptors for complement peptides have been found, but there are no satisfactory antagonists as yet, despite intensive investigation.
+In humans, there is a single receptor for C3a (C3a receptor), no known receptor for C4a, and two receptors for C5a (C5a₁ receptor and C5a₂ receptor).
+The most recently characterized receptor, the C5a₂ receptor (previously known as C5L2 or GPR77), has been regarded as a passive binding protein, but signaling activities are now ascribed to it, so we propose that it be formally identified as a receptor and be given a name to reflect this.
+Here, we describe the complex biology of the complement peptides, introduce a new suggested nomenclature, and review our current knowledge of receptor pharmacology.

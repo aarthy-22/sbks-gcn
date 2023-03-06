@@ -1,0 +1,4 @@
+From ATP to AZD6140: the discovery of an orally active reversible P2Y12 receptor antagonist for the prevention of thrombosis.
+Starting from adenosine triphosphate (ATP), the identification of a novel series of P2Y(12) receptor antagonists and exploitation of their SAR is described.
+Modifications of the acidic side chain and the purine core and investigation of hydrophobic substituents led to a series of neutral molecules.
+The leading compound, 17 (AZD6140), is currently in a large phase III clinical trial for the treatment of acute coronary syndromes and prevention of thromboembolic clinical sequelae.

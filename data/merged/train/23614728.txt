@@ -1,0 +1,14 @@
+Adenovirus-delivered angiopoietin-1 treatment for phosgene-induced acute lung injury.
+Abstract Context: Exposure to phosgene can result in an acute lung injury, leading to pulmonary edema and even death.
+Angiopoietin-1 (Ang1) is a critical factor for vascular stabilization due to its ability to reduce endothelial permeability and inflammation.
+Objective: In this study, the histopathological changes of the lungs after exposure to phosgene and the effect of Ang1 treatment were examined.
+Materials and methods: Rats were exposed to phosgene gas at 8.33 g/m(3) for 5 min.
+Ang1 overexpressing rats were established by an intravenous injection of adenovirus-Ang1 (Ad/Ang1).
+The histological changes of the lung were examined by Haematoxylin-Eosin (H&E) staining and fluorescence microscopy.
+The inferior lobe was used for the determination of the ratio of wet weight to dry weight of the lung.
+The concentration of cytokines in the serum and bronchoalveolar lavage fluid was determined by enzyme-linked immunosorbent assay.
+Results: The pathological analysis showed signs of inflammation and edema, evident from a significant increase in the number of leukocytes in bronchoalveolar lavage fluid and the ratio of wet to dry weight of the lungs.
+The lung injury induced by phosgene was markedly reduced after the injection of Ad/Ang1.
+The increase of IL-1β and IL-17 and decrease of vascular endothelial growth factor in the serum and bronchoalveolar lavage fluid of phosgene-exposed animals were abolished by the administration of Ad/Ang1.
+Discussion and conclusions: Ang1 has the beneficial effects on phosgene-induced lung injury.
+The adenovirus-delivered Ang1 may have the potential as a novel approach for the treatment of the acute lung injury caused by phosgene gas inhalation in humans.

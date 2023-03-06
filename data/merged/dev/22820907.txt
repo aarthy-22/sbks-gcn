@@ -1,0 +1,7 @@
+Current understanding of TRPM7 pharmacology and drug development for stroke.
+The initial excitement and countless efforts to find a pharmacological agent that disrupts the excitotoxic pathway of ischemic neuronal death have only led to disappointing clinical trials.
+Currently, a thrombolytic agent called recombinant tissue plasminogen activator (rt-PA) is the only pharmacological treatment available for patients with acute ischemic stroke in most countries.
+Even though its efficacy has been confirmed repeatedly, rt-PA is considerably underused due to reasons including a short therapeutic window and repeated complications associated with its use.
+A search for alternative mechanisms that may operate dependently or independently with the well-established excitotoxic mechanism has led researchers to the discovery of newly described non-glutamate mechanisms.
+Among the latter, transient receptor potential melastatin 7 (TRPM7) is one of the important nonglutamate mechanisms in stroke, which has been evaluated in both in-vitro and in-vivo.
+In this review, we will discuss the current state of pharmacological treatments of ischemic stroke and provide evidence that TRPM7 is a promising therapeutic target of stroke.

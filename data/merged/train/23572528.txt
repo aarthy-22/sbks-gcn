@@ -1,0 +1,11 @@
+A Role for Cargo in the Activation of ADP-Ribosylation Factors (Arf) and Adaptor Recruitment.
+Membrane traffic requires the specific concentration of protein cargos and exclusion of other proteins into nascent carriers.
+Critical components of this selectivity are the protein adaptors that bind to short, linear motifs in the cytoplasmic tails of transmembrane protein cargos and sequester them into nascent carriers.
+The recruitment of the adaptors is mediated by activated Arf GTPases and the Arf-adaptor complexes mark sites of carrier formation.
+However, the nature of the signal(s) that initiate carrier biogenesis remains unknown.
+We examined the specificity and initial sites of recruitment of Arf-dependent adaptors (AP-1 and GGAs) in response to the Golgi or endosomal localization of specific cargo proteins (furin, mannose-6-phosphate receptor (M6PR) and M6PR lacking a C-terminal domain M6PRΔC).
+We find that cargo promotes the recruitment of specific adaptors, suggesting that it is part of an upstream signaling event.
+Cargos do not promote adaptor recruitment to all compartments in which they reside and thus additional factors regulate the cargo's ability to promote Arf activation and adaptor recruitment.
+We document that within a given compartment different cargos recruit different adaptors suggesting that there is little or no free, activated Arf at the membrane and that Arf activation is spatially and temporally coupled to the cargo and the adaptor.
+Using temperature block, Brefeldin A, and recovery from each, we found that the cytoplasmic tail of M6PR causes the recruitment of AP-1 and GGAs to recycling endosomes and not at the Golgi, as predicted by steady state staining profiles.
+These results are discussed with respect to the generation of novel models for cargo-dependent regulation of membrane traffic.

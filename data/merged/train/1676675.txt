@@ -1,0 +1,12 @@
+A dose-ranging study to evaluate the beta 1-adrenoceptor selectivity of bisoprolol.
+A dose-ranging study was performed to compare the beta 1-adrenoceptor selectivity of bisoprolol with that of atenolol and nadolol.
+Seven normal subjects (mean age 26 y) were given single oral doses of bisoprolol 5 mg (B5), 10 mg (B10), 20 mg (B20); atenolol 50 mg (A50), 100 mg (A100); nadolol 40 mg (N40); and placebo (PL), in a single blind randomised cross-over design.
+Beta 2-adrenoceptor responses were assessed by attenuation of finger tremor and cardiovascular responses to graded isoprenaline infusions.
+Dose-response curves were constructed, and doses of isoprenaline required to increase finger tremor by 100% (IT100), heart rate by 25 beats/min (IH25), SBP by 25 mmHg (IS25), cardiac output by 35% (IC35), and decrease DBP by 10 mmHg (ID10), after each treatment were calculated.
+These indices were compared with placebo response and expressed as dose-ratios.
+Exercise heart rate (EHR) was used to assess beta 1-adrenoceptor blockade.
+There were dose-related increases in plasma concentrations of bisoprolol and atenolol.
+Reduction of EHR was significantly less with B5 (16.8%) in comparison with all other treatments: B10 21.9%, B20 23.1%; A50 22.5%, A100 22.6%; N40 22.9%.
+There were small but significant reductions in isoprenaline-induced tachycardia with bisoprolol and atenolol, although mean dose-ratios were considerably less in comparison with N40 (IH25 dose-ratios): B5 2.55, B10 3.18, B20 3.93, A50 2.91, A100 4.89, N40 17.23.
+There were similar patterns for the other isoprenaline responses.
+These results show that conventional doses of bisoprolol (10 mg) and atenolol (50 mg) produced equal antagonism of beta 1 and beta 2-adrenoceptors, and therefore possess equal degrees of beta 1-adrenoceptor selectivity.(ABSTRACT TRUNCATED AT 250 WORDS)

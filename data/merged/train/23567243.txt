@@ -1,0 +1,9 @@
+DICO, a novel nonaromatic B-ring flavonoid, induces G2/M cell cycle arrest and apoptosis in human hepatoma cells.
+DICO was a novel nonaromatic B-ring flavonoid obtained from Macrothelypteris torresiana.
+In the present work, we investigated the antitumor activity and the antineoplastic mechanism of DICO.
+Our study showed that DICO inhibited the growth of HepG2 cells in dose and time-dependent manners.
+As well as DICO induced G2/M cell cycle arrest and apoptosis via a ROS-mediated mitochondrial pathway.
+Western blot assay demonstrated that DICO decreased Bcl-2 level and induced Bax translocation to cause cytochrome c release.
+Subsequently, caspase-9 and caspase-3 were activated.
+Meanwhile, the alterations of cyclin A and B1, p-CDK1 and p-cdc25c levels were also observed in response to DICO treatment.
+Taken together, DICO displayed a significant antitumor effect through G2/M cell cycle arrest and apoptosis induction, which suggested DICO might have therapeutic potential against tumors.

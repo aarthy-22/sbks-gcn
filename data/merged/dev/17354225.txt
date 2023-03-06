@@ -1,0 +1,9 @@
+Aberrant regulation of argininosuccinate synthetase by TNF-alpha in human epithelial ovarian cancer.
+The pro-inflammatory cytokine, tumour necrosis factor-alpha, TNF-alpha, is dysregulated in malignant compared with normal ovarian surface epithelium (OSE).
+Several epidemiological studies have associated inflammation with ovarian tumorigenesis, with TNF-alpha playing a key role in modulating invasion, angiogenesis and metastasis.
+Here, we show that TNF-alpha also induces expression of arate-limiting enzyme in arginine synthesis, argininosuccinate synthetase (AS), thereby linking inflammation with several arginine-dependent metabolic pathways, implicated in accelerated carcinogenesis and tumour progression.
+Having identified AS mRNA induction in TNF-alpha-treated IGROV-1 ovarian cancer cells, using RNA-arbitrarily primed-PCR, we then observed differential regulation of AS mRNA and protein in malignant, compared with normal, OSE cells.
+A cDNA cancer profiling array with matched normal ovarian and ovarian tumour samples revealed increased expression of AS mRNA in the latter.
+Moreover, AS protein co-localised with TNF-alpha in ovarian cancer cells, with significantly higher levels of AS in malignant compared with normal ovarian tissue.
+Increased co-expression of AS and TNF-alpha mRNA was also observed in 2 other epithelial tumours, non-small cell lung and stomach cancer, compared with normal corresponding tissues.
+In summary, high levels of AS expression, which may be required for several arginine-dependent processes in cancer, including the production of nitric oxide, proline, pyrimidines and polyamines, is regulated by TNF-alpha and may provide an important molecular pathway linking inflammation and metabolism to ovarian tumorigenesis.

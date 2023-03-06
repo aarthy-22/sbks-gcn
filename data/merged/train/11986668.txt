@@ -1,0 +1,11 @@
+Minocycline inhibits cytochrome c release and delays progression of amyotrophic lateral sclerosis in mice.
+Minocycline mediates neuroprotection in experimental models of neurodegeneration.
+It inhibits the activity of caspase-1, caspase-3, inducible form of nitric oxide synthetase (iNOS) and p38 mitogen-activated protein kinase (MAPK).
+Although minocycline does not directly inhibit these enzymes, the effects may result from interference with upstream mechanisms resulting in their secondary activation.
+Because the above-mentioned factors are important in amyotrophic lateral sclerosis (ALS), we tested minocycline in mice with ALS.
+Here we report that minocycline delays disease onset and extends survival in ALS mice.
+Given the broad efficacy of minocycline, understanding its mechanisms of action is of great importance.
+We find that minocycline inhibits mitochondrial permeability-transition-mediated cytochrome c release.
+Minocycline-mediated inhibition of cytochrome c release is demonstrated in vivo, in cells, and in isolated mitochondria.
+Understanding the mechanism of action of minocycline will assist in the development and testing of more powerful and effective analogues.
+Because of the safety record of minocycline, and its ability to penetrate the blood-brain barrier, this drug may be a novel therapy for ALS.

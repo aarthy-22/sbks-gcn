@@ -1,0 +1,8 @@
+Silica precipitation by synthetic minicollagens.
+Oligomeric Pro-Hyp-Gly- (POG-) peptides, wherein the collagenous triple helix is supported by C-terminal capping, exhibit silica precipitation properties (O, Hyp = (2S,4R)hydroxyproline).
+As quantified by a molybdate assay, the length of the covalently tethered triple helix (number of POG units) determines the amount of amorphous silica obtained from silicic acid solution.
+Although lacking charged side chains, the synthetic collagens precipitate large quantities of silicic acid resulting in micrometer-sized spheres of varying surface morphologies as analyzed by scanning electron microscopy.
+Similar precipitation efficiencies on a fast time scale of less than 10 min were previously described only for biogenic diatom proteins and sponge collagen, respectively, which have a considerably higher structural complexity and limited accessibility.
+The minicollagens described here provide an unexpected alternative to the widely used precipitation conditions, which generally depend on (poly-)amines in phosphate buffer.
+Collagen can form intimate connections with inorganic matter.
+Hence, silica-enclosed collagens have promising perspectives as composite materials.

@@ -1,0 +1,14 @@
+Effects of minocycline on Fas-mediated fulminant hepatitis in mice.
+1.
+Minocycline has anti-inflammatory and antiapoptotic effects on cartilage, neurons and periodontal tissues, and both properties are central to the pharmaceutical treatment of liver diseases.
+We investigated the effects of minocycline on fulminant hepatitis in C57BL/6J mice induced by lethal challenge of the activating anti-Fas antibody, Jo2.
+2.
+Intraperitoneal injection of Jo2 (0.6 microg g(-1)) to mice resulted in fulminant hepatitis, as evidenced by increase of serum alanine/aspartate transaminase activities and histopathological alterations in liver sections, as well as animal death.
+Nevertheless, mice pretreated with three doses of minocycline (5 mg kg(-1)) resisted this lethal effect significantly.
+Minocycline treatment improved the survival kinetics, although to a lesser extent, when mice were challenged simultaneously with Jo2 or even treated 30 min after the lethal challenge.
+3.
+Jo2-induced activation of caspase-3 or -9 in liver tissues was inhibited by minocycline pretreatment, and yet the direct addition of minocycline to liver extracts from Jo2-challenged mice failed to block caspase activation in vitro.
+Moreover, minocycline efficiently suppressed the release of cytochrome c from mitochondria of the liver tissues from Jo2-challenged mice.
+In contrast, caspase-8 activation and Bid truncation triggered by Jo2 were not diminished by minocycline pretreatment in mouse livers.
+4.
+Our results suggest that easing of Fas-triggered fulminant hepatitis by minocycline may involve a mitochondrial apoptotic pathway, probably through preventing cytochrome c release and thereby blocking downstream caspase activation.

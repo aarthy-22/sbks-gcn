@@ -1,0 +1,9 @@
+Inhibition pathways of the potent organophosphate CBDP with cholinesterases revealed by X-ray crystallographic snapshots and mass spectrometry.
+Tri-o-cresyl-phosphate (TOCP) is a common additive in jet engine lubricants and hydraulic fluids suspected to have a role in aerotoxic syndrome in humans.
+TOCP is metabolized to cresyl saligenin phosphate (CBDP), a potent irreversible inhibitor of butyrylcholinesterase (BChE), a natural bioscavenger present in the bloodstream, and acetylcholinesterase (AChE), the off-switch at cholinergic synapses.
+Mechanistic details of cholinesterase (ChE) inhibition have, however, remained elusive.
+Also, the inhibition of AChE by CBDP is unexpected, from a structural standpoint, i.e., considering the narrowness of AChE active site and the bulkiness of CBDP.
+In the following, we report on kinetic X-ray crystallography experiments that provided 2.7-3.3 Å snapshots of the reaction of CBDP with mouse AChE and human BChE. The series of crystallographic snapshots reveals that AChE and BChE react with the opposite enantiomers and that an induced-fit rearrangement of Phe297 enlarges the active site of AChE upon CBDP binding.
+Mass spectrometry analysis of aging in either H(2)(16)O or H(2)(18)O furthermore allowed us to identify the inhibition steps, in which water molecules are involved, thus providing insights into the mechanistic details of inhibition.
+X-ray crystallography and mass spectrometry show the formation of an aged end product formed in both AChE and BChE that cannot be reactivated by current oxime-based therapeutics.
+Our study thus shows that only prophylactic and symptomatic treatments are viable to counter the inhibition of AChE and BChE by CBDP.

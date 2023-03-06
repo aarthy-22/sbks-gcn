@@ -1,0 +1,13 @@
+Fluoxetine partly exerts its actions through GABA: a neurochemical evidence.
+Fluoxetine, as a serotonin re-uptake inhibitor augments serotonin concentration within the synapse by inhibiting the serotonin transporter.
+The contribution of amino acids has also been shown in depression.
+We hypothesized that fluoxetine exerts its actions at least in part by intervening brain signaling operated by amino acid transmitters.
+Therefore the aim of this study is to supply neurochemical evidence that fluoxetine produces changes in amino acids in cerebrospinal fluid of rats.
+Sprague-Dawley rats were anesthetized and concentric microdialysis probes were implanted stereotaxically into the right lateral ventricle.
+Intraperitoneal fluoxetine (2.5 or 5 mg/kg) or physiological saline was administered and the probes were perfused with artificial cerebrospinal fluid at a rate of 1 mul/min.
+In the chronic fluoxetine group, the rats were treated daily with oral fluoxetine solution or inert syrup for 3 weeks.
+The microdialysis probes were placed on the 21st day and perfused the next day.
+Fluoxetine was ineffective in changing the cerebrospinal fluid GABA levels at the dose of 2.5 mg/kg but produced a significant increase in the perfusates following injection of 5 mg/kg of fluoxetine (P < 0.05).
+Oral fluoxetine administration (5 mg/kg) for 21 days also elevated the CSF GABA levels by approximately 2-fold (P < 0.05).
+L: -glutamic acid levels were not affected in all groups.
+These neurochemical findings show that fluoxetine, a selective serotonin re-uptake inhibitor affects brain GABA levels indirectly, and our results suggest that acute or chronic effects may be involved in beneficial and/or adverse effects of the drug.

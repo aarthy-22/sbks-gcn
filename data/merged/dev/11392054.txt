@@ -1,0 +1,10 @@
+Vasoconstrictive drugs increase carbonic anhydrase I in vascular smooth muscle while vasodilating drugs reduce the activity of this isozyme by a direct mechanism of action.
+Carbonic anhydrase (CA) is a zinc enzyme that catalyses the reversible hydration reaction of CO2 and plays a major role in the acid-base balance.
+We have previously shown that certain vasoconstrictive therapeutic agents increase CA I activity whereas vasodilating drugs reduce the activity of this isozyme by a direct mechanism of action.
+In this paper we studied the effect of other vasoconstrictive and vasodilating agents on CA I activity in order to elucidate the involvement of vascular smooth muscle CA I in vasoconstrictive and vasodilating processes.
+We studied the in vitro effects of noradrenaline, prostaglandin F2 alpha, thromboxane A2, leukotriene B4, angiotensin II, vasopressin, indomethacin, prazosin, hydralazine, clonidine, reserpine, prostaglandin I2, indapamide, furosemide, amlodipine, verapamil and irbesartan on purified human red blood cell CA I and vascular smooth muscle CA I isolated from rabbits.
+In vivo, we selected six groups of five rabbits each, which were administered the following substances in acute experiments: orciprenaline (group 1), desmopressin (group 2), verapamil (group 3), irbesartan (group 4), acetazolamide (group 5) and placebo (control group).
+Vascular smooth muscle CA I activity and systolic blood pressure were determined and compared with those of the control group.
+In vitro results showed that all the vasoconstrictive agents studied increased purified and human erythrocyte CA I activity as well as vascular smooth muscle CA I, while vasodilating substances reduced the activity of isozyme by a direct mechanism of action.
+The same results obtained in vivo showed that activation of vascular smooth muscle CA I increased blood pressure while its inhibition reduced blood pressure.
+The results of this study suggest that pHi changes, induced by activating or inhibiting CA I in vascular smooth muscle, might be responsible for changes in vascular tonus.

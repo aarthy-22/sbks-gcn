@@ -1,0 +1,6 @@
+Discovery of a novel phenylethyl benzamide glucokinase activator for the treatment of type 2 diabetes mellitus.
+Novel benzamide derivatives were synthesized and tested at in vitro assay by measuring fold increase of glucokinase activity at 5.0 mM glucose concentration.
+Among the prepared compounds, YH-GKA was found to be an active glucokinase activator with EC(50) of 70 nM. YH-GKA showed similar glucose AUC reduction of 29.6% (50 mg/kg) in an OGTT study with C57BL/J6 mice compared to 29.9% for metformin (300 mg/kg).
+Acute treatment of the compound in C57BL/J6 and ob/ob mice elicited basal glucose lowering activity.
+In subchronic study with ob/ob mice, YH-GKA showed significant decrease in blood glucose levels and no adverse effects on serum lipids or body weight.
+In addition, YH-GKA exhibited high bioavailability and moderate elimination in preclinical species.

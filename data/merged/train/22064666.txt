@@ -1,0 +1,12 @@
+Endothelial nitric oxide synthase genotypes and haplotypes modify the responses to sildenafil in patients with erectile dysfunction.
+Erectile dysfunction (ED) is usually treated with sildenafil.
+Although genetic polymorphisms in the endothelial nitric oxide synthase (eNOS) gene may impair endogenous NO formation, there is little information about how eNOS polymorphisms and haplotypes affect the responses to sildenafil.
+We studied 118 patients; 63 patients had ED secondary to radical prostatectomy (PED) and 55 had organic, clinical ED.
+eNOS genotypes for three eNOS polymorphisms (T(-786)C, rs2070744; a variable number of tandem repeats (VNTR) in intron 4; and Glu298Asp, rs1799983) were determined, and eNOS haplotypes were estimated using PHASE 2.1.
+The clinical responses to sildenafil were evaluated and the patients were classified as good responders (GR) or poor responders (PR) when their changes in five-item version of International Index for Erectile Function questionnaire were above or below the median value.
+The TC/CC genotypes and the C allele for the T(-786)C polymorphism were more common in GR, compared with PR patients with PED.
+However, the 4b4a/4a4a genotypes and the 4a allele for the VNTR polymorphism in intron 4 were more common in GR, compared with PR patients with clinical ED.
+The C-4a-Glu haplotype was more common in GR than in PR patients with PED.
+Conversely, the T-4b-Asp haplotype was less common in GR than in PR patients with PED.
+No other significant differences were found.
+Our findings show evidence that eNOS polymorphisms affect the responses of PED and clinical ED patients to sildenafil.

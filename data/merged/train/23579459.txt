@@ -1,0 +1,6 @@
+Pharmacology of the sphingosine-1-phosphate signalling system.
+The recent success of FTY720 (Fingolimod, Gilenya((R))), which has been approved for the treatment of relapsing-remitting multiple sclerosis and is the first-in-class sphingosine-1-phosphate (S1P) receptor modulating drug, has boosted the interest in further drug development in this area.
+Several selective S1P1 receptor-modulating drugs are being investigated in clinical trials for the treatment of diverse autoimmune disorders.
+Sphingosine kinase inhibitors are under development for the treatment of cancer, aberrant angiogenesis and inflammatory diseases; an inhibitor of SK2 with relatively low affinity is being analysed in patients with advanced solid tumours.
+While an indirect S1P lyase inhibitor has just failed the proof of concept in patients with rheumatoid arthritis, S1P lyase is still a promising target for the treatment of inflammatory and autoimmune diseases.
+Another approach is the development of S1P-scavenging or -clearing agents, including a monoclonal S1P antibody that has successfully passed phase I clinical trials and will be further developed for age-related macular degeneration.

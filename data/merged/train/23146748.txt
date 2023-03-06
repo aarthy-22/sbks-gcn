@@ -1,0 +1,12 @@
+Decreased levels of AKR1B1 and AKR1B10 in cancerous endometrium compared to adjacent non-cancerous tissue.
+Endometrial cancer is associated with enhanced cell proliferation due to high concentrations of estrogens, and decreased cell differentiation due to low levels of progesterone and retinoic acid.
+It is also associated with aberrant inflammatory responses and concomitant increased production of prostaglandins.
+The human members of the aldo-keto reductase 1B (AKR1B) subfamily, AKR1B1 and AKR1B10, have roles in these processes and can thus be implicated in endometrial cancer.
+To date, there have been no reports on the expression of AKR1B1 in endometrial cancer, while AKR1B10 has only been studied at the cellular level.
+To evaluate the roles of these AKR1B enzymes, we investigated expression of AKR1B1 and AKR1B10 in 47 paired samples of cancerous and adjacent control endometrium at the mRNA and protein levels, by quantitative PCR, Western blotting and immunohistochemistry staining.
+There were significantly lower mRNA and protein levels of AKR1B1 in cancerous tissues compared to adjacent endometrium.
+The gene expression of AKR1B10 at the mRNA level was significantly increased, while there were significantly decreased protein levels.
+Immunohistochemistry revealed that both of these enzymes were present in all of the samples, and are located in epithelial cells of cancerous and control endometrial glands.
+Elevated levels in adjacent non-cancerous tissues imply that these enzymes are more important in the initiation of endometrial cancer than in its progression.
+To the best of our knowledge, this is the first report on the expression of AKR1B1 and AKR1B10 in endometrial cancer.
+Further studies are needed to define the precise roles of these enzymes in the pathogenesis of endometrial cancer.

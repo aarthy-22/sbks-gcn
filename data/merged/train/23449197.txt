@@ -1,0 +1,5 @@
+Discovery of 7-methoxy-6-[4-(4-methyl-1,3-thiazol-2-yl)-1H-imidazol-5-yl]-1,3-benzothiazole (TASP0382088): a potent and selective transforming growth factor-β type I receptor inhibitor as a topical drug for alopecia.
+7-Methoxy-6-[4-(4-methyl-1,3-thiazol-2-yl)-1H-imidazol-5-yl]-1,3-benzothiazole 11 (TASP0382088) was synthesized and evaluated as transforming growth factor-β (TGF-β) type I receptor (also known as activin receptor-like kinase 5 or ALK5) inhibitor.
+Compound 11, a potent and selective ALK5 inhibitor, exhibited good enzyme inhibitory activity (IC50=4.8 nM) as well as inhibitory activity against TGF-β-induced Smad2/3 phosphorylation at a cellular level (IC50=17 nM).
+The introduction of a methoxy group to the benzothiazole ring in 1 and the break up of the planarity between the imidazole ring and the thiazole ring improved the solubility in the lotion base of 11.
+Furthermore, the topical application of 3% 11 lotion significantly inhibited Smad2 phosphorylation in mouse skin at 8 h after application (71% inhibition, compared with vehicle-treated animals).

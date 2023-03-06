@@ -1,0 +1,10 @@
+Activation of group I metabotropic glutamate receptors potentiates heteromeric kainate receptors.
+Kainate receptors (KARs), a family of ionotropic glutamate receptors, are widely expressed in the central nervous system and are critically involved in synaptic transmission.
+KAR activation is influenced by metabotropic glutamate receptor (mGlu) signaling, but the underlying mechanisms are not understood.
+We undertook studies to examine how mGlu modulation affects activation of KARs.
+Confocal immunohistochemistry of rat hippocampus and cultured rat cortex revealed colocalization of the high-affinity KAR subunits with group I mGlu receptors.
+In hippocampal and cortical cultures, the calcium signal caused by activation of native KARs was potentiated by activation of group I mGlu receptors.
+In Xenopus laevis oocytes, activation of group I mGlu receptors potentiated heteromeric but not homomeric KAR-mediated currents, with no change in agonist potency.
+The potentiation of heteromeric KARs by mGlu1 activation was attenuated by GDPβS, blocked by an inhibitor of phospholipase C or the calcium chelator 1,2-bis(o-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid (BAPTA), prolonged by the phosphatase inhibitor okadaic acid, but unaffected by the tyrosine kinase inhibitor lavendustin A. Protein kinase C (PKC) inhibition reduced the potentiation by mGlu1 of GluK2/GluK5, and conversely, direct activation of PKC by phorbol 12-myristate,13-acetate potentiated GluK2/GluK5.
+Using site-directed mutagenesis, we identified three serines (Ser833, Ser836, and Ser840) within the membrane proximal region of the GluK5 C-terminal domain that, in combination, are required for mGlu1-mediated potentiation of KARs.
+Together, these data suggest that phosphorylation of key residues in the C-terminal domain changes the overall charge of this domain, resulting in potentiated agonist responses.

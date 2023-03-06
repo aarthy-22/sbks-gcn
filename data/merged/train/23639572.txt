@@ -1,0 +1,10 @@
+The preventive effect of uncarboxylated osteocalcin against free fatty acid-induced endothelial apoptosis through the activation of phosphatidylinositol 3-kinase/Akt signaling pathway: Uncarboxylated osteocalcin and endothelial apoptosis.
+OBJECTIVE: Increasing evidence suggests that osteocalcin (OC), one of the osteoblast-specific proteins, has been associated with atherosclerosis, but results are conflicting.
+The aim of this study was to elucidate the independent effect of uncarboxylated osteocalcin (ucOC), an active form of osteocalcin which has been suggested to have an insulin sensitizing effect, on vascular endothelial cells.
+MATERIALS AND METHODS: We used human aortic endothelial cells and treated them with ucOC.
+Linoleic acid (LA) was used as a representative free fatty acid.
+Apoptosis was evaluated using various methods including a terminal deoxyribonucleotide transferase-mediated deoxyuridine triphosphate nick-end labeling analysis kit and Western blotting for cleaved caspase 3, cleaved poly (ADP-ribose) polymerase and Bcl-xL. The phosphorylations of Akt and endothelial nitric oxide synthase (eNOS) as well as the level of NO were measured to confirm the effect of ucOC on insulin signaling pathway.
+RESULTS: Pretreatment of ucOC (30ng/ml) prevented LA-induced apoptosis in insulin-stimulated endothelial cells; effects were abolished by pretreatment with the phosphatidylinositol 3-kinase (PI3-kinase) inhibitor, wortmannin.
+Treatment of ucOC (ranged from 0.3 to 30ng/ml) significantly increased the phosphorylation of Akt and eNOS and nitric oxide secretion from endothelial cells in a PI3-kinase dependent manner.
+CONCLUSIONS: Our study is the first to demonstrate the independent effect of ucOC on vascular endothelial cells.
+Our results further suggest that ucOC could have beneficial effects on atherosclerosis.

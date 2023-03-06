@@ -1,0 +1,10 @@
+Trace amine-associated receptor 1 displays species-dependent stereoselectivity for isomers of methamphetamine, amphetamine, and para-hydroxyamphetamine.
+The synthetic amines methamphetamine (METH), amphetamine (AMPH), and their metabolite para-hydroxyamphetamine (POHA) are chemically and structurally related to the catecholamine neurotransmitters and a small group of endogenous biogenic amines collectively referred to as the trace amines (TAs).
+Recently, it was reported that METH, AMPH, POHA, and the TAs para-tyramine (TYR) and beta-phenylethylamine (PEA) stimulate cAMP production in human embryonic kidney (HEK)-293 cells expressing rat trace amine-associated receptor 1 (rTAAR1).
+The discovery that METH and AMPH activate the rTAAR1 motivated us to study the effect of these drugs on the mouse TAAR1 (mTAAR1) and a human-rat chimera (hrChTAAR1).
+Furthermore, because S-(+)-isomers of METH and AMPH are reported to be more potent and efficacious in vivo than R-(-), we determined the enantiomeric selectivity of all three species of TAAR1.
+In response to METH, AMPH, or POHA exposure, the accumulation of cAMP by HEK-293 cells stably expressing different species of TAAR1 was concentration- and isomer-dependent.
+EC50 values for S-(+)-METH were 0.89, 0.92, and 4.44 microM for rTAAR1, mTAAR1, and h-rChTAAR1, respectively.
+PEA was a potent and full agonist at each species of TAAR1, whereas TYR was a full agonist for the rodent TAAR1s but was a partial agonist at h-rChTAAR1.
+Interestingly, both isomers of METH were full agonists at mTAAR1 and h-rChTAAR1, whereas both were partial agonists at rTAAR1.
+Taken together, these in vitro results suggest that, in vivo, TAAR1 could be a novel mediator of the effects of these drugs.

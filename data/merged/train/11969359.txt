@@ -1,0 +1,12 @@
+Modulation of TNF and GM-CSF release from dispersed human nasal polyp cells and human whole blood by inhibitors of different PDE isoenzymes and glucocorticoids.
+The aim of this study was to investigate the role of the inhibitors of different PDE isoenzymes (PDE 1-5) on the production of two pro-inflammatory cytokines - tumor necrosis factor alpha (TNF) and granulocyte-macrophage colony-stimulating factor (GM-CSF).
+Two in vitro models were used to compare the antiinflammatory properties of PDE inhibitors with that of glucocorticoids.
+The effect on TNF release from diluted human blood following lipopolysaccharide (LPS from Salmonella abortus equi) stimulation as well as the GM-CSF and TNF release from human nasal polyp cells following allergic stimulation were investigated.
+Both models proofed to be well suited for the characterisation of the antiinflammatory properties of new chemical entities.
+In diluted human blood and dispersed human nasal polyp cells the induced TNF release was most potently suppressed by selective PDE4 inhibitors.
+Amrinone and milrinone, selective PDE3 inhibitors, suppressed TNF secretion to a lesser extent.
+The effects of theophylline (unspecific PDE inhibitor), vinpocetine (PDE1 inhibitor), EHNA (PDE2 inhibitor) and the PDE5 inhibitors zaprinast and E 4021 were weak.
+In human blood, the tested glucocorticoids beclomethasone, dexamethasone and fluticasone inhibited the LPS induced TNF release potently in a concentration dependent manner, whereas in dispersed human nasal polyp cells, the effect of the glucocorticoids on allergically induced TNF release, with the exception of dexamethasone, was much less pronounced.
+Glucocorticoids were the most potent inhibitors of GM-CSF release and the effect correlates well with the affinity to the glucocorticoid receptor.
+The selective PDE 4 inhibitors, and to a certain extent the PDE3 inhibitors amrinone and milrinone, reduced the GM-CSF release in a concentration dependent manner.
+In all investigations selective PDE4 inhibitors reduced TNF release to a much higher degree (4-10 fold) than GM-CSF release.

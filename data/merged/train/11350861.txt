@@ -1,0 +1,11 @@
+The broad-spectrum anti-emetic activity of AS-8112, a novel dopamine D2, D3 and 5-HT3 receptors antagonist.
+The anti-emetic and pharmacological profile of AS-8112 ((R)-5-bromo-N-(1-ethyl-4-methylhexahydro-1H-1,4-diazepin-6-yl)-2-methoxy-6-methy lamino-3-pyridinecarboxamide.2 fumarate), a novel and potent dopamine D2, D3 and 5-hydroxytryptamine-3 (5-HT3) receptors ligand, was investigated in the present study.
+In guinea-pig isolated colon, AS-8112 produced a rightward shift of the concentration-response curves of 2-methyl-5HT, a 5-HT3 receptor agonist (pA2 value of 7.04).
+Other 5-HT3 receptor antagonists also produced such a shift in the following antagonistic-potency order: granisetron> ondansetron=AS-8112>>metoclopramide.
+In mice, AS-8112 (1.0 - 3.0 mg kg(-1) s.c.) potently inhibited hypothermia induced by the dopamine D3 receptor agonist; R(+)-7-OH-DPAT (R(+)-7-hydroxy-2-(N,N-di-n-propylamino)tetraline) (0.3 mg kg(-1) s.c.).
+Domperidone and haloperidol, which have affinity for dopamine D3 receptor, also inhibited R(+)-7-OH-DPAT-induced hypothermia.
+In ferrets or dogs, AS-8112 dose-dependently inhibited emesis induced by R(+)-7-OH-DPAT, apomorphine, morphine or cisplatin with ID50 values of 2.22 microg kg(-1) s.c., 10.5 microg kg(-1) s.c., 14.2 microg kg(-1) i.v. and 17.6 microg kg(-1) i.v., respectively.
+Moreover, oral administration of AS-8112 significantly inhibited emesis induced by these emetogens.
+AS-8112 (0.3 mg kg(-1) i.v.) significantly inhibited emesis induced by cyclophosphamide and doxorubicin.
+In conclusion, AS-8112 is a potent dopamine D2, D3 and 5-HT3 receptors antagonist, and a novel anti-emetic agent with a broad-spectrum of anti-emetic activity.
+These results suggest that this compound is worthy of clinical investigation.

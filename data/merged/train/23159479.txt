@@ -1,0 +1,8 @@
+The impact of oxytocin administration and maternal love withdrawal on event-related potential (ERP) responses to emotional faces with performance feedback.
+This is the first experimental study on the effect of oxytocin administration on the neural processing of facial stimuli conducted with female participants that uses event-related potentials (ERPs).
+Using a double-blind, placebo-controlled within-subjects design, we studied the effects of 16 IU of intranasal oxytocin on ERPs to pictures combining performance feedback with emotional facial expressions in 48 female undergraduate students.
+Participants also reported on the amount of love withdrawal they experienced from their mothers.
+Vertex positive potential (VPP) and late positive potential (LPP) amplitudes were more positive after oxytocin compared to placebo administration.
+This suggests that oxytocin increased attention to the feedback stimuli (LPP) and enhanced the processing of emotional faces (VPP).
+Oxytocin heightened processing of the happy and disgusted faces primarily for those reporting less love withdrawal.
+Significant associations with LPP amplitude suggest that more maternal love withdrawal relates to the allocation of attention toward the motivationally relevant combination of negative feedback with a disgusted face.

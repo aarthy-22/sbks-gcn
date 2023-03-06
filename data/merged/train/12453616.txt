@@ -1,0 +1,7 @@
+Methamphetamine increases the hippocampal alpha(2A)-adrenergic receptor and Galpha(o) in mice.
+This study investigates the involvement of alpha(2)-adrenergic receptors (AR) in mouse brain induced by a low dose of methamphetamine (METH, 2 mg/kg).
+Immunohistochemical studies show that alpha(2A)-AR increased in the dentate gyrus area of the hippocampus 24 h after five repeated administrations of METH.
+The hippocampal alpha(2A)-AR proteins rose 3.2-fold when compared to the saline-administered mice.
+The other adrenergic receptor, alpha(1D)-AR, were not changed by the treatment.
+Moreover, alpha(o)-subunits of GTP-binding proteins (Galpha(o)), one of the downstream molecules of alpha(2A)-AR, was also increased by the treatment.
+These suggest that the repeated administration of low-doses of METH causes quantitative changes of the signaling of alpha(2A)-AR in the mouse hippocampus.

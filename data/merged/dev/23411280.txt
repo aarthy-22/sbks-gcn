@@ -1,0 +1,6 @@
+Inhibitory activity of Filipendula ulmaria constituents on recombinant human histidine decarboxylase.
+Histidine decarboxylase (HDC) catalyses the formation of histamine, a bioactive amine.
+Agents that control HDC activity are beneficial for treating histamine-mediated symptoms, such as allergies and stomach ulceration.
+We searched for inhibitors of HDC from the ethyl acetate extract of the petal of Filipendula ulmaria, also called meadowsweet.
+Rugosin D, rugosin A, rugosin A methyl ester (a novel compound), and tellimagrandin II were the main components; these 4 ellagitannins exhibited a non-competitive type of inhibition, with K(i) values of approximately 0.35-1 μM. These K(i) values are nearly equal to that of histidine methyl ester (K(i)=0.46 μM), an existing substrate analogue inhibitor.
+Our results show that food products contain potent HDC inhibitors and that these active food constituents might be useful for designing clinically available HDC inhibitors.

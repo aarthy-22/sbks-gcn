@@ -1,0 +1,14 @@
+Bovine and ovine gonadotropin-releasing hormone (GnRH)-II ligand precursors and type II GnRH receptor genes are functionally inactivated.
+The decapeptide sequence of GnRH-II is conserved in all jawed vertebrate species studied to date.
+New data for cattle (Bos taurus) indicates a gene encoding GnRH-II decapeptide possessing arginine (codon: CGG) rather than tryptophan (TGG) at position three in the mature peptide.
+This substitution is unique.
+We confirmed the DNA sequence after cloning part of the bovine prepro-GnRH-II gene.
+Bovine GnRH-II peptide was synthesized and pharmacologically characterized.
+It did not bind to mammalian GnRH receptors expressed in different types of cell nor did it exhibit agonist or antagonist properties on types I or II GnRH receptors expressed in COS-7 cells.
+Bovine primers facilitated cloning of ovine GnRH-II DNA.
+A premature stop codon (TGA) replaces the expected tryptophan codon at position seven of GnRH-II in sheep DNA.
+Thus, both species possess prepro-GnRH-II genes encoding inactive peptides, as previously described for chimpanzee GnRH-II.
+The updated bovine type II GnRH receptor gene sequence revealed inactivation by frame shifts, premature stop codons, and nucleotide changes specifying nonconservative replacement of amino acid residues, similar to inactivation of sheep type II GnRH receptor.
+Spliced RNA transcripts from the disrupted receptor gene were not detected in bovine pituitary.
+In contrast, bovine prepro-GnRH-I and type I GnRH receptor genes are intact, encoding well-conserved protein sequences.
+These findings, and previous descriptions of inactivation of the human type II GnRH receptor and deletions of prepro-GnRH-II and type II GnRH receptor in laboratory rodents, suggest the GnRH-II system has been replaced by the GnRH-I system or is redundant in certain mammals.

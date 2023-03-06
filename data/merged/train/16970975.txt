@@ -1,0 +1,8 @@
+Non-enzymatic interactions of glyoxylate with lysine, arginine, and glucosamine: a study of advanced non-enzymatic glycation like compounds.
+Glyoxylate is a 2 carbon aldo acid that is formed in hepatic tissue from glycolate.
+Once formed, the molecule can be converted to glycine by alanine-glyoxylate aminotransferase (AGAT).
+In defects of AGAT, glyoxylate is transformed to oxalate, resulting in high levels of oxalate in the body.
+The objective of this study was 2-fold.
+First, it was to determine, if akin to D-glucose, D-fructose or DL-glyceraldehyde, glyoxylate was susceptible to non-enzymatic attack by amino containing molecules such as lysine, arginine or glucosamine.
+Second, if by virtue of its molecular structure and size, glyoxylate was as reactive a reagent in non-enzymatic reactions as DL-glyceraldehyde; i.e., a glycose that we previously demonstrated to be a more effective glycating agent than D-glucose or D-fructose.
+Using capillary electrophoresis (CE), high performance liquid chromatography and UV and fluorescence spectroscopy, glyoxylate was found to be a highly reactive precursor of advanced glycation like end products (AGLEs) and a more effective promoter of non-enzymatic end products than D-glucose, D-fructose or DL-glyceraldehyde.

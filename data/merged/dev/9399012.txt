@@ -1,0 +1,16 @@
+Pre-clinical pharmacology of zolmitriptan (Zomig; formerly 311C90), a centrally and peripherally acting 5HT1B/1D agonist for migraine.
+Zolmitriptan (Zomig; formerly 311C90) is a novel 5-hydroxytryptamine (5HT)1B/1D receptor agonist with proven efficacy in the acute treatment of migraine with or without preceding aura.
+The drug differs from presently available members of this drug class in that it combines 5HT1B/1D receptor partial agonist activity with robust oral pharmacokinetics and an ability to inhibit trigeminovascular activation centrally as well as peripherally in preclinical studies.
+Consistent with its selectivity for 5HT1B/1D receptors, zolmitriptan produces constriction of various isolated blood vessels, most notably cranial arteries.
+In anaesthetized animals, these vascular effects manifest as a selective constriction of cranial arterio-venous anastomoses resulting in a redistribution of carotid arterial blood flow.
+This effect is produced without significant effects on heart rate, blood pressure or blood flow to the brain, heart or lungs.
+Zolmitriptan also inhibits trigeminal-evoked increases in cerebral blood flow in anaesthetized cats and blocks trigeminal-evoked plasma protein extravasation in the dura of guinea-pigs.
+These actions are consistent with a pre-junctional inhibition of neuropeptide release from perivascular afferents of the trigeminal nerve, as confirmed by independent studies showing that zolmitriptan blocks elevations of calcitonin-gene-related peptide in jugular venous blood during electrical stimulation of the trigeminal ganglion.
+In all of these effects, zolmitriptan is three to four times more potent than sumatriptan, but produces the same maximum response.
+Zolmitriptan crosses the intact blood-brain barrier to inhibit trigeminovascular activation in the brainstem.
+This was shown initially by the ability of the drug to block a brainstem reflex provoking vasoactive intestinal peptide release from the VIIth cranial (facial) nerve during trigeminal stimulation.
+Subsequent ex vivo autoradiography confirmed that intravenously injected [3H]zolmitriptan labels a discrete population of cells in the trigeminal nucleus caudalis (TNC) and nucleus tractus solitarius.
+Direct evidence for a central neuromodulatory effect of zolmitriptan was provided by electrophysiological experiments which clearly demonstrated that the drug inhibits the excitability of cells in the TNC after systemic administration.
+This novel pre-clinical profile not only distinguishes zolmitriptan from sumatriptan, but raises intriguing questions about the clinical relevance of a dual action.
+Studies to date show that zolmitriptan indeed modulates cranial sensory processing in humans, yet central side-effects are no different from sumatriptan.
+This property may account for the remarkable consistency in clinical efficacy observed in clinical trials.

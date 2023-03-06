@@ -1,0 +1,10 @@
+Biomarkers of prolonged exposure to microcystin-LR in mice.
+The effects of prolonged exposure to microcystins (MCs) on health are not yet sufficiently understood and this type of poisoning is often undiagnosed.
+Even though chronic exposure has been linked with liver cancer and alterations have been described in liver damage marker enzymes in exposed populations, there are not profile parameters that indicate prolonged exposure to microcystins.
+The aim of this work is to determine, based on an animal model of prolonged exposure to successive i.p.
+doses of 25 μg MC-LR/kg body weight, several plasma parameters which could be useful as exposure biomarkers.
+Hemoglobin (Hb) and methemoglobin (MetHb) levels were determined on blood samples.
+We also studied plasma levels of hydroperoxides (ROOHs), α-tocopherol, glutathione and lipid profile as well as superoxide dismutase (SOD) and catalase (CAT) erythrocyte activities.
+In addition, the determination of MC-LR levels in liver, kidney, plasma, urine and feces of treated mice was carried out.
+We found that alteration in MetHb, ROOHs, glutathione, α-tocopherol levels, SOD activity and plasma lipid profile, correlates with those expected if the alteration derived from hepatic damage.
+The alterated plasma paramenters together with MC-LR determination could be used as biomarkers, helpful tools in screening and epidemiological studies.

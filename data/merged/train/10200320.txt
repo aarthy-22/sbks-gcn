@@ -1,0 +1,11 @@
+Cyclopentenone prostaglandins suppress activation of microglia: down-regulation of inducible nitric-oxide synthase by 15-deoxy-Delta12,14-prostaglandin J2.
+Mechanisms leading to down-regulation of activated microglia and astrocytes are poorly understood, in spite of the potentially detrimental role of activated glia in neurodegeneration.
+Prostaglandins, produced both by neurons and glia, may serve as mediators of glial and neuronal functions.
+We examined the influence of cyclopentenone prostaglandins and their precursors on activated glia.
+As models of glial activation, production of inducible nitric-oxide synthase (iNOS) was studied in lipopolysaccharide-stimulated rat microglia, a murine microglial cell line BV-2, and IL-1beta-stimulated rat astrocytes.
+Cyclopentenone prostaglandins were potent inhibitors of iNOS induction and were more effective than their precursors, prostaglandins E2 and D2.
+15-Deoxy-Delta12,14-prostaglandin J2 (15d-PGJ2) was the most potent prostaglandin among those tested.
+In activated microglia, 15d-PGJ2 suppressed iNOS promoter activity, iNOS mRNA, and protein levels.
+The action of 15d-PGJ2 does not appear to involve its nuclear receptor peroxisome proliferator-activated receptor gamma (PPARgamma) because troglitazone, a specific ligand of PPARgamma, was unable to inhibit iNOS induction, and neither troglitazone nor 15d-PGJ2 could stimulate the activity of a PPAR-dependent promoter in the absence of cotransfected PPARgamma.
+15d-PGJ2 did not block nuclear translocation or DNA-binding activity of the transcription factor NFkappaB, but it did inhibit the activity of an NFkappaB reporter construct, suggesting that the mechanism of suppression of microglial iNOS by 15d-PGJ2 may involve interference with NFkappaB transcriptional activity in the nucleus.
+Thus, our data suggest the existence of a novel pathway mediated by cyclopentenone prostaglandins, which may represent part of a feedback mechanism leading to the cessation of inflammatory glial responses in the brain.

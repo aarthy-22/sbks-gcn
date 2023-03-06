@@ -1,0 +1,10 @@
+Thyroid hormone receptors/THR genes in human cancer.
+Thyroid hormone (triiodothyronine, T3) is a pleiotropic regulator of growth, differentiation and tissue homeostasis in higher organisms that acts through the control of target gene expression.
+Most, if not all, major T3 actions are mediated by specific high affinity nuclear receptors (TR) which are encoded by two genes, THRA and THRB.
+Several TRalpha and TRbeta receptor isoforms are expressed.
+Abundant and contradictory literature exists on the relationship between circulating thyroid hormone levels, thyroid diseases and human cancer.
+In 1986, a connection between TR and cancer became evident when the chicken TRalpha1 was characterized as the c-erbA proto-oncogene, the cellular counterpart of the retroviral v-erbA oncogene.
+V-erbA causes erythroleukemias and sarcomas in birds, and hepatocellular carcinomas in transgenic mice.
+In recent years, many studies have analyzed the presence of quantitative (abnormal levels) or qualitative (mutations) alterations in the expression of THR genes in different types of human neoplasias.
+While their role in tumor generation or progression is currently unclear, both gross chromosomal and minor mutations (deletions, aberrant splicing, point mutations) and changes in the level of expression of THRA and THRB genes have been found.
+Together with other in vitro data indicating connections between TR and p53, Rb, cyclin D and other cell cycle regulators and oncogenes, these results suggest that THRA and THRB may be involved in human cancer.

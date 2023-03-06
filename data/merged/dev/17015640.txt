@@ -1,0 +1,14 @@
+Licofelone, a balanced inhibitor of cyclooxygenase and 5-lipoxygenase, reduces inflammation in a rabbit model of atherosclerosis.
+Licofelone, a dual anti-inflammatory drug that inhibits 5-lipoxygenase (LOX) and cyclooxygenase (COX) enzymes, may have a better cardiovascular profile that cycloxygenase-2 inhibitors due to cycloxygenase-1 blockade-mediated antithrombotic effect and a better gastrointestinal tolerability.
+We examined the anti-inflammatory effect of licofelone on atherosclerotic lesions as well as in isolated neutrophils from whole blood of rabbits compared with a selective inhibitor of COX-2, rofecoxib.
+We also assessed the antithrombotic effect of licofelone in rabbit platelet-rich plasma.
+For this purpose, 30 rabbits underwent injury of femoral arteries, and they were randomized to receive 10 mg/kg/day licofelone or 5 mg/kg/day rofecoxib or no treatment during 4 weeks with atherogenic diet in all cases.
+Ten healthy rabbits were used as controls.
+Neutrophils and platelets were isolated from peripheral blood of rabbits for ex vivo studies.
+Licofelone reduced intima/media ratio in injured arteries, the macrophages infiltration in the neointimal area, monocyte chemoattractant protein-1 (MCP-1) gene expression, and the activation of nuclear factor-kappaB in rabbit atheroma.
+Moreover, licofelone inhibited COX-2 and 5-LOX protein expression in vascular lesions.
+Rofecoxib only diminished COX-2 protein expression and MCP-1 gene expression in vascular atheroma.
+Prostaglandin E(2) in rabbit plasma was attenuated by both drugs.
+Licofelone almost abolished 5-LOX activity by inhibiting leukotriene B4 generation in rabbit neutrophils and prevented platelet thromboxane B2 production from whole blood.
+Licofelone reduces neointimal formation and inflammation in an atherosclerotic rabbit model more markedly than rofecoxib.
+This effect, together with the antiplatelet activity of licofelone, suggests that this drug may have a favorable cardiovascular profile.

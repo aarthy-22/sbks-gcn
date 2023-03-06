@@ -1,0 +1,11 @@
+State-dependent mibefradil block of Na+ channels.
+Mibefradil is a T-type Ca2+ channel antagonist with reported cross-reactivity with other classes of ion channels, including K+, Cl-, and Na+ channels.
+Using whole-cell voltage clamp, we examined mibefradil block of four Na+ channel isoforms expressed in human embryonic kidney cells: Nav1.5 (cardiac), Nav1.4 (skeletal muscle), Nav1.2 (brain), and Nav1.7 (peripheral nerve).
+Mibefradil blocked Nav1.5 in a use/frequency-dependent manner, indicating preferential binding to states visited during depolarization.
+Mibefradil blocked currents of all Na+ channel isoforms with similar affinity and a dependence on holding potential, and drug off-rate was slowed at depolarized potentials (k(off) was 0.024/s at -130 mV and 0.007/s at -100 mV for Nav1.5).
+We further probed the interaction of mibefradil with inactivated Nav1.5 channels.
+Neither the degree nor the time course of block was dependent on the stimulus duration, which dramatically changed the residency time of channels in the fast-inactivated state.
+In addition, inhibiting the binding of the fast inactivation lid (Nav1.5 ICM + MTSET) did not alter mibefradil block, confirming that the drug does not preferentially interact with the fast-inactivated state.
+We also tested whether mibefradil interacted with slow-inactivated state(s).
+When selectively applied to channels after inducing slow inactivation with a 60-s pulse to -10 mV, mibefradil (1 microM) produced 45% fractional block in Nav1.5 and greater block (88%) in an isoform (Nav1.4) that slow-inactivates more completely.
+Our results suggest that mibefradil blocks Na+ channels in a state-dependent manner that does not depend on fast inactivation but probably involves interaction with one or more slow-inactivated state(s).

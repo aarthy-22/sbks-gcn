@@ -1,0 +1,8 @@
+Manganese-enhanced magnetic resonance imaging detects declining pancreatic β-cell mass in a cyclophosphamide-accelerated mouse model of type 1 diabetes.
+Currently, there is no ideal noninvasive method to quantify the progressive loss of pancreatic β-cell mass (BCM) that occurs in type 1 diabetes.
+Magnetic resonance imaging has detected gross differences in BCM between healthy and diabetic mice using the contrast agent manganese, which labels functional β-cells and increases the water proton relaxation rate (R1), but its ability to measure gradations in BCM during disease progression is unknown.
+Our objective was to test the hypothesis that measurements of the manganese-enhanced pancreatic R1 could detect decreasing BCM in a mouse model of type 1 diabetes.
+We used cyclophosphamide-accelerated BDC2.5 T-cell receptor transgenic nonobese diabetic mice, which experience development of type 1 diabetes during a 7-day time period after cyclophosphamide injection, whereas transgene-negative mice do not.
+We measured the manganese-enhanced pancreatic R1 before cyclophosphamide injection (day 0) and on days 3, 4, 5, and 7 afterward.
+Pancreatic R1 remained constant in transgene-negative mice and decreased stepwise day-to-day in transgene-positive mice, mirroring their loss of BCM, confirmed by pancreatic insulin measurements and histology.
+Changes in R1 in transgene-positive mice occurred before elevations in blood glucose, a clinical indicator of diabetes, suggesting potential for early noninvasive detection of changes in functional BCM.

@@ -1,0 +1,10 @@
+Cerebral and extracerebral cholesterol metabolism and CSF markers of Alzheimer's disease.
+The disturbances of the cholesterol synthesis and metabolism described in Alzheimer's disease (AD) may be both a consequence of the neurodegenerative process and a contributor to the pathogenesis.
+These putative relationships and their underlying mechanisms are not well understood.
+The aim of this study was to evaluate the relationship between the cerebral and extracerebral cholesterol synthesis and metabolism, and the AD pathology as reflected by CSF markers in humans.
+We evaluated the relationships between the plasma and the cerebrospinal fluid (CSF) concentrations of cholesterol, the cholesterol precursors lanosterol, lathosterol and desmosterol, and the cholesterol elimination products 24S-hydroxycholesterol and 27-hydroxycholesterol, and the CSF markers for AD pathology Aβ1-42 and p-tau181 in 86 subjects with normal cognition and in 107 AD patients.
+CSF desmosterol, cholesterol and 24S-hydroxycholesterol in the AD group, and CSF 24S-hydroxycholesterol in the control group correlated with the p-tau181 levels.
+Neither CSF nor plasma concentrations of the included compounds correlated with the CSF Aβ1-42 levels.
+In multivariate regression tests including age, gender, albumin ratio, number of the APOEɛ4 alleles, and diagnosis, p-tau181 levels independently predicted the CSF desmosterol, cholesterol and 24S-hydroxycholesterol concentrations.
+The associations remained significant for CSF cholesterol and 24S-hydroxycholesterol when analyses were separately performed in the AD group.
+The results suggest that alterations of CNS cholesterol de novo genesis and metabolism are related to neurodegeneration and in particular to the cerebral accumulation of phosphorylated tau.

@@ -1,0 +1,7 @@
+Gonadotropin-releasing hormone antagonist in the management of prostate cancer.
+Luteinizing hormone-releasing hormone (LHRH) agonist therapy to induce medical castration has become the most common form of hormonal therapy for advanced and metastatic prostate cancer.
+When treatment is started, LHRH agonists initially stimulate the release of LH, causing a surge in serum testosterone that can precipitate a "flare" phenomenon or worsening of disease, particularly in patients with bone metastatic disease.
+Gonadotropin-releasing hormone (GnRH) receptor antagonism represents a newer approach to medical castration.
+Abarelix is a pure GnRH receptor antagonist that is devoid of any LHRH agonist activity.
+Results from 1 phase II and 3 phase III clinical trials demonstrate that abarelix produces medical castration more quickly and without causing testosterone surge, as compared with LHRH agonists with or without a nonsteroidal antagonist.
+The safety profile in terms of adverse events is comparable between the 2 types of treatment, but the lack of testosterone surge with abarelix might confer a safety advantage by abolishing the risk of a disease flare.

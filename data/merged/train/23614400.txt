@@ -1,0 +1,7 @@
+Topological Dangling Bonds with Large Spin Splitting and Enhanced Spin Polarization on the Surfaces of Bi2Se3.
+We investigate the topological surface state properties at various surface cleaves in the topological insulator Bi2Se3, via first principles calculations and scanning tunneling microscopy/spectroscopy (STM/STS).
+While the typical surface termination occurs between two quintuple layers, we report the existence of a surface termination within a single quintuple layer where dangling bonds form with giant spin splitting owing to strong spin-orbit coupling.
+Unlike Rashba split states in a 2D electron gas, these states are constrained by the band topology of the host insulator with topological properties similar to the typical topological surface state, and thereby offer an alternative candidate for spintronics usage.
+We name these new states "topological dangling-bond states".
+The degree of the spin polarization of these states is greatly enhanced.
+Since dangling bonds are more chemically reactive, the observed topological dangling-bond states provide a new avenue for manipulating band dispersions and spin-textures by adsorbed atoms or molecules.

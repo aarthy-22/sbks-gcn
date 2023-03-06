@@ -1,0 +1,8 @@
+Effect of polyethylene glycol conjugation on the circulatory stability of plasma-derived human butyrylcholinesterase in mice.
+Exogenously administered human serum butyrylcholinesterase (Hu BChE) was demonstrated to function as a bioscavenger of highly toxic organophosphorus (OP) compounds in several animal species.
+Since the enzyme is isolated from human serum, it is currently the most suitable pretreatment for human use.
+A dose of 200-300mg/70kg human adult is projected to provide protection from 2 X LD50 of soman.
+Due to the limited supply of Hu BChE, strategies aimed at reducing the dose of enzyme are being explored.
+In this study, we investigated the effect of modification with polyethylene glycol (PEG) on the in vivo stability of Hu BChE. Mice were given two injections of either Hu BChE or Hu BChE modified with PEG-5K or PEG-20K, six weeks apart.
+Pharmacokinetic parameters, such as mean residence time (MRT), maximal concentration (Cmax), elimination half-life (T1/2), and area under the plasma concentration time curve extrapolated to infinity (AUC), were determined.
+For the first injection, values for MRT, T1/2, Cmax, and AUC for PEG-5K-Hu BChE and PEG-20K-Hu BChE were similar to those for Hu BChE. These values for the second injection of Hu BChE as well as PEG-Hu BChEs were lower as compared to those for the first injections, likely due to antibody-mediated clearance.

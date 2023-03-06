@@ -1,0 +1,14 @@
+CCAAT/Enhancer-binding protein-homologous protein sensitizes to SU5416 by modulating p21 and PI3K/Akt signal pathway in FRO anaplastic thyroid carcinoma cells.
+SU5416, vascular endothelial cell growth factor receptor inhibitor, suppresses hypoxia-induced angiogenesis, growth, proliferation, and metastasis in cancer cells.
+CCAAT/enhancer-binding protein-homologous protein (CHOP) has pivotal roles in regulation of growth and survival.
+In the present study, we evaluated the effects of SU5416 on cell survival, p21, and PI3K/Akt signal pathway in FRO anaplastic thyroid carcinoma (ATC) cells.
+Moreover, we investigated the roles of CHOP in cell survival under condition of SU5416 treatment in FRO ATC cells.
+After SU5416 treatment, cell viability, PARP-1, and caspase-3 protein levels were not changed.
+p53 and p27 protein levels decreased while p21 protein levels increased.
+Phospho-Akt protein levels were not altered.
+In SU5416-treated situation, cell viability was not different before and after administration of either p21 siRNA or LY294002 whereas it was lessened after co-administration of p21 siRNA and LY294002.
+Compared to SU5416 treatment alone, cell viability was reduced with CHOP plasmid but it was unchanged with CHOP siRNA.
+PARP-1 and caspase-3 protein levels with CHOP plasmid were elevated whereas the protein levels with CHOP siRNA were similar.
+While CHOP plasmid transfection diminished p21 and phospho-Akt protein levels, CHOP siRNA transfection did not alter the protein levels.
+In conclusion, these results suggest that CHOP may sensitize FRO ATC cells to SU5416 thereby inhibiting cell survival by modulating p21 and PI3K/Akt signal pathway.
+Furthermore, these findings imply that CHOP may be a possible candidate as the chemosensitizing factor for induction of cytotoxicity in ATC cells exposed to SU5416.

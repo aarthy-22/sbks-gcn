@@ -1,0 +1,4 @@
+Relaxant and beta 2-adrenoceptor blocking activities of labetalol, dilevalol, amosulalol and KF-4317 on the rat isolated aorta.
+The KCl-contracted rat aorta is relaxed by labetalol, dilevalol, amosulalol and KF-4317.
+These relaxations are not reversed by ICI 118,551 at 10(-6) M and, therefore, are not due to beta-adrenoceptor agonism.
+At 10(-7) M, labetalol, dilevalol, amosulalol and KF-4317 were beta 2-adrenoceptor antagonists as they inhibited the relaxant responses of rat aorta to procaterol.

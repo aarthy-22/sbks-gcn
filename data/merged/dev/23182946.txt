@@ -1,0 +1,11 @@
+Disrupted cytoskeletal homeostasis, astrogliosis and apoptotic cell death in the cerebellum of preweaning rats injected with diphenyl ditelluride.
+In the present report 15 day-old rats were injected with 0.3μmol of diphenyl ditelluride (PhTe)(2)/kg body weight and parameters of neurodegeneration were analyzed in slices from cerebellum 3 and 6 days afterwards.
+The earlier responses, at day 3 after injection, included hyperphosphorylation of intermediate filament (IF) proteins from astrocyte (glial fibrillary acidic protein - GFAP - and vimentin) and neuron (low-, medium- and high molecular weight neurofilament subunits: NF-L, NF-M and NF-H); increased mitogen-activated protein kinase (MAPK) (Erk and p38MAPK) and cAMP-dependent protein kinase (PKA) activities.
+Also, reactive astrogliosis takes part of the early responses to the insult with (PhTe)(2), evidenced by upregulated GFAP in Western blot, PCR and immunofluorescence analysis.
+Six days after (PhTe)(2) injection we found persistent astrogliosis, increased propidium iodide (PI) positive cells in NeuN positive population evidenced by flow cytometry and reduced immunofluorescence for NeuN, suggesting that the in vivo exposure to (PhTe)(2) progressed to neuronal death.
+Moreover, activated caspase 3 suggested apoptotic neuronal death.
+Neurodegeneration was related with decreased [(3)H]glutamate uptake and decreased Akt immunoreactivity, however phospho-GSK-3-β (Ser9) was not altered in (PhTe)(2) injected rat.
+Therefore, the present results show that the earlier cerebellar responses to (PhTe)(2) include disruption of cytoskeletal homeostasis that could be related with MAPK and PKA activation and reactive astrogliosis.
+Akt inhibition observed at this time could also play a role in the neuronal death evidenced afterwards.
+The later events of the neurodegenerative process are characterized by persistent astrogliosis and activation of apoptotic neuronal death through caspase 3 mediated mechanisms, which could be related with glutamate excitotoxicity.
+The progression of these responses are therefore likely to be critical for the outcome of the neurodegeneration provoked by (PhTe)(2) in rat cerebellum.

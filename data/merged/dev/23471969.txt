@@ -1,0 +1,6 @@
+An Intracellular Domain Fragment of the p75 Neurotrophin Receptor (p75NTR) Enhances Tropomyosin Receptor Kinase A (TrkA) Receptor Function.
+Facilitation of nerve growth factor (NGF) signaling by the p75 neurotrophin receptor (p75(NTR)) is critical for neuronal survival and differentiation.
+However, the interaction between p75(NTR) and TrkA receptors required for this activity is not understood.
+Here, we report that a specific 29-amino acid peptide derived from the intracellular domain fragment of p75(NTR) interacts with and potentiates binding of NGF to TrkA-expressing cells, leading to increased neurite outgrowth in sympathetic neurons as a result of enhanced Erk1/2 and Akt signaling.
+An endogenous intracellular domain fragment of p75(NTR) (p75(ICD)) containing these 29 amino acids is produced by regulated proteolysis of the full-length receptor.
+We demonstrate that generation of this fragment is a requirement for p75(NTR) to facilitate TrkA signaling in neurons and propose that the juxtamembrane region of p75(ICD) acts to cause a conformational change within the extracellular domain of TrkA. This finding provides new insight into the mechanism by which p75(NTR) and TrkA interact to enhance neurotrophic signaling.

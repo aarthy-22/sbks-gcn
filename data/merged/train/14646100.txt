@@ -1,0 +1,7 @@
+Crystallization and preliminary crystallographic analysis of human serine dehydratase.
+L-Serine dehydratase (SDH) catalyzes the pyridoxal phosphate (PLP) dependent deamination of L-serine to yield pyruvate.
+Recombinant human serine dehydratase was crystallized by the hanging-drop vapour-diffusion method.
+Crystals were grown at 291 K using (NH4)(2)SO4 as precipitant.
+Diffraction data were obtained to a resolution of 2.5 A from a single frozen crystal using Cu Kalpha radiation.
+The crystal belongs to space group I422, with unit-cell parameters a = 157.4, b = 157.4, c = 59.2 A, alpha = beta = gamma = 90 degrees.
+The asymmetric unit contains one molecule and has a solvent content of about 46%.

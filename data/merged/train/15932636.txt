@@ -1,0 +1,15 @@
+Diethylcarbamazine activity against Brugia malayi microfilariae is dependent on inducible nitric-oxide synthase and the cyclooxygenase pathway.
+BACKGROUND: Diethylcarbamazine (DEC) has been used for many years in the treatment of human lymphatic filariasis.
+Its mode of action is not well understood, but it is known to interact with the arachidonic acid pathway.
+Here we have investigated the contribution of the nitric oxide and cyclooxygenase (COX) pathways to the activity of DEC against B. malayi microfilariae in mice.
+METHODS: B. malayi microfilariae were injected intravenously into mice and parasitaemia was measured 24 hours later.
+DEC was then administered to BALB/c mice with and without pre-treatment with indomethacin or dexamethasone and the parasitaemia monitored.
+To investigate a role for inducible nitric oxide in DEC's activity, DEC and ivermectin were administered to microfilaraemic iNOS-/- mice and their background strain (129/SV).
+Western blot analysis was used to determine any effect of DEC on the production of COX and inducible nitric-oxide synthase (iNOS) proteins.
+RESULTS: DEC administered alone to BALB/c mice resulted in a rapid and profound reduction in circulating microfilariae within five minutes of treatment.
+Microfilarial levels began to recover after 24 hours and returned to near pre-treatment levels two weeks later, suggesting that the sequestration of microfilariae occurs independently of parasite killing.
+Pre-treatment of animals with dexamethasone or indomethacin reduced DEC's efficacy by almost 90% or 56%, respectively, supporting a role for the arachidonic acid and cyclooxygenase pathways in vivo.
+Furthermore, experiments showed that treatment with DEC results in a reduction in the amount of COX-1 protein in peritoneal exudate cells.
+Additionally, in iNOS-/- mice infected with B. malayi microfilariae, DEC showed no activity, whereas the efficacy of another antifilarial drug, ivermectin, was unaffected.
+CONCLUSION: These results confirm the important role of the arachidonic acid metabolic pathway in DEC's mechanism of action in vivo and show that in addition to its effects on the 5-lipoxygenase pathway, it targets the cyclooxygenase pathway and COX-1.
+Moreover, we show for the first time that inducible nitric oxide is essential for the rapid sequestration of microfilariae by DEC.

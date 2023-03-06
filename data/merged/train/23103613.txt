@@ -1,0 +1,11 @@
+Chloroacetic acid induced neuronal cells death through oxidative stress-mediated p38-MAPK activation pathway regulated mitochondria-dependent apoptotic signals.
+Chloroacetic acid (CA), a toxic chlorinated analog of acetic acid, is widely used in chemical industries as an herbicide, detergent, and disinfectant, and chemical intermediates that are formed during the synthesis of various products.
+In addition, CA has been found as a by-product of chlorination disinfection of drinking water.
+However, there is little known about neurotoxic injuries of CA on the mammalian, the toxic effects and molecular mechanisms of CA-induced neuronal cell injury are mostly unknown.
+In this study, we examined the cytotoxicity of CA on cultured Neuro-2a cells and investigated the possible mechanisms of CA-induced neurotoxicity.
+Treatment of Neuro-2a cells with CA significantly reduced the number of viable cells (in a dose-dependent manner with a range from 0.1 to 3mM), increased the generation of ROS, and reduced the intracellular levels of glutathione depletion.
+CA also increased the number of sub-G1 hypodiploid cells; increased mitochondrial dysfunction (loss of MMP, cytochrome c release, and accompanied by Bcl-2 and Mcl-1 down-regulation and Bax up-regulation), and activated the caspase cascades activations, which displayed features of mitochondria-dependent apoptosis pathway.
+These CA-induced apoptosis-related signals were markedly prevented by the antioxidant N-acetylcysteine (NAC).
+Moreover, CA activated the JNK and p38-MAPK pathways, but did not that ERK1/2 pathway, in treated Neuro-2a cells.
+Pretreatment with NAC and specific p38-MAPK inhibitor (SB203580), but not JNK inhibitor (SP600125) effectively abrogated the phosphorylation of p38-MAPK and attenuated the apoptotic signals (including: decrease in cytotoxicity, caspase-3/-7 activation, the cytosolic cytochrome c release, and the reversed alteration of Bcl-2 and Bax mRNA) in CA-treated Neuro-2a cells.
+Taken together, these data suggest that oxidative stress-induced p38-MAPK activated pathway-regulated mitochondria-dependent apoptosis plays an important role in CA-caused neuronal cell death.

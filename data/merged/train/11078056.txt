@@ -1,0 +1,15 @@
+Biochemistry of cyclooxygenase (COX)-2 inhibitors and molecular pathology of COX-2 in neoplasia.
+Several types of human tumors overexpress cyclooxygenase (COX) -2 but not COX-1, and gene knockout transfection experiments demonstrate a central role of COX-2 in experimental tumorigenesis.
+COX-2 produces prostaglandins that inhibit apoptosis and stimulate angiogenesis and invasiveness.
+Selective COX-2 inhibitors reduce prostaglandin synthesis, restore apoptosis, and inhibit cancer cell proliferation.
+In animal studies they limit carcinogen-induced tumorigenesis.
+In contrast, aspirin-like nonselective NSAIDs such as sulindac and indomethacin inhibit not only the enzymatic action of the highly inducible, proinflammatory COX-2 but the constitutively expressed, cytoprotective COX-1 as well.
+Consequently, nonselective NSAIDs can cause platelet dysfunction, gastrointestinal ulceration, and kidney damage.
+For that reason, selective inhibition of COX-2 to treat neoplastic proliferation is preferable to nonselective inhibition.
+Selective COX-2 inhibitors, such as meloxicam, celecoxib (SC-58635), and rofecoxib (MK-0966), are NSAIDs that have been modified chemically to preferentially inhibit COX-2 but not COX-1.
+For instance, meloxicam inhibits the growth of cultured colon cancer cells (HCA-7 and Moser-S) that express COX-2 but has no effect on HCT-116 tumor cells that do not express COX-2.
+NS-398 induces apoptosis in COX-2 expressing LNCaP prostate cancer cells and, surprisingly, in colon cancer S/KS cells that does not express COX-2.
+This effect may due to induction of apoptosis through uncoupling of oxidative phosphorylation and down-regulation of Bcl-2, as has been demonstrated for some nonselective NSAIDs, for instance, flurbiprofen.
+COX-2 mRNA and COX-2 protein is constitutively expressed in the kidney, brain, spinal cord, and ductus deferens, and in the uterus during implantation.
+In addition, COX-2 is constitutively and dominantly expressed in the pancreatic islet cells.
+These findings might somewhat limit the use of presently available selective COX-2 inhibitors in cancer prevention but will probably not deter their successful application for the treatment of human cancers.

@@ -1,0 +1,7 @@
+Crystal structures of protein phosphatase-1 bound to motuporin and dihydromicrocystin-LA: elucidation of the mechanism of enzyme inhibition by cyanobacterial toxins.
+The microcystins and nodularins are tumour promoting hepatotoxins that are responsible for global adverse human health effects and wildlife fatalities in countries where drinking water supplies contain cyanobacteria.
+The toxins function by inhibiting broad specificity Ser/Thr protein phosphatases in the host cells, thereby disrupting signal transduction pathways.
+A previous crystal structure of a microcystin bound to the catalytic subunit of protein phosphatase-1 (PP-1c) showed distinct changes in the active site region when compared with protein phosphatase-1 structures bound to other toxins.
+We have elucidated the crystal structures of the cyanotoxins, motuporin (nodularin-V) and dihydromicrocystin-LA bound to human protein phosphatase-1c (gamma isoform).
+The atomic structures of these complexes reveal the structural basis for inhibition of protein phosphatases by these toxins.
+Comparisons of the structures of the cyanobacterial toxin:phosphatase complexes explain the biochemical mechanism by which microcystins but not nodularins permanently modify their protein phosphatase targets by covalent addition to an active site cysteine residue.

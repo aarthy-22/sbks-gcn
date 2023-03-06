@@ -1,0 +1,9 @@
+Loss of beta-adrenoceptor response in myocytes overexpressing the Na+/Ca(2+)-exchanger.
+Increased Na+/Ca(2+)-exchanger (NCX) and altered beta-adrenoceptor (betaAR) responses are observed in failing human heart.
+To determine the possible interaction between these changes, we investigated the effect of NCX overexpression on responses to isoproterenol in adult rat ventricular myocytes.
+Responses to isoproterenol were largely mediated through the beta1AR in control myocytes.
+Adenovirally-mediated overexpression of NCX, at levels, which did not alter basal contraction of myocytes, markedly depressed the isoproterenol concentration-response curve.
+Responses to isoproterenol could be restored to normal by beta2AR blockade, suggesting a beta2AR-mediated inhibition of beta1AR signalling.
+Pertussis toxin normalised isoproterenol responses in NCX cells, indicating that beta2AR effects were mediated by Gi.
+Negative-inotropic effects of high concentrations of ICI 118,551, previously shown to be due to beta2AR-Gi coupling, were increased in NCX cells.
+We conclude that NCX upregulation can markedly alter the consequences of betaAR stimulation and that this may contribute to the alterations in betaAR response seen in failing human heart.

@@ -1,0 +1,12 @@
+Study of endothelial cell apoptosis using fluorescence resonance energy transfer (FRET) biosensor cell line with hemodynamic microfluidic chip system.
+To better understand how hyperglycemia induces endothelial cell dysfunction under the diabetic conditions, a hemodynamic microfluidic chip system was developed.
+The system combines a caspase-3-based fluorescence resonance energy transfer (FRET) biosensor cell line which can detect endothelial cell apoptosis in real-time, post-treatment effect and with a limited cell sample, by using a microfluidic chip which can mimic the physiological pulsatile flow profile in the blood vessel.
+The caspase-3-based FRET biosensor endothelial cell line (HUVEC-C3) can produce a FRET-based sensor protein capable of probing caspase-3 activation.
+When the endothelial cells undergo apoptosis, the color of the sensor cells changes from green to blue, thus sensing apoptosis.
+A double-labeling fluorescent technique (yo pro-1 and propidium iodide) was used to validate the findings revealed by the FRET-based caspase sensor.
+The results show high rates of apoptosis and necrosis of endothelial cells when high glucose concentration was applied in our hemodynamic microfluidic chip combined with an exhaustive pulsatile flow profile.
+The two apoptosis detection techniques (fluorescent method and FRET biosensor) are comparable; but FRET biosensor offers more advantages such as real-time observation and a convenient operating process to generate more accurate and reliable data.
+Furthermore, the activation of the FRET biosensor also confirms the endothelial cell apoptosis induced by the abnormal pulsatile shear stress and high glucose concentration is through caspase-3 pathway.
+A 12% apoptotic rate (nearly a 4-fold increase compared to the static condition) was observed when the endothelial cells were exposed to a high glucose concentration of 20 mM under 2 h exhaustive pulsatile shear stress of 30 dyne cm(-2) and followed with another 10 h normal pulsatile shear stress of 15 dyne cm(-2).
+Therefore, the most important finding of this study is to develop a novel endothelial cell apoptosis detection method, which combines the microfluidic chip system and FRET biosensor.
+This finding may provide new insight into how glucose causes endothelial cell dysfunction, which is the major cause of diabetes-derived complications.

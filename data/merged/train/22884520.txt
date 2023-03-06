@@ -1,0 +1,6 @@
+Oxysterol generation and liver X receptor-dependent reverse cholesterol transport: not all roads lead to Rome.
+Cell cholesterol metabolism is a tightly regulated process, dependent in part on activation of nuclear liver X receptors (LXRs) to increase expression of genes mediating removal of excess cholesterol from cells in the reverse cholesterol transport pathway.
+LXRs are thought to be activated predominantly by oxysterols generated enzymatically from cholesterol in different cell organelles.
+Defects resulting in slowed release of cholesterol from late endosomes and lysosomes or reduction in sterol-27-hydroxylase activity lead to specific blocks in oxysterol production and impaired LXR-dependent gene activation.
+This block does not appear to be compensated by oxysterol production in other cell compartments.
+The purpose of this review is to summarize current knowledge about oxysterol-dependent activation by LXR of genes involved in reverse cholesterol transport, and what these defects of cell cholesterol homeostasis can teach us about the critical pathways of oxysterol generation for expression of LXR-dependent genes.

@@ -1,0 +1,10 @@
+Vitamin K2 covalently binds to Bak and induces Bak-mediated apoptosis.
+Vitamin K2 (VK2, menaquinone) is known to have anticancer activity in vitro and in vivo.
+Although its effect is thought to be mediated, at least in part, by the induction of apoptosis, the underlying molecular mechanism remains elusive.
+Here, we identified Bcl-2 antagonist killer 1 (Bak) as a molecular target of VK2-induced apoptosis.
+VK2 directly interacts with Bak and induces mitochondrial-mediated apoptosis.
+Although Bak and Bcl-2-associated X protein (Bax), another member of the Bcl-2 family, are generally thought to be functionally redundant, only Bak is necessary and sufficient for VK2-induced cytochrome c (cyt c) release and cell death.
+Moreover, VK2-2,3 epoxide, an intracellular metabolite of VK2, was shown to covalently bind to the cysteine-166 residue of Bak.
+Several lines of evidence suggested that the covalent attachment of VK2 is critical for apoptosis induction.
+Thus this study reveals a specific role for Bak in mitochondria-mediated apoptosis.
+This study also provides insight into the anticancer effects of VK2 and suggests that Bak may be a potential target of cancer therapy.

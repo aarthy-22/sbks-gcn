@@ -1,0 +1,10 @@
+Constitutively active group I mGlu receptors and PKMzeta regulate synaptic transmission in developing perirhinal cortex.
+Synaptic transmission is essential for early development of the central nervous system.
+However, the mechanisms that regulate early synaptic transmission in the cerebral cortex are unclear.
+PKMζ is a kinase essential for the maintenance of LTP.
+We show for the first time that inhibition of PKMζ produces a profound depression of basal synaptic transmission in neonatal, but not adult, rat perirhinal cortex.
+This suggests that synapses in early development are in a constitutive LTP-like state.
+Furthermore, basal synaptic transmission in immature, but not mature, perirhinal cortex relies on persistent activity of metabotropic glutamate (mGlu) receptor, PI3Kinase and mammalian target of rapamycin (mTOR).
+Thus early in development, cortical synapses exist in an LTP-like state maintained by tonically active mGlu receptor-, mTOR- and PKMζ- dependent cascades.
+These results provide new understanding of the molecular mechanisms that control synapses during development and may aid our understanding of developmental disorders such as autism and schizophrenia.
+This article is part of a Special Issue entitled 'Metabotropic Glutamate Receptors'.

@@ -1,0 +1,9 @@
+Changes in gene expression associated with loss of function of the NSDHL sterol dehydrogenase in mouse embryonic fibroblasts.
+Seven human disorders of postsqualene cholesterol biosynthesis have been described.
+One of these, congenital hemidysplasia with ichthyosiform nevus and limb defects (CHILD) syndrome, results from mutations in the X-linked gene NADH sterol dehydrogenase-like (NSDHL) encoding a sterol dehydrogenase.
+A series of mutant alleles of the murine Nsdhl gene are carried by bare patches (Bpa) mice, with Bpa(1H) representing a null allele.
+Heterozygous Bpa(1H) females display skin and skeletal abnormalities in a distribution reflecting random X inactivation, whereas hemizygous male embryos die before embryonic day 10.5.
+To investigate the molecular basis of defects associated with perturbations in cholesterol biosynthesis, microarray analysis was performed comparing gene expression in embryonic fibroblasts expressing the Bpa(1H) allele versus wild-type (wt) cells.
+Labeled cDNAs from cells grown in normal serum or lipid-depleted serum (LDS) were hybridized to microarrays containing 22,000 mouse genes.
+Among 44 genes that showed higher expression in the Bpa(1H) versus wt cells grown in LDS, 11 function in cholesterol biosynthesis, 7 are involved in fatty acid synthesis, 3 (Srebp2, Insig1, and Orf11) encode sterol-regulatory proteins, and 2 (Ldlr and StarD4) are lipid transporters.
+Of the 21 remaining genes, 16 are known genes, some of which have been implicated previously in cholesterol homeostasis or lipid-mediated signaling, and 5 are uncharacterized cDNA clones.

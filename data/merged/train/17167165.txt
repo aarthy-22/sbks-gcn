@@ -1,0 +1,13 @@
+Adenosine 5'-monophosphate kinase-activated protein kinase (PRKA) activators delay meiotic resumption in porcine oocytes.
+Adenosine monophosphate-activated kinase (PRKA) is a serine/threonine kinase that functions as a metabolic switch in a number of physiological functions.
+The present study was undertaken to assess the role of this kinase in nuclear maturation of porcine oocytes.
+RT-PCR and immunoblotting revealed the expression of the PRKAA1 subunit in granulosa cells, cumulus-oocyte complexes (COC), and denuded oocytes (DO).
+Porcine COC and DO contained transcripts that corresponded to the expected sizes of the designed primers for PRKAB1 and PRKAG1.
+The PRKAA2 subunit was detected in granulosa cells and COC, whereas the PRKAG3 subunit was not detected in granulosa cells, COC or DO, whereas it was detected in the heart.
+The PRKAA1 protein was detected in granulosa cells, COC, DO, and zona pellucida (ZP).
+In the presence of the pharmacological activator of PRKA 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranosyl 5'-monophosphate (ZMP), COC were transiently maintained in meiotic arrest in a fully reversible manner.
+This inhibitory effect was not observed in DO.
+Other known PRKA activators, 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside (AICAR) and metformin, also blocked meiotic resumption in COC.
+In contrast to mouse oocytes, in which PRKA activators reverse the inhibitory effect of PDE3 inhibitors, this combination still blocked meiotic resumption in porcine COC.
+These results demonstrate that the meiotic resumption of porcine COC is transiently blocked by PRKA activators in a dose-dependent manner, and that this effect is dependent on PRKA activity in cumulus cells.
+The present study describes a new role for PRKA in regulating meiotic resumption in COC and strongly suggests that cumulus cells play an essential role in the control of porcine oocyte maturation through the PRKA metabolic switch.

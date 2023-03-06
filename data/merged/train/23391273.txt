@@ -1,0 +1,12 @@
+Metabolically obese status with normal weight is associated with both the prevalence and severity of angiographic coronary artery disease.
+OBJECTIVE: We evaluated prevalence and severity of angiographic coronary artery disease (CAD) according to groups by metabolically obese (MO) and/or weight status.
+MATERIAL/METHODS: Normal weight was defined as body mass index (BMI, kg/m(2))<25 and obesity was defined as BMI≥25.
+The MO was determined using the National Cholesterol Education Program-Adult Treatment Panel III classification with Korean-specific cutoffs for abdominal obesity.
+Therefore, a total of 856 subjects were categorized as follows: (1) metabolically healthy and normal weight (MHNW); (2) metabolically obese but normal weight (MONW); (3) metabolically healthy but obese (MHO); and (4) metabolically abnormally obese (MAO).
+The presence of obstructive lesion≥50% of coronary artery was considered as an angiographic CAD and the Gensini scoring system was used for the severity.
+RESULTS: MONW or MO showed a higher prevalence of CAD than MHNW or non-MO after adjustment for age and sex, respectively (MONW, odds ratio [OR]=1.69, 95% confidence interval [CI]: 1.13-2.51 and MO, OR=1.44, 95% CI: 1.09-1.91).
+In subjects without diabetes mellitus (DM), MONW or MO showed a marginally higher prevalence of CAD (MONW, OR=1.58, 95% CI: 0.96-2.61 and MO, OR=1.41, 95% CI: 0.96-2.08).
+MONW was independently associated with a higher severity of angiographic CAD than MHNW after age, sex, glomerular filtration rate, smoking status, high sensitive C-reactive protein, and use of anti-platelet and anti-angina drugs (β=0.118, P=0.005). And MO was associated with a higher severity of angiographic CAD than non-MO after adjustment for age and sex (β=0.077, P=0.024).
+The above associations were also consistent in subjects without DM (MONW, β=0.147, P=0.003 and MO, β=0.129, P=0.005).
+CONCLUSIONS: MONW or MO is associated with both the prevalence and severity of angiographic CAD after adjustment for age and sex and MONW is independently associated with the severity of angiographic CAD irrespective of DM.
+Therefore, subjects with MO but normal weight (MONW) should be carefully examined for angiographic CAD.

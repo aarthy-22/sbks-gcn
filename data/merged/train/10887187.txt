@@ -1,0 +1,11 @@
+TWIK-2, an inactivating 2P domain K+ channel.
+We cloned human and rat TWIK-2 and expressed this novel 2P domain K(+) channel in transiently transfected COS cells.
+TWIK-2 is highly expressed in the gastrointestinal tract, the vasculature, and the immune system.
+Rat TWIK-2 currents are about 15 times larger than human TWIK-2 currents, but both exhibit outward rectification in a physiological K(+) gradient and mild inward rectification in symmetrical K(+) conditions.
+TWIK-2 currents are inactivating at depolarized potentials, and the kinetic of inactivation is highly temperature-sensitive.
+TWIK-2 shows an extremely low conductance, which prevents the visualization of discrete single channel events.
+The inactivation and rectification are intrinsic properties of TWIK-2 channels.
+In a physiological K(+) gradient, TWIK-2 is half inhibited by 0.1 mm Ba(2+), quinine, and quinidine.
+Finally, cysteine 53 in the M1P1 external loop is required for functional expression of TWIK-2 but is not critical for subunit self-assembly.
+TWIK-2 is the first reported 2P domain K(+) channel that inactivates.
+The base-line, transient, and delayed activities of TWIK-2 suggest that this novel 2P domain K(+) channel may play an important functional role in cell electrogenesis.

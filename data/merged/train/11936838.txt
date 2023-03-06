@@ -1,0 +1,11 @@
+Inhibition of MCP-1 and MIP-2 transcription and translation by mimosine in muscle tissue infected with the parasite Trichinella spiralis.
+Mimosine is a non-toxic plant aminoacid which is an effective inhibitor of DNA replication by acting at the S-phase.
+In this study we infected mice with T. spiralis, a nematode parasite, and studied the inflammatory response through the determination of MIP-2, a C-X-C chemokine and MCP-1, a C-C chemokine in the inflamed area around the parasitic cyst.
+The animals were infected and their diaphragms were tested for inflammatory response.
+MCP-1 and MIP-2 was tested after 1, 10, 20, 30, and 40 days post inoculation, before and after mimosine treatment.
+The inflammatory index was calculated by counting the white blood cells around the nematode cysts, while expression of MIP-2 and MCP-1 was calculated by ELISA method and transcription by Northern blot and RT-PCR.
+Here we found that mimosine strongly inhibited the inflammatory index in the diaphragmatic tissue at 10, 20, 30 and 40 days post-treatment.
+In these experiments, mimosine had no effect on the number of cysts produced.
+In addition, we found that MCP-1 transcription and translation was completely inhibited by mimosine, while MIP-2 transcription and translation was partially inhibited at 30 and 40 days; yet it was totally inhibited after 10 and 20 days in encysted diaphragm tissue infected by T. spiralis.
+Our studies suggest that mimosine has an inhibitory effect through the inhibition of cytoplasmatic serine hydroxymethyltransferase altering the cell cycle of white blood cells.
+This study suggests for the first time the premise that mimosine acts as an anti-inflammatory compound.

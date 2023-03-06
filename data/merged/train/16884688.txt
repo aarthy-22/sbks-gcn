@@ -1,0 +1,6 @@
+Mutations within the human GLYT2 (SLC6A5) gene associated with hyperekplexia.
+Hereditary hyperekplexia is a neuromotor disorder characterized by exaggerated startle reflexes and muscle stiffness in the neonate.
+The disease has been associated with mutations in the glycine receptor subunit genes GLRA1 and GLRB.
+Here, we describe mutations within the neuronal glycine transporter 2 gene (GLYT2, or SLC6A5, ) of hyperekplexia patients, whose symptoms cannot be attributed to glycine receptor mutations.
+One of the GLYT2 mutations identified causes truncation of the transporter protein and a complete loss of transport function.
+Our results are consistent with GLYT2 being a disease gene in human hyperekplexia.

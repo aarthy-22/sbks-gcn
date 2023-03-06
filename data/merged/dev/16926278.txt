@@ -1,0 +1,9 @@
+A 46-amino acid segment in phosphodiesterase-5 GAF-B domain provides for high vardenafil potency over sildenafil and tadalafil and is involved in phosphodiesterase-5 dimerization.
+Phosphodiesterase-5 (PDE5) contains a catalytic domain (C domain) that hydrolyzes cGMP and a regulatory domain (R domain) that contains two mammalian cGMP-binding phosphodiesterase, Anabaena adenylyl cyclases, Escherichia coli FhlAs (GAFs) (A and B) and a phosphorylation site for cyclic nucleotide-dependent protein kinases (cNPKs).
+Binding of cGMP to GAF-A increases cNPK phosphorylation of PDE5 and improves catalytic site affinity for cGMP or inhibitors.
+GAF-B contributes to dimerization of PDE5, inhibition of cGMP binding to GAF-A, and sequestration of the phosphorylation site.
+To probe potential PDE5 R domain effects on catalytic site affinity for certain inhibitors, four N-terminal truncation mutants were generated: PDE5Delta1-321 contained GAF-B domain, C domain, and the sequence between GAF-A and -B; PDE5Delta1-419 contained GAF-B and C domain; PDE5Delta1-465 contained the C domain and the C-terminal portion of GAF-B; and PDE5Delta1-534 contained only C domain.
+Truncated proteins with a complete GAF-B were dimers, but those lacking the N-terminal 46 amino acids of GAF-B were monomers, indicating that these residues are vital for GAF-B-mediated PDE5 dimerization.
+K(m) values of the mutants for cGMP were similar to that of full-length PDE5.
+All PDE5 constructs had similar affinities for 3-isobutyl-1-methylxanthine, sildenafil, tadalafil, and UK-122764, but mutants containing a complete GAF-B had 7- to 18-fold higher affinity for vardenafil-based compounds compared with those lacking a complete GAF-B. This indicated that the N-terminal 46 amino acids in GAF-B are required for high vardenafil potency.
+This is the first evidence that PDE5 R domain, and GAF-B in particular, influences affinity and selectivity of the catalytic site for certain classes of inhibitors.

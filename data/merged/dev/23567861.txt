@@ -1,0 +1,10 @@
+Evaluation of 7-O-galloyl-d-sedoheptulose, isolated from Corni Fructus, in the adipose tissue of type 2 diabetic db/db mice.
+The aim of the present study was to evaluate the beneficial effects of 7-O-galloyl-d-sedoheptulose (GS), isolated from Corni Fructus, using type 2 diabetic mice.
+GS was orally administered to db/db mice at doses of 20 and 100mg/kg body weight per day for 6weeks, and the effects of GS on biochemical factors in serum and adipose tissue were investigated.
+To define the underlying mechanism of these effects, protein expressions related to lipid metabolism, inflammation, fibrosis, and apoptosis, were measured.
+The results showed that levels of glucose, leptin, insulin, C-peptide, resistin, tumor necrosis factor-α, interleukin-6, triglycerides, total cholesterol, non-esterified fatty acids, high-density lipoprotein cholesterol, very low-density lipoprotein cholesterol/low-density lipoprotein cholesterol, reactive oxygen species (ROS), and thiobarbituric acid-reactive substance (TBARS) in serum were down-regulated, while adiponectin was augmented by GS treatment.
+In addition, the elevated lipid, ROS, and TBARS contents in adipose tissue as well as serum levels in db/db mice were significantly decreased by the oral administration of GS.
+From protein analysis, the decreased expressions of peroxisome proliferator activated receptor (PPAR)α, PPARγ, and B-cell lymphoma 2 were up-regulated in the adipose tissue of db/db mice.
+The administration of GS significantly decreased sterol regulatory element binding protein-1, nuclear factor-kappa ?
+>Bp65, cyclooxygenase-2, inducible nitric oxide synthase, monocyte chemotactic protein-1, intracellular adhesion molecule-1, phosphor c-Jun N-terminal kinase, activator protein-1, transforming growth factor-β1, Bax, cytochrome c, and caspase-3 expressions.
+These results suggest that GS acts as a regulator of oxidative stress, inflammation, fibrosis, and apoptosis in the adipose tissue of db/db mice.

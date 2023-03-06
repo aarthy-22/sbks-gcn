@@ -1,0 +1,13 @@
+Combination therapy with mitiglinide and voglibose improves glycemic control in type 2 diabetic patients on hemodialysis.
+OBJECTIVE: Mitiglinide, a rapid- and short-acting insulinotropic sulfonylurea receptor ligand, exhibits hypoglycemic action unlike other sulfonylureas.
+The efficacy of the combination of mitiglinide and alpha-glucosidase inhibitors for diabetic patients on hemodialysis (HD) has not been prospectively evaluated; therefore, we evaluated the efficacy and safety of mitiglinide in these patients.
+RESEARCH DESIGN AND METHODS: We performed an open-label randomized study with 36 type 2 diabetics with poor glycemic control on HD and receiving daily doses of voglibose (0.9 mg).
+The patients were randomly assigned to two groups: a combination-therapy group (mitiglinide group), mitiglinide initial dose 7.5 - 15 mg titrated to 30 mg daily and constant daily dose 0.9 mg of voglibose, and a monotherapy group (control group), constant daily dose 0.9 mg of voglibose alone.
+The efficacy of the treatment was determined by monitoring plasma glucose, hemoglobin A1c (Hb(A1c)), and glycated albumin (GA) levels and using homeostasis model assessment of insulin resistance (HOMA-IR).
+Safety and tolerance were determined by monitoring clinical and laboratory parameters.
+RESULTS: The final dose of mitiglinide was 22.9 +/- 8.9 (mean +/- s.d.) mg (0.41 mg/kg) daily.
+Mitiglinide reduced fasting plasma glucose and GA levels after 4 weeks and Hb(A1c) levels after 8 weeks.
+Triglyceride levels and HOMA-IR values also decreased significantly after mitiglinide treatment.
+No significant changes in blood pressure levels or serious adverse effects such as hypoglycemia or liver impairment were observed.
+CONCLUSIONS: This study suggests a combination therapy of mitiglinide and voglibose may have potential for the treatment of diabetics on HD.
+Due to the small sample size used, further studies should be performed, particularly to assess the safety of mitiglinide treatment.

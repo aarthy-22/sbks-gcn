@@ -1,0 +1,6 @@
+Ribostamycin inhibits the chaperone activity of protein disulfide isomerase.
+In the process of screening of proteins binding to ribostamycin in bovine liver using the affinity column chromatography, we found that ribostamycin inhibited the chaperone activity of protein disulfide isomerase (PDI), but it did not inhibit the isomerase activity.
+PDI was identified by SDS-PAGE, Western blotting, and N-terminal amino acid sequence analysis.
+A 100:1 molar ratio of ribostamycin to PDI was almost sufficient to completely inhibit the chaperone activity of PDI.
+The binding affinity of ribostamycin to purified bovine PDI was determined by the Biacore system, which gave a K(D) value of 3.19 x 10(-4) M. This suggests that ribostamycin binds to region distinct from the CGHC motif of PDI.
+This is the first report to describe the inhibitor of the chaperone activity of PDI.

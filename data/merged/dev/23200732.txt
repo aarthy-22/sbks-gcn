@@ -1,0 +1,9 @@
+Lessons from the dissection of the activation functions (AF-1 and AF-2) of the estrogen receptor alpha in vivo.
+Estrogens influence most of the physiological processes in mammals, including but not limited to reproduction, cognition, behavior, vascular system, metabolism and bone integrity.
+Given this widespread role for estrogen in human physiology, it is not surprising that estrogen influence the pathophysiology of numerous diseases, including cancer (of the reproductive tract as breast, endometrial but also colorectal, prostate,…), as well as neurodegenerative, inflammatory-immune, cardiovascular and metabolic diseases, and osteoporosis.
+These actions are mediated by the activation of estrogen receptors (ER) alpha (ERα) and beta (ERβ), which regulate target gene transcription (genomic action) through two independent activation functions (AF)-1 and AF-2, but can also elicit rapid membrane initiated steroid signals (MISS).
+Targeted ER gene inactivation has shown that although ERβ plays an important role in the central nervous system and in the heart, ERα appears to play a prominent role in most of the other tissues.
+Pharmacological activation or inhibition of ERα and/or ERβ provides already the basis for many therapeutic interventions, from hormone replacement at menopause to prevention of the recurrence of breast cancer.
+However, the use of these estrogens or selective estrogen receptors modulators (SERMs) have also induced undesired effects.
+Thus, an important challenge consists now to uncouple the beneficial actions from other deleterious ones.
+The in vivo molecular "dissection" of ERα represents both a molecular and integrated approach that already allowed to delineate in mouse the role of the main "subfunctions" of the receptor and that could pave the way to an optimization of the ER modulation.

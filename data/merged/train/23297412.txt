@@ -1,0 +1,8 @@
+Resveratrol improves cardiomyopathy in dystrophin-deficient mice through SIRT1 protein-mediated modulation of p300 protein.
+Cardiomyopathy is the main cause of death in Duchenne muscular dystrophy.
+Here, we show that oral administration of resveratrol, which leads to activation of an NAD(+)-dependent protein deacetylase SIRT1, suppresses cardiac hypertrophy and fibrosis and restores cardiac diastolic function in dystrophin-deficient mdx mice.
+The pro-hypertrophic co-activator p300 protein but not p300 mRNA was up-regulated in the mdx heart, and resveratrol administration down-regulated the p300 protein level.
+In cultured cardiomyocytes, cardiomyocyte hypertrophy induced by the α(1)-agonist phenylephrine was inhibited by the overexpression of SIRT1 as well as resveratrol, both of which down-regulated p300 protein levels but not p300 mRNA levels.
+In addition, activation of atrial natriuretic peptide promoter by p300 was inhibited by SIRT1.
+We found that SIRT1 induced p300 down-regulation via the ubiquitin-proteasome pathway by deacetylation of lysine residues for ubiquitination.
+These findings indicate the pathological significance of p300 up-regulation in the dystrophic heart and indicate that SIRT1 activation has therapeutic potential for dystrophic cardiomyopathy.

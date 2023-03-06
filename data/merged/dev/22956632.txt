@@ -1,0 +1,12 @@
+Toxicity profile of small-molecule IAP antagonist GDC-0152 is linked to TNF-α pharmacology.
+Inhibitor-of-apoptosis (IAP) proteins suppress apoptosis and are overexpressed in a variety of cancers.
+Small-molecule IAP antagonists are currently being tested in clinical trials as novel cancer therapeutics.
+GDC-0152 is a small-molecule drug that triggers tumor cell apoptosis by selectively antagonizing IAPs.
+GDC-0152 induces NF-κB transcriptional activity leading to expression of several chemokines and cytokines, of which tumor necrosis factor alpha (TNF-α) is the most important for single-agent tumor activity.
+TNF-α is a pleiotropic cytokine that drives a variety of cellular responses, comprising inflammation, proliferation, and cell survival or death depending on the cellular context.
+As malignant and normal cells produce TNF-α upon IAP antagonism, increased TNF-α could drive both efficacy and toxicity.
+The toxicity profile of GDC-0152 in dogs and rats was characterized after iv dose administration once every 2 weeks for four doses.
+Findings in both species consisted of a dose-related, acute, systemic inflammatory response, and hepatic injury.
+Laboratory findings included elevated plasma cytokines, an inflammatory leukogram, and increased liver transaminases with histopathological findings of inflammatory infiltrates and apoptosis/necrosis in multiple tissues; a toxicology profile consistent with TNF-α-mediated toxicity.
+Dogs exhibited more severe findings than rats, and humans did not exhibit these findings, at comparable exposures across species.
+Furthermore, elevations in blood neutrophil count, serum monocyte chemoattractant protein-1, and other markers of inflammation corresponded to GDC-0152 exposure and toxicity and thus may have utility as safety biomarkers.

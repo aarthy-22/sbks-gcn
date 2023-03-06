@@ -1,0 +1,14 @@
+Affinity alkylation of human placental 3 beta-hydroxy-5-ene-steroid dehydrogenase and steroid 5----4-ene-isomerase by 2 alpha-bromoacetoxyprogesterone: evidence for separate dehydrogenase and isomerase sites on one protein.
+We have copurified human placental 3 beta-hydroxy-5-ene-steroid dehydrogenase and steroid 5----4-ene-isomerase, which synthesize progesterone from pregnenolone and androstenedione from fetal dehydroepiandrosterone sulfate, from microsomes as a homogeneous protein based on electrophoretic and NH2-terminal sequencing data.
+The affinity alkylator, 2 alpha-bromoacetoxyprogesterone, simultaneously inactivates the pregnene and androstene dehydrogenase activities as well as the C21 and C19 isomerase activities in a time-dependent, irreversible manner following first order kinetics.
+At four concentrations (50/1-20/1 steroid/enzyme M ratios), the alkylator inactivates the dehydrogenase activity (t1/2 = 1.5-3.7 min) 2-fold faster than the isomerase activity.
+Pregnenolone and dehydroepiandrosterone protect the dehydrogenase activity, while 5-pregnene-3,20-dione, progesterone, and androstenedione protect isomerase activity from inactivation.
+The protection studies and competitive kinetics of inhibition demonstrate that the affinity alkylator is active site-directed.
+Kitz and Wilson analyses show that 2 alpha-bromoacetoxyprogesterone inactivates the dehydrogenase activity by a bimolecular mechanism (k3' = 160.9 l/mol.s), while the alkylator inactivates isomerase by a unimolecular mechanism (Ki = 0.14 mM, k3 = 0.013 s-1).
+Pregnenolone completely protects the dehydrogenase activity but does not slow the rate of isomerase inactivation by 2 alpha-bromoacetoxyprogesterone at all.
+NADH completely protects both activities from inactivation by the alkylator, while NAD+ protects neither.
+From Dixon analysis, NADH competitively inhibits NAD+ reduction by dehydrogenase activity.
+Mixed cofactor studies show that isomerase binds NAD+ and NADH at a common site.
+Therefore, NADH must not protect either activity by simply binding at the cofactor site.
+We postulate that NADH binding as an allosteric activator of isomerase protects both the dehydrogenase and isomerase activities from affinity alkylation by inducing a conformational change in the enzyme protein.
+The human placental enzyme appears to express the pregnene and androstene dehydrogenase activities at one site and the C21 and C19 isomerase activities at a second site on the same protein.

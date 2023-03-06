@@ -1,0 +1,7 @@
+Synthesis and SAR of novel Re/99mTc-labeled benzenesulfonamide carbonic anhydrase IX inhibitors for molecular imaging of tumor hypoxia.
+Carbonic anhydrase IX (CA-IX) is upregulated in cancer in response to the hypoxic tumor microenvironment, making it an attractive molecular target for the detection of hypoxic solid tumors.
+A series of small molecule benzenesulfonamide based CA-IX inhibitors containing novel tridentate chelates complexed with the M(CO)(3) core (M = Re or (99m)Tc) were designed and synthesized.
+The in vitro binding affinity of the benzenesulfonamide rhenium complexes yielded IC(50) values ranging from 3 to 116 nM in hypoxic CA-IX expressing HeLa cells.
+One of the most potent compounds, 3d (IC(50) = 9 nM), was radiolabeled with technetium tricarbonyl ({(99m)Tc(CO)(3)}(+)) to afford the {(99m)Tc(CO)(3)}(+) complex in excellent yield and high purity.
+(99m)Tc(CO)(3)-3d bound specifically to CA-IX expressing hypoxic HeLa cells.
+This effort led to the identification of a diverse series of promising high affinity {(99m)Tc(CO)(3)}(+) radiolabeled CA-IX inhibitors with the potential to significantly impact diagnosis, staging, and treatment selection of hypoxic solid tumors.

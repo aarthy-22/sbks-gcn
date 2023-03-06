@@ -1,0 +1,9 @@
+Adenosine 2A receptor modulates inflammation and phenotype in experimental abdominal aortic aneurysms.
+Activation of the adenosine 2A receptor (A(2A)R) reduces inflammation in models of acute injury but contribution in development of chronic abdominal aortic aneurysms (AAAs) is unknown.
+Elastase perfusion to induce AAA formation in A(2A)R-knockout (A(2A)RKO) and C57BL6/J wild-type (WT) mice resulted in nearly 100% larger aneurysms in A(2A)RKO compared to WT at d 14 (P<0.05), with evidence of greater elastin fragmentation, more immune cell infiltration, and increased matrix metallatoproteinase (MMP) 9 expression (P<0.05).
+Separately, exogenous A(2A)R antagonism in elastase-perfused WT mice also resulted in larger aneurysms (P<0.05), while A(2A)R agonism limited aortic dilatation (P<0.05).
+Activated Thy-1.2(+) T lymphocytes from WT mice treated in vitro with A(2A)R antagonist increased cytokine production, and treatment with A(2A)R agonist decreased cytokine production (P<0.05 for all).
+Primary activated CD4(+) T lymphocytes from A(2A)RKO mice exhibited greater chemotaxis (P<0.05).
+A(2A)R antagonist increased chemotaxis of activated CD4(+) cells from WT mice in vitro, and A(2A)R agonist reduced this effect (P<0.05).
+A(2A)R activation attenuates AAA formation partly by inhibiting immune cell recruitment and reducing elastin fragmentation.
+These findings support augmenting A(2A)R signaling as a putative target for limiting aneurysm formation.-Bhamidipati, C. M., Mehta, G. S., Moehle, C. W., Meher, A. K., Su, G., Vigneshwar, N. G., Barbery, C., Sharma, A. K., Kron, I. L., Laubach, V. E., Owens, G. K., Upchurch Jr., G. R., Ailawadi, G. Adenosine 2A receptor modulates inflammation and phenotype in experimental abdominal aortic aneurysms.

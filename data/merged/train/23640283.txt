@@ -1,0 +1,8 @@
+The design and realization of a large-area flexible nanofiber-based mat for pollutant degradation: an application in photocatalysis.
+This work demonstrates a novel multifunctional nanofibrous mat for photocatalytic applications based on TiO2 nanocables functionalized by Ag nanoparticles and coated with a thin (∼2 nm) graphitic shell.
+In this mat, which was realized by an electrospinning technique, each component serves a unique function: the carbon coating acts as both an adsorption material for capturing pollutants and as a charge-transfer material, the Ag nanoparticles act as a visible-light sensitizing agent and also as a charge-transfer material, finally the TiO2 nanocable mat acts as a UV sensitive photocatalytic matrix and as the flexible substrate for the other functional components.
+This multicomponent nanocable mat exhibits excellent photocatalytic activity under simulated solar irradiation for the degradation of model pollutants including RhB and phenol.
+The significant photocatalytic properties are attributed to the synergetic effect of the three functional components and the unique charge transport "freeway" property of the nanofibrous mat.
+In addition, the porous carbon coating infiltrated into the nanocable matrix endows the mat with excellent flexibility and enables robust, large-area (10 × 10 cm) fabrication, representing a significant advantage over previous brittle ceramic nanofibrous mat photocatalyst substrates.
+This study provides new insight into the design and preparation of an advanced, yet commercially practical and scaleable photocatalytic composite membrane material.
+The as-prepared photocatalytic mat might also be of interest in solar cell, catalysis, separation technology, biomedical engineering, and nanotechnology.

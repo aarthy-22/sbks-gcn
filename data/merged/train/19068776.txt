@@ -1,0 +1,8 @@
+[Pharmacological effects of a mu-opioid receptor antagonist naltrexone on alcohol dependence].
+Alcohol is one of the most commonly abused substances, and its chronic intake leads to the development of ethanol dependence in both humans and laboratory animals.
+In many countries, a mu-opioid receptor antagonist naltrexone has been used in the treatment of alcohol dependence.
+The introduction of naltrexone for the treatment of alcohol dependence has been mainly based on behavioral animal models that provide evidence of the involvement of the endogenous opioid system in alcohol drinking and dependence.
+It has been well known that alcohol leads to the activation of the endogenous opioid system.
+The endogenous opioid agonists, such as beta-endorphin, increase the activity of the mesolimbic dopaminergic system through the inhibition of the gamma-aminobutyric acid (GABA)-containing inhibitory interneurons in the ventral tegmental area, resulting in the expression of alcohol reinforcement and/or rewarding effect.
+Therefore, naltrexone, which is useful for alcohol dependence therapy, may attenuate the rewarding effect of ethanol by interfering with the ethanol-induced stimulation of the mesolimbic dopaminergic system.
+The following review provides a summary of the interactions between endogenous opioid system and mesolimbic dopaminergic system in alcohol dependence.

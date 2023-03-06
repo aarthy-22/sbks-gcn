@@ -1,0 +1,13 @@
+Drug-protein interactions: binding of chlorpromazine to calmodulin, calmodulin fragments, and related calcium binding proteins.
+The quantitative binding of a phenothiazine drug to calmodulin, calmodulin fragments, and structurally related calcium binding proteins was measured under conditions of thermodynamic equilibrium by using a gel filtration method.
+Plant and animal calmodulins, troponin C, S100 alpha, and S100 beta bind chlorpromazine in a calcium-dependent manner with different stoichiometries and affinities for the drug.
+The interaction between calmodulin and chlorpromazine appears to be a complex, calcium-dependent phenomenon.
+Bovine brain calmodulin bound approximately 5 mol of drug per mol of protein with apparent half-maximal binding at 17 microM drug.
+Large fragments of calmodulin had limited ability to bind chlorpromazine.
+The largest fragment, containing residues 1-90, retained only 5% of the drug binding activity of the intact protein.
+A reinvestigation of the chlorpromazine inhibition of calmodulin stimulation of cyclic nucleotide phosphodiesterase further indicated a complex, multiple equilibrium among the reaction components and demonstrated that the order of addition of components to the reaction altered the drug concentration required for half-maximal inhibition of the activity over a 10-fold range.
+These results confirm previous observations using immobilized phenothiazines [Marshak, D.R., Watterson, D.M., & Van Eldik, L.J. (1981) Proc.
+Natl.
+Acad.
+Sci.
+U.S.A. 78, 6793-6797] that indicated a subclass of calcium-modulated proteins bound phenothiazines in a calcium-dependent manner, demonstrate that the interaction between phenothiazines and calmodulin is more complex than previously assumed, and suggest that extended regions of the calmodulin molecule capable of forming the appropriate conformation are required for specific, high-affinity, calcium-dependent drug binding activity.

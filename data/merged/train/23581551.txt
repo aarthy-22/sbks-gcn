@@ -1,0 +1,7 @@
+Design, Synthesis, and Structure-Activity Relationship Studies of Novel 3-Alkylindole Derivatives as Selective and Highly Potent Myeloperoxidase Inhibitors.
+Due to its production of potent antimicrobial oxidants including hypochlorous acid, human myeloperoxidase (MPO) plays a critical role in innate immunity and inflammatory diseases.
+Thus MPO is an attractive target in drug design.
+(Aminoalkyl)fluoroindole derivatives were detected to be very potent MPO inhibitors; however, they also promote inhibition of the serotonin reuptake transporter (SERT) at the same concentration range.
+Via structure-based drug design, a new series of MPO inhibitors derived from 3-alkylindole were synthesized and their effects were assessed on MPO-mediated taurine chlorination and low-density lipoprotein oxidation as well as on inhibition of SERT.
+The fluoroindole compound with three carbons in the side chain and one amide group exhibited a selectivity index of 35 (Ki/IC50) with high inhibition of MPO activity (IC50 = 18 nM), whereas its effect on SERT was in the micromolar range.
+Structure-function relationships, mechanism of action, and safety of the molecule are discussed.

@@ -1,0 +1,8 @@
+Density of GM1 in nanoclusters is a critical factor in the formation of a spherical assembly of amyloid β-protein on synaptic plasma membranes.
+The deposition of amyloid β-protein (Aβ) is a pathological hallmark of Alzheimer's disease (AD).
+We previously found that the ganglioside-enriched microdomains (ganglioside clusters) in presynaptic neuronal membranes play a key role in the initiation of the Aβ assembly process.
+However, not all ganglioside clusters accelerate Aβ assembly.
+In the present study, we directly observed a spherical Aβ in an atomic force microscopic study on the morphology of a reconstituted lipid bilayer composed of lipids that were extracted from a detergent-resistant membrane microdomain (DRM) fraction of synaptosomes prepared from aged mouse brain.
+The Aβ assembly was generated on a distinctive GM1 domain, which was characterized as the Aβ-sensitive ganglioside nanocluster (ASIGN).
+By using an artificial GM1 cluster-binding peptide, ASIGN was found to have a high density of GM1; therefore, there would be a critical density of GM1 in nanoclusters to induce Aβ binding and assembly.
+These results suggest that ganglioside-bound Aβ (GAβ), which acts as an endogenous seed for Aβ fibril formation in AD brains, is generated on ASIGN on synaptosomal membranes.

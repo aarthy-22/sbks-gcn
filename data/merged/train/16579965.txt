@@ -1,0 +1,9 @@
+Tocopherol-associated protein-1 accelerates apoptosis induced by alpha-tocopheryl succinate in mesothelioma cells.
+Alpha-tocopheryl succinate (alpha-TOS), a redox-silent analogue of vitamin E, induces apoptosis in multiple cell lines in a selective manner, by activating the intrinsic pathway.
+Since it is a highly hydrophobic compound, it may require a carrier protein for its trafficking to intracellular targets like mitochondria.
+We studied the role of the ubiquitous tocopherol-associated protein-1 (TAP1 or sec14-like 2) in apoptosis induction by alpha-TOS in malignant mesothelioma (MM) cells.
+Over-expression of TAP1 in MM cells sensitised them to apoptosis by low doses of alpha-TOS which were sub-apoptotic for the parental cells.
+Apoptosis induced in TAP1-over-expressing cells was mitochondria- and caspase-dependent, as suggested by dissipation of mitochondrial trans-membrane potential and inhibition by zVAD-fmk, respectively.
+Binding assays showed affinity of alpha-TOS for TAP1.
+Finally, TAP1 over-expressing cells accumulated alpha-TOS at higher levels compared to their normal counterparts.
+We suggest that TAP1 may act as an intracellular shuttle for alpha-TOS, promoting apoptosis initiated by this vitamin E analogue, as shown here for MM cells.

@@ -1,0 +1,11 @@
+Interaction of rofecoxib and celecoxib with warfarin.
+The interaction of celecoxib and rofecoxib with warfarin was studied.
+Patients stable on warfarin therapy and concurrently taking a cyclooxygenase-2 (COX-2) inhibitor comparator (traditional nonsteroidal antiinflammatory medications, salsalate, or acetaminophen) randomly received celecoxib 200 mg/day or rofecoxib 25 mg/day for three weeks.
+After a one-week washout period, the patients were crossed over to treatment with the opposite COX-2 inhibitor for three more weeks.
+The International Normalized Ratio (INR) was measured at baseline and at weeks 1, 2, and 3 of therapy with each COX-2 inhibitor by testing blood samples obtained by finger stick.
+Data for 16 patients were analyzed.
+The INR increased by 13%, 6%, and 5% on average in patients taking celecoxib at weeks 1, 2, and 3, respectively, and by 5%, 9%, and 5% in patients taking rofecoxib.
+Changes in the INR were statistically significant at week 1 for celecoxib and at week 2 for rofecoxib.
+Of the 12 subjects who had a clinically significant > or = 15% change in the INR while receiving either COX-2 inhibitor, 4 showed this change for both agents.
+Adverse drug reactions were similar for each COX-2 inhibitor, but the rate of edema requiring medical intervention was higher in the rofecoxib group.
+Significant increases in the INR were observed in patients who were stable on warfarin therapy after the addition of therapy with rofecoxib or celecoxib.

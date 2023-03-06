@@ -1,0 +1,12 @@
+Zinc Promotes the Death of Hypoxic Astrocytes by Upregulating Hypoxia-Induced Hypoxia-Inducible Factor-1alpha Expression via Poly(ADP-ribose) Polymerase-1.
+AIM: Pathological release of excess zinc ions has been implicated in ischemic brain cell death.
+However, the underlying mechanisms remain to be elucidated.
+In stroke, ischemia-induced zinc release and hypoxia-inducible factor-1 (HIF-1) accumulation concurrently occur in the ischemic tissue.
+The present study tests the hypothesis that the presence of high intracellular zinc concentration is a major cause of modifications to PARP-1 and HIF-1α during hypoxia, which significantly contributes to cell death during ischemia.
+METHODS: Primary cortical astrocytes and C8-D1A cells were exposed to different concentrations of zinc chloride.
+Cell death rate and protein expression of HIF-1 and Poly(ADP-ribose) polymerase (PARP)-1 were examined after 3-h hypoxic treatment.
+RESULTS: Although 3-h hypoxia or 100 μM of zinc alone did not induce noticeable cytotoxicity, their combination led to a dramatic increase in astrocytic cell death in a zinc-concentration-dependent manner.
+Exposure of astrocytes to hypoxia for 3 h remarkably increased the levels of intracellular zinc and HIF-1α protein, which was further augmented by added exogenous zinc.
+Notably, HIF-1α knockdown blocked zinc-induced astrocyte death.
+Moreover, knockdown of PARP-1, another important protein in the response of hypoxia, attenuated the overexpression of HIF-1α and reduced the cell death rate.
+CONCLUSIONS: Our studies show that zinc promotes hypoxic cell death through overexpression of the hypoxia response factor HIF-1α via the cell fate determine factor PARP-1 modification, which provides a novel mechanism for zinc-mediated ischemic brain injury.

@@ -1,0 +1,10 @@
+Sodium-dependent vitamin C transporter isoforms in skin: Distribution, kinetics, and effect of UVB-induced oxidative stress.
+Two sodium-dependent vitamin C transporter isoforms (SVCT1 and SVCT2) were identified as ascorbic acid transporters, but their roles in skin have, as yet, not been elucidated.
+Here we analyze the expression and function of SVCTs in healthy human skin cells and skin tissues, and in UVB-induced cutaneous tissue injury.
+SVCT1 was primarily found in the epidermis expressed by keratinocytes, whereas SVCT2 expression was in the epidermis and dermis in keratinocytes, fibroblasts, and endothelial cells.
+Uptake experiments revealed that ascorbic acid affinity of SVCT1 was lower than SVCT2 (K(m)=75 muM and K(m)=44 muM, respectively), but maximal velocity was 9-times higher (36 nmol/min/well).
+In keratinocytes, SVCT1 was found to be responsible for vitamin C transport, although SVCT2 gene expression was higher.
+On UVB irradiation, SVCT1 mRNA expression in murine skin declined significantly in a time- and dose-dependent manner, whereas SVCT2 mRNA levels were unchanged.
+Furthermore, UVB irradiation of keratinocytes in vitro was accompanied by reduced ascorbic acid transport.
+In summary, these data indicate that the two vitamin C transporter isoforms fulfill specific functions in skin: SVCT1 is responsible for epidermal ascorbic acid supply, whereas SVCT2 mainly facilitates ascorbic acid transport in the dermal compartment.
+UVB-induced oxidative stress in mice resulted in depletion of SVCT1 mRNA levels and led to significantly decreased ascorbic acid uptake in keratinocytes, providing evidence on why ascorbic acid levels are decreased on UVB irradiation in vivo.

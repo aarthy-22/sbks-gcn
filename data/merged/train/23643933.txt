@@ -1,0 +1,14 @@
+Induction of the liver cancer-down-regulated long noncoding RNA uc002mbe.2 mediates trichostatin-induced apoptosis of liver cancer cells.
+Differential expression of long non-coding RNAs (lncRNAs) plays critical roles in hepatocarcinogenesis.
+Considerable attention has focused on the antitumor effect of histone deacetylase inhibitor (Trichostatin A, TSA) as well as the coding gene expression-induced apoptosis of cancer cells.
+However, it is not known whether lncRNA has a role in TSA-induced apoptosis of human hepatocellular carcinoma (HCC) cells.
+The global expression of lncRNAs and coding genes was analyzed with the Human LncRNA Array V2.0 after 24h treatment.
+Expression was verified in cell lines and tissues by quantitative real-time PCR.
+The data showed that 4.8% (959) of lncRNA and 6.1% (1849) of protein coding gene were significantly differentially expressed.
+The differential expressions of lncRNA and protein coding genes had distinguishable hierarchical clustering expression profiling pattern.
+Among these differentially expressed lncRNAs, the greatest change was noted for uc002mbe.2, which had more than 300 folds induction upon TSA treatment.
+TSA selectively induced uc002mbe.2 in four studied HCC cell lines.
+Compared with normal human hepatocytes and adjacent noncancerous tissues, uc002mbe.2 expression level was significantly lower in the HCC cell lines and liver cancer tissues.
+The TSA-induced uc002mbe.2 expression was positively correlated with the apoptotic effect of TSA in HCC cells.
+In addition, knockdown the expression of uc002mbe.2 significantly reduced TSA-induced apoptosis of Huh7cells.
+Therefore, TSA-induced apoptosis of HCC cells is uc002mbe.2 dependent and reduced expression of uc002mbe.2 may be associated with liver carcinogenesis.

@@ -1,0 +1,10 @@
+Serotonin (5-HT) in the Regulation of Depression-Related Emotionality: Insight from 5-HT Transporter and Tryptophan Hydroxylase-2 Knockout Mouse Models.
+Disorders of emotion regulation such as anxiety disorders and depression are common and yet debilitating.
+Accumulating evidence suggests involvement of serotonin (5-HT) in the regulation of emotion.
+Mice with targeted deletion of genes encoding mediators of the serotonergic transmission have proven to be a powerful tool for understanding contributions of such mediators of emotion regulation.
+Over the last decade, research on mice with a targeted inactivation of the 5-HT transporter (5-Htt, Sert, Slc6a4) has considerably advanced our knowledge about functions that the 5-HTT plays in the context of emotion related to depression.
+Moreover, the recent advent of knockout (KO) mice for tryptophan hydroxylase 2 (Tph2 KO), which lacks the rate-limiting enzyme for 5-HT synthesis in the brain, has further provided insight to the brain serotonergic system and its role in emotion dysregulation.
+Here, we first highlight basic characteristics of the serotonergic system including the biosynthesis of 5-HT as well as the anatomy and firing activity of serotonergic neurons.
+Furthermore, characteristics of 5-Htt and Tph2 KO mice are covered together with association studies on human variants of 5-HTT and TPH2 in emotional regulation.
+Among various targets of serotonergic projections, which originate from the raphe nuclei in the brain stem, particular focus is placed on the hippocampus due to its unique dual role in memory and emotion.
+Finally, effects of therapeutic drugs and psychoactive drugs on KO mouse models as well as on synaptic plasticity will be discussed.

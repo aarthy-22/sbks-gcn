@@ -1,0 +1,13 @@
+Clinical and molecular heterogeneity in the Brugada syndrome: a novel gene locus on chromosome 3.
+BACKGROUND: Brugada syndrome is a form of idiopathic ventricular fibrillation characterized by a right bundle-branch block pattern and ST elevation (STE) in the right precordial leads of the ECG.
+Sodium channel blockers increase STE.
+Mutations of the cardiac sodium channel SCN5A cause the disorder, and an implantable cardioverter-defibrillator is often recommended for affected individuals.
+Mutations in other genes have not been identified, and it is not known if the efficacy of drug testing or the malignancy of arrhythmias correlates to the gene defect.
+METHODS AND RESULTS: We performed histories, physical examinations, ECGs, and drug testing on a large multigenerational family with Brugada syndrome.
+DNA isolated from blood samples, polymorphic genomic markers, and polymorphisms within candidate sodium channels were used for a genome-wide screen, fine mapping, and linkage analysis.
+We identified 12 affected individuals (right bundle-branch block, > or =1-mm STE) with an autosomal dominant inheritance pattern characterized by incomplete penetrance that appeared to be dependent on age and sex.
+Four affected individuals had syncope and 2 had documented ventricular arrhythmias, but there was minimal family history of sudden death.
+Procainamide infusions did not identify additional affected individuals.
+Linkage was present to an approximately equal 15-cM region on chromosome 3p22-25 (maximum LOD score=4.00).
+The sodium channel genes SCN5A, SCN10A, and SCN12A on chromosome 3 were excluded as candidates (LOD scores < or =-2).
+CONCLUSIONS: A Brugada syndrome locus distinct from SCN5A is associated with progressive conduction disease, a low sensitivity to procainamide testing, and a relatively good prognosis in a single large pedigree.

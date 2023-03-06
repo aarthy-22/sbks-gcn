@@ -1,0 +1,11 @@
+The cysteine conserved among DNA cytosine methylases is required for methyl transfer, but not for specific DNA binding.
+All DNA (cytosine-5)-methyltransferases contain a single conserved cysteine.
+It has been proposed that this cysteine initiates catalysis by attacking the C6 of cytosine and thereby activating the normally inert C5 position.
+We show here that substitutions of this cysteine in the E. coli methylase M. EcoRII with either serine or tryptophan results in a complete loss of ability to transfer methyl groups to DNA.
+Interestingly, mutants with either serine or glycine substitution bind tightly to substrate DNA.
+These mutants resemble the wild-type enzyme in that their binding to substrate is not eliminated by the presence of non-specific DNA in the reaction, it is sensitive to methylation status of the substrate and is stimulated by an analog of the methyl donor.
+Hence the conserved cysteine is not essential for the specific stable binding of the enzyme to its substrate.
+However, substitution of the cysteine with the bulkier tryptophan does reduce DNA binding.
+We also report here a novel procedure for the synthesis of DNA containing 5-fluorocytosine.
+Further, we show that a DNA substrate for M. EcoRII in which the target cytosine is replaced by 5-fluorocytosine is a mechanism-based inhibitor of the enzyme and that it forms an irreversible complex with the enzyme.
+As expected, this modified substrate does not form irreversible complexes with the mutants.

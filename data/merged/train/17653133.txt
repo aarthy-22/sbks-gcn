@@ -1,0 +1,9 @@
+Determination of dimethylarginine dimethylaminohydrolase activity in the kidney.
+Dimethylarginine dimethylaminohydrolase (DDAH) metabolizes asymmetric dimethylarginine to generate L-citrulline and is present in large quantities in the kidney.
+We present a new study that optimizes the Prescott-Jones colorimetric assay to measure DDAH-dependent L-citrulline generation in kidney homogenates.
+We found that the removal of urea with urease is necessary since urea also produces a positive reaction.
+Deproteinization with sulfosalicylic acid was found to be optimal and that protease inhibitors were not necessary.
+All assays were conducted in phosphate buffer, since other common additives can create false positive and false negative reactions.
+Arginase or nitric oxide synthase isoenzymes were not found to influence L-citrulline production.
+Our optimized L-citrulline production assay to measure DDAH activity correlated closely with the direct measure of the rate of asymmetric dimethylarginine consumption.
+Using this assay, we found that both superoxide and nitric oxide inhibit renal cortical DDAH activity in vitro.

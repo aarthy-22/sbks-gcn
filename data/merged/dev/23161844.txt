@@ -1,0 +1,2 @@
+Combining quantum mechanical ligand conformation analysis and protein modeling to elucidate GPCR-ligand binding modes.
+SAR beyond protein-ligand interactions: By combining structure-affinity relationships, protein-ligand modeling studies, and quantum mechanical calculations, we show that ligand conformational energies and basicity play critical roles in ligand binding to the histamine H4 receptor, a GPCR that plays a key role in inflammation.

@@ -1,0 +1,4 @@
+Development of bivalent acetylcholinesterase inhibitors as potential therapeutic drugs for Alzheimer's disease.
+At present the only FDA-approved therapy for Alzheimer's disease involves the administration of acetylcholinesterase inhibitors, to alleviate the cholinergic deficit associated with this disease.
+However, none of the approved drugs is ideal in efficacy or tolerability.
+One possible strategy to improve selectivity and potency is to design drugs that can simultaneously bind to the catalytic and peripheral anionic sites of AChE. In this review we will describe the development of dimeric AChE inhibitors, from the early observations of high inhibition potency by bis-quaternary inhibitors, to the structure-based design of dimers based on tacrine, huperzine A, galanthamine, and polyamines.

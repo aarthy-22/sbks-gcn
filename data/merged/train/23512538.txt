@@ -1,0 +1,10 @@
+The Tumor Suppressor Kruppel-Like Factor 6 is a Novel Aryl Hydrocarbon Receptor DNA Binding Partner.
+The Aryl Hydrocarbon Receptor (AhR) is a ligand mediated basic helix-loop-helix transcription factor of Per/Arnt/Sim family that regulates adaptive and toxic responses to variety of chemical pollutants including polycyclic aromatic hydrocarbons (PAH) and halogenated aromatic hydrocarbons, most notably 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD).
+Ligand activation leads to AhR nuclear translocation and binding to a xenobiotic response element (XRE) in association with the aryl receptor nuclear translocator (Arnt) to regulate gene expression.
+Several recent genome-wide transcriptional studies identified numerous AhR target genes that lack the canonical XRE recognition site in the promoter regions.
+Characterization of one such target gene, the Plasminogen Activator Inhibitor 1 (PAI-1) identified a novel non-consensus XRE (NC-XRE) that confers TCDD responsiveness independently of the Arnt protein.
+Studies reported here show that the NC-XRE is a recognition site for the AhR and a new binding partner, the Kruppel-like Factor (KLF) family member KLF6.
+In vivo chromatin immunoprecipitations and in vitro DNA binding studies demonstrate that the AhR and KLF6 proteins form an obligatory heterodimer necessary for NC-XRE binding.
+Mutational analyzes show that the protein-protein interactions involve the AhR C-terminus and KLF6 N-terminus, respectively.
+Moreover, NC-XRE binding depends on the 5' basic region in KLF6 rather than the previously characterized zinc finger DNA binding domain.
+Collectively, the results unmask a novel AhR signaling mechanism distinct from the canonical XRE-driven process that will enrich our future understanding of AhR biology.

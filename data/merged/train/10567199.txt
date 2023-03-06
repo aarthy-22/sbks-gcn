@@ -1,0 +1,12 @@
+Natriuretic response to increased pressure is preserved with COX-2 inhibitors.
+Elevation of renal interstitial hydrostatic pressure (RIHP) by direct renal interstitial volume expansion increases sodium excretion.
+This natriuretic response is blunted by the nonspecific inhibition of the cyclooxygenase (COX) enzymes.
+The present study tested the hypothesis that the natriuretic response to increased RIHP during direct renal interstitial volume expansion is dependent on COX-1 but not COX-2.
+RIHP and fractional excretion of sodium (FE(Na)) were measured before and after direct renal interstitial volume expansion in control rats (n=7), rats infused with the COX-1 inhibitor piroxicam (n=6, 1.5 mg/kg), and rats infused with the COX-2 inhibitors NS-398 (n=5, 1.5 mg/kg) and meloxicam (n=6, 0.3 mg/kg).
+In control animals, direct renal interstitial volume expansion significantly increased RIHP (Delta2.3+/-0.5 mm Hg, P<0.
+05) and FE(Na) (Delta1.1+/-0.3%, P<0.05).
+Likewise, in animals infused with NS-398 or meloxicam, direct renal interstitial volume expansion significantly increased RIHP (Delta1.8+/-0.6 mm Hg, P<0.05, and Delta1.7+/-0.3 mm Hg, P<0.05) and FE(Na) (Delta1.5+/-0.4%, P<0.
+05, and Delta1.1+/-0.3%, P<0.05), respectively.
+In contrast, infusion of piroxicam significantly blunted the natriuretic response to direct renal interstitial volume expansion (DeltaFE(Na) 0.3+/-0.
+2%), even though RIHP was increased (Delta1.9+/-0.6 mm Hg, P<0.05).
+Infusion of piroxicam but not NS-398 or meloxicam blunted the natriuretic response to increased renal interstitial hydrostatic pressure, suggesting that the natriuretic response to increased blood pressure may be preserved during inhibition of COX-2.

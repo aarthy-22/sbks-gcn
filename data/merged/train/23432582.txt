@@ -1,0 +1,9 @@
+Bisacylimidoselenocarbamates Cause G2/M Arrest Associated with the Modulation of CDK1 and Chk2 in Human Breast Cancer MCF-7 Cells.
+Bisacylimidoselenocarbamate derivatives (BSC) are potent anticancer agents with a strong cytotoxic activity against different types of tumour cells.
+Based in phosphatidylserine exposure on the cell membranes we show that BSC treatment resulted in enhanced cell death in leukaemia CCRF-CEM cells.
+DNA fragmentation detection in breast adenocarcinoma MCF-7 cells showed that BSC triggered cell death is concentration and time dependent.
+We also show that two of these compounds, BSC 3g and 3n, cause cell-cycle arrest in the late G2/M in MCF-7 cells.
+Consistent with this, a reduction in CDK1 and CDK2 expression with no change in cyclin A an B1 was observed in this cell line.
+Activation of caspase-2 was also detected.
+However, the involvement of the caspase-dependent pathway in the process of cell death induced by either BSC 3g or 3n is discarded since cell death could not be prevented by pretreatment with the pancaspase inhibitor z-VAD-fmk.
+Moreover, since reduced levels of p21CIP1 and Chk2 proteins but no change in p53 levels could be detected in MCF-7 cells after BSC 3g or 3n treatment our results suggest that BSC treated cells die from lethal mitosis.

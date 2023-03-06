@@ -1,0 +1,11 @@
+Synthesis, cytotoxicity and QSAR study of N-tosyl-1,2,3,4-tetrahydroisoquinoline derivatives.
+1-Substituted-N-tosyl-1,2,3,4-tetrahydroisoquinoline analogs (4a-4l) were synthesized using the modified Pictet-Spengler reaction and evaluated for cytotoxicity.
+All tetrahydroisoquinolines displayed cytotoxicity against MOLT-3 cell lines, except for p-methoxy analog 4d.
+Interestingly, the o-hydroxy derivative 4k was shown to be the most potent cytotoxic against HuCCA-1, A-549 and MOLT-3 cell lines.
+The lowest IC50 value of 1.23 μM was observed for MOLT-3 cells.
+Trimethoxy analog 4f exerted the most potent activity against HepG2 with an IC50 of 22.70 μM, which is lower than the reference drug, etoposide.
+QSAR studies showed that total symmetry index (Gu), 3D-MoRSE (Mor31v and Mor32u) and 3D Petitjean index (PJI3) were the most important descriptors accounting for the observed cytotoxicities.
+The most potent cytotoxic compound (4k) against MOLT-3 had the highest Gu value, correspondingly the inactive p-methoxy analog (4d) had the lowest Gu value.
+On the other hand, the highest molecular mass compound (4f) was shown to be the most potent cytotoxic against HepG2 cells.
+The studies disclose that tetrahydroisoquinolines 4f and 4k are potentially interesting lead pharmacophores that should be further explored.
+The QSAR models provided insights into the physicochemical properties of the investigated compounds.

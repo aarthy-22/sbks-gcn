@@ -1,0 +1,8 @@
+Linking pesticide exposure and dementia: What is the evidence? There has been a steep increase in the prevalence of dementia in recent decades, which has roughly followed an increase in pesticide use some decades earlier, a time when it is probable that current dementia patients could have been exposed to pesticides.
+This raises the question whether pesticides contribute to dementia pathogenesis.
+Indeed, many studies have found increased prevalence of cognitive, behavioral and psychomotor dysfunction in individuals chronically exposed to pesticides.
+Furthermore, evidence from recent studies shows a possible association between chronic pesticide exposure and an increased prevalence of dementia, including Alzheimer's disease (AD) dementia.
+At the cellular and molecular level, the mechanism of action of many classes of pesticides suggests that these compounds could be, at least partly, accountable for the neurodegeneration accompanying AD and other dementias.
+For example, organophosphates, which inhibit acetylcholinesterase as do the drugs used in treating AD symptoms, have also been shown to lead to microtubule derangements and tau hyperphosphorylation, a hallmark of AD.
+This emerging association is of considerable public health importance, given the increasing dementia prevalence and pesticide use.
+Here we review the epidemiological links between dementia and pesticide exposure and discuss the possible pathophysiological mechanisms and clinical implications of this association.

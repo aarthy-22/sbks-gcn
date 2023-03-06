@@ -1,0 +1,6 @@
+Biosynthesis of highly enriched (13)C-lycopene for human metabolic studies using repeated batch tomato cell culturing with (13)C-glucose.
+While putative disease-preventing lycopene metabolites are found in both tomato (Solanum lycopersicum) products and in their consumers, mammalian lycopene metabolism is poorly understood.
+Advances in tomato cell culturing techniques offer an economical tool for generation of highly-enriched (13)C-lycopene for human bioavailability and metabolism studies.
+To enhance the (13)C-enrichment and yields of labelled lycopene from the hp-1 tomato cell line, cultures were first grown in (13)C-glucose media for three serial batches and produced increasing proportions of uniformly labelled lycopene (14.3±1.2%, 39.6±0.5%, and 48.9±1.5%) with consistent yields (from 5.8 to 9mg/L).
+An optimised 9-day-long (13)C-loading and 18-day-long labelling strategy developed based on glucose utilisation and lycopene yields, yielded (13)C-lycopene with 93% (13)C isotopic purity, and 55% of isotopomers were uniformly labelled.
+Furthermore, an optimised acetone and hexane extraction led to a fourfold increase in lycopene recovery from cultures compared to a standard extraction.

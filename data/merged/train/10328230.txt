@@ -1,0 +1,11 @@
+Inhibition of gelatinase A (MMP-2) by batimastat and captopril reduces tumor growth and lung metastases in mice bearing Lewis lung carcinoma.
+We have examined the effects of the synthetic matrix metalloproteinase inhibitor, batimastat (BB-94) and the angiotensin-converting enzyme inhibitor, captopril, on metalloproteinase activity of murine Lewis-lung-carcinoma cells (3LL) in vitro, and on local growth and lung metastasis of the same tumor implanted intramuscularly in syngeneic C57BL/6 mice.
+The effect of BB-94 and captopril on the survival of the 3LL-tumor-bearing mice was also examined.
+Here we report that captopril treatment resulted in decreased transcription and protein levels of gelatinase A by 3LL cells.
+Both BB-94 and captopril also prevented substrate degradation by gelatinase A and B released in conditioned medium by cultured cells.
+Treatment of tumor-bearing animals with BB-94 (i.p.) or captopril (in drinking water) resulted in significant inhibition of the mean tumor volume (25 and 33% respectively) and of the mean lung metastasis number (26 and 29% respectively).
+When both agents were given, they acted in synergy, resulting in 51 and 80% inhibition of tumor growth and metastasis.
+The survival time of the mice treated with both BB-94 and captopril was also significantly longer compared with the groups treated with each agent alone or with the vehicle.
+Our data support the hypothesis of an essential role of metalloproteinase(s) in the metastatic process.
+Moreover, blockade of invasion, angiogenesis and other processes mediated by metalloproteinases may underlie the anti-tumor and anti-metastatic effect of BB-94 and captopril and their combination.
+It is conceivable that this combination could be tested in selected clinical conditions as an adjuvant modality to cytotoxic therapy.

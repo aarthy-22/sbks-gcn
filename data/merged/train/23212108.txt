@@ -1,0 +1,6 @@
+Emerging target-based paradigms to prevent and treat migraine.
+Migraine is a primary brain disorder resulting from altered modulation of normal sensory stimuli and trigeminal nerve dysfunction.
+The second edition of the International Classification of Headache Disorders (ICHD-2) defines seven subtypes of migraine.
+Migraine treatment can be acute or preventive.
+New targeted therapies include 5-HT(1F) receptor agonists, calcitonin gene-related peptide (CGRP) antagonists, nitric oxide synthetase inhibitors, and ion channel antagonists.
+A recent development is the creation of antibodies to CGRP and its receptor for migraine prevention.

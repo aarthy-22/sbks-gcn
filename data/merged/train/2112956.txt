@@ -1,0 +1,11 @@
+The enzymatic basis for the metabolism and inhibitory effects of valproic acid: dehydrogenation of valproyl-CoA by 2-methyl-branched-chain acyl-CoA dehydrogenase.
+Five distinct acyl-CoA dehydrogenases are currently known.
+These are short, medium, long and 2-methyl-branched-chain acyl-CoA dehydrogenases, and isovaleryl-CoA dehydrogenase.
+We tested these five acyl-CoA dehydrogenases for their ability to dehydrogenate valproyl-CoA using pure enzyme preparations isolated from rat liver mitochondria.
+The activities of the pure human short-chain, medium-chain and isovaleryl enzymes purified from post-mortem livers, and a long-chain acyl-CoA dehydrogenase preparation partially purified from placental mitochondria, were also tested.
+Valproyl-CoA was dehydrogenated at a significant rate (0.167 mumol/min per mg protein) only by rat 2-methyl-branched-chain acyl-CoA dehydrogenase.
+Human 2-methyl-branched-chain acyl-CoA dehydrogenase has not been purified; therefore, it could not be tested.
+Since four other human acyl-CoA dehydrogenases did not dehydrogenate isobutyryl-CoA, 2-methylbutyryl-CoA (obligatory intermediates from valine and isoleucine, respectively) nor valproyl-CoA, it is reasonable to assume that valproyl-CoA is dehydrogenated by 2-methyl-branch-chain acyl-CoA dehydrogenase in man as well.
+We identified 2-propyl-2-pentenoyl-CoA as the reaction product from valproyl-CoA by mass spectral analysis of the acyl moiety.
+Valproyl-CoA, at 0.3 mM, moderately inhibited human acyl-CoA dehydrogenases with the exception of the long-chain enzyme.
+5 mM free valproic acid inhibited the activities of various acyl-CoA dehydrogenases only very weakly.

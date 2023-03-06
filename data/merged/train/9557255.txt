@@ -1,0 +1,5 @@
+A new concept of drug delivery for acne.
+Adapalene is a stable naphthoic acid derivative that displays a strong retinoid agonist pharmacology.
+This drug controls cell proliferation and differentiation, and possesses significant anti-inflammatory action.
+The retinoid action of adapalene are mediated by the ligand-activated gene transcription factors retinoic acid receptors RAR beta and RAR gamma.
+We describe here how an aqueous gel containing adapalene was selected for the topical treatment of acne.

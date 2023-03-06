@@ -1,0 +1,11 @@
+Activation of the α7 nicotinic ACh receptor induces anxiogenic effects in rats which is blocked by a 5-HT1a receptor antagonist.
+The α7 nicotinic acetylcholine receptor (nAChR) is highly expressed in different regions of the brain and is associated with cognitive function as well as anxiety.
+Agonists and positive allosteric modulators (PAMs) of the α7 subtype of nAChRs have been shown to improve cognition.
+Previously nicotine, which activates both α7 and non-α7 subtypes of nAChRs, has been shown to have an anxiogenic effect in behavioral tests.
+In this study, we compared the effects of the α7-selective agonist (PNU-282987) and PAM (PNU-120596) in a variety of behavioral tests in Sprague Dawley rats to look at their effects on learning and memory as well as anxiety.
+We found that neither PNU-282987 nor PNU-120596 improved spatial-learning or episodic memory by themselves.
+However when cognitive impairment was induced in the rats with scopolamine (1 mg/kg), both PNU-120596 and PNU-282987 were able to reverse this memory impairment and restore it back to normal levels.
+While PNU-120596 reversed the scopolamine-induced cognitive impairment, it did not have any adverse effect on anxiety.
+PNU-282987 on the other hand displayed an increase in anxiety-like behavior at a higher dose (10 mg/kg) that was significantly reduced by the serotonin 5-HT1a receptor antagonist WAY-100135.
+However the α7 receptor antagonist methyllycaconitine was unable to reverse these anxiety-like effects seen with PNU-282987.
+These results suggest that α7 nAChR PAMs are pharmacologically advantageous over agonists, and should be considered for further development as therapeutic drugs targeting the α7 receptors.

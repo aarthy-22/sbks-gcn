@@ -1,0 +1,4 @@
+Manipulation of kinetic profiles in 2-aryl propionic acid cyclooxygenase inhibitors.
+The nonsteroidal anti-inflammatory drugs flurbiprofen and ibuprofen were modified in an attempt to alter the kinetics of inhibitor binding by COX-1.
+Contrary to prior predictions, a halogen substituent is not sufficient to confer slow tight-binding behavior.
+Conversion of the carboxylate moiety of flurbiprofen to an ester or amide abolishes slow tight-binding behavior, regardless of halogenation state.

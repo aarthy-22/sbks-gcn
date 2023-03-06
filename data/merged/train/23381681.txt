@@ -1,0 +1,10 @@
+Effects of supplementary selenium source on the blood parameters in beef cows and their nursing calves.
+Over 2 years, 32 beef cows nursing calves in southwest Arkansas were randomly selected from a herd of 120 that were managed in six groups and were assigned to six 5.1-ha bermudagrass (Cynodon dactylon [L.] Pers.) pastures.
+Treatments were assigned to pastures (two pastures/treatment) and cows had ad libitum access to one of three free-choice minerals: (1) no supplemental selenium (Se), (2) 26 mg of supplemental Se from sodium selenite per kilogram, and (3) 26 mg of supplemental Se from seleno-yeast per kilogram (designed mineral intake = 113 g/cow daily).
+Data were analyzed using a mixed model; year and pasture were the random effects and treatment was the fixed effect.
+At the beginning of the calving and breeding seasons, cows supplemented with Se had greater (P < 0.01) whole blood Se concentration (WBSe) and glutathione peroxidase activities (GSH-Px) than cows receiving no supplemental Se; cows fed seleno-yeast had greater (P ≤ 0.05) WBSe than cows fed sodium selenite, but GSH-Px did not differ (P ≥ 0.25) between the two sources.
+At birth and near peak lactation (late May), calves from cows supplemented with Se had greater (P < 0.01) WBSe than calves from cows fed no Se and calves from cows fed seleno-yeast had greater (P ≤ 0.01) WBSe and GSH-Px than calves from cows fed sodium selenite.
+Thyroxine (T4), triiodothyronine (T3), and the T4:T3 ratio in calves did not differ among treatments (P ≥ 0.35).
+At birth, insulin-like growth factor 1 (IGF-1) was greater (P = 0.02) in calves nursing cows with no supplemental Se than in ones with supplemental Se; in calves nursing cows with supplemental sodium selenite, IGF-1 did not differ (P = 0.96) from ones offered supplemental seleno-yeast.
+Selenium supplementation of gestating beef cows benefited cows and calves by increasing WBSe and GSH-Px.
+The use of seleno-yeast as a Se supplement compared to sodium selenite increased the WBSe of both cows and their calves without affecting the T4 to T3 conversion or IGF-1 concentrations.

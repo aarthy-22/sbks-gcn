@@ -1,0 +1,10 @@
+A selective retinoid X receptor agonist bexarotene (LGD1069, targretin) inhibits angiogenesis and metastasis in solid tumours.
+The present study determined the influence of a retinoid X receptor agonist bexarotene on angiogenesis and metastasis in solid tumours.
+In the experimental lung metastasis xenograft models, treatment with bexarotene inhibited the development of the lung tumour nodule formation compared to control.
+In vivo angiogenesis assay utilising gelfoam sponges, bexarotene reduced angiogenesis in sponges containing vascular endothelial growth factor, epidermal growth factor and basic fibroblast growth factor to various extent.
+To determine the basis of these observations, human breast and non-small-cell lung cancer cells were subjected to migration and invasion assays in the presence of bexarotene.
+Our data showed that bexarotene decrease migration and invasiveness of tumour cells in a dose-dependent manner.
+Furthermore, bexarotene inhibited angiogenesis by directly inhibiting human umbilical vein endothelial cell growth and indirectly inhibiting tumour cell-mediated migration of human umbilical vein endothelial cells through Matrigel matrix.
+Analysis of tumour-conditioned medium indicated that bexarotene decreased the secretion of angiogenic factors and matrix metalloproteinases and increased the tissue inhibitor of matrix metalloproteinases.
+The ability of bexarotene to inhibit angiogenesis and metastasis was dependent on activation of its heterodimerisation partner peroxisome proliferator-activated receptor gamma.
+Collectively, our results suggest a role of bexarotene in treatment of angiogenesis and metastasis in solid tumours.

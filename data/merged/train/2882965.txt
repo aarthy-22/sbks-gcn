@@ -1,0 +1,8 @@
+Inhibition of 5-lipoxygenase pathway of arachidonic acid metabolism in human neutrophils by sulfasalazine and 5-aminosalicylic acid.
+The possible effect of sulfasalazine, 5-aminosalicylic acid, and acetyl-5-aminosalicylic acid on endogenous arachidonic acid release and metabolism was studied in human polymorphonuclear leukocytes (PMNs).
+A new in vitro assay was used by which [1-14C]arachidonic acid is incorporated by purified peripheral PMNs until steady state was obtained (5 hr).
+After preincubation with the test drugs prior to activation with calcium ionophore A23187, the released eicosanoids were isolated by extraction and thin-layer chromatography (TLC) and quantitated by autoradiography and laser densitometry.
+Median drug concentrations needed for 50% inhibition of leukotriene B4 and 5-hydroxyeicosatetraenoic acid (5-HETE) release was 4-5 mM (range 1-9 mM) for both sulfasalazine and 5-aminosalicylic acid.
+The acetylated derivative of 5-aminosalicylic acid was ineffective.
+The present data suggest that inhibition of arachidonic acid lipoxygenation may be an essential action of sulfasalazine and its active metabolite, 5-aminosalicylic acid.
+Interference with lipoxygenase enzymes, rather than a steroid-like inhibition of arachidonic acid release from intracellular phospholipids, seems to be the mode of action.

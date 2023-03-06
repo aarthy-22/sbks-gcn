@@ -1,0 +1,10 @@
+Effects of maternally exposed coloring food additives on receptor expressions related to learning and memory in rats.
+Exposure to artificial food colors and additives (AFCAs) has been implicated in the induction and severity of some childhood behavioral and learning disabilities.
+N-methyl-D-aspartate receptors (NMDARs) and nicotinic acetylcholine receptors (nACHRs) are thought to be effective in the learning and memory-generating process.
+In this study, we investigated the effects of intrauterine exposure to AFCAs on subunit concentrations of NMDARs and nAChRs isoforms in rats.
+We administered a mixture of AFCAs (Eritrosin, Ponceau 4R, Allura Red AC, Sunset Yellow FCF, Tartrazin, Amaranth, Brilliant Blue, Azorubin and Indigotin) to female rats before and during gestation.
+The concentration of NR2A and NR2B subunits and nAChR α7, α4β2 isoforms in their offspring's hippocampi were measured by Western Blotting.
+Expressions of NR2B and nAChR β2 were significantly increased (17% and 6.70%, respectively), whereas expression of nAChR α4 was significantly decreased (5.67%) in male experimental group compared to the male control group (p<0.05).
+In the female experimental group, AFCAs caused a 14% decrease in NR2B expression when compared to the female control group (p<0.05).
+Our results indicate that exposure to AFCAs during the fetal period may lead to alterations in expressions of NMDARs and nAChRs in adulthood.
+These alterations were different between male and female genders.

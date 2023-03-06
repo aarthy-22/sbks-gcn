@@ -1,0 +1,10 @@
+Cytosolic aspartate aminotransferase, a new partner in adipocyte glyceroneogenesis and an atypical target of thiazolidinedione.
+We show that cytosolic aspartate aminotransferase (cAspAT) is involved in adipocyte glyceroneogenesis, a regulated pathway that controls fatty acid homeostasis by promoting glycerol 3-phosphate formation for fatty acid re-esterification during fasting.
+cAspAT activity, as well as the incorporation of [(14)C]aspartate into the neutral lipid fraction of 3T3-F442A adipocytes was stimulated by the thiazolidinedione (TZD) rosiglitazone.
+Conversely, the ratio of fatty acid to glycerol released into the medium decreased.
+Regulation of cAspAT gene expression was specific to differentiated adipocytes and did not require any peroxisome proliferator-activated receptor gamma (PPARgamma)/retinoid X receptor-alpha direct binding.
+Nevertheless, PPARgamma is indirectly necessary for both cAspAT basal expression and TZD responsiveness because they are, respectively, diminished and abolished by ectopic overexpression of a dominant negative PPARgamma.
+The cAspAT TZD-responsive site was restricted to a single AGGACA hexanucleotide located at -381 to -376 bp whose mutation impaired the specific RORalpha binding.
+RORalpha ectopic expression activated the cAspAT gene transcription in absence of rosiglitazone, and its protein amount in nuclear extracts is 1.8-fold increased by rosiglitazone treatment of adipocytes.
+Finally, the amounts of RORalpha and cAspAT mRNAs were similarly increased by TZD treatment of human adipose tissue explants, confirming coordinated regulation.
+Our data identify cAspAT as a new member of glyceroneogenesis, transcriptionally regulated by TZD via the control of RORalpha expression by PPARgamma in adipocytes.

@@ -1,0 +1,10 @@
+Addition of eicosapentaenoic acid to gamma-linolenic acid-supplemented diets prevents serum arachidonic acid accumulation in humans.
+Previous studies reveal that supplementation of human diets with gamma-linolenic acid (GLA) reduces the generation of lipid mediators of inflammation and attenuates clinical symptoms of chronic inflammatory disorders such as rheumatoid arthritis.
+However, we have shown that supplementation with this same fatty acid also causes a marked increase in serum arachidonate (AA) levels, a potentially harmful side effect.
+The objective of this study was to design a supplementation strategy that maintained the capacity of GLA to reduce lipid mediators without causing elevations in serum AA levels.
+Initial in vitro studies utilizing HEP-G2 liver cells revealed that addition of eicosapentaenoic acid (EPA) blocked Delta-5-desaturase activity, the terminal enzymatic step in AA synthesis.
+To test the in vivo effects of a GLA and EPA combination in humans, adult volunteers consuming controlled diets supplemented these diets with 3.0 g/d of GLA and EPA.
+This supplementation strategy significantly increased serum levels of EPA, but did not increase AA levels.
+EPA and the elongation product of GLA, dihomo-gamma-linolenic acid (DGLA) levels in neutrophil glycerolipids increased significantly during the 3-wk supplementation period.
+Neutrophils isolated from volunteers fed diets supplemented with GLA and EPA released similar quantities of AA, but synthesized significantly lower quantities of leukotrienes compared with their neutrophils before supplementation.
+This study revealed that a GLA and EPA supplement combination may be utilized to reduce the synthesis of proinflammatory AA metabolites, and importantly, not induce potentially harmful increases in serum AA levels.

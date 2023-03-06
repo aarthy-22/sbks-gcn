@@ -1,0 +1,6 @@
+Characterization of alpha-adrenoceptor activity in the preterm piglet mesentery.
+To characterize neonatal mesenteric alpha-adrenoceptor populations, an extracorporeal perfusion circuit was established to control intestinal blood flow in prematurely delivered (by cesarean section at 90% of gestational age) piglets.
+Activation of alpha 1-adrenoceptors was documented by observing dose-dependent increases in mesenteric perfusion pressure after intramesenteric arterial injection of methoxamine; alpha 2-adrenoceptor activity was confirmed by finding similar increases in mesenteric perfusion pressure after intramesenteric arterial injections of BHT 933.
+Peripheral intravenous injections of WB 4101 (a competitive alpha 1A-adrenoceptor antagonist), but not clorethylclonidine (CEC, an alpha 1B-adrenoceptor antagonist), significantly blunted (P < .05, ANOVA) the mesenteric vasoconstrictor responses to methoxamine.
+The mesenteric vasoconstrictor response to BHT 933 (an alpha 2-adrenoceptor agonist) also was blunted by WB 4101, but not by CEC.
+These data suggest that alpha 1A- and alpha 2-adrenoceptors can be activated in the small intestinal mesentery of piglets well before they reach full-term maturation, although receptor specificity has not been fully established.

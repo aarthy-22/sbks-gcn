@@ -1,0 +1,8 @@
+Bifunctional electrophiles cross-link thioredoxins with redox relay partners in cells.
+Thioredoxin protects cells against oxidative damage by reducing disulfide bonds in improperly oxidized proteins.
+Previously, we found that the baker's yeast cytosolic thioredoxin Trx2 undergoes cross-linking to form several protein-protein complexes in cells treated with the bifunctional electrophile divinyl sulfone (DVSF).
+Here, we report that the peroxiredoxin Tsa1 and the thioredoxin reductase Trr1, both of which function in a redox relay network with thioredoxin, become cross-linked in complexes with Trx2 upon DVSF treatment.
+Treatment of yeast with other bifunctional electrophiles, including diethyl acetylenedicarboxylate (DAD), mechlorethamine (HN2), and 1,2,3,4-diepoxybutane (DEB), resulted in the formation of similar cross-linked complexes.
+Cross-linking of Trx2 and Tsa1 to other proteins by DVSF and DAD is dependent on modification of the active site Cys residues within these proteins.
+In addition, the human cytosolic thioredoxin, cytosolic thioredoxin reductase, and peroxiredoxin 2 form cross-linked complexes to other proteins in the presence of DVSF, although each protein shows different susceptibilities to modification by DAD, HN2, and DEB.
+Taken together, our results indicate that bifunctional electrophiles potentially disrupt redox homeostasis in yeast and human cells by forming cross-linked complexes between thioredoxins and their redox partners.

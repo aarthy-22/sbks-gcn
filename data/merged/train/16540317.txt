@@ -1,0 +1,4 @@
+Human methionine aminopeptidase type 2 in complex with L- and D-methionine.
+Human methionine aminopeptidase type 2 (hMetAP-2) was identified as the molecular target of anti-angiogenic agents such as fumagillin and its analogues.
+We describe here the crystal structure of hMetAP-2 in complex with l-methionine and d-methionine at 1.9 and 2.0A resolution, respectively.
+The comparison of the structure of the two complexes establishes the basis of enantiomer discrimination and provides some considerations for the design of selective MetAP-2 inhibitors.

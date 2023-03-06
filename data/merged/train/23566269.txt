@@ -1,0 +1,8 @@
+4-Hydroxypyridazin-3(2H)-one Derivatives as Novel d-Amino Acid Oxidase Inhibitors.
+d-Amino acid oxidase (DAAO) catalyzes the oxidation of d-amino acids including d-serine, a coagonist of the N-methyl-d-aspartate receptor.
+We identified a series of 4-hydroxypyridazin-3(2H)-one derivatives as novel DAAO inhibitors with high potency and substantial cell permeability using fragment-based drug design.
+Comparisons of complex structures deposited in the Protein Data Bank as well as those determined with in-house fragment hits revealed that a hydrophobic subpocket was formed perpendicular to the flavin ring by flipping Tyr224 in a ligand-dependent manner.
+We investigated the ability of the initial fragment hit, 3-hydroxy-pyridine-2(1H)-one, to fill this subpocket with the aid of complex structure information.
+3-Hydroxy-5-(2-phenylethyl)pyridine-2(1H)-one exhibited the predicted binding mode and demonstrated high inhibitory activity for human DAAO in enzyme- and cell-based assays.
+We further designed and synthesized 4-hydroxypyridazin-3(2H)-one derivatives, which are equivalent to the 3-hydroxy-pyridine-2(1H)-one series but lack cell toxicity.
+6-[2-(3,5-Difluorophenyl)ethyl]-4-hydroxypyridazin-3(2H)-one was found to be effective against MK-801-induced cognitive deficit in the Y-maze.

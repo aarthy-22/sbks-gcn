@@ -1,0 +1,12 @@
+Orexin A regulates cardiovascular responses in stress-induced hypertensive rats.
+Several pieces of evidence indicate that the rostral ventrolateral medulla (RVLM) is probably one of the key neural structures mediating the pressor effects of orexins in the brain.
+Nitric oxide synthase/nitric oxide (NOS/NO) system in the RVLM modulates cardiovascular activities.
+Our experiments were designed to test the hypothesis that orexin-A (OXA) is involved in the mechanism of stress-induced hypertension (SIH) by adjusting NOS/NO system in the RVLM.
+The stress-induced hypertensive rats (SIHR) model was established by electric foot-shocks and noises.
+Here we examined the expression of OXA immunoreactive (OXA-IR) cells in the lateral hypothalamus (LH) and the protein level of orexin 1 receptor (OX1R) in the RVLM of SIHR, and we found that the expressions of OXA-IR and OX1R were higher than those of the control group.
+The double-staining immunohistochemical evidence showed that OX1R immunoreactive (OX1R-IR) cells and neuronal nitric oxide synthase (nNOS) or inducible nitric oxide synthase (iNOS) immunoreactive (IR) cells were co-localizated in the RVLM.
+Microinjection of OXA (10, 50, 100 pmol/100 nl) into the unilateral (right) RVLM of control rats or SIHR produced pressor and tachycardiac effects in a dose-dependent manner.
+SB-408124 (100 pmol/100 nl, an antagonist of OX1R) or TCS OX2 29 (100 pmol/100 nl, an antagonist of OX2R) partly abolished the cardiovascular effects of exogenously-administrated OXA into the RVLM of control rats and SIHR, and lowered the increased systolic blood pressure (SBP) and heart rate (HR) of SIHR, with no difference in statistical significance between the two antagonists' effects.
+Microinjection into the RVLM of both control and SIHR groups of 7-Ni (0.05 pmol/100 nl, nNOS inhibitor) or Methylene Blue [100 pmol/100 nl, an inhibitor of soluble guanylate cyclase (sGC)] suppressed the OXA-induced increase of SBP and HR, whereas microinjection of AG (1, 10, 100 pmol/100 nl) had no obvious effects on the OXA-induced increase of SBP and HR.
+Our results indicate that OXA in the RVLM may participate in the central regulation of cardiovascular activities in SIHR, and OX1R and OX2R both have important roles in it.
+The cardiovascular effects of OXA in the RVLM may be induced by nNOS-derived NO, which activated sGC-associated signaling pathway.

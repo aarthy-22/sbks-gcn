@@ -1,0 +1,13 @@
+Overcoming chemotherapy resistance of ovarian cancer cells by liposomal cisplatin: molecular mechanisms unveiled by gene expression profiling.
+Previously we reported that liposomal cisplatin (CDDP) overcomes CDDP resistance of ovarian A2780cis cancer cells (Krieger et al., Int.
+J. Pharm. 389, 2010, 10-17).
+Here we find that the cytotoxic activity of liposomal CDDP is not associated with detectable DNA platination in resistant ovarian cancer cells.
+This suggests that the mode of action of liposomal CDDP is different from the free drug.
+To gain insight into mechanisms of liposomal CDDP activity, we performed a transcriptome analysis of untreated A2780cis cells, and A2780cis cells in response to exposure with IC50 values of free or liposomal CDDP.
+A process network analysis of upregulated genes showed that liposomal CDDP induced a highly different gene expression profile in comparison to the free drug.
+p53 was identified as a key player directing transcriptional responses to free or liposomal CDDP.
+The free drug induced expression of essential genes of the intrinsic (mitochondrial) apoptosis pathway (BAX, BID, CASP9) most likely through p38MAPK activation.
+In contrast, liposomal CDDP induced expression of genes from DNA damage pathways and several genes of the extrinsic pathway of apoptosis (TNFRSF10B-DR5, CD70-TNFSF7).
+It thus appears that liposomal CDDP overcomes CDDP resistance by inducing DNA damage and in consequence programmed cell death by the extrinsic pathway.
+Predictions from gene expression data with respect to apoptosis activation were confirmed at the protein level by an apoptosis antibody array.
+This sheds new light on liposomal drug carrier approaches in cancer and suggests liposomal CDDP as promising strategy for the treatment of CDDP resistant ovarian carcinomas.

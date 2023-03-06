@@ -1,0 +1,9 @@
+Effects of icariin on cGMP-specific PDE5 and cAMP-specific PDE4 activities.
+AIM: To clarify the mechanism of the therapeutic action of icariin on erectile dysfunction (ED).
+METHODS: PDE5 was isolated from the human platelet and PDE4 from the rat liver tissue using the FPLC system (Pharmacia, Milton Keynes, UK) and the Mono Q column.
+The inhibitory effects of icariin on PDE5 and PDE4 activities were investigated by the two-step radioisotope procedure with [(3)H]-cGMP/[(3)H]-cAMP.
+Papaverine served as the control drug.
+RESULTS: Icariin and papaverine showed dose-dependent inhibitory effects on PDE5 and PDE4 activities.
+The IC(50) of Icariin and papaverine on PDE5 were 0.432 micromol/L and 0.680 micromol/L, respectively and those on PDE4, 73.50 micromol/L and 3.07 micromol/L, respectively.
+The potencies of selectivity of icariin and papaverine on PDE5 (PDE4/PDE5 of IC(50)) were 167.67 times and 4.54 times, respectively.
+CONCLUSION: Icariin is a cGMP-specific PDE5 inhibitor that may be developed into an oral effective agent for the treatment of ED.

@@ -1,0 +1,8 @@
+Maqui berry (Aristotelia chilensis) and the constituent delphinidin glycoside inhibit photoreceptor cell death induced by visible light.
+The protective effects of maqui berry (Aristotelia chilensis) extract (MBE) and its major anthocyanins [delphinidin 3,5-O-diglucoside (D3G5G) and delphinidin 3-O-sambubioside-5-O-glucoside (D3S5G)] against light-induced murine photoreceptor cells (661W) death were evaluated.
+Viability of 661W after light treatment for 24h, assessed by the tetrazolium salt (WST-8) assay and Hoechst 33342 nuclear staining, was improved by addition of MBE, D3G5G, and D3S5G.
+Intracellular radical activation in 661W, evaluated using the reactive oxygen species (ROS)-sensitive probe 5-(and-6)-chloromethyl-2,7-dichlorodihydro
+fluorescein diacetate acetyl ester (CM-H2DCFDA), was reduced by MBE and its anthocyanins.
+The anti-apoptosis mechanism of MBE was evaluated by light-induced phosphorylation of p38.
+MBE significantly suppressed the light-induced phosphorylation of p38.
+These findings indicate that MBE and its anthocyanidins suppress the light-induced photoreceptor cell death by inhibiting ROS production, suggesting that the inhibition of phosphorylated-p38 may be involved in the underlying mechanism.

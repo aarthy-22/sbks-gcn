@@ -1,0 +1,11 @@
+Anti-inflammatory effect of prunetin via the suppression of NF-κB pathway.
+Prunetin is an O-methylated isoflavone, which is found in Prunus yedoensis.
+To date no report has been published on anti-inflammatory activities of prunetin.
+In the present study, the anti-inflammatory effect of prunetin on LPS-stimulated RAW 264.7 macrophage and LPS-induced septic shock model were investigated.
+Inducible nitric oxide synthase (iNOS), cyclooxygenase-2 (COX-2), tumor necrosis factor-α (TNF-α), interleukin-6 (IL-6), and interleukin-1β (IL-1β) expressions were determined by western blot and or realtime-PCR (RT-PCR).
+To elucidate its underlying mechanism, nuclear factor-kappa B (NF-κb) activation and its downstream pathways were investigated by NF-κB transcription factor assay, reporter gene expression, and western blot.
+In vivo anti-inflammatory effects of prunetin were evaluated in LPS-induced endotoxemia.
+Promoter assay revealed that prunetin inhibits LPS-induced nitric oxide and prostaglandin E2 production through the suppression of iNOS and COX-2 at the transcriptional level.
+In addition, prunetin inhibits NF-κB-dependent inflammatory responses by modulating IκB kinase (IKK)-inhibitor κBα (IκBα)-NF-κB signaling.
+Consistent with these results, prunetin significantly reduced serum levels of inflammatory cytokines and mortality in mice challenged with lipopolysaccharide.
+These findings offer a potential mechanism for the anti-inflammatory activity of prunetin.

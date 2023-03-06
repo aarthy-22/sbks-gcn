@@ -1,0 +1,15 @@
+Human peptidylarginine deiminase type III: molecular cloning and nucleotide sequence of the cDNA, properties of the recombinant enzyme, and immunohistochemical localization in human skin.
+Peptidylarginine deiminase catalyzes the post-translational modification of proteins through the conversion of arginine to citrulline in the presence of calcium ions.
+In rodents, peptidylarginine deiminase has been classified into four isoforms, types I, II, III, and IV, which are distinct in their molecular weights, substrate specificities, and tissue localization.
+Of these isoforms, only type III was detected in epidermis and hair follicles.
+Although the role of this enzyme in these tissues is not yet clear, indirect data have shown that several structural proteins such as filaggrin, trichohyalin, and keratin are substrates for peptidylarginine deiminase.
+In this study, we cloned the full-length cDNA of human peptidylarginine deiminase type III (3142 bp) from cultured human keratinocytes by reverse transcription-polymerase chain reaction and by rapid amplification of cDNA ends methods.
+This cDNA contained a 1995 bp open reading frame encoding 664 amino acids (Mr = 74 770).
+To explore the physicochemical and enzymatic properties of human peptidylarginine deiminase type III, we constructed a plasmid for producing a recombinant human peptidylarginine deiminase type III in bacteria.
+The enzymatic characteristics of the recombinant enzyme were very similar to those of the rodent peptidylarginine deiminase type III.
+The recombinant enzyme showed the catalytic activities toward structural proteins of epidermis and hair follicle, filaggrin and trichohyalin, in which the deiminations maxima of about 60% and 13% arginine residues were observed in filaggrin and trichohyalin, respectively.
+An immunohistochemical study of human scalp skin with a monospecific anti-peptidyl-arginine deiminase type III antibody revealed that the type III enzyme was localized to the inner root sheath and outer root sheath of hair follicles.
+Peptidylarginine deiminase type III in the inner root sheath was notable between supramatrix and keratogenous zone and was scarcely detected in cornified hair zone.
+The enzyme was also expressed in the cuticle layer of hair.
+On the other hand, expression of the enzyme in the epidermis was very low.
+These data imply that human peptidylarginine deiminase type III is the predominant isoform in hair follicles and may function as a modulator of hair structural proteins, including trichohyalin during hair and hair follicle formation.

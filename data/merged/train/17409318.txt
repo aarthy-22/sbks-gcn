@@ -1,0 +1,7 @@
+Competition between 24:5n-3 and ALA for Delta 6 desaturase may limit the accumulation of DHA in HepG2 cell membranes.
+The use of Delta 6 desaturase (D6D) twice in the conversion of alpha-linolenic acid (ALA; 18:3n-3) to docosahexaenoic acid (DHA; 22:6n-3) suggests that this enzyme may play a key regulatory role in the synthesis and accumulation of DHA from ALA.
+We examined this using an in vitro model of fatty acid metabolism to measure the accumulation of the long-chain metabolites of ALA in HepG2 cell phospholipids.
+The accumulation of ALA, eicosapentaenoic acid (20:5n-3), docosapentaenoic acid (22:5n-3), and 24:5n-3 in cell phospholipids was linearly related to the concentration of supplemented ALA over the range tested (1.8-72 microM).
+The accumulation of the post-D6D products of 22:5n-3, 24:6n-3 and DHA, in cell phospholipids was saturated at concentrations of >18 microM ALA.
+Supplementation of HepG2 cells with preformed DHA revealed that, although the accumulation of DHA in cell phospholipids approached saturation, the level of DHA in cell phospholipids was significantly greater compared with the accumulation of DHA from ALA, indicating that the accumulation of DHA from ALA was not limited by incorporation.
+The parallel pattern of accumulation of 24:6n-3 and DHA in response to increasing concentrations of ALA suggests that the competition between 24:5n-3 and ALA for D6D may contribute to the limited accumulation of DHA in cell membranes.

@@ -1,0 +1,16 @@
+A Surgical Model in Male Obese Rats Uncovers Protective Effects of Bile Acids Post-Bariatric Surgery.
+Bariatric surgery elevates serum bile acids.
+Conjugated bile acid administration, such as tauroursodeoxycholic acid (TUDCA), improves insulin sensitivity, while short-circuiting bile acid circulation through ileal interposition surgery in rats raises TUDCA levels.
+We hypothesized that bariatric surgery outcomes could be recapitulated by short-circuiting the normal entero-hepatic bile circulation.
+We established a model wherein male obese rats underwent either bile diversion (BD) or Sham (SH) surgery.
+The BD group had a catheter inserted into the common bile duct and its distal end anchored into the mid-distal jejunum for 4-5 weeks.
+Glucose tolerance, insulin and glucagon-like peptide-1 (GLP-1) response, hepatic steatosis and endoplasmic reticulum (ER) stress were measured.
+Rats' post-BD lost significantly more weight than the SH-rats.
+BD rats gained less fat mass post-surgery.
+BD rats had improved glucose tolerance, increased higher post-prandial GLP-1 response and serum bile acids but less liver steatosis.
+Serum bile acid levels including TUDCA concentrations were higher in BD compared to SH pair-fed rats.
+Fecal bile acid levels were not different.
+Liver ER stress (CHOP mRNA and pJNK protein) was decreased in BD rats.
+Bile acid gavage (TUDCA/UDCA) in diet-induced obese rats, elevated serum TUDCA and concomitantly reduced hepatic steatosis and ER stress (CHOP mRNA).
+These data demonstrate the ability of alterations in bile acids to recapitulate important metabolic improvements seen after bariatric surgery.
+Further, our work establishes a model for focused study of bile acids in the context of bariatric surgery that may lead to the identification of therapeutics for metabolic disease.

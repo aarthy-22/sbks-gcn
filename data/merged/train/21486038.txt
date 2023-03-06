@@ -1,0 +1,7 @@
+Discovery of 1-[2-(2,4-dimethylphenylsulfanyl)phenyl]piperazine (Lu AA21004): a novel multimodal compound for the treatment of major depressive disorder.
+The synthesis and structure-activity relationship of a novel series of compounds with combined effects on 5-HT(3A) and 5-HT(1A) receptors and on the serotonin (5-HT) transporter (SERT) are described.
+Compound 5m (Lu AA21004) was the lead compound, displaying high affinity for recombinant human 5-HT(1A) (K(i) = 15 nM), 5-HT(1B) (K(i) = 33 nM), 5-HT(3A) (K(i) = 3.7 nM), 5-HT(7) (K(i) = 19 nM), and noradrenergic beta(1) (K(i) = 46 nM) receptors, and SERT (K(i) = 1.6 nM).
+Compound 5m displayed antagonistic properties at 5-HT(3A) and 5-HT(7) receptors, partial agonist properties at 5-HT(1B) receptors, agonistic properties at 5-HT(1A) receptors, and potent inhibition of SERT.
+In conscious rats, 5m significantly increased extracellular 5-HT levels in the brain after acute and 3 days of treatment.
+Following the 3-day treatment (5 or 10 (mg/kg)/day) SERT occupancies were only 43% and 57%, respectively.
+These characteristics indicate that 5m is a novel multimodal serotonergic compound, and 5m is currently in clinical development for major depressive disorder.

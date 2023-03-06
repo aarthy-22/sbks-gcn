@@ -1,0 +1,8 @@
+Felbamate block of recombinant N-methyl-D-aspartate receptors: selectivity for the NR2B subunit.
+The anticonvulsant felbamate blocks N-methyl-D-asparate (NMDA) receptors but fails to exhibit the neurobehavioral toxicity characteristic of other NMDA receptor antagonists.
+To investigate the possibility that felbamate's favorable toxicity profile could be related to NMDA receptor subtype selectivity, we examined the specificity of felbamate block of recombinant NMDA receptors composed of the NR1a subunit and various NR2 subunits.
+Felbamate produced a rapid, concentration-dependent block of currents evoked by 50 microM NMDA and 10 microM glycine in human embryonic kidney 293 cells expressing the rat NR1a subunit, and either the NR2A, NR2B or NR2C subunits; the IC50 values for block were 2.6, 0.52 and 2.4 mM, respectively (holding potential, - 60 mV).
+The Hill coefficient values were < 1 and, in kinetic analyses, onset and recovery from block were well fit by double exponential functions, indicating binding to more than one blocking site on the NMDA receptor channel complex.
+The higher affinity of felbamate block of NMDA receptors containing the NR2B subunit could be accounted for by more rapid association and slower dissociation from these sites.
+We conclude that felbamate exhibits modest selectivity for NMDA receptors composed of NR1a/NR2B subunits.
+This selectivity could, in part, account for the more favorable clinical profile of felbamate in comparison with NMDA receptor antagonists that do not show subunit selectivity.

@@ -1,0 +1,11 @@
+Association of PON1 genotype and haplotype with susceptibility to coronary artery disease and clinical outcomes in dual antiplatelet-treated Han Chinese patients.
+PURPOSE: The aim of this study was to evaluate the association of PON1 genetic variants with the susceptibility to coronary artery disease (CAD) and with the clinical endpoints in aspirin and clopidogrel (dual antiplatelet therapy)-treated Han Chinese patients with CAD after percutaneous coronary intervention (PCI).
+METHODS: A total of 538 Han Chinese patients undergoing PCI and receiving dual-antiplatelet therapy were sequentially recruited to the study and followed for up to 1 year.
+Healthy controls (n = 539) were enrolled during the same period.
+All study participants were genotyped for five genetic variants in PON1 and the cytochrome P450 2C19*2 mutation (CYP2C19*2).
+The effect of genetic variants on disease risk and clinical outcome of major adverse cardiac events (MACE) within 1 year or bleeding within 6 months was assessed.
+RESULTS: CYP2C19*2 was associated with a higher risk of MACE (adjusted P = 0.0098), but a lower risk of bleeding events (adjusted P = 0.0016).
+The PON1 Q192R polymorphism was significantly associated with a lower risk of bleeding events [odds ratio (OR) 0.61, 95% confidence interval (CI) 0.43-0.87, adjusted P = 0.0066).
+The haplotype bearing the PON1 -126C allele was associated with a higher risk to CAD (OR 1.48, 95% CI 1.04-2.09, P = 0.029) and a higher risk of bleeding events (OR 1.68, 95% CI 1.10-2.56, P = 0.017) compared to the most frequent haplotype.
+The transcription activity of haplotype p-162A-126C-108C in the PON1 promoter was 2.6-fold higher than that of the most frequent haplotype (p-162G-126G-108T).
+CONCLUSIONS: Based on these results, we suggest that the haplotype-bearing PON1 -126C allele contributes to the disease risk and the risk of bleeding events in dual antiplatelet-treated CAD patients after PCI.

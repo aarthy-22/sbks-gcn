@@ -1,0 +1,14 @@
+Hepatic very-low-density lipoprotein and apolipoprotein B production are increased following in vivo induction of betaine-homocysteine S-methyltransferase.
+We have previously reported a positive correlation between the expression of BHMT (betaine-homocysteine S-methyltransferase) and ApoB (apolipoprotein B) in rat hepatoma McA (McArdle RH-7777) cells [Sowden, Collins, Smith, Garrow, Sparks and Sparks (1999) Biochem.
+J. 341, 639-645].
+To examine whether a similar relationship occurs in vivo, hepatic BHMT expression was induced by feeding rats a Met (L-methionine)-restricted betaine-containing diet, and parameters of ApoB metabolism were evaluated.
+There were no generalized metabolic abnormalities associated with Met restriction for 7 days, as evidenced by control levels of serum glucose, ketones, alanine aminotransferase and L-homocysteine levels.
+Betaine plus the Met restriction resulted in lower serum insulin and non-esterified fatty acid levels.
+Betaine plus Met restriction induced hepatic BHMT 4-fold and ApoB mRNA 3-fold compared with Met restriction alone.
+No changes in percentage of edited ApoB mRNA were observed on the test diets.
+An increase in liver ApoB mRNA correlated with an 82% and 46% increase in ApoB and triacylglycerol production respectively using in vivo Triton WR 1339.
+Increased secretion of VLDL (very-low-density lipoprotein) with Met restriction plus betaine was associated with a 45% reduction in liver triacylglycerol compared with control.
+Nuclear run-off assays established that transcription of both bhmt and apob genes was also increased in Met-restricted plus betaine diets.
+No change in ApoB mRNA stability was detected in BHMT-transfected McA cells.
+Hepatic ApoB and BHMT mRNA levels were also increased by 1.8- and 3-fold respectively by betaine supplementation of Met-replete diets.
+Since dietary betaine increased ApoB mRNA, VLDL ApoB and triacylglycerol production and decreased hepatic triacylglycerol, results suggest that induction of apob transcription may provide a potential mechanism for mobilizing hepatic triacylglycerol by increasing ApoB available for VLDL assembly and secretion.

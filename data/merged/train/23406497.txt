@@ -1,0 +1,13 @@
+Switchable Elastin-Like Polypeptides that Respond to Chemical Inducers of Dimerization.
+Elastin-like polypeptides (ELPs) are protein polymers that reversibly phase separate in response to increased temperature, pressure, concentration, ionic strength, and molecular weight.
+If it were possible to engineer their phase separation to respond to specific molecular substrates, ELP fusion proteins might be engineered as biosensors, smart biomaterials, diagnostic imaging agents, and targeted therapies.
+What has been lacking is a strategy to design ELPs to respond to specific substrates.
+To address this deficiency, we report that ELP fusion proteins phase separate in response to chemical inducers of dimerization (CID).
+The rationale is that ELP phase separation depends on molecular weight, concentration, and local hydrophobicity; therefore, processes that affect these properties, including noncovalent dimerization, can be tuned to produce isothermal phase separation.
+To test this hypothesis, constructs were evaluated consisting of an immunophilin: human FK-506 binding protein 12 (FKBP) attached to an ELP.
+Under stoichiometric binding of a CID, the fusion protein homodimerizes and triggers phase separation.
+This dimerization is reversible upon saturation with excess CID or competitive binding of a small lipophilic macrolide to FKBP.
+By modulating the ELP molecular weight, phase separation was tuned for isothermal response to CID at physiological ionic strength and temperature (37 °C).
+To interpret the relationship between transition temperature and equilibrium binding constants, an empirical mathematical model was employed.
+To the best of our knowledge, this report is the first demonstration of reversible ELP switching in response to controlled dimerization.
+Due to its simplicity, this strategy may be useful to design ELP fusion proteins that respond to specific dimeric biological entities.

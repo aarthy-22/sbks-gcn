@@ -1,0 +1,9 @@
+Assessment of the role of flavonoids for inducing osteoblast differentiation in isolated mouse bone marrow derived mesenchymal stem cells.
+Quercetin and rutin are common flavonoids in fruit and vegetables, and have been reported to affect bone development.
+However, the effect of flavonoids on osteoblast differentiation remains a matter of controversy.
+In the present study, mouse bone marrow mesenchymal stem cells (BMMSCs) were isolated and characterized for their use in osteoblast differentiation using two flavonoids, quercetin and rutin.
+BMMSCs were cultured in various concentrations of quercetin and rutin during the osteoblast differentiation period of 10 days.
+Both quercetin and rutin were found to up regulate the osteoblast differentiation in dose dependent manner, albeit to lesser extent in case of former than that of latter.
+Quercetin and rutin also increased alkaline phosphatase activity by about 150 and 240% and demonstrated mineralization up to 110 and 200% respectively as compared to control (which was considered as 100%).
+Further, both the flavonoids were also found to increase the expression of some of the prominent markers for differentiation of osteoblast like osteopontin, osterix, RunX2, osteoprotegerin and osteocalcin.
+The current data suggests that certain classes of flavonoids like rutin and quercetin can be used in the cure and management of osteodegenerative disorders due to their osteoblast specific differentiation activities.

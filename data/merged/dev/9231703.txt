@@ -1,0 +1,6 @@
+Cloning, characterization, and expression of a calcitonin receptor from guinea pig brain.
+A calcitonin receptor was cloned from guinea pig brain by using a degenerate reverse transcription-polymerase chain reaction (RT-PCR) strategy.
+When the cloned guinea pig calcitonin receptor was transfected into COS 1 cells, salmon calcitonin stimulated intracellular cyclic AMP accumulation with an EC50 of 0.1 nM, whereas human calcitonin was >250-fold less potent (EC50 27.6 nM).
+Related neuropeptides rat alphaCGRP and rat amylin did not activate the guinea pig calcitonin receptor at physiologic concentrations.
+Stimulation of the transfected guinea pig calcitonin receptor by salmon calcitonin also resulted in phosphatidylinositol hydrolysis with an EC50 of 2.5 nM. Expression of the calcitonin receptor was mapped by a combination of RT-PCR, northern analysis, and expression in Xenopus oocytes.
+The guinea pig calcitonin receptor was most highly expressed in diencephalon and a single subtype was detected.

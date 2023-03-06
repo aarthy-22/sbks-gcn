@@ -1,0 +1,8 @@
+Selective inhibitory effects of mollugin on CYP1A2 in human liver microsomes.
+Mollugin originally isolated from Rubia cordifolia is a pharmacological compound for its anti-inflammation, anti-cancer, and anti-viral activity.
+In the present study, a cocktail probe assay was performed for determination of the selective inhibitory effect of mollugin on cytochrome P450 (CYP) enzymes in human liver microsomes (HLM).
+Incubation of isoform-specific substrate probes CYPs with mollugin (0-25μM) in HLM resulted in strong inhibition of CYP1A2-catalyzed phenacetin O-deethylation, showing IC(50) values of 1.03 and 3.55μM without and with pre-incubation, respectively.
+Mollugin-caused inhibition of phenacetin O-deethylation was concentration-dependent in HLMs, but not time-dependent.
+In addition, the Lineweaver-Burk plot indicated a typical competitive inhibition.
+Inhibitory effects of mollugin on human recombinant cDNA-expressed CYP1A1 and 1A2 were comparable.
+Taken together, the results suggested that mollugin might cause herb-drug interaction through selective inhibition of CYP1A2 in humans receiving herbal medications, including R. cordifolia.

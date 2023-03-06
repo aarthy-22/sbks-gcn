@@ -1,0 +1,11 @@
+Expression and regulation of L-cystine transporter, system xc-, in the newly developed rat retinal Muller cell line (TR-MUL).
+The purpose of the present study was to elucidate the expression and regulation of the L-cystine transporter, system x(c) (-), in Muller cells.
+In this study, newly developed conditionally immortalized rat Muller cell lines (TR-MUL) from transgenic rats harboring the temperature-sensitive SV 40 large T-antigen gene were used as an in vitro model.
+TR-MUL cells express large T-antigen and grow well at 33 degrees C with a doubling time of 30 h, but do not grow at 39 degrees C. TR-MUL cells express typical Muller cell markers such as S-100, glutamine synthetase, and EAAT1/GLAST, whereas EAAT2/GLT-1 and EAAT5 are not detected.
+TR-MUL cells also exhibit little or no expression of glial fibrillary acidic protein.
+We found that TR-MUL5 cells exhibited [(14)C]L-cystine uptake activity and expressed xCT and 4F2hc, which involve system x(c) (-).
+The uptake of [(14)C]L-cystine was significantly inhibited by L-glutamic acid and L-aspartic acid, whereas L-leucine had no effect.
+Following diethyl maleate (DEM) treatment, the glutathione concentration in TR-MUL5 cells was reduced in the first 24 h, then gradually recovered for more than 24 h. The L-cystine uptake rate and the xCT expression level in TR-MUL5 cells were enhanced by DEM treatment.
+In contrast, the 4F2hc expression level was unchanged.
+In conclusion, TR-MUL cells have the properties of Muller cells and exhibit system x(c) (-)-mediated L-cystine uptake activity.
+The oxidative stress conditions following DEM treatment activate L-cystine transport in TR-MUL cells due to the enhanced transcription of the xCT gene.

@@ -1,0 +1,9 @@
+Detection of Statin Cytotoxicity Is Increased in Cells Expressing the OATP1B1 Transporter.
+Cytotoxicity of a compound is determined by the intracellular concentration mediated both by passive permeability and active uptake through drug transporters.
+However, the major liver uptake transporters were either absent or expressed at significantly lower levels in human liver cell lines than in human liver.
+When comparing cytotoxicity of five statins, the organic anion transporting polypeptide 1B1 (OATP1B1) expressing HEK cells showed a significantly higher sensitivity than the wild-type HEK cells.
+The IC50 shifts ranged from 9- to >100-fold, and the potency shifts collapsed in the presence of rifampicin, the inhibitor for OATPs.
+The extent of the IC50 shift correlated with the permeability of the statins with high permeable compounds having smaller shifts and low permeable compounds having larger shifts.
+The changes in statin potency in transporter transfected cells reflect the active uptake of statins into the cells and the increased intracellular drug concentration lead to increased toxicity.
+The data suggested that uptake transporters have a significant impact on the outcomes of a cell-based assay and should be considered during the early stages of compound toxicity screening in drug discovery.
+For compounds with low permeability which are likely to undergo transporter-mediated uptake, it is important to test them in transporter-competent cell models.

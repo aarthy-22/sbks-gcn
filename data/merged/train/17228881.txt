@@ -1,0 +1,10 @@
+Carbonic anhydrase inhibitors.
+DNA cloning, characterization, and inhibition studies of the human secretory isoform VI, a new target for sulfonamide and sulfamate inhibitors.
+The secretory isozyme of human carbonic anhydrase (hCA, EC 4.2.1.1), hCA VI, has been cloned, expressed, and purified in a bacterial expression system.
+The kinetic parameters for the CO2 hydration reaction proved hCA VI to possess a kcat of 3.4 x 10(5) s-1 and kcat/KM of 4.9 x 10(7) M-1 s-1 (at pH 7.5 and 20 degrees C).
+hCA VI has a significant catalytic activity for the physiological reaction on the same order of magnitude as the ubiquitous isoform CA I or the transmembrane, tumor-associated isozyme CA IX.
+A series of sulfonamides and one sulfamate have been tested for their interaction with this isozyme.
+Simple benzenesulfonamides were rather ineffective hCA VI inhibitors, with inhibition constants in the range of 1090-6680 nM. Better inhibitors were detected among such derivatives bearing 2- or 4-amino-, 4-aminomethyl-, or 4-hydroxymethyl moieties or among halogenated sulfanilamides (KI values of 608-955 nM).
+Some clinically used compounds, such as acetazolamide, methazolamide, ethoxzolamide, dichlorophenamide, dorzolamide, brinzolamide, topiramate, sulpiride, and indisulam, or the orphan drug benzolamide, showed effective hCA VI inhibitory activity, with inhibition constants of 0.8-79 nM. The best inhibitors were brinzolamide and sulpiride (KI values of 0.8-0.9 nM), the latter compound being also a CA VI-selective inhibitor.
+The metallic taste reported as a side effect after the treatment with systemic sulfonamides may be due to the inhibition of the salivary CA VI.
+Some of the compounds investigated in this study might be used as additives in toothpastes for reducing the acidification produced by the relevant CO2 hydrase activity of enamel CA VI, which leads to the formation of protons and bicarbonate and may have a role in cariogenesis.

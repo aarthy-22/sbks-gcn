@@ -1,0 +1,6 @@
+[The histamine H3 receptor: a new target for the treatment of arousal and cognitive disorders].
+The histamine H3 receptor was identified in the 80's by our group as a presynaptic autoreceptor inhibiting histamine synthesis and release in the rat brain.
+Sixteen years later, cloning of the related human H3 receptor revealed the existence of isoforms, species pharmacological differences and a high constitutive (spontaneous) activity of the receptor.
+All these molecular findings have to be taken into account for optimizing aimed at clinical applications ligands.
+H3 receptor inverse agonists, by increasing histamine neuron activity, promote arousal and enhance cognitive performances.
+Pharmaceutical firms have shown considerable interest for this new class of drugs and many programmes of clinical development of H3 receptor inverse agonists for the treatment of arousal and cognitive disorders are presently being conducted.

@@ -1,0 +1,18 @@
+A common LRP4 haplotype is associated with bone mineral density and hip geometry in men-data from the Odense Androgen Study (OAS).
+Osteoporosis is a common disease characterized by an increased susceptibility to fracture.
+It is a complex disorder resulting from the interaction of several polymorphisms in different genes and environmental factors.
+Since we recently reported a role for low density lipoprotein-related protein (LRP)-4 in monogenic disorders with bone overgrowth, we now wanted to evaluate whether genetic variation in the LRP4 gene has an effect on the susceptibility to osteoporosis in a population based cohort from the Odense Androgen Study.
+We chose to genotype four common (minor allele frequency (MAF)≥0.05) and non-synonymous coding polymorphisms located in the extracellular region of the LRP4 protein: rs3816614 (A/g), rs2306029 (G/a), rs2306033 (C/t) and rs6485702 (G/a) (large and small characters indicate major and minor alleles, respectively).
+Bone mineral density (BMD) measurements of the hip, the spine and whole body as well as different hip geometry parameters were available for a total of 1404 Danish men from two age groups ([20-29 years]: n=804; [60-74 years]: n=600).
+Using linear regression analysis adjusted for age, height and weight, we found significant associations between both rs2306029 and rs6485702 and BMD at all sites except the lumbar spine.
+The most significant association was found with whole body BMD (p=4.7×10(-5)).
+In addition, we found these two polymorphisms to be associated with different geometry parameters especially of the femoral shaft.
+Analysis of the two associated SNPs in the separate age groups demonstrated that most associations are only present in the youngest group of Danish men.
+In the group of elderly men, one Bonferroni corrected association between whole body BMD and rs6485702 was found to be significant.
+Subsequently, all polymorphisms were included in haplotype analyses using the PLINK software (v1.07).
+After adjusting for age, height and weight, two out of five common haplotypes (MAF≥0.01) were found to be of particular interest in the regulation of hip and whole body BMD (AGCG, AACA).
+Additional analysis suggested that these latter associations are driven by the association of rs6485702.
+We suggest, based on these results and the localisation of the variant in the third β-propeller domain of LRP4, that the variant has possibly a functional effect.
+Hereby, we conclude that common variation in the LRP4 gene determines hip and whole body BMD and thus confirm previous results from different GWAs.
+In addition, our data proves an additional role for LRP4 in regulating hip structure.
+Finally, interaction analysis for LRP4 with SOST and LRP5 showed interaction with LRP5 for femoral shaft geometry.

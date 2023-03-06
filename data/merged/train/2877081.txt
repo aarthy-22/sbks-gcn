@@ -1,0 +1,9 @@
+Actions of nizatidine, a selective histamine H2-receptor antagonist, on gastric acid secretion in dogs, rats and frogs.
+Nizatidine (LY139037), a selective histamine H2-receptor antagonist, is a potent inhibitor of gastric acid secretion.
+It was 17.8 times as active as cimetidine on histamine (10(-5) M)-induced secretion from the isolated gastric mucosa of the bullfrog.
+Nizatidine was 8.9 times as active as cimetidine on basal acid secretion of the chronic gastric fistula rats after s.c. administration.
+Against acid secretion from the vagally innervated gastric fistula and Heidenhain pouch of dogs stimulated with submaximal doses of histamine, methacholine and gastrin, nizatidine was, respectively, 6.5, 5 and 4.7 times as active as cimetidine by i.v.
+administration.
+Nizatidine was very well absorbed from the gut and was 5 to 10 times as active as cimetidine on gastric acid secretion of dogs induced by submaximal and maximal doses of histamine when given p.o.
+Equal molar doses of nizatidine showed equal peak effects when given i.v., s.c. or i.m.
+Pharmacological data indicate that nizatidine is safe and effective as an agent for the control of excessive gastric acid secretion.

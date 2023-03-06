@@ -1,0 +1,11 @@
+Transport Function and Transcriptional Regulation of a Liver-Enriched Human Organic Anion Transporting Polypeptide 2B1 Transcriptional Start Site Variant.
+Human Organic Anion Transporting Polypeptide 2B1 (OATP2B1) is a membrane transporter that facilitates the cellular uptake of a number of endogenous compounds and drugs.
+OATP2B1 is widely expressed in tissues including the small intestine, liver, kidney, placenta, heart, skeletal muscle and platelets.
+Recently, it has been shown that differential promoter usage in tissues results in expression of five OATP2B1 transcriptional start site variants which utilize distinct first exons but share common subsequent exons.
+These variants are expected to encode either a full length (OATP2B1-FL) or shortened protein lacking 22 N-terminus amino acids (OATP2B-Short).
+Little is known regarding the transport activity and regulation of OATP2B1 variants with N-terminus truncation.
+Here, using absolute quantitative polymerase chain reaction we find the full length variant is the major form expressed in duodenum but the short variant predominates in liver.
+Using a transient heterologous cell expression system, we find that the transport activities of the short OATP2B1 variant towards substrates estrone sulfate and rosuvastatin are similar to the well-characterized full length variant.
+Transcriptional activity screening of the liver enriched OATP2B1 variant promoter identified hepatocyte nuclear factor 4 alpha (HNF4α) as a novel transacting factor.
+With a combination of in silico screening, promoter mutation in cell-based reporter assays, siRNA knockdown and chromatin immunoprecipitation studies, we identified a functional HNF4α binding site close to the transcription start site (-17 to -4 bp).
+We conclude that the major OATP2B1 protein form in liver is transport competent and its hepatic expression is regulated by HNF4α.

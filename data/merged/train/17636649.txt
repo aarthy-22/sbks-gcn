@@ -1,0 +1,24 @@
+Danazol for heavy menstrual bleeding.
+BACKGROUND: Heavy menstrual bleeding (HMB) is an important cause of ill health in pre menopausal women.
+Medical therapy, with the avoidance of possibly unnecessary surgery is an attractive treatment option, but there is considerable variation in practice and uncertainty about the most effective therapy.
+Danazol is a synthetic steroid with anti-oestrogenic and anti progestogenic activity, and weak androgenic properties.
+Danazol suppresses oestrogen and progesterone receptors in the endometrium, leading to endometrial atrophy (thinning of the lining of the uterus) and reduced menstrual loss and to amenorrhoea in some women.
+OBJECTIVES: To determine the effectiveness and tolerability of Danazol when used for heavy menstrual bleeding in women of reproductive years.
+SEARCH STRATEGY: We searched the Menstrual Disorders and Subfertility Group's Specialised Register (April 2007).
+We also searched the Cochrane Controlled Trials Register (Cochrane Library, Issue 2, 2007), MEDLINE (1966 to April 2007), EMBASE (1980 to April 2007, CINAHL (1982 to April 2007).
+Attempts were also made to identify trials from citation lists of included trials and relevant review articles.
+SELECTION CRITERIA: Randomised controlled trials of Danazol versus placebo, any other medical (non-surgical) therapy or Danazol in different dosages for heavy menstrual bleeding in women of reproductive age with regular HMB measured either subjectively or objectively.
+Trials that included women with post menopausal bleeding, intermenstrual bleeding and pathological causes of heavy menstrual bleeding were excluded.
+DATA COLLECTION AND ANALYSIS: Nine RCTs, with 353 women, were identified that fulfilled the inclusion criteria.
+Quality assessment and data extraction were performed independently by two reviewers.
+The main outcomes were menstrual blood loss, the number of women experiencing adverse effects, weight gain, withdrawals due to adverse effects and dysmenorrhoea.
+If data could not be extracted in a form suitable for meta-analysis, they were presented in a descriptive format.
+MAIN RESULTS: Most data were not in a form suitable for meta analysis, and the results are based on a small number of trials, all of which are under-powered.
+Danazol appears to be more effective than placebo, progestogens, NSAIDs and the OCP at reducing MBL, but confidence intervals were wide.
+Treatment with Danazol caused more adverse events than NSAIDs (OR 7.0; 95% CI 1.7 to 28.2) and progestogens (OR 4.05, 95% CI 1.6 to10.2).
+Danazol was shown to significantly lower the duration of menses when compared with NSAIDs (WMD -1.0; 95% CI -1.8 to -0.3) and a progesterone releasing IUD (WMD -6.0; 95% CI -7.3 to -4.8).
+There were no randomised trials comparing Danazol with tranexamic acid or the levonorgestrel-releasing intrauterine system.
+AUTHORS' CONCLUSIONS: Danazol appears to be an effective treatment for heavy menstrual bleeding compared to other medical treatments.
+The use of Danazol may be limited by its side effect profile, its acceptability to women and the need for continuing treatment.
+The small number of trials, and the small sample sizes of the included trials limit the recommendations for clinical care.
+Further studies are unlikely in the future and this review will not be updated unless further studies are identified.

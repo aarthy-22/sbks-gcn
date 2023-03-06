@@ -1,0 +1,11 @@
+Analysis of mammalian alcohol dehydrogenase 5 (ADH5): characterisation of rat ADH5 with comparisons to the corresponding human variant.
+Alcohol dehydrogenase 5 (ADH5) is a member of the mammalian alcohol dehydrogenase family of yet undefined functions.
+ADH5 was first identified at the DNA level in human and deer mouse.
+A rat alcohol dehydrogenase structure of similar type has been isolated at the cDNA level using human ADH5 as a screening probe, where the rat cDNA structure displayed several atypical properties.
+mRNA for rat ADH5 was found in multiple tissues, especially in the kidney.
+In vitro translation experiments indicated that rat ADH5 is expressed as efficiently as ADH1 and furthermore, rat ADH5 was readily expressed in COS cells fused to Green Fluorescent Protein.
+However, no soluble ADH5 protein could be heterologously expressed in Escherichia coli cells with expression systems successfully used for other mammalian ADHs, including fused to glutathione-S-transferase.
+Molecular modelling of the enzyme indicated that the protein does not fold in a productive way, which can be the explanation why no stable and active ADH5 has been isolated.
+These results indicate that ADH5, while readily expressed at the mRNA level, does not behave similarly to other mammalian ADHs investigated.
+The results, in vitro and in silico, suggest an unstable ADH5 structure, which can explain for why no active and stable protein can be isolated.
+Further possibilities are conceivable: the ADH5 protein may have to interact with a stabiliser, or the gene is actually a pseudogene.

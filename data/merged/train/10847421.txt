@@ -1,0 +1,7 @@
+Dose-dependent release of endogenous tissue factor pathway inhibitor by different low molecular weight heparins.
+Tissue factor pathway inhibitor (TFPI) is released to circulating blood after intravenous and subcutaneous injections of heparins, and may thus contribute to the antithrombotic effect of heparins.
+A previous study suggested different abilities of various low molecular weight heparins (LMWH) to release endogenous TFPI, but the dose-response relationship was not determined.
+In the present study, the dose-response relationship for escalating doses of two LMWHs, dalteparin and enoxaparin, on the release of endogenous TFPI was investigated.
+Six healthy male participants were given 50, 100 and 200 U/kg dalteparin and 0.5, 1.0 and 2.0 mg/kg enoxaparin as a single subcutaneous injection.
+The study was a randomized, cross-over design with a 1-week wash-out period between each injection.
+Peak free TFPI antigen and TFPI activity were detected after only 1 h, whereas anti-activated factor X (anti-FXa) and anti-activated factor II (anti-FIIa) activities were detected after 2-6 h. Putative therapeutic equivalent doses of dalteparin and enoxaparin gave similar release of endogenous TFPI, but dissimilar effects on anti-FXa and anti-FIIa activities.

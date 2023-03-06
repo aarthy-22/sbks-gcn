@@ -1,0 +1,11 @@
+Effect of antidepressant drugs in mice lacking the norepinephrine transporter.
+One of the main theories concerning the mechanism of action of antidepressant drugs (ADs) is based on the notion that the neurochemical background of depression involves an impairment of central noradrenergic transmission with a concomitant decrease of the norepinephrine (NE) in the synaptic gap.
+Many ADs increase synaptic NE availability by inhibition of the reuptake of NE.
+Using mice lacking NE transporter (NET-/-) we examined their baseline phenotype as well as the response in the forced swim test (FST) and in the tail suspension test (TST) upon treatment with ADs that display different pharmacological profiles.
+In both tests, the NET-/- mice behaved like wild-type (WT) mice acutely treated with ADs.
+Autoradiographic studies showed decreased binding of the beta-adrenergic ligand [3H]CGP12177 in the cerebral cortex of NET-/- mice, indicating the changes at the level of beta-adrenergic receptors similar to those obtained with ADs treatment.
+The binding of [3H]prazosin to alpha1-adrenergic receptors in the cerebral cortex of NET-/- mice was also decreased, most probably as an adaptive response to the sustained elevation of extracellular NE levels observed in these mice.
+A pronounced NET knockout-induced shortening of the immobility time in the TST (by ca 50%) compared to WT mice was not reduced any further by NET-inhibiting ADs such as reboxetine, desipramine, and imipramine.
+Citalopram, which is devoid of affinity for the NET, exerted a significant reduction of immobility time in the NET-/- mice.
+In the FST, reboxetine, desipramine, imipramine, and citalopram administered acutely did not reduce any further the immobility time shortened by NET knockout itself (ca 25%); however, antidepressant-like action of repeatedly (7 days) administered desipramine was observed in NET-/- mice, indicating that the chronic presence of this drug may also affect other neurochemical targets involved in the behavioral reactions monitored by this test.
+From the present study, it may be concluded that mice lacking the NET may represent a good model of some aspects of depression-resistant behavior, paralleled with alterations in the expression of adrenergic receptors, which result as an adaptation to elevated levels of extracellular NE.

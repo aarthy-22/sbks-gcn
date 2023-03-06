@@ -1,0 +1,5 @@
+Modulation of epidermal growth factor receptor in endocrine-resistant, oestrogen receptor-positive breast cancer.
+There is an increasing body of evidence demonstrating that growth factor networks are highly interactive with oestrogen receptor (ER) signalling in the control of breast cancer growth.
+As such, tumour responses to anti- hormones are likely to be a composite of the ER and growth factor inhibitory activity of these agents.
+The current article examines the modulation of growth factor networks during endocrine response, and presents in vitro and clinical evidence that epidermal growth factor receptor signalling, maintained in either an ER-dependent or -independent manner, is critical to anti- hormonal-resistant breast cancer cell growth.
+The considerable potential of the epidermal growth factor receptor-selective tyrosine kinase inhibitor, ZD 1839 (Iressa; AstraZeneca) to efficiently treat, and perhaps even prevent, endocrine-resistant breast cancer is highlighted.

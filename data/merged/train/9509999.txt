@@ -1,0 +1,6 @@
+Adrenergic agonists suppress the proliferation of microglia through beta 2-adrenergic receptor.
+The effects of several cyclic adenosine monophosphate (cAMP)-elevating agents on the proliferation of cultured rat microglia were investigated by immunocytochemical staining with an antibody against proliferating cell nuclear antigen (PCNA).
+Epinephrine, isoproterenol, forskolin and 8Br-cAMP suppressed the microglial proliferation.
+A beta2-selective agonist terbutaline but not a beta1-selective agonist dobutamine mimicked the effect of the above cAMP-elevating agents.
+Furthermore, a non-selective beta-receptor antagonist oxprenolol and a beta2-selective antagonist acebutalol, but not a beta1-selective antagonist butoxamine, counteracted the suppressive effects of the beta-agonists on microglial proliferation.
+These findings suggest that the beta-agonists suppress the proliferation of microglia by elevating intracellular cAMP level through an action on beta2-adrenergic receptor.

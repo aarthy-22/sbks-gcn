@@ -1,0 +1,6 @@
+Dose dependent molecular effects of acrylamide and glycidamide in human cancer cell lines and human primary hepatocytes.
+Recently published studies suggest a weak positive correlation between increased dietary acrylamide intake and the increased risk of endometrial and ovarian cancer.
+However, risk assessment of acrylamide remains difficult because the carcinogenic mechanisms are still unknown and in particular the molecular effects of low level acrylamide exposure as seen by dietary intake are not well understood.
+Therefore, we analyzed in ovarian and endometrial cancer cell lines as well as in primary hepatocytes the expression of genes involved in cancer development and xenobiotic metabolism after high and low dose exposure (1-0.001mM) of acrylamide and its metabolite glycidamide.
+In conclusion our in vitro results demonstrate that exposure to high doses of glycidamide/acrylamide - exceeding the dietary exposure of the general population by far - can induce genes with growth promoting potential like the oncogene cMYC and genes involved in the MAPK pathway.
+However, low-dose exposure seems to activate primarily genes involved in the elimination of the toxicant.

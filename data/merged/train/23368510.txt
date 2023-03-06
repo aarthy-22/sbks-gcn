@@ -1,0 +1,13 @@
+Pharmacodynamic characteristics of lixisenatide once daily versus liraglutide once daily in patients with type 2 diabetes insufficiently controlled on metformin.
+AIM: Assess the pharmacodynamics of lixisenatide once daily (QD) versus liraglutide QD in type 2 diabetes insufficiently controlled on metformin.
+METHODS: In this 28-day, randomized, open-label, parallel-group, multicentre study (NCT01175473), patients (mean HbA1c 7.3%) received subcutaneous lixisenatide QD (10 µg weeks 1-2, then 20 µg; n = 77) or liraglutide QD (0.6 mg week 1, 1.2 mg week 2, then 1.8 mg; n = 71) 30 min before breakfast.
+Primary endpoint was change in postprandial plasma glucose (PPG) exposure from baseline to day 28 during a breakfast test meal.
+RESULTS: Lixisenatide reduced PPG significantly more than liraglutide [mean change in AUC(0) (:30-4:30h) : -12.6 vs. -4.0 h/mmol/l, respectively; p < 0.0001 (0:30 h = start of meal)].
+Change in maximum PPG excursion was -3.9 mmol/l vs. -1.4 mmol/l, respectively (p < 0.0001).
+More lixisenatide-treated patients achieved 2-h PPG <7.8 mmol/l (69% vs. 29%).
+Changes in fasting plasma glucose were greater with liraglutide (-0.3 vs. -1.3 mmol/l, p < 0.0001).
+Lixisenatide provided greater decreases in postprandial glucagon (p < 0.05), insulin (p < 0.0001) and C-peptide (p < 0.0001).
+Mean HbA1c decreased in both treatment groups (from 7.2% to 6.9% with lixisenatide vs. 7.4% to 6.9% with liraglutide) as did body weight (-1.6 kg vs. -2.4 kg, respectively).
+Overall incidence of adverse events was lower with lixisenatide (55%) versus liraglutide (65%), with no serious events or hypoglycaemia reported.
+CONCLUSIONS: Once daily prebreakfast lixisenatide provided a significantly greater reduction in PPG (AUC) during a morning test meal versus prebreakfast liraglutide.
+Lixisenatide provided significant decreases in postprandial insulin, C-peptide (vs. an increase with liraglutide) and glucagon, and better gastrointestinal tolerability than liraglutide.

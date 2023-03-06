@@ -1,0 +1,12 @@
+RARalpha is a regulatory factor for Am-80-induced cell growth inhibition of hematologic malignant cells.
+Retinoids are used for treatment of acute promyelocytic leukemia (APL).
+Am-80, Tamibarotene, binds to retinoic acid receptor alpha (RARalpha) more specifically than all-trans retinoic acid.
+We studied the tumor cell suppressive effects of Am-80, with respect to cytotoxicity and growth inhibition using eight myeloid and lymphoid malignant cells in culture (HL-60, HL-60R, K-562, Kasumi-1, MEG01, Raji, U266B1, and U937).
+The effects of Am-80 were examined during 9 days of incubation with 10(-7)-10(-5) M of Am-80 in culture medium, which was changed every 3 days.
+HL-60 were the only cells sensitive to Am-80-induced cytotoxicity; the latter reached more than 95% after 9 days of incubation, and death was primarily through apoptosis.
+The total mass of RARalpha in HL-60 was significantly greater (p<0.006) than in ATRA-resistant HL-60 (HL-60R) as well as all of other cells tested.
+However, in all cells excluding HL-60, Am-80 induced time- and dose-dependent cell growth inhibition without noticeable cytotoxicity.
+TGF-beta2 was released into the media containing cells incubated with Am-80 for 3 days.
+A dose-dependent increment of phosphorylation of Smad-2 was also detected.
+The relative amount of secreted TGF-beta2 correlated with the growth inhibition rates in all cells tested excluding HL-60, and with the total mass of RARalpha in the cells (p=0.0137).
+Our results indicate that Am-80-induced cell-type non-specific growth inhibition is mediated by TGF-beta2, where the total mass of RARalpha could be an important regulatory factor in hematologic malignant cells.

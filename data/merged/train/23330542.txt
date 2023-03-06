@@ -1,0 +1,12 @@
+PXR antagonists and implication in drug metabolism.
+Adopted orphan nuclear receptor (NR), pregnane X receptor (PXR), plays a central role in the regulation of xeno- and endobiotic metabolism.
+Since the discovery of the functional role of PXR in 1998, there is evolving evidence for the role of PXR agonists in abrogating metabolic pathophysiology (e.g., cholestasis, hypercholesterolemia, and inflammation).
+However, more recently, it is clear that PXR is also an important mediator of adverse xeno- (e.g., enhances acetaminophen toxicity) and endobiotic (e.g., hepatic steatosis) metabolic phenotypes.
+Moreover, in cancer therapeutics, PXR activation can induce drug resistance, and there is growing evidence for tissue-specific enhancement of the malignant phenotype.
+Thus, in these instances, there may be a role for PXR antagonists.
+However, as opposed to the discovery efforts for PXR agonists, there are only a few antagonists described.
+The mode of action of these antagonists (e.g., sulforaphane) remains less clear.
+Our laboratory efforts have focused on this question.
+Since the original discovery of azoles analogs as PXR antagonists, we have preliminarily defined an important PXR antagonist pharmacophore and developed less-toxic PXR antagonists.
+In this review, we describe our published and unpublished findings on recent structure-function studies involving the azole chemical scaffold.
+Further work in the future is needed to fully define potent, more-selective PXR antagonists that may be useful in clinical application.

@@ -1,0 +1,10 @@
+Dyslipidemia in type 2 diabetes: prevalence, pathophysiology, and management.
+Dyslipidemia is one of the key risk factors for cardiovascular disease (CVD) in diabetes mellitus.
+Despite the mounting clinical trial data, the management of dyslipidemia other than lowering the low density lipoprotein cholesterol (LDL-c) continues to be controversial.
+The characteristic features of diabetic dyslipidemia are high plasma triglyceride concentration, reduced high density lipoprotein cholesterol (HDL-c) concentration, and increased concentration of small dense LDL particles.
+These changes are caused by increased free fatty acid flux secondary to insulin resistance and aggravated by increased inflammatory adipokines.
+The availability of several lipid-lowering drugs and nutritional supplements offers novel and effective options for achieving target lipid levels in people with diabetes.
+While initiation of drug therapy based on differences in the lipid profile is an option, most practice guidelines recommend statins as first-line therapy.
+Although the evidence for clinical utility of combination of statins with fibrates or nicotinic acid in reducing cardiovascular events remains inconclusive, the preponderance of evidence suggests that a subgroup who have high triglycerides and low HDL-c levels may benefit from combination therapy of statins and fibrates.
+The goal of therapy is to achieve at least 30-40 % reduction in LDL-c levels.
+Preferably the LDL-c should be less than 100 mg/dL in low-risk people and less than 70 mg/dL in those at high risk, including people with established CVD.

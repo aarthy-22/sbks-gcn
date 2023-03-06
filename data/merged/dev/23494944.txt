@@ -1,0 +1,12 @@
+Influence of the Green Tea Leaf Extract on Neurotoxicity of Aluminium Chloride in Rats.
+Aluminium may have an important role in the aetiology/pathogenesis/precipitation of Alzheimer's disease.
+Because green tea (Camellia sinensis L.) reportedly has health-promoting effects in the central nervous system, we evaluated the effects of green tea leaf extract (GTLE) on aluminium chloride (AlCl3 ) neurotoxicity in rats.
+All solutions were injected into the cornu ammonis region 1 hippocampal region.
+We measured the performance of active avoidance (AA) tasks, various enzyme activities and total glutathione content (TGC) in the forebrain cortex (FbC), striatum, basal forebrain (BFb), hippocampus, brain stem and cerebellum.
+AlCl3 markedly reduced AA performance and activities of cytochrome c oxidase (COX) and acetylcholinesterase (AChE) in all regions.
+It decreased TGC in the FbC, striatum, BFb, hippocampus, brain stem and cerebellum, and increased superoxide dismutase activity in the FbC, cerebellum and BFb.
+GTLE pretreatment completely reversed the damaging effects of AlCl3 on AA and superoxide dismutase activity, markedly corrected COX and AChE activities, and moderately improved TGC.
+GTLE alone increased COX and AChE activities in almost all regions.
+GTLE reduces AlCl3 neurotoxicity probably via antioxidative effects and improves mitochondrial and cholinergic synaptic functions through the actions of (-)-epigallocatechin gallate and (-)-epicatechin, compounds most abundantly found in GTLE.
+Our results suggest that green tea might be beneficial in Alzheimer's disease.
+Copyright © 2013 John Wiley & Sons, Ltd.

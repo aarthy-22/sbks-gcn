@@ -1,0 +1,6 @@
+Temperature Effects of Sputtering of Langmuir-Blodgett Multilayers.
+Time-of-flight secondary ion mass spectrometry (TOF-SIMS) and atomic force microscopy (AFM) are employed to characterize a wedge-shaped crater eroded by a 40 keV C(60) (+) cluster ion beam on an organic thin film of 402 nm of barium arachidate (AA) multilayers prepared by the Langmuir-Blodgett (LB) technique.
+Sample cooling to 90 K was used to help reduce chemical damage, improve depth resolution and maintain constant erosion rate during depth profiling.
+The film was characterized at 90 K, 135 K, 165 K, 205 K, 265 K and 300 K. It is shown that sample cooling to 205 K or lower helps to inhibit erosion rate decay, whereas at 300 K and 265 K the erosion rate continues to drop after 250 nm of erosion, reaching about half of the initial value after removal of the entire film.
+Depth profiles are acquired from the SIMS images of the eroded wedge crater.
+The results suggest that sample cooling only slightly improves the altered layer thickness, but eliminates the decrease in erosion rate observed above 265 K.

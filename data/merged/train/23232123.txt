@@ -1,0 +1,8 @@
+Aberrant transcription of the LHCGR gene caused by a mutation in exon 6A leads to Leydig cell hypoplasia type II.
+The luteinizing hormone/chorionic gonadotropin receptor (LHCGR) is essential for normal male sex differentiation.
+Recently, the additional primate-specific exon 6A of the LHCGR was discovered and it was shown to act as regulatory element at the transcriptional level.
+Compound heterozygous mutations in exon 6A (c.580 A>G) and exon 11 (c.1244T>C) were identified in the LHCGR of a male 46,XY patient with genital malformation.
+Analysis revealed that mutation c.580A>G in exon 6A affects the splicing pattern resulting in an increase of transcripts containing the internal variants of exon 6A prone to nonsense-mediated decay.
+In contrast, mutation c.1244T>C results in an amino acid substitution (Ile415Thr), which abolishes signal transduction due to structural changes.
+When inherited in a compound heterozygous fashion these mutations result in Leydig cell hypoplasia (LCH) type II.
+Thus this study provides proof that mutations causing aberrant transcription can impair receptor function and thereby be causative of LCH.

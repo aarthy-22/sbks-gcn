@@ -1,0 +1,10 @@
+Antithrombin binding of low molecular weight heparins and inhibition of factor Xa.
+Fluorescence and stopped flow methods were used to compare clinically used heparins with regard to their ability to bind to antithrombin and to accelerate the inactivation of factor Xa.
+Titration of antithrombin with both low molecular weight heparin (LMWH) (enoxaparin, fragmin and ardeparin) and unfractionated heparin (UFH) produced an equivalent fluorescence increase and indicates similar affinity of all heparin preparations to antithrombin.
+However, relative to UFH enoxaparin, the LMWH with the smallest average molecular mass, contained only 12% material with high affinity for antithrombin.
+The rate of factor Xa inhibition by antithrombin increased with the concentration of the examined heparins to the same limiting value, but the concentration required for maximal acceleration depended on the preparation.
+According to these data the high affinity fraction of the heparin preparations increased the intrinsic fluorescence and inhibitory activity equally without additional effects by variations in chain length and chemical composition.
+In contrast, in the presence of Ca UFH accelerated the inhibition of factor Xa by antithrombin 10-fold more efficiently than comparable concentrations of the high affinity fractions of enoxaparin and fragmin.
+The bell-shaped dependence of this accelerating effect suggests simultaneous binding of both proteins to heparin.
+In conclusion, under physiologic conditions the anti-factor Xa activity of heparin results from a composite effect of chain length and the content of material with high affinity to antithrombin.
+Thus, the reduced antithrombotic activity of LMWH relative to UFH results from a smaller content of high affinity material and the absence of a stimulating effect of calcium.

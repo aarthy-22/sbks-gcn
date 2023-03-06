@@ -1,0 +1,9 @@
+Transdermal selegiline for the treatment of major depressive disorder.
+Non-selective inhibition of monoamine oxidase (MAO) enzymes (ie, isoforms A and B) in the brain are associated with clinically significant antidepressant effects.
+In the US, the selegiline transdermal system (STS; EMSAM) is the first antidepressant transdermal delivery system to receive Food and Drug Administration (FDA) approved labeling for the treatment of major depressive disorder (MDD).
+Currently, the use of orally administered MAO inhibitor antidepressants (eg, phenelzine, tranylcypromine) is limited by the risk of tyramine-provoked events (eg, acute hypertension and headache, also known as the "cheese reaction") when combined with dietary tyramine.
+The selegiline transdermal system is the only MAOI available in the US for the treatment of MDD that does not require dietary restriction at the clinically effective dose of 6 mg/24 hours.
+Delivery of selegiline transdermally (EMSAM((R))) bypasses hepatic first pass metabolism, thereby avoiding significant inhibition of gastrointestinal and hepatic MAO-A activity (ie, reduced risk of tyramine-provoked events) while still providing sufficient levels of selegiline in the brain to produce an antidepressant effect.
+At dosages of 6-12 mg/24 hours, EMSAM has been shown to improve symptoms of depression, have good tolerability, and have high rates of medication adherence.
+However, at higher doses of EMSAM (ie, 9 mg/24 hours or more), dietary restriction of tyramine intake is recommended.
+The introduction of EMSAM overcomes many of the safety concerns affiliated with the conventional oral MAO inhibitors and EMSAM may be considered another strategy for the treatment of MDD, especially in patients who cannot tolerate oral antidepressants, are poorly adherent, who present with atypical depressive symptoms, or have failed other antidepressants.

@@ -1,0 +1,17 @@
+Adenosine receptors: development of selective agonists and antagonists.
+Adenosine modulates a variety of physiological functions through interaction with A1 and A2 adenosine receptors, where agonists mediate inhibition and stimulation, respectively, of adenylate cyclase.
+In the cardiovascular system, A2 receptors mediate vasodilation and reduction in blood pressure, while A1 receptors mediate cardiac depression.
+The involvement of adenylate cyclase in these responses remains unresolved.
+Adenosine analogs in particular the N6-substituted compounds are more potent at A1 receptors than at A2 receptors.
+The subregion of the adenosine receptor that interacts with the N6-substituent is different for A1 and A2 receptors, particularly with respect to phenyl interactions, bulk tolerance and stereoselectivity.
+A series of para-substituted N6-phenyladenosines have been synthesized based on a "functionalized congener" approach in which a chemically reactive group, such as an amine or carboxylic acid, is introduced at the terminus of a chain.
+From the "functionalized congener" are synthesized a variety of conjugates each containing a common pharmacophore.
+Certain of the adenosine conjugates are highly selective for A1 receptors.
+Xanthines are classical antagonists for adenosine receptors for many of their pharmacological actions may be due to blockade of adenosine receptors.
+Caffeine and theophylline are virtually non-selective for A2 and A2 receptors.
+Replacement of the methyl groups of theophylline with n-propyl or larger alkyl groups yields xanthines with selectivity for A1 receptors, particularly when combined with an 8-phenyl moiety.
+Most 1,3-dialkyl-8-phenyl xanthines are very insoluble, but incorporation of polar aryl substituents, such as sulfo or carboxy to increase solubility, results in marked reduction in potency and selectivity.
+A new series of more hydrophilic 1,3-dipropyl-8-phenylxanthines has been synthesized using the "functionalized congener" approach.
+Certain conjugates of 8-[4-(carboxymethyloxy)phenyl 1]1,3-dipropylxanthine display A1 selectivity in biochemical and cardiovascular models.
+Certain analogs of caffeine in which the methyl group at the 1- or 7-position is replaced with a propargyl or propyl group display selectivity for A2 receptors.
+The profile of a series of adenosine analogs or of xanthine antagonists can be used to define the nature of adenosine receptors.

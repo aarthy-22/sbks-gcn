@@ -1,0 +1,14 @@
+Characterization of the nitrosyl adduct of substrate-bound mouse cysteine dioxygenase by electron paramagnetic resonance: electronic structure of the active site and mechanistic implications.
+Mammalian cysteine dioxygenase (CDO) is a non-heme iron metalloenzyme that catalyzes the first committed step in oxidative cysteine catabolism.
+The active site coordination of CDO comprises a mononuclear iron ligated by the Nepsilon atoms of three protein-derived histidines, thus representing a new variant on the 2-histidine-1-carboxylate (2H1C) facial triad motif.
+Nitric oxide was used as a spectroscopic probe in investigating the order of substrate-O2 binding by EPR spectroscopy.
+In these experiments, CDO exhibits an ordered binding of l-cysteine prior to NO (and presumably O2) similar to that observed for the 2H1C class of non-heme iron enzymes.
+Moreover, the CDO active site is essentially unreactive toward NO in the absence of substrate, suggesting an obligate ordered binding of l-cysteine prior to NO.
+Typically, addition of NO to a mononuclear non-heme iron center results in the formation of an {FeNO}7 (S = 3/2) species characterized by an axial EPR spectrum with gx, gy, and gz values of approximately 4, approximately 4, and approximately 2, respectively.
+However, upon addition of NO to CDO in the presence of substrate l-cysteine, a low-spin {FeNO}7 (S = 1/2) signal that accounts for approximately 85% of the iron within the enzyme develops.
+Similar {FeNO}7 (S = 1/2) EPR signals have been observed for a variety of octahedral mononuclear iron-nitrosyl synthetic complexes; however, this type of iron-nitrosyl species is not commonly observed for non-heme iron enzymes.
+Substitution of l-cysteine with isosteric substrate analogues cysteamine, 3-mercaptopropionic acid, and propane thiol did not produce any analogous {FeNO}7 signals (S = 1/2 or 3/2), thus reflecting the high substrate specificity of the enzyme observed by a number of researchers.
+The unusual {FeNO}7 (S = 1/2) electronic configuration adopted by the substrate-bound iron-nitrosyl CDO (termed {ES-NO}7) is a result of the bidentate thiol/amine coordination of l-cysteine in the NO-bound CDO active site.
+DFT computations were performed to further characterize this species.
+The DFT-predicted geometric parameters for {ES-NO}7 are in good agreement with the crystallographically determined substrate-bound active site configuration of CDO and are consistent with known iron-nitrosyl model complexes.
+Moreover, the computed EPR parameters (g and A values) are in excellent agreement with experimental results for this CDO species and those obtained from comparable synthetic {FeNO}7 (S = 1/2) iron-nitrosyl complexes.

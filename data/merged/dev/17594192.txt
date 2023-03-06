@@ -1,0 +1,10 @@
+Phenserine.
+Phenserine, a derivative of physostigmine, was first described as an inhibitor of acetylcholinesterase (AChE) and was shown to improve cognition in various experimental paradigms in rodents and dogs.
+It was clinically tested for Alzheimer's disease, with moderate success in initial Phase II studies.
+Phenserine deserves attention for an additional quality of action: in addition to inhibiting AChE, it modulates the amount of beta-amyloid precursor protein (APP) in neuronal cell culture by reducing APP translation.
+This effect probably involves interaction of phenserine with a regulatory element in the 5'-untranslated region of the APP gene that controls APP expression.
+Phenserine apparently reduces translational efficiency of APP mRNA into protein, a process that may involve an interaction with iron and/or an iron-responsive element.
+As a consequence, phenserine reduces beta-amyloid peptide (Abeta) formation in vitro and in vivo.
+Phenserine is also unique because of differing actions of its enantiomers: (-)-phenserine is the active enantiomer for inhibition of AChE, whereas (+)-phenserine ('posiphen') has weak activity as an AChE inhibitor and can be dosed much higher.
+Both enantiomers are equipotent in downregulating APP expression.
+(+)-Posiphen may be a promising drug, either alone or in combination with (-)-phenserine, to attenuate the progression of Alzheimer's disease.

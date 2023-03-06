@@ -1,0 +1,10 @@
+Mitochondrial aspartate aminotransferase: a third kynurenate-producing enzyme in the mammalian brain.
+The tryptophan metabolite kynurenic acid (KYNA), which is produced enzymatically by the irreversible transamination of l-kynurenine, is an antagonist of alpha7 nicotinic and NMDA receptors and may thus modulate cholinergic and glutamatergic neurotransmission.
+Two kynurenine aminotransferases (KAT I and II) are currently considered the major biosynthetic enzymes of KYNA in the brain.
+In this study, we report the existence of a third enzyme displaying KAT activity in the mammalian brain.
+The novel KAT had a pH optimum of 8.0 and a low capacity to transaminate glutamine or alpha-aminoadipate (the classic substrates of KAT I and KAT II, respectively).
+The enzyme was inhibited by aspartate, glutamate, and quisqualate but was insensitive to blockade by glutamine or anti-KAT II antibodies.
+After purification to homogeneity, the protein was sequenced and the enzyme was identified as mitochondrial aspartate aminotransferase (mitAAT).
+Finally, the relative contributions of KAT I, KAT II, and mitAAT to total KAT activity were determined in mouse, rat, and human brain at physiological pH using anti-mitAAT antibodies.
+KAT II was most abundant in rat and human brain, while mitAAT played the major role in mouse brain.
+It remains to be seen if mitAAT participates in cerebral KYNA synthesis under physiological and/or pathological conditions in vivo.

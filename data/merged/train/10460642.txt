@@ -1,0 +1,12 @@
+Marimastat inhibits elastin degradation and matrix metalloproteinase 2 activity in a model of aneurysm disease.
+BACKGROUND: Abdominal aortic aneurysms are characterized by degradation of the extracellular matrix, with a reduction in the elastin concentration of the arterial media.
+These changes have been linked to increased levels of endogenous metalloproteinases (MMPs) within the aorta, particularly MMP-2 and MMP-9.
+This provides a potential therapeutic target for pharmacological agents aimed at reducing the growth rate of small aneurysms.
+In this study, the ability of marimastat (an MMP inhibitor) to reduce matrix degradation was assessed in a previously described model of aneurysm disease.
+METHODS: Porcine aortic segments (n = 12) were preincubated in exogenous pancreatic elastase for 24 h before culture in standard conditions for 13 days with marimastat 10(-5), 10(-6) and 10(-7) mol/l.
+Control segments were cultured both without marimastat and without elastase.
+At the termination of culture, MMPs were extracted from the tissue and quantified by substrate gel enzymography.
+The volume fractions of elastin and collagen were determined by stereological analysis of sections stained with Miller's elastin and van Gieson's stain.
+RESULTS: Stereological analysis demonstrated preservation of elastin in aorta treated with marimastat at 10(-6) and 10(-5) mol/l; this was significant at the latter concentration (P = 0.007).
+This was accompanied by a significant reduction in active MMP-2 activity in the samples treated with marimastat 10(-5) mol/l (P < 0.01).
+CONCLUSION: Marimastat significantly inhibited elastin degradation and active MMP-2 production within aortic organ cultures.

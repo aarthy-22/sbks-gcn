@@ -1,0 +1,5 @@
+Identification of a vitamin K-dependent carboxylase in the venom duct of a Conus snail.
+Peptides from the venom ducts of cone snails (genus Conus) contain gamma-carboxyglutamate residues.
+The gamma-glutamyl carboxylase responsible for this post-translational modification is localized in the microsomal fraction, strictly dependent on vitamin K, activated by ammonium sulfate, and is associated with endogenous substrate.
+The K(m) of the enzyme for vitamin K is comparable to that for the bovine carboxylase.
+However, a propeptide containing substrate related to the blood coagulation protein factor IX, a highly efficient substrate for the bovine enzyme, was poorly carboxylated by the Conus enzyme, suggesting differences in gamma-carboxylase recognition signal sequences and/or structural requirements at the carboxylation site.

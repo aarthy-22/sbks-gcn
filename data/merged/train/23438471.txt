@@ -1,0 +1,8 @@
+The circadian clock circuitry and the AHR signaling pathway in physiology and pathology.
+Life forms populating the Earth must face environmental challenges to assure individual and species survival.
+The strategies predisposed to maintain organismal homeostasis and grant selective advantage rely on anticipatory phenomena facing periodic modifications, and compensatory phenomena facing unpredictable changes.
+Biological processes bringing about these responses are respectively driven by the circadian timing system, a complex of biological oscillators entrained to the environmental light/dark cycle, and by regulatory and metabolic networks that precisely direct the body's adjustments to variations of external conditions and internal milieu.
+A critical role in organismal homeostatic functions is played by the aryl hydrocarbon receptor (AHR) complex, which senses environmental and endogenous compounds, influences metabolic responses controlling phase I/II gene expression, and modulates vital phenomena such as development, inflammation and adaptive immunity.
+A physiological cross-talk between circadian and AHR signaling pathways has been evidenced.
+The alteration of AHR signaling pathway deriving from genetic damage with polymorphisms or mutations, or produced by exogenous or endogenous AHR activation, and chronodisruption caused by mismatch between the body's internal clock and geophysical time/social schedules, are capable of triggering pathological mechanisms involved in metabolic, immune-related and neoplastic diseases.
+On the other hand, the molecular components of the circadian clock circuitry and AHR signaling pathway may represent useful tools for preventive interventions and valuable targets of therapeutic approaches.

@@ -1,0 +1,11 @@
+Direct multiplex assay of lysosomal enzymes in dried blood spots for newborn screening.
+BACKGROUND: Newborn screening for deficiency in the lysosomal enzymes that cause Fabry, Gaucher, Krabbe, Niemann-Pick A/B, and Pompe diseases is warranted because treatment for these syndromes is now available or anticipated in the near feature.
+We describe a multiplex screening method for all five lysosomal enzymes that uses newborn-screening cards containing dried blood spots as the enzyme source.
+METHODS: We used a cassette of substrates and internal standards to directly quantify the enzymatic activities, and tandem mass spectrometry for enzymatic product detection.
+Rehydrated dried blood spots were incubated with the enzyme substrates.
+We used liquid-liquid extraction followed by solid-phase extraction with silica gel to remove buffer components.
+Acarbose served as inhibitor of an interfering acid alpha-glucosidase present in neutrophils, which allowed the lysosomal enzyme implicated in Pompe disease to be selectively analyzed.
+RESULTS: We analyzed dried blood spots from 5 patients with Gaucher, 5 with Niemann-Pick A/B, 11 with Pompe, 5 with Fabry, and 12 with Krabbe disease, and in all cases the enzyme activities were below the minimum activities measured in a collection of heterozygous carriers and healthy noncarrier individuals.
+The enzyme activities measured in 5-9 heterozygous carriers were approximately one-half those measured with 15-32 healthy individuals, but there was partial overlap of each condition between the data sets for carriers and healthy individuals.
+CONCLUSION: For all five diseases, the affected individuals were detected.
+The assay can be readily automated, and the anticipated reagent and supply costs are well within the budget limits of newborn-screening centers.

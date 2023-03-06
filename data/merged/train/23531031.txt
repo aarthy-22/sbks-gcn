@@ -1,0 +1,13 @@
+HISTONE DEACETYLASE INHIBITION AFFECTS SODIUM IODIDE SYMPORTER (NIS) EXPRESSION AND INDUCES ¹³¹I CYTOTOXICITY IN ANAPLASTIC THYROID CANCER CELLS.
+Background: Anaplastic thyroid cancers (ATC) represent only 1-2% of all thyroid tumors, but they account for up to 50% of the mortality.
+Treatment of differentiated thyroid carcinomas is well standardized and the use of radioiodine represents an essential step; in contrast, there is no standardized therapeutic approach for anaplastic tumors and their prognosis is poor.
+The resistance of anaplastic thyroid cancer to radioiodine treatment is principally due to the absence of expression of the sodium iodide symporter (NIS), mainly due to epigenetic silencing.
+The acetylation status of histones is involved in the epigenetic control of gene expression and is usually disrupted in advanced thyroid cancer.
+Histone deacetylase inhibitors have been demonstrated as potent anticancer drugs with several different effects on cell viability and differentiation.
+Methods: Stabilized anaplastic thyroid cancer cell lines (BHT-101 and CAL-62) and primary cultures from patients who underwent thyroidectomy for anaplastic thyroid cancer were treated with the histone deacetylase inhibitor LBH589.
+After treatment, we evaluated the expression and function of NIS.
+Gene expression was evaluated by real-time PCR (RT-PCR); NIS promoter activity was determined with a luciferase reporter assay; and protein expression was assessed through immunofluorescence.
+We tested the protein function by 125I uptake and efflux experiments; finally the cytotoxic effect of 131I was determined with a clonogenic assay.
+Results: Our results demonstrate that treatment with LBH589 leads to NIS RNA expression as shown by RT-PCR and luciferase assay, and to protein expression as determined by immunofluorescence in vitro and by immunohistochemistry in xenograft tumors.
+Moreover, 125I uptake and efflux experiments show the correct protein function and iodine retention, that translate into cytotoxicity effects, as demonstrated by a clonogenic assay with 131I .
+Conclusions: This study supplies a new potential strategy for the treatment of ATC by modifying gene expression with the aim of inducing responsiveness towards radioiodine therapy.

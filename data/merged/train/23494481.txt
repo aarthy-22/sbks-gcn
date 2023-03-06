@@ -1,0 +1,11 @@
+Neuroprotection against neuroblastoma cell death induced by depletion of mitochondrial glutathione.
+Mitochondrial glutathione pool is vital in protecting cells against oxidative stress as the majority of the cellular reactive oxygen species are generated in mitochondria.
+Oxidative stress is implicated as a causative factor in neuronal death in neurodegenerative disorders.
+We hypothesized that depletion of mitochondrial glutathione leads to mitochondrial dysfunction and apoptotic death of SK-N-SH (human neuroblastoma) cells and investigated the neuroprotective strategies against GSH depletion.
+SK-N-SH cells were treated with two distinct inhibitors of glutathione metabolism: L-buthionine-(S, R)-sulfoximine (BSO) and ethacrynic acid (EA).
+EA treatment caused depletion of both the total and mitochondrial glutathione (while BSO had no effect on mitochondrial glutathione), enhanced rotenone-induced ROS production, and reduced the viability of SK-N-SH cells.
+Glutathione depletion by BSO or EA demonstrated positive features of mitochondria-mediated apoptosis in neuroblastoma cell death.
+Prevention of apoptosis by Bcl2 overexpression or use of antioxidant ebselen did not confer neuroprotection.
+Co-culture with U-87 (human glioblastoma) cells protected SK-N-SH cells from the cell death.
+Our data suggest that depletion of mitochondrial glutathione leads to mitochondrial dysfunction and apoptosis.
+The study indicates that preventing mitochondrial glutathione depletion could become a novel strategy for the development of neuroprotective therapeutics in neurodegenerative disorders.

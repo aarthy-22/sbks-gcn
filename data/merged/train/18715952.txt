@@ -1,0 +1,11 @@
+Tumor-growth-promoting cyclooxygenase-2 prostaglandin E2 pathway provides medulloblastoma therapeutic targets.
+Prostaglandin E(2) (PGE(2)) has been shown to play important roles in several aspects of tumor development and progression.
+PGE(2) is synthesized from arachidonic acid by cyclooxygenases (COX) and prostaglandin E synthases (PGES) and mediates its biological activity through binding to the four prostanoid receptors EP(1) through EP(4).
+In this study, we show for the first time that medulloblastoma (MB), the most common malignant childhood brain tumor, expresses high levels of COX-2, microsomal prostaglandin E synthase-1, and EP(1) through EP(4) and secretes PGE(2).
+PGE(2) and the EP(2) receptor agonist butaprost stimulated MB cell proliferation.
+Treatment of MB cells with COX inhibitors suppressed PGE(2) production and induced caspase-dependent apoptosis.
+Similarly, specific COX-2 silencing by small interfering RNA inhibited MB cell growth.
+EP(1) and EP(3) receptor antagonists ONO-8713 and ONO-AE3-240, but not the EP(4) antagonists ONO-AE3-208 and AH 23848, inhibited tumor cell proliferation, indicating the significance of EP(1) and EP(3) but not EP(4) for MB growth.
+Administration of COX inhibitors at clinically achievable nontoxic concentrations significantly inhibited growth of established human MB xenografts.
+Apoptosis was increased, proliferation was reduced, and angiogenesis was inhibited in MBs treated with COX inhibitors.
+This study suggests that PGE(2) is important for MB growth and that therapies targeting the prostanoid metabolic pathway are potentially beneficial and should be tested in clinical settings for treatment of children with MB.

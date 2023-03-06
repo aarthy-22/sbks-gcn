@@ -1,0 +1,8 @@
+Functional analyses of glycyl-tRNA synthetase mutations suggest a key role for tRNA-charging enzymes in peripheral axons.
+Charcot-Marie-Tooth disease type 2D (CMT2D) and distal spinal muscular atrophy type V (dSMA-V) are axonal neuropathies characterized by a phenotype that is more severe in the upper extremities.
+We previously implicated mutations in the gene encoding glycyl-tRNA synthetase (GARS) as the cause of CMT2D and dSMA-V. GARS is a member of the family of aminoacyl-tRNA synthetases responsible for charging tRNA with cognate amino acids; GARS ligates glycine to tRNA(Gly).
+Here, we present functional analyses of disease-associated GARS mutations and show that there are not any significant mutation-associated changes in GARS expression levels; that the majority of identified GARS mutations modeled in yeast severely impair viability; and that, in most cases, mutant GARS protein mislocalizes in neuronal cells.
+Indeed, four of the five mutations studied show loss-of-function features in at least one assay, suggesting that tRNA-charging deficits play a role in disease pathogenesis.
+Finally, we detected endogenous GARS-associated granules in the neurite projections of cultured neurons and in the peripheral nerve axons of normal human tissue.
+These data are particularly important in light of the recent identification of CMT-associated mutations in another tRNA synthetase gene [YARS (tyrosyl-tRNA synthetase gene)].
+Together, these findings suggest that tRNA-charging enzymes play a key role in maintaining peripheral axons.

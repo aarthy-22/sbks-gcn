@@ -1,0 +1,9 @@
+Expansion of the Homeostasis Model Assessment of β-Cell Function and Insulin Resistance to Enable Clinical Trial Outcome Modeling Through the Interactive Adjustment of Physiology and Treatment Effects--iHOMA2.
+OBJECTIVETo describe and make available an interactive, 24-variable homeostasis model assessment (iHOMA2) that extends the HOMA2 model, enabling the modeling of physiology and treatment effects, to present equations of the HOMA2 and iHOMA2 models, and to exemplify iHOMA2 in two widely differing scenarios: changes in insulin sensitivity with thiazolidinediones and changes in renal threshold with sodium glucose transporter (SGLT2) inhibition.
+RESEARCH DESIGN AND METHODSiHOMA2 enables a user of the available software to examine and modify the mathematical functions describing the organs and tissues involved in the glucose and hormonal compartments.
+We exemplify this with SGLT2 inhibition modeling (by changing the renal threshold parameters) using published data of renal effect, showing that the modeled effect is concordant with the effects on fasting glucose from independent data.
+RESULTSiHOMA2 modeling of thiazolidinediones effect suggested that changes in insulin sensitivity in the fasting state are predominantly hepatic.
+SGLT2 inhibition modeled by iHOMA2 resulted in a decrease in mean glucose of 1.1 mmol/L. Observed data showed a decrease in glucose of 0.9 mmol/L. There was no significant difference between the model and the independent data.
+Manipulation of iHOMA2s renal excretion threshold variable suggested that a decrease of 17% was required to obtain a 0.9 mmol/L decrease in mean glucose.
+CONCLUSIONSiHOMA2 is an extended mathematical model for the assessment of insulin resistance and β-cell function.
+The model can be used to evaluate therapeutic agents and predict effects on fasting glucose and insulin and on β-cell function and insulin sensitivity.

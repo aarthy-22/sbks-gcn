@@ -1,0 +1,9 @@
+Adapalene, a new chemical entity with retinoid activity.
+Adapalene is a novel chemical entity which, in terms of pharmacology, behaves similar to tretinoin, but is chemically and photochemically stable.
+It has a particular selectivity profile for the known nuclear retinoic acid receptors with low affinity for RAR alpha and no transactivating potential for RXR alpha.
+This receptor profile could imply that adapalene, in contrast to tretinoin, affects the terminal differentiation pathway of epidermal cells rather than their proliferation.
+Furthermore, adapalene does not bind to members of the cellular retinoic acid binding protein family.
+Adapalene has comedolytic activity in the topical rhino mouse model.
+It exerts a moderate-to-potent anti-inflammatory effect in a series of in vitro and in vivo models.
+In comparative clinical studies involving 72 acne patients, the efficacy of adapalene was comparable, if not superior, to tretinoin, but adapalene was better tolerated.
+The data reviewed in this paper indicate that adapalene should be particularly beneficial in the treatment of acne.

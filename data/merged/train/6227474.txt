@@ -1,0 +1,12 @@
+Characterization of rat brain aldosterone receptors reveals high affinity for corticosterone.
+The two [3H]aldosterone-binding proteins of rat brain cytosol were characterized by a dextran-coated charcoal method.
+With molybdate present to stabilize receptors, the affinities of the two sites for [3H]aldosterone in adrenalectomized perfused rat brain cytosols were 0.28 and 18.0 nM at 4 C. High affinity sites comprised 15% of the total receptor number.
+A small contamination of perfused brain cytosol preparations with corticosteroid-binding globulin (CBG) was found.
+However, due to the very high affinity of CBG for corticosterone at 4 C, this slight contamination resulted in significant alterations in the apparent affinity of steroids competing for aldosterone-binding sites.
+Selective precipitation of cytosol receptors with 36% (NH4)2SO4 reduced CBG concentrations to negligible levels.
+After blockade of low affinity sites with a highly selective glucocorticoid (RU 26988), the order of steroids in competing for the high affinity receptor was desoxycorticosterone greater than fludrocortisone greater than corticosterone greater than aldosterone greater than progesterone greater than dexamethasone.
+Readdition of a small quantity of dialyzed serum to cytosol preparations yielded a profile of steroid binding similar to that of the kidney mineralocorticoid receptor (aldosterone greater than desoxycorticosterone greater than corticosterone).
+The distribution of both receptors in brain regions of adrenalectomized rats was determined.
+Both receptors were at greatest density in the hippocampus and lowest density in the hypothalamus.
+The high affinity site was at greatest density in limbic regions, whereas the low affinity receptor, apparently identical to the glucocorticoid type II receptor, was at greatest density in cortex and cerebellum.
+It is concluded that the high affinity aldosterone receptor of rat brain, which had been identified in preliminary studies as a mineralocorticoid receptor, may bind either corticosterone or aldosterone in vivo.

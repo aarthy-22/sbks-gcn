@@ -1,0 +1,9 @@
+Actions of Xanthurenic acid, a putative endogenous Group II metabotropic glutamate receptor agonist, on sensory transmission in the thalamus.
+Xanthurenic acid (XA), a molecule arising from tryptophan metabolism by transamination of 3-hydroxykynurenine, has recently been identified as an endogenous Group II (mGlu2 and mGlu3) metabotropic glutamate (mGlu) receptor ligand in vitro.
+Impairments in Group II mGlu receptor expression and function have been implicated in the pathophysiology of schizophrenia, as have multiple steps in the kynurenine metabolism pathway.
+Therefore, we examined XA in vivo to further investigate its potential as a Group II mGlu receptor ligand using a preparation that has been previously demonstrated to efficiently reveal the action of other Group II mGlu receptor ligands in vivo.
+Extracellular single-neurone recordings were made in the rat ventrobasal thalamus (VB) in conjunction with iontophoresis of agonists, an antagonist and a positive allosteric modulator and/or intravenous (i.v.) injection of XA.
+We found the XA effect on sensory inhibition, when applied iontophoretically and i.v., was similar to that of other Group II mGlu receptor agonists in reducing inhibition evoked in the VB from the thalamic reticular nucleus upon physiological sensory stimulation.
+Furthermore, we postulate that XA may be the first potential endogenous allosteric agonist (termed 'endocoid') for the mGlu receptors.
+As the Group II receptors and kynurenine metabolism pathway have both been heavily implicated in the pathophysiology of schizophrenia, XA could play a pivotal role in antipsychotic research as this potential endocoid represents both a convergence within these two biological parameters and a novel class of Group II mGlu receptor ligand.
+This article is part of a Special Issue entitled 'Metabotropic Glutamate Receptors'.

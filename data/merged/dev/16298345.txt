@@ -1,0 +1,8 @@
+Molecular cloning and radioligand binding characterization of the chemokine receptor CCR5 from rhesus macaque and human.
+The aim of this study was to determine if macaque represents a suitable species for the pre-clinical evaluation of novel CCR5 antagonists, such as maraviroc (UK-427,857).
+To do this we cloned and expressed CCR5 from rhesus macaque and compared the binding properties of [125I]-MIP-1beta and [3H]-maraviroc with human recombinant CCR5.
+[125I]-MIP-1beta bound with similar high affinity to CCR5 from macaque (K(d) = 0.24 +/- 0.05 nM) and human (K(d) = 0.23 +/- 0.05 nM) and with similar kinetic properties.
+In competition binding studies the affinity of a range of human chemokines for macaque CCR5 was also similar to human CCR5.
+Maraviroc inhibited binding of [125I]-MIP-1beta to CCR5 from macaque and human with similar potency (IC50 = 17.50 +/- 1.24 nM and 7.18 +/- 0.93 nM, respectively) and antagonised MIP-1beta induced intracellular calcium release mediated through CCR5 from macaque and human with similar potency (IC50 = 17.50 +/- 3.30 nM and 12.07 +/- 1.89, respectively).
+[3H]-maraviroc bound with high affinity to CCR5 from macaque (K(d) = 1.36+/-0.07 nM) and human (K(d) = 0.86 +/- 0.08 nM), but was found to dissociate approximately 10-fold more quickly from macaque CCR5.
+However, as with the human receptor, maraviroc was shown to be a high affinity, potent functional antagonist of macaque CCR5 thereby indicating that the macaque should be a suitable species in which to evaluate the pharmacology, safety and potential mechanism-related toxicology of novel CCR5 antagonists.

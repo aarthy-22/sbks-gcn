@@ -1,0 +1,8 @@
+Urokinase plasminogen activator and plasmin efficiently convert hemofiltrate CC chemokine 1 into its active.
+We have previously isolated from human hemofiltrate an N-terminally truncated form of the hemofiltrate CC chemokine 1 (HCC-1), and characterized HCC-1[9-74] as a strong agonist of CCR1, CCR5, and to a lower extent CCR3.
+In this study, we show that conditioned media from human tumor cell lines PC-3 and 143B contain proteolytic activities that convert HCC-1 into the [9-74] form.
+This activity was fully inhibited by inhibitors of urokinase-type plasminogen activator (uPA), including PA inhibitor-1, an anti-uPA mAb, and amiloride.
+Pure preparations of uPA processed HCC-1 with high efficiency, without further degrading HCC-1[9-74].
+Plasmin could also generate HCC-1[9-74], but degraded the active product as well.
+The kinetics of HCC-1 cleavage by uPA and plasmin (Michaelis constant, K(m), of 0.76 +/- 0.4 microM for uPA, and 0.096 +/- 0.05 microM for plasmin; catalytic rate constant, k(cat): 3.36 +/- 0.96 s(-1) for uPA and 6 +/- 3.6 s(-1) for plasmin) are fully compatible with a role in vivo.
+The activation of an abundant inactive precursor into a broad-spectrum chemokine by uPA and plasmin directly links the production of uPA by numerous tumors and their ability to recruit mononuclear leukocytes, without the need for the transcriptional activation of chemokine genes.

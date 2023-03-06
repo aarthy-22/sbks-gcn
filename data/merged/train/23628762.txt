@@ -1,0 +1,10 @@
+Charcot-Marie-Tooth disease-associated mutants of GDAP1 dissociate its roles in peroxisomal and mitochondrial fission.
+Mitochondria and peroxisomes can be fragmented by the process of fission.
+The fission machineries of both organelles share a set of proteins.
+GDAP1 is a tail-anchored protein of mitochondria and induces mitochondrial fragmentation.
+Mutations in GDAP1 lead to Charcot-Marie-Tooth disease (CMT), an inherited peripheral neuropathy, and affect mitochondrial dynamics.
+Here, we show that GDAP1 is also targeted to peroxisomes mediated by the import receptor Pex19.
+Knockdown of GDAP1 leads to peroxisomal elongation that can be rescued by re-expressing GDAP1 and by missense mutated forms found in CMT patients.
+GDAP1-induced peroxisomal fission is dependent on the integrity of its hydrophobic domain 1, and on Drp1 and Mff, as is mitochondrial fission.
+Thus, GDAP1 regulates mitochondrial and peroxisomal fission by a similar mechanism.
+However, our results reveal also a more critical role of the amino-terminal GDAP1 domains, carrying most CMT-causing mutations, in the regulation of mitochondrial compared to peroxisomal fission.

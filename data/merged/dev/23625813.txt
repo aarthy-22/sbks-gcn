@@ -1,0 +1,16 @@
+Glomerular Filtration Rate Equations Overestimate Creatinine Clearance in Older Individuals Enrolled in the Baltimore Longitudinal Study on Aging: Impact on Renal Drug Dosing.
+OBJECTIVES: To evaluate the performance of kidney function estimation equations and to determine the frequency of drug dose discordance in an older population.
+DESIGN: Cross-sectional analysis of data from community-dwelling volunteers randomly selected from the Baltimore Longitudinal Study of Aging from January 1, 2005, to December 31, 2010.
+SUBJECTS: A total of 269 men and women with a mean ± SD age of 81 ± 6 years, mean serum creatinine concentration (Scr ) of 1.1 ± 0.4 mg/dl, and mean 24-hour measured creatinine clearance (mClcr ) of 53 ± 13 ml/minute.
+MEASUREMENTS AND MAIN RESULTS: Kidney function was estimated by using the following equations: Cockcroft-Gault (CG), Modification of Diet in Renal Disease (MDRD), and Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI).
+The performance of each equation was assessed by measuring bias and precision relative to mClcr .
+Dose calculation errors (discordance) were determined for 10 drugs requiring renal dosage adjustments to avoid toxicity when compared with the dosages approved by the Food and Drug Administration.
+The CG equation was the least biased estimate of mClcr .
+The MDRD and CKD-EPI equations were significantly positively biased compared with CG (mean ± SD 34 ± 20% and 22 ± 15%, respectively, p<0.001) and mClcr (29 ± 47% and 18 ± 40%, respectively, p<0.001).
+Rounding low Scr values (less than 1.0 mg/dl) up to an arbitrary value of 1.0 mg/dl resulted in CG values (44 ± 10 ml/minute) that were significantly lower than mClcr (56 ± 12 ml/minute, p<0.001) and CG (56 ± 15 ml/minute, p<0.001).
+The MDRD and CKD-EPI equations had median dose discordance rates of 28.6% and 22.9%, respectively.
+CONCLUSION: The MDRD and CKD-EPI equations significantly overestimated creatinine clearance (mClcr and CG) in elderly individuals.
+This leads to dose calculation errors for many drugs, particularly in individuals with severe renal impairment.
+Thus equations estimating glomerular filtration rate should not be substituted in place of the CG equation in older adults for the purpose of renal dosage adjustments.
+In addition, the common practice of rounding or replacing low Scr values with an arbitrary value of 1.0 mg/dl for use in the CG equation should be avoided.
+Additional studies that evaluate alternative eGFR equations in the older populations that incorporate pharmacokinetic and pharmacodynamic outcomes measures are needed.

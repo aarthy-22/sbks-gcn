@@ -1,0 +1,10 @@
+Three-month subchronic intramuscular toxicity study of rotigotine-loaded microspheres in SD rats.
+Continuous dopaminergic stimulation (CDS) has been an important strategy of drug development for the treatment of Parkinson's disease (PD).
+Rotigotine is a non-ergoline D3/D2/D1 dopamine agonist for treating PD.
+As a new treatment option for CDS, rotigotine-loaded microspheres (RoMS), a long-acting sustained-release microspheres for injection with poly(lactide-co-glycolide) as drug carrier, are now being evaluated in clinical trial.
+In this study, subchronic toxicity of RoMS in SD rats has been characterized via intramuscular administration with RoMS (0-240mg/kg/week) on a consecutive weekly dosing schedule for 3months followed by 1-month recovery period.
+The No Observed Adverse Effect Level (NOAEL) was 45mg/kg/week.
+One male at 240mg/kg died from an extensive pulmonary embolism.
+The major toxicological effects were associated with the dopamine agonist-related pharmacodynamic properties of rotigotine (e.g. hyperactivity and stereotype, enlarged ovary, sporadic gastric mucous membrane lesions, decreased body weight, food consumption and prolactin, and increased mononuclear cell, neutrophil granulocyte, aspartate aminotransferase and alanine aminotransferase) and foreign body removal reaction induced by poly(lactide-co-glycolide) and carboxymethycellulose sodium.
+At the end of recovery period, all findings had recovered to a normal level or to a certain degree except foreign body reaction at injection sites.
+RoMS has exhibited high safety on SD rats.

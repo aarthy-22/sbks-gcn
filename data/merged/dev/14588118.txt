@@ -1,0 +1,12 @@
+Minocycline reduces cell death and improves functional recovery after traumatic spinal cord injury in the rat.
+We examined the effects of minocycline, an anti-inflammatory drug, on functional recovery following spinal cord injury (SCI).
+Rats received a mild, weight-drop contusion injury to the spinal cord and were treated with the vehicle or minocycline at a dose of 90 mg/kg immediately after SCI and then twice at a dose of 45 mg/kg every 12 h. Injecting minocycline after SCI improved hind limb motor function as determined by the Basso-Beattie-Bresnahan (BBB) locomotor open field behavioral rating test.
+Twenty four to 38 days after SCI, BBB scores were significantly higher in minocycline-treated rats as compared with those in vehicle-treated rats.
+Morphological analysis showed that lesion size increased progressively in both vehicle-treated and minocycline-treated spinal cords.
+However, in response to treatment with minocycline, the lesion size was significantly reduced at 21-38 days after SCI when compared to the vehicle control.
+Minocycline treatment significantly reduced the number of terminal deoxynucleotidyl transferase (TdT)-mediated deoxyuridine triphosphate-biotin nick end labeling (TUNEL)-positive cells 24 h after SCI as compared to that of the vehicle control.
+DNA gel electrophoresis also revealed a marked decrease in DNA laddering in response to treatment with minocycline.
+In addition, minocycline treatment significantly reduced the specific caspase-3 activity after SCI as compared to that of vehicle control.
+Furthermore, RT-PCR analyses revealed that minocycline treatment increased expression of interleukin-10 mRNA but decreased tumor necrosis factor-alpha expression.
+These data suggest that, after SCI, minocycline treatment modulated expression of cytokines, attenuated cell death and the size of lesions, and improved functional recovery in the injured rat.
+This approach may provide a therapeutic intervention enabling us to reduce cell death and improve functional recovery after SCI.

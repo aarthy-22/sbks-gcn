@@ -1,0 +1,9 @@
+Wogonoside induces autophagy in MDA-MB-231 cells by regulating MAPK-mTOR pathway.
+Previous studies have demonstrated that wogonoside, a bioactive flavonoid extracted from the root of Scutellaria baicalensis Gerogi, has anti-inflammatory and anti-angiogenic activities.
+In this study, we evaluated wogonoside-induced autophagy on human breast MDA-MB-231 cells.
+We report that wogonoside triggered the formation of microtubule-associated protein-light chain 3 (MAP-LC3) positive autophagosomes and the accumulation of acidic vesicular and autolysosomes in MDA-MB-231 cells.
+In addition, cells treated by wogonoside developed autophagosome-like characteristics, including single and double membrane vacuoles containing intact and degraded cellular debris.
+The results showed that wogonoside promotes the expression of LC3-II and Beclin-1.
+Furthermore, wogonoside inhibited cell growth of MDA-MB-231 cells in a concentration- and time-dependent manner, which was associated with wogonoside-induced autophagy.
+Wogonoside also suppressed the activation of mammalian target of rapamycin (mTOR) and p70-S6 kinase (p70S6K) by regulating the expression of the extracellular signal-regulated kinase (ERK1/2) and p38 involved mitogen-activated protein kinase (MAPK) signaling pathway.
+Taken together, these results suggest that wogonoside partially inhibits MDA-MB-231 cell growth by inducing autophagy through the MAPK-mTOR pathway and may be a promising anti-tumor agent.

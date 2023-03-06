@@ -1,0 +1,8 @@
+Tailorable cell culture platforms from enzymatically cross-linked multifunctional poly(ethylene glycol)-based hydrogels.
+As stem-cell-based therapies rapidly advance toward clinical applications, there is a need for cheap, easily manufactured, injectable gels that can be tailored to carry stem cells and impart function to such cells.
+Herein we describe a process for making hydrogels composed of hydroxyphenyl propionic acid (HPA) conjugated, branched poly(ethylene glycol) (PEG) via an enzyme mediated, oxidative cross-linking method.
+Functionalization of the branched PEG with HPA at varying degrees of substitution was confirmed via attenuated total reflectance Fourier transform infrared spectroscopy (ATR-FTIR) and (1)H NMR.
+The versatility of this hydrogel system was exemplified through variations in the degree of HPA substitution, polymer concentration, and the concentration of cross-linking reagents (horseradish peroxidase and H(2)O(2)), which resulted in a range of mechanical properties and gelation kinetics for these gels.
+Cross-linking of the PEG-HPA conjugate with a recombinantly produced Fibronectin fragment (Type III domains 7-10) encouraged attachment and spreading of human mesenchymal stem cells (hMSCs) when assessed in both two-dimensional and three-dimensional formats.
+Interestingly, when encapsulated in both nonfunctionalized and functionalized cross-linked PEG-HPA gels, MSCs showed good viability over all time periods assessed.
+With tunable gelation kinetics and mechanical properties, these hydrogels provide a flexible in vitro cell culture platform that will likely have significant utility in tissue engineering as an injectable delivery platform for cells to sites of tissue damage.

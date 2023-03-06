@@ -1,0 +1,7 @@
+A new single-photon emission computed tomography (SPECT) imaging agent for serotonin transporters: [(125)I]Flip-IDAM, (2-((2-((dimethylamino)methyl)-4-iodophenyl)thio)phenyl)methanol.
+New ligands for in vivo brain imaging of serotonin transporter (SERT) with single photon emission tomography (SPECT) were prepared and evaluated.
+An efficient synthesis and radiolabeling of a biphenylthiol, FLIP-IDAM, 4, was accomplished.
+The affinity of FLIP-IDAM was evaluated by an in vitro inhibitory binding assay using [(125)I]-IDAM as radioligand in rat brain tissue homogenates (K(i) = 0.03 nM).
+New [(125)I]Flip-IDAM exhibited excellent binding affinity to SERT binding sites with a high hypothalamus to cerebellum ratio of 4 at 30 min post iv injection.
+The faster in vivo kinetics for brain uptake and a rapid washout from non-specific regions provide excellent signal to noise ratio.
+This new agent, when labeled with (123)I, may be a useful imaging agent for mapping SERT binding sites in the human brain.

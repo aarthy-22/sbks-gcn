@@ -1,0 +1,8 @@
+Anti-tumor and anti-metastatic actions of wogonin isolated from Scutellaria baicalensis roots through anti-lymphangiogenesis.
+Tumor growth and metastasis are associated with angiogenesis and lymphangiogenesis through the production of vascular endothelial growth factor (VEGF) or VEGF-C in tumors, and the phosphorylation of VEGF receptor (VEGFR)-2 or VEGFR-3 in vascular endothelial cells or lymphatic endothelial cells (LECs).
+Tumor-associated macrophages (TAMs) play an important role in tumor lymphangiogenesis, and consequently stimulate metastasis through the lymphatic system to lymph nodes.
+We examined the effects of wogonin isolated from Scutellaria baicalensis roots on tumor growth and metastasis using a highly metastatic model in osteosarcoma LM8-bearing mice.
+Wogonin (25 and 50 mg/kg, twice daily) reduced tumor growth and metastasis to the lung, liver and kidney, angiogenesis (CD31-positive cells), lymphangiogenesis (LYVE-1-positive cells), and TAM (F4/80-positive cell) numbers in the tumors of LM8-bearing mice.
+Wogonin (10-100 μM) also inhibited increases in IL-1β production and cyclooxygenase (COX)-2 expression induced by lipopolysaccharide in THP-1 macrophages.
+Wogonin had no effect on VEGF-C production in LM8 cells, or VEGFR-3 expression in human lymphatic endothelial cells (HLECs), however, it inhibited VEGF-C-induced VEGFR-3 phosphorylation in HLECs.
+The anti-tumor and anti-metastatic actions of wogonin may be associated with the inhibition of VEGF-C-induced lymphangiogenesis through a reduction in VEGF-C-induced VEGFR-3 phosphorylation by the inhibition of COX-2 expression and IL-1β production in TAMs.

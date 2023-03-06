@@ -1,0 +1,10 @@
+Influence of triterpenoids present in apple peel on inflammatory gene expression associated with inflammatory bowel disease (IBD).
+Various ursanic, oleanic and lupanic pentacyclic triterpenoids found in apple peel were studied for anti-inflammatory effects in vitro using T84 colon carcinoma cells.
+After pretreatment with single triterpenoids, cells were stimulated with pro-inflammatory cytokines (TNF-α, INF-γ, IL-1β).
+Regulation of mRNA expression was analysed for three specific inflammation-associated marker genes (TNF-α, IL-8, IP-10) using qRT-PCR.
+Furthermore, the effects of ursolic acid (UA) and oleanolic acid (OA) on the synthesis of certain pro-inflammatory proteins were examined.
+IP-10 expression was inhibited in a dose-dependent manner by all the tested compounds at concentrations ⩾25μM. The mRNA expression of TNF-α was slightly affected and the IL-8 level was increased.
+At the protein level, UA and OA (25μM) reduced the synthesis of IP-10; sICAM-1, IL-23 and GROα were slightly repressed.
+The TNF-α level was not modulated, whereas induction of IL-8 was increased.
+UA also enhanced the synthesis of IL-1ra, while OA suppressed the level of I-TAC.
+The present study confirms that triterpenoids present in apple peel and β-damascone may be implicated in the anti-inflammatory properties of apple constituents, suggesting that these substances might be helpful in the treatment of IBD as nutrient supplements.

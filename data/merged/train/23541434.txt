@@ -1,0 +1,10 @@
+Pharmacological study of a new Asp49 phospholipase A2 (Bbil-TX) isolated from Bothriopsis bilineata smargadina (forest viper) venom in vertebrate neuromuscular preparations.
+The neuromuscular activity of Bbil-TX, a PLA2 with catalytic activity isolated from Bothriopsis bilineata smargadina venom, was examined in chick biventer cervicis (BC) and mouse phrenic nerve-diaphragm (PND) preparations.
+In BC preparations, Bbil-TX (0.5-10 μg/ml) caused time- and concentration-dependent blockade that was not reversed by washing; the times for 50% blockade were 87 ± 7, 41 ± 7 and 19 ± 2 min (mean ± SEM; n = 4-6) for 1, 5 and 10 μg/ml, respectively.
+Muscle contractures to exogenous ACh and KCl were unaffected.
+The toxin (10 μg/ml) also did not affect the twitch-tension of directly-stimulated, curarized (10 μg/ml) BC preparations.
+However, Bbil-TX (10 μg/ml) produced mild morphological alterations (edematous and/or hyperchromic fibers) in BC; there was also a progressive release of CK (from 116 ± 17 IU/ml (basal) to 710 ± 91 IU/ml after 45 min).
+Bbil-TX (5 μg/ml)-induced blockade was markedly inhibited at 22-24 °C and pretreatment with p-bromophenacyl bromide (p-BPB) abolished the neuromuscular blockade.
+Bbil-TX (3-30 μg/ml, n = 4-6) caused partial time- and concentration-dependent blockade in PND preparations (52 ± 2% at the highest concentration).
+Bbil-TX (30 μg/ml) also markedly reduced the MEPPs frequency [from 26 ± 2.5 (basal) to 10 ± 1 after 60 min; n = 5; p < 0.05] and the quantal content [from 94 ± 14 (basal) to 24 ± 3 after 60 min; n = 5; p < 0.05] of PND preparations, but caused only minor depolarization of the membrane resting potential [from -80 ± 1 mV (basal) to -66 ± 2 mV after 120 min; n = 5; p < 0.05], with no significant change in the depolarizing response to exogenous carbachol.
+These results show that Bbil-TX is a presynaptic PLA2 that contributes to the neuromuscular blockade caused by B. b. smargadina venom.

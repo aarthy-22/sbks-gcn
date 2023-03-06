@@ -1,0 +1,9 @@
+Evidence for a new binding mode to GSK-3: allosteric regulation by the marine compound palinurin.
+Glycogen synthase kinase 3β (GSK-3β) is widely recognised as a relevant player in the pathogenesis of several highly prevalent disorders such as Alzheimer's disease, mood disorders, diabetes and cancer.
+Therefore, this enzyme constitutes a highly attractive therapeutic target for the development of selective inhibitors as new promising drugs for the treatment of these pathologies.
+We describe here the isolation and biochemical characterization of the marine natural sesquiterpene palinurin as a GSK-3β inhibitor.
+Experimental studies performed for characterizing the inhibitory mechanism indicate that GSK-3β inhibition by palinurin cannot be competed out by ATP nor peptide substrate.
+Molecular modelling techniques have enabled us to propose an unconventional binding mode to GSK-3β.
+Moreover, molecular dynamics simulations have identified an allosteric mechanism by which binding of palinurin leads to GSK-3β inhibition.
+The inhibitory activities determined for a series of structurally related analogues support the proposed binding mode of palinurin, which is the first compound described to target this allosteric site.
+The results offer new opportunities for designing and developing selective inhibitors with novel mechanisms of action.

@@ -1,0 +1,9 @@
+Impaired local production of pro-resolving lipid mediators in obesity and 17-HDHA as a potential treatment for obesity-associated inflammation.
+Obesity-induced chronic low-grade inflammation originates from adipose tissue and is crucial for obesity-driven metabolic deterioration including insulin resistance and type 2 diabetes.
+Chronic inflammation may be a consequence of a failure to actively resolve inflammation,and could result from a lack of local specialized pro-resolving lipid mediators (SPM) such as resolvins and protectins, which derive from the n-3 polyunsaturated fatty acids eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA).
+We assessed obesity-induced changes of n-3-derived SPM in adipose tissue and effects of dietary EPA/DHA thereon.
+Moreover, we treated obese mice with SPM precursors and investigated effects on inflammation and metabolic dysregulation.
+Obesity significantly decreased DHA-derived 17-hydroxydocosahexaenoic acid (17-HDHA, resolvin D1 precursor) and protectin D1 levels in murine adipose tissue.
+Dietary EPA/DHA treatment restored endogenous biosynthesis of n-3 derived lipid mediators in obesity while attenuating adipose tissue inflammation and improving insulin sensitivity.
+Notably, 17-HDHA treatment reduced adipose tissue expression of inflammatory cytokines, increased adiponectin expression and improved glucose tolerance parallel to insulin sensitivity in obese mice.
+These findings indicate that impaired biosynthesis of certain SPM and SPM precursors including 17-HDHA and protectin D1 contributes to adipose tissue inflammation in obesity and suggest 17-HDHA as a novel treatment option for obesity-associated complications.

@@ -1,0 +1,9 @@
+A nonfucosylated anti-HER2 antibody augments antibody-dependent cellular cytotoxicity in breast cancer patients.
+PURPOSE: Removal of fucose residues from the oligosaccharides of human antibody is a powerful approach to enhance antibody-dependent cellular cytotoxicity (ADCC), a potential important antitumor mechanism of therapeutic antibodies.
+To provide clinically relevant evidence of this mechanism, we investigated ADCC of a fucose-negative version of trastuzumab [anti-human epidermal growth factor receptor 2 (HER2) humanized antibody] using peripheral blood mononuclear cells (PBMC) from breast cancer patients as effector cells.
+EXPERIMENTAL DESIGN: Thirty volunteers, including 20 breast cancer patients and 10 normal healthy control donors, were recruited randomly, and aliquots of peripheral blood were collected.
+ADCC of commercial trastuzumab (fucosylated) and its fucose-negative version were measured using PBMCs drawn from the volunteers as effector cells and two breast cancer cell lines with different HER2 expression levels as target cells.
+Relationships between cytotoxicity and characteristics of the patients, such as content of natural killer cells in PBMCs, type of therapy, FCGR3A genotypes, etc. were also analyzed.
+RESULTS: ADCC was significantly enhanced with the fucose-negative antibody compared with the fucose-positive antibody using PBMCs from either normal donors or breast cancer patients.
+Enhancement of ADCC was observed irrespective of the various clinical backgrounds of the patients, even in the chemotherapy cohort that presented with a reduced number of natural killer cells and weaker ADCC.
+CONCLUSIONS: This preliminary study suggests that the use of fucose-negative antibodies may improve the therapeutic effects of anti-HER2 therapy for patients independent of clinical backgrounds.

@@ -1,0 +1,14 @@
+alpha-Linolenic acid, Delta6-desaturase gene polymorphism, and the risk of nonfatal myocardial infarction.
+BACKGROUND: Delta(6)-Desaturase (FADS2) is the rate-limiting step in the polyunsaturated fatty acid (PUFA) biosynthetic pathway.
+OBJECTIVE: The aim was to test whether the common deletion [T/-] in the promoter of FADS2 affects the PUFA biosynthetic pathway and consequently modifies the effect of alpha-linolenic acid (ALA) on myocardial infarction (MI).
+DESIGN: Case subjects (n =1694) with a first nonfatal acute MI were matched by age, sex, and area of residence to 1694 population-based control subjects in Costa Rica.
+PUFAs were quantified by gas-liquid chromatography from plasma and adipose tissue samples.
+Least-squares means from generalized linear models and odds ratios (ORs) and 95% CIs from multiple conditional logistic regression models were estimated.
+RESULTS: The prevalence of the variant T/- allele was 48%.
+Eicosapentaenoic acid, gamma-linolenic acid, and arachidonic acid decreased in adipose tissue and plasma with increasing number of copies of the variant allele with a monotonic trend (P < 0.05 for all).
+Fasting plasma triacylglycerols by genotype were 2.08 mmol/L for TT, 2.16 mmol/L for T-, and 2.26 mmol/L for - - [ie, homozygous for the variant (deletion) allele] (P = 0.03).
+The FADS2 deletion was not associated with MI and did not significantly modify the association between adipose tissue ALA and the risk of MI.
+CONCLUSIONS: The FADS2 deletion may prevent the conversion of ALA into very-long-chain PUFAs.
+However, this metabolic effect is not translated into an attenuated risk between ALA and MI among carriers of the variant.
+It is possible that, at current intakes of ALA, any potential defect in the transcription of the gene is masked by the availability of substrate.
+Further research in populations deficient in ALA intake is warranted.

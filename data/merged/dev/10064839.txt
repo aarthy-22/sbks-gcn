@@ -1,0 +1,13 @@
+Binding of dimemorfan to sigma-1 receptor and its anticonvulsant and locomotor effects in mice, compared with dextromethorphan and dextrorphan.
+Dextromethorphan ((+)-3-methoxy-N-methylmorphinan, DM) has been shown to have both anticonvulsant and neuroprotective effects.
+The mechanisms of these CNS effects of DM have been suggested to be associated with the low-affinity, noncompetitive, N-methyl-d-aspartate (NMDA) antagonism of DM and/or the high-affinity DM/sigma receptors.
+DM is largely O-demethylated into the phencyclidine (PCP)-like compound dextrorphan (DR), which may limit its therapeutic use by producing PCP-like adverse effects, such as hyperlocomotion.
+Dimemorfan ((+)-3-methyl-N-methylmorphinan, DF), an analog of DM, which has been safely used as an antitussive for more than 20 years, is also known not to form DR.
+This study therefore characterized the binding of DF to the sigma receptors and NMDA-linked PCP sites and examined the anticonvulsant as well as locomotor effects of DF in mice in comparison with those of DM and DR.
+We found that DF, DM, and DR were relative high-affinity ligands at sigma-1 receptors (Ki=151, 205, 144 nM, respectively) while all of them were with low affinity at sigma-2 receptors (Ki=4-11 microM).
+Only DR exhibited moderate affinity for PCP sites (Ki=0.9 microM), whereas DF (Ki=17 microM) and DM (Ki=7 microM) were much less active.
+DF, DM and DR produced prominent anticonvulsant effects in mice as measured by the supramaximal electroshock test with comparable potency (ED50 approximately 70 micromol/kg, i.p.).
+At the tested doses (20-260 micromol/kg, i.p.), DM and DR exhibited biphasic effects on the locomotor activity whereas DF produced a consistent dose-dependent decrease.
+These results revealed that, unlike DM and DR, DF did not cause a PCP-like hyperlocomotion adverse effect that is parallel with the PCP sites binding data.
+Furthermore, since they have equipotent anticonvulsant effects and similar binding affinities to sigma-1 receptors, the very low affinity of DF at PCP sites may suggest that acting on the PCP sites may not be the requisite for mediating the anticonvulsant activity of these DM analogs.
+With the history of safety and relative less adverse effects, DF appears to be worth further studying on its CNS effects other than the antitussive effect.

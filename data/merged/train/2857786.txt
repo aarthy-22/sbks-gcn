@@ -1,0 +1,9 @@
+Self-cancellation of drug properties as a mode of organ selectivity: the antimuscarinic effects of ambenonium.
+Ambenonium is known to be an inhibitor of acetylcholinesterase, and recent data have shown this drug to antagonize muscarinic receptors as well.
+This latter property was confirmed by Schild analyses of ambenonium-induced blockade of responses to bethanechol in guinea-pig ileal longitudinal smooth muscle, taenia caeci, trachea and rat anococcygeus muscle.
+Statistical analysis showed ambenonium to be a simple competitive antagonist of responses to bethanechol in these tissues with pKB values in each tissue not significantly different from each other (mean pKB = 6.0).
+However, considerable variability in pKB estimates was encountered when ambenonium was utilized to block responses to acetylcholine.
+Ambenonium was a less potent antagonist of tissue responses to acetylcholine, and the underestimation in the pKB (as compared to that obtained with bethanechol) could be eliminated by prior treatment of tissues with the acetylcholinesterase inhibitor neostigmine.
+These data suggested that ambenonium had a dual effect on tissue responses to acetylcholine-producing potentiation by blockade of acetylcholinesterase and concomitant antagonism by blockade of muscarinic receptors.
+The Schild regressions obtained for ambenonium antagonism of acetylcholine responses formally satisfied criteria for simple competitive antagonism of a homogenous population of receptors (linear regression, slope equal to unity).
+The fact that these regressions yielded erroneous apparent pKB values suggests how two properties of a drug in one molecule could provide misleading information about drug receptors.(ABSTRACT TRUNCATED AT 250 WORDS)

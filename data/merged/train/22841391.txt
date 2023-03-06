@@ -1,0 +1,8 @@
+Methylselenol, a selenium metabolite, modulates p53 pathway and inhibits the growth of colon cancer xenografts in Balb/c mice.
+It is has been hypothesized that methylselenol is a critical selenium metabolite for anticancer activity in vivo.
+In this study, we used a protein array which contained 112 different antibodies known to be involved in the p53 pathway to investigate the molecular targets of methylselenol in human HCT116 colon cancer cells.
+The array analysis indicated that methylselenol exposure changed the expression of 11 protein targets related to the regulation of cell cycle and apoptosis.
+Subsequently, we confirmed these proteins with the Western blotting approach, and found that methylselenol increased the expression of GADD 153 and p21 but reduced the level of c-Myc, E2F1 and Phos p38 MAP kinase.
+Similar to our previous report on human HCT116 colon cancer cells, methylselenol also inhibited cell growth and led to an increase in G1 and G2 fractions with a concomitant drop in S-phase in mouse colon cancer MC26 cells.
+When the MC26 cells were transplanted to their immune-competent Balb/c mice, methylselenol-treated MC26 cells had significantly less tumor growth potential than that of untreated MC26 cells.
+Taken together, our data suggest that methylselenol modulates the expression of key genes related to cell cycle and apoptosis and inhibits colon cancer cell proliferation and tumor growth.

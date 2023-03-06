@@ -1,0 +1,11 @@
+Add-on therapy with the DPP-4 inhibitor sitagliptin improves glycemic control in insulin-treated Japanese patients with type 2 diabetes mellitus.
+The effect of add-on therapy with sitagliptin on glycemic control was prospectively investigated in patients with type 2 diabetes mellitus (T2DM) receiving insulin alone or insulin combined with oral antidiabetic drugs.
+Seventy-one patients were evaluated (38 men and 33 women aged 63.9±10.2 years).
+They were divided into three groups, which were 45 patients receiving premixed insulin twice daily, 15 patients receiving multiple daily insulin injections, and 11 patients receiving basal insulin with oral antidiabetic drugs (basal insulin therapy).
+Concomitant oral drugs included sulfonylureas, α-glucosidase inhibitors and metformin.
+The hemoglobin A1c (HbA1c) of all patients improved significantly from 8.1±1.2% to 7.6±1.1% after 12 weeks of add-on therapy with sitagliptin (p<0.01), and the insulin dosage was reduced from 27.3±15.8 U/day to 24.5±16.5 U/day (p<0.001).
+Body weight did not change after the start of concomitant therapy and severe hypoglycemia was not observed.
+The baseline HbA1c and glycated albumin levels were identified as factors that predicted the response to add-on therapy with sitagliptin.
+These findings suggest that add-on therapy with sitagliptin can be expected to achieve improvement of poor glycemic control irrespective of a patient's demographic profile.
+Stratified analysis based on the insulin regimen revealed a stronger antidiabetic effect and a high efficacy of sitagliptin when it was added to basal insulin therapy.
+The results of this investigation confirmed that add-on therapy with sitagliptin to various insulin regimens could improve glycemic control without severe hypoglycemia and/or weight gain.

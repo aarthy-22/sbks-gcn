@@ -1,0 +1,10 @@
+Pharmacological properties of angiotensin II receptor antagonists.
+The availability of selective, potent, orally active and long acting nonpeptide angiotensin II type 1 (AT1) receptor antagonists has provided the opportunity to obtain the benefits of selectively blocking the renin-angiotensin-aldosterone system at the level of the AT1 receptor that mediates most, if not all, of the important actions of angiotensin II, and avoid the nonspecificity of the angiotensin
+I converting enzyme inhibitors.
+Losartan was the first, but by no means remained the only, AT1 receptor antagonist.
+Numerous other 'sartans' have emerged in the past several years and successfully completed clinical development.
+With the exception of eprosartan, all others, ie, candesartan, irbesartan, saprisartan, tasosartan, telmisartan, valsartan and zolasartan, are based on medications of losartan's prototypical chemical structure.
+Among the current AT1 receptor antagonists, the rank order of the relative binding affinities (highest affinity = 1) is: candesartan 1, telmisartan 10, E3174 (the active metabolite of losartan) 10, tasosartan 20, losartan 50, eprosartan 100 and the prodrug candesartan cilexetil 280.
+The mode of (functional) AT1 receptor antagonism has been characterized as surmountable/noncompetitive (losartan, tasosartan, eprosartan) or insurmountable/noncompetitive (candesartan, saprisartan, zolasartan, irbesartan, valsartan, telmisartan, E3174).
+It is very likely that slow dissociation kinetics from the AT1 receptor underlie insurmountable antagonism.
+However, competitive or noncompetitive antagonism does not determine the antihypertensive efficacy, but the slow off-rate may extend the occupancy of the AT1 receptor and thereby lengthen the duration of the antihypertensive effect.

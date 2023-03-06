@@ -1,0 +1,6 @@
+Atypical and typical antipsychotic drug interactions with the dopamine D2 receptor.
+A model of the dopamine D2 receptor was used to study the receptor interactions of dopamine, the typical antipsychotics haloperidol and loxapine, and the atypical antipsychotics clozapine and melperone.
+The atypical antipsychotics interacted with the halogen atom of the ring system in the direction of the transmembrane helices (TMHs) 2, 3 and 7, while the typical had the corresponding halogen atom in the direction of TMH5.
+Molecular dynamics simulations indicated that the average helical displacement upon binding increased in the order: typical < atypical < dopamine.
+Upon binding, the atypical induced larger displacements into TMH5 than did the typical.
+The typical had stronger non-bonded interactions with the receptor than had the atypical, which is in agreement with the experimental observation that the atypical antipsychotic drugs dissociate faster from the receptor than the typical antipsychotic drugs.

@@ -1,0 +1,10 @@
+Na+/Cl- dipole couples agonist binding to kainate receptor activation.
+Kainate-selective ionotropic glutamate receptors (GluRs) require external Na+ and Cl- as well as the neurotransmitter L-glutamate for activation.
+Although, external anions and cations apparently coactivate kainate receptors (KARs) in an identical manner, it has yet to be established how ions of opposite charge achieve this.
+An additional complication is that KARs are subject to other forms of cation modulation via extracellular acidification (i.e., protons) and divalent ions.
+Consequently, other cation species may compete with Na+ to regulate the time KARs remain in the open state.
+Here we designed experiments to unravel how external ions regulate GluR6 KARs.
+We show that GluR6 kinetics are unaffected by alterations in physiological pH but that divalent and alkali metal ions compete to determine the time course of KAR channel activity.
+Additionally, Na+ and Cl- ions coactivate GluR6 receptors by establishing a dipole, accounting for their common effect on KARs.
+Using charged amino acids as tethered ions, we further demonstrate that the docking order is fixed with cations binding first, followed by anions.
+Together, our findings identify the dipole as a novel gating feature that couples neurotransmitter binding to KAR activation.

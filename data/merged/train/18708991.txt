@@ -1,0 +1,12 @@
+ABCB1 polymorphisms influence steady-state plasma levels of 9-hydroxyrisperidone and risperidone active moiety.
+Risperidone is metabolized to its active metabolite, 9-hydroxyrisperidone, mainly by the cytochrome P450 enzymes CYP2D6 and 3A4.
+Its antipsychotic effect is assumed to be related to the active moiety, that is, the sum of risperidone and 9-hydroxyrisperidone.
+Both risperidone and 9-hydroxyrisperidone are substrates of P-glycoprotein (P-gp), a transport protein involved in drug absorption, distribution, and elimination.
+The aim of the present study was to evaluate the influence of polymorphisms in genes encoding CYP3A5 and P-gp (ABCB1) on the steady-state plasma levels of risperidone, 9-hydroxyrisperidone, and the active moiety, taking CYP2D6 genotype status into account.
+Forty-six white patients with schizophrenia treated with risperidone (1-10 mg/d) in monotherapy for 4-6 weeks were genotyped, and their plasma concentrations of risperidone and 9-hydroxyrisperidone were measured.
+Dose-corrected plasma concentrations (C/D) of risperidone, 9-hydroxyrisperidone, and active moiety showed up to 68-, 9-, and 10-fold interindividual variation, respectively.
+Six patients carried 1 CYP3A5*1 allele and therefore were likely to express the CYP3A5 enzyme.
+The CYP3A5 genotype did not influence risperidone, 9-hydroxyrisperidone, or active moiety C/Ds.
+The CYP2D6 genotype in these 46 patients was again associated with risperidone C/D (P = 0.001) but not with 9-hydroxyrisperidone C/D or active moiety C/D, as previously shown by our group in 37 of these patients.
+Patients homozygous for the ABCB1 3435T/2677T/1236T haplotype had significantly lower C/Ds of 9-hydroxyrisperidone (P = 0.026) and active moiety (P = 0.028) than patients carrying other ABCB1 genotypes.
+In conclusion, our results confirmed the significant effect of CYP2D6 genotype on the steady-state plasma levels of risperidone and showed that ABCB1 polymorphisms have a moderate effect on those of 9-hydroxyrisperidone and the active moiety.

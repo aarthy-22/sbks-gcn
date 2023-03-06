@@ -1,0 +1,6 @@
+Swim training of monosodium L-glutamate-obese mice improves the impaired insulin receptor tyrosine phosphorylation in pancreatic islets.
+The goal of the present study was to investigate changes on glucose homoeostasis and of the insulin receptor (IR) and insulin receptor substrate-1 (IRS-1) signalling in pancreatic islets from MSG-obese mice submitted to or not submitted to swim training.
+Swim training of 90-day-old MSG mice was used to evaluate whether signalling pathways of the IR and IRS-1 in islets are involved with the insulin resistance and glucose intolerance observed in this obese animal model.
+The results showed that IR tyrosine phosphorylation (pIR) was reduced by 42 % in MSG-obese mice (MSG, 6.7 ± 0.2 arbitrary units (a.u.); control, 11.5 ± 0.4 a.u.); on the other hand, exercise training increased pIR by 76 % in MSG mice without affecting control mice (MSG, 11.8 ± 0.3; control, 12.8 ± 0.2 a.u.).
+Although the treatment with MSG increased IRS-1 tyrosine phosphorylation (pIRS-1) by 96 % (MSG, 17.02 ± 0.6; control, 8.7 ± 0.2 a.u.), exercise training also increased it in both groups (control, 13.6 ± 0.1; MSG, 22.2 ± 1.1 a.u.).
+Current research shows that the practice of swim training increases the tyrosine phosphorylation of IRS-1 which can modulate the effect caused by obesity in insulin receptors.

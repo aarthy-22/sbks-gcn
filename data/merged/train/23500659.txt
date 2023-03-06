@@ -1,0 +1,12 @@
+Role of the phytoestrogenic, pro-apoptotic and anti-oxidative properties of silymarin in inhibiting experimental benign prostatic hyperplasia in rats.
+Androgen and estrogen play an important role in the pathogenesis of benign prostatic hyperplasia (BPH).
+Estrogen exerts its action through two distinct estrogen receptors (ERs) either ER-α or ER-β.
+The phytoestrogenic property of silymarin (SIL) has been previously characterized.
+Thus, this study examined the protective effect of SIL against testosterone-induced BPH in rats.
+In an initial dose-response study, SIL in a dose of 50mg/kg was the most effective in preventing the rise in prostate weight, prostate weight/body weight ratio and histopathologic changes induced by testosterone.
+Testosterone significantly decreased ER-β and increased ER-α and AR expressions as compared to the control group and these effects were significantly ameliorated by SIL.
+Furthermore, SIL significantly protected against testosterone-provoked decline in mRNA expression of P21(WAF1/Cip1) and Bax/Bcl-xl ratio as well as caspase-3 activity.
+SIL minimized the number of proliferating cell nuclear antigen (PCNA) positive cells as compared to testosterone-treated group.
+Moreover, SIL significantly blunted the inducible NF-κB expression and restored the oxidative status to within normal values in the prostatic tissues.
+Collectively these findings elucidate the effectiveness of SIL in preventing testosterone-induced BPH in rats.
+This could be attributed, at least partly, to its phytoestrogenic, pro-apoptotic and anti-oxidative properties.

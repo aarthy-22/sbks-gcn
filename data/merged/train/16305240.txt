@@ -1,0 +1,7 @@
+Co-C bond activation in methylmalonyl-CoA mutase by stabilization of the post-homolysis product Co2+ cobalamin.
+Despite decades of research, the mechanism by which coenzyme B12 (adenosylcobalamin, AdoCbl)-dependent enzymes promote homolytic cleavage of the cofactor's Co-C bond to initiate catalysis has continued to elude researchers.
+In this work, we utilized magnetic circular dichroism spectroscopy to explore how the electronic structure of the reduced B12 cofactor (i.e., the post-homolysis product Co2+ Cbl) is modulated by the enzyme methylmalonyl-CoA mutase.
+Our data reveal a fairly uniform stabilization of the Co 3d orbitals relative to the corrin pi/pi*-based molecular orbitals when Co2+ Cbl is bound to the enzyme active site, particularly in the presence of substrate.
+Contrastingly, our previous studies (Brooks, A. J.; Vlasie, M.; Banerjee, R.; Brunold, T. C. J. Am. Chem.
+Soc. 2004, 126, 8167-8180.) showed that when AdoCbl is bound to the MMCM active site, no enzymatic perturbation of the Co3+ Cbl electronic structure occurs, even in the presence of substrate (analogues).
+Collectively, these observations provide direct evidence that enzymatic Co-C bond activation involves stabilization of the post-homolysis product, Co2+ Cbl, rather than destabilization of the Co3+ Cbl "ground" state.

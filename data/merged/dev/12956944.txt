@@ -1,0 +1,10 @@
+Changes of phosphorylation of cAMP response element binding protein in rat nucleus accumbens after chronic ethanol intake: naloxone reversal.
+AIM: To study the changes in the expression and phosphorylation of cAMP response element binding protein (CREB) in the rat nucleus accumbens after chronic ethanol intake and its withdrawal.
+METHODS: Ethanol was given in drinking water at the concentration of 6 % (v/v), for one month.
+Changes in the levels of CREB and phospho-CREB (p-CREB) protein in the nucleus accumbens were measured by immunohistochemistry methods.
+RESULTS: Ethanol given to rats in drinking water decreased the level of p-CREB protein in the nucleus accumbens (-75 %) at the time of exposure to ethanol.
+The decrement of p-CREB protein in the nucleus accumbens remained at 24 h (-35 %) and 72 h (-28 %) of ethanol withdrawal, which recovered toward control level after 7 d of ethanol withdrawal.
+However, chronic ethanol, as well as ethanol withdrawal failed to produce any significant alteration in the level of CREB protein in the nucleus accumbens.
+Naloxone (alone) treatment of rats had no effect on the levels of CREB and p-CREB protein in the nucleus accumbens.
+However, when naloxone was administered concurrently with ethanol treatment, it antagonized the down-regulation of p-CREB protein in the nucleus accumbens (142 %) of rats exposed to ethanol.
+CONCLUSION: A long-term intake of ethanol solution down-regulates the phosphorylation of CREB in the nucleus accumbens, and those changes can be reversed by naloxone, which may be one kind of the molecular mechanisms associated with ethanol dependence.

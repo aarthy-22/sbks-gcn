@@ -1,0 +1,13 @@
+Entacapone.
+OBJECTIVE: To introduce entacapone, a new catechol-O-methyltransferase inhibitor, and discuss its pharmacology, pharmacodynamics, pharmacokinetics, clinical efficacy, drug interactions, adverse events, dosage guidelines, and therapeutic and formulary considerations.
+DATA SOURCE: A MEDLINE database search (1966-December 1999) was performed to identify relevant English-language articles including recent studies, abstracts, and reviews.
+Search terms included entacapone, OR-611, catechol-O-methyltransferase inhibitor, and Parkinson's disease.
+STUDY SELECTION: Relevant published human studies were chosen to summarize the pharmacokinetics, clinical efficacy, adverse effects, and drug interactions.
+DATA EXTRACTION: All available human clinical trials were reviewed.
+DATA SYNTHESIS: Entacapone is the second medication of a new class of drugs, the catechol-O-methyltransferase inhibitors, indicated for clinical use as an adjunct to levodopa/carbidopa to treat patients with idiopathic Parkinson's disease who experience the signs and symptoms of end-of-dose wearing-off.
+Entacapone in combination with levodopa/dopa decarboxylase inhibitor has been shown to increase the AUC of levodopa, which leads to less fluctuation of levodopa plasma concentrations.
+Clinically, the duration of motor response to levodopa was prolonged as reflected by an increase in the mean on time.
+The addition of entacapone resulted in a decrease in the mean daily dosage of levodopa.
+The recommended dosage of entacapone is 200 mg administered orally with each dose of levodopa/carbidopa, up to a maximum of eight doses per day.
+Common adverse effects include dyskinesia, nausea, diarrhea, and urine discoloration.
+CONCLUSIONS: Entacapone should be considered as add-on treatment to levodopa/carbidopa in Parkinson's disease patients with end-of-dose wearing-off effect.

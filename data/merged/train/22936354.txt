@@ -1,0 +1,11 @@
+Inactivation of anoctamin-6/Tmem16f, a regulator of phosphatidylserine scrambling in osteoblasts, leads to decreased mineral deposition in skeletal tissues.
+During vertebrate skeletal development, osteoblasts produce a mineralized bone matrix by deposition of hydroxyapatite crystals in the extracellular matrix.
+Anoctamin6/Tmem16F (Ano6) belongs to a conserved family of transmembrane proteins with chloride channel properties.
+In addition, Ano6 has been linked to phosphatidylserine (PS) scrambling in the plasma membrane.
+During skeletogenesis, Ano6 mRNA is expressed in differentiating and mature osteoblasts.
+Deletion of Ano6 in mice results in reduced skeleton size and skeletal deformities.
+Molecular analysis revealed that chondrocyte and osteoblast differentiation are not disturbed.
+However, mutant mice display increased regions of nonmineralized, Ibsp-expressing osteoblasts in the periosteum during embryonic development and increased areas of uncalcified osteoid postnatally.
+In primary Ano6(-/-) osteoblasts, mineralization is delayed, indicating a cell autonomous function of Ano6.
+Furthermore, we demonstrate that calcium-dependent PS scrambling is impaired in osteoblasts.
+Our study is the first to our knowledge to reveal the requirement of Ano6 in PS scrambling in osteoblasts, supporting a function of PS exposure in the deposition of hydroxyapatite.

@@ -1,0 +1,6 @@
+The regulatory roles of phosphatases in cancer.
+The relevance of potentially reversible post-translational modifications required for controlling cellular processes in cancer is one of the most thriving arenas of cellular and molecular biology.
+Any alteration in the balanced equilibrium between kinases and phosphatases may result in development and progression of various diseases, including different types of cancer, though phosphatases are relatively under-studied.
+Loss of phosphatases such as PTEN (phosphatase and tensin homologue deleted on chromosome 10), a known tumour suppressor, across tumour types lends credence to the development of phosphatidylinositol 3--kinase inhibitors alongside the use of phosphatase expression as a biomarker, though phase 3 trial data are lacking.
+In this review, we give an updated report on phosphatase dysregulation linked to organ-specific malignancies.
+Oncogene advance online publication, 18 March 2013; doi:10.1038/onc.2013.80.

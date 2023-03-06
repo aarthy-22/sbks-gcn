@@ -1,0 +1,6 @@
+Synthesis, quantitative structure-activity relationship and biological evaluation of 1,3,4-oxadiazole derivatives possessing diphenylamine moiety as potential anticancer agents.
+Synthesis of 2,5-disubstituted-1,3,4-oxadiazole (2a-c), 3-substituted aminomethyl-5-substituted-1,3,4-oxadiazole-2(3H)-thione (4a-m) and 2-substituted thio-5-substituted-1,3,4-oxadiazole (5a, b) had been described.
+All the synthesized derivatives were screened for anticancer activity against HT29 and MCF7 cancer cell lines using Sulfo-Rodamine B (SRB) standard method.
+Most of the tested compounds exploited potent antiproliferative activity against HT29 cancer cell line rather than MCF7 cancer cell line.
+Compounds 2a-c, 4f and 5a exhibited potent cytotoxicity (IC(50) 1.3-2.0 µM) and selectivity against HT29 cancer cell line.
+Quantitative structure-activity relationship (QSAR) study was applied to find a correlation between the experimental antiproliferative activities of the newly synthesized oxadiazole derivatives with their physicochemical parameter and topological index.

@@ -1,0 +1,10 @@
+Measuring binding kinetics of ligands with tethered receptors by fluorescence polarization and total internal reflection fluorescence.
+Binding kinetics of nuclear receptors and their specific ligands was measured using polarization anisotropy complemented with total internal reflection fluorescence.
+Binding affinities of tethered full length human estrogen receptor alpha (ERalpha) with 17beta-estradiol, diethylstilbestrol, raloxifene, 4-hydroxytamoxifen, tamoxifen, and genistein were measured to be 100 (as reference), 100, 35, 21, 8, and 1.5, respectively.
+They agreed with published results.
+For the first time, rate constants were measured, and off rates were 1.5, 1.5, 1.3, 1.6, 1.7, and 2.3 x 10(-3) s(-1) while on rates were 11, 10, 3.3, 2.4, 1.0, and 0.26 x 10(5) M(-1)s(-1), respectively.
+For the antiestrogen drugs, their comparable off-rates correlated well with their equally similar potency.
+Eleven ginsenosides were screened as potential ligands.
+None were found to bind to ERalpha, but Rb1(S) and 20(S)-Rg3 were shown to bind to peroxisome proliferator-activated receptor gamma.
+The latter finding corroborated strongly with the therapeutic effects of ginsenosides on diabetic mice observed in a separate study.
+Our method would complement surface plasmon resonance assay for small ligands in the mass range of tens to hundreds of Daltons.

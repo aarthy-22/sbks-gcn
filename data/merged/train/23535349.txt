@@ -1,0 +1,10 @@
+Risk of ischemic stroke with the use of risperidone, quetiapine and olanzapine in elderly patients: a population-based, case-crossover study.
+We conducted a case-crossover study to evaluate the comparative risk of ischemic stroke associated with the use of risperidone, quetiapine and olanzapine in geriatric patients using the Korean Health Insurance Review and Assessment Service database.
+Cases included elderly patients >64 years old who had experienced their first ischemic stroke (International Classification of Disease, Tenth Revision (ICD-10), I63) hospitalization from July 2005 to June 2006 and who had been without prior cerebrovascular diseases (ICD-10, I60-I69), or transient ischemic attack (ICD-10, G45).
+Exposures to risperidone, quetiapine and olanzapine were assessed during the 30 days prior to the stroke episode.
+We set two control periods with lengths which were the same as the hazard periods.
+Adjusted odds ratios (aORs) with 95% confidence intervals (CIs) were estimated by conditional logistic regression.
+A total of 1601 cases of ischemic stroke with a mean age of 75.6 (±6.7) years were identified, among which 933 (58.3%) were female.
+An increased risk of ischemic stroke was associated with the use of risperidone (aOR=3.5, 95% CI 3.3-4.6) and quetiapine (aOR=2.7, 95% CI 2.0-3.6) during the 30 days prior to stroke: however, no significant risk was observed with olanzapine (aOR=1.2, 95% CI 0.7-2.0).
+The increased stroke risk in demented patients, assessed within 30 days after exposure, was also observed with olanzapine.
+However, the sample of olanzapine users was small and underpowered.

@@ -1,0 +1,7 @@
+Insulin-degrading enzyme (IDE): a novel heat shock-like protein.
+Insulin-degrading enzyme (IDE) is a highly conserved zinc metallopeptidase that is ubiquitously distributed in human tissues, and particularly abundant in the brain, liver, and muscles.
+IDE activity has been historically associated with insulin and β-amyloid catabolism.
+However, over the last decade, several experimental findings have established that IDE is also involved in a wide variety of physiopathological processes, including ubiquitin clearance and Varicella Zoster Virus infection.
+In this study, we demonstrate that normal and malignant cells exposed to different stresses markedly up-regulate IDE in a heat shock protein (HSP)-like fashion.
+Additionally, we focused our attention on tumor cells and report that (i) IDE is overexpressed in vivo in tumors of the central nervous system (CNS); (ii) IDE-silencing inhibits neuroblastoma (SHSY5Y) cell proliferation and triggers cell death; (iii) IDE inhibition is accompanied by a decrease of the poly-ubiquitinated protein content and co-immunoprecipitates with proteasome and ubiquitin in SHSY5Y cells.
+In this work, we propose a novel role for IDE as a heat shock protein with implications in cell growth regulation and cancer progression, thus opening up an intriguing hypothesis of IDE as an anticancer target.

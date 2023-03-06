@@ -1,0 +1,10 @@
+Comparison the neuropreotective effect of Cortex Phellodendri chinensis and Cortex Phellodendri amurensis against beta-amyloid-induced neurotoxicity in PC12 cells.
+Cortex Phellodendron chinensis (CPC) and Cortex Phellodendron amurensis (CPA) derived from the dried bark of Phellodendron chinense Schneid. or Phellodendron amurense Rupr., respectively, are used interchangeably in clinical practice under the name "Huang Bai" for centuries in Chinese medicine for the treatment of various inflammatory conditions.
+Previous study in our laboratory demonstrated that CPC and CPA had different anti-diarrheal, anti-bacterial and anti-inflammatory effects.
+In this present study, we aimed to compare the protective effect of ethanol extract of Cortex Phellodendri chinensis (ECPC) and Cortex Phellodendri Amurensis (ECPA) against beta-amyloid (Aβ)-induced neurotoxicity in PC12 cells, a typical model of Alzheimer's disease.
+The results showed that ECPC and ECPA contain four common chemical markers such as berberine, but palmatine and jatrorrhizin were not found in CPC in contrast to the presence in CPA.
+In addition, both ECPC and ECPA can significantly increase the cell viability in Aβ-treated PC12 cells.
+Moreover, ECPC and ECPA can markedly elevate the ratio of the protein and mRNA levels of Bcl-2/Bax, while remarkably decrease the release of cytochrome c, and the protein and mRNA expression of caspase-3.
+Interestingly, ECPA has better protective effect than ECPC against Aβ-induced neurotoxicity in PC12 cells.
+These results indicate that both ECPC and ECPA have potential protective effect against Aβ-induced neurotoxicity in PC12 cells, and ECPA is more potential of the two species to be used in traditional medicine as a neuroprotective agent for the treatment of AD.
+The neuroprotective effect of the two species may be mediated, at least in part, via suppressing of the cellular apoptosis.

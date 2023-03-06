@@ -1,0 +1,7 @@
+Potential of memantine, D-tubocurarine, and atropine in preventing acute toxic myopathy induced by organophosphate nerve agents: soman, sarin, tabun and VX.
+Male Sprague-Dawley rats when administered sc a sublethal dose of organophosphorus cholinesterase inhibitors such as the nerve agents, soman (100 micrograms/kg, sc), sarin (110 micrograms/kg, sc), tabun (200 micrograms/kg, sc), or VX (12 micrograms/kg, sc), developed seizures and severe muscle fasciculations within 15-20 min, lasting for 4-6 hr.
+Marked inhibition of acetylcholinesterase (AChE) and necrotic lesions in skeletal muscles such as soleus, extensor digitorum longus, and diaphragm were evident between 1-24 hr following injection.
+Pretreatment with memantine HCl (MEM, 18 mg/kg, sc) together with atropine sulfate (ATS, 16 mg/kg, sc), 60 min and 15 min, respectively, prior to nerve agents attenuated AChE inhibition, prevented myonecrosis, and muscle fasciculations as well as other signs of cholinergic toxicity.
+Pretreatment combining d-tubocurarine (d-TC, 0.075 mg/kg, sc) and ATS (16 mg/kg, sc) prevented the myonecrosis and fasciculation without protecting AChE against inhibition by these nerve agents.
+Neither MEM, d-TC, nor ATS in the concentration given interfered with the normal behavior of the rats.
+The role of d-TC and ATS interaction with presynaptic receptors regulating ACh release and MEM's role in modulating neural hyperactivity as protective mechanisms are discussed.

@@ -1,0 +1,6 @@
+In vitro and in vivo anti-inflammatory effects of 4-methoxy-5- hydroxycanthin-6-one, a natural alkaloid from Picrasma quassioides.
+In the present study, we evaluated the anti-inflammatory effect of 4-methoxy-5- hydroxycanthin-6-one (CAN), a natural alkaloid isolated from Picrasma quassioides.
+CAN significantly inhibited the production of NO and the release of TNF-α induced by LPS in macrophage RAW 264.7.
+Western blot showed that CAN can downregulate the expression of iNOS protein.
+After oral administration, CAN (3, 9, and 27 mg/kg) reduced the development of carrageenan-induced paw edema and complete Freund's adjuvant (CFA)-induced chronic arthritis in rats.
+The observed results indicated that pre-treatment with CAN might be an effective therapeutic intervention against inflammatory diseases including chronic arthritis.

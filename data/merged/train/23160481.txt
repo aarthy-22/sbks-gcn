@@ -1,0 +1,10 @@
+FOXO1 controls thyroid cell proliferation in response to TSH and IGF-I and is involved in thyroid tumorigenesis.
+TSH and insulin/IGF-I synergistically induce the proliferation of thyroid cells mainly through the cAMP and phosphatidylinositol 3-kinase (PI3K) pathways.
+However, the events involved in this cooperative induction remain unknown, and molecules that are potentially controlled by both TSH and IGF-I are interesting candidates as integrators of both stimuli.
+The finding that the PI3K pathway is frequently activated in thyroid malignancies has attracted attention to this pathway in the thyroid field.
+One of the targets of PI3K is Forkhead box O (FoxO)-1, a widely expressed transcription factor involved in a variety of cellular processes such as differentiation, proliferation, and apoptosis.
+Here we show that FoxO1 is highly expressed in differentiated rat thyroid cells and human thyroid tissue compared with human thyroid tumor-derived cells and surgically removed thyroid tumors, in which its expression is reduced.
+In differentiated cells, TSH/cAMP treatment decreases FoxO1 mRNA and protein levels through proteasome activation, whereas both TSH and IGF-I control FoxO1 localization by promoting a rapid exclusion from the nucleus in an Akt-dependent manner.
+FoxO1 can control p27(KIP1) expression in differentiated and tumor cells of the thyroid.
+Furthermore, FoxO1 reexpression in tumor cells promotes a decrease in their proliferation rate, whereas FoxO1 interference in differentiated cells increases their proliferation.
+These data point to an important role of FoxO1 in mediating the effects of TSH and IGF-I on thyroid cell proliferation and provide a link between loss of FoxO1 expression and the uncontrolled proliferation of thyroid tumor cells.

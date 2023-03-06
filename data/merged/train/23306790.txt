@@ -1,0 +1,10 @@
+Verrucarin A enhances TRAIL-induced apoptosis via NF-κB-mediated Fas overexpression.
+We investigated whether verrucarin A (VA) sensitizes HepG2 hepatoma cells to tumor necrosis factor-related apoptosis inducing ligand (TRAIL)-mediated apoptosis.
+We found that VA alone induces little apoptosis, but when combined with TRAIL (VA/TRAIL), it triggered significant apoptosis, causing little or no toxicity in normal mouse splenocytes.
+VA/TRAIL-induced cell death is involved in the loss of mitochondrial transmembrane potential and the consequent activation of caspases.
+Because nuclear factor (NF)-κB inhibition has been known as a critical target in TRAIL-mediated apoptosis, we also investigated the role of NF-κB in VA/TRAIL treatment.
+We found that VA upregulated the DNA binding activity of NF-κB, but that the antioxidants glutathione and N-acetyl-l-cysteine, as well as NF-κB inhibitor MG132, and mutant-IκB (m-IκB) transfection, significantly downregulated VA/TRAIL-induced cell death by inhibiting caspase-3 and NF-κB activities.
+Transfection of mutant-eIF2α also resulted in a decrease in VA/TRAIL-induced cell death by inhibiting of caspase-3, but not NF-κB activity.
+Although VA/TRAIL treatment led to an increase of DR5 expression, transfection of m-IκB had no influence on the DR5 expressional level.
+Finally, we showed that NF-κB-mediated Fas expression is critical to VA/TRAIL-induced apoptosis.
+Taken together, these results indicate that VA/TRAIL sensitizes HepG2 cells to apoptosis via NF-κB-mediated overexpression of Fas.

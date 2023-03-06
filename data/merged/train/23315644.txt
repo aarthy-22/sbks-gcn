@@ -1,0 +1,14 @@
+Characterization of four new mouse cytochrome P450 enzymes of the CYP2J subfamily.
+The cytochrome P450 superfamily encompasses a diverse group of enzymes that catalyze the oxidation of various substrates.
+The mouse CYP2J subfamily includes members that have wide tissue distribution and are active in the metabolism of arachidonic acid (AA), linoleic acid (LA), and other lipids and xenobiotics.
+The mouse Cyp2j locus contains seven genes and three pseudogenes located in a contiguous 0.62 megabase cluster on chromosome 4.
+We describe four new mouse CYP2J isoforms (designated CYP2J8, CYP2J11, CYP2J12, and CYP2J13).
+The four cDNAs contain open reading frames that encode polypeptides with 62-84% identity with the three previously identified mouse CYP2Js.
+All four new CYP2J proteins were expressed in Sf21 insect cells.
+Each recombinant protein metabolized AA and LA to epoxides and hydroxy derivatives.
+Specific antibodies, mRNA probes, and polymerase chain reaction primer sets were developed for each mouse CYP2J to examine their tissue distribution.
+CYP2J8 transcripts were found in the kidney, liver, and brain, and protein expression was confirmed in the kidney and brain (neuropil).
+CYP2J11 transcripts were most abundant in the kidney and heart, with protein detected primarily in the kidney (proximal convoluted tubules), liver, and heart (cardiomyocytes).
+CYP2J12 transcripts were prominently present in the brain, and CYP2J13 transcripts were detected in multiple tissues, with the highest expression in the kidney.
+CYP2J12 and CYP2J13 protein expression could not be determined because the antibodies developed were not immunospecific.
+We conclude that the four new CYP2J isoforms might be involved in the metabolism of AA and LA to bioactive lipids in mouse hepatic and extrahepatic tissues.

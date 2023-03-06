@@ -1,0 +1,10 @@
+Inhibitory action of salicylideneamino-2-thiophenol on NF-κB signaling cascade and cyclooxygenase-2 in HNE-treated endothelial cells.
+In the present study, the anti-inflammatory effect of salicylideneamino-2-thiophenol (SAL-2), a derivative of salicylate, on a potent oxidant 4-hydroxynonenal (HNE)-induced oxidative stress was investigated using rat prostate endothelial (YPEN-1) cells.
+We focused on anti-inflammatory activity of SAL-2 which was determined by its ability to suppress COX-2 and iNOS gene expression through suppression of NF-κB and redox regulation.
+We found that SAL-2 effectively inhibited HNE-induced reactive species generation, while upregulated GSH/GSSG ratio.
+Prostagrandin (PG) E2 production stimulated by arachidonic acid was suppressed by SAL-2.
+SAL-2 also downregulated COX-2 and iNOS expression induced by HNE, but salicylate did not.
+We found that SAL-2 inhibited HNE-mediated IKK phosphorylation, IκBα degradation and nuclear translocation of p65 which are linked to NF-κB activation.
+Furthermore, SAL-2 inhibited HNE-induced activation of mitogen-activated protein kinases.
+Collectively, SAL-2 inhibited COX-2 and iNOS gene expression through suppression of NF-κB leading to the inhibition of PGE2 synthesis.
+Based on these data, we propose that with its combined effect on strong anti-oxidant and anti-inflammatory action, SAL-2 can be a potent anti-inflammatory agent for treatment of inflammatory-related diseases.

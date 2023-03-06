@@ -1,0 +1,13 @@
+Chemokine expression is upregulated in chondrocytes in diabetic fracture healing.
+Chemokines are thought to play an important role in several aspects of bone metabolism including the recruitment of leukocytes and the formation of osteoclasts.
+We investigated the impact of diabetes on chemokine expression in normal and diabetic fracture healing.
+Fracture of the femur was performed in streptozotocin-induced diabetic and matched normoglycemic control mice.
+Microarray analysis was carried out and chemokine mRNA levels in vivo were assessed.
+CCL4 were examined in fracture calluses by immunohistochemistry and the role of TNF in diabetes-enhanced expression was investigated by treatment of animals with the TNF-specific inhibitor, pegsunercept.
+In vitro studies were conducted with ATDC5 chondrocytes.
+Diabetes significantly upregulated mRNA levels of several chemokines in vivo including CCL4, CCL8, CCL6, CCL11, CCL20, CCL24, CXCL2, CXCL5 and chemokine receptors CCR5 and CXCR4.
+Chondrocytes were identified as a significant source of CCL4 and its expression in diabetic fractures was dependent on TNF (P<0.05).
+TNF-α significantly increased mRNA levels of several chemokines in vitro which were knocked down with FOXO1 siRNA (P<0.05).
+CCL4 expression at the mRNA and proteins levels was induced by FOXO1 over-expression and reduced by FOXO1 knockdown.
+The current studies point to the importance of TNF-α as a mechanism for diabetes enhanced chemokine expression by chondrocytes, which may contribute to the accelerated loss of cartilage observed in diabetic fracture healing.
+Moreover, in vitro results point to FOXO1 as a potentially important transcription factor in mediating this effect.

@@ -1,0 +1,3 @@
+The Hunger Games: p53 regulates metabolism upon serine starvation.
+Cancer cells reprogram their metabolism to support a high proliferative rate.
+A new study shows that, upon serine starvation, the tumor suppressor p53 activates p21 to shift metabolic flux from purine biosynthesis to glutathione production, which enhances cellular proliferation and viability by combating ROS (Maddocks et al., 2013).

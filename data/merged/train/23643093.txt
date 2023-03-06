@@ -1,0 +1,10 @@
+Apoptosis inducing activity of benzophenanthridine-type alkaloids and 2-arylbenzofuran neolignans in HCT116 colon carcinoma cells.
+Thirteen compounds belonging to different classes of alkaloids (1-9) and lignans (10-13), isolated from the methanol extract of roots of the African medicinal plant Zanthoxylum capense, were assayed for their ability as apoptosis inducers in HCT116 colon carcinoma cells.
+The cytotoxicity of these compounds was evaluated in HCT116 colon carcinoma cells by the MTS assay.
+Out of the tested compounds, three benzophenanthridine alkaloids (1, 4, and 7), a dibenzyl butyrolactone lignan (10), and two 2-arylbenzofuran neolignans (12 and 13) displayed significant cytotoxicity to HCT116 cells, confirmed by the Guava ViaCount viability assay.
+The selected compounds (1, 4, 7, 10, 12, and 13) were further tested for apoptosis induction activity in HCT116 cells, by evaluation of nuclear morphology following Hoechst staining, and by caspase-3 like activity assays.
+Morphologic evaluation of HCT116 nuclei following Hoechst staining and fluorescence microscopy revealed that compounds 1, 4, 7, 10, 12, and 13 induced apoptosis in HCT116 colon carcinoma cells, producing similar, or higher, apoptosis levels when compared with 5-fluorouracil (5-FU), the cornerstone cytotoxic used in colon cancer treatment for several decades.
+In fact, HCT116 cells developed morphological changes characteristic of apoptosis, including chromatin condensation, nuclear fragmentation and formation of apoptotic bodies.
+Importantly, compounds 4 and 13 at 20μM were the most promising in this study, inducing respectively ~11- and 7-fold increases in apoptotic cells as compared to vehicle control, whereas 5-FU increased apoptosis by ~2-fold.
+Apoptosis induction for compounds 4 and 13 was further confirmed by caspase-3-like activity assays, which showed respectively ~2- and 1.5-fold increases in caspase-3-like activity compared to vehicle control.
+These results suggested that specific benzophenanthridine alkaloids and 2-arylbenzofuran neolignans isolated from Zanthoxylum capense show strong anticancer activity in HCT116 colon carcinoma cells.

@@ -1,0 +1,12 @@
+Distribution of specific binding sites for cysteinyl leukotriene 1 receptor antagonist in human nasal mucosa.
+CONCLUSION: The high density of [3H]-pranlukast binding sites on the local leukocytes in human nasal mucosa suggests that CysLT1 receptor antagonists may directly modulate cellular function of the local leukocytes through binding to CysLT1 receptor on allergic nasal mucosa.
+OBJECTIVES: The cysteinyl leukotrienes (CysLTs) are lipid mediators that have been implicated in the pathogenesis of allergic diseases.
+Pharmacological studies using CysLTs indicate that two classes of receptors named CysLT1 and CysLT2 receptor exist.
+The former is sensitive to the CysLT1 receptor antagonist currently used to treat asthma and allergic rhinitis.
+To confirm the binding sites of CysLT1 receptor antagonist in human nasal mucosa, the autoradiographic distribution of CysLT1 receptor was studied in human nasal inferior turbinates.
+MATERIALS AND METHODS: Cryostat sections were incubated with [3H]-pranlukast for autoradiography.
+Nonspecific binding was determined by adding unlabelled pranlukast.
+RESULTS: Autoradiograms indicated [3H]-pranlukast densely labeled on the interstitial cells.
+Blood vessels were sparsely labeled.
+There was no specific labeling in the submucosal glands or epithelium.
+These results support our previous report from in situ hybridization and immunohistochemistry of CysLT1 receptor.

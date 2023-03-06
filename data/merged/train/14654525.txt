@@ -1,0 +1,14 @@
+An innovative phase I clinical study demonstrates inhibition of FLT3 phosphorylation by SU11248 in acute myeloid leukemia patients.
+PURPOSE: Obtaining direct and rapid proof of molecular activity in early clinical trials is critical for optimal clinical development of novel targeted therapies.
+SU11248 is an oral multitargeted kinase inhibitor with selectivity for fms-related tyrosine kinase 3/Flk2 (FLT3), platelet-derived growth factor receptor alpha/beta, vascular endothelial growth factor receptor 1/2, and KIT receptor tyrosine kinases.
+FLT3 is a promising candidate for targeted therapy in acute myeloid leukemia (AML), because activating mutations occur in up to 30% of patients.
+We conducted an innovative single-dose clinical study with a primary objective to demonstrate inhibition of FLT3 phosphorylation by SU11248 in AML.
+EXPERIMENTAL DESIGN: Twenty-nine AML patients each received a single dose of SU11248, escalated from 50 to 350 mg, in increments of 50 mg and cohorts of three to six patients.
+FLT3 phosphorylation and plasma pharmacokinetics were evaluated at seven time points over 48 h after SU11248 administration, and FLT3 genotype was determined.
+Study drug-related adverse events occurred in 31% of patients, mainly grade 1 or 2 diarrhea and nausea, at higher dose levels.
+RESULTS: Inhibition of FLT3 phosphorylation was apparent in 50% of FLT3-wild-type (WT) patients and in 100% of FLT3-mutant patients.
+FLT3 internal tandem duplication (ITD) mutants showed increased sensitivity relative to FLT3-WT, consistent with preclinical predictions.
+The primary end point, strong inhibition of FLT3 phosphorylation in >50% patients, was reached in 200 mg and higher dose cohorts.
+Downstream signaling pathways were also inhibited; signal transducer and activator of transcription 5 (STAT5) was reduced primarily in internal tandem duplication patients and at late time points in FLT3-WT patients, whereas extracellular signal-regulated kinase (ERK) activity was reduced in the majority of patients, independent of FLT3 inhibition.
+CONCLUSIONS: This novel translational study bridges preclinical models to the patient setting and provides the first evidence of anti-FLT3 activity in patients.
+Proof of target inhibition accomplishes a crucial milestone in the development of novel oncology therapeutics.

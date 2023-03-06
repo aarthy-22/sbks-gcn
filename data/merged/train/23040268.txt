@@ -1,0 +1,17 @@
+Lipoprotein(a) metabolism: potential sites for therapeutic targets.
+Lipoprotein(a) [Lp(a)] resembles low-density lipoprotein (LDL), with an LDL lipid core and apolipoprotein B (apoB), but contains a unique apolipoprotein, apo(a).
+Elevated Lp(a) is an independent risk factor for coronary and peripheral vascular diseases.
+The size and concentration of plasma Lp(a) are related to the synthetic rate, not the catabolic rate, and are highly variable with small isoforms associated with high concentrations and pathogenic risk.
+Apo(a) is synthesized in the liver, although assembly of apo(a) and LDL may occur in the hepatocytes or plasma.
+While the uptake and clearance site of Lp(a) is poorly delineated, the kidney is the site of apo(a) fragment excretion.
+The structure of apo(a) has high homology to plasminogen, the zymogen for plasmin and the primary clot lysis enzyme.
+Apo(a) interferes with plasminogen binding to C-terminal lysines of cell surface and extracellular matrix proteins.
+Lp(a) and apo(a) inhibit fibrinolysis and accumulate in the vascular wall in atherosclerotic lesions.
+The pathogenic role of Lp(a) is not known.
+Small isoforms and high concentrations of Lp(a) are found in healthy octogenarians that suggest Lp(a)
+may also have a physiological role.
+Studies of Lp(a) function have been limited since it is not found in commonly studied small mammals.
+An important aspect of Lp(a) metabolism is the modification of circulating Lp(a), which has the potential to alter the functions of Lp(a).
+There are no therapeutic drugs that selectively target elevated Lp(a), but a number of possible agents are being considered.
+Recently, new modifiers of apo(a) synthesis have been identified.
+This review reports the regulation of Lp(a) metabolism and potential sites for therapeutic targets.

@@ -1,0 +1,7 @@
+Differential haemodynamic effects induced by beta 1-(bisoprolol) or beta 2-(ICI 118,551) adrenoceptor blockade in man.
+To characterize beta 1- and beta 2-adrenoceptor mediated effects in man the influence of the selective beta 1-adrenoceptor antagonist bisoprolol and the selective beta 2-adrenoceptor antagonist ICI 118,551 on changes in blood pressure, heart rate and lymphocyte beta 2-adrenoceptor density evoked by dynamic exercise or isoprenaline infusion was studied in 12 male normotensive volunteers.
+Bisoprolol administration (1 X 10 mg/day) did not affect lymphocyte beta 2-adrenoceptor density, while ICI 118,551 (3 X 25 mg/day) increased it by about 40%.
+Exercise as well as isoprenaline infusion caused 100% increases in lymphocyte beta 2-adrenoceptor density; these increases were completely abolished by ICI 118,551, but not affected by bisoprolol.
+ICI 118,551 markedly attenuated isoprenaline-induced decrease in diastolic blood pressure, but did not affect increase in systolic blood pressure; on the contrary, bisoprolol inhibited the isoprenaline-evoked increase in systolic blood pressure, but did not affect the decrease in diastolic blood pressure.
+ICI 118,551 antagonized the isoprenaline-induced tachycardia much more potently than bisoprolol, while bisoprolol, but not ICI 118,551, suppressed exercise-induced tachycardia.
+It is concluded that exercise-induced tachycardia is mediated by cardiac beta 1-adrenoceptor stimulation, whereas isoprenaline-induced tachycardia is mediated by both beta 1- and beta 2-adrenoceptor stimulation.

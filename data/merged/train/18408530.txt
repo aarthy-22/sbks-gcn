@@ -1,0 +1,8 @@
+Clinical evidence for serotonin and norepinephrine reuptake inhibition of duloxetine.
+Most antidepressants in clinical use are believed to function by enhancing neurotransmission of serotonin [5-hydroxytryptamine (5-HT)] and/or norepinephrine (NE) via inhibition of neurotransmitter reuptake.
+Agents that affect reuptake of both 5-HT and NE (serotonin-norepinephrine reuptake inhibitors) have been postulated to offer greater efficacy for the treatment of major depressive disorder (MDD).
+These dual-acting agents also display a broader spectrum of action, including efficacy for MDD and associated painful physical symptoms, diabetic peripheral neuropathic pain, generalized anxiety disorder, and fibromyalgia syndrome.
+Substantial preclinical evidence shows that duloxetine, an approved drug for the treatment of MDD, generalized anxiety disorder, and the management of diabetic peripheral neuropathic pain, inhibits reuptake of both 5-HT and NE.
+This paper reviews clinical and neurochemical evidence of duloxetine's effects on 5-HT and NE reuptake inhibition.
+The clinical evidence supporting duloxetine's effects on NE reuptake inhibition includes indirect measures such as altered excretion of NE metabolites, cardiovascular effects, and treatment-emergent adverse event profiles similar to those for other drugs believed to act through the inhibition of NE reuptake.
+In summary, the data presented in this report provide clinical evidence of a mechanism for duloxetine involving both 5-HT and NE reuptake inhibition in humans and are consistent with preclinical evidence for 5-HT/NE reuptake inhibition.

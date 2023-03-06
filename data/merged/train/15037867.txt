@@ -1,0 +1,10 @@
+Inter-relationships of intermediate phenotypes for serotonin function, impulsivity, and a 5-HT2A candidate allele: His452Tyr.
+Central serotonin (5-hydroxytryptamine, 5-HT) function has a role in a range of genetically influenced psychiatric diagnoses and behaviors.
+Several human 5-HT receptor polymorphisms are 'candidate alleles', altering in vitro function, and potentially affecting behavior and drug response.
+The 5-HT(2A) His452Tyr polymorphism alters signal transduction, and has been associated with diminished efficacy of clozapine in schizophrenia.
+Another 5-HT(2A) receptor polymorphism consists of the silent thymidine-cytosine substitution (102T>C), which has been controversially associated with schizophrenia.
+We investigated the role of His452Tyr and the 102T>C in behavior and in vivo intermediate biochemical phenotypes.
+Intracellular 5-HT-induced Ca(2+) release by platelets and fenfluramine-induced prolactin release by pituitary were evaluated in 27 psychiatrically interviewed subjects (including both impulsive patients and controls) stratified by His452Tyr genotype and also genotyped for a second 5-HT(2A) polymorphism, 102T>C. Subjects with increased measures of impulsivity showed decreased postreceptor 5-HT function, as indicated by reduced 5-HT-induced Ca(2+) release, but no alteration in net 5-HT function, as measured by fenfluramine response.
+No significant effects of either polymorphism were associated with altered 5-HT-induced calcium response or fenfluramine-stimulated prolactin release.
+One available Tyr452/Tyr452 homozygote had diminished Ca(2+) release and one of the highest levels of fenfluramine response.
+Although not statistically significant, the effect of the T102C, but not the His452Tyr, genotype on prolactin level change over time was associated with a medium to large strength of association (treatment magnitude of T(2)=0.10), suggesting that further study is warranted.

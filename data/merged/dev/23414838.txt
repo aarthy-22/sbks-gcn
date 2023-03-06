@@ -1,0 +1,5 @@
+Discovery of a novel series of quinolone α7 nicotinic acetylcholine receptor agonists.
+High throughput screening led to the identification of a novel series of quinolone α7 nicotinic acetylcholine receptor (nAChR) agonists.
+Optimization of an HTS hit (1) led to 4-phenyl-1-(quinuclidin-3-ylmethyl)quinolin-2(1H)-one, which was found to be potent and selective.
+Poor brain penetrance in this series was attributed to transporter-mediated efflux, which was in turn due to high pKa.
+A novel 4-fluoroquinuclidine significantly lowered the pKa of the quinuclidine moiety, reducing efflux as measured by a Caco-2 assay.

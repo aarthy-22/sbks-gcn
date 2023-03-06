@@ -1,0 +1,12 @@
+Saturable active efflux by p-glycoprotein and breast cancer resistance protein at the blood-brain barrier leads to nonlinear distribution of elacridar to the central nervous system.
+The study objective was to investigate factors that affect the central nervous system (CNS) distribution of elacridar.
+Elacridar inhibits transport mediated by P-glycoprotein (P-gp) and breast cancer resistance protein (Bcrp) and has been used to study the influence of transporters on brain distribution of chemotherapeutics.
+Adequate distribution of elacridar across the blood-brain barrier (BBB) and into the brain parenchyma is necessary to target tumor cells in the brain that overexpress transporters and reside behind an intact BBB.
+We examined the role of P-gp and Bcrp on brain penetration of elacridar using Friend leukemia virus strain B wild-type, Mdr1a/b(-/-), Bcrp1(-/-), and Mdr1a/b(-/-)Bcrp1(-/-) mice.
+Initially, the mice were administered 2.5 mg/kg of elacridar intravenously, and the plasma and brain concentrations were determined.
+The brain-to-plasma partition coefficient of elacridar in the wild-type mice was 0.82, as compared with 3.5 in Mdr1a/b(-/-) mice, 6.6 in Bcrp1(-/-) mice, and 15 in Mdr1a/b(-/-)Bcrp1(-/-) mice, indicating that both P-gp and Bcrp limit the brain distribution of elacridar.
+The four genotypes were then administered increasing doses of elacridar, and the CNS distribution of elacridar was determined.
+The observed and model predicted maximum brain-to-plasma ratios (Emax) at the highest dose were not significantly different in all genotypes.
+However, the ED50 was lower for Mdr1a/b(-/-) mice compared with Bcrp1(-/-) mice.
+These findings correlate with the relative expression of P-gp and Bcrp at the BBB in these mice and demonstrate the quantitative enhancement in elacridar CNS distribution as a function of its dose.
+Overall, this study provides useful concepts for future applications of elacridar as an adjuvant therapy to improve targeting of chemotherapeutic agents to tumor cells in the brain parenchyma.

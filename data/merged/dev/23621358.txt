@@ -1,0 +1,7 @@
+GALACTOSYLATED MICELLES FOR A RIBAVIRIN PRODRUG TARGETING TO HEPATOCYTES.
+Polymeric micelles potentially able to carry to hepatocytes a ribavirin (RBV) prodrug, exploiting the presence of carbohydrate receptors, i.e., ASGPR, were prepared starting from a galactosylated polylactide-polyaminoacid conjugate.
+This latter was obtained by chemical reaction of alpha,beta-poly(N-2-hydroxyethyl) (2-aminoethylcarbamate)-DL-aspartamide (PHEA-EDA) with polylactic acid (PLA), and subsequent reaction with lactose, obtaining PHEA-EDA-PLA-GAL copolymer.
+To enhance the entrapment into obtained nanostructures, a hydrophobic RBV prodrug, i.e. RBV tripalmitate, was synthesized and its capability to release RBV in the presence of an adequate enzymatic activity was demonstrated.
+Liver-targeted RBV tripalmitate-loaded micelles were obtained in aqueous media at low PHEA-EDA-PLA-GAL copolymer concentration value with nanometric size.
+By in vitro experiments, the specificity of RBV tripalmitate-loaded PHEA-EDA-PLA-GAL micelles toward HepG2 was demonstrated by using a competitive inhibition assay in the presence of free GAL.
+This finding raises hope in terms of future micelles-based liver-targeted drug delivery strategy for the hepatitis C treatment.

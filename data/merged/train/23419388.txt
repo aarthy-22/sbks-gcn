@@ -1,0 +1,11 @@
+Danshen mediates through estrogen receptors to activate Akt and inhibit apoptosis effect of Leu27IGF-II-induced IGF-II receptor signaling activation in cardiomyoblasts.
+Post-menopausal women show dramatically increased cardiovascular disease morbidity (CVD).
+Danshen is used widely in China for the treatment of cardiovascular disorders, including coronary heart disease.
+Danshen possesses lipid-soluble biologically active components with a structure similar to 17β-estrodiol (E2).
+This study assesses whether the cardio-protection exerted by Danshen is mediated through the ERs within H9c2 cardiomyoblast cells.
+Cardiomyoblast cells pretreated with Fulvestrant (ICI 182,780), an estrogen receptor antagonist was applied to investigate the estrogenic activity of Danshen.
+The Danshen extract preventive effects on Leu27IGF-II-induced IGF-IIR signaling activator and H9c2 cell apoptosis were identified using TUNEL assay, JC-1 staining and Western blot assay.
+We found that Danshen extract treatments significantly enhanced phosphorylated Akt through estrogen receptor activation to inhibit Leu27IGF-II-induced calcineurin activation and block H9c2 cell apoptosis.
+Danshen extracts suppressed the IGF-IIR signaling proteins, pro-apoptotic proteins and reversed the mitochondrial membrane instability induced by Leu27IGF-II.
+However, the cardioprotective properties of Danshen to inhibit Leu27IGF-II-induced cell apoptosis and promote cell survival were attenuated by applying ICI, which suggests that the Danshen cardioprotective effect is mediated through estrogen receptors.
+All our data indicated that Danshen exerts strong estrogenic activity which can be considered a novel selective estrogen receptor modulator (SERM) against IGF2R signaling that blocks cardiac apoptosis.

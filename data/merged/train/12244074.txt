@@ -1,0 +1,13 @@
+TNF-alpha increases the carbohydrate sulfation of CD44: induction of 6-sulfo N-acetyl lactosamine on N- and O-linked glycans.
+CD44 and sulfation have both been implicated in leukocyte adhesion.
+In monocytes, the inflammatory cytokine tumor necrosis factor alpha (TNF-alpha) stimulates CD44 sulfation, and this correlates with the induction of CD44-mediated adhesion events.
+However, little is known about the sulfation of CD44 or its induction by inflammatory cytokines.
+We determined that TNF-alpha induces the carbohydrate sulfation of CD44.
+CD44 was established as a major sulfated cell surface protein on myeloid cells.
+In the SR91 myeloid cell line, the majority of CD44 sulfation was attributed to the glycosaminoglycan chondroitin sulfate.
+However, TNF-alpha stimulation increased CD44 sulfation two- to threefold, largely attributed to the increased sulfation of N- and O-linked glycans on CD44.
+Therefore, TNF-alpha induced a decrease in the percentage of CD44 sulfation due to chondroitin sulfate and an increase due to N- and O-linked sulfation.
+Furthermore, TNF-alpha induced the expression of 6-sulfo N-acetyl lactosamine (LacNAc)/Lewis x on these cells, which was detected by a monoclonal antibody after neuraminidase treatment.
+This 6-sulfo LacNAc/Lewis x epitope was induced on N-linked and (to a lesser extent) on O-linked glycans present on CD44.
+This demonstrates that CD44 is modified by sulfated carbohydrates in myeloid cells and that TNF-alpha modifies both the type and amount of carbohydrate sulfation occurring on CD44.
+In addition, it demonstrates that TNF-alpha can induce the expression of 6-sulfo N-acetyl glucosamine on both N- and O-linked glycans of CD44 in myeloid cells.

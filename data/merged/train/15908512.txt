@@ -1,0 +1,12 @@
+Beta1 adrenergic receptor-mediated enhancement of hippocampal CA3 network activity.
+Norepinephrine is an endogenous neurotransmitter distributed throughout the mammalian brain.
+In higher cortical structures such as the hippocampus, norepinephrine, via beta adrenergic receptor (AR) activation, has been shown to reinforce the cognitive processes of attention and memory.
+In this study, we investigated the effect of beta1AR activation on hippocampal cornu ammonis 3 (CA3) network activity.
+AR expression was first determined using immunocytochemistry with antibodies against beta1ARs, which were found to be exceptionally dense in hippocampal CA3 pyramidal neurons.
+CA3 network activity was then examined in vitro using field potential recordings in rat brain slices.
+The selective betaAR agonist isoproterenol caused an enhancement of hippocampal CA3 network activity, as measured by an increase in frequency of spontaneous burst discharges recorded in the CA3 region.
+In the presence of alphaAR blockade, concentration-response curves for isoproterenol, norepinephrine, and epinephrine suggested that a beta1AR was involved in this response, and the rank order of potency was isoproterenol > norepinephrine = epinephrine.
+Finally, equilibrium dissociation constants (pK(b)) of subtype-selective betaAR antagonists were functionally determined to characterize the AR subtype modulating hippocampal CA3 activity.
+The selective beta1AR antagonists atenolol and metoprolol blocked isoproterenol-induced enhancement, with apparent K(b) values of 85 +/- 36 and 3.9 +/- 1.7 nM, respectively.
+In contrast, the selective beta2AR antagonists ICI-118,551 and butoxamine inhibited isoproterenol-mediated enhancement with apparent low affinities (K(b) of 222 +/- 61 and 9268 +/- 512 nM, respectively).
+Together, this pharmacological profile of subtype-selective betaAR antagonists indicates that in this model, beta1AR activation is responsible for the enhanced hippocampal CA3 network activity initiated by isoproterenol.

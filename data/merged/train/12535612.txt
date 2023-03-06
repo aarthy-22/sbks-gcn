@@ -1,0 +1,13 @@
+Distinctive interactions in the holoenzyme formation for two isoforms of glutamate decarboxylase.
+The interactions between glutamate decarboxylase (GAD) and its cofactor pyridoxal phosphate (PLP) play a key role in the regulation of GAD activity.
+The enzyme has two isoforms, GAD65 and GAD67.
+A comparison of binding constants, rate constants, and kinetic profiles for the formation of holoenzyme (holoGAD65 and holoGAD67) revealed that the two isoforms interact distinctively with the cofactor.
+GAD67 exhibits a higher binding constant for PLP binding, making it more difficult to dissociate PLP from holoGAD67 than holoGAD65.
+Meanwhile, PLP binding occurs at a much slower rate for GAD67 than GAD65, as evidenced by lower rate constants and a slower initial rate of the holoenzyme formation.
+Job's plots revealed a stoichiometry of 1:1 for PLP binding to GAD65 before and after the saturation level of PLP, while 1:2 for PLP binding to GAD67 prior to the saturation of PLP and 1:1 at the saturation level of PLP.
+These results suggested that the two binding sites of GAD65 exhibit similar affinities for PLP.
+In contrast, one binding site of GAD67 exhibits a significantly higher affinity for PLP than the other binding site.
+Based on these findings, it was proposed that a slower PLP binding to GAD67 than GAD65 and a less ease to dissociate PLP from holoGAD67 than holoGAD65 are important underlying factors.
+This attributes to GAD67 being more highly saturated by PLP and GAD65 being less saturated by PLP.
+A larger conformation change constant for GAD67 than GAD65 supported a significant conformational change induced by the initial PLP binding to GAD67, which affects the other binding site affinity of GAD67.
+The present studies provided valuable insights into distinctive properties between the two isoforms of GAD.

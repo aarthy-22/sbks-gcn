@@ -1,0 +1,12 @@
+A selective dopamine reuptake inhibitor improves prefrontal cortex-dependent cognitive function: potential relevance to attention deficit hyperactivity disorder.
+Drugs used to treat attention deficit hyperactivity disorder (ADHD) improve prefrontal cortex (PFC)-dependent cognitive function.
+The majority of ADHD-related treatments act either as dual norepinephrine (NE) and dopamine (DA) reuptake inhibitors (psychostimulants) or selective NE reuptake inhibitors (SNRIs).
+Certain benztropine analogs act as highly selective DA reuptake inhibitors while lacking the reinforcing actions, and thus abuse potential, of psychostimulants.
+To assess the potential use of these compounds in the treatment of ADHD, we examined the effects of a well-characterized benztropine analog, AHN 2-005, on performance of rats in a PFC-dependent delayed-alternation task of spatial working memory.
+Similar to that seen with all drugs currently approved for ADHD, AHN 2-005 dose-dependently improved performance in this task.
+Clinically-relevant doses of psychostimulants and SNRIs elevate NE and DA preferentially in the PFC.
+Despite the selectivity of this compound for the DA transporter, additional microdialysis studies demonstrated that a cognition-enhancing dose of AHN 2-005 that lacked locomotor activating effects increased extracellular levels of both DA and NE in the PFC.
+AHN 2-005 produced a larger increase in extracellular DA in the nucleus accumbens, although the magnitude of this was well below that seen with motor activating doses of psychostimulants.
+Collectively, these observations suggest that benztropine analogs may be efficacious in the treatment of ADHD or other disorders associated with PFC dysfunction.
+These studies provide a strong rationale for future research focused on the neural mechanisms contributing to the cognition-enhancing actions and the potential clinical utility of AHN 2-005 and related compounds.
+This article is part of a Special Issue entitled 'Cognitive Enhancers'.

@@ -1,0 +1,8 @@
+Improved self-healing of polyethylene/carbon black nanocomposites by their shape memory effect.
+In this work, the improved self-healing of cross-linked polyethylene (PE) (cPE)/carbon black (CB) nanocomposites by their shape memory effect (SME) is investigated.
+CB nanoparticles are found to be homogeneously dispersed in the PE matrix and significantly increase the strength of the materials.
+Compared with the breaking of linear PE (lPE) at the melting temperature (T(m)), the cPE and cPE/CB nanocomposites still have high strength above T(m) due to the formation of networks.
+The cPE and cPE/CB nanocomposites show both high strain fixity ratio (R(f)) and high strain recovery ratio (R(r)).
+Crystallization-induced elongation is observed for all the prepared shape memory polymer (SMP) materials and the effect becomes less remarkable with increasing volume fraction of CB nanoparticles (v(CB)).
+The scratch self-healing tests show that the cross-linking of PE matrix, the addition of CB nanoparticles, and the previous stretching in the direction perpendicular to the scratch favor the closure of the scratch and its complete healing.
+This SME-aided self-healing could have potential applications in diverse fields such as coating and structure materials.

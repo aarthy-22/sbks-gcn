@@ -1,0 +1,11 @@
+Fetal PGC-1α overexpression programs adult pancreatic β-cell dysfunction.
+Adult β-cell dysfunction, a hallmark of type 2 diabetes, can be programmed by adverse fetal environment.
+We have shown that fetal glucocorticoids (GCs) participate in this programming through inhibition of β-cell development.
+Here we have investigated the molecular mechanisms underlying this regulation.
+We showed that GCs stimulate the expression of peroxisome proliferator-activated receptor-γ coactivator-1α (PGC-1α), a coregulator of the GCs receptor (GR), and that the overexpression of PGC-1α represses genes important for β-cell development and function.
+More precisely, PGC-1α inhibited the expression of the key β-cell transcription factor pancreatic duodenal homeobox 1 (Pdx1).
+This repression required the GR and was mediated through binding of a GR/PGC-1α complex to the Pdx1 promoter.
+To explore PGC-1α function, we generated mice with inducible β-cell PGC-1α overexpression.
+Mice overexpressing PGC-1α exhibited at adult age impaired glucose tolerance associated with reduced insulin secretion, decreased β-cell mass, and β-cell hypotrophy.
+Interestingly, PGC-1α expression in fetal life only was sufficient to impair adult β-cell function whereas β-cell PGC-1α overexpression from adult age had no consequence on β-cell function.
+Altogether, our results demonstrate that the GR and PGC-1α participate in the fetal programming of adult β-cell function through inhibition of Pdx1 expression.

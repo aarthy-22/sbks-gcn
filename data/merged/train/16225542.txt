@@ -1,0 +1,13 @@
+The effects of alpha-adrenoceptor antagonists on the urethral perfusion pressure of the female rat.
+OBJECTIVE: To assess the effects of alpha(1A)-adrenoceptor antagonists on urethral perfusion pressure (UPP) in the female rate and their therapeutic potential for treating female bladder outlet obstruction (BOO).
+MATERIALS AND METHODS: A cannula was inserted into the femoral arteries of female rats to administer tamsulosin (group I), doxazosin (group II) or phentolamine (group III) and to monitor systemic blood pressure.
+Tamsulosin was also administered to male rats (group IV).
+UPP and vesical pressures (Pves) were monitored using a triple-lumen catheter.
+RESULTS: After administration of tamsulosin to group I the frequency of bladder contractions decreased significantly and the duration of minimal urethral relaxation with high-frequency oscillations (HFOs) was significantly prolonged.
+Except for mean arterial blood pressure (MAP), none of the variables in group I differed significantly from those in group II and group III.
+The change in MAP after tamsulosin treatment was significantly lower than after doxazosin or phentolamine.
+Except for the maximum Pves, which was significantly higher in males (group IV) than in females of group I, the UPP and Pves curves of male rats were similar to those of females before giving tamsulosin.
+The prolonged frequency and duration of HFO in group IV (with tamsulosin) were significantly different from those of females.
+CONCLUSIONS: The alpha(1A)-adrenergic receptor may be a functional subtype in the female rat urethra.
+alpha(1A)-adrenoceptor antagonists prolonged the duration of HFOs and decreased the frequency of involuntary bladder contraction.
+It is possible that treatment with alpha(1A)-adrenoceptor antagonists would not only improve obstructive symptoms, but also ameliorate irritative symptoms by prolonging HFOs and the frequency of involuntary bladder contractions.

@@ -1,0 +1,10 @@
+Effects of lactational and/or in utero exposure to environmental contaminants on the glucocorticoid stress-response and DNA methylation of the glucocorticoid receptor promoter in male rats.
+Perinatal events can reprogram the hypothalamo-pituitary-adrenal axis for the entire lifespan leading to abnormal glucocorticoid stress-response (GSR) in adulthood: a phenomenon reported to be mediated by changes in DNA methylation of the glucocorticoid receptor (GR) gene promoter.
+We examined whether in utero and/or lactational exposure to mixtures of environmental contaminants can also induce abnormal GSR during adulthood.
+The experiment included nine treatment groups.
+From gestation day (GD) 0 until postnatal day (PND) 20, dams were fed daily with a cookie laced with corn oil (control) or a chemical mixture (M) [polychlorinated biphenyls (PCBs), organochlorine pesticides, and methylmercury] at 0.5 or 1.0mg/kg/day (0.5M, and M).
+At birth, some control (C) and M litters were cross-fostered to create four groups with the following in utero/postnatal exposure: C/C, M/C, C/M, M/M. Other dams received 1.8ng/kg/day of a mixture of aryl hydrocarbon receptor (AhR) agonists (non-ortho PCBs, PC-dibenzodioxins and PC-dibenzofurans) without or with 0.5M (0.5MAhR).
+In adult male offspring the abundance of GR in treated groups was not different from the control, but the AhR and M groups were significantly different from each other with opposite effects in the hippocampus and liver.
+There was no change in DNA methylation of the GR promoter (exon-17 and -110).
+Abnormal GSRs were detected in the AhR, 0.5MAhR, CM, and MM groups.
+The literature associates abnormal GSR with metabolic and mental health impairments, thus these results support further investigation of the influence of developmental exposure to environmental contaminants and predisposition to stress-induced diseases.

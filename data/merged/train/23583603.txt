@@ -1,0 +1,9 @@
+Agonistic activity of ICI 182 780 on activation of GSK 3β/AKT pathway in the rat uterus during the estrous cycle.
+We examined the ability of ICI 182,780 (ICI) to block uterine cell proliferation via protein kinase b/AKT pathway in the uterus of the rat during the estrous cycle.
+Intact rats, with regular estrous cycles, received a subcutaneous (s.c.) injection of either vehicle or ICI at 08:00h on the day of proestrus or at 00:00h on the day of estrus and sacrificed at 13:00h of metaestrus.
+Estradiol (E2) and progesterone (P4) plasma levels were measured by radioimmunoassay.
+Both ICI treatments, induced a significant decrease (p<0.01) in uterine estrogen receptor alpha (ERα) content, had no effect on uterine progesterone receptor (PR) protein expression and caused marked nuclear localization of cyclin D1, in both luminal and glandular uterine epithelium, as compared to vehicle-treated animals.
+Furthermore, we detected that ICI treatment induced glycogen synthase kinase (Gsk3-β) Ser 9 phosphorylation, which correlates with cyclin D1 nuclear localization.
+However, some differences were observed between the two different time schedules of administration.
+We observed that the administration of ICI at 08:00h on proestrus day produced a 15% inhibition of luminal epithelial cell proliferation, reduced uterine wet weight by 21% and caused reduction of Akt phosphorylation at Ser 473 as compared to vehicle-treated animals, whereas ICI treatment at 00:00h on estrus day had no effect on these parameters.
+The overall results indicate that ICI may exert agonistic and antagonistic effects on uterine cell proliferation through differential activation of the Akt pathway depending on the administration period during the estrous cycle, and indicates that the mechanism of cell proliferation during the physiological conditions of the estrous cycle, is under a different and more complex regulation than in the ovariectomized +E2 animal model.

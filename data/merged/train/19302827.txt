@@ -1,0 +1,10 @@
+Novel signaling pathways promote a paracrine wave of prostacyclin-induced vascular smooth muscle differentiation.
+The important athero-protective role of prostacyclin is becoming increasingly evident as recent studies have revealed adverse cardiovascular effects in mice lacking the prostacyclin receptor, in patients taking selective COX-2 inhibitors, and in patients in the presence of a dysfunctional prostacyclin receptor genetic variant.
+We have recently reported that this protective mechanism includes the promotion of a quiescent differentiated phenotype in human vascular smooth muscle cells (VSMC).
+Herein, we address the intriguing question of how localized endothelial release of the very unstable eicosanoid, prostacyclin, exerts a profound effect on the vascular media, often 30 cell layers thick.
+We report a novel PKA-, Akt-1- and ERK1/2-dependent prostacyclin-induced prostacyclin release that appears to play an important role in propagation of the quiescent, differentiated phenotype through adjacent arterial smooth muscle cells in the vascular media.
+Treating VSMC with the prostacyclin analog iloprost induced differentiation (contractile protein expression and contractile morphology), and also up-regulated COX-2 expression, leading to prostacyclin release by VSMC.
+This paracrine prostacyclin release, in turn, promoted differentiation and COX-2 induction in neighboring VSMC that were not exposed to iloprost.
+Using siRNA and pharmacologic inhibitors, we report that this positive feedback mechanism, prostacyclin-induced prostacyclin release, is mediated by cAMP/PKA signaling, ERK1/2 activation, and a novel prostacyclin receptor signaling pathway, inhibition of Akt-1.
+Furthermore, these pathways appear to be regulated by the prostacyclin receptor independently of one another.
+We conclude that prevention of de-differentiation and proliferation through a paracrine positive feedback mechanism is a major cardioprotective function of prostacyclin.

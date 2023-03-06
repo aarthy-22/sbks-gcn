@@ -1,0 +1,16 @@
+Investigating the regulation of one-carbon metabolism in Arabidopsis thaliana.
+Serine (Ser) biosynthesis in C(3) plants can occur via several pathways.
+One major route involves the tetrahydrofolate (THF)-dependent activities of the glycine decarboxylase complex (GDC, EC 2.1.1.10) and serine hydroxymethyltransferase (SHMT, EC 2.1.2.1) with glycine (Gly) as one-carbon (1-C) source.
+An alternative THF-dependent pathway involves the C1-THF synthase/SHMT activities with formate as 1-C source.
+Here, we have investigated aspects of the regulation of these two folate-mediated pathways in Arabidopsis thaliana (L.) Heynh.
+Columbia using two approaches.
+Firstly, transgenic plants overexpressing formate dehydrogenase (FDH, EC 1.2.1.2) were used to continue our previous studies on the function of FDH in formate metabolism.
+The formate pool size was approximately 73 nmol (g FW)(-1) in wild type (WT) Arabidopsis plants; three independent transgenic lines had similar-sized pools of formate.
+Transgenic plants produced more (13)CO(2) from supplied [(13)C]formate than did WT plants but were not significantly different from WT plants in their synthesis of Ser.
+We concluded that FDH has no direct role in the regulation of the above two pathways of Ser synthesis; the breakdown of formate to CO(2) by the FDH reaction is the primary and preferred fate of the organic acid in Arabidopsis.
+The ratio between the GDC/SHMT and C1-THF synthase/SHMT pathways of Ser synthesis from [alpha-(13)C]Gly and [(13)C]formate, respectively, in Arabidopsis shoots was 21 : 1; in roots, 9 : 1.
+In shoots, therefore, the pathway from formate plays only a small role in Ser synthesis; in the case of roots, results indicated that the 9 : 1 ratio was as a result of greater fluxes of (13)C through both pathways together with a relatively higher contribution from the C1-THF synthase/SHMT route than in shoots.
+We also examined the synthesis of Ser in a GDC-deficient mutant of Arabidopsis (glyD) where the GDC/SHMT pathway was impaired.
+Compared with WT, glyD plants accumulated 5-fold more Gly than WT after supplying [alpha-(13)C]Gly for 24 h; the accumulation of Ser from [alpha-(13)C]Gly was reduced by 25% in the same time period.
+On the other hand, the accumulation of Ser through the C1-THF synthase/SHMT pathway in glyD plants was 2.5-fold greater than that in WT plants.
+Our experiments confirmed that the GDC/SHMT and C1-THF synthase/SHMT pathways normally operate independently in Arabidopsis plants but that when the primary GDC/SHMT pathway is impaired the alternative C1-THF synthase/SHMT pathway can partially compensate for deficiencies in the synthesis of Ser.

@@ -1,0 +1,8 @@
+Sub-nanomolar Detection of Prostate Specific Membrane Antigen in Synthetic Urine by Synergistic, Dual Ligand Phage.
+The sensitive detection of cancer biomarkers in urine could revolutionize cancer diagnosis and treatment.
+Such detectors must be inexpensive, easy to interpret, and sensitive.
+This report describes a bioaffinity matrix of viruses integrated into PEDOT films for electrochemical sensing of prostate specific membrane antigen (PSMA), a prostate cancer biomarker.
+High sensitivity to PSMA resulted from synergistic action by two different ligands to PSMA on the same phage particle.
+One ligand was chemically synthesized and wrapped around the phage, and the second was genetically encoded.
+The dual ligands result in a bidentate binder with high copy, dense ligand display for enhanced PSMA detection through a chelate-based, avidity effect.
+Biosensing with virus-PEDOT films provides a 100 pM limit of detection for PSMA in synthetic urine without requiring enzymatic or other amplification.

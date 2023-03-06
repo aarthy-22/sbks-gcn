@@ -1,0 +1,24 @@
+Yttrium-90-ibritumomab tiuxetan radioimmunotherapy: a new treatment approach for B-cell non-Hodgkin's lymphoma.
+This article will review the clinical development of ibritumomab tiuxetan, a yttrium-90-conjugated monoclonal antibody to CD20, for patients with relapsed B-cell non-Hodgkin's lymphomas.
+Ibritumomab is the murine parent anti-CD20 antibody that was engineered to make the human chimeric antibody rituximab.
+Tiuxetan is an MX-DTPA chelator that is linked to ibritumomab to form ibritumomab tiuxetan.
+Since yttrium-90 ((90)Y) is a pure beta emitter and cannot be used for patient imaging, indium-111 ((111)In) is chelated to ibritumomab tiuxetan for tumor and normal organ imaging in clinical practice and for dosimetry in clinical trials.
+(90)Y-ibritumomab tiuxetan is the form used for therapy.
+This review discusses the clinical trials that have demonstrated the efficacy of ibritumomab tiuxetan and summarizes the safety data in patients with relapsed B-cell non-Hodgkin's lymphomas.
+Two phase I trials of (90)Y-ibritumomab tiuxetan were conducted to establish the toxicity profile and the maximum tolerated single dose that could be administered to outpatients without the use of stem cells or prophylactic growth factors.
+In the first trial, cold ibritumomab was used prior to ibritumomab tiuxetan; the second trial used the human chimeric antibody rituximab.
+The phase I trials determined that in patients with a platelet count of greater than or equal to 150 x 10(9)/l, a schedule of intravenous rituximab 250 mg/m(2) on days 1 and 8, and 0.4 mCi/ kg of intravenous (90)Y-ibritumomab tiuxetan on day 8 was safe and efficacious and did not require stem cells.
+A dose of 0.3 mCi/kg was recommended for patients with a baseline platelet count of 100,000- 149,000 x 10(6)/l.
+Adverse events were primarily hematologic, and nonhematologic adverse events were primarily due to rituximab.
+There was no normal organ toxicity.
+The overall response rate was 67% for all patients and 82% in patients with low-grade non-Hodgkin's lymphomas.
+A subsequent phase III trial randomized 143 eligible patients to either rituximab or ibritumomab tiuxetan.
+The aim was to demonstrate that the addition of the yttrium-90 radioisotope to the antibody provided additional efficacy over the unconjugated ("cold") rituximab alone.
+The results of this study showed an overall response rate of 80% with (90)Y-ibritumomab tiuxetan versus 56% for rituximab (p = 0.002).
+An additional trial enrolled 54 patients who were nonresponsive or refractory to rituximab and treated the patients with a single dose of 0.4 mCi/kg (90)Y-ibritumomab tiuxetan.
+An overall response rate of 74% was found in these rituximab-refractory patients.
+These data provide further evidence of the added value of the yttrium-90.
+Finally, a fifth trial treated 30 patients with mild thrombocytopenia using 0.3 mCi/kg (90)Y-ibritumomab tiuxetan and found an overall response rate of 83%.
+(90)Y-ibritumomab tiuxetan radioimmunotherapy is a new treatment modality for patients with relapsed B-cell non-Hodgkin's lymphoma.
+The advantages of this therapy are that it utilizes targeted radiation in a single-dose, outpatient schedule that is well tolerated and accepted by the patient.
+Future trials will build on these results and determine at what point in the disease course this modality can best be utilized to maximize the benefits to the patient.

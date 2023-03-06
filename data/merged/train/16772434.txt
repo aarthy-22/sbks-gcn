@@ -1,0 +1,8 @@
+Epigenetic regulation of chromatin structure and gene function by biotin.
+Covalent modifications of histones are a crucial component of epigenetic events that regulate chromatin structures and gene function.
+Evidence exists that distinct lysine residues in histones are modified by covalent attachment of the vitamin biotin, catalyzed by biotinidase and holocarboxylase synthetase.
+Biotinylation of histones appears to be conserved across species.
+The following biotinylation sites were identified using both MS and enzymatic biotinylation of synthetic peptides: K9, K13, K125, K127, and K129 in histone H2A; K4, K9, and K18 in histone H3; and K8 and K12 in histone H4.
+Evidence was provided that biotinylated histone H4 is enriched in pericentromeric heterochromatin, and that biotinylation of histone H4 participates in gene silencing, mitotic condensation of chromatin, and the cellular response to DNA damage.
+Biotinylation of histones is a reversible process and depends on the exogenous biotin supply, but the identities of histone debiotinylases remain uncertain.
+We propose that some effects of biotin deficiency can be attributed to abnormal chromatin structures.

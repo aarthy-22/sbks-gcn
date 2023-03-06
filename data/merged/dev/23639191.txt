@@ -1,0 +1,16 @@
+Involvement of p-CREB and phase II detoxifying enzyme system in neuroprotection mediated by the flavonoid calycopterin isolated from Dracocephalum kotschyi.
+PURPOSE: There is an increasing amount of experimental evidence that oxidative stress has a central role in the neuropathology of neurodegenerative diseases.
+It has been suggested that the loss of cell function results from the increased oxidative damage to proteins and DNA.
+Herein, we investigated the effect of a natural neuroprotective flavonoid, calycopterin, on H2O2-induced disruption of phase II detoxifying enzyme system and cAMP response element binding protein (CREB) phosphorylation.
+METHODS: PC12 cells were treated with 25, 50 and 100μM of calycopterin for 3h, followed by adding H2O2 (150μM) for 24h.
+The extent of apoptosis was assessed by comet assay.
+The level of phosphorylated CREB, nuclear factor erythroid 2-related factor 2 (Nrf2), glutamylcysteine synthetase (γ-GCS) and heme oxygenase 1 (HO-1) were measured by western blot method.
+The concentration of glutathione (GSH) was determined in whole cell lysate using dithionitrobenzoic acid method.
+Superoxide dismutase (SOD) activity was measured by colorimetric assay.
+RESULT: Morphological analysis of protection induced by calycopterin, determined by comet assay, showed that calycopterin reduced DNA in tail.
+We found that H2O2 decreased mitochondrial membrane potential (MMP), while, calycopterin prevented this decrease in MMP in presence of H2O2.
+In H2O2-treated cells, calycopterin also suppressed cytochrome C release to cytosol that is necessary for maintaining mitochondrial homeostasis in survived cells.
+Moreover, calycopterin, in presence of H2O2 inhibited the decrease caused by oxidative stress in stress-sensing transcription factors, CREB and Nrf2, which play an important role in antioxidant capacity of the cell.
+There was also an increase in γ-GCS and HO-1 levels in calycopterin pretreated cells.
+In the presence of H2O2, calycopterin inhibited decrease in GSH level and SOD activity.
+CONCLUSION: We provided documentation of neuroprotective effect of a natural flavone, calycopterin, against H2O2-induced oxidative stress in differentiated PC12 cells by modulating the level of CREB phosphorylation and Nrf2 pathway.

@@ -1,0 +1,8 @@
+Regulation of retinal dehydrogenases and retinoic acid synthesis by cholesterol metabolites.
+Retinoic acid (RA) constitutes the major active ingredient of vitamin A and is required for various biological processes.
+The tissue RA level is maintained through a cascade of metabolic reactions where retinal dehydrogenases (RALDHs) catalyze the terminal reaction of RA biosynthesis from retinal, a rate-limiting step.
+We showed that dietary supplement of cholesterol enhanced the expression of RALDH1 and 2 genes and the cellular RA content in vital organs such as brain, kidney, liver and heart.
+Consistently, the cholesterol-lowering agent (pravastatin sodium) downregulated the expression of RALDH1 and 2 genes in several organs especially the liver and in cultured liver cells.
+Further, cholesterol metabolites, predominantly the oxysterols, the natural ligands for liver X receptor (LXR), induced these genes via upregulation of sterol regulatory element binding protein-1c (SREBP-1c) that bound to the regulatory regions of these genes.
+Knockdown of LXRalpha/beta or SREBP-1c downregulated the expression of RALDH genes, which could be rescued by re-expressing SREBP-1c, suggesting SREBP-1c as a direct positive regulator for these genes.
+This study uncovered a novel crosstalk between cholesterol and RA biosynthesis.

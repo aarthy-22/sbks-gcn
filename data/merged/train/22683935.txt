@@ -1,0 +1,9 @@
+Dendritic cell migration assay: a potential prediction model for identification of contact allergens.
+This manuscript describes methodology and a prediction model for the MUTZ-LC migration assay.
+The assay represents the physiological change in Langerhans cell (LC) behavior after exposure to a sensitizing chemical, resulting in LC migration from the epidermis to the dermis.
+MUTZ-LC are derived from the commercially available MUTZ-3 cell line.
+Upon exposure to a sensitizer MUTZ-LC migrate preferentially towards CXCL12 whereas upon exposure to a non-sensitizer MUTZ-LC migrate towards CCL5.
+A CXCL12/CCL5 ratio >1.10 in 2/3 independent experiments is indicative of a sensitizer, whereas a CXCL12/CCL5 ratio ≤1.10 is indicative of a non-sensitizer.
+At non cytotoxic chemical concentrations 9 sensitizers (2,4-dinitrochlorobenzene, paraphenylendiamine, cinnamaldehyde, isoeugenol, nickel-sulfate, tetramethylthiuram disulfide, eugenol, cinnamic-alcohol, ammonium-hexachloroplatinate) were distinguished from 4 non sensitizers (sodium lauryl sulfate, salicylic acid, phenol, octanoic acid).
+Critical points in assay performance are (i) MUTZ-3 passage number after thawing (p6-p40); (ii) cell viability (>80%); (iii) standard curve to optimize correlation of fluorescence with cell number; and (iv) optimization of the concentration of rhCXCL12 and rhCCL5 in transwell.
+The protocol has been tested in three European laboratories and results suggest that it may provide working conditions for performing the DC migration assay which is aimed at distinguishing sensitizers from non sensitizers.

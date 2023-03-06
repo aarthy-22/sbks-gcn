@@ -1,0 +1,9 @@
+Structural Basis for the ATP-Induced Isomerization of Kinesin.
+Kinesin superfamily proteins (KIFs) are microtubule-based molecular motors driven by the energy derived from the hydrolysis of ATP.
+Previous studies have revealed that the ATP binding step is crucial both for the power stroke to produce motility and for the inter-domain regulation of ATPase activity to guarantee the processive movement of dimeric KIFs.
+Here, we report the first crystal structure of KIF4 complexed with the non-hydrolyzable ATP analog, AMPPNP (adenylyl imidodiphosphate), at 1.7Å resolution.
+By combining our structure with previously solved KIF1A structures complexed with two ATP analogs, molecular snapshots during ATP binding reveal that the closure of the nucleotide-binding pocket during ATP binding is achieved by closure of the backdoor.
+Closure of the backdoor stabilizes two mobile regions, switch I and switch II, to generate the phosphate tube from which hydrolyzed phosphate is released.
+Through the stabilization of switch II, the local conformational change at the catalytic center is further relayed to the neck-linker element that fully docks to the catalytic core to produce the power stroke.
+Because the neck linker is a sole element that connects the partner heads in dimeric KIFs, this tight structural coordination between the catalytic center and neck linker enables inter-domain communication between the partner heads.
+This study also revealed the putative microtubule-binding site of KIF4, thus providing structural insights that describe the specific binding of KIF4 to the microtubule.

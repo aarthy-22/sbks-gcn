@@ -1,0 +1,15 @@
+Ventricular tachyarrhythmias in a canine model of LQT3: arrhythmogenic effects of sympathetic activity and therapeutic effects of mexiletine.
+The ventricular tachyarrhythmias associated with the LQT3 syndrome are typically bradycardia-dependent.
+However, some episodes can be associated with exercise or emotional stress, suggesting a different arrhythmogenic mechanism when sympathetic activity predominates.
+This study examined the potential arrhythmogenic mechanisms during periods of autonomically mediated transient heart rate acceleration in a canine anthopleurin-A model of LQT3 syndrome.
+Using plunge needle electrodes, transmural unipolar electrograms of the left ventricle were recorded from endocardial (Endo), mid-myocardial (Mid) and epicardial (Epi) sites.
+The activation-recovery interval (ARI) was measured to estimate local refractoriness.
+The cardiac cycle length was gradually shortened by cessation of vagal stimulation (vagal stimulation protocol (VSP)), and intramural electrograms and onset mode of ventricular tachyarrhythmias were analyzed in 7 experiments.
+The VSP was performed 8 times before and 5 times after administration of mexiletine in each experiment.
+Before mexiletine, vagal stimulation slowed the heart rate and created large transmural ARI dispersion because of a greater ARI prolongation at Mid rather than Epi/Endo sites.
+After cessation of vagal stimulation, unipolar electrograms started to show ARI alternans and ventricular premature beats developed sporadically.
+Sustained ventricular tachyarrhythmias were induced in 12 of the 56 trials of the VSP.
+Initiation of ventricular tachyarrhythmias was associated with delayed conduction at Mid/Endo sites.
+Mexiletine attenuated transmural ARI dispersion, and neither ARI alternans nor ventricular tachyarrhythmias was observed during all 35 trials of the VSP after mexiletine administration.
+Heart rate acceleration induced by an abrupt shift to a state of predominant sympathetic activity enhances arrhythmias in this LQT3 model.
+Mexiletine homogenizes ventricular repolarization, suppresses premature complexes and was antiarrhythmic during ventricular tachyarrhythmias induced by the VSP.

@@ -1,0 +1,9 @@
+Accumulation of glutathione disulfide mediates NF-kappaB activation during immune stimulation with CpG DNA.
+Innate immune cells recognize pathogens by detecting molecular patterns that are distinct from those of the host.
+One such pattern is unmethylated CpG dinucleotides, which are common in bacterial DNA but not in vertebrate genomes.
+Macrophages respond to such CpG motifs in bacterial DNA or synthetic oligodeoxynucleotides (ODN) by inducing NF-kappaB and secreting proinflammatory cytokines, such as interleukin-6 (IL-6) and tumor necrosis factor-alpha (TNF-alpha), but the mechanisms regulating this have been unclear.
+CpG ODN-stimulated cells produce reactive oxygen species (ROS) and have a decreased ratio of intracellular glutathione/glutathione disulfide (GSH/GSSG), indicating a shift to a more oxidized intracellular redox state.
+To determine whether this may play a role in mediating the CpG-induced macrophage activation, the GSH/GSSG redox state was manipulated in the murine macrophagelike cell line RAW264.7.
+Treatment of cells with BCNU to inhibit glutathione reductase (GR) enhanced the CpG-induced intracellular oxidation and decreased the GSH/GSSG, with increased activation of NF-kappaB and a doubling in the CpG-induced production of IL-6 and TNF-alpha.
+Experimental manipulation of the intracellular GSSG concentration during inhibition of cellular prooxidant production demonstrated that increased intracellular GSSG is a primary signal that is directly or indirectly required for CpG-induced NF-kappaB activation but is not in itself sufficient to trigger this in the absence of CpG ODN.
+These data suggest the existence of a second CpG-induced intracellular signal, independent of GSSG, mediating the activation of innate immunity by bacterial DNA.

@@ -1,0 +1,6 @@
+Regulation of gene expression by activation of the peroxisome proliferator-activated receptor gamma with rosiglitazone (BRL 49653) in human adipocytes.
+To better define the mechanism of action of the thiazolidinediones, we incubated freshly isolated human adipocytes with rosiglitazone and investigated the changes in mRNA expression of genes encoding key proteins of adipose tissue functions.
+Rosiglitazone (10(-6) M, 4 h) increased p85alphaphosphatidylinositol 3-kinase (p85alphaPI-3K) and uncoupling protein-2 mRNA levels and decreased leptin expression.
+The mRNA levels of insulin receptor, IRS-1, Glut 4, lipoprotein lipase, hormone-sensitive lipase, acylation-stimulating protein, fatty acid transport protein-1, angiotensinogen, plasminogen activator inhibitor-1, and PPARgamma1 and gamma2 were not modified by rosiglitazone treatment.
+Activation of RXR, the partner of PPARgamma, in the presence of rosiglitazone, increased further p85alphaPI-3K and UCP2 mRNA levels and produced a significant augmentation of Glut 4 expression.
+Because p85alphaPI-3K is a major component of insulin action, the induction of its expression might explain, at least in part, the insulin-sensitizing effect of the thiazolidinediones.

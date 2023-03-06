@@ -1,0 +1,6 @@
+A new series of N2-substituted-5-(p-toluenesulfonylamino)phthalimide analogues as α-glucosidase inhibitors.
+Several members of a new family of non-sugar-type α-glycosidase inhibitors, bearing a 5-(p-toluenesulfonylamino)phthalimide moiety and various substituent at the N2 position, were synthesized and their activities were investigated.
+The newly synthesized compounds displayed different inhibition profile towards yeast α-glycosidase and rat intestinal α-glycosidase.
+Almost all the compounds had strong inhibitory activities against yeast α-glycosidase.
+Regarding rat intestinal α-glycosidase, only analogs with N2-aromatic substituents displayed varying degrees of inhibitory activities on rat intestinal maltase and lactase and nearly all compounds showed no inhibition against rat intestinal α-amylase.
+Structure-activity relationship studies indicated that 5-(p-toluenesulfonylamino)phthalimide moiety is a favorable scaffold to exert the α-glucosidase inhibitory activity and substituents at the N2 position have considerable influence on the efficacy of the inhibition activities.

@@ -1,0 +1,11 @@
+Drug block of I(kr): model systems and relevance to human arrhythmias.
+The long QT-related arrhythmia torsades de pointes (TdP) can arise with mutations in HERG and during treatment with drugs that block cardiac I Kr, the current encoded by HERG.
+Multiple test systems have been used to assess drug block of I Kr.
+This study evaluated the I Kr blocking potency of a series of antiarrhythmics associated with a range of clinical risks of TdP in two such systems: mouse AT-1 cells (in which I Kr is the major repolarizing current) and Ltk cells transiently transfected with HERG (n = 4-10 cells per drug).
+For each compound, the concentration required to produce 50% block of I Kr or HERG tail currents (IC 50 ) was determined.
+There was an excellent correlation ( r = 0.98, p < 10 -5 ) between values obtained in the two systems.
+However, the relation between the liability of a drug to cause TdP appeared dissociated from I Kr blocking potency.
+Quinidine, dofetilide, ibutilide, procainamide, and disopyramide are all associated with TdP, but only the first three were potent blockers (IC 50 < or = 1 microM ), whereas procainamide and disopyramide were not (IC 50 > 50 microM ).
+Conversely, verapamil and amiodarone, drugs not associated with TdP, were also blockers (IC 50 < or = 1 microM ).
+We conclude that I Kr blocking potency can be readily assessed in either AT-1 cells or systems in which HERG is heterologously expressed.
+However, not all drugs causing TdP are potent I Kr blockers, and I Kr block is not necessarily associated with TdP. Other properties of these drugs, therefore, contribute to their propensity to cause TdP.

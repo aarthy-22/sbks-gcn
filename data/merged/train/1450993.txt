@@ -1,0 +1,6 @@
+[Antitumor photochemotherapy: biochemical bases, therapeutic uses and perspectives].
+The photodynamic therapy of tumors (PDT) is a recent and promising technique for the treatment of tumors which can be reached by the light (directly or by endoscopic illumination).
+Excellent results are now obtained with hematoporphyrin derivatives such as Photofrin II, provided the concerned tumors are small and well delimited.
+Porphyrins are transported in blood mainly by lipoproteins, and the low density lipoprotein (LDL) receptor-mediated pathway is probably one of the important factors involved in the selective accumulation of porphyrins by tumor tissues, as cancer cells generally express much more LDL receptors than normal cells.
+In the present paper, after a brief presentation of the biochemical basis of the light-dependent cytotoxicity of porphyrins, we shall examine the role of lipoproteins, especially LDL, in the transport and the cellular uptake of these compounds.
+We shall also present recent approaches for the improvement of the PDT efficiency.

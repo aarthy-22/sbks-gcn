@@ -1,0 +1,11 @@
+FAUC 213, a highly selective dopamine D4 receptor full antagonist, exhibits atypical antipsychotic properties in behavioural and neurochemical models of schizophrenia.
+RATIONALE: 2-[4-(4-Chlorophenyl)piperazin-1-ylmethyl]pyrazolo[1,5-a]pyridine (FAUC 213) is a highly selective antagonist at the dopamine D(4) receptor subtype.
+It was designed as a derivative of two partial antagonists and has been proven to be a complete antagonist in mitogenesis assay.
+OBJECTIVES: In the present study, FAUC 213 was examined for antipsychotic properties in animal models of behavioural neurobiology and neurochemistry.
+METHODS: Different concentrations of FAUC 213 were screened for effects on spontaneous, as well as amphetamine-induced, locomotor activity and apomorphine-induced prepulse disruption.
+The liability of causing extrapyramidal side effects was investigated in models of catalepsy and by high-performance liquid chromatography (HPLC) detection of dopamine turnover in several brain regions.
+The application schedule was validated, and the bioavailability of the compound determined, by means of a HPLC-pharmacokinetic study.
+RESULTS: A significant effect in both the reduction of amphetamine-induced locomotor hyperactivity and the restoration of apomorphine-disrupted prepulse inhibition was found at 30 mg/kg.
+This dose proved not to be high enough to induce catalepsy or to increase dopamine turnover in the dorsal striatum, nucleus accumbens and medial prefrontal cortex.
+The selective D(4) antagonist FAUC 213, therefore, is not believed to mediate the above-mentioned effects via D(2) receptor antagonism, but a partial involvement of 5-HT(2)- and alpha(1)-receptors cannot be ruled out at present.
+CONCLUSIONS: We have gathered evidence that FAUC 213 exhibits atypical antipsychotic characteristics.

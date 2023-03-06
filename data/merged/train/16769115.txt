@@ -1,0 +1,8 @@
+Reelin down-regulation in mice and psychosis endophenotypes.
+Reelin, a large glycoprotein secreted by telencephalic GABAergic neurons, plays an important role in neuronal guidance embryonically and in synaptic plasticity postnatally.
+The reeler heterozygous mouse (+/rl) appears superficially normal but has been of interest as an animal model for psychosis since the discovery that reelin is 50% down-regulated in postmortem psychotic brain.
+Brain abnormalities in +/rl are similar to psychotic brain and include a reduction in glutamic acid de carboxylase 67 (GAD67), dendritic arbors and spine density in cortex and hippocampus, and abnormalities in synaptic function including long-term potentiation (LTP).
+In spite of these abnormalities, behavioral abnormalities in +/rl are subtle and controversial.
+Recent findings indicate that the reelin (RELN) and GAD67 promoters are hypermethylated in GABAergic neurons of psychotic postmortem brain and that DNA methyltransferase 1 (DNMT1) is up-regulated.
+Hypermethlyation of RELN and GAD67 promoters can be induced by treating mice with methionine, and these mice display brain and behavioral abnormalities similar to +/rl.
+Thus, an animal model that combines genetic heterozygocity with epigenesis holds promise for understanding the role of Reelin down-regulation in psychosis.

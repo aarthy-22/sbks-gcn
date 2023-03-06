@@ -1,0 +1,8 @@
+In vitro evaluation of (99m)Tc-EDDA/tricine-HYNIC-Q-Litorin in gastrin-releasing peptide receptor positive tumor cell lines.
+Abstract Bombesin and its derivatives exhibit a high affinity for gastrin-releasing peptide receptor (GRPr), which is over-expressed in a variety of human cancers (prostate, pancreatic, lung, etc.).
+The aim of this study was to investigate the in vitro potential of the hydrazinonicotinamide (HYNIC)-Q-Litorin.
+(99m)Tc labeling was performed by using different co-ligands: tricine and ethylenediamine diacetic acid (EDDA).
+The radiochemical stability of radiolabeled peptide conjugates was checked at room temperature and in cysteine solution up to 24 h. The in vitro cell uptake of (99m)Tc-EDDA-HYNIC-Q-Litorin and (99m)Tc-tricine-HYNIC-Q-Litorin were evaluated on pancreatic tumor and control cell lines.
+Optimum specific activity and incubation time were determined for all the cell lines.
+The results showed that the cell uptake of the radiolabeled peptide conjugates in tumor cell lines were higher than in the control cell line.
+The findings of this study indicated the need for further development of in vivo study as a radiopharmaceutical for pancreatic tumor imaging.

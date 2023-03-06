@@ -1,0 +1,10 @@
+The discovery of novel human androgen receptor antagonist chemotypes using a combined pharmacophore screening procedure.
+Unraveling the mechanisms involved in castration- and therapy-resistant prostate cancer has led to a renewed interest in androgen receptor (AR)-targeted therapeutics.
+Anti-androgens that block the activity of the AR therefore remain a valid therapeutic option.
+However, they must be more effective than, or display a distinct mechanism of action or binding mode from those of bicalutamide and hydroxyflutamide, which are currently in clinical use.
+For that reason, the second-generation anti-androgen MDV3100 was developed.
+MDV3100, however, shares its 4-cyano-3-(trifluoromethyl)phenyl group with bicalutamide and hydroxyflutamide required for binding to the AR.
+In this work, we used a combined strategy to find new antagonist structures distinct from the 4-cyano-3-(trifluoromethyl)phenyl group to avoid cross-resistance for these compounds and to find structures without agonist activity on mutant ARs (AR W741C and AR T877A).
+We found two novel chemotypes with AR-antagonistic activity (IC(50): 3-6 μM) by virtual screening and confirmed their biological activity in an androgen-responsive reporter assay.
+The design of our computational approach was validated by the observation of strongly decreased or absence of agonistic activity on the two mutant ARs.
+Further structural derivatization to optimize the potency of these compounds can render these chemotypes into very promising, alternative AR antagonists for prostate cancer therapy.

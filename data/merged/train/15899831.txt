@@ -1,0 +1,12 @@
+AZD2171: a highly potent, orally bioavailable, vascular endothelial growth factor receptor-2 tyrosine kinase inhibitor for the treatment of cancer.
+Inhibition of vascular endothelial growth factor-A (VEGF) signaling is a promising therapeutic approach that aims to stabilize the progression of solid malignancies by abrogating tumor-induced angiogenesis.
+This may be accomplished by inhibiting the kinase activity of VEGF receptor-2 (KDR), which has a key role in mediating VEGF-induced responses.
+The novel indole-ether quinazoline AZD2171 is a highly potent (IC50 < 1 nmol/L) ATP-competitive inhibitor of recombinant KDR tyrosine kinase in vitro.
+Concordant with this activity, in human umbilical vein endothelial cells, AZD2171 inhibited VEGF-stimulated proliferation and KDR phosphorylation with IC50 values of 0.4 and 0.5 nmol/L, respectively.
+In a fibroblast/endothelial cell coculture model of vessel sprouting, AZD2171 also reduced vessel area, length, and branching at subnanomolar concentrations.
+Once-daily oral administration of AZD2171 ablated experimental (VEGF-induced) angiogenesis in vivo and inhibited endochondral ossification in bone or corpora luteal development in ovary; physiologic processes that are highly dependent upon neovascularization.
+The growth of established human tumor xenografts (colon, lung, prostate, breast, and ovary) in athymic mice was inhibited dose-dependently by AZD2171, with chronic administration of 1.5 mg per kg per day producing statistically significant inhibition in all models.
+A histologic analysis of Calu-6 lung tumors treated with AZD2171 revealed a reduction in microvessel density within 52 hours that became progressively greater with the duration of treatment.
+These changes are indicative of vascular regression within tumors.
+Collectively, the data obtained with AZD2171 are consistent with potent inhibition of VEGF signaling, angiogenesis, neovascular survival, and tumor growth.
+AZD2171 is being developed clinically as a once-daily oral therapy for the treatment of cancer.

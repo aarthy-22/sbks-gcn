@@ -1,0 +1,9 @@
+Novel therapeutic targets in non-small cell lung cancer.
+Oncogenic driver mutations frequently occur in lung cancer and play role in carcinogenesis.
+These mutations are usually associated with distinct clinical and histological features and are attractive targets for anticancer therapy.
+Recently, several molecularly distinct phenotypes of NSCLC based on specific and mutually exclusive genetic derangements have been described.
+Few targets like epidermal growth factor receptor (EGFR) mutations and anaplastic lymphoma kinase (ALK) gene rearrangements have successfully been targeted with EGFR tyrosine kinase inhibitors (TKIs) and crizotinib, respectively.
+Many more inhibitors of specific driver mutations involving genes like ROS, c-MET, FGFR, mTOR, IGFR and RET are currently under development.
+However, efforts to target some mutated genes like K-RAS have been unsuccessful.
+Moreover, the emerging challenge of acquired resistance to initially effective therapy is becoming another major concern.
+In this review recent data on novel molecular targets and their future prospects are discussed.

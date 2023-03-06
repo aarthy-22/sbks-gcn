@@ -1,0 +1,11 @@
+Molecular mechanisms of fibrosis-associated promotion of liver carcinogenesis.
+Hepatocellular carcinoma (HCC) mostly develops in patients with advanced fibrosis; however, the mechanisms of interaction between a genotoxic insult and fibrogenesis are not well understood.
+This study tested a hypothesis that fibrosis promotes HCC via a mechanism that involves activation of liver stem cells.
+First, B6C3F1 mice were administered diethylnitrosamine (DEN; single ip injection of 1mg/kg at 14 days of age).
+Second, carbon tetrachloride (CCl(4); 0.2ml/kg, 2/week ip starting at 8 weeks of age) was administered for 9 or 14 weeks to develop advanced liver fibrosis.
+In animals treated with DEN as neonates, presence of liver fibrosis led to more than doubling (to 100%) of the liver tumor incidence as early as 5 months of age.
+This effect was associated with activation of cells with progenitor features in noncancerous liver tissue, including markers of replicative senescence (p16), oncofetal transformation (Afp, H19, and Bex1), and increased "stemness" (Prom1 and Epcam).
+In contrast, the dose of DEN used did not modify the extent of liver inflammation, fibrogenesis, oxidative stress, proliferation, or apoptosis induced by subchronic CCl(4) administration.
+This study demonstrates the potential role of liver stem-like cells in the mechanisms of chemical-induced, fibrosis-promoted HCC.
+We posit that the combination of genotoxic and fibrogenic insults is a sensible approach to model liver carcinogenesis in experimental animals.
+These results may contribute to identification of cirrhotic patients predisposed to HCC by analyzing the expression of hepatic progenitor cell markers in the noncancerous liver tissue.

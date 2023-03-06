@@ -1,0 +1,9 @@
+Pseudoephedrine inhibits T-cell activation by targeting NF-kappaB, NFAT and AP-1 signaling pathways.
+Pseudoephedrine (PSE) is a stereoisomer of ephedrine that is commonly used as a nasal decongestant in combination with other anti-inflammatory drugs for the symptomatic treatment of some common pathologies such as common cold.
+Herein, we describe for the first time the effects of PSE on T-cell activation events.
+We found that PSE inhibits interleukin-2 (IL-2) and tumor necrosis factor (TNF) alpha-gene transcription in stimulated Jurkat cells, a human T-cell leukemia cell line.
+To further characterize the inhibitory mechanisms of PSE at the transcriptional level, we examined the transcriptional activities of nuclear factor kappa B (NF-kappaB), nuclear factor of activated T cells (NFAT), and activator protein-1 (AP-1) transcription factors and found that PSE inhibited NF-kappaB-dependent transcriptional activity without affecting either the phosphorylation, the degradation of the cytoplasmic NF-kappaB inhibitory protein, IkappaBalpha or the DNA-binding activity.
+However, phosphorylation of the p65/RelA subunit was clearly inhibited by PSE in stimulated cells.
+In addition, PSE inhibited the transcriptional activity of NFAT without interfering with the calcium-induced NFAT dephosphorylation event, which represents the major signaling pathway for its activation.
+NFAT cooperates with c-Jun, a compound of the AP-1 complex, to activate target genes, and we also found that PSE inhibited both JNK activation and AP-1 transcriptional activity.
+These findings provide new mechanistic insights into the potential immunomodulatory activities of PSE and highlight their potential in designing novel therapeutic strategies to manage inflammatory diseases.

@@ -1,0 +1,10 @@
+Effects of High Iron and Glucose Concentrations over the Relative Expression of Bcl2, Bax, and Mfn2 in MIN6 Cells.
+Type 2 diabetes is characterized by hyperglycemia and oxidative stress.
+Hyperglycemia is linked to mitochondrial dysfunction and reduced β-cell mass due to the reduced expression of genes such as Mfn2 as well as the participation of the Bcl2 gene family, responsible for increased apoptosis.
+The purpose of this study was to describe the effect of different iron and/or glucose concentrations over Mfn2, Bax, and Bcl2 expressions in a β-pancreatic cell line (MIN6 cells).
+MIN6 cells were pre-incubated with different iron and/or glucose concentrations, and the relative mRNA abundance of the Bcl2/Bax ratio and of Mfn2 genes was measured by qRT-PCR.
+Heme oxygenase (HO) activity, iron uptake, superoxide dismutase activity, and glutathione content were also determined.
+The Bcl2/Bax ratio increased and Mfn2 expression decreased in MIN6 cells after glucose stimulation.
+These effects were higher when glucose and iron were incubated together.
+Additionally, treatment with glucose/iron showed a higher HO activity.
+Our study revealed that high glucose/Fe concentrations in MIN6 cells induced an increase of the Bcl2/Bax ratio, an indicator of increased cell apoptosis.

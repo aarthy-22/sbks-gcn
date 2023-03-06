@@ -1,0 +1,12 @@
+mTOR Regulates Nox4-Mediated Podocyte Depletion in Diabetic Renal Injury.
+Podocyte apoptosis is a critical mechanism for excessive loss of urinary albumin that eventuates in kidney fibrosis.
+Pharmacological doses of the mTOR inhibitor rapamycin reduce albuminura in diabetes.
+We explored the hypothesis that mTOR mediates podocyte injury in diabetes.
+High glucose (HG) induces apoptosis of podocytes, inhibits AMPK activation, inactivates tuberin and activates mTOR.
+HG also increases the levels of Nox4 and Nox1 and NADPH oxidase activity.
+Inhibition of mTOR by low dose rapamycin decreases HG-induced Nox4 and Nox1, NADPH oxidase activity and podocyte apoptosis.
+Inhibition of mTOR had no effect on AMPK or tuberin phosphorylation indicating that mTOR is downstream of these signaling molecules.
+In isolated glomeruli of OVE26 mice, there is similar decrease in the activation of AMPK and tuberin and activation of mTOR with increase in Nox4 and NADPH oxidase activity.
+Inhibition of mTOR by small dose of rapamycin reduces podocyte apoptosis, attenuates glomerular injury and albuminuria.
+Our data provide evidence for a novel function of mTOR in Nox4-derived ROS generation and podocyte apoptosis that contributes to urinary albumin excretion in type 1 diabetes.
+Thus mTOR and or NADPH oxidase inhibition may represent a therapeutic modality of diabetic kidney disease.

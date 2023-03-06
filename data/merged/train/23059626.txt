@@ -1,0 +1,10 @@
+The effect of CCL3 and CCR1 in bone remodeling induced by mechanical loading during orthodontic tooth movement in mice.
+Bone remodeling is affected by mechanical loading and inflammatory mediators, including chemokines.
+The chemokine (C-C motif) ligand 3 (CCL3) is involved in bone remodeling by binding to C-C chemokine receptors 1 and 5 (CCR1 and CCR5) expressed on osteoclasts and osteoblasts.
+Our group has previously demonstrated that CCR5 down-regulates mechanical loading-induced bone resorption.
+Thus, the present study aimed to investigate the role of CCR1 and CCL3 in bone remodeling induced by mechanical loading during orthodontic tooth movement in mice.
+Our results showed that bone remodeling was significantly decreased in CCL3(-/-) and CCR1(-/-) mice and in animals treated with Met-RANTES (an antagonist of CCR5 and CCR1).
+mRNA levels of receptor activator of nuclear factor kappa-B (RANK), its ligand RANKL, tumor necrosis factor alpha (TNF-α) and RANKL/osteoprotegerin (OPG) ratio were diminished in the periodontium of CCL3(-/-) mice and in the group treated with Met-RANTES.
+Met-RANTES treatment also reduced the levels of cathepsin K and metalloproteinase 13 (MMP13).
+The expression of the osteoblast markers runt-related transcription factor 2 (RUNX2) and periostin was decreased, while osteocalcin (OCN) was augmented in CCL3(-/-) and Met-RANTES-treated mice.
+Altogether, these findings show that CCR1 is pivotal for bone remodeling induced by mechanical loading during orthodontic tooth movement and these actions depend, at least in part, on CCL3.

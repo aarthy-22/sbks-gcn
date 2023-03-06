@@ -1,0 +1,5 @@
+Anti-adipogenic diarylheptanoids from Alnus hirsuta f. sibirica on 3T3-L1 cells.
+A new diarylheptanoid, (5S)-hydroxy-1-(3,4-dihydroxyphenyl)-7-(4-hydroxyphenyl)-hepta-1E-en-3-one (1), was isolated along with seventeen known diarylheptanoids (2-18) from the methanol extract of Alnus hirsuta f. sibirica leaves using bioactivity-guided fractionation.
+Among the isolated compounds, compounds 1 and 2 and 4-12 reduced lipid accumulation dose-dependently in 3T3-L1 preadipocytes.
+Of the compounds active in the present assay system, the most potent compound 7, platyphyllonol-5-O-β-d-xylopyranoside, significantly suppressed the induction of peroxisome proliferator activated receptor γ (PPARγ and CCAAT/enhancer binding protein α (C/EBPα) protein expression, and inhibited adipocyte differentiation induced by troglitazone, a PPARγ agonist.
+It was demonstrated that compound 7 has anti-adipogenic activity mediated by the regulation of PPARγ dependent pathways.

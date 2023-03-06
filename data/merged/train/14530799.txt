@@ -1,0 +1,14 @@
+The neuropharmacological basis for the use of memantine in the treatment of Alzheimer's disease.
+Memantine has been demonstrated to be safe and effective in the symptomatic treatment of Alzheimer's disease (AD).
+While the neurobiological basis for the therapeutic activity of memantine is not fully understood, the drug is not a cholinesterase inhibitor and, therefore, acts differently from current AD therapies.
+Memantine can interact with a variety of ligand-gated ion channels.
+However, NMDA receptors appear to be a key target of memantine at therapeutic concentrations.
+Memantine is an uncompetitive (channel blocking) NMDA receptor antagonist.
+Like other NMDA receptor antagonists, memantine at high concentrations can inhibit mechanisms of synaptic plasticity that are believed to underlie learning and memory.
+However, at lower, clinically relevant concentrations memantine can under some circumstances promote synaptic plasticity and preserve or enhance memory in animal models of AD.
+In addition, memantine can protect against the excitotoxic destruction of cholinergic neurons.
+Blockade of NMDA receptors by memantine could theoretically confer disease-modifying activity in AD by inhibiting the "weak" NMDA receptor-dependent excitotoxicity that has been hypothesized to play a role in the progressive neuronal loss that underlies the evolving dementia.
+Moreover, recent in vitro studies suggest that memantine abrogates beta-amyloid (Abeta) toxicity and possibly inhibits Abeta production.
+Considerable attention has focused on the investigation of theories to explain the better tolerability of memantine over other NMDA receptor antagonists, particularly those that act by a similar channel blocking mechanism such as dissociative anesthetic-like agents (phencyclidine, ketamine, MK-801).
+A variety of channel-level factors could be relevant, including fast channel-blocking kinetics and strong voltage-dependence (allowing rapid relief of block during synaptic activity), as well as reduced trapping (permitting egress from closed channels).
+These factors may allow memantine to block channel activity induced by low, tonic levels of glutamate--an action that might contribute to symptomatic improvement and could theoretically protect against weak excitotoxicity--while sparing synaptic responses required for normal behavioral functioning, cognition and memory.

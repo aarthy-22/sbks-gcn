@@ -1,0 +1,11 @@
+High-throughput identification and characterization of novel, species-selective GPR35 agonists.
+Drugs targeting the orphan receptor GPR35 have potential therapeutic application in a number of disease areas, including inflammation, metabolic disorders, nociception, and cardiovascular disease.
+Currently available surrogate GPR35 agonists identified from pharmacologically relevant compound libraries have limited utility due to the likelihood of off-target effects in vitro and in vivo and the variable potency that such ligands exhibit across species.
+We sought to identify and characterize novel GPR35 agonists to facilitate studies aimed at defining the physiologic role of GPR35.
+PathHunter β-arrestin recruitment technology was validated as a human GPR35 screening assay, and a high-throughput screen of 100,000 diverse low molecular weight compounds was conducted.
+Confirmed GPR35 agonists from five distinct chemotypes were selected for detailed characterization using both β-arrestin recruitment and G protein-dependent assays and each of the human, mouse, and rat GPR35 orthologs.
+These studies identified 4-{(Z)-[(2Z)-2-(2-fluorobenzylidene)-4-oxo-1,3-thiazolidin-5-ylidene]methyl}benzoic acid (compound 1) as the highest potency full agonist of human GPR35 yet described.
+As with certain other GPR35 agonists, compound 1 was markedly selective for human GPR35, but displayed elements of signal bias between β-arrestin-2 and G protein-dependent assays.
+Compound 1 also displayed competitive behavior when assessed against the human GPR35 antagonist, ML-145 (2-hydroxy-4-[4-(5Z)-5-[(E)-2-methyl-3-phenylprop-2-enylidene]-4-oxo-2-sulfanylidene-1,3-thiazolidin-3-yl]butanoylamino]benzoic acid).
+Of the other chemotypes studied, compounds 2 and 3 were selective for the human receptor, but compounds 4 and 5 demonstrated similar activity at human, rat, and mouse GPR35 orthologs.
+Further characterization of these compounds and related analogs is likely to facilitate a better understanding of GPR35 in health and disease.

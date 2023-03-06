@@ -1,0 +1,9 @@
+Oligomeric procyanidins of lotus seedpod inhibits the formation of advanced glycation end-products by scavenging reactive carbonyls.
+It has been reported that oligomeric procyanidins of lotus seedpod (LSOPC) is effective in the alleviation of Alzheimer's disease and diabetes through its antioxidant and insulin-potentiating activities.
+This study investigated the anti-glycative activity of LSOPC in a bovine serum albumin (BSA)-glucose model.
+The level of glycation and conformational alterations were assessed by specific fluorescence, Congo red binding assay and circular dichroism.
+The results show that LSOPC has a significant anti-glycative activity in vitro and it can also effectively protect the secondary structure of BSA during glycation.
+LSOPC or catechin (a major constituent unit of LSOPC), were used to react with methylglyoxal.
+The structures of their carbonyl adducts were tentatively identified using HPLC-MS(2).
+Their capacity to scavenge methylglyoxal suggested carbonyl scavenging as a major mechanism of antiglycation.
+Therefore, LSOPC could be helpful to prevent AGEs-associated diseases, and with the potential to be used as functional food ingredients.

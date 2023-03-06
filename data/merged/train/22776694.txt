@@ -1,0 +1,11 @@
+Passive stiffness of airway smooth muscle: the next target for improving airway distensibility and treatment for asthma?
+Reduced airway distensibility due to increased airway stiffness is a characteristic of asthma.
+Airway stiffness is determined by the property and structural organization of the various elements of the airway wall, and is often divided into active and passive components.
+Active stiffness is thought to be associated with activation of muscle cells in the airway wall.
+This component of stiffness can be inhibited when active force produced by the muscle is abolished.
+Passive stiffness, on the other hand, is thought to stem from non-muscle component of the airway wall, especially the collagen/elastin fibrous network of the extracellular matrix within which the muscle cells are embedded.
+In this brief review, the notion that passive stiffness is exclusively extracellular in origin is challenged.
+Recent evidence suggests that a substantial portion of the passive stiffness of an in vitro preparation of tracheal smooth muscle is calcium sensitive and is regulated by Rho-kinase, although the underlying mechanism and the details of regulation for the development of this intracellular passive stiffness are still largely unknown.
+To reduce airway stiffness different lines of attack must be tailored to different components of the stiffness.
+The regulatable passive stiffness is distinct from the relatively permanent stiffness of the extracellular matrix and the stiffness associated with active muscle contraction.
+To improve airway distensibility during asthma exacerbation, a comprehensive approach to reduce overall airway stiffness should therefore include a strategy for targeting the regulatable passive stiffness.

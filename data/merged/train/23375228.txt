@@ -1,0 +1,4 @@
+Discovery and structure-activity relationships of small molecules that block the human immunoglobulin G-human neonatal Fc receptor (hIgG-hFcRn) protein-protein interaction.
+The neonatal Fc receptor, FcRn, prolongs the half-life of IgG in the serum and represents a potential therapeutic target for the treatment of autoimmune disease.
+Small molecules that block the protein-protein interactions of human IgG-human FcRn may lower pathogenic autoantibodies and provide effective treatment.
+A novel class of quinoxalines has been discovered as antagonists of the IgG:FcRn protein-protein interaction through optimization of a hit derived from a virtual ligand-based screen.

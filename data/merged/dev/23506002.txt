@@ -1,0 +1,4 @@
+New selective inhibitors of MMP-13 for inflammatory diseases: a patent evaluation (W02012151158).
+A series of compounds incorporating an aromatic scaffold based on isoxazolines were prepared in the patent application (WO2012151158).
+The new compounds from the patent are defined to be biologically active metabolites, prodrugs, isomers, stereoisomers, solvates, hydrates and pharmaceutically acceptable salts, they are claimed to be useful for treating immunological conditions because of their inhibitory activities on matrix metalloproteinase (MMP-13), although no specific MMP-13 inhibition data or other rationale to explain their biological effects is provided.
+The compounds have a broad potential utility with osteoarthritis, rheumatoid arthritis, juvenile arthritis, psoriatic arthritis, degenerative joint disease or systemic lupus erythematosus among the likely preferred indications.

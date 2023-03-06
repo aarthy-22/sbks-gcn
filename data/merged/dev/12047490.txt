@@ -1,0 +1,12 @@
+A comparison of the effects of nabumetone vs meloxicam on serum thromboxane B2 and platelet function in healthy volunteers.
+AIMS: To compare the effects of nabumetone and meloxicam, two cyclo-oxygenase-2 (COX-2) preferential nonsteroidal anti-inflammatory drugs (NSAIDs), on platelet COX-1 activity and platelet function.
+METHODS: Twelve healthy volunteers (3 male, 9 female, median age 22 years) participated in an open, randomized, cross-over trial of nabumetone 1000 mg twice daily vs meloxicam 7.5 mg twice daily during 1 week with 2 weeks wash-out.
+After a second 2 week wash-out period, one dose of indomethacin 50 mg was given as a positive control to check for NSAID induced inhibition of platelet function.
+COX-1 inhibition was measured as percentage inhibition of serum TXB2 generation in clotting whole blood, and as closure time with use of the platelet function analyser PFA-100.
+Data are reported as median with range.
+Paired variables were analysed using Wilcoxons signed rank test.
+RESULTS: TXB2 levels decreased significantly after all three medications, but percentage inhibition after nabumetone and indomethacin (88% and 97%, respectively) was significantly higher than after meloxicam (63%) (P<0.05).
+Closure times increased significantly after administration of all three medications (P<0.05).
+Increases in closure time after administration did not differ between nabumetone and meloxicam (24% and 14%, respectively), but were significantly larger after indomethacin administration (63%) (P<0.01).
+CONCLUSIONS: In the maximum registered dosage, nabumetone inhibits thromboxane production much more than meloxicam, signifying less COX-2 selectivity of the former.
+However, both nabumetone and meloxicam cause only minor impairment in platelet function in comparison with indomethacin and the difference between them is not significant.

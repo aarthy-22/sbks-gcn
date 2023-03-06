@@ -1,0 +1,6 @@
+AMP-activated protein kinase-dependent and -independent mechanisms underlying in vitro antiglioma action of compound C. We investigated the effect of compound C, a well-known inhibitor of the intracellular energy sensor AMP-activated protein kinase (AMPK), on proliferation and viability of human U251 and rat C6 glioma cell lines.
+Compound C caused G(2)/M cell cycle block, accompanied by apoptotic glioma cell death characterized by caspase activation, phosphatidylserine exposure and DNA fragmentation.
+The mechanisms underlying the pro-apoptotic action of compound C involved induction of oxidative stress and downregulation of antiapoptotic molecule Bcl-2, while no alteration of pro-apoptotic Bax was observed.
+Compound C diminished AMPK phosphorylation and enzymatic activity, resulting in reduced phosphorylation of its target acetyl CoA carboxylase.
+AMPK activators metformin and AICAR partly prevented the cell cycle block, oxidative stress and apoptosis induced by compound C. The small interfering RNA (siRNA) targeting of human AMPK mimicked compound C-induced G(2)/M cell cycle arrest, but failed to induce oxidative stress and apoptosis in U251 glioma cells.
+In conclusion, our data indicate that AMPK inhibition is required, but not sufficient for compound C-mediated apoptotic death of glioma cells.

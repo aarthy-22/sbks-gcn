@@ -1,0 +1,8 @@
+Selective inhibition of cyclooxygenase 2 spares renal function and prostaglandin synthesis in cirrhotic rats with ascites.
+BACKGROUND & AIMS: The critical role of cyclooxygenase (COX) products in maintenance of renal function in cirrhosis with ascites discourages the use of nonsteroidal anti-inflammatory drugs in this disease.
+The recent development of selective COX-2 inhibitors opens new avenues for the use of these compounds in decompensated cirrhosis.
+The current study evaluates the effects of a selective COX-2 inhibitor (SC-236) on renal function in cirrhotic rats with ascites.
+METHODS: In protocol 1, urine volume, urinary excretion of sodium and prostaglandins, glomerular filtration rate, and renal plasma flow were measured before and after administration of SC-236 (n = 12) or ketorolac (n = 10) to rats with cirrhosis.
+Protocol 2 was aimed at assessing the effects of COX inhibitors on renal water metabolism in 28 cirrhotic rats.
+RESULTS: Administration of SC-236 to cirrhotic animals did not produce significant renal effects, whereas administration of the nonselective COX-1/COX-2 inhibitor, ketorolac, resulted in a marked reduction in urine volume, urinary excretion of prostaglandins, and glomerular filtration rate and in a significant impairment in renal water metabolism.
+CONCLUSIONS: These findings indicate that SC-236 does not significantly impair renal function in rats with cirrhosis.

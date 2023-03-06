@@ -1,0 +1,12 @@
+The arachidonic acid 5-lipoxygenase inhibitor nordihydroguaiaretic acid inhibits tumor necrosis factor alpha activation of microglia and extends survival of G93A-SOD1 transgenic mice.
+Familial forms of amyotrophic lateral sclerosis (ALS) can be caused by mutations in copper, zinc-superoxide dismutase (SOD1).
+Mice expressing SOD1 mutants demonstrate a robust neuroinflammatory reaction characterized, in part, by up-regulation of tumor necrosis factor alpha (TNFalpha) and its primary receptor TNF-RI.
+In an effort to identify small molecule inhibitors of neuroinflammation useful in treatment of ALS, a microglial culture system was established to identify TNFalpha antagonists.
+Walker EOC-20 microglia cells were stimulated with recombinant TNFalpha, with or without inhibitors, and the cell response was indexed by NO2- output.
+Three hundred and fifty-five rationally selected compounds were included in this bioassay.
+The arachidonic acid 5-lipoxygenase (5LOX) and tyrosine kinase inhibitor nordihydroguaiaretic acid (NDGA), a natural dicatechol, was one of the most potent non-cytotoxic antagonists tested (IC50 8 +/- 3 microm).
+Investigation of the G93A-SOD1 mouse model for ALS revealed increased message and protein levels of 5LOX at 120 days of age.
+Oral NDGA (2500 p.p.m.) significantly extended lifespan and slowed motor dysfunction in this mouse, when administration was begun relatively late in life (90 days).
+NDGA extended median total lifespan of G93A-SOD1 mice by 10%, and life expectancy following start of treatment was extended by 32%.
+Disease-associated gliosis and cleaved microtubule-associated tau protein, an indicator of axon damage, were likewise reduced by NDGA.
+Thus, TNFalpha antagonists and especially 5LOX inhibitors might offer new opportunities for treatment of ALS.

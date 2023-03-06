@@ -1,0 +1,11 @@
+Involvement of μ-opioid receptors in antinociceptive action of botulinum toxin type A. Botulinum toxin A (BTX-A) is approved for treatment of chronic migraine and has been investigated in various other painful conditions.
+Recent evidence demonstrated retrograde axonal transport and suggested the involvement of CNS in antinociceptive effect of BTX-A. However, the mechanism of BTX-A central antinociceptive action is unknown.
+In this study we investigated the potential role of opioid receptors in BTX-A's antinociceptive activity.
+In formalin-induced inflammatory pain we assessed the effect of opioid antagonists on antinociceptive activity of BTX-A. Naltrexone was injected subcutaneously (0.02-2 mg/kg) or intrathecally (0.07 μg/10 μl-350 μg/10 μl), while selective μ-antagonist naloxonazine was administered intraperitoneally (5 mg/kg) prior to nociceptive testing.
+The influence of naltrexone (2 mg/kg s.c.) on BTX-A antinociceptive activity was examined additionally in an experimental neuropathy induced by partial sciatic nerve transection.
+To investigate the effects of naltrexone and BTX-A on neuronal activation in spinal cord, c-Fos expression was immunohistochemically examined in a model of formalin-induced pain.
+Antinociceptive effects of BTX-A in formalin and sciatic nerve transection-induced pain were prevented by non-selective opioid antagonist naltrexone.
+Similarly, BTX-A-induced pain reduction was abolished by low dose of intrathecal naltrexone and by selective μ-antagonist naloxonazine.
+BTX-A-induced decrease in dorsal horn c-Fos expression was prevented by naltrexone.
+Prevention of BTX-A effects on pain and c-Fos expression by opioid antagonists suggest that the central antinociceptive action of BTX-A might be associated with the activity of endogenous opioid system (involving μ-opioid receptor).
+These results provide first insights into the mechanism of BTX-A's central antinociceptive activity.

@@ -1,0 +1,12 @@
+Antizyme inhibitor is rapidly induced in growth-stimulated mouse fibroblasts and releases ornithine decarboxylase from antizyme suppression.
+Ornithine decarboxylase (ODC) catalyses the first step in the synthesis of the polyamines putrescine, spermidine and spermine.
+The polyamines are essential for cell growth, but at elevated levels they may be tumorigenic, toxic, or may induce apoptosis.
+Therefore, ODC activity is highly regulated.
+It is induced when cells are stimulated to grow, and it is subjected to feedback inhibition by the polyamines.
+By causing ribosomal frameshifting, polyamines induce the synthesis of antizyme, a 23-kDa protein, which binds to ODC, inhibits its activity and promotes its degradation by the 26 S proteasome.
+Antizyme, in turn, is inhibited by antizyme inhibitor (AZI).
+We describe the cloning of a mouse AZI cDNA, encoding a protein with high homology to mouse ODC.
+Using purified recombinant proteins, we show that AZI (which has no ODC activity) can release enzymically active ODC from antizyme suppression in vitro.
+We also show that ODC reactivation takes place in mouse fibroblasts upon transient transfection with an AZI-expressing plasmid construct.
+Finally we demonstrate that the AZI mRNA content of mouse fibroblasts increases significantly within an hour of growth stimulation, i.e. much earlier than ODC transcripts.
+Our results indicate that induction of AZI synthesis may represent a means of rescuing ODC molecules that have been inactivated and tagged for degradation by antizyme, when culture conditions improve and polyamine production is needed for cell growth and proliferation.

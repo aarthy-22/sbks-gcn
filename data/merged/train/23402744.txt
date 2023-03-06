@@ -1,0 +1,16 @@
+Sexually dimorphic behavior after developmental exposure to characterize endocrine-mediated effects of different non-dioxin-like PCBs in rats.
+Many chemicals are known to exhibit endocrine activity and affect reproductive functions in vertebrates and invertebrates.
+Endocrine effects include influences on sexual differentiation of the brain during development and reproductive and non-reproductive behavior in adult offspring.
+We previously demonstrated that developmental exposure to a mixture of polychlorinated biphenyls (PCBs) which was reconstituted according to the congener pattern found in human breast milk caused feminization of sweet preference as a sexually dimorphic behavior in adult male rats, following decreases in aromatase activity in the brain of newborn male pups.
+This result may be due to dioxin-like or non-dioxin-like (NDL) PCBs and their respective effects on steroid hormones.
+The aim of the present experiments was to determine if exposure to highly purified NDL-PCBs (to remove Ah receptor active contaminants) also results in alteration of sweet preference.
+Pregnant rats were orally exposed to PCB52 (6 dose groups, total dose of 0-3000mg/kg body weight) or PCB180 (6 dose groups, total dose of 0-1000mg/kg body weight).
+In a further experiment rat dams were treated with equimolar doses of PCB74 or PCB95 (total dose, 760μmol/kg body weight, corresponding to 229mg/kg or 248mg/kg body weight of PCB74 and PCB95, respectively).
+Adult male and female offspring were given a choice between a bottle of saccharin solution (0.25%) and a bottle of tap water on five consecutive days.
+Control females consumed approximately twice as much sweetened solution compared with control males, thus, demonstrating sexual dimorphism of this behavior.
+Only non-significant reduction of sweet preference was found at the top dose level in female offspring after exposure to PCB52.
+Female offspring exposed to PCB180 exhibited signs of supernormal behavior as illustrated by increased saccharin consumption at intermediate dose levels.
+Decreased sweet preference was observed in females after developmental PCB74, whereas males were unaffected.
+Only PCB95 increased saccharin consumption in exposed males, leading to decreased sexual dimorphism of this behavior and behavioral feminization.
+The results demonstrate that different NDL-PCBs exhibit differential effects on sexually dimorphic behavior and that feminization occurs after removal of Ah receptor active contaminants.
+Comparison with data from the literature reveals little evidence for a relation to anti-androgenic activity of the studied NDL-PCBs.

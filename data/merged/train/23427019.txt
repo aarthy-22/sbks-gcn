@@ -1,0 +1,3 @@
+Surface Enhanced Raman Scattering on Non-SERS Active Substrates and In Situ Electrochemical Study based on a Single Gold Microshell.
+A single gold microshell, which was elaborately fabricated to carry numerous hot spots on its own surface, enabled the acquisition of the SERS spectra from the molecules on non-SERS active substrates such as Si/SiO2 , ITO, and glass.
+A self-assembled monolayer of 11-mercaptoundecanols on the gold microshell offered an easy and reliable way to electrically insulate from the underlying flat Pt electrode and accomplish in situ monitoring the electrochemical reaction with minimal interference.

@@ -1,0 +1,8 @@
+Biosynthesis of iron-sulphur clusters is a complex and highly conserved process.
+Iron-sulphur ([Fe-S]) clusters are simple inorganic prosthetic groups that are contained in a variety of proteins having functions related to electron transfer, gene regulation, environmental sensing and substrate activation.
+In spite of their simple structures, biological [Fe-S] clusters are not formed spontaneously.
+Rather, a consortium of highly conserved proteins is required for both the formation of [Fe-S] clusters and their insertion into various protein partners.
+Among the [Fe-S] cluster biosynthetic proteins are included a pyridoxal phosphate-dependent enzyme (NifS) that is involved in the activation of sulphur from l-cysteine, and a molecular scaffold protein (NifU) upon which [Fe-S] cluster precursors are formed.
+The formation or transfer of [Fe-S] clusters appears to require an electron-transfer step.
+Another complexity is that molecular chaperones homologous to DnaJ and DnaK are involved in some aspect of the maturation of [Fe-S]-cluster-containing proteins.
+It appears that the basic biochemical features of [Fe-S] cluster formation are strongly conserved in Nature, since organisms from all three life Kingdoms contain the same consortium of homologous proteins required for [Fe-S] cluster formation that were discovered in the eubacteria.

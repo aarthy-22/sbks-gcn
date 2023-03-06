@@ -1,0 +1,8 @@
+Calcium-dependent ligand binding and G-protein signaling of family B GPCR parathyroid hormone 1 receptor purified in nanodiscs.
+GPCRs mediate intracellular signaling upon external stimuli, making them ideal drug targets.
+However, little is known about their activation mechanisms due to the difficulty in purification.
+Here, we introduce a method to purify GPCRs in nanodiscs, which incorporates GPCRs into lipid bilayers immediately after membrane solubilization, followed by single-step purification.
+Using this approach, we purified a family B GPCR, parathyroid hormone 1 receptor (PTH1R), which regulates calcium and phosphate homeostasis and is a drug target for osteoporosis.
+We demonstrated that the purified PTH1R in nanodiscs can bind to PTH(1-34) and activate G protein.
+We also observed that Ca(2+) is a weak agonist of PTH1R, and Ca(2+) in millimolar concentration can switch PTH(1-34) from an inverse agonist to an agonist.
+Hence, our results show that nanodiscs are a viable vehicle for GPCR purification, enabling studies of GPCRs under precise experimental conditions without interference from other cellular or membrane components.

@@ -1,0 +1,12 @@
+The role of adenosine A(2) receptors in the regulation of TNF-alpha production and PGE(2) release in mouse peritoneal macrophages.
+The adenosine A(2) receptors are known to mediate most of the anti-inflammatory activities of adenosine.
+In lipopolysaccharides (LPS)-stimulated macrophages adenosine strongly inhibits TNF-alpha release, but may also enhance PGE(2) generation.
+The aims of this study were to determine the relative contributions of the A(2A) and A(2B) receptor subclasses in these two effects and to determine whether the enhanced release of PGE(2) contributes to the inhibition of TNF-alpha release.
+In LPS-stimulated mouse macrophages, adenosine potently inhibited TNF-alpha production and also potentiated PGE(2) release, though less potently (IC(50)=250 nM vs EC(50) approximately 8 microM, respectively).
+The non-selective adenosine receptor agonist NECA, and the selective A(2A) receptor agonist CGS21680 also inhibited TNF-alpha production even more potently (IC(50)=4.8 and 2.3 nM, respectively).
+NECA, but not CGS21680, also enhanced PGE(2) production.
+The selective A(2A) receptor antagonist ZM241385 (30 nM), but not the selective A(2B) receptor antagonist MRS1754 (30 nM), blocked the inhibitory effect of NECA and CGS21680 on TNF-alpha release.
+On the other hand, MRS1754, but not ZM241385, abolished the PGE(2) potentiating effect of NECA.
+Pre-treatment with indomethacin (1 microM) abolished adenosine-induced PGE(2) release enhancement but did not prevent the inhibition of TNF-alpha release.
+These results show that in this system, the inhibition of TNF-alpha release by adenosine is mediated by the A(2A) receptors whereas the enhancement of PGE(2) release appears to be mediated by the A(2B) receptors.
+The results also show that while exogenous PGE(2) is a potent inhibitor of TNF-alpha release, the enhanced PGE(2) release induced by adenosine does not appear to contribute to the inhibition of TNF-alpha release.

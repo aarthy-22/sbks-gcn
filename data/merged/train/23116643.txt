@@ -1,0 +1,11 @@
+Rosmarinic acid ameliorates acute liver damage and fibrogenesis in carbon tetrachloride-intoxicated mice.
+The aim of this study was to investigate the therapeutic potential of rosmarinic acid (RA), a natural phenolic, in the treatment of acute liver toxicity.
+RA at 10, 25 and 50mg/kg was administered by gavage once daily for 2 consecutive days, 6h after CCl(4) intoxication.
+CCl(4) intoxication caused hepatic necrosis and increased serum ALT activity.
+In the livers, oxidative/nitrosative stress was evidenced by increased 3-nitrotyrosine (3-NT) and thiobarbituric acid reactive substances (TBARS) formation and a significant decrease in Cu/Zn superoxide dismutase (SOD) activity.
+CCl(4) administration triggered inflammatory response in mice livers by activating nuclear factor-kappaB (NF-κB), which coincided with the induction of tumor necrosis factor-alpha (TNF-α) and cyclooxygenase-2 (COX-2).
+RA improved histological and serum markers of liver damage and significantly ameliorated oxidative/nitrosative stress and inflammatory response in liver tissue.
+Additionally, RA prevented transforming growth factor-beta1 (TGF-β1) and alpha-smooth muscle actin (α-SMA) expression, suggesting suppression of profibrotic response.
+Furthermore, RA significantly inhibited the CCl(4)-induced apoptosis, which was evident from decreased cleavage of caspase-3.
+The hepatoprotective activity of RA coincided with enhanced NF-E2-related factor 2 (Nrf2) and heme oxygenase-1 (HO-1) expression.
+The results of this study indicates that RA possesses antioxidant, anti-inflammatory, antiapoptotic and antifibrotic activity against acute liver toxicity.

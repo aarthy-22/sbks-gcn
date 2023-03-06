@@ -1,0 +1,15 @@
+Dietary Flaxseed Oil Supplementation Mitigates the Effect of Lead on the Enzymes of Carbohydrate Metabolism, Brush Border Membrane, and Oxidative Stress in Rat Kidney Tissues.
+Lead is a heavy metal widely distributed in the environment.
+Lead is a ubiquitous environmental toxin that is capable of causing numerous acute and chronic illnesses.
+Human and animal exposure demonstrates that lead is nephrotoxic.
+However, attempts to reduce lead-induced nephrotoxicity were not found suitable for clinical use.
+Recently, flaxseed oil (FXO), a rich source of ω-3 fatty acids and lignans, has been shown to prevent/reduce the progression of certain types of cardiovascular and renal disorders.
+In view of this, the present study investigates the protective effect of FXO on lead acetate (PbAc)-induced renal damage.
+Rats were pre-fed normal diet and the diet rich in FXO for 14 days, and then, four doses of lead acetate (25 mg/kg body weight) were administered intraperitoneally while still on diet.
+Various serum parameters, enzymes of carbohydrate metabolism, brush border membrane (BBM), and oxidative stress were analyzed in rat kidney.
+PbAc nephrotoxicity was characterized by increased serum creatinine and blood urea nitrogen.
+PbAc increased the activities of lactate dehydrogenase and NADP-malic enzyme, whereas it decreased malate and glucose-6-phosphate dehydrogenase, glucose-6-phosphatase, fructose-1, 6-bisphosphatase, and BBM enzyme activities.
+PbAc caused oxidant/antioxidant imbalances as reflected by increased lipid peroxidation and decreased activities of superoxide dismutase, glutathione peroxidase, and catalase.
+In contrast, FXO alone enhanced the enzyme activities of carbohydrate metabolism, BBM, and antioxidant defense system.
+FXO feeding to PbAc-treated rats markedly enhanced resistance to PbAc-elicited deleterious effects.
+In conclusion, dietary FXO supplementation ameliorated PbAc-induced specific metabolic alterations and oxidative damage by empowering antioxidant defense mechanism and improving BBM integrity and energy metabolism.

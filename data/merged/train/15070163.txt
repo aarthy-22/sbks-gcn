@@ -1,0 +1,9 @@
+Effects of an ethanolic salix extract on the release of selected inflammatory mediators in vitro.
+Salix extracts are in current use for the treatment of pain and inflammation.
+In order to obtain an insight into the mechanism(s) of action of the ethanolic Salix extract 1520L--which is essentially similar to an extract for which clinical studies have demonstrated analgesic effectiveness--its effects were evaluated in an established in vitro assay test system using primary human monocytes.
+The IC50-values obtained for the inhibition of lipopolysaccharide (LPS)-induced release of prostaglandin E2 (PGE2) reflecting cyclooxygenase (COX)-2-mediated PGE2 release were 47 microg/ml and 0.6 microg/ml, for the Salix extract 1520L and rofecoxib-like research compound L745337, respectively.
+There was no effect on COX-1 and COX-2 activity.
+The Salix extract inhibited the LPS-induced release of tumor necrosis factor-alpha, interleukin-1beta and interleukin-6 with IC50-values of 180.0, 33.0 and 86.0 microg/ml, respectively.
+Both, salicin and salicylate, had no effect in any of the parameters.
+Our results indicate that Salix extract 1520L inhibits COX-2-mediated PGE2 release through compounds other than salicin or salicylate.
+Our data further suggest that the proprietary Salix extract is a weak inhibitor of proinflammatory cytokines.

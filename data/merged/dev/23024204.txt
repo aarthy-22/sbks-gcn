@@ -1,0 +1,8 @@
+Metabolism of triethylenetetramine and 1,12-diamino-3,6,9-triazadodecane by the spermidine/spermine-N(1)-acetyltransferase and thialysine acetyltransferase.
+Triethylenetetramine (TETA; Syprine; Merck Rahway, NJ), a drug for Wilson's disease, is a copper chelator and a charge-deficient analog of polyamine spermidine.
+We recently showed that TETA is metabolized in vitro by polyamine catabolic enzyme spermidine/spermine-N(1)-acetyltransferase (SSAT1) and by thialysine acetyltransferase (SSAT2) to its monoacetylated derivative (MAT).
+The acetylation of TETA is increased in SSAT1-overexpressing mice compared with wild-type mice.
+However, SSAT1-deficient mice metabolize TETA at the same rate as the wild-type mice, indicating the existence of another N-acetylase respons 2ible for its metabolism in mice.
+Here, we show that siRNA-mediated knockdown of SSAT2 in HEPG2 cells and in primary hepatocytes from the SSAT1-deficient or wild-type mice reduced the metabolism of TETA to MAT.
+By contrast, 1,12-diamino-3,6,9-triazadodecane(SpmTrien), a charge-deficient spermine analog, was an extremely poor substrate of human recombinant SSAT2 and was metabolized by SSAT1 in HEPG2 cells and in wild-type primary hepatocytes.
+Thus, despite the similar structures of TETA and SpmTrien, SSAT2 is the main acetylator of TETA, whereas SpmTrien is primarily acetylated by SSAT1.

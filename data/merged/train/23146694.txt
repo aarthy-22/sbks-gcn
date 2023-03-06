@@ -1,0 +1,10 @@
+Bisphenol A inhibits proliferation and induces apoptosis in micromass cultures of rat embryonic midbrain cells through the JNK, CREB and p53 signaling pathways.
+Bisphenol A (BPA) has been widely used in the manufacture of polycarbonate plastic, water bottles and food containers.
+Previous studies have established that BPA could cause developmental toxicity by inhibiting the proliferation and differentiation of rat embryonic midbrain (MB) cells in vitro.
+However, the underlying mechanisms have not been well studied yet.
+In the current study, we examined the proliferation and differentiation of MB cells treated with 10(-12)-10(-4)M BPA and found that only 10(-4)M BPA inhibited proliferation and differentiation.
+Then, we investigated the cell cycle progression and apoptosis of MB cells; 10(-4)M BPA caused an explicit S phase and G2/M phase arrest in the cell cycle and increased the percentage of apoptotic cells.
+Moreover, the phosphorylation of mitogen-activated protein kinase (MAPK) and cyclic-AMP response binding protein (CREB) and the expression of some apoptotic regulatory genes were investigated.
+BPA (10(-4)M) reduced the phosphorylation of C-Jun N-terminal kinase (JNK) and CREB, and increased the mRNA expression level of Bax and p53.
+Our findings demonstrated that BPA could cause developmental toxicity through anti-proliferation and pro-apoptosis in MB cells.
+Multiple signaling pathways, such as the JNK, CREB and p53-mitochondrial apoptosis pathways, participate in these effects.

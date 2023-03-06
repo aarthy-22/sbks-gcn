@@ -1,0 +1,12 @@
+Arsenic inhibits autophagic flux activating the Nrf2-Keap1 pathway in a p62-dependent manner.
+The Nrf2-Keap1 signaling pathway is a protective mechanism promoting cell survival.
+Activation of the Nrf2 pathway by natural compounds has been proven to be an effective strategy for chemoprevention.
+Interestingly, a cancer-promoting function of Nrf2 has been recently observed in many types of tumors due to deregulation of the Nrf2-Keap1 axis, which leads to constitutive activation of Nrf2.
+Here, we report a novel mechanism of Nrf2 activation by arsenic that is distinct from that of chemopreventive compounds.
+Arsenic deregulates the autophagic pathway through blockage of autophagic flux, resulting in accumulation of autophagosomes and sequestration of p62, Keap1, and LC3.
+Thus, arsenic activates Nrf2 through a non-canonical mechanism (p62-dependent), leading to a chronic, sustained activation of Nrf2.
+In contrast, activation of Nrf2 by sulforaphane and tert-butylhydroquinone depend upon Keap1-C151 and not p62 (the canonical mechanism).
+More importantly, SF and tBHQ do not have any effect on autophagy.
+In fact, SF and tBHQ alleviate arsenic-mediated deregulation of autophagy.
+Collectively, these findings provide evidence that arsenic causes prolonged activation of Nrf2 through autophagy dysfunction, possibly providing a similar scenario to constitutive activation of Nrf2 found in certain human cancers.
+This may represent a previously unrecognized mechanism underlying arsenic toxicity and carcinogenicity in humans.

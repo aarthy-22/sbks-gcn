@@ -1,0 +1,13 @@
+5-Amino-2-hydroxybenzoic acid 4-(5-thioxo-5H-[1,2]dithiol-3yl)-phenyl ester (ATB-429), a hydrogen sulfide-releasing derivative of mesalamine, exerts antinociceptive effects in a model of postinflammatory hypersensitivity.
+H(2)S functions as a neuromodulator and exerts anti-inflammatory activities.
+Recent data indicate that irritable bowel syndrome (IBS) is linked to inflammation of the gastrointestinal tract.
+In this study, we have investigated the role of a novel H(2)S-releasing derivative of mesalamine (5-amino-2-hydroxybenzoic acid 4-(5-thioxo-5H-[1,2]dithiol-3yl)-phenyl ester, ATB-429) in modulating nociception to colorectal distension (CRD), a model that mimics some features of IBS, in healthy and postcolitic rats.
+Four graded (0.4-1.6 ml of water) CRDs were produced in conscious rats, and colorectal sensitivity and pain were assessed by measuring the abdominal withdrawal response and spinal c-Fos expression.
+In healthy rats, ATB-429 dose dependently (25, 50, or 100 mg/kg) attenuated CRD-induced hypersensitivity and significantly inhibited CRD-induced overexpression of spinal c-FOS mRNA, whereas mesalamine had no effect.
+ATB-429-induced antinociception was reversed by glibenclamide, a ATP-sensitive K(+) (K(ATP)) channel inhibitor.
+The antinociceptive effect of ATB-429 was maintained in a rodent model of postinflammatory hypersensitivity (4 weeks after colitis induction).
+At a dose of 100 mg/kg, ATB-429 reversed the allodynic response caused by CRD in postcolitic rats.
+Colonic cyclooxygenase-2 and interkeukin-1beta mRNA and spinal c-FOS mRNA expression were significantly down-regulated by ATB-429, but not by mesalamine.
+ATB-429, but not mesalamine, increased blood concentrations of H(2)S in both healthy and postcolitic rats.
+Taken together, these data suggest that ATB-429 inhibits hypersensitivity induced by CRD in both healthy and postcolitic, allodynic rats by a K(ATP) channel-mediated mechanism.
+This study provides evidence that H(2)S-releasing drugs might have beneficial effects in the treatment of painful intestinal disorders.

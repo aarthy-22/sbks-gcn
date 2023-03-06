@@ -1,0 +1,11 @@
+In vitro characterization and pharmacokinetics of dapagliflozin (BMS-512148), a potent sodium-glucose cotransporter type II inhibitor, in animals and humans.
+(2S,3R,4R,5S,6R)-2-(3-(4-Ethoxybenzyl)-4-chlorophenyl)-6-hydroxymethyl-tetrahydro -2H-pyran-3,4,5-triol (dapagliflozin; BMS-512148) is a potent sodium-glucose cotransporter type II inhibitor in animals and humans and is currently under development for the treatment of type 2 diabetes.
+The preclinical characterization of dapagliflozin, to allow compound selection and prediction of pharmacological and dispositional behavior in the clinic, involved Caco-2 cell permeability studies, cytochrome P450 (P450) inhibition and induction studies, P450 reaction phenotyping, metabolite identification in hepatocytes, and pharmacokinetics in rats, dogs, and monkeys.
+Dapagliflozin was found to have good permeability across Caco-2 cell membranes.
+It was found to be a substrate for P-glycoprotein (P-gp) but not a significant P-gp inhibitor.
+Dapagliflozin was not found to be an inhibitor or an inducer of human P450 enzymes.
+The in vitro metabolic profiles of dapagliflozin after incubation with hepatocytes from mice, rats, dogs, monkeys, and humans were qualitatively similar.
+Rat hepatocyte incubations showed the highest turnover, and dapagliflozin was most stable in human hepatocytes.
+Prominent in vitro metabolic pathways observed were glucuronidation, hydroxylation, and O-deethylation.
+Pharmacokinetic parameters for dapagliflozin in preclinical species revealed a compound with adequate oral exposure, clearance, and elimination half-life, consistent with the potential for single daily dosing in humans.
+The pharmacokinetics in humans after a single dose of 50 mg of [(14)C]dapagliflozin showed good exposure, low clearance, adequate half-life, and no metabolites with significant pharmacological activity or toxicological concern.

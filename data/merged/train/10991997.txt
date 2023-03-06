@@ -1,0 +1,10 @@
+Bupropion is a nicotinic antagonist.
+Neuronal nicotinic receptors are ligand-gated ion channels of the central and peripheral central nervous system that regulate synaptic activity from both pre- and postsynaptic sites.
+The present study establishes the acute interaction of bupropion, an antidepressant agent that is also effective in nicotine dependence, with nicotine and nicotinic receptors using different in vivo and in vitro tests.
+Bupropion was found to block nicotine's antinociception (in two tests), motor effects, hypothermia, and convulsive effects with different potencies in the present investigation, suggesting that bupropion possesses some selectivity for neuronal nicotinic receptors underlying these various nicotinic effects.
+In addition, bupropion blocks nicotine activation of alpha(3)beta(2), alpha(4)beta(2), and alpha(7) neuronal acetylcholine nicotinic receptors (nAChRs) with some degree of selectivity.
+It was approximately 50 and 12 times more effective in blocking alpha(3)beta(2) and alpha(4)beta(2) than alpha(7.) This functional blockade was noncompetitive, because it was insurmountable by increasing concentration of ACh in the nAChRs subtypes tested.
+Furthermore, bupropion at high concentration failed to displace brain [(3)H]nicotine binding sites, a site largely composed of alpha(4)beta(2) subunit combination.
+Given the observation that bupropion inhibition of alpha(3)beta(2) and alpha(4)beta(2) receptors exhibits voltage-independence properties, bupropion may not be acting as an open channel blocker.
+These effects may explain in part bupropion's efficacy in nicotine dependence.
+Our present findings suggest that functional blockade of neuronal nAChRs are useful in nicotine dependence treatment.

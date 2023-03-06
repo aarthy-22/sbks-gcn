@@ -1,0 +1,7 @@
+Influence of nitrogen supply on the production of higher alcohols/esters and expression of flavour-related genes in cachaça fermentation.
+This study provides the first attempt to analyse the influence of ammonium supplements on sugar-cane juice fermentation and the flavour profile in a cachaça industrial process.
+The objective was to find a relationship between higher alcohol/ester content and the transcription levels of the main genes involved in production of these compounds under cachaça fermentation.
+Sugar-cane juice with a low amount of assimilable nitrogen (81 mg N/L), was further supplemented with mid-range or high concentrations of ammonium sulfate.
+Overall, higher alcohol production was reduced by ammonium supplementation, and this can be correlated with a general downregulation of genes encoding decarboxylases and dehydrogenases of the Ehrlich pathway.
+The production of acetate esters was enhanced by mid-range ammonium supplementation and the production of acyl esters by high ammonium supplementation.
+The acyl esters could be correlated with expression of alcohol acyl-transferase EEB1 and the acyl esterase IAH1.

@@ -1,0 +1,10 @@
+[Proliferation inhibition effect of indomethacin on CML cells associated with down-regulation of phosphorylated STAT1/STAT5 and inhibition of COX-2 expression].
+OBJECTIVE: To explore the mechanism of anti-proliferative effect of indomethacin (IN) on chronic myelogenous leukemia (CML) cells.
+METHODS: MTT was applied to assay CML cells viability under IN intervention.
+STAT1, STAT5 proteins were analyzed by Western blot, the expressions of phosphorylated STAT1 or STAT5 by immunoprecipitation combined with Western blot, the cellular localization of p-STATs proteins by indirect immunofluorescence technique, and the detection of Bcl-X(L) and COX-2 protein by Western blot.
+RESULTS: IN could significantly inhibit the viability of CML cells.
+0 approximately 400 micromol/L of IN could down-regulate the expression of p-STAT1 or p-STAT5 in a dose-response manner, p-STATs were distributed mainly in the nucleus as scattering spots.
+The expression of COX-2 protein could be detected in K562 cells.
+Both Bcl-X(L) and COX-2 proteins could be inhibited by IN in a dose-dependent manner.
+CONCLUSIONS: IN could significantly inhibit the proliferation of CML cells, the mechanism of which might be related to the suppression of STATs/Bcl-X(L) signal transduction pathway.
+There exists COX-2 protein expression in K562 cells, the anti-leukemia effect of IN was possibly dependent on COX-2 pathway.

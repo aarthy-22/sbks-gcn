@@ -1,0 +1,14 @@
+Characterization of human recombinant alpha(2A)-adrenoceptors expressed in Chinese hamster lung cells using extracellular acidification rate changes.
+1.
+Human alpha(2A)-adrenoceptors heterologously expressed in Chinese hamster lung (CHL) fibroblasts have been characterized pharmacologically using a cytosensor microphysiometer to measure ligand-induced extracellular acidification rate changes.
+2.
+In untransfected CHL cells, noradrenaline had no effect at concentrations up to 100 microM. In alpha(2A)-adrenoceptor transfected cells the rank order of agonist potency was A-54741 (mean pEC(50)=8.96)>dexmedetomidine (8.88)>UK-14304 (8.42)>B-HT 920 (7.05)>noradrenaline (6.92).
+A-54741, UK-14304 and noradrenaline had the same maximum response while dexmedetomidine and B-HT 920 behaved as partial agonists.
+3.
+The selective alpha(2)-adrenoceptor ligand rauwolscine antagonized acidification rate changes with an affinity independent of the agonist used; the affinity (mean pK(B)) against noradrenaline was 8.43.
+4.
+The selective alpha(1)-adrenoceptor ligands prazosin and doxazosin (each 3 microM) had no effect on noradrenaline responses.
+5.
+Acidification rate changes induced by each agonist were abolished by pre-treatment of cells with pertussis toxin.
+6.
+These data suggest that agonist-induced acidification rate responses in CHL cells transfected with the human alpha(2A)-adrenoceptor are mediated exclusively by the recombinant protein, via pertussis toxin sensitive G(i/o) proteins.

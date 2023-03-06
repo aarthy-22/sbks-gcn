@@ -1,0 +1,10 @@
+Purification, antioxidant activity and protein-precipitating capacity of punicalin from pomegranate husk.
+Punicalin is a kind of ellagitannin, existing in pomegranate husk, and has shown remarkable biological activities.
+A rapid and large-scale separation method of punicalin from pomegranate husk was established, using medium pressure liquid chromatography (MPLC).
+The optimal mobile phase consisted of 5% methanol and 0.1% (v/v) TFA in water, and the optimal loading amount and flow rate were 1.0 g and 80 ml/min, respectively.
+Under this condition, 339 mg of 95.9% punicalin could be obtained in 40 min.
+59.7 mg of 78.0% gallic acid could be separated simultaneously.
+This method was practical for industrial utilisation of pomegranate husk.
+Afterwards, the antioxidant and protein-precipitating capacities of the purified punicalin, together with punicalagin, were evaluated.
+Results showed that punicalin had strong antioxidant activity, and it exhibited a low affinity for protein.
+This suggested that the antioxidant of punicalin would not be greatly masked by tannin-protein precipitation in application, and hence confirmed punicalin to be a promising antioxidant.

@@ -1,0 +1,10 @@
+Phenformin has a direct inhibitory effect on the ATP-sensitive potassium channel.
+The biguanides, phenformin and metformin, are used in the treatment of type II diabetes mellitus, as well as being routinely used in studies investigating AMPK activity.
+We used the patch-clamp technique and rubidium flux assays to determine the role of these drugs in ATP-sensitive K+ channel (K(ATP)) regulation in cell lines expressing the cloned components of K(ATP) and the current natively expressed in vascular smooth muscle cells (VSMCs).
+Phenformin but not metformin inhibits a number of variants of K(ATP) including the cloned equivalents of currents present in vascular and non-vascular smooth muscle (Kir6.1/SUR2B and Kir6.2/SUR2B) and pancreatic beta-cells (Kir6.2/SUR1).
+However it does not inhibit the current potentially present in cardiac myocytes (Kir6.2/SUR2A).
+The highest affinity interaction is seen with Kir6.1/SUR2B (IC50=0.55 mM) and it also inhibits the current in native vascular smooth muscle cells.
+The extent and rate of inhibition are similar to that seen with the known K(ATP) blocker PNU 37883A.
+Additionally, phenformin inhibited the current elicited through the Kir6.2DeltaC26 (functional without SUR) channel with an IC50 of 1.78 mM. Phenformin reduced the open probability of Kir6.1/SUR2B channels by approximately 90% in inside-out patches.
+These findings suggest that phenformin interacts directly with the pore-forming Kir6.0 subunit however the sulphonylurea receptor is able to significantly modulate the affinity.
+It is likely to block from the intracellular side of the channel in a manner analogous to that of PNU 37883A.

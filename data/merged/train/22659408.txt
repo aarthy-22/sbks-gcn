@@ -1,0 +1,13 @@
+Glycine release is regulated by metabotropic glutamate receptors sensitive to mGluR2/3 ligands and activated by N-acetylaspartylglutamate (NAAG).
+The presence of metabotropic glutamate receptors (mGluRs) of group II modulating glycine exocytosis from glycinergic nerve endings of mouse spinal cord was investigated.
+Purified synaptosomes were selectively prelabeled with [(3)H]glycine through the neuronal transporter GlyT2 and subsequently depolarized by superfusion with 12 mM KCl.
+The selective mGluR2/3 agonist LY379268 inhibited the K(+)-evoked overflow of [(3)H]glycine in a concentration-dependent manner (EC(50) about 0.2 nM).
+The effect of LY379268 was prevented by the selective mGluR2/3 antagonist LY341495 (IC(50) about 1 nM).
+N-acetylaspartylglutamate (NAAG) inhibited [(3)H]glycine overflow with extraordinary potency (EC(50) about 50 fmol).
+In contrast, glutamate was ineffective up to 0.1 nM, excluding that glutamate contamination of commercial NAAG samples is responsible for the reported activity of NAAG at mGluR3.
+LY341495 antagonized the NAAG inhibition of [(3)H]glycine release.
+The effect of a combination of maximally effective concentrations of LY379268 and NAAG exhibited no additivity.
+The non-hydrolysable NAAG analogue N-acetylaspartyl-β-linked glutamate (β-NAAG) antagonized NAAG and LY379268.
+In conclusion, our results show that glycinergic nerve endings in spinal cord are endowed with group II mGluRs mediating inhibition of glycine exocytosis.
+NAAG can activate these presynaptic receptors with extremely high affinity and with characteristics compatible with the reported mGluR3 pharmacology.
+This article is part of a Special Issue entitled 'Metabotropic Glutamate Receptors'.

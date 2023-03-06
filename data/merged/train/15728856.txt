@@ -1,0 +1,8 @@
+D2 dopamine receptors colocalize regulator of G-protein signaling 9-2 (RGS9-2) via the RGS9 DEP domain, and RGS9 knock-out mice develop dyskinesias associated with dopamine pathways.
+Regulator of G-protein signaling 9-2 (RGS9-2), a member of the RGS family of G GTPase accelerating proteins, is expressed specifically in the striatum, which participates in antipsychotic-induced tardive dyskinesia and in levodopa-induced dyskinesia.
+We report that RGS9 knock-out mice develop abnormal involuntary movements when inhibition of dopaminergic transmission is followed by activation of D2-like dopamine receptors (DRs).
+These abnormal movements resemble drug-induced dyskinesia more closely than other rodent models.
+Recordings from striatal neurons of these mice establish that activation of D2-like DRs abnormally inhibits glutamate-elicited currents.
+We show that RGS9-2, via its DEP domain (for Disheveled, EGL-10, Pleckstrin homology), colocalizes with D2DRs when coexpressed in mammalian cells.
+Recordings from oocytes coexpressing D2DR or the m2 muscarinic receptor and G-protein-gated inward rectifier potassium channels show that RGS9-2, via its DEP domain, preferentially accelerates the termination of D2DR signals.
+Thus, alterations in RGS9-2 may be a key factor in the pathway leading from D2DRs to the side effects associated with the treatment both of psychoses and Parkinson's disease.

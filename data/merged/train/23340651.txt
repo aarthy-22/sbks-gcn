@@ -1,0 +1,11 @@
+Low oxygen tension maintains multipotency, whereas normoxia increases differentiation of mouse bone marrow stromal cells.
+Optimization of mesenchymal stem cells (MSC) culture conditions is of great importance for their more successful application in regenerative medicine.
+O(2) regulates various aspects of cellular biology and, in vivo, MSC are exposed to different O(2) concentrations spanning from very low tension in the bone marrow niche, to higher amounts in wounds.
+In our present work, we isolated mouse bone marrow stromal cells (BMSC) and showed that they contained a population meeting requirements for MSC definition.
+In order to establish the effect of low O(2) on cellular properties, we examined BSMC cultured under hypoxic (3% O(2)) conditions.
+Our results demonstrate that 3% O(2) augmented proliferation of BMSC, as well as the formation of colonies in the colony-forming unit assay (CFU-A), the percentage of quiescent cells, and the expression of stemness markers Rex-1 and Oct-4, thereby suggesting an increase in the stemness of culture when exposed to hypoxia.
+In contrast, intrinsic differentiation processes were inhibited by 3% O(2).
+Overall yield of differentiation was dependent on the adjustment of O(2) tension to the specific stage of BMSC culture.
+Thus, we established a strategy for efficient BMSC in vitro differentiation using an initial phase of cell propagation at 3% O(2), followed by differentiation stage at 21% O(2).
+We also demonstrated that 3% O(2) affected BMSC differentiation in p53 and reactive oxygen species (ROS) independent pathways.
+Our findings can significantly contribute to the obtaining of high-quality MSC for effective cell therapy.

@@ -1,0 +1,8 @@
+Constant light disrupts the circadian rhythm of steroidogenic proteins in the rat adrenal gland.
+The circadian rhythm of corticosterone (CORT) secretion from the adrenal cortex is regulated by the suprachiasmatic nucleus (SCN), which is entrained to the light-dark cycle.
+Since the circadian CORT rhythm is associated with circadian expression of the steroidogenic acute regulatory (StAR) protein, we investigated the 24h pattern of hormonal secretion (ACTH and CORT), steroidogenic gene expression (StAR, SF-1, DAX1 and Nurr77) and the expression of genes involved in ACTH signalling (MC2R and MRAP) in rats entrained to a normal light-dark cycle.
+We found that circadian changes in ACTH and CORT were associated with the circadian expression of all gene targets; with SF-1, Nurr77 and MRAP peaking in the evening, and DAX1 and MC2R peaking in the morning.
+Since disruption of normal SCN activity by exposure to constant light abolishes the circadian rhythm of CORT in the rat, we also investigated whether the AM-PM variation of our target genes was also disrupted in rats exposed to constant light conditions for 5weeks.
+We found that the disruption of the AM-PM variation of ACTH and CORT secretion in rats exposed to constant light was accompanied by a loss of AM-PM variation in StAR, SF-1 and DAX1, and a reversed AM-PM variation in Nurr77, MC2R and MRAP.
+Our data suggest that circadian expression of StAR is regulated by the circadian expression of nuclear receptors and proteins involved in both ACTH signalling and StAR transcription.
+We propose that ACTH regulates the secretion of CORT via the circadian control of steroidogenic gene pathways that become dysregulated under the influence of constant light.

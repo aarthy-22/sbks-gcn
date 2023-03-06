@@ -1,0 +1,12 @@
+The activator-binding site of Onchocerca volvulus S-adenosylmethionine decarboxylase, a potential drug target.
+S-Adenosylmethionine decarboxylase (AdoMetDC) is a key enzyme in polyamine biosynthesis.
+In many eukaryotes its activity is stimulated specifically by putrescine.
+The AdoMetDC of the filarial parasite Onchocerca volvulus, however, is not only stimulated by putrescine but also by the naturally occuring polyamines spermidine and spermine.
+Several diamines, acetylated polyamines and polyamine analogues were used to analyse what molecular prerequisites are needed to stimulate nematode AdoMetDC activity.
+In the absence of an activator, the O. volvulus enzyme exhibits an extremely low specific activity.
+This fact, together with the unspecificity of activator binding, was thought to be useful for a new strategy to inhibit nematode AdoMetDC activity.
+Therefore, different polyamine analogues were tested as competitive inhibitors towards the stimulatory effect putrescine has on the O. volvulus and, in comparison, on the Caenorhabditis elegans and human AdoMetDC.
+Bis(aralkyl)- and bis(alkyl)-substituted polyamine analogues with a 3-7-3 backbone were found to inhibit AdoMetDC activities, however, probably without interfering with the putrescine stimulation.
+The best inhibitor, BW-1, was about 10-fold more effective against O. volvulus AdoMetDC than against the human enzyme.
+Unexpectedly, BW-1 was determined to be a competitive inhibitor with respect to AdoMet, having a Ki value of 310 microM for the putrescine-stimulated human AdoMetDC.
+Furthermore, we show for the O. volvulus and the human enzyme that the degree of inhibition by BW-1 depends on the actual putrescine concentration.

@@ -1,0 +1,9 @@
+SB365, Pulsatilla saponin D suppresses the proliferation of human colon cancer cells and induces apoptosis by modulating the AKT/mTOR signalling pathway.
+Pulsatilla koreana has been used as a traditional medicine for the treatment of several diseases.
+The purpose of this study was to determine if SB365, Pulsatilla saponin D isolated from the root of P. koreana inhibits the progression of colon cancer.
+We found that SB365 strongly suppressed the growth and proliferation of colon cancer cells and induced their apoptosis.
+Also, SB365 showed anti-angiogenic activity by decreasing the expression of HIF-1α and VEGF.
+These results were confirmed by an in vivo study showing that SB365 significantly inhibited tumor growth by the induction of apoptosis and inhibition of angiogenesis with stronger anticancer activity than 5-FU.
+When further examined for its anticancer mechanism, SB365 effectively suppressed the AKT/mTOR pathway both in vitro and in vivo.
+Taken together, our study demonstrated that SB365 inhibits the AKT/mTOR pathway, leading to the suppression of tumor growth and angiogenesis together with induction of apoptosis.
+Therefore, SB365 is a good candidate as a natural product for use in the treatment of colon cancer.

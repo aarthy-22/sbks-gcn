@@ -1,0 +1,10 @@
+P21-activated kinase 4 (PAK4) is required for metaphase spindle positioning and anchoring.
+The oncogenic kinase PAK4 was recently found to be involved in the regulation of the G1 phase and the G2/M transition of the cell cycle.
+We have also identified that PAK4 regulates Ran GTPase activity during mitosis.
+Here, we show that after entering mitosis, PAK4-depleted cells maintain a prolonged metaphase-like state.
+In these cells, chromosome congression to the metaphase plate occurs with normal kinetics but is followed by an extended period during which membrane blebbing and spindle rotation are observed.
+These bipolar PAK4-depleted metaphase-like spindles have a defective astral microtubule (MT) network and are not centered in the cell but are in close contact with the cell cortex.
+As the metaphase-like state persists, centrosome fragmentation occurs, chromosomes scatter from the metaphase plate and move toward the spindle poles with an active spindle assembly checkpoint, a phenotype that is reminiscent of cohesion fatigue.
+PAK4 also regulates the acto-myosin cytoskeleton and we report that PAK4 depletion results in the induction of cortical membrane blebbing during prometaphase arrest.
+However, we show that membrane blebs, which are strongly enriched in phospho-cofilin, are not responsible for the poor anchoring of the spindle.
+As PAK4 depletion interferes with the localization of components of the dynein/dynactin complexes at the kinetochores and on the astral MTs, we propose that loss of PAK4 could induce a change in the activities of motor proteins.

@@ -1,0 +1,7 @@
+Design, synthesis and structure-activity relationship of new arginine vasopressin analogues containing proline derivatives in position 2.
+In this study, we present the synthesis and pharmacological properties of new analogues of arginine vasopressin modified in the N-terminal part of the molecule with proline derivatives: indoline-2-carboxylic acid (Ica) and (2S,4R)-4-(naphthalene-2-ylmethyl)pyrrolidine-2-carboxylic acid.
+All the peptides were tested for pressor, antidiuretic and in vitro uterotonic activities.
+We also determined their binding affinity to the human oxytocin receptor.
+The Ica(2) substitution resulted in two moderately potent and selective antioxytocic agents: [Mpa(1), Ica(2), D-Arg(8)]VP and [Mpa(1),Ica(2),Val(4),D-Arg(8)]VP (pA(2) = 7.09 and 7.50, respectively).
+On the other hand, peptides modified with (2S,4R)-4-(naphthalene-2-ylmethyl)pyrrolidine-2-carboxylic acid, apart from their moderate antioxytocic activity, turned out to be weak antagonists of the pressor response to arginine vasopressin.
+The results of this study provide useful information about the structure-activity relationship of arginine vasopressin analogues and can help to design compounds with desired biological properties.

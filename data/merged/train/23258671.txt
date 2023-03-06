@@ -1,0 +1,6 @@
+Super-stable ultrafine beta-tungsten nanocrystals with metastable phase and related magnetism.
+Ultrafine tungsten nanocrystals (average size of 3 nm) with a metastable phase (beta-tungsten with A15 structure, β-W) have been prepared by laser ablation of tungsten in liquid nitrogen.
+The as-prepared metastable nanocrystals exhibited super-stablity, and can keep the same metastable structure over a period of 6 months at room temperature.
+This super-stability is attributed to the nanosized confinement effect of ultrafine nanocrystals.
+The magnetism measurements showed that the β-W nanocrystals have weak ferromagnetic properties at 2 K, which may arise from surface defects and unpaired electrons on the surface of the ultrafine nanocrystals.
+These findings provided useful information for the application of ultrafine β-W nanocrystals in microelectronics and spintronics.

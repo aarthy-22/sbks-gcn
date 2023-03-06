@@ -1,0 +1,10 @@
+Cysteamine and the endocrine pancreas: immunocytochemical, immunochemical, and functional aspects.
+To evaluate the previously reported depletion of pancreatic somatostatin by cysteamine (beta-mercaptoethylamine), mice were injected subcutaneously with the drug at 300 mg/kg.
+Immunocytochemical analysis performed on sections from tissue taken at 4 h after the injection revealed an elimination of somatostatin-14-like immunoreactivity without alterations in the somatostatin-28(1-12)-like immunoreactivity.
+In sections from tissues taken at 24 h after injection, no differences between cysteamine-injected animals and controls were observed.
+Immunochemical analysis of somatostatin-14-like immunoreactivity in pancreatic extracts showed a significant reduction of the concentration (P less than 0.001).
+In contrast, no change in the insulin concentration was observed.
+Functionally, cysteamine lowered the plasma glucose levels at 1 h after injection; this effect persisted for 6 h. Plasma insulin levels were likewise reduced transiently by cysteamine.
+Concomitant administration of somatostatin did not influence these effects of cysteamine.
+The plasma glucose-lowering effect of cysteamine was seen also in alloxan-diabetic mice.
+We conclude that cysteamine alters the immunoreactive characteristics of pancreatic somatostatin without affecting the immunoreactivity of insulin, and that cysteamine transiently reduces plasma glucose and insulin levels.

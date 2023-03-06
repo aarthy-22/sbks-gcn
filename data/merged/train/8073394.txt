@@ -1,0 +1,9 @@
+Inhibitory effects of lysine analogues on t-PA induced whole blood clot lysis.
+The lysine analogues epsilon-aminocaproic acid (EACA) and trans-4-amino-methyl cyclohexane carboxylic acid (AMCA) are used to prevent excessive bleeding in patients with coagulopathies, such as hemophilia and thrombocytopenia, or in those who have received tissue plasminogen activator (t-PA).
+However, their relative efficacy in inhibiting lysis of clots that have been formed in the presence of exogenous t-PA or that have been formed and then exposed to exogenous t-PA has not been well characterized.
+The present study utilized blood from normal volunteers and 125I-fibrinogen in a dilute whole blood clot assay to determine the relative concentrations of lysine analogues required for inhibition of clot lysis induced by exogenous t-PA.
+AMCA (0.06 mM) and EACA (0.6 mM) were effective in prolonging clot lysis if (1) whole blood clots were formed and then exposed to a lysine analogue and exogenous t-PA or if (2) whole blood clots were formed in the presence of exogenous t-PA and a lysine analogue.
+However, their inhibitory effect was markedly reduced if clots were formed in the presence of t-PA and then exposed to either of the lysine analogues.
+The analogues did not inhibit the initial binding of t-PA to fibrin.
+They did inhibit binding of plasminogen to fibrin as well as the activation of plasminogen by t-PA in the absence of fibrin.
+The data suggest that lysine analogues, even at low concentrations, reduce the rate of t-PA induced whole blood clot lysis by several mechanisms.

@@ -1,0 +1,7 @@
+Neuroprotective effects of mercaptoethylleonurine and mercaptoethylguanidine analogs on hydrogen peroxide-induced apoptosis in human neuronal SH-SY5Y cells.
+A series of mercaptoethylleonurine and mercaptoethylguanidine derivatives were designed and synthesized.
+Their neuroprotective effects toward H2O2-induced apoptosis were investigated in human SH-SY5Y cells.
+The results from these studies identified several potent compounds, with compound 8k emerging as the most effective.
+Further investigation demonstrated that 8k reduced H2O2-induced activation of mitochondrial apoptosis by inhibiting the expression of Bax and elevating the expression of Bcl-2.
+Moreover, the molecular mechanism underlying the observed neuroprotective effects of 8k was exerted via the Akt and JNK pathways.
+Compound 8k can be a lead compound for further discovery of neuroprotective medicine.

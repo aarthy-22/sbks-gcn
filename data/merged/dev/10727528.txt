@@ -1,0 +1,12 @@
+Aspirin and sodium salicylate inhibit endothelin ETA receptors by an allosteric type of mechanism.
+Aspirin is a commonly used drug with a wide pharmacological spectrum including antiplatelet, anti-inflammatory, and neuroprotective actions.
+This study shows that aspirin and sodium salicylate, its major blood metabolite, reverse contractile actions of endothelin-1 (ET-1) in isolated rat aorta and human mammary arteries.
+They also prevent the intracellular Ca(2+) mobilizing action of ET-1 in cultured endothelial cells but not those of neuromedin B or UTP.
+Inhibition of the actions of ET-1 by salicylates is apparently competitive.
+Salicylates inhibit (125)I-ET-1 binding to recombinant rat ETA receptors.
+Salicylic acid promotes dissociation of (125)I-ET-1 ETA receptor complexes both in the absence and the presence of unlabeled ET-1.
+It has no influence on the rate of association of (125)I-ET-1 to ETA receptors.
+Salicylates do not promote dissociation of (125)I-ET-1 ETB receptor complexes.
+Salicylates potentiate relaxing actions of receptor antagonists such as bosentan.
+It is concluded that salicylates are allosteric inhibitors of ETA receptors.
+The results also suggest that: 1) irreversible ET-1 binding probably limits actions of receptor antagonists in vivo, and 2) an association of salicylates and ETA receptor antagonists should be used to evaluate the physiopathological role of ET-1 and may be of therapeutic interest in the treatment of ischemic heart disease.

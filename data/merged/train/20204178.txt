@@ -1,0 +1,8 @@
+Comparison of the pharmacological effects of paricalcitol and doxercalciferol on the factors involved in mineral homeostasis.
+Vitamin D receptor agonists (VDRAs) directly suppress parathyroid hormone (PTH) mRNA expression.
+Different VDRAs are known to have differential effects on serum calcium (Ca), which may also affect serum PTH levels since serum Ca regulates PTH secretion mediated by the Ca-sensing receptor (CaSR).
+In this study, we compared the effects of paricalcitol and doxercalciferol on regulating serum Ca and PTH, and also the expression of PTH, VDR, and CaSR mRNA.
+The 5/6 nephrectomized (NX) Sprague-Dawley rats on a normal or hyperphosphatemia-inducing diet were treated with vehicle, paricalcitol, or doxercalciferol for two weeks.
+Both drugs at the tested doses (0.042-0.33 mug/kg) suppressed PTH mRNA expression and serum PTH effectively in the 5/6 NX rats, but paricalcitol was less potent in raising serum Ca than doxercalciferol.
+In pig parathyroid cells, paricalcitol and the active form of doxercalciferol induced VDR translocation from the cytoplasm into the nucleus, suppressed PTH mRNA expression and inhibited cell proliferation in a similar manner, although paricalcitol induced the expression of CaSR mRNA more effectively.
+The multiple effects of VDRAs on modulating serum Ca, parathyroid cell proliferation, and the expression of CaSR and PTH mRNA reflect the complex involvement of the vitamin D axis in regulating the mineral homeostasis system.

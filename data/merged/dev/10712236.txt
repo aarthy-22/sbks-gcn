@@ -1,0 +1,14 @@
+Polyamine depletion delays apoptosis of rat intestinal epithelial cells.
+The polyamines spermidine, spermine, and their precursor putrescine are essential for cell growth and the regulation of the cell cycle.
+Recent studies suggest that excessive accumulation of polyamines favors either malignant transformation or apoptosis, depending on the cell type and the stimulus.
+This study examines the involvement of polyamines in the induction of apoptosis by the DNA topoisomerase I inhibitor, camptothecin.
+In IEC-6 cells, camptothecin induced apoptosis within 6 h, accompanied by detachment of cells.
+Detached cells showed DNA laddering and caspase 3 induction, characteristic features of apoptosis.
+Depletion of putrescine, spermidine, and spermine by DL-alpha-difluoromethylornithine (DFMO), a specific inhibitor of ornithine decarboxylase (ODC) that is the first rate-limiting enzyme for polyamine biosynthesis, decreased the apoptotic index.
+Delayed apoptosis was accompanied by a decrease in caspase 3 activity in polyamine-depleted cells.
+Addition of putrescine restored the induction of apoptosis as indicated by an increase in the number of detached cells and caspase 3 activity.
+Polyamine depletion did not change the level of caspase 3 protein.
+Inhibition of S-adenosylmethionine decarboxylase by a specific inhibitor [diethylglyoxal bis-(guanylhydrazone); DEGBG] led to depletion of spermidine and spermine with a significant accumulation of putrescine and induction of ODC.
+The DEGBG-treated cells showed an increase in apoptosis, suggesting the importance of putrescine in the apoptotic process.
+Addition of putrescine to DFMO-treated cell extracts did not increase caspase 3 activity.
+The above results indicate that polyamine depletion delays the onset of apoptosis in IEC-6 cells and confers protection against DNA damaging agents, suggesting that polyamines might be involved in the caspase activating signal cascade.

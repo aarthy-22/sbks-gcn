@@ -1,0 +1,6 @@
+Analysis of the antioxidant properties of differently substituted 2- and 3-indolyl carbohydrazides and related derivatives.
+Herein, we report the antioxidant properties of some selected substituted 2-indolyl carbohydrazides (JL34, JL40, JL71, JL87, JL317, JL432, JL436), the substituted 3-indolyl carbohydrazide JL344, 3-(3-hydrazinylpropyl)-1H-indole (JL72) and 3-(1H-indol-3-yl)propanehydrazide (JL418), throughout the assessment of their antioxidative potential using different antioxidant assays such as DPPH, lipid peroxidation in the APPH, or the DMSO method.
+We conclude that these compounds are convenient templates for the design of useful drugs in to treat Alzheimer's disease (AD), a pathology characterized by extensive oxidative stress and inflammation, thus essentially affected by reactive oxygen species (ROS).
+Most of them are potent hydroxyl radical scavengers and inhibit in vitro lipid peroxidation.
+Compounds JL40 and JL432 presenting higher lipoxygenase inhibitory activity among the tested derivatives, were found to present a promising anti-inflammatory in vivo result, as well as antioxidant and LOX inhibitory profile.
+These results in combination to their known AChE/BuChE inhibitory activities led us to propose these indolyl carbohydrazides as new multifunctional compounds against AD.

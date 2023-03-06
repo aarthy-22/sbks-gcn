@@ -1,0 +1,6 @@
+Highly predictive ligand-based pharmacophore and homology models of ABHD6.
+α/β-Hydrolase domain-containing 6 (ABHD6) represents a potentially attractive therapeutic target for indirectly potentiating 2-arachidonoylglycerol signaling; however, the enzyme is currently largely uncharacterized.
+Here, we describe a five element, ligand-based pharmacophore model along with a refined homology model of ABHD6.
+Following a virtual screen of a modest database, both the pharmacophore and homology models were found to be highly predictive, preferentially identifying ABHD6 inhibitors over drug-like non-inhibitors.
+The models yield insight into the features required for optimal ligand binding to ABHD6 and the atomic structure of the binding site.
+In combination, the two models should be very helpful not only in high-throughput virtual screening, but also in lead optimization, and will facilitate the development of novel, selective ABHD6 inhibitors as potential drugs.

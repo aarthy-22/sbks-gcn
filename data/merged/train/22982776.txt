@@ -1,0 +1,12 @@
+Persistent and high-level expression of human liver prolidase in vivo in mice using adenovirus.
+Human liver prolidase, a metal-dependent dipeptidase, is being tested as a potential catalytic bioscavenger against organophosphorus (OP) chemical warfare nerve agents.
+The purpose of this study was to determine whether persistent and high-levels of biologically active and intact recombinant human (rHu) prolidase could be introduced in vivo in mice using adenovirus (Ad).
+Here, we report that a single intravenous injection of Ad containing the prolidase gene with a 6× histidine-tag (Ad-prolidase) introduced high-levels of rHu prolidase in the circulation of mice which peaked on days 5-7 at 159±129U/mL. This level of prolidase
+is ∼120 times greater than that of the enzyme level in mice injected with Ad-null virus.
+To determine if all of Ad-prolidase-produced rHu prolidase was exported into the circulation, enzyme activity was measured in a variety of tissues.
+Liver contained the highest levels of rHu prolidase on day 7 (5647±454U/g) compared to blood or any other tissue.
+Recombinant Hu prolidase hydrolyzed DFP, a simulant of OP nerve agents, in vitro.
+In vivo, prolidase overexpression extended the survival of 4 out of 6 mice by 4-8h against exposure to two 1× LD50 doses of DFP.
+In contrast, overexpression of mouse butyrylcholinesterase (BChE), a proven stoichiometric bioscavenger of OP compounds, protected 5 out of 6 mice from DFP lethality and surviving mice showed no symptoms of DFP toxicity.
+In conclusion, the results suggest that gene delivery using Ad is capable of introducing persistent and high levels of human liver prolidase in vivo.
+The gene-delivered prolidase hydrolyzed DFP in vitro but provided only modest protection in vivo in mice, delaying the death of the animals by only 4-8h.

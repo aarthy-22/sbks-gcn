@@ -1,0 +1,11 @@
+alpha(1B) adrenergic receptors in gonadotrophin-releasing hormone neurones: relation to Transport-P. 1.
+Peptidergic neurones accumulate amines via an unusual uptake process, designated Transport-P. [(3)H]-prazosin binds to alpha(1) adrenoceptors on these cells and is displaceable by unlabelled prazosin in concentrations up to 10(-7) M. However, at greater concentrations of prazosin, there is a paradoxical accumulation of [(3)H]-prazosin which we have attributed to Transport-P. Uptake of prazosin via Transport-P is detectable at 10(-10) M prazosin concentration, is linear up to 10(-7) M and at greater concentrations becomes non-linear.
+In contrast, in noradrenergic neurones, noradrenaline uptake is linear and saturates above 10(-7) M. In noradrenergic neurones and in non-neuronal cells, there is no uptake of prazosin in concentrations up to 10(-6) M, suggesting that Transport-P is a specialised function of peptidergic neurones.
+2.
+Using a mouse peptidergic (gonadotrophin-releasing hormone, GnRH) neuronal cell line which possesses Transport-P, we have studied the interaction of alpha(1) adrenoceptors with Transport-P. Polymerase chain reactions and DNA sequencing of the products demonstrated that only the alpha(1B) sub-type of adrenoceptors is present in GnRH cells.
+3.
+In COS cells transfected with alpha(1b) adrenoceptor cDNA and in DDT(1) MF-2 cells which express native alpha(1B) adrenoceptors, [(3)H]-prazosin was displaced by unlabelled prazosin in a normal equilibrium process, with no prazosin paradox in concentrations up to 10(-6) M. In DDT(1) MF-2 cells, [(3)H]-prazosin was displaced likewise by a series of alpha(1) adrenergic agonists, none of which increased the binding of [(3)H]-prazosin.
+Hence, the prazosin paradox is not due to some function of alpha(1) adrenoceptors, such as internalization of ligand-receptor complexes.
+4.
+In neurones which possess Transport-P, transfection with alpha(1b) adrenoceptor cDNA resulted in over-expression of alpha(1B) adrenoceptors, but the prazosin paradox was unaltered.
+Thus, alpha(1) adrenoceptors and Transport-P mediate distinct functions in peptidergic neurones.

@@ -1,0 +1,11 @@
+Unique kinetic mechanism of Plasmodium falciparum adenylosuccinate synthetase.
+Adenylosuccinate synthetase (AdSS) catalyses the Mg(2+) dependent formation of adenylosuccinate from IMP and aspartate, the reaction being driven by the hydrolysis of GTP to GDP.
+All characterized AdSS thus far exhibit a random kinetic mechanism.
+We present here kinetic evidence that unlike all other AdSS, Plasmodium falciparum AdSS (PfAdSS) has ordered substrate binding.
+Inhibition studies show that binding of GTP requires IMP binding while aspartate binds to the enzyme-IMP-GTP complex.
+A structural basis for this difference in mechanism is presented.
+Kinetically, PfAdSS is closer to the mouse acidic isozyme rather than to the mouse basic isozyme.
+The mouse acidic isozyme is thought to play a role in the purine nucleotide biosynthetic pathway.
+Regulation of PfAdSS in vivo can therefore, be expected to be similar to the mouse acidic isozyme, in agreement with the role of PfAdSS as the only pathway for the synthesis of adenine nucleotides in the parasite.
+However, PfAdSS differs from both the mammalian homologs in that fructose-1,6-bisphosphate, a potent inhibitor of the mammalian enzyme, is an activator of PfAdSS.
+The differences highlighted here are promising in terms of species-specific drug design, targeting this essential enzyme in the parasite.

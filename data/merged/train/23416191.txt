@@ -1,0 +1,6 @@
+Fragment-based drug design and identification of HJC0123, a novel orally bioavailable STAT3 inhibitor for cancer therapy.
+Fragment-based drug design (FBDD) is a promising approach for the generation of lead molecules with enhanced activity and especially drug-like properties against therapeutic targets.
+Herein, we report the fragment-based drug design, systematic chemical synthesis and pharmacological evaluation of novel scaffolds as potent anticancer agents by utilizing six privileged fragments from known STAT3 inhibitors.
+Several new molecules such as compounds 5, 12, and 19 that may act as advanced chemical leads have been identified.
+The most potent compound 5 (HJC0123) has demonstrated to inhibit STAT3 promoter activity, downregulate phosphorylation of STAT3, increase the expression of cleaved caspase-3, inhibit cell cycle progression and promote apoptosis in breast and pancreatic cancer cells with low micromolar to nanomolar IC50 values.
+Furthermore, compound 5 significantly suppressed estrogen receptor (ER)-negative breast cancer MDA-MB-231 xenograft tumor growth in vivo (p.o.), indicating its great potential as an efficacious and orally bioavailable drug candidate for human cancer therapy.

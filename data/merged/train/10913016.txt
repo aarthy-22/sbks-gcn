@@ -1,0 +1,11 @@
+Hypertrophic effect of selective beta(1)-adrenoceptor stimulation on ventricular cardiomyocytes from adult rat.
+We investigated whether selective beta(1)-adrenoceptor stimulation causes hypertrophic growth on isolated ventricular cardiomyocytes from adult rat.
+As parameters for the induction of hypertrophic growth, the increases of [(14)C]phenylalanine incorporation, protein and RNA mass, and cell size were determined.
+Isoproterenol (Iso, 10 microM) alone had no growth effect.
+In the presence of the beta(2)-adrenoceptor antagonist ICI-118551 (ICI, 10 microM), Iso caused an increase in [(14)C]phenylalanine incorporation, protein and RNA mass, cell volume, and cross-sectional area.
+We showed for phenylalanine incorporation that the growth effect of Iso+ICI could be antagonized by beta(1)-adrenoceptor blockade with atenolol (10 microM) or metoprolol (10 microM), indicating that it was caused by selective beta(1)-adrenoceptor stimulation.
+The growth response to Iso+ICI was accompanied by an increase in ornithine decarboxylase (ODC) activity and expression.
+Inhibition of ODC by the ODC antagonist difluoromethylornithine (1 mM) attenuated this hypertrophic response, indicating that ODC induction is causally involved.
+The growth response to Iso+ICI was found to be cAMP independent but was sensitive to genistein (100 microM) or rapamycin (0.1 microM).
+The reaction was enhanced in the presence of pertussis toxin (10 microM).
+We conclude that selective beta(1)-adrenoceptor stimulation causes hypertrophic growth of ventricular cardiomyocytes by a mechanism that is independent of cAMP but dependent on a tyrosine kinase and ODC.

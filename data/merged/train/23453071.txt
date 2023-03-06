@@ -1,0 +1,5 @@
+Synthesis and evaluation of nicotinamide derivative as anti-angiogenic agents.
+Previously, we have found that BRN-103, a nicotinamide derivative, inhibits vascular endothelial growth factor (VEGF)-mediated angiogenesis signaling in human endothelial cells.
+During our continuous efforts to identify more potent anti-angiogenic agents, we synthesized various nicotinamide derivatives and evaluated their anti-angiogenic effects.
+We found that 2-{1-[1-(6-chloro-5-fluoropyrimidin-4-yl)ethyl]piperidin-4-ylamino}-N-(3-chlorophenyl) pyridine-3-carboxamide (BRN-250) significantly inhibited human umbilical vascular endothelial cells (HUVECs) proliferation, migration, tube formation, and microvessel growth in a concentration range of 10-100 nM. Furthermore, BRN-250 inhibited the VEGF-induced phosphorylation and intracellular tyrosine kinase activity of VEGF receptor 2 (VEGFR2) and the activation of its downstream AKT pathway.
+Taken together, these findings suggest that BRN-250 be considered a potential lead compound for cancer therapy.

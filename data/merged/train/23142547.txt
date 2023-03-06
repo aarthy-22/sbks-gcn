@@ -1,0 +1,11 @@
+A non-catalytic function of Rev1 in translesion DNA synthesis and mutagenesis is mediated by its stable interaction with Rad5.
+DNA damage tolerance consisting of template switching and translesion synthesis is a major cellular mechanism in response to unrepaired DNA lesions during replication.
+The Rev1 pathway constitutes the major mechanism of translesion synthesis and base damage-induced mutagenesis in model cell systems.
+Rev1 is a dCMP transferase, but additionally plays non-catalytic functions in translesion synthesis.
+Using the yeast model system, we attempted to gain further insights into the non-catalytic functions of Rev1.
+Rev1 stably interacts with Rad5 (a central component of the template switching pathway) via the C-terminal region of Rev1 and the N-terminal region of Rad5.
+Supporting functional significance of this interaction, both the Rev1 pathway and Rad5 are required for translesion synthesis and mutagenesis of 1,N(6)-ethenoadenine.
+Furthermore, disrupting the Rev1-Rad5 interaction by mutating Rev1 did not affect its dCMP transferase, but led to inactivation of the Rev1 non-catalytic function in translesion synthesis of UV-induced DNA damage.
+Deletion analysis revealed that the C-terminal 21-amino acid sequence of Rev1 is uniquely required for its interaction with Rad5 and is essential for its non-catalytic function.
+Deletion analysis additionally implicated a C-terminal region of Rev1 in its negative regulation.
+These results show that a non-catalytic function of Rev1 in translesion synthesis and mutagenesis is mediated by its interaction with Rad5.

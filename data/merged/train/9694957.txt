@@ -1,0 +1,12 @@
+In vivo
+chronoamperometric measures of extracellular serotonin clearance in rat dorsal hippocampus: contribution of serotonin and norepinephrine transporters.
+The effects of blockade of serotonin (5-HT) and norepinephrine (NE) transporters (SERT and NET, respectively) on the removal of locally applied 5-HT from extracellular fluid (ECF) were examined using in vivo chronoamperometry.
+Male Sprague-Dawley rats were anesthetized with chloralose/urethane, and a Nafion-coated, carbon fiber electrode attached to a multibarrel micropipette was positioned into either the dentate gyrus or CA3 region of the dorsal hippocampus.
+Pressure ejection of 5-HT elicited reproducible electrochemical signals of similar peak amplitude and time course in both structures.
+Local application of the selective serotonin reuptake inhibitors (SSRI) fluvoxamine and citalopram prolonged the clearance of 5-HT in both brain regions and also increased signal amplitude in the CA3 region.
+These effects were abolished in rats pretreated with 5, 7-dihydroxytryptamine (5,7-DHT), a selective 5-HT neurotoxin.
+The NE uptake inhibitors desipramine (DMI) and protriptyline did not alter the 5-HT signal in the CA3 region but prolonged the clearance of 5-HT in the dentate gyrus; this effect was absent in rats pretreated with 6-hydroxydopamine (6-OHDA), a selective catecholamine neurotoxin.
+The prolongation of the removal of 5-HT from the ECF in the dentate gyrus caused by fluvoxamine or desipramine was of comparable magnitude and was dose dependent.
+Furthermore, per picomole of 5-HT applied, the signal amplitude and clearance time were significantly increased in the dentate gyrus of rats lesioned with either 5,7-DHT or 6-OHDA.
+Only 5,7-DHT treatment caused this effect in the CA3 region.
+From these data, it is inferred that in certain regions of brain (dentate gyrus), both the SERT and NET contribute to the active clearance of exogenously applied 5-HT.

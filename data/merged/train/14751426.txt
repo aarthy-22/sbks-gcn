@@ -1,0 +1,8 @@
+Effects of clozapine and its metabolites on the 5-HT2 receptor system in cortical and hippocampal cells in vitro.
+PURPOSE: The goal of the present study was to determine the effects of clozapine (Cloz) and its metabolites norclozapine (Norcloz) and clozapine-N-oxide (Cloz-N-oxide) on the 5-HT(2) receptor system on the levels of protein and gene expression in in vitro systems of primary cortical cells of the rat and human hippocampal SHS5Y5 neuroblastoma cells.
+METHODS: Clinically relevant concentrations of Cloz (200/400 ng/ml) and its metabolites (200 ng/ml) were used for the examination of the effects of Cloz and its metabolites on serotoninergic 5-HT(2) receptor parameters (density, affinity and mRNA levels) as well as on glyceraldehyde-3-phosphate dehydrogenase (GAPDH) mRNA levels in primary cortical cells of the rat after treatment for 24 h under in vitro conditions.
+To compare the results to human cells, we also measured treatment-induced changes in 5-HT(2) and GAPDH mRNA levels in human hippocampal SHS5Y5 cells.
+RESULTS: A significant decrease was found in primary cortical cells for 5-HT(2) receptor density (Cloz 200/Cloz 400/Norcloz 200 and Cloz-N-oxide 200 vs. control) and 5-HT(2A) receptor mRNA levels (Cloz 200 vs. control).
+5-HT(2A) receptor mRNA levels were also significantly reduced (Norcloz 200 vs. control) in SHS5Y5 cells.
+GAPDH mRNA levels were not affected.
+CONCLUSIONS: The results of the present study show that Cloz and Norcloz induce significant alterations on the 5-HT(2) receptor system in primary cortical cells of the rat and in human hippocampal cells.

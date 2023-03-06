@@ -1,0 +1,23 @@
+Synergistic antiallodynic effects of spinal morphine with ketorolac and selective COX1- and COX2-inhibitors in nerve-injured rats.
+The possible role of spinal prostanoids in the tactile allodynia and thermal hyperalgesia associated with an experimental model of neuropathic pain was investigated.
+Neuropathic pain was induced by tight ligation of the L5 and L6 spinal nerves.
+Tactile allodynia was assessed 7 days after the surgery by measuring hindpaw withdrawal threshold to probing with von Frey filaments.
+Thermal hyperalgesia and nociception were determined by the 52 degrees C warm-water tail-flick test and by applying radiant heat to the plantar aspect of the hindpaw ipsilateral to the ligation.
+Minimal antiallodynic effect was produced by intrathecal (i.th.) administration of ketorolac or morphine up to the highest testable dose (100 microg) or by the (R)- or (S)-enantiomers of ketorolac (up to 6 microg) when administered alone.
+However, i.th.
+administration of a fixed ratio (1:1) of morphine plus racemic ketorolac or of morphine plus the (S)-enantiomer of ketorolac (S-ketorolac) produced a dose- and time-related antiallodynic effect: ED50 114 +/-
+35.9 microg (total dose) for morphine plus ketorolac and 70.5 +/- 21.0 microg (total dose) for morphine plus S-ketorolac.
+The combination of i.th.
+morphine plus the (R)-enantiomer of ketorolac (R-ketorolac) (up to 200 microg total dose) was without effect.
+Similar antiallodynic activity was obtained for the co-administration of i.th.
+morphine and intravenous (i.v.) racemic ketorolac.
+In order to investigate the role of cyclooxygenase (COX) isozymes, relatively selective COX1 (piroxicam) and COX2 N-[2-cyclohexyloxy-4-nitrophenyl] metanesulfonamide (NS-398) inhibitors were administered i.th.
+(60 microg) alone or together with i.th.
+morphine.
+Piroxicam, NS-398, morphine and vehicle (90% DMSO) were without significant antiallodynic effect when administered alone, but moderate antiallodynic effects were produced by i.th.
+administration of fixed ratio (1:1) combinations of morphine with 60 microg each (highest soluble dose) of piroxicam (%MPE = 40.8 +/- 10.2) or NS-398 (%MPE = 32.4 +/- 9.5).
+Further, the combined i.th.
+administration of morphine, piroxicam and NS-398 in fixed 1:1:1 ratio (60 microg each) resulted in a supraadditive antiallodynic effect (%MPE = 70.4 +/- 10.8).
+Finally, morphine, but not ketorolac, given i.th. produced dose-dependent anti nociception in either the tail-flick or the paw-flick tests.
+However, there was no synergy between morphine and ketorolac against thermal nociception in either of the tests.
+These findings suggest that spinal prostanoids produced via both COX1 and COX2 pathways may play a role in neuropathic pain states and suggest the clinical utility of opioid plus COX-inhibitor combination therapy.

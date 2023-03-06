@@ -1,0 +1,16 @@
+Carvedilol modulates the expression of hypoxia-inducible factor-1alpha and vascular endothelial growth factor in a rat model of volume-overload heart failure.
+BACKGROUND: The use of beta-blockers has emerged as a beneficial treatment for congestive heart failure.
+Hypoxia-inducible factor-1alpha (HIF-1alpha) is tightly regulated in the ventricular myocardium.
+However, the expression of HIF-1alpha in chronic heart failure resulting from volume overload and after treatment with beta-blocker is little known.
+METHODS AND RESULTS: To test the hypothesis that HIF-1alpha plays a role in the failing myocardium because of volume overload, an aorta-caval shunt was created for 4 weeks in adult Sprague-Dawley rats to induce volume-overload heart failure.
+Carvedilol at 50 mg/kg body weight per day after surgery was given.
+The heart weight and body weight ratio increased from 2.6 +/-
+0.3 in the sham group to 3.9 +/- 0.7 (P < .001) in the shunt group.
+Left ventricular end-diastolic dimension increased from 6.5 +/- 0.5 mm to 8.7 +/- 0.6 mm (P < .001).
+Treatment with carvedilol in the shunt group reversed the heart weight and ventricular dimension to the baseline values.
+Western blot showed that HIF-1alpha, vascular endothelial growth factor (VEGF), and brain natriuretic peptide (BNP) proteins were upregulated and nerve growth factor-beta (NGF-beta) downregulated in the shunt group.
+Real-time polymerase chain reaction showed that mRNA of HIF-1alpha, VEGF, and BNP increased and mRNA of NGF-beta decreased in the shunt group.
+Treatment with carvedilol reversed both protein and mRNA of HIF-1alpha, VEGF, BNP, and NGF-beta to the baseline values.
+Increased immunohistochemical labeling of HIF-1alpha, VEGF, and BNP in the ventricular myocardium was observed in the shunt group and carvedilol again normalized the labeling.
+CONCLUSION: HIF-1alpha and VEGF mRNA and protein expression were upregulated in the rat model of volume-overload heart failure.
+Treatment with carvedilol is associated with a reversal of abnormal regulation of HIF-1alpha and VEGF in the failing ventricular myocardium.

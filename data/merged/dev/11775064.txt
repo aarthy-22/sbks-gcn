@@ -1,0 +1,15 @@
+Effects of the antidepressant/antipanic drug phenelzine on alanine and alanine transaminase in rat brain.
+1.
+Phenelzine (PLZ) is an antidepressant with anxiolytic properties.
+Acute and chronic PLZ administration increase brain GABA levels, an effect due, at least in part, to an inhibition of the activity of the GABA metabolizing enzyme, GABA transaminase (GABA-T).
+2.
+Previous preliminary reports have indicated that acute PLZ treatment also elevates brain alanine levels.
+As with GABA, the metabolism of alanine involves a pyridoxal phosphate-dependent transaminase.
+3.
+In the study reported here, the effects of acute PLZ treatment on the levels of various amino acids, some of which are also metabolized by pyridoxal phosphate-dependent transaminases were compared in rat whole brain.
+Of the 6 amino acids investigated, only GABA and alanine levels were elevated (in a time- and dose-dependent manner).
+4.
+The elevation in brain alanine levels could be explained, at least in part, by a time- and dose-dependent inhibitory effect of PLZ on alanine transaminase (ALA-T), although as with GABA the increases are higher than expected from the degree of enzyme inhibition produced.
+In addition, we also showed that the elevation in alanine levels and the inhibition of alanine transaminase in the brain are retained after 14 days of PLZ treatment, and that PLZ produces a marked increase in extracellular levels of alanine.
+5.
+These results are discussed in terms of their relevance to synaptic function and to the pharmacological profile of PLZ.

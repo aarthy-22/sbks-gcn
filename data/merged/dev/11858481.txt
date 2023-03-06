@@ -1,0 +1,14 @@
+Efficacy and safety of the factor VIII/von Willebrand factor concentrate, haemate-P/humate-P: ristocetin cofactor unit dosing in patients with von Willebrand disease.
+The present study was initiated to evaluate the safety and efficacy of Haemate-P (Humate-P in North America) (anti-hemophilic FVIII/VWF complex [human] dried, pasteurized) dosed in ristocetin cofactor units (VWF:RCo) in the treatment of von Willebrand disease (VWD) patients in Canada.
+This retrospective data collection reviewed the medical records of VWD patients treated under the Canadian Emergency Drug Release Program from November 22, 1991, to April 30, 1996.
+Data collection was accomplished by on-site retrieval from source data for 97 patients.
+Dosing was based on the German package insert, which lists only Factor VIII:C (FVIII:C) units, which were converted in the study analysis to VWF:RCo units based on the analysis of the individual manufactured lots of product used in these patients (average ratio of 2.6 IU VWF:RCo per IU FVIII:C).
+Twenty five different lots of Haemate-P/Humate-P were used to treat 437 different events in the 97 study patients (344 hemorrhagic events, 73 surgical interventions and 20 prophylactic infusion cycles).
+Overall, the median dose of concentrate per infusion used to treat surgical events was 69.1 IU VWF:RCo/kg (range 11.9-222.8); bleeding events 55.3 IU VWF:RCo/kg (range 17.1-227.5) and prophylaxis 41.6 IU VWF:RCo/kg (range 34.6-81.0).
+Treatment periods varied, with the majority of events treated for < or = 10 days (91%).
+Fifty percent of events that were treated longer than 10 days were given for prophylactic reasons.
+Efficacy was determined in a standardized manner by the physician, based on dosing in VWF:RCo activity.
+An overall clinical result of "excellent" or "good" was reported in 97% (424/437) of treatment events.
+A pediatric sub-population analysis of the patient population reported "excellent/good" efficacy in 100% (17/17) of treatment events in infants, 95% (155/164) in children, and 94% (76/81) in adolescent patients.
+Related adverse events (AEs) were observed in only 4 (4%) patients and were not deemed to be serious.
+The findings in this study confirm the safety and efficacy of Haemate-P/Humate-P using VWF:RCo dosing in pediatric and adult patients with various types of VWD.

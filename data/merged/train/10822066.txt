@@ -1,0 +1,6 @@
+Functional evidence that gastroprotection can be induced by activation of central alpha(2B)-adrenoceptor subtypes in the rat.
+Clonidine injected intracerebroventricularly (i.c.v.) (0.47 nmol/rat) exerted gastric mucosal protective effect against acidified ethanol.
+Evidence was obtained that the gastroprotective effect of clonidine was blocked by i.c.v.
+injected alpha(2)-adrenoceptor antagonists yohimbine (non-subtype selective antagonist), prazosin and 2-[2-(4-(O-methoxyphenyl)piperazin-1-yl)ethyl]-4,4-dimethyl-1,3-(2 H, 4H)-isoquinolindione (ARC-239) (representative alpha(2B/2C)-adrenoceptor blocking agents) and opioid receptor antagonists naloxone (a non-selective, moderately mu-opioid receptor preferring antagonist), naltrindole and naltriben delta-opioid receptor antagonists).
+The centrally injected naltrindole (0.5 nmol/rat) antagonised also the gastroprotective effect of clonidine --but not that of the delta-agonist [D-Ala(2), D-Leu(5)]enkephalin--administered peripherally.
+The results suggest that central alpha(2B/2C)-adrenoceptor subtypes and opioid--particularly delta--receptors are likely to be involved in the gastric mucosal protective effect of clonidine.

@@ -1,0 +1,12 @@
+Biodegradation and heart retention of polymeric microparticles in a rat model of myocardial ischemia.
+Poly-lactide-co-glycolide (PLGA) microparticles emerged as one of the most promising strategies to achieve site-specific drug delivery.
+Although these microparticles have been demonstrated to be effective in several wound healing models, their potential in cardiac regeneration has not yet been fully assessed.
+The present work sought to explore PLGA microparticles as cardiac drug delivery systems.
+PLGA microparticles were prepared by Total Recirculation One-Machine System (TROMS) after the formation of a multiple emulsion.
+Microparticles of different size were prepared and characterized to select the most suitable size for intramyocardial administration.
+Next, the potential of PLGA microparticles for administration in the heart was assessed in a MI rat model.
+Particle biodegradation over time and myocardial tissue reaction were studied by routine staining and confocal microscopy.
+Results showed that microparticles with a diameter of 5μm were the most compatible with intramyocardial administration in terms of injectability through a 29-gauge needle and tissue response.
+Particles were present in the heart tissue for up to 3months post-implantation and no particle migration toward other solid organs was observed, demonstrating good myocardial retention.
+CD68 immunolabeling revealed 31%, 47% and below 4% microparticle uptake by macrophages 1week, 1month, and 3months after injection, respectively (P<0.001).
+Taken together, these findings support the feasibility of the developed PLGA microparticles as vehicles for delivering growth factors in the infarcted myocardium.

@@ -1,0 +1,17 @@
+Pharmacokinetics, pharmacodynamics, and safety of exenatide in patients with type 2 diabetes mellitus.
+PURPOSE: The pharmacology and tolerability of exenatide in patients with type 2 diabetes mellitus were studied.
+METHODS: Two randomized, single-blind, placebo-controlled studies were conducted.
+Treatment with oral antidiabetic agents was stopped 14 days before study initiation.
+In the first study (study A), eight subjects received placebo, 0.1-, 0.2-, 0.3-, and either 0.4-microg/kg exenatide or placebo five minutes before a meal combined with liquid acetaminophen (to assess the rate of gastric emptying) on days 1, 3, 5, 7, and 9.
+In the second study (study B), subjects received a single s.c. dose of exenatide or placebo on consecutive days.
+Part 1 of study B used exenatide doses of 0.01 and 0.1 microg/ kg; 0.02-, 0.05-, and 0.1-microg/kg doses were given in part 2.
+After an overnight fast, the study drug was injected 15 minutes before a meal (part 1) and before a meal and acetaminophen (part 2).
+Parts 1 and 2 of study B enrolled six and eight patients, respectively.
+RESULTS: In both studies, plasma exenatide pharmacokinetic profiles appeared dose proportional.
+Exenatide doses of 0.02-0.2 microg/kg dose-dependently lowered postprandial glucose excursions.
+Exenatide suppressed postprandial plasma glucagon and slowed gastric emptying.
+There were no serious adverse events and no patient withdrawals related to treatment.
+Nausea and vomiting were the most common adverse events and were mild to moderate in severity at doses ranging from 0.02 to 0.2 microg/kg.
+CONCLUSION: Administration of preprandial exenatide by s.c.
+injection resulted in dose-proportional exenatide pharmacokinetics and antidiabetic pharmacodynamic activity.
+At doses ranging from 0.02 to 0.2 microg/kg, exenatide dose-dependently reduced postprandial plasma glucose excursion by insulinotropism, suppression of plasma glucagon, and slowing of gastric emptying.

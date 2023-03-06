@@ -1,0 +1,12 @@
+Molecular determinants of dofetilide block of HERG K+ channels.
+The human ether-a-go-go-related gene (HERG) encodes a K+ channel with biophysical properties nearly identical to the rapid component of the cardiac delayed rectifier K+ current (IKr).
+HERG/IKr channels are a prime target for the pharmacological management of arrhythmias and are selectively blocked by class III antiarrhythmic methanesulfonanilide drugs, such as dofetilide, E4031, and MK-499, at submicromolar concentrations.
+By contrast, the closely related bovine ether-a-go-go channel (BEAG) is 100-fold less sensitive to dofetilide.
+To identify the molecular determinants for dofetilide block, we first engineered chimeras between HERG and BEAG and then used site-directed mutagenesis to localize single amino acid residues responsible for block.
+Using constructs heterologously expressed in Xenopus oocytes, we found that transplantation of the S5-S6 linker from BEAG into HERG removed high-affinity block by dofetilide.
+A point mutation in the S5-S6 linker region, HERG S620T, abolished high-affinity block and interfered with C-type inactivation.
+Thus, our results indicate that important determinants of dofetilide binding are localized to the pore region of HERG.
+Since the loss of high-affinity drug binding was always correlated with a loss of C-type inactivation, it is possible that the changes observed in drug binding are due to indirect allosteric modifications in the structure of the channel protein and not to the direct interaction of dofetilide with the respective mutated site chains.
+However, the chimeric approach was not able to identify domains outside the S5-S6 linker region of the HERG channel as putative candidates involved in drug binding.
+Moreover, the reverse mutation BEAG T432S increased the affinity of BEAG K+ channels for dofetilide, whereas C-type inactivation could not be recovered.
+Thus, the serine in position HERG 620 may participate directly in dofetilide binding; however, an intact C-type inactivation process seems to be crucial for high-affinity drug binding.

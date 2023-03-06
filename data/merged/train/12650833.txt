@@ -1,0 +1,8 @@
+Effects of serine/threonine protein phosphatase inhibitors on morphine-induced antinociception in the tail flick test in mice.
+The aim of this study was to evaluate the effects of serine/threonine protein phosphatase (PP) inhibitors on morphine-induced antinociception in the tail flick test in mice, and on [3H]naloxone binding to the forebrain crude synaptosome fraction.
+Neither okadaic acid nor cantharidin (1-10000 nM) displaced [3H]naloxone from its specific binding sites, which indicates that they do not interact at the opioid receptor level.
+The i.c.v.
+administration of very low doses of okadaic acid (0.001-1 pg/mouse) and cantharidin (0.001-1 ng/mouse), which inhibit PP2A, produced a dose-dependent antagonism of the antinociception induced by morphine (s.c.).
+However, L-nor-okadaone (0.001 pg/mouse-1 ng/mouse, i.c.v.), an analogue of okadaic acid lacking activity against protein phosphatases, did not affect the antinociceptive effect of morphine.
+On the other hand, high doses of okadaic acid (10 ng/mouse, i.c.v.) and cantharidin (1 microg/mouse, i.c.v.), which also block PP1, and calyculin-A (0.1 fg/mouse-1 ng/mouse, i.c.v.), which inhibits equally both PP1 and PP2A, did not modify the morphine-induced antinociception.
+These results suggest that the activation of type 2A serine/threonine protein phosphatases may play a role in the antinociceptive effect of morphine, and that PP1 might counterbalace this activity.

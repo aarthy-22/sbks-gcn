@@ -1,0 +1,13 @@
+Abnormally high plasma levels of vitamin B6 in children with autism not taking supplements compared to controls not taking supplements.
+BACKGROUND: There have been many studies of the effect of high-dose supplementation of vitamin B6 on children and adults with autism, with all but one reporting benefits.
+OBJECTIVE: The aim of this study was to investigate the biochemical basis for vitamin B6 therapy by measuring the level of total vitamin B6 in the plasma of unsupplemented children with autism spectrum disorder compared to unsupplemented control subjects.
+PARTICIPANTS: Children with autism spectrum disorders (n = 35, age 3-9 years) and unrelated typical children (n = 11, age 6-9 years), all from Arizona, were studied.
+(This includes the data from 24 children with autism from our previous study.) METHODOLOGY: A microbiologic assay was used to measure the level of total vitamin B6 (including phosphorylated and unphosphorylated forms), in a blinded fashion.
+RESULTS: Children with autism had a 75% higher level of total vitamin B6 than the controls (medians of 56 versus 32 ng/mL, respectively, p = 0.00002).
+Most of the autistic children (77%) had levels that were more than 2 standard deviations above the median value of the controls.
+The autistic girls (n = 5)
+also had elevated levels (mean of 54.6 ng/mL, median of 60 ng/mL).
+DISCUSSION: These results are consistent with previous studies that found that: (1) pyridoxal kinase had a very low activity in children with autism and (2) pyridoxal 5 phosphate (PLP) levels are unusually low in children with autism.
+Thus, it appears that the low conversion of pyridoxal and pyridoxine to PLP results in low levels of PLP, which is the active cofactor for 113 known enzymatic reactions, including the formation of many key neurotransmitters.
+CONCLUSIONS: Total vitamin B6 is abnormally high in autism, consistent with previous reports of an impaired pyridoxal kinase for the conversion of pyridoxine and pyridoxal to PLP.
+This may explain the many published studies of benefits of high-dose vitamin B6 supplementation in some children and adults with autism.

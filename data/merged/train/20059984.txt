@@ -1,0 +1,9 @@
+Activation of glutamate transporters in the locus coeruleus paradoxically activates descending inhibition in rats.
+Descending noradrenergic inhibition is an important endogenous pain-relief mechanism which can be activated by local glutamate signaling.
+In the present study, we examined the effect of glutamate transporter activation by riluzole in the regulation of activity of locus coeruleus (LC) neurons, which provide the major inhibitory descending noradrenergic projection to the spinal cord.
+Local injection of riluzole into the LC dose-dependently reduced hypersensitivity in rats after L5-L6 spinal nerve ligation (SNL).
+This anti-hypersensitivity effect of LC-injected riluzole was blocked by intrathecal administration of the alpha2-adrenoceptor antagonist idazoxan and intra-LC co-injection of the AMPA antagonist 6-cyano-7-nitroquinoxaline-2,3-dione (CNQX) and the gap-junction blockers, carbenoxolone (CBX) and meclofenamic acid (MEC).
+In brainstem slices from normal rats, riluzole increased phosphorylated cAMP response element binding protein (pCREB) expressing nuclei in dopamine-beta-hydroxylase (DbetaH) containing cells in the LC.
+This riluzole-induced pCREB activation in LC neurons was also blocked by CNQX and CBX.
+In the primary astrocyte culture, riluzole enhanced glutamate-induced glutamate release.
+Contrary to expectations, these results suggest that activation of glutamate transporters in the LC results in increase of extracellular glutamate signaling, possibly via facilitation of glutamate release from astrocytes, and activation of LC neurons to induce descending inhibition, and that this paradoxical action of glutamate transporters in the LC requires gap-junction connections.

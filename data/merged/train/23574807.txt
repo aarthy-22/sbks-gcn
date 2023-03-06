@@ -1,0 +1,6 @@
+Synthesis, Antidepressant Evaluation and Docking Studies of Long-Chain Alkylnitroquipazines as Serotonin Transporter Inhibitors.
+Twelve alkyl analogues (1-12) of the high-affinity serotonin transporter (SERT) inhibitor 6-nitroquipazine (6-NQ) were synthesized and studied using in vitro radioligand competition binding assays to determine their binding affinity (Ki ).
+The putative antidepressant activity of five of the binders with the highest SERT binding affinities was studied by the forced swim and locomotor activity mouse tests.
+The three-dimensional (3D) structures of 8 and 9 were determined using NOE NMR technique.
+Flexible docking of the compounds was undertaken to illustrate the binding of the compounds in the SERT model.
+Our results showed that several of the 6-NQ analogues are high-affinity SERT inhibitors and indicated that the octyl (8), decyl (10) and dodecyl (12) 6-NQ analogues exhibit moderate antidepressant activity.

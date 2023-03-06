@@ -1,0 +1,10 @@
+Regulation of UVB-induced IL-8 and MCP-1 production in skin keratinocytes by increasing vitamin C uptake via the redistribution of SVCT-1 from the cytosol to the membrane.
+It is well known that UVB (290-320 nm) induces inflammation in skin by the transcription and release of cytokines and chemokines from skin keratinocytes.
+In addition, it is considered that intracellular reactive oxygen species (ROS) plays an important role in UVB-induced inflammatory response in the skin.
+Therefore, we investigated the effect of vitamin C, a potent antioxidant, on the regulation of UVB-induced skin inflammation via the modulation of chemokines production.
+Vitamin C uptake into keratinocytes is increased by UVB irradiation in a time- and dose-dependent manner through the translocation of sodium-dependent vitamin C transporter-1 (SVCT-1), a vitamin C-specific transporter, from the cytosol to the membrane.
+To evaluate the effect of vitamin C on the chemokine mRNA expression, we performed RNase protection assay.
+As a result, there was a remarkable change in chemokine mRNA expression, especially IL-8 and monocyte chemoattractant protein (MCP)-1 expression.
+In addition, increased IL-8 and MCP-1 mRNA expressions were suppressed by vitamin C treatment.
+We also confirmed the results of protein levels measured by ELISA.
+Taken together, vitamin C uptake is increased in UVB-irradiated keratinocytes through the translocation of SVCT-1 and regulates inflammatory response in the skin via the downregulation of IL-8 and MCP-1 production.

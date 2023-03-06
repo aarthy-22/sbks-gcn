@@ -1,0 +1,12 @@
+Refining the UGT1A haplotype associated with irinotecan-induced hematological toxicity in metastatic colorectal cancer patients treated with 5-fluorouracil/irinotecan-based regimens.
+Despite the importance of UDP-glucuronosyltransferase (UGT) 1A1*28 in irinotecan pharmacogenetics, our capability to predict drug-induced severe toxicity remains limited.
+We aimed at identifying novel genetic markers that would improve prediction of irinotecan toxicity and response in advanced colorectal cancer patients treated with folic acid (leucovorin), fluorouracil (5-FU), and irinotecan (camptosar)-based regimens.
+The relationships between UGT1A candidate markers across the gene (n = 21) and toxicity were prospectively evaluated in 167 patients.
+We included variants in the 3'untranscribed region (3'UTR) of the UGT1A locus, not studied in this context yet.
+These genetic markers were further investigated in 250 Italian FOLFIRI-treated patients.
+Several functional UGT1A variants, including UGT1A1*28, significantly influenced risk of severe hematologic toxicity.
+As previously reported in the Italian cohort, a 5-marker risk haplotype [haplotype II (HII); UGTs 1A9/1A7/1A1] was associated with severe neutropenia in our cohort [odds ratio (OR) = 2.43; P = 0.004].
+The inclusion of a 3'UTR single-nucleotide polymorphism (SNP) permitted refinement of the previously defined HI, in which HIa was associated with the absence of severe neutropenia in combined cohorts (OR = 0.55; P = 0.038).
+Among all tested UGT1A variations and upon multivariate analyses, no UGT1A1 SNPs remained significant, whereas three SNPs located in the central region of UGT1A were linked to neutropenia grade 3-4.
+Haplotype analyses of these markers with the 3'UTR SNP allowed the identification of a protective HI (OR = 0.50; P = 0.048) and two risk haplotypes, HII and HIII, characterized by 2 and 3 unfavorable alleles, respectively, revealing a dosage effect (ORs of 2.15 and 5.28; P ≤ 0.030).
+Our results suggest that specific SNPs in UGT1A, other than UGT1A1*28, may influence irinotecan toxicity and should be considered to refine pharmacogenetic testing.

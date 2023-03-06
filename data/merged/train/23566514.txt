@@ -1,0 +1,5 @@
+Discovery and synthesis of novel 4-aminopyrrolopyrimidine Tie-2 kinase inhibitors for the treatment of solid tumors.
+The synthesis and biological evaluation of novel Tie-2 kinase inhibitors are presented.
+Based on the pyrrolopyrimidine chemotype, several new series are described, including the benzimidazole series by linking a benzimidazole to the C5-position of the 4-amino-pyrrolopyrimidine core and the ketophenyl series synthesized by incorporating a ketophenyl group to the C5-position.
+Medicinal chemistry efforts led to potent Tie-2 inhibitors.
+Compound 15, a ketophenyl pyrrolopyrimidine urea analog with improved physicochemical properties, demonstrated favorable in vitro attributes as well as dose responsive and robust oral tumor growth inhibition in animal models.

@@ -1,0 +1,12 @@
+MAPK signaling pathways regulate mitochondrial-mediated apoptosis induced by isoorientin in human hepatoblastoma cancer cells.
+Isoorientin (ISO) (CAS RN: 4261-42-1) is a flavonoid compound that can be extracted from several plant species, such as Phyllostachys pubescens, Patrinia, and Drosophyllum lusitanicum.
+ISO is able to induce apoptosis through mitochondrial dysfunction and inhibition of PI3K/Akt signaling pathway in HepG2 cells, however, the effects of ISO on MAPK signaling pathways remain unknown.
+The present study investigated the effects of ISO on this pathway, and the roles of MAPK kinases on mitochondrial-mediated apoptosis in HepG2 cells.
+The results showed that ISO induced cell death in a dose- and time-dependent manner, and induction apoptosis is main cause for ISO-induced cytotoxicity in HepG2 cells.
+ISO significantly inhibited the levels of ERK1/2 kinase and increased the expression of JNK and p38 kinases.
+Furthermore, U0126 (an ERK1/2 inhibitor) significantly enhanced the ISO-induced the Bax/Bcl-2 ratio, the release of cytochrome c to the cytosol fraction, and the levels of cleaved caspase-3.
+While SP600125 (a JNK inhibitor) and SB203580 (a p38 inhibitor) markedly prevented the expression of these proteins induced by ISO.
+Furthermore, the ROS inhibitor (NAC) notably promoted the inhibited effect of ISO on the ERK1/2 kinase.
+NAC also suppressed the p-JNK and p-p38, but failed to reverse the effects of ISO.
+These results demonstrated for the first time that ISO induces apoptosis in HepG2 cells through inactivating ERK1/2 kinase and activating JNK and p38 kinases, and ROS stimulated by ISO is able to activate the MAPK singaling pathway as the upstream signaling molecules.
+Initiating event of the mitochondrial-mediated apoptosis induced by ISO is MAPK signals.

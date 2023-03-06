@@ -1,0 +1,9 @@
+Activation and coupling of the glutaminase and synthase reaction of glutamate synthase is mediated by E1013 of the ferredoxin-dependent enzyme, belonging to loop 4 of the synthase domain.
+Crystal structures of glutamate synthase suggested that a conserved glutamyl residue of the synthase domain (E1013 of Synechocystis sp. PCC 6803 ferredoxin-dependent glutamate synthase, FdGltS) may play a key role in activating glutamine binding and hydrolysis and ammonia transfer to the synthase site in this amidotransferase, in response to the ligation and redox state of the synthase site.
+The E1013D, N, and A, variants of FdGltS were overproduced in Escherichia coli cells, purified, and characterized.
+The amino acyl substitutions had no effect on the reactivity of the synthase site nor on the interaction with ferredoxin.
+On the contrary, a dramatic decrease of activity was observed with the D (approximately 100-fold), N and A (approximately 10,000-fold) variants, mainly due to an effect on the maximum velocity of the reaction.
+The E1013D variant showed coupling between glutamine hydrolysis at the glutaminase site and 2-oxoglutarate-dependent L-glutamate synthesis at the synthase site, but a sigmoid dependence of initial velocity on L-glutamine concentration.
+The E1013N variant exhibited hyperbolic kinetics, but the velocity of glutamine hydrolysis was twice that of glutamate synthesis from 2-oxoglutarate at the synthase site.
+These results are consistent with the proposed role of E1013 in signaling the presence of 2-oxoglutarate (and reducing equivalents) at the synthase site to the glutaminase site in order to activate it and to promote ammonia transfer to the synthase site through the ammonia tunnel.
+The sigmoid dependence of the initial velocity of the glutamate synthase reaction of the E1013D mutant on glutamine concentration provides evidence for a participation of glutamine in the activation of glutamate synthase during the catalytic cycle.

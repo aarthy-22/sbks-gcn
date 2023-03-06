@@ -1,0 +1,14 @@
+In vitro characterization of the erythrocyte distribution of methazolamide: a model of erythrocyte transport and binding kinetics.
+The rate and extent of binding of methazolamide to human erythrocytes was studied in vitro.
+All experiments were carried out at physiological temperature (37 C) and pH (7.4).
+Methazolamide (MTZ) buffer concentrations were analyzed by HPLC.
+Distributional equilibrium between buffer and washed red blood cells was achieved after 1 hr.
+Results of equilibrium studies were consistent with two classes of binding sites for MTZ within the erythrocyte: a low affinity, high capacity site (CA-I) and a high affinity, low capacity site (CA-II).
+A two-binding site model was fitted to experimental data generating estimates for binding parameters Ka1 (0.0017 +/-
+0.00022 microM-1) nM1 (636 +/- 5.23 microM), Ka2(0.46 +/-
+0.0083 microM-1), and nM2(80.9 +/- 0.389 microM).
+Based upon these findings, kinetic studies were performed in order to characterize the rate of drug distribution.
+The rate of erythrocyte uptake of MTZ was mathematically modeled using a series of differential equations describing drug diffusion across the red blood cell membrane and subsequent complexation with intracellular binding sites.
+The model assumed that penetration of MTZ into the red blood cells was passive but drug binding to the carbonic anhydrase isozymes was not instantaneous.
+Using a novel curve fitting technique, parameter estimates of RBC membrane permeability (0.0102 +/- 0.000618 cm/min), and binding rate constants k-1(0.254 +/- 0.0213 min-1), k1 (0.0022 +/- 0.00020 ml/microgram-min), k-2(1.59 +/- 0.0358 min-1), and k2(3.1 +/- 0.035 ml/microgram-min) were obtained.
+The model characterized the observed biphasic decline of MTZ buffer concentrations over time and may help explain the prolonged residence of MTZ in vivo.

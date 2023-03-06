@@ -1,0 +1,8 @@
+2-Arylpropionic CXC chemokine receptor 1 (CXCR1) ligands as novel noncompetitive CXCL8 inhibitors.
+The CXC chemokine CXCL8/IL-8 plays a major role in the activation and recruitment of polymorphonuclear (PMN) cells at inflammatory sites.
+CXCL8 activates PMNs by binding the seven-transmembrane (7-TM) G-protein-coupled receptors CXC chemokine receptor 1 (CXCR1) and CXC chemokine receptor 2 (CXCR2).
+(R)-Ketoprofen (1) was previously reported to be a potent and specific noncompetitive inhibitor of CXCL8-induced human PMNs chemotaxis.
+We report here molecular modeling studies showing a putative interaction site of 1 in the TM region of CXCR1.
+The binding model was confirmed by alanine scanning mutagenesis and photoaffinity labeling experiments.
+The molecular model driven medicinal chemistry optimization of 1 led to a new class of potent and specific inhibitors of CXCL8 biological activity.
+Among these, repertaxin (13) was selected as a clinical candidate drug for prevention of post-ischemia reperfusion injury.

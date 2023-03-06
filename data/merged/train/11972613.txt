@@ -1,0 +1,14 @@
+Cysteinyl leukotriene-dependent interleukin-5 production leading to eosinophilia during late asthmatic response in guinea-pigs.
+BACKGROUND: Allergic airway eosinophilia is suppressed by cysteinyl leukotriene (CysLT) receptor (CysLT1 receptor) antagonists in several species including humans and guinea-pigs, suggesting that CysLTs are directly or indirectly involved in induction of the response.
+OBJECTIVE: We examined the effect of CysLT antagonists (pranlukast and MCI-826) on antigen inhalation-induced eosinophilia in peripheral blood and lung, and on IL-5 activity in serum during late increase of airway resistance (late asthmatic response, LAR) in sensitized guinea-pigs.
+METHODS: Guinea-pigs inhaled ovalbumin (OVA) + Al(OH)3 and OVA mists alternately for sensitization and challenge, respectively, once every 2 weeks.
+At the fifth challenge, the effects of CysLT antagonists and an anti-IL-5 antibody (TRFK-5) on the occurrence of LAR, and blood and lung eosinophilia, which appeared at 5 h after challenge, were examined.
+The time-course of IL-5 activity in the serum after the challenge was evaluated by measuring in vitro 'eosinophil survival prolongation activity'.
+The influence of CysLT antagonists on IL-5 activity was assessed.
+RESULTS: CysLT antagonists and TRFK-5 completely abolished blood and lung eosinophilia.
+LAR was suppressed by both MCI-826 and TRFK-5 by 40-50%.
+Sera obtained from sensitized, challenged animals 3 h and 4 h after challenge induced an obvious prolongation of eosinophil survival.
+The activity of the sera was completely neutralized by prior exposure to TRFK-5, suggesting that it reflected IL-5 activity.
+Increased IL-5 activity in the serum was inhibited by both pranlukast and MCI-826 by over 90%.
+CONCLUSIONS: CysLTs produced after antigen provocation sequentially induced IL-5 production from some immune component cells via CysLT1 receptor activation.
+Thus, it is likely that CysLTs indirectly cause antigen-induced eosinophilia through IL-5 production.

@@ -1,0 +1,12 @@
+Perinatal exposure to BDE-99 causes learning disorders and decreases serum thyroid hormone levels and BDNF gene expression in hippocampus in rat offspring.
+Exposure of pregnant women to polybrominated diphenyl ethers (PBDEs) may mean serious health risks.
+The main goal of the present study was to examine the neurobehavioral changes in rat offspring that were perinatally exposed to one of the most prevalent PBDEs congeners found in humans, 2,2',4,4',5-pentaBDE (BDE-99).
+Rat dams were exposed to 0, 1 and 2mg/kg/day of BDE-99 from gestation day 6 to post-natal day 21.
+When pups were weaning, cortex and hippocampal gene expressions of brain-derived neurotrophic factor (BDNF) of the different isoforms of the thyroid hormone (TH) receptors (TRs) were evaluated.
+Serum TH levels were also determined.
+The remaining pups were assessed by neurobehavioral testing for learning and memory function.
+The results showed that maternal transference of BDE-99 produced a delay in the spatial learning task in the water maze test.
+Moreover, the open-field test revealed a significant dose-response anxiolytic effect.
+It was also found that the serum levels of triiodothyronine (T3), tetraiiodothyronine (T4) and free-T4 (FT4) decreased.
+Although no effect on the gene expression of the different isoforms of TRs was observed, the expression of the TH-mediated gene BDNF was down-regulated in the hippocampus.
+These results indicate a clear signal disruption of TH and reinforce previous studies in which neurotoxic effects of PBDEs in animal research were observed at levels comparable to those found in humans.

@@ -1,0 +1,13 @@
+Creb1-Mecp2-(m)CpG complex transactivates postnatal murine neuronal glucose transporter isoform 3 expression.
+The murine neuronal facilitative glucose transporter isoform 3 (Glut3) is developmentally regulated, peaking in expression at postnatal day (PN)14.
+In the present study, we characterized a canonical CpG island spanning the 5'-flanking region of the glut3 gene.
+Methylation-specific PCR and bisulfite sequencing identified methylation of this CpG ((m)CpG) island of the glut3 gene, frequency of methylation increasing 2.5-fold with a 1.6-fold increase in DNA methyl transferase 3a concentrations noted with advancing postnatal age (PN14 vs PN3).
+5'-flanking region of glut3-luciferase reporter transient transfection in HT22 hippocampal neurons demonstrated that (m)CpGs inhibit glut3 transcription.
+Contrary to this biological function, glut3 expression rises synchronously with (m)CpGs in PN14 vs PN3 neurons.
+Chromatin immunoprecipitation (IP) revealed that methyl-CpG binding protein 2 (Mecp2) bound the glut3-(m)CpGs.
+Depending on association with specific coregulators, Mecp2, a dual regulator of gene transcription, may repress or activate a downstream gene.
+Sequential chromatin IP uncovered the glut3-(m)CpGs to bind Mecp2 exponentially upon recruitment of Creb1 rather than histone deacetylase 1.
+Co-IP and coimmunolocalization confirmed that Creb1 associated with Mecp2 and cotransfection with glut3-(m)CpG in HT22 cells enhanced glut3 transcription.
+Separate 5-aza-2'-deoxycytidine pretreatment or in combination with trichostatin A reduced (m)CpG and specific small interference RNAs targeting Mecp2 and Creb1 separately or together depleting Mecp2 and/or Creb1 binding of glut3-(m)CpGs reduced glut3 expression in HT22 cells.
+We conclude that Glut3 is a methylation-sensitive neuronal gene that recruits Mecp2.
+Recruitment of Creb1-Mecp2 by glut3-(m)CpG contributes towards transactivation, formulating an escape from (m)CpG-induced gene suppression, and thereby promoting developmental neuronal glut3 gene transcription and expression.

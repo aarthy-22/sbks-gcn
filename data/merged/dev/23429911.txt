@@ -1,0 +1,11 @@
+Molecular mechanism regulating 24-hour rhythm of dopamine d3 receptor expression in mouse ventral striatum.
+The dopamine D3 receptor (DRD3) in the ventral striatum is thought to influence motivation and motor functions.
+Although the expression of DRD3 in the ventral striatum has been shown to exhibit 24-hour variations, the mechanisms underlying the variation remain obscure.
+Here, we demonstrated that molecular components of the circadian clock act as regulators that control the 24-hour variation in the expression of DRD3.
+The transcription of DRD3 was enhanced by the retinoic acid-related orphan receptor α (RORα), and its activation was inhibited by the orphan receptor REV-ERBα, an endogenous antagonist of RORα.
+The serum or dexamethasone-induced oscillation in the expression of DRD3 in cells was abrogated by the downregulation or overexpression of REV-ERBα, suggesting that REV-ERBα functions as a regulator of DRD3 oscillations in the cellular autonomous clock.
+Chromatin immunoprecipitation assays of the DRD3 promoter indicated that the binding of the REV-ERBα protein to the DRD3 promoter increased in the early dark phase.
+DRD3 protein expression varied with higher levels during the dark phase.
+Moreover, the effects of the DRD3 agonist 7-hydroxy-N,N-dipropyl-2-aminotetralin (7-OH-DPAT)-induced locomotor hypoactivity were significantly increased when DRD3 proteins were abundant.
+These results suggest that RORα and REV-ERBα consist of a reciprocating mechanism wherein RORα upregulates the expression of DRD3, whereas REV-ERBα periodically suppresses the expression at the time of day when REV-ERBα is abundant.
+Our present findings revealed that a molecular link between the circadian clock and the function of DRD3 in the ventral striatum acts as a modulator of the pharmacological actions of DRD3 agonists/antagonists.

@@ -1,0 +1,10 @@
+Insulinotropic meglitinide analogues.
+The loss of early-phase insulin secretion is an important and early event in the natural history of type 2 diabetes.
+Because a normal pattern of insulin secretion is essential for the effective control of postprandial metabolism, a rational basis for the development of agents that target early-phase insulin release exists.
+Conventional oral hypoglycaemic agents do not target, or adequately control, postprandial glycaemia.
+The emergence of new classes of oral agent with a more specific mode of action provides, for the first time, an opportunity to restore early-phase insulin release.
+One such drug class is the meglitinide analogues (repaglinide, nateglinide, and mitiglinide).
+These drugs are ideally suited for combination use with metformin.
+They could also prove effective in combination with a thiazolidinedione, a drug class that targets insulin resistance.
+Exogenous insulin is frequently required in the late management of type 2 diabetes.
+However, one hope for newer combinations of diabetic drugs is that the functional life of the beta cell can be extended, thereby delaying the need for insulin injections.

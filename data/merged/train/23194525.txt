@@ -1,0 +1,10 @@
+The nutritional supplement Active Hexose Correlated Compound (AHCC) has direct immunomodulatory actions on intestinal epithelial cells and macrophages involving TLR/MyD88 and NF-κB/MAPK activation.
+Active Hexose Correlated Compound (AHCC) is an immunostimulatory nutritional supplement.
+AHCC effects and mechanism of action on intestinal epithelial cells or monocytes are poorly described.
+AHCC was added to the culture medium of intestinal epithelial cells (IEC18 and HT29 cells) and monocytes (THP-1 cells) and assessed the secretion of proinflammatory cytokines by ELISA.
+Inhibitors of NFκB and MAPKs were used to study signal transduction pathways while TLR4 and MyD88 were silenced in IEC18 cells using shRNA.
+It was found that AHCC induced GROα and MCP1 secretion in IEC18 and IL-8 in HT29 cells.
+These effects depended on NFκB activation, and partly on MAPKs activation and on the presence of MyD88 and TLR4.
+In THP-1 cells AHCC evoked IL-8, IL-1β and TNF-α secretion.
+The induction of IL-8 depended on JNK and NFκB activation.
+Therefore, AHCC exerts immunostimulatory effects on intestinal epithelial cells and monocytes involving TLR4/MyD88 and NFκB/MAPK signal transduction pathways.

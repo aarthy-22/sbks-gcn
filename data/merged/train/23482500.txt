@@ -1,0 +1,12 @@
+Sorafenib Hepatobiliary Disposition: Mechanisms of Hepatic Uptake and Disposition of Generated Metabolites.
+Sorafenib is an orally active tyrosine kinase inhibitor used in the treatment of renal and hepatocellular carcinoma.
+This study was designed to establish whether transport proteins are involved in the hepatic uptake of sorafenib, and to determine the extent of biliary excretion of sorafenib/metabolites in human hepatocytes.
+Initial uptake was assessed in freshly isolated, suspended human hepatocytes in the presence of inhibitors and modulators.
+[(14)C]Sorafenib (1 μM) uptake at 4°C was ~61-63% of the uptake at 37°C, suggesting a high degree of passive diffusion.
+Hepatocyte uptake of [(14)C]sorafenib was not Na(+)-dependent or influenced by the organic anion transporter 2 (OAT2) inhibitor ketoprofen.
+However, initial [(14)C]sorafenib hepatocyte uptake was reduced by 46 and 30% compared to control values in the presence of the organic anion transporting polypeptide (OATP) inhibitor rifamycin SV, and the organic cation transporter (OCT) inhibitor decynium 22, respectively.
+[(14)C]Sorafenib (0.5 to 5 μM) uptake was significantly higher in hOCT1-transfected CHO cells compared to mock cells, and inhibited by the general OCT inhibitor, MPP(+).
+OCT1-mediated uptake was saturable with a Km of 3.80 ± 2.53 μM and Vmax of 116 ± 42 pmol/mg/min.
+The biliary excretion index (BEI) and in vitro biliary clearance (Clbiliary) of sorafenib (1 μM) in sandwich-cultured human hepatocytes were low (~11% and 11 ml/min/kg, respectively).
+Results suggest that sorafenib uptake in human hepatocytes occurs via passive diffusion, and by OCT1 and a rifamycin-sensitive transporter.
+Sorafenib undergoes modest biliary excretion, predominantly as glucuronide conjugate(s).

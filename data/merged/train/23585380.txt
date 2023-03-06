@@ -1,0 +1,11 @@
+Dual Growth Factor Delivery Using Biocompatible Core-Shell Microcapsules for Angiogenesis.
+An optimized electrodropping system produces homogeneous core-shell microcapsules (C-S MCs) by using poly(L-lactic-co-glycolic acid) (PLGA) and alginate.
+Fluorescence imaging clearly shows the C-S domain in the MC.
+For release control, the use of high-molecular-weight PLGA (HMW 270 000) restrains the initial burst release of protein compared to that of low-MW PLGA (LMW 40 000).
+Layer-by-layer (LBL) assembly of chitosan and alginate on MCs is also useful in controlling the release profile of biomolecules.
+LBL (7-layer) treatment is effective in suppressing the initial burst release of protein compared to no LBL (0-layer).
+The difference of cumulative albumin release between HMW (7-layer LBL) and LMW (0-layer LBL) PLGA is determined to be more than 40% on day 5.
+When dual angiogenic growth factors (GFs), such as platelet-derived GF (PDGF) and vascular endothelial GF (VEGF), are encapsulated separately in the core and shell domains, respectively, the VEGF release rate is much greater than that of PDGF, and the difference of the cumulative release percentage between the two GFs is about 30% on day 7 with LMW core PLGA and more than 45% with HMW core PLGA.
+As for the angiogenic potential of MC GFs with human umbilical vein endothelial cells (HUVECs), the fluorescence signal of CD31+ suggests that the angiogenic sprout of ECs is more active in MC-mediated GF delivery than conventional GF delivery, and this difference is significant, based on the number of capillary branches in the unit area.
+This study demonstrates that the fabrication of biocompatible C-S MCs is possible, and that the release control of biomolecules is adjustable.
+Furthermore, MC-mediated GFs remain in an active form and can upregulate the angiogenic activity of ECs.

@@ -1,0 +1,11 @@
+Bioreducible polymers as a determining factor for polyplex decomplexation rate and transfection.
+Polyplex formation (complexation) and gene release from the polyplexes (decomplexation) are major events in polymeric gene delivery; however, the effect of the decomplexation rate on transfection has been rarely investigated.
+This study employed mixed polymers of poly((L)-lysine) (PLL: MW ~7.4 kDa) and reducible PLL (RPLL) (MW ~6.7 kDa) to design decomplexation rate-controllable PLL(100-x)RPLL(x)/pDNA complexes (PRL(x) polyplexes).
+The transfection efficiency of a model gene (luciferase) in MCF7 and HEK293 cell lines increased with increasing x (RPLL content) in the PRL(x) polyplexes until peaking at x = 2.5 and 10, respectively, after which point transfection efficiency declined rapidly.
+In MCF7 cells, PRL(2.5) polyplex produced 3 or 223 times higher gene expression than PLL or RPLL polyplexes, respectively.
+Similarly, the transfection efficiency of PRL(10) polyplex-transfected HEK293 cells was 3.8 or 67 times higher than that of PLL or RPLL polyplexes, respectively.
+The transfection results were not apparently related to the particle size, surface charge, complexation/compactness, cellular uptake, or cytotoxicity of the tested polyplexes.
+However, the decomplexation rate varied by RPLL content in the polyplexes, which in turn influenced the gene transfection.
+The nuclear localization of pDNA delivered by PRL(x) polyplexes showed a similar trend to their transfection efficiencies.
+This study suggests that an optimum decomplexation rate may result in high nuclear localization of pDNA and transfection.
+Understanding in decomplexation and intracellular localization of pDNA may help develop more effective polyplexes.

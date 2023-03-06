@@ -1,0 +1,9 @@
+Direct molecular and spectroscopic evidence for increased ammonia removal capacity of skeletal muscle in acute liver failure.
+BACKGROUND/AIMS: It has been proposed that, in acute liver failure, skeletal muscle adapts to become the principle organ responsible for removal of blood-borne ammonia by increasing glutamine synthesis, a reaction that is catalyzed by the cytosolic ATP-dependent enzyme glutamine synthetase.
+To address this issue, glutamine synthetase expression and activities were measured in skeletal muscle of rats with acute liver failure resulting from hepatic devascularization.
+METHODS: Glutamine synthetase protein and gene expression were investigated using immunoblotting and semi-quantitative RT-PCR analysis.
+Glutamine synthetase activity and glutamine de novo synthesis were measured using, respectively, a standard enzymatic assay and [13C]-nuclear magnetic resonance spectroscopy.
+RESULTS: Glutamine synthetase protein (but not gene) expression and enzyme activities were significantly up-regulated leading to increased de novo synthesis of glutamine and increased skeletal muscle capacity for ammonia removal in acute liver failure.
+In contrast to skeletal muscle, expression and activities of glutamine synthetase in the brain were significantly decreased.
+CONCLUSIONS: These findings demonstrate that skeletal muscle adapts, through a rapid induction of glutamine synthetase, to increase its capacity for removal of blood-borne ammonia in acute liver failure.
+Maintenance of muscle mass together with the development of agents with the capacity to stimulate muscle glutamine synthetase could provide effective ammonia-lowering strategies in this disorder.

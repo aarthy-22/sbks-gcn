@@ -1,0 +1,9 @@
+Discovery of a Novel Selective PPARγ Ligand with Partial Agonist Binding Properties by Integrated in Silico/in Vitro Work Flow.
+Full agonists to the peroxisome proliferator-activated receptor (PPAR)γ, such as Rosiglitazone, have been associated with a series of undesired side effects, such as weight gain, fluid retention, cardiac hypertrophy, and hepatotoxicity.
+Nevertheless, PPARγ is involved in the expression of genes that control glucose and lipid metabolism and is an important target for drugs against type 2 diabetes, dyslipidemia, atherosclerosis, and cardiovascular disease.
+In an effort to identify novel PPARγ ligands with an improved pharmacological profile, emphasis has shifted to selective ligands with partial agonist binding properties.
+Toward this end we applied an integrated in silico/in vitro workflow, based on pharmacophore- and structure-based virtual screening of the ZINC library, coupled with competitive binding and transactivation assays, and adipocyte differentiation and gene expression studies.
+Hit compound 9 was identified as the most potent ligand (IC50 = 0.3 μM) and a relatively poor inducer of adipocyte differentiation.
+The binding mode of compound 9 was confirmed by molecular dynamics simulation, and the calculated free energy of binding was -8.4 kcal/mol.
+A novel functional group, the carbonitrile group, was identified to be a key substituent in the ligand-protein interactions.
+Further studies on the transcriptional regulation properties of compound 9 revealed a gene regulatory profile that was to a large extent unique, however functionally closer to that of a partial agonist.

@@ -1,0 +1,11 @@
+The use of antioxidant enzymes in freshwater biofilms: Temporal variability vs. toxicological responses.
+This study aims to investigate the potential of antioxidant enzyme activities (AEA) as biomarkers of oxidative stress in freshwater biofilms.
+Therefore, biofilms were grown in channels for 38 days and then exposed to different concentrations (0-150μgL(-1)) of the herbicide oxyfluorfen for 5 more weeks.
+Under control conditions, the AEA of biofilms were found to change throughout time with a significant increase in ascorbate peroxidase (APX) activity during the exponential growth and a more important role of catalase (CAT) and glutathione reductase (GR) activities during the slow growth phase.
+Chronic exposure to oxyfluorfen led to slight variations in AEA, however, the ranges of variability of AEA in controls and exposed communities were similar, highlighting the difficulty of a direct interpretation of AEA values.
+After 5 weeks of exposure to oxyfluorfen, no clear effects were observed on chl-a concentration or on the composition of other pigments suggesting that algal group composition was not affected.
+Eukaryotic communities were structured clearly by toxicant concentration and both eukaryotic and bacterial richness were reduced in communities exposed to the highest concentration.
+In addition, during acute exposure tests performed at the end of the chronic exposure, biofilms chronically exposed to 75 and 150μgL(-1) oxyfluorfen showed a higher CAT activity than controls.
+Chronic exposure to oxyfluorfen provoked then structural changes but also functional changes in the capacity of biofilm CAT activity to respond to a sudden increase in concentration, suggesting a selection of species with higher antioxidant capacity.
+This study highlighted the difficulty of interpretation of AEA values due to their temporal variation and to the absence of absolute threshold value indicative of oxidative stress induced by contaminants.
+Nevertheless, the determination of AEA pattern throughout acute exposure test is of high interest to compare oxidative stress levels undergone by different biofilm communities and thus determine their antioxidant capacity.

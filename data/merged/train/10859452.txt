@@ -1,0 +1,8 @@
+Gene expression of the phosphodiesterases 3A and 5A in human corpus cavernosum penis.
+OBJECTIVE: The following study was performed to evaluate the importance of phosphodiesterases 3A (PDE3A) and 5A (PDE5A) for the regulation of penile smooth muscle tone.
+Furthermore, indications of side effects of specific inhibitors in certain tissues as well as of a possible relation between the level of PDE3A and PDE5A gene expression and erectile dysfunction should have been deduced from the results obtained.
+METHODS: Total ribonucleic acid was isolated from different human tissues (urogenital tract, gastrointestinal tract, cardiovascular system and central nervous system) and subjected to RTPCR analysis and Northern blotting using primers and probes specific for PDE3A and PDE5A.
+RESULTS: As shown by RT-PCR and Northern blotting, PDE3A and PDE5A mRNAs exhibit a distinct distribution throughout the tissues examined but were 2-fold higher in cavernous tissue than in all other tissues investigated.
+However, there were no significant differences in the levels of gene expression between the two subgroups of patients.
+CONCLUSIONS: Very high expression levels of PDE3A and PDE5A in human cavernous tissue underscore the physiological importance of these enzymes for the regulation of penile erection, emphasizing their therapeutical and pharmacological relevance.
+The distribution pattern of the mRNA for the isoenzymes PDE3A and PDE5A may explain the pharmacological effects as well as the side effects of milrinone and sidenafil.

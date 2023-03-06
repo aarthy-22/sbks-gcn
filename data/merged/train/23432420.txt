@@ -1,0 +1,11 @@
+SNAIL Induces Epithelial-to-Mesenchymal Transition and Cancer Stem Cell-like Properties in Aldehyde Dehydroghenase-Negative Thyroid Cancer Cells.
+Background: Epithelial-to-mesenchymal transition (EMT) has been thought to play a critical role in invasion and metastasis of cancer and to be associated with cancer stem cell (CSC) properties.
+It is not clear if there is a link between EMT and CSCs in thyroid cancers.
+We therefore investigated CSC properties of thyroid cancers that underwent EMT.
+Method: To induce EMT (spindle-like cell morphology, loss and acquisition of expression of an epithelial marker E-cadherin and a mesenchymal marker vimentin, respectively) in an epithelial type thyroid cancer cell line ACT-1, we used transforming growth factor-beta (TGF-beta), BRAFV600E and/or Snail homolog 1 (SNAI1, also known as SNAIL) .
+CSC properties were analyzed with assays for cell proliferation, chemosensitivity, in vitro and in vivo tumor formation ability, cell surface antigens and intracellular aldehyde dehydrogenase (ALDH; a known CSC marker) activities.
+Results: EMT was induced most efficiently by SNAIL (ACT-SNAIL cells), whereas TGF-beta and BRAFV600E were less efficient.
+ACT-SNAIL cells showed slightly but significantly enhanced tumor formation ability in in vitro sphere assay (~3 fold) but not in vivo subcutaneous tumor growth assay, and showed comparable chemosensitivity, as compared to the parental ACT-1 cells.
+However, of interest, although in vitro sphere formation ability of ALDH+ cells was almost unchanged after SNAIL induction, SNAIL overexpression induced much higher (~14 fold) spheres in ALDH- cells.
+Thus, ALDH was no longer a CSC marker in ACT-SNAIL cells.
+Conclusions: All these data indicate that EMT confers CSC properties in ALDH- cells and appears to influence the ability of ALDH to enrich CSCs.

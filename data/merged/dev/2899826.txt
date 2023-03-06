@@ -1,0 +1,7 @@
+Muscarinic cholinergic and histamine H1 receptor binding of phenothiazine drug metabolites.
+In vitro binding affinities of chlorpromazine, fluphenazine, levomepromazine, perphenazine and some of their metabolites for dopamine D2 receptors, alpha 1- and alpha 2 adrenoceptors in rat brain were previously reported from our laboratories.
+The present study reports the in vitro binding affinities of the same compounds for muscarinic cholinergic receptors and for histamine H1 receptors in rat brain, using 3H-quinuclidinyl benzilate and 3H-mepyramine as radioligands.
+Chlorpromazine, levomepromazine, and their metabolites had 5-30 times higher binding affinities for muscarinic cholinergic receptors than fluphenazine, perphenazine and their metabolites.
+Levomepromazine was the most potent and fluphenazine the least potent of the four drugs in histamine H1 receptor binding.
+7-Hydroxy levomepromazine, 3-hydroxy levomepromazine and 7-hydroxy fluphenazine had only 10% of the potency of the parent drug in histamine H1 receptor binding, while the 7-hydroxy-metabolites of chlorpromazine and perphenazine had about 75% of the potency of the parent drug in this binding system.
+Their histamine H1 receptor binding affinities indicate that metabolites may contribute to the sedative effects of chlorpromazine and levomepromazine.

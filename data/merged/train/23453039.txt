@@ -1,0 +1,13 @@
+Involvement of regucalcin in lipid metabolism and diabetes.
+Regucalcin (RGN/SMP30) was originally discovered in 1978 as a unique calcium-binding protein that does not contain the EF-hand motif of calcium-binding domain.
+The regucalcin gene (rgn) is localized on the X chromosome and is identified in over 15 species consisting the regucalcin family.
+Regucalcin has been shown to play a multifunctional role in cell regulation; maintaining of intracellular calcium homeostasis and suppressing of signal transduction, translational protein synthesis, nuclear deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) synthesis, proliferation, and apoptosis in many cell types.
+Moreover, regucalcin may play a pathophysiological role in metabolic disorder.
+The expression of regucalcin is stimulated through the action of insulin in liver cells in vitro and in vivo and it is decreased in the liver of rats with type I diabetes induced by streptozotocin administration in vivo.
+Overexpression of endogenous regucalcin stimulates glucose utilization and lipid production in liver cells with glucose supplementation in vitro.
+Regucalcin reveals insulin resistance in liver cells.
+Deficiency of regucalcin induces an impairment of glucose tolerance and lipid accumulation in the liver of mice in vivo.
+Overexpression of endogenous regucalcin has been shown to decrease triglyceride, total cholesterol and glycogen contents in the liver of rats, inducing hyperlipidemia.
+Leptin and adiponectin mRNA expressions in the liver tissues are decreased in regucalcin transgenic rats.
+Decrease in hepatic regucalcin is associated with the development and progression of nonalcoholic fatty liver disease and fibrosis in human patients.
+Regucalcin may be a key molecule in lipid metabolic disorder and diabetes.

@@ -1,0 +1,10 @@
+Expressions and mechanical functions of alpha1-adrenoceptor subtypes in hamster ureter.
+We characterized the alpha(1)-adrenoceptor subtypes in hamster ureters according to gene and protein expressions and contractile function.
+Real-time quantitative reverse-transcription polymerase chain reaction and immunohistochemical analysis were performed to determine mRNA levels and receptor protein expressions respectively, for alpha(1A)-, alpha(1B)- and alpha(1D)-adrenoceptors in hamster ureteral smooth muscle.
+alpha(1)-Adrenoceptor antagonists were tested against the phenylephrine (alpha(1)-adrenoceptor agonist)-induced contraction in isolated hamster ureteral preparations using a functional experimental approach.
+In the smooth muscle, relative mRNA expression levels for alpha(1a)-, alpha(1b)- and alpha(1d)-adrenoceptors were 10.7%, 1.2% and 88.1%, respectively, and protein expressions were identified for alpha(1A)- and alpha(1D)-adrenoceptors immunohistochemically.
+Noradrenaline and phenylephrine (alpha(1)-adrenoceptor agonist) each produced a concentration-dependent tonic contraction, their pD(2) values being 6.87+/-0.08 and 6.10+/-0.05, respectively.
+Prazosin (nonselective alpha(1)-adrenoceptor antagonist), silodosin (selective alpha(1A)-adrenoceptor antagonist) and BMY-7378 (8-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-8-azaspiro[4.5]decane-7,9-dione dihydrochloride) (selective alpha(1D)-adrenoceptor antagonist) competitively antagonized the phenylephrine-induced contraction (pA(2) values, 8.60+/-0.07, 9.44+/-0.06 and 5.75+/-0.07, respectively).
+Chloroethylclonidine (3x10(-6) mol/L or more) produced a rightward shift in the concentration-response curve for phenylephrine.
+Thus, in hamster ureters, alpha(1A)- and alpha(1D)-adrenoceptors were more prevalent than the alpha(1B)-adrenoceptor, with contraction being mediated mainly via alpha(1A)-adrenoceptors.
+If these findings hold true for humans, alpha(1A)-adrenoceptor antagonists could become useful medication for stone passage in urolithiasis patients.

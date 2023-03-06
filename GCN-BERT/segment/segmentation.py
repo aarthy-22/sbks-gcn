@@ -221,7 +221,7 @@ class Segmentation:
         # else:
         #     print("Define the path to the folder to save predictions ")
 
-        segment = self.get_Segments_from_sentence(self.ann_obj, self.file)
+        segment = self.get_Segments_from_sentence(self.ann_obj)
         return segment, self.ann_obj.relation_counts, self.ann_obj.annotations, self.ann_obj.num_relations
 
     def get_Segments_from_relations(self, ann):
@@ -426,8 +426,8 @@ class Segmentation:
             #     print(concept_1, start_C1, end_C1)
             #     print(concept_2, start_C2, end_C2)
         else:
-            concept_1 = self.doc.char_span(start_C2, end_C2, alignment_type='expand')
-            concept_2 = self.doc.char_span(start_C1, end_C1, alignment_type='expand')
+            concept_1 = self.doc.char_span(start_C2, end_C2, alignment_mode='expand')
+            concept_2 = self.doc.char_span(start_C1, end_C1, alignment_mode='expand')
         if concept_1 is not None and concept_2 is not None:
             # get the sentence the entities are located
             sentence_C1 = str(concept_1.sent.text)

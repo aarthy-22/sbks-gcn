@@ -43,7 +43,6 @@ class Annotation:
                 tags = line[1].split(" ")
                 entity_name = tags[0]
                 entity_start = int(tags[1])
-                print(ann_file_path, tags)
                 entity_end = int(tags[-1])
                 self.annotations['entities'][line[0]] = (entity_name, entity_start, entity_end, line[-1])
 

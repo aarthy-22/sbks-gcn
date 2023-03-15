@@ -6,6 +6,7 @@ import numpy as np
 from nltk.corpus import stopwords
 from sklearn.utils import shuffle
 from pytorch_pretrained_bert import BertTokenizer
+import os
 
 
 def del_http_user_tokenize(tweet):
@@ -89,11 +90,13 @@ class DataCleaning:
 
         tmp_word_freq = {}  # to remove rare words
         new_doc_content_list = []
+        bert_state_path = 'model_weights/biobert_base_v1.0_torch'
 
         # use bert_tokenizer for split the sentence
         if use_bert_tokenizer_at_clean:
             print('Use bert_tokenizer for seperate words to bert vocab')
-            bert_tokenizer = BertTokenizer.from_pretrained(bert_model_scale, do_lower_case=bert_lower_case)
+            #bert_tokenizer = BertTokenizer.from_pretrained(bert_model_scale, do_lower_case=bert_lower_case)
+            bert_tokenizer = BertTokenizer.from_pretrained(os.path.join(bert_state_path, 'vocab.txt'), do_lower_case=bert_lower_case)
         for doc_content in corpus:
             new_doc = doc_content
             # new_doc = clean_str(doc_content)

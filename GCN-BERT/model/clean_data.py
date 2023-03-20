@@ -90,7 +90,7 @@ class DataCleaning:
 
         tmp_word_freq = {}  # to remove rare words
         new_doc_content_list = []
-        bert_state_path = 'model_weights/biobert_base_v1.0_torch'
+        bert_state_path = '/sbksvol/jiawei/re-model-data/weights/biobert_base_v1.0_torch'
 
         # use bert_tokenizer for split the sentence
         if use_bert_tokenizer_at_clean:

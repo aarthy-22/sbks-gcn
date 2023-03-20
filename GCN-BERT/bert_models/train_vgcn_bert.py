@@ -37,7 +37,7 @@ class VGCN_BERT:
         MAX_SEQ_LENGTH = 200 + gcn_embedding_dim
         gradient_accumulation_steps = 1
         bert_model_scale = 'bert-base-uncased'
-        bert_state_path = 'model_weights/biobert_base_v1.0_torch'
+        bert_state_path = '/sbksvol/jiawei/re-model-data/weights/biobert_base_v1.0_torch'
         do_lower_case = True
         warmup_proportion = 0.1
         perform_metrics_str = ['weighted avg', 'f1-score']
